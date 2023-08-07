@@ -118,6 +118,20 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Lack of doctor readiness for ChatGPT integration in medicine"
+    excerpt: "Clinical decision support algorithms can be enormously helpful in helping guide health care providers in determining which antibiotics to prescribe."
+    publishedDateTime: 2023-08-07T10:03:00Z
+    webUrl: "https://telanganatoday.com/lack-of-doctor-readiness-for-chatgpt-integration-in-medicine"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 24
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/chatgpt.jpg"
+        width: 1280
+        height: 750
+        isCached: true
 
 secured: "GuDbX2cOZwnUDinXxZSycmSHq8t61i7vN5+un8CwQxE/e4pQ1v9f99yTuXh9GX1ghpHXVr+ajEb4uaCuce1aX2KxkyU40TM531tAmZTPizNV8y87BPp935ADe2eNtiLn1QpsfkZqIx3erNT05r09MqTl2b9Y2u4XY9/uLnmmhJ81M1ISU7NXwco3muIz9F9IcD5Za3vNkKctl7isslIsb1RyCRX1CBzLgBeh6iGa8sR4VZAUZDkOvYNxebTi/kPmdWYS4ST/alqexIyIyV3Fx8HHrvBzqiaG+Uo1PK+jBsEBxaEdf2r051hVbRn2BFNIzDCuhoHfLATbZakb31TLqRL3IwTe7G0+trdOFOAHgTn5ADOBcAs0q0tq6gzuqH8oyqnT3f3LTt5GaA+Dx2tCbdZIZY6h98u2CjXH82Re9DQIof0o4T8FYYf/zE4xn2ePW9e2bOQOpRF5m5LXrsdNvDsKDKb131OtiMP82JaRaOINsPAqDSK/MpdLMgqPY8Bqnv216d3wxV/KCDRz36d3MQ==;JuKZqn+q3tHQpwlIeY9BPQ=="
 ---

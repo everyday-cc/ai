@@ -76,15 +76,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 85
-  - title: "Build a personalized avatar with generative AI using Amazon SageMaker"
-    excerpt: "Generative AI has become a common tool for enhancing and accelerating the creative process across various industries, including entertainment, advertising, and graphic design. It enables more personalized experiences for audiences and improves the overall quality of the final products. One significant"
-    publishedDateTime: 2023-08-02T18:34:51Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-personalized-avatar-with-generative-ai-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
   - title: "Bring your own AI using Amazon SageMaker with Salesforce Data Cloud"
     excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. We’re excited to announce Amazon SageMaker and Salesforce Data Cloud integration. With this capability, businesses can access their Salesforce data securely with a zero-copy approach using SageMaker and use SageMaker"
     publishedDateTime: 2023-08-04T13:27:49Z
@@ -160,20 +151,6 @@ related:
       - url: "https://i.cdn.newsbytesapp.com/images/l71620230804153046.png"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Speech And Voice Recognition Market To Surpass 53.94 Billion By 2030 Drives Due To Revolutionizing The Human-Technology Interaction"
-    excerpt: "According to SkyQuest, the speech and voice recognition market is poised to be driven by a significant technological advancements and the increasing adoption of advanced electronic devices. One of the key drivers of market growth is the rising use of voice-activated biometrics for security purposes."
-    publishedDateTime: 2023-08-02T17:19:00Z
-    webUrl: "https://menafn.com/1106771121/Speech-And-Voice-Recognition-Market-To-Surpass-5394-Billion-By-2030-Drives-Due-To-Revolutionizing-The-Human-Technology-Interaction"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?101068"
-        width: 477
-        height: 250
         isCached: true
 
 secured: "yKCK96q/5APUOjDJKEJnbArrXHuBXYl4bkLxpQ5StOYh6QBr2Xgh6Yy4rv1d9fF61FvC1KeR9INhRua/rZejLzYZN0tKRYByfcg3Es+W3xwGtEEfySHBmC56Qns0SAHHUQZfHSGrOZFNTDcGnnCUDQfVITHRiE20tIVQNMUveJ648aoFmc9Bl4kVeiNkqy6gJ20eYH8cizZHzh7LsPqOhNIEbCmWq5S/RbBT70WGjM9mpzp2trlBR6cOYvowb70w4fWDUy3L1EmLyEGmltIj682laBYbQeUcG6S+VQko4Seyv6F3NkRo5amudZjaO64H21mdjDKgwDpsMtft3CMh6DBql1ibhdsIcPvmpPU/KZ0rLqkqFP8C9+PgGbolh80niiRPW4BmqjtdhbjP0GoCH8wErPYxkUAE7gh6ovm3U6VoOWHIrDVh6yKWBSw8GQosttWVQQco8XqPogZgMI5CdaA7vEC/ZxG+ZhpmEN7zrxW3tRjUhARLza5sPDyVcrTe+GegknSPUgJZZMOUXPfL9w==;FGxqgC81R3yUL17KplkPeA=="

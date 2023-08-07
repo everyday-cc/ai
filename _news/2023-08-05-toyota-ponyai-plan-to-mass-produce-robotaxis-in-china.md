@@ -75,6 +75,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Toyota forms $140K joint venture with self-driving startup Pony.ai and GAC"
+    excerpt: "Toyota announced on Friday a RMB 1 billion ($140,000) joint venture with self-driving car developer  and GAC-Toyota in the hope of"
+    publishedDateTime: 2023-08-07T10:06:00Z
+    webUrl: "https://technode.com/2023/08/07/toyota-forms-140k-joint-venture-with-self-driving-startup-pony-ai-and-gac/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
+        isCached: true
 
 secured: "jhet2rYES3j9k5iBjWSpnyuxHAcsbX6gFG70MOKkB14T5b7ho13v5Tv4Hy3GVPsW0K2Dv+IbBrSEjvXbI52SsFwGnlcCgFrbrPwCHKDF7wOOeKWotRJZRV+G/QZTz8NEWbT3hz2S1yqKA9Dy/rbF1O+d7LLLhJ/jrtLq6D87MFSGIrHgV1ddaZOxoVbNfZdeSqEdLepImJ9Bb/0Iq7xvoRI92KC5VKI8aBteDQJ3YPpMlh4QmVjIfnHAoShCxc2Ck4/4o6GEtFx+ftC8qZAUW0Vevj9KdFPRPuuCScXX8r1fX4RlgknhdYJ/BXQnA07WqAVKha2tYhrLYd56gmDwHq8qEe3Ew57aCvxkJ35ak9/Gc9EoX2fFr6wiqsKH1KDRYoa+hOnZqrqAMHARmjIVx1XlitSXuHLfRBNlF2nj3P9OGtFY5M8ppQBnYH90zCQNAOrclH43M8bQLMoAwmBGAWZmk3/aT9yhoJ3oU8od7tzYWmUJFdUf/VQW96DeexzuSm56OI/TNXdxgaZHgj7HYQ==;JWspXRo6DlJteaxAPwihtQ=="
 ---

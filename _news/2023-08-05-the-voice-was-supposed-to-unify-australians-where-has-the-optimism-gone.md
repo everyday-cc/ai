@@ -55,6 +55,22 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Q+A: Voice to Parliament referendum date yet to be set because Australians still 'need to be reached', Labor senator says"
+    excerpt: "which will be held between October and December Prime Minister Anthony Albanese says the referendum will not be delayed Prime Minister Anthony Albanese first announced a referendum on Indigenous recognition and an Indigenous Voice during last year's ..."
+    publishedDateTime: 2023-08-07T11:35:00Z
+    webUrl: "https://www.abc.net.au/news/2023-08-07/q-and-a-voice-to-parliament-referendum-date-panel/102696826"
+    ampWebUrl: "https://amp.abc.net.au/article/102696826"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102696826"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 19
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/010f095779dac5367c041ec9750a485d?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=57&width=862&height=485"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Nine Out Of 10 LGBT Australians Say They Will Vote Yes For Indigenous Voice: Survey"
     excerpt: "Twenty-two LGBTQI groups from across Australia have joined forces to advocate for the Indigenous Voice to Parliament, marking a significant milestone almost six years after the national postal survey on marriage equality."
     publishedDateTime: 2023-08-02T22:46:00Z

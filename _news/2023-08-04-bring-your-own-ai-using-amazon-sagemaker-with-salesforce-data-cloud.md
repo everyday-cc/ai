@@ -74,15 +74,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 85
-  - title: "Build a personalized avatar with generative AI using Amazon SageMaker"
-    excerpt: "Generative AI has become a common tool for enhancing and accelerating the creative process across various industries, including entertainment, advertising, and graphic design. It enables more personalized experiences for audiences and improves the overall quality of the final products. One significant"
-    publishedDateTime: 2023-08-02T18:34:51Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-personalized-avatar-with-generative-ai-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
   - title: "How organizations can successfully measure an application health monitoring process"
     excerpt: "Application health monitoring is a diagnostic process to identify application health issues and create a resolution plan before they become greater issues.\nThe post How organizations can successfully measure an application health monitoring process appeared first on IBM Blog.\n"
     publishedDateTime: 2023-08-03T13:52:50Z
@@ -163,20 +154,6 @@ related:
       - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMTYzM2EyMGUtYzhlYy00ZWZiLWFhYzEtYmMyNWIzYTYyYzIzLmpwZw==.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Speech And Voice Recognition Market To Surpass 53.94 Billion By 2030 Drives Due To Revolutionizing The Human-Technology Interaction"
-    excerpt: "According to SkyQuest, the speech and voice recognition market is poised to be driven by a significant technological advancements and the increasing adoption of advanced electronic devices. One of the key drivers of market growth is the rising use of voice-activated biometrics for security purposes."
-    publishedDateTime: 2023-08-02T17:19:00Z
-    webUrl: "https://menafn.com/1106771121/Speech-And-Voice-Recognition-Market-To-Surpass-5394-Billion-By-2030-Drives-Due-To-Revolutionizing-The-Human-Technology-Interaction"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?101068"
-        width: 477
-        height: 250
         isCached: true
 
 secured: "0nIt8mcpEfc6k5PKV22xrLyA+yVwOtmtVT7fvru9VbkPuqs7O+qsjbCS3XwwjMqFwvzmKupHYW6lPKQXA1EhN2sNGgXfbIAHqY5XYG92ZrNJXsqxvVZJ3Xj7SACLKTSBe5kplQc8JnDaRgqSW600zQz231rSZg3yrXMd5xjCcfdxJU2M/QVlmxgKe1fS4gM0LN0Ir5QnF476n2PUTxEDoX1z1ht0umvyR0WvXxAvTDAqLeHOFORWQYF/uJud8FVsaX7YAuD1ypWYYnpINibLIJgDTwBUXX59EqjuEhB3WcY+eCdRl1I76O9JPLxCE0EmVUlaf44g92NGO+K7ENIcKusA8k8swjkUKw5clRXfJ54=;MRT94BLWIQcClxnn3JMsvA=="

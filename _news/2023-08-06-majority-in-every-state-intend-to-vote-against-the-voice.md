@@ -24,17 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Business has a legitimate stake in the Voice debate"
-    excerpt: "Like the vast majority of Australians, many in the business community want a respectful and civilised debate on the recognition of Aboriginal and Torres Strait Islander Peoples in the constitution through the Indigenous Voice to parliament referendum."
-    publishedDateTime: 2023-08-02T19:00:00Z
-    webUrl: "https://www.afr.com/politics/federal/business-has-a-legitimate-stake-in-the-voice-debate-20230802-p5dt9y"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 4
-
 secured: "Zsn8cINflS3bAPmuw9i2F8WioyvXpu6HPpqPRav3puW/vyjwSK+iQn2We/FVdVlDUkooccIM9ku/PMW2wG/njn+4bIQt+SQq2pTdq66NBzy52pHFuPFxklt+08Qh80Y/vEjRSi+yQNBHj2y3mvnB/lEoxtyaWq6kNMZpksf6/A9PwPrmpGWL3aMiwsfOyxvom4l5vmuJQeB0C8A3AuY/nXVuDjPBRByVqAx+udPU/RjR3Dx4fdt2z0GBEXAe/MhlEniMESgZNqQ7U0Kk5XsiZtXDRPKakeiD7qa240kN63ntmYwozKKTobdoCEBzyMmWE3XToXWOeVnr4+w+7EhSdwq3CXJXRoT29yoDEf8oEqI=;FBPXVxe0umRxR1n1x9sIAw=="
 ---
 

@@ -15,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "v7Rd1geiuoVHpDtwOh8t6ataCVh2CI6FEYuECHqJf36kAy31gKFylpDHZqVdL/Q+1DiHZSON8tnXh7pc7qaJh1raOozfCuNhFra+jwwL8zEjnKH44Kjmv/Id8YislPEL9ovKeyFb4SzOeMPfF7UjWrLSAnz/2k5sf0A37053rgnlAunIDAOwFkRcM+bguo1sLzNpqkfJ4uhrYc5vDpzDK+5TWxGqI6VL7ge2g4MkuIooP45bD7xPJdi0FTV/NP5QLRDTcUXERH73Sxk953aBCrfufvi4z7Lh9BIoIO+bGMwTylGfLWgdv2N0d50T2mKbU7cUWCMGx/hMoUeHe4FER2DJvS2rGQZssxjEHx279so=;mKiUrhm0ZX1HOJgJH/W3Uw=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ca1b31a0-667c-4b71-9c2a-45bedef70d76/Rendition/low-res/Content/Public"
+    width: 700
+    height: 394
+    isCached: true
+
+secured: "G15NHkv8EtU4IUvl3C/gv/4tPXzHnoDW35fAsUqZyMGmI99cCWss/8bD7FkHRWfX+XG8gpSocClr5ESoxyA3ws7dMzDCzrZAsD8QvXe+LS6QIstcSaPdks9vzW4kipaNg0cMjMhRuMdmO4HiKwmqAFr4aV6vT8IaBjZWObVtI3yx2SqpOYaQwZH7s7EoAdXj4PE5FLbKkns86DZjoa4s0Ve3UIYDeKRMThk6ueveF16wbAvCGTvIdwOOMqR691xCJcRsV7EiV+XvIspltwYfFPeceDEYxaQ9jL89UQ59BhqtQv2SGeQFtCBpNJy+k3qT3UeoGLFVf5DerZpBJE2Yu255JeU/eTYH13dWM2UWUtA=;jb+6eGH/J+XMXIDCrizKqA=="
 ---
 

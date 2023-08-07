@@ -52,15 +52,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "Meta to launch AI chatbots with personalities to retain users"
-    excerpt: "The multinational technology company are developing variations of chatbots with different personalities and functions in a bid to improve user retention."
-    publishedDateTime: 2023-08-02T17:56:00Z
-    webUrl: "https://www.ibtimes.co.uk/meta-launch-ai-chatbots-personalities-retain-users-1718184"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 19
   - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
     publishedDateTime: 2023-08-06T19:00:00Z

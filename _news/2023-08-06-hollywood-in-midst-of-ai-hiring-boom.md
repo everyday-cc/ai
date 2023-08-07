@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Hollywood goes on AI hiring boon, despite WGA and SAG-AFTRA strikes"
-    excerpt: "Hollywood studios are rushing to hire AI professionals, despite ongoing strikes and layoffs. What could this mean for the industry’s future?"
-    publishedDateTime: 2023-08-02T19:00:00Z
-    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/campaign-finance-traffic-sag-wga/hollywood-ai-jobs"
-    type: article
-    provider:
-      name: KCRW
-      domain: kcrw.com
-    quality: 39
-    images:
-      - url: "https://www.kcrw.com/++theme++kcrw.theme/images/KCRW_Logo_White.png"
-        width: 542
-        height: 384
-        isCached: true
 
 secured: "WJ+2gJEeI/8XILN8y9FkZIbqo0IqeI1KoDnCjHHEe+pRA/CIw14i1OF00S9m35uYg10F83zfIefHWFke2JofUuyEPOgyg3/Mo12znz/7bnjDwVqUQHputEWLy+ej0ysPZ5Riun1gUBMp13B7HETQ8XFugdb05iBTA8hKf7NH4voS+tTR0gWpYbK1qqAPYZbLUi6hzg4l5R1VFJWbTK7I8RjpaYAbSR4OiJsLcFG5gytcWRMvnyRfvPrJJrm80Lo5rj3am/++KBw9ZHr2EBArNbXtgVTftlpL7GOoGa4rlaM8XjI9iYlBE2gy8VKhqZhmaeN050YD40DgPabirdlgXizSkMMcxwHB/GW9s1jdY26hGGlyudStnUB/XRmJeO+3dzUx0CgwLv5I6f7MbzBMA4Z0chqBTQrE0ffqouy4UlvBlnVm8pqsQZN3m7srlZbRk6BRSe8IhqYliMluEjQXz3l4VA/EwZsr1WxxyHZNVFZVC474avoQjCA5v9dFHNewxMDCgr+8MIKg1Z0YOVPAEQ==;Rgd0UvDNCfg1XmkQnE2YGA=="
 ---

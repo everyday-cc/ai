@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-07T09:05:00Z
 originalUrl: "https://www.thehrdirector.com/business-news/ai/tasks-shouldnt-delegate-artificial-intelligence/"
 webUrl: "https://www.thehrdirector.com/business-news/ai/tasks-shouldnt-delegate-artificial-intelligence/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.thehrdirector.com/wp-content/uploads/2021/05/AI5-scaled.jpg"

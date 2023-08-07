@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/2/92709_3652_openai-files-trademark-for-gpt-5-the-next-iteration-of-famous-chatgpt_full.jpg"
         width: 1500
         height: 843
+        isCached: true
+  - title: "Lack of doctor readiness for ChatGPT integration in medicine"
+    excerpt: "Clinical decision support algorithms can be enormously helpful in helping guide health care providers in determining which antibiotics to prescribe."
+    publishedDateTime: 2023-08-07T10:03:00Z
+    webUrl: "https://telanganatoday.com/lack-of-doctor-readiness-for-chatgpt-integration-in-medicine"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 24
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/chatgpt.jpg"
+        width: 1280
+        height: 750
         isCached: true
 
 secured: "wKYqOGL4wxPgr2iuwdxEUJmarj/EHqBc1FxstxXod0wPvywv1f1OsJP2WZTI5xaX/n3t22ce5q4HNacFkJU8WsNDbhQU+q4O03o42v2JocPqSfck0mBQJZR+MBsyg7uFdRLHiQiYwrfEn7o38KdGao17U/e0TqIBrsNigK95wLZER5MEgPq+UPGgY0/emfo5DA//3LQgAemNkQKRiKG4jiy+Gdi7NisDEObpedHHfGzfouekhz8xS4KGNelmMeVAqguUmgPFJEee+55PrjaX+i7eJNlH/O+QhXSNAzXSaL9r5ttZERb8M/+d/wf4oylaJxOhwEmTQ630+9G+oxEdivrAFM1ii58cgnxQebk0E1D8QGKYRjsJFcQOvrHukG6SYhAu7vS+krbbggJz+FLoKbsR07oQoEcKfhtwG2ObaL6wo+pPi0xr8F2c4CZfNaRJQKoRWAaxE/NnOM9ght3gJe8h2d2xF8uzcTrgf4rwch+8Iu++7P9uucss5St6UQSBOaf04Dl/awFHSONTlRhA4w==;i03v68AURSHZEghNYkPpHg=="

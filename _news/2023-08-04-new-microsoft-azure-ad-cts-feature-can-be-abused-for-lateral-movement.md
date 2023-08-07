@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-a
 cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1024
         height: 1536
         isCached: true
-  - title: "Beware of overly permissive Azure AD cross-tenant synchronization policies"
-    excerpt: "A new proof of concept shows that attackers can use Azure AD CTS to leap to Microsoft and non-Microsoft application across tenants."
-    publishedDateTime: 2023-08-02T18:21:00Z
-    webUrl: "https://www.csoonline.com/article/648486/beware-of-overly-permissive-azure-ad-cross-tenant-synchronization-policies.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 17
 
 secured: "F5Q3nGQkjw5lp0dxTDJbSnoXQdeKbNj74QPeOhOK7LCB/42ZnUF++gwepV6ehYYH7Mgljp2uzRhND3e9gDY+ubwOYF/xP3Uruhh3Bqmm783UsbjIdB6LUgHQX46zsiyMXoLboxMwCajzqPpNNTJL79j8MoGHvevyws+pXJ1xRZDDv3x+pdrkZwCEiJepWnsJMXIYfoXFSksaVtJxQRIe4RRj0FXdzAxnDNvHmPBosAxIplEPB6nBoUG5bySLaDxr6T0QIuRmBHc5oh69jMycBnkrNADR7C0zhShqTflucer2koEwfysRY+0S3oX0YOQhr9IBy+Ye6/DFxczzEFG33GN9o+lGLDLnm7QSMdd4fXo/Y4j4Pd+IPbeA0W8seciyn2f5kYqH7B+D93kIppe1+xRiURVUoJ8jgm9ER00Cwsf9ECBrobOxnglCzZom3yNca6y/zu8uc+RtaDTkSQQZ5Nd7hp8YcejPTKlKYm5sJI2+D+YWtVjbIRuSeOH7cKo0sVn+DsZBlmwvx6pJkqwvFQ==;SGUKpiWZ6Hzzg8BBDibOyw=="
 ---

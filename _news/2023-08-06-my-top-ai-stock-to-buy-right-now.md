@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-r
 webUrl: "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/"
 type: article
 quality: 69
-heat: 109
+heat: 110
 published: true
 
 provider:

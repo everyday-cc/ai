@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecuri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_Good_hacker_versus_a_bad_hacker_shown_in_the_style_o_254df582-0504-4e2e-8feb-d3806c5f8d82.png?w=1200&strip=all"
         width: 1200
         height: 960
+        isCached: true
+  - title: "Why do we need safeguards for AI? Cyber security, human manipulation"
+    excerpt: "AI has the potential to significantly improve our lives by finding new cures for diseases, cost-effectively educating the masses and solving some of humanity's most complex problems. However, I am also convinced that without the appropriate safeguards,"
+    publishedDateTime: 2023-08-07T11:48:00Z
+    webUrl: "https://wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/"
+    ampWebUrl: "https://wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 74
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+        width: 772
+        height: 434
         isCached: true
   - title: "Technologists Are The New Superheroes On Corporate Boards In The Age Of AI, Blockchain And CyberSecurity"
     excerpt: "As tech-driven disruptions and cyber threats reshape industries at an unprecedented pace, the need for technical expertise on corporate boards has never been more"

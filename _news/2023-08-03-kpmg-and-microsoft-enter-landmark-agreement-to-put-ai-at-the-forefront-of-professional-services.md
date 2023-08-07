@@ -42,15 +42,6 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "Beware of overly permissive Azure AD cross-tenant synchronization policies"
-    excerpt: "A new proof of concept shows that attackers can use Azure AD CTS to leap to Microsoft and non-Microsoft application across tenants."
-    publishedDateTime: 2023-08-02T18:21:00Z
-    webUrl: "https://www.csoonline.com/article/648486/beware-of-overly-permissive-azure-ad-cross-tenant-synchronization-policies.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 17
 
 secured: "zsJZDqgiDixF26rp3yt87b4eVVLnfksDeL+2HGK90SXkRJwA5P193J8HcaCvbLAZEZH+PfbKewR9DCKM29ihw5GRPKNGVQ296KVPtbFwlhFsB6K/42D62qI7ja5eCe1efFrrUmhQtrJNIQ/pPKabzCOxrlL6k8T6FYd4MDwRN2yzsG4YFc+vZXN4H7WUeolRG4U441IKObQ+IXFhIM9T0KOpJ/T1sYFnOKQueigwO/7kd4feQnipNv9cwBUeyNlWksYmaRQmAf+cziumtXMzqq0aiU69MCqvyz5KaOCgtL+qVnl5KpNXFrXqQkOCSk3iM/xZnALka2SsYx9uRBnHdsuyTj/9azzQ1uBKWznMtVQ=;02ORaCVh9Z0Rq167k5AXTA=="
 ---

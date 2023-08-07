@@ -35,15 +35,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Machine Learning, Blockchain Technology could Help Counter Spread of Fake News"
-    excerpt: "A proposed machine learning framework and expanded use of blockchain technology could help counter the spread of fake news, according to new research."
-    publishedDateTime: 2023-08-02T17:16:00Z
-    webUrl: "https://cacm.acm.org/news/275181-machine-learning-blockchain-technology-could-help-counter-spread-of-fake-news/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 30
 
 secured: "A9xGjUq6+7ZagPP9U2o61Ebtt/feWXl4gDM1Nh697XeC6qbE7lyNVNh+NbqYj/3YC/VOmNMDGuLlT04WH5R+umrEZ4Np7hKtirhJOlSe4jU6esrH4Sea67gOwOLKFphG0pJqThEVvPfgZ30I+p3qWlQleySu9MY5vxKKGOBtKEy9cIYSNfuzJRxsrFwhCoxAi2UPKNCEtwmtKUxt6e/1kjdn9oflQ7sMx9r+KMQjVidbdO/db+Xi5YAkPM9rR5RzXS7RLaT9Xp9E1G2OqsrNjRxvNXmMJbAfrjvGTJMWSJh0NfvXYcqjXFxK5j6LV1ZAJRIqFvoQssi29bKlmjkUHz/0iQzKHgoNG7BPeVlQM1c=;bGN6ZV8Nh9C0Kig3PjaQhw=="
 ---

@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 836
         isCached: true
+  - title: "Revolutionizing The Future: Unleashing The Power Of AI In An AI-First Cloud Paradigm"
+    excerpt: "To fully harness the potential of AI, a significant transformation of cloud infrastructure is necessary to handle AI workloads."
+    publishedDateTime: 2023-08-07T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd52914684645a13364b30/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 754
+        isCached: true
   - title: "How Artificial Intelligence (AI) is revolutionizing image editing"
     excerpt: "AI is revolutionizing image editing by enhancing quality, efficiency, and creativity. It's making professional editing accessible to all through tools like image upscaling, automating complex tasks, and opening new artistic possibilities. AI blends technology and art, shaping the future of digital imaging."
     publishedDateTime: 2023-08-04T11:07:00Z
@@ -48,6 +64,22 @@ related:
       - url: "https://www.artmajeur.com/medias/hd/j/e/jean-dubreil/blog/digital-designer.jpg"
         width: 1000
         height: 500
+        isCached: true
+  - title: "MC Interview | AI to revolutionise e-commerce immersiveness: Meesho Co-founder and CTO"
+    excerpt: "Using the AI system, it takes the team an average of 72 hours to find counterfeit products and remove them. Barnwal says that the team is making steady progress to lower the detection time further. As for ethics and principles guarding AI, Barnwal agrees ..."
+    publishedDateTime: 2023-08-07T11:33:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/mc-interview-ai-to-revolutionise-e-commerce-immersiveness-meesho-co-founder-and-cto-11115251.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/mc-interview-ai-to-revolutionise-e-commerce-immersiveness-meesho-co-founder-and-cto-11115251.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/mc-interview-ai-to-revolutionise-e-commerce-immersiveness-meesho-co-founder-and-cto-11115251.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 51
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/Sanjeev-Barnwal_Meesho-653x435.jpg"
+        width: 653
+        height: 435
         isCached: true
   - title: "The AI Revolution is Canceled"
     excerpt: "C&E published a magazine cover story with the ominous headline: “Artificial Intelligence Could Alter Campaigning As We Know It.” The piece focused on how pollsters will be […]"

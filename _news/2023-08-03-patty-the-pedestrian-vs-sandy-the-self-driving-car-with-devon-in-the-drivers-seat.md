@@ -103,15 +103,6 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 19
-  - title: "China at forefront of developing, rolling out driverless taxis: expert"
-    excerpt: "Provided by Xinhua Over the past four months 116 self-driving taxis have completed over 15 million test trips with more than 95 percent positive pa"
-    publishedDateTime: 2023-08-02T18:10:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273919341/china-at-forefront-of-developing-rolling-out-driverless-taxis-expert"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 19
   - title: "Congress urged to help get more self-driving vehicles on US roads"
     excerpt: "Advocates for auto companies and consumer technology firms on Wednesday urged a congressional subcommittee to adopt legislation to advance the development of self-driving cars, saying the U.S. will fall behind competitors, especially China, if the federal ..."
     publishedDateTime: 2023-08-06T09:19:00Z

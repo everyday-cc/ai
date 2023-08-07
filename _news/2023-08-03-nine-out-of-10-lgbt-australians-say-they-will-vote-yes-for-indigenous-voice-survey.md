@@ -69,6 +69,22 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Q+A: Voice to Parliament referendum date yet to be set because Australians still 'need to be reached', Labor senator says"
+    excerpt: "which will be held between October and December Prime Minister Anthony Albanese says the referendum will not be delayed Prime Minister Anthony Albanese first announced a referendum on Indigenous recognition and an Indigenous Voice during last year's ..."
+    publishedDateTime: 2023-08-07T11:35:00Z
+    webUrl: "https://www.abc.net.au/news/2023-08-07/q-and-a-voice-to-parliament-referendum-date-panel/102696826"
+    ampWebUrl: "https://amp.abc.net.au/article/102696826"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102696826"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 19
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/010f095779dac5367c041ec9750a485d?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=57&width=862&height=485"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "1X4eetG03gmam0Aja1Z6eMxvE6MET9a4Ke9jcleNZmABXZvf9QHKyBaldrSJbAK6sUy5m4F0Neg5Tq3WsyRxCWevzYxBVtWd+h2K4vFz6JA0UQV0DFDXLHUJe8zMIHgaG185tuAKmIyoVO1foRr9GaI8A6J2A+HI0P7a4SGzRlta0O46hDIkY+rs+/niwlCwjqiSyphz1HPTCwBIhOFYAUOEftBADDgGM225kq9j0z1m+RWsqiNFRs7xvsjANw0UpkE0fnVIfCNcnkEXcDJxtNtP56ihOdCxDV/KERj1Jdc+tYz6n+/uJf7jVrxgnDsU9JsK+PJNJL58d5pBquM4Wo9v4vXnfdg7e8NBSTQ6mSnh/tJBZ5IKPcAVmtwaWMNpmbf/XG9wCBOlT9lxXVzMZ7gkUchCZ9P6fhPRH6r6PflPCAwRpaZBexZOl03Gewd0uTkqwSgB3cKenLkshzUpXvXBlIlazi34t5hBE3b58DcIdsZLNaxYKeUnlASmbOJ7dzEb4S5AHycbdVhgC62REQ==;By+LCbUXR4uWNpnah3LNyQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-techno
 webUrl: "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-protects-one-of-america-s-largest-synagogues-1032512087"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nearly Half of America Is Worried AI Will Affect Their Job"
+    excerpt: "A large segment of Americans are concerned that artificial intelligence (AI) is going to force them out a job, a new poll by the Los Angeles Times reveals. All up, almost half of all Americans are worried about the consequences of AI,"
+    publishedDateTime: 2023-08-07T05:39:00Z
+    webUrl: "https://www.thedailybeast.com/almost-half-of-americans-are-worried-ai-will-affect-their-job-los-angeles-times-poll-says"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2813,w_5000,x_0,y_59/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1691375354/2023-07-30T143444Z_2001999282_RC2GX1ALRU97_RTRMADP_3_USA-STOCKS-AI_ikdfyr"
+        width: 1480
+        height: 833
+        isCached: true
   - title: "America’s Most Tech-Forward City Has Doubts About Self-Driving Cars"
     excerpt: "SAN FRANCISCO—This city’s inhabitants embraced computers, the Internet and cellphones before the rest of the world caught on. They are not so sure about self-driving cars."
     publishedDateTime: 2023-08-05T01:03:00Z

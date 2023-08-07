@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/capitalizing-on-cut
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/capitalizing-on-cutting-edge-technologies-investing-in-blockchain-and-ai/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Indiatimes
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning, Blockchain Technology could Help Counter Spread of Fake News"
-    excerpt: "A proposed machine learning framework and expanded use of blockchain technology could help counter the spread of fake news, according to new research."
-    publishedDateTime: 2023-08-02T17:16:00Z
-    webUrl: "https://cacm.acm.org/news/275181-machine-learning-blockchain-technology-could-help-counter-spread-of-fake-news/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 30
   - title: "Fintech Ecosystem Development Corp. (Nasdaq: Fexd) Looking To Leverage Blockchain Technology's Capabilities To Ease Cross-Border Money Transfers"
     excerpt: "FEXD is working to develop a global financial technology ecosystem comprising a network of mobile money platforms, technologies, applica"
     publishedDateTime: 2023-08-02T19:09:00Z

@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Meta to launch AI chatbots with personalities to retain users"
-    excerpt: "The multinational technology company are developing variations of chatbots with different personalities and functions in a bid to improve user retention."
-    publishedDateTime: 2023-08-02T17:56:00Z
-    webUrl: "https://www.ibtimes.co.uk/meta-launch-ai-chatbots-personalities-retain-users-1718184"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 19
 
 secured: "7EDrbpKzXC2GjksnsCK3V35uyAkgc6Fk0+FoLF9p2jhiXWfe2wngtvdiBrkvRnxCmReAxMe0zPyFEVdKKlD+zsdmVnQdQXWyg4SUqHX7q9EQghxBHBzunKPdykdFnMaP79F4WHJMX6RRSqN3O8qMhtI+efgr3zxUuqnyK2sgCAMRlFXlqZ/K8nb9XH7rb0vESoXUXvyFuWbm8d9+ptTdO1aTOmaRsvpngsBsjyVKCi3GwWUkL2ndYVh/ZUeVZkweNBUcQv89BZQ4qn3taFyseMKAIwh947fNayf7MjlCRnn/4IwvzVH2YqeQfSD8bHSojbSE2Svl/L2avMCT0NcI1hVWQ1xGP0Df2IHLHkbCVyeMrIXg6UJa6v6fWqk4VjH1wsKhrHoux5D1zGGFd/HM5RbVnP4+51uTALlSpiu6gcGqBcT2S02vxdqFZaCX/hxY9LzRWlyoZmqWVvEvhPXH/+C/hufN/lElKpJYxtmXVku0x0wn5EdUy0K8gjfvT8gdx1zXqO685gv5xsMVrnBmHg==;olBtGvXazqczQHqaQByp5Q=="
 ---

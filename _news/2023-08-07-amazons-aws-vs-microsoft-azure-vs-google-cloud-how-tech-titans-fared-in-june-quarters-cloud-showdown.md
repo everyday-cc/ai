@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33593955"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33593955"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Google Hires 5 Key Execs From AWS, Microsoft: Here’s Who"
-    excerpt: "AWS and Microsoft executives hired by Google recently include former Presidents, AI and ML leaders aimed at driving Google Cloud customer and sales momentum."
-    publishedDateTime: 2023-08-02T18:30:00Z
-    webUrl: "https://www.crn.com/news/cloud/google-hires-5-key-execs-from-aws-microsoft-here-s-who"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 36
   - title: "TCS rolls out neural manufacturing solutions on Microsoft Cloud"
     excerpt: "Tata Consultancy Services has launched a suite of TCS Neural Manufacturing solutions on Microsoft's Cloud for Manufacturing, designed to futureproof manufacturing operations, drive differentiation, and optimise value chains."
     publishedDateTime: 2023-08-03T19:12:00Z

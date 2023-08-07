@@ -57,20 +57,6 @@ related:
         width: 7753
         height: 4353
         isCached: true
-  - title: "Duke Health, Microsoft Launch Generative Artificial Intelligence Partnership"
-    excerpt: "The new collaboration between Microsoft and Duke Health will focus on how generative AI and cloud technology can advance health equity and improve care."
-    publishedDateTime: 2023-08-02T17:30:00Z
-    webUrl: "https://healthitanalytics.com/news/duke-health-microsoft-launch-generative-artificial-intelligence-partnership"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 53
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-845751048.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
     excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
     publishedDateTime: 2023-08-04T12:42:00Z

@@ -88,15 +88,6 @@ related:
       name: Daily Journal
       domain: djournal.com
     quality: 19
-  - title: "China at forefront of developing, rolling out driverless taxis: expert"
-    excerpt: "Provided by Xinhua Over the past four months 116 self-driving taxis have completed over 15 million test trips with more than 95 percent positive pa"
-    publishedDateTime: 2023-08-02T18:10:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273919341/china-at-forefront-of-developing-rolling-out-driverless-taxis-expert"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 19
   - title: "Patty the Pedestrian vs. Sandy the Self-Driving Car (with Devon in the Driver’s Seat)"
     excerpt: "Five years after the driver of Uber’s autonomous car killed a pedestrian, the driver pleaded guilty to one count of reckless endangerment and- sentenced to three years of supervised probation, no prison time."
     publishedDateTime: 2023-08-03T15:00:00Z

@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk announces Tesla has figured out aspects of artificial general intelligence"
+    excerpt: "Elon Musk has announced on his X account that Tesla has figured out some aspects of artificial general intelligence, 'the car has a mind.'"
+    publishedDateTime: 2023-08-07T09:36:00Z
+    webUrl: "https://www.tweaktown.com/news/92735/elon-musk-announces-tesla-has-figured-out-aspects-of-artificial-general-intelligence/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 32
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92735_62626_elon-musk-announces-tesla-has-figured-out-aspects-of-artificial-general-intelligence_full.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Nothing artificial about genuine intelligence"
     excerpt: "I get some of my best cardio from pearl clutching and outrage, so naturally I read everything I can get my hands on about artificial intelligence, especially ChatGPT."
     publishedDateTime: 2023-08-06T06:14:00Z

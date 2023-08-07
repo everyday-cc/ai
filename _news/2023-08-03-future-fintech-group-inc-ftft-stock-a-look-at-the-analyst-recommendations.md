@@ -24,17 +24,6 @@ images:
     height: 424
     isCached: true
 
-related:
-  - title: "Digital Finance Africa Recap: Unlocking the Future of Fintech"
-    excerpt: "Christoff Pienaar and Anelisa Ndebele from Webber Wentzel touched on subjects like emerging trends in Fintech, like crypto currency being declared an asset, financial inclusion and exploring the opportunities for a rand backed digital currency and the influence of geopolitics on the African Market."
-    publishedDateTime: 2023-08-04T12:23:00Z
-    webUrl: "https://www.itnewsafrica.com/2023/08/digital-finance-africa-recap-unlocking-the-future-of-fintech/"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 19
-
 secured: "skReg6jxuAmkDeIikHzD1SJk4EJowNlxaOmCZDlUzVoH1YxYRnRkk2oBR0zNAmgIPRVYzm5L2y3TgwMimM4uLk2R4oKVM7B0pyRC6jgA1rS2ySXe8YaPOdp/Lli7U45CVJbtggk9aWbyxCbibBrs2l5sgIpJDS6GMMxULoulcuTaA23AqBvVQZvNufJ481K/PP2NGbmp5IGnFOR1Z8CDyPHGNwAKcHSdW+cirTsUrX/TjWxaBJhye9zZu33VeDXJZjkIRAd8eABD40uygJaeyNAwhiwt6lhiLxljxZMX9BypBc2ESi7xPC8jRIcjMCTvyH+XAeDDKdJ9IHAllHxP9qi2C7c2FJqjfxHvZa+Qkbg=;t5Nz0MYO3Rrikp4WEvK5hQ=="
 ---
 

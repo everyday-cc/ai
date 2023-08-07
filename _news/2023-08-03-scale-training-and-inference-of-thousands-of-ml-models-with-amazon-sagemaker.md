@@ -67,15 +67,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 85
-  - title: "Build a personalized avatar with generative AI using Amazon SageMaker"
-    excerpt: "Generative AI has become a common tool for enhancing and accelerating the creative process across various industries, including entertainment, advertising, and graphic design. It enables more personalized experiences for audiences and improves the overall quality of the final products. One significant"
-    publishedDateTime: 2023-08-02T18:34:51Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-personalized-avatar-with-generative-ai-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
   - title: "Bring your own AI using Amazon SageMaker with Salesforce Data Cloud"
     excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. We’re excited to announce Amazon SageMaker and Salesforce Data Cloud integration. With this capability, businesses can access their Salesforce data securely with a zero-copy approach using SageMaker and use SageMaker"
     publishedDateTime: 2023-08-04T13:27:49Z
@@ -165,20 +156,6 @@ related:
       - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMTYzM2EyMGUtYzhlYy00ZWZiLWFhYzEtYmMyNWIzYTYyYzIzLmpwZw==.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Speech And Voice Recognition Market To Surpass 53.94 Billion By 2030 Drives Due To Revolutionizing The Human-Technology Interaction"
-    excerpt: "According to SkyQuest, the speech and voice recognition market is poised to be driven by a significant technological advancements and the increasing adoption of advanced electronic devices. One of the key drivers of market growth is the rising use of voice-activated biometrics for security purposes."
-    publishedDateTime: 2023-08-02T17:19:00Z
-    webUrl: "https://menafn.com/1106771121/Speech-And-Voice-Recognition-Market-To-Surpass-5394-Billion-By-2030-Drives-Due-To-Revolutionizing-The-Human-Technology-Interaction"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?101068"
-        width: 477
-        height: 250
         isCached: true
 
 secured: "mzc6P361CBaAKoIY/S+0x5FS4OlGPGCoBwtKfICOw2pJ0egPb6rfsjjiSedl5S5tOuIyWv58gMb3ZRZ/HUZE+PW89coDxbU9eNiLTxhaIiw3BdSRdyo5I0mqizxGELVYsCu4fy3EeiTtx716ZK0PqW8jXgfsOStG+/rfGOZ/NsIJaJi1VKxjawrhqb/gIYUnKJi2DlfmPy6hB59t7Vwgy85wv/6cYsJ9UxFWAkrkkeOgmVAj8NBkVH7Vvg8JQkSdlzueuKhKZ7Y0EZRDJw+2eoc5itLiN/+b92rtmjHYMpfQivBzt1m5DhyOuDWVTIvUlbWmYaqDCUVH9DPiEG9mtPj1sdBgghozfxFeKy9dcRQ=;7U6c4FyWO+BXD6pg2FfYug=="

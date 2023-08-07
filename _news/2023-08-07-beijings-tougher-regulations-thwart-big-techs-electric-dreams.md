@@ -18,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Beijing’s tougher regulations thwart Big Tech’s electric vehicle dreams"
+    excerpt: "The search group partnered with carmaker Geely Holding to set up Jidu in 2021, with Baidu holding a majority stake and keen to make a vehicle that showcases its self-driving technology. The two groups have invested $1bn in the project and are working to ..."
+    publishedDateTime: 2023-08-07T09:31:00Z
+    webUrl: "https://www.ft.com/content/29d20e6c-29d0-4603-abeb-caf55f5dd9c3?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 4
+
 secured: "oruywhu4xngmwL4SgyZTE1C9peuV4VkGyzK05qEW+pove4NYqCiSX7y3xGmKRRnk2iA3zp0lApTSqVq/URnikm1ZiwpUvgGaSLLBFjJmA1LQ++Lhle2FzYC7o7fLUNdlGL0DgTQvnwn9s8EQtSyMaetLjdgUldAi8aeJR6jP+Ujk8kMJRY7tCEtrb940syR34cqeuz5/lfWidN8pBFFa8RvZX+c776bUYAzhntTShk2KJYAxF1ES6ps0H0fsSva7eos0n1lkI8Xtw5EaknZDvWrjuVzBzn3YCorkR21mwQ8DdEeEAjwJKSV7pBR9s7lrwq4XY8hKzc6rg1ejbRklgForLky3anh4fbygzh09EJM=;+vwgOW2ht07e+3yrtxuoeg=="
 ---
 

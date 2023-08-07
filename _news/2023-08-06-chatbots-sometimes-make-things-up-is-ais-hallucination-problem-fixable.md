@@ -9,7 +9,7 @@ ampWebUrl: "https://www.normantranscript.com/region/chatbots-sometimes-make-thin
 cdnAmpWebUrl: "https://www-normantranscript-com.cdn.ampproject.org/c/s/www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.amp.html"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Meta to launch AI chatbots with personalities to retain users"
-    excerpt: "The multinational technology company are developing variations of chatbots with different personalities and functions in a bid to improve user retention."
-    publishedDateTime: 2023-08-02T17:56:00Z
-    webUrl: "https://www.ibtimes.co.uk/meta-launch-ai-chatbots-personalities-retain-users-1718184"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 19
   - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
     publishedDateTime: 2023-08-06T19:00:00Z

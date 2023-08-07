@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hollywood goes on AI hiring boon, despite WGA and SAG-AFTRA strikes"
-    excerpt: "Hollywood studios are rushing to hire AI professionals, despite ongoing strikes and layoffs. What could this mean for the industry’s future?"
-    publishedDateTime: 2023-08-02T19:00:00Z
-    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/campaign-finance-traffic-sag-wga/hollywood-ai-jobs"
-    type: article
-    provider:
-      name: KCRW
-      domain: kcrw.com
-    quality: 39
-    images:
-      - url: "https://www.kcrw.com/++theme++kcrw.theme/images/KCRW_Logo_White.png"
-        width: 542
-        height: 384
-        isCached: true
   - title: "Hollywood in midst of AI hiring boom"
     excerpt: "Sony is pursuing hires related to AI ethics. And Amazon Prime Video and CBS both are looking to fill AI-related roles of their own, as the Hollywood Reporter recently reported. With the technology improving and the venture capital flowing, stakeholders ..."
     publishedDateTime: 2023-08-06T07:20:00Z

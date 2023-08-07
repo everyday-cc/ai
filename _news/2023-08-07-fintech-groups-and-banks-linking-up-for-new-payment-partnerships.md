@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "J.P Morgan To Launch AI Program To Boost AI Fintech Innovation In Partnership With TIFIN"
-    excerpt: "In a significant move for the fintech sector, TIFIN, a leading artificial intelligence (AI) platform for wealth, and J.P. Morgan (NYSE: JPM) have announced the launch of TIFIN.AI."
-    publishedDateTime: 2023-08-05T16:32:00Z
-    webUrl: "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33585861"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33585861"
+  - title: "European fintech players are bracing for market consolidation"
+    excerpt: "When Monzo published its latest annual revenue figures in February, it provided a flicker of light after months of headlines about fintech down rounds and job cuts. The accounts showed that the UK dig"
+    publishedDateTime: 2023-08-07T09:47:00Z
+    webUrl: "https://thenextweb.com/news/european-fintech-players-bracing-market-consolidation-across-the-market"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/08/04/contributors_4_0.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FUntitled-design-6-2.jpg&signature=bdddb9af2169a3041de36e8b6d85395c"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Spotlight On Crypto Innovations In Fintech"
     excerpt: "Welcome to our exploration of“Spotlight on Crypto Innovations in Fintech.” In this spotlight, we delve into the dynamic intersection of cryptocu"

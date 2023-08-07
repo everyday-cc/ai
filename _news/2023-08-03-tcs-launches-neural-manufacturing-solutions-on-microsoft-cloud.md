@@ -57,15 +57,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google Hires 5 Key Execs From AWS, Microsoft: Here’s Who"
-    excerpt: "AWS and Microsoft executives hired by Google recently include former Presidents, AI and ML leaders aimed at driving Google Cloud customer and sales momentum."
-    publishedDateTime: 2023-08-02T18:30:00Z
-    webUrl: "https://www.crn.com/news/cloud/google-hires-5-key-execs-from-aws-microsoft-here-s-who"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 36
   - title: "TCS rolls out neural manufacturing solutions on Microsoft Cloud"
     excerpt: "Tata Consultancy Services has launched a suite of TCS Neural Manufacturing solutions on Microsoft's Cloud for Manufacturing, designed to futureproof manufacturing operations, drive differentiation, and optimise value chains."
     publishedDateTime: 2023-08-03T19:12:00Z
@@ -76,6 +67,6 @@ related:
       domain: gadgetsnow.com
     quality: 19
 
-secured: "5rufWrGmt2rXKs6Jcp+OeMh4d9RJi5AJQ/AS7hG5GyCA3RroagMlK+YK4jpOPqPW3Wa9R6LUyRGCbosv/Tb0YaicL3yvtqfrmwLR2hitDqUpmFvq5EZNkKWYWzot3FuLCjrEVqcnGT8EqvAxoWxDG3rXBvwYJajVyxSM7OSAH8q+CsBLuIDE3BpwgrxentvE1MdcVf9T6WxOnGKLONF/ZWRLejrmaIpC6TqL+lNb7d3TnovA7EFLbRIPlc+WiJdYQ0EyMZ5jx+cFoFYUB2YQEJr9QgcmfdcxVz7nAsyZU0PPz2j/LP9PWZObCTZFc/wx6rey/AH8ukXMqrUUgsKnHXCYMpOPLHIruziLA1GOguc=;2eUcxaQh9vaUweHZvhF03A=="
+secured: "dwc6bQgmjEbzjDbjnpNxTLS1v9fj63YFq9Pgpk1RLjAWzHrog+zPutoMoBYovSgX/cTvSQzm1vu5JW+P3WyJRI1iCM4JHcv0rDnVw6EzCEH//J/q/nsECtccw4OTeJLcSMPUyMJhmc5CEEFVM2vU1o4JuBXcXmFf0LCJwNa3x1J2Nb446nt0fSaJKv/hBb4YJwVoM/MRVSQWPJVvTn9kHCfl6E+J+XQ7GCPNKC+wD/nx0sJT2CzMB8ncIOLs0+WxvoAKX0QD0KprIAerWOw4gHS7T1gt6BtaJqZRJmzgE5VYN97nJn89QWDitpROZB4D1s14CKW5jj2fDUC27GUEYYm+tcaUu6U751p8vufYYl2jecAB3RKvLvS2nmangiF/JBmF9W/L12GLJWMMRQWELTpvS+j8X4W+iXaenyWynaF+OzulwP9AJqc6oNeLBzEGWVn1Tzjk6gTnwuQB++LvmPe/8GzHaz0xAAEqBHLiy22pTPdWxR+MHdTXTTHgJtpzQkN2lA64rQsZJJUXl9kuAQ==;imk+pNaFtG6EbCfke8NFMg=="
 ---
 

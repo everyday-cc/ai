@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/"
 type: article
 quality: 100
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.hstoday.us/wp-content/uploads/2020/07/artificial-intelligence-4478109_1920.jpg"
         width: 1920
         height: 784
-        isCached: true
-  - title: "Duke Health, Microsoft Launch Generative Artificial Intelligence Partnership"
-    excerpt: "The new collaboration between Microsoft and Duke Health will focus on how generative AI and cloud technology can advance health equity and improve care."
-    publishedDateTime: 2023-08-02T17:30:00Z
-    webUrl: "https://healthitanalytics.com/news/duke-health-microsoft-launch-generative-artificial-intelligence-partnership"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 53
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-845751048.jpg"
-        width: 690
-        height: 400
         isCached: true
   - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
     excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
