@@ -30,22 +30,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Garma is a festival of political discussion and celebration of culture. Will the Voice be a central theme?"
-    excerpt: "The Garma Festival has a long history of being a significant site for cultural celebration and political discussion. As we approach the referendum announcement, this brings much focus to the Voice."
-    publishedDateTime: 2023-08-04T01:54:00Z
-    webUrl: "https://theconversation.com/garma-is-a-festival-of-political-discussion-and-celebration-of-culture-will-the-voice-be-a-central-theme-210715"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 6
-    images:
-      - url: "https://images.theconversation.com/files/541132/original/file-20230804-15-t9qc82.jpg?ixlib=rb-1.1.0&rect=17%2C221%2C3976%2C1988&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
-
 secured: "Sr8Qaj73QFslDGXDIZXBaKp/YaxZvnp/dvzpMEuomk5CWO1QNw9QaR9pS9pdmgeIKXrK9YyJjKfm5FcDf4NhtjCbxy2CN5sma5t9T0vM0jzR7YPaajmligmnmcexTi7oJeCa8KUhZXOURw/i8+mr3nEpKyTsb57V8pBXEAoodZZNfF66PcdcZo8qgjs5PWdWBLNsZI3XXqRwzeGlNv917d4IEW6ZEfvgYGr+zz44q5ANGWrNEBpU+szXJxUpbtiW4qiSD15Di4Yvi+BuqxJdWsw4x/eXnbHiRfaDaTdV+BUGNbh49kB7fHKvdQ6LODqWlg19rO8hTB/cI1K/VkvPqAC5NRasmxfZh/Zi3HZls+s=;TevddecuKynUnSg9KH0BeQ=="
 ---
 

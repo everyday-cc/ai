@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/08/even-the-pope
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/even-the-pope-is-worried-about-ai-and-its-disruptive-possibilities/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "The Pope Doubles Down on AI Concerns"
+    excerpt: "Pope Francis is making his AI concerns clear once again, using this year's World Peace Day to issue a call for AI caution and responsibility."
+    publishedDateTime: 2023-08-08T21:56:00Z
+    webUrl: "https://futurism.com/the-byte/pope-ai-concerns"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/08/pope.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "nvDAwXgDVDrr1vRWOPwO16r4lWEbS6Fj3nZ6XfG9IHrTpktxHuIGEkdEgzKMweQ5HxSLAQPtt+KM7bKbsN3pI6YDlNKCUXiGEya3iYVSRpxaShlb5KwmT2x9ErJ1RgTa1K4vkLmtBF9+cC1A14A531jr+yEdOAPn2Q+IEAkEIuYrqGCRQN3CkQg5IPiBiUltwS5msQIv3MwutiasSIXy/tFhmS3KV2qWrgPDezN5WvdXduluaFfF4ka0yjSvkyalUPR3ng0jUlkXJacvq0U/iQmeRNny6V3ClEo6pFLhFy/nJZWLIFF3RMAyz2RFeUUZtRxB38ojdrpR21tZfW/lO8pfJYRm0Gw2gSL67vMU9HE=;HQQTipNQMYd/P1PKW/jWBw=="
 ---

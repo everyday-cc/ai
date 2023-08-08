@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-08T18:35:00Z
 originalUrl: "https://www.axios.com/pro/health-tech-deals/2023/08/08/health-systems-lag-ai-strategy"
 webUrl: "https://www.axios.com/pro/health-tech-deals/2023/08/08/health-systems-lag-ai-strategy"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Axios

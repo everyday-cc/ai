@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
+    excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
+    publishedDateTime: 2023-08-08T21:11:00Z
+    webUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+    ampWebUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 68
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
+        width: 1680
+        height: 971
+        isCached: true
   - title: "Pregnant woman arrested after facial recognition tech error"
     excerpt: "Porcha Woodruff is the third person wrongly arrested by Detroit police due to the AI software in as many years."
     publishedDateTime: 2023-08-07T20:00:00Z
@@ -288,6 +304,15 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 19
+  - title: "Pregnant woman's arrest in carjacking case spurs call to end Detroit police facial recognition"
+    excerpt: "A Detroit woman who was arrested in connection with a suspected robbery and carjacking when she was eight months pregnant is suing the city and one of its police officers for what she says is an over-"
+    publishedDateTime: 2023-08-07T20:02:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/pregnant-womans-arrest-carjacking-case-spurs-call-end-102081277"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 7
   - title: "‘I Was Scared’: Detroit Woman Wrongly Arrested While 8 Months Pregnant for Carjacking, Robbery Due to Botched Facial Recognition Technology"
     excerpt: "A 32-year-old Detroit, Michigan, woman is taking legal action against the city after she was falsely accused of carjacking and robbery due to a facial"
     publishedDateTime: 2023-08-08T14:44:00Z

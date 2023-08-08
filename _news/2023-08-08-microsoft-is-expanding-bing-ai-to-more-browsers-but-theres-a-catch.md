@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-expanding-bing
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/"
 type: article
 quality: 104
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure AI Adds GPT-4 and New Virtual Machines"
+    excerpt: "Microsoft is also working on creating guidelines for red teams working on making sure generative AI is both secure and responsible."
+    publishedDateTime: 2023-08-08T20:52:00Z
+    webUrl: "https://www.techrepublic.com/article/azure-ai-gpt-4-virtual-machines/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 101
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8823-azure-openai-770x465.jpeg"
+        width: 770
+        height: 465
+        isCached: true
   - title: "Leidos-Microsoft Partnership Is Latest Sign AI Is Taking The Defense Industry By Storm"
     excerpt: "Defense firms are vigorously pursuing use of artificial intelligence in their product offerings, but the challenges are different from those of civilian AI applications."
     publishedDateTime: 2023-08-07T16:08:00Z

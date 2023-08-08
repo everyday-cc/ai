@@ -24,6 +24,17 @@ images:
     height: 700
     isCached: true
 
+related:
+  - title: "Children's Hospital Los Angeles looks to machine learning to improve ventilator outcomes"
+    excerpt: "Researchers at Children's Hospital Los Angeles are using machine learning to understand and detect Patient-Ventilator Asynchrony."
+    publishedDateTime: 2023-08-08T18:18:00Z
+    webUrl: "https://www.beckershospitalreview.com/patient-safety-outcomes/childrens-hospital-los-angeles-looks-to-machine-learning-to-improve-ventilator-outcomes.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 10
+
 secured: "8jdTcAYI9MvyEkJRBQVP3p3LdTIN3N1Aw4zklOMPE8ayBq+a0b+ebNfFgGA1KcPB9jZTVQGJ9KpnpwZYum1dlI1hRcc70YSp44YDgdbWlrthXPjPYB0wrCI2+7y68iNrp9BJMtdAtSq0MWaAu7/brNAVtgumt1QFFPWM+V0qP8FgjzAmnukgN36DxZ3n4+xNkpxYAHBR4TEK/8zhWs5uhJMmNp20b5Qf2d3mTxDvvz7wbkmwSlahZFvt0R3JDqyUzZgjWBGjkD5s034mxZ6ZRt+u/vs7avK+q3nh8dQtwpL4ATdhlYzgd/a9ySMPA0Vsc5TQheNxv5grPcy1K/lmmsuyr3+xR0mlBKtHdoeH7l/irQk51dv5YnJS3H5Y8uNWJyjjsPjq+U4lt1ntJgG0ySqmp3mJk29MwknxML0U1SCMzOM4vcWTJNG0DRrM40HHEEDmLwakWZCYH3wcBqCxCwGq6sCgPvPbDo63ClIMNu2JKBDFE6C5n97YbHcGbqDNNJ9RCTEpTANkVa8lLrIvuw==;TOLwvOdk///465JoPqRdWg=="
 ---
 

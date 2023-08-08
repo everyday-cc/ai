@@ -32,7 +32,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 86
+    quality: 103
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/107283370-1691509319958-Photo-for-dotcom.jpg?v=1691512117"
         width: 3000

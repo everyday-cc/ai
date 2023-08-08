@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/from-lag
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/from-laggard-to-leader-how-the-insurance-industry-is-embracing-ai-to-deliver-real-business-benefits/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Forbes
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 Industries Where AI is Changing How We Do Business"
-    excerpt: "When it comes to AI disruption, these industries are ahead of the curve -- and previewing what's next elsewhere in the economy."
-    publishedDateTime: 2023-08-04T06:18:00Z
-    webUrl: "https://www.inc.com/joel-comm/4-industries-where-ai-is-changing-how-we-do-business.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1202232039_532969_bkzhsz.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Al Trailblazer Bud Financial Launches Bud.ai, a Generative Al Core Platform to Deliver Hyper-personalized Banking Experiences"
     excerpt: "Bud Financial (Bud) unveils an all-new generative Al core to its data intelligence platform, enabling banks and financial services organizations to apply Al to every consumer engagement. The Bud.ai platform will empower any financial services organization to transform their transaction data into powerful new customer insight and achieve the holy grail of personalization at scale in customer experience."
     publishedDateTime: 2023-08-08T15:59:00Z

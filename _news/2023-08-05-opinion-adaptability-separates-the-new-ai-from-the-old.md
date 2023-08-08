@@ -43,6 +43,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Disney AI task force aims to cut costs, enhance experiences across the company"
+    excerpt: "The Walt Disney Company has formed a task force to investigate the potential applications of AI throughout its various business units, reports Reuters, including cutting costs and enhancing customer experiences. This comes despite ongoing Hollywood writers' and actors' strikes that have put some AI technologies in the crosshairs."
+    publishedDateTime: 2023-08-08T18:50:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/disney-ai-task-force-aims-to-cut-costs-enhance-experiences-across-the-company/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 43
   - title: "Guest Opinion: If artificial intelligence takes your job, it should pay you"
     excerpt: "Actors love residuals. Don’t worry, this is not some annoying Hollywood thing like quinoa or crystal healing. I actually do like quinoa — sorry. Anyway, what are residuals?"
     publishedDateTime: 2023-08-05T10:00:00Z

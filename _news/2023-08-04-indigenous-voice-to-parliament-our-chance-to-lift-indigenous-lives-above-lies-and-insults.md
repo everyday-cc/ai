@@ -43,17 +43,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
-  - title: "‘No aspect of our national life is beyond the Indigenous voice to parliament’"
-    excerpt: "Welcome to the column where you provide the content. Indigenous artist and member of Anthony Albanese’s referendum advisory group Sally Scales says the AUKUS nuclear submarine project has the potential to impact Indigenous communities,"
-    publishedDateTime: 2023-08-04T02:44:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/no-aspect-of-our-national-life-is-beyond-the-indigenous-voice-to-parliament/news-story/dd6c02117cf2985f5cfea0efbf379900"
-    ampWebUrl: "https://www.theaustralian.com.au/commentary/no-aspect-of-our-national-life-is-beyond-the-indigenous-voice-to-parliament/news-story/dd6c02117cf2985f5cfea0efbf379900?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/no-aspect-of-our-national-life-is-beyond-the-indigenous-voice-to-parliament/news-story/dd6c02117cf2985f5cfea0efbf379900?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 21
   - title: "An Indigenous voice to parliament — like Garma — is two cultures embracing for the betterment of both"
     excerpt: "I had the honour of paying tribute to the life and legacy of a truly great Australian. A man it is hard to imagine Garma without. Yunupingu walked in two worlds: with authority, power and grace. And he sought – always – to make those two worlds whole."
     publishedDateTime: 2023-08-04T11:08:00Z

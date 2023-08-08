@@ -60,6 +60,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Generative AI Highlights NVIDIA Keynote at SIGGRAPH 2023"
+    excerpt: "At the SIGGRAPH conference, NVIDIA showcased its efforts to make generative AI not only more accessible but also more versatile. Through strategic partnerships and technological advancements, NVIDIA’s innovations echo a significant industry trend where many different sectors are beginning to harness the power of AI."
+    publishedDateTime: 2023-08-08T18:20:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-highlights-nvidia-keynote-at-siggraph-2023/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 71
+    images:
+      - url: "https://b2758374.smushcdn.com/2758374/wp-content/uploads/2023/05/top-generative-ai-apps-tools-696x464.png?lossy=1&strip=1&webp=1"
+        width: 696
+        height: 464
+        isCached: true
   - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
     excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
     publishedDateTime: 2023-08-08T16:51:00Z
@@ -69,6 +83,24 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
+    excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
+    publishedDateTime: 2023-08-08T18:44:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861323.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "Shutterstock Collaborates to Bring NeRF Generative AI Technology to 3D Creators Globally"
+    excerpt: "As a trusted partner, Shutterstock also collaborates with NVIDIA, Meta, OpenAI, LG and other leaders in the tech industry to develop foundational generative AI tools and standards for creators across 3D, images and text."
+    publishedDateTime: 2023-08-08T19:41:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861384.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
   - title: "NVIDIA, Global Workstation Manufacturers to Launch Powerful Systems for Generative AI and LLM Development, Content Creation, Data Science"
     excerpt: "The systems, including those from BOXX, Dell Technologies, HP and Lenovo, are based on NVIDIA RTX 6000 Ada Generation GPUs and incorporate NVIDIA AI Enterprise and NVIDIA Omniverse™ Enterprise software."
     publishedDateTime: 2023-08-08T17:35:00Z

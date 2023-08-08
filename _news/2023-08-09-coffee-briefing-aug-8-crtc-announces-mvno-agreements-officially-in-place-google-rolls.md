@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-08T19:15:00Z
 originalUrl: "https://www.itworldcanada.com/article/coffee-briefing-aug-8-crtc-announces-mvno-agreements-officially-in-place-google-rolls-out-privacy-features-aws-commits-100000-to-support-local-initiatives-in-calgary-and-more/544320"
 webUrl: "https://www.itworldcanada.com/article/coffee-briefing-aug-8-crtc-announces-mvno-agreements-officially-in-place-google-rolls-out-privacy-features-aws-commits-100000-to-support-local-initiatives-in-calgary-and-more/544320"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: IT World Canada

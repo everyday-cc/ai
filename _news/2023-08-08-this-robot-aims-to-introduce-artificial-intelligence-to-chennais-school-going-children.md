@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/cities/chennai/this-robot-aims-to-intr
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "The 3 Best AI Chip Stocks to Buy in August"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Until the trend fails, chip stocks should remain in focus. Throughout 2023,"
+    publishedDateTime: 2023-08-08T19:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-in-august-1032530506"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Toyota, Pony.ai plan to mass produce robotaxis in China"
     excerpt: "Toyota and partner Pony.ai are planning to mass produce robotaxis in China, setting up a venture this year which will build cars that"
     publishedDateTime: 2023-08-04T09:42:00Z

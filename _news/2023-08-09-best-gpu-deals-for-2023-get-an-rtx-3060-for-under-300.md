@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-08T18:04:00Z
 originalUrl: "https://www.digitaltrends.com/computing/best-cheap-gpu-deals/"
 webUrl: "https://www.digitaltrends.com/computing/best-cheap-gpu-deals/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Digital Trends

@@ -2,22 +2,22 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-08-how-to-choose-the-best-enterprise-asset-management-software.md",
-      "title": "How to choose the best enterprise asset management software",
-      "excerpt": "While there are a lot of EAM products on the market, this article will help you ask the right questions to find the right fit for your organization.\nThe post How to choose the best enterprise asset management software appeared first on IBM Blog.\n",
+      "path": "_news/2023-08-08-better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality.md",
+      "title": "Better together: IBM and Microsoft make enterprise-wide transformation a reality",
+      "excerpt": "Providing joint solutions to companies to improve costs, productivity and resilience by accelerating their hybrid cloud and AI journeys.\nThe post Better together: IBM and Microsoft make enterprise-wide transformation a reality appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/best-enterprise-asset-management-software/",
-      "originalUrl": "https://www.ibm.com/blog/best-enterprise-asset-management-software/",
+      "webUrl": "https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/",
+      "originalUrl": "https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T06:48:50-07:00",
+      "publishedDateTime": "2023-08-08T14:27:44-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -40,7 +40,8 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
+        "IBM AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -359,7 +360,7 @@
       "originalUrl": "https://www.ibm.com/blog/data-democratization-how-data-architecture-can-drive-business-decisions-and-ai-initiatives/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": null,
       "content": "\r\n",

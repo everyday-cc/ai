@@ -24,34 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "From Laggard To Leader: How The Insurance Industry Is Embracing AI To Deliver Real Business Benefits"
-    excerpt: "Progressive insurers are embracing the transformative power of AI to improve their operations, attract customers and enter new markets."
-    publishedDateTime: 2023-08-08T11:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/from-laggard-to-leader-how-the-insurance-industry-is-embracing-ai-to-deliver-real-business-benefits/"
+  - title: "How Artificial Intelligence Is Helping Today’s Small Businesses"
+    excerpt: "More small businesses are using artificial intelligence effectively, especially as pertains to marketing functions."
+    publishedDateTime: 2023-08-08T21:34:00Z
+    webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/"
+    ampWebUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 52
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63923fd8974e7883484072b2/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d2b06367b74f701ad9d11d/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Al Trailblazer Bud Financial Launches Bud.ai, a Generative Al Core Platform to Deliver Hyper-personalized Banking Experiences"
-    excerpt: "Bud Financial (Bud) unveils an all-new generative Al core to its data intelligence platform, enabling banks and financial services organizations to apply Al to every consumer engagement. The Bud.ai platform will empower any financial services organization to transform their transaction data into powerful new customer insight and achieve the holy grail of personalization at scale in customer experience."
-    publishedDateTime: 2023-08-08T15:59:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/al-trailblazer-bud-financial-launches-budai-generative-al-core-platform"
+  - title: "How AI is helping airlines mitigate the climate impact of contrails"
+    excerpt: "We used AI to help airlines choose routes that are less likely to cause contrails, minimizing the environmental impact of flights."
+    publishedDateTime: 2023-08-08T19:00:00Z
+    webUrl: "https://blog.google/technology/ai/ai-airlines-contrails-climate-change/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 12
-    images:
-      - url: "https://financialit.net/sites/default/files/bud_0.png"
-        width: 1366
-        height: 768
-        isCached: true
+      name: Google
+      domain: blog.google
+    quality: 69
 
 secured: "HpAg4zW+0iTvccSip8O5DbV8bY+95zriM7rMYi5P4JawapYcpqNkKbKGlxZSNJXwEqATFx/HAo1XWUjiOvY+3WZYulY8Ft9z/eKE/boihe3HvUSSDszqFgPyGjEdLJBuISxpWejT70Kp3y97B+c8P/Zaq3XE+fDZXH2E2brXSxDMfFODETYLtBwfMMSuPeFMmLgp8H/CsvSMD3JMkOcEx2+zXTOGsscUfBUCpAy8Si0VVhfxWEbxDhD0vCyFSHM67vsiCjjQM9Jv6IEu8d6L/GZ3C1MVbeV09dhqqGOYCJ9fIVgKkHebc/ungHFUE1c87muHwyLkfbHON1wsTAq4lZlX8ajGZfOtTBVllzR3xf62h41y/3R9iAm+y4Py12HhhH3THwVlxGkFkjO80CZCmyDrS/ZYHWH8W53ZkYpynx7/OxtYDvDrlNMEo7sxbYwfxf2DOKQyV2xUGMu0pH7MbsFi3W4BKzEyLymnvwJpSnlJ8Gg2w/YMqe5zw2H9QbZYO2Kqmw/P3FMwyaXxE8evZw==;gHd/GsBgbH3jmyOu4cKH/A=="
 ---

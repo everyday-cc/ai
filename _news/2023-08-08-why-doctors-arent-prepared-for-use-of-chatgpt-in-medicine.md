@@ -135,6 +135,15 @@ related:
         width: 696
         height: 436
         isCached: true
+  - title: "Why ChatGPT just might save the humanities"
+    excerpt: "Not surprisingly, the release of ChatGPT has produced a host of concerns about its potentially harmful effects on society. In higher education, commonly cited concerns center on threats to"
+    publishedDateTime: 2023-08-08T20:55:00Z
+    webUrl: "https://www.virginiabusiness.com/article/why-chatgpt-just-might-save-the-humanities/"
+    type: article
+    provider:
+      name: Virginia Business
+      domain: virginiabusiness.com
+    quality: 4
 
 secured: "54/dY5JuWqFEzKbY96/1UuG+9ToOwFDlefv6BIDXmK6C4SWe9OsSQ99OfivZ1GIm/uBukRTZSMpFmcl2tQEAveQWNMgX2NUvRgZR8WHJlwi4ln3Oe4n6GPgOz0FgkNpPv+8izyA0ms3B9CqFwG3k92yoC3oqlHGpZhBasx0ekyMT9I/7fsP249+yH73vqc2E+amlCA22rvymiVoqnNy61/mm7gY2Tr7066//dtYvRAHqdBtFcMo89BX98jHpTPN8PDlrw1zJrO8PcS9r6BLappQNb284kX61+obCR8YwNiRGvA4tlbjBjFnDMB33QwwloZ3dQLYdpndaGW8taGqBaRwbPxhVJzkaOlkFTqrhd0E=;OGsZKNX2ZyqUtd3F0vA4Qw=="
 ---

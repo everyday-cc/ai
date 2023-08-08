@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-08T18:55:00Z
 originalUrl: "https://hothardware.com/news/nvidia-gh200-hbm3e-edition"
 webUrl: "https://hothardware.com/news/nvidia-gh200-hbm3e-edition"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: HotHardware

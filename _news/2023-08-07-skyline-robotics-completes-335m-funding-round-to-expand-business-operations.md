@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/08/07/9860304.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/08/07/9860304.htm"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Must See! Robotics Developers Create Massive Robo-Boxer Using 1-To-1 Human Controlled Movement"
-    excerpt: "You've probably heard of battlebots, but this is something completely next level. This is the human controlled boxing robot being developed by Chinese tech firm Qibo Robot Company. Buzz60’s Tony"
-    publishedDateTime: 2023-08-07T15:05:00Z
-    webUrl: "https://www.nbcrightnow.com/national/must-see-robotics-developers-create-massive-robo-boxer-using-1-to-1-human-controlled-movement/video_22be5fa3-90ba-561d-9f40-0f642af9fba4.html"
+  - title: "Skyline Robotics to expand with $3.35M funding round"
+    excerpt: "Skyline Robotics continues to build momentum adding key patents to bring Ozmo window-cleaning robots to key cities globally."
+    publishedDateTime: 2023-08-08T19:19:00Z
+    webUrl: "https://www.therobotreport.com/skyline-robotics-to-expand-with-3-35m-funding-round/"
     type: article
     provider:
-      name: NBC Right Now
-      domain: nbcrightnow.com
-    quality: 22
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 64
 
 secured: "SY9DfeKUNNiZWbzcuDp2eiVJawyMiXrucRdcTOumuXQvEwtzIZA0kYaDpI+zv305Aum5WnHLTdQRps84sGicR8t4GCZm34edxKOu0oPWBsR++UV7DCH4ixlH30Yuor3670+oNepFwivYf11GWjUikkyb/99xvj5cwwciXeKWLjwO8rqxKzN7uKCghF1+28gv3ytd+zgKRN9/dOelj9vaDLP9/yRANOfInbh3bcu0I8DMhTZKg+vlPEq/BQ2XiPzaG3oNSyl5lKyuqqu9RTPctDq3CePo+VD5T6HBNihxK2E36GEpkwd0hJ5JFn7Y1sDLiaFnXKHRV7ROxsCH/hAFOz0+hIeUXAvDDsCPqVfgHjw=;9JTWKy38WQEzMIgUWWNRNw=="
 ---

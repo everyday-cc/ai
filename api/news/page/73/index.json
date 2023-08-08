@@ -2,6 +2,358 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2023-06-21-ant-group-confirms-reports-about-its-own-ai-large-language-model.md",
+      "title": "Ant Group Confirms Reports about Its Own AI Large-Language Model",
+      "excerpt": "Reports in Chinese media about an Ant Group LLM for AI have been confirmed by the company, however, without any additional details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/ant-group-ai-language-model/",
+      "originalUrl": "https://www.coinspeaker.com/ant-group-ai-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/06/ant-group-ai-language-model.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coinspeaker.com/ant-group-ai-language-model/amp/",
+      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ant-group-ai-language-model/amp/",
+      "publishedDateTime": "2023-06-21T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-openai-ceo-sam-altman-is-pushing-past-doubts-on-artificial-intelligence.md",
+      "title": "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence",
+      "excerpt": "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/collection-post/6284870/openai-disrupters/",
+      "originalUrl": "https://time.com/collection-post/6284870/openai-disrupters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/06/time100-Companies-OpenAi-FBcrop.jpg?quality=85&w=1200&h=628&crop=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-ai-that-uses-sketches-to-detect-objects-within-an-image-could-boost-tumour-detection-and-search-for-rare-bird-species.md",
+      "title": "AI that uses sketches to detect objects within an image could boost tumour detection, and search for rare bird species",
+      "excerpt": "Teaching machine learning tools to detect specific objects in a specific image and discount others is a “game-changer” that could lead to",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234752",
+      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234752",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/2704e044-952a-43bc-99f6-345da80b3f13-oysteinsorensen.jpg",
+          "width": 517,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AlphaGalileo",
+        "domain": "alphagalileo.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-cloudinary-adds-generative-ai-to-its-programmable-media-image-and-video-apis.md",
+      "title": "Cloudinary adds Generative AI to its Programmable Media Image and Video APIs",
+      "excerpt": "More than 10,000 customers and 1.5 million users have long benefited from the power of AI via Cloudinary's award-winning image and video APIs. Today's new generative AI capabilities extend these benefits even further by making what was once impossible,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/06/21/9836575.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/06/21/9836575.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-robust-intelligence-named-best-ai-startup-in-2023-artificial-intelligence-breakthrough-awards-program.md",
+      "title": "Robust Intelligence Named \"Best AI Startup\" in 2023 Artificial Intelligence Breakthrough Awards Program",
+      "excerpt": "Awards Program Honors Standout AI and Machine Learning Solutions and Companies LOS ANGELES, June 21, 2023 /PRNewswire-PRWeb/ -- AI Breakthrough, a leading market intelligence organization that recognizes the top companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robust-intelligence-named-best-ai-startup-in-2023-artificial-intelligence-breakthrough-awards-program-3390dd7f",
+      "originalUrl": "https://www.marketwatch.com/press-release/robust-intelligence-named-best-ai-startup-in-2023-artificial-intelligence-breakthrough-awards-program-3390dd7f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai-based-firms-solving-challenges-in-financial-services.md",
+      "title": "Agora Services Named to AIFinTech100 2023: Identified as one of the World's Most Innovative AI-Based Firms Solving Challenges in Financial Services",
+      "excerpt": "Agora Services, the next generation of bank as a service / embedded fintech provider announced today its inclusion in the 2023 AIFinTech100 list.– a select global listing reflecting \"the world's most innovative solution providers\" who are \"using artificial intelligence (AI) to transform financial services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai/article_93c33dad-04a5-5945-8416-ebe128e96813.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai/article_93c33dad-04a5-5945-8416-ebe128e96813.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global.md",
+      "title": "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global",
+      "excerpt": "Saifr®, an AI-focused regulatory technology (RegTech) and financial technology (FinTech) business that assists financial services clients in the review and approval of public communications to help mitigate brand,",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelbiz.co.uk/press-release/saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global/",
+      "originalUrl": "https://www.channelbiz.co.uk/press-release/saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel Biz",
+        "domain": "channelbiz.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx.md",
+      "title": "Enhancing the Wimbledon fan experience with AI from watsonx",
+      "excerpt": "IBM&#8217;s partnership with the All-England Lawn Tennis Club (AELTC) has driven digital transformation at Wimbledon for more than 30 years. And this year, Wimbledon is tapping into the power of generative AI, producing new digital experiences on the Wimbledon app and website using IBM&#8217;s new trusted",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/",
+      "originalUrl": "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/Enhancing-the-Wimbledon-fan-experience-with-AI-from-watsonx-1-1.jpg",
+          "width": 1197,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T04:15:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-focus-the-key-to-early-growth-in-a-startup.md",
       "title": "Focus: The Key To Early Growth In A Startup",
       "excerpt": "Certainly, focusing on one specific area can be transformative for any business. Here are some key steps founders or business leaders can follow to align their strategies.",
@@ -774,331 +1126,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-learn-artificial-intelligence-top-5-short-term-ai-courses-available-online.md",
-      "title": "Learn Artificial Intelligence: Top 5 Short-Term AI Courses Available Online",
-      "excerpt": "These courses are offering learners the opportunity to enhance their understanding of AI concepts and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "originalUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/68381/online-ai-courses.jpg",
-          "width": 1128,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "publishedDateTime": "2023-06-20T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan.md",
-      "title": "Baidu Expands Fully Driverless Ride-Hailing Service to Shenzhen, after Beijing and Wuhan",
-      "excerpt": "Baidu Apollo Go autonomous vehicles will be granted permission to operate within a sizable 188 sq. km expanse in Shenzhen",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/06/21/baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan/",
-      "originalUrl": "https://www.gizmochina.com/2023/06/21/baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/Screenshot-2023-06-21-065008-1.png",
-          "width": 908,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T18:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-biden-visits-marin-after-ai-forum-in-san-francisco.md",
-      "title": "Biden visits Marin after AI forum in San Francisco",
-      "excerpt": "But already the training of generative AI on huge volumes of copyrighted data has spawned lawsuits, drawn scrutiny from Congress and sparked fears that tech companies could use art, photos, news articles, music, screenplays, books, research papers and code ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/",
-      "originalUrl": "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marinij.com/wp-content/uploads/2023/06/MIJ-Z-BIDEN-VISIT-0621-1.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/",
-      "publishedDateTime": "2023-06-20T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marin Independent Journal",
-        "domain": "marinij.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-biden-meets-with-ai-experts-in-effort-to-manage-its-risks.md",
-      "title": "Biden meets with AI experts in effort to manage its risks",
-      "excerpt": "The use of artificial intelligence has exploded in popularity, including ChatGPT, an AI chatbot that has become a global sensation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/joe-biden/biden-meets-ai-experts-effort-manage-risks-rcna90136",
-      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/biden-meets-ai-experts-effort-manage-risks-rcna90136",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230620-joe-biden-mn-1111-3297ec.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna90136",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90136",
-      "publishedDateTime": "2023-06-20T17:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-20-happiest-places-to-travel-based-on-selfies.md",
-      "title": "20 happiest places to travel … based on selfies",
-      "excerpt": "Then, they used Amazon’s Rekognition API (yep, even Amazon has facial recognition software now) to analyze the facial expressions in each picture and score them on a “happiness scale” from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.komando.com/lifestyle/happiest-travel-destinations/889057/",
-      "originalUrl": "https://www.komando.com/lifestyle/happiest-travel-destinations/889057/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kim Komando",
-        "domain": "komando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-best-handwriting-recognition-apps.md",
-      "title": "Best Handwriting Recognition Apps",
-      "excerpt": "Handwriting recognition software allows computers and mobile devices to replace traditional notepads. The best handwriting recognition apps can instantly upload your notes to the cloud for secure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/10467-best-handwriting-recognition-apps.html",
-      "originalUrl": "https://www.businessnewsdaily.com/10467-best-handwriting-recognition-apps.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04080320/1554238700-scaled.jpeg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-biboard-powers-bittle-x-voice-controlled-robotic-dog.md",
-      "title": "Biboard powers Bittle X voice controlled robotic dog",
-      "excerpt": "The Petoi family of programmable robot dogs has a new member: an ESP32 board powered “Bittle X”, which has the new feature of also being voice controlled. We’re talking a palm-sized, open-source programmable robot dog, designed for STEM and robotics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/blogs/gadget-master/robot/biboard-powers-bittle-x-voice-controlled-robotic-dog-2023-06/",
-      "originalUrl": "https://www.electronicsweekly.com/blogs/gadget-master/robot/biboard-powers-bittle-x-voice-controlled-robotic-dog-2023-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-how-intelligent-is-artificial-intelligence.md",
-      "title": "How Intelligent is Artificial Intelligence?",
-      "excerpt": "This failure might lead to the inevitable question of, how intelligent is artificial intelligence (AI)? Apparently, the supposedly intelligent AI can’t even find a picture of me on the Internet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.counterpunch.org/2023/06/21/how-intelligent-is-artificial-intelligence/",
-      "originalUrl": "https://www.counterpunch.org/2023/06/21/how-intelligent-is-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CounterPunch",
-        "domain": "counterpunch.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

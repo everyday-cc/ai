@@ -44,6 +44,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Opinion: Higher Education Entering Year 2 of Generative AI"
+    excerpt: "After a somewhat chaotic year in which professors grew suspicious of their students' writing and navigated new territory largely without clear guidance, colleges and universities still face inevitable change."
+    publishedDateTime: 2023-08-08T20:32:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/opinion-higher-education-entering-year-2-of-generative-ai"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/opinion-higher-education-entering-year-2-of-generative-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/opinion-higher-education-entering-year-2-of-generative-ai?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 76
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/50e74b7/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F41%2F5a00b53049eebb276280f1f7f796%2Fgenerative-ai.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
+    excerpt: "NVIDIA today announced NVIDIA OVX™ servers featuring the new NVIDIA® L40S GPU, a powerful, universal data center processor designed to accelerate the"
+    publishedDateTime: 2023-08-08T16:02:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635629/nvidia-global-data-center-system-manufacturers-to-supercharge-generative-ai-and-industrial-digital"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33635629"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635629"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "yktJ7+AXdmxnDVB7Rv07AD9Y6eR2gc7Dc10lHgau07C5pAs2ywfIVJMV0ObLgS8SBVgEDi33Ki3NuFgGcEKjkOomghiX4Es9/w/Il9P0mw1aPQWl/0BkklAtLwUWcklS0rtU4ndkXGQxHNYh2XMNZNE1Fbqz0jHZ3NOLouGi+8qLM/v0NR+ITA4TfFEUbPZXjhxxjSVdcDcnIRA2SxOWVQQPwaVnIJairyPM3VncZv0PYCBqCExCI3Sym/oj6OEIVF4Fs6QhEZcF2PwY8tnZ/4spKI1R9+VWrvbBoSFXXrSEYKfsKa4KCTuHnqvJf8UO+jr0V/WdfjA8EdY7llO062yftmH3yVAIPrKNDFW3mL8=;hPMfzfSj8pl5Y7GlwypZDg=="
 ---

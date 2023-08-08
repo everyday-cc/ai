@@ -32,17 +32,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
-  - title: "‘No aspect of our national life is beyond the Indigenous voice to parliament’"
-    excerpt: "Welcome to the column where you provide the content. Indigenous artist and member of Anthony Albanese’s referendum advisory group Sally Scales says the AUKUS nuclear submarine project has the potential to impact Indigenous communities,"
-    publishedDateTime: 2023-08-04T02:44:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/no-aspect-of-our-national-life-is-beyond-the-indigenous-voice-to-parliament/news-story/dd6c02117cf2985f5cfea0efbf379900"
-    ampWebUrl: "https://www.theaustralian.com.au/commentary/no-aspect-of-our-national-life-is-beyond-the-indigenous-voice-to-parliament/news-story/dd6c02117cf2985f5cfea0efbf379900?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/no-aspect-of-our-national-life-is-beyond-the-indigenous-voice-to-parliament/news-story/dd6c02117cf2985f5cfea0efbf379900?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 21
   - title: "Indigenous voice to parliament our chance to lift Indigenous lives above lies and insults"
     excerpt: "When Anthony Albanese announced his commitment to the Uluru Statement from the Heart and outlined a draft question at the Garma Festival in July last year, we could not have predicted the viciousness of the opposition to what had been refined into a just,"
     publishedDateTime: 2023-08-04T13:51:00Z

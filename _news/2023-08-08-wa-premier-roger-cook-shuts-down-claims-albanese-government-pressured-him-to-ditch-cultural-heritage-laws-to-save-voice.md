@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fighting for his Voice, Albanese heads back to Garma"
-    excerpt: "With the Yes campaign in trouble – sidetracked by debate over treaty – can Anthony Albanese rescue the Voice from Arnhem Land?"
-    publishedDateTime: 2023-08-04T02:47:00Z
-    webUrl: "https://www.afr.com/politics/federal/fighting-for-his-voice-albanese-heads-back-to-garma-20230803-p5dtm3"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.2757%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_50%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/8a847a50441526f5a3a8e25a088d83e6700febd3"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Albanese's inability to handle public pressure over his Voice proposal will cause him to lose the referendum, and ultimately the prime ministership"
     excerpt: "Anthony Albanese left the Garma Festival last August without a pub-ready case to support his vision of an Indigenous Voice to Parliament."
     publishedDateTime: 2023-08-04T20:00:00Z

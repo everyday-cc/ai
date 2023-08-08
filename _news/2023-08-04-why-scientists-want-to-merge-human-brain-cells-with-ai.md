@@ -7,7 +7,7 @@ originalUrl: "https://www.livemint.com/mint-top-newsletter/techtalk04082023.html
 webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk04082023.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "What does it take to get AI to work like a scientist?"
+    excerpt: "Part of the work of scientists is to uncover laws of nature—basic principles that distill the fundamental workings of our Universe. Many of them, like Newton’s laws of motion or the law of conservation of mass in chemical reactions,"
+    publishedDateTime: 2023-08-08T18:26:00Z
+    webUrl: "https://arstechnica.com/science/2023/08/what-does-it-take-to-get-ai-to-work-like-a-scientist/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
 
 secured: "KjJz2v81NQ79Nq/I6f3klbTFurMvCI0f1bQIN395viVQdj9cvXa4FhZqQ/McKUUlq90EH7q4R9yYKYcMkJqwhhc8uFm6dVV122NHjZg8EHyPiDUWT06egyvyiz1T1j7PUIfKdGHc9T8PokIIZ+ozZNpQg+IPSoZEDvZLWZsNw1mXrKfn8d5+PmPZwT+TRo9OYgO8BNJmtCrDxoNhzsvu23W+P7Urt5Mf40mcECiBT+COOYnUJTCJzt/Q2k2EzcmFcGcpoLJ5NlNvS8n5RPKZbqYPH4HKNm8/9iQwO2Yt8pJIsk4l0Vc5NJZPTZppHYqI9cVPyU/zeNdSpPYhJM/umnOHGmD9BGQLl3KToOEry4I=;btNVKZBRS8lc6KwKSsWayA=="
 ---

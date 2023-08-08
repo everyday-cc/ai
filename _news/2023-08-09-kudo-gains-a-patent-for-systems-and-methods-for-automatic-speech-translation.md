@@ -5,7 +5,12 @@ excerpt: "KUDO receives a Patent for Systems and Methods for Automatic Speech Tr
 publishedDateTime: 2023-08-08T17:30:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/08/p33639413/kudo-gains-a-patent-for-systems-and-methods-for-automatic-speech-translation"
 webUrl: "https://www.benzinga.com/pressreleases/23/08/p33639413/kudo-gains-a-patent-for-systems-and-methods-for-automatic-speech-translation"
+ampWebUrl: "https://www.benzinga.com/amp/content/33639413"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33639413"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
   name: Benzinga.com
@@ -15,6 +20,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "uXSNaVPz+UD+8xUMtm4yJtLPMMKSwMqoo5zxLnAt0ifaERZk7687YWJdlHUwPy1WL/xTybVNzYPTjybAbqUITrbkARWbev0AqM4FmV7NGst6uDNi3eMbeQ9LweochbQO6L32u7rL7L5pob4VKHR8/Ep5MHxmpGHWd+N2I3TiiLx0tItrf19AYYGlk3a26uK7JwKCQQ8wLwnJjMc99fPjvwCznMGcokbLga+xotcqHar6H+1gLxk/rUEHIqwdAInnrPW+vvkISWUnwFQxvE7AwrjEe6kZz1zUKc4ag97ifQmMu6bRa94SL6XSyjFRDOl6v9YLM2CX1ewjd01ALylfv72j6vW9wYHq7h+cSt6oqKo=;oqswFEXLXqpmcSKr/TzI8Q=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "F4L36q14Ixztacj5z9YVbDPAvGrW4oaVVNUlBUV6J5VnjNoT4M/wZmWoTSYR2DjNGSNCPYeL9HAe1yGAPsxKCiJ5awQ7NcVhrJJA+vgIWL4p2Vzv7NSYHI3XO+N0hQppqOjpo6f360RUPkXCz3oE3c5lgMxBsAcWEIKDzMvjWcpv5oW8m3VWi3sg0Jnv5Rw7Zc0n53peF4+Q126jjtO7Z5oLrHS6sgQpg0L5jrcKoocuL9wSPVqn7QU7jAE9pIM9nwM/2i1umd5Lv54Im3q2Z237OHvKcQmFPkVa5OeeVBeK+vVF9XCNfTgnA3i6zgRK7ujXNuHf5pd4zLT045Y4d3OyvliSXCfTEkg7sb0SqJc=;/Gx1HxI0gKvhmBoJttTguA=="
 ---
 

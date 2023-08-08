@@ -26,22 +26,6 @@ images:
     height: 682
     isCached: true
 
-related:
-  - title: "Hollywood in midst of AI hiring boom"
-    excerpt: "Sony is pursuing hires related to AI ethics. And Amazon Prime Video and CBS both are looking to fill AI-related roles of their own, as the Hollywood Reporter recently reported. With the technology improving and the venture capital flowing, stakeholders ..."
-    publishedDateTime: 2023-08-06T07:20:00Z
-    webUrl: "https://richmond.com/hollywood-in-midst-of-ai-hiring-boom/article_7c4be14e-ef9a-54eb-9e19-988eff7c06fd.html"
-    type: article
-    provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
-        width: 256
-        height: 256
-        isCached: true
-
 secured: "p+0HMusbxaM8JO0rKyHpPFALzZU4ORi05FiKkEXzc76epLjp4tUyIWD+DBjDDJuJlEXD4yu412ZYqcC3bzHHIweAYD+K1aRjtXmPGO5OUnxHrAc43osPKYwBLl3uTHhJ7I9miztePZLf60dv9SeUJq4OCijXI8rQxM+e0XClSrvg9OTEgtIamH1Kth58/loHBQTdB/VQ43+ewb+LpicTBxtL03GzdDCtepsPJT83r6iNgAl/g+Gl03mrEy1wiUFQlxskI5TfyB53R2KXHYxOm9qImnhYbQY4WmSQQQvKITcc86lZ9zxFdySh9bbQE5sMUJCk/qwU/E56bJnxsLmPTPvDdy8wTwehhkWmGhua8jw=;VDO3xSJ1vUPeqxJLwFvapw=="
 ---
 

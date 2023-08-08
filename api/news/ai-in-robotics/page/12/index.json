@@ -2,6 +2,136 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-05-14-humans-could-be-controlled-by-robots-ai-firms-founder-warns.md",
+      "title": "Humans could be controlled by robots, AI firm’s founder warns",
+      "excerpt": "Robots could end up controlling humanity ... if we have agents more capable than us that we cannot control, that are going across the internet and hooked up and they achieve a level of automation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/",
+      "originalUrl": "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theboltonnews.co.uk/resources/images/16777260/?type=og-image",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-13T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bolton News",
+        "domain": "theboltonnews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-perrone-robotics-rolling-out-self-driving-shuttle-program-for-colleges-and-universities.md",
+      "title": "Perrone Robotics rolling out self-driving shuttle program for colleges and universities",
+      "excerpt": "The “Auto Campus” program will allow students to get to their day to day activities through self-driving shuttles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/",
+      "originalUrl": "https://www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/TihH-d-vB9iQxhRq9IIMPHd3Apo=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/I2EV3YZNFJED5BJKC7GTQFXC3A.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/?outputType=amp",
+      "publishedDateTime": "2023-05-12T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC29",
+        "domain": "nbc29.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-artificial-intelligence-etf-hits-52-week-high-as-its-23-ytd.md",
+      "title": "Artificial Intelligence ETF hits 52-week high as its +23% YTD",
+      "excerpt": "Artificial Intelligence has been one of the big buzzwords of 2023 and the Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) has taken notice as the exchange traded fund touched a new ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3970245-artificial-intelligence-etf-hits-52-week-high-as-its-23-ytd",
+      "originalUrl": "https://seekingalpha.com/news/3970245-artificial-intelligence-etf-hits-52-week-high-as-its-23-ytd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/905587820/image_905587820.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-gardening-tech-from-robot-lawnmowers-to-app-controlled-watering-systems-the-top-tech-buys-to-get-you-growing.md",
       "title": "Gardening tech: from robot lawnmowers to app-controlled watering systems — the top tech buys to get you growing",
       "excerpt": "Using four blades to cut the grass, the mowers come with a Sim card, which means once set up they can be controlled from anywhere in the world. They recognise obstacles and stop if an animal or ...",
@@ -1205,153 +1335,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-start-ai-sai-is-now-available-for-trading-on-lbank-exchange.md",
-      "title": "Start AI (SAI) Is Now Available for Trading on LBank Exchange",
-      "excerpt": "robotics, biomedical AI, media, arts and entertainment. There're multiple features provided by Start AI for all kinds of businesses, these features include Distributed AI Space, which reduces the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/32258672/start-ai-sai-is-now-available-for-trading-on-lbank-exchange",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/32258672/start-ai-sai-is-now-available-for-trading-on-lbank-exchange",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newsfilecorp.com/files/8831/165169_c2e150a184cf6869_001.jpg",
-          "width": 550,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32258672",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32258672",
-      "publishedDateTime": "2023-05-08T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-the-jobs-ai-wont-take-yet.md",
-      "title": "The jobs AI won't take yet",
-      "excerpt": "Since the start of the industrial revolution ... And that could be dire, says Martin Ford, author of Rule of the Robots: How Artificial Intelligence Will Transform Everything. “It's not just that this would happen to individuals, but it could be pretty ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-take-yet",
-      "originalUrl": "https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-take-yet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0flr5cn.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-buffett-and-munger-talk-ai-robotics-and-more-at-berkshire-hathaways-annual-meeting.md",
-      "title": "Buffett and Munger Talk AI, Robotics, and More at Berkshire Hathaway's Annual Meeting",
-      "excerpt": "There is no denying that Pandora's box has been opened for AI. A UBS study noted that OpenAI's ChatGPT reached over 100 million monthly active users (MAU) in January 2023 after launching on Nov. 30, 2022, making it the fastest application to cross the 100 million MAU mark. It then passed 1 billion monthly page visits to its website in February.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/06/buffett-munger-ai-robotics-berkshire-meeting-2023/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/06/buffett-munger-ai-robotics-berkshire-meeting-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/731359/berkshire-hathaway-ceo-warren-buffett.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

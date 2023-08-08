@@ -8,8 +8,8 @@ webUrl: "https://www.cnbc.com/2023/08/08/everestlabs-using-robotic-arms-and-ai-t
 ampWebUrl: "https://www.cnbc.com/amp/2023/08/08/everestlabs-using-robotic-arms-and-ai-to-make-recycling-more-efficient.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/08/everestlabs-using-robotic-arms-and-ai-to-make-recycling-more-efficient.html"
 type: article
-quality: 86
-heat: 106
+quality: 103
+heat: 123
 published: true
 
 provider:

@@ -18,17 +18,6 @@ topics:
   - Facebook AI
   - AI
 
-related:
-  - title: "FirstFT: Meta axes protein-folding team in pivot to commercial AI"
-    excerpt: "Also in today’s newsletter, German chancellor pressed to send cruise missiles to Ukraine and Beijing’s red tape thwarts Big Tech’s EV dreams"
-    publishedDateTime: 2023-08-07T21:51:00Z
-    webUrl: "https://www.ft.com/content/e51fd738-fbb9-418f-a3ab-ce706911d580"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-
 secured: "ru7+t7H3Mgp+5QhhZwb1M0MGBdeMpb85L8muNShbKxnW6AL38FALjzfhxUOh2VV6amHRArfBP9sXfZYUQlnagUIEeqw0p1oX5mCVICjpUsF/fRpGhOBDhxh/JfTvrQgRUIQSXM9ZurH0xgxqkuF4xrjrvwIc4k19mFPtonmummzr/7R3BMyB8P8x5LPLJUEaz9QyoREo6vBVJUg5mr/CJvG50rtjBbWGDkNSKUpTpdOpcJHSCBOcdr2OL53BlAkWKdKk4bQbZQH4OCB0G98FEvjG3tKqdc2xUOqnuhOX6ENXtOCBIS3j8Km7y+lC3TPvs0z+pzcU/STyyeUJ7Jak/NQ04oB7WPLrVf7VDMDp1P+nxjuI4E6+NhlxrjRtIXQXqGQX6odPxD721s0EcLsij+1bkorNnEoawJG31PvR+KExtjNkBLNR1ScO4uoGelh36nzqQswRB74CGqe16QJyXo2ClaOoculFFWHVsZrLopervCKB3sor1Hgc3eTI63nailoZxU0qiQP6innD1OXxng==;qFVeNPdP2p1lFba8be+qbg=="
 ---
 

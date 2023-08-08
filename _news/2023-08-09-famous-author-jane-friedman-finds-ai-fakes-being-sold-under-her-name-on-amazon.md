@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-08T19:42:00Z
 originalUrl: "https://www.thedailybeast.com/author-jane-friedman-finds-ai-fakes-being-sold-under-her-name-on-amazon"
 webUrl: "https://www.thedailybeast.com/author-jane-friedman-finds-ai-fakes-being-sold-under-her-name-on-amazon"
 type: article
+quality: 13
+heat: -1
+published: false
 
 provider:
   name: The Daily Beast
@@ -13,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Author discovers AI-generated counterfeit books written in her name on Amazon"
+    excerpt: "Upon searching Amazon and Goodreads, author Jane Friedman recently discovered a half-dozen listings of fraudulent books using her name, likely filled with either junk or AI-generated content. Both Amazon and Goodreads resisted removing the faux titles until the author's complaints went viral on social media."
+    publishedDateTime: 2023-08-08T21:09:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/author-discovers-ai-generated-counterfeit-books-written-in-her-name-on-amazon/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/author-discovers-ai-generated-counterfeit-books-written-in-her-name-on-amazon/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/author-discovers-ai-generated-counterfeit-books-written-in-her-name-on-amazon/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/AI_spew_hero_crop-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "h40yy19+L/MIbI/mCsA+JzlETvclhSAoQ18uAhZa4/xpxEJaUt0Xs3TzmaT+DIdgP1biiEQIQpGjTn64Au6zWpUHpDuVbn4GVfPAV4pXDTpARGtS2ybsqbMCqxzHqIF30L7GeB6GgFE6Wii1g66CcoJWJATiOwmKBUlzdjnUfx28VtdtRIrsHeAZeu5AZBxn2X4V+6rVNuCpGYrhoyvWJ0nizwge6DyMyVmiRMwu91VpE9cLt/blHGZuCeOxFjjn/zF4S3lcgmmIMU4U4WYdHey7GzDyI8NF28Ju8Uz6o69xxVNYH5VpKw5UoF/xaEyWr73wC5HJy4zFl08WY7nDSvMfNXmLrju0/8SxuvINqsgzGCO+AkQD0ohujwjdGqXCCcAXMO9+nDdmuFiLDG0ii/MEHw3BsZwWBO72zKsVmqcqIQptAOlQh8J3IThn+9MhV1FPQjqOMsHHN6jl0VZb27Qwo3njKPk0pJaxfR0NDqLE0KPrBjA3XmaZxBpW0MypFlVucGNPOQByfHci4apCKw==;mtlluSCvUqCoVA5jFcR0Lg=="
 ---

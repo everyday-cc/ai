@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
+    excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
+    publishedDateTime: 2023-08-08T21:11:00Z
+    webUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+    ampWebUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 68
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
+        width: 1680
+        height: 971
+        isCached: true
   - title: "Pregnant US Woman, Arrested After False Facial Recognition Match, Sues Police"
     excerpt: "After being charged with the two crimes, Porcha Woodruff was released on a $100,000 personal bond. A month later, the case against her was dismissed."
     publishedDateTime: 2023-08-07T06:28:00Z
@@ -272,6 +288,15 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 19
+  - title: "Pregnant woman's arrest in carjacking case spurs call to end Detroit police facial recognition"
+    excerpt: "A Detroit woman who was arrested in connection with a suspected robbery and carjacking when she was eight months pregnant is suing the city and one of its police officers for what she says is an over-"
+    publishedDateTime: 2023-08-07T20:02:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/pregnant-womans-arrest-carjacking-case-spurs-call-end-102081277"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 7
   - title: "Pregnant mother-of-two wrongly arrested for robbery and carjacking after false facial recognition says she was having contractions in the holding cell: 'Shoddy technology' has ..."
     excerpt: "A Michigan woman who was eight months pregnant became the latest person to be falsely charged after police used facial recognition technology to arrest her on suspicion of carjacking and robbery. Porcha Woodruff, 32, was shocked when six police officers ..."
     publishedDateTime: 2023-08-07T01:56:00Z

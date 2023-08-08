@@ -56,6 +56,15 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Disney AI task force aims to cut costs, enhance experiences across the company"
+    excerpt: "The Walt Disney Company has formed a task force to investigate the potential applications of AI throughout its various business units, reports Reuters, including cutting costs and enhancing customer experiences. This comes despite ongoing Hollywood writers' and actors' strikes that have put some AI technologies in the crosshairs."
+    publishedDateTime: 2023-08-08T18:50:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/disney-ai-task-force-aims-to-cut-costs-enhance-experiences-across-the-company/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 43
   - title: "Artificial intelligence could replace doctors. It's time to prepare. (Opinion)"
     excerpt: "In the past few weeks, much has been written about the uses of artificial intelligence and its potential to take the place not only of factory workers but also of highly specialized professionals, such as lawyers and engineers."
     publishedDateTime: 2023-08-04T23:56:00Z

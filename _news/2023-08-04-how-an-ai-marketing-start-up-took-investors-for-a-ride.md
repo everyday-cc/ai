@@ -7,8 +7,8 @@ originalUrl: "https://www.afr.com/technology/how-an-ai-marketing-start-up-took-i
 webUrl: "https://www.afr.com/technology/how-an-ai-marketing-start-up-took-investors-for-a-ride-20230803-p5dtot"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Australian Financial Review
@@ -25,29 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Every start-up is an AI company now. Bubble fears are growing."
-    excerpt: "A February report helped kick off the AI boom by stating that ChatGPT had 100 million users. In reality, consumer interest in chatbots might not be that strong."
-    publishedDateTime: 2023-08-05T11:59:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/08/05/ai-hype-bubble-chatgpt/"
+  - title: "Vibes announces new AI engine for mobile marketing campaigns"
+    excerpt: "Vibes with Nexus provides brand marketers with recommended marketing campaign messages, assets and ideas tailored to fit their audience."
+    publishedDateTime: 2023-08-08T18:59:00Z
+    webUrl: "https://venturebeat.com/ai/vibes-announces-new-ai-engine-for-mobile-marketing-campaigns/"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TKYYAU7X46B5Y5QV7AFGC33LMU_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_a_bespectacled_man_tapes_a_smartphone_screen_and_it_ext_f078ce4b-d091-4090-ac32-20f8a2bbd566.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
-  - title: "Amazon Advertising Fuels Another Growth Spurt, But Investors Only Have Eyes For AI"
-    excerpt: "Amazon crushed its quarterly earnings report on Thursday evening, increasing its market cap by more than $100 billion overnight – and it did so with a major assist from its"
-    publishedDateTime: 2023-08-04T12:04:00Z
-    webUrl: "https://www.adexchanger.com/commerce/amazon-advertising-fuels-another-growth-spurt-but-investors-only-have-eyes-for-ai/"
+  - title: "Pharma Earnings Reports Are Moving The Markets And AI Shakes Up The Emerging Tech Space - Forbes AI Newsletter August 5th"
+    excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
+    publishedDateTime: 2023-08-07T14:16:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/08/07/pharma-earnings-reports-are-moving-the-markets-and-ai-shakes-up-the-emerging-tech-spaceforbes-ai-newsletter-august-5th/"
     type: article
     provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 13
+      name: Forbes
+      domain: forbes.com
+    quality: 42
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d0fc60aad203763e16bfb6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Z+WlRwK7FQsBIETCFu7kZTt4+0LvS+Y0FSN7IDPtfFq500v1fImEr9FMLcHRwFjDkvuBvgrteZdXEN5iyEMHg9QnBr5h7at5LRqFEAN4VKDIDwdK7D3Q3CccTuydvnp1aWBnnqOvEV70yvOA5jgWgMf3NF/w381C8C8EoT+G2wLRTPDftLbsyO++cG21tIuHxK12Ix4djJ4sW9aELjizpdIdl5Y1zQec1YWhMM3133vZ30vWz7WCupYh4bNCK+IxsEPTcWVagBIeYdmB1efnXy9eny3T+Vn2SkyC9v1anCEp80GqgzVRAmIsPJ6vnct9w5dGxE5aSzM2zDZMJvNcRZhai7/Db0EW4kh/hUrI52Q=;M8HmofHu6+58Sto8VuWN+w=="
 ---

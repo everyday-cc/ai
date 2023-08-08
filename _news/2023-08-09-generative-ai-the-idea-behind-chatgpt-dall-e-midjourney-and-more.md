@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-08T17:53:00Z
 originalUrl: "https://www.unite.ai/generative-ai-the-idea-behind-chatgpt-dall-e-midjourney-and-more/"
 webUrl: "https://www.unite.ai/generative-ai-the-idea-behind-chatgpt-dall-e-midjourney-and-more/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:

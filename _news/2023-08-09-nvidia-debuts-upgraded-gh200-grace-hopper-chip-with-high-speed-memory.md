@@ -1,0 +1,136 @@
+---
+category: news
+title: "Nvidia debuts upgraded GH200 Grace Hopper chip with high-speed memory"
+excerpt: "According to Nvidia, the new edition of the GH200 is the world’s first processor to include HBM3e memory. That’s a type of high-speed memory designed to store the data that a chip is actively processing. It’s 50% faster than HBM3, the technology used in the original version of the GH200."
+publishedDateTime: 2023-08-08T20:04:00Z
+originalUrl: "https://siliconangle.com/2023/08/08/nvidia-debuts-upgraded-gh200-grace-hopper-chip-high-speed-hbm3e-memory/"
+webUrl: "https://siliconangle.com/2023/08/08/nvidia-debuts-upgraded-gh200-grace-hopper-chip-high-speed-hbm3e-memory/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: SiliconANGLE
+  domain: siliconangle.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/nvidia.png"
+    width: 1920
+    height: 1080
+    isCached: true
+
+related:
+  - title: "Nvidia teams up with Hugging Face to offer cloud-based AI training"
+    excerpt: "Nvidia is partnering with Hugging Face, the AI startup, to expand access to AI compute. Timed to coincide with the annual SIGGRAPH conference this week, Nvidia announced that it’ll support a new Hugging Face service, called Training Cluster as a Service ..."
+    publishedDateTime: 2023-08-08T16:16:00Z
+    webUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/"
+    ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?resize=1200,900"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Nvidia CEO: We bet the farm on AI and no one knew it"
+    excerpt: "It required that we reinvent the hardware, the software, the algorithms. And while we were reinventing CG with AI, we were reinventing the GPU for AI.” While ray-tracing and DLSS are still in the process of being adopted across the diverse and complex ..."
+    publishedDateTime: 2023-08-08T17:53:00Z
+    webUrl: "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/"
+    ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/nvidia-siggraph1.jpg?resize=1200,749"
+        width: 1200
+        height: 749
+        isCached: true
+  - title: "MindsDB raises funding from Nvidia to democratize AI application development"
+    excerpt: "MindsDB aims to democratize AI development and production for all stripes of developers without requiring specialized AI training."
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/mindsdb-raises-funding-from-nvidia-to-democratize-ai-application-development/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/634aea6929d4e1802257ff90_prev.png?w=1200&strip=all"
+        width: 1200
+        height: 701
+        isCached: true
+  - title: "Nvidia boosts its 'superchip' Grace-Hopper with faster memory for AI"
+    excerpt: "Nvidia announced a desktop software program called AI Workbench to more easily containerize neural net models on local workstations to stage them for the cloud."
+    publishedDateTime: 2023-08-08T19:31:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-boosts-its-superchip-grace-hopper-with-faster-memory-for-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
+  - title: "Nvidia set to hop AI forward with next-gen Grace Hopper Superchip"
+    excerpt: "One of today's biggest Nvidia announcements is a new version of the GH200 Grace Hopper Superchip, powered with next-generation HBM3e memory."
+    publishedDateTime: 2023-08-08T19:18:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-set-to-hop-ai-forward-with-next-gen-grace-hopper-superchip/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+  - title: "Nvidia Unveils Faster Processor Aimed at Cementing AI Dominance"
+    excerpt: "Nvidia Corp. announced an updated AI processor that gives a jolt to the chip’s capacity and speed, seeking to cement the company’s dominance in a burgeoning market."
+    publishedDateTime: 2023-08-08T15:32:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-08-08/nvidia-unveils-faster-processor-aimed-at-cementing-ai-dominance"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Nvidia unveils new chip that will bring down cost of running ChatGPT and other AI models"
+    excerpt: "Nvidia has revealed its next-generation Grace Hopper platform, featuring the world's first HBM3e processor for generative AI. The system has a single"
+    publishedDateTime: 2023-08-08T17:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-unveils-new-chip-that-will-bring-down-cost-of-running-chatgpt-and-other-ai-models/articleshow/102546244.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 25
+  - title: "NVIDIA at SIGGRAPH: DGX Integration with Hugging Face for LLM Training; Announcement of AI Workbench"
+    excerpt: "At the the SIGGRAPH conference this morning in Los Angeles, NVIDIA and Hugging Face made several generative AI-related announcements, including a partnership intended to broaden access to generative AI supercomputing (NVIDIA’s DGX cloud hardware) for developers building large language models (LLMs) and other AI applications on the Hugging Face platform."
+    publishedDateTime: 2023-08-08T16:02:00Z
+    webUrl: "https://insidehpc.com/2023/08/nvidia-at-siggraph-dgx-integration-with-hugging-face-for-llm-training-announcement-of-ai-workbench/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 24
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/04/jensen1.jpg"
+        width: 862
+        height: 800
+        isCached: true
+  - title: "AI Companies are Trying to Score as Many Nvidia H100 Accelerators as Possible"
+    excerpt: "Elon Musk said that acquiring GPUs for AI training is even more difficult than buying drugs. Tweet (opens in a new tab) To give you an idea of the current demand, VentureBeat flagged a lengthy post discussing the \"GPU shortage\" currently riling the AI ..."
+    publishedDateTime: 2023-08-07T17:12:00Z
+    webUrl: "https://www.extremetech.com/computing/ai-companies-are-trying-to-score-as-many-nvidia-h100-accelerators-as-possible"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 16
+
+secured: "SkkA3xlb4f0i/G0tRDPbJ1iUSW+ZqGqVVbmoir/xLpaKX4yHuV9YFySLi7jBufZKYBhTRyhnhyYyoKdaLvw/U3ZhKq2naOaNj1ZB2rNmbtDine8K5voo1UGfT4i4IsMo9l41zKR0Cm2X/KKh3ujO0bx4tn6PKVG7ZVRXIMQv2mhirsvTjf4etetgjI3dIw0MBBLWH3iiWICNMXSkczNumtz7UKDUGtb++aa6RRV4s4OY9S5f2TLX9k2jkTQfSsPrMC8iFsvSxP7neylfZbgy8Ug2pzIpRfMkyXiOeSIF+sbHK2HIHuWbc5V8iHXPd1mg9NBKjy1qVX/2i7XXy+EuunrP+60R03DMJbLodkU6Kpc=;otxHqMk4Id7f5P5oMORPFg=="
+---
+

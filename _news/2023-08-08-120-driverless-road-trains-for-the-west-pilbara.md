@@ -7,7 +7,7 @@ originalUrl: "https://bigrigs.com.au/2023/08/08/120-driverless-road-trains-for-t
 webUrl: "https://bigrigs.com.au/2023/08/08/120-driverless-road-trains-for-the-west-pilbara/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,72 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Self-driving taxi service coming to Texas with driverless cars"
-    excerpt: "Have you ever wanted to hop in a driverless car? Waymo, a self-driving taxi company, has announced its expansion to Texas bringing its fleet of autonomous vehicles."
-    publishedDateTime: 2023-08-04T02:31:00Z
-    webUrl: "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars"
-    ampWebUrl: "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp"
-    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp"
-    type: article
-    provider:
-      name: KRIV
-      domain: fox26houston.com
-    quality: 59
-    images:
-      - url: "https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2023/08/932/470/waymo.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "SF Giants announce self-driving car company as jersey patch sponsor"
-    excerpt: "Cruise, described as “driverless ridehail service” in a press release on the official MLB website, now has a patch with the company’s logo on the shoulder of each jersey. The partnership will last until 2025. Cruise is a subsidiary of General Motors, has also been described as providing a robotaxi service."
-    publishedDateTime: 2023-08-04T03:31:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/08/03/sf-giants-announce-self-driving-car-company-as-jersey-patch-sponsor/"
-    ampWebUrl: "https://www.eastbaytimes.com/2023/08/03/sf-giants-announce-self-driving-car-company-as-jersey-patch-sponsor/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/08/03/sf-giants-announce-self-driving-car-company-as-jersey-patch-sponsor/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 44
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/08/BNG-L-GIANTS-0804-2-e1691093694709.jpg?w=1024&h=566"
-        width: 1024
-        height: 565
-        isCached: true
-  - title: "It’s Not Just Tesla: 5 Cars With Self-Driving Features"
-    excerpt: "Spread the loveSelf-driving car technology is rapidly advancing, and while Tesla may be at the forefront of the movement with its Autopilot system, it’s not the only carmaker with autonomous features."
-    publishedDateTime: 2023-08-06T03:23:00Z
-    webUrl: "https://www.thetechedvocate.org/its-not-just-tesla-5-cars-with-self-driving-features/"
-    type: article
-    provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 39
-    images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/05/How-Tesla-Is-Using-Artificial-Intelligence-to-Create-The-Autonomous-Cars-Of-The-Future.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Congress urged to help get more self-driving vehicles on US roads"
-    excerpt: "Advocates for auto companies and consumer technology firms on Wednesday urged a congressional subcommittee to adopt legislation to advance the development of self-driving cars, saying the U.S. will fall behind competitors, especially China, if the federal ..."
-    publishedDateTime: 2023-08-06T09:19:00Z
-    webUrl: "https://www.tennessean.com/story/money/cars/2023/07/26/congress-self-driving-vehicles/70463526007/"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 4
-  - title: "Self-driving car company Cruise to test in Atlanta"
-    excerpt: "Cruise is bringing its autonomous vehicles to Atlanta. But, the cars will have drivers for now. The San Francisco-based company, which operates a robotaxi service in other cities, said Monday it will begin testing its self-driving cars in Atlanta."
-    publishedDateTime: 2023-08-08T11:49:00Z
-    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2023/08/08/autonomous-car-cruise-general-motors-test.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "BZ1cWFgqoBOiFFBlAdDjLDLpSNOuO2qPbeI2HM9U5pWC6xe2aubyK1Y2TqjUBiQUt3r3u5ytZZ8xkCeLO4tntFtJTSEgoTCaDt1PTsQwnhqDERVWcr5x3sMddtjYMja4mwIpr3o7XYgaLXTZvY0YjMhD3DMgUbbzQL8sEDPjTad45e9WjyHr+cf55F1WVVw5wLcCwxrmMlzpo98RY/jdmBwr1SpDeVtsPJxLwhW0IuO7qFzHDkjfARM4D9uMn/Hpk2ceMe0EpSpj/IHxyFTRyhNLVvbQfqLThx2/fzigIdr4cpeXIJkWUa9S7Nh7FANltxK6qPcc/h24LJMCLza9Py0h6Y4pTi/iYYvFamklawSkXAbk4A+VBTxtAwm80vkp4T5qCYAs+t3dPWdzbzi4UWkOp37EA8Hk/DNLMLG7gwSMopAyV34ztHouGifXPH3T9VlDQ7fb0Wa0grUc7F7NYQD/Lu3Mr741ZTp0hzGr2MhUIrBpVbjWlJ+ZkoYSrvdfxvVSw0ZNG/ImXQ8iGTxDvA==;Yvz0DOyDK7JldGT4G+JK3g=="
 ---

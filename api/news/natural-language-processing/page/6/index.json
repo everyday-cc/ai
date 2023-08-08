@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-19-far-field-speech-and-voice-recognition-market-worth-69-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
+      "title": "Far-Field Speech and Voice Recognition Market worth $6.9 billion by 2028 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "Speech and voice recognition systems must include an audio-playback path. However, an acoustic echo occurs when the audio being played back is picked up by microphone elements and sent back into ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32913346/far-field-speech-and-voice-recognition-market-worth-6-9-billion-by-2028-exclusive-report-by-market",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32913346/far-field-speech-and-voice-recognition-market-worth-6-9-billion-by-2028-exclusive-report-by-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32913346",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32913346",
+      "publishedDateTime": "2023-06-19T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-19-the-voice-referendum-bill-has-now-passed-the-senate-so-heres-everything-you-need-to-know.md",
       "title": "The Voice Referendum Bill Has Now Passed The Senate So Here’s Everything You Need To Know",
       "excerpt": "He also insisted the Voice’s purely advisory powers are “not about symbolism” but “about recognition, something that’s far more important”. “Consultation through the Voice is about ...",
@@ -1366,41 +1409,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-nextgen-food-robotics-provides-update-on-lily-app-and-highlights-the-advancements-in-generative-ai-and-natural-language-processing.md",
-      "title": "NextGen Food Robotics Provides Update on Lily App and Highlights the Advancements in Generative AI and Natural Language Processing",
-      "excerpt": "while emphasizing the significant advancements in Generative AI and Natural Language Processing (NLP). These technologies have proven to be major game-changers in the field, propelling NextGen Food Robotics Inc. to the forefront of innovation. A welcome ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/globe-newswire/nextgen-food-robotics-provides-update-on-lily-app-and-highlights-the-advancements-in-generative-ai-and-natural-language-processing",
-      "originalUrl": "https://financialpost.com/globe-newswire/nextgen-food-robotics-provides-update-on-lily-app-and-highlights-the-advancements-in-generative-ai-and-natural-language-processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
 type: article
 quality: 87
-heat: 170
+heat: 180
 published: true
 
 provider:
@@ -138,6 +138,15 @@ related:
     provider:
       name: Canindia.com
       domain: canindia.com
+    quality: 4
+  - title: "Why ChatGPT just might save the humanities"
+    excerpt: "Not surprisingly, the release of ChatGPT has produced a host of concerns about its potentially harmful effects on society. In higher education, commonly cited concerns center on threats to"
+    publishedDateTime: 2023-08-08T20:55:00Z
+    webUrl: "https://www.virginiabusiness.com/article/why-chatgpt-just-might-save-the-humanities/"
+    type: article
+    provider:
+      name: Virginia Business
+      domain: virginiabusiness.com
     quality: 4
 
 secured: "wKYqOGL4wxPgr2iuwdxEUJmarj/EHqBc1FxstxXod0wPvywv1f1OsJP2WZTI5xaX/n3t22ce5q4HNacFkJU8WsNDbhQU+q4O03o42v2JocPqSfck0mBQJZR+MBsyg7uFdRLHiQiYwrfEn7o38KdGao17U/e0TqIBrsNigK95wLZER5MEgPq+UPGgY0/emfo5DA//3LQgAemNkQKRiKG4jiy+Gdi7NisDEObpedHHfGzfouekhz8xS4KGNelmMeVAqguUmgPFJEee+55PrjaX+i7eJNlH/O+QhXSNAzXSaL9r5ttZERb8M/+d/wf4oylaJxOhwEmTQ630+9G+oxEdivrAFM1ii58cgnxQebk0E1D8QGKYRjsJFcQOvrHukG6SYhAu7vS+krbbggJz+FLoKbsR07oQoEcKfhtwG2ObaL6wo+pPi0xr8F2c4CZfNaRJQKoRWAaxE/NnOM9ght3gJe8h2d2xF8uzcTrgf4rwch+8Iu++7P9uucss5St6UQSBOaf04Dl/awFHSONTlRhA4w==;i03v68AURSHZEghNYkPpHg=="

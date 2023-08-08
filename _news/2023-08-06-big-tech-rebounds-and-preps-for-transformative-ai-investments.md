@@ -43,6 +43,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 34
+  - title: "Vital Releases Doctor-to-Patient Translator That Uses AI and LLMs to Transform Medical Jargon Into Simple, Accurate Content for Patients"
+    excerpt: "Innovative new capability translates complex doctor's notes, radiologist reads, discharge summaries, test results and more into a 5th-grade reading level Vital, a leading artificial intelligence (AI)-"
+    publishedDateTime: 2023-08-08T18:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/b33640234/vital-releases-doctor-to-patient-translator-that-uses-ai-and-llms-to-transform-medical-jargon-into"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33640234"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33640234"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "+xEI4gu3EHlxPJiopZNXZQzwY3tZFXtpnpu6MpCrEoCCohuHE1OFbU7Tkz9TJHeC6XLEtly6Z821BMg7MTe7j9AoZLAqrftOeFxYZsgz/DO/1lC/s2RTTEWLEA/UVgkqHjJ+LDx6JUJpDPmwCQcUBQ/bz6FiBMld79inSX3NMwLGNkZXjXgJXt6AUnIjq7vdvUrh0GjYdQHgd4+7l+oWP2BtzBQK5Vwqk0IY7f6rU4vhXiwNYzFtppwmajuP1CFpZmlU+98aF17/WW/Yx1qysLvo9Yqg4urtJyEMM5z2FKxzHsgnSHqNlMoaouYoIZxaWLqRxyy6lFvmhrI3J3WPceQLD1EwYuSmEKE0jdKxzD0=;4KyopR/1UcHi/K8TsBebhQ=="
 ---

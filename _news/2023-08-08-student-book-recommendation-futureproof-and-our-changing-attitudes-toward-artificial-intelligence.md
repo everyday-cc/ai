@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-08T16:39:00Z
 originalUrl: "https://www.pbs.org/newshour/classroom/2023/08/student-book-recommendation-futureproof-and-our-changing-attitudes-toward-artificial-intelligence/"
 webUrl: "https://www.pbs.org/newshour/classroom/2023/08/student-book-recommendation-futureproof-and-our-changing-attitudes-toward-artificial-intelligence/"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:

@@ -136,6 +136,15 @@ related:
       name: Canindia.com
       domain: canindia.com
     quality: 4
+  - title: "Why ChatGPT just might save the humanities"
+    excerpt: "Not surprisingly, the release of ChatGPT has produced a host of concerns about its potentially harmful effects on society. In higher education, commonly cited concerns center on threats to"
+    publishedDateTime: 2023-08-08T20:55:00Z
+    webUrl: "https://www.virginiabusiness.com/article/why-chatgpt-just-might-save-the-humanities/"
+    type: article
+    provider:
+      name: Virginia Business
+      domain: virginiabusiness.com
+    quality: 4
 
 secured: "FkTYfZPzIQRVgQQDtzDPHG/DB+PARDN9ge8dqAoMLI8YBc+Qq6qr0j3qm1CXVNu5V67gGZveR/mxyOHyng+2WB9WGJx+y+9499VTcYEggUbiKUrq6zTGaijvHl/hY9MZoQFuY2E9diEnlh8ubIroS1Y6ohvv0I07LP+g+LuLGqSUT84vqWDxtGg8IUJiSHzAUf5d4O3nxOsNaU3eDKA5ZWElc5D6mR1mfc5/hQLT2RZb+DKqZpH7MpNUtuHRP1dn6837flBfIH0tnQSmys2sMvcHRaYUDhz0PTloCEsBzyiO++xcHzq705nDN/NcZmk4cIZIdtNeGPeYp3c4yveWZlegMSsRL53OlB0zn9MgrGo=;uF2cGZRHVryvpelT9AS2Ig=="
 ---

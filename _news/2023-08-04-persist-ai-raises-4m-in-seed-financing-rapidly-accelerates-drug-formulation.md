@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/persist-ai-raises-
 webUrl: "https://markets.businessinsider.com/news/stocks/persist-ai-raises-4m-in-seed-financing-rapidly-accelerates-drug-formulation-1032517750"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -21,22 +21,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Distributed AI technique accelerates picking robot training"
-    excerpt: "FLAIROP research project successfully aggregates learned tasks from multiple robots without revealing sensitive training data."
-    publishedDateTime: 2023-08-08T00:22:00Z
-    webUrl: "https://www.design-engineering.com/TGVze"
-    type: article
-    provider:
-      name: design-engineering.com
-      domain: design-engineering.com
-    quality: 54
-    images:
-      - url: "https://www.design-engineering.com/wp-content/uploads/2023/08/23-Aug-Festo-AI-Robotics-850.jpg"
-        width: 850
-        height: 347
-        isCached: true
 
 secured: "8wKZHTsWkQih9h08hP4dPCRzHkUvohhadDPjFN9Nv1TUVbybCjLd7VYDmrDwq5lqJ+wDOhxdo1qQ6CWEswR4JqlJ+bUrXzYO2V1r8BEjM/pnWcRQpid+QTMlDymNwokzmbY6F+TT2DJ3qZ3zSuRRc6+5ZAvhNDZYij2yhnRBe3kJVWwrZowRSAguxLVYv3Oj/gRjAeO1wJg6rOskzlX0lptsipu2pnavlmNEXvbuAhgklwLghm8+hIG5hbV70u1ktFUZM5wD9z/kkCY5aClpqASjsP0yqMbw3jVYt7at3qUTdF9mOJ/4JD1Z5N7PPyPV/buByEzrzGOaIsOMR1gL+dWm1gtiqgFQX/fbWefD83M=;ePyi1ixHH2abM+I7fe2eoQ=="
 ---

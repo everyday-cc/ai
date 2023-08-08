@@ -18,6 +18,17 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "OpenAI is funding a “journalism ethics initiative” at NYU’s Arthur L. Carter Journalism Institute"
+    excerpt: "We keep an eye out for the most interesting stories about Labby subjects: digital media, startups, the web, journalism, strategy, and more. Here’s some of what we’ve seen lately."
+    publishedDateTime: 2023-08-08T18:29:00Z
+    webUrl: "https://www.niemanlab.org/reading/openai-is-funding-a-journalism-ethics-initiative-at-nyus-arthur-l-carter-journalism-institute/"
+    type: article
+    provider:
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 21
+
 secured: "qZ0xUCSoqV6T0x9ZhCUb+BbAKQfwFdSlhte6Ys9YugXuNZrtYzPUroZH/vq8QT2KbUmw0f0IXarFAuTrEVrat00WSG6oI5t8OsliredGmChF7hux8gbk+PuRSud9gMX5TWnKb66pjruxwJDtAboe+CHQpK+X4uJQWZHT4voLjDFhpyMhxcMwoRMqZZ07Dx6QsoyfSADPsGlkBE/6FhjsXixsLcG/k+HL0qPUwIP0p0cLiS5aEZuGuQwC5+1qv8Dd8d/SE3O2P1b9tqGo1HXC5yVyA0oryjnMXuN1A/5pZO9zJkhViVfo4cu45zLqQ8Rt3rxE4JZy+Ktn5Vxifny0TYD1OGcm7XLxqfawQKqQXj8dA8Xka02g+EM7OAQdJ06nxZk57xcM6kwvzkaUTacVxYpEyfZvT3iLf079bY5Y9gkOMbopjT2GxrVm3mzhhlORBlAPuAJGw5Nf4nrm73sYO5E8EXq3RxK5tMVvF+Mr3pJXt8ZlvvZiYfaSHHyg7ADfE5GWVUuIU/VYUN2GHcR8Ig==;ejGSxKM62gy1RIYdUoR9zA=="
 ---
 

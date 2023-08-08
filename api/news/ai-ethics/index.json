@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-08-catchrelease-is-building-an-ai-powered-search-engine-to-help-brands-license-user-generated-content.md",
-      "title": "Catch+Release is building an AI-powered search engine to help brands license user-generated content",
-      "excerpt": "So we are trying to solve for these kind of use-cases.” There is a lot of chatter around the use and ethics of generative AI in the creative world. Goodin thinks that while brands require a lot of images and video assets, generative AI tools don’t yet ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/08/catchrelease-raises-8m-to-help-brands-discover-and-license-user-generated-content/",
-      "originalUrl": "https://techcrunch.com/2023/08/08/catchrelease-raises-8m-to-help-brands-discover-and-license-user-generated-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/CatchRelease.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/08/catchrelease-raises-8m-to-help-brands-discover-and-license-user-generated-content/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/catchrelease-raises-8m-to-help-brands-discover-and-license-user-generated-content/amp/",
-      "publishedDateTime": "2023-08-08T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-08-ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai.md",
       "title": "AI Readiness: Equip Your Team With The Skills They Need To Leverage AI",
       "excerpt": "Leaders in every facet of an organization need to think about how to prepare their teams to get the most out of this cutting-edge technology. Here are two key strategies.",
@@ -1496,6 +1444,58 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-sarah-silverman-vs-ai-a-new-punchline-in-the-battle-for-ethical-digital-frontiers.md",
+      "title": "Sarah Silverman vs. AI: A new punchline in the battle for ethical digital frontiers",
+      "excerpt": "Generative AI is no laughing matter. Every company that touches consumer data needs to develop and enforce an ethical use policy for gen AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/sarah-silverman-vs-ai-a-new-punchline-in-the-battle-for-ethical-digital-frontiers/",
+      "originalUrl": "https://venturebeat.com/ai/sarah-silverman-vs-ai-a-new-punchline-in-the-battle-for-ethical-digital-frontiers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_robot_doing_standup_comedy_at_a_club._Colorful_futuri_0c648a96-a33f-499e-a7b3-ac990986f34e.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

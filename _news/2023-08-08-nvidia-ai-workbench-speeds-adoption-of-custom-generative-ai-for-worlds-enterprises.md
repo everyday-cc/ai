@@ -187,6 +187,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "4 most promising healthcare generative AI startups, per CB Insights"
+    excerpt: "Discover the 4 most promising generative AI startups in healthcare, as identified by CB Insights. Learn about Aqemia, Hippocratic AI, Navina, and Subtle Medical."
+    publishedDateTime: 2023-08-08T21:37:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/4-most-promising-healthcare-generative-ai-startups-per-cb-insights.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Episode 8: Artificial intelligence and the future of warfighting"
     excerpt: "The advent of ChatGPT and its successor, GPT-4, in recent months has brought artificial intelligence into everyday use. Far from being science fiction, AI is now a frontier for the U.S. military as it competes with China, Russia and other global adversaries."
     publishedDateTime: 2023-08-08T10:33:00Z
@@ -229,6 +243,15 @@ related:
         width: 1280
         height: 680
         isCached: true
+  - title: "Artificial Intelligence Can’t Predict the Future"
+    excerpt: "AI uses current data and history to make recommendations and can’t consider unexpected events, such as hurricanes, or changing realities, such as \"black swan\" events."
+    publishedDateTime: 2023-08-08T18:42:00Z
+    webUrl: "https://www.floridarealtors.org/news-media/news-articles/2023/08/artificial-intelligence-cant-predict-future"
+    type: article
+    provider:
+      name: FloridaRealtors.org
+      domain: floridarealtors.org
+    quality: 17
   - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
     excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
     publishedDateTime: 2023-08-08T17:19:00Z

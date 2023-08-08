@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-08T18:11:00Z
 originalUrl: "https://www.abqjournal.com/lifestyles/entertainment/celebrities-who-fear-artificial-intelligence-it-really-is-the-boogeyman/collection_89f36fff-1600-54e3-a444-d2b98184b08a.html"
 webUrl: "https://www.abqjournal.com/lifestyles/entertainment/celebrities-who-fear-artificial-intelligence-it-really-is-the-boogeyman/collection_89f36fff-1600-54e3-a444-d2b98184b08a.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Albuquerque Journal
