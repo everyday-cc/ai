@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-bots-could-soon-become-y
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-bots-could-soon-become-your-new-customer-service-agent/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107279969-1690906498059-gettyimages-1569410256-Omarques_01082023_techPOL_8_of_21.jpeg?v=1691163685&w=1920&h=1080"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "RVA could become AI, tech hub"
-    excerpt: "The Richmond Technology Council — branded as rvatech — is a member-driven association of companies actively trying to grow Richmond's tech-based economy. The group is applying for a federal grant that worth between $50 to $70 million that would establish Richmond as one of about 20 tech hubs around the country."
-    publishedDateTime: 2023-08-03T05:15:00Z
-    webUrl: "https://richmond.com/rva-could-become-ai-tech-hub/article_9797a965-b606-5c75-94f9-ad0bf0791f0d.html"
-    type: article
-    provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "xAQ+aPb2+e53mBmL2QysrLRcxJFl99PFw7Q/eVexb/Zv7yhHpi7mndgIKAmXFasi6oFKJNFONr61qt/XONTBMXVbFhgj8xhuNfqPWIxzBKF97+bX2YoVytVSr1xwCalRD7KLyxa8QjD4OtM6xCIGqsYl8KjJIz4pa9xzUUVWUzm4KpgNFyI9VLn4p0JlIYpSID1Qm/LZDYdg32L1690xDBjwKt83lUIHO+3Wb9sEhHTyo1kZUAu+/5ajlbgVFMjtuOw2c2WSsAYlHRAdP8Tpn+G6xS+ZyLKZHJbsNQJiocNlypMyrnYRc7pB/dOlxDcQ0lRxxizmgkDwgWUAjQScD1Bea8eAPQ4yNUgzraWixmHCVzuayZ4r8Jgne7XVG6sSRgrE7O87Ko2PLx2H8KwhJlMiNt43zq3smW8unrEKBFtzdGp3XskJN3lOaMHEZJaO7vARxTVlmR4uvof8U/wxvgNZ49JgLFIrDmedjzfQGMlIGuHfWNCqArkWMBMtPqRcwxCWJeTcn3/slvjzimKtsg==;h+rby6DKaOAcDmT22PwrmA=="

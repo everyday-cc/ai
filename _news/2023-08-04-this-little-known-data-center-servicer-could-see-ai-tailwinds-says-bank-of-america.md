@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "RVA could become AI, tech hub"
-    excerpt: "The Richmond Technology Council — branded as rvatech — is a member-driven association of companies actively trying to grow Richmond's tech-based economy. The group is applying for a federal grant that worth between $50 to $70 million that would establish Richmond as one of about 20 tech hubs around the country."
-    publishedDateTime: 2023-08-03T05:15:00Z
-    webUrl: "https://richmond.com/rva-could-become-ai-tech-hub/article_9797a965-b606-5c75-94f9-ad0bf0791f0d.html"
-    type: article
-    provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "5W8WLozBpn0iuhYfq1FdzwsD8FlP+STtHRSPTYnDHyeFA2vUeden7YZIZrb1h20MV/s7g72wbeX73UKZnDjHOzDZ/z5hSR4zhtD4T2e4+Rls3YTwkrRO470vpP9UpuGlE8CSud4uoPuLwT66NL5V/SKpvwJV4QHIhOdHab+84SuKo5CvhyFwjC9C2cu+GQTYjbNHiBFJ83IWiuF9lEc08WPB01tKX0xDa2lV9OWwO1iD3/W05Wh+shr4vx7BEGUxhy08++KEYY5MrB61bjS3XxkQ3zOhkkRQ/c7eVCJ6c6VugWmB/H6iDeHrnTEt7EbtEFel4/iZ+NBo43W3sOYUKV7Q38b90C7Qvr7OlqTG+jWKk7FKuDaEo+rm+rp9X7oA+wZlMeDLKzDRgp7TjjxfZI0ktwS91P5c/dwLZNHHx3SlQ6RNBT8KKBRRcveWTNcqROLCovpKNVGg42UdFJa/ymy9YmdFxr7v1aBFie3gHFL6E+wASUTwZwGzrdmpW5u0FvOYusGOE4oNDJROD58cRQ==;xT1MKBFpryETNhAxbzjt6w=="
 ---

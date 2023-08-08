@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chatbots sometimes make things up. Is AI's hallucination problem fixable?"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn't take long for them to spout falsehoods."
+    publishedDateTime: 2023-08-07T22:30:00Z
+    webUrl: "https://tulsaworld.com/news/nation-world/business/chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable/article_33f2a529-2965-5710-adc5-3e3154c1b833.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 38
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/3/3f/33f2a529-2965-5710-adc5-3e3154c1b833/64cacea3ce275.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
     publishedDateTime: 2023-08-06T19:00:00Z

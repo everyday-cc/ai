@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-can-now-steal-your-passwords-by-list
 webUrl: "https://www.pcmag.com/news/ai-can-now-steal-your-passwords-by-listening-to-your-keystrokes"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -44,7 +44,21 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Terrifying ‘deep learning attack’ can steal your passwords by listening to you type"
+    excerpt: "According to researchers involved in the study, the deep learning system was able to log keystrokes with a 93 percent accuracy rating when listening to the target typing on their keyboard. The system was taught by pressing the keys on an Apple Mac keyboard multiple times at different levels of pressure."
+    publishedDateTime: 2023-08-07T23:23:00Z
+    webUrl: "https://bgr.com/tech/terrifying-deep-learning-attack-can-steal-your-passwords-by-listening-to-you-type/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 33
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2021/04/rsz_adobestock_233944854.jpg?quality=82&strip=all"
+        width: 1368
+        height: 912
+        isCached: true
 
-secured: "6bu3VRrHV7jInV86/doYhRTy4LI2s60XUruQF7RIkbrPXl7Km8lxaKy1G6Lq5cc0DS7pII4jLU035Hq55F1NDxlop0eXQWmxsnnmJxVM4UNHcaatBLCsZpwLnqWiH84BU6ciB3hwiU2cjVMOlu42wD9akxa1NTBaQ5LOrLIsxRNN4gbkuDAOxRx3nYuNk8hpkQ3CSSV1io4Rzm7yh8AR8sfTx4u2JWV63hodUZ07QZVPBA0YsSJvs/cJfTc7MGEz5Ypo8PSPqSvfb8st1P99PYCo9UlUV7pMwXKZZF07MeCDkfEmQiWtoX2mnjrjLGFX/nz8Hnq6eOkSDTfs4UjbOPQUGf0GNihzfQlmNniA6fI=;+4KhkzcDEp/cdltnIj8d1A=="
+secured: "gNKvkkqWNKfsARVUsWGtSIORzFE1y7YU7KmLqIYfod6aDdlabDbF8a903mpnZePv/DRzvBnvqv7GA8/Fjc6jCbyqw0unGyQVfsolgazQSMI/TkPhRWe8XqMFDnFYvCAlDaieJJYKd0Qzavot2Yiu2LvBSHU4wsi/UlDaloVcRfEiicaU3WSHe0kl9hfc3sVid8agJPx7pb13OAB0UcEVItwoKlBsOv6xSfXD1cag3NAjPbzdMhyHbr2jejLbtj3s4uYD7E9MSbJZa77tu0ucsptCcY3ZxKj2ihO7YzxAyDTXrYCJu49UNrUuA0M/d4qTQUopLluUtR07fWzsZyX9HJABZ/QXbpfcFwLvrVWU3eact2Jr6Prry3zTj0VJIsRYAy4FvWhs6cifg/gAAUgVJGDDnKRSkKyGb7yOdYBkwuwXC25ppkxvep20JAZ6vrfWKzsnjXDxDlnbxiCmx+qfQXhowWDO7ow42JPTjajpaXSPRvd9RxnewxJp3kgrdjZ9SwBdV3yNdPeoqYn8T9shNg==;mxx/yqcbOkce+Me+V/mIZQ=="
 ---
 

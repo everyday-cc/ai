@@ -1,0 +1,45 @@
+---
+category: news
+title: "Authors are losing their patience with AI, part 349235"
+excerpt: "Prosecraft creator Benji Smith took down his database of 27,000 books, which were scraped without authors' consent."
+publishedDateTime: 2023-08-07T22:09:00Z
+originalUrl: "https://techcrunch.com/2023/08/07/authors-ai-prosecraft/"
+webUrl: "https://techcrunch.com/2023/08/07/authors-ai-prosecraft/"
+ampWebUrl: "https://techcrunch.com/2023/08/07/authors-ai-prosecraft/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/07/authors-ai-prosecraft/amp/"
+type: article
+quality: 87
+heat: 97
+published: true
+
+provider:
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1065679054.jpg?resize=1200,849"
+    width: 1200
+    height: 849
+    isCached: true
+
+related:
+  - title: "Lessons from finance’s experience with artificial intelligence"
+    excerpt: "PREMIUM Ai and machine-learning funds seemed like the final step in the march of the robots.(REUTERS) This rule appears to hold for artificial intelligence (ai) and machine learning, which were first employed by hedge funds decades ago,"
+    publishedDateTime: 2023-08-05T19:47:00Z
+    webUrl: "https://www.hindustantimes.com/business/lessons-from-finance-s-experience-with-artificial-intelligence-101691260940066.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 36
+
+secured: "KMEg4XNF+JZiwSZrXe4DoPkbyA9CYZ6r/b/QZIbGSUWjxHzvdVn/j80FNU+4Ox9z3chFz1OQYo1umqIR+4fzdx5oY3xMeP2bPeieOopvXXxbhfHmk7CxH42XdG0hO2tSBoFUxYJvhzD/nTmGREpFSH8XTxqVQK8RFRG2/5OXQoWZbIMD0XV/ySTkvA9Ov4La7jgEMNZTmZvq3OjCmmpeM9wwHQhCISYKkPKyttD8SmtdqPXQMYfrC1bTaTCw3MDHtxx7gLhBeerFO/MagKGrB7hJ4+Dqxs1pgFbgH4JG6/rJuC4Mqp63HUaLKGUUuC1aY/pGnJXmwehV/QXbsofgX8VHfAEC5jamStm+F0o0RrE=;3bMo2HrAW+8xmRfBQvfM5A=="
+---
+

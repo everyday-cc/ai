@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 695
         isCached: true
-  - title: "Let’s stop worrying about AI and start paying attention more"
-    excerpt: "Paying attention requires effort. Looking away is easier, but then we become isolated and lonely. That’s where we are now, through no fault of"
-    publishedDateTime: 2023-08-03T06:30:00Z
-    webUrl: "https://www.dallasnews.com/opinion/commentary/2023/08/03/lets-stop-worrying-about-ai-and-start-paying-attention-more/"
-    ampWebUrl: "https://www.dallasnews.com/opinion/commentary/2023/08/03/lets-stop-worrying-about-ai-and-start-paying-attention-more/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/opinion/commentary/2023/08/03/lets-stop-worrying-about-ai-and-start-paying-attention-more/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 57
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/2jzUUgf2g1K5jfKHazF_QhsVhag=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/S2I5OVNZUNDTDO6ANMYKKPREPQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "t3HQHH7a88kb/UaeWcV9L7XHlkFNIqB9mFVkF63hBc/jVFptuQ43ixQETs+b9Kat5qEMMA1q566Hcq3kPJxlwV8DGsVldX7zvlPJdaKtL/gEW7O5ZhbaErmeINucG2EaI3UeLaqsbpqsKbtQ94jJzIb25wtM4yzT/MdXGtNvlnVJEUVA/BxEz4o2+PjX64WLZ6sS38qumKWY7JgeDzVOqn7XetYqfwOc6QfifnzwpcFOO9Wvd84eAiBDPnHyMFojwni/w8sAuDaoyA4IE7BeXWjGiyZiDQbgAwFTPoDkC6Sl104N8Kdndr/30JL2ySKZX9BttyPrXK82O3SZeTaMQ/kGusRPfBLS8e20chsRrLU=;t2MsLJ6C5+ieRPJaSiYWug=="
 ---

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM and NASA deploy open-source geospatial AI foundation model on Hugging Face"
-    excerpt: "IBM and NASA announce the availability of watsonx.ai geospatial foundation model on Hugging Face, the leading community for open AI models."
-    publishedDateTime: 2023-08-03T07:01:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-and-nasa-deploy-open-source-geospatial-ai-foundation-model-on-hugging-face/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/09/space.GettyImages-956550722.jpg?w=1200&strip=all"
-        width: 1200
-        height: 840
-        isCached: true
   - title: "IBM and NASA partner on AI model to track climate change"
     excerpt: "With scientists needing to work through massive amounts of data in tracking climate change, IBM and NASA have created an AI model to assist."
     publishedDateTime: 2023-08-03T07:42:00Z

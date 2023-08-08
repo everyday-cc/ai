@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-04-ai-influencer-attracts-men-despite-not-being-real-expert-shares-red-flags-on-celebrity-dating-apps.md",
+      "title": "AI influencer attracts men despite not being real; expert shares red flags on celebrity dating apps",
+      "excerpt": "Virtual AI influencer Milla Sofia is catching a lot of attention on social media, with some users wanting to meet her in-person even though she isn't human.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/ai-influencer-attracts-men-despite-not-being-real-expert-shares-red-flags-celebrity-dating-apps",
+      "originalUrl": "https://www.foxnews.com/entertainment/ai-influencer-attracts-men-despite-not-being-real-expert-shares-red-flags-celebrity-dating-apps",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46e3ceb9-43ab-4cd3-9bf4-ac26e83e4833/707317b8-c335-4399-8268-c2421fece754/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/ai-influencer-attracts-men-despite-not-being-real-expert-shares-red-flags-celebrity-dating-apps.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/ai-influencer-attracts-men-despite-not-being-real-expert-shares-red-flags-celebrity-dating-apps.amp",
+      "publishedDateTime": "2023-08-03T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-self-driving-taxi-service-coming-to-texas-with-driverless-cars.md",
       "title": "Self-driving taxi service coming to Texas with driverless cars",
       "excerpt": "Have you ever wanted to hop in a driverless car? Waymo, a self-driving taxi company, has announced its expansion to Texas bringing its fleet of autonomous vehicles.",
@@ -532,58 +583,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-03-hailo-unveils-new-edge-ai-accelerators-targeting-entry-level-and-high-capacity-applications.md",
-      "title": "Hailo unveils new edge AI accelerators, targeting entry-level and high-capacity applications",
-      "excerpt": "Tel Aviv-based Hailo today announced the expansion of its Hailo-8 product lineup with two new offerings: Hailo-8L and Hailo-8 Century.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hailo-unveils-new-edge-ai-accelerators/",
-      "originalUrl": "https://venturebeat.com/ai/hailo-unveils-new-edge-ai-accelerators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/unnamed-1-e1691073023165.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-08-03-its-time-for-all-companiesand-their-employeesto-start-experimenting-with-ai.md",
       "title": "It’s Time For All Companies—And Their Employees—To Start Experimenting With AI",
       "excerpt": "AI makes us all more productive by augmenting, enlightening or curating tasks that once took hours and iterations but can now be finalized in seconds.",
@@ -643,7 +642,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 217,
       "tags": null,
       "images": [
         {
@@ -1177,7 +1176,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {

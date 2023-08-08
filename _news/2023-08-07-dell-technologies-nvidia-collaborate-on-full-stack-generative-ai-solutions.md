@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technolog
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why the AI World is Looking Up to NVIDIA"
-    excerpt: "The demand for high-performance GPUs, especially the NVIDIA H100s, has skyrocketed due to the AI boom, and now everyone wants it."
-    publishedDateTime: 2023-08-03T07:06:00Z
-    webUrl: "https://analyticsindiamag.com/why-the-ai-world-is-looking-up-to-nvidia/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/nvidia-banner_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
     excerpt: "News summary <br /> <br /> • Dell Generative AI Solutions include a new suite of Dell products and services, in collaboration with NVIDIA, t"
     publishedDateTime: 2023-08-03T09:35:00Z

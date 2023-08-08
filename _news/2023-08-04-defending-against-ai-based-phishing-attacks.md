@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/amp/"
 type: article
 quality: 89
-heat: 111
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Let’s stop worrying about AI and start paying attention more"
-    excerpt: "Paying attention requires effort. Looking away is easier, but then we become isolated and lonely. That’s where we are now, through no fault of"
-    publishedDateTime: 2023-08-03T06:30:00Z
-    webUrl: "https://www.dallasnews.com/opinion/commentary/2023/08/03/lets-stop-worrying-about-ai-and-start-paying-attention-more/"
-    ampWebUrl: "https://www.dallasnews.com/opinion/commentary/2023/08/03/lets-stop-worrying-about-ai-and-start-paying-attention-more/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/opinion/commentary/2023/08/03/lets-stop-worrying-about-ai-and-start-paying-attention-more/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 57
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/2jzUUgf2g1K5jfKHazF_QhsVhag=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/S2I5OVNZUNDTDO6ANMYKKPREPQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Jericho Security secures $3M to counter AI-powered phishing attacks"
     excerpt: "Jericho assists enterprises in defending against social engineering phishing attacks by leveraging AI to create sophisticated simulations and educational content for employees. In the company’s own words, it “uses AI to fight AI,” acting as a white hat for organizations."
     publishedDateTime: 2023-08-03T16:00:00Z

@@ -41,6 +41,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Terrifying ‘deep learning attack’ can steal your passwords by listening to you type"
+    excerpt: "According to researchers involved in the study, the deep learning system was able to log keystrokes with a 93 percent accuracy rating when listening to the target typing on their keyboard. The system was taught by pressing the keys on an Apple Mac keyboard multiple times at different levels of pressure."
+    publishedDateTime: 2023-08-07T23:23:00Z
+    webUrl: "https://bgr.com/tech/terrifying-deep-learning-attack-can-steal-your-passwords-by-listening-to-you-type/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 33
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2021/04/rsz_adobestock_233944854.jpg?quality=82&strip=all"
+        width: 1368
+        height: 912
+        isCached: true
 
 secured: "OyH36lnkvNFoRsY3UpnMCFbE8QaTtMx/gISfbdCF+NT5ySlAoU1qjOsXVe8i4dUqR6aJZ+Su3Q/sSRnxcucJ3LMGRntsIjW6mcPuf3FHtJG70+DhlIwcAglndBwQLb0yU2GJh5P2Qv7R02jR8w/2zPhm+s7ckau9+dalsDvnFK2MCXoH/InpddQahBgHVhX4jfVJsqqvw9qpNYPoBMCY4f2VLjDHBgO9BrmQe9adrmJlgqauPw6S6drscUzS8PCMk/shZnsOwAoMFwvnMqIBACw5A/bDuvj1jyFspDhUhr8QKcO1FFrx7UNuSUQWlk98rpvGV3xni+v9QXXvozjdJNtaaZWZ4lhyBfLtq81PV8M=;u7ff7fTi9aNFsuTLyh9BhQ=="
 ---

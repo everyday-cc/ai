@@ -24,22 +24,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "AI chip maker Tenstorrent raises $100 million from Hyundai, Samsung in a bid to rival Nvidia's chip dominance"
-    excerpt: "Canadian startup Tenstorrent secures $100m in funding from Hyundai, Samsung, and Kia to challenge Nvidia's dominance in AI chip supply."
-    publishedDateTime: 2023-08-03T05:36:00Z
-    webUrl: "https://www.livemint.com/ai/artificial-intelligence/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-samsung-kia-in-a-bid-to-rival-nvidias-chip-dominance-11691037638633.html"
-    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-samsung-kia-in-a-bid-to-rival-nvidias-chip-dominance/amp-11691037638633.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-samsung-kia-in-a-bid-to-rival-nvidias-chip-dominance/amp-11691037638633.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 55
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/03/600x338/newsroom-230801-1120x745_1691038355009_1691038367133.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI chip maker Tenstorrent raises $100 million from Hyundai and Samsung"
     excerpt: "Tenstorrent closes $100M up-round led by Hyundai Motor Group and Samsung Catalyst Fund to accelerate AI chip and ML software development. Funding will help the company design and develop AI chiplets and strengthen Hyundai Motor Group's capabilities in AI tech."
     publishedDateTime: 2023-08-03T10:40:00Z
@@ -51,20 +35,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
-  - title: "S. Korea's Hyundai Motor to invest in AI chip startup"
-    excerpt: "South Korea Hyundai Motor Group said Thursday that it will make a strategic investment in Tenstorrent an artificial intelligence AI"
-    publishedDateTime: 2023-08-03T05:56:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273919821/s-koreas-hyundai-motor-to-invest-in-ai-chip-startup"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Hyundai Motor Group Announces Partnership with Canada’s Tenstorrent AI Chip Company"
     excerpt: "Hyundai Motor revealed it joined forces with a Canadian AI chip manufacturing startup, Tenstorrent. The South Korean automaker said it has invested in the Toronto-based artificial intelligence semiconductor company so"
     publishedDateTime: 2023-08-04T06:46:00Z
@@ -107,15 +77,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "AI chip firm raises US$100mil from Hyundai, Samsung"
-    excerpt: "TORONTO: Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised US$100 million from Hyundai Motor Group and a Samsung investment fund, among others."
-    publishedDateTime: 2023-08-03T05:13:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/08/03/ai-chip-firm-raises-us100mil-from-hyundai-samsung/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
   - title: "AI chip firm Tenstorrent raises US$100 million from Hyundai, Samsung"
     excerpt: "TENSTORRENT, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence (AI) chips, said on Wednesday (Aug 2) it had raised US$100 million from Hyundai Motor Group and a Samsung investment fund,"
     publishedDateTime: 2023-08-03T11:17:00Z

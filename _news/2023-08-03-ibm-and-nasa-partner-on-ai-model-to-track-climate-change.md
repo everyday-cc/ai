@@ -7,7 +7,7 @@ originalUrl: "https://htxt.co.za/2023/08/03/ibm-and-nasa-partner-on-ai-model-to-
 webUrl: "https://htxt.co.za/2023/08/03/ibm-and-nasa-partner-on-ai-model-to-track-climate-change/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM and NASA deploy open-source geospatial AI foundation model on Hugging Face"
-    excerpt: "IBM and NASA announce the availability of watsonx.ai geospatial foundation model on Hugging Face, the leading community for open AI models."
-    publishedDateTime: 2023-08-03T07:01:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-and-nasa-deploy-open-source-geospatial-ai-foundation-model-on-hugging-face/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/09/space.GettyImages-956550722.jpg?w=1200&strip=all"
-        width: 1200
-        height: 840
-        isCached: true
   - title: "AI model by NASA and IBM can help fight climate change"
     excerpt: "The model in question - IBM's watsonx.ai geospatial foundation - has been built using NASA's large-scale satellite and remote sensing data. \"The essential role of open-source technologies to accelerate critical areas of discovery such as climate change has never been clearer,\" said Sriram Raghavan, Vice President of IBM Research AI."
     publishedDateTime: 2023-08-04T07:30:00Z

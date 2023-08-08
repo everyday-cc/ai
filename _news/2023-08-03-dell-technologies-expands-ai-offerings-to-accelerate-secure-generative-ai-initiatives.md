@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Why the AI World is Looking Up to NVIDIA"
-    excerpt: "The demand for high-performance GPUs, especially the NVIDIA H100s, has skyrocketed due to the AI boom, and now everyone wants it."
-    publishedDateTime: 2023-08-03T07:06:00Z
-    webUrl: "https://analyticsindiamag.com/why-the-ai-world-is-looking-up-to-nvidia/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/nvidia-banner_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "nETIlsZl2jnz8lA/jE7XbwsbSp12eYWfrgV0UhJwUKd2xXqoIOlVjvWQ4FBVDHks5a1htm7bZIr4BAAa/uYJdaWtZCr3IS98DMzIr5Zv2e8H+ouJLcdL2ApCkrMNrPtZfX+ciQ8oBopHPyZx1f6GlS/00QGMtmyMOYxBIoDZ/t8JQPDQsB3X2311OMvoYImyT7asjDXlLxfwDCJVk6w/79HYA9BBvXNKPab5HR4685owFjXuWLKmw5yQtT2PRvLLHJjlPZSx5XpECPke9Y8YOavoiZ9M1A7pS4ND2ilQfCUR4aYgKQ0ZM0NFKbHMeaD6wUM8XDWKohmWAehCsvmgXU+n74LHILB4afffIuWLpjY=;RHr2/2QzqBy+zfpFPz8mCw=="
 ---

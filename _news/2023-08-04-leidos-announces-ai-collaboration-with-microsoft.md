@@ -41,6 +41,20 @@ related:
         width: 800
         height: 506
         isCached: true
+  - title: "Microsoft Brings Bing AI to More Browsers"
+    excerpt: "Soon you won't have to switch to Edge to use Bing AI."
+    publishedDateTime: 2023-08-07T23:07:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/microsoft-brings-bing-ai-to-more-browsers/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 84
+    images:
+      - url: "https://www.cnet.com/a/img/resize/42190d38ade8b2297bf2f0e63f4439bee821301e/hub/2023/02/10/62e99904-1127-458c-8fdf-cf9018b816b7/20230207-bing-logo-01.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft, Duke Health partner on AI efforts, create innovation lab"
     excerpt: "Duke Health is embarking on a five-year, innovative partnership with Microsoft aimed at responsibly and ethically harnessing the potential of generative artificial intelligence (AI) and cloud technology to redefine the health care landscape."
     publishedDateTime: 2023-08-03T10:28:00Z

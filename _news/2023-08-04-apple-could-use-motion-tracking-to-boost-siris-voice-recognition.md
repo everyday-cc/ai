@@ -124,20 +124,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "AI Transformer Models Enable Machine Vision Object Detection"
-    excerpt: "A system-level view of machine vision will be essential to move the technology forward."
-    publishedDateTime: 2023-08-03T07:06:00Z
-    webUrl: "https://semiengineering.com/ai-transformer-models-enable-machine-vision-object-detection/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 43
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_356181933-07-22-scaled.jpeg?fit=2560%2C1280&ssl=1"
-        width: 2560
-        height: 1280
-        isCached: true
   - title: "‘Computer language that anyone can read’ launches Aeternity compiler"
     excerpt: "The developer of Lexon claims that it may provide benefits in computer science education, as well as allow for better GUIs and automated self-documentation."
     publishedDateTime: 2023-08-03T21:01:00Z

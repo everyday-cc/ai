@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-13-thumbay-institutecollege-of-artificial-intelligence-technology-in-healthcare-launched-at-gmu.md",
+      "title": "Thumbay Institute/College of Artificial Intelligence & Technology in Healthcare launched at GMU",
+      "excerpt": "Opening new avenues for research, education, healthcare delivery, innovation, and technological advancements in the field",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/thumbay-institute-college-of-artificial-intelligence-and-technology-in-healthcare-launched-at-gmu-ke5mc6iq",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/thumbay-institute-college-of-artificial-intelligence-and-technology-in-healthcare-launched-at-gmu-ke5mc6iq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/YmRlYWI3MDAtNWU4NS00/0/niversity-2-jpeg.jpeg?f=3%3A2",
+          "width": 765,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/thumbay-institute-college-of-artificial-intelligence-and-technology-in-healthcare-launched-at-gmu-ke5mc6iq?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/thumbay-institute-college-of-artificial-intelligence-and-technology-in-healthcare-launched-at-gmu-ke5mc6iq?amp=1",
+      "publishedDateTime": "2023-06-13T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-artificial-intelligence-could-turn-human-contact-into-a-prerogative-of-the-wealthy.md",
       "title": "Artificial intelligence could turn human contact into a prerogative of the wealthy",
       "excerpt": "(Photo by Matthew Horwood/Getty Images) Artificial intelligence won’t destroy our ... agent’ that offers users Cognitive Behavioural Therapy (CBT). The app’s CEO claims it has tens of ...",
@@ -1327,49 +1370,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-laurus-labs-invests-rs-80-crore-in-cell-gene-therapy-firm-immunoact.md",
-      "title": "Laurus Labs invests Rs 80 crore in cell & gene therapy firm ImmunoACT",
-      "excerpt": "The fresh infusion of capital will enable ImmunoACT to fast-track the scale-up of its lead candidate HCAR-19 by expansion of the multi-location cGMP facilities and R&D of new product pipeline. \"This investment will further help ImmunoACT to gear up for the manufacture of more treatments,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/laurus-labs-invests-rs-80-crore-in-cell-gene-therapy-firm-immunoact/articleshow/100655546.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/laurus-labs-invests-rs-80-crore-in-cell-gene-therapy-firm-immunoact/articleshow/100655546.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/thumb/msid-100655522,width-1070,height-580,imgsize-10972,overlay-economictimes/photo.jpg",
-          "width": 1070,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/laurus-labs-invests-rs-80-crore-in-cell-gene-therapy-firm-immunoact/articleshow/100655546.cms",
-      "cdnAmpWebUrl": "https://economictimes-indiatimes-com.cdn.ampproject.org/c/s/economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/laurus-labs-invests-rs-80-crore-in-cell-gene-therapy-firm-immunoact/articleshow/100655546.cms",
-      "publishedDateTime": "2023-05-31T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

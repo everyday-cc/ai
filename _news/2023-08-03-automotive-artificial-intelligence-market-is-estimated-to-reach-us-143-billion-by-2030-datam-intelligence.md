@@ -26,22 +26,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "Natural Language Processing Market Poised To Reach USD 112.28 Billion In Revenue By 2030"
-    excerpt: "The Natural Language Processing Market Report 2023 provides an in-depth analysis of the current state of the natural language processing market, incl"
-    publishedDateTime: 2023-08-03T06:27:00Z
-    webUrl: "https://menafn.com/1106776622/Natural-Language-Processing-Market-Poised-To-Reach-USD-11228-Billion-In-Revenue-By-2030"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?364852"
-        width: 333
-        height: 250
-        isCached: true
-
 secured: "jDamdKNQ+XcmmtYTQ53H4UPsqzPTF0Hs/GmzdJai7836gLybgWwycsbTDIUNcmCPZGhvZAu2g3psg4aYFEeo3tPl0MNA3xYUxC8EKaZmwhPbd+MOgo08rSUgcB0YDZAyDK/JnnUUq0OcgJOr1V7ZtX6IB/5Ycw49ZfpjirYoxgluJLtZIjgNAgSe801qvlOh8a4k1cQ+4b9MmZ2y82/Te2J0Z4bMIMZFvjyEUErFtTccf9JERgRjo/ns/pv2HiSQsj/iBNtyZZlT9dHWVVtbP7PUGYxcFnANZ6uIBLf+i+Zqj3oDZrP2tDRLG02WM7eJL2GbWEH12ka7v5My9eYbtvYDVaqDCCndBglPP9dD8ts=;qEq5/uZg0jbBjjHXVqmwPA=="
 ---
 

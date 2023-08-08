@@ -86,22 +86,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
-  - title: "Anthony Albanese stops spruiking Indigenous Voice on Twitter with over month-long silence on key policy platform"
-    excerpt: "Anthony Albanese has been silent on the Indigenous Voice to Parliament on Twitter for over a month, as polls suggest support for the proposed body is in decline."
-    publishedDateTime: 2023-08-03T06:08:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/anthony-albanese-stops-spruiking-indigenous-voice-on-twitter-with-over-monthlong-silence-on-key-policy-platform/news-story/39d576f839a8badda073d25c615a537a"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/anthony-albanese-stops-spruiking-indigenous-voice-on-twitter-with-over-monthlong-silence-on-key-policy-platform/news-story/39d576f839a8badda073d25c615a537a?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/anthony-albanese-stops-spruiking-indigenous-voice-on-twitter-with-over-monthlong-silence-on-key-policy-platform/news-story/39d576f839a8badda073d25c615a537a?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 23
-    images:
-      - url: "https://content.api.news/v3/images/bin/8f355f394cb743483d1bd2c6efc523c2"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Anthony Albanese and Peter Dutton traded barbs over an Indigenous voice to parliament"
     excerpt: "Peter Dutton has accused Anthony Albanese of “deliberately and willingly” withholding information on an Indigenous voice to parliament, as he attempts to ratchet up the No case by demanding detail on the voice,"
     publishedDateTime: 2023-08-03T10:12:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-and-train-comp
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition/"
 type: article
 quality: 127
-heat: 227
+heat: 217
 published: true
 
 provider:
@@ -114,20 +114,6 @@ related:
       - url: "https://images.indianexpress.com/2023/08/Apple-Siri-Express-Photo.jpg"
         width: 1200
         height: 667
-        isCached: true
-  - title: "AI Transformer Models Enable Machine Vision Object Detection"
-    excerpt: "A system-level view of machine vision will be essential to move the technology forward."
-    publishedDateTime: 2023-08-03T07:06:00Z
-    webUrl: "https://semiengineering.com/ai-transformer-models-enable-machine-vision-object-detection/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 43
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_356181933-07-22-scaled.jpeg?fit=2560%2C1280&ssl=1"
-        width: 2560
-        height: 1280
         isCached: true
   - title: "Apple could use motion tracking to boost Siri's voice recognition"
     excerpt: "Apple has filed a patent application, called Keyword Detection Using Motion Sensing, that could enhance Siri's voice recognition capabilities"
