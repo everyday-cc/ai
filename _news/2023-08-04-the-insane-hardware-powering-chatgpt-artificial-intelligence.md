@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
-    excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."
-    publishedDateTime: 2023-08-03T17:21:00Z
-    webUrl: "https://www.law.com/texaslawyer/2023/08/03/big-law-nixing-chatgpt-for-legal-work-seeks-secure-ai-solution/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 41
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/405/2023/08/OpenAI-GPT-4-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "OpenAI files trademark for GPT-5 revealing some clues about a next-generation ChatGPT"
     excerpt: "OpenAI has already filed a trademark for the next iteration of its GPT large language model, introducing GPT-5, the company's next-gen LLM."
     publishedDateTime: 2023-08-04T15:38:00Z

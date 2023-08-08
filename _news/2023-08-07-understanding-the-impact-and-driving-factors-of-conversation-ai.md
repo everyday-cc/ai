@@ -23,63 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "Revolutionizing The Future: Unleashing The Power Of AI In An AI-First Cloud Paradigm"
-    excerpt: "To fully harness the potential of AI, a significant transformation of cloud infrastructure is necessary to handle AI workloads."
-    publishedDateTime: 2023-08-07T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/"
+  - title: "AI and Machine Learning set to drive India's $8 billion digital advertising industry, say experts"
+    excerpt: "AI and operational machine learning are expected to transform the communication sectors, including advertising and PR. These technologies have the potential to significantly impact the Indian digital advertising industry,"
+    publishedDateTime: 2023-08-07T04:07:00Z
+    webUrl: "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts-11691378452164.html"
+    ampWebUrl: "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts/amp-11691378452164.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts/amp-11691378452164.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: Mint
+      domain: livemint.com
+    quality: 61
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd52914684645a13364b30/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 754
-        isCached: true
-  - title: "The Ghost of Privacy Past Haunts the Senate’s AI Future"
-    excerpt: "The US Congress is trying to tame the rapid rise of artificial intelligence. But senators’ failure to tackle privacy reform is making the task a nightmare."
-    publishedDateTime: 2023-08-04T18:05:00Z
-    webUrl: "https://www.wired.com/story/ai-regulation-privacy-us-senate/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/64cc121bd96882f74caa411b/191:100/w_1280,c_limit/A-Fight-Over-Privacy-Looms-Over-AI-in-Washington-Security-GettyImages-1524620606.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Fear Of Ai In The West Is Misdirected"
-    excerpt: "The fear of artificial intelligence is largely a Western phenomenon. It is virtually absent in Asia. In contrast, East Asia sees AI as an invaluable"
-    publishedDateTime: 2023-08-07T07:32:00Z
-    webUrl: "https://menafn.com/1106796191/Fear-Of-Ai-In-The-West-Is-Misdirected"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/07/AT_da0cbimage_story.jpg"
-        width: 1200
-        height: 960
-        isCached: true
-  - title: "AI as the next computing platform"
-    excerpt: "The games industry requires hundreds, if not thousands, of projects every year, so the prospect of radically cutting the time and cost of creative brainstorming and prototyping is, ahem, game-changing. Add to that the increasing ability to use generative AI in software development, and the time from concept to code goes from months to days."
-    publishedDateTime: 2023-08-07T14:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/07/ai-next-computing-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/aibrain-geralt-pixabay.jpeg"
-        width: 1280
-        height: 853
+      - url: "https://www.livemint.com/lm-img/img/2023/08/07/600x338/USA-STOCKS-AI-0_1691381054977_1691381085497.JPG"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "YxYAC2Cvv2bybTphITtCaccOf0283yN6CmVOwHYJ+DYbkzSBSyusYkEKpRb5oLQtX7PFlWSvLpiajW0fpHRF8gT0jA/0rdX40YYZRqFDRGw/UICpEoD8NeXKKGizq1QiegkbkV8b8X7YdZfiy6GBn3W//ad7wifICXCms/92dUFgIh3NasbibLa9pt+BbIHNyxLd/txvjJKc/rcJbBGG0Sui9lgkCoNLTrBG5e8wZc3gcuS0WSCd0yDJyyswWAfCTMBBO2JcPxJKsq8dmrNl3N7F8f5WrM2YbdJDMn9J3DYcEHlLKnVRckR9SqMuuAo8wCXGhw+nK0+h4810jtNSv6/fxCzAStRNuWrkFiU0zanlMyNY5+lIa7WA/vQ1d1BbjQpeHTc1tREfigLEzEW39I1VmPYqTBxWcPdHTiDv+OvHjIcDZkCvdCjOVUSTSJY1nXoqkeEskpuVOtQoV2cq9V/X0mIqVUwR7EOjxf3A7ZeU4supN7L0O+SseQNt2aMskVN8hRIljgnHPx2LdBhAKg==;zUC6ZJKPxLzXOKo9AzQOmA=="

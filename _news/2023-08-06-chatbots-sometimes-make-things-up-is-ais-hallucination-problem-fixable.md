@@ -9,7 +9,7 @@ ampWebUrl: "https://www.normantranscript.com/region/chatbots-sometimes-make-thin
 cdnAmpWebUrl: "https://www-normantranscript-com.cdn.ampproject.org/c/s/www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.amp.html"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chatbots sometimes make things up. Is AI’s hallucination fixable?"
-    excerpt: "Described as hallucination, confabulation or just plain making things up, it's now a problem for every entity or person trying to get AI to do work"
-    publishedDateTime: 2023-08-03T17:31:00Z
-    webUrl: "https://www.seattletimes.com/business/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
-    ampWebUrl: "https://www.seattletimes.com/business/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Chatbots sometimes make things up. Is AI's hallucination problem fixable?"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn't take long for them to spout falsehoods."
     publishedDateTime: 2023-08-07T22:30:00Z

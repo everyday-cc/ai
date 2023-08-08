@@ -2,6 +2,292 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-07-03-build-accelerated-ai-apps-for-npus-with-olive.md",
+      "title": "Build accelerated AI apps for NPUs with Olive",
+      "excerpt": "Microsoft’s open-source, hardware-aware optimization tool for ONNX models is an essential part of its AI application development tool chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
+      "originalUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
+      "publishedDateTime": "2023-07-03T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-ais-impact-on-cost-savings-productivity-and-jobs.md",
+      "title": "AI’s impact on cost savings, productivity, and jobs",
+      "excerpt": "While short-sighted companies may look to AI to cut jobs and costs, smart companies will use AI to increase productivity and agility. Just as they did with open source and cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.html",
+      "originalUrl": "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/03/thinkstockphotos-526811863-100648031-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.amp.html",
+      "publishedDateTime": "2023-07-03T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-ai-unlocks-prostate-cancer-treatment-benefits.md",
+      "title": "AI Unlocks Prostate Cancer Treatment Benefits",
+      "excerpt": "Data from a new study published in NEJM Evidence shows promise for personalized use of short-term ADT in men with predominantly intermediate-risk prostate cancer. The study involved ArteraAI,",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
+      "originalUrl": "https://medicaldialogues.in/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2023/07/03/213394-new-study-validates-the-first-ever-predictive-ai-biomarker-of-androgen-deprivation-therapy-adt-benefit-in-prostate-cancer.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
+      "publishedDateTime": "2023-07-02T20:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again.md",
+      "title": "He Spent $140 Billion on AI With Little to Show. Now He Is Trying Again.",
+      "excerpt": "Billionaire Masayoshi Son said he would make SoftBank “the investment company for the AI revolution” but he missed out on the most recent frenzy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again-dbcca17",
+      "originalUrl": "https://www.wsj.com/articles/he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again-dbcca17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-810126/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.md",
+      "title": "AI and ethics: Building trustworthy and transparent artificial intelligence systems",
+      "excerpt": "As AI technologies become increasingly sophisticated and pervasive, it is crucial to address the ethical considerations associated with their development and deployment. This article delves into the importance of ethics in AI and focuses on the imperative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
+      "originalUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/06/Brain-image-3894384938.jpg",
+          "width": 1184,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
+      "publishedDateTime": "2023-07-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-microsoft-explores-ai-and-the-open-source-future-with-web3.md",
+      "title": "Microsoft Explores AI and 'The Open Source Future with Web3'",
+      "excerpt": "As part of an open-source-focused Azure event, Microsoft announced new AI capabilities and explored \"the open source future with Web3.\" That was the topic of a fireside chat that closed today's (March 7) Azure Open Source Day 2023, described as an ...",
+      "sourceUrl": null,
+      "webUrl": "https://virtualizationreview.com/articles/2023/03/07/azure-open-source.aspx",
+      "originalUrl": "https://virtualizationreview.com/articles/2023/03/07/azure-open-source.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://virtualizationreview.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0115vsm_dorseyVSTool.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virtualization Review",
+        "domain": "virtualizationreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-tensorflow-decision-forests-tutorials.md",
       "title": "TensorFlow Decision Forests tutorials",
       "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
@@ -866,292 +1152,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-ai-offers-an-epic-make-or-break-moment-for-investors.md",
-      "title": "AI Offers an Epic Make-or-Break Moment for Investors",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Editor’s note: “AI Offers an Epic Make-or-Break Moment for",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/an-ai-demonstration-that-could-leave-you-speechless-1032421903",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/an-ai-demonstration-that-could-leave-you-speechless-1032421903",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/01/global-data-creation.png",
-          "width": 847,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-bernstein-says-ibm-is-best-positioned-to-take-advantage-of-ai.md",
-      "title": "Bernstein Says IBM is Best-Positioned to Take Advantage of AI",
-      "excerpt": "According to Bernstein analysts, IBM (NYSE:IBM) is the leading US IT hardware company in terms of leveraging AI technology. They believe that generative AI has a “neutral to potentially positive” impact on IT hardware companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cweb.com/bernstein-says-ibm-is-best-positioned-to-take-advantage-of-ai/",
-      "originalUrl": "https://www.cweb.com/bernstein-says-ibm-is-best-positioned-to-take-advantage-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cweb.com/wp-content/uploads/2023/07/fmp-1688144241283.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cweb",
-        "domain": "cweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-the-pope-just-released-a-guide-to-artificial-intelligence.md",
-      "title": "The Pope Just Released a Guide to Artificial Intelligence",
-      "excerpt": "The Pope has released a guidebook on AI ethics. Yes, you heard that right. The supreme pontiff has partnered with Santa Clara University's Markkula Center for Applied Ethics to form the Institute ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/pope-guide-artificial-intelligence",
-      "originalUrl": "https://futurism.com/pope-guide-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2023/06/pope-guide-artificial-intelligence.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week.md",
-      "title": "ChatGPT Vs. Microsoft, Runway's Funding, and Tesla's Predictions: AI Developments This Week",
-      "excerpt": "Nikola Tesla Predicted The Rise AI Over 100 Years Ago With Scary Accuracy. A reexamination of Nikola Tesla’s writings revealed his prescient envisioning of AI. He predicted the emergence of autonomous machines capable of learning and adjusting their actions based on external influences. Read the full article here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/07/33088892/chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week",
-      "originalUrl": "https://www.benzinga.com/news/23/07/33088892/chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Artificial,Intelligence,(ai),machine,Learning,With,Data,Mining,Technology,On,Virtual_6.jpeg?width=1200&height=800&fit=crop",
-          "width": 626,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33088892",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33088892",
-      "publishedDateTime": "2023-07-01T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-us-ai-chip-controls-dont-deter-blackrock-from-going-all-in-the-week-in-ai.md",
-      "title": "US AI Chip Controls Don’t Deter BlackRock From Going All In: The Week in AI",
-      "excerpt": "Artificial intelligence has become the latest battleground for world dominance between China and the US, adding one more link in a long chain of technological rivalries between the two superpowers. The US has so far maintained a competitive edge, but an explosion of Chinese startups in recent months has brought its lead into question.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-07-01/us-ai-chip-controls-blackrock-inflection-raises-1-3-billion-the-week-in-ai",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-07-01/us-ai-chip-controls-blackrock-inflection-raises-1-3-billion-the-week-in-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBYAznfVq6ko/v1/1200x799.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-microsoft-tiktok-give-generative-ai-a-sort-of-memory.md",
-      "title": "Microsoft, TikTok give generative AI a sort of memory",
-      "excerpt": "The programs use databases to beat ChatGPT at hundreds of turns of dialogue. The innovations can give any large language model ChatGPT-like abilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/40efaf31e076a7b5738d107834bb0317e0dbb0fa/2023/06/30/23a7542e-8178-46ab-9918-d592cb186aec/tiktok-memory-bot-2023.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
-      "publishedDateTime": "2023-07-01T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

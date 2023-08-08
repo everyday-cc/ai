@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-10-a-large-dataset-to-train-machine-learning-models-for-aerial-vehicle-design.md",
+      "title": "A large dataset to train machine learning models for aerial vehicle design",
+      "excerpt": "Designing reliable aircraft can be both challenging and time-consuming, as it often entails several steps and analyses. Deep learning models could potentially help to speed up aircraft design and deployment,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.html",
+      "originalUrl": "https://techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/a-large-dataset-to-tra.jpg",
+          "width": 1410,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.amp",
+      "publishedDateTime": "2023-07-10T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-researchers-use-machine-learning-to-identify-high-risk-surgery-patients.md",
       "title": "Researchers use machine learning to identify high-risk surgery patients",
       "excerpt": "Researchers and physicians at the University of Pittsburgh and UPMC used machine learning to create and deploy an accurate and flexible model for predicting patients at high-risk for complications after surgery,",
@@ -1316,50 +1359,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-defining-the-unexplainable-in-artificial-intelligence.md",
-      "title": "Defining the unexplainable in artificial intelligence",
-      "excerpt": "The term \"artificial intelligence,\" usually abbreviated as AI, means many things to many people. Initially, the phrase was used to allude to the potential of machines, computers, specifically, somehow gaining sentience on a par with human consciousness.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-55.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp",
-      "publishedDateTime": "2023-06-26T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

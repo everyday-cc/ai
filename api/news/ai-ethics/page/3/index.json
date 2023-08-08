@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-08-pope-francis-launches-a-guide-to-using-artificial-intelligence.md",
+      "title": "Pope Francis launches a guide to using artificial intelligence",
+      "excerpt": "There are more and more voices that are warning about the use and consequences of artificial intelligence. They are often the voices of tech entrepreneurs like Elon Musk or the experts involved in their development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.html",
+      "originalUrl": "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/news/2022/images/2023/2/Pope-Francis-arrives-for-his-weekly-general-audience-in-St.-Peters-Square-ap.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/07/08/pope-francis-launches-a-guide-to-using-artificial-intelligence.amp.html",
+      "publishedDateTime": "2023-07-07T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-un-ai-for-good-summit-explores-how-generative-ai-poses-risks-and-fosters-connections.md",
       "title": "UN AI for Good Summit Explores How Generative AI Poses Risks and Fosters Connections",
       "excerpt": "Panelists at the UN AI for Good summit discussed regulation, international cooperation, and the growth of generative AI.",
@@ -1374,49 +1417,6 @@
         "AI",
         "AI Ethics",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-tempe-vows-to-only-use-ai-technology-ethically-and-without-bias.md",
-      "title": "Tempe vows to only use AI technology 'ethically' and without bias",
-      "excerpt": "The City of Tempe has introduced a resolution that obligates the city to only use artificial intelligence in an ethical and responsible manner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.12news.com/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
-      "originalUrl": "https://www.12news.com/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.12news.com/assets/KPNX/images/fa8361e1-fae4-45a6-8b2e-1e2728fc65b4/fa8361e1-fae4-45a6-8b2e-1e2728fc65b4_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.12news.com/amp/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
-      "cdnAmpWebUrl": "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
-      "publishedDateTime": "2023-06-23T18:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPNX",
-        "domain": "12news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

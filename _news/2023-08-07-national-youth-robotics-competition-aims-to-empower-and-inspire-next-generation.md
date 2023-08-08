@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html"
 type: article
 quality: 85
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ethics as a process of reflection and deliberation"
+    excerpt: "Let me start with two questions. Do you think ethics is important in the development and application of algorithms or artificial intelligence (AI systems? And do you find it easy to integrate ethics in your projects, when you develop or apply algorithms or ..."
+    publishedDateTime: 2023-08-08T10:23:00Z
+    webUrl: "https://www.computerweekly.com/opinion/Ethics-as-a-process-of-reflection-and-deliberation"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-080823-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
   - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
     excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
     publishedDateTime: 2023-08-03T20:11:00Z

@@ -112,6 +112,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 64
+  - title: "Microsoft introduces new managed VMs for AI applications"
+    excerpt: "Microsoft has introduced the ND H100 v5 Virtual Machine series, giving enterprises an enhanced infrastructure for training and running generative AI"
+    publishedDateTime: 2023-08-08T11:13:00Z
+    webUrl: "https://www.techzine.eu/news/devices/109791/microsoft-introduces-new-managed-vms-for-ai-applications/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 56
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/04/Chat-GPT-2-scaled.jpg"
+        width: 2560
+        height: 1334
+        isCached: true
   - title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
     excerpt: "Business Wire India HCLSoftware, a leading software provider, announced a collaboration with Microsoft to integrate Microsoft’s Azure OpenAI Serv"
     publishedDateTime: 2023-08-08T04:57:00Z

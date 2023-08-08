@@ -41,17 +41,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Chatbots sometimes make things up. Is AI’s hallucination fixable?"
-    excerpt: "Described as hallucination, confabulation or just plain making things up, it's now a problem for every entity or person trying to get AI to do work"
-    publishedDateTime: 2023-08-03T17:31:00Z
-    webUrl: "https://www.seattletimes.com/business/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
-    ampWebUrl: "https://www.seattletimes.com/business/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
     publishedDateTime: 2023-08-06T19:00:00Z
@@ -62,6 +51,6 @@ related:
       domain: adn.com
     quality: 18
 
-secured: "jmUTK0AGM/nSJgO3XYqZczp77NeBSn1dmbPXP2LceapgWnr6mi3Va+86qR/wTXTVCF2x+UvUqJMlSOXvq+BOzKNXy9oXI+1ukZMmDfx13R0d3FY5ufu1IlFS2K39nhkTCG2KmzkNaNolPOh0DgTeFk9poll3JOzwl4e20Qqe2UmdVBvimV6CKj6YGt72ZLsNMpBQVcUcEaUU5zXUJqGC5+3luvCWdaJxbzg+aWyjKblrJopKqFmdkkP8VcuESeoqnCvpkO5bf8bAoKDZfyVJh5JqoV0RaF/OkilvYYA8R/VjKLGo3WSEcFX/mGsFVyAUOnJq58UXwx2OgaItMBL4jY0swHYb+JElUYhoP1HVTOk=;bdUB3ku8oB47yRfv/DL8uw=="
+secured: "MmZ77y6UJJjEeg8FdmZa41sDvPiWbJVKRTLQLpK6V+g9n9/5GabjTfFFQmvE0xj4RAhgAKUfkBG3nz/l+SFqIfRxIUK5DM67G2fknyE6LnrOEMMKl6ssYF4cmvGqCACDBQYuuuQCfhk4tPxKIKetX3kJZOHJVuyqmXPxK5sMJ2hoWa4mIVhhWqnxwCQRpZ81+xcPHbPkZ6LbHCavbxop3Kvke/UrNJix/hsl0fHU+GOx7ElA3E/RHBwXz3C/Vpoy6eOX52tFwoztH+b+3exXWVnFXwGQUSIw+TBlIIwjOgGHtKmCNO29US5SuwCV9OrzhAf538MkfcYFXlcCvmVG/baaOQ3pqnOwgO5pSY1nIWs5ldFDjMZCEYjqA5fvkD5VHCbxDGTbkQcyD5GLhpcgeuwbLrFlDYWVB7CVaTKUXqhRpfBLBy/jHVSj84KAuImU0YX1mGjSgHOUC2eWDiC53/PgpNG7Cl+THq1qiIpn2L7dhA42CL4lwX0eROal/hAHpo3NE+0jLVITLZOmUp1xzg==;X4bUri6eICTbd+cC8+apNQ=="
 ---
 

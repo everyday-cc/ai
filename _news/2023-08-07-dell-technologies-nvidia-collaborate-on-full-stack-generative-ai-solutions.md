@@ -39,7 +39,7 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 51
+    quality: 68
     images:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Build-generative-AI-applications.jpg"
         width: 700

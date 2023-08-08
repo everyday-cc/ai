@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-08-will-ai-augment-or-replace-workers.md",
+      "title": "Will AI Augment Or Replace Workers?",
+      "excerpt": "AI and other emerging technologies will shift industry practices and human labor norms. However, the manner in which those shifts occur is not always clear, and history tells us that there will still be work for humans to do when the dust settles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/will-ai-augment-or-replace-workers/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/will-ai-augment-or-replace-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d10a66dac046390f16bfb6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/will-ai-augment-or-replace-workers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/08/will-ai-augment-or-replace-workers/amp/",
+      "publishedDateTime": "2023-08-08T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-feature-my-perfect-girlfriend-are-ai-partners-a-threat-to-womens-rights.md",
       "title": "FEATURE-My perfect girlfriend: Are AI partners a threat to women's rights?",
       "excerpt": "“Many of the personas are customisable ... for example, you can customise them to be more submissive or more compliant,” said Shannon Vallor, a professor in AI ethics at the University of Edinburgh. “And it’s arguably an invitation to abuse in ...",
@@ -1419,58 +1471,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-as-ai-porn-generators-get-better-the-stakes-get-higher.md",
-      "title": "As AI porn generators get better, the stakes get higher",
-      "excerpt": "But from what I can tell, there’s not been any movement on that front. Indeed, like the ethics around AI-generated porn, Unstable Diffusion’s situation seems unlikely to resolve anytime soon. The group seems doomed to a holding pattern, trying to ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/",
-      "originalUrl": "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/ezgif-5-6ff96dc0cd-transformed.png?resize=1200,650",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/amp/",
-      "publishedDateTime": "2023-07-21T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

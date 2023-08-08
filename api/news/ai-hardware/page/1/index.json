@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-08-opinion-this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai.md",
+      "title": "Opinion: This is what tech companies, from Amazon to Apple, just told investors about AI",
+      "excerpt": "That set up sky-high expectations for companies that are embedding AI-related technology across their product suites as well as chip companies that are selling to them. The second quarter, therefore, became a litmus test. Here’s a breakdown of AI’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7",
+      "originalUrl": "https://www.marketwatch.com/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-724370/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7",
+      "publishedDateTime": "2023-08-08T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-apples-upcoming-macbook-pro-with-m3-max-chip-boasts-40-gpu-cores-what-we-know-so-far.md",
+      "title": "Apple's Upcoming MacBook Pro With M3 Max Chip Boasts 40 GPU Cores; What We Know So Far",
+      "excerpt": "NEW: Apple is now testing the M3 Max chip destined for next year’s MacBook Pros. The company is planning a 16 core CPU (12 high-performance + 4 efficiency cores) and a 40 core GPU for its maxed-out laptops. https://t.co/3XsWHTGnnz",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/57900/apples-upcoming-macbook-pro-with-m3-max-chip-boasts-40-gpu-cores-what-we-know-so-far",
+      "originalUrl": "https://in.mashable.com/tech/57900/apples-upcoming-macbook-pro-with-m3-max-chip-boasts-40-gpu-cores-what-we-know-so-far",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/2_r8as.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-taiwans-alchip-makes-chips-that-power-the-ai-boom.md",
       "title": "Taiwan’s Alchip Makes Chips That Power The AI Boom",
       "excerpt": "AIchip has seen five consecutive years of revenue growth.",
@@ -104,59 +200,6 @@
         "AI Hardware",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm.md",
-      "title": "Revolutionizing The Future: Unleashing The Power Of AI In An AI-First Cloud Paradigm",
-      "excerpt": "To fully harness the potential of AI, a significant transformation of cloud infrastructure is necessary to handle AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64cd52914684645a13364b30/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/",
-      "publishedDateTime": "2023-08-07T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -1403,59 +1446,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-qualcomm-and-meta-team-up-on-ai-1-of-these-is-an-ai-sleeper-stock.md",
-      "title": "Qualcomm and Meta Team Up on AI -- 1 of These Is an AI Sleeper Stock",
-      "excerpt": "But Qualcomm and social media titan Meta Platforms just teamed up to bring AI-powered services to a device near you. Here's what you need to know about the AI sleeper stock Qualcomm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/28/qualcomm-and-meta-team-up-on-ai-1-of-these-is-an-a/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/28/qualcomm-and-meta-team-up-on-ai-1-of-these-is-an-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740917/smartphone-city-connectivity.jpg",
-          "width": 4896,
-          "height": 3264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

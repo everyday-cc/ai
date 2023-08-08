@@ -35,6 +35,20 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "Ethics as a process of reflection and deliberation"
+    excerpt: "Let me start with two questions. Do you think ethics is important in the development and application of algorithms or artificial intelligence (AI systems? And do you find it easy to integrate ethics in your projects, when you develop or apply algorithms or ..."
+    publishedDateTime: 2023-08-08T10:23:00Z
+    webUrl: "https://www.computerweekly.com/opinion/Ethics-as-a-process-of-reflection-and-deliberation"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-080823-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
 
 secured: "5m+513LMT/DtN56qZ5wfBVT1WOEzhTBEzVsPA/VQnEMzRsCRZ+7JUvIo8pWgN4UH5CBkLqiaplNtiYfeBdnWJPFRiR+Gv9q4veSHtNB5QGb+rhb0rIZpt5ZSPlar7QqsB0xafDCjpnOSI2MAll3pFrVeawf0ZkhYQhIV9LmAUQE7Z6I6oEliPvKZW6K/5BQHW51cpOiHh/ifnpNG4SMFQ3tQ8zmO2mrJSo0+nsPtesRra7nB18kZ+5CNWqPYrb9TwVUfXjyeIF7pJnM7p/60/sqWUSx6afRadhD8gPJXgC0GUC5n8b5Qlfzf+yO2PXtb33zx6z27GNX/t2+CcyZ8SUBk18FkkunFwUXfFIN6Vxc=;C6DIMTjgyPKvGeHy4rYZiQ=="
 ---

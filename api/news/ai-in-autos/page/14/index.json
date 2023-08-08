@@ -2,49 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2023-04-18-baidu-rises-as-it-unveils-new-advanced-driving-updates.md",
-      "title": "Baidu rises as it unveils new advanced driving updates",
-      "excerpt": "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/content/seekingalpha-com/23/04/31835666/baidu-rises-as-it-unveils-new-advanced-driving-updates",
-      "originalUrl": "https://www.benzinga.com/content/seekingalpha-com/23/04/31835666/baidu-rises-as-it-unveils-new-advanced-driving-updates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-18-fears-of-artificial-intelligence-overblown.md",
       "title": "Fears of artificial intelligence overblown",
       "excerpt": "While AI is still a developing technology and not without its limitations, a robotic world domination is far from something we need to fear.",
@@ -1315,6 +1272,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-ahlenius-where-will-ai-impact-our-jobs-most.md",
+      "title": "AHLENIUS: Where will AI impact our jobs most?",
+      "excerpt": "The first phases of AI have yet to move the needle in labor market performance, such as labor productivity or manufacturing productivity growth. In addition, it is hard to aggregate productivity numbers and productivity gains with internet applications like GPS navigation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.beaumontenterprise.com/business/article/ai-impact-jobs-most-17884647.php",
+      "originalUrl": "https://www.beaumontenterprise.com/business/article/ai-impact-jobs-most-17884647.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/30/33/36/23181207/5/rawImage.jpg",
+          "width": 1573,
+          "height": 2048,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Beaumont Enterprise",
+        "domain": "beaumontenterprise.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

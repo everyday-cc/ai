@@ -35,17 +35,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Chatbots sometimes make things up. Is AI’s hallucination fixable?"
-    excerpt: "Described as hallucination, confabulation or just plain making things up, it's now a problem for every entity or person trying to get AI to do work"
-    publishedDateTime: 2023-08-03T17:31:00Z
-    webUrl: "https://www.seattletimes.com/business/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
-    ampWebUrl: "https://www.seattletimes.com/business/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Chatbots sometimes make things up. Is AI's hallucination problem fixable?"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn't take long for them to spout falsehoods."
     publishedDateTime: 2023-08-07T22:30:00Z

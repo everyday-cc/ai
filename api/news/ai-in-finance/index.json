@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-08-ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told.md",
+      "title": "AI, machine learning being used to detect potential frauds under Ayushman Bharat, Rajya Sabha told",
+      "excerpt": "These technologies are used for prevention, detection and deterrence of healthcare frauds in the scheme implementation and are helpful in ensuring appropriate treatment to the eligible beneficiaries,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told/articleshow/102534110.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told/articleshow/102534110.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-74282,msid-102534161/new-delhi-union-minister-sp-singh-baghel-at-parliament-house-complex-during-the-.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told/amp_articleshow/102534110.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told/amp_articleshow/102534110.cms",
+      "publishedDateTime": "2023-08-08T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-nvidia-stock-is-still-a-top-pick-at-bank-of-america-even-after-its-stunning-ai-driven-209-rally.md",
       "title": "Nvidia stock is still a 'top pick' at Bank of America even after its stunning AI-driven 209% rally",
       "excerpt": "\"Demand isn't the issue, its supply and importantly the pace with which US cloud service providers are able to set up genAI compute instances.\"",
@@ -1310,41 +1354,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws.md",
-      "title": "Alteryx Fuels Finance Transformation With Decision Intelligence And Intelligent Automation Leveraging The Power Of Aws",
-      "excerpt": "2 Modernize with new technologies : Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science, robotic process ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106580898/Alteryx-Fuels-Finance-Transformation-With-Decision-Intelligence-And-Intelligent-Automation-Leveraging-The-Power-Of-Aws",
-      "originalUrl": "https://menafn.com/1106580898/Alteryx-Fuels-Finance-Transformation-With-Decision-Intelligence-And-Intelligent-Automation-Leveraging-The-Power-Of-Aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

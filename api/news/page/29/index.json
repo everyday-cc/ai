@@ -2,6 +2,300 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-07-18-microsoft-goes-beyond-openai-makes-metas-new-ai-model-available-to-azure-customers.md",
+      "title": "Microsoft goes beyond OpenAI, makes Meta's new A.I. model available to Azure customers",
+      "excerpt": "Meta's new artificial intelligence language model, dubbed Llama 2, will be available on Microsoft's Azure cloud-computing service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/18/microsoft-makes-metas-new-ai-model-available-to-azure-customers.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/18/microsoft-makes-metas-new-ai-model-available-to-azure-customers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 471,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107268471-1688758329171-gettyimages-1259816455-MICROSOFT_COURT.jpeg?v=1689698925",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/18/microsoft-makes-metas-new-ai-model-available-to-azure-customers.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/18/microsoft-makes-metas-new-ai-model-available-to-azure-customers.html",
+      "publishedDateTime": "2023-07-18T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-meet-a-founder-putting-humans-at-the-center-of-his-ai-startup.md",
+      "title": "Meet A Founder Putting Humans At The Center Of His AI Startup",
+      "excerpt": "The biggest differentiator between Frederik Pedersen’s AI-driven startup, EasyTranslate, and its competitors is the critical role humans play in localizing content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/",
+      "originalUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6a2ee54984eab11f09e9c/0x0.jpg?format=jpg&crop=838,471,x0,y45,safe&width=1200",
+          "width": 838,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/",
+      "publishedDateTime": "2023-07-18T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-machine-learning-and-data-science-156-value-free-download0-0.md",
+      "title": "Machine Learning and Data Science ($156 Value) FREE Download0 0",
+      "excerpt": "Machine Learning and Data Science: Fundamentals and Applications. Claim your complimentary copy (valued at $156) for free before the offer expires on July 26. Written and edited by a team of experts in the field, this collection of papers reflects the most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/sponsored/machine-learning-and-data-science-156-value-free-download/",
+      "originalUrl": "https://www.neowin.net/sponsored/machine-learning-and-data-science-156-value-free-download/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/07/1689667515_ml_story.jpg",
+          "width": 760,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/machine-learning-and-data-science-156-value-free-download/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/machine-learning-and-data-science-156-value-free-download/",
+      "publishedDateTime": "2023-07-18T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership.md",
+      "title": "TDOC Stock Alert: Teladoc Doubles Down on Microsoft AI Partnership",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Teladoc (NYSE:TDOC) stock is on the move Tuesday as the company expands its",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership-1032455477",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership-1032455477",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-tractable-snaps-up-65m-led-by-softbank-for-car-and-property-damage-appraisals-using-ai.md",
+      "title": "Tractable snaps up $65M led by SoftBank for car and property damage appraisals using AI",
+      "excerpt": "Today, a startup that has been an early mover in the area of applying AI, and specifically computer vision, to the world of insurance is announcing a round of growth funding to continue expanding ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/18/tractable-snaps-up-65m-led-by-softbank-for-car-and-property-damage-appraisals-using-ai/",
+      "originalUrl": "https://techcrunch.com/2023/07/18/tractable-snaps-up-65m-led-by-softbank-for-car-and-property-damage-appraisals-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-11.55.40.png?resize=1200,585",
+          "width": 1200,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/18/tractable-snaps-up-65m-led-by-softbank-for-car-and-property-damage-appraisals-using-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/18/tractable-snaps-up-65m-led-by-softbank-for-car-and-property-damage-appraisals-using-ai/amp/",
+      "publishedDateTime": "2023-07-18T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-james-cameron-on-deep-sea-exploration-artificial-intelligence.md",
+      "title": "James Cameron on deep sea exploration, artificial intelligence",
+      "excerpt": "Oscar-winning Canadian filmmaker James Cameron met with his long-time mentor Dr. Joe MacInnis to discuss everything from deep-sea exploration to the threat of artificial intelligence, in an event ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/sci-tech/james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902",
+      "originalUrl": "https://www.ctvnews.ca/sci-tech/james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/7/18/1_6484637.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.amp.html",
+      "publishedDateTime": "2023-07-18T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-ieee-cs-computer-vision-and-pattern-recognition-conference-ranks-1-on-researchcoms-best-computer-science-conferences-list.md",
       "title": "IEEE CS' Computer Vision and Pattern Recognition Conference Ranks #1 on Research.com's Best Computer Science Conferences List",
       "excerpt": "In addition to CVPR 2023, IEEE CS' International Conference on Computer Vision (2021) earned the #3 spot on Research.com's list, with an impact score of 40.60, resulting in IEEE CS claiming two of ...",
@@ -826,290 +1120,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-why-overinvesting-in-generative-ai-could-be-a-trap.md",
-      "title": "Why Overinvesting In Generative AI Could Be A Trap",
-      "excerpt": "Generative AI is the hottest property in corporate innovation ... relatively cheap experiments to test your hypotheses before not after you commit resources. The typical startup is forced to de-risk a business model because it starts with relatively ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/",
-      "originalUrl": "https://www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b5a8b0d0939b4ab7248079/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 888,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/amp/",
-      "publishedDateTime": "2023-07-17T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-miko-the-ai-robot-teaches-kids-through-conversation-very-personalized-experience.md",
-      "title": "Miko, the AI robot, teaches kids through conversation: 'Very personalized experience'",
-      "excerpt": "Miko is an artificial intelligence-powered robot that was designed specifically ... the parent can give it some context so that Miko would start engaging in more conversations around those topics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/miko-ai-robot-teaches-kids-conversation-very-personalized-experience",
-      "originalUrl": "https://www.foxnews.com/lifestyle/miko-ai-robot-teaches-kids-conversation-very-personalized-experience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/stabile.png",
-          "width": 1222,
-          "height": 990,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/miko-ai-robot-teaches-kids-conversation-very-personalized-experience.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/miko-ai-robot-teaches-kids-conversation-very-personalized-experience.amp",
-      "publishedDateTime": "2023-07-17T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-congressman-says-americans-could-be-the-losers-in-the-ai-social-experiment.md",
-      "title": "Congressman Says Americans Could Be the 'Losers' in the AI 'Social Experiment'",
-      "excerpt": "Rep. Adam Schiff calls the entertainment industry the \"tip of the spear\" in the battle against the disruptive use of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://decrypt.co/148921/adam-schiff-ai-social-experiment-entertainment-industry",
-      "originalUrl": "https://decrypt.co/148921/adam-schiff-ai-social-experiment-entertainment-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/07/Decrypt-Wallpaper-Format-72-gID_7.png",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "decrypt",
-        "domain": "decrypt.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-artificial-intelligence-wheelchair-aims-to-put-users-in-control.md",
-      "title": "Artificial intelligence wheelchair aims to put users in control",
-      "excerpt": "More than a billion people around the globe need assistive technology to go about everyday tasks independently. A new artificial intelligence (AI) wheelchair is taking assistive technology a step further and giving people their freedom back.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-61.jpg",
-          "width": 448,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.amp",
-      "publishedDateTime": "2023-07-17T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-this-new-ai-tool-transforms-your-doodles-into-high-quality-images.md",
-      "title": "This new AI tool transforms your doodles into high-quality images",
-      "excerpt": "Clipdrop by Stability AI launched Stable Doodle, a sketch-to-image AI tool that can transform your quick doodle into a polished image just by using your sketch and a prompt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/",
-      "originalUrl": "https://www.zdnet.com/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c0bca7db75625cc18335648e3423ac5669999a83/2023/07/17/5fada49b-6f21-41d1-a300-ac2d49133e89/screenshot-2023-07-17-at-11-24-40-am.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/",
-      "publishedDateTime": "2023-07-17T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-intel-capital-invests-in-figure-as-humanoid-robot-takes-first-steps.md",
-      "title": "Intel Capital invests in Figure as humanoid robot takes first steps",
-      "excerpt": "Intel Capital invests $9 million in AI's autonomous humanoid robot, Figure 01, boosting growth and commercialization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/intel-capital-invests-in-figure-as-humanoid-robot-takes-first-steps/",
-      "originalUrl": "https://www.therobotreport.com/intel-capital-invests-in-figure-as-humanoid-robot-takes-first-steps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/figure-robot-featured.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

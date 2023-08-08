@@ -9,8 +9,8 @@ ampWebUrl: "https://syncedreview.com/2023/08/04/google-deepmind-move-steps-towar
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/08/04/google-deepmind-move-steps-toward-generalist-biomedical-ai-system/amp/"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: syncedreview
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Inside the secret Google DeepMind mafia of founders working on new stealth AI startups"
+    excerpt: "Alphabet's AI research lab DeepMind nurtures the industry's top talent. It's also spawned a wave of secretive new startups."
+    publishedDateTime: 2023-08-08T10:43:00Z
+    webUrl: "https://www.businessinsider.com/stealth-ai-startups-emerge-from-google-deepmind-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/5beb0fed01b12d5fed0bff43?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google DeepMind’s Achievements and Breakthroughs in AI Research: Top 5"
     excerpt: "DeepMind has stood at the forefront of AI research working on high-profile projects, including AlphaGo and AlphaFold."
     publishedDateTime: 2023-08-04T08:07:00Z

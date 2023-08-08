@@ -42,15 +42,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "TCS rolls out neural manufacturing solutions on Microsoft Cloud"
-    excerpt: "Tata Consultancy Services has launched a suite of TCS Neural Manufacturing solutions on Microsoft's Cloud for Manufacturing, designed to futureproof manufacturing operations, drive differentiation, and optimise value chains."
-    publishedDateTime: 2023-08-03T19:12:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/tcs-rolls-out-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102403204.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 19
 
 secured: "M/hOW/low0gHiDtmp/nPOxwZLv9zirX7zXPMv3A7ZLSZ//HAoXvGg0prk0KwJGVtUHmhZsozXAGcDSJF2Qx1utdpIeUgZ9bgybJXeOJs+1i3+QzGZIFY84YG8cKpJ3A6go+jbJYz4/W8k4gzTTtpj0I8HhrTieabvfmYY3d1rIEgkV2XAU6boP3fWyTduCO1MI/6OtKo1Dcjpr52I1wSwgtE0FPjX+nEdVxysm+2MghnaNd+MRG/OlWescn0aOPLP720YqN3/KVs4cWB+z1fYD/QjoUKdZf5x/PJaFXQGOISfsvUC9jtKWKXvhPX0kywl1CGCit5s2Q7aMqzik8fc5oKE7O+ELhR+heGePYqSZNZ6XLFIyjBxiMgisYtD48yGBr67mpCp7Di7/eJ+Xxnop/F7852Vq7NLnd3yA2sRueTHR+lk9gnr/ZFIpJpCG3Mjxfmh7n5Zc5qNQ9nnBXimqcBK239UFcqjZqkob4Rv0fWCW3d+j/GeiupfeG7L1cZy8u+5BgQOzs3Dvix5jtlKw==;N9jjFSlJqA03NRpKPosf0A=="
 ---

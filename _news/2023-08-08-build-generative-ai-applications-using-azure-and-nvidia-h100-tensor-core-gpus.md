@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-08T08:37:00Z
 originalUrl: "https://www.geeky-gadgets.com/build-generative-ai-apps-08-08-2023/"
 webUrl: "https://www.geeky-gadgets.com/build-generative-ai-apps-08-08-2023/"
 type: article
-quality: 51
+quality: 68
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Build-generative-AI-applications.jpg"
@@ -42,6 +43,6 @@ related:
         height: 798
         isCached: true
 
-secured: "aETiv620HNuqVy4ffcImprTBpvP9DJuZuMiRd6Xyfci7HZz9U0yw6cCuxEipN03Py0Gg95SvKqGomLrolTC+Mrv14+JjZhcFfp7y4kRYZet5tZJgjZFxKyyX01GuT3LL/pcoBNJB7FAhH4RxnPMPBOwcZ2yliFbYVzSzxFIMi1evbpD6AE97grBh7A9B4ZFCS4XeKZCQW+5rysq13bkRip+rEEmxBBjnpNv76Vds3euWAXkvVqXxcG0G0kPXCwwTDHQ6BUnjxgp27eSOdGxD7Xsc1SrSEg8JPMqshZjVNIlJ1RILlTTjh/3AzHuLcLQE/YvmYYIzgq2/KSAQBxXjCB+K7W6SsEpOnV8O9FJR8/4=;5TgOWdrAAHMvAswrkKA96A=="
+secured: "kcenAB0yRMSfWQH7a76hW1h4v6AhaU0DnCOFj1wRyPuLMTm9q2384lTxoaHv5GGjov429/S1dN3YHjM7X6rlax2A6WGBi+tbCOX/oIYp4GGGqsj37HYHhjdnqNdA6M6MMZADhdtFPjnvR25Lp9yyftsYyQqv+pKIl+vw3Dvwe8HdOvvNrdJXdbcE3x+jroZCarmh/GtTwT84XDRI2j+0NEeaTqcfuxjf2ohnyjRJwkfQPk995lRtwSQwREuYOuwkL7Uaq1IewlnUDk1gjErVqQ3tAMqByekIET59eYeZ9TghWEzUYDmiW/WKph9uIueWNO1gBjVvLFMNKb/3kcSPGxFci0nzTKguzPiaA/TQYO3Yw1InkCJI9WGEVuWcpU5Ds4H65CGaaW41eU0jDjAT4bXSDVZW+1axz53F3sLVmpOP9bZGK+tRa8YJ72dMFSls+96NWsDUCo6HlL3z54SXhZPML/LYF6kPhLIEqtizb/oKpqI/e57y2q1ODon2/0wo7q+o8t4Rf8m/TojLxoLmjA==;SN75vlXru1U9ldeH6dqQ2g=="
 ---
 

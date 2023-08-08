@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
 type: article
 quality: 87
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/61ddecd6cca3ad80acd3caeb/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
-    excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."
-    publishedDateTime: 2023-08-03T17:21:00Z
-    webUrl: "https://www.law.com/texaslawyer/2023/08/03/big-law-nixing-chatgpt-for-legal-work-seeks-secure-ai-solution/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 41
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/405/2023/08/OpenAI-GPT-4-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "The insane hardware powering ChatGPT artificial intelligence"
     excerpt: "In the realm of artificial intelligence, ChatGPT stands as a testament to the power of modern hardware. This AI chatbot, a product of collaboration between OpenAI and Microsoft, is powered by an impressive array of NVIDIA V100 and A100 GPU clusters."

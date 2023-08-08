@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI is ruining the internet"
+    excerpt: "From way more spam to sneakier scams, AI is going to make even the most basic online tasks more annoying — and unreliable."
+    publishedDateTime: 2023-08-08T10:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/64cbf0930f3dff0019568fce?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Revolutionizing The Future: Unleashing The Power Of AI In An AI-First Cloud Paradigm"
     excerpt: "To fully harness the potential of AI, a significant transformation of cloud infrastructure is necessary to handle AI workloads."
     publishedDateTime: 2023-08-07T10:30:00Z
@@ -40,29 +56,6 @@ related:
         width: 1200
         height: 754
         isCached: true
-  - title: "The Ghost of Privacy Past Haunts the Senate’s AI Future"
-    excerpt: "The US Congress is trying to tame the rapid rise of artificial intelligence. But senators’ failure to tackle privacy reform is making the task a nightmare."
-    publishedDateTime: 2023-08-04T18:05:00Z
-    webUrl: "https://www.wired.com/story/ai-regulation-privacy-us-senate/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/64cc121bd96882f74caa411b/191:100/w_1280,c_limit/A-Fight-Over-Privacy-Looms-Over-AI-in-Washington-Security-GettyImages-1524620606.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Understanding The Impact And Driving Factors Of Conversation AI"
-    excerpt: "The advent of conversation AI signifies a major leap in the evolution of data management and interaction. It democratizes data access and has the potential to optimize an array of processes across diverse sectors. It not only simplifies data analysis but also fosters a more engaged approach to data exploration."
-    publishedDateTime: 2023-08-07T13:29:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/understanding-the-impact-and-driving-factors-of-conversation-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Fear Of Ai In The West Is Misdirected"
     excerpt: "The fear of artificial intelligence is largely a Western phenomenon. It is virtually absent in Asia. In contrast, East Asia sees AI as an invaluable"
     publishedDateTime: 2023-08-07T07:32:00Z

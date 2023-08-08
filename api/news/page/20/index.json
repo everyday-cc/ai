@@ -2,6 +2,300 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-07-24-ignoring-ai-could-spell-disaster-for-top-executives.md",
+      "title": "Ignoring AI Could Spell Disaster For Top Executives",
+      "excerpt": "How long will your company survive if all of your competitors instantly become 30% more productive? That's exactly what's happening right now with AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markmurphy/2023/07/24/ignoring-ai-could-spell-disaster-for-top-executives/",
+      "originalUrl": "https://www.forbes.com/sites/markmurphy/2023/07/24/ignoring-ai-could-spell-disaster-for-top-executives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64be91afb47d40b871d98954/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markmurphy/2023/07/24/ignoring-ai-could-spell-disaster-for-top-executives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2023/07/24/ignoring-ai-could-spell-disaster-for-top-executives/amp/",
+      "publishedDateTime": "2023-07-24T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-the-markets-fomo-driven-rally-is-unsustainable-and-most-ai-stocks-are-still-bottoming-cio-says.md",
+      "title": "The market's FOMO-driven rally is unsustainable and most AI stocks are still bottoming, CIO says",
+      "excerpt": "\"We tell investors who have a case of FOMO that only a small part of the train has left the station, as most stocks are still bottoming.\"",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64be8ed4bea34400195fe3bc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7?amp",
+      "publishedDateTime": "2023-07-24T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 381,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-07-24T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-ai-driven-personalisation-a-new-era-in-ghanaian-banking-services.md",
+      "title": "AI-driven personalisation : A new era in Ghanaian banking services",
+      "excerpt": "In the ever-evolving landscape of the financial industry, banks around the world are embracing cutting-edge technologies to enhance customer experience and meet the diverse needs of their clients. Creditably,",
+      "sourceUrl": null,
+      "webUrl": "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/",
+      "originalUrl": "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/thebftonline.com/wp-content/uploads/2023/07/By-Nana-Kofi-BOBBIE-SARFO.jpg?fit=1100%2C1540&ssl=1",
+          "width": 1100,
+          "height": 1540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/?amp",
+      "cdnAmpWebUrl": "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/?amp",
+      "publishedDateTime": "2023-07-24T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "business",
+        "domain": "thebftonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility.md",
+      "title": "AI-Driven Innovations Unveiled: Bolstering Security, Customer Experience, And Visibility",
+      "excerpt": "Splunk's makes AI pivot, enhancing security & productivity. New offerings include automated threat analysis & observability advancements, solidifying its leadership.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/",
+      "originalUrl": "https://www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64be89b3549ce84619d98956/0x0.jpg?format=jpg&crop=1499,844,x0,y75,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/amp/",
+      "publishedDateTime": "2023-07-24T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-robot-preachers-ai-programs-may-undermine-credibility-of-religious-groups-study-finds.md",
+      "title": "Robot preachers, AI programs may undermine credibility of religious groups, study finds",
+      "excerpt": "As artificial intelligence expands across more professions, robot preachers and AI programs offer new means of sharing religious beliefs, but they may undermine credibility and reduce donations for religious groups that rely on them,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-credibility.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-credibility.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/robot-preachers-ai-pro.jpg",
+          "width": 592,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-credibility.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-credibility.amp",
+      "publishedDateTime": "2023-07-24T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-mark-zuckerberg-just-changed-artificial-intelligence-forever.md",
       "title": "Mark Zuckerberg Just Changed Artificial Intelligence Forever",
       "excerpt": "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.",
@@ -911,306 +1205,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-ai-in-fintech-market-future-outlook-in-depth-insights-and-forecast-2023-2030-with-major-players-like-microsoft-google-salesforcecom.md",
-      "title": "AI in Fintech Market Future Outlook, In-depth Insights and Forecast 2023-2030 with Major Players like Microsoft, Google, Salesforce.com",
-      "excerpt": "The Global AI in Fintech Market is poised for significant growth between 2023 and 2030, with a positive outlook for 2022 and beyond. As key players in the industry adopt effective strategies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33346171/ai-in-fintech-market-future-outlook-in-depth-insights-and-forecast-2023-2030-with-major-players-lik",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33346171/ai-in-fintech-market-future-outlook-in-depth-insights-and-forecast-2023-2030-with-major-players-lik",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33346171",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33346171",
-      "publishedDateTime": "2023-07-24T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-how-ai-will-impact-the-developer-experience.md",
-      "title": "How AI will impact the developer experience",
-      "excerpt": "Generative AI is not the first new technology that has changed how software developers work. While developers have nothing to fear, the stakes will be high for their employers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html",
-      "originalUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/07/shutterstock_460717630-100942990-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html",
-      "publishedDateTime": "2023-07-24T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity.md",
-      "title": "Utopia Or Dystopia? It’s Up To Us To Teach AI To Reflect The Best Of Humanity",
-      "excerpt": "Sairah Ashman explores what can brands do now to help mould a more utopian relationship with technology in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/",
-      "originalUrl": "https://www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6621bee8922112c6a0e95/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/amp/",
-      "publishedDateTime": "2023-07-24T01:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-ai-heart-scan-aims-to-catch-blockages-years-before-symptoms-unbelievable-breakthrough.md",
-      "title": "AI heart scan aims to catch blockages years before symptoms: ‘Unbelievable breakthrough’",
-      "excerpt": "Fountain Life offers an AI coronary artery scan that purports to detect heart attack risk 3, 5 or even 10 years before symptoms begin. The CEO explains the company's goals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough",
-      "originalUrl": "https://www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1270b920-6004-489e-9357-34043ffe143e/fa9a71ee-1096-41d7-8ee5-3128e8437f89/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough.amp",
-      "publishedDateTime": "2023-07-23T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality.md",
-      "title": "NY police used AI to track drivers on highways as attorney questions legality",
-      "excerpt": "A drug trafficker, David Zayas of Massachusetts, was nabbed by police in New York who used artificial intelligence technology to sift through 1.6 billion license plates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality",
-      "originalUrl": "https://www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Screenshot-2023-07-11-at-10.08.23-AM.png",
-          "width": 734,
-          "height": 984,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality.amp",
-      "publishedDateTime": "2023-07-23T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-failing-to-embrace-ai-is-the-real-threat-to-the-us-in-the-global-ai-race-investor.md",
-      "title": "Failing to embrace AI is the real 'threat' to the US in the global AI race: Investor",
-      "excerpt": "Founder & CEO of RSE Ventures explains why he thinks \"fearmongering\" and a failure to \"create a culture of innovation\" are costing the U.S. in the AI race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2023/07/24/failing-to-embrace-ai-is-the-real-threat-to-the-us-in-global-ai-race.html",
-      "originalUrl": "https://www.cnbc.com/video/2023/07/24/failing-to-embrace-ai-is-the-real-threat-to-the-us-in-global-ai-race.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107275256-16901668911690166889-30442148960-1080pnbcnews.jpg?v=1690170537&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-23T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

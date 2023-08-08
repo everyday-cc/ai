@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33593955"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33593955"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "TCS rolls out neural manufacturing solutions on Microsoft Cloud"
-    excerpt: "Tata Consultancy Services has launched a suite of TCS Neural Manufacturing solutions on Microsoft's Cloud for Manufacturing, designed to futureproof manufacturing operations, drive differentiation, and optimise value chains."
-    publishedDateTime: 2023-08-03T19:12:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/tcs-rolls-out-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102403204.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 19
 
 secured: "ouJEQHVjMW6gtl6LMNUSwUhhIQ6Nbt8SMdZooNSi+raiB3NoCT+YSZ0PYwmPC/DoKWOkXMRyu7G8uRt5uF3jyZ+pji/AMDROSrK+j2ZNu7zTX8F0cjjdpg0uyqs6SpydwyNg4wkRQm9/ZJJr816rwqT+fjXVaiaLzQ9MZm9986hXJA5I8Z9lsF/aReQra0+VijBJhQtNIZ2+wjqsdlUc88spPA5pY1oyHS67nMF0wv+844W6W5D3FwDxJwjq5WxJAJhbN7IRkoaXv3oyIZnAqRK09qJZZlqg7DWzYiAHBT9+zXzSofLNzshJUbGtKebPr91AXauh0mO3P7i36DvvcO/99So5spiDkW3BoFm7U9E=;4PMG9Sa6r0o9wDG4mNC3Aw=="
 ---

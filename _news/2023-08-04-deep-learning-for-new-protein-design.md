@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning for New Protein Design (IMAGE)"
-    excerpt: "Deep learning methods have been used to augment existing energy-based physical models in ‘do novo’ or from-scratch computational protein design, resulting in a 10-fold increase in success rates verified in the lab for binding a designed protein with ..."
-    publishedDateTime: 2023-08-03T18:49:00Z
-    webUrl: "https://www.eurekalert.org/multimedia/994142"
+  - title: "Deep learning improves protein design by 10x"
+    excerpt: "The key to understanding proteins -; such as those that govern cancer, COVID-19, and other diseases -; is quite simple. Identify their chemical structure and find which other proteins can bind to them."
+    publishedDateTime: 2023-08-04T01:08:00Z
+    webUrl: "https://www.news-medical.net/news/20230803/Deep-learning-improves-protein-design-by-10x.aspx"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: News Medical
+      domain: news-medical.net
     quality: 39
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8bb6c875-768d-423a-8ebc-f51fff6be32e/Rendition/low-res/Content/Public"
-        width: 700
-        height: 244
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Protein-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "Deep Learning Improves Protein Design"
     excerpt: "A research team has used deep learning methods to support de novo protein design, resulting in a 10-fold increase in success rates for a protein binding with its target."

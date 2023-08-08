@@ -2,6 +2,300 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-07-06-integrate-saas-platforms-with-amazon-sagemaker-to-enable-ml-powered-applications.md",
+      "title": "Integrate SaaS platforms with Amazon SageMaker to enable ML-powered applications",
+      "excerpt": "Amazon SageMaker is an end-to-end machine learning (ML) platform with wide-ranging features to ingest, transform, and measure bias in data, and train, deploy, and manage models in production with best-in-class compute and services such as Amazon SageMaker Data Wrangler, Amazon SageMaker Studio, Amazon",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-saas-platforms-with-amazon-sagemaker-to-enable-ml-powered-applications/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-saas-platforms-with-amazon-sagemaker-to-enable-ml-powered-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/27/ML-14213-Arch-3-979x630.jpg",
+          "width": 979,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T08:17:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-top-10-artificial-intelligence-ai-cryptocurrencies.md",
+      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
+      "excerpt": "It’s hard to imagine two technologies more of the zeitgeist than artificial intelligence (AI) and cryptocurrency, so it’s no surprise that the two fields converged in the form of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "originalUrl": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/pietro-jeng-n6B49lTx7NM-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-people-are-uncomfortable-with-ai-led-healthcare.md",
+      "title": "People are uncomfortable with AI-led healthcare",
+      "excerpt": "Less than one-third of people are comfortable with their primary care doctor's appointment being led by artificial intelligence ... about the new frontier of healthcare technology, according ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/policy/healthcare/patients-uncomfortable-ai-healthcare",
+      "originalUrl": "https://www.washingtonexaminer.com/policy/healthcare/patients-uncomfortable-ai-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/50c181b/2147483647/strip/true/crop/3729x1958+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F6e%2F0f%2Ff516ae5d44d4b5de9c80dd60a5d4%2Fistock-863492778.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls.md",
+      "title": "Amid Possible Expanded China Chip Restrictions, The State Department Melds Human Rights And Export Controls",
+      "excerpt": "Export controls are depicted as protecting the United States’ national security interests and competitive technological and economic edge against China. But another, less public, impetus for the curbs is a factor that has long been central to the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/",
+      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6d1908a417ec697b1aad2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/",
+      "publishedDateTime": "2023-07-06T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-will-ai-and-humans-cooperate-or-compete.md",
+      "title": "Will AI And Humans Cooperate Or Compete?",
+      "excerpt": "From my perspective, this could help explain why more people are developing personal relationships with AIs. For example, apps like Replika and EVA AI have been making news headlines for providing companionship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/will-ai-and-humans-cooperate-or-compete/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/will-ai-and-humans-cooperate-or-compete/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f74b9824373186fc49d44bb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/will-ai-and-humans-cooperate-or-compete/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/06/will-ai-and-humans-cooperate-or-compete/amp/",
+      "publishedDateTime": "2023-07-06T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-in-nyc-companies-will-have-to-prove-their-ai-hiring-software-isnt-sexist-or-racist.md",
+      "title": "In NYC, companies will have to prove their AI hiring software isn't sexist or racist",
+      "excerpt": "AI-infused hiring programs have drawn scrutiny, most notably over whether they end up exhibiting biases based on the data they’re trained on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/nyc-companies-will-prove-ai-hiring-software-isnt-sexist-racist-rcna92336",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/nyc-companies-will-prove-ai-hiring-software-isnt-sexist-racist-rcna92336",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230703-new-york-morning-commuters-al-0927-b18cc4.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna92336",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna92336",
+      "publishedDateTime": "2023-07-06T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-smarter-it-operations-management-with-ibm-aiops-insights.md",
       "title": "Smarter IT operations management with IBM AIOps Insights",
       "excerpt": "IBM is thrilled to announce the General Availability of IBM AIOps Insights.\nThe post Smarter IT operations management with IBM AIOps Insights appeared first on IBM Blog.\n",
@@ -927,289 +1221,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-musk-predicts-tesla-self-driving-cars-later-this-year.md",
-      "title": "Musk predicts Tesla self-driving cars 'later this year'",
-      "excerpt": "I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/musk-predicts-tesla-self-driving-cars-later-this-year/101531566",
-      "originalUrl": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/musk-predicts-tesla-self-driving-cars-later-this-year/101531566",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-101531566,imgsize-40988,width-1200,height=765,overlay-etauto/passenger-vehicle/musk-predicts-tesla-self-driving-cars-later-this-year.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/musk-predicts-tesla-self-driving-cars-later-this-year/101531566",
-      "cdnAmpWebUrl": "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/musk-predicts-tesla-self-driving-cars-later-this-year/101531566",
-      "publishedDateTime": "2023-07-05T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ET Auto",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-south-korea-wants-to-be-a-top-ai-hub-its-memory-chip-dominance-could-be-an-advantage.md",
-      "title": "South Korea wants to be a top A.I. hub — its memory chip dominance could be an advantage",
-      "excerpt": "South Korea is aiming to become one of the world's top three AI powerhouses by 2027, following closely behind the U.S. and China, according to the nation's \"digital strategy.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107265898-1688357564970-gettyimages-1258636487-AFP_33J733J.jpeg?v=1688615964",
-          "width": 8256,
-          "height": 5504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/06/south-koreas-dominance-in-memory-chips-an-advantage-in-ai-race.html",
-      "publishedDateTime": "2023-07-05T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai.md",
-      "title": "The Brain Technology Treating Neurological Disorders That Will Benefit From AI",
-      "excerpt": "Deep brain stimulation meets machine learning and AI in order to deliver better functional outcomes and quality of life for patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai/",
-      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a5de0aef231c76774c321a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/07/05/the-brain-technology-treating-neurological-disorders-that-will-benefit-from-ai/amp/",
-      "publishedDateTime": "2023-07-05T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-11-startups-developing-ai-to-disrupt-hollywood-and-scoring-hundreds-of-millions-in-vc-and-private-equity-funding.md",
-      "title": "11 startups developing AI to disrupt Hollywood and scoring hundreds of millions in VC and private equity funding",
-      "excerpt": "a London-based AI startup known for its Tom Cruise deepfakes. \"Over 10, 15 years, it'll touch every part of content creation.\" Vendors and investors told Insider that over time, AI tools will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-startups-netflix-marvel-lucasfilm-holllywood-deepfake-dubbing-vc-funding-2023-3",
-      "originalUrl": "https://www.businessinsider.com/ai-startups-netflix-marvel-lucasfilm-holllywood-deepfake-dubbing-vc-funding-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6400c5c676a35b00184807c0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-era-of-ai.md",
-      "title": "Entrepreneur Kathryn Hastings on the Allure of Handwritten Notes in the Era of AI",
-      "excerpt": "Moreover, specific AI language translation tools have eliminated language barriers, enabling real-time communication between individuals who speak different languages. However, in the middle of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/",
-      "originalUrl": "https://www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lifeandstylemag.com/wp-content/uploads/2023/07/KathrynHastings.jpg?crop=0px%2C15px%2C1200px%2C629px&resize=1200%2C630&quality=86&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/amp/",
-      "cdnAmpWebUrl": "https://www-lifeandstylemag-com.cdn.ampproject.org/c/s/www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/amp/",
-      "publishedDateTime": "2023-07-05T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Life & Style Weekly",
-        "domain": "lifeandstylemag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign.md",
-      "title": "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign",
-      "excerpt": "NEW YORK – A super PAC supporting Miami Mayor Francis Suarez 's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/news/politics/2023/07/05/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/",
-      "originalUrl": "https://www.clickondetroit.com/news/politics/2023/07/05/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/V3DDD4NO35DPDN6ML7AXSBMBQM.jpg?_a=ATAPphC0",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/08/07/1077324/ai-language-mode
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MIT Technology Review
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI language models are rife with different political biases"
+    excerpt: "If you ask an AI you might get wildly different answers depending on which one you ask. While OpenAI’s older GPT-2 and GPT-3 Ada models would advance the former statement, GPT-3 Da Vinci, the company’s more capable model,"
+    publishedDateTime: 2023-08-08T09:09:00Z
+    webUrl: "https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/"
+    ampWebUrl: "https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/Screenshot-2023-08-07-at-17.46.14.png"
+        width: 656
+        height: 350
+        isCached: true
   - title: "Why it’s impossible to build an unbiased AI language model"
     excerpt: "Why is it already being investigated? This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. AI language models have recently become the latest frontier in the US culture wars."
     publishedDateTime: 2023-08-08T09:21:00Z

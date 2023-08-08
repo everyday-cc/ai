@@ -408,26 +408,44 @@
     },
     {
       "path": "_news/2023-07-19-ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings.md",
-      "title": "IBM has been talking up AI, but here's what investors should really focus on in earnings",
-      "excerpt": "\"IBM will have a seat at the enterprise AI table given its legacy Watson initiative, increasing security concerns and enterprise positioning,\" Grossman said, recommending the stock as a \"defensive ...",
+      "title": "IBM has been talking up AI, but here’s what investors should really focus on in earnings",
+      "excerpt": "IBM may be hitching to the AI bandwagon with WatsonX but analysts are more interested in Big Blue's growth at Red Hat.",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/marketwatch/20230718413/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings",
-      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230718413/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings",
+      "webUrl": "https://www.marketwatch.com/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
+      "originalUrl": "https://www.marketwatch.com/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-375235/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T12:17:00-07:00",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
+      "publishedDateTime": "2023-07-18T11:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

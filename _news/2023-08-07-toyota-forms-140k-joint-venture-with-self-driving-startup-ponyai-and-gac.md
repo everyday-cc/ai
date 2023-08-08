@@ -53,20 +53,6 @@ related:
         width: 770
         height: 510
         isCached: true
-  - title: "Toyota, Pony.ai plan to mass produce robotaxis in China"
-    excerpt: "Toyota and partner Pony.ai are planning to mass produce robotaxis in China, setting up a venture this year which will build cars that"
-    publishedDateTime: 2023-08-04T09:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/08/04/toyota-pony-ai-plan-to/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ7307B-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Toyota, Pony.Ai to set up robotaxi JV with $139 million investment"
     excerpt: "BEIJING (Reuters) -Autonomous vehicle technology startup Pony.Ai on Friday said it would set up a joint venture with Japan's Toyota Motor with an investment of 1 billion yuan ($139 million) to mass produce robotaxis."
     publishedDateTime: 2023-08-04T09:37:00Z
@@ -81,15 +67,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Toyota, Pony.ai plan to mass produce robotaxis in China"
-    excerpt: "Toyota and partner Pony.ai are planning to mass produce robotaxis in China, setting up a venture this year which will build cars that employ the startup's autonomous driving technology and ride-hailing services."
-    publishedDateTime: 2023-08-04T19:51:00Z
-    webUrl: "https://www.autonews.com/china/toyota-ponyai-plan-mass-produce-robotaxis-china"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 34
 
 secured: "rqUli0C57KUc3xNvA/LZIHw4egvBb6y75uqIfCPxOOMtqEPfpsrWXlECHWmEPtVNBX1stmjVrL8tnqfXvM5TqiIMQ0gjwPctdj/aByA/z2xxUvUl6C5G5Jk/g1IDdeQYooJuS5NwE5VWp9/WWjKn1UllkLndR2HDG9mkImRFMgvutEe9i7BvTRQd+qvCgH5iZCO/xSdLRENi5cnz2vHSeGxcwHBXoahqf3IvhmgeMSclgQfn1+uBO9YK/dJp1AiJM+VOfhZfJYTeJ+HRCSM/LaAFvENh6BoL6B7ZivxB/24UR/RRS1KDxYcNSI7mqV9K4wNpzf6wCEUX4FusLluGvDkDinpcuLqEPhIujHNRImY=;AdUdjVeggFyFbdqaWBEyCw=="
 ---

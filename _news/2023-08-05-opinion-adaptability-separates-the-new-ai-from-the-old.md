@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/education/k-12/opinion-adaptability-separate
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old?_amp=true"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Government Technology
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Opinion: This is what tech companies, from Amazon to Apple, just told investors about AI"
+    excerpt: "That set up sky-high expectations for companies that are embedding AI-related technology across their product suites as well as chip companies that are selling to them. The second quarter, therefore, became a litmus test. Here’s a breakdown of AI’s ..."
+    publishedDateTime: 2023-08-08T11:49:00Z
+    webUrl: "https://www.marketwatch.com/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://images.mktw.net/im-724370/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "OPINION: From principles to laws: Consumer protection can galvanize AI regulation"
     excerpt: "In recent years, numerous principles, handbooks, codes, and guides have been released on how governments and organizations can tackle widespread AI risks. An online resource from AI Ethicists has an impressive list of more than 70 AI principles from governmental,"
     publishedDateTime: 2023-08-03T19:20:00Z

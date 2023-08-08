@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Inside the secret Google DeepMind mafia of founders working on new stealth AI startups"
+    excerpt: "Alphabet's AI research lab DeepMind nurtures the industry's top talent. It's also spawned a wave of secretive new startups."
+    publishedDateTime: 2023-08-08T10:43:00Z
+    webUrl: "https://www.businessinsider.com/stealth-ai-startups-emerge-from-google-deepmind-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/5beb0fed01b12d5fed0bff43?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google & DeepMind Move Steps Toward Generalist Biomedical AI System"
     excerpt: "Despite significant progress in Artificial Intelligent (AI) system, most of the existing state-of-the-art (SOTA) systems are unimodal single task systems, which poses a challenge in developing medical AI systems as medical tasks are inherently multimodal with rich modalities spanning text,"
     publishedDateTime: 2023-08-05T04:28:00Z
