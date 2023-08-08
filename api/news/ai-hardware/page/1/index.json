@@ -107,6 +107,59 @@
       ]
     },
     {
+      "path": "_news/2023-08-07-revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm.md",
+      "title": "Revolutionizing The Future: Unleashing The Power Of AI In An AI-First Cloud Paradigm",
+      "excerpt": "To fully harness the potential of AI, a significant transformation of cloud infrastructure is necessary to handle AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64cd52914684645a13364b30/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/",
+      "publishedDateTime": "2023-08-07T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-chinas-memory-chip-efforts-face-stronger-headwinds-as-micron-samsung-sk-hynix-race-ahead-on-ai.md",
       "title": "China's memory chip efforts face stronger headwinds as Micron, Samsung, SK Hynix race ahead on AI",
       "excerpt": "While these locally-made memory chips are suitable for consumer electronics, they may fall short if used for AI servers. Brady Wang, an associate director with research firm Counterpoint, said China has to buy advanced memory chips from Korean and Japanese ...",
@@ -115,7 +168,7 @@
       "originalUrl": "https://www.koreatimes.co.kr/www/world/2023/08/501_356500.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -210,7 +263,7 @@
       "originalUrl": "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-shortage-but.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -262,7 +315,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -366,7 +419,7 @@
       "originalUrl": "https://www.econotimes.com/Hyundai-Motor-Group-Announces-Partnership-with-Canadas-Tenstorrent-AI-Chip-Company-1660584",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -402,49 +455,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-03-ai-apps-drive-computing-power-chip-demand.md",
-      "title": "AI apps drive computing power, chip demand",
-      "excerpt": "The terms artificial intelligence (AI), machine learning and natural language processing were rapidly thrust into the limelight following the launch of ChatGPT late last year as the platform, and to a lesser degree similar AI programmes, took the world by storm, increasing productivity and enhancing creativity across various industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theasset.com/article/49701/ai-apps-drive-computing-power-chip-demand",
-      "originalUrl": "https://www.theasset.com/article/49701/ai-apps-drive-computing-power-chip-demand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theasset.com/storage/Image/2023/Aug/1691044487chatgpc.jpg",
-          "width": 2001,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Asset",
-        "domain": "theasset.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-03-coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-23b-loan.md",
       "title": "CoreWeave, which provides cloud infrastructure for AI training, secures $2.3B loan",
       "excerpt": "As organizations rush to embrace AI, it’s putting the cloud — or clouds, rather — under strain. Amazon Web Services, Microsoft, Google and Oracle, facing an unprecedented spike in demand for the server chips that train and run AI-powered software ...",
@@ -453,7 +463,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {

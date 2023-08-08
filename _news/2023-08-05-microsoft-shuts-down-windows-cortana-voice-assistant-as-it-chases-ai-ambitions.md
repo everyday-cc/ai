@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/"
 type: article
 quality: 100
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/42190d38ade8b2297bf2f0e63f4439bee821301e/hub/2023/02/10/62e99904-1127-458c-8fdf-cf9018b816b7/20230207-bing-logo-01.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "HCLSoftware teams up with Microsoft to drive AI-powered offerings"
+    excerpt: "HCLSoftware has announced a collaboration with Microsoft to integrate Microsoft's Azure OpenAI Service into its software products, according to a release on Monday."
+    publishedDateTime: 2023-08-08T05:04:00Z
+    webUrl: "https://www.zeebiz.com/technology/news-hclsoftware-teams-up-with-microsoft-to-drive-ai-powered-offerings-247923"
+    ampWebUrl: "https://www.zeebiz.com/technology/news-hclsoftware-teams-up-with-microsoft-to-drive-ai-powered-offerings-247923/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-hclsoftware-teams-up-with-microsoft-to-drive-ai-powered-offerings-247923/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 74
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
+        width: 700
+        height: 394
         isCached: true
   - title: "Microsoft announces Bing AI coming to Safari and Chrome"
     excerpt: "Marking six months since the launch of its ChatGPT-like AI app, Microsoft has announced that it is bringing the technology to browsers such as Safari, \"soon.\""
@@ -84,6 +100,17 @@ related:
         width: 1920
         height: 784
         isCached: true
+  - title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
+    excerpt: "Business Wire India HCLSoftware, a leading software provider, announced a collaboration with Microsoft to integrate Microsoft’s Azure OpenAI Serv"
+    publishedDateTime: 2023-08-08T04:57:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2023/08/08/dcm8-hclsoftware.html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/08/08/dcm8-hclsoftware.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/08/08/dcm8-hclsoftware.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 53
   - title: "Microsoft says AI-powered Bing Chat will come to more mobile browsers soon, but it’ll be worse"
     excerpt: "Microsoft has revealed that it is planning to launch its AI assistant Bing Chat on third-party mobile browsers \"soon.\""
     publishedDateTime: 2023-08-07T16:37:00Z

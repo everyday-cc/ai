@@ -44,20 +44,6 @@ related:
         width: 2560
         height: 1280
         isCached: true
-  - title: "Nvidia RTX 40-series production reportedly slowing down after AI GPU boom"
-    excerpt: "Nvidia is reportedly winding down production of its RTX 40-series graphics cards, following a boom in AI product demand."
-    publishedDateTime: 2023-08-03T11:41:00Z
-    webUrl: "https://www.dexerto.com/tech/nvidia-rtx-40-series-production-ai-gpu-boom-2235345/"
-    type: article
-    provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 53
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2022/11/15/RTX-4080-Founders-Edition-power.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "lDowRwu+KlHM+WoG5fJvj7rNL8028snhxJ7BKagoy6OCpSn85GG77WrWBzxjPcFFcPFmfrDupdwwyK2mx4+As/h4G5hevE3TyDv6M68c3M2PJKiW/+R1+YZ64S37jpXUxO8BCAsM2w1BPJUrDNVzqXVa4/ttt60wyrO6x9JQRF1hL8jX9kWzBQcQESKw7iDMZJIiVPAD4Cw7TYkh9EoIJqClQ/3eWjIUnh/ybxDxflVxv/mqBkIPCDdKjIbb/xdYMKo+3uGrjmfXW+5dm6AoaNsIVWfKJoU4vF5YGMxhfQff7flLAbEeINVyvylMUvMQoBmfsws05GFtJzEpVFU8p3Q1xNL79tqv5oUygCWoyCiFpkq99e9JpxTSphb1JZFYEZJH78CQAJnr9D25uMvBEMAF4/LnLN7P1vchqBM1CX/pKiVMCFgB8fyW52iDjNkcu3113a1bbLrAazGcr+RC/G8zgELUquHJ+oKbj3NqxumR5EUCLH/KV2AW54Aqx2Te9Q45dfETR2Vbn05xKmKS7A==;S41+sVsDzXFLl6Yvk0V7sw=="
 ---

@@ -80,14 +80,14 @@ related:
   - title: "Carjacking case arrest spurs call for police to end facial recognition"
     excerpt: "A Detroit woman is suing the city and a police officer, saying she was falsely arrested when she was eight months pregnant and accused of a carjacking based on facial"
     publishedDateTime: 2023-08-07T23:42:00Z
-    webUrl: "https://www.messenger-inquirer.com/news/national/carjacking-case-arrest-spurs-call-for-police-to-end-facial-recognition/video_f8ef52d2-90f1-5c37-968e-d7fdf593afa3.html"
+    webUrl: "https://www.northwestgeorgianews.com/carjacking-case-arrest-spurs-call-for-police-to-end-facial-recognition/video_abf9c0c7-b2ce-511d-94f8-4326b2ced46e.html"
     type: article
     provider:
-      name: Messenger-Inquirer
-      domain: messenger-inquirer.com
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/f/8e/f8ef52d2-90f1-5c37-968e-d7fdf593afa3/64d18cd7cbe35.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/a/bf/abf9c0c7-b2ce-511d-94f8-4326b2ced46e/64d18cb52a358.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -148,20 +148,6 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/d9d3889/2147483647/strip/true/crop/959x503+0+43/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fmichigan%2Ffiles%2F201908%2Ffacial_recognition_dawson.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "All Cases of Mistaken Facial Recognition Arrests Have Targeted Black Individuals"
-    excerpt: "For a long time, different groups that care about people’s rights, technology experts, and people who work to bring about social change have warned about how facial recognition technology could worsen existing racial inequalities in law enforcement."
-    publishedDateTime: 2023-08-07T08:11:00Z
-    webUrl: "https://techstory.in/all-cases-of-mistaken-facial-recognition-arrests-have-targeted-black-individuals/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/08/facial-recognition-crop.jpg"
-        width: 800
-        height: 492
         isCached: true
   - title: "Detroit Facial Recognition Software Results in Wrongful Arrest of Pregnant Woman"
     excerpt: "Recent reports have revealed that the Detroit Police Department wrongly arrested a pregnant Black woman for a crime she did not commit after she was misidentified by the city’s facial recognition software."

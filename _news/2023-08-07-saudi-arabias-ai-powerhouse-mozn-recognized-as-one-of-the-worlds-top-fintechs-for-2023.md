@@ -41,6 +41,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "The Governments of Saudi Arabia and Israel are Closer to Normalization, Residents Object"
+    excerpt: "Normalization with Israel must conform to the principles of the Arab Peace Initiative. Saudi Arabia has long since stated its readiness to make peace with Israel if the Palestinian issue is resolved."
+    publishedDateTime: 2023-08-08T05:09:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/08/08/en-pemerintah-arab-saudi-israel-makin-dekat-ke-normalisasi-warga-keberatan"
+    type: article
+    provider:
+      name: Kompas.id
+      domain: kompas.id
+    quality: 15
+    images:
+      - url: "https://dmm0a91a1r04e.cloudfront.net/s3baUfDdMi4AVL8Z1qTqQTSA_X4=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F08%2F08%2F0c88c11c-8d87-4b07-b51c-a379fd8fec8c_jpg.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "m+RZJJv+A1Hwq5CPRC9rq124jsUk0kCmwLb22fRyhyxYi3CukDA8m/+n80UBu4kV+CHArRROyBD5p0DnmTbHh0IvgbvVpa9AnrCT8WdCS5VMnS+/MCRVO0KhXR9ZHP8Cs16Zv3NICwdzBMm34WVEAm4EPeCQIRDABcgBbKUW2dOePdmAhKB+As/lIGjpVzhHt2RN7gXgt4e9R4EzK7HloLFQiLHaq5nPhAEDGwKvCctd+bMhBn+l0JlSJ4SQZAxNSZ1Nn1HlQDab7ZRn0Wpt2ZAaxb+VHDFPQBEbReItAzHxAvCNRY8cv54d6QHnqWtVXU5CDESLrRx2uDZ0Gz4Qn7FDLKKoEY4HQeF01XNsJZc=;g47I92HDiueyHc4j2VuF/g=="
 ---

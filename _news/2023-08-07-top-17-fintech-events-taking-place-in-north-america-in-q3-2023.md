@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.ch/events/top-17-fintech-events-taking-place-i
 webUrl: "https://fintechnews.ch/events/top-17-fintech-events-taking-place-in-north-america-in-q3-2023/63000/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Digital Finance Africa Recap: Unlocking the Future of Fintech"
-    excerpt: "Christoff Pienaar and Anelisa Ndebele from Webber Wentzel touched on subjects like emerging trends in Fintech, like crypto currency being declared an asset, financial inclusion and exploring the opportunities for a rand backed digital currency and the influence of geopolitics on the African Market."
-    publishedDateTime: 2023-08-04T12:23:00Z
-    webUrl: "https://www.itnewsafrica.com/2023/08/digital-finance-africa-recap-unlocking-the-future-of-fintech/"
+  - title: "America’s Most Tech-Forward City Has Doubts About Self-Driving Cars"
+    excerpt: "SAN FRANCISCO—This city’s inhabitants embraced computers, the Internet and cellphones before the rest of the world caught on. They are not so sure about self-driving cars."
+    publishedDateTime: 2023-08-05T01:03:00Z
+    webUrl: "https://www.wsj.com/articles/americas-most-tech-forward-city-has-doubts-about-self-driving-cars-d6b098e0?mod=hp_lead_pos7"
     type: article
     provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 19
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 34
 
 secured: "t6mqOWYDEMJxAILll/GjsxsnF8Fx/hxRWm7kNmSA2XrSjkkSGkXi4e1EDfvKsMPYp7CeaZ4XQWX2Ss2onyYdiL7bBV6+L6uI3qydOmJUWOT8+yp103ATr3Oxww5VneOBfS9KxQMRQa7UtHg+mOgzhFFlHARKBLIlJgiyxnapB07dP2P8RH5vYE7LQJE6kOMWscQ1XySOh7RAKTWiP5ax8ZwDCQoizithKmxtmwfbc3HdI0PxnlpEsQJMI1Pvi/3AOHyX+5CgitdFPBOnc4yWNYiO/Ag5dXWdhol3Nn7vMlAUOe3YZeG9LC0HpZyvxto02cPhQsnSE03ArMv/Dum1kXLCmeZaHyTclgASFnTue8A=;uP9RRglU4nb1lAcoEld+Rg=="
 ---

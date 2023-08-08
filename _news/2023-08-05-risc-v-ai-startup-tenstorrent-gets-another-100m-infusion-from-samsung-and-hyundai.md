@@ -52,24 +52,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Samsung, Hyundai back AI startup Tenstorrent: Everyone wants competition to Nvidia, says CEO Keller"
-    excerpt: "Nvidia's GPUs are not the end-game for AI, says Keller. \"When the aliens land, I don't think they'll be asking us did we invent CUDA.\""
-    publishedDateTime: 2023-08-03T12:22:00Z
-    webUrl: "https://www.zdnet.com/article/samsung-hyundai-back-ai-startup-tenstorrent-everyone-wants-competition-to-nvidia-says-ceo-keller/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 37
-  - title: "AI chip firm Tenstorrent raises US$100 million from Hyundai, Samsung"
-    excerpt: "TENSTORRENT, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence (AI) chips, said on Wednesday (Aug 2) it had raised US$100 million from Hyundai Motor Group and a Samsung investment fund,"
-    publishedDateTime: 2023-08-03T11:17:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/ai-chip-firm-tenstorrent-raises-us100-million-hyundai-samsung"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 34
 
 secured: "3bb3XJfVLmNaHCHATQvH6JN50aZ4OtRZdhCfBq145o29dXWk/a1H6b1Ioxt9gujx11TAmxcJe7spzTjnimh5muazWfSjAv9PerH17faUb6hpmInD1QbWYi2K6mY1YDMAk3KZiK+pL1CNldukWq3dBjuE1IxDHsDo4WWjx/Ydml5u2gwpytwP4bkb4+VPf4QdaYqML060qqPVdJpwmuQR6TUB5lxpG5DDul0UaLhpWpOYT6nryDH3KRM2rtPUQLQxFVkrdjQLZe3Q7Pv059/1/AGKWsmwq5rxhsH8H/dhp1bKnAMdC8qwP2VF2IKhgH42Gjh2V/bAtARCluRgJZR5NLEqO8wFxeW308eIsNTlUUA=;8b8bTmS2Z7caIJ7xwzncsA=="
 ---

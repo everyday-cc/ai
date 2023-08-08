@@ -100,6 +100,17 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "Cyient sets up CoE to power engineering with Generative AI"
+    excerpt: "Cyient & Microsoft partner to set up CoE EnGeneer to drive engineering innovation using Generative AI. CoE to integrate new Generative AI capabilities into existing solutions, CyFast & CyArc. OpenAI & Generative AI technologies to be used across all Cyient platform solutions."
+    publishedDateTime: 2023-08-08T04:18:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
   - title: "Dell announces generative AI solutions"
     excerpt: "The company is offering a range of generative AI solutions across its hardware, software, and services offerings."
     publishedDateTime: 2023-08-07T12:34:00Z
@@ -118,15 +129,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
-  - title: "5 Steps For Creating a Breakout Generative AI Startup"
-    excerpt: "You can also use open-source frameworks that streamline the process of building generative AI apps. One is LangChain. It allows for integrating many LLMs (Large Language Models) -- even those that are free -- as well as providing access to data sources, such as Google and Wikipedia. You can even connect with popular apps like Notion."
-    publishedDateTime: 2023-08-03T12:02:00Z
-    webUrl: "https://www.inc.com/tom-taulli/5-steps-for-creating-a-breakout-generative-ai-startup.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
   - title: "As Gen AI Explodes, Will Legal Tech Companies Get More Aggressive Protecting Company Secrets?"
     excerpt: "Some legal tech organizations are rethinking their employment contractions in the face of the competition fueled by generative AI. Still, experts told Legaltech News they expect to see more litigation around employment contracts going forward."
     publishedDateTime: 2023-08-03T19:56:00Z

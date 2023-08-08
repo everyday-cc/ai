@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "CoreWeave secures $2.3 billion in new financing for GPU cloud, data centers"
-    excerpt: "CoreWeave, a specialized cloud provider of large-scale GPU-accelerated workloads, announced that it has secured a $2.3 billion debt facility."
-    publishedDateTime: 2023-08-03T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/coreweave-secures-2-3-billion-in-new-financing-for-gpu-cloud-data-centers/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "CoreWeave Secures $2.3 B Debt Financing Facility to Meet Surging Demand and Ongoing Expansion of Specialized Cloud Infrastructure to Power AI"
     excerpt: "CoreWeave , a specialized cloud provider of large-scale GPU-accelerated workloads, today announced it has secured a $2.3 billion debt financing facility. The funding was led by Magnetar Capital and funds managed by Blackstone Tactical Opportunities"
     publishedDateTime: 2023-08-03T13:55:00Z

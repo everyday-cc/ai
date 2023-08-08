@@ -85,24 +85,15 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "AI Powered, Self-Driving Taxis Begin Service in the UAE"
-    excerpt: "This is the driverless vehicle currently ferrying passengers around in two cities, part of an international autonomous tech company WeRide. They’ve been offering the rides for free, an attempt to"
-    publishedDateTime: 2023-08-03T11:49:00Z
-    webUrl: "https://www.djournal.com/news/national/ai-powered-self-driving-taxis-begin-service-in-the-uae/video_0b1f051f-2390-5fb0-bcd9-fcff00022465.html"
+  - title: "120 driverless road trains for the West Pilbara"
+    excerpt: "In a world-first, MinRes will deploy a fleet of 120 autonomous road trains, which will each carry 330 tonnes of iron ore along a 150km route."
+    publishedDateTime: 2023-08-08T03:59:00Z
+    webUrl: "https://bigrigs.com.au/2023/08/08/120-driverless-road-trains-for-the-west-pilbara/"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 19
-  - title: "Aurora raises $853 million while self-driving truck competitors falter"
-    excerpt: "Self-driving trucking company Aurora Innovation expects to have $1.6 billion to carry it through its planned commercial launch at the end of 2024 and into the second half of 2025."
-    publishedDateTime: 2023-08-03T12:01:00Z
-    webUrl: "https://www.autonews.com/mobility-report/aurora-innovation-raises-more-funding-self-driving-trucks"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
+      name: Big Rigs
+      domain: bigrigs.com.au
+    quality: 34
   - title: "Congress urged to help get more self-driving vehicles on US roads"
     excerpt: "Advocates for auto companies and consumer technology firms on Wednesday urged a congressional subcommittee to adopt legislation to advance the development of self-driving cars, saying the U.S. will fall behind competitors, especially China, if the federal ..."
     publishedDateTime: 2023-08-06T09:19:00Z

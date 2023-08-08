@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolution
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: Forbes
@@ -32,61 +32,71 @@ images:
     isCached: true
 
 related:
-  - title: "What’s Under The Hood Of This AI Revolution?"
-    excerpt: "AI users interact with one side of the tech’s story, but the enablers—the ones building the backstage infrastructure technology and hardware—are equally valuable."
-    publishedDateTime: 2023-08-03T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/amp/"
+  - title: "The Ghost of Privacy Past Haunts the Senate’s AI Future"
+    excerpt: "The US Congress is trying to tame the rapid rise of artificial intelligence. But senators’ failure to tackle privacy reform is making the task a nightmare."
+    publishedDateTime: 2023-08-04T18:05:00Z
+    webUrl: "https://www.wired.com/story/ai-regulation-privacy-us-senate/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64cc121bd96882f74caa411b/191:100/w_1280,c_limit/A-Fight-Over-Privacy-Looms-Over-AI-in-Washington-Security-GettyImages-1524620606.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "AI and robots might be the future of battery development"
+    excerpt: "Combining the power of robots and artificial intelligence, researchers have found a way to develop faster charging and more energy-dense batteries."
+    publishedDateTime: 2023-08-03T13:26:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-and-robots-future-battery"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/09/image/jpeg/zJQEuHMS5v67BKugegCEa7K59vq1AI7lMk8IRyXa.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Understanding The Impact And Driving Factors Of Conversation AI"
+    excerpt: "The advent of conversation AI signifies a major leap in the evolution of data management and interaction. It democratizes data access and has the potential to optimize an array of processes across diverse sectors. It not only simplifies data analysis but also fosters a more engaged approach to data exploration."
+    publishedDateTime: 2023-08-07T13:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/understanding-the-impact-and-driving-factors-of-conversation-ai/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 49
+  - title: "Fear Of Ai In The West Is Misdirected"
+    excerpt: "The fear of artificial intelligence is largely a Western phenomenon. It is virtually absent in Asia. In contrast, East Asia sees AI as an invaluable"
+    publishedDateTime: 2023-08-07T07:32:00Z
+    webUrl: "https://menafn.com/1106796191/Fear-Of-Ai-In-The-West-Is-Misdirected"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&width=1200"
+      - url: "https://menafn.com/updates/pr/2023-08/07/AT_da0cbimage_story.jpg"
         width: 1200
-        height: 836
+        height: 960
         isCached: true
-  - title: "How Artificial Intelligence (AI) is revolutionizing image editing"
-    excerpt: "AI is revolutionizing image editing by enhancing quality, efficiency, and creativity. It's making professional editing accessible to all through tools like image upscaling, automating complex tasks, and opening new artistic possibilities. AI blends technology and art, shaping the future of digital imaging."
-    publishedDateTime: 2023-08-04T11:07:00Z
-    webUrl: "https://www.artmajeur.com/en/magazine/20-sell-art/how-artificial-intelligence-ai-is-revolutionizing-image-editing/333967"
+  - title: "AI as the next computing platform"
+    excerpt: "The games industry requires hundreds, if not thousands, of projects every year, so the prospect of radically cutting the time and cost of creative brainstorming and prototyping is, ahem, game-changing. Add to that the increasing ability to use generative AI in software development, and the time from concept to code goes from months to days."
+    publishedDateTime: 2023-08-07T14:00:00Z
+    webUrl: "https://siliconangle.com/2023/08/07/ai-next-computing-platform/"
     type: article
     provider:
-      name: Artmajeur
-      domain: artmajeur.com
-    quality: 54
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://www.artmajeur.com/medias/hd/j/e/jean-dubreil/blog/digital-designer.jpg"
-        width: 1000
-        height: 500
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/aibrain-geralt-pixabay.jpeg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "MC Interview | AI to revolutionise e-commerce immersiveness: Meesho Co-founder and CTO"
-    excerpt: "Using the AI system, it takes the team an average of 72 hours to find counterfeit products and remove them. Barnwal says that the team is making steady progress to lower the detection time further. As for ethics and principles guarding AI, Barnwal agrees ..."
-    publishedDateTime: 2023-08-07T11:33:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/mc-interview-ai-to-revolutionise-e-commerce-immersiveness-meesho-co-founder-and-cto-11115251.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/mc-interview-ai-to-revolutionise-e-commerce-immersiveness-meesho-co-founder-and-cto-11115251.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/mc-interview-ai-to-revolutionise-e-commerce-immersiveness-meesho-co-founder-and-cto-11115251.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 51
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/Sanjeev-Barnwal_Meesho-653x435.jpg"
-        width: 653
-        height: 435
-        isCached: true
-  - title: "Working with robots: how AI is revolutionising productivity and the Australian jobs landscape"
-    excerpt: "Midjourney imagines a robot tasked with sorting through ... that essentially do the work of junior lawyers. If AI is doing your job pretty well – such as research and proofreading – where does one start in the legal field and learn the nuances and ..."
-    publishedDateTime: 2023-08-04T13:32:00Z
-    webUrl: "https://www.couriermail.com.au/lifestyle/qweekend/working-with-robots-how-ai-is-revolutionising-productivity-and-the-australian-jobs-landscape/news-story/8ec1359c236e271084e3c959b211d176"
-    type: article
-    provider:
-      name: The Courier-Mail
-      domain: couriermail.com.au
-    quality: 23
 
 secured: "NvjTlqD0hdhpJCe0GHvsR19z9qsSK7F9rR6D4GSaOLc74PHdtx7Xf+O321xOPQtrMwYr6EHOa1PXfYcKMpRerHfI2IB2iQor1GSzdLTRwMK2g45XhpsQCyfsSuJNCfPMM4E4j/d2hKnwRxwuceNISP8O+YK5glERbQ/tQFH7Y7ddFmjxP9QAPjCuZJ4HJt4kqeKWlqKKEQz52ipuC9oRHWwIvkR+60aIJw9TfsixrDAXus38ylxBLb07ST/E+K2h70NAzz0rQtAcTikxIkPQS2pyYPG3cGbIMfDwnSJplj/OisS4JzGOUWF7OD/r62CnZ4lVnI/UsXxA1xmq1cBL3dgp5GKZqocjk71LfP4u5MM=;J+m2c3ENpdlbib/WLfnysg=="
 ---

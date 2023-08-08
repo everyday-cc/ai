@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-07-ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts.md",
-      "title": "AI and Machine Learning set to drive India's $8 billion digital advertising industry, say experts",
-      "excerpt": "AI and operational machine learning are expected to transform the communication sectors, including advertising and PR. These technologies have the potential to significantly impact the Indian digital advertising industry,",
+      "path": "_news/2023-08-07-revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm.md",
+      "title": "Revolutionizing The Future: Unleashing The Power Of AI In An AI-First Cloud Paradigm",
+      "excerpt": "To fully harness the potential of AI, a significant transformation of cloud infrastructure is necessary to handle AI workloads.",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts-11691378452164.html",
-      "originalUrl": "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts-11691378452164.html",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://www.livemint.com/lm-img/img/2023/08/07/600x338/USA-STOCKS-AI-0_1691381054977_1691381085497.JPG",
-          "width": 600,
-          "height": 338,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64cd52914684645a13364b30/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 754,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts/amp-11691378452164.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts/amp-11691378452164.html",
-      "publishedDateTime": "2023-08-06T21:07:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/",
+      "publishedDateTime": "2023-08-07T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,7 +50,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {

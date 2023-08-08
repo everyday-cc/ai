@@ -94,6 +94,17 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "Cyient sets up CoE to power engineering with Generative AI"
+    excerpt: "Cyient & Microsoft partner to set up CoE EnGeneer to drive engineering innovation using Generative AI. CoE to integrate new Generative AI capabilities into existing solutions, CyFast & CyArc. OpenAI & Generative AI technologies to be used across all Cyient platform solutions."
+    publishedDateTime: 2023-08-08T04:18:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
   - title: "Efficiently grow with predictive artificial intelligence engagement modeling"
     excerpt: "In an industry first, Alkami is now leveraging artificial intelligence (AI) predictive modeling to help financial institutions identify highly engaged"
     publishedDateTime: 2023-08-03T21:01:00Z
@@ -126,15 +137,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
-  - title: "5 Steps For Creating a Breakout Generative AI Startup"
-    excerpt: "You can also use open-source frameworks that streamline the process of building generative AI apps. One is LangChain. It allows for integrating many LLMs (Large Language Models) -- even those that are free -- as well as providing access to data sources, such as Google and Wikipedia. You can even connect with popular apps like Notion."
-    publishedDateTime: 2023-08-03T12:02:00Z
-    webUrl: "https://www.inc.com/tom-taulli/5-steps-for-creating-a-breakout-generative-ai-startup.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
   - title: "Kyndi's Generative AI Answer Engine Recognized for Revolutionizing the Way Employees and Customers Find Answers to Queries"
     excerpt: "Unlike chatbots, ChatGPT, and traditional search engine tools, Kyndi's Answer Engine is an enterprise-class solution that generates precise answers from trusted enterprise content, eliminating hallucinations while providing transparency in the results by allowing users to trace back to the sources of the answers."
     publishedDateTime: 2023-08-03T15:27:00Z

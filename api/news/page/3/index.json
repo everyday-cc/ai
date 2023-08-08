@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-04-how-an-ai-marketing-start-up-took-investors-for-a-ride.md",
+      "title": "How an AI marketing start-up took investors for a ride",
+      "excerpt": "Inside Metigy, an artificial intelligence house of cards, where staff, went for months without pay even as investors believed everything was rosy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.afr.com/technology/how-an-ai-marketing-start-up-took-investors-for-a-ride-20230803-p5dtot",
+      "originalUrl": "https://www.afr.com/technology/how-an-ai-marketing-start-up-took-investors-for-a-ride-20230803-p5dtot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.ffx.io/images/$zoom_0.2182%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_550%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/430cb768d1deedb8d7845c53904a1ddc5d9fac76",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T23:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian Financial Review",
+        "domain": "afr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-toyota-ponyai-to-set-up-robotaxi-jv-with-139-mln-investment.md",
       "title": "Toyota, Pony.Ai to set up robotaxi JV with $139 mln investment",
       "excerpt": "Autonomous vehicle technology startup Pony.Ai on Friday said it would set up a joint venture with Japan's Toyota Motor with an investment of 1 billion yuan ($139 million) to mass produce robotaxis.",
@@ -61,7 +104,7 @@
       "originalUrl": "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -540,49 +583,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-03-ai-apps-drive-computing-power-chip-demand.md",
-      "title": "AI apps drive computing power, chip demand",
-      "excerpt": "The terms artificial intelligence (AI), machine learning and natural language processing were rapidly thrust into the limelight following the launch of ChatGPT late last year as the platform, and to a lesser degree similar AI programmes, took the world by storm, increasing productivity and enhancing creativity across various industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theasset.com/article/49701/ai-apps-drive-computing-power-chip-demand",
-      "originalUrl": "https://www.theasset.com/article/49701/ai-apps-drive-computing-power-chip-demand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theasset.com/storage/Image/2023/Aug/1691044487chatgpc.jpg",
-          "width": 2001,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Asset",
-        "domain": "theasset.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-03-its-time-for-all-companiesand-their-employeesto-start-experimenting-with-ai.md",
       "title": "It’s Time For All Companies—And Their Employees—To Start Experimenting With AI",
       "excerpt": "AI makes us all more productive by augmenting, enlightening or curating tasks that once took hours and iterations but can now be finalized in seconds.",
@@ -747,7 +747,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/08/g33550168/abu-dhabis-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -791,7 +791,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {

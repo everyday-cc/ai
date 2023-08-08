@@ -25,63 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "What’s Under The Hood Of This AI Revolution?"
-    excerpt: "AI users interact with one side of the tech’s story, but the enablers—the ones building the backstage infrastructure technology and hardware—are equally valuable."
-    publishedDateTime: 2023-08-03T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/amp/"
+  - title: "Defending Against AI-Based Phishing Attacks"
+    excerpt: "Nefarious phishing operations have rapidly adopted AI tools that can launch devastating business email compromises using social engineering techniques."
+    publishedDateTime: 2023-08-04T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63cef5084fcbdd7722766ec0/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 836
+        height: 695
         isCached: true
-  - title: "Revolutionizing The Future: Unleashing The Power Of AI In An AI-First Cloud Paradigm"
-    excerpt: "To fully harness the potential of AI, a significant transformation of cloud infrastructure is necessary to handle AI workloads."
-    publishedDateTime: 2023-08-07T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/"
+  - title: "Jericho Security secures $3M to counter AI-powered phishing attacks"
+    excerpt: "Jericho assists enterprises in defending against social engineering phishing attacks by leveraging AI to create sophisticated simulations and educational content for employees. In the company’s own words, it “uses AI to fight AI,” acting as a white hat for organizations."
+    publishedDateTime: 2023-08-03T16:00:00Z
+    webUrl: "https://siliconangle.com/2023/08/03/jericho-security-secures-3m-counter-ai-powered-phishing-attacks/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd52914684645a13364b30/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 754
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/jerichosecurity.png"
+        width: 533
+        height: 316
         isCached: true
-  - title: "MC Interview | AI to revolutionise e-commerce immersiveness: Meesho Co-founder and CTO"
-    excerpt: "Using the AI system, it takes the team an average of 72 hours to find counterfeit products and remove them. Barnwal says that the team is making steady progress to lower the detection time further. As for ethics and principles guarding AI, Barnwal agrees ..."
-    publishedDateTime: 2023-08-07T11:33:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/mc-interview-ai-to-revolutionise-e-commerce-immersiveness-meesho-co-founder-and-cto-11115251.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/mc-interview-ai-to-revolutionise-e-commerce-immersiveness-meesho-co-founder-and-cto-11115251.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/mc-interview-ai-to-revolutionise-e-commerce-immersiveness-meesho-co-founder-and-cto-11115251.html/amp"
+  - title: "Bringing Artificial Intelligence into the classroom"
+    excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
+    publishedDateTime: 2023-08-08T02:40:00Z
+    webUrl: "https://www.fox13news.com/video/1260378"
+    ampWebUrl: "https://www.fox13news.com/video/1260378.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1260378.amp"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 51
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/Sanjeev-Barnwal_Meesho-653x435.jpg"
-        width: 653
-        height: 435
-        isCached: true
-  - title: "Working with robots: how AI is revolutionising productivity and the Australian jobs landscape"
-    excerpt: "Midjourney imagines a robot tasked with sorting through ... that essentially do the work of junior lawyers. If AI is doing your job pretty well – such as research and proofreading – where does one start in the legal field and learn the nuances and ..."
-    publishedDateTime: 2023-08-04T13:32:00Z
-    webUrl: "https://www.couriermail.com.au/lifestyle/qweekend/working-with-robots-how-ai-is-revolutionising-productivity-and-the-australian-jobs-landscape/news-story/8ec1359c236e271084e3c959b211d176"
-    type: article
-    provider:
-      name: The Courier-Mail
-      domain: couriermail.com.au
-    quality: 23
+      name: Fox 13
+      domain: fox13news.com
+    quality: 37
 
 secured: "NtYkaF13WxTcoHnp+6+DkOJhyKleo49icLTevAQRVLBjiORwdWb8md2pyQltXukwvBxDlBNaLUu0Bwinig6lia2iTXbONp+xGE27indckbGblnXfUGKibx9ICzrwWr15HMvLreTwfa3odjG1qzDU2qybqhKUAQPI0VAlZjXCkbLNSIDONFyFkCfG/Ju/7voP3haET6R8lBCoEz62CdBlMan+OnvmVKhXWyhp3ymmGi7DgtEzz2ebJYqCQ70ie2SrwgPHUp5jTdkZ1VIhc5tWlX3rsZJd2T8D/rkXf3ESOSX9XDfGVfskPXINkOM0gEO8RvdMLhJUnqtmPtlwQ0yG3PeVUrMLOsNbWpzGQRIwQ6gz2qTBQM65FcO5b/ycNh/Zz3OJLSxFgmgnAYSgQyBwf0g1uq4bRZ4nFWHgZYO5xtsu7JVZfxT8jaCXUuM9aVCHbqO97Fr+zMB4NaLeKObcQGdpAqK8l4X3xWhr40cRy8QISBAwEs7v/GZnWWmYIrYroo+d+8d/JND/U2Hm4l3cpw==;7VmMZgi7p86I3EoqgoL8Ag=="
 ---

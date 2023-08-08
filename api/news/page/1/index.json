@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-08-chinas-draft-measures-demand-individual-consent-for-facial-recognition-use.md",
+      "title": "China’s draft measures demand ‘individual consent’ for facial recognition use",
+      "excerpt": "The pervasive use of facial recognition technology across all facets of life in China has elicited both praise for its convenience and backlash around privacy concerns. The widespread adoption has also fueled the exponential growth of valuations in companies specializing in the field,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/",
+      "originalUrl": "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1128224709.jpg?resize=1200,799",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/amp/",
+      "publishedDateTime": "2023-08-07T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-authors-are-losing-their-patience-with-ai-part-349235.md",
       "title": "Authors are losing their patience with AI, part 349235",
       "excerpt": "Prosecraft creator Benji Smith took down his database of 27,000 books, which were scraped without authors' consent.",
@@ -61,7 +113,7 @@
       "originalUrl": "https://www.pcmag.com/news/ai-can-now-steal-your-passwords-by-listening-to-your-keystrokes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -164,7 +216,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 254,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -399,6 +451,59 @@
       ]
     },
     {
+      "path": "_news/2023-08-07-revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm.md",
+      "title": "Revolutionizing The Future: Unleashing The Power Of AI In An AI-First Cloud Paradigm",
+      "excerpt": "To fully harness the potential of AI, a significant transformation of cloud infrastructure is necessary to handle AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64cd52914684645a13364b30/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/",
+      "publishedDateTime": "2023-08-07T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-responsible-ai-a-risk-based-approach.md",
       "title": "Responsible AI: A Risk-Based Approach",
       "excerpt": "• Operational risks. Using AI can create new dependencies, and businesses that rely heavily on AI systems may lack the ability to operate effectively without it. This can create significant business continuity risks if an AI system fails or becomes compromised—or if regulatory changes deem it unusable.",
@@ -458,7 +563,7 @@
       "originalUrl": "https://thenextweb.com/news/european-fintech-players-bracing-market-consolidation-across-the-market",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -639,7 +744,7 @@
       "originalUrl": "https://www.koreatimes.co.kr/www/world/2023/08/501_356500.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -722,49 +827,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts.md",
-      "title": "AI and Machine Learning set to drive India's $8 billion digital advertising industry, say experts",
-      "excerpt": "AI and operational machine learning are expected to transform the communication sectors, including advertising and PR. These technologies have the potential to significantly impact the Indian digital advertising industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts-11691378452164.html",
-      "originalUrl": "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts-11691378452164.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/08/07/600x338/USA-STOCKS-AI-0_1691381054977_1691381085497.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts/amp-11691378452164.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts/amp-11691378452164.html",
-      "publishedDateTime": "2023-08-06T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -872,7 +934,7 @@
       "originalUrl": "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-shortage-but.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -924,7 +986,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -976,7 +1038,7 @@
       "originalUrl": "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -1153,58 +1215,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-2-semiconductor-stocks-set-for-next-level-growth-thanks-to-ai.md",
-      "title": "2 Semiconductor Stocks Set for Next-Level Growth Thanks to AI",
-      "excerpt": "Nvidia will benefit from AI, to be sure, but that's no secret to stock market investors. Advanced AI chips wouldn't be possible without ASML's lithography machines. Artificial intelligence (AI) has been powering strong gains for the stock market this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/08/05/semiconductor-stocks-next-level-growth-ai/",
-      "originalUrl": "https://www.fool.com/investing/2023/08/05/semiconductor-stocks-next-level-growth-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/739425/gettyimages-1463261378.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-05T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

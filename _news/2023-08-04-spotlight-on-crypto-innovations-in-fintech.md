@@ -67,15 +67,34 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Fintech Firms Stavvy and Brace to Enhance Servicing Innovation"
-    excerpt: "Stavvy, the Fintech company reshaping digital and remote collaboration ... Our unified team of industry experts combined with research and investments in generative AI and customizable workflows positions Stavvy to independently reduce the need for ..."
-    publishedDateTime: 2023-08-03T11:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/210911-fintech-firms-stavvy-and-brace-to-enhance-servicing-innovation/"
+  - title: "2023’s Biggest Fintech Acquisition Deals"
+    excerpt: "To get a sense of this year’s fintech M&A landscape, we compiled a list of eight of the largest merger and acquisition (M&A) deals in the sector announced in the first half of 2023."
+    publishedDateTime: 2023-08-08T04:07:00Z
+    webUrl: "https://fintechnews.ch/fintechusa/2023-biggest-fintech-acquisition-deals/63010/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 4
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/08/H1-2023s-Biggest-Fintech-Acquisition-Deals.png?x30842"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Hong Kong tech firm, ASL, accelerates growth in fintech arena with Finastra"
+    excerpt: "HONG KONG, Aug. 8, 2023 /PRNewswire/ -- Automated Systems Holdings Limited (ASL) (771.HK), a leading global IT solutions and services provider, has strategically partnered with Finastra, a global provider of financial software applications and marketplaces, to bolster its industry-specific DevSecOps business and strengthen its fintech trajectory."
+    publishedDateTime: 2023-08-08T05:04:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9860566.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/2170918/Finastra_ASL.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "yKzIpTFIALIF3JAZZs53hoQSbZt398WFEzAnyD52bEae4bqOfW8eak8IKBydpsahlWW2QvjTrkqw0F5OwWK35pV6Mj0MVTgm0TbsgRuQuBAtVKrioq+IwbFK+9TDEPrLYd2GIyhAghGf4k7A5wRo709AHEFb6p/fVmdrWpe+U6M+DagUyPECuOKuq0vno6ICaYAX9brIf9X8X8y/90zIfr9BCGVNzP1ZAh4fbRrRWu3KP7mx4ataXEOA/AKzToOLMNrIwolk5rYBXLvAocclFpUFWG9ELnK3Ar09Bs+iTJag7oEFer0NMsjPNkrOyxF2rB/hwSM3aAtE1MGgFu64IlrZKiJcnBAAkodT9LVbD3cqP/6rWowcq5Z8Iv9ZbhkZ9HFGakYR0lIrRCnRn3tK3vNroraiDGTCBZK1EU6p7EoAbXQTtrpU7c9ewtC53A0kjpFQWtvdGDYvi4yBhECEBlkKMN2/T4pyg7jmtT7D6mATHsf10yWmZlEC59Iv87QcbbEhCfdXPburKz2SA91J8Q==;B39/aHUuYvOeBJZdZaIQLw=="
 ---

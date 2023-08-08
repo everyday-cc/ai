@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "WA Premier Roger Cook shuts down claims Albanese government pressured him to ditch cultural heritage laws to save Voice"
+    excerpt: "Western Australian Premier Roger Cook has attempted to shut down speculation his decision to ditch the state’s much-maligned cultural heritage laws was dictated by the Albanese government to salvage support for the Voice."
+    publishedDateTime: 2023-08-08T04:58:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/wa-premier-roger-cook-shuts-down-claims-albanese-government-pressured-him-to-ditch-cultural-heritage-laws-to-save-voice/news-story/7ce8c2a9ebf62c1c73dcf74a810793f2"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/wa-premier-roger-cook-shuts-down-claims-albanese-government-pressured-him-to-ditch-cultural-heritage-laws-to-save-voice/news-story/7ce8c2a9ebf62c1c73dcf74a810793f2?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/wa-premier-roger-cook-shuts-down-claims-albanese-government-pressured-him-to-ditch-cultural-heritage-laws-to-save-voice/news-story/7ce8c2a9ebf62c1c73dcf74a810793f2?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 35
+    images:
+      - url: "https://content.api.news/v3/images/bin/5c0d9953d08e905225d4492405e4a8d5"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Fighting for his Voice, Albanese heads back to Garma"
     excerpt: "With the Yes campaign in trouble – sidetracked by debate over treaty – can Anthony Albanese rescue the Voice from Arnhem Land?"
     publishedDateTime: 2023-08-04T02:47:00Z

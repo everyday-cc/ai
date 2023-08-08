@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-24-review-hover-camera-x1-is-the-ideal-drone-for-most-people.md",
+      "title": "Review: Hover Camera X1 is the ideal drone for most people",
+      "excerpt": "Most folks aren't big-time aerial cinematographers, so they don't need a fancy $1,000-plus drone – what they do need is something small, inexpensive and easy to use, that still shoots great video. As I discovered,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/drones/review-hover-camera-x1-drone/",
+      "originalUrl": "https://newatlas.com/drones/review-hover-camera-x1-drone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1eaa4d9/2147483647/strip/true/crop/1280x853+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd8%2Fb8%2F47493fc0428495004ed61c14cd29%2Fimg-4919.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/drones/review-hover-camera-x1-drone/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/drones/review-hover-camera-x1-drone/?amp=true",
+      "publishedDateTime": "2023-06-23T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-facial-recognition-attendance-for-sanitation-staff-soon.md",
       "title": "Facial recognition attendance for sanitation staff soon",
       "excerpt": "Amid controversy over some sanitation workers not turning up for work and withdrawing salary, the Shimla MC has decided to introduce facial recognition biometric attendance system soon.",
@@ -1398,40 +1450,6 @@
         "AI",
         "AI in Robotics",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-introducing-voxelgpt-ai-powered-computer-vision-insights-delivered-through-chat.md",
-      "title": "Introducing VoxelGPT: AI-Powered Computer Vision Insights Delivered Through Chat",
-      "excerpt": "Game-changing natural language plugin makes complex AI tasks accessible to everyone ANN ARBOR, Mich., June 7, 2023 /PRNewswire/ -- Voxel51, a leading innovator in data-centric computer vision and machine learning software,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/07/9828592.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/07/9828592.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

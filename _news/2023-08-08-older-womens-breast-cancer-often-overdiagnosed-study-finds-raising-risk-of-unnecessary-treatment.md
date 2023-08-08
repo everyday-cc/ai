@@ -26,17 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "How is artificial intelligence rising to the challenge in breast cancer diagnosis?"
-    excerpt: "The scope of AI in medicine is rapidly expanding. And in diagnosing breast cancer, it has emerged as a game-changer in digital pathology."
-    publishedDateTime: 2023-08-03T12:28:00Z
-    webUrl: "https://www.labiotech.eu/in-depth/ai-breast-cancer-diagnosis/"
-    type: article
-    provider:
-      name: labiotech
-      domain: labiotech.eu
-    quality: 13
-
-secured: "wx3ucIeOA8r/qp1xQooE0luKOe0mPiK+juyUdZxk2MF9fuf3drN2CMG9/EMXMvZg4zcDYhslOlJ4PI1gfBrOieqXfMRnZb56Uvtj/RJYxicrkTveFvopwMDg/Df3jT8jbj8ovM+PBstnDA8lkCPBe0sxXDcPvAy6buTwYaECiOEKGUjKFXqFlwi/yQcUJRSQHMBljYtd1C3L+EZ2cgMH3qGUwZ6oz2t3Y2GFa/1DG7gD9itog75ezeXUdQUZDnvKKWIo3cDAt6DVyNRJ6Nax2C0xthfcYrFDfiEWiPu7ywzUnh+MfFbOE2SbQooskpXaTYk+0ioHNfRTtW+9mmOgMwxsZ3CfL6lldsqA8Tv8ItA=;sAPz8gTN5X7HY7zsWPPtVg=="
+secured: "oVuS179zz/4P96g7eqJVX9Q3tDQqroj8z9zdgygssx8pc8mHvhMF7IVvawsv1PRbK0+eGrdBQVZrrSNS88CDyfue65S+PQZ3XEmBvcA5kPKI9Xwbk5yaStuULNdX8+3f9LTG6zybaUA4HVsZDJsQwiHLiUYQPsErjYnL958RKAu8h87FroCt9q/cIcyghF6h1JpU8bV9JDeJdp8N/UozVlZT6BuaroYDPFegfzceimvnZ5Y9b7M0EosdaVebdzc2ZCqWAr+5R2FK7L9MSD0GqrbX/jxwY4GlKWrbWkbLaJhoYjvjJy2yHTdII04wla6dcMPNhr9sQLuLDmSh0drWmW9xfHzAtjVxlHIriyUlO3Yyca4iJCzXiu9f9MCg6hxoiSSOfI99QEGdNNtNF5O5VyocsgtopWU3nem2axOoXscbGXicW4wHQrgZw5n/ZErAoO7Oqrs4jKHq2PD75XwNNIDb8w2vPfaddjEANwSdbh4yWUSb9x0ldzlO+9Rxx7OubHrf7CZ0ySkldJ7Lm1/o3w==;i/wPtuZ7X4eorPOQqhbS5Q=="
 ---
 

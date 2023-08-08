@@ -50,6 +50,20 @@ related:
         width: 533
         height: 316
         isCached: true
+  - title: "How Artificial Intelligence (AI) is revolutionizing image editing"
+    excerpt: "AI is revolutionizing image editing by enhancing quality, efficiency, and creativity. It's making professional editing accessible to all through tools like image upscaling, automating complex tasks, and opening new artistic possibilities. AI blends technology and art, shaping the future of digital imaging."
+    publishedDateTime: 2023-08-04T11:07:00Z
+    webUrl: "https://www.artmajeur.com/en/magazine/20-sell-art/how-artificial-intelligence-ai-is-revolutionizing-image-editing/333967"
+    type: article
+    provider:
+      name: Artmajeur
+      domain: artmajeur.com
+    quality: 54
+    images:
+      - url: "https://www.artmajeur.com/medias/hd/j/e/jean-dubreil/blog/digital-designer.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "MuHXaufSFFNBRrg+ZxweM8tERoLmdbC9Th1aS9CEvc2UKl4/ii4FDRVMgfKyDohfCBeolhY4gY/b8KrqeGPvhtx5RMdd69iQwPVnekQle9sr+u15+ZXuCdKsDNJOPvKuDJ5tNy/pMJT7N/WO9HP7Hu94I0AKjKvRRjcBbVdbyp7EoOEVRjvuDsgWCnf0xlqb0Dbwwmnbq0dABqfuqpPjTewQHfF6RnHhOM17AMw1CohblbRS/Q3UAjhc2sjK8PMDqfYRCRnj2ps8+iHOeTNFLcBBr/2uo9RyFAjufAViCRet2uiz+6jfq1b54XYeVy6Oh9BaWoWQ0Cviak474Q28YRku8z0EAQAuwtQYZczv9Go=;Cz4ac5lt8V38UWGoSF6EaA=="
 ---
