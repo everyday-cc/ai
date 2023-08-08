@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-18-tdra-launches-initiative-to-optimise-fednet-with-ai-services.md",
+      "title": "TDRA Launches Initiative To Optimise Fednet With AI Services",
+      "excerpt": "Commenting on this development, Majed Sultan Al Mesmar, TDRA Director-General, said,“AI services on AI-supported FedNet are a great step in the digital transformation process, and an important element in enhancing the ability of government entities to provide easy and fast services to all customers,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106452097/TDRA-Launches-Initiative-To-Optimise-Fednet-With-AI-Services",
+      "originalUrl": "https://menafn.com/1106452097/TDRA-Launches-Initiative-To-Optimise-Fednet-With-AI-Services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-06/18/ENA(_0a521image_story.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-18T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-datas-destiny-former-microsoft-and-snowflake-exec-bob-muglia-on-the-future-of-ai-and-humanity.md",
       "title": "Data’s destiny: Former Microsoft and Snowflake exec Bob Muglia on the future of AI and humanity",
       "excerpt": "This week: the origins of data, and the future of the digital species. Our guest on the GeekWire Podcast is business and tech leader Bob Muglia, a startup investor and… Read More",
@@ -1425,59 +1468,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-cisco-shows-breakthrough-innovation-towards-ai-first-security-cloud.md",
-      "title": "Cisco Shows Breakthrough Innovation Towards AI-First Security Cloud",
-      "excerpt": "Cisco launches new security service edge (SSE) solution to enable superior hybrid work experiences and dramatically simplify access",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cisco-shows-breakthrough-innovation-towards-ai-first-security-cloud-1032373587",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cisco-shows-breakthrough-innovation-towards-ai-first-security-cloud-1032373587",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/813707/Cisco_v2_Logo.jpg",
-          "width": 400,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

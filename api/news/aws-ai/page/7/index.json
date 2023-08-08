@@ -2,6 +2,60 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-25-a-leaked-amazon-generative-ai-sales-playbook-shows-how-the-company-is-going-after-chatgpt-maker-openai-microsoft-and-google.md",
+      "title": "A leaked Amazon generative AI sales playbook shows how the company is going after ChatGPT-maker OpenAI, Microsoft and Google",
+      "excerpt": "The guidelines are also intended to help initiate conversations with senior leaders at other companies, and get customers to host their new AI software on AWS services, such as SageMaker ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5",
+      "originalUrl": "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ef13e96aee6a8302d441d42?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-uipath-reports-first-quarter-fiscal-2024-financial-results.md",
       "title": "UiPath Reports First Quarter Fiscal 2024 Financial Results",
       "excerpt": "UiPath, Inc. (NYSE: PATH), a leading enterprise automation software company, today announced financial results for its first quarter fiscal 2024 ended April 30, 2023. “First quarter fiscal 2024 result",
@@ -1379,58 +1433,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-10T09:23:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-reduce-amazon-sagemaker-inference-cost-with-aws-graviton.md",
-      "title": "Reduce Amazon SageMaker inference cost with AWS Graviton",
-      "excerpt": "Amazon SageMaker provides a broad selection of machine learning (ML) infrastructure and model deployment options to help meet your ML inference needs. It’s a fully-managed service and integrates with MLOps tools so you can work to scale your model deployment, reduce inference costs, manage models more",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-amazon-sagemaker-inference-cost-with-aws-graviton/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-amazon-sagemaker-inference-cost-with-aws-graviton/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/10/reduce-sagemaker-costs-graviton.jpg",
-          "width": 1066,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T07:42:36-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

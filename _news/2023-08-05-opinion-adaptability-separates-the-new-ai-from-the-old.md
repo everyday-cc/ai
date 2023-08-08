@@ -43,15 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "OPINION: From principles to laws: Consumer protection can galvanize AI regulation"
-    excerpt: "In recent years, numerous principles, handbooks, codes, and guides have been released on how governments and organizations can tackle widespread AI risks. An online resource from AI Ethicists has an impressive list of more than 70 AI principles from governmental,"
-    publishedDateTime: 2023-08-03T19:20:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/opinion-principles-laws-consumer-protection-can-galvanize-ai-regulation-2023-08-03/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 44
   - title: "Guest Opinion: If artificial intelligence takes your job, it should pay you"
     excerpt: "Actors love residuals. Don’t worry, this is not some annoying Hollywood thing like quinoa or crystal healing. I actually do like quinoa — sorry. Anyway, what are residuals?"
     publishedDateTime: 2023-08-05T10:00:00Z

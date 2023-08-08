@@ -2,6 +2,469 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-05-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
+      "title": "Age of AI: Everything you need to know about artificial intelligence",
+      "excerpt": "Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very recently has blossomed thanks to powerful new computing resources. AI has enabled ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
+      "originalUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-08-04T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-how-will-ai-impact-your-industry-pew-research-has-answers.md",
+      "title": "How will AI impact your industry? Pew Research has answers",
+      "excerpt": "As seen by the results, the industries with the least amount of exposure are those that require a physical actual human, such as a barber or a dishwasher, or that require skills that cannot be recreated by AI, such as interpersonal communication needed to be a sales manager or chief executive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-will-ai-impact-your-industry-pew-research-has-answers/",
+      "originalUrl": "https://www.zdnet.com/article/how-will-ai-impact-your-industry-pew-research-has-answers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/fbfc2acf029df715a70a2814a1ee5221d3edbb3a/2023/08/04/0c25e0c8-cd05-452c-be00-15fed3498805/gettyimages-1451024169.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-will-ai-impact-your-industry-pew-research-has-answers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-will-ai-impact-your-industry-pew-research-has-answers/",
+      "publishedDateTime": "2023-08-04T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-ai-bots-could-soon-become-your-new-customer-service-agent.md",
+      "title": "AI bots could soon become your new customer service agent",
+      "excerpt": "If you thought getting through an automated voice system was annoying, you could soon try getting through an AI bot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-bots-could-soon-become-your-new-customer-service-agent/",
+      "originalUrl": "https://www.zdnet.com/article/ai-bots-could-soon-become-your-new-customer-service-agent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/574ad552295b7fe72b2a95f25478449eaaa86df0/2023/08/04/8f693c73-034a-4be4-b8ef-216ddeaa6485/gettyimages-1502919517.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-bots-could-soon-become-your-new-customer-service-agent/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-bots-could-soon-become-your-new-customer-service-agent/",
+      "publishedDateTime": "2023-08-04T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-this-ai-powered-supermarket-can-watch-how-you-shop-to-suggest-products.md",
+      "title": "This AI-Powered Supermarket Can Watch How You Shop to Suggest Products",
+      "excerpt": "“This allows the AI module to deliver engaging information tailored to the interests of customers by observing behaviors, like bending down toward a shop display or picking up a product, and providing content that includes the best customer service and product appeal for that individual,” Fujitsu says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/this-ai-powered-supermarket-can-watch-how-you-shop-to-suggest-products",
+      "originalUrl": "https://www.pcmag.com/news/this-ai-powered-supermarket-can-watch-how-you-shop-to-suggest-products",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05fkqLqzNlKYU3lmdddgwld-1.fit_lim.size_1200x630.v1691170472.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions.md",
+      "title": "Microsoft shuts down Windows’ Cortana voice assistant as it chases AI ambitions",
+      "excerpt": "Cortana began life on Microsoft’s ill-fated Windows Phone platform in the early 2010s, where it served the same general function as Apple’s Siri and Google Now: a hands-free way to interact with your phone that also attempted to have a \"cute\" \"personality.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cortana-800x506.jpg",
+          "width": 800,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/",
+      "publishedDateTime": "2023-08-04T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese.md",
+      "title": "SoftBank launches an OpenAI for Japan: SB Intuitions, building LLMs and generative AI in Japanese",
+      "excerpt": "SoftBank has a strategic alliance with Microsoft that will involve SoftBank providing a secure data environment for enterprises in Japan.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/",
+      "originalUrl": "https://techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1172366774.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/amp/",
+      "publishedDateTime": "2023-08-04T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired.md",
+      "title": "Raz Mobility has a new smartphone designed for the visually impaired",
+      "excerpt": "Raz Mobility is out to change that with the introduction of the SmartVision 3, a smartphone designed specifically for the visually impaired. As the name implies, this isn't Raz's first foray into an accessible smartphone. But it is probably the best.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
+      "originalUrl": "https://www.zdnet.com/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1ab271bffab5edcd63a787c75eae6853cd8d3a94/2023/08/04/07c56efe-b115-4769-aedf-5530258489f8/smartvision3-phone.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
+      "publishedDateTime": "2023-08-04T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails.md",
+      "title": "Another major university is supporting generative AI use but with serious guardrails",
+      "excerpt": "The University of Hong Kong will provide its teachers and students free access to various generative AI tools, along with some rules to follow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails/",
+      "originalUrl": "https://www.zdnet.com/article/another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5dd252c79001f6b9eed07dc403a825de269a8767/2023/08/04/a9b37745-740f-4b1b-b8be-1194639df0d2/gettyimages-1495485230.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails/",
+      "publishedDateTime": "2023-08-04T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-thanks-to-ai-elvis-likes-big-butts-and-he-cannot-lieheres-how-its-possible.md",
+      "title": "Thanks to AI, “Elvis” likes big butts and he cannot lie—here’s how it’s possible",
+      "excerpt": "To get more insight into the musical voice cloning process with so-vits-svc-fork (an altered version of the original so-vits-svc), we tracked down Michael van Voorst, the creator of the Elvis voice AI model that Ballard used in his \"Baby Got Back\" video. He walked us through the steps necessary to create an AI mash-up.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/08/hear-elvis-sing-baby-got-back-using-ai-and-learn-how-it-was-made/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/08/hear-elvis-sing-baby-got-back-using-ai-and-learn-how-it-was-made/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/rockstar_hero_6-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/hear-elvis-sing-baby-got-back-using-ai-and-learn-how-it-was-made/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/hear-elvis-sing-baby-got-back-using-ai-and-learn-how-it-was-made/amp/",
+      "publishedDateTime": "2023-08-04T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler.md",
       "title": "Optimize data preparation with new features in AWS SageMaker Data Wrangler",
       "excerpt": "Data preparation is a critical step in any data-driven project, and having the right tools can greatly enhance operational efficiency. Amazon SageMaker Data Wrangler reduces the time it takes to aggregate and prepare tabular and image data for machine learning (ML) from weeks to minutes. With SageMaker",
@@ -10,7 +473,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -158,7 +621,7 @@
       "originalUrl": "https://www.ibm.com/blog/ibm-cloud-security-how-to-clean-up-unused-access-policies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -286,7 +749,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -326,6 +789,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-ansys-launches-ansysgpt-virtual-assistant-developed-on-microsofts-azure-openai-service.md",
+      "title": "Ansys launches AnsysGPT virtual assistant developed on Microsoft’s Azure OpenAI service",
+      "excerpt": "Simulation solutions provider Ansys has launched a beta release of its new artificial intelligence-powered virtual assistant, AnsysGPT, developed on the Microsoft Azure OpenAI Service. The service will support users of Ansys solutions and is trained to answer questions on physics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyrecord.com/article/ansys-launches-ansysgpt-virtual-assistant-developed-on-microsofts-azure-openai-service",
+      "originalUrl": "https://www.technologyrecord.com/article/ansys-launches-ansysgpt-virtual-assistant-developed-on-microsofts-azure-openai-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4522/Unsplash_ThisisEngineering-RAEng_web-2.jpg",
+          "width": 975,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologyrecord.com",
+        "domain": "technologyrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -424,50 +930,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-04-hyundai-motor-group-announces-partnership-with-canadas-tenstorrent-ai-chip-company.md",
-      "title": "Hyundai Motor Group Announces Partnership with Canada’s Tenstorrent AI Chip Company",
-      "excerpt": "Hyundai Motor revealed it joined forces with a Canadian AI chip manufacturing startup, Tenstorrent. The South Korean automaker said it has invested in the Toronto-based artificial intelligence semiconductor company so",
-      "sourceUrl": null,
-      "webUrl": "https://www.econotimes.com/Hyundai-Motor-Group-Announces-Partnership-with-Canadas-Tenstorrent-AI-Chip-Company-1660584",
-      "originalUrl": "https://www.econotimes.com/Hyundai-Motor-Group-Announces-Partnership-with-Canadas-Tenstorrent-AI-Chip-Company-1660584",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://f1.econotimes.com/2023/08/gqscobi7ey_th_1024x0.jpeg",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EconoTimes",
-        "domain": "econotimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-08-04-how-an-ai-marketing-start-up-took-investors-for-a-ride.md",
       "title": "How an AI marketing start-up took investors for a ride",
       "excerpt": "Inside Metigy, an artificial intelligence house of cards, where staff, went for months without pay even as investors believed everything was rosy.",
@@ -519,7 +981,7 @@
       "originalUrl": "https://www.reuters.com/technology/toyota-chinas-ponyai-set-up-jv-with-139-mln-investment-2023-08-04/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -621,7 +1083,7 @@
       "originalUrl": "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -664,7 +1126,7 @@
       "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -755,452 +1217,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement.md",
-      "title": "New Microsoft Azure AD CTS feature can be abused for lateral movement",
-      "excerpt": "Microsoft's new Azure Active Directory Cross-Tenant Synchronization (CTS) feature, introduced in June 2023, has created a new potential attack surface that might allow threat actors to more easily spread laterally to other Azure tenants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/",
-      "originalUrl": "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bleepstatic.com/content/hl-images/2022/04/28/microsoft-azure-headpic.jpg",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/amp/",
-      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/amp/",
-      "publishedDateTime": "2023-08-03T15:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bleeping Computer",
-        "domain": "bleepingcomputer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-cloud-data-systems-and-edge-ai-make-a-major-impact-on-todays-data-science.md",
-      "title": "Cloud Data Systems and Edge AI Make a Major Impact on Today’s Data Science",
-      "excerpt": "Gartner outlines the top trends in machine learning and data science, including the impact of generative AI. Learn more about the top trends with our article.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/gartner-machine-learning-data-science-trends/",
-      "originalUrl": "https://www.techrepublic.com/article/gartner-machine-learning-data-science-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr-gartner-machine-learning-data-science-trends.jpg",
-          "width": 1400,
-          "height": 931,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-enhancing-aws-intelligent-document-processing-with-generative-ai.md",
-      "title": "Enhancing AWS intelligent document processing with generative AI",
-      "excerpt": "Data classification, extraction, and analysis can be challenging for organizations that deal with volumes of documents. Traditional document processing solutions are manual, expensive, error prone, and difficult to scale. AWS intelligent document processing (IDP), with AI services such as Amazon Textract,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intelligent-document-processing-with-generative-ai/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intelligent-document-processing-with-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/How-to-get-started.png",
-          "width": 936,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T14:03:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-amazon-web-services-aws-revenue-topped-22-billion-q2-2023.md",
-      "title": "Amazon Web Services (AWS) revenue topped $22 billion Q2 2023",
-      "excerpt": "Amazon (AMZN) reported its Q2 2023 earnings results on Thursday evening, within which the company revealed that its Amazon Web Services (AWS) revenue topped $22 billion despite the AWS segment making less profit than the prior year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.shacknews.com/article/136525/amazon-amzn-aws-revenue-22-billion",
-      "originalUrl": "https://www.shacknews.com/article/136525/amazon-amzn-aws-revenue-22-billion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/08/03/amazon-amzn-aws-revenue-22-billion_feature.JPG",
-          "width": 1289,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shacknews.com/article/136525/amazon-amzn-aws-revenue-22-billion?amphtml=1",
-      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/136525/amazon-amzn-aws-revenue-22-billion?amphtml=1",
-      "publishedDateTime": "2023-08-03T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shacknews",
-        "domain": "shacknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles.md",
-      "title": "Meta unveils new text-to-music AI tools to compete with Google's",
-      "excerpt": "EnCodec is an audio codec comprised of neural networks that compress audio and reconstruct the input signal. As part of the announcement, Meta released the most improved version of Encodec that allows for higher-quality music generations with fewer artifacts, according to the release.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/",
-      "originalUrl": "https://www.zdnet.com/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/bfe856c9bcc0b2902226cee85375e8a69b5481e8/2023/08/03/fe614ab3-0f0a-47d1-b4aa-53d01d34d452/gettyimages-844347442.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/",
-      "publishedDateTime": "2023-08-03T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-5-critical-steps-it-leaders-must-take-to-govern-generative-ai.md",
-      "title": "5 Critical Steps IT Leaders Must Take To Govern Generative AI",
-      "excerpt": "Generative AI adoption is only exacerbating governance challenges inside organizations. Here’s how IT leaders can exercise safe and responsible adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64cbf57aad78267fea960ea8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/amp/",
-      "publishedDateTime": "2023-08-03T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-moonwares-ai-lets-airfield-ground-crews-ditch-the-walkies.md",
-      "title": "Moonware’s AI lets airfield ground crews ditch the walkies",
-      "excerpt": "The startup’s cofounders, Vidal and Saunon Malekshahi ... It’s a solution that Malekshahi likened to an AI-enabled “ground traffic control platform,” similar to how air traffic control (ATC) directs aircraft on the ground and in airspace today.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/03/moonwares-ai-lets-airfield-ground-crews-ditch-the-walkies/",
-      "originalUrl": "https://techcrunch.com/2023/08/03/moonwares-ai-lets-airfield-ground-crews-ditch-the-walkies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1242900989.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/03/moonwares-ai-lets-airfield-ground-crews-ditch-the-walkies/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/03/moonwares-ai-lets-airfield-ground-crews-ditch-the-walkies/amp/",
-      "publishedDateTime": "2023-08-03T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-its-time-for-all-companiesand-their-employeesto-start-experimenting-with-ai.md",
-      "title": "It’s Time For All Companies—And Their Employees—To Start Experimenting With AI",
-      "excerpt": "AI makes us all more productive by augmenting, enlightening or curating tasks that once took hours and iterations but can now be finalized in seconds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chris-perry/2023/08/03/its-time-for-all-companies-and-their-employees-to-start-experimenting-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/chris-perry/2023/08/03/its-time-for-all-companies-and-their-employees-to-start-experimenting-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64cbc8b9d3dc8e7757960eac/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chris-perry/2023/08/03/its-time-for-all-companies-and-their-employees-to-start-experimenting-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chris-perry/2023/08/03/its-time-for-all-companies-and-their-employees-to-start-experimenting-with-ai/amp/",
-      "publishedDateTime": "2023-08-03T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker.md",
-      "title": "Scale training and inference of thousands of ML models with Amazon SageMaker",
-      "excerpt": "Training and serving thousands of models requires a robust and scalable infrastructure, which is where Amazon SageMaker can help. SageMaker is a fully managed platform that enables developers and data scientists to build, train, and deploy ML models quickly, while also offering the cost-saving benefits",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/21/ML_14247_001-982x630.jpg",
-          "width": 982,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T08:05:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

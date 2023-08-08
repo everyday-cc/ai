@@ -46,22 +46,38 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tim Cook confirms that Apple has been working on generative AI for years"
-    excerpt: "Apple spent $22.61 billion on research and development through 2023, and CEO Tim Cook confirmed beyond a shadow of a doubt that part of that expenditure is because the company is working on generative AI."
-    publishedDateTime: 2023-08-03T21:05:00Z
-    webUrl: "https://appleinsider.com/articles/23/08/03/tim-cook-confirms-that-apple-has-been-working-on-generative-ai-for-years"
-    ampWebUrl: "https://appleinsider.com/articles/23/08/03/tim-cook-confirms-that-apple-has-been-working-on-generative-ai-for-years/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/08/03/tim-cook-confirms-that-apple-has-been-working-on-generative-ai-for-years/amp/"
+  - title: "Using Generative AI To Connect Lab To Fab Test"
+    excerpt: "Executive Insight: Thomas Benjamin, CTO at National Instruments, sat down with Semiconductor Engineering to discuss a new way of look at test, using data as a starting point and generative AI as bridge between different capabilities."
+    publishedDateTime: 2023-08-08T07:05:00Z
+    webUrl: "https://semiengineering.com/using-generative-ai-to-connect-lab-to-fab-test/"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 56
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 41
     images:
-      - url: "https://photos5.appleinsider.com/gallery/55736-113232-SiriGPT-xl.jpg"
-        width: 1312
-        height: 738
+      - url: "https://semiengineering.com/wp-content/uploads/wafer-AdobeStock_472655944.jpeg?fit=1200%2C825&ssl=1"
+        width: 1200
+        height: 825
         isCached: true
+  - title: "Dell announces generative AI solutions"
+    excerpt: "The company is offering a range of generative AI solutions across its hardware, software, and services offerings."
+    publishedDateTime: 2023-08-07T12:34:00Z
+    webUrl: "https://www.networkworld.com/article/3704209/dell-announces-generative-ai-solutions.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 19
+  - title: "KPMG’s Generative AI Play"
+    excerpt: "KPMG India, sheds light on the consulting sector's initial hesitation towards generative AI, the evolving mindset, and the innovative implementations that are shaping the future of these sectors."
+    publishedDateTime: 2023-08-08T11:41:00Z
+    webUrl: "https://analyticsindiamag.com/kpmgs-generative-ai-play/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "SBF2TtYAPoVbjetjLgPZND40H1xli+txJi3aLUfA+3pyoZjgn68yL7MhG06wF9J5u8av3a6DnAe7/Hl13iDOfyWPlcYeD+SG7lXK10rHuxMpPs4xI6Qxh8iTG4e961ugIKsO5utXZEKv6b7fR5HMhuSBT3Ms51zO6cVYURgWEo7OpO0Z9XVO6+8c8kuuyEVFqdU/8FQJvjGBKjarqXUTdPO42ynimAvvsmDfifOD3GEHNoiWs3zIyzscb0VBotDSRuM8fH4w/An124WDfHrkw0N8ItHXb5jl+/VslZkvXKv4Dp1tthRHaorSTYwlb4RvdAdCEKlO07HdpNEqgYcC5mTd39IPEYWA9bYybt2wSZvYl05dToWnwAUkpiBgyP2UicXs4sVPNesl2VRFJabETHd1wK/DCla8NFkazRp2X+9WTrUZophvByHszGh31+S9+m0w45pkLQ7cJJXPrEtiWvMDLtArQJfoWUppW9N6CUNWBJc2fQzZifKyoBokJCC0ikQv2odJHECldjtQQ2h0CA==;VReoUcgG3XaBE9lygIOJ4w=="
 ---

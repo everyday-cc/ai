@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-08-ai-medicine-doctors.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-ai-medicine-doctors.amp"
 type: article
 quality: 59
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 17
+  - title: "The future of medicine: Physicians need new skills to use ai in clinical decision making"
+    excerpt: "As artificial intelligence systems like ChatGPT find their way into everyday use, physicians will start to see these tools incorporated into their clinical practice to help them make important decisions on diagnosis and treatment of common medical conditions."
+    publishedDateTime: 2023-08-08T12:08:00Z
+    webUrl: "https://www.news-medical.net/news/20230808/The-future-of-medicine-Physicians-need-new-skills-to-use-ai-in-clinical-decision-making.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 10
 
 secured: "DZd/2sAGSwHqpi4hAgYRprPCPBCbfsnFp2GSoXLbze6EJQwauwJv+MUILLXvykX6UnQb9XrmCTSiaXOMa+18yuMIPbn2dCQQ89Zteehi5ygthvHjkDIPDtqzPYllgFyggaWCiNmH1coMKjxNuBzghso/4tyKUIaEpd6/Fhk5IWlaOhRZtJx8YQ6ZAZS7crgQq9S0rAByydWTEjku1btbbp4CS7JOYTLPAjDE0XRKaOG7yazaZ6CqiS+PfC8qMdJ6+8XkGyN/EsAuTVp/3SU4nMiw56NKQR6S6nICy6RsvpQErPg9tv3vhljp3J/bT9I1OpjOgn/DbVeLjxqqUOTCQery/In9vcfrFmzRm1lap3MNJ+T0cFnSedCU2LVtQ+aNBCUCapmNBu2jsHrP7/FJuIK4roQ7hmr8BZo+ozTNGJUjwrmUuwZ+OxoXcMKKINsKC3yqxoZKA0MVoKlyuebfctEYh/G4WH3+56kZmOSItuVoZppQ11x27o4TpjH6S0RJB39/qIgS6HrmGlmSQ1rTqQ==;uxP5cuejGYyCd/j4Nm3BDg=="
 ---

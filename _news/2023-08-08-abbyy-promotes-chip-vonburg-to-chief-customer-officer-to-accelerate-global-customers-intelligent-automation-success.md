@@ -20,6 +20,22 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "ABBYY Appoints Chip VonBurg as Chief Customer Officer to Hasten the Success of Intelligent Automation Among Global Customers"
+    excerpt: "ABBYY, announced the appointment of Chip VonBurg to Chief Customer Officer, to helping its customers achieve their intelligent automation goals faster."
+    publishedDateTime: 2023-08-08T14:52:00Z
+    webUrl: "https://enterprisetalk.com/news/abbyy-appoints-chip-vonburg-as-chief-customer-officer-to-hasten-the-success-of-intelligent-automation-among-global-customers/"
+    ampWebUrl: "https://enterprisetalk.com/news/abbyy-appoints-chip-vonburg-as-chief-customer-officer-to-hasten-the-success-of-intelligent-automation-among-global-customers/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/abbyy-appoints-chip-vonburg-as-chief-customer-officer-to-hasten-the-success-of-intelligent-automation-among-global-customers/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 32
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/ABBYY-Appoints-Chip-VonBurg-as-Chief-Customer-Officer-to-Hasten-the-Success.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "ABBYY Promotes Chip VonBurg to Chief Customer Officer to Accelerate Global Customers’ Intelligent Automation Success"
     excerpt: "ABBYY today announced the appointment of Chip VonBurg to Chief Customer Officer (CCO), reinforcing ABBYY’s commitment to helping its customers achieve their intelligent automation goals faster."
     publishedDateTime: 2023-08-07T16:45:00Z

@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 549
         isCached: true
+  - title: "This Startup Is Using AI To Increase Productivity And Reduce Meeting Mania"
+    excerpt: "With record buzz surrounding AI, consumers are eager to understand how new tools will impact their own lives. Productivity tools are one of the first aspects of technology that are ripe for innovation through AI. I recently spoke with Matt Martin, a veteran software developer and the co-founder of AI-driven calendar assistant Clockwise."
+    publishedDateTime: 2023-08-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c3cba41e471324dc16a7fe/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 317
+        isCached: true
   - title: "Why do we need safeguards for AI? Cyber security, human manipulation"
     excerpt: "AI has the potential to significantly improve our lives by finding new cures for diseases, cost-effectively educating the masses and solving some of humanity's most complex problems. However, I am also convinced that without the appropriate safeguards,"
     publishedDateTime: 2023-08-07T11:48:00Z

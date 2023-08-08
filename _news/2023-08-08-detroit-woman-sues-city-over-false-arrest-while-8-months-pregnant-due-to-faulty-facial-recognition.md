@@ -193,6 +193,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Mom Sues Detroit After Facial Recognition Software Leads to Wrongful Arrest While Pregnant"
+    excerpt: "She spent the day sitting in jail on a concrete bench where she experienced stress-related contractions and was later diagnosed with dehydration."
+    publishedDateTime: 2023-08-08T14:50:00Z
+    webUrl: "https://ijr.com/mom-sues-detroit-facial-recognition-software-leads-wrongful-arrest-pregnant/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 29
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2022/06/GettyImages-1290950900.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "A Black Mother Is Suing After She Was Wrongfully Arrested Due to Faulty Facial Recognition ID"
     excerpt: "A woman is suing the city of Detroit after she was wrongfully arrested for robbery and carjacking over faulty facial recognition technology. Porcha Woodruff was eight months pregnant and getting her two children ready for school when six police officers showed up at her home in February to take her into custody."
     publishedDateTime: 2023-08-07T15:18:00Z
@@ -296,6 +310,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2023/08/07/02/74026263-0-image-a-3_1691370347907.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "‘I Was Scared’: Detroit Woman Wrongly Arrested While 8 Months Pregnant for Carjacking, Robbery Due to Botched Facial Recognition Technology"
+    excerpt: "A 32-year-old Detroit, Michigan, woman is taking legal action against the city after she was falsely accused of carjacking and robbery due to a facial"
+    publishedDateTime: 2023-08-08T14:44:00Z
+    webUrl: "https://atlantablackstar.com/2023/08/08/detroit-woman-wrongly-arrested-pregnant-for-carjacking/"
+    type: article
+    provider:
+      name: Atlanta Blackstar
+      domain: atlantablackstar.com
+    quality: 5
+    images:
+      - url: "https://atlantablackstar.com/wp-content/uploads/2024/08/Pregnant-Wrongfully-Arrested-Because-of-Facial-Recognition.jpg"
+        width: 1200
+        height: 697
         isCached: true
 
 secured: "T0CYMJuKpA6RCEng3Bfm1lM22F8hZXdwmHaer7GXFhNCx8NivWKLhs9+JW28zTEOyOs+W53hvIUHBfYZo8oGr2iUVnLwfaY1nKbInJ4WrBnmGotJpFO6NnckA+8djIYmKszVPQ3/LguaE6ng0iOGb/Io6daVOdwkoFmFmsPicf4N1zdyv3VUjEi1Imfi966HQNjgZku8Fzz1XtcOzv/z8qJD0WLvMczCWxkYglOydcO2hfMSKM3I/QFze/jRAJbWcL+gayF6btZFzVjjXsKOvFr554C7uNvvKW0aSCLINZ+QMoGJN/onGsJjKQU1MBUZ8ZmBkOu999pF6hzOIRWhoFIYxoqwDFlkuBinYTMpiII=;GjAjivH/AMCeIvkUhyBvhA=="

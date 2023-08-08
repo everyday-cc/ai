@@ -35,7 +35,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://i.insider.com/64cbf0930f3dff0019568fce?width=1200&format=jpeg"
         width: 1200
@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 754
         isCached: true
+  - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
+    excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
+    publishedDateTime: 2023-08-08T11:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pioneering-trucking-industry-learning-with-artificial-intelligence-1032528295"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "AI as the next computing platform"
     excerpt: "The games industry requires hundreds, if not thousands, of projects every year, so the prospect of radically cutting the time and cost of creative brainstorming and prototyping is, ahem, game-changing. Add to that the increasing ability to use generative AI in software development, and the time from concept to code goes from months to days."
     publishedDateTime: 2023-08-07T14:00:00Z
@@ -71,6 +80,17 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Bringing Artificial Intelligence into the classroom"
+    excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
+    publishedDateTime: 2023-08-08T02:40:00Z
+    webUrl: "https://www.fox13news.com/video/1260378"
+    ampWebUrl: "https://www.fox13news.com/video/1260378.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1260378.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 37
 
 secured: "mpxccTGpCDzbf/f5isUFycq5FYZG9sfsLBAj4NJ/bKgunqXdnrEB6YiPhGHNk5Uw+fdNAUjwxgBEcUbMtutunzA44wZA6stqga/nozdDouM8+Y8Ujvd8Wp6KRirAtuSc40z26fG8h0ItowOiyDpd54vwXWRUE9zirist3CsKNvUTaekEoStVuL5htKnqaKx2sYmHoS15HAIXa4YnFM9xLxAdN4NP5h3nxagIcR2y+WYC77glS3YGES2Ej9S9ttKvgpzrH+DRhlXsxCsuR2x0Nv21Bb96ztLUL2j7jjDypQ0ommilAVGBoQWy3dVMrHB+acxor6YOYtJlHGpHGm9Az+alqT+1ZGMgg0ycwa2QCXA=;c6fRiPBlSueRtPNfQjg/RA=="
 ---

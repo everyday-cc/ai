@@ -2,6 +2,93 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-23-tsas-facial-recognition-for-air-travel-sparks-privacy-outrage.md",
+      "title": "TSA's facial recognition for air travel sparks privacy outrage",
+      "excerpt": "The way the TSA uses facial recognition is by taking pictures of passengers and ... Get Kurt’s CyberGuy Newsletter, share your voice, a story idea or comment at CyberGuy.com. Get a daily look at what’s developing in science and technology throughout ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sparks-privacy-outrage",
+      "originalUrl": "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sparks-privacy-outrage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation.md",
+      "title": "PaLM2 by Google for generative AI is new tool from creativity and innovation",
+      "excerpt": "PaLM2 is a new large language model (LLM) from Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content,",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg",
+          "width": 414,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/",
+      "publishedDateTime": "2023-05-22T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-compass-datacenters-horizons-video-series-explores-natural-language-processing-and-chatgpt.md",
       "title": "COMPASS DATACENTERS' \"HORIZONS\" VIDEO SERIES EXPLORES NATURAL LANGUAGE PROCESSING AND CHATGPT",
       "excerpt": "Lev Lesokhin, Technology Product Strategist, discusses the rise of natural language processing (NLP) and ChatGPT. Lesokhin discusses NLP's future and the impact of ChatGPT on our job market ...",
@@ -1356,112 +1443,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-unveils-advanced-ai-model-to-beef-up-bard-search-maps-and-more.md",
-      "title": "Google unveils advanced AI model to beef up Bard, Search, Maps and more",
-      "excerpt": "With its new PaLM 2 large language model, Google said its key products and services will be simpler and smarter thanks to a huge dose of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
-      "originalUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/tr51023-Figure-Top-Google-unveils-advanced-AI-model-to-beef-up-Bard-Search-Maps-and-more.jpg",
-          "width": 1080,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/",
-      "publishedDateTime": "2023-05-10T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-palm-2-is-a-major-ai-update-built-into-25-google-products.md",
-      "title": "PaLM 2 Is a Major AI Update Built Into 25 Google Products",
-      "excerpt": "Google on Wednesday unveiled a new AI system called PaLM 2, a major update to its most powerful language processing system. The artificial intelligence technology already is incorporated into 25 Google products, underscoring its importance as the company races to capitalize on a computing revolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/",
-      "originalUrl": "https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/fe3d1d07b739cc3244a8a9fcfe9874465549ff2c/hub/2023/05/10/cdb8cbe0-b31f-453b-a7be-880690b5828c/palm2.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/palm-2-is-a-major-ai-update-built-into-25-google-products/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/palm-2-is-a-major-ai-update-built-into-25-google-products/",
-      "publishedDateTime": "2023-05-10T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

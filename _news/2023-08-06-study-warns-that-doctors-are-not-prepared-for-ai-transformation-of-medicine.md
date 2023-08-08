@@ -49,6 +49,15 @@ related:
         width: 1070
         height: 580
         isCached: true
+  - title: "The future of medicine: Physicians need new skills to use ai in clinical decision making"
+    excerpt: "As artificial intelligence systems like ChatGPT find their way into everyday use, physicians will start to see these tools incorporated into their clinical practice to help them make important decisions on diagnosis and treatment of common medical conditions."
+    publishedDateTime: 2023-08-08T12:08:00Z
+    webUrl: "https://www.news-medical.net/news/20230808/The-future-of-medicine-Physicians-need-new-skills-to-use-ai-in-clinical-decision-making.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 10
 
 secured: "haIvvwy35yqUt6BA9IEX0T8IJ/09+Zz2qnR59dwJpHyb0vsqm+/eA9Bk2zkmV3fBaK10f7KXcTzffIulMP/SUBVG+5uYD5Fu1rkVbEZ3QJT2cG9q4WNUkcUuB8OOPKIlcF77MYAmLIzNIWCLxdMgMvJgE0K87NCi3qcxjS6zD56diU9HhcZfkwuAEUh4fl+k3knNIvY5jmOqdEN1Xv+CkBh8iy+Rcnn7jT/GSnRrsIBME77XjaE1pS+9h1su1y+SDD0pYV2amc73fe2s2DM8i9hIA1uFSXqPq7LMLvfuj6Zep6sHNtDw4WyxI0pMIV/Y2z2F81sIcrFrEgMblncC/k+Ni1SYmyvHv8AOt2j9mDA=;vwABAYRV/qF6NYMqBkpecw=="
 ---

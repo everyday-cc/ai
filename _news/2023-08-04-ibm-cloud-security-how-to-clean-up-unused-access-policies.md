@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-cloud-security-how-to-clean-up-unused
 webUrl: "https://www.ibm.com/blog/ibm-cloud-security-how-to-clean-up-unused-access-policies/"
 type: article
 quality: 99
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -21,17 +21,6 @@ provider:
 topics:
   - IBM AI
   - AI in Security
-
-related:
-  - title: "Tromzo secures $8M to lead the charge in AI-powered cloud security solutions"
-    excerpt: "Tromzo, a cybersecurity startup, today announced an additional $8 million in an oversubscribed seed round led by Venture Guides to secure cloud applications."
-    publishedDateTime: 2023-08-03T19:49:00Z
-    webUrl: "https://venturebeat.com/ai/tromzo-secures-8m-to-lead-the-charge-in-ai-powered-cloud-security-solutions/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
 
 secured: "19Fff6GoA5WiyS3uOg4C35OXD+FhsLW+1bzY9nCzvXRbXcIsD34Pl6I/9R2fma8cGDrlrqx0HLLDjk84rKLoYliJTItTMUJMil8DjyzLh82yddnz66eWPzXaFWJNYHUAzXzzrll9mKwdIlrw2/xH3FxBZFsm2Qvn0sXuWQljo1IgoAGBUiOnQBOud86rPbqFWc6+bpZZo4FKx7GLHLsg68cHuUQOWM0S7WBMrvvc71EsUkMOlUq5WMXroqa6F1lFMkGWcAIEa4whkxPhrb7OUAa+bAycRTttr69ZV+GLtx1Jx6FyHcXzXjPj3arcJj5g8ZqH+kweCY+QorsXU7A9q16e9WutjFlFg1iPasK61v8=;CepbhrCq9omhQKGdKSqzvw=="
 ---

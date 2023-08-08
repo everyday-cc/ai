@@ -2,6 +2,520 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-07-02-investors-spurn-dividend-paying-stocks-as-ai-booms.md",
+      "title": "Investors Spurn Dividend-Paying Stocks as AI Booms",
+      "excerpt": "The shares have suffered their worst first-half performance relative to nonpayers since 2009.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/investors-spurn-dividend-paying-stocks-as-ai-booms-344f431d",
+      "originalUrl": "https://www.wsj.com/articles/investors-spurn-dividend-paying-stocks-as-ai-booms-344f431d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-809630/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-the-vatican-releases-its-own-ai-ethics-handbook.md",
+      "title": "The Vatican Releases Its Own AI Ethics Handbook",
+      "excerpt": "The Vatican is getting in on the AI craze. The Holy See has released a handbook on the ethics of artificial intelligence as defined by the Pope. The guidelines are the result of a partnership between Francis and Santa Clara University’s Markkula Center ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/pope-francis-vatican-releases-ai-ethics-1850583076",
+      "originalUrl": "https://gizmodo.com/pope-francis-vatican-releases-ai-ethics-1850583076",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e3364c892e40304167feed0f80c8de71.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-ai-innovators-10-artificial-intelligence-companies-to-keep-an-eye-on-in-2023.md",
+      "title": "AI Innovators: 10 Artificial Intelligence Companies to Keep an Eye on in 2023",
+      "excerpt": "Stay updated on the latest innovations and platforms from leading artificial intelligence companies, revolutionizing technology and driving advancements in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govconwire.com/articles/artificial-intelligence-companies/",
+      "originalUrl": "https://www.govconwire.com/articles/artificial-intelligence-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh4.googleusercontent.com/2DIk83fG9ioJjtcAaRaWP1AX4aPh4tqKGsbdud3tCt4AVm5AyTIIZCoxrH48i6wQNUum8CxM_CUq8mCTXG4U1SwKb0KmmhySjKmCwHgr-L0bX5tiLBzegTk_vfvrb0RH7YrNgK79codlInctcTAyqbg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GovCon Wire",
+        "domain": "govconwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI",
+        "AI in Healthcare",
+        "IBM AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones.md",
+      "title": "AgriTech Innovations 2023: Transforming Farming with AI, Robotics, and Drones",
+      "excerpt": "The field of agriculture is advancing day by day. Today, we have bought some latest trends and innovations concerned with Agriculture.",
+      "sourceUrl": null,
+      "webUrl": "https://krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/",
+      "originalUrl": "https://krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kj1bcdn.b-cdn.net/media/91685/engineer-gc9ddb59df_1280.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/?amp=1",
+      "cdnAmpWebUrl": "https://krishijagran-com.cdn.ampproject.org/c/s/krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/?amp=1",
+      "publishedDateTime": "2023-07-01T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "krishijagran",
+        "domain": "krishijagran.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-artificial-intelligence-can-shorten-cancer-radiation-treatment-duration.md",
+      "title": "Artificial Intelligence can shorten cancer radiation treatment duration",
+      "excerpt": "Predictive AI models can assess a person's likelihood of developing cancer by identifying risk factors. A new AI tool shortens cancer patients' waiting time for treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/07/julien-tromeur-V2G1YnMHZwk-unsplash-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp",
+      "publishedDateTime": "2023-07-01T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-ny-bills-would-ban-deepfakes-put-guardrails-on-artificial-intelligence.md",
+      "title": "NY bills would ban 'deepfakes,' put guardrails on artificial intelligence",
+      "excerpt": "Measures passed by the State Legislature this session include banning \"deepfake\" images online that most often are used to humiliate or coerce women.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
+      "originalUrl": "https://www.newsday.com/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/ace/c:MTgxNzY1YzQtMmRiOS00:YzllNTEw/landscape/1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
+      "publishedDateTime": "2023-07-01T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-ibm-is-bringing-ai-to-the-maker-movement.md",
+      "title": "IBM is Bringing AI to the Maker Movement",
+      "excerpt": "IBM has announced a new experimental platform, Project Intu, that aims to bring the various machine learning capabilities of its Watson artificial intelligence (AI) system to developers at all levels -- even ones that use a Raspberry Pi. The goal of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/ibm-bringing-ai-maker-movement",
+      "originalUrl": "https://www.designnews.com/electronics-test/ibm-bringing-ai-maker-movement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/IBM_Watson_0.png",
+          "width": 500,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-knightscopes-k5-robot-stops-crime-before-it-happens.md",
+      "title": "Knightscope's K5 Robot Stops Crime Before it Happens",
+      "excerpt": "The K5 can monitor spaces such as parking lots and structures for suspicious activity and go where it predicts a crime is likely to happen. (Image source: Knightscope) It's not part man, it's all machine, but this robot can still be a cop. Robotics company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/knightscopes-k5-robot-stops-crime-it-happens",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/knightscopes-k5-robot-stops-crime-it-happens",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/MG_6251-Edit.jpg",
+          "width": 500,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-rage-against-the-machine-refuses-to-play-venues-with-facial-recognition.md",
+      "title": "Rage Against the Machine Refuses to Play Venues With Facial Recognition",
+      "excerpt": "Rage Against the Machine is living up to its name by signing a pledge to boycott venues that use facial recognition technology. Band cofounders Tom Morello and Zack De La Rocha are, as Rolling ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition",
+      "originalUrl": "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2023/06/rage-against-the-machine-facial-recognition.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-the-tsa-will-use-facial-recognition-in-over-400-airports.md",
+      "title": "The TSA will use facial recognition in over 400 airports",
+      "excerpt": "The Transportation Security Administration (TSA) will expand its facial recognition program to around 430 US airports over the next several years following what it calls “extremely promising ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/7/1/23781040/the-tsa-will-use-facial-recognition-in-over-400-airports",
+      "originalUrl": "https://www.theverge.com/2023/7/1/23781040/the-tsa-will-use-facial-recognition-in-over-400-airports",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/WtULkDVIZr3_tn6r1clVzTaSjEY=/0x0:8192x5464/1200x628/filters:focal(4096x2732:4097x2733)/cdn.vox-cdn.com/uploads/chorus_asset/file/24765290/1252211190.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous.md",
+      "title": "Why business leaders must tackle ethical considerations as AI becomes ubiquitous",
+      "excerpt": "Technology will only continue to evolve, so it is essential that we remain vigilant and keep ethical AI top of mind.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous/",
+      "originalUrl": "https://venturebeat.com/ai/why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/business-meeting.GettyImages-1130939432.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-01-ai-offers-an-epic-make-or-break-moment-for-investors.md",
       "title": "AI Offers an Epic Make-or-Break Moment for Investors",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Editor’s note: “AI Offers an Epic Make-or-Break Moment for",
@@ -663,532 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-town-on-tenterhooks-as-hollywood-veers-toward-a-second-strike-and-ai-is-a-big-part.md",
-      "title": "Town On Tenterhooks As Hollywood Veers Toward A Second Strike, And AI Is A Big Part",
-      "excerpt": "Writers have been striking Hollywood studios for 60 days, but could be joined by striking actors as soon as tonight. The stoppages could affect consumers within weeks",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dbloom/2023/06/30/town-on-tenterhooks-as-hollywood-veers-toward-a-second-strike-and-ai-is-a-big-part/",
-      "originalUrl": "https://www.forbes.com/sites/dbloom/2023/06/30/town-on-tenterhooks-as-hollywood-veers-toward-a-second-strike-and-ai-is-a-big-part/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649f3fa1edc8959e2ee7868f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2023/06/30/town-on-tenterhooks-as-hollywood-veers-toward-a-second-strike-and-ai-is-a-big-part/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2023/06/30/town-on-tenterhooks-as-hollywood-veers-toward-a-second-strike-and-ai-is-a-big-part/amp/",
-      "publishedDateTime": "2023-06-30T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-ai-all-in-should-investors-avoid-ai.md",
-      "title": "AI = All In, Should Investors Avoid AI?",
-      "excerpt": "Artificial Intelligence (AI) has existed for some time but we now witness the public discovery of it and already, an investment bubble in AI stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-should-investors-avoid-ai/",
-      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-should-investors-avoid-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649f2a2994955a8a53f8d8cb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-should-investors-avoid-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-should-investors-avoid-ai/amp/",
-      "publishedDateTime": "2023-06-30T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-draft-eu-artificial-intelligence-rules-could-hurt-europe-executives-say.md",
-      "title": "Draft EU artificial intelligence rules could hurt Europe, executives say",
-      "excerpt": "The proposed EU Artificial Intelligence legislation would jeopardise Europe's competitiveness and technological sovereignty, according to an open letter signed by more than 160 executives at companies ranging from Renault to Meta .",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/draft-eu-artificial-intelligence-rules-could-hurt-europe-open-letter-2023-06-30/?ref=promptengineering.org",
-      "originalUrl": "https://www.reuters.com/technology/draft-eu-artificial-intelligence-rules-could-hurt-europe-open-letter-2023-06-30/?ref=promptengineering.org",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/BZZiDdK2-b6MMPX1dKB_GnxGIg8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TRI4RJLDVJNYLKQZNAH2FSAF4Q.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-techcrunch-roundup-vertical-ai-crypto-losses-decline-machine-learning-investor-survey.md",
-      "title": "TechCrunch+ roundup: Vertical AI, crypto losses decline, machine learning investor survey",
-      "excerpt": "We’re publishing on a lighter schedule to commemorate Independence Day, so I’ll return on Friday, July 7 with a new TC+ roundup.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/30/techcrunch-roundup-vertical-ai-crypto-losses-down-ml-investor-survey/",
-      "originalUrl": "https://techcrunch.com/2023/06/30/techcrunch-roundup-vertical-ai-crypto-losses-down-ml-investor-survey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-499840007.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/30/techcrunch-roundup-vertical-ai-crypto-losses-down-ml-investor-survey/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/30/techcrunch-roundup-vertical-ai-crypto-losses-down-ml-investor-survey/amp/",
-      "publishedDateTime": "2023-06-30T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year.md",
-      "title": "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year",
-      "excerpt": "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/30/9842393.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/30/9842393.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-ai-in-chip-design-where-does-cadence-stand.md",
-      "title": "AI in chip design: Where does Cadence stand?",
-      "excerpt": "In a preliminary interview with DIGITIMES Asia, the Cadence VP also shares his views on AI deployment in chip design and its implications for the company. According to Moore, Cadence already anticipated the growing role of AI in chip design approximately ten years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-in-chip-design-where-does-cadence-stand-1032420971",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-in-chip-design-where-does-cadence-stand-1032420971",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2145220/image_800964_36161467.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-rd-speech-recognition-technology-that-can-handle-new-topics-of-conversation.md",
-      "title": "R&D Speech recognition technology that can handle new topics of conversation",
-      "excerpt": "After working at the Hiroshima Station, he moved to the Science & Technology Research Laboratories (STRL) in 2019, where he is involved in speech recognition research. His hobbies include running ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhk.or.jp/strl/english/publica/giken_dayori/218/3.html",
-      "originalUrl": "https://www.nhk.or.jp/strl/english/publica/giken_dayori/218/3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nhk.or.jp/strl/english/publica/giken_dayori/218/img/3_0.jpg",
-          "width": 720,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy.md",
-      "title": "The EU Wants to Protect You From AI. Some Companies Aren't Happy",
-      "excerpt": "Tech and other executives say the EU's AI Act stifles competition during a critical time of technological development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy/",
-      "originalUrl": "https://www.cnet.com/tech/the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/1bcd1a2f3d58e57809d2440b723a2d20e89d3d68/hub/2023/06/30/18b4a82a-874c-4f85-a2e8-c560a9890c6b/gettyimages-1468369907.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-microsoft-is-developing-cutting-edge-ai-chips-to-close-the-gap-with-aws-internal-documents-show.md",
-      "title": "Microsoft is developing cutting-edge AI chips to 'close the gap' with AWS, internal documents show",
-      "excerpt": "Documents released during the Federal Trade Commission's lawsuit against Microsoft confirm the company is working on its own AI chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6",
-      "originalUrl": "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/649f0139fd8a3e00191220d5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-voiceai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users.md",
-      "title": "Voice.ai raises $6M as its real-time voice changer approaches 500K users",
-      "excerpt": "With more than 480,000 users and a library of more than 50,000 voice filters, Voice.ai has picked up $6M to take its voice changing tech into new places.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/",
-      "originalUrl": "https://techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/hearts-sounds.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/amp/",
-      "publishedDateTime": "2023-06-30T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-artificial-intelligence-market-worth-13452-billion-by-2030-exclusive-report-by-marketsandmarkets.md",
-      "title": "Artificial Intelligence Market worth $1,345.2 billion by 2030 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The global Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.8% during the forecast period, to reach USD 1,345.2 billion by 2030 from USD 150.2 billion in 2023,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/30/9842399.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/30/9842399.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

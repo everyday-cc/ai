@@ -88,6 +88,15 @@ related:
       name: Big Rigs
       domain: bigrigs.com.au
     quality: 34
+  - title: "Self-driving car company Cruise to test in Atlanta"
+    excerpt: "Cruise is bringing its autonomous vehicles to Atlanta. But, the cars will have drivers for now. The San Francisco-based company, which operates a robotaxi service in other cities, said Monday it will begin testing its self-driving cars in Atlanta."
+    publishedDateTime: 2023-08-08T11:49:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2023/08/08/autonomous-car-cruise-general-motors-test.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "7Q7yJwsX1A/4rinLB+UWcCo6wg7q8KTx0XGqLVUUdn+lDkNzlhPFb0x0I99PWp+Ro1iOH8ycXzFBL6DmVntdAiLrDkMkW8j5zYqJQSArxqIm1kKYofbQfqzwUJPLKx8m7atlzH/L2Q2mA1X1gQbmQ+2eUsuvZA/4oyoINOaWZSi0kpUqdNn5hPBfM2g4VkB7WDvS5lAO1U1mqpl2DWYAmmjUkHp4FPADfK25X7t7B7fdh6I8CCkPH0n9WAZFtIZJU1PWmsKZZIfNBcofL0FDbuA5LOxZEaI5zd2U98DDUlWP5rdcx5ptH7R5zDJP+C5fecRw7zOMRp8Eh4NuahKLhSeMjnHOMeVtnRC9kH8XRLJfzQdtR0nl4XCP5gqDfa32ttEE4ck6jDBMAEPeisqO8OENDjfEpUfKejCHUhlJEbtQgGxbCapcMOviHx05yo5UGnms8CfFcs5tRymLvUppOfkvfw5GbQkz3NqspkOVMIV4yUANOEM6ZtmC+UA6txrGMxY4IiH6s5dnsU64QZXJUw==;d2/HhbM1Rq1K6tTP42P1Wg=="
 ---

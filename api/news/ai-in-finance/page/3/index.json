@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-20-machine-learning-helps-researchers-identify-hit-songs-with-97-accuracy.md",
+      "title": "Machine learning helps researchers identify hit songs with 97% accuracy",
+      "excerpt": "They also applied machine learning to the neural responses to the first minute of the songs. In this case, hits were correctly identified with a success rate of 82%. “This means that streaming services ... of any commercial or financial relationships ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/992481",
+      "originalUrl": "https://www.eurekalert.org/news-releases/992481",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-19-this-industry-expert-explains-why-fintech-holds-a-bright-future-for-small-businesses.md",
       "title": "This Industry Expert Explains Why Fintech Holds a Bright Future For Small Businesses",
       "excerpt": "However, the emerging market of SMB-focused financial technology (FinTech) companies presents promising possibilities for these businesses. Anchit Singh, the Head of Product & Credit Strategy at Fundbox, an AI-driven financial platform for small businesses ...",
@@ -1336,50 +1371,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use.md",
-      "title": "Singapore's Central Bank Partners With Google to Explore AI for Internal Use",
-      "excerpt": "The Central Bank of Singapore is partnering with Google’s cloud unit to explore potential internal use cases of the burgeoning artificial intelligence (AI) space and advance the development of innovative technologies in the Asian hub,",
-      "sourceUrl": null,
-      "webUrl": "https://247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/",
-      "originalUrl": "https://247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2020/04/imageForEntry16-Xbo.jpg?w=400",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/amp/",
-      "publishedDateTime": "2023-05-31T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "Google AI"
       ]
     }
   ],

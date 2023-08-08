@@ -38,6 +38,20 @@ related:
         width: 1016
         height: 507
         isCached: true
+  - title: "Host the Spark UI on Amazon SageMaker Studio"
+    excerpt: "Amazon SageMaker offers several ways to run distributed data processing jobs with Apache Spark, a popular distributed computing framework for big data processing. You can run Spark applications interactively from Amazon SageMaker Studio by connecting SageMaker Studio notebooks and AWS Glue Interactive"
+    publishedDateTime: 2023-08-08T14:56:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-the-spark-ui-on-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/08/host-spark-ui-sagemaker-1260x627.jpg"
+        width: 1260
+        height: 627
+        isCached: true
   - title: "Bring your own AI using Amazon SageMaker with Salesforce Data Cloud"
     excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. We’re excited to announce Amazon SageMaker and Salesforce Data Cloud integration. With this capability, businesses can access their Salesforce data securely with a zero-copy approach using SageMaker and use SageMaker"
     publishedDateTime: 2023-08-04T13:27:49Z
@@ -47,6 +61,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 84
+  - title: "Deploy thousands of model ensembles with Amazon SageMaker multi-model endpoints on GPU to minimize your hosting costs"
+    excerpt: "Artificial intelligence (AI) adoption is accelerating across industries and use cases. Recent scientific breakthroughs in deep learning (DL), large language models (LLMs), and generative AI is allowing customers to use advanced state-of-the-art solutions with almost human-like performance. These complex"
+    publishedDateTime: 2023-08-08T14:50:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-thousands-of-model-ensembles-with-amazon-sagemaker-multi-model-endpoints-on-gpu-to-minimize-your-hosting-costs/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/08/deploy-thousands-of-models-1248x630.jpg"
+        width: 1248
+        height: 630
+        isCached: true
 
 secured: "JlkcblwagKyrg65xZweN2qw8RG2NLmaFBkw4Wh95X7pya8spPPdgqW6C4GyvA7lXj5NOZf3PPKcDhA3tKUsIz9ITS9Xu3+nw0lck7HrBbK8beyEbhSz3Iwu981wyZ0OpakoWUXgfPfro0t80KV7a1+pVjAuXBwtov99xqdSHLBdiyv4BtqnZ3ogiWSn17kc8Tv6yg/ycb1WUgF4aJk+rFNhvha7Sz8RpHK2QNPt0RTjotkDQFWJyBgGk+5bbnhuxE4DbQVqIm8KeFmBlGeJGJz0vUQM66++dXCbxPRcqmBDJS3C5rGV6/Zvx7NJ+YuIzF0yR0Zbsr3dov5KKq7CxXrIHxIzA6ckVtv1JtuxlU/Q=;sAHZt4RkjHBjCBxeGEiEbg=="
 ---

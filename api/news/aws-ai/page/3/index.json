@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-10-when-is-amazon-prime-day-2023.md",
+      "title": "When is Amazon Prime Day 2023?",
+      "excerpt": "Get ready -- Amazon Prime Day 2023 starts tomorrow and runs through Wednesday, July 12. Prime Day is one of Amazon's biggest shopping events of the year. During the deals event, you can save lots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/when-is-amazon-prime-day-2023-07-10/",
+      "originalUrl": "https://www.cbsnews.com/essentials/when-is-amazon-prime-day-2023-07-10/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/15/4d62ad11-c038-4164-a302-3620da8408c5/thumbnail/1200x630/ca85d42901cedf8740a328fc8730a1da/gettyimages-1157884537-amazon-prime-day-2023.jpg?v=8be0a296491a12ce38351fd824e37a16",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/when-is-amazon-prime-day-2023-07-10/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/when-is-amazon-prime-day-2023-07-10/",
+      "publishedDateTime": "2023-07-10T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023.md",
       "title": "How Artificial Intelligence, Data And Analytics Are Transforming Formula One In 2023",
       "excerpt": "Artificial intelligence (AI) is driving a wave of disruption, transforming car design, race performance and fan experience alike.",
@@ -1382,59 +1425,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk.md",
-      "title": "Deploy a serverless ML inference endpoint of large language models using FastAPI, AWS Lambda, and AWS CDK",
-      "excerpt": "For data scientists, moving machine learning (ML) models from proof of concept to production often presents a significant challenge. One of the main challenges can be deploying a well-performing, locally trained model to the cloud for inference and use in other applications. It can be cumbersome to manage",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/23/serverless-ml-inference-endpoint.jpg",
-          "width": 1022,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T13:27:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

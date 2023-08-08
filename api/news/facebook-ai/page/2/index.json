@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-14-a-top-ai-expert-says-the-technology-is-still-in-its-very-early-phase-were-only-at-the-iphone-2g-3g-point.md",
+      "title": "A top AI expert says the technology is still in its very early phase: 'We're only at the iPhone 2G, 3G point.'",
+      "excerpt": "Stability AI's CEO, Emad Mostaque, said during a roundtable discussion that he believed the real force of AI would be felt next year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7",
+      "originalUrl": "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64b13a4a9751e300192a14db?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7?amp",
+      "publishedDateTime": "2023-07-14T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-kpmg-is-making-a-2-billion-bet-on-ai-its-another-example-of-big-changes-that-are-coming-to-the-workplace.md",
       "title": "KPMG is making a $2 billion bet on AI. It's another example of big changes that are coming to the workplace.",
       "excerpt": "KPMG advises businesses around the world. It's teaming with Microsoft to bring AI to more of them. Get ready for the new tech to spread even faster.",
@@ -1426,49 +1478,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-crypto-scams-are-going-to-ramp-up-with-the-rise-of-ai.md",
-      "title": "Crypto scams are going to ramp up with the rise of AI",
-      "excerpt": "You can expect crypto scams that rely on artificial intelligence to soar over the next couple of years, according to Felix Roemer.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence",
-      "originalUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/77b8df3b-07ba-4583-adc4-2da8cf180053.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp",
-      "publishedDateTime": "2023-06-26T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

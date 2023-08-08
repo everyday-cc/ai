@@ -18,22 +18,51 @@ topics:
   - AI
 
 related:
-  - title: "Is Generative AI Stealing From Artists?"
-    excerpt: "Delve into the contentious debate around ownership, credit, and financial compensation for art created by AI tools, exploring artists' rights and IP laws."
-    publishedDateTime: 2023-08-08T06:36:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/amp/"
+  - title: "Wizards of the Coast’s Dungeons & Dragons tells artists not to use AI"
+    excerpt: "Dungeons & Dragons, owned by Renton-based Wizards of the Coast, told artists to stop using the technology after social media questioning."
+    publishedDateTime: 2023-08-07T17:25:00Z
+    webUrl: "https://www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "Transactions in the Age of Artificial Intelligence 5 Potential Pitfalls to Consider"
+    excerpt: "Soaring interest and rapid growth in artificial intelligence (AI) has made it a major focus of technology transactions – but the standard acquisition agreement has not kept pace. AI companies present unique risks to potential buyers that a standard ..."
+    publishedDateTime: 2023-08-04T14:55:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/transactions-in-the-age-of-artificial-1294473/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 31
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d1e22b979499b5d765f249/0x0.jpg?format=jpg&width=1200"
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13091_35.jpg"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
+  - title: "Dungeons & Dragons tells illustrators to stop using AI to generate artwork for fantasy franchise"
+    excerpt: "Dungeons & Dragons, owned by Renton-based Wizards of the Coast, told artists to stop using the technology after social media questioning."
+    publishedDateTime: 2023-08-07T17:25:00Z
+    webUrl: "https://www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
+  - title: "Dungeons & Dragons says its illustrators can't use AI after they discovered the tech was used for work featured in an upcoming book"
+    excerpt: "Dungeons & Dragons said they are updating their guidance around AI after discovering an artist had used the tech to generate work for a book."
+    publishedDateTime: 2023-08-07T11:49:00Z
+    webUrl: "https://www.businessinsider.com/dungeons-and-dragons-illustrators-cant-use-ai-for-art-commissions-2023-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
 
 secured: "P+K8fMUUMLZfdPEsyK33zUR5w6Va1uxQLe/pFKP6XWswgYBQYXw8hDx4i7efwZfuW6KDlbSVR4QwtMN8FoEc02Ov0aUz/lyHcoU58drhH6UuaeUS4UaWPMq2HK0hk5rvYumnAx91n+Ig3rNkr8JjGna5C2LNRP4ouGAV/wdketwnAqnM5tWO+cMRjjFkARlrWtlFdyfqFhqosz/iY31/b1aw14IQpUYBilVFoEZpnRxMx+3v3+1BGr8Y9/AsUJJfEobTwpvVzE8w+pB7wBm4AttMiBhaspRLTFZkNxDydwTod4Jm74NC8APlKLs2eBTFR3pCs5AdzJHPJcpkiSym9ZiGrG2+91DE9ybmkjsYAN46nIxQ3iip2Jm0DFCHXsXzYso5JZIQgIWwgHQbU4PUc5igqBB27OxO9M2smjYGQsteWpaWrIWWXPyaBlm9Ou0hBXzgcciXK/F7SlrdIqJEfaPmBBhADtuwHraKg+6af2f3nl2JQIQ3KdBB/J76vjftic7mnQc87qUJXOM0SFpUCw==;yrcjqKv7y/Unh+TG3B3q7Q=="
 ---

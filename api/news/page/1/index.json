@@ -2,6 +2,392 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-08-disney-is-so-serious-about-using-ai-it-created-a-task-force.md",
+      "title": "Disney Is So Serious About Using AI it Created a Task Force",
+      "excerpt": "Expect artificial intelligence and machine learning to be injected into every area of Disney's business—from movie production to theme parks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/disney-is-so-serious-about-using-ai-it-created-a-task-force",
+      "originalUrl": "https://www.pcmag.com/news/disney-is-so-serious-about-using-ai-it-created-a-task-force",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05xz3UGLjCX3ft8hSSpylGk-1.fit_lim.size_1200x630.v1691507474.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest.md",
+      "title": "Goldman Sees $1.5 Trillion Flowing To AI. Here’s Where To Invest",
+      "excerpt": "Innovations in electricity and personal computers unleashed investment booms of as much as 2% of U.S. GDP as the technologies were adopted into the broader economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d1177d31bc40f18165f247/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/amp/",
+      "publishedDateTime": "2023-08-08T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-how-to-choose-the-best-enterprise-asset-management-software.md",
+      "title": "How to choose the best enterprise asset management software",
+      "excerpt": "While there are a lot of EAM products on the market, this article will help you ask the right questions to find the right fit for your organization.\nThe post How to choose the best enterprise asset management software appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/best-enterprise-asset-management-software/",
+      "originalUrl": "https://www.ibm.com/blog/best-enterprise-asset-management-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T06:48:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-how-to-build-more-sustainable-transportation-infrastructure.md",
+      "title": "How to build more sustainable transportation infrastructure",
+      "excerpt": "Transportation infrastructure—the networks of fixed installations that ensure safe transport of people and goods—is a critical part of modern economies.\nThe post How to build more sustainable transportation infrastructure appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/transportation-infrastructure/",
+      "originalUrl": "https://www.ibm.com/blog/transportation-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T06:35:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-catchrelease-is-building-an-ai-powered-search-engine-to-help-brands-license-user-generated-content.md",
+      "title": "Catch+Release is building an AI-powered search engine to help brands license user-generated content",
+      "excerpt": "So we are trying to solve for these kind of use-cases.” There is a lot of chatter around the use and ethics of generative AI in the creative world. Goodin thinks that while brands require a lot of images and video assets, generative AI tools don’t yet ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/08/catchrelease-raises-8m-to-help-brands-discover-and-license-user-generated-content/",
+      "originalUrl": "https://techcrunch.com/2023/08/08/catchrelease-raises-8m-to-help-brands-discover-and-license-user-generated-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/CatchRelease.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/08/catchrelease-raises-8m-to-help-brands-discover-and-license-user-generated-content/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/catchrelease-raises-8m-to-help-brands-discover-and-license-user-generated-content/amp/",
+      "publishedDateTime": "2023-08-08T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-stormforge-optimize-live-now-available-in-the-ibm-cloud-catalog.md",
+      "title": "StormForge Optimize Live now available in the IBM Cloud Catalog",
+      "excerpt": "Machine learning and automation combine to continuously right-size workloads and eliminate resource over-provisioning in Kubernetes.\nThe post StormForge Optimize Live now available in the IBM Cloud Catalog appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/stormforge-optimize-live-now-available-in-the-ibm-cloud-catalog/",
+      "originalUrl": "https://www.ibm.com/blog/stormforge-optimize-live-now-available-in-the-ibm-cloud-catalog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T06:26:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-chargeflow-which-taps-ai-to-fight-chargebacks-raises-14m.md",
+      "title": "Chargeflow, which taps AI to fight chargebacks, raises $14M",
+      "excerpt": "Chargeflow, a startup using AI to fight chargeback fraud, today announced that it raised $11 million in a seed round led by the VC firm OpenView Venture Partners. The tranche builds on Chargeflow’s previously undisclosed $3 million seed round closed ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/08/chargeflow-which-taps-ai-to-fight-chargebacks-raises-14m/",
+      "originalUrl": "https://techcrunch.com/2023/08/08/chargeflow-which-taps-ai-to-fight-chargebacks-raises-14m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1413376650.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/08/chargeflow-which-taps-ai-to-fight-chargebacks-raises-14m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/chargeflow-which-taps-ai-to-fight-chargebacks-raises-14m/amp/",
+      "publishedDateTime": "2023-08-08T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai.md",
+      "title": "AI Readiness: Equip Your Team With The Skills They Need To Leverage AI",
+      "excerpt": "Leaders in every facet of an organization need to think about how to prepare their teams to get the most out of this cutting-edge technology. Here are two key strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/08/ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/08/ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f74b9824373186fc49d44bb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/08/ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/08/ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai/amp/",
+      "publishedDateTime": "2023-08-08T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-opinion-this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai.md",
       "title": "Opinion: This is what tech companies, from Amazon to Apple, just told investors about AI",
       "excerpt": "That set up sky-high expectations for companies that are embedding AI-related technology across their product suites as well as chip companies that are selling to them. The second quarter, therefore, became a litmus test. Here’s a breakdown of AI’s ...",
@@ -10,7 +396,7 @@
       "originalUrl": "https://www.marketwatch.com/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -106,6 +492,57 @@
       ]
     },
     {
+      "path": "_news/2023-08-08-from-laggard-to-leader-how-the-insurance-industry-is-embracing-ai-to-deliver-real-business-benefits.md",
+      "title": "From Laggard To Leader: How The Insurance Industry Is Embracing AI To Deliver Real Business Benefits",
+      "excerpt": "Progressive insurers are embracing the transformative power of AI to improve their operations, attract customers and enter new markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/from-laggard-to-leader-how-the-insurance-industry-is-embracing-ai-to-deliver-real-business-benefits/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/from-laggard-to-leader-how-the-insurance-industry-is-embracing-ai-to-deliver-real-business-benefits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63923fd8974e7883484072b2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-will-ai-augment-or-replace-workers.md",
       "title": "Will AI Augment Or Replace Workers?",
       "excerpt": "AI and other emerging technologies will shift industry practices and human labor norms. However, the manner in which those shifts occur is not always clear, and history tells us that there will still be work for humans to do when the dust settles.",
@@ -114,7 +551,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/will-ai-augment-or-replace-workers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -348,7 +785,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -388,7 +825,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -469,57 +907,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2023/08/08/new-study-questions-how-long-until-failsafe-is-spelled-using-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2023/08/08/new-study-questions-how-long-until-failsafe-is-spelled-using-ai/amp/",
       "publishedDateTime": "2023-08-08T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-is-generative-ai-stealing-from-artists.md",
-      "title": "Is Generative AI Stealing From Artists?",
-      "excerpt": "Delve into the contentious debate around ownership, credit, and financial compensation for art created by AI tools, exploring artists' rights and IP laws.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d1e22b979499b5d765f249/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/amp/",
-      "publishedDateTime": "2023-08-07T23:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -657,7 +1044,7 @@
       "originalUrl": "https://www.pcmag.com/news/ai-can-now-steal-your-passwords-by-listening-to-your-keystrokes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -760,7 +1147,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 284,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -845,393 +1232,6 @@
         "AI Hardware",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-ai-language-models-are-rife-with-political-biases.md",
-      "title": "AI language models are rife with political biases",
-      "excerpt": "If you ask an AI you might get wildly different answers depending on which one you ask. While OpenAI’s older GPT-2 and GPT-3 Ada models would advance the former statement, GPT-3 Da Vinci, the company’s more capable model,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/",
-      "originalUrl": "https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/08/Screenshot-2023-08-07-at-17.46.14.png",
-          "width": 656,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/amp/",
-      "publishedDateTime": "2023-08-07T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-aws-performs-fine-tuning-on-a-large-language-model-llm-to-classify-toxic-speech-for-a-large-gaming-company.md",
-      "title": "AWS performs fine-tuning on a Large Language Model (LLM) to classify toxic speech for a large gaming company",
-      "excerpt": "The video gaming industry has an estimated user base of over 3 billion worldwide1. It consists of massive amounts of players virtually interacting with each other every single day. Unfortunately, as in the real world, not all players communicate appropriately and respectfully. In an effort to create",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-performs-fine-tuning-on-a-large-language-model-llm-to-classify-toxic-speech-for-a-large-gaming-company/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-performs-fine-tuning-on-a-large-language-model-llm-to-classify-toxic-speech-for-a-large-gaming-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/07/fine-tuning-llm-toxic-speech.jpg",
-          "width": 911,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T09:19:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm.md",
-      "title": "Leidos-Microsoft Partnership Is Latest Sign AI Is Taking The Defense Industry By Storm",
-      "excerpt": "Defense firms are vigorously pursuing use of artificial intelligence in their product offerings, but the challenges are different from those of civilian AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/",
-      "originalUrl": "https://www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d1169365df6e8e3e034c63/0x0.jpg?format=jpg&width=1200",
-          "width": 1054,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/amp/",
-      "publishedDateTime": "2023-08-07T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones.md",
-      "title": "Machine Learning In Your Pocket: Unleashing The Full Potential Of Smartphones",
-      "excerpt": "On the consumer side, smartphone-based personal AI assistants capable of learning from their users' habits might someday be the big selling points of flagship devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64cd5b440a5f09082a364b32/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/amp/",
-      "publishedDateTime": "2023-08-07T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-ai-transformation-of-medicine-why-doctors-are-not-prepared.md",
-      "title": "AI transformation of medicine: Why doctors are not prepared",
-      "excerpt": "As artificial intelligence systems like ChatGPT find their way into ... most likely to go into life-threatening sepsis from an uncontrolled infection or which therapy has the highest probability of preventing sudden death in an individual heart disease ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-08-ai-medicine-doctors.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-08-ai-medicine-doctors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-doctor.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-08-ai-medicine-doctors.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-ai-medicine-doctors.amp",
-      "publishedDateTime": "2023-08-07T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-responsible-ai-a-risk-based-approach.md",
-      "title": "Responsible AI: A Risk-Based Approach",
-      "excerpt": "• Operational risks. Using AI can create new dependencies, and businesses that rely heavily on AI systems may lack the ability to operate effectively without it. This can create significant business continuity risks if an AI system fails or becomes compromised—or if regulatory changes deem it unusable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/responsible-ai-a-risk-based-approach/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/responsible-ai-a-risk-based-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64cd4f50275ecaef97960ea8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/responsible-ai-a-risk-based-approach/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/responsible-ai-a-risk-based-approach/amp/",
-      "publishedDateTime": "2023-08-07T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-european-fintech-players-are-bracing-for-market-consolidation.md",
-      "title": "European fintech players are bracing for market consolidation",
-      "excerpt": "When Monzo published its latest annual revenue figures in February, it provided a flicker of light after months of headlines about fintech down rounds and job cuts. The accounts showed that the UK dig",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/european-fintech-players-bracing-market-consolidation-across-the-market",
-      "originalUrl": "https://thenextweb.com/news/european-fintech-players-bracing-market-consolidation-across-the-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FUntitled-design-6-2.jpg&signature=bdddb9af2169a3041de36e8b6d85395c",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-optimizing-clinical-trial-site-performance-a-focus-on-three-ai-capabilities.md",
-      "title": "Optimizing clinical trial site performance: A focus on three AI capabilities",
-      "excerpt": "AI-driven enrollment rate prediction, real-time monitoring and forecasting of site performance and leveraging Next Best Action (NBA).\nThe post Optimizing clinical trial site performance: A focus on three AI capabilities appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/optimizing-clinical-trial-site-performance-a-focus-on-three-ai-capabilities/",
-      "originalUrl": "https://www.ibm.com/blog/optimizing-clinical-trial-site-performance-a-focus-on-three-ai-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-08-ai-is-ruining-the-internet.md",
+      "title": "AI is ruining the internet",
+      "excerpt": "From way more spam to sneakier scams, AI is going to make even the most basic online tasks more annoying — and unreliable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8",
+      "originalUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64cbf0930f3dff0019568fce?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp",
+      "publishedDateTime": "2023-08-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says.md",
       "title": "AI-supported screenings increase breast cancer detection by 20%, study says",
       "excerpt": "The group whose scans were assisted by AI found 20% more cancers than the group without AI assistance. However, this doesn’t mean hospitals will let a computer determine whether a patient has cancer any time soon. The authors of the study say there is still a lot more research to do.",
@@ -1416,58 +1469,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-a-top-ai-expert-says-the-technology-is-still-in-its-very-early-phase-were-only-at-the-iphone-2g-3g-point.md",
-      "title": "A top AI expert says the technology is still in its very early phase: 'We're only at the iPhone 2G, 3G point.'",
-      "excerpt": "Stability AI's CEO, Emad Mostaque, said during a roundtable discussion that he believed the real force of AI would be felt next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7",
-      "originalUrl": "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64b13a4a9751e300192a14db?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7?amp",
-      "publishedDateTime": "2023-07-14T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Facebook AI"
       ]

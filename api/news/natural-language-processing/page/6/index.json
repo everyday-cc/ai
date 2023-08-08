@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-19-the-voice-referendum-bill-has-now-passed-the-senate-so-heres-everything-you-need-to-know.md",
+      "title": "The Voice Referendum Bill Has Now Passed The Senate So Here’s Everything You Need To Know",
+      "excerpt": "He also insisted the Voice’s purely advisory powers are “not about symbolism” but “about recognition, something that’s far more important”. “Consultation through the Voice is about ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pedestrian.tv/news/indigenous-voice-to-parliament-referendum-details/",
+      "originalUrl": "https://www.pedestrian.tv/news/indigenous-voice-to-parliament-referendum-details/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pedestrian.tv/wp-content/uploads/2023/03/aboriginal-flag.png?quality=75",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PEDESTRIAN.TV",
+        "domain": "pedestrian.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-automatic-speech-recognitionasr-software-market-size-2030.md",
+      "title": "Automatic Speech Recognition(ASR) Software Market Size | 2030",
+      "excerpt": "Jun 19, 2023 (The Expresswire) -- \"Automatic Speech Recognition(ASR) Software Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-size-2030-2023-06-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-size-2030-2023-06-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-19-ai-powered-bhashini-may-soon-transcribe-translate-kerala-hc-proceedings.md",
       "title": "AI-powered Bhashini may soon transcribe, translate Kerala HC proceedings",
       "excerpt": "MeitY's Bhashini initiative aims to bridge the digital and language barrier with the help of Indian language-based technology solutions",
@@ -1306,102 +1401,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-apple-avoids-ai-hype-at-wwdc-keynote-by-baking-ml-into-products.md",
-      "title": "Apple avoids “AI” hype at WWDC keynote by baking ML into products",
-      "excerpt": "Amid notable new products like the Apple Silicon Mac Pro and the Apple Vision Pro revealed at Monday's WWDC 2023 keynote event, Apple presenters never once mentioned the term \"AI,\" a notable omission given that its competitors like Microsoft and Google have been heavily focusing on generative AI at the moment.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/vision_pro_face_scanning_2-800x451.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/amp/",
-      "publishedDateTime": "2023-06-05T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-ai-powered-letzchat-and-managed-health-partner-to-revolutionize-language-solutions-in-employee-benefits.md",
-      "title": "AI-Powered LetzChat and Managed Health Partner to Revolutionize Language Solutions in Employee Benefits",
-      "excerpt": "LetzChat, a leading AI-driven language translation company, is excited to announce its strategic partnership with Managed Health, a prominent employee benefits",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfexaminer.com/ap/national/ai-powered-letzchat-and-managed-health-partner-to-revolutionize-language-solutions-in-employee-benefits/article_65af1241-7b7d-5910-adfc-9963d9c0fec0.html",
-      "originalUrl": "https://www.sfexaminer.com/ap/national/ai-powered-letzchat-and-managed-health-partner-to-revolutionize-language-solutions-in-employee-benefits/article_65af1241-7b7d-5910-adfc-9963d9c0fec0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/custom/image/d2e5172a-cfb6-11ec-8535-8fc7aae45ad1.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Francisco Examiner",
-        "domain": "sfexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

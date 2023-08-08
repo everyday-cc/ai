@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Protecting data in the era of generative AI: Nightfall AI launches innovative security platform"
+    excerpt: "Nightfall AI's platform is the first data loss prevention (DLP) platform that scales across the three top threat vectors CISOs need the most help securing when generative AI and ChatGPT are in use across their organizations."
+    publishedDateTime: 2023-08-04T22:03:00Z
+    webUrl: "https://venturebeat.com/security/protecting-data-in-the-era-of-generative-ai-nightfall-ai-launches-innovative-security-platform/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vector_art_of_a_double_helix_spiral_made_of_glowing__0635169d-fcb5-425e-b8b1-27d569da5f8d.png?w=1200&strip=all"
+        width: 858
+        height: 686
+        isCached: true
   - title: "Five things you really need to know about AI"
     excerpt: "Watch the \"Five things you really need to know about AI\" video at BBC Ideas. Explore other related content via our curated \"The Open University\" playlist."
     publishedDateTime: 2023-08-04T09:48:00Z
@@ -68,6 +82,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Sivi AI: Pioneering the Design Revolution With Generative AI"
+    excerpt: "In the fast-paced world of digital marketing and content creation, visuals play a pivotal role in capturing audience attention and conveying brand messages effectively. As the demand for captivating designs grows,"
+    publishedDateTime: 2023-08-07T18:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33607119/sivi-ai-pioneering-the-design-revolution-with-generative-ai"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
   - title: "What can you do when AI lies about you?"
     excerpt: "Sometimes, AI creates and spreads fiction about specific people that threatens their reputations and leaves them with few options for protection or recourse."
     publishedDateTime: 2023-08-07T13:00:00Z

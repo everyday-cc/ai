@@ -141,6 +141,20 @@ related:
       name: The Week
       domain: theweek.in
     quality: 53
+  - title: "Abb And Microsoft Collaborate To Bring Generative Ai To Industrial Applications"
+    excerpt: "ABB is working with Microsoft on the integration of generative AI capabilities into industrial digital solutions for safer,"
+    publishedDateTime: 2023-08-05T03:07:00Z
+    webUrl: "https://menafn.com/1106786821/Abb-And-Microsoft-Collaborate-To-Bring-Generative-Ai-To-Industrial-Applications"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 50
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/04/INS_a3cd3image_story.jpg"
+        width: 768
+        height: 432
+        isCached: true
   - title: "Microsoft says AI-powered Bing Chat will come to more mobile browsers soon, but it’ll be worse"
     excerpt: "Microsoft has revealed that it is planning to launch its AI assistant Bing Chat on third-party mobile browsers \"soon.\""
     publishedDateTime: 2023-08-07T16:37:00Z

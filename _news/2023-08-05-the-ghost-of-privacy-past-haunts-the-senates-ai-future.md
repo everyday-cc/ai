@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/ai-regulation-privacy-us-senate/"
 webUrl: "https://www.wired.com/story/ai-regulation-privacy-us-senate/"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,141 @@ images:
     width: 1280
     height: 670
     isCached: true
+
+related:
+  - title: "The Future Of Programming In A Generative AI World"
+    excerpt: "Generative AI is revolutionizing programming, making coding more accessible and productive, but ethical considerations and human expertise remain crucial."
+    publishedDateTime: 2023-08-07T15:02:00Z
+    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/"
+    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c60efbf4e8ba5b40ade19b/0x0.jpg?format=jpg&width=1200"
+        width: 600
+        height: 420
+        isCached: true
+  - title: "Is Generative AI Stealing From Artists?"
+    excerpt: "Delve into the contentious debate around ownership, credit, and financial compensation for art created by AI tools, exploring artists' rights and IP laws."
+    publishedDateTime: 2023-08-08T06:36:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d1e22b979499b5d765f249/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Artificial Intelligence: Generative AI In Cyber Should Worry Us, Here’s Why"
+    excerpt: "\"As AI becomes more integrated into society, it's important for lawmakers, judges, and other decision-makers to understand the technology and its implications.\""
+    publishedDateTime: 2023-08-04T17:22:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+  - title: "Scale generative AI with new Azure AI infrastructure advancements and availability"
+    excerpt: "We are excited to share a series of announcements that highlight Microsoft Azure’s commitment to driving innovation and empowering businesses with cutting-edge AI solutions.\nThe post Scale generative AI with new Azure AI infrastructure advancements and availability appeared first on Azure Blog.\n"
+    publishedDateTime: 2023-08-07T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 78
+  - title: "Build generative AI applications using Azure and NVIDIA H100 Tensor Core GPUs"
+    excerpt: "Microsoft Azure users can now leverage the latest NVIDIA accelerated computing technology to train, deploy and build generative AI applications. The"
+    publishedDateTime: 2023-08-08T08:37:00Z
+    webUrl: "https://www.geeky-gadgets.com/build-generative-ai-apps-08-08-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 68
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Build-generative-AI-applications.jpg"
+        width: 700
+        height: 461
+        isCached: true
+  - title: "4 ways generative AI makes founders more interesting to journalists"
+    excerpt: "Gutted newsrooms could stymie one of the greatest engines of startup growth. While generative AI will enhance the capabilities of many publications, they’re also creeping onto news sites in ways we can’t foresee while journalists are laid off."
+    publishedDateTime: 2023-08-05T21:29:00Z
+    webUrl: "https://techcrunch.com/2023/08/05/4-ways-generative-ai-makes-founders-more-interesting-to-journalists/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1249090879.jpg?resize=1200,750"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Don’t quit your day job: Generative AI and the end of programming"
+    excerpt: "AI is something to be learned, tested and incorporated into practices so programmers can focus on understanding and solving problems."
+    publishedDateTime: 2023-08-06T17:10:00Z
+    webUrl: "https://venturebeat.com/ai/dont-quit-your-day-job-generative-ai-and-the-end-of-programming/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_the_end_of_programming._colorful_futuristic_tech_3d6db463-375e-4d84-9324-2b045c20313a.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Are VCs seeing a Generative AI bubble?"
+    excerpt: "“It still remains to be seen where the real-world value will be in the generative AI startup space once their novelty is gone,” said Christian Cantrell, former VP, Product at Stability AI, and now founder of a generative AI startup. “It’s easy to do a demo but it’s something else entirely to build a product around it.”"
+    publishedDateTime: 2023-08-05T06:09:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/are-vcs-seeing-generative-ai-bubble/article67158059.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/are-vcs-seeing-generative-ai-bubble/article67158059.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/are-vcs-seeing-generative-ai-bubble/article67158059.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/6haw4t/article67158051.ece/alternates/FREE_1200/2023-07-13T100131Z_1015518115_RC2DT1AJRVZG_RTRMADP_3_SAN-FRANCISCO-AI.JPG"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "MIT Task Force Puts Forth Guidelines for Generative-AI Use in Legal Practice"
+    excerpt: "In response to the growing concerns surrounding the ethical use of artificial intelligence (AI) in the legal profession, law.MIT.edu has formed a Task Force dedicated to developing principles and guidelines for the responsible application of generative-AI in legal work."
+    publishedDateTime: 2023-08-04T09:28:00Z
+    webUrl: "https://www.cryptopolitan.com/mit-guidelines-generative-ai-legal-practice/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 36
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-04_12-48-46.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
+    excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
+    publishedDateTime: 2023-08-08T15:58:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861286.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "y+23QkT1dXDy97zyRvGObruEZHH8mb3K7cJO+6BUEn1TnRRkgMZyMgsiqqi9Az4X0Vh2FV19FxlQ8TaS5gQZNa6mcdNPI+L9O2SRgHLav7m9s9fUR2xOxPt4+lmJVO3qjvifCXOY8JZgJKpDCPf0DNTW+i8/wH/EowWWAdU3KRS3EU16fV8C4PU5g+ZVY+Xh7GYQSHhTZQKGLa2AveNo38kLItUmaZ9gU+jdpelhogZW3Ypbnh2gUX001ZH739amlPScDuphCLWX8SizT6+nV4jjM0FfLLMxOhN6vD8yyaj/yccyOWCOiga6k05bkneE7jQh2bXUSPuB0YTt11+boXz1NJm7FvW0gOM49fZh/Nc=;XtW3E7GMVwwTZZu7fiBwDA=="
 ---

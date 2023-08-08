@@ -20,35 +20,74 @@ topics:
   - AI
 
 related:
-  - title: "Defending Against AI-Based Phishing Attacks"
-    excerpt: "Nefarious phishing operations have rapidly adopted AI tools that can launch devastating business email compromises using social engineering techniques."
-    publishedDateTime: 2023-08-04T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/amp/"
+  - title: "AI is ruining the internet"
+    excerpt: "From way more spam to sneakier scams, AI is going to make even the most basic online tasks more annoying — and unreliable."
+    publishedDateTime: 2023-08-08T10:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/64cbf0930f3dff0019568fce?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Revolutionizing The Future: Unleashing The Power Of AI In An AI-First Cloud Paradigm"
+    excerpt: "To fully harness the potential of AI, a significant transformation of cloud infrastructure is necessary to handle AI workloads."
+    publishedDateTime: 2023-08-07T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63cef5084fcbdd7722766ec0/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd52914684645a13364b30/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 695
+        height: 754
         isCached: true
-  - title: "How Artificial Intelligence (AI) is revolutionizing image editing"
-    excerpt: "AI is revolutionizing image editing by enhancing quality, efficiency, and creativity. It's making professional editing accessible to all through tools like image upscaling, automating complex tasks, and opening new artistic possibilities. AI blends technology and art, shaping the future of digital imaging."
-    publishedDateTime: 2023-08-04T11:07:00Z
-    webUrl: "https://www.artmajeur.com/en/magazine/20-sell-art/how-artificial-intelligence-ai-is-revolutionizing-image-editing/333967"
+  - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
+    excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
+    publishedDateTime: 2023-08-08T11:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pioneering-trucking-industry-learning-with-artificial-intelligence-1032528295"
     type: article
     provider:
-      name: Artmajeur
-      domain: artmajeur.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Fear Of Ai In The West Is Misdirected"
+    excerpt: "The fear of artificial intelligence is largely a Western phenomenon. It is virtually absent in Asia. In contrast, East Asia sees AI as an invaluable"
+    publishedDateTime: 2023-08-07T07:32:00Z
+    webUrl: "https://menafn.com/1106796191/Fear-Of-Ai-In-The-West-Is-Misdirected"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://www.artmajeur.com/medias/hd/j/e/jean-dubreil/blog/digital-designer.jpg"
-        width: 1000
-        height: 500
+      - url: "https://menafn.com/updates/pr/2023-08/07/AT_da0cbimage_story.jpg"
+        width: 1200
+        height: 960
+        isCached: true
+  - title: "AI as the next computing platform"
+    excerpt: "The games industry requires hundreds, if not thousands, of projects every year, so the prospect of radically cutting the time and cost of creative brainstorming and prototyping is, ahem, game-changing. Add to that the increasing ability to use generative AI in software development, and the time from concept to code goes from months to days."
+    publishedDateTime: 2023-08-07T14:00:00Z
+    webUrl: "https://siliconangle.com/2023/08/07/ai-next-computing-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/aibrain-geralt-pixabay.jpeg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "MuHXaufSFFNBRrg+ZxweM8tERoLmdbC9Th1aS9CEvc2UKl4/ii4FDRVMgfKyDohfCBeolhY4gY/b8KrqeGPvhtx5RMdd69iQwPVnekQle9sr+u15+ZXuCdKsDNJOPvKuDJ5tNy/pMJT7N/WO9HP7Hu94I0AKjKvRRjcBbVdbyp7EoOEVRjvuDsgWCnf0xlqb0Dbwwmnbq0dABqfuqpPjTewQHfF6RnHhOM17AMw1CohblbRS/Q3UAjhc2sjK8PMDqfYRCRnj2ps8+iHOeTNFLcBBr/2uo9RyFAjufAViCRet2uiz+6jfq1b54XYeVy6Oh9BaWoWQ0Cviak474Q28YRku8z0EAQAuwtQYZczv9Go=;Cz4ac5lt8V38UWGoSF6EaA=="

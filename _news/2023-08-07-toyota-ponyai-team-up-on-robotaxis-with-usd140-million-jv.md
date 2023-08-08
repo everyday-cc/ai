@@ -67,6 +67,15 @@ related:
         width: 540
         height: 540
         isCached: true
+  - title: "Pony.ai, Toyota to deploy large-scale robotaxi network"
+    excerpt: "In total, Pony.ai has a combined fleet of about 200 Toyota and Lexus brand robotaxis located in all four Chinese Tier-1 cities — Guangzhou, Beijing, Shanghai and Shenzhen — where they are road tested and are the public face of the company’s robotaxi services."
+    publishedDateTime: 2023-08-08T12:54:00Z
+    webUrl: "https://electronics360.globalspec.com/article/20036/pony-ai-toyota-to-deploy-large-scale-robotaxi-network"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 17
 
 secured: "K7HjB9PRqnwDd1XgMr2h800VU6edGbLCAleX0NByXajmMmcl70hPS35AfTLv0xHsp0U++MqMT3HFmaEJ9Ux5UJ2QM9zbHR+CM6/Xv3aG4xMDKcxu66HGHxB9g565D4RnP2yrcMTvmvQTdb+8CFdzIlZ4AukrL/8lEFNn2syrhPMNK2HjiDH1O7lskX1QslRzY3jhY1QPd20/w+Od1xUD2LDzXzW6n45/cSx7+NFb628jocU2dJWsvIuQOIUMgYLWFfCdWsJ662S9DowzLu4HGBhWtf0j/tb7T213qmDipgCg2ZNL+f+bwOu8sMYnwnK+00d0z92p8UKFyBf+aYa1EZPX5Twf2EvnWUwevMwBCnY=;cfsZQXkn/uJvo0slNqwGng=="
 ---

@@ -2,6 +2,533 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2023-06-17-will-artificial-intelligence-help-us-talk-to-animals.md",
+      "title": "Will Artificial Intelligence Help Us Talk to Animals?",
+      "excerpt": "When beluga whales communicate with one another, certain vocalization cues reveal their social structures. When meerkats face an approaching predator, they use a complicated set of alarm calls depending on how close and dangerous it is. And in the skies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.discovermagazine.com/planet-earth/will-artificial-intelligence-help-us-talk-to-animals",
+      "originalUrl": "https://www.discovermagazine.com/planet-earth/will-artificial-intelligence-help-us-talk-to-animals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/cnu0m8re1exe/7KhQBbVfsvsRGVGD2tqXbr/1dfbfdb98623af684d2588302996cf25/Untitled_design_-_2023-06-15T142939.857.png",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-17T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-this-is-the-real-winner-of-the-ai-arms-race-and-it-is-way-cheaper-than-nvidia.md",
+      "title": "This Is the Real Winner of the AI Arms Race, and It Is Way Cheaper Than Nvidia",
+      "excerpt": "ASML is allowing Nvidia to make advanced chips capable of powering AI applications. As AI chip demand increases, ASML's monopoly in the EUV lithography market places it in a solid position to sell ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/17/this-is-the-real-winner-of-the-ai-arms-race-and-it/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/17/this-is-the-real-winner-of-the-ai-arms-race-and-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/736278/artificial-intelligence-ai-on-circuit-board.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-17T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-best-ai-cryptos-to-invest-in-artificial-intelligence.md",
+      "title": "Best AI cryptos to invest in Artificial Intelligence",
+      "excerpt": "Fetch.ai is a man-made intelligence-centered blockchain project that intends to make a decentralized computerized economy driven via independent monetary specialists (AEAs). These AEAs address artificial intelligence specialists equipped for performing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ghanabusinessnews.com/2023/06/17/best-ai-cryptos-to-invest-in-artificial-intelligence/",
+      "originalUrl": "https://www.ghanabusinessnews.com/2023/06/17/best-ai-cryptos-to-invest-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ghanabusinessnews.com/wp-content/uploads/2018/07/bitcoin.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-17T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ghana Business News",
+        "domain": "ghanabusinessnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-automated-machine-learning-automl-market-size-report-2023-2030.md",
+      "title": "Automated Machine Learning (AutoML) Market Size Report, 2023-2030",
+      "excerpt": "Automated Machine Learning (AutoML) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-size-report-2023-2030-2023-06-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-size-report-2023-2030-2023-06-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-17T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button.md",
+      "title": "Groundbreaking AI project translates 5,000-year-old cuneiform at push of a button",
+      "excerpt": "Google Translate'-like program for Akkadian cuneiform will enable tens of thousands of digitized but unread tablets to be translated to English. Accuracy is debatable",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/",
+      "originalUrl": "https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2023/06/Fig-3-e1686488009886-640x400.jpeg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/amp/",
+      "publishedDateTime": "2023-06-16T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-2030-object-recognition-imaging-systems-market-research.md",
+      "title": "2030 | Object Recognition Imaging Systems Market Research",
+      "excerpt": "Jun 16, 2023 (The Expresswire) -- \"Object Recognition Imaging Systems Market\" is segmented into Regions, Applications (Scanning and Imaging, Security",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2030-object-recognition-imaging-systems-market-research-2023-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/2030-object-recognition-imaging-systems-market-research-2023-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-robot-control-system-market-outlook-future-business-scope-2023-2081.md",
+      "title": "Robot Control System Market Outlook| Future business Scope| 2023-2081",
+      "excerpt": "Jun 16, 2023 (The Expresswire) -- 99 Pages Report: Latest Report of Robot Control System Market 2023 The Global \"Robot Control System Market\"research report [2023-2030] is a valuable resource for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robot-control-system-market-outlook-future-business-scope-2023-2081-2023-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/robot-control-system-market-outlook-future-business-scope-2023-2081-2023-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-researchers-build-working-robot-based-on-ais-design.md",
+      "title": "Researchers build working robot based on AI’s design",
+      "excerpt": "Researchers have built an \"actually useful\" working robot based on a design dreamt up by AI. Teams at TU Delft and Swiss technical university EPFL tasked artificial intelligence tool ChatGPT to help with food production.",
+      "sourceUrl": null,
+      "webUrl": "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.html",
+      "originalUrl": "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/c/ab/cab7a7e7-7f99-558b-a9df-e0eaf8ff7d97/648c9899a0027.image.jpg?resize=1024%2C683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.amp.html",
+      "cdnAmpWebUrl": "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.amp.html",
+      "publishedDateTime": "2023-06-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tyler Morning Telegraph",
+        "domain": "tylerpaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-these-are-the-3-biggest-fears-about-ai-do-they-really-stack-up.md",
+      "title": "These are the 3 biggest fears about AI. Do they really stack up?",
+      "excerpt": "Abhishek Gupta, founder of the Montreal AI Ethics Institute, said the prospect of AI-induced job losses was the most \"realistic, immediate, and perhaps pressing\" existential threat. \"We need to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6",
+      "originalUrl": "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/648b0d381cc64b001ae14564?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6?amp",
+      "publishedDateTime": "2023-06-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-why-this-tool-is-reducing-asian-influence-in-ai-generated-art.md",
+      "title": "Why this tool is reducing Asian influence in AI-generated art",
+      "excerpt": "Sasha Luccioni, a Montreal-based AI ethics researcher at the Hugging Face, an AI startup headquartered in New York City, said text-to-image generators tend to reinforce existing societal biases. “",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/asian-america/tool-reducing-asian-influence-ai-generated-art-rcna89086",
+      "originalUrl": "https://www.nbcnews.com/news/asian-america/tool-reducing-asian-influence-ai-generated-art-rcna89086",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230613-style-less-asian-ai-al-1428-25dd68.jpg",
+          "width": 673,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna89086",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna89086",
+      "publishedDateTime": "2023-06-16T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-artificial-intelligence-in-energy-market-future-prospect-and-industry-research-2023-2030.md",
+      "title": "Artificial Intelligence in Energy Market Future Prospect and Industry Research 2023-2030",
+      "excerpt": "Global Artificial Intelligence in Energy Market research report is a compilation of analysis and information gathered from various sources in order to help businesses comprehend the state of the market by types of trends [Hardware,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-future-prospect-and-industry-research-2023-2030-2023-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-future-prospect-and-industry-research-2023-2030-2023-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-artificial-intelligence-supply-chain-market-future-prospect-and-industry-research-2023-2030.md",
       "title": "Artificial Intelligence Supply Chain Market Future Prospect and Industry Research 2023-2030",
       "excerpt": "Artificial Intelligence Supply Chain Market Outlook [2023-2030] Global Artificial Intelligence Supply Chain Market",
@@ -698,496 +1225,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies.md",
-      "title": "Top10 Artificial Intelligence (AI) And Machine Learning (ML) Development Companies",
-      "excerpt": "In this article, we'll look at the key criteria for evaluating AI and ML development organizations. We will discuss the factors that must be considered, such as knowledge, experience, innovation, and others.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399",
-      "originalUrl": "https://www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1686926655.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399/amp",
-      "publishedDateTime": "2023-06-16T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-opinion-the-fifth-beatle-is-artificial-intelligence.md",
-      "title": "Opinion: The fifth Beatle is artificial intelligence",
-      "excerpt": "But now there’s a 21st century contender for the honor: artificial intelligence. Sir Paul McCartney’s revelation to BBC Radio 4’s “Today” program that AI-assisted tinkering with John ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/06/16/opinions/the-beatles-artificial-intelligence-hester/index.html",
-      "originalUrl": "https://www.cnn.com/2023/06/16/opinions/the-beatles-artificial-intelligence-hester/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-empowering-individuals-with-disabilities-through-ai-technology.md",
-      "title": "Empowering Individuals With Disabilities Through AI Technology",
-      "excerpt": "Tyler Weitzman, cofounder, President and Head of AI at Speechify. The WHO estimates that more than 2.5 billion disabled people will need one or more assistive technologies in 2030. Yet almost a billion of them can’t access these products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648b358071553ed0ad9b88a1/0x0.jpg?format=jpg&width=1200",
-          "width": 983,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/amp/",
-      "publishedDateTime": "2023-06-16T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-unicorns-are-hard-to-come-by-unless-youre-an-ai-startup.md",
-      "title": "Unicorns are hard to come by, unless you're an AI startup",
-      "excerpt": "Some of the largest funding rounds include OpenAI's deal with Microsoft Corp. that valued the ChatGPT maker at $28 billion, and Cohere, a generative AI startup founded by ex-Google researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/twincities/inno/stories/news/2023/06/07/generative-ai-unicorn-startups.html",
-      "originalUrl": "https://www.bizjournals.com/twincities/inno/stories/news/2023/06/07/generative-ai-unicorn-startups.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-global-artificial-intelligence-in-accounting-market-latest-trends-and-developments-research-2023-2030.md",
-      "title": "Global Artificial Intelligence in Accounting Market: Latest Trends and Developments Research 2023-2030",
-      "excerpt": "No. of Report Pages: [100] | \"Global Artificial Intelligence in Accounting Market Outlook and Top Companies Growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-accounting-market-latest-trends-and-developments-research-2023-2030-2023-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-accounting-market-latest-trends-and-developments-research-2023-2030-2023-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-moving-ibm-db2-on-cloud-instances-to-mzrs.md",
-      "title": "Moving IBM Db2 on Cloud instances to MZRs",
-      "excerpt": "Moving forward, all IBM DB2 on Cloud instances in Toronto and Sao Paulo must be moved to the multi-zone regions (MZRs).\nThe post Moving IBM Db2 on Cloud instances to MZRs appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/moving-ibm-db2-on-cloud-instances-to-mzrs/",
-      "originalUrl": "https://www.ibm.com/blog/moving-ibm-db2-on-cloud-instances-to-mzrs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T06:08:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-elon-musk-gives-google-a-driving-test.md",
-      "title": "Elon Musk Gives Google a Driving Test",
-      "excerpt": "Waymo didn't immediately respond to a request ... chatbot that has become the face of the progress made by artificial intelligence. \"Three million cars will drive themselves with no one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/elon-musk-gives-google-a-driving-test",
-      "originalUrl": "https://www.thestreet.com/technology/elon-musk-gives-google-a-driving-test",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-hybrid-work-could-save-knowledge-workers-jobs-from-ai.md",
-      "title": "Hybrid Work Could Save Knowledge Workers’ Jobs From AI",
-      "excerpt": "On one hand, the prospect of returning to the office stirs up a cocktail of dread and nostalgia. On the other hand, the threat of AI-driven job elimination looms large.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glebtsipursky/2023/06/16/hybrid-work-could-save-knowledge-workers-jobs-from-ai/",
-      "originalUrl": "https://www.forbes.com/sites/glebtsipursky/2023/06/16/hybrid-work-could-save-knowledge-workers-jobs-from-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648c5dff5d43345be75e44a7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glebtsipursky/2023/06/16/hybrid-work-could-save-knowledge-workers-jobs-from-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/06/16/hybrid-work-could-save-knowledge-workers-jobs-from-ai/amp/",
-      "publishedDateTime": "2023-06-16T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-know-your-real-clients-use-proxy-protocol-on-red-hat-openshift-on-ibm-cloud.md",
-      "title": "Know your real clients: Use PROXY protocol on Red Hat OpenShift on IBM Cloud",
-      "excerpt": "As of 14 June 2023, PROXY protocol is supported for Ingress Controllers in Red Hat OpenShift on IBM Cloud clusters hosted on VPC infrastructure.\nThe post Know your real clients: Use PROXY protocol on Red Hat OpenShift on IBM Cloud appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/know-your-real-clients-use-proxy-protocol-on-red-hat-openshift-on-ibm-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/know-your-real-clients-use-proxy-protocol-on-red-hat-openshift-on-ibm-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T06:03:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-microsofts-stock-rallies-to-record-close-as-more-analysts-see-ai-leadership.md",
-      "title": "Microsoft’s stock rallies to record close as more analysts see AI leadership",
-      "excerpt": "A previous version of this article incorrectly stated Microsoft’s previous closing record price. It has been corrected. Microsoft Corp. shares rallied Thursday for a sixth consecutive day of gains and closed at a record high as investors focused more on the tech giant’s artificial-intelligence roadmap and less on the stalled $69 billion acquisition of videogame publisher Activision Blizzard Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641",
-      "originalUrl": "https://www.marketwatch.com/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-801260/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641",
-      "publishedDateTime": "2023-06-16T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-artificial-intelligence-and-machine-learning-market-overview-2023-to-2030-future-trends-and-forecast-anki-amazon-deepmind.md",
-      "title": "Artificial Intelligence and Machine Learning Market Overview 2023 to 2030, Future Trends and Forecast | Anki, Amazon, Deepmind",
-      "excerpt": "id=847258&mode=SB07 The Key companies profiled in the Artificial Intelligence and Machine Learning Market : The study examines the Artificial Intelligence and Machine Learning Market 's competitive landscape and includes data on Anki, Amazon, Deepmind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-overview-2023-to-2030-future-trends-and-forecast-anki-amazon-deepmind-2023-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-overview-2023-to-2030-future-trends-and-forecast-anki-amazon-deepmind-2023-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI",
         "Machine Learning"
       ]

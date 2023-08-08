@@ -53,7 +53,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -93,7 +93,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -105,7 +106,7 @@
       "originalUrl": "https://windsor.ctvnews.ca/national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation-1.6509188",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -137,51 +138,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why.md",
-      "title": "Artificial Intelligence: Generative AI In Cyber Should Worry Us, Here’s Why",
-      "excerpt": "\"As AI becomes more integrated into society, it's important for lawmakers, judges, and other decision-makers to understand the technology and its implications.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/",
-      "publishedDateTime": "2023-08-04T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     },
     {
@@ -226,50 +182,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-hyundai-motor-group-announces-partnership-with-canadas-tenstorrent-ai-chip-company.md",
-      "title": "Hyundai Motor Group Announces Partnership with Canada’s Tenstorrent AI Chip Company",
-      "excerpt": "Hyundai Motor revealed it joined forces with a Canadian AI chip manufacturing startup, Tenstorrent. The South Korean automaker said it has invested in the Toronto-based artificial intelligence semiconductor company so",
-      "sourceUrl": null,
-      "webUrl": "https://www.econotimes.com/Hyundai-Motor-Group-Announces-Partnership-with-Canadas-Tenstorrent-AI-Chip-Company-1660584",
-      "originalUrl": "https://www.econotimes.com/Hyundai-Motor-Group-Announces-Partnership-with-Canadas-Tenstorrent-AI-Chip-Company-1660584",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://f1.econotimes.com/2023/08/gqscobi7ey_th_1024x0.jpeg",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EconoTimes",
-        "domain": "econotimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1227,6 +1139,50 @@
       ]
     },
     {
+      "path": "_news/2023-07-29-google-deepmind-enables-robots-to-perform-novel-tasks.md",
+      "title": "Google DeepMind enables robots to perform novel tasks",
+      "excerpt": "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic and visual understanding beyond the robotic data it was exposed to.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83854,msid-102228824/google-deepmind-enables-robots-to-perform-novel-tasks.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms",
+      "publishedDateTime": "2023-07-29T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics-allbi-is-on-board.md",
       "title": "Perfect software with perfect hardware! Blockchain, artificial intelligence, robotics - ALLBI is on board",
       "excerpt": "ALLBI is a consumer-oriented cryptocurrency project launched in the U.K. by LEX PARTNERS LTD, which focuses on environmental care, clean",
@@ -1415,6 +1371,49 @@
         "AI",
         "Google AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-is-indian-agriculture-ready-for-robotics-and-ai.md",
+      "title": "Is Indian agriculture ready for robotics and AI?",
+      "excerpt": "Does India need a national level institute for agricultural robotics and artificial intelligence? The Parliamentary Standing Committee on Agriculture, an all-party Parliamentary mechanism tasked ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2018/12/Tractor-770x433.jpg",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html/amp",
+      "publishedDateTime": "2023-07-27T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

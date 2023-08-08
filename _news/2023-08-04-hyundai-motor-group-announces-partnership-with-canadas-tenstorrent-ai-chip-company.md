@@ -7,8 +7,8 @@ originalUrl: "https://www.econotimes.com/Hyundai-Motor-Group-Announces-Partnersh
 webUrl: "https://www.econotimes.com/Hyundai-Motor-Group-Announces-Partnership-with-Canadas-Tenstorrent-AI-Chip-Company-1660584"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: EconoTimes
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung, Hyundai, Kia back AI chip manufacturer Tenstorrent in $100-million USD round"
-    excerpt: "Tenstorrent, which builds computers meant to train and run AI models, has closed a $100-million funding round as it looks to advance product development in a time of accelerated AI adoption."
-    publishedDateTime: 2023-08-03T20:00:00Z
-    webUrl: "https://betakit.com/samsung-hyundai-kia-back-ai-chip-manufacturer-tenstorrent-in-100-million-usd-round/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 47
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2023/08/Tenstorrent-and-Samsung.jpg"
-        width: 1050
-        height: 700
-        isCached: true
   - title: "RISC-V AI Startup Tenstorrent Gets Another $100M Infusion From Samsung And Hyundai"
     excerpt: "Jim Keller is a man who should need no introduction to an audience of tech nerds. He was part of the team that developed the legendary DEC Alpha"
     publishedDateTime: 2023-08-04T21:55:00Z

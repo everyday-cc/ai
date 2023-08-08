@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-08-goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest.md",
+      "title": "Goldman Sees $1.5 Trillion Flowing To AI. Here’s Where To Invest",
+      "excerpt": "Innovations in electricity and personal computers unleashed investment booms of as much as 2% of U.S. GDP as the technologies were adopted into the broader economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d1177d31bc40f18165f247/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/amp/",
+      "publishedDateTime": "2023-08-08T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-opinion-this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai.md",
       "title": "Opinion: This is what tech companies, from Amazon to Apple, just told investors about AI",
       "excerpt": "That set up sky-high expectations for companies that are embedding AI-related technology across their product suites as well as chip companies that are selling to them. The second quarter, therefore, became a litmus test. Here’s a breakdown of AI’s ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -399,50 +451,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-hyundai-motor-group-announces-partnership-with-canadas-tenstorrent-ai-chip-company.md",
-      "title": "Hyundai Motor Group Announces Partnership with Canada’s Tenstorrent AI Chip Company",
-      "excerpt": "Hyundai Motor revealed it joined forces with a Canadian AI chip manufacturing startup, Tenstorrent. The South Korean automaker said it has invested in the Toronto-based artificial intelligence semiconductor company so",
-      "sourceUrl": null,
-      "webUrl": "https://www.econotimes.com/Hyundai-Motor-Group-Announces-Partnership-with-Canadas-Tenstorrent-AI-Chip-Company-1660584",
-      "originalUrl": "https://www.econotimes.com/Hyundai-Motor-Group-Announces-Partnership-with-Canadas-Tenstorrent-AI-Chip-Company-1660584",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://f1.econotimes.com/2023/08/gqscobi7ey_th_1024x0.jpeg",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EconoTimes",
-        "domain": "econotimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {

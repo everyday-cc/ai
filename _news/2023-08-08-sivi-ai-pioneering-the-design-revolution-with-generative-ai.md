@@ -19,60 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Enhancing AWS intelligent document processing with generative AI"
-    excerpt: "Data classification, extraction, and analysis can be challenging for organizations that deal with volumes of documents. Traditional document processing solutions are manual, expensive, error prone, and difficult to scale. AWS intelligent document processing (IDP), with AI services such as Amazon Textract,"
-    publishedDateTime: 2023-08-03T21:03:51Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intelligent-document-processing-with-generative-ai/"
+  - title: "Age of AI: Everything you need to know about artificial intelligence"
+    excerpt: "Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very recently has blossomed thanks to powerful new computing resources. AI has enabled ..."
+    publishedDateTime: 2023-08-04T21:14:00Z
+    webUrl: "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
+    ampWebUrl: "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 104
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/How-to-get-started.png"
-        width: 936
-        height: 420
-        isCached: true
-  - title: "The Future Of Programming In A Generative AI World"
-    excerpt: "Generative AI is revolutionizing programming, making coding more accessible and productive, but ethical considerations and human expertise remain crucial."
-    publishedDateTime: 2023-08-07T15:02:00Z
-    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/"
-    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c60efbf4e8ba5b40ade19b/0x0.jpg?format=jpg&width=1200"
-        width: 600
-        height: 420
-        isCached: true
-  - title: "Scale generative AI with new Azure AI infrastructure advancements and availability"
-    excerpt: "We are excited to share a series of announcements that highlight Microsoft Azure’s commitment to driving innovation and empowering businesses with cutting-edge AI solutions.\nThe post Scale generative AI with new Azure AI infrastructure advancements and availability appeared first on Azure Blog.\n"
-    publishedDateTime: 2023-08-07T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 78
-  - title: "AWS to support Korean startups with Generative AI Accelerator"
-    excerpt: "Amazon Web Services (AWS) will help Korean AI startups grow with its Generative AI Accelerator, a program that combines powerful AI tools with business, technical mentors and experts, the global-leading cloud computing service provider said Tuesday."
-    publishedDateTime: 2023-08-08T06:52:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 74
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202308/01fe39d3e3a946b0bdd3a186fae09566.jpg"
-        width: 980
-        height: 598
+      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Protecting data in the era of generative AI: Nightfall AI launches innovative security platform"
     excerpt: "Nightfall AI's platform is the first data loss prevention (DLP) platform that scales across the three top threat vectors CISOs need the most help securing when generative AI and ChatGPT are in use across their organizations."
@@ -88,95 +49,52 @@ related:
         width: 858
         height: 686
         isCached: true
-  - title: "AWS Turbocharges Foundation Models With Smart AI Agents"
-    excerpt: "Goodson discusses AWS's recently announced AI capability that adds key functionality to its foundation models."
+  - title: "Getting The Most Out Of AI: Businesses Need Skilled Prompt Engineers"
+    excerpt: "The success of the prompt engineer will rely on the ability to bridge the natural language we use every day with domain-agnostic and formal language."
     publishedDateTime: 2023-08-04T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/08/04/aws-turbocharges-foundation-models-with-smart-ai-agents/"
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/getting-the-most-out-of-ai-businesses-need-skilled-prompt-engineers/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 66
-  - title: "Abb And Microsoft Collaborate To Bring Generative Ai To Industrial Applications"
-    excerpt: "ABB is working with Microsoft on the integration of generative AI capabilities into industrial digital solutions for safer,"
-    publishedDateTime: 2023-08-05T03:07:00Z
-    webUrl: "https://menafn.com/1106786821/Abb-And-Microsoft-Collaborate-To-Bring-Generative-Ai-To-Industrial-Applications"
+    quality: 51
+  - title: "Five things you really need to know about AI"
+    excerpt: "Watch the \"Five things you really need to know about AI\" video at BBC Ideas. Explore other related content via our curated \"The Open University\" playlist."
+    publishedDateTime: 2023-08-04T09:48:00Z
+    webUrl: "https://www.bbc.co.uk/ideas/videos/five-things-you-really-need-to-know-about-ai/p0g43t7c?playlist=made-in-partnership-with-the-open-university&autoplay=true"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 50
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
     images:
-      - url: "https://menafn.com/updates/pr/2023-08/04/INS_a3cd3image_story.jpg"
-        width: 768
-        height: 432
+      - url: "https://ichef.bbci.co.uk/images/ic/960x540/p0g4t28f.png"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
-    excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
-    publishedDateTime: 2023-08-08T11:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pioneering-trucking-industry-learning-with-artificial-intelligence-1032528295"
+  - title: "Age of Generative AI: Ai Palette aiming to optimise food innovation and boost product launches"
+    excerpt: "Singapore-based tech firm Ai Palette has developed a new tool called FoodGPT, which harnesses the power of generative AI and natural language processing to elevate data-backed innovations and increase the success rate of product launches."
+    publishedDateTime: 2023-08-07T03:28:00Z
+    webUrl: "https://www.foodnavigator-asia.com/Article/2023/08/07/ai-palette-aiming-to-optimise-food-innovation-and-boost-product-launches-via-generative-ai"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Using Generative AI To Connect Lab To Fab Test"
-    excerpt: "Executive Insight: Thomas Benjamin, CTO at National Instruments, sat down with Semiconductor Engineering to discuss a new way of look at test, using data as a starting point and generative AI as bridge between different capabilities."
-    publishedDateTime: 2023-08-08T07:05:00Z
-    webUrl: "https://semiengineering.com/using-generative-ai-to-connect-lab-to-fab-test/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 41
+      name: FoodNavigator-Asia
+      domain: foodnavigator-asia.com
+    quality: 27
     images:
-      - url: "https://semiengineering.com/wp-content/uploads/wafer-AdobeStock_472655944.jpeg?fit=1200%2C825&ssl=1"
-        width: 1200
-        height: 825
+      - url: "https://www.foodnavigator-asia.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-asia.com/headlines/markets/ai-palette-aiming-to-optimise-food-innovation-and-boost-product-launches-via-generative-ai/16608294-1-eng-GB/Ai-Palette-aiming-to-optimise-food-innovation-and-boost-product-launches-via-generative-AI.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Cyient sets up CoE to power engineering with Generative AI"
-    excerpt: "Cyient & Microsoft partner to set up CoE EnGeneer to drive engineering innovation using Generative AI. CoE to integrate new Generative AI capabilities into existing solutions, CyFast & CyArc. OpenAI & Generative AI technologies to be used across all Cyient platform solutions."
-    publishedDateTime: 2023-08-08T04:18:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece/amp/"
+  - title: "What can you do when AI lies about you?"
+    excerpt: "Sometimes, AI creates and spreads fiction about specific people that threatens their reputations and leaves them with few options for protection or recourse."
+    publishedDateTime: 2023-08-07T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/what-can-you-do-when-ai-lies-about-you/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
-  - title: "Efficiently grow with predictive artificial intelligence engagement modeling"
-    excerpt: "In an industry first, Alkami is now leveraging artificial intelligence (AI) predictive modeling to help financial institutions identify highly engaged"
-    publishedDateTime: 2023-08-03T21:01:00Z
-    webUrl: "https://www.cuinsight.com/efficiently-grow-with-predictive-artificial-intelligence-engagement-modeling/"
-    type: article
-    provider:
-      name: CUInsight
-      domain: cuinsight.com
-    quality: 34
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2023/06/bigstock-Ai-Smart-Manufacturing-And-Hit-470991649.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Dell announces generative AI solutions"
-    excerpt: "The company is offering a range of generative AI solutions across its hardware, software, and services offerings."
-    publishedDateTime: 2023-08-07T12:34:00Z
-    webUrl: "https://www.networkworld.com/article/3704209/dell-announces-generative-ai-solutions.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 19
-  - title: "As Gen AI Explodes, Will Legal Tech Companies Get More Aggressive Protecting Company Secrets?"
-    excerpt: "Some legal tech organizations are rethinking their employment contractions in the face of the competition fueled by generative AI. Still, experts told Legaltech News they expect to see more litigation around employment contracts going forward."
-    publishedDateTime: 2023-08-03T19:56:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/03/as-gen-ai-explodes-will-legal-tech-companies-get-more-aggressive-protecting-company-secrets/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 6
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "cx0bHpXXMQxDsFTDH4c9olXUIEfwt60kJgvRDf9QvDs8hUwS3Owb8YjN8tGlDy9nXnNYXAHS1EYLcotJjnJH5qgYc5U26gKPUOfQiroqPAFmYe5ztgYcFomMHtXVfKFkZDWVbUwIBIKpFcHY/ng7pCvGprT7eqlAHUH3TOZzIbfivZJimJYqS99ZYzeuBCAlQIyoyKuw8SS1h7WbuiSyqMFDRWXZsHmwJrGgeqW6AJnS6lAKFNBOevJwamiGD41TSUE/o7+gNhkXOuvRZEYPrCaCMvZcG0m9p62BH918oG/0TTaYrdNnmFgpeC58mTzSqNo9Ylb5zJuW4LbOBOz0WEqHytyab5fDd+RFxNz/Jvc=;/+3vVuQHCyrubHLZM+pktQ=="
 ---

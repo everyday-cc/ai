@@ -138,6 +138,20 @@ related:
       name: The Week
       domain: theweek.in
     quality: 53
+  - title: "Abb And Microsoft Collaborate To Bring Generative Ai To Industrial Applications"
+    excerpt: "ABB is working with Microsoft on the integration of generative AI capabilities into industrial digital solutions for safer,"
+    publishedDateTime: 2023-08-05T03:07:00Z
+    webUrl: "https://menafn.com/1106786821/Abb-And-Microsoft-Collaborate-To-Bring-Generative-Ai-To-Industrial-Applications"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 50
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/04/INS_a3cd3image_story.jpg"
+        width: 768
+        height: 432
+        isCached: true
   - title: "Microsoft says AI-powered Bing Chat will come to more mobile browsers soon, but it’ll be worse"
     excerpt: "Microsoft has revealed that it is planning to launch its AI assistant Bing Chat on third-party mobile browsers \"soon.\""
     publishedDateTime: 2023-08-07T16:37:00Z
@@ -171,6 +185,6 @@ related:
       domain: inferse.com
     quality: 31
 
-secured: "tLksCLRNcFN6QGeA+hHTQEZfX1JZ2kII5VMAKk3B+kBpoWlWaPFUhyNtc2meQ2QZuvPCtn22ewQqYXPX1jb1Wr6hBdIyyDxDMhPf/YMByUWEFeQVzoDW5YTq7C5Azq1K8xl42RNR4XkcZFmGteL11teKPYGHKeWOmvx3fAgutABy+ZRRzfMpbzUTl7H8VVHTCL3Kw31dL4AX5bP4BAv1tR9W00XlakXFKPLGdsX3k2tuJderO2ldKhQem411tTCsaai62S4sAos7RTsYjTmfe25PFSsH270OqlIErZ0BkwDm+dw/oRMzO2Hi293wx4pEd0Oe0DLymQty+/TGDrLY+vk5F1uTE8edF4ekBRox1ws=;LA1le3LBOj370213RATi4Q=="
+secured: "FKS7N7VeFUmYMfjna7FW5PV0ExFD5FA1nyKoUtEHNhHJjX5/QjW95ymDWEm8QMzg374SwbPbf3UQGYTsXWf1pFvtcpRRCtV6/l0JOFU02IMOkI7jOEKXcZjcUYG5TEU7LPTwxpjvyuQJIR4QWoXFeWCbkiQhedZ1099/pxKPM7TbJuSCaUaejbmam9TUQ9a58+stYQb+uJM/w+fuBoiQ1gOFQE+rvyrGvVGOgjDh50Y1QPqTK+LIPN+aakKJVym1V5JmWBRYIA3lkVijq7ryjUkYYShRNXCIbOcWQZiTcGZ0qfIFu+NZPLPM+GiFjbd2Tw7GUbn7I4/NSpEO0QekH8bGN4wJjFw4IIV57mg51OjmFkwT9xXEZjnznAPsAQX5lpZldLphrv/7pf/sbYqJSibZBEM32W6ELs/NN7DRhc0IdIwpELMdf9PKhfLGchrJmuIz7cOP8fYTLea1AJ9lKeDvM/ThuFAIHojDj0OlDEtKj3oJQcO6eCHi7h0Swfmp3ama7zhJHrjvMBi/DWuN0Q==;Hu6Kjub+YHQaGMzdrV1mLg=="
 ---
 

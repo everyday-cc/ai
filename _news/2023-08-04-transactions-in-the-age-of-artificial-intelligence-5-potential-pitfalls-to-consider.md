@@ -55,6 +55,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 17
+  - title: "Dungeons & Dragons franchise bans artists from using AI to draw characters, scenery"
+    excerpt: "An artist for Dungeon & Dragon was caught using artificial intelligence to create commissioned artwork. The franchise informed artists they aren't allowed to use AI."
+    publishedDateTime: 2023-08-07T13:26:00Z
+    webUrl: "https://www.foxbusiness.com/entertainment/dungeons-dragons-franchise-bans-artists-using-ai-draw-characters-scenery"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 11
 
 secured: "B4IrykAl0uNBgMvXJo2u+gGSB5NotR9Zrg3RrS5nSYH0L+A+YycWcf/ONbXwUnIq+Jg9lNNbbHVLT/Ukxb2+xBIJSVSTVQk2LBCBG2eY1hrP5mSlLo6yTiph+OcMnMImKtILbS5+//7z7r1Elxnjx0ZZC2p0IMIaaPXXwNMZnB7gK2+RAvyAnAnDV0egrK0LCLwOYb6s1/Om26+/sYHq+kSNBZeMC9xeI/GYyAKEez8Pwq9LKDM3427XNTJbb3eUvafC/MmfRE47dOcijLBVu6PNfUQRqlWNXbjKh1YV0xJ4rL0wAM3LVzPLyxH9ac1k68gJitk0y4ks0IFAyySZ3Pi+y+EQhuqQLQ+GlLAAPhk=;e9ORLBe6alhe6rrw0AWl3g=="
 ---

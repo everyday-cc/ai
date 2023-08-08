@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-c
 ampWebUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 141
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/64cbf0930f3dff0019568fce?width=1200&format=jpeg"
@@ -47,6 +48,15 @@ related:
         width: 1200
         height: 754
         isCached: true
+  - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
+    excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
+    publishedDateTime: 2023-08-08T11:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pioneering-trucking-industry-learning-with-artificial-intelligence-1032528295"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Fear Of Ai In The West Is Misdirected"
     excerpt: "The fear of artificial intelligence is largely a Western phenomenon. It is virtually absent in Asia. In contrast, East Asia sees AI as an invaluable"
     publishedDateTime: 2023-08-07T07:32:00Z
@@ -75,7 +85,18 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Bringing Artificial Intelligence into the classroom"
+    excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
+    publishedDateTime: 2023-08-08T02:40:00Z
+    webUrl: "https://www.fox13news.com/video/1260378"
+    ampWebUrl: "https://www.fox13news.com/video/1260378.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1260378.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 37
 
-secured: "tCCJOaAyxUSJgIN3NvmVCOTsriAzGp+yllSfsObpZo2CHY8PbsO+JiOlC9jfO67OVFInxgfoSX19Cr9GXhuJqKB5EZk/e/i8Y2odnawzFlrG4slc63B5HcawU5Jhj50udcEkGOD0MXe6mxu5aYKPghmZFgezIJGGcoOQeKzeKK/bv+0Y1YKbOTUt6LUlDo6+wHzvbMCJ+Nn7Fpys49QMxzHEsI9LZHrYiGT2xe3yvlhV0zJVuem/4gjiFUF1S9gAL0j6DZsVpNlRqOcOv+/RYMlv/2uywp8s74kWj8hrnx3go5e7yVNKuxceGPbQPSpFREVbHM7SMjGqjDWYEHZ8SKn7rX1wVt9Zm0zI+Z1Mwt8=;1A7hT56NJ5UCVqpDWazv7g=="
+secured: "/45SWMd4FMm+Ye3HKg6Nh/fOzdQ46bDcGkvqcrtoOSmjhgLhrEPYIruyiU8kug0kyOuENTpNlDWtdUfFIl4f9nyFySxV3H28F3VcDxmQu9YJIpBdFyBiKRZm32yLmuaXJoYGdG5ECUFlThsth3G3WjB9eDqerxFnKECMDnoRiaBi523eXWarnmR7W8DIZNMOzFasbh7hmSlwE/cZ3o9QX6dcnyRKAYx+Z/W5yO71Ctbz1wjbbFB+DATtXLK78E/+m3ZywAKE1iHSx6Ehf19OGVH8CBJDJmfxPOtDcF6e3Om/hsi6PNTRgdytj1xxmDNesHNdPxsoUuqHgqzAGm38wfy63OnY6i3ZsH4yl+NumORRHrcn7G9lIy102MknneZY3xMoeecfG3xQhGD2Wqb7a9rblkyQEbQhBvuoH4ruJBML0xULUD+dlUJI8Yfdko4Hk7HCjcCGJQ4yKWYgfrDgUyxbzN/gwBq8swO8ASWueQyYKdrrvCdUhVIm/M+obZqQ4/1fZ+XXdXWQF6hi6EDIrA==;9DrYK4uyUJ7GSY66ivhefQ=="
 ---
 

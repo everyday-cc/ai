@@ -2,49 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2023-03-28-ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk.md",
-      "title": "AI Prediction Tool Identifies Chemotherapy Drug Toxicity Risk",
-      "excerpt": "To further improve and refine prediction, the researchers incorporated artificial intelligence (AI ... This may enable more personalization of cancer therapy and minimize toxicity for patients. If leveraged in the clinical setting, a risk-scoring tool ...",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
-      "originalUrl": "https://healthitanalytics.com/news/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/GettyImages-852404126-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
-      "publishedDateTime": "2023-03-27T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-27-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-a-detailed-analysis-till-2028.md",
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2023-A Detailed Analysis till 2028",
       "excerpt": "Mar 27, 2023 (The Expresswire) -- The report features the size of the global \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market” in 2023, along with a detailed profile of the key players. These players include [3M (Minnesota ...",

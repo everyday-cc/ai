@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox26houston.com/news/self-driving-taxi-service-coming-t
 cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -88,6 +88,15 @@ related:
     provider:
       name: Tennessean
       domain: tennessean.com
+    quality: 4
+  - title: "Self-driving car company Cruise to test in Atlanta"
+    excerpt: "Cruise is bringing its autonomous vehicles to Atlanta. But, the cars will have drivers for now. The San Francisco-based company, which operates a robotaxi service in other cities, said Monday it will begin testing its self-driving cars in Atlanta."
+    publishedDateTime: 2023-08-08T11:49:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2023/08/08/autonomous-car-cruise-general-motors-test.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 4
 
 secured: "h11BHu3XbYsrA4XCDtCZlostXBE6s3YjyMK6tmnX0klk7w5s26V5qOiXjeo4B4O+kCebgoclWwPvn3um4ptPpohmZYv8ovETHlBwi++bpiAQdEgLuhSv+NMjPsQsKTNV3YiIK64K6x+Ctz3/S6GZmZ1b65RPDoSmacQ6nDhTthoh+xu52ZHv4lvN2el9mdGEBbGHu4TKQdH16rWkfYUgksl09/QrA5wgxE2poQwDf1cxSZIiUhuHIOsdgquDlTIPGEbXbaBBIPyqTx1WuCMhvYaNbfU/EDNGrUR3KifRhGdZyHttuLM8J61rcvys68zCXGUB8Xggy368bBJYE1akd/xJfoc6k7SCmfu5BxTdT7O+S0ecbWVhyVgZcnZ0hfMh1rfM0NCjwRDG1ApB7HP/pxTdGSX4CTpEo0mXTkf1DyejNpWu7IzzcP9Ga1QOKXVHHwcALubiGFY4TrhBvWkmCs11o0HnklFnALdcrzMyXTY9kWS6iQ7cppc6MH2c7y11MIrEkHXKlRRi+NGammBgOA==;frCKuS42JnF5PA92L4O/Bg=="

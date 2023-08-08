@@ -88,6 +88,15 @@ related:
       name: Tennessean
       domain: tennessean.com
     quality: 4
+  - title: "Self-driving car company Cruise to test in Atlanta"
+    excerpt: "Cruise is bringing its autonomous vehicles to Atlanta. But, the cars will have drivers for now. The San Francisco-based company, which operates a robotaxi service in other cities, said Monday it will begin testing its self-driving cars in Atlanta."
+    publishedDateTime: 2023-08-08T11:49:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2023/08/08/autonomous-car-cruise-general-motors-test.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "BZ1cWFgqoBOiFFBlAdDjLDLpSNOuO2qPbeI2HM9U5pWC6xe2aubyK1Y2TqjUBiQUt3r3u5ytZZ8xkCeLO4tntFtJTSEgoTCaDt1PTsQwnhqDERVWcr5x3sMddtjYMja4mwIpr3o7XYgaLXTZvY0YjMhD3DMgUbbzQL8sEDPjTad45e9WjyHr+cf55F1WVVw5wLcCwxrmMlzpo98RY/jdmBwr1SpDeVtsPJxLwhW0IuO7qFzHDkjfARM4D9uMn/Hpk2ceMe0EpSpj/IHxyFTRyhNLVvbQfqLThx2/fzigIdr4cpeXIJkWUa9S7Nh7FANltxK6qPcc/h24LJMCLza9Py0h6Y4pTi/iYYvFamklawSkXAbk4A+VBTxtAwm80vkp4T5qCYAs+t3dPWdzbzi4UWkOp37EA8Hk/DNLMLG7gwSMopAyV34ztHouGifXPH3T9VlDQ7fb0Wa0grUc7F7NYQD/Lu3Mr741ZTp0hzGr2MhUIrBpVbjWlJ+ZkoYSrvdfxvVSw0ZNG/ImXQ8iGTxDvA==;Yvz0DOyDK7JldGT4G+JK3g=="
 ---

@@ -56,15 +56,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "OPINION: From principles to laws: Consumer protection can galvanize AI regulation"
-    excerpt: "In recent years, numerous principles, handbooks, codes, and guides have been released on how governments and organizations can tackle widespread AI risks. An online resource from AI Ethicists has an impressive list of more than 70 AI principles from governmental,"
-    publishedDateTime: 2023-08-03T19:20:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/opinion-principles-laws-consumer-protection-can-galvanize-ai-regulation-2023-08-03/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 44
   - title: "Artificial intelligence could replace doctors. It's time to prepare. (Opinion)"
     excerpt: "In the past few weeks, much has been written about the uses of artificial intelligence and its potential to take the place not only of factory workers but also of highly specialized professionals, such as lawyers and engineers."
     publishedDateTime: 2023-08-04T23:56:00Z

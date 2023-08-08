@@ -7,8 +7,8 @@ originalUrl: "https://www.technologyrecord.com/article/ansys-launches-ansysgpt-v
 webUrl: "https://www.technologyrecord.com/article/ansys-launches-ansysgpt-virtual-assistant-developed-on-microsofts-azure-openai-service"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: technologyrecord.com
@@ -23,6 +23,22 @@ images:
     width: 975
     height: 548
     isCached: true
+
+related:
+  - title: "Microsoft Azure expands availability of OpenAI GPT-4 and GPT-35-Turbo models to more regions"
+    excerpt: "Microsoft's Azure AI infrastructure has made an expansion, offering OpenAI's GPT-4 and GPT-35-Turbo models in various global regions. The service now covers"
+    publishedDateTime: 2023-08-08T15:37:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-azure-expands-availability-of-openai-gpt-4-and-gpt-35-turbo-models-to-more-regions/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 58
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Microsoft-Adds-Dynamic-JSON-To-Azure-Core-Library-For-.NET_.png"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "5Lqqq1HUyYfJlRod1nptZv9dUjrnNNLOvCOVRjp7xPHehdDK4t0R/12f8LnIDDb2fhpv+PRuS/ajsdczeGi6havACUy0cT/ery3q7QYcLTdgsF0K+H27V+JHef+rJcLmKbWaXqbMdu6dpGlmrGp+qhaYEn+WQdNkU8SjFI8BKJrcWnc4NHpCSHrokKGEDqXc2GiTBsecLragTEGQbCl7v6liFSCYNp86ZOIbdCc6Pf0l2wVn1g26+kr8OFS7obKgzH7uLykiFtHrHyKEYx+kKqCsTd2uT78jhhNY56YwiPAKpno3HCDMF2c2uTGeIjzvaruBhpxi4F8zI1KKzN1Hb+Uvy4Mn9BsDyTa1wNWoq3NqNI+WW37n8vNMacOf41SKP77nfY9q03ZqyGYK2OoTin1XNgR9STRomHHb/fKL9am0TvXLsxroSAoOlHxuWVVUW5gGMCgsQ9cOeAhya2jPiCYMKeks8Ot2YS7IU7rUZEHW3JBrtx47ow/NDeZXFdiDDeX9H6Ak8YeD75vOm0++qA==;4klPGrgd5sS/UTxy3MYnBQ=="
 ---

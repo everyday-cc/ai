@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-25-use-generative-ai-foundation-models-in-vpc-mode-with-no-internet-connectivity-using-amazon-sagemaker-jumpstart.md",
+      "title": "Use generative AI foundation models in VPC mode with no internet connectivity using Amazon SageMaker JumpStart",
+      "excerpt": "With recent advancements in generative AI, there are lot of discussions happening on how to use generative AI across different industries to solve specific business problems. Generative AI is a type of AI that can create new content and ideas, including conversations, stories, images, videos, and music.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-foundation-models-in-vpc-mode-with-no-internet-connectivity-using-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-foundation-models-in-vpc-mode-with-no-internet-connectivity-using-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/22/14480-sol-arch-1080x630.jpg",
+          "width": 1080,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T09:29:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-how-patsnap-used-gpt-2-inference-on-amazon-sagemaker-with-low-latency-and-cost.md",
       "title": "How Patsnap used GPT-2 inference on Amazon SageMaker with low latency and cost",
       "excerpt": "This blog post was co-authored, and includes an introduction, by Zilong Bai, senior natural language processing engineer at Patsnap. You’re likely familiar with the autocomplete suggestion feature when you search for something on Google or Amazon. Although the search terms in these scenarios are pretty",
@@ -1323,49 +1375,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-07-10T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-when-is-amazon-prime-day-2023.md",
-      "title": "When is Amazon Prime Day 2023?",
-      "excerpt": "Get ready -- Amazon Prime Day 2023 starts tomorrow and runs through Wednesday, July 12. Prime Day is one of Amazon's biggest shopping events of the year. During the deals event, you can save lots ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/when-is-amazon-prime-day-2023-07-10/",
-      "originalUrl": "https://www.cbsnews.com/essentials/when-is-amazon-prime-day-2023-07-10/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/15/4d62ad11-c038-4164-a302-3620da8408c5/thumbnail/1200x630/ca85d42901cedf8740a328fc8730a1da/gettyimages-1157884537-amazon-prime-day-2023.jpg?v=8be0a296491a12ce38351fd824e37a16",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/when-is-amazon-prime-day-2023-07-10/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/when-is-amazon-prime-day-2023-07-10/",
-      "publishedDateTime": "2023-07-10T05:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBS News",

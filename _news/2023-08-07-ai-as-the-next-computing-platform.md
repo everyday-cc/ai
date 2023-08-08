@@ -34,7 +34,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://i.insider.com/64cbf0930f3dff0019568fce?width=1200&format=jpeg"
         width: 1200
@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 754
         isCached: true
+  - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
+    excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
+    publishedDateTime: 2023-08-08T11:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pioneering-trucking-industry-learning-with-artificial-intelligence-1032528295"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Fear Of Ai In The West Is Misdirected"
     excerpt: "The fear of artificial intelligence is largely a Western phenomenon. It is virtually absent in Asia. In contrast, East Asia sees AI as an invaluable"
     publishedDateTime: 2023-08-07T07:32:00Z
@@ -70,6 +79,17 @@ related:
         width: 1200
         height: 960
         isCached: true
+  - title: "Bringing Artificial Intelligence into the classroom"
+    excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
+    publishedDateTime: 2023-08-08T02:40:00Z
+    webUrl: "https://www.fox13news.com/video/1260378"
+    ampWebUrl: "https://www.fox13news.com/video/1260378.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1260378.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 37
 
 secured: "XqX1Qb3E23YGou9HWneCUZJYBglIXPCV9BGJdrEPXDn7fSm7CG+AdrieBJh6zoGwylEIAhuhFvwNhJ1LbMYGkbXxq4Tnq8fSFm1gPH3Vv+fsPQm5n2eWTN9C1zdxpDM4efw9z/MjSx4FhMyCkrP9/vGtVdFI6Zztn5eZ4biFUbcDYx4n8eXyyqoCFAgkBuPDoqevKGcQPVjEWqWvfebt8AqDN58+dhKw4Fx4F49pAzcPQ6Q0Es5qwUbl8Ky27UTZjIZ/Gqc3W4QcazgTWekgi1hU6Rk8U6UbDJ+nQhYiiKUf3RO10XP71RhvDxReILhhNc9mg8CfNV5sVQsG7x2e5/lXvg6B0Ze3PgP0xZoc5II=;9xZT4WK6sSKspN+rpK8/iw=="
 ---

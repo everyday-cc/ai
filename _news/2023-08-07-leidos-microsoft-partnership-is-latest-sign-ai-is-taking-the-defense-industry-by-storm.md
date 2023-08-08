@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microso
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/amp/"
 type: article
 quality: 96
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2023/08/Microsofts-Bing-AI-is-coming-to-mobile-browsers.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Microsoft’s Azure OpenAI Service is now available in new regions"
+    excerpt: "Microsoft has expanded its Azure OpenAI Service to provide more businesses around the world with generative artificial intelligence capabilities through models such as GPT-4 and GPT-35-Turbo. The new live regions are in Australia East,"
+    publishedDateTime: 2023-08-08T14:39:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsofts-azure-openai-service-is-now-available-in-new-regions"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 69
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4531/AzureOpenAI.jpg"
+        width: 975
+        height: 548
         isCached: true
 
 secured: "UD+aJgbkYwS4FrLOUYoAPdyvVdAmDlNhFIbKjbROPcEODHLv5ZAJUEh661g/XAalgpgJCiMXVwz7jxwsXAQb6lay7RB1YjhXgTA6/W59nDjW0MxF7H9Ps376+llhT66szdtGHgAAB1iov4+YftIUG45sB2bqi/olpzDRryWcXfh19Wm8nS+I6FNjb3npnzgTl6BUItrqho4C2xEhWdynmsLtwVXoON+ceafg/xknK0M5U7xpWUFuE3NtpZ/FtpvWi8YL3nM30rlTx9Vxs4dV60qZ+qTpC5K7L9Q8gK7TrgX1tqHtMJLNztA1U4YW4VTcKYUSbmsDvAU4ldaVs5QMQDaeJ7b1ViUO2/zNDj9+U9W1anfLmynvuRYELBUreaWw7rqYLLEvJpDCN1vF0ThLw156c1iMMG7IKjtfOHsA3tMSdGe1/EK8DfaNiT09Y8nys9oYr6gB288Axz4cXvVrddWLISTxDXQpSzBWqEOmJcK/QPX5Th+ZEm0RZsqrUe2CH8EAlAtHJluydcc8vbBMSw==;RVQBh47VzbUFgwxnfLV8dw=="

@@ -34,20 +34,15 @@ related:
         width: 1070
         height: 580
         isCached: true
-  - title: "Hyro Report Reveals Deep-Rooted Issues Affecting Healthcare Call Center Performance, Generative AI Poised to Transform Sector"
-    excerpt: "Hyro, a leader in conversational artificial intelligence (AI) for healthcare, today announced the publication of a new report,"
-    publishedDateTime: 2023-08-03T21:27:00Z
-    webUrl: "https://www.datanami.com/this-just-in/hyro-report-reveals-deep-rooted-issues-affecting-healthcare-call-center-performance-generative-ai-poised-to-transform-sector/"
+  - title: "Why people are still key to tech transformation"
+    excerpt: "Although transformation is inevitable, it needs to be anchored by the people tasked with achieving progression and change."
+    publishedDateTime: 2023-08-08T12:40:00Z
+    webUrl: "https://venturebeat.com/programming-development/why-people-are-still-key-to-tech-transformation/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 27
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 34
 
 secured: "+xEI4gu3EHlxPJiopZNXZQzwY3tZFXtpnpu6MpCrEoCCohuHE1OFbU7Tkz9TJHeC6XLEtly6Z821BMg7MTe7j9AoZLAqrftOeFxYZsgz/DO/1lC/s2RTTEWLEA/UVgkqHjJ+LDx6JUJpDPmwCQcUBQ/bz6FiBMld79inSX3NMwLGNkZXjXgJXt6AUnIjq7vdvUrh0GjYdQHgd4+7l+oWP2BtzBQK5Vwqk0IY7f6rU4vhXiwNYzFtppwmajuP1CFpZmlU+98aF17/WW/Yx1qysLvo9Yqg4urtJyEMM5z2FKxzHsgnSHqNlMoaouYoIZxaWLqRxyy6lFvmhrI3J3WPceQLD1EwYuSmEKE0jdKxzD0=;4KyopR/1UcHi/K8TsBebhQ=="
 ---

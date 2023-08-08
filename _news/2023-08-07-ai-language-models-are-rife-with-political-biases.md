@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/08/07/1077324/ai-language-mode
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "The Download: political AI models, and a wrongful arrest"
+    excerpt: "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI language models are rife with different political biases The news: AI language models contain different political biases,"
+    publishedDateTime: 2023-08-08T12:08:00Z
+    webUrl: "https://www.technologyreview.com/2023/08/08/1077471/the-download-political-ai-wrongful-arrest/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "if2Lv393mNzcOyrLU7QhOBvcliWxIIPeoUa5bPVETgIKZwoR4/ooAtG2sOzRm+vnC8U5ZM0WfUFs4hgkWaIw7LTBXL1xNP7R/66tJhcaSL3hHYuzMuMLHXnop3ZVi3CfIOcVmO4UoF4bIu7SoNKNyWZCnj00nA1P5qIjJXv75nT8fHnmW0zTEvy3TrbEukOS06zh/UIlPW0p1XYRsOrj/ugNAxPO2jUjL12kX6KbAVDq2G7PHgonxHk6imlztkbB205Kinr4cTMpl3qcC6/SkyM2h5A5A1yZovVayRI+h1h8H/7VMHuhh9BR669Rtyse1Aqi+btncQOJ+E3G7Kf24by+GtWyBnhATEaTsdtW1Y20GrKyphJwULmIjIPr+H/4iT65QdptzntokrkKjRkUdbgFlkwgfXLVj8b56zYIX8vgqUzfAkLSUoS/OeIgv6XosxjGI5fBM/wmYY1TklIH/ZNJGooib5JPs8mfgmup428RcZuzk8jpiHGATGs5/CfCSIBm5KHA6i0WoWSveWnJjA==;lenE+G74ilV+WTfY6ZRGDQ=="
 ---

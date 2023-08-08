@@ -50,6 +50,15 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 17
+  - title: "The future of medicine: Physicians need new skills to use ai in clinical decision making"
+    excerpt: "As artificial intelligence systems like ChatGPT find their way into everyday use, physicians will start to see these tools incorporated into their clinical practice to help them make important decisions on diagnosis and treatment of common medical conditions."
+    publishedDateTime: 2023-08-08T12:08:00Z
+    webUrl: "https://www.news-medical.net/news/20230808/The-future-of-medicine-Physicians-need-new-skills-to-use-ai-in-clinical-decision-making.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 10
 
 secured: "+I8j2QIpXkLEJ1FtVuZOFdqJ5/LUPQKvKjq18RwcQiaHbGITylQDYIuV80yitrCsFUwz+EuMsIW2iq/1VJamoOAsoqh2AVfXvP45koziG7Rv8vWpyEmV3JNWDa34aIKD+JpQyPffwEx1Sq/XzcZpIWIFX2cF5Nn93YVwbPerN6kVdguYj5e7wHRQGH7Yo7Bs1roV7k4lN8e9R8FwiUKZOu+ONB9WUustgmF7dO3BjKGkvPyAavDyA1l8fQMMHqclyrrYD51aig3mqy0FdtHfpxNJDfMmpbqFm6ZCTQrIVmnStcEduo+7GsIcphyrI71qXsC0mDgDCKwlUGmoiL8jnV491F636pM94OzgyMHGXQo=;VFwq2lONXuO31OU0W1pIww=="
 ---

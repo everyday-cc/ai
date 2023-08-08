@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-data-prepar
 webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler/"
 type: article
 quality: 102
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Host the Spark UI on Amazon SageMaker Studio"
+    excerpt: "Amazon SageMaker offers several ways to run distributed data processing jobs with Apache Spark, a popular distributed computing framework for big data processing. You can run Spark applications interactively from Amazon SageMaker Studio by connecting SageMaker Studio notebooks and AWS Glue Interactive"
+    publishedDateTime: 2023-08-08T14:56:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-the-spark-ui-on-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/08/host-spark-ui-sagemaker-1260x627.jpg"
+        width: 1260
+        height: 627
+        isCached: true
   - title: "Use the Amazon SageMaker and Salesforce Data Cloud integration to power your Salesforce apps with AI/ML"
     excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. This is the second post in a series discussing the integration of Salesforce Data Cloud and Amazon SageMaker. In Part 1, we show how the Salesforce Data Cloud and Einstein Studio integration with SageMaker allows businesses"
     publishedDateTime: 2023-08-04T13:28:06Z
@@ -47,6 +61,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 84
+  - title: "Deploy thousands of model ensembles with Amazon SageMaker multi-model endpoints on GPU to minimize your hosting costs"
+    excerpt: "Artificial intelligence (AI) adoption is accelerating across industries and use cases. Recent scientific breakthroughs in deep learning (DL), large language models (LLMs), and generative AI is allowing customers to use advanced state-of-the-art solutions with almost human-like performance. These complex"
+    publishedDateTime: 2023-08-08T14:50:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-thousands-of-model-ensembles-with-amazon-sagemaker-multi-model-endpoints-on-gpu-to-minimize-your-hosting-costs/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/08/deploy-thousands-of-models-1248x630.jpg"
+        width: 1248
+        height: 630
+        isCached: true
 
 secured: "gBv/L/N6Dded2oxvhQc+e23UJ8FrOfnWi8tImwfzl9AYFOCD1SE8hdDQ/JQQI2LJH71VZrq3pVXmEQQV8a5srnDojJjlSo/RqoOM8iyh2+4ZmBTlTDAKzD/IzhcaAX4ufwBl6rIfi0GjjO63c2DKjey7IUf875ZTIrmnJ4nlg6RY1VttN3TGcuO1GM9ufrERETKPUwy8wSW9Hz5BqJsrG6t3IR1VJ+SoWXcakhlJg+6lIWFv2rHzMooZB+to3QEhXg/ovlK5MeuaLOexPYVJ/Qwo2E5e6SYVqD2CdglW8qIdYdmjUEAk4IP+ivJJixW6bT/OVsCI2S+gcXfchK6n99CsRIpl+AAOa9mN88Ure8g=;4DF6ZgmAFhwZTV+nTkgO5Q=="
 ---

@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-07-28-is-indian-agriculture-ready-for-robotics-and-ai.md",
-      "title": "Is Indian agriculture ready for robotics and AI?",
-      "excerpt": "Does India need a national level institute for agricultural robotics and artificial intelligence? The Parliamentary Standing Committee on Agriculture, an all-party Parliamentary mechanism tasked ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html",
-      "originalUrl": "https://www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2018/12/Tractor-770x433.jpg",
-          "width": 770,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html/amp",
-      "publishedDateTime": "2023-07-27T21:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-28-how-to-invest-in-artificial-intelligence.md",
       "title": "How to Invest in Artificial Intelligence",
       "excerpt": "Here are some of the best AI ETFs to consider: Global X Robotics & Artificial Intelligence ETF (BOTZ): This fund invests in companies that are likely to benefit from the growth in robotics and AI ...",
@@ -216,6 +173,49 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-how-traders-are-seeking-bullish-opportunities-in-a-hype-clouded-ai-and-robotics-market.md",
+      "title": "How Traders Are Seeking Bullish Opportunities in a Hype-Clouded AI and Robotics Market",
+      "excerpt": "NEW YORK, NY / ACCESSWIRE / July 27, 2023 / Tech stocks are enjoying a strong rally driven partly by advances in artificial intelligence, robotics, and automation. But such a robust rally in an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/ac33420021/how-traders-are-seeking-bullish-opportunities-in-a-hype-clouded-ai-and-robotics-market",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/ac33420021/how-traders-are-seeking-bullish-opportunities-in-a-hype-clouded-ai-and-robotics-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33420021",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33420021",
+      "publishedDateTime": "2023-07-27T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {

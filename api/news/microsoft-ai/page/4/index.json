@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-05-ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learning-series.md",
+      "title": "AI for business leaders: Discover AI advantages in this Microsoft AI learning series",
+      "excerpt": "As a leader in all things AI, Microsoft has spearheaded a curriculum created especially for you and your colleagues to help you build the knowledge, insights, and skills needed to make the most of AI technologies. Transform Your Business with Microsoft AI is designed to bridge the gap between AI technology",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learn-series/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learn-series/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Picture5.jpg",
+          "width": 900,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-04-us-looks-to-cut-china-cloud-access-to-aws-azure-and-more.md",
       "title": "US looks to cut China cloud access to AWS, Azure and more",
       "excerpt": "The US and China have imposed various sanctions and rules to limit the supply of computing elements in an effort to prevent the other from getting access to potentially more powerful capabilities.",
@@ -1363,58 +1415,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-snowflake-expands-microsoft-partnership-to-bring-generative-ai-to-its-data-cloud.md",
-      "title": "Snowflake expands Microsoft partnership to bring generative AI to its data cloud",
-      "excerpt": "and leverage integrations with Azure OpenAI and Microsoft Cognitive Services.” Also read: Snowflake’s stock advances toward best winning streak in 19 months The cloud-based data-management ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/snowflake-expands-microsoft-partnership-to-bring-generative-ai-to-its-data-cloud-39a582a1",
-      "originalUrl": "https://www.marketwatch.com/story/snowflake-expands-microsoft-partnership-to-bring-generative-ai-to-its-data-cloud-39a582a1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-572807/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/snowflake-expands-microsoft-partnership-to-bring-generative-ai-to-its-data-cloud-39a582a1",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/snowflake-expands-microsoft-partnership-to-bring-generative-ai-to-its-data-cloud-39a582a1",
-      "publishedDateTime": "2023-06-27T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

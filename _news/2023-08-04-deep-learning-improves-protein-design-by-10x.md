@@ -39,15 +39,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Deep learning for new protein design"
-    excerpt: "Coventry is the co-author of a study published May 2023 in the journal Nature Communications. In it, his team used deep learning methods to augment existing energy-based physical models in \"de novo\" (from scratch) computational protein design, resulting in ..."
-    publishedDateTime: 2023-08-03T19:57:00Z
-    webUrl: "https://phys.org/news/2023-08-deep-protein.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "rV8MboYG6HpktO6DuCvEudmyUCTD0uTYy/eS5DC5+tn7DTbElKHR83p4DAkdHTBrwkOVFYtURE2KvFCXBPTr/ihOyzQi4CfP4KHwBhijsTpNmKF9uOnVDBBXZx02MQEG192cmmciAn1L5grIrB9Xqy5DVJ33aLAs/bZWvjt1aBFXKwOvrQ/iCcq9WjfGESzC3aHJRLEb+jPa7DVnoB1WWj1alq7tNOnhLaZB7QeUrCtEgL+FfTmCDzHrUGyEnqbQfLgXIKLvpFhnaMIby5Df5wO0z2cMBn39A1xzubhYPfB7pRijsFEFc95lXFH+gYqSWNM86RcCLBWkXHsPEU0rqI+Ddy7QUuX8qWliS3QpckQ=;VZ3HD1tdvZZh2afnUYS2pA=="
 ---

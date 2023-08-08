@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/will-ai-au
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/08/will-ai-augment-or-replace-workers/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,7 +45,16 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The impact of artificial intelligence on the work force"
+    excerpt: "Artificial intelligence is already having an impact on the labor force, and several indicators show more drastic changes could be ahead."
+    publishedDateTime: 2023-08-08T12:53:00Z
+    webUrl: "https://www.wpsdlocal6.com/news/the-impact-of-artificial-intelligence-on-the-work-force/article_a151fa34-35ea-11ee-8234-5377c4fa0f61.html"
+    type: article
+    provider:
+      name: WPSD Local 6
+      domain: wpsdlocal6.com
+    quality: 19
 
-secured: "Bf98HeDoTC1PSdDWBv0krRn3YUChthsQ7aj9dLyBUepwPwPVU9KO/qrb7PAGwGRjJgsvxR35lpdULYiVLGzuTUPl2/sEw65KqmnO1mhRE0popURG4w7s6jIINOQtyptZQOetlgYX0XhDlWKtvrGceR+xEMc+iTiu4Jut/uRBw2icRzx2QCQD9tGjHKSsB/OWu8P5OEHmVM8XhgVqZQnwlgXPLM+eCr4g9DfZ51hEaUb/xXVszhu2K6CvomLBLZsA7XRl3QMtG2y1IqM7imqV/Cz8rMmyyOM/WbkAlhGrj3L3dHRM33XiN6JCbdu2MXEBbipBTWNOfWczG0tVcFDtWvwM8nxoiTp/4XwF6ieiNSw=;ZFL6m58cqSngrlDa/hDU0Q=="
+secured: "ClusJ8+MM/9gXEY1O4X3NZO8dpHRGmxi9aec0au+Nv4VpuFQpxiEQQyglxiZZjLkQywVIl8iQ5jIpGKmP6JHbekTigi/K1EXbkod4dqftaczjXvAM1TP1goRuBlHECBS2cd54lWMEVR59CnYdOmKxUdA/GTuiEAWK8oph2jGDRxbAahL/2caIPOFz+0BcvuImnN7nrvZSwDaOGLkSr0MglAgSgP+gqcL31PW71tw53vtCszJ8W5N9pB/AeHiRLc5Qa6t118ieJkb3Zvsh9I76IdXgB01EaxKXfqVhnhiV5qRQhyd432Tes1li4EBKWF0bB+Ed8Q177X2rai7PM/qh3kVYZUfkPM7c8HrBVuYjxMFG707ogvIVhp5t9jZmi47/DT4zrwzeIuFgAbv0t9ncKetY8vaN6fpVo9vP5HkTbWLZYfPAWVJ4qrGPwuCpaIjGqnF4Ir0Iz3buMzZBXnvO87FWTSI9aA0qiYu+628HjenWxndfGGXIdwTSNVfjev3t6n5twM65EpPqwDw4CX27g==;Molk5R+Y8dWhWtgSEYO7/g=="
 ---
 

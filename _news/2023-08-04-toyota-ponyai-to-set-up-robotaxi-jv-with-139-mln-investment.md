@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/toyota-chinas-ponyai-set-up-jv-
 webUrl: "https://www.reuters.com/technology/toyota-chinas-ponyai-set-up-jv-with-139-mln-investment-2023-08-04/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
         width: 540
         height: 540
         isCached: true
+  - title: "Pony.ai, Toyota to deploy large-scale robotaxi network"
+    excerpt: "In total, Pony.ai has a combined fleet of about 200 Toyota and Lexus brand robotaxis located in all four Chinese Tier-1 cities — Guangzhou, Beijing, Shanghai and Shenzhen — where they are road tested and are the public face of the company’s robotaxi services."
+    publishedDateTime: 2023-08-08T12:54:00Z
+    webUrl: "https://electronics360.globalspec.com/article/20036/pony-ai-toyota-to-deploy-large-scale-robotaxi-network"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 17
 
 secured: "XfQOX6ieuqlPlqjwI+DXTjCWX2pOgrTeENnWPaKM/bCQqNf7LDA4JhDB1+tTfR2dSFqENhOUE1ABFB8um0fhanvT3MNST5ZDafeILQ4MLklSqnjGLeohnq3BdX8cyfASrhEMBs3SbGTz1Ao08ywua5AZ82I6ovAVOKi90oEIkiFisu/MYP4HH+ViPgdFsZNDiBoRLIBl7bh88YXR7LEwcEzFQ299bY3zjrxHycUy0s53tRBS/egCGxSz+CD9uYnX4CuQT/bYdrt7DYKXhxPVPUhahhkZ/yhpGgx/jtz6iVAMWOOndquNRSo1nOuSisAGIijruhB4BLtOK6reQ+hLDm/XS3KIZWoDz1BHKTHgCycjXfw/ZL8jCmDDb+pcj0z3JmuWYqo9UNQ3XTVcGPwoOLfjqJgjYFBFifwwoqBAmaMvyYAdJlmKZDnd5im4ZGS6os+vtkPEnOvuo7UBD2SAwH7k/U3+cuy16Z8a/T9Adjvw5n5hFsRowjY6gCP6TWYg4ULQB2DRQaHNatKFgiHpqQ==;/p7S7+N8PyghsE5YWaWjIQ=="
 ---

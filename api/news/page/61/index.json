@@ -2,6 +2,531 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2023-06-28-the-vatican-releases-its-own-ai-ethics-handbook.md",
+      "title": "The Vatican Releases Its Own AI Ethics Handbook",
+      "excerpt": "The Vatican is getting in on the AI craze. The Holy See has released a handbook on the ethics of artificial intelligence as defined by the Pope. The guidelines are the result of a partnership between Francis and Santa Clara University’s Markkula Centre for Applied Ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/",
+      "originalUrl": "https://www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/06/28/e3364c892e40304167feed0f80c8de71.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/amp/",
+      "publishedDateTime": "2023-06-28T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-nvidia-leads-premarket-slump-in-chipmaker-sharesas-white-house-reportedly-mulls-fresh-curbs-on-ai-chips.md",
+      "title": "Nvidia Leads Premarket Slump In Chipmaker Shares—As White House Reportedly Mulls Fresh Curbs On AI Chips",
+      "excerpt": "The Biden administration is planning to expand its curbs on the export of AI chips to China and other nations, the Wall Street Journal reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/",
+      "originalUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649c0fafd13ced24caec5d4f/0x0.jpg?format=jpg&crop=3000,1688,x0,y178,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/amp/",
+      "publishedDateTime": "2023-06-28T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-how-to-prepare-for-the-financial-and-environmental-costs-of-ai.md",
+      "title": "How To Prepare For The Financial And Environmental Costs Of AI",
+      "excerpt": "Companies and financial institutions should be thinking about how to build a technology infrastructure capable of supporting increasingly powerful AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649adede9c80aa9106126502/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/amp/",
+      "publishedDateTime": "2023-06-28T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5.md",
+      "title": "Here's the Only AI Stock on the Market With a Dividend Yield of 5%",
+      "excerpt": "In 2011, IBM Watson made headlines by beating Jeopardy! champions Ken Jennings and Brad Rutter. IBM continues to invest heavily in AI development today. The company recently announced several new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/28/heres-the-only-ai-stock-on-the-market-with-a-divid/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/28/heres-the-only-ai-stock-on-the-market-with-a-divid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/737427/artificial-intelligence-investing-algorithms.jpg",
+          "width": 8660,
+          "height": 5773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-ai-makers-must-create-new-laws-of-robotics-california-focus.md",
+      "title": "A.I. makers must create new laws of robotics | California Focus",
+      "excerpt": "Not long ago, the artificial intelligence (A.I.) bot ChatGPT as a “courtesy ... set of major laws governing intelligent robots. In his 1942 short story “Runaround,” Asimov first put forward these three laws, which would become staples in his ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/",
+      "originalUrl": "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicoer.com/wp-content/uploads/2018/05/chico-site-icon-1.png",
+          "width": 450,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/amp/",
+      "cdnAmpWebUrl": "https://www-chicoer-com.cdn.ampproject.org/c/s/www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/amp/",
+      "publishedDateTime": "2023-06-28T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chico Enterprise-Record",
+        "domain": "chicoer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-barred-from-grocery-stores-by-facial-recognition.md",
+      "title": "Barred From Grocery Stores by Facial Recognition",
+      "excerpt": "A facial recognition system alerts Simon Mackenzie, a QD Stores security guard near London, when someone on a shoplifting watchlist has entered.Credit...Suzie Howell for The New York Times Supported by By Adam Satariano and Kashmir Hill Adam Satariano ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html",
+      "originalUrl": "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/22/multimedia/00facewatch-top-fqlv/00facewatch-top-fqlv-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-new-wef-research-identifies-revolutionary-healthcare-ai-applications.md",
+      "title": "New WEF research identifies revolutionary healthcare AI applications",
+      "excerpt": "World Economic Forum report released today highlights the transformative potential of artificial intelligence (AI) in healthcare and the importance of public-private collaboration in driving its global adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications",
+      "originalUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_06_2023_08_02_07_2980727.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp",
+      "publishedDateTime": "2023-06-28T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.md",
+      "title": "Chinese A.I. stocks fall as U.S. reportedly weighs curbs on chip exports",
+      "excerpt": "China's AI stocks fell Wednesday after The Wall Street Journal reported that the U.S. is planning to impose more chip restrictions",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107263783-1687930209478-gettyimages-1258367086-TAIWAN_NVIDIA.jpeg?v=1687936055",
+          "width": 4000,
+          "height": 2486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html",
+      "publishedDateTime": "2023-06-27T22:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific.md",
+      "title": "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific",
+      "excerpt": "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/",
+      "originalUrl": "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/image-1-Xc2yRM.jpeg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer.md",
+      "title": "Doctors tout use of artificial intelligence to detect breast cancer",
+      "excerpt": "NEW YORK-- It's a second set of eyes that could make the difference between life and death. Artificial intelligence is now being used to spot the earliest signs of breast cancer, improving outcomes. \"I think artificial intelligence has the ability to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
+      "originalUrl": "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/28/f3930e0c-b427-4756-a33f-4337d802d80d/thumbnail/1200x630/5ebeefed9c8b7814e764532f5325cf1b/artificial-intelligence-for-breast-cancer.jpg?v=da961fb78efc3933073ecc68b1f3f72b",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
+      "publishedDateTime": "2023-06-27T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-ftx-holds-off-on-selling-its-stake-in-ai-startup-anthropic.md",
+      "title": "FTX Holds Off On Selling Its Stake In AI Startup Anthropic",
+      "excerpt": "In an unexpected turn of events, FTX has paused the sale of its stake in Anthropic, according to a report from Bloomberg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649ba1efdd88261a09c5393e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/amp/",
+      "publishedDateTime": "2023-06-27T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-voice-recognition-leaked-trump-tape-contradicts-denials-on-sharing-iran-war-plan.md",
       "title": "Voice recognition: Leaked Trump tape contradicts denials on sharing Iran war plan",
       "excerpt": "There’s nothing stronger than the power of a person’s voice. And few have a more recognizable one than Donald Trump. The media have gone into high-decibel mode over an audio recording ...",
@@ -644,452 +1169,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-4-vcs-illustrate-why-theres-good-reason-to-be-optimistic-about-the-machine-learning-startup-market.md",
-      "title": "4 VCs illustrate why there’s good reason to be optimistic about the machine learning startup market",
-      "excerpt": "When you talk about investments in artificial intelligence startups versus machine learning startups, it’s important to distinguish “AI” from “machine learning.” Those phrases are often ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/27/machine-learning-startup-investor-survey/",
-      "originalUrl": "https://techcrunch.com/2023/06/27/machine-learning-startup-investor-survey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/machine-learning-survey.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-925m.md",
-      "title": "Loora, a generative AI app that uses an audio interface to help users learn English, raises $9.25M",
-      "excerpt": "Unlike many of the generative AI apps that are text-based -- you write prompts for ChatGPT, Midjourney, etc. -- Loora is completely focused on audio.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/27/loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-9-25m/",
-      "originalUrl": "https://techcrunch.com/2023/06/27/loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-9-25m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Screenshot-2023-06-27-at-12.17.40-PM.png?resize=1200,754",
-          "width": 1200,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/27/loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-9-25m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-9-25m/amp/",
-      "publishedDateTime": "2023-06-27T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-snowflake-snow-partners-with-microsoft-for-ai-integrations.md",
-      "title": "Snowflake (SNOW) Partners With Microsoft for AI Integrations",
-      "excerpt": "With this strategic expansion, Snowflake aims to focus on new product integrations with Azure ML, Azure OpenAI and Microsoft Cognitive Services. It intends to create seamless experiences for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/snowflake-snow-partners-with-microsoft-for-ai-integrations",
-      "originalUrl": "https://www.nasdaq.com/articles/snowflake-snow-partners-with-microsoft-for-ai-integrations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services.md",
-      "title": "Kumo empowers deep learning in Snowflake Data Cloud through Snowpark Container Services",
-      "excerpt": "The new integration will run Kumo AI services directly on the Snowflake Data Cloud through Snowpark Container Services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services/",
-      "originalUrl": "https://venturebeat.com/ai/kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-amazons-no-1-bestselling-robot-vacuum-is-50-off-right-now-ahead-of-prime-day.md",
-      "title": "Amazon's No. 1 bestselling robot vacuum is 50% off right now ahead of Prime Day",
-      "excerpt": "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/amazon-bestselling-robot-vacuum-50-off/",
-      "originalUrl": "https://www.cbsnews.com/essentials/amazon-bestselling-robot-vacuum-50-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/09/19/0b30a2d2-eff5-4f74-b6b1-f9953aa856ba/thumbnail/1200x630/52a2a2dc2c0203710e88b48284990a04/shark-robot-vacuum-rv912s-self-empty-base.jpg?v=532947bbe7449b367b963713a282edbc",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/amazon-bestselling-robot-vacuum-50-off/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-bestselling-robot-vacuum-50-off/",
-      "publishedDateTime": "2023-06-27T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-artificial-intelligence-now-being-used-in-grandparent-scam-what-you-need-to-know.md",
-      "title": "Artificial intelligence now being used in Grandparent Scam. What you need to know",
-      "excerpt": "If it wasn’t bad enough that scammers target grandparents, trying to pull on their heartstrings with a panicked call from a \"grandchild\" in trouble, now artificial intelligence is involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-aws-announces-general-availability-of-aws-appfabric-to-enhance-leading-saas-applications-for-improved-productivity-and-security.md",
-      "title": "AWS Announces General Availability of AWS AppFabric to Enhance Leading SaaS Applications for Improved Productivity and Security",
-      "excerpt": "(NASDAQ: AMZN), today announced AWS AppFabric, a no-code service that enhances companies' existing investment in software as a service (SaaS) applications with improved security, management, and productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/27/9840130.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/27/9840130.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-deepmind-and-google-gemini-ai-will-surpass-chatgpt.md",
-      "title": "Deepmind and Google Gemini AI Will Surpass ChatGPT",
-      "excerpt": "DeepMind’s Gemini is a large language model that works with text and is similar to GPT-4, which powers ChatGPT. Deepmin CEO Demi Hassabis says his team will combine LLM with AlphaGO reinforcement learning. Gemini will still take months to complete and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2023/06/deepmind-and-google-gemini-ai-will-surpass-chatgpt.html",
-      "originalUrl": "https://www.nextbigfuture.com/2023/06/deepmind-and-google-gemini-ai-will-surpass-chatgpt.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/06/Screen-Shot-2023-06-27-at-11.17.23-AM-1024x624.jpg",
-          "width": 1024,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-snowflake-unveils-new-large-language-model-to-extract-deeper-insights-from-documents-while-continuing-to-advance-platform-speed-and-performance.md",
-      "title": "Snowflake Unveils New Large Language Model to Extract Deeper Insights from Documents, While Continuing to Advance Platform Speed and Performance",
-      "excerpt": "Snowflake (NYSE: SNOW), the Data Cloud company, today announced at its annual user conference, Snowflake Summit 2023, new advancements to its single, unified platform that make it easier for organizations to get value from all of their data,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/27/9840070.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/27/9840070.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-ai-is-unlocking-major-wealth-potential-for-robotics-stocks.md",
-      "title": "AI Is Unlocking Major Wealth Potential for Robotics Stocks",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Looking for the best AI stocks to buy to potentially make a small fortune over",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-is-unlocking-major-wealth-potential-for-robotics-stocks-1032413268",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-is-unlocking-major-wealth-potential-for-robotics-stocks-1032413268",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-rapid7-expands-relationship-with-aws-to-include-insightidr-support-for-aws-appfabric.md",
-      "title": "Rapid7 Expands Relationship with AWS To Include InsightIDR Support for AWS AppFabric",
-      "excerpt": "Rapid7, Inc. (NASDAQ: RPD), a leader in cloud risk and threat detection, today announced that InsightIDR integrates with AWS AppFabric, announced today by",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentuckytoday.com/news/business/rapid7-expands-relationship-with-aws-to-include-insightidr-support-for-aws-appfabric/article_ff59834e-bfc1-5c75-bc9e-bda484a3fb46.html",
-      "originalUrl": "https://www.kentuckytoday.com/news/business/rapid7-expands-relationship-with-aws-to-include-insightidr-support-for-aws-appfabric/article_ff59834e-bfc1-5c75-bc9e-bda484a3fb46.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kentucky Today",
-        "domain": "kentuckytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

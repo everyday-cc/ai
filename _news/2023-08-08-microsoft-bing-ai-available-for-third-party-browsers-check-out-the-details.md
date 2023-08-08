@@ -43,6 +43,20 @@ related:
         width: 1054
         height: 720
         isCached: true
+  - title: "Microsoft’s Azure OpenAI Service is now available in new regions"
+    excerpt: "Microsoft has expanded its Azure OpenAI Service to provide more businesses around the world with generative artificial intelligence capabilities through models such as GPT-4 and GPT-35-Turbo. The new live regions are in Australia East,"
+    publishedDateTime: 2023-08-08T14:39:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsofts-azure-openai-service-is-now-available-in-new-regions"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 69
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4531/AzureOpenAI.jpg"
+        width: 975
+        height: 548
+        isCached: true
 
 secured: "eYH9PtXZV4zqkxnpFFvjGbhDVs0tD8Y8+1lEhRH8VRBh532WddLl8pKvABsuUNEr2nzrX8Yu9LI9859JajfnmtH7B5x1/ddi14gXoM0CZtNJPof8gTaTbOxu2x2MgkSRqbxuw8radgtGfKoi58PV2jO7rfFKmwuRqgGvBbb46SZ77XBb6reB41J5NPtgxjMMhTuWWaSG8A94yUpAlHd/wcg4mUVG956cdbISjQCngYxI8JChsEO2fRQLOyi0kuAmuQlM7YkKljuF98PD9pPNBhMziJQcbGB7w/HNZV+8FgFs5A4WGRGD6eO4UJSziRAKoP6Xrl73JTWKYhPtJL7WYKLDk697Q70burf30iH27LU=;aWiUt0GUL62tdHiFN7u5og=="
 ---

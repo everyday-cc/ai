@@ -193,6 +193,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Mom Sues Detroit After Facial Recognition Software Leads to Wrongful Arrest While Pregnant"
+    excerpt: "She spent the day sitting in jail on a concrete bench where she experienced stress-related contractions and was later diagnosed with dehydration."
+    publishedDateTime: 2023-08-08T14:50:00Z
+    webUrl: "https://ijr.com/mom-sues-detroit-facial-recognition-software-leads-wrongful-arrest-pregnant/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 29
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2022/06/GettyImages-1290950900.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "Detroit police in deep water after arresting pregnant black woman due to facial recognition error"
     excerpt: "Detroit police in deep water after arresting pregnant black woman due to facial recognition error - SiliconANGLE"
     publishedDateTime: 2023-08-08T02:45:00Z
@@ -296,6 +310,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2023/08/07/02/74026263-0-image-a-3_1691370347907.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "‘I Was Scared’: Detroit Woman Wrongly Arrested While 8 Months Pregnant for Carjacking, Robbery Due to Botched Facial Recognition Technology"
+    excerpt: "A 32-year-old Detroit, Michigan, woman is taking legal action against the city after she was falsely accused of carjacking and robbery due to a facial"
+    publishedDateTime: 2023-08-08T14:44:00Z
+    webUrl: "https://atlantablackstar.com/2023/08/08/detroit-woman-wrongly-arrested-pregnant-for-carjacking/"
+    type: article
+    provider:
+      name: Atlanta Blackstar
+      domain: atlantablackstar.com
+    quality: 5
+    images:
+      - url: "https://atlantablackstar.com/wp-content/uploads/2024/08/Pregnant-Wrongfully-Arrested-Because-of-Facial-Recognition.jpg"
+        width: 1200
+        height: 697
         isCached: true
 
 secured: "bXPzMFM78D8sU3yTTUgqWoU3V1+5ObmwP6O3ipvUQwLdcDo8YqPs7cqTnuIMOfM9P2J28ew+tj/5AVufSDuzMFSQR/ZZ2HRHuqGDlZ2VJHfhmkaoJ+tsodkHPXe0+aAUHosZEVJZMUXAIqJZHr8Y9LynG9Z8fUdK3LbHy24qtOLuOJBgSbDRg7bth/+2WT2wzA/r6SobbavKAnmytV8ms9I0Lo6UYw+HUQ1fhXqYNP4fWMEWOqRjYnXZ/QO8IDJWTq/Fn5q5GVFPIgtFECj4r7aJheX8suu3J98UReCFHQ0d5ohqYF5vjUWgi6ItlOsyYm51DhRONR4MFnWBJ7qDpcCSlpA3P9W9AzOxOTaHINbTr8dCr527UmOilzJlozxdyM0KvYLCg4J03GJ91PF8lQBTVI2GN2RJ8JGjX64CLKxiCdKrc+2i1/prlWtiEe3uuDLDkAJikmT+wRIJsCPqaN1euHJl6WfzjtAnQjd3nZc2wbFOuH8vasFruFvz2qPMIPRIqnquSHz8yZJDe6+N1g==;s4VFZ+kmbps0hmsMuztBbA=="

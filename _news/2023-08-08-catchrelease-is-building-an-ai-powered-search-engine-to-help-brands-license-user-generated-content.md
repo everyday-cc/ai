@@ -1,0 +1,35 @@
+---
+category: news
+title: "Catch+Release is building an AI-powered search engine to help brands license user-generated content"
+excerpt: "So we are trying to solve for these kind of use-cases.” There is a lot of chatter around the use and ethics of generative AI in the creative world. Goodin thinks that while brands require a lot of images and video assets, generative AI tools don’t yet ..."
+publishedDateTime: 2023-08-08T13:31:00Z
+originalUrl: "https://techcrunch.com/2023/08/08/catchrelease-raises-8m-to-help-brands-discover-and-license-user-generated-content/"
+webUrl: "https://techcrunch.com/2023/08/08/catchrelease-raises-8m-to-help-brands-discover-and-license-user-generated-content/"
+ampWebUrl: "https://techcrunch.com/2023/08/08/catchrelease-raises-8m-to-help-brands-discover-and-license-user-generated-content/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/catchrelease-raises-8m-to-help-brands-discover-and-license-user-generated-content/amp/"
+type: article
+quality: 75
+heat: 75
+published: true
+
+provider:
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2023/08/CatchRelease.jpg?resize=1200,675"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "8wQK1l3d/zpXSLYp73spTRYxB78unZqSorHCTHIIXmRhNF4PenrEa/Cod3zWH1qtj9N03pdi4LGc8SDS0UPZ0YGf5GChXDj2meWOvCSVogzHAbtGEVf4Vu9Wv7GMVVokQR61Cv3TWt9n5Jqvc2s4lyvdXRBYyImBZtqUhO8gHz8zE+kIpGIkJ7Q88dTQgfxofZD3ahwTf4HcP7VU3od3LD9YtmW8OrC5c9w16bzA4Eu0sIjfY2JwEK/HEB6qWDdQdBHYljs67VYvMItE0uPnuPw62YEGWrxLmEC75zZ5kifTpA2Ez8vtFQzfCy2oAvCxMz9OrnP9GBGRAqApL7XdarWMQh+63hSr8BZRDHhiykE=;TiUxp/BzPQ6dH+9HjWg9uA=="
+---
+

@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/san-francisco-drives-tech-drive-101320740
 webUrl: "https://www.aol.com/news/san-francisco-drives-tech-drive-101320740.html"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,15 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Cruise, Waymo await decisions on self-driving service in San Francisco"
+    excerpt: "Barring another delay, Cruise and Waymo expect to hear Thursday from the California Public Utilities Commission whether they can expand the scope of their commercial services offered in San Francisco."
+    publishedDateTime: 2023-08-08T11:55:00Z
+    webUrl: "https://www.autonews.com/mobility-report/cruise-waymo-await-cpuc-decisions-san-francisco-service"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 34
   - title: "Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan"
     excerpt: "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar."
     publishedDateTime: 2023-08-05T21:22:00Z

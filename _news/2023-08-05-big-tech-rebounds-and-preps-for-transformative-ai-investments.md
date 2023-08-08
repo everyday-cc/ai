@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Hyro Report Reveals Deep-Rooted Issues Affecting Healthcare Call Center Performance, Generative AI Poised to Transform Sector"
-    excerpt: "Hyro, a leader in conversational artificial intelligence (AI) for healthcare, today announced the publication of a new report,"
-    publishedDateTime: 2023-08-03T21:27:00Z
-    webUrl: "https://www.datanami.com/this-just-in/hyro-report-reveals-deep-rooted-issues-affecting-healthcare-call-center-performance-generative-ai-poised-to-transform-sector/"
+  - title: "Why people are still key to tech transformation"
+    excerpt: "Although transformation is inevitable, it needs to be anchored by the people tasked with achieving progression and change."
+    publishedDateTime: 2023-08-08T12:40:00Z
+    webUrl: "https://venturebeat.com/programming-development/why-people-are-still-key-to-tech-transformation/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 27
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 34
   - title: "Big Tech rebounds and preps for transformative AI investments"
     excerpt: "A YEAR ago, the tech industry’s prospects looked bleak. Google’s profit dropped. Shares of Facebook’s parent company, Meta, were in free fall. Business growth at Amazon had slowed to its lowest level in two decades."
     publishedDateTime: 2023-08-06T09:37:00Z

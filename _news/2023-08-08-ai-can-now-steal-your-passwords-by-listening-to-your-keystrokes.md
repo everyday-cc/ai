@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-can-now-steal-your-passwords-by-list
 webUrl: "https://www.pcmag.com/news/ai-can-now-steal-your-passwords-by-listening-to-your-keystrokes"
 type: article
 quality: 67
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://images.indianexpress.com/2023/08/Deep-learning-model.jpg"
         width: 1200
         height: 667
+        isCached: true
+  - title: "AI could identify passwords by sound of keys being pressed, study suggests"
+    excerpt: "Researchers create system using sound recordings that can work out what is being typed with more than 90% accuracy"
+    publishedDateTime: 2023-08-08T13:44:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/08/ai-could-identify-passwords-by-sound-of-keys-being-pressed-study-suggests"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/08/ai-could-identify-passwords-by-sound-of-keys-being-pressed-study-suggests"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/08/ai-could-identify-passwords-by-sound-of-keys-being-pressed-study-suggests"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/ed0c2f590acd1bc9a288b25cdf6da95ad6add207/0_117_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=05b8fb0c120dffb8dce8f92197c3746c"
+        width: 620
+        height: 372
         isCached: true
   - title: "Terrifying ‘deep learning attack’ can steal your passwords by listening to you type"
     excerpt: "According to researchers involved in the study, the deep learning system was able to log keystrokes with a 93 percent accuracy rating when listening to the target typing on their keyboard. The system was taught by pressing the keys on an Apple Mac keyboard multiple times at different levels of pressure."

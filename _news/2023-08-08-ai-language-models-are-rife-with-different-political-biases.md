@@ -58,7 +58,16 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "The Download: political AI models, and a wrongful arrest"
+    excerpt: "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI language models are rife with different political biases The news: AI language models contain different political biases,"
+    publishedDateTime: 2023-08-08T12:08:00Z
+    webUrl: "https://www.technologyreview.com/2023/08/08/1077471/the-download-political-ai-wrongful-arrest/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
-secured: "m8p1bH+O2FKrWMmT+1QY8f9CXnzPHqHQgTxbJVT41YuqVsk0Uwdy7DZvX6S0XPGhL+izV4uc/mGIo+x9+Ob3LOC806BdRbObmvyGwAm6arwkr6CoWDTATAyHXDyJClfdBW24Wvd42a7zgqjjr6M6wtm7e3LDoZv9Uro8k2+CaD3gp4a7/VFZtBUGavN5atC3K8iONidq9gPWojB9emmp2qw21IjPW4VI87CBVOC44C6bANBZNBBdbFDX6n46CBE5xmHHhCfPlvGCR1FEfNq8xCcF9F3z/JLX8I+VZnczWkLQoQApaahuFzgDlBrJ3QjFGT/PbBuCGvsqbb9po7pxtJnlrFv08Bt4FY17kjS0ihk=;o0L3aWWZsHAnv/OevauPxA=="
+secured: "xLfQrwcxddSPY3wXCePCg1XqeL9xcNrS8Q42L6rtH3Mt7FC5SMbQF3mzM7mME2HX77caawQL1qYPHUIzmM9iJZ2jEixZSSm6FasICSWoOZnI0K8Wbh+gpBPke5Y4aJ7g2eRDotKsK9Hi84TEeJObjZfe7nktxU+oOafl1PELLSyGlhq/nRmxwgJnUCM3Y+lN3H+14YjR6E1t8p9oePSxZ6ZFuy2tgyjKy6fMbe2b0V+W7xYvz8yF517fHEP9xv8eoKxoGW9r34LDRkMKNjLpabjfZjFIWq9f1PBQqEjKxG8pTfVdvaG/A9UGemYzxniMINbBa7ZufYXyvE4In/6flbEodssaeSTxiOTgoOxNlyjlzyzmskOJAuasHL8bRDvZDZZag4ka/yr4C+dwAEMM1Lq3tJCR61+7YpyGatJHT3es/S5RuEt0Gw7fhEsailagpkKHMqDNezvLO6KSLHwnEfEeyz7Yhpp7cArhDf1Zv95nKs3Cyhso5Rrvhd/fjtgNtZnIJ/KfJotES876fTZL4g==;1PhUCMOyRmCn+qu5JI0hyw=="
 ---
 

@@ -42,12 +42,21 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://i.insider.com/64cbf0930f3dff0019568fce?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
+  - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
+    excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
+    publishedDateTime: 2023-08-08T11:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pioneering-trucking-industry-learning-with-artificial-intelligence-1032528295"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Fear Of Ai In The West Is Misdirected"
     excerpt: "The fear of artificial intelligence is largely a Western phenomenon. It is virtually absent in Asia. In contrast, East Asia sees AI as an invaluable"
     publishedDateTime: 2023-08-07T07:32:00Z
@@ -76,6 +85,17 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Bringing Artificial Intelligence into the classroom"
+    excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
+    publishedDateTime: 2023-08-08T02:40:00Z
+    webUrl: "https://www.fox13news.com/video/1260378"
+    ampWebUrl: "https://www.fox13news.com/video/1260378.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1260378.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 37
 
 secured: "o/Ec3BijL/fUvsK5Snx9cAq2J7zhscfzwD2UB4UU6+2JXp5eM+EICUs0DIh7cjYt3AAHRCXREbiuNT2qvR0bGG9bcBHQCZNHYEGkRopWu5IZjaO5ovkzkmLGNhCk1h8u+yP17M412NRg3+bIxscG6LcckjTgfZsJp148ghQoIwUCDLY5HUzLuGTBc9pUZFOLFfGNxuow7HSspxJcAO4ENaItFqWS2RGEdbA6qYw8iyyTKcSYbuSgEj48iy/NTeCLTUURq0V6O31GvnBFU8zn1GvF4MjPlj4abrTSMgDcLrTc07CoH+aMVaSyTlgsxlcA3M8xqaQ70SEgKhb69HUv8Siu1o8hDwXNTWQyWkFye2JhtzROzkPVjp4bWPhMVG+OBeDWfoT8vsFFMt4a668Oo4qI4bF2LD7fxFJyJaKz/djc8trQap3e8g9DLjdB5y7uh4jp2vZrxmV+4P6N3eIZEHIH/thJOUEmhXjJK5NVUr8ufPrr3RSYcrAEUcMKXMOsSXBMVnDuSuQBaxoABVRUHA==;RqGsEXPp5mfJImgVhA+t+Q=="
 ---

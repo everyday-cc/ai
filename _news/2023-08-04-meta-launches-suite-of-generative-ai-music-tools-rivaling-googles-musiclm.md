@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta unveils new text-to-music AI tools to compete with Google's"
-    excerpt: "EnCodec is an audio codec comprised of neural networks that compress audio and reconstruct the input signal. As part of the announcement, Meta released the most improved version of Encodec that allows for higher-quality music generations with fewer artifacts, according to the release."
-    publishedDateTime: 2023-08-03T20:39:00Z
-    webUrl: "https://www.zdnet.com/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/bfe856c9bcc0b2902226cee85375e8a69b5481e8/2023/08/03/fe614ab3-0f0a-47d1-b4aa-53d01d34d452/gettyimages-844347442.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Report to Congress on Advances in Artificial Intelligence"
-    excerpt: "The following is the Aug. 4, 2023, Congressional Research Service report, Artificial Intelligence: Overview, Recent Advances, and Considerations for the 118th Congress. From the report Artificial intelligence (AI)—a term generally thought of as computerized systems that work and react in ways commonly thought to require intelligence—can encompass a range of technologies,"
-    publishedDateTime: 2023-08-04T14:29:00Z
-    webUrl: "https://news.usni.org/2023/08/04/report-to-congress-on-advances-in-artificial-intelligence"
-    type: article
-    provider:
-      name: USNI
-      domain: usni.org
-    quality: 43
-    images:
-      - url: "https://news.usni.org/wp-content/uploads/2020/08/Artificial-intelligence-155161_1280.png"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Meta unveils AI audio and music generator"
     excerpt: "Meta’s AudioCraft is made up of three separate AI models: MusicGen, AudioGen and EnCodec. MusicGen exists for music generation and was trained with “Meta-owned” and specifically licensed music, while AudioGen specialises in audio generation and was trained on public sound effects."
     publishedDateTime: 2023-08-08T03:22:00Z

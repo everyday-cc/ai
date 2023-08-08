@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Cruise, Waymo await decisions on self-driving service in San Francisco"
+    excerpt: "Barring another delay, Cruise and Waymo expect to hear Thursday from the California Public Utilities Commission whether they can expand the scope of their commercial services offered in San Francisco."
+    publishedDateTime: 2023-08-08T11:55:00Z
+    webUrl: "https://www.autonews.com/mobility-report/cruise-waymo-await-cpuc-decisions-san-francisco-service"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 34
   - title: "San Francisco drives tech; will it drive away robot taxis?"
     excerpt: "SAN FRANCISCO (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... allow robot car providers Alphabet Inc’s Waymo and General Motors’ Cruise to expand ..."
     publishedDateTime: 2023-08-07T11:07:00Z

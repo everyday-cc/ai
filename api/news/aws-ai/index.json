@@ -106,7 +106,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -965,6 +965,40 @@
       ]
     },
     {
+      "path": "_news/2023-07-27-amazon-is-failing-to-provide-accommodations-for-disabled-workers-labor-group-claims.md",
+      "title": "Amazon is failing to provide accommodations for disabled workers, labor group claims",
+      "excerpt": "Amazon is failing to provide adequate workplace accommodations for disabled employees, a violation of the American Disabilities Act (ADA), according to labor activists. Amazon workers with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/amazon-disabled-workers-american-disabilities-act-violations-report/",
+      "originalUrl": "https://www.cbsnews.com/news/amazon-disabled-workers-american-disabilities-act-violations-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T20:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-aws-is-ready-to-power-ai-agents-that-can-handle-busywork-instead-of-just-chatting.md",
       "title": "AWS is ready to power AI agents that can handle busywork instead of just chatting",
       "excerpt": "Other AWS announcements included bringing generative AI to healthcare through a new service called AWS HealthScribe and a partnership with Nvidia allowing AWS to handle larger amounts of memory and data by using Nvidia H100 Tensor Core GPUs.",
@@ -1399,58 +1433,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-use-generative-ai-foundation-models-in-vpc-mode-with-no-internet-connectivity-using-amazon-sagemaker-jumpstart.md",
-      "title": "Use generative AI foundation models in VPC mode with no internet connectivity using Amazon SageMaker JumpStart",
-      "excerpt": "With recent advancements in generative AI, there are lot of discussions happening on how to use generative AI across different industries to solve specific business problems. Generative AI is a type of AI that can create new content and ideas, including conversations, stories, images, videos, and music.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-foundation-models-in-vpc-mode-with-no-internet-connectivity-using-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-foundation-models-in-vpc-mode-with-no-internet-connectivity-using-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/22/14480-sol-arch-1080x630.jpg",
-          "width": 1080,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T09:29:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

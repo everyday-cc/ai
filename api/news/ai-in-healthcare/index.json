@@ -10,7 +10,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-08-ai-medicine-doctors.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -85,51 +85,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why.md",
-      "title": "Artificial Intelligence: Generative AI In Cyber Should Worry Us, Here’s Why",
-      "excerpt": "\"As AI becomes more integrated into society, it's important for lawmakers, judges, and other decision-makers to understand the technology and its implications.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/",
-      "publishedDateTime": "2023-08-04T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1444,6 +1399,59 @@
       "topics": [
         "AI in Healthcare",
         "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-artificial-intelligence-could-help-normalize-child-sexual-abuse-as-graphic-images-erupt-online-experts.md",
+      "title": "Artificial intelligence could help 'normalize' child sexual abuse as graphic images erupt online: experts",
+      "excerpt": "Images of children in sexual settings that were created by artificial intelligence could \"normalize\" abuse of children, law enforcement and nonprofits warn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts",
+      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54cf6e5e-46ce-4bd4-aed5-3dabe9838e97/e3852eca-5cd2-4283-bae9-15fbb23d888a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts.amp",
+      "publishedDateTime": "2023-07-19T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
         "AI in Autos"
       ]
     }

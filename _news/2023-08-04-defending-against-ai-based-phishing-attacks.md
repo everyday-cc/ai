@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Bringing Artificial Intelligence into the classroom"
-    excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
-    publishedDateTime: 2023-08-08T02:40:00Z
-    webUrl: "https://www.fox13news.com/video/1260378"
-    ampWebUrl: "https://www.fox13news.com/video/1260378.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1260378.amp"
-    type: article
-    provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 37
 
 secured: "2bY9AGkTLWNani6I8BvNsIUYf9ZToJxBQc/yjcUBi4vB8Cnx+GSDyMWqFBLvobH4RaA1nmulKMtGbsAw5Mdpvlepit5N9s4r8PI4kAdj1slnZVI8y/Mg4rsBSF5XSMqTc/1wloX2VNblbyzRLk7nbq8Elf6F4YXznmSgsTU/M1nP4EZcvPsktjKr6tVGObBn4XwGow5i+Ujay/9BipbK443jy2Wd5MS/IwHK4IZJ6k/V2r2CnAvFdwo6ykHRP8C7Inysjnh+ZjOxhUGPzs5T2nGAUpkTgpQBfPO4Is0Met3dLd50GsKVWfrXsbvMyMm4y6P16opLF4uVOf6XLaXPsewtcS6xS4ck9lePPGF86scfKIboA3uLgV5fEH46b/R34SzicKT3NcUt2tOSIwk7HdioW5oFpT+pBoF19o1/M34iq+pWirBuPp8b2MavsSZ6nMudrhPAV+RvGP0HUISURJauHYuZ8HswhZ0vysc0wwA4KTSdZZ/+9IfKTCCMqZP7UVth5IwPcV9pGoG8GLZI/A==;wa9zOBwpnojtwaSYoGyM4w=="
 ---

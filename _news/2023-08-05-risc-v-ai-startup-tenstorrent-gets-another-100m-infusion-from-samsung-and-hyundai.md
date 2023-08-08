@@ -38,20 +38,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Samsung, Hyundai, Kia back AI chip manufacturer Tenstorrent in $100-million USD round"
-    excerpt: "Tenstorrent, which builds computers meant to train and run AI models, has closed a $100-million funding round as it looks to advance product development in a time of accelerated AI adoption."
-    publishedDateTime: 2023-08-03T20:00:00Z
-    webUrl: "https://betakit.com/samsung-hyundai-kia-back-ai-chip-manufacturer-tenstorrent-in-100-million-usd-round/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 47
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2023/08/Tenstorrent-and-Samsung.jpg"
-        width: 1050
-        height: 700
-        isCached: true
 
 secured: "3bb3XJfVLmNaHCHATQvH6JN50aZ4OtRZdhCfBq145o29dXWk/a1H6b1Ioxt9gujx11TAmxcJe7spzTjnimh5muazWfSjAv9PerH17faUb6hpmInD1QbWYi2K6mY1YDMAk3KZiK+pL1CNldukWq3dBjuE1IxDHsDo4WWjx/Ydml5u2gwpytwP4bkb4+VPf4QdaYqML060qqPVdJpwmuQR6TUB5lxpG5DDul0UaLhpWpOYT6nryDH3KRM2rtPUQLQxFVkrdjQLZe3Q7Pv059/1/AGKWsmwq5rxhsH8H/dhp1bKnAMdC8qwP2VF2IKhgH42Gjh2V/bAtARCluRgJZR5NLEqO8wFxeW308eIsNTlUUA=;8b8bTmS2Z7caIJ7xwzncsA=="
 ---

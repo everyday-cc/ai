@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "AI could identify passwords by sound of keys being pressed, study suggests"
+    excerpt: "Researchers create system using sound recordings that can work out what is being typed with more than 90% accuracy"
+    publishedDateTime: 2023-08-08T13:44:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/08/ai-could-identify-passwords-by-sound-of-keys-being-pressed-study-suggests"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/08/ai-could-identify-passwords-by-sound-of-keys-being-pressed-study-suggests"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/08/ai-could-identify-passwords-by-sound-of-keys-being-pressed-study-suggests"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/ed0c2f590acd1bc9a288b25cdf6da95ad6add207/0_117_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=05b8fb0c120dffb8dce8f92197c3746c"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "S0CfOUdsYs4tJSKPA5/rriBYBEiNtb1nBo2Yz1dWzQk+NevyttROKUcP3b5PGIqc2PNHqGE66pZ5eAD6P2in+wnOyWLSMmcAKhPbG9gVopLevloSC9ErWRMWg9POpGHY45j2Wmdv5uePFLtL6iZEqWf08EK+cwrgrLvz5pNI1FjIsN9YTPgetjJSuKcjlavfqhqAOiFY9TuWlW/BRl1pfbaZ1tQhUxRWNFyEx4VEIkG4yG/Urb2cSOIdbllN3Pys1McFFv3AWOfPzNbc3deceMArhTWUIInoDM4MBtt80kMJr2sHtVanGfbFKGOZuFLt74U/qOZRB9Bs8wEbqcIVengtKzZOeIRypNkKX8DZP2U5nBdsELHbbrFenABArR1HQ1KuLbViFqZ3dBl9PspwjucMXIa3VXI/UDA2N8DDGXDhPUJ5RreTneu6hqVAOs9msT9Up7mJOvfVqZk2rnBgMbx52Z9Zb5Y7YUVrffUeILMjREjYIlEFAgIekGZNVYnkY10sD6GV1mV647vNMQ+nbA==;g6PQudJcWk44jtnQmK2VCw=="
 ---

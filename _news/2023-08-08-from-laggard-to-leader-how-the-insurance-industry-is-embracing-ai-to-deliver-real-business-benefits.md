@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/from-lag
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/from-laggard-to-leader-how-the-insurance-industry-is-embracing-ai-to-deliver-real-business-benefits/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Forbes
@@ -41,6 +41,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1202232039_532969_bkzhsz.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Al Trailblazer Bud Financial Launches Bud.ai, a Generative Al Core Platform to Deliver Hyper-personalized Banking Experiences"
+    excerpt: "Bud Financial (Bud) unveils an all-new generative Al core to its data intelligence platform, enabling banks and financial services organizations to apply Al to every consumer engagement. The Bud.ai platform will empower any financial services organization to transform their transaction data into powerful new customer insight and achieve the holy grail of personalization at scale in customer experience."
+    publishedDateTime: 2023-08-08T15:59:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/al-trailblazer-bud-financial-launches-budai-generative-al-core-platform"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 12
+    images:
+      - url: "https://financialit.net/sites/default/files/bud_0.png"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "EqWRBxLr/JK7rK0R3i6JSlI7qUVBBaTK/0S5JcOGZAltlkzLSEMS5urX3ouwnua0YDKocQYHIlMH0ymkRHZ11Z1OnZoz7ePY9+/8rORnZp2+34lwbXo69W92mB4Ty8TcajeycoLzCi/6/15qcNqicwQvDYS+NlHdXrHHfPhhzsDM0sdmvn58BWMb1y+w/JT7O4ALHjAdEODJ2nHEeytIyNj2fxuGIp+VwfIpH00abQ8Y2sL5cCqBWTe0jKk/phpiBfBSyu7qZDxnp+6ywW4ZfHy3FGRV1JL0mD+CbWMoEXHRdgAfI8ZrPcEr4YayRNEuMRUL0VSgNFjFE983Iyj3uGSv7u0Fped/vr/CKoWkjDE=;bOar/oVJwRlnKrsX/oMFLA=="

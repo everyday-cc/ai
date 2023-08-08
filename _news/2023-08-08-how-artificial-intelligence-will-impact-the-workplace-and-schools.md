@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The impact of artificial intelligence on the work force"
+    excerpt: "Artificial intelligence is already having an impact on the labor force, and several indicators show more drastic changes could be ahead."
+    publishedDateTime: 2023-08-08T12:53:00Z
+    webUrl: "https://www.wpsdlocal6.com/news/the-impact-of-artificial-intelligence-on-the-work-force/article_a151fa34-35ea-11ee-8234-5377c4fa0f61.html"
+    type: article
+    provider:
+      name: WPSD Local 6
+      domain: wpsdlocal6.com
+    quality: 19
 
 secured: "LLV4GV+tZYoit1HJISi7vOD79X/hi2bH2lLKDE4NRQxa//CL8+DloVYzwIAKjLlw3PDhrysTyI2Dfh3pF7qPwSJoewy2t4TYcLnxOzt7l89EUM0UnMguIfv5J3dcgH5oHfQYcrX6tpd1a67QIH2RASM/EokzFn/qsjDvCWYg0bbrYRfnbOg/lT8I4qn4kS7/idvJfq5xO3kCZWmThUI/k4ecjWWqDukl9oyl+hNEninw/YxofOmsFkFehstIyyeAC1rqbdeODvFYumovOMXjxdP30epvbLhL+Ki3Y+j3t/QVTZIaUQw9aD8eLMqbNjvEUXOQlCedlOS3IJRJ3rZt6i3/Eh0ZKWj9mqBWrjQSk7A=;Ky26XJQqdwPiX5tnj0jUVA=="
 ---

@@ -3,23 +3,23 @@ category: news
 title: "Chatbots sometimes make things up. Is AI's hallucination problem fixable?"
 excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn't take long for them to spout falsehoods."
 publishedDateTime: 2023-08-07T22:30:00Z
-originalUrl: "https://tulsaworld.com/news/nation-world/business/chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable/article_33f2a529-2965-5710-adc5-3e3154c1b833.html"
-webUrl: "https://tulsaworld.com/news/nation-world/business/chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable/article_33f2a529-2965-5710-adc5-3e3154c1b833.html"
+originalUrl: "https://madison.com/news/nation-world/business/chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable/article_a31a1524-e913-5998-bb28-d85b440b0eaa.html"
+webUrl: "https://madison.com/news/nation-world/business/chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable/article_a31a1524-e913-5998-bb28-d85b440b0eaa.html"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/3/3f/33f2a529-2965-5710-adc5-3e3154c1b833/64cacea3ce275.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/31/a31a1524-e913-5998-bb28-d85b440b0eaa/64cace99dad8a.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -51,6 +51,6 @@ related:
       domain: adn.com
     quality: 18
 
-secured: "MmZ77y6UJJjEeg8FdmZa41sDvPiWbJVKRTLQLpK6V+g9n9/5GabjTfFFQmvE0xj4RAhgAKUfkBG3nz/l+SFqIfRxIUK5DM67G2fknyE6LnrOEMMKl6ssYF4cmvGqCACDBQYuuuQCfhk4tPxKIKetX3kJZOHJVuyqmXPxK5sMJ2hoWa4mIVhhWqnxwCQRpZ81+xcPHbPkZ6LbHCavbxop3Kvke/UrNJix/hsl0fHU+GOx7ElA3E/RHBwXz3C/Vpoy6eOX52tFwoztH+b+3exXWVnFXwGQUSIw+TBlIIwjOgGHtKmCNO29US5SuwCV9OrzhAf538MkfcYFXlcCvmVG/baaOQ3pqnOwgO5pSY1nIWs5ldFDjMZCEYjqA5fvkD5VHCbxDGTbkQcyD5GLhpcgeuwbLrFlDYWVB7CVaTKUXqhRpfBLBy/jHVSj84KAuImU0YX1mGjSgHOUC2eWDiC53/PgpNG7Cl+THq1qiIpn2L7dhA42CL4lwX0eROal/hAHpo3NE+0jLVITLZOmUp1xzg==;X4bUri6eICTbd+cC8+apNQ=="
+secured: "AOh0R2kGSo4/P5BT3IHUG3qlDGlpIOgpASva1/aVmIciIKZZegEiaE/xNNgPZxcQkrolVuxQrIvGVwSlnFIyi74JATESJjBAB3/0iKyzsQ9k04cBxlH+HsxlagRdi1FV9O79z6qsb1m/2b1bs8cN33ZnfryXl5K0XbGf2sLpY0z849C2QyDxEzCTFo9VBMikZ/H8u/X65R97uR4iMuOJt6/WvNcgJHdBKS9bhGZO2w+nEvjLngLv1bzIG1HeSGxLepaCo08xcgm96T93a9eb22MPigSC0UvquFf4czklnGRo4czqYegW+KZcUzKuGA/0oXL+K9TJTuWRpSe3Avd+9BGwvbBQYEgmpVZ84hVhKhc=;xD5hl1dFnI6h1aaA56VG8w=="
 ---
 

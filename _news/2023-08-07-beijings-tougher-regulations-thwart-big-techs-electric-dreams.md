@@ -20,9 +20,9 @@ topics:
 
 related:
   - title: "Beijing’s tougher regulations thwart Big Tech’s electric vehicle dreams"
-    excerpt: "The search group partnered with carmaker Geely Holding to set up Jidu in 2021, with Baidu holding a majority stake and keen to make a vehicle that showcases its self-driving technology. The two groups have invested $1bn in the project and are working to ..."
-    publishedDateTime: 2023-08-07T09:31:00Z
-    webUrl: "https://www.ft.com/content/29d20e6c-29d0-4603-abeb-caf55f5dd9c3?shareType=nongift"
+    excerpt: "Red tape is frustrating the efforts of Big Tech in China to launch electric vehicles, with car rollouts from search giant Baidu, smartphone maker Xiaomi and ride-hailing group Didi all being stalled."
+    publishedDateTime: 2023-08-07T04:01:00Z
+    webUrl: "https://www.ft.com/content/29d20e6c-29d0-4603-abeb-caf55f5dd9c3?sharetype=blocked"
     type: article
     provider:
       name: The Financial Times

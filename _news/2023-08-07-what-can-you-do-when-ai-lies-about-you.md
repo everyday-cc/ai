@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Protecting data in the era of generative AI: Nightfall AI launches innovative security platform"
+    excerpt: "Nightfall AI's platform is the first data loss prevention (DLP) platform that scales across the three top threat vectors CISOs need the most help securing when generative AI and ChatGPT are in use across their organizations."
+    publishedDateTime: 2023-08-04T22:03:00Z
+    webUrl: "https://venturebeat.com/security/protecting-data-in-the-era-of-generative-ai-nightfall-ai-launches-innovative-security-platform/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vector_art_of_a_double_helix_spiral_made_of_glowing__0635169d-fcb5-425e-b8b1-27d569da5f8d.png?w=1200&strip=all"
+        width: 858
+        height: 686
+        isCached: true
   - title: "Getting The Most Out Of AI: Businesses Need Skilled Prompt Engineers"
     excerpt: "The success of the prompt engineer will rely on the ability to bridge the natural language we use every day with domain-agnostic and formal language."
     publishedDateTime: 2023-08-04T13:00:00Z
@@ -71,6 +85,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Sivi AI: Pioneering the Design Revolution With Generative AI"
+    excerpt: "In the fast-paced world of digital marketing and content creation, visuals play a pivotal role in capturing audience attention and conveying brand messages effectively. As the demand for captivating designs grows,"
+    publishedDateTime: 2023-08-07T18:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33607119/sivi-ai-pioneering-the-design-revolution-with-generative-ai"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "WPV3MBODKxFJiqa4vN4HgTBcEoDVdFJ62UoNxPj3HIxmTVcpvvfbU7eiQdkISmHXv+ZTHO2Xm2+Z036DE0KLHjnOIMhpwRH/XOpOtVvDAIEnRnnN+tGJkt6KF4hvzIv7BrdHVsTqu6odFZ18ggKstsrZJaNdw8nC/4CEJlcO/vrp4i//8hQLtH+m6A9m/e47zEaIw29xx7Nna8zdwtF00EuIumt7SV4hK2rCAZGs5FLsM7qVIr52D1ecYLBX7+x0m8cAuWU0OXzWs40m1NM8CrxeVhl6lEUleFkv4yuXSW2hVwWwC+cIqhJH6QevJ8oruUbVod7PeeLJuCD9GusfJn+KefbeoQgnNXprkyhwcJkFfW9y2tzJ94L1qNdpWlFiBjMqMxa4hTICVfMVdMT4i4SX3u4lqFDO7tIYpQ+dUVYVfiBWqtbkpXxr33s+TnbZVez92EwyFFZF0iREn0Cth+rZ0TNHqdaW5rFmFszUDwPc0PHO86K0ItcubT3kzcvkBQ2Bb2uGQjzfkY5R9Foaag==;Nl1m8f3P7XyF9aEF+mz4Wg=="
 ---

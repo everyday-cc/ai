@@ -23,20 +23,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Enhancing AWS intelligent document processing with generative AI"
-    excerpt: "Data classification, extraction, and analysis can be challenging for organizations that deal with volumes of documents. Traditional document processing solutions are manual, expensive, error prone, and difficult to scale. AWS intelligent document processing (IDP), with AI services such as Amazon Textract,"
-    publishedDateTime: 2023-08-03T21:03:51Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intelligent-document-processing-with-generative-ai/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/How-to-get-started.png"
-        width: 936
-        height: 420
-        isCached: true
   - title: "The Future Of Programming In A Generative AI World"
     excerpt: "Generative AI is revolutionizing programming, making coding more accessible and productive, but ethical considerations and human expertise remain crucial."
     publishedDateTime: 2023-08-07T15:02:00Z
@@ -53,134 +39,128 @@ related:
         width: 600
         height: 420
         isCached: true
-  - title: "AWS to support Korean startups with Generative AI Accelerator"
-    excerpt: "Amazon Web Services (AWS) will help Korean AI startups grow with its Generative AI Accelerator, a program that combines powerful AI tools with business, technical mentors and experts, the global-leading cloud computing service provider said Tuesday."
-    publishedDateTime: 2023-08-08T06:52:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 74
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202308/01fe39d3e3a946b0bdd3a186fae09566.jpg"
-        width: 980
-        height: 598
-        isCached: true
-  - title: "Protecting data in the era of generative AI: Nightfall AI launches innovative security platform"
-    excerpt: "Nightfall AI's platform is the first data loss prevention (DLP) platform that scales across the three top threat vectors CISOs need the most help securing when generative AI and ChatGPT are in use across their organizations."
-    publishedDateTime: 2023-08-04T22:03:00Z
-    webUrl: "https://venturebeat.com/security/protecting-data-in-the-era-of-generative-ai-nightfall-ai-launches-innovative-security-platform/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vector_art_of_a_double_helix_spiral_made_of_glowing__0635169d-fcb5-425e-b8b1-27d569da5f8d.png?w=1200&strip=all"
-        width: 858
-        height: 686
-        isCached: true
-  - title: "AWS Turbocharges Foundation Models With Smart AI Agents"
-    excerpt: "Goodson discusses AWS's recently announced AI capability that adds key functionality to its foundation models."
-    publishedDateTime: 2023-08-04T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/08/04/aws-turbocharges-foundation-models-with-smart-ai-agents/"
+  - title: "Is Generative AI Stealing From Artists?"
+    excerpt: "Delve into the contentious debate around ownership, credit, and financial compensation for art created by AI tools, exploring artists' rights and IP laws."
+    publishedDateTime: 2023-08-08T06:36:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 66
-  - title: "Abb And Microsoft Collaborate To Bring Generative Ai To Industrial Applications"
-    excerpt: "ABB is working with Microsoft on the integration of generative AI capabilities into industrial digital solutions for safer,"
-    publishedDateTime: 2023-08-05T03:07:00Z
-    webUrl: "https://menafn.com/1106786821/Abb-And-Microsoft-Collaborate-To-Bring-Generative-Ai-To-Industrial-Applications"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 50
+    quality: 87
     images:
-      - url: "https://menafn.com/updates/pr/2023-08/04/INS_a3cd3image_story.jpg"
-        width: 768
-        height: 432
-        isCached: true
-  - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
-    excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
-    publishedDateTime: 2023-08-08T11:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pioneering-trucking-industry-learning-with-artificial-intelligence-1032528295"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Using Generative AI To Connect Lab To Fab Test"
-    excerpt: "Executive Insight: Thomas Benjamin, CTO at National Instruments, sat down with Semiconductor Engineering to discuss a new way of look at test, using data as a starting point and generative AI as bridge between different capabilities."
-    publishedDateTime: 2023-08-08T07:05:00Z
-    webUrl: "https://semiengineering.com/using-generative-ai-to-connect-lab-to-fab-test/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 41
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/wafer-AdobeStock_472655944.jpeg?fit=1200%2C825&ssl=1"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d1e22b979499b5d765f249/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 825
+        height: 675
         isCached: true
-  - title: "Cyient sets up CoE to power engineering with Generative AI"
-    excerpt: "Cyient & Microsoft partner to set up CoE EnGeneer to drive engineering innovation using Generative AI. CoE to integrate new Generative AI capabilities into existing solutions, CyFast & CyArc. OpenAI & Generative AI technologies to be used across all Cyient platform solutions."
-    publishedDateTime: 2023-08-08T04:18:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece/amp/"
+  - title: "Artificial Intelligence: Generative AI In Cyber Should Worry Us, Here’s Why"
+    excerpt: "\"As AI becomes more integrated into society, it's important for lawmakers, judges, and other decision-makers to understand the technology and its implications.\""
+    publishedDateTime: 2023-08-04T17:22:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
-  - title: "Efficiently grow with predictive artificial intelligence engagement modeling"
-    excerpt: "In an industry first, Alkami is now leveraging artificial intelligence (AI) predictive modeling to help financial institutions identify highly engaged"
-    publishedDateTime: 2023-08-03T21:01:00Z
-    webUrl: "https://www.cuinsight.com/efficiently-grow-with-predictive-artificial-intelligence-engagement-modeling/"
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+  - title: "The Ghost of Privacy Past Haunts the Senate’s AI Future"
+    excerpt: "The US Congress is trying to tame the rapid rise of artificial intelligence. But senators’ failure to tackle privacy reform is making the task a nightmare."
+    publishedDateTime: 2023-08-04T18:05:00Z
+    webUrl: "https://www.wired.com/story/ai-regulation-privacy-us-senate/"
     type: article
     provider:
-      name: CUInsight
-      domain: cuinsight.com
-    quality: 34
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2023/06/bigstock-Ai-Smart-Manufacturing-And-Hit-470991649.jpg"
-        width: 1000
-        height: 500
+      - url: "https://media.wired.com/photos/64cc121bd96882f74caa411b/191:100/w_1280,c_limit/A-Fight-Over-Privacy-Looms-Over-AI-in-Washington-Security-GettyImages-1524620606.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "Dell announces generative AI solutions"
-    excerpt: "The company is offering a range of generative AI solutions across its hardware, software, and services offerings."
-    publishedDateTime: 2023-08-07T12:34:00Z
-    webUrl: "https://www.networkworld.com/article/3704209/dell-announces-generative-ai-solutions.html"
+  - title: "Build generative AI applications using Azure and NVIDIA H100 Tensor Core GPUs"
+    excerpt: "Microsoft Azure users can now leverage the latest NVIDIA accelerated computing technology to train, deploy and build generative AI applications. The"
+    publishedDateTime: 2023-08-08T08:37:00Z
+    webUrl: "https://www.geeky-gadgets.com/build-generative-ai-apps-08-08-2023/"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 19
-  - title: "Sivi AI: Pioneering the Design Revolution With Generative AI"
-    excerpt: "In the fast-paced world of digital marketing and content creation, visuals play a pivotal role in capturing audience attention and conveying brand messages effectively. As the demand for captivating designs grows,"
-    publishedDateTime: 2023-08-07T18:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33607119/sivi-ai-pioneering-the-design-revolution-with-generative-ai"
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 68
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Build-generative-AI-applications.jpg"
+        width: 700
+        height: 461
+        isCached: true
+  - title: "4 ways generative AI makes founders more interesting to journalists"
+    excerpt: "Gutted newsrooms could stymie one of the greatest engines of startup growth. While generative AI will enhance the capabilities of many publications, they’re also creeping onto news sites in ways we can’t foresee while journalists are laid off."
+    publishedDateTime: 2023-08-05T21:29:00Z
+    webUrl: "https://techcrunch.com/2023/08/05/4-ways-generative-ai-makes-founders-more-interesting-to-journalists/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
-  - title: "As Gen AI Explodes, Will Legal Tech Companies Get More Aggressive Protecting Company Secrets?"
-    excerpt: "Some legal tech organizations are rethinking their employment contractions in the face of the competition fueled by generative AI. Still, experts told Legaltech News they expect to see more litigation around employment contracts going forward."
-    publishedDateTime: 2023-08-03T19:56:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/03/as-gen-ai-explodes-will-legal-tech-companies-get-more-aggressive-protecting-company-secrets/"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1249090879.jpg?resize=1200,750"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Don’t quit your day job: Generative AI and the end of programming"
+    excerpt: "AI is something to be learned, tested and incorporated into practices so programmers can focus on understanding and solving problems."
+    publishedDateTime: 2023-08-06T17:10:00Z
+    webUrl: "https://venturebeat.com/ai/dont-quit-your-day-job-generative-ai-and-the-end-of-programming/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 6
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_the_end_of_programming._colorful_futuristic_tech_3d6db463-375e-4d84-9324-2b045c20313a.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Are VCs seeing a Generative AI bubble?"
+    excerpt: "“It still remains to be seen where the real-world value will be in the generative AI startup space once their novelty is gone,” said Christian Cantrell, former VP, Product at Stability AI, and now founder of a generative AI startup. “It’s easy to do a demo but it’s something else entirely to build a product around it.”"
+    publishedDateTime: 2023-08-05T06:09:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/are-vcs-seeing-generative-ai-bubble/article67158059.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/are-vcs-seeing-generative-ai-bubble/article67158059.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/are-vcs-seeing-generative-ai-bubble/article67158059.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/6haw4t/article67158051.ece/alternates/FREE_1200/2023-07-13T100131Z_1015518115_RC2DT1AJRVZG_RTRMADP_3_SAN-FRANCISCO-AI.JPG"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "MIT Task Force Puts Forth Guidelines for Generative-AI Use in Legal Practice"
+    excerpt: "In response to the growing concerns surrounding the ethical use of artificial intelligence (AI) in the legal profession, law.MIT.edu has formed a Task Force dedicated to developing principles and guidelines for the responsible application of generative-AI in legal work."
+    publishedDateTime: 2023-08-04T09:28:00Z
+    webUrl: "https://www.cryptopolitan.com/mit-guidelines-generative-ai-legal-practice/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 36
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-04_12-48-46.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
+    excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
+    publishedDateTime: 2023-08-08T15:58:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861286.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "8pBcP4TO7p1A8GllGQuEVx/Ftf2/uxZ7HlmnNczAvhWQC6uTZ6IEtQ83vquvQxyy0WfQlAWgqJJ2X9kIeAO7tTme0JOdpRUS5+CoYRZLyx9DTMaV4faz12RgXJqHLK7fRhow6h0YlRJcXxB3CoaYuOLQiXfuG+eDPPHkUzU3wTbE3taMm3QdUFK3HM57lowNKhV2gZJZsWy5VwO1QK71cz1kdSzj0yELR2WJzvAirxjUKblSv+y632c8qO3ki44mu8YwgpeqMyWZ+Y/ASB089ThOfordBuqBcsnWjmNYlJnp/Iaw0UOPFBWEaPhpMJu3R5EwAh96oPYMgdrM4Gb8K/USiNxYmzQYn4U+HEjIfxQ=;9t554SLs/Qla84Exnh+hBw=="
 ---

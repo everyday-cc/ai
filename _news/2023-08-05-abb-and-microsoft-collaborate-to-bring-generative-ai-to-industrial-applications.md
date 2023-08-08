@@ -25,159 +25,164 @@ images:
     isCached: true
 
 related:
-  - title: "Enhancing AWS intelligent document processing with generative AI"
-    excerpt: "Data classification, extraction, and analysis can be challenging for organizations that deal with volumes of documents. Traditional document processing solutions are manual, expensive, error prone, and difficult to scale. AWS intelligent document processing (IDP), with AI services such as Amazon Textract,"
-    publishedDateTime: 2023-08-03T21:03:51Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intelligent-document-processing-with-generative-ai/"
+  - title: "Microsoft shuts down Windows’ Cortana voice assistant as it chases AI ambitions"
+    excerpt: "Cortana began life on Microsoft’s ill-fated Windows Phone platform in the early 2010s, where it served the same general function as Apple’s Siri and Google Now: a hands-free way to interact with your phone that also attempted to have a \"cute\" \"personality.\""
+    publishedDateTime: 2023-08-04T17:19:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 100
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/How-to-get-started.png"
-        width: 936
-        height: 420
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cortana-800x506.jpg"
+        width: 800
+        height: 506
         isCached: true
-  - title: "The Future Of Programming In A Generative AI World"
-    excerpt: "Generative AI is revolutionizing programming, making coding more accessible and productive, but ethical considerations and human expertise remain crucial."
-    publishedDateTime: 2023-08-07T15:02:00Z
-    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/"
-    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/"
+  - title: "Microsoft Brings Bing AI to More Browsers"
+    excerpt: "Soon you won't have to switch to Edge to use Bing AI."
+    publishedDateTime: 2023-08-07T23:07:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/microsoft-brings-bing-ai-to-more-browsers/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: CNET
+      domain: cnet.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c60efbf4e8ba5b40ade19b/0x0.jpg?format=jpg&width=1200"
-        width: 600
-        height: 420
+      - url: "https://www.cnet.com/a/img/resize/42190d38ade8b2297bf2f0e63f4439bee821301e/hub/2023/02/10/62e99904-1127-458c-8fdf-cf9018b816b7/20230207-bing-logo-01.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Scale generative AI with new Azure AI infrastructure advancements and availability"
-    excerpt: "We are excited to share a series of announcements that highlight Microsoft Azure’s commitment to driving innovation and empowering businesses with cutting-edge AI solutions.\nThe post Scale generative AI with new Azure AI infrastructure advancements and availability appeared first on Azure Blog.\n"
-    publishedDateTime: 2023-08-07T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/"
+  - title: "HCLSoftware teams up with Microsoft to drive AI-powered offerings"
+    excerpt: "HCLSoftware has announced a collaboration with Microsoft to integrate Microsoft's Azure OpenAI Service into its software products, according to a release on Monday."
+    publishedDateTime: 2023-08-08T05:04:00Z
+    webUrl: "https://www.zeebiz.com/technology/news-hclsoftware-teams-up-with-microsoft-to-drive-ai-powered-offerings-247923"
+    ampWebUrl: "https://www.zeebiz.com/technology/news-hclsoftware-teams-up-with-microsoft-to-drive-ai-powered-offerings-247923/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-hclsoftware-teams-up-with-microsoft-to-drive-ai-powered-offerings-247923/amp"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 78
-  - title: "AWS to support Korean startups with Generative AI Accelerator"
-    excerpt: "Amazon Web Services (AWS) will help Korean AI startups grow with its Generative AI Accelerator, a program that combines powerful AI tools with business, technical mentors and experts, the global-leading cloud computing service provider said Tuesday."
-    publishedDateTime: 2023-08-08T06:52:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
+      name: Zee Business
+      domain: zeebiz.com
     quality: 74
     images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202308/01fe39d3e3a946b0bdd3a186fae09566.jpg"
-        width: 980
-        height: 598
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
+        width: 700
+        height: 394
         isCached: true
-  - title: "Protecting data in the era of generative AI: Nightfall AI launches innovative security platform"
-    excerpt: "Nightfall AI's platform is the first data loss prevention (DLP) platform that scales across the three top threat vectors CISOs need the most help securing when generative AI and ChatGPT are in use across their organizations."
-    publishedDateTime: 2023-08-04T22:03:00Z
-    webUrl: "https://venturebeat.com/security/protecting-data-in-the-era-of-generative-ai-nightfall-ai-launches-innovative-security-platform/"
+  - title: "Microsoft announces Bing AI coming to Safari and Chrome"
+    excerpt: "Marking six months since the launch of its ChatGPT-like AI app, Microsoft has announced that it is bringing the technology to browsers such as Safari, \"soon.\""
+    publishedDateTime: 2023-08-07T17:03:00Z
+    webUrl: "https://appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome"
+    ampWebUrl: "https://appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vector_art_of_a_double_helix_spiral_made_of_glowing__0635169d-fcb5-425e-b8b1-27d569da5f8d.png?w=1200&strip=all"
-        width: 858
-        height: 686
+      - url: "https://photos5.appleinsider.com/gallery/55775-113306-000-lead-Bing-xl.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "AWS Turbocharges Foundation Models With Smart AI Agents"
-    excerpt: "Goodson discusses AWS's recently announced AI capability that adds key functionality to its foundation models."
-    publishedDateTime: 2023-08-04T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/08/04/aws-turbocharges-foundation-models-with-smart-ai-agents/"
+  - title: "Microsoft Shares Guidance and Resources for AI Red Teams"
+    excerpt: "Microsoft has shared guidance and resources from its AI Red Team program to help organizations and individuals with AI security."
+    publishedDateTime: 2023-08-08T09:04:00Z
+    webUrl: "https://www.securityweek.com/microsoft-shares-guidance-and-resources-for-ai-red-teams/"
+    ampWebUrl: "https://www.securityweek.com/microsoft-shares-guidance-and-resources-for-ai-red-teams/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/microsoft-shares-guidance-and-resources-for-ai-red-teams/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-  - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
-    excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
-    publishedDateTime: 2023-08-08T11:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pioneering-trucking-industry-learning-with-artificial-intelligence-1032528295"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Using Generative AI To Connect Lab To Fab Test"
-    excerpt: "Executive Insight: Thomas Benjamin, CTO at National Instruments, sat down with Semiconductor Engineering to discuss a new way of look at test, using data as a starting point and generative AI as bridge between different capabilities."
-    publishedDateTime: 2023-08-08T07:05:00Z
-    webUrl: "https://semiengineering.com/using-generative-ai-to-connect-lab-to-fab-test/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 41
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 74
     images:
-      - url: "https://semiengineering.com/wp-content/uploads/wafer-AdobeStock_472655944.jpeg?fit=1200%2C825&ssl=1"
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
         width: 1200
-        height: 825
+        height: 675
         isCached: true
-  - title: "Cyient sets up CoE to power engineering with Generative AI"
-    excerpt: "Cyient & Microsoft partner to set up CoE EnGeneer to drive engineering innovation using Generative AI. CoE to integrate new Generative AI capabilities into existing solutions, CyFast & CyArc. OpenAI & Generative AI technologies to be used across all Cyient platform solutions."
-    publishedDateTime: 2023-08-08T04:18:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece/amp/"
+  - title: "Microsoft’s AI Red Team Has Already Made the Case for Itself"
+    excerpt: "Since 2018, a dedicated team within Microsoft has attacked machine learning systems to make them safer. But with the public release of new generative AI tools, the field is already evolving."
+    publishedDateTime: 2023-08-07T17:51:00Z
+    webUrl: "https://www.wired.com/story/microsoft-ai-red-team/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
-  - title: "Efficiently grow with predictive artificial intelligence engagement modeling"
-    excerpt: "In an industry first, Alkami is now leveraging artificial intelligence (AI) predictive modeling to help financial institutions identify highly engaged"
-    publishedDateTime: 2023-08-03T21:01:00Z
-    webUrl: "https://www.cuinsight.com/efficiently-grow-with-predictive-artificial-intelligence-engagement-modeling/"
+      name: Wired
+      domain: wired.com
+    quality: 64
+  - title: "Microsoft introduces new managed VMs for AI applications"
+    excerpt: "Microsoft has introduced the ND H100 v5 Virtual Machine series, giving enterprises an enhanced infrastructure for training and running generative AI"
+    publishedDateTime: 2023-08-08T11:13:00Z
+    webUrl: "https://www.techzine.eu/news/devices/109791/microsoft-introduces-new-managed-vms-for-ai-applications/"
     type: article
     provider:
-      name: CUInsight
-      domain: cuinsight.com
-    quality: 34
+      name: techzine
+      domain: techzine.eu
+    quality: 56
     images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2023/06/bigstock-Ai-Smart-Manufacturing-And-Hit-470991649.jpg"
-        width: 1000
-        height: 500
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/04/Chat-GPT-2-scaled.jpg"
+        width: 2560
+        height: 1334
         isCached: true
-  - title: "Dell announces generative AI solutions"
-    excerpt: "The company is offering a range of generative AI solutions across its hardware, software, and services offerings."
-    publishedDateTime: 2023-08-07T12:34:00Z
-    webUrl: "https://www.networkworld.com/article/3704209/dell-announces-generative-ai-solutions.html"
+  - title: "Leidos Announces AI Collaboration With Microsoft"
+    excerpt: "The collaboration aims to accelerate artificial intelligence transformation for new and existing customers in the public sector."
+    publishedDateTime: 2023-08-04T10:41:00Z
+    webUrl: "https://www.hstoday.us/industry/industry-news/leidos-announces-ai-collaboration-with-microsoft/"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 19
-  - title: "Sivi AI: Pioneering the Design Revolution With Generative AI"
-    excerpt: "In the fast-paced world of digital marketing and content creation, visuals play a pivotal role in capturing audience attention and conveying brand messages effectively. As the demand for captivating designs grows,"
-    publishedDateTime: 2023-08-07T18:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33607119/sivi-ai-pioneering-the-design-revolution-with-generative-ai"
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 54
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/07/artificial-intelligence-4478109_1920.jpg"
+        width: 1920
+        height: 784
+        isCached: true
+  - title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
+    excerpt: "Business Wire India HCLSoftware, a leading software provider, announced a collaboration with Microsoft to integrate Microsoft’s Azure OpenAI Serv"
+    publishedDateTime: 2023-08-08T04:57:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2023/08/08/dcm8-hclsoftware.html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/08/08/dcm8-hclsoftware.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/08/08/dcm8-hclsoftware.amp.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
-  - title: "As Gen AI Explodes, Will Legal Tech Companies Get More Aggressive Protecting Company Secrets?"
-    excerpt: "Some legal tech organizations are rethinking their employment contractions in the face of the competition fueled by generative AI. Still, experts told Legaltech News they expect to see more litigation around employment contracts going forward."
-    publishedDateTime: 2023-08-03T19:56:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/03/as-gen-ai-explodes-will-legal-tech-companies-get-more-aggressive-protecting-company-secrets/"
+      name: The Week
+      domain: theweek.in
+    quality: 53
+  - title: "Microsoft says AI-powered Bing Chat will come to more mobile browsers soon, but it’ll be worse"
+    excerpt: "Microsoft has revealed that it is planning to launch its AI assistant Bing Chat on third-party mobile browsers \"soon.\""
+    publishedDateTime: 2023-08-07T16:37:00Z
+    webUrl: "https://bgr.com/tech/microsoft-says-ai-powered-bing-chat-will-come-to-more-mobile-browsers-soon-but-itll-be-worse/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 6
+      name: BGR
+      domain: bgr.com
+    quality: 42
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/05/bing-chat-gpt-4-free-visual-results.jpg?quality=82&strip=all"
+        width: 1600
+        height: 879
+        isCached: true
+  - title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
+    excerpt: "\"Working together, we will combine our AI expertise to create AI-fueled offerings that will enable businesses to further automate and scale their processes and make informed decisions based on data-driven insights,"
+    publishedDateTime: 2023-08-07T14:05:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/07/9860278.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
+    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
+    publishedDateTime: 2023-08-04T12:42:00Z
+    webUrl: "https://www.inferse.com/668303/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 31
 
 secured: "7vANRvDGBW+Sv4XypTwazvQwyIJ+htWjFSRpTbe1STwIDBlic8orrjj4dnpGYt9+K2cNp0KTzfQRkgut8PiLk91ezbrDa1n7ZVtcU5k3ao2B9ME7VTPigv0kV4qcdO+YNuykZtWgWkWGF2DAXZ0WuZOZ90vp1R6sdbCDrHOT+IbbSnWNy7m3JIMv91BjE+iAqCg52y05vxv8q/LHxlv9iPYWafVzKbFQFyFsdT3GO2PDBqJ/c5vCE/vF2ckMvohQyTUQbbLn/uz36ydwF8IfTdLWMxnZnsveJVtWQN4a45zM+xvu4aQdKpaHj3mEWGScGU0QTkOPkV0u/TGEQUrPl9z6t4DFMrs8ljKRGkEZpNs=;6DOYQHu38ttvqoylZeYNqg=="
 ---
