@@ -23,17 +23,6 @@ images:
     height: 1368
     isCached: true
 
-related:
-  - title: "People are becoming more robotic — and AI could make it worse"
-    excerpt: "The idea, proposed by computer science pioneer Alan Turing, is to determine whether a chatbot can behave \"humanly\" enough that a judge can't distinguish between it and a real person. ChatGPT and other advances in generative AI have persuaded many experts that the Turing test is now outmoded."
-    publishedDateTime: 2023-08-03T10:00:00Z
-    webUrl: "https://www.axios.com/2023/08/03/cyborg-society-people-machines-ai"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 34
-
 secured: "YdHjO1UONgZqGRemA+DwCCjyQM6Kb6gKe9Vc1q29o1hHOCx3MFNR7HbvsxlP8Jvwe68vguSbTOyaaggQ0wieVgkvz3gGWJroBycErtOaKDxz3NTaRqHhS2+DMaziiE5D5xa1yqIfZ+RI5/4rXaghaV8dGu1R9m4EtGDIx8/lv/1C3tXhiuSzRJrS/SDjzDg+SrsudWj+6KluNxlBKz74GARWbnAtGL/ZwJLeC2CzfmjOHYjMx36s7MXnBhPbOskXEdq4Dek0NTHp4GXXDTFB+S8IPPB2tYYxjz/zz1HAiQviB86RnEicBZd5puz4PbM74pYNUo9oY1Z7Nkl8/8XmevYV43D3JuGsGg9Je9yt33U=;hjjqu7aeoj58AB3qtDOWCQ=="
 ---
 

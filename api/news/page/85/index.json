@@ -2,6 +2,58 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2023-06-13-how-brainpad-fosters-internal-knowledge-sharing-with-amazon-kendra.md",
+      "title": "How BrainPad fosters internal knowledge sharing with Amazon Kendra",
+      "excerpt": "This post discusses how to structure internal knowledge sharing using Amazon Kendra and AWS Lambda and how Amazon Kendra solves the obstacles around knowledge sharing many companies face.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-brainpad-fosters-internal-knowledge-sharing-with-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-brainpad-fosters-internal-knowledge-sharing-with-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/brainpad-kendra.jpg",
+          "width": 1020,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T10:14:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-aws-inferentia2-builds-on-aws-inferentia1-by-delivering-4x-higher-throughput-and-10x-lower-latency.md",
       "title": "AWS Inferentia2 builds on AWS Inferentia1 by delivering 4x higher throughput and 10x lower latency",
       "excerpt": "The size of the machine learning (ML) models––large language models (LLMs) and foundation models (FMs)––is growing fast year-over-year, and these models need faster and more powerful accelerators, especially for generative AI. AWS Inferentia2 was designed from the ground up to deliver higher performance",
@@ -1165,49 +1217,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-artificial-intelligence-could-turn-human-contact-into-a-prerogative-of-the-wealthy.md",
-      "title": "Artificial intelligence could turn human contact into a prerogative of the wealthy",
-      "excerpt": "(Photo by Matthew Horwood/Getty Images) Artificial intelligence won’t destroy our ... agent’ that offers users Cognitive Behavioural Therapy (CBT). The app’s CEO claims it has tens of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/artificial-intelligence-could-turn-human-contact-into-a-prerogative-of-the-wealthy/",
-      "originalUrl": "https://www.cityam.com/artificial-intelligence-could-turn-human-contact-into-a-prerogative-of-the-wealthy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2023/06/city-A.M-2023-06-12T165703.298-e1686585439321.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

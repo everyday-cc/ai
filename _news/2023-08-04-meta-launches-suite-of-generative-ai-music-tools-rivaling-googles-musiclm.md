@@ -55,6 +55,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Meta unveils AI audio and music generator"
+    excerpt: "Meta’s AudioCraft is made up of three separate AI models: MusicGen, AudioGen and EnCodec. MusicGen exists for music generation and was trained with “Meta-owned” and specifically licensed music, while AudioGen specialises in audio generation and was trained on public sound effects."
+    publishedDateTime: 2023-08-08T03:22:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/meta-unveils-ai-audio-and-music-generator-.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/woman%20creating%20music.jpg"
+        width: 999
+        height: 562
+        isCached: true
 
 secured: "g3XCwrhV07Z4e7x4k5Y5ev4PoMdZtyHRWwRHtGcwpt8pRnIrj2EkmQvhNEw7o30lVzKeotQ4q7pE83l6LLHcfCDD0uIVRzuXvN4Bs4kn1RGsy37tWsdERMXxgcF2Gi0uDtgJ2XYRJLEsv5g0zkDYx3R9ONLDoHHVVN4dKhyXibESYI+/GMGJGypzfcxrvrvYvBi6uGDJE28N4GhZze0hS+SUzN4kzIhUeSp53hw/m6psPjwI+ZiZrQrghYQSCPMehI+xU0zyZ20GFExx0dtXVr7e6Mlr+UObVQQ7E+IhwVXmRkBbOMmMlNAlUeSNCAt6LXjv1D/NlfEArJNOEyrFUwq06Kbpbgdv7ZbH5re/9m1N8KzXGGElEu0w4LpCpWkxKqMuvFVPOwYES17/r6crzmzrbCPOOTPgeurErzZHoYbOBShZxLg113mdfF1BPJqD+OQbH1cKYFnE4MRd5Um4Rx/BT2Y7cyjYvUKOrUHTFPiIb8nuQY9rcg7P5k+jIWsr1fOPtnhG7xzBi6Yj3795VA==;9UuwzVOxYZ0vEIaTePxVTQ=="
 ---

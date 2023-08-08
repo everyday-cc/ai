@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356500"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356500"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip developer gets $100 million from Samsung and Hyundai"
-    excerpt: "The investments come as the AI chip market is currently dominated by Nvidia, who has the most powerful chips available to developers, and companies like Tenstorrent are seeking to take a share."
-    publishedDateTime: 2023-08-03T10:54:00Z
-    webUrl: "https://cointelegraph.com/news/ai-chip-developer-gets-100-million-from-samsung-and-hyundai"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 54
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvZWI0NTZkZmQtNjJmMi00YWMzLWFiYjUtODdlODgwNzI2Y2Q2LmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "China at major risk of losing global memory chip, AI race"
     excerpt: "China may lag behind in the global memory chip and artificial intelligence (AI) race amid Beijing's restriction on US-based Micron Technology and export sanctions by Joe Biden administration on American companies on sharing tech with China,"
     publishedDateTime: 2023-08-06T09:27:00Z

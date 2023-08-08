@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/"
 type: article
 quality: 100
-heat: 180
+heat: 170
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/42190d38ade8b2297bf2f0e63f4439bee821301e/hub/2023/02/10/62e99904-1127-458c-8fdf-cf9018b816b7/20230207-bing-logo-01.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft, Duke Health partner on AI efforts, create innovation lab"
-    excerpt: "Duke Health is embarking on a five-year, innovative partnership with Microsoft aimed at responsibly and ethically harnessing the potential of generative artificial intelligence (AI) and cloud technology to redefine the health care landscape."
-    publishedDateTime: 2023-08-03T10:28:00Z
-    webUrl: "https://wraltechwire.com/2023/08/03/microsoft-duke-health-partner-on-ai-efforts-create-innovation-lab/"
-    ampWebUrl: "https://wraltechwire.com/2023/08/03/microsoft-duke-health-partner-on-ai-efforts-create-innovation-lab/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/03/microsoft-duke-health-partner-on-ai-efforts-create-innovation-lab/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 74
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/03/arseny-togulev-MECKPoKJYjM-unsplash-e1679482039960.jpg"
-        width: 7753
-        height: 4353
         isCached: true
   - title: "Microsoft announces Bing AI coming to Safari and Chrome"
     excerpt: "Marking six months since the launch of its ChatGPT-like AI app, Microsoft has announced that it is bringing the technology to browsers such as Safari, \"soon.\""

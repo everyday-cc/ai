@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Nvidia allegedly halts RTX 40 series GPU production"
-    excerpt: "Nvidia has paused gaming GPU production, according to leaks, and is stopping distributors from passing existing RTX 4000 models to retailers."
-    publishedDateTime: 2023-08-03T10:38:00Z
-    webUrl: "https://www.pcgamesn.com/nvidia/rtx-4000-gpu-production"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 39
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/08/nvidia-rtx-4000-gpu-production.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "4iTWt3gxlUKhUqIT5G2W8UKIyYVYQuqUoMv9zAC15N1oKNAnfNIU6n5eV1yYGe7+/1+rIvahZa/D6e9TCGtV/NFukGo+l4xf22bFwsr9jx1ooMspPV7SrQ0NSAh8bJNlb2Vu9+B/mJc2xWvMO2Hdmo+44KgK1hNdrekNJmT9YLBR1WSZdYxseB6ozwpRvjzDrJXzh9E/nfIBgRUFPKg3vqDohnojKhqoB6vSIJ6/LF4RfaFeavvbrpLaV7gv8X/ld62ieDhNOHktOFQf4IYk3kJG0yRWDGU6KJkhhRwJffogvvN1RWM40RaEZPCr9OHp0tTQJvgRLjky+nDSehkPXxAyVbSSbEHw5AEnZUhdtHUAte+nXSJvMh+4SifsuwhKzQteaIIvxViGI81oFzXVO3TbCYs//3X2G27eSv45dOpxQ18LMYxjkc+zECfETehzu42cUyD48QZZ9zUo8QayghdHY0j+Kb17XvMBGG21v78UD3E/yx6pSeyQngmz/y5Zm0OB0OJqhJOSKszHgQMgIw==;s1+3Uld4ezfxX2/gDMocsA=="
 ---

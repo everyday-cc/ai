@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-sho
 webUrl: "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-shortage-but.html"
 type: article
 quality: 72
-heat: 102
+heat: 94
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2022/11/15/RTX-4080-Founders-Edition-power.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Nvidia allegedly halts RTX 40 series GPU production"
-    excerpt: "Nvidia has paused gaming GPU production, according to leaks, and is stopping distributors from passing existing RTX 4000 models to retailers."
-    publishedDateTime: 2023-08-03T10:38:00Z
-    webUrl: "https://www.pcgamesn.com/nvidia/rtx-4000-gpu-production"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 39
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/08/nvidia-rtx-4000-gpu-production.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "n0GaNSXVsDRVEpdJCLbWkFDhDIdVzgtE8hosTpoIVP1XOMqe8UyZ5pJY7Wl44W8bgRFraENU4w2Scg2MPI8Qr6k6W5w+P8pHsVpx34J56UTIxvxpl8UfSAQqNEU39fqb83Z7X5qA4BeakAKVDF+Mqmo/cP+sG9I5TSTWH0kmBVHbtnzyZoWT63X5gkTqMB3CnNTMTFDTCWvQBdx3LnYKdW27Lj5TrTo2DgGhE2s7mOdNKVV83Rr+gTAWSYjIY2ACYwdzlgF/gonNxsfq1vG5XFQEqv+MeITIOGKdH+1MXSuRxxuUN7wfINDS4puUkBAoCGta4SaS+lg4vj7VLQiB61kO1HgCxQL9N4xWPaHKLYZbT/cBk+53881HZBf1rO1LB2oHz5xJvhZhKfrgQ5VNjiNHfO0t3m2fbo78Jmu3Ckm+KLqqGygJJIlUnlEIZvuu8/nSid3NaY5Kx/aKqcVB/bNr3dksg6ovmiwz/hycQwY5QYdgb/rBxySh8KkeulFGNsCEsUPAxJd4XyED1t8BBQ==;uKls3DYauLy4yVDZqlq0QA=="

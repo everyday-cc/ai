@@ -102,17 +102,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Anthony Albanese and Peter Dutton traded barbs over an Indigenous voice to parliament"
-    excerpt: "Peter Dutton has accused Anthony Albanese of “deliberately and willingly” withholding information on an Indigenous voice to parliament, as he attempts to ratchet up the No case by demanding detail on the voice,"
-    publishedDateTime: 2023-08-03T10:12:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 17
   - title: "Alice Springs gripped by crime spree targeting airport, university and nursing home - as Anthony Albanese and his Voice 'Yes' campaigners enjoyed the $5,000-per-person Garma ..."
     excerpt: "The form of constitutional recognition they are asking for is a Voice, not our sympathy, not a symbol, but a vehicle for progress,' he told the crowd. 'A practical tool to make their children's lives better. Not just something that will feel good ..."
     publishedDateTime: 2023-08-07T11:18:00Z

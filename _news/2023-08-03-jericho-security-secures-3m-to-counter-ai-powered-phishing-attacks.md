@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 695
         isCached: true
+  - title: "Bringing Artificial Intelligence into the classroom"
+    excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
+    publishedDateTime: 2023-08-08T02:40:00Z
+    webUrl: "https://www.fox13news.com/video/1260378"
+    ampWebUrl: "https://www.fox13news.com/video/1260378.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1260378.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 37
 
 secured: "t3HQHH7a88kb/UaeWcV9L7XHlkFNIqB9mFVkF63hBc/jVFptuQ43ixQETs+b9Kat5qEMMA1q566Hcq3kPJxlwV8DGsVldX7zvlPJdaKtL/gEW7O5ZhbaErmeINucG2EaI3UeLaqsbpqsKbtQ94jJzIb25wtM4yzT/MdXGtNvlnVJEUVA/BxEz4o2+PjX64WLZ6sS38qumKWY7JgeDzVOqn7XetYqfwOc6QfifnzwpcFOO9Wvd84eAiBDPnHyMFojwni/w8sAuDaoyA4IE7BeXWjGiyZiDQbgAwFTPoDkC6Sl104N8Kdndr/30JL2ySKZX9BttyPrXK82O3SZeTaMQ/kGusRPfBLS8e20chsRrLU=;t2MsLJ6C5+ieRPJaSiYWug=="
 ---

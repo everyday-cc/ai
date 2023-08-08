@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft, Duke Health partner on AI efforts, create innovation lab"
-    excerpt: "Duke Health is embarking on a five-year, innovative partnership with Microsoft aimed at responsibly and ethically harnessing the potential of generative artificial intelligence (AI) and cloud technology to redefine the health care landscape."
-    publishedDateTime: 2023-08-03T10:28:00Z
-    webUrl: "https://wraltechwire.com/2023/08/03/microsoft-duke-health-partner-on-ai-efforts-create-innovation-lab/"
-    ampWebUrl: "https://wraltechwire.com/2023/08/03/microsoft-duke-health-partner-on-ai-efforts-create-innovation-lab/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/03/microsoft-duke-health-partner-on-ai-efforts-create-innovation-lab/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 74
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/03/arseny-togulev-MECKPoKJYjM-unsplash-e1679482039960.jpg"
-        width: 7753
-        height: 4353
-        isCached: true
   - title: "Microsoft’s AI Red Team Has Already Made the Case for Itself"
     excerpt: "Since 2018, a dedicated team within Microsoft has attacked machine learning systems to make them safer. But with the public release of new generative AI tools, the field is already evolving."
     publishedDateTime: 2023-08-07T17:51:00Z

@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip maker Tenstorrent raises $100 million from Hyundai and Samsung"
-    excerpt: "Tenstorrent closes $100M up-round led by Hyundai Motor Group and Samsung Catalyst Fund to accelerate AI chip and ML software development. Funding will help the company design and develop AI chiplets and strengthen Hyundai Motor Group's capabilities in AI tech."
-    publishedDateTime: 2023-08-03T10:40:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung/article67153601.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung/article67153601.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung/article67153601.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 54
   - title: "Hyundai Motor Group Announces Partnership with Canada’s Tenstorrent AI Chip Company"
     excerpt: "Hyundai Motor revealed it joined forces with a Canadian AI chip manufacturing startup, Tenstorrent. The South Korean automaker said it has invested in the Toronto-based artificial intelligence semiconductor company so"
     publishedDateTime: 2023-08-04T06:46:00Z
@@ -49,20 +38,6 @@ related:
       - url: "https://f1.econotimes.com/2023/08/gqscobi7ey_th_1024x0.jpeg"
         width: 1024
         height: 684
-        isCached: true
-  - title: "AI and RISC-V chip company Tenstorrent raises $100m from Hyundai, Kia, and Samsung"
-    excerpt: "AI chip company Tenstorrent has raised $100 million from investors including Hyundai Motor Group, Kia, and a Samsung investment fund."
-    publishedDateTime: 2023-08-03T10:31:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/ai-and-risc-v-chip-company-tenstorrent-raises-100m-from-hyundai-kia-and-samsung/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 48
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/tenstorrent.2e16d0ba.fill-1200x630.png"
-        width: 807
-        height: 425
         isCached: true
   - title: "Samsung, Hyundai back AI startup Tenstorrent: Everyone wants competition to Nvidia, says CEO Keller"
     excerpt: "Nvidia's GPUs are not the end-game for AI, says Keller. \"When the aliens land, I don't think they'll be asking us did we invent CUDA.\""

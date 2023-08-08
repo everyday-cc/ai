@@ -2,6 +2,40 @@
   "page": 185,
   "value": [
     {
+      "path": "_news/2023-04-09-interview-investment-expert-colin-clark-on-his-move-into-ai-harnessing-fintech.md",
+      "title": "Interview: investment expert Colin Clark on his move into AI-harnessing fintech",
+      "excerpt": "The executive was in fact in October last year named chairman of the newly formed board of Edinburgh-based artificial intelligence (AI) fintech business Aveni, which specialises in natural ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scotsman.com/business/interview-investment-expert-colin-clark-on-his-move-into-ai-harnessing-fintech-4090978",
+      "originalUrl": "https://www.scotsman.com/business/interview-investment-expert-colin-clark-on-his-move-into-ai-harnessing-fintech-4090978",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-09T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Scotsman",
+        "domain": "scotsman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-09-build-your-own-selfie-drone-with-computer-vision.md",
       "title": "Build Your Own Selfie Drone With Computer Vision",
       "excerpt": "Yes, all the processing for the selfie drone happens on a non-flying computer, because computer vision takes processing power and battery life. The software comes from CMU’s OpenPose library ...",
@@ -978,49 +1012,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-machine-learning-may-play-a-role-in-building-energy-models.md",
-      "title": "Machine learning may play a role in building energy models",
-      "excerpt": "More than 40% of all U.S. energy use and greenhouse gas emissions are associated with the building sector. A study from Florida Tech researchers is exploring whether machine learning can help reduce this environmental impact.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-machine-play-role-energy.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-machine-play-role-energy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-may-p.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-04-machine-play-role-energy.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-machine-play-role-energy.amp",
-      "publishedDateTime": "2023-04-07T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

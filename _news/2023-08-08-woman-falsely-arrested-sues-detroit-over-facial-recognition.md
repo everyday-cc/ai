@@ -88,14 +88,14 @@ related:
   - title: "Carjacking case arrest spurs call for police to end facial recognition"
     excerpt: "A Detroit woman is suing the city and a police officer, saying she was falsely arrested when she was eight months pregnant and accused of a carjacking based on facial"
     publishedDateTime: 2023-08-07T23:42:00Z
-    webUrl: "https://www.gjsentinel.com/news/national/carjacking-case-arrest-spurs-call-for-police-to-end-facial-recognition/video_93a0c8dc-75b8-539b-a16b-3e254c4fccae.html"
+    webUrl: "https://www.messenger-inquirer.com/news/national/carjacking-case-arrest-spurs-call-for-police-to-end-facial-recognition/video_f8ef52d2-90f1-5c37-968e-d7fdf593afa3.html"
     type: article
     provider:
-      name: The Grand Junction Daily Sentinel
-      domain: gjsentinel.com
+      name: Messenger-Inquirer
+      domain: messenger-inquirer.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/9/3a/93a0c8dc-75b8-539b-a16b-3e254c4fccae/64d18c8bc3f66.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/f/8e/f8ef52d2-90f1-5c37-968e-d7fdf593afa3/64d18cd7cbe35.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -143,6 +143,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Third person sues Detroit Police over false arrest based on facial recognition"
+    excerpt: "Police arrested Porcha Woodruff, a 32-year-old Black woman, for robbery and carjacking based off a facial recognition hit from surveillance footage. But Woodruff didn't do it, and critics say this is more proof the technology is flawed,"
+    publishedDateTime: 2023-08-08T01:25:00Z
+    webUrl: "https://www.michiganradio.org/criminal-justice-legal-system/2023-08-07/third-person-sues-detroit-police-over-false-arrest-based-on-facial-recognition"
+    type: article
+    provider:
+      name: Michigan Radio
+      domain: michiganradio.org
+    quality: 35
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/d9d3889/2147483647/strip/true/crop/959x503+0+43/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fmichigan%2Ffiles%2F201908%2Ffacial_recognition_dawson.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "All Cases of Mistaken Facial Recognition Arrests Have Targeted Black Individuals"
     excerpt: "For a long time, different groups that care about people’s rights, technology experts, and people who work to bring about social change have warned about how facial recognition technology could worsen existing racial inequalities in law enforcement."
     publishedDateTime: 2023-08-07T08:11:00Z
@@ -185,6 +199,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Detroit police in deep water after arresting pregnant black woman due to facial recognition error"
+    excerpt: "Detroit police in deep water after arresting pregnant black woman due to facial recognition error - SiliconANGLE"
+    publishedDateTime: 2023-08-08T02:45:00Z
+    webUrl: "https://siliconangle.com/2023/08/07/detroit-police-deep-water-arresting-pregnant-black-woman-due-facial-recognition-error/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/chris-curry-HowMXqv-ty4-unsplash.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Woman files lawsuit, claims 'faulty' DPD facial recognition hit prompted her false arrest"
     excerpt: "Woman, who says she was arrested while she was pregnant, claims 'pattern of racial discrimination' in how DPD uses technology"
     publishedDateTime: 2023-08-06T16:52:00Z
@@ -221,6 +249,20 @@ related:
       - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Detroit police in deep water after using erroneous facial recognition to arrest pregnant black woman"
+    excerpt: "Detroit police in deep water after using erroneous facial recognition to arrest pregnant black woman - SiliconANGLE"
+    publishedDateTime: 2023-08-08T02:51:00Z
+    webUrl: "https://siliconangle.com/2023/08/07/detroit-police-deep-water-using-erroneous-facial-recognition-arrest-pregnant-black-woman/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/chris-curry-HowMXqv-ty4-unsplash.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Pregnant Woman’s False Arrest in Detroit Shows “Racism Gets Embedded” in Facial Recognition Technology"
     excerpt: "A shocking story of wrongful arrest in Detroit has renewed scrutiny of how facial recognition software is being deployed by police departments, despite major flaws in the technology. Porcha Woodruff was arrested in February when police showed up at her house accusing her of robbery and carjacking."

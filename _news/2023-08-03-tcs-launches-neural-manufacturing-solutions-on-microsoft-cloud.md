@@ -49,20 +49,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
-    excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services"
-    publishedDateTime: 2023-08-03T09:35:00Z
-    webUrl: "https://menafn.com/1106777028/KPMG-and-Microsoft-enter-landmark-agreement-to-put-AI-at-the-forefront-of-professional-services"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 44
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/03/pr_56_06b2169c_image_story.jpg"
-        width: 1024
-        height: 1536
-        isCached: true
 
 secured: "b2JrAmeKKM1EX3kvxpkFQYYte1aX5HhGBPgZ+XDM3/YGLSqqeshdgux9MD1iYNyO442uR03cI+LmoM6I+lCbey8n2rVYbLuG/A8cESCclCEXPyIpkkYIXwZVj7e3ntmYWr9tKhTFthaQryKaPqJ5aXV5S68mFJzq9B2bZujQO0dIQv2UKPn1TfdGpa0acdsfPfwtY9qOPmfBCh9LhxshoZ7wlFIoOFB2563HXYhGXb2mRkO/hWxyOyDvvW2sGm+PIqGuc/DIzrXp9ykElCR2AGSxQtS+IVGmTfvKCvwTZhbjaEkKrmaJAaKX1xvHstTw2o0SFGXgTkWgMOlLRNbPTxDABHqRivr9NvvVsPnDXaA=;Nt2vkcVGjB/7IMI4HDkM/A=="
 ---

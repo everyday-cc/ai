@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/07/authors-ai-prosecraft/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/07/authors-ai-prosecraft/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 100
 published: true
 
 provider:

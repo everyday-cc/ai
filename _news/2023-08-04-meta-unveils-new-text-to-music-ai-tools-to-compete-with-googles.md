@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-new-text-to-mu
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://news.usni.org/wp-content/uploads/2020/08/Artificial-intelligence-155161_1280.png"
         width: 600
         height: 600
+        isCached: true
+  - title: "Meta unveils AI audio and music generator"
+    excerpt: "Meta’s AudioCraft is made up of three separate AI models: MusicGen, AudioGen and EnCodec. MusicGen exists for music generation and was trained with “Meta-owned” and specifically licensed music, while AudioGen specialises in audio generation and was trained on public sound effects."
+    publishedDateTime: 2023-08-08T03:22:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/meta-unveils-ai-audio-and-music-generator-.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/woman%20creating%20music.jpg"
+        width: 999
+        height: 562
         isCached: true
   - title: "Meta launches suite of generative AI music tools rivaling Google’s MusicLM"
     excerpt: "According to the tech giant, as it continues to develop new controls for the Ai music tools it believes MusicGen can become a new type of instrument."

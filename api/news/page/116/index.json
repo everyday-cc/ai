@@ -2,6 +2,58 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2023-05-23-ai-startups-outpace-others-in-securing-funding-from-vcs.md",
+      "title": "AI startups outpace others in securing funding from VCs",
+      "excerpt": "Sponsored Jobs Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More While fintech has enjoyed the largest stake of funding in recent years it seems to be losing its luster — in 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/",
+      "originalUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/dev-team-e1644869815394.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/amp/",
+      "publishedDateTime": "2023-05-23T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-hear-how-sensiai-is-building-ai-for-remote-patient-monitoring.md",
       "title": "Hear how Sensi.AI is building AI for remote patient monitoring",
       "excerpt": "Remotely monitoring patients without violating their privacy is a challenging task. But one co-founder believes that she's cracked the code.",
@@ -1181,57 +1233,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date.md",
-      "title": "AI News: 6 Sources Entrepreneurs Can Use To Stay Up To Date",
-      "excerpt": "With so many updates and shiny objects, how do you know which to explore in more detail? Here are six sites to bookmark, to stay up to date with the latest news in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646c6c08f0d5bccf7b2cbccf/0x0.jpg?format=jpg&crop=2496,1403,x0,y129,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/amp/",
-      "publishedDateTime": "2023-05-23T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

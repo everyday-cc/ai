@@ -86,17 +86,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
-  - title: "Anthony Albanese and Peter Dutton traded barbs over an Indigenous voice to parliament"
-    excerpt: "Peter Dutton has accused Anthony Albanese of “deliberately and willingly” withholding information on an Indigenous voice to parliament, as he attempts to ratchet up the No case by demanding detail on the voice,"
-    publishedDateTime: 2023-08-03T10:12:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 17
   - title: "A 'Voice'... without 'Treaty' or 'Truth': Why Anthony Albanese isn't talking about what happens if 'Yes' wins the referendum"
     excerpt: "Anthony Albanese has been calling for First Nations recognition and reconciliation under the collective slogan of 'Voice, Treaty, Truth' his entire adult life. In 1986, as a 23-year-old Labor activist on the rise, he signed off on a letter demanding ..."
     publishedDateTime: 2023-08-06T00:48:00Z
