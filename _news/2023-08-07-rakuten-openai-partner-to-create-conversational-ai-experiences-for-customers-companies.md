@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/32938-rakuten-ope
 webUrl: "https://www.thefastmode.com/technology-solutions/32938-rakuten-openai-partner-to-create-conversational-ai-experiences-for-customers-companies"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 752
     height: 408
     isCached: true
-
-related:
-  - title: "OpenAI's Former Domain AI.com Now Directs to Elon Musk's AI Company"
-    excerpt: "The domain AI.com once took users to OpenAI's ChatGPT. Now, it's apparently changed hands, and redirects to Elon Musk's AI project, xAI."
-    publishedDateTime: 2023-08-07T08:06:00Z
-    webUrl: "https://futurism.com/the-byte/openais-domain-elon-musks-ai"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 37
-    images:
-      - url: "https://wp-assets.futurism.com/2023/08/openais-domain-elon-musks-ai.jpg"
-        width: 1200
-        height: 726
-        isCached: true
 
 secured: "UCfUOXkjCAe+vliLn/04F6FJmksxR4CZ1Te7xaGoPbUFOr3KwOJIKcoINojg4omH5XO4xTY9E23Jfqf1piFQQuz1Yb7+oiKhAYEqWnmaQ9oINVqoHTgLDu89mOauYqeHStBhfMaZMgn8Gsp8PyR0MOttt//GeiWST+KTbOlAj/7dqB6EEz9cSEzfb+cEzentNu7lWN84rxhceYSIYOZDj4AZSftXPqaJWdntXUjZHewzn+RgG9AYNDpCpcB7qzBXZjjVogyBcmGq7n6TkSfSb6tWvsd/wLgUXfRaH8YxVPMDOaMSp9vi03HKcyzCfC9aUbHgwZA5UndgM35MOgQxmE3Pf2dBrQEax2gJYpNzFbw=;z3XJ0Cu5ECJv8qF+MmfhvQ=="
 ---

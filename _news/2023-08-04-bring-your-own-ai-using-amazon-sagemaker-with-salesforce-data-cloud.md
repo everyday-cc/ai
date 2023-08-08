@@ -23,20 +23,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Scale training and inference of thousands of ML models with Amazon SageMaker"
-    excerpt: "Training and serving thousands of models requires a robust and scalable infrastructure, which is where Amazon SageMaker can help. SageMaker is a fully managed platform that enables developers and data scientists to build, train, and deploy ML models quickly, while also offering the cost-saving benefits"
-    publishedDateTime: 2023-08-03T15:05:18Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 118
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/21/ML_14247_001-982x630.jpg"
-        width: 982
-        height: 630
-        isCached: true
   - title: "Optimize data preparation with new features in AWS SageMaker Data Wrangler"
     excerpt: "Data preparation is a critical step in any data-driven project, and having the right tools can greatly enhance operational efficiency. Amazon SageMaker Data Wrangler reduces the time it takes to aggregate and prepare tabular and image data for machine learning (ML) from weeks to minutes. With SageMaker"
     publishedDateTime: 2023-08-04T15:25:07Z

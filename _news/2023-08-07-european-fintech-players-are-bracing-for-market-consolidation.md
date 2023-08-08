@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/european-fintech-players-bracing-marke
 webUrl: "https://thenextweb.com/news/european-fintech-players-bracing-market-consolidation-across-the-market"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Why FinTech Companies Are Increasingly Relying on IT and How"
+    excerpt: "In the last few years, the fintech sector has been going through a tremendous transformation due to the advancements in the IT industry. The fintech companies have entered the financial industry landscape with innovative solutions that revolutionize traditional banking and financial services."
+    publishedDateTime: 2023-08-08T06:35:00Z
+    webUrl: "https://techbullion.com/why-fintech-companies-are-increasingly-relying-on-it-and-how/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/FinTech-Companies-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Hong Kong tech firm, ASL, accelerates growth in fintech arena with Finastra"
     excerpt: "HONG KONG, Aug. 8, 2023 /PRNewswire/ -- Automated Systems Holdings Limited (ASL) (771.HK), a leading global IT solutions and services provider, has strategically partnered with Finastra, a global provider of financial software applications and marketplaces, to bolster its industry-specific DevSecOps business and strengthen its fintech trajectory."
     publishedDateTime: 2023-08-08T05:04:00Z
@@ -100,6 +114,6 @@ related:
         height: 267
         isCached: true
 
-secured: "Z0tCKgLc/U32BIo8LKcRJ+T0nIoDMu4YrNmxbSDunHw6gTzO8cYaFCjFmosfuDqbMXv/6g2bpQrMD2Kwey85ycLOci9AglWclT498K2GkaL22t9/1NFJf7w2PEwSrSRFOi5Gqxxp5hLueTRTfgBv+kGy9ic9ShDrPQ5KEfKNOz0kjlf4Dqzft4b1SJnrh48fjSHvCgOQcgkVsL0nbwMpl36Oq4nJgH3mdL3BeDDMI9LrIGB3/NDDJqETodQVZaRNs+RsXVDoNxwIBtPVqe5ua580PRZnA0W1fTdzk5/VMtiYmusRpADL9zgJqXDpkjFb4dhcYXP5ZBbv5OuCVCYaybEYoQQBBzskwimZ/mVCjPs=;zmZ3iYSYlEyvXjMZXB9V6A=="
+secured: "tlEWOsjjVmeN/xGpiH8c8A3zrp3GRWZQb1LeIoJ65vLneV2Gk/p6I2AfDTUz8NSxqUfDPQwKsJbMiuez0tDWStLPJMI3wY0ud78IhLd0WjLfnPjD1QmIim3VavSw/GbuxSa3/KjJ44KxDtee8qq9C39JcUi2LRM9gW1xYLFqUJDQIqom0MvyDjjGeUMI0XNbuXjSyZ7H7svpN2Temw8k2ZRNs2TqZ2j63DvWWCwU0KaNlRTLYXub7nlmL950QSAMc1wQ7gvRS0GG+Xe/uGOJELh4snnNI6mvyRmqUZgVrYQMsJI6A57hqNiDTLan2W5hcC5Y1+nwTMLTfaNwPW7lIAn6QVHN4hRA/3ktEh1gSNl3WI3ubxWTqOKKJmNcw4XH1HScihJPBRtkJQD30Cfi2LcNVvWPgdMQAneKpouspGpKIP+QlHgCJAx8QrOwxz/Ui3xIoR7fNW/Fg26Avjx/nvMa5FGdNxJJG5XLWOdLub2KGF5NvcSUEyTKkxCfBzOur+cLto/52JgshWCKaIWsCA==;eHLOpX8c51m/8vrfy+BFpw=="
 ---
 

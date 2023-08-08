@@ -24,20 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "What Are the Main Ethical Considerations in the Development and Implementation of AI Systems?"
-    excerpt: "Ariadna Navarro explores the ethics of AI systems and discusses transparency, boundaries, and education to harness AI's potential responsibly."
-    publishedDateTime: 2023-08-03T16:49:00Z
-    webUrl: "https://marketscale.com/industries/software-and-technology/what-are-the-main-ethical-considerations-in-the-development-and-implementation-of-ai-systems/"
+  - title: "Wizards of the Coast’s Dungeons & Dragons tells artists not to use AI"
+    excerpt: "Dungeons & Dragons, owned by Renton-based Wizards of the Coast, told artists to stop using the technology after social media questioning."
+    publishedDateTime: 2023-08-07T17:25:00Z
+    webUrl: "https://www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/?amp=1"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 43
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/08/shutterstock_2300796931.jpg"
-        width: 1000
-        height: 667
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "Dungeons & Dragons tells illustrators to stop using AI to generate artwork for fantasy franchise"
+    excerpt: "Dungeons & Dragons, owned by Renton-based Wizards of the Coast, told artists to stop using the technology after social media questioning."
+    publishedDateTime: 2023-08-07T17:25:00Z
+    webUrl: "https://www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
+  - title: "Dungeons & Dragons says its illustrators can't use AI after they discovered the tech was used for work featured in an upcoming book"
+    excerpt: "Dungeons & Dragons said they are updating their guidance around AI after discovering an artist had used the tech to generate work for a book."
+    publishedDateTime: 2023-08-07T11:49:00Z
+    webUrl: "https://www.businessinsider.com/dungeons-and-dragons-illustrators-cant-use-ai-for-art-commissions-2023-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
 
 secured: "B4IrykAl0uNBgMvXJo2u+gGSB5NotR9Zrg3RrS5nSYH0L+A+YycWcf/ONbXwUnIq+Jg9lNNbbHVLT/Ukxb2+xBIJSVSTVQk2LBCBG2eY1hrP5mSlLo6yTiph+OcMnMImKtILbS5+//7z7r1Elxnjx0ZZC2p0IMIaaPXXwNMZnB7gK2+RAvyAnAnDV0egrK0LCLwOYb6s1/Om26+/sYHq+kSNBZeMC9xeI/GYyAKEez8Pwq9LKDM3427XNTJbb3eUvafC/MmfRE47dOcijLBVu6PNfUQRqlWNXbjKh1YV0xJ4rL0wAM3LVzPLyxH9ac1k68gJitk0y4ks0IFAyySZ3Pi+y+EQhuqQLQ+GlLAAPhk=;e9ORLBe6alhe6rrw0AWl3g=="
 ---

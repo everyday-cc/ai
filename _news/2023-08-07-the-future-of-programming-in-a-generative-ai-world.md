@@ -107,6 +107,20 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "Using Generative AI To Connect Lab To Fab Test"
+    excerpt: "Executive Insight: Thomas Benjamin, CTO at National Instruments, sat down with Semiconductor Engineering to discuss a new way of look at test, using data as a starting point and generative AI as bridge between different capabilities."
+    publishedDateTime: 2023-08-08T07:05:00Z
+    webUrl: "https://semiengineering.com/using-generative-ai-to-connect-lab-to-fab-test/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 41
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/wafer-AdobeStock_472655944.jpeg?fit=1200%2C825&ssl=1"
+        width: 1200
+        height: 825
+        isCached: true
   - title: "Cyient sets up CoE to power engineering with Generative AI"
     excerpt: "Cyient & Microsoft partner to set up CoE EnGeneer to drive engineering innovation using Generative AI. CoE to integrate new Generative AI capabilities into existing solutions, CyFast & CyArc. OpenAI & Generative AI technologies to be used across all Cyient platform solutions."
     publishedDateTime: 2023-08-08T04:18:00Z
@@ -118,20 +132,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Using Generative AI To Connect Lab To Fab Test"
-    excerpt: "Executive Insight: Thomas Benjamin, CTO at National Instruments, sat down with Semiconductor Engineering to discuss a new way of look at test, using data as a starting point and generative AI as bridge between different capabilities."
-    publishedDateTime: 2023-08-08T07:05:00Z
-    webUrl: "https://semiengineering.com/using-generative-ai-to-connect-lab-to-fab-test/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/wafer-AdobeStock_472655944.jpeg?fit=1200%2C825&ssl=1"
-        width: 1200
-        height: 825
-        isCached: true
   - title: "Efficiently grow with predictive artificial intelligence engagement modeling"
     excerpt: "In an industry first, Alkami is now leveraging artificial intelligence (AI) predictive modeling to help financial institutions identify highly engaged"
     publishedDateTime: 2023-08-03T21:01:00Z
@@ -173,15 +173,6 @@ related:
       name: Law
       domain: law.com
     quality: 6
-  - title: "Kyndi's Generative AI Answer Engine Recognized for Revolutionizing the Way Employees and Customers Find Answers to Queries"
-    excerpt: "Unlike chatbots, ChatGPT, and traditional search engine tools, Kyndi's Answer Engine is an enterprise-class solution that generates precise answers from trusted enterprise content, eliminating hallucinations while providing transparency in the results by allowing users to trace back to the sources of the answers."
-    publishedDateTime: 2023-08-03T15:27:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859151.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "PJRd167yDI6oJIW0OByVhbl+SbW9gtT6DBlaRsR+rY5T56pny7bmx+IPOC11uUM23JTKZ5ttqbBaLgxDTcG1XMXk15b+WCb8CcYEL5SMWzi+ICo6wq5tMp2GRLS9Dw08Mcr8NpbnDzIRCD1Xb0Y4U0Z8vO3iGsHw+r5IWqiNFrATA4LJp1I0ViL7dUnEbimhJhhV8x0/XFGLRilQTKw5rGkOcZmoMDwZQss7NIxLOubT4cgnLEP6IqI1GADAMH3yD6A2MxbZnUt76gpZ2TCd0c+OoAi5dZ5VGd89kTfw0+iCGfXiLyW+gtiY9toFE74WXZw6yT42M3d3HfZ4XRXMc4UkjWt4NlR2CUGq29ewxqYaBOW8DQhGEfYvmVJ5mJbfoSlMlH6v+a8No2n/lxeoGWa3PzRXeBLlpin7GMLGWLyIo30dV15kBq2jx/yHnZM+x9ZT2ZPiXiIaUnIvvGwbA1PCcXR/fBt/HIlAo+vzRee7lm437jmInCkrVhcfmUUS4zHTg4FDuQjqMg3bqhUbXA==;ULZhJxn7pvoucgf1vKaObg=="
 ---

@@ -116,6 +116,20 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "Using Generative AI To Connect Lab To Fab Test"
+    excerpt: "Executive Insight: Thomas Benjamin, CTO at National Instruments, sat down with Semiconductor Engineering to discuss a new way of look at test, using data as a starting point and generative AI as bridge between different capabilities."
+    publishedDateTime: 2023-08-08T07:05:00Z
+    webUrl: "https://semiengineering.com/using-generative-ai-to-connect-lab-to-fab-test/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 41
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/wafer-AdobeStock_472655944.jpeg?fit=1200%2C825&ssl=1"
+        width: 1200
+        height: 825
+        isCached: true
   - title: "Cyient sets up CoE to power engineering with Generative AI"
     excerpt: "Cyient & Microsoft partner to set up CoE EnGeneer to drive engineering innovation using Generative AI. CoE to integrate new Generative AI capabilities into existing solutions, CyFast & CyArc. OpenAI & Generative AI technologies to be used across all Cyient platform solutions."
     publishedDateTime: 2023-08-08T04:18:00Z
@@ -127,20 +141,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Using Generative AI To Connect Lab To Fab Test"
-    excerpt: "Executive Insight: Thomas Benjamin, CTO at National Instruments, sat down with Semiconductor Engineering to discuss a new way of look at test, using data as a starting point and generative AI as bridge between different capabilities."
-    publishedDateTime: 2023-08-08T07:05:00Z
-    webUrl: "https://semiengineering.com/using-generative-ai-to-connect-lab-to-fab-test/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/wafer-AdobeStock_472655944.jpeg?fit=1200%2C825&ssl=1"
-        width: 1200
-        height: 825
-        isCached: true
   - title: "Dell announces generative AI solutions"
     excerpt: "The company is offering a range of generative AI solutions across its hardware, software, and services offerings."
     publishedDateTime: 2023-08-07T12:34:00Z
@@ -168,15 +168,6 @@ related:
       name: Law
       domain: law.com
     quality: 6
-  - title: "Kyndi's Generative AI Answer Engine Recognized for Revolutionizing the Way Employees and Customers Find Answers to Queries"
-    excerpt: "Unlike chatbots, ChatGPT, and traditional search engine tools, Kyndi's Answer Engine is an enterprise-class solution that generates precise answers from trusted enterprise content, eliminating hallucinations while providing transparency in the results by allowing users to trace back to the sources of the answers."
-    publishedDateTime: 2023-08-03T15:27:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859151.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "L0SfS8WrqSCTC8xG9ITVEqQ3jwbraEynv72Ni0eLrZgDhUSkgljOU+2o2gwZH2PjDvWUrO9xAvvusVhojI1WRWrieCg+zazIsUA3hea9sS26S/+9QR87cd1Ove+mFoos3K72yzYMKNL21NWzDpTZuOo3ETPLU6jOQkB+W+aDvzyTRDItlD6dumv/neZImmVQoNU6X6B+CzeC6M670/S0RGSZxjVDmyG7/MlgPKID2Ce4oGaoHaaFFKdcChJeYxGLCcpDyHeZLR4WbGLe3deGA8av7XM8wtVMrkci4IXzpXnNZtkpvoAoMZyniwNVGT+3f7HaOOm/zwC3ky8AQGrZgKkuTjAiw7MXGVxUJY25HJ4ktaoQ3CaPWJvjflt//D441fiodpkp0Kq2UxrfVB2bjWVaafBMT83Hi/kwBhdMKsuxb+PV5HWbkzQr8NRTjM/GHyht9s7HPlHldWs+d7Z7MTWbhrhAC9koFW5QXeIuHfi+gO0ghi7Ozm5zZq85+UY8pIyyidWmNXOUOAYOc+PhjA==;BhYjnRuBEAGxXvz1WaU4Lw=="
 ---

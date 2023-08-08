@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecuri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Jericho Security uses AI to fight AI in new frontier of cybersecurity"
-    excerpt: "Jericho Security announced it has raised $3 million in pre-seed funding to build solutions using machine learning capabilities to \"fight AI with AI.\""
-    publishedDateTime: 2023-08-03T16:00:00Z
-    webUrl: "https://venturebeat.com/security/jericho-security-uses-ai-to-fight-ai-in-new-frontier-of-cybersecurity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_Good_hacker_versus_a_bad_hacker_shown_in_the_style_o_254df582-0504-4e2e-8feb-d3806c5f8d82.png?w=1200&strip=all"
-        width: 1200
-        height: 960
-        isCached: true
   - title: "Why do we need safeguards for AI? Cyber security, human manipulation"
     excerpt: "AI has the potential to significantly improve our lives by finding new cures for diseases, cost-effectively educating the masses and solving some of humanity's most complex problems. However, I am also convinced that without the appropriate safeguards,"
     publishedDateTime: 2023-08-07T11:48:00Z

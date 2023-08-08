@@ -2,6 +2,39 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2023-05-24-ai-startup-anthropic-raises-450m-for-safety-focused-chatbot.md",
+      "title": "AI startup Anthropic raises $450M for safety-focused chatbot",
+      "excerpt": "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/",
+      "originalUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1",
+      "publishedDateTime": "2023-05-23T22:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know.md",
       "title": "Red Hat Charges Into Hybrid Cloud AI with OpenShift AI!: All You Need To Know",
       "excerpt": "Expanding on their battle-hardened OpenShift and OpenShift Data Science suites, they are now providing a robust and scalable foundation for IT operations to adopt AI and exploit its benefits. , Technology & Science News,",
@@ -1142,50 +1175,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-machine-learning-has-potential-to-transform-oil-and-gas-industry-says-globaldata.md",
-      "title": "Machine Learning Has Potential to Transform Oil and Gas Industry, Says GlobalData",
-      "excerpt": "Machine learning has the potential to improve efficiency, increase production and reduce costs in the oil and gas industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry",
-      "originalUrl": "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/8033f7c8-5c9d-481c-bc16-e71d0aa4ef8f/Machine-learning-news-May-23-2023-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

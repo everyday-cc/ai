@@ -85,6 +85,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Shares Guidance and Resources for AI Red Teams"
+    excerpt: "Microsoft has shared guidance and resources from its AI Red Team program to help organizations and individuals with AI security."
+    publishedDateTime: 2023-08-08T09:04:00Z
+    webUrl: "https://www.securityweek.com/microsoft-shares-guidance-and-resources-for-ai-red-teams/"
+    ampWebUrl: "https://www.securityweek.com/microsoft-shares-guidance-and-resources-for-ai-red-teams/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/microsoft-shares-guidance-and-resources-for-ai-red-teams/amp/"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 74
+    images:
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Leidos Announces AI Collaboration With Microsoft"
     excerpt: "The collaboration aims to accelerate artificial intelligence transformation for new and existing customers in the public sector."
     publishedDateTime: 2023-08-04T10:41:00Z

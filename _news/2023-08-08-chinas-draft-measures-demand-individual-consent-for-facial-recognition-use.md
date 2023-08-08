@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-indiv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "China releases draft regulations on facial recognition technology"
+    excerpt: "China’s cyberspace regulator announced the release of draft regulations aimed at overseeing the security management of facial recognition"
+    publishedDateTime: 2023-08-08T08:55:00Z
+    webUrl: "https://technode.com/2023/08/08/china-releases-draft-regulations-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/08/117869015_l_normal_none-scaled.jpg?fit=2560%2C1707&ssl=1"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "All Cases of Mistaken Facial Recognition Arrests Have Targeted Black Individuals"
     excerpt: "For a long time, different groups that care about people’s rights, technology experts, and people who work to bring about social change have warned about how facial recognition technology could worsen existing racial inequalities in law enforcement."
     publishedDateTime: 2023-08-07T08:11:00Z

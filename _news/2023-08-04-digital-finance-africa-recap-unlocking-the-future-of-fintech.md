@@ -7,7 +7,7 @@ originalUrl: "https://www.itnewsafrica.com/2023/08/digital-finance-africa-recap-
 webUrl: "https://www.itnewsafrica.com/2023/08/digital-finance-africa-recap-unlocking-the-future-of-fintech/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "The future of financial services"
+    excerpt: "The future of financial services will usher in a new age of convenience for customers – the development of blockchain technology will allow investments to transact immediately and show investment positions in real-time."
+    publishedDateTime: 2023-08-08T09:23:00Z
+    webUrl: "https://www.blglobal.co.uk/Features.aspx?id=the-future-of-financial-services"
+    type: article
+    provider:
+      name: blglobal.co.uk
+      domain: blglobal.co.uk
+    quality: 24
+    images:
+      - url: "http://cdn.code.je/cms/LIVE/businesslife.co/resources/Issue_51_Cover.jpg"
+        width: 455
+        height: 594
+        isCached: true
 
 secured: "In8kcSnjXBeL0H44qmuGOCnfNKB+t5j4xiBRWvMG4cL4pDtrqoc9FuL86kxx5whX1cFdJczu6qrbxwPaXIN6Ihq/4KjSDg0OJ6ztpe93jbzKSXK7Vx2XGNHrjyLsAyw83x/kIYb9S5fq4M2f1wGPtBN8t+xc+Dhg3w+WkYNIdgLKHj0dS5LSP6tNl+J7mvNCaScZfZm9JqbWBjRlbu/I3w7tw794YY9TK8D4XRPbcqLoI8DnXp6iJNDqTHwOgA5GNJI18YubTjRnUWpVUjvkbz74CQPb5zIFciRWbdeR6aX5vlCYHdRkv0IhJYDnhpTKeB479gp/ho7Sya6aY2A1QVnyip4g11Pu79m/CrHfbyI=;pHvKe3CR3pLgWUn7E/ibmA=="
 ---

@@ -81,6 +81,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Why FinTech Companies Are Increasingly Relying on IT and How"
+    excerpt: "In the last few years, the fintech sector has been going through a tremendous transformation due to the advancements in the IT industry. The fintech companies have entered the financial industry landscape with innovative solutions that revolutionize traditional banking and financial services."
+    publishedDateTime: 2023-08-08T06:35:00Z
+    webUrl: "https://techbullion.com/why-fintech-companies-are-increasingly-relying-on-it-and-how/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/FinTech-Companies-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Hong Kong tech firm, ASL, accelerates growth in fintech arena with Finastra"
     excerpt: "HONG KONG, Aug. 8, 2023 /PRNewswire/ -- Automated Systems Holdings Limited (ASL) (771.HK), a leading global IT solutions and services provider, has strategically partnered with Finastra, a global provider of financial software applications and marketplaces, to bolster its industry-specific DevSecOps business and strengthen its fintech trajectory."
     publishedDateTime: 2023-08-08T05:04:00Z

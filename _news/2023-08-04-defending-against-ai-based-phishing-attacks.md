@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Jericho Security secures $3M to counter AI-powered phishing attacks"
-    excerpt: "Jericho assists enterprises in defending against social engineering phishing attacks by leveraging AI to create sophisticated simulations and educational content for employees. In the company’s own words, it “uses AI to fight AI,” acting as a white hat for organizations."
-    publishedDateTime: 2023-08-03T16:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/03/jericho-security-secures-3m-counter-ai-powered-phishing-attacks/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/jerichosecurity.png"
-        width: 533
-        height: 316
-        isCached: true
   - title: "How Artificial Intelligence (AI) is revolutionizing image editing"
     excerpt: "AI is revolutionizing image editing by enhancing quality, efficiency, and creativity. It's making professional editing accessible to all through tools like image upscaling, automating complex tasks, and opening new artistic possibilities. AI blends technology and art, shaping the future of digital imaging."
     publishedDateTime: 2023-08-04T11:07:00Z

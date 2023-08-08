@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 549
         isCached: true
-  - title: "Jericho Security uses AI to fight AI in new frontier of cybersecurity"
-    excerpt: "Jericho Security announced it has raised $3 million in pre-seed funding to build solutions using machine learning capabilities to \"fight AI with AI.\""
-    publishedDateTime: 2023-08-03T16:00:00Z
-    webUrl: "https://venturebeat.com/security/jericho-security-uses-ai-to-fight-ai-in-new-frontier-of-cybersecurity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_Good_hacker_versus_a_bad_hacker_shown_in_the_style_o_254df582-0504-4e2e-8feb-d3806c5f8d82.png?w=1200&strip=all"
-        width: 1200
-        height: 960
-        isCached: true
   - title: "Technologists Are The New Superheroes On Corporate Boards In The Age Of AI, Blockchain And CyberSecurity"
     excerpt: "As tech-driven disruptions and cyber threats reshape industries at an unprecedented pace, the need for technical expertise on corporate boards has never been more"
     publishedDateTime: 2023-08-04T19:29:00Z

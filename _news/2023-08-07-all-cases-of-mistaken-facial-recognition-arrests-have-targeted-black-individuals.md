@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "China releases draft regulations on facial recognition technology"
+    excerpt: "China’s cyberspace regulator announced the release of draft regulations aimed at overseeing the security management of facial recognition"
+    publishedDateTime: 2023-08-08T08:55:00Z
+    webUrl: "https://technode.com/2023/08/08/china-releases-draft-regulations-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/08/117869015_l_normal_none-scaled.jpg?fit=2560%2C1707&ssl=1"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "h7s7Phrd5pI5rpDLQGSeF/jZxIRNMA8Bl0CU8w2239MqQlBbu19t7C32ZTzM6CxZdPjeZdQAjv8Bmk932ZtashuTLK/zOCz0XlTS6u0zaung05N8A50H3UsnseMcC92LMbtlIgQ/WDbc2Kf48D8E9RLLRbS8HCAm0fnfmYoMiw+Uei9MPUwCPQGZBVb38MYt2pvC5WVuuCz9D62m0lYmzBjkdcgwxGZQ3oDjEibTaoJP1brQAVp9i6rxnplSzWvZHOmmjp/n9riWGdgH/lWJpjxkE5Xvk0AxMXEFa0D8Q7AkiPhFrJw3f29nP6ewYwwaCmYlm1e//0no8fE7Yyq77znnW32Ly6vow54Fsa5E0k4=;8QbwxRpe+3tE8W7ccPyotQ=="
 ---

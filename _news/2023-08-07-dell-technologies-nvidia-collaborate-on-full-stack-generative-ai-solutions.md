@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technolog
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 798
     isCached: true
+
+related:
+  - title: "Build generative AI applications using Azure and NVIDIA H100 Tensor Core GPUs"
+    excerpt: "Microsoft Azure users can now leverage the latest NVIDIA accelerated computing technology to train, deploy and build generative AI applications. The"
+    publishedDateTime: 2023-08-08T08:37:00Z
+    webUrl: "https://www.geeky-gadgets.com/build-generative-ai-apps-08-08-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 51
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Build-generative-AI-applications.jpg"
+        width: 700
+        height: 461
+        isCached: true
 
 secured: "Zak+hk5ODev3WMupxgvW1ih2Iz2S0aL4CkM4/Ls2AndSz7C1D1CbbzfZOt3BOCEILw0AqvhSzuhSW0z04wjzy3b5F72y81qD1Vzgbjg8Hml3xm2FUMb6O+cwTI6Tzlh9Xh0HiURhqWMWg2JijQK+2y1RbYT8NxLIbr61wkrTsdyMx0daSXE1gjzKQ+29DmYOsJTnlyH9nNGtnh9CE9I33/6lc+cuQxoHLaiHQIyZwRTxtWXZFL1a0FOwtxD9ymQ3d8zN26QV6ZYEN9NZ8Uu8n+OGc7o/heW7lBNjPdQ7IzZcYcQkVKsq14Yu3OaF085K4s5NmQJ+VUV+sRr4imIRqZlgYCOLw4V3XbScjRu5/DZnf3uGOgDPwO4torbpoAp5HJXgz8GKVw5V9rsxw8TlrQEAaEBEenPrwNu2/wumiivFwqp7ypRn4LI0yDw+sle2S6kw5oUEj4Q8Ws+rwUq/beNzulhKts3qvgB8z+WkhHcnrbOvAL9c4NoMn5fsh7J7tY+tkFPpO3sZjVx/DHDfCg==;zCF6XfEc/ulDbnP2cMhXsA=="
 ---

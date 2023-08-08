@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-data-prepar
 webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler/"
 type: article
 quality: 102
-heat: -1
-published: false
+heat: 122
+published: true
 
 provider:
   name: AWS
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scale training and inference of thousands of ML models with Amazon SageMaker"
-    excerpt: "Training and serving thousands of models requires a robust and scalable infrastructure, which is where Amazon SageMaker can help. SageMaker is a fully managed platform that enables developers and data scientists to build, train, and deploy ML models quickly, while also offering the cost-saving benefits"
-    publishedDateTime: 2023-08-03T15:05:18Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 118
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/21/ML_14247_001-982x630.jpg"
-        width: 982
-        height: 630
-        isCached: true
   - title: "Use the Amazon SageMaker and Salesforce Data Cloud integration to power your Salesforce apps with AI/ML"
     excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. This is the second post in a series discussing the integration of Salesforce Data Cloud and Amazon SageMaker. In Part 1, we show how the Salesforce Data Cloud and Einstein Studio integration with SageMaker allows businesses"
     publishedDateTime: 2023-08-04T13:28:06Z

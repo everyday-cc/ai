@@ -2,6 +2,57 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2023-06-22-the-last-ai-boom-didnt-kill-jobs-feel-better.md",
+      "title": "The Last AI Boom Didn't Kill Jobs. Feel Better?",
+      "excerpt": "ChatGPT is stoking fears of mass layoffs, but a study of several EU countries found the deep-learning boom of the 2010s actually created job opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-the-last-ai-boom-didnt-kill-jobs/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-the-last-ai-boom-didnt-kill-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/649386a2e416fd283a85c3dd/191:100/w_1280,c_limit/The-Last-AI-Boom-Didn&#x27;t-Kill-Jobs-Business-1253019033.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-how-light-wonder-built-a-predictive-maintenance-solution-for-gaming-machines-on-aws.md",
       "title": "How Light & Wonder built a predictive maintenance solution for gaming machines on AWS",
       "excerpt": "This post is co-written with Aruna Abeyakoon and Denisse Colin from Light and Wonder (L&amp;W). Headquartered in Las Vegas, Light &amp; Wonder, Inc. is the leading cross-platform global game company that provides gambling products and services. Working with AWS, Light &amp; Wonder recently developed",
@@ -1156,58 +1207,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-the-rise-of-ai-in-the-language-industry-new-opportunities-for-growth.md",
-      "title": "The Rise of AI in the Language Industry: New Opportunities for Growth",
-      "excerpt": "Artificial intelligence (AI) has opened up new opportunities for growth in the language industry allowing for more efficient and accurate translation and interpretation services. With the help of AI, language service providers can now offer faster ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-rise-of-ai-in-the-language-industry-new-opportunities-for-growth-2023-06-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/the-rise-of-ai-in-the-language-industry-new-opportunities-for-growth-2023-06-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

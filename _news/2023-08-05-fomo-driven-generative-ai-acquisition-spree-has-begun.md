@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "10 ways generative AI upends the traditional database"
+    excerpt: "Generative AI isn't just for chatbots. Here are 10 ways AI and machine learning are transforming how we store, structure, and query data."
+    publishedDateTime: 2023-08-08T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.html"
+    ampWebUrl: "https://www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/28/09/pcworld-the-2023-ultimate-ai-chatgpt-python-programming-bundle-100943992-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tim Cook confirms that Apple has been working on generative AI for years"
     excerpt: "Apple spent $22.61 billion on research and development through 2023, and CEO Tim Cook confirmed beyond a shadow of a doubt that part of that expenditure is because the company is working on generative AI."
     publishedDateTime: 2023-08-03T21:05:00Z

@@ -121,7 +121,7 @@ related:
     provider:
       name: Semiconductor Engineering
       domain: semiengineering.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://semiengineering.com/wp-content/uploads/wafer-AdobeStock_472655944.jpeg?fit=1200%2C825&ssl=1"
         width: 1200
@@ -168,15 +168,6 @@ related:
       name: Law
       domain: law.com
     quality: 6
-  - title: "Kyndi's Generative AI Answer Engine Recognized for Revolutionizing the Way Employees and Customers Find Answers to Queries"
-    excerpt: "Unlike chatbots, ChatGPT, and traditional search engine tools, Kyndi's Answer Engine is an enterprise-class solution that generates precise answers from trusted enterprise content, eliminating hallucinations while providing transparency in the results by allowing users to trace back to the sources of the answers."
-    publishedDateTime: 2023-08-03T15:27:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859151.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "wXthQ+n2VMiCiobCDbTJkatmCl0OX4trVaE2jgP14N/3b+9H3QPhU0uV+lWnmtHEi0IAKP6qFe5xjo19pxTn+lhnr7btVoJGFwOFW1GXD2vrSi0SFnjtFfGyXE/+70YbV3Bwx5ucW/cXgiNpPvW3jpTWW3BjhjYvBAHTlr/bQsWSwWPd0mOqEkmcx2DgOqI2gd41v2pHPjzady9oE/AkDErUa6nZ5GR/Y5NvTyuLzEmk4dr5CnaqqjaNFOM1FEyGva6QyrKO2+QAQyYw511YWxsVURuMDavS5HWKEqoAIBuvfzuzmYXIvxYrgkJFmEi4F+dEtj/4hsiPtOLee4nrnOqhOxTEZ9ILJuZPd36q/ZanMndnRi9ESfY2exrN/KO3GhlMeTrQmzL77N4OFTiwN+ZkhEoPPIAmjqkhtkCwVHsts6cSUc7hdNHQHyX0675IIeBsvPX3aCUrTBNz3u/OrIt5Sb7e96u1HqhXR8K/SAs2M08cSajA+2WcwJX+jTtnUf0GBLJYplDN3y0nU3rVSA==;n9XOXRgD1efOk6hmb/QcnA=="
 ---

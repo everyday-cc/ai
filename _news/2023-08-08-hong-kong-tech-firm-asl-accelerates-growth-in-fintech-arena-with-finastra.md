@@ -95,6 +95,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Why FinTech Companies Are Increasingly Relying on IT and How"
+    excerpt: "In the last few years, the fintech sector has been going through a tremendous transformation due to the advancements in the IT industry. The fintech companies have entered the financial industry landscape with innovative solutions that revolutionize traditional banking and financial services."
+    publishedDateTime: 2023-08-08T06:35:00Z
+    webUrl: "https://techbullion.com/why-fintech-companies-are-increasingly-relying-on-it-and-how/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/FinTech-Companies-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "eYypNCmcJ9S6n0k0AxPjqjwL7dFDG/EhQbiouAnJEnyOgJGmbpzaPbp1bFut6KR72jz3GqS7i8WVEG1rfaQ5jQidOTiRh/R2Fw3QufyVBy4ec2KSjJwhGJG+GUvA587mwfR3fv+umh+2KOkXvsHU4gqAeVz2+bMBSgjxjr5GjHOwznsUQh233teuy53qg/yj7lFeiJ3x3MC62YRJ4752FbCDN712rbfXotoUxnbJnIx6OnQKRDFLVK15qrLPdjVN1w68GtVG7UPJkuiFXkBowqeHjCkA4XyEDcGn2wEqFl/T0TgCA1QfnBmEE1ME+5bddE/la06nUF/v+KLH7MATJX8J6rA86KR6+p4rok9HOBI2J6R1bhOswL8GRjPKVRrCp+M4iBFSx/3aKCjd2U6fMCcwFqnQ1yF0vDD/0dxVqdB9vPg8mHNUASKChpIFtgHPKMl1IrTXQ6vD8+mk91qL365xxqFJ0WUAIlaasyuEDaMlvSZDSYXaJCB/A/EKrG2UTyDYQ/6IacQdZldS2oQrDw==;Ynv7udVgN15Och7TpELO6Q=="
 ---

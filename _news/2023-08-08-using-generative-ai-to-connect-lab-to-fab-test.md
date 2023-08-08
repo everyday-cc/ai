@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-08T07:05:00Z
 originalUrl: "https://semiengineering.com/using-generative-ai-to-connect-lab-to-fab-test/"
 webUrl: "https://semiengineering.com/using-generative-ai-to-connect-lab-to-fab-test/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://semiengineering.com/wp-content/uploads/wafer-AdobeStock_472655944.jpeg?fit=1200%2C825&ssl=1"
@@ -169,16 +170,7 @@ related:
       name: Law
       domain: law.com
     quality: 6
-  - title: "Kyndi's Generative AI Answer Engine Recognized for Revolutionizing the Way Employees and Customers Find Answers to Queries"
-    excerpt: "Unlike chatbots, ChatGPT, and traditional search engine tools, Kyndi's Answer Engine is an enterprise-class solution that generates precise answers from trusted enterprise content, eliminating hallucinations while providing transparency in the results by allowing users to trace back to the sources of the answers."
-    publishedDateTime: 2023-08-03T15:27:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859151.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
-secured: "vJsVxK1mGt6O6unVEhDAo6Z809DYMitKHTbRKP0aClPwzUEeaC7sK7HHQhxPUDzk0cE3GCBL43ZU1IY4u76wdBHO4zBDrF43Nd8e2xFoj1Oyvba6e5f+K5Jcy8PgL/nMWdD5LxZs2CkFjTh8yvxC5CHwsbiZsB/iP4U2Yb0fDU+fPMCiebvG6KUDm+r7lEqXkjPRQWztzF1uPnoW6m5snkacGeldVAQ1uu9MTUXLYoWbsZBliZs0fAA9nmLTM3Lq/A5ba1MdRsZLi2vDEMWvJaFZODjwTpOJiT0Krjb0d7tsKgRe1gkjGDjOulEhCRAnFqgE6KIfxagCd3fDa9SiVOLpMTXs9RVNxKVJjCPdDqs=;lV5HilSCNVQtQ2HHwC2zHQ=="
+secured: "GGMwCwpuo0AOH7NfHK/8o9OsfMRDT7cjxkDNBrSZ9oFEglT4S5prXglTPvS9+3NRe5pbw8Bbdle1rKachf2A6mvaeUkxe3tbAFmGEDxp2DaQ/KVmMC29uf2TH8xWj5ubTBvnwzKCKgVmokm+S2ONQcaG81YeztujWPW47gP9l4LRlI/OerLUk54ZoxvCMAlq+RevxRDBOImFpoJMsa42R+LE5oL9aXMds0jLzsmgNAJZUXn0Zbv/f+UOW5gsx2X0yKFWi8NoG5p4fAyuYgwAYrtTOtNeYa1b6NzekdqOQOU30jgh+jEeFBaDkPNFdU35PIidIe7eR8eFLugyD5iFz3smJ1FYfsvkm1QwMZJFhUA3POcxGSyKD21DdUebWfa8z64wLpgF1xp6kABMQ+Yo0t4aPiqQT4eL4TIBw22kXaRlDXyfcCskSQmROOXUH6JS3LC5GbtE6wnm94X7Ttx+mGxB2I0B0ifYLGSs/px+ZesjdouYm5kXrxog/hhDsHtueDDgfhTFHd7RkgPIRdHkWA==;17RDe5JkUtqnSdBybdRVow=="
 ---
 

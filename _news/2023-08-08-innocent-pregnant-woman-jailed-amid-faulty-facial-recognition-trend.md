@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/08/innocent-pr
 webUrl: "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/"
 type: article
 quality: 64
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -54,6 +54,22 @@ related:
       - url: "https://c.ndtvimg.com/2022-11/pnmgprs_pregnant-woman-generic-650_625x300_10_November_22.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "China Proposes Stricter Regulations on Facial Recognition to Protect Privacy"
+    excerpt: "China, a country known for its adoption of facial recognition technology, is taking steps to establish more defined boundaries for its usage."
+    publishedDateTime: 2023-08-08T09:13:00Z
+    webUrl: "https://www.coinspeaker.com/china-regulations-facial-recognition/"
+    ampWebUrl: "https://www.coinspeaker.com/china-regulations-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/china-regulations-facial-recognition/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 56
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/05/china-prosecution-agency-nft-users.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Eight Months Pregnant and Arrested After False Facial Recognition Match"
     excerpt: "Porcha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology."

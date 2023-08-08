@@ -73,6 +73,22 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Microsoft Shares Guidance and Resources for AI Red Teams"
+    excerpt: "Microsoft has shared guidance and resources from its AI Red Team program to help organizations and individuals with AI security."
+    publishedDateTime: 2023-08-08T09:04:00Z
+    webUrl: "https://www.securityweek.com/microsoft-shares-guidance-and-resources-for-ai-red-teams/"
+    ampWebUrl: "https://www.securityweek.com/microsoft-shares-guidance-and-resources-for-ai-red-teams/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/microsoft-shares-guidance-and-resources-for-ai-red-teams/amp/"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 74
+    images:
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft’s AI Red Team Has Already Made the Case for Itself"
     excerpt: "Since 2018, a dedicated team within Microsoft has attacked machine learning systems to make them safer. But with the public release of new generative AI tools, the field is already evolving."
     publishedDateTime: 2023-08-07T17:51:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/gartner-machine-learning-data
 webUrl: "https://www.techrepublic.com/article/gartner-machine-learning-data-science-trends/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence will impact the workplace and schools"
+    excerpt: "The biggest thing about artificial intelligence is it is going to start taking away jobs in the upper middle and upper class such as legal jobs, content creation, administrative assistant jobs, and secretary jobs. When it comes to schools we need to do a better job of preparing our kids for the workforce with artificial intelligence."
+    publishedDateTime: 2023-08-08T08:03:00Z
+    webUrl: "https://www.weny.com/story/49368488/how-artificial-intelligence-will-impact-the-workplace-and-schools"
+    type: article
+    provider:
+      name: WENY News
+      domain: weny.com
+    quality: 39
+    images:
+      - url: "https://WENY.images.worldnow.com/images/19874934_G.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Johns Hopkins makes major investment in the power, promise of data science and artificial intelligence"
     excerpt: "A new institute will bring together experts from a wide range of disciplines to capitalize on the rapidly emerging potential of data to fuel discovery"
     publishedDateTime: 2023-08-03T20:45:00Z
