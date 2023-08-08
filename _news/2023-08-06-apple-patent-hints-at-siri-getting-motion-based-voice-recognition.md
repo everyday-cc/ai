@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/ap
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/apple-patent-hints-at-siri-getting-motion-based-voice-recognition-8879287/lite/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,89 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Build and train computer vision models to detect car positions in images using Amazon SageMaker and Amazon Rekognition"
-    excerpt: "Computer vision (CV) is one of the most common applications of machine learning (ML) and deep learning. Use cases range from self-driving cars, content moderation on social media platforms, cancer detection, and automated defect detection. Amazon Rekognition is a fully managed service that can perform"
-    publishedDateTime: 2023-08-03T14:53:06Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 127
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/03/ML-5922-demo-v2-1253x630.jpg"
-        width: 1253
-        height: 630
-        isCached: true
-  - title: "Scale training and inference of thousands of ML models with Amazon SageMaker"
-    excerpt: "Training and serving thousands of models requires a robust and scalable infrastructure, which is where Amazon SageMaker can help. SageMaker is a fully managed platform that enables developers and data scientists to build, train, and deploy ML models quickly, while also offering the cost-saving benefits"
-    publishedDateTime: 2023-08-03T15:05:18Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 118
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/21/ML_14247_001-982x630.jpg"
-        width: 982
-        height: 630
-        isCached: true
-  - title: "Optimize data preparation with new features in AWS SageMaker Data Wrangler"
-    excerpt: "Data preparation is a critical step in any data-driven project, and having the right tools can greatly enhance operational efficiency. Amazon SageMaker Data Wrangler reduces the time it takes to aggregate and prepare tabular and image data for machine learning (ML) from weeks to minutes. With SageMaker"
-    publishedDateTime: 2023-08-04T15:25:07Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 102
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/04/optimize-data-prepration.jpg"
-        width: 1016
-        height: 507
-        isCached: true
-  - title: "Use the Amazon SageMaker and Salesforce Data Cloud integration to power your Salesforce apps with AI/ML"
-    excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. This is the second post in a series discussing the integration of Salesforce Data Cloud and Amazon SageMaker. In Part 1, we show how the Salesforce Data Cloud and Einstein Studio integration with SageMaker allows businesses"
-    publishedDateTime: 2023-08-04T13:28:06Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-the-amazon-sagemaker-and-salesforce-data-cloud-integration-to-power-your-salesforce-apps-with-ai-ml/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-  - title: "Bring your own AI using Amazon SageMaker with Salesforce Data Cloud"
-    excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. We’re excited to announce Amazon SageMaker and Salesforce Data Cloud integration. With this capability, businesses can access their Salesforce data securely with a zero-copy approach using SageMaker and use SageMaker"
-    publishedDateTime: 2023-08-04T13:27:49Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ai-using-amazon-sagemaker-with-salesforce-data-cloud/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
-  - title: "How organizations can successfully measure an application health monitoring process"
-    excerpt: "Application health monitoring is a diagnostic process to identify application health issues and create a resolution plan before they become greater issues.\nThe post How organizations can successfully measure an application health monitoring process appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-03T13:52:50Z
-    webUrl: "https://www.ibm.com/blog/application-health-monitoring/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 76
-  - title: "Accelerate business outcomes with 70% performance improvements to data processing, training, and inference with Amazon SageMaker Canvas"
-    excerpt: "Amazon SageMaker Canvas is a visual interface that enables business analysts to generate accurate machine learning (ML) predictions on their own, without requiring any ML experience or having to write a single line of code. SageMaker Canvas’s intuitive user interface lets business analysts browse and"
-    publishedDateTime: 2023-08-03T15:03:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-business-outcomes-with-70-performance-improvements-to-data-processing-training-and-inference-with-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/03/accelerate-business-outcomes.jpg"
-        width: 1023
-        height: 507
-        isCached: true
   - title: "Apple could use motion tracking to boost Siri's voice recognition"
     excerpt: "Apple has filed a patent application, called Keyword Detection Using Motion Sensing, that could enhance Siri's voice recognition capabilities"
     publishedDateTime: 2023-08-04T10:36:00Z
@@ -124,20 +41,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "‘Computer language that anyone can read’ launches Aeternity compiler"
-    excerpt: "The developer of Lexon claims that it may provide benefits in computer science education, as well as allow for better GUIs and automated self-documentation."
-    publishedDateTime: 2023-08-03T21:01:00Z
-    webUrl: "https://cointelegraph.com/news/lexon-computer-language-that-anyone-can-read-launches-aeternity-compiler"
+  - title: "Apple Hints At a Lip-Reading Siri To Revamp Speech Recognition"
+    excerpt: "Apple has filed a patent named \"Keyword Detection Using Motion Sensing\", that aims to use lip-reading functions with its voice assistant Siri."
+    publishedDateTime: 2023-08-06T13:30:00Z
+    webUrl: "https://techreport.com/news/apple-hints-at-a-lip-reading-siri-to-revamp-speech-recognition/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 24
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMTYzM2EyMGUtYzhlYy00ZWZiLWFhYzEtYmMyNWIzYTYyYzIzLmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
+      name: The Tech Report
+      domain: techreport.com
+    quality: 19
 
 secured: "I9SOsRlzeMbMzrDmrVFpp7rJP6oUDHvLexL8hgSaGWFFUF92NXILRHTfYFOqiNKr7cDKhMcmQIq+0U1W0wLMqJ9PY8p0j8FECKwzpw3XJPcTuQll/IXHk8fQeWuxriURj1qvfiFOQ/rsYhVwVZQnkldPRlZTd/mk6KzbK5vsfz+ydJ4oTqT44qCPwpsirMWgpbNYC83iyiJpEQmTOVkoyNFtd0taG6MlOWfxWD9H4j/Huo2sfBTbn2X7UgK/N12s8D1Ds3H/8yR+vDFc5Vs4uf/ZK+mWOLqHm2BA0zCxacce4neuPUMW6NKE41jfAaapYx6s+bfS7nwWeF4WUg3sxlR1glbv3YFq41iP2CNrn7Q=;82sgZa0j0j3c95dFJjsWuQ=="
 ---

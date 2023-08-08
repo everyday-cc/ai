@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/ai-focused-gpu-cloud-co
 webUrl: "https://www.datacenterdynamics.com/en/news/ai-focused-gpu-cloud-company-coreweave-raises-23bn-in-debt-from-magnetar-capital-blackstone-digitalbridge/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,49 +23,6 @@ images:
     width: 460
     height: 243
     isCached: true
-
-related:
-  - title: "CoreWeave, which provides cloud infrastructure for AI training, secures $2.3B loan"
-    excerpt: "As organizations rush to embrace AI, it’s putting the cloud — or clouds, rather — under strain. Amazon Web Services, Microsoft, Google and Oracle, facing an unprecedented spike in demand for the server chips that train and run AI-powered software ..."
-    publishedDateTime: 2023-08-03T13:48:00Z
-    webUrl: "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/"
-    ampWebUrl: "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/07/tengyart-hR4JiEOZMS8-unsplash.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Gen-AI HPC infrastructure provider CoreWeave scores $2.3 billion financing deal"
-    excerpt: "CoreWeave, a specialized, AI-focused cloud provider offering high performance compute services, has landed a whopping $2.3 billion in debt financing from several private equity firms."
-    publishedDateTime: 2023-08-03T22:13:00Z
-    webUrl: "https://www.networkworld.com/article/3704268/gen-ai-hpc-infrastructure-provider-coreweave-scores-23-billion-financing-deal.html"
-    ampWebUrl: "https://www.networkworld.com/article/3704268/gen-ai-hpc-infrastructure-provider-coreweave-scores-23-billion-financing-deal.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704268/gen-ai-hpc-infrastructure-provider-coreweave-scores-23-billion-financing-deal.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 55
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/09/data_center_corridor_server_room_with_abstract_overlay_of_networked_connections_by_sdecoret_gettyimages-1197646065_2400x1600-100857776-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "CoreWeave Secures $2.3 B Debt Financing Facility to Meet Surging Demand and Ongoing Expansion of Specialized Cloud Infrastructure to Power AI"
-    excerpt: "CoreWeave , a specialized cloud provider of large-scale GPU-accelerated workloads, today announced it has secured a $2.3 billion debt financing facility. The funding was led by Magnetar Capital and funds managed by Blackstone Tactical Opportunities"
-    publishedDateTime: 2023-08-03T13:55:00Z
-    webUrl: "https://www.cmswire.com/the-wire/coreweave-secures-23-b-debt-financing-facility-to-meet-surging-demand-and-ongoing-expansion-of-specialized-cloud-infrastructure-to-power-ai/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 0
 
 secured: "GS6qRABVAgyrBn1ZJBUCJnjhvD6FAp5bgdJOJ34CkXCqngBTMzzpeE9ybj31qzo1KB+1Te+LHwnl7e+b31NlkQZ7ZInSC0ATmdpe5MmJoWBNC7vv2y8calrYig+52YOozu3RRG+H+N/j2u16tD51R9FLnSe8vhGl8BoMvlobRalZUep6XroQ3GmXm3bg1/waIUzehwxEZBm6qeN5QFaWjy/otJCRzdX18Jngbogku4psC7jxmj+1CbWOAXzNbwSqcmK726lSjFDGW2kEKrRWgFmIwUzXriJuk3o8M/e8Q+8MGN5CQggvC0tUlCXK9DZie8rh+jWHXpRxgZpXWFwuh8jgs48KAoUFvzwYUFozVcsPthDzxOxThIQWLTu6cWn51ZIr85uL1U61jeEj+I19LgiJLuYBGwOQT/NpjlhESBsf8ZYeTONo1UBKzDNoxzznxUaij7VhNnuYd8WwDvgXeEB8mj/O9+AC8ojZvfMxY4vepKXQJhKDIgiFXJdEn7a8QVF8Q883N0ezjLa2JxdJ/A==;k6N5VBqumLXjuABoQImAYg=="
 ---

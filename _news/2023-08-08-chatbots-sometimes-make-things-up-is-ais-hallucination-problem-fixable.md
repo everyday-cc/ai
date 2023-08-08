@@ -53,20 +53,6 @@ related:
       domain: seattletimes.com
     quality: 39
   - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
-    excerpt: "Spend enough time with AI chatbots and it doesn't take long for them to spout falsehoods. It's now a problem for every business, organization and high school student."
-    publishedDateTime: 2023-08-03T14:21:00Z
-    webUrl: "https://www.aol.com/chatbots-sometimes-things-not-everyone-085600233.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 38
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/6mrWWVfXMSYWCLmK7Et1Kg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/470a4915dd52e31c809a4e29003e6c2a"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
     publishedDateTime: 2023-08-06T19:00:00Z
     webUrl: "https://www.adn.com/nation-world/2023/08/06/chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable/"

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106779587/Uae-University-Launches-Robotics-Com
 webUrl: "https://menafn.com/1106779587/Uae-University-Launches-Robotics-Computer-Science-Graduate-Programmes"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Abu Dhabi's artificial intelligence university establishes dedicated robotics and computer science departments to meet surging global demand"
-    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programs dedicated to"
-    publishedDateTime: 2023-08-03T13:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33550168/abu-dhabis-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33550168"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33550168"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Abu Dhabi's artificial intelligence university establishes dedicated robotics & computer science ..."
     excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate"
     publishedDateTime: 2023-08-07T17:37:00Z

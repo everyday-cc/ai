@@ -79,20 +79,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Patty the Pedestrian vs. Sandy the Self-Driving Car (with Devon in the Driver’s Seat)"
-    excerpt: "Five years after the driver of Uber’s autonomous car killed a pedestrian, the driver pleaded guilty to one count of reckless endangerment and- sentenced to three years of supervised probation, no prison time."
-    publishedDateTime: 2023-08-03T15:00:00Z
-    webUrl: "https://www.acsh.org/news/2023/08/03/patty-pedestrian-vs-sandy-self-driving-car-devon-driver’s-seat-17236"
-    type: article
-    provider:
-      name: Acsh.org
-      domain: acsh.org
-    quality: 17
-    images:
-      - url: "https://www.acsh.org/sites/default/files/images/self-driving-gb4b394dbe_1280.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Congress urged to help get more self-driving vehicles on US roads"
     excerpt: "Advocates for auto companies and consumer technology firms on Wednesday urged a congressional subcommittee to adopt legislation to advance the development of self-driving cars, saying the U.S. will fall behind competitors, especially China, if the federal ..."
     publishedDateTime: 2023-08-06T09:19:00Z

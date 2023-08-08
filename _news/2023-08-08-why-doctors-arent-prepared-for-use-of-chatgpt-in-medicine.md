@@ -53,20 +53,6 @@ related:
         isCached: true
   - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
     excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."
-    publishedDateTime: 2023-08-03T14:42:00Z
-    webUrl: "https://www.law.com/americanlawyer/2023/08/03/big-law-nixing-chatgpt-for-legal-work-seeks-secure-ai-solution/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 41
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/405/2023/08/OpenAI-GPT-4-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
-    excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."
     publishedDateTime: 2023-08-03T17:21:00Z
     webUrl: "https://www.law.com/texaslawyer/2023/08/03/big-law-nixing-chatgpt-for-legal-work-seeks-secure-ai-solution/"
     type: article

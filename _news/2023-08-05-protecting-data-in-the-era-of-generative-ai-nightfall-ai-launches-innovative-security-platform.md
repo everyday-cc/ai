@@ -68,6 +68,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 78
+  - title: "AWS to support Korean startups with Generative AI Accelerator"
+    excerpt: "Amazon Web Services (AWS) will help Korean AI startups grow with its Generative AI Accelerator, a program that combines powerful AI tools with business, technical mentors and experts, the global-leading cloud computing service provider said Tuesday."
+    publishedDateTime: 2023-08-08T06:52:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 74
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202308/01fe39d3e3a946b0bdd3a186fae09566.jpg"
+        width: 980
+        height: 598
+        isCached: true
   - title: "AWS Turbocharges Foundation Models With Smart AI Agents"
     excerpt: "Goodson discusses AWS's recently announced AI capability that adds key functionality to its foundation models."
     publishedDateTime: 2023-08-04T13:00:00Z
@@ -102,6 +118,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
+  - title: "Using Generative AI To Connect Lab To Fab Test"
+    excerpt: "Executive Insight: Thomas Benjamin, CTO at National Instruments, sat down with Semiconductor Engineering to discuss a new way of look at test, using data as a starting point and generative AI as bridge between different capabilities."
+    publishedDateTime: 2023-08-08T07:05:00Z
+    webUrl: "https://semiengineering.com/using-generative-ai-to-connect-lab-to-fab-test/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/wafer-AdobeStock_472655944.jpeg?fit=1200%2C825&ssl=1"
+        width: 1200
+        height: 825
+        isCached: true
   - title: "Efficiently grow with predictive artificial intelligence engagement modeling"
     excerpt: "In an industry first, Alkami is now leveraging artificial intelligence (AI) predictive modeling to help financial institutions identify highly engaged"
     publishedDateTime: 2023-08-03T21:01:00Z

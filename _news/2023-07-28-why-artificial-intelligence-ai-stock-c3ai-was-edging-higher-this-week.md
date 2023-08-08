@@ -21,7 +21,14 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Autos
 
-secured: "JNns8xz0z2qYn/WzUBI3OkNfdMgTb3AbDGjj/QjO1OzK7u1yj8R3Scycr5Y9GmDcDCRLmes5W+XB55CN+Sg+j9m6OoOXelAsUBcXorgbkUOM2xv0VVsRzzvtY64UOPALs4KZCqXKGY/hmSqoit1RiQ0SIgLxoBz0tL/L5SRfjgIbPTl6KIerHpTLmi7Ed0tFwIr4cNOaJF1+rffGaT4r+k+3T1PryNJBJHcxqybQ88es8zjOt7WjA6z+n0zMvPDKA3Xf8GCMyLwizDC8nC5y9RhpE5Af8XdY3+vwwlFi14yojP5m08DTQJRN5+eyMrpzXLZLZIJ2ulukWO19cVH4XWnko7nCrMHs/dtMZZxqA2U7dbp463sW0lvFl0EXKdPPL4HF3We84BAEaKQDjlbdtJCnKVboNRZLnPLmW5yFOJzsY43vwZ2bbpIh/ooxH1Q5tqNmUCKW2Oss34yop3feuinZ1mkqX0ywmeK8dbJVYkiG157RwUaldF7E4MRCbTRK3R+xhpDbpUCIaNmPajvdrA==;TIz5I49tjnykUox9UdiLmA=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/741661/person-using-a-smartphone-while-seated-at-a-desk-with-a-laptop.jpg"
+    width: 2121
+    height: 1414
+    isCached: true
+
+secured: "oJTbssSDF4B8AVnlzbKWQKeCSn9bey2DD2rj87UFlzxVI81U8uFk0zEEyHBiVKPr9QdkNO4IkBMHmStoUmk9A7UjMSSypM8TuU4v30Pn/ULBdjJ9Z5Uq8ZuC0tfDt/BGHXy5V/Kejlq6LXg0HYlqTeWB1IwxdE7NWNMhQ6EL138JzxnURIzfXvCMYJov+eTAbf6LZjLnYtuwyxqxeA+uClbVU8KPojB6YoMOp5Skk9oA3QwCIGuchbvO7yTHxHRJSCc81+wX+aT1beNcnXanNPFggjizJgOazRmqhALKlbo3glRNRxVlRXlaA6vXOFeXjgrQrhjHqPVRF1dNHtKpHNqK8S7GAn2SHDRfXQDil1Y=;FUjt/2gvMeJn0OOhiaq01g=="
 ---
 

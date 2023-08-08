@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microso
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/amp/"
 type: article
 quality: 96
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -31,29 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Partner Chief Dezen: Partners Will Get More Generative AI Resources"
-    excerpt: "Dezen – who also serves as Redmond, Wash.-based Microsoft’s corporate vice president for the Global Partner Solutions (GPS) group – told CRN that the vendor is investing in its rechristened Microsoft AI Cloud Partner Program and other resources for partners around generative AI."
-    publishedDateTime: 2023-08-03T13:59:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-partner-chief-dezen-partners-will-get-more-generative-ai-resources"
+  - title: "Microsoft Bing AI Available For Third-Party Browsers; Check out the Details!"
+    excerpt: "Microsoft is making sure you can enjoy the generative AI capabilities of its Bing AI on third-party browsers. See details."
+    publishedDateTime: 2023-08-08T05:57:00Z
+    webUrl: "https://beebom.com/microsoft-bing-ai-available-third-party-browsers/"
+    ampWebUrl: "https://beebom.com/microsoft-bing-ai-available-third-party-browsers/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/microsoft-bing-ai-available-third-party-browsers/amp/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 51
+      name: Beebom
+      domain: beebom.com
+    quality: 71
     images:
-      - url: "https://www.crn.com/resources/0281-17f6ac5e9da9-0186022b231c-1000/microsoft-corporation-dezen-nicole.jpeg"
-        width: 400
-        height: 400
+      - url: "https://beebom.com/wp-content/uploads/2023/08/Microsofts-Bing-AI-is-coming-to-mobile-browsers.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "TCS launches neural manufacturing solutions on Microsoft Cloud"
-    excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to accelerate their cloud transformation journey and is composed of 50,000 Microsoft-certified associates."
-    publishedDateTime: 2023-08-03T14:38:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
 
 secured: "UD+aJgbkYwS4FrLOUYoAPdyvVdAmDlNhFIbKjbROPcEODHLv5ZAJUEh661g/XAalgpgJCiMXVwz7jxwsXAQb6lay7RB1YjhXgTA6/W59nDjW0MxF7H9Ps376+llhT66szdtGHgAAB1iov4+YftIUG45sB2bqi/olpzDRryWcXfh19Wm8nS+I6FNjb3npnzgTl6BUItrqho4C2xEhWdynmsLtwVXoON+ceafg/xknK0M5U7xpWUFuE3NtpZ/FtpvWi8YL3nM30rlTx9Vxs4dV60qZ+qTpC5K7L9Q8gK7TrgX1tqHtMJLNztA1U4YW4VTcKYUSbmsDvAU4ldaVs5QMQDaeJ7b1ViUO2/zNDj9+U9W1anfLmynvuRYELBUreaWw7rqYLLEvJpDCN1vF0ThLw156c1iMMG7IKjtfOHsA3tMSdGe1/EK8DfaNiT09Y8nys9oYr6gB288Axz4cXvVrddWLISTxDXQpSzBWqEOmJcK/QPX5Th+ZEm0RZsqrUe2CH8EAlAtHJluydcc8vbBMSw==;RVQBh47VzbUFgwxnfLV8dw=="
 ---

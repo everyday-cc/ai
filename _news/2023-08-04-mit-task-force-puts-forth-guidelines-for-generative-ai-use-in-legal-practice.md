@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MIT Task Force Proposes Principles for the Responsible Use of Generative AI in Legal"
-    excerpt: "The Task Force has publicly released an early version of seven draft principles that establish a lawyer’s duties when using AI for legal work, and is inviting feedback from the industry."
-    publishedDateTime: 2023-08-03T14:53:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/03/mit-task-force-proposes-principles-for-the-responsible-use-of-generative-ai-in-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 32
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Law-MIT-Edu-logo-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "Spotlight on Responsible AI: Why an MIT Task Force Is Advocating for 'Informed Caution'"
     excerpt: "Legaltech News recently sat down with several members of the Task Force to discuss the origin of the Task Force, what it aims to accomplish with its proposed principles for the responsible use of AI in law,"
     publishedDateTime: 2023-08-04T14:57:00Z

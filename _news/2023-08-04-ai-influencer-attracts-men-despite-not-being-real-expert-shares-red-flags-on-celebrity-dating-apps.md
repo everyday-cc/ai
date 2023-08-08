@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/entertainment/ai-influencer-attracts-men-des
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/ai-influencer-attracts-men-despite-not-being-real-expert-shares-red-flags-celebrity-dating-apps.amp"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: Fox News
@@ -28,45 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The Ethical And Legal Considerations Of Influencer Marketing And AI Photo-Editing Tools"
-    excerpt: "As AI continues to shape the digital landscape, social media influencers must balance leveraging its capabilities for creative expression and ensuring ethical practices."
-    publishedDateTime: 2023-08-03T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/considerations-of-influencer-marketing-and-ai-photo-editing-tools/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-  - title: "What Are the Main Ethical Considerations in the Development and Implementation of AI Systems?"
-    excerpt: "Ariadna Navarro explores the ethics of AI systems and discusses transparency, boundaries, and education to harness AI's potential responsibly."
-    publishedDateTime: 2023-08-03T16:49:00Z
-    webUrl: "https://marketscale.com/industries/software-and-technology/what-are-the-main-ethical-considerations-in-the-development-and-implementation-of-ai-systems/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 43
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/08/shutterstock_2300796931.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Transactions in the Age of Artificial Intelligence 5 Potential Pitfalls to Consider"
-    excerpt: "Soaring interest and rapid growth in artificial intelligence (AI) has made it a major focus of technology transactions – but the standard acquisition agreement has not kept pace. AI companies present unique risks to potential buyers that a standard ..."
-    publishedDateTime: 2023-08-04T14:55:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/transactions-in-the-age-of-artificial-1294473/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 31
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13091_35.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "oNWEYqMp4+uHJWpik38QHE5pIQEEOxJveEyKu/nQ+3xDSJHSbCLJKeXZn3oxpVdkP675JfR8/bXbw36Q/OVPggSkVxX1vJZhUyvpYR/fr2ERkavj6C1QSP873LdRuo6ZltHLDxK1aKR2keexP2OQaBB7puSA1pgwmMmrObTwHrSEWAAm349OjzQTCIrMwAtdZiHZVO2fpm1EgBYUXL6SkrhUn7gL0wQRrPeiYsykcnVQcqCi7eUJ+XZyliUJrPO3iJbdEiSAu1d94sgnJPxyp7zXR2nYvRMO8GULU/uY6uW3K4PM04mNhsxNU3KtnauftU0oFC08RuSt+bQXX36x88v2/7PK0ER6HeORbgfSN00=;HExOfZBBSRNqAPoNuiJ/lg=="
 ---

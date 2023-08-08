@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-08-ai-medicine-doctors.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-ai-medicine-doctors.amp"
 type: article
 quality: 59
-heat: 82
+heat: 83
 published: true
 
 provider:
