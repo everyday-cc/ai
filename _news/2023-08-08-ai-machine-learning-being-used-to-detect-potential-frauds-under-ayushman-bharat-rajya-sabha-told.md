@@ -1,30 +1,29 @@
 ---
 category: news
-title: "AI, machine learning being used to detect potential frauds under Ayushman Bharat, Rajya Sabha told"
-excerpt: "These technologies are used for prevention, detection and deterrence of healthcare frauds in the scheme implementation and are helpful in ensuring appropriate treatment to the eligible beneficiaries,"
-publishedDateTime: 2023-08-08T10:32:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told/articleshow/102534110.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told/articleshow/102534110.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told/amp_articleshow/102534110.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told/amp_articleshow/102534110.cms"
+title: "AI, Machine Learning Being Used To Detect Potential Frauds Under Ayushman Bharat, Rajya Sabha Told"
+excerpt: "These technologies are used for prevention, detection and deterrence of healthcare frauds in scheme implementation and are helpful in ensuring appropriate treatment to eligible beneficiaries, Mos SP Singh Baghel said."
+publishedDateTime: 2023-08-08T11:03:00Z
+originalUrl: "https://www.republicworld.com/india-news/politics/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-articleshow.html"
+webUrl: "https://www.republicworld.com/india-news/politics/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-articleshow.html"
+ampWebUrl: "https://www.republicworld.com/amp/india-news/politics/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-articleshow.html"
+cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/politics/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-articleshow.html"
 type: article
-quality: 62
-heat: 72
-published: true
+quality: 60
+heat: -1
+published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: RepublicWorld
+  domain: republicworld.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-74282,msid-102534161/new-delhi-union-minister-sp-singh-baghel-at-parliament-house-complex-during-the-.jpg"
-    width: 600
-    height: 450
+  - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/p2wypdszuajagdio_1691492489.jpeg"
+    width: 768
+    height: 439
     isCached: true
 
 related:
@@ -45,6 +44,6 @@ related:
         height: 360
         isCached: true
 
-secured: "2euVmbMY16mwVPIrFviQP4DgCkbcdlSMOusykKv/9pthCQcGNDRsJE4psTN4HAF2dzkq9psUQR50nqz3BNVPlGt0WqncPuZ8iPRwyX4YDAZVbN7usxkBqDljVwEtf5sFbOmf92NcgQEI4LvSXqU2rDnvje01q3niRX/zDC8ZFBJfvnFSnFQqHyUr8F4lSWwVEdOezmWPvV+TMU2r6umt6MkFI/GOqKifHasyHDAxoSBUUEGFu0n7+CAgQacT/cT6GNaEwPDT945cXnSXGsD6QVJ7eIv7RNA7TdUc+p4fUb5giXYJoadrEaJavZOzM0TCoJLE6vYcJ2pL/xfD8j/VpmUIMERauiv+hH9DU6VCm87C8gMxfUtZGJJqLVt/XHjMpAwzCIiAJq4H22G3vwLbhXZ21+d77hWimydex0xxl7VdJ5ZcrECL31KrKEe+zJw4JsVmILNgvad97A4c0AyhifAW0OKu3hkBtT9eWjcZ5mZ2qpkAV+9xjgNVHRCzlaQf4NxINJpmramZi1dh7Ra5zA==;o4cdJHPAr9Q7+Q1feHzFqg=="
+secured: "JP1EsGoATgUpAF7d3TT50X6Yji/Hc702HghUHuvIrWrfJUbVVqolmzo7T7Le/IItnSwsKLtuz3zT75+r21TwnpvPnX/Z79vLqyodq/Cq1GKZh9+E186h0wTgqlse4qYGpFfZ+rMOSkxtbqVHZ6wguwLNWIS0dYBIWZRWHJM2LJGdDDXNXav13IvOWY736KtW34G6F4C11QKYVPiiIpRKp2vXq9M/Bv8E0J4nppvVxh1VHLazyCDNFXQoz+hCMvJBFZvezUxnBihktdl+pLPfEd+yc/VRSDqpKiEO54VjUytJXKTXYsG3rkLxPfp5LXmSL9dxj6ShFUbNMpRojSLY9WuWsVgvujqxSGdxD7rHJtM=;D2KsqS9v3ZtpGpGP8nDXZA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
 type: article
 quality: 87
-heat: 150
+heat: 170
 published: true
 
 provider:
@@ -45,6 +45,34 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/61ddecd6cca3ad80acd3caeb/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The 12 Best ChatGPT Alternatives in 2023"
+    excerpt: "Are you looking for an alternative to ChatGPT? We’ve got you covered. Despite ChatGPT’s high level of sophistication, many other ChatGPT alternatives are available. In addition to ChatGPT, many advanced AI-based alternatives to ChatGPT can help you ..."
+    publishedDateTime: 2023-08-08T17:16:00Z
+    webUrl: "https://www.entrepreneur.com/growth-strategies/the-12-best-chatgpt-alternatives-in-2023/457117"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/providers/calendar/hero-image-calendar-457117.jpeg?format=pjeg&auto=webp"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Quickly learn to code with ChatGPT and Bard AI"
+    excerpt: "While these AI tools can be incredibly helpful ... This allows Bard to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. Bard is still under development, but it has learned ..."
+    publishedDateTime: 2023-08-08T10:49:00Z
+    webUrl: "https://www.geeky-gadgets.com/learn-how-to-code-with-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-code-with-ChatGPT.jpg"
+        width: 700
+        height: 466
         isCached: true
   - title: "The insane hardware powering ChatGPT artificial intelligence"
     excerpt: "In the realm of artificial intelligence, ChatGPT stands as a testament to the power of modern hardware. This AI chatbot, a product of collaboration between OpenAI and Microsoft, is powered by an impressive array of NVIDIA V100 and A100 GPU clusters."

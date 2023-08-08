@@ -1,0 +1,80 @@
+---
+category: news
+title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
+excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
+publishedDateTime: 2023-08-08T16:51:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/08/9861323.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861323.htm"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: TMCnet
+  domain: tmcnet.com
+
+topics:
+  - AI Hardware
+  - AI
+
+related:
+  - title: "Dell Technologies & NVIDIA Collaborate On Full-Stack Generative AI Solutions"
+    excerpt: "Dell and NVIDIA announced new validated designs for inference systems based on NVIDIA GPUs and software, a services offering, and a new Dell Precision AI workstation."
+    publishedDateTime: 2023-08-06T21:15:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d00bf4e0b0b9ba04775ac7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "BOXX Upgrades AI Workstation Module with New NVIDIA L40S GPUs"
+    excerpt: "BOXX Technologies, the leading innovator of high-performance computer workstations, rendering systems, and servers, today announced that RAXX P1G, a rack-mounted"
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635531/boxx-upgrades-ai-workstation-module-with-new-nvidia-l40s-gpus"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33635531"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635531"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Nvidia upgrades Omniverse to for OpenUSD framework and generative AI"
+    excerpt: "Nvidia said the Omniverse platform will leverage the OpenUSD framework and generative AI (AI) to accelerate industrial digitalization."
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-upgrades-omniverse-to-for-openusd-framework-and-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Studio-Image.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "NVIDIA, Global Workstation Manufacturers to Launch Powerful Systems for Generative AI and LLM Development, Content Creation, Data Science"
+    excerpt: "The systems, including those from BOXX, Dell Technologies, HP and Lenovo, are based on NVIDIA RTX 6000 Ada Generation GPUs and incorporate NVIDIA AI Enterprise and NVIDIA Omniverse™ Enterprise software."
+    publishedDateTime: 2023-08-08T17:35:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861311.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
+secured: "I3j/aNYluY9erhFA68P4IPF6lHuQiEj9AoXIWOgy4DoaVM915R/XfxGYooAIztLwaWqtDWfyxdFOeHWmXEb7BclkPAgH+HeSQMqYMnpLdcT1xr1Ti2HaJP924FPEPe+fezLKJCBog+gbz6/YQOZq4xGh91dLm8SqHY6fhdjv0y179Es0vExIMVL6YKBYOiSuXS/ARwnpQDxsXZMlIQOIom4z+oEV7pavGW5emxBH1lJ/ImAnpY7OGRUJcZLWEupm2Gs8DACYK3XG5tBm+eMXpC2VLEyTd9B0H8dS+tHdxF+vfgQOJfiedU4a4HFmxqiBUaLL4HSlKJI3fQVkXHKQMqJo9Czmw5hymsdON9ci/20=;8+wsHLB8Imz7d6+8ApGcTQ=="
+---
+

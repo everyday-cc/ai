@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-08-ai-medicine-doctors.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-ai-medicine-doctors.amp"
 type: article
 quality: 59
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI transformation of medicine: Why doctors are not prepared"
+    excerpt: "The success of artificial intelligence technologies depends largely on how physicians interpret and act upon a tool's risk predictions -- and that requires a unique set of skills that many are currently lacking,"
+    publishedDateTime: 2023-08-08T16:16:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/08/230806211627.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Big Tech rebounds and prepares for transformative AI investments"
     excerpt: "Companies are hoping that artificial intelligence will be the answer to their problems and a way to refresh aging product lines that haven't changed all that much in recent years"
     publishedDateTime: 2023-08-06T03:13:00Z

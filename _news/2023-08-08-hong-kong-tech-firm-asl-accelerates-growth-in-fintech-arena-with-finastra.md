@@ -53,6 +53,20 @@ related:
         width: 600
         height: 385
         isCached: true
+  - title: "Top 10 open banking platform providers in fintech 2023"
+    excerpt: "These are some of the most influential companies creating technology solutions and APIs to help power the open banking revolution evident in fintech today"
+    publishedDateTime: 2023-08-08T15:21:00Z
+    webUrl: "https://fintechmagazine.com/articles/top-10-open-banking-platform-providers-in-fintech-2023"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/120979ac155e6895f8e9319a94192628:855e75eea6a62c78c29f8b3e93a8fcad/gettyimages-1415779751.jpg.jpg"
+        width: 1200
+        height: 629
+        isCached: true
   - title: "Spotlight On Crypto Innovations In Fintech"
     excerpt: "Welcome to our exploration of“Spotlight on Crypto Innovations in Fintech.” In this spotlight, we delve into the dynamic intersection of cryptocu"
     publishedDateTime: 2023-08-04T08:44:00Z

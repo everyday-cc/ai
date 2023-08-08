@@ -30,7 +30,7 @@ related:
     provider:
       name: enterprisetalk
       domain: enterprisetalk.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/ABBYY-Appoints-Chip-VonBurg-as-Chief-Customer-Officer-to-Hasten-the-Success.jpg"
         width: 1500

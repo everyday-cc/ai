@@ -8,8 +8,8 @@ webUrl: "https://enterprisetalk.com/news/abbyy-appoints-chip-vonburg-as-chief-cu
 ampWebUrl: "https://enterprisetalk.com/news/abbyy-appoints-chip-vonburg-as-chief-customer-officer-to-hasten-the-success-of-intelligent-automation-among-global-customers/amp/"
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/abbyy-appoints-chip-vonburg-as-chief-customer-officer-to-hasten-the-success-of-intelligent-automation-among-global-customers/amp/"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/ABBYY-Appoints-Chip-VonBurg-as-Chief-Customer-Officer-to-Hasten-the-Success.jpg"
@@ -46,6 +47,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "cnL9v0oEQWZLXMR27d6tnIDBRDa2bobexovfWWagNt6Ku1J0VIAP87p3mt1CZgJtE8LQ+OjNUyqxQZhv08XU3u8teETtBPJHMDRFY6ThLtcJ4T7B4tVNWmjHK7rLD6h1frK4FZQDcJ75LZoAiJNzxpl5mEs2qp8mEyDA9uZLrwwbPY48aAu7x73D5Eg+bgpSJjZfC4DkLu5ypBNU+5lTr4F/ClaGHBMRWJlzOquzjJ+BGmwopnCtwH/1/3c18rX0GXbQ0MKVoK83BaZdSixRQDr6JsOytOzAsVs2o4mq1IePdqaJdXiCxcIv4JTsXZIvXzkD3OZgHshGOZh8uYTBdLgAapLo7eFDW8N2xSqmXxY=;Y6N57Om0eekVXYrEelo5EA=="
+secured: "VMSoYpTrp2vxgdZ2olidP6yYCv8Ua2iEn/TohKTSP3XocRv6sSKlnKrlMEy/FE94cSQMRVjRiyBNHwvkNctvlcFt0wmAxigRKM8flmT/F5g5geysV9+H3y8wyyrnyoKaLCXBiHrQ9y+SNhaKmIzDBX2d1E3wNAPys0MBLvdlj5v4SVCN1HdgdGQ9yc2cuvj1+gruNmgVkKNWTl4S+CdtGo36oaPTCD51P8fKFdx/eqa2I6cPDunIGh17h3RFoIzXb8hHCrSByvw2qapUCQ28C/gLHel4JZJ67XKu2Fta2tbOghO5vObVgVuRRi+5EwS4aur8GODgvpvltinnyWz5qEfKhNfEf1UbCv0NkCFJrzcr87g0pInT32tFcnzVKtcz9SM/+osJ6fZXo+w50TN6mBZ6h3mix0V1td9KDCEKuglroIXYLMWY3FODBqMpammoTqJRj7n3F01Kagbq9mkv7+1mWnKricPjC+rrK68Q9X8c93BCZJIRAJz2x8S5mLsRaoRdFflpHCeCz1KyNhF4yw==;ykIsZvaBayWckVw8rO2Xfg=="
 ---
 

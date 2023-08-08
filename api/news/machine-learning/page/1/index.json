@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-08-ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told.md",
-      "title": "AI, machine learning being used to detect potential frauds under Ayushman Bharat, Rajya Sabha told",
-      "excerpt": "These technologies are used for prevention, detection and deterrence of healthcare frauds in the scheme implementation and are helpful in ensuring appropriate treatment to the eligible beneficiaries,",
+      "path": "_news/2023-08-08-ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told.md",
+      "title": "AI, Machine Learning Is Used To Detect Potential Frauds Under Ayushman Bharat, Rajya Sabha Told",
+      "excerpt": "Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) uses artificial intelligence and machine learning (AI/ML) to detect suspicious transactions and frauds.",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told/articleshow/102534110.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told/articleshow/102534110.cms",
+      "webUrl": "https://www.outlookindia.com/national/ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-news-309079",
+      "originalUrl": "https://www.outlookindia.com/national/ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-news-309079",
       "featuredContent": null,
       "highlight": null,
       "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-74282,msid-102534161/new-delhi-union-minister-sp-singh-baghel-at-parliament-house-complex-during-the-.jpg",
-          "width": 600,
-          "height": 450,
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_1/IMAGE_1646301380.jpg",
+          "width": 640,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told/amp_articleshow/102534110.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-machine-learning-being-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told/amp_articleshow/102534110.cms",
-      "publishedDateTime": "2023-08-08T03:32:00-07:00",
+      "ampWebUrl": "https://www.outlookindia.com/national/ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-news-309079/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-news-309079/amp",
+      "publishedDateTime": "2023-08-08T03:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -106,7 +105,7 @@
       "originalUrl": "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts-11691378452164.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {

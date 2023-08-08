@@ -7,7 +7,7 @@ originalUrl: "https://www.itnewsafrica.com/2023/08/rising-cyberthreats-spur-loca
 webUrl: "https://www.itnewsafrica.com/2023/08/rising-cyberthreats-spur-local-businesses-to-embrace-ai-and-cloud-security/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,70 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Cybersecurity Startup Uses AI To Counter Emerging Threats"
-    excerpt: "The startup aims to leverage AI to combat increasingly sophisticated phishing attacks resulting from advances in generative technology."
-    publishedDateTime: 2023-08-04T00:42:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64cc492a2329e18539716307/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 549
-        isCached: true
-  - title: "This Startup Is Using AI To Increase Productivity And Reduce Meeting Mania"
-    excerpt: "With record buzz surrounding AI, consumers are eager to understand how new tools will impact their own lives. Productivity tools are one of the first aspects of technology that are ripe for innovation through AI. I recently spoke with Matt Martin, a veteran software developer and the co-founder of AI-driven calendar assistant Clockwise."
-    publishedDateTime: 2023-08-08T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/"
-    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c3cba41e471324dc16a7fe/0x0.jpg?format=jpg&width=1200"
-        width: 640
-        height: 317
-        isCached: true
-  - title: "Why do we need safeguards for AI? Cyber security, human manipulation"
-    excerpt: "AI has the potential to significantly improve our lives by finding new cures for diseases, cost-effectively educating the masses and solving some of humanity's most complex problems. However, I am also convinced that without the appropriate safeguards,"
-    publishedDateTime: 2023-08-07T11:48:00Z
-    webUrl: "https://wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/"
-    ampWebUrl: "https://wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 74
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
-  - title: "Technologists Are The New Superheroes On Corporate Boards In The Age Of AI, Blockchain And CyberSecurity"
-    excerpt: "As tech-driven disruptions and cyber threats reshape industries at an unprecedented pace, the need for technical expertise on corporate boards has never been more"
-    publishedDateTime: 2023-08-04T19:29:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd4a39912a743867716411/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fed report highlights emerging cyber threats, including generative AI"
     excerpt: "The Federal Reserve listed the proliferation of generative artificial intelligence tools among areas of emerging cybersecurity threats for banks to monitor as part of its annual resilience report."
     publishedDateTime: 2023-08-04T17:15:00Z
@@ -104,15 +40,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Cyber Connective Corporation provides a solution to cybersecurity's AI problem"
-    excerpt: "Tech companies need to recognize how crucial incorporating AI is for strengthening their overall performance and security."
-    publishedDateTime: 2023-08-04T18:45:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/08/04/cyber-connective-corporation-provides-a-solution-to-ai-problem/70531183007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 13
 
 secured: "mfcNrhB7O/2X/0MKgaukgcV5xn1D3rLOx25K+gb693yjK8B+5cpBMSXrjz+cUTgAKHoX7trLHkcbtcUNE8XJFydma1D1XjUy3RCd43sqn2ial/4+N5fBUhALWYhKBiBmHR/sQ7taVxp/qvznCandot1As6fm/Eq8i3f9glwPcnOlHC6mww2GPrIiZZrKmp5WX786am/uBbOnrueXFNUtb3xFkK82k/nTJxuP/EnEbWdnOAtV+tRKbSp/CJCNgE5WtnMaL5yHgD3S/IwkowwHHtNzmIwSfJB09RPG0JocXD5Ozuie2F8IeiOgs0E2zAA+jvr6B7EOBFVnC6We7GRfga8WdZH684/AhgoSJ6RX3/o=;qXXTl1C52BwfsPzY1xbEjg=="
 ---

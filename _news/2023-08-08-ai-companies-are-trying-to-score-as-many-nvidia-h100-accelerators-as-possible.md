@@ -19,21 +19,74 @@ topics:
   - AI
 
 related:
-  - title: "Dell Technologies & NVIDIA Collaborate On Full-Stack Generative AI Solutions"
-    excerpt: "Dell and NVIDIA announced new validated designs for inference systems based on NVIDIA GPUs and software, a services offering, and a new Dell Precision AI workstation."
-    publishedDateTime: 2023-08-06T21:15:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
+  - title: "Nvidia teams up with Hugging Face to offer cloud-based AI training"
+    excerpt: "Nvidia is partnering with Hugging Face, the AI startup, to expand access to AI compute. Timed to coincide with the annual SIGGRAPH conference this week, Nvidia announced that it’ll support a new Hugging Face service, called Training Cluster as a Service ..."
+    publishedDateTime: 2023-08-08T16:16:00Z
+    webUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/"
+    ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d00bf4e0b0b9ba04775ac7/0x0.jpg?format=jpg&width=1200"
+      - url: "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?resize=1200,900"
         width: 1200
-        height: 798
+        height: 900
+        isCached: true
+  - title: "Nvidia CEO: We bet the farm on AI and no one knew it"
+    excerpt: "It required that we reinvent the hardware, the software, the algorithms. And while we were reinventing CG with AI, we were reinventing the GPU for AI.” While ray-tracing and DLSS are still in the process of being adopted across the diverse and complex ..."
+    publishedDateTime: 2023-08-08T17:53:00Z
+    webUrl: "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/"
+    ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/nvidia-siggraph1.jpg?resize=1200,749"
+        width: 1200
+        height: 749
+        isCached: true
+  - title: "MindsDB raises funding from Nvidia to democratize AI application development"
+    excerpt: "MindsDB aims to democratize AI development and production for all stripes of developers without requiring specialized AI training."
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/mindsdb-raises-funding-from-nvidia-to-democratize-ai-application-development/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/634aea6929d4e1802257ff90_prev.png?w=1200&strip=all"
+        width: 1200
+        height: 701
+        isCached: true
+  - title: "Nvidia Unveils Faster Processor Aimed at Cementing AI Dominance"
+    excerpt: "Nvidia Corp. announced an updated AI processor that gives a jolt to the chip’s capacity and speed, seeking to cement the company’s dominance in a burgeoning market."
+    publishedDateTime: 2023-08-08T15:32:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-08-08/nvidia-unveils-faster-processor-aimed-at-cementing-ai-dominance"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "NVIDIA at SIGGRAPH: DGX Integration with Hugging Face for LLM Training; Announcement of AI Workbench"
+    excerpt: "At the the SIGGRAPH conference this morning in Los Angeles, NVIDIA and Hugging Face made several generative AI-related announcements, including a partnership intended to broaden access to generative AI supercomputing (NVIDIA’s DGX cloud hardware) for developers building large language models (LLMs) and other AI applications on the Hugging Face platform."
+    publishedDateTime: 2023-08-08T16:02:00Z
+    webUrl: "https://insidehpc.com/2023/08/nvidia-at-siggraph-dgx-integration-with-hugging-face-for-llm-training-announcement-of-ai-workbench/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 24
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/04/jensen1.jpg"
+        width: 862
+        height: 800
         isCached: true
 
 secured: "ukK2DRfwlEQwU4dhXbEpshhaZn1HZLMHgjWyHqByJ2UCgeUpRhOEIFGie9cxRxyd/xdudwLgqUd23MmZMut4BLBp6/1i3PMkDTZR3xV4qrPdwGVsVKVvasYwnV55nNEPNxdogNwcRvwCLj8mJ+o8YYuImtm6lT93T3IGPCmoSMji2wQ6a3jf0A8Nhw11+pEKqJPG/LHcvNmrXQ8GGAyK6zGNsM3SgCi+6aKwkNIims7kvPYf/lAFWJmeWXPwvislxAOPEVYHT2hbyZT75QXK/GNGdxF4RL5fIRy3JhZPNjgweg0jK4dyHFx5nVZn8P9EFcQyIT4ekCspD2c8EO8SHrwh9qHZw1KXr2Wm100OR4M=;lKCwnno3N9Ltbu0G+vASqg=="

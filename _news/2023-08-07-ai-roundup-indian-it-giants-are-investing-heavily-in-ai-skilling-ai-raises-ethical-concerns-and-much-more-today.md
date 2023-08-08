@@ -27,20 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
-    excerpt: "The AI data sector, worth over $2 billion globally in 2022 ... In the neighboring villages of Alahalli and Chilukavadi, one Indian startup is testing a new model. Chandrika works for Karya, a nonprofit launched in 2021 in Bengaluru (formerly Bangalore ..."
-    publishedDateTime: 2023-08-04T21:46:00Z
-    webUrl: "https://time.com/6297403/the-workers-behind-ai-rarely-see-its-rewards-this-indian-startup-wants-to-fix-that/?trk=public_post_comment-text"
+  - title: "AI and Machine Learning set to drive India's $8 billion digital advertising industry, say experts"
+    excerpt: "AI and operational machine learning are expected to transform the communication sectors, including advertising and PR. These technologies have the potential to significantly impact the Indian digital advertising industry,"
+    publishedDateTime: 2023-08-07T04:07:00Z
+    webUrl: "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts-11691378452164.html"
+    ampWebUrl: "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts/amp-11691378452164.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts/amp-11691378452164.html"
     type: article
     provider:
-      name: Time
-      domain: time.com
+      name: Mint
+      domain: livemint.com
     quality: 61
     images:
-      - url: "https://api.time.com/wp-content/uploads/2023/07/karya-india-ai-8.jpg?quality&#x3D;85"
-        width: 2400
-        height: 1800
+      - url: "https://www.livemint.com/lm-img/img/2023/08/07/600x338/USA-STOCKS-AI-0_1691381054977_1691381085497.JPG"
+        width: 600
+        height: 338
         isCached: true
+  - title: "Understanding The Impact And Driving Factors Of Conversation AI"
+    excerpt: "The advent of conversation AI signifies a major leap in the evolution of data management and interaction. It democratizes data access and has the potential to optimize an array of processes across diverse sectors. It not only simplifies data analysis but also fosters a more engaged approach to data exploration."
+    publishedDateTime: 2023-08-07T13:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/understanding-the-impact-and-driving-factors-of-conversation-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "B27i5Ko8QWA2r7NL8nka1lnJ364eY4IRXZXSy+mX/cGI5s2YA1K90XzQpA9/b59aoqOChN6xvAHbvHihPi03v0SDaGnwFzXkz9/FqGqpyYNWK/mm9pr51kjSBTEneqopCvZUTCXOVJB6R+nUa9L9UVuNM5NMo1QWg59LiPmsp0CTH1GRAIxLX4KhqeOH+GyE0QHvJnYxaz1FJKeCDtvSG0/PQjKBWT05sS2xrtYUsVNmJMEO+l81DdbhyLQISv5VOe4AsMj68NGD6dYReOok63jfXy3EqmsbztsWKQ4CT56kimTkztLBhtrjzIIqp9hdkQVRe5xT+TODDc051rS4hVbG6H8U/TF8iM4ZA3MCFV0nb47J72lo/DcD9D1nbvi3K2MWngsTt4lX+bww/PIUmhW9gXeHhNy/5c7UL2usMHDIfYJgFs1zonG3FICJEDcqmO+wD1d7d59KIGCeq24iQ8jQoBvy2hZ5A+zpGfyEWpjSFlENSenJnoDYopFTdi1XkNp67HvZPlpmJLCKGh5jng==;yjwoUiFNrf1L8i2H3B68RQ=="
 ---

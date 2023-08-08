@@ -1,0 +1,84 @@
+---
+category: news
+title: "Nvidia upgrades Omniverse to for OpenUSD framework and generative AI"
+excerpt: "Nvidia said the Omniverse platform will leverage the OpenUSD framework and generative AI (AI) to accelerate industrial digitalization."
+publishedDateTime: 2023-08-08T16:00:00Z
+originalUrl: "https://venturebeat.com/ai/nvidia-upgrades-omniverse-to-for-openusd-framework-and-generative-ai/"
+webUrl: "https://venturebeat.com/ai/nvidia-upgrades-omniverse-to-for-openusd-framework-and-generative-ai/"
+type: article
+quality: 67
+heat: -1
+published: false
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/08/Studio-Image.jpg?w=1200&strip=all"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "Dell Technologies & NVIDIA Collaborate On Full-Stack Generative AI Solutions"
+    excerpt: "Dell and NVIDIA announced new validated designs for inference systems based on NVIDIA GPUs and software, a services offering, and a new Dell Precision AI workstation."
+    publishedDateTime: 2023-08-06T21:15:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d00bf4e0b0b9ba04775ac7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "BOXX Upgrades AI Workstation Module with New NVIDIA L40S GPUs"
+    excerpt: "BOXX Technologies, the leading innovator of high-performance computer workstations, rendering systems, and servers, today announced that RAXX P1G, a rack-mounted"
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635531/boxx-upgrades-ai-workstation-module-with-new-nvidia-l40s-gpus"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33635531"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635531"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
+    excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
+    publishedDateTime: 2023-08-08T16:51:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861323.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "NVIDIA, Global Workstation Manufacturers to Launch Powerful Systems for Generative AI and LLM Development, Content Creation, Data Science"
+    excerpt: "The systems, including those from BOXX, Dell Technologies, HP and Lenovo, are based on NVIDIA RTX 6000 Ada Generation GPUs and incorporate NVIDIA AI Enterprise and NVIDIA Omniverse™ Enterprise software."
+    publishedDateTime: 2023-08-08T17:35:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861311.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
+secured: "KnWmMu1qkwLsbYQAUdV3ht+ox4FLiHPMOqer1Z0L3qAn3O1mtyy0ZArlOEQ+UECEDelibubjQmPKKZlC7/AEtkvhRZOwNlvqT143NkyH6hL1TscX3pjddxcg1JL7IPwcX84+uCkdramMmlIqIYXeKreRqjKh98BLnk43OoNNObFKOZenuDPYmHkhNTTtbdNHF9XxAFjZkcALILGB1Du8rI+Dys3qyy4XXtwDhQZuTqQ+s4QdtRNCE+O2xtVvIZgjSFO89l1S3v+kKcZ4M4I6/2WoubHQr2MG2bDEofY508LhrE2PcOncdkTjeBe3YCEXAHtR5W3CBq+Q4bzYE9oalRI5bKBkvvlyR5SpWvi3ERU=;5Fd2+8V/KYOpI6TH78aOJw=="
+---
+

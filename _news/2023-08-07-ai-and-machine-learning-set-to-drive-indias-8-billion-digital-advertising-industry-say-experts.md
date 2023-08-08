@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-ind
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts/amp-11691378452164.html"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Roundup: Indian IT giants are investing heavily in AI skilling; AI raises ethical concerns and much more today."
+    excerpt: "Indian IT giants are investing heavily in AI skilling prominent projects come their way; AI technology amazes, but also raises ethical concerns; Huawei revives smartphone business with AI-Powered OS amid Ongoing US sanctions- this and more in our daily AI roundup. Let us take a look."
+    publishedDateTime: 2023-08-07T15:14:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/5-things-about-ai-you-may-have-missed-today-it-giants-take-to-ai-skilling-racial-bias-in-ai-tool-and-more-71691420800833.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-it-giants-take-to-ai-skilling-racial-bias-in-ai-tool-and-more-71691420800833.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-it-giants-take-to-ai-skilling-racial-bias-in-ai-tool-and-more-71691420800833.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 52
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/08/07/1600x900/Artificial_Intelligence_1691420945768_1691420946044.jpg"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "Understanding The Impact And Driving Factors Of Conversation AI"
     excerpt: "The advent of conversation AI signifies a major leap in the evolution of data management and interaction. It democratizes data access and has the potential to optimize an array of processes across diverse sectors. It not only simplifies data analysis but also fosters a more engaged approach to data exploration."
     publishedDateTime: 2023-08-07T13:29:00Z

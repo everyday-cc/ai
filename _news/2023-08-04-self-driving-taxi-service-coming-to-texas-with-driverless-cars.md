@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox26houston.com/news/self-driving-taxi-service-coming-t
 cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/05/How-Tesla-Is-Using-Artificial-Intelligence-to-Create-The-Autonomous-Cars-Of-The-Future.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Riders will be able to book a self-driving Waymo in Austin, Texas this fall"
-    excerpt: "Waymo has announced that it has finished its testing phase and will open up self-driving rides to the public in Austin, Texas this fall."
-    publishedDateTime: 2023-08-04T00:35:00Z
-    webUrl: "https://bgr.com/business/riders-will-be-able-to-book-a-self-driving-waymo-in-austin-texas-this-fall/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/08/Waymo-austin.jpeg?quality=82&strip=all"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "120 driverless road trains for the West Pilbara"
     excerpt: "In a world-first, MinRes will deploy a fleet of 120 autonomous road trains, which will each carry 330 tonnes of iron ore along a 150km route."

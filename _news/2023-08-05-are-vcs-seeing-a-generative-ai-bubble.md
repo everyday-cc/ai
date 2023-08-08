@@ -70,6 +70,36 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 86
+  - title: "Chegg is getting a generative AI makeover just in time for back-to-school season"
+    excerpt: "ChatGPT's advanced abilities have the potential to shake up many industries, and online learning services are an early example of this. With a free, competent tool like ChatGPT that can help with homework and studying, why would students pay for an online learning service?"
+    publishedDateTime: 2023-08-08T16:37:00Z
+    webUrl: "https://www.zdnet.com/article/chegg-is-getting-a-generative-ai-makeover-just-in-time-for-back-to-school-season/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chegg-is-getting-a-generative-ai-makeover-just-in-time-for-back-to-school-season/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chegg-is-getting-a-generative-ai-makeover-just-in-time-for-back-to-school-season/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/d5cc6ed5011ba9dd8d03158587d37492d7ff0cd0/2023/08/07/e628bc31-6534-451e-b147-c29be7e18310/gettyimages-1245734633-2.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Nvidia launches RTX workstations chips for content creation in the generative AI era"
+    excerpt: "Nvidia is launching new RTX workstation graphics processing units (GPUs) for the generative AI era at Siggraph."
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-launches-rtx-workstations-chips-for-content-creation-in-the-generative-ai-era/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/RTX-Workstation-Image.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Scale generative AI with new Azure AI infrastructure advancements and availability"
     excerpt: "We are excited to share a series of announcements that highlight Microsoft Azure’s commitment to driving innovation and empowering businesses with cutting-edge AI solutions.\nThe post Scale generative AI with new Azure AI infrastructure advancements and availability appeared first on Azure Blog.\n"
     publishedDateTime: 2023-08-07T16:00:00Z
@@ -135,6 +165,34 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kognitos Launches the Industry's Most Advanced Generative AI Automation Platform"
+    excerpt: "Kognitos is introducing self service functionality for business process experts to quickly start building automations interactively without prior automation training. It comes with an industry-first generative AI-powered copilot for writing automations in natural language."
+    publishedDateTime: 2023-08-08T16:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kognitos-launches-the-industry-s-most-advanced-generative-ai-automation-platform-1032530091"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://mma.prnewswire.com/media/2170997/Kognitos_Logo.jpg"
+        width: 400
+        height: 210
+        isCached: true
+  - title: "Episode 8: Artificial intelligence and the future of warfighting"
+    excerpt: "The advent of ChatGPT and its successor, GPT-4, in recent months has brought artificial intelligence into everyday use. Far from being science fiction, AI is now a frontier for the U.S. military as it competes with China, Russia and other global adversaries."
+    publishedDateTime: 2023-08-08T10:33:00Z
+    webUrl: "https://www.stripes.com/multimedia/podcasts/military_matters/2023-08-08/paul-scharre-ai-military-china-10973585.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 37
+    images:
+      - url: "https://www.stripes.com/incoming/jqp809-mil_ai_cover-edit.jpg/alternates/LANDSCAPE_480/MIL_AI_cover%20edit.jpg"
+        width: 480
+        height: 299
+        isCached: true
   - title: "MIT Task Force Puts Forth Guidelines for Generative-AI Use in Legal Practice"
     excerpt: "In response to the growing concerns surrounding the ethical use of artificial intelligence (AI) in the legal profession, law.MIT.edu has formed a Task Force dedicated to developing principles and guidelines for the responsible application of generative-AI in legal work."
     publishedDateTime: 2023-08-04T09:28:00Z
@@ -149,10 +207,33 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Nvidia puts generative AI at the forefront with AI Workbench and Hugging Face partnership"
+    excerpt: "As part of the collaboration, Hugging Face will offer a brand-new service, called Training Cluster as a Service. It will simplify the creation and tailoring of new custom generative AI models for enterprise customers using its platform and Nvidia DGX Cloud for infrastructure with a single click."
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://siliconangle.com/2023/08/08/nvidia-puts-generative-ai-forefront-ai-workbench-hugging-face-partnership/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/NVIDIA-AI-Workbench-Image.jpg"
+        width: 1280
+        height: 680
+        isCached: true
   - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
     excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
     publishedDateTime: 2023-08-08T15:58:00Z
     webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861286.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+  - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
+    excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
+    publishedDateTime: 2023-08-08T17:19:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861286.htm"
     type: article
     provider:
       name: TMCnet

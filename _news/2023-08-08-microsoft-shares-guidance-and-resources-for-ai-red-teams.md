@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft shuts down Windows’ Cortana voice assistant as it chases AI ambitions"
-    excerpt: "Cortana began life on Microsoft’s ill-fated Windows Phone platform in the early 2010s, where it served the same general function as Apple’s Siri and Google Now: a hands-free way to interact with your phone that also attempted to have a \"cute\" \"personality.\""
-    publishedDateTime: 2023-08-04T17:19:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/"
-    ampWebUrl: "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/"
+  - title: "Microsoft is expanding Bing AI to more browsers - but there's a catch"
+    excerpt: "Already available for select users in Chrome and Safari, the AI chatbot is wending its way to other browsers on both desktop and mobile."
+    publishedDateTime: 2023-08-08T16:57:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 100
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cortana-800x506.jpg"
-        width: 800
-        height: 506
+      - url: "https://www.zdnet.com/a/img/resize/16006480204872b8e8ce286a8314ef1029138839/2023/08/08/c3ad8625-df07-48b1-b5df-fff4b8deb6fb/gettyimages-1546726492.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Leidos-Microsoft Partnership Is Latest Sign AI Is Taking The Defense Industry By Storm"
+    excerpt: "Defense firms are vigorously pursuing use of artificial intelligence in their product offerings, but the challenges are different from those of civilian AI applications."
+    publishedDateTime: 2023-08-07T16:08:00Z
+    webUrl: "https://www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/"
+    ampWebUrl: "https://www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 96
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d1169365df6e8e3e034c63/0x0.jpg?format=jpg&width=1200"
+        width: 1054
+        height: 720
         isCached: true
   - title: "Microsoft Brings Bing AI to More Browsers"
     excerpt: "Soon you won't have to switch to Edge to use Bing AI."
@@ -89,6 +105,36 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Bing AI Available For Third-Party Browsers; Check out the Details!"
+    excerpt: "Microsoft is making sure you can enjoy the generative AI capabilities of its Bing AI on third-party browsers. See details."
+    publishedDateTime: 2023-08-08T05:57:00Z
+    webUrl: "https://beebom.com/microsoft-bing-ai-available-third-party-browsers/"
+    ampWebUrl: "https://beebom.com/microsoft-bing-ai-available-third-party-browsers/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/microsoft-bing-ai-available-third-party-browsers/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 71
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/08/Microsofts-Bing-AI-is-coming-to-mobile-browsers.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Microsoft’s Azure OpenAI Service is now available in new regions"
+    excerpt: "Microsoft has expanded its Azure OpenAI Service to provide more businesses around the world with generative artificial intelligence capabilities through models such as GPT-4 and GPT-35-Turbo. The new live regions are in Australia East,"
+    publishedDateTime: 2023-08-08T14:39:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsofts-azure-openai-service-is-now-available-in-new-regions"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 69
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4531/AzureOpenAI.jpg"
+        width: 975
+        height: 548
+        isCached: true
   - title: "Microsoft’s AI Red Team Has Already Made the Case for Itself"
     excerpt: "Since 2018, a dedicated team within Microsoft has attacked machine learning systems to make them safer. But with the public release of new generative AI tools, the field is already evolving."
     publishedDateTime: 2023-08-07T17:51:00Z
@@ -98,6 +144,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 64
+  - title: "Microsoft Azure expands availability of OpenAI GPT-4 and GPT-35-Turbo models to more regions"
+    excerpt: "Microsoft's Azure AI infrastructure has made an expansion, offering OpenAI's GPT-4 and GPT-35-Turbo models in various global regions. The service now covers"
+    publishedDateTime: 2023-08-08T15:37:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-azure-expands-availability-of-openai-gpt-4-and-gpt-35-turbo-models-to-more-regions/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 58
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Microsoft-Adds-Dynamic-JSON-To-Azure-Core-Library-For-.NET_.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft introduces new managed VMs for AI applications"
     excerpt: "Microsoft has introduced the ND H100 v5 Virtual Machine series, giving enterprises an enhanced infrastructure for training and running generative AI"
     publishedDateTime: 2023-08-08T11:13:00Z
@@ -164,6 +224,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/05/bing-chat-gpt-4-free-visual-results.jpg?quality=82&strip=all"
         width: 1600
         height: 879
+        isCached: true
+  - title: "Bing AI is coming to more browsers, including on mobile, ‘soon’"
+    excerpt: "Microsoft's Bing AI chatbot is coming to more browsers such as Google Chrome, and will start working on mobile soon too."
+    publishedDateTime: 2023-08-08T13:52:00Z
+    webUrl: "https://9to5google.com/2023/08/08/microsoft-bing-ai-browsers/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/bing-logo-circle-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
     excerpt: "\"Working together, we will combine our AI expertise to create AI-fueled offerings that will enable businesses to further automate and scale their processes and make informed decisions based on data-driven insights,"

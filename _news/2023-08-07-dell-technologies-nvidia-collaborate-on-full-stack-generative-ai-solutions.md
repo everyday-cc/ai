@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technolog
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 126
 published: true
 
 provider:
@@ -31,15 +31,54 @@ images:
     isCached: true
 
 related:
-  - title: "AI Companies are Trying to Score as Many Nvidia H100 Accelerators as Possible"
-    excerpt: "Elon Musk said that acquiring GPUs for AI training is even more difficult than buying drugs. Tweet (opens in a new tab) To give you an idea of the current demand, VentureBeat flagged a lengthy post discussing the \"GPU shortage\" currently riling the AI ..."
-    publishedDateTime: 2023-08-07T17:12:00Z
-    webUrl: "https://www.extremetech.com/computing/ai-companies-are-trying-to-score-as-many-nvidia-h100-accelerators-as-possible"
+  - title: "BOXX Upgrades AI Workstation Module with New NVIDIA L40S GPUs"
+    excerpt: "BOXX Technologies, the leading innovator of high-performance computer workstations, rendering systems, and servers, today announced that RAXX P1G, a rack-mounted"
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635531/boxx-upgrades-ai-workstation-module-with-new-nvidia-l40s-gpus"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33635531"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635531"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 16
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Nvidia upgrades Omniverse to for OpenUSD framework and generative AI"
+    excerpt: "Nvidia said the Omniverse platform will leverage the OpenUSD framework and generative AI (AI) to accelerate industrial digitalization."
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-upgrades-omniverse-to-for-openusd-framework-and-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Studio-Image.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
+    excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
+    publishedDateTime: 2023-08-08T16:51:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861323.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "NVIDIA, Global Workstation Manufacturers to Launch Powerful Systems for Generative AI and LLM Development, Content Creation, Data Science"
+    excerpt: "The systems, including those from BOXX, Dell Technologies, HP and Lenovo, are based on NVIDIA RTX 6000 Ada Generation GPUs and incorporate NVIDIA AI Enterprise and NVIDIA Omniverse™ Enterprise software."
+    publishedDateTime: 2023-08-08T17:35:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861311.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Zak+hk5ODev3WMupxgvW1ih2Iz2S0aL4CkM4/Ls2AndSz7C1D1CbbzfZOt3BOCEILw0AqvhSzuhSW0z04wjzy3b5F72y81qD1Vzgbjg8Hml3xm2FUMb6O+cwTI6Tzlh9Xh0HiURhqWMWg2JijQK+2y1RbYT8NxLIbr61wkrTsdyMx0daSXE1gjzKQ+29DmYOsJTnlyH9nNGtnh9CE9I33/6lc+cuQxoHLaiHQIyZwRTxtWXZFL1a0FOwtxD9ymQ3d8zN26QV6ZYEN9NZ8Uu8n+OGc7o/heW7lBNjPdQ7IzZcYcQkVKsq14Yu3OaF085K4s5NmQJ+VUV+sRr4imIRqZlgYCOLw4V3XbScjRu5/DZnf3uGOgDPwO4torbpoAp5HJXgz8GKVw5V9rsxw8TlrQEAaEBEenPrwNu2/wumiivFwqp7ypRn4LI0yDw+sle2S6kw5oUEj4Q8Ws+rwUq/beNzulhKts3qvgB8z+WkhHcnrbOvAL9c4NoMn5fsh7J7tY+tkFPpO3sZjVx/DHDfCg==;zCF6XfEc/ulDbnP2cMhXsA=="
 ---

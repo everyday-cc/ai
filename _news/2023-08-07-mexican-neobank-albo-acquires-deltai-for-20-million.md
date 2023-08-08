@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/97684/mexican-neobank-albo-a
 webUrl: "https://www.finextra.com/pressarticle/97684/mexican-neobank-albo-acquires-deltai-for-20-million"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Neobank albo Acquires delt.ai to Expand Fintech Product Offering, Strengthen Presence in Mexico"
+    excerpt: "delt.ai is a Y-Combinator Fintech company “with experience in the Mexican market, specializing in financial services and management tools for SMBs.” Its product portfolio reportedly “includes business loans, credit cards, and a financial platform for ..."
+    publishedDateTime: 2023-08-08T16:02:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211196-neobank-albo-acquires-delt-ai-to-expand-fintech-product-offering-strengthen-presence-in-mexico/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/08/211196-neobank-albo-acquires-delt-ai-to-expand-fintech-product-offering-strengthen-presence-in-mexico/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/08/211196-neobank-albo-acquires-delt-ai-to-expand-fintech-product-offering-strengthen-presence-in-mexico/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 62
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/04/Snarling-Jaguar-Mexico.jpg"
+        width: 650
+        height: 487
+        isCached: true
   - title: "Neobank albo acquires delt.ai for $20m"
     excerpt: "Neobank, albo acquired delt.ai, a fintech company focused on SMBs, for $20m late last week. Mexico-based albo plans to use the acquisition to expand its credit and debit products for consumers and SMBs."
     publishedDateTime: 2023-08-07T22:24:00Z

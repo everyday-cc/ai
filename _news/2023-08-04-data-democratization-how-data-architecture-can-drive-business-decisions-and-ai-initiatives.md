@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/data-democratization-how-data-architectur
 webUrl: "https://www.ibm.com/blog/data-democratization-how-data-architecture-can-drive-business-decisions-and-ai-initiatives/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
+    excerpt: "The new GPU powers accelerated computing workloads for generative AI, which is transforming workflows and services across industries, including text, image and video generation, chatbots, game development,"
+    publishedDateTime: 2023-08-08T17:34:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861312.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "c8NCYDGZsBF/wPRjwub/rmBCBf5RW2rikuoH4MaJp8n8rb9xuOL063BBruMvc7Rwf1fg9/tfEUxzIX4rg8+9te7FNn8glfqSAuFb5JmOaIP1iAnro5Kd4eKPrxZNW99GIZxMlYvBQbz8F7cHgxYjOCM7ySm4Il+DIx+p/cOqgXCB9cflYfyHOqslTyLL+hdty/hXlRfzagQeUlOErnDg4hTmr0AXRlkS3a2roPzNcALsdCYSTjf5bOUKKBKCUlFAG6IRO/Vpog2xTINHX2A+FToNp6ZoL9EeKXGlVYtmDSJf+0clVs0KJEhvs3dz+IstsGLSLJxG27iaptO34pQPa+kY2kt6EXKulgaRmWXunik=;8Lelu92lTLdzDls8IInv2A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/dropzone-ai-launches-autonomous-a
 webUrl: "https://venturebeat.com/security/dropzone-ai-launches-autonomous-ai-agent-to-investigate-security-alerts-raises-3-5m-in-seed-funding/"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     height: 500
     isCached: true
 
-secured: "ysf89eZ8a+JyA6gvPvGfjwsddvDC2IFGsDpdMD3yzkAMcyMkLw7XgVsFOtmx+twgGwKi4EOgB5HhZWekqLN/hedZEnC+1XSU2zj3UGy07vA9k6LEiNbRNOjaYrVkY3zHYZaaEIdFszBoMhjh6PABKtKM5fFJ83rvKdvNkAt1MJvAw4BrMQry1XKaOOBlm3q1y7z+Mf54iSEgddcalFEQh1hfH/ZuUTizHJtT35VBxz1Gg/HMJmmxhoub5ySGbYKW0t8ReL3Llx0Mz8tPZ63hX5hyntWRlbq4N8A2RVCJOh2slvtJD6HVaEmZUu/HDfUc9iYG2sG1pxiKxnm8vJQqqGGxnUfWtuVU5S1TmbUX39Q=;mqJzQuXwV7sE8iEmVDFbdQ=="
+related:
+  - title: "Seattle startup Dropzone AI, which develops autonomous AI security agents, raises $3.5M"
+    excerpt: "Dropzone AI announced a $3.5 million seed round led by Decibel Partners, with participation from Pioneer Square Ventures Fund. Dropzone’s pre-trained AI security agents are designed to work alongside"
+    publishedDateTime: 2023-08-08T17:30:00Z
+    webUrl: "https://www.geekwire.com/2023/seattle-startup-dropzone-ai-which-develops-autonomous-ai-security-agents-raises-3-5m/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 76
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/08/64caaf5ee67f84f8a90d94ef_Edward-p-500.jpeg"
+        width: 500
+        height: 500
+        isCached: true
+
+secured: "Jaecmt/RyzBKOHvfCZ9rKoZnoWM2RMNlCKob/HSv0ckGnqkk3LnIVWdx8kleYmNzXikP6yoItlqWrdBH7GUC/YryAq4vaedH/tgaDRuEiLQXRb2iqjGdaFHlRXlPQw76NTzx6EthtDaxck/OJDTnzjb1tlMr4CmQhVPMZNdRs75MZ48utipKc0IwSrF6sqlKkHF2991i1LJ/VwXwx+QVVA+TJ0ABCWyCf0qvT3yPkTU0lEfoTeQeMncwcRtBNzvibR7vVsFCnPZ0QqEOpf5Hg7S5q3v36rJNb38g/jYhuK5b+3OlTPaclK+01ZcsfXJO3lzVtjS9fEqV8uE1+1izAXA7rcSYOr5mHQEUCdgWHZqGL/1S34U/sBVFYIo9N1xg5iLTPUBwpn6sZ5k+S+O5/lkHKSkK1Z5jvaubKlvMsFwKLLc4rHFMoFLNUc5oidHHCVQcGAghnrFXhO+U0wv2l/QyYC+toOsfUgrMWXrFFRETUaS/BERpi5G8qNsTLM22vyBzSdwFLUeEy+FKsxQs4A==;CLEGPDDYZEkOa/4/9R+YHA=="
 ---
 

@@ -39,6 +39,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 89
+  - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
+    excerpt: "The new GPU powers accelerated computing workloads for generative AI, which is transforming workflows and services across industries, including text, image and video generation, chatbots, game development,"
+    publishedDateTime: 2023-08-08T17:34:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861312.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "hsTwQKJKFQ04j/G+QfvY1lK1yIfzUm5VyVrceRVSBYFbhVIK1dpdnBjBQKtaN5ZATFIez+NAFj1WLQpifnBO57g+yBcati+jPmHr4k+rE3lhfk4mCE3DDplcQaaP/4i1xPe9H9MuuLvXquWeXcEDzlhoC6i7VhX/uPZpPGFI8V7BlRnX7uuxbW5V0qMOmTKs7dJUhBOO9BLnoUQame4FQu7RuIsoGw5v3jwILeHVuCmkqmO8YfS71mdaZCO0jY2BHbw8vyRIlNQ/m73rXf/5PgYMkia6SPkvA0w7AshT+3sfO9OGQ3P6OGus/iDtT99yht1bzeyPdLE/YLWOk0g9rlR6ohVNLbCYZfbgfVJaL8fEokYscT/f8PDbPLaAAkon40aEA4oePEQEVGFvaGvQmhnC+laimBFAGnaQkMcXnkONg0VUJHKInep+n3wdZ6MA5r8Tlt6IOh56DYe/wG/lA8A7CjXXqDkzW6zaK8JFlENfanJ/doqvZNFzvCe8I2Mctf2dc/YCo7iXODnSADozzA==;HCsGM76JUAz7l8hTLcPiMA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/08/04/technologists
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/amp/"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: Forbes
@@ -30,91 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "This Cybersecurity Startup Uses AI To Counter Emerging Threats"
-    excerpt: "The startup aims to leverage AI to combat increasingly sophisticated phishing attacks resulting from advances in generative technology."
-    publishedDateTime: 2023-08-04T00:42:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/"
+  - title: "Capitalizing on cutting-edge technologies: Investing in blockchain and AI"
+    excerpt: "In today’s fast-paced and interconnected world, the emergence of disruptive technologies has become a catalyst for change across various industries. The financial industry too is experiencing a seismic shift as emerging technologies redefine traditional"
+    publishedDateTime: 2023-08-05T09:15:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/capitalizing-on-cutting-edge-technologies-investing-in-blockchain-and-ai/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/capitalizing-on-cutting-edge-technologies-investing-in-blockchain-and-ai/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/capitalizing-on-cutting-edge-technologies-investing-in-blockchain-and-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 58
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64cc492a2329e18539716307/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 549
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
         isCached: true
-  - title: "This Startup Is Using AI To Increase Productivity And Reduce Meeting Mania"
-    excerpt: "With record buzz surrounding AI, consumers are eager to understand how new tools will impact their own lives. Productivity tools are one of the first aspects of technology that are ripe for innovation through AI. I recently spoke with Matt Martin, a veteran software developer and the co-founder of AI-driven calendar assistant Clockwise."
-    publishedDateTime: 2023-08-08T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/"
-    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c3cba41e471324dc16a7fe/0x0.jpg?format=jpg&width=1200"
-        width: 640
-        height: 317
-        isCached: true
-  - title: "Why do we need safeguards for AI? Cyber security, human manipulation"
-    excerpt: "AI has the potential to significantly improve our lives by finding new cures for diseases, cost-effectively educating the masses and solving some of humanity's most complex problems. However, I am also convinced that without the appropriate safeguards,"
-    publishedDateTime: 2023-08-07T11:48:00Z
-    webUrl: "https://wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/"
-    ampWebUrl: "https://wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 74
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
-  - title: "Rising Cyberthreats Spur Local Businesses to Embrace AI and Cloud Security"
-    excerpt: "With the cybersecurity landscape continually evolving, it is more important than ever for local businesses to keep pace with the changes. The increasing prevalence of threats like phishing, business email compromise (BEC),"
-    publishedDateTime: 2023-08-07T09:25:00Z
-    webUrl: "https://www.itnewsafrica.com/2023/08/rising-cyberthreats-spur-local-businesses-to-embrace-ai-and-cloud-security/"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 54
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2023/08/Cybersecurity-2023-696x461.png"
-        width: 696
-        height: 461
-        isCached: true
-  - title: "Fed report highlights emerging cyber threats, including generative AI"
-    excerpt: "The Federal Reserve listed the proliferation of generative artificial intelligence tools among areas of emerging cybersecurity threats for banks to monitor as part of its annual resilience report."
-    publishedDateTime: 2023-08-04T17:15:00Z
-    webUrl: "https://www.complianceweek.com/risk-management/fed-report-highlights-emerging-cyber-threats-including-generative-ai/33392.article"
-    type: article
-    provider:
-      name: Compliance Week
-      domain: complianceweek.com
-    quality: 39
-    images:
-      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/5/9/8/17598_federalreserve_861377.jpg"
-        width: 1024
-        height: 536
-        isCached: true
-  - title: "Cyber Connective Corporation provides a solution to cybersecurity's AI problem"
-    excerpt: "Tech companies need to recognize how crucial incorporating AI is for strengthening their overall performance and security."
-    publishedDateTime: 2023-08-04T18:45:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/08/04/cyber-connective-corporation-provides-a-solution-to-ai-problem/70531183007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 13
 
 secured: "rCAVdnnw5lvhuB/f/gJojLI6wfDw9qoc1Ye0+y5ELFyB+Zs+RKEgmioAXVo+eK1aRpeszQtXDT1z3lRtnlxv6xrwR9dRw1SpCHknaZMAGmwD9+WWtvxgUXiA8ShvaYgneLxP3RMbXfUMhEjpkK+sZZO65H99Rdu64tVdWsFr3Bn27MmT3M0e7jF/5vScsD2ku1p4ALTXlVxoehkadMJkSyqygHQ/jdiGNDkMHJ9rnPxnp6n3dr6flN7SyoItXNua51w2Gd7FmZY9+GQyi/z2JiQeUlztmfaJhZtfCJageYjL1nUxU+g5at0wOGwKom6/aiKehnQF8FKvDwtNEy/dB9QX+bwr5BTPqj9/yV7qNpE=;wH8qup0M8weq/1SJ4rh1lQ=="
 ---

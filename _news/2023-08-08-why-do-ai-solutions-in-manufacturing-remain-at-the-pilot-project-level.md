@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/why-do-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/08/why-do-ai-solutions-in-manufacturing-remain-at-the-pilot-project-level/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 720
     isCached: true
+
+related:
+  - title: "This Startup Is Using AI To Increase Productivity And Reduce Meeting Mania"
+    excerpt: "With record buzz surrounding AI, consumers are eager to understand how new tools will impact their own lives. Productivity tools are one of the first aspects of technology that are ripe for innovation through AI. I recently spoke with Matt Martin, a veteran software developer and the co-founder of AI-driven calendar assistant Clockwise."
+    publishedDateTime: 2023-08-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c3cba41e471324dc16a7fe/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 317
+        isCached: true
 
 secured: "oN1du7D1taAgJgbQiBMjYanthvo3a+iZ+xTOV45MTqZ8Z7iXYb7T3O+xW8TMQ4fejtM9pQPb5S1GIZ5k/4ZQuOLKuB25dB4P9kRBPCm1xWJ1fBoZc8mAYtA3m9YBizZLLxl9zi7E5R9nr6DX1/S9R2CtlA/QkUuYoVW7+ESJT4yzekpQxP80voi+k2Nz6Tz5XZX280SYmCgI3qyj7w49MZKQxbYT9X3wXkA/McnWtEu0HUPtoyVr3ClAlrhkXMvoamSFRVm1d2fRBwO1j9uc2xX3gxVr4aPal9lqmbOriKhdiqCu83MLmITkI6BJVjGJJ23QVHQYJkDUmqWdS3U7+0BdXTvUrdMvYCGz9t3RLTKOxmIPa2EC/UVsOjGDWzsTYAJY2dD1WpR2PtgYwV7WfkuufTtXGkuQLzGxR1J/ecP/YtJ+5t0jFrFyCbJyG6g0b4WTAmlhDSHpLlQY9fG61FNyc5OpY2uhu2klv5HJk+TU386BifsKSqGZbGTAHPbwKXyRybEooesaXPNtRbcH2A==;HRpGnIkiQj5QLeJoVx5lSQ=="
 ---

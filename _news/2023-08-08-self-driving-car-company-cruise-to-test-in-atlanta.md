@@ -65,20 +65,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Riders will be able to book a self-driving Waymo in Austin, Texas this fall"
-    excerpt: "Waymo has announced that it has finished its testing phase and will open up self-driving rides to the public in Austin, Texas this fall."
-    publishedDateTime: 2023-08-04T00:35:00Z
-    webUrl: "https://bgr.com/business/riders-will-be-able-to-book-a-self-driving-waymo-in-austin-texas-this-fall/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/08/Waymo-austin.jpeg?quality=82&strip=all"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "120 driverless road trains for the West Pilbara"
     excerpt: "In a world-first, MinRes will deploy a fleet of 120 autonomous road trains, which will each carry 330 tonnes of iron ore along a 150km route."
     publishedDateTime: 2023-08-08T03:59:00Z

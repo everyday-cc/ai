@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/best-enterprise-asset-management-software
 webUrl: "https://www.ibm.com/blog/best-enterprise-asset-management-software/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -20,22 +20,6 @@ provider:
 
 topics:
   - IBM AI
-
-related:
-  - title: "Tools for the enterprise: Inside the CTO's toolbox"
-    excerpt: "Five CTOs share their insights on the most strategic areas of enterprise tools development and innovation today."
-    publishedDateTime: 2023-08-03T23:38:00Z
-    webUrl: "https://www.arnnet.com.au/article/707505/tools-enterprise-inside-cto-toolbox/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 24
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/shutterstock_2153286883-100941802-orig.jpgautowebp8570"
-        width: 560
-        height: 315
-        isCached: true
 
 secured: "wL4hut8L6xIPKwzZstAV/U4NDnNvXMG0OlS3tQkhfYAns7TNA0ZDIY3ZZRGoAd09DWdOyIn4WidrsML8DzGMn/6Fx1JoTSveT6uAZnZ97ePKI86rV9I1HK5mdPsV1eywxp3HwiDygkHXMxt1Lpr3WdrCE3bKNFpfZX0xUonGTIki0AMTO26E9d0+mvYWBdv+Ftlk1jUCh5lJEY72FHn7x4nkTxQDMGGWov0XyxdLrwb3VdhuXrdOJFepiFHFLnEtDF9SrE7dtkeHdg2OlUizcbiE8m0KdgajhD+nHr4vDbl82UU0QsvGiA2YqyngcE9JQZ34ajnB8987rAc4lGYAzkATM0oeRXgqPRKvSsCk2Og=;0rR6ROJBaWx/7aP4wrpAxw=="
 ---

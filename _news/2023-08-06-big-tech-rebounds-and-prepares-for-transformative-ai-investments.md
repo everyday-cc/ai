@@ -41,6 +41,15 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "AI transformation of medicine: Why doctors are not prepared"
+    excerpt: "The success of artificial intelligence technologies depends largely on how physicians interpret and act upon a tool's risk predictions -- and that requires a unique set of skills that many are currently lacking,"
+    publishedDateTime: 2023-08-08T16:16:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/08/230806211627.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Study Warns That Doctors Are Not Prepared for AI Transformation of Medicine"
     excerpt: "AI is becoming an integral part of medical decision-making, but physicians need to enhance their understanding of these tools for optimal use. Expert recommendations call for targeted training and a hands-on learning approach."
     publishedDateTime: 2023-08-06T14:36:00Z

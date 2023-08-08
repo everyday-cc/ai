@@ -7,8 +7,8 @@ originalUrl: "https://time.com/6297403/the-workers-behind-ai-rarely-see-its-rewa
 webUrl: "https://time.com/6297403/the-workers-behind-ai-rarely-see-its-rewards-this-indian-startup-wants-to-fix-that/?trk=public_post_comment-text"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Time
@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Roundup: Indian IT giants are investing heavily in AI skilling; AI raises ethical concerns and much more today."
-    excerpt: "Indian IT giants are investing heavily in AI skilling prominent projects come their way; AI technology amazes, but also raises ethical concerns; Huawei revives smartphone business with AI-Powered OS amid Ongoing US sanctions- this and more in our daily AI roundup. Let us take a look."
-    publishedDateTime: 2023-08-07T15:14:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/5-things-about-ai-you-may-have-missed-today-it-giants-take-to-ai-skilling-racial-bias-in-ai-tool-and-more-71691420800833.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-it-giants-take-to-ai-skilling-racial-bias-in-ai-tool-and-more-71691420800833.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-it-giants-take-to-ai-skilling-racial-bias-in-ai-tool-and-more-71691420800833.html"
+  - title: "How Nosh’s AI-Powered Robot Chefs Are All Set To Transform Indian Kitchens"
+    excerpt: "Founded in March 2018 by Yatin Varachhia, Sudeep Gupta, and Amit Kumar Gupta, Nosh plans to serve the economically well-to-do migrant population of metropolitan cities to sell its cooking robots to make their life easier, bestowing them with the joy of home-cooked meals"
+    publishedDateTime: 2023-08-04T05:26:00Z
+    webUrl: "https://inc42.com/startups/how-noshs-ai-powered-robot-chefs-are-all-set-to-transform-indian-kitchens/"
+    ampWebUrl: "https://inc42.com/startups/how-noshs-ai-powered-robot-chefs-are-all-set-to-transform-indian-kitchens/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/startups/how-noshs-ai-powered-robot-chefs-are-all-set-to-transform-indian-kitchens/amp/"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 52
+      name: inc42
+      domain: inc42.com
+    quality: 72
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/08/07/1600x900/Artificial_Intelligence_1691420945768_1691420946044.jpg"
-        width: 1600
-        height: 899
+      - url: "https://cdn.inc42.com/wp-content/uploads/2023/08/Nosh-profile-social.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "0KEf0bv++IwYo0SkMNqI3PudOP7UAVPykOH7dilk1n1RNdTtl1T0Uog0pyYUPoewzIp3oMakpTYvh8EXqRtkCq5LnZ+J5OStcEho99iuWDpeBbzwWcFBqon+G0nrKxMOKjama+SsG+YSJ6Cjf85CWhVkXkuAgkSu0FSRb6XQoTlb0gDREGknW0YB/NguOGaIhtmoVrKkapQonJ29zqfx4ugmL4jv/+MCI5cLMN9shqqv10k4l+reLdbU28t7cukVs0UMW3Y3dZBxM39m+Zcbwml+b+uDZ78Q8egzdKbTvimQ2ihWbJ4s78x1H6XMz4zZQ9bN96ASQKyWaoECyOpgfzLkaXW4tRsH2HH3+ynPNcaRnFybBDajFgKI7BBvHJkaumKP8dIGzybWmvBoFCHi7JzyCqhGx9EReugULqjFA1BWgUQCEikirrNKk0csctrxEX3DvJ98WzzgOWvaZqOuloPKqGRKGqSvXoMbOB/4XP4gElJM6kLxgiIXikZynLPnCH6b4C54gFGHqpsLJ7+YnQ==;5DJDVo5HMbUikB70FgE1Cg=="

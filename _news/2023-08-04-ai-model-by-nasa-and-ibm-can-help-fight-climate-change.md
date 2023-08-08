@@ -24,6 +24,22 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "IBM’s New Geospatial AI Model on Hugging Face Harnesses NASA Data for Climate Science"
+    excerpt: "IBM recently announced its watsonx.ai geospatial foundation model for Earth observation is now available on Hugging Face, the popular open source machine"
+    publishedDateTime: 2023-08-08T17:29:00Z
+    webUrl: "https://www.datanami.com/2023/08/08/ibms-new-geospatial-ai-model-on-hugging-face-harnesses-nasa-data-for-climate-science/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 32
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/climate-science-shutterstock_1921375568.jpg"
+        width: 800
+        height: 422
+        isCached: true
+
 secured: "N1CEho6dYvgtjHq9KBV2U+F+HOTyIORqXoF86fYOsbjGj99nz5ORIMUv9oHFsX/W919Vokx8pUmmlFU/RyZlADcrb2xve7iQDplji2CGQbsuW+2lzB9u/tGo/c+tdn7Y6hU1CJLV7tJ9sguFFOnDyBqvW+cu9nTGe8b9kQZRusa67Hs+AZDY8PHOxqBCdsT/2Cuspr1kKzhl0sz8Y3weYayrHdiq4Ku1o425G0S0DFNmI/SqL43LOcxX8ugdskoyGTQI8c90W9bs8J63vUanmV40MdRIon3QzWNkgKqHy8ZNF4xMDPqOsrb+ms2VJg9p/caEul4wKxMPHDF39xlHLNHAOjNg+75J1G5hpPUicIQu/kaB3KE7UdEVp71/6C9p1hFdYAr8b3u1kHpmGS4qKr+bbvXTpZAzmvTAyNsKPWBRP6NAFGYxrbOGvQSMhwalU4GLQ0gNW0tFew7iYZLtcHvWPTbpK7uROftb+/kS8rcLL/VpzVsFwzCCPS1fNZiHgnnQArHUnTIHOL8rU7Yx/Q==;C7Qbq0ZjaPmNrJ15hBdrhw=="
 ---
 
