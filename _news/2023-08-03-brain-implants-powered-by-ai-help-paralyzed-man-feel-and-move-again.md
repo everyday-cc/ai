@@ -39,20 +39,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Paralyzed man regains movement and feeling with brain implants and AI"
-    excerpt: "A man who was paralyzed from the chest down after a diving accident has regained movement and sensation in his hand, arm and wrist thanks to a novel technology that uses brain implants, artificial"
-    publishedDateTime: 2023-08-03T08:03:00Z
-    webUrl: "https://trendydigests.com/2023/08/03/paralyzed-man-regains-movement-and-feeling-with-brain-implants-and-ai/"
-    type: article
-    provider:
-      name: trendydigests
-      domain: trendydigests.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/trendydigests.com/wp-content/uploads/2023/08/paralyzed-man-regains-movement-and-feeling-with-brain-implants-and-ai.png?fit=1200%2C900&#038;ssl=1"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "gOq47PIwh8s+NOCnowNuk+Gd87K7h4X/lZ99jI6fCVt2s1Qru/m4gSBaQsplp0zCowRGxdTSC8sE+RE3F0DCE5/mM2VGeYe2iBOjvgTihlR+X+ap08duPHO85PamPWBHia7GfgP5vCwvMdsltAeW5qoL9oxJ8SzmVR9QhrhV1TsL7saC+8R0MtVUxwU0odfDwUbyL0ZcCdFKZK1XBIOY/ANj4xyU5FRdr1nUaE2NmYpKMFS7kLq9l3xgvJP/pS7qtHqZ50YP7CeST22E0O6W2/Sv1gDkbUNA99dYvIHlmCkuOrLzsSnuCAdWyioY5WPwVPwaPnkrhqPpJ5oSnGtTHcGGjuKcMCZygFwYL+NToN8ur2IHBf++mJVHoxzjlQz1Wa8XpaxO+xkbKADgPZeqTkzIuAk1bAAfoNwcr7gTAPFglN9kvxxQK4O1CgLmYfUJQW/JZrj0X3AV+DPO9/4WaIoSWCEpTxz9AZ8Zq2xnCvnZubOO8LgQRPG312wsTy9CTeIpxxiFTyfAnShFKK9OBw==;kt5M5AoZBh61LS1nZoDPDw=="
 ---

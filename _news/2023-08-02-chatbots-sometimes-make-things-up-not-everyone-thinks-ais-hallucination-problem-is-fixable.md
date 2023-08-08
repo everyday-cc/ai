@@ -2,25 +2,27 @@
 category: news
 title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
 excerpt: "It also helps power automatic translation and transcription services ... parent Meta to offer its customers a smorgasbord of AI language models tailored to their needs. For someone concerned ..."
-publishedDateTime: 2023-08-01T17:46:00Z
-originalUrl: "https://www.columbian.com/news/2023/aug/01/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
-webUrl: "https://www.columbian.com/news/2023/aug/01/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
+publishedDateTime: 2023-08-02T08:09:00Z
+originalUrl: "https://www.opb.org/article/2023/08/01/chatgpt-ai-hallucinate/"
+webUrl: "https://www.opb.org/article/2023/08/01/chatgpt-ai-hallucinate/"
+ampWebUrl: "https://www.opb.org/article/2023/08/01/chatgpt-ai-hallucinate/?outputType=amp"
+cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2023/08/01/chatgpt-ai-hallucinate/?outputType=amp"
 type: article
 
 provider:
-  name: The Columbian
-  domain: columbian.com
+  name: OPB
+  domain: opb.org
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://pcdn.columbian.com/wp-content/uploads/2023/08/Artificial_Intelligence_Hallucination_06679-e3523.jpg"
-    width: 900
-    height: 600
+  - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/iqROxDJOsVrcvclMj4uVLd0D69o=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/VHYM5RCUK5ERZKJUFZUYTKKYYE.jpg"
+    width: 767
+    height: 511
     isCached: true
 
-secured: "hiqKsRTgRf6x9aS/aFgvmss1MvJp50mKLZQUHZyHijn3CueMOoQ31fMv9pvdcxmbhfYDF+4z/gC88NDZanCVRrmpT805IQY0RzkycX9eC5hGonncjE1uSPg6Wih8AB/72i9aI9DGrId9wNzC1/5o8LqX4JBDPTxgBMpPxH9aw3LPxIduF9CwR0vm21smtl6w1LW1gsjDnBOwyZlde+deUA9sx4le9zYxCbYH406y/sJU98GO9e7K9/5iP+TQy/g9I7IIxnaHMyMSFqdejqtPUkT13w4bLfuWMDMHsictM8WiwMKdrKgohxNZfsFxNi8xXiwkFuSTXOw2tdtGFhO67IYzpK4ra249+IN7PAZmNTU=;50Fe0RHHoLyJhw4AXf0E5Q=="
+secured: "XNO6sfxAw9PG2ShHVblNo7tlcNmMojtAKSzmsR1TRwQlj+kN0bGIjmxrz6eJ+0InDw48HdFRvkTYU0Aod3H1RLqXvDVVenyfUu89j/QFUp9CO66PQXOA32mB1njj328mJXJ2NiRSLIPWun+FlrmaNrGZxnD6f5Q9JwDO5MiyeBNgJISVfwqqCqjyOq7vmwmE+kAb/YoS+cyqVbjve0u5fg7Vd77/zJD0vukyog+BLozWlbGVQVrmv5IVYTcLA5h2mLWfQ9WetEURojH1d76WEN0Xs+o6/31rE6oEVM+9punH+/mTQNIZDPKPNh8bfoKA0vQOf0OBQPfZUdTJSQTda8XAyt8emq1imJjzZNFEBPg=;rK6b9p8CzR/GTSJOPzrrSw=="
 ---
 

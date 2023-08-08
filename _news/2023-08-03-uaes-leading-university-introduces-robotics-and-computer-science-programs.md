@@ -20,20 +20,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Abu Dhabi’s MBZUAI launches new robotics and computer science departments"
-    excerpt: "It has also launched master’s and PhD programmes in the two highly sought-after new-age science courses Abu Dhabi's MBZUAI launches new robotics and computer science departments Abu Dhabi, MBZUAI, Mohamed bin Zayed University of Artificial Intelligence,"
-    publishedDateTime: 2023-08-03T07:42:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/education/abu-dhabis-mbzuai-launches-new-robotics-and-computer-science-departments"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 70
-    images:
-      - url: "https://www.arabianbusiness.com/cloud/2023/08/03/Mohamed-bin-Zayed-University-of-Artificial-Intelligence-MBZUAI.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Abu Dhabi's artificial intelligence university establishes dedicated robotics and computer science departments to meet surging global demand"
     excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programs dedicated to"
     publishedDateTime: 2023-08-03T13:58:00Z

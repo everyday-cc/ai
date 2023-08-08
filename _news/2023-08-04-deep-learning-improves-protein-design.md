@@ -3,8 +3,8 @@ category: news
 title: "Deep Learning Improves Protein Design"
 excerpt: "A research team has used deep learning methods to support de novo protein design, resulting in a 10-fold increase in success rates for a protein binding with its target."
 publishedDateTime: 2023-08-04T08:13:00Z
-originalUrl: "https://www.technologynetworks.com/proteomics/news/deep-learning-improves-protein-design-377259"
-webUrl: "https://www.technologynetworks.com/proteomics/news/deep-learning-improves-protein-design-377259"
+originalUrl: "https://www.technologynetworks.com/tn/news/deep-learning-improves-protein-design-377259"
+webUrl: "https://www.technologynetworks.com/tn/news/deep-learning-improves-protein-design-377259"
 type: article
 quality: 39
 heat: -1
@@ -49,6 +49,6 @@ related:
       domain: phys.org
     quality: 19
 
-secured: "TuHrtF7VWjrv1PdUz62eNzhriLa+VfuAIYmB6L9+0jfAPxIsh3r6v4qZ6zmaA2MNTr1petALtNEhQr3AiUz/D19B6bw2Ir63kideWRxDWcl737mBlpDp23kTGfeePoVfRy5GsFLTFYCoNVt8qdvXHj7mmXs4Bg0QcILd7VFbgG/t+MHPh255ct0taTAre49IHOhvu8th7Ikb9QpXd6+5MisAiPyjE2Vw71rwxUTPXWK+mzhet+FHbxgUdVVs6DbKonVbR5lYc5AOBWl1q5Gklak1uAYpb7TVP365hwkF4YvAKxApTbEttdjlt3GJW5LTOW7pYMkW2eBkuiasZW70bWBR1eH9oNEcl8eeJ3L7AJ+D3KB1zKVfWXvDAQHNVF+DCGKJQU3dYLiin1ln4ItFq/wDf0f9Y/Mi6iKJ9PSQuROdnZ0PPLdCS+N7sl8iD15OyJ6ZCsi3KPKiazZvTLQJT5DvsMObTBT51/ywQZ+2JjD5gCQDM6e3O66pXfhmhazw9o5hxoAbeIGXKeyclSuxJA==;UvbZvX754/iConYD89xIpQ=="
+secured: "H5ubQhfhEL96RyKDk89vWiQhCcQ8KkiIR0RXFgdZ3BRSOqC7pSkS2O3QNQJJtrhlMa5Xc2ALUDXqXSvTdbI5M7d48AANKgIZwbKW6+sUF++q8TjvH4WqHwl+ckw1AbbtIds3L15XGH68FxXzkzovy6DVSNCl1buLrYsyZB7o3TU+YaLJ3HYzsqx8163xjIfBONVoUlJlCq30f5HM2bVhxNmj0WCAtZBttAxx0nc+gP22EKrxjdHs6EPbND5Li7k9CkM/Sd4VhCSY5HDt2XksQQXhBtnJLr750xHFuovmiDNnlphWEx8CPl29WIKAV7xog2o4ClWiy9D6PpKilnC0yaPihvoiCSUH+69mY58XxAQ=;PUI1LmlCxOekmIeLPA4aIw=="
 ---
 

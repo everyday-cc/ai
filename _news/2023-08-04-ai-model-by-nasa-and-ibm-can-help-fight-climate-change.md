@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/innovation/ai-model-by-nasa-and
 webUrl: "https://interestingengineering.com/innovation/ai-model-by-nasa-and-ibm-can-help-fight-climate-change"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "IBM and NASA partner on AI model to track climate change"
-    excerpt: "With scientists needing to work through massive amounts of data in tracking climate change, IBM and NASA have created an AI model to assist."
-    publishedDateTime: 2023-08-03T07:42:00Z
-    webUrl: "https://htxt.co.za/2023/08/03/ibm-and-nasa-partner-on-ai-model-to-track-climate-change/"
+  - title: "IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face"
+    excerpt: "IBM and open-source AI platform Hugging Face today announced that IBM's watsonx.ai geospatial foundation model – built from NASA's satellite data"
+    publishedDateTime: 2023-08-03T21:49:00Z
+    webUrl: "https://spaceref.com/space-commerce/ibm-and-nasa-open-source-largest-geospatial-ai-foundation-model-on-hugging-face/"
     type: article
     provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 39
+      name: SpaceRef
+      domain: spaceref.com
+    quality: 35
     images:
-      - url: "http://htxt.co.za/wp-content/uploads/2023/08/ibm-geospatial-foundation-model-header.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media2.spaceref.com/wp-content/uploads/2023/02/01164529/ibm_logo-scaled.jpg"
+        width: 2560
+        height: 1338
         isCached: true
   - title: "IBM and NASA open-source foundation AI model for analyzing satellite data"
     excerpt: "IBM and NASA jointly trained their model on a geospatial dataset called Harmonized Landsat Sentinel-2. The dataset includes images of the Earth’s surface that were taken by NASA’s Landsat-8 satellite. It also contains measurements from Sentinel-2, a satellite constellation operated by the European Space Agency."

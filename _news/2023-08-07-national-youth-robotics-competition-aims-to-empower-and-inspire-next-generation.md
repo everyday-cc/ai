@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html"
 type: article
 quality: 85
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
-    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
-    publishedDateTime: 2023-08-03T08:22:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273919912/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 52
-    images:
-      - url: "https://cdn.bignewsnetwork.com/OTA2M2Y4MWUtMjJ.jpg"
-        width: 630
-        height: 473
-        isCached: true
   - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
     excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
     publishedDateTime: 2023-08-03T20:11:00Z

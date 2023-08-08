@@ -85,6 +85,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Carjacking case arrest spurs call for police to end facial recognition"
+    excerpt: "A Detroit woman is suing the city and a police officer, saying she was falsely arrested when she was eight months pregnant and accused of a carjacking based on facial"
+    publishedDateTime: 2023-08-07T23:42:00Z
+    webUrl: "https://www.gjsentinel.com/news/national/carjacking-case-arrest-spurs-call-for-police-to-end-facial-recognition/video_93a0c8dc-75b8-539b-a16b-3e254c4fccae.html"
+    type: article
+    provider:
+      name: The Grand Junction Daily Sentinel
+      domain: gjsentinel.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/9/3a/93a0c8dc-75b8-539b-a16b-3e254c4fccae/64d18c8bc3f66.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Detroit woman sues city after being falsely arrested while 8 months pregnant due to facial recognition technology"
     excerpt: "A Detroit woman is suing the city and a police detective after she was falsely arrested because of facial recognition technology while she was eight months pregnant, according to court documents. Porcha Woodruff, 32, was getting her two children ready for ..."
     publishedDateTime: 2023-08-07T01:43:00Z
@@ -170,6 +184,20 @@ related:
       - url: "https://www.democracynow.org/images/headlines/26/68426/full_hd/HD17-Porcha-Woodruff-CREDIT.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Detroit woman sues city over false arrest while 8 months pregnant due to faulty facial recognition"
+    excerpt: "A Detroit woman who claims she was falsely arrested for carjacking and robbery while eight months pregnant is suing the city over faulty facial recognition technology used by the police department, according to court documents."
+    publishedDateTime: 2023-08-07T23:50:00Z
+    webUrl: "https://www.cbsnews.com/detroit/video/detroit-woman-sues-city-over-false-arrest-while-8-months-pregnant-due-to-faulty-facial-recognition/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 25
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/07/9802ad96-4197-460b-a567-1af020bb108c/thumbnail/1200x630/2512c50904a026ae5bda7ee10408817d/e2ce76d9698c8b642d8a385de025f5d8.jpg?v=4c3eff96812a3b6c2e014b1daed33369"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Woman falsely arrested while eight months pregnant due to faulty facial recognition tech sues Detroit"
     excerpt: "A woman who was eight months pregnant when faulty facial recognition technology led to her false arrest on carjacking charges is suing the city of Detroit and the police detective assigned to her case."

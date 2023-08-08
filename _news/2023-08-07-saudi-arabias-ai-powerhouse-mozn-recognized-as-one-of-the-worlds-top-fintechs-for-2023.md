@@ -41,20 +41,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Azerbaijan, Saudi Arabia Mull Use Of Artificial Intelligence In Customs System"
-    excerpt: "Chairman of the State Customs Committee of Azerbaijan Shahin Baghirov met with Suhail bin Mohammed Abanmi, Manager of Zakat, Tax and Customs Service"
-    publishedDateTime: 2023-08-03T07:50:00Z
-    webUrl: "https://menafn.com/1106776726/Azerbaijan-Saudi-Arabia-Mull-Use-Of-Artificial-Intelligence-In-Customs-System"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 48
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/03/A_a9f6dimage_story.jpg"
-        width: 1000
-        height: 666
-        isCached: true
 
 secured: "m+RZJJv+A1Hwq5CPRC9rq124jsUk0kCmwLb22fRyhyxYi3CukDA8m/+n80UBu4kV+CHArRROyBD5p0DnmTbHh0IvgbvVpa9AnrCT8WdCS5VMnS+/MCRVO0KhXR9ZHP8Cs16Zv3NICwdzBMm34WVEAm4EPeCQIRDABcgBbKUW2dOePdmAhKB+As/lIGjpVzhHt2RN7gXgt4e9R4EzK7HloLFQiLHaq5nPhAEDGwKvCctd+bMhBn+l0JlSJ4SQZAxNSZ1Nn1HlQDab7ZRn0Wpt2ZAaxb+VHDFPQBEbReItAzHxAvCNRY8cv54d6QHnqWtVXU5CDESLrRx2uDZ0Gz4Qn7FDLKKoEY4HQeF01XNsJZc=;g47I92HDiueyHc4j2VuF/g=="
 ---

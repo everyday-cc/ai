@@ -24,20 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Google just improved its SGE AI-powered search experience"
-    excerpt: "Google's SGE generative AI Search experience just got better, as responses are faster and include photos and videos."
-    publishedDateTime: 2023-08-03T14:10:00Z
-    webUrl: "https://bgr.com/tech/google-just-improved-its-sge-ai-powered-search-experience/"
+  - title: "Experience: scammers used AI to fake my daughter’s kidnap"
+    excerpt: "No part of me questioned whether this was real - I had to save my baby"
+    publishedDateTime: 2023-08-04T08:00:00Z
+    webUrl: "https://www.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/05/google-io-2023-ai-68.jpg?quality=82&strip=all"
-        width: 1600
-        height: 893
+      - url: "https://i.guim.co.uk/img/media/8577d10c56ad1547410b78513c9eb79635a4d369/0_270_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=f605c29b644e24da2d51b8fcf9ddc591"
+        width: 620
+        height: 372
         isCached: true
+  - title: "Your Customers Deserve A Better Experience—And AI Can Help"
+    excerpt: "It’s all about reimagining the entire customer journey and modifying it with an “AI infusion” to create optimal hybrid intelligence."
+    publishedDateTime: 2023-08-07T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/your-customers-deserve-a-better-experience-and-ai-can-help/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "IgZnSG2+3IojVvyztAWiv6FYa5geohzCtLenUcuD3Ud3xBrYSmjG35HPr7CuVhzl3yQw4f3cdX5tj4Fi9fGEGAwyISzhpix9bkxsI/9UEUa/5HcSqr5/pUWq1iPlkaYMkTsNna0lxg+rqx6r2874E6IuP96RYDUGTNSX9l4r33zj56/2eMXJs47Yc/JBc+Ll/pllyTn3ToVtxFaKalXypX+4nH6X447rE9nLs1zoJN9FJzpMPZqSBOG1KYkGfKurKbDaj/tULUvTcbh9OLsKK+lIOtnWGef3Dr1hzkCq6nHqkLz4A3qu5TXWCqU29nwHD7K96JOHWmqVgtexnSYN4g4wwlxG+pswAGD0ufx+/0QtU9yeoo0nZBN5+V4vnLfB19h6LaElGbEn8cc5nnPl54VcYFkF6fdzGE5gguhden9nIiku6RBsaEVVYSjgD1WXtLTpXsRmT4wEhUwiNJqAKRt9Z1e/TUB8nKvzaQvbW93Va+4vyE0f3PPBQiCjQHDIYfgmLrLanlS06GfiTpEUpA==;OumYl4/Nguy9BsLs4lL1ZA=="
 ---

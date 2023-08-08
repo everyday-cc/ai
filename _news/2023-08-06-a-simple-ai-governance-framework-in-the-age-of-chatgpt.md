@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Level up your AI skills with this ChatGPT and Python coding bundle for $30"
-    excerpt: "Start your coding education during this back-to-school sale and get the 2023 Ultimate AI ChatGPT and Python Programming Bundle for only $30 until August 13."
-    publishedDateTime: 2023-08-03T09:00:00Z
-    webUrl: "https://www.zdnet.com/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/388ef5b23f2b31507664828048664414fd83b420/2023/08/02/0e0126de-cddc-499f-be65-fbd68c709020/stack-social-chatgpt-ai-bundle.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Three Decision-Centric Questions To Clarify ChatGPT Hype And Guide Your AI Strategy"
     excerpt: "How can companies cut through AI hyperbole and disillusionment to find ways to improve business decision-making productivity today?"
     publishedDateTime: 2023-08-07T16:30:00Z

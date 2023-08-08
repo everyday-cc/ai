@@ -7,7 +7,7 @@ originalUrl: "https://www.cryptopolitan.com/mit-guidelines-generative-ai-legal-p
 webUrl: "https://www.cryptopolitan.com/mit-guidelines-generative-ai-legal-practice/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,15 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Persist AI Raises $4M in Seed Financing, Rapidly Accelerates Drug Formulation"
-    excerpt: "Over the past 6 months, Persist AI has developed cutting- edge robotics that enables automated development of long-acting injectable formulations. Coupled with AI models, they are able to rapidly predict which formulations will release drugs in the body for a long time and reduce the number of injections that patients need."
-    publishedDateTime: 2023-08-04T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/persist-ai-raises-4m-in-seed-financing-rapidly-accelerates-drug-formulation-1032517750"
+  - title: "MIT Task Force Proposes Principles for the Responsible Use of Generative AI in Legal"
+    excerpt: "The Task Force has publicly released an early version of seven draft principles that establish a lawyer’s duties when using AI for legal work, and is inviting feedback from the industry."
+    publishedDateTime: 2023-08-03T14:53:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/03/mit-task-force-proposes-principles-for-the-responsible-use-of-generative-ai-in-legal/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
+      name: Law
+      domain: law.com
+    quality: 32
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Law-MIT-Edu-logo-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
+  - title: "Spotlight on Responsible AI: Why an MIT Task Force Is Advocating for 'Informed Caution'"
+    excerpt: "Legaltech News recently sat down with several members of the Task Force to discuss the origin of the Task Force, what it aims to accomplish with its proposed principles for the responsible use of AI in law,"
+    publishedDateTime: 2023-08-04T14:57:00Z
+    webUrl: "https://www.law.com/2023/08/04/spotlight-on-responsible-ai-why-an-mit-task-force-is-advocating-for-informed-caution/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 31
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Law-MIT-Edu-logo-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
 
 secured: "UJCExBMWB9zWb8S2xmdvrtfFXawFkWUA+1k9BbpqFwuGSoM3UXb510uFTP+wpmmDmFio+RwZNUNXqUYLWQveZox+U4MaGvRm7LXknCuc9Woc3/fwmJIxoscPa1Xac5t//r0/9KLL55TDGubSh5LlW0XfHFmNQY6+Y0CjXIk7pvgi9iIl01axemfbISKFmGdzoh9U/b59S9ja1uKIAi9ZES2x3LNUxOBC6XBWnSqtvR9pSFJrcXgHo0c4wGD0ZxJjRrA0wEqYBJ4nm1cmprVojwiOcsOaPKxBd6Uq2EEDax6XHFOZ+xGBMGvElQR3zLa14TPFJ3hEKrn96UqSsawwVEgEll4xpgFc5nYbUHssFm4=;FEeAuH+Uj1xPXJEVUOESkA=="
 ---

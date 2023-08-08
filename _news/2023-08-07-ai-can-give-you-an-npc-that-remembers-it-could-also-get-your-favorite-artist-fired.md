@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-07T12:00:00Z
 originalUrl: "https://www.wired.com/story/ai-game-design-midjourney-ethics-development/"
 webUrl: "https://www.wired.com/story/ai-game-design-midjourney-ethics-development/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.wired.com/photos/64cd99260124a91cee27dbfc/191:100/w_1280,c_limit/AI-Can-Give-You-an-NPC-That-Remembers.-It-Could-Also-Get-Your-Favorite-Artist-Fired-Business.jpg"

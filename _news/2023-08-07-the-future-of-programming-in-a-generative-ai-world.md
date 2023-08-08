@@ -45,6 +45,15 @@ related:
         width: 936
         height: 420
         isCached: true
+  - title: "Scale generative AI with new Azure AI infrastructure advancements and availability"
+    excerpt: "We are excited to share a series of announcements that highlight Microsoft Azure’s commitment to driving innovation and empowering businesses with cutting-edge AI solutions.\nThe post Scale generative AI with new Azure AI infrastructure advancements and availability appeared first on Azure Blog.\n"
+    publishedDateTime: 2023-08-07T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 78
   - title: "Protecting data in the era of generative AI: Nightfall AI launches innovative security platform"
     excerpt: "Nightfall AI's platform is the first data loss prevention (DLP) platform that scales across the three top threat vectors CISOs need the most help securing when generative AI and ChatGPT are in use across their organizations."
     publishedDateTime: 2023-08-04T22:03:00Z

@@ -59,6 +59,15 @@ related:
         width: 600
         height: 420
         isCached: true
+  - title: "Scale generative AI with new Azure AI infrastructure advancements and availability"
+    excerpt: "We are excited to share a series of announcements that highlight Microsoft Azure’s commitment to driving innovation and empowering businesses with cutting-edge AI solutions.\nThe post Scale generative AI with new Azure AI infrastructure advancements and availability appeared first on Azure Blog.\n"
+    publishedDateTime: 2023-08-07T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 78
   - title: "AWS Turbocharges Foundation Models With Smart AI Agents"
     excerpt: "Goodson discusses AWS's recently announced AI capability that adds key functionality to its foundation models."
     publishedDateTime: 2023-08-04T13:00:00Z

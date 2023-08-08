@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/07/authors-ai-prosecraft/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/07/authors-ai-prosecraft/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -40,6 +40,6 @@ related:
       domain: hindustantimes.com
     quality: 36
 
-secured: "KMEg4XNF+JZiwSZrXe4DoPkbyA9CYZ6r/b/QZIbGSUWjxHzvdVn/j80FNU+4Ox9z3chFz1OQYo1umqIR+4fzdx5oY3xMeP2bPeieOopvXXxbhfHmk7CxH42XdG0hO2tSBoFUxYJvhzD/nTmGREpFSH8XTxqVQK8RFRG2/5OXQoWZbIMD0XV/ySTkvA9Ov4La7jgEMNZTmZvq3OjCmmpeM9wwHQhCISYKkPKyttD8SmtdqPXQMYfrC1bTaTCw3MDHtxx7gLhBeerFO/MagKGrB7hJ4+Dqxs1pgFbgH4JG6/rJuC4Mqp63HUaLKGUUuC1aY/pGnJXmwehV/QXbsofgX8VHfAEC5jamStm+F0o0RrE=;3bMo2HrAW+8xmRfBQvfM5A=="
+secured: "LrQtdAeukiHx3V1QaJ0OaTBqmymJpBQRhHkiJSWfISgKwXz6gSCFaa0zqjc8zZSnD7X9WH561Ecay69gUDPd31sXFLwbrsOkk1x5CtxRWsuOu1fCUDUWpCs/oC2+HI/MJ97d/GQwZGcGO4ugzyoGwYaI5pYbLi5/pn5Yu8Rfl4oOJff3S8uN+h3iGp6Lu/7F4AN0TqiFFz0e0UPUnxh7luLoTy5VKtceHeKw+hsT1i0aKbUi08iaUl8ByTR670qdwnOE2hG8zyMwU9p/7g2zYHFWjCq2rDnxx+BRDs5GcLZmvELmgy0E8LnFwxnQetow//3vTBtyamVTNE9ULTNtg87gbtw4cTvc7qObCsuUYaCWbg4CPC4fdPifJF88dAGgr161RFXEEIhimUdHzRwtTV+xVPrA5uKB9b+waxgZqf1pWMBnMpfqutHzcOlhdU/hy2pPpJuI9pmJduBCE2/DIakl6ED3t9dkz/4JhF6bdmFqvsxpFwp+tWUYssOKkRUE1g4kvFHwlAYgT7RnNbCS6Q==;3qUFrHJYZwlqXYBEl3Es5Q=="
 ---
 

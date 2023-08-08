@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Azerbaijan, Saudi Arabia Mull Use Of Artificial Intelligence In Customs System"
-    excerpt: "Chairman of the State Customs Committee of Azerbaijan Shahin Baghirov met with Suhail bin Mohammed Abanmi, Manager of Zakat, Tax and Customs Service"
-    publishedDateTime: 2023-08-03T07:50:00Z
-    webUrl: "https://menafn.com/1106776726/Azerbaijan-Saudi-Arabia-Mull-Use-Of-Artificial-Intelligence-In-Customs-System"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 48
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/03/A_a9f6dimage_story.jpg"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "Saudi Arabia's Ai Powerhouse, Mozn, Recognized As One Of The World's Top Fintechs For 2023"
     excerpt: "Mozn was chosen as a Top Global FinTech Company in the Digital Business Solution category from 1500 global competitors as per the report by Stati"
     publishedDateTime: 2023-08-06T17:06:00Z

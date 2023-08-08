@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "MIT Task Force Puts Forth Guidelines for Generative-AI Use in Legal Practice"
+    excerpt: "In response to the growing concerns surrounding the ethical use of artificial intelligence (AI) in the legal profession, law.MIT.edu has formed a Task Force dedicated to developing principles and guidelines for the responsible application of generative-AI in legal work."
+    publishedDateTime: 2023-08-04T09:28:00Z
+    webUrl: "https://www.cryptopolitan.com/mit-guidelines-generative-ai-legal-practice/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 36
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-04_12-48-46.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "MIT Task Force Proposes Principles for the Responsible Use of Generative AI in Legal"
     excerpt: "The Task Force has publicly released an early version of seven draft principles that establish a lawyer’s duties when using AI for legal work, and is inviting feedback from the industry."
     publishedDateTime: 2023-08-03T14:53:00Z

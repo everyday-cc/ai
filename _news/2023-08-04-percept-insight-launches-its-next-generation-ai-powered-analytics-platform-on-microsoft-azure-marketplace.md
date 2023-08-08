@@ -35,20 +35,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
-    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
-    publishedDateTime: 2023-08-03T08:22:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273919912/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 52
-    images:
-      - url: "https://cdn.bignewsnetwork.com/OTA2M2Y4MWUtMjJ.jpg"
-        width: 630
-        height: 473
-        isCached: true
 
 secured: "5m+513LMT/DtN56qZ5wfBVT1WOEzhTBEzVsPA/VQnEMzRsCRZ+7JUvIo8pWgN4UH5CBkLqiaplNtiYfeBdnWJPFRiR+Gv9q4veSHtNB5QGb+rhb0rIZpt5ZSPlar7QqsB0xafDCjpnOSI2MAll3pFrVeawf0ZkhYQhIV9LmAUQE7Z6I6oEliPvKZW6K/5BQHW51cpOiHh/ifnpNG4SMFQ3tQ8zmO2mrJSo0+nsPtesRra7nB18kZ+5CNWqPYrb9TwVUfXjyeIF7pJnM7p/60/sqWUSx6afRadhD8gPJXgC0GUC5n8b5Qlfzf+yO2PXtb33zx6z27GNX/t2+CcyZ8SUBk18FkkunFwUXfFIN6Vxc=;C6DIMTjgyPKvGeHy4rYZiQ=="
 ---

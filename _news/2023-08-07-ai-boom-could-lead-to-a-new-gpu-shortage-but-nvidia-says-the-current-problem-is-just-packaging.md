@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-sho
 webUrl: "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-shortage-but.html"
 type: article
 quality: 72
-heat: 104
+heat: 102
 published: true
 
 provider:
