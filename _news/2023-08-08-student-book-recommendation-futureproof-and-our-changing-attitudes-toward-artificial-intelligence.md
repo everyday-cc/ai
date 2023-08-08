@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.pbs.org/newshour/classroom/app/uploads/2023/08/Screen-Shot-2023-08-04-at-12.36.45-PM.png"
@@ -23,6 +24,6 @@ images:
     height: 323
     isCached: true
 
-secured: "2Pq9lrBS2rLUJYBmIRzIm+q/VXvdqfElMNc8hLgYYAG3Ivflro2NWFUEXHGh2QenSkQ6jWru+Ib1VrFavwwOoiQr5E1s15jWa8eD6gixG4C+iPnREXAQASwZBimRNC26b3ejO7kkG7AiaLZToOltNt6A5ODHdzaznweRk56AMdkIQ+Adhyfqj23MTXyxcRzFODwq0wcVrfYBOhc9NIchSbZtOQr8ytI4xQKXD4SJlsz2HNIj/5IrMbQkDYEV7+UubSDPVj5rzpcPhVbKpW+NpZIw0zeF6g78857G5+K2PNk8UKoSPIqL+LHKteuKjNWqGGymLQ5QeLLQLAw0U014m4+R1058b+MY+vGXaeN2DiI=;GhV9LbMdSm9I/vFH/PJ5NQ=="
+secured: "z0qXmwzpoiH5bPl2pK+8mXY5ZY7ZPFRFbd+xH7iP/c7e9e8mLbMUmumHdByJYZNcjjZZR+0S6HVcEfpPfZ7WOtiWsvSYgZH6KqVqx49/ZSPbcSPUnRCIH0/rLZIGoobQqgAcfRbplf+A0+esAZeK4qiCSZsrgEFSD8ASUJfKzt1WNtUQ5e6TuYDR31nSEflYPGI1srLEDf2lU9OqV4O4WqWpTS+A5jDdzipZzP06lEGMBEKVWRoqyM5om65pYQ0LKQhX/KjVUY0bY0n13laegEyluy6nHrS109bz1+dwGuyDfrpxtgCSC4lL7+Gul6ovr+ddec0KE2nQ5+SQ9JZM+UcYosC3qbq+VTIi3Js/yfONhLrZU1ysLBr/HbY3O9BiyYDZWAIW+f+/c0naAnCSxi0evfl/GlfzpPov8+ouR3sDjXtvFRI7F0SomIvgkbFCHQAt9DTLT9Sriqmh/dkQYvCmMWxCY7V/+YZvokPGhM9CdC/IzvrC2lsTTIyax6GgM8SfYjQfp0hhsOHqLLMFYw==;tc02Tekw1phlv2PCnKs+rQ=="
 ---
 

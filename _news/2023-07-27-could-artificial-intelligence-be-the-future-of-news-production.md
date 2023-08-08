@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "The Power Of The Prompt: Unleashing AI's Full Potential For Work Productivity"

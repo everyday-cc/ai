@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/107283370-1691509319958-Photo-for-dotcom.jpg?v=1691512117"
@@ -49,6 +50,6 @@ related:
       domain: csoonline.com
     quality: 4
 
-secured: "OKBiXPNAmIHM+bSfGp2G2UACxhG7ec9PHP3/9YfqxTr9eofrXMg9BCo9ZM+mE6x2hcKJoaQM5DoEtHnQ5D2pz/bB4GrhBRF5TwKwX3knetRa8UbKDBYT6jBGWtNwSIgt4ixBW/glaYf+NmiOlbm6IrKcNpPQ4W/t/BEy03Df9uZybmEu+JFmYdNDc1kmkYZi1It4l+xN1SLQ8e2+NkGyQTm0I1zc570rne58HIU17uZtILII0srD0ipJNaDb4mTElnToiQpe1eUyGt6UCrqcg9m43c56PExc9DDeESJvMRkE9buVuGyjMphm8dIUquSyRJhEnQvZ0hMYdZYCC+wB7FEvD/Xz0+Adfnp2RdVDUUA=;RznGryMxMp7JuzAcx2kCgg=="
+secured: "qhR2s3GWqijZ++NPZvswCBfm49412LlvVVQAd9B8xQEAQoUYzt17OKjE1K6L1kOFghqMXTNEh22Mr56BJPPcd6hrIqJahlHuthQOtliOHvvi7A1Xv7Ih7jn6yP8PpgVB9n5mNjPpt3aBngcfk5Ug0b1IHHaKht3HrVdoWxMksINjeIEP3c7o7jVu7VUX3P9u2rsV44GcUen6E8TJNEB/fCgg4cJw7kb6z5rI8WmfonalYu6VXpPy/odbqGyRQBMaTnlEtHdY34omi2QlmYRGeYwNgc8LrejVWGzkCRVgAAkPzQ1pqtWVNXfoNh8KLHeEEVxVNJDdipAwdb/Vb73AT2IxVKiIJBeOo8BoFx5wSAQxhV1oru/AyCIn2ot5jloQU08mqLXYxoYVkPCaabqGXnDxJ+2rJ57qGKgL9eohSTjSTLej5Rt0otoB9R5Vy5bN88r2M5jvWFF0n3uSF3yPKLf4JWdHS4TU6IH+HoPDnNEY+9itrddLgzb2WlVY6yqdDL5zYUBpm98eUc0TVcB39g==;DSUNxQOYiVWhtf38/8emEA=="
 ---
 

@@ -1,0 +1,23 @@
+---
+category: news
+title: "Amplitude taps AI to improve data quality, accelerate product analytics"
+excerpt: "Product analytics company Amplitude debuted new AI features to simplify how companies govern their data and use it to generate insights."
+publishedDateTime: 2023-08-08T18:57:00Z
+originalUrl: "https://venturebeat.com/ai/amplitude-taps-ai-to-improve-data-quality-accelerate-product-analytics/"
+webUrl: "https://venturebeat.com/ai/amplitude-taps-ai-to-improve-data-quality-accelerate-product-analytics/"
+type: article
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+secured: "0NMFcBCfKafpyRqR3Hy/+X5XttMM+jIHKT4bcl9OyumKKF/fhW46WYgK+1vYJ5szDKMic6RglM42C5sah7LOK6XR6hJOZT4dQcQPNk9Tfbh0M7uw2uCNvO4ZdUHtdW21n4DBDom/OuYFO08InBq7tw8tZiGJeLFVee2toXtgAo6gbxJ727QHK/boXbkIfzLBCDYWzV8F9+iaC86wNmLwRgMwLaSSQslY29suGEoGMW7Ye42K9fvBsFg7vbXyN/g3sEpUYvC64WiICHaKCOwEq7CvW3pZQmvkVvlaoxWKGA1ZKIcCt/mvmhsSgg+hEUU+vwr/IOF5cLXcmWGjd73uCY7nlM3F8iPcFXVOv4mxDSn1qrhyXMsMYuP7fduH/XQrOr/i5vMxfADSCbVz4vAfE3s/7dvCdnzeNjQuzGnsTKy//lT4NnwOTWKCoQrQME0ICuwALX7sn2nEUSmnlOD7GIX4ER9JzTS5ZzNtZmuofv9S5Vy0UkanlKKWoSkwV0Q5DZmUedpaNESv8zOe4hh9Jw==;+Gtmyz6D1xcplo7S40+x0w=="
+---
+
