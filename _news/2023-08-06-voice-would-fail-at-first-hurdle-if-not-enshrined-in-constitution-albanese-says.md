@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2023/aug/06/voice-would-f
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/aug/06/voice-would-fail-at-first-hurdle-if-not-enshrined-in-constitution-albanese-says"
 type: article
 quality: 53
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Defiant Albanese tries to reset ailing Voice"
-    excerpt: "The prime minister will reject calls to defer the Voice to parliament referendum and appeal to voters to rally behind him to help Indigenous Australians escape disadvantage."
-    publishedDateTime: 2023-08-04T12:30:00Z
-    webUrl: "https://www.afr.com/politics/federal/defiant-albanese-tries-to-reset-ailing-voice-20230804-p5dtwy"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 19
   - title: "Anthony Albanese will not announce Voice referendum date at Garma Festival but says he won't 'kick the can down the road'"
     excerpt: "Prime Minister Anthony Albanese will not delay a vote on an Indigenous Voice to Parliament despite support for the proposal falling in opinion polls."
     publishedDateTime: 2023-08-04T20:23:00Z

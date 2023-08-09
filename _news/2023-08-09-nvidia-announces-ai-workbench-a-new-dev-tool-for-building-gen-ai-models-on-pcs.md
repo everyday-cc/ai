@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Nvidia Unveils Upgraded AI Chips To Enhance Generative AI Applications"
+    excerpt: "The company introduced a new configuration for its Grace Hopper Superchip, aiming to boost the capabilities of generative AI applications, , nvidia, Grace Hopper Superchip, Generative AI"
+    publishedDateTime: 2023-08-09T05:24:00Z
+    webUrl: "https://www.businessworld.in/article/Nvidia-Unveils-Upgraded-AI-Chips-To-Enhance-Generative-AI-Applications/09-08-2023-487115/"
+    type: article
+    provider:
+      name: Businessworld
+      domain: businessworld.in
+    quality: 54
+    images:
+      - url: "https://static.businessworld.in/article/article_extra_large_image/1688016391_iJbIWj_nvidia.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia Unveils Faster Processor Aimed at Cementing AI Dominance"
     excerpt: "Nvidia Corp. announced an updated AI processor that gives a jolt to the chip’s capacity and speed, seeking to cement the company’s dominance in a burgeoning market."
     publishedDateTime: 2023-08-08T15:32:00Z

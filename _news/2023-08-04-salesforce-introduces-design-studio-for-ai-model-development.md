@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Salesforce Einstein Studio to help enterprises train generative AI models"
-    excerpt: "Einstein Studio can also help enterprises connect their data from Salesforce Data Cloud to third-party AI offerings including Amazon SageMaker and Google’s Vertex AI for model training."
-    publishedDateTime: 2023-08-04T13:00:00Z
-    webUrl: "https://www.infoworld.com/article/3704269/salesforce-einstein-studio-to-help-enterprises-train-generative-ai-models.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 48
   - title: "Salesforce launches Einstein Studio for training AI models with Data Cloud"
     excerpt: "Salesforce today announced Einstein Studio, a new experience that allows users to connect and train their own custom AI models on Data Cloud."
     publishedDateTime: 2023-08-04T17:51:00Z

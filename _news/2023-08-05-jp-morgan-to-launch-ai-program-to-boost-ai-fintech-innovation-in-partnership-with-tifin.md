@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33585861"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33585861"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Lytus enters FinTech sector in India through the launch of a new payment gateway"
+    excerpt: "Nasdaq-listed Lytus Technologies Holdings PTV. Ltd. (the “Company”) (NASDAQ: LYT), a leading global technology-driven services company, has announced the launch of"
+    publishedDateTime: 2023-08-09T05:40:00Z
+    webUrl: "https://www.thehansindia.com/business/lytus-enters-fintech-sector-in-india-through-the-launch-of-a-new-payment-gateway-814452"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 19
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/08/09/1371187-lytus.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "8lQ+3ZDQrTQbFAiMaEsaKjoR7q2rTH69cnnuAEHGSEPZE2wEUadv343ORWnwSR0YygvNe/pzXA2+Mp38YoS599PTzXXHbAVkHzc4w/r2k8vhfJDTJ6blcXrKQcCGy97bPIeycMypfD46VVOsdSDWk9NVynvqjt7mE+sirzQc7QYTIjssJ9JIvvyJfXyu7Y6thnoDI9PA59RYeMRGzHPwXw6QQDUnHGhS7zdMRI52DWmjlVNpcygxukyerSoPG/i+sBkoK/DTFBgr7YF0zm7VSduZYmUJx0XCI6hr9hMmI7mdbrGn6pOejkVNSJvPUgRm01ya5fUp9jyXMp6Cc4eOxIMCFlL/ieAUqQ5N0e7oydE=;z/KFbuc6xWyilevmmP/7SQ=="
 ---

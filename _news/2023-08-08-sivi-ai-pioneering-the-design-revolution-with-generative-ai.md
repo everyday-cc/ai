@@ -49,15 +49,6 @@ related:
         width: 858
         height: 686
         isCached: true
-  - title: "Getting The Most Out Of AI: Businesses Need Skilled Prompt Engineers"
-    excerpt: "The success of the prompt engineer will rely on the ability to bridge the natural language we use every day with domain-agnostic and formal language."
-    publishedDateTime: 2023-08-04T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/getting-the-most-out-of-ai-businesses-need-skilled-prompt-engineers/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
   - title: "Age of Generative AI: Ai Palette aiming to optimise food innovation and boost product launches"
     excerpt: "Singapore-based tech firm Ai Palette has developed a new tool called FoodGPT, which harnesses the power of generative AI and natural language processing to elevate data-backed innovations and increase the success rate of product launches."
     publishedDateTime: 2023-08-07T03:28:00Z

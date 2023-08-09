@@ -3,18 +3,18 @@ category: news
 title: "Older women’s breast cancer often overdiagnosed, study finds, raising risk of unnecessary treatment"
 excerpt: "A recently published study found that large numbers of American women ages 70 to 85 are potentially overdiagnosed with breast cancer and therefore could receive unnecessary treatment."
 publishedDateTime: 2023-08-08T00:55:00Z
-originalUrl: "https://www.wpbf.com/article/older-women-breast-cancer-overdiagnosed/44755779"
-webUrl: "https://www.wpbf.com/article/older-women-breast-cancer-overdiagnosed/44755779"
-ampWebUrl: "https://www.wpbf.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
-cdnAmpWebUrl: "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
+originalUrl: "https://www.wgal.com/article/older-women-breast-cancer-overdiagnosed/44755779"
+webUrl: "https://www.wgal.com/article/older-women-breast-cancer-overdiagnosed/44755779"
+ampWebUrl: "https://www.wgal.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
+cdnAmpWebUrl: "https://www-wgal-com.cdn.ampproject.org/c/s/www.wgal.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
 type: article
 quality: 45
 heat: 45
 published: false
 
 provider:
-  name: WPBF
-  domain: wpbf.com
+  name: WGAL
+  domain: wgal.com
 
 topics:
   - AI in Healthcare
@@ -37,6 +37,6 @@ related:
       domain: news-medical.net
     quality: 10
 
-secured: "oNZXIvzoJpV1s56eDpYVRKfoWmmrRNYgIx7EFn5I9B6BBHaLOlHwltCpdbYIc+bltU/nV5x+Oc5CFvCLJVMmHLFDsMTnnINPIKWD25gy4OZwU57zhFzp9kyOpj9a8ZxdIBhCPSmPqr501umsomTM31aZj2HITylIyLeSTxYRqkMPiaZC7fMBHZqHQtVORi7cBs6g1BRBLEREyoZq1yzbqBNTJS/8UZoQwviP6hdPnWmTn3f8wrEpZJmKPNfavefXr2zZfTswvTbd/z2YnAzkRQt6lV4O3F9+icbcy9pnuLlkfsaGGILvNDshDDL7T/OsysY0x3mL0wh62g7TBetsRJMpGw3sZlDw3Mve0awAug8=;rrpZd8szbOD2+dqIBtksuA=="
+secured: "OQLLWHWEVwY86YaJlPpVuixSb32mFH6QVlaWWo8n80D3VPxaz1kpZD7+P9s2Xb1VvtL2rGnjmAdk7RZfqKGMRG7CKDwUTR23PdDK+RKjTYH8UfkU7JslBeurlWI/zXOrinj7vFL54lhJ8DOWRyrZgFsA7wzkH4OninHe40C8BoJguGOItsBybHN63uz+/pKqe93l/aHCNPtoAcps7wzORFG8wAyyOLiYldfzCVENNxkDnZ3UOiiHhOeQKTMk+GwNmoNKLS+IiFt+xPyhltBgDqsbSwkAeJ4e1nsXHqgGn5y4q73WGzi021qRjU2SlrmQLGdcdccSaw94QaWRKNZWVFe5Uh9R33ukhPK1p3M8B+U=;sNgGlhrc+vtV9gv1aJuhXQ=="
 ---
 

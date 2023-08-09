@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Defiant Albanese tries to reset ailing Voice"
-    excerpt: "The prime minister will reject calls to defer the Voice to parliament referendum and appeal to voters to rally behind him to help Indigenous Australians escape disadvantage."
-    publishedDateTime: 2023-08-04T12:30:00Z
-    webUrl: "https://www.afr.com/politics/federal/defiant-albanese-tries-to-reset-ailing-voice-20230804-p5dtwy"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 19
   - title: "'More of the same': Anthony Albanese's warning after new poll shows sliding Voice support"
     excerpt: "Most voters across the country intend to vote No in the upcoming referendum to enshrine an Indigenous Voice to parliament in the Constitution, a poll shows."
     publishedDateTime: 2023-08-06T00:56:00Z

@@ -1,31 +1,24 @@
 ---
 category: news
-title: "Vatican Announces That Artificial Intelligence Will Be Theme of Next World Day of Peace"
-excerpt: "The World Day of Peace — instituted by St. Paul VI in 1968 — is celebrated each year on Jan. 1, the solemnity of Mary, Mother of God."
-publishedDateTime: 2023-08-08T15:37:00Z
-originalUrl: "https://www.ncregister.com/cna/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace"
-webUrl: "https://www.ncregister.com/cna/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace"
-ampWebUrl: "https://www.ncregister.com/cna/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace?amp"
-cdnAmpWebUrl: "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/cna/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace?amp"
+title: "Vatican announces that artificial intelligence will be theme of next World Day of Peace"
+excerpt: "A statement from the Dicastery for Promoting Integral Human Development on Aug. 8 described an “urgent need” to guide the development of AI."
+publishedDateTime: 2023-08-08T15:14:00Z
+originalUrl: "https://www.catholicnewsagency.com/news/255036/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace"
+webUrl: "https://www.catholicnewsagency.com/news/255036/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace"
+ampWebUrl: "https://www.catholicnewsagency.com/amp/news/255036/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace"
+cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/255036/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace"
 type: article
-quality: 51
-heat: 51
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: National Catholic Register
-  domain: ncregister.com
+  name: Catholic News Agency
+  domain: catholicnewsagency.com
 
 topics:
-  - AI Ethics
   - AI
 
-images:
-  - url: "https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20210505180552_e4cb4460539d94c0f6a841fc10bb4bc5926ecff8788283287fcb380d2154f175.jpg"
-    width: 760
-    height: 507
-    isCached: true
-
-secured: "Zwo//K/rqoAfdikyHcOPKwerzDJhE2hHxJ4BwfomnjNovEX6KW6sW4DX0Bf9MdccQrPz0RK+6/arlvvLwyUzbZ+3Uba1MVSosqpACoG7b7JdFEa58VgUW8m8GZfBrqvR2+GItOsvXu9HB/FGuD9fb0AB5j4Wed6YRSIV/4iS/YW2K9Ps0pJpk7UYUZA+xACDvenPeWoQuK4m1Om588E2iN0sn9iQeW1Q6HgBB9sMcTTqpGKqr4bMFkJJAphVupADTjDQMH1sf8BUVjmFPYJionjtVWp3jFPtrkHJMAV7LPs6ePTfQtEYElk62ZHna8TSAFnIvBNEi5i1LE6m8k918ISbq8eC+DRm6RB2aMXCx5b9F0V6V7Xwiw+kCgQF5IJcSEOzmn6gdIYHc7n+wSQtsf5Ye0Zk37GMZfwpGSuGTbLq0P90FLwcxyUpLLFf2njLfPl/VN5PEvg9wkg3RABP4SZvWboWVjOaPkI7ZD64G1nEZr7Fc6qyEh0eCYOkkJAQE5gSks4aWslfesF9cZkryw==;K7pwCQ+ZsxmjOH+XUIy7vA=="
+secured: "IPKWUQ3/ltmxO1EThY1vEW3h2oSk0u1nj/nsG1eiEmEbpXa1oHzF2g5m3BdtbbEr9npl99yePd3V8EjFNyCzDY0nIQJQqFSnep35fQJ32S8ahW/VLJa7F6h6jbSA6AcJ7ZAyeIFeeqZf7FAlsHk4za9uDbLh16lZe5km51vzOhu6fv7AUSkVr3mpNhFskukt4muWhyjXs6Yq8c1yjQAMPA43m654R7pC9gPPb6KdZQ3QbyvtMlXalOc91llOiZw5yxl0Ei0XCq2SU5/aZvQf/Nq4yLnlr0r9ECCuNxv7VzuoZxbo8s1UBB1aAA/3ubh30tNniEuG+PBaWsM9RRHbK1m1gATK2UjXPu95T6yKKu3qH7pDnmOqz7RYPftfu7WccGOcMfaN3y9P2Gq9d/lXrgkGRzjAgcwxMAowd+t63pY3o2zifjI7EtYfS4xRWaiYn3cBN14Rd8zoAUmL6186YCDsOS0mE7H8ZTiPZ5HknPZqpWCDi7Z+e6PiMmp051eOCGvMM2/fHH+5QacGuojlsg==;AsN5/a3HziYNvCaaTlDQJA=="
 ---
 

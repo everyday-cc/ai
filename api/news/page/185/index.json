@@ -2,6 +2,83 @@
   "page": 185,
   "value": [
     {
+      "path": "_news/2023-04-12-speech-and-voice-recognition-market-size-share-revenue-trends-and-drivers-for-2023-2032.md",
+      "title": "Speech And Voice Recognition Market Size, Share, Revenue, Trends And Drivers For 2023-2032",
+      "excerpt": "The Business Research Company's Speech And Voice Recognition Global Market Report 2023 – Market Size, Trends, And Market Forecast 2023-2032 The Business Research Company's global market reports ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105992847/Speech-And-Voice-Recognition-Market-Size-Share-Revenue-Trends-And-Drivers-For-2023-2032",
+      "originalUrl": "https://menafn.com/1105992847/Speech-And-Voice-Recognition-Market-Size-Share-Revenue-Trends-And-Drivers-For-2023-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-04/12/EP_c6c5dimage_story.jpeg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-this-robot-is-controlled-by-the-power-of-the-mind.md",
+      "title": "This robot is controlled by the power of the mind",
+      "excerpt": "This four-legged robot responds to commands ... a disabled person could be able to “control” a wheelchair or a prosthetic device simply with their mind. Note that this work is the subject ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category/leisure/2023/04/12/this-robot-is-controlled-by-the-power-of-the-mind/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/leisure/2023/04/12/this-robot-is-controlled-by-the-power-of-the-mind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-12-is-elon-musk-secretly-making-chatgpt-alternative.md",
       "title": "Is Elon Musk secretly making ChatGPT alternative?",
       "excerpt": "As per Business Insider, Musk has procured roughly 10,000 GPUs and has recruited AI experts from DeepMind for the project. Though the AI project is still in its early stages, the sizable number of ...",
@@ -1051,111 +1128,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-the-president-of-the-worlds-first-artificial-intelligence-university-speaks-to-cnn-about-the-benefits-and-dangers-of-artificial-intelligence.md",
-      "title": "The president of the world’s first artificial intelligence university speaks to CNN about the benefits and dangers of artificial intelligence",
-      "excerpt": "'My stomach is hurting from laughing': Hear panelist's reaction to DeSantis' threat to Disney",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/world/2023/04/11/exp-ai-interview-abu-dhabi-fst041010aseg1-cnni-world.cnn",
-      "originalUrl": "https://www.cnn.com/videos/world/2023/04/11/exp-ai-interview-abu-dhabi-fst041010aseg1-cnni-world.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230411022836-exp-ai-interview-abu-dhabi-fst041010aseg1-cnni-world-00002001-super-tease.png",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2023/04/11/exp-ai-interview-abu-dhabi-fst041010aseg1-cnni-world.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/04/11/exp-ai-interview-abu-dhabi-fst041010aseg1-cnni-world.cnn",
-      "publishedDateTime": "2023-04-11T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-can-intelligence-be-separated-from-the-body.md",
-      "title": "Can Intelligence Be Separated From the Body?",
-      "excerpt": "a robot technician at Embodied, with a Moxie unit.Credit...Alex Welsh for The New York Times A brave new world. A new crop of chatbots powered by artificial intelligence has ignited a scramble to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/04/11/science/artificial-intelligence-body-robots.html",
-      "originalUrl": "https://www.nytimes.com/2023/04/11/science/artificial-intelligence-body-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/04/11/multimedia/11SCI-MIND-embodiment-promo-hkmq/11SCI-MIND-embodiment-promo-hkmq-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-10T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -28,56 +28,70 @@ images:
     isCached: true
 
 related:
-  - title: "Data democratization: How data architecture can drive business decisions and AI initiatives"
-    excerpt: "Learn how data democratization simplifies the data stack, eliminates gatekeepers, and makes a comprehensive data platform more accessible.\nThe post Data democratization: How data architecture can drive business decisions and AI initiatives appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-04T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/data-democratization-how-data-architecture-can-drive-business-decisions-and-ai-initiatives/"
+  - title: "Opinion: This is what tech companies, from Amazon to Apple, just told investors about AI"
+    excerpt: "That set up sky-high expectations for companies that are embedding AI-related technology across their product suites as well as chip companies that are selling to them. The second quarter, therefore, became a litmus test. Here’s a breakdown of AI’s ..."
+    publishedDateTime: 2023-08-08T11:49:00Z
+    webUrl: "https://www.marketwatch.com/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 89
-  - title: "How AI Regulation Drives Innovation And Protects Against Cyber Threats"
-    excerpt: "The changes that come with today's newest technology have positioned society to determine whether AI is a contributor or a threat."
-    publishedDateTime: 2023-08-04T11:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/how-ai-regulation-drives-innovation-and-protects-against-cyber-threats/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/how-ai-regulation-drives-innovation-and-protects-against-cyber-threats/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/04/how-ai-regulation-drives-innovation-and-protects-against-cyber-threats/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://images.mktw.net/im-724370/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
-    excerpt: "NVIDIA today announced NVIDIA OVX™ servers featuring the new NVIDIA® L40S GPU, a powerful, universal data center processor designed to accelerate the"
-    publishedDateTime: 2023-08-08T16:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635629/nvidia-global-data-center-system-manufacturers-to-supercharge-generative-ai-and-industrial-digital"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33635629"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635629"
+  - title: "Opinion: Adaptability Separates the New AI from the Old"
+    excerpt: "There are many definitions of artificial intelligence, and it’s been embedded in software for years, but recent advances carry new potential to personalize education, tutor students and automate aspects of school operation."
+    publishedDateTime: 2023-08-04T23:10:00Z
+    webUrl: "https://www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old"
+    ampWebUrl: "https://www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old?_amp=true"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/648c9b2/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe5%2Fdf%2F7562d8cb9c79b70ffba3ca95f729%2Fshutterstock-529299211.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
-    excerpt: "The new GPU powers accelerated computing workloads for generative AI, which is transforming workflows and services across industries, including text, image and video generation, chatbots, game development,"
-    publishedDateTime: 2023-08-08T17:34:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861312.htm"
+  - title: "Disney AI task force aims to cut costs, enhance experiences across the company"
+    excerpt: "The Walt Disney Company has formed a task force to investigate the potential applications of AI throughout its various business units, reports Reuters, including cutting costs and enhancing customer experiences. This comes despite ongoing Hollywood writers' and actors' strikes that have put some AI technologies in the crosshairs."
+    publishedDateTime: 2023-08-08T18:50:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/disney-ai-task-force-aims-to-cut-costs-enhance-experiences-across-the-company/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 43
+  - title: "Guest Opinion: If artificial intelligence takes your job, it should pay you"
+    excerpt: "Actors love residuals. Don’t worry, this is not some annoying Hollywood thing like quinoa or crystal healing. I actually do like quinoa — sorry. Anyway, what are residuals?"
+    publishedDateTime: 2023-08-05T10:00:00Z
+    webUrl: "https://www.sentinelsource.com/opinion/op-ed/guest-opinion-if-artificial-intelligence-takes-your-job-it-should-pay-you/article_32b24ce9-0f61-564d-98e0-57438d9a70e9.html"
+    type: article
+    provider:
+      name: The Keene Sentinel
+      domain: sentinelsource.com
+    quality: 35
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/7819b5a8-f0c2-11ec-85c6-cff09f7b972a.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Artificial intelligence could replace doctors. It's time to prepare. (Opinion)"
+    excerpt: "In the past few weeks, much has been written about the uses of artificial intelligence and its potential to take the place not only of factory workers but also of highly specialized professionals, such as lawyers and engineers."
+    publishedDateTime: 2023-08-04T23:56:00Z
+    webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/artificial-intelligence-doctors-physicians-ai-tech-18278240.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 15
 
 secured: "G6bBrqe5f3iy2uTAsbrhsD8dYQOk2QgyNVa+Ypso0YBx34NnlGGQicKVj+pf4ggJHX3sVRMc7sOpdJgjeDinIxh3ekdOKy8VTZ1nXbIs3qcN8qR1SYIHszkvT7Bt4v+Ify3WFo4C+tQWJiAOUivQQjhwRmpCl2T4QXpCp96M7sldtn6nwUUzXhrG4XdnncA87F4GTItkjYD8NTrCquj9vmY2H9WtwSx1aTkbg3uN/Vpqcq/A+dpTz0axdvWuH62iOMTccHJjyBgf/FAtVNHcg+lJJ/S4hJwVBHqyGHkBFKyK8gAgKH5G7bcPGTK8CFNqIF2nkCMquX5wZXOP1lJlKo3hdev68E3LNMfV5smgvvhL7pUbPdSWRdx/14+B57KH8j7WuGUPjf0/68qVejIgFl8/VR01OF2eyPScff+1NKVBnRfI5EZ65V+0RqJUsoGGAz04aPLDv0+ykeYVp2G/nndQs3GEE4tFjtfq2iB6r/ERfUZ3iekCUaF+Hoz+GDu+WPo57p8po0tSs24TcbqH/Q==;WFIOGCgJ/1DtZDV6MzZnQw=="
 ---

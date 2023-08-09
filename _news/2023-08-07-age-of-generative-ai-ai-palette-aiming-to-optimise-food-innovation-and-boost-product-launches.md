@@ -55,15 +55,6 @@ related:
         width: 858
         height: 686
         isCached: true
-  - title: "Getting The Most Out Of AI: Businesses Need Skilled Prompt Engineers"
-    excerpt: "The success of the prompt engineer will rely on the ability to bridge the natural language we use every day with domain-agnostic and formal language."
-    publishedDateTime: 2023-08-04T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/getting-the-most-out-of-ai-businesses-need-skilled-prompt-engineers/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
   - title: "Sivi AI: Pioneering the Design Revolution With Generative AI"
     excerpt: "In the fast-paced world of digital marketing and content creation, visuals play a pivotal role in capturing audience attention and conveying brand messages effectively. As the demand for captivating designs grows,"
     publishedDateTime: 2023-08-07T18:35:00Z

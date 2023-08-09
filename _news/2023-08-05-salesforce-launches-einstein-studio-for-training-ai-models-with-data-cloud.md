@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/salesforce-launches-einstein-studio-for
 webUrl: "https://venturebeat.com/ai/salesforce-launches-einstein-studio-for-training-ai-models-with-data-cloud/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Salesforce Einstein Studio to help enterprises train generative AI models"
-    excerpt: "Einstein Studio can also help enterprises connect their data from Salesforce Data Cloud to third-party AI offerings including Amazon SageMaker and Google’s Vertex AI for model training."
-    publishedDateTime: 2023-08-04T13:00:00Z
-    webUrl: "https://www.infoworld.com/article/3704269/salesforce-einstein-studio-to-help-enterprises-train-generative-ai-models.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 48
   - title: "Salesforce Goes BYOM for AI"
     excerpt: "Salesforce today launched Einstein Studio, a bring-your-own-model (BYOM) AI development tool that allows customers to bring AI models they have already"
     publishedDateTime: 2023-08-04T16:19:00Z

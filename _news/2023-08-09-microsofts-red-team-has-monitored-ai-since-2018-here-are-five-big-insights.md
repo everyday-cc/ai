@@ -268,16 +268,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 33
-  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
-    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
-    publishedDateTime: 2023-08-04T12:42:00Z
-    webUrl: "https://www.inferse.com/668303/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
+  - title: "Finance workers fear they’re bringing about their own jobs demise by embracing AI"
+    excerpt: "Three of the nation’s largest unions representing parts of the tech industry in the banking sector say their members fear that embracing AI is “facilitating the demise of their own jobs”."
+    publishedDateTime: 2023-08-09T05:18:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/finance-workers-fear-theyre-bringing-about-their-own-jobs-demise-by-embracing-ai/news-story/544ee48602931ae24d70e024ada2ecd9"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 29
 
-secured: "TL0hLpne8NCDWzK8GIMO4n0OjZn3iy7Vq2Zh8wMx0W4iH3dDxAsKtDnQUnZeWYOnbII4J6QjRuhAAfn8cMMgl51v+nFGNMS4soFQ8fZz1GBQpc6YXrwWNYAYgzm4/0UeiBeXLBhiiWsPLfbx9Jbc5gF6CnKCGysOMEhXxWPhcZF07Ei4KqX97hN8gCWvFsreZP2m31bG2C2NMUFo0TuTC/MLMRtGN8DFRLNPjAXIT/viOUhzbwrLxNuiaIG4DujEXyqebhtjOPxAV6o2GK2MTuHo5v06GJPfQX7m7IZpdDFW8z1DWkqbLBHvaOK0ly0v6XBIYUao17wMMPGy21Hty3uPVf0SJd9x5NCK23fZ7Y8=;BbQFgswMKal78o8LzUwwAA=="
+secured: "yjlRQsCm5R3PHRtaTOYEJ2DGkZVsKbX+il+vxdyrWzW/3HCx/J1ZepN6p51xdY9+Wccsb/n3FfNaj+sXq8fHr432TsFcldAkPkEX1jCAtELWxl3Y5XXfBXqJWZshamjhfgRu5xeFiCIzMPV3ADLKsHyYOt0SSAEJxlcZXPBuMa+OzDniOjfqt9mVMm7V1aSxlpRa2QImtqnnWV90/G/+iZJ4AlADyY4Pn5lxoE00prVkcizSmMdgg1wloFmE60Z4Ci/OLh/L/QMksOzu7ZsFRye8fvxOx6YHvFw1nnom+yEEtqcJwokz+VTslAY/Y3hmXROgVZBNjzx9KKGlciuHu6nsRJNfC1wFD0G7eDIgBXNWE/R9kVxpdQq/vdkUHmjB2hHJMRryxrv8TjiKAYXUhVgpNjOEGmzylfEayRl2cuI0GFy8BBag3ctfB+6h1dwdtZd1oprI2zs0h/suHyU7osgrZdA0RMnP2UjnQhx97PT5NZhl8zrZoNjgOta4nKInjibQXHvfNaEKI24GcvspwQ==;24nCM9r1fA28RnWsvNMPUA=="
 ---
 

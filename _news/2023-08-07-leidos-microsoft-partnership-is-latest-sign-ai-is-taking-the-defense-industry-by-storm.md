@@ -268,15 +268,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 33
-  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
-    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
-    publishedDateTime: 2023-08-04T12:42:00Z
-    webUrl: "https://www.inferse.com/668303/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
+  - title: "Finance workers fear they’re bringing about their own jobs demise by embracing AI"
+    excerpt: "Three of the nation’s largest unions representing parts of the tech industry in the banking sector say their members fear that embracing AI is “facilitating the demise of their own jobs”."
+    publishedDateTime: 2023-08-09T05:18:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/finance-workers-fear-theyre-bringing-about-their-own-jobs-demise-by-embracing-ai/news-story/544ee48602931ae24d70e024ada2ecd9"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 29
 
 secured: "UD+aJgbkYwS4FrLOUYoAPdyvVdAmDlNhFIbKjbROPcEODHLv5ZAJUEh661g/XAalgpgJCiMXVwz7jxwsXAQb6lay7RB1YjhXgTA6/W59nDjW0MxF7H9Ps376+llhT66szdtGHgAAB1iov4+YftIUG45sB2bqi/olpzDRryWcXfh19Wm8nS+I6FNjb3npnzgTl6BUItrqho4C2xEhWdynmsLtwVXoON+ceafg/xknK0M5U7xpWUFuE3NtpZ/FtpvWi8YL3nM30rlTx9Vxs4dV60qZ+qTpC5K7L9Q8gK7TrgX1tqHtMJLNztA1U4YW4VTcKYUSbmsDvAU4ldaVs5QMQDaeJ7b1ViUO2/zNDj9+U9W1anfLmynvuRYELBUreaWw7rqYLLEvJpDCN1vF0ThLw156c1iMMG7IKjtfOHsA3tMSdGe1/EK8DfaNiT09Y8nys9oYr6gB288Axz4cXvVrddWLISTxDXQpSzBWqEOmJcK/QPX5Th+ZEm0RZsqrUe2CH8EAlAtHJluydcc8vbBMSw==;RVQBh47VzbUFgwxnfLV8dw=="
 ---

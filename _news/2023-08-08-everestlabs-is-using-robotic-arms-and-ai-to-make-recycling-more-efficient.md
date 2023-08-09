@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/08/08/everestlabs-using-robotic-arms-a
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/08/everestlabs-using-robotic-arms-and-ai-to-make-recycling-more-efficient.html"
 type: article
 quality: 103
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to Use AI to Create Writing and Business Efficiencies"
-    excerpt: "Author and CEO Maddy Osman shows how to use AI to organize your thoughts, detect AI writing and generate job descriptions."
-    publishedDateTime: 2023-08-04T12:00:00Z
-    webUrl: "https://www.newsweek.com/ai-writing-business-efficiencies-1816500"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 47
   - title: "How LLMs are making red and blue teams more efficient"
     excerpt: "Cybersecurity experts have incorporated ChatGPT-like tools into their work, and they use them tasks from source-code analysis to identifying vulnerabilities."
     publishedDateTime: 2023-08-08T05:00:00Z

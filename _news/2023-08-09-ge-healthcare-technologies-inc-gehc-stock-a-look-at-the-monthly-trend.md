@@ -1,0 +1,45 @@
+---
+category: news
+title: "GE HealthCare Technologies Inc. (GEHC) Stock: A Look at the Monthly Trend"
+excerpt: "GEHC stock has gone down by -4.84%, with a monthly decline of -8.34% and a quarterly plunge of -6.91%. The volatility ratio for the week is 1.89%, and the volatility levels for the last 30 days are 2."
+publishedDateTime: 2023-08-09T05:20:00Z
+originalUrl: "https://newsheater.com/2023/08/09/ge-healthcare-technologies-inc-gehc-stock-a-look-at-the-monthly-trend/"
+webUrl: "https://newsheater.com/2023/08/09/ge-healthcare-technologies-inc-gehc-stock-a-look-at-the-monthly-trend/"
+type: article
+quality: 38
+heat: 38
+published: false
+
+provider:
+  name: newsheater
+  domain: newsheater.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-31.png"
+    width: 640
+    height: 427
+    isCached: true
+
+related:
+  - title: "Healthcare Realty Trust Incorporated (HR) Stock: Navigating the Market Volatility"
+    excerpt: "HR stock has gone up by 1.02%, with a monthly gain of 5.51% and a quarterly plunge of -1.99%. The volatility ratio for the week is 2.21%, and the volatility levels for the last 30 days are 2.05% for H"
+    publishedDateTime: 2023-08-08T07:58:00Z
+    webUrl: "https://newsheater.com/2023/08/08/healthcare-realty-trust-incorporated-hr-stock-navigating-the-market-volatility/"
+    type: article
+    provider:
+      name: newsheater
+      domain: newsheater.com
+    quality: 34
+    images:
+      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-78.png"
+        width: 640
+        height: 436
+        isCached: true
+
+secured: "tYHWB9DxNbeqXWfH9yUNOFbdibyIPaAg+H+07nb9gH2X4gz13DRshQTtDr1h2gf6TAmnyaFi1NpZ813KlXtvn4XgOct5lJ7JcftwBMXnL0jUeJcA66sTUWQHt0lPL+c4dop7VbAlE5eR1zKksmk18e8tEVLBdbzfVyrKbjsqUtZSqGwA72Z6ylCVkLEDRVqw6Onypy8SFePq53wOhtxisYn/q77+BUNSqSTSMEwqaxXoJ29JxOGz2h/kAU0bNh7S9k+/WsTu2vwnwTYNB8IJ62myl6L4rE+TkTo0l4m5EBBCLF9gsuntnm945/fzfPcjLflG21CyWLJAg0LLMzkTVVDGzPnuxNoVMy0N/1noN4A=;dvEEhw6pZrYG6EECwAgptQ=="
+---
+

@@ -25,22 +25,6 @@ images:
     height: 844
     isCached: true
 
-related:
-  - title: "Generative AI Introduces New DLP Challenges"
-    excerpt: "Generative AI, such as OpenAI's ChatGPT, has been making headlines in the tech world recently. These AI models are trained"
-    publishedDateTime: 2023-08-04T11:46:00Z
-    webUrl: "https://www.techbooky.com/generative-ai-introduces-new-dlp-challenges/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/08/generative-ai.webp?fit=1000%2C563&ssl=1"
-        width: 1000
-        height: 563
-        isCached: true
-
 secured: "IA/25xdxFgbVLULOdiUsa6U7FdF89NdNoHrM7DeMVo+WUbSQGMCSEdZ7XTkw9JL9VfTpF/rSJww0uFT0b67O5e4a7xx31s1PB7Rum7zkLvT1c83KOuoHZQ3CtN0w7MOwUQzH7d6VQoeTq8P7G8Yk43mY7yNIuSUGA/Sr3kUbRQPcliP1bZmdlWsAN4hZlCrIsnmJuKwEiXiGOI6i3wtag3HugwpD/oil8VrgG790ekaREHYJcQNqWCx+2EgoctNNWzdA6hxhw8qG70sJF6kWoqcZip0kl630NWwlvbugELTI3UlJJuiXsJrYN2jmHkcDyPySxBqS8CHgy6BcE1A08zWV7Q+nuDhHgT2j5Eo/u0c=;IISsDOYSBPlj4vTnPFqKUQ=="
 ---
 

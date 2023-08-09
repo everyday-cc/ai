@@ -71,19 +71,19 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "The insane hardware powering ChatGPT artificial intelligence"
-    excerpt: "In the realm of artificial intelligence, ChatGPT stands as a testament to the power of modern hardware. This AI chatbot, a product of collaboration between OpenAI and Microsoft, is powered by an impressive array of NVIDIA V100 and A100 GPU clusters."
-    publishedDateTime: 2023-08-04T11:43:00Z
-    webUrl: "https://www.geeky-gadgets.com/hardware-powering-chatgpt/"
+  - title: "The Era of AI-Free Life and Work is Over"
+    excerpt: "Artificial Intelligence (AI) has become an essential tool for streamlining the optimization of software code. As tasks become more intricate, the ability to delegate this responsibility to AI-powered chatbots has emerged."
+    publishedDateTime: 2023-08-08T06:21:00Z
+    webUrl: "https://techbullion.com/the-era-of-ai-free-life-and-work-is-over/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 37
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/The-insane-hardware-powering-ChatGPT-artificial-intelligence.jpg"
-        width: 700
-        height: 492
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/fdgfdgdg-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "OpenAI files trademark for GPT-5 revealing some clues about a next-generation ChatGPT"
     excerpt: "OpenAI has already filed a trademark for the next iteration of its GPT large language model, introducing GPT-5, the company's next-gen LLM."

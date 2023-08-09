@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
+    excerpt: "NVIDIA today announced NVIDIA OVX™ servers featuring the new NVIDIA® L40S GPU, a powerful, universal data center processor designed to accelerate the"
+    publishedDateTime: 2023-08-08T16:02:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635629/nvidia-global-data-center-system-manufacturers-to-supercharge-generative-ai-and-industrial-digital"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33635629"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635629"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
     excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
     publishedDateTime: 2023-08-08T16:51:00Z
@@ -97,6 +113,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
+    excerpt: "The new GPU powers accelerated computing workloads for generative AI, which is transforming workflows and services across industries, including text, image and video generation, chatbots, game development,"
+    publishedDateTime: 2023-08-08T17:34:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861312.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "iCfdHaUf8QtFn/I80lNRUg/9klaGRvcII2THSg8fymkXsrvj29k4d0O9RBHHTGknJ92nQnGnoi7U9GhOF0ZxQwg8nxSHHxFXXA3HoVFSMLOXrEmkChfU7+lEfyWuQ9UJAH08nkJ+yuLfFFx2p2WEZK3KUPv7ceIs6iD9YlTwb12v+rTg/0bkTVLWuNvfaZQQxpuaFG/qGSV/mh5+2wdNuc/LbC4p3vzykgFP4saNZNCkeudRPP6J8+UN/Xgeubn4a1DqECUgdGY8UE+QkXAQPLqMcoxePvxisG1XkiaeghSjEvISV9ui8Jlwv4gJJhTcW0QOqPBJhR6kuEoCEQr7rYPEB4cneQwbVR4ERE5Lkng=;RLQOmjZDLqHayn9IlcfGag=="
 ---

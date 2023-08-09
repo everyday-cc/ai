@@ -32,15 +32,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
-  - title: "An Indigenous voice to parliament — like Garma — is two cultures embracing for the betterment of both"
-    excerpt: "I had the honour of paying tribute to the life and legacy of a truly great Australian. A man it is hard to imagine Garma without. Yunupingu walked in two worlds: with authority, power and grace. And he sought – always – to make those two worlds whole."
-    publishedDateTime: 2023-08-04T11:08:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/an-indigenous-voice-to-parliament-like-garma-is-two-cultures-embracing-for-the-betterment-of-both/news-story/8d2acbd25b145bc7a2049978a895e5bf"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
 
 secured: "fstjDIr5drcoBDirTM2Tqi5F6XA2m3oS6kaE0iAI3ERavBTJI7OD7lvOS7f6ST57WqQVdzpuknE3GDRF4ulSImZBblfFMUJXRORUFK+Xg2hfgVF6ivAaEbyM9OoZh9LsWEbToGcP90BegF4sLClZszejpOcN2ZzveIgsGR/GVmsz+ml/zsKtlDShzuzEj179dOSEtdRef4W6v0jElE93NBpEJLdSXOKjANaPgqzwImDXSTxa0RazNEDm9t6vBgFtmkmFZT9qJ6X911CPK/m8huSWt7V/eENuucrdhEW+uPWEIsXV0BD3MqtdDBiSd54ETTk1PYfRXuwuzrMq4iXVq7fliV5mB+ayqw83Loxal4QMgI7ueSsqBuHtgo17mwfEp/tXr1IZFmBXhvZYFhhmZGs1I0onM6dMC2+FP5UPg+X4MkjCGH20KSraDhKoIt4ASJ6XO2LdTZwmf438k2Etv8I+61hYZwYU+noUx38ANa6xKB/NnypH1Y15BtyxIVNEBpVWXBknr15qAVANwbRslA==;iDMjAIZ6olAACOM+30twyg=="
 ---

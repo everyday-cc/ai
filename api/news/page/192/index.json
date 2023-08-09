@@ -2,6 +2,92 @@
   "page": 192,
   "value": [
     {
+      "path": "_news/2023-04-05-qlik-automl-augments-human-instinct-with-precise-machine-intelligence.md",
+      "title": "Qlik AutoML augments human instinct with precise machine intelligence",
+      "excerpt": "Qlik’s AutoML functionality democratises the use of advanced analytics by simplifying the process of building and deploying machine-learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://techcentral.co.za/qlik-automl-augments-human-instinct-with-precise-machine-intelligence-insprom/224128/",
+      "originalUrl": "https://techcentral.co.za/qlik-automl-augments-human-instinct-with-precise-machine-intelligence-insprom/224128/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCentral",
+        "domain": "techcentral.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-computer-vision-development-market-2023-with-top-key-players-is-thriving-worldwide-by-2029.md",
+      "title": "Computer Vision Development Market 2023 With Top Key Players is thriving worldwide by 2029",
+      "excerpt": "Computer Vision Development Market Size 2023-2029 | New Report (115 Pages) | Analytics | In This Reports Computer",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2023-with-top-key-players-is-thriving-worldwide-by-2029-2023-04-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2023-with-top-key-players-is-thriving-worldwide-by-2029-2023-04-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T21:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-analyse-automated-machine-learning-automl-market-trends-2023-2030-insights-and-predictions-for-success.md",
       "title": "Analyse Automated Machine Learning (AutoML) Market Trends 2023-2030: Insights and Predictions for Success",
       "excerpt": "The Automated Machine Learning (AutoML) market research report spread across 114 pages and analyses the global and regional markets, providing an in-depth analysis of the market's overall growth ...",
@@ -898,84 +984,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-axl-edtech-launches-ai-language-and-marketing-innovations.md",
-      "title": "AXL EdTech Launches AI Language and Marketing Innovations",
-      "excerpt": "making it a hyper-realistic AI translator. Merlin can adapt to any language and translate it to the language selected by the user, and will soon be able to automatically translate all lessons ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/accesswire/747566msn/axl-edtech-launches-ai-language-and-marketing-innovations",
-      "originalUrl": "https://www.morningstar.com/news/accesswire/747566msn/axl-edtech-launches-ai-language-and-marketing-innovations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-new-software-developed-to-assess-true-level-of-knowledge-of-artificial-intelligence-systems.md",
-      "title": "New Software Developed to Assess True Level of Knowledge of Artificial Intelligence Systems",
-      "excerpt": "A team of researchers from the University of Surrey has developed a new software that can assess the true level of knowledge possessed by artificial",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105942815/New-Software-Developed-to-Assess-True-Level-of-Knowledge-of-Artificial-Intelligence-Systems",
-      "originalUrl": "https://menafn.com/1105942815/New-Software-Developed-to-Assess-True-Level-of-Knowledge-of-Artificial-Intelligence-Systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_117.jpg",
-          "width": 4896,
-          "height": 3264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

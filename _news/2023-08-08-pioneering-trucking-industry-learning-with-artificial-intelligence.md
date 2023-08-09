@@ -93,6 +93,20 @@ related:
       name: Fox 13
       domain: fox13news.com
     quality: 37
+  - title: "Artificial Intelligence for the Poor"
+    excerpt: "Among elites in wealthy countries, a worry about artificial intelligence has taken hold: the machines will take our jobs. With the explosive popularity of ChatGPT, the remarkably lifelike chatbot, many in the West have begun to fear that it is not only truck drivers and assembly workers who are at risk of being replaced by robots but highly paid knowledge workers,"
+    publishedDateTime: 2023-08-09T04:05:00Z
+    webUrl: "https://www.foreignaffairs.com/world/artificial-intelligence-poor"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/07/RTSFOQ2E.JPG?itok=ClwbWM-A"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "kapt7/M8DUp8uRq4bZTmkliQ6pd1pYj+8vTZe7wI5OZeNQQvY/NyaRsJTyZsK2DBCYUUvtAUkR0Zu4pwRhvukH8XKM9ahe1GwMgpY01fdF6LH/hGzVL5BHrl55nEfhLLQYq1Zxt50Q2gPXu2eHXT6VZPnXrXVI7Prj8r9tY/eDL3xRUQJ9S3QZx9V9qXZ7G1qaDUygXKgMzN798p9vqpcKb9HjTilnefYcTrS8Q5wLEMhC1x0OU39tgWb4bWwHTJmNCxtojeoduyb9LIQ/jxeVy9DQ9YGkOsSfYbL2PfrL8p6UoHK9hx0y40za93mkI5+BQ6uRfq5Wqhedb8yT1sTn0Aq3oTvhkBAJhK/asoKKS3vvUSXYEaIaVP0VaBZyi9w5xf/gyO8PguKZD9qH+AAWvmsbNiH3slD2ArFN5Mjg+0dCdgNyhSOv9oIqOqrm6B2pl4Q/d6julmYf3z5Fy2O2YjLTVrS5mtFDbb60sJ9COyPZA79+9tQ3wztW1iFmOsNy7PkjvuoNRNCgYzQEMuaA==;+b59b/5ol7jPX2VxlfmkUA=="
 ---

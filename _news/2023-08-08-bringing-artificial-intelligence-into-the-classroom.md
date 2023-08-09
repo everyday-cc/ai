@@ -89,6 +89,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Artificial Intelligence for the Poor"
+    excerpt: "Among elites in wealthy countries, a worry about artificial intelligence has taken hold: the machines will take our jobs. With the explosive popularity of ChatGPT, the remarkably lifelike chatbot, many in the West have begun to fear that it is not only truck drivers and assembly workers who are at risk of being replaced by robots but highly paid knowledge workers,"
+    publishedDateTime: 2023-08-09T04:05:00Z
+    webUrl: "https://www.foreignaffairs.com/world/artificial-intelligence-poor"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/07/RTSFOQ2E.JPG?itok=ClwbWM-A"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MuHXaufSFFNBRrg+ZxweM8tERoLmdbC9Th1aS9CEvc2UKl4/ii4FDRVMgfKyDohfCBeolhY4gY/b8KrqeGPvhtx5RMdd69iQwPVnekQle9sr+u15+ZXuCdKsDNJOPvKuDJ5tNy/pMJT7N/WO9HP7Hu94I0AKjKvRRjcBbVdbyp7EoOEVRjvuDsgWCnf0xlqb0Dbwwmnbq0dABqfuqpPjTewQHfF6RnHhOM17AMw1CohblbRS/Q3UAjhc2sjK8PMDqfYRCRnj2ps8+iHOeTNFLcBBr/2uo9RyFAjufAViCRet2uiz+6jfq1b54XYeVy6Oh9BaWoWQ0Cviak474Q28YRku8z0EAQAuwtQYZczv9Go=;Cz4ac5lt8V38UWGoSF6EaA=="
 ---

@@ -33,20 +33,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Transactions in the Age of Artificial Intelligence 5 Potential Pitfalls to Consider"
-    excerpt: "Soaring interest and rapid growth in artificial intelligence (AI) has made it a major focus of technology transactions – but the standard acquisition agreement has not kept pace. AI companies present unique risks to potential buyers that a standard ..."
-    publishedDateTime: 2023-08-04T14:55:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/transactions-in-the-age-of-artificial-1294473/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 31
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13091_35.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Dungeons & Dragons tells illustrators to stop using AI to generate artwork for fantasy franchise"
     excerpt: "Dungeons & Dragons, owned by Renton-based Wizards of the Coast, told artists to stop using the technology after social media questioning."
     publishedDateTime: 2023-08-07T17:25:00Z
