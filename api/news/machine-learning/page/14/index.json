@@ -2,6 +2,126 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-04-05-two-tasks-are-better-than-one-learning-if-and-how-much-its-raining-improves-deep-models.md",
+      "title": "Two tasks are better than one: Learning if and how much it’s raining improves deep models",
+      "excerpt": "To measure precipitation from satellite data, researchers from the Institute of Industrial Science, The University of Tokyo, developed a deep-learning–based precipitation retrieval framework. Rather than identifying rain areas through classification and then determining the rate of rain through regression,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/985410",
+      "originalUrl": "https://www.eurekalert.org/news-releases/985410",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-fujitsu-ltd-fujitsu-launches-ai-platform-fujitsu-kozuchi-streamlining-access-to-ai-and-ml-solutions-to-contribute-to-a-sustainable-society.md",
+      "title": "Fujitsu Ltd: Fujitsu launches AI platform \"Fujitsu Kozuchi,\" streamlining access to AI and ML solutions to contribute to a sustainable society",
+      "excerpt": "At its Fujitsu Activate Now Technology Summit in Madrid, Fujitsu unveiled a new platform, \"Fujitsu Kozuchi (code name) - Fujitsu AI Platform,\" delivering access to",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58860724-fujitsu-ltd-fujitsu-launches-ai-platform-fujitsu-kozuchi-streamlining-access-to-ai-and-ml-solutions-to-contribute-to-a-sustainable-society-011.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58860724-fujitsu-ltd-fujitsu-launches-ai-platform-fujitsu-kozuchi-streamlining-access-to-ai-and-ml-solutions-to-contribute-to-a-sustainable-society-011.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos.acnnewswire.com/tr:n-650/FujitsuKozuchiFig1.jpg",
+          "width": 650,
+          "height": 247,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-students-use-machine-learning-in-lesson-designed-to-reveal-issues-promise-of-ai.md",
+      "title": "Students use machine learning in lesson designed to reveal issues, promise of AI",
+      "excerpt": "In a new study, North Carolina State University researchers had 28 high school students create their own machine learning artificial intelligence (AI) models for analyzing data. The goals of the project were to help students explore the challenges,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-04-students-machine-lesson-reveal-issues.html",
+      "originalUrl": "https://phys.org/news/2023-04-students-machine-lesson-reveal-issues.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg",
+          "width": 1920,
+          "height": 875,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-04-students-machine-lesson-reveal-issues.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-students-machine-lesson-reveal-issues.amp",
+      "publishedDateTime": "2023-04-04T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-eightfold-ai-announces-talent-intelligence-copilots-bringing-generative-ai-to-its-deep-learning-ai-platform.md",
       "title": "Eightfold AI Announces Talent Intelligence Copilots, Bringing Generative AI to its Deep-Learning AI Platform",
       "excerpt": "Since its founding, Eightfold AI has used deep-learning AI to understand a job seeker's skills, potential, ability to learn new skills and adapt to new situations, as well as facilitate the placement of those candidates in roles that help them fulfill their career potential.",
@@ -1161,93 +1281,7 @@
         "AI",
         "AI in Education"
       ]
-    },
-    {
-      "path": "_news/2023-03-27-deep-learning-ip-listing.md",
-      "title": "Deep learning IP Listing",
-      "excerpt": "c.WAVE120 is a deep learning-based super-resolution HW IP that upscales low-resolution data into high resolution in real-time. The neural network on c.WAVE120 is designed and trained to upscale ... DMP's AI Processor IP, ZIA ™ DV 500, is the ultra low ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/sip/?q=deep+learning",
-      "originalUrl": "https://www.design-reuse.com/sip/?q=deep+learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031.md",
-      "title": "Neural Network Software Market Size, 2023 Trends and Opportunities, CAGR and Value Chain Study to 2031",
-      "excerpt": "The neural network software is a tool used for ANN research and development, stimulation, and application (artificial neural network). The program refers to devices that resemble brains in certain ways and may have science fiction implications. Some of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031-2023-03-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031-2023-03-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-25T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 15
 }

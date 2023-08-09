@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-08-host-the-spark-ui-on-amazon-sagemaker-studio.md",
-      "title": "Host the Spark UI on Amazon SageMaker Studio",
-      "excerpt": "Amazon SageMaker offers several ways to run distributed data processing jobs with Apache Spark, a popular distributed computing framework for big data processing. You can run Spark applications interactively from Amazon SageMaker Studio by connecting SageMaker Studio notebooks and AWS Glue Interactive",
+      "path": "_news/2023-08-09-generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker.md",
+      "title": "Generate creative advertising using generative AI deployed on Amazon SageMaker",
+      "excerpt": "Creative advertising has the potential to be revolutionized by generative AI (GenAI). You can now create a wide variation of novel images, such as product shots, by retraining a GenAI model and providing a few inputs into the model, such as textual prompts (sentences describing the scene and objects",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-the-spark-ui-on-amazon-sagemaker-studio/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-the-spark-ui-on-amazon-sagemaker-studio/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 320,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/08/host-spark-ui-sagemaker-1260x627.jpg",
-          "width": 1260,
-          "height": 627,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/23/ml14623-pic1.png",
+          "width": 625,
+          "height": 270,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T07:56:37-07:00",
+      "publishedDateTime": "2023-08-09T08:51:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -190,6 +190,49 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-amazon-cloud-revenue-rises-12-topping-analysts-estimates.md",
+      "title": "Amazon cloud revenue rises 12%, topping analysts' estimates",
+      "excerpt": "During the second quarter AWS introduced Bedrock, a service that organizations can use to deploy generative artificial intelligence models that can compose impressive text and images in response ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/03/aws-q2-earnings-report-2023.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/03/aws-q2-earnings-report-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1387,58 +1430,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-better-artificial-intelligence-stock-apple-vs-amazon.md",
-      "title": "Better Artificial Intelligence Stock: Apple vs. Amazon",
-      "excerpt": "Additionally, Apple's stock has risen 301% over the last five years, while Amazon's has increased by 43%. The significant difference further solidifies Apple as the more reliable option and the better artificial intelligence stock.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/26/better-artificial-intelligence-stock-apple-vs-amaz/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/26/better-artificial-intelligence-stock-apple-vs-amaz/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740740/analyst-home-investor-stocks-trends.jpg",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

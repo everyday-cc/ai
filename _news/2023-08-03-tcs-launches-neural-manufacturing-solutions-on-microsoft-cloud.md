@@ -5,6 +5,8 @@ excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to ac
 publishedDateTime: 2023-08-03T14:38:00Z
 originalUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms"
 webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms"
+ampWebUrl: "https://m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
 type: article
 quality: 19
 heat: -1
@@ -17,6 +19,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-60941,msid-102398297/tcs-microsoft.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "Leidos-Microsoft Partnership Is Latest Sign AI Is Taking The Defense Industry By Storm"
@@ -50,6 +58,6 @@ related:
         height: 400
         isCached: true
 
-secured: "b2JrAmeKKM1EX3kvxpkFQYYte1aX5HhGBPgZ+XDM3/YGLSqqeshdgux9MD1iYNyO442uR03cI+LmoM6I+lCbey8n2rVYbLuG/A8cESCclCEXPyIpkkYIXwZVj7e3ntmYWr9tKhTFthaQryKaPqJ5aXV5S68mFJzq9B2bZujQO0dIQv2UKPn1TfdGpa0acdsfPfwtY9qOPmfBCh9LhxshoZ7wlFIoOFB2563HXYhGXb2mRkO/hWxyOyDvvW2sGm+PIqGuc/DIzrXp9ykElCR2AGSxQtS+IVGmTfvKCvwTZhbjaEkKrmaJAaKX1xvHstTw2o0SFGXgTkWgMOlLRNbPTxDABHqRivr9NvvVsPnDXaA=;Nt2vkcVGjB/7IMI4HDkM/A=="
+secured: "7B6skvuP7M1TEEEhUzAjIMrKGQr2XdEa9I/aD0kX6UCD4Rfg7E86fyWGhbmK0uBh+v0lI4pTTRg0693cS8jTDRKRbvv360lFFOAEz5KexlO9hZb7tZh/LOPIxC8q6u5zkDKJ2uuFEnv/Cr6mXYvlHoSe7AWbY6nhpqqcRB7B7TAiX+b3OkfiYfD/ip3uBV/fUkdd+XxTb//26bNezQYQArHVdPtGsFBVjzHHfH+ZzWJOvEzJyWAi2FqXSa9sN4EIKz1FENlsM4Sp/cEefzRC3wuzq/xmrmhkAuWZ/H3J+GGAP05tlYoWI187e7aPZowRlLKayS183BPOR2elqg9eeAyKHU35sNK7r0Xw+q3mSRk=;G0x9qbyqX60/6YoN+DxYyA=="
 ---
 

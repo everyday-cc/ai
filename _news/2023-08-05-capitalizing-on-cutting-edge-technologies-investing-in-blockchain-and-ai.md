@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Technologists Are The New Superheroes On Corporate Boards In The Age Of AI, Blockchain And CyberSecurity"
-    excerpt: "As tech-driven disruptions and cyber threats reshape industries at an unprecedented pace, the need for technical expertise on corporate boards has never been more"
-    publishedDateTime: 2023-08-04T19:29:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/amp/"
+  - title: "Microsoft and Aptos Labs Collaborate on New AI Blockchain Solutions"
+    excerpt: "Aptos, a reincarnation of Facebook's Diem blockchain, is integrating Microsoft's AI infrastructure to support users and developers."
+    publishedDateTime: 2023-08-09T13:08:00Z
+    webUrl: "https://www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/"
+    ampWebUrl: "https://www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/?outputType=amp"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/?outputType=amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd4a39912a743867716411/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.coindesk.com/resizer/1DEM2RqjH1pG3nYo6lWlfiU0SLI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/F6BDLOKG2VBU3BHACLZ4YOFZ2M.jpg"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
 
 secured: "4jzpf9/8Y5WuYkNTr4EDqf95wEsNtrE3Trj93x3ORPl1NwVfxA4oqOPy3yqKpeYQU5MqC4GP4KTuqK8R8d80VLu1DuGFw+DutcHPsYJmZtVDJoyS4SNxU4Io+y3I+yzxFebRiTa77KRKth+3CstXaBlTkwOxP3SxRV9c9zfAODKVCZH9sIy6gB8CKnf63jO7MAZnKm6roT9BPpGF4Ck0uzkCilG5xgf8xyKbEJcwoT+0AUK4gNNM1W7FqpaSiqMBiM6H92At4WVMk2ZpTAyizQTktJowJAAOpq79lwEWMOz+XkHRKy3llYYhodmJtbhHhuNOVqAKb7yHF487S2KYRazmgHFbrGKCHQxOLGSks4s=;CYHbgVnjLZ7rVFJ1FK0ZAQ=="

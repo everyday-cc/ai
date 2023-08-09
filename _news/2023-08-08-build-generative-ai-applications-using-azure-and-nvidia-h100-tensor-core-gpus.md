@@ -26,190 +26,206 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Programming In A Generative AI World"
-    excerpt: "Generative AI is revolutionizing programming, making coding more accessible and productive, but ethical considerations and human expertise remain crucial."
-    publishedDateTime: 2023-08-07T15:02:00Z
-    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/"
-    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c60efbf4e8ba5b40ade19b/0x0.jpg?format=jpg&width=1200"
-        width: 600
-        height: 420
-        isCached: true
-  - title: "Is Generative AI Stealing From Artists?"
-    excerpt: "Delve into the contentious debate around ownership, credit, and financial compensation for art created by AI tools, exploring artists' rights and IP laws."
-    publishedDateTime: 2023-08-08T06:36:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d1e22b979499b5d765f249/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Chegg is getting a generative AI makeover just in time for back-to-school season"
-    excerpt: "ChatGPT's advanced abilities have the potential to shake up many industries, and online learning services are an early example of this. With a free, competent tool like ChatGPT that can help with homework and studying, why would students pay for an online learning service?"
-    publishedDateTime: 2023-08-08T16:37:00Z
-    webUrl: "https://www.zdnet.com/article/chegg-is-getting-a-generative-ai-makeover-just-in-time-for-back-to-school-season/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chegg-is-getting-a-generative-ai-makeover-just-in-time-for-back-to-school-season/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chegg-is-getting-a-generative-ai-makeover-just-in-time-for-back-to-school-season/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/d5cc6ed5011ba9dd8d03158587d37492d7ff0cd0/2023/08/07/e628bc31-6534-451e-b147-c29be7e18310/gettyimages-1245734633-2.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia launches RTX workstations chips for content creation in the generative AI era"
-    excerpt: "Nvidia is launching new RTX workstation graphics processing units (GPUs) for the generative AI era at Siggraph."
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-launches-rtx-workstations-chips-for-content-creation-in-the-generative-ai-era/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/RTX-Workstation-Image.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Scale generative AI with new Azure AI infrastructure advancements and availability"
-    excerpt: "We are excited to share a series of announcements that highlight Microsoft Azure’s commitment to driving innovation and empowering businesses with cutting-edge AI solutions.\nThe post Scale generative AI with new Azure AI infrastructure advancements and availability appeared first on Azure Blog.\n"
-    publishedDateTime: 2023-08-07T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 78
-  - title: "4 ways generative AI makes founders more interesting to journalists"
-    excerpt: "Gutted newsrooms could stymie one of the greatest engines of startup growth. While generative AI will enhance the capabilities of many publications, they’re also creeping onto news sites in ways we can’t foresee while journalists are laid off."
-    publishedDateTime: 2023-08-05T21:29:00Z
-    webUrl: "https://techcrunch.com/2023/08/05/4-ways-generative-ai-makes-founders-more-interesting-to-journalists/"
+  - title: "Nvidia teams up with Hugging Face to offer cloud-based AI training"
+    excerpt: "Nvidia is partnering with Hugging Face, the AI startup, to expand access to AI compute. Timed to coincide with the annual SIGGRAPH conference this week, Nvidia announced that it’ll support a new Hugging Face service, called Training Cluster as a Service ..."
+    publishedDateTime: 2023-08-08T16:16:00Z
+    webUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/"
+    ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 67
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1249090879.jpg?resize=1200,750"
+      - url: "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?resize=1200,900"
         width: 1200
-        height: 750
+        height: 900
         isCached: true
-  - title: "Don’t quit your day job: Generative AI and the end of programming"
-    excerpt: "AI is something to be learned, tested and incorporated into practices so programmers can focus on understanding and solving problems."
-    publishedDateTime: 2023-08-06T17:10:00Z
-    webUrl: "https://venturebeat.com/ai/dont-quit-your-day-job-generative-ai-and-the-end-of-programming/"
+  - title: "Nvidia CEO: We bet the farm on AI and no one knew it"
+    excerpt: "It required that we reinvent the hardware, the software, the algorithms. And while we were reinventing CG with AI, we were reinventing the GPU for AI.” While ray-tracing and DLSS are still in the process of being adopted across the diverse and complex ..."
+    publishedDateTime: 2023-08-08T17:53:00Z
+    webUrl: "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/"
+    ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/nvidia-siggraph1.jpg?resize=1200,749"
+        width: 1200
+        height: 749
+        isCached: true
+  - title: "Nvidia unveils upgraded chip to power the next gen of AI"
+    excerpt: "Nvidia has announced its next generation AI chip platform which uses the new Grace Hopper Superchip with the world’s first HBM3e processor."
+    publishedDateTime: 2023-08-09T15:38:00Z
+    webUrl: "https://www.techradar.com/pro/nvidia-unveils-upgraded-chip-to-power-the-next-gen-of-ai"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/RqZGLD9cNLDo9TwwpFEFAD-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Nvidia Unveils New AI Chip Set to Cut Cost of Running LLMs"
+    excerpt: "Nvidia appears to have turned up the heat on its competitors within the artificial intelligence (AI) hardware space."
+    publishedDateTime: 2023-08-09T08:14:00Z
+    webUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/"
+    ampWebUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 74
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/nvidia-ai-chip-llms.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "MindsDB raises funding from Nvidia to democratize AI application development"
+    excerpt: "MindsDB aims to democratize AI development and production for all stripes of developers without requiring specialized AI training."
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/mindsdb-raises-funding-from-nvidia-to-democratize-ai-application-development/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 66
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_the_end_of_programming._colorful_futuristic_tech_3d6db463-375e-4d84-9324-2b045c20313a.png?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/634aea6929d4e1802257ff90_prev.png?w=1200&strip=all"
         width: 1200
-        height: 600
+        height: 701
         isCached: true
-  - title: "Kognitos Launches the Industry's Most Advanced Generative AI Automation Platform"
-    excerpt: "Kognitos is introducing self service functionality for business process experts to quickly start building automations interactively without prior automation training. It comes with an industry-first generative AI-powered copilot for writing automations in natural language."
-    publishedDateTime: 2023-08-08T16:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kognitos-launches-the-industry-s-most-advanced-generative-ai-automation-platform-1032530091"
+  - title: "Nvidia announces AI Workbench, a new dev tool for building gen AI models on PCs"
+    excerpt: "AI Workbench provides a simple user interface that runs on the developer's machine and connects to HuggingFace, Github and Nvidia's own enterprise portal."
+    publishedDateTime: 2023-08-08T23:00:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-announces-ai-workbench-a-new-dev-tool-for-building-gen-ai-models-on-pcs/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_surrounded_by_glowing_green_holographic_code_73d4986d-4889-41b0-9899-deab01c71ff0.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "Nvidia boosts its 'superchip' Grace-Hopper with faster memory for AI"
+    excerpt: "Nvidia announced a desktop software program called AI Workbench to more easily containerize neural net models on local workstations to stage them for the cloud."
+    publishedDateTime: 2023-08-08T19:31:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-boosts-its-superchip-grace-hopper-with-faster-memory-for-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
     quality: 64
-    images:
-      - url: "https://mma.prnewswire.com/media/2170997/Kognitos_Logo.jpg"
-        width: 400
-        height: 210
-        isCached: true
-  - title: "Are VCs seeing a Generative AI bubble?"
-    excerpt: "“It still remains to be seen where the real-world value will be in the generative AI startup space once their novelty is gone,” said Christian Cantrell, former VP, Product at Stability AI, and now founder of a generative AI startup. “It’s easy to do a demo but it’s something else entirely to build a product around it.”"
-    publishedDateTime: 2023-08-05T06:09:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/are-vcs-seeing-generative-ai-bubble/article67158059.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/are-vcs-seeing-generative-ai-bubble/article67158059.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/are-vcs-seeing-generative-ai-bubble/article67158059.ece/amp/"
+  - title: "Nvidia set to hop AI forward with next-gen Grace Hopper Superchip"
+    excerpt: "One of today's biggest Nvidia announcements is a new version of the GH200 Grace Hopper Superchip, powered with next-generation HBM3e memory."
+    publishedDateTime: 2023-08-08T19:18:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-set-to-hop-ai-forward-with-next-gen-grace-hopper-superchip/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+  - title: "Nvidia launches new AI chip configuration"
+    excerpt: "Nvidia announced a new configuration on Tuesday for its advanced artificial intelligence chips that is designed to speed generative AI applications.The new version of the Grace Hopper Superchip boosts the amount of high-bandwidth memory,"
+    publishedDateTime: 2023-08-09T03:47:00Z
+    webUrl: "https://www.channelnewsasia.com/business/nvidia-launches-new-ai-chip-configuration-3686276"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
     images:
-      - url: "https://th-i.thgim.com/public/incoming/6haw4t/article67158051.ece/alternates/FREE_1200/2023-07-13T100131Z_1015518115_RC2DT1AJRVZG_RTRMADP_3_SAN-FRANCISCO-AI.JPG"
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--udSqSFYx--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-08-08t154702z_2_lynxmpej770lg_rtroptp_3_usa-semiconductors.jpg?itok=4INBC_n-"
         width: 1200
-        height: 799
+        height: 676
         isCached: true
-  - title: "4 most promising healthcare generative AI startups, per CB Insights"
-    excerpt: "Discover the 4 most promising generative AI startups in healthcare, as identified by CB Insights. Learn about Aqemia, Hippocratic AI, Navina, and Subtle Medical."
-    publishedDateTime: 2023-08-08T21:37:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/4-most-promising-healthcare-generative-ai-startups-per-cb-insights.html"
+  - title: "Nvidia Unveils Upgraded AI Chips To Enhance Generative AI Applications"
+    excerpt: "The company introduced a new configuration for its Grace Hopper Superchip, aiming to boost the capabilities of generative AI applications, , nvidia, Grace Hopper Superchip, Generative AI"
+    publishedDateTime: 2023-08-09T05:24:00Z
+    webUrl: "https://www.businessworld.in/article/Nvidia-Unveils-Upgraded-AI-Chips-To-Enhance-Generative-AI-Applications/09-08-2023-487115/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: Businessworld
+      domain: businessworld.in
     quality: 54
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "What the Finance Industry Tells Us About the Future of AI"
-    excerpt: "What will artificial intelligence do to industries and jobs? For a preview, look to the finance industry which has been incorporating data and algorithms for a long time, and which is always a canary in the coal mine for new technology."
-    publishedDateTime: 2023-08-09T07:15:00Z
-    webUrl: "https://hbr.org/2023/08/what-the-finance-industry-tells-us-about-the-future-of-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 54
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/08/Aug23_09_5277464.jpg"
+      - url: "https://static.businessworld.in/article/article_extra_large_image/1688016391_iJbIWj_nvidia.png"
         width: 1200
         height: 675
         isCached: true
-  - title: "Episode 8: Artificial intelligence and the future of warfighting"
-    excerpt: "The advent of ChatGPT and its successor, GPT-4, in recent months has brought artificial intelligence into everyday use. Far from being science fiction, AI is now a frontier for the U.S. military as it competes with China, Russia and other global adversaries."
-    publishedDateTime: 2023-08-08T10:33:00Z
-    webUrl: "https://www.stripes.com/multimedia/podcasts/military_matters/2023-08-08/paul-scharre-ai-military-china-10973585.html"
+  - title: "Nvidia Unveils Faster Processor Aimed at Cementing AI Dominance"
+    excerpt: "Nvidia Corp. announced an updated AI processor that gives a jolt to the chip’s capacity and speed, seeking to cement the company’s dominance in a burgeoning market."
+    publishedDateTime: 2023-08-08T15:32:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-08-08/nvidia-unveils-faster-processor-aimed-at-cementing-ai-dominance"
     type: article
     provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 37
-    images:
-      - url: "https://www.stripes.com/incoming/jqp809-mil_ai_cover-edit.jpg/alternates/LANDSCAPE_480/MIL_AI_cover%20edit.jpg"
-        width: 480
-        height: 299
-        isCached: true
-  - title: "These Generative AI Startups Offer 4 Lessons For Leaders"
-    excerpt: "Here's how two generative AI startups perform on these four tests. Loora - a Tel Aviv-based Generative-AI powered English learning app - is clearly solving an important problem. A large rival taps a related market; its team has strong technical skills and a passion for the problem, and Loora is winning customers as it refines its product."
-    publishedDateTime: 2023-08-09T06:29:00Z
-    webUrl: "https://www.inc.com/peter-cohan/these-generative-ai-startups-offer-4-lessons-for-leaders.html"
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Nvidia unveils new chip that will bring down cost of running ChatGPT and other AI models"
+    excerpt: "Nvidia has revealed its next-generation Grace Hopper platform, featuring the world's first HBM3e processor for generative AI. The system has a single"
+    publishedDateTime: 2023-08-08T22:39:00Z
+    webUrl: "https://www.headlinestoday.in/technology/nvidia-unveils-new-chip-that-will-bring-down-cost-of-running-chatgpt-and-other-ai-models-587942910.html"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
+      name: headlinestoday
+      domain: headlinestoday.in
+    quality: 45
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1409790611_533074_ibbtwm.jpg"
+      - url: "https://akm-img-a-in.tosshub.com/sites/headlinestoday/resources/images/headlinestoday_fb.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Nvidia debuts upgraded GH200 Grace Hopper chip with high-speed memory"
+    excerpt: "According to Nvidia, the new edition of the GH200 is the world’s first processor to include HBM3e memory. That’s a type of high-speed memory designed to store the data that a chip is actively processing. It’s 50% faster than HBM3, the technology used in the original version of the GH200."
+    publishedDateTime: 2023-08-08T20:04:00Z
+    webUrl: "https://siliconangle.com/2023/08/08/nvidia-debuts-upgraded-gh200-grace-hopper-chip-high-speed-hbm3e-memory/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/nvidia.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Nvidia improves AI processor"
+    excerpt: "Grace Hopper superchip increases capacity and speed Nvidia announced an updated AI processor that gives a jolt to the chip's capacity and speed. Nvidia  told the gathered throngs at the Siggraph conference in Los Angeles that its Grace Hopper superchip,"
+    publishedDateTime: 2023-08-09T09:52:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57390-nvidia-improves-ai-processor"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/3e814bcb2a51dbe3c5633f6e423c21b2_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "Nvidia Teases New Hardware, Software, and Services for AI"
+    excerpt: "The star of the show was the new Grace Hopper Superchip GH200, which NVIDIA says was \"designed from the ground up for giant-scale AI.\""
+    publishedDateTime: 2023-08-08T23:28:00Z
+    webUrl: "https://decrypt.co/151782/nvidia-grace-hopper-gh200-rtx-6000-5000"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 39
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/NVIDIA-GPU-scaled-gID_7.jpg"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Nvidia puts generative AI at the forefront with AI Workbench and Hugging Face partnership"
     excerpt: "As part of the collaboration, Hugging Face will offer a brand-new service, called Training Cluster as a Service. It will simplify the creation and tailoring of new custom generative AI models for enterprise customers using its platform and Nvidia DGX Cloud for infrastructure with a single click."
@@ -225,33 +241,29 @@ related:
         width: 1280
         height: 680
         isCached: true
-  - title: "Artificial Intelligence Can’t Predict the Future"
-    excerpt: "AI uses current data and history to make recommendations and can’t consider unexpected events, such as hurricanes, or changing realities, such as \"black swan\" events."
-    publishedDateTime: 2023-08-08T18:42:00Z
-    webUrl: "https://www.floridarealtors.org/news-media/news-articles/2023/08/artificial-intelligence-cant-predict-future"
+  - title: "NVIDIA at SIGGRAPH: DGX Integration with Hugging Face for LLM Training; Announcement of AI Workbench"
+    excerpt: "At the the SIGGRAPH conference this morning in Los Angeles, NVIDIA and Hugging Face made several generative AI-related announcements, including a partnership intended to broaden access to generative AI supercomputing (NVIDIA’s DGX cloud hardware) for developers building large language models (LLMs) and other AI applications on the Hugging Face platform."
+    publishedDateTime: 2023-08-08T16:02:00Z
+    webUrl: "https://insidehpc.com/2023/08/nvidia-at-siggraph-dgx-integration-with-hugging-face-for-llm-training-announcement-of-ai-workbench/"
     type: article
     provider:
-      name: FloridaRealtors.org
-      domain: floridarealtors.org
-    quality: 17
-  - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
-    excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
-    publishedDateTime: 2023-08-08T15:58:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861286.htm"
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 24
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/04/jensen1.jpg"
+        width: 862
+        height: 800
+        isCached: true
+  - title: "AI Companies are Trying to Score as Many Nvidia H100 Accelerators as Possible"
+    excerpt: "Elon Musk said that acquiring GPUs for AI training is even more difficult than buying drugs. Tweet (opens in a new tab) To give you an idea of the current demand, VentureBeat flagged a lengthy post discussing the \"GPU shortage\" currently riling the AI ..."
+    publishedDateTime: 2023-08-07T17:12:00Z
+    webUrl: "https://www.extremetech.com/computing/ai-companies-are-trying-to-score-as-many-nvidia-h100-accelerators-as-possible"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-  - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
-    excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
-    publishedDateTime: 2023-08-08T17:19:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861286.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 16
 
 secured: "kcenAB0yRMSfWQH7a76hW1h4v6AhaU0DnCOFj1wRyPuLMTm9q2384lTxoaHv5GGjov429/S1dN3YHjM7X6rlax2A6WGBi+tbCOX/oIYp4GGGqsj37HYHhjdnqNdA6M6MMZADhdtFPjnvR25Lp9yyftsYyQqv+pKIl+vw3Dvwe8HdOvvNrdJXdbcE3x+jroZCarmh/GtTwT84XDRI2j+0NEeaTqcfuxjf2ohnyjRJwkfQPk995lRtwSQwREuYOuwkL7Uaq1IewlnUDk1gjErVqQ3tAMqByekIET59eYeZ9TghWEzUYDmiW/WKph9uIueWNO1gBjVvLFMNKb/3kcSPGxFci0nzTKguzPiaA/TQYO3Yw1InkCJI9WGEVuWcpU5Ds4H65CGaaW41eU0jDjAT4bXSDVZW+1axz53F3sLVmpOP9bZGK+tRa8YJ72dMFSls+96NWsDUCo6HlL3z54SXhZPML/LYF6kPhLIEqtizb/oKpqI/e57y2q1ODon2/0wo7q+o8t4Rf8m/TojLxoLmjA==;SN75vlXru1U9ldeH6dqQ2g=="
 ---

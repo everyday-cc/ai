@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Anthony Albanese will not announce Voice referendum date at Garma Festival but says he won't 'kick the can down the road'"
-    excerpt: "Prime Minister Anthony Albanese will not delay a vote on an Indigenous Voice to Parliament despite support for the proposal falling in opinion polls."
-    publishedDateTime: 2023-08-04T20:23:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-will-not-announce-voice-referendum-date-at-garma-festival-but-says-he-wont-kick-the-can-down-the-road/news-story/2bd01531bb538ee92de83cc6b3263e44"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-will-not-announce-voice-referendum-date-at-garma-festival-but-says-he-wont-kick-the-can-down-the-road/news-story/2bd01531bb538ee92de83cc6b3263e44?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-will-not-announce-voice-referendum-date-at-garma-festival-but-says-he-wont-kick-the-can-down-the-road/news-story/2bd01531bb538ee92de83cc6b3263e44?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 19
-    images:
-      - url: "https://content.api.news/v3/images/bin/a4ed728404629fb71a10b3152cbcdaa2"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "'More of the same': Anthony Albanese's warning after new poll shows sliding Voice support"
     excerpt: "Most voters across the country intend to vote No in the upcoming referendum to enshrine an Indigenous Voice to parliament in the Constitution, a poll shows."
     publishedDateTime: 2023-08-06T00:56:00Z

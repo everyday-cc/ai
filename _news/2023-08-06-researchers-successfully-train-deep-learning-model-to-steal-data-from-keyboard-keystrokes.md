@@ -71,6 +71,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "AI could steal information by listening to you type, study finds"
+    excerpt: "New research shows artificial intelligence can identify keystrokes by the sound of your typing and can steal information with 95% accuracy. Joshua Harrison, a software engineer and one of the authors of the study,"
+    publishedDateTime: 2023-08-09T15:42:00Z
+    webUrl: "https://www.cbsnews.com/video/ai-could-steal-information-by-listening-to-you-type-keystrokes-study/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/09/b9eab125-be6d-45e9-9967-87679b09bacc/thumbnail/1200x630/43e9cdab271801c00e862738427460bb/cbsn-fusion-ai-could-steal-information-by-listening-to-you-type-study-finds-thumbnail-2193229-640x360.jpg?v=4c3eff96812a3b6c2e014b1daed33369"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Terrifying ‘deep learning attack’ can steal your passwords by listening to you type"
     excerpt: "According to researchers involved in the study, the deep learning system was able to log keystrokes with a 93 percent accuracy rating when listening to the target typing on their keyboard. The system was taught by pressing the keys on an Apple Mac keyboard multiple times at different levels of pressure."
     publishedDateTime: 2023-08-07T23:23:00Z

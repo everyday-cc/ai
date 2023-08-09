@@ -23,20 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "3 Cheap Autonomous Driving Stocks That Smart Investors Will Snap Up Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips An interesting phenomenon has occurred when it comes to autonomous driving."
-    publishedDateTime: 2023-08-04T19:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-cheap-autonomous-driving-stocks-that-smart-investors-will-snap-up-now-1032519182"
+  - title: "5 AI Stocks That Could Turn $50,000 Into $1 Million"
+    excerpt: "He explains that IBM has since integrated its “Watson” AI with Red Hat, creating an opportunity to cross-sell AI products. It’s working. Since 2021, IBM’s profits have been on the rise. And though Big Blue still has a long way to go, Eric believes ..."
+    publishedDateTime: 2023-08-07T16:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-ai-stocks-that-could-turn-50000-into-1-million-1032524943"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2021/08/self-driving-300x202.jpg"
-        width: 300
-        height: 202
-        isCached: true
+    quality: 51
 
 secured: "+TEydGOCQClx788C5QbUhezxhI83sOaNu6znFzBwFpiv5qvOrs77OkEkeXgskH164cHFx+/OZCRuC1VMO3hnAHASTRooOEPBmopQx7Pppt2Gg5LmvDoyCAKnBFGaz5a97s7cad/Y38XP1d3ZiRNalzsy0v49t8GVAEp8NAQGDD9w3+u5bEo+R6dYtH99a/MMMdWrYgSCfdnm48FRuJbXu+8kARnq2vrAfzT4/jen9PbYD36SPTgl6EB/H9owuih/Fi9nhEWEY8Q9aiPE9VfOXKh7MY/2yYvhe8gCAyPn/glzszixSagWCd1MhNpP2375wYebXGWBQy1KGW9KAvNjadNf9M3NrgstOsabyPBDfB0=;pG7lwNgNh2wKE0mIuLWPsA=="
 ---

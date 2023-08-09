@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-09-lenovo-and-brazilian-innovation-hub-cesar-create-sign-language-translator-for-hearing-people-with-ai.md",
+      "title": "Lenovo And Brazilian Innovation Hub CESAR Create Sign Language “Translator” For Hearing People With AI",
+      "excerpt": "Described as a world-first, the patented AI technology is capable of visually identifying and contextualizing individual gestures",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/08/09/lenovo-and-brazilian-innovation-hub-cesar-create-sign-language-translator-for-hearing-people-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/08/09/lenovo-and-brazilian-innovation-hub-cesar-create-sign-language-translator-for-hearing-people-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d3a9219b7cab76fc0f2e70/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/08/09/lenovo-and-brazilian-innovation-hub-cesar-create-sign-language-translator-for-hearing-people-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2023/08/09/lenovo-and-brazilian-innovation-hub-cesar-create-sign-language-translator-for-hearing-people-with-ai/amp/",
+      "publishedDateTime": "2023-08-09T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-kognitos-goes-self-service-with-business-automation-powered-by-generative-ai.md",
       "title": "Kognitos goes self-service with business automation powered by generative AI",
       "excerpt": "Kognitos is using generative AI to introduce a self-service approach to business process automation and overcome the limitations of RPA.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/automation/kognitos-goes-self-service-with-business-automation-powered-by-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -107,58 +159,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-07-the-future-of-programming-in-a-generative-ai-world.md",
-      "title": "The Future Of Programming In A Generative AI World",
-      "excerpt": "Generative AI is revolutionizing programming, making coding more accessible and productive, but ethical considerations and human expertise remain crucial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/",
-      "originalUrl": "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c60efbf4e8ba5b40ade19b/0x0.jpg?format=jpg&width=1200",
-          "width": 600,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/",
-      "publishedDateTime": "2023-08-07T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-06-chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable.md",
       "title": "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?",
       "excerpt": "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods. Described as hallucination, confabulation or just plain making things up,",
@@ -210,7 +210,7 @@
       "originalUrl": "https://www.theguardian.com/australia-news/2023/aug/06/voice-would-fail-at-first-hurdle-if-not-enshrined-in-constitution-albanese-says",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -234,6 +234,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-apple-patent-says-siri-could-be-trained-to-read-your-lips.md",
+      "title": "Apple Patent Says Siri Could Be Trained to Read Your Lips",
+      "excerpt": "After all, Apple has so far eschewed talking much about modern AI systems. Why would the voice recognition service also want to be staring at me like HAL 9000 from 2001: A Space Odyssey?",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/apple-patent-siri-read-lips-1850704698",
+      "originalUrl": "https://gizmodo.com/apple-patent-siri-read-lips-1850704698",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -390,6 +433,83 @@
         "Natural Language Processing",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-intelligent-speech-recognition-software-market-latest-trends-demands-and-advancements-2023-to-2029.md",
+      "title": "Intelligent Speech Recognition Software Market Latest Trends, Demands and Advancements 2023 to 2029",
+      "excerpt": "The Global Intelligent Speech Recognition Software Market report focuses on an comprehensive analysis of the current and future prospects of the Intelligent Speech Recognition Software industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33542189/intelligent-speech-recognition-software-market-latest-trends-demands-and-advancements-2023-to-2029",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33542189/intelligent-speech-recognition-software-market-latest-trends-demands-and-advancements-2023-to-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-natural-language-processing-market-size-outlook-prominent-players-share-challenges-and-forecast-2031.md",
+      "title": "Natural Language Processing Market Size, Outlook, Prominent Players, Share, Challenges and Forecast 2031",
+      "excerpt": "The latest intelligence report published by Report Ocean, titled \"Global Natural Language Processing Market 2023: Increase in Demand and Opportunities,\" offers valuable insights into the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33541955/natural-language-processing-market-size-outlook-prominent-players-share-challenges-and-forecast-203",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33541955/natural-language-processing-market-size-outlook-prominent-players-share-challenges-and-forecast-203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1245,15 +1365,15 @@
       "title": "Yonyou unveils its large language model for enterprise services",
       "excerpt": "Yonyou Network Technology Co Ltd, China's leading software and cloud service provider, on Thursday unveiled the first large language model in the country's enterprise service industry.",
       "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202307/27/WS64c22e09a31035260b818e06.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202307/27/WS64c22e09a31035260b818e06.html",
+      "webUrl": "https://global.chinadaily.com.cn/a/202307/27/WS64c22e09a31035260b818e06.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202307/27/WS64c22e09a31035260b818e06.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://img2.chinadaily.com.cn/images/202307/27/64c22e09a310352610b9ae30.jpeg",
+          "url": "https://img2.chinadaily.com.cn/images/202307/27/64c22e09a310352610b9ae30.jpeg",
           "width": 720,
           "height": 480,
           "title": null,
@@ -1265,7 +1385,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T02:14:00-07:00",
+      "publishedDateTime": "2023-07-27T02:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "中国日报网",
@@ -1323,137 +1443,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-flag-harmful-language-in-spoken-conversations-with-amazon-transcribe-toxicity-detection.md",
-      "title": "Flag harmful language in spoken conversations with Amazon Transcribe Toxicity Detection",
-      "excerpt": "The increase in online social activities such as social networking or online gaming is often riddled with hostile or aggressive behavior that can lead to unsolicited manifestations of hate speech, cyberbullying, or harassment. For example, many online gaming communities offer voice chat functionality",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/flag-harmful-language-in-spoken-conversations-with-amazon-transcribe-toxicity-detection/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/flag-harmful-language-in-spoken-conversations-with-amazon-transcribe-toxicity-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T11:48:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-an-extensive-analysis-on-the-healthcare-natural-language-processing-nlp-market-with-projected-13-cagr-growth-from-2023-to-2030.md",
-      "title": "An extensive analysis on the Healthcare Natural Language Processing (NLP) market with projected 13% CAGR growth from 2023 to 2030",
-      "excerpt": "The \"Healthcare Natural Language Processing (NLP) Market\" is segmented into regions, Applications, and Types. The report presents the research and analysis provided within the Healthcare Natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33406530/an-extensive-analysis-on-the-healthcare-natural-language-processing-nlp-market-with-projected-13-ca",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33406530/an-extensive-analysis-on-the-healthcare-natural-language-processing-nlp-market-with-projected-13-ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33406530",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33406530",
-      "publishedDateTime": "2023-07-26T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-this-report-provides-an-overview-of-the-in-car-speech-recognition-market-covering-the-growth-factors-of-cagr-deployment-of-102-from-2023-to.md",
-      "title": "This report provides an overview of the In-Car Speech Recognition market covering the growth factors of CAGR deployment of 10.2% from 2023 to 2030",
-      "excerpt": "This &ldquo;In-Car Speech Recognition Market\" highlights key external drivers that affect the industry and assesses the current performance and revenue growth of the industry. This report helps to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33392653/this-report-provides-an-overview-of-the-in-car-speech-recognition-market-covering-the-growth-factor",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33392653/this-report-provides-an-overview-of-the-in-car-speech-recognition-market-covering-the-growth-factor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33392653",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33392653",
-      "publishedDateTime": "2023-07-26T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

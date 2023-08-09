@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 735
         isCached: true
+  - title: "Fintech BPO Philippines: Navigating digital revolution in financial landscape"
+    excerpt: "The rise of financial technology (fintech) has disrupted traditional financial sectors, propelling a shift towards digitization, convenience, and enhanced customer"
+    publishedDateTime: 2023-08-09T11:15:00Z
+    webUrl: "https://manilastandard.net/spotlight/314358733/fintech-bpo-philippines-navigating-digital-revolution-in-financial-landscape.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 1
 
 secured: "U8g65uB/ZKRgBjXl0fJOxkjGjcOGw7cTqpDTP5nAJA3S0XSLq2JkgsUjCRl+I27GUACfpZ0ZkOJFy8/qRXdv9gcE0TbKiEE0DNz107ee49Qz5W9507GoWUSGirBiycBNcoO1NbsOASdLTjAjbHLfiZis8ARNtsXOS8ahkS6P2c/ymQMWRXgI6IRND5B60R0bXcqmTAEA2J43b1dFrvTg4Tawa6H+R+YwEJbqAY+TPeV1cq5i/eASwEw/qWryPfYlNQC4/DQ+y8fd2AzCbkjm3GPxgQKkHtz0mcBl1EpDBztcUHxZeU2Gocr914sfp/w/NmnuRX5uvMjrUN9h0nITtPHQorXruFi8SPRamOgwP34=;YANHYYAuQbzuzO3JCe+IoQ=="
 ---

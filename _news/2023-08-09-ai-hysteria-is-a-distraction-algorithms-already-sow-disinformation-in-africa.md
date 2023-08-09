@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/global-development/2023/aug/09/ai-chatgp
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2023/aug/09/ai-chatgpt-doomerism-threat-already-here-big-tech-algorithms-sow-disinformation"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Speech Recognition - Northern Africa"
+    excerpt: "Value in the Speech Recognition market is projected to reach US$39m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 18.40%, resulting in a market volume of US$128m by ..."
+    publishedDateTime: 2023-08-05T12:19:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/northern-africa"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 19
 
 secured: "pqmVm4zmxnhWo5pmUiM6ukl2Yj0jQk0Pr3dsEOqHwFbJlvY8C5HCoGzImpi8O7VIXjZs7Ia5alvUv1F2EB+S4clb80r9xLSWYkucZ4QHFcGun8CZ1Dej7FbvyiIfY4NrroX8NgZoQNusmGBvu+kwO7miKGDff06G0y3VJHJKjDbqRHooQ+jXUcqerCbkFUPCeJMPjlU3JVaMUnVRQ18bTumSNDwrIiuEY7E238q2bOceHWx2Gh7gPZhwQbdVn7ghNpy5aLI6Z+eBRKPRKnSmJa6hrGabfmUJBBCa2k+x7se/7gxM2+JvZvyMJ/QTC6U14Ry49w1HYTDi1Mw6OHO1CvqjhY19h7x9hP8r5RqlL5JAdAmDMHhuVO/CXKHaFVLcDiWqVZJanEyTooCTbKawlCVFIxagOKzfdkhYUV7iFwZVys0wsbvnPrd2z0wOy4ucjQgj/3DllTa7CI8UjFLMWDO4mAdKVRATXSSAnyc9CLRbrxKPtNLMIuSTe2ld++3szcrnm1W/bE6lVh2zNroPCQ==;hmautKyUA9Ojp2j+igZouQ=="
 ---

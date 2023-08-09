@@ -49,6 +49,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Artificial intelligence is cleverer than you, workers told"
+    excerpt: "“Artificial intelligence is cleverer than you”. That’s what some workers are being told when they challenge the use of the new technology to manage their work."
+    publishedDateTime: 2023-08-09T12:08:00Z
+    webUrl: "https://www.tuc.org.uk/blogs/artificial-intelligence-cleverer-you-workers-told"
+    type: article
+    provider:
+      name: tuc.org.uk
+      domain: tuc.org.uk
+    quality: 19
 
 secured: "zG3QHQV2n08YS1NGkA6r5H7uGnFHf24JDHMA0UBvfN4QM/voF5ECD908DQURBTrxTd2+ufvJKczMXVOTjrGqJTGfs12jtm6j7gFy3nZOIH46ndNiQMOHiFzl4AzHUz+16UrmFtf30plyLuJHqeAVMbkZo68zQ335BTU7UF0hdGY84hByza1uHK1nsS29m8KeK6wg+zIjFNgiS1WLWNrb5jrcF3BmE/9A2Dd0uzf2LtM7/Zx2r5oRsVD8Go6b2Mv99ZIdJEhMjNKni4ZXS9TOuAE7VEz6dbAGy2jcIjP/ev/no2B7rVjxKzNrnmgqmFQ6sh21P5UriTd6R3iI6T3dD7Wex0C3ov9wv4NkW5cpmc8=;Cuc7IhhsJYNDj9Gy/f3NYQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-interne
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
 type: article
 quality: 91
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -32,6 +32,15 @@ images:
     isCached: true
 
 related:
+  - title: "Examining The Future Of Marketing In Light Of AI Concerns"
+    excerpt: "The more strategic, less brand-aligned functions scored the highest in terms of how defensible they are from being replaced by automation."
+    publishedDateTime: 2023-08-09T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/examining-the-future-of-marketing-in-light-of-ai-concerns/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Artificial Intelligence is already radically altering the world of case management"
     excerpt: "Some of the brightest minds in the technologies of the future have been unusually vocal about the potential dangers of Artificial Intelligence (AI), with"
     publishedDateTime: 2023-08-09T08:23:00Z

@@ -35,6 +35,15 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "EverstLabs Uses AI, Robotic Arms for More Efficient Recycling"
+    excerpt: "Hoping to cut down on people doing dangerous, dirty, and difficult jobs, AI robotic arms are working to make recycling more efficient."
+    publishedDateTime: 2023-08-09T12:21:00Z
+    webUrl: "https://www.waste360.com/recycling/everstlabs-uses-ai-robotic-arms-more-efficient-recycling"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 34
 
 secured: "vp5sa0KKdmmsBWbc9VZ7XvSaZksqhk0OuctbKt+CCuOqnTn4r7KAQa8/4f72IJLelZRiXLlY4obr6CriADmZf10h/EY5QukzrRCqcwO3a5fjc/azYnYM/E3UL8QPOroGcZs4nWVl+NgYgsbH81vE5ccrN+YeRnJTXZw7J9LppGQnbUR/n0EOyAv7riBVuZFls8nw2Ad+Ru7GgR4ILmg1hXZXSZIQnI5WplX5gWSnNJP4hkWPPJx4it63o96JaAQn+pE1+DeWzSN9UrVel6b+UsygmiOUPnpDZRrpqJhr/a6CarTKhPRHuXwdtqWcIm5HfptOJaI0WPhgGDSFbtn/CeeLr/c0WWRvTyNfbCCb8lzL3L0ydO5NExwI+l2orwkl0hSmPRICeMkV5pUlSAnv+eCQrpBeCUyY0IQfnUa0z+3v7QP91hvElf9QVIIeDLUnqc/RDg4xsxT604dEB6JKBtu2wtoJjCrDSL874jtPRC+1gV+nvtrsss3KcBwSumsK3TkZMXSaCz/hLw/PTajnzQ==;EHTQhK8u2BvIquVOnJbsgQ=="
 ---

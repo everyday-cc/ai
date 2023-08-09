@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "UiPath Named a Leader in the 2023 Gartner Magic Quadrant for Robotic Process Automation"
+    excerpt: "UiPath Positioned Highest for Ability to Execute GUEST RESEARCH: UiPath (NYSE: PATH), a leading enterprise automation software company, today announced it has been positioned by Gartner, Inc. as a Leader in the 2023 Gartner® Magic Quadrant™ for Robotic Process Automation[1] research report."
+    publishedDateTime: 2023-08-09T13:36:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-research/uipath-named-a-leader-in-the-2023-gartner-magic-quadrant-for-robotic-process-automation.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 16
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/eeb2039c8bd5c2136cd69da1d0534924_M.jpg"
+        width: 375
+        height: 215
+        isCached: true
   - title: "UiPath named a Leader in the 2023 Gartner Magic Quadrant for Robotic Process Automation report"
     excerpt: "UiPath, a leading enterprise automation software company, today announced it has been positioned by Gartner as a Leader in the 2023 Gartner Magic Quadrant for Robotic Process Automation research report."
     publishedDateTime: 2023-08-08T00:24:00Z

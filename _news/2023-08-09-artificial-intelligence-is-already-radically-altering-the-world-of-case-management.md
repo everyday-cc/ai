@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Examining The Future Of Marketing In Light Of AI Concerns"
+    excerpt: "The more strategic, less brand-aligned functions scored the highest in terms of how defensible they are from being replaced by automation."
+    publishedDateTime: 2023-08-09T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/examining-the-future-of-marketing-in-light-of-ai-concerns/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
     excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
     publishedDateTime: 2023-08-08T11:33:00Z

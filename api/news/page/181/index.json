@@ -2,6 +2,801 @@
   "page": 181,
   "value": [
     {
+      "path": "_news/2023-04-17-google-ai-staffers-shocked-that-samsung-apple-phone-search-exclusive-at-risk.md",
+      "title": "Google AI Staffers Shocked That Samsung, Apple Phone Search Exclusive At Risk",
+      "excerpt": "Stunned that Samsung has been considering switching its default phone search to Microsoft’s Bing, with Apple's contract up for renewal as well, Google is pulling out all the stops for Google I/O next month with new chat features for its traditional search function,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2023/04/17/google-160-ai-staffers-shocked-that-samsung-apple-phone-exclusive-at-risk/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/04/17/google-160-ai-staffers-shocked-that-samsung-apple-phone-exclusive-at-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643cc0aa4cbcd5f9e63bf6fb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/04/17/google-160-ai-staffers-shocked-that-samsung-apple-phone-exclusive-at-risk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/04/17/google-160-ai-staffers-shocked-that-samsung-apple-phone-exclusive-at-risk/amp/",
+      "publishedDateTime": "2023-04-17T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-baidu-releases-new-products-to-enhance-intelligent-driving.md",
+      "title": "Baidu Releases New Products To Enhance Intelligent Driving",
+      "excerpt": "Chinese artificial intelligence company Baidu Inc BIDU revealed a series of new products to enhance intelligent driving on Sunday, in a bid to be part of the transition to smarter cars in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/04/31826546/baidu-releases-new-products-to-enhance-intelligent-driving",
+      "originalUrl": "https://www.benzinga.com/news/23/04/31826546/baidu-releases-new-products-to-enhance-intelligent-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Photo_by_Tim_Foster_on_Unsplash.jpeg?width=1200&height=800&fit=crop",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-face-recognition-device-market-2023-2030-detailed-growth-analysis.md",
+      "title": "Face Recognition Device Market [2023-2030]: Detailed Growth Analysis",
+      "excerpt": "Apr 17, 2023 (The Expresswire) -- The Global \"Face Recognition Device Market\" report analyzes crucial growth factors, key strategies employed by economic players [Cloudwalk , Dahua Technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-2023-2030-detailed-growth-analysis-2023-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-2023-2030-detailed-growth-analysis-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market Growth and Forecast till 2031",
+      "excerpt": "The latest market research report on the Global \"Healthcare Artificial Intelligence (AI) Market\" is segmented by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031-2023-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 268,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out.md",
+      "title": "The AI Dilemma For Entrepreneurs: Pivot Now Or Wait It Out?",
+      "excerpt": "In November 2022 Chat GPT made artificial intelligence widely accessible to entrepreneurs, arguably for the first time. What followed was a wave of business owners figuring out how they could use AI to save time, ramp up production, make more money and stand out in their field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/",
+      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6410537ca114703a117aa269/0x0.jpg?format=jpg&crop=2217,1247,x0,y214,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/amp/",
+      "publishedDateTime": "2023-04-16T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-chatgpt-and-generative-ai-are-booming-but-the-costs-can-be-extraordinary.md",
+      "title": "ChatGPT and generative AI are booming, but the costs can be extraordinary",
+      "excerpt": "AI Dungeon's text-generation software was powered ... It took about 1 million GPU hours to train. With dedicated prices from AWS, that would cost over $2.4 million. And at 65 billion parameters ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1682449783",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "publishedDateTime": "2023-04-16T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-baidu-shares-drop-to-8-week-lows-after-company-reveals-chatgpt-rival.md",
+      "title": "Baidu shares drop to 8-week lows after company reveals ChatGPT rival",
+      "excerpt": "Beijing has pushed for national self-sufficiency in tech, while maintaining censorship and increasing regulation of data. Many Chinese companies, other than Baidu, are developing similar tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/16/baidu-shares-drop-after-chatgpt-ernie-bot-reveal.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/16/baidu-shares-drop-after-chatgpt-ernie-bot-reveal.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou.md",
+      "title": "The Week In Web3 And AI: Gucci x Vans, ALTS By adidas, AMI x ZEPETO, LVMH’s Patou",
+      "excerpt": "Following the announcement of its ALTS Web3 loyalty program, on Friday, adidas revealed mechanics whereby dedicated fans could bypass a random allocation of traits by paying to secure their choice — offering an interesting glimpse into the way the brand plans to further monetize the initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/",
+      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643c6d36379c9e1c160ab186/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/amp/",
+      "publishedDateTime": "2023-04-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-why-some-college-professors-are-adopting-chatgpt-ai-as-quickly-as-students.md",
+      "title": "Why some college professors are adopting ChatGPT AI as quickly as students",
+      "excerpt": "There's another side to that evolving AI story ... \"ChatGPT can even help educators translate some of those lessons or takeaways in simpler language,\" he said. Education technology company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/02/why-college-professors-are-adopting-chatgpt-ai-as-quickly-as-students.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/02/why-college-professors-are-adopting-chatgpt-ai-as-quickly-as-students.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-artificial-intelligence-of-things-aiot-solutions-market-size-and-share-2023-2030.md",
+      "title": "Artificial Intelligence Of Things (AIoT) Solutions Market [Size and Share] 2023-2030",
+      "excerpt": "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Artificial Intelligence Of Things (AIoT) Solutions Market Segment by Type ( Hardware,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-and-share-2023-2030-2023-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-and-share-2023-2030-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-gpu-for-deep-learning-market-analysis-2023-2030-understanding-the-latest-market-trends.md",
+      "title": "GPU for Deep Learning Market Analysis [2023-2030] Understanding the Latest Market Trends",
+      "excerpt": "This GPU for Deep Learning Market report researches the key producers of GPU for Deep Learning, also provides the sales of main regions and countries. Highlights of the upcoming m",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2023-2030-understanding-the-latest-market-trends-2023-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2023-2030-understanding-the-latest-market-trends-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T22:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-baidu-apollo-releases-major-product-updates-to-help-manufacturers-build-smarter-cars-for-tomorrow.md",
+      "title": "Baidu Apollo Releases Major Product Updates to Help Manufacturers Build Smarter Cars for Tomorrow",
+      "excerpt": "Baidu Apollo Releases Major Product Updates to Help Manufacturers Build Smarter Cars for Tomorrow Apr 16, 2023 (PRNewswire via COMTEX) -- PR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/baidu-apollo-releases-major-product-updates-to-help-manufacturers-build-smarter-cars-for-tomorrow-2023-04-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/baidu-apollo-releases-major-product-updates-to-help-manufacturers-build-smarter-cars-for-tomorrow-2023-04-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-computer-vision-ip-listing.md",
+      "title": "Computer vision IP Listing",
+      "excerpt": "CEVA-XM6 is the 5th generation imaging and computer vision processor IP from CEVA, designed to bring deep learning and artificial intelligence capabilities to low-power embedded systems, targeting ... NeuPro-S™ is a low power AI processor architecture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/sip/?q=computer+vision",
+      "originalUrl": "https://www.design-reuse.com/sip/?q=computer+vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-diagnosing-ai-healthcare-community-excited-wary-of-artificial-intelligence.md",
+      "title": "Diagnosing AI: Healthcare community excited, wary of artificial intelligence",
+      "excerpt": "Artificial intelligence technologies have ... can use in tandem with their expertise may increase access to needed health care in less serviced areas, said Dr. Bernardo Bizzo, senior director ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbjournal.com/article/diagnosing-ai-healthcare-community-excited-wary-of-artificial-intelligence",
+      "originalUrl": "https://www.wbjournal.com/article/diagnosing-ai-healthcare-community-excited-wary-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wbjournal.com/sites/default/files/2023-04/screenshot_2023-04-17_9.40.20_am.png",
+          "width": 1277,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBJournal",
+        "domain": "wbjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs.md",
+      "title": "Profit from the Artificial Intelligence Boom with These 7 AI ETFs",
+      "excerpt": "The artificial intelligence revolution is already ... such as advanced machinery, autonomous systems/self-driving vehicles, semiconductors, and databases used for machine learning; An engager ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs",
+      "originalUrl": "https://www.nasdaq.com/articles/profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
+      "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
+      "excerpt": "The soccer robots, for example, can't write up a grocery list or book your travel or drive your car. The ultimate goal is what's called artificial general intelligence-- a learning machine that can score on a wide range of talents. Scott Pelley ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
+      "originalUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
+      "publishedDateTime": "2023-04-16T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-ai-could-have-a-14-trillion-impact-by-2030-here-are-3-top-stocks-to-buy-now.md",
+      "title": "AI Could Have a $14 Trillion Impact by 2030: Here Are 3 Top Stocks to Buy Now",
+      "excerpt": "Artificial intelligence has been all the rage lately, capturing the imagination of consumers and investors alike. Ark Invest estimates the opportunity from AI at $14 trillion by 2030. Palantir ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/16/ai-trillion-dollar-impact-2030-top-stocks-buy/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/16/ai-trillion-dollar-impact-2030-top-stocks-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-posts-tagged-aws-artificial-intelligence-and-machine-learning-practice-lead.md",
       "title": "Posts tagged \"AWS Artificial Intelligence and Machine Learning Practice Lead\"",
       "excerpt": "Download this eBook to look at each of these trends to give you background on why AI and ML is so powerful today, how businesses are using it responsibly and to their benefit, and how the ...",
@@ -387,770 +1182,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-constitutional-recognition-through-an-indigenous-voice-to-parliament.md",
-      "title": "Constitutional Recognition through an Indigenous Voice to Parliament",
-      "excerpt": "An Indigenous Voice to Parliament is a proposal which has been met with a wide range of responses from Aboriginal and Torres Strait Islander people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/radio/programs/speakingout/referendum-voices/102220564",
-      "originalUrl": "https://www.abc.net.au/radio/programs/speakingout/referendum-voices/102220564",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/e13a4d92ff42ecdd669dedef3ba2da5d?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485",
-          "width": 862,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-aws-launches-new-tools-for-building-with-generative-ai.md",
-      "title": "AWS launches new tools for building with generative AI",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com company, today (April 15) announced four innovations across its machine learning portfolio to make to make generative AI more accessible to customers. As an AI pioneer, AWS has helped more than 100,000 customers of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/aws-launches-new-tools-for-building-with-generative-ai-avvgue7d",
-      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/aws-launches-new-tools-for-building-with-generative-ai-avvgue7d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NTM1NzQzZjktM2MxOC00/16/1297736239.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/aws-launches-new-tools-for-building-with-generative-ai-avvgue7d?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/aws-launches-new-tools-for-building-with-generative-ai-avvgue7d?amp=1",
-      "publishedDateTime": "2023-04-15T23:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-financial-institutions-directed-to-adopt-facial-recognition-feature.md",
-      "title": "Financial institutions directed to adopt facial recognition feature",
-      "excerpt": "According to the central bank, the measures require commercial banks and microfinance banks (MFBs) to implement a combination of at least two controls, such as facial recognition, in-app live original identity document verification, in-app live picture verification, and call-back verification.",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature",
-      "originalUrl": "https://tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.tribune.com.pk/media/images/biz1681621227-0/biz1681621227-0.jpg",
-          "width": 1588,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature?amp=1",
-      "publishedDateTime": "2023-04-15T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-mit-physicist-max-tegmark-calls-for-a-halt-on-ai-development.md",
-      "title": "MIT physicist Max Tegmark calls for a halt on AI development",
-      "excerpt": "Physicist and MIT professor Max Tegmark tells 'Unfiltered' host Dan Bongino that we should be building technology we can 'trust and understand.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6325184853112",
-      "originalUrl": "https://www.foxnews.com/video/6325184853112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4b5d133-0cef-4983-92c5-91ed27dd6887/8092b1a6-c899-4a2b-a195-1aa7249216e9/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-baidu-apollo-releases-major-product-updates-to-help-manufacturers-build-smarter-cars-for-tomorrow.md",
-      "title": "Baidu Apollo Releases Major Product Updates to Help Manufacturers Build Smarter Cars for Tomorrow",
-      "excerpt": "Baidu Apollo City Driving Max is upgraded with \"lightweight HD map\", which is 80% \"lighter\" compared to traditional HD maps. Baidu's Apollo Highway Driving Pro will be deployed on Black Sesame Semiconductor's Huashan II A1000 chip computing platform and will be officially released in Q3 this year.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/16/9795077.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/16/9795077.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
-      "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
-      "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/NVIDIA_DGX-2_cropped_1522130618.jpg",
-          "width": 1314,
-          "height": 986,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-in-curious-move-elon-musk-quietly-preps-for-launch-of-openai-rival-shortly-after-calling-for-pause-in-ai-research.md",
-      "title": "In Curious Move, Elon Musk Quietly Preps For Launch Of OpenAI Rival Shortly After Calling For Pause In AI Research",
-      "excerpt": "Musk registered a company named X.AI in Nevada as a step to set up his own AI venture. The billionaire has secured thousands of high-powered GPU processors from Nvidia for the purpose, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/04/31819784/in-curious-move-elon-musk-quietly-preps-for-launch-of-openai-rival-shortly-after-calling-for-pause-i",
-      "originalUrl": "https://www.benzinga.com/news/23/04/31819784/in-curious-move-elon-musk-quietly-preps-for-launch-of-openai-rival-shortly-after-calling-for-pause-i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/04/15/elon_musk.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31819784",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31819784",
-      "publishedDateTime": "2023-04-15T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-how-to-choose-a-robot-vacuum.md",
-      "title": "How to choose a robot vacuum",
-      "excerpt": "When it comes to keeping your home clean, few smart home devices are as beloved as robot vacuums ... with a good range of features such as voice control and room mapping. It also offers several ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/how-to-choose-a-robot-vacuum/",
-      "originalUrl": "https://www.digitaltrends.com/home/how-to-choose-a-robot-vacuum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-reviving-the-dead-with-ai-is-it-really-worth-it.md",
-      "title": "Reviving The Dead With AI: Is It Really Worth It?",
-      "excerpt": "If AI could let you speak with your deceased loved ones again, would you take the chance? It’s not a rhetorical question. A few companies and experts believe this will soon be possible, and some are even starting to market their own solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/federicoguerrini/2023/04/15/reviving-the-dead-with-ai-is-it-really-worth-it/",
-      "originalUrl": "https://www.forbes.com/sites/federicoguerrini/2023/04/15/reviving-the-dead-with-ai-is-it-really-worth-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643acded61f9a64accfe5712/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/federicoguerrini/2023/04/15/reviving-the-dead-with-ai-is-it-really-worth-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2023/04/15/reviving-the-dead-with-ai-is-it-really-worth-it/amp/",
-      "publishedDateTime": "2023-04-15T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-an-ai-safety-expert-outlined-a-range-of-speculative-doomsday-scenarios-from-weaponization-to-power-seeking-behavior.md",
-      "title": "An AI safety expert outlined a range of speculative doomsday scenarios, from weaponization to power-seeking behavior",
-      "excerpt": "For all of the excitement surrounding the mainstream use of AI technology, there are also the science fiction-type scenarios that are the stuff of nightmares. A recent paper authored by Dan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-safety-expert-research-speculates-dangers-doomsday-scenarios-weaponization-deception-2023-4",
-      "originalUrl": "https://www.businessinsider.com/ai-safety-expert-research-speculates-dangers-doomsday-scenarios-weaponization-deception-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6439affa56f0dc0019893e79?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-safety-expert-research-speculates-dangers-doomsday-scenarios-weaponization-deception-2023-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-safety-expert-research-speculates-dangers-doomsday-scenarios-weaponization-deception-2023-4?amp",
-      "publishedDateTime": "2023-04-15T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-2023-2029-ai-in-computer-vision-market-share-with-86-pages-by-irb.md",
-      "title": "2023-2029 \"AI In Computer Vision Market\" Share, With 86+ Pages By IRB",
-      "excerpt": "AI In Computer Vision Market ” Report Insights with 86 + pages of analysis on business strategy taken up byÂemerging industry players, geographical scope, market segments, product landscape and cost structure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-2029-ai-in-computer-vision-market-share-with-86-pages-by-irb-2023-04-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-2029-ai-in-computer-vision-market-share-with-86-pages-by-irb-2023-04-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-spacex-launches-startups-first-cell-tower-in-space.md",
-      "title": "SpaceX Launches Startup's First 'Cell Tower in Space'",
-      "excerpt": "With a SpaceX rocket launch late Friday, a Spanish company called Sateliot took its first step toward helping you get text messaging abilities in mountains, rural areas and other parts of the world where conventional mobile networks fail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/internet/spacex-launches-startups-first-cell-tower-in-space/",
-      "originalUrl": "https://www.cnet.com/home/internet/spacex-launches-startups-first-cell-tower-in-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/f8cd5c4525386ce7a982925e6f428a54c6080942/hub/2023/04/06/21031a62-fd2f-4f4d-a647-214d77009e95/sateliot-satellite.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/spacex-launches-startups-first-cell-tower-in-space/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/spacex-launches-startups-first-cell-tower-in-space/",
-      "publishedDateTime": "2023-04-15T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-new-artificial-intelligence-tool-helps-predict-colon-cancer-survival.md",
-      "title": "New Artificial Intelligence Tool Helps Predict Colon Cancer Survival",
-      "excerpt": "Artificial intelligence (AI) or machine intelligence refers to the intelligence displayed by computers or robots in contrast to the natural intelligence exhibited by humans. It is considered one of the major advancements of the 4th industrial revolution and finds application in several fields including medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "originalUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/artificial-intelligence-can-now-predict.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "publishedDateTime": "2023-04-15T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic.md",
-      "title": "Robot Sophia stars at artificial intelligence forum in Dominican Republic",
-      "excerpt": "The robot Sophia was the main protagonist at the Global Forum in Casa de Campo (La Romana, eastern Dominican Republic) where the advances and risks posed by artificial intelligence (AI) were discussed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/",
-      "originalUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.laprensalatina.com/wp-content/uploads/2023/04/f5f380243fc2f1893919f61814c51c7bba7e37f6w-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/amp/",
-      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/amp/",
-      "publishedDateTime": "2023-04-15T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "La Prensa Latina",
-        "domain": "laprensalatina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law.md",
-      "title": "AI Aspiring Toward All-In Global Geopolitical Multilateral Unity Arrangement For Sake Of Humanity Says AI Ethics And AI Law",
-      "excerpt": "Advocates of AI are saying that we need large-scale global multilateral arrangements to try and prevent an AI apocalyptical nightmare upon humankind. I explore what this all means and whether it is feasible,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62871351ad5ec247308a0ba8/0x0.jpg?format=jpg&crop=1850,1387,x113,y0,safe&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-04-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-elon-musk-founds-new-artificial-intelligence-company-called-xai.md",
-      "title": "Elon Musk founds new artificial intelligence company called X.AI",
-      "excerpt": "Twitter owner Elon Musk has founded a new artificial intelligence company named X.AI, according to a Nevada business filing from last month. The filing, dated March 9, lists Musk as the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/3952116-elon-musk-founds-new-artificial-intelligence-company-called-x-ai/",
-      "originalUrl": "https://thehill.com/policy/technology/3952116-elon-musk-founds-new-artificial-intelligence-company-called-x-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/04/6436cc09aba5a3.70276051-e1681563491443.jpeg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/3952116-elon-musk-founds-new-artificial-intelligence-company-called-x-ai/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3952116-elon-musk-founds-new-artificial-intelligence-company-called-x-ai/amp/",
-      "publishedDateTime": "2023-04-15T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-thailand-uses-facial-recognition-technology-in-disease-control.md",
-      "title": "Thailand uses facial recognition technology in disease control",
-      "excerpt": "Eye and facial recognition technology will be used in a pilot project in Thailand, aimed at improving healthcare services for foreign workers, refugees and ethnic people in five provinces, the Thai Department of Disease Control has said.",
-      "sourceUrl": null,
-      "webUrl": "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.vnp",
-      "originalUrl": "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.vnp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2023_04_15/thailand.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.amp",
-      "cdnAmpWebUrl": "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.amp",
-      "publishedDateTime": "2023-04-15T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VietnamPlus",
-        "domain": "vietnamplus.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -57,6 +57,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "The Future of Fintech in Latin America 2023"
+    excerpt: "Many companies, countries and regions have forged ahead in leveraging data, cloud, blockchain and AI. One such region is Latin America, where according to Statista, there are 2,300 registered fintech companies,"
+    publishedDateTime: 2023-08-09T14:00:00Z
+    webUrl: "https://www.finextra.com/researcharticle/285/the-future-of-fintech-in-latin-america-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fo-latamhomepage.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Lytus enters FinTech sector in India through the launch of a new payment gateway"
     excerpt: "Nasdaq-listed Lytus Technologies Holdings PTV. Ltd. (the “Company”) (NASDAQ: LYT), a leading global technology-driven services company, has announced the launch of"
     publishedDateTime: 2023-08-09T05:40:00Z
@@ -80,6 +94,15 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 8
+  - title: "The Rise of Fintech Investment in India: Reshaping Financial Landscapes"
+    excerpt: "Reshaping Financial Landscapes - India has experienced a spectacular financial upheaval in recent years because of the fintech industry."
+    publishedDateTime: 2023-08-09T12:21:00Z
+    webUrl: "https://www.siliconindia.com/news/general/the-rise-of-fintech-investment-in-india-reshaping-financial-landscapes-nid-224650-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 4
 
 secured: "2ZTZ+p7fb8gQ2AJCOgIkdIw54nK5XkeCqyQX6Jde8xe9eVToP+TesVgzpcOBv3/nMW/z0ryWiHDoBK1eZeqxj5j7VEIh277oLg4vuhaJGCDGlol7DQw54hizIKdkIu37Ji3STIGX4UIIuKoE69sPFSPwsP0+Fit3vFQRWDwEPnEjni7wA/Kcu8JlYpWgFTgTflp7QRYsNCsYt1ZEIvbRZYs1Kloi5P1HAPL8ZadrOHCzjJgS2r6apfNLRpYIqjFo6lF27Nwjce6b+25VU5MvWWbxtPV97N63p/S+S71xfnUXDCSqsa6aJZ683kz8k0sf1bXh4Dvv/2u03f/01OGEuzpI7yK7mMzyxvyNF4XQ3mbkbAotmCzMXYwVi8oUYhyXmP2iF4bzDvMn9HJgYhChAHtXI1/z+yODpcTqANWtXGdOaN4/jzy3A8V5vWrEZCOmCKzNy+CPuxOYc6HKZ9SJXTKotTrShUO9O1XYQ0Vg2YVlStQTMWWpFQmBfc7Vxjb5TV/xnPrZ5ZEOZ22HZ6Ongg==;v1ih4arADzKBjpgLdFHQWg=="
 ---

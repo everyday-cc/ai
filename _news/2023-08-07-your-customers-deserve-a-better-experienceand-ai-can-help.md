@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "4 Ways Conversational AI Improves Customer Experience"
-    excerpt: "In a race to secure their position in the competitive future, businesses embracing conversational AI can supercharge sales."
-    publishedDateTime: 2023-08-04T20:33:00Z
-    webUrl: "https://www.inc.com/srini-pagidyala/4-ways-conversational-ai-improves-customer-experience.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1489392590_533027_gb7ysh.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Merkle Introduces Generative AI Powered GenCX to Revamp Customer Experiences"
     excerpt: "Developed within dentsu's Azure OpenAI framework GenCX uses AI to analyse substantial amounts of brands' internal data."
     publishedDateTime: 2023-08-09T05:31:00Z

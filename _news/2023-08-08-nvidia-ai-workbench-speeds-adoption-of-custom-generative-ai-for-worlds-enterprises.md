@@ -19,53 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "The Future Of Programming In A Generative AI World"
-    excerpt: "Generative AI is revolutionizing programming, making coding more accessible and productive, but ethical considerations and human expertise remain crucial."
-    publishedDateTime: 2023-08-07T15:02:00Z
-    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/"
-    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/"
+  - title: "Dell Technologies & NVIDIA Collaborate On Full-Stack Generative AI Solutions"
+    excerpt: "Dell and NVIDIA announced new validated designs for inference systems based on NVIDIA GPUs and software, a services offering, and a new Dell Precision AI workstation."
+    publishedDateTime: 2023-08-06T21:15:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 86
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c60efbf4e8ba5b40ade19b/0x0.jpg?format=jpg&width=1200"
-        width: 600
-        height: 420
-        isCached: true
-  - title: "Is Generative AI Stealing From Artists?"
-    excerpt: "Delve into the contentious debate around ownership, credit, and financial compensation for art created by AI tools, exploring artists' rights and IP laws."
-    publishedDateTime: 2023-08-08T06:36:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d1e22b979499b5d765f249/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d00bf4e0b0b9ba04775ac7/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Chegg is getting a generative AI makeover just in time for back-to-school season"
-    excerpt: "ChatGPT's advanced abilities have the potential to shake up many industries, and online learning services are an early example of this. With a free, competent tool like ChatGPT that can help with homework and studying, why would students pay for an online learning service?"
-    publishedDateTime: 2023-08-08T16:37:00Z
-    webUrl: "https://www.zdnet.com/article/chegg-is-getting-a-generative-ai-makeover-just-in-time-for-back-to-school-season/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chegg-is-getting-a-generative-ai-makeover-just-in-time-for-back-to-school-season/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chegg-is-getting-a-generative-ai-makeover-just-in-time-for-back-to-school-season/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/d5cc6ed5011ba9dd8d03158587d37492d7ff0cd0/2023/08/07/e628bc31-6534-451e-b147-c29be7e18310/gettyimages-1245734633-2.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+        height: 798
         isCached: true
   - title: "Nvidia launches RTX workstations chips for content creation in the generative AI era"
     excerpt: "Nvidia is launching new RTX workstation graphics processing units (GPUs) for the generative AI era at Siggraph."
@@ -81,166 +49,109 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Scale generative AI with new Azure AI infrastructure advancements and availability"
-    excerpt: "We are excited to share a series of announcements that highlight Microsoft Azure’s commitment to driving innovation and empowering businesses with cutting-edge AI solutions.\nThe post Scale generative AI with new Azure AI infrastructure advancements and availability appeared first on Azure Blog.\n"
-    publishedDateTime: 2023-08-07T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/"
+  - title: "BOXX Upgrades AI Workstation Module with New NVIDIA L40S GPUs"
+    excerpt: "BOXX Technologies, the leading innovator of high-performance computer workstations, rendering systems, and servers, today announced that RAXX P1G, a rack-mounted"
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635531/boxx-upgrades-ai-workstation-module-with-new-nvidia-l40s-gpus"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33635531"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635531"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 78
-  - title: "Build generative AI applications using Azure and NVIDIA H100 Tensor Core GPUs"
-    excerpt: "Microsoft Azure users can now leverage the latest NVIDIA accelerated computing technology to train, deploy and build generative AI applications. The"
-    publishedDateTime: 2023-08-08T08:37:00Z
-    webUrl: "https://www.geeky-gadgets.com/build-generative-ai-apps-08-08-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 68
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Build-generative-AI-applications.jpg"
-        width: 700
-        height: 461
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "4 ways generative AI makes founders more interesting to journalists"
-    excerpt: "Gutted newsrooms could stymie one of the greatest engines of startup growth. While generative AI will enhance the capabilities of many publications, they’re also creeping onto news sites in ways we can’t foresee while journalists are laid off."
-    publishedDateTime: 2023-08-05T21:29:00Z
-    webUrl: "https://techcrunch.com/2023/08/05/4-ways-generative-ai-makes-founders-more-interesting-to-journalists/"
+  - title: "Generative AI Highlights NVIDIA Keynote at SIGGRAPH 2023"
+    excerpt: "At the SIGGRAPH conference, NVIDIA showcased its efforts to make generative AI not only more accessible but also more versatile. Through strategic partnerships and technological advancements, NVIDIA’s innovations echo a significant industry trend where many different sectors are beginning to harness the power of AI."
+    publishedDateTime: 2023-08-08T18:20:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-highlights-nvidia-keynote-at-siggraph-2023/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
+      name: eWeek
+      domain: eweek.com
+    quality: 71
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1249090879.jpg?resize=1200,750"
-        width: 1200
-        height: 750
+      - url: "https://b2758374.smushcdn.com/2758374/wp-content/uploads/2023/05/top-generative-ai-apps-tools-696x464.png?lossy=1&strip=1&webp=1"
+        width: 696
+        height: 464
         isCached: true
-  - title: "Don’t quit your day job: Generative AI and the end of programming"
-    excerpt: "AI is something to be learned, tested and incorporated into practices so programmers can focus on understanding and solving problems."
-    publishedDateTime: 2023-08-06T17:10:00Z
-    webUrl: "https://venturebeat.com/ai/dont-quit-your-day-job-generative-ai-and-the-end-of-programming/"
+  - title: "Nvidia upgrades Omniverse to for OpenUSD framework and generative AI"
+    excerpt: "Nvidia said the Omniverse platform will leverage the OpenUSD framework and generative AI (AI) to accelerate industrial digitalization."
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-upgrades-omniverse-to-for-openusd-framework-and-generative-ai/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_the_end_of_programming._colorful_futuristic_tech_3d6db463-375e-4d84-9324-2b045c20313a.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Kognitos Launches the Industry's Most Advanced Generative AI Automation Platform"
-    excerpt: "Kognitos is introducing self service functionality for business process experts to quickly start building automations interactively without prior automation training. It comes with an industry-first generative AI-powered copilot for writing automations in natural language."
-    publishedDateTime: 2023-08-08T16:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kognitos-launches-the-industry-s-most-advanced-generative-ai-automation-platform-1032530091"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://mma.prnewswire.com/media/2170997/Kognitos_Logo.jpg"
-        width: 400
-        height: 210
-        isCached: true
-  - title: "Are VCs seeing a Generative AI bubble?"
-    excerpt: "“It still remains to be seen where the real-world value will be in the generative AI startup space once their novelty is gone,” said Christian Cantrell, former VP, Product at Stability AI, and now founder of a generative AI startup. “It’s easy to do a demo but it’s something else entirely to build a product around it.”"
-    publishedDateTime: 2023-08-05T06:09:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/are-vcs-seeing-generative-ai-bubble/article67158059.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/are-vcs-seeing-generative-ai-bubble/article67158059.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/are-vcs-seeing-generative-ai-bubble/article67158059.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/6haw4t/article67158051.ece/alternates/FREE_1200/2023-07-13T100131Z_1015518115_RC2DT1AJRVZG_RTRMADP_3_SAN-FRANCISCO-AI.JPG"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "4 most promising healthcare generative AI startups, per CB Insights"
-    excerpt: "Discover the 4 most promising generative AI startups in healthcare, as identified by CB Insights. Learn about Aqemia, Hippocratic AI, Navina, and Subtle Medical."
-    publishedDateTime: 2023-08-08T21:37:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/4-most-promising-healthcare-generative-ai-startups-per-cb-insights.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "What the Finance Industry Tells Us About the Future of AI"
-    excerpt: "What will artificial intelligence do to industries and jobs? For a preview, look to the finance industry which has been incorporating data and algorithms for a long time, and which is always a canary in the coal mine for new technology."
-    publishedDateTime: 2023-08-09T07:15:00Z
-    webUrl: "https://hbr.org/2023/08/what-the-finance-industry-tells-us-about-the-future-of-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 54
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/08/Aug23_09_5277464.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Studio-Image.jpg?w=1200&strip=all"
         width: 1200
         height: 675
         isCached: true
-  - title: "Episode 8: Artificial intelligence and the future of warfighting"
-    excerpt: "The advent of ChatGPT and its successor, GPT-4, in recent months has brought artificial intelligence into everyday use. Far from being science fiction, AI is now a frontier for the U.S. military as it competes with China, Russia and other global adversaries."
-    publishedDateTime: 2023-08-08T10:33:00Z
-    webUrl: "https://www.stripes.com/multimedia/podcasts/military_matters/2023-08-08/paul-scharre-ai-military-china-10973585.html"
+  - title: "NVIDIA unveils new AI superchip and adds generative AI to Omniverse"
+    excerpt: "NVIDIA founder and CEO, Jensen Huang, announced an updated GH200 Grace Hopper Superchip, the NVIDIA AI Workbench, and an updated NVIDIA Omniverse with generative AI at a wide-ranging SIGGRAPH keynote."
+    publishedDateTime: 2023-08-09T14:04:00Z
+    webUrl: "https://www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show"
+    ampWebUrl: "https://www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show?hs_amp=true"
     type: article
     provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 37
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 54
+  - title: "Nvidia announces updated GH200 Grace Hopper GPU with HBM3e memory for generative AI workloads"
+    excerpt: "Nvidia has announced an updated version of its GH200 'superchip,' which will be the first GPU in the world to include HBM3e memory."
+    publishedDateTime: 2023-08-09T15:26:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-updated-gh200-grace-hopper-gpu-with-hbm3e-memory-for-generative-ai-workloads/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 43
     images:
-      - url: "https://www.stripes.com/incoming/jqp809-mil_ai_cover-edit.jpg/alternates/LANDSCAPE_480/MIL_AI_cover%20edit.jpg"
-        width: 480
-        height: 299
+      - url: "https://media.datacenterdynamics.com/media/images/GH200_HBM3e.2e16d0ba.fill-1200x630.png"
+        width: 1124
+        height: 592
         isCached: true
-  - title: "These Generative AI Startups Offer 4 Lessons For Leaders"
-    excerpt: "Here's how two generative AI startups perform on these four tests. Loora - a Tel Aviv-based Generative-AI powered English learning app - is clearly solving an important problem. A large rival taps a related market; its team has strong technical skills and a passion for the problem, and Loora is winning customers as it refines its product."
-    publishedDateTime: 2023-08-09T06:29:00Z
-    webUrl: "https://www.inc.com/peter-cohan/these-generative-ai-startups-offer-4-lessons-for-leaders.html"
+  - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
+    excerpt: "NVIDIA today announced NVIDIA OVX™ servers featuring the new NVIDIA® L40S GPU, a powerful, universal data center processor designed to accelerate the"
+    publishedDateTime: 2023-08-08T16:02:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635629/nvidia-global-data-center-system-manufacturers-to-supercharge-generative-ai-and-industrial-digital"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33635629"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635629"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1409790611_533074_ibbtwm.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Nvidia puts generative AI at the forefront with AI Workbench and Hugging Face partnership"
-    excerpt: "As part of the collaboration, Hugging Face will offer a brand-new service, called Training Cluster as a Service. It will simplify the creation and tailoring of new custom generative AI models for enterprise customers using its platform and Nvidia DGX Cloud for infrastructure with a single click."
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/08/nvidia-puts-generative-ai-forefront-ai-workbench-hugging-face-partnership/"
+  - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
+    excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
+    publishedDateTime: 2023-08-08T16:51:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861323.htm"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/NVIDIA-AI-Workbench-Image.jpg"
-        width: 1280
-        height: 680
-        isCached: true
-  - title: "Artificial Intelligence Can’t Predict the Future"
-    excerpt: "AI uses current data and history to make recommendations and can’t consider unexpected events, such as hurricanes, or changing realities, such as \"black swan\" events."
-    publishedDateTime: 2023-08-08T18:42:00Z
-    webUrl: "https://www.floridarealtors.org/news-media/news-articles/2023/08/artificial-intelligence-cant-predict-future"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
+    excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
+    publishedDateTime: 2023-08-08T18:44:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861323.htm"
     type: article
     provider:
-      name: FloridaRealtors.org
-      domain: floridarealtors.org
-    quality: 17
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
     excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
     publishedDateTime: 2023-08-08T17:19:00Z
@@ -250,6 +161,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 13
+  - title: "NVIDIA, Global Workstation Manufacturers to Launch Powerful Systems for Generative AI and LLM Development, Content Creation, Data Science"
+    excerpt: "The systems, including those from BOXX, Dell Technologies, HP and Lenovo, are based on NVIDIA RTX 6000 Ada Generation GPUs and incorporate NVIDIA AI Enterprise and NVIDIA Omniverse™ Enterprise software."
+    publishedDateTime: 2023-08-08T17:35:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861311.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Fo8QTlY9P/f4Z1wRfm2HAfOsCRQSiehkpMfkW+h79AXp8gl3PdqJrruk8ED/rX+W6wYiDYvQPZb1E6w+tAmTN+aF9S0+o50fHwV7X1ASyGdpUyPIIGVjHG8c5I3WNmPBoFkMyEjf+ST8Zpr3kxwMhOLkP3LhGH7QrqPYtYaMyTjMwGohLKpgHFb5O3NWv+v1+JqMtkpAMTUzf7dKmR8aylqjy3Xk6WoQpon6wEGkWfILwvTlRBMo+aifX3r20xYcVNdU++7DK8xVCCgRLD7jkWEXxAm0EzZB28kwvyb3ugVOuT8/xZQhrOCYrz/JecI3RQK9ouDY6+Utnm1YNmq8XUq8ly9ExaoCkQk2FCcSack=;aDy0EkJovcOmz2o+s9jLUg=="
 ---

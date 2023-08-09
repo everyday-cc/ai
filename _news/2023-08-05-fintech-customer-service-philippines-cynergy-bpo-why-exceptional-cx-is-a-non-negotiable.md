@@ -36,6 +36,15 @@ related:
       name: BusinessWorld
       domain: bworldonline.com
     quality: 3
+  - title: "Fintech BPO Philippines: Navigating digital revolution in financial landscape"
+    excerpt: "The rise of financial technology (fintech) has disrupted traditional financial sectors, propelling a shift towards digitization, convenience, and enhanced customer"
+    publishedDateTime: 2023-08-09T11:15:00Z
+    webUrl: "https://manilastandard.net/spotlight/314358733/fintech-bpo-philippines-navigating-digital-revolution-in-financial-landscape.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 1
 
 secured: "fdDb3Btrf3bnjptT/f11oe34Hk++2o5afiU4lHMZ0nmkM0tbXB7fxp26OmDXNwNq2/6eOHZDIAY0NeJj2NvMAyskizJ2eTomGGFM7WCrxyhSHgrjpLdxrhL842tsuL6ofdsyKHCHd323Xrhiwo1Do3nErAkT00knkGjXLqKiZA82zN83n5L59LLPJM2rQKgVLZ5D9xxFEIhzAexaMQfuRumHSVmJKPFu7efQTniTcknMpeIPY+iz3x/MO0FH0ZkS6/8mUoLx42DVRJjyGeGwJsGuZY/Z0kLeLj/1yZHVg4kc7GszjbPfqhLAFFayaX8+co4xPDFeMksRWi65gaUjRoTq54Ye6pNxY61mTSDlvRavYB2BK/xW++MTmR16zCFN9Ydpi6ZMNN9TZ0Ifro9ct+q9joyOGd6nJ8npLGbIfSvdmu3Zj+kVXePIt2Xh1czcHXkmv9ktOkQ6IxH5jJaEceZZjILF1tuvzrPnsWpFqa2pojdWRRx9NPSVpm0ygRRTXyGc8S732XijvsewB/kwWA==;3fGmtIZZa7JTptKpw6ZKIg=="
 ---

@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VAST Data Launches its Comprehensive, Robust Data Platform to Support AI and ML Workflows"
+    excerpt: "VAST Data, the data platform company for the AI era, is unveiling its data computing platform, engineered to underpin the burgeoning world of AI that rivals the capabilities of other existing data platforms."
+    publishedDateTime: 2023-08-09T15:49:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/VAST-Data-Launches-its-Comprehensive-Robust-Data-Platform-to-Support-AI-and-ML-Workflows-159991.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 47
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meta unveils AI audio and music generator"
     excerpt: "Meta’s AudioCraft is made up of three separate AI models: MusicGen, AudioGen and EnCodec. MusicGen exists for music generation and was trained with “Meta-owned” and specifically licensed music, while AudioGen specialises in audio generation and was trained on public sound effects."
     publishedDateTime: 2023-08-08T03:22:00Z

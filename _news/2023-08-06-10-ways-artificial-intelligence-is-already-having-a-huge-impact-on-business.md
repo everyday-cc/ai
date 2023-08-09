@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/10-ways-artificial-intelligence-is-already
 webUrl: "https://techbullion.com/10-ways-artificial-intelligence-is-already-having-a-huge-impact-on-business/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,44 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "How AI is helping airlines mitigate the climate impact of contrails"
+    excerpt: "We used AI to help airlines choose routes that are less likely to cause contrails, minimizing the environmental impact of flights."
+    publishedDateTime: 2023-08-08T19:00:00Z
+    webUrl: "https://blog.google/technology/ai/ai-airlines-contrails-climate-change/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 69
+  - title: "Understanding The Impact And Driving Factors Of Conversation AI"
+    excerpt: "The advent of conversation AI signifies a major leap in the evolution of data management and interaction. It democratizes data access and has the potential to optimize an array of processes across diverse sectors. It not only simplifies data analysis but also fosters a more engaged approach to data exploration."
+    publishedDateTime: 2023-08-07T13:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/understanding-the-impact-and-driving-factors-of-conversation-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "How Artificial Intelligence Is Helping Today’s Small Businesses"
+    excerpt: "More small businesses are using artificial intelligence effectively, especially as pertains to marketing functions."
+    publishedDateTime: 2023-08-09T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "The Impact of Artificial Intelligence on Software Development"
+    excerpt: "Jamie Boote warns developers, architects and QA testers to remain vigilant over the use of AI in software development"
+    publishedDateTime: 2023-08-08T11:59:00Z
+    webUrl: "https://www.infosecurity-magazine.com/opinions/ai-software-development/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "fMWEPVPCF1bvBkPwMLiAMn6JePG9WYLlZMUSkyWEHJGRxfY7jbZ1VfUhwQJc8bnGXbu7FHQxmCdNN8z3V8qa7ofH95iyDINRywD/FF4fVFQeFI213eOgPji6afUxbuAquIjZiMp35bsKPmzANuwAnb1ofkeP/VlbOn1MfTLipEqHQeRdjW2Pey9gUB9yUos8Ub2h1XdufvxKXLZcLnTc9NqG4ilakKSjhpf6CQyCjU8n1yDj9kjl5sdta7gEq8tVvHzXyHtnTyvsq9UVKSoJ60wYEOXO5+utM3v8b+y5goDIiGdrFTNL9F4l4dcS0fWAGS5NRDvVUzmD1hcChBW/QERTCuTuhi53TGXpGocR9ts=;p9Lmc4DgJZ1VQjBBITrIww=="
 ---

@@ -71,6 +71,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "The Future of Fintech in Latin America 2023"
+    excerpt: "Many companies, countries and regions have forged ahead in leveraging data, cloud, blockchain and AI. One such region is Latin America, where according to Statista, there are 2,300 registered fintech companies,"
+    publishedDateTime: 2023-08-09T14:00:00Z
+    webUrl: "https://www.finextra.com/researcharticle/285/the-future-of-fintech-in-latin-america-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fo-latamhomepage.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Strategic ingenuity: Insights on sustaining tech excellence and innovation in Fintech Sector"
     excerpt: "In the rapidly evolving landscape of fintech, achieving and sustaining technological excellence and innovation is paramount for companies to remain"
     publishedDateTime: 2023-08-09T09:30:00Z
@@ -80,6 +94,15 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 8
+  - title: "The Rise of Fintech Investment in India: Reshaping Financial Landscapes"
+    excerpt: "Reshaping Financial Landscapes - India has experienced a spectacular financial upheaval in recent years because of the fintech industry."
+    publishedDateTime: 2023-08-09T12:21:00Z
+    webUrl: "https://www.siliconindia.com/news/general/the-rise-of-fintech-investment-in-india-reshaping-financial-landscapes-nid-224650-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 4
 
 secured: "Uq4ScV5bmrkEIFHEkDO1H4T2B356+84f9MsQtnrSn3EpRH1Oyeut/FRj+6lut64oRZQ6aceXFDknLRznskrFdxWABhFvalRvpm2AYA+VHFnMDxPi80buzahTtFWFQxp3HZoSIv4/hGI6wrnF75pCBCSDfO7NqdD9pIQOjRG9vInZUQywZorfTknCmH1eNwqfo2eQFwKmQZ7HuwL1riym03I7vriUfCesyXRFADUPVN3KeGy1Uc0mxRInVDg5gMMIXy1M13yLJNdm+sq57pOdpgEzB8YO0UzPWh2u1rC4QhejAJnCHrQugbNJHGdlTqlA4aaoeTU3EGBQRSvtv2qXnDf8lOo/YTA+qIx1mYhX8qA=;UVo3ZE3qvribNvvuv2RMFQ=="
 ---

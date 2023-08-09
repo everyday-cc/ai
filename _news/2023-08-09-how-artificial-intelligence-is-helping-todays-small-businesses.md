@@ -2,15 +2,13 @@
 category: news
 title: "How Artificial Intelligence Is Helping Today’s Small Businesses"
 excerpt: "More small businesses are using artificial intelligence effectively, especially as pertains to marketing functions."
-publishedDateTime: 2023-08-08T21:34:00Z
-originalUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/"
-webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/"
-ampWebUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/amp/"
+publishedDateTime: 2023-08-09T13:00:00Z
+originalUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/"
+webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/"
 type: article
-quality: 87
-heat: 107
-published: true
+quality: 47
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -23,12 +21,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/64d2b06367b74f701ad9d11d/0x0.jpg?format=jpg&width=1200"
-    width: 1200
-    height: 800
-    isCached: true
-
 related:
   - title: "How AI is helping airlines mitigate the climate impact of contrails"
     excerpt: "We used AI to help airlines choose routes that are less likely to cause contrails, minimizing the environmental impact of flights."
@@ -39,21 +31,34 @@ related:
       name: Google
       domain: blog.google
     quality: 69
-  - title: "Small businesses use AI for efficiency; no impact on workforce employment rate yet"
-    excerpt: "Local small businesses are actually using AI to be more efficient, and local officials say there haven’t been any noticeable changes because of the program yet."
-    publishedDateTime: 2023-08-08T23:37:00Z
-    webUrl: "https://www.ksat.com/news/local/2023/08/08/small-businesses-use-ai-for-efficiency-no-impact-on-workforce-employment-rate-yet/"
+  - title: "Understanding The Impact And Driving Factors Of Conversation AI"
+    excerpt: "The advent of conversation AI signifies a major leap in the evolution of data management and interaction. It democratizes data access and has the potential to optimize an array of processes across diverse sectors. It not only simplifies data analysis but also fosters a more engaged approach to data exploration."
+    publishedDateTime: 2023-08-07T13:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/understanding-the-impact-and-driving-factors-of-conversation-ai/"
     type: article
     provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 33
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/08-08-2023/t_97844676eae5409ba54ff734efd02908_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "10 Ways Artificial Intelligence is Already Having a Huge Impact on Business"
+    excerpt: "The realm of Artificial Intelligence (AI) is effecting a paradigm shift across multiple business sectors since OpenAI released its Large Language Model (or LLM) to the world. A close examination reveals the multifaceted manner in which AI is refashioning business in many areas."
+    publishedDateTime: 2023-08-06T12:32:00Z
+    webUrl: "https://techbullion.com/10-ways-artificial-intelligence-is-already-having-a-huge-impact-on-business/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 17
+  - title: "The Impact of Artificial Intelligence on Software Development"
+    excerpt: "Jamie Boote warns developers, architects and QA testers to remain vigilant over the use of AI in software development"
+    publishedDateTime: 2023-08-08T11:59:00Z
+    webUrl: "https://www.infosecurity-magazine.com/opinions/ai-software-development/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
-secured: "DGsXoi91Rav3p0+eLa6h7jYrs5V6AHe+jnXFh3hieZWc4u+yyQ0KmD0A30HvJ/JAPjF8C9xxyzsi0E6Sj+ZHvvDpzEWHedhN1QXfZYiKYtuUU7n2xuAWNrdCwQ19s+HdTQRvGI9rQelx/MqSiGpiOrJ4JXCt94xNyHb6w6WTdia77LF1cslgKtOAcu7NKiXnxA4bcjtbInx2T8LynsTQuo7DXYpYzNjbHBGxMJYuIQzJiN+r1dGKIUYIfQpYtGwEaMHeZU3tOvB/wXNTiIYAILLnsI+yZRmySEwh5jQYDZSDvA4YOmuuyFV/h4lKAcRhfg4DBm3GznZZwyxzjjjEXfohMkbMOAjDFAcmiLOgpM9wd26P/5XUY2o5PfdThdMSRQogNZoxFvOqy1BmLfA0E2ioX0bfooUi1ytBXuS0Zj9ZwOeqNYiqd790JXbSIM7m1oSd73/ShTC4MdTX7X1fQjJtx6Vu35U1N0KwIgu6rZgxA57V+H9u9EBR1t+tHe+ohB+J32UwLG/k9Bc02YwS/g==;ePMO6aEcG1aBD+a6E/f/Ug=="
+secured: "RKrkQ6S3UjFWgjTFga6nb77avypFNQeMVLK6RCkTGeLO6DqhHSp2p77qDv0BvBOXW3LDYlA/wMOUOm6UNy7o1CpM7WDKMVnWj0mQwl30X1aGSmWBOL0tjZJUOW5FyEBEeHJenDWFkTlHBIpXMEXWuxVQ3UU+5FsVKeVC90TXzjXI8lRnA9Q7EVTfWjTRRoxQaYViMEl5dd8doEeCmZcNm9Gq7tvkwKb4nKpyPCYQCwTgSbwoI2Opp68qdmlvvDcLPcAn38cckS0G3aITnso0JNPT98h2SRbVUJ1laYpC+kRLwA79nUJ9kGx80csQT/O1BWQ0wqNY+PIEpgPmYYWfACRNlzAXZh3+r6tWAmM/JkwBvRXRgcJPuTN6iJVn9XEfivYHZwLWPQBpwMXqPdL3uZVltE1X92FzDB+ojMu2FcicLUxqQbORsEZFVOJaki29dPjdkgkYhn1sXSHMDQ6L1yOzbiV2Xk3zWbdcgVNnLfURJfWF1aIQgShO3AY7qxyNCsLepmAHeRzyEOznf2rrSA==;PVcod1jYHlAJaJcrVfyyvg=="
 ---
 

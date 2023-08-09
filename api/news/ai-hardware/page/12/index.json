@@ -2,6 +2,59 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-05-09-ai-wrote-95-percent-of-this-murder-mystery.md",
+      "title": "AI Wrote 95 Percent of This Murder Mystery",
+      "excerpt": "Stephen Marche composed 'Death of an Author' using three AI tools, under the shared pen name Aidan Marchine. Here’s a look at the result.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/",
+      "originalUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6459890a40f1b0ff5784445b/master/pass/Death-of-An-Author-AI-Culture-1337018866.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/death-of-an-author-ai-book-excerpt/amp",
+      "publishedDateTime": "2023-05-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-edge-ai-chips-market-witness-the-massive-growth-of-the-market-to-2029-nvidia-intel-xilinx-samsung-electronics.md",
       "title": "Edge AI Chips Market Witness the massive growth of the market to 2029 |Nvidia, Intel, Xilinx, Samsung Electronics",
       "excerpt": "Nvidia, Intel, Xilinx, Samsung Electronics, Micron Technology, Qualcomm Technologies, IBM, Google, Microsoft, Apple, Huawei  The region-wise coverage of the market is mentioned in the report, mainly focusing on the regions: North America (the USA,",
@@ -1374,49 +1427,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-navy-dod-supercomputing-resource-center-adds-nautilus-penguin-hpc-system.md",
-      "title": "Navy DoD Supercomputing Resource Center Adds ‘Nautilus’ Penguin HPC System",
-      "excerpt": "The Nautilus HPC system configuration includes 1,352 compute nodes with up to 128 AMD EPYC Milan compute cores per node, 256 GB of memory per node, 16 NVIDIA A40 visualization nodes, 32 NVIDIA A100 Quad GPU AI/ML nodes, 26 petabytes of DDN storage ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2023/04/navy-dod-supercomputing-resource-center-adds-nautilus-penguin-hpc-system/",
-      "originalUrl": "https://insidehpc.com/2023/04/navy-dod-supercomputing-resource-center-adds-nautilus-penguin-hpc-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2022/04/Cover-Image-The-consequences-of-congestion.jpg",
-          "width": 810,
-          "height": 1048,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

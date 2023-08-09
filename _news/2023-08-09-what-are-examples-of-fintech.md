@@ -109,6 +109,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "The Rise, And Rise, Of Fintech Fraud."
+    excerpt: "The Rise, And Rise, Of Fintech Fraud. Legal News and Analysis - Asia Pacific, China, Hong Kong, India, Singapore, United Kingdom - Cybersecurity, Telecommunications, Media & Technology -"
+    publishedDateTime: 2023-08-09T14:04:00Z
+    webUrl: "https://conventuslaw.com/report/the-rise-and-rise-of-fintech-fraud/"
+    type: article
+    provider:
+      name: Conventus Law
+      domain: conventuslaw.com
+    quality: 24
+    images:
+      - url: "https://conventuslaw.com/wp-content/uploads/2022/03/Untitled-design-36.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Hong Kong tech firm, ASL, accelerates growth in fintech arena with Finastra"
     excerpt: "HONG KONG, Aug. 8, 2023 /PRNewswire/ -- Automated Systems Holdings Limited (ASL) (771.HK), a leading global IT solutions and services provider, has strategically partnered with Finastra, a global provider of financial software applications and marketplaces, to bolster its industry-specific DevSecOps business and strengthen its fintech trajectory."
     publishedDateTime: 2023-08-08T05:04:00Z

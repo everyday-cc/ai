@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Opinion: Higher Education Entering Year 2 of Generative AI"
-    excerpt: "After a somewhat chaotic year in which professors grew suspicious of their students' writing and navigated new territory largely without clear guidance, colleges and universities still face inevitable change."
-    publishedDateTime: 2023-08-08T20:32:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/opinion-higher-education-entering-year-2-of-generative-ai"
-    ampWebUrl: "https://www.govtech.com/education/higher-ed/opinion-higher-education-entering-year-2-of-generative-ai?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/opinion-higher-education-entering-year-2-of-generative-ai?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 76
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/50e74b7/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F41%2F5a00b53049eebb276280f1f7f796%2Fgenerative-ai.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Disney AI task force aims to cut costs, enhance experiences across the company"
     excerpt: "The Walt Disney Company has formed a task force to investigate the potential applications of AI throughout its various business units, reports Reuters, including cutting costs and enhancing customer experiences. This comes despite ongoing Hollywood writers' and actors' strikes that have put some AI technologies in the crosshairs."
     publishedDateTime: 2023-08-08T18:50:00Z

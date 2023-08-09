@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenation.com/article/world/when-ai-and-robotics-combine
 cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "VAST Data Launches its Comprehensive, Robust Data Platform to Support AI and ML Workflows"
+    excerpt: "VAST Data, the data platform company for the AI era, is unveiling its data computing platform, engineered to underpin the burgeoning world of AI that rivals the capabilities of other existing data platforms."
+    publishedDateTime: 2023-08-09T15:49:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/VAST-Data-Launches-its-Comprehensive-Robust-Data-Platform-to-Support-AI-and-ML-Workflows-159991.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 47
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meta unveils AI audio and music generator"
     excerpt: "Meta’s AudioCraft is made up of three separate AI models: MusicGen, AudioGen and EnCodec. MusicGen exists for music generation and was trained with “Meta-owned” and specifically licensed music, while AudioGen specialises in audio generation and was trained on public sound effects."
     publishedDateTime: 2023-08-08T03:22:00Z
@@ -95,6 +109,6 @@ related:
       domain: bizjournals.com
     quality: 39
 
-secured: "RnZZS6VqLyJ/X5QA6W8StR13Tc9kjDUP7qLLqLNnCoE8usQexO6t0O3wkJW6Y90qVhwSM9j9S/PXV0jjp8blB1ZFs3XRKcTxa6DAH0c6mmzjKpqs4gumBPZWVkm67hJCFOHJHa9ABFaI0tn57jclE0WXd3V1zscBGUICi3c9PPyMMmiDmVrDJB+HnPO+nrbnUKtr7+0v9KCfHqjYR6LsgUTtT/M7GNNAd1CNB93tpv+5k4uLSMu+B5JLievf/xalUMl8YYK3rRzZitfP0SYfxhMzFffFY5KX+k38VlaPSMQ3b05LkJOUTYQ6TQnslYdSqSYJHTlklbfU7PTiotwSKnzOlww6sMO1yuzVi0wqXrQ=;XKifs0u9vPp19ZEKb+c/2w=="
+secured: "vU9ksipXV5+GIegG3Vgdjv2U66ikSR5Un4biMg9KeIPCzMBq/CXJL2nHb91V30jWyWszZWrTOnltvLWcKpECrtMn6dumyNxftcMFGEmv0SRdhfsVo0aSoD191Dra4bMw6WbJW4dFSzNfrN5SKcCvWIiPw+tI48/P2sou98MvgpAwQMERDp8IEN4mIXv86bqj9GsXit9iZ7cL2A2g51lPuJ77eoKgC00hxoHCECzIaI4MyaaulrOVNHrNzZ1o1/YsR0J1cFUHECjwbBklHhB+uDwbUS0fOzkuaRPEjL6LS90v1qIgG0swdxQq7bYpCqK4xEzCDzQBAieIX/YJIkJMGdX6RQvsdaFk2kK/ROUALxHN4sk9GgymQEAeC7ehwH3MqAdiPFGjww8G6/+jFEQMdrdd47OylulTvhQi0CYSle+BGphYWDr8d9CV0P7UzBVmKZPXz6KIW6KYn9KVDzQsPALMXK5Iqj4UHj/nupNjAb5t+u5z5daOcp5DUAJ94WPaMYbPMaGRnSU7Ql/u9mJiZQ==;GS14v/40Y3PRsxMq/5l5zg=="
 ---
 

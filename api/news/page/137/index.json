@@ -2,6 +2,835 @@
   "page": 137,
   "value": [
     {
+      "path": "_news/2023-05-11-uk-to-roll-out-first-driverless-bus-service.md",
+      "title": "UK To Roll Out First Driverless Bus Service",
+      "excerpt": "The control system includes an artificial intelligence engine that receives ... \"It's good,\" he said. A driverless bus tested in South Korea's capital, Seoul, last year as part of an experiment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/uk-to-roll-out-first-driverless-bus-service-736a4108",
+      "originalUrl": "https://www.barrons.com/news/uk-to-roll-out-first-driverless-bus-service-736a4108",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP1044130901645509886074281704499681019817---1.jpg",
+          "width": 768,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/uk-to-roll-out-first-driverless-bus-service-736a4108",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/uk-to-roll-out-first-driverless-bus-service-736a4108",
+      "publishedDateTime": "2023-05-11T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-artificial-intelligence-ai-chip-market-research-analysis-2023-2030.md",
+      "title": "Artificial Intelligence (AI) Chip Market Research Analysis, 2023-2030",
+      "excerpt": "Chip market growth in 2023-2029 with TOPMajor Players? Major Players Covered in this Report: The global Artificial Intelligence (AI) Chip Market USD Million in 2022, with a change of Percent between 2022 and 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-research-analysis-2023-2030-2023-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 399,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-spotify-has-an-ai-music-problembut-bots-love-it.md",
+      "title": "Spotify Has an AI Music Problem—but Bots Love It",
+      "excerpt": "Fake listeners are flocking to AI-made songs on streaming platforms, taking much needed money away from human artists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/spotify-ai-music-robot-listeners/",
+      "originalUrl": "https://www.wired.com/story/spotify-ai-music-robot-listeners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/645c19f20cbc15924e602a5c/master/pass/AI-Bot-Spotify-Listeners-Culture-1324648625.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/spotify-ai-music-robot-listeners/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/spotify-ai-music-robot-listeners/amp",
+      "publishedDateTime": "2023-05-11T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws.md",
+      "title": "Informatica Announces Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS",
+      "excerpt": "Informatica, an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/",
+      "originalUrl": "https://www.datanami.com/this-just-in/informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-google-announces-palm-2-ai-language-model-already-powering-25-google-services.md",
+      "title": "Google announces PaLM 2 AI language model, already powering 25 Google services",
+      "excerpt": "Google has announced PaLM 2: its latest AI language model and competitor to ... including reasoning, coding, and translation. “It is significantly improved compared to PaLM 1 [which was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/5/10/23718046/google-ai-palm-2-language-model-bard-io",
+      "originalUrl": "https://www.theverge.com/2023/5/10/23718046/google-ai-palm-2-language-model-bard-io",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/AMZnDyr6At404trJe9yA9alOWIo=/0x0:1858x1038/1200x628/filters:focal(929x519:930x520)/cdn.vox-cdn.com/uploads/chorus_asset/file/24646788/Screenshot_2023_05_10_at_10.01.08.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-microsoft-is-the-stock-to-buy-as-it-leads-the-ai-arms-race-while-alphabet-continues-to-play-catchup-with-bard-according-to-wedbush.md",
+      "title": "Microsoft is the stock to buy as it leads the AI arms race while Alphabet continues to play catchup with Bard, according to Wedbush",
+      "excerpt": "\"We continue to strongly believe that Microsoft's game changing early investment in ChatGPT got the key head start on the AI front,\" Wedbush said.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/645cf5bf65275b0018b7fce3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5?amp",
+      "publishedDateTime": "2023-05-11T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways.md",
+      "title": "Revolve And Maison Meta Bring AI Fashion Week To Physical Runways",
+      "excerpt": "AI Fashion Week by Maison Meta and Revolve hopes to bridge the gap between AI-generated designs and IRL fashion, and launch the careers of new designers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/",
+      "originalUrl": "https://www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645cf94b82db4d2d30cb5cb8/0x0.jpg?format=jpg&crop=1586,891,x0,y18,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/amp/",
+      "publishedDateTime": "2023-05-11T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-machine-learning-security-principles-ebook-worth-3799-free-download.md",
+      "title": "Machine Learning Security Principles eBook (worth $37.99) - free download",
+      "excerpt": "The first part of this book will explore these processes in more depth, which will help you in understanding the role security plays in machine learning. As you progress to the second part, you’ll learn more about the environments where ML is commonly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/sponsored/machine-learning-security-principles-ebook-worth-3799---free-download/",
+      "originalUrl": "https://www.neowin.net/sponsored/machine-learning-security-principles-ebook-worth-3799---free-download/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2019/11/1574762211_1481879523_efa151423bca1f29bdb0870f620e57a112ee9c7b_main_hero_image_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/machine-learning-security-principles-ebook-worth-3799---free-download/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/machine-learning-security-principles-ebook-worth-3799---free-download/",
+      "publishedDateTime": "2023-05-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-nextira-selected-by-ansys-technology-partner-program-to-support-customers-implementing-ansys-gateway-powered-by-aws.md",
+      "title": "Nextira Selected by Ansys Technology Partner Program to Support Customers Implementing Ansys Gateway Powered by AWS",
+      "excerpt": "seamless transition to Ansys Gateway powered by AWS.” Nextira’s core services include Predictive Enterprise, focused on integrating artificial intelligence (AI), machine learning (ML) and data analytics to design, build, launch and optimize HPC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/nextira-selected-by-ansys-technology-partner-program-to-support-customers-implementing-ansys-gateway-powered-by/article_afe43156-20ec-5e56-8fe4-069dd906a21e.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/nextira-selected-by-ansys-technology-partner-program-to-support-customers-implementing-ansys-gateway-powered-by/article_afe43156-20ec-5e56-8fe4-069dd906a21e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-mass-event-will-let-hackers-test-limits-of-ai-technology.md",
+      "title": "Mass Event Will Let Hackers Test Limits of AI Technology",
+      "excerpt": "Major AI providers such as OpenAI, Google, and Microsoft, are allowing hackers take a shot at testing the limits of their technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/",
+      "originalUrl": "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securityweek.com/wp-content/uploads/2023/04/ChatGPT_Security-Ethics-AI.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/",
+      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/",
+      "publishedDateTime": "2023-05-11T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecurityWeek",
+        "domain": "securityweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-ibm-it-automation-reflections-from-ibm-think.md",
+      "title": "IBM IT Automation: Reflections from IBM Think",
+      "excerpt": "Recapping a few of the exciting new capabilities we are launching in our IT Automation portfolio.\nThe post IBM IT Automation: Reflections from IBM Think appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-it-automation-reflections-from-ibm-think/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-it-automation-reflections-from-ibm-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/istock_cs1_20210815_144154050.lr_-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory.md",
+      "title": "A Season Of Recognition: The Oklahoma City Thunder’s Individual Honors And A Promising Trajectory",
+      "excerpt": "Following an extremely successful 40-win season for the Oklahoma City Thunder, several individuals earned praise with the various awards and teams that are voted upon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/",
+      "originalUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645c6fe7bc41d9b5e65a4511/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/",
+      "publishedDateTime": "2023-05-11T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-rise-of-the-ai-whisperers.md",
+      "title": "Rise Of The AI Whisperers",
+      "excerpt": "I see the emerging profession of AI whisperer as holding the key to unlocking the full potential of AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645ba88738407b978d2796dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/",
+      "publishedDateTime": "2023-05-11T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-self-driving-cars-are-being-put-on-a-data-diet.md",
+      "title": "Self-Driving Cars Are Being Put on a Data Diet",
+      "excerpt": "Growing fleets, fancier sensors, and tighter budgets are forcing autonomous vehicle developers to get pickier about what stays on their servers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/self-driving-cars-are-being-put-on-a-data-diet/",
+      "originalUrl": "https://www.wired.com/story/self-driving-cars-are-being-put-on-a-data-diet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/645c372a88479249e0cc28b6/191:100/w_1280,c_limit/Driverless-Cars-Data-Diet-Business-1247366812.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-the-surprising-synergy-between-acupuncture-and-ai.md",
+      "title": "The Surprising Synergy Between Acupuncture and AI",
+      "excerpt": "Now that I work in machine learning, I’m often struck by the parallels between this cutting-edge technology and traditional Chinese medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/machine-learning-chinese-medicine-acupuncture-study-design/",
+      "originalUrl": "https://www.wired.com/story/machine-learning-chinese-medicine-acupuncture-study-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/645c1ec952bb92d7ad7c3041/191:100/w_1280,c_limit/ideas_acupuncture_medicine_ai_machine.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup.md",
+      "title": "Mayo Clinic invests in NC artificial intelligence healthcare startup",
+      "excerpt": "Lucem Health, a startup that says it is utilizing artificial intelligence to deliver solutions for physicians and healthcare providers, has a big believer: Mayo Clinic. It's now an investor.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/",
+      "originalUrl": "https://wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2023/05/AI-51123-e1683802381829.jpg",
+          "width": 912,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/?amp=1",
+      "publishedDateTime": "2023-05-11T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-10-things-in-tech-tesla-teases-a-new-cybertruck-meta-eyes-hyper-targeted-ads-and-google-brings-ai-to-search.md",
+      "title": "10 Things in Tech: Tesla teases a new cybertruck, Meta eyes hyper-targeted ads, and Google brings AI to search",
+      "excerpt": "Etsy launches a wedding registry, DoorDashers demand more tip, and more headlines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-amazon-facebook-microsoft-tesla-san-francisco-etsy-ai-2023-5",
+      "originalUrl": "https://www.businessinsider.com/google-amazon-facebook-microsoft-tesla-san-francisco-etsy-ai-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63c8ac85eee94d001a78e2e2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-amazon-facebook-microsoft-tesla-san-francisco-etsy-ai-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-amazon-facebook-microsoft-tesla-san-francisco-etsy-ai-2023-5?amp",
+      "publishedDateTime": "2023-05-11T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-face-recognition-systems-market-worldwide-industry-trends-2023-2030.md",
       "title": "Face Recognition Systems Market | Worldwide Industry Trends 2023-2030",
       "excerpt": "The report offers essential statistical information on the market status of Face Recognition Systems players, making it",
@@ -376,843 +1205,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-big-data-machine-learning-in-telecom-market-report-forecast-2023-2031.md",
-      "title": "Big Data & Machine Learning in Telecom Market Report (Forecast 2023-2031)",
-      "excerpt": "As per the \"Big Data and Machine Learning in Telecom Market\" report, the technology sector is evolving, and companies",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-report-forecast-2023-2031-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-report-forecast-2023-2031-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T19:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-googles-bard-ai-is-now-available-without-a-waitlist-in-180-countries.md",
-      "title": "Google's Bard AI is now available without a waitlist in 180 countries",
-      "excerpt": "For the past two months, anybody wanting to try out Google's new chatbot AI, Bard, had to first register their interest and join a waitlist before being granted access. On Wednesday, the company announced that those days are over.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-bard-transitions-to-palm-2-and-expands-to-180-countries-172908926.html",
-      "originalUrl": "https://www.engadget.com/google-bard-transitions-to-palm-2-and-expands-to-180-countries-172908926.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/QgGeMi5XRFg81OgsGkChCg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/c1297630-eeb3-11ed-beee-4b6903d78cd9.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-bard-transitions-to-palm-2-and-expands-to-180-countries-172908926.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-bard-transitions-to-palm-2-and-expands-to-180-countries-172908926.html",
-      "publishedDateTime": "2023-05-10T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-io-2023-live-updates-pixel-fold-bard-ai-android-14-and-more.md",
-      "title": "Google I/O 2023 live updates: Pixel Fold, Bard AI, Android 14 and more",
-      "excerpt": "Google is hosting its first full-on in-person I/O developer conference since the pandemic and we expect the company to announce a biblical amount of news at breakneck pace. Engadget is here at the show and will bring you a liveblog of what's happening at the keynote as it happens.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/live-updates-from-google-io-2023-163201853.html",
-      "originalUrl": "https://www.engadget.com/live-updates-from-google-io-2023-163201853.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/DGmBpGBQv1Rkn6SzZ_xBcQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/f07f40c0-ef5a-11ed-bfed-eaa440d7eecb.cf.jpg",
-          "width": 985,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T19:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-how-gmail-plans-to-use-ai-to-write-your-emails-for-you.md",
-      "title": "How Gmail Plans to Use AI to Write Your Emails For You",
-      "excerpt": "At its I/O event, Google showed off new AI features called Help Me Write that promise to automate your emails and messages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/how-gmail-plans-to-use-ai-to-write-your-emails-for-you/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/how-gmail-plans-to-use-ai-to-write-your-emails-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/8a26daad55df302a2217acdc25f6f0b12005ee2d/hub/2023/05/10/a8b74029-bbff-457e-a48e-7344fd0569c6/help-me-write.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/how-gmail-plans-to-use-ai-to-write-your-emails-for-you/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-gmail-plans-to-use-ai-to-write-your-emails-for-you/",
-      "publishedDateTime": "2023-05-10T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-ibm-watson-is-getting-an-ai-makeover-and-thats-bad-news-for-workers-everywhere.md",
-      "title": "IBM Watson is getting an AI makeover, and that's bad news for workers everywhere",
-      "excerpt": "It is also hoped that the Watson Code Assistant will be rolled ... with as many as 7,800 jobs at risk. IBM watsonx.ai and watsonx.data are expected to be generally available by July 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/ibm-watson-is-getting-an-ai-makeover-and-thats-bad-news-for-workers-everywhere",
-      "originalUrl": "https://www.techradar.com/news/ibm-watson-is-getting-an-ai-makeover-and-thats-bad-news-for-workers-everywhere",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-machine-learning-big-data-analytics-education-market.md",
-      "title": "Machine Learning & Big Data Analytics Education Market",
-      "excerpt": "Research Reports has published a new report titled as \"Machine Learning and Big Data Analytics Education Market\" by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-artificial-intelligence-consulting-service-market.md",
-      "title": "Artificial Intelligence Consulting Service Market",
-      "excerpt": "Research Reports has published a new report titled as \"Artificial Intelligence Consulting Service Market\" by End",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-consulting-service-market-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-consulting-service-market-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-aws-announces-amazon-aurora-io-optimized.md",
-      "title": "AWS Announces Amazon Aurora I/O-Optimized",
-      "excerpt": "Amazon Aurora gives customers the right tool for the job, so that they can optimize for performance, scale, and costs when designing applications. Aurora provides simple, pay-per-request pricing based on I/O usage,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/05/11/9813118.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/05/11/9813118.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-ethics-of-artificial-intelligence-ai-in-brazil.md",
-      "title": "Ethics of Artificial Intelligence (AI) in Brazil",
-      "excerpt": "Artificial intelligence (AI) has enormous potential for benefiting humanity and promoting sustainable development, but only if it develops in a way that benefits humanity, respects global norms and standards, and is anchored in peace and sustainable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.unesco.org/en/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
-      "originalUrl": "https://www.unesco.org/en/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unesco.org/sites/default/files/styles/banner_mobile/public/2022-11/brz_brasilia_Itamarati_palace_UNESCO-EdsonFogaca.jpg?h=3d3477a3&itok=vyJlWReC",
-          "width": 400,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UNESCO",
-        "domain": "unesco.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-the-evolution-of-robotic-technology-from-robotic-assistance-to-augmented-intelligence-to-elevate-all-surgery.md",
-      "title": "The Evolution of Robotic Technology: From Robotic Assistance to Augmented Intelligence to Elevate All Surgery",
-      "excerpt": "Unlike artificial intelligence, augmented intelligence serves as a “navigation ... Surgeons are seeing these enhancements first-hand, from a more economical way to use robotics in more surgeries to improved ergonomics and reduced cognitive toll.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/robotics/evolution-robotic-technology-robotic-assistance-augmented-intelligence-elevate-all-surgery",
-      "originalUrl": "https://www.mddionline.com/robotics/evolution-robotic-technology-robotic-assistance-augmented-intelligence-elevate-all-surgery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/MDDI%20graphic2%20web.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-launches-new-ai-tools.md",
-      "title": "Google launches new AI tools",
-      "excerpt": "As the race to dominate artificial intelligence escalates between tech giants, Google unveiled new AI software to build presentations, analyze and enter data, and write content. NBC News’ Jacob Ward has more details on growing concerns over the future of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/google-launches-new-ai-tools-173891653794",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/google-launches-new-ai-tools-173891653794",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683761014453_nn_jwa_googles_ai_launch_230510_1920x1080-r8qeop.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo173891653794",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo173891653794",
-      "publishedDateTime": "2023-05-10T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users.md",
-      "title": "Google is transforming the cloud with AI — for both developers and regular users",
-      "excerpt": "Google is integrating generative AI into its cloud via a new interface, Duet AI, that helps make cloud developers and users more productive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/",
-      "originalUrl": "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Duet1-e1683757951578.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 905,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-is-transforming-the-cloud-with-ai-for-both-developers-and-regular-users/amp/",
-      "publishedDateTime": "2023-05-10T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-unveils-advanced-ai-model-to-beef-up-bard-search-maps-and-more.md",
-      "title": "Google unveils advanced AI model to beef up Bard, Search, Maps and more",
-      "excerpt": "With its new PaLM 2 large language model, Google said its key products and services will be simpler and smarter thanks to a huge dose of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
-      "originalUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/tr51023-Figure-Top-Google-unveils-advanced-AI-model-to-beef-up-Bard-Search-Maps-and-more.jpg",
-          "width": 1080,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/",
-      "publishedDateTime": "2023-05-10T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-meet-the-new-google-search-ai-generated-results-get-top-billing.md",
-      "title": "Meet the New Google Search: AI-Generated Results Get Top Billing",
-      "excerpt": "At I/O, Google previews the new 'Search Generative Experience,' which places AI-powered results atop traditional search results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/meet-the-new-google-search-ai-generated-results-get-top-billing",
-      "originalUrl": "https://www.pcmag.com/news/meet-the-new-google-search-ai-generated-results-get-top-billing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02wpEEUQXRc8sreSn73b1Q1-1.fit_lim.size_1200x630.v1683749201.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-microsoft-ceo-satya-nadella-on-ai.md",
-      "title": "Microsoft CEO Satya Nadella on AI",
-      "excerpt": "TIME talks with Microsoft CEO Satya Nadella about Copilot and company's use of AI Write to Andrew D. Johnson at andrew.johnson@time.com.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/",
-      "originalUrl": "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.jwplayer.com/v2/media/N9qPsYLv/poster.jpg?width&#x3D;720",
-          "width": 720,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-introducing-project-gameface-a-hands-free-ai-powered-gaming-mouse.md",
-      "title": "Introducing Project Gameface: A hands-free, AI-powered gaming mouse",
-      "excerpt": "Project Gameface, a new open-source hands-free gaming mouse has the potential to make gaming more accessible.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-project-gameface/",
-      "originalUrl": "https://blog.google/technology/ai/google-project-gameface/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gameface_hero_1_1.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-project-gameface/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-project-gameface/amp/",
-      "publishedDateTime": "2023-05-10T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-deepmind-cofounder-warns-governments-seriously-need-to-find-solutions-for-people-who-lose-their-jobs-to-ai.md",
-      "title": "DeepMind cofounder warns governments seriously need to find solutions for people who lose their jobs to A.I.",
-      "excerpt": "Mustafa Suleyman, who cofounded the London-based lab DeepMind, later sold to Google in 2014, told the GIC Bridge Forum event in San Francisco on Tuesday that policymakers needed to step up and provide some form of aid such as universal basic income (UBI).",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/",
-      "originalUrl": "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-961707246-e1683733321936.jpg?w=840",
-          "width": 840,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/",
-      "publishedDateTime": "2023-05-10T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

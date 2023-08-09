@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-01-aws-picks-biotech-startup-for-ai-accelerator-program.md",
+      "title": "AWS picks biotech startup for AI accelerator program",
+      "excerpt": "Ordaos, a drug design company, was selected for the AWS Generative AI Accelerator, a mentorship program for companies working with generative artificial intelli",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html",
+      "originalUrl": "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-translate-documents-in-real-time-with-amazon-translate.md",
       "title": "Translate documents in real time with Amazon Translate",
       "excerpt": "A critical component of business success is the ability to connect with customers. Businesses today want to connect with their customers by offering their content across multiple languages in real time. For most customers, the content creation process is disconnected from the localization effort of translating",
@@ -1277,40 +1320,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-5000-deep-sea-animals-new-to-science-turned-up-in-ocean-records.md",
-      "title": "5,000 deep-sea animals new to science turned up in ocean records",
-      "excerpt": "More than 5,000 animal species previously unknown to science live in a pristine part of the deep sea. Their home — called the Clarion-Clipperton Zone — sits in the central and eastern Pacific ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencenews.org/article/5000-deep-sea-animals-new-ocean",
-      "originalUrl": "https://www.sciencenews.org/article/5000-deep-sea-animals-new-ocean",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science News",
-        "domain": "sciencenews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

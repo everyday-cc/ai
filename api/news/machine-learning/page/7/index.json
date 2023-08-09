@@ -2,6 +2,136 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-01-wall-street-breakfast-deep-learning.md",
+      "title": "Wall Street Breakfast: Deep Learning",
+      "excerpt": "Investors will have some deep learning to do after being consumed by everything AI this year, especially as they sort through the growing list of companies talking up how they've been AI plays all ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4608736-wall-street-breakfast-deep-learning",
+      "originalUrl": "https://seekingalpha.com/article/4608736-wall-street-breakfast-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1452604857/image_1452604857.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-resonate-offers-ai-neural-network-for-predictive-modeling.md",
+      "title": "Resonate Offers AI Neural Network For Predictive Modeling",
+      "excerpt": "Resonate has introduced an AI neural network designed to help brands transform data into updated consumer attributes. The new network, rAI, fuels predictive models designed to dynamically generate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/385896/resonate-offers-ai-neural-network-for-predictive-m.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/385896/resonate-offers-ai-neural-network-for-predictive-m.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/05/31/screen-shot-2023-05-31-at-60414-pm_SW6XGsa.png",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances.md",
+      "title": "Scale your machine learning workloads on Amazon ECS powered by AWS Trainium instances",
+      "excerpt": "Running machine learning (ML) workloads with containers is becoming a common practice. Containers can fully encapsulate not just your training code, but the entire dependency stack down to the hardware libraries and drivers. What you get is an ML development environment that is consistent and portable.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T12:49:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-host-ml-models-on-amazon-sagemaker-using-triton-cv-model-with-pytorch-backend.md",
       "title": "Host ML models on Amazon SageMaker using Triton: CV model with PyTorch backend",
       "excerpt": "PyTorch is a machine learning (ML) framework based on the Torch library, used for applications such as computer vision and natural language processing. One of the primary reasons that customers are choosing a PyTorch framework is its simplicity and the fact that it’s designed and assembled to work with",
@@ -1121,145 +1251,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-terminology-101-automl-the-game-changer-in-machine-learning.md",
-      "title": "AI Terminology 101: AutoML - The Game Changer in Machine Learning",
-      "excerpt": "This complex yet intriguing area has a lot to offer, and one of its increasingly popular innovations is AutoML, or Automated Machine Learning. AutoML refers to the automated process of end-to-end ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/preview/2023/05/ai-terminology-101-automl-demystified",
-      "originalUrl": "https://yourstory.com/preview/2023/05/ai-terminology-101-automl-demystified",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/images/undefined/nucleus-1677242056743.png",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-machine-learning-has-potential-to-transform-oil-and-gas-industry-says-globaldata.md",
-      "title": "Machine Learning Has Potential to Transform Oil and Gas Industry, Says GlobalData",
-      "excerpt": "Machine learning has the potential to improve efficiency, increase production and reduce costs in the oil and gas industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry",
-      "originalUrl": "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/8033f7c8-5c9d-481c-bc16-e71d0aa4ef8f/Machine-learning-news-May-23-2023-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-the-need-for-an-artificial-sensory-nervous-system-for-generative-ai.md",
-      "title": "The Need For An Artificial Sensory Nervous System For Generative AI",
-      "excerpt": "Demand for neural networks and LLMs will snowball in the coming years, and supply will develop to meet requirements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645ba61bd8a7fb17319c02fa/0x0.jpg?format=jpg&crop=3574,2012,x0,y467,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/amp/",
-      "publishedDateTime": "2023-05-23T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33585861"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33585861"
 type: article
 quality: 50
-heat: 90
+heat: 110
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "The Future of Fintech in Latin America 2023"
+    excerpt: "Many companies, countries and regions have forged ahead in leveraging data, cloud, blockchain and AI. One such region is Latin America, where according to Statista, there are 2,300 registered fintech companies,"
+    publishedDateTime: 2023-08-09T14:00:00Z
+    webUrl: "https://www.finextra.com/researcharticle/285/the-future-of-fintech-in-latin-america-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fo-latamhomepage.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Lytus enters FinTech sector in India through the launch of a new payment gateway"
     excerpt: "Nasdaq-listed Lytus Technologies Holdings PTV. Ltd. (the “Company”) (NASDAQ: LYT), a leading global technology-driven services company, has announced the launch of"
     publishedDateTime: 2023-08-09T05:40:00Z
@@ -80,6 +94,15 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 8
+  - title: "The Rise of Fintech Investment in India: Reshaping Financial Landscapes"
+    excerpt: "Reshaping Financial Landscapes - India has experienced a spectacular financial upheaval in recent years because of the fintech industry."
+    publishedDateTime: 2023-08-09T12:21:00Z
+    webUrl: "https://www.siliconindia.com/news/general/the-rise-of-fintech-investment-in-india-reshaping-financial-landscapes-nid-224650-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 4
 
 secured: "8lQ+3ZDQrTQbFAiMaEsaKjoR7q2rTH69cnnuAEHGSEPZE2wEUadv343ORWnwSR0YygvNe/pzXA2+Mp38YoS599PTzXXHbAVkHzc4w/r2k8vhfJDTJ6blcXrKQcCGy97bPIeycMypfD46VVOsdSDWk9NVynvqjt7mE+sirzQc7QYTIjssJ9JIvvyJfXyu7Y6thnoDI9PA59RYeMRGzHPwXw6QQDUnHGhS7zdMRI52DWmjlVNpcygxukyerSoPG/i+sBkoK/DTFBgr7YF0zm7VSduZYmUJx0XCI6hr9hMmI7mdbrGn6pOejkVNSJvPUgRm01ya5fUp9jyXMp6Cc4eOxIMCFlL/ieAUqQ5N0e7oydE=;z/KFbuc6xWyilevmmP/7SQ=="
 ---

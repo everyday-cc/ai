@@ -51,6 +51,15 @@ related:
       name: WPSD Local 6
       domain: wpsdlocal6.com
     quality: 19
+  - title: "Artificial intelligence is cleverer than you, workers told"
+    excerpt: "“Artificial intelligence is cleverer than you”. That’s what some workers are being told when they challenge the use of the new technology to manage their work."
+    publishedDateTime: 2023-08-09T12:08:00Z
+    webUrl: "https://www.tuc.org.uk/blogs/artificial-intelligence-cleverer-you-workers-told"
+    type: article
+    provider:
+      name: tuc.org.uk
+      domain: tuc.org.uk
+    quality: 19
 
 secured: "LLV4GV+tZYoit1HJISi7vOD79X/hi2bH2lLKDE4NRQxa//CL8+DloVYzwIAKjLlw3PDhrysTyI2Dfh3pF7qPwSJoewy2t4TYcLnxOzt7l89EUM0UnMguIfv5J3dcgH5oHfQYcrX6tpd1a67QIH2RASM/EokzFn/qsjDvCWYg0bbrYRfnbOg/lT8I4qn4kS7/idvJfq5xO3kCZWmThUI/k4ecjWWqDukl9oyl+hNEninw/YxofOmsFkFehstIyyeAC1rqbdeODvFYumovOMXjxdP30epvbLhL+Ki3Y+j3t/QVTZIaUQw9aD8eLMqbNjvEUXOQlCedlOS3IJRJ3rZt6i3/Eh0ZKWj9mqBWrjQSk7A=;Ky26XJQqdwPiX5tnj0jUVA=="
 ---

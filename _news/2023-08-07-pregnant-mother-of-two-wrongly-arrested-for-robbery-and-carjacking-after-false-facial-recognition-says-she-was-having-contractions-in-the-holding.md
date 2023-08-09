@@ -43,21 +43,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
-    excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
-    publishedDateTime: 2023-08-08T21:11:00Z
-    webUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
-    ampWebUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+  - title: "Detroit woman sues city after being falsely arrested while pregnant due to facial recognition technology"
+    excerpt: "Porcha Woodruff was getting her two children ready for school when police officers presented her with an arrest warrant alleging robbery and carjacking, court documents show."
+    publishedDateTime: 2023-08-07T13:42:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/detroit-woman-sues-city-falsely-arrested-8-months-pregnant-due-facial-rcna98447"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna98447"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna98447"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 68
+      name: NBC News
+      domain: nbcnews.com
+    quality: 72
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
-        width: 1680
-        height: 971
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-08/230807-porcha-woodruff-ONETIMEUSE-mn-0935-04dfe5.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Pregnant woman arrested after facial recognition tech error"
     excerpt: "Porcha Woodruff is the third person wrongly arrested by Detroit police due to the AI software in as many years."
@@ -283,6 +283,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
+    excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
+    publishedDateTime: 2023-08-08T19:10:00Z
+    webUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 26
   - title: "Detroit woman sues city over false arrest while 8 months pregnant due to faulty facial recognition"
     excerpt: "A Detroit woman who claims she was falsely arrested for carjacking and robbery while eight months pregnant is suing the city over faulty facial recognition technology used by the police department, according to court documents."
     publishedDateTime: 2023-08-07T23:50:00Z

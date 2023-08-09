@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 749
         isCached: true
+  - title: "Nvidia unveils upgraded chip to power the next gen of AI"
+    excerpt: "Nvidia has announced its next generation AI chip platform which uses the new Grace Hopper Superchip with the world’s first HBM3e processor."
+    publishedDateTime: 2023-08-09T15:38:00Z
+    webUrl: "https://www.techradar.com/pro/nvidia-unveils-upgraded-chip-to-power-the-next-gen-of-ai"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/RqZGLD9cNLDo9TwwpFEFAD-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia Unveils New AI Chip Set to Cut Cost of Running LLMs"
     excerpt: "Nvidia appears to have turned up the heat on its competitors within the artificial intelligence (AI) hardware space."
     publishedDateTime: 2023-08-09T08:14:00Z
@@ -72,6 +86,20 @@ related:
       - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/nvidia-ai-chip-llms.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Build generative AI applications using Azure and NVIDIA H100 Tensor Core GPUs"
+    excerpt: "Microsoft Azure users can now leverage the latest NVIDIA accelerated computing technology to train, deploy and build generative AI applications. The"
+    publishedDateTime: 2023-08-08T08:37:00Z
+    webUrl: "https://www.geeky-gadgets.com/build-generative-ai-apps-08-08-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 68
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Build-generative-AI-applications.jpg"
+        width: 700
+        height: 461
         isCached: true
   - title: "MindsDB raises funding from Nvidia to democratize AI application development"
     excerpt: "MindsDB aims to democratize AI development and production for all stripes of developers without requiring specialized AI training."
@@ -197,6 +225,20 @@ related:
       - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/NVIDIA-GPU-scaled-gID_7.jpg"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Nvidia puts generative AI at the forefront with AI Workbench and Hugging Face partnership"
+    excerpt: "As part of the collaboration, Hugging Face will offer a brand-new service, called Training Cluster as a Service. It will simplify the creation and tailoring of new custom generative AI models for enterprise customers using its platform and Nvidia DGX Cloud for infrastructure with a single click."
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://siliconangle.com/2023/08/08/nvidia-puts-generative-ai-forefront-ai-workbench-hugging-face-partnership/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/NVIDIA-AI-Workbench-Image.jpg"
+        width: 1280
+        height: 680
         isCached: true
   - title: "NVIDIA at SIGGRAPH: DGX Integration with Hugging Face for LLM Training; Announcement of AI Workbench"
     excerpt: "At the the SIGGRAPH conference this morning in Los Angeles, NVIDIA and Hugging Face made several generative AI-related announcements, including a partnership intended to broaden access to generative AI supercomputing (NVIDIA’s DGX cloud hardware) for developers building large language models (LLMs) and other AI applications on the Hugging Face platform."

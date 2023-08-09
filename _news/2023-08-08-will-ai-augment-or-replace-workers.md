@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/will-ai-au
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/08/will-ai-augment-or-replace-workers/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
     provider:
       name: WPSD Local 6
       domain: wpsdlocal6.com
+    quality: 19
+  - title: "Artificial intelligence is cleverer than you, workers told"
+    excerpt: "“Artificial intelligence is cleverer than you”. That’s what some workers are being told when they challenge the use of the new technology to manage their work."
+    publishedDateTime: 2023-08-09T12:08:00Z
+    webUrl: "https://www.tuc.org.uk/blogs/artificial-intelligence-cleverer-you-workers-told"
+    type: article
+    provider:
+      name: tuc.org.uk
+      domain: tuc.org.uk
     quality: 19
 
 secured: "ClusJ8+MM/9gXEY1O4X3NZO8dpHRGmxi9aec0au+Nv4VpuFQpxiEQQyglxiZZjLkQywVIl8iQ5jIpGKmP6JHbekTigi/K1EXbkod4dqftaczjXvAM1TP1goRuBlHECBS2cd54lWMEVR59CnYdOmKxUdA/GTuiEAWK8oph2jGDRxbAahL/2caIPOFz+0BcvuImnN7nrvZSwDaOGLkSr0MglAgSgP+gqcL31PW71tw53vtCszJ8W5N9pB/AeHiRLc5Qa6t118ieJkb3Zvsh9I76IdXgB01EaxKXfqVhnhiV5qRQhyd432Tes1li4EBKWF0bB+Ed8Q177X2rai7PM/qh3kVYZUfkPM7c8HrBVuYjxMFG707ogvIVhp5t9jZmi47/DT4zrwzeIuFgAbv0t9ncKetY8vaN6fpVo9vP5HkTbWLZYfPAWVJ4qrGPwuCpaIjGqnF4Ir0Iz3buMzZBXnvO87FWTSI9aA0qiYu+628HjenWxndfGGXIdwTSNVfjev3t6n5twM65EpPqwDw4CX27g==;Molk5R+Y8dWhWtgSEYO7/g=="

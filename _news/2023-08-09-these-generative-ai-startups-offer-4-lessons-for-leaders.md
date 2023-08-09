@@ -24,6 +24,36 @@ images:
     isCached: true
 
 related:
+  - title: "Generate creative advertising using generative AI deployed on Amazon SageMaker"
+    excerpt: "Creative advertising has the potential to be revolutionized by generative AI (GenAI). You can now create a wide variation of novel images, such as product shots, by retraining a GenAI model and providing a few inputs into the model, such as textual prompts (sentences describing the scene and objects"
+    publishedDateTime: 2023-08-09T15:51:52Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 100
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/23/ml14623-pic1.png"
+        width: 625
+        height: 270
+        isCached: true
+  - title: "FOMO-Driven Generative AI Acquisition-Spree Has Begun"
+    excerpt: "The market frenzy in Generative AI acquisitions has begun. Let's try to predict which corporations will be active first in the Generative AI sector."
+    publishedDateTime: 2023-08-05T09:23:00Z
+    webUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/"
+    ampWebUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ce136208f2d9cb9a364b30/0x0.jpg?format=jpg&crop=1600,900,x197,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Future Of Programming In A Generative AI World"
     excerpt: "Generative AI is revolutionizing programming, making coding more accessible and productive, but ethical considerations and human expertise remain crucial."
     publishedDateTime: 2023-08-07T15:02:00Z
@@ -39,6 +69,36 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64c60efbf4e8ba5b40ade19b/0x0.jpg?format=jpg&width=1200"
         width: 600
         height: 420
+        isCached: true
+  - title: "Host the Spark UI on Amazon SageMaker Studio"
+    excerpt: "Amazon SageMaker offers several ways to run distributed data processing jobs with Apache Spark, a popular distributed computing framework for big data processing. You can run Spark applications interactively from Amazon SageMaker Studio by connecting SageMaker Studio notebooks and AWS Glue Interactive"
+    publishedDateTime: 2023-08-08T14:56:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-the-spark-ui-on-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/08/host-spark-ui-sagemaker-1260x627.jpg"
+        width: 1260
+        height: 627
+        isCached: true
+  - title: "Preparing Your People For Generative AI At Work"
+    excerpt: "To fully embrace generative AI, leaders need to ensure their team is equipped with the skills to evolve alongside new technology."
+    publishedDateTime: 2023-08-09T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/09/preparing-your-people-for-generative-ai-at-work/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/09/preparing-your-people-for-generative-ai-at-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/09/preparing-your-people-for-generative-ai-at-work/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fc69e28f02f5833055ec5db/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Is Generative AI Stealing From Artists?"
     excerpt: "Delve into the contentious debate around ownership, credit, and financial compensation for art created by AI tools, exploring artists' rights and IP laws."
@@ -56,6 +116,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "We're not ready for the impact of generative AI on elections"
+    excerpt: "ZDNET's resident presidential scholar takes a deep dive into political campaign deepfakes in the time of generative AI. This affects much more than the national contests. AI will transform local politics,"
+    publishedDateTime: 2023-08-09T14:15:00Z
+    webUrl: "https://www.zdnet.com/article/were-not-ready-for-the-impact-of-generative-ai-on-elections/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/were-not-ready-for-the-impact-of-generative-ai-on-elections/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/were-not-ready-for-the-impact-of-generative-ai-on-elections/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/29d6bbc441c6800e3c5d41b69c880d00fc44fe90/2023/08/03/a5004c8e-9286-41e9-a651-0cc6373b3326/cryscreenshot-2023-08-03-162524.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Deploy thousands of model ensembles with Amazon SageMaker multi-model endpoints on GPU to minimize your hosting costs"
+    excerpt: "Artificial intelligence (AI) adoption is accelerating across industries and use cases. Recent scientific breakthroughs in deep learning (DL), large language models (LLMs), and generative AI is allowing customers to use advanced state-of-the-art solutions with almost human-like performance. These complex"
+    publishedDateTime: 2023-08-08T14:50:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-thousands-of-model-ensembles-with-amazon-sagemaker-multi-model-endpoints-on-gpu-to-minimize-your-hosting-costs/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/08/deploy-thousands-of-models-1248x630.jpg"
+        width: 1248
+        height: 630
+        isCached: true
   - title: "Chegg is getting a generative AI makeover just in time for back-to-school season"
     excerpt: "ChatGPT's advanced abilities have the potential to shake up many industries, and online learning services are an early example of this. With a free, competent tool like ChatGPT that can help with homework and studying, why would students pay for an online learning service?"
     publishedDateTime: 2023-08-08T16:37:00Z
@@ -72,42 +162,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia launches RTX workstations chips for content creation in the generative AI era"
-    excerpt: "Nvidia is launching new RTX workstation graphics processing units (GPUs) for the generative AI era at Siggraph."
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-launches-rtx-workstations-chips-for-content-creation-in-the-generative-ai-era/"
+  - title: "Opinion: Higher Education Entering Year 2 of Generative AI"
+    excerpt: "After a somewhat chaotic year in which professors grew suspicious of their students' writing and navigated new territory largely without clear guidance, colleges and universities still face inevitable change."
+    publishedDateTime: 2023-08-08T20:32:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/opinion-higher-education-entering-year-2-of-generative-ai"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/opinion-higher-education-entering-year-2-of-generative-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/opinion-higher-education-entering-year-2-of-generative-ai?_amp=true"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
+      name: Government Technology
+      domain: govtech.com
+    quality: 76
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/RTX-Workstation-Image.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Scale generative AI with new Azure AI infrastructure advancements and availability"
-    excerpt: "We are excited to share a series of announcements that highlight Microsoft Azure’s commitment to driving innovation and empowering businesses with cutting-edge AI solutions.\nThe post Scale generative AI with new Azure AI infrastructure advancements and availability appeared first on Azure Blog.\n"
-    publishedDateTime: 2023-08-07T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 78
-  - title: "Build generative AI applications using Azure and NVIDIA H100 Tensor Core GPUs"
-    excerpt: "Microsoft Azure users can now leverage the latest NVIDIA accelerated computing technology to train, deploy and build generative AI applications. The"
-    publishedDateTime: 2023-08-08T08:37:00Z
-    webUrl: "https://www.geeky-gadgets.com/build-generative-ai-apps-08-08-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 68
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Build-generative-AI-applications.jpg"
-        width: 700
-        height: 461
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/50e74b7/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F41%2F5a00b53049eebb276280f1f7f796%2Fgenerative-ai.jpg"
+        width: 840
+        height: 438
         isCached: true
   - title: "4 ways generative AI makes founders more interesting to journalists"
     excerpt: "Gutted newsrooms could stymie one of the greatest engines of startup growth. While generative AI will enhance the capabilities of many publications, they’re also creeping onto news sites in ways we can’t foresee while journalists are laid off."
@@ -137,35 +206,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Kognitos Launches the Industry's Most Advanced Generative AI Automation Platform"
-    excerpt: "Kognitos is introducing self service functionality for business process experts to quickly start building automations interactively without prior automation training. It comes with an industry-first generative AI-powered copilot for writing automations in natural language."
-    publishedDateTime: 2023-08-08T16:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kognitos-launches-the-industry-s-most-advanced-generative-ai-automation-platform-1032530091"
+  - title: "Elsevier wades into generative AI - cautiously"
+    excerpt: "Scientific giant Elsevier is cautiously adding generative AI capabilities to its Scopus abstract and citation database. And it jumpstarted the process by leveraging the ChatGPT engine."
+    publishedDateTime: 2023-08-09T09:44:00Z
+    webUrl: "https://diginomica.com/elsevier-wades-generative-ai-cautiously"
+    ampWebUrl: "https://diginomica.com/elsevier-wades-generative-ai-cautiously?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/elsevier-wades-generative-ai-cautiously?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://mma.prnewswire.com/media/2170997/Kognitos_Logo.jpg"
-        width: 400
-        height: 210
-        isCached: true
-  - title: "Are VCs seeing a Generative AI bubble?"
-    excerpt: "“It still remains to be seen where the real-world value will be in the generative AI startup space once their novelty is gone,” said Christian Cantrell, former VP, Product at Stability AI, and now founder of a generative AI startup. “It’s easy to do a demo but it’s something else entirely to build a product around it.”"
-    publishedDateTime: 2023-08-05T06:09:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/are-vcs-seeing-generative-ai-bubble/article67158059.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/are-vcs-seeing-generative-ai-bubble/article67158059.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/are-vcs-seeing-generative-ai-bubble/article67158059.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
+      name: Diginomica
+      domain: diginomica.com
     quality: 59
     images:
-      - url: "https://th-i.thgim.com/public/incoming/6haw4t/article67158051.ece/alternates/FREE_1200/2023-07-13T100131Z_1015518115_RC2DT1AJRVZG_RTRMADP_3_SAN-FRANCISCO-AI.JPG"
-        width: 1200
-        height: 799
+      - url: "https://diginomica.com/sites/default/files/images/2023-08/Screenshot%202023-08-09%20at%2010.42.29.png"
+        width: 488
+        height: 294
         isCached: true
   - title: "4 most promising healthcare generative AI startups, per CB Insights"
     excerpt: "Discover the 4 most promising generative AI startups in healthcare, as identified by CB Insights. Learn about Aqemia, Hippocratic AI, Navina, and Subtle Medical."
@@ -181,75 +236,90 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "What the Finance Industry Tells Us About the Future of AI"
-    excerpt: "What will artificial intelligence do to industries and jobs? For a preview, look to the finance industry which has been incorporating data and algorithms for a long time, and which is always a canary in the coal mine for new technology."
-    publishedDateTime: 2023-08-09T07:15:00Z
-    webUrl: "https://hbr.org/2023/08/what-the-finance-industry-tells-us-about-the-future-of-ai"
+  - title: "Using Generative AI To Connect Lab To Fab Test"
+    excerpt: "Executive Insight: Thomas Benjamin, CTO at National Instruments, sat down with Semiconductor Engineering to discuss a new way of look at test, using data as a starting point and generative AI as bridge between different capabilities."
+    publishedDateTime: 2023-08-08T07:05:00Z
+    webUrl: "https://semiengineering.com/using-generative-ai-to-connect-lab-to-fab-test/"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 54
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 41
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/08/Aug23_09_5277464.jpg"
+      - url: "https://semiengineering.com/wp-content/uploads/wafer-AdobeStock_472655944.jpeg?fit=1200%2C825&ssl=1"
         width: 1200
-        height: 675
+        height: 825
         isCached: true
-  - title: "Episode 8: Artificial intelligence and the future of warfighting"
-    excerpt: "The advent of ChatGPT and its successor, GPT-4, in recent months has brought artificial intelligence into everyday use. Far from being science fiction, AI is now a frontier for the U.S. military as it competes with China, Russia and other global adversaries."
-    publishedDateTime: 2023-08-08T10:33:00Z
-    webUrl: "https://www.stripes.com/multimedia/podcasts/military_matters/2023-08-08/paul-scharre-ai-military-china-10973585.html"
+  - title: "Cyient sets up CoE to power engineering with Generative AI"
+    excerpt: "Cyient & Microsoft partner to set up CoE EnGeneer to drive engineering innovation using Generative AI. CoE to integrate new Generative AI capabilities into existing solutions, CyFast & CyArc. OpenAI & Generative AI technologies to be used across all Cyient platform solutions."
+    publishedDateTime: 2023-08-08T04:18:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece/amp/"
     type: article
     provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 37
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
+  - title: "Nvidia unveils new chip for accelerated computing, generative AI"
+    excerpt: "Chip maker Nvidia has unveiled a new AI chip built for accelerated computing and to handle the world’s most complex generative AI"
+    publishedDateTime: 2023-08-09T12:04:00Z
+    webUrl: "https://glamsham.com/world/technology/nvidia-unveils-new-chip-for-accelerated-computing-generative-ai"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 34
+  - title: "Age of Generative AI: Ai Palette aiming to optimise food innovation and boost product launches"
+    excerpt: "Singapore-based tech firm Ai Palette has developed a new tool called FoodGPT, which harnesses the power of generative AI and natural language processing to elevate data-backed innovations and increase the success rate of product launches."
+    publishedDateTime: 2023-08-07T03:28:00Z
+    webUrl: "https://www.foodnavigator-asia.com/Article/2023/08/07/ai-palette-aiming-to-optimise-food-innovation-and-boost-product-launches-via-generative-ai"
+    type: article
+    provider:
+      name: FoodNavigator-Asia
+      domain: foodnavigator-asia.com
+    quality: 27
     images:
-      - url: "https://www.stripes.com/incoming/jqp809-mil_ai_cover-edit.jpg/alternates/LANDSCAPE_480/MIL_AI_cover%20edit.jpg"
-        width: 480
-        height: 299
+      - url: "https://www.foodnavigator-asia.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-asia.com/headlines/markets/ai-palette-aiming-to-optimise-food-innovation-and-boost-product-launches-via-generative-ai/16608294-1-eng-GB/Ai-Palette-aiming-to-optimise-food-innovation-and-boost-product-launches-via-generative-AI.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Nvidia puts generative AI at the forefront with AI Workbench and Hugging Face partnership"
-    excerpt: "As part of the collaboration, Hugging Face will offer a brand-new service, called Training Cluster as a Service. It will simplify the creation and tailoring of new custom generative AI models for enterprise customers using its platform and Nvidia DGX Cloud for infrastructure with a single click."
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/08/nvidia-puts-generative-ai-forefront-ai-workbench-hugging-face-partnership/"
+  - title: "Apple seeks to bolster expertise in generative AI on mobile devices"
+    excerpt: "All the jobs were advertised between April and July and indicated that Apple was working on “ambitious long-term research ... Facebook owner Meta, but planned to grow further, the person said. In 2020, Apple paid almost $200mn for Seattle-based AI ..."
+    publishedDateTime: 2023-08-05T13:00:00Z
+    webUrl: "https://www.ft.com/content/d74477b6-8355-42a9-ae37-7c835880ef9e"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/NVIDIA-AI-Workbench-Image.jpg"
-        width: 1280
-        height: 680
-        isCached: true
-  - title: "Artificial Intelligence Can’t Predict the Future"
-    excerpt: "AI uses current data and history to make recommendations and can’t consider unexpected events, such as hurricanes, or changing realities, such as \"black swan\" events."
-    publishedDateTime: 2023-08-08T18:42:00Z
-    webUrl: "https://www.floridarealtors.org/news-media/news-articles/2023/08/artificial-intelligence-cant-predict-future"
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
+  - title: "Dell announces generative AI solutions"
+    excerpt: "The company is offering a range of generative AI solutions across its hardware, software, and services offerings."
+    publishedDateTime: 2023-08-07T12:34:00Z
+    webUrl: "https://www.networkworld.com/article/3704209/dell-announces-generative-ai-solutions.html"
     type: article
     provider:
-      name: FloridaRealtors.org
-      domain: floridarealtors.org
-    quality: 17
-  - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
-    excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
-    publishedDateTime: 2023-08-08T15:58:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861286.htm"
+      name: Network World
+      domain: networkworld.com
+    quality: 19
+  - title: "KPMG’s Generative AI Play"
+    excerpt: "KPMG India, sheds light on the consulting sector's initial hesitation towards generative AI, the evolving mindset, and the innovative implementations that are shaping the future of these sectors."
+    publishedDateTime: 2023-08-08T11:41:00Z
+    webUrl: "https://analyticsindiamag.com/kpmgs-generative-ai-play/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-  - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
-    excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
-    publishedDateTime: 2023-08-08T17:19:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861286.htm"
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
+  - title: "Google and Universal Music working on licensing voices for AI-generated songs"
+    excerpt: "Early stage talks are expected to include a potential tool that fans could use to make AI-generated songs"
+    publishedDateTime: 2023-08-09T11:31:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/09/google-and-universal-music-working-on-licensing-voices-for-ai-generated-songs"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
+      name: The Guardian
+      domain: theguardian.com
+    quality: 14
 
 secured: "QRqU3UuZKUA9QfRw56pIqpypCG+0MPFgYHp0eofKTjTvpFBfP54gX/HhfV3rYT7ODbgcJioo16eF5lGyHcyEqonjBV/L5twpWm17QLLOp/c7EW2Zq2lhlFK2cCSFzkgalmpnO6aDQUnYYH1CayeKAA18dEm4wdBpLVQGqZzBY77ZW+IUcXbTDM3Vmb6DNKJ6Z+SzQS+sjMi0ZWxHqkLlysJMZhne1zFjP+W0Mnl3p1HyM+UWeGbSpILM2s66Uqh3IPI96TB3i2IWTCaVO2sI7X07IAkyiERRCo90u56/tgVz2dgBqDs0I3n3+BEJbZ2XkEBm+9Kwchg3ZZXC2amd50OoK6apDNsJnqM00ub1gZA0TPVbGb8FDLBafTg8qe8oWef5+6u3vhYmQbVtmxLr/IyGj9I07HkkdX3z97svr9J0lFjBTegKpdGs+3pMAV1Vboh+LHfkdJkB0sJejYHj+XJi2oTRUINIhDysOxasEzhK7VK/QjWCFuoVW4NWA/T1EGcReOVmiFSfM9edSL0pJA==;fnN2t9Sf0o5upF86BgyXjA=="
 ---

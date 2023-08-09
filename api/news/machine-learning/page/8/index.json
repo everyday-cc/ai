@@ -2,6 +2,145 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-24-ai-terminology-101-automl-the-game-changer-in-machine-learning.md",
+      "title": "AI Terminology 101: AutoML - The Game Changer in Machine Learning",
+      "excerpt": "This complex yet intriguing area has a lot to offer, and one of its increasingly popular innovations is AutoML, or Automated Machine Learning. AutoML refers to the automated process of end-to-end ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/preview/2023/05/ai-terminology-101-automl-demystified",
+      "originalUrl": "https://yourstory.com/preview/2023/05/ai-terminology-101-automl-demystified",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/images/undefined/nucleus-1677242056743.png",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-machine-learning-has-potential-to-transform-oil-and-gas-industry-says-globaldata.md",
+      "title": "Machine Learning Has Potential to Transform Oil and Gas Industry, Says GlobalData",
+      "excerpt": "Machine learning has the potential to improve efficiency, increase production and reduce costs in the oil and gas industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry",
+      "originalUrl": "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/8033f7c8-5c9d-481c-bc16-e71d0aa4ef8f/Machine-learning-news-May-23-2023-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-the-need-for-an-artificial-sensory-nervous-system-for-generative-ai.md",
+      "title": "The Need For An Artificial Sensory Nervous System For Generative AI",
+      "excerpt": "Demand for neural networks and LLMs will snowball in the coming years, and supply will develop to meet requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645ba61bd8a7fb17319c02fa/0x0.jpg?format=jpg&crop=3574,2012,x0,y467,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/amp/",
+      "publishedDateTime": "2023-05-23T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-some-neural-networks-learn-language-like-humans.md",
       "title": "Some Neural Networks Learn Language Like Humans",
       "excerpt": "We preselected all newsletters you had before unsubscribing.",
@@ -1203,153 +1342,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-automated-machine-learning-automl-market-worth-64-billion-by-2028-exclusive-report-by-marketsandmarketstm.md",
-      "title": "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets(TM)",
-      "excerpt": "CHICAGO, /PRNewswire/ --The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration with other developing technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-worth-64-billion-by-2028---exclusive-report-by-marketsandmarketstm-2023-05-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-worth-64-billion-by-2028---exclusive-report-by-marketsandmarketstm-2023-05-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-study-presents-large-brain-like-neural-networks-for-ai.md",
-      "title": "Study presents large brain-like neural networks for AI",
-      "excerpt": "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news",
-      "sourceUrl": null,
-      "webUrl": "https://sciencex.com/wire-news/445321687/study-presents-large-brain-like-neural-networks-for-ai.html",
-      "originalUrl": "https://sciencex.com/wire-news/445321687/study-presents-large-brain-like-neural-networks-for-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx1.b-cdn.net/csz/news/800/2023/study-presents-large-b.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sciencex.com/wire-news/445321687/study-presents-large-brain-like-neural-networks-for-ai.amp",
-      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/445321687/study-presents-large-brain-like-neural-networks-for-ai.amp",
-      "publishedDateTime": "2023-05-12T01:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sciencex",
-        "domain": "sciencex.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-openai-peeks-into-the-black-box-of-neural-networks-with-new-research.md",
-      "title": "OpenAI peeks into the “black box” of neural networks with new research",
-      "excerpt": "It's a step forward for \"interpretability,\" which is a field of AI that seeks to explain why neural networks create the outputs they do. While large language models (LLMs) are conquering the tech ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/openai-peeks-into-the-black-box-of-neural-networks-with-new-research/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/openai-peeks-into-the-black-box-of-neural-networks-with-new-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ai_brainhero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/openai-peeks-into-the-black-box-of-neural-networks-with-new-research/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/openai-peeks-into-the-black-box-of-neural-networks-with-new-research/amp/",
-      "publishedDateTime": "2023-05-11T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

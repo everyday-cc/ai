@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Kyndryl And Microsoft Collaborate To Speed The Evaluation And Adoption Of Enterprise-Grade Generative AI For Business"
-excerpt: "Kyndryl And Microsoft Collaborate To Speed The Evaluation And Adoption Of Enterprise-Grade Generative AI For Business - Kyndryl (NYSE:KD), the world’s largest technology infrastructure services provider,"
-publishedDateTime: 2023-08-09T10:45:00Z
-originalUrl: "https://www.siliconindia.com/news/business/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprisegrade-generative-ai-for-business-nid-224644-cid-3.html"
-webUrl: "https://www.siliconindia.com/news/business/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprisegrade-generative-ai-for-business-nid-224644-cid-3.html"
+title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
+excerpt: "Kyndryl (NYSE: KD), the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable the adopti"
+publishedDateTime: 2023-08-09T08:01:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230808222504/en/Kyndryl-and-Microsoft-Collaborate-to-Speed-the-Evaluation-and-Adoption-of-Enterprise-Grade-Generative-AI-for-Business"
+webUrl: "https://www.businesswire.com/news/home/20230808222504/en/Kyndryl-and-Microsoft-Collaborate-to-Speed-the-Evaluation-and-Adoption-of-Enterprise-Grade-Generative-AI-for-Business"
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: SiliconIndia
-  domain: siliconindia.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.siliconindia.com/news/newsimages/Y4u32dr6.jpg"
-    width: 570
-    height: 367
-    isCached: true
 
 related:
   - title: "Better together: IBM and Microsoft make enterprise-wide transformation a reality"
@@ -44,6 +38,6 @@ related:
       domain: ibm.com
     quality: 82
 
-secured: "S6z0g7kJaFPp0McKpKhIV/KvX5sEj1GIHn7YEDYuZUNmTT3Op+6WomK/8MRv/AlaQysCjLML140NcRygXt+MmQYCBBQjlvzVFNUn6OZeZY/y5ZVANNeJHU4IzLeaaXeDcq+wFYu782PAkQ66cZrHDWsefKP+ZZyAn0dP3gONLqUCm8O1+yZB4YBpy0A7iHIGOKK7LH9glyTsLrwIDErlemQVF+bGgoWag0G9MicadYF3qAqa/hjg0NJmb7VAyOCw9uufJb9VPhav0vJUm8LcIHqNF4fM4m8RgjoV3fviIZbHNuJXTeCBE1oW4Zzul0/eGTDezr3BqZvwnd7+4tasbSGAlcS/ZeO6N0w8RLeBQvM=;A6Bl5+M9uoZppVrNSLtsHA=="
+secured: "lh02dy7UoJ9uSvDAnYB7VOMxCFaH7DEXAoqyBJR7K61/PDJ5JYzbZboA1g+q2kfXGtk8PmU/E3SwqxRj3EMFvI6cOO+iWPtPaG2u9UsuJ9y8U8fvLVD8UwlwNG0IW6te1n/t5J9ZxQtuKr5A4lv/3IoiIJu4LXpiWX7GcFqrMZhZDmTY1K6SpJ7exhiRXMrktAZsszD6wO9z0l74JPzrlyXokfLFOuOdi5+eDvAlzJqq4Jc+sR+FIxffXSY2P9cTRGSw7Nb3pQwp8/7cvUGVuiChdj1BznLy8BydsMjl2CJtcbQoN2j+/jD87MWYUSp5xT44s6y9+zCh71hSkuduimra2M7CEEynxAAQoYReEcw=;tZzJfFoRFJeRyU+6VhJbpg=="
 ---
 

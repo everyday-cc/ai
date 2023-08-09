@@ -85,6 +85,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "VAST Data Launches its Comprehensive, Robust Data Platform to Support AI and ML Workflows"
+    excerpt: "VAST Data, the data platform company for the AI era, is unveiling its data computing platform, engineered to underpin the burgeoning world of AI that rivals the capabilities of other existing data platforms."
+    publishedDateTime: 2023-08-09T15:49:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/VAST-Data-Launches-its-Comprehensive-Robust-Data-Platform-to-Support-AI-and-ML-Workflows-159991.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 47
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'The Bell Labs of AI and robotics:' Boston Dynamics founder Marc Raibert discusses AI Institute"
     excerpt: "In an exclusive interview, Boston Dynamics founder Marc Raibert discusses how the AI Institute is keeping its head down on recruiting and R&D — as far as possible from the commercialization focus of its namesake company."
     publishedDateTime: 2023-08-09T09:26:00Z

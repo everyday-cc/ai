@@ -188,6 +188,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 64
+  - title: "Microsoft partners with Aptos Labs to build AI-powered blockchain tools on Azure"
+    excerpt: "A compelling new partnership has just been announced between Microsoft and Aptos Labs. The collaboration is set to create an AI-powered tool named Aptos"
+    publishedDateTime: 2023-08-09T15:54:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-partners-with-aptos-labs-to-build-ai-powered-blockchain-tools-on-azure/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 64
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2021/05/microsoft-azure-blockchain.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft introduces new managed VMs for AI applications"
     excerpt: "Microsoft has introduced the ND H100 v5 Virtual Machine series, giving enterprises an enhanced infrastructure for training and running generative AI"
     publishedDateTime: 2023-08-08T11:13:00Z
@@ -216,6 +230,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Microsoft and Aptos Labs partner to combine blockchain and AI"
+    excerpt: "Microsoft has teamed up with Aptos Labs on an effort to combine the power of AI and the blockchain to drive web3 into the mainstream."
+    publishedDateTime: 2023-08-09T15:26:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42762/microsoft-and-aptos-labs-partner-to-combine-blockchain-and-ai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/blockchain-network.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
     excerpt: "Business Wire India HCLSoftware, a leading software provider, announced a collaboration with Microsoft to integrate Microsoft’s Azure OpenAI Serv"
     publishedDateTime: 2023-08-08T04:57:00Z
@@ -240,6 +268,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-08/04/INS_a3cd3image_story.jpg"
         width: 768
         height: 432
+        isCached: true
+  - title: "Aptos Labs taps into Microsoft’s AI infrastructure to accelerate Web3 adoption"
+    excerpt: "Aptos Labs and Microsoft have announced a partnership that could see developers leverage Microsoft’s AI tech to boost Web3 adoption."
+    publishedDateTime: 2023-08-09T13:41:00Z
+    webUrl: "https://coinjournal.net/news/aptos-labs-taps-into-microsofts-ai-infrastructure-to-accelerate-web3-adoption/"
+    type: article
+    provider:
+      name: Internet of People
+      domain: coinjournal.net
+    quality: 50
+    images:
+      - url: "https://coinjournal.net/wp-content/uploads/1970/01/1668682922828-56020534-38b6-4f96-8028-c48dac595657.jpg"
+        width: 500
+        height: 282
         isCached: true
   - title: "Kyndryl, Microsoft to Accelerate Adoption of Industrial-Level Generative AI for Businesses"
     excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
@@ -292,6 +334,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 33
+  - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
+    excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help clients adopt responsible AI"
+    publishedDateTime: 2023-08-09T15:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-protiviti-achieves-ai-machine-learning-microsoft-azure-specialization-/2023/08/09/9862041.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
   - title: "Finance workers fear they’re bringing about their own jobs demise by embracing AI"
     excerpt: "Three of the nation’s largest unions representing parts of the tech industry in the banking sector say their members fear that embracing AI is “facilitating the demise of their own jobs”."
     publishedDateTime: 2023-08-09T05:18:00Z
@@ -301,6 +352,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 29
+  - title: "Kyndryl taps Microsoft generative AI for new service, moves toward future profitability"
+    excerpt: "The IT infrastructure provider announced the joint project with Microsoft on the heels of announcing significant 1Q 2024 earnings where Kyndryl executives said the company will return to profitability in the next year, at least a year ahead of what financial analysts predicted after the company spun out of IBM in November 2021."
+    publishedDateTime: 2023-08-09T13:08:00Z
+    webUrl: "https://www.networkworld.com/article/3704390/kyndryl-taps-microsoft-generative-ai-for-new-service-moves-toward-future-profitability.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 26
 
 secured: "m+4JlMoRzS9DGYq6cTy+uqL0nn/ne7q9JcGSyJZ8ybGvhLNWXj96u39+UPcviOpaXAHQr1I4gD6g5SRFDNXqEKzNzoEfY7z3/Q5tW68lEjiogkQtAu47x6C8b/+0MalHQ3Zq7weAwa7EHVsM0rmrtLBE31ijAMRyP3dZYlJ89dJdcjJaJJcQWEiwwGHTN7A5WiXbTVMlgge1OFjZQRI466vHhgRjelI9xVrMnA4q9aRRr6R3K8cNSoFbyYHQ6QfdWfEnU1VuVrCEK92QkgWCfbZf6IcgS0ZkvJ1vvobpSLt3rdpGHUUpYd5A8OK3eNlsObt/51chLm3zQdn4r/Koj5AXsXeiqfceQczRWTw3OF4vA4EVTAakXEhL9yPefzdKISN2aeMSAzgrMeiBfi8o+HoLsv0qgsVr9uM9uMB+rbgkZISR5anE++ih5NhmbMQGiRBbVFZ4Udlr0tThrYip/akZKBtIYHcI+IQ8s0tsng+bt+WBESMWOkZQ7YgqofeEHCNGIipgO5w7jKRWfsaYjg==;fCpyKBBPGGnS7DYqhHaQag=="
 ---

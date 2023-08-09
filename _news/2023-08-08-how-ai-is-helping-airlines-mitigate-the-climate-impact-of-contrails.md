@@ -7,8 +7,8 @@ originalUrl: "https://blog.google/technology/ai/ai-airlines-contrails-climate-ch
 webUrl: "https://blog.google/technology/ai/ai-airlines-contrails-climate-change/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Google
@@ -23,36 +23,42 @@ topics:
   - Google AI
 
 related:
-  - title: "How Artificial Intelligence Is Helping Today’s Small Businesses"
-    excerpt: "More small businesses are using artificial intelligence effectively, especially as pertains to marketing functions."
-    publishedDateTime: 2023-08-08T21:34:00Z
-    webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/"
-    ampWebUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/amp/"
+  - title: "Understanding The Impact And Driving Factors Of Conversation AI"
+    excerpt: "The advent of conversation AI signifies a major leap in the evolution of data management and interaction. It democratizes data access and has the potential to optimize an array of processes across diverse sectors. It not only simplifies data analysis but also fosters a more engaged approach to data exploration."
+    publishedDateTime: 2023-08-07T13:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/understanding-the-impact-and-driving-factors-of-conversation-ai/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d2b06367b74f701ad9d11d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Small businesses use AI for efficiency; no impact on workforce employment rate yet"
-    excerpt: "Local small businesses are actually using AI to be more efficient, and local officials say there haven’t been any noticeable changes because of the program yet."
-    publishedDateTime: 2023-08-08T23:37:00Z
-    webUrl: "https://www.ksat.com/news/local/2023/08/08/small-businesses-use-ai-for-efficiency-no-impact-on-workforce-employment-rate-yet/"
+    quality: 49
+  - title: "How Artificial Intelligence Is Helping Today’s Small Businesses"
+    excerpt: "More small businesses are using artificial intelligence effectively, especially as pertains to marketing functions."
+    publishedDateTime: 2023-08-09T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/"
     type: article
     provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 33
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/08-08-2023/t_97844676eae5409ba54ff734efd02908_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "10 Ways Artificial Intelligence is Already Having a Huge Impact on Business"
+    excerpt: "The realm of Artificial Intelligence (AI) is effecting a paradigm shift across multiple business sectors since OpenAI released its Large Language Model (or LLM) to the world. A close examination reveals the multifaceted manner in which AI is refashioning business in many areas."
+    publishedDateTime: 2023-08-06T12:32:00Z
+    webUrl: "https://techbullion.com/10-ways-artificial-intelligence-is-already-having-a-huge-impact-on-business/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 17
+  - title: "The Impact of Artificial Intelligence on Software Development"
+    excerpt: "Jamie Boote warns developers, architects and QA testers to remain vigilant over the use of AI in software development"
+    publishedDateTime: 2023-08-08T11:59:00Z
+    webUrl: "https://www.infosecurity-magazine.com/opinions/ai-software-development/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "mK1xJiRANDI9pUZQJa5RBJb6p+tKAxnKn2ERvX6aAU/u2xysMmOH0uFmeRiBFcR+NXGk+UYX296Mg9QT8fuXlSPj1fch9VtaUai/tfA7nYH1JK2McE/tln6HyFh0jcFRFqbsO8Lnh+xMGcNHs6ONLeB0ngmRBv1R4kzb+b4k4o/HhEbBCLsfLJzOv7Cqf8b5esJOwBCIXhbxAkZo/+CmNABglk3/Y3//DN8+WS0Tq1Pq+lxNmStTk+QqYP/wqVkHUvrjr5H/KVcNGZ0ah29Gd13/qUV1G9rmBkui+cqCRR1hQwRDUzYyFh14olKseHjzHQUL1HcVtcMWIzMeun5Q2C06EqXUrsCM0PAxz1g9T1w=;1cmKLm7iVOFrsUVXbvVM8Q=="
 ---

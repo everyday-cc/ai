@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/08/08/everestlabs-using-robotic-arms-a
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/08/everestlabs-using-robotic-arms-and-ai-to-make-recycling-more-efficient.html"
 type: article
 quality: 103
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "EverstLabs Uses AI, Robotic Arms for More Efficient Recycling"
+    excerpt: "Hoping to cut down on people doing dangerous, dirty, and difficult jobs, AI robotic arms are working to make recycling more efficient."
+    publishedDateTime: 2023-08-09T12:21:00Z
+    webUrl: "https://www.waste360.com/recycling/everstlabs-uses-ai-robotic-arms-more-efficient-recycling"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 34
   - title: "How LLMs are making red and blue teams more efficient"
     excerpt: "Cybersecurity experts have incorporated ChatGPT-like tools into their work, and they use them tasks from source-code analysis to identifying vulnerabilities."
     publishedDateTime: 2023-08-08T05:00:00Z

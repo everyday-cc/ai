@@ -75,6 +75,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "AI could steal information by listening to you type, study finds"
+    excerpt: "New research shows artificial intelligence can identify keystrokes by the sound of your typing and can steal information with 95% accuracy. Joshua Harrison, a software engineer and one of the authors of the study,"
+    publishedDateTime: 2023-08-09T15:42:00Z
+    webUrl: "https://www.cbsnews.com/video/ai-could-steal-information-by-listening-to-you-type-keystrokes-study/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/09/b9eab125-be6d-45e9-9967-87679b09bacc/thumbnail/1200x630/43e9cdab271801c00e862738427460bb/cbsn-fusion-ai-could-steal-information-by-listening-to-you-type-study-finds-thumbnail-2193229-640x360.jpg?v=4c3eff96812a3b6c2e014b1daed33369"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Terrifying ‘deep learning attack’ can steal your passwords by listening to you type"
     excerpt: "According to researchers involved in the study, the deep learning system was able to log keystrokes with a 93 percent accuracy rating when listening to the target typing on their keyboard. The system was taught by pressing the keys on an Apple Mac keyboard multiple times at different levels of pressure."
     publishedDateTime: 2023-08-07T23:23:00Z
@@ -90,6 +104,6 @@ related:
         height: 912
         isCached: true
 
-secured: "WjHNKJxMgm5FS7hRxrhljeohEHVq/sT+HRsWlj3nTbA/xbsLVYGqs3ZJBmxG4afdQ5DnWxPaAfBQlhj+CJPOy59PYlA3pQkV/zHcW5b5Tn6FP6x4go6zqVQyelggLbS8bZBL2ploUJvB0yFLsjBnru4mMh0QK7keVJZeTr1OYGji/bJwBMnC1fIaWRuKOe4+f7uZqoy/wuUrgEJEsOUx6oG9ApzoaBDHJDjBNFc1xEesGtnGLAP/xP8eP3dj5AvuHjjWzrD5I14VcB4JnIFdVtYXigsaviuP307OjNd428TtUCG2f1h6Jdirs9efw155emIzZIc7Xdc8ajAnFIpCjQljzxhLkaBA7fWSJIk/p1s=;o4JE+DY9NxO8UuVyG2fLRA=="
+secured: "frt2mQ8HRVlGanw6cbC1XAU7oO2HyTKIsuTvnoct+TOQAXS4x/NmODVrVpu0FBM+T9bORfjDcVTCNkZS68++/185Z+iyKyKJgTe9aeK/xVeMCeYZgxhfykarY2GvXA+dmCzbrBjywyifC6VklnvUzxvBP2L67eYL1+aNStWTLnIvEqqBge2T8VIHSc2svgEiu5jnnQ3OZ4t7HIzkj+/SfVtyea66BZW1ljHfmiyIqGMdl2CHaeUBjnRf73yzpjju6CtCTTr/D4DV0aLPHQsnWJW2Zsq781BKE/Xvb3sTGZrvUPOLpGrNGlUCxefYsK2hxj5Dk4f1VL6/ItVUujZojhbn7j/yJM4QQ86J3gHJe1YyuShbWOPeLwM07jsmmMJrkuvejoS7Ina9LZ1B3+qyTUmX1aOaF0pn+XigzRmF2RDymxdQ+dYkluAujql7ZvVO/OIpGcGg0Z5GlwS9+72JzIunjzXLqYTvGTMBFHrZRuY/NIg3mJvbBB0DTdgp9yIcYTOeoVNkVY3A81m28LjKew==;MhfOVZ+o9fqu626aC9GCvQ=="
 ---
 

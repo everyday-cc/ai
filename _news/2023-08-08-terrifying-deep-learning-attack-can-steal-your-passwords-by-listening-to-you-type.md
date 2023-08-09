@@ -85,6 +85,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "AI could steal information by listening to you type, study finds"
+    excerpt: "New research shows artificial intelligence can identify keystrokes by the sound of your typing and can steal information with 95% accuracy. Joshua Harrison, a software engineer and one of the authors of the study,"
+    publishedDateTime: 2023-08-09T15:42:00Z
+    webUrl: "https://www.cbsnews.com/video/ai-could-steal-information-by-listening-to-you-type-keystrokes-study/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/09/b9eab125-be6d-45e9-9967-87679b09bacc/thumbnail/1200x630/43e9cdab271801c00e862738427460bb/cbsn-fusion-ai-could-steal-information-by-listening-to-you-type-study-finds-thumbnail-2193229-640x360.jpg?v=4c3eff96812a3b6c2e014b1daed33369"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "S0CfOUdsYs4tJSKPA5/rriBYBEiNtb1nBo2Yz1dWzQk+NevyttROKUcP3b5PGIqc2PNHqGE66pZ5eAD6P2in+wnOyWLSMmcAKhPbG9gVopLevloSC9ErWRMWg9POpGHY45j2Wmdv5uePFLtL6iZEqWf08EK+cwrgrLvz5pNI1FjIsN9YTPgetjJSuKcjlavfqhqAOiFY9TuWlW/BRl1pfbaZ1tQhUxRWNFyEx4VEIkG4yG/Urb2cSOIdbllN3Pys1McFFv3AWOfPzNbc3deceMArhTWUIInoDM4MBtt80kMJr2sHtVanGfbFKGOZuFLt74U/qOZRB9Bs8wEbqcIVengtKzZOeIRypNkKX8DZP2U5nBdsELHbbrFenABArR1HQ1KuLbViFqZ3dBl9PspwjucMXIa3VXI/UDA2N8DDGXDhPUJ5RreTneu6hqVAOs9msT9Up7mJOvfVqZk2rnBgMbx52Z9Zb5Y7YUVrffUeILMjREjYIlEFAgIekGZNVYnkY10sD6GV1mV647vNMQ+nbA==;g6PQudJcWk44jtnQmK2VCw=="
 ---

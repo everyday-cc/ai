@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/08/08/syxsense-adds-generative-ai-en
 webUrl: "https://siliconangle.com/2023/08/08/syxsense-adds-generative-ai-endpoint-management-suite/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,29 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Bud taps Google Cloud generative AI tools to develop intelligent chatbot"
-    excerpt: "UK fintech Bud has developed a generative AI core and chatbot for personalised customer insights using Google's PaLM2 large language model. The new logic core will be embedded into Bud's existing lending and affordability product and its money management ..."
-    publishedDateTime: 2023-08-08T15:18:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42751/bud-taps-google-cloud-generative-ai-tools-to-develop-intelligent-chatbot"
+  - title: "10 ways generative AI upends the traditional database"
+    excerpt: "Generative AI isn't just for chatbots. Here are 10 ways AI and machine learning are transforming how we store, structure, and query data."
+    publishedDateTime: 2023-08-08T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.html"
+    ampWebUrl: "https://www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.amp.html"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 38
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rszed-maslaveckas-headshot-hi-res.jpg"
-        width: 480
-        height: 270
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/28/09/pcworld-the-2023-ultimate-ai-chatgpt-python-programming-bundle-100943992-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Syxsense Announces AI-Powered Cortex Copilot Bringing Natural Language Processing to Endpoint Management and Security Automation"
-    excerpt: "Cortex Copilot builds on the existing functionality of Syxsense Cortex ™ - which already delivers a no-code, drag-and-drop visual designer that enables IT and security administrators to quickly build complex automated workflows for software deployment,"
-    publishedDateTime: 2023-08-09T11:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-syxsense-announces-ai-powered-cortex-copilot-bringing-natural-/2023/08/09/9861644.htm"
+  - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
+    excerpt: "The new GPU powers accelerated computing workloads for generative AI, which is transforming workflows and services across industries, including text, image and video generation, chatbots, game development,"
+    publishedDateTime: 2023-08-08T17:34:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861312.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 24
+    quality: 1
 
 secured: "xU4OeloktSIS9WUcGM1HG4Cb++xIPPD4s9N0tnl1QSENLuoDWOeK0KYmwrC6ccQ5Yw4lxTSAbTFbc0p/k8suYqUxW4rs6jdOHy7K9Ar08uxl5jY94PJbAunyhTv/mgO5c4sn2RDcdBSoeA56trA//NGA03r8IGkMXVuj8wYs//QKq7aPyxduu8agQPgodUkmMidxmP/1MtOZpld86ubDcGzwffRYVV8OptC7Dao/16gJWam66oU9VRGJcJ2R1gec2K0yZdk5xlDUIzWHFpkRg4/HpkdMqpCRAg84Tm/jHEpfZ5R4GgrcueGbiVtG1ewbSmOVa1J2NRiJdIzqTsSrLzh4LxHjfrJvs14ZNijOKj0oLPGtwDXiTEXOUb3r9wz2i6SdbCzqf6vKZsP+fwxew75LvbtwfIgGtVO2c7hnMIvUMfNBrOeX4KSPXlxqKE0CqmQTfhvWPlH5k4N0zwlRjT7eoy2BWdNKVE/DWNHure2asU9IxNu/mLFXgiEi4V9i+jIe3sGRJf7aMjIUiy4RTA==;urk8Us7z2Lak5P81syhUEA=="
 ---

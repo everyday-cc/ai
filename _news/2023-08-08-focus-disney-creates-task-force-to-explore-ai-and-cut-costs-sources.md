@@ -42,22 +42,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Disney forms task force to study AI applications and cut costs amid Hollywood's writers and actors strike"
-    excerpt: "Disney creates task force to study AI applications across its entertainment conglomerate amid Hollywood's battle with the technology."
-    publishedDateTime: 2023-08-09T02:48:00Z
-    webUrl: "https://www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike-11691545538632.html"
-    ampWebUrl: "https://www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike/amp-11691545538632.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike/amp-11691545538632.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 42
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/09/600x338/disney_1691545679873_1691545680106.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Disney Forms Task Force to Explore Artificial Intelligence"
     excerpt: "Disney has taken a significant step towards embracing artificial intelligence (AI) by creating a task force to investigate its potential applications across its wide-ranging businesses. The company is exploring the development of AI-based solutions both in-house and through collaboration with external experts."
     publishedDateTime: 2023-08-09T00:38:00Z
@@ -72,6 +56,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Disney AI Task Force: Exploring the Marvels of Artificial Intelligence"
+    excerpt: "Disney launched its AI task force earlier this year, prior to the onset of the Writers Guild of America (WGA) strike in May. The task force comprises a team of experts dedicated to exploring the potential applications of AI within Disney’s diverse range of operations."
+    publishedDateTime: 2023-08-09T13:01:00Z
+    webUrl: "https://www.technowize.com/disney-ai-task-force-exploring-the-marvels-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Technowize
+      domain: technowize.com
+    quality: 34
   - title: "Disney sets up task force to explore AI applications"
     excerpt: "Disney has established a task force to explore artificial intelligence (AI) and its potential applications throughout the company"
     publishedDateTime: 2023-08-08T11:50:00Z
@@ -81,6 +74,15 @@ related:
       name: newsbytesapp.com
       domain: newsbytesapp.com
     quality: 19
+  - title: "Disney Forms Task Force To Study Ai Applications And Cut Costs Amid Hollywood's Writers And Actors Strike"
+    excerpt: "Walt Disney has established a task force to delve into the applications of artificial intelligence (AI) across its entertainment conglomerate, even"
+    publishedDateTime: 2023-08-09T12:32:00Z
+    webUrl: "https://menafn.com/1106816481/Disney-Forms-Task-Force-To-Study-Ai-Applications-And-Cut-Costs-Amid-Hollywoods-Writers-And-Actors-Strike"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 2
 
 secured: "zm7AQwp1RKZLcFR/LkbfNddd1NpgAoOFtoDd85YUUMUPT+C1Fnoqlx8OM5pTUUkbNLD4ExTB8PZMwpl/LmXNZYy8WR67sG2Bblz9ZQj5lsEKGONYmEL2Pn9MO097nuGK5xI29fJJfD8eGWHxdLcOv+KNvO4ANOP259A4Jb/P1vE4qq3JAhzCNhh+KYrzUkINDupAfNlYd58DUxCZ5utrXuwkzoTS771oWcXn1X1Qz5V8YODcU5+tRq9EV28mO4OIsvLOtZEiR6cQcs9tXuKpSykZurUKdyDiTuLDBu8a1gpNFZaFPFgNdwjmxm4HOlmhiBJHGYGVTwAo3Zjb22IqG8upqv7ozo4jrYJ3AOIYzcw=;mmAohoIoZqHghbG5Dt03sQ=="
 ---

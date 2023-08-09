@@ -37,20 +37,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "This AI Stock Could Soar Big-Time This Month, and It Is a Screaming Buy Right Now"
-    excerpt: "Marvell Technology's near-term results aren't going to be pretty, but it is witnessing solid growth in demand for its chips from AI applications. Marvell expects its AI-related sales to double over the next couple of fiscal years. The stock's valuation and ..."
-    publishedDateTime: 2023-08-04T21:50:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/04/this-ai-stock-could-soar-big-time-this-month-and-i/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 64
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/742334/people-gathered-around-a-white-board-with-a-chart.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Are AI partners a threat to women's rights?"
     excerpt: "Chatbot apps like Replika, Character.AI and Soulmate are part of the fast-growing generative AI companion market, where users customise everything about their virtual partners, from appearance and personality to sexual desires."
     publishedDateTime: 2023-08-07T05:16:00Z

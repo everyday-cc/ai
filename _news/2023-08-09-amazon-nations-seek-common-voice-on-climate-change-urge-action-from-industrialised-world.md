@@ -69,6 +69,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Amazon nations seek a common voice on climate change and urge action from the industrialized world"
+    excerpt: "Eight Amazon nations have urged industrialized countries to do more to help preserve the world’s largest rainforest as their leaders meet at a major summit in Brazil to chart a common course on how to combat climate change."
+    publishedDateTime: 2023-08-09T12:34:00Z
+    webUrl: "https://apnews.com/article/amazon-deforestation-brazil-climate-change-summit-314d7127864fbb6e709c1ffa0fab0b3e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "fMaYF3xN5h1q2AhZVyH+AuSEZib7FEBziZ9RfddhDdDoKbyPp5Mlcm5ST1CLafEbo3Rsv4ojq/Q9HmtTSYDEDvx21ny7I1vta5XrpwUBCeEOnYUuuUWUKi9ASH2s9pv0bzishVlgI4HcdErcojN0GJxBYsJuVGXFEEkQL3iTkLfprBF8rLkW/eqS3RLYqvtCnLGjb0rlh44hskX3kftyvETS611vmVvefulLp7TT1wnvZyZLhPSupt7rb1xoK7tLbuxQ2qS5dGcPuzFfjSI/GhaebG9gAHFjVOzNnnW1nxJ009FgsMuPPG4dA13NCGy4V+iOYzIkfZQjyr9NFH5MyFpm0023dF8RFThpag20hXA=;X9mkgE6nFmHqqJidMqzfCw=="
 ---

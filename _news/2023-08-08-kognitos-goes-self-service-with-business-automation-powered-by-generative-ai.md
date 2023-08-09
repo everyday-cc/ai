@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/automation/kognitos-goes-self-service-with
 webUrl: "https://venturebeat.com/automation/kognitos-goes-self-service-with-business-automation-powered-by-generative-ai/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Kognitos Launches the Industry's Most Advanced Generative AI Automation Platform"
+    excerpt: "Kognitos is introducing self service functionality for business process experts to quickly start building automations interactively without prior automation training. It comes with an industry-first generative AI-powered copilot for writing automations in natural language."
+    publishedDateTime: 2023-08-08T16:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kognitos-launches-the-industry-s-most-advanced-generative-ai-automation-platform-1032530091"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://mma.prnewswire.com/media/2170997/Kognitos_Logo.jpg"
+        width: 400
+        height: 210
+        isCached: true
   - title: "Kognitos Launches the Industry’s Most Advanced Generative AI Automation Platform"
     excerpt: "Kognitos has unveiled its latest updates to its generative AI automation platform which now enables business users to"
     publishedDateTime: 2023-08-08T20:03:00Z

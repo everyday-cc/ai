@@ -31,20 +31,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 94
-  - title: "Kyndryl And Microsoft Collaborate To Speed The Evaluation And Adoption Of Enterprise-Grade Generative AI For Business"
-    excerpt: "Kyndryl And Microsoft Collaborate To Speed The Evaluation And Adoption Of Enterprise-Grade Generative AI For Business - Kyndryl (NYSE:KD), the world’s largest technology infrastructure services provider,"
-    publishedDateTime: 2023-08-09T10:45:00Z
-    webUrl: "https://www.siliconindia.com/news/business/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprisegrade-generative-ai-for-business-nid-224644-cid-3.html"
+  - title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
+    excerpt: "Kyndryl (NYSE: KD), the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable the adopti"
+    publishedDateTime: 2023-08-09T08:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230808222504/en/Kyndryl-and-Microsoft-Collaborate-to-Speed-the-Evaluation-and-Adoption-of-Enterprise-Grade-Generative-AI-for-Business"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 31
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/Y4u32dr6.jpg"
-        width: 570
-        height: 367
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
 secured: "wL4hut8L6xIPKwzZstAV/U4NDnNvXMG0OlS3tQkhfYAns7TNA0ZDIY3ZZRGoAd09DWdOyIn4WidrsML8DzGMn/6Fx1JoTSveT6uAZnZ97ePKI86rV9I1HK5mdPsV1eywxp3HwiDygkHXMxt1Lpr3WdrCE3bKNFpfZX0xUonGTIki0AMTO26E9d0+mvYWBdv+Ftlk1jUCh5lJEY72FHn7x4nkTxQDMGGWov0XyxdLrwb3VdhuXrdOJFepiFHFLnEtDF9SrE7dtkeHdg2OlUizcbiE8m0KdgajhD+nHr4vDbl82UU0QsvGiA2YqyngcE9JQZ34ajnB8987rAc4lGYAzkATM0oeRXgqPRKvSsCk2Og=;0rR6ROJBaWx/7aP4wrpAxw=="
 ---

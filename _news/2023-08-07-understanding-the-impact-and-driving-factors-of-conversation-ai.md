@@ -23,22 +23,42 @@ topics:
   - AI
 
 related:
-  - title: "AI and Machine Learning set to drive India's $8 billion digital advertising industry, say experts"
-    excerpt: "AI and operational machine learning are expected to transform the communication sectors, including advertising and PR. These technologies have the potential to significantly impact the Indian digital advertising industry,"
-    publishedDateTime: 2023-08-07T04:07:00Z
-    webUrl: "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts-11691378452164.html"
-    ampWebUrl: "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts/amp-11691378452164.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts/amp-11691378452164.html"
+  - title: "How AI is helping airlines mitigate the climate impact of contrails"
+    excerpt: "We used AI to help airlines choose routes that are less likely to cause contrails, minimizing the environmental impact of flights."
+    publishedDateTime: 2023-08-08T19:00:00Z
+    webUrl: "https://blog.google/technology/ai/ai-airlines-contrails-climate-change/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/07/600x338/USA-STOCKS-AI-0_1691381054977_1691381085497.JPG"
-        width: 600
-        height: 338
-        isCached: true
+      name: Google
+      domain: blog.google
+    quality: 69
+  - title: "How Artificial Intelligence Is Helping Today’s Small Businesses"
+    excerpt: "More small businesses are using artificial intelligence effectively, especially as pertains to marketing functions."
+    publishedDateTime: 2023-08-09T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "10 Ways Artificial Intelligence is Already Having a Huge Impact on Business"
+    excerpt: "The realm of Artificial Intelligence (AI) is effecting a paradigm shift across multiple business sectors since OpenAI released its Large Language Model (or LLM) to the world. A close examination reveals the multifaceted manner in which AI is refashioning business in many areas."
+    publishedDateTime: 2023-08-06T12:32:00Z
+    webUrl: "https://techbullion.com/10-ways-artificial-intelligence-is-already-having-a-huge-impact-on-business/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 17
+  - title: "The Impact of Artificial Intelligence on Software Development"
+    excerpt: "Jamie Boote warns developers, architects and QA testers to remain vigilant over the use of AI in software development"
+    publishedDateTime: 2023-08-08T11:59:00Z
+    webUrl: "https://www.infosecurity-magazine.com/opinions/ai-software-development/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "YxYAC2Cvv2bybTphITtCaccOf0283yN6CmVOwHYJ+DYbkzSBSyusYkEKpRb5oLQtX7PFlWSvLpiajW0fpHRF8gT0jA/0rdX40YYZRqFDRGw/UICpEoD8NeXKKGizq1QiegkbkV8b8X7YdZfiy6GBn3W//ad7wifICXCms/92dUFgIh3NasbibLa9pt+BbIHNyxLd/txvjJKc/rcJbBGG0Sui9lgkCoNLTrBG5e8wZc3gcuS0WSCd0yDJyyswWAfCTMBBO2JcPxJKsq8dmrNl3N7F8f5WrM2YbdJDMn9J3DYcEHlLKnVRckR9SqMuuAo8wCXGhw+nK0+h4810jtNSv6/fxCzAStRNuWrkFiU0zanlMyNY5+lIa7WA/vQ1d1BbjQpeHTc1tREfigLEzEW39I1VmPYqTBxWcPdHTiDv+OvHjIcDZkCvdCjOVUSTSJY1nXoqkeEskpuVOtQoV2cq9V/X0mIqVUwR7EOjxf3A7ZeU4supN7L0O+SseQNt2aMskVN8hRIljgnHPx2LdBhAKg==;zUC6ZJKPxLzXOKo9AzQOmA=="
 ---

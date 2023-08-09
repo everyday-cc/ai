@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/disney-is-so-serious-about-using-ai-it-
 webUrl: "https://www.pcmag.com/news/disney-is-so-serious-about-using-ai-it-created-a-task-force"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Disney forms task force to study AI applications and cut costs amid Hollywood's writers and actors strike"
-    excerpt: "Disney creates task force to study AI applications across its entertainment conglomerate amid Hollywood's battle with the technology."
-    publishedDateTime: 2023-08-09T02:48:00Z
-    webUrl: "https://www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike-11691545538632.html"
-    ampWebUrl: "https://www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike/amp-11691545538632.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike/amp-11691545538632.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 42
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/09/600x338/disney_1691545679873_1691545680106.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Disney Forms Task Force to Explore Artificial Intelligence"
     excerpt: "Disney has taken a significant step towards embracing artificial intelligence (AI) by creating a task force to investigate its potential applications across its wide-ranging businesses. The company is exploring the development of AI-based solutions both in-house and through collaboration with external experts."
     publishedDateTime: 2023-08-09T00:38:00Z
@@ -72,6 +56,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Disney AI Task Force: Exploring the Marvels of Artificial Intelligence"
+    excerpt: "Disney launched its AI task force earlier this year, prior to the onset of the Writers Guild of America (WGA) strike in May. The task force comprises a team of experts dedicated to exploring the potential applications of AI within Disney’s diverse range of operations."
+    publishedDateTime: 2023-08-09T13:01:00Z
+    webUrl: "https://www.technowize.com/disney-ai-task-force-exploring-the-marvels-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Technowize
+      domain: technowize.com
+    quality: 34
   - title: "Disney sets up task force to explore AI applications"
     excerpt: "Disney has established a task force to explore artificial intelligence (AI) and its potential applications throughout the company"
     publishedDateTime: 2023-08-08T11:50:00Z
@@ -81,6 +74,15 @@ related:
       name: newsbytesapp.com
       domain: newsbytesapp.com
     quality: 19
+  - title: "Disney Forms Task Force To Study Ai Applications And Cut Costs Amid Hollywood's Writers And Actors Strike"
+    excerpt: "Walt Disney has established a task force to delve into the applications of artificial intelligence (AI) across its entertainment conglomerate, even"
+    publishedDateTime: 2023-08-09T12:32:00Z
+    webUrl: "https://menafn.com/1106816481/Disney-Forms-Task-Force-To-Study-Ai-Applications-And-Cut-Costs-Amid-Hollywoods-Writers-And-Actors-Strike"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 2
 
 secured: "phz9cUGjl7XHTmOBhJG0m0d1oOfiJx50tbmKSddd06IPnueIOQ9jTMimGs7XFWoe/mOrt5yh4nviberuOQa5psk29Ndru5xRM6Qod1pkkZBEKVy3y/t6N5IRlnl7MaUclskEimEcmd4g5jmnLz/a3iEiGkAkurpuGK82nFYJ8edT+L77JFDhC+QcW/dfI14uoNEqUVIertiRDRpiVqPC2sfR0A5AFNOgByoC8OFIvjzzphl+bQZ8TRnuiUTiRNbAx2RIw+N3MLHycCGKHikga7tMGRuD0Y/uGmlQJm3kQHD+f2+RnWqySuSQhuve5wiQsECLQfhmO9l4C2RZaubEhOGztXkgpstrc/cdLFWKRnBYD6IPYAcDwng+QGzswPHIOyWUXwua2PEOi6VmvXiu1XUO8ufj9uriwhvy7wJ+liLJeY1AVsuDv/UqPy5jMX8TAPMBCshgwg+ZZt8sy+EIJT24fdcfTPmk/yUb+IyqZTRr1wOchLDPnhyyRsRQDgAFW2Oy+XrjPAKCXl5Fy514/w==;pHK/XItJeWLONenIP+HekQ=="
 ---

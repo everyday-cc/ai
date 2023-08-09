@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Not focused on hypotheticals': PM not considering other forms of Indigenous recognition if Voice fails"
+    excerpt: "Prime Minister Anthony Albanese has warned no other forms of Indigenous recognition will be on the table if the Voice referendum fails. Anthony Albanese said the referendum failing would be a ..."
+    publishedDateTime: 2023-08-06T00:16:00Z
+    webUrl: "https://www.abc.net.au/news/2023-08-06/pm-warns-no-constitutional-indigenous-recognition-if-voice-fails/102693828"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 3
 
 secured: "dWbAQjKiZkpeuBdzdBXE8DARe+6fbelEmKvDMkITqMxq4SxXM6JVjWgd1pSR5RPOMlcDGkvPNboGr7j1iVABmOb0WJlTKI/Z6gv6SILsKG8/atmm9XwNxiTnMivY+wKONc8DskULFK+rOtsMvXXGQahWdQN/kf713e+XgPo9u6NU/m+hccqKFsgnRCJoQE3ApOFhbaJi0NDu7neatd47WqEM0txnuQmn6w5a6yEwdNFFm8sC7QNd8yFg3wBsI9PBJcbogHxtOWIui7sczRUydc3aelR+4NawFwJj2B9oOwTeFcbCOWoznr56OGBAuqfeowqvpuXcYvQA6Bgt4KAqUIBrU5Lja/dovHHK1ndiFYY=;q0rBVfNPreysklMnnnGdOw=="
 ---

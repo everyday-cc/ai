@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Talking to students about the Voice to Parliament"
+    excerpt: "Explaining a referendum on constitutional law to young people can seem a tall order, but they already have a good knowledge of the world around them"
+    publishedDateTime: 2023-08-09T14:00:00Z
+    webUrl: "https://www.theeducatoronline.com/k12/news/talking-to-students-about-the-voice-to-parliament/283016"
+    type: article
+    provider:
+      name: theeducatoronline.com
+      domain: theeducatoronline.com
+    quality: 24
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/au/130/0413_638271649991221339.png"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "New poll shows just one state voting yes for the Voice to parliament"
     excerpt: "Voters in just one state intend to vote ‘yes’ in the upcoming Indigenous Voice to parliament referendum, according to a new poll."
     publishedDateTime: 2023-08-08T19:52:00Z

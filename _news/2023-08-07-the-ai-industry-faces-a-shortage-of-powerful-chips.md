@@ -7,8 +7,8 @@ originalUrl: "https://techreport.com/news/the-ai-industry-faces-a-shortage-of-po
 webUrl: "https://techreport.com/news/the-ai-industry-faces-a-shortage-of-powerful-chips/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Tech Report
@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "How will AI impact your industry? Pew Research has answers"
-    excerpt: "As seen by the results, the industries with the least amount of exposure are those that require a physical actual human, such as a barber or a dishwasher, or that require skills that cannot be recreated by AI, such as interpersonal communication needed to be a sales manager or chief executive."
-    publishedDateTime: 2023-08-04T21:12:00Z
-    webUrl: "https://www.zdnet.com/article/how-will-ai-impact-your-industry-pew-research-has-answers/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-will-ai-impact-your-industry-pew-research-has-answers/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-will-ai-impact-your-industry-pew-research-has-answers/"
+  - title: "What the Finance Industry Tells Us About the Future of AI"
+    excerpt: "What will artificial intelligence do to industries and jobs? For a preview, look to the finance industry which has been incorporating data and algorithms for a long time, and which is always a canary in the coal mine for new technology."
+    publishedDateTime: 2023-08-09T07:15:00Z
+    webUrl: "https://hbr.org/2023/08/what-the-finance-industry-tells-us-about-the-future-of-ai"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 54
     images:
-      - url: "https://www.zdnet.com/a/img/resize/fbfc2acf029df715a70a2814a1ee5221d3edbb3a/2023/08/04/0c25e0c8-cd05-452c-be00-15fed3498805/gettyimages-1451024169.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://hbr.org/resources/images/article_assets/2023/08/Aug23_09_5277464.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The big bottleneck for AI: a shortage of powerful chips"
+    excerpt: "The crushing demand for AI has also revealed the limits of the global supply chain for powerful chips used to develop and field AI models."
+    publishedDateTime: 2023-08-06T11:02:00Z
+    webUrl: "https://www.aol.com/finance/big-bottleneck-ai-shortage-powerful-080222850.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_cnn_business_articles_764/301d06960d11b7db89fd6a6c72e4610e"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "qgTVZaadc3dszWCLJxfL9vNg7G7I0vulLZFEtUrqSpzjOG/yDWU4mm8YFJ36bKeuU9RSgESHawj8gRCUqciC5gEUO1IFlmv5ntuoikuSTNz05vtIJgl2ZC8vl/x2jczUfr79ybpkcwpLuxiKuS+34+KkeXuqCIyuZ7WJJn3NnP4ZZaXi4j9Wm0dmd11GKAsLjjb066TEx9smz54YrLUWk6VdKAOjWeUoLXVXSCvuHlQ/Ottb58cVMA9I2mpApHbinoXQQVcksWdN6sayCAuY73S2El4xvBhJLJBq9k6UcNJqK+iep7y22xBpTYM5mNODuJzbmIJu4m9S5Dkyef1UtQ5pLb7p0IvbzQxF0XGe5rNr9O8G9r8y9sEJr+viJumpOQx27yDY/R7GX/BHjjhYotcLy+17oO3/RTXAqpqJps0BFOsXABSm0rToAzm/S7vvnc+sjcY2IkCUzcK8W3o5TP/ytYDOQUrP7GjzEodQOJWboedin+TFM1ZcjaBfXuRZHb58FIHPjuBiSLEUrMtsRw==;Qwjzux13E/STBOMnnkPE8w=="

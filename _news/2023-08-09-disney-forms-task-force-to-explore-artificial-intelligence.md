@@ -53,22 +53,15 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Disney forms task force to study AI applications and cut costs amid Hollywood's writers and actors strike"
-    excerpt: "Disney creates task force to study AI applications across its entertainment conglomerate amid Hollywood's battle with the technology."
-    publishedDateTime: 2023-08-09T02:48:00Z
-    webUrl: "https://www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike-11691545538632.html"
-    ampWebUrl: "https://www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike/amp-11691545538632.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike/amp-11691545538632.html"
+  - title: "Disney AI Task Force: Exploring the Marvels of Artificial Intelligence"
+    excerpt: "Disney launched its AI task force earlier this year, prior to the onset of the Writers Guild of America (WGA) strike in May. The task force comprises a team of experts dedicated to exploring the potential applications of AI within Disney’s diverse range of operations."
+    publishedDateTime: 2023-08-09T13:01:00Z
+    webUrl: "https://www.technowize.com/disney-ai-task-force-exploring-the-marvels-of-artificial-intelligence/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 42
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/09/600x338/disney_1691545679873_1691545680106.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: Technowize
+      domain: technowize.com
+    quality: 34
   - title: "Disney sets up task force to explore AI applications"
     excerpt: "Disney has established a task force to explore artificial intelligence (AI) and its potential applications throughout the company"
     publishedDateTime: 2023-08-08T11:50:00Z
@@ -78,6 +71,15 @@ related:
       name: newsbytesapp.com
       domain: newsbytesapp.com
     quality: 19
+  - title: "Disney Forms Task Force To Study Ai Applications And Cut Costs Amid Hollywood's Writers And Actors Strike"
+    excerpt: "Walt Disney has established a task force to delve into the applications of artificial intelligence (AI) across its entertainment conglomerate, even"
+    publishedDateTime: 2023-08-09T12:32:00Z
+    webUrl: "https://menafn.com/1106816481/Disney-Forms-Task-Force-To-Study-Ai-Applications-And-Cut-Costs-Amid-Hollywoods-Writers-And-Actors-Strike"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 2
 
 secured: "vFeD9WQ8GsmJ/LLzlVuH8NrnYA7VRw6sG2zbTl8JZKBAtmeyhnaXR67BOPbh6QK1b0jU+5nJRGE9jApvTWcTr4Qe0c4NXc2Qv/fR6eFdtTKVKvt1YU5mV0ftlFQHYFFBOtAMM3l9C2w34rwIUkTILUqrQfnwxNck64Y/w3b2u/KJWkyopArYuUntSjbU9Shj0LJp0qJW+ZPK9OG3HncaaCUPfxzKW5AXw7aNikZ9WmGygxJd6i1+cfrqvfYFuOzgcp/JJx0YxZGVqnmiB1h2n2iIuHp/i7lNiHV2A7Tl/QvMnB5CVxOYfHKVtbBUevgNOhdi5lHRx5XGfW1woKPDqI2/p15/La6kM/2wku6LZV46s8Fi71jqv6oZjQOBd826wXGgMNUZF/146FO8PGa9/Tl747pMUxRJncIUOJheftOZy2DBD7sp9q/NRQOeAu9mCpRaoBxRRYCWYQFqHwS53XYvNie9i01Knf61IxJ/qvnL2wT8dOrT0YhZu7+Vj4pJqM9IKExRAV25+ilPr5D8Wg==;wr3UhyF6AXlapZ72VQS62Q=="
 ---
