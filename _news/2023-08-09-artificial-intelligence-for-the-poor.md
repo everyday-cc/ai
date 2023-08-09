@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-09T04:05:00Z
 originalUrl: "https://www.foreignaffairs.com/world/artificial-intelligence-poor"
 webUrl: "https://www.foreignaffairs.com/world/artificial-intelligence-poor"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/07/RTSFOQ2E.JPG?itok=ClwbWM-A"
@@ -105,6 +106,6 @@ related:
       domain: fox13news.com
     quality: 37
 
-secured: "9cbESaZjdX66p731C52emu+2kcV3EufewxCuQMZ0WsoKpTvLk5fPMT+BtxUI07vdY8QTicrV1OWTp8ANTwTTJ4+p2V19YI23pb+cEe8bkYGKIUyMB0OSsInPvW50Ki3886DPmcSllF3Q9NFvp3qai/KhBm59jBdkZA7INkoWZTdCxekSbGvEoWO4YP9UJQ5W2N3QlmnHCgGQrj/Nb4lCgpA7s/3KRg0tT2eN+0tvG9xZCmSVIT07rtqoUtF1cOZ49heEBo0Re93UPouZr04WwyHDJgpInEjY3wuzUXuGW1VQS7TPx0VeYxoQ2JGx/erYVq4lqU0aNnUkqjDifT1UfiKTRWhhtS0pL0/FdHJ7Bfk=;bx6xZupYK4va35EjTOReUA=="
+secured: "MZPUuUFKHI1UxD4uPiDaGxWzv9eGkmRiKjEAs31Z4GsdBTwCwOYAYwpS4oluqHcZv1tUJFpexZtvr80LbHtw5wTSHs2Zi0K/fKhyLbu1NyyjbEkk57RQaQI03CT6DsFvdegt/oQNTZ7KNs3M2zQZ1JdEYZXweMEGga74iiY/RLN5N590/jewpVuioL1tl9sOrTvxl6xKfQ+o2QivyWlQtlkU1o7/cSfhiJb1r9uYvJ50CXqi5UBHCWJZgDVaN4xr09+TSW9sqm+DTuLFSZCFnVyotWY/0HVr/wrgumb7I1WYNr73L7cWgR0QOidMg7YHliBxY7+1Olr6nJa4A97CiDesPw6oXANRWX1IAIxFwOd1iiSIJxUkRouYlRSBOPE7y9igksFAu6zxwy6Kydh4rDIrL9m5QQfmkl4exO1oN1F+uR3WsdMFrIIm/IC1klc7INGlEZC09J+r9mPzh8th0sdx+nesEpLsuXQdoCRQUP06Yv9Y1+IQ7ah2EM5Mr2H+bQOPpJbzTT8NjdRpf4GyLA==;4kDyCKLQaP5wCrNAOngxnA=="
 ---
 

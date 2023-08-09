@@ -2,6 +2,49 @@
   "page": 171,
   "value": [
     {
+      "path": "_news/2023-04-24-new-machine-learning-method-predicts-body-clock-timing-to-improve-sleep-and-health-decisions.md",
+      "title": "New machine-learning method predicts body clock timing to improve sleep and health decisions",
+      "excerpt": "A new machine-learning method could help us gauge the time of our internal body clock, helping us all make better health decisions, including when and how long to sleep.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/04/230424162854.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/04/230424162854.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake.md",
       "title": "Machine learning: As AI tools gain heft, the jobs that could be at stake",
       "excerpt": "The OpenAI study also said that around 19 per cent of US workers will see at least 50 per cent of their tasks impacted, with the qualifier that GPT exposure is likely greater for higher-income jobs, but spans across almost all industries.",
@@ -1117,49 +1160,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-brain-inspired-ai-liquid-neural-networks-power-drones.md",
-      "title": "Brain-Inspired AI Liquid Neural Networks Power Drones",
-      "excerpt": "Researchers at MIT CSAIL demonstrated how brain-inspired AI liquid neural networks enable drones to navigate unfamiliar places. The researchers performed tests to see",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-04/pic25111.jpg?itok=GPWCNftz",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -43,6 +43,22 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "Amazon nations seek common voice on climate change, urge action from industrialised world"
+    excerpt: "Read more about Amazon nations seek common voice on climate change, urge action from industrialised world on Devdiscourse"
+    publishedDateTime: 2023-08-09T05:54:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2552122-amazon-nations-seek-common-voice-on-climate-change-urge-action-from-industrialised-world"
+    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2552122-amazon-nations-seek-common-voice-on-climate-change-urge-action-from-industrialised-world?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2552122-amazon-nations-seek-common-voice-on-climate-change-urge-action-from-industrialised-world?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 35
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_05_2023_12_33_28_6896278.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Amazon nations seek common voice on climate change, urge developed world to help protect rainforest"
     excerpt: "It’s been 14 years since the eight countries of the Amazon region convened in a summit of the Amazon Cooperation Treaty Organization."
     publishedDateTime: 2023-08-09T00:57:00Z
@@ -58,6 +74,6 @@ related:
         height: 810
         isCached: true
 
-secured: "Gc0YVArMwdGbpODBTha7i6sywMu3DkT9iKXLAszfSaBZhDgYnYpFlev2YYI6ArDmY9eJqaYRTO/oGKM0JUgh19MOUqWOqe+sVW/tB9BmQt+zeganEKXxjYjJ58XvAYf3du7BTDylIU4QbRBAn01544IQ0T7eNeOapIfLTuOdLGtnG7D+Bg5k7ag1ebU5nE/HTlFjHw/nCQHSG8TsZLaRMVEUIzNZk8EmyU1qO013URYc3YewvxHOewvc1m4DMY6Zy4gsaQB8ZSIKhP13b0e/SE5YUJ7vO2Knc16WH2co0lIeIUxnefjPbGTiVuYrI4hr2fJaaCrvU05cGZL2RkmNhk//JT+TvDGaItT24oHyAZo=;99DiYivw/+D/NtA0XYx0mw=="
+secured: "UVJY8YPHcxTRxHt1uTJeh8dsrmKje/+4GhmT98lgX2t9wFpOQzExUS5T6NN1n0yeHKqYBC9kAfyJ0kFXB7CZpJ/+cogQNB6AjWjy9Fbqn/3wAoQS9pNrUOC0BIOvEwu/ma8HE7VOReTj/ZcGi/j1yNhr4YRWHobh4LXIuhlgzrzcjOI90RAI4gc/qtr8uS33vF9z4PgqaoyUWFxMf9MyFkM3yjmPXdaaw/ank8BGrao2JABT6fw8sSCGieygCvBjHALco+5PIYrmWSdQStY7ykY4Zgt6Ysz9obKrpvOMn1pq1jQ/WkP609dbxntPQeGhVnEScIBN4ubM1Pi5hh0r8XMFoKSWBCkYhEUut0E0MB1IhiMMAFlzpBpDLAwS30O3QaMya9YmLwvsymYNQ9G44YskJ4qrdthrkBYQJJ/AgfwotQ7XapzsQ82UEbW7Df45wtHJUjmbT1eCzxlsMW+tVnreZXa7F7X8kd85o/66ZNJWBKch62y1sr1NBAlIBC1YFbsTEZIoEJBPn10pfvN/GQ==;Fi/IzZrXkl6Lmdevf3AbQA=="
 ---
 

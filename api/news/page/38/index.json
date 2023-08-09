@@ -2,6 +2,49 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-07-13-the-rise-of-the-terminators-ai-robots-claim-they-could-run-earth-better-than-clouded-humans.md",
+      "title": "The rise of the Terminators? AI robots claim they could run Earth better than 'clouded' humans",
+      "excerpt": "claims the event was vital to start using robotics for good. He believes that robots may have mainstream uses within just the next five years, taking off the same way as ChatGPT and other AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12286385/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12286385/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/07/11/13/73083559-0-image-a-41_1689078496351.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-12286385/amp/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-12286385/amp/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
+      "publishedDateTime": "2023-07-12T21:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-crypto-miner-hive-digital-drops-blockchain-from-name-amid-pivot-to-ai.md",
       "title": "Crypto miner Hive Digital drops 'blockchain' from name amid pivot to AI",
       "excerpt": "The crypto mining company formerly known as Hive Blockchain Technologies has changed its name to Hive Digital Technologies, as the firm looks to capitalize on the growing AI trend.",
@@ -1084,58 +1127,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-elon-musk-launches-xai-his-new-artificial-intelligence-company.md",
-      "title": "Elon Musk Launches xAI, His New Artificial-Intelligence Company",
-      "excerpt": "Musk has been recruiting researchers to try to create a rival to OpenAI, the AI company behind the viral chatbot ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a",
-      "originalUrl": "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-815887/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

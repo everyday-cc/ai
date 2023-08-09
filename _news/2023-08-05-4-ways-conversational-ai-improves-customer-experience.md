@@ -33,6 +33,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Merkle Introduces Generative AI Powered GenCX to Revamp Customer Experiences"
+    excerpt: "Developed within dentsu's Azure OpenAI framework GenCX uses AI to analyse substantial amounts of brands' internal data."
+    publishedDateTime: 2023-08-09T05:31:00Z
+    webUrl: "https://analyticsindiamag.com/merkle-introduces-generative-ai-powered-gencx-to-revamp-customer-experiences/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/AIM-logo-black-768x334.png"
+        width: 768
+        height: 334
+        isCached: true
 
 secured: "IgZnSG2+3IojVvyztAWiv6FYa5geohzCtLenUcuD3Ud3xBrYSmjG35HPr7CuVhzl3yQw4f3cdX5tj4Fi9fGEGAwyISzhpix9bkxsI/9UEUa/5HcSqr5/pUWq1iPlkaYMkTsNna0lxg+rqx6r2874E6IuP96RYDUGTNSX9l4r33zj56/2eMXJs47Yc/JBc+Ll/pllyTn3ToVtxFaKalXypX+4nH6X447rE9nLs1zoJN9FJzpMPZqSBOG1KYkGfKurKbDaj/tULUvTcbh9OLsKK+lIOtnWGef3Dr1hzkCq6nHqkLz4A3qu5TXWCqU29nwHD7K96JOHWmqVgtexnSYN4g4wwlxG+pswAGD0ufx+/0QtU9yeoo0nZBN5+V4vnLfB19h6LaElGbEn8cc5nnPl54VcYFkF6fdzGE5gguhden9nIiku6RBsaEVVYSjgD1WXtLTpXsRmT4wEhUwiNJqAKRt9Z1e/TUB8nKvzaQvbW93Va+4vyE0f3PPBQiCjQHDIYfgmLrLanlS06GfiTpEUpA==;OumYl4/Nguy9BsLs4lL1ZA=="
 ---

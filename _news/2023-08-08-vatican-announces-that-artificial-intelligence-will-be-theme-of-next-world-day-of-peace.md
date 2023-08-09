@@ -1,24 +1,31 @@
 ---
 category: news
-title: "Vatican announces that artificial intelligence will be theme of next World Day of Peace"
-excerpt: "A statement from the Dicastery for Promoting Integral Human Development on Aug. 8 described an “urgent need” to guide the development of AI."
-publishedDateTime: 2023-08-08T15:14:00Z
-originalUrl: "https://www.catholicnewsagency.com/news/255036/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace"
-webUrl: "https://www.catholicnewsagency.com/news/255036/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace"
-ampWebUrl: "https://www.catholicnewsagency.com/amp/news/255036/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace"
-cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/255036/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace"
+title: "Vatican Announces That Artificial Intelligence Will Be Theme of Next World Day of Peace"
+excerpt: "The World Day of Peace — instituted by St. Paul VI in 1968 — is celebrated each year on Jan. 1, the solemnity of Mary, Mother of God."
+publishedDateTime: 2023-08-08T15:37:00Z
+originalUrl: "https://www.ncregister.com/cna/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace"
+webUrl: "https://www.ncregister.com/cna/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace"
+ampWebUrl: "https://www.ncregister.com/cna/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace?amp"
+cdnAmpWebUrl: "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/cna/vatican-announces-that-artificial-intelligence-will-be-theme-of-next-world-day-of-peace?amp"
 type: article
-quality: 29
-heat: 29
+quality: 51
+heat: 51
 published: false
 
 provider:
-  name: Catholic News Agency
-  domain: catholicnewsagency.com
+  name: National Catholic Register
+  domain: ncregister.com
 
 topics:
+  - AI Ethics
   - AI
 
-secured: "IPKWUQ3/ltmxO1EThY1vEW3h2oSk0u1nj/nsG1eiEmEbpXa1oHzF2g5m3BdtbbEr9npl99yePd3V8EjFNyCzDY0nIQJQqFSnep35fQJ32S8ahW/VLJa7F6h6jbSA6AcJ7ZAyeIFeeqZf7FAlsHk4za9uDbLh16lZe5km51vzOhu6fv7AUSkVr3mpNhFskukt4muWhyjXs6Yq8c1yjQAMPA43m654R7pC9gPPb6KdZQ3QbyvtMlXalOc91llOiZw5yxl0Ei0XCq2SU5/aZvQf/Nq4yLnlr0r9ECCuNxv7VzuoZxbo8s1UBB1aAA/3ubh30tNniEuG+PBaWsM9RRHbK1m1gATK2UjXPu95T6yKKu3qH7pDnmOqz7RYPftfu7WccGOcMfaN3y9P2Gq9d/lXrgkGRzjAgcwxMAowd+t63pY3o2zifjI7EtYfS4xRWaiYn3cBN14Rd8zoAUmL6186YCDsOS0mE7H8ZTiPZ5HknPZqpWCDi7Z+e6PiMmp051eOCGvMM2/fHH+5QacGuojlsg==;AsN5/a3HziYNvCaaTlDQJA=="
+images:
+  - url: "https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20210505180552_e4cb4460539d94c0f6a841fc10bb4bc5926ecff8788283287fcb380d2154f175.jpg"
+    width: 760
+    height: 507
+    isCached: true
+
+secured: "w69q9/axP8dKb2a9zjitpVVChAiuBfH4ksoAtDbTn51+HKqHRbkSWfn3TdjDgFyQazJ3J5zE4I3nOTk6rJ26cgMVxl3fSvNwLJ1oqiExQ2rvvOnvR9r5FIPLiDPx3CER88p7dqTF3tz3TZfF1UQ0Xo64PrQxYyTJZyPPkq52fOVB0XXeHDy5XYQ4CPBPhcP5cSqfuBcWwJCdTNLgley7g6rhFvH52/Ophln6YYWIBOrsTrHQfBvVXQrCIj0E54C3AE1O+US45POb/NZIG5sELqgMHYN810Iuq+eIIXtR89myPbIfoFv0A+XPUavJqcV8x4d+WRlgdjhpO8Y6ONP85O94H6g/0/SAs/MnsN8VdQU=;wx54rFXMbIUTqt0dZBoiNg=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-04-amazon-web-services-aws-revenue-topped-22-billion-q2-2023.md",
+      "title": "Amazon Web Services (AWS) revenue topped $22 billion Q2 2023",
+      "excerpt": "Amazon (AMZN) reported its Q2 2023 earnings results on Thursday evening, within which the company revealed that its Amazon Web Services (AWS) revenue topped $22 billion despite the AWS segment making less profit than the prior year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shacknews.com/article/136525/amazon-amzn-aws-revenue-22-billion",
+      "originalUrl": "https://www.shacknews.com/article/136525/amazon-amzn-aws-revenue-22-billion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/08/03/amazon-amzn-aws-revenue-22-billion_feature.JPG",
+          "width": 1289,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/136525/amazon-amzn-aws-revenue-22-billion?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/136525/amazon-amzn-aws-revenue-22-billion?amphtml=1",
+      "publishedDateTime": "2023-08-03T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles.md",
       "title": "Meta unveils new text-to-music AI tools to compete with Google's",
       "excerpt": "EnCodec is an audio codec comprised of neural networks that compress audio and reconstruct the input signal. As part of the announcement, Meta released the most improved version of Encodec that allows for higher-quality music generations with fewer artifacts, according to the release.",
@@ -1154,57 +1197,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-womans-ai-bionic-arm-is-fitted-after-tube-near-death-experience.md",
-      "title": "Woman's AI bionic arm is fitted after Tube near-death experience",
-      "excerpt": "A woman has had an AI bionic arm fitted nine months after receiving life-changing injuries at a Tube station. Sarah de Lagarde was run over by two London Underground trains at High Barnet Station in September 2022, with her arm and leg needing to be amputated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/uk-england-london-66372057",
-      "originalUrl": "https://www.bbc.com/news/av/uk-england-london-66372057",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/D822/production/_130603355_p0g40jxs.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-25-lam-is-an-underappreciated-ai-chip-play-heres-why.md",
+      "title": "Lam Is an Underappreciated AI Chip Play. Here’s Why.",
+      "excerpt": "Advanced memory technology may be an underestimated beneficiary of the increased spending on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/lam-research-stock-price-target-ed86dc56",
+      "originalUrl": "https://www.barrons.com/articles/lam-research-stock-price-target-ed86dc56",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-822582/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/lam-research-stock-price-target-ed86dc56",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lam-research-stock-price-target-ed86dc56",
+      "publishedDateTime": "2023-07-24T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-nvidia-is-dominating-and-could-unlock-300-billion-in-ai-revenue-by-2027-analyst-says.md",
       "title": "Nvidia is ‘dominating’ and could unlock $300 billion in AI revenue by 2027, analyst says",
       "excerpt": "A Mizuho analyst is feeling even more bullish on Nvidia's stock prospects as he thinks about the AI opportunities ahead of the chip giant.",
@@ -1368,50 +1411,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-16-7-blue-chip-stocks-that-ai-is-loving-in-july.md",
-      "title": "7 Blue-Chip Stocks That AI Is Loving in July",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I used Bard AI to help recommend blue-chip stocks for July. Right",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-15T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

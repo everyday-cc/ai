@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-09-blueshift-memory-announces-successful-development-of-computer-vision-ai-accelerator-chip.md",
+      "title": "Blueshift Memory announces successful development of computer vision AI accelerator chip",
+      "excerpt": "Blueshift Memory, designer of a novel proprietary high-speed memory architecture, has announced the successful completion of a 13-month R&D project to demonstrate the performance of its Cambridge Architecture™,",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/news/54566/blueshift-memory-computer-vision-ai-accelerator-chip.html",
+      "originalUrl": "https://www.design-reuse.com/news/54566/blueshift-memory-computer-vision-ai-accelerator-chip.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.designandreuse.com/news_img2/homepage54566/bb.jpg",
+          "width": 547,
+          "height": 307,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-09T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-somerset-surgeon-takes-on-deca-ironman-trial-to-fund-ai-cancer-software.md",
       "title": "Somerset surgeon takes on Deca-Ironman trial to fund AI cancer software",
       "excerpt": "Mr Gillett, who is a head-and-neck surgeon at the Royal United Hospitals (RUH) in Bath hopes to raise £10,000. He is fundraising in conjunction with RUH's trust charity RUHX to buy computer radiotherapy AI software for the new RUH Dyson cancer centre.",
@@ -61,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/markcperna/2023/08/08/these-3-skills-can-help-everyone-take-advantage-of-the-coming-ai-era/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -112,7 +156,7 @@
       "originalUrl": "https://www.zdnet.com/article/quizlet-launches-four-generative-ai-powered-tools-to-simplify-studying/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -651,7 +695,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -1174,48 +1218,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-how-to-build-more-sustainable-transportation-infrastructure.md",
-      "title": "How to build more sustainable transportation infrastructure",
-      "excerpt": "Transportation infrastructure—the networks of fixed installations that ensure safe transport of people and goods—is a critical part of modern economies.\nThe post How to build more sustainable transportation infrastructure appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/transportation-infrastructure/",
-      "originalUrl": "https://www.ibm.com/blog/transportation-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T06:35:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

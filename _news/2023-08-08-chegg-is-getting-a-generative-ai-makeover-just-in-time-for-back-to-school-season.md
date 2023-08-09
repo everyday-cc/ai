@@ -210,6 +210,20 @@ related:
         width: 480
         height: 299
         isCached: true
+  - title: "These Generative AI Startups Offer 4 Lessons For Leaders"
+    excerpt: "Here's how two generative AI startups perform on these four tests. Loora - a Tel Aviv-based Generative-AI powered English learning app - is clearly solving an important problem. A large rival taps a related market; its team has strong technical skills and a passion for the problem, and Loora is winning customers as it refines its product."
+    publishedDateTime: 2023-08-09T06:29:00Z
+    webUrl: "https://www.inc.com/peter-cohan/these-generative-ai-startups-offer-4-lessons-for-leaders.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1409790611_533074_ibbtwm.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Nvidia puts generative AI at the forefront with AI Workbench and Hugging Face partnership"
     excerpt: "As part of the collaboration, Hugging Face will offer a brand-new service, called Training Cluster as a Service. It will simplify the creation and tailoring of new custom generative AI models for enterprise customers using its platform and Nvidia DGX Cloud for infrastructure with a single click."
     publishedDateTime: 2023-08-08T16:00:00Z
@@ -252,6 +266,6 @@ related:
       domain: tmcnet.com
     quality: 13
 
-secured: "6QhUB0KyaXhBNzDZ22dHhIQu2ktsCaNUghmzIe7rUsxmN7NmVjj5joTIxVIQayH7NItPqURtmRHwO9gkj0ezB9a6M970445p6qNI2TjbT2+68hUPWQtkFglUEB042YnN637VAyOGzYIxqfzQXdhbzHFnJz1dwunsPt4iRLFamjZXGptnEJftlDfNn+qwwIX3aOdLPPrkYqYHbsJkX/MIr9teGI67gz/MZL9PXBRCXaCfgrVQvy/L1PipX95P8iS+tjkcV3qlWzznQSzpKW/LgUGHyM7MEAlz3cRVGt+tTnOS9QMKWJfdiUJQF1iHV3DEe5zVpexy5hs55a6FHHEh4sbstYDepggUu2ONIMGwPdg=;WOSaMCWKVBcZZSpV5Zdu1A=="
+secured: "q/S/Hsmm2Iq9t2xxvdXzV6G6Eszi1rp0AWXi6IEFzvhCzLz3GwfqsehcixrV93hpLfcigA3vwp7egWSZAkjlF1ohJe3ayncid14uB3E7vItPrZ9Ug4F0iJg2e6cM1un9giSz9LPrTkF661oDZza+BkYCIAKvUwMgwwtL98BIW2MRHTDNXfCjf/1Iw2ucp2Mfy2UKb3x8o2UNagVTNOd63S7ohhPwH28Cjz8UXHZaVN9Cb43ABD3t6lrT+ge+o+mXeGUaCU/ZlTm8iurRhT7K3VHcYRaHKROBNhfTNkN/U0HJHq6G+nrMzSVy73sSQbpUlQ1/EQnh6mpOHiTSnEbJeiAzIFtuwzeojNpZrdU59vZClQH4Bc+3kiJHdtIpx6ndlPYK7t4XtPDBXBY0hl7NZQCcW5Xu2LM4UWmUVu+VrvV2vpB7xbBik3jK2DEnh9/9CGtN5x9UQELceFj/xCvE0wsFrTRaoQz0xMFBXCzegBaCXLRB3Icm4Am65QHdvrdTEtk/kycKn2y38jVxZ5S+GA==;qMhRS7bAerJd9XP7nD4qiQ=="
 ---
 

@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Vital Releases Doctor-to-Patient Translator That Uses AI and LLMs to Transform Medical Jargon Into Simple, Accurate Content for Patients"
-excerpt: "Innovative new capability translates complex doctor's notes, radiologist reads, discharge summaries, test results and more into a 5th-grade reading level Vital, a leading artificial intelligence (AI)-"
-publishedDateTime: 2023-08-08T18:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/b33640234/vital-releases-doctor-to-patient-translator-that-uses-ai-and-llms-to-transform-medical-jargon-into"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/b33640234/vital-releases-doctor-to-patient-translator-that-uses-ai-and-llms-to-transform-medical-jargon-into"
-ampWebUrl: "https://www.benzinga.com/amp/content/33640234"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33640234"
+excerpt: "Vital, a leading artificial intelligence (AI)-driven digital health company, today announced the launch of its AI-powered Doctor-to-Patient Translator, designed to transform highly technical medical terminology into plain language that any patient can understand."
+publishedDateTime: 2023-08-08T19:36:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/08/9861363.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861363.htm"
 type: article
-quality: 26
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Big Tech rebounds and preps for transformative AI investments"
@@ -60,6 +52,6 @@ related:
       domain: businesstimes.com.sg
     quality: 21
 
-secured: "9NxNK/j5pR7nMxBn3z5dNtDmly4bLCvfQuTfgCYymUlZZ4OkSWGRyQMyI4JO7LrWD0TXSpAbhFeDRzgOP04SbdVMTU0ACuc6L6tlJ8EV2EX0XcgucH9rTfc9ci1MdoVUiaMLjLpPhrs92cXMmqeJUxxrBHvOypCtXalObG+jOFGkIiD+Xbz5UQvilqqDmtjh6p3Te8Ns6vuZ58Cx6inv5vKnJFA7qSIcSlLvjEHqoB2U5h0iM4XTGc0v1x0RkMNRRDSYTvsy2wkEOmftXF+X8qMjQNfq16eXXbGqDE6O4RRK+O0IbMG8SNiea3IjkV1fguSZRMWxZjxKwd8ImfZ3PeA1GpEKApHdSkXeHmeKDhs=;ThtoccbrsvfBMzT/D0W0qQ=="
+secured: "yjmP93FH5czv/ZYqAnf/ohm/bytctfzjc3NgbymFAEm8p5XNomkE9oSMF4f7Bys3KmB24GCGX1T5548qhm+wJ7ql5iqctXCD4ZMFdneOUG8lk7r5zEa5ilnWgsaABsWs8JlVXOFsW4qP3iZzfr2sfmtSDnxHnJW8adJDmS0hDEynE5gsiNQYLKZdc3s3NTn+BlLvZK8kltWp455vGkyIVRf1oKFm0GN0JhJPlzmIU9VVGWBW2Tkb6hqHiK1jG6nJYKXajINOOGofykUbo2T4aui+eqa/UTBuOkpSn6Km3cAQS7a/1MWiYHMm6t4eQeZhJPWr/9AN50y5hItS4EVmN+x0vUpLYncM2mLkcPAxDbA=;er1OWtpUL9fcbpo8bm92Ew=="
 ---
 

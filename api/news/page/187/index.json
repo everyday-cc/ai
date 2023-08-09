@@ -2,6 +2,49 @@
   "page": 187,
   "value": [
     {
+      "path": "_news/2023-04-09-thnq-brace-for-the-next-big-wave-of-artificial-intelligence.md",
+      "title": "THNQ: Brace For The Next Big Wave Of Artificial Intelligence",
+      "excerpt": "THNQ invests in companies centered on artificial intelligence development and implementation. Artificial intelligence has taken the world by storm, but many are still treading lightly as AI’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4593038-thnq-brace-for-the-next-big-wave-of-artificial-intelligence",
+      "originalUrl": "https://seekingalpha.com/article/4593038-thnq-brace-for-the-next-big-wave-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1397542920/image_1397542920.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-09T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-09-all-about-eyes-computer-vision-syndrome.md",
       "title": "All About Eyes: Computer Vision Syndrome",
       "excerpt": "One of the hallmarks of life in the 21st century is how completely surrounded and dependent we have become on technology. It’s rare to find someone that doesn’t have a cell phone, tablet, or a ...",
@@ -960,49 +1003,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-why-ai-might-not-take-your-job-or-supercharge-the-economy.md",
-      "title": "Why A.I. Might Not Take Your Job or Supercharge the Economy",
-      "excerpt": "We also discuss my mixed feelings about the calls to “pause” A.I. development, why I’m less worried about rogue A.I. systems than the incentives of the companies and countries developing A.I., the need for a “public vision” for A.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/04/07/opinion/ezra-klein-podcast-ama-april2023.html",
-      "originalUrl": "https://www.nytimes.com/2023/04/07/opinion/ezra-klein-podcast-ama-april2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

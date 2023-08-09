@@ -207,6 +207,20 @@ related:
         width: 2560
         height: 1334
         isCached: true
+  - title: "Kyndryl and Microsoft team up for generative AI"
+    excerpt: "Kyndryl and Microsoft have ramped up their ongoing partnership to focus on boosting generative artificial intelligence among customers."
+    publishedDateTime: 2023-08-09T07:51:00Z
+    webUrl: "https://www.reseller.co.nz/article/708298/kyndryl-microsoft-team-up-generative-ai/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/stephen_leonard_kyndryl.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
     excerpt: "Business Wire India HCLSoftware, a leading software provider, announced a collaboration with Microsoft to integrate Microsoft’s Azure OpenAI Serv"
     publishedDateTime: 2023-08-08T04:57:00Z
@@ -231,6 +245,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-08/04/INS_a3cd3image_story.jpg"
         width: 768
         height: 432
+        isCached: true
+  - title: "Kyndryl, Microsoft to Accelerate Adoption of Industrial-Level Generative AI for Businesses"
+    excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
+    publishedDateTime: 2023-08-09T07:09:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/32969-kyndryl-microsoft-to-accelerate-adoption-of-industrial-level-generative-ai-for-businesses"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 44
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/7b6f87b4bb595852735416341c6992bf.jpg?t=20230809_070306"
+        width: 451
+        height: 244
         isCached: true
   - title: "Microsoft says AI-powered Bing Chat will come to more mobile browsers soon, but it’ll be worse"
     excerpt: "Microsoft has revealed that it is planning to launch its AI assistant Bing Chat on third-party mobile browsers \"soon.\""

@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/fast-simon-launches-vector-s
 webUrl: "https://www.datanami.com/this-just-in/fast-simon-launches-vector-search-with-advanced-ai-for-ecommerce/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Fast Simon Launches Vector Search With Advanced AI for eCommerce"
-    excerpt: "For more information about Vector Search, visit the Fast Simon blog."
-    publishedDateTime: 2023-08-04T13:20:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/04/9859736.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "WlKrh0ZHTF8qTBefRgsNtFKG/91MiUfd8OXXjJyPQDkt7lv6NS1prjvjbsnYh1NQ/sGHPUGCunv5rMS+T0rThs+lKwRTTg2vN/avZ0butS9upGYL3nbyNhW1WIqJ2gkfyTklYOqzakQXM3F49Dz8K4pZ4GktF5HnENc0uw/L+abUePjCw8/KrvvzrTjhr5/L4jd861OZn9BmYMwtF2dmCV57uxJB9ViFDEMYrcclbz6ToLo3a9B4sCyUy0wSbrSe4jcyRfvWUHDolLxfNKSAf6f2JdaIFsw4IeVICi1XM6PhhCVbUG+AmTvJXMT48S95blWlBGEmurpLjaPIAYG9fSNLTd6Zw0X+/gwY3r6byMPYPwlPGXXtITLzAbENiml+EgpAy+JSmu6wbRHmBi+drFXXyZsIWN8feMuf2YuKlqFKRX4YssVmvTSdPWcfQoLQOg5VQv6A/FuPhPvh/k89/L50Fwd6yHCM5bYJvT8mAyIfv1a+kef0H2CgfKmW/45riVRC+sOHgRmJ+ARac+AUWA==;ROi0CmC6lcrGCMzhIyRY8w=="
 ---

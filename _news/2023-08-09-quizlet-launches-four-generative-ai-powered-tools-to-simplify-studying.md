@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/quizlet-launches-four-gener
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/quizlet-launches-four-generative-ai-powered-tools-to-simplify-studying/"
 type: article
 quality: 87
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/08/CatchRelease.jpg?resize=1200,675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Clarivate Launches Enhanced Search Powered by Generative Artificial Intelligence"
+    excerpt: "Latest iteration of patent pending platform enables life sciences and pharmaceutical companies to access insights from billions of proprietary data points LONDON, /CNW/ -- Clarivate Plc (NYSE:CLVT), a"
+    publishedDateTime: 2023-08-09T07:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33654108/clarivate-launches-enhanced-search-powered-by-generative-artificial-intelligence"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33654108"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33654108"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "K6dgabk0COBajpTtS6Kx1Zd4R/Zzmq7GdohSkL+/AqgHiButgvvMBWZSusKlsKAx8kUEuNUW1gF1J05aWze2gMFs+hEKL7kmlgxh28z+DXRJrIZq5XNJv6o70nftLcTrMQZeFPAZ4RWHSDL0qZ/YXmQKJZ8mdMY9AERi1JD64Dlyufd42luGuLS/Q/WD1Xi4SzwsGlbaD0SR4m3PG7vnyHlHqu2Hd6HycQgTMqTGZ5MeN1Fbgvm8RM3ItWChNVkFSidXG8j+qaWWgK99amMwJFCI/vf8NeXaiqFQfBHit1pugJns0Vhd0fGmkHad4sO+SWKIiWIshUi0T4HPtIOCu1D6pRu6T1+GJ1VdjAlqXxEHfzeLBYRHIW7yXqkL50PtII2eb5W2ttROA9epd/uleLFjRp1Gl/MaUElNC9BNJ+krVEBTnmpQxodYtc/iOS1Zc2ouER9+Ruywvz8HND6cAu6l3wGeQvDQ4VJDDTyFoIfLF+TVXrubKEAV3RSU+WRt6VGgbQf9+Xv9NiwttSei2Q==;JGgVjdy1479/V3eIJpdn2Q=="

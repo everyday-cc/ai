@@ -27,79 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Voice, treaty … and T-shirts: why Anthony Albanese is struggling to sidestep the referendum scare campaign"
-    excerpt: "The prime minister began his week with a joke about his Midnight Oil T-shirt – but it got less and less funny as the days went by"
-    publishedDateTime: 2023-08-04T14:00:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/aug/05/anthony-albanese-treaty-t-shirt-midnight-oil-indigenous-voice-to-parliament-referendum-no-campaign"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/aug/05/anthony-albanese-treaty-t-shirt-midnight-oil-indigenous-voice-to-parliament-referendum-no-campaign"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/aug/05/anthony-albanese-treaty-t-shirt-midnight-oil-indigenous-voice-to-parliament-referendum-no-campaign"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 41
-    images:
-      - url: "https://i.guim.co.uk/img/media/b0f4b97f3a145f3499996a4f96c935beb18ec7e3/0_539_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=f546607436ac554a005db12d4fbcecbc"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Anthony Albanese says he offered Scott Morrison 'support' on the Voice in 2019 as he flags possible dates for referendum"
-    excerpt: "Prime Minister Anthony Albanese has flagged an imminent announcement on the referendum date as he reveals he offered Scott Morrison “support” on the Voice shortly after the 2019 election."
-    publishedDateTime: 2023-08-05T23:52:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666?amp"
+  - title: "WA Premier Roger Cook shuts down claims Albanese government pressured him to ditch cultural heritage laws to save Voice"
+    excerpt: "Western Australian Premier Roger Cook has attempted to shut down speculation his decision to ditch the state’s much-maligned cultural heritage laws was dictated by the Albanese government to salvage support for the Voice."
+    publishedDateTime: 2023-08-08T04:58:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/wa-premier-roger-cook-shuts-down-claims-albanese-government-pressured-him-to-ditch-cultural-heritage-laws-to-save-voice/news-story/7ce8c2a9ebf62c1c73dcf74a810793f2"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/wa-premier-roger-cook-shuts-down-claims-albanese-government-pressured-him-to-ditch-cultural-heritage-laws-to-save-voice/news-story/7ce8c2a9ebf62c1c73dcf74a810793f2?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/wa-premier-roger-cook-shuts-down-claims-albanese-government-pressured-him-to-ditch-cultural-heritage-laws-to-save-voice/news-story/7ce8c2a9ebf62c1c73dcf74a810793f2?amp"
     type: article
     provider:
       name: Sky News Australia
       domain: skynews.com.au
-    quality: 19
+    quality: 35
     images:
-      - url: "https://content.api.news/v3/images/bin/bb28d0074528ac37ee861bffc639e01f"
+      - url: "https://content.api.news/v3/images/bin/5c0d9953d08e905225d4492405e4a8d5"
         width: 1280
         height: 720
         isCached: true
-  - title: "A 'Voice'... without 'Treaty' or 'Truth': Why Anthony Albanese isn't talking about what happens if 'Yes' wins the referendum"
-    excerpt: "Anthony Albanese has been calling for First Nations recognition and reconciliation under the collective slogan of 'Voice, Treaty, Truth' his entire adult life. In 1986, as a 23-year-old Labor activist on the rise, he signed off on a letter demanding ..."
-    publishedDateTime: 2023-08-06T00:48:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12367867/Why-Albo-scared-using-word-treaty-Voice.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12367867/amp/Why-Albo-scared-using-word-treaty-Voice.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12367867/amp/Why-Albo-scared-using-word-treaty-Voice.html"
+  - title: "Albanese hopes return to Garma reboots voice case"
+    excerpt: "After a torrid week of parliamentary debate about the voice referendum, Anthony Albanese has returned to the Garma Festival, emphasising what local Indigenous communities can achieve when their people are empowered."
+    publishedDateTime: 2023-08-04T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/editorials/albanese-hopes-return-to-garma-reboots-voice-case/news-story/f22010983362b48332009528dccabcf1"
+    ampWebUrl: "https://www.theaustralian.com.au/commentary/editorials/albanese-hopes-return-to-garma-reboots-voice-case/news-story/f22010983362b48332009528dccabcf1?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/editorials/albanese-hopes-return-to-garma-reboots-voice-case/news-story/f22010983362b48332009528dccabcf1?amp"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 17
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/08/04/08/73955145-0-image-a-26_1691132515704.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Alice Springs gripped by crime spree targeting airport, university and nursing home - as Anthony Albanese and his Voice 'Yes' campaigners enjoyed the $5,000-per-person Garma ..."
-    excerpt: "The form of constitutional recognition they are asking for is a Voice, not our sympathy, not a symbol, but a vehicle for progress,' he told the crowd. 'A practical tool to make their children's lives better. Not just something that will feel good ..."
-    publishedDateTime: 2023-08-07T11:18:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12379301/Alice-Springs-gripped-crime-spree-targeting-airport-university-nursing-home-Anthony-Albanese-Voice-Yes-campaigners-enjoyed-5-000-person-Garma-festival.html?fs=e"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12379301/amp/Alice-Springs-gripped-crime-spree-targeting-airport-university-nursing-home-Anthony-Albanese-Voice-Yes-campaigners-enjoyed-5-000-person-Garma-festival.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12379301/amp/Alice-Springs-gripped-crime-spree-targeting-airport-university-nursing-home-Anthony-Albanese-Voice-Yes-campaigners-enjoyed-5-000-person-Garma-festival.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 6
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/08/07/05/74031287-0-image-a-8_1691383525585.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Anthony Albanese ‘won’t focus on hypotheticals’ as Voice date nears"
-    excerpt: "Prime Minister Anthony Albanese has warned no other forms of recognition of Indigenous people will be on the table if the Voice referendum fails."
-    publishedDateTime: 2023-08-06T02:00:00Z
-    webUrl: "https://www.news.com.au/finance/work/leaders/anthony-albanese-wont-focus-on-hypotheticals-as-voice-date-nears/news-story/8bbb7d5caf4d5c9dc4111e52946f3bb0"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 4
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
 
 secured: "hivCS0nNtFl1v3rYmAso2vsu4Hb1I0X9sgmzD0tlNPBGCOfH8iX0GG+qWD3Eb1xQcoF9+L9X4dabsOpDwIJM9UUfLn35+CzW5UcyLrswlZWfsHGa7SFGhYPcFcOlJCug2GX3Ztp9YcCDmlRCPhkjSdqyqppQ195D0TXFIWpjwiwqofCYw5st4Le6GKwIH/AmQ7r+KxmH+NjVpImLhoH8m26iI20hYeyjwYR8+3+TxfaCR3wihiDqfv5pWtXIqz2AccRnFAsYoA9Y8q3o2R+Dg3mPCjQM/+krHGkCBmURRxJsL2uyfDivv/ZICL9FBuXo7fB9WDx6Y8QE2vUAsqIomiC+gLH4dzuQEEJNdIbpY0E=;s2a/UFjomKIkPQB+TNKEmQ=="
 ---

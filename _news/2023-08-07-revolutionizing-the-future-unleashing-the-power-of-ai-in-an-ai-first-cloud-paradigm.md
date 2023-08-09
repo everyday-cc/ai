@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 960
         isCached: true
+  - title: "Artificial Intelligence for the Poor"
+    excerpt: "Among elites in wealthy countries, a worry about artificial intelligence has taken hold: the machines will take our jobs. With the explosive popularity of ChatGPT, the remarkably lifelike chatbot, many in the West have begun to fear that it is not only truck drivers and assembly workers who are at risk of being replaced by robots but highly paid knowledge workers,"
+    publishedDateTime: 2023-08-09T04:05:00Z
+    webUrl: "https://www.foreignaffairs.com/world/artificial-intelligence-poor"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 39
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/07/RTSFOQ2E.JPG?itok=ClwbWM-A"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI as the next computing platform"
     excerpt: "The games industry requires hundreds, if not thousands, of projects every year, so the prospect of radically cutting the time and cost of creative brainstorming and prototyping is, ahem, game-changing. Add to that the increasing ability to use generative AI in software development, and the time from concept to code goes from months to days."
     publishedDateTime: 2023-08-07T14:00:00Z
@@ -96,20 +110,6 @@ related:
       name: Fox 13
       domain: fox13news.com
     quality: 37
-  - title: "Artificial Intelligence for the Poor"
-    excerpt: "Among elites in wealthy countries, a worry about artificial intelligence has taken hold: the machines will take our jobs. With the explosive popularity of ChatGPT, the remarkably lifelike chatbot, many in the West have begun to fear that it is not only truck drivers and assembly workers who are at risk of being replaced by robots but highly paid knowledge workers,"
-    publishedDateTime: 2023-08-09T04:05:00Z
-    webUrl: "https://www.foreignaffairs.com/world/artificial-intelligence-poor"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/07/RTSFOQ2E.JPG?itok=ClwbWM-A"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "o/Ec3BijL/fUvsK5Snx9cAq2J7zhscfzwD2UB4UU6+2JXp5eM+EICUs0DIh7cjYt3AAHRCXREbiuNT2qvR0bGG9bcBHQCZNHYEGkRopWu5IZjaO5ovkzkmLGNhCk1h8u+yP17M412NRg3+bIxscG6LcckjTgfZsJp148ghQoIwUCDLY5HUzLuGTBc9pUZFOLFfGNxuow7HSspxJcAO4ENaItFqWS2RGEdbA6qYw8iyyTKcSYbuSgEj48iy/NTeCLTUURq0V6O31GvnBFU8zn1GvF4MjPlj4abrTSMgDcLrTc07CoH+aMVaSyTlgsxlcA3M8xqaQ70SEgKhb69HUv8Siu1o8hDwXNTWQyWkFye2JhtzROzkPVjp4bWPhMVG+OBeDWfoT8vsFFMt4a668Oo4qI4bF2LD7fxFJyJaKz/djc8trQap3e8g9DLjdB5y7uh4jp2vZrxmV+4P6N3eIZEHIH/thJOUEmhXjJK5NVUr8ufPrr3RSYcrAEUcMKXMOsSXBMVnDuSuQBaxoABVRUHA==;RqGsEXPp5mfJImgVhA+t+Q=="
 ---

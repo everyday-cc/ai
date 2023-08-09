@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Crocker Park Deploys Innovative Security Measure with Knightscope Robot S.A.M."
-    excerpt: "Crocker Park added the cutting-edge security enhancement to its already well-established safety measures and introduced it to the public yesterday. This shopping and dining destination is deploying Knightscope's state-of-the-art robot to further ensure the safety and peace of mind for visitors,"
-    publishedDateTime: 2023-08-04T15:02:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/04/9859765.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
   - title: "Crocker Park introduces security robot; roams sidewalks at the popular shopping center"
     excerpt: "SAM means Secret Agent Man, according to Stacie Schmidt, VP of Marketing. He is a robot born in California and has been deployed in Crocker Park to augment the security measures in the shopping center. SAM is in his early testing stages, but visitors are welcome to greet him."
     publishedDateTime: 2023-08-07T18:43:00Z

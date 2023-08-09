@@ -210,6 +210,20 @@ related:
         width: 480
         height: 299
         isCached: true
+  - title: "These Generative AI Startups Offer 4 Lessons For Leaders"
+    excerpt: "Here's how two generative AI startups perform on these four tests. Loora - a Tel Aviv-based Generative-AI powered English learning app - is clearly solving an important problem. A large rival taps a related market; its team has strong technical skills and a passion for the problem, and Loora is winning customers as it refines its product."
+    publishedDateTime: 2023-08-09T06:29:00Z
+    webUrl: "https://www.inc.com/peter-cohan/these-generative-ai-startups-offer-4-lessons-for-leaders.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1409790611_533074_ibbtwm.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Nvidia puts generative AI at the forefront with AI Workbench and Hugging Face partnership"
     excerpt: "As part of the collaboration, Hugging Face will offer a brand-new service, called Training Cluster as a Service. It will simplify the creation and tailoring of new custom generative AI models for enterprise customers using its platform and Nvidia DGX Cloud for infrastructure with a single click."
     publishedDateTime: 2023-08-08T16:00:00Z

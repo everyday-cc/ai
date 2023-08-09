@@ -58,24 +58,6 @@ related:
         width: 1260
         height: 627
         isCached: true
-  - title: "Use the Amazon SageMaker and Salesforce Data Cloud integration to power your Salesforce apps with AI/ML"
-    excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. This is the second post in a series discussing the integration of Salesforce Data Cloud and Amazon SageMaker. In Part 1, we show how the Salesforce Data Cloud and Einstein Studio integration with SageMaker allows businesses"
-    publishedDateTime: 2023-08-04T13:28:06Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-the-amazon-sagemaker-and-salesforce-data-cloud-integration-to-power-your-salesforce-apps-with-ai-ml/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-  - title: "Bring your own AI using Amazon SageMaker with Salesforce Data Cloud"
-    excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. We’re excited to announce Amazon SageMaker and Salesforce Data Cloud integration. With this capability, businesses can access their Salesforce data securely with a zero-copy approach using SageMaker and use SageMaker"
-    publishedDateTime: 2023-08-04T13:27:49Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ai-using-amazon-sagemaker-with-salesforce-data-cloud/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
 
 secured: "4OUarRSN40mDzKbpKIgUN2NKJFShg56eKsQwr7X+fxX3ivgYERFhfD8Atyhx3L9NO6XLNmdUC9Yxm3lTGj8l0BZKyMkqQ4ynHYcahBxLYlBp70QFbFIFQVG5aaZ1UsGAr5mEH5//2pktiOWVxTjkOeEQ2DSm2JijzmJP1hLT8A0ACGb7ThvrCmAKsNF7nRIhGaD2+5EUN49TJTVqeCZqWA6rLBmqa9ZOMoNE2FAtrvn1lAMjWBFSWX/Yk/YNw8FIvZguaGjJ23mDUV7J0W+9DGKneY0hrz0mFwEArhFE59DJctI7SQoYj5jXNlEeyQY+pueO4COg/HtK9Bi8RAa74ZiojjAGy+u9N6/UCerud3E=;/iFWxB2p8LBBeZXo8JPORQ=="
 ---

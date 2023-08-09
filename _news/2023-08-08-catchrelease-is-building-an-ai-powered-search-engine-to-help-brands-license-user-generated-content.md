@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Clarivate Launches Enhanced Search Powered by Generative Artificial Intelligence"
+    excerpt: "Latest iteration of patent pending platform enables life sciences and pharmaceutical companies to access insights from billions of proprietary data points LONDON, /CNW/ -- Clarivate Plc (NYSE:CLVT), a"
+    publishedDateTime: 2023-08-09T07:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33654108/clarivate-launches-enhanced-search-powered-by-generative-artificial-intelligence"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33654108"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33654108"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "8wQK1l3d/zpXSLYp73spTRYxB78unZqSorHCTHIIXmRhNF4PenrEa/Cod3zWH1qtj9N03pdi4LGc8SDS0UPZ0YGf5GChXDj2meWOvCSVogzHAbtGEVf4Vu9Wv7GMVVokQR61Cv3TWt9n5Jqvc2s4lyvdXRBYyImBZtqUhO8gHz8zE+kIpGIkJ7Q88dTQgfxofZD3ahwTf4HcP7VU3od3LD9YtmW8OrC5c9w16bzA4Eu0sIjfY2JwEK/HEB6qWDdQdBHYljs67VYvMItE0uPnuPw62YEGWrxLmEC75zZ5kifTpA2Ez8vtFQzfCy2oAvCxMz9OrnP9GBGRAqApL7XdarWMQh+63hSr8BZRDHhiykE=;TiUxp/BzPQ6dH+9HjWg9uA=="
 ---

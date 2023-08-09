@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Crocker Park Deploys Innovative Security Measure with Knightscope Robot S.A.M."
-    excerpt: "Crocker Park added the cutting-edge security enhancement to its already well-established safety measures and introduced it to the public yesterday. This shopping and dining destination is deploying Knightscope's state-of-the-art robot to further ensure the safety and peace of mind for visitors,"
-    publishedDateTime: 2023-08-04T15:02:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/04/9859765.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
 
 secured: "heH2mSRVRvWCYeDpzJJAgpRRnSZLtfxD+q5QmKTI4Z/2qSgdVh3MRyzBe9uPS6MsJt+tp6PiStYin9SEHVgrEs7ZfHFp6DaRA7TgNqxyVVl1qgt2Mn642DQT1+9C95BgAsJFzm9hv59V0i0QGKQSln012JQmmhT9Bc10oQheGVYq6ZC0eKN22LspgTSsDoITYxiBKAPjkJ8vMHEkKkaC6ncGprRvnJ9OTyJukyMD706HlEfj8ztsWBSyBDpwI+P8epp3qlDScYHj1QmS3BC4yDZ9JVE9suolwfKMNeYnF3Bv+NKVZYOg7nTuoH6xJ/UqKp+w6oeqjCJ41JUyI6Yx6H6X4/a2/2Tc8YJP2IiGV9s2A4vzSSWEIUEKSldmp6v9rCq1za/RLqd7eG5PXOtUc/b58+fu5mQgCb4Hca521keE5SX3Hy9OlOsAXYSbr0QdGq1QzN66P8vj3LBXvoV6ORNa2oMv2l2K5ozDPOEluxM9aTsyT3X6muM8cyvbi4cQegD2pnu7P0zPw9nGTUnyMA==;zDXNNp8+WvTrHDCQcdG7+A=="
 ---

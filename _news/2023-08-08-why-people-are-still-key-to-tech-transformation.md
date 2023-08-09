@@ -37,22 +37,6 @@ related:
         width: 1070
         height: 580
         isCached: true
-  - title: "Vital Releases Doctor-to-Patient Translator That Uses AI and LLMs to Transform Medical Jargon Into Simple, Accurate Content for Patients"
-    excerpt: "Innovative new capability translates complex doctor's notes, radiologist reads, discharge summaries, test results and more into a 5th-grade reading level Vital, a leading artificial intelligence (AI)-"
-    publishedDateTime: 2023-08-08T18:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/b33640234/vital-releases-doctor-to-patient-translator-that-uses-ai-and-llms-to-transform-medical-jargon-into"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33640234"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33640234"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Big Tech rebounds and preps for transformative AI investments"
     excerpt: "A YEAR ago, the tech industry’s prospects looked bleak. Google’s profit dropped. Shares of Facebook’s parent company, Meta, were in free fall. Business growth at Amazon had slowed to its lowest level in two decades."
     publishedDateTime: 2023-08-06T09:37:00Z
@@ -62,6 +46,15 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 21
+  - title: "Vital Releases Doctor-to-Patient Translator That Uses AI and LLMs to Transform Medical Jargon Into Simple, Accurate Content for Patients"
+    excerpt: "Vital, a leading artificial intelligence (AI)-driven digital health company, today announced the launch of its AI-powered Doctor-to-Patient Translator, designed to transform highly technical medical terminology into plain language that any patient can understand."
+    publishedDateTime: 2023-08-08T19:36:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861363.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "mb+EA5jFHVm1Ul+1MXhD1vfEBnOIiKbTtxP6BFToZJ4d8vqrNd8fukWUBa8vJTq0M8qlP4HHvsA1V7lTDPobnX0t5CXIWXYOrT8FUpS1BmutKLcIn6m6LTmxEdzNZ1u2MCvZeNtBM1i58m4NbZXXjQDyyd2Wzvo5z6tFdbheOI8jHp6fR1z8839Blk4GPuQK4QO01aMQXuP56ZuolHX8gvTkIVDPhAjzmBrpfZ9r6Cz0QrIf8bWZAwW/eN36CD8RQ5sxRWZpH6m8GaHaLFMPfRW1GoKAv5LU3DyGjPO+FSdO7bZTvsYliA9kfd/rIhUkXDUYGw8busnCIncl3cR2Sx9Sw/Hu0FAzeEBPE6hFLJrm520e0m+UrrlInECetvG4VnC7e1y8wYOYry/DSOsWZTAYKV1vr0az6E2k2COAR8wKOvbgpDJVuv6qOSxNvOhFyNT/0XM1EoVZf3uq0jKhpgRzpah9nerj4ZZK2iPgeVeCKKDksCP+KcVdDJuTS1Trd7LVGW3RLCGRktt4VuENnQ==;s06unSWiArIcJMz+OSDPcQ=="
 ---

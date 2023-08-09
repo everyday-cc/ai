@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-data-prepar
 webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler/"
 type: article
 quality: 102
-heat: 142
+heat: 122
 published: true
 
 provider:
@@ -43,24 +43,6 @@ related:
         width: 1260
         height: 627
         isCached: true
-  - title: "Use the Amazon SageMaker and Salesforce Data Cloud integration to power your Salesforce apps with AI/ML"
-    excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. This is the second post in a series discussing the integration of Salesforce Data Cloud and Amazon SageMaker. In Part 1, we show how the Salesforce Data Cloud and Einstein Studio integration with SageMaker allows businesses"
-    publishedDateTime: 2023-08-04T13:28:06Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-the-amazon-sagemaker-and-salesforce-data-cloud-integration-to-power-your-salesforce-apps-with-ai-ml/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-  - title: "Bring your own AI using Amazon SageMaker with Salesforce Data Cloud"
-    excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. We’re excited to announce Amazon SageMaker and Salesforce Data Cloud integration. With this capability, businesses can access their Salesforce data securely with a zero-copy approach using SageMaker and use SageMaker"
-    publishedDateTime: 2023-08-04T13:27:49Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ai-using-amazon-sagemaker-with-salesforce-data-cloud/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
   - title: "Deploy thousands of model ensembles with Amazon SageMaker multi-model endpoints on GPU to minimize your hosting costs"
     excerpt: "Artificial intelligence (AI) adoption is accelerating across industries and use cases. Recent scientific breakthroughs in deep learning (DL), large language models (LLMs), and generative AI is allowing customers to use advanced state-of-the-art solutions with almost human-like performance. These complex"
     publishedDateTime: 2023-08-08T14:50:24Z
