@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/stealth-ai-startups-emerge-from-go
 webUrl: "https://www.businessinsider.com/stealth-ai-startups-emerge-from-google-deepmind-2023-7"
 type: article
 quality: 76
-heat: 96
+heat: 98
 published: true
 
 provider:

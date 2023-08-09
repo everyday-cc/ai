@@ -70,7 +70,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/Studio-Image.jpg?w=1200&strip=all"
         width: 1200
@@ -113,6 +113,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Z7yvk3xrhLhEStcqjTxHSASkc4/MaiKaaGT27fObTtKlXKeUsKjJYaij/V6NyuyoJN3H4O7eMZpGfpbM8heI2wWgvyPB9sZ0IvXhF83CdjqfpWg3lc6v0bKVrwtlVR/sDN+b5BUcgNbSyOYENJJLU9+of+v+veOS1r+zWLsXbjxKWiPjDroD4yQWo2wkPHYMuMsmRI/qVgwTRMSA4c8tokyEaPBSdzJ5IgAcpWUGVFfKArofAsp/hdeFxBZh6YzdqjnfRFFwN13CrHBNZeTARb7SjsLYynNV1SKmSp68tWVSy2AOo/41tfMZIibm9mu/5pUOiwlNqWWiX87Bfd389ZisHdvTDsPsZ9w+Qu5OHpg=;h4jeCYq5+US7tgrlmyX3Zw=="
+secured: "zeh8Jk/Qannrq4hyWHJeY59xNZQUJQMTz/0LPA79Tsy1q4VmEQf77ihfmaaavsQWKaO6EuPRdQqN7O5nwsNHORWppGE0WWUEb4UEncO5UoU2DgYUoNV451oRKjmeskC1uNF93WYQtyv23mrgakrjEk5vxIJuFARgueJTkZVXpyLdmjpcQXbgBJ3SKyOqFBsLQUSCA4jZvPoSeB6B8T4NfgIIlTrRp8wGCpF7yDqAjhnIcXyLOiNWhYA6SLVGzW0hwq5iyu3sA4ZMaS0RAzaio8elPT8NFEqSrdp7ucsaJkyl34IHpTNdWSrgyzaKd7OpWvIaJtRn6LjOCf0HurZsf/icOhHOU83+6Yn+ATda9JxCIbeRe9T2RCpYZpHfFN/hEnJd7cu94KQxiJvavhycUd8nSA2qJMjuaYjAlUGEPNO5dE/qJK5ohYfJzQcFRSzR2+EJr381bNo4iEdJnvrpg1GPbn1tg81VYf3l2ILQgATHvmwCNtWc/ZrjWZBAXo9jnq7Yj68e9yHQUAnUgQ9GTQ==;hLCmCOurxfTRBa3hfZehgQ=="
 ---
 

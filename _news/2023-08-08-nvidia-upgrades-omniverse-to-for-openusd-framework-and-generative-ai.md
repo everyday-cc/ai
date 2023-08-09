@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-08T16:00:00Z
 originalUrl: "https://venturebeat.com/ai/nvidia-upgrades-omniverse-to-for-openusd-framework-and-generative-ai/"
 webUrl: "https://venturebeat.com/ai/nvidia-upgrades-omniverse-to-for-openusd-framework-and-generative-ai/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/08/Studio-Image.jpg?w=1200&strip=all"
@@ -111,6 +112,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "KnWmMu1qkwLsbYQAUdV3ht+ox4FLiHPMOqer1Z0L3qAn3O1mtyy0ZArlOEQ+UECEDelibubjQmPKKZlC7/AEtkvhRZOwNlvqT143NkyH6hL1TscX3pjddxcg1JL7IPwcX84+uCkdramMmlIqIYXeKreRqjKh98BLnk43OoNNObFKOZenuDPYmHkhNTTtbdNHF9XxAFjZkcALILGB1Du8rI+Dys3qyy4XXtwDhQZuTqQ+s4QdtRNCE+O2xtVvIZgjSFO89l1S3v+kKcZ4M4I6/2WoubHQr2MG2bDEofY508LhrE2PcOncdkTjeBe3YCEXAHtR5W3CBq+Q4bzYE9oalRI5bKBkvvlyR5SpWvi3ERU=;5Fd2+8V/KYOpI6TH78aOJw=="
+secured: "3mOt5ngQ/RLMSe94vXWyn4yECHizXIgyqW14K2yj9WpBZy8uuw2R83Sz3DCfcUCarG3e6B3wtwNcmQlYqJSEvekWp2IWbmjDRLQXjGJAzoWbsuOoWz66vNEaZZTd6aE1EGqCFTX+wgBmNara2TnC1BEHYhO2tajxVnSlhaEhbLBVKf5y39ym+f9asC4M4GaAUC4Qi8DGuTewS4lH4DpvXsxzOBIZPfh9kF0wCuEMFx40xcdMFgMuMwr2vxUFA9BoEoXcjzhClWhr2GAyidHJMYa4A2nGNLGwEmgqOZ4q1ts1gyAg4g0w+gngcY4rYNmPggpZZoYCK/zr+a6x4m325cz90LwmfICUdkP8OY4JoNl14X3FnZsP+MGvNZf00eCpta75GGGxgpy32C4cyZcN/Gz+ybNyzkoHBexZzLhnuQgMVejydoeUCEiQeZsqHY0Aim/R70d181Il8Aax8cVoA/GaB4IfDlkokmp0ZUIggC026V2Fq/TpoQ0EgQxVLF1gHSV16DYZ8O9i9a1exh7RZg==;1VsS7EYw0z7dw2qZDm/rYg=="
 ---
 

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota, Pony.Ai to set up robotaxi JV with $139 mln investment"
-    excerpt: "Autonomous vehicle technology startup Pony.Ai on Friday said it would set up a joint venture with Japan's Toyota Motor with an investment of 1 billion yuan ($139 million) to mass produce robotaxis."
-    publishedDateTime: 2023-08-04T06:07:00Z
-    webUrl: "https://www.reuters.com/technology/toyota-chinas-ponyai-set-up-jv-with-139-mln-investment-2023-08-04/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/b4Hz6J1ik8QHWhHnLhfVga1xQ9c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TG54DV7IVNMMNEMUWJZ6ZQYQYU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Toyota, Pony.ai Team Up on Robotaxis With USD140 Million JV"
     excerpt: "Japanese auto giant Toyota Motor and Chinese autonomous driving startup Pony.ai are investing CNY1 billion (USD140 million) to set up a joint venture that will promote the large-scale roll out of unmanned taxi services across China."
     publishedDateTime: 2023-08-07T07:23:00Z

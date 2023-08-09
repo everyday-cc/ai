@@ -2,21 +2,27 @@
 category: news
 title: "Nvidia unveils new chip that will bring down cost of running ChatGPT and other AI models"
 excerpt: "Nvidia has revealed its next-generation Grace Hopper platform, featuring the world's first HBM3e processor for generative AI. The system has a single"
-publishedDateTime: 2023-08-08T17:43:00Z
-originalUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-unveils-new-chip-that-will-bring-down-cost-of-running-chatgpt-and-other-ai-models/articleshow/102546244.cms"
-webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-unveils-new-chip-that-will-bring-down-cost-of-running-chatgpt-and-other-ai-models/articleshow/102546244.cms"
+publishedDateTime: 2023-08-08T22:39:00Z
+originalUrl: "https://www.headlinestoday.in/technology/nvidia-unveils-new-chip-that-will-bring-down-cost-of-running-chatgpt-and-other-ai-models-587942910.html"
+webUrl: "https://www.headlinestoday.in/technology/nvidia-unveils-new-chip-that-will-bring-down-cost-of-running-chatgpt-and-other-ai-models-587942910.html"
 type: article
-quality: 25
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: headlinestoday
+  domain: headlinestoday.in
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://akm-img-a-in.tosshub.com/sites/headlinestoday/resources/images/headlinestoday_fb.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "Nvidia teams up with Hugging Face to offer cloud-based AI training"
@@ -65,6 +71,20 @@ related:
         width: 1200
         height: 701
         isCached: true
+  - title: "Nvidia announces AI Workbench, a new dev tool for building gen AI models on PCs"
+    excerpt: "AI Workbench provides a simple user interface that runs on the developer's machine and connects to HuggingFace, Github and Nvidia's own enterprise portal."
+    publishedDateTime: 2023-08-08T23:00:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-announces-ai-workbench-a-new-dev-tool-for-building-gen-ai-models-on-pcs/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_surrounded_by_glowing_green_holographic_code_73d4986d-4889-41b0-9899-deab01c71ff0.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Nvidia boosts its 'superchip' Grace-Hopper with faster memory for AI"
     excerpt: "Nvidia announced a desktop software program called AI Workbench to more easily containerize neural net models on local workstations to stage them for the cloud."
     publishedDateTime: 2023-08-08T19:31:00Z
@@ -106,6 +126,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nvidia Teases New Hardware, Software, and Services for AI"
+    excerpt: "The star of the show was the new Grace Hopper Superchip GH200, which NVIDIA says was \"designed from the ground up for giant-scale AI.\""
+    publishedDateTime: 2023-08-08T23:28:00Z
+    webUrl: "https://decrypt.co/151782/nvidia-grace-hopper-gh200-rtx-6000-5000"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 39
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/NVIDIA-GPU-scaled-gID_7.jpg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "NVIDIA at SIGGRAPH: DGX Integration with Hugging Face for LLM Training; Announcement of AI Workbench"
     excerpt: "At the the SIGGRAPH conference this morning in Los Angeles, NVIDIA and Hugging Face made several generative AI-related announcements, including a partnership intended to broaden access to generative AI supercomputing (NVIDIA’s DGX cloud hardware) for developers building large language models (LLMs) and other AI applications on the Hugging Face platform."
     publishedDateTime: 2023-08-08T16:02:00Z
@@ -130,6 +164,6 @@ related:
       domain: extremetech.com
     quality: 16
 
-secured: "ba254SxGv/lDIitvWxvZeUtt3ppiQK9I+bLSAAGQUyRxhdiLquiXNhxGJHScoIzByv0bb/+ok1FmrOHMbzyEjD+CrAImyOGbdaFlVa6mTn7OFW8HEPXDGDaWxca1mWV7rb6dEHChWCMLz7h2dkfHjeHJQwblVBNAjvCFnIme7Bsa4F/LPYeprpGeaSXL60d5Drlua3F/6cEKKCEsyG5KP6TL022mw7luLiE1gpOyegDTSMA31ZHMaizBMYRBlpvZSfpf7gryIb1DfUjm9tNk1J0k4KS0lUknw2BMOUsD5aplt4uxuaiiGHCFPZUoNzng8HJVXs19lCv3SQisRxw0YLQwxDpSFjOhZFXSxjQXCtNehfj1nzbCoNm2XQZtZ47Ds7pcx/6koLetK1/1j8/VNNKSl3pu2bctn/RXVBB2Tv03NBJTgfeL+bvncIva0ptwYfr+tOGHLtweX/AHqQx7eySUvQsBYPo2bnL/+l/I9pICcYiQA2eLlEn8tCz0j10K1GnhpRyBRKLI0gaP851PhA==;Jd5Rn49Ody7dNVe5u6ordA=="
+secured: "FFfWBYHJM0IpMlYJI4csv6FMF0T7t+43j9fqXMMCXJX/LxODNd6oOwYMsehF8masBspDDPUHf1fsz2Czbh0VY4DWJCOleb4IJaFhKyWsOuNjSLrDo4j2dhdIrETxtc86Nco9f8FX5FP11SmqWuN+hpwCBo7S71Gga+UUjBLzkvwGN8HK/JWq8FNr2Yn/fszXJVssxD/RarUy8m28peQfULiC+MnJekTjr5P6lk4emSAjWZAxr/OV5YOGYe/YodmMpXyMkMRE7jqzqfDbOKohjwHGx09lf20CVMaJ2Jt1gzsOhXzDJykiItw7oHW87aLhCkQYdWCqyEdOdLITapORDiQcRHIJ34apT5S4pddC2Aw=;qzcvhwvXP4XaKVTveDdxNA=="
 ---
 

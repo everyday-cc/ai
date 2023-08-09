@@ -23,6 +23,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "The Artificial Intelligence Contribution to Eating Disorders"
+    excerpt: "Artificial intelligence has an eating disorder problem. Pro-anorexia chatbots are a mere consequence of some of the best tech-funded companies not doing enough to prevent the circulation of misleading"
+    publishedDateTime: 2023-08-08T22:00:00Z
+    webUrl: "https://omaha.com/life-entertainment/nation-world/the-artificial-intelligence-contribution-to-eating-disorders/video_89389748-9c2e-55ff-88f5-8193dfb22db3.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/8/93/89389748-9c2e-55ff-88f5-8193dfb22db3/64d2830dc157a.image.png?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "Luj7B4FeoBQFhmN6z6vHqN+xDhkDJpxqI6bmh8tv7PGLrxqgzmkFRDgJfd3Ddsore7ytyrjtf9HCQ7GZmKmNfBAlZVVWwceIlbbCIbcxd7BYdlvghvJFH6g6ukeVmSfk2xkKqmKVFtnF6iR7Fndd998lpjM7Has+epUwPiS9Ns0jrNfcefqRIbFa/GZRnPijJd76GL6teWCYFYwd/OI33qbIZubhjF0RELS3V+EnimnsKLijKEnjarLTCsBTpg236tGE9D1xVWbkzh56++csvNuEiLyDH7CfUhL7u6swBcs8757EVs8EAIARWtBO3RWUplIiunNbfSdFceOp2zADZZFJI1GEEwY7+6gZa//2/dY=;BcUsXBmbtXa3X8VzsgXpUw=="
 ---
 

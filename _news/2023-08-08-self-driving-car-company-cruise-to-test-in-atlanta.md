@@ -33,6 +33,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Cruise now testing self-driving cars in Atlanta"
+    excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."
+    publishedDateTime: 2023-08-08T21:39:00Z
+    webUrl: "https://www.ajc.com/news/atlanta-news/cruise-now-testing-self-driving-cars-in-atlanta/TDNR2DPDRVCNBOK2GVB67RNXPU/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 24
+    images:
+      - url: "https://www.ajc.com/resizer/cYnOP2YAm4f3Lr1PlZArsxWGoqI=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/BAIUNG3E35DOVCQPE4YI5RQ7U4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "1MnM6cadvNE/wtSBi0fgthQJ3WZ/RJ4HAr6vFSwy2Z9rGaO7pGG7+ntbp7flrIqBPVCR7YFXo+qse+cV9Dzjbcw3fdMjKOPk8I9sFG5mGXIQkP4cGBmqmwSgT2E1c9hCrp9kKYi2FDXyDxwGY3OOM7YSEvM3tLatpAYQIxTTwmTau77LpX/qY9Zf+6+3B/76LQhnbTUSRdsPWpJzmaZKlYt2TLWEXAoWkEBhb5jDlnaY53njVSKlrwpFC4KE3BQ0sWYa3ERSJrqbw/9LTlgK9mC8wBa/JlN8seMz+KxHtmW8BdnmI8SmaxQbd9Dh7FTkmLgTIQITDOmGTIOyBUkMRS9VK2LlDcYPBp1AEbaEEv7Gs6hKblw5f+p+j4Cg6w0mcxjfrks2q2pOOA/ii+LfAVYKI3juxxPTzq+Wvp72mtdMb5LDTp5jKh79opPcdlMLgc9Ls2YMKsxFm90MGNl50F0edEtPHL26vaTEtX0yfE9ufulm96Kc0suw0JVHqqSVN/w1P3stGmug57al+F89EA==;9GpxHVCqdfH2pBVvP6rK6A=="
 ---

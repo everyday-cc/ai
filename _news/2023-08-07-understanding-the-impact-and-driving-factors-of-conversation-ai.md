@@ -39,22 +39,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "AI Roundup: Indian IT giants are investing heavily in AI skilling; AI raises ethical concerns and much more today."
-    excerpt: "Indian IT giants are investing heavily in AI skilling prominent projects come their way; AI technology amazes, but also raises ethical concerns; Huawei revives smartphone business with AI-Powered OS amid Ongoing US sanctions- this and more in our daily AI roundup. Let us take a look."
-    publishedDateTime: 2023-08-07T15:14:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/5-things-about-ai-you-may-have-missed-today-it-giants-take-to-ai-skilling-racial-bias-in-ai-tool-and-more-71691420800833.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-it-giants-take-to-ai-skilling-racial-bias-in-ai-tool-and-more-71691420800833.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-it-giants-take-to-ai-skilling-racial-bias-in-ai-tool-and-more-71691420800833.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 52
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/08/07/1600x900/Artificial_Intelligence_1691420945768_1691420946044.jpg"
-        width: 1600
-        height: 899
-        isCached: true
 
 secured: "YxYAC2Cvv2bybTphITtCaccOf0283yN6CmVOwHYJ+DYbkzSBSyusYkEKpRb5oLQtX7PFlWSvLpiajW0fpHRF8gT0jA/0rdX40YYZRqFDRGw/UICpEoD8NeXKKGizq1QiegkbkV8b8X7YdZfiy6GBn3W//ad7wifICXCms/92dUFgIh3NasbibLa9pt+BbIHNyxLd/txvjJKc/rcJbBGG0Sui9lgkCoNLTrBG5e8wZc3gcuS0WSCd0yDJyyswWAfCTMBBO2JcPxJKsq8dmrNl3N7F8f5WrM2YbdJDMn9J3DYcEHlLKnVRckR9SqMuuAo8wCXGhw+nK0+h4810jtNSv6/fxCzAStRNuWrkFiU0zanlMyNY5+lIa7WA/vQ1d1BbjQpeHTc1tREfigLEzEW39I1VmPYqTBxWcPdHTiDv+OvHjIcDZkCvdCjOVUSTSJY1nXoqkeEskpuVOtQoV2cq9V/X0mIqVUwR7EOjxf3A7ZeU4supN7L0O+SseQNt2aMskVN8hRIljgnHPx2LdBhAKg==;zUC6ZJKPxLzXOKo9AzQOmA=="
 ---

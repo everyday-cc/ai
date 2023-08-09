@@ -60,6 +60,6 @@ related:
       domain: businesstimes.com.sg
     quality: 21
 
-secured: "i5qKt7uT07bDb3B9MP7BkhaM6l871CTQpelGdY6ClyB02FMWf+59f/YFziFIO+ORJKOaSusyRIbVyO8UfhxVkYqU3kClccn9wjDS6B3tdvATEE/Ua39/0sih7Y11JjCf2FS45dZvjnFRg+BJew66v/i4/YNC7MXW5aUai9LthccGh/iFi/j12BUugg7CbAFL+0KCKchnu9JUj+a6WSrJKwbYsCsAI6mWXnuo2Ih9T2dPnlq6cUNZgURQF60SmWHBC4sS9p1bpendJd59wN4E2GWSCzvSpjjtIdo8jI4614+rPqI7BS3ApWF6mBF5Pmo8AXDSuXCOukOR/YUY/ygqpyVlfFQmcQmxcWEqizmobQQ=;AEGNyBhhUyK0bhioa53tjw=="
+secured: "77Lfm2yQOI+cequzlvN3adScL1YnNCu99Aklq9n7Yte1NB4RwKTwwWFMODXZk2FbkajQSZpdxci6MVw5+1azk/W+S/B4rw9MSlwecG1BYP8n/vj8SfCqwM4BEsnF0Znuz0j8z6Wcn2PGkiEO0jrixxQVtBbbN+JG/jp9kiL1ciN+UTLMM54OmNNloR8RXEz1iPLzT0p5oqefp8JLpRTPQV/RQJ8PkgjtQoF9Hi2TNIc60idgAXOD9D4U4wUhoLC7/qkUgOnALYxvU34bZteNOioxCDo+Lu2DzjqmHuCQ6Ztytvb9qhfJk5/lQaJqMbYVHdWi1ImkX9Hy7Wj+HX+aD2HpRTwGOKA3y7shX78RhCg=;K33F+NHjbAIu03VmzcPf+w=="
 ---
 

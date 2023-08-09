@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-softw
 webUrl: "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-software-engineering-innovation/"
 type: article
 quality: 67
-heat: 73
-published: true
+heat: 67
+published: false
 
 provider:
   name: VentureBeat

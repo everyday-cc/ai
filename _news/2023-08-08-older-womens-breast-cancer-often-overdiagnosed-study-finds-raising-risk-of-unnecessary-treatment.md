@@ -2,19 +2,19 @@
 category: news
 title: "Older women’s breast cancer often overdiagnosed, study finds, raising risk of unnecessary treatment"
 excerpt: "A recently published study found that large numbers of American women ages 70 to 85 are potentially overdiagnosed with breast cancer and therefore could receive unnecessary treatment."
-publishedDateTime: 2023-08-08T01:55:00Z
-originalUrl: "https://www.wjcl.com/article/older-women-breast-cancer-overdiagnosed/44755779"
-webUrl: "https://www.wjcl.com/article/older-women-breast-cancer-overdiagnosed/44755779"
-ampWebUrl: "https://www.wjcl.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
-cdnAmpWebUrl: "https://www-wjcl-com.cdn.ampproject.org/c/s/www.wjcl.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
+publishedDateTime: 2023-08-08T00:55:00Z
+originalUrl: "https://www.kcci.com/article/older-women-breast-cancer-overdiagnosed/44755779"
+webUrl: "https://www.kcci.com/article/older-women-breast-cancer-overdiagnosed/44755779"
+ampWebUrl: "https://www.kcci.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
+cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
 type: article
 quality: 45
 heat: 45
 published: false
 
 provider:
-  name: WJCL
-  domain: wjcl.com
+  name: KCCI Des Moines
+  domain: kcci.com
 
 topics:
   - AI in Healthcare
@@ -37,6 +37,6 @@ related:
       domain: news-medical.net
     quality: 10
 
-secured: "UkdYqRvv7CxnZ7dkMtpXu1Go7RCuOTjlkv7v/l06NOJJFRHxXLiCpdjxfkKkuf/YbrQDlVKNdzXH+Jtsd/PikJQtBHsKtshDMUuH8TlnIcjTUBK2fqBPqFcofpDJHepOfIFZhot/6xCpIwXnyheVZisF24x4r4K/d4EL/jd9yPW4Ii1fuGFtVgQpS0TMHXBYFkzEmbXH1UCDVLWR0SvNUXkNFEb7LalooBOjg2YfBoN1b0IxTAa9AWCfSWmGQtXXZy/Wy+YrE3th36qu5eHixVRFJRr6Ia7GK8IZljQid0bG4A/SeU20ZYXKeAkH/4K+XrLC6Z4tBa76nnnaK2UFWI99owW6kRTitXTf5jeHxdI=;koxcVIzWfeiBuuy2k1ztjw=="
+secured: "WT59eNpcKaewDPKVDRRz7ja+8bOFJVrKAaycHH/OfiSNJYjI8zogoOWbAews4xwYf4BiEZ0c10sIrgUeCoKaqYklFqgbhd5BnEA+bB8GK/IblEeYViqj0j74zXKXvoOUpHNFUDmnapUp1xb4GUOTOgH3mw+evvb23RGmaNksZkuAs+10cnkuDoQQTOdwycMvmootYiVsyO2ukpXI1R5aYRlJ8SiiPHre1/WF0gAPwrhYVgZxD949V4BxoplLpH/JvtBNV5Pb/JCJPdGrG22himvcQKn+Vglgzy3cx9BK+CYCoieTKSiMIx44jQib/fGa3yJvwpe1xRAnwxf+cew3lQWNgDx9w0J7/wzaf4GhG8U=;EIrcMunlCqOL6P07Utix0g=="
 ---
 

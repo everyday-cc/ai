@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificia
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -39,21 +39,7 @@ related:
       name: Google
       domain: blog.google
     quality: 69
-  - title: "4 Industries Where AI is Changing How We Do Business"
-    excerpt: "When it comes to AI disruption, these industries are ahead of the curve -- and previewing what's next elsewhere in the economy."
-    publishedDateTime: 2023-08-04T06:18:00Z
-    webUrl: "https://www.inc.com/joel-comm/4-industries-where-ai-is-changing-how-we-do-business.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1202232039_532969_bkzhsz.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
-secured: "9vg8OTeWXWCf0cEnI5D0VijCMvIB85NY1toUEbHwcx3arKwRsb/Ik6BZUZ3V2krudU1yd9YK2Du5Kyq9RCbzpoD5De+kaCTNPVMN9OWs3uVlTvm9U15tBjHnYyES888M9ffe6vtmfKJVCDBAOZJ1E7JT4mgAK8+zK3HjMiV3HCyoXpIuEjTu1WKn0MMJC6lm048i0HmY05Zspd0pk4TsAm067bdzV6eG6CyMNa+/im/Wi0xi8amF8OoAi9rJ853ZOPQSG80t46E8KvIffWIyc04Q7HIfIAxvbhfU4bmKN30SljGoGYq4l5LPZM3+JS8GkXlCs+MxWXu0E2MbEGQIA+JawBfI5b6Y+KVqRo5EFVo=;QI9ahTDcziK6V2ghBATimg=="
+secured: "DGsXoi91Rav3p0+eLa6h7jYrs5V6AHe+jnXFh3hieZWc4u+yyQ0KmD0A30HvJ/JAPjF8C9xxyzsi0E6Sj+ZHvvDpzEWHedhN1QXfZYiKYtuUU7n2xuAWNrdCwQ19s+HdTQRvGI9rQelx/MqSiGpiOrJ4JXCt94xNyHb6w6WTdia77LF1cslgKtOAcu7NKiXnxA4bcjtbInx2T8LynsTQuo7DXYpYzNjbHBGxMJYuIQzJiN+r1dGKIUYIfQpYtGwEaMHeZU3tOvB/wXNTiIYAILLnsI+yZRmySEwh5jQYDZSDvA4YOmuuyFV/h4lKAcRhfg4DBm3GznZZwyxzjjjEXfohMkbMOAjDFAcmiLOgpM9wd26P/5XUY2o5PfdThdMSRQogNZoxFvOqy1BmLfA0E2ioX0bfooUi1ytBXuS0Zj9ZwOeqNYiqd790JXbSIM7m1oSd73/ShTC4MdTX7X1fQjJtx6Vu35U1N0KwIgu6rZgxA57V+H9u9EBR1t+tHe+ohB+J32UwLG/k9Bc02YwS/g==;ePMO6aEcG1aBD+a6E/f/Ug=="
 ---
 

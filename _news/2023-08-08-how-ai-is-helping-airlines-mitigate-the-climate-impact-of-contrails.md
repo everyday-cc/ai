@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "4 Industries Where AI is Changing How We Do Business"
-    excerpt: "When it comes to AI disruption, these industries are ahead of the curve -- and previewing what's next elsewhere in the economy."
-    publishedDateTime: 2023-08-04T06:18:00Z
-    webUrl: "https://www.inc.com/joel-comm/4-industries-where-ai-is-changing-how-we-do-business.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1202232039_532969_bkzhsz.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "mK1xJiRANDI9pUZQJa5RBJb6p+tKAxnKn2ERvX6aAU/u2xysMmOH0uFmeRiBFcR+NXGk+UYX296Mg9QT8fuXlSPj1fch9VtaUai/tfA7nYH1JK2McE/tln6HyFh0jcFRFqbsO8Lnh+xMGcNHs6ONLeB0ngmRBv1R4kzb+b4k4o/HhEbBCLsfLJzOv7Cqf8b5esJOwBCIXhbxAkZo/+CmNABglk3/Y3//DN8+WS0Tq1Pq+lxNmStTk+QqYP/wqVkHUvrjr5H/KVcNGZ0ah29Gd13/qUV1G9rmBkui+cqCRR1hQwRDUzYyFh14olKseHjzHQUL1HcVtcMWIzMeun5Q2C06EqXUrsCM0PAxz1g9T1w=;1cmKLm7iVOFrsUVXbvVM8Q=="
 ---

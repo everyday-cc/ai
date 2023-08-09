@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/european-fintech-players-bracing-marke
 webUrl: "https://thenextweb.com/news/european-fintech-players-bracing-market-consolidation-across-the-market"
 type: article
 quality: 54
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
     quality: 24
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/08/FinTech-Companies-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "What Are Examples of FinTech?"
+    excerpt: "What Are Examples of FinTech? To demystify the world of FinTech, we asked ten industry leaders and financial experts to share their insights. From Monzo as an all-digital bank to crowdfunding as a modern financial tool,"
+    publishedDateTime: 2023-08-08T23:15:00Z
+    webUrl: "https://techbullion.com/what-are-examples-of-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/What-Are-Examples-of-FinTech-1000x600.jpg"
         width: 1000
         height: 600
         isCached: true

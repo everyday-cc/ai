@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/amp/"
 type: article
 quality: 94
-heat: 314
+heat: 354
 published: true
 
 provider:
@@ -88,6 +88,22 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
+  - title: "ACLU of Michigan calls on Detroit police to stop use of facial recognition technology after woman claims she was falsely accused of crime"
+    excerpt: "The latest is a Detroit woman named Porcha Woodruff, who says she was falsely arrested after the technology connected her to a carjacking case."
+    publishedDateTime: 2023-08-08T22:15:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/aclu-of-michigan-calls-on-detroit-police-to-stop-use-of-facial-recognition-technology-after-woman-claims-she-was-falsely-accused-of-crime/"
+    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/aclu-of-michigan-calls-on-detroit-police-to-stop-use-of-facial-recognition-technology-after-woman-claims-she-was-falsely-accused-of-crime/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/aclu-of-michigan-calls-on-detroit-police-to-stop-use-of-facial-recognition-technology-after-woman-claims-she-was-falsely-accused-of-crime/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 41
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/08/9a9b1483-c998-44d7-bb44-bbdb0f8dbcc6/thumbnail/1200x630/dab634bcf926ec2f907d8d3776ecb1d9/detroit-police.jpg?v=4c3eff96812a3b6c2e014b1daed33369"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Detroit woman sues city over false carjacking arrest while 8 months pregnant due to bogus facial recognition"
     excerpt: "I was scared, that was the main thing” Woodruff told The Post Sunday evening after realizing cops weren’t joking. “What is going on?”"
     publishedDateTime: 2023-08-07T01:41:00Z
@@ -204,6 +220,34 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Detroit woman sues Detroit Police Department after arrest over false facial recognition match"
+    excerpt: "There have been only six reported cases in the U.S. of facial recognition technology misidentifying a person as a suspect in a crime, and three of those have happened in the city of Detroit."
+    publishedDateTime: 2023-08-08T22:11:00Z
+    webUrl: "https://www.cbsnews.com/detroit/video/detroit-woman-sues-detroit-police-department-after-arrest-over-false-facial-recognition-match/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 28
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/08/ffb062bc-4a29-45e1-a440-af2906a6b0ef/thumbnail/1200x630/1e78891d88e1eeb8b6e58e28d7fb2ded/591f91033516cfea06122f1bdb5b4220.jpg?v=4c3eff96812a3b6c2e014b1daed33369"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Detroit Woman Files Lawsuit After Facial Recognition Misidentifies Her As A Carjacking Suspect"
+    excerpt: "Porcha Woodruff was arrested by six Detroit police officers after facial recognition software misidentified her."
+    publishedDateTime: 2023-08-08T22:00:00Z
+    webUrl: "https://www.blackenterprise.com/news-woman-sues-detroit-facial-recognition-error/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 27
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2023/08/GettyImages-1397556029-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "In every reported case where police mistakenly arrested someone using facial recognition, that person has been Black"
     excerpt: "For several years, civil liberties groups, tech experts, and activists have warned that the use of facial recognition technology will only increase racial inequities in policing. As time goes on, it is becoming even more clear that these warnings were right."
     publishedDateTime: 2023-08-06T19:41:00Z
@@ -282,6 +326,20 @@ related:
       - url: "https://www.democracynow.org/images/story/28/68428/full_hd/BooksplitV2.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Woman sues city of Detroit after being wrongfully arrested while pregnant because of facial recognition tech"
+    excerpt: "A woman who was wrongfully arrested while pregnant because of facial recognition technology is suing the city of Detroit and a police officer."
+    publishedDateTime: 2023-08-08T21:34:00Z
+    webUrl: "https://wdet.org/2023/08/08/detroit-lawsuit-facial-recognition-leads-to-wrongful-arrest/"
+    type: article
+    provider:
+      name: WDET
+      domain: wdet.org
+    quality: 20
+    images:
+      - url: "https://wdet.org/wp-content/uploads/2023/08/DPD-Police-Cars-scaled.jpg"
+        width: 2560
+        height: 1437
         isCached: true
   - title: "Woman Falsely Arrested Sues Detroit Over Facial Recognition"
     excerpt: "A woman who was eight months pregnant when faulty facial recognition technology led to her false arrest on carjacking charges is suing the city of Detroit and the police detective assigned to her case."

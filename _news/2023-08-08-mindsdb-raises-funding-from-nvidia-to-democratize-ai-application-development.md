@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 749
         isCached: true
+  - title: "Nvidia announces AI Workbench, a new dev tool for building gen AI models on PCs"
+    excerpt: "AI Workbench provides a simple user interface that runs on the developer's machine and connects to HuggingFace, Github and Nvidia's own enterprise portal."
+    publishedDateTime: 2023-08-08T23:00:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-announces-ai-workbench-a-new-dev-tool-for-building-gen-ai-models-on-pcs/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_surrounded_by_glowing_green_holographic_code_73d4986d-4889-41b0-9899-deab01c71ff0.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Nvidia boosts its 'superchip' Grace-Hopper with faster memory for AI"
     excerpt: "Nvidia announced a desktop software program called AI Workbench to more easily containerize neural net models on local workstations to stage them for the cloud."
     publishedDateTime: 2023-08-08T19:31:00Z
@@ -88,6 +102,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Nvidia unveils new chip that will bring down cost of running ChatGPT and other AI models"
+    excerpt: "Nvidia has revealed its next-generation Grace Hopper platform, featuring the world's first HBM3e processor for generative AI. The system has a single"
+    publishedDateTime: 2023-08-08T22:39:00Z
+    webUrl: "https://www.headlinestoday.in/technology/nvidia-unveils-new-chip-that-will-bring-down-cost-of-running-chatgpt-and-other-ai-models-587942910.html"
+    type: article
+    provider:
+      name: headlinestoday
+      domain: headlinestoday.in
+    quality: 45
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/sites/headlinestoday/resources/images/headlinestoday_fb.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Nvidia debuts upgraded GH200 Grace Hopper chip with high-speed memory"
     excerpt: "According to Nvidia, the new edition of the GH200 is the world’s first processor to include HBM3e memory. That’s a type of high-speed memory designed to store the data that a chip is actively processing. It’s 50% faster than HBM3, the technology used in the original version of the GH200."
     publishedDateTime: 2023-08-08T20:04:00Z
@@ -102,15 +130,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia unveils new chip that will bring down cost of running ChatGPT and other AI models"
-    excerpt: "Nvidia has revealed its next-generation Grace Hopper platform, featuring the world's first HBM3e processor for generative AI. The system has a single"
-    publishedDateTime: 2023-08-08T17:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-unveils-new-chip-that-will-bring-down-cost-of-running-chatgpt-and-other-ai-models/articleshow/102546244.cms"
+  - title: "Nvidia Teases New Hardware, Software, and Services for AI"
+    excerpt: "The star of the show was the new Grace Hopper Superchip GH200, which NVIDIA says was \"designed from the ground up for giant-scale AI.\""
+    publishedDateTime: 2023-08-08T23:28:00Z
+    webUrl: "https://decrypt.co/151782/nvidia-grace-hopper-gh200-rtx-6000-5000"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 25
+      name: decrypt
+      domain: decrypt.co
+    quality: 39
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/NVIDIA-GPU-scaled-gID_7.jpg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "NVIDIA at SIGGRAPH: DGX Integration with Hugging Face for LLM Training; Announcement of AI Workbench"
     excerpt: "At the the SIGGRAPH conference this morning in Los Angeles, NVIDIA and Hugging Face made several generative AI-related announcements, including a partnership intended to broaden access to generative AI supercomputing (NVIDIA’s DGX cloud hardware) for developers building large language models (LLMs) and other AI applications on the Hugging Face platform."
     publishedDateTime: 2023-08-08T16:02:00Z
