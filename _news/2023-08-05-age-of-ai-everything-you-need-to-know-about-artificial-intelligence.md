@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Sivi AI: Pioneering the Design Revolution With Generative AI"
-    excerpt: "In the fast-paced world of digital marketing and content creation, visuals play a pivotal role in capturing audience attention and conveying brand messages effectively. As the demand for captivating designs grows,"
-    publishedDateTime: 2023-08-07T18:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33607119/sivi-ai-pioneering-the-design-revolution-with-generative-ai"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
   - title: "What can you do when AI lies about you?"
     excerpt: "Sometimes, AI creates and spreads fiction about specific people that threatens their reputations and leaves them with few options for protection or recourse."
     publishedDateTime: 2023-08-07T13:00:00Z

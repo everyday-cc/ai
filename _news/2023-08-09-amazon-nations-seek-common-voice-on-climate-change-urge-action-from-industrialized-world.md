@@ -1,48 +1,30 @@
 ---
 category: news
 title: "Amazon nations seek common voice on climate change, urge action from industrialized world"
-excerpt: "Eight Amazon nations have called on industrialized countries to do more to help preserve the world’s largest rainforest as they meet in a major summit in Brazil to seek to chart a common course on how"
-publishedDateTime: 2023-08-09T04:29:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/amazon-nations-seek-common-voice-climate-change-urge-102123370"
-webUrl: "https://abcnews.go.com/International/wireStory/amazon-nations-seek-common-voice-climate-change-urge-102123370"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/amazon-nations-seek-common-voice-climate-change-urge-102123370"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/amazon-nations-seek-common-voice-climate-change-urge-102123370"
+excerpt: "Eight Amazon nations called on industrialized countries to do more to help preserve the world's largest rainforest as they met at a major summit in Brazil to chart a common course on how to combat climate change."
+publishedDateTime: 2023-08-09T11:09:00Z
+originalUrl: "https://www.aol.com/news/amazon-nations-seek-common-voice-040913270.html"
+webUrl: "https://www.aol.com/news/amazon-nations-seek-common-voice-040913270.html"
 type: article
-quality: 35
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://s.yimg.com/ny/api/res/1.2/soJpoTT2VW8AJ0o2yWrMnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/9e836bebffb138cf26fa9377af62efb8"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
-  - title: "Amazon nations seek common voice on climate change"
-    excerpt: "BELEM, Brazil >> Leaders from South American nations that are home to the Amazon challenged developed countries on Tuesday to do more to stop massive destruction of the world’s largest rainforest, a task they said can’t fall to just a few when the crisis has been caused by so many."
-    publishedDateTime: 2023-08-09T01:43:00Z
-    webUrl: "https://www.staradvertiser.com/2023/08/08/breaking-news/amazon-nations-seek-common-voice-on-climate-change/"
-    ampWebUrl: "https://www.staradvertiser.com/2023/08/08/breaking-news/amazon-nations-seek-common-voice-on-climate-change/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/08/08/breaking-news/amazon-nations-seek-common-voice-on-climate-change/amp/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 44
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/08/web1_14081437-086cfa98fbeb4ac5a447f1f020e0cfff.jpg"
-        width: 760
-        height: 507
-        isCached: true
   - title: "Amazon nations seek common voice on climate change, urge action from industrialised world"
     excerpt: "Read more about Amazon nations seek common voice on climate change, urge action from industrialised world on Devdiscourse"
     publishedDateTime: 2023-08-09T05:54:00Z
@@ -73,7 +55,21 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Amazon nations seek common voice on climate change"
+    excerpt: "Leaders from South American nations home to the Amazon challenged developed countries Tuesday to do more to stop massive destruction of the world's largest rainforest, a task they said can't fall to just a few when the crisis has been caused by so"
+    publishedDateTime: 2023-08-09T05:00:00Z
+    webUrl: "https://www.semissourian.com/story/3005451.html"
+    type: article
+    provider:
+      name: Southeast Missourian
+      domain: semissourian.com
+    quality: 24
+    images:
+      - url: "https://www.semissourian.com/photos/38/77/69/3877690-G.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "UVJY8YPHcxTRxHt1uTJeh8dsrmKje/+4GhmT98lgX2t9wFpOQzExUS5T6NN1n0yeHKqYBC9kAfyJ0kFXB7CZpJ/+cogQNB6AjWjy9Fbqn/3wAoQS9pNrUOC0BIOvEwu/ma8HE7VOReTj/ZcGi/j1yNhr4YRWHobh4LXIuhlgzrzcjOI90RAI4gc/qtr8uS33vF9z4PgqaoyUWFxMf9MyFkM3yjmPXdaaw/ank8BGrao2JABT6fw8sSCGieygCvBjHALco+5PIYrmWSdQStY7ykY4Zgt6Ysz9obKrpvOMn1pq1jQ/WkP609dbxntPQeGhVnEScIBN4ubM1Pi5hh0r8XMFoKSWBCkYhEUut0E0MB1IhiMMAFlzpBpDLAwS30O3QaMya9YmLwvsymYNQ9G44YskJ4qrdthrkBYQJJ/AgfwotQ7XapzsQ82UEbW7Df45wtHJUjmbT1eCzxlsMW+tVnreZXa7F7X8kd85o/66ZNJWBKch62y1sr1NBAlIBC1YFbsTEZIoEJBPn10pfvN/GQ==;Fi/IzZrXkl6Lmdevf3AbQA=="
+secured: "01KmE7ZwNzeXgW9jK58GAzwei54p7wIm8ySIQy2T1u/4wfTpCFUYFPbavI4c/x3j4gEuePQuG41TDDW0t0e2j4eOPImaqPOySPyxlrKRgGvbkYYvO87P42krrYzOvHx9SpsTeFlt1zYhvFOjNrSH1vFaofosjMAM+hAIhTN7C2y/0JTZx2qv3bcsM+7rTjKLmnnxg/GqnifiCmX3h+u34kCdVwxo8dy5Vs0VN8gculyWq4DOLftSmJnkqL2qI2t8bBYGDk2EnhonC3l78CkFaX0wmTbbS6gQfpG2wN4tW9xf+ZeN/5DUHJ8I4D19tCXdG0yimAQ6SklmdQWqHljldq8zFa5FzZSzjcAqiUBXLCc=;7eJ58XIbvo/PnknUx+SNKw=="
 ---
 

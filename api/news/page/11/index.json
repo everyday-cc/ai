@@ -2,6 +2,110 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-07-31-the-first-self-driving-car-fatality-case-put-to-rest-who-was-responsible-for-killing-a-pedestrian-in-this-case-it-was-not-the-robot.md",
+      "title": "The first self-driving car fatality case put to rest who was responsible for killing a pedestrian. In this case, it was not the robot.",
+      "excerpt": "Rafaela Vasquez, who was behind the wheel of a self-driving Uber that killed a pedestrian in 2018, pleaded guilty to endangerment on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
+      "originalUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c6e413048ff200190dc4ee?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
+      "publishedDateTime": "2023-07-30T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms.md",
+      "title": "Generative AI Exposure Widens Return Gap Between Tech And Traditional Firms",
+      "excerpt": "A new study from the National Bureau of Economic Research reveals that recent advances in generative AI are accelerating the divergence in stock market performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644899074c7bf57cf451f763/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/amp/",
+      "publishedDateTime": "2023-07-30T17:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-incheon-airport-introduces-smartpass-facial-recognition-system.md",
       "title": "Incheon airport introduces Smartpass facial recognition system",
       "excerpt": "A new biometric identification system using the facial features of travelers now substitutes for passports at Incheon International Airport, Korea's largest international air hub. The enhanced identification process started being used on July 27,",
@@ -1105,100 +1209,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-backup-driver-in-2018-uber-self-driving-crash-pleads-guilty.md",
-      "title": "Backup Driver in 2018 Uber Self-Driving Crash Pleads Guilty",
-      "excerpt": "Backup Driver in 2018 Uber Self-Driving Crash Pleads Guilty By David Shepardson (Reuters) -The backup safety driver behind the wheel of a self-driving Uber Technologies test vehicle that struck ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/us/articles/2023-07-28/backup-driver-in-2018-uber-self-driving-crash-pleads-guilty",
-      "originalUrl": "https://www.usnews.com/news/us/articles/2023-07-28/backup-driver-in-2018-uber-self-driving-crash-pleads-guilty",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-students-can-use-ai-on-applications-arizona-state-law-school-says.md",
-      "title": "Students can use AI on applications, Arizona State law school says",
-      "excerpt": "A week after The University of Michigan Law School banned the use of popular artificial intelligence tools like ChatGPT on student applications, at least one school is going in the other direction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/transactional/students-can-use-ai-applications-arizona-state-law-school-says-2023-07-28/",
-      "originalUrl": "https://www.reuters.com/legal/transactional/students-can-use-ai-applications-arizona-state-law-school-says-2023-07-28/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/b2Anx_GTiPSvepG6KWEo6YSj1bs=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PMVVTUJ5J5JXRFRVUHV5ZWIYMI.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

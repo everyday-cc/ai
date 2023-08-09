@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-09-including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon.md",
+      "title": "Including AI, ML, Coding & Robotics in school curriculum is imperative now, says CISCE head Gerry Arathoon",
+      "excerpt": "The inclusion of AI and robotics in education is imperative for preparing students for future job opportunities and fostering holistic development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/education/features/including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon-101691500052761.html",
+      "originalUrl": "https://www.hindustantimes.com/education/features/including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon-101691500052761.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hindustantimes.com/ht-img/img/2023/08/09/1600x900/AI_and_ML_in_school_curriculum__1691580240632_1691580240817.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/education/features/including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon-101691500052761-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/features/including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon-101691500052761-amp.html",
+      "publishedDateTime": "2023-08-09T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-when-ai-and-robotics-combine.md",
+      "title": "When AI and Robotics Combine",
+      "excerpt": "Drawing on advances in the commercial tech industry, military organizations are combining AI software with drone ships, planes, and tanks to create what some call “lethal autonomous weapons systems” and others “killer robots”—that is,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenation.com/article/world/when-ai-and-robotics-combine/",
+      "originalUrl": "https://www.thenation.com/article/world/when-ai-and-robotics-combine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenation.com/wp-content/uploads/2023/08/robot-weapon-AP.jpg",
+          "width": 1440,
+          "height": 907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/",
+      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/",
+      "publishedDateTime": "2023-08-09T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Nation",
+        "domain": "thenation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-skyline-robotics-to-expand-with-335m-funding-round.md",
       "title": "Skyline Robotics to expand with $3.35M funding round",
       "excerpt": "Skyline Robotics continues to build momentum adding key patents to bring Ozmo window-cleaning robots to key cities globally.",
@@ -88,49 +175,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-08-this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children.md",
-      "title": "This robot aims to introduce Artificial Intelligence to Chennai’s school-going children",
-      "excerpt": "This robot aims to bridge the distance between the children of Apollo cancer hospital and the classroom. Except, instead of blackboards and desks, the buddy robot extends a black screen with an intuitive network to those confined within the walls of the hospital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/life-and-style/travel/hthd5l/article67167638.ece/alternates/FREE_1200/IMG_0914.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece/amp/",
-      "publishedDateTime": "2023-08-08T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-08-ai-is-ruining-the-internet.md",
       "title": "AI is ruining the internet",
       "excerpt": "From way more spam to sneakier scams, AI is going to make even the most basic online tasks more annoying — and unreliable.",
@@ -139,7 +183,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -192,7 +236,7 @@
       "originalUrl": "https://www.yicaiglobal.com/news/toyota-ponyai-team-up-on-robotaxis-with-usd140-million-jv",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1333,49 +1377,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.md",
-      "title": "From robot waiters to DNA-based menus: How AI is changing the food industry",
-      "excerpt": "This technology can optimize processes in a kitchen and transform the way restaurants operate. For customers, it could mean targeted menus and pricing changes in real time",
-      "sourceUrl": null,
-      "webUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html",
-      "originalUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.english.elpais.com/resizer/MikA5DG10cupeGKdb7L3Tpv6wns=/1200x0/filters:focal(3158x1571:3168x1581)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/U6CGZ3DPCFFFXB5X6NB22RSCUI.jpg",
-          "width": 1200,
-          "height": 888,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html?outputType=amp",
-      "cdnAmpWebUrl": "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html?outputType=amp",
-      "publishedDateTime": "2023-07-29T15:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "El País in English",
-        "domain": "elpais.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

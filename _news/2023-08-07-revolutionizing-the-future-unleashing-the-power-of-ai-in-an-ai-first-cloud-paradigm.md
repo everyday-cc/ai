@@ -32,100 +32,75 @@ images:
     isCached: true
 
 related:
-  - title: "AI is ruining the internet"
-    excerpt: "From way more spam to sneakier scams, AI is going to make even the most basic online tasks more annoying — and unreliable."
-    publishedDateTime: 2023-08-08T10:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
+  - title: "How AI And ML Can Revolutionize Banks’ Signature Verification Process"
+    excerpt: "Despite increased digitization over the last decade, most organizations continue to rely on signatures as the primary method of transaction authentication."
+    publishedDateTime: 2023-08-09T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 106
     images:
-      - url: "https://i.insider.com/64cbf0930f3dff0019568fce?width=1200&format=jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d245bfa0bd804d8ede498f/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "Artificial Intelligence is already radically altering the world of case management"
-    excerpt: "Some of the brightest minds in the technologies of the future have been unusually vocal about the potential dangers of Artificial Intelligence (AI), with"
-    publishedDateTime: 2023-08-09T08:23:00Z
-    webUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/"
-    ampWebUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
-    cdnAmpWebUrl: "https://hrnews-co-uk.cdn.ampproject.org/c/s/hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
+  - title: "How AI is revolutionizing automotive sales and marketing"
+    excerpt: "As the technology continues to evolve, dealerships, marketers, and OEMs must seize the opportunities presented by AI to drive innovation."
+    publishedDateTime: 2023-08-09T09:03:00Z
+    webUrl: "https://www.cbtnews.com/how-ai-is-revolutionizing-automotive-sales-and-marketing/"
     type: article
     provider:
-      name: UK Human Resources News
-      domain: hrnews.co.uk
-    quality: 53
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 73
     images:
-      - url: "https://hrnews.co.uk/wp-content/uploads/2023/08/Image-62.png"
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/08/64308b4c3030fd96b1ab8475_Artboard-4.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Latest Insights About AI And The Law With A Keen Spotlight On The American Bar Association Remarkable Resolution 604"
+    excerpt: "Take an informative journey through the American Bar Association considerations on AI and the law, including the ABA Resolution 604 that was passed earlier this year."
+    publishedDateTime: 2023-08-09T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/09/latest-insights-about-ai-and-the-law-with-a-keen-spotlight-on-the-american-bar-association-remarkable-resolution-604/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/09/latest-insights-about-ai-and-the-law-with-a-keen-spotlight-on-the-american-bar-association-remarkable-resolution-604/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/09/latest-insights-about-ai-and-the-law-with-a-keen-spotlight-on-the-american-bar-association-remarkable-resolution-604/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d323dcc7d1559713d9d11d/0x0.jpg?format=jpg&crop=3108,2071,x134,y0,safe&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
-    excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
-    publishedDateTime: 2023-08-08T11:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pioneering-trucking-industry-learning-with-artificial-intelligence-1032528295"
+  - title: "Xiao-I Elevates Global Presence with Debut Showcase of AI Innovations at Ai4 2023 Exhibition in Las Vegas"
+    excerpt: "Xiao-I's participation at Ai4 reinforces its commitment to global expansion, international product deployment, and continuous AI innovation, all driving its continued growth trajectory. This milestone also marks Xiao-I's inaugural presentation of products and services in the U.S., showcasing innovative AI technologies to American companies."
+    publishedDateTime: 2023-08-09T09:24:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273926217/xiao-i-elevates-global-presence-with-debut-showcase-of-ai-innovations-at-ai4-2023-exhibition-in-las-vegas"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Fear Of Ai In The West Is Misdirected"
-    excerpt: "The fear of artificial intelligence is largely a Western phenomenon. It is virtually absent in Asia. In contrast, East Asia sees AI as an invaluable"
-    publishedDateTime: 2023-08-07T07:32:00Z
-    webUrl: "https://menafn.com/1106796191/Fear-Of-Ai-In-The-West-Is-Misdirected"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 22
     images:
-      - url: "https://menafn.com/updates/pr/2023-08/07/AT_da0cbimage_story.jpg"
-        width: 1200
-        height: 960
+      - url: "https://cdn.bignewsnetwork.com/cus1691469780468.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "Artificial Intelligence for the Poor"
-    excerpt: "Among elites in wealthy countries, a worry about artificial intelligence has taken hold: the machines will take our jobs. With the explosive popularity of ChatGPT, the remarkably lifelike chatbot, many in the West have begun to fear that it is not only truck drivers and assembly workers who are at risk of being replaced by robots but highly paid knowledge workers,"
-    publishedDateTime: 2023-08-09T04:05:00Z
-    webUrl: "https://www.foreignaffairs.com/world/artificial-intelligence-poor"
+  - title: "Sivi AI: Pioneering the Design Revolution With Generative AI"
+    excerpt: "In the fast-paced world of digital marketing and content creation, visuals play a pivotal role in capturing audience attention and conveying brand messages effectively. As the demand for captivating designs grows,"
+    publishedDateTime: 2023-08-07T18:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33607119/sivi-ai-pioneering-the-design-revolution-with-generative-ai"
     type: article
     provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 39
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/07/RTSFOQ2E.JPG?itok=ClwbWM-A"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI as the next computing platform"
-    excerpt: "The games industry requires hundreds, if not thousands, of projects every year, so the prospect of radically cutting the time and cost of creative brainstorming and prototyping is, ahem, game-changing. Add to that the increasing ability to use generative AI in software development, and the time from concept to code goes from months to days."
-    publishedDateTime: 2023-08-07T14:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/07/ai-next-computing-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/aibrain-geralt-pixabay.jpeg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Bringing Artificial Intelligence into the classroom"
-    excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
-    publishedDateTime: 2023-08-08T02:40:00Z
-    webUrl: "https://www.fox13news.com/video/1260378"
-    ampWebUrl: "https://www.fox13news.com/video/1260378.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1260378.amp"
-    type: article
-    provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "o/Ec3BijL/fUvsK5Snx9cAq2J7zhscfzwD2UB4UU6+2JXp5eM+EICUs0DIh7cjYt3AAHRCXREbiuNT2qvR0bGG9bcBHQCZNHYEGkRopWu5IZjaO5ovkzkmLGNhCk1h8u+yP17M412NRg3+bIxscG6LcckjTgfZsJp148ghQoIwUCDLY5HUzLuGTBc9pUZFOLFfGNxuow7HSspxJcAO4ENaItFqWS2RGEdbA6qYw8iyyTKcSYbuSgEj48iy/NTeCLTUURq0V6O31GvnBFU8zn1GvF4MjPlj4abrTSMgDcLrTc07CoH+aMVaSyTlgsxlcA3M8xqaQ70SEgKhb69HUv8Siu1o8hDwXNTWQyWkFye2JhtzROzkPVjp4bWPhMVG+OBeDWfoT8vsFFMt4a668Oo4qI4bF2LD7fxFJyJaKz/djc8trQap3e8g9DLjdB5y7uh4jp2vZrxmV+4P6N3eIZEHIH/thJOUEmhXjJK5NVUr8ufPrr3RSYcrAEUcMKXMOsSXBMVnDuSuQBaxoABVRUHA==;RqGsEXPp5mfJImgVhA+t+Q=="
 ---

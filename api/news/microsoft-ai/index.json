@@ -246,7 +246,7 @@
       "originalUrl": "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1063,24 +1063,33 @@
     {
       "path": "_news/2023-07-28-ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai.md",
       "title": "AIS Earns Eleventh Microsoft Advanced Specialization with AI and Machine Learning, Reinforcing Leadership in Azure OpenAI",
-      "excerpt": "proudly announces its attainment of the AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations, bringing their total number of ...",
+      "excerpt": "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud, proudly announces its attainment of the AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20230728545357/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20230728545357/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai",
+      "webUrl": "https://www.kentuckytoday.com/news/business/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure/article_fc81ac42-2822-5fac-a781-432ab8b786be.html",
+      "originalUrl": "https://www.kentuckytoday.com/news/business/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure/article_fc81ac42-2822-5fac-a781-432ab8b786be.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T07:13:00-07:00",
+      "publishedDateTime": "2023-07-28T07:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
+        "name": "Kentucky Today",
+        "domain": "kentuckytoday.com",
         "images": null,
         "publishers": null,
         "authors": null

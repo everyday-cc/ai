@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-02-lab-sessions-a-new-series-of-experimental-ai-collaborations.md",
+      "title": "Lab Sessions: A new series of experimental AI collaborations",
+      "excerpt": "Lab Sessions is a series of experimental AI collaborations with everyone from artists to academics, scientists to students.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/lab-sessions/",
+      "originalUrl": "https://blog.google/technology/ai/lab-sessions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LabSessions_Endcard_Still.width-1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/lab-sessions/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/lab-sessions/amp/",
+      "publishedDateTime": "2023-08-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-ai-has-finally-become-transformative.md",
+      "title": "AI Has Finally Become Transformative",
+      "excerpt": "After a decade’s worth of innovation, new models can change the world the way the internet did.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-has-finally-become-transformative-humans-scale-language-model-6a67e641",
+      "originalUrl": "https://www.wsj.com/articles/ai-has-finally-become-transformative-humans-scale-language-model-6a67e641",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-827870/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-tinder-tests-ai-photo-selection-feature-to-help-users-build-profiles.md",
       "title": "Tinder tests AI photo selection feature to help users build profiles",
       "excerpt": "Tinder is testing an AI photo selection feature that looks at a user’s photo album and selects the five most authentic ones for their profile.",
@@ -1128,93 +1231,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-machine-learning-blockchain-technology-could-help-counter-spread-of-fake-news.md",
-      "title": "Machine learning, blockchain technology could help counter spread of fake news",
-      "excerpt": "A proposed machine learning framework and expanded use of blockchain technology could help counter the spread of fake news by allowing content creators to focus on areas where the misinformation is likely to do the most public harm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230801172011.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230801172011.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-duke-health-partners-with-microsoft-to-expand-use-of-ai-in-health-care-study-responsible-use.md",
-      "title": "Duke Health partners with Microsoft to expand use of AI in health care, study responsible use",
-      "excerpt": "Artificial intelligence can do everything from writing a social media post to scouring a medical journal, and it’s becoming more common in the health care field. On",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/",
-      "originalUrl": "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cbs17.com/wp-content/uploads/sites/29/2023/03/duke-health.001-e1685671071333.jpeg?w=1280",
-          "width": 974,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/",
-      "cdnAmpWebUrl": "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/",
-      "publishedDateTime": "2023-08-01T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cbs17.com",
-        "domain": "cbs17.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

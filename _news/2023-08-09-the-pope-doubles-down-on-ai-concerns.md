@@ -41,6 +41,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Pope mulls over the ethics of AI"
+    excerpt: "We need to be a bit positive about this Pope Francis has issued a communique announcing the theme for World Day of Peace 2024 as \"Artificial Intelligence and Peace,\" emphasising the potential impact of AI on human life and calling for responsible use,"
+    publishedDateTime: 2023-08-09T10:06:00Z
+    webUrl: "https://www.fudzilla.com/news/57387-pope-mulls-over-the-ethics-of-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/bdc07d8b9bf4508ae6012e504409551c_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "MnqjJ/d9o5jqsF0pWLNLfbooow4UOS6R7BD5CKi/h6plhJ8htKB/jVlqpxDKOsaqj6s2Gjzv2jWQKGw9ie1kcEDhn8aL7LUzChhVUT0m0E19PA1cv4rf5Uv1Jr0J1XwMY2PXuz01e8crYj1HH8itvBN1aLTGdarRimnxR/C2qof5k+wQD+D5yurxd96nmY25rBRTKxi2kq//JeLGl2mdUOed2609W87XjwNCfaS2VzXqIv+wCmNciJpmn3Pa9nFv6QWawGdcGDxYNnIJoyTe39QyCORcZ/2/PMKPUeeM0npe1M2lGX+nQ6ovbFw9HRerZd+PmwN8cCs1Vb7grPAZurcCa84VppfKtjz6zPXryj8=;pVZEqOr17qQMgwiJ8slkPA=="
 ---

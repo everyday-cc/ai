@@ -2,6 +2,92 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-07-26-how-ai-is-helping-companies-meet-sustainability-goals.md",
+      "title": "How AI is helping companies meet sustainability goals",
+      "excerpt": "Discover the current and emerging use cases for AI in waste management, optimization, energy reduction and ESG reporting.\nThe post How AI is helping companies meet sustainability goals appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/",
+      "originalUrl": "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-hr-and-talent-in-the-era-of-ai.md",
+      "title": "HR and Talent in the Era of AI",
+      "excerpt": "The emergence of generative AI and foundation models has revolutionized the way every business, across industries, operates at this current inflection point. This is especially true in the HR function, which has been pushed to the forefront of the new AI era. In recent IBV research, 36% of CEOs identified",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/",
+      "originalUrl": "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-how-ai-is-revolutionising-banking-services-in-rural-areas.md",
       "title": "How AI is revolutionising banking services in rural areas",
       "excerpt": "Artificial Intelligence is emerging as a powerful tool for enhancing customer experience in the banking sector, especially for marginalized and underserved populations. AI-enabled solutions are improving accessibility and efficiency for basic banking services across",
@@ -1105,92 +1191,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-artificial-intelligence-recent-congressional-activity-and-a-look-to-the-future.md",
-      "title": "Artificial Intelligence: Recent Congressional Activity and a Look to The Future",
-      "excerpt": "In the past few months, the American public has become increasingly fixated on artificial intelligence (AI), especially generative artificial intelligence (GenAI), because of the economic and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future",
-      "originalUrl": "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/20520/AI%20Artificial%20Intel%20Heads%20Internet%20TOP%20copy_0.jpg?itok=eyeMYj6E",
-          "width": 500,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-google-rebounds-from-unprecedented-drop-in-ad-revenue-with-a-resurgence-that-pushes-stock-higher.md",
-      "title": "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher",
-      "excerpt": "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Business/wirestory_e2be119c38a4909ba2e848dbac9a9416_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
-      "publishedDateTime": "2023-07-25T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

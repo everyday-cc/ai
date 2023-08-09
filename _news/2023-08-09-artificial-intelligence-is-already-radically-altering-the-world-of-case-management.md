@@ -8,7 +8,7 @@ webUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-alter
 ampWebUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
 cdnAmpWebUrl: "https://hrnews-co-uk.cdn.ampproject.org/c/s/hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://hrnews.co.uk/wp-content/uploads/2023/08/Image-62.png"
@@ -42,22 +43,6 @@ related:
       - url: "https://i.insider.com/64cbf0930f3dff0019568fce?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Revolutionizing The Future: Unleashing The Power Of AI In An AI-First Cloud Paradigm"
-    excerpt: "To fully harness the potential of AI, a significant transformation of cloud infrastructure is necessary to handle AI workloads."
-    publishedDateTime: 2023-08-07T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd52914684645a13364b30/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 754
         isCached: true
   - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
     excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
@@ -122,6 +107,6 @@ related:
       domain: fox13news.com
     quality: 37
 
-secured: "aPCLSOEHrCHwl3Msh2zaUooqGwn30Z8T4HLrBjmu/03BO0AQvDbGsAUfQSjSY4oRyCUqutjrJwXbf1nhjYsv3loj/fhbubtnrceeaq0iF7/Qov1g4F0jrZcbeoJLUAkCRBxFn/iR/zQB/eANd/a8JeVpzBqrBBK3mEUGYLppMDLzR8eEkJkw85UURXAnuZj6nw9n0/YfLuIbudTUXsEPXpgHg75dr8kmbYSL7Dr6koQ/S79Qqh3Z964vwJGBYGu92ScGcdIlqYqxlFJH1J+PiU96Z3/hUbvjRPeEglFBeJt83egJRCsM/zVsEkcrcVVRO4f4wKepDSwIqt+BWyg/H1RVu0PhTty6eni0hZ9QqB0=;y/odjmhXJQq4GmE7l8NvAw=="
+secured: "A5ggZqFD1BeLwkm+kAAZ6R0ApBtE4lJhiXqFzWbAv8vnRnufdnHYcfG31tF33odIjndmbk2ZQjwYJqr4BhSk5jyx4GjqzZzeb2RvNM5kFdSFKC4wOAFGepMC/2DZsW/atcuHgnKStgtgMcuMwSdpI1VDdGMNtSWzaJM+PizwDlbjkI3E9QDx/EEMyOVlaslYJ7UrKZ+AtiBcLpHSuNaOWMG5nIs8RheeYgTG6Z5J+sAbECR+HE4vvBP/FaI1bQjJomTuh/f+GUUtsIHFfvxpJ8Wwsu7axziLc5VS8XZ6ojDcB22D+hKbdw51fdwX1c+9frFkfjotRHIs8KqhUo3s3p39MYTRi5wKyoaCFR41DzDWDhAb/WGtSa+cVMt3WS4pLr7aa7s/kIVzLp51DCuVxjWwaJ2Ds4BjoCK6yeZzUG85crRXyBhuZn+J3GVNGeJt6akc2HxpX8DxQSJ5G+gGsc4EjCsreguAIihIkbto9dHClffvAplw8oqHlNwWlal3ewYgyB8kuIQlpOGZVXZt9g==;LIkH/zESYt4jh8d1746atg=="
 ---
 

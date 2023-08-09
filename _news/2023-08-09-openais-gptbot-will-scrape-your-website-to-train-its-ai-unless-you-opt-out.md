@@ -68,6 +68,17 @@ related:
         width: 850
         height: 347
         isCached: true
+  - title: "Artificial Intelligence: OpenAI’s Revolutionary Web Crawling Bot"
+    excerpt: "OpenAI's advancements with GPTBot, its role in shaping the future AI models like GPT-5, and the company's dedication to navigating the challenges of technology and ethics in the AI industry."
+    publishedDateTime: 2023-08-09T11:46:00Z
+    webUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/"
+    ampWebUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 52
   - title: "OpenAI's Former Domain AI.com Now Directs to Elon Musk's AI Company"
     excerpt: "The domain AI.com once took users to OpenAI's ChatGPT. Now, it's apparently changed hands, and redirects to Elon Musk's AI project, xAI."
     publishedDateTime: 2023-08-07T08:06:00Z
@@ -95,6 +106,20 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/3e2e125cd1432536421d9fb1f67f3c8f.jpg?t=20230807_013039"
         width: 752
         height: 408
+        isCached: true
+  - title: "OpenAI Shoots To No. 1 Spot On Private Cloud Startup Ranking, Underscoring AI’s Sudden Ascendency"
+    excerpt: "OpenAI’s rise to the top of the ranking in Bessemer's Cloud 100 cohort underscores AI’s shockingly fast ascendency in the tech world."
+    publishedDateTime: 2023-08-09T11:00:00Z
+    webUrl: "https://news.crunchbase.com/cloud/bessemer-2023-private-cloud-startup-ranking-openai-anthropic/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 24
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Mary-DOnofrio-300x277.jpeg"
+        width: 300
+        height: 277
         isCached: true
 
 secured: "2w+3lNbrWRqhsZlQWT7oGDUoMIcnXHNinzdJzf4OJ1aCq8D1BGv9zzWByS5s9BCmYGTyJWW4Qy2foM0IavANcdzHzn4E8AdR9m5jDqhcQXtEfb7HXnBQPfQtaTsv/hBDqegm69+2jqeiCNuV0Kf+U6sVWxqvGhc6oA9m2YS0Vq6akit4+kdUzuKBwZcWEK+k1YSFDUcRLn8u7GxumrRWiAd9Q85bqPG1uhU099XzadqxBOS3p7/DqPxmqoV+3/0LsCe3b8L7KzdoyXMIB120FL1uiLDe4cyrl+KnjNXdVj+br+126YjN1r4J7fezFJ2v+CRUBAScpqEHmXgkXomsd/egk2MJ75M8J9q+TVR+T65nh0blokfkhjUIDM1oNZvALLRyVYfBQ6QWLRTh80nyyJInTjgTh+kVILSTnWQr6PsFfUYa3Ofyyp8OcvX0PR+g++sorS+Ytdtu4k/i4FcYG+gojl/Qt5o4DW+huoyNt81y0F1SFuF+HpLD/TmMj57DKDwBmWcqU8KEZhF0Wf92hw==;GvZ3xkbveD072/jhf2eCpg=="

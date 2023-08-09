@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/news/cities/chennai/this-robot-aims-to-intr
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece/amp/"
 type: article
 quality: 81
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hindu
@@ -27,24 +27,73 @@ images:
     isCached: true
 
 related:
-  - title: "The 3 Best AI Chip Stocks to Buy in August"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Until the trend fails, chip stocks should remain in focus. Throughout 2023,"
-    publishedDateTime: 2023-08-08T19:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-in-august-1032530506"
+  - title: "When AI and Robotics Combine"
+    excerpt: "Drawing on advances in the commercial tech industry, military organizations are combining AI software with drone ships, planes, and tanks to create what some call “lethal autonomous weapons systems” and others “killer robots”—that is,"
+    publishedDateTime: 2023-08-09T09:30:00Z
+    webUrl: "https://www.thenation.com/article/world/when-ai-and-robotics-combine/"
+    ampWebUrl: "https://www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "Toyota, Pony.ai plan to mass produce robotaxis in China"
-    excerpt: "Toyota and partner Pony.ai are planning to mass produce robotaxis in China, setting up a venture this year which will build cars that employ the startup's autonomous driving technology and ride-hailing services."
-    publishedDateTime: 2023-08-04T19:51:00Z
-    webUrl: "https://www.autonews.com/china/toyota-ponyai-plan-mass-produce-robotaxis-china"
+      name: The Nation
+      domain: thenation.com
+    quality: 89
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2023/08/robot-weapon-AP.jpg"
+        width: 1440
+        height: 907
+        isCached: true
+  - title: "AI Service Robotics - Asia"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$1.65bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.42%, resulting in a market volume of US$4 ..."
+    publishedDateTime: 2023-08-05T08:36:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/asia"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 34
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Abu Dhabi's artificial intelligence university establishes dedicated robotics & computer science ..."
+    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate"
+    publishedDateTime: 2023-08-07T17:37:00Z
+    webUrl: "https://www.businessghana.com/site/news/General/291437/Abu-Dhabi&"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 56
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-08-07-16502801.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Meta unveils AI audio and music generator"
+    excerpt: "Meta’s AudioCraft is made up of three separate AI models: MusicGen, AudioGen and EnCodec. MusicGen exists for music generation and was trained with “Meta-owned” and specifically licensed music, while AudioGen specialises in audio generation and was trained on public sound effects."
+    publishedDateTime: 2023-08-08T03:22:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/meta-unveils-ai-audio-and-music-generator-.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/woman%20creating%20music.jpg"
+        width: 999
+        height: 562
+        isCached: true
+  - title: "'The Bell Labs of AI and robotics:' Boston Dynamics founder Marc Raibert discusses AI Institute"
+    excerpt: "In an exclusive interview, Boston Dynamics founder Marc Raibert discusses how the AI Institute is keeping its head down on recruiting and R&D — as far as possible from the commercialization focus of its namesake company."
+    publishedDateTime: 2023-08-09T09:26:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2023/08/09/marc-raibert-boston-dynamics-robotics-ai-institute.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
 
 secured: "SFVlu88Xnsn6Ohz0MBD3kwyv0KyYXb0jfHat0JYN49Qy46zOb3Zy4BClzNIV2vdeyTjEEqHrWsPey4aTHtFTll+dy0U6rmXaSRNXvTcc74srmOtL+orD15mSZbVZ3frM6FUrw7W9WlzAAwhUGJkXPS3dHvfMQlNvWdgue+Ah1JhFrXTFLyxaghrrhYxj+7L+0wBZAVQ/wum3IJiqI21Db61blLLjxccW1+WTDtN306dME35Eyn8h+tx0Y34vuUHh+juKr4bSyLHEuZDUMsllthS2M/BgwTRyoyR5dMt71Coh30fqKvG0C0VLkZyk22ZVaqi9pZDi3jRVcNGP0jbEvTHg4E+PRQVVNHwI+jFCNCc+roS+WLIMIOAWpqTQpROATt65QVZ9HidpDzXH2Jsfiz/B+J7AKcIP7sdAflK4B6kUyQt2DMT1DXtYp8gOkffi5n2W3mxBx2LylUILaWOAaoS0dJniLIx0yggWSCmV8f3VtC4O+ERZ16eZRfYVwXKnG67Ytb2650c0xa88HOcY2g==;nduoEWQN6uZcHS7xJ9+55g=="
 ---

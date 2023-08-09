@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-08-01-can-we-regulate-ai-without-stifling-innovation-heres-what-experts-think.md",
+      "title": "Can we regulate AI without stifling innovation? Here’s what experts think",
+      "excerpt": "FINITE organized a roundtable on AI regulation and innovation. Check out what experts said about keeping the right balance.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/can-we-regulate-ai-without-stifling-innovation-heres-what-experts-think",
+      "originalUrl": "https://thenextweb.com/news/can-we-regulate-ai-without-stifling-innovation-heres-what-experts-think",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FAdd-a-heading-2.jpg&signature=396ff275a31cab7c281c4aec3342d54f",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-how-foundation-models-and-data-stores-unlock-the-business-potential-of-generative-ai.md",
+      "title": "How foundation models and data stores unlock the business potential of generative AI",
+      "excerpt": "Together with data stores, foundation models make it possible to create and customize generative AI tools for organizations across industries\nThe post How foundation models and data stores unlock the business potential of generative AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-foundation-models-and-data-stores-unlock-the-business-potential-of-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/how-foundation-models-and-data-stores-unlock-the-business-potential-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 232,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-flapmax-partners-intel-driving-ai-innovation-in-africa.md",
       "title": "Flapmax Partners Intel: Driving AI Innovation in Africa",
       "excerpt": "Flapmax, a leading artificial intelligence (AI) company, has recently announced a strategic partnership with Intel.",
@@ -1114,100 +1209,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-3-reasons-artificial-intelligence-ai-stocks-may-be-in-for-a-rough-2024.md",
-      "title": "3 Reasons Artificial Intelligence (AI) Stocks May Be In for a Rough 2024",
-      "excerpt": "3 Reasons Artificial Intelligence (AI) Stocks May Be In for a Rough 2024",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/31/artificial-intelligence-ai-stocks-a-rough-2024/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/31/artificial-intelligence-ai-stocks-a-rough-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/741874/ai-artificial-intelligence-robots-office-working-conference-room-laptop-getty.jpg",
-          "width": 5500,
-          "height": 3667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-31T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-how-you-can-future-proof-your-career-in-the-era-of-ai.md",
-      "title": "How you can future-proof your career in the era of AI",
-      "excerpt": "Ever since the industrial revolution, people have feared that technology would take away their jobs. While some jobs and tasks have indeed been replaced by machines, others have emerged. The success of ChatGPT and other generative artificial intelligence (AI) now has many people wondering about the future of work—and whether their jobs are safe.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-07-future-proof-career-era-ai.html",
-      "originalUrl": "https://phys.org/news/2023-07-future-proof-career-era-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-you-can-future-pro.jpg",
-          "width": 1280,
-          "height": 876,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-07-future-proof-career-era-ai.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-future-proof-career-era-ai.amp",
-      "publishedDateTime": "2023-07-31T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

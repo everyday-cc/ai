@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-08-host-the-spark-ui-on-amazon-sagemaker-studio.md",
+      "title": "Host the Spark UI on Amazon SageMaker Studio",
+      "excerpt": "Amazon SageMaker offers several ways to run distributed data processing jobs with Apache Spark, a popular distributed computing framework for big data processing. You can run Spark applications interactively from Amazon SageMaker Studio by connecting SageMaker Studio notebooks and AWS Glue Interactive",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-the-spark-ui-on-amazon-sagemaker-studio/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-the-spark-ui-on-amazon-sagemaker-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/08/host-spark-ui-sagemaker-1260x627.jpg",
+          "width": 1260,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T07:56:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest.md",
+      "title": "Goldman Sees $1.5 Trillion Flowing To AI. Here’s Where To Invest",
+      "excerpt": "Innovations in electricity and personal computers unleashed investment booms of as much as 2% of U.S. GDP as the technologies were adopted into the broader economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d1177d31bc40f18165f247/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/amp/",
+      "publishedDateTime": "2023-08-08T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-everestlabs-is-using-robotic-arms-and-ai-to-make-recycling-more-efficient.md",
       "title": "EverestLabs is using robotic arms and AI to make recycling more efficient",
       "excerpt": "EverestLabs puts 3D depth-sensing cameras on recycling conveyor lines to identify materials, then employs robotic arms to pluck out recyclable packaging.",
@@ -538,49 +642,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-08-this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children.md",
-      "title": "This robot aims to introduce Artificial Intelligence to Chennai’s school-going children",
-      "excerpt": "This robot aims to bridge the distance between the children of Apollo cancer hospital and the classroom. Except, instead of blackboards and desks, the buddy robot extends a black screen with an intuitive network to those confined within the walls of the hospital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/life-and-style/travel/hthd5l/article67167638.ece/alternates/FREE_1200/IMG_0914.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece/amp/",
-      "publishedDateTime": "2023-08-08T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-08-ai-is-ruining-the-internet.md",
       "title": "AI is ruining the internet",
       "excerpt": "From way more spam to sneakier scams, AI is going to make even the most basic online tasks more annoying — and unreliable.",
@@ -589,7 +650,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -788,7 +849,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -840,7 +901,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/07/authors-ai-prosecraft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -891,7 +952,7 @@
       "originalUrl": "https://www.pcmag.com/news/ai-can-now-steal-your-passwords-by-listening-to-your-keystrokes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1173,58 +1234,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-aws-performs-fine-tuning-on-a-large-language-model-llm-to-classify-toxic-speech-for-a-large-gaming-company.md",
-      "title": "AWS performs fine-tuning on a Large Language Model (LLM) to classify toxic speech for a large gaming company",
-      "excerpt": "The video gaming industry has an estimated user base of over 3 billion worldwide1. It consists of massive amounts of players virtually interacting with each other every single day. Unfortunately, as in the real world, not all players communicate appropriately and respectfully. In an effort to create",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-performs-fine-tuning-on-a-large-language-model-llm-to-classify-toxic-speech-for-a-large-gaming-company/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-performs-fine-tuning-on-a-large-language-model-llm-to-classify-toxic-speech-for-a-large-gaming-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/07/fine-tuning-llm-toxic-speech.jpg",
-          "width": 911,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T09:19:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -61,17 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial Intelligence: Generative AI In Cyber Should Worry Us, Here’s Why"
-    excerpt: "\"As AI becomes more integrated into society, it's important for lawmakers, judges, and other decision-makers to understand the technology and its implications.\""
-    publishedDateTime: 2023-08-04T17:22:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
   - title: "Chegg is getting a generative AI makeover just in time for back-to-school season"
     excerpt: "ChatGPT's advanced abilities have the potential to shake up many industries, and online learning services are an early example of this. With a free, competent tool like ChatGPT that can help with homework and studying, why would students pay for an online learning service?"
     publishedDateTime: 2023-08-08T16:37:00Z
@@ -111,20 +100,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 78
-  - title: "The Ghost of Privacy Past Haunts the Senate’s AI Future"
-    excerpt: "The US Congress is trying to tame the rapid rise of artificial intelligence. But senators’ failure to tackle privacy reform is making the task a nightmare."
-    publishedDateTime: 2023-08-04T18:05:00Z
-    webUrl: "https://www.wired.com/story/ai-regulation-privacy-us-senate/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/64cc121bd96882f74caa411b/191:100/w_1280,c_limit/A-Fight-Over-Privacy-Looms-Over-AI-in-Washington-Security-GettyImages-1524620606.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Build generative AI applications using Azure and NVIDIA H100 Tensor Core GPUs"
     excerpt: "Microsoft Azure users can now leverage the latest NVIDIA accelerated computing technology to train, deploy and build generative AI applications. The"
     publishedDateTime: 2023-08-08T08:37:00Z

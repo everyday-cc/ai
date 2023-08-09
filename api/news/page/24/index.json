@@ -2,6 +2,100 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-07-22-ai-powered-travel-assistant-touted-as-most-powerful-ever.md",
+      "title": "AI-powered travel assistant touted as most powerful ever",
+      "excerpt": "Travel platform Mondee has rolled out a new artificial intelligence-powered travel assistant, Abhi, which the company says is the most powerful in the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
+      "originalUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4d5e9f2b-0dd0-4d1f-83ea-ef3fa41a8f48/046da2a7-ef12-441f-9b74-6eee76b2fd20/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
+      "publishedDateTime": "2023-07-21T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-british-political-candidate-used-ai-to-build-policy-platform-to-create-meaningful-participation.md",
+      "title": "British political candidate used AI to build policy platform to create 'meaningful participation'",
+      "excerpt": "Andrew Gray used artificial intelligence to crowdsource his party platform, gauging interest and stances on various issues and finding points of agreement and gaps in consensus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation",
+      "originalUrl": "https://www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1fbcb2e8-ccec-4dac-ac6e-95f168587aaf/08252fc7-392e-4cfa-a4cf-84a1b110cfd6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation.amp",
+      "publishedDateTime": "2023-07-21T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-cybersecurity-in-the-era-of-ai-and-quantum.md",
       "title": "Cybersecurity In The Era Of AI And Quantum",
       "excerpt": "In the ever-evolving landscape of cybersecurity, AI and quantum are rapidly becoming game-changers. How is the US Navy poised to take advantage of this emerging tech?",
@@ -1107,112 +1201,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-how-ai-enabled-threat-intelligence-is-becoming-our-future.md",
-      "title": "How AI-Enabled Threat Intelligence Is Becoming Our Future",
-      "excerpt": "As a CEO in the industry, I see tremendous applications of AI in cybersecurity soon, particularly in threat intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648726ec4c121273abd8baa2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/amp/",
-      "publishedDateTime": "2023-07-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-amds-best-bet-on-ai-might-not-be-what-you-think.md",
-      "title": "AMD's Best Bet on AI Might Not Be What You Think",
-      "excerpt": "But FPGAs are a big bet on AI, too, and still get little love from the investor community. The addition of Xilinx remade AMD's embedded segment into a high-growth powerhouse that raked in over $1.5 billion in sales last quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-not-be-what-you-think/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-not-be-what-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740371/semiconductors-design-chips-ai.jpg",
-          "width": 5120,
-          "height": 2880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-04-voice-recognition-and-medical-transcription.md",
+      "title": "Voice Recognition and Medical Transcription",
+      "excerpt": "A speech-recognition engine simply replaces the keyboard and mouse. To realize the potential benefits of a local, PC-based voice-recognition system (as in Figures 1 and 2), you probably have to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/487524_4",
+      "originalUrl": "https://www.medscape.com/viewarticle/487524_4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
+          "width": 640,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement.md",
+      "title": "New Microsoft Azure AD CTS feature can be abused for lateral movement",
+      "excerpt": "Microsoft's new Azure Active Directory Cross-Tenant Synchronization (CTS) feature, introduced in June 2023, has created a new potential attack surface that might allow threat actors to more easily spread laterally to other Azure tenants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/",
+      "originalUrl": "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bleepstatic.com/content/hl-images/2022/04/28/microsoft-azure-headpic.jpg",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/amp/",
+      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/amp/",
+      "publishedDateTime": "2023-08-03T15:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bleeping Computer",
+        "domain": "bleepingcomputer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-cloud-data-systems-and-edge-ai-make-a-major-impact-on-todays-data-science.md",
       "title": "Cloud Data Systems and Edge AI Make a Major Impact on Today’s Data Science",
       "excerpt": "Gartner outlines the top trends in machine learning and data science, including the impact of generative AI. Learn more about the top trends with our article.",
@@ -1110,109 +1196,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence.md",
-      "title": "Eight MarTech Services To Prepare Your Company For Competition In The Age Of Artificial Intelligence",
-      "excerpt": "To be truly effective, MarTech must create memorable customer experiences that drive engagement and loyalty. MarTech experts can work closely with your in-house or agency experience designers to help, with assistance from AI, define your user personas, understand their needs and preferences and then deliver experiences of value—and even delight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ca9c18a28ed4c8c9a5d57e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-08-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models.md",
-      "title": "The Secret Sauce Of AI Companies: The Importance Of Human-Annotated Data In High-Performing Machine Learning Models",
-      "excerpt": "A critical component in the data annotation process is quality assurance. Despite the advances in machine learning and AI, the human touch in reviewing and verifying data remains paramount. The complex nuances, context understanding and creative interpretations that human intelligence brings to the table can't be entirely replicated by machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/612cd9b4f42bed4cf122c801/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/amp/",
-      "publishedDateTime": "2023-08-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Telematics providers improve AI accuracy to combat risky driving behaviors"
+    excerpt: "Verizon Connect launches enhancements to its AI dashcam, including new AI tags for speeding and unfastened seat belt detection."
+    publishedDateTime: 2023-08-09T11:46:00Z
+    webUrl: "https://www.ccjdigital.com/technology/telematics/article/15543878/telematics-providers-improve-ai-accuracy-to-combat-risky-driving-behaviors"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 37
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2023/08/GettyImages_1342002649.6284f2184d42f.64d28cb46d3b9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Empowering business transformation through data decoupling and analytics"
     excerpt: "In today’s rapidly evolving digital landscape, harnessing the power of data has become a critical priority for businesses across industries."
     publishedDateTime: 2023-08-07T08:06:00Z

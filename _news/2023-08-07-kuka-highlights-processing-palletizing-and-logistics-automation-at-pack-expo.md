@@ -7,7 +7,7 @@ originalUrl: "https://www.automation.com/en-us/articles/august-2023/kuka-process
 webUrl: "https://www.automation.com/en-us/articles/august-2023/kuka-processing-palletizing-logististics-pack-expo"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 500
     height: 313
     isCached: true
-
-related:
-  - title: "Heavy-Payload Cobots Take on Palletizing"
-    excerpt: "A range of higher-payload, longer-reach ‘industrial cobots’ introduced over the last two years are accelerating the use of collaborative robots in palletizing."
-    publishedDateTime: 2023-08-04T18:13:00Z
-    webUrl: "https://www.packworld.com/machinery/robotics/article/22866398/palletizing-cobots-are-new-packaging-robotics-trend"
-    type: article
-    provider:
-      name: Packaging World
-      domain: packworld.com
-    quality: 24
-    images:
-      - url: "https://img.packworld.com/files/base/pmmi/all/image/2023/08/ABB_Packaging_Robotics.64cacd59b6944.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "MnJsFtdxvN28qn87dkvnPa/slC1W185ZvjwtE5Cjkmaw+WhPYC/LzEXXfanNMFqjpEfkqQ1KmNav0rt70QY2zgFmqKLyNpm6cZ09S8lVLa8tRDo6jwkfzUuj9vgE80358HgtQUs9Jy7O4aC8KPP7qXU1Wx8M8QbEQku068tbdQ0Q4ZHSarPj/sgnyD1+Buw2KOrsdbzas0E70YGjojHeTIoG5nwY09uldqhK9kZ0B2VICBKogpXkC0/sCJFUUR/webQfMM0srO3Vfu8bZ6YTCxu9pInL0vMEknq3NcTIWlmZ7lKvOuc7t8DYpptNkf3bmzAg9Cm3/qofHX8layxAJfG0bJm0+RLDPHz6Qx/3orTgUm9vZ86Tz7d+gWBh3farWnec39CxPOlTmwYTZxXz6b1yIrGh3fFyEaM+G+xlguLAqObjwYKz0zaa3PPkIF10cs2uDFmXAVj9x2j1zOmGKueilZgt7xzsiXwqRudLe3RXzwI5fl+P1fqIRE6IaXEaGYQaPkw6zyMTq7qVNsz59g==;sertensC30v3wkliMY2fhQ=="
 ---

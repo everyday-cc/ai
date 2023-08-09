@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tenet Healthcare Corporation’s (THC) Stock: A Long-Term Performance Analysis"
+    excerpt: "The stock of Tenet Healthcare Corporation (THC) has gone down by -4.68% for the week, with a -11.67% drop in the past month and a 5.01% rise in the past quarter. The volatility ratio for the week is 2."
+    publishedDateTime: 2023-08-09T10:43:00Z
+    webUrl: "https://newsheater.com/2023/08/09/tenet-healthcare-corporations-thc-stock-a-long-term-performance-analysis/"
+    type: article
+    provider:
+      name: newsheater
+      domain: newsheater.com
+    quality: 36
+    images:
+      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-30-.png"
+        width: 640
+        height: 421
+        isCached: true
   - title: "Healthcare Realty Trust Incorporated (HR) Stock: Navigating the Market Volatility"
     excerpt: "HR stock has gone up by 1.02%, with a monthly gain of 5.51% and a quarterly plunge of -1.99%. The volatility ratio for the week is 2.21%, and the volatility levels for the last 30 days are 2.05% for H"
     publishedDateTime: 2023-08-08T07:58:00Z

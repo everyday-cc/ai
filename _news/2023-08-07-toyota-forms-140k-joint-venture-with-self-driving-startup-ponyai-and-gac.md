@@ -39,6 +39,15 @@ related:
         width: 770
         height: 510
         isCached: true
+  - title: "Toyota, Pony.ai plan to mass produce robotaxis in China"
+    excerpt: "Toyota and partner Pony.ai are planning to mass produce robotaxis in China, setting up a venture this year which will build cars that employ the startup's autonomous driving technology and ride-hailing services."
+    publishedDateTime: 2023-08-04T19:51:00Z
+    webUrl: "https://www.autonews.com/china/toyota-ponyai-plan-mass-produce-robotaxis-china"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 34
   - title: "Pony.ai, Toyota to deploy large-scale robotaxi network"
     excerpt: "In total, Pony.ai has a combined fleet of about 200 Toyota and Lexus brand robotaxis located in all four Chinese Tier-1 cities — Guangzhou, Beijing, Shanghai and Shenzhen — where they are road tested and are the public face of the company’s robotaxi services."
     publishedDateTime: 2023-08-08T12:54:00Z

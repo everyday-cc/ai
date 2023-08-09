@@ -54,7 +54,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tech-down-as-ai-enthusiasm-stalls-tech-roundup-db409f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -619,6 +619,58 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-08-06T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-2-semiconductor-stocks-set-for-next-level-growth-thanks-to-ai.md",
+      "title": "2 Semiconductor Stocks Set for Next-Level Growth Thanks to AI",
+      "excerpt": "Nvidia will benefit from AI, to be sure, but that's no secret to stock market investors. Advanced AI chips wouldn't be possible without ASML's lithography machines. Artificial intelligence (AI) has been powering strong gains for the stock market this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/08/05/semiconductor-stocks-next-level-growth-ai/",
+      "originalUrl": "https://www.fool.com/investing/2023/08/05/semiconductor-stocks-next-level-growth-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/739425/gettyimages-1463261378.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-05T04:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -1409,50 +1461,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-blocking-chinas-access-to-ai-chips-matters-to-us-national-security.md",
-      "title": "Blocking China’s Access to AI Chips Matters to U.S. National Security",
-      "excerpt": "Targeted semiconductor export controls are an appropriate step to address the threat of China’s military AI advancements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csis.org/analysis/blocking-chinas-access-ai-chips-matters-us-national-security",
-      "originalUrl": "https://www.csis.org/analysis/blocking-chinas-access-ai-chips-matters-us-national-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2023-07/AdobeStock_483004683_Crop1.jpg?VersionId=MtlVeWKwIL1PV1HeZWiNr8krCa1xEbCR",
-          "width": 4160,
-          "height": 2340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-31T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "csis.org",
-        "domain": "csis.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

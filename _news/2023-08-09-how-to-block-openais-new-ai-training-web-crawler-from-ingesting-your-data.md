@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-block-openais-new-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/"
 type: article
 quality: 85
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -60,6 +60,17 @@ related:
         width: 850
         height: 347
         isCached: true
+  - title: "Artificial Intelligence: OpenAI’s Revolutionary Web Crawling Bot"
+    excerpt: "OpenAI's advancements with GPTBot, its role in shaping the future AI models like GPT-5, and the company's dedication to navigating the challenges of technology and ethics in the AI industry."
+    publishedDateTime: 2023-08-09T11:46:00Z
+    webUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/"
+    ampWebUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 52
   - title: "OpenAI's GPTBot Will Scrape Your Website to Train Its AI, Unless You Opt Out"
     excerpt: "A new web crawler dramatically expands the amount of data OpenAI's models will train on, but the company says you can opt out to prevent it from visiting your website."
     publishedDateTime: 2023-08-08T18:29:00Z
@@ -96,6 +107,20 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/3e2e125cd1432536421d9fb1f67f3c8f.jpg?t=20230807_013039"
         width: 752
         height: 408
+        isCached: true
+  - title: "OpenAI Shoots To No. 1 Spot On Private Cloud Startup Ranking, Underscoring AI’s Sudden Ascendency"
+    excerpt: "OpenAI’s rise to the top of the ranking in Bessemer's Cloud 100 cohort underscores AI’s shockingly fast ascendency in the tech world."
+    publishedDateTime: 2023-08-09T11:00:00Z
+    webUrl: "https://news.crunchbase.com/cloud/bessemer-2023-private-cloud-startup-ranking-openai-anthropic/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 24
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Mary-DOnofrio-300x277.jpeg"
+        width: 300
+        height: 277
         isCached: true
 
 secured: "lsi3XNh+QSMQd4hOtG4iXmwAGdydEJ4kZ7zeA1gZV0sckA7udmzS10+BBTgfytB+Kqnj56OaDQn1Aye1/JL8bDDo1CUbiRWz+8yadlsASMzJvyUNfSOD95ZnoysdeNmfbGQiIeYQqTMwO0463SNLnP0BFORKaTbcWJsRej51C089wCnByUtO+Fcm/GSRS5gsMyD3DsF+nteEujtCOCzDj5KunEZM8efmmY+wA3aMoAmWenvBY/cU6kmvT9yRzSDheQ0nLM5kucaBxu8SJrk1TsB0E+JnhRjEJY0HA7IGaLDIwgPcErYl2PmVsnuaeLIAPRgDiZuQdKSCMkJpSO0yn7Wrjv4QKU7cDW8Msar0XU8YQb97PPOFVyYUG3TNiJCtpIrYDDzuSnEf5r5Hxb3jzU0+8rlVzBVB8hCfXEFwWoqvuIUnAzXGoGs8KJ6KEqI3AVBqLJPW5b7PGznez6NsgwdPhbpEWurLIf6Xx7gfe/a8auLuyc9UrHCgl9jK1d2H35920NCX6qufpo25rVRaqg==;mAHRDDdmRSnt3VvZmEwIqw=="

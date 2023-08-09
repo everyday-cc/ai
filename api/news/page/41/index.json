@@ -2,6 +2,91 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-07-12-discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.md",
+      "title": "Discord bans AI-generated child sex abuse material and teen dating",
+      "excerpt": "SAN FRANCISCO — Discord’s head of trust and safety said Tuesday that the popular chat platform was changing and clarifying its child safety policies including those around around teen dating and AI-generated child sexual abuse material, an announcement that comes after an NBC News investigation last month into child safety on the platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107269952-16891123952021-03-31t175917z_1515270024_rc2hmm9fq8tq_rtrmadp_0_discord-audio.jpeg?v=1689112496",
+          "width": 3500,
+          "height": 2233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "publishedDateTime": "2023-07-11T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-save-211-with-the-amazon-prime-day-shark-ai-ultra-voice-control-robot-vacuum-deal.md",
+      "title": "Save $211 with the Amazon Prime Day Shark AI Ultra Voice Control Robot Vacuum Deal",
+      "excerpt": "The Shark AI Ultra Voice Control Robot Vacuum normally runs for $599, but with this Amazon Prime Day deal you can shave $211 off the price. Not only does it provides seriously powerful suction ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
+      "originalUrl": "https://www.usatoday.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-27-of-jobs-at-high-risk-from-ai-revolution-says-oecd.md",
       "title": "27% of jobs at high risk from AI revolution, says OECD",
       "excerpt": "AI (Artificial Intelligence) letters and robot miniature in this illustration taken, June 23, 2023. REUTERS/Dado Ruvic/Illustration/File Photo",
@@ -1044,101 +1129,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-50-amazon-fashion-finds-to-shop-for-under-50-this-prime-day.md",
-      "title": "50+ Amazon Fashion Finds to Shop For Under $50 This Prime Day",
-      "excerpt": "As POPSUGAR editors, we independently select and write about stuff we love and think you'll like too. If you buy a product we have recommended, we may receive affiliate commission, which in turn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsugar.com/fashion/best-cheap-amazon-clothes-women-46310389",
-      "originalUrl": "https://www.popsugar.com/fashion/best-cheap-amazon-clothes-women-46310389",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.popsugar-assets.com/files/thumbor/sl6ZssptTFhQksuN-zISJLEK3M8=/0x686:3980x2326/828x610/filters:format_auto():extract_cover()/2023/06/04/331/n/1922564/e688b05e647d873a783305.39844499_.jpg",
-          "width": 828,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsugar.com/amphtml/fashion/best-cheap-amazon-clothes-women-46310389",
-      "cdnAmpWebUrl": "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/amphtml/fashion/best-cheap-amazon-clothes-women-46310389",
-      "publishedDateTime": "2023-07-11T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PopSugar",
-        "domain": "popsugar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket.md",
-      "title": "Chip-Chip, Hooray: Nvidia, AMD Lead Semiconductor Rally Premarket",
-      "excerpt": "Shares of chipmakers are heading northwards in premarket trading on Tuesday, led by Nvidia Corp. (NASDAQ:NVDA) and Advanced Micro Devices, Inc. (NASDAQ:AMD). KeyBanc Capital Markets analyst John Vinh raised the price targets for several companies in the space,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket-1032437607",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket-1032437607",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Nvidia_11.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

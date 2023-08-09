@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 772
     height: 434
     isCached: true
-
-related:
-  - title: "Cyber Connective Corporation provides a solution to cybersecurity's AI problem"
-    excerpt: "Tech companies need to recognize how crucial incorporating AI is for strengthening their overall performance and security."
-    publishedDateTime: 2023-08-04T18:45:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/08/04/cyber-connective-corporation-provides-a-solution-to-ai-problem/70531183007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 13
 
 secured: "gSJMIwq1QAHnNAxflHHi/cV1E34kT1zh1JQEhLhb3vGby8wonr5TxYCJdZ6GQ5zvyDZJkznVoClL39TAwykLkSGv1tOwf0i4oT+KwqJy7N6e5HQngMwewlYOPXs5uiODp0zhi4b2IhadQu5RAxjuxjaLbmVMjKBnIwPzRjVLiK6g9TGOPo7zcGSQ/lOWzKSj6YcRKMInC/Ib/expJFH40I5dRBPCH6iXJytz/PzaF9wHuqU9nW+LgrXWzmLlJIH6OZahPTKzi5fmFHtwU+XdXBFTW+oLpYSC+tII9PJ99nXuK+w8ni7LOAny0AHaY+UYlmVYwit2Tt+Cjr/3SRSWq+y+y+Khwbfboc8Djga/ux0=;f8tEHUCcCL3wzacI7XpBfQ=="
 ---

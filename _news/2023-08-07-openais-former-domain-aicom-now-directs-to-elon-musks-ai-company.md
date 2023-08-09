@@ -70,6 +70,17 @@ related:
         width: 850
         height: 347
         isCached: true
+  - title: "Artificial Intelligence: OpenAI’s Revolutionary Web Crawling Bot"
+    excerpt: "OpenAI's advancements with GPTBot, its role in shaping the future AI models like GPT-5, and the company's dedication to navigating the challenges of technology and ethics in the AI industry."
+    publishedDateTime: 2023-08-09T11:46:00Z
+    webUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/"
+    ampWebUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 52
   - title: "OpenAI's GPTBot Will Scrape Your Website to Train Its AI, Unless You Opt Out"
     excerpt: "A new web crawler dramatically expands the amount of data OpenAI's models will train on, but the company says you can opt out to prevent it from visiting your website."
     publishedDateTime: 2023-08-08T18:29:00Z
@@ -92,6 +103,20 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/3e2e125cd1432536421d9fb1f67f3c8f.jpg?t=20230807_013039"
         width: 752
         height: 408
+        isCached: true
+  - title: "OpenAI Shoots To No. 1 Spot On Private Cloud Startup Ranking, Underscoring AI’s Sudden Ascendency"
+    excerpt: "OpenAI’s rise to the top of the ranking in Bessemer's Cloud 100 cohort underscores AI’s shockingly fast ascendency in the tech world."
+    publishedDateTime: 2023-08-09T11:00:00Z
+    webUrl: "https://news.crunchbase.com/cloud/bessemer-2023-private-cloud-startup-ranking-openai-anthropic/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 24
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Mary-DOnofrio-300x277.jpeg"
+        width: 300
+        height: 277
         isCached: true
 
 secured: "mjDIruzfctE9twV8/o+LRgxwCsLEU3y0u5oD1cOD1YUadCFFtmaXPFyJaEoQ7/6OQiNvYBS+KxKkFfUlE2/s4fO5KDruEx0EljCEGittFcyBC5b89A17sh9487m4twtPC9rQygvymZt0EwdgGwfOUEy2DFkdvQiRXAtNH12jmk7MugHignv7v0rMQjskW+BX2g7NKQnZRuZ6Ewx17ke+3JAPpso2Rk/FKbZGovATQiEBr2Pnggg4ujkxlPGdRyGnTjz73ZJUOxUeNrqYTu1t1rCGQTANWrNGH18C64BsTNU42DQghaA5jFjtVH5iAo5dR6S2uMOOdnDMf77W7LXL9EaSz3VtsvEK/D2Jqd5QJQqNduvFlN/kJ1AAFs7mD9HPqEh7FIwLaLiJtLG00gLfHr5NYqWF6gcnzINvrqDxAv9QCSmFizRx5CPY0yluCpzx6E9IvYRfYpch+blNKLBndjby4Q5hzfV/eIAvJJcGhNJMil9FL0NYY11E3KF/IBphX1/cY+02oG+b3T10xJgHcg==;hGLqtWXTDkHc6BvI6rZBLw=="

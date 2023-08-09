@@ -71,6 +71,17 @@ related:
         width: 850
         height: 347
         isCached: true
+  - title: "Artificial Intelligence: OpenAI’s Revolutionary Web Crawling Bot"
+    excerpt: "OpenAI's advancements with GPTBot, its role in shaping the future AI models like GPT-5, and the company's dedication to navigating the challenges of technology and ethics in the AI industry."
+    publishedDateTime: 2023-08-09T11:46:00Z
+    webUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/"
+    ampWebUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 52
   - title: "OpenAI's GPTBot Will Scrape Your Website to Train Its AI, Unless You Opt Out"
     excerpt: "A new web crawler dramatically expands the amount of data OpenAI's models will train on, but the company says you can opt out to prevent it from visiting your website."
     publishedDateTime: 2023-08-08T18:29:00Z
@@ -93,6 +104,20 @@ related:
       - url: "https://wp-assets.futurism.com/2023/08/openais-domain-elon-musks-ai.jpg"
         width: 1200
         height: 726
+        isCached: true
+  - title: "OpenAI Shoots To No. 1 Spot On Private Cloud Startup Ranking, Underscoring AI’s Sudden Ascendency"
+    excerpt: "OpenAI’s rise to the top of the ranking in Bessemer's Cloud 100 cohort underscores AI’s shockingly fast ascendency in the tech world."
+    publishedDateTime: 2023-08-09T11:00:00Z
+    webUrl: "https://news.crunchbase.com/cloud/bessemer-2023-private-cloud-startup-ranking-openai-anthropic/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 24
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Mary-DOnofrio-300x277.jpeg"
+        width: 300
+        height: 277
         isCached: true
 
 secured: "UCfUOXkjCAe+vliLn/04F6FJmksxR4CZ1Te7xaGoPbUFOr3KwOJIKcoINojg4omH5XO4xTY9E23Jfqf1piFQQuz1Yb7+oiKhAYEqWnmaQ9oINVqoHTgLDu89mOauYqeHStBhfMaZMgn8Gsp8PyR0MOttt//GeiWST+KTbOlAj/7dqB6EEz9cSEzfb+cEzentNu7lWN84rxhceYSIYOZDj4AZSftXPqaJWdntXUjZHewzn+RgG9AYNDpCpcB7qzBXZjjVogyBcmGq7n6TkSfSb6tWvsd/wLgUXfRaH8YxVPMDOaMSp9vi03HKcyzCfC9aUbHgwZA5UndgM35MOgQxmE3Pf2dBrQEax2gJYpNzFbw=;z3XJ0Cu5ECJv8qF+MmfhvQ=="

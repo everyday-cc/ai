@@ -31,19 +31,19 @@ related:
       name: IBM
       domain: ibm.com
     quality: 94
-  - title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
-    excerpt: "Kyndryl (NYSE: KD), the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
-    publishedDateTime: 2023-08-09T03:59:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprise-grade-generative-ai/article_447e1506-ce96-5cc0-89cd-5e8093c338ee.html"
+  - title: "Kyndryl And Microsoft Collaborate To Speed The Evaluation And Adoption Of Enterprise-Grade Generative AI For Business"
+    excerpt: "Kyndryl And Microsoft Collaborate To Speed The Evaluation And Adoption Of Enterprise-Grade Generative AI For Business - Kyndryl (NYSE:KD), the world’s largest technology infrastructure services provider,"
+    publishedDateTime: 2023-08-09T10:45:00Z
+    webUrl: "https://www.siliconindia.com/news/business/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprisegrade-generative-ai-for-business-nid-224644-cid-3.html"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
+      name: SiliconIndia
+      domain: siliconindia.com
     quality: 31
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://www.siliconindia.com/news/newsimages/Y4u32dr6.jpg"
+        width: 570
+        height: 367
         isCached: true
 
 secured: "wL4hut8L6xIPKwzZstAV/U4NDnNvXMG0OlS3tQkhfYAns7TNA0ZDIY3ZZRGoAd09DWdOyIn4WidrsML8DzGMn/6Fx1JoTSveT6uAZnZ97ePKI86rV9I1HK5mdPsV1eywxp3HwiDygkHXMxt1Lpr3WdrCE3bKNFpfZX0xUonGTIki0AMTO26E9d0+mvYWBdv+Ftlk1jUCh5lJEY72FHn7x4nkTxQDMGGWov0XyxdLrwb3VdhuXrdOJFepiFHFLnEtDF9SrE7dtkeHdg2OlUizcbiE8m0KdgajhD+nHr4vDbl82UU0QsvGiA2YqyngcE9JQZ34ajnB8987rAc4lGYAzkATM0oeRXgqPRKvSsCk2Og=;0rR6ROJBaWx/7aP4wrpAxw=="

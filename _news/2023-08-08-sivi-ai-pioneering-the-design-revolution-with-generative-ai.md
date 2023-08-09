@@ -19,59 +19,82 @@ topics:
   - AI
 
 related:
-  - title: "Age of AI: Everything you need to know about artificial intelligence"
-    excerpt: "Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very recently has blossomed thanks to powerful new computing resources. AI has enabled ..."
-    publishedDateTime: 2023-08-04T21:14:00Z
-    webUrl: "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
-    ampWebUrl: "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+  - title: "How AI And ML Can Revolutionize Banks’ Signature Verification Process"
+    excerpt: "Despite increased digitization over the last decade, most organizations continue to rely on signatures as the primary method of transaction authentication."
+    publishedDateTime: 2023-08-09T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 106
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d245bfa0bd804d8ede498f/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Protecting data in the era of generative AI: Nightfall AI launches innovative security platform"
-    excerpt: "Nightfall AI's platform is the first data loss prevention (DLP) platform that scales across the three top threat vectors CISOs need the most help securing when generative AI and ChatGPT are in use across their organizations."
-    publishedDateTime: 2023-08-04T22:03:00Z
-    webUrl: "https://venturebeat.com/security/protecting-data-in-the-era-of-generative-ai-nightfall-ai-launches-innovative-security-platform/"
+  - title: "Revolutionizing The Future: Unleashing The Power Of AI In An AI-First Cloud Paradigm"
+    excerpt: "To fully harness the potential of AI, a significant transformation of cloud infrastructure is necessary to handle AI workloads."
+    publishedDateTime: 2023-08-07T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vector_art_of_a_double_helix_spiral_made_of_glowing__0635169d-fcb5-425e-b8b1-27d569da5f8d.png?w=1200&strip=all"
-        width: 858
-        height: 686
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd52914684645a13364b30/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 754
         isCached: true
-  - title: "Age of Generative AI: Ai Palette aiming to optimise food innovation and boost product launches"
-    excerpt: "Singapore-based tech firm Ai Palette has developed a new tool called FoodGPT, which harnesses the power of generative AI and natural language processing to elevate data-backed innovations and increase the success rate of product launches."
-    publishedDateTime: 2023-08-07T03:28:00Z
-    webUrl: "https://www.foodnavigator-asia.com/Article/2023/08/07/ai-palette-aiming-to-optimise-food-innovation-and-boost-product-launches-via-generative-ai"
+  - title: "How AI is revolutionizing automotive sales and marketing"
+    excerpt: "As the technology continues to evolve, dealerships, marketers, and OEMs must seize the opportunities presented by AI to drive innovation."
+    publishedDateTime: 2023-08-09T09:03:00Z
+    webUrl: "https://www.cbtnews.com/how-ai-is-revolutionizing-automotive-sales-and-marketing/"
     type: article
     provider:
-      name: FoodNavigator-Asia
-      domain: foodnavigator-asia.com
-    quality: 27
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 73
     images:
-      - url: "https://www.foodnavigator-asia.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-asia.com/headlines/markets/ai-palette-aiming-to-optimise-food-innovation-and-boost-product-launches-via-generative-ai/16608294-1-eng-GB/Ai-Palette-aiming-to-optimise-food-innovation-and-boost-product-launches-via-generative-AI.jpg"
-        width: 800
-        height: 450
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/08/64308b4c3030fd96b1ab8475_Artboard-4.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "What can you do when AI lies about you?"
-    excerpt: "Sometimes, AI creates and spreads fiction about specific people that threatens their reputations and leaves them with few options for protection or recourse."
-    publishedDateTime: 2023-08-07T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/what-can-you-do-when-ai-lies-about-you/"
+  - title: "Latest Insights About AI And The Law With A Keen Spotlight On The American Bar Association Remarkable Resolution 604"
+    excerpt: "Take an informative journey through the American Bar Association considerations on AI and the law, including the ABA Resolution 604 that was passed earlier this year."
+    publishedDateTime: 2023-08-09T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/09/latest-insights-about-ai-and-the-law-with-a-keen-spotlight-on-the-american-bar-association-remarkable-resolution-604/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/09/latest-insights-about-ai-and-the-law-with-a-keen-spotlight-on-the-american-bar-association-remarkable-resolution-604/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/09/latest-insights-about-ai-and-the-law-with-a-keen-spotlight-on-the-american-bar-association-remarkable-resolution-604/amp/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d323dcc7d1559713d9d11d/0x0.jpg?format=jpg&crop=3108,2071,x134,y0,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Xiao-I Elevates Global Presence with Debut Showcase of AI Innovations at Ai4 2023 Exhibition in Las Vegas"
+    excerpt: "Xiao-I's participation at Ai4 reinforces its commitment to global expansion, international product deployment, and continuous AI innovation, all driving its continued growth trajectory. This milestone also marks Xiao-I's inaugural presentation of products and services in the U.S., showcasing innovative AI technologies to American companies."
+    publishedDateTime: 2023-08-09T09:24:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273926217/xiao-i-elevates-global-presence-with-debut-showcase-of-ai-innovations-at-ai4-2023-exhibition-in-las-vegas"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 22
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1691469780468.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "cx0bHpXXMQxDsFTDH4c9olXUIEfwt60kJgvRDf9QvDs8hUwS3Owb8YjN8tGlDy9nXnNYXAHS1EYLcotJjnJH5qgYc5U26gKPUOfQiroqPAFmYe5ztgYcFomMHtXVfKFkZDWVbUwIBIKpFcHY/ng7pCvGprT7eqlAHUH3TOZzIbfivZJimJYqS99ZYzeuBCAlQIyoyKuw8SS1h7WbuiSyqMFDRWXZsHmwJrGgeqW6AJnS6lAKFNBOevJwamiGD41TSUE/o7+gNhkXOuvRZEYPrCaCMvZcG0m9p62BH918oG/0TTaYrdNnmFgpeC58mTzSqNo9Ylb5zJuW4LbOBOz0WEqHytyab5fDd+RFxNz/Jvc=;/+3vVuQHCyrubHLZM+pktQ=="
 ---

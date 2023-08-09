@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Deep learning model can steal data by listening to keystrokes with 95% accuracy"
+    excerpt: "A team of UK researchers has trained a deep learning model to interpret keystrokes remotely based solely on audio."
+    publishedDateTime: 2023-08-09T10:04:00Z
+    webUrl: "https://thenextweb.com/news/deep-learning-steal-data-ai-keystrokes"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 65
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2Fdeep-learning-hack-acoustic-attack-keystrokes.jpg&signature=ee946d9e8ecd71d767055398707c6ddd"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Terrifying ‘deep learning attack’ can steal your passwords by listening to you type"
     excerpt: "According to researchers involved in the study, the deep learning system was able to log keystrokes with a 93 percent accuracy rating when listening to the target typing on their keyboard. The system was taught by pressing the keys on an Apple Mac keyboard multiple times at different levels of pressure."
     publishedDateTime: 2023-08-07T23:23:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-indiv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "After Feeding Explosion of Facial Recognition, China Moves to Rein It In"
+    excerpt: "The proposal, which carves out exceptions for national security, is the latest in a series of moves to put guardrails around how companies use data and artificial intelligence."
+    publishedDateTime: 2023-08-08T10:07:00Z
+    webUrl: "https://www.wsj.com/articles/china-drafts-rules-for-facial-recognition-use-4953506e"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 68
+    images:
+      - url: "https://images.wsj.net/im-831488/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "China releases draft regulations on facial recognition technology"
     excerpt: "China’s cyberspace regulator announced the release of draft regulations aimed at overseeing the security management of facial recognition"
     publishedDateTime: 2023-08-08T08:55:00Z

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Amazon nations seek common voice on climate change"
-excerpt: "BELEM, Brazil >> Leaders from South American nations that are home to the Amazon challenged developed countries on Tuesday to do more to stop massive destruction of the world’s largest rainforest, a task they said can’t fall to just a few when the crisis has been caused by so many."
-publishedDateTime: 2023-08-09T01:43:00Z
-originalUrl: "https://www.staradvertiser.com/2023/08/08/breaking-news/amazon-nations-seek-common-voice-on-climate-change/"
-webUrl: "https://www.staradvertiser.com/2023/08/08/breaking-news/amazon-nations-seek-common-voice-on-climate-change/"
-ampWebUrl: "https://www.staradvertiser.com/2023/08/08/breaking-news/amazon-nations-seek-common-voice-on-climate-change/amp/"
-cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/08/08/breaking-news/amazon-nations-seek-common-voice-on-climate-change/amp/"
+excerpt: "Leaders from South American nations home to the Amazon challenged developed countries Tuesday to do more to stop massive destruction of the world's largest rainforest, a task they said can't fall to just a few when the crisis has been caused by so"
+publishedDateTime: 2023-08-09T05:00:00Z
+originalUrl: "https://www.semissourian.com/story/3005451.html"
+webUrl: "https://www.semissourian.com/story/3005451.html"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: Honolulu Star-Advertiser
-  domain: staradvertiser.com
+  name: Southeast Missourian
+  domain: semissourian.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.staradvertiser.com/wp-content/uploads/2023/08/web1_14081437-086cfa98fbeb4ac5a447f1f020e0cfff.jpg"
-    width: 760
-    height: 507
+  - url: "https://www.semissourian.com/photos/38/77/69/3877690-G.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -43,22 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amazon nations seek common voice on climate change, urge action from industrialized world"
-    excerpt: "Eight Amazon nations have called on industrialized countries to do more to help preserve the world’s largest rainforest as they meet in a major summit in Brazil to seek to chart a common course on how"
-    publishedDateTime: 2023-08-09T04:29:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/amazon-nations-seek-common-voice-climate-change-urge-102123370"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/amazon-nations-seek-common-voice-climate-change-urge-102123370"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/amazon-nations-seek-common-voice-climate-change-urge-102123370"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 35
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Amazon nations seek common voice on climate change, urge developed world to help protect rainforest"
     excerpt: "It’s been 14 years since the eight countries of the Amazon region convened in a summit of the Amazon Cooperation Treaty Organization."
     publishedDateTime: 2023-08-09T00:57:00Z
@@ -73,7 +55,21 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Amazon nations seek common voice on climate change, urge action from industrialized world"
+    excerpt: "Eight Amazon nations called on industrialized countries to do more to help preserve the world's largest rainforest as they met at a major summit in Brazil to chart a common course on how to combat climate change."
+    publishedDateTime: 2023-08-09T11:09:00Z
+    webUrl: "https://www.aol.com/news/amazon-nations-seek-common-voice-040913270.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 15
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/soJpoTT2VW8AJ0o2yWrMnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/9e836bebffb138cf26fa9377af62efb8"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "IJSs9XeEpflxWlYp/OD5x7HP3mpXD2n2OFUAF11GqRdkxcn00hro3++2qP9FMBGTwvav5YB0lDsuPKbm7rAxAN7Do37FQe4T1lXDsX/gV7It/Te4VxIM/lSsSHJ8iMi0o1hD1dwhrqupcvBTMwDZYXU4kK6SSFgRe/7Z+IdCgkgm6NayDNMpeQzcfAgiN8ieEEr/+k8Qox7bEz0qh3TVgPsr/XnBC64ppyjoCOUfpJbTbneuFBcfBFzO98fqAV5RMKTIfszaVCwHBfJZNj5svvLOSiGUAa5nzHNMNE4aB48YgHa2H25qe7YooWmiazVXlHxYEmFqV2RAaHJXcentx5YgJL3bsA05n5ZuuOGQwh4=;uV7L2NeXr8nIFQNm0hBIow=="
+secured: "GQO/PgPKtpKDD3dcKEkTcMa/3BbHmTN/XvYtADnNg8sZn1e7551Id0KQWr89MzESw9+b5XmkyeKiW19q+XbjVyovRUiFr9wsLRcyAQkWKDbqyn7Jokl51w7ovFYSQri/7+2psxsVjOe/5Hmj1L2f8YrcR4lwthBDIS8EvCokJjtAjSL6dqfgq4Yo74b2Vu2we+s5VGYTnfN0t8mRs8UDDiH7W1cN802hfPa1JJJHlzKpHbdg80CDlKpI+ADHvFNz7rhImC4MrIQx9OKNpaXbfLsglAWJIfbmKJ+m//p0hlOEaRJhyZ5uOHdZ7ozlA5Sh0UXzcra8/DBFUiIpJKfnDEeqj9cuiq/GGXCDnFiITBc=;DwXCJgMIMTpjkvnx0js0Mw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.abc.net.au/article/102696826"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102696826"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "The Voice was supposed to unify Australians. Where has the optimism gone?"
-    excerpt: "When Anthony Albanese confirmed at the Garma Festival 12 months ago that his new government would go ahead with a referendum on Indigenous recognition and an Indigenous Voice, the Arnhem Land air seemed full of optimism."
-    publishedDateTime: 2023-08-04T19:00:00Z
-    webUrl: "https://www.abc.net.au/news/2023-08-05/voice-garma-festival-albanese-things-are-not-going-well/102690280"
-    ampWebUrl: "https://amp.abc.net.au/article/102690280"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102690280"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 43
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/d46150a199c20d5353125e9a2c00ea8f?impolicy=wcms_crop_resize&cropH=3280&cropW=4920&xPos=8&yPos=0&width=862&height=575"
-        width: 862
-        height: 575
-        isCached: true
-  - title: "Australian PM not considering other forms of Indigenous recognition if Voice fails"
-    excerpt: "Australian Prime Minister Anthony Albanese has warned no other forms of Indigenous recognition will be on the table if the Voice referendum fails."
-    publishedDateTime: 2023-08-06T07:54:00Z
-    webUrl: "https://www.rnz.co.nz/news/world/495260/australian-pm-not-considering-other-forms-of-indigenous-recognition-if-voice-fails"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 33
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--H1s3xc0Y--/t_tohu-badge-facebook/v1690346471/4L599NE_MicrosoftTeams_image_5_png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "xfCFYqONl6ZsaSmnsdQsJ3+4qYvBpbNcQ2he3oHR7OGeC0R9glTd4aus85RzSr32YPZDB1E9HNyJWkNPiz8VIyCoTkWqXdxkMzcIwUaCZxTED0Rxf+bm8/VMTnB99KsLz7Uf9ySHzgxVhe4ET8NrcPDe/0TDaIJ5O6IAP/K5F8Gd4MvVvYFmhvE74uQTtmCNb3lQsmd8FGNnjNOAsmzULpsV69PtCre9pHHURx4DefmYqtr1goD+QB7ueZ3B/jHmgCnkGo7K6L9oStRDKAn8b5C9DpECnpw+i8zg0Vetq7z9AyQUwQMNX2QWz46BFpq/YRcEweE7c4NlZbbgUoCghGxEthdJSXiUhb/ZHmB5aWw=;IomVuv33dA7ao6jgVYWqug=="
 ---

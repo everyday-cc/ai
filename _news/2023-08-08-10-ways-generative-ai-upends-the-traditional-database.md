@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Preparing Your People For Generative AI At Work"
+    excerpt: "To fully embrace generative AI, leaders need to ensure their team is equipped with the skills to evolve alongside new technology."
+    publishedDateTime: 2023-08-09T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/09/preparing-your-people-for-generative-ai-at-work/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/09/preparing-your-people-for-generative-ai-at-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/09/preparing-your-people-for-generative-ai-at-work/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fc69e28f02f5833055ec5db/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Using Generative AI To Connect Lab To Fab Test"
     excerpt: "Executive Insight: Thomas Benjamin, CTO at National Instruments, sat down with Semiconductor Engineering to discuss a new way of look at test, using data as a starting point and generative AI as bridge between different capabilities."
     publishedDateTime: 2023-08-08T07:05:00Z

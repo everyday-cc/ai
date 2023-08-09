@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
-excerpt: "Kyndryl (NYSE: KD), the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
-publishedDateTime: 2023-08-09T03:59:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprise-grade-generative-ai/article_447e1506-ce96-5cc0-89cd-5e8093c338ee.html"
-webUrl: "https://www.bakersfield.com/ap/news/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprise-grade-generative-ai/article_447e1506-ce96-5cc0-89cd-5e8093c338ee.html"
+title: "Kyndryl And Microsoft Collaborate To Speed The Evaluation And Adoption Of Enterprise-Grade Generative AI For Business"
+excerpt: "Kyndryl And Microsoft Collaborate To Speed The Evaluation And Adoption Of Enterprise-Grade Generative AI For Business - Kyndryl (NYSE:KD), the world’s largest technology infrastructure services provider,"
+publishedDateTime: 2023-08-09T10:45:00Z
+originalUrl: "https://www.siliconindia.com/news/business/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprisegrade-generative-ai-for-business-nid-224644-cid-3.html"
+webUrl: "https://www.siliconindia.com/news/business/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprisegrade-generative-ai-for-business-nid-224644-cid-3.html"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: SiliconIndia
+  domain: siliconindia.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-    width: 600
-    height: 315
+  - url: "https://www.siliconindia.com/news/newsimages/Y4u32dr6.jpg"
+    width: 570
+    height: 367
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
       domain: ibm.com
     quality: 82
 
-secured: "WaYFuKPVc0pmdE/D6C3RWLmPKV3rRs5adQIEIOYl5uSghxOfVVz4qBnDkRo4LA+iRc5NB4qj3moYNPmkk/T6BbONnzGt5AjMTSreZZHExjMhXfmJFPlXM68ngdaBPSRod+fnSJh6tcv6P3KElFBVqoY1BRPUc2cWXYLmVfCdSQjB8vzRxgQCO6znL6f6WRRvZ7Hi5UYn6JiALXo5mY/QIJMVxn0i8GlVXBeb9n8BNUnONG7LO/sgc57YodEOhWfw3BM/lEDGZXjUTzDDVZVfjatOqfSysvDoQGulr1teOuCjMv5rH2acVO8aH5jUXZtgw+fUwp3umdtf8PV7DRNYv0v7Z+HjbDXHkbjSBUNHFQE=;KujT3aUaaUDJKtgELKI6PA=="
+secured: "S6z0g7kJaFPp0McKpKhIV/KvX5sEj1GIHn7YEDYuZUNmTT3Op+6WomK/8MRv/AlaQysCjLML140NcRygXt+MmQYCBBQjlvzVFNUn6OZeZY/y5ZVANNeJHU4IzLeaaXeDcq+wFYu782PAkQ66cZrHDWsefKP+ZZyAn0dP3gONLqUCm8O1+yZB4YBpy0A7iHIGOKK7LH9glyTsLrwIDErlemQVF+bGgoWag0G9MicadYF3qAqa/hjg0NJmb7VAyOCw9uufJb9VPhav0vJUm8LcIHqNF4fM4m8RgjoV3fviIZbHNuJXTeCBE1oW4Zzul0/eGTDezr3BqZvwnd7+4tasbSGAlcS/ZeO6N0w8RLeBQvM=;A6Bl5+M9uoZppVrNSLtsHA=="
 ---
 

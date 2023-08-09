@@ -39,6 +39,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Tenet Healthcare Corporation’s (THC) Stock: A Long-Term Performance Analysis"
+    excerpt: "The stock of Tenet Healthcare Corporation (THC) has gone down by -4.68% for the week, with a -11.67% drop in the past month and a 5.01% rise in the past quarter. The volatility ratio for the week is 2."
+    publishedDateTime: 2023-08-09T10:43:00Z
+    webUrl: "https://newsheater.com/2023/08/09/tenet-healthcare-corporations-thc-stock-a-long-term-performance-analysis/"
+    type: article
+    provider:
+      name: newsheater
+      domain: newsheater.com
+    quality: 36
+    images:
+      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-30-.png"
+        width: 640
+        height: 421
+        isCached: true
 
 secured: "Ux4P5AMfGNtBF360rnJLUCgLFYAUiunN4hbeSg/UlH4SXjfUoXwjTc4YGUvqfGRWucs2ePV+x3D+n/tMckQSYwizryOqfnzxJBBIa2P6LPJ6mlw+ujocGRZMI2ftGkjO6DYxPNrh7kUB1S7kKy5hvWPtOBcZa6LOXj75CIRTjxRO8kUiMg+TaeFo3dmCf26gouspvI/raywLOm1ngdPYPsf6oNk68RPg4H6Faw1eIalWJXTE2BwBJs0h7Nv3A61wgf9LBTi4dEZLbrT2I+ZzkhiEGvjIUPIL6pH03OZmaX/AeYezyIrKGu7VgwHwA8Y+iqX2LfZ3wkF0u5AgzlvDCSELgYU8Kcq+sqYqH6Yyft0=;+E796Mm/jHXsRmyvSO47Ow=="
 ---

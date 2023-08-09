@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/08/even-the-pope
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/even-the-pope-is-worried-about-ai-and-its-disruptive-possibilities/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pope mulls over the ethics of AI"
+    excerpt: "We need to be a bit positive about this Pope Francis has issued a communique announcing the theme for World Day of Peace 2024 as \"Artificial Intelligence and Peace,\" emphasising the potential impact of AI on human life and calling for responsible use,"
+    publishedDateTime: 2023-08-09T10:06:00Z
+    webUrl: "https://www.fudzilla.com/news/57387-pope-mulls-over-the-ethics-of-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/bdc07d8b9bf4508ae6012e504409551c_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "The Pope Doubles Down on AI Concerns"
     excerpt: "Pope Francis is making his AI concerns clear once again, using this year's World Peace Day to issue a call for AI caution and responsibility."
     publishedDateTime: 2023-08-08T21:56:00Z

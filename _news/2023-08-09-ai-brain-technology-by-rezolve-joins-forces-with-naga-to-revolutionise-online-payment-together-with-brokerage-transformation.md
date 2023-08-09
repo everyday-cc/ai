@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Ai 'Brain' Technology By Rezolve Joins Forces With Naga To Revolutionise Online Payment Together With Brokerage Transformation"
-excerpt: "Fintech leader, the naga group a.g. (XETRA: N4G) (ISIN: DE000A161NR7), operator of the All-in-One Financial Super App, has announced a ground-breaking partnership with rezolve ai limited . The integration of Rezolve's AI platform, 'Brain', into NAGA's ..."
-publishedDateTime: 2023-08-09T09:20:00Z
-originalUrl: "https://menafn.com/1106815655/Ai-Brain-Technology-By-Rezolve-Joins-Forces-With-Naga-To-Revolutionise-Online-Payment-Together-With-Brokerage-Transformation"
-webUrl: "https://menafn.com/1106815655/Ai-Brain-Technology-By-Rezolve-Joins-Forces-With-Naga-To-Revolutionise-Online-Payment-Together-With-Brokerage-Transformation"
+title: "AI 'Brain' Technology by Rezolve Joins Forces with NAGA to Revolutionise Online Payment together with Brokerage Transformation"
+excerpt: "Frankfurt listed, German Fintech leader, The NAGA Group A.G. (XETRA: N4G) (ISIN: DE000A161NR7), operator of the All-in-One Financial Super App, has announced a ground-breaking partnership with Rezolve AI Limited."
+publishedDateTime: 2023-08-09T09:22:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/08/09/9861620.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/08/09/9861620.htm"
 type: article
-quality: 11
-heat: 11
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?334964"
-    width: 394
-    height: 250
-    isCached: true
-
-secured: "uuXADnfVIIqM8y5CBF6kl5kBbxxmOqox40r6tH/WFnUnwQrxKshDrwqa6xZazpmxJN8ZWnZ2ehjLcOtnldwV1rpL1+loj/qRec+blXINt5aV8waY7cmRx8u7IRkX99RvZwslH4dgdQND9fa4S6OaG23NRr7phw79QCIaHDrkLZaRSoQoZn+4X2UWc1sEdqHbiAfvBNHCw7arnyz44Uf6mLufm1Hwt4t4l74VZ5d7jXgmWEFmZ0/njiRh2XW2Aqub3LkIW4zJb50+VFevWzdguL5SrQUYv4k7nil/XbyBvyRXvA9isXn1kSFAp73550qZR1NzUj26b5BgrvOpkGTHwVR61PqtdjIpaodi+i9JEEA=;9LGVPZIizngw98jOvFEcxg=="
+secured: "B+y+BkRiSwMgPRSEeMMGcF3/fnVx3B3KQkq83L+ghqDCjknSm+Qsl7H4m/w2Ot3RTWjADgFjXbKBzrS0duQ5AbcQuA8NBan1LQ2H04RBkiZvQ8ElUXCzqg2sJ8r/3xDjYSMjDx9nXlxN2xtQoWQdbJidgpQhrkIAW4vcgdI1ctgCAY1lkDWOxsNFCpcWk/r6SYk23/cpVkY5ZJ/ZdxAgT5q/Sfjaa/2YEBSP6Gz0UHdOFyF1qettAcn49LNSCBbvA3kFxAG8yQ1pJIHOfBNBmQX2LLRMPwomcUfv5E7+a9M0ZdVR72D4vxdHqF+Ttu9tLjP6TSfBKIW2DHR6Mw8YgJaIIr4aodIQk4tpf0LJGeA=;hR6Zd8cN+Ufv4BAFLUKzJA=="
 ---
 

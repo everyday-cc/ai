@@ -2,6 +2,83 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-07-03-aws-invests-100-million-into-generative-ai-center.md",
+      "title": "AWS invests $100 million into Generative AI Center",
+      "excerpt": "Amazon Web Services invested $100 million in a new program called the Generative AI Innovation Center. It will connect AWS artificial intelligence experts with global customers and",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/125632/aws-invests-100-million-into-ai-center",
+      "originalUrl": "https://technology.inquirer.net/125632/aws-invests-100-million-into-ai-center",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technology.inquirer.net/125632/aws-invests-100-million-into-ai-center/amp",
+      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125632/aws-invests-100-million-into-ai-center/amp",
+      "publishedDateTime": "2023-07-02T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023.md",
+      "title": "3 Artificial Intelligence Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2023",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The most exciting rally in the tech sector since 2021 has undeniably been in",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023-1032422283",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023-1032422283",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-02-the-robot-among-the-animals-an-optical-illusion-that-will-boggle-your-mind.md",
       "title": "The Robot Among the Animals: An Optical Illusion That Will Boggle Your Mind",
       "excerpt": "Did you know that Greek mathematician Archytas of Tarentum created the first known “robot” in the 5th century BC? Quite amazing isn’t it? This shows the power and skills of the human mind.",
@@ -1064,92 +1141,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-robot-takes-podium-as-orchestra-conductor-in-korea.md",
-      "title": "Robot takes podium as orchestra conductor in Korea",
-      "excerpt": "The two-armed robot, designed by the Korea Institute of Industrial Technology, made its debut at the National Theater of Korea, leading musicians in the country's national orchestra.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606",
-      "originalUrl": "https://www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/01/k3dwrlbpezmhfj54pggtboxzya.jpg",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606?amp",
-      "publishedDateTime": "2023-06-30T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-tfgm-no-ai-facial-recognition-in-new-oldham-speed-cameras.md",
-      "title": "TfGM: No AI facial recognition in new Oldham speed cameras",
-      "excerpt": "New speed cameras have been spotted going up around the borough, amid speculation they could include AI or facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theoldhamtimes.co.uk/news/23624964.tfgm-no-ai-facial-recognition-new-oldham-speed-cameras/",
-      "originalUrl": "https://www.theoldhamtimes.co.uk/news/23624964.tfgm-no-ai-facial-recognition-new-oldham-speed-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theoldhamtimes.co.uk/resources/images/16947498/?type=responsive-gallery",
-          "width": 650,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theoldhamtimes.co.uk/news/23624964.amp/",
-      "cdnAmpWebUrl": "https://www-theoldhamtimes-co-uk.cdn.ampproject.org/c/s/www.theoldhamtimes.co.uk/news/23624964.amp/",
-      "publishedDateTime": "2023-06-30T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theoldhamtimes",
-        "domain": "theoldhamtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

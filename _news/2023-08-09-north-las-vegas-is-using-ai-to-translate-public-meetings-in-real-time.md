@@ -7,7 +7,7 @@ originalUrl: "https://thenevadaindependent.com/article/north-las-vegas-is-using-
 webUrl: "https://thenevadaindependent.com/article/north-las-vegas-is-using-ai-to-translate-public-meetings-in-real-time"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 1923
     isCached: true
 
-related:
-  - title: "Xiao-I Elevates Global Presence with Debut Showcase of AI Innovations at Ai4 2023 Exhibition in Las Vegas"
-    excerpt: "Xiao-I's participation at Ai4 reinforces its commitment to global expansion, international product deployment, and continuous AI innovation, all driving its continued growth trajectory. This milestone also marks Xiao-I's inaugural presentation of products and services in the U.S., showcasing innovative AI technologies to American companies."
-    publishedDateTime: 2023-08-09T09:24:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273926217/xiao-i-elevates-global-presence-with-debut-showcase-of-ai-innovations-at-ai4-2023-exhibition-in-las-vegas"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 22
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1691469780468.jpg"
-        width: 630
-        height: 420
-        isCached: true
-
-secured: "O+OuXlRl99vtOy7LoEt+siYGMdlPwZrpmjj25x6Dese9mrTksWKNFz975/UqGDNgvvS3GlMgTHhk3gt5igRu/Xq1YmKAdIiLE5tzgKEwXSnvlmZuuLi2vmQs2Dr5Cm7r/0pC4th2obNcNJ4Vkd+VL+jmz1q4zZN4aC0FtYHGqMhypB0QZbHexakUnW2T4sipWcSq4fvv/JyheLCpgHXv1/xb3g0BUdhC54AHQ7LOl42rR/97DwiwOa1X7ZbOx1UkmMBV2wZofbTYryEW6AYvj98pbT6D4nksngVmIGflM3DXIJtb7eHDoOrfxpMSS/9p6yWWI5VrG17MkuCgZ3/jFm1gJLVDu/N6niuau19bCto=;tH2SuGRy//7a5GCAI7mrfA=="
+secured: "O3J/XwK++fyb6v8tb1r0H7l3rrRniV/qN3DZN2ST8Z5rEOC+A7IEz0Pj0wivKbv6Wpob8qeXQ3yTvJurNpvvvMyPZkalRRw+KioI/47ux6RoDhg7EMrmm6kOyTyCvBF1fFOa/UZXWviHzKtgpcfbNCjX/AVPKPVSvEXfqkxd7wNsn0K0KVaWLH4zsu3LRNqBunXzpD2kR5FcLmH1iDoPeRy4qSeLfM/En4aWYR1FCc4f3+b966ISw7tLrMaBgDlYIJ+qpc3uZO3yIiecMzd0avmRzDBy000t7DKSyEfzjvr71SEV8Rqy5OjN6lQ97kqY2IM8gSf5E9g6nu5UGPRa61crHUDFYxEgdMSh6MUsa3PTdbd4ZHvsJ+gK9oQ526HN5rjOB3JD65pHWntyduyneTQDYTWKaNmbThw0rUzKaCj2WMANaS1FeXyN7ydZygzFLuWkSQQpTFntIg8lAY+vf+iEWI5MNZwRyB2fmVbTFbg9PFv0PbGmXlKxgcUmTuicgiT4ZRabZ9ZHcZCuujONQQ==;KmWFwdjgRf+zE5W7Ttp0XA=="
 ---
 

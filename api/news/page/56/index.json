@@ -2,6 +2,92 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-06-30-fintech-dobin-brings-game-changing-ai-powered-solution-to-personal-finance.md",
+      "title": "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance",
+      "excerpt": "Singapore-based fintech Dobin has launched. Dobin is the first company in Southeast Asia to use open finance and advanced data analytics to: give users a single view of their finances; create unique anonymised customer insights;",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-killer-robots-or-not-ais-threat-to-jobs-is-real-which-is-why-it-must-be-handled-wisely.md",
+      "title": "Killer robots or not, AI’s threat to jobs is real – which is why it must be handled wisely",
+      "excerpt": "In the Terminator series of films, the military AI Skynet becomes self-aware and decides to wipe out humanity ... Meanwhile, proponents point out that while AI can be deployed in autonomous driving, facial recognition, as a mobile phone assistant or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "originalUrl": "https://www.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/06/29/e39e9827-0a8e-4fa8-b8df-f872ee2dc323_0ecd43bf.jpg?itok=1IXbtR8s&v=1688021011",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "publishedDateTime": "2023-06-30T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-ai-foundation-launches-aixyz-to-give-people-their-own-ai-assistants.md",
       "title": "AI Foundation launches AI.XYZ to give people their own AI assistants",
       "excerpt": "The AI Foundation, a lab that gave us virtual Deepak Chopra, has launched AI.XYZ, a platform for people to create their own AI assistants.",
@@ -1055,100 +1141,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-law-draws-pushback-from-big-brands-in-europe.md",
-      "title": "AI Law Draws Pushback From Big Brands in Europe",
-      "excerpt": "Executives from firms such as Heineken and Renault joined a lobbying effort as Europe negotiates the West’s first comprehensive rules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-law-draws-pushback-from-big-brands-in-europe-9a703f2",
-      "originalUrl": "https://www.wsj.com/articles/ai-law-draws-pushback-from-big-brands-in-europe-9a703f2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-809998/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram.md",
-      "title": "Meta reveals “secret” behind AI-powered content personalisation on Facebook, Instagram",
-      "excerpt": "Meta is explaining the AI influence in an effort to be more transparent and accountable. (Photo Credits: Reuters) We live in an era where we cannot imagine our day without Instagram or Facebook, but has this ever popped into your head that why are you consuming this particular content?",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/",
-      "originalUrl": "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/06/meta-2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/",
-      "publishedDateTime": "2023-06-30T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -23,31 +23,50 @@ topics:
   - AI
 
 related:
-  - title: "This robot aims to introduce Artificial Intelligence to Chennai’s school-going children"
-    excerpt: "This robot aims to bridge the distance between the children of Apollo cancer hospital and the classroom. Except, instead of blackboards and desks, the buddy robot extends a black screen with an intuitive network to those confined within the walls of the hospital."
-    publishedDateTime: 2023-08-08T10:04:00Z
-    webUrl: "https://www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece/amp/"
+  - title: "My Top AI Stock to Buy Right Now"
+    excerpt: "The Motley Fool has a disclosure policy. Want to Retire a Millionaire? This AI Stock Can Help With That. This Chip Stock Just Hit a Major Setback. Steve Jobs Predicted It. Calculated by average return of all stock recommendations since inception of the ..."
+    publishedDateTime: 2023-08-06T11:16:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 81
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
     images:
-      - url: "https://th-i.thgim.com/public/life-and-style/travel/hthd5l/article67167638.ece/alternates/FREE_1200/IMG_0914.jpg"
-        width: 1200
-        height: 800
+      - url: "https://g.foolcdn.com/editorial/images/741920/person-on-their-phone-in-apartment-sitting-on-the-floor.jpg"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "Toyota, Pony.ai plan to mass produce robotaxis in China"
-    excerpt: "Toyota and partner Pony.ai are planning to mass produce robotaxis in China, setting up a venture this year which will build cars that employ the startup's autonomous driving technology and ride-hailing services."
-    publishedDateTime: 2023-08-04T19:51:00Z
-    webUrl: "https://www.autonews.com/china/toyota-ponyai-plan-mass-produce-robotaxis-china"
+  - title: "This AI Stock Could Soar Big-Time This Month, and It Is a Screaming Buy Right Now"
+    excerpt: "Marvell Technology's near-term results aren't going to be pretty, but it is witnessing solid growth in demand for its chips from AI applications. Marvell expects its AI-related sales to double over the next couple of fiscal years. The stock's valuation and ..."
+    publishedDateTime: 2023-08-04T21:50:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/04/this-ai-stock-could-soar-big-time-this-month-and-i/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 34
+      name: The Motley Fool
+      domain: fool.com
+    quality: 64
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/742334/people-gathered-around-a-white-board-with-a-chart.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
+  - title: "Are AI partners a threat to women's rights?"
+    excerpt: "Chatbot apps like Replika, Character.AI and Soulmate are part of the fast-growing generative AI companion market, where users customise everything about their virtual partners, from appearance and personality to sexual desires."
+    publishedDateTime: 2023-08-07T05:16:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/are-ai-partners-a-threat-to-womens-rights/articleshow/102489423.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/are-ai-partners-a-threat-to-womens-rights/amp_articleshow/102489423.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/are-ai-partners-a-threat-to-womens-rights/amp_articleshow/102489423.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62088,msid-102489662/companion-chatbots.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "nCUDkOiXElVb7hwDEPeoFaCku73bWTQWgF91ZXjYYrf9up3dIQ1NEqs1tFf1gLznfcd6JneyJwTNAnUzONgZZvVLwniPkE+P2HbSZXN7eBMzhyIDyTu3J8zBKCgRip60ebsQhhHPtd0PiU/NtcFs7XOah3GZcmkV+4tEDx2plF0EHWVGyGqD22Z1man1M9YrqEHwpRc49x90ngpxcG9V5Re7xIVGmXkMM5d6OIDFbFJ5VYmAnhxUnG/YdYccZ0L0vrnL0Qx4QzvZyZFPAfcHk/VkGE5gmP92OVdXrs7r+z9Ajr9xaQf10XevLYmh64Lo/oaTugFcFL8eyjqbLt4LCSPrDqU7V57h47C+qAWtDQ5KpaeOSs1GJC92rQFBh0EW+77vYwWw0DtUeC2S/AX66PpaugMMhHfFvqcKgYOtu5760wNd4yPMxwxn0Zh9/UHJ5JLCInPbleDF6ErXmhhtj3MZQJ44eUAz8F6gGqpW5iychLYsIXWFr3yTdkRPZEY31VAVfjCqRiCkOhDulgZdmA==;l0a3OxlAJM4R8TRa6YvSqg=="
 ---

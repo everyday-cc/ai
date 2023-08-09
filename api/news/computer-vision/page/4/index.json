@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-27-6-key-features-of-singlestore-kai-for-mongodb.md",
+      "title": "6 key features of SingleStore Kai for MongoDB",
+      "excerpt": "Much of the data accumulated in today’s world is in JSON (JavaScript Object Notation) format ... enabling use cases like semantic search, image recognition, and similarity matching. No code changes or data transformations Developers can continue to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.html",
+      "originalUrl": "https://www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/07/real-time-os_nautilus_clock_against-the-clock_future_by-raspirator-getty-100804551-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.amp.html",
+      "publishedDateTime": "2023-06-27T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-putins-secret-weapon-is-russias-facial-recognition-surveillance-used-to-punish-dissenters.md",
       "title": "Putin's secret weapon is Russia's facial recognition surveillance used to punish dissenters",
       "excerpt": "Russian surveillance technology is powered in part by Silicon Valley big tech companies in the U.S. Facial recognition systems used by the Russian government are widely available around the world.",
@@ -1386,50 +1438,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf.md",
-      "title": "Apple Displaced As Top Holding By AI-Play Big Tech In Robot-Run Large-Cap ETF",
-      "excerpt": "The company’s potential to leverage its AI capabilities into standard features within every iPhone, iPad, and MacBook, including object and person recognition tools, could position it as a significant player in the AI space. The intensifying AI battle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/23/06/32778787/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf",
-      "originalUrl": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/23/06/32778787/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/TCS_Invests_In_AI_1.jpeg?width=1200&height=800&fit=crop",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32778787",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32778787",
-      "publishedDateTime": "2023-06-08T20:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,101 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2023-05-21-generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law.md",
+      "title": "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law",
+      "excerpt": "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6469acbdc2f130c6c676b6ea/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/amp/",
+      "publishedDateTime": "2023-05-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-bristol-experts-help-launch-first-driverless-buses-on-britains-roads.md",
+      "title": "Bristol experts help launch first driverless buses on Britain's roads",
+      "excerpt": "Bristol robot experts have helped create and launch what is being heralded as one of the most ambitious and complex trials of driverless ... together with artificial intelligence processing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260",
+      "originalUrl": "https://www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.bristolpost.co.uk/incoming/article8443273.ece/ALTERNATES/s1200/0_TCR_BRI_160523AutonomousBusBRI_02.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260.amp",
+      "cdnAmpWebUrl": "https://www-bristolpost-co-uk.cdn.ampproject.org/c/s/www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260.amp",
+      "publishedDateTime": "2023-05-21T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bristol Post",
+        "domain": "bristolpost.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-21-ai-can-you-tell-that-these-photographs-are-artificial.md",
       "title": "AI: Can you tell that these 'photographs' are artificial?",
       "excerpt": "A text prompt can be something as simple as \"woman shouting\" or \"twins\". The potential pitfalls of such content were recently demonstrated when German artist Boris Eldagsen entered this year's Sony World Photography Award with an AI-generated image and won.",
@@ -1091,109 +1186,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/amp/",
       "publishedDateTime": "2023-05-19T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind.md",
-      "title": "UK court tosses class-action style health data misuse claim against Google DeepMind",
-      "excerpt": "Google has prevailed against another U.K. class-action style privacy lawsuit after a London court dismissed a lawsuit filed last year against the tech giant and its AI division, DeepMind ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/",
-      "originalUrl": "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-874872698.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/amp/",
-      "publishedDateTime": "2023-05-19T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit.md",
-      "title": "High-Stakes: Generative AI Shakes Global Diplomacy At Japan’s 2023 G7 Summit",
-      "excerpt": "The G7 in Japan discussions are focused on the need for regulations to keep up with the rapid advancements in AI. Our goal is to start a global dialogue on the best way to adopt generative AI. It's important to start this conversation now before the AI wave overtakes us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6467ae6159db0ac6342e9948/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/amp/",
-      "publishedDateTime": "2023-05-19T10:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

@@ -2,6 +2,146 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-09-including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon.md",
+      "title": "Including AI, ML, Coding & Robotics in school curriculum is imperative now, says CISCE head Gerry Arathoon",
+      "excerpt": "The inclusion of AI and robotics in education is imperative for preparing students for future job opportunities and fostering holistic development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/education/features/including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon-101691500052761.html",
+      "originalUrl": "https://www.hindustantimes.com/education/features/including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon-101691500052761.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hindustantimes.com/ht-img/img/2023/08/09/1600x900/AI_and_ML_in_school_curriculum__1691580240632_1691580240817.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/education/features/including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon-101691500052761-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/features/including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon-101691500052761-amp.html",
+      "publishedDateTime": "2023-08-09T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-how-ai-and-ml-can-revolutionize-banks-signature-verification-process.md",
+      "title": "How AI And ML Can Revolutionize Banks’ Signature Verification Process",
+      "excerpt": "Despite increased digitization over the last decade, most organizations continue to rely on signatures as the primary method of transaction authentication.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d245bfa0bd804d8ede498f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/amp/",
+      "publishedDateTime": "2023-08-09T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-when-ai-and-robotics-combine.md",
+      "title": "When AI and Robotics Combine",
+      "excerpt": "Drawing on advances in the commercial tech industry, military organizations are combining AI software with drone ships, planes, and tanks to create what some call “lethal autonomous weapons systems” and others “killer robots”—that is,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenation.com/article/world/when-ai-and-robotics-combine/",
+      "originalUrl": "https://www.thenation.com/article/world/when-ai-and-robotics-combine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenation.com/wp-content/uploads/2023/08/robot-weapon-AP.jpg",
+          "width": 1440,
+          "height": 907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/",
+      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/",
+      "publishedDateTime": "2023-08-09T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Nation",
+        "domain": "thenation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-blueshift-memory-announces-successful-development-of-computer-vision-ai-accelerator-chip.md",
       "title": "Blueshift Memory announces successful development of computer vision AI accelerator chip",
       "excerpt": "Blueshift Memory, designer of a novel proprietary high-speed memory architecture, has announced the successful completion of a 13-month R&D project to demonstrate the performance of its Cambridge Architecture™,",
@@ -207,7 +347,7 @@
       "originalUrl": "https://www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -258,7 +398,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -352,7 +492,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tech-down-as-ai-enthusiasm-stalls-tech-roundup-db409f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -636,57 +776,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-08-survey-reveals-divisions-among-americans-when-it-comes-to-ai-use-and-trust.md",
-      "title": "Survey reveals divisions among Americans when it comes to AI use and trust",
-      "excerpt": "As artificial intelligence and generative AI continue to dominate the focus of tech companies, American consumer sentiment about AI is mostly split, according to a new survey by Seattle venture… Read",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/survey-reveals-divisions-among-americans-when-it-comes-to-ai-use-and-trust/",
-      "originalUrl": "https://www.geekwire.com/2023/survey-reveals-divisions-among-americans-when-it-comes-to-ai-use-and-trust/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/08/Screenshot-2023-08-08-at-9.39.39-AM.png",
-          "width": 1250,
-          "height": 858,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-08-microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch.md",
       "title": "Microsoft is expanding Bing AI to more browsers - but there's a catch",
       "excerpt": "Already available for select users in Chrome and Safari, the AI chatbot is wending its way to other browsers on both desktop and mobile.",
@@ -833,7 +922,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/08/even-the-pope-is-worried-about-ai-and-its-disruptive-possibilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1113,110 +1202,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-host-the-spark-ui-on-amazon-sagemaker-studio.md",
-      "title": "Host the Spark UI on Amazon SageMaker Studio",
-      "excerpt": "Amazon SageMaker offers several ways to run distributed data processing jobs with Apache Spark, a popular distributed computing framework for big data processing. You can run Spark applications interactively from Amazon SageMaker Studio by connecting SageMaker Studio notebooks and AWS Glue Interactive",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-the-spark-ui-on-amazon-sagemaker-studio/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-the-spark-ui-on-amazon-sagemaker-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/08/host-spark-ui-sagemaker-1260x627.jpg",
-          "width": 1260,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T07:56:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest.md",
-      "title": "Goldman Sees $1.5 Trillion Flowing To AI. Here’s Where To Invest",
-      "excerpt": "Innovations in electricity and personal computers unleashed investment booms of as much as 2% of U.S. GDP as the technologies were adopted into the broader economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d1177d31bc40f18165f247/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/08/goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest/amp/",
-      "publishedDateTime": "2023-08-08T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

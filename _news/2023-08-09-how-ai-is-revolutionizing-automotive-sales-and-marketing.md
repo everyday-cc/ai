@@ -27,46 +27,78 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Is Helping Today’s Small Businesses"
-    excerpt: "More small businesses are using artificial intelligence effectively, especially as pertains to marketing functions."
-    publishedDateTime: 2023-08-08T21:34:00Z
-    webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/"
-    ampWebUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/amp/"
+  - title: "How AI And ML Can Revolutionize Banks’ Signature Verification Process"
+    excerpt: "Despite increased digitization over the last decade, most organizations continue to rely on signatures as the primary method of transaction authentication."
+    publishedDateTime: 2023-08-09T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 106
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d2b06367b74f701ad9d11d/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d245bfa0bd804d8ede498f/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI is helping airlines mitigate the climate impact of contrails"
-    excerpt: "We used AI to help airlines choose routes that are less likely to cause contrails, minimizing the environmental impact of flights."
-    publishedDateTime: 2023-08-08T19:00:00Z
-    webUrl: "https://blog.google/technology/ai/ai-airlines-contrails-climate-change/"
+  - title: "Revolutionizing The Future: Unleashing The Power Of AI In An AI-First Cloud Paradigm"
+    excerpt: "To fully harness the potential of AI, a significant transformation of cloud infrastructure is necessary to handle AI workloads."
+    publishedDateTime: 2023-08-07T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/revolutionizing-the-future-unleashing-the-power-of-ai-in-an-ai-first-cloud-paradigm/amp/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 69
-  - title: "Small businesses use AI for efficiency; no impact on workforce employment rate yet"
-    excerpt: "Local small businesses are actually using AI to be more efficient, and local officials say there haven’t been any noticeable changes because of the program yet."
-    publishedDateTime: 2023-08-08T23:37:00Z
-    webUrl: "https://www.ksat.com/news/local/2023/08/08/small-businesses-use-ai-for-efficiency-no-impact-on-workforce-employment-rate-yet/"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 33
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/08-08-2023/t_97844676eae5409ba54ff734efd02908_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd52914684645a13364b30/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 754
         isCached: true
+  - title: "Latest Insights About AI And The Law With A Keen Spotlight On The American Bar Association Remarkable Resolution 604"
+    excerpt: "Take an informative journey through the American Bar Association considerations on AI and the law, including the ABA Resolution 604 that was passed earlier this year."
+    publishedDateTime: 2023-08-09T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/09/latest-insights-about-ai-and-the-law-with-a-keen-spotlight-on-the-american-bar-association-remarkable-resolution-604/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/09/latest-insights-about-ai-and-the-law-with-a-keen-spotlight-on-the-american-bar-association-remarkable-resolution-604/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/09/latest-insights-about-ai-and-the-law-with-a-keen-spotlight-on-the-american-bar-association-remarkable-resolution-604/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d323dcc7d1559713d9d11d/0x0.jpg?format=jpg&crop=3108,2071,x134,y0,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Xiao-I Elevates Global Presence with Debut Showcase of AI Innovations at Ai4 2023 Exhibition in Las Vegas"
+    excerpt: "Xiao-I's participation at Ai4 reinforces its commitment to global expansion, international product deployment, and continuous AI innovation, all driving its continued growth trajectory. This milestone also marks Xiao-I's inaugural presentation of products and services in the U.S., showcasing innovative AI technologies to American companies."
+    publishedDateTime: 2023-08-09T09:24:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273926217/xiao-i-elevates-global-presence-with-debut-showcase-of-ai-innovations-at-ai4-2023-exhibition-in-las-vegas"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 22
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1691469780468.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Sivi AI: Pioneering the Design Revolution With Generative AI"
+    excerpt: "In the fast-paced world of digital marketing and content creation, visuals play a pivotal role in capturing audience attention and conveying brand messages effectively. As the demand for captivating designs grows,"
+    publishedDateTime: 2023-08-07T18:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33607119/sivi-ai-pioneering-the-design-revolution-with-generative-ai"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
-secured: "j3W0lTpvDK2Y6D7A+DvQUrBjAPUE4WAnHYxIQdwi2oCNtTBV4uKzvhkRyvPWTy2x6KWoMnnkkXEk6nOLb18FjoRsZJ713YeF+fJs4RshSofRDjs9WAu5xQuYSWriScnEChwte1dyaV0TbXPlfYK7iopTo6KggStMTh1zG0QG9xZ+P7ngxnaffF6zJuBkujF8BzKQ+Cd0iQ2VFkLvbbYo8DcqreAbSDjXSsGKbtDfTTubW2gi7Mf4DY3Yh68n4HGV0mL+7G1AkkxMCyqaU/zt6e9lcZ7Y0zu1rT1YHXpcXwJL/bpixSURxdKrk/eqTJ+jqx9ccMlgwfYLpdMRtdcmstnK0dibaHkEJ7awT7JKavY=;vFeNdqv29FKZ7+m5Z1yhYg=="
+secured: "P/8z6Ed6EfkzZf8zHb3X7t6+FaiyIuSkxO+3DKSW+8dURNU0bx7b/7hys0lBd09J0P3OCgx1BgR0p+aYYlRIIB37Ve7cVGEjv8GLsCP0Z2yb/L1LfroIKq8UIgbK0nK7CE3PH3mHnCXSt8YjwDaGy4CvBfmUierJDYWR9w6rMafbxsr6YNHOiEovET4O587TIk1X7zQ8ts6f1GAdXIgfeeJX2GXI8TER3ubHVhegob05qTTqcNHd3uh0OYo8HF7KhPpCKFH8Qgovf+1YVj+mH6dQvJGqDYAG7wcmMZPnmTQ0l9nBPl4YcFsRQ71I6YNxMsq4Zg4BQxuUeseiIIx2N2GLT/ICGZD84IlfXLvcieBOD6BwjW4+9nnjDwTRJCDOhCGgyasWUyfzXX7ox69WtPono63CdjWM+ky53sfknBgWPKAiGXdTn4OGW9BnAokdzeIlNKTvFxMM74sz5FBDrgoMXFleDLdzoFPSPRs4Iqmk0bA1NSnEiNuVhIxT8KMFtHrhFhTh85SGDk3cYASeQA==;N8EFlSYkRPhEl6SFzLsmew=="
 ---
 

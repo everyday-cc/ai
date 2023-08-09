@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI is revolutionizing automotive sales and marketing"
-    excerpt: "As the technology continues to evolve, dealerships, marketers, and OEMs must seize the opportunities presented by AI to drive innovation."
-    publishedDateTime: 2023-08-09T09:03:00Z
-    webUrl: "https://www.cbtnews.com/how-ai-is-revolutionizing-automotive-sales-and-marketing/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 73
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/08/64308b4c3030fd96b1ab8475_Artboard-4.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Small businesses use AI for efficiency; no impact on workforce employment rate yet"
     excerpt: "Local small businesses are actually using AI to be more efficient, and local officials say there haven’t been any noticeable changes because of the program yet."
     publishedDateTime: 2023-08-08T23:37:00Z

@@ -39,6 +39,15 @@ related:
         width: 1639
         height: 886
         isCached: true
+  - title: "Syxsense Announces AI-Powered Cortex Copilot Bringing Natural Language Processing to Endpoint Management and Security Automation"
+    excerpt: "Cortex Copilot builds on the existing functionality of Syxsense Cortex ™ - which already delivers a no-code, drag-and-drop visual designer that enables IT and security administrators to quickly build complex automated workflows for software deployment,"
+    publishedDateTime: 2023-08-09T11:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-syxsense-announces-ai-powered-cortex-copilot-bringing-natural-/2023/08/09/9861644.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
 
 secured: "XnNHwCe8NABkeqB8EVeVRqru1zTu/qqXYOTL+kHHy0il/ZpvLDxNgPYdhxg0Vua9VR9orwBt8BhFWgv2+HxQFhGW9KBmQ/+kKCIY/p3J3RgU0tJKO6E7Y/ncz7wpSRF8LFwicbqzAKW82IweqU39D1gmbXxDiWfAr9tcQ3MH84mt0EOOZibgrZ5+VrlBfM5+vZZIq2x+Kr8dgS3bRfHPSc+Dn2jLx6R9c5qbnfFxLUw7Hj8nKAybVn0wplil/F79Uw9uBzfqihNPK43RhWRUCH6NQ20r4NchIcCzUEYNjrQ6sOQhZIv429/KBN7U7YSvjd04lv9ydgr3d9xAGqUVKt+NCoZi/+iSxOLRDE93RHsoJVLBt3yYcToBlTF9snmjpvBHBFj4KYnO+27j+KY37yj2PrUuQQ7Td9PxbpbXphP6+gd7+HFls4vlOqZgdmG5KH73yDuq4W1HnXsJzRcSDEgEkobAQCQ6Ucvx0kAn7oZ3Ni7Pw/MMKad9mknJvWDW2HI/mrv44EAV/eJW2pw2Iw==;hVCt04oDay3v0MRMLNGsSw=="
 ---

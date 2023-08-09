@@ -19,31 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "This robot aims to introduce Artificial Intelligence to Chennai’s school-going children"
-    excerpt: "This robot aims to bridge the distance between the children of Apollo cancer hospital and the classroom. Except, instead of blackboards and desks, the buddy robot extends a black screen with an intuitive network to those confined within the walls of the hospital."
-    publishedDateTime: 2023-08-08T10:04:00Z
-    webUrl: "https://www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece/amp/"
+  - title: "Toyota, Pony.ai Team Up on Robotaxis With USD140 Million JV"
+    excerpt: "Japanese auto giant Toyota Motor and Chinese autonomous driving startup Pony.ai are investing CNY1 billion (USD140 million) to set up a joint venture that will promote the large-scale roll out of unmanned taxi services across China."
+    publishedDateTime: 2023-08-07T07:23:00Z
+    webUrl: "https://www.yicaiglobal.com/news/toyota-ponyai-team-up-on-robotaxis-with-usd140-million-jv"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 81
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 54
     images:
-      - url: "https://th-i.thgim.com/public/life-and-style/travel/hthd5l/article67167638.ece/alternates/FREE_1200/IMG_0914.jpg"
-        width: 1200
-        height: 800
+      - url: "http://img.yicaiglobal.com/src/image/2023/08/30096746559173.jpg"
+        width: 770
+        height: 510
         isCached: true
-  - title: "The 3 Best AI Chip Stocks to Buy in August"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Until the trend fails, chip stocks should remain in focus. Throughout 2023,"
-    publishedDateTime: 2023-08-08T19:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-in-august-1032530506"
+  - title: "Toyota forms $140K joint venture with self-driving startup Pony.ai and GAC"
+    excerpt: "Toyota announced on Friday a RMB 1 billion ($140,000) joint venture with self-driving car developer  and GAC-Toyota in the hope of"
+    publishedDateTime: 2023-08-07T10:06:00Z
+    webUrl: "https://technode.com/2023/08/07/toyota-forms-140k-joint-venture-with-self-driving-startup-pony-ai-and-gac/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: TechNode
+      domain: technode.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
+        isCached: true
+  - title: "Pony.ai, Toyota to deploy large-scale robotaxi network"
+    excerpt: "In total, Pony.ai has a combined fleet of about 200 Toyota and Lexus brand robotaxis located in all four Chinese Tier-1 cities — Guangzhou, Beijing, Shanghai and Shenzhen — where they are road tested and are the public face of the company’s robotaxi services."
+    publishedDateTime: 2023-08-08T12:54:00Z
+    webUrl: "https://electronics360.globalspec.com/article/20036/pony-ai-toyota-to-deploy-large-scale-robotaxi-network"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 17
 
 secured: "jhet2rYES3j9k5iBjWSpnyuxHAcsbX6gFG70MOKkB14T5b7ho13v5Tv4Hy3GVPsW0K2Dv+IbBrSEjvXbI52SsFwGnlcCgFrbrPwCHKDF7wOOeKWotRJZRV+G/QZTz8NEWbT3hz2S1yqKA9Dy/rbF1O+d7LLLhJ/jrtLq6D87MFSGIrHgV1ddaZOxoVbNfZdeSqEdLepImJ9Bb/0Iq7xvoRI92KC5VKI8aBteDQJ3YPpMlh4QmVjIfnHAoShCxc2Ck4/4o6GEtFx+ftC8qZAUW0Vevj9KdFPRPuuCScXX8r1fX4RlgknhdYJ/BXQnA07WqAVKha2tYhrLYd56gmDwHq8qEe3Ew57aCvxkJ35ak9/Gc9EoX2fFr6wiqsKH1KDRYoa+hOnZqrqAMHARmjIVx1XlitSXuHLfRBNlF2nj3P9OGtFY5M8ppQBnYH90zCQNAOrclH43M8bQLMoAwmBGAWZmk3/aT9yhoJ3oU8od7tzYWmUJFdUf/VQW96DeexzuSm56OI/TNXdxgaZHgj7HYQ==;JWspXRo6DlJteaxAPwihtQ=="
 ---
