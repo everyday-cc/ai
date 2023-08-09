@@ -206,6 +206,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "What the Finance Industry Tells Us About the Future of AI"
+    excerpt: "What will artificial intelligence do to industries and jobs? For a preview, look to the finance industry which has been incorporating data and algorithms for a long time, and which is always a canary in the coal mine for new technology."
+    publishedDateTime: 2023-08-09T07:15:00Z
+    webUrl: "https://hbr.org/2023/08/what-the-finance-industry-tells-us-about-the-future-of-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 54
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/08/Aug23_09_5277464.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "These Generative AI Startups Offer 4 Lessons For Leaders"
     excerpt: "Here's how two generative AI startups perform on these four tests. Loora - a Tel Aviv-based Generative-AI powered English learning app - is clearly solving an important problem. A large rival taps a related market; its team has strong technical skills and a passion for the problem, and Loora is winning customers as it refines its product."
     publishedDateTime: 2023-08-09T06:29:00Z

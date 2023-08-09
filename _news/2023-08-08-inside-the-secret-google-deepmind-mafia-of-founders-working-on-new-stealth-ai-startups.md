@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-08T10:43:00Z
 originalUrl: "https://www.businessinsider.com/stealth-ai-startups-emerge-from-google-deepmind-2023-7"
 webUrl: "https://www.businessinsider.com/stealth-ai-startups-emerge-from-google-deepmind-2023-7"
 type: article
-quality: 76
-heat: 91
+quality: 78
+heat: 93
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/5beb0fed01b12d5fed0bff43?width=1200&format=jpeg"

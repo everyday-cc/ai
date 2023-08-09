@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/host-the-spark-ui-on
 webUrl: "https://aws.amazon.com/blogs/machine-learning/host-the-spark-ui-on-amazon-sagemaker-studio/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: AWS
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Optimize data preparation with new features in AWS SageMaker Data Wrangler"
-    excerpt: "Data preparation is a critical step in any data-driven project, and having the right tools can greatly enhance operational efficiency. Amazon SageMaker Data Wrangler reduces the time it takes to aggregate and prepare tabular and image data for machine learning (ML) from weeks to minutes. With SageMaker"
-    publishedDateTime: 2023-08-04T15:25:07Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 102
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/04/optimize-data-prepration.jpg"
-        width: 1016
-        height: 507
-        isCached: true
   - title: "Deploy thousands of model ensembles with Amazon SageMaker multi-model endpoints on GPU to minimize your hosting costs"
     excerpt: "Artificial intelligence (AI) adoption is accelerating across industries and use cases. Recent scientific breakthroughs in deep learning (DL), large language models (LLMs), and generative AI is allowing customers to use advanced state-of-the-art solutions with almost human-like performance. These complex"
     publishedDateTime: 2023-08-08T14:50:24Z

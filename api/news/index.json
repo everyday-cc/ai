@@ -207,7 +207,7 @@
       "originalUrl": "https://www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -884,7 +884,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -1117,6 +1117,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-08-host-the-spark-ui-on-amazon-sagemaker-studio.md",
+      "title": "Host the Spark UI on Amazon SageMaker Studio",
+      "excerpt": "Amazon SageMaker offers several ways to run distributed data processing jobs with Apache Spark, a popular distributed computing framework for big data processing. You can run Spark applications interactively from Amazon SageMaker Studio by connecting SageMaker Studio notebooks and AWS Glue Interactive",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-the-spark-ui-on-amazon-sagemaker-studio/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-the-spark-ui-on-amazon-sagemaker-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/08/host-spark-ui-sagemaker-1260x627.jpg",
+          "width": 1260,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T07:56:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest.md",
       "title": "Goldman Sees $1.5 Trillion Flowing To AI. Here’s Where To Invest",
       "excerpt": "Innovations in electricity and personal computers unleashed investment booms of as much as 2% of U.S. GDP as the technologies were adopted into the broader economy.",
@@ -1166,58 +1218,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-everestlabs-is-using-robotic-arms-and-ai-to-make-recycling-more-efficient.md",
-      "title": "EverestLabs is using robotic arms and AI to make recycling more efficient",
-      "excerpt": "EverestLabs puts 3D depth-sensing cameras on recycling conveyor lines to identify materials, then employs robotic arms to pluck out recyclable packaging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/08/everestlabs-using-robotic-arms-and-ai-to-make-recycling-more-efficient.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/08/everestlabs-using-robotic-arms-and-ai-to-make-recycling-more-efficient.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107283370-1691509319958-Photo-for-dotcom.jpg?v=1691512117",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/08/everestlabs-using-robotic-arms-and-ai-to-make-recycling-more-efficient.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/08/everestlabs-using-robotic-arms-and-ai-to-make-recycling-more-efficient.html",
-      "publishedDateTime": "2023-08-08T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-interne
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
 type: article
 quality: 91
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64cd52914684645a13364b30/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 754
+        isCached: true
+  - title: "Artificial Intelligence is already radically altering the world of case management"
+    excerpt: "Some of the brightest minds in the technologies of the future have been unusually vocal about the potential dangers of Artificial Intelligence (AI), with"
+    publishedDateTime: 2023-08-09T08:23:00Z
+    webUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/"
+    ampWebUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
+    cdnAmpWebUrl: "https://hrnews-co-uk.cdn.ampproject.org/c/s/hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
+    type: article
+    provider:
+      name: UK Human Resources News
+      domain: hrnews.co.uk
+    quality: 53
+    images:
+      - url: "https://hrnews.co.uk/wp-content/uploads/2023/08/Image-62.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
     excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"

@@ -18,17 +18,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Waymo announces Austin as its fourth major city"
-    excerpt: "Waymo, the self-driving technology company under Google’s parent company Alphabet, has officially announced Austin as its fourth major ride-hail city."
-    publishedDateTime: 2023-08-04T15:13:00Z
-    webUrl: "https://www.iottechnews.com/news/2023/aug/04/waymo-announces-austin-its-fourth-major-city/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 19
-
 secured: "goI+b4LfKMOCmN2hwq2U2COtRpKub+mxHri7+lGG1APGobVI2Z3kJNgaO4RyL7N1L5Fjx9gaAHLQJPTY3Lluu5fUXPhHUcqHFehBFEBhTiKxhj3dkkymulFoDzDRlJ81dEvjElaqlGAp4jOzX48JV5fTFWJa+TJ/FI0JySf35Ha2eGuK1ZKnIlphbm0pTapQz8YIWRtykk1cUs8dPioIlYp7l/jigR5oHe42jA9jj1Ji9ED0t8eqtxDtdUw4MPCwbZc12/xetHVhdXPvizipIGs+PmbkOSj492e3E1EzTEq9VcyyqhrdAgslzVvjiXwklVvXOiASp8DQoEYdJNxfgm7bciPWSt+0oBtS+E2gwb4=;2BuHxpJf+F8xVYu9oyv+zg=="
 ---
 

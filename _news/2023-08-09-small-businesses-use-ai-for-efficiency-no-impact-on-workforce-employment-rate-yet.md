@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI is revolutionizing automotive sales and marketing"
+    excerpt: "As the technology continues to evolve, dealerships, marketers, and OEMs must seize the opportunities presented by AI to drive innovation."
+    publishedDateTime: 2023-08-09T09:03:00Z
+    webUrl: "https://www.cbtnews.com/how-ai-is-revolutionizing-automotive-sales-and-marketing/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 73
+    images:
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/08/64308b4c3030fd96b1ab8475_Artboard-4.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "How AI is helping airlines mitigate the climate impact of contrails"
     excerpt: "We used AI to help airlines choose routes that are less likely to cause contrails, minimizing the environmental impact of flights."
     publishedDateTime: 2023-08-08T19:00:00Z

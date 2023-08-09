@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-25-mark-zuckerberg-has-become-so-obsessed-with-ai-that-one-wall-street-research-firm-is-jesting-that-facebook-will-change-its-name-to-metai.md",
+      "title": "Mark Zuckerberg has become so obsessed with AI that one Wall Street research firm is jesting that Facebook will change its name to MetAI",
+      "excerpt": "After a Metaverse spending splurge last year, the company has been buying a lot of Nvidia chips, which are needed to train large AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mark-zuckerberg-obsessed-with-ai-meta-facebook-change-name-metai-2023-4",
+      "originalUrl": "https://www.businessinsider.com/mark-zuckerberg-obsessed-with-ai-meta-facebook-change-name-metai-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/634dc8cc6bd52700191508cd?width=1200&format=jpeg",
+          "width": 931,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mark-zuckerberg-obsessed-with-ai-meta-facebook-change-name-metai-2023-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mark-zuckerberg-obsessed-with-ai-meta-facebook-change-name-metai-2023-4?amp",
+      "publishedDateTime": "2023-04-24T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-why-c3ai-stock-cratered-on-monday.md",
       "title": "Why C3.ai Stock Cratered on Monday",
       "excerpt": "The bearish sentiment came courtesy of Wolfe Research analyst Joshua Tilton, who downgraded C3.ai to underperform (sell) from peer perform (hold). At the same time, the analyst assigned a price ...",
@@ -1320,49 +1372,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-how-researchers-are-using-ai-fruit-flies-to-make-major-biological-breakthroughs.md",
-      "title": "How researchers are using AI, fruit flies to make major biological breakthroughs",
-      "excerpt": "KANSAS CITY, Mo. (KCTV) - Artificial intelligence is taking the world to a new era at the Stowers Institute for Medical Research. AI is making major breakthroughs in biology that have stumped ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/",
-      "originalUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kctv-prod.cdn.arcpublishing.com/resizer/T8YzKAN3cuVd7ooBW0YR1SxdDMg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QE3MRHDW6NAFJHDPKHACMG53UM.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/?outputType=amp",
-      "publishedDateTime": "2023-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KCTV News",
-        "domain": "kctv5.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

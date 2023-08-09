@@ -99,19 +99,19 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "OpenAI files trademark for GPT-5 revealing some clues about a next-generation ChatGPT"
-    excerpt: "OpenAI has already filed a trademark for the next iteration of its GPT large language model, introducing GPT-5, the company's next-gen LLM."
-    publishedDateTime: 2023-08-04T15:38:00Z
-    webUrl: "https://www.tweaktown.com/news/92709/openai-files-trademark-for-gpt-5-revealing-some-clues-about-next-generation-chatgpt/index.html"
+  - title: "How to add ChatGPT to Visual Code Studio for AI coding"
+    excerpt: "One of the most notable features of the ChatGPT Genie AI extension is its ability to utilize Azure OpenAI Service deployments. This allows users to harness the power of Azure’s cloud computing capabilities, enhancing the performance and efficiency of the ..."
+    publishedDateTime: 2023-08-08T20:58:00Z
+    webUrl: "https://www.geeky-gadgets.com/add-chatgpt-to-visual-code-studio/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 32
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
     images:
-      - url: "https://static.tweaktown.com/news/9/2/92709_3652_openai-files-trademark-for-gpt-5-the-next-iteration-of-famous-chatgpt_full.jpg"
-        width: 1500
-        height: 843
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-add-ChatGPT-to-Visual-Code-Studio.jpg"
+        width: 700
+        height: 449
         isCached: true
   - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
     excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."

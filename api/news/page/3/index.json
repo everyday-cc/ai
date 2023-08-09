@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-07-the-future-of-programming-in-a-generative-ai-world.md",
+      "title": "The Future Of Programming In A Generative AI World",
+      "excerpt": "Generative AI is revolutionizing programming, making coding more accessible and productive, but ethical considerations and human expertise remain crucial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/",
+      "originalUrl": "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c60efbf4e8ba5b40ade19b/0x0.jpg?format=jpg&width=1200",
+          "width": 600,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/",
+      "publishedDateTime": "2023-08-07T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones.md",
+      "title": "Machine Learning In Your Pocket: Unleashing The Full Potential Of Smartphones",
+      "excerpt": "On the consumer side, smartphone-based personal AI assistants capable of learning from their users' habits might someday be the big selling points of flagship devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64cd5b440a5f09082a364b32/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/amp/",
+      "publishedDateTime": "2023-08-07T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation.md",
       "title": "Why do we need safeguards for AI? Cyber security, human manipulation",
       "excerpt": "AI has the potential to significantly improve our lives by finding new cures for diseases, cost-effectively educating the masses and solving some of humanity's most complex problems. However, I am also convinced that without the appropriate safeguards,",
@@ -889,6 +993,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-05-jp-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin.md",
+      "title": "J.P Morgan To Launch AI Program To Boost AI Fintech Innovation In Partnership With TIFIN",
+      "excerpt": "In a significant move for the fintech sector, TIFIN, a leading artificial intelligence (AI) platform for wealth, and J.P. Morgan (NYSE: JPM) have announced the launch of TIFIN.AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin",
+      "originalUrl": "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/08/04/contributors_4_0.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33585861",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33585861",
+      "publishedDateTime": "2023-08-05T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-05-fomo-driven-generative-ai-acquisition-spree-has-begun.md",
       "title": "FOMO-Driven Generative AI Acquisition-Spree Has Begun",
       "excerpt": "The market frenzy in Generative AI acquisitions has begun. Let's try to predict which corporations will be active first in the Generative AI sector.",
@@ -1041,159 +1188,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-how-will-ai-impact-your-industry-pew-research-has-answers.md",
-      "title": "How will AI impact your industry? Pew Research has answers",
-      "excerpt": "As seen by the results, the industries with the least amount of exposure are those that require a physical actual human, such as a barber or a dishwasher, or that require skills that cannot be recreated by AI, such as interpersonal communication needed to be a sales manager or chief executive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-will-ai-impact-your-industry-pew-research-has-answers/",
-      "originalUrl": "https://www.zdnet.com/article/how-will-ai-impact-your-industry-pew-research-has-answers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/fbfc2acf029df715a70a2814a1ee5221d3edbb3a/2023/08/04/0c25e0c8-cd05-452c-be00-15fed3498805/gettyimages-1451024169.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-will-ai-impact-your-industry-pew-research-has-answers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-will-ai-impact-your-industry-pew-research-has-answers/",
-      "publishedDateTime": "2023-08-04T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-ai-bots-could-soon-become-your-new-customer-service-agent.md",
-      "title": "AI bots could soon become your new customer service agent",
-      "excerpt": "If you thought getting through an automated voice system was annoying, you could soon try getting through an AI bot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-bots-could-soon-become-your-new-customer-service-agent/",
-      "originalUrl": "https://www.zdnet.com/article/ai-bots-could-soon-become-your-new-customer-service-agent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/574ad552295b7fe72b2a95f25478449eaaa86df0/2023/08/04/8f693c73-034a-4be4-b8ef-216ddeaa6485/gettyimages-1502919517.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-bots-could-soon-become-your-new-customer-service-agent/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-bots-could-soon-become-your-new-customer-service-agent/",
-      "publishedDateTime": "2023-08-04T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity.md",
-      "title": "Technologists Are The New Superheroes On Corporate Boards In The Age Of AI, Blockchain And CyberSecurity",
-      "excerpt": "As tech-driven disruptions and cyber threats reshape industries at an unprecedented pace, the need for technical expertise on corporate boards has never been more",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64cd4a39912a743867716411/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/amp/",
-      "publishedDateTime": "2023-08-04T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

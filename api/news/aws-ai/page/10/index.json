@@ -2,6 +2,111 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-04-19-aws-vice-president-bratin-saha-on-the-bedrock-generative-ai-tools.md",
+      "title": "AWS Vice President Bratin Saha on the Bedrock Generative AI Tools",
+      "excerpt": "Bratin Saha, Vice President, AI & Machine Learning at AWS, details Amazon’s new initiative in generative AI, and also discusses current and future trends in artificial intelligence. I spoke with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/aws-bedrock-generative-ai-tools/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/aws-bedrock-generative-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/04/New-eSPEAKS-thumbnail.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-aws-builds-generative-ai-for-b2b-from-the-bedrock-up.md",
+      "title": "AWS Builds Generative AI For B2B From The Bedrock Up",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into AWS' recent AI announcements and how it could be huge for foundational models and other areas of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/04/18/aws-builds-generative-ai-for-b2b-from-the-bedrock-up/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/04/18/aws-builds-generative-ai-for-b2b-from-the-bedrock-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643f0205fa6b6d50540990c5/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/04/18/aws-builds-generative-ai-for-b2b-from-the-bedrock-up/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/04/18/aws-builds-generative-ai-for-b2b-from-the-bedrock-up/amp/",
+      "publishedDateTime": "2023-04-18T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-sas-customer-intelligence-360-launched-in-aws-marketplace.md",
       "title": "SAS Customer Intelligence 360 Launched in AWS Marketplace",
       "excerpt": "CARY, N.C., April 18, 2023 — SAS Customer Intelligence 360 is now available to purchase in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors that make it easy to find, test, buy, and deploy software ...",
@@ -1248,92 +1353,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-a-staggering-number-of-new-tools-revealed-by-the-google-search-for-ai-tools.md",
-      "title": "A Staggering Number Of New Tools Revealed by “The Google search for AI tools”",
-      "excerpt": "A new search tool for AI, known as Topapps.ai reveals just how proliferated tha AI tool industry has become. In short: if you believe you know what AI is and what it can do, it is highly probable that this tool will re-educate you on the vastness of possibilities.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/a-staggering-number-of-new-tools-revealed-by-the-google-search-for-ai-tools/",
-      "originalUrl": "https://techbullion.com/a-staggering-number-of-new-tools-revealed-by-the-google-search-for-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-artificial-intelligence-chatbots-market-forecast-2023-2030-google-nuance-communications-aws.md",
-      "title": "Artificial Intelligence Chatbots Market Forecast 2023-2030| Google, Nuance Communications, AWS",
-      "excerpt": "IBM, [24]7.ai, Google, Nuance Communications, AWS, LogMeIn, Inbenta, Kore.ai, Gupshup, AIVO, Yellow Messenger, CogniCor Technologies, Passage AI, Chatfuel, SmartBots.ai The comprehensive Artificial Intelligence Chatbots market report covers various important market-related aspects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-forecast-2023-2030-google-nuance-communications-aws-2023-04-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-forecast-2023-2030-google-nuance-communications-aws-2023-04-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

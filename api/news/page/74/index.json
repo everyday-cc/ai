@@ -2,6 +2,126 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2023-06-21-deepmind-co-founder-wants-the-new-turing-test-to-be-based-on-how-good-an-ai-is-at-getting-rich.md",
+      "title": "DeepMind Co-Founder Wants the ‘New Turing Test’ to Be Based on How Good an AI Is at Getting Rich",
+      "excerpt": "With artificial intelligence hype leaving venture capitalist firms foaming at the mouth, ready to buy into any new company that sticks an “A” and “I” in its name, we sure as hell need a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/",
+      "originalUrl": "https://www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/06/21/7f93bbcb28942de51d929b39f7c7da7f.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/amp/",
+      "publishedDateTime": "2023-06-21T00:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-china-pushes-its-development-of-intelligent-vehicles.md",
+      "title": "China pushes its development of intelligent vehicles",
+      "excerpt": "China will support the commercial application of Level 3 and above autonomous driving systems, as part of its broader push to bolster the development of intelligent connected vehicles, the country's top industry regulator said on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202306/21/WS64929b37a310bf8a75d6b1e6.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202306/21/WS64929b37a310bf8a75d6b1e6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-capgemini-and-aws-announce-the-launch-of-a-technology-platform-to-improve-the-lifespan-of-aircraft-parts.md",
+      "title": "Capgemini and AWS announce the launch of a technology platform to improve the lifespan of aircraft parts",
+      "excerpt": "Email: magali.rouault@capgemini.com AWS Press Contact:Jonny StokesTel.:+ 31 621 52 37 43 Email: jjstokes@amazon.nl Capgemini and AWS announce the launch",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/tr32940522/capgemini-and-aws-announce-the-launch-of-a-technology-platform-to-improve-the-lifespan-of-aircraf",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/tr32940522/capgemini-and-aws-announce-the-launch-of-a-technology-platform-to-improve-the-lifespan-of-aircraf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32940522",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32940522",
+      "publishedDateTime": "2023-06-20T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning.md",
       "title": "Jamia to offer short-term training programme on Artificial Intelligence and Machine Learning",
       "excerpt": "All students from UG, PG and PhD scholars and faculty with mathematical backgrounds are eligible for the course. The training programme will be conducted for three weeks from July 4 to 22.",
@@ -990,142 +1110,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-purely-ai-generated-songs-declared-ineligible-for-grammy-awards.md",
-      "title": "Purely AI-generated songs declared ineligible for Grammy Awards",
-      "excerpt": "Amid increasing use of generative AI in music, the Recording Academy has updated its rules for the 66th annual Grammy Awards regarding the role of AI in considered works, Reuters reports. To be eligible for an award,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/tin_robots_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/amp/",
-      "publishedDateTime": "2023-06-20T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-researchers-expand-ability-of-robots-to-learn-from-videos.md",
-      "title": "Researchers expand ability of robots to learn from videos",
-      "excerpt": "The research could help improve the utility of robots in the home, allowing them to assist people with tasks like cooking and cleaning. Two robots successfully learned 12 tasks including opening a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/06/230620113807.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/06/230620113807.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-biden-holds-meeting-on-possibilities-and-the-risks-of-ai.md",
-      "title": "Biden holds meeting on 'possibilities and the risks' of AI",
-      "excerpt": "President Biden held a meeting on artificial intelligence during a visit to San Francisco.  He assured his administration would work to \"manage the risks to our society\" while \"safeguarding\" the rights and safety of Americans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/biden-holds-meeting-on-artificial-intelligence-183553093957",
-      "originalUrl": "https://www.nbcnews.com/video/biden-holds-meeting-on-artificial-intelligence-183553093957",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687293423519_f_mo_dc_biden_ai_meet_230620_1920x1080-etwbna.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo183553093957",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183553093957",
-      "publishedDateTime": "2023-06-20T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

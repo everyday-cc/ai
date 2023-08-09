@@ -202,6 +202,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-05-jp-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin.md",
+      "title": "J.P Morgan To Launch AI Program To Boost AI Fintech Innovation In Partnership With TIFIN",
+      "excerpt": "In a significant move for the fintech sector, TIFIN, a leading artificial intelligence (AI) platform for wealth, and J.P. Morgan (NYSE: JPM) have announced the launch of TIFIN.AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin",
+      "originalUrl": "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/08/04/contributors_4_0.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33585861",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33585861",
+      "publishedDateTime": "2023-08-05T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-investing-in-ai-with-john-cassidy.md",
       "title": "Investing In AI, With John Cassidy",
       "excerpt": "John Cassidy is a Partner at Kindred Capital, a UK-based venture capital firm. Before he became an investment professional, he co-founded CCG.ai, a precision oncology company which he sold to Dante Labs in 2019.",
@@ -1324,50 +1367,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-alteryx-unveils-new-decision-intelligence-and-intelligent-automation-capabilities-on-aws-for-finance-leaders.md",
-      "title": "Alteryx Unveils New Decision Intelligence and Intelligent Automation Capabilities on AWS for Finance Leaders",
-      "excerpt": "IRVINE, Calif., July 11, 2023 — Alteryx, Inc. has announced new decision intelligence and intelligent automation capabilities on Amazon Web Services (AWS) designed to empower chief financial officers (CFOs) and finance leaders to embrace cloud and data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/alteryx-unveils-new-decision-intelligence-and-intelligent-automation-capabilities-on-aws-for-finance-leaders/",
-      "originalUrl": "https://www.datanami.com/this-just-in/alteryx-unveils-new-decision-intelligence-and-intelligent-automation-capabilities-on-aws-for-finance-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png",
-          "width": 1893,
-          "height": 767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "AI in Finance"
       ]

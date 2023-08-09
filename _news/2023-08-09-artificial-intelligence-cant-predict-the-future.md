@@ -200,6 +200,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "What the Finance Industry Tells Us About the Future of AI"
+    excerpt: "What will artificial intelligence do to industries and jobs? For a preview, look to the finance industry which has been incorporating data and algorithms for a long time, and which is always a canary in the coal mine for new technology."
+    publishedDateTime: 2023-08-09T07:15:00Z
+    webUrl: "https://hbr.org/2023/08/what-the-finance-industry-tells-us-about-the-future-of-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 54
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/08/Aug23_09_5277464.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Episode 8: Artificial intelligence and the future of warfighting"
     excerpt: "The advent of ChatGPT and its successor, GPT-4, in recent months has brought artificial intelligence into everyday use. Far from being science fiction, AI is now a frontier for the U.S. military as it competes with China, Russia and other global adversaries."
     publishedDateTime: 2023-08-08T10:33:00Z

@@ -22,22 +22,6 @@ topics:
   - AWS AI
   - AI
 
-related:
-  - title: "Salesforce Goes BYOM for AI"
-    excerpt: "Salesforce today launched Einstein Studio, a bring-your-own-model (BYOM) AI development tool that allows customers to bring AI models they have already"
-    publishedDateTime: 2023-08-04T16:19:00Z
-    webUrl: "https://www.datanami.com/2023/08/04/salesforce-goes-byom-for-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/Cloud_shutterstock_Joe-Techapanupreeda.jpg"
-        width: 1000
-        height: 664
-        isCached: true
-
 secured: "LydQy3jyZSYljN2OTbxuvb4m17/XzwiQeAbdQrVaXcd2xcTiWccsAJXQ0AB7aP1rHr7ObK7i89cm/W9oeDzalVYlA5p5Q3z65YYpUbq7Yb9yYJ0x2IH/E5nfP3hl83mCjO9Hb8EI12OWjF7KGlrxQnMBjUoBUNfAORdzO7q1eXkt7g2YNnCstHCyPhHEqlMzPx+OBWTFUpdKs4FDyTAqIAzDTXuPKWCxw2wJODJNUYuZC/3NeNtmLJH2yx0x2NHbDzGVEan0e2po1DNBJG5x2mh4bAe+tF4UL5SwI/yU4Fk268l36yuBp0A7VsM0XMEeD5B/RKPGB5BEhqdcW+etTBXvdUbaU9lbLVotE1B6kdDWPsduM67W1LoN9FGnvFxR1KLT5mYfwHGVtIFepsAAFu/9vl05o5mkc3oXX5gtFw5Q+08wUTcGApjvfGZd1bfLYO6IpPwiT+zyPoZyPIMU48+4Lbgrk2grVt4X+WI4WPAXfYESwjGgjwfUCQT3X7MTze3pypEJqm0hU9YBHX43bw==;5ID2Ot0J6BLGDOBioP20kg=="
 ---
 

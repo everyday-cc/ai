@@ -23,17 +23,6 @@ images:
     height: 1125
     isCached: true
 
-related:
-  - title: "Apple seeks to bolster expertise in generative AI on mobile devices"
-    excerpt: "All the jobs were advertised between April and July and indicated that Apple was working on “ambitious long-term research ... Facebook owner Meta, but planned to grow further, the person said. In 2020, Apple paid almost $200mn for Seattle-based AI ..."
-    publishedDateTime: 2023-08-05T13:00:00Z
-    webUrl: "https://www.ft.com/content/d74477b6-8355-42a9-ae37-7c835880ef9e"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
-
 secured: "r+hqe63wLwt7A36SmXLqvz7MoeJ/cKU8lX3UrRxEaG6K2VIWRFCD+d5nrPmyy4AaiX4TwEXi7Xz0mjQDNLpeH8FP9RALRtQdCTdh/1HWwdAfyWKN43QCc9GKbqJSU84jSWXG/1QFzS1Y8BK93lBesAOOj/iyjawFkJqg2lLjCJSwyaD6SWyjSbH+TM5b/UtMJCLtMqMnQbfSvMkB9dvrlDrdkLeUTMHKRQNqtr5zMxSqL/VncHHDCdVK/ThFa7kVFw5MqPcvKZ3dqrCcvE6+Ui27JPSl9IgtPNqoEn9F0CBcES2bAbnIFZWlooKWhZ0lY8oZ2cWcAHdFNfwFSuo72SpYpAnNBzxDglpouhHdLGtHyG1GfI3J0kDk/a9DzWTdROr6O8CJk28KPAdN1xPDv2kG/LQDnT9TwFlkDsmdXl3LskecuXAaI2ZNHH0B0uJ0bmj6fKmMpJKYvga6EuOecZmAwZZRSFHQCvQ6BuPmqUOKXzymTUdiNNIZ8lCHC7yJhHXy6Lf2MOQoW6l/zK9mYg==;EerU343zn/1DLW71gHzxlg=="
 ---
 

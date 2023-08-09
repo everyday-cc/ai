@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 749
         isCached: true
+  - title: "Nvidia Unveils New AI Chip Set to Cut Cost of Running LLMs"
+    excerpt: "Nvidia appears to have turned up the heat on its competitors within the artificial intelligence (AI) hardware space."
+    publishedDateTime: 2023-08-09T08:14:00Z
+    webUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/"
+    ampWebUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 74
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/nvidia-ai-chip-llms.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "MindsDB raises funding from Nvidia to democratize AI application development"
     excerpt: "MindsDB aims to democratize AI development and production for all stripes of developers without requiring specialized AI training."
     publishedDateTime: 2023-08-08T16:00:00Z
@@ -157,6 +173,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/nvidia.png"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Nvidia improves AI processor"
+    excerpt: "Grace Hopper superchip increases capacity and speed Nvidia announced an updated AI processor that gives a jolt to the chip's capacity and speed. Nvidia  told the gathered throngs at the Siggraph conference in Los Angeles that its Grace Hopper superchip,"
+    publishedDateTime: 2023-08-09T09:52:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57390-nvidia-improves-ai-processor"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/3e814bcb2a51dbe3c5633f6e423c21b2_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Nvidia Teases New Hardware, Software, and Services for AI"
     excerpt: "The star of the show was the new Grace Hopper Superchip GH200, which NVIDIA says was \"designed from the ground up for giant-scale AI.\""

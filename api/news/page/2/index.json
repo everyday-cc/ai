@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-08-everestlabs-is-using-robotic-arms-and-ai-to-make-recycling-more-efficient.md",
+      "title": "EverestLabs is using robotic arms and AI to make recycling more efficient",
+      "excerpt": "EverestLabs puts 3D depth-sensing cameras on recycling conveyor lines to identify materials, then employs robotic arms to pluck out recyclable packaging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/08/everestlabs-using-robotic-arms-and-ai-to-make-recycling-more-efficient.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/08/everestlabs-using-robotic-arms-and-ai-to-make-recycling-more-efficient.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107283370-1691509319958-Photo-for-dotcom.jpg?v=1691512117",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/08/everestlabs-using-robotic-arms-and-ai-to-make-recycling-more-efficient.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/08/everestlabs-using-robotic-arms-and-ai-to-make-recycling-more-efficient.html",
+      "publishedDateTime": "2023-08-08T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-how-to-build-more-sustainable-transportation-infrastructure.md",
       "title": "How to build more sustainable transportation infrastructure",
       "excerpt": "Transportation infrastructure—the networks of fixed installations that ensure safe transport of people and goods—is a critical part of modern economies.\nThe post How to build more sustainable transportation infrastructure appeared first on IBM Blog.\n",
@@ -398,7 +450,7 @@
       "originalUrl": "https://www.businessinsider.com/stealth-ai-startups-emerge-from-google-deepmind-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -438,7 +490,8 @@
       ],
       "topics": [
         "AI",
-        "Google AI"
+        "Google AI",
+        "Facebook AI"
       ]
     },
     {
@@ -536,7 +589,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -680,6 +733,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-aws-to-support-korean-startups-with-generative-ai-accelerator.md",
+      "title": "AWS to support Korean startups with Generative AI Accelerator",
+      "excerpt": "Amazon Web Services (AWS) will help Korean AI startups grow with its Generative AI Accelerator, a program that combines powerful AI tools with business, technical mentors and experts, the global-leading cloud computing service provider said Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202308/01fe39d3e3a946b0bdd3a186fae09566.jpg",
+          "width": 980,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593",
+      "publishedDateTime": "2023-08-07T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1129,110 +1225,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-the-future-of-programming-in-a-generative-ai-world.md",
-      "title": "The Future Of Programming In A Generative AI World",
-      "excerpt": "Generative AI is revolutionizing programming, making coding more accessible and productive, but ethical considerations and human expertise remain crucial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/",
-      "originalUrl": "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c60efbf4e8ba5b40ade19b/0x0.jpg?format=jpg&width=1200",
-          "width": 600,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/",
-      "publishedDateTime": "2023-08-07T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones.md",
-      "title": "Machine Learning In Your Pocket: Unleashing The Full Potential Of Smartphones",
-      "excerpt": "On the consumer side, smartphone-based personal AI assistants capable of learning from their users' habits might someday be the big selling points of flagship devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64cd5b440a5f09082a364b32/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/amp/",
-      "publishedDateTime": "2023-08-07T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

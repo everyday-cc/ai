@@ -206,6 +206,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "What the Finance Industry Tells Us About the Future of AI"
+    excerpt: "What will artificial intelligence do to industries and jobs? For a preview, look to the finance industry which has been incorporating data and algorithms for a long time, and which is always a canary in the coal mine for new technology."
+    publishedDateTime: 2023-08-09T07:15:00Z
+    webUrl: "https://hbr.org/2023/08/what-the-finance-industry-tells-us-about-the-future-of-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 54
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/08/Aug23_09_5277464.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Episode 8: Artificial intelligence and the future of warfighting"
     excerpt: "The advent of ChatGPT and its successor, GPT-4, in recent months has brought artificial intelligence into everyday use. Far from being science fiction, AI is now a frontier for the U.S. military as it competes with China, Russia and other global adversaries."
     publishedDateTime: 2023-08-08T10:33:00Z
@@ -262,6 +276,6 @@ related:
       domain: tmcnet.com
     quality: 13
 
-secured: "LGOTtYxU2jrOBaw3VZPBz1VD98i8PnruV6uDsw+im7E8AwqIfFV0LJgO69Y+yX91V52iaTZKeCsuPGmZnIueaCxYfMkPwDTuGlRWwRqhJ8xtAchjWNy/KJpnz/Qw/1BAajtIcKvexKnvUzZDS3TsLDJGO+DxyoZ6C9gm9ife2fHwmPqlg7KRA5aCveP21kFDrcuQBwOPH3zi0TAVxQftRZqy+JGwlH59OmwRSPAeSaf57J4bjQt6Qp4kqk6I+K1Jry4wYXtw100AatC5YK13uHUXtZxa4ol0QYQ2U8dvpaT0dp4+g9qJtxpH9SQZUMv8T+D1UYI4qzo0EYdDRX0aaOriEZOBgF0rndUE/X8kuAc=;BKGx6tvzXZMCuJyOi/SNEg=="
+secured: "QRqU3UuZKUA9QfRw56pIqpypCG+0MPFgYHp0eofKTjTvpFBfP54gX/HhfV3rYT7ODbgcJioo16eF5lGyHcyEqonjBV/L5twpWm17QLLOp/c7EW2Zq2lhlFK2cCSFzkgalmpnO6aDQUnYYH1CayeKAA18dEm4wdBpLVQGqZzBY77ZW+IUcXbTDM3Vmb6DNKJ6Z+SzQS+sjMi0ZWxHqkLlysJMZhne1zFjP+W0Mnl3p1HyM+UWeGbSpILM2s66Uqh3IPI96TB3i2IWTCaVO2sI7X07IAkyiERRCo90u56/tgVz2dgBqDs0I3n3+BEJbZ2XkEBm+9Kwchg3ZZXC2amd50OoK6apDNsJnqM00ub1gZA0TPVbGb8FDLBafTg8qe8oWef5+6u3vhYmQbVtmxLr/IyGj9I07HkkdX3z97svr9J0lFjBTegKpdGs+3pMAV1Vboh+LHfkdJkB0sJejYHj+XJi2oTRUINIhDysOxasEzhK7VK/QjWCFuoVW4NWA/T1EGcReOVmiFSfM9edSL0pJA==;fnN2t9Sf0o5upF86BgyXjA=="
 ---
 

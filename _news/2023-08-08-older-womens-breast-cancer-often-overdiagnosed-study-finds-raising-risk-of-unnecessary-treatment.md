@@ -3,18 +3,18 @@ category: news
 title: "Older women’s breast cancer often overdiagnosed, study finds, raising risk of unnecessary treatment"
 excerpt: "A recently published study found that large numbers of American women ages 70 to 85 are potentially overdiagnosed with breast cancer and therefore could receive unnecessary treatment."
 publishedDateTime: 2023-08-08T00:55:00Z
-originalUrl: "https://www.wgal.com/article/older-women-breast-cancer-overdiagnosed/44755779"
-webUrl: "https://www.wgal.com/article/older-women-breast-cancer-overdiagnosed/44755779"
-ampWebUrl: "https://www.wgal.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
-cdnAmpWebUrl: "https://www-wgal-com.cdn.ampproject.org/c/s/www.wgal.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
+originalUrl: "https://www.kcra.com/article/older-women-breast-cancer-overdiagnosed/44755779"
+webUrl: "https://www.kcra.com/article/older-women-breast-cancer-overdiagnosed/44755779"
+ampWebUrl: "https://www.kcra.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
 type: article
 quality: 45
 heat: 45
 published: false
 
 provider:
-  name: WGAL
-  domain: wgal.com
+  name: kcra.com
+  domain: kcra.com
 
 topics:
   - AI in Healthcare
@@ -37,6 +37,6 @@ related:
       domain: news-medical.net
     quality: 10
 
-secured: "foMhxSO6du/Hp3JNhuDKT24jfcpJE+tTzN9GYzUeFy85EFzv9CJWE4Ync+scfCO6nfDLty3Cc3uzryYqoiF32TVbelbZNuidzwdKkMeXwg750uTqPKA3P33NqHASMu9TCckhM9lac9tUtdWv/tsj1tsdArqb9YFIkWGZmgf+3arfEl3HhrDNpMKy6Qt58zkgTk94sLqOrIXmcHo+M2vo6SgWWj0+d7wXVirN3ERRC3LP3xSDTR0heqTuvsKl24UPDMXcv8tD83HdGsg6syXLda5ipZ99oaI/2eRUE2bbS0GwgnoSj1YlIDsI8xHF0LohFsA6/Y+TnzRvgMJ2cxydJPRuteznRLO62KM7MDd5j/apbn1YaEZiQz6Vf7LUfwaq+mUz2eOu+WHxlbceSI8PqnBCusVNCUDFasvltbS/2zVbdOoIiSk8heOJAbFpug55NuzEhkOfAG55m5uagqFScdCIFM5iUNpeJ0VhhpkQOOmzh+3zHviudQWtmLGS8z0+ka/mBT7aciPWhA9K+7KVsg==;EJD9jRLvPFH2c1eCWAV2fw=="
+secured: "pptwp+tlIthU3Vz68hAFzTMiayBtBCHEwaq0VO5dmAie4OntrsinH7wJnglO0Q71p8e3QqeLBTe4ePaRikvv9xQmGDvDPEGz+PfBio1Jl1QueVFWWMU3m46Hnw3LZV8jFsqo/U1geDOCeyO28gPa8baD7eL39o+BEs8YMzExhcGl60rk+WXLzwCkdB4WshHFM/lAl3Qu8v0bSPS22Tyb5BA50XktFObATtBnwwRDB2GPWeKxhCHNfRHPJO5DbDCiy9OGEf6R4T9wfBunq+auwnSZRLzabFuoY0QdVZUwFlX5e4Kp+pe1wp+mTlywbtdpRIr/QkU6GWkT5jM9w8Dq/R4hxcH+jLUUtFAIJ2h7n0w=;AwK3bWGsAYbryfyiJ4Z+KA=="
 ---
 
