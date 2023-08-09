@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI is Not a Question of “If,” But “Should,” so Organizations Must Have a Risk Management System in Place"
-excerpt: "As AI's ethical challenges surface, expert Mark Beccue discusses the importance of having a robust risk management system in an organization."
-publishedDateTime: 2023-08-08T16:45:00Z
-originalUrl: "https://marketscale.com/industries/software-and-technology/ai-ethics-risk-management-system/"
-webUrl: "https://marketscale.com/industries/software-and-technology/ai-ethics-risk-management-system/"
+excerpt: "Explore AI's ethical challenges and the importance of a robust risk management system for decision-making and data privacy."
+publishedDateTime: 2023-08-08T14:02:00Z
+originalUrl: "https://marketscale.com/industries/software-and-technology/ai-is-not-a-question-of-if-but-should-so-organizations-must-have-a-risk-management-system-in-place/"
+webUrl: "https://marketscale.com/industries/software-and-technology/ai-is-not-a-question-of-if-but-should-so-organizations-must-have-a-risk-management-system-in-place/"
 type: article
 quality: 22
 heat: 22
@@ -24,6 +24,6 @@ images:
     height: 667
     isCached: true
 
-secured: "FhbkwfTfYlmcQsm4EsCjn7ZgtdEKCBUPe16g5tmo4V9n/3M9G/rv0LajeBAGqmRKvOBVYRGcnhJHp5gBR2ZsE8MCTOkAa9Umz3B7MAGmj3NK3rrZeaW0qiF42K21HWAjosdS8BIQ2cOg+rmqHZGUdAdmm3v8dBp1bTezck4UiKLjsWY3qRxGcDAWiUHEkDwmMjuxBxcQVvkJBa+vZDYXjI1jrYBSOUPTuYlek8Op43xcDUEUeh0TnJceaiT4BG4+PK196wmb5PrG5f1r/6U6CJLiEgwcOHzXz5U3YPDI4Y7wZNC6ikVF5ddv74hJdj/xKi1HiFZQZ2hKsp4ldeQDF4Lg+ts0cHPUDYQXsr3/7i+YLhEl1jZ5xqgBFNL70InZyK0E6ZunEk4jI9kvWQvbBrKZGVN7I2WcHoNmUhWKILBYRuuBe547x7KU8gLX1u3ulSSKYdpwwCybTL8ZWlWA5xZOKh9Dlt2InB8keA+7TgyovKZtQgN+XdrnS61LZFQGHFliPbauSAcdWdOqtXr7hg==;JBWo77QdGbn287tgthDEnw=="
+secured: "nDqmxN/Mio59Ap+80QTGy9H5pQOPY23oseb39aANVWsSDEjmUAC/8WJkC81RCY0v/0ou8fg5bPPZ1kCAyYDvuNNL/Y1agwLlp8IpGt+5AoExgn8oyILVil5iVcBdHPaAYTpYhQH0CQ0jRUmeTHQDCF9/bepqIKWwtd7fkgUk7GQSigLxgNGusKUKhggNYZ5w0Qdch3EMY7FebzLX09dP5kPgizIulCmE788fxh8nudZvTzZ0xr6AQfyNQkVd11iDsvFZquFpA0Afj2QcS5H1wgJl32Bxucvya/j8ls0orSjy2KDZEUvraIx8PnVrEunx/o28PMPiTJ3PhuREv03ZFJjERlik0n/ZUJ0U7H4o7c0=;4gT1PPrLB458Cuwef9xq8g=="
 ---
 

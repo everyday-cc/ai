@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "The Future of Fintech in the Middle East 2023"
-    excerpt: "Middle Eastern ambitions drive the Digital Gulf In 2020, a research paper was released titled ‘Statistical models and stochastic optimisation in financial technology and investment science’ by Tze L."
-    publishedDateTime: 2023-08-05T00:00:00Z
-    webUrl: "https://www.finextra.com/researcharticle/283/the-future-of-fintech-in-the-middle-east-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/finextra-paper-05082023-homepage.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "2023’s Biggest Fintech Acquisition Deals"
     excerpt: "To get a sense of this year’s fintech M&A landscape, we compiled a list of eight of the largest merger and acquisition (M&A) deals in the sector announced in the first half of 2023."
     publishedDateTime: 2023-08-08T04:07:00Z
@@ -138,6 +124,6 @@ related:
         height: 267
         isCached: true
 
-secured: "2Fvgf+6imrAaiJPPs9zJZU3vy+pmYs3Jk8lg/U+5LYxNOEWFumqdAuZS7HbzUtbBMEftDnqDM3bFwhrAO0DrMCZ0cK8+tLE/0faixfj30y75H7tIxT/5gSj3+ba/CzvscU7IAhosp4G8dV01XVlKhUXZWpVZsaGMjrTvJWBz7D1iWrTHIV4toEdiDemga1eXAqc+swrA8eQ4iovqmDWqZWsigIqiqy0WP49472jWMu0CoSVUg5it7HR6kd56SeSON1kVnGiVDd7mHrJJszimMxa+a5EdSjgeaXZOwzxmkHwTLQ69OOPb7+CypmSnwu7Cke+j95oKOa/jz+TWXXrqRMwURtZ8mhBF03MBeHoETNg=;juUGAwKPDIfB5OMHoLu2xA=="
+secured: "aSCY9VPt2A74Uq4hBy+jPElYYB8fK8A0d/ljsw3W4yDsZ6BOaQKL6NTlhIKix4YOt6Euq4pVPFTZ0A6K6Jd3KNm1PGzNkn3pjcgfwQ3KLeDLF9eFkGvTBTv79fSgdLa1Bi0r+YLXXh47coDEiP2gIjwJlhXY52czjv0UTQ2dMTtuk+B62VuXwrTK9yQx1E42Fz1G2ZAfxrhNMOExYTDlqIgCpHd5PMqHCj6NZgyMsalCnz9Dqx+BXox/KCjsxLHeX4ZHHMVu42wFu55/8aHoDFVdyaCfnjW+W0Z1xs4xl+m5mFI/vdqn6pgdSKmfdHSFd+6DTsG30oDcMtsMpTfCM1Xf/3d7pZJ80cFpbODS1mmw0LRCpgNsxcjyfW8TJQkGnhwjwsTAlzDtJNLzqHF5ilVGxVe7bMp1EIY07ICqcd8vJlkMIS9aDQLBDE5r/Zt3Q1uIUCqUDrmtt9nBUvYpRHtD0Xd4X8TmeedcOcMm0ZRnFXIV84uGf9N3L6nfAd/94azhCNSO2/sjxwYb+wkZow==;oMwmFheZMC3YR+KNPM4oEg=="
 ---
 

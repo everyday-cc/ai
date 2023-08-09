@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/global-development/2023/aug/09/ai-chatgp
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2023/aug/09/ai-chatgpt-doomerism-threat-already-here-big-tech-algorithms-sow-disinformation"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Guardian
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Computer Vision - Northern Africa"
+    excerpt: "Value in the Computer Vision market is projected to reach US$127m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.72%, resulting in a market volume of US$333m by 2030."
+    publishedDateTime: 2023-08-05T12:19:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/northern-africa"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 39
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech Recognition - Northern Africa"
     excerpt: "Value in the Speech Recognition market is projected to reach US$39m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 18.40%, resulting in a market volume of US$128m by ..."
     publishedDateTime: 2023-08-05T12:19:00Z

@@ -230,6 +230,34 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Microsoft AI Integration Sends Aptos Token APT Soaring 13%"
+    excerpt: "The price of APT is soaring after Microsoft announced it was partnering with Aptos Labs, the developer behind the blockchain."
+    publishedDateTime: 2023-08-09T15:49:00Z
+    webUrl: "https://decrypt.co/151860/microsoft-ai-aptos-labs-apt-token"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 54
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/02/aptos-mo-shaikh-gID_7.jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Microsoft and Aptos Labs partner to combine blockchain and AI for banks"
+    excerpt: "Microsoft has teamed up with Aptos Labs on an effort to combine the power of AI and the blockchain to drive web3 into the mainstream."
+    publishedDateTime: 2023-08-09T16:26:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42762/microsoft-and-aptos-labs-partner-to-combine-blockchain-and-ai-for-banks"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/blockchain-network.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Microsoft and Aptos Labs partner to combine blockchain and AI"
     excerpt: "Microsoft has teamed up with Aptos Labs on an effort to combine the power of AI and the blockchain to drive web3 into the mainstream."
     publishedDateTime: 2023-08-09T15:26:00Z
@@ -282,6 +310,20 @@ related:
       - url: "https://coinjournal.net/wp-content/uploads/1970/01/1668682922828-56020534-38b6-4f96-8028-c48dac595657.jpg"
         width: 500
         height: 282
+        isCached: true
+  - title: "Aptos Labs partners with Microsoft to build AI blockchain solutions using OpenAI"
+    excerpt: "Aptos Labs, the blockchain startup founded by former Meta Platforms Inc. employees behind the defunct Diem blockchain, today announced that it has partnered with Microsoft Corp. to “explore innovative solutions” in blockchain and Web3 technology such as artificial intelligence, tokenization and payments."
+    publishedDateTime: 2023-08-09T16:24:00Z
+    webUrl: "https://siliconangle.com/2023/08/09/aptos-labs-partners-microsoft-build-ai-blockchain-solutions-using-openai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Aptos_Labs__Aptos_Labs_x_Microsoft.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kyndryl, Microsoft to Accelerate Adoption of Industrial-Level Generative AI for Businesses"
     excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
@@ -362,6 +404,6 @@ related:
       domain: networkworld.com
     quality: 26
 
-secured: "v2arGAnM7l8ejCdcgSM/S78oEE4htHEj/xuVq6MA5vUhuMZVgBDwSvHJ0XOeggTNWL9yB8pP9YW1SmqbSfh/1Njl67U9/aOccFRwnIcdXpGMPIg9QEfCku3zAz+63+iXJ+DyQlRhjOuuxletU4xmqDl5ZsHKPmppqyJ56MRD1l2yGIZNXmPsFA159KuRSHCrpxwlU8FpRaex504uSj6kE+0i3nFm7514cPMaEXbfHBHXsksk6J1vqVPwLcueqPRhgx/bK0WSHk6WxaO0onkYCtOQvktYcKJOx7diBGLIM7UVZovsIyZLm7NwKNo5Am336PrqgE+0cGchPx3BB5LTIa4+7hw1YQdHa4dfIusnAo8=;QlRzM6O6cxFeiA93CXc9cQ=="
+secured: "xJcruS3/h7jEiWeFGa92yuekpLhWm65ODxN5Sv3aPybDKWR+DZ9LoGaUeBd0UY6kW2LnL6a5Dpz/rwFhwMOppSYOYiJzEVRc7MZGUULBoEYqbkbo7wGrwz/3RBYq56ON6gJCjfutRFtJTixQpZgH9bx0WOlP0Zqhnp5SciAjDKjbGYzGCN2NI7UhGN78lChe083femqYOo6q+fWKJt1MbF5bcvJkQbf7NAEmrfsDyhz+RSiAoh58ZdjahWhdaHthRiIlReNmCRptIpzzkSl32RCTPxYZ+OQ+UuwPCEBh/7AEuahkKFP7lVO6JGfsF3E70+8EPR//PkTWYBrRlqbkgu096mFtlD05DSkOzt4zdO+GgvmXaYBAdoDLIUBXTPGz3QXMsN333OJcyMSwi05hxOMjVlJa7uBzQ6ALhHjEhZ9AyW3CXqfXB4dZFE6dzpOefktN+A29O0+ROeC2gXGbekQAIlcjjhJz/XkRTVvueIyoj6RIxWBOPt1aV9PFcDVgtJ0DY2/eAnsAPp4qAQnmkw==;jVxoR+W6HRr3eos+aa/LwA=="
 ---
 

@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "The Future of Fintech in the Middle East 2023"
-    excerpt: "Middle Eastern ambitions drive the Digital Gulf In 2020, a research paper was released titled ‘Statistical models and stochastic optimisation in financial technology and investment science’ by Tze L."
-    publishedDateTime: 2023-08-05T00:00:00Z
-    webUrl: "https://www.finextra.com/researcharticle/283/the-future-of-fintech-in-the-middle-east-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/finextra-paper-05082023-homepage.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Why FinTech Companies Are Increasingly Relying on IT and How"
     excerpt: "In the last few years, the fintech sector has been going through a tremendous transformation due to the advancements in the IT industry. The fintech companies have entered the financial industry landscape with innovative solutions that revolutionize traditional banking and financial services."
     publishedDateTime: 2023-08-08T06:35:00Z

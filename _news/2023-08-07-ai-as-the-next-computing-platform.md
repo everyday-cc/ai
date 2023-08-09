@@ -102,6 +102,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI is still driving Big Tech earnings"
+    excerpt: "They AI hype cycle isn't dying down anytime soon. Need proof? Look no further than Big Tech's latest earnings reports."
+    publishedDateTime: 2023-08-09T17:34:00Z
+    webUrl: "https://www.aol.com/finance/ai-still-driving-big-tech-142614990.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/uisH.yiSbE_YLXOVEz86aQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/eb39acbfcfa311ae697dbc83e8c016c3"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Bringing Artificial Intelligence into the classroom"
     excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
     publishedDateTime: 2023-08-08T02:40:00Z

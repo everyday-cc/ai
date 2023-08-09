@@ -33,7 +33,7 @@ related:
     provider:
       name: cryptopolitan
       domain: cryptopolitan.com
-    quality: 43
+    quality: 45
     images:
       - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-09_09-00-08.jpg"
         width: 1024

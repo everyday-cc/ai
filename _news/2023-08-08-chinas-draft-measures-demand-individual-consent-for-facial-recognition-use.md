@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-indiv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 800
         height: 492
         isCached: true
+  - title: "China Drafts Rules for Facial Recognition Technology"
+    excerpt: "The Cyberspace Administration of China has issued draft rules governing the use of facial recognition technology amid public concerns about its overuse."
+    publishedDateTime: 2023-08-09T16:38:00Z
+    webUrl: "https://cacm.acm.org/news/275343-china-drafts-rules-for-facial-recognition-technology/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "SYYX1JqGvnxIuSOoHuqEdNNDccQXuOCDZou/5El9EDBPQ+QD3Ae5SHV1xO3CKZ9dhKZX5By6UyrT0mmrNV2m7ypgOBrbz+HG6qE7DLMRinzPDaIh4fUL4JrC6MV6F4XVLwy6gD/XgGrwxMC669K6e1qvZ2lZr9yHkrLbhdUYFicvPbiXwb72kCxGM6Ve+gOX7LjA1stbEeXuJtZBTTye7DShkRT3QN4LnectRU+gnJbnYvqKEBKRwlH1lurxQDrGeYtiWIfAHkIf2OyLUR7HG3SdTJIxJRlJvjblNQEzavVL2/w/B66bpBeKs8QvFND4FWUpfQVpTKI7A5PIn86bzMAkncZTIUIVaudEgYsC4CaP3ANHxwU/nPrdKmddNp3V4+LgCF1eRxJz1sgPBOZ3caCLMEaNPYf/xAoUR3+pU3SxRMTibsOVvv4pRV8uwMpqmw2eQ1Cpyz2DamasuUsMu4KiDaIiNh4RdjJIPuBojo0IX5QhfJLT9op/yWR9VDT3s/81ay7l2P82zSGmgCSQ4w==;jWZ6rwSpfa+bXuk4NPQntQ=="
 ---

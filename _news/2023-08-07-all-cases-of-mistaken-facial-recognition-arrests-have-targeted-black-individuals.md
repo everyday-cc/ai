@@ -69,6 +69,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "China Drafts Rules for Facial Recognition Technology"
+    excerpt: "The Cyberspace Administration of China has issued draft rules governing the use of facial recognition technology amid public concerns about its overuse."
+    publishedDateTime: 2023-08-09T16:38:00Z
+    webUrl: "https://cacm.acm.org/news/275343-china-drafts-rules-for-facial-recognition-technology/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "h7s7Phrd5pI5rpDLQGSeF/jZxIRNMA8Bl0CU8w2239MqQlBbu19t7C32ZTzM6CxZdPjeZdQAjv8Bmk932ZtashuTLK/zOCz0XlTS6u0zaung05N8A50H3UsnseMcC92LMbtlIgQ/WDbc2Kf48D8E9RLLRbS8HCAm0fnfmYoMiw+Uei9MPUwCPQGZBVb38MYt2pvC5WVuuCz9D62m0lYmzBjkdcgwxGZQ3oDjEibTaoJP1brQAVp9i6rxnplSzWvZHOmmjp/n9riWGdgH/lWJpjxkE5Xvk0AxMXEFa0D8Q7AkiPhFrJw3f29nP6ewYwwaCmYlm1e//0no8fE7Yyq77znnW32Ly6vow54Fsa5E0k4=;8QbwxRpe+3tE8W7ccPyotQ=="
 ---

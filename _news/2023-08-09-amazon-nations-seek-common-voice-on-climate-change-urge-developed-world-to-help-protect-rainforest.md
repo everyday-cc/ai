@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Amazon nations seek a common voice on climate change and urge action from the industrialised world"
+    excerpt: "Read more about Amazon nations seek a common voice on climate change and urge action from the industrialised world on Devdiscourse"
+    publishedDateTime: 2023-08-09T12:30:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2552681-amazon-nations-seek-a-common-voice-on-climate-change-and-urge-action-from-the-industrialised-world"
+    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2552681-amazon-nations-seek-a-common-voice-on-climate-change-and-urge-action-from-the-industrialised-world?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2552681-amazon-nations-seek-a-common-voice-on-climate-change-and-urge-action-from-the-industrialised-world?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 30
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_11_2019_17_57_13_4143764.jpg?width=1280"
+        width: 1280
+        height: 673
+        isCached: true
   - title: "Amazon nations seek common voice on climate change"
     excerpt: "Leaders from South American nations home to the Amazon challenged developed countries Tuesday to do more to stop massive destruction of the world's largest rainforest, a task they said can't fall to just a few when the crisis has been caused by so"
     publishedDateTime: 2023-08-09T05:00:00Z

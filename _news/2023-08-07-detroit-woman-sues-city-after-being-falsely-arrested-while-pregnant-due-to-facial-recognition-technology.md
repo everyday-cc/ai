@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
+    excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
+    publishedDateTime: 2023-08-08T21:11:00Z
+    webUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+    ampWebUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 66
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
+        width: 1680
+        height: 971
+        isCached: true
   - title: "Pregnant woman arrested after facial recognition tech error"
     excerpt: "Porcha Woodruff is the third person wrongly arrested by Detroit police due to the AI software in as many years."
     publishedDateTime: 2023-08-07T20:00:00Z
@@ -267,15 +283,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
-    excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
-    publishedDateTime: 2023-08-08T19:10:00Z
-    webUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 26
   - title: "Detroit woman sues city over false arrest while 8 months pregnant due to faulty facial recognition"
     excerpt: "A Detroit woman who claims she was falsely arrested for carjacking and robbery while eight months pregnant is suing the city over faulty facial recognition technology used by the police department, according to court documents."
     publishedDateTime: 2023-08-07T23:50:00Z
@@ -395,6 +402,6 @@ related:
         height: 697
         isCached: true
 
-secured: "0wncA49pxvH+WnK9yXFGjKQjW9DvKvgboG1M7yJ5ZbllNY3itj3WVxsLOiybUb1Tr/1xiSlzoR1qpXHZ3leVtG7nseIz875eFdUba61ZrC1uYBa5PqwxsQjJlLl2F+loBlDOi9MwWlKxJzAU4qMk+JKYXKIb/8mVzNadszhWFTsEUpABh1E/bgev/3fAeKIBSl4IwLlmtaszPmAVAIUWeKX0crfO6M0Q41cYpjqS7KaPcMc2RMMYIBeR/stvgVuGyfA2ZIB3i9qPGsQ8VbMJk4/bKjfPe2dnRNhnwFYIIg9vOX5yZZKLYShglSqYDKYMsWm6rS5+1tFOKqAAZaUnEJTqbMOVMlUYSvfXIhZ/8JQ=;uQGT3v7t0q6s7MpvbYhtVg=="
+secured: "RI9xoiYUZPhzSSQathvqJgxLYnHzQGEjK/Cv0CnuDr9pLkbIj7JECHqS32saTmCYdGHR2FfaeAD3uIpvQazDoaMkF9Ix30b940/f7eUU/s1tR4WVpPDqyh/W+2Ib7IjCnpifBKITuwSfZuP6jsdoqASxSKDJrxaNrqoPXG3pF2S2Ysusk6Ycmw0vRJ7dwWsXEmaqh43y9bM/d8UqZCj9FBrAFcIgrukLiGstjH6/xYbveyGI/zYJ/qSaISJzrZ7MmmVZQE0U2dWs12HhxQQt3yY+pQbEN9j4eIpuQZsKyC4mvBO7p5is265zwy/D7hzu2lBghTBfeJkfm2B8LGJ+06xzgtiq946DLqOF/4gcUuQd+5cKucF7WwJ3WMsN8TBx7NB1EVujP3YEJiLos0Dnvn53ZGMI59q2vPMJNMA3I7BBvl+HtCnyRI6dNvBR0wiQowuKRHNtU6rwQf80qKkDR6FBNwB3tgbQrEw9+voSNPTBLvfP+m7E5L4Z7NziZ/OtrPrTbs4gSOUXFVD4FfXcxg==;sbU18zX1O0z7DgGGbo4PdQ=="
 ---
 

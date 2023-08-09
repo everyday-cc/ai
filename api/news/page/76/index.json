@@ -2,6 +2,279 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2023-06-21-purely-ai-generated-songs-declared-ineligible-for-grammy-awards.md",
+      "title": "Purely AI-generated songs declared ineligible for Grammy Awards",
+      "excerpt": "Amid increasing use of generative AI in music, the Recording Academy has updated its rules for the 66th annual Grammy Awards regarding the role of AI in considered works, Reuters reports. To be eligible for an award,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/tin_robots_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/amp/",
+      "publishedDateTime": "2023-06-20T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-researchers-expand-ability-of-robots-to-learn-from-videos.md",
+      "title": "Researchers expand ability of robots to learn from videos",
+      "excerpt": "The research could help improve the utility of robots in the home, allowing them to assist people with tasks like cooking and cleaning. Two robots successfully learned 12 tasks including opening a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/06/230620113807.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/06/230620113807.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-biden-holds-meeting-on-possibilities-and-the-risks-of-ai.md",
+      "title": "Biden holds meeting on 'possibilities and the risks' of AI",
+      "excerpt": "President Biden held a meeting on artificial intelligence during a visit to San Francisco.  He assured his administration would work to \"manage the risks to our society\" while \"safeguarding\" the rights and safety of Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/biden-holds-meeting-on-artificial-intelligence-183553093957",
+      "originalUrl": "https://www.nbcnews.com/video/biden-holds-meeting-on-artificial-intelligence-183553093957",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687293423519_f_mo_dc_biden_ai_meet_230620_1920x1080-etwbna.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo183553093957",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183553093957",
+      "publishedDateTime": "2023-06-20T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-thousands-of-realistic-but-fake-ai-child-sex-images-found-online-report-says.md",
+      "title": "Thousands of realistic but fake AI child sex images found online, report says",
+      "excerpt": "This \"explosion\" of \"disturbingly\" realistic images could help normalize child sexual exploitation, lure more children into harm's way, and make it harder for law enforcement to find actual children being harmed,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2023/06/thousands-of-realistic-but-fake-ai-child-sex-images-found-online-report-says/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2023/06/thousands-of-realistic-but-fake-ai-child-sex-images-found-online-report-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1395557548-800x534.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/06/thousands-of-realistic-but-fake-ai-child-sex-images-found-online-report-says/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/06/thousands-of-realistic-but-fake-ai-child-sex-images-found-online-report-says/amp/",
+      "publishedDateTime": "2023-06-20T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-the-ai-therapist-is-in-can-chatbots-boost-mental-health.md",
+      "title": "The (AI) therapist is in: Can chatbots boost mental health?",
+      "excerpt": "AI experts have warned against virtual therapy companies losing sensitive ... Researchers deduced that \"artificial intelligence assistants may be able to aid in drafting responses to patient ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/health-and-wellness/article-746992",
+      "originalUrl": "https://www.jpost.com/health-and-wellness/article-746992",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/538477",
+          "width": 690,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/health-and-wellness/article-746992/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-and-wellness/article-746992/amp",
+      "publishedDateTime": "2023-06-20T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabilities-for-teal-2-military-grade-drone.md",
+      "title": "Red Cat and Athena AI announce breakthrough artificial intelligence and computer-vision capabilities for Teal 2 military-grade drone",
+      "excerpt": "Red Cat Holdings, Inc. (NASDAQ:RCAT) (\"Red Cat\" or the \"Company\"), a military technology company integrating robotic hardware and software to protect and support",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/g32932769/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabiliti",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/g32932769/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabiliti",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32932769",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32932769",
+      "publishedDateTime": "2023-06-20T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-college-will-start-new-courses-in-ai-and-ml.md",
       "title": "‘College will start new courses in AI and ML’",
       "excerpt": "ILS Law College Pune plans to introduce courses in artificial intelligence and machine learning for undergraduate and postgraduate students. The institute also runs a legal aid centre for the marginalised class in Maharashtra.",
@@ -862,272 +1135,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-ai-and-large-language-models-the-future-of-healthcare-data-interoperability.md",
-      "title": "AI And Large Language Models: The Future Of Healthcare Data Interoperability",
-      "excerpt": "AI technologies—and, more specifically, LLMs—have a unique opportunity to smooth the edges of legacy system conversion and the adoption of a standard format.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/ai-and-large-language-models-the-future-of-healthcare-data-interoperability/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/ai-and-large-language-models-the-future-of-healthcare-data-interoperability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-biden-participates-in-meeting-on-artificial-intelligence.md",
-      "title": "Biden participates in meeting on artificial intelligence",
-      "excerpt": "Watch live coverage as President Biden participates in a meeting on artificial intelligence in San Francisco. we and our partners use cookies on this site to improve our service, perform analytics, personalize advertising,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/amp-video/mmvo183451205824",
-      "originalUrl": "https://www.nbcnews.com/news/amp-video/mmvo183451205824",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/biden_racial-zy143k.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo183451205824",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183451205824",
-      "publishedDateTime": "2023-06-20T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-machine-learning-for-targeted-disease-treatment.md",
-      "title": "Machine Learning for Targeted Disease Treatment",
-      "excerpt": "Machine learning is a next generation technology and a sub-set of Artificial Intelligence (AI) now being used to navigate complex biological information in the search for specific patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/health/Machine-Learning-for-Targeted-Disease-Treatment.aspx",
-      "originalUrl": "https://www.news-medical.net/health/Machine-Learning-for-Targeted-Disease-Treatment.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23771_45097368410416678285.jpg",
-          "width": 2000,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-swiss-israeli-fintech-firm-okoora-launches-ai-integrated-platform.md",
-      "title": "Swiss-Israeli fintech firm Okoora launches AI-integrated platform",
-      "excerpt": "Okoora, a Swiss-Israeli fintech start-up, has introduced its new ... Okoora’s platform utilizes advanced AI technology to provide real-time insights into currency markets, streamline currency ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-746813",
-      "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-746813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/539560",
-          "width": 690,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/business-and-innovation/tech-and-start-ups/article-746813/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-746813/amp",
-      "publishedDateTime": "2023-06-20T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-5-fintech-industry-challenges-and-how-to-overcome-them.md",
-      "title": "5 FinTech Industry Challenges and How to Overcome Them",
-      "excerpt": "In the ever-evolving landscape of financial technology (FinTech), business owners are navigating a sea of innovation, opportunity, and challenge.",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/blog/fintech/5-fintech-industry-challenges-and-how-overcome-them",
-      "originalUrl": "https://financialit.net/blog/fintech/5-fintech-industry-challenges-and-how-overcome-them",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/financial_it_blog_1920_x_1080_px_1_12.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-jack-mas-lieutenants-return-to-oversee-tough-alibaba-reboot.md",
-      "title": "Jack Ma’s Lieutenants Return to Oversee Tough Alibaba Reboot",
-      "excerpt": "In Baidu’s wake, Alibaba unfurled its own large language model dubbed Tongyi Qianwen. That might be key to ensuring the company name endures 102 years, as co-founder Ma once famously and repeatedly declared was his over-arching ambition.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6288353/alibaba-eddie-wu-joseph-tsai/",
-      "originalUrl": "https://time.com/6288353/alibaba-eddie-wu-joseph-tsai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

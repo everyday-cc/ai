@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-pa
 cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/?outputType=amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft unveils next-gen AI solutions to boost frontline productivity amid labor challenges"
+    excerpt: "Microsoft aims to enhance the efficiency of frontline service professionals through Copilot integrated into Dynamics 365 Field Service."
+    publishedDateTime: 2023-08-09T17:10:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-unveils-next-gen-ai-solutions-to-boost-frontline-productivity-amid-labor-challenges/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "Capitalizing on cutting-edge technologies: Investing in blockchain and AI"
     excerpt: "In today’s fast-paced and interconnected world, the emergence of disruptive technologies has become a catalyst for change across various industries. The financial industry too is experiencing a seismic shift as emerging technologies redefine traditional"
     publishedDateTime: 2023-08-05T09:15:00Z

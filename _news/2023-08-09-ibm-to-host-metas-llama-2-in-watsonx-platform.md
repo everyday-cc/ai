@@ -50,6 +50,34 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "IBM to Make Llama 2 Available Within Its Watsonx AI and Data Platform"
+    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to host Meta's Llama"
+    publishedDateTime: 2023-08-09T15:59:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
+        width: 300
+        height: 235
+        isCached: true
+  - title: "IBM to host Meta’s Llama 2 for enterprise AI development"
+    excerpt: "IBM Corp. today said it will host Meta Platforms Inc.’s Llama 2, a 70-billion-parameter large language model, in the watsonx.ai studio enterprise artificial intelligence development platform it announced in May. Early access is now available to select clients."
+    publishedDateTime: 2023-08-09T16:33:00Z
+    webUrl: "https://siliconangle.com/2023/08/09/ibm-host-llama-2-enterprise-ai-development/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Llama__2-1920x720-1.jpg"
+        width: 1920
+        height: 720
+        isCached: true
   - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
     excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat"
     publishedDateTime: 2023-08-09T12:00:00Z
@@ -60,6 +88,6 @@ related:
       domain: prnewswire.co.uk
     quality: 32
 
-secured: "fmwwGxBGDx+svHY8ToYT3O3FdaLjhIjGZbNCgwMLW+0gq4yj28elpmm4Lym/BEYIXaG2F0d6u9vjlsDRbbNkoMIyu/kdUGowvLNwLSGu1njXxY8kRojB31AjwzZ9YkvQzqmMWjV9pA2H/eRrnbuU/wwKQZ9c1Y4c3zQ9cJuES14HXGNpLvqHNVXHlFGrbWFTI9TiMsoV3HoedSDOJ8av6OJO4CSZWGQtOw55S5aGWo6VLaMmVRIOmQbRSgxF8REfpBPTyYSw2YB3W8UqmJOyK9AM68meuhuaTbIisjf3VM2COY/c8I6XeS62mXNLkVRndidjwxR8/w/RxwA9YD5hiLgrD4LHBQ7dYJwsbcb5qHo=;ca5U2rquXP9ZiKGCC1IkMA=="
+secured: "laTID96dNAd9npKzOKoC01WC7C7nkljtJbkdjUI0ORY69WLqQpZx9DCIIS8gtlZXHcdk//pfDOBnWKlWNG/Wxq8ROJ7YOd2red+FKKLeFf72u5aBKiQYQSAjaHx419MaI2skxuxbbIh0439d8hh44BZ1LDRn6YPMqUUW6nnEy89PlH6KXVCBs0HkkWqmMdCY5Msl8lwmMBhXUjL0x/zOR5Mt67p6U7HIAMAvLsRt2+2U7ny8BAY4CeDKgNtRTkpmht6uoZKPPehd2m2FBxgdOV/coyYRIhW++TjR6HprrtFu4/ebLqZ5Z0jta0MYvOCYkhE07Xd9sl3Wyv7uc0KhSUBrAdW6DrQRIfq6OuLvpYKmcHHt1ycMogBQkjf1QPEqsCxecx33Dtsd99OGEn0sNjOhqfn9r9q6mZeGKZOVWHUpED25axIfXMxv1rLbftpfVJC5Fcd3f9p2QOOZM+bECbecfReMGJDJEjJ6l54Ghl6ONECqm+r7EP0RhwhBIwH0udnZbKoaocT9xeBE1/WYZg==;cGi/QzvbesxZM/K/mRe4jQ=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-09T01:41:00Z
 originalUrl: "https://www.cryptopolitan.com/artificial-intelligence-misinformation/"
 webUrl: "https://www.cryptopolitan.com/artificial-intelligence-misinformation/"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-09_09-00-08.jpg"

@@ -22,61 +22,45 @@ topics:
   - AI
 
 related:
-  - title: "Opinion: This is what tech companies, from Amazon to Apple, just told investors about AI"
-    excerpt: "That set up sky-high expectations for companies that are embedding AI-related technology across their product suites as well as chip companies that are selling to them. The second quarter, therefore, became a litmus test. Here’s a breakdown of AI’s ..."
-    publishedDateTime: 2023-08-08T11:49:00Z
-    webUrl: "https://www.marketwatch.com/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
+  - title: "Here’s Why AI Is The Key To More Empathetic Customer Experiences"
+    excerpt: "If empathy is what makes us human, artificial empathy can help us deliver richer, more personal customer experiences at scale."
+    publishedDateTime: 2023-08-09T17:51:00Z
+    webUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/"
+    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.mktw.net/im-724370/social"
-        width: 1280
-        height: 640
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c91091d4d15ec01469db67/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 658
         isCached: true
-  - title: "Opinion: Adaptability Separates the New AI from the Old"
-    excerpt: "There are many definitions of artificial intelligence, and it’s been embedded in software for years, but recent advances carry new potential to personalize education, tutor students and automate aspects of school operation."
-    publishedDateTime: 2023-08-04T23:10:00Z
-    webUrl: "https://www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old"
-    ampWebUrl: "https://www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old?_amp=true"
+  - title: "Your Customers Deserve A Better Experience—And AI Can Help"
+    excerpt: "It’s all about reimagining the entire customer journey and modifying it with an “AI infusion” to create optimal hybrid intelligence."
+    publishedDateTime: 2023-08-07T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/your-customers-deserve-a-better-experience-and-ai-can-help/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Merkle Introduces Generative AI Powered GenCX to Revamp Customer Experiences"
+    excerpt: "Developed within dentsu's Azure OpenAI framework GenCX uses AI to analyse substantial amounts of brands' internal data."
+    publishedDateTime: 2023-08-09T05:31:00Z
+    webUrl: "https://analyticsindiamag.com/merkle-introduces-generative-ai-powered-gencx-to-revamp-customer-experiences/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/648c9b2/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe5%2Fdf%2F7562d8cb9c79b70ffba3ca95f729%2Fshutterstock-529299211.jpg"
-        width: 840
-        height: 438
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/AIM-logo-black-768x334.png"
+        width: 768
+        height: 334
         isCached: true
-  - title: "Guest Opinion: If artificial intelligence takes your job, it should pay you"
-    excerpt: "Actors love residuals. Don’t worry, this is not some annoying Hollywood thing like quinoa or crystal healing. I actually do like quinoa — sorry. Anyway, what are residuals?"
-    publishedDateTime: 2023-08-05T10:00:00Z
-    webUrl: "https://www.sentinelsource.com/opinion/op-ed/guest-opinion-if-artificial-intelligence-takes-your-job-it-should-pay-you/article_32b24ce9-0f61-564d-98e0-57438d9a70e9.html"
-    type: article
-    provider:
-      name: The Keene Sentinel
-      domain: sentinelsource.com
-    quality: 35
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/7819b5a8-f0c2-11ec-85c6-cff09f7b972a.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Artificial intelligence could replace doctors. It's time to prepare. (Opinion)"
-    excerpt: "In the past few weeks, much has been written about the uses of artificial intelligence and its potential to take the place not only of factory workers but also of highly specialized professionals, such as lawyers and engineers."
-    publishedDateTime: 2023-08-04T23:56:00Z
-    webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/artificial-intelligence-doctors-physicians-ai-tech-18278240.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 15
 
 secured: "F5tMZaO9bYqOQs+Bdc2XqKRu5OidwLjvDLuTa8cjj70Fmp9hhfF7jefoR+E5ZN2zNMyhLyDVrS6iNsscR5WJy0rW/ohSz5coKLtAmEqDEspP/v+5Mz4y3AFHjGc0p/kPKFjHyLdghIGaph9aueMQojnSEak27SolM1H3KCBN5b2PevIXsGEsRTAcv7ul7W5dmoZAAR+3eWqlqNv+dhvxYDD7kXAPyffL8a+3j7jVhp0vOmV0GtHwaab9YyVEAjtGdD2vjhNtHgMATYlNAPha3bZKLjWRT3OXHFjjhjvjSZPFSzYKs8/q5PJkrCwQH+tUgXmgWuyKrLBif2vwh11RoBmiQ0wi0E29kQX1+Qhp5ZBdxk7UJO2/fEtXrfKnIhcYh31CukBdOIsS13qkPiYBubucdr5M6cxxhwN1mB3AVMVdVLkbjLbwLFVQDF7iB+NOP8jeRjUVAs9s5K2r9R/W8OisErvCJjvUCee960HRDpBojmMqRaPZ1ZoqDQDRieaEorH6RnPn/6ZZZCDQXDtZdw==;oGLlU+CQfRumMPU7Vf+iKg=="
 ---

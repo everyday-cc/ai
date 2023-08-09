@@ -2,6 +2,273 @@
   "page": 152,
   "value": [
     {
+      "path": "_news/2023-05-04-ai-chip-for-data-centers-market-insights-2023-explained-current-growth-for-upcoming-period-2030.md",
+      "title": "AI Chip for Data Centers Market Insights [2023]| Explained Current Growth for Upcoming Period 2030",
+      "excerpt": "The \"AI Chip for Data Centers Market\" report notes that the technology sector is evolving, and companies - both",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-insights-2023-explained-current-growth-for-upcoming-period-2030-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-insights-2023-explained-current-growth-for-upcoming-period-2030-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T20:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-artificial-intelligence-robots-may-spark-terminator-style-nuclear-armageddon-scientists-fear.md",
+      "title": "Artificial intelligence robots may spark Terminator-style nuclear Armageddon, scientists fear",
+      "excerpt": "ARTIFICIAL intelligence bots may spark Armageddon like ... “self aware” and almost wipes out humanity using killer robots. More than a third of tech whizzes quizzed by Stanford University ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/tech/22243195/artificial-intelligence-terminator-armageddon/",
+      "originalUrl": "https://www.thesun.co.uk/tech/22243195/artificial-intelligence-terminator-armageddon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/05/1991-american-science-fiction-action-392092156.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/22243195/artificial-intelligence-terminator-armageddon/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/22243195/artificial-intelligence-terminator-armageddon/amp/",
+      "publishedDateTime": "2023-05-03T20:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-these-new-yorkers-want-to-stop-landlords-from-using-facial-recognition.md",
+      "title": "These New Yorkers Want to Stop Landlords From Using Facial Recognition",
+      "excerpt": "At a raucous city council hearing, lawmakers and activists alike argued in favor of bills banning biometric tech in residential buildings and large venues.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997",
+      "originalUrl": "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/532d2605600e5fb6b48f117eb031be29.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-deep-learning-enables-intuitive-prosthetic-control.md",
+      "title": "Deep Learning Enables Intuitive Prosthetic Control",
+      "excerpt": "However, researchers have worked to simplify this task, by capturing nerve signals and allowing deep learning routines to figure the rest out. The prosthetic arm under test actually carries a ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2021/05/27/deep-learning-enables-intuitive-prosthetic-control/",
+      "originalUrl": "https://hackaday.com/2021/05/27/deep-learning-enables-intuitive-prosthetic-control/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2021/05/cudarm.jpg",
+          "width": 800,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-on-facebook-artificial-intelligence-could-soon-make-stories-for-you.md",
+      "title": "On Facebook, artificial intelligence could soon make Stories for you",
+      "excerpt": "After Snapchat, it’s Facebook’s turn to make use of artificial intelligence. The social network is testing a new feature that can automatically create Stories using AI. Some users recently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/04/15/on-facebook-artificial-intelligence-could-soon-make-stories-for-you",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/04/15/on-facebook-artificial-intelligence-could-soon-make-stories-for-you",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2023/04/15/2027177.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-stethoscopes-electronics-and-artificial-intelligence.md",
+      "title": "Stethoscopes, Electronics, And Artificial Intelligence",
+      "excerpt": "What’s more, since the Hopkins smart stethoscope is a digital instrument, it can serve as input for an artificial intelligence application that automatically analyzes the data for signs of ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/",
+      "originalUrl": "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-is-ai-the-history-eraser-button.md",
       "title": "Is AI The History Eraser Button?",
       "excerpt": "This iconic scene from the John Krisfaluchi’s Ren and Stimpy television series epitomizes man’s duality. Do we honor nature, protect the earth and everything we love, or impulsively sacrifice ourselves to the false god of progress and the legions of unintended consequences they unleash?",
@@ -913,292 +1180,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-machine-translation-for-cuneiform-tablets.md",
-      "title": "Machine translation for cuneiform tablets",
-      "excerpt": "An AI model has been developed to automatically translate Akkadian text written in cuneiform into English. Hundreds of thousands of clay tablets from ancient Mesopotamia, written in cuneiform and dating back as far as 3,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-05-machine-cuneiform-tablets.html",
-      "originalUrl": "https://techxplore.com/news/2023-05-machine-cuneiform-tablets.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-translation-fo.jpg",
-          "width": 2880,
-          "height": 1216,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-05-machine-cuneiform-tablets.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-machine-cuneiform-tablets.amp",
-      "publishedDateTime": "2023-05-03T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "excerpt": "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
-      "originalUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
-      "publishedDateTime": "2023-05-03T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-ai-threatens-7800-jobs-as-ibm-pauses-hiring.md",
-      "title": "AI threatens 7,800 jobs as IBM pauses hiring",
-      "excerpt": "Independent of this move, IBM announced 3,900 job cuts in late January. However, many of the roles reduced due to AI will likely come as a result of the upcoming hiring freeze and jobs vacated by attrition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
-      "originalUrl": "https://www.zdnet.com/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0393b7d5f621704a38027b7cfd596f95695ca462/2023/05/03/d1aff5ee-9f8f-4e70-ad00-0768eff07be4/robot-replace-employee.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
-      "publishedDateTime": "2023-05-03T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-optimized-pytorch-20-inference-with-aws-graviton-processors.md",
-      "title": "Optimized PyTorch 2.0 inference with AWS Graviton processors",
-      "excerpt": "New generations of CPUs offer a significant performance improvement in machine learning (ML) inference due to specialized built-in instructions. Combined with their flexibility, high speed of development, and low operating cost, these general-purpose processors offer an alternative to other existing",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimized-pytorch-2-0-inference-with-aws-graviton-processors/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimized-pytorch-2-0-inference-with-aws-graviton-processors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/03/optimized-pytorch-graviton.jpg",
-          "width": 955,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T09:02:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-researchers-detect-and-classify-multiple-objects-without-images.md",
-      "title": "Researchers detect and classify multiple objects without images",
-      "excerpt": "Today’s image-free perception methods can only achieve classification, single object recognition or tracking. To accomplish all three at once, the researchers developed a technique known as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/988149",
-      "originalUrl": "https://www.eurekalert.org/news-releases/988149",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming.md",
-      "title": "GamesBeat Summit 2023 will capture how generative AI is changing gaming",
-      "excerpt": "Generative AI is sweeping through the game industry and that's one of the can't-miss topics we'll discuss at GamesBeat Summit 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/",
-      "originalUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/ai-at-gamesbeat.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/",
-      "publishedDateTime": "2023-05-03T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

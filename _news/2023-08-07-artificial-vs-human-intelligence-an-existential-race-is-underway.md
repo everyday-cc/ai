@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/opinion/online-views/artificial-vs-human-in
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/artificial-vs-human-intelligence-an-existential-race-is-underway/amp-11691316946562.html"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk announces Tesla has figured out aspects of artificial general intelligence"
-    excerpt: "Elon Musk has announced on his X account that Tesla has figured out some aspects of artificial general intelligence, 'the car has a mind.'"
-    publishedDateTime: 2023-08-07T09:36:00Z
-    webUrl: "https://www.tweaktown.com/news/92735/elon-musk-announces-tesla-has-figured-out-aspects-of-artificial-general-intelligence/index.html"
+  - title: "Meta settles startup's lawsuit over artificial-intelligence trade secrets"
+    excerpt: "Meta Platforms has settled a lawsuit brought by an artificial-intelligence startup that accused the tech giant of stealing its trade secrets, according to a filing in Boston federal court."
+    publishedDateTime: 2023-08-09T14:53:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/meta-settles-startups-lawsuit-over-artificial-intelligence-trade-secrets-2023-08-09/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 32
+      name: Reuters
+      domain: reuters.com
+    quality: 53
     images:
-      - url: "https://static.tweaktown.com/news/9/2/92735_62626_elon-musk-announces-tesla-has-figured-out-aspects-of-artificial-general-intelligence_full.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.reuters.com/resizer/VCZbrjHm7zmsuvMPLMmxHXLzT4Q=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R35EVV22CVN2HE5D3IRXQ5FFQQ.jpg"
+        width: 728
+        height: 381
         isCached: true
   - title: "Nothing artificial about genuine intelligence"
     excerpt: "I get some of my best cardio from pearl clutching and outrage, so naturally I read everything I can get my hands on about artificial intelligence, especially ChatGPT."

@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Most Tech-Forward U.S. City Has Doubts About Self-Driving Cars"
+    excerpt: "San Francisco officials and residents are not impressed by self-driving cars, underscoring the challenges ahead for autonomous vehicle companies."
+    publishedDateTime: 2023-08-09T16:30:00Z
+    webUrl: "https://cacm.acm.org/news/275338-most-tech-forward-us-city-has-doubts-about-self-driving-cars/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 4
 
 secured: "1MnM6cadvNE/wtSBi0fgthQJ3WZ/RJ4HAr6vFSwy2Z9rGaO7pGG7+ntbp7flrIqBPVCR7YFXo+qse+cV9Dzjbcw3fdMjKOPk8I9sFG5mGXIQkP4cGBmqmwSgT2E1c9hCrp9kKYi2FDXyDxwGY3OOM7YSEvM3tLatpAYQIxTTwmTau77LpX/qY9Zf+6+3B/76LQhnbTUSRdsPWpJzmaZKlYt2TLWEXAoWkEBhb5jDlnaY53njVSKlrwpFC4KE3BQ0sWYa3ERSJrqbw/9LTlgK9mC8wBa/JlN8seMz+KxHtmW8BdnmI8SmaxQbd9Dh7FTkmLgTIQITDOmGTIOyBUkMRS9VK2LlDcYPBp1AEbaEEv7Gs6hKblw5f+p+j4Cg6w0mcxjfrks2q2pOOA/ii+LfAVYKI3juxxPTzq+Wvp72mtdMb5LDTp5jKh79opPcdlMLgc9Ls2YMKsxFm90MGNl50F0edEtPHL26vaTEtX0yfE9ufulm96Kc0suw0JVHqqSVN/w1P3stGmug57al+F89EA==;9GpxHVCqdfH2pBVvP6rK6A=="
 ---

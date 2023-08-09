@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Here’s Why AI Is The Key To More Empathetic Customer Experiences"
+    excerpt: "If empathy is what makes us human, artificial empathy can help us deliver richer, more personal customer experiences at scale."
+    publishedDateTime: 2023-08-09T17:51:00Z
+    webUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/"
+    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c91091d4d15ec01469db67/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 658
+        isCached: true
   - title: "Your Customers Deserve A Better Experience—And AI Can Help"
     excerpt: "It’s all about reimagining the entire customer journey and modifying it with an “AI infusion” to create optimal hybrid intelligence."
     publishedDateTime: 2023-08-07T13:00:00Z
@@ -34,6 +50,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Disney AI task force aims to cut costs, enhance experiences across the company"
+    excerpt: "The Walt Disney Company has formed a task force to investigate the potential applications of AI throughout its various business units, reports Reuters, including cutting costs and enhancing customer experiences. This comes despite ongoing Hollywood writers' and actors' strikes that have put some AI technologies in the crosshairs."
+    publishedDateTime: 2023-08-08T18:50:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/disney-ai-task-force-aims-to-cut-costs-enhance-experiences-across-the-company/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 43
 
 secured: "4vN54AcIFHhdyOabHlUv/OJjt10iTfrSI6L5e54xOr991FPHGMf4H9phRzmsmNUdmaT+X6rNXrT2vCJNafflHjaewensAAn/gOpHIpw57DYapT6lzz7bUFwGfsNEynt6Jmt4l1mylAeEfm+yP5NYHQGcfP7HD1p7cXZNXq1vbWOaHHJwHS9etE+s2og4ajt6Dkt735NbBvzRFkM5hkQ4q0fIbe6LrbFgF2KkDY5hUVESW6MzUwoAzv3ztoFU5HLeRl5o2MsVeT9D4zm9FUZtWFMNbWsusqpRnA9GY6fBSkO6bJKc8pQqfyIGhVBLhW+gfsO9C25oyc/8AmF+F4OWv1DjCM5wIsPrH6E+CcNON1I=;dHuNqiARzQzCkb09OQ7y6Q=="
 ---

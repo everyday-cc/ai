@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-25-everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask.md",
+      "title": "Everything you need to know about AI but were too afraid to ask",
+      "excerpt": "In the public consciousness, “artificial intelligence” may conjure up images of murderous machines eager to overtake humans, and capable of doing so. But in the tech industry, it’s a broad ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "originalUrl": "https://www.cnn.com/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230621160359-ai-explainer-stock-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "publishedDateTime": "2023-06-24T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-national-artificial-intelligence-advisory-committee-releases-first-report.md",
+      "title": "National Artificial Intelligence Advisory Committee releases first report",
+      "excerpt": "The National Artificial Intelligence Advisory Committee (NAIAC) has delivered its first report to the president, established a Law Enforcement Subcommittee to address the use of AI technologies in the criminal justice system,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/national-artificial-in.jpg",
+          "width": 1916,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.amp",
+      "publishedDateTime": "2023-06-23T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-ai-may-transform-healthcare-2-top-stocks-to-buy-now.md",
       "title": "AI May Transform Healthcare: 2 Top Stocks to Buy Now",
       "excerpt": "The global AI-in-healthcare market is set to grow in the double digits to top $100 billion later this decade, a Research and Markets report shows. It's no surprise that some healthcare companies ...",
@@ -1271,104 +1367,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-nice-announces-launch-of-digital-and-ai-advice-service-for-healthcare-sector.md",
-      "title": "NICE announces launch of digital and AI advice service for healthcare sector",
-      "excerpt": "The AI and Digital Regulations Service is a multi-agency collaboration between NICE, the Care Quality Commission, the Health Research Authority and the Medicines and Healthcare products Regulatory Agency (MHRA).",
-      "sourceUrl": null,
-      "webUrl": "https://www.pmlive.com/pharma_news/nice_announces_launch_of_digital_and_ai_advice_service_for_healthcare_sector_1493003",
-      "originalUrl": "https://www.pmlive.com/pharma_news/nice_announces_launch_of_digital_and_ai_advice_service_for_healthcare_sector_1493003",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pmlive.com/__data/assets/image/0006/1453227/Clinical_development.jpg",
-          "width": 480,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PMLiVE",
-        "domain": "pmlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai.md",
-      "title": "A Rising Star In The East Lights A Path To Responsible Artificial Intelligence: The Mohammed Bin Zayed University Of AI",
-      "excerpt": "As we hurtle into the 21st century, the pivotal role that Artificial Intelligence plays in reshaping our world cannot be ignored.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidwalcott/2023/06/13/a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/davidwalcott/2023/06/13/a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6487b8a204b294ec6d7d5722/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidwalcott/2023/06/13/a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidwalcott/2023/06/13/a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai/amp/",
-      "publishedDateTime": "2023-06-13T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing",
-        "AI in Healthcare"
       ]
     }
   ],

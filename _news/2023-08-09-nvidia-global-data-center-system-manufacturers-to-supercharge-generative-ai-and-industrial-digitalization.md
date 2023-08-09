@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "3 Areas Customers See The Most Potential For Generative AI"
+    excerpt: "In just a short period, we’re likely to see massive changes in how customers find products, engage with companies, and experience brands."
+    publishedDateTime: 2023-08-09T17:51:00Z
+    webUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c90fd5ea55d543dd49763d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Syxsense adds generative AI to its endpoint management suite"
     excerpt: "Syxsense Inc., the developer of a unified security and endpoint management suite, or USEM for short, is adding generative artificial intelligence capabilities to its product with an announcement today."
     publishedDateTime: 2023-08-08T10:00:00Z

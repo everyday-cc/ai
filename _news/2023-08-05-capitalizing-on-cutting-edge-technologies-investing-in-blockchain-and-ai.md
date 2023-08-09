@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft unveils next-gen AI solutions to boost frontline productivity amid labor challenges"
+    excerpt: "Microsoft aims to enhance the efficiency of frontline service professionals through Copilot integrated into Dynamics 365 Field Service."
+    publishedDateTime: 2023-08-09T17:10:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-unveils-next-gen-ai-solutions-to-boost-frontline-productivity-amid-labor-challenges/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
+        isCached: true
 
 secured: "4jzpf9/8Y5WuYkNTr4EDqf95wEsNtrE3Trj93x3ORPl1NwVfxA4oqOPy3yqKpeYQU5MqC4GP4KTuqK8R8d80VLu1DuGFw+DutcHPsYJmZtVDJoyS4SNxU4Io+y3I+yzxFebRiTa77KRKth+3CstXaBlTkwOxP3SxRV9c9zfAODKVCZH9sIy6gB8CKnf63jO7MAZnKm6roT9BPpGF4Ck0uzkCilG5xgf8xyKbEJcwoT+0AUK4gNNM1W7FqpaSiqMBiM6H92At4WVMk2ZpTAyizQTktJowJAAOpq79lwEWMOz+XkHRKy3llYYhodmJtbhHhuNOVqAKb7yHF487S2KYRazmgHFbrGKCHQxOLGSks4s=;CYHbgVnjLZ7rVFJ1FK0ZAQ=="
 ---

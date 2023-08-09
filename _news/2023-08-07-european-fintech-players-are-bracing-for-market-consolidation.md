@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/european-fintech-players-bracing-marke
 webUrl: "https://thenextweb.com/news/european-fintech-players-bracing-market-consolidation-across-the-market"
 type: article
 quality: 54
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://assets.bizclikmedia.net/1200/120979ac155e6895f8e9319a94192628:855e75eea6a62c78c29f8b3e93a8fcad/gettyimages-1415779751.jpg.jpg"
         width: 1200
         height: 629
-        isCached: true
-  - title: "The Future of Fintech in the Middle East 2023"
-    excerpt: "Middle Eastern ambitions drive the Digital Gulf In 2020, a research paper was released titled ‘Statistical models and stochastic optimisation in financial technology and investment science’ by Tze L."
-    publishedDateTime: 2023-08-05T00:00:00Z
-    webUrl: "https://www.finextra.com/researcharticle/283/the-future-of-fintech-in-the-middle-east-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/finextra-paper-05082023-homepage.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "2023’s Biggest Fintech Acquisition Deals"
     excerpt: "To get a sense of this year’s fintech M&A landscape, we compiled a list of eight of the largest merger and acquisition (M&A) deals in the sector announced in the first half of 2023."

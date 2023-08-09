@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta settles startup's lawsuit over artificial-intelligence trade secrets"
+    excerpt: "Meta Platforms has settled a lawsuit brought by an artificial-intelligence startup that accused the tech giant of stealing its trade secrets, according to a filing in Boston federal court."
+    publishedDateTime: 2023-08-09T14:53:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/meta-settles-startups-lawsuit-over-artificial-intelligence-trade-secrets-2023-08-09/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 53
+    images:
+      - url: "https://www.reuters.com/resizer/VCZbrjHm7zmsuvMPLMmxHXLzT4Q=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R35EVV22CVN2HE5D3IRXQ5FFQQ.jpg"
+        width: 728
+        height: 381
+        isCached: true
   - title: "Artificial vs human intelligence: An existential race is underway"
     excerpt: "Whether AI exterminates human civilization will depend on the extent to which we allow such technology to enslave us"
     publishedDateTime: 2023-08-06T21:56:00Z
@@ -40,20 +54,6 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/08/06/600x338/2-0-1248141005-hires-0_1679614534170_1691317292330.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Elon Musk announces Tesla has figured out aspects of artificial general intelligence"
-    excerpt: "Elon Musk has announced on his X account that Tesla has figured out some aspects of artificial general intelligence, 'the car has a mind.'"
-    publishedDateTime: 2023-08-07T09:36:00Z
-    webUrl: "https://www.tweaktown.com/news/92735/elon-musk-announces-tesla-has-figured-out-aspects-of-artificial-general-intelligence/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 32
-    images:
-      - url: "https://static.tweaktown.com/news/9/2/92735_62626_elon-musk-announces-tesla-has-figured-out-aspects-of-artificial-general-intelligence_full.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "lGYJDi12lRDIl0rEj8f1z3s7/YPkLivV9uaLKZOxCNIc8YIT0JfemQAxqhSTP0S064xEfKRC7Ya/i8MwRXZVI6LU97UCx5hIRgxBBOGML8jQSFUgV+61VjoHVqQXCnaW6QsdQ0aPmRUt8VwDYPnemHi2rHgwGRVyyAkC7vrJlWSdLK4LLbC8pGEuiv/yBmFuvWmSU/djOfxL3h44/OecTDOTvk0+iMjMW8ANAHk3fxIpFnVPOV1D0qobazcl+sL/1dxb/3XDxukSyGv1PIjqt1Nby23hvTNiRjuF46HOSKPU4CerRP7Pau4FNybhhpDAo1IegR0OWNqHrnePZPBsXDg4Xc6S6AWmE7nbnDay3TA=;m/aRK3C1CzR6hPzWgtXPeg=="

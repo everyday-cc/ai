@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/your-cus
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/your-customers-deserve-a-better-experience-and-ai-can-help/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,31 @@ topics:
   - AI
 
 related:
+  - title: "Here’s Why AI Is The Key To More Empathetic Customer Experiences"
+    excerpt: "If empathy is what makes us human, artificial empathy can help us deliver richer, more personal customer experiences at scale."
+    publishedDateTime: 2023-08-09T17:51:00Z
+    webUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/"
+    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c91091d4d15ec01469db67/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 658
+        isCached: true
+  - title: "Disney AI task force aims to cut costs, enhance experiences across the company"
+    excerpt: "The Walt Disney Company has formed a task force to investigate the potential applications of AI throughout its various business units, reports Reuters, including cutting costs and enhancing customer experiences. This comes despite ongoing Hollywood writers' and actors' strikes that have put some AI technologies in the crosshairs."
+    publishedDateTime: 2023-08-08T18:50:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/disney-ai-task-force-aims-to-cut-costs-enhance-experiences-across-the-company/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 43
   - title: "Merkle Introduces Generative AI Powered GenCX to Revamp Customer Experiences"
     excerpt: "Developed within dentsu's Azure OpenAI framework GenCX uses AI to analyse substantial amounts of brands' internal data."
     publishedDateTime: 2023-08-09T05:31:00Z
