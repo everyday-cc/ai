@@ -283,20 +283,6 @@ related:
       name: The Week
       domain: theweek.in
     quality: 53
-  - title: "Abb And Microsoft Collaborate To Bring Generative Ai To Industrial Applications"
-    excerpt: "ABB is working with Microsoft on the integration of generative AI capabilities into industrial digital solutions for safer,"
-    publishedDateTime: 2023-08-05T03:07:00Z
-    webUrl: "https://menafn.com/1106786821/Abb-And-Microsoft-Collaborate-To-Bring-Generative-Ai-To-Industrial-Applications"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 50
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/04/INS_a3cd3image_story.jpg"
-        width: 768
-        height: 432
-        isCached: true
   - title: "Aptos Labs taps into Microsoft’s AI infrastructure to accelerate Web3 adoption"
     excerpt: "Aptos Labs and Microsoft have announced a partnership that could see developers leverage Microsoft’s AI tech to boost Web3 adoption."
     publishedDateTime: 2023-08-09T13:41:00Z
@@ -404,6 +390,6 @@ related:
       domain: networkworld.com
     quality: 26
 
-secured: "pl9QEJEmwTXF4tBzsJM3xiB5ZtY74Wtw2JqMURJI84Vd1A/VblYKpPnMfhMNZRuK7Dthx986HYMIsiqULvU4q9eZu5LWkamukQU503VRiNMMc52P8/7/8h0OS94AvuFadJhA4/XKke5U1JBLVWn5XTF/aUY5frNCmykcKzeqkUFN89Ueo0W9Lm56+Dy5GFmNogTzHVJCz5DqR7rR7zNyMSwIpRcu1k/U8Xxk8fPAe0fZgaKeqiHkF5PIje4D14CVemHmdXJC9bIHFIMh56hLXEDSh4xWEstItd7FwFa164J29NJJLotX06TndEGM6dNr4HzR4+dm35bvbVMP8j4bNbRwxjXZ9s3Bm45n08oZAHU=;p0ewLfWoailsN4XkxHowiw=="
+secured: "fKE9gVZa6XC02DSYDbfzw4yHYPrwKMQPk7WaJA3VbqFj6GMCsuoW7AS25290ZJSr9DUaA1LbEA7EwzuiFBmOpI0FoxbPaVKaNQgw4ZcNeN+VQtrl0j480bz3xDa/5LEMxBvLhkeUSZ6hQLAMFAxPydffLD1KyT3DCEI/P2H551/sMJ4pqjSO89S8wyyjVI/rJ7qZkHwVZ9yPhtRaHRAaSGr3kGKZvIZAWzwWG3H6/1vb/+yHv3n7u8GRED5rhAbnlKhQKjYrJl/4ew/pxUEzSjCk2FPc0P93Gku+Ncjt9Yi90h5panyP8nicWLmfciCMWJYUJcrXdoqCTVc8GyZnKsD4tZWBzdzoRYaB0/BAdHziUhxm9zXuAlTZkzuoS8Dw75DlA/1h518H7cw0hDznwOXixgCmcqS/LjK7HuDBdAqPZIH+1z4aF7Aownr625z4sD08ix5sL/7Cv/1WSo0N9i+AxIMhG+b2PQSCeFM5BE/lvI6CjKKiqXvGajgDG1cVq0SsXeVJpjD/6vf1nSk5Rg==;qprz9QA7K5nNsyWMbSolXA=="
 ---
 

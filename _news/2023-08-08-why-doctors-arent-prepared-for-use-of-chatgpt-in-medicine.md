@@ -65,6 +65,15 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Learn to create a ChatGPT AI bot with this course bundle"
+    excerpt: "You may have experimented with ChatGPT, and found it to be a useful tool on its own for work, school, or personal projects. But if you take the opportunity to study even basic coding, you can expand what you can do with AI simply by customizing your own chatbot ."
+    publishedDateTime: 2023-08-09T18:23:00Z
+    webUrl: "https://www.zdnet.com/article/learn-to-create-a-chatgpt-ai-bot-with-this-course-bundle/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Quickly learn to code with ChatGPT and Bard AI"
     excerpt: "While these AI tools can be incredibly helpful ... This allows Bard to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. Bard is still under development, but it has learned ..."
     publishedDateTime: 2023-08-08T10:49:00Z
@@ -135,6 +144,15 @@ related:
         width: 696
         height: 436
         isCached: true
+  - title: "Newegg’s AI-generated reviews might be the worst use of ChatGPT yet"
+    excerpt: "Newegg has started including AI-generated review summaries powered by ChatGPT on some product pages, but they aren't always helpful."
+    publishedDateTime: 2023-08-09T19:54:00Z
+    webUrl: "https://bgr.com/tech/neweggs-ai-generated-reviews-might-be-the-worst-use-of-chatgpt-yet/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 17
   - title: "Why ChatGPT just might save the humanities"
     excerpt: "Not surprisingly, the release of ChatGPT has produced a host of concerns about its potentially harmful effects on society. In higher education, commonly cited concerns center on threats to"
     publishedDateTime: 2023-08-08T20:55:00Z

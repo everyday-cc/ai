@@ -2,6 +2,471 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-06-30-artificial-intelligence-market-worth-13452-billion-by-2030-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence Market worth $1,345.2 billion by 2030 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "The global Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.8% during the forecast period, to reach USD 1,345.2 billion by 2030 from USD 150.2 billion in 2023,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/30/9842399.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/30/9842399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-the-huge-power-and-potential-danger-of-ai-generated-code.md",
+      "title": "The huge power and potential danger of AI-generated code",
+      "excerpt": "Late last year, a team at Stanford University posted a research paper that looked at how using a code-generating AI assistant they built affects the quality of code that people produce. The researchers found that programmers getting AI suggestions tended to include more bugs in their final code—yet those with access to the tool tended to believe that their code was more secure.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/",
+      "originalUrl": "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/Screenshot-2023-06-29-at-14-19-27-The-Huge-Power-and-Potential-Danger-of-AI-Generated-Code-640x311.png",
+          "width": 640,
+          "height": 311,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/",
+      "publishedDateTime": "2023-06-30T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-democratize-computer-vision-defect-detection-for-manufacturing-quality-using-no-code-machine-learning-with-amazon-sagemaker-canvas.md",
+      "title": "Democratize computer vision defect detection for manufacturing quality using no-code machine learning with Amazon SageMaker Canvas",
+      "excerpt": "Cost of poor quality is top of mind for manufacturers. Quality defects increase scrap and rework costs, decrease throughput, and can impact customers and company reputation. Quality inspection on the production line is crucial for maintaining quality standards. In many cases, human visual inspection",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/democratize-computer-vision-defect-detection-for-manufacturing-quality-using-no-code-machine-learning-with-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/democratize-computer-vision-defect-detection-for-manufacturing-quality-using-no-code-machine-learning-with-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/23/ML-14560-image017-1249x630.png",
+          "width": 1249,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T09:41:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-the-first-ai-developed-drug-reaches-phase-2-clinical-trials-with-alex-zhavoronkov.md",
+      "title": "The First AI-Developed Drug Reaches Phase 2 Clinical Trials. With Alex Zhavoronkov",
+      "excerpt": "A number of companies are now using AI to develop drugs faster, cheaper, and with fewer failures along the way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2023/06/30/the-first-ai-developed-drug-reaches-phase-2-clinical-trials-with-alex-zhavoronkov/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/06/30/the-first-ai-developed-drug-reaches-phase-2-clinical-trials-with-alex-zhavoronkov/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649f042eeb2a600448e45c80/0x0.jpg?format=jpg&width=1200",
+          "width": 987,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/06/30/the-first-ai-developed-drug-reaches-phase-2-clinical-trials-with-alex-zhavoronkov/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/06/30/the-first-ai-developed-drug-reaches-phase-2-clinical-trials-with-alex-zhavoronkov/amp/",
+      "publishedDateTime": "2023-06-30T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year.md",
+      "title": "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year",
+      "excerpt": "SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award. Soul Machines ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33079784/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33079784/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33079784",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33079784",
+      "publishedDateTime": "2023-06-30T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-the-industrial-revolution-y2k-the-internet-generative-ai-still-the-same-old-story.md",
+      "title": "The Industrial Revolution, Y2K, The Internet & Generative AI. Still The Same Old Story.",
+      "excerpt": "As we attempt to regulate AI, we should also explore its amazing capabilities. We should do so as optimistic explorers, not strippers worried about victims of technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/",
+      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649eea1ecc0ec4522e0b9757/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/amp/",
+      "publishedDateTime": "2023-06-30T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-ai-in-recruitment.md",
+      "title": "AI in recruitment",
+      "excerpt": "Let’s rethink recruiting. If you were to design the recruitment process for a new company, what would you automate to identify and get the best talent?\nThe post AI in recruitment appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ai-in-recruitment/",
+      "originalUrl": "https://www.ibm.com/blog/ai-in-recruitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:45:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key.md",
+      "title": "Capital One’s new chief scientist says ‘responsible, thoughtful’ generative AI is key",
+      "excerpt": "Prem Natarajan, Capital One's new chief scientist and head of enterprise AI, says the company has a 'deep imperative' to operate responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key/",
+      "originalUrl": "https://venturebeat.com/ai/capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-30T080615.824.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-fintech-dobin-brings-game-changing-ai-powered-solution-to-personal-finance.md",
+      "title": "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance",
+      "excerpt": "Singapore-based fintech Dobin has launched. Dobin is the first company in Southeast Asia to use open finance and advanced data analytics to: give users a single view of their finances; create unique anonymised customer insights;",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-killer-robots-or-not-ais-threat-to-jobs-is-real-which-is-why-it-must-be-handled-wisely.md",
+      "title": "Killer robots or not, AI’s threat to jobs is real – which is why it must be handled wisely",
+      "excerpt": "In the Terminator series of films, the military AI Skynet becomes self-aware and decides to wipe out humanity ... Meanwhile, proponents point out that while AI can be deployed in autonomous driving, facial recognition, as a mobile phone assistant or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "originalUrl": "https://www.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/06/29/e39e9827-0a8e-4fa8-b8df-f872ee2dc323_0ecd43bf.jpg?itok=1IXbtR8s&v=1688021011",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "publishedDateTime": "2023-06-30T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-ai-foundation-launches-aixyz-to-give-people-their-own-ai-assistants.md",
       "title": "AI Foundation launches AI.XYZ to give people their own AI assistants",
       "excerpt": "The AI Foundation, a lab that gave us virtual Deepak Chopra, has launched AI.XYZ, a platform for people to create their own AI assistants.",
@@ -687,468 +1152,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-natural-language-processing-denmark.md",
-      "title": "Natural Language Processing - Denmark",
-      "excerpt": "Value in the Natural Language Processing market is projected to reach US$221.70m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.75%, resulting in a market volume ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/denmark",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/denmark",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-building-resilient-healthcare-supply-chains.md",
-      "title": "Building resilient healthcare supply chains",
-      "excerpt": "Find out how the healthcare industry can address shortages, delays, rising costs, tight regulations and more with resilient supply chains.\nThe post Building resilient healthcare supply chains appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/building-resilient-healthcare-supply-chains/",
-      "originalUrl": "https://www.ibm.com/blog/building-resilient-healthcare-supply-chains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.md",
-      "title": "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search",
-      "excerpt": "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search - Tech Mahindra, a leading provider of digital transformation, consulting, and business re-engineering services",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconindia.com/news/general/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search-nid-223864-cid-1.html",
-      "originalUrl": "https://www.siliconindia.com/news/general/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search-nid-223864-cid-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconindia.com/news/newsimages/VE9e54lJ.jpg",
-          "width": 570,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconIndia",
-        "domain": "siliconindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-the-best-movies-on-amazon-prime-video-july-2023.md",
-      "title": "The best movies on Amazon Prime Video (July 2023)",
-      "excerpt": "As with other streamers, movies are always coming and going on Amazon Prime Video. And while Prime Video’s original films are picking up more momentum, Amazon is still largely dependent on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/american-sniper-1.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-06-30T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-artificial-intelligence-in-healthcare-market-growth-set-to-surge-significantly-during-2022-to-2028.md",
-      "title": "Artificial Intelligence In Healthcare Market Growth Set to Surge Significantly during 2022 to 2028",
-      "excerpt": "What important contenders are dominating the Global Artificial Intelligence In Healthcare Market industry and how competitive will the market be by 2023? Global Artificial Intelligence In ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/news/skyquest-technology-consulting-pvt-ltd-/artificial-intelligence-in-healthcare-market-growth-set-to-surge-significantly-during-2022-to-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/news/skyquest-technology-consulting-pvt-ltd-/artificial-intelligence-in-healthcare-market-growth-set-to-surge-significantly-during-2022-to-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-image-generators-powerful-tech-marketers-should-be-using.md",
-      "title": "AI Image Generators: Powerful Tech Marketers Should Be Using",
-      "excerpt": "There is far more that marketers can accomplish with these tools beyond seeing what a pink cat with a crown driving a car might look like.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649db7170b37026be90b96cb/0x0.jpg?format=jpg&width=1200",
-          "width": 1057,
-          "height": 732,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/amp/",
-      "publishedDateTime": "2023-06-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-two-ways-ai-can-be-used-to-help-transform-insurance.md",
-      "title": "Two Ways AI Can Be Used To Help Transform Insurance",
-      "excerpt": "Whether insurers want to improve underwriting, risk management or both, AI is one solution to satisfying B2B customers while benefiting underwriters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef60896accb250006414b32/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/amp/",
-      "publishedDateTime": "2023-06-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-inside-the-race-to-build-an-operating-system-for-generative-ai.md",
-      "title": "Inside the race to build an ‘operating system’ for generative AI",
-      "excerpt": "What does it take to build an operating system for generative AI? According to Intuit's Srivastava, there are four main layers",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/inside-the-race-to-build-an-operating-system-for-generative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/inside-the-race-to-build-an-operating-system-for-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Feature-image.png?w=1200&strip=all",
-          "width": 1028,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-law-draws-pushback-from-big-brands-in-europe.md",
-      "title": "AI Law Draws Pushback From Big Brands in Europe",
-      "excerpt": "Executives from firms such as Heineken and Renault joined a lobbying effort as Europe negotiates the West’s first comprehensive rules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-law-draws-pushback-from-big-brands-in-europe-9a703f2",
-      "originalUrl": "https://www.wsj.com/articles/ai-law-draws-pushback-from-big-brands-in-europe-9a703f2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-809998/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram.md",
-      "title": "Meta reveals “secret” behind AI-powered content personalisation on Facebook, Instagram",
-      "excerpt": "Meta is explaining the AI influence in an effort to be more transparent and accountable. (Photo Credits: Reuters) We live in an era where we cannot imagine our day without Instagram or Facebook, but has this ever popped into your head that why are you consuming this particular content?",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/",
-      "originalUrl": "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/06/meta-2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/",
-      "publishedDateTime": "2023-06-30T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

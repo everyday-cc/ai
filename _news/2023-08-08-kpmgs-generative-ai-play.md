@@ -302,15 +302,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
-  - title: "Dell announces generative AI solutions"
-    excerpt: "The company is offering a range of generative AI solutions across its hardware, software, and services offerings."
-    publishedDateTime: 2023-08-07T12:34:00Z
-    webUrl: "https://www.networkworld.com/article/3704209/dell-announces-generative-ai-solutions.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 19
   - title: "Google and Universal Music working on licensing voices for AI-generated songs"
     excerpt: "Early stage talks are expected to include a potential tool that fans could use to make AI-generated songs"
     publishedDateTime: 2023-08-09T11:31:00Z

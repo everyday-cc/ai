@@ -85,17 +85,36 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NVIDIA unveils new AI superchip and adds generative AI to Omniverse"
-    excerpt: "NVIDIA founder and CEO, Jensen Huang, announced an updated GH200 Grace Hopper Superchip, the NVIDIA AI Workbench, and an updated NVIDIA Omniverse with generative AI at a wide-ranging SIGGRAPH keynote."
-    publishedDateTime: 2023-08-09T14:04:00Z
-    webUrl: "https://www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show"
-    ampWebUrl: "https://www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show?hs_amp=true"
-    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show?hs_amp=true"
+  - title: "Nvidia flexes generative AI muscle at SIGGRAPH with new GPUs, development software"
+    excerpt: "GPU titan Nvidia doubled down on generative AI at SIGGRAPH this week, unveiling new chips, server designs, and software to fill out its ecosystem of artificial intelligence hardware and systems design products."
+    publishedDateTime: 2023-08-09T21:34:00Z
+    webUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.html"
+    ampWebUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
     type: article
     provider:
-      name: redsharknews.com
-      domain: redsharknews.com
-    quality: 54
+      name: Network World
+      domain: networkworld.com
+    quality: 68
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/08/nvidia-l40s-100944528-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "China's internet giants order US$5 billion of Nvidia chips to power AI ambitions - FT"
+    excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth US$5 billion, the Financial Times reported on Wednesday."
+    publishedDateTime: 2023-08-09T20:23:00Z
+    webUrl: "https://www.todayonline.com/world/chinas-internet-giants-order-us5-billion-nvidia-chips-power-ai-ambitions-ft-2229816"
+    type: article
+    provider:
+      name: TODAYonline
+      domain: todayonline.com
+    quality: 47
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--HhRlabCc--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:tdy:watermark:2021-10:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2023-08-09t202356z_1_lynxmpej780ol_rtroptp_3_nvidia-foxconn.jpg?itok=GCzzYiAW"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Nvidia announces updated GH200 Grace Hopper GPU with HBM3e memory for generative AI workloads"
     excerpt: "Nvidia has announced an updated version of its GH200 'superchip,' which will be the first GPU in the world to include HBM3e memory."
     publishedDateTime: 2023-08-09T15:26:00Z

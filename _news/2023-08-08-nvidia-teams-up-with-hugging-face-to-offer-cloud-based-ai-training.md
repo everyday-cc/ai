@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
 type: article
 quality: 89
-heat: 269
+heat: 249
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions -FT"
+    excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday."
+    publishedDateTime: 2023-08-09T20:46:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2553293-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2553293-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2553293-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 70
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_20_7172535.jpg?width=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Build generative AI applications using Azure and NVIDIA H100 Tensor Core GPUs"
     excerpt: "Microsoft Azure users can now leverage the latest NVIDIA accelerated computing technology to train, deploy and build generative AI applications. The"
     publishedDateTime: 2023-08-08T08:37:00Z
@@ -128,43 +144,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "Nvidia set to hop AI forward with next-gen Grace Hopper Superchip"
-    excerpt: "One of today's biggest Nvidia announcements is a new version of the GH200 Grace Hopper Superchip, powered with next-generation HBM3e memory."
-    publishedDateTime: 2023-08-08T19:18:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-set-to-hop-ai-forward-with-next-gen-grace-hopper-superchip/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-  - title: "Nvidia launches new AI chip configuration"
-    excerpt: "Nvidia announced a new configuration on Tuesday for its advanced artificial intelligence chips that is designed to speed generative AI applications.The new version of the Grace Hopper Superchip boosts the amount of high-bandwidth memory,"
-    publishedDateTime: 2023-08-09T03:47:00Z
-    webUrl: "https://www.channelnewsasia.com/business/nvidia-launches-new-ai-chip-configuration-3686276"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--udSqSFYx--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-08-08t154702z_2_lynxmpej770lg_rtroptp_3_usa-semiconductors.jpg?itok=4INBC_n-"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Nvidia Unveils Upgraded AI Chips To Enhance Generative AI Applications"
-    excerpt: "The company introduced a new configuration for its Grace Hopper Superchip, aiming to boost the capabilities of generative AI applications, , nvidia, Grace Hopper Superchip, Generative AI"
-    publishedDateTime: 2023-08-09T05:24:00Z
-    webUrl: "https://www.businessworld.in/article/Nvidia-Unveils-Upgraded-AI-Chips-To-Enhance-Generative-AI-Applications/09-08-2023-487115/"
-    type: article
-    provider:
-      name: Businessworld
-      domain: businessworld.in
-    quality: 54
-    images:
-      - url: "https://static.businessworld.in/article/article_extra_large_image/1688016391_iJbIWj_nvidia.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia Unveils Faster Processor Aimed at Cementing AI Dominance"
     excerpt: "Nvidia Corp. announced an updated AI processor that gives a jolt to the chip’s capacity and speed, seeking to cement the company’s dominance in a burgeoning market."
     publishedDateTime: 2023-08-08T15:32:00Z
@@ -202,20 +181,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia improves AI processor"
-    excerpt: "Grace Hopper superchip increases capacity and speed Nvidia announced an updated AI processor that gives a jolt to the chip's capacity and speed. Nvidia  told the gathered throngs at the Siggraph conference in Los Angeles that its Grace Hopper superchip,"
-    publishedDateTime: 2023-08-09T09:52:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57390-nvidia-improves-ai-processor"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/3e814bcb2a51dbe3c5633f6e423c21b2_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Nvidia Teases New Hardware, Software, and Services for AI"
     excerpt: "The star of the show was the new Grace Hopper Superchip GH200, which NVIDIA says was \"designed from the ground up for giant-scale AI.\""
     publishedDateTime: 2023-08-08T23:28:00Z
@@ -230,6 +195,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "China’s internet giants order $5bn of Nvidia chips to power AI ambitions"
+    excerpt: "Baidu, ByteDance, Tencent and Alibaba rush to acquire GPUs amid concern US will soon clamp down on their export"
+    publishedDateTime: 2023-08-09T20:00:00Z
+    webUrl: "https://www.ft.com/content/9dfee156-4870-4ca4-b67d-bb5a285d855c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 33
   - title: "Nvidia puts generative AI at the forefront with AI Workbench and Hugging Face partnership"
     excerpt: "As part of the collaboration, Hugging Face will offer a brand-new service, called Training Cluster as a Service. It will simplify the creation and tailoring of new custom generative AI models for enterprise customers using its platform and Nvidia DGX Cloud for infrastructure with a single click."
     publishedDateTime: 2023-08-08T16:00:00Z

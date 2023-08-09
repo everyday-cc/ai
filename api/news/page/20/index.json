@@ -2,6 +2,453 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-07-26-the-worldwide-ai-speech-recognition-industry-is-currently-experiencing-significant-growth-and-expanding-at-a-51-cagr-from-2023-2030.md",
+      "title": "The worldwide AI Speech Recognition industry is currently experiencing significant growth and expanding at a 5.1% CAGR from 2023 - 2030",
+      "excerpt": "The Global Market Overview of \"AI Speech Recognition Market\" offers a unique insight into key trends shaping the industry world-wide and in the largest markets. Written by some of our most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33385997/the-worldwide-ai-speech-recognition-industry-is-currently-experiencing-significant-growth-and-expan",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33385997/the-worldwide-ai-speech-recognition-industry-is-currently-experiencing-significant-growth-and-expan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33385997",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33385997",
+      "publishedDateTime": "2023-07-25T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-tesla-recalls-362000-us-vehicles-over-full-self-driving-software-reuters.md",
+      "title": "Tesla recalls 362000 U.S. vehicles over Full Self-Driving software – Reuters",
+      "excerpt": "Tesla Inc will recall more than 362,000 U.S. vehicles to update its Full Self-Driving (FSD) Beta software after U.S. regulators said on Thursday t",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/638952/tesla-recalls-362000-u-s-vehicles-over-full-self-driving-software-reuters/",
+      "originalUrl": "https://www.inferse.com/638952/tesla-recalls-362000-u-s-vehicles-over-full-self-driving-software-reuters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-alibabas-cloud-unit-brings-metas-ai-model-llama-to-its-clients.md",
+      "title": "Alibaba's cloud unit brings Meta's AI model Llama to its clients",
+      "excerpt": "Alibaba's cloud computing division said it has become the first Chinese enterprise to support Meta's open-source artificial intelligence (AI) model Llama, allowing its Chinese business users to develop programs off the model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/alibabas-cloud-unit-brings-metas-ai-model-llama-its-clients-2023-07-26/",
+      "originalUrl": "https://www.reuters.com/technology/alibabas-cloud-unit-brings-metas-ai-model-llama-its-clients-2023-07-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/Cx4blK3pIteOYzCHFxZa2H1mtfw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MMPZ3S2MB5MIDIVMCM3H2ZMHAQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities.md",
+      "title": "70% Of Generative AI Startups Rely On Google Cloud, AI Capabilities",
+      "excerpt": "Alphabet's Q2 2023 earnings call highlighted the growing adoption of generative AI across the company's cloud and product offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61cfba2e1bbd3c961b90a843/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/",
+      "publishedDateTime": "2023-07-25T19:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-alphabet-cfo-ruth-porat-takes-on-new-role-overseeing-its-investments-and-new-initiatives.md",
+      "title": "Alphabet CFO Ruth Porat takes on new role overseeing its investments and new initiatives",
+      "excerpt": "Alphabet Inc. finance chief Ruth Porat is taking on a new role at the company, overseeing its investment strategy and various initiatives in its Other Bets portfolio, such as Nest, Verily, Waymo and X.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/07/25/alphabet-cfo-ruth-porat-takes-new-role-overseeing-investments-new-initiatives/",
+      "originalUrl": "https://siliconangle.com/2023/07/25/alphabet-cfo-ruth-porat-takes-new-role-overseeing-investments-new-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/RuthPorat2016.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-ai-in-fintech-market-size-trends-demand-growth-and-analysis-2023-2028.md",
+      "title": "AI in Fintech Market Size, Trends, Demand, Growth and Analysis 2023-2028",
+      "excerpt": "IMARC Group, a leading market research company, has released a report titled AI in Fintech Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023-2028.According to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33383147/ai-in-fintech-market-size-trends-demand-growth-and-analysis-2023-2028",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33383147/ai-in-fintech-market-size-trends-demand-growth-and-analysis-2023-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33383147",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33383147",
+      "publishedDateTime": "2023-07-25T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-amazons-mugshot-ai-says-28-members-of-congress-are-known-criminals.md",
+      "title": "Amazon’s mugshot AI says 28 members of Congress are known criminals",
+      "excerpt": "Identifying a criminal can be tricky for law enforcement when they’re on the hunt for a wanted person, which is why many agencies have begun to lean on technology for help. Facial recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/amazon-rekognition-congress-false-matches-aclu/",
+      "originalUrl": "https://bgr.com/science/amazon-rekognition-congress-false-matches-aclu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2018/07/featured_image.jpg?quality=82&strip=all",
+          "width": 1160,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-microsoft-earnings-top-estimates-but-stock-falls-as-execs-detail-ais-costs.md",
+      "title": "Microsoft earnings top estimates, but stock falls as execs detail AI’s costs",
+      "excerpt": "Microsoft topped profit and revenue expectations for its latest quarter, though shares were moving lower after the company discussed the year ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f",
+      "originalUrl": "https://www.marketwatch.com/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 551,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-709442/horizontal",
+          "width": 1320,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f",
+      "publishedDateTime": "2023-07-25T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-artificial-intelligence-recent-congressional-activity-and-a-look-to-the-future.md",
+      "title": "Artificial Intelligence: Recent Congressional Activity and a Look to The Future",
+      "excerpt": "In the past few months, the American public has become increasingly fixated on artificial intelligence (AI), especially generative artificial intelligence (GenAI), because of the economic and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future",
+      "originalUrl": "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/20520/AI%20Artificial%20Intel%20Heads%20Internet%20TOP%20copy_0.jpg?itok=eyeMYj6E",
+          "width": 500,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-google-rebounds-from-unprecedented-drop-in-ad-revenue-with-a-resurgence-that-pushes-stock-higher.md",
+      "title": "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher",
+      "excerpt": "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Business/wirestory_e2be119c38a4909ba2e848dbac9a9416_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "publishedDateTime": "2023-07-25T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-hitpaw-introduces-its-online-ai-video-translator-breaking-language-barriers-in-video-content-creation.md",
       "title": "HitPaw Introduces its Online AI Video Translator: Breaking Language Barriers in Video Content Creation",
       "excerpt": "HitPaw, a leading technology company specializing in video editing solutions, is thrilled to announce the launch of its groundbreaking Online AI",
@@ -719,517 +1166,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-a-translator-for-your-kids-how-using-ai-as-a-parenting-co-pilot-will-help-parents-communicate-better.md",
-      "title": "A translator for your kids: How using AI as a 'parenting co-pilot' will help parents communicate better",
-      "excerpt": "With ChatGPT and other artificial intelligence tools, mom and dad can now access massive amounts of parenting knowledge at their fingertips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/translator-kids-using-ai-parenting-co-pilot-help-parents-communicate-better",
-      "originalUrl": "https://www.foxnews.com/us/translator-kids-using-ai-parenting-co-pilot-help-parents-communicate-better",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6060d64a-579e-40d7-a633-6f70c2d1edd0/44779624-8154-40b3-96a8-5b284b33f239/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/translator-kids-using-ai-parenting-co-pilot-help-parents-communicate-better.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/translator-kids-using-ai-parenting-co-pilot-help-parents-communicate-better.amp",
-      "publishedDateTime": "2023-07-25T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-esrb-proposes-using-facial-recognition-to-verify-your-age.md",
-      "title": "ESRB Proposes Using Facial Recognition To Verify Your Age",
-      "excerpt": "The Entertainment Software Rating Board (ESRB) has asked the FTC for approval to use facial recognition technology to help determine how old a user is. Using something called Privacy-Protective Facial Estimation, a person's age would be estimated based on a photo to verify they are old enough to purchase a game.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/",
-      "originalUrl": "https://www.gamespot.com/articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4161563-pcgames2023.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/",
-      "publishedDateTime": "2023-07-25T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft.md",
-      "title": "Generative AI Views Of MIT Prof And Goldman CIO Bode Well For Microsoft",
-      "excerpt": "An MIT professor and Goldman's CIO told me GAI has a bright future. It could add $14 billion a year to Microsoft's revenue",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 518,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bda85455c7bf468d9a6bb7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 881,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/",
-      "publishedDateTime": "2023-07-25T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-use-generative-ai-foundation-models-in-vpc-mode-with-no-internet-connectivity-using-amazon-sagemaker-jumpstart.md",
-      "title": "Use generative AI foundation models in VPC mode with no internet connectivity using Amazon SageMaker JumpStart",
-      "excerpt": "With recent advancements in generative AI, there are lot of discussions happening on how to use generative AI across different industries to solve specific business problems. Generative AI is a type of AI that can create new content and ideas, including conversations, stories, images, videos, and music.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-foundation-models-in-vpc-mode-with-no-internet-connectivity-using-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-foundation-models-in-vpc-mode-with-no-internet-connectivity-using-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/22/14480-sol-arch-1080x630.jpg",
-          "width": 1080,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T09:29:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-wayfair-unveils-generative-ai-solution-to-reimagine-interior-design.md",
-      "title": "Wayfair unveils generative AI solution to reimagine interior design",
-      "excerpt": "Online furniture retailer Wayfair today launched Decorify, a generative AI tool for interior design inspiration.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/wayfair-unveils-generative-ai-solution-to-reimagine-interior-design/",
-      "originalUrl": "https://venturebeat.com/ai/wayfair-unveils-generative-ai-solution-to-reimagine-interior-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Wayfair-Decorify-e1690295749862.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-teradata-acquires-stemma-to-boost-ai-based-data-search-for-analytics.md",
-      "title": "Teradata acquires Stemma to boost AI-based data search for analytics",
-      "excerpt": "Stemma offers integrations with data warehouses, business intelligence tools, collaboration software and security tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3703251/teradata-acquires-stemma-to-boost-ai-based-data-search-for-analytics.html",
-      "originalUrl": "https://www.infoworld.com/article/3703251/teradata-acquires-stemma-to-boost-ai-based-data-search-for-analytics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/08/card-catalog-machester_city_library-100809242-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3703251/teradata-acquires-stemma-to-boost-ai-based-data-search-for-analytics.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703251/teradata-acquires-stemma-to-boost-ai-based-data-search-for-analytics.amp.html",
-      "publishedDateTime": "2023-07-25T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver.md",
-      "title": "Meta’s stock picks up an upgrade ahead of earnings — but AI is the biggest driver",
-      "excerpt": "It isn't lost on New Street Research analyst Dan Salmon that he's upgrading shares of Meta Platforms Inc. a day before the company is due to report earnings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
-      "originalUrl": "https://www.marketwatch.com/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-748566/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
-      "publishedDateTime": "2023-07-25T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-bing-ai-chat-expands-to-chrome-and-safari-for-select-users.md",
-      "title": "Bing AI chat expands to Chrome and Safari for select users",
-      "excerpt": "\"We are flighting access to Bing Chat in Safari and Chrome to select users as part of our testing on other browsers,\" said Caitlin Roulston, Microsoft director of communications. \"We are excited to expand access to even more users once our standard testing procedures are complete.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/",
-      "originalUrl": "https://www.zdnet.com/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/90f674cd85981dcb50a5f3f8d5e29f2a07295b41/2023/07/25/0852fcad-54ee-4823-9f85-b7df7c18bb05/binggettyimages-1246902268.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/",
-      "publishedDateTime": "2023-07-25T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales.md",
-      "title": "The ESRB Wants To Use ‘Facial Age Recognition’ AI Tech For Game Sales",
-      "excerpt": "Apparently we have come a long way from when I used to have to ID kids buying M-rated games when I worked as a cashier at Best Buy. The ESRB is now pitching the FTC on new technology called “Privacy-P",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bfd82b558f8d11e6143289/0x0.jpg?format=jpg&width=1200",
-          "width": 870,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/amp/",
-      "publishedDateTime": "2023-07-25T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-five-reasons-why-your-next-cloud-may-be-your-own.md",
-      "title": "Five Reasons Why Your Next Cloud May Be Your Own",
-      "excerpt": "Data centers are able to provide cloud-native platform as a service (PaaS) offerings, such as managed Kubernetes, containers and object storage ... Certainly, the first step is merely your recognition that there is a cloud alternative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1c45949119fcba830711/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/amp/",
-      "publishedDateTime": "2023-07-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

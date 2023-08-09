@@ -9,8 +9,8 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/this-is-what-tech-companies-fr
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
 type: article
 quality: 82
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -32,20 +32,93 @@ images:
     isCached: true
 
 related:
-  - title: "Guest Opinion: If artificial intelligence takes your job, it should pay you"
-    excerpt: "Actors love residuals. Don’t worry, this is not some annoying Hollywood thing like quinoa or crystal healing. I actually do like quinoa — sorry. Anyway, what are residuals?"
-    publishedDateTime: 2023-08-05T10:00:00Z
-    webUrl: "https://www.sentinelsource.com/opinion/op-ed/guest-opinion-if-artificial-intelligence-takes-your-job-it-should-pay-you/article_32b24ce9-0f61-564d-98e0-57438d9a70e9.html"
+  - title: "Opinion: Why Nvidia investors are rattled by Supermicro’s AI chip supply constraints"
+    excerpt: "Also read: AI has given a boost to a lesser-known Silicon Valley computer maker Supermicro Chief Executive Charles Liang told analysts on the company’s call that the company is seeing supply constraints for the graphics chips coming from Nvidia that are ..."
+    publishedDateTime: 2023-08-09T20:18:00Z
+    webUrl: "https://www.marketwatch.com/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581"
     type: article
     provider:
-      name: The Keene Sentinel
-      domain: sentinelsource.com
-    quality: 35
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 97
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/7819b5a8-f0c2-11ec-85c6-cff09f7b972a.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://images.mktw.net/im-803752/social"
+        width: 1280
+        height: 640
         isCached: true
+  - title: "Nvidia set to hop AI forward with next-gen Grace Hopper Superchip"
+    excerpt: "One of today's biggest Nvidia announcements is a new version of the GH200 Grace Hopper Superchip, powered with next-generation HBM3e memory."
+    publishedDateTime: 2023-08-08T19:18:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-set-to-hop-ai-forward-with-next-gen-grace-hopper-superchip/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+  - title: "Nvidia launches new AI chip configuration"
+    excerpt: "Nvidia announced a new configuration on Tuesday for its advanced artificial intelligence chips that is designed to speed generative AI applications.The new version of the Grace Hopper Superchip boosts the amount of high-bandwidth memory,"
+    publishedDateTime: 2023-08-09T03:47:00Z
+    webUrl: "https://www.channelnewsasia.com/business/nvidia-launches-new-ai-chip-configuration-3686276"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--udSqSFYx--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-08-08t154702z_2_lynxmpej770lg_rtroptp_3_usa-semiconductors.jpg?itok=4INBC_n-"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "NVIDIA unveils new AI superchip and adds generative AI to Omniverse"
+    excerpt: "NVIDIA founder and CEO, Jensen Huang, announced an updated GH200 Grace Hopper Superchip, the NVIDIA AI Workbench, and an updated NVIDIA Omniverse with generative AI at a wide-ranging SIGGRAPH keynote."
+    publishedDateTime: 2023-08-09T14:04:00Z
+    webUrl: "https://www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show"
+    ampWebUrl: "https://www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show?hs_amp=true"
+    type: article
+    provider:
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 54
+  - title: "Nvidia Unveils Upgraded AI Chips To Enhance Generative AI Applications"
+    excerpt: "The company introduced a new configuration for its Grace Hopper Superchip, aiming to boost the capabilities of generative AI applications, , nvidia, Grace Hopper Superchip, Generative AI"
+    publishedDateTime: 2023-08-09T05:24:00Z
+    webUrl: "https://www.businessworld.in/article/Nvidia-Unveils-Upgraded-AI-Chips-To-Enhance-Generative-AI-Applications/09-08-2023-487115/"
+    type: article
+    provider:
+      name: Businessworld
+      domain: businessworld.in
+    quality: 54
+    images:
+      - url: "https://static.businessworld.in/article/article_extra_large_image/1688016391_iJbIWj_nvidia.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Nvidia improves AI processor"
+    excerpt: "Grace Hopper superchip increases capacity and speed Nvidia announced an updated AI processor that gives a jolt to the chip's capacity and speed. Nvidia  told the gathered throngs at the Siggraph conference in Los Angeles that its Grace Hopper superchip,"
+    publishedDateTime: 2023-08-09T09:52:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57390-nvidia-improves-ai-processor"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/3e814bcb2a51dbe3c5633f6e423c21b2_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "NVIDIA Infuses Grace Hopper Superchip With HBM3e To Supercharge AI Data Center Workloads"
+    excerpt: "Besides the extra capacity, NVIDIA says that the HBM3e version of the Hopper GPU offers a 50% bandwidth improvement, too. That gives the massive parallel processor some five terabytes per second of memory bandwidth,"
+    publishedDateTime: 2023-08-08T18:55:00Z
+    webUrl: "https://hothardware.com/news/nvidia-gh200-hbm3e-edition"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 25
 
 secured: "wW53F+8/WIUPSm9xK/ZvdxXOBcFyMVaHDcR6DX4obz5NlebdkqAxVJwnJvE9rawjdUtgpT/W5O+jV09hSZYBJ8g+aN/6LjagE3s68X+uLaCcWfPaDU4aAObxRK6xYTD2TSvbZs8tzcosszkoL6Dj7ngDtymwkTknShStDAuXDRJkh1XTZ8wtS9fvCdYLj9DYRTJ8+iaXvrBdDri1zxDZKBR4q8mA0dkGJfw2dcg6GTM4QcGe2AWp27jrlveaPyDpCFLfAbnok4iMhOfhc+avTaeqT94JTuZgkCjbjVaAdwnaa3IU/BiFc+hKwx0/HHcu1hGpN1jIN4XyOV7bQ00dblvlmBylWwyblLUzVgAT4gQ=;uPYb85Hp68WNqPogWZGIJg=="
 ---

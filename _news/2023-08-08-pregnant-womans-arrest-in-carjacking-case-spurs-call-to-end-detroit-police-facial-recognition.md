@@ -61,7 +61,7 @@ related:
     provider:
       name: al.com
       domain: al.com
-    quality: 66
+    quality: 68
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
         width: 1680
@@ -369,6 +369,15 @@ related:
     provider:
       name: Government Technology
       domain: govtech.com
+    quality: 19
+  - title: "Eight months pregnant and arrested after false facial recognition match"
+    excerpt: "Porcha Woodruff, who is the first woman known to be wrongfully accused as a result of facial recognition technology, thought the police who showed up at her door to arrest her for carjacking were joking."
+    publishedDateTime: 2023-08-09T18:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/eight-months-pregnant-and-arrested-after-false-facial-recognition-match/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 19
   - title: "Pregnant mother-of-two wrongly arrested for robbery and carjacking after false facial recognition says she was having contractions in the holding cell: 'Shoddy technology' has ..."
     excerpt: "A Michigan woman who was eight months pregnant became the latest person to be falsely charged after police used facial recognition technology to arrest her on suspicion of carjacking and robbery. Porcha Woodruff, 32, was shocked when six police officers ..."

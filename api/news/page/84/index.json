@@ -2,6 +2,461 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2023-06-15-hholove-o-sitter-review-best-companion-ai-robot-for-cats.md",
+      "title": "HHOLOVE O Sitter Review: Best companion AI robot for Cats",
+      "excerpt": "Well now let’s start the setup of the O Sitter ... As an intelligent companion AI robot, O Sitter can also play with your cat for you. There is a laser emitter on O Sitter’s head, so when the cat is bored lying next to the robot, we can activate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/06/15/hholove-o-sitter-review-best-companion-ai-robot-for-cats/",
+      "originalUrl": "https://www.gizmochina.com/2023/06/15/hholove-o-sitter-review-best-companion-ai-robot-for-cats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/maxresdefault-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-how-machine-learning-and-location-data-are-disrupting-industries.md",
+      "title": "How Machine Learning And Location Data Are Disrupting Industries",
+      "excerpt": "Machine learning-powered location data intelligence is a powerful tool that can offer transformative benefits, but it needs to be used wisely and responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6489c66337a23195857d5722/0x0.jpg?format=jpg&crop=1942,1092,x0,y201,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/amp/",
+      "publishedDateTime": "2023-06-15T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-ai-quadruped-robot-market-share-and-forecast-till-2030.md",
+      "title": "AI Quadruped Robot Market Share and Forecast till 2030",
+      "excerpt": "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (XiaoMi, Sony, Boston Dynamics, Petoi,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-quadruped-robot-market-share-and-forecast-till-2030-2023-06-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-quadruped-robot-market-share-and-forecast-till-2030-2023-06-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-asset-management-vs-parts-inventory-management-whats-the-difference.md",
+      "title": "Asset management vs. parts inventory management: What’s the difference?",
+      "excerpt": "Examining the differences between asset management and parts inventory management.\nThe post Asset management vs. parts inventory management: What’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/asset-management-vs-parts-inventory-management/",
+      "originalUrl": "https://www.ibm.com/blog/asset-management-vs-parts-inventory-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T06:32:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-introducing-anycloud-backup-365.md",
+      "title": "Introducing Anycloud Backup 365",
+      "excerpt": "We are excited to announce the availability of the Anycloud Backup 365 offering on the IBM Cloud Marketplace.  \nThe post Introducing Anycloud Backup 365 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/introducing-anycloud-backup-365/",
+      "originalUrl": "https://www.ibm.com/blog/introducing-anycloud-backup-365/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T06:26:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-advanced-navigation-unveils-australias-largest-subsea-robotics-centre.md",
+      "title": "Advanced Navigation Unveils Australia’s Largest Subsea Robotics Centre",
+      "excerpt": "Advanced Navigation, the world’s most determined innovator in artificial intelligence (AI) for robotic and navigation technologies, is",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/advanced-navigation-unveils-australia-s-largest-subsea-robotics-centre-1032390898",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/advanced-navigation-unveils-australia-s-largest-subsea-robotics-centre-1032390898",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonxdata.md",
+      "title": "The disruptive potential of open data lakehouse architectures and IBM watsonx.data",
+      "excerpt": "Learn about watsonx.data, a data store built on an open data lakehouse architecture to help organizations scale AI workloads.\nThe post The disruptive potential of open data lakehouse architectures and IBM watsonx.data appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/",
+      "originalUrl": "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-ai-will-stir-the-pot-but-wont-change-the-game-for-decades-mark-zandi.md",
+      "title": "AI will ‘stir the pot,’ but won’t change the game for decades: Mark Zandi",
+      "excerpt": "The biggest factor contributing to companies' bottom lines right now is artificial intelligence, says Mark Zandi, chief economist at Moody's Analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107235733-1683218950741-gettyimages-1252638648-SENATE_GOP_DEBT_LIMIT.jpeg?v=1686828721",
+          "width": 5182,
+          "height": 3455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
+      "publishedDateTime": "2023-06-15T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-cognitive-stimulation-therapy-cst-and-icst.md",
+      "title": "Cognitive Stimulation Therapy (CST) and iCST",
+      "excerpt": "Saint Louis University’s Geriatric Education Center (GEC) offers cognitive stimulation therapy (CST), a support ... Disclaimer This project is supported by the Health Resources and Services Administration (HRSA) of the U.S. Department of Health and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/cognitive-stimulation-therapy.php",
+      "originalUrl": "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/cognitive-stimulation-therapy.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Saint Louis University",
+        "domain": "slu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
+      "title": "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions",
+      "excerpt": "The two companies held an event in Riyadh on Wednsday that highlighted how to accelerate digital transformation in the Kingdom in line Vision 2030",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/OGY3MGQ1ODUtM2NiNS00/0/image2-mohammedalromaizan-vpsapsaudiarabiaandashutoshmuni-interimmpofibmconsultingsaudiarabia-alongsideibm-sapteam-jpg.jpeg?f=3%3A2",
+          "width": 873,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1",
+      "publishedDateTime": "2023-06-15T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law.md",
       "title": "Can Generative AI Be Saved From AI Hallucinations By Using Chain-Of-Thought Step-By-Step Techniques, Asks AI Ethics And AI Law",
       "excerpt": "Generative AI is prone to AI hallucinations, but maybe the use of chain-of-thought step-by-step techniques can overcome or at least reduce such maladies. Here's the deal.",
@@ -718,490 +1173,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai.md",
-      "title": "Why Companies Are Vastly Underprepared For The Risks Posed By AI",
-      "excerpt": "From accuracy and security threats to bias and cultural implications, this article explores the reasons behind organizations' lack of readiness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648aaa9fac6d92c810b12f50/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/amp/",
-      "publishedDateTime": "2023-06-14T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-artificial-intelligence-wont-likely-reach-human-like-levels-without-this-one-key-component-study-finds.md",
-      "title": "Artificial intelligence won't likely reach human-like levels without this one key component, study finds",
-      "excerpt": "Artificial intelligence platforms can mimic human learning, but will likely not match human-like cognition unless the programs are connected to robots, study finds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds",
-      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54cf6e5e-46ce-4bd4-aed5-3dabe9838e97/e3852eca-5cd2-4283-bae9-15fbb23d888a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds.amp",
-      "publishedDateTime": "2023-06-14T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-robotaxis-take-over-the-wheel.md",
-      "title": "Robotaxis take over the wheel",
-      "excerpt": "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lewistownsentinel.com/life/lifestyles/2023/06/robotaxis-take-over-the-wheel/",
-      "originalUrl": "https://www.lewistownsentinel.com/life/lifestyles/2023/06/robotaxis-take-over-the-wheel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://d14e0irai0gcaa.cloudfront.net/www.lewistownsentinel.com/images/2017/01/31093349/fb1.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LewistownSentinel.com",
-        "domain": "lewistownsentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-top-ai-statistics-and-trends-in-2023.md",
-      "title": "Top AI Statistics And Trends In 2023",
-      "excerpt": "Do Alexa, automated chatbots, robots or self-driving vehicles intrigue you? If they do, then you must know that they are all based on the technology of “AI” or “artificial intelligence”. AI is a branch of computer science,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/business/ai-statistics/",
-      "originalUrl": "https://www.forbes.com/advisor/in/business/ai-statistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/06/possessed-photography-dRMQiAubdws-unsplash-1-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report.md",
-      "title": "Amazon’s cloud unit AWS ‘considering’ AMD’s new MI300 AI chips: Report",
-      "excerpt": "While AWS has not made any public commitments to use AMD's new MI300 chips in its cloud services, Dave Brown, vice president of elastic compute cloud at Amazon, said AWS is considering them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/",
-      "originalUrl": "https://www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/06/aws-reuters.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/lite/",
-      "publishedDateTime": "2023-06-14T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-global-data-and-ai-ethics-market-2029-360-market-update.md",
-      "title": "Global Data and AI Ethics Market 2029 | 360 Market Update",
-      "excerpt": "New Research Study âData and AI Ethics Market 2023 Size, Share, Types [, Solutions, Services, , ] , Applications [,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-data-and-ai-ethics-market-2029-360-market-update-2023-06-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-data-and-ai-ethics-market-2029-360-market-update-2023-06-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T20:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-hanmi-semiconductor-rallies-tracking-us-ai-chip-stocks.md",
-      "title": "Hanmi Semiconductor Rallies, Tracking U.S. AI Chip Stocks",
-      "excerpt": "Hanmi Semiconductor's shares jumped Thursday, tracking the rally in U.S. artificial-intelligence chip stocks overnight. Shares of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/hanmi-semiconductor-rallies-tracking-u-s-ai-chip-stocks-afcd29fd",
-      "originalUrl": "https://www.marketwatch.com/story/hanmi-semiconductor-rallies-tracking-u-s-ai-chip-stocks-afcd29fd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/hanmi-semiconductor-rallies-tracking-u-s-ai-chip-stocks-afcd29fd",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/hanmi-semiconductor-rallies-tracking-u-s-ai-chip-stocks-afcd29fd",
-      "publishedDateTime": "2023-06-14T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-radio-station-gets-part-time-ai-dj-based-on-its-midday-host.md",
-      "title": "Radio station gets part-time AI DJ based on its midday host",
-      "excerpt": "RadioGPT launched today, an AI-driven localized radio host system that combines OpenAI’s GPT-3 language model with AI voice tech.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/",
-      "originalUrl": "https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-899910422.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/amp/",
-      "publishedDateTime": "2023-06-14T20:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-ai-and-patents-how-machine-learning-can-help-or-hinder-innovation.md",
-      "title": "AI and patents: How machine learning can help or hinder innovation",
-      "excerpt": "One of the first examples was Lex Machina, software that uses machine learning to comb data sources and provide legal analytics. A Stanford university spinout, it was created by Lemley with George ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b?miRedirects=1",
-      "originalUrl": "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b?miRedirects=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcba43e1d-6434-4dd2-a6c0-6ba408741944.jpg?source=next-opengraph&fit=scale-down&width=900",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-endocrine-disrupting-chemicals-may-raise-risk-of-cognitive-disorders-in-future-generations.md",
-      "title": "Endocrine-disrupting chemicals may raise risk of cognitive disorders in future generations",
-      "excerpt": "Adverse cognitive effects linked to polychlorinated biphenyls (PCBs) exposure, a type of endocrine-disrupting chemical (EDC), have the potential to be passed down through generations, according to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/06/230615183239.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/06/230615183239.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

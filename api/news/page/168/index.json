@@ -2,6 +2,510 @@
   "page": 168,
   "value": [
     {
+      "path": "_news/2023-04-26-us-federal-agencies-pledge-to-uphold-fairness-and-equality-in-ai-systems-amid-growing-concerns.md",
+      "title": "US federal agencies pledge to uphold fairness and equality in AI systems amid growing concerns",
+      "excerpt": "Four federal agencies pledged on Tuesday to enforce their respective laws and regulations to ensure AI is fair and law-abiding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/us-federal-agencies-pledge-to-uphold-fairness-and-equality-in-ai-systems-amid-growing-concerns/",
+      "originalUrl": "https://venturebeat.com/ai/us-federal-agencies-pledge-to-uphold-fairness-and-equality-in-ai-systems-amid-growing-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/ian-hutchinson-ruQxygBJMOM-unsplash-e1682464842226.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 908,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/us-federal-agencies-pledge-to-uphold-fairness-and-equality-in-ai-systems-amid-growing-concerns/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/us-federal-agencies-pledge-to-uphold-fairness-and-equality-in-ai-systems-amid-growing-concerns/amp/",
+      "publishedDateTime": "2023-04-25T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-microsoft-revenue-growth-stays-low-as-economic-concerns-hurt-demand.md",
+      "title": "Microsoft Revenue Growth Stays Low as Economic Concerns Hurt Demand",
+      "excerpt": "Microsoft Corp. said its growth remained subdued last quarter as economic concerns cooled consumer demand and corporate orders for the company’s software and cloud services. The software giant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/microsoft-msft-q3-earnings-report-2023-66390b7c",
+      "originalUrl": "https://www.wsj.com/articles/microsoft-msft-q3-earnings-report-2023-66390b7c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-762025/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-physicist-the-entire-universe-might-be-a-neural-network.md",
+      "title": "Physicist: The Entire Universe Might Be a Neural Network",
+      "excerpt": "In his paper, Vanchurin argues that artificial neural networks can \"exhibit approximate behaviors\" of both universal theories. Since quantum mechanics \"is a remarkably successful paradigm for ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/physicist-entire-universe-neural-network",
+      "originalUrl": "https://futurism.com/physicist-entire-universe-neural-network",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/09/Physicist-Believes-Universe-Neural-Network.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-jellyfish-robots-could-one-day-clean-up-the-worlds-oceans.md",
+      "title": "Jellyfish Robots Could One Day Clean Up The World’s Oceans",
+      "excerpt": "Marine plastic pollution is a bigger problem than some may realize. According to the International Union for Conservation of Nature (IUCN), at least 14 million tons of plastic end up in the ocean every year, with plastic making up 80 percent of all the marine debris found across the water's surface and deep below.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/",
+      "originalUrl": "https://www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644853cb5e65f457e1a3bac0/0x0.jpg?format=jpg&crop=5165,2903,x0,y264,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/amp/",
+      "publishedDateTime": "2023-04-25T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-artificial-intelligence-applications-for-smart-cities-market-2023-precise-outlook-amazon-rekognition-bonsai-huawei-ibm-corp.md",
+      "title": "Artificial Intelligence Applications for Smart Cities Market 2023 Precise Outlook – Amazon (Rekognition), Bonsai, Huawei, IBM Corp.",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Apr 25, 2023 (Market Insights Reports) -- The report provides revenue of the global Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-applications-for-smart-cities-market-2023-precise-outlook-amazon-rekognition-bonsai-huawei-ibm-corp-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-applications-for-smart-cities-market-2023-precise-outlook-amazon-rekognition-bonsai-huawei-ibm-corp-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-24-top-ai-statistics-and-trends-in-2023.md",
+      "title": "24 Top AI Statistics And Trends In 2023",
+      "excerpt": "AI continues to revolutionize various industries, with an expected annual growth rate of 37.3% between 2023 and 2030, as reported by Grand View Research. This rapid growth emphasizes the increasing impact of AI technologies in the coming years. [5]",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/business/ai-statistics/",
+      "originalUrl": "https://www.forbes.com/advisor/business/ai-statistics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbes.com/advisor/wp-content/uploads/2023/04/24_Top_AI_Statistics_And_Trends_In_2023_-_article_image.jpg",
+          "width": 958,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes.md",
+      "title": "Run your local machine learning code as Amazon SageMaker Training jobs with minimal code changes",
+      "excerpt": "We recently introduced a new capability in the Amazon SageMaker Python SDK that lets data scientists run their machine learning (ML) code authored in their preferred integrated developer environment (IDE) and notebooks along with the associated runtime dependencies as Amazon SageMaker training jobs with",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/25/machine-learning-local-code-sagemaker.jpg",
+          "width": 959,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T13:55:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs.md",
+      "title": "TC+ roundup: Pitch coaching from 5 VCs, Black founder funding options, 3 fintech flubs",
+      "excerpt": "If you’ve added \"AI\" to your pitch deck to make it more appealing, I have some bad news: FOMO is passé, and due diligence is the new black.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/",
+      "originalUrl": "https://techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1372487294.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/amp/",
+      "publishedDateTime": "2023-04-25T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-artificial-generative-intelligence-risks-a-return-to-cultural-colonialism.md",
+      "title": "Artificial generative intelligence risks a return to cultural colonialism",
+      "excerpt": "The explosive rise of AI chatbots has brought us to a pivotal moment that will have lasting effects on our collective worldview.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/",
+      "originalUrl": "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/",
+      "publishedDateTime": "2023-04-25T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-a-pioneering-artificial-intelligence-method-to-fight-urban-air-pollution.md",
+      "title": "A pioneering artificial intelligence method to fight urban air pollution",
+      "excerpt": "World Health Organization (WHO). This scenario is exacerbated in urban areas where more than 50% of the world's population is concentrated.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.html",
+      "originalUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/a-pioneering-artificia.jpg",
+          "width": 2067,
+          "height": 1831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-artificial-intelligence-method-urban-air.amp",
+      "publishedDateTime": "2023-04-25T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid.md",
       "title": "GOP releases 100% AI-generated ad to fearmonger over Biden’s reelection bid",
       "excerpt": "On the screen flashes a dark, AI-generated image of Biden and Vice President Kamala Harris, smiling and waving in front of a sea of American flags. From there, a series of AI-generated scenes show the faked future that the RNC imagines that this election result would bring,",
@@ -707,443 +1211,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-republicans-launch-eerie-ai-generated-attack-ad-on-biden.md",
-      "title": "Republicans Launch Eerie AI-Generated Attack Ad On Biden",
-      "excerpt": "The video shows realistic images of a collapse of world order under a second Biden-Harris term—and suggests the possibility of a lot of artificial intelligence in upcoming campaigns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/",
-      "originalUrl": "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6447ef043664b77e0aa3babc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/",
-      "publishedDateTime": "2023-04-25T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-updated-daily-here-are-the-10-best-amazon-deals-on-vitamix-blink-and-playstation.md",
-      "title": "Updated daily: Here are the 10 best Amazon deals on Vitamix, Blink and PlayStation",
-      "excerpt": "If you've come looking for amazing deals, Amazon is the place to go. Amazon's extensive collection of daily sales can help you find everything you need for your kitchen, closet, living room and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/money/reviewed/2023/04/24/best-amazon-deals-sales/11727002002/",
-      "originalUrl": "https://www.usatoday.com/story/money/reviewed/2023/04/24/best-amazon-deals-sales/11727002002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/04/28/USAT/5cdb1fff-8ba3-4d46-b8ab-43903c7bd10f-Amazon_DOTD_42823.jpg?auto=webp&crop=4778,2688,x21,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities.md",
-      "title": "Here’s how AI evolves with next-gen GPU and AI capabilities",
-      "excerpt": "As edge computing continues growing at a fast rate along with the availability of better internet connectivity, projects have started looking for ways to benefit from blockchain, artificial intelligence (AI) and other technologies to provide users and businesses with new ways to monetize their internet availability.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities",
-      "originalUrl": "https://cointelegraph.com/news/heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/storage/uploads/view/3202b88f1e9bcaca436a9275d16224b9.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities/amp",
-      "publishedDateTime": "2023-04-25T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-5-real-world-applications-of-natural-language-processing-nlp.md",
-      "title": "5 real-world applications of natural language processing (NLP)",
-      "excerpt": "Natural language processing (NLP) is a field of study that focuses on enabling computers to understand and interpret human language. NLP involves applying machine learning algorithms to analyze and process natural language data, such as text or speech.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/5-real-world-applications-of-natural-language-processing-nlp",
-      "originalUrl": "https://cointelegraph.com/news/5-real-world-applications-of-natural-language-processing-nlp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-04/cef8b3f1-b6bd-42f8-a2d6-a809075f70b4.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/5-real-world-applications-of-natural-language-processing-nlp/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/5-real-world-applications-of-natural-language-processing-nlp/amp",
-      "publishedDateTime": "2023-04-25T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time.md",
-      "title": "Chatbots and the new AI: What will Silicon Valley unleash upon the world this time?",
-      "excerpt": "All will be impacted by Silicon Valley’s latest creation: “generative” artificial intelligence. With new chatbots and AI software that generates text, images and sound, technology companies have smashed open Pandora’s Box,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2023/04/25/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time/",
-      "originalUrl": "https://www.eastbaytimes.com/2023/04/25/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/04/2023dmt6.png?w=1024&h=569",
-          "width": 1022,
-          "height": 568,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2023/04/25/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/04/25/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time/amp/",
-      "publishedDateTime": "2023-04-25T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-why-optimize-your-warehouse-with-a-data-lakehouse-strategy.md",
-      "title": "Why optimize your warehouse with a data lakehouse strategy",
-      "excerpt": "You know a data warehouse is essential. Let’s look at why warehouse optimization is key in a data lakehouse strategy, and why it matters for your business.\nThe post Why optimize your warehouse with a data lakehouse strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/why-optimize-your-warehouse-with-a-data-lakehouse-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/why-optimize-your-warehouse-with-a-data-lakehouse-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-inside-metas-scramble-to-catch-up-on-ai.md",
-      "title": "Inside Meta's scramble to catch up on A.I.",
-      "excerpt": "He declined to comment on whether Meta abandoned its AI chip. Janardhan and other executives did not grant requests for interviews made via the company. The overhaul spiked Meta's capital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/25/inside-metas-scramble-to-catch-up-on-ai.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/25/inside-metas-scramble-to-catch-up-on-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106967400-1635454475297-gettyimages-1349800861-_09i3909_20211028115608799.jpeg?v=1682426341",
-          "width": 4639,
-          "height": 3318,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/25/inside-metas-scramble-to-catch-up-on-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/25/inside-metas-scramble-to-catch-up-on-ai.html",
-      "publishedDateTime": "2023-04-25T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-big-tech-cuts-ai-ethics-teams-even-as-development-ramps-up.md",
-      "title": "Big Tech cuts AI ethics teams even as development ramps up",
-      "excerpt": "Microsoft, Google and Amazon's Twitch are among the tech companies that are scaling back their AI ethics teams At the same time that tech behemoths are accelerating the development of AI products ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/marketwatch/20230425215/big-tech-cuts-ai-ethics-teams-even-as-development-ramps-up",
-      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230425215/big-tech-cuts-ai-ethics-teams-even-as-development-ramps-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-microsoft-earnings-to-highlight-ai-cloud-services-direction.md",
-      "title": "Microsoft earnings to highlight AI, cloud services direction",
-      "excerpt": "Goldman Sachs analyst Kash Rangan said that Wall Street has been concerned about a potential slowdown in the growth rate of Microsoft's (MSFT) Azure services. However, Rangan added that ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3959368-microsoft-earnings-to-highlight-ai-cloud-services-direction",
-      "originalUrl": "https://seekingalpha.com/news/3959368-microsoft-earnings-to-highlight-ai-cloud-services-direction",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1184908397/image_1184908397.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-onemeta-aitm-launches-verbumcalltm-the-ultimate-ai-driven-mobile-phone-translation-service-revolutionizing-global-communication.md",
-      "title": "OneMeta AI(TM) launches VerbumCall(TM): The Ultimate AI-driven Mobile Phone Translation Service Revolutionizing Global Communication",
-      "excerpt": "BOUNTIFUL, UT / ACCESSWIRE / April 25, 2023 / OneMeta AI (www.onemeta.ai) ONEI. OneMeta AI, the pioneering mastermind behind AI-powered language solutions, has unveiled the groundbreaking ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/ac31985816/onemeta-ai-tm-launches-verbumcall-tm-the-ultimate-ai-driven-mobile-phone-translation-service-revo",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/ac31985816/onemeta-ai-tm-launches-verbumcall-tm-the-ultimate-ai-driven-mobile-phone-translation-service-revo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31985816",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31985816",
-      "publishedDateTime": "2023-04-25T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-en
 webUrl: "https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/"
 type: article
 quality: 94
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 11
+  - title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
+    excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable"
+    publishedDateTime: 2023-08-09T18:28:00Z
+    webUrl: "https://www.datanami.com/this-just-in/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprise-grade-generative-ai-for-business/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
     quality: 11
 
 secured: "dbiMxs/eLocrV2gR72VCXcUtAaT5WnBM1tRXr9LtB0BZgqTySwz2iHwGEE+Nx2y2ePIo5CtaKl/URW37kPSgcFKiBF3S590gEpjCdykaELRj9CFWSanlsTr6woP95ngancba06M4QNBwH6V53B6ZgQ/IG7Z6FyRFqWMEh7DhbXyQbUfUsh6fpS+8i9G25Crcg40P4u9DE8tK38kjIQcl6h68g1wR8pr3TXOn0nq1uxuwd2axi/DmQ4u1nOPoCIRwzuhdd3Jl+gG9MOaCv69qkmiwxT9yIs605MObVKy/hU/zJZjsjJZ2Hz8a0y73UUk1Em7wc9LkZy86sNVzB3+MkmO4/Qv7FCZhK0nAcRH5jto=;+dFwK+p/8lsRBqzrOl2XHg=="

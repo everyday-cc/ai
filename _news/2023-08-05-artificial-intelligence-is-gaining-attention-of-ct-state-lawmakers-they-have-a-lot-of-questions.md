@@ -41,22 +41,6 @@ related:
         width: 760
         height: 507
         isCached: true
-  - title: "Artificial intelligence is gaining state lawmakers' attention, and they have a lot of questions"
-    excerpt: "We're trying to set a good example,” Connecticut state Sen. James Maroney said during a floor debate in May. Connecticut plans to inventory all of its government systems using artificial intelligence by the end of 2023,"
-    publishedDateTime: 2023-08-05T03:19:00Z
-    webUrl: "https://www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBWOW52FY/"
-    ampWebUrl: "https://www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBWOW52FY/?outputType=amp"
-    cdnAmpWebUrl: "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBWOW52FY/?outputType=amp"
-    type: article
-    provider:
-      name: WHIO
-      domain: whio.com
-    quality: 62
-    images:
-      - url: "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/CSZ6b5XouU_0YqQIKInkJmymDOc=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3SEVXZAWAYDWUWIGNE2GW45O6I.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Artificial intelligence gaining state lawmakers' attention, and they have a lot of questions"
     excerpt: "As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they're often focusing first on their own state governments before imposing restrictions on the private sector."
     publishedDateTime: 2023-08-07T07:13:00Z

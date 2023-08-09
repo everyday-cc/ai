@@ -43,6 +43,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Artificial Intelligence And Robotics In The Textile Industry: Bayern Kapital To Participate In Series A Funding Round For sewts"
+    excerpt: "Robotics start-up sewts has successfully completed a Series A funding round with a total volume of EUR 7 million. The Munich-based firm’s business model won over several top-tier robotics investors. A number of renowned international capital providers,"
+    publishedDateTime: 2023-08-09T20:36:00Z
+    webUrl: "https://www.textileworld.com/textile-world/2023/08/artificial-intelligence-and-robotics-in-the-textile-industry-bayern-kapital-to-participate-in-series-a-funding-round-for-sewts/"
+    type: article
+    provider:
+      name: Textile World
+      domain: textileworld.com
+    quality: 41
+    images:
+      - url: "https://openx.textileworld.com/www/delivery/avw.php?zoneid=114&cb=INSERT_RANDOM_NUMBER_HERE&n=a0fd0356"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "B27i5Ko8QWA2r7NL8nka1lnJ364eY4IRXZXSy+mX/cGI5s2YA1K90XzQpA9/b59aoqOChN6xvAHbvHihPi03v0SDaGnwFzXkz9/FqGqpyYNWK/mm9pr51kjSBTEneqopCvZUTCXOVJB6R+nUa9L9UVuNM5NMo1QWg59LiPmsp0CTH1GRAIxLX4KhqeOH+GyE0QHvJnYxaz1FJKeCDtvSG0/PQjKBWT05sS2xrtYUsVNmJMEO+l81DdbhyLQISv5VOe4AsMj68NGD6dYReOok63jfXy3EqmsbztsWKQ4CT56kimTkztLBhtrjzIIqp9hdkQVRe5xT+TODDc051rS4hVbG6H8U/TF8iM4ZA3MCFV0nb47J72lo/DcD9D1nbvi3K2MWngsTt4lX+bww/PIUmhW9gXeHhNy/5c7UL2usMHDIfYJgFs1zonG3FICJEDcqmO+wD1d7d59KIGCeq24iQ8jQoBvy2hZ5A+zpGfyEWpjSFlENSenJnoDYopFTdi1XkNp67HvZPlpmJLCKGh5jng==;yjwoUiFNrf1L8i2H3B68RQ=="
 ---

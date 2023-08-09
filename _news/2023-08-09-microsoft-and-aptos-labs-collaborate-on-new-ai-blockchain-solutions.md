@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-pa
 cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/?outputType=amp"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Microsoft and Aptos Blockchain Partner to Revolutionize Web 3.0 and AI Integration"
+    excerpt: "Microsoft partnered with Aptos Labs, a layer 1 innovative blockchain platform co-founded by former Facebook employee"
+    publishedDateTime: 2023-08-09T16:28:00Z
+    webUrl: "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/"
+    ampWebUrl: "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 68
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/microsoft-aptos-web-3-ai.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Capitalizing on cutting-edge technologies: Investing in blockchain and AI"
     excerpt: "In today’s fast-paced and interconnected world, the emergence of disruptive technologies has become a catalyst for change across various industries. The financial industry too is experiencing a seismic shift as emerging technologies redefine traditional"
     publishedDateTime: 2023-08-05T09:15:00Z
@@ -57,6 +73,15 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "Aptos Price Prediction as Microsoft Partners with Aptos on New AI Blockchain Products – Can APT Reach $100?"
+    excerpt: "Aptos (APT) jumped on Wednesday on the news of the Microsoft AI partnership, but could have a long way to run to the upside yet."
+    publishedDateTime: 2023-08-09T17:40:00Z
+    webUrl: "https://cryptonews.com/news/aptos-price-prediction-as-microsoft-partners-with-aptos-new-ai-blockchain-products-can-apt-reach-100.htm"
+    type: article
+    provider:
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 16
 
 secured: "V3oh/IKJgLHnHBEclzdweGOXzvhNDvcDCzpyR254+94zFS1+f6aTz16Krzt45Q3xLJ9rxoqj04y9bRxYXBqjPh6BXsmWtEircYLfiMI5vX2s6mrxAfyfZqNldh4MA2InG50QIq/R5o8f/xFtXy4yPpxvx+uoZQB5nHhc6Q6CuL1hGb3dNXdME6udnsD92SwbaZ5CCORn5fJcVXdgqAyxudtqUwtKdvTXImNy7DrHJ/7ttFEp3Ygezn/8iAuUtGjEAgSfQujfOiCplW0dFgCzdn9qPwmfpnw9FU3ZsmaCypALnorfXj9HJjzdSX9SLZbt7kHwFmxRu+87VUqll6DHZkUbyBOrqO4OpHoOxhg3KH8=;QJuk4djxpJ/n+5MW+VuJvw=="
 ---

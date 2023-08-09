@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Google DeepMind enables robots to perform novel tasks"
-excerpt: "according to Google DeepMind. A traditional robot can pick up a ball and stumble when picking up a cube. RT-2’s flexible approach enables a robot to train on picking up a ball and can figure out ..."
-publishedDateTime: 2023-07-29T10:46:00Z
-originalUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks"
-webUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks"
-ampWebUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
-cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
+excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic and visual understanding beyond the robotic data it was exposed to."
+publishedDateTime: 2023-07-29T08:12:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
+ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
 type: article
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
-  - Google AI
+  - AI in Robotics
   - AI
+  - Google AI
 
 images:
-  - url: "https://glamsham.com/wp-content/uploads/2023/07/Google-Deepmind.png"
-    width: 2000
-    height: 1225
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83854,msid-102228824/google-deepmind-enables-robots-to-perform-novel-tasks.jpg"
+    width: 600
+    height: 450
     isCached: true
 
-secured: "7frbCjk3UtXeKp/1N4r3T+3k9fzqrMJVynrPekH+1dm5oojbu4TYH0DJrUAPfN05igR3Tdck4LQ9GVKCC8pR+e1RhsLnpXcHgZ2dGVUMPyobP3iGtUo+LwdWuKe6GoGOnjYypCu9N+FAxrQ073p9W6JG3BdfFIiXUmCy55spwO1QZ/cOmf7g5u8a357XzjfWyHH7ySRMUfs7S4ET+vML/N23mNPw85gP1f+DjZ0vGXVP1B28SxYJOX2c4XCDTMh6OeCs5lCIbep2Z8lJvt0zuV2WPR3eC9uRGjYln6d1OlZ1T/yYPx0f9IOr+Hw9i08vFYBjVDbfR9jw7E5Ddn7r/KVHgNT8rm2pDhvSLD4DNPU=;coV1N3HYPrxvCw4s0HD5Pw=="
+secured: "0OGnc6YMXpT0xoBFrFTBf8wLUEadHBpyDu4FlXWZHB4G+Rsvuq1prcjiLYgdfeeyN0ahnkls2lvA7PGQnUIrVVKtVodLDCc+XFLp9tTDQIvDPGz9brZCFvO58qBlMocZms5ud0zOyl+rN7A6yhm5560xMT0FB3FRHUcHsdutCSenW3/WoSMt/ziGV4dTMzLs9x3F1Q+QuwPZmKHeMRbGRD5xLuPD8pFfSTqF1fRvgTk/zUCbBlulHmz+ZxZSa7AuuKGLuwd3dL8D5vR5Z+9az4ZNCaGXGlHFIOvWgzN0xiP4fYGfFV55hs4Nr1vojm/JJShIf2opayGaac6dgx2aEoSqaTB+5Qy5YaiAKRERlR4=;w4hoN/tDPmssdq8CDAFhMA=="
 ---
 

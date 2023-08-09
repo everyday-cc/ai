@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-08-robots-say-they-wont-steal-jobs-rebel-against-humans.md",
+      "title": "Robots say they won't steal jobs, rebel against humans",
+      "excerpt": "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans' jobs or rebel against us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906",
+      "originalUrl": "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/08/eaai-robtt.jpg",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/robots-say-they-wont-steal-jobs-rebel-against-humans-3363906?amp",
+      "publishedDateTime": "2023-07-08T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-human-looking-robots-take-questions-at-a-geneva-news-conference.md",
       "title": "Human-looking robots take questions at a Geneva news conference",
       "excerpt": "UN tech agency rolls out human-looking robots for questions at a Geneva news conference to take questions from reporters.",
@@ -1279,49 +1322,6 @@
         "AI in Robotics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-service-robotics-greece.md",
-      "title": "AI Service Robotics - Greece",
-      "excerpt": "Value in the AI Service Robotics market is projected to reach US$10.22m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.89%, resulting in a market volume of US$23 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/greece",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/greece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

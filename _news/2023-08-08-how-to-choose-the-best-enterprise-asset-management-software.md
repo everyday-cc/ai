@@ -40,6 +40,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 11
+  - title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
+    excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable"
+    publishedDateTime: 2023-08-09T18:28:00Z
+    webUrl: "https://www.datanami.com/this-just-in/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprise-grade-generative-ai-for-business/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 11
 
 secured: "wL4hut8L6xIPKwzZstAV/U4NDnNvXMG0OlS3tQkhfYAns7TNA0ZDIY3ZZRGoAd09DWdOyIn4WidrsML8DzGMn/6Fx1JoTSveT6uAZnZ97ePKI86rV9I1HK5mdPsV1eywxp3HwiDygkHXMxt1Lpr3WdrCE3bKNFpfZX0xUonGTIki0AMTO26E9d0+mvYWBdv+Ftlk1jUCh5lJEY72FHn7x4nkTxQDMGGWov0XyxdLrwb3VdhuXrdOJFepiFHFLnEtDF9SrE7dtkeHdg2OlUizcbiE8m0KdgajhD+nHr4vDbl82UU0QsvGiA2YqyngcE9JQZ34ajnB8987rAc4lGYAzkATM0oeRXgqPRKvSsCk2Og=;0rR6ROJBaWx/7aP4wrpAxw=="
 ---

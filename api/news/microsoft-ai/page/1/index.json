@@ -10,7 +10,7 @@
       "originalUrl": "https://www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -53,7 +53,7 @@
       "originalUrl": "https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -96,7 +96,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 384,
+      "heat": 374,
       "tags": null,
       "images": [
         {
@@ -181,59 +181,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-opinion-this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai.md",
-      "title": "Opinion: This is what tech companies, from Amazon to Apple, just told investors about AI",
-      "excerpt": "That set up sky-high expectations for companies that are embedding AI-related technology across their product suites as well as chip companies that are selling to them. The second quarter, therefore, became a litmus test. Here’s a breakdown of AI’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7",
-      "originalUrl": "https://www.marketwatch.com/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-724370/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7",
-      "publishedDateTime": "2023-08-08T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1442,6 +1389,58 @@
         "AI in Healthcare",
         "Microsoft AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group.md",
+      "title": "Google and Microsoft partner with OpenAI to form AI safety watchdog group",
+      "excerpt": "Called the Frontier Model Forum, the partnership comes after a White House meeting last week with the same companies, plus Amazon and Meta, to discuss the secure and transparent development of future AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/",
+      "originalUrl": "https://www.zdnet.com/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 383,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0430dc198ab4ed046b02d5baab33192ccb668571/2023/07/26/a18398ef-86e6-4115-8cdd-48c6fc6907e2/ai-gettyimages-1373071138.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/",
+      "publishedDateTime": "2023-07-26T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

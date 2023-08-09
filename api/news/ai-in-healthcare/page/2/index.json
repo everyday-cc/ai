@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-24-50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report.md",
+      "title": "50% of healthcare professionals endorse AI in clinical practice: Report",
+      "excerpt": "About  50 per cent of healthcare industry professionals with prior experience in artificial intelligence (AI) have strongly endorsed",
+      "sourceUrl": null,
+      "webUrl": "https://glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report",
+      "originalUrl": "https://glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://glamsham.com/wp-content/uploads/2023/07/2a253c1258143da0dbcb615b6a8e21da.jpg",
+          "width": 900,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report?amp=1",
+      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report?amp=1",
+      "publishedDateTime": "2023-07-24T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach.md",
+      "title": "The Potential And Pitfalls Of AI In Healthcare: A Measured Approach",
+      "excerpt": "It is critical that healthcare professionals and hospital executives maintain a measured approach toward AI in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64999aa003d4598ee35d4178/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/",
+      "publishedDateTime": "2023-07-24T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-23-artificial-intelligence-saviour-of-the-nhs-or-a-hypochondriacs-best-friend.md",
+      "title": "Artificial intelligence: Saviour of the NHS… or a hypochondriac’s best friend?",
+      "excerpt": "Meanwhile, in May, the National Eating Disorder Association (NEDA) in the US pulled the plug on its AI chatbot Tessa after it gave harmful information to some users – less than a week after announcing plans to ditch its human-based helpline.",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=metro-posts_uncategorised_whats-trending-now",
+      "originalUrl": "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=metro-posts_uncategorised_whats-trending-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/07/The-AI-doctor-will-see-you-now-LF-ebd5.gif?quality=90&strip=all&zoom=1&resize=600%2C379",
+          "width": 600,
+          "height": 379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/amp/",
+      "publishedDateTime": "2023-07-22T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence.md",
       "title": "AI And The Economy: Which Companies And Industries Will Avoid Artificial Intelligence",
       "excerpt": "AI implementation will be very slow in sectors with high stakes, litigiousness, high unionization, and high regulation. The opposite industries will move the fastest.",
@@ -1259,148 +1398,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-how-much-should-we-fear-artificial-intelligence.md",
-      "title": "How much should we fear artificial intelligence?",
-      "excerpt": "How much should we fear artificial intelligence? on facebook (opens in a new window) How much should we fear artificial intelligence? on linkedin (opens in a new window)",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/6e775538-00a0-450e-8bba-33e1c13ebc6b",
-      "originalUrl": "https://www.ft.com/content/6e775538-00a0-450e-8bba-33e1c13ebc6b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2F5b8ca4e1-e9cb-4b66-8c72-4a322a16ee90?source=next-opengraph&fit=scale-down&width=900",
-          "width": 900,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-moh-agency-microsoft-to-develop-ai-tool-to-help-healthcare-workers-in-singapore.md",
-      "title": "MOH agency, Microsoft to develop AI tool to help healthcare workers in Singapore",
-      "excerpt": "SINGAPORE – Healthcare professionals in Singapore will have an artificial intelligence (AI) tool to help them get quick and accurate answers to questions about care protocols for medical conditions or subsidies available to patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/singapore/health/moh-agency-microsoft-to-develop-ai-tool-for-healthcare-workers-in-s-pore",
-      "originalUrl": "https://www.straitstimes.com/singapore/health/moh-agency-microsoft-to-develop-ai-tool-for-healthcare-workers-in-s-pore",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/07/hzhospital070723_0.jpg?VersionId=DmWmvyy8TAXRSC55NTAwkREwOC2gKdiw&h=40abc946",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-the-top-artificial-intelligence-etfs-have-a-common-ingredient.md",
-      "title": "The Top Artificial-Intelligence ETFs Have a Common Ingredient",
-      "excerpt": "The largest fund in the AI specific segment—the Global X Robotics & Artificial Intelligence ETF—gives Nvidia an 11% weight. The chipmaker is also the top holding in the four other largest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-812729?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

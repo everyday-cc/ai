@@ -297,20 +297,6 @@ related:
       name: The Week
       domain: theweek.in
     quality: 53
-  - title: "Abb And Microsoft Collaborate To Bring Generative Ai To Industrial Applications"
-    excerpt: "ABB is working with Microsoft on the integration of generative AI capabilities into industrial digital solutions for safer,"
-    publishedDateTime: 2023-08-05T03:07:00Z
-    webUrl: "https://menafn.com/1106786821/Abb-And-Microsoft-Collaborate-To-Bring-Generative-Ai-To-Industrial-Applications"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 50
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/04/INS_a3cd3image_story.jpg"
-        width: 768
-        height: 432
-        isCached: true
   - title: "Aptos Labs taps into Microsoft’s AI infrastructure to accelerate Web3 adoption"
     excerpt: "Aptos Labs and Microsoft have announced a partnership that could see developers leverage Microsoft’s AI tech to boost Web3 adoption."
     publishedDateTime: 2023-08-09T13:41:00Z

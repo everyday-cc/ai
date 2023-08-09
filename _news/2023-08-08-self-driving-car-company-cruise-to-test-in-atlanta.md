@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cruise now testing self-driving cars in Atlanta"
+    excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta. While Cruise intends to eventually operate a ride-hailing"
+    publishedDateTime: 2023-08-09T20:50:00Z
+    webUrl: "https://thebrunswicknews.com/news/business/cruise-now-testing-self-driving-cars-in-atlanta/article_91f6112d-1ac8-51f5-b3d8-8d8b2e7a3f53.html"
+    type: article
+    provider:
+      name: Brunswick News
+      domain: thebrunswicknews.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/f/9a/f9a05a43-2db5-5ef1-9219-133cee44a141/64d3fcb1534e4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Most Tech-Forward U.S. City Has Doubts About Self-Driving Cars"
     excerpt: "San Francisco officials and residents are not impressed by self-driving cars, underscoring the challenges ahead for autonomous vehicle companies."
     publishedDateTime: 2023-08-09T16:30:00Z

@@ -192,7 +192,7 @@
       "originalUrl": "https://www.staradvertiser.com/2023/08/05/breaking-news/artificial-intelligence-gains-state-lawmakers-attention/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -213,6 +213,117 @@
       "provider": {
         "name": "Honolulu Star-Advertiser",
         "domain": "staradvertiser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-artificial-intelligence-is-changing-the-way-mercy-delivers-care.md",
+      "title": "Artificial intelligence is changing the way Mercy delivers care",
+      "excerpt": "Together with the Mayo Clinic and three recently announced health care organizations in Israel, Brazil, and Canada, Mercy has entered into a partnership in which it will use artificial intelligence and de-identified patient data to try to improve outcomes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.stlmag.com/health/ai-health-care-st-louis-mercy-mayo-clinic/",
+      "originalUrl": "https://www.stlmag.com/health/ai-health-care-st-louis-mercy-mayo-clinic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Best BBQ in St. Louis",
+        "domain": "stlmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-artificial-intelligence-in-healthcare-sector-market-status-and-outlook-2023-2029.md",
+      "title": "Artificial Intelligence In Healthcare Sector Market Status and Outlook 2023-2029",
+      "excerpt": "The Artificial Intelligence In Healthcare Sector market report highlights information regarding the current and future industry trends, growth patterns, as well as it offers business strategies to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33542225/artificial-intelligence-in-healthcare-sector-market-status-and-outlook-2023-2029",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33542225/artificial-intelligence-in-healthcare-sector-market-status-and-outlook-2023-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-ai-can-detect-breast-cancer-as-well-as-radiologists-study-finds.md",
+      "title": "AI can detect breast cancer as well as radiologists, study finds",
+      "excerpt": "Artificial intelligence can detect breast ... need to be trained and tested more before they can be deployed in health-care settings. Still, the findings are “breathtaking,” wrote Nereo ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/2023/08/02/artificial-intelligence-breast-cancer-screening/",
+      "originalUrl": "https://www.washingtonpost.com/health/2023/08/02/artificial-intelligence-breast-cancer-screening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2X6AMM5WNIJ2NURH3XPXFSZQDA.JPG&w=1440",
+          "width": 1440,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1284,145 +1395,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report.md",
-      "title": "50% of healthcare professionals endorse AI in clinical practice: Report",
-      "excerpt": "About  50 per cent of healthcare industry professionals with prior experience in artificial intelligence (AI) have strongly endorsed",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report",
-      "originalUrl": "https://glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://glamsham.com/wp-content/uploads/2023/07/2a253c1258143da0dbcb615b6a8e21da.jpg",
-          "width": 900,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report?amp=1",
-      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report?amp=1",
-      "publishedDateTime": "2023-07-24T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach.md",
-      "title": "The Potential And Pitfalls Of AI In Healthcare: A Measured Approach",
-      "excerpt": "It is critical that healthcare professionals and hospital executives maintain a measured approach toward AI in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64999aa003d4598ee35d4178/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/",
-      "publishedDateTime": "2023-07-24T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-23-artificial-intelligence-saviour-of-the-nhs-or-a-hypochondriacs-best-friend.md",
-      "title": "Artificial intelligence: Saviour of the NHS… or a hypochondriac’s best friend?",
-      "excerpt": "Meanwhile, in May, the National Eating Disorder Association (NEDA) in the US pulled the plug on its AI chatbot Tessa after it gave harmful information to some users – less than a week after announcing plans to ditch its human-based helpline.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=metro-posts_uncategorised_whats-trending-now",
-      "originalUrl": "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=metro-posts_uncategorised_whats-trending-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/07/The-AI-doctor-will-see-you-now-LF-ebd5.gif?quality=90&strip=all&zoom=1&resize=600%2C379",
-          "width": 600,
-          "height": 379,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/amp/",
-      "publishedDateTime": "2023-07-22T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

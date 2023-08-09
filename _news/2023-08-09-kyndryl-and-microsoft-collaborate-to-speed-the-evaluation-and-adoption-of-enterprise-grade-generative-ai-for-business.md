@@ -37,6 +37,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
+    excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable"
+    publishedDateTime: 2023-08-09T18:28:00Z
+    webUrl: "https://www.datanami.com/this-just-in/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprise-grade-generative-ai-for-business/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 11
 
 secured: "lh02dy7UoJ9uSvDAnYB7VOMxCFaH7DEXAoqyBJR7K61/PDJ5JYzbZboA1g+q2kfXGtk8PmU/E3SwqxRj3EMFvI6cOO+iWPtPaG2u9UsuJ9y8U8fvLVD8UwlwNG0IW6te1n/t5J9ZxQtuKr5A4lv/3IoiIJu4LXpiWX7GcFqrMZhZDmTY1K6SpJ7exhiRXMrktAZsszD6wO9z0l74JPzrlyXokfLFOuOdi5+eDvAlzJqq4Jc+sR+FIxffXSY2P9cTRGSw7Nb3pQwp8/7cvUGVuiChdj1BznLy8BydsMjl2CJtcbQoN2j+/jD87MWYUSp5xT44s6y9+zCh71hSkuduimra2M7CEEynxAAQoYReEcw=;tZzJfFoRFJeRyU+6VhJbpg=="
 ---

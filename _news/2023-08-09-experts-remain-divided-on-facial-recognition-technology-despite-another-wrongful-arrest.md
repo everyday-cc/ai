@@ -8,7 +8,7 @@ webUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-reco
 ampWebUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
 cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
 type: article
-quality: 66
+quality: 68
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
@@ -362,6 +363,15 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 19
+  - title: "Eight months pregnant and arrested after false facial recognition match"
+    excerpt: "Porcha Woodruff, who is the first woman known to be wrongfully accused as a result of facial recognition technology, thought the police who showed up at her door to arrest her for carjacking were joking."
+    publishedDateTime: 2023-08-09T18:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/eight-months-pregnant-and-arrested-after-false-facial-recognition-match/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
   - title: "Pregnant woman's arrest in carjacking case spurs call to end Detroit police facial recognition"
     excerpt: "A Detroit woman who was arrested in connection with a suspected robbery and carjacking when she was eight months pregnant is suing the city and one of its police officers for what she says is an over-"
     publishedDateTime: 2023-08-07T20:02:00Z
@@ -402,6 +412,6 @@ related:
         height: 697
         isCached: true
 
-secured: "679IGcWDiuY90VvkZ9K0Wy9MJ1IneoZFQpTVovBeNNUEsRP84u+WrCnSqrBIW3QxYjRnGRR33ACJIemeKzXkmpKIhu6TOr6OpCFBcTGLopw5zUD0sfyf+QF2X+PGjyIWEZpPyxoc58xelMC+K4QJEG5R/LLY2m6Zz5qs5hBCkzpUrGGZu/nstMVjL6OFG+vT+lslp4F7FFcjKdGzVVQR/GJ6/pfXrSgnhNXMssUR5BoPEXPQQggc/Xa3j3qKDVacZAVOj03GXGjJs3FoE1fyPbF++IIZwHtxLL60UuwtlKuzDlHp5V6MyAdQCAjiWV+XVbsk7Mwbty+QqFi20NaE+2Bu6EN+vHHpBkS2eNZXqE0=;BJqE+to/cO8834Z9tVp1Ng=="
+secured: "piN3G+y10YxbwIgJ5Kr+XinmFOIiv1YJerdaMw7FTqMtNoepOG4aM1baMU/bImkL+yIRrEmyNToZf3P14RBS5xe6kxfmT7LvKDPgE17bV2sAz5xvpjWCyq4sTaba/fn7ioI3xjwSpc+6+1L3xRQ/biq10RNFyOYCYh6cvPyrdbb0BXlMLsTId8rz7Uj4HKru/qaNQnsoD8ZbRGG4OUUWzuX1MBLwTeUW0yEB0adKfZrzVypfu4dB5qf3gYHX1i55HbXnkaO6NVVDn490Z72ulVvahRpUZ+EJk19QZB6EhAyK9dxAhSX1cTO51N+dlnFaTw+zUl9ISTb2Vzp18JNdWFAju9BGab+5Yc7nS+73HUM=;Sd35kChcTn06YEKXfcQKzw=="
 ---
 

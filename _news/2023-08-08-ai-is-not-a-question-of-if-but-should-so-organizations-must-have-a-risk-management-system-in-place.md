@@ -24,6 +24,17 @@ images:
     height: 667
     isCached: true
 
+related:
+  - title: "As Organizations Ask If They “Should” Launch AI Projects, A Risk Management System Becomes Essential"
+    excerpt: "As AI's ethical challenges surface, expert Mark Beccue discusses the importance of having a robust risk management system in an organization."
+    publishedDateTime: 2023-08-08T18:34:00Z
+    webUrl: "https://marketscale.com/industries/software-and-technology/ai-ethics-risk-management-system/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 4
+
 secured: "nDqmxN/Mio59Ap+80QTGy9H5pQOPY23oseb39aANVWsSDEjmUAC/8WJkC81RCY0v/0ou8fg5bPPZ1kCAyYDvuNNL/Y1agwLlp8IpGt+5AoExgn8oyILVil5iVcBdHPaAYTpYhQH0CQ0jRUmeTHQDCF9/bepqIKWwtd7fkgUk7GQSigLxgNGusKUKhggNYZ5w0Qdch3EMY7FebzLX09dP5kPgizIulCmE788fxh8nudZvTzZ0xr6AQfyNQkVd11iDsvFZquFpA0Afj2QcS5H1wgJl32Bxucvya/j8ls0orSjy2KDZEUvraIx8PnVrEunx/o28PMPiTJ3PhuREv03ZFJjERlik0n/ZUJ0U7H4o7c0=;4gT1PPrLB458Cuwef9xq8g=="
 ---
 

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "NY State Report Cautions Against Facial Recognition in Schools"
+    excerpt: "In setting policy on facial recognition, the New York State Education Department will take a cue from a new report from the State Office of Information Technology Services that found the risks may outweigh the benefits."
+    publishedDateTime: 2023-08-09T18:24:00Z
+    webUrl: "https://www.govtech.com/education/k-12/ny-state-report-cautions-against-facial-recognition-in-schools"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 34
   - title: "China Plans To Restrict Use Of Facial Recognition Tech By Businesses, Issues Draft Guidelines"
     excerpt: "China is planning to restrict private businesses from using facial recognition technology less than two years after it announced a data security law."
     publishedDateTime: 2023-08-09T09:32:00Z

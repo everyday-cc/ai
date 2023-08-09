@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/amp/"
 type: article
 quality: 94
-heat: 364
+heat: 374
 published: true
 
 provider:
@@ -57,7 +57,7 @@ related:
     provider:
       name: al.com
       domain: al.com
-    quality: 66
+    quality: 68
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
         width: 1680
@@ -365,6 +365,15 @@ related:
     provider:
       name: Government Technology
       domain: govtech.com
+    quality: 19
+  - title: "Eight months pregnant and arrested after false facial recognition match"
+    excerpt: "Porcha Woodruff, who is the first woman known to be wrongfully accused as a result of facial recognition technology, thought the police who showed up at her door to arrest her for carjacking were joking."
+    publishedDateTime: 2023-08-09T18:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/eight-months-pregnant-and-arrested-after-false-facial-recognition-match/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 19
   - title: "Pregnant woman's arrest in carjacking case spurs call to end Detroit police facial recognition"
     excerpt: "A Detroit woman who was arrested in connection with a suspected robbery and carjacking when she was eight months pregnant is suing the city and one of its police officers for what she says is an over-"

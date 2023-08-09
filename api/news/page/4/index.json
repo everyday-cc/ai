@@ -2,6 +2,238 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-07-why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation.md",
+      "title": "Why do we need safeguards for AI? Cyber security, human manipulation",
+      "excerpt": "AI has the potential to significantly improve our lives by finding new cures for diseases, cost-effectively educating the masses and solving some of humanity's most complex problems. However, I am also convinced that without the appropriate safeguards,",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/",
+      "originalUrl": "https://wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg",
+          "width": 772,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/?amp=1",
+      "publishedDateTime": "2023-08-07T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-ai-transformation-of-medicine-why-doctors-are-not-prepared.md",
+      "title": "AI transformation of medicine: Why doctors are not prepared",
+      "excerpt": "As artificial intelligence systems like ChatGPT find their way into ... most likely to go into life-threatening sepsis from an uncontrolled infection or which therapy has the highest probability of preventing sudden death in an individual heart disease ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-08-ai-medicine-doctors.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-08-ai-medicine-doctors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-doctor.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-08-ai-medicine-doctors.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-ai-medicine-doctors.amp",
+      "publishedDateTime": "2023-08-07T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-responsible-ai-a-risk-based-approach.md",
+      "title": "Responsible AI: A Risk-Based Approach",
+      "excerpt": "• Operational risks. Using AI can create new dependencies, and businesses that rely heavily on AI systems may lack the ability to operate effectively without it. This can create significant business continuity risks if an AI system fails or becomes compromised—or if regulatory changes deem it unusable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/responsible-ai-a-risk-based-approach/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/responsible-ai-a-risk-based-approach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64cd4f50275ecaef97960ea8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/responsible-ai-a-risk-based-approach/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/responsible-ai-a-risk-based-approach/amp/",
+      "publishedDateTime": "2023-08-07T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-european-fintech-players-are-bracing-for-market-consolidation.md",
+      "title": "European fintech players are bracing for market consolidation",
+      "excerpt": "When Monzo published its latest annual revenue figures in February, it provided a flicker of light after months of headlines about fintech down rounds and job cuts. The accounts showed that the UK dig",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/european-fintech-players-bracing-market-consolidation-across-the-market",
+      "originalUrl": "https://thenextweb.com/news/european-fintech-players-bracing-market-consolidation-across-the-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FUntitled-design-6-2.jpg&signature=bdddb9af2169a3041de36e8b6d85395c",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-optimizing-clinical-trial-site-performance-a-focus-on-three-ai-capabilities.md",
+      "title": "Optimizing clinical trial site performance: A focus on three AI capabilities",
+      "excerpt": "AI-driven enrollment rate prediction, real-time monitoring and forecasting of site performance and leveraging Next Best Action (NBA).\nThe post Optimizing clinical trial site performance: A focus on three AI capabilities appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/optimizing-clinical-trial-site-performance-a-focus-on-three-ai-capabilities/",
+      "originalUrl": "https://www.ibm.com/blog/optimizing-clinical-trial-site-performance-a-focus-on-three-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-the-orion-blockchain-database-empowering-multi-party-data-governance.md",
       "title": "The Orion blockchain database: Empowering multi-party data governance",
       "excerpt": "Orion sets itself apart from other centralized blockchain databases by empowering numerous parties to govern access to shared data.\nThe post The Orion blockchain database: Empowering multi-party data governance appeared first on IBM Blog.\n",
@@ -234,7 +466,7 @@
       "originalUrl": "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts-11691378452164.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -364,7 +596,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -460,6 +692,57 @@
       ]
     },
     {
+      "path": "_news/2023-08-06-generative-ai-a-new-gold-rush-for-software-engineering-innovation.md",
+      "title": "Generative AI: A new Gold Rush for software engineering innovation",
+      "excerpt": "Generative AI for the enterprise is a phenomenal opportunity for visionary founders to build the FAANG companies of tomorrow.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-software-engineering-innovation/",
+      "originalUrl": "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-software-engineering-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/annevb_gold_coming_out_of_a_computer._Colorful_futuristic_tech_307cbdc3-afba-4658-a4cc-48761ed98c3b.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-06T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-06-my-top-ai-stock-to-buy-right-now.md",
       "title": "My Top AI Stock to Buy Right Now",
       "excerpt": "The Motley Fool has a disclosure policy. Want to Retire a Millionaire? This AI Stock Can Help With That. This Chip Stock Just Hit a Major Setback. Steve Jobs Predicted It. Calculated by average return of all stock recommendations since inception of the ...",
@@ -520,7 +803,7 @@
       "originalUrl": "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -666,7 +949,7 @@
       "originalUrl": "https://www.staradvertiser.com/2023/08/05/breaking-news/artificial-intelligence-gains-state-lawmakers-attention/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -886,314 +1169,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
-      "title": "Age of AI: Everything you need to know about artificial intelligence",
-      "excerpt": "Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very recently has blossomed thanks to powerful new computing resources. AI has enabled ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "originalUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-08-04T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-how-will-ai-impact-your-industry-pew-research-has-answers.md",
-      "title": "How will AI impact your industry? Pew Research has answers",
-      "excerpt": "As seen by the results, the industries with the least amount of exposure are those that require a physical actual human, such as a barber or a dishwasher, or that require skills that cannot be recreated by AI, such as interpersonal communication needed to be a sales manager or chief executive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-will-ai-impact-your-industry-pew-research-has-answers/",
-      "originalUrl": "https://www.zdnet.com/article/how-will-ai-impact-your-industry-pew-research-has-answers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/fbfc2acf029df715a70a2814a1ee5221d3edbb3a/2023/08/04/0c25e0c8-cd05-452c-be00-15fed3498805/gettyimages-1451024169.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-will-ai-impact-your-industry-pew-research-has-answers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-will-ai-impact-your-industry-pew-research-has-answers/",
-      "publishedDateTime": "2023-08-04T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-ai-bots-could-soon-become-your-new-customer-service-agent.md",
-      "title": "AI bots could soon become your new customer service agent",
-      "excerpt": "If you thought getting through an automated voice system was annoying, you could soon try getting through an AI bot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-bots-could-soon-become-your-new-customer-service-agent/",
-      "originalUrl": "https://www.zdnet.com/article/ai-bots-could-soon-become-your-new-customer-service-agent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/574ad552295b7fe72b2a95f25478449eaaa86df0/2023/08/04/8f693c73-034a-4be4-b8ef-216ddeaa6485/gettyimages-1502919517.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-bots-could-soon-become-your-new-customer-service-agent/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-bots-could-soon-become-your-new-customer-service-agent/",
-      "publishedDateTime": "2023-08-04T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity.md",
-      "title": "Technologists Are The New Superheroes On Corporate Boards In The Age Of AI, Blockchain And CyberSecurity",
-      "excerpt": "As tech-driven disruptions and cyber threats reshape industries at an unprecedented pace, the need for technical expertise on corporate boards has never been more",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64cd4a39912a743867716411/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/amp/",
-      "publishedDateTime": "2023-08-04T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions.md",
-      "title": "Microsoft shuts down Windows’ Cortana voice assistant as it chases AI ambitions",
-      "excerpt": "Cortana began life on Microsoft’s ill-fated Windows Phone platform in the early 2010s, where it served the same general function as Apple’s Siri and Google Now: a hands-free way to interact with your phone that also attempted to have a \"cute\" \"personality.\"",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cortana-800x506.jpg",
-          "width": 800,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/",
-      "publishedDateTime": "2023-08-04T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese.md",
-      "title": "SoftBank launches an OpenAI for Japan: SB Intuitions, building LLMs and generative AI in Japanese",
-      "excerpt": "SoftBank has a strategic alliance with Microsoft that will involve SoftBank providing a secure data environment for enterprises in Japan.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/",
-      "originalUrl": "https://techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1172366774.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/amp/",
-      "publishedDateTime": "2023-08-04T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

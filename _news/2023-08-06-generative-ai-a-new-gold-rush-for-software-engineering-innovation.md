@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-softw
 webUrl: "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-software-engineering-innovation/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Generation AI: Mickey Mouse catches the bug"
+    excerpt: "From why Disney thinks AI can boost its movies and theme parks, to how singers might profit from fake music, these are the week's big stories from the AI revolution. Rachel Faber reports."
+    publishedDateTime: 2023-08-09T21:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOV336009082023RP1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20230809&i=OV336009082023RP1&r=OV336009082023RP1&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "3XDmqJKsIphVEBnXt9r3S79IecITgStixUYjtSnAdeoXICkKGFU2U/N36SXL4T+i4YeyRhdYe2qpCdLES9h/SF9dXdRBk/8fk7r1/bnaA3QMzRsxGlv6CZps+i3QYgYhw3QhGjB2PnQcAxuEj8n+zV3uUir4WpRs+EFm64Z3+YiPa2ahGPL5q0EsGpVFYKcdHTIxN0q8JRFSKIT34Jmp5Vg5SsVVz1NM/zA0Zq1nZ7eTZzXJQZjgBVFsmPAWADz19C2cteOrVcpBAtP5DDEY7nMVMjy4KWoFeb2IAPUAJ/ATCh8LNKnL5TqBBcxOgwz0ex5gkzyZtJ1tn7OSTjsF4KNHx0aUPR4NuXVTKEd73GI5CeqssEe3WghDNq1LiZLaAmlEUVfbSb/jab7hsbdQLoUaC8q+YXe0Z6sX4XUGdZh66jBbAOII4K1gTBRhRIJ+6eK/9J11q8W9qRV68FajKppswmSbJJdvkyQuVGcbTu/jN1i4OhfNLWRlP0Jw6h3RtSP+QReB8TO7x8I/A6JxJA==;YQBYPnLAtAV5gkU+TDj1xw=="
 ---

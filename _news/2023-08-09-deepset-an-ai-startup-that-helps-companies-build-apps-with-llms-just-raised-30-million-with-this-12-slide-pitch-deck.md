@@ -27,6 +27,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Deepset nabs $30M to speed up natural language processing projects"
+    excerpt: "Deepset GmbH today announced that it has raised $30 million to enhance its open-source Haystack framework, which helps developers build natural language processing applications. The Berlin-based startup will also use the capital to extend its commercial offering, a cloud platform called Deepset Cloud. The offering is partly based on Haystack."
+    publishedDateTime: 2023-08-09T20:09:00Z
+    webUrl: "https://siliconangle.com/2023/08/09/deepset-nabs-30m-speed-natural-language-processing-projects/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI.png"
+        width: 1032
+        height: 580
+        isCached: true
+
 secured: "L0/tJBQ2w7vnNzxKL92SE/Fckyz0QYjpEil6Sf3g4vZxwC+epktLTb6yhieYG2r/K+KCXQURnLOSbSoJYvfiDpNZenLzl3cIEuGcyc6YKxHBVOWDAQyMoLddeIYq5B79FhR7mv+TTR0n3KB3ozAKdevOdWt8RXLGywh8MCaG+5/Vuxg5CHmWEOzUhZLP88aqpoFfgY+y6UaDGj+v2LAD1QuEDVYCn5JxBnoMAPaDql9WDX0oqXYmqQ0vKE39b//VPQviQJmzV62A8RhLnOQxlA8xTL761N5wdwdslOlDJ3k2TSsSfqViPltTZAnYMisqR8k/efZCUXydsTTLpkTwB3nlXjnt0yQBHBSjljwlmoliXHUXx0mFmMyEx6zpeHGnqx1oR3drnFzhmixLG2TdYYsleM2ArWDz8PVABmmMldz4avuV1uoe0MJy+PnWB+8qwdG3lOQO4NQyqT2biz/uO4j8h/PlCqaF+2SXOyjxUIstA13HZkS6zyVKEL/fQenJNFWUGk/t6qtPAcnqNaJ9Xg==;iy2wjtJWwtBGISAfSNX9zA=="
 ---
 

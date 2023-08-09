@@ -57,6 +57,31 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Microsoft and Aptos Blockchain Partner to Revolutionize Web 3.0 and AI Integration"
+    excerpt: "Microsoft partnered with Aptos Labs, a layer 1 innovative blockchain platform co-founded by former Facebook employee"
+    publishedDateTime: 2023-08-09T16:28:00Z
+    webUrl: "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/"
+    ampWebUrl: "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 68
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/microsoft-aptos-web-3-ai.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Aptos Price Prediction as Microsoft Partners with Aptos on New AI Blockchain Products – Can APT Reach $100?"
+    excerpt: "Aptos (APT) jumped on Wednesday on the news of the Microsoft AI partnership, but could have a long way to run to the upside yet."
+    publishedDateTime: 2023-08-09T17:40:00Z
+    webUrl: "https://cryptonews.com/news/aptos-price-prediction-as-microsoft-partners-with-aptos-new-ai-blockchain-products-can-apt-reach-100.htm"
+    type: article
+    provider:
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 16
 
 secured: "4jzpf9/8Y5WuYkNTr4EDqf95wEsNtrE3Trj93x3ORPl1NwVfxA4oqOPy3yqKpeYQU5MqC4GP4KTuqK8R8d80VLu1DuGFw+DutcHPsYJmZtVDJoyS4SNxU4Io+y3I+yzxFebRiTa77KRKth+3CstXaBlTkwOxP3SxRV9c9zfAODKVCZH9sIy6gB8CKnf63jO7MAZnKm6roT9BPpGF4Ck0uzkCilG5xgf8xyKbEJcwoT+0AUK4gNNM1W7FqpaSiqMBiM6H92At4WVMk2ZpTAyizQTktJowJAAOpq79lwEWMOz+XkHRKy3llYYhodmJtbhHhuNOVqAKb7yHF487S2KYRazmgHFbrGKCHQxOLGSks4s=;CYHbgVnjLZ7rVFJ1FK0ZAQ=="
 ---

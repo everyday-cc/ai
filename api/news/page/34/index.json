@@ -2,6 +2,461 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-07-17-ai-and-government-transforming-public-services-for-the-digital-age.md",
+      "title": "AI And Government: Transforming Public Services For The Digital Age",
+      "excerpt": "AI can analyze real-time traffic data to optimize traffic light timings, easing congestion and reducing travel times. AI algorithms can also analyze data from IoT sensors on public infrastructure (like bridges and roads) to predict when maintenance is needed, potentially preventing catastrophic failures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b14ce9f037c71717534a09/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/",
+      "publishedDateTime": "2023-07-17T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai.md",
+      "title": "How New Rules And Regulations Can Help Create An Ethical Corporate Workspace With The Growth Of AI",
+      "excerpt": "As the growth of AI continues, it is important to ensure that companies prioritize ethical considerations and that technology is utilized diligently and transparently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5eea6576a0bb000007673ddd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/",
+      "publishedDateTime": "2023-07-17T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-expedia-adds-new-ai-features-to-improve-your-travel-planning-heres-how.md",
+      "title": "Expedia adds new AI features to improve your travel planning. Here's how",
+      "excerpt": "Starting early next month, this conversational planning feature will also be coming to the Expedia Android app, which will add some new features, including the ability to save recommended activities to a Trip Planner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/expedia-adds-new-ai-features-to-improve-your-travel-planning-heres-how/",
+      "originalUrl": "https://www.zdnet.com/article/expedia-adds-new-ai-features-to-improve-your-travel-planning-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d404ae16ccb038123c2ff711e92b6754c6d53ec5/2023/07/14/3e0e769c-fa5d-4dde-a5d5-7363652528c5/gettyimages-1273914366.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/expedia-adds-new-ai-features-to-improve-your-travel-planning-heres-how/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/expedia-adds-new-ai-features-to-improve-your-travel-planning-heres-how/",
+      "publishedDateTime": "2023-07-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-how-artificial-intelligence-is-revolutionizing-stock-investing.md",
+      "title": "How Artificial Intelligence Is Revolutionizing Stock Investing",
+      "excerpt": "In recent years, there has been a major shift in the way stock investing is conducted. And it's thanks to the rapid advancements in artificial intelligence (AI) technology. Investors no longer need to rely solely on human analysis and gut instincts to make investment decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 267,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64760b103ac0d58b057b69d9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/amp/",
+      "publishedDateTime": "2023-07-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-machine-learning-market-to-hit-41994-billion-by-2030-grand-view-research-inc.md",
+      "title": "Machine Learning Market to Hit $419.94 Billion by 2030: Grand View Research, Inc.",
+      "excerpt": "The global machine learning market size is anticipated to reach USD 419.94 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to expand at a CAGR of 34.8% from 2023 to 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/07/17/9848858.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/07/17/9848858.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-ai-brain-chips-are-a-serious-threat-to-mental-privacy-un.md",
+      "title": "AI Brain Chips Are a Serious Threat to Mental Privacy: UN",
+      "excerpt": "Certain thoughts are better left unshared. Advancements in neurotechnology, particularly brain implants, and scans, could risk artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2023/07/17/ai-brain-chips-are-a-serious-threat-to-mental-privacy-un/",
+      "originalUrl": "https://propakistani.pk/2023/07/17/ai-brain-chips-are-a-serious-threat-to-mental-privacy-un/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2023/07/brain-chip-e1689590304657.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2023/07/17/ai-brain-chips-are-a-serious-threat-to-mental-privacy-un/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/07/17/ai-brain-chips-are-a-serious-threat-to-mental-privacy-un/amp/",
+      "publishedDateTime": "2023-07-17T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-computer-vision-new-zealand.md",
+      "title": "Computer Vision - New Zealand",
+      "excerpt": "Value in the Computer Vision market is projected to reach US$133.00m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.71%, resulting in a market volume of US$307.40m ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/new-zealand",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/new-zealand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-i-used-windows-dictation-to-write-this-article-with-my-voice.md",
+      "title": "I used Windows Dictation to write this article with my voice",
+      "excerpt": "You don’t need to manually turn on Windows Speech Recognition, a legacy app. My first tip: Make sure you either use a headset or a good laptop with noise-cancelling microphones. You’ll want to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/1981483/using-windows-voice-access-and-dictation.html",
+      "originalUrl": "https://www.pcworld.com/article/1981483/using-windows-voice-access-and-dictation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-natural-language-processing-new-zealand.md",
+      "title": "Natural Language Processing - New Zealand",
+      "excerpt": "Value in the Natural Language Processing market is projected to reach US$141.40m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.26%, resulting in a market volume ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/new-zealand",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/new-zealand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-speech-recognition-new-zealand.md",
+      "title": "Speech Recognition - New Zealand",
+      "excerpt": "Value in the Speech Recognition market is projected to reach US$40.59m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.47%, resulting in a market volume of US$118 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/new-zealand",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/new-zealand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-the-ai-boom-is-screwing-over-gen-z.md",
       "title": "The AI boom is screwing over Gen Z",
       "excerpt": "ChatGPT is commandeering the tasks that young employees rely on to advance their careers. That's going to crush Gen Z's career path.",
@@ -734,471 +1189,6 @@
         "IBM AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-australians-divided-over-voice-to-parliament-for-indigenous-people.md",
-      "title": "Australians divided over ‘Voice to Parliament’ for Indigenous people",
-      "excerpt": "A landmark referendum backed by the government would give Indigenous people constitutional recognition and greater say on legislation and policy affecting them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/australia-indigenous-voice-to-parliament-referendum-rcna94016",
-      "originalUrl": "https://www.nbcnews.com/news/world/australia-indigenous-voice-to-parliament-referendum-rcna94016",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230713-aboriginal-file-mb-1450-32d8ba.jpg",
-          "width": 4695,
-          "height": 3017,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna94016",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94016",
-      "publishedDateTime": "2023-07-16T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-how-will-artificial-intelligence-affect-investing.md",
-      "title": "How Will Artificial Intelligence Affect Investing?",
-      "excerpt": "Predicting how artificial intelligence will affect the investment industry falls between those two extremes. The internet was so difficult to foresee because it broke radical new ground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/financial-advice/how-will-artificial-intelligence-affect-investing",
-      "originalUrl": "https://www.morningstar.com/financial-advice/how-will-artificial-intelligence-affect-investing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/KiAjhPgxvrVmiRZ-T63JBOTvjRI=/2500x1406/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/54RIEB5NTVG73FNGCTH6TGQMWU.png",
-          "width": 2500,
-          "height": 1309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-ai-mimics-human-creativity-but-also-boosts-it.md",
-      "title": "AI Mimics Human Creativity, But Also Boosts It",
-      "excerpt": "There is a bright creative future for humans relieved from the drudgery of day-to-day repetitive tasks, according to a recent analysis by Nicola Morini Bianzino, global chief client technology officer at EY, who is optimistic that we stand at the crest of an era of expanded creativity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/16/ai-may-or-may-not-be-able-to-mimic-human-creativity-but-certainly-can-boost-it/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/16/ai-may-or-may-not-be-able-to-mimic-human-creativity-but-certainly-can-boost-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b47b7e27cb9474a0e9bcfd/0x0.jpg?format=jpg&width=1200",
-          "width": 1138,
-          "height": 758,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/16/ai-may-or-may-not-be-able-to-mimic-human-creativity-but-certainly-can-boost-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/16/ai-may-or-may-not-be-able-to-mimic-human-creativity-but-certainly-can-boost-it/amp/",
-      "publishedDateTime": "2023-07-16T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-how-technology-and-innovation-are-transforming-financial-services.md",
-      "title": "How technology and innovation are transforming financial services",
-      "excerpt": "Generative AI and automation are driving a new wave of innovation. Experian’s Alex Lintner explains why that’s a good thing for the future of financial services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/plus/how-technology-and-innovation-are-transforming-financial-services",
-      "originalUrl": "https://www.reuters.com/plus/how-technology-and-innovation-are-transforming-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-16T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-un-warns-that-implanting-unregulated-ai-chips-in-your-brain-could-threaten-your-mental-privacy.md",
-      "title": "UN warns that implanting unregulated AI chips in your brain could threaten your mental privacy",
-      "excerpt": "Officials from the United Nations said there needed to be a \"common ethical framework at the international level\" for neurotechnology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/un-warns-against-implanting-ai-chips-brain-over-mental-privacy-2023-7",
-      "originalUrl": "https://www.businessinsider.com/un-warns-against-implanting-ai-chips-brain-over-mental-privacy-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64b4484d64dab3001999e2df?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/un-warns-against-implanting-ai-chips-brain-over-mental-privacy-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/un-warns-against-implanting-ai-chips-brain-over-mental-privacy-2023-7?amp",
-      "publishedDateTime": "2023-07-16T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-16-the-fintech-funding-slump-by-the-numbers.md",
-      "title": "The fintech funding slump, by the numbers",
-      "excerpt": "It’s no secret that venture capital investment in fintech companies had slowed down this year, and last week, we saw just by how much.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/",
-      "originalUrl": "https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1078494932.jpg?resize=1200,792",
-          "width": 1200,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/amp/",
-      "publishedDateTime": "2023-07-16T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-16-supercomputing-provider-introduces-32-gpu-single-node-for-ai-and-accelerated-computing.md",
-      "title": "Supercomputing provider introduces 32-GPU single-node for AI and accelerated computing",
-      "excerpt": "GigaIO, a provider of workload-defined infrastructure for AI and technical computing, has announced that it successfully configured 32 AMD Instinct MI210 accelerators to a single-node server utilising the company’s transformative FabreX ultra-low latency PCIe memory fabric.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientific-computing.com/press-releases/supercomputing-provider-introduces-32-gpu-single-node-ai-and-accelerated-computing",
-      "originalUrl": "https://www.scientific-computing.com/press-releases/supercomputing-provider-introduces-32-gpu-single-node-ai-and-accelerated-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-16T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scientific-computing",
-        "domain": "scientific-computing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-16-3-leaders-share-how-theyre-approaching-the-ai-revolution.md",
-      "title": "3 Leaders Share How They’re Approaching The AI Revolution",
-      "excerpt": "The artificial intelligence revolution is both exciting and intimidating. Luckily, leaders don’t have to navigate it on their own. Instead of reinventing the wheel, follow these three leaders’ advice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b16d0178738ffba2248079/0x0.jpg?format=jpg&crop=5266,2960,x0,y272,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/amp/",
-      "publishedDateTime": "2023-07-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-16-elon-musks-tesla-robots-could-be-groundbreaking-for-ai-and-automation-but-still-have-a-long-way-to-go.md",
-      "title": "Elon Musk's Tesla robots could be groundbreaking for AI and automation, but still have a long way to go",
-      "excerpt": "Elon Musk's Tesla robots, or \"Tesla Bot,\" are bipedal robot devices that use the same AI as Tesla's cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ac095a6d7e02001af8a08e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp",
-      "publishedDateTime": "2023-07-16T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-16-ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential.md",
-      "title": "AI Appreciation Day: Startup CEOs on technogly's giant leap and potential",
-      "excerpt": "AI Appreciation Day is celebrated on July 16 annually to acknowledge its contribution to humanity and the significant role it plays in companies' prog",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/articleshow/101798053.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/articleshow/101798053.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-101798045/101798045.jpg",
-          "width": 400,
-          "height": 222,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/amp_articleshow/101798053.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/amp_articleshow/101798053.cms",
-      "publishedDateTime": "2023-07-16T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

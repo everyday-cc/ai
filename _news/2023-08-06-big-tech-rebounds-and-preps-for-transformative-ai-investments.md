@@ -20,20 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Big Tech rebounds and preps for transformative AI investments"
-    excerpt: "Meta's and Google's ad businesses rebounded. Microsoft's cloud computing business continued to expand. So did Amazon's e-commerce business. Apple, with a 1% decline, was the only big tech company whose revenue dropped."
-    publishedDateTime: 2023-08-05T03:19:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/big-tech-rebounds-and-preps-for-transformative-ai-investments/articleshow/102440250.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://img.etimg.com/thumb/msid-102440386,width-1070,height-580,imgsize-2872767,overlay-ettech/photo.jpg"
-        width: 1070
-        height: 580
-        isCached: true
   - title: "Why people are still key to tech transformation"
     excerpt: "Although transformation is inevitable, it needs to be anchored by the people tasked with achieving progression and change."
     publishedDateTime: 2023-08-08T12:40:00Z
@@ -43,15 +29,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 34
-  - title: "Vital Releases Doctor-to-Patient Translator That Uses AI and LLMs to Transform Medical Jargon Into Simple, Accurate Content for Patients"
-    excerpt: "Vital, a leading artificial intelligence (AI)-driven digital health company, today announced the launch of its AI-powered Doctor-to-Patient Translator, designed to transform highly technical medical terminology into plain language that any patient can understand."
-    publishedDateTime: 2023-08-08T19:36:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861363.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "+xEI4gu3EHlxPJiopZNXZQzwY3tZFXtpnpu6MpCrEoCCohuHE1OFbU7Tkz9TJHeC6XLEtly6Z821BMg7MTe7j9AoZLAqrftOeFxYZsgz/DO/1lC/s2RTTEWLEA/UVgkqHjJ+LDx6JUJpDPmwCQcUBQ/bz6FiBMld79inSX3NMwLGNkZXjXgJXt6AUnIjq7vdvUrh0GjYdQHgd4+7l+oWP2BtzBQK5Vwqk0IY7f6rU4vhXiwNYzFtppwmajuP1CFpZmlU+98aF17/WW/Yx1qysLvo9Yqg4urtJyEMM5z2FKxzHsgnSHqNlMoaouYoIZxaWLqRxyy6lFvmhrI3J3WPceQLD1EwYuSmEKE0jdKxzD0=;4KyopR/1UcHi/K8TsBebhQ=="
 ---

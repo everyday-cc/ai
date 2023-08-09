@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-10-dbs-bank-uncovers-big-data-challenges-with-ai-use-and-solutions-too.md",
+      "title": "DBS Bank uncovers big data challenges with AI use - and solutions, too",
+      "excerpt": "The Singapore bank opens up about the hurdles it had to overcome applying artificial intelligence to its operations and why success goes beyond getting the models right.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/dbs-bank-uncovers-big-data-challenges-with-ai-use/",
+      "originalUrl": "https://www.zdnet.com/article/dbs-bank-uncovers-big-data-challenges-with-ai-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d69b97dfdb38eb95d253e97dea9866be0be2579a/2023/08/09/16ace10b-5456-44bd-bc18-dff72e083ba4/gettyimages-1566022152.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dbs-bank-uncovers-big-data-challenges-with-ai-use/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dbs-bank-uncovers-big-data-challenges-with-ai-use/",
+      "publishedDateTime": "2023-08-09T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-neobank-albo-acquires-deltai-to-expand-fintech-product-offering-strengthen-presence-in-mexico.md",
       "title": "Neobank albo Acquires delt.ai to Expand Fintech Product Offering, Strengthen Presence in Mexico",
       "excerpt": "delt.ai is a Y-Combinator Fintech company “with experience in the Mexican market, specializing in financial services and management tools for SMBs.” Its product portfolio reportedly “includes business loans, credit cards, and a financial platform for ...",
@@ -1317,58 +1369,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-collective-raises-50m-funding-to-launch-ai-powered-finance-platform-for-freelancers.md",
-      "title": "Collective raises $50M funding to launch AI-powered finance platform for freelancers",
-      "excerpt": "By deploying AI technology across its financial operations, Collective aims to expedite its growth and onboard businesses on its waitlist.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/",
-      "originalUrl": "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/C-Suite.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -2,6 +2,443 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-07-12-collective-raises-50m-funding-to-launch-ai-powered-finance-platform-for-freelancers.md",
+      "title": "Collective raises $50M funding to launch AI-powered finance platform for freelancers",
+      "excerpt": "By deploying AI technology across its financial operations, Collective aims to expedite its growth and onboard businesses on its waitlist.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/",
+      "originalUrl": "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/C-Suite.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services.md",
+      "title": "KPMG and Microsoft Enter Landmark Agreement to Put AI at the Forefront of Professional Services",
+      "excerpt": "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernization,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230711515500/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230711515500/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-best-extended-amazon-prime-day-2023-deals-you-can-still-shop-right-now.md",
+      "title": "Best extended Amazon Prime Day 2023 deals you can still shop right now",
+      "excerpt": "To help cut down your browsing time, we put in the busy work and hunted through Amazon’s Persian buffet of deals to outline the only edit you’ll need: our top extended Prime Day deals across ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/article/best-amazon-prime-day-2023-deals-sales/",
+      "originalUrl": "https://nypost.com/article/best-amazon-prime-day-2023-deals-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/07/best-prime-day-deals-2023x-1.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/article/best-amazon-prime-day-2023-deals-sales/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/article/best-amazon-prime-day-2023-deals-sales/amp/",
+      "publishedDateTime": "2023-07-11T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-artificial-intelligence-and-copyright.md",
+      "title": "Artificial Intelligence and Copyright",
+      "excerpt": "Music industry and tech company executives as well as a visual artist and a law professor testified on artificial intelligence (AI) and its… read more Music industry and tech company executives ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.c-span.org/video/?529256-1/artificial-intelligence-copyright",
+      "originalUrl": "https://www.c-span.org/video/?529256-1/artificial-intelligence-copyright",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "c-span",
+        "domain": "c-span.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-profet-ais-first-overseas-crossover-talks.md",
+      "title": "Profet AI's First Overseas Crossover Talks",
+      "excerpt": "Jonathan Yu, General Manager of Sales of Profet AI, said: \"There are more than 5 trillion-dollar industries in Taiwan, and Profet AI has over 100 success cases. We're going to take these experiences to Vietnam. We want to cultivate local talents with our advanced AI technology, which will help both markets grow.\"",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/07/12/9847515.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/07/12/9847515.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-musk-to-host-ai-focused-twitter-event-with-us-house-lawmakers.md",
+      "title": "Musk to Host AI-Focused Twitter Event With US House Lawmakers",
+      "excerpt": "Elon Musk will hold an event broadcast on Twitter Spaces Wednesday focused on artificial intelligence with two prominent US House lawmakers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-11/musk-to-host-ai-focused-twitter-event-with-us-house-lawmakers",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-11/musk-to-host-ai-focused-twitter-event-with-us-house-lawmakers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiaHc2gRH6A8/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.md",
+      "title": "IBM mulls using its own AI chip in new cloud service to lower costs",
+      "excerpt": "The firm is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"watsonx\" cloud service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/",
+      "originalUrl": "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/-b_02wsAE19DcOzsCg_tQf9XaaY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q645SUBL2JML7C4QKZOJLY7N2Q.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-embracing-a-new-frontier-of-ai-from-the-inside-out.md",
+      "title": "Embracing A New Frontier Of AI, From The Inside Out",
+      "excerpt": "Every day, we put more than 60 AI models to work to strengthen the products and experiences we’re delivering for members– from optimizing appointment scheduling to quickly connect members with a quality physician in minutes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/",
+      "originalUrl": "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ada8fea7497968d8edfb03/0x0.jpg?format=jpg&width=1200",
+          "width": 1150,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/",
+      "publishedDateTime": "2023-07-11T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.md",
+      "title": "Discord bans AI-generated child sex abuse material and teen dating",
+      "excerpt": "SAN FRANCISCO — Discord’s head of trust and safety said Tuesday that the popular chat platform was changing and clarifying its child safety policies including those around around teen dating and AI-generated child sexual abuse material, an announcement that comes after an NBC News investigation last month into child safety on the platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107269952-16891123952021-03-31t175917z_1515270024_rc2hmm9fq8tq_rtrmadp_0_discord-audio.jpeg?v=1689112496",
+          "width": 3500,
+          "height": 2233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
+      "publishedDateTime": "2023-07-11T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-save-211-with-the-amazon-prime-day-shark-ai-ultra-voice-control-robot-vacuum-deal.md",
+      "title": "Save $211 with the Amazon Prime Day Shark AI Ultra Voice Control Robot Vacuum Deal",
+      "excerpt": "The Shark AI Ultra Voice Control Robot Vacuum normally runs for $599, but with this Amazon Prime Day deal you can shave $211 off the price. Not only does it provides seriously powerful suction ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
+      "originalUrl": "https://www.usatoday.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-27-of-jobs-at-high-risk-from-ai-revolution-says-oecd.md",
       "title": "27% of jobs at high risk from AI revolution, says OECD",
       "excerpt": "AI (Artificial Intelligence) letters and robot miniature in this illustration taken, June 23, 2023. REUTERS/Dado Ruvic/Illustration/File Photo",
@@ -689,455 +1126,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-how-future-histories-of-other-intelligences-clarify-todays-ai.md",
-      "title": "How Future Histories Of ‘Other Intelligences’ Clarify Today’s AI",
-      "excerpt": "In 'The Institute for Other Intelligences,' Mashinka Firunts Hakopian combines speculative fiction and media theory to propose equitable futures for intelligent life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jessedamiani/2023/07/11/how-future-histories-of-other-intelligences-clarify-todays-ai/",
-      "originalUrl": "https://www.forbes.com/sites/jessedamiani/2023/07/11/how-future-histories-of-other-intelligences-clarify-todays-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64aa2cd9902ea2c82ab4def1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jessedamiani/2023/07/11/how-future-histories-of-other-intelligences-clarify-todays-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jessedamiani/2023/07/11/how-future-histories-of-other-intelligences-clarify-todays-ai/amp/",
-      "publishedDateTime": "2023-07-11T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab.md",
-      "title": "Asure Software (NASDAQ: ASUR) Partners With Amazon Web Services (AWS) Application Modernization Lab",
-      "excerpt": "The post Asure Software (NASDAQ: ASUR) Partners With Amazon Web Services (AWS) Application Modernization Lab appeared first on Spotlight Growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/18404845/asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/18404845/asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-upwork-launches-new-generative-ai-tools-and-services-hub.md",
-      "title": "Upwork Launches New Generative AI Tools and Services Hub",
-      "excerpt": "Upwork is launching a new generative AI tools and services hub. Discover more about Upwork's latest news with our article.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/upwork-launches-generative-ai-tools/",
-      "originalUrl": "https://www.techrepublic.com/article/upwork-launches-generative-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/05/Upwork-Laptop.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-bringing-observability-to-business.md",
-      "title": "Bringing observability to business",
-      "excerpt": "IBM is pleased to announce IBM Instana Observability Business Monitoring to empower teams with real-time business context for IT operations.\nThe post Bringing observability to business appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/bringing-observability-to-business/",
-      "originalUrl": "https://www.ibm.com/blog/bringing-observability-to-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T07:33:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-the-benefits-of-ai-in-healthcare.md",
-      "title": "The benefits of AI in healthcare",
-      "excerpt": "AI is used in healthcare for everything from answering patient questions to assisting with surgeries and developing new pharmaceuticals.\nThe post The benefits of AI in healthcare appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/",
-      "originalUrl": "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 316,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T07:31:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-these-tiny-soft-robots-can-be-controlled-with-weak-magnets.md",
-      "title": "These tiny soft robots can be controlled with weak magnets",
-      "excerpt": "The soft robots are formed from rubbery magnetic spirals and can be programmed to walk, crawl, and swim in response to a magnetic field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/these-tiny-soft-robots-can-be-controlled-with-weak-magnets/",
-      "originalUrl": "https://www.therobotreport.com/these-tiny-soft-robots-can-be-controlled-with-weak-magnets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/MIT-robot-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-landing-ai-and-snowflake-partner-bringing-ai-fueled-computer-vision-to-unstructured-data.md",
-      "title": "Landing AI and Snowflake Partner, Bringing AI-Fueled Computer Vision to Unstructured Data",
-      "excerpt": "By extending the power of computer vision to unstructured data located within a Snowflake account, models can now be trained within the Landing AI platform to then be deployed into Snowflake as User-Defined Functions (UDFs), along with pre-trained ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Landing-AI-and-Snowflake-Partner-Bringing-AI-Fueled-Computer-Vision-to-Unstructured-Data-159568.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Landing-AI-and-Snowflake-Partner-Bringing-AI-Fueled-Computer-Vision-to-Unstructured-Data-159568.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-best-amazon-prime-day-2023-deals-on-robot-vacuums-that-are-50-off.md",
-      "title": "Best Amazon Prime Day 2023 deals on robot vacuums that are 50% off",
-      "excerpt": "Amazon's biggest sales event of the year, Amazon Prime Day 2023, is officially here. Right now, you can score an unbeatable deal on a top-rated robot vacuum with these hot deals on top-rated robovacs from iRobot, Samsung and more. Keep reading to shop our selection of the most impressive Amazon Prime Day deals on robot vacuums.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/01/3a6f8bea-c425-41ba-8405-fdf1900cf318/thumbnail/1200x630/375b52121913f22863901df2bafdd767/roborock-robot-vacuum-header.png?v=758b39f312cc5ee6054d0eb9bad6c0cd",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "publishedDateTime": "2023-07-11T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-50-amazon-fashion-finds-to-shop-for-under-50-this-prime-day.md",
-      "title": "50+ Amazon Fashion Finds to Shop For Under $50 This Prime Day",
-      "excerpt": "As POPSUGAR editors, we independently select and write about stuff we love and think you'll like too. If you buy a product we have recommended, we may receive affiliate commission, which in turn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsugar.com/fashion/best-cheap-amazon-clothes-women-46310389",
-      "originalUrl": "https://www.popsugar.com/fashion/best-cheap-amazon-clothes-women-46310389",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.popsugar-assets.com/files/thumbor/sl6ZssptTFhQksuN-zISJLEK3M8=/0x686:3980x2326/828x610/filters:format_auto():extract_cover()/2023/06/04/331/n/1922564/e688b05e647d873a783305.39844499_.jpg",
-          "width": 828,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsugar.com/amphtml/fashion/best-cheap-amazon-clothes-women-46310389",
-      "cdnAmpWebUrl": "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/amphtml/fashion/best-cheap-amazon-clothes-women-46310389",
-      "publishedDateTime": "2023-07-11T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PopSugar",
-        "domain": "popsugar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket.md",
-      "title": "Chip-Chip, Hooray: Nvidia, AMD Lead Semiconductor Rally Premarket",
-      "excerpt": "Shares of chipmakers are heading northwards in premarket trading on Tuesday, led by Nvidia Corp. (NASDAQ:NVDA) and Advanced Micro Devices, Inc. (NASDAQ:AMD). KeyBanc Capital Markets analyst John Vinh raised the price targets for several companies in the space,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket-1032437607",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket-1032437607",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Nvidia_11.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

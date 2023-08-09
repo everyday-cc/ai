@@ -21,155 +21,98 @@ topics:
   - AI
 
 related:
-  - title: "Dell Technologies & NVIDIA Collaborate On Full-Stack Generative AI Solutions"
-    excerpt: "Dell and NVIDIA announced new validated designs for inference systems based on NVIDIA GPUs and software, a services offering, and a new Dell Precision AI workstation."
-    publishedDateTime: 2023-08-06T21:15:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
+  - title: "Opinion: Why Nvidia investors are rattled by Supermicro’s AI chip supply constraints"
+    excerpt: "Also read: AI has given a boost to a lesser-known Silicon Valley computer maker Supermicro Chief Executive Charles Liang told analysts on the company’s call that the company is seeing supply constraints for the graphics chips coming from Nvidia that are ..."
+    publishedDateTime: 2023-08-09T20:18:00Z
+    webUrl: "https://www.marketwatch.com/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 97
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d00bf4e0b0b9ba04775ac7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
+      - url: "https://images.mktw.net/im-803752/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Nvidia launches RTX workstations chips for content creation in the generative AI era"
-    excerpt: "Nvidia is launching new RTX workstation graphics processing units (GPUs) for the generative AI era at Siggraph."
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-launches-rtx-workstations-chips-for-content-creation-in-the-generative-ai-era/"
+  - title: "Opinion: This is what tech companies, from Amazon to Apple, just told investors about AI"
+    excerpt: "That set up sky-high expectations for companies that are embedding AI-related technology across their product suites as well as chip companies that are selling to them. The second quarter, therefore, became a litmus test. Here’s a breakdown of AI’s ..."
+    publishedDateTime: 2023-08-08T11:49:00Z
+    webUrl: "https://www.marketwatch.com/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://images.mktw.net/im-724370/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia set to hop AI forward with next-gen Grace Hopper Superchip"
+    excerpt: "One of today's biggest Nvidia announcements is a new version of the GH200 Grace Hopper Superchip, powered with next-generation HBM3e memory."
+    publishedDateTime: 2023-08-08T19:18:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-set-to-hop-ai-forward-with-next-gen-grace-hopper-superchip/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 79
+    quality: 64
+  - title: "Nvidia launches new AI chip configuration"
+    excerpt: "Nvidia announced a new configuration on Tuesday for its advanced artificial intelligence chips that is designed to speed generative AI applications.The new version of the Grace Hopper Superchip boosts the amount of high-bandwidth memory,"
+    publishedDateTime: 2023-08-09T03:47:00Z
+    webUrl: "https://www.channelnewsasia.com/business/nvidia-launches-new-ai-chip-configuration-3686276"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/RTX-Workstation-Image.jpg?w=1200&strip=all"
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--udSqSFYx--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-08-08t154702z_2_lynxmpej770lg_rtroptp_3_usa-semiconductors.jpg?itok=4INBC_n-"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Nvidia Unveils Upgraded AI Chips To Enhance Generative AI Applications"
+    excerpt: "The company introduced a new configuration for its Grace Hopper Superchip, aiming to boost the capabilities of generative AI applications, , nvidia, Grace Hopper Superchip, Generative AI"
+    publishedDateTime: 2023-08-09T05:24:00Z
+    webUrl: "https://www.businessworld.in/article/Nvidia-Unveils-Upgraded-AI-Chips-To-Enhance-Generative-AI-Applications/09-08-2023-487115/"
+    type: article
+    provider:
+      name: Businessworld
+      domain: businessworld.in
+    quality: 54
+    images:
+      - url: "https://static.businessworld.in/article/article_extra_large_image/1688016391_iJbIWj_nvidia.png"
         width: 1200
         height: 675
         isCached: true
-  - title: "BOXX Upgrades AI Workstation Module with New NVIDIA L40S GPUs"
-    excerpt: "BOXX Technologies, the leading innovator of high-performance computer workstations, rendering systems, and servers, today announced that RAXX P1G, a rack-mounted"
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635531/boxx-upgrades-ai-workstation-module-with-new-nvidia-l40s-gpus"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33635531"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635531"
+  - title: "Nvidia improves AI processor"
+    excerpt: "Grace Hopper superchip increases capacity and speed Nvidia announced an updated AI processor that gives a jolt to the chip's capacity and speed. Nvidia  told the gathered throngs at the Siggraph conference in Los Angeles that its Grace Hopper superchip,"
+    publishedDateTime: 2023-08-09T09:52:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57390-nvidia-improves-ai-processor"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.fudzilla.com/media/k2/items/cache/3e814bcb2a51dbe3c5633f6e423c21b2_L.jpg"
+        width: 620
+        height: 465
         isCached: true
-  - title: "Generative AI Highlights NVIDIA Keynote at SIGGRAPH 2023"
-    excerpt: "At the SIGGRAPH conference, NVIDIA showcased its efforts to make generative AI not only more accessible but also more versatile. Through strategic partnerships and technological advancements, NVIDIA’s innovations echo a significant industry trend where many different sectors are beginning to harness the power of AI."
-    publishedDateTime: 2023-08-08T18:20:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-highlights-nvidia-keynote-at-siggraph-2023/"
+  - title: "NVIDIA Infuses Grace Hopper Superchip With HBM3e To Supercharge AI Data Center Workloads"
+    excerpt: "Besides the extra capacity, NVIDIA says that the HBM3e version of the Hopper GPU offers a 50% bandwidth improvement, too. That gives the massive parallel processor some five terabytes per second of memory bandwidth,"
+    publishedDateTime: 2023-08-08T18:55:00Z
+    webUrl: "https://hothardware.com/news/nvidia-gh200-hbm3e-edition"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
-    images:
-      - url: "https://b2758374.smushcdn.com/2758374/wp-content/uploads/2023/05/top-generative-ai-apps-tools-696x464.png?lossy=1&strip=1&webp=1"
-        width: 696
-        height: 464
-        isCached: true
-  - title: "Nvidia upgrades Omniverse to for OpenUSD framework and generative AI"
-    excerpt: "Nvidia said the Omniverse platform will leverage the OpenUSD framework and generative AI (AI) to accelerate industrial digitalization."
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-upgrades-omniverse-to-for-openusd-framework-and-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Studio-Image.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia announces updated GH200 Grace Hopper GPU with HBM3e memory for generative AI workloads"
-    excerpt: "Nvidia has announced an updated version of its GH200 'superchip,' which will be the first GPU in the world to include HBM3e memory."
-    publishedDateTime: 2023-08-09T15:26:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-updated-gh200-grace-hopper-gpu-with-hbm3e-memory-for-generative-ai-workloads/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 43
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/GH200_HBM3e.2e16d0ba.fill-1200x630.png"
-        width: 1124
-        height: 592
-        isCached: true
-  - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
-    excerpt: "NVIDIA today announced NVIDIA OVX™ servers featuring the new NVIDIA® L40S GPU, a powerful, universal data center processor designed to accelerate the"
-    publishedDateTime: 2023-08-08T16:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635629/nvidia-global-data-center-system-manufacturers-to-supercharge-generative-ai-and-industrial-digital"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33635629"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635629"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
-    excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
-    publishedDateTime: 2023-08-08T16:51:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861323.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
-    excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
-    publishedDateTime: 2023-08-08T18:44:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861323.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
-    excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
-    publishedDateTime: 2023-08-08T15:58:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861286.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-  - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
-    excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
-    publishedDateTime: 2023-08-08T17:19:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861286.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-  - title: "NVIDIA, Global Workstation Manufacturers to Launch Powerful Systems for Generative AI and LLM Development, Content Creation, Data Science"
-    excerpt: "The systems, including those from BOXX, Dell Technologies, HP and Lenovo, are based on NVIDIA RTX 6000 Ada Generation GPUs and incorporate NVIDIA AI Enterprise and NVIDIA Omniverse™ Enterprise software."
-    publishedDateTime: 2023-08-08T17:35:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861311.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: HotHardware
+      domain: hothardware.com
+    quality: 25
 
 secured: "lDjNuiligYCjvbiN0BGKOjSvfktlwbPgbWlREloC1SLxHY+gxWW1DKDybDd+FxeMqGmMofhtqrmsRalbyXj0LrE+crVTP/noFkviBL1BqBmUaQ/BFwBhrNfnykz4992OejwBro3XLLeKnWwDTFqInssbxXwU9W7cufXKE/fNnJxgo+s/5vwaXSiEcZN78b8LNhjbhjK5RegUJopdF49D1+K+P/tNxnfKUzmCzQsHlWIW0Co/7GepfaeUJUKKd38VAZhwgHyNWDng1vn0W2rQQQmZziZ/iccGmsaYdjzM5Mtvx+uC3GzLMeNSSXdH2eqiSaNnlVWRsfK5zWzR2us2+KhuoX5+EiL9Jum/lvFBoJNt5dqOoiY3gzJavAU6Wjy3kmeeypAz85Oc/k8hPch15d++fVLLYBfcqt/Y5soYmxryWvcVYPi7fvhREHy56NHnjjh0NVr4C0XbEyIPJLQOHgs5DHivTBGD7Se8Xdmj9C6CHYjfN+KAMbLfoRMeLgNPWNUx9Nrct1G2QNmP92PFig==;VtMidRGYeM/5b4KM9ahD0Q=="
 ---

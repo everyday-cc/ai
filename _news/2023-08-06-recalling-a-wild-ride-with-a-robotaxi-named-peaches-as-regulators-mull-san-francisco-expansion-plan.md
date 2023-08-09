@@ -25,6 +25,24 @@ images:
     isCached: true
 
 related:
+  - title: "San Francisco Balks at Expanding Driverless Car Services on City’s Roads"
+    excerpt: "Local officials are worried that state regulators are too eager about a plan by the companies Cruise and Waymo to offer round-the-clock driverless taxi services."
+    publishedDateTime: 2023-08-09T18:31:00Z
+    webUrl: "https://www.nytimes.com/2023/08/09/technology/san-francisco-driverless-cars.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 48
+  - title: "120 driverless road trains for the West Pilbara"
+    excerpt: "In a world-first, MinRes will deploy a fleet of 120 autonomous road trains, which will each carry 330 tonnes of iron ore along a 150km route."
+    publishedDateTime: 2023-08-08T03:59:00Z
+    webUrl: "https://bigrigs.com.au/2023/08/08/120-driverless-road-trains-for-the-west-pilbara/"
+    type: article
+    provider:
+      name: Big Rigs
+      domain: bigrigs.com.au
+    quality: 34
   - title: "Cruise, Waymo await decisions on self-driving service in San Francisco"
     excerpt: "Barring another delay, Cruise and Waymo expect to hear Thursday from the California Public Utilities Commission whether they can expand the scope of their commercial services offered in San Francisco."
     publishedDateTime: 2023-08-08T11:55:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/generate-creative-ad
 webUrl: "https://aws.amazon.com/blogs/machine-learning/generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker/"
 type: article
 quality: 100
-heat: 320
+heat: 310
 published: true
 
 provider:
@@ -297,15 +297,6 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 19
-  - title: "Dell announces generative AI solutions"
-    excerpt: "The company is offering a range of generative AI solutions across its hardware, software, and services offerings."
-    publishedDateTime: 2023-08-07T12:34:00Z
-    webUrl: "https://www.networkworld.com/article/3704209/dell-announces-generative-ai-solutions.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
     quality: 19
   - title: "KPMG’s Generative AI Play"
     excerpt: "KPMG India, sheds light on the consulting sector's initial hesitation towards generative AI, the evolving mindset, and the innovative implementations that are shaping the future of these sectors."

@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-21-enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx.md",
+      "title": "Enhancing the Wimbledon fan experience with AI from watsonx",
+      "excerpt": "IBM&#8217;s partnership with the All-England Lawn Tennis Club (AELTC) has driven digital transformation at Wimbledon for more than 30 years. And this year, Wimbledon is tapping into the power of generative AI, producing new digital experiences on the Wimbledon app and website using IBM&#8217;s new trusted",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/",
+      "originalUrl": "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/Enhancing-the-Wimbledon-fan-experience-with-AI-from-watsonx-1-1.jpg",
+          "width": 1197,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T04:15:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-ai-reveals-ancient-symbols-hidden-in-peruvian-desert-famous-for-alien-theories.md",
+      "title": "AI reveals ancient symbols hidden in Peruvian desert famous for alien theories",
+      "excerpt": "Researchers studying Peru's ancient Nazca Lines used artificial intelligence to uncover four more geoglyphs etched into the country's Nazca desert.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories",
+      "originalUrl": "https://www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d34a3dc0-7781-491d-8b2e-f4174f3e0c28/fd78257f-da74-491a-8c0d-3fa96814144f/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories.amp",
+      "publishedDateTime": "2023-06-20T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-ibm-brings-generative-ai-commentary-and-ai-draw-analysis-to-the-wimbledon-digital-experience.md",
       "title": "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience",
       "excerpt": "IBM AI Draw Analysis creates a new statistic for tennis, offering deeper insight into a player's potential path to the final LONDON and ARMONK, N.Y., June 21, 2023 /PRNewswire/ -- IBM",
@@ -1295,91 +1399,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-07T06:06:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-5-ai-tools-for-summarizing-a-research-paper.md",
-      "title": "5 AI tools for summarizing a research paper",
-      "excerpt": "An AI-powered tool called IBM Watson Discovery makes it possible to analyze and summarize academic publications. It makes use of cutting-edge machine learning and NLP techniques to glean insights from massive amounts of unstructured data, including papers ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/5-ai-tools-for-summarizing-a-research-paper",
-      "originalUrl": "https://cointelegraph.com/news/5-ai-tools-for-summarizing-a-research-paper",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/9c27e59f-a0e1-4cb2-b8b0-2187621598ad.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/5-ai-tools-for-summarizing-a-research-paper/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/5-ai-tools-for-summarizing-a-research-paper/amp",
-      "publishedDateTime": "2023-06-07T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-7-steps-for-managing-the-work-order-process.md",
-      "title": "7 steps for managing the work order process",
-      "excerpt": "The work order management process shows how a work order will move through the maintenance process, from task identification to post-completion analysis.\nThe post 7 steps for managing the work order process appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/7-steps-for-managing-the-work-order-process/",
-      "originalUrl": "https://www.ibm.com/blog/7-steps-for-managing-the-work-order-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T11:44:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

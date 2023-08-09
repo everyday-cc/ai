@@ -2,6 +2,489 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-07-27-people-are-more-pessimistic-about-ai-now-than-before-the-boom-a-study-shows.md",
+      "title": "People are more pessimistic about AI now than before the boom, a study shows",
+      "excerpt": "Steven's Institute of Technology released its annual TechPulse report, which measures the public's attitudes toward different technologies. The findings in the 2023 report show that AI's increased popularity may have actually harmed the public's perception of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/people-are-more-pessimistic-about-ai-now-than-before-the-boom-a-study-shows/",
+      "originalUrl": "https://www.zdnet.com/article/people-are-more-pessimistic-about-ai-now-than-before-the-boom-a-study-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1f8fd82b03ae16fa51cd6a1874e1ff534cd08796/2023/07/27/1424ede4-b9c3-4e19-9aef-baa359a9e4be/gettyimages-1377064482.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/people-are-more-pessimistic-about-ai-now-than-before-the-boom-a-study-shows/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/people-are-more-pessimistic-about-ai-now-than-before-the-boom-a-study-shows/",
+      "publishedDateTime": "2023-07-27T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-lessons-learned-from-computer-conversations-and-taming-ai-70-years-ago.md",
+      "title": "Lessons Learned From Computer Conversations And Taming AI 70 Years Ago",
+      "excerpt": "To make progress in AI, one needs to significantly reduce one’s ambitions. Lessons learned from Yehoshua Bar-Hillel's pioneering work on machine translation",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/27/lessons-learned-from-computer-conversations-and-taming-ai-70-years-ago/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/27/lessons-learned-from-computer-conversations-and-taming-ai-70-years-ago/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2848901b07fcf4316a7fe/0x0.jpg?format=jpg&width=1200",
+          "width": 450,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/27/lessons-learned-from-computer-conversations-and-taming-ai-70-years-ago/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/27/lessons-learned-from-computer-conversations-and-taming-ai-70-years-ago/amp/",
+      "publishedDateTime": "2023-07-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-more-battlefield-ai-will-make-the-fog-of-war-more-deadly.md",
+      "title": "More Battlefield AI Will Make the Fog of War More Deadly",
+      "excerpt": "The Pentagon’s embrace of military AI raises questions about what limits should be placed on the technology—and how to keep humans in control.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-battlefield-ai-will-make-the-fog-of-war-more-deadly/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-battlefield-ai-will-make-the-fog-of-war-more-deadly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64c1b3dd9ec11a2433532d3d/191:100/w_1280,c_limit/AI-War-US-Fast-Forward-Business-1540566906.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-another-tesla-with-full-self-driving-beta-blasts-through-a-red-light.md",
+      "title": "Another Tesla With Full Self-Driving Beta Blasts Through A Red Light",
+      "excerpt": "A former Tesla employee has shared a frightening video online that shows a Tesla model equipped with the company’s Full Self-Driving beta running a red light in the U.S. John Bernal once worked as an advanced driver assistance systems test operator for Tesla but was fired last year after sharing videos on YouTube of the FSD Beta misbehaving in California.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/",
+      "originalUrl": "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2023/07/Tesla.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/",
+      "publishedDateTime": "2023-07-27T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-himachal-govt-introduces-face-recognition-tech-for-pensioners.md",
+      "title": "Himachal govt introduces face recognition tech for pensioners",
+      "excerpt": "With this initiative, pensioners can get their faces biometrically verified and submit their life certificates from their Android devices without any hassle.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/",
+      "originalUrl": "https://indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/07/Facial-Recognition-Feat.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/lite/",
+      "publishedDateTime": "2023-07-27T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching.md",
+      "title": "Instructure, Kahn Academy Announce Major Partnership On AI Tutoring, Teaching",
+      "excerpt": "The news may set the standard for the role of AI in educational delivery and give the company a significant beachhead in the future of personalized learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dereknewton/2023/07/27/instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching/",
+      "originalUrl": "https://www.forbes.com/sites/dereknewton/2023/07/27/instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2009c980aca1380ea0a55/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dereknewton/2023/07/27/instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereknewton/2023/07/27/instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching/amp/",
+      "publishedDateTime": "2023-07-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-2-ai-stocks-up-over-100-this-year-that-i-would-still-buy.md",
+      "title": "2 AI Stocks Up Over 100% This Year That I Would Still Buy",
+      "excerpt": "Bullish on AI? These two top performers are off to a running start in 2023 and they still have room to keep growing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/27/2-ai-stocks-up-100-this-year-that-im-still-buying/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/27/2-ai-stocks-up-100-this-year-that-im-still-buying/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/741402/ai-robot-whispers-secrets-to-smiling-human.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-studios-quietly-go-on-hiring-spree-for-ai-specialist-jobs-amid-picket-line-anxiety.md",
+      "title": "Studios Quietly Go on Hiring Spree for AI Specialist Jobs Amid Picket Line Anxiety",
+      "excerpt": "and Sony seeks an AI ethics expert, while the tech becomes a staple of SAG-AFTRA and Writers Guild picket signs. By Alex Weprin Media & Business Writer While the writer and actor strikes are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/?ref=upstract.com",
+      "originalUrl": "https://www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/2023_07-Nicholas-AI_Hiring.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/?ref=upstract.com&amp",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/?ref=upstract.com&amp",
+      "publishedDateTime": "2023-07-27T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-five-ways-to-boost-cybersecurity-training-efforts-using-ai.md",
+      "title": "Five Ways To Boost Cybersecurity Training Efforts Using AI",
+      "excerpt": "A personalized, interactive and collaborative approach to training can increase security knowledge and instill a feeling of accountability and responsibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60d34861b0dc90f4f81bfd48/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/amp/",
+      "publishedDateTime": "2023-07-27T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-how-traders-are-seeking-bullish-opportunities-in-a-hype-clouded-ai-and-robotics-market.md",
+      "title": "How Traders Are Seeking Bullish Opportunities in a Hype-Clouded AI and Robotics Market",
+      "excerpt": "NEW YORK, NY / ACCESSWIRE / July 27, 2023 / Tech stocks are enjoying a strong rally driven partly by advances in artificial intelligence, robotics, and automation. But such a robust rally in an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/ac33420021/how-traders-are-seeking-bullish-opportunities-in-a-hype-clouded-ai-and-robotics-market",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/ac33420021/how-traders-are-seeking-bullish-opportunities-in-a-hype-clouded-ai-and-robotics-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33420021",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33420021",
+      "publishedDateTime": "2023-07-27T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition.md",
       "title": "Digital rights group NOYB challenges Ryanair's use of facial recognition",
       "excerpt": "The Irish airline, Europe's largest by passenger numbers, says on its website that in order to comply with safety and security requirements it must verify the identity of passengers' booking.",
@@ -702,453 +1185,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-fake-or-fact-the-disturbing-future-of-ai-generated-realities.md",
-      "title": "Fake Or Fact? The Disturbing Future Of AI-Generated Realities",
-      "excerpt": "From deepfakes to misinformation, discover the ethical implications and potential solutions in a world where AI blurs the line between truth and fiction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c200fd980aca1380ea0a57/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/amp/",
-      "publishedDateTime": "2023-07-26T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-in-sales-and-marketing-its-here.md",
-      "title": "AI in sales and marketing: It’s here",
-      "excerpt": "Artificial intelligence is improving employee experience and productivity in fields such as sales, marketing and customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/JN1gPvOAr8xMjL6m",
-      "originalUrl": "https://www.itweb.co.za/content/JN1gPvOAr8xMjL6m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/07/Paul-Mulder-Jul-2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m",
-      "publishedDateTime": "2023-07-26T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-amazon-is-failing-to-provide-accommodations-for-disabled-workers-labor-group-claims.md",
-      "title": "Amazon is failing to provide accommodations for disabled workers, labor group claims",
-      "excerpt": "Amazon is failing to provide adequate workplace accommodations for disabled employees, a violation of the American Disabilities Act (ADA), according to labor activists. Amazon workers with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/amazon-disabled-workers-american-disabilities-act-violations-report/",
-      "originalUrl": "https://www.cbsnews.com/news/amazon-disabled-workers-american-disabilities-act-violations-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T20:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-musk-optimistic-on-progress-for-self-driving-robots.md",
-      "title": "Musk optimistic on progress for self-driving, robots",
-      "excerpt": "(AP pic) SAN FRANCISCO: Tesla chief executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category//2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category//2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-artificial-intelligence-to-help-with-security-at-2024-paris-olympics.md",
-      "title": "Artificial intelligence to help with security at 2024 Paris Olympics",
-      "excerpt": "So, this year, the massive security presence will add a new layer -- one that Silicon Valley is very familiar with: artificial intelligence. Something that’s already launched a fierce debate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/",
-      "originalUrl": "https://www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcbayarea.com/2023/05/Social-Media-Hacking-Generic_NBC-5-Responds.png?resize=1200%2C675&quality=85&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/?amp=1",
-      "publishedDateTime": "2023-07-26T18:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Bay Area",
-        "domain": "nbcbayarea.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud.md",
-      "title": "Signifyd's Developed An AI-Powered Response Solution To Combat Retail Fraud",
-      "excerpt": "Fact: “If it were measured as a country, then cybercrime ...would be the world’s third-largest economy after the U.S. and China... and represents the greatest transfer of economic wealth in history.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1c0f8e717bf59b303e3c3/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 1162,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/amp/",
-      "publishedDateTime": "2023-07-26T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-tools-pose-threat-to-research-ethics.md",
-      "title": "AI tools pose threat to research ethics",
-      "excerpt": "Among the various impediments to the integrity and sanctity of academic research perhaps the most perilous as well as unprecedented challenge is the emergence of Artificial Intelligence (AI) tools like ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html",
-      "originalUrl": "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2022/11/AI.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html/amp",
-      "publishedDateTime": "2023-07-26T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-waymo-putting-the-brakes-on-its-autonomous-truck-program.md",
-      "title": "Waymo putting the brakes on its autonomous truck program",
-      "excerpt": "Waymo said it would continue collaboration with DTNA to advance technical development of an autonomous truck platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ccjdigital.com/equipment-controls/article/15543134/waymo-puts-driverless-truck-program-on-hold",
-      "originalUrl": "https://www.ccjdigital.com/equipment-controls/article/15543134/waymo-puts-driverless-truck-program-on-hold",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.ccjdigital.com/files/base/randallreilly/all/image/2023/07/Truck_1.64c1b72e48238.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T17:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CCJ",
-        "domain": "ccjdigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-venture-firm-debuts-150-million-fund-for-indian-ai-startups.md",
-      "title": "Venture Firm Debuts $150 Million Fund for Indian AI Startups",
-      "excerpt": "Indian venture capital firm Together Fund announced a $150 million early-stage fund to back AI companies, aiming to capitalize on use of the technology in the software-as-a-service market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-26/venture-firm-launches-150-million-fund-for-indian-ai-startups",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-26/venture-firm-launches-150-million-fund-for-indian-ai-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivo01YXH040Y/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption.md",
-      "title": "ServiceNow partners with Nvidia and Accenture on ‘AI Lighthouse’ for rapid enterprise AI adoption",
-      "excerpt": "The program aims to help customers build and deploy custom generative AI large language models (LLMs) and generative AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption/",
-      "originalUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_futuristic_lighthouse_beams_glowing_digital_computer__eca72640-231d-4a86-960c-3ac35e4c93ae.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
