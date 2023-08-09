@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/disney-is-so-serious-about-using-ai-it-
 webUrl: "https://www.pcmag.com/news/disney-is-so-serious-about-using-ai-it-created-a-task-force"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.reuters.com/resizer/p8BpMUM8j0AOd6lJJ-4005UBphg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KWTCYTVJCRIMPHR7UWZAZTFDTA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Disney Forms Task Force to Explore Artificial Intelligence"
+    excerpt: "Disney has taken a significant step towards embracing artificial intelligence (AI) by creating a task force to investigate its potential applications across its wide-ranging businesses. The company is exploring the development of AI-based solutions both in-house and through collaboration with external experts."
+    publishedDateTime: 2023-08-09T00:38:00Z
+    webUrl: "https://www.cryptopolitan.com/disney-task-force-to-artificial-intelligence/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 39
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/msg-906142390-4958.jpg"
+        width: 1024
+        height: 1024
         isCached: true
   - title: "Disney sets up task force to explore AI applications"
     excerpt: "Disney has established a task force to explore artificial intelligence (AI) and its potential applications throughout the company"

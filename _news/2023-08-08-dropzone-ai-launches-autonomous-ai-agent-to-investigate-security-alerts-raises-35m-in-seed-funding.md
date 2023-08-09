@@ -43,6 +43,20 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Horizon3.ai raises $40M to build out its enterprise-wide proactive security platform"
+    excerpt: "Autonomous security solutions startup Horizon3.ai Inc. today announced that it had raised $40 million in new funding to build out its enterprise-wide proactive security platform and expand channel and partner presence."
+    publishedDateTime: 2023-08-09T00:45:00Z
+    webUrl: "https://siliconangle.com/2023/08/08/horizon3-ai-raises-40m-build-enterprise-wide-proactive-security-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/hori.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Jaecmt/RyzBKOHvfCZ9rKoZnoWM2RMNlCKob/HSv0ckGnqkk3LnIVWdx8kleYmNzXikP6yoItlqWrdBH7GUC/YryAq4vaedH/tgaDRuEiLQXRb2iqjGdaFHlRXlPQw76NTzx6EthtDaxck/OJDTnzjb1tlMr4CmQhVPMZNdRs75MZ48utipKc0IwSrF6sqlKkHF2991i1LJ/VwXwx+QVVA+TJ0ABCWyCf0qvT3yPkTU0lEfoTeQeMncwcRtBNzvibR7vVsFCnPZ0QqEOpf5Hg7S5q3v36rJNb38g/jYhuK5b+3OlTPaclK+01ZcsfXJO3lzVtjS9fEqV8uE1+1izAXA7rcSYOr5mHQEUCdgWHZqGL/1S34U/sBVFYIo9N1xg5iLTPUBwpn6sZ5k+S+O5/lkHKSkK1Z5jvaubKlvMsFwKLLc4rHFMoFLNUc5oidHHCVQcGAghnrFXhO+U0wv2l/QyYC+toOsfUgrMWXrFFRETUaS/BERpi5G8qNsTLM22vyBzSdwFLUeEy+FKsxQs4A==;CLEGPDDYZEkOa/4/9R+YHA=="
 ---

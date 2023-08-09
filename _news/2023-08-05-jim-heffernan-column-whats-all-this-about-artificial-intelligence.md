@@ -23,17 +23,6 @@ images:
     height: 1066
     isCached: true
 
-related:
-  - title: "Column: Why AI extinction risk is a business reality"
-    excerpt: "The findings come just weeks after dozens of AI industry leaders, academics, and even some celebrities signed a statement warning of an \"extinction\" risk from AI."
-    publishedDateTime: 2023-08-04T09:00:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/news/2023/08/04/why-ai-extinction-risk-is-a-business-reality.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-
 secured: "Jvl26xYyEJxVhrZ0PcIMdCHq72nRZDD+CH5WITNVcTwuMSKHMAERrf0108Ea/tdDjv9FvGKhs8X2RspezOeODRmObUreCPHICe9DlLftRSv92KnHqyTGafK3SaDNSfAn915uijYapLZVSemqr5WsUvGtRHUh6WVT6xa2RLE9GeGs3XWslQlb75SPZ8yIDpxz5NoTZVztAejs+6rIviEPieJlIKDOm/fOULQM6uZC2CbjlUQBboXjESfanURfoRh6mt1hh9mrwF3+2+fxa1CXI5IyVJUpuLjcNwqFYpxnO2/+YvKKI/I//81Uh8+IC5gAFGvBzvg7JBONyiwwgvCHGrs+54PvKR6KoZwqLaynOME=;AywEB2Pdj91QAbO/5hsnSA=="
 ---
 

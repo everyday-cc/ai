@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anthony Albanese ‘confident’ Voice referendum will deliver on Yes vote"
-    excerpt: "Anthony Albanese says he is \"confident\" Australians will deliver a Yes vote in the upcoming Voice referendum despite polls suggesting support for the proposed body has slumped in recent months."
-    publishedDateTime: 2023-08-04T07:52:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/prime-minister-anthony-albanese-confident-voice-referendum-will-deliver-on-yes-vote-as-he-announces-64-million-to-develop-garma-institute-for-yolngu-students/news-story/52ba44efa83b06719d8e5910e8f71659"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/prime-minister-anthony-albanese-confident-voice-referendum-will-deliver-on-yes-vote-as-he-announces-64-million-to-develop-garma-institute-for-yolngu-students/news-story/52ba44efa83b06719d8e5910e8f71659?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/prime-minister-anthony-albanese-confident-voice-referendum-will-deliver-on-yes-vote-as-he-announces-64-million-to-develop-garma-institute-for-yolngu-students/news-story/52ba44efa83b06719d8e5910e8f71659?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 44
-    images:
-      - url: "https://content.api.news/v3/images/bin/a53c468529b602ade9f29646e561fdb7"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Voice, treaty … and T-shirts: why Anthony Albanese is struggling to sidestep the referendum scare campaign"
     excerpt: "The prime minister began his week with a joke about his Midnight Oil T-shirt – but it got less and less funny as the days went by"
     publishedDateTime: 2023-08-04T14:00:00Z
@@ -59,33 +43,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "‘An opportunity to be lifted up’: Anthony Albanese hails local clan council as model of Indigenous voice at Garma festival"
-    excerpt: "The event began with a solemn and loving tribute to beloved late Gumatj leader Yunupingu"
-    publishedDateTime: 2023-08-04T07:48:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/aug/04/an-opportunity-to-be-lifted-up-anthony-albanese-hails-local-clan-council-as-model-of-indigenous-voice-at-garma-festival"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/aug/04/an-opportunity-to-be-lifted-up-anthony-albanese-hails-local-clan-council-as-model-of-indigenous-voice-at-garma-festival"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/aug/04/an-opportunity-to-be-lifted-up-anthony-albanese-hails-local-clan-council-as-model-of-indigenous-voice-at-garma-festival"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 33
-    images:
-      - url: "https://i.guim.co.uk/img/media/20d0684a6f898321c2438b2d676ed27d0103a2eb/220_512_2851_1711/master/2851.jpg?width=620&quality=85&auto=format&fit=max&s=7cb7ca9469615f2202be2337e17e4e30"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Albanese hopes return to Garma reboots voice case"
-    excerpt: "After a torrid week of parliamentary debate about the voice referendum, Anthony Albanese has returned to the Garma Festival, emphasising what local Indigenous communities can achieve when their people are empowered."
-    publishedDateTime: 2023-08-04T23:30:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/editorials/albanese-hopes-return-to-garma-reboots-voice-case/news-story/f22010983362b48332009528dccabcf1"
-    ampWebUrl: "https://www.theaustralian.com.au/commentary/editorials/albanese-hopes-return-to-garma-reboots-voice-case/news-story/f22010983362b48332009528dccabcf1?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/editorials/albanese-hopes-return-to-garma-reboots-voice-case/news-story/f22010983362b48332009528dccabcf1?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
   - title: "A 'Voice'... without 'Treaty' or 'Truth': Why Anthony Albanese isn't talking about what happens if 'Yes' wins the referendum"
     excerpt: "Anthony Albanese has been calling for First Nations recognition and reconciliation under the collective slogan of 'Voice, Treaty, Truth' his entire adult life. In 1986, as a 23-year-old Labor activist on the rise, he signed off on a letter demanding ..."
     publishedDateTime: 2023-08-06T00:48:00Z
@@ -101,6 +58,22 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2023/08/04/08/73955145-0-image-a-26_1691132515704.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "Albanese's inability to handle public pressure over his Voice proposal will cause him to lose the referendum, and ultimately the prime ministership"
+    excerpt: "Anthony Albanese left the Garma Festival last August without a pub-ready case to support his vision of an Indigenous Voice to Parliament."
+    publishedDateTime: 2023-08-04T20:00:00Z
+    webUrl: "https://www.skynews.com.au/insights-and-analysis/albaneses-inability-to-handle-public-pressure-over-his-voice-proposal-will-cause-him-to-lose-the-referendum-and-ultimately-the-prime-ministership/news-story/fdb6a4011393cc22b5da621778842d05"
+    ampWebUrl: "https://www.skynews.com.au/insights-and-analysis/albaneses-inability-to-handle-public-pressure-over-his-voice-proposal-will-cause-him-to-lose-the-referendum-and-ultimately-the-prime-ministership/news-story/fdb6a4011393cc22b5da621778842d05?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/insights-and-analysis/albaneses-inability-to-handle-public-pressure-over-his-voice-proposal-will-cause-him-to-lose-the-referendum-and-ultimately-the-prime-ministership/news-story/fdb6a4011393cc22b5da621778842d05?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 6
+    images:
+      - url: "https://content.api.news/v3/images/bin/caf27f7e9bc5124829e5fc5865c0db38"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Alice Springs gripped by crime spree targeting airport, university and nursing home - as Anthony Albanese and his Voice 'Yes' campaigners enjoyed the $5,000-per-person Garma ..."
     excerpt: "The form of constitutional recognition they are asking for is a Voice, not our sympathy, not a symbol, but a vehicle for progress,' he told the crowd. 'A practical tool to make their children's lives better. Not just something that will feel good ..."
@@ -127,15 +100,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 4
-  - title: "Garma festival: Anthony Albanese pleads with Voice supporters to ‘convince’ dubious Australians"
-    excerpt: "Aboriginal and Torres Strait Islander readers are warned this story contains images and mentions of a deceased person."
-    publishedDateTime: 2023-08-04T12:30:00Z
-    webUrl: "https://www.news.com.au/finance/work/leaders/garma-festival-anthony-albanese-pleads-with-voice-supporters-to-convince-dubious-australians/news-story/0436b5392ac380b5b26f7aacec872a46"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 0
 
 secured: "zu+QbwHWPFXjJUMtlhgft+4wkYeTxIuZrKc8Dn+YUnsgnu5KAGtiN2uoVbTc9pX7YdF56QLtY/EJP8YMfbG0bWpcsH1ZcQxG2hC3WrUSPt0L06IDbouEUqnZJ91nc4xa+m91Qjyp/1q+dfC1NvyGONt3WjnHg8g+CvkxZFq+WL8cmE8+y0ZeQhTlRojVUtMkp88rkkcFSW1rM3/1GXL8FebKBOcZlC4cyMQKclTOh/B2EtaiyW+yTvv2iPSG7qC0LCTN9K8XVSvBZk/bQ0LIqV5iKVP8+fq+yOoqC/FN4VMPwhjHbwYVKYTEDURompetW+5sRxBHpY5aAoqjfvANQr4/NsprqQ0OkbSjsZ0jKZM=;VQ6gw7tQxWbKRzZQjkqX2w=="
 ---

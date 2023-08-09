@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificia
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesrtaylor/2023/08/08/how-artificial-intelligence-is-helping-todays-small-businesses/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Google
       domain: blog.google
     quality: 69
+  - title: "Small businesses use AI for efficiency; no impact on workforce employment rate yet"
+    excerpt: "Local small businesses are actually using AI to be more efficient, and local officials say there haven’t been any noticeable changes because of the program yet."
+    publishedDateTime: 2023-08-08T23:37:00Z
+    webUrl: "https://www.ksat.com/news/local/2023/08/08/small-businesses-use-ai-for-efficiency-no-impact-on-workforce-employment-rate-yet/"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 33
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/08-08-2023/t_97844676eae5409ba54ff734efd02908_name_image.jpg?_a=ATAPphC0"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "DGsXoi91Rav3p0+eLa6h7jYrs5V6AHe+jnXFh3hieZWc4u+yyQ0KmD0A30HvJ/JAPjF8C9xxyzsi0E6Sj+ZHvvDpzEWHedhN1QXfZYiKYtuUU7n2xuAWNrdCwQ19s+HdTQRvGI9rQelx/MqSiGpiOrJ4JXCt94xNyHb6w6WTdia77LF1cslgKtOAcu7NKiXnxA4bcjtbInx2T8LynsTQuo7DXYpYzNjbHBGxMJYuIQzJiN+r1dGKIUYIfQpYtGwEaMHeZU3tOvB/wXNTiIYAILLnsI+yZRmySEwh5jQYDZSDvA4YOmuuyFV/h4lKAcRhfg4DBm3GznZZwyxzjjjEXfohMkbMOAjDFAcmiLOgpM9wd26P/5XUY2o5PfdThdMSRQogNZoxFvOqy1BmLfA0E2ioX0bfooUi1ytBXuS0Zj9ZwOeqNYiqd790JXbSIM7m1oSd73/ShTC4MdTX7X1fQjJtx6Vu35U1N0KwIgu6rZgxA57V+H9u9EBR1t+tHe+ohB+J32UwLG/k9Bc02YwS/g==;ePMO6aEcG1aBD+a6E/f/Ug=="
 ---

@@ -27,14 +27,14 @@ related:
   - title: "The Artificial Intelligence Contribution to Eating Disorders"
     excerpt: "Artificial intelligence has an eating disorder problem. Pro-anorexia chatbots are a mere consequence of some of the best tech-funded companies not doing enough to prevent the circulation of misleading"
     publishedDateTime: 2023-08-08T22:00:00Z
-    webUrl: "https://omaha.com/life-entertainment/nation-world/the-artificial-intelligence-contribution-to-eating-disorders/video_89389748-9c2e-55ff-88f5-8193dfb22db3.html"
+    webUrl: "https://www.stltoday.com/life-entertainment/video_61dda066-a3a7-5eb2-85ab-78ecb353df30.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/8/93/89389748-9c2e-55ff-88f5-8193dfb22db3/64d2830dc157a.image.png?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/1d/61dda066-a3a7-5eb2-85ab-78ecb353df30/64d281878603d.image.png?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

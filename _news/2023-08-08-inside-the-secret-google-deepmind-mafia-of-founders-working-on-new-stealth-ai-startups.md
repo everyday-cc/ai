@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/stealth-ai-startups-emerge-from-go
 webUrl: "https://www.businessinsider.com/stealth-ai-startups-emerge-from-google-deepmind-2023-7"
 type: article
 quality: 76
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
         width: 790
         height: 320
-        isCached: true
-  - title: "Google DeepMind’s Achievements and Breakthroughs in AI Research: Top 5"
-    excerpt: "DeepMind has stood at the forefront of AI research working on high-profile projects, including AlphaGo and AlphaFold."
-    publishedDateTime: 2023-08-04T08:07:00Z
-    webUrl: "https://www.techopedia.com/google-deepminds-achievements-and-breakthroughs-in-ai-research"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 56
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/brain_02.png"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "o8G8Xsw4FzEnOeSBR4ZNAfzyRFp3dZ6vJDlVD6xihXCSw4B2kCE8kYxGOIrJvS69+HFEaSCWgcx4mK3dx1vTsoF/WULSkgDEpLy1Td9LbvDXlcQoPS8FDIVlAvq104inpdR9zSf+pzeLK434jgS7o5rpkMfjibr8R6I3L3Xv8xs13P5K6cYFdJ7hEgf9y8JE14PX7ODC9UtrwYUmInGbD7IcQ7uNwx19QYxvoMLAPVK+CFh/HTWgsGW4ED9SX6L7se/eIQdB9lfydBMOTCvplTJPczE3PFruzYUMd9kwDg7anG/95GSFCoiRevAoyhjS4ikAXQITnm9ZocnM0ZouiIePOGdhsafWdkauLvXf9lumgpqmIU/dnWQXjBwU6c30HKRmRQHAcTEusyaajf7xRhB3qq8I+RSN7IQdVzcUJDQWOCDs11MWGa7egFroOUikTMWEhqqsvo1qi+cMCZIxaoxqVCwKb69vbODkKYC3WTAPc147nEah5+RwkkYaDfdPUMM570cPJQE3hY8acTwUHQ==;WEz1zlKmdls3507vj8rSsA=="

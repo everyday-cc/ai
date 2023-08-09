@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/your-cus
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/your-customers-deserve-a-better-experience-and-ai-can-help/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Experience: scammers used AI to fake my daughter’s kidnap"
-    excerpt: "No part of me questioned whether this was real - I had to save my baby"
-    publishedDateTime: 2023-08-04T08:00:00Z
-    webUrl: "https://www.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/8577d10c56ad1547410b78513c9eb79635a4d369/0_270_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=f605c29b644e24da2d51b8fcf9ddc591"
-        width: 620
-        height: 372
-        isCached: true
   - title: "4 Ways Conversational AI Improves Customer Experience"
     excerpt: "In a race to secure their position in the competitive future, businesses embracing conversational AI can supercharge sales."
     publishedDateTime: 2023-08-04T20:33:00Z

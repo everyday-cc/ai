@@ -1,27 +1,31 @@
 ---
 category: news
 title: "iFLYTEK provides automatic speech translators for the Chengdu Summer World University Games"
-excerpt: "FLYTEK, as the exclusive supplier of automatic speech transcription and translation service for Chengdu University Games, provided smart products such as iFLYTEK Translator, Smart Microphone Family launched by its subsidiaries,"
-publishedDateTime: 2023-08-08T20:18:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/iflytek-provides-automatic-speech-translators-for-the-chengdu-summer-world-university-games-1032530521"
-webUrl: "https://markets.businessinsider.com/news/stocks/iflytek-provides-automatic-speech-translators-for-the-chengdu-summer-world-university-games-1032530521"
+excerpt: "The FISU Chengdu Summer University Games were held July 28-August 8 with iFLYTEK as the official translator sponsor. The Chengdu Summer World University Games is a gathering"
+publishedDateTime: 2023-08-08T19:32:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33641689/iflytek-provides-automatic-speech-translators-for-the-chengdu-summer-world-university-games"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n33641689/iflytek-provides-automatic-speech-translators-for-the-chengdu-summer-world-university-games"
+ampWebUrl: "https://www.benzinga.com/amp/content/33641689"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33641689"
 type: article
-quality: 24
-heat: 24
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "pYH9CCiPC7QVHzfKIBINwkLf1Kr6sPMTzM5R/f8CB6sFhvjPrg9NkP9umV4+yRlClu4L/aYv6aSzy8lVHxF4lUz4Y6XSAjZbX7pjmwS/RwCHgwiLsnET/cTRjLIKN3XBDOrx9lc5A5oD70eXf/o67uGREjVp2z5IaVsG+bcvu622B9Wz70/hJSYzs7MJELH5EY+4gRo67e/SdkznHMiOZRsbBVBslBsoE+WCF6HdeQlyL80XlTsV3pjKit8aMmLJ+xShSyLMZSXsJobCT22Ve6nkUnLe+KAJOn5ygbZN0VCdDRyJPgljNS4pniHNAShfhrq01qpGaex3rpc6TjPhC7le6HAH0fTfPm1Qy5mJODQ=;D+k/QmQ723R0rithXZmRCg=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "bkFU0FiExGBjjme7SxVrd/Q280d73HgvBQn8Aw1lARMBankZSRaXcvmHwn2eMLRS4Gs+fe4xb3rMl+8r2x/7gv+9sdRw8HDEm3I/H0i6eHY8zYjUW7gYgVBgjbbYxl/o8v0YVczReWutctpkGU7sT0UoRUpD+glh80Fj0bZG2meYZoZqs70f/z3B8ahTms62zlBuqZUciFITNu88zSw1WaTu/XlabRAhRey3NHeOFM0zz6G8wZRw5R3RGeReBD1nyrkTdjAJztGpijkTqwt4z0pK6CCCxEGVaLu246ZGV0a9C6LckfQAlncxa6E3fpUV+r9v8wMum+X5763Shz1ukjsnDttv16jrTKuDfJsiNPI=;8NO9K5/yM+LsZAYMEttgzQ=="
 ---
 

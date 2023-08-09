@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google DeepMind’s Achievements and Breakthroughs in AI Research: Top 5"
-    excerpt: "DeepMind has stood at the forefront of AI research working on high-profile projects, including AlphaGo and AlphaFold."
-    publishedDateTime: 2023-08-04T08:07:00Z
-    webUrl: "https://www.techopedia.com/google-deepminds-achievements-and-breakthroughs-in-ai-research"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 56
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/brain_02.png"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "X7J4O7M4jeTaG8ZCP+qN/iQ2Dm2rswHRbpXAZiykv2n5YYmpPQrgIrbfGPvzjbRxIAou9htTk+ozH49j/1OSjzSqyX+AcXP0jzk+mJng3ezQ56WVYaM0ds4JfVi0Ga804r+ry1BtYRLchuQ0OOcyZvrKwmlQfuU75n5AJbb0edtqGv2+7Xjrn65Q1yZcQYwJxa4YqXEobXsC8abIMaE41SMwU+6NrsqPeH57K96Z8CzoERBVAHDjhlZtBkYTO5RVATA4XwXkGsTCtgSxpsi+Igfq5o9qCPUDSuV/qK9NbTZiIxvhDa7QlLwo3dnHv2Huozv8Y1E1AY5GI30diN0E7rW1/amSDHiTxuJr5NsIbu14GiyivHLyQgmNes0kPELBrJpSVxiGWPfpddqYLNjxxCeTcPHc0jGIkBUrhxMSFliACHd0vYuvLfBIYlBGpc141paVWz+8XBtzBoHw8Z69O/KvpPIzQVhgVVHNyh0Ne/NGzwsVoQqGqFtjowdcbedhXBJ44rUo8oFfzCuxp+vMpQ==;ZyxmAv7wySoT1KuKvVK9yA=="
 ---

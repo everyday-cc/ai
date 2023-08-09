@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markcperna/2023/08/08/these-3-skills-ca
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcperna/2023/08/08/these-3-skills-can-help-everyone-take-advantage-of-the-coming-ai-era/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "M32qBPkz4wVfSY3MkEQIq4hDFLeq+0D9Uaa5CnqKIhmIfs6806+BWVvcanLIiMrRPARXFgK7xuId4RI52lcZRcAVSq9HcyMiUp7chEltK+plGgzR+ylbdbYmiplSztIc5pYH2NUBIbjfu7jwlgQduyFI5LNC3B9LvMgqDQfldxIOH7bcSVGe/lpFHc59kSfxDsxlecHajMCzmZ6j75PrD4orJKi57iCr95IKARosMQYGCuM34MuyqM9KdRxX0/G2Ag+ZaEpRBxPbon+V+8cl8+S1DnSFqtlRqyIS9KT4j+xCtL7m2YIUE0ABxli0e8vjTs76Cc5z344Fj1VuziZCEaiXJ8MRIfkgrOR7keWRdQc=;MhwgprCToW6MjVTEgb463w=="
+secured: "GdlJpTFjD4MxkdWKt789GyMV3SFzDC/RUHMoynzADlQ3nkaFZoqCP/8EwTOqo53cXGwSqFld+JXKVdmnLB2UO2KJMykucvD4/U3uLLUqkmKUHeeAV3X/miGBt8UBKXKcAKRrm5ILz7NEnnopmThD2dcVavX/GGKjMX06b9Xdut0giJl/MyLCjnw2MsMuLY7Wp2SPnkoiNDEtddkQjru6y9RrUfiLrqHE19F+H2jJDpBIUF3z15tTxk2HD5oIGiNIDbbNvzevU6Ah+RBQ1y4zKq8l5VNJERSxncP1KcHHVlrMDhPN7dVSL5r+SaquccTSJFntcEFtlARQeLqBiDK+Xq3RAaeOypvn1WPGL1Q8ye68mJpk1rJiPD+bO+6Q4LQUaIAE2foNxyi4lR72CnA/tSOO3+OvprU53Tj53RN2PFu0OmI2QypXK0uGsjChCI9HzDC+ZaTkemL878mFcdLHe8N6PIIGwJqRQ3iJ7qSAMhbY7ds0Z8NeN/DUgUq3puVBno8hGJzGJEhd8VRPwwQQMQ==;foUc5fCBjmeNqq90q8gZFQ=="
 ---
 

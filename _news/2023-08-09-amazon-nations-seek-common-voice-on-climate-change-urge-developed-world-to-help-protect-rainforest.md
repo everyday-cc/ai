@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Amazon nations seek common voice on climate change, urge developed world to help protect rainforest"
-excerpt: "Leaders from South American nations that are home to the Amazon are challenging developed countries to do more to stop massive destruction of the world’s largest rainforest"
-publishedDateTime: 2023-08-08T23:27:00Z
-originalUrl: "https://www.opb.org/article/2023/08/08/amazon-nations-seek-common-voice-on-climate-change-urge-developed-world-to-help-protect-rainforest/"
-webUrl: "https://www.opb.org/article/2023/08/08/amazon-nations-seek-common-voice-on-climate-change-urge-developed-world-to-help-protect-rainforest/"
-ampWebUrl: "https://www.opb.org/article/2023/08/08/amazon-nations-seek-common-voice-on-climate-change-urge-developed-world-to-help-protect-rainforest/?outputType=amp"
-cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2023/08/08/amazon-nations-seek-common-voice-on-climate-change-urge-developed-world-to-help-protect-rainforest/?outputType=amp"
+excerpt: "It’s been 14 years since the eight countries of the Amazon region convened in a summit of the Amazon Cooperation Treaty Organization."
+publishedDateTime: 2023-08-09T00:57:00Z
+originalUrl: "https://apnews.com/article/belem-amazon-rainforest-summit-brazil-environment-crime-4e68ebf7f6c719d779ed726cc4f0c5dc"
+webUrl: "https://apnews.com/article/belem-amazon-rainforest-summit-brazil-environment-crime-4e68ebf7f6c719d779ed726cc4f0c5dc"
 type: article
-quality: 45
-heat: 45
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: OPB
-  domain: opb.org
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/SvaZxQzbmyBIacNyoB4Msvol2e4=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/KQ3JVLVIYVDB5JPVJCRHRQIROQ.jpg"
-    width: 767
-    height: 511
+  - url: "https://dims.apnews.com/dims4/default/add180b/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fae%2F71%2F12b02a0cd67f6b2af07bc00ce5bf%2F086cfa98fbeb4ac5a447f1f020e0cfff"
+    width: 1440
+    height: 810
     isCached: true
 
-secured: "2c+hRSxSIYH1eUM/fF5TjLsZ7UE2H8BBYDq2wslzp1ha5RC6oofXy1lW4Q4/a38KVHquf7hUyxqOcY70tFbnrNcMlV+t3TfLwe7WgPTZGeS4mhWzLQaB3DLxcbyEtzoO7eBFCIKe3OLvdebPe/BOWQUW4NCzn5YrdXLZtB9M7rIjoUrxLQUa1nAcZWVn2cVgW/SrgEix9hIs82fovhzsKAMxh7FFBU0ZGgijS96qsnt4WIGGQuj4/4ozt1a8Hx7tz+BNURDU7jDY4zr7WwtUxzz7gY9qCEu30tf/0sO50UmYYvpo5DoZ4U6yubsqGIb6eW4tcF6eqAYPyuhW21jL7xkfn8x5RQGd7CKfkOzsfqw=;dfRpWSISvLvI5WBypyNnow=="
+secured: "IsOil2IXa5A16tsAXdi/PeX2kmb9RDnWDZQYzRkIKrxQxF13B/dSOROBrio0QMMNO0cXv769pgxu60ijNfR2pBdov7kXPowodeA4TBGhJ6GmWNHN346iXnWo0HTm05HOE6ynG9B+llPNVONYqSeoKwq/cm0BNBh3wyMwqVk8mBnX4fKAGz/3+p67cLAR0/2dheBo3q1Z6jUs8TBqjZzgBIXr4x2L8jE3lNdqTDn4Hl2pxEr2Y+qCe4gRXFTYhr7GBhiIMmSa+K0I2baJSvRSg8WH8icwQ1cPuhh7YX1Me2VB6uT3dwLZR01EerRKAdm4Zi2tCG3r0gBIayMijTXRgaeoeHx6IxCCKKKzG2z9a3o=;8BbePTIhz7YMyIYapnWKVw=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Small businesses use AI for efficiency; no impact on workforce employment rate yet"
+    excerpt: "Local small businesses are actually using AI to be more efficient, and local officials say there haven’t been any noticeable changes because of the program yet."
+    publishedDateTime: 2023-08-08T23:37:00Z
+    webUrl: "https://www.ksat.com/news/local/2023/08/08/small-businesses-use-ai-for-efficiency-no-impact-on-workforce-employment-rate-yet/"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 33
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/08-08-2023/t_97844676eae5409ba54ff734efd02908_name_image.jpg?_a=ATAPphC0"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "mK1xJiRANDI9pUZQJa5RBJb6p+tKAxnKn2ERvX6aAU/u2xysMmOH0uFmeRiBFcR+NXGk+UYX296Mg9QT8fuXlSPj1fch9VtaUai/tfA7nYH1JK2McE/tln6HyFh0jcFRFqbsO8Lnh+xMGcNHs6ONLeB0ngmRBv1R4kzb+b4k4o/HhEbBCLsfLJzOv7Cqf8b5esJOwBCIXhbxAkZo/+CmNABglk3/Y3//DN8+WS0Tq1Pq+lxNmStTk+QqYP/wqVkHUvrjr5H/KVcNGZ0ah29Gd13/qUV1G9rmBkui+cqCRR1hQwRDUzYyFh14olKseHjzHQUL1HcVtcMWIzMeun5Q2C06EqXUrsCM0PAxz1g9T1w=;1cmKLm7iVOFrsUVXbvVM8Q=="
 ---

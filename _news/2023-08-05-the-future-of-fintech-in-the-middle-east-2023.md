@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "Spotlight On Crypto Innovations In Fintech"
-    excerpt: "Welcome to our exploration of“Spotlight on Crypto Innovations in Fintech.” In this spotlight, we delve into the dynamic intersection of cryptocu"
-    publishedDateTime: 2023-08-04T08:44:00Z
-    webUrl: "https://menafn.com/1106782362/Spotlight-On-Crypto-Innovations-In-Fintech"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/04/C_efd5aimage_story.jpg"
-        width: 960
-        height: 540
-        isCached: true
   - title: "2023’s Biggest Fintech Acquisition Deals"
     excerpt: "To get a sense of this year’s fintech M&A landscape, we compiled a list of eight of the largest merger and acquisition (M&A) deals in the sector announced in the first half of 2023."
     publishedDateTime: 2023-08-08T04:07:00Z

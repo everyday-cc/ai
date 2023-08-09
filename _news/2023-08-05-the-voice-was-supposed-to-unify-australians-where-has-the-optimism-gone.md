@@ -57,6 +57,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Garma festival: Anthony Albanese pleads with Voice supporters to ‘convince’ dubious Australians"
+    excerpt: "Aboriginal and Torres Strait Islander readers are warned this story contains images and mentions of a deceased person."
+    publishedDateTime: 2023-08-04T12:30:00Z
+    webUrl: "https://www.news.com.au/finance/work/leaders/garma-festival-anthony-albanese-pleads-with-voice-supporters-to-convince-dubious-australians/news-story/0436b5392ac380b5b26f7aacec872a46"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 0
 
 secured: "BiiHS56bkoJzXJSrz8pNRvVTaILOdz4lhP4cXp2gYBou3zZba5m8Rmdn6m9fVwgmJCQ6j+LXeALxOpfflNipcfluBy0JgiGmlbOV/uSYVEaYV8WZPi4j7kizruSVrCDgTCEXWU+vqPDzGf4kgMLNuhSCLMvp/vOyBzsGfY5x+xvpHZwlNPwga22nXARFz3pZI76/msogpiMYfqhkmKy3HG/7vfI1KlZBxRFmoKSqaQXhwTChrYIOWUsPerJppZ0bnpnzZMEzeDMr572R33f59Mj9An4h/oeTuD828PH9h1MsiBaeLho3a5cGXeB3hxWjVpUpA11p+8AquA0fisqmHtrQkjrFqYLGKOjkqO9D/3SDzN9rFhe+m8mbixTYwR6AUbmxIPKx2N1Aa381Suvj/r0edh+6HlHZHqvxEaR5iaGVU5tuAF3ZC0lurMLOyngmkDUd4zcpxzsT6D8fNbComddo8TdkrwuO0MrNk+JWQnWd4bHcIuaFuHyVXrYmRdjOWNIVVBSdRnOlHFQp2kQ/ow==;Xj0w+jVnwL2PKUJyiKenHQ=="
 ---

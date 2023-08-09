@@ -42,6 +42,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Disney Forms Task Force to Explore Artificial Intelligence"
+    excerpt: "Disney has taken a significant step towards embracing artificial intelligence (AI) by creating a task force to investigate its potential applications across its wide-ranging businesses. The company is exploring the development of AI-based solutions both in-house and through collaboration with external experts."
+    publishedDateTime: 2023-08-09T00:38:00Z
+    webUrl: "https://www.cryptopolitan.com/disney-task-force-to-artificial-intelligence/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 39
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/msg-906142390-4958.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Disney sets up task force to explore AI applications"
     excerpt: "Disney has established a task force to explore artificial intelligence (AI) and its potential applications throughout the company"
     publishedDateTime: 2023-08-08T11:50:00Z
