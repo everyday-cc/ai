@@ -2,49 +2,6 @@
   "page": 60,
   "value": [
     {
-      "path": "_news/2023-06-29-ai-industrial-robotics-vietnam.md",
-      "title": "AI Industrial Robotics - Vietnam",
-      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$31.12m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.62%, resulting in a market volume of US$ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/vietnam",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/vietnam",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-29-natural-language-processing-vietnam.md",
       "title": "Natural Language Processing - Vietnam",
       "excerpt": "Value in the Natural Language Processing market is projected to reach US$51.03m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 18.21%, resulting in a market volume of ...",
@@ -1104,6 +1061,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-natural-language-processing-asean.md",
+      "title": "Natural Language Processing - ASEAN",
+      "excerpt": "Value in the Natural Language Processing market is projected to reach US$0.71bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 18.61%, resulting in a market volume of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/asean",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/asean",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

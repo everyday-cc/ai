@@ -89,15 +89,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Shutterstock Collaborates to Bring NeRF Generative AI Technology to 3D Creators Globally"
-    excerpt: "As a trusted partner, Shutterstock also collaborates with NVIDIA, Meta, OpenAI, LG and other leaders in the tech industry to develop foundational generative AI tools and standards for creators across 3D, images and text."
-    publishedDateTime: 2023-08-08T19:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861384.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
   - title: "NVIDIA, Global Workstation Manufacturers to Launch Powerful Systems for Generative AI and LLM Development, Content Creation, Data Science"
     excerpt: "The systems, including those from BOXX, Dell Technologies, HP and Lenovo, are based on NVIDIA RTX 6000 Ada Generation GPUs and incorporate NVIDIA AI Enterprise and NVIDIA Omniverse™ Enterprise software."
     publishedDateTime: 2023-08-08T17:35:00Z

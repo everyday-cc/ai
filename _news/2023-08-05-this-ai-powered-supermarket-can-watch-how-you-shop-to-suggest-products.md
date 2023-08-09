@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/this-ai-powered-supermarket-can-watch-h
 webUrl: "https://www.pcmag.com/news/this-ai-powered-supermarket-can-watch-how-you-shop-to-suggest-products"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: PC Magazine
@@ -26,22 +26,6 @@ images:
     width: 1120
     height: 630
     isCached: true
-
-related:
-  - title: "Google’s AI-powered search results may soon show citations"
-    excerpt: "These so-called AI Principles were also announced at I/O earlier this year and include seven points the search company is abiding by as it develops its artificial intelligence products. Number six, in particular, is most relevant to showing credit and citations for work quoted as it promises to “Uphold high standards of scientific excellence”."
-    publishedDateTime: 2023-08-04T09:20:00Z
-    webUrl: "https://www.tomsguide.com/news/googles-ai-powered-search-results-may-soon-show-citations"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/XZknHmYAum5gzrAZCEA9Pb-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "uXxoheTEkVTDoqKn+9JWAVpcLVaT9p/CrKqml+EUKwIk0NoEE6BH2tnf9UZOtArwZff/Gp8tvJKAcd3uPtHme8wI7ykjXyQgPxSPdOE3/foKnDBalKIqLJt5V00E17S7wQFLJkw3YXQLNtcVNBQEgf/7HmMnyWGyrUVlpODPHdjUUVO14SzMIEav7wzf8ZcJ8XxKXBoLalH7WpPxyHNG4eK9rAhWEoUqeRgDOREPPH9Arudx0bgrC7nABRCzBq0/PMSZtmFfev5/PTIQCvT5KllaB6DhjEGC0YBrdF4wLKXM1Q148aoPsWB/ctLITCLSiBCSVfVFWCGyazbglIPCieKieNcvWg9nLv3GrgE05LA=;RxKs7DevZ4n0bSC+5JHSJg=="
 ---

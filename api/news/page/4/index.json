@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-08-05-softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese.md",
-      "title": "SoftBank launches an OpenAI for Japan: SB Intuitions, building LLMs and generative AI in Japanese",
-      "excerpt": "SoftBank has a strategic alliance with Microsoft that will involve SoftBank providing a secure data environment for enterprises in Japan.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/",
-      "originalUrl": "https://techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1172366774.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/amp/",
-      "publishedDateTime": "2023-08-04T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-04-raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired.md",
       "title": "Raz Mobility has a new smartphone designed for the visually impaired",
       "excerpt": "Raz Mobility is out to change that with the introduction of the SmartVision 3, a smartphone designed specifically for the visually impaired. As the name implies, this isn't Raz's first foray into an accessible smartphone. But it is probably the best.",
@@ -1184,6 +1133,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-5-critical-steps-it-leaders-must-take-to-govern-generative-ai.md",
+      "title": "5 Critical Steps IT Leaders Must Take To Govern Generative AI",
+      "excerpt": "Generative AI adoption is only exacerbating governance challenges inside organizations. Here’s how IT leaders can exercise safe and responsible adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64cbf57aad78267fea960ea8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/amp/",
+      "publishedDateTime": "2023-08-03T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

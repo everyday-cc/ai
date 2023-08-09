@@ -1,0 +1,84 @@
+---
+category: news
+title: "Disney forms task force to study AI applications and cut costs amid Hollywood's writers and actors strike"
+excerpt: "Disney creates task force to study AI applications across its entertainment conglomerate amid Hollywood's battle with the technology."
+publishedDateTime: 2023-08-09T02:48:00Z
+originalUrl: "https://www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike-11691545538632.html"
+webUrl: "https://www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike-11691545538632.html"
+ampWebUrl: "https://www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike/amp-11691545538632.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike/amp-11691545538632.html"
+type: article
+quality: 42
+heat: -1
+published: false
+
+provider:
+  name: Mint
+  domain: livemint.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://www.livemint.com/lm-img/img/2023/08/09/600x338/disney_1691545679873_1691545680106.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+related:
+  - title: "Disney Is So Serious About Using AI it Created a Task Force"
+    excerpt: "Expect artificial intelligence and machine learning to be injected into every area of Disney's business—from movie production to theme parks."
+    publishedDateTime: 2023-08-08T15:20:00Z
+    webUrl: "https://www.pcmag.com/news/disney-is-so-serious-about-using-ai-it-created-a-task-force"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05xz3UGLjCX3ft8hSSpylGk-1.fit_lim.size_1200x630.v1691507474.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Focus: Disney creates task force to explore AI and cut costs -sources"
+    excerpt: "Walt Disney has created a task force to study artificial intelligence and how it can be applied across the entertainment conglomerate, even as Hollywood writers and actors battle to limit the industry's exploitation of the technology."
+    publishedDateTime: 2023-08-08T09:07:00Z
+    webUrl: "https://www.reuters.com/technology/disney-creates-task-force-explore-ai-cut-costs-sources-2023-08-08/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/p8BpMUM8j0AOd6lJJ-4005UBphg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KWTCYTVJCRIMPHR7UWZAZTFDTA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Disney Forms Task Force to Explore Artificial Intelligence"
+    excerpt: "Disney has taken a significant step towards embracing artificial intelligence (AI) by creating a task force to investigate its potential applications across its wide-ranging businesses. The company is exploring the development of AI-based solutions both in-house and through collaboration with external experts."
+    publishedDateTime: 2023-08-09T00:38:00Z
+    webUrl: "https://www.cryptopolitan.com/disney-task-force-to-artificial-intelligence/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 39
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/msg-906142390-4958.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "Disney sets up task force to explore AI applications"
+    excerpt: "Disney has established a task force to explore artificial intelligence (AI) and its potential applications throughout the company"
+    publishedDateTime: 2023-08-08T11:50:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/disney-creates-task-force-to-explore-ai-possibilities/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 19
+
+secured: "wG7/I8yNakK6B7OEqqDxNohoVHW1HaHCbLJqdklJxR3NA8vVNJo7iVtRblYEhTQbR4ruEwZs2znchUJxmXyl3L0n0zr1EvsdKzCLMJ4c9IVsvgjSJyJPfUvVF/FcL0MXWYtk3omqBeTJRtr/3Vo4JPHGLhWQ8dIrCErP00AWbfrfQmNWxafqd1aOhd6T9zhMbIt63nMlmi+Fmh1G350s6O9ppWKcyuomewYgCbTtBEONvnuvfxfhdq+ooBXIN6oaz9RNArDLoAyxOEutybF7mVAyMtgAyqSLEBD4rVlm5XcSfQCBUIVHrZpc13BGXuHRmmkDk3QQg6bx0m1woSEhr8g1AfjOag8/mri1O5iRfXk=;itQs66q8EX0PjNcATX9lqQ=="
+---
+

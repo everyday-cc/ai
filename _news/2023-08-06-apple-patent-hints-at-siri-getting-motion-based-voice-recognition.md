@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple could use motion tracking to boost Siri's voice recognition"
-    excerpt: "Apple has filed a patent application, called Keyword Detection Using Motion Sensing, that could enhance Siri's voice recognition capabilities"
-    publishedDateTime: 2023-08-04T10:36:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/apple-siri-could-be-trained-to-read-lips-patent-claims/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 24
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l71620230804153046.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Apple Hints At a Lip-Reading Siri To Revamp Speech Recognition"
     excerpt: "Apple has filed a patent named \"Keyword Detection Using Motion Sensing\", that aims to use lip-reading functions with its voice assistant Siri."
     publishedDateTime: 2023-08-06T13:30:00Z

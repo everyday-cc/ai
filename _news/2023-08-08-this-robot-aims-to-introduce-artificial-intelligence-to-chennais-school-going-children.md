@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/cities/chennai/this-robot-aims-to-intr
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece/amp/"
 type: article
 quality: 81
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Toyota, Pony.ai plan to mass produce robotaxis in China"
-    excerpt: "Toyota and partner Pony.ai are planning to mass produce robotaxis in China, setting up a venture this year which will build cars that"
-    publishedDateTime: 2023-08-04T09:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/08/04/toyota-pony-ai-plan-to/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ7307B-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Toyota, Pony.ai plan to mass produce robotaxis in China"
     excerpt: "Toyota and partner Pony.ai are planning to mass produce robotaxis in China, setting up a venture this year which will build cars that employ the startup's autonomous driving technology and ride-hailing services."
     publishedDateTime: 2023-08-04T19:51:00Z

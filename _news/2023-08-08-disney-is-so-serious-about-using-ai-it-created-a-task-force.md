@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/disney-is-so-serious-about-using-ai-it-
 webUrl: "https://www.pcmag.com/news/disney-is-so-serious-about-using-ai-it-created-a-task-force"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://www.reuters.com/resizer/p8BpMUM8j0AOd6lJJ-4005UBphg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KWTCYTVJCRIMPHR7UWZAZTFDTA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Disney forms task force to study AI applications and cut costs amid Hollywood's writers and actors strike"
+    excerpt: "Disney creates task force to study AI applications across its entertainment conglomerate amid Hollywood's battle with the technology."
+    publishedDateTime: 2023-08-09T02:48:00Z
+    webUrl: "https://www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike-11691545538632.html"
+    ampWebUrl: "https://www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike/amp-11691545538632.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/disney-forms-task-force-to-study-ai-applications-and-cut-costs-amid-hollywoods-writers-and-actors-strike/amp-11691545538632.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 42
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/09/600x338/disney_1691545679873_1691545680106.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Disney Forms Task Force to Explore Artificial Intelligence"
     excerpt: "Disney has taken a significant step towards embracing artificial intelligence (AI) by creating a task force to investigate its potential applications across its wide-ranging businesses. The company is exploring the development of AI-based solutions both in-house and through collaboration with external experts."

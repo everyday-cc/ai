@@ -21,14 +21,14 @@ topics:
 related:
   - title: "Older women’s breast cancer often overdiagnosed, study finds, raising risk of unnecessary treatment"
     excerpt: "A recently published study found that large numbers of American women ages 70 to 85 are potentially overdiagnosed with breast cancer and therefore could receive unnecessary treatment."
-    publishedDateTime: 2023-08-08T01:55:00Z
-    webUrl: "https://www.wjcl.com/article/older-women-breast-cancer-overdiagnosed/44755779"
-    ampWebUrl: "https://www.wjcl.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
-    cdnAmpWebUrl: "https://www-wjcl-com.cdn.ampproject.org/c/s/www.wjcl.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
+    publishedDateTime: 2023-08-08T00:55:00Z
+    webUrl: "https://www.wpbf.com/article/older-women-breast-cancer-overdiagnosed/44755779"
+    ampWebUrl: "https://www.wpbf.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
+    cdnAmpWebUrl: "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
     type: article
     provider:
-      name: WJCL
-      domain: wjcl.com
+      name: WPBF
+      domain: wpbf.com
     quality: 45
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbgwxzhpjcjmwmdfjmjzxatk4nge4nhl0-l19wywdlcy9jbgwxzhpjctywmdbymjzxatvoc3ljedjn-jpg-64d19acc2a43e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"

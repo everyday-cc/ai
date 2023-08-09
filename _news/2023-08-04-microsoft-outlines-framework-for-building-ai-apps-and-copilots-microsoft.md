@@ -49,6 +49,22 @@ related:
         width: 770
         height: 465
         isCached: true
+  - title: "Microsoft's red team has monitored AI since 2018. Here are five big insights"
+    excerpt: "Before the ChatGPT boom began, AI was already an impactful, emerging technology, and as a result, Microsoft assembled an AI red team in 2018. The AI red team is composed of interdisciplinary experts dedicated to investigating the risks of AI models by \"thinking like attackers\" and \"probing AI systems for failure,\" according to Microsoft ."
+    publishedDateTime: 2023-08-08T20:33:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-red-team-has-monitored-ai-since-2018-here-are-five-big-insights/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-red-team-has-monitored-ai-since-2018-here-are-five-big-insights/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-red-team-has-monitored-ai-since-2018-here-are-five-big-insights/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/763bb84fcad6688b66f6b6fd5b459b90ee56923e/2023/08/08/95297a9d-4d60-4295-862a-83762dbf6738/red-gettyimages-1175547284.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Leidos-Microsoft Partnership Is Latest Sign AI Is Taking The Defense Industry By Storm"
     excerpt: "Defense firms are vigorously pursuing use of artificial intelligence in their product offerings, but the challenges are different from those of civilian AI applications."
     publishedDateTime: 2023-08-07T16:08:00Z
@@ -193,20 +209,6 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2023/04/Chat-GPT-2-scaled.jpg"
         width: 2560
         height: 1334
-        isCached: true
-  - title: "Leidos Announces AI Collaboration With Microsoft"
-    excerpt: "The collaboration aims to accelerate artificial intelligence transformation for new and existing customers in the public sector."
-    publishedDateTime: 2023-08-04T10:41:00Z
-    webUrl: "https://www.hstoday.us/industry/industry-news/leidos-announces-ai-collaboration-with-microsoft/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 54
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/07/artificial-intelligence-4478109_1920.jpg"
-        width: 1920
-        height: 784
         isCached: true
   - title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
     excerpt: "Business Wire India HCLSoftware, a leading software provider, announced a collaboration with Microsoft to integrate Microsoft’s Azure OpenAI Serv"

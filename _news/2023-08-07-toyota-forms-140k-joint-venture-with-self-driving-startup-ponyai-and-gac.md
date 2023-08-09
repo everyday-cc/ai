@@ -39,20 +39,6 @@ related:
         width: 770
         height: 510
         isCached: true
-  - title: "Toyota, Pony.Ai to set up robotaxi JV with $139 million investment"
-    excerpt: "BEIJING (Reuters) -Autonomous vehicle technology startup Pony.Ai on Friday said it would set up a joint venture with Japan's Toyota Motor with an investment of 1 billion yuan ($139 million) to mass produce robotaxis."
-    publishedDateTime: 2023-08-04T09:37:00Z
-    webUrl: "https://www.aol.com/news/toyota-pony-ai-set-robotaxi-063702352.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/604cb3e2f2782414509103e7b40aef72"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Pony.ai, Toyota to deploy large-scale robotaxi network"
     excerpt: "In total, Pony.ai has a combined fleet of about 200 Toyota and Lexus brand robotaxis located in all four Chinese Tier-1 cities — Guangzhou, Beijing, Shanghai and Shenzhen — where they are road tested and are the public face of the company’s robotaxi services."
     publishedDateTime: 2023-08-08T12:54:00Z

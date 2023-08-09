@@ -44,20 +44,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Toyota, Pony.ai plan to mass produce robotaxis in China"
-    excerpt: "Toyota and partner Pony.ai are planning to mass produce robotaxis in China, setting up a venture this year which will build cars that"
-    publishedDateTime: 2023-08-04T09:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/08/04/toyota-pony-ai-plan-to/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ7307B-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "jhet2rYES3j9k5iBjWSpnyuxHAcsbX6gFG70MOKkB14T5b7ho13v5Tv4Hy3GVPsW0K2Dv+IbBrSEjvXbI52SsFwGnlcCgFrbrPwCHKDF7wOOeKWotRJZRV+G/QZTz8NEWbT3hz2S1yqKA9Dy/rbF1O+d7LLLhJ/jrtLq6D87MFSGIrHgV1ddaZOxoVbNfZdeSqEdLepImJ9Bb/0Iq7xvoRI92KC5VKI8aBteDQJ3YPpMlh4QmVjIfnHAoShCxc2Ck4/4o6GEtFx+ftC8qZAUW0Vevj9KdFPRPuuCScXX8r1fX4RlgknhdYJ/BXQnA07WqAVKha2tYhrLYd56gmDwHq8qEe3Ew57aCvxkJ35ak9/Gc9EoX2fFr6wiqsKH1KDRYoa+hOnZqrqAMHARmjIVx1XlitSXuHLfRBNlF2nj3P9OGtFY5M8ppQBnYH90zCQNAOrclH43M8bQLMoAwmBGAWZmk3/aT9yhoJ3oU8od7tzYWmUJFdUf/VQW96DeexzuSm56OI/TNXdxgaZHgj7HYQ==;JWspXRo6DlJteaxAPwihtQ=="
 ---

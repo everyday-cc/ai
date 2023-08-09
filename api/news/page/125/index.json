@@ -2,57 +2,6 @@
   "page": 125,
   "value": [
     {
-      "path": "_news/2023-05-18-elon-musk-is-right-we-need-to-regulate-ai-now.md",
-      "title": "Elon Musk Is Right: We Need to Regulate AI Now",
-      "excerpt": "We need to do something about artificial intelligence before it's too late. You probably heard some variation of that statement dozens of times in the years before ChatGPT. You've",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/elon-musk-is-right-we-need-to-regulate-ai-now/",
-      "originalUrl": "https://www.cnet.com/tech/elon-musk-is-right-we-need-to-regulate-ai-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/7881e2d7b68e0b07bd4dcf534260ca3af4f6cd1b/hub/2023/05/02/6a359d50-1e7a-4710-b994-d6b1ce857695/230501-yt-vs-chatgpt-bard-bing-v04.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/elon-musk-is-right-we-need-to-regulate-ai-now/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-is-right-we-need-to-regulate-ai-now/",
-      "publishedDateTime": "2023-05-17T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-18-machine-learning-vs-deep-learning.md",
       "title": "Machine Learning vs. Deep Learning",
       "excerpt": "Machine learning and deep learning are both core technologies of artificial intelligence. Yet there are key differences between them. Machine learning and deep learning are both core technologies of artificial intelligence. Yet there are key differences ...",
@@ -1194,6 +1143,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly.md",
+      "title": "Latest moves show Stability AI is fully committed to open source — well, mostly",
+      "excerpt": "Stability AI released StableStudio, the latest in a series of moves to highlight its bonafides during an open source AI boom.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/",
+      "originalUrl": "https://venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/image-6.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/amp/",
+      "publishedDateTime": "2023-05-17T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

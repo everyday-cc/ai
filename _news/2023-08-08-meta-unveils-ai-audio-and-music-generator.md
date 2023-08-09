@@ -24,22 +24,6 @@ images:
     height: 562
     isCached: true
 
-related:
-  - title: "Meta launches suite of generative AI music tools rivaling Google’s MusicLM"
-    excerpt: "According to the tech giant, as it continues to develop new controls for the Ai music tools it believes MusicGen can become a new type of instrument."
-    publishedDateTime: 2023-08-04T09:20:00Z
-    webUrl: "https://cointelegraph.com/news/meta-launches-suite-of-generative-ai-music-tools-rivaling-google-s-musiclm"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 37
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvNjg5YjhiYTctNDU1My00NzZkLWIyMDAtZmZlYTUyMzNjZDFkLmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-
 secured: "aGi6YO7LmKY8oFZlWCUfZZRz0GmD4ypOJAqngKCnOuBsVwAIR9NSUd92QBc8eMtz+Lh2ZsMDGNhhzuBSyzPvK06jr3JOE4GgeCawaBu+E4RhJaNMnB/ZlEs2HIPdfLmA1p1LA+xTULTcofg22ge4IMT/N8lNLvw3hlUt6beTO5Ng+MD+7LvMJDlCjNx8kbXRjqqH5kC2N/WUaYNyOGlzTpKKTSJaXI5TXFMMWxu/VBggYK0MMFf/qajZPb63Lcjju5YB0b7DCgM/2s8qkAOrkZ0lBFQv39fh9gaHeaQXFqpqP+/CMPrq6fxyoS9agaFvRBObG4OPP5y9YIpJYJAK/X0PsxJO02S4bpiaeoa1hSDAjhWkCkbZ8Vmfw+qU+ZVLHTdLol4//7Gol8qjc0VX8NyugVXfi2KH81v754TUpSJzwDCpYLcyYBeryl4U0eDn0ya3r4hOAD+K1DUkWTDRW5uQVmi1PGdXfv90z30y08cYfDcfdXb1BN6vGOGk0bvyZ5RZBJmcsxmBGFru5v99YQ==;g5hip9hgDws8AhHf04nLUg=="
 ---
 

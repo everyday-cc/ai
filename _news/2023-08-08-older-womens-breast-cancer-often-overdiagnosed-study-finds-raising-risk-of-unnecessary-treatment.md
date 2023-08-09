@@ -2,19 +2,19 @@
 category: news
 title: "Older women’s breast cancer often overdiagnosed, study finds, raising risk of unnecessary treatment"
 excerpt: "A recently published study found that large numbers of American women ages 70 to 85 are potentially overdiagnosed with breast cancer and therefore could receive unnecessary treatment."
-publishedDateTime: 2023-08-08T01:55:00Z
-originalUrl: "https://www.wjcl.com/article/older-women-breast-cancer-overdiagnosed/44755779"
-webUrl: "https://www.wjcl.com/article/older-women-breast-cancer-overdiagnosed/44755779"
-ampWebUrl: "https://www.wjcl.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
-cdnAmpWebUrl: "https://www-wjcl-com.cdn.ampproject.org/c/s/www.wjcl.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
+publishedDateTime: 2023-08-08T00:55:00Z
+originalUrl: "https://www.wpbf.com/article/older-women-breast-cancer-overdiagnosed/44755779"
+webUrl: "https://www.wpbf.com/article/older-women-breast-cancer-overdiagnosed/44755779"
+ampWebUrl: "https://www.wpbf.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
+cdnAmpWebUrl: "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/older-women-breast-cancer-overdiagnosed/44755779"
 type: article
 quality: 45
 heat: 45
 published: false
 
 provider:
-  name: WJCL
-  domain: wjcl.com
+  name: WPBF
+  domain: wpbf.com
 
 topics:
   - AI in Healthcare
@@ -37,6 +37,6 @@ related:
       domain: news-medical.net
     quality: 10
 
-secured: "pXOmCAwPpPKsdWNpscVGE09hbCdw8oMglcXvSlpsad3hXUk5FLoqAU+lNVdQmSZzaee1zWQYW3wDeYbEqP1pcV9gveqHktw/k1Jf+6Q2hzPKkjZRMfKC6M4atNFQy+vcBogCiG2AsYz3RcNAmR3Q0QpH+p3KKuxVXmAjHNKD+ltkNRsUGqrDPZEqQsEOsgL3kM5/jmAf3i79aw3b+o6nh8eW81+01GlgWxvKY6P01DEv/3kFNn6g/nCGM5ziO6wyMlu50wwZ5xuoZEnyFTuYDaFnZDp9/epYyJadh23yrfsR6JiuFe+WTl8y0JzXXqnpLzvhro0bXMt3XaPanyxsrMehwLqv7il8uo8H002gaKM=;EQSymhdkLQAkyJf8kI2t0w=="
+secured: "oNZXIvzoJpV1s56eDpYVRKfoWmmrRNYgIx7EFn5I9B6BBHaLOlHwltCpdbYIc+bltU/nV5x+Oc5CFvCLJVMmHLFDsMTnnINPIKWD25gy4OZwU57zhFzp9kyOpj9a8ZxdIBhCPSmPqr501umsomTM31aZj2HITylIyLeSTxYRqkMPiaZC7fMBHZqHQtVORi7cBs6g1BRBLEREyoZq1yzbqBNTJS/8UZoQwviP6hdPnWmTn3f8wrEpZJmKPNfavefXr2zZfTswvTbd/z2YnAzkRQt6lV4O3F9+icbcy9pnuLlkfsaGGILvNDshDDL7T/OsysY0x3mL0wh62g7TBetsRJMpGw3sZlDw3Mve0awAug8=;rrpZd8szbOD2+dqIBtksuA=="
 ---
 

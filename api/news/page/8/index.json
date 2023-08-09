@@ -2,57 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-08-02-generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations.md",
-      "title": "Generative AI services pulled from Apple App Store in China ahead of new regulations",
-      "excerpt": "China has imposed licensing requirements on other areas of the internet, such as video games, and it remains to be seen what criteria will be needed to obtain a generative AI license.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/",
-      "originalUrl": "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-641244694.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/",
-      "publishedDateTime": "2023-08-01T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-02-some-us-government-agencies-are-testing-out-ai-to-help-fulfill-public-records-requests.md",
       "title": "Some U.S. government agencies are testing out AI to help fulfill public records requests",
       "excerpt": "Open government and civil rights advocates warn that using AI to answer Freedom of Information Act requests may create new problems.",
@@ -1196,6 +1145,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-ai-and-college-admission-dont-autocomplete-your-application.md",
+      "title": "AI And College Admission: Don’t Autocomplete Your Application",
+      "excerpt": "Artificial intelligence has the potential, if used wisely, to serve as a powerful guide to traversing the path to college.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/",
+      "originalUrl": "https://www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c85a0699b262e39549763d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/amp/",
+      "publishedDateTime": "2023-08-01T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

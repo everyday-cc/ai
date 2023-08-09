@@ -2,49 +2,6 @@
   "page": 98,
   "value": [
     {
-      "path": "_news/2023-06-05-tsa-expands-controversial-facial-recognition-program.md",
-      "title": "TSA expands controversial facial recognition program",
-      "excerpt": "At 25 airports in the U.S. and Puerto Rico, the TSA is expanding a controversial digital identification program that uses facial recognition. This comes as the TSA and other divisions of Homeland ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/newyork/news/tsa-facial-recognition-program-airports-expands/",
-      "originalUrl": "https://www.cbsnews.com/newyork/news/tsa-facial-recognition-program-airports-expands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/05/3affcfd9-5415-4c0a-ad36-c70430eb2c34/thumbnail/1200x630/c0e2aa04e10814ca6a8433e8cf5505e3/facial.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/newyork/news/tsa-facial-recognition-program-airports-expands/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/tsa-facial-recognition-program-airports-expands/",
-      "publishedDateTime": "2023-06-05T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-05-winnai-announces-general-availability-ga-of-their-no-typing-crm-ai-tool-for-modern-sales-teams.md",
       "title": "Winn.AI Announces General Availability (GA) of Their 'No-Typing CRM' AI Tool for Modern Sales Teams",
       "excerpt": "Source: Winn.ai To view an enhanced version of this graphic, please visit:  In a 2023 report by Salesforce, sales representatives only spend 28% of their time selling, with 72% consumed by record keeping,",
@@ -1194,6 +1151,40 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-rishi-sunak-to-lobby-joe-biden-for-uk-leadership-role-in-ai-development.md",
+      "title": "Rishi Sunak to lobby Joe Biden for UK ‘leadership’ role in AI development",
+      "excerpt": "Rishi Sunak to lobby Joe Biden for UK ‘leadership’ role in AI development on facebook (opens in a new window) Rishi Sunak to lobby Joe Biden for UK ‘leadership’ role in AI development on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/7c30ea28-2895-44c2-9a2d-c31ea7fa27e7",
+      "originalUrl": "https://www.ft.com/content/7c30ea28-2895-44c2-9a2d-c31ea7fa27e7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

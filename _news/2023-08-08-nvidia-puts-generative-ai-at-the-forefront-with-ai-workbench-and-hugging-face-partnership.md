@@ -221,20 +221,6 @@ related:
         width: 480
         height: 299
         isCached: true
-  - title: "MIT Task Force Puts Forth Guidelines for Generative-AI Use in Legal Practice"
-    excerpt: "In response to the growing concerns surrounding the ethical use of artificial intelligence (AI) in the legal profession, law.MIT.edu has formed a Task Force dedicated to developing principles and guidelines for the responsible application of generative-AI in legal work."
-    publishedDateTime: 2023-08-04T09:28:00Z
-    webUrl: "https://www.cryptopolitan.com/mit-guidelines-generative-ai-legal-practice/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 36
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-04_12-48-46.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Artificial Intelligence Can’t Predict the Future"
     excerpt: "AI uses current data and history to make recommendations and can’t consider unexpected events, such as hurricanes, or changing realities, such as \"black swan\" events."
     publishedDateTime: 2023-08-08T18:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
-  - title: "Five things you really need to know about AI"
-    excerpt: "Watch the \"Five things you really need to know about AI\" video at BBC Ideas. Explore other related content via our curated \"The Open University\" playlist."
-    publishedDateTime: 2023-08-04T09:48:00Z
-    webUrl: "https://www.bbc.co.uk/ideas/videos/five-things-you-really-need-to-know-about-ai/p0g43t7c?playlist=made-in-partnership-with-the-open-university&autoplay=true"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/960x540/p0g4t28f.png"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Age of Generative AI: Ai Palette aiming to optimise food innovation and boost product launches"
     excerpt: "Singapore-based tech firm Ai Palette has developed a new tool called FoodGPT, which harnesses the power of generative AI and natural language processing to elevate data-backed innovations and increase the success rate of product launches."
     publishedDateTime: 2023-08-07T03:28:00Z

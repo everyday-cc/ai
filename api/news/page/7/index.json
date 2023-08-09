@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-08-02-inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters.md",
-      "title": "Inworld AI raises new round at $500M valuation for AI game characters",
-      "excerpt": "Hollywood’s portrayals of AI-controlled Terminator robots once seemed like pure science fiction ... You take engines and you start replicating, taking humans that are working on a factory line, and you replicate them with conveyor belts.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters/",
-      "originalUrl": "https://venturebeat.com/games/inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/inworld.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-02-while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish.md",
       "title": "While AMD Lags NVIDIA In Generative AI, CEO Lisa Su Is Bullish",
       "excerpt": "AMD stock is down 2% in early trading August 2 after disappointing guidance and a to-be-executed Generative AI strategy",
@@ -1195,6 +1143,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations.md",
+      "title": "Generative AI services pulled from Apple App Store in China ahead of new regulations",
+      "excerpt": "China has imposed licensing requirements on other areas of the internet, such as video games, and it remains to be seen what criteria will be needed to obtain a generative AI license.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/",
+      "originalUrl": "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-641244694.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/",
+      "publishedDateTime": "2023-08-01T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

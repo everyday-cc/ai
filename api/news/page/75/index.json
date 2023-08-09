@@ -2,49 +2,6 @@
   "page": 75,
   "value": [
     {
-      "path": "_news/2023-06-21-red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabilities-for-teal-2-military-grade-drone.md",
-      "title": "Red Cat and Athena AI announce breakthrough artificial intelligence and computer-vision capabilities for Teal 2 military-grade drone",
-      "excerpt": "Red Cat Holdings, Inc. (NASDAQ:RCAT) (\"Red Cat\" or the \"Company\"), a military technology company integrating robotic hardware and software to protect and support",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/g32932769/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabiliti",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/g32932769/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabiliti",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32932769",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32932769",
-      "publishedDateTime": "2023-06-20T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-21-college-will-start-new-courses-in-ai-and-ml.md",
       "title": "‘College will start new courses in AI and ML’",
       "excerpt": "ILS Law College Pune plans to introduce courses in artificial intelligence and machine learning for undergraduate and postgraduate students. The institute also runs a legal aid centre for the marginalised class in Maharashtra.",
@@ -1119,6 +1076,58 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-jack-mas-lieutenants-return-to-oversee-tough-alibaba-reboot.md",
+      "title": "Jack Ma’s Lieutenants Return to Oversee Tough Alibaba Reboot",
+      "excerpt": "In Baidu’s wake, Alibaba unfurled its own large language model dubbed Tongyi Qianwen. That might be key to ensuring the company name endures 102 years, as co-founder Ma once famously and repeatedly declared was his over-arching ambition.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6288353/alibaba-eddie-wu-joseph-tsai/",
+      "originalUrl": "https://time.com/6288353/alibaba-eddie-wu-joseph-tsai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

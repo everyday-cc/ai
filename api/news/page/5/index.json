@@ -2,57 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-08-04-5-critical-steps-it-leaders-must-take-to-govern-generative-ai.md",
-      "title": "5 Critical Steps IT Leaders Must Take To Govern Generative AI",
-      "excerpt": "Generative AI adoption is only exacerbating governance challenges inside organizations. Here’s how IT leaders can exercise safe and responsible adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64cbf57aad78267fea960ea8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/amp/",
-      "publishedDateTime": "2023-08-03T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-04-neuromorphic-chip-market-surges-as-ai-revolutionizes-computing-future-market-insights.md",
       "title": "Neuromorphic Chip Market Surges as AI Revolutionizes Computing – Future Market Insights",
       "excerpt": "Vertical (Aerospace & Defence, Automotive, Consumer Electronics, Healthcare, Industrial) & Region - Forecast to 2016 - 2026",
@@ -1206,6 +1155,49 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-samsung-in-a-bid-to-rival-nvidias-chip-dominance.md",
+      "title": "AI chip maker Tenstorrent raises $100 million from Hyundai, Samsung in a bid to rival Nvidia's chip dominance",
+      "excerpt": "Canadian startup Tenstorrent secures $100m in funding from Hyundai, Samsung, and Kia to challenge Nvidia's dominance in AI chip supply.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/ai/artificial-intelligence/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-samsung-kia-in-a-bid-to-rival-nvidias-chip-dominance-11691037638633.html",
+      "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-samsung-kia-in-a-bid-to-rival-nvidias-chip-dominance-11691037638633.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/08/03/600x338/newsroom-230801-1120x745_1691038355009_1691038367133.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/ai/artificial-intelligence/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-samsung-kia-in-a-bid-to-rival-nvidias-chip-dominance/amp-11691037638633.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-samsung-kia-in-a-bid-to-rival-nvidias-chip-dominance/amp-11691037638633.html",
+      "publishedDateTime": "2023-08-02T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

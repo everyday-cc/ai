@@ -97,15 +97,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Shutterstock Collaborates to Bring NeRF Generative AI Technology to 3D Creators Globally"
-    excerpt: "As a trusted partner, Shutterstock also collaborates with NVIDIA, Meta, OpenAI, LG and other leaders in the tech industry to develop foundational generative AI tools and standards for creators across 3D, images and text."
-    publishedDateTime: 2023-08-08T19:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861384.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
 
 secured: "iCfdHaUf8QtFn/I80lNRUg/9klaGRvcII2THSg8fymkXsrvj29k4d0O9RBHHTGknJ92nQnGnoi7U9GhOF0ZxQwg8nxSHHxFXXA3HoVFSMLOXrEmkChfU7+lEfyWuQ9UJAH08nkJ+yuLfFFx2p2WEZK3KUPv7ceIs6iD9YlTwb12v+rTg/0bkTVLWuNvfaZQQxpuaFG/qGSV/mh5+2wdNuc/LbC4p3vzykgFP4saNZNCkeudRPP6J8+UN/Xgeubn4a1DqECUgdGY8UE+QkXAQPLqMcoxePvxisG1XkiaeghSjEvISV9ui8Jlwv4gJJhTcW0QOqPBJhR6kuEoCEQr7rYPEB4cneQwbVR4ERE5Lkng=;RLQOmjZDLqHayn9IlcfGag=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.yicaiglobal.com/news/toyota-ponyai-team-up-on-robotaxi
 webUrl: "https://www.yicaiglobal.com/news/toyota-ponyai-team-up-on-robotaxis-with-usd140-million-jv"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota, Pony.Ai to set up robotaxi JV with $139 million investment"
-    excerpt: "BEIJING (Reuters) -Autonomous vehicle technology startup Pony.Ai on Friday said it would set up a joint venture with Japan's Toyota Motor with an investment of 1 billion yuan ($139 million) to mass produce robotaxis."
-    publishedDateTime: 2023-08-04T09:37:00Z
-    webUrl: "https://www.aol.com/news/toyota-pony-ai-set-robotaxi-063702352.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/604cb3e2f2782414509103e7b40aef72"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Toyota forms $140K joint venture with self-driving startup Pony.ai and GAC"
     excerpt: "Toyota announced on Friday a RMB 1 billion ($140,000) joint venture with self-driving car developer  and GAC-Toyota in the hope of"
     publishedDateTime: 2023-08-07T10:06:00Z

@@ -2,57 +2,6 @@
   "page": 158,
   "value": [
     {
-      "path": "_news/2023-04-30-ai-email-spam-is-headed-this-wayand-other-smb-tech-news-this-week.md",
-      "title": "AI Email Spam Is Headed This Way…And Other SMB Tech News This Week",
-      "excerpt": "Plus: Google makes new changes to its workplace platform and Yelp adds new capabilities to help consumers do better reviews.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/04/30/ai-email-spam-is-headed-this-wayand-other-smb-tech-news-this-week/",
-      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/04/30/ai-email-spam-is-headed-this-wayand-other-smb-tech-news-this-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644bbba7974791a4120d1575/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1942,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/04/30/ai-email-spam-is-headed-this-wayand-other-smb-tech-news-this-week/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/04/30/ai-email-spam-is-headed-this-wayand-other-smb-tech-news-this-week/amp/",
-      "publishedDateTime": "2023-04-30T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-30-4-tech-giants-mentioned-ai-a-total-of-168-times-on-earnings-calls-showing-just-how-much-attention-the-tech-is-attracting.md",
       "title": "4 tech giants mentioned AI a total of 168 times on earnings calls, showing just how much attention the tech is attracting",
       "excerpt": "Alphabet cited artificial intelligence the most often on its investor call last week, followed by Microsoft, Meta, and Amazon.",
@@ -1175,6 +1124,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-forget-ai-organoid-intelligence-may-soon-power-our-computers.md",
+      "title": "Forget AI; Organoid Intelligence May Soon Power Our Computers",
+      "excerpt": "While the world has been captivated by artificial intelligence, researchers at Johns Hopkins University have identified a new form of intelligence: organoid intelligence. A future where computers are powered by lab-grown brain cells may be closer than we could ever have imagined.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/04/28/forget-ai-organoid-intelligence-may-soon-power-our-computers/",
+      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/04/28/forget-ai-organoid-intelligence-may-soon-power-our-computers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644c371289d9c9fdb20d157b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/04/28/forget-ai-organoid-intelligence-may-soon-power-our-computers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/04/28/forget-ai-organoid-intelligence-may-soon-power-our-computers/amp/",
+      "publishedDateTime": "2023-04-28T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

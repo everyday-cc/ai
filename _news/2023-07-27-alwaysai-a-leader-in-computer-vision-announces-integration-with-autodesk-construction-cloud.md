@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.wkrn.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-    width: 396
-    height: 202
+  - url: "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2016/08/81e5444011ea410282b5bcd2bee64934_38691788_ver1.0.jpg?w=2000&#038;ssl=1"
+    width: 640
+    height: 360
     isCached: true
 
-secured: "fNlv+mAa9p6b3loUrEPOMFuNc0pc2Y33okaHG9i2yFlZWFL+4UEEc8is3LH+ttX1uuEchJ+0b6wzBT3qC4O0likaLGiPSKoN/zbVtb7RJm2rTBNv3YvaHqvIY9Jlv7ybFb68w2yTX/7U25xjimTTayKy7JiZzbzd6Mby679J5q0+sMLZyv4NKkTt8H1MSNYI8Etz8pR0ESPHE7metWryT8W45mGE+hUaDXCv5/0Q7+YjK8O+ZoTRGUBdnrzFg5A4cyR5CUGuhZ9jhrA8gqCL73Qq4YIn8SxlWsuzTRufITRcWGnGHGL9akgJ14ntBt7dBCxYcseF7/f7syHjRQbXsW7zEc0Oze223P7hJ+TWpoM=;CxmaNe3F9Om1ixR1YPer2A=="
+secured: "0MTK4DccaQshvmUb+m2+OYTJssQwPeUShkFupuKxG4ygboxQPnpljo1iis5Qq/ZaKaX6lW1TbVR3Vd0aLJNi9KFWrTXKPxeWqCP4ukv0Ov9sr4wGLcYrgrubLYD73H2DbCrb81kvltAvh9vcUWCuJb0IhIpeSrftI9/OvavdbdPqmnXD2F91XiRN4YkmtMZsNZntwLWPfQ1pi1uydyFMy30Ux82vbMdWBqqx52CFbiAZOqcsWNkUu0OXQhO7WKu0/6HkSyojlkcgzpCbgaQGfYUPDNMIsdzdN3U0fwCODEnw9NKr+ZXZq4BOY+ydRjTxHkAEK3VujnCoy4/AftkFE+fLHo4pG6NiHhT/qNJtoKg=;mcX5eStxeikslM2VXDP46g=="
 ---
 

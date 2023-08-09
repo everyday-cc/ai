@@ -92,6 +92,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "Nvidia launches new AI chip configuration"
+    excerpt: "Nvidia announced a new configuration on Tuesday for its advanced artificial intelligence chips that is designed to speed generative AI applications.The new version of the Grace Hopper Superchip boosts the amount of high-bandwidth memory,"
+    publishedDateTime: 2023-08-09T03:47:00Z
+    webUrl: "https://www.channelnewsasia.com/business/nvidia-launches-new-ai-chip-configuration-3686276"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--udSqSFYx--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-08-08t154702z_2_lynxmpej770lg_rtroptp_3_usa-semiconductors.jpg?itok=4INBC_n-"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Nvidia Unveils Faster Processor Aimed at Cementing AI Dominance"
     excerpt: "Nvidia Corp. announced an updated AI processor that gives a jolt to the chip’s capacity and speed, seeking to cement the company’s dominance in a burgeoning market."
     publishedDateTime: 2023-08-08T15:32:00Z

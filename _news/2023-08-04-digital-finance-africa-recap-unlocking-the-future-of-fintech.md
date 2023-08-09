@@ -33,6 +33,15 @@ related:
         width: 455
         height: 594
         isCached: true
+  - title: "The Positive Impact of Fintech in Serving The Underserved Community"
+    excerpt: "Access to financial services is a fundamental component of economic growth and social development. Unfortunately, a significant portion of the global population, particularly in emerging markets, rema"
+    publishedDateTime: 2023-08-09T02:30:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/270134"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 4
 
 secured: "In8kcSnjXBeL0H44qmuGOCnfNKB+t5j4xiBRWvMG4cL4pDtrqoc9FuL86kxx5whX1cFdJczu6qrbxwPaXIN6Ihq/4KjSDg0OJ6ztpe93jbzKSXK7Vx2XGNHrjyLsAyw83x/kIYb9S5fq4M2f1wGPtBN8t+xc+Dhg3w+WkYNIdgLKHj0dS5LSP6tNl+J7mvNCaScZfZm9JqbWBjRlbu/I3w7tw794YY9TK8D4XRPbcqLoI8DnXp6iJNDqTHwOgA5GNJI18YubTjRnUWpVUjvkbz74CQPb5zIFciRWbdeR6aX5vlCYHdRkv0IhJYDnhpTKeB479gp/ho7Sya6aY2A1QVnyip4g11Pu79m/CrHfbyI=;pHvKe3CR3pLgWUn7E/ibmA=="
 ---

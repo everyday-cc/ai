@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/will-ai-au
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/08/will-ai-augment-or-replace-workers/amp/"
 type: article
 quality: 89
-heat: 111
+heat: 109
 published: true
 
 provider:
