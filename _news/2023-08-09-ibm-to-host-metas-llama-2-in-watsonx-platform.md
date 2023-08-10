@@ -9,8 +9,8 @@ ampWebUrl: "https://www.teletrader.com/amp/news/details/60472097"
 cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/60472097"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: teletrader.com
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses"
-    excerpt: "(Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language program on its own enterprise AI platform, watsonx. IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients."
-    publishedDateTime: 2023-08-09T12:10:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "IBM to Make Llama 2 Available Within Its Watsonx AI and Data Platform"
     excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to host Meta's Llama"
     publishedDateTime: 2023-08-09T15:59:00Z
@@ -63,6 +54,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Llama__2-1920x720-1.jpg"
         width: 1920
         height: 720
+        isCached: true
+  - title: "IBM to launch Meta's Llama 2 on watsonx AI platform for businesses"
+    excerpt: "IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients. Since OpenAI's ChatGPT launch late last year stoked interest among consumers and enterprises,"
+    publishedDateTime: 2023-08-09T15:10:00Z
+    webUrl: "https://www.aol.com/news/ibm-launch-metas-llama-2-121027714.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/156e4e217325d45055536a0bc4c941cf"
+        width: 800
+        height: 534
         isCached: true
   - title: "IBM to make Meta’s Llama 2 available on Watson X"
     excerpt: "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,"

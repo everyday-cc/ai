@@ -41,6 +41,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Big Money For Big Tech: China has ordered $5bn worth of AI chips from NVIDIA, despite US ban"
+    excerpt: "Despite several sanctions on China, several tech companies in China are lining up to buy NVIDIA's AI Chips at a premium. The Chinese tech industry has placed an order worth $5 billion with NVIDIA for"
+    publishedDateTime: 2023-08-10T06:50:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/big-money-for-big-tech-china-has-ordered-5-billion-dollars-worth-of-ai-chips-from-nvidia-despite-us-ban-12980592.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/big-money-for-big-tech-china-has-ordered-5-billion-dollars-worth-of-ai-chips-from-nvidia-despite-us-ban-12980592.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/big-money-for-big-tech-china-has-ordered-5-billion-dollars-worth-of-ai-chips-from-nvidia-despite-us-ban-12980592.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 63
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Big-Money-For-Big-Tech-China-has-ordered-5bn-worth-of-AI-chips-from-NVIDIA-despite-US-ban.jpg"
+        width: 640
+        height: 362
+        isCached: true
+  - title: "Chinese Tech Firms Baidu, TikTok-owner ByteDance, Tencent, Alibaba Order Nvidia AI Chips Worth $5 Billion: Report"
+    excerpt: "The Chinese firms have made orders worth $1 billion to acquire about 100,000 A800 processors from the US chipmaker to be delivered this year."
+    publishedDateTime: 2023-08-10T05:21:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/china-baidu-bytedance-tiktok-tencent-alibaba-nvidia-ai-chips-tech-company-artificial-intelligence-4285377"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/china-baidu-bytedance-tiktok-tencent-alibaba-nvidia-ai-chips-tech-company-artificial-intelligence-4285377/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/china-baidu-bytedance-tiktok-tencent-alibaba-nvidia-ai-chips-tech-company-artificial-intelligence-4285377/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 53
+    images:
+      - url: "https://i.gadgets360cdn.com/large/nvidia_ai_chips_reuters_1691644360974.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "FT: China’s internet giants order US$5b of Nvidia chips to power AI ambitions"
     excerpt: "China’s internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems,"
     publishedDateTime: 2023-08-09T23:06:00Z

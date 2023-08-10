@@ -284,6 +284,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Microsoft, Aptos Labs team up to build new blockchain AI tools"
+    excerpt: "Microsoft predicts that AI will be infused into web3 solutions in a larger scale in the \"coming months and years.\""
+    publishedDateTime: 2023-08-10T06:56:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-aptos-labs-team-build-new-blockchain-ai-tools-1718393"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 54
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1716336/microsoft.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
     excerpt: "Business Wire India HCLSoftware, a leading software provider, announced a collaboration with Microsoft to integrate Microsoft’s Azure OpenAI Serv"
     publishedDateTime: 2023-08-08T04:57:00Z

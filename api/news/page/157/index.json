@@ -2,6 +2,152 @@
   "page": 157,
   "value": [
     {
+      "path": "_news/2023-05-02-why-cios-are-so-obsessed-with-the-cloud.md",
+      "title": "Why CIOs Are So Obsessed With The Cloud",
+      "excerpt": "Benefits such as increased efficiency, flexibility, scalability and security make the cloud an attractive proposition for CIOs. Evolutions in cloud technology (like edge computing and more sustainable \"green\" cloud) are only likely to further its appeal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623e01e2d7e01bab063bd76c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/amp/",
+      "publishedDateTime": "2023-05-02T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners.md",
+      "title": "Would you listen to AI-run radio? This station tested it out on listeners",
+      "excerpt": "A radio station recently did an experiment where AI took over for 13 hours of programming, featuring 'voice clones' and scripts written by ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
+      "originalUrl": "https://www.zdnet.com/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3490e98efc0b11aafa2caff9d66f54d8310ea2d4/2023/05/01/87dcdeeb-84b6-4aa5-b972-37e3636b8aa3/robot-radio.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
+      "publishedDateTime": "2023-05-02T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-machine-learning-model-sheds-light-on-how-brains-recognize-communication-sounds.md",
+      "title": "Machine learning model sheds light on how brains recognize communication sounds",
+      "excerpt": "In a paper published today in Communications Biology, auditory neuroscientists at the University of Pittsburgh describe a machine learning model that helps explain how the brain recognizes the meaning of communication sounds,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-05-machine-brains-communication.html",
+      "originalUrl": "https://phys.org/news/2023-05-machine-brains-communication.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-model-6.jpg",
+          "width": 1189,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-05-machine-brains-communication.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-machine-brains-communication.amp",
+      "publishedDateTime": "2023-05-02T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-floki-co-founder-joins-new-ai-crypto-token-based-on-elons-robot.md",
       "title": "Floki Co-Founder Joins New AI Crypto Token, based on Elon’s Robot",
       "excerpt": "Floki co-founder joins an innovative AI-based crypto token project, inspired by Elon Musk's advanced robotics. The collaboration aims to",
@@ -1064,161 +1210,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-the-godfather-of-ai-quit-google-and-says-he-now-regrets-his-role-creating-technology-that-poses-a-threat-to-humanity.md",
-      "title": "The 'Godfather of AI' quit Google — and says he now regrets his role creating technology that poses a threat to humanity",
-      "excerpt": "Employees who spoke with Bloomberg said they thought Google wasn't prioritizing AI ethics, and trying to develop the tech quickly to catch up to OpenAI's ChatGPT. Two employees tried to stop the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5",
-      "originalUrl": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/644fe1b9da6d7b0019bdca65?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5?amp",
-      "publishedDateTime": "2023-05-01T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-buy-this-not-that-battle-of-the-real-ai-stars.md",
-      "title": "Buy This, Not That: Battle of the ‘Real’ AI Stars",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Just a few years ago, AI and hyperintelligent machines were the sole province",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-this-not-that-ai-stars-1032279362",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-this-not-that-ai-stars-1032279362",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/05/picture4.png",
-          "width": 450,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-grammarlys-new-ai-tool-is-available-in-beta-now.md",
-      "title": "Grammarly's New AI Tool Is Available in Beta Now",
-      "excerpt": "Grammarly, the company behind the digital writing assistant of the same name, is expanding its artificial intelligence resources with a new generative AI tool called GrammarlyGo. The company said the new tool is intended to improve communication,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-is-available-in-beta-now/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-is-available-in-beta-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/e794683b92464d6ede33eb923ac1b8f19fc866b7/hub/2022/08/11/6499c375-fdb3-4574-a385-392a997b7a02/open-graph-image-newfunnel.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-available-in-beta-now/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-available-in-beta-now/",
-      "publishedDateTime": "2023-05-01T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

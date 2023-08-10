@@ -2,6 +2,151 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2023-05-29-i-took-a-trip-on-britains-first-driverless-bus-there-were-heart-stopping-moments-but-the-robots-are-coming.md",
+      "title": "I took a trip on Britain’s first driverless bus – there were heart-stopping moments but the robots are coming",
+      "excerpt": "Bristling with Artificial Intelligence software and hi-tech sensors ... is the vanguard of Britain’s coming driverless vehicle revolution. It is pitched as a safer alternative to human drivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.ie/tech/10791016/trip-britains-first-driverless-bus-edinburgh-robots/",
+      "originalUrl": "https://www.thesun.ie/tech/10791016/trip-britains-first-driverless-bus-edinburgh-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/05/stagecoachs-robobus-part-feature-rise-819905064.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.ie/tech/10791016/trip-britains-first-driverless-bus-edinburgh-robots/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/10791016/trip-britains-first-driverless-bus-edinburgh-robots/amp/",
+      "publishedDateTime": "2023-05-28T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Sun",
+        "domain": "thesun.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how.md",
+      "title": "Want To Prep For An Interview Using AI? This TikTok Video Shows You How",
+      "excerpt": "A TikTok video by a user named Hanna Goefft shows how easy it is to use AI to help you prepare for an interview. It’s a novel idea and actually seems to work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/",
+      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647372dbb65ff1df789811f3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/amp/",
+      "publishedDateTime": "2023-05-28T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-how-the-rise-of-generative-ai-could-kill-the-metaverse-or-save-it.md",
+      "title": "How the rise of generative AI could kill the metaverse — or save it",
+      "excerpt": "Will generative AI kill the metaverse? Maybe, maybe not. How their combination could build a dynamic digital future.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-the-rise-of-generative-ai-could-kill-the-metaverse-or-save-it/",
+      "originalUrl": "https://venturebeat.com/ai/how-the-rise-of-generative-ai-could-kill-the-metaverse-or-save-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_736eb19e-1e98-40fa-92cc-613825810f1f.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-28T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-28-ai-versus-machine-learning-whats-the-difference.md",
       "title": "AI Versus Machine Learning: What's The Difference?",
       "excerpt": "The key to developing such technology and best taking advantage of it, however, is in utilizing both AI and machine learning to the best of their increasingly substantial potential. Though the two ...",
@@ -978,125 +1123,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-regulators-take-aim-at-ai-to-protect-consumers-and-workers.md",
-      "title": "Regulators take aim at AI to protect consumers and workers",
-      "excerpt": "AI also affects hiring, housing and working conditions. Ben Winters, Senior Counsel for the Electronic Privacy Information Center, said a joint statement on enforcement released by federal agencies last month was a positive first step.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers",
-      "originalUrl": "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ocregister.com/wp-content/uploads/2023/05/OCR-Z-BOFA-SVB-0316.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/",
-      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/",
-      "publishedDateTime": "2023-05-26T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orange County Register",
-        "domain": "ocregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-deep-ink-daniel-sprong.md",
-      "title": "Deep Ink: Daniel Sprong",
-      "excerpt": "Daniel Sprong knew he wanted to get tattoos as early as age 18, but he also knew he should probably clear the idea with his family first. So he sought out permission from mom and dad. \"They said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhl.com/kraken/news/deep-ink-daniel-sprong/c-344601470",
-      "originalUrl": "https://www.nhl.com/kraken/news/deep-ink-daniel-sprong/c-344601470",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Hockey League",
-        "domain": "nhl.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems.md",
-      "title": "Opinion: Stop the robot takeover: How AI advancement can pose problems",
-      "excerpt": "Pospisil explains that most jobs robots will take over are automated. They still cannot compare to a human’s ability to adapt or critical thinking skills in more specialized jobs not having to do with Ford production. In short, they won’t replace us in the job market because they’re missing a human element.",
-      "sourceUrl": null,
-      "webUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
-      "originalUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/01/Screenshot-2023-01-28-11.17.25-PM.png?fit=361%2C240&ssl=1",
-          "width": 361,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
-      "cdnAmpWebUrl": "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
-      "publishedDateTime": "2023-05-26T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,151 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-06-01-driverless-trucks-on-california-highways-legislators-dont-trust-the-dmv-to-ensure-safety.md",
+      "title": "Driverless trucks on California highways? Legislators don’t trust the DMV to ensure safety",
+      "excerpt": "as human drivers of commercial vehicles face replacement by computer systems programmed with artificial intelligence. The Legislature handed driverless vehicle regulation to the DMV when it passed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2023-06-01/driverless-trucks-california-dmv-mistrust-safety-regulations",
+      "originalUrl": "https://www.latimes.com/business/story/2023-06-01/driverless-trucks-california-dmv-mistrust-safety-regulations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/bf490a0/2147483647/strip/true/crop/4000x2100+0+285/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2Ff4%2F617488cf40c1ba6d2446e1b2c82a%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F492682174",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson.md",
+      "title": "How Krista Software helped Zimperium speed development and reduce costs with IBM Watson",
+      "excerpt": "Successful businesses are embracing the power of AI to help streamline operations, generate insights, boost productivity and drive more value for clients. However, for many enterprises, the barrier to entry for integrating trustworthy, scalable and transparent AI remains high. In fact, 80% of enterprise",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson/",
+      "originalUrl": "https://www.ibm.com/blog/how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/How-Krista-Software-helped-Zimperium-speed-development-and-reduce-costs-with-IBM-Watson-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-secs-climate-disclosure-rule-proposal-explained.md",
+      "title": "SEC’s climate disclosure rule proposal explained",
+      "excerpt": "The Securities and Exchange Commission&#160;(SEC) has issued a&#160;rule proposal&#160;to standardize the way organizations make climate-related disclosures. The rule proposal would require US publicly traded companies to disclose annually how their businesses are assessing, measuring and managing climate-related",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/sec-climate-disclosure-rule-proposal-explained/",
+      "originalUrl": "https://www.ibm.com/blog/sec-climate-disclosure-rule-proposal-explained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2022/12/084be9dd-1ef7-44a5-90e2b077523b9adb.xlr.jpg",
+          "width": 3168,
+          "height": 1584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-deep-rock-galactic-makes-u-turn-with-new-cosmetic-dlc.md",
       "title": "Deep Rock Galactic makes U-turn with new cosmetic DLC",
       "excerpt": "Ghost Ship Games, the indie game developer behind the renowned Deep Rock Galactic, has proven that its team listens to players. After the announcement of the new Decontaminator Pack, a cosmetic ...",
@@ -1016,136 +1161,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-andrea-motley-crabtree-armys-first-female-deep-sea-diver-reflects-on-her-accomplishments.md",
-      "title": "Andrea Motley Crabtree, Army's first female deep-sea diver, reflects on her accomplishments",
-      "excerpt": "New York City — In 1982, now retired Master Sgt. Andrea Motley Crabtree became the U.S. Army's first female deep-sea diver, and the first Black female deep-sea diver across all U.S. military ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/andrea-motley-crabtree-army-military-first-female-black-deep-sea-diver/",
-      "originalUrl": "https://www.cbsnews.com/news/andrea-motley-crabtree-army-military-first-female-black-deep-sea-diver/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T19:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-nvidias-ceo-plans-trip-to-meet-chinese-tech-executives-despite-us-curbs-on-ai-chips.md",
-      "title": "Nvidia’s CEO plans trip to meet Chinese tech executives despite US curbs on AI chips",
-      "excerpt": "Nvidia CEO Jensen Huang is heading to China to meet with executives from Tencent, ByteDance and EV makers Li Auto and BYD, despite rising tensions between Washington and Beijing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/01/bdb2ca71-bbb4-46b6-8dc5-afceee3cce14_a868d5fc.jpg?itok=qKnSkKzI&v=1685586767",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips",
-      "publishedDateTime": "2023-05-31T19:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use.md",
-      "title": "Singapore's Central Bank Partners With Google to Explore AI for Internal Use",
-      "excerpt": "The Central Bank of Singapore is partnering with Google’s cloud unit to explore potential internal use cases of the burgeoning artificial intelligence (AI) space and advance the development of innovative technologies in the Asian hub,",
-      "sourceUrl": null,
-      "webUrl": "https://247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/",
-      "originalUrl": "https://247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2020/04/imageForEntry16-Xbo.jpg?w=400",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/amp/",
-      "publishedDateTime": "2023-05-31T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "Google AI"
       ]
     }
   ],

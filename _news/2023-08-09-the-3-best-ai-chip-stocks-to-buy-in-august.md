@@ -37,6 +37,22 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Investing in Artificial Intelligence Stocks: Things You Have to Know"
+    excerpt: "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have."
+    publishedDateTime: 2023-08-10T05:15:00Z
+    webUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html"
+    ampWebUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 61
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Are AI partners a threat to women's rights?"
     excerpt: "Chatbot apps like Replika, Character.AI and Soulmate are part of the fast-growing generative AI companion market, where users customise everything about their virtual partners, from appearance and personality to sexual desires."
     publishedDateTime: 2023-08-07T05:16:00Z
@@ -52,22 +68,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62088,msid-102489662/companion-chatbots.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Investing in Artificial Intelligence Stocks: Things You Have to Know"
-    excerpt: "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have."
-    publishedDateTime: 2023-08-10T05:15:00Z
-    webUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html"
-    ampWebUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
-        width: 600
-        height: 338
         isCached: true
   - title: "2 AI Stocks to Sell and 2 to Buy Instead"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors should expect a steep selloff among artificial intelligence stocks,"

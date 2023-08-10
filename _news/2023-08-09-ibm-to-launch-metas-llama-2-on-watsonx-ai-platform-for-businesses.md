@@ -1,26 +1,28 @@
 ---
 category: news
-title: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses"
-excerpt: "(Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language program on its own enterprise AI platform, watsonx. IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients."
-publishedDateTime: 2023-08-09T12:10:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
+title: "IBM to launch Meta's Llama 2 on watsonx AI platform for businesses"
+excerpt: "IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients. Since OpenAI's ChatGPT launch late last year stoked interest among consumers and enterprises,"
+publishedDateTime: 2023-08-09T15:10:00Z
+originalUrl: "https://www.aol.com/news/ibm-launch-metas-llama-2-121027714.html"
+webUrl: "https://www.aol.com/news/ibm-launch-metas-llama-2-121027714.html"
 type: article
-quality: 64
-heat: 124
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
-  - IBM AI
+  - Microsoft AI
   - AI
+
+images:
+  - url: "https://media.zenfs.com/en/aol_reuters_29/156e4e217325d45055536a0bc4c941cf"
+    width: 800
+    height: 534
+    isCached: true
 
 related:
   - title: "IBM to host Meta's Llama 2 in Watsonx platform"
@@ -95,6 +97,6 @@ related:
       domain: prnewswire.co.uk
     quality: 32
 
-secured: "f7wXyHR9yfgXuHBH9rGPKi713/KGnrqi2ygcrI2Ue3TBUhbbKnHTfn8U8DH7pn/wrL+BDXVkP852rrpYtgE/tb4uC8Cwuf0S9U86cRzMRNUu5xELt7jVOvBLGMSgwEv6u8vt2uZeN6S7Nzg//tcSNzWx4tPDtQT7dOJSR8JARssQEBGf3CO0zIypKSqTImyzhSLEQzT/jnCVvYZCDQLVShW4zMpgvas1lQM3sLGbtn2es0sbb1tizkPFCOYPnvu9PJIAXWmiGpW4cauOnyXXM5mW0u7v8pNIYldbP8YPk9OptAWPQbC5y+PC/LGdcE6fuP0DXKC2nHeXJJpME32sCw/Suuw9/wU45V2/49/nLbQ6Qe/tziFEpiD+55iImhunAE0xoFsdIPHj0zImoIeXThmavOVjIP//ForNA5AEYHlk6y7NSWckz1HG+87jSneZEgjfmnjcgb+5pMgrMqiGDYPx+FQG0JTO59CsVnyfrT3Ikp/LH2J6oFdUsqGGdu6p6t/FoDh+RBvIvYCeZMkwdw==;QUCDkgGhWbKnF8FZUNzgUQ=="
+secured: "wSR+5q6S0CpbAEQVuUqjua7A+I5Xt+mdlSCayjS2fiVineASWZn+PZMJVeRfrHksuvI1xXPlETLepq9+MR+dTY9L/sA99eCxT9kCm3ROo13lLluebvn15+vhBz1lw3BVrTsVhRhRgcyCB3bVPYD662KrbXb3YheLo33N9o1FBdD5WcrI2Xq5ZZi4Uzw8b22sG6R2zT/QfR5NJOTsxc8/VHnYzdWA8WQQcoRE0+N/tncOD0yuGYCd++VvLU8k833yOJpIxBzmxPDVGLAh9zrXbN1xAAoMaepHsqp3W1uxui3rXWStS6C/O6/8MycjRxTUkDU9n4bsMaXj3NAz0Mzz2uo6UvAvc8ZU/ylv3r3Wklc=;kt4CPuo34eP/nn9Z1TvRUA=="
 ---
 

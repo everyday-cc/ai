@@ -2,6 +2,160 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-07-13-artificial-intelligence-powers-a-new-era-in-construction.md",
+      "title": "Artificial Intelligence Powers A New Era In Construction",
+      "excerpt": "Exploring the transformative role of Artificial Intelligence in reshaping construction processes, from enhancing operational efficiency to improving on-site safety.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/",
+      "originalUrl": "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64aeea4ea7246c2a9be9bcff/0x0.jpg?format=jpg&width=1200",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/amp/",
+      "publishedDateTime": "2023-07-12T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe.md",
+      "title": "Elon Musk wants to build AI to ‘understand the true nature of the universe’",
+      "excerpt": "Twitter CEO Elon Musk is founding an organization, xAI, to build AI to \"understand the true nature of the universe.\"",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/",
+      "originalUrl": "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1258742140.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/",
+      "publishedDateTime": "2023-07-12T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-how-to-use-ai-in-professional-services-with-shamus-rae.md",
+      "title": "How To Use AI In Professional Services. With Shamus Rae",
+      "excerpt": "Since the arrival of generative AI, it looks like white-collar jobs will be impacted before blue-collar ones. Jobs like accounting, management consulting, and the law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2023/07/12/how-to-use-ai-in-professional-services-with-shamus-rae/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/07/12/how-to-use-ai-in-professional-services-with-shamus-rae/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ae6515822efcb616e9bcfd/0x0.jpg?format=jpg&width=1200",
+          "width": 987,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/07/12/how-to-use-ai-in-professional-services-with-shamus-rae/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/07/12/how-to-use-ai-in-professional-services-with-shamus-rae/amp/",
+      "publishedDateTime": "2023-07-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-ibm-launches-new-watsonx-foundation-models-for-enterprise.md",
       "title": "IBM Launches New WatsonX Foundation Models for Enterprise",
       "excerpt": "With the launch of watsonx.ai and watsonx.data, IBM is kicking off a platform-based approach to generative AI workbenches.",
@@ -1046,126 +1200,6 @@
       "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-prime-day-deals-laptops-computers-2023-amazon-2023-07-12/",
       "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-prime-day-deals-laptops-computers-2023-amazon-2023-07-12/",
       "publishedDateTime": "2023-07-12T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-and-countering-chinese-deepfakes.md",
-      "title": "Fox News Artificial Intelligence Newsletter: AI Air Force wingman and countering Chinese deepfakes",
-      "excerpt": "HERE TO STAY': The Air Force is training artificial intelligence to operate drones and other aircraft and act as wingmen to pilots in the future. Experimentation lead Matthew \"Rico\" Niemiec stated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes",
-      "originalUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data.md",
-      "title": "Enterprises need generative AI tailored to their unique needs, with their own unique data",
-      "excerpt": "Learn why enterprises need generative AI, and how IBM watsonx offers a seamless, efficient, and governed approach to their AI deployment.\nThe post Enterprises need generative AI tailored to their unique needs, with their own unique data appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data/",
-      "originalUrl": "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-best-amazon-prime-day-2023-deals-under-25.md",
-      "title": "Best Amazon Prime Day 2023 deals under $25",
-      "excerpt": "Ahead, the best Amazon Prime Day 2023 deals under $25. Find savings on protein powder, face wash, toys and more. Find prices reduced on favorite brands, from Olaplex to Orgain. Be sure to shop now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/the-best-amazon-prime-day-2023-deals-under-25/",
-      "originalUrl": "https://www.cbsnews.com/essentials/the-best-amazon-prime-day-2023-deals-under-25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T04:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBS News",

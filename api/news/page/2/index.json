@@ -2,29 +2,29 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-08-09-ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses.md",
-      "title": "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses",
-      "excerpt": "(Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language program on its own enterprise AI platform, watsonx. IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients.",
+      "path": "_news/2023-08-09-debunking-observability-myths-part-3-why-observability-works-in-every-environment-not-just-large-scale-systems.md",
+      "title": "Debunking observability myths – Part 3: Why observability works in every environment, not just large-scale systems",
+      "excerpt": "In this article, we'll tackle the common myth that observability is only relevant and beneficial for large-scale systems or complex architectures. \nThe post Debunking observability myths – Part 3: Why observability works in every environment, not just large-scale systems appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses",
+      "webUrl": "https://www.ibm.com/blog/debunking-observability-myths-part-3-why-observability-works-in-every-environment-not-just-large-scale-systems/",
+      "originalUrl": "https://www.ibm.com/blog/debunking-observability-myths-part-3-why-observability-works-in-every-environment-not-just-large-scale-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 70,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T05:10:00-07:00",
+      "publishedDateTime": "2023-08-09T06:11:02-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "IBM",
+        "domain": "ibm.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -40,7 +40,91 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-connecting-ibm-vpc-to-ibm-power-virtual-servers-and-ibm-cloud-object-storage.md",
+      "title": "Connecting IBM VPC to IBM Power Virtual Servers and IBM Cloud Object Storage",
+      "excerpt": "Create a secure, robust cloud computing environment on IBM Cloud by connecting IBM VPC to PowerVS and IBM COS.\nThe post Connecting IBM VPC to IBM Power Virtual Servers and IBM Cloud Object Storage appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/connecting-ibm-vpc-to-ibm-power-virtual-servers-and-ibm-cloud-object-storage/",
+      "originalUrl": "https://www.ibm.com/blog/connecting-ibm-vpc-to-ibm-power-virtual-servers-and-ibm-cloud-object-storage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-09T06:08:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-microsoft-and-aptos-labs-collaborate-on-new-ai-blockchain-solutions.md",
+      "title": "Microsoft and Aptos Labs Collaborate on New AI Blockchain Solutions",
+      "excerpt": "Aptos, a reincarnation of Facebook's Diem blockchain, is integrating Microsoft's AI infrastructure to support users and developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/",
+      "originalUrl": "https://www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coindesk.com/resizer/1DEM2RqjH1pG3nYo6lWlfiU0SLI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/F6BDLOKG2VBU3BHACLZ4YOFZ2M.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/?outputType=amp",
+      "publishedDateTime": "2023-08-09T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinDesk",
+        "domain": "coindesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -923,7 +1007,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 374,
+      "heat": 384,
       "tags": null,
       "images": [
         {
@@ -1100,101 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training.md",
-      "title": "Nvidia teams up with Hugging Face to offer cloud-based AI training",
-      "excerpt": "Nvidia is partnering with Hugging Face, the AI startup, to expand access to AI compute. Timed to coincide with the annual SIGGRAPH conference this week, Nvidia announced that it’ll support a new Hugging Face service, called Training Cluster as a Service ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/",
-      "originalUrl": "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/",
-      "publishedDateTime": "2023-08-08T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-neobank-albo-acquires-deltai-to-expand-fintech-product-offering-strengthen-presence-in-mexico.md",
-      "title": "Neobank albo Acquires delt.ai to Expand Fintech Product Offering, Strengthen Presence in Mexico",
-      "excerpt": "delt.ai is a Y-Combinator Fintech company “with experience in the Mexican market, specializing in financial services and management tools for SMBs.” Its product portfolio reportedly “includes business loans, credit cards, and a financial platform for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/08/211196-neobank-albo-acquires-delt-ai-to-expand-fintech-product-offering-strengthen-presence-in-mexico/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/08/211196-neobank-albo-acquires-delt-ai-to-expand-fintech-product-offering-strengthen-presence-in-mexico/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2016/04/Snarling-Jaguar-Mexico.jpg",
-          "width": 650,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/08/211196-neobank-albo-acquires-delt-ai-to-expand-fintech-product-offering-strengthen-presence-in-mexico/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/08/211196-neobank-albo-acquires-delt-ai-to-expand-fintech-product-offering-strengthen-presence-in-mexico/amp/",
-      "publishedDateTime": "2023-08-08T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

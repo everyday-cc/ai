@@ -115,6 +115,20 @@ related:
         width: 700
         height: 449
         isCached: true
+  - title: "Tel Aviv Hospital First Ever To Use AI Intake Including ChatGPT"
+    excerpt: "Sourasky is the first hospital in the world to integrate an AI chatbot into its triage process, using the tool from Israeli startup Kahun"
+    publishedDateTime: 2023-08-10T06:10:00Z
+    webUrl: "https://nocamels.com/2023/08/tel-aviv-hospital-first-ever-to-use-ai-including-chatgpt-triage/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/08/ic-edited.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Lack of doctor readiness for ChatGPT integration in medicine"
     excerpt: "Clinical decision support algorithms can be enormously helpful in helping guide health care providers in determining which antibiotics to prescribe."
     publishedDateTime: 2023-08-07T10:03:00Z

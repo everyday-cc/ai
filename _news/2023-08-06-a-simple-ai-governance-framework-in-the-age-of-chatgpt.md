@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-add-ChatGPT-to-Visual-Code-Studio.jpg"
         width: 700
         height: 449
+        isCached: true
+  - title: "Tel Aviv Hospital First Ever To Use AI Intake Including ChatGPT"
+    excerpt: "Sourasky is the first hospital in the world to integrate an AI chatbot into its triage process, using the tool from Israeli startup Kahun"
+    publishedDateTime: 2023-08-10T06:10:00Z
+    webUrl: "https://nocamels.com/2023/08/tel-aviv-hospital-first-ever-to-use-ai-including-chatgpt-triage/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/08/ic-edited.jpg"
+        width: 1000
+        height: 562
         isCached: true
   - title: "Lack of doctor readiness for ChatGPT integration in medicine"
     excerpt: "Clinical decision support algorithms can be enormously helpful in helping guide health care providers in determining which antibiotics to prescribe."

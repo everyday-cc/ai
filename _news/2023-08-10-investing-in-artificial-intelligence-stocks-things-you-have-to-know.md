@@ -8,7 +8,7 @@ webUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artifici
 ampWebUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
@@ -76,6 +77,6 @@ related:
       domain: businessinsider.com
     quality: 47
 
-secured: "4eB5wuWBE+ZW+90KaaMQiqmFs4yw6V7t8KnHBOEn8Q8h3ojKvqHaVEWuiy2LGyDWzcvgtZcL9JSdFgzHY8hjgCXxrE9ugQKxzcPYgoEJgV5dIaAr2GHJ62KiGmTx4Mymr/OsMv//c3mTjv3CIihVOwbdJFar6nB7/Ej1j7C/jzmSwSx2Fbe6Gcfs2A6jgsOlUeLeM6qSslnpufCadfPTPeBETQ36Xtc8b+yhTD4KoIyajdsomgoale/UxbNJs0wnf+tbL4sDWFMJdrBhoWqpG7B+SM5HUFYTr53E32jCvYLSyjsHTcdI9T0faUwgh0wplGJtpkzZHIg7YWwmis0cqeSN9lBQObRbLczI4quYrUE=;9fxMc23GIznumb6YdaftAQ=="
+secured: "XY8FrSDMHmhjjOaRsBVJrmrAUNx8NXFlMjXc7fkq+2i7MtWHJE18WGVgjKsrzkZOY7taBYX1ufvh/A08LfbPGFrrGbU+9glRLU30NCPpToOtntUrmZNoeix6oaQNZdSluzJcFY5i5yYlcnqKfiu1jdZXE/oR2gyAVZXc7ZgRe/ASj5DeG3WwlQuIIjQW+xGrFFhNkeXaLMc3ElBGCyzpchBA7pIKwGZbUVVKmRbbM+exRWLZZhoPBzhVpi7iPYXfxKj/Fnd50uo6qF4+JHbz20idei5zWEAfUJ8GxZWAkzTjdXOV97tx1T5wdzxfiqIsUqColf09gvuTe9PTwk94B5dRf35yg6vvaK6erEj+LzAZ6LhkdbcNbwyQznZoMkz3sGPzkA+0NBYRj66VQa/sDsv15Y/Z5XOBFolIj1c8Y6+zYbiaQz54hHHRcI8GwL0cmGFtXElFEYwtXh10/yyYG2aN59y65anVmAnmMe8DIOkp9ua+Q/SigHWTy+8Y63nHylvtZ8CIXIvya1dh0dHmGA==;xCikU3W/qKLKvIBl5YidZw=="
 ---
 

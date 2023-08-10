@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Aptos token rises 11.6% after Microsoft deal to marry AI with blockchain"
+    excerpt: "The price of Aptos — the token powering the Aptos Network — rocketed more than 11% after Aptos Labs announced a new partnership with Microsoft."
+    publishedDateTime: 2023-08-10T02:23:00Z
+    webUrl: "https://cointelegraph.com/news/aptos-token-surges-after-partner-microsoft"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 53
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMmEwOTIwOWItZDk5My00MWUxLTgwZmMtMGI0OTZmOWE3ZGJlLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Aptos Price Prediction as Microsoft Partners with Aptos on New AI Blockchain Products – Can APT Reach $100?"
     excerpt: "Aptos (APT) jumped on Wednesday on the news of the Microsoft AI partnership, but could have a long way to run to the upside yet."
     publishedDateTime: 2023-08-09T17:40:00Z

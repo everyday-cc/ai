@@ -60,7 +60,7 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
         width: 600

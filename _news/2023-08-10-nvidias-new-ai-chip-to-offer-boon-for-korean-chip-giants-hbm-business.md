@@ -172,6 +172,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
+  - title: "Chinese tech giants place $5 billion orders with Nvidia for generative AI chips"
+    excerpt: "China’s tech giants, including Baidu, ByteDance, Tencent, and Alibaba, have initiated orders with Nvidia for $5 billion worth of chips to construct"
+    publishedDateTime: 2023-08-10T07:22:00Z
+    webUrl: "https://technode.com/2023/08/10/chinese-tech-giants-place-5-billion-orders-with-nvidia-for-generative-ai-chips/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 50
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/08/142394325_l_normal_none-scaled.jpg"
+        width: 2560
+        height: 1680
+        isCached: true
   - title: "Nvidia Unveils Faster Processor Aimed at Cementing AI Dominance"
     excerpt: "Nvidia Corp. announced an updated AI processor that gives a jolt to the chip’s capacity and speed, seeking to cement the company’s dominance in a burgeoning market."
     publishedDateTime: 2023-08-08T15:32:00Z
@@ -194,6 +208,20 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/sites/headlinestoday/resources/images/headlinestoday_fb.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Nvidia Unveils New AI Chip with Potential to Reduce Costs of Running Large Language Models"
+    excerpt: "In a move aimed at maintaining its supremacy in the AI hardware sector, Nvidia has introduced a groundbreaking AI chip, the GH200, designed to optimize artificial intelligence models. As rivals such as AMD,"
+    publishedDateTime: 2023-08-10T07:37:00Z
+    webUrl: "https://www.cryptopolitan.com/nvidia-unveils-new-ai-chip/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 44
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-10_10-41-45.jpg"
+        width: 1024
+        height: 1024
         isCached: true
   - title: "Nvidia debuts upgraded GH200 Grace Hopper chip with high-speed memory"
     excerpt: "According to Nvidia, the new edition of the GH200 is the world’s first processor to include HBM3e memory. That’s a type of high-speed memory designed to store the data that a chip is actively processing. It’s 50% faster than HBM3, the technology used in the original version of the GH200."
@@ -270,6 +298,6 @@ related:
       domain: extremetech.com
     quality: 16
 
-secured: "dbaM0aLrH7PyXYBa5kuxXG/hRIs5Ypwx0/UAMx29GOqlu0VQxTwnzt3qIVfgyTKe4YQGjklqjPLHKYd5hPt46d2ZIbLm4nD0WtsARcf75tOQRqB+teSCSvuwuHSwzrPL8hvb/uqiY+riQhiAgG5UQz8Gch19bUcapgo0VAbOtO2Bam9KvaNJvJInE+dV/iIBeoRC+TM/ewV0jMWZHbIBWzC/sTkBbJ9pn2BaakvjZUo4Wsqzx1Z0+7/K0t4juAQY6VWPeyHCOqmPbxiOmRaLAZjVkoB7X1COhj8pg6lFg3Y+A3zl40tOyn649r7Re+secEcP0IS9h9Nf0oqdsOTgHTSYBHzAgyYhkI2W5bg+IIs=;qMftgONcKfnFWlmE7vlDUg=="
+secured: "xmP+yXeJyeslslZ6OlZtbeu/sv+elGz7YvaCgepGmQveinMgzUow6ZKR52QZ+7MoIo/t7T4mCaLggwS6ggCCF/drgDDtirLHLs7eW5F/3Zdd1+6uZ51rJfKidcYI0yPwLu1IYDIb/iIRNq7Lebf3V6MGUpQdIxL/UGaAYn5nMenBYknowyBVOnP9P9C1rG3xSqLHiUBXjf8hKQcWvwb2uTKuBHzvlt2yNJ9mpeuqzVEG/yySfrCzGSNUgtWOCKKsYAsycKEH1QQcOBW7bB/uCaypeSWwPyocDqYt5/xSJ2n6NXQcR86cNNMvk91TA8mddVt2f4y5+W4bIL0m4gbF9Te8u8EES6obtxoVUt3qFGBXIjNp52WZEIIhooLpuvCQtA+kJyWUu0cqgAdaRt4bS8BJS9rIiGxOXAXX7ro2Z+tagL7JYvFlQp1VWtCQyddkcAhPs/zLkfCAUcaBv32tRat9ZVtjs5/OeBB53ZOSkZ4BxE0XPR6LGgd3UBRwPhEPfoKTttFy5/2AIKwyv32zdA==;8NiBq4YvQHRq/ZJZu7U/cw=="
 ---
 
