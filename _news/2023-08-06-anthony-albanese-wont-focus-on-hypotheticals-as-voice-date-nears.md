@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Anthony Albanese says he offered Scott Morrison 'support' on the Voice in 2019 as he flags possible dates for referendum"
-    excerpt: "Prime Minister Anthony Albanese has flagged an imminent announcement on the referendum date as he reveals he offered Scott Morrison “support” on the Voice shortly after the 2019 election."
-    publishedDateTime: 2023-08-05T23:52:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 19
-    images:
-      - url: "https://content.api.news/v3/images/bin/bb28d0074528ac37ee861bffc639e01f"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Alice Springs gripped by crime spree targeting airport, university and nursing home - as Anthony Albanese and his Voice 'Yes' campaigners enjoyed the $5,000-per-person Garma ..."
     excerpt: "The form of constitutional recognition they are asking for is a Voice, not our sympathy, not a symbol, but a vehicle for progress,' he told the crowd. 'A practical tool to make their children's lives better. Not just something that will feel good ..."
     publishedDateTime: 2023-08-07T11:18:00Z

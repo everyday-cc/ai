@@ -57,22 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "OpenAI just admitted it has a bot that crawls the web to collect AI training data. If you don't block GPTbot, that's self-sabotage."
-    excerpt: "AI scraping bots are threatening the web's grand bargain. OpenAI's GPTbot crawler is being blocked by online content creators."
-    publishedDateTime: 2023-08-08T21:10:00Z
-    webUrl: "https://www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://i.insider.com/64d2a8797d2e90001946b1bc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Distributed AI technique accelerates picking robot training"
     excerpt: "FLAIROP research project successfully aggregates learned tasks from multiple robots without revealing sensitive training data."
     publishedDateTime: 2023-08-08T00:22:00Z

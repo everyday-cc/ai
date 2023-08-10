@@ -7,8 +7,8 @@ originalUrl: "https://www.theatlantic.com/podcasts/archive/2023/08/are-ai-relati
 webUrl: "https://www.theatlantic.com/podcasts/archive/2023/08/are-ai-relationships-real/674965/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Atlantic
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 625
     isCached: true
+
+related:
+  - title: "The Era of AI-Free Life and Work is Over"
+    excerpt: "Artificial Intelligence (AI) has become an essential tool for streamlining the optimization of software code. As tasks become more intricate, the ability to delegate this responsibility to AI-powered chatbots has emerged."
+    publishedDateTime: 2023-08-08T06:21:00Z
+    webUrl: "https://techbullion.com/the-era-of-ai-free-life-and-work-is-over/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/fdgfdgdg-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "g207MNh3e1oeD5Jv3VlTJwFc2rBx2CcVpK0mLd1npTHNOju9u6w625xYH7ZQ5w4Qtpix2+4eMYcNx9nHiTTGCCFz9bn0ev4qhRw5CDIzlMJUufD73CLVbUM/v/CB8hW5cRnxdPpgGuwW0cRTj3iemIqtw1gYnQ2UB0mqpwAO1VJAJhtIRSUBerDaXdpCAhIMbE5GIxx5NQf2EO2bdEPB/SsgOo4uAYS0i2dcW5c0f2CdSPXbmtKOsjFOGBTPeWv71/mZZe+5iThDtZlbZOTBwsqNYtjFOLg/Nq4+3/ajhQ04S3/COIcNk8JgXV+l1c+0rGFHtMTRMJvWauHXIBNYj5JELTM4jikcl0cl8FVSNsw=;e+JGpKmpZChR+dPLSDHyRQ=="
 ---

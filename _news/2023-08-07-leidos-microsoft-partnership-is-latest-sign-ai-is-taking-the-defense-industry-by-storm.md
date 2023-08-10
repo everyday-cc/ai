@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "On Technology: The Major AI Problem Facing Insurance Brokers That Microsoft, Google And ChatGPT Won’t Solve"
+    excerpt: "Navigating Demographic Challenges in Embracing Change. How AI's transformative potential clashes with an aging industry workforce."
+    publishedDateTime: 2023-08-10T16:59:00Z
+    webUrl: "https://www.forbes.com/sites/quickerbettertech/2023/08/10/on-technology-the-major-ai-problem-facing-insurance-brokers-that-microsoft-google-and-chatgpt-wont-solve/"
+    ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/08/10/on-technology-the-major-ai-problem-facing-insurance-brokers-that-microsoft-google-and-chatgpt-wont-solve/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/08/10/on-technology-the-major-ai-problem-facing-insurance-brokers-that-microsoft-google-and-chatgpt-wont-solve/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d4c66d604bda7e4b0eda0a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 763
+        isCached: true
   - title: "Microsoft Brings Bing AI to More Browsers"
     excerpt: "Soon you won't have to switch to Edge to use Bing AI."
     publishedDateTime: 2023-08-07T23:07:00Z
@@ -139,6 +155,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "7 ways generative AI is bringing bionic business to manufacturing"
+    excerpt: "In partnership with several manufacturing companies, Microsoft aims to enable seamless connectivity, data analysis, and AI-driven insights across the production process. By leveraging Azure's capabilities, manufacturers can optimize production operations, improve equipment maintenance, and enhance product"
+    publishedDateTime: 2023-08-08T15:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/7-ways-generative-ai-is-bringing-bionic-business-to-manufacturing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Microsoft’s Azure OpenAI Service is now available in new regions"
     excerpt: "Microsoft has expanded its Azure OpenAI Service to provide more businesses around the world with generative artificial intelligence capabilities through models such as GPT-4 and GPT-35-Turbo. The new live regions are in Australia East,"
     publishedDateTime: 2023-08-08T14:39:00Z

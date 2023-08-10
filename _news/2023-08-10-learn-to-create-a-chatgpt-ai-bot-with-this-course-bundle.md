@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
+    publishedDateTime: 2023-08-10T16:50:00Z
+    webUrl: "https://techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "A Simple AI Governance Framework In The Age Of ChatGPT"
     excerpt: "Since ChatGPT and its artificially intelligent peers have burst on the scene, I’ve been fielding a lot of questions about its impact on the way we will be working."
     publishedDateTime: 2023-08-06T10:00:00Z
@@ -70,6 +86,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI just admitted it has a bot that crawls the web to collect AI training data. If you don't block GPTbot, that's self-sabotage."
+    excerpt: "AI scraping bots are threatening the web's grand bargain. OpenAI's GPTbot crawler is being blocked by online content creators."
+    publishedDateTime: 2023-08-08T21:10:00Z
+    webUrl: "https://www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/64d2a8797d2e90001946b1bc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The 12 Best ChatGPT Alternatives in 2023"
     excerpt: "Are you looking for an alternative to ChatGPT? We’ve got you covered. Despite ChatGPT’s high level of sophistication, many other ChatGPT alternatives are available. In addition to ChatGPT, many advanced AI-based alternatives to ChatGPT can help you ..."
     publishedDateTime: 2023-08-08T17:16:00Z
@@ -98,20 +130,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "The Era of AI-Free Life and Work is Over"
-    excerpt: "Artificial Intelligence (AI) has become an essential tool for streamlining the optimization of software code. As tasks become more intricate, the ability to delegate this responsibility to AI-powered chatbots has emerged."
-    publishedDateTime: 2023-08-08T06:21:00Z
-    webUrl: "https://techbullion.com/the-era-of-ai-free-life-and-work-is-over/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/fdgfdgdg-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "How to add ChatGPT to Visual Code Studio for AI coding"
     excerpt: "One of the most notable features of the ChatGPT Genie AI extension is its ability to utilize Azure OpenAI Service deployments. This allows users to harness the power of Azure’s cloud computing capabilities, enhancing the performance and efficiency of the ..."
     publishedDateTime: 2023-08-08T20:58:00Z
@@ -125,6 +143,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-add-ChatGPT-to-Visual-Code-Studio.jpg"
         width: 700
         height: 449
+        isCached: true
+  - title: "Bud taps Google Cloud generative AI tools to develop intelligent chatbot"
+    excerpt: "UK fintech Bud has developed a generative AI core and chatbot for personalised customer insights using Google's PaLM2 large language model. The new logic core will be embedded into Bud's existing lending and affordability product and its money management ..."
+    publishedDateTime: 2023-08-08T15:18:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42751/bud-taps-google-cloud-generative-ai-tools-to-develop-intelligent-chatbot"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 38
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rszed-maslaveckas-headshot-hi-res.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Tel Aviv Hospital First Ever To Use AI Intake Including ChatGPT"
     excerpt: "Sourasky is the first hospital in the world to integrate an AI chatbot into its triage process, using the tool from Israeli startup Kahun"
@@ -140,19 +172,19 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Lack of doctor readiness for ChatGPT integration in medicine"
-    excerpt: "Clinical decision support algorithms can be enormously helpful in helping guide health care providers in determining which antibiotics to prescribe."
-    publishedDateTime: 2023-08-07T10:03:00Z
-    webUrl: "https://telanganatoday.com/lack-of-doctor-readiness-for-chatgpt-integration-in-medicine"
+  - title: "Dentons Head of Innovation on Why and How the Firms Built Its Own Gen AI Chatbot"
+    excerpt: "Legaltech News caught up with Joe Cohen, UKIME head of innovation at Dentons to discuss fleetAI, the firm’s newly released proprietary version of ChatGPT."
+    publishedDateTime: 2023-08-07T19:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/07/dentons-head-of-innovation-on-why-and-how-the-firms-built-its-own-gen-ai-chatbot/"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 24
+      name: Law
+      domain: law.com
+    quality: 34
     images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/chatgpt.jpg"
-        width: 1280
-        height: 750
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Joe-Cohen-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
     excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
@@ -177,6 +209,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 17
+  - title: "Dentons Head of Innovation on Why and How the Firm Built Its Own Gen AI Chatbot"
+    excerpt: "Legaltech News caught up with Joe Cohen, UKIME head of innovation at Dentons to discuss fleetAI, the firm’s newly released proprietary version of ChatGPT."
+    publishedDateTime: 2023-08-07T19:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/07/dentons-head-of-innovation-on-why-and-how-the-firms-built-its-own-gen-ai-chatbot/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 15
   - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
     excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
     publishedDateTime: 2023-08-07T19:04:00Z

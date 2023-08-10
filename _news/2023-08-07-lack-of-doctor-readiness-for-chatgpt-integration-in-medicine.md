@@ -25,174 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "A Simple AI Governance Framework In The Age Of ChatGPT"
-    excerpt: "Since ChatGPT and its artificially intelligent peers have burst on the scene, I’ve been fielding a lot of questions about its impact on the way we will be working."
-    publishedDateTime: 2023-08-06T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
+  - title: "ChatGPT and Healthcare: A Paradigm Shift in Doctor's Practice"
+    excerpt: "Doctors encounter an artificial intelligence-driven transformation in medicine as systems like ChatGPT become common in clinical practice."
+    publishedDateTime: 2023-08-07T02:20:00Z
+    webUrl: "https://www.medindia.net/news/chatgpt-and-healthcare-a-paradigm-shift-in-doctors-practice-212996-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/chatgpt-and-healthcare-a-paradigm-shift-in-doctors-practice-212996-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/chatgpt-and-healthcare-a-paradigm-shift-in-doctors-practice-212996-1.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Medindia
+      domain: medindia.net
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c80c9d8f3a72efd6775ac5/0x0.jpg?format=jpg&width=1200"
-        width: 1104
-        height: 844
+      - url: "https://www.medindia.net/health-images/artificial-intelligence-guided-mobile-app.jpg"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Three Decision-Centric Questions To Clarify ChatGPT Hype And Guide Your AI Strategy"
-    excerpt: "How can companies cut through AI hyperbole and disillusionment to find ways to improve business decision-making productivity today?"
-    publishedDateTime: 2023-08-07T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/eriklarson/2023/08/07/three-decision-centric-questions-to-clarify-chatgpt-hype-and-guide-your-ai-strategy/"
-    ampWebUrl: "https://www.forbes.com/sites/eriklarson/2023/08/07/three-decision-centric-questions-to-clarify-chatgpt-hype-and-guide-your-ai-strategy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eriklarson/2023/08/07/three-decision-centric-questions-to-clarify-chatgpt-hype-and-guide-your-ai-strategy/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61ddecd6cca3ad80acd3caeb/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Upgrade your ChatGPT skills with this $20 training: Use AI to work smarter, not harder"
-    excerpt: "This online course load contains dozens of lessons breaking down beginner and advanced skills to help you use ChatGPT effectively. If you are new to the AI chatbot or want to make sure you didn't miss any tips and tricks when you first jumped in months ago,"
-    publishedDateTime: 2023-08-10T11:01:00Z
-    webUrl: "https://www.zdnet.com/article/upgrade-your-chatgpt-skills-with-this-20-training-use-ai-to-work-smarter-not-harder/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/upgrade-your-chatgpt-skills-with-this-20-training-use-ai-to-work-smarter-not-harder/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/upgrade-your-chatgpt-skills-with-this-20-training-use-ai-to-work-smarter-not-harder/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/186bba5322f625df06f9b5b4d950935527776302/2023/06/29/d003949e-24fd-4960-a177-712e43e0d249/sale-320578-article-image.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The 12 Best ChatGPT Alternatives in 2023"
-    excerpt: "Are you looking for an alternative to ChatGPT? We’ve got you covered. Despite ChatGPT’s high level of sophistication, many other ChatGPT alternatives are available. In addition to ChatGPT, many advanced AI-based alternatives to ChatGPT can help you ..."
-    publishedDateTime: 2023-08-08T17:16:00Z
-    webUrl: "https://www.entrepreneur.com/growth-strategies/the-12-best-chatgpt-alternatives-in-2023/457117"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/providers/calendar/hero-image-calendar-457117.jpeg?format=pjeg&auto=webp"
-        width: 500
-        height: 333
-        isCached: true
-  - title: "Learn to create a ChatGPT AI bot with this course bundle"
-    excerpt: "You may have experimented with ChatGPT, and found it to be a useful tool on its own for work, school, or personal projects. But if you take the opportunity to study even basic coding, you can expand what you can do with AI simply by customizing your own chatbot ."
-    publishedDateTime: 2023-08-09T18:23:00Z
-    webUrl: "https://www.zdnet.com/article/learn-to-create-a-chatgpt-ai-bot-with-this-course-bundle/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "Quickly learn to code with ChatGPT and Bard AI"
-    excerpt: "While these AI tools can be incredibly helpful ... This allows Bard to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. Bard is still under development, but it has learned ..."
-    publishedDateTime: 2023-08-08T10:49:00Z
-    webUrl: "https://www.geeky-gadgets.com/learn-how-to-code-with-chatgpt/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-code-with-ChatGPT.jpg"
-        width: 700
-        height: 466
-        isCached: true
-  - title: "The Era of AI-Free Life and Work is Over"
-    excerpt: "Artificial Intelligence (AI) has become an essential tool for streamlining the optimization of software code. As tasks become more intricate, the ability to delegate this responsibility to AI-powered chatbots has emerged."
-    publishedDateTime: 2023-08-08T06:21:00Z
-    webUrl: "https://techbullion.com/the-era-of-ai-free-life-and-work-is-over/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/fdgfdgdg-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "How to add ChatGPT to Visual Code Studio for AI coding"
-    excerpt: "One of the most notable features of the ChatGPT Genie AI extension is its ability to utilize Azure OpenAI Service deployments. This allows users to harness the power of Azure’s cloud computing capabilities, enhancing the performance and efficiency of the ..."
-    publishedDateTime: 2023-08-08T20:58:00Z
-    webUrl: "https://www.geeky-gadgets.com/add-chatgpt-to-visual-code-studio/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-add-ChatGPT-to-Visual-Code-Studio.jpg"
-        width: 700
-        height: 449
-        isCached: true
-  - title: "Tel Aviv Hospital First Ever To Use AI Intake Including ChatGPT"
-    excerpt: "Sourasky is the first hospital in the world to integrate an AI chatbot into its triage process, using the tool from Israeli startup Kahun"
-    publishedDateTime: 2023-08-10T06:10:00Z
-    webUrl: "https://nocamels.com/2023/08/tel-aviv-hospital-first-ever-to-use-ai-including-chatgpt-triage/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/08/ic-edited.jpg"
-        width: 1000
-        height: 562
-        isCached: true
-  - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
-    excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
-    publishedDateTime: 2023-08-07T16:48:00Z
-    webUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-16/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 24
-    images:
-      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
-        width: 696
-        height: 436
-        isCached: true
-  - title: "Newegg’s AI-generated reviews might be the worst use of ChatGPT yet"
-    excerpt: "Newegg has started including AI-generated review summaries powered by ChatGPT on some product pages, but they aren't always helpful."
-    publishedDateTime: 2023-08-09T19:54:00Z
-    webUrl: "https://bgr.com/tech/neweggs-ai-generated-reviews-might-be-the-worst-use-of-chatgpt-yet/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
-  - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
-    excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
-    publishedDateTime: 2023-08-07T19:04:00Z
-    webUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-18/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 4
-  - title: "Why ChatGPT just might save the humanities"
-    excerpt: "Not surprisingly, the release of ChatGPT has produced a host of concerns about its potentially harmful effects on society. In higher education, commonly cited concerns center on threats to"
-    publishedDateTime: 2023-08-08T20:55:00Z
-    webUrl: "https://www.virginiabusiness.com/article/why-chatgpt-just-might-save-the-humanities/"
-    type: article
-    provider:
-      name: Virginia Business
-      domain: virginiabusiness.com
-    quality: 4
 
 secured: "r5OdSCgCQZpOr7IhJSDFIRDkpYTBQ14RRmPPyM9cNJy1pgATZx13pYNJtEqrrMsDrOyHJOzM09eU+DwNh6zoo9+zB5cqY5VK205goGE6y+Ii7Sd103ecfuKcloxEWRqqauI6XgiUI4xKf5SfTBBD/+uS5/+mvdKCpGvDX6qDXSC2S7wLQHN4g5JVWewOb9UIsrdI9+BV4+W8EbvctgRDpiBCd1Szu7HR1pQxkwEOJm7/wRZVQhuOYAcAvj2O5Aa8p5bICECSc9OgXwqEWECrA3xQDaat7E+y/G5YQeHuMW4gdQu/M54n5vAJmoWYC0AkDr26SJCxta4NrQI8rSnnmZ1sTOEO/RQGcD4P7O5mVO8=;WKHPWM4xgUwqCYIlmFeHCA=="
 ---

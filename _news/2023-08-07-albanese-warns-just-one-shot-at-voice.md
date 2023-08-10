@@ -41,34 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Albanese warns no other Indigenous recognition on the table after referendum"
-    excerpt: "Anthony Albanese has warned people wanting either symbolic recognition or something that goes further than the Voice that the referendum will be the only constitutional change for Indigenous people he pursues."
-    publishedDateTime: 2023-08-06T00:20:00Z
-    webUrl: "https://thewest.com.au/politics/federal-politics/albanese-warns-no-other-indigenous-recognition-on-the-table-after-referendum-c-11500990"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 21
-    images:
-      - url: "https://images.thewest.com.au/publication/C-11500990/9aed6f1c93eb162e2d2d4eea522508d42c9d5cfe-16x9-x0y209w4000h2250.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'More of the same': Anthony Albanese's warning after new poll shows sliding Voice support"
-    excerpt: "Most voters across the country intend to vote No in the upcoming referendum to enshrine an Indigenous Voice to parliament in the Constitution, a poll shows."
-    publishedDateTime: 2023-08-06T00:56:00Z
-    webUrl: "https://www.sbs.com.au/news/article/anthony-albaneses-warning-after-new-poll-shows-sliding-voice-support/j82zkz116"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 15
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/7e17c9f/2147483647/strip/true/crop/3161x1778+963+604/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F4d%2F80%2F830eac6149a1b13ab007050dbe3e%2F20211119001597987195-original.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "uvNIsBh5H5/SaTKDrYMCcwkQy3wTE8lTu4B7mIlKcFfSZvI8T3zsn6eYi+Lh//IS9Ra7BJ/Ww4Zms13/KRfUT3UXAvI7Xp7e54jqikvSBC5O5tTXrUAVrjwHhFqMyspHHGdRHw+Lc9PyHBIBbmfZsrX/ArXT1Tq0h5rOHN6GhYJFkINdhxHhrHKdpnelFhvBHO/vpKHwaDWYfB+FQMo88RMtKcJHqoXqvcjurRg3y6tpacdy5mhdrJpqs4Xxu+Cq4nWTmJDLXkCYSJ7NyWrvwWKt08+jkDnw6S+RCSvF7zwqiUQoZPuEhpf8P89cCmkF66DyWyp3H2PXVpmW+xMIZUzPgFiCIf2RTXlnx7pxFDk=;8ab8MuZvshmZHc8BnKiM3w=="
 ---

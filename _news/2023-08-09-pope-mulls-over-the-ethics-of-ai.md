@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pope Francis warns about the 'disruptive possibilities' of artificial intelligence"
+    excerpt: "Francis will also discuss concerns artificial intelligence could \"fuel conflicts\" and how there is an \"urgent need\" to use it responsibly."
+    publishedDateTime: 2023-08-10T12:48:00Z
+    webUrl: "https://justthenews.com/nation/religion/pope-francis-warns-about-disruptive-possibilities-artificial-intelligence"
+    type: article
+    provider:
+      name: justthenews
+      domain: justthenews.com
+    quality: 31
+    images:
+      - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2023-04/Pope.jpg?h=d1cb525d&itok=BZfYlipS"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "7lNG9MQaNPFlkkK3weX3h6PvQCX11X5IYiga43lgcGxi6tX7gWxhLInviqzfjhlFfSFJFYYA2oNl9UJ79hjx9MUiPBT/9u8cQOUIzRMBNCWfqC8e8k7OgxzYfWChQwcxaSxl3WZQaLq0+ZLjfzw4seUj6mwv6GJQedvVXPfW9rsh7kVEjl+cAH2aZghl5H0sTbtkPhnuipug+41+LvMi50MTjkwgbUPy4fuNvNUhF5nSnaylJVNxnDJAjRFM3TB+mCVewAxQjKujr/gCocQxum166wnu+fzanQPJVoMN1v40ZgJ5oK4L1mym4PcOEcsfjoUZ2pkA4RJ3Ru5SklMMxfg+gsKFTMzflIX/Ky5+O2t64bbVltVa7L7qc/WYbO8XPBqjEqsb46Xz2RosRc2A39R8qUd/tuE3DYUaY8RCnpff26I7yH2OfJcZFEgX8NKyNSAg4eYudEVhexHfxxgcXs+VqdLjY9+DG8PjW/V/C7YlHMQAJnWVRviarTxa0tQxbNvaPlivuuOMNzmrZsxbUw==;B5v0W8J5RA6Em1txnDKMFw=="
 ---

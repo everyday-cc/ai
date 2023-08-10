@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704630/google-brings-ai-to-cloud-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.amp.html"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Llama__2-1920x720-1.jpg"
         width: 1920
         height: 720
-        isCached: true
-  - title: "Bud taps Google Cloud generative AI tools to develop intelligent chatbot"
-    excerpt: "UK fintech Bud has developed a generative AI core and chatbot for personalised customer insights using Google's PaLM2 large language model. The new logic core will be embedded into Bud's existing lending and affordability product and its money management ..."
-    publishedDateTime: 2023-08-08T15:18:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42751/bud-taps-google-cloud-generative-ai-tools-to-develop-intelligent-chatbot"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 38
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rszed-maslaveckas-headshot-hi-res.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "The Impact of Artificial Intelligence on Software Development"
     excerpt: "Jamie Boote warns developers, architects and QA testers to remain vigilant over the use of AI in software development"

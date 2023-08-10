@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Amazon nations seek common voice on climate change, urge developed world to help protect rainforest"
-excerpt: "It’s been 14 years since the eight countries of the Amazon region convened in a summit of the Amazon Cooperation Treaty Organization."
-publishedDateTime: 2023-08-09T00:57:00Z
-originalUrl: "https://apnews.com/article/belem-amazon-rainforest-summit-brazil-environment-crime-4e68ebf7f6c719d779ed726cc4f0c5dc"
-webUrl: "https://apnews.com/article/belem-amazon-rainforest-summit-brazil-environment-crime-4e68ebf7f6c719d779ed726cc4f0c5dc"
+excerpt: "Leaders from South American nations that are home to the Amazon are challenging the developed world to do more to help stop massive destruction of the world’s largest rainforest"
+publishedDateTime: 2023-08-08T22:06:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
+webUrl: "https://abcnews.go.com/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
 type: article
-quality: 25
-heat: -1
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://dims.apnews.com/dims4/default/add180b/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fae%2F71%2F12b02a0cd67f6b2af07bc00ce5bf%2F086cfa98fbeb4ac5a447f1f020e0cfff"
-    width: 1440
-    height: 810
+  - url: "https://s.abcnews.com/images/International/wirestory_4e68ebf7f6c719d779ed726cc4f0c5dc_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -95,6 +97,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "Rx5HLz76j9eZ41gW4cYUsk0oaKL6vI7I09hPmOC0Wzpneq5ezxBqh2ffFcVZlFXz6tqwU/nid/qELB9u69AsFUXCx1itf3NqG6/Y/pmxN1NfeDfqZ/jnS09Ul9PQQLkoo2c3iSibyBpqrl2ykd+08MLXsKaYckXxUZesRjeWyKFb/O6BWjmjRi/GFUkru39rPYpll1smGRjOpmW2udBXjtIk0rSR7rnO7HRgj9UA7GdaZ3g7cOAFKA5NiVpHqjx+T0us4DDsaIBgEm8mCaUsF/EDjoTPdDMyNFTDzZfQsAVqTxd+fpy2q5ihzywMmcwk3cuDdZoCOC2FY/nLL3kiJSslpEzAgeZWOZTw4v9I8T/nhHPAtuEenR69G0L8errjmjg4SFps2sclui4swBexc4RV1xPlHC3CpCze4IKj8rrNxAfbKTBZAGcQufIU6LyZ6PCEqgn63oG2gETzDN8LnjXlwZhg4c8FtpwHdzMIQSepmJY+xHYFeto61BM4BsWZMEiVRdg9JzvsDDD6/L444Q==;247JOWkrK7iP9RTUY0gBuQ=="
+secured: "S1JhOG5NOjhSHa+kuqnZK9fSnnjo0fCOP5Vo34Qx3MCvxBaVB1Hwl+9UOXMD6byml8Wj06x9PhZmh0nm4j6rXVs48Ec5JcYHxm37HV/TEe9I18hcKLk9p02JcNwi/Q/NpHSiD592eWvxFQBKPTzRGzuaRy2lxAG+KF5fx/KFc2qLRTOPxNxDoc7LWkEbT0ntTbpRP9bHJRAAME7V87e50kcy3CQspT3OiATaHNnSKgaE+MZzaDRz1onHC1sBde+Qk+cWZIWO16qTd97Oli0uq7H/dPWUSJic4uFu3keJM9AdQVKPcmtfwNH8MemAszPn9Lto2hSnSWKJzvp2g/xggk3sjrNZffXCAbnkydtuqiI=;ISaH82vAyT4TqXPmMzEFtA=="
 ---
 

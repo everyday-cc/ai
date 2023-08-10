@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2023-08-harnessing-artificial-intelligen
 ampWebUrl: "https://medicalxpress.com/news/2023-08-harnessing-artificial-intelligence-patient.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-harnessing-artificial-intelligence-patient.amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/health-data-1.jpg"
@@ -68,6 +69,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "8Yu5Ghsa1D851eMgwl1L+NGj2oO1lFyLdecSMVondg1HGbaOSSqnydmpUQAdJ7cJqFxrmEysvCQWWThoTNWj5eNXUbWcBgUF2L8RlLeSU1ZRfjkb+WFQNkUf257J8myeehRVBJtvwud/Fmbiua4Uku3gvkOgMGVsnDUiH2AtjnXo8m1dECHoBw/B3OuV/5KzHOmkpNsGU7tlCqsmK4a+aSPopAEZztdG5i5/qkdmo1oYqiuNHMLMjmOHrdq0iV1UK9rtMB/EbjwZuOi6/ucqdJogoryytim3ORAGk/u8ToqzP2tvLoEs7qJ5Jx10zLFLj6XlsSZPKxCg7njKhXq27SV61KWGj2GYiqwiRkN24Eg=;j2wjx/6E70qQGI08Qm05TQ=="
+secured: "i7gfkg6WzStlOU97UF8LO70ralzITKtadlf3eeYTQj/Sm+Ab2xl+BZxiRDAOSLpQXFINsEvaHenspNQFR9X1B+BRYeXgf4pWdg+2KC5fNvXUu1ZFofwgNR38zjEVBBBTt94pEBSIIp0JwNq5M8lFvugsxLnYHSYqGfWA/rglGS6Qj0O5e7G/C20keIUNUtFMGYexLWKI8idn9CJBX+ykEZLTUYgN2e5B8yxuii3IrsVdRpGgqXqp/Smabono69vsYGlUR7jZGRe9mvKiMyTSUL6mymJ5jYU1GHcziZ7/VGfQxzJcHJ1JClLhAtKCPJlF1L0IFJ6bwd5llZJqZWihlpTWUNNVLtZbj4F3mU8R3o5OX2u1vzmTTyHdJrzvKN8uuIUz6gq/N5xljnfoau5/ii0jFApLqiHB0xWlV5YAa54+mi/5uaq/ZaTuIQ07ST97igluLMXIzk4shPdP3TnLyM5mM0eZVPo2kiFA7+Zqo+hn/I9G2cMS1LzlqnEFTSGXieX2Q4tA5VA923wd2OUwLQ==;bsIMDI6KtQ+WHEUQwVtpbw=="
 ---
 

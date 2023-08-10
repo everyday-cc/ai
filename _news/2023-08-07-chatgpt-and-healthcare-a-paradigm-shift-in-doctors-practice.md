@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/chatgpt-and-healthcare-a-paradigm-
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/chatgpt-and-healthcare-a-paradigm-shift-in-doctors-practice-212996-1.htm"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 300
     height: 250
     isCached: true
+
+related:
+  - title: "Lack of doctor readiness for ChatGPT integration in medicine"
+    excerpt: "Clinical decision support algorithms can be enormously helpful in helping guide health care providers in determining which antibiotics to prescribe."
+    publishedDateTime: 2023-08-07T10:03:00Z
+    webUrl: "https://telanganatoday.com/lack-of-doctor-readiness-for-chatgpt-integration-in-medicine"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 24
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/chatgpt.jpg"
+        width: 1280
+        height: 750
+        isCached: true
 
 secured: "DIU65N8soW6P6ut2IdJYHWt4i9QZ4RCaGpmkLwV3S+2lFTNTcZh2J+T51oaFRGM0VxdHjd5HGbdfG2v5M/jS2VpB7tpoAYGsuvLm5I1Hl/SoWNQA/UPrkqdK46OQVBYVf//sPOzHgtFkU7BvVVQpVcPfelbuiuHI4/nqEb1qg/F0DwE3gYWSHK8QdKSQkFOgVPNDJUQbtNqhXId22se94zMDU+aLH3sysZqptDJSE175cWBPfsIkKPnwO1j02IcIXnaKl8Gu8nnksOfaBQ6V9Ynm3j9ImarRLyaCsfWrzjwhi975tTRNwbDe3LHpWy1PFAPFQcwOP+zO1dAbmubGHKLl+FnbzGHgeeJOG0li1bGgoNFls3FJo0xYGa5c/58K11U3/PhuRUA/BxspeFwXTv1r3s/TwUOw+VW+b3ORDFGrUJA65NOT6HCvrqaCsG75wvRv4gdeJRDHzSwqcIGrtIEKM8CAdf5EBK2brn0YI/yG/iGkICIKoHOgzXIDGhZ0ZcNjZOWJZ+ucoqBC9fxK+g==;Nl+oDPa4IXDTCfU5OpzOJg=="
 ---

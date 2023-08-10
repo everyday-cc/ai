@@ -36,22 +36,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "TechSee Brings Computer Vision AI and Augmented Reality Service Automation to Amazon Connect"
-    excerpt: "TechSee, Brings AI Visual Service Automation to AWS Omnichannel Customer Experience NEW YORK, Aug. /PRNewswire/ -- TechSee, a global leader in Visual Service Automation, has announced today it is work"
-    publishedDateTime: 2023-08-10T13:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33707561/techsee-brings-computer-vision-ai-and-augmented-reality-service-automation-to-amazon-connect"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33707561"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33707561"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 63
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Fintech groups and banks linking up for new payment partnerships"
     excerpt: "Vietnam’s payment fintech landscape is witnessing a surge in partnerships between foreign giants like Apple Pay and local banks, while local payment apps are teaming up with international firms, signalling promising growth prospects for the digital payment sector."
     publishedDateTime: 2023-08-07T08:17:00Z
@@ -159,6 +143,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "TechSee Brings Computer Vision AI and Augmented Reality Service Automation to Amazon Connect"
+    excerpt: "TechSee, Brings AI Visual Service Automation to AWS Omnichannel Customer Experience"
+    publishedDateTime: 2023-08-10T15:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/10/9862775.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 23
   - title: "Strategic ingenuity: Insights on sustaining tech excellence and innovation in Fintech Sector"
     excerpt: "In the rapidly evolving landscape of fintech, achieving and sustaining technological excellence and innovation is paramount for companies to remain"
     publishedDateTime: 2023-08-09T09:30:00Z

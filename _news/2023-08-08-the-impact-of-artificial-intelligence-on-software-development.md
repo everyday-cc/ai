@@ -48,20 +48,6 @@ related:
         width: 1920
         height: 720
         isCached: true
-  - title: "Bud taps Google Cloud generative AI tools to develop intelligent chatbot"
-    excerpt: "UK fintech Bud has developed a generative AI core and chatbot for personalised customer insights using Google's PaLM2 large language model. The new logic core will be embedded into Bud's existing lending and affordability product and its money management ..."
-    publishedDateTime: 2023-08-08T15:18:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42751/bud-taps-google-cloud-generative-ai-tools-to-develop-intelligent-chatbot"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 38
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rszed-maslaveckas-headshot-hi-res.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "D/cH0wAYzWV4i4FLYlGlFWphQxYiniGgr43y6BSIjlnga9jSE3Maxlkk73YV88/d5VRK/ziNxmBNQq9mgeLtUW/HFnCA2Xr3Xj4v8P9MJJUDmPNpmfucbzwvajCtBolrCNmZul85/J0gtnNjgIhZOauitFVYOosbqGkfOuWAqzhAOK77gXIx8mX+LSreAd7uZE5gu7bLNhqhIYg1+xNETS+OoEMsc0DJGzAGJIfhZFl9uplkWDDqXsOvSZR4zK80e8kuP4HltiuAYdB24vV5rDw37LmmUFghL3PP5NIE5q7504rKxzMNA2HMtB2x2nVoBSMEe4Mh6++Z9f842HhaXfvY2hGR4pccfJup/FTr4XxjUo6CVQmvDj1DOQmWfdqgwxrWsNk730A1pTD2+4yBdSyXkHkb9LlMUdvxo0jhwPBiWPxcMClV9BL25V9sP0QmgVng5mc32B2jASqEfrVjmy6itseq8sAKt8dtOXWqz6RbKwELm+yM/g99bPm3DxVP+IlrL7hIizNWSfSoWUYxrQ==;4snBkLZ8pFc6dytc3Lbxmw=="
 ---

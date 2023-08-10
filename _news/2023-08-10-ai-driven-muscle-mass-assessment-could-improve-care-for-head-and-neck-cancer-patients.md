@@ -53,7 +53,7 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/health-data-1.jpg"
         width: 1920
@@ -69,6 +69,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "NgOPixRDjvURwcqSqKz4f8M3nJA72yXjWk9QPQan8xe/szDo2T6WbdNa3CpZwp22+fTFg0cKujYL1YE2c9qO8kjY6DolfumPR1pEK8huDlJEioIpVHT2eyfbcS6chgKbotdJ7cyxWEhcY58wrR2WsPnprQAbIn6LBqY2jeC0ARjSw1SSDTm8vsyXr60TT3sud5DecH5fxWisLU8K7v3BBWRn8jILvIefqr7qRyxoD7Oi7absCKiFvk0RfIgKWVDkP//oxeHdQ7QVqEiuQkI8A7NpkYijBwTXGVXCAhW/oM4na/U1XZGJfn1AvoVgmcArO/d3syz4Cgh6Yt2c0Tpn4ZgRAqXx/3aYdKSXqdNVx38=;F+fORMFhy5VqN6OpSK2MSw=="
+secured: "aYBgLRMzpr3wiS1bQK9HTFpHvdoXx1bBOrEgtZOVr7dOkF2jzIaMMVA7BLdIgOcsqGKkbzLLU504rx3REdbqtBjEPEAQ9uIYrG8rKW30RDNcDlr2s7kGeMyG8B1ma8R2DqP65i6xs5KzjDQwR3GfTg80YsoPcKwu0tMacvXk98vHnyCG5v1txgxnTyWeAZ+qvXgaprPGwQX+hMGu7kCCIANiU1fsQg5qo0PUyKaX66/Vauk+nR526H8JCYUIn1Oq87870dEyqLTpTGbJVqXA193qRJOIkbj+zXmnVqhyEQWJQu8ION7s6oQN2GDWnjHpHta1XKpSs5QxaDpEvUGsObtHqlwKYQELjDty+AHYSC6Bay79vMJgaSnA70VQP2OEsL4vyld0lLv2yMk7lkbFlVSAAGT9mq/qODAAtGgIg4C+K+rXra0atstHhGjbKeVsPBmlWnGhuwznCVALSyX+Ap4ZxQikCtYC1CPugQdOqSbloDTHSvoKy0Vl+/Gs6Do1bLwBGnAzeHS1tvpnEWcmOQ==;v8392Pd9PbxjgZkKrFydAw=="
 ---
 

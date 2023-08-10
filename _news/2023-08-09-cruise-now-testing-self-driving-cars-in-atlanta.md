@@ -62,15 +62,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
-  - title: "Most Tech-Forward U.S. City Has Doubts About Self-Driving Cars"
-    excerpt: "San Francisco officials and residents are not impressed by self-driving cars, underscoring the challenges ahead for autonomous vehicle companies."
-    publishedDateTime: 2023-08-09T16:30:00Z
-    webUrl: "https://cacm.acm.org/news/275338-most-tech-forward-us-city-has-doubts-about-self-driving-cars/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 4
 
 secured: "35vERUjSGEtPZtb9z6W6wXkCKAQOuBCk5nv9knaCDPkBFfwMcl3ophlPZs9ezHy0pekbrY0Oq57Cjh3sM/hib7SG27QBPJbQUHYwYjzCwa9yIbM120cOJ4MTc00DAXd+OnfL6HDFH++laU6nAdwB08ZYT6fpJDKIupgFGw6xlSKqm2rICpCOHRfbZakqnLYIcRK/h/lVzvVXQjulxRVGLZOYBGeoa8DV3xp5wnPMvlM1/pQHLrMZcutF1CR2/SsF9WUxm2LHRaze8w/QjiBCPF6kzuo5SfaOeZMsjSi3rDbM6l0D8dtJJkwuLDRG1xWBWY4B7MZoZQ7IMxDT6peBHC/wCnOMlZVLLaz2TVfATCo=;l2RmAY4nzQTCqwL1bkRq4g=="
 ---

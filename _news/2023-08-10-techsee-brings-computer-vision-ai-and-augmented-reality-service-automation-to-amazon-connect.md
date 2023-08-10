@@ -1,30 +1,22 @@
 ---
 category: news
 title: "TechSee Brings Computer Vision AI and Augmented Reality Service Automation to Amazon Connect"
-excerpt: "TechSee, Brings AI Visual Service Automation to AWS Omnichannel Customer Experience NEW YORK, Aug. /PRNewswire/ -- TechSee, a global leader in Visual Service Automation, has announced today it is work"
-publishedDateTime: 2023-08-10T13:29:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33707561/techsee-brings-computer-vision-ai-and-augmented-reality-service-automation-to-amazon-connect"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/n33707561/techsee-brings-computer-vision-ai-and-augmented-reality-service-automation-to-amazon-connect"
-ampWebUrl: "https://www.benzinga.com/amp/content/33707561"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33707561"
+excerpt: "TechSee, Brings AI Visual Service Automation to AWS Omnichannel Customer Experience"
+publishedDateTime: 2023-08-10T15:11:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/08/10/9862775.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/08/10/9862775.htm"
 type: article
-quality: 63
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Fintechs turn to AI and cloud as steadfast forces for innovation"
@@ -198,6 +190,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "0ZPdmTP+vaoD+pD415m3TPQ68FRMNkmtWFz13+X8PQRtmHBifDnyPDsZpfG+E1oD86Eo5IneMvhjPM56b7RT0rLL7q415cVNrfcU8YB7+ohDicDB0OTEHbKwKJzwOQVfVmXfbQkAIDsZ1tjr7PjTtfCkjYfpr0VdpQ1iLXYVOYmFri6kjWDAyw8qDXVkDr4KOH4rTLFlJtCXVASNwJDf9xpNcdeeqWZxtZdbPvrm9IuDrDFQYWinFeWyKYFF3HoXmcW3kwUuOx8+8Bui/tc6UGmrSRAn/CtoEcVfzgzKSdKhc2HA3L3C66BR9VW3LfakM4HaT7nI1dbPMuShpv+UfpK2KjSe3NA6Xjt/hewLIFA=;LJJYDj/Zz/foGuSrXTiTOw=="
+secured: "bqPc3A98F3S3N3+O0Xp9bW7QvN59j3lHMkPyQ4phkcZzCFUf7+FJR+Iq3hNVZfgc7XgU6Ywing9OseML41Ua8Rv0q9IpCpcANebZ9gaRyl3ZHeDTZGmqONShWrMvJItWHCmHYzlLmypax9kEXUGYZgb9YfQhVnWe1bybH5kCqB6caNVBKI1HY589votHXjgz4v51W8RQGsCgcpgBaXePicL7wLUOdoUlac+JkSh/9wU/QV2O1S+ehjbVZR2MPav2+sPUzvORcKw11SSwmTQdyTt/b0UN9DkOBUlLmt5/PNuzumrQnv3OoVsoZLqrQhAF7dVbLY2is/mBwPAiGeRc1ROBR+8lJN+XgvIjFxkBdDo=;2xS4F+gZwzIaKE7HPWFuAA=="
 ---
 

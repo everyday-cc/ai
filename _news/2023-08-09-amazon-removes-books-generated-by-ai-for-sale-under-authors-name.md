@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/books/2023/aug/09/amazon-removes-books-g
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/aug/09/amazon-removes-books-generated-by-ai-for-sale-under-authors-name"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -28,33 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Author discovers AI-generated counterfeit books written in her name on Amazon"
-    excerpt: "Upon searching Amazon and Goodreads, author Jane Friedman recently discovered a half-dozen listings of fraudulent books using her name, likely filled with either junk or AI-generated content. Both Amazon and Goodreads resisted removing the faux titles until the author's complaints went viral on social media."
-    publishedDateTime: 2023-08-08T21:09:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/author-discovers-ai-generated-counterfeit-books-written-in-her-name-on-amazon/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/author-discovers-ai-generated-counterfeit-books-written-in-her-name-on-amazon/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/author-discovers-ai-generated-counterfeit-books-written-in-her-name-on-amazon/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/AI_spew_hero_crop-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Famous Author Jane Friedman Finds AI Fakes Being Sold Under Her Name on Amazon"
-    excerpt: "Jane Friedman discovered half a dozen books being sold under her name on Amazon that she never wrote. What happened next was any writer’s nightmare"
-    publishedDateTime: 2023-08-08T19:42:00Z
-    webUrl: "https://www.thedailybeast.com/author-jane-friedman-finds-ai-fakes-being-sold-under-her-name-on-amazon"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 13
 
 secured: "fSWj2+V/ytGsZMLjBXqYHAKL1Kr47RBLrD8qTE0qldXtGyM9bZTfN4aJtcEtVWA78trCDDTFqjTX+h9YDO/ogH/XeeEKGDnuxrBnrFM85b4b1RTT/tZ6kKmqID2gz/F8Ea2TXPbsDoQEsnlL9jo+uHEFKxNLtIzzcwtfCUFH8C1DN0vQOH3nFUjl/+VjgMZeedPdNfEK9OH63iZN2MZrCU38qDUgD72G5+NPeyHDyNkNu3OudsJdz5YM78CAuy26RhV/VqMZ2wE9aLHwBiG9easLdZ3c499+6oZ2ydC8heJSjZU/rRwvUdg6hI4P89EYE92OVo7y7aFGq19wm8LQ21MvQe0JtckDIdfbPpNncbc=;z5jjX77kBknVyiVCLexWuw=="
 ---

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Amazon nations seek common voice on climate change, urge developed world to help protect rainforest"
+    excerpt: "Leaders from South American nations that are home to the Amazon are challenging the developed world to do more to help stop massive destruction of the world’s largest rainforest"
+    publishedDateTime: 2023-08-08T22:06:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 45
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_4e68ebf7f6c719d779ed726cc4f0c5dc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Amazon nations seek common voice on climate change, urge action from industrialised world"
     excerpt: "Read more about Amazon nations seek common voice on climate change, urge action from industrialised world on Devdiscourse"
     publishedDateTime: 2023-08-09T05:54:00Z
@@ -50,20 +66,6 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_11_2019_17_57_13_4143764.jpg?width=1280"
         width: 1280
         height: 673
-        isCached: true
-  - title: "Amazon nations seek common voice on climate change, urge developed world to help protect rainforest"
-    excerpt: "It’s been 14 years since the eight countries of the Amazon region convened in a summit of the Amazon Cooperation Treaty Organization."
-    publishedDateTime: 2023-08-09T00:57:00Z
-    webUrl: "https://apnews.com/article/belem-amazon-rainforest-summit-brazil-environment-crime-4e68ebf7f6c719d779ed726cc4f0c5dc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://dims.apnews.com/dims4/default/add180b/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fae%2F71%2F12b02a0cd67f6b2af07bc00ce5bf%2F086cfa98fbeb4ac5a447f1f020e0cfff"
-        width: 1440
-        height: 810
         isCached: true
   - title: "Amazon nations seek common voice on climate change"
     excerpt: "Leaders from South American nations home to the Amazon challenged developed countries Tuesday to do more to stop massive destruction of the world's largest rainforest, a task they said can't fall to just a few when the crisis has been caused by so"

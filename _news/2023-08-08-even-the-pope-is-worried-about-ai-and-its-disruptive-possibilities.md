@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/08/even-the-pope
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/even-the-pope-is-worried-about-ai-and-its-disruptive-possibilities/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://wp-assets.futurism.com/2023/08/pope.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Pope Francis warns about the 'disruptive possibilities' of artificial intelligence"
+    excerpt: "Francis will also discuss concerns artificial intelligence could \"fuel conflicts\" and how there is an \"urgent need\" to use it responsibly."
+    publishedDateTime: 2023-08-10T12:48:00Z
+    webUrl: "https://justthenews.com/nation/religion/pope-francis-warns-about-disruptive-possibilities-artificial-intelligence"
+    type: article
+    provider:
+      name: justthenews
+      domain: justthenews.com
+    quality: 31
+    images:
+      - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2023-04/Pope.jpg?h=d1cb525d&itok=BZfYlipS"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "nvDAwXgDVDrr1vRWOPwO16r4lWEbS6Fj3nZ6XfG9IHrTpktxHuIGEkdEgzKMweQ5HxSLAQPtt+KM7bKbsN3pI6YDlNKCUXiGEya3iYVSRpxaShlb5KwmT2x9ErJ1RgTa1K4vkLmtBF9+cC1A14A531jr+yEdOAPn2Q+IEAkEIuYrqGCRQN3CkQg5IPiBiUltwS5msQIv3MwutiasSIXy/tFhmS3KV2qWrgPDezN5WvdXduluaFfF4ka0yjSvkyalUPR3ng0jUlkXJacvq0U/iQmeRNny6V3ClEo6pFLhFy/nJZWLIFF3RMAyz2RFeUUZtRxB38ojdrpR21tZfW/lO8pfJYRm0Gw2gSL67vMU9HE=;HQQTipNQMYd/P1PKW/jWBw=="

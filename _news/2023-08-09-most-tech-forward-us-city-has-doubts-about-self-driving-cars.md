@@ -19,56 +19,28 @@ topics:
   - AI
 
 related:
-  - title: "It’s Not Just Tesla: 5 Cars With Self-Driving Features"
-    excerpt: "Spread the loveSelf-driving car technology is rapidly advancing, and while Tesla may be at the forefront of the movement with its Autopilot system, it’s not the only carmaker with autonomous features."
-    publishedDateTime: 2023-08-06T03:23:00Z
-    webUrl: "https://www.thetechedvocate.org/its-not-just-tesla-5-cars-with-self-driving-features/"
+  - title: "How Aurora got self-driving trucks on the road"
+    excerpt: "Pittsburgh-based Aurora is hoping to solve these problems and more by bringing self-driving technology to trucks. While other autonomous companies such as Starsky Robotics and TuSimple have folded ..."
+    publishedDateTime: 2023-08-06T13:01:00Z
+    webUrl: "https://www.cnbc.com/video/2023/08/06/how-aurora-got-self-driving-trucks-on-the-road.html"
     type: article
     provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 39
+      name: CNBC
+      domain: cnbc.com
+    quality: 54
     images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/05/How-Tesla-Is-Using-Artificial-Intelligence-to-Create-The-Autonomous-Cars-Of-The-Future.jpg"
-        width: 1000
-        height: 667
+      - url: "https://image.cnbcfm.com/api/v1/image/107282284-1691176688317-Autonomous_Trucks_Thumb.jpg?v=1691326741&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Cruise now testing self-driving cars in Atlanta"
-    excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."
-    publishedDateTime: 2023-08-08T21:39:00Z
-    webUrl: "https://www.ajc.com/news/atlanta-news/cruise-now-testing-self-driving-cars-in-atlanta/TDNR2DPDRVCNBOK2GVB67RNXPU/"
+  - title: "Congress urged to help get more self-driving vehicles on US roads"
+    excerpt: "Advocates for auto companies and consumer technology firms on Wednesday urged a congressional subcommittee to adopt legislation to advance the development of self-driving cars, saying the U.S. will fall behind competitors, especially China, if the federal ..."
+    publishedDateTime: 2023-08-06T09:19:00Z
+    webUrl: "https://www.tennessean.com/story/money/cars/2023/07/26/congress-self-driving-vehicles/70463526007/"
     type: article
     provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 24
-    images:
-      - url: "https://www.ajc.com/resizer/cYnOP2YAm4f3Lr1PlZArsxWGoqI=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/BAIUNG3E35DOVCQPE4YI5RQ7U4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cruise now testing self-driving cars in Atlanta"
-    excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta. While Cruise intends to eventually operate a ride-hailing"
-    publishedDateTime: 2023-08-09T20:50:00Z
-    webUrl: "https://thebrunswicknews.com/news/business/cruise-now-testing-self-driving-cars-in-atlanta/article_91f6112d-1ac8-51f5-b3d8-8d8b2e7a3f53.html"
-    type: article
-    provider:
-      name: Brunswick News
-      domain: thebrunswicknews.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/f/9a/f9a05a43-2db5-5ef1-9219-133cee44a141/64d3fcb1534e4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving car company Cruise to test in Atlanta"
-    excerpt: "Cruise is bringing its autonomous vehicles to Atlanta. But, the cars will have drivers for now. The San Francisco-based company, which operates a robotaxi service in other cities, said Monday it will begin testing its self-driving cars in Atlanta."
-    publishedDateTime: 2023-08-08T11:49:00Z
-    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2023/08/08/autonomous-car-cruise-general-motors-test.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: Tennessean
+      domain: tennessean.com
     quality: 4
 
 secured: "uacKg+BrLtHFk5FGsnFpD/fF6g+s5Rrbww+Jq2+999oiDSZzcaAz5YieV36gtZaEH7eDNVUi9DeBFXpCBLwYoASTFWCCT1sOvfJHojIACA2L4070aUDJQHWPGL6ER+lDt2PO4ghyrJuwHk0N4yBmUC6YVfBxmwLStdyYbaL7SxT5F9cI6Us31CRenB0857Pp9tetiokJ2Og/TJeZlZma8b3xA9MxmhkYNvSO8Km6OHXLYK1cDxqnRFQgNAzHrnB9lKaoxqHAwt9HNGrde3xV8ZDrB/MIKWyRUl0JZ+q+s1Q7mgvPxm0sQGUOvEYV1Z1WCvNcQ1JGFOrrnfA6XR1E3IsB0xYnYtDUXWk1RApIGwDKJLw+DjImsL8RCJz5lX6JAqo60Jv1zJSF1yYFMCL7ar3ah4L0ZmSQnhVt4QadjdZOgbIIvjjVKPmHzszz8cSmEIvTYmTtYFIje0igwcN8VTKEzqri3ii5OEPW2rSpuswKA3mjU0i6Eab4PVLQRx7FyvKwaVkaL6ah4Icghpxzeg==;Clf7SLDbMtmT85+07zx/YQ=="
