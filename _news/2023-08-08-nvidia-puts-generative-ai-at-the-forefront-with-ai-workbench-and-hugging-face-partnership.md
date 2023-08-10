@@ -89,17 +89,17 @@ related:
         isCached: true
   - title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions -FT"
     excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday."
-    publishedDateTime: 2023-08-09T20:46:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2553293-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2553293-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2553293-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft?amp"
+    publishedDateTime: 2023-08-09T21:43:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2553311-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2553311-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2553311-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft?amp"
     type: article
     provider:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 70
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_20_7172535.jpg?width=1280"
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_34_3794932.jpg?width=1280"
         width: 1280
         height: 853
         isCached: true

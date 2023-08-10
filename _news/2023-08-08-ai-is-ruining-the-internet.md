@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-interne
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
 type: article
 quality: 91
-heat: 176
+heat: 171
 published: true
 
 provider:

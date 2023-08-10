@@ -2,11 +2,11 @@
 category: news
 title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions -FT"
 excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday."
-publishedDateTime: 2023-08-09T20:46:00Z
-originalUrl: "https://www.devdiscourse.com/article/technology/2553293-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft"
-webUrl: "https://www.devdiscourse.com/article/technology/2553293-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft"
-ampWebUrl: "https://www.devdiscourse.com/article/technology/2553293-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft?amp"
-cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2553293-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft?amp"
+publishedDateTime: 2023-08-09T21:43:00Z
+originalUrl: "https://www.devdiscourse.com/article/technology/2553311-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft"
+webUrl: "https://www.devdiscourse.com/article/technology/2553311-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft"
+ampWebUrl: "https://www.devdiscourse.com/article/technology/2553311-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2553311-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft?amp"
 type: article
 quality: 70
 heat: -1
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_20_7172535.jpg?width=1280"
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_34_3794932.jpg?width=1280"
     width: 1280
     height: 853
     isCached: true
@@ -238,6 +238,6 @@ related:
       domain: extremetech.com
     quality: 16
 
-secured: "4z11P00XZ7OJiqBI9hDXmweIXIluPKU01+dX+CXE8ufv8nmrFyCmYdn1TV3d1dlv7ltbCpGNqUuCCa2YAL3BmNIOGrC1mljTLtSOe7CtRChoexxky9YpnnASWRpgzpFOsDY67wuskuyCUfc8eRVrcK/1SUrOK4hWOT/Q33WfCFm1kiUyc/XE03cRqCncMT8e2SPWlrT2YRMe5R3+anOdeuM+VGebu5l4jJtGMCBRee5vn3o+Gux8HD8x++Fk0Vj+axSXnGt7ExuXnIFIX2t5OknX/YiNUi/qXQLfzroIsXzWH5zO0yH1I51qQJbt2T3FTdjqwzj050Ld6DWJDWgQz9Ojxc2OES1yI0+gpjTePOA=;vcYAPG4nV3oxMd7hEcBx7w=="
+secured: "lyPIXl0Fl35ETDoKB0e8Rjk3dKFnfp+jlB+bOqAZLH2akI/pG47eTdQexpYjxZuHfMJoTp0bb+sPTNCOE0o3gCUExbpCj9cTIpUJW2fj7l3MDfRnUtoJNpGmKgqLpjqCuo5uwwG+rGg4U0g01uPBuywz7xgiqfQYpXsbXUFt+BQPJvBf43hHScx2EtXjHqhTD1wQm3Wat76EIwBcHvuoC5scnqfRHz9a4h3hjJJz3Z9T0AtF2w/n23I/wQuF10BQnDPAcAY4hiG9hHFSEigfq+K1VbG6KladkqHVKUZZD6w307iXPrVEICKaG+GFJeRlNUs8OIQ6JYfFMS5PKFuK4iBctXsEHGFywg/ZS+Ufep0=;iwuvRVkfKzYTcISd3VPIvA=="
 ---
 

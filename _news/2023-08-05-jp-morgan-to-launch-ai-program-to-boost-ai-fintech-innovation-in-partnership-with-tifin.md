@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33585861"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33585861"
 type: article
 quality: 50
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/fo-latamhomepage.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Hong Kong Tech Firm, ASL, Accelerates Growth in Fintech Services with Finastra"
+    excerpt: "Automated Systems Holdings Limited (ASL), a global IT solutions and services provider, has strategically partnered with Finastra."
+    publishedDateTime: 2023-08-09T22:58:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211235-hong-kong-tech-firm-asl-accelerates-growth-in-fintech-services-with-finastra/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 20
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/05/hong-kong-dollar-coin-money.jpg"
+        width: 1354
+        height: 1206
         isCached: true
   - title: "Lytus enters FinTech sector in India through the launch of a new payment gateway"
     excerpt: "Nasdaq-listed Lytus Technologies Holdings PTV. Ltd. (the “Company”) (NASDAQ: LYT), a leading global technology-driven services company, has announced the launch of"

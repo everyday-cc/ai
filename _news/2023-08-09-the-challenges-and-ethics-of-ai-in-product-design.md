@@ -25,29 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "How AI in Education Leads to Warnings on Ethics and Efficacy"
-    excerpt: "Artificial intelligence (AI) is making its way into San Francisco classrooms to address pandemic-induced learning loss. However, the adoption of AI in education has sparked heated debates over its ethics and effectiveness."
-    publishedDateTime: 2023-08-07T01:51:00Z
-    webUrl: "https://www.cryptopolitan.com/how-ai-in-education-warning-ethics-efficacy/"
+  - title: "Is AI a threat to the world of fabric design?"
+    excerpt: "Carl Fisher says that currently there is no copyright infringement regarding AI-made designs based on existing human-made ones, as long as you have requested something \"in the style of\". He adds that this enables people to be \"much more free about design and style\"."
+    publishedDateTime: 2023-08-09T23:04:00Z
+    webUrl: "https://www.bbc.com/news/business-66437928"
+    ampWebUrl: "https://www.bbc.com/news/business-66437928.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66437928.amp"
     type: article
     provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 71
+      name: BBC
+      domain: bbc.com
+    quality: 87
     images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/msg-842804339-1602.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1488E/production/_130701148_index_textile_design_ai_2x976-nc.png"
         width: 1024
-        height: 1024
+        height: 576
         isCached: true
-  - title: "How To Get AI Regulation Right"
-    excerpt: "Effective AI regulation should start with bringing the great minds behind AI to the table—those who possess a sophisticated understanding of AI and its applications."
-    publishedDateTime: 2023-08-09T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-to-get-ai-regulation-right/"
+  - title: "Is artificial intelligence a threat to journalism or will the technology destroy itself?"
+    excerpt: "Hitching a struggling media industry to the wagon of AI won’t serve our interests in the long run"
+    publishedDateTime: 2023-08-05T09:17:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/aug/05/is-mutant-news-headed-our-way-or-will-ai-chatbots-eat-their-own-tails?ref=bentinside.com"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/05/is-mutant-news-headed-our-way-or-will-ai-chatbots-eat-their-own-tails"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/05/is-mutant-news-headed-our-way-or-will-ai-chatbots-eat-their-own-tails"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: The Guardian
+      domain: theguardian.com
+    quality: 48
+    images:
+      - url: "https://i.guim.co.uk/img/media/a21a9be06d2802afa1ce5dae72f4befdcf8eb73f/0_192_5760_3456/master/5760.jpg?width=620&quality=85&auto=format&fit=max&s=cb4d819fc0cc6449f0089ba8d745440d"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "nXhiVO8qy+PLe3XW0MptxllJtZ9z3s6wdDRCeBevgNjXCvmRRIuRFanHcepEzQf9y7J/MONE0UNaLB02aoIzrvaSQc79DtprHZt8HdOQewnOfQW5GBJ5Cm+l0GGKElMsw+BWWnZ0s8hKVBnhIZXKb+XLD6j2FOBdv9ApiPFay207MAl5eepxNhEMhSTcxRL5nBnQDRqj9G1iMQPicJ2Q0Om8zUVcahlcD6Gfz2rNrUQG8NpeF1UOPfzpmcJ7KcZjl2AaA+c5P1L4wywOkfiLVkhPKERlxqPy/O9sZrvRS8/h/E6Hl6FueIuB9sbOYc163ZSu50DAryuuK8zznf5e0RDMdJRatZ/IKmDiO7CmHWpC3xuOqXeZocvuh0arAizxwW7WtrbQlpFHkezmrrVK0vTQ2Ktk+8uL4xy5bglt7VkXbNwvj8u7mWTYG4fImRPk4F/n/bjW9XhdNmOwaTgLMJ36MsWJkQvxQ9/+4jXSpNO5RNzP+OfLrk1elJgtIGMPGbTUj8xV9KCaLB4RIKqC7Q==;38+/Ysl3usbA2clsIdhaCA=="
 ---

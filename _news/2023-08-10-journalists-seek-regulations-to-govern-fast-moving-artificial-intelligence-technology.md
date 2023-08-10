@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Journalists seek regulations to govern fast-moving artificial intelligence technology"
-excerpt: "News organizations are seeking regulations to govern the fast-moving artificial intelligence technology that threatens upheavals for their businesses"
-publishedDateTime: 2023-08-09T20:47:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/journalists-seek-regulations-govern-fast-moving-artificial-intelligence-102146228"
-webUrl: "https://abcnews.go.com/US/wireStory/journalists-seek-regulations-govern-fast-moving-artificial-intelligence-102146228"
+excerpt: "Several news organizations, writers and photographers groups are pushing to be involved in creating standards for the use of artificial"
+publishedDateTime: 2023-08-09T20:39:00Z
+originalUrl: "https://mynorthwest.com/3918712/journalists-seek-regulations-to-govern-fast-moving-artificial-intelligence-technology/"
+webUrl: "https://mynorthwest.com/3918712/journalists-seek-regulations-to-govern-fast-moving-artificial-intelligence-technology/"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_06f1e85bd00024419883db77b5ef5f6e_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
+    width: 452
+    height: 282
     isCached: true
 
-secured: "1Jn4VWWt3yWPnXj+puqC3U506xWe8e+VMXlG2Jcvy2dNked2H2wuBtsfTadmGBbJ4tv5sb9BX1/tGfCkQE7ZDQw6VTaAVgfn9+dA5mwvkmcEbulAy4cHxOdecqGjyUPZm7tkebTYq7bMasQmJQjD/jlO5Lnn7xS0WYyhhL3UWfZG8ZMrsRQno+kiD/Yzzuvg0MSuwz+f89VObL6QUdAIN6bLi+BsEvfOYyPHaqoQKln6ldj95pHWRZNM3qlsl0twRsrWumKaE+SLxuSGbx6nVI5bde8+WrSFWcSlEzTklwhGyakY50Tb3DkKffYt0REQ+YGmWYkxXECggiU6PcBkfz/TA9Y9vOmVECOgTYDrgv0=;fs2T0/jkNKflyqGIVHTgsA=="
+secured: "S7TbZSCIUVAW1WkwTh/Emi1TTdkxqcA/kyI7yfoRWL1gipeDM3WPXT9wLYj0UHtjNkDIRGYsIfQOhxPL4y896jo7SnYz250hm9yTH1/1DeTWtPnOplO8PDyZs5bZjvlOlOxyJu96Dqqb+ScKy+YKgW0YVhr3COFqw/UxvlREU4FUZ4MqzcOBSUVrYB1j+aXSFS9ezvtmy/GTV7yiB3oG79TAo5Z1Y9P6IA3bW+5NDx7qcIM7KOZuknEOExu1lqZjZ4KDIicNcGk5ll2seOuPvsjWZ/H6cdTfUn+ETlO/MUdoxkp28Yp1WIA7X1xQ5oYwBRFAA7dkXlnhBK+nlAzh/IgaYFdM7ihf8zfAwNk9Kbg=;cQlBvDU4tFjm7lzkTVHXfw=="
 ---
 

@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt76f420b3a9b0620a/64ca9833a55e441a18f6e4fb/AI_NicoElNino_Alamy.jpg"

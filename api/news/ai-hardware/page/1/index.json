@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-10-biden-signs-executive-order-banning-investment-in-chinese-ai-other-tech.md",
+      "title": "Biden signs executive order banning investment in Chinese AI, other tech",
+      "excerpt": "President Joe Biden signed an executive order Wednesday banning U.S. investments in artificial intelligence and other technologies that come from China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/6541691620107/2023/1/253c6e9417c032a9382c422147f5a677/v1.5/Biden-signs-executive-order-banning-investment-in-Chinese-AI-other-tech.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/",
+      "publishedDateTime": "2023-08-09T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-opinion-why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints.md",
       "title": "Opinion: Why Nvidia investors are rattled by Supermicro’s AI chip supply constraints",
       "excerpt": "Also read: AI has given a boost to a lesser-known Silicon Valley computer maker Supermicro Chief Executive Charles Liang told analysts on the company’s call that the company is seeing supply constraints for the graphics chips coming from Nvidia that are ...",
@@ -106,7 +149,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tech-down-as-ai-enthusiasm-stalls-tech-roundup-db409f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1405,52 +1448,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-why-is-the-machine-learning-chips-market-expected-to-grow-by-usd-2227652-million.md",
-      "title": "Why is the Machine Learning Chips Market Expected to Grow by USD 22,276.52 Million?",
-      "excerpt": "In a recent report by Technavio, the machine learning chips market is projected to experience remarkable growth, expanding by USD 22,276.52 million from 2022 to 2027, with a compound annual growth rate (CAGR) of 30.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cryptopolitan.com/machine-learning-chips-market-grow-22276-m/",
-      "originalUrl": "https://www.cryptopolitan.com/machine-learning-chips-market-grow-22276-m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-01_11-14-35.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cryptopolitan",
-        "domain": "cryptopolitan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI Hardware"
       ]
     }
   ],

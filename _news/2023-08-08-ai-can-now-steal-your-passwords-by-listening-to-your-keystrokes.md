@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-can-now-steal-your-passwords-by-list
 webUrl: "https://www.pcmag.com/news/ai-can-now-steal-your-passwords-by-listening-to-your-keystrokes"
 type: article
 quality: 67
-heat: 121
+heat: 117
 published: true
 
 provider:

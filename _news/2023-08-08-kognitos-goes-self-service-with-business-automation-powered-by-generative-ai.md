@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/automation/kognitos-goes-self-service-with
 webUrl: "https://venturebeat.com/automation/kognitos-goes-self-service-with-business-automation-powered-by-generative-ai/"
 type: article
 quality: 66
-heat: 86
+heat: 88
 published: true
 
 provider:

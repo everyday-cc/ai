@@ -285,6 +285,20 @@ related:
       name: glamsham.com
       domain: glamsham.com
     quality: 34
+  - title: "Gunderson Launches Homegrown Generative AI App to Accelerate Subject-Matter Expertise"
+    excerpt: "We view this tool as an accelerant for subject matter expertise,” said Gunderson chief innovation officer Joe Green. “It’s not going to produce anything that is done and dusted and ready to go. But it will help attorneys do their jobs better."
+    publishedDateTime: 2023-08-09T22:09:00Z
+    webUrl: "https://www.law.com/americanlawyer/2023/08/09/gunderson-launches-homegrown-generative-ai-app-to-accelerate-subject-matter-expertise/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 32
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2023/08/ChatGD-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
   - title: "Apple seeks to bolster expertise in generative AI on mobile devices"
     excerpt: "All the jobs were advertised between April and July and indicated that Apple was working on “ambitious long-term research ... Facebook owner Meta, but planned to grow further, the person said. In 2020, Apple paid almost $200mn for Seattle-based AI ..."
     publishedDateTime: 2023-08-05T13:00:00Z

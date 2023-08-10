@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "NAGA taps Rezolve to offer AI experience in social trading and mobile payments"
+    excerpt: "\"Implementing 'Brain’s AI into NAGA will further automate our client’s journey and lead to the highest degree in personalization. Users will intuitively understand NAGA social trading platform and their own trading performance better than ever before."
+    publishedDateTime: 2023-08-09T22:15:00Z
+    webUrl: "https://financefeeds.com/naga-taps-rezolve-to-offer-ai-experience-in-social-trading-and-mobile-payments/"
+    type: article
+    provider:
+      name: financefeeds
+      domain: financefeeds.com
+    quality: 17
   - title: "AI 'Brain' Technology by Rezolve Joins Forces with NAGA to Revolutionise Online Payment together with Brokerage Transformation"
     excerpt: "Frankfurt listed, German Fintech leader, The NAGA Group A.G. (XETRA: N4G) (ISIN: DE000A161NR7), operator of the All-in-One Financial Super App, has announced a ground-breaking partnership with Rezolve AI Limited."
     publishedDateTime: 2023-08-09T09:22:00Z

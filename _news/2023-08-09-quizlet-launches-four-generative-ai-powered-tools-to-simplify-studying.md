@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/quizlet-launches-four-gener
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/quizlet-launches-four-generative-ai-powered-tools-to-simplify-studying/"
 type: article
 quality: 87
-heat: 110
+heat: 113
 published: true
 
 provider:

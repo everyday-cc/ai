@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2023/08/09/9861620.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/08/09/9861620.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "NAGA taps Rezolve to offer AI experience in social trading and mobile payments"
+    excerpt: "\"Implementing 'Brain’s AI into NAGA will further automate our client’s journey and lead to the highest degree in personalization. Users will intuitively understand NAGA social trading platform and their own trading performance better than ever before."
+    publishedDateTime: 2023-08-09T22:15:00Z
+    webUrl: "https://financefeeds.com/naga-taps-rezolve-to-offer-ai-experience-in-social-trading-and-mobile-payments/"
+    type: article
+    provider:
+      name: financefeeds
+      domain: financefeeds.com
+    quality: 17
   - title: "AI 'Brain' Technology by Rezolve Joins Forces with NAGA to Revolutionise Online Payment Together with Brokerage Transformation"
     excerpt: "Frankfurt-listed, German Fintech leader, The NAGA Group A.G., operator of the All-in-One Financial Super App, has announced a ground-breaking partnership with Rezolve AI Limited. The integration of Rezolve's AI platform,"
     publishedDateTime: 2023-08-09T19:27:00Z

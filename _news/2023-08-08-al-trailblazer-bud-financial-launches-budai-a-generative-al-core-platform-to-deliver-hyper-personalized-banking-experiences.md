@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "From Laggard To Leader: How The Insurance Industry Is Embracing AI To Deliver Real Business Benefits"
-    excerpt: "Progressive insurers are embracing the transformative power of AI to improve their operations, attract customers and enter new markets."
-    publishedDateTime: 2023-08-08T11:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/from-laggard-to-leader-how-the-insurance-industry-is-embracing-ai-to-deliver-real-business-benefits/"
+  - title: "Got It AI launches Agent Copilot to give AI assistance to customer service and sales"
+    excerpt: "Got It AI, a conversational AI firm helping enterprises, has unveiled Agent Copilot, an AI assitant for customer service and sales operations."
+    publishedDateTime: 2023-08-09T22:01:00Z
+    webUrl: "https://venturebeat.com/ai/got-it-ai-launches-agent-copilot-to-give-ai-assistance-to-customer-service-and-sales/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 52
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 77
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63923fd8974e7883484072b2/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/GotItAI-AgentCopilot.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 672
+        isCached: true
+  - title: "Zoom says it will not use audio, video or chat content to train AI without customer consent"
+    excerpt: "Zoom has updated its terms of service to clarify it will not use customer data to train its AI unless a person consents."
+    publishedDateTime: 2023-08-09T14:24:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/zoom-says-it-will-not-use-audio-video-or-chat-content-to-train-ai-without-customer-consent-1.6511817"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/8/9/1_6511817.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/8/9/1_6511817.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 49
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/8/8/1_5407257.jpg"
+        width: 1020
+        height: 573
         isCached: true
 
 secured: "pup2lnYpGwb+G7zMcJon4YIODs/p6KAV2K+ftIhLEQO3NbEIPhktgaPODD/BuT1I09KP1A65Se1XIuk4SAXSmmnpjeT+MbMJBRQy2tKtUoDPbe2dsLfH27HQ4mMrrF60p+AxH4+V7Jkba35QYKHsgs5OP7yei0EV8iIXJ5/OshJ32WEOUXJQLGymFRcbDZNoibBq9rallbZuwqw5Elu5fcMIeqlOAHe2T1FLDLlsW0nG1VptZkhe1Hw90PiOhho0HqgNkC+G/KikhjCI7BL9DfYnv5RuezJ+l/TEyZ/ID1xki8isXjSsM979YiPTWfmxPiqUcN7Bs6Ae52C0O6vIINhvIy3D/6znrlcavtvRKg0ViLg8U/BqkyvPTto6pFZUTA8lARIIkWrClGFkNDP114CP3Yg7gUMPTpvH9TuVJ0yRIZnhp8nM3C+fuuRfRdpZVvthJpXNsTSsw3BTVNoUfE9IbrEj2jyJ2AI0Ovw/ExlUMlu3Zps3gwGl+Dws18goEeYv5Bd5KywcDG6xQRCAxQ==;QsKyxrTTJnMMN0ZzWxiOaQ=="

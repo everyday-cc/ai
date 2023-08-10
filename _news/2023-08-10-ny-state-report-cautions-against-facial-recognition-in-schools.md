@@ -33,20 +33,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "China Plans To Restrict Use Of Facial Recognition Tech By Businesses, Issues Draft Guidelines"
-    excerpt: "China is planning to restrict private businesses from using facial recognition technology less than two years after it announced a data security law."
-    publishedDateTime: 2023-08-09T09:32:00Z
-    webUrl: "https://www.ibtimes.com/china-plans-restrict-use-facial-recognition-tech-businesses-issues-draft-guidelines-3708019"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 28
-    images:
-      - url: "https://d.ibtimes.com/en/full/3134691/facial-recognition-systems-could-using-your-photos-without-your-knowledge.jpg"
-        width: 1920
-        height: 1285
-        isCached: true
 
 secured: "7WbsbV0Sduq7TrT7q29LPS277xH3LTH4iJohYT4AdW2gFdnf2heAab3rwlwlSDbJLSPxPygotR+ciwIavdJJPzKc+4t93gjlUkX57LPfyhdD3nKl6LuK8aDwWOHUvLXe+KkWbiHZDyWPZ6dE6rEMWjfVGAeJhu6eJTVLf5EwN7xLe0/lC8T6IU3NS04c7xwOQUKm3J89S2jVmkMrS3LJZr0T+eGPfv4aEl5msGcvcKA748JBD6mSsnKklkkVN1oqTqggvHNofvW/5BRqXNul7+N2SZR4lGf1XyQPZ8OmwD/RqTu4Cy0oOHccdE6mbm02Hbx6JtsSVogljPbB8FlEzO4SHdVXS175nILMS+0JWICggFt9OMje6fuWtTII/zdXBOCW7PrZgi6D2USWJLYUV91e98rxxZzwN5bwz4CnM6Udc9i///Ijc+Sw37M1TarPCHEB6Qadbt0CJIW+Q/TOyvp2cHz6fm2O3o4khIKIu+ayuvlfewPRXeCRTCJLqlQwu8gucxR4t7YkZQjQ1S/rJw==;wgfxxEbWGHELSDpYzhrvhw=="
 ---

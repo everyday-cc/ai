@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Google Cloud: The Grass Could Get Greener"
+    excerpt: "Google Cloud has advantages over Microsoft Azure in the AI race. Concerns arise regarding competition from Nvidia's growing ecosystem. Learn more on GOOG stock here."
+    publishedDateTime: 2023-08-09T23:24:00Z
+    webUrl: "https://seekingalpha.com/article/4626247-google-cloud-the-grass-could-get-greener"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/944347618/image_944347618.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
+        isCached: true
 
 secured: "M/hOW/low0gHiDtmp/nPOxwZLv9zirX7zXPMv3A7ZLSZ//HAoXvGg0prk0KwJGVtUHmhZsozXAGcDSJF2Qx1utdpIeUgZ9bgybJXeOJs+1i3+QzGZIFY84YG8cKpJ3A6go+jbJYz4/W8k4gzTTtpj0I8HhrTieabvfmYY3d1rIEgkV2XAU6boP3fWyTduCO1MI/6OtKo1Dcjpr52I1wSwgtE0FPjX+nEdVxysm+2MghnaNd+MRG/OlWescn0aOPLP720YqN3/KVs4cWB+z1fYD/QjoUKdZf5x/PJaFXQGOISfsvUC9jtKWKXvhPX0kywl1CGCit5s2Q7aMqzik8fc5oKE7O+ELhR+heGePYqSZNZ6XLFIyjBxiMgisYtD48yGBr67mpCp7Di7/eJ+Xxnop/F7852Vq7NLnd3yA2sRueTHR+lk9gnr/ZFIpJpCG3Mjxfmh7n5Zc5qNQ9nnBXimqcBK239UFcqjZqkob4Rv0fWCW3d+j/GeiupfeG7L1cZy8u+5BgQOzs3Dvix5jtlKw==;N9jjFSlJqA03NRpKPosf0A=="
 ---

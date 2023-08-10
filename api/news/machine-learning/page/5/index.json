@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-06-18-universities-team-up-with-edx-to-offer-micro-bootcamps-in-machine-learning-and-ai.md",
-      "title": "Universities Team Up With edx To Offer Micro BootCamps In Machine Learning And AI",
-      "excerpt": "X, the global online learning platform, is launching a Machine Learning and Artificial Intelligence MicroBootCamp in partnership with 12 American universities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/06/18/universities-team-up-with-edx-to-offer-micro-bootcamps-in-machine-learning-ai/",
-      "originalUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/06/18/universities-team-up-with-edx-to-offer-micro-bootcamps-in-machine-learning-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648e18c771786c5a475e44a7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/06/18/universities-team-up-with-edx-to-offer-micro-bootcamps-in-machine-learning-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2023/06/18/universities-team-up-with-edx-to-offer-micro-bootcamps-in-machine-learning-ai/amp/",
-      "publishedDateTime": "2023-06-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-17-automated-machine-learning-automl-market-size-report-2023-2030.md",
       "title": "Automated Machine Learning (AutoML) Market Size Report, 2023-2030",
       "excerpt": "Automated Machine Learning (AutoML) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report",
@@ -1431,6 +1379,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-machine-learning-uncovers-the-best-drug-combos-to-prevent-covid-recurrence.md",
+      "title": "Machine learning uncovers the best drug combos to prevent COVID recurrence",
+      "excerpt": "A groundbreaking machine-learning study has unmasked the best drug combinations to prevent COVID-19 from coming back after an initial infection. It turns out these combos are not the same for every patient.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-06-machine-uncovers-drug-combos-covid.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-06-machine-uncovers-drug-combos-covid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-4.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-06-machine-uncovers-drug-combos-covid.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-machine-uncovers-drug-combos-covid.amp",
+      "publishedDateTime": "2023-06-13T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

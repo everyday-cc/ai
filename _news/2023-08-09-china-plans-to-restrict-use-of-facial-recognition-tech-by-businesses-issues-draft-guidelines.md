@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "State report identifies risks in schools' use of facial recognition technology"
-    excerpt: "The New York State Office of Information Technology Services (ITS) has determined that, when it comes to the use of facial recognition technology for security in schools, the “risks may"
-    publishedDateTime: 2023-08-09T00:45:00Z
-    webUrl: "https://www.lockportjournal.com/news/state-report-identifies-risks-in-schools-use-of-facial-recognition-technology/article_4b7405e2-3637-11ee-b21f-83bab4da8249.html"
+  - title: "DPD pushes to enact changes to photo lineups after facial recognition lawsuit"
+    excerpt: "DPD Chief James White spoke Wednesday about a lawsuit filed last week in response to the department’s use of facial recognition technology that led to a Detroit woman being falsely arrested."
+    publishedDateTime: 2023-08-09T21:35:00Z
+    webUrl: "https://www.wxyz.com/news/dpd-pushes-to-enact-changes-to-photo-lineups-after-facial-recognition-lawsuit"
     type: article
     provider:
-      name: Lockport Union-Sun & Journal
-      domain: lockportjournal.com
-    quality: 35
+      name: WXYZ
+      domain: wxyz.com
+    quality: 36
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/custom/image/1607916a-a04b-11e5-8da0-23a879e9bf1f.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c4d91d6/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2Fdf3%2Fbe88c4e651db4a7dbe102614d7272948%2Fdf361fcd68a54b8da81329dfc436b5ec%2Fposter_0a47622d89c94d479fafd0c213d1a00f.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "NY State Report Cautions Against Facial Recognition in Schools"
-    excerpt: "In setting policy on facial recognition, the New York State Education Department will take a cue from a new report from the State Office of Information Technology Services that found the risks may outweigh the benefits."
-    publishedDateTime: 2023-08-09T18:24:00Z
-    webUrl: "https://www.govtech.com/education/k-12/ny-state-report-cautions-against-facial-recognition-in-schools"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 34
 
 secured: "wBNhzYCnmIxnGh0iH/ymMQPImN2FsqqvFYfeXYBmsv5qo1RRs4fQB2imAMsEkTYgTIumOVi6sFH5QEXruJEtrvA+NjGZqpbpdmTKmBOx8VihHEKFtmDT/tzGVQrU9Ex+ZbApHwSowtXTubqXnuefdBf3m+IF4R/HlFhleGHEmzD4byA6f5zSz5l0JjvCeNl00wI2u43QST2ds212XXk/PoIMO2uafeZQmdNGuEEobSal0AfQphwzQC+QSmZ3LCkIaaIIlTU/uondQNtWe90O2XCKpNUvnnkeUxtYyeK6gkuccEDXcBZB4o50tbve8FxN6rz/f7i6oV0ckrr/pGey9w32aoJyFdGO+uq/SmeLFvg=;gtiWigyKUykaT8Gx43mfHQ=="
 ---

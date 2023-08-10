@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/zoom-revises-terms-after-changes-spark-
 webUrl: "https://www.pcmag.com/news/zoom-revises-terms-after-changes-spark-fears-of-ai-learning-from-video"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: PC Magazine
@@ -27,24 +27,6 @@ images:
     width: 1120
     height: 630
     isCached: true
-
-related:
-  - title: "Zoom says it will not use audio, video or chat content to train AI without customer consent"
-    excerpt: "Zoom has updated its terms of service to clarify it will not use customer data to train its AI unless a person consents."
-    publishedDateTime: 2023-08-09T14:24:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/zoom-says-it-will-not-use-audio-video-or-chat-content-to-train-ai-without-customer-consent-1.6511817"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/8/9/1_6511817.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/8/9/1_6511817.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 49
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/8/8/1_5407257.jpg"
-        width: 1020
-        height: 573
-        isCached: true
 
 secured: "juqEKrWt0QhKxauMTBSXqEaR8hQqsGGBK8dwC87j+whJ9sKSwmZCHfAjkETOIiDGjgAUS3WIEFTzJx97H6oRmOmd9+N0U9VkKjf4OzKRgQXVdAtSdjhQJhBuW6swiUjSewZyCuGffUIsGQCXSXFso6iT8Nq24NDd3dWh6rgjQOf/hpI/TJP66xBczqufUSFHXOSkiFIeOKu1gIC9Rx1x09IHy8D9TSU+V65JGVH2m2wBOxVG3oRCpcAL9QzEAwfMY4AMv9vIFPBsBA0jNU5dfWfdWC5o7Cn5iXAHzJkixv2e1LKXXdhuUzH8EmTihHprPzTyvAKthc8XgT4E5IL++bJxKfllAYmjE2jRaULkFWlZpUExUtgfBP0i8I8U9DvI8He+jedNi5/MWKqtsXFNbWM/jL9snw4h/qXBtx65cj0kO3Ov3Cjd3K55RlrdMSyj3mdAARjiO4DDiISht7BYu09TOa66VTXlfm60aq28srd3sy5aDGwhG6hvCucKl3Aw9Ya2RGOZUHRGEZJv0MV1kw==;liShltXvSSy6pGu2FRGXJQ=="
 ---

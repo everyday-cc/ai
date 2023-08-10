@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-en
 webUrl: "https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/"
 type: article
 quality: 94
-heat: 124
+heat: 126
 published: true
 
 provider:

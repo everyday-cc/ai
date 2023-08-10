@@ -25,6 +25,7 @@ topics:
   - AI
   - AI in Robotics
   - AI in Healthcare
+  - AI in Autos
 
 related:
   - title: "The Future Of Programming In A Generative AI World"

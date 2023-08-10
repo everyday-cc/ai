@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33593955"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33593955"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/azure.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Google Cloud: The Grass Could Get Greener"
+    excerpt: "Google Cloud has advantages over Microsoft Azure in the AI race. Concerns arise regarding competition from Nvidia's growing ecosystem. Learn more on GOOG stock here."
+    publishedDateTime: 2023-08-09T23:24:00Z
+    webUrl: "https://seekingalpha.com/article/4626247-google-cloud-the-grass-could-get-greener"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/944347618/image_944347618.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
         isCached: true
 
 secured: "ouJEQHVjMW6gtl6LMNUSwUhhIQ6Nbt8SMdZooNSi+raiB3NoCT+YSZ0PYwmPC/DoKWOkXMRyu7G8uRt5uF3jyZ+pji/AMDROSrK+j2ZNu7zTX8F0cjjdpg0uyqs6SpydwyNg4wkRQm9/ZJJr816rwqT+fjXVaiaLzQ9MZm9986hXJA5I8Z9lsF/aReQra0+VijBJhQtNIZ2+wjqsdlUc88spPA5pY1oyHS67nMF0wv+844W6W5D3FwDxJwjq5WxJAJhbN7IRkoaXv3oyIZnAqRK09qJZZlqg7DWzYiAHBT9+zXzSofLNzshJUbGtKebPr91AXauh0mO3P7i36DvvcO/99So5spiDkW3BoFm7U9E=;4PMG9Sa6r0o9wDG4mNC3Aw=="
