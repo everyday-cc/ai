@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33585861"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33585861"
 type: article
 quality: 50
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-886390,msid-102568306/fintech.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "FinTech LIVE: AI in financial services"
+    excerpt: "In this forum from FinTech LIVE New York, we discuss how AI is already beginning to transform the financial services sector with AWS ’ Global Banking Industry Strategist Sachin Tandon, and MSU Federal Credit Union ’s Chief Digital Strategy & Innovation Officer Benjamin Maxim ."
+    publishedDateTime: 2023-08-08T09:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-live-ai-in-finserv"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/3b954bb1bfdbf39d9330a2cf8e2ce3e8:be2643f3fa4b62e349ff9ba7c35881f6/maxresdefault.jpg.jpg"
+        width: 1200
+        height: 631
         isCached: true
   - title: "Lytus intends to invest $50 million in the fintech business"
     excerpt: "Lytus intends to invest $50 million in the fintech business - Nasdaq-listed Lytus Technologies Holdings, a leading global technology-driven services firm, plans to invest"

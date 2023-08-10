@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-interne
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
 type: article
 quality: 91
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -133,6 +133,15 @@ related:
       name: Fox 13
       domain: fox13news.com
     quality: 37
+  - title: "China’s internet giants in $7.6b AI chip-buying frenzy"
+    excerpt: "Baidu, ByteDance, Tencent and Alibaba are rushing to buy chips vital to building AI systems, amid concerns US President Joe Biden will soon clamp down on their export."
+    publishedDateTime: 2023-08-10T02:58:00Z
+    webUrl: "https://www.afr.com/world/asia/china-s-internet-giants-in-7-6b-ai-chip-buying-frenzy-20230810-p5dvga"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 34
 
 secured: "/45SWMd4FMm+Ye3HKg6Nh/fOzdQ46bDcGkvqcrtoOSmjhgLhrEPYIruyiU8kug0kyOuENTpNlDWtdUfFIl4f9nyFySxV3H28F3VcDxmQu9YJIpBdFyBiKRZm32yLmuaXJoYGdG5ECUFlThsth3G3WjB9eDqerxFnKECMDnoRiaBi523eXWarnmR7W8DIZNMOzFasbh7hmSlwE/cZ3o9QX6dcnyRKAYx+Z/W5yO71Ctbz1wjbbFB+DATtXLK78E/+m3ZywAKE1iHSx6Ehf19OGVH8CBJDJmfxPOtDcF6e3Om/hsi6PNTRgdytj1xxmDNesHNdPxsoUuqHgqzAGm38wfy63OnY6i3ZsH4yl+NumORRHrcn7G9lIy102MknneZY3xMoeecfG3xQhGD2Wqb7a9rblkyQEbQhBvuoH4ruJBML0xULUD+dlUJI8Yfdko4Hk7HCjcCGJQ4yKWYgfrDgUyxbzN/gwBq8swO8ASWueQyYKdrrvCdUhVIm/M+obZqQ4/1fZ+XXdXWQF6hi6EDIrA==;9DrYK4uyUJ7GSY66ivhefQ=="
 ---

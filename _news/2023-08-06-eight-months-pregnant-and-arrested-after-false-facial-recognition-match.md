@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Detroit police chief says ‘poor investigative work’ led to arrest of Black mom who claims facial recognition technology played a role"
+    excerpt: "Detroit’s police chief on Wednesday blamed “poor investigative work,” not the use of facial recognition technology, for the arrest of a Black mother who claims in a lawsuit that she was falsely arrested earlier this year while eight months pregnant."
+    publishedDateTime: 2023-08-10T04:12:00Z
+    webUrl: "https://www.cnn.com/2023/08/10/us/facial-recognition-technology-detroit-false-arrest/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/08/10/us/facial-recognition-technology-detroit-false-arrest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/10/us/facial-recognition-technology-detroit-false-arrest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 73
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230807154058-porcha-woodruff.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Detroit woman sues city after being falsely arrested while pregnant due to facial recognition technology"
     excerpt: "Porcha Woodruff was getting her two children ready for school when police officers presented her with an arrest warrant alleging robbery and carjacking, court documents show."
     publishedDateTime: 2023-08-07T13:42:00Z
@@ -374,6 +390,24 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
+  - title: "Detroit police plan facial recognition policy changes after false arrest lawsuit"
+    excerpt: "The Detroit Police Department will be changing its policies surrounding the use of facial recognition technology in police lineups. The changes come on the heels of a lawsuit filed against the department."
+    publishedDateTime: 2023-08-10T03:11:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/detroit-police-plan-facial-recognition-policy-changes-after-false-arrest-lawsuit/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 14
+  - title: "Detroit Police Department seeks changes after suit over facial recognition-related arrest"
+    excerpt: "Chief James White said Porcha Woodruff's arrest 'emanated from, candidly and unfortunately, a poor investigation.'"
+    publishedDateTime: 2023-08-10T02:07:00Z
+    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2023/08/09/detroit-police-department-seeks-changes-after-suit-over-facial-recognition-related-arrest/70563426007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 10
   - title: "Pregnant woman's arrest in carjacking case spurs call to end Detroit police facial recognition"
     excerpt: "A Detroit woman who was arrested in connection with a suspected robbery and carjacking when she was eight months pregnant is suing the city and one of its police officers for what she says is an over-"
     publishedDateTime: 2023-08-07T20:02:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "China's internet giants order US$5b of Nvidia chips to power AI ambitions: Report"
-    excerpt: "The FT report comes as Biden signed an executive order that would curb US investments in sensitive technology in China. Read more at straitstimes.com."
-    publishedDateTime: 2023-08-09T23:48:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/chinas-internet-giants-order-us5b-of-nvidia-chips-to-power-ai-ambitions-report"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 49
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/08/10/BIGTECHAI.JPG"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Chinese AI startup Baichuan rolls out third LLM in four months"
     excerpt: "On Tuesday, four-month-old AI startup Baichuan Intelligent Technology unveiled its first closed-source model equipped with 53 billion parameters."
     publishedDateTime: 2023-08-09T07:05:00Z

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "100 Days Into Strike: Netflix And Disney Hiring AI Talent, Celebrities Seeking Side Jobs"
+    excerpt: "Now one of the longest strikes in Hollywood history, celebrities speak out on the picket line while others seek out side hustles. What's at stake in the fight against AI."
+    publishedDateTime: 2023-08-10T05:26:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d3dab64223489dddb1ea3f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 837
+        isCached: true
   - title: "Disney Is So Serious About Using AI it Created a Task Force"
     excerpt: "Expect artificial intelligence and machine learning to be injected into every area of Disney's business—from movie production to theme parks."
     publishedDateTime: 2023-08-08T15:20:00Z
@@ -33,52 +49,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Focus: Disney creates task force to explore AI and cut costs -sources"
-    excerpt: "Walt Disney has created a task force to study artificial intelligence and how it can be applied across the entertainment conglomerate, even as Hollywood writers and actors battle to limit the industry's exploitation of the technology."
-    publishedDateTime: 2023-08-08T09:07:00Z
-    webUrl: "https://www.reuters.com/technology/disney-creates-task-force-explore-ai-cut-costs-sources-2023-08-08/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/p8BpMUM8j0AOd6lJJ-4005UBphg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KWTCYTVJCRIMPHR7UWZAZTFDTA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Disney Forms Task Force to Explore Artificial Intelligence"
-    excerpt: "Disney has taken a significant step towards embracing artificial intelligence (AI) by creating a task force to investigate its potential applications across its wide-ranging businesses. The company is exploring the development of AI-based solutions both in-house and through collaboration with external experts."
-    publishedDateTime: 2023-08-09T00:38:00Z
-    webUrl: "https://www.cryptopolitan.com/disney-task-force-to-artificial-intelligence/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 39
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/msg-906142390-4958.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Disney sets up task force to explore AI applications"
-    excerpt: "Disney has established a task force to explore artificial intelligence (AI) and its potential applications throughout the company"
-    publishedDateTime: 2023-08-08T11:50:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/disney-creates-task-force-to-explore-ai-possibilities/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 19
-  - title: "Disney Forms Task Force To Study Ai Applications And Cut Costs Amid Hollywood's Writers And Actors Strike"
-    excerpt: "Walt Disney has established a task force to delve into the applications of artificial intelligence (AI) across its entertainment conglomerate, even"
-    publishedDateTime: 2023-08-09T12:32:00Z
-    webUrl: "https://menafn.com/1106816481/Disney-Forms-Task-Force-To-Study-Ai-Applications-And-Cut-Costs-Amid-Hollywoods-Writers-And-Actors-Strike"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 2
 
 secured: "3VClCZXlKfo1UUSSEhneaXT+cIOK3Z5qs8MqcxnkSyWjHzKrKVCCP9P0b8dzVZihHGrVcQ1ql6WXhhPN34aym73maDJXClE0VFBhPd/QJZJ1cSR8POkDHfryzOjzo7pthOILcGhpXqlT8K4X0gk7FOHBmxfQAYVpREVxyrz23tjqCdTY5GJSWAElDUSl+JwZTCdd+w7+OhukuPp85rJ9akHoLGW8CxJwg2awy+vgICeowYjj1HZX4Q3tSDX/axYvL6sWLwVoFjKH7QMnvHtiZFlRXj8eZhIl+pk9R9f1lh1pG8RrTl1wibH7TtfaHLLR3o1urqFB31dynO143DfaMtH9Xhznk/L/gq9JsX3YKNSJV17pohZkL90fZAOy0CKymoqpXyXvsovOWwXxauKEZz2rv4Ziiwj2oD3pN3S+sMNLP/wMpZbJlKcrQ3EKrgChTNkuJpLsFK+IRSPpBEE71F7GjGwS/e7RhQcNlxCfqzcePWaYzieR1TsMDQZVY1zubCs6nB9Rk9TBxy8GSpNMQA==;qTQ/zrh9LjY6xkgXKdNGzw=="
 ---

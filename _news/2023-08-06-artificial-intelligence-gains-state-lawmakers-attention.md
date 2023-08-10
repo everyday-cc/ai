@@ -9,7 +9,7 @@ ampWebUrl: "https://www.staradvertiser.com/2023/08/05/breaking-news/artificial-i
 cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/08/05/breaking-news/artificial-intelligence-gains-state-lawmakers-attention/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
         width: 1024
         height: 749
         isCached: true
+  - title: "Artificial intelligence is gaining state lawmakers’ attention, and they have a lot of questions"
+    excerpt: "As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they’re often focusing first on their own state governments before imposing restrictions on the private sector."
+    publishedDateTime: 2023-08-07T19:00:00Z
+    webUrl: "https://brooklyneagle.com/articles/2023/08/07/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/"
+    type: article
+    provider:
+      name: Brooklyn Daily Eagle
+      domain: brooklyneagle.com
+    quality: 20
 
 secured: "Ye/bdV4keTzGFjoUk0mfoWj2MlOVCfZ0xrPYOS4LevaGmeV/0zNKa+4sb5tKUeoqLCpK5ViDfvEXVFpaHTB+7skImen7boCf9qQrh0xZtNPWNjDrLlZeOpOd1EjaQHVlzz0jG6k+EGDOmwHrlCYkGkoyE5A5DaK4s6D3xIpXRDB18LW6s5W5hbjhLPMgSfMCof3HRXlX9jNsMIJ3Ip0W5toyEZ1WATsvCRTRLCxfKEOwqLnVZPZJCoQlOUa+sl1qBDKVGURVEb1fcte7/MkfBKQ2+iVzRrMQan2hrFw/0ljWPj2qoEFsUgLs66YPCKsHVMn8ZQM4vBWWsjGsK+DrEaBk/YRAsV2kDduA5q6A1Mc=;jHO8DT4bPhNCChuj8S8LNw=="
 ---

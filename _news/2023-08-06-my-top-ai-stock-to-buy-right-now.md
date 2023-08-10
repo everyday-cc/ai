@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-r
 webUrl: "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/"
 type: article
 quality: 69
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -54,6 +54,31 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Investing in Artificial Intelligence Stocks: Things You Have to Know"
+    excerpt: "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have."
+    publishedDateTime: 2023-08-10T05:15:00Z
+    webUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html"
+    ampWebUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "2 AI Stocks to Sell and 2 to Buy Instead"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors should expect a steep selloff among artificial intelligence stocks,"
+    publishedDateTime: 2023-08-09T09:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/2-ai-stocks-to-sell-and-2-to-buy-instead-1032534021"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "2t5u/6PXmQgrhbCx0riPf4EtdgiLzIbUgG4xk3NKAhFYlA4S/T/xE+TLJJmnYOmMQFh2nCti4MePRHfwvQ0qhqfkGWeeiWg8SRJQJd7YDvtRCmjzpwEVk+1jB/9tsgAW+CUL90xhJ5YLmd9fKzUuvoItj1XPRkZtWVE/DNvXPs0MEKdo79A8iNmTf722XmyQkQ6aT8XsHvLa8ca4+UsS857/bymyR1QheOUE0aikWx6ubZCrHUgqncJ4F7c3kp8wSHIcnU9563lLYB3ItdN+S6QumiVSCyAmi154iItHv7/HW7G92AwhEuDtOtI1opWWk0z67nLvRcF7CsURnaqndCBX+h4qpCEWAjPURPPseUY=;VrE7l233FPjdeAvviN0KqQ=="
 ---

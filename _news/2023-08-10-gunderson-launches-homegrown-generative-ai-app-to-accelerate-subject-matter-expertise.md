@@ -39,22 +39,6 @@ related:
         width: 625
         height: 270
         isCached: true
-  - title: "FOMO-Driven Generative AI Acquisition-Spree Has Begun"
-    excerpt: "The market frenzy in Generative AI acquisitions has begun. Let's try to predict which corporations will be active first in the Generative AI sector."
-    publishedDateTime: 2023-08-05T09:23:00Z
-    webUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/"
-    ampWebUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ce136208f2d9cb9a364b30/0x0.jpg?format=jpg&crop=1600,900,x197,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Future Of Programming In A Generative AI World"
     excerpt: "Generative AI is revolutionizing programming, making coding more accessible and productive, but ethical considerations and human expertise remain crucial."
     publishedDateTime: 2023-08-07T15:02:00Z
@@ -299,15 +283,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Apple seeks to bolster expertise in generative AI on mobile devices"
-    excerpt: "All the jobs were advertised between April and July and indicated that Apple was working on “ambitious long-term research ... Facebook owner Meta, but planned to grow further, the person said. In 2020, Apple paid almost $200mn for Seattle-based AI ..."
-    publishedDateTime: 2023-08-05T13:00:00Z
-    webUrl: "https://www.ft.com/content/d74477b6-8355-42a9-ae37-7c835880ef9e"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
   - title: "KPMG’s Generative AI Play"
     excerpt: "KPMG India, sheds light on the consulting sector's initial hesitation towards generative AI, the evolving mindset, and the innovative implementations that are shaping the future of these sectors."
     publishedDateTime: 2023-08-08T11:41:00Z
@@ -327,6 +302,6 @@ related:
       domain: theguardian.com
     quality: 14
 
-secured: "SguKM1YjqJbTIAyhiWfjfyQdD6tCH88YfALJAGvExrEaP4t5DrdThQ0nuHqRiH7RbDUPJCS6emvQrQSS89IwcvvId4+yfdM+wtLJFUVpA35bRfoTGXHh/5jrWVEew99/jDsdVIu+wG++KeDUhU0ebWinamZnZC3tVgDLlmYT9YzpwZKAMj5Hg9kS/mrV+rv2GrHNxN6gk3zuniA30vxtkXU1w6xlAtqahFn/Piz0nv+lizETdQXUl21OqOCFLzUk0W/lsId8u8DFaX+1YKkIVNL/ADfDbllylMNEvWY1qMNV0AZT+2LfdQlUsvtARtn6Oq3F1K4OdWf4wlCy+u6nVL7Y6HdkpZti3eFQfanRYA0=;OJ2eiYDlk73E3ZWa4oXLyA=="
+secured: "+anogoFeKh25yxHZZ3cbipsf/CxefABbolveMjecoG2z1p7CEEsJMrPS9drekILp4dbF7MV4iDiL1/CPal5C6PR8aB0O5+YeCy+8lbJ7tAGJDHLeISmPjzPxz171lJ9bOI4l0J3X7o7uyxVzQ8h4OHSIaW4yPhX+g6KZsF0f5IyVJNVkEW/mQCggOKCODl0Okgjnow0RYxBznncWumuDuQl4yZIARp7ehKm3wUoxj3baEUxEx8GuFCOSiphaPmlZBLE7J6domTGdK2a95bsTo9jxwtL+XWfbDPv/4n1kvBg9IFqZbK+PSy243qZbp3Da8SIjOpkuRUGqmtnf7f9p3wHn1yfYDdaIZrDbetk4DXk=;yd8MrHhbm0R4wIqOHqWGJg=="
 ---
 

@@ -53,6 +53,31 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Investing in Artificial Intelligence Stocks: Things You Have to Know"
+    excerpt: "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have."
+    publishedDateTime: 2023-08-10T05:15:00Z
+    webUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html"
+    ampWebUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "2 AI Stocks to Sell and 2 to Buy Instead"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors should expect a steep selloff among artificial intelligence stocks,"
+    publishedDateTime: 2023-08-09T09:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/2-ai-stocks-to-sell-and-2-to-buy-instead-1032534021"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "nCUDkOiXElVb7hwDEPeoFaCku73bWTQWgF91ZXjYYrf9up3dIQ1NEqs1tFf1gLznfcd6JneyJwTNAnUzONgZZvVLwniPkE+P2HbSZXN7eBMzhyIDyTu3J8zBKCgRip60ebsQhhHPtd0PiU/NtcFs7XOah3GZcmkV+4tEDx2plF0EHWVGyGqD22Z1man1M9YrqEHwpRc49x90ngpxcG9V5Re7xIVGmXkMM5d6OIDFbFJ5VYmAnhxUnG/YdYccZ0L0vrnL0Qx4QzvZyZFPAfcHk/VkGE5gmP92OVdXrs7r+z9Ajr9xaQf10XevLYmh64Lo/oaTugFcFL8eyjqbLt4LCSPrDqU7V57h47C+qAWtDQ5KpaeOSs1GJC92rQFBh0EW+77vYwWw0DtUeC2S/AX66PpaugMMhHfFvqcKgYOtu5760wNd4yPMxwxn0Zh9/UHJ5JLCInPbleDF6ErXmhhtj3MZQJ44eUAz8F6gGqpW5iychLYsIXWFr3yTdkRPZEY31VAVfjCqRiCkOhDulgZdmA==;l0a3OxlAJM4R8TRa6YvSqg=="
 ---

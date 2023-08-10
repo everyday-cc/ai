@@ -7,7 +7,7 @@ originalUrl: "https://www.cryptopolitan.com/how-ai-in-education-warning-ethics-e
 webUrl: "https://www.cryptopolitan.com/how-ai-in-education-warning-ethics-efficacy/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://digileaders.com/wp-content/uploads/2023/08/shutterstock_2238570409-scaled-e1691580373332.jpg"
         width: 800
         height: 338
+        isCached: true
+  - title: "Education Artificial Intelligence Cheating"
+    excerpt: "Faculty members engage in discussion during a teaching circle on artificial intelligence on Wednesday, Aug. 9, 2023, at Temple University in Philadelphia. Educators say they want to embrace the techno"
+    publishedDateTime: 2023-08-10T04:01:00Z
+    webUrl: "https://www.goshennews.com/news/national_news/education-artificial-intelligence-cheating/image_9e8f6e8f-ec1c-5508-bf47-11480663587f.html"
+    type: article
+    provider:
+      name: The Goshen News
+      domain: goshennews.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/assets/v3/editorial/9/e8/9e8f6e8f-ec1c-5508-bf47-11480663587f/64d46404761a9.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How To Get AI Regulation Right"
     excerpt: "Effective AI regulation should start with bringing the great minds behind AI to the table—those who possess a sophisticated understanding of AI and its applications."

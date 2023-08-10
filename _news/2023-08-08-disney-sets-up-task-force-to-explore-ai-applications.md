@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Disney Is So Serious About Using AI it Created a Task Force"
-    excerpt: "Expect artificial intelligence and machine learning to be injected into every area of Disney's business—from movie production to theme parks."
-    publishedDateTime: 2023-08-08T15:20:00Z
-    webUrl: "https://www.pcmag.com/news/disney-is-so-serious-about-using-ai-it-created-a-task-force"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05xz3UGLjCX3ft8hSSpylGk-1.fit_lim.size_1200x630.v1691507474.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Focus: Disney creates task force to explore AI and cut costs -sources"
     excerpt: "Walt Disney has created a task force to study artificial intelligence and how it can be applied across the entertainment conglomerate, even as Hollywood writers and actors battle to limit the industry's exploitation of the technology."
     publishedDateTime: 2023-08-08T09:07:00Z
@@ -61,15 +47,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Disney AI Task Force: Exploring the Marvels of Artificial Intelligence"
-    excerpt: "Disney launched its AI task force earlier this year, prior to the onset of the Writers Guild of America (WGA) strike in May. The task force comprises a team of experts dedicated to exploring the potential applications of AI within Disney’s diverse range of operations."
-    publishedDateTime: 2023-08-09T13:01:00Z
-    webUrl: "https://www.technowize.com/disney-ai-task-force-exploring-the-marvels-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Technowize
-      domain: technowize.com
-    quality: 34
   - title: "Disney Forms Task Force To Study Ai Applications And Cut Costs Amid Hollywood's Writers And Actors Strike"
     excerpt: "Walt Disney has established a task force to delve into the applications of artificial intelligence (AI) across its entertainment conglomerate, even"
     publishedDateTime: 2023-08-09T12:32:00Z

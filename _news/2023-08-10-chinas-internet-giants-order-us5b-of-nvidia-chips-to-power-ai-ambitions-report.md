@@ -25,50 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "Biden signs executive order banning investment in Chinese AI, other tech"
-    excerpt: "President Joe Biden signed an executive order Wednesday banning U.S. investments in artificial intelligence and other technologies that come from China."
-    publishedDateTime: 2023-08-09T23:28:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/"
+  - title: "China's internet giants order $5 billion of Nvidia chips to power AI ambitions: Report"
+    excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday."
+    publishedDateTime: 2023-08-10T04:36:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/china-internet-giants-order-5-billion-nvidia-chips-power-ai-ambitions-report/article67179110.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/china-internet-giants-order-5-billion-nvidia-chips-power-ai-ambitions-report/article67179110.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/china-internet-giants-order-5-billion-nvidia-chips-power-ai-ambitions-report/article67179110.ece/amp/"
     type: article
     provider:
-      name: UPI
-      domain: upi.com
-    quality: 58
+      name: The Hindu
+      domain: thehindu.com
+    quality: 66
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/6541691620107/2023/1/253c6e9417c032a9382c422147f5a677/v1.5/Biden-signs-executive-order-banning-investment-in-Chinese-AI-other-tech.jpg"
+      - url: "https://th-i.thgim.com/public/incoming/v7usrh/article67179111.ece/alternates/FREE_1200/2023-08-03T124237Z_1663218347_RC2L91A0ORCI_RTRMADP_3_COREWEAVE-FUNDING.JPG"
         width: 1200
-        height: 798
+        height: 800
         isCached: true
-  - title: "Chinese AI startup Baichuan rolls out third LLM in four months"
-    excerpt: "On Tuesday, four-month-old AI startup Baichuan Intelligent Technology unveiled its first closed-source model equipped with 53 billion parameters."
-    publishedDateTime: 2023-08-09T07:05:00Z
-    webUrl: "https://technode.com/2023/08/09/chinese-ai-startup-baichuan-rolls-out-third-llm-in-four-months/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/08/截屏2023-08-09-上午11.06.06.png?fit=2672%2C1506&ssl=1"
-        width: 2672
-        height: 1506
-        isCached: true
-  - title: "Biden issues an executive order restricting U.S. investments in Chinese technology"
-    excerpt: "President Joe Biden signed an executive order Wednesday to block and regulate high-tech U.S.-based investments going toward China -- a move the administration said was targeted but it also reflected an intensifying competition between the world's two biggest powers."
+  - title: "FT: China’s internet giants order US$5b of Nvidia chips to power AI ambitions"
+    excerpt: "China’s internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems,"
     publishedDateTime: 2023-08-09T23:06:00Z
-    webUrl: "https://www.ctvnews.ca/world/biden-issues-an-executive-order-restricting-u-s-investments-in-chinese-technology-1.6512662"
+    webUrl: "https://www.malaymail.com/news/money/2023/08/10/ft-chinas-internet-giants-order-us5b-of-nvidia-chips-to-power-ai-ambitions/84469"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 18
+      name: malaymail
+      domain: malaymail.com
+    quality: 51
     images:
-      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/8/9/biden-1-6512763-1691622416724.jpg"
-        width: 1020
-        height: 573
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/08/10/thumbs/400x400/136995.jpg"
+        width: 400
+        height: 266
         isCached: true
+  - title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions: Report"
+    excerpt: "Nvidia offers the A800 processor in China to meet export control rules after U.S. officials asked the company to stop exporting its two top computing chips to the country for AI-related work. The FT report comes as President Biden on Wednesday signed an ..."
+    publishedDateTime: 2023-08-10T02:32:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions-report/102589724"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 28
+  - title: "China’s Internet giants order US$5 billion of Nvidia chips to power AI ambitions: FT"
+    excerpt: "CHINA’S Internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence (AI) systems, making orders worth US$5 billion, the Financial Times (FT) reported on Wednesday (Aug 9)."
+    publishedDateTime: 2023-08-10T00:26:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/chinas-internet-giants-order-us5-billion-nvidia-chips-power-ai-ambitions-ft"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 27
 
 secured: "GXTqQ7BM0Riq+JHgcQX38SObQYExoxcIV//Pc9bzD4AIlZsMoNWuysTBlfQKI+G6uGeezP0+1LqlCHWdu+kWPiDMuaokXs+IJMBj8RPbp6xq8y87Qnw9NoozUYRsPALZuEk3mkRca6awdYUJd7ifeQDWO8HmiTwNSrwZuKfncUW5LTfN8ueSclVqktze0JuIRqxQ3UGk/NWdHmgNA1RcRTksKSW2kmSJRWBR8iWUXD086r7yPM/k+f5o0G4B9XhZwc3fwFtizpLzuGwVkPHGD0ZVoR62cLspXpMifsLD5ilN9b7dZH58t4QlmMmQlJAS8rAygcAJH+baqK6YxFupInAsnlwq7bQj2flEp5fpUTD5arBHNNQOkmxqOFviUMfET7DQJ1A9a/8Y345BYi22am7EmDcnVAtBhCxuv9sMvBZBcBmVjGpqybbr/Bn3kDMdG6KufvHOC5D1Iur3t2eINZRC9AtMLXmdnWKDFJ4xKgGKyyFgQKxt3QK76xaXw+QBD2X9tqlCQ/p2i1xjaKQvKw==;653XQ4e3/C7zip7kSGGrEw=="
 ---

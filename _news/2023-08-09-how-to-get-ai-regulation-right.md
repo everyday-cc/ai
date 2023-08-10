@@ -50,6 +50,20 @@ related:
         width: 800
         height: 338
         isCached: true
+  - title: "Education Artificial Intelligence Cheating"
+    excerpt: "Faculty members engage in discussion during a teaching circle on artificial intelligence on Wednesday, Aug. 9, 2023, at Temple University in Philadelphia. Educators say they want to embrace the techno"
+    publishedDateTime: 2023-08-10T04:01:00Z
+    webUrl: "https://www.goshennews.com/news/national_news/education-artificial-intelligence-cheating/image_9e8f6e8f-ec1c-5508-bf47-11480663587f.html"
+    type: article
+    provider:
+      name: The Goshen News
+      domain: goshennews.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/assets/v3/editorial/9/e8/9e8f6e8f-ec1c-5508-bf47-11480663587f/64d46404761a9.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hJZbbeYKhT7U3GI3GAGQwTa0iidyS9llgQg2r5W7aLK+DQIswS22YNbJoqUrAASf1H+FU3etzwaw/cQbLbAqAPWfvDJRSVs9uX+v3N8KcvFFHgKIWkW18rhojJjM15c/49IH3ToVJpCttl/clTA4PneIAjAyEmtDFLv3rzVFwuaEahjjn56UCI/0iUs76pAvGotyl64/q4o9na7bcy7W8pXCpXF3WJlc/wu6Sl6q+z0pCR9zld04pxgF5VG15BbtRdWr7p12PSqa2mTbLEq/T+kDZP62GqS13KgnGlc3sibHKDSv72/c45TXTDW30R91d56sw1IWfKpNnnnCtpponbGmbLHpTElw4kgEd6axMvBUMIzqIoKtfAbedXaxgyiejSke4Qj4Rpcj1XCMEYCqM16qnUbYJJ2karPM2NmNNk7PArbW8mBCVwzSSo6PqFrwdJl4zy+2CbpOYqU0jVolwu2SnKvxaawX3ULqSscaA8C6r6HAdBz1Vnh05D+60eyIAkV/l06Z80Ggl9ZEs3neTg==;AlDRq+h1AAXPya+Vahh2SQ=="
 ---

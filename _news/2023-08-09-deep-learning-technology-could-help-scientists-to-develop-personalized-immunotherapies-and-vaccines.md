@@ -27,19 +27,17 @@ images:
 related:
   - title: "New machine-learning method may aid personalized cancer therapy"
     excerpt: "Deep-learning technology developed by a team of Johns Hopkins engineers and cancer researchers can accurately predict cancer-related protein fragments that may trigger an immune system response. If validated in clinical trials,"
-    publishedDateTime: 2023-08-09T15:45:00Z
-    webUrl: "https://medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.amp"
+    publishedDateTime: 2023-08-09T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/998118"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 76
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 56
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/new-machine-learning-m-1.jpg"
-        width: 2167
-        height: 1522
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/cb5c3276-d676-49ce-a6fa-24de556f44db/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "2f+uPSKSRhOzFYtcBBTCVdzml3vz5dadj5PhizBTFKv9itmK1ghQhk9dWurX+y9dJINqnG3ZzCuU2CAcRmb33JUPqR2Z+qX9Rsnmoi4v5nmeTEYBrEQ6D8d0RQ2/CD5esyNaARCVBko+RyCWGFTecJcZUz/+ZVDVaiM+MGkbYQjxkcD9/6FbGbiDhsLbPPwzhH9TowJG4VuWcDGhCsbTVDqgr0i7NVm5SlbpFQ276XdrKCLZcQnMyDU4UuWtW1flUF1nzN0OZG7eMG6z34ZvWVG0cminKPWHHnpmEg+vQJ/nsqRTIVPC8FKlIcDuZSUtwBGEF5luUVGZFxMWDua+OxgYHot9p0jxgCoXCSbtkSk=;0cBV3Req+0KV34y4Co3YTw=="

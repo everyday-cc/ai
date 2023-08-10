@@ -191,6 +191,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
+    excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence"
+    publishedDateTime: 2023-08-09T16:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Microsoft Azure expands availability of OpenAI GPT-4 and GPT-35-Turbo models to more regions"
     excerpt: "Microsoft's Azure AI infrastructure has made an expansion, offering OpenAI's GPT-4 and GPT-35-Turbo models in various global regions. The service now covers"
     publishedDateTime: 2023-08-08T15:37:00Z
@@ -360,15 +369,6 @@ related:
     excerpt: "\"Working together, we will combine our AI expertise to create AI-fueled offerings that will enable businesses to further automate and scale their processes and make informed decisions based on data-driven insights,"
     publishedDateTime: 2023-08-07T14:05:00Z
     webUrl: "https://technews.tmcnet.com/news/2023/08/07/9860278.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-  - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-    excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help clients adopt responsible AI"
-    publishedDateTime: 2023-08-09T15:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-protiviti-achieves-ai-machine-learning-microsoft-azure-specialization-/2023/08/09/9862041.htm"
     type: article
     provider:
       name: TMCnet

@@ -50,6 +50,31 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Investing in Artificial Intelligence Stocks: Things You Have to Know"
+    excerpt: "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have."
+    publishedDateTime: 2023-08-10T05:15:00Z
+    webUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html"
+    ampWebUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "2 AI Stocks to Sell and 2 to Buy Instead"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors should expect a steep selloff among artificial intelligence stocks,"
+    publishedDateTime: 2023-08-09T09:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/2-ai-stocks-to-sell-and-2-to-buy-instead-1032534021"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "9wC34/DA7nrH5Q0cpUjFTIxu35SqZjnnwAKoYajoX3ugE1mPX+2POb8JhhBfnhJGZtzyvOpNksZ+pWYZ1XGr1Io+MaZTBdj4N4l6XiZuUR9oty3ZLoDJTPPET9MlsR2GSEYk8mEeFjw2iNqmQysQbUBHHJrq7pcOVsxKHuHnXYBsArIZAPwR3Gj1WlLGoqMPXVZiQaJ15QfrSFDRNnV8EXkS0cgM6HQFHdrx9y8NDs/1rpt17Y+YlxiNIejW6eCI8HA47huQ9PerOlxOMh6jfEBGWGBbdxQETc+Ltz1pjt/gebwuxihtZihCbjnDjXLGyw44OJ/5LC2hhBjNlmZcYMJjmkiNRPbXQdAzXCBa6bA=;1QBeTDQzF/zUKW7ugN2LCA=="
 ---

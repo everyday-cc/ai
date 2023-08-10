@@ -69,6 +69,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Artificial intelligence is gaining state lawmakers’ attention, and they have a lot of questions"
+    excerpt: "As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they’re often focusing first on their own state governments before imposing restrictions on the private sector."
+    publishedDateTime: 2023-08-07T19:00:00Z
+    webUrl: "https://brooklyneagle.com/articles/2023/08/07/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/"
+    type: article
+    provider:
+      name: Brooklyn Daily Eagle
+      domain: brooklyneagle.com
+    quality: 20
 
 secured: "7yHWgpfMmapz7k4jl1blsRYd+N3z0VlhsU7nVP6vnlStvGND/p5eFNrIGHJKqKiO8DvIxLeN0IyxPVbiyrbotl9J0XlRKLdvDmSeqHrsyI+oeNZ0R5qgDxzKXpR0hleenOKVgnIfFZkyZqX4uqGc1gR6gyj8VHxHmK0q2OkkHNOfU/hwGB5Cy9JuKY+EpwCBT+Axk8tOzBlvH4sNR3RZFzH0R7yvZ4/zP6U4o4Rm/hcHJ13NreaeZ+brQHzHLHDM3juEYXEy5GBu1TNxB0F205OoERwey8J+9HLwej6qveYEcwy7G7DTxh4oEaWYVaq4eLzAAFFlwtdPr7bcr3ersi6tzNuPwxGHlMMBzwSSRsQ=;qAAv2zoUWRQ0NA6bIt/oHg=="
 ---

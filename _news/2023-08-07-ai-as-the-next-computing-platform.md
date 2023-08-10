@@ -127,6 +127,15 @@ related:
       name: Fox 13
       domain: fox13news.com
     quality: 37
+  - title: "China’s internet giants in $7.6b AI chip-buying frenzy"
+    excerpt: "Baidu, ByteDance, Tencent and Alibaba are rushing to buy chips vital to building AI systems, amid concerns US President Joe Biden will soon clamp down on their export."
+    publishedDateTime: 2023-08-10T02:58:00Z
+    webUrl: "https://www.afr.com/world/asia/china-s-internet-giants-in-7-6b-ai-chip-buying-frenzy-20230810-p5dvga"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 34
 
 secured: "XqX1Qb3E23YGou9HWneCUZJYBglIXPCV9BGJdrEPXDn7fSm7CG+AdrieBJh6zoGwylEIAhuhFvwNhJ1LbMYGkbXxq4Tnq8fSFm1gPH3Vv+fsPQm5n2eWTN9C1zdxpDM4efw9z/MjSx4FhMyCkrP9/vGtVdFI6Zztn5eZ4biFUbcDYx4n8eXyyqoCFAgkBuPDoqevKGcQPVjEWqWvfebt8AqDN58+dhKw4Fx4F49pAzcPQ6Q0Es5qwUbl8Ky27UTZjIZ/Gqc3W4QcazgTWekgi1hU6Rk8U6UbDJ+nQhYiiKUf3RO10XP71RhvDxReILhhNc9mg8CfNV5sVQsG7x2e5/lXvg6B0Ze3PgP0xZoc5II=;9xZT4WK6sSKspN+rpK8/iw=="
 ---

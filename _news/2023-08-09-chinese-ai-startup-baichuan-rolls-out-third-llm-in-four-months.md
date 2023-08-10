@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "China's internet giants order US$5b of Nvidia chips to power AI ambitions: Report"
-    excerpt: "The FT report comes as Biden signed an executive order that would curb US investments in sensitive technology in China. Read more at straitstimes.com."
-    publishedDateTime: 2023-08-09T23:48:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/chinas-internet-giants-order-us5b-of-nvidia-chips-to-power-ai-ambitions-report"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 49
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/08/10/BIGTECHAI.JPG"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Biden issues an executive order restricting U.S. investments in Chinese technology"
     excerpt: "President Joe Biden signed an executive order Wednesday to block and regulate high-tech U.S.-based investments going toward China -- a move the administration said was targeted but it also reflected an intensifying competition between the world's two biggest powers."
     publishedDateTime: 2023-08-09T23:06:00Z

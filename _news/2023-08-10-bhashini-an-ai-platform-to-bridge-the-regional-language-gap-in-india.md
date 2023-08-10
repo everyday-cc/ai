@@ -24,6 +24,17 @@ images:
     height: 470
     isCached: true
 
-secured: "LGkSGZhHLuWNotDKMrAu/2FyPJslP6czDmubEUD/sYdXFuyoelNUPNKUbF7oUZ9dR1pTI0PwjSQtZ3fHK2bwXjMbfWkDro9KJsNsJw+GIe1JHCnvS59F9q0WIP7QWCiYFFl2fk/JqLf5WdGWqiY0yGqCCznyTOZQZU3Ah8QQVAcS+yRIYRBG3pAJ3xr29mfMlwT1CVhiZHXFiCprzib+YHC578HHAKrM0kX98q3g+vDHnNF2zeo5fJ5sNjXGYxrcWtkjTwh9XQlZVVEa/jOWjUhiubZ9ayxs9OB14GJILrLfcnmB2heKmXvPkRIPZFcerldELu0QhH+koa0T5IxrXPIHOr5yl76rIZYl/99tL5Q=;XN9MZwH5mKGGdGPvq9UfkQ=="
+related:
+  - title: "Next stop for Ola’s Bhavish Aggarwal: An AI and silicon chip company in India"
+    excerpt: "Ola’s Bhavish Aggarwal says his latest venture, as well as Ola Cell Technologies, are part of his larger vision to build technologies for the future, in India."
+    publishedDateTime: 2023-08-10T01:40:00Z
+    webUrl: "https://yourstory.com/2023/08/ola-bhavish-aggarwal-ai-silicon-chip-business"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 31
+
+secured: "ZEiZBPWauwUwjYesyRYhM6ftoLmasTq2kuSFkcmxA8k7h6eLBQPFsJ3sf/w4790XdV6tHvrk3CM1bVzJcAUNEHhhej9Ef9g/ItLjiu9oQ8uldupaxZcillgF8mbTarxWdn9KCvMpF4UbgbN5AFZF3dsghFGt1PecdVJ3wp9zfv060lHocU+i0XG9F5MuXAtqFxG1TwpX/9+zlN0qSAscGs9JI5cKZN+yWSjRpVbMyNkG2jHySxI0H9UyREzomaLmzo00NEFMhw1Er3WOO1x46Yy9pOB6CeWd5d0IGU+AdDZzzmPc4pq+Hiwo8HECLQCoSZGdpE0DD3kNx6GBbG7JYoIa2+rEJLg69BNT39AqqtZjpXMEvxD9MAW3Gh8CCv7GZ0ewuURiNOAnUCWpyzs7uQ6BovNxuKIV2YnNc9k1mLieXOx+HO5uTB2UcrfzWoopJfKZ+yLL2dRIL3G7PyjTQhASWyca0OOoyyktPkyknK8r7kxAxCXQei8XbZy6XM/nFh2Zr3npV9H9p4S+Kq+/Xw==;9JgP8bCA4aBqI9wNw/x5mA=="
 ---
 

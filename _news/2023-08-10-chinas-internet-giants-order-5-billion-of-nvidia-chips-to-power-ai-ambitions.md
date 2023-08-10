@@ -89,6 +89,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Nvidia’s new AI chip to offer boon for Korean chip giants’ HBM business"
+    excerpt: "Nvidia’s newest AI chip utilizing the world’s first HBM3e processor is expected to boost growth for SK hynix and Samsung Electronics, the two chipmakers dominating the still-nascent High Bandwidth Memory market. Nvidia, a leading producer of GPUs based ..."
+    publishedDateTime: 2023-08-10T05:50:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20230810000504"
+    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230810000504"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230810000504"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 74
+    images:
+      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F08%2F10%2F20230810000490_0.jpg"
+        width: 630
+        height: 354
+        isCached: true
   - title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions -FT"
     excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday."
     publishedDateTime: 2023-08-09T21:43:00Z
