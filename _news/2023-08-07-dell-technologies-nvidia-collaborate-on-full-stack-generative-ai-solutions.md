@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technolog
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
 type: article
 quality: 86
-heat: 236
+heat: 246
 published: true
 
 provider:
@@ -119,6 +119,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Nvidia Stock (NASDAQ:NVDA): Analysts Expect Generative AI to Drive Further Upside"
+    excerpt: "Tech companies in the U.S. and international markets are in a race to develop generative artificial intelligence (AI)-powered tools and"
+    publishedDateTime: 2023-08-10T19:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-nasdaq-nvda-analysts-expect-generative-ai-to-drive-further-upside-1032541930"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
   - title: "Nvidia announces updated GH200 Grace Hopper GPU with HBM3e memory for generative AI workloads"
     excerpt: "Nvidia has announced an updated version of its GH200 'superchip,' which will be the first GPU in the world to include HBM3e memory."
     publishedDateTime: 2023-08-09T15:26:00Z

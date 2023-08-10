@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/TeleperformanceCov_16-9Ratio.png?w=3000"
         width: 3000
         height: 1687
+        isCached: true
+  - title: "Black Hat 2023 Keynote: Navigating Generative AI in Today’s Cybersecurity Landscape"
+    excerpt: "Discover the challenges AI will bring to cybersecurity and the opportunities and future implications of security in an AI-dominated world."
+    publishedDateTime: 2023-08-10T20:31:00Z
+    webUrl: "https://www.techrepublic.com/article/black-hat-2023-keynote/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 63
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr081123-black-hat-2023-keynote.jpg"
+        width: 1400
+        height: 1050
         isCached: true
   - title: "Rising Cyberthreats Spur Local Businesses to Embrace AI and Cloud Security"
     excerpt: "With the cybersecurity landscape continually evolving, it is more important than ever for local businesses to keep pace with the changes. The increasing prevalence of threats like phishing, business email compromise (BEC),"

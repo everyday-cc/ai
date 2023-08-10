@@ -63,6 +63,15 @@ related:
       name: World IP Review
       domain: worldipreview.com
     quality: 17
+  - title: "Meta Platforms Resolves AI Startup’s Trade Secret Lawsuit Through Settlement"
+    excerpt: "Meta Platforms, previously known as Facebook, has reached a settlement in a lawsuit filed by Neural Magic, an artificial intelligence (AI) startup. Neural Magic had accused Meta of unlawfully appropriating its trade secrets."
+    publishedDateTime: 2023-08-10T17:52:00Z
+    webUrl: "https://www.jdjournal.com/2023/08/10/meta-platforms-resolves-ai-startups-trade-secret-lawsuit-through-settlement/"
+    type: article
+    provider:
+      name: Legal News
+      domain: jdjournal.com
+    quality: 16
 
 secured: "IG2r9dzOjsA9VBo3826kfa0h17tT819x23vqdqtYWEz8iUoyyQWkbbmF6cwZ5XKP2cb8slWxU7k6lvvxHJHRIYSauPJXtqViPUPNMdz10XRTL26YPf8FWnTomgSRuZa/6HOplGrXPdHPO5ZNnvS/Hw6wBe5sUk2AP9ekePYfRPKxxKYuV9wtaIdUNov6FuODG0a34fNDtPm81Y6KaJgrJ1ewuNSKIl7g/TzRh/HYlSvlqcN0BhbHLQWGcKdPaHRlDj32ElrRj8oVB3unc7GKy+JOHlaaiVIYWbkJpWqS5Q126Jth5/GD7LlCywHxhOYyUB20Pv4kW2PYFZt62bKyS8ryTTthpbzH3wSF8isHOYM=;LXq+CwykmNWcetVW6np2ew=="
 ---

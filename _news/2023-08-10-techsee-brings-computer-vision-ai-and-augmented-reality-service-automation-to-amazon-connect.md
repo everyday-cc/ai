@@ -1,18 +1,18 @@
 ---
 category: news
 title: "TechSee Brings Computer Vision AI and Augmented Reality Service Automation to Amazon Connect"
-excerpt: "TechSee, Brings AI Visual Service Automation to AWS Omnichannel Customer Experience"
-publishedDateTime: 2023-08-10T15:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/08/10/9862775.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/08/10/9862775.htm"
+excerpt: "TechSee, Brings AI Visual Service Automation to AWS Omnichannel Customer Experience NEW YORK, Aug. /PRNewswire/ -- TechSee, a global leader in Visual Service Automation, has announced today it is work"
+publishedDateTime: 2023-08-10T13:29:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33707561/techsee-brings-computer-vision-ai-and-augmented-reality-service-automation-to-amazon-connect"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n33707561/techsee-brings-computer-vision-ai-and-augmented-reality-service-automation-to-amazon-connect"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
@@ -190,6 +190,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "bqPc3A98F3S3N3+O0Xp9bW7QvN59j3lHMkPyQ4phkcZzCFUf7+FJR+Iq3hNVZfgc7XgU6Ywing9OseML41Ua8Rv0q9IpCpcANebZ9gaRyl3ZHeDTZGmqONShWrMvJItWHCmHYzlLmypax9kEXUGYZgb9YfQhVnWe1bybH5kCqB6caNVBKI1HY589votHXjgz4v51W8RQGsCgcpgBaXePicL7wLUOdoUlac+JkSh/9wU/QV2O1S+ehjbVZR2MPav2+sPUzvORcKw11SSwmTQdyTt/b0UN9DkOBUlLmt5/PNuzumrQnv3OoVsoZLqrQhAF7dVbLY2is/mBwPAiGeRc1ROBR+8lJN+XgvIjFxkBdDo=;2xS4F+gZwzIaKE7HPWFuAA=="
+secured: "gxUFP9iIsvwQ9EUE4wsAK66ySw/VuwCd4Af0wILJZs6+DHctluxLWfrJ60pAFVhCIJs5vvfdoH9QjrAhx+0ZLkZAaOmdv04AFj/Yse1lWXtuDJPF49W38fWnsvf/OMtR4R8euufSLiEDdA+6EkAuYpN6lK8UoNIDNVMWG0OFYnhXDpO3QAIBusR5jX60hAwFX/EJYGhdDAwq6sxgzaZaabZ5TmueOH44o5wcec39EyzD8HcrFvup3alWWYmMWuSGxzD1VbKLVyAgo6wkdj9FzLRWmPjaHR4HL68TgAN8JHiSiEuR7lfJzfb+YKchH3BigyZ7whSnZGgWaRf1B2uuGzVmott6w+NaxedpZi4nJCM=;9afp2wOqxPwwFTHKKJLFag=="
 ---
 

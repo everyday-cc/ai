@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/datarobot-updates-ai-development-platfo
 webUrl: "https://venturebeat.com/ai/datarobot-updates-ai-development-platform-to-cover-entire-generative-ai-lifecycle-for-enterprises/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Rasgo launches Rasgo AI, a generative AI agent for enterprise data warehouse analytics"
+    excerpt: "Rasgo said its AI employs GPT for “intelligent reasoning,” which enables it to think and act like a business analyst for data warehouses."
+    publishedDateTime: 2023-08-10T18:49:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/rasgo-launches-rasgo-ai-generative-ai-agent-enterprise-data-warehouse-analytics/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/rasgo.png?w=1200&strip=all"
+        width: 1032
+        height: 668
+        isCached: true
   - title: "DataRobot announces new applied generative AI offering for building trustworthy AI apps"
     excerpt: "Artificial intelligence startup DataRobot Inc. today announced a new generative AI offering designed to allow businesses and developers to integrate their data into AI models and gain confidence in the answers that they receive."
     publishedDateTime: 2023-08-10T16:07:00Z
@@ -44,6 +58,6 @@ related:
         height: 517
         isCached: true
 
-secured: "c+bpRVRDpEC9fDwlCTmw9Phm4gPWCXFr+7MDWX1Shvkp/UbYVI1LJL/8p8bGAubT4LS1u9eQJGPnvwqHiTTM2hbdGYAVHzH/g6GUeDI5ZFwIaFznlEIwy4/A4FezJhpHLFD6ypVdNI8sOsV05ozcChqLl96x5E9JEU1jFsOjfkgLaqHHUbMaioyuJNqUcbrF8CYTVQO1E4AISCS/iyhbjubVOnBNTAnS65rL3OQOVUIKMupkUifSYaJfZ20Q6Ixt/h+2Y/86Dy0zvJirnyIdU0bq3EDx3hGgawnQfuRi4vhLUVnu34cJU5ZBjwQDFCCu+CKoZq5ybyjJ2BUq0H6gJwucO+DhMBU20qgDXCgbRcU=;aujr+WwqdXiC0oGiKFSQPQ=="
+secured: "kGkX2HaeIemN9WFQBFwb16wHmwgbbBfsaheh2Gugr0b1m34KtuCNZrzx2LBr9bDxRCUwDzS08mY3BRe9EgC4rEX9sSZsx1aP47RYIef7I8/15HszFcoSSBGthLUwneN2f12sT5OohwAfW+TwP8/rHHsXnhRGFyD1HwhOjzxLTZELbwaIyn2OVKWT0KWDdSIwhPsptT4Z04k5YdljJOMmX6fR3eJ1sl1eutVXq4GdvOcpiUdp+VuqWc+HCr7xPKDw+CAoF1DvpVKKjYflXfsQ4XnB8Tz6tl1epq4wxsWNE1RRQi2w7FZmkcj8aMzMDhZKlsGngk+NiZBXdtya76OkkzYJW5OH5n9FynKPP0pg3tq2illejZlokyq9NbJWEd4tRXl/7wEGElZfl1CCF9QP3E8KWAvQFOWwSCOZzSBSc5KyOw2IOyRUtYlB5lHhoLNuY4HgWvSHS6s4Ws9wwI7ZCa4jksmsJ/NDHiGcDLIVAKqNIpE+H2csZt7iKj0MXG+FID7lcFU7G4jKn2CoNMpVLA==;thqPDefN9PjtEKG1P/TF2w=="
 ---
 

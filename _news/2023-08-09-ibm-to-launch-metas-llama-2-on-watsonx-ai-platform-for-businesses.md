@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "IBM Plans to Make Llama 2 Available within watsonx.ai Platform"
+    excerpt: "IBM makes plans with Meta's Llama 2. Plus, why open source may or may not be a differentiator in generative AI."
+    publishedDateTime: 2023-08-10T20:51:00Z
+    webUrl: "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 71
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71223-Hero.Watsonx.jpeg"
+        width: 1400
+        height: 884
+        isCached: true
   - title: "IBM deepens AI relationship with Meta, plans to add its model to Watson studio"
     excerpt: "IBM continues to expand its relationship with Meta on the frontier of artificial intelligence. Here's what's happening."
     publishedDateTime: 2023-08-10T15:32:00Z

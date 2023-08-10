@@ -1,31 +1,27 @@
 ---
 category: news
-title: "From Robots To Recycled Vapes, Ukraine's War Effort Gets Inventive"
-excerpt: "The science conference had all the hot topics you'd expect, from artificial intelligence to gene therapy. But this year's annual gathering of brains in Kyiv had a decidedly Ukrainian twist."
-publishedDateTime: 2023-08-10T08:34:00Z
-originalUrl: "https://www.ndtv.com/world-news/from-robots-to-recycled-vapes-ukraines-war-effort-gets-inventive-4285896"
-webUrl: "https://www.ndtv.com/world-news/from-robots-to-recycled-vapes-ukraines-war-effort-gets-inventive-4285896"
-ampWebUrl: "https://www.ndtv.com/world-news/from-robots-to-recycled-vapes-ukraines-war-effort-gets-inventive-4285896/amp/1"
-cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/from-robots-to-recycled-vapes-ukraines-war-effort-gets-inventive-4285896/amp/1"
+title: "From Robots to Recycled Vapes, Ukraine’s War Effort Gets Inventive"
+excerpt: "The battered country is nurturing a cottage industry of military gadgetry, and the pipeline of science and tech creativity is bearing fruit."
+publishedDateTime: 2023-08-10T03:59:00Z
+originalUrl: "https://www.bloomberg.com/news/features/2023-08-10/how-ukraine-s-innovative-military-gadgetry-is-helping-fend-off-russia-s-invasion"
+webUrl: "https://www.bloomberg.com/news/features/2023-08-10/how-ukraine-s-innovative-military-gadgetry-is-helping-fend-off-russia-s-invasion"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 64
+heat: 64
+published: false
 
 provider:
-  name: NDTV
-  domain: ndtv.com
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://c.ndtvimg.com/2023-08/up2t38r_ukraine-war_625x300_10_August_23.jpg"
-    width: 1200
-    height: 738
-    isCached: true
-
-secured: "oo3Zp3N1fK9/3yfOqKY4rGd9SSaXIBPvDonHthtQRAh2oA+a9RCj9SORz4Lpgq9mdQrYRRaFfTVlNcXYAZpWGSFs98N++AIVyizZoJZRJjJAKY24EthSGcdah9OUE3AsO/IhyGXcbN+UEC+5D3YhYf/de1y8RFT/v+oAG2z8Noru7PmpN9XkqR0ea3eRpb9Tq2WAVGghyZhHh+n+9l7IqNB9p9TcU7wKZ7JHUrZWcxfnU+syapxOvCGKJzYamlEuWg1dMTJ/tg08y/WbP4IWgAAIEIL+TJwnWDXmFyM5+bi5LvKKasUP7QBcqCmqNZcT5ECk5f4hbVS5dLHUCnkiifkjNWBtC91sM7wVIH1AQ1U=;ZvpDenIX4Di7LrlmbKcqOw=="
+secured: "OydCStlxUHZLBZ8t7TnGsfth1kAuWTknEaGjQcHFPNEOZNKyxC/7iN7QEneXU2kXUSO5hI9rjNeSaDGpTbxuormrCKb+kuOlLxOY48GY7rRUg3+x0aDOER9Tacwa5ESRbX4+iv4396Mj0pV1EHhyT7dwyhl7Mvz8T8IEmbm1FCRT/9E+AE+BnM0YfwLKgN8HGjkbP6faLDmi4a2G013MDalWfVIaQyWcEd7FA2XHeT3/q4ZRVcmnm7k4XuSUJ+X5WnWoYIJDt3YgPWkG5sdASFAd9AK0VFrqu8K/CNrvyCt3ixveZvRsb1aYfSgoS+NPtNqqcKoUaiHphSe+HyU6jFOzSUSKPB/qVDWtFD5sJqLmp28ruMQobKcss9/ljvt8PHQ27vlQ9ywXruQ8O76rT/enKmuDxCqREvKtYZwIh0zxs6dznQzdkqlu6IkJjPobhg51TONaA4jlvMgKJeEDn1cdppQp9BfucKJ/mG9lcuDF1nkAvy5nQ7b0KX1tmzq4RdHR+7NhaJkKQmmA3vP6oA==;TINrTo1cxVepi90v2X93kw=="
 ---
 

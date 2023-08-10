@@ -7,7 +7,7 @@ originalUrl: "https://www.electropages.com/2023/08/groundbreaking-development-co
 webUrl: "https://www.electropages.com/2023/08/groundbreaking-development-computer-vision-ai-accelerator-chip"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
       name: New Electronics
       domain: newelectronics.co.uk
     quality: 42
+  - title: "Andes Technology and TetraMem Collaborate to Build Groundbreaking AI Accelerator Chip with Analog In-Memory Computing"
+    excerpt: "Andes Technology, a leading supplier of high-efficiency, low-power 32/64-bit RISC-V processor cores and Founding Premier member of RISC-V International, and TetraMem Inc, a pioneer in analog memristor technology and in-memory computing,"
+    publishedDateTime: 2023-08-10T18:51:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/10/9862929.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
 secured: "5ktRerEg4TOpjLEvCtMd7rGcl4urb/RPOBYWeV18kQUJkYS4TFQiXe59+UJ7PD/HJxmjCs1XO/sSNGYNf02lbvNnZNtbz1cKGZjMnAnOoISnnd7DGIUVWBzh9wws1SYD1i43XZ/Bm9AX4uwOtVM/7qwfVYphXTLKH1PdaOryi3BvI/73mwI/1Y9LlTeWBIFfTgCGXXBomNFOQyOG4filvjK2pPTD9MQD0X40yphYMdGnemYUuh34Ysy2AX/jDuPxk+yZtzIQ+1bgzDEXcv3Y0wenbxf5komIfs3hihREcSrJPE2yp4YNai7qtsZ+XZ0WxDn4V7Nr8NE2xWQ9oZIiG4cXLy4+7RoSxhLvUDl7yIxeb00oge8YdmstKL1EphIRnbPbDz2nb8oJBRl2ZcO8k6GVh8HQ5j/Em4UKN23LmnF+iT5g4Tb1zgWdIuwkVl4diZDiRamwwUhGngdMgDSJPwf87GED2trvyKbbpthVPA0rw4HYrVlCzUKQKA91kIAluFR5JKb7+KXBlERJWoJi6A==;QR+T4fg4g2YlBIrZUpUSRg=="
 ---

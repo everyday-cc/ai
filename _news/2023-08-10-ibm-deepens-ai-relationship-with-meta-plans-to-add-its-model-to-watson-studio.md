@@ -9,8 +9,8 @@ ampWebUrl: "https://wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/?amp=1"
 type: article
 quality: 70
-heat: 140
-published: true
+heat: -1
+published: false
 
 provider:
   name: WRAL TechWire
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Plans to Make Llama 2 Available within watsonx.ai Platform"
+    excerpt: "IBM makes plans with Meta's Llama 2. Plus, why open source may or may not be a differentiator in generative AI."
+    publishedDateTime: 2023-08-10T20:51:00Z
+    webUrl: "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 71
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71223-Hero.Watsonx.jpeg"
+        width: 1400
+        height: 884
+        isCached: true
   - title: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses"
     excerpt: "(Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language program on its own enterprise AI platform, watsonx. IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients."
     publishedDateTime: 2023-08-09T12:10:00Z

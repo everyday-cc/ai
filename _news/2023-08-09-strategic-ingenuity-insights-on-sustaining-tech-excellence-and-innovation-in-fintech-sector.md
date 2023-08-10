@@ -152,13 +152,13 @@ related:
         height: 1080
         isCached: true
   - title: "TechSee Brings Computer Vision AI and Augmented Reality Service Automation to Amazon Connect"
-    excerpt: "TechSee, Brings AI Visual Service Automation to AWS Omnichannel Customer Experience"
-    publishedDateTime: 2023-08-10T15:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/10/9862775.htm"
+    excerpt: "TechSee, Brings AI Visual Service Automation to AWS Omnichannel Customer Experience NEW YORK, Aug. /PRNewswire/ -- TechSee, a global leader in Visual Service Automation, has announced today it is work"
+    publishedDateTime: 2023-08-10T13:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33707561/techsee-brings-computer-vision-ai-and-augmented-reality-service-automation-to-amazon-connect"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 23
   - title: "Invest Inc. Announces Reg A+ Offering: A New Era in Fintech Begins"
     excerpt: "The future of fintech has a new face, and its name is Invest Inc. With great enthusiasm, we are proud to announce our Reg A+ offering, a transformative step that underscores our commitment to democratizing premium financial market information and technologies."

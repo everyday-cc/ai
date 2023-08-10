@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "From startup nation to AI nation: Shaping the future in Israel"
+    excerpt: "Israeli artificial intelligence innovation is revolutionizing medical diagnoses for women's reproductive health"
+    publishedDateTime: 2023-08-10T20:03:00Z
+    webUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-shaping-the-future-in-israel/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 37
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/users/dror-bin1649338365-400x400.jpeg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Rules to keep AI in check: nations carve different paths for tech regulation"
     excerpt: "In January, the CAC began enforcing rules issued in 2022 to tackle deepfakes and other AI-created content. Providers of services that synthesize images, video, audio or text must verify users’ identities, obtain consent from deepfake targets, watermark and log outputs and counter any misinformation produced."
     publishedDateTime: 2023-08-08T10:40:00Z

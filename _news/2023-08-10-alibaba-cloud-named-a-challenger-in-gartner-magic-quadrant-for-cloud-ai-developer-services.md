@@ -52,6 +52,20 @@ related:
         width: 375
         height: 215
         isCached: true
+  - title: "Alibaba Cloud Named A Challenger In Gartner® Magic Quadranttm For Cloud Ai Developer Services For Second Consecutive Year"
+    excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, has been named a Challenger in this year's Gartner® Magic Quadr"
+    publishedDateTime: 2023-08-10T21:23:00Z
+    webUrl: "https://menafn.com/1106830447/Alibaba-Cloud-Named-A-Challenger-In-Gartner-Magic-Quadranttm-For-Cloud-Ai-Developer-Services-For-Second-Consecutive-Year"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?85913"
+        width: 477
+        height: 250
+        isCached: true
   - title: "UiPath named a Leader in the 2023 Gartner Magic Quadrant for Robotic Process Automation report"
     excerpt: "UiPath, a leading enterprise automation software company, today announced it has been positioned by Gartner as a Leader in the 2023 Gartner Magic Quadrant for Robotic Process Automation research report."
     publishedDateTime: 2023-08-08T00:24:00Z
@@ -66,6 +80,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "CrowdStrike Among Highest Rated in 2023 Gartner Peer Insights™ Voice of the Customer for Managed Detection and Response Services Report"
+    excerpt: "CrowdStrike (Nasdaq: CRWD) today announced it has been recognized as a 'Customers' Choice' in the 2023 Gartner Peer Insights™ Voice of the Customer for Managed Detection and Response Service report across North America,"
+    publishedDateTime: 2023-08-10T13:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/10/9862567.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "8s1yzMPUET0B7cDMoJDSWY4t5BHHK9qyXJFrwo6d8O+jyLsY+W09D9muG+rc+OiSTiVJynSRRPjtsFf2ORAuDAUgEZf+T9uW9m55kExyIeDwz0OCs6MH0ihlxsx7rFotGeMvCEgGUQngS+MoYkr2YF+dP5xZWZbfq80lnjpL+Gg4muhyJjDEanvnMCdTQSV1lqOoHHw154TP1di3TDyKjiTWZEaXtv+2145qiyFHgPXxiVoo5bC1b2Fj0Fr/47qGRGjguaEN8H2yAvFTvFAy+ukzY1EJtm2AOaMThnFVEBwxPJY7QRpPp1uh+PZARP6a4lqVBfGZsM581DgO5xUlkRFwmzttClz0K+CukhO0z/I=;BfhXH9xG+nbkUOL6SyVmdA=="
 ---

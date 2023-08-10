@@ -24,6 +24,22 @@ images:
     height: 1537
     isCached: true
 
+related:
+  - title: "Machine learning model could enable targeted gene therapies for genetic diseases"
+    excerpt: "Discovery by team of Johns Hopkins researchers could enable the development of therapies for cancer or other genomic diseases by activating genes on demand"
+    publishedDateTime: 2023-08-10T17:41:00Z
+    webUrl: "https://hub.jhu.edu/2023/08/10/machine-learning-model-could-enable-targeted-gene-therapies-for-genetic-diseases/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 34
+    images:
+      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_1300/public/2023-08/dna-structure-2021-08-26-18-26-31-utc%5B16%5D_3000.jpg"
+        width: 1300
+        height: 780
+        isCached: true
+
 secured: "lUbnZiHr6vqP8MRFFm1nY4itsSv8K8L7P3ZtsdZuorz9twf+4a+pGQS0AaBByslW77qJzRqu7whqG7dBBo6jJ/Tw01i+ab+Sx9kWZxORqBFoACP2DHTIndJp4p6/B6CV+Mvjro4CgNF88zI/mPvCLA5NhJxC65JNn1c6IwlkkTh0pxeR8fedMrEzsM4N8BSg4UKIyOOCq0anyYejQMAoQmlFh+1CqoHqnFqFLezH2L10QwQYhvp2NB39beQh5sCKkjgL4M3pKOfilfF8wMlMwpoUKje56m+VXLpzKlCUjupdHMVziZI0+DuCUICbmAn8BKUEahVrwczOgVPvm8LP/xCHXMX8UI199mb1XAEQaeA=;P7eFuwprjdgarpsvXruxkQ=="
 ---
 

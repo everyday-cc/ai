@@ -36,6 +36,15 @@ related:
         width: 750
         height: 600
         isCached: true
+  - title: "Middleware raises $6.5M in seed funding to transform cloud observability with AI"
+    excerpt: "Middleware, a startup that uses artificial intelligence (AI) to simplify and enhance cloud observability, announced today that it has raised $6.5 million in a seed round led by 8VC."
+    publishedDateTime: 2023-08-10T19:00:00Z
+    webUrl: "https://venturebeat.com/business/middleware-raises-6-5m-to-simplify-cloud-monitoring-with-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
   - title: "San Francisco AI observability startup raises $50M"
     excerpt: "Weights & Biases helps other AI developers monitor their code so it can be audited, organized and debugged — preventing so-called black boxes. The San Francisco startup just raised some fresh funding."
     publishedDateTime: 2023-08-09T17:50:00Z
@@ -45,15 +54,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "Virtualitics, a Leader in Artificial Intelligence and Data Exploration, Closes $37 Million Series C Funding Round"
-    excerpt: "PASADENA, Calif., Aug. 10, 2023 /PRNewswire/ -- Virtualitics, Inc., an artificial intelligence and data exploration company, today announced that it has raised $37 million in a Series C financing round led by Smith Point Capital, LLC with participation from Citi and advisory clients of The Hillman Company, among other investors."
-    publishedDateTime: 2023-08-10T13:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/10/9862719.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "GOla0T1tbQrgvZn5KjuWv50Xrk/lgh69haM6GQXzkgttExRVoqcApbmohCTrrozqB77lUX+7mN4oE3mmyL2FK+5v1+rqt9cKXUsue5vEBhExIVJvy3Cr0AGuoEUHyGKPwsbuZjJbJj4RL2onh5498rXzwacpA6xFtR5tr4QPqJMS84HJ1KJq3qMkmHdhHZ3f61OkVWnlusQMEdMkzonx3UJHnuY62QO51nEn9PXBfJB4AUOSqyGc8OrKtSoi9E7NUebfgD6JQjZFbjU7MA42Ijidgk6+utEeQodjqxPdHu8kgDmXszStZ/En0r0H6V5tBcxe/QRHIWStUzjAQUDJfp54rK6t6+FKVq9pbgM/VY0=;PGv24IDGc3lPev71T7njrw=="
 ---

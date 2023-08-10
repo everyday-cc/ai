@@ -19,47 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "It’s Not Just Tesla: 5 Cars With Self-Driving Features"
-    excerpt: "Spread the loveSelf-driving car technology is rapidly advancing, and while Tesla may be at the forefront of the movement with its Autopilot system, it’s not the only carmaker with autonomous features."
-    publishedDateTime: 2023-08-06T03:23:00Z
-    webUrl: "https://www.thetechedvocate.org/its-not-just-tesla-5-cars-with-self-driving-features/"
+  - title: "Cruise Tests Self-Driving Cars in Atlanta"
+    excerpt: "Cruise announced a week ago that it was expanding its testing to Nashville and has begun testing in Los Angeles. Atlanta is already seeing testing of autonomous vehicles. Earlier this year, the Cumberland Community Improvement District officials launched an autonomous vehicle in partnership with Beep, an autonomous transport company."
+    publishedDateTime: 2023-08-09T14:28:00Z
+    webUrl: "https://www.ttnews.com/articles/cruise-self-driving-atlanta"
     type: article
     provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 39
-    images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/05/How-Tesla-Is-Using-Artificial-Intelligence-to-Create-The-Autonomous-Cars-Of-The-Future.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Cruise now testing self-driving cars in Atlanta"
-    excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."
-    publishedDateTime: 2023-08-08T21:39:00Z
-    webUrl: "https://www.ajc.com/news/atlanta-news/cruise-now-testing-self-driving-cars-in-atlanta/TDNR2DPDRVCNBOK2GVB67RNXPU/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
+      name: Transport Topics
+      domain: ttnews.com
     quality: 24
     images:
-      - url: "https://www.ajc.com/resizer/cYnOP2YAm4f3Lr1PlZArsxWGoqI=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/BAIUNG3E35DOVCQPE4YI5RQ7U4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cruise now testing self-driving cars in Atlanta"
-    excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta. While Cruise intends to eventually operate a ride-hailing"
-    publishedDateTime: 2023-08-09T20:50:00Z
-    webUrl: "https://thebrunswicknews.com/news/business/cruise-now-testing-self-driving-cars-in-atlanta/article_91f6112d-1ac8-51f5-b3d8-8d8b2e7a3f53.html"
-    type: article
-    provider:
-      name: Brunswick News
-      domain: thebrunswicknews.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/f/9a/f9a05a43-2db5-5ef1-9219-133cee44a141/64d3fcb1534e4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-08/Cruise-1200.jpg"
+        width: 470
+        height: 246
         isCached: true
 
 secured: "1MnM6cadvNE/wtSBi0fgthQJ3WZ/RJ4HAr6vFSwy2Z9rGaO7pGG7+ntbp7flrIqBPVCR7YFXo+qse+cV9Dzjbcw3fdMjKOPk8I9sFG5mGXIQkP4cGBmqmwSgT2E1c9hCrp9kKYi2FDXyDxwGY3OOM7YSEvM3tLatpAYQIxTTwmTau77LpX/qY9Zf+6+3B/76LQhnbTUSRdsPWpJzmaZKlYt2TLWEXAoWkEBhb5jDlnaY53njVSKlrwpFC4KE3BQ0sWYa3ERSJrqbw/9LTlgK9mC8wBa/JlN8seMz+KxHtmW8BdnmI8SmaxQbd9Dh7FTkmLgTIQITDOmGTIOyBUkMRS9VK2LlDcYPBp1AEbaEEv7Gs6hKblw5f+p+j4Cg6w0mcxjfrks2q2pOOA/ii+LfAVYKI3juxxPTzq+Wvp72mtdMb5LDTp5jKh79opPcdlMLgc9Ls2YMKsxFm90MGNl50F0edEtPHL26vaTEtX0yfE9ufulm96Kc0suw0JVHqqSVN/w1P3stGmug57al+F89EA==;9GpxHVCqdfH2pBVvP6rK6A=="

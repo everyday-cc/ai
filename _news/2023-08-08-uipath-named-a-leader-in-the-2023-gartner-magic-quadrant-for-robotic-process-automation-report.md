@@ -66,6 +66,29 @@ related:
         width: 375
         height: 215
         isCached: true
+  - title: "Alibaba Cloud Named A Challenger In Gartner® Magic Quadranttm For Cloud Ai Developer Services For Second Consecutive Year"
+    excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, has been named a Challenger in this year's Gartner® Magic Quadr"
+    publishedDateTime: 2023-08-10T21:23:00Z
+    webUrl: "https://menafn.com/1106830447/Alibaba-Cloud-Named-A-Challenger-In-Gartner-Magic-Quadranttm-For-Cloud-Ai-Developer-Services-For-Second-Consecutive-Year"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?85913"
+        width: 477
+        height: 250
+        isCached: true
+  - title: "CrowdStrike Among Highest Rated in 2023 Gartner Peer Insights™ Voice of the Customer for Managed Detection and Response Services Report"
+    excerpt: "CrowdStrike (Nasdaq: CRWD) today announced it has been recognized as a 'Customers' Choice' in the 2023 Gartner Peer Insights™ Voice of the Customer for Managed Detection and Response Service report across North America,"
+    publishedDateTime: 2023-08-10T13:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/10/9862567.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "FO9frusi732sYoKvQpey7La7WiWaaCD396x221v04AJHXXWOD0NHjHkMmMXwbDi7JbdF6gaDyVqzsewOrmYvtQr0JbGxgrTZdcq2KGggeJWssaP2gGpQdSbMZfBA06AQ739YNUGo/Kexy6foPql7WJUUmayROurNsHI02fZ7E/b19luFImn4b/GBYZFPyEQKqeJ3xfbt8T9r348YKDeMRSV2xH5TVa4PlK1lfOXxWA2E2Uk8kI/wLoMObo1d3LpfNyNsD6sGKhJrARnc7yVaCinKJCcU7HnGTj3RqKRVMWJQdqQ1+jbHXG8cTqvYGQldnGE1YPBE/tC5C2NiocFLbbylPuCp24FwpYlYH2gdI09zkCKP+zoGCp+ic02ObrnDATVzafvsbqUd5uSF1LTe40xYAiyYcTOu0ZgA6aKcgoCJfcdc5cwO1+3wor5L/obVkV0dLa1RXElVWl537ictBAjkbb6sCIqqACzwxJPgoqc62y7K/torQ3+sCpEz8Nw+Dv6d9rtOhWOPj+xVtAdU6w==;kVpGRw2PWLEHXkHYhCBNLQ=="
 ---

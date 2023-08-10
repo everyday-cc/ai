@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Voice would ‘fail at first hurdle’ if not enshrined in constitution, Albanese says"
-    excerpt: "Speaking at the Garma festival in the Northern Territory the prime minister issued a plea for support for a yes vote, saying there will not be another opportunity any time soon"
-    publishedDateTime: 2023-08-06T02:35:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/aug/06/voice-would-fail-at-first-hurdle-if-not-enshrined-in-constitution-albanese-says"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/aug/06/voice-would-fail-at-first-hurdle-if-not-enshrined-in-constitution-albanese-says"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/aug/06/voice-would-fail-at-first-hurdle-if-not-enshrined-in-constitution-albanese-says"
+  - title: "WA Premier Roger Cook shuts down claims Albanese government pressured him to ditch cultural heritage laws to save Voice"
+    excerpt: "Western Australian Premier Roger Cook has attempted to shut down speculation his decision to ditch the state’s much-maligned cultural heritage laws was dictated by the Albanese government to salvage support for the Voice."
+    publishedDateTime: 2023-08-08T04:58:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/wa-premier-roger-cook-shuts-down-claims-albanese-government-pressured-him-to-ditch-cultural-heritage-laws-to-save-voice/news-story/7ce8c2a9ebf62c1c73dcf74a810793f2"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/wa-premier-roger-cook-shuts-down-claims-albanese-government-pressured-him-to-ditch-cultural-heritage-laws-to-save-voice/news-story/7ce8c2a9ebf62c1c73dcf74a810793f2?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/wa-premier-roger-cook-shuts-down-claims-albanese-government-pressured-him-to-ditch-cultural-heritage-laws-to-save-voice/news-story/7ce8c2a9ebf62c1c73dcf74a810793f2?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 35
     images:
-      - url: "https://i.guim.co.uk/img/media/1a17c228561c738ffa5f1aeea1621409b280ac37/0_153_7449_4469/master/7449.jpg?width=620&quality=85&auto=format&fit=max&s=88c77291d05b400e30a2b50698129d44"
-        width: 620
-        height: 372
+      - url: "https://content.api.news/v3/images/bin/5c0d9953d08e905225d4492405e4a8d5"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "uvNIsBh5H5/SaTKDrYMCcwkQy3wTE8lTu4B7mIlKcFfSZvI8T3zsn6eYi+Lh//IS9Ra7BJ/Ww4Zms13/KRfUT3UXAvI7Xp7e54jqikvSBC5O5tTXrUAVrjwHhFqMyspHHGdRHw+Lc9PyHBIBbmfZsrX/ArXT1Tq0h5rOHN6GhYJFkINdhxHhrHKdpnelFhvBHO/vpKHwaDWYfB+FQMo88RMtKcJHqoXqvcjurRg3y6tpacdy5mhdrJpqs4Xxu+Cq4nWTmJDLXkCYSJ7NyWrvwWKt08+jkDnw6S+RCSvF7zwqiUQoZPuEhpf8P89cCmkF66DyWyp3H2PXVpmW+xMIZUzPgFiCIf2RTXlnx7pxFDk=;8ab8MuZvshmZHc8BnKiM3w=="

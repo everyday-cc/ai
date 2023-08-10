@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "US fuels tech trade war with China, banning AI, chip, and quantum system investments"
+    excerpt: "US President Joe Biden is escalating the tech trade war with China with an executive order to restrict investment in specific sectors including semiconductors and microelectronics, quantum information technologies,"
+    publishedDateTime: 2023-08-10T16:33:00Z
+    webUrl: "https://www.computerworld.com/article/3704610/us-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 27
   - title: "Biden issues an executive order restricting U.S. investments in Chinese technology"
     excerpt: "President Joe Biden signed an executive order Wednesday to block and regulate high-tech U.S.-based investments going toward China -- a move the administration said was targeted but it also reflected an intensifying competition between the world's two biggest powers."
     publishedDateTime: 2023-08-09T23:06:00Z

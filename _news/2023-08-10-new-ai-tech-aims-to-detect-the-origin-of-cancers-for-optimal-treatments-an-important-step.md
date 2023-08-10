@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancer
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step.amp"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:

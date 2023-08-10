@@ -94,6 +94,29 @@ related:
         width: 999
         height: 562
         isCached: true
+  - title: "WCTC To Offer New Certificates In Artificial Intelligence And Data Analytics"
+    excerpt: "Waukesha County Technical College announced plans to offer new certificates in the fall about artificial intelligence and data analytics."
+    publishedDateTime: 2023-08-10T18:49:00Z
+    webUrl: "https://patch.com/wisconsin/waukesha/wctc-offer-new-certificates-artificial-intelligence-data-analytics"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 34
+    images:
+      - url: "https://patch.com/img/cdn20/users/25016349/20230810/024904/styles/patch_image/public/wctcgrab___10144852995.png"
+        width: 985
+        height: 739
+        isCached: true
+  - title: "Abu Dhabi’s artificial intelligence university establishes dedicated robotics and computer science departments to meet surging global demand"
+    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programs dedicated to robotics and computer science, catering to the surging global demand for these disciplines, which is expected to hit USD $225 billioni and $140 billion, respectively, by 2030."
+    publishedDateTime: 2023-08-08T08:43:00Z
+    webUrl: "https://www.logisticsit.com/articles/2023/08/08/abu-dhabi’s-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-departments-to-meet-surging-global-demand"
+    type: article
+    provider:
+      name: Manufacturing & Logistics IT Magazine
+      domain: logisticsit.com
+    quality: 16
 
 secured: "VVEhJhn1E7eROHdfk4dDTg6QStATtdMTLrcZUePe6DsKd5APXgeKh+sbatdspAQh/NeLOqK/Q4AUyRRPk4LPiwUW0C9SniW/gNoWQd84Hg75vgO3j2G6+sl9VrKYY0LRVDIauPlfcRzE8x4kvbJ+3/BSatzdmWSUJkVkAyiu9UPvpLoTaimdJSUxaFfHhzs1jp4NygVlC4F0NXI5dUx8YkaYUV93ov+7Zq95RvWzpkk7mhI5EzWNdZ440k16a6+a/Epkr96dm20E2RVmwRi1C5dwlmBZTY5TuSCTWW8faluS/5rZ6HaFgYaZbgLdFG4mpnxdVTO9cNFhwUxBPus9Kpv62/1Y2n3fgdf4tNTAyFGoVEsz1FnB687ijjymsm3YfFIoUJZDl85OUnzq1g7SGBg59vKY+OoKQ497tWA1bO9iyDWvfeVS7jjcmsXQmTgIf9K+n2FfOUwX07gyq3NUso6Fka/Eof0SciOP1gbLxsVvdmbv1OH7zxqKLCudAHyQxqxM96nz19F+GYuilYnNFA==;fD3vZ7ZRaxomDxo95VUxTA=="
 ---

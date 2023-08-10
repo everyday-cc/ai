@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/weights-and-biases-raises-50m-to-advanc
 webUrl: "https://venturebeat.com/ai/weights-and-biases-raises-50m-to-advance-llmops-efforts-for-generative-ai/"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Weights & Biases raises USD 50M for AI development tooling startup"
-    excerpt: "Weights & Biases Inc., a startup that works with OpenAI LP and Nvidia Corp. to build AI models more quickly, announced that it has raised USD 50 million in funding."
-    publishedDateTime: 2023-08-10T15:05:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/weights-biases-raises-usd-50m-for-ai-development-tooling-startup/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/weights-biases-raises-usd-50m-for-ai-development-tooling-startup/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/weights-biases-raises-usd-50m-for-ai-development-tooling-startup/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Weights-Biases-raises-USD-50M-for-AI-development-tooling-startup.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "AI development tooling startup Weights & Biases reels in $50M"
     excerpt: "Former GitHub Chief Executive Officer Nat Nat Friedman and former Y Combinator partner Daniel Gross led the round. A half dozen institutional investors, most of them existing backers, contributed as well. Weights & Biases is now valued at $1.25 billion, or $250 million more than after its previous funding round in late 2021."
     publishedDateTime: 2023-08-09T17:37:00Z

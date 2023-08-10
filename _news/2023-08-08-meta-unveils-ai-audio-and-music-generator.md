@@ -94,6 +94,29 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "WCTC To Offer New Certificates In Artificial Intelligence And Data Analytics"
+    excerpt: "Waukesha County Technical College announced plans to offer new certificates in the fall about artificial intelligence and data analytics."
+    publishedDateTime: 2023-08-10T18:49:00Z
+    webUrl: "https://patch.com/wisconsin/waukesha/wctc-offer-new-certificates-artificial-intelligence-data-analytics"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 34
+    images:
+      - url: "https://patch.com/img/cdn20/users/25016349/20230810/024904/styles/patch_image/public/wctcgrab___10144852995.png"
+        width: 985
+        height: 739
+        isCached: true
+  - title: "Abu Dhabi’s artificial intelligence university establishes dedicated robotics and computer science departments to meet surging global demand"
+    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programs dedicated to robotics and computer science, catering to the surging global demand for these disciplines, which is expected to hit USD $225 billioni and $140 billion, respectively, by 2030."
+    publishedDateTime: 2023-08-08T08:43:00Z
+    webUrl: "https://www.logisticsit.com/articles/2023/08/08/abu-dhabi’s-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-departments-to-meet-surging-global-demand"
+    type: article
+    provider:
+      name: Manufacturing & Logistics IT Magazine
+      domain: logisticsit.com
+    quality: 16
 
 secured: "aGi6YO7LmKY8oFZlWCUfZZRz0GmD4ypOJAqngKCnOuBsVwAIR9NSUd92QBc8eMtz+Lh2ZsMDGNhhzuBSyzPvK06jr3JOE4GgeCawaBu+E4RhJaNMnB/ZlEs2HIPdfLmA1p1LA+xTULTcofg22ge4IMT/N8lNLvw3hlUt6beTO5Ng+MD+7LvMJDlCjNx8kbXRjqqH5kC2N/WUaYNyOGlzTpKKTSJaXI5TXFMMWxu/VBggYK0MMFf/qajZPb63Lcjju5YB0b7DCgM/2s8qkAOrkZ0lBFQv39fh9gaHeaQXFqpqP+/CMPrq6fxyoS9agaFvRBObG4OPP5y9YIpJYJAK/X0PsxJO02S4bpiaeoa1hSDAjhWkCkbZ8Vmfw+qU+ZVLHTdLol4//7Gol8qjc0VX8NyugVXfi2KH81v754TUpSJzwDCpYLcyYBeryl4U0eDn0ya3r4hOAD+K1DUkWTDRW5uQVmi1PGdXfv90z30y08cYfDcfdXb1BN6vGOGk0bvyZ5RZBJmcsxmBGFru5v99YQ==;g5hip9hgDws8AhHf04nLUg=="
 ---

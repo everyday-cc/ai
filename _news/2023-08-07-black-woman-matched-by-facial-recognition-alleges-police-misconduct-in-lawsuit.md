@@ -34,36 +34,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 64
-  - title: "China Proposes Stricter Regulations on Facial Recognition to Protect Privacy"
-    excerpt: "China, a country known for its adoption of facial recognition technology, is taking steps to establish more defined boundaries for its usage."
-    publishedDateTime: 2023-08-08T09:13:00Z
-    webUrl: "https://www.coinspeaker.com/china-regulations-facial-recognition/"
-    ampWebUrl: "https://www.coinspeaker.com/china-regulations-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/china-regulations-facial-recognition/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 56
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/05/china-prosecution-agency-nft-users.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Application of facial recognition tech needs to be strictly regulated"
-    excerpt: "Although the technology will improve efficiency and convenience, it brings with it deep security risks. The draft regulation is aimed at improving standardized application and compliance of facial recognition technology in order to effectively protect personal information and property rights, and maintain social order and public safety."
-    publishedDateTime: 2023-08-09T23:36:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202308/10/WS64d415c7a31035260b81b385.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202308/10/64d415c7a310352610ba6cf4.jpeg"
-        width: 721
-        height: 480
-        isCached: true
   - title: "Woman files lawsuit, claims 'faulty' DPD facial recognition hit prompted her false arrest"
     excerpt: "Woman, who says she was arrested while she was pregnant, claims 'pattern of racial discrimination' in how DPD uses technology"
     publishedDateTime: 2023-08-06T16:52:00Z

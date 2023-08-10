@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Amazon nations seek common voice on climate change, urge developed world to help protect rainforest"
-excerpt: "Leaders from South American nations that are home to the Amazon are challenging the developed world to do more to help stop massive destruction of the world’s largest rainforest"
-publishedDateTime: 2023-08-08T22:06:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
-webUrl: "https://abcnews.go.com/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
+excerpt: "It’s been 14 years since the eight countries of the Amazon region convened in a summit of the Amazon Cooperation Treaty Organization."
+publishedDateTime: 2023-08-09T00:57:00Z
+originalUrl: "https://apnews.com/article/belem-amazon-rainforest-summit-brazil-environment-crime-4e68ebf7f6c719d779ed726cc4f0c5dc"
+webUrl: "https://apnews.com/article/belem-amazon-rainforest-summit-brazil-environment-crime-4e68ebf7f6c719d779ed726cc4f0c5dc"
 type: article
-quality: 45
-heat: 45
+quality: 5
+heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/International/wirestory_4e68ebf7f6c719d779ed726cc4f0c5dc_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Amazon nations seek common voice on climate change, urge action from industrialised world"
@@ -97,6 +89,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "S1JhOG5NOjhSHa+kuqnZK9fSnnjo0fCOP5Vo34Qx3MCvxBaVB1Hwl+9UOXMD6byml8Wj06x9PhZmh0nm4j6rXVs48Ec5JcYHxm37HV/TEe9I18hcKLk9p02JcNwi/Q/NpHSiD592eWvxFQBKPTzRGzuaRy2lxAG+KF5fx/KFc2qLRTOPxNxDoc7LWkEbT0ntTbpRP9bHJRAAME7V87e50kcy3CQspT3OiATaHNnSKgaE+MZzaDRz1onHC1sBde+Qk+cWZIWO16qTd97Oli0uq7H/dPWUSJic4uFu3keJM9AdQVKPcmtfwNH8MemAszPn9Lto2hSnSWKJzvp2g/xggk3sjrNZffXCAbnkydtuqiI=;ISaH82vAyT4TqXPmMzEFtA=="
+secured: "z638oiPAVHbNsaNv9eXmnrC9MIObd7G0Nmscnc/237Ix7mpebE8yyp95d8HizPlAQ2ird5YjO3gRJmk9bPqRzbAu/dTHMLSGSEIRRZbeWhN0JWIP3ITKyP3ieByQosxwmJwoOqLvL+DOkaW4gdRuInGnP2gs09zFYzyg5if+eEvkzT1aLRavdNbu428IMCBFd8rmhTTUfBeRiE/uSZJUXIU7iOSRwmhcVWrBvdnpQ6QuTY0kUPpPxb60yDFMdm2SodHBKV7tmmR93H6efdNaf0nKcx/1fHOoC2bTDIAZAUBzxVSnGGNAX4di9WxpkwBnrSvUnaDcSY7AW3VHdk0udMhqvQ1a0RZrNJhBfV934E9OZS3tE9KiGI909ZVFPbzk6Druw3bRK4MPH9XzqTOlwi2DkQ8a6V2s7akfCuXrUxE9mFNjMUrzME8ijSwWcQ+l6baSXG6aw2zF7BqocqkVEv5S26epYyZfM3uGzwmtworQ9GosE7/4REbQU+xF8Rf1U1oh/MtimSuEOSt+EBJlPQ==;6rBEOydK6cAtEnm1YUEnzA=="
 ---
 

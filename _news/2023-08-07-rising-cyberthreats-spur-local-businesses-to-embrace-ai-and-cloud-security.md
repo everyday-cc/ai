@@ -74,6 +74,20 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "Black Hat 2023 Keynote: Navigating Generative AI in Today’s Cybersecurity Landscape"
+    excerpt: "Discover the challenges AI will bring to cybersecurity and the opportunities and future implications of security in an AI-dominated world."
+    publishedDateTime: 2023-08-10T20:31:00Z
+    webUrl: "https://www.techrepublic.com/article/black-hat-2023-keynote/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 63
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr081123-black-hat-2023-keynote.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "Top cybersecurity products at Black Hat USA 2023"
     excerpt: "Here are the top cybersecurity tools, platforms, capabilities, services, and technologies launched at Black Hat USA 2023 that you need to know about."
     publishedDateTime: 2023-08-09T23:15:00Z

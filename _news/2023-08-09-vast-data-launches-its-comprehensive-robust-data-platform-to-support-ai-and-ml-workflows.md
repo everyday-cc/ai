@@ -95,6 +95,29 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "WCTC To Offer New Certificates In Artificial Intelligence And Data Analytics"
+    excerpt: "Waukesha County Technical College announced plans to offer new certificates in the fall about artificial intelligence and data analytics."
+    publishedDateTime: 2023-08-10T18:49:00Z
+    webUrl: "https://patch.com/wisconsin/waukesha/wctc-offer-new-certificates-artificial-intelligence-data-analytics"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 34
+    images:
+      - url: "https://patch.com/img/cdn20/users/25016349/20230810/024904/styles/patch_image/public/wctcgrab___10144852995.png"
+        width: 985
+        height: 739
+        isCached: true
+  - title: "Abu Dhabi’s artificial intelligence university establishes dedicated robotics and computer science departments to meet surging global demand"
+    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programs dedicated to robotics and computer science, catering to the surging global demand for these disciplines, which is expected to hit USD $225 billioni and $140 billion, respectively, by 2030."
+    publishedDateTime: 2023-08-08T08:43:00Z
+    webUrl: "https://www.logisticsit.com/articles/2023/08/08/abu-dhabi’s-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-departments-to-meet-surging-global-demand"
+    type: article
+    provider:
+      name: Manufacturing & Logistics IT Magazine
+      domain: logisticsit.com
+    quality: 16
 
 secured: "QZFbWaHaPGFz4pGzy58C/l92qhBw0UC1FmXtGoeGGOxxYuFFc37k1nwe3GCUFdZ2zaVR6OPFiiD1CfpYw/8AmRIDMk6TC+bTnrCD8cgh4LLGEwiahcr/rwnF7PCa7SGbATd7cABHHhXrbBgrLTSDevUDNrceXpDghGqpD4HS0GB6KLuJcCzRxi3G8LN72PSsjLlaPXJyRIILbQznqNybBWiTcq6nYlkzcyTyqDgVxdoXbFDqP/l+Q9zZlcggg2cK7g+b7XfaWvQ+Rx70wrYRlHFAJRzmSr5HRlsImXzs1EPFnh3zdo5AOCRcR1W2GBEoUI4d1C7CyFJoE+MrSSSk2TRhMn65K4YcujEmjlO0KA4=;yneC93i7CifyAJdVuLqR5Q=="
 ---

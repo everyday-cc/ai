@@ -52,6 +52,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 31
+  - title: "Alibaba Cloud Named A Challenger In Gartner® Magic Quadranttm For Cloud Ai Developer Services For Second Consecutive Year"
+    excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, has been named a Challenger in this year's Gartner® Magic Quadr"
+    publishedDateTime: 2023-08-10T21:23:00Z
+    webUrl: "https://menafn.com/1106830447/Alibaba-Cloud-Named-A-Challenger-In-Gartner-Magic-Quadranttm-For-Cloud-Ai-Developer-Services-For-Second-Consecutive-Year"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?85913"
+        width: 477
+        height: 250
+        isCached: true
   - title: "UiPath named a Leader in the 2023 Gartner Magic Quadrant for Robotic Process Automation report"
     excerpt: "UiPath, a leading enterprise automation software company, today announced it has been positioned by Gartner as a Leader in the 2023 Gartner Magic Quadrant for Robotic Process Automation research report."
     publishedDateTime: 2023-08-08T00:24:00Z
@@ -66,6 +80,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "CrowdStrike Among Highest Rated in 2023 Gartner Peer Insights™ Voice of the Customer for Managed Detection and Response Services Report"
+    excerpt: "CrowdStrike (Nasdaq: CRWD) today announced it has been recognized as a 'Customers' Choice' in the 2023 Gartner Peer Insights™ Voice of the Customer for Managed Detection and Response Service report across North America,"
+    publishedDateTime: 2023-08-10T13:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/10/9862567.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "O7L3t1piOE8bZ3yaJvhs9I5Lw2GYbL4+tiP0gN60xOsadJ/pS4bATWkuwts4+UN3VNOiRLKN4rjNTVO8lZlZQkHIGSndJN0cFZAs8Xhw7/qmgRDlhYwQ/OnvTo6MtWa6AL9gFVTbiBzZakABS5Gu81GgKNsI/TYl75nRZXps76LRHvZK+4Dy2QljTFCvIHrvHbxvh247DCXe1g2/Qog0dQh+FnHrw6nbbBEO5plhuCJDojjS2MDDU8jEZa6Zdal2GhwwBS/R/mO9e1A2GUJ+qIrVYelKClMP6jddLXrA8Q4vjyzvwXEGJC1Eoo110cQPfLC6pibMxKX4ClPErHvckGrVDVxAmnNiUTDq6mDsfYfdmAJ+sO5+QyoF9BX1UNl0tcTfLF6Fmk0Rtr9y1i6d0XjYkUYq/eVOjeo1OY9LybPJElgsaPc/YIy7d3GPtzT78yTLfGzvDOartNH0yPxMG9bM+ItOupna1a0O23O7h50/XTIWF+a/YzP2lqbajgTQmUoeS464dSnf/aVnfpBjOw==;cmCoxpfygGfyiiHOWZlLDA=="
 ---

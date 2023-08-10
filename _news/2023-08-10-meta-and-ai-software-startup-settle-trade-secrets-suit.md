@@ -62,6 +62,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Meta Platforms Resolves AI Startup’s Trade Secret Lawsuit Through Settlement"
+    excerpt: "Meta Platforms, previously known as Facebook, has reached a settlement in a lawsuit filed by Neural Magic, an artificial intelligence (AI) startup. Neural Magic had accused Meta of unlawfully appropriating its trade secrets."
+    publishedDateTime: 2023-08-10T17:52:00Z
+    webUrl: "https://www.jdjournal.com/2023/08/10/meta-platforms-resolves-ai-startups-trade-secret-lawsuit-through-settlement/"
+    type: article
+    provider:
+      name: Legal News
+      domain: jdjournal.com
+    quality: 16
 
 secured: "XfPmEqzupS+sjyZGcExev7qZ7gixRohzHPV+4cRJkr2YZio/T9JmblC+K6L0TBrBNX/lOZ9bqk5y3hAW8RnbEuunfUar7dZ12kozQ2+xspuCptBxVoeRAcWYo02/PUm2knQgT4PhbnQT+zjhm8uCP7FIoVEcnBMkumchHRHF3dXr1JA5V57xXjC6dLGk3asYJT+8NeHEPV9dEHNDuKRzGnHmeSAOEi6SRrOdVAWUkc5bLTCrsK9m/iSU8GZA3cLNgN5U3QAJnWQLftstGYjNG9MvBwyi5NHSEfDmES1gkW2uFwWPp6icgineUb6U9YEd6zjrEQm7HkkmXvtNYaoqO3u8o0Z8u1unwKR5OHyXrQ/2OM9rBavIAGy4ivxV139ahRYlKhmena3iD2dY4kJq831TZZ0YRWtBel59WMXqwn5tXZFqNRDyvUQwrj+hYU9lkfsbzc0lwuT6DdZ9yIJTxhS1N30Uw/RSiPgW//0oGDbKVygb/SvnVPy2/AYMh9wpal8Sc4ESrR63OqWK/F6/Dg==;d7llkunQP6zWD3Ud3OgSSw=="
 ---

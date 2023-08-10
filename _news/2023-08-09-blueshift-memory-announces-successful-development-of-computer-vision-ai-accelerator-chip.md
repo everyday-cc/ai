@@ -58,6 +58,15 @@ related:
       name: New Electronics
       domain: newelectronics.co.uk
     quality: 42
+  - title: "Andes Technology and TetraMem Collaborate to Build Groundbreaking AI Accelerator Chip with Analog In-Memory Computing"
+    excerpt: "Andes Technology, a leading supplier of high-efficiency, low-power 32/64-bit RISC-V processor cores and Founding Premier member of RISC-V International, and TetraMem Inc, a pioneer in analog memristor technology and in-memory computing,"
+    publishedDateTime: 2023-08-10T18:51:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/10/9862929.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
 secured: "aKWEI+3NtPOWcrWB4VbTrKztt43KexTBV+gX9b/Fmi2gq5VZdO9iqJ47Ms3ksJm/narrCbjUe/PyrgFvFpVd/l+D31f39RUUJzIUyDoCTiwn6wFvaQvQVtX9vCwIN9DPDfB/SHKV2NWMQ7xbgxNnYwjsnvgixNhRoD03Q80K3Q6nXXNSf8ZV3F/Zpx9rSJksBXhbj0ZLv5+EIo/UnLtQEinIQeOZqZou0hzwz6KmsSJ19zjrJ1SN42ZB90opg781Xrxmlx5heZYcgoSC3VxVGM4/FSlCgFgRlvvIWJ7dWADaBqNagrRmCYapnLD6G1bl7AQmr1GvEINO0+HuEIhEu/IeVz+cwsLckhMafMRvfatc56CI0XAjDy8MjRbgpzwRQ0G+gxlx8LjC1KzffUtuuwgwOr2C8Uo0KaEAcq/MSc/NmFhneE6VhrgP8GzTw4Sm81uEkPyAEeZ9wOjxCXiP+xbZH24mzuO6M10PkWNTiNyM0tiSjE46YZR/AbMGsWSziJAXOS3xDuh1YBzRdxstpw==;5OTXZUtwQYPYxxfz6cvzNA=="
 ---

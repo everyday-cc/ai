@@ -27,15 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Innocent pregnant woman jailed amid faulty facial recognition trend"
-    excerpt: "Woodruff's arrest, and the recent trend of false arrests, has sparked a new round in an ongoing debate about the reliability of facial recognition technology in criminal investigations. Critics say the trend highlights the weaknesses of facial recognition technology and the risks it poses to innocent people."
-    publishedDateTime: 2023-08-07T18:39:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/"
+  - title: "New Chinese Facial Recognition Regulations Could Shield Citizens From Surveillance Capitalism"
+    excerpt: "China’s cyber regulator just released draft regulations on facial recognition technology. They enable continued state surveillance—and overt government exceptionalism. But they also grant individuals the right to protect their personal data (in this case,"
+    publishedDateTime: 2023-08-10T00:03:00Z
+    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/"
+    ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 64
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d428db7828753d19d9d123/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Application of facial recognition tech needs to be strictly regulated"
     excerpt: "Although the technology will improve efficiency and convenience, it brings with it deep security risks. The draft regulation is aimed at improving standardized application and compliance of facial recognition technology in order to effectively protect personal information and property rights, and maintain social order and public safety."
     publishedDateTime: 2023-08-09T23:36:00Z
@@ -50,29 +57,20 @@ related:
         width: 721
         height: 480
         isCached: true
-  - title: "Black woman matched by facial recognition alleges police misconduct in lawsuit"
-    excerpt: "Another person in the United States is alleging a wrongful arrest based on a false match by facial recognition software used by police."
-    publishedDateTime: 2023-08-07T15:18:00Z
-    webUrl: "https://www.biometricupdate.com/202308/black-woman-matched-by-facial-recognition-alleges-police-misconduct-in-lawsuit"
+  - title: "China Plans To Restrict Use Of Facial Recognition Tech By Businesses, Issues Draft Guidelines"
+    excerpt: "China is planning to restrict private businesses from using facial recognition technology less than two years after it announced a data security law."
+    publishedDateTime: 2023-08-09T09:32:00Z
+    webUrl: "https://www.ibtimes.com/china-plans-restrict-use-facial-recognition-tech-businesses-issues-draft-guidelines-3708019"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 28
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/07111707/black-woman-facial-recognition-scaled.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://d.ibtimes.com/en/full/3134691/facial-recognition-systems-could-using-your-photos-without-your-knowledge.jpg"
+        width: 1920
+        height: 1285
         isCached: true
-  - title: "Woman files lawsuit, claims 'faulty' DPD facial recognition hit prompted her false arrest"
-    excerpt: "Woman, who says she was arrested while she was pregnant, claims 'pattern of racial discrimination' in how DPD uses technology"
-    publishedDateTime: 2023-08-06T16:52:00Z
-    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2023/08/06/woman-files-lawsuit-claims-faulty-dpd-facial-recognition-hit-prompted-her-false-arrest/70523848007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 25
 
 secured: "FDGCkgf/+KdpwuEqgWdYJnjDQjxwdoGZdDya01RQVRmxU+X/HIxku8HHUJxmaoTj/q7Hoa5ZhNAWJ3FajHRD8buq6blHxGyOBNxpjf/tMQroqixWRAfZIPrP0vei5NU4GrOfcD6HPZZVAtGttOq1THOuqNcdm3s7z0nDyaHBLPzxc8qEPoVmKi1f+J1XoWVrQgO4unGDOp5rKa/4y1sXZi6BZGw+f/RXt5022HyjsVJbuUld4d5hGcfELQUM8qlLw1TiE0/oVeX00gtKFr/j05WSO16FOQJZMt+70ax+dgGT7pf2x+DJ2ka7RHABXVnXR+84gn+ntbxC3uLlUiIq4u6VYG35j56TO2VKt/ctdt0=;VWsUAgyTzIuRnzRcnxlp3A=="
 ---

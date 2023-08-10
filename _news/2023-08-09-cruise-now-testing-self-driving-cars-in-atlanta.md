@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "It’s Not Just Tesla: 5 Cars With Self-Driving Features"
-    excerpt: "Spread the loveSelf-driving car technology is rapidly advancing, and while Tesla may be at the forefront of the movement with its Autopilot system, it’s not the only carmaker with autonomous features."
-    publishedDateTime: 2023-08-06T03:23:00Z
-    webUrl: "https://www.thetechedvocate.org/its-not-just-tesla-5-cars-with-self-driving-features/"
+  - title: "Researchers use AI to determine drivers health and mental state in self-driving cars"
+    excerpt: "Researchers at Western University are partnering with Mitacs Globalink to advance technology in self-driving cars by using artificial intelligence (AI)."
+    publishedDateTime: 2023-08-10T20:53:00Z
+    webUrl: "https://london.ctvnews.ca/researchers-use-ai-to-determine-drivers-health-and-mental-state-in-self-driving-cars-1.6514170"
+    ampWebUrl: "https://beta.ctvnews.ca/local/london/2023/8/10/1_6514170.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/london/2023/8/10/1_6514170.amp.html"
     type: article
     provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 39
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 52
     images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/05/How-Tesla-Is-Using-Artificial-Intelligence-to-Create-The-Autonomous-Cars-Of-The-Future.jpg"
-        width: 1000
-        height: 667
+      - url: "https://beta.ctvnews.ca/local/london/2023/8/10/1_6514170/_jcr_content/root/responsivegrid/image.coreimg.png"
+        width: 1020
+        height: 574
+        isCached: true
+  - title: "Digital displays on the exteriors of self-driving cars could help cyclists stay safe in the future"
+    excerpt: "Digital displays on the exteriors of self-driving cars could help cyclists stay safe on the roads of the future, researchers say. Animated representations of virtual drivers, traffic-light-like projections on to the road or even emojis displayed on their ..."
+    publishedDateTime: 2023-08-09T15:40:00Z
+    webUrl: "https://techxplore.com/news/2023-08-digital-displays-exteriors-self-driving-cars.html"
+    ampWebUrl: "https://techxplore.com/news/2023-08-digital-displays-exteriors-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-digital-displays-exteriors-self-driving-cars.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 30
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/digital-displays-on-th.jpg"
+        width: 1280
+        height: 983
         isCached: true
   - title: "Cruise now testing self-driving cars in Atlanta"
     excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta. While Cruise intends to eventually operate a ride-hailing"
@@ -53,14 +71,42 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving car company Cruise to test in Atlanta"
-    excerpt: "Cruise is bringing its autonomous vehicles to Atlanta. But, the cars will have drivers for now. The San Francisco-based company, which operates a robotaxi service in other cities, said Monday it will begin testing its self-driving cars in Atlanta."
-    publishedDateTime: 2023-08-08T11:49:00Z
-    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2023/08/08/autonomous-car-cruise-general-motors-test.html"
+  - title: "FIU research: Protecting your self-driving car – and your privacy – from cyberhackers in the age of AI"
+    excerpt: "Imagine driving down the highway when suddenly your brakes slam, your engine turns off and your doors lock. A hacker has remotely taken control of your car.   Preventing this hypothetical scenario is a focus of automakers everywhere."
+    publishedDateTime: 2023-08-07T14:40:00Z
+    webUrl: "https://communitynewspapers.com/florida-international-university/fiu-research-protecting-your-self-driving-car-and-your-privacy-from-cyberhackers-in-the-age-of-ai/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: Miami's Community Newspapers
+      domain: communitynewspapers.com
+    quality: 23
+    images:
+      - url: "https://communitynewspapers.com/wp-content/uploads/2023/08/ai-of-cars-square-image1.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
+    excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
+    publishedDateTime: 2023-08-10T20:44:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
+    type: article
+    provider:
+      name: wusfnews.wusf.usf.edu
+      domain: usf.edu
+    quality: 18
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/a576e85/2147483647/strip/true/crop/4948x2598+0+319/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F08%2F10%2Fgettyimages-1390904872_custom-facb4d78b06ed88683d0ad1b438c70c0e9e87cdf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cruise now testing self-driving cars in Atlanta"
+    excerpt: "For the moment, there's still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."
+    publishedDateTime: 2023-08-10T19:36:00Z
+    webUrl: "https://techxplore.com/news/2023-08-cruise-self-driving-cars-atlanta.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
     quality: 4
 
 secured: "35vERUjSGEtPZtb9z6W6wXkCKAQOuBCk5nv9knaCDPkBFfwMcl3ophlPZs9ezHy0pekbrY0Oq57Cjh3sM/hib7SG27QBPJbQUHYwYjzCwa9yIbM120cOJ4MTc00DAXd+OnfL6HDFH++laU6nAdwB08ZYT6fpJDKIupgFGw6xlSKqm2rICpCOHRfbZakqnLYIcRK/h/lVzvVXQjulxRVGLZOYBGeoa8DV3xp5wnPMvlM1/pQHLrMZcutF1CR2/SsF9WUxm2LHRaze8w/QjiBCPF6kzuo5SfaOeZMsjSi3rDbM6l0D8dtJJkwuLDRG1xWBWY4B7MZoZQ7IMxDT6peBHC/wCnOMlZVLLaz2TVfATCo=;l2RmAY4nzQTCqwL1bkRq4g=="

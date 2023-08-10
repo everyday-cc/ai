@@ -1,0 +1,60 @@
+---
+category: news
+title: "Middleware raises $6.5M in seed funding to transform cloud observability with AI"
+excerpt: "Middleware, a startup that uses artificial intelligence (AI) to simplify and enhance cloud observability, announced today that it has raised $6.5 million in a seed round led by 8VC."
+publishedDateTime: 2023-08-10T19:00:00Z
+originalUrl: "https://venturebeat.com/business/middleware-raises-6-5m-to-simplify-cloud-monitoring-with-ai/"
+webUrl: "https://venturebeat.com/business/middleware-raises-6-5m-to-simplify-cloud-monitoring-with-ai/"
+type: article
+quality: 42
+heat: -1
+published: false
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "Middleware raises $6.5M in seed funding to transform cloud observability with AI"
+    excerpt: "Middleware, a startup that uses artificial intelligence (AI) to simplify and enhance cloud observability, announced today that it has raised $6.5 million in a seed round led by 8VC."
+    publishedDateTime: 2023-08-10T15:06:00Z
+    webUrl: "https://venturebeat.com/ai/middleware-raises-6-5m-to-simplify-cloud-monitoring-with-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vector_art_of_Cloud_Observability_with_AI_abstract_c_9965f251-12a1-4e5b-9af4-09712b09f65a-transformed.png?fit=750%2C600&#038;strip=all"
+        width: 750
+        height: 600
+        isCached: true
+  - title: "Debunking observability myths – Part 3: Why observability works in every environment, not just large-scale systems"
+    excerpt: "In this article, we'll tackle the common myth that observability is only relevant and beneficial for large-scale systems or complex architectures. \nThe post Debunking observability myths – Part 3: Why observability works in every environment, not just large-scale systems appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-09T13:11:02Z
+    webUrl: "https://www.ibm.com/blog/debunking-observability-myths-part-3-why-observability-works-in-every-environment-not-just-large-scale-systems/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 60
+  - title: "San Francisco AI observability startup raises $50M"
+    excerpt: "Weights & Biases helps other AI developers monitor their code so it can be audited, organized and debugged — preventing so-called black boxes. The San Francisco startup just raised some fresh funding."
+    publishedDateTime: 2023-08-09T17:50:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/08/09/san-francisco-ai-observability-startup-raises-50m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+
+secured: "co9q3ZAKhIHlzM7ZlSjHS+aQOBXCvOwzv45SsELx8ksD7aBNqOF0/QeWRk1IDuFeWhBytK8Wt+BPZXiaaCBLQgEPBJorKe2KgFcGDzxRz3ecsZ8MJoRzLPSQ2yi/Tz6/8coT1j+TYhDZB++vipYuYC4EglArp8dI4wvqczJs1spAMGQK5NpftAVhZ1BP78GAJKGWA814cn9ItqujaFi77Srld6Wjca8PxqM4riGf9e5y6MKg3T/eywKDqxiiJXK88z2rYuscBhNhFES3CaY8Qne7r+i1C2lnXDQTObRrEFoQbiUBtT4gM06ZSQB2XTQRLaOzlralutM59qp0xs2OH/bVWd8PRdqXcx5oy0lREAVwD5oQQ9DaJfOZqJZ+F5xiP8yFOALPL1kTTuQ3XwhPR99oiKMvsVnexWEZ6eM0qun898GSt+DL6Ral+i5blc7t6VILlzcZXgBUwv59fMkqH4FGpZ82lkHiqbpX5BorvYcM+C/pTW2MmjrUYacVpbXUprq8QL5vvmFGJyUdkCbrfg==;lHiJgvYAM479erUrD6DnAw=="
+---
+

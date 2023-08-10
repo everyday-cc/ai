@@ -26,17 +26,6 @@ images:
     height: 382
     isCached: true
 
-related:
-  - title: "Anthony Albanese ‘won’t focus on hypotheticals’ as Voice date nears"
-    excerpt: "Prime Minister Anthony Albanese has warned no other forms of recognition of Indigenous people will be on the table if the Voice referendum fails."
-    publishedDateTime: 2023-08-06T02:00:00Z
-    webUrl: "https://www.news.com.au/finance/work/leaders/anthony-albanese-wont-focus-on-hypotheticals-as-voice-date-nears/news-story/8bbb7d5caf4d5c9dc4111e52946f3bb0"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 4
-
 secured: "L+/ssLdxoYLvGQI0PVkdY2Anjqfpi/SGy4o1jQCxTwSZAGHzB5tX4HPcarSm4hb1ZbqJBXj6SJcSqkB+n2qhyd+3efTWwcVn8xA1vjVCv+Tiq6y/U/ntrQjv2LN5C+ruxXnqf1iVBJW25ACU3baOJauLrT13KOWL7VfCT3FgvR+NK/WqMS3ZJe+mE/Tc54kXjIENtz2ubYjak0ms0mXenuLb3w7d5YmPeWPA1aozH3d7C368kP7tbyCqicFj5ldCGQPcohmo81Wy5SjxfQ5tCdG53R3xpsBYh8GYONHa4HCEduHubQH9RfWdogwTJhU5UVEWvQ6CTfO2Vnsywcf5nZVQZ8090NYlLTAyolHrdkc1u7Xq5kzGx1v8yAC2phuqrw+7XzY+gvI8MX/BcmVlWVsppazfcllVmvnJf7orBdZu6ggrl/PH5OfHsu/MLesyCtyjVnF0o18nayayR40+yDMkd42JeQEe+dBWPDuzQrLXOPG8H6VYMjSeWBzEPmO60kbsfZM36Yw6lSdsBUo99Q==;NxXcGJmzn+9yusqBIY4J4g=="
 ---
 

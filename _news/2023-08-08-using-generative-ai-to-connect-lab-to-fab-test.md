@@ -245,6 +245,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 51
+  - title: "How to use AI to create a logo for free"
+    excerpt: "Generative AI is perfect for producing code, writing letters, and creating images. But how does it fare generating logos?"
+    publishedDateTime: 2023-08-10T18:44:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-use-ai-to-create-a-logo-for-free/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "Cyient sets up CoE to power engineering with Generative AI"
     excerpt: "Cyient & Microsoft partner to set up CoE EnGeneer to drive engineering innovation using Generative AI. CoE to integrate new Generative AI capabilities into existing solutions, CyFast & CyArc. OpenAI & Generative AI technologies to be used across all Cyient platform solutions."
     publishedDateTime: 2023-08-08T04:18:00Z

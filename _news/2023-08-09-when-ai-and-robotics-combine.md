@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenation.com/article/world/when-ai-and-robotics-combine
 cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/"
 type: article
 quality: 89
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -94,6 +94,29 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "WCTC To Offer New Certificates In Artificial Intelligence And Data Analytics"
+    excerpt: "Waukesha County Technical College announced plans to offer new certificates in the fall about artificial intelligence and data analytics."
+    publishedDateTime: 2023-08-10T18:49:00Z
+    webUrl: "https://patch.com/wisconsin/waukesha/wctc-offer-new-certificates-artificial-intelligence-data-analytics"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 34
+    images:
+      - url: "https://patch.com/img/cdn20/users/25016349/20230810/024904/styles/patch_image/public/wctcgrab___10144852995.png"
+        width: 985
+        height: 739
+        isCached: true
+  - title: "Abu Dhabi’s artificial intelligence university establishes dedicated robotics and computer science departments to meet surging global demand"
+    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programs dedicated to robotics and computer science, catering to the surging global demand for these disciplines, which is expected to hit USD $225 billioni and $140 billion, respectively, by 2030."
+    publishedDateTime: 2023-08-08T08:43:00Z
+    webUrl: "https://www.logisticsit.com/articles/2023/08/08/abu-dhabi’s-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-departments-to-meet-surging-global-demand"
+    type: article
+    provider:
+      name: Manufacturing & Logistics IT Magazine
+      domain: logisticsit.com
+    quality: 16
 
 secured: "vU9ksipXV5+GIegG3Vgdjv2U66ikSR5Un4biMg9KeIPCzMBq/CXJL2nHb91V30jWyWszZWrTOnltvLWcKpECrtMn6dumyNxftcMFGEmv0SRdhfsVo0aSoD191Dra4bMw6WbJW4dFSzNfrN5SKcCvWIiPw+tI48/P2sou98MvgpAwQMERDp8IEN4mIXv86bqj9GsXit9iZ7cL2A2g51lPuJ77eoKgC00hxoHCECzIaI4MyaaulrOVNHrNzZ1o1/YsR0J1cFUHECjwbBklHhB+uDwbUS0fOzkuaRPEjL6LS90v1qIgG0swdxQq7bYpCqK4xEzCDzQBAieIX/YJIkJMGdX6RQvsdaFk2kK/ROUALxHN4sk9GgymQEAeC7ehwH3MqAdiPFGjww8G6/+jFEQMdrdd47OylulTvhQi0CYSle+BGphYWDr8d9CV0P7UzBVmKZPXz6KIW6KYn9KVDzQsPALMXK5Iqj4UHj/nupNjAb5t+u5z5daOcp5DUAJ94WPaMYbPMaGRnSU7Ql/u9mJiZQ==;GS14v/40Y3PRsxMq/5l5zg=="
 ---

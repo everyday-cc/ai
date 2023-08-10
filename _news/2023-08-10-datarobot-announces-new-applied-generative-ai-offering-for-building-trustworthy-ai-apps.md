@@ -38,7 +38,21 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Rasgo launches Rasgo AI, a generative AI agent for enterprise data warehouse analytics"
+    excerpt: "Rasgo said its AI employs GPT for “intelligent reasoning,” which enables it to think and act like a business analyst for data warehouses."
+    publishedDateTime: 2023-08-10T18:49:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/rasgo-launches-rasgo-ai-generative-ai-agent-enterprise-data-warehouse-analytics/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/rasgo.png?w=1200&strip=all"
+        width: 1032
+        height: 668
+        isCached: true
 
-secured: "pMvKVX/AdW+D0YbWt+NAPx/S+R3n8D+mGUjmqwfXlMhC4ig59sGGIPc2YEOf9Fahy0engsCXFyAJ1yQTTvBB5J+lijYZt5vfaInqnfetelB0RV7maC/h0qOBmDy/9uoylFSe5Onf7m+9uG7vLMUCXg07fivTvEywklNid6yNlW7+GDLF3jgj+D9bOOHUXv0YItRLfmJ/2MAp9s0ystSU82HXxiwzciCevObxRvSeprZb2alGhXa8KDa1t06XRvGHvdsTdsUBuNFEsujs7l/SGnAVNWF2G72wzblzjjEd7hEvWtHQI3lSz8cCye8cic29GC/tV9yUVqi0CCzM4ed1uSjtmW3Xig6rQWRrcbFgu+w=;OwrbNgTgVO+D4bu7enSDMA=="
+secured: "ySVCYVxHIuxxOQ4xBgg5WH0SM1JpF1GGmNn4SYimrZy2O3/Sqc2o9vCnTGUbdhln/n6orvaV3yTWsvEeg0TfQEPQbp6SuUuA7s0X7siED7cHj551yVWt4hZfiYm3e9MUZFMSO7gWFQZqooXzOOjsO0Uv0LAQdS2AyR9t8xlLAT5wZv+uca6QwFdStkAr8waw8ufg/b9CsJv1hIWxgZheA05/ie7fbwHaY/m87ipXb3+v5BvYUpwc2mNsfCNw8FGa7m5JESzRUkxEAhlUQXSG66e+Y/i4XYLvQ4B0FC9XjmkzEZcFcjTvXY8gVpST8kMY3DcFORw9GqP5oBHYbgghar7EM18sKaMEnmIVDcDXBIWEmdgoYzsZ+CXYilxQyz8lvcRFoLf+AoAuF7l+QHvyagyVzevhmITIcgkmG8moVWmo0XcDKeU+r0WFx7i0NoY7WAnAzVHBiVDHvLQajr5du3A041c8+W8T1qN53gue3k1udNz84ln3Ot91jsaYSXg0+Xoh1D1pVGKIVjkUXSNiMw==;pqzORs3mDu7xGYP8Pw9xag=="
 ---
 

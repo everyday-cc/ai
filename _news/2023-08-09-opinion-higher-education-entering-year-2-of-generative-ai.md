@@ -231,6 +231,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 51
+  - title: "How to use AI to create a logo for free"
+    excerpt: "Generative AI is perfect for producing code, writing letters, and creating images. But how does it fare generating logos?"
+    publishedDateTime: 2023-08-10T18:44:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-use-ai-to-create-a-logo-for-free/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "Using Generative AI To Connect Lab To Fab Test"
     excerpt: "Executive Insight: Thomas Benjamin, CTO at National Instruments, sat down with Semiconductor Engineering to discuss a new way of look at test, using data as a starting point and generative AI as bridge between different capabilities."
     publishedDateTime: 2023-08-08T07:05:00Z
