@@ -50,6 +50,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "RBC: These 19 stocks with an early lead in the AI revolution will continue to profit from rising demand in semiconductors, cloud computing, and more"
+    excerpt: "Companies jumping into AI now will set themselves up for long term success. RBC identified 19 stocks benefitting from AI developments today."
+    publishedDateTime: 2023-08-10T08:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-investing-strategy-rbc-2023-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
+    images:
+      - url: "https://i.insider.com/64d3e3f7a8ce53001a5942ea?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Artificial Intelligence Contribution to Eating Disorders"
     excerpt: "Artificial intelligence has an eating disorder problem. Pro-anorexia chatbots are a mere consequence of some of the best tech-funded companies not doing enough to prevent the circulation of misleading"
     publishedDateTime: 2023-08-08T22:00:00Z

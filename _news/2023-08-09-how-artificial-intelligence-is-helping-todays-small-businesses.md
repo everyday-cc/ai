@@ -49,15 +49,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 17
-  - title: "The Impact of Artificial Intelligence on Software Development"
-    excerpt: "Jamie Boote warns developers, architects and QA testers to remain vigilant over the use of AI in software development"
-    publishedDateTime: 2023-08-08T11:59:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/ai-software-development/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 17
 
 secured: "RKrkQ6S3UjFWgjTFga6nb77avypFNQeMVLK6RCkTGeLO6DqhHSp2p77qDv0BvBOXW3LDYlA/wMOUOm6UNy7o1CpM7WDKMVnWj0mQwl30X1aGSmWBOL0tjZJUOW5FyEBEeHJenDWFkTlHBIpXMEXWuxVQ3UU+5FsVKeVC90TXzjXI8lRnA9Q7EVTfWjTRRoxQaYViMEl5dd8doEeCmZcNm9Gq7tvkwKb4nKpyPCYQCwTgSbwoI2Opp68qdmlvvDcLPcAn38cckS0G3aITnso0JNPT98h2SRbVUJ1laYpC+kRLwA79nUJ9kGx80csQT/O1BWQ0wqNY+PIEpgPmYYWfACRNlzAXZh3+r6tWAmM/JkwBvRXRgcJPuTN6iJVn9XEfivYHZwLWPQBpwMXqPdL3uZVltE1X92FzDB+ojMu2FcicLUxqQbORsEZFVOJaki29dPjdkgkYhn1sXSHMDQ6L1yOzbiV2Xk3zWbdcgVNnLfURJfWF1aIQgShO3AY7qxyNCsLepmAHeRzyEOznf2rrSA==;PVcod1jYHlAJaJcrVfyyvg=="
 ---

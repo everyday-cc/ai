@@ -24,6 +24,22 @@ images:
     height: 567
     isCached: true
 
+related:
+  - title: "The Future of Fintech in Latin America 2023"
+    excerpt: "Many companies, countries and regions have forged ahead in leveraging data, cloud, blockchain and AI. One such region is Latin America, where according to Statista, there are 2,300 registered fintech companies,"
+    publishedDateTime: 2023-08-09T14:00:00Z
+    webUrl: "https://www.finextra.com/researcharticle/285/the-future-of-fintech-in-latin-america-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fo-latamhomepage.jpg"
+        width: 480
+        height: 270
+        isCached: true
+
 secured: "t6mqOWYDEMJxAILll/GjsxsnF8Fx/hxRWm7kNmSA2XrSjkkSGkXi4e1EDfvKsMPYp7CeaZ4XQWX2Ss2onyYdiL7bBV6+L6uI3qydOmJUWOT8+yp103ATr3Oxww5VneOBfS9KxQMRQa7UtHg+mOgzhFFlHARKBLIlJgiyxnapB07dP2P8RH5vYE7LQJE6kOMWscQ1XySOh7RAKTWiP5ax8ZwDCQoizithKmxtmwfbc3HdI0PxnlpEsQJMI1Pvi/3AOHyX+5CgitdFPBOnc4yWNYiO/Ag5dXWdhol3Nn7vMlAUOe3YZeG9LC0HpZyvxto02cPhQsnSE03ArMv/Dum1kXLCmeZaHyTclgASFnTue8A=;uP9RRglU4nb1lAcoEld+Rg=="
 ---
 

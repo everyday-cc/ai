@@ -55,6 +55,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "RBC: These 19 stocks with an early lead in the AI revolution will continue to profit from rising demand in semiconductors, cloud computing, and more"
+    excerpt: "Companies jumping into AI now will set themselves up for long term success. RBC identified 19 stocks benefitting from AI developments today."
+    publishedDateTime: 2023-08-10T08:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-investing-strategy-rbc-2023-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
+    images:
+      - url: "https://i.insider.com/64d3e3f7a8ce53001a5942ea?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI 'Brain' Technology by Rezolve Joins Forces with NAGA to Revolutionise Online Payment together with Brokerage Transformation"
     excerpt: "Frankfurt listed, German Fintech leader, The NAGA Group A.G. (XETRA: N4G) (ISIN: DE000A161NR7), operator of the All-in-One Financial Super App, has announced a ground-breaking partnership with Rezolve AI Limited."
     publishedDateTime: 2023-08-09T09:22:00Z

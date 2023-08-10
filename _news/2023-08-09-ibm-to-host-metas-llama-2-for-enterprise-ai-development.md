@@ -25,77 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "IBM to host Meta's Llama 2 in Watsonx platform"
-    excerpt: "The International Business Machines Corporation (IBM) announced on Wednesday it plans to make Meta Platforms' large language model Llama 2-chat available within its Watsonx.ai platform. \"IBM"
-    publishedDateTime: 2023-08-09T14:12:00Z
-    webUrl: "https://www.teletrader.com/shbm-to-host-meta-s-llama-2-in-watsonx-platform/news/details/60472097"
-    ampWebUrl: "https://www.teletrader.com/amp/news/details/60472097"
-    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/60472097"
+  - title: "Google brings AI to cloud-hosted development environments"
+    excerpt: "Project IDX combines Codey-powered AI assistance and templates for popular JavaScript frameworks in a cloud-hosted Linux VM. Google said support for Python, Go, and other languages is coming soon."
+    publishedDateTime: 2023-08-10T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.html"
+    ampWebUrl: "https://www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.amp.html"
     type: article
     provider:
-      name: teletrader.com
-      domain: teletrader.com
-    quality: 59
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://cdn.ttweb.net/News/images/299846.jpg?preset=w800_q70"
-        width: 800
-        height: 450
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/28/18/hand-showing-laptop-computer-with-cloud-network-computer-connects-to-internet-server-service.jpgs1024x1024wisk20c3gwxkwlddsf00-lunwxyq6ke23tl1t853fplvz67cvm-100944020-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "IBM to Make Llama 2 Available Within Its Watsonx AI and Data Platform"
-    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to host Meta's Llama"
-    publishedDateTime: 2023-08-09T15:59:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform/"
+  - title: "Bud taps Google Cloud generative AI tools to develop intelligent chatbot"
+    excerpt: "UK fintech Bud has developed a generative AI core and chatbot for personalised customer insights using Google's PaLM2 large language model. The new logic core will be embedded into Bud's existing lending and affordability product and its money management ..."
+    publishedDateTime: 2023-08-08T15:18:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42751/bud-taps-google-cloud-generative-ai-tools-to-develop-intelligent-chatbot"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
+      name: Finextra
+      domain: finextra.com
+    quality: 38
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
-        width: 300
-        height: 235
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rszed-maslaveckas-headshot-hi-res.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "IBM to launch Meta's Llama 2 on watsonx AI platform for businesses"
-    excerpt: "IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients. Since OpenAI's ChatGPT launch late last year stoked interest among consumers and enterprises,"
-    publishedDateTime: 2023-08-09T15:10:00Z
-    webUrl: "https://www.aol.com/news/ibm-launch-metas-llama-2-121027714.html"
+  - title: "The Impact of Artificial Intelligence on Software Development"
+    excerpt: "Jamie Boote warns developers, architects and QA testers to remain vigilant over the use of AI in software development"
+    publishedDateTime: 2023-08-08T11:59:00Z
+    webUrl: "https://www.infosecurity-magazine.com/opinions/ai-software-development/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/156e4e217325d45055536a0bc4c941cf"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "IBM to make Meta’s Llama 2 available on Watson X"
-    excerpt: "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,"
-    publishedDateTime: 2023-08-09T18:42:00Z
-    webUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 34
-  - title: "IBM Collaborates With Meta to Integrate Llama 2 into Watsonx.ai Platform"
-    excerpt: "IBM announced that it would host Meta's Llama 2-chat 70 billion parameter model in the watsonx.ai studio, with early access  available to select clients and partners."
-    publishedDateTime: 2023-08-09T18:33:00Z
-    webUrl: "https://analyticsindiamag.com/ibm-collaborates-with-meta-to-integrate-llama-2-into-watsonx-ai-platform/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 33
-  - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
-    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat"
-    publishedDateTime: 2023-08-09T12:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-301896401.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 32
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "26AhBbfat2/XjM9+v0Pu3x4CCDKkNdXQRtIRfdGYVdZNniN3m25LRr9xHNhgO/yxZD7XRlM/9HXTRxfr38+Kpae0N+ihFo/uVSmN6N5rnNRfWaNKplmmOQwy2wZaHgUp8QXKTUjuqe+PqjyERbf/PU5pKjEjcUhkZKgK9g4mdknHjzmeEMdyJgv2mvnMqg/y2yfjYcKqAkAhpBkVwvxO1F+eiOM2UK/oQ69SLrSNO8pqtAM16C7SLKPPh4MPGIF/2G70sEzH73b5e/G0lkaLVuFBc5XQOten8MIvvE113RY6VCP+jLAVlBStO2mI4tkFoGAxXd08PKuilj05I+9z4LEOG9SKtpRnazZsIrRx4kc=;QAKTJb5snT3Ot0VGuMwBng=="
 ---

@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "New Japanese StableLM language model released by Stability AI"
+    excerpt: "Stability AI has unveiled its inaugural Japanese language model (LM), the Japanese StableLM Alpha. This model is not just a first for the company,"
+    publishedDateTime: 2023-08-10T06:39:00Z
+    webUrl: "https://www.geeky-gadgets.com/japanese-stablelm-10-08-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Japanese-StableLM-language-model.jpg"
+        width: 700
+        height: 486
+        isCached: true
+
 secured: "yF0WSaKnQyuQt9/JB5ndc6zZn0hXege/sAATVQqeEdtF8ZbVYoYQ7N2jjF5lSsOcgXrClw6bcQBg39FsKJYUvynTBiy/gmsftuUaGm5Qf/m2lYxZqTbYdMqKUvzhf3J/7n6Klwvd2iMPdd9pNjoXgg2hLw2Yns8gWvNNpSQtJNiZWu37jMFYNqtju4vUa80VtOygeVlz/XjwvPMCbGGSyhA4DHndANQfdo0/iCp4Gdi2hZrAiieGIkjgHBhzdNliLr2udFheY4u9O92WU5pUTAuzLx98Jgc2taI7joZRaqAKXLk6ssKVpmGd4X89qR0YwukF2ZBURfO8YfXQbiUSOtW0NP0i85r8AJssaBSC4QRS0eg3e7NSipevqSiWWMTj5CaF8vubdVh233CZsTHDAfACuP8WPjJ416jDs+6uJBaSgAGYHUPr7b+gil1FRyMn5qE2PesX81hKEXL7g472up0vehSsAHfRSi2I0q6vpnZpaHRJDTushgB6DSbJ7IzV/cQz1gaVVeIGrhQAEeqvkQ==;a0F11yMUmWmASlhXrMLBJA=="
 ---
 

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "J.P Morgan To Launch AI Program To Boost AI Fintech Innovation In Partnership With TIFIN"
-    excerpt: "In a significant move for the fintech sector, TIFIN, a leading artificial intelligence (AI) platform for wealth, and J.P. Morgan (NYSE: JPM) have announced the launch of TIFIN.AI."
-    publishedDateTime: 2023-08-05T16:32:00Z
-    webUrl: "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33585861"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33585861"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/08/04/contributors_4_0.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Lytus plans to invest $50 million in fintech business"
     excerpt: "Lytus Technologies Holdings plans to spend $50m to expand its fintech offering into India over the next five years. The Nasdaq-listed firm will launch \"AI-driven financial services and personalised solutions\" as part of its move into India."
     publishedDateTime: 2023-08-09T08:47:00Z
@@ -57,6 +41,36 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Invest Inc. Announces Reg A+ Offering: A New Era in Fintech Begins"
+    excerpt: "The future of fintech has a new face, and its name is Invest Inc. With great enthusiasm, we are proud to announce our Reg A+ offering, a transformative step that underscores our commitment to democrat"
+    publishedDateTime: 2023-08-09T17:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/b33674049/invest-inc-announces-reg-a-offering-a-new-era-in-fintech-begins"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33674049"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33674049"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Singapore central bank pledges $150 million to support new fintech projects"
+    excerpt: "Singapore's central bank is to commit up to $150 million to support startups developing innovative financial technologies over the next three years."
+    publishedDateTime: 2023-08-07T23:23:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42745/singapore-central-bank-pledges-150-million-to-support-new-fintech-projects"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5485.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Lytus intends to invest $50 million in the fintech business"
     excerpt: "Lytus intends to invest $50 million in the fintech business - Nasdaq-listed Lytus Technologies Holdings, a leading global technology-driven services firm, plans to invest"
     publishedDateTime: 2023-08-09T09:44:00Z
@@ -70,20 +84,6 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/h7BHAut8.jpg"
         width: 570
         height: 367
-        isCached: true
-  - title: "The Future of Fintech in Latin America 2023"
-    excerpt: "Many companies, countries and regions have forged ahead in leveraging data, cloud, blockchain and AI. One such region is Latin America, where according to Statista, there are 2,300 registered fintech companies,"
-    publishedDateTime: 2023-08-09T14:00:00Z
-    webUrl: "https://www.finextra.com/researcharticle/285/the-future-of-fintech-in-latin-america-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fo-latamhomepage.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "Hong Kong Tech Firm, ASL, Accelerates Growth in Fintech Services with Finastra"
     excerpt: "Automated Systems Holdings Limited (ASL), a global IT solutions and services provider, has strategically partnered with Finastra."
@@ -131,6 +131,35 @@ related:
       name: SiliconIndia
       domain: siliconindia.com
     quality: 4
+  - title: "Back-Office Outsourcing Philippines: Cynergy BPO — Propelling Fintech Innovation with Advanced Tech & Superior CX"
+    excerpt: "The dawn of financial technology, or fintech, has ignited a revolutionary transformation in financial services, redefining interactions, service delivery, and customer experience (CX). Amidst this technological tidal wave,"
+    publishedDateTime: 2023-08-07T04:51:00Z
+    webUrl: "https://www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/"
+    ampWebUrl: "https://www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/?amp"
+    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/?amp"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 3
+  - title: "Fintech BPO Philippines: Navigating digital revolution in financial landscape"
+    excerpt: "The rise of financial technology (fintech) has disrupted traditional financial sectors, propelling a shift towards digitization, convenience, and enhanced customer"
+    publishedDateTime: 2023-08-09T11:15:00Z
+    webUrl: "https://manilastandard.net/spotlight/314358733/fintech-bpo-philippines-navigating-digital-revolution-in-financial-landscape.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 1
+  - title: "Fintech firm Enkash expects business to grow by 36% to Rs 250 crore this fiscal"
+    excerpt: "Ascent Capital-backed Enkash founder Hemant Vishnoi said the company focuses on spends management of small and medium enterprises that have over Rs 10 crore annual turnover and expects the customer base to double in the current fiscal."
+    publishedDateTime: 2023-08-06T12:57:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/fintech-firm-enkash-expects-business-to-grow-by-36-to-rs-250-crore-this-fiscal/articleshow/102476139.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 0
 
 secured: "oDPVkRtll07ltOR+BpT/S1Xkbez8k4e13bym2tkF7vWWl3vF1XrhQiiVxaPz8wzpfo52ybUmWt0/t+zS8mtZYFveJFBnyzocyh8soEHdYHg6jy7/6LnqrPM/LXm++RxUyQ2X2E60AjfyDL48LC1FQZRO+UL2Z0+2JtaKTITlq7rkANBnCKUQLIKpQ1BNzL5N+RDciKNO58ykdNxz0WyIc6o8/fIomDr2xrP1zSgnfgKcKEg+O2ZrWpCkhn5X8GP5iOlwJDiRRBnS+rXJaxVVJFA47xvYqsXNoXy65LZ8j70puY0eizJ1oYNEYt0/KIn2kLdxuRs3Q053VgcDites4BXOe30p9TA0DqXjXzi4Pkut3wDoAk5mOBEVYTJUda7qNr8WjvHttobl4Y/8Ad7vkyTp33LYzYe13bvDUNH6/z8Ga5dPQ82JSBLRC7HY0oI7vBLqhbocMR7mkVGwY90q3+Fq8OZO2FIQWvLd7uPpAnKlMmvI+hEIjPx1B7bqo5AL420Asc21+la+HuYTXEo7aw==;RbKoWoUhcm9O/4R7+JL3Mg=="
 ---

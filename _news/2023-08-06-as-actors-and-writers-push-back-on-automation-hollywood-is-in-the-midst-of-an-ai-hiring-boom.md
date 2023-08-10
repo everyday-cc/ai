@@ -26,6 +26,22 @@ images:
     height: 682
     isCached: true
 
+related:
+  - title: "AI, self-tapes and weekends: Here are the stakes of the Hollywood strikes"
+    excerpt: "Writers and actors on strike are forcing Hollywood to address deep-seated issues. The latest from the protests and what's at stake on."
+    publishedDateTime: 2023-08-10T09:00:00Z
+    webUrl: "https://www.aol.com/news/ai-self-tapes-weekends-stakes-090000123.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 36
+    images:
+      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/b772496cdc74d162adf0b2c580b0165d"
+        width: 840
+        height: 560
+        isCached: true
+
 secured: "p+0HMusbxaM8JO0rKyHpPFALzZU4ORi05FiKkEXzc76epLjp4tUyIWD+DBjDDJuJlEXD4yu412ZYqcC3bzHHIweAYD+K1aRjtXmPGO5OUnxHrAc43osPKYwBLl3uTHhJ7I9miztePZLf60dv9SeUJq4OCijXI8rQxM+e0XClSrvg9OTEgtIamH1Kth58/loHBQTdB/VQ43+ewb+LpicTBxtL03GzdDCtepsPJT83r6iNgAl/g+Gl03mrEy1wiUFQlxskI5TfyB53R2KXHYxOm9qImnhYbQY4WmSQQQvKITcc86lZ9zxFdySh9bbQE5sMUJCk/qwU/E56bJnxsLmPTPvDdy8wTwehhkWmGhua8jw=;VDO3xSJ1vUPeqxJLwFvapw=="
 ---
 

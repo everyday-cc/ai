@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/africa-ai-tech-idUSL8N39C3M5"
 webUrl: "https://www.reuters.com/article/africa-ai-tech-idUSL8N39C3M5"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "African perspectives: the role of artificial intelligence in journalism"
+    excerpt: "In an interview with Global Voices, African journalists shared their views on the use of artificial intelligence (AI) in journalism on this continent."
+    publishedDateTime: 2023-08-10T07:53:00Z
+    webUrl: "https://globalvoices.org/2023/08/10/african-perspectives-the-role-of-artificial-intelligence-in-journalism/"
+    ampWebUrl: "https://globalvoices.org/2023/08/10/african-perspectives-the-role-of-artificial-intelligence-in-journalism/amp/"
+    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2023/08/10/african-perspectives-the-role-of-artificial-intelligence-in-journalism/amp/"
+    type: article
+    provider:
+      name: Global Voices Online
+      domain: globalvoices.org
+    quality: 37
   - title: "African tech startups take aim at AI 'colonialism'"
     excerpt: "In contrast, Lelapa AI - which Moiloa calls a \"socially grounded product and research lab\" - has developed a language processing tool for under-represented African languages to help companies translate,"
     publishedDateTime: 2023-08-10T02:22:00Z

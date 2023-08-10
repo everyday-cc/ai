@@ -41,6 +41,17 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Alibaba Cloud named a Challenger in Gartner Magic Quadrant for cloud AI developer services"
+    excerpt: "Alibaba Cloud launched its LLM named Tongyi Qianwen in April, a model that enables developers to create customised AI features in a cost-effective way. The company recently launched Tongyi Wanxiang, a cutting-edge AI image generation model capable of using text prompts in English and Chinese to create detailed images in various styles."
+    publishedDateTime: 2023-08-10T09:38:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-jdjwwgti"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-jdjwwgti?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-jdjwwgti?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 31
   - title: "UiPath named a Leader in the 2023 Gartner Magic Quadrant for Robotic Process Automation report"
     excerpt: "UiPath, a leading enterprise automation software company, today announced it has been positioned by Gartner as a Leader in the 2023 Gartner Magic Quadrant for Robotic Process Automation research report."
     publishedDateTime: 2023-08-08T00:24:00Z

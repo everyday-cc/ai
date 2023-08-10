@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions -FT"
+    excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday."
+    publishedDateTime: 2023-08-09T21:54:00Z
+    webUrl: "https://www.reuters.com/technology/chinas-internet-giants-order-5-bln-nvidia-chips-power-ai-ambitions-ft-2023-08-09/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 80
+    images:
+      - url: "https://www.reuters.com/resizer/tyFpR0H5gc8GFCzc32yvJXBPe84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VTXHVAI3VBOYTAQRG7NBVL5EII.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Nvidia Unveils New AI Chip Set to Cut Cost of Running LLMs"
     excerpt: "Nvidia appears to have turned up the heat on its competitors within the artificial intelligence (AI) hardware space."
     publishedDateTime: 2023-08-09T08:14:00Z
@@ -115,22 +129,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2018/08/nvidiagaminggraphicsgaming-graphics.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions -FT"
-    excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday."
-    publishedDateTime: 2023-08-09T21:43:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2553311-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2553311-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2553311-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 70
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_34_3794932.jpg?width=1280"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Build generative AI applications using Azure and NVIDIA H100 Tensor Core GPUs"
     excerpt: "Microsoft Azure users can now leverage the latest NVIDIA accelerated computing technology to train, deploy and build generative AI applications. The"

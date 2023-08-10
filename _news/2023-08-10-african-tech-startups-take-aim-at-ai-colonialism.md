@@ -33,6 +33,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "African perspectives: the role of artificial intelligence in journalism"
+    excerpt: "In an interview with Global Voices, African journalists shared their views on the use of artificial intelligence (AI) in journalism on this continent."
+    publishedDateTime: 2023-08-10T07:53:00Z
+    webUrl: "https://globalvoices.org/2023/08/10/african-perspectives-the-role-of-artificial-intelligence-in-journalism/"
+    ampWebUrl: "https://globalvoices.org/2023/08/10/african-perspectives-the-role-of-artificial-intelligence-in-journalism/amp/"
+    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2023/08/10/african-perspectives-the-role-of-artificial-intelligence-in-journalism/amp/"
+    type: article
+    provider:
+      name: Global Voices Online
+      domain: globalvoices.org
+    quality: 37
 
 secured: "3MTQmSIaK9PtXKxhxC3RoR2/pX0oJELJs1E/SjmTII91nYVq1JGh7UlWF0Ew+PViM2vDhZCJY344tl97I4PISzRvygh4T1JiiuRRbdC0KgYbDyqFaPrS4KYCmYRfcFZ9pQOAGfa1KAsAwNOx1bOVF1Pr9luGYyHE1GFaYJf1jgQXY5jqG3jXRpdbaTMhWfmvHA58DG19FvnWyT+uaf8Gx+MabU0yCwXOp+5oqu6iI9zAJTjzWETq8LLsCG3vh9st+lBwwAJxilksnZ/qIWc5uyLNdy33/a/8HnuJM1kKzMzM8bc8QMdrgJa+V7WNxbAMSnCctmhwE0VdzWcWW3EaAdufOxTzkbXzYiosy6cTvUisWZs/O2zjelTZ23xmq5dfq+eyCbdUm/uY/OEVmzCCnGKIgAjv69d+GzZrgSWQgNuGhmBL2T7l/4JwzksD/VcnTSH3yFZ+LB2so/9+oT3TUUcWDSwpXS1YjAkG4jkBWo3+SSV/APQDd2C67R5Y1oO6W6im8GP3joZ3M9dKG86StA==;ifF//MvG7MLTvSlmO52Dug=="
 ---

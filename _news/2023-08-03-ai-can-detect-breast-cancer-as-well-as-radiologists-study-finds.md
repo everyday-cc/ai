@@ -3,8 +3,8 @@ category: news
 title: "AI can detect breast cancer as well as radiologists, study finds"
 excerpt: "Artificial intelligence can detect breast ... need to be trained and tested more before they can be deployed in health-care settings. Still, the findings are “breathtaking,” wrote Nereo ..."
 publishedDateTime: 2023-08-02T19:18:00Z
-originalUrl: "https://www.washingtonpost.com/health/2023/08/02/artificial-intelligence-breast-cancer-screening/?n=@"
-webUrl: "https://www.washingtonpost.com/health/2023/08/02/artificial-intelligence-breast-cancer-screening/?n=@"
+originalUrl: "https://www.washingtonpost.com/health/2023/08/02/artificial-intelligence-breast-cancer-screening/"
+webUrl: "https://www.washingtonpost.com/health/2023/08/02/artificial-intelligence-breast-cancer-screening/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 848
     isCached: true
 
-secured: "ShbtLF6Z+SN8Y92uInZQmaibwqRRXwOfvfVQXtMkWxMjAuRAd5ZRQRuwabWJrlyG7buTij0jVup0cOyrOmVWunBoq9owb6f+yFUw9hBYAYwMIhivoN00MPHn/sQ25/040btSaAr9J5rXcBTOFpVWhp5VJEhDUnZSv/uE4uPNs3zWIBkUlaYZvuB95EIReXijqZHCffFaP+c94h9aa4CvmPJG1A6MlP5C7c++a3YrLqVj4ERyhwtPLXFQbi1BA/GKAVUR76E4d0g5jXYLo8beJwW6huxSk3BxO/9cF12FGAL/jLIJ8JBzTp1MFcJYt63BaFF8cBtYkg5mObhEnhxa0oI0WTRQWCHtQKAK1Vz1YDE=;xDHyepPFQyigrfWwo3d4hw=="
+secured: "IcqMCi5RyLV6W5FlNqeJxgD6MYRFCKsBxzY7cyaYAApKeTZMQFYvLhhgcGju9Yox9GyTyFsLHcuNgahOICGtZ3ic27v+GSgzyH73kyh/nWJ1QDXo764rXgf5mdCzb3y2qjlif31Ziy8vaxEweOkRnES3MHGFuIxhUvpQ/aoCb9ft+PB32e/knXLmBefKyULkHMWUfuhzx/oV24DUQzQdhp4u3r8OkbAreeHW2SAAzcTRk2/2VWFcB2w0C0SKx/PCwHD8EQR2Nodf8mfOZ4MyEvOpT5L2h6fA22YxCuQnxvv97D8RTqcKYnyZTTu/sK8fJOECAKufkWCCUyJCBkvoe1WiXqzVOIs+kdssh6o1eG4=;4DqXB0tRSOU3amB8q02Kig=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Supermarket AI meal planner app suggests recipe that would create chlorine gas"
 excerpt: "Pak ‘n’ Save’s Savey Meal-bot cheerfully created unappealing recipes when customers experimented with non-grocery household items"
 publishedDateTime: 2023-08-10T03:59:00Z
-originalUrl: "https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes?ref=mc.news"
-webUrl: "https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes?ref=mc.news"
+originalUrl: "https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes"
+webUrl: "https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes"
 ampWebUrl: "https://amp.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "eD8fWOwHflOq0otBFQx55XsopOrwGpdYXAs7V9eDTNmh077I6HnB+ba6Cy6gQG5fDv65tMf+K8+Puhw6l0NSS45HIomol27FU5yeiD5+M+QMtg0B8FdHOYWfOnazk/qFOPHlUGSANgtrI/0UN6qWq/roN/U3+CO2J2KLltR+6aYGBZAVRjb1ySnudww8oVPlbXSVN65JLuI+365ytS6h4JMsaPgpAcxqa4Q0vSGzT6znV24OYs9K0A83CvYUBUUC//9btdG9x0rUPP1Sqll1YNCiio/cldBhjiKpPS2v6XOtB7WzhF6AvTS/JugOuO6LOcwF7aakxr0DnNZdOREi86kga9MJJLzB28iuv0dKaxMrFMg6uI3SCPwxqOqCZ4/Ab9Qv8I1zCXu3uacVi94WbxNx/5PdIoi7sUM/OC7QEVWGyvKLhFKTlfNY4tHsDgwFopcIjZlvImMbjuOmqB7nart41hbJPIaUUiCqNhbs3E7xxMHGeQNur7o8LEFtHe+8TbxJIvOR3fj781mWH/s06g==;9tFjE5OKottZbBkYhhJQyQ=="
+secured: "bM6nKB0+VkqwgaEa+MgmHH3eZYQifXnmlnEe18wtdFirwKbUHPs6a2V38mfN6rdeZqJKfcbA7tl947ZIFW+42OjuOYcLsFmxdsb6SeOFHDc7MjUzm40qPE1LX9MS81skZ0HsG8xrA9fhI30BphXYUm6lkC2CYWeeHR1nzHjcQN5QxV2wCW8/4JPc2POAR5X1a7UbAW3/+KpJBEkbkMkh5dbriIleb1ZetSHXk2D2zegDZ9e+O0iHOCjhnczkUpJE8aogIR7DQ0ykBTeaqdh6Fblve8O9UOYFqat9F3h1ia105e9Gn/vpr89Hsv1OgBx+cN6u1NAcRt1yHoDuGHKTzCVXIl3DkjAJx0pNZn80aKE=;ALp8J00dkhCpVzryblIxcA=="
 ---
 

@@ -2,28 +2,30 @@
 category: news
 title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions -FT"
 excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday."
-publishedDateTime: 2023-08-09T21:43:00Z
-originalUrl: "https://www.devdiscourse.com/article/technology/2553311-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft"
-webUrl: "https://www.devdiscourse.com/article/technology/2553311-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft"
-ampWebUrl: "https://www.devdiscourse.com/article/technology/2553311-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft?amp"
-cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2553311-chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions--ft?amp"
+publishedDateTime: 2023-08-09T21:54:00Z
+originalUrl: "https://www.reuters.com/technology/chinas-internet-giants-order-5-bln-nvidia-chips-power-ai-ambitions-ft-2023-08-09/"
+webUrl: "https://www.reuters.com/technology/chinas-internet-giants-order-5-bln-nvidia-chips-power-ai-ambitions-ft-2023-08-09/"
 type: article
-quality: 70
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: devdiscourse
-  domain: devdiscourse.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_34_3794932.jpg?width=1280"
-    width: 1280
-    height: 853
+  - url: "https://www.reuters.com/resizer/tyFpR0H5gc8GFCzc32yvJXBPe84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VTXHVAI3VBOYTAQRG7NBVL5EII.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -298,6 +300,6 @@ related:
       domain: extremetech.com
     quality: 16
 
-secured: "lyPIXl0Fl35ETDoKB0e8Rjk3dKFnfp+jlB+bOqAZLH2akI/pG47eTdQexpYjxZuHfMJoTp0bb+sPTNCOE0o3gCUExbpCj9cTIpUJW2fj7l3MDfRnUtoJNpGmKgqLpjqCuo5uwwG+rGg4U0g01uPBuywz7xgiqfQYpXsbXUFt+BQPJvBf43hHScx2EtXjHqhTD1wQm3Wat76EIwBcHvuoC5scnqfRHz9a4h3hjJJz3Z9T0AtF2w/n23I/wQuF10BQnDPAcAY4hiG9hHFSEigfq+K1VbG6KladkqHVKUZZD6w307iXPrVEICKaG+GFJeRlNUs8OIQ6JYfFMS5PKFuK4iBctXsEHGFywg/ZS+Ufep0=;iwuvRVkfKzYTcISd3VPIvA=="
+secured: "YcNANmtvPgZXz1zv/HiwplSMhWQ64GGZ2WBb/Mz0v96nx1G4EYmGo7C5SIMJacjSlXbhcKmX1fb6tBsCww3s+z8FZpnExHfg6KOlPmhBpDmrtXoQt6Ug7jqIoSgI2WpAaZ0kzI2/TzJzRvHAPNFPDsF/KEWc+I4rnVtFj0G5UNRlitWQypDptl5NsFZa/EgpC/tXxXCqYclNWQXg8Xo6gkyTsTKwvaZteJkdfQ05T2zFgh9JbmUgLa7jsDgBaySK8u4ZFYFSDEyat4Sjq5gFL2YBCjnnh0oAtEgp4qY+2sDc/Bt07k1ObvJEAHWmKG9bVmu1MS4EBZiCSsrs0csZvWfMXINAUB1P62YMeFmADYI=;RGSteVXvKF4lbXjdRbaOBg=="
 ---
 

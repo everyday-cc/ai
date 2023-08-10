@@ -9,7 +9,7 @@ ampWebUrl: "https://www.staradvertiser.com/2023/08/05/breaking-news/artificial-i
 cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/08/05/breaking-news/artificial-intelligence-gains-state-lawmakers-attention/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/08/07/2218066.jpg"
         width: 1240
         height: 826
-        isCached: true
-  - title: "Artificial intelligence is gaining attention of CT state lawmakers; they have a lot of questions"
-    excerpt: "HARTFORD, Conn. (AP) — As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they’re often focusing first on their own state governments before imposing restrictions on the private sector."
-    publishedDateTime: 2023-08-05T16:00:00Z
-    webUrl: "https://www.courant.com/2023/08/05/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 41
-    images:
-      - url: "https://www.courant.com/wp-content/uploads/2023/05/HC_news_State_Capitol_May_02.jpg?w=1024&#038;h=749"
-        width: 1024
-        height: 749
         isCached: true
   - title: "Artificial intelligence is gaining state lawmakers’ attention, and they have a lot of questions"
     excerpt: "As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they’re often focusing first on their own state governments before imposing restrictions on the private sector."

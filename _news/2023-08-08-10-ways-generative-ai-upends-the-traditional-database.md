@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3703211/10-ways-generative-ai-upen
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.amp.html"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/manage-header.png"
         width: 1639
         height: 886
+        isCached: true
+  - title: "Unleash Your Creativity with Opendream.ai’s Revolutionary AI Art Generator"
+    excerpt: "In the ever-evolving landscape of technology and creativity, Opendream.ai emerges as a beacon of innovation, introducing a groundbreaking platform that blurs the lines between human ingenuity and artificial intelligence."
+    publishedDateTime: 2023-08-10T09:13:00Z
+    webUrl: "https://techbullion.com/unleash-your-creativity-with-opendream-ais-revolutionary-ai-art-generator/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/full-shot-super-woman-with-superpowers-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
     excerpt: "The new GPU powers accelerated computing workloads for generative AI, which is transforming workflows and services across industries, including text, image and video generation, chatbots, game development,"

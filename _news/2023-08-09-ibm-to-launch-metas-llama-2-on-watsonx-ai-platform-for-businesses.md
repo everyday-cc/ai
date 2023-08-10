@@ -1,28 +1,26 @@
 ---
 category: news
-title: "IBM to launch Meta's Llama 2 on watsonx AI platform for businesses"
-excerpt: "IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients. Since OpenAI's ChatGPT launch late last year stoked interest among consumers and enterprises,"
-publishedDateTime: 2023-08-09T15:10:00Z
-originalUrl: "https://www.aol.com/news/ibm-launch-metas-llama-2-121027714.html"
-webUrl: "https://www.aol.com/news/ibm-launch-metas-llama-2-121027714.html"
+title: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses"
+excerpt: "(Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language program on its own enterprise AI platform, watsonx. IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients."
+publishedDateTime: 2023-08-09T12:10:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
+webUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 64
+heat: 114
+published: true
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
+  - IBM AI
   - AI
-
-images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/156e4e217325d45055536a0bc4c941cf"
-    width: 800
-    height: 534
-    isCached: true
 
 related:
   - title: "IBM to host Meta's Llama 2 in Watsonx platform"
@@ -55,20 +53,6 @@ related:
         width: 300
         height: 235
         isCached: true
-  - title: "IBM to host Meta’s Llama 2 for enterprise AI development"
-    excerpt: "IBM Corp. today said it will host Meta Platforms Inc.’s Llama 2, a 70-billion-parameter large language model, in the watsonx.ai studio enterprise artificial intelligence development platform it announced in May. Early access is now available to select clients."
-    publishedDateTime: 2023-08-09T16:33:00Z
-    webUrl: "https://siliconangle.com/2023/08/09/ibm-host-llama-2-enterprise-ai-development/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Llama__2-1920x720-1.jpg"
-        width: 1920
-        height: 720
-        isCached: true
   - title: "IBM to make Meta’s Llama 2 available on Watson X"
     excerpt: "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,"
     publishedDateTime: 2023-08-09T18:42:00Z
@@ -97,6 +81,6 @@ related:
       domain: prnewswire.co.uk
     quality: 32
 
-secured: "wSR+5q6S0CpbAEQVuUqjua7A+I5Xt+mdlSCayjS2fiVineASWZn+PZMJVeRfrHksuvI1xXPlETLepq9+MR+dTY9L/sA99eCxT9kCm3ROo13lLluebvn15+vhBz1lw3BVrTsVhRhRgcyCB3bVPYD662KrbXb3YheLo33N9o1FBdD5WcrI2Xq5ZZi4Uzw8b22sG6R2zT/QfR5NJOTsxc8/VHnYzdWA8WQQcoRE0+N/tncOD0yuGYCd++VvLU8k833yOJpIxBzmxPDVGLAh9zrXbN1xAAoMaepHsqp3W1uxui3rXWStS6C/O6/8MycjRxTUkDU9n4bsMaXj3NAz0Mzz2uo6UvAvc8ZU/ylv3r3Wklc=;kt4CPuo34eP/nn9Z1TvRUA=="
+secured: "NOPlHyKi7a66u3j0t3w2f1gNIWTRKBv5Dhh8Yxu1ZFFWqFj6BLBWDyExHb7PpaZywdtv/YQTO4kwqItRTzwIogtnb+7DEd/m31JPGkhmIlfHpk8itp3o+S6ZtpiB4gg+Y6ms4ZkO+WjlC8aIbijnwOHwrzLeWdXxy6thUY29u2Maixdxj91IHEigBrfzqqKW4disoyv18xcDjFkYOyYiRbkCCxTQz+fjz3F7sfIhlSEFnoPXMpafpqHWtbK04uxEkrONa9l4/W2YnToxTAm9Hww4pusFk6fzi21LQqpEJS3lL1WnegJYR5dJVpOA/MS6a2sGiguUxQaaiVdanQ40stXPqu8LO1FPi+YYql0JtyYPkrXuZk9/27rXliy6aOT1QuVeMI4H8R5jh37AEBzZh7pRFhssAouDZC2b3QER+6EkxZqh4G13W+AsucTeQsFeraj7ApYxW+dUwVyTCdWdYxQ/aZpP/CZ+zWV9zPIylOAVgaJwPcRsoJDsCsWj0TiF3r6rLB+Mbv4ElnEcuut4yg==;tbVM25XAkxG5veuLSSsU2A=="
 ---
 
