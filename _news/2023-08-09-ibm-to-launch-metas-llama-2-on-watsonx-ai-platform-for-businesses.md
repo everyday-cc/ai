@@ -7,8 +7,8 @@ originalUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-
 webUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
 type: article
 quality: 64
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: U.S. News & World Report
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "IBM deepens AI relationship with Meta, plans to add its model to Watson studio"
+    excerpt: "IBM continues to expand its relationship with Meta on the frontier of artificial intelligence. Here's what's happening."
+    publishedDateTime: 2023-08-10T15:32:00Z
+    webUrl: "https://wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/"
+    ampWebUrl: "https://wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 70
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/05/artificial-intelligence-5-5-23-e1683284669461.jpg"
+        width: 948
+        height: 532
+        isCached: true
   - title: "IBM to host Meta's Llama 2 in Watsonx platform"
     excerpt: "The International Business Machines Corporation (IBM) announced on Wednesday it plans to make Meta Platforms' large language model Llama 2-chat available within its Watsonx.ai platform. \"IBM"
     publishedDateTime: 2023-08-09T14:12:00Z

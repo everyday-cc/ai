@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-interne
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://hrnews.co.uk/wp-content/uploads/2023/08/Image-62.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI threatens to add to the growing wave of fraud but is also helping tackle it"
+    excerpt: "There were 4.5 million reported incidents of fraud in the UK in 2021/22, up 25% on the year before. It is a growing problem which costs billions of pounds every year."
+    publishedDateTime: 2023-08-10T15:00:00Z
+    webUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.html"
+    ampWebUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-threatens-to-add-to.jpg"
+        width: 1280
+        height: 894
         isCached: true
   - title: "AI is still driving Big Tech earnings"
     excerpt: "They AI hype cycle isn't dying down anytime soon. Need proof? Look no further than Big Tech's latest earnings reports."

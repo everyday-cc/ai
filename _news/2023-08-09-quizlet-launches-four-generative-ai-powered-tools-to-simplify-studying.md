@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/quizlet-launches-four-gener
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/quizlet-launches-four-generative-ai-powered-tools-to-simplify-studying/"
 type: article
 quality: 87
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Clarivate Launches Enhanced Search Powered by Generative Artificial Intelligence"
+    excerpt: "Clarivate Plc, a global leader in connecting people and organizations to intelligence they can trust to transform their world,"
+    publishedDateTime: 2023-08-10T12:50:00Z
+    webUrl: "https://www.datanami.com/this-just-in/clarivate-launches-enhanced-search-powered-by-generative-artificial-intelligence/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 14
 
 secured: "K6dgabk0COBajpTtS6Kx1Zd4R/Zzmq7GdohSkL+/AqgHiButgvvMBWZSusKlsKAx8kUEuNUW1gF1J05aWze2gMFs+hEKL7kmlgxh28z+DXRJrIZq5XNJv6o70nftLcTrMQZeFPAZ4RWHSDL0qZ/YXmQKJZ8mdMY9AERi1JD64Dlyufd42luGuLS/Q/WD1Xi4SzwsGlbaD0SR4m3PG7vnyHlHqu2Hd6HycQgTMqTGZ5MeN1Fbgvm8RM3ItWChNVkFSidXG8j+qaWWgK99amMwJFCI/vf8NeXaiqFQfBHit1pugJns0Vhd0fGmkHad4sO+SWKIiWIshUi0T4HPtIOCu1D6pRu6T1+GJ1VdjAlqXxEHfzeLBYRHIW7yXqkL50PtII2eb5W2ttROA9epd/uleLFjRp1Gl/MaUElNC9BNJ+krVEBTnmpQxodYtc/iOS1Zc2ouER9+Ruywvz8HND6cAu6l3wGeQvDQ4VJDDTyFoIfLF+TVXrubKEAV3RSU+WRt6VGgbQf9+Xv9NiwttSei2Q==;JGgVjdy1479/V3eIJpdn2Q=="
 ---

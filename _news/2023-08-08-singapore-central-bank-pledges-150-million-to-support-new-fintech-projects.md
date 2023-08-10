@@ -41,50 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Invest Inc. Announces Reg A+ Offering: A New Era in Fintech Begins"
-    excerpt: "The future of fintech has a new face, and its name is Invest Inc. With great enthusiasm, we are proud to announce our Reg A+ offering, a transformative step that underscores our commitment to democrat"
-    publishedDateTime: 2023-08-09T17:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/b33674049/invest-inc-announces-reg-a-offering-a-new-era-in-fintech-begins"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33674049"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33674049"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "FinTech LIVE: AI in financial services"
-    excerpt: "In this forum from FinTech LIVE New York, we discuss how AI is already beginning to transform the financial services sector with AWS ’ Global Banking Industry Strategist Sachin Tandon, and MSU Federal Credit Union ’s Chief Digital Strategy & Innovation Officer Benjamin Maxim ."
-    publishedDateTime: 2023-08-08T09:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-live-ai-in-finserv"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/3b954bb1bfdbf39d9330a2cf8e2ce3e8:be2643f3fa4b62e349ff9ba7c35881f6/maxresdefault.jpg.jpg"
-        width: 1200
-        height: 631
-        isCached: true
-  - title: "Lytus intends to invest $50 million in the fintech business"
-    excerpt: "Lytus intends to invest $50 million in the fintech business - Nasdaq-listed Lytus Technologies Holdings, a leading global technology-driven services firm, plans to invest"
-    publishedDateTime: 2023-08-09T09:44:00Z
-    webUrl: "https://www.siliconindia.com/news/business/lytus-intends-to-invest-50-million-in-the-fintech-business-nid-224641-cid-3.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 24
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/h7BHAut8.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Hong Kong Tech Firm, ASL, Accelerates Growth in Fintech Services with Finastra"
     excerpt: "Automated Systems Holdings Limited (ASL), a global IT solutions and services provider, has strategically partnered with Finastra."
     publishedDateTime: 2023-08-09T22:58:00Z
@@ -113,15 +69,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Strategic ingenuity: Insights on sustaining tech excellence and innovation in Fintech Sector"
-    excerpt: "In the rapidly evolving landscape of fintech, achieving and sustaining technological excellence and innovation is paramount for companies to remain"
-    publishedDateTime: 2023-08-09T09:30:00Z
-    webUrl: "https://www.dqindia.com/strategic-ingenuity-insights-on-sustaining-tech-excellence-and-innovation-in-fintech-sector/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 8
   - title: "The Rise of Fintech Investment in India: Reshaping Financial Landscapes"
     excerpt: "Reshaping Financial Landscapes - India has experienced a spectacular financial upheaval in recent years because of the fintech industry."
     publishedDateTime: 2023-08-09T12:21:00Z
@@ -131,17 +78,6 @@ related:
       name: SiliconIndia
       domain: siliconindia.com
     quality: 4
-  - title: "Back-Office Outsourcing Philippines: Cynergy BPO — Propelling Fintech Innovation with Advanced Tech & Superior CX"
-    excerpt: "The dawn of financial technology, or fintech, has ignited a revolutionary transformation in financial services, redefining interactions, service delivery, and customer experience (CX). Amidst this technological tidal wave,"
-    publishedDateTime: 2023-08-07T04:51:00Z
-    webUrl: "https://www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/"
-    ampWebUrl: "https://www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 3
   - title: "Fintech BPO Philippines: Navigating digital revolution in financial landscape"
     excerpt: "The rise of financial technology (fintech) has disrupted traditional financial sectors, propelling a shift towards digitization, convenience, and enhanced customer"
     publishedDateTime: 2023-08-09T11:15:00Z

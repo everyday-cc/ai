@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/07/authors-ai-prosecraft/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/07/authors-ai-prosecraft/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 849
     isCached: true
-
-related:
-  - title: "Lessons from finance’s experience with artificial intelligence"
-    excerpt: "PREMIUM Ai and machine-learning funds seemed like the final step in the march of the robots.(REUTERS) This rule appears to hold for artificial intelligence (ai) and machine learning, which were first employed by hedge funds decades ago,"
-    publishedDateTime: 2023-08-05T19:47:00Z
-    webUrl: "https://www.hindustantimes.com/business/lessons-from-finance-s-experience-with-artificial-intelligence-101691260940066.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 36
 
 secured: "LrQtdAeukiHx3V1QaJ0OaTBqmymJpBQRhHkiJSWfISgKwXz6gSCFaa0zqjc8zZSnD7X9WH561Ecay69gUDPd31sXFLwbrsOkk1x5CtxRWsuOu1fCUDUWpCs/oC2+HI/MJ97d/GQwZGcGO4ugzyoGwYaI5pYbLi5/pn5Yu8Rfl4oOJff3S8uN+h3iGp6Lu/7F4AN0TqiFFz0e0UPUnxh7luLoTy5VKtceHeKw+hsT1i0aKbUi08iaUl8ByTR670qdwnOE2hG8zyMwU9p/7g2zYHFWjCq2rDnxx+BRDs5GcLZmvELmgy0E8LnFwxnQetow//3vTBtyamVTNE9ULTNtg87gbtw4cTvc7qObCsuUYaCWbg4CPC4fdPifJF88dAGgr161RFXEEIhimUdHzRwtTV+xVPrA5uKB9b+waxgZqf1pWMBnMpfqutHzcOlhdU/hy2pPpJuI9pmJduBCE2/DIakl6ED3t9dkz/4JhF6bdmFqvsxpFwp+tWUYssOKkRUE1g4kvFHwlAYgT7RnNbCS6Q==;3qUFrHJYZwlqXYBEl3Es5Q=="
 ---

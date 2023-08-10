@@ -20,15 +20,20 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Why people are still key to tech transformation"
-    excerpt: "Although transformation is inevitable, it needs to be anchored by the people tasked with achieving progression and change."
-    publishedDateTime: 2023-08-08T12:40:00Z
-    webUrl: "https://venturebeat.com/programming-development/why-people-are-still-key-to-tech-transformation/"
+  - title: "AI crypto coins: how are they transformative for the market?"
+    excerpt: "Cryptocurrencies have revolutionized the financial sector, making it easy for everyone to buy bitcoin with bank transfer and start trading to generate profits. Similarly, AI has changed human intelligence, resulting in the creation of AI crypto coins. If you want to learn more about them, keep reading."
+    publishedDateTime: 2023-08-10T14:49:00Z
+    webUrl: "https://insidebitcoins.com/news/ai-crypto-coins-how-are-they-transformative-for-the-market"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
+      name: Inside Bitcoins
+      domain: insidebitcoins.com
+    quality: 39
+    images:
+      - url: "https://insidebitcoins.com/wp-content/uploads/2023/08/robot-arm.png"
+        width: 698
+        height: 464
+        isCached: true
 
 secured: "+xEI4gu3EHlxPJiopZNXZQzwY3tZFXtpnpu6MpCrEoCCohuHE1OFbU7Tkz9TJHeC6XLEtly6Z821BMg7MTe7j9AoZLAqrftOeFxYZsgz/DO/1lC/s2RTTEWLEA/UVgkqHjJ+LDx6JUJpDPmwCQcUBQ/bz6FiBMld79inSX3NMwLGNkZXjXgJXt6AUnIjq7vdvUrh0GjYdQHgd4+7l+oWP2BtzBQK5Vwqk0IY7f6rU4vhXiwNYzFtppwmajuP1CFpZmlU+98aF17/WW/Yx1qysLvo9Yqg4urtJyEMM5z2FKxzHsgnSHqNlMoaouYoIZxaWLqRxyy6lFvmhrI3J3WPceQLD1EwYuSmEKE0jdKxzD0=;4KyopR/1UcHi/K8TsBebhQ=="
 ---

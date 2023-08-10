@@ -40,11 +40,27 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64d3984e604bda7e4b0ed9f8/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft announces Bing AI coming to Safari and Chrome"
+    excerpt: "Marking six months since the launch of its ChatGPT-like AI app, Microsoft has announced that it is bringing the technology to browsers such as Safari, \"soon.\""
+    publishedDateTime: 2023-08-07T17:03:00Z
+    webUrl: "https://appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome"
+    ampWebUrl: "https://appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 74
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/55775-113306-000-lead-Bing-xl.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Examining The Future Of Marketing In Light Of AI Concerns"
     excerpt: "The more strategic, less brand-aligned functions scored the highest in terms of how defensible they are from being replaced by automation."
@@ -96,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Bing AI is coming to more browsers, including on mobile, ‘soon’"
+    excerpt: "Microsoft's Bing AI chatbot is coming to more browsers such as Google Chrome, and will start working on mobile soon too."
+    publishedDateTime: 2023-08-08T13:52:00Z
+    webUrl: "https://9to5google.com/2023/08/08/microsoft-bing-ai-browsers/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/bing-logo-circle-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Bringing Artificial Intelligence into the classroom"
     excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
     publishedDateTime: 2023-08-08T02:40:00Z
@@ -121,6 +151,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Finance workers fear they’re bringing about their own jobs demise by embracing AI"
+    excerpt: "Three of the nation’s largest unions representing parts of the tech industry in the banking sector say their members fear that embracing AI is “facilitating the demise of their own jobs”."
+    publishedDateTime: 2023-08-09T05:18:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/finance-workers-fear-theyre-bringing-about-their-own-jobs-demise-by-embracing-ai/news-story/544ee48602931ae24d70e024ada2ecd9"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 29
   - title: "Here's how Michigan employers and employees are adapting to AI"
     excerpt: "Employers need workers who are trained in AI platforms, giving a leg-up to job candidates who have those skills."
     publishedDateTime: 2023-08-07T03:00:00Z

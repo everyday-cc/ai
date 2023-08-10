@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3703211/10-ways-generative-ai-upen
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.amp.html"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -60,20 +60,24 @@ related:
         width: 1639
         height: 886
         isCached: true
-  - title: "Unleash Your Creativity with Opendream.ai’s Revolutionary AI Art Generator"
-    excerpt: "In the ever-evolving landscape of technology and creativity, Opendream.ai emerges as a beacon of innovation, introducing a groundbreaking platform that blurs the lines between human ingenuity and artificial intelligence."
-    publishedDateTime: 2023-08-10T09:13:00Z
-    webUrl: "https://techbullion.com/unleash-your-creativity-with-opendream-ais-revolutionary-ai-art-generator/"
+  - title: "3 ways to play the artificial intelligence boom"
+    excerpt: "Stocks related to artificial intelligence (AI) have been leading the market higher this year, with names such as Microsoft, Nvidia and Apple jumping between 33% and 218% year to date. These gains are reminiscent of the dotcom bubble in the late 1990s. I’m not entirely convinced we’re in a similar position, but we are certainly in a peculiar market."
+    publishedDateTime: 2023-08-10T12:57:00Z
+    webUrl: "https://moneyweek.com/investments/3-ways-to-play-the-ai-boom"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/full-shot-super-woman-with-superpowers-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
+      name: MoneyWeek
+      domain: moneyweek.com
+    quality: 17
+  - title: "Generative artificial intelligence in the hospitality and tourism industry"
+    excerpt: "Between the boundless potential and the grim peril of artificial intelligence is an ocean of possibilities so vast that its enormity alone can douse research."
+    publishedDateTime: 2023-08-10T13:01:00Z
+    webUrl: "https://techxplore.com/news/2023-08-generative-artificial-intelligence-hospitality-tourism.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 15
   - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
     excerpt: "The new GPU powers accelerated computing workloads for generative AI, which is transforming workflows and services across industries, including text, image and video generation, chatbots, game development,"
     publishedDateTime: 2023-08-08T17:34:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://techbullion.com/unmasking-the-social-impact-of-robotics-im
 webUrl: "https://techbullion.com/unmasking-the-social-impact-of-robotics-implications-for-society-and-humanity/"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Impacts
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "A novel motion-capture system with robotic marker that could enhance human-robot interactions"
+    excerpt: "Motion capture (mocap) systems, technologies that can detect and record the movements of humans, animals and objects, are widely used in various settings. For instance, they have been used to shoot movies,"
+    publishedDateTime: 2023-08-10T13:40:00Z
+    webUrl: "https://techxplore.com/news/2023-08-motion-capture-robotic-marker-human-robot-interactions.html"
+    ampWebUrl: "https://techxplore.com/news/2023-08-motion-capture-robotic-marker-human-robot-interactions.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-motion-capture-robotic-marker-human-robot-interactions.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 48
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/a-novel-motion-capture.jpg"
+        width: 2145
+        height: 1686
+        isCached: true
   - title: "The Rise of Humanoid Robots: Exploring the Latest Innovations and Advancements"
     excerpt: "Welcome to the future! Imagine a world where robots walk alongside humans, seamlessly integrating into society and performing tasks once thought impossible. Well, that future is here, and it’s called humanoid robotics."
     publishedDateTime: 2023-08-10T10:01:00Z

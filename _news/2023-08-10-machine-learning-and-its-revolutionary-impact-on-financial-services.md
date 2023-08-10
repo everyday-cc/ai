@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-10T10:42:00Z
 originalUrl: "https://financialit.net/blog/financial/machine-learning-and-its-revolutionary-impact-financial-services"
 webUrl: "https://financialit.net/blog/financial/machine-learning-and-its-revolutionary-impact-financial-services"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://financialit.net/sites/default/files/1_c_fib-ygbnml6nntygbmhq.jpg"

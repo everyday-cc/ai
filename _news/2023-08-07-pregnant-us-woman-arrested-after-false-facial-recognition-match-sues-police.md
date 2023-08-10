@@ -107,6 +107,22 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Detroit Police Seek Change After Facial Recognition Lawsuit"
+    excerpt: "The Detroit Police Department is pursuing changes to its facial recognition policy in the wake of a woman's federal lawsuit alleging she was arrested at eight months pregnant based on an unreliable hit."
+    publishedDateTime: 2023-08-10T15:51:00Z
+    webUrl: "https://www.govtech.com/public-safety/detroit-police-seek-change-after-facial-recognition-lawsuit"
+    ampWebUrl: "https://www.govtech.com/public-safety/detroit-police-seek-change-after-facial-recognition-lawsuit?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/detroit-police-seek-change-after-facial-recognition-lawsuit?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Eight Months Pregnant and Arrested After False Facial Recognition Match"
     excerpt: "Porcha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology."
     publishedDateTime: 2023-08-06T09:00:00Z

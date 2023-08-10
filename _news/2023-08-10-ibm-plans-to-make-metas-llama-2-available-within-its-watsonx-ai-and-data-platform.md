@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM deepens AI relationship with Meta, plans to add its model to Watson studio"
+    excerpt: "IBM continues to expand its relationship with Meta on the frontier of artificial intelligence. Here's what's happening."
+    publishedDateTime: 2023-08-10T15:32:00Z
+    webUrl: "https://wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/"
+    ampWebUrl: "https://wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 70
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/05/artificial-intelligence-5-5-23-e1683284669461.jpg"
+        width: 948
+        height: 532
+        isCached: true
   - title: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses"
     excerpt: "(Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language program on its own enterprise AI platform, watsonx. IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients."
     publishedDateTime: 2023-08-09T12:10:00Z
@@ -92,6 +108,6 @@ related:
       domain: prnewswire.co.uk
     quality: 32
 
-secured: "8/6KeySkOAAMNxTQWWSWdiyr7FfDdXIw56oKrppRGr7VSLTM2c7xuywRha5DrRyoy/jZHOBlMKdphah6C5yBK9HCNnO0DoxovyuT6JSpdmus5pUcLTFADSUbWOs23xeAaP416AyRqDfsqnkvObUwF5H0Y4pLddEukp7dHvuIQF49mD7/8hid+zVtx6j7fqDFg5Zk02pbmb0dWqVQSkZMfDdDLsTcats2K2KlUVOmyysK43+QHR8Zr+AQ2kadNY85QpkeFr9tb7shEGbM34hdOzfiwnRrlFo9NV9Ova9B6/yZOvzI1mFGaQ8O8JFBLBzC7k8VEqDcsjpNs3lZgWWd7bE7OtEe17qjKT38uC5TlfE=;WrbHCBzOpWVpnknstoZkpA=="
+secured: "DIppZOS3y14TZSUSTTU62daR+sBzvfZ2MRZmqFSHLMmprlUk5kQgPvJW8Ioqfl6qh+9fr4qymRvQcZ9acsMibyfrlcOjz880gokeTTIyW1B/a0gmiwGlLMYBQsUEWgaJqUu6cTNSUjJaR2UJ0rYVG2OCSbT2OZdjzGjwVNMLV3sPaxUcQIyLIxqKEW69Uc+EdLC29M3qev5AKrvz19HGqX2zWYwhftFo6ju7SbCO2ieW6LnjyRSsKytC1QkRwMX2jRgxmDfaJqQTdvgpRP8MXkm0y7a1fWLNvuRi2pEBjTZeG9JDVacq6h8kBGjjUq5AnYIxPGIhtu/aMxvNrMxOb03Tdbo8KhD/1uRDfvW0Kukiv6T1cpplOoc4VTxeiALAV7v5jc4pamND8DnyrO6zPrpG5zDbY1n05V0AU/kRW/6uU7nLATIrS4Wew/G6y9PLF8Yg7aTlPkud2AKhbHadlRTlamPfRyYPibtT/RmWRpa2o31fvxHaWtsZvRniuvPtfe237KNO04QGX3FinKwwDA==;Z8meX+xfL3G41AyfehAwXg=="
 ---
 

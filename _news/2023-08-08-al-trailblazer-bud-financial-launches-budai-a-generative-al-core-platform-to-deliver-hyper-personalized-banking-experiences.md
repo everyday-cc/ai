@@ -55,6 +55,15 @@ related:
         width: 1020
         height: 573
         isCached: true
+  - title: "SoundHound AI Launches Fully Automated Smart Answering Service That Lets Any Business Handle Customer Service Calls With Voice AI"
+    excerpt: "SoundHound AI, Inc. (Nasdaq: SOUN) (“SoundHound”), a global leader in voice artificial intelligence, today announced that its fully-automated Smart An"
+    publishedDateTime: 2023-08-10T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230810858630/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "pup2lnYpGwb+G7zMcJon4YIODs/p6KAV2K+ftIhLEQO3NbEIPhktgaPODD/BuT1I09KP1A65Se1XIuk4SAXSmmnpjeT+MbMJBRQy2tKtUoDPbe2dsLfH27HQ4mMrrF60p+AxH4+V7Jkba35QYKHsgs5OP7yei0EV8iIXJ5/OshJ32WEOUXJQLGymFRcbDZNoibBq9rallbZuwqw5Elu5fcMIeqlOAHe2T1FLDLlsW0nG1VptZkhe1Hw90PiOhho0HqgNkC+G/KikhjCI7BL9DfYnv5RuezJ+l/TEyZ/ID1xki8isXjSsM979YiPTWfmxPiqUcN7Bs6Ae52C0O6vIINhvIy3D/6znrlcavtvRKg0ViLg8U/BqkyvPTto6pFZUTA8lARIIkWrClGFkNDP114CP3Yg7gUMPTpvH9TuVJ0yRIZnhp8nM3C+fuuRfRdpZVvthJpXNsTSsw3BTVNoUfE9IbrEj2jyJ2AI0Ovw/ExlUMlu3Zps3gwGl+Dws18goEeYv5Bd5KywcDG6xQRCAxQ==;QsKyxrTTJnMMN0ZzWxiOaQ=="
 ---

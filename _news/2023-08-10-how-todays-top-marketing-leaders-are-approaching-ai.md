@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-mar
 ampWebUrl: "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/"
 type: article
-quality: 104
-heat: 214
+quality: 106
+heat: 246
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64d3984e604bda7e4b0ed9f8/0x0.jpg?format=jpg&width=1200"
@@ -46,6 +47,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64c3cba41e471324dc16a7fe/0x0.jpg?format=jpg&width=1200"
         width: 640
         height: 317
+        isCached: true
+  - title: "Microsoft announces Bing AI coming to Safari and Chrome"
+    excerpt: "Marking six months since the launch of its ChatGPT-like AI app, Microsoft has announced that it is bringing the technology to browsers such as Safari, \"soon.\""
+    publishedDateTime: 2023-08-07T17:03:00Z
+    webUrl: "https://appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome"
+    ampWebUrl: "https://appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 74
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/55775-113306-000-lead-Bing-xl.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Examining The Future Of Marketing In Light Of AI Concerns"
     excerpt: "The more strategic, less brand-aligned functions scored the highest in terms of how defensible they are from being replaced by automation."
@@ -97,6 +114,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Bing AI is coming to more browsers, including on mobile, ‘soon’"
+    excerpt: "Microsoft's Bing AI chatbot is coming to more browsers such as Google Chrome, and will start working on mobile soon too."
+    publishedDateTime: 2023-08-08T13:52:00Z
+    webUrl: "https://9to5google.com/2023/08/08/microsoft-bing-ai-browsers/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/bing-logo-circle-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Bringing Artificial Intelligence into the classroom"
     excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
     publishedDateTime: 2023-08-08T02:40:00Z
@@ -122,6 +153,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Finance workers fear they’re bringing about their own jobs demise by embracing AI"
+    excerpt: "Three of the nation’s largest unions representing parts of the tech industry in the banking sector say their members fear that embracing AI is “facilitating the demise of their own jobs”."
+    publishedDateTime: 2023-08-09T05:18:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/finance-workers-fear-theyre-bringing-about-their-own-jobs-demise-by-embracing-ai/news-story/544ee48602931ae24d70e024ada2ecd9"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 29
   - title: "Here's how Michigan employers and employees are adapting to AI"
     excerpt: "Employers need workers who are trained in AI platforms, giving a leg-up to job candidates who have those skills."
     publishedDateTime: 2023-08-07T03:00:00Z
@@ -150,6 +190,6 @@ related:
       domain: omaha.com
     quality: 17
 
-secured: "yWUTjWTaC29DAy7Ytd+ZWLcC9k0yy2sbQ4N+tsf/dXgpOKlzkiEv5589553pD0RP3ds1Pr1WY930UGnntnBEY3ioog4vnToFBhlU72sGErFzQ3R2IiXTSYYxWhVtZ1EfNbQMBtyW0Nx8N5bSTYyK4zemFd0joGT3rgcEPbhdB9LcRLFCyukxzBT2TLY1HheP8tobBgQ9/D/otQF2OshxHRZhK7FbAIhEMiQ1gIbqZtby6Lb2vvNdg8k78tdM9fTRgv/Dax1On3JAo7S5y2Pf6VBeWzji9bDvRv6a0Rj5Xk+cjrZiZwQJo5F/XdC3njUEjfOmYGfviYfvXuRWa2LeqzvmTNIXFrFXAV6nF36HsVw=;TYnp78C25yiMwtYF5Jy97w=="
+secured: "m+DdFVNm5cHp6HlCuPqeW1T+sIOh/xbZO7f9lLmWCnwzhIbhZm0P5/76IygJQ2SSI3GkVTu52Is4OBtPmBKij81/4BONmrVrKYQiIykhdpbYAmxWrXotfLXcraBbNjCi5dgO5IIb889uInDsf4qN3Bu4GEb0m4NJe8IV8SbUL9+ULKaugJbU2Uu2gty72OEElrnc9Cqof/fj3CMQgh9Qj58h4tGWhv2HmiXsKabM7+s+8CuSCb3oCSO9DnnkTqZxRC4aTcofWG+heZjyoh1p+ZAQry6JZmapq6SY3efT5i0X9o+Kc1Jk9xIK+0VhuDfUrtC8TqmG5aN6d+kYc57yM8OOxK7fb7Gc8YXzfm3pkHLvoBZ7ZShVqlvUSgO3Vg5YhveiB5E4IbmrVxoOLt7YhHrxvCtwXRCxsSODKByxxuO1nSqHiyFohQ44qpwwvCWnq+fwjfkwITa12rhqk69woqoA2gUJS4oe3uQRgomHXovH0nJx5P08AYAzZBOMC3FDgaapVdZ+qmt+QNmP/RUyiA==;9SomRg48fSom6NHEJrrs7Q=="
 ---
 

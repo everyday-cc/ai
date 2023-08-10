@@ -33,7 +33,7 @@ related:
     provider:
       name: Financial IT
       domain: financialit.net
-    quality: 39
+    quality: 41
     images:
       - url: "https://financialit.net/sites/default/files/1_c_fib-ygbnml6nntygbmhq.jpg"
         width: 1200

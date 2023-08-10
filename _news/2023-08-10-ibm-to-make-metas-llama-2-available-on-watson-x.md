@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "IBM deepens AI relationship with Meta, plans to add its model to Watson studio"
+    excerpt: "IBM continues to expand its relationship with Meta on the frontier of artificial intelligence. Here's what's happening."
+    publishedDateTime: 2023-08-10T15:32:00Z
+    webUrl: "https://wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/"
+    ampWebUrl: "https://wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 70
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/05/artificial-intelligence-5-5-23-e1683284669461.jpg"
+        width: 948
+        height: 532
+        isCached: true
   - title: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses"
     excerpt: "(Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language program on its own enterprise AI platform, watsonx. IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients."
     publishedDateTime: 2023-08-09T12:10:00Z

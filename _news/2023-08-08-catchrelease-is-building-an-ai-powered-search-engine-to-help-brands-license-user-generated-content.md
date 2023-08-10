@@ -63,6 +63,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Clarivate Launches Enhanced Search Powered by Generative Artificial Intelligence"
+    excerpt: "Clarivate Plc, a global leader in connecting people and organizations to intelligence they can trust to transform their world,"
+    publishedDateTime: 2023-08-10T12:50:00Z
+    webUrl: "https://www.datanami.com/this-just-in/clarivate-launches-enhanced-search-powered-by-generative-artificial-intelligence/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 14
 
 secured: "8wQK1l3d/zpXSLYp73spTRYxB78unZqSorHCTHIIXmRhNF4PenrEa/Cod3zWH1qtj9N03pdi4LGc8SDS0UPZ0YGf5GChXDj2meWOvCSVogzHAbtGEVf4Vu9Wv7GMVVokQR61Cv3TWt9n5Jqvc2s4lyvdXRBYyImBZtqUhO8gHz8zE+kIpGIkJ7Q88dTQgfxofZD3ahwTf4HcP7VU3od3LD9YtmW8OrC5c9w16bzA4Eu0sIjfY2JwEK/HEB6qWDdQdBHYljs67VYvMItE0uPnuPw62YEGWrxLmEC75zZ5kifTpA2Ez8vtFQzfCy2oAvCxMz9OrnP9GBGRAqApL7XdarWMQh+63hSr8BZRDHhiykE=;TiUxp/BzPQ6dH+9HjWg9uA=="
 ---

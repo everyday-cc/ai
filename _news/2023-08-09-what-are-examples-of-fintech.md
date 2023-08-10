@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Fintech groups and banks linking up for new payment partnerships"
-    excerpt: "Vietnam’s payment fintech landscape is witnessing a surge in partnerships between foreign giants like Apple Pay and local banks, while local payment apps are teaming up with international firms, signalling promising growth prospects for the digital payment sector."
-    publishedDateTime: 2023-08-07T08:17:00Z
-    webUrl: "https://vir.com.vn/fintech-groups-and-banks-linking-up-for-new-payment-partnerships-104151.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 39
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/2023/082023/07/15/in_social/fintech-groups-and-banks-linking-up-for-new-payment-partnerships-20230807150649.jpg?randTime=1691402506"
-        width: 600
-        height: 385
-        isCached: true
   - title: "Top 10 open banking platform providers in fintech 2023"
     excerpt: "These are some of the most influential companies creating technology solutions and APIs to help power the open banking revolution evident in fintech today"
     publishedDateTime: 2023-08-08T15:21:00Z
@@ -80,34 +66,6 @@ related:
       - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/08/H1-2023s-Biggest-Fintech-Acquisition-Deals.png?x30842"
         width: 1024
         height: 567
-        isCached: true
-  - title: "Why FinTech Companies Are Increasingly Relying on IT and How"
-    excerpt: "In the last few years, the fintech sector has been going through a tremendous transformation due to the advancements in the IT industry. The fintech companies have entered the financial industry landscape with innovative solutions that revolutionize traditional banking and financial services."
-    publishedDateTime: 2023-08-08T06:35:00Z
-    webUrl: "https://techbullion.com/why-fintech-companies-are-increasingly-relying-on-it-and-how/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/FinTech-Companies-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "The Rise, And Rise, Of Fintech Fraud."
-    excerpt: "The Rise, And Rise, Of Fintech Fraud. Legal News and Analysis - Asia Pacific, China, Hong Kong, India, Singapore, United Kingdom - Cybersecurity, Telecommunications, Media & Technology -"
-    publishedDateTime: 2023-08-09T14:04:00Z
-    webUrl: "https://conventuslaw.com/report/the-rise-and-rise-of-fintech-fraud/"
-    type: article
-    provider:
-      name: Conventus Law
-      domain: conventuslaw.com
-    quality: 24
-    images:
-      - url: "https://conventuslaw.com/wp-content/uploads/2022/03/Untitled-design-36.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Hong Kong tech firm, ASL, accelerates growth in fintech arena with Finastra"
     excerpt: "HONG KONG, Aug. 8, 2023 /PRNewswire/ -- Automated Systems Holdings Limited (ASL) (771.HK), a leading global IT solutions and services provider, has strategically partnered with Finastra, a global provider of financial software applications and marketplaces, to bolster its industry-specific DevSecOps business and strengthen its fintech trajectory."

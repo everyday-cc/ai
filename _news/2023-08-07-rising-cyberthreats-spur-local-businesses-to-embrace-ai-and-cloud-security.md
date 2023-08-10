@@ -58,6 +58,22 @@ related:
         width: 772
         height: 434
         isCached: true
+  - title: "Human-plus-AI solutions mitigate security threats"
+    excerpt: "With the right human oversight, emerging technologies like artificial intelligence can help keep business and customer data secure"
+    publishedDateTime: 2023-08-10T14:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/08/10/1077088/human-plus-ai-solutions-mitigate-security-threats/"
+    ampWebUrl: "https://www.technologyreview.com/2023/08/10/1077088/human-plus-ai-solutions-mitigate-security-threats/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/10/1077088/human-plus-ai-solutions-mitigate-security-threats/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/TeleperformanceCov_16-9Ratio.png?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "Top cybersecurity products at Black Hat USA 2023"
     excerpt: "Here are the top cybersecurity tools, platforms, capabilities, services, and technologies launched at Black Hat USA 2023 that you need to know about."
     publishedDateTime: 2023-08-09T23:15:00Z

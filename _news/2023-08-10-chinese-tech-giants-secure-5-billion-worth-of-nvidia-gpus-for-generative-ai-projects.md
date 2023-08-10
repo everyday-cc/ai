@@ -161,6 +161,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Nvidia’s AI power on full display at SIGGRAPH 2023"
+    excerpt: "Nvidia is the main beneficiary of this year's AI hype. During SIGGRAPH in Los Angeles, the GPU manufacturer revealed that it is only beefing up its"
+    publishedDateTime: 2023-08-10T13:20:00Z
+    webUrl: "https://www.techzine.eu/news/devices/109924/nvidias-ai-power-on-full-display-at-siggraph-2023/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/nvidia-grace-hopper-superchip.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
     excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
     publishedDateTime: 2023-08-08T16:51:00Z

@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Weights & Biases raises USD 50M for AI development tooling startup"
+    excerpt: "Weights & Biases Inc., a startup that works with OpenAI LP and Nvidia Corp. to build AI models more quickly, announced that it has raised USD 50 million in funding."
+    publishedDateTime: 2023-08-10T15:05:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/weights-biases-raises-usd-50m-for-ai-development-tooling-startup/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/weights-biases-raises-usd-50m-for-ai-development-tooling-startup/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/weights-biases-raises-usd-50m-for-ai-development-tooling-startup/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Weights-Biases-raises-USD-50M-for-AI-development-tooling-startup.jpg"
+        width: 1500
+        height: 844
+        isCached: true
 
 secured: "27TOylZGFT1MiAaLiGq6uB1jXBupA2uAvcC7r4bYwvkBmdvhdh6GI5EAYWIa/b4gOeCxXLi59nqqZwUu6PXo2cozEn081vlf+cnFtq+YQjIQErPDA+rsMTysgHr79M1cHKH3ub+ESMg0Xcz5k2OuVZrpetQ6h+0y85vaGb1GkXCOAtiOqw2m5jFwkfpuEmok+wFy3d0CqbPVFpNQ9OyVc06Hn1qG4Sxg0PGYxtPQChaiWSiQLE4fgeSVAe52MwTx88cwSk5F207z8qLtLhGH6COIakfg/A358oPiw9nhP5I9/DVjXl4t6ndNRIstBcwXUibm2qyz+YzuE8rg9lRqGVijUCG2EAW8BJJXagkuNZ7YBAPEEurYa2f9pddVkBTH5nmCjFMdebSdxSlsIBvsEH9Md5JD1O1msdPH6a4x73aW04fTGxnWV6A4cxjMyYTKT5tGefaZUIcilytPi+ahbNOVJNZz0a81K6o1Wsnzkf5wUuTuctBlAAYg1J46d+HwtRE7axaRHYWT222u1lywXg==;sDEM0xmFIs27KEsRzuMioQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mystateline.com/news/local-news/rockford-schools-enterin
 cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/local-news/rockford-schools-entering-uncharted-territory-artificial-intelligence/amp/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1280
     height: 853
     isCached: true
+
+related:
+  - title: "CHART: AI stocks enter correction territory"
+    excerpt: "AI hype drove huge gains among some tech stocks in the first half of 2023. Lately, that has gone into reverse."
+    publishedDateTime: 2023-08-10T15:19:00Z
+    webUrl: "https://www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/64d434014dd2b50019c27314?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "usMYzImOL4qfJJcxrjB+Ja2yj/EoSVuKMoT5TfiRBVeUsiqr+MoOLKCb6hg203h+hUI5ZkpJ7HH20SXk+IOWHi5IDhaUEm1wpOxOTdTGWtmGGBpaFbBGVO/p+HEc4yR7fJAsPNK4kYd8Wbrr7sIQDfaMo+aH2w0pK9U5HkJuomqRMNzWeRHjXSjZ+TeHiuTTYjLBixC3FTmyiHqAZ+LFmRD8zMloReXiGgIu50q58RZhyH5q5a7YjG6a5E8p0e4aveucPjwBLGbwHY8TALrW9VHzNwKTLcJq0RP7R5xhbzl7HA3K+EN36IamwMYOaUI63I5eAe98OTJsBWYhYLinnFhoeGFmbC/0b5yvZUDSEuY=;ya0ZjS/MaEENsWp3Af1hNA=="
 ---

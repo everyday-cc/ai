@@ -24,6 +24,17 @@ images:
     height: 633
     isCached: true
 
+related:
+  - title: "Dentons Head of Innovation on Why and How the Firm Built Its Own Gen AI Chatbot"
+    excerpt: "Legaltech News caught up with Joe Cohen, UKIME head of innovation at Dentons to discuss fleetAI, the firm’s newly released proprietary version of ChatGPT."
+    publishedDateTime: 2023-08-07T19:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/07/dentons-head-of-innovation-on-why-and-how-the-firms-built-its-own-gen-ai-chatbot/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 15
+
 secured: "CB8fBYcGNhvJIX+T+B1K1nAUg/eZkl8ur/PMO6LiLT7q3c8vNp/SuCP79Yt0L4RO8VplQqzLWLP427/VDPitcPUpq9/EtM6f/1dRmpbMhUzIBinGSaVT0enpFw/HJxpVOtCov7tpTDCZywuk36BIfjHeFRs/u8aObGp/PPZv9Et1v/p1CDf5owd+WMb1P+5A/zDL/3SyO+H8MkRYu5BQP/GP7Zjzsxt2P4oCUtH5iE+6uAZnOfoS4s2oV05GLIANPIg/vRu6inccsO/AfcwNF7NqFtiC4FU/9qrepLlozrHXcrIICosSS8x3Gy+1jNILBkrLdlm/936I3YL32gxRS2gmC/pelCkW2sPzwaDUpbYJPlJQurk4nUJc3N2OgjCuECbVQYG0dbZ8w0wf0mahaH+bN5w1oJ8sWUCY4t9HmG8i9A3qYUTBgVyVm9O/DGQSirCO1Z9AzIWlK38tj9FnsGJFm47pBmwlNwT2rEFYT7QZ7CPG8KA1UkqD1zuivVeyDOLLnPlu1C+3/D2tPgtljQ==;JLtetrvk95ZORTrhrM+ciQ=="
 ---
 

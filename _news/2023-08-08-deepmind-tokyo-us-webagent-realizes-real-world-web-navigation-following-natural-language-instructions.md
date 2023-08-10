@@ -26,6 +26,24 @@ images:
     height: 320
     isCached: true
 
+related:
+  - title: "Open-Source Large Autoregressive Vision-Language Models: Institutions Join Forces to Replicate DeepMind’s Flamingo Models"
+    excerpt: "Autoregressive vision language models, such as Flamingo, Kosmos-1 and multimodal GPT-4, shows great potential for completing various vision-language tasks as well as having strong generalization capability."
+    publishedDateTime: 2023-08-10T15:14:00Z
+    webUrl: "https://syncedreview.com/2023/08/10/open-source-large-autoregressive-vision-language-models-institutions-join-forces-to-replicate-deepminds-flamingo-models/"
+    ampWebUrl: "https://syncedreview.com/2023/08/10/open-source-large-autoregressive-vision-language-models-institutions-join-forces-to-replicate-deepminds-flamingo-models/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/08/10/open-source-large-autoregressive-vision-language-models-institutions-join-forces-to-replicate-deepminds-flamingo-models/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 34
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2023/08/image-23.png?fit=950%2C631&ssl=1"
+        width: 950
+        height: 631
+        isCached: true
+
 secured: "ShyVCzoW7vfH1LqBQYHH3nhiswTkL//VDQmi4A653hnmZ5TQjgsyLrMWItHoKJdLRbWFoW0jA8pFZNG/gSakhyxJwtykb4PayVQIwsQ4MBMS6eAUPfPeikX3aR/B0uDKXFkjMq3FKuWrVkBEYH9yJXbAVyvAIABogcl9j4mFYL75U1NEdof2tnCMXMjIOTZYjlN/UpcTHsBZaxKDsmLEXeLtdFCZNlVtGMWpq7KUvCy6p6x9HMHR+klMjMyQHA6AbD2wfozB7mnVvQAByo6DuXTGPW8YJNDX/6u1xCO7vhKcbL63p//yVMJEC4Jh64UdiWISLx6jL+Nbd88Z9gL94ywVobshWKl8jwUbQhayFeeXPiwwWX0Uj/K3mcmz9JnW9/WG5TyBWBhjQpBpfByVvL5S5/8jENq6YgJhTRwXmjBy0vhLTF932XfZo6qihebjHL1cQLIy64ac+eoA+5eP/lJT9ueaYDZ+syqkkgXIfj7Vb2c+uOGt2HwkGGsx9RYtFwGdT38pIvg6CBJOkfEjgQ==;36sNSRLeCzURmYhqdlNs0A=="
 ---
 

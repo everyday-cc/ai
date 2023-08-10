@@ -163,19 +163,19 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "4 ways generative AI makes founders more interesting to journalists"
-    excerpt: "Gutted newsrooms could stymie one of the greatest engines of startup growth. While generative AI will enhance the capabilities of many publications, they’re also creeping onto news sites in ways we can’t foresee while journalists are laid off."
-    publishedDateTime: 2023-08-05T21:29:00Z
-    webUrl: "https://techcrunch.com/2023/08/05/4-ways-generative-ai-makes-founders-more-interesting-to-journalists/"
+  - title: "Build a centralized monitoring and reporting solution for Amazon SageMaker using Amazon CloudWatch"
+    excerpt: "In this post, we present a cross-account observability dashboard that provides a centralized view for monitoring SageMaker user activities and resources across multiple accounts. It allows the end-users and cloud management team to efficiently monitor what ML workloads are running, view the status of"
+    publishedDateTime: 2023-08-10T14:48:27Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-centralized-monitoring-and-reporting-solution-for-amazon-sagemaker-using-amazon-cloudwatch/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
+      name: AWS
+      domain: aws.amazon.com
+    quality: 75
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1249090879.jpg?resize=1200,750"
-        width: 1200
-        height: 750
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/28/ML-13521-dashboard-1260x578.png"
+        width: 1260
+        height: 578
         isCached: true
   - title: "Don’t quit your day job: Generative AI and the end of programming"
     excerpt: "AI is something to be learned, tested and incorporated into practices so programmers can focus on understanding and solving problems."
@@ -190,6 +190,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_the_end_of_programming._colorful_futuristic_tech_3d6db463-375e-4d84-9324-2b045c20313a.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Gboard could soon let you use generative AI for proofreading and emojis"
+    excerpt: "The latest Gboard beta uses generative AI for features such as proofreading, creating emoji stickers, and tone suggestions. Read on for more!"
+    publishedDateTime: 2023-08-10T14:13:00Z
+    webUrl: "https://www.androidauthority.com/gboard-beta-generative-ai-proofreading-emojis-3354114/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/07/Gboard-on-Nothing-Phone-2-1200w-675h.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Elsevier wades into generative AI - cautiously"
     excerpt: "Scientific giant Elsevier is cautiously adding generative AI capabilities to its Scopus abstract and citation database. And it jumpstarted the process by leveraging the ChatGPT engine."
@@ -221,6 +235,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Legions of DEF CON hackers will attack generative AI models"
+    excerpt: "At the 31st annual DEF CON this weekend, thousands of hackers will join the largest red teaming exercise ever for a group of AI models."
+    publishedDateTime: 2023-08-10T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/legions-of-defcon-hackers-will-attack-generative-ai-models/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 51
   - title: "Using Generative AI To Connect Lab To Fab Test"
     excerpt: "Executive Insight: Thomas Benjamin, CTO at National Instruments, sat down with Semiconductor Engineering to discuss a new way of look at test, using data as a starting point and generative AI as bridge between different capabilities."
     publishedDateTime: 2023-08-08T07:05:00Z
@@ -259,6 +282,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1409790611_533074_ibbtwm.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "This Audio Startup Is Using AI To Generate ‘Contextual CTV Ads’"
+    excerpt: "Call it the lovechild of dynamic creative optimization and contextual advertising. On Thursday, audio marketing platform Instreamatic released a product for connected TV that generates multiple audio"
+    publishedDateTime: 2023-08-10T14:00:00Z
+    webUrl: "https://www.adexchanger.com/digital-tv/this-audio-startup-is-using-ai-to-generate-contextual-ctv-ads/"
+    type: article
+    provider:
+      name: adexchanger
+      domain: adexchanger.com
+    quality: 37
+    images:
+      - url: "https://www.adexchanger.com/wp-content/uploads/2023/08/little-green-seedling-shoot-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Nvidia unveils new chip for accelerated computing, generative AI"
     excerpt: "Chip maker Nvidia has unveiled a new AI chip built for accelerated computing and to handle the world’s most complex generative AI"

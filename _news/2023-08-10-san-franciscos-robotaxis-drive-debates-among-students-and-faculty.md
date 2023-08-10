@@ -71,20 +71,6 @@ related:
       domain: axios.com
     quality: 17
   - title: "Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan"
-    excerpt: "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar."
-    publishedDateTime: 2023-08-05T21:22:00Z
-    webUrl: "https://www.expressnews.com/business/article/recalling-a-wild-ride-with-a-robotaxi-named-18280771.php"
-    type: article
-    provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
-    quality: 10
-    images:
-      - url: "https://s.hdnux.com/photos/01/33/76/42/24111294/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan"
     excerpt: "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked me up"
     publishedDateTime: 2023-08-07T13:35:00Z
     webUrl: "https://thebusinessjournal.com/recalling-a-wild-ride-with-a-robotaxi-named-peaches-as-regulators-mull-san-francisco-expansion-plan/"

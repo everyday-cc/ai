@@ -39,7 +39,23 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "A novel motion-capture system with robotic marker that could enhance human-robot interactions"
+    excerpt: "Motion capture (mocap) systems, technologies that can detect and record the movements of humans, animals and objects, are widely used in various settings. For instance, they have been used to shoot movies,"
+    publishedDateTime: 2023-08-10T13:40:00Z
+    webUrl: "https://techxplore.com/news/2023-08-motion-capture-robotic-marker-human-robot-interactions.html"
+    ampWebUrl: "https://techxplore.com/news/2023-08-motion-capture-robotic-marker-human-robot-interactions.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-motion-capture-robotic-marker-human-robot-interactions.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 48
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/a-novel-motion-capture.jpg"
+        width: 2145
+        height: 1686
+        isCached: true
 
-secured: "NEdaG+zg0MhyE3KdVIqe5Roafw3FGu4ZNaCY4mDl+MQyRxENrAE4T4yBJoqSmiClFug97OumB0jcVvh0IlQ6MpjcgfYbGLyWy9DOlpL90vlYRwbxJ/kjTW5f/J/q3VnZxjTtgWuvxhld5LxXrMLfh2pGOgukKmqM9QYTneUXDWNfYn3qKkmTS5LUdZLk8l3AH6+zAapCRwQBDgXvo3KaKu+Pdn1RtSFsn60JW+3v3hIjfmazoYOj93cI/2y1UPMPgcWbp2ngCrhner2uv9sW8gRP3q067a1zBnr7fwAYRHGTMBE6SCyhDb3FlLckMhScQrWceZFSbsYvCR/rUpPeBNFMItE0y/H8LAURamAmtWY=;iK3YD4/g9OT+djyD6HIxww=="
+secured: "w18doEoYvjzXARCOx8hTFicBuQ08UQEykEZvKYpDBI5nuQc7estEnEUwHjCxJzd+RiO1cR7A7d/GL2tRjDLbDPgYuizSj/HA14beigEVP92of3ERHDM//077mYr9Cx51YlOcDTMjSWmvJlTOxjb6Aeui5DVCHcPrIMPmgi2pdH7T3C2lAObJ1dvtS+Bq1ASUjqCBkCSaCfFTjEMkLLUAB0CA/U+Hd1fvNas+mHLN5uYGrr/VHVYfvaDkZG+juGqTyt/MtOPKhh0xMsMU0PiJgkJpnjfbyzbVILzWII0S8apfbI5w9YW2ZQ/HEjTxBJj+PiwggoO2Au7zGC+U8Qbjim4QJxgB3AiJvlhzlw20aUQqnU1E2hMF+m6g+aUHefxWaKEJJWDuh9GSZsuRa7vuQkzuKRxPqz+fX3oTX/s7Qnlt4zEs0qQ2K50G5B8OZhi2lpdEdXDqD5ewZuF/BK96jZt7QYhvsi0l3LZPGuVt0HVwWDkAQ/jlxfOaAwsK4jGQjFl1pADkAvyEKluNgHV6DA==;GyTffnVv1zEHGfPa1ibgaA=="
 ---
 

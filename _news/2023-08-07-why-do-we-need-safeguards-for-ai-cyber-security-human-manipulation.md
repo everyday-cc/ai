@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Human-plus-AI solutions mitigate security threats"
+    excerpt: "With the right human oversight, emerging technologies like artificial intelligence can help keep business and customer data secure"
+    publishedDateTime: 2023-08-10T14:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/08/10/1077088/human-plus-ai-solutions-mitigate-security-threats/"
+    ampWebUrl: "https://www.technologyreview.com/2023/08/10/1077088/human-plus-ai-solutions-mitigate-security-threats/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/10/1077088/human-plus-ai-solutions-mitigate-security-threats/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/TeleperformanceCov_16-9Ratio.png?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "Rising Cyberthreats Spur Local Businesses to Embrace AI and Cloud Security"
     excerpt: "With the cybersecurity landscape continually evolving, it is more important than ever for local businesses to keep pace with the changes. The increasing prevalence of threats like phishing, business email compromise (BEC),"
     publishedDateTime: 2023-08-07T09:25:00Z

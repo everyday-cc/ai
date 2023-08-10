@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technolog
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
 type: article
 quality: 86
-heat: 226
+heat: 236
 published: true
 
 provider:
@@ -164,6 +164,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4a0ea36e-3f4d-49e4-b13d-11aaad667f80/cb5c08c3-1d34-43c3-9f86-c589b7c36c77/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Nvidia’s AI power on full display at SIGGRAPH 2023"
+    excerpt: "Nvidia is the main beneficiary of this year's AI hype. During SIGGRAPH in Los Angeles, the GPU manufacturer revealed that it is only beefing up its"
+    publishedDateTime: 2023-08-10T13:20:00Z
+    webUrl: "https://www.techzine.eu/news/devices/109924/nvidias-ai-power-on-full-display-at-siggraph-2023/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/nvidia-grace-hopper-superchip.jpg"
+        width: 960
+        height: 540
         isCached: true
   - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
     excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
