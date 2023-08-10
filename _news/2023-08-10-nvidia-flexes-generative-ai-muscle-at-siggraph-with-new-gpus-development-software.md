@@ -101,20 +101,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "China's internet giants order US$5 billion of Nvidia chips to power AI ambitions - FT"
-    excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth US$5 billion, the Financial Times reported on Wednesday."
-    publishedDateTime: 2023-08-09T20:23:00Z
-    webUrl: "https://www.todayonline.com/world/chinas-internet-giants-order-us5-billion-nvidia-chips-power-ai-ambitions-ft-2229816"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 47
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--HhRlabCc--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:tdy:watermark:2021-10:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2023-08-09t202356z_1_lynxmpej780ol_rtroptp_3_nvidia-foxconn.jpg?itok=GCzzYiAW"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Nvidia announces updated GH200 Grace Hopper GPU with HBM3e memory for generative AI workloads"
     excerpt: "Nvidia has announced an updated version of its GH200 'superchip,' which will be the first GPU in the world to include HBM3e memory."
     publishedDateTime: 2023-08-09T15:26:00Z
@@ -144,6 +130,22 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "AI powerhouse Nvidia releases toolkit that allows developers to quickly create, test generative models"
+    excerpt: "Nvidia on Tuesday announced the AI Workbench, a new toolkit that will helps developers to more quickly create, test, and customize generative AI models."
+    publishedDateTime: 2023-08-10T01:48:00Z
+    webUrl: "https://www.foxbusiness.com/fox-news-tech/ai-powerhouse-nvidia-releases-toolkit-allows-developers-quickly-create-test-generative-models"
+    ampWebUrl: "https://www.foxbusiness.com/fox-news-tech/ai-powerhouse-nvidia-releases-toolkit-allows-developers-quickly-create-test-generative-models.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/fox-news-tech/ai-powerhouse-nvidia-releases-toolkit-allows-developers-quickly-create-test-generative-models.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 41
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4a0ea36e-3f4d-49e4-b13d-11aaad667f80/cb5c08c3-1d34-43c3-9f86-c589b7c36c77/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
     excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."

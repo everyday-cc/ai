@@ -97,57 +97,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-10-is-ai-a-threat-to-the-world-of-fabric-design.md",
-      "title": "Is AI a threat to the world of fabric design?",
-      "excerpt": "Carl Fisher says that currently there is no copyright infringement regarding AI-made designs based on existing human-made ones, as long as you have requested something \"in the style of\". He adds that this enables people to be \"much more free about design and style\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-66437928",
-      "originalUrl": "https://www.bbc.com/news/business-66437928",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1488E/production/_130701148_index_textile_design_ai_2x976-nc.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-66437928.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66437928.amp",
-      "publishedDateTime": "2023-08-09T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-10-cybersecurity-in-the-age-of-ai.md",
       "title": "Cybersecurity In The Age Of AI",
       "excerpt": "Artificial intelligence (AI) is certainly not a new concept, but with the public launch of ChatGPT and the rise of generative AI models, it has take on new, dizzying momentum. AI is transforming the world of cybersecurity and evolving the threat landscape at a remarkable pace.",
@@ -299,6 +248,101 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-messina-joins-ride-home-funds-new-15m-ai-vehicle-backed-by-andreessen-dixon-crowley.md",
+      "title": "Messina joins Ride Home Fund’s new $15M AI vehicle, backed by Andreessen, Dixon, Crowley",
+      "excerpt": "Messina, formerly of Google, Uber, and a previous AI startup founder, is also famed as being the the inventor of the hashtag. Handily, he is also the number 1 product hunter on Product Hunt, which renders his ability to boost products fairly unique.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/09/messina-joins-ride-home-funds-new-15m-ai-vehicle-backed-by-andreessen-dixon-crowley/",
+      "originalUrl": "https://techcrunch.com/2023/08/09/messina-joins-ride-home-funds-new-15m-ai-vehicle-backed-by-andreessen-dixon-crowley/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/CITIZENAGENCY_025.jpeg?resize=1200,840",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/09/messina-joins-ride-home-funds-new-15m-ai-vehicle-backed-by-andreessen-dixon-crowley/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/09/messina-joins-ride-home-funds-new-15m-ai-vehicle-backed-by-andreessen-dixon-crowley/amp/",
+      "publishedDateTime": "2023-08-09T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-stem-cell-therapy-rescues-symptoms-of-alzheimers-disease.md",
+      "title": "Stem cell therapy rescues symptoms of Alzheimer's disease",
+      "excerpt": "In the ongoing search for a cure for Alzheimer's disease, a burgeoning branch of medicine is bringing new hope. Stem cell therapies are already being used to treat various cancers and disorders of the blood and immune system.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-08-stem-cell-therapy-symptoms-alzheimer.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-08-stem-cell-therapy-symptoms-alzheimer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/stem-cell-therapy-resc.jpg",
+          "width": 1280,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-08-stem-cell-therapy-symptoms-alzheimer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-stem-cell-therapy-symptoms-alzheimer.amp",
+      "publishedDateTime": "2023-08-09T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -523,57 +567,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-white-house-launches-ai-cyber-challenge-to-test-how-top-ai-models-protect-software.md",
-      "title": "White House launches AI Cyber Challenge to test how top AI models protect software",
-      "excerpt": "Today the Biden-Harris Administration launched a two-year competition that uses AI to protect the U.S.'s most critical software.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/white-house-launches-ai-cyber-challenge-to-test-how-top-ai-models-protect-software/",
-      "originalUrl": "https://venturebeat.com/ai/white-house-launches-ai-cyber-challenge-to-test-how-top-ai-models-protect-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_white_house_surrounded_by_circuitry_and_glowing_digital_f3369856-d88a-470c-9439-40a8818dee7a-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

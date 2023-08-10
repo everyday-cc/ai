@@ -1,36 +1,31 @@
 ---
 category: news
 title: "Invest Inc. Announces Reg A+ Offering: A New Era in Fintech Begins"
-excerpt: "The future of fintech has a new face, and its name is Invest Inc. With great enthusiasm, we are proud to announce our Reg A+ offering, a transformative step that underscores our commitment to democratizing premium financial market information and technologies."
-publishedDateTime: 2023-08-09T17:44:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/08/09/9862129.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/08/09/9862129.htm"
+excerpt: "The future of fintech has a new face, and its name is Invest Inc. With great enthusiasm, we are proud to announce our Reg A+ offering, a transformative step that underscores our commitment to democrat"
+publishedDateTime: 2023-08-09T17:38:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/b33674049/invest-inc-announces-reg-a-offering-a-new-era-in-fintech-begins"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/b33674049/invest-inc-announces-reg-a-offering-a-new-era-in-fintech-begins"
+ampWebUrl: "https://www.benzinga.com/amp/content/33674049"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33674049"
 type: article
-quality: 4
-heat: 4
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Back-Office Outsourcing Philippines: Cynergy BPO — Propelling Fintech Innovation with Advanced Tech & Superior CX"
-    excerpt: "The dawn of financial technology, or fintech, has ignited a revolutionary transformation in financial services, redefining interactions, service delivery, and customer experience (CX). Amidst this technological tidal wave,"
-    publishedDateTime: 2023-08-07T04:51:00Z
-    webUrl: "https://www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/"
-    ampWebUrl: "https://www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 3
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
-secured: "NA6MpPQwQMkioL8ulABGpadEJGPuwgYSs29si5oY8JQTAsD6zT1eMMkQym38ho0+9zgtZIVY7uXNsffBciB0tOtzdDCW5MS+uYVYc9xbWdA1JMMpp5T3iR3Nx0YRu0avvAoWCL+kE2eg8dOJYDvrVsSPA5xKneZR2NC4wdE9ejZJjzwetbw9mQxqIWPbdGA47QfCgwSwT432aRi8HMkJDg8jbeq4nHoiVdrGWg4NCWtpgXvwSU7T0sC5EMC8qztjt796T2LCqdpRq39wO006VtWUFFLhDVYOFzpmfLrKGDqdMrKIALSzq81W6IajhHFX87HfGOpKUTy+kSLMi9AxXJf8prCJcP9Csc2h08KZ57o=;WzsvbaGFryNn5HQoaUawMQ=="
+secured: "QUry6J/X0fJDSozy3SF+OWWE2CHfKY+HFK39Df2M0Ugs7SXew3MLsc5VwN0AmHy7rOprvO30L52ZULoILOpYp3MAOaRwgoeHGYBxm1eE10kmCPOisPOW5OnGw4IUBSsU7/Hwy1Rfw8vHNGX7XUCbk0s/YCagpAYxeHqDaeRyhazcMgb4/6xhn2zazGI/YrjYlFjXKM36uAasdLifIaSzymrUznPLFODg6Fn9WLcws8xi5aQCmsprYFeytCVqxW7DsQ/QTcRsfY4TLhJ3zoDojKoV6ZI4zrAJ6Wz0YuubI0TGaTx0uwmv3/P4SNIydMAoNe1mMYAKl1guAr91+qlV/3ckpjcHyYPpwUXHISL8syE=;/1gOQM/Pu+yKlsr0WolBMQ=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Gunderson Launches Homegrown Generative AI App to Accelerate Subject-Matter Expertise"
 excerpt: "We view this tool as an accelerant for subject matter expertise,” said Gunderson chief innovation officer Joe Green. “It’s not going to produce anything that is done and dusted and ready to go. But it will help attorneys do their jobs better."
 publishedDateTime: 2023-08-09T22:09:00Z
-originalUrl: "https://www.law.com/americanlawyer/2023/08/09/gunderson-launches-homegrown-generative-ai-app-to-accelerate-subject-matter-expertise/"
-webUrl: "https://www.law.com/americanlawyer/2023/08/09/gunderson-launches-homegrown-generative-ai-app-to-accelerate-subject-matter-expertise/"
+originalUrl: "https://www.law.com/therecorder/2023/08/09/gunderson-launches-homegrown-generative-ai-app-to-accelerate-subject-matter-expertise/"
+webUrl: "https://www.law.com/therecorder/2023/08/09/gunderson-launches-homegrown-generative-ai-app-to-accelerate-subject-matter-expertise/"
 type: article
 quality: 32
 heat: -1
@@ -327,6 +327,6 @@ related:
       domain: theguardian.com
     quality: 14
 
-secured: "X8IRmt/jhjLUpjNWrjTDAliKbCH7mG6KNxT2Ve4hEvg/pcIIE3RrVbyu5inAJXmknFCnL4UTkeFA0r6I0KjguvibU1wbetVVS9plcBc+znuhS6nk2RABiPV/4/lmTTDpbweP5N3qJDM4PRr8Qr2twrDis396NiUeFhtu3D4p5q9Seqh58NRp88bU1JnHiCMq5in3jiGhgPl3YlW3EiQ2DrZAFCSUEY98JoLz32jl7KUDHIgnFKA09TE55BUrz8qxH2ztHJnnk5QV/JKrFbpzEK4KOJ0YN7I2NvnZpiPVoe6VNw/ydFfXyz8YnF6AoUkp4Yju7jz3+md1dujr/9Blre5bwnxbeJpuOCnpqnyUNZ0=;SUd3plsHs5LfovlxQ2S8xQ=="
+secured: "SguKM1YjqJbTIAyhiWfjfyQdD6tCH88YfALJAGvExrEaP4t5DrdThQ0nuHqRiH7RbDUPJCS6emvQrQSS89IwcvvId4+yfdM+wtLJFUVpA35bRfoTGXHh/5jrWVEew99/jDsdVIu+wG++KeDUhU0ebWinamZnZC3tVgDLlmYT9YzpwZKAMj5Hg9kS/mrV+rv2GrHNxN6gk3zuniA30vxtkXU1w6xlAtqahFn/Piz0nv+lizETdQXUl21OqOCFLzUk0W/lsId8u8DFaX+1YKkIVNL/ADfDbllylMNEvWY1qMNV0AZT+2LfdQlUsvtARtn6Oq3F1K4OdWf4wlCy+u6nVL7Y6HdkpZti3eFQfanRYA0=;OJ2eiYDlk73E3ZWa4oXLyA=="
 ---
 

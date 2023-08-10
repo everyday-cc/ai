@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Zoom Is Using You to Train AI. So Will Everyone Else"
+    excerpt: "The tech company caught heat for feeding customer data into its machine learning systems — but they are not alone"
+    publishedDateTime: 2023-08-10T00:00:00Z
+    webUrl: "https://www.rollingstone.com/culture/culture-news/zoom-ai-personl-data-1234802844/"
+    ampWebUrl: "https://www.rollingstone.com/culture/culture-news/zoom-ai-personl-data-1234802844/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-news/zoom-ai-personl-data-1234802844/amp/"
+    type: article
+    provider:
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 59
+    images:
+      - url: "https://www.rollingstone.com/wp-content/uploads/2023/08/Zoom-AI.jpg?crop=0px%2C134px%2C1800px%2C1014px&resize=1600%2C900"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Distributed AI technique accelerates picking robot training"
     excerpt: "FLAIROP research project successfully aggregates learned tasks from multiple robots without revealing sensitive training data."
     publishedDateTime: 2023-08-08T00:22:00Z

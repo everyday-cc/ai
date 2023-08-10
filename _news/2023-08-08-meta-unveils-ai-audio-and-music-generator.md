@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Service Robotics - Asia"
-    excerpt: "Value in the AI Service Robotics market is projected to reach US$1.65bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.42%, resulting in a market volume of US$4 ..."
-    publishedDateTime: 2023-08-05T08:36:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/asia"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Abu Dhabi's artificial intelligence university establishes dedicated robotics & computer science ..."
     excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate"
     publishedDateTime: 2023-08-07T17:37:00Z

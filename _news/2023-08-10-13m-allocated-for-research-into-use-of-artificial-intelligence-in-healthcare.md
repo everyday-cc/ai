@@ -1,25 +1,26 @@
 ---
 category: news
 title: "£13m allocated for research into use of artificial intelligence in healthcare"
-excerpt: "he Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare."
-publishedDateTime: 2023-08-09T23:02:00Z
-originalUrl: "https://www.standard.co.uk/news/politics/nhs-michelle-donelan-government-james-cleverly-artificial-intelligence-b1099748.html"
-webUrl: "https://www.standard.co.uk/news/politics/nhs-michelle-donelan-government-james-cleverly-artificial-intelligence-b1099748.html"
+excerpt: "The Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare."
+publishedDateTime: 2023-08-09T21:01:00Z
+originalUrl: "https://www.independent.co.uk/news/uk/politics/nhs-government-steve-barclay-james-cleverly-prime-minister-b2390558.html"
+webUrl: "https://www.independent.co.uk/news/uk/politics/nhs-government-steve-barclay-james-cleverly-prime-minister-b2390558.html"
 type: article
-quality: 51
-heat: 61
+quality: 53
+heat: 63
 published: false
 
 provider:
-  name: London Evening Standard
-  domain: standard.co.uk
+  name: The Independent
+  domain: independent.co.uk
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://static.standard.co.uk/2023/08/10/00/0a48a35067bb751bb5abd6562da587f9Y29udGVudHNlYXJjaGFwaSwxNjkxNjc4NzY3-2.69139511.jpg?width=1200&width=1200&auto=webp&quality=75"
+  - url: "https://static.independent.co.uk/2023/08/10/00/0a48a35067bb751bb5abd6562da587f9Y29udGVudHNlYXJjaGFwaSwxNjkxNjc4NzY3-2.69139511.jpg?quality=75&width=1200&auto=webp"
     width: 1200
     height: 800
     isCached: true
@@ -40,6 +41,6 @@ related:
         height: 719
         isCached: true
 
-secured: "xnJh8ob9Rb17Zwc5x210eHFeuk71YXZI5+bhVFl4ySYnU9/p2apZ92VdrOdL6WogVcUjix4N49FxyyJ9r/PKKP7W7wrqHCzw7IWIf86hRJGBKy1MjoM3hB0L8ry4VAXm/Up0ajgsZPkLhF0makh86vdWMqXl34gc1Q5v0sCqM73fdyjAiAGoB2M2i/2AfANzt9UuMkHlRGjJrg+kh4v+3cs+6n5sJLXr1cDVHPfARFoBfVgRHE9g69B+B41zCfNDh7G2uvbUcH4RhQ8APV/IL8JjW4Ujs42HyIsEHawIV+CPG1WrlLTPWvKD5rW/xCW8w+L0vzq0oaZyWuoz9/z6ROmXArK0vcCXSzvQ7Gv14go=;9FrQAZtFsPwaYTlzgKbMpA=="
+secured: "Lp4kbCh85yyF7bMizdk8GTO1ETiEpKQ11ckCanpLsFQZ0XI434u/jooMnL03SpStGio+W0/2XEvKUHuNiBIpEa1gnN92V426ittQGhPFR8jXAPiBIOWV2jrCctCpMEX7cygZm5TYhPWi6D61RBHJMb4K4XcaRkxDMmxV8JD8mXYF+YM/te8JM1Q1hayrCiIhles7sVK5Aei+t+Vrc0HkERFbkMqbtQJkgJXNeeZxkVp7RS1SIDl+6vh8JLWre4OxtJlVmCrwYsdeB+5oNIHNejwsQF/kAUy4S8NpjEzBcYXcpafon3Nz6inmS8EUhVq8xzKycm62XWTtnco6Rbg/x36wlYejtSzXba8UhY7511c=;vCJlaqIqugz6+6FkzO4sHw=="
 ---
 

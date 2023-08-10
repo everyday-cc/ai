@@ -47,6 +47,20 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 34
+  - title: "San Francisco’s robotaxis drive debates among students and faculty"
+    excerpt: "Stanford students and faculty expressed varying perspectives on autonomous vehicles, with some raising safety concerns. San Francisco city officials vote tomorrow on the expansion of robotaxi pilot programs."
+    publishedDateTime: 2023-08-10T00:51:00Z
+    webUrl: "https://stanforddaily.com/2023/08/09/san-franciscos-robotaxis-drive-debates-among-students-and-faculty/"
+    type: article
+    provider:
+      name: The Stanford Daily
+      domain: stanforddaily.com
+    quality: 24
+    images:
+      - url: "https://stanforddaily.com/wp-content/uploads/2023/01/DALL·E-2023-01-22-11.23.40-robot-school-cinematic-lighting-digital-art.png"
+        width: 1472
+        height: 1024
+        isCached: true
   - title: "Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan"
     excerpt: "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar."
     publishedDateTime: 2023-08-05T21:22:00Z

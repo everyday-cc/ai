@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
 type: article
 quality: 89
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/nvidia-ai-chip-llms.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "China's internet giants order $5 billion of Nvidia chips to power AI ambitions"
+    excerpt: "Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,000 A800 processors from the U.S. chipmaker to be delivered this year, the FT reported, citing multiple people familiar with the matter."
+    publishedDateTime: 2023-08-10T00:58:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 70
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2018/08/nvidiagaminggraphicsgaming-graphics.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions -FT"
     excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday."

@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "£13m allocated for research into use of artificial intelligence in healthcare"
-    excerpt: "he Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare."
-    publishedDateTime: 2023-08-09T23:02:00Z
-    webUrl: "https://www.standard.co.uk/news/politics/nhs-michelle-donelan-government-james-cleverly-artificial-intelligence-b1099748.html"
+    excerpt: "The Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare."
+    publishedDateTime: 2023-08-09T21:01:00Z
+    webUrl: "https://www.independent.co.uk/news/uk/politics/nhs-government-steve-barclay-james-cleverly-prime-minister-b2390558.html"
     type: article
     provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 51
+      name: The Independent
+      domain: independent.co.uk
+    quality: 53
     images:
-      - url: "https://static.standard.co.uk/2023/08/10/00/0a48a35067bb751bb5abd6562da587f9Y29udGVudHNlYXJjaGFwaSwxNjkxNjc4NzY3-2.69139511.jpg?width=1200&width=1200&auto=webp&quality=75"
+      - url: "https://static.independent.co.uk/2023/08/10/00/0a48a35067bb751bb5abd6562da587f9Y29udGVudHNlYXJjaGFwaSwxNjkxNjc4NzY3-2.69139511.jpg?quality=75&width=1200&auto=webp"
         width: 1200
         height: 800
         isCached: true

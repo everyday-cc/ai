@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bworldonline.com/spotlight/2023/08/07/538155/back-office
 cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/?amp"
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -21,15 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "Invest Inc. Announces Reg A+ Offering: A New Era in Fintech Begins"
-    excerpt: "The future of fintech has a new face, and its name is Invest Inc. With great enthusiasm, we are proud to announce our Reg A+ offering, a transformative step that underscores our commitment to democratizing premium financial market information and technologies."
-    publishedDateTime: 2023-08-09T17:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/09/9862129.htm"
+  - title: "Fintech BPO Philippines: Navigating digital revolution in financial landscape"
+    excerpt: "The rise of financial technology (fintech) has disrupted traditional financial sectors, propelling a shift towards digitization, convenience, and enhanced customer"
+    publishedDateTime: 2023-08-09T11:15:00Z
+    webUrl: "https://manilastandard.net/spotlight/314358733/fintech-bpo-philippines-navigating-digital-revolution-in-financial-landscape.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 1
 
 secured: "U8g65uB/ZKRgBjXl0fJOxkjGjcOGw7cTqpDTP5nAJA3S0XSLq2JkgsUjCRl+I27GUACfpZ0ZkOJFy8/qRXdv9gcE0TbKiEE0DNz107ee49Qz5W9507GoWUSGirBiycBNcoO1NbsOASdLTjAjbHLfiZis8ARNtsXOS8ahkS6P2c/ymQMWRXgI6IRND5B60R0bXcqmTAEA2J43b1dFrvTg4Tawa6H+R+YwEJbqAY+TPeV1cq5i/eASwEw/qWryPfYlNQC4/DQ+y8fd2AzCbkjm3GPxgQKkHtz0mcBl1EpDBztcUHxZeU2Gocr914sfp/w/NmnuRX5uvMjrUN9h0nITtPHQorXruFi8SPRamOgwP34=;YANHYYAuQbzuzO3JCe+IoQ=="
 ---

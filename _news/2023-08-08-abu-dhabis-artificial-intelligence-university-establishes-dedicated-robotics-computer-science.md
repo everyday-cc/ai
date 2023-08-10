@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Service Robotics - Asia"
-    excerpt: "Value in the AI Service Robotics market is projected to reach US$1.65bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.42%, resulting in a market volume of US$4 ..."
-    publishedDateTime: 2023-08-05T08:36:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/asia"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "VAST Data Launches its Comprehensive, Robust Data Platform to Support AI and ML Workflows"
     excerpt: "VAST Data, the data platform company for the AI era, is unveiling its data computing platform, engineered to underpin the burgeoning world of AI that rivals the capabilities of other existing data platforms."
     publishedDateTime: 2023-08-09T15:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenation.com/article/world/when-ai-and-robotics-combine
 cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://th-i.thgim.com/public/life-and-style/travel/hthd5l/article67167638.ece/alternates/FREE_1200/IMG_0914.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI Service Robotics - Asia"
-    excerpt: "Value in the AI Service Robotics market is projected to reach US$1.65bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.42%, resulting in a market volume of US$4 ..."
-    publishedDateTime: 2023-08-05T08:36:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/asia"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Abu Dhabi's artificial intelligence university establishes dedicated robotics & computer science ..."
     excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate"
