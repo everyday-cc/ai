@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Upgrade your ChatGPT skills with this $20 training: Use AI to work smarter, not harder"
+    excerpt: "This online course load contains dozens of lessons breaking down beginner and advanced skills to help you use ChatGPT effectively. If you are new to the AI chatbot or want to make sure you didn't miss any tips and tricks when you first jumped in months ago,"
+    publishedDateTime: 2023-08-10T11:01:00Z
+    webUrl: "https://www.zdnet.com/article/upgrade-your-chatgpt-skills-with-this-20-training-use-ai-to-work-smarter-not-harder/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/upgrade-your-chatgpt-skills-with-this-20-training-use-ai-to-work-smarter-not-harder/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/upgrade-your-chatgpt-skills-with-this-20-training-use-ai-to-work-smarter-not-harder/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/186bba5322f625df06f9b5b4d950935527776302/2023/06/29/d003949e-24fd-4960-a177-712e43e0d249/sale-320578-article-image.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Learn to create a ChatGPT AI bot with this course bundle"
     excerpt: "You may have experimented with ChatGPT, and found it to be a useful tool on its own for work, school, or personal projects. But if you take the opportunity to study even basic coding, you can expand what you can do with AI simply by customizing your own chatbot ."
     publishedDateTime: 2023-08-09T18:23:00Z

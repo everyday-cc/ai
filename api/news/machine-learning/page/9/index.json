@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-05-12-glioblastoma-found-to-hijack-cognitive-neural-networks-with-thrombospondin-1.md",
+      "title": "Glioblastoma found to hijack cognitive neural networks with thrombospondin-1",
+      "excerpt": "The current research discovered a much more nefarious relationship between TSP-1 and neural networks. The study found feedback between high-grade gliomas and neural networks was bidirectional ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-05-glioblastoma-hijack-cognitive-neural-networks.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-05-glioblastoma-hijack-cognitive-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/glioblastoma-found-to.jpg",
+          "width": 2122,
+          "height": 1261,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-05-glioblastoma-hijack-cognitive-neural-networks.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-glioblastoma-hijack-cognitive-neural-networks.amp",
+      "publishedDateTime": "2023-05-12T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-automated-machine-learning-automl-market-worth-64-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
       "title": "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "CHICAGO, May 12, 2023 /PRNewswire/ -- The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration with ...",
@@ -1381,49 +1424,6 @@
         "Machine Learning",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-ai-pioneer-geoffrey-hinton-outlines-4-dangers-of-artificial-intelligence.md",
-      "title": "AI pioneer Geoffrey Hinton outlines 4 dangers of artificial intelligence",
-      "excerpt": "The “Godfather of artificial intelligence” has changed his mind about whether AI can become smarter than humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/",
-      "originalUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tampabay.com/resizer/Ex5xkonKhkVd-9caaUA6LmErs2I=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XLO7HHPWM3NDI5NC5D6FR3OQJA.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp",
-      "publishedDateTime": "2023-05-07T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tampa Bay Times",
-        "domain": "tampabay.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

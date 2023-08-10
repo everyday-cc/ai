@@ -73,17 +73,6 @@ related:
         width: 850
         height: 347
         isCached: true
-  - title: "Artificial Intelligence: OpenAI’s Revolutionary Web Crawling Bot"
-    excerpt: "OpenAI's advancements with GPTBot, its role in shaping the future AI models like GPT-5, and the company's dedication to navigating the challenges of technology and ethics in the AI industry."
-    publishedDateTime: 2023-08-09T11:46:00Z
-    webUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/"
-    ampWebUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 52
   - title: "OpenAI's GPTBot Will Scrape Your Website to Train Its AI, Unless You Opt Out"
     excerpt: "A new web crawler dramatically expands the amount of data OpenAI's models will train on, but the company says you can opt out to prevent it from visiting your website."
     publishedDateTime: 2023-08-08T18:29:00Z

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-10-infibeam-avenues-ltd-to-include-ai-on-its-platform.md",
+      "title": "Infibeam Avenues Ltd to include AI on its platform",
+      "excerpt": "According to an official release, Infibeam Avenues Ltd, an Indian fintech company, announced its plans to include Artificial Intelligence (AI) to create an AI-based fraud detection market. The company expects to establish India’s first Artificial Intelligence (AI) HUB at the Gujarat International Finance Tec-City (GIFT City).",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/",
+      "originalUrl": "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik267.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/lite/",
+      "publishedDateTime": "2023-08-10T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-dbs-bank-uncovers-big-data-challenges-with-ai-use-and-solutions-too.md",
       "title": "DBS Bank uncovers big data challenges with AI use - and solutions, too",
       "excerpt": "The Singapore bank opens up about the hurdles it had to overcome applying artificial intelligence to its operations and why success goes beyond getting the models right.",
@@ -1317,58 +1360,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-bank-of-america-is-using-ai-and-metaverse-to-train-new-hires.md",
-      "title": "Bank of America Is Using AI and Metaverse to Train New Hires",
-      "excerpt": "When you arrive at Bank of America’s new-employee boot camp at the New York Hilton Midtown, you’ll find a VR headset waiting for you. Slide it on, and you’ll be confronted with an angry customer, frustrated over a mix-up with their account.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivytSQi0mxQc/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

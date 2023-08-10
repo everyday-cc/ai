@@ -84,17 +84,6 @@ related:
         width: 850
         height: 347
         isCached: true
-  - title: "Artificial Intelligence: OpenAI’s Revolutionary Web Crawling Bot"
-    excerpt: "OpenAI's advancements with GPTBot, its role in shaping the future AI models like GPT-5, and the company's dedication to navigating the challenges of technology and ethics in the AI industry."
-    publishedDateTime: 2023-08-09T11:46:00Z
-    webUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/"
-    ampWebUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 52
   - title: "OpenAI's Former Domain AI.com Now Directs to Elon Musk's AI Company"
     excerpt: "The domain AI.com once took users to OpenAI's ChatGPT. Now, it's apparently changed hands, and redirects to Elon Musk's AI project, xAI."
     publishedDateTime: 2023-08-07T08:06:00Z

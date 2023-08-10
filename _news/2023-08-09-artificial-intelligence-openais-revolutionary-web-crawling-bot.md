@@ -20,119 +20,125 @@ topics:
   - AI
 
 related:
-  - title: "How to block OpenAI's new AI-training web crawler from ingesting your data"
-    excerpt: "The ChatGPT creator is training the next generation of AI systems, reportedly including GPT-5. One word can stop the crawling."
-    publishedDateTime: 2023-08-08T21:32:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/"
+  - title: "Embracing The AI Revolution: A Guide For Industry Leaders"
+    excerpt: "The obligation lies with every leader to seize this unprecedented era and harness the potency of this breakthrough technology."
+    publishedDateTime: 2023-08-10T11:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/500df0b13f222e5914bb567e7986709eaba3fcb2/2023/08/08/d0960e19-3e08-4733-857c-5854016ad315/openai.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6426e4f5a896dce658217d97/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Zoom Is Using You to Train AI. So Will Everyone Else"
-    excerpt: "The tech company caught heat for feeding customer data into its machine learning systems — but they are not alone"
-    publishedDateTime: 2023-08-10T00:00:00Z
-    webUrl: "https://www.rollingstone.com/culture/culture-news/zoom-ai-personl-data-1234802844/"
-    ampWebUrl: "https://www.rollingstone.com/culture/culture-news/zoom-ai-personl-data-1234802844/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-news/zoom-ai-personl-data-1234802844/amp/"
+  - title: "Generative AI Guidelines: A Resource for Public Sector Leaders"
+    excerpt: "Government and education institutions are wrestling with the best way to reap the rewards – and minimize the risks – of game-changing generative AI. This list of resources is meant to share guidelines"
+    publishedDateTime: 2023-08-09T23:38:00Z
+    webUrl: "https://www.govtech.com/sponsored/generative-ai-guidelines-a-resource-for-public-sector-leaders"
+    ampWebUrl: "https://www.govtech.com/sponsored/generative-ai-guidelines-a-resource-for-public-sector-leaders?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/generative-ai-guidelines-a-resource-for-public-sector-leaders?_amp=true"
     type: article
     provider:
-      name: Rolling Stone
-      domain: rollingstone.com
+      name: Government Technology
+      domain: govtech.com
     quality: 59
     images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2023/08/Zoom-AI.jpg?crop=0px%2C134px%2C1800px%2C1014px&resize=1600%2C900"
-        width: 1600
-        height: 900
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/b6af86d/2147483647/strip/true/crop/940x490+0+44/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Ff0%2F6d%2Fa6d2d721b29727ce33dd54877096%2Fshutterstock-615057098.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "OpenAI just admitted it has a bot that crawls the web to collect AI training data. If you don't block GPTbot, that's self-sabotage."
-    excerpt: "AI scraping bots are threatening the web's grand bargain. OpenAI's GPTbot crawler is being blocked by online content creators."
-    publishedDateTime: 2023-08-08T21:10:00Z
-    webUrl: "https://www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8?amp"
+  - title: "From Laggard To Leader: How The Insurance Industry Is Embracing AI To Deliver Real Business Benefits"
+    excerpt: "Progressive insurers are embracing the transformative power of AI to improve their operations, attract customers and enter new markets."
+    publishedDateTime: 2023-08-08T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/from-laggard-to-leader-how-the-insurance-industry-is-embracing-ai-to-deliver-real-business-benefits/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 52
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63923fd8974e7883484072b2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI-powered platforms revolutionize recruitment: Unveiling the hunt for ideal candidates"
+    excerpt: "However, with the aid of AI and natural language processing (NLP) software, recruiters can now swiftly evaluate and analyze resumes and cover letters, extracting crucial information like work experience, skills, and education. This automation of the ..."
+    publishedDateTime: 2023-08-07T11:20:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-powered-platforms-revolutionize-recruitment-unveiling-the-hunt-for-ideal-candidates/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-powered-platforms-revolutionize-recruitment-unveiling-the-hunt-for-ideal-candidates/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-powered-platforms-revolutionize-recruitment-unveiling-the-hunt-for-ideal-candidates/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 51
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/01/Anil-Agarwal-Co-Founder-InCruiter.jpg"
+        width: 594
+        height: 502
+        isCached: true
+  - title: "Which Countries Will Win the AI Revolution?"
+    excerpt: "Artificial intelligence, like a lot of new technology, will most benefit nations with ambitious and innovative economies."
+    publishedDateTime: 2023-08-10T03:59:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-08-10/the-ai-revolution-which-countries-will-win"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Microsoft co-founder Bill Gates' sleep revolution: From sleepless nights to embracing restful slumber"
+    excerpt: "Tech mogul Bill Gates, previously known for his belief that sleep equated to laziness, has undergone a transformation in his perspective on restorative slumber. Gates, who has revealed that he previously perceived sleep to be unnecessary breaks from his ambitious pursuits,"
+    publishedDateTime: 2023-08-09T07:29:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/new-updates/microsoft-co-founder-bill-gates-sleep-revolution-from-sleepless-nights-at-microsoft-to-embracing-restful-slumber/articleshow/102565441.cms"
+    ampWebUrl: "https://m.economictimes.com/news/new-updates/microsoft-co-founder-bill-gates-sleep-revolution-from-sleepless-nights-at-microsoft-to-embracing-restful-slumber/amp_articleshow/102565441.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/microsoft-co-founder-bill-gates-sleep-revolution-from-sleepless-nights-at-microsoft-to-embracing-restful-slumber/amp_articleshow/102565441.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-53264,msid-102565518/microsoft-founder-bill-gates-file-photo-ians.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "RBC: These 19 stocks with an early lead in the AI revolution will continue to profit from rising demand in semiconductors, cloud computing, and more"
+    excerpt: "Companies jumping into AI now will set themselves up for long term success. RBC identified 19 stocks benefitting from AI developments today."
+    publishedDateTime: 2023-08-10T08:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-investing-strategy-rbc-2023-8"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 57
+    quality: 30
     images:
-      - url: "https://i.insider.com/64d2a8797d2e90001946b1bc?width=1200&format=jpeg"
+      - url: "https://i.insider.com/64d3e3f7a8ce53001a5942ea?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Distributed AI technique accelerates picking robot training"
-    excerpt: "FLAIROP research project successfully aggregates learned tasks from multiple robots without revealing sensitive training data."
-    publishedDateTime: 2023-08-08T00:22:00Z
-    webUrl: "https://www.design-engineering.com/TGVze"
+  - title: "AI 'Brain' Technology by Rezolve Joins Forces with NAGA to Revolutionise Online Payment together with Brokerage Transformation"
+    excerpt: "Frankfurt listed, German Fintech leader, The NAGA Group A.G. (XETRA: N4G) (ISIN: DE000A161NR7), operator of the All-in-One Financial Super App, has announced a ground-breaking partnership with Rezolve AI Limited."
+    publishedDateTime: 2023-08-09T09:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/09/9861620.htm"
     type: article
     provider:
-      name: design-engineering.com
-      domain: design-engineering.com
-    quality: 54
-    images:
-      - url: "https://www.design-engineering.com/wp-content/uploads/2023/08/23-Aug-Festo-AI-Robotics-850.jpg"
-        width: 850
-        height: 347
-        isCached: true
-  - title: "OpenAI's GPTBot Will Scrape Your Website to Train Its AI, Unless You Opt Out"
-    excerpt: "A new web crawler dramatically expands the amount of data OpenAI's models will train on, but the company says you can opt out to prevent it from visiting your website."
-    publishedDateTime: 2023-08-08T18:29:00Z
-    webUrl: "https://www.pcmag.com/news/openais-gptbot-will-scrape-your-website-to-train-its-ai-unless-you-opt"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "AI 'Brain' Technology by Rezolve Joins Forces with NAGA to Revolutionise Online Payment Together with Brokerage Transformation"
+    excerpt: "Frankfurt-listed, German Fintech leader, The NAGA Group A.G., operator of the All-in-One Financial Super App, has announced a ground-breaking partnership with Rezolve AI Limited. The integration of Rezolve's AI platform,"
+    publishedDateTime: 2023-08-09T19:27:00Z
+    webUrl: "https://financialit.net/news/payments/ai-brain-technology-rezolve-joins-forces-naga-revolutionise-online-payment-together"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 44
-  - title: "OpenAI's Former Domain AI.com Now Directs to Elon Musk's AI Company"
-    excerpt: "The domain AI.com once took users to OpenAI's ChatGPT. Now, it's apparently changed hands, and redirects to Elon Musk's AI project, xAI."
-    publishedDateTime: 2023-08-07T08:06:00Z
-    webUrl: "https://futurism.com/the-byte/openais-domain-elon-musks-ai"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 37
-    images:
-      - url: "https://wp-assets.futurism.com/2023/08/openais-domain-elon-musks-ai.jpg"
-        width: 1200
-        height: 726
-        isCached: true
-  - title: "Rakuten, OpenAI Partner to Create Conversational AI Experiences for Customers & Companies"
-    excerpt: "Additionally, the Rakuten Group will bring Rakuten AI experiences into ChatGPT products by leveraging the OpenAI plugin architecture, enabling businesses to use natural language for interacting with AI agents that conduct research, analyze data, optimize inventory, pricing, automate business processes and more."
-    publishedDateTime: 2023-08-07T02:05:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32938-rakuten-openai-partner-to-create-conversational-ai-experiences-for-customers-companies"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 30
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/3e2e125cd1432536421d9fb1f67f3c8f.jpg?t=20230807_013039"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "OpenAI Shoots To No. 1 Spot On Private Cloud Startup Ranking, Underscoring AI’s Sudden Ascendency"
-    excerpt: "OpenAI’s rise to the top of the ranking in Bessemer's Cloud 100 cohort underscores AI’s shockingly fast ascendency in the tech world."
-    publishedDateTime: 2023-08-09T11:00:00Z
-    webUrl: "https://news.crunchbase.com/cloud/bessemer-2023-private-cloud-startup-ranking-openai-anthropic/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 24
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Mary-DOnofrio-300x277.jpeg"
-        width: 300
-        height: 277
-        isCached: true
+      name: Financial IT
+      domain: financialit.net
+    quality: 0
 
 secured: "e/K7zE8q0DvynSof2JDvunKnu8NWxUU4rQfFGFKGvWvuxpmQWwwCCf0aOksJPlMmn4flqWC1kg2i27SvOWdqk303tIyXEC+LFVGc9w6I+avtUPInE5JBiL/thAk8rPf371dY4bWNgHIVbHvxPm1GqGLXiCaqvXh1W7+CxoXMw2vz81wDNsKW3d/alSFOPQ9VTVIQwcY5FApzv2iGUr1lyaFG+WN+D/0xTvpaYq/5mWVzNv/OBVmqk4EKXwJYgC4vMqKwUUnP3JZAskil6/WXiGvCNTOzol+ujtUDNwXaMa0wY2rpW4Zv+4SIr2iWZlMESZCS/ZDB89Hal2xVa5Agq8tF/BiXTuvjVi5AtG2MuYZivoxzKCqbq2wzMjrzRkeRFexvlJ+BeYm1V5UaLZW8app4QX87tUEiBqdpEwj+HbdSEC+PyByUhy+UdsPhnzVVV4xfBg+0oDCozoiTpnRS/yT/olTz5/uihjr5go31DWKmkZPSih3u3cg23J0b8lYGgH6iqBuLwOIOYZ43e7/KDA==;57nIcb1A9Kng2HSOMbaKuQ=="
 ---

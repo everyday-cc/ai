@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-13-how-the-financial-services-industry-is-employing-machine-learning.md",
+      "title": "How the Financial Services Industry Is Employing Machine Learning",
+      "excerpt": "TradeTalks broadcasts live from MarketSite in Times Square, the historic Philadelphia Trading Floor and Global Industry Conferences and Events. Featuring conversations with top industry thought ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/videos/how-the-financial-services-industry-is-employing-machine-learning",
+      "originalUrl": "https://www.nasdaq.com/videos/how-the-financial-services-industry-is-employing-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-artificial-intelligence-powers-a-new-era-in-construction.md",
       "title": "Artificial Intelligence Powers A New Era In Construction",
       "excerpt": "Exploring the transformative role of Artificial Intelligence in reshaping construction processes, from enhancing operational efficiency to improving on-site safety.",
@@ -1301,49 +1336,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-demystifying-batch-normalisation-supercharge-your-neural-networks.md",
-      "title": "Demystifying Batch Normalisation: Supercharge Your Neural Networks",
-      "excerpt": "Artificial neural networks have revolutionised the field of machine learning, enabling remarkable advancements in various domains. However, training deep neural networks can be challenging due to ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2023/06/ai-terminology-101-batch-normalisation-guide",
-      "originalUrl": "https://yourstory.com/2023/06/ai-terminology-101-batch-normalisation-guide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Blockchain30-1688025409788.png?fm=png&auto=format",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

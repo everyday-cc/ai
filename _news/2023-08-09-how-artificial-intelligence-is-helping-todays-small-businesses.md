@@ -22,32 +22,130 @@ topics:
   - AI
 
 related:
-  - title: "How AI is helping airlines mitigate the climate impact of contrails"
-    excerpt: "We used AI to help airlines choose routes that are less likely to cause contrails, minimizing the environmental impact of flights."
-    publishedDateTime: 2023-08-08T19:00:00Z
-    webUrl: "https://blog.google/technology/ai/ai-airlines-contrails-climate-change/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
-  - title: "Understanding The Impact And Driving Factors Of Conversation AI"
-    excerpt: "The advent of conversation AI signifies a major leap in the evolution of data management and interaction. It democratizes data access and has the potential to optimize an array of processes across diverse sectors. It not only simplifies data analysis but also fosters a more engaged approach to data exploration."
-    publishedDateTime: 2023-08-07T13:29:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/understanding-the-impact-and-driving-factors-of-conversation-ai/"
+  - title: "How Today’s Top Marketing Leaders Are Approaching AI"
+    excerpt: "Many marketing leaders are embracing the technology, recognizing its staying power and acknowledging that marketers would do well to adapt or risk becoming irrelevant."
+    publishedDateTime: 2023-08-10T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
-  - title: "10 Ways Artificial Intelligence is Already Having a Huge Impact on Business"
-    excerpt: "The realm of Artificial Intelligence (AI) is effecting a paradigm shift across multiple business sectors since OpenAI released its Large Language Model (or LLM) to the world. A close examination reveals the multifaceted manner in which AI is refashioning business in many areas."
-    publishedDateTime: 2023-08-06T12:32:00Z
-    webUrl: "https://techbullion.com/10-ways-artificial-intelligence-is-already-having-a-huge-impact-on-business/"
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d3984e604bda7e4b0ed9f8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "This Startup Is Using AI To Increase Productivity And Reduce Meeting Mania"
+    excerpt: "With record buzz surrounding AI, consumers are eager to understand how new tools will impact their own lives. Productivity tools are one of the first aspects of technology that are ripe for innovation through AI. I recently spoke with Matt Martin, a veteran software developer and the co-founder of AI-driven calendar assistant Clockwise."
+    publishedDateTime: 2023-08-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c3cba41e471324dc16a7fe/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 317
+        isCached: true
+  - title: "Examining The Future Of Marketing In Light Of AI Concerns"
+    excerpt: "The more strategic, less brand-aligned functions scored the highest in terms of how defensible they are from being replaced by automation."
+    publishedDateTime: 2023-08-09T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/examining-the-future-of-marketing-in-light-of-ai-concerns/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "3 Millionaire-Making AI Stocks That Are Flying Under the Radar"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks have exploded to the upside in recent months. It isn’t too"
+    publishedDateTime: 2023-08-06T18:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-millionaire-making-ai-stocks-that-are-flying-under-the-radar-1032520445"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
+    excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
+    publishedDateTime: 2023-08-08T11:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pioneering-trucking-industry-learning-with-artificial-intelligence-1032528295"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "The Artificial Intelligence Contribution to Eating Disorders"
+    excerpt: "According to an article posted in the Washington Post, artificial intelligence has an eating disorder problem. Pro-anorexia chatbots are a mere consequence of some of the best tech-funded companies no"
+    publishedDateTime: 2023-08-07T16:35:00Z
+    webUrl: "https://www.wyomingnews.com/news/national/the-artificial-intelligence-contribution-to-eating-disorders/video_21c99039-d078-5fe4-a064-dc0f74a58fd8.html"
+    type: article
+    provider:
+      name: Wyoming News
+      domain: wyomingnews.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/2/1c/21c99039-d078-5fe4-a064-dc0f74a58fd8/64d11fc31e0fc.image.jpg?crop=1641%2C862%2C0%2C30&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Bringing Artificial Intelligence into the classroom"
+    excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
+    publishedDateTime: 2023-08-08T02:40:00Z
+    webUrl: "https://www.fox13news.com/video/1260378"
+    ampWebUrl: "https://www.fox13news.com/video/1260378.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1260378.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 37
+  - title: "Small businesses using AI are loving it"
+    excerpt: "A new survey finds that more than 90% of small business owners using artificial intelligence tools like ChatGPT say AI has made their businesses more successful."
+    publishedDateTime: 2023-08-09T09:00:00Z
+    webUrl: "https://www.aol.com/finance/small-businesses-using-ai-loving-060057295.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/TqsYkh7r5VfZvITF2W7x9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/4871c9241188d3f5a65fdc2bcc12d5c0"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Here's how Michigan employers and employees are adapting to AI"
+    excerpt: "Employers need workers who are trained in AI platforms, giving a leg-up to job candidates who have those skills."
+    publishedDateTime: 2023-08-07T03:00:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/08/06/heres-how-michigan-employers-and-employees-are-adapting-to-ai/70384916007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
+  - title: "AI dating apps promise less ghosting, more matches"
+    excerpt: "The hardest part of dating, according to Daniel Liss, is the small talk. A digital entrepreneur whose previous ventures include the photo sharing site Dispo, Liss launched Teaser AI in June, marketing it as the app that leads to “less ghosting, more matches.”"
+    publishedDateTime: 2023-08-10T03:19:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-dating-apps-promise-less-ghosting-more-matches-71691595326473.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 19
+  - title: "The Artificial Intelligence Contribution to Eating Disorders"
+    excerpt: "Artificial intelligence has an eating disorder problem. Pro-anorexia chatbots are a mere consequence of some of the best tech-funded companies not doing enough to prevent the circulation of misleading"
+    publishedDateTime: 2023-08-08T22:00:00Z
+    webUrl: "https://omaha.com/life-entertainment/nation-world/technology/the-artificial-intelligence-contribution-to-eating-disorders/video_89389748-9c2e-55ff-88f5-8193dfb22db3.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
     quality: 17
 
 secured: "RKrkQ6S3UjFWgjTFga6nb77avypFNQeMVLK6RCkTGeLO6DqhHSp2p77qDv0BvBOXW3LDYlA/wMOUOm6UNy7o1CpM7WDKMVnWj0mQwl30X1aGSmWBOL0tjZJUOW5FyEBEeHJenDWFkTlHBIpXMEXWuxVQ3UU+5FsVKeVC90TXzjXI8lRnA9Q7EVTfWjTRRoxQaYViMEl5dd8doEeCmZcNm9Gq7tvkwKb4nKpyPCYQCwTgSbwoI2Opp68qdmlvvDcLPcAn38cckS0G3aITnso0JNPT98h2SRbVUJ1laYpC+kRLwA79nUJ9kGx80csQT/O1BWQ0wqNY+PIEpgPmYYWfACRNlzAXZh3+r6tWAmM/JkwBvRXRgcJPuTN6iJVn9XEfivYHZwLWPQBpwMXqPdL3uZVltE1X92FzDB+ojMu2FcicLUxqQbORsEZFVOJaki29dPjdkgkYhn1sXSHMDQ6L1yOzbiV2Xk3zWbdcgVNnLfURJfWF1aIQgShO3AY7qxyNCsLepmAHeRzyEOznf2rrSA==;PVcod1jYHlAJaJcrVfyyvg=="

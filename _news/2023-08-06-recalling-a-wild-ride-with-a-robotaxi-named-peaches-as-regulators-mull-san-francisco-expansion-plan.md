@@ -75,6 +75,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 21
+  - title: "AI boom jolts San Francisco office market"
+    excerpt: "Ten AI companies are today seeking between 700,000 to 800,000 square feet of office space in San Francisco, per JLL, which says AI companies have already tripled their footprint in the city since 2016. JLL said its confidence is based on anonymized foot traffic and cell phone use data from Placer.ai, demographic and office neighbor information."
+    publishedDateTime: 2023-08-10T10:00:00Z
+    webUrl: "https://www.axios.com/2023/08/10/ai-boom-san-francisco-office-market"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
   - title: "Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan"
     excerpt: "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked me up"
     publishedDateTime: 2023-08-07T13:35:00Z

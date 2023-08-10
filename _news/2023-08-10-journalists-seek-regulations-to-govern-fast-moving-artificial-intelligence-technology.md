@@ -1,58 +1,28 @@
 ---
 category: news
 title: "Journalists seek regulations to govern fast-moving artificial intelligence technology"
-excerpt: "Several news organizations, writers and photographers groups are pushing to be involved in creating standards for the use of artificial"
-publishedDateTime: 2023-08-09T20:39:00Z
-originalUrl: "https://mynorthwest.com/3918712/journalists-seek-regulations-to-govern-fast-moving-artificial-intelligence-technology/"
-webUrl: "https://mynorthwest.com/3918712/journalists-seek-regulations-to-govern-fast-moving-artificial-intelligence-technology/"
+excerpt: "News organizations are seeking regulations to govern the fast-moving artificial intelligence technology that threatens upheavals for their businesses"
+publishedDateTime: 2023-08-09T20:47:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/journalists-seek-regulations-govern-fast-moving-artificial-intelligence-102146228"
+webUrl: "https://abcnews.go.com/US/wireStory/journalists-seek-regulations-govern-fast-moving-artificial-intelligence-102146228"
 type: article
-quality: 32
-heat: -1
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: MyNorthwest.com
-  domain: mynorthwest.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
-    width: 452
-    height: 282
+  - url: "https://s.abcnews.com/images/US/wirestory_06f1e85bd00024419883db77b5ef5f6e_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-related:
-  - title: "Meet the artists reclaiming AI from big tech – with the help of cats, bees and drag queens"
-    excerpt: "AI’s potential is huge and terrifying. But a new generation of artists is starting to find new uses for the technology, as well showing its many limitations"
-    publishedDateTime: 2023-08-10T06:01:00Z
-    webUrl: "https://www.theguardian.com/artanddesign/2023/aug/10/artists-using-artificial-intelligence-science-gallery"
-    ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/aug/10/artists-using-artificial-intelligence-science-gallery"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/aug/10/artists-using-artificial-intelligence-science-gallery"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 47
-    images:
-      - url: "https://i.guim.co.uk/img/media/69a5b094811888463d7887484571cbfcea3143fc/0_97_5827_3902/master/5827.jpg?width=620&quality=85&auto=format&fit=max&s=6953b8417ad2a20b1234ffc20b9f6e6b"
-        width: 620
-        height: 415
-        isCached: true
-  - title: "Wizards of the Coast’s Dungeons & Dragons tells artists not to use AI"
-    excerpt: "Dungeons & Dragons, owned by Renton-based Wizards of the Coast, told artists to stop using the technology after social media questioning."
-    publishedDateTime: 2023-08-07T17:25:00Z
-    webUrl: "https://www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
-
-secured: "7mJpKSgBIqn6Osi1L5lM2meiEdHr8T2yMlVciOhmNrQlgaux/rRfN42Fgok9sPGf719/dTfoQVYQVzR61SqYre5L1qoGGhLNfWh+qSQdObE4e/34MVvfrpHcjFHmGEbSKkq8nBfTVI6NEyGSAO217AaC2WOSo6ETsscJqHebiAoka02+2H4Xd7QyTgjjqufzRw2CcFt5soInkcv+ey7nS0x5N05m67hYm+CtF0WwtvgkDt/H0NDSXfQr9FpmNbNe8wkDRcYwuqc3aaG6f9RdmkWr985tLrOjVC41I5vKTnF+MhI6Jz7XXQJllcHxl8FvAPsmXXX+bH7/on1LKJMfqgfzaEpROAVAYLcoCJ5pM/FDAxUhLhkFte4JhJ1tNWNmBSGMXC7wLwLIrPRkdAXPynrUgiJfQ+HWUbh0U076nnS3xN3BG8fqHheMGSXf2lrIbprOFnCQ52/DLmRZZnKjohMHu6pOApvGfVU+O04AC7XfhJv4qVr97fAaZuho/PEfrGBFBmtGyAPKQIKutodRWg==;AD9IduyaDpTlD/4qBnCLDw=="
+secured: "ingR+Kd6vn5ez6NC1XQiDFFPwmpQuRFI97W+yxkTaMj73GIdtF2otybPLI6ksNvv/tTNoyDfKWnqLp7D/E0dWE6OT4atqNEUKc6Iv81oIfo9kz0xeKXOic9PcfSBX1rceimHC3SsxPXSWE3/5+ZMM7yZwNwTsYztK0ZB/aphobw/mLlClmj51+iZ/GR1o87PGrtiJJhWw0ex2tOTo6LyhcA601YEix8zLs8deZJSwvCOc3T5qs4kqidGh7eIb9cOwXZsu7pstaTX/0+dFjCGvIEeFhPweLDy95vlFWSqGMiKy7ia17VmSLKjI9IkZXfpagrtei3NSvOKYPVYzuMsyeUX3dU3VZFedPat2DbNWyg=;k7HklcNA8kk83uFYcDtfwA=="
 ---
 

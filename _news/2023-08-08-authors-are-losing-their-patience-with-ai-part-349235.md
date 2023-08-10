@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/07/authors-ai-prosecraft/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/07/authors-ai-prosecraft/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Small businesses using AI are loving it"
-    excerpt: "A new survey finds that more than 90% of small business owners using artificial intelligence tools like ChatGPT say AI has made their businesses more successful."
-    publishedDateTime: 2023-08-09T09:00:00Z
-    webUrl: "https://www.aol.com/finance/small-businesses-using-ai-loving-060057295.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/TqsYkh7r5VfZvITF2W7x9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/4871c9241188d3f5a65fdc2bcc12d5c0"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Lessons from finance’s experience with artificial intelligence"
     excerpt: "PREMIUM Ai and machine-learning funds seemed like the final step in the march of the robots.(REUTERS) This rule appears to hold for artificial intelligence (ai) and machine learning, which were first employed by hedge funds decades ago,"
     publishedDateTime: 2023-08-05T19:47:00Z

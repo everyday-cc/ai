@@ -2,50 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2023-04-10-gpu-for-deep-learning-market-2023-size-and-forecast-to-2031.md",
-      "title": "GPU for Deep Learning Market 2023 Size and Forecast to 2031",
-      "excerpt": "GPU for Deep Learning Marketinformation for each competitor includes (Amazon, Microsoft, Google, Fancy Startup, Intel,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2023-size-and-forecast-to-2031-2023-04-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2023-size-and-forecast-to-2031-2023-04-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-09T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-04-08-qualcomm-nvidia-spar-for-top-spot-in-ai-chip-efficiency-tests.md",
       "title": "Qualcomm, Nvidia spar for top spot in AI chip efficiency tests",
       "excerpt": "Analysts believe that the market for data center inference chips will grow quickly as businesses put AI technologies into their products, but companies such as Alphabet Inc's (GOOGL.O) Google are ...",

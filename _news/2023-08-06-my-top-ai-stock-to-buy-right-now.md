@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-r
 webUrl: "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors should expect a steep selloff among artificial intelligence stocks,"
     publishedDateTime: 2023-08-09T09:15:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/2-ai-stocks-to-sell-and-2-to-buy-instead-1032534021"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "3 Artificial Intelligence Stocks Low on Risk and High on Upside"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Since the launch of ChatGPT early in 2023, companies have been falling over"
+    publishedDateTime: 2023-08-10T11:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/best-artificial-intelligence-stocks-3-low-risk-high-upside-picks-1032539923"
     type: article
     provider:
       name: Business Insider

@@ -2,6 +2,257 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2023-05-23-turning-hybrid-cloud-security-into-a-profit-center.md",
+      "title": "Turning hybrid cloud security into a profit center",
+      "excerpt": "As more enterprises move to hybrid cloud environments, hybrid cloud security has become imperative to business growth. According to a 2021 study by the IBM Institute for Business Value (IBV), 80% of executives expected their organizations to operate more than 10 distinct clouds by 2023, up from eight",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/turning-hybrid-cloud-security-into-a-profit-center/",
+      "originalUrl": "https://www.ibm.com/blog/turning-hybrid-cloud-security-into-a-profit-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/Turning-hybrid-cloud-security-into-a-profit-center.png",
+          "width": 6667,
+          "height": 3492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-the-need-for-an-artificial-sensory-nervous-system-for-generative-ai.md",
+      "title": "The Need For An Artificial Sensory Nervous System For Generative AI",
+      "excerpt": "Demand for neural networks and LLMs will snowball in the coming years, and supply will develop to meet requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645ba61bd8a7fb17319c02fa/0x0.jpg?format=jpg&crop=3574,2012,x0,y467,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/amp/",
+      "publishedDateTime": "2023-05-23T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-nvidia-gpus-see-massive-price-hike-and-huge-demand-from-ai.md",
+      "title": "Nvidia GPUs see massive price hike and huge demand from AI",
+      "excerpt": "It feels like we’ve only just emerged from the debilitating graphics card shortage of the last few years, but a new report suggests we can’t breathe easy just yet. Could a new GPU shortage be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/nvidia-ai-gpus-shortage-price-hikes/",
+      "originalUrl": "https://www.digitaltrends.com/computing/nvidia-ai-gpus-shortage-price-hikes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2019/07/nvidia-rtx-2060-super-2070-super-review-04253.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/nvidia-ai-gpus-shortage-price-hikes/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nvidia-ai-gpus-shortage-price-hikes/?amp",
+      "publishedDateTime": "2023-05-23T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-sapiens-joins-forces-with-microsoft-to-leverage-generative-ai-for-insurers.md",
+      "title": "Sapiens Joins Forces with Microsoft to Leverage Generative AI for Insurers",
+      "excerpt": "Sapiens International Corporation, (NASDAQ: SPNS) and (TASE: SPNS), a leading global provider of software solutions for the insurance",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/sapiens-joins-forces-with-microsoft-to-leverage-generative-ai-for-insurers-301832037.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/sapiens-joins-forces-with-microsoft-to-leverage-generative-ai-for-insurers-301832037.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://mma.prnewswire.com/media/585787/Sapiens_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-generative-ai-is-stoking-medical-malpractice-concerns-for-medical-doctors-in-these-unexpected-ways-says-ai-ethics-and-ai-law.md",
+      "title": "Generative AI Is Stoking Medical Malpractice Concerns For Medical Doctors In These Unexpected Ways, Says AI Ethics And AI Law",
+      "excerpt": "Generative AI Is Stoking Medical Malpractice Concerns For Medical Doctors In These Unexpected Ways, Says AI Ethics And AI Law",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/23/generative-ai-is-stoking-medical-malpractice-concerns-for-medical-doctors-in-these-unexpected-ways-says-ai-ethics-and-ai-law/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/23/generative-ai-is-stoking-medical-malpractice-concerns-for-medical-doctors-in-these-unexpected-ways-says-ai-ethics-and-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646aa3405bb188ec4e00fd8a/0x0.jpg?format=jpg&crop=3285,1851,x2442,y0,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/23/generative-ai-is-stoking-medical-malpractice-concerns-for-medical-doctors-in-these-unexpected-ways-says-ai-ethics-and-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/23/generative-ai-is-stoking-medical-malpractice-concerns-for-medical-doctors-in-these-unexpected-ways-says-ai-ethics-and-ai-law/amp/",
+      "publishedDateTime": "2023-05-23T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-how-ganai-builds-the-face-that-launches-a-million-videos.md",
       "title": "How Gan.Ai Builds The Face That Launches A Million Videos",
       "excerpt": "Generative AI specialist Gan.ai has raised $5.25 million of seed finance as it looks to build on the early success of its technology",
@@ -918,264 +1169,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-this-week-in-data-how-to-talk-ai.md",
-      "title": "This week in data: How to talk AI",
-      "excerpt": "In this week's video, Bruno and a special guest discuss “how to talk AI” and best practices for currently available generative AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/this-week-in-data-how-to-talk-ai/",
-      "originalUrl": "https://venturebeat.com/ai/this-week-in-data-how-to-talk-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/May-22.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/this-week-in-data-how-to-talk-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/this-week-in-data-how-to-talk-ai/amp/",
-      "publishedDateTime": "2023-05-22T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-hypersensitive-robot-hand-is-eerily-human-in-how-it-can-feel-things.md",
-      "title": "Hypersensitive robot hand is eerily human in how it can feel things",
-      "excerpt": "So the team also used sampling-based planning (SBP) algorithms to give the robot a better grip (pun intended) on its state space structure. SPB doesn’t need to go over every pos",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2023/05/hypersensitive-robot-hand-is-eerily-human-in-how-it-can-feel-things/",
-      "originalUrl": "https://arstechnica.com/science/2023/05/hypersensitive-robot-hand-is-eerily-human-in-how-it-can-feel-things/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/image-6-800x451.jpeg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/science/2023/05/hypersensitive-robot-hand-is-eerily-human-in-how-it-can-feel-things/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/05/hypersensitive-robot-hand-is-eerily-human-in-how-it-can-feel-things/amp/",
-      "publishedDateTime": "2023-05-22T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-meta-fined-record-13-billion-by-eu-over-handling-of-facebook-user-data.md",
-      "title": "Meta fined record $1.3 billion by EU over handling of Facebook user data",
-      "excerpt": "European Union data regulators have hit Meta with a $1.3 billion fine (about €1.2 billion) and ordered the company to cease transferring EU Facebook user data to the US by October. The fine exceeds Amazon's $886 million fine from the EU for data protection violations in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
-      "originalUrl": "https://www.zdnet.com/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/51f5cfda5dbc9796f18e715d4ae239f452ffb46a/2023/05/22/84c5ed15-7609-42d0-bd54-9a07cb0e23c1/gettyimages-1244644879.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
-      "publishedDateTime": "2023-05-22T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-how-leaders-could-use-ai-or-even-agi-to-make-better-decisions.md",
-      "title": "How Leaders Could Use AI – Or Even AGI – To Make Better Decisions",
-      "excerpt": "Most people continue to miss the point: the real power of AI, and even AGI, lies not in its ability to replace human decision making, but in its ability to augment it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639618d36b2bd6c01b620ebf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/amp/",
-      "publishedDateTime": "2023-05-22T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-forrester-predicts-2023s-top-cybersecurity-threats-from-generative-ai-to-geopolitical-tensions.md",
-      "title": "Forrester predicts 2023’s top cybersecurity threats: From generative AI to geopolitical tensions",
-      "excerpt": "While cybersecurity teams continue to fight social engineering and ransomware attacks, they now need to defend their AI models and data too.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/forrester-predicts-2023-top-cybersecurity-threats-generative-ai-geopolitical-tensions/",
-      "originalUrl": "https://venturebeat.com/security/forrester-predicts-2023-top-cybersecurity-threats-generative-ai-geopolitical-tensions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1368397295.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/forrester-predicts-2023-top-cybersecurity-threats-generative-ai-geopolitical-tensions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/forrester-predicts-2023-top-cybersecurity-threats-generative-ai-geopolitical-tensions/amp/",
-      "publishedDateTime": "2023-05-22T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

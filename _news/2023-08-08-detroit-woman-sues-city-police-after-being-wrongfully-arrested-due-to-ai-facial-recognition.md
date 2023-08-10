@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/amp/"
 type: article
 quality: 94
-heat: 404
+heat: 414
 published: true
 
 provider:
@@ -279,6 +279,20 @@ related:
       - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2023/08/GettyImages-1397556029-1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Detroit Police Chief says faulty police work, not facial recognition, to blame for false arrest"
+    excerpt: "At a Wednesday press conference, Chief James White insisted that Porcha Woodruff's wrongful arrest wasn’t a case of botched facial recognition. Instead, he blamed investigators for using improper procedures,"
+    publishedDateTime: 2023-08-10T10:53:00Z
+    webUrl: "https://www.michiganradio.org/criminal-justice-legal-system/2023-08-10/detroit-police-chief-says-faulty-police-work-not-facial-recognition-to-blame-for-false-arrest"
+    type: article
+    provider:
+      name: Michigan Radio
+      domain: michiganradio.org
+    quality: 27
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/d9108b4/2147483647/strip/true/crop/1254x658+0+27/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F0e%2F9d22aee246bcbb9baa6795f5a32a%2Fdpd-chief-james-white-3.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "In every reported case where police mistakenly arrested someone using facial recognition, that person has been Black"
     excerpt: "For several years, civil liberties groups, tech experts, and activists have warned that the use of facial recognition technology will only increase racial inequities in policing. As time goes on, it is becoming even more clear that these warnings were right."

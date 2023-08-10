@@ -2,6 +2,290 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-09-dynatrace-beats-earnings-acquires-a-company-and-embraces-generative-ai.md",
+      "title": "Dynatrace Beats Earnings, Acquires A Company And Embraces Generative AI",
+      "excerpt": "Dynatrace beat earnings, announced the acquisition of Rookout, a dev-focused observability start-up, and is bringing new generative AI features to its Davis AI engine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/08/dynatrace-beats-earnings-acquires-a-company-and-embraces-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/08/dynatrace-beats-earnings-acquires-a-company-and-embraces-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d29ea5a96807d4f4b1ea45/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/08/dynatrace-beats-earnings-acquires-a-company-and-embraces-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/08/dynatrace-beats-earnings-acquires-a-company-and-embraces-generative-ai/amp/",
+      "publishedDateTime": "2023-08-08T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-skyline-robotics-to-expand-with-335m-funding-round.md",
+      "title": "Skyline Robotics to expand with $3.35M funding round",
+      "excerpt": "Skyline Robotics continues to build momentum adding key patents to bring Ozmo window-cleaning robots to key cities globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/skyline-robotics-to-expand-with-3-35m-funding-round/",
+      "originalUrl": "https://www.therobotreport.com/skyline-robotics-to-expand-with-3-35m-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-how-ai-is-helping-airlines-mitigate-the-climate-impact-of-contrails.md",
+      "title": "How AI is helping airlines mitigate the climate impact of contrails",
+      "excerpt": "We used AI to help airlines choose routes that are less likely to cause contrails, minimizing the environmental impact of flights.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/ai-airlines-contrails-climate-change/",
+      "originalUrl": "https://blog.google/technology/ai/ai-airlines-contrails-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-vibes-announces-new-ai-engine-for-mobile-marketing-campaigns.md",
+      "title": "Vibes announces new AI engine for mobile marketing campaigns",
+      "excerpt": "Vibes with Nexus provides brand marketers with recommended marketing campaign messages, assets and ideas tailored to fit their audience.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/vibes-announces-new-ai-engine-for-mobile-marketing-campaigns/",
+      "originalUrl": "https://venturebeat.com/ai/vibes-announces-new-ai-engine-for-mobile-marketing-campaigns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_a_bespectacled_man_tapes_a_smartphone_screen_and_it_ext_f078ce4b-d091-4090-ac32-20f8a2bbd566.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-seattle-startup-dropzone-ai-which-develops-autonomous-ai-security-agents-raises-35m.md",
+      "title": "Seattle startup Dropzone AI, which develops autonomous AI security agents, raises $3.5M",
+      "excerpt": "Dropzone AI announced a $3.5 million seed round led by Decibel Partners, with participation from Pioneer Square Ventures Fund. Dropzone’s pre-trained AI security agents are designed to work alongside",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/seattle-startup-dropzone-ai-which-develops-autonomous-ai-security-agents-raises-3-5m/",
+      "originalUrl": "https://www.geekwire.com/2023/seattle-startup-dropzone-ai-which-develops-autonomous-ai-security-agents-raises-3-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/08/64caaf5ee67f84f8a90d94ef_Edward-p-500.jpeg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch.md",
+      "title": "Microsoft is expanding Bing AI to more browsers - but there's a catch",
+      "excerpt": "Already available for select users in Chrome and Safari, the AI chatbot is wending its way to other browsers on both desktop and mobile.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 384,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/16006480204872b8e8ce286a8314ef1029138839/2023/08/08/c3ad8625-df07-48b1-b5df-fff4b8deb6fb/gettyimages-1546726492.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/",
+      "publishedDateTime": "2023-08-08T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-spotifys-ai-dj-expands-to-50-countries-around-the-world.md",
       "title": "Spotify's AI DJ expands to 50 countries around the world",
       "excerpt": "Spotify is bringing its AI-based DJ feature to more markets, expanding the feature's reach six months after launch in North America as it continues to compete against Apple Music.",
@@ -630,7 +914,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/why-do-ai-solutions-in-manufacturing-remain-at-the-pilot-project-level/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -872,7 +1156,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -914,306 +1198,6 @@
         "AI in Robotics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-focus-disney-creates-task-force-to-explore-ai-and-cut-costs-sources.md",
-      "title": "Focus: Disney creates task force to explore AI and cut costs -sources",
-      "excerpt": "Walt Disney has created a task force to study artificial intelligence and how it can be applied across the entertainment conglomerate, even as Hollywood writers and actors battle to limit the industry's exploitation of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/disney-creates-task-force-explore-ai-cut-costs-sources-2023-08-08/",
-      "originalUrl": "https://www.reuters.com/technology/disney-creates-task-force-explore-ai-cut-costs-sources-2023-08-08/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/p8BpMUM8j0AOd6lJJ-4005UBphg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KWTCYTVJCRIMPHR7UWZAZTFDTA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-10-ways-generative-ai-upends-the-traditional-database.md",
-      "title": "10 ways generative AI upends the traditional database",
-      "excerpt": "Generative AI isn't just for chatbots. Here are 10 ways AI and machine learning are transforming how we store, structure, and query data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.html",
-      "originalUrl": "https://www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/28/09/pcworld-the-2023-ultimate-ai-chatgpt-python-programming-bundle-100943992-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.amp.html",
-      "publishedDateTime": "2023-08-08T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-vsbltys-ai-technology-replaces-security-cards-for-office-building-access.md",
-      "title": "VSBLTY'S AI TECHNOLOGY REPLACES SECURITY CARDS FOR OFFICE BUILDING ACCESS",
-      "excerpt": "Authorized Employees Quickly Admitted Via Facial Recognition Technology PHILADELPHIA, Aug. 8, 2023 /PRNewswire/ -- VSBLTY Groupe Technologies",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-replaces-security-cards-for-office-building-access-1032527352",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-replaces-security-cards-for-office-building-access-1032527352",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg",
-          "width": 400,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-new-study-questions-how-long-until-failsafe-is-spelled-using-ai.md",
-      "title": "New Study Questions How Long Until “Failsafe” Is Spelled Using AI",
-      "excerpt": "A new study provides a muddled answer to whether Artificial Intelligence (AI) is the technological silver bullet and possibly a perspective on engineering responsibility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevetengler/2023/08/08/new-study-questions-how-long-until-failsafe-is-spelled-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/stevetengler/2023/08/08/new-study-questions-how-long-until-failsafe-is-spelled-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1393d57c475e0f516a7fe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2023/08/08/new-study-questions-how-long-until-failsafe-is-spelled-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2023/08/08/new-study-questions-how-long-until-failsafe-is-spelled-using-ai/amp/",
-      "publishedDateTime": "2023-08-08T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-aws-to-support-korean-startups-with-generative-ai-accelerator.md",
-      "title": "AWS to support Korean startups with Generative AI Accelerator",
-      "excerpt": "Amazon Web Services (AWS) will help Korean AI startups grow with its Generative AI Accelerator, a program that combines powerful AI tools with business, technical mentors and experts, the global-leading cloud computing service provider said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202308/01fe39d3e3a946b0bdd3a186fae09566.jpg",
-          "width": 980,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593",
-      "publishedDateTime": "2023-08-07T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-chinas-draft-measures-demand-individual-consent-for-facial-recognition-use.md",
-      "title": "China’s draft measures demand ‘individual consent’ for facial recognition use",
-      "excerpt": "The pervasive use of facial recognition technology across all facets of life in China has elicited both praise for its convenience and backlash around privacy concerns. The widespread adoption has also fueled the exponential growth of valuations in companies specializing in the field,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/",
-      "originalUrl": "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1128224709.jpg?resize=1200,799",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/amp/",
-      "publishedDateTime": "2023-08-07T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

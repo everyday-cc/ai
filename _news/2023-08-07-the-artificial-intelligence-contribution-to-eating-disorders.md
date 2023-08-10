@@ -24,43 +24,117 @@ images:
     isCached: true
 
 related:
-  - title: "Which Countries Will Win the AI Revolution?"
-    excerpt: "Artificial intelligence, like a lot of new technology, will most benefit nations with ambitious and innovative economies."
-    publishedDateTime: 2023-08-10T03:59:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-08-10/the-ai-revolution-which-countries-will-win"
+  - title: "How Today’s Top Marketing Leaders Are Approaching AI"
+    excerpt: "Many marketing leaders are embracing the technology, recognizing its staying power and acknowledging that marketers would do well to adapt or risk becoming irrelevant."
+    publishedDateTime: 2023-08-10T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Artificial Intelligence Will Drive Evolution, Not Extinction, for Financial Advisors"
-    excerpt: "Wealth management is a relationship-driven business. It takes an experienced financial professional with a keen understanding of behavioral finance to be a successful advisor."
-    publishedDateTime: 2023-08-07T16:19:00Z
-    webUrl: "https://www.wealthmanagement.com/technology/artificial-intelligence-will-drive-evolution-not-extinction-financial-advisors"
-    type: article
-    provider:
-      name: WealthManagement.com
-      domain: wealthmanagement.com
-    quality: 32
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/businessman-robot-binoculars.jpg"
-        width: 1540
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d3984e604bda7e4b0ed9f8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "RBC: These 19 stocks with an early lead in the AI revolution will continue to profit from rising demand in semiconductors, cloud computing, and more"
-    excerpt: "Companies jumping into AI now will set themselves up for long term success. RBC identified 19 stocks benefitting from AI developments today."
-    publishedDateTime: 2023-08-10T08:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-investing-strategy-rbc-2023-8"
+  - title: "This Startup Is Using AI To Increase Productivity And Reduce Meeting Mania"
+    excerpt: "With record buzz surrounding AI, consumers are eager to understand how new tools will impact their own lives. Productivity tools are one of the first aspects of technology that are ripe for innovation through AI. I recently spoke with Matt Martin, a veteran software developer and the co-founder of AI-driven calendar assistant Clockwise."
+    publishedDateTime: 2023-08-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c3cba41e471324dc16a7fe/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 317
+        isCached: true
+  - title: "Examining The Future Of Marketing In Light Of AI Concerns"
+    excerpt: "The more strategic, less brand-aligned functions scored the highest in terms of how defensible they are from being replaced by automation."
+    publishedDateTime: 2023-08-09T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/examining-the-future-of-marketing-in-light-of-ai-concerns/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "3 Millionaire-Making AI Stocks That Are Flying Under the Radar"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks have exploded to the upside in recent months. It isn’t too"
+    publishedDateTime: 2023-08-06T18:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-millionaire-making-ai-stocks-that-are-flying-under-the-radar-1032520445"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 28
+    quality: 49
+  - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
+    excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
+    publishedDateTime: 2023-08-08T11:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pioneering-trucking-industry-learning-with-artificial-intelligence-1032528295"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "How Artificial Intelligence Is Helping Today’s Small Businesses"
+    excerpt: "More small businesses are using artificial intelligence effectively, especially as pertains to marketing functions."
+    publishedDateTime: 2023-08-09T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Bringing Artificial Intelligence into the classroom"
+    excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
+    publishedDateTime: 2023-08-08T02:40:00Z
+    webUrl: "https://www.fox13news.com/video/1260378"
+    ampWebUrl: "https://www.fox13news.com/video/1260378.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1260378.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 37
+  - title: "Small businesses using AI are loving it"
+    excerpt: "A new survey finds that more than 90% of small business owners using artificial intelligence tools like ChatGPT say AI has made their businesses more successful."
+    publishedDateTime: 2023-08-09T09:00:00Z
+    webUrl: "https://www.aol.com/finance/small-businesses-using-ai-loving-060057295.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
     images:
-      - url: "https://i.insider.com/64d3e3f7a8ce53001a5942ea?width=1200&format=jpeg"
+      - url: "https://s.yimg.com/ny/api/res/1.2/TqsYkh7r5VfZvITF2W7x9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/4871c9241188d3f5a65fdc2bcc12d5c0"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
+  - title: "Here's how Michigan employers and employees are adapting to AI"
+    excerpt: "Employers need workers who are trained in AI platforms, giving a leg-up to job candidates who have those skills."
+    publishedDateTime: 2023-08-07T03:00:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/08/06/heres-how-michigan-employers-and-employees-are-adapting-to-ai/70384916007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
+  - title: "AI dating apps promise less ghosting, more matches"
+    excerpt: "The hardest part of dating, according to Daniel Liss, is the small talk. A digital entrepreneur whose previous ventures include the photo sharing site Dispo, Liss launched Teaser AI in June, marketing it as the app that leads to “less ghosting, more matches.”"
+    publishedDateTime: 2023-08-10T03:19:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-dating-apps-promise-less-ghosting-more-matches-71691595326473.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 19
   - title: "The Artificial Intelligence Contribution to Eating Disorders"
     excerpt: "Artificial intelligence has an eating disorder problem. Pro-anorexia chatbots are a mere consequence of some of the best tech-funded companies not doing enough to prevent the circulation of misleading"
     publishedDateTime: 2023-08-08T22:00:00Z
@@ -70,24 +144,6 @@ related:
       name: Omaha.com
       domain: omaha.com
     quality: 17
-  - title: "AI 'Brain' Technology by Rezolve Joins Forces with NAGA to Revolutionise Online Payment together with Brokerage Transformation"
-    excerpt: "Frankfurt listed, German Fintech leader, The NAGA Group A.G. (XETRA: N4G) (ISIN: DE000A161NR7), operator of the All-in-One Financial Super App, has announced a ground-breaking partnership with Rezolve AI Limited."
-    publishedDateTime: 2023-08-09T09:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/09/9861620.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "AI 'Brain' Technology by Rezolve Joins Forces with NAGA to Revolutionise Online Payment Together with Brokerage Transformation"
-    excerpt: "Frankfurt-listed, German Fintech leader, The NAGA Group A.G., operator of the All-in-One Financial Super App, has announced a ground-breaking partnership with Rezolve AI Limited. The integration of Rezolve's AI platform,"
-    publishedDateTime: 2023-08-09T19:27:00Z
-    webUrl: "https://financialit.net/news/payments/ai-brain-technology-rezolve-joins-forces-naga-revolutionise-online-payment-together"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 0
 
 secured: "Luj7B4FeoBQFhmN6z6vHqN+xDhkDJpxqI6bmh8tv7PGLrxqgzmkFRDgJfd3Ddsore7ytyrjtf9HCQ7GZmKmNfBAlZVVWwceIlbbCIbcxd7BYdlvghvJFH6g6ukeVmSfk2xkKqmKVFtnF6iR7Fndd998lpjM7Has+epUwPiS9Ns0jrNfcefqRIbFa/GZRnPijJd76GL6teWCYFYwd/OI33qbIZubhjF0RELS3V+EnimnsKLijKEnjarLTCsBTpg236tGE9D1xVWbkzh56++csvNuEiLyDH7CfUhL7u6swBcs8757EVs8EAIARWtBO3RWUplIiunNbfSdFceOp2zADZZFJI1GEEwY7+6gZa//2/dY=;BcUsXBmbtXa3X8VzsgXpUw=="
 ---

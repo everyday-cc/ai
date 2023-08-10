@@ -37,15 +37,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "How Artificial Intelligence Is Helping Today’s Small Businesses"
-    excerpt: "More small businesses are using artificial intelligence effectively, especially as pertains to marketing functions."
-    publishedDateTime: 2023-08-09T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "fMWEPVPCF1bvBkPwMLiAMn6JePG9WYLlZMUSkyWEHJGRxfY7jbZ1VfUhwQJc8bnGXbu7FHQxmCdNN8z3V8qa7ofH95iyDINRywD/FF4fVFQeFI213eOgPji6afUxbuAquIjZiMp35bsKPmzANuwAnb1ofkeP/VlbOn1MfTLipEqHQeRdjW2Pey9gUB9yUos8Ub2h1XdufvxKXLZcLnTc9NqG4ilakKSjhpf6CQyCjU8n1yDj9kjl5sdta7gEq8tVvHzXyHtnTyvsq9UVKSoJ60wYEOXO5+utM3v8b+y5goDIiGdrFTNL9F4l4dcS0fWAGS5NRDvVUzmD1hcChBW/QERTCuTuhi53TGXpGocR9ts=;p9Lmc4DgJZ1VQjBBITrIww=="
 ---

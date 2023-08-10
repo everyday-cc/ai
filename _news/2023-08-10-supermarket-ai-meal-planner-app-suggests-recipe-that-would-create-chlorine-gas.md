@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 372
     isCached: true
 
-secured: "bM6nKB0+VkqwgaEa+MgmHH3eZYQifXnmlnEe18wtdFirwKbUHPs6a2V38mfN6rdeZqJKfcbA7tl947ZIFW+42OjuOYcLsFmxdsb6SeOFHDc7MjUzm40qPE1LX9MS81skZ0HsG8xrA9fhI30BphXYUm6lkC2CYWeeHR1nzHjcQN5QxV2wCW8/4JPc2POAR5X1a7UbAW3/+KpJBEkbkMkh5dbriIleb1ZetSHXk2D2zegDZ9e+O0iHOCjhnczkUpJE8aogIR7DQ0ykBTeaqdh6Fblve8O9UOYFqat9F3h1ia105e9Gn/vpr89Hsv1OgBx+cN6u1NAcRt1yHoDuGHKTzCVXIl3DkjAJx0pNZn80aKE=;ALp8J00dkhCpVzryblIxcA=="
+related:
+  - title: "AI Meal Planner Recommends Recipe for Chlorine Gas: Report"
+    excerpt: "A supermarket’s artificial intelligence -powered meal planning app has recommended some odd dishes to customers, including one recipe which would create potentially lethal chlorine gas, according to a report."
+    publishedDateTime: 2023-08-10T10:17:00Z
+    webUrl: "https://www.thedailybeast.com/supermarkets-ai-meal-planner-recommends-recipe-for-chlorine-gas-report"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1769,w_3148,x_1513,y_366/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1691662243/PAK_nSAVE_Queenstown_ugrywc"
+        width: 1480
+        height: 832
+        isCached: true
+
+secured: "wtjhhIp5/Z0RXLy+hyDDpV2wFd5evVloSGnJLvJrovnCyPbrXxswgJrUUuWRlMdDMObPsJhIi9aJRJk1JCf37xvOjNSmeHyMzZ9I4Qozg5kRmep3UyqRFoGrqTS7Xu+aJJ5H4o8XmkeDrlsfbWNJBaYuctznmvii9hAdBh7qLA+uTS4stgE08ZxZJEg3BEjxte4Kfif5GoT6VSh3Ayo5F4C1yt4OrjQ56AkJaiW65DZSizNkBRhIYntenJ1ajW3CpKY+7wwpDQu9j7m7MTeNOo0cznVRNjGBfzgVbE12zpbAMiacaSYZ15dfGlaMSg+zw3wWiabr/pK7n6+vH/N5o47XdxVHXVV4BxU986F/Jq/BDcyz13DkJplAasArG47ntSqH3iwnEaHYd8wcoxTtxprz571EJbHWezrggTYR0DpKJqj0lAH5wCqZCf1/OAbYD6UUSSChh+GI11N/dWlPl8yNWVzB6UgT8VK6+ztaky+KWy+tXIijX5m9T6/XGIpMmT8m8O1WJiEzBUI9xDOGgA==;VW7wtyO5wZNrhvLFsW3Y0w=="
 ---
 

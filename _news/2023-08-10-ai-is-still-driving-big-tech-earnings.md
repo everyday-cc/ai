@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Examining The Future Of Marketing In Light Of AI Concerns"
-    excerpt: "The more strategic, less brand-aligned functions scored the highest in terms of how defensible they are from being replaced by automation."
-    publishedDateTime: 2023-08-09T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/examining-the-future-of-marketing-in-light-of-ai-concerns/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Artificial Intelligence is already radically altering the world of case management"
     excerpt: "Some of the brightest minds in the technologies of the future have been unusually vocal about the potential dangers of Artificial Intelligence (AI), with"
     publishedDateTime: 2023-08-09T08:23:00Z
@@ -67,15 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
-    excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
-    publishedDateTime: 2023-08-08T11:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pioneering-trucking-industry-learning-with-artificial-intelligence-1032528295"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Fear Of Ai In The West Is Misdirected"
     excerpt: "The fear of artificial intelligence is largely a Western phenomenon. It is virtually absent in Asia. In contrast, East Asia sees AI as an invaluable"
     publishedDateTime: 2023-08-07T07:32:00Z
@@ -118,17 +100,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Bringing Artificial Intelligence into the classroom"
-    excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
-    publishedDateTime: 2023-08-08T02:40:00Z
-    webUrl: "https://www.fox13news.com/video/1260378"
-    ampWebUrl: "https://www.fox13news.com/video/1260378.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1260378.amp"
-    type: article
-    provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 37
   - title: "China’s internet giants in $7.6b AI chip-buying frenzy"
     excerpt: "Baidu, ByteDance, Tencent and Alibaba are rushing to buy chips vital to building AI systems, amid concerns US President Joe Biden will soon clamp down on their export."
     publishedDateTime: 2023-08-10T02:58:00Z

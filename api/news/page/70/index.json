@@ -2,6 +2,254 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-06-26-today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-and-more.md",
+      "title": "Today in AI: How Artificial Intelligence can land you your dream job, AI in education and more",
+      "excerpt": "Recent report states that 99 per cent of the Fortune 500 utilise an application tracking system. These systems are powered by artificial intelligence and sort through large numbers of résumés, categorising them into \"yes\" and \"no\" categories according to keywords, years of experience, educational background, and other criteria.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html/amp",
+      "publishedDateTime": "2023-06-25T21:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape.md",
+      "title": "Future CEO Rishi Mandal: AI Fitness Doesn’t Address “Historical Barrier” Of Staying In Shape",
+      "excerpt": "Rishi Mandal is the co-founder and CEO of Future. Future is a digital fitness coaching app that connects elite performance fitness coaches to individuals virtually",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6498cdf2fa73fa357e8f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1409,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/amp/",
+      "publishedDateTime": "2023-06-25T16:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-cheers-can-ai-help-drinkers-buy-a-better-bottle-of-wine.md",
+      "title": "Cheers! Can AI help drinkers buy a better bottle of wine?",
+      "excerpt": "Artificial intelligence (AI) can't taste or smell - at least not yet - but it is now increasingly helping people buy a decent bottle of wine. Blake Hershey says that the inspiration for his AI-powered wine recommendation app Sippd came from his wife.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-65959815",
+      "originalUrl": "https://www.bbc.com/news/business-65959815",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/17EE/production/_130162160_gettyimages-186478070.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-65959815.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65959815.amp",
+      "publishedDateTime": "2023-06-25T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-mongodb-embraces-ai-reduces-developer-friction-with-new-features.md",
+      "title": "MongoDB Embraces AI & Reduces Developer Friction With New Features",
+      "excerpt": "Even if you haven’t heard of MongoDB, odds are good that you touch it in your daily online life. MongoDB has enabled more than 43,000 organizations to build solutions leveraging MongoDB technology, including some of the biggest names in technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6498b1426cfd34e2cf8daaa2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/",
+      "publishedDateTime": "2023-06-25T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-zoomerang-short-form-ai-video-platform-is-a-creative-innovation.md",
+      "title": "Zoomerang: Short-Form AI Video Platform Is A Creative Innovation",
+      "excerpt": "This article introduces Zoomerang a short form AI video platform that is democratizing video production for the masses, and creating a market place with Smart AI methods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6498a0bb52c8bb875a8f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/amp/",
+      "publishedDateTime": "2023-06-25T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-if-aliens-contact-earth-it-may-not-be-humans-who-get-the-call-expert.md",
       "title": "If aliens contact Earth, it may not be humans who get the call: expert",
       "excerpt": "A Harvard professor of astronomy is predicting extraterrestrials will make contact with artificial intelligence before humans, due to aliens potentially feeling a \"kinship\" with human technology.",
@@ -922,211 +1170,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-nervous-about-ai-many-internet-creators-consider-it-a-tool-not-a-threat.md",
-      "title": "Nervous about AI? Many Internet creators consider it a tool, not a threat.",
-      "excerpt": "Samir Chaudry, co-host of “The Colin and Samir Show,” said he’s encouraging his entire team to use AI in their day-to-day jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/ai-internet-creators-excitement-rcna89790",
-      "originalUrl": "https://www.nbcnews.com/tech/ai-internet-creators-excitement-rcna89790",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230622-vidcon-ai-lr-97d957.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna89790",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna89790",
-      "publishedDateTime": "2023-06-23T17:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-study-explores-the-use-of-deep-learning-algorithm-to-detect-occlusal-caries.md",
-      "title": "Study explores the use of deep learning algorithm to detect occlusal caries",
-      "excerpt": "A diagnostic study on the detection of occlusal caries from a clinical photograph using a deep learning algorithm will be presented at the 101st General Session of the IADR, which will be held in conjunction with the 9th Meeting of the Latin American Region and the 12th World Congress on Preventive Dentistry on June 21-24,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/992913",
-      "originalUrl": "https://www.eurekalert.org/news-releases/992913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-the-next-trillion-dollar-ai-companies-hidden-in-plain-sight.md",
-      "title": "The Next Trillion-Dollar AI Companies Hidden in Plain Sight",
-      "excerpt": "IBM is riding the current of both of these powerful megatrends. “IBM Watson” is the company’s core AI offering. It integrates with the Red Hat hybrid cloud to enable companies to pool data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-next-trillion-dollar-ai-companies-hidden-in-plain-sight",
-      "originalUrl": "https://www.nasdaq.com/articles/the-next-trillion-dollar-ai-companies-hidden-in-plain-sight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-forget-chatgpt-facial-recognition-emerges-as-ai-rulebooks-make-or-break-issue.md",
-      "title": "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue",
-      "excerpt": "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/?mid=1",
-      "originalUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/?mid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/14/GettyImages-1247531079-scaled.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/?mid=1",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/?mid=1",
-      "publishedDateTime": "2023-06-23T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-why-smart-ai-regulation-is-vital-for-innovation-and-us-leadership.md",
-      "title": "Why smart AI regulation is vital for innovation and US leadership",
-      "excerpt": "With all this possibility, can such an amazing technology also be bad? Some of the concerns around AI platforms are legitimate.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/",
-      "originalUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1495170962.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/",
-      "publishedDateTime": "2023-06-23T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

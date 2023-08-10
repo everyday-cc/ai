@@ -24,31 +24,126 @@ images:
     isCached: true
 
 related:
-  - title: "Authors are losing their patience with AI, part 349235"
-    excerpt: "Prosecraft creator Benji Smith took down his database of 27,000 books, which were scraped without authors' consent."
-    publishedDateTime: 2023-08-07T22:09:00Z
-    webUrl: "https://techcrunch.com/2023/08/07/authors-ai-prosecraft/"
-    ampWebUrl: "https://techcrunch.com/2023/08/07/authors-ai-prosecraft/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/07/authors-ai-prosecraft/amp/"
+  - title: "How Today’s Top Marketing Leaders Are Approaching AI"
+    excerpt: "Many marketing leaders are embracing the technology, recognizing its staying power and acknowledging that marketers would do well to adapt or risk becoming irrelevant."
+    publishedDateTime: 2023-08-10T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1065679054.jpg?resize=1200,849"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d3984e604bda7e4b0ed9f8/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 849
+        height: 675
         isCached: true
-  - title: "Lessons from finance’s experience with artificial intelligence"
-    excerpt: "PREMIUM Ai and machine-learning funds seemed like the final step in the march of the robots.(REUTERS) This rule appears to hold for artificial intelligence (ai) and machine learning, which were first employed by hedge funds decades ago,"
-    publishedDateTime: 2023-08-05T19:47:00Z
-    webUrl: "https://www.hindustantimes.com/business/lessons-from-finance-s-experience-with-artificial-intelligence-101691260940066.html"
+  - title: "This Startup Is Using AI To Increase Productivity And Reduce Meeting Mania"
+    excerpt: "With record buzz surrounding AI, consumers are eager to understand how new tools will impact their own lives. Productivity tools are one of the first aspects of technology that are ripe for innovation through AI. I recently spoke with Matt Martin, a veteran software developer and the co-founder of AI-driven calendar assistant Clockwise."
+    publishedDateTime: 2023-08-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
     type: article
     provider:
-      name: Hindustan Times
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c3cba41e471324dc16a7fe/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 317
+        isCached: true
+  - title: "Examining The Future Of Marketing In Light Of AI Concerns"
+    excerpt: "The more strategic, less brand-aligned functions scored the highest in terms of how defensible they are from being replaced by automation."
+    publishedDateTime: 2023-08-09T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/examining-the-future-of-marketing-in-light-of-ai-concerns/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "3 Millionaire-Making AI Stocks That Are Flying Under the Radar"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks have exploded to the upside in recent months. It isn’t too"
+    publishedDateTime: 2023-08-06T18:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-millionaire-making-ai-stocks-that-are-flying-under-the-radar-1032520445"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
+    excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
+    publishedDateTime: 2023-08-08T11:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pioneering-trucking-industry-learning-with-artificial-intelligence-1032528295"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "How Artificial Intelligence Is Helping Today’s Small Businesses"
+    excerpt: "More small businesses are using artificial intelligence effectively, especially as pertains to marketing functions."
+    publishedDateTime: 2023-08-09T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "The Artificial Intelligence Contribution to Eating Disorders"
+    excerpt: "According to an article posted in the Washington Post, artificial intelligence has an eating disorder problem. Pro-anorexia chatbots are a mere consequence of some of the best tech-funded companies no"
+    publishedDateTime: 2023-08-07T16:35:00Z
+    webUrl: "https://www.wyomingnews.com/news/national/the-artificial-intelligence-contribution-to-eating-disorders/video_21c99039-d078-5fe4-a064-dc0f74a58fd8.html"
+    type: article
+    provider:
+      name: Wyoming News
+      domain: wyomingnews.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/2/1c/21c99039-d078-5fe4-a064-dc0f74a58fd8/64d11fc31e0fc.image.jpg?crop=1641%2C862%2C0%2C30&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Bringing Artificial Intelligence into the classroom"
+    excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
+    publishedDateTime: 2023-08-08T02:40:00Z
+    webUrl: "https://www.fox13news.com/video/1260378"
+    ampWebUrl: "https://www.fox13news.com/video/1260378.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1260378.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 37
+  - title: "Here's how Michigan employers and employees are adapting to AI"
+    excerpt: "Employers need workers who are trained in AI platforms, giving a leg-up to job candidates who have those skills."
+    publishedDateTime: 2023-08-07T03:00:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/08/06/heres-how-michigan-employers-and-employees-are-adapting-to-ai/70384916007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
+  - title: "AI dating apps promise less ghosting, more matches"
+    excerpt: "The hardest part of dating, according to Daniel Liss, is the small talk. A digital entrepreneur whose previous ventures include the photo sharing site Dispo, Liss launched Teaser AI in June, marketing it as the app that leads to “less ghosting, more matches.”"
+    publishedDateTime: 2023-08-10T03:19:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-dating-apps-promise-less-ghosting-more-matches-71691595326473.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
       domain: hindustantimes.com
-    quality: 36
+    quality: 19
+  - title: "The Artificial Intelligence Contribution to Eating Disorders"
+    excerpt: "Artificial intelligence has an eating disorder problem. Pro-anorexia chatbots are a mere consequence of some of the best tech-funded companies not doing enough to prevent the circulation of misleading"
+    publishedDateTime: 2023-08-08T22:00:00Z
+    webUrl: "https://omaha.com/life-entertainment/nation-world/technology/the-artificial-intelligence-contribution-to-eating-disorders/video_89389748-9c2e-55ff-88f5-8193dfb22db3.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 17
 
 secured: "Cn7cKysE1A//9zdhx33I12rBGyypg5RlhPfxKy8fPVANNJMaNG7KnOSpOx0avFsn7U3hOlG4ehH5iBBkF2oZJrcZVodxseq9acIV0km7wWbElZbyODWHL0jIg0WC1bUAEOf5q3aI9aNv3qikA34YIvoJUf27N431cHkUkvfszmT6ZHL+2p9eYgpvmvXwDi1Q3p7gzKAUMZKfhh4t8NQoEXAlj/JbXYj1oB/ISSEeB0+HRtOIuKtQejYwAMXehPIR3Nny8DGSiCVnib09Vj4pEoWTZw6kMLlbT0+ZCFbadUBtkGLSqEBdgnsp0lWb7y+5TlW9eiQceNz1tyq9w6QCr34y9WLkWYXGm5Wy3Ba4RwJDf8ySFo+IJh91U4z6a9c/IVH/AHdTLGgKYZ8lDM7nmFZcocdhZqMF+MhH4TF9k6eOzWo+6VgTblMQeGsWI8GrKu2hwKKf8keFtX//tjWIKsww8SdhHT4YKC0yAkRJRmSEZy8j+Eiqv7tLbfgHFGKeliUdR2iyrMJQ0r8slnbP3Q==;e2HeArwKdKMzNLEmUmbnGA=="
 ---

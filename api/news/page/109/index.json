@@ -2,6 +2,238 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2023-05-31-ai-is-the-future-of-health-care-but-heres-what-it-can-never-replace.md",
+      "title": "AI is the future of health care, but here's what it can never replace",
+      "excerpt": "AI should be viewed as a tool to assist a physician by removing tedious administrative tasks, enhancing diagnostic capability, and improving patient outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace",
+      "originalUrl": "https://www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cd60392-d2ad-44a6-81e7-6e274b66a4ae/2d72dd9f-59e1-4876-970b-40c3f8b45c87/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace.amp",
+      "publishedDateTime": "2023-05-30T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-top-ai-researchers-and-ceos-warn-against-risk-of-extinction-in-22-word-statement.md",
+      "title": "Top AI researchers and CEOs warn against ‘risk of extinction’ in 22-word statement",
+      "excerpt": "This statement, published by a San Francisco-based non-profit, the Center for AI Safety, has been co-signed by figures including Google DeepMind CEO Demis Hassabis and OpenAI CEO Sam Altman ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/5/30/23742005/ai-risk-warning-22-word-statement-google-deepmind-openai",
+      "originalUrl": "https://www.theverge.com/2023/5/30/23742005/ai-risk-warning-22-word-statement-google-deepmind-openai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/TVAPXNsHjyXzjCHMtXTMFKUQstA=/0x0:1275x700/1200x628/filters:focal(638x350:639x351)/cdn.vox-cdn.com/uploads/chorus_asset/file/24690541/AlexaSteinbru_ck_ExplainableAI_1275x700.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-deepfaking-it-americas-2024-election-collides-with-ai-boom.md",
+      "title": "Deepfaking it: America's 2024 election collides with AI boom",
+      "excerpt": "Thousands of deepfakes are surfacing on social media, blurring fact and fiction in the polarized world of U.S. politics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/",
+      "originalUrl": "https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/mg_Z3flbGFCYf_PGJ98qsWZc7Gc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W2AOGF7FCFKJ5PN6UOL7GVR7VM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T19:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs.md",
+      "title": "AI extinction risk warning backed by OpenAI, DeepMind chiefs",
+      "excerpt": "Explore the debate on AI's potential threat to humanity, featuring experts from OpenAI, Google DeepMind, and more discussing extinction risks and solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs",
+      "originalUrl": "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thethaiger.com/wp-content/uploads/2023/05/129902572_gettyimages-1257740282.jpg",
+          "width": 976,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs/amp",
+      "cdnAmpWebUrl": "https://thethaiger-com.cdn.ampproject.org/c/s/thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs/amp",
+      "publishedDateTime": "2023-05-30T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Thaiger",
+        "domain": "thethaiger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram.md",
+      "title": "Artificial intelligence brings Mona Lisa to life as a hologram",
+      "excerpt": "Lead author Dr. Yue-Sheng Wang, of Tianjin University, China, said: \"We chose to recreate the Mona Lisa as a proof of concept. It is so famous almost everyone knows about it. \"It is filled with countless delicate and subtle transitions of layers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lebanondemocrat.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_67801f58-6d9d-54f7-9349-7602267d6793.html",
+      "originalUrl": "https://www.lebanondemocrat.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_67801f58-6d9d-54f7-9349-7602267d6793.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Lebanon Democrat",
+        "domain": "lebanondemocrat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-putting-artificial-intelligence-to-work-in-cancer-diagnosis-and-treatment.md",
       "title": "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment",
       "excerpt": "Artificial intelligence's future involvement in healthcare, particularly in the detection and treatment of cancer, is anticipated to take a variety of forms, ranging from identifying a specific form of cancer to evaluating which therapy method may best ...",
@@ -936,242 +1168,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-amazon-sagemaker-xgboost-now-offers-fully-distributed-gpu-training.md",
-      "title": "Amazon SageMaker XGBoost now offers fully distributed GPU training",
-      "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-xgboost-now-offers-fully-distributed-gpu-training/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-xgboost-now-offers-fully-distributed-gpu-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/30/sagemaker-xgboost-gpu-training.jpg",
-          "width": 1024,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T10:29:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-legged-robots-learn-dynamic-physical-characteristics-of-terrains-like-animals.md",
-      "title": "Legged robots learn dynamic physical characteristics of terrains like animals",
-      "excerpt": "endowing the robot with physical artificial intelligence. Credit: Science China Press Finally, the work conducts both indoor and outdoor hardware experiments, and the experimental results demonstrate that the proposed approach can effectively help robots ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-05-legged-robots-dynamic-physical-characteristics.html",
-      "originalUrl": "https://techxplore.com/news/2023-05-legged-robots-dynamic-physical-characteristics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/legged-robots-learn-dy.jpg",
-          "width": 2707,
-          "height": 1225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-05-legged-robots-dynamic-physical-characteristics.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-legged-robots-dynamic-physical-characteristics.amp",
-      "publishedDateTime": "2023-05-30T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter.md",
-      "title": "OpenAI execs warn of “risk of extinction” from artificial intelligence in new open letter",
-      "excerpt": "On Tuesday, the Center for AI Safety (CAIS) released a single-sentence statement signed by executives from OpenAI and DeepMind, Turing Award winners, and other AI researchers warning that their life's work could potentially extinguish all of humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 317,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/world_dominating_AI_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/",
-      "publishedDateTime": "2023-05-30T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-ge-healthcare-receives-fda-clearance-of-a-new-deep-learning-solution-for-enhanced-image-quality-in-petct-advancing-its-leadership-position.md",
-      "title": "GE HealthCare Receives FDA Clearance of a New Deep Learning Solution for Enhanced Image Quality in PET/CT, Advancing its Leadership Position in AI",
-      "excerpt": "GE HealthCare (Nasdaq: GEHC) today announced US FDA 510(k) clearance of Precision DL – a new, revolutionary deep learning-based image processing software included in GE HealthCare’s growing Effortless Recon DL portfolio. Precision DL provides the image ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/ge-healthcare-receives-fda-clearance-of-a-new-deep-learning-solution-for-enhanced-image-quality/article_5c89fef1-fd44-59dd-bbcc-c8791007d7c0.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/ge-healthcare-receives-fda-clearance-of-a-new-deep-learning-solution-for-enhanced-image-quality/article_5c89fef1-fd44-59dd-bbcc-c8791007d7c0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-artificial-intelligence-could-one-day-cause-human-extinction-center-for-ai-safety-warns.md",
-      "title": "Artificial intelligence could one day cause human extinction, center for AI safety warns",
-      "excerpt": "Worries about artificial intelligence systems outsmarting humans and running wild have intensified with the rise of a new generation of highly capable AI chatbots such as ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.palmbeachpost.com/story/tech/news/2023/05/30/ai-may-cause-human-extinction-experts-warn/70269260007/",
-      "originalUrl": "https://www.palmbeachpost.com/story/tech/news/2023/05/30/ai-may-cause-human-extinction-experts-warn/70269260007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/05/27/NOKL/d325769a-e0c6-4e71-9a68-4053f00561ba-AP23136685324254.jpg?auto=webp&crop=5745,3232,x0,y292&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Palm Beach Post",
-        "domain": "palmbeachpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

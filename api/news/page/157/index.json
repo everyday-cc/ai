@@ -2,6 +2,238 @@
   "page": 157,
   "value": [
     {
+      "path": "_news/2023-05-02-how-artificial-intelligence-is-already-powering-work-in-bc.md",
+      "title": "How artificial intelligence is already powering work in B.C.",
+      "excerpt": "These are some of the novel ways in which B.C. companies are using machine learning and artificial intelligence – and to the clear potential benefit of humanity. But like nuclear fission, machine super-intelligence is a Promethean power with the potential to be corrupted,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prpeak.com/technology/how-artificial-intelligence-is-already-powering-work-in-bc-6938262",
+      "originalUrl": "https://www.prpeak.com/technology/how-artificial-intelligence-is-already-powering-work-in-bc-6938262",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/biv/sanctuaryai-robotopensbag-small-sub.jpg;w=938;h=527;mode=crop",
+          "width": 938,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Powell River Peak",
+        "domain": "prpeak.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-how-will-ai-impact-the-jobs-of-digital-marketers.md",
+      "title": "How Will AI Impact The Jobs Of Digital Marketers?",
+      "excerpt": "AI can automate certain tasks and processes, but it cannot replicate the creativity, intuition and unique perspective that individual marketers bring to their work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/",
+      "publishedDateTime": "2023-05-02T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution.md",
+      "title": "Botkeeper Operating System (BOS) Awarded for Artificial Intelligence / Machine Learning Solution",
+      "excerpt": "The Botkeeper Operating System (BOS) is designed to ease capacity issues by automating the bookkeeping work that slows firms down and deprives their growing advisory service practices of needed resources.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution-1032281956",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution-1032281956",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2066404/Botkeeper_Bronze_Winner.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-atari-and-anima-turn-classic-arcade-game-characters-into-ar-and-ai-onlybots.md",
+      "title": "Atari and Anima turn classic arcade game characters into AR and AI Onlybots",
+      "excerpt": "Gaming companies Atari and Anima have joined forces to bring iconic Atari characters into Anima's Onlybots AI and augmented reality universe.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/",
+      "originalUrl": "https://venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Atari-x-Onlybots.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/amp/",
+      "publishedDateTime": "2023-05-02T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-ai-could-create-religions-to-control-humans-warns-sapiens-author-harari.md",
+      "title": "AI could create religions to control humans, warns Sapiens author Harari",
+      "excerpt": "The world could soon see the first religion that attracts devotees with sacred texts created by artificial intelligence, the historian Yuval Noah Harari has s",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=a6f2bbfb6db6f3e078309f8250e3938f&trk=public_post_comment-text",
+      "originalUrl": "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=a6f2bbfb6db6f3e078309f8250e3938f&trk=public_post_comment-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
       "title": "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions",
       "excerpt": "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions May 02, 2023 (PRNewswire via COMTEX) -- PR Newswire WALLDORF, Germany and ARMONK,",
@@ -994,214 +1226,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling.md",
-      "title": "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling",
-      "excerpt": "The AWS DeepRacer event, hosted last Friday by simulation technology provider Computer Modeling Group (CMG) in Calgary, showed how access to the right resources, a good old showdown and attractive ...",
-      "sourceUrl": null,
-      "webUrl": "https://windsorstar.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/wcm/941cf965-d5ee-416f-a8fa-9852da842282",
-      "originalUrl": "https://windsorstar.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/wcm/941cf965-d5ee-416f-a8fa-9852da842282",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/05/deepracer2-1024x768-1.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windsor Star",
-        "domain": "windsorstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-deep-neural-network-provides-robust-detection-of-disease-biomarkers-in-real-time.md",
-      "title": "Deep neural network provides robust detection of disease biomarkers in real time",
-      "excerpt": "The deep neural network he developed classifies particle ... a relatively cheap edge device for accelerated execution of artificial intelligence algorithms. This means the system also requires ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/05/230502155410.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/05/230502155410.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-deere-nysede-an-under-the-radar-ai-and-robotics-stock.md",
-      "title": "Deere (NYSE:DE): An Under-the-Radar AI and Robotics Stock",
-      "excerpt": "Deere has also been busy acquiring a number of AI and robotic startups in recent years ... to smaller deals like its 2021 acquisition of Silicon Valley AgTech startup Bear Flag Robotics and its March 2023 acquisition of SparkAI. Despite these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/deere-nyse%3Ade%3A-an-under-the-radar-ai-and-robotics-stock",
-      "originalUrl": "https://www.nasdaq.com/articles/deere-nyse%3Ade%3A-an-under-the-radar-ai-and-robotics-stock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-neural-networks-on-photonic-chips-harnessing-light-for-ultra-fast-and-low-power-artificial-intelligence.md",
-      "title": "Neural networks on photonic chips: harnessing light for ultra-fast and low-power artificial intelligence",
-      "excerpt": "Neural networks are distributed computing structures ... These technologies now form the basis of machine learning and artificial intelligence systems that can perceive the environment and adapt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/987977",
-      "originalUrl": "https://www.eurekalert.org/news-releases/987977",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d02d0e6e-74db-4b7b-8700-7198b1f721e5/Rendition/thumbnail/Content/Public",
-          "width": 300,
-          "height": 212,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-would-you-have-a-computer-chip-installed-in-your-brain-the-tech-is-here.md",
-      "title": "Would you have a computer chip installed in your brain? The tech is here",
-      "excerpt": "Would you have a computer chip implanted in your brain? Now, what if that tech could combat paralysis, crippling depression, deafness or blindness? Sounds like a science fiction novel, but the tech is here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.komando.com/technology/brain-computer-chips/885367/",
-      "originalUrl": "https://www.komando.com/technology/brain-computer-chips/885367/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.komando.com/wp-content/uploads/2023/05/kk-article-20230502-brain-implants-the-future-is-now-1200x675-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.komando.com/technology/brain-computer-chips/885367/?amp",
-      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/brain-computer-chips/885367/?amp",
-      "publishedDateTime": "2023-05-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kim Komando",
-        "domain": "komando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

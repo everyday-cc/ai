@@ -41,20 +41,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Journalists seek regulations to govern fast-moving artificial intelligence technology"
-    excerpt: "Several news organizations, writers and photographers groups are pushing to be involved in creating standards for the use of artificial"
-    publishedDateTime: 2023-08-09T20:39:00Z
-    webUrl: "https://mynorthwest.com/3918712/journalists-seek-regulations-to-govern-fast-moving-artificial-intelligence-technology/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 32
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
-        width: 452
-        height: 282
-        isCached: true
 
 secured: "fehtWZPW/pTJeI0p+6nR13McUT6SMryfojcW4gYdKWV97dn535325PlwdHPJRD5rYui7yuW8bEdI6xkdwqOpHPiANauAu27ktfTo1SLFlJ5fZHE+zAslKhQwV9sCsVYGODGbI2oX3sUeJ2/Bs16GZPkz4BTa5vU9It6JtaDu1fONsGiopE8EsY//7VDRsHUpShqmUl9p76oxfrrLSOrHUP2izl3QHkMpkYQg8SLIr3F/ZMYjKbLY3sq3arwIRDz7dxyMaEhPJRqv8IkshFegH1mW++GfRIPStR/X7U9+tlJefjQOqh/lby0Z9PN7Y6xYe4ru1ubQZ0nxxplS9ImFOok6MgNZ1qi1GooJ9BRRsxBAf8okaVBsrNZwPE/rMp7uY8HiYORvirAmlAJbGfZRkDrf8/kbTFaanpXoBPDCM+MRZ5Hry4ND8+Jt69SqBtVJ3M2P3XejFyUzISvO5E18wpt3NO+e9qh5fRMZAhkx0ZjENJhNjzTpgH9PnTJ8dPVaHPnNwaafRZ9drOU2p7jOUA==;xPUt0G4YirDvssDZ0fGlrA=="
 ---

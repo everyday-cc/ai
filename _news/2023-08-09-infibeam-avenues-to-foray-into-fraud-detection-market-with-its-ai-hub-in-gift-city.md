@@ -7,7 +7,7 @@ originalUrl: "https://inc42.com/buzz/infibeam-avenues-to-foray-into-fraud-detect
 webUrl: "https://inc42.com/buzz/infibeam-avenues-to-foray-into-fraud-detection-market-with-its-ai-hub-in-gift-city/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Infibeam Avenues Ltd to include AI on its platform"
+    excerpt: "According to an official release, Infibeam Avenues Ltd, an Indian fintech company, announced its plans to include Artificial Intelligence (AI) to create an AI-based fraud detection market. The company expects to establish India’s first Artificial Intelligence (AI) HUB at the Gujarat International Finance Tec-City (GIFT City)."
+    publishedDateTime: 2023-08-10T10:00:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik267.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Infibeam Avenues posts Rs 27 Cr profit in Q1FY24; to set up AI Hub in GIFT city"
     excerpt: "Payments infrastructure company Infibeam Avenues also said it will list its digital marketing subsidiary—Odigma Consultancy Solutions—on Indian exchanges."
     publishedDateTime: 2023-08-08T12:32:00Z

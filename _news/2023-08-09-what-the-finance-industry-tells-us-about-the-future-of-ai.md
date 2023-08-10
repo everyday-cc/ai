@@ -25,34 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "The AI Industry Faces a Shortage of Powerful Chips"
-    excerpt: "The AI industry is facing an acute shortage of GPU chips which are instrumental for training and developing AI models."
-    publishedDateTime: 2023-08-07T13:42:00Z
-    webUrl: "https://techreport.com/news/the-ai-industry-faces-a-shortage-of-powerful-chips/"
+  - title: "AI could soon tell you the future value of your home"
+    excerpt: "MIT used an AI bot to make what researchers called \"very accurate\" predictions for how home prices would change over time."
+    publishedDateTime: 2023-08-10T10:15:00Z
+    webUrl: "https://www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8?amp"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
     images:
-      - url: "https://techreport.com/wp-content/uploads/2023/08/shutterstock_1395644348.jpg"
-        width: 1000
-        height: 615
+      - url: "https://i.insider.com/64d3e32dec14ba0019f3859e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "The big bottleneck for AI: a shortage of powerful chips"
-    excerpt: "The crushing demand for AI has also revealed the limits of the global supply chain for powerful chips used to develop and field AI models."
-    publishedDateTime: 2023-08-06T11:02:00Z
-    webUrl: "https://www.aol.com/finance/big-bottleneck-ai-shortage-powerful-080222850.html"
+  - title: "Artificial Intelligence Can’t Predict the Future"
+    excerpt: "AI uses current data and history to make recommendations and can’t consider unexpected events, such as hurricanes, or changing realities, such as \"black swan\" events."
+    publishedDateTime: 2023-08-08T18:42:00Z
+    webUrl: "https://www.floridarealtors.org/news-media/news-articles/2023/08/artificial-intelligence-cant-predict-future"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://media.zenfs.com/en/aol_cnn_business_articles_764/301d06960d11b7db89fd6a6c72e4610e"
-        width: 960
-        height: 540
-        isCached: true
+      name: FloridaRealtors.org
+      domain: floridarealtors.org
+    quality: 17
 
 secured: "7gRUZFl5ZPhVbz71EmYIrnAa7mfprpaJK7QlygQ4B4QmCspKiWlsg3qPh9Wxbh2gvy+3wXZw2CPhdtLfzDE57m1RpKRBz5wSa1tKzZ6oDxsIDeZULu1ltOqTMzFfIL/VCklQ629YB2UE1AdlBagdRNlhstMqeGKgdzF5q3e1+segxxH3dOxz6xhI94Ksx/gBe0Jk+UN1UHDSAQ+lG+c4hxVXlAHuA4uw4HmHzogY2//1V/wag4CzYLieahkAUNCVjmbRx3qx/q97tVmAhqy4ns1faXyVbyicrqf7a8axuxq6fCTQiaECTFRq6yiY0iIzvMxfdGl0Cu8G6PVAp9ITZaHHzCjHaHGLg3sV7NulR98Ept5icRH/UcnbAVXlRitf5jg+4XSp4BPsyAhdwlzo0PAYIZiOT0l3RYwZAIqw6W5SxZ18Hl7brYdmdhV0XWcRtMOwQM3jp1OM1R06Jx+4fLZjD05k+95yGv4xX7FwJ1MEX6rK8XPIS3XRy9cm2M+EXbMuFPs5SjJAqUXudaXiMg==;jrTmJCd1D8gRzPPTwNGTWg=="
 ---

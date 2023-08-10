@@ -2,6 +2,225 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2023-06-01-security-becomes-much-bigger-issue-for-aiml-chips-tools.md",
+      "title": "Security Becomes Much Bigger Issue For AI/ML Chips, Tools",
+      "excerpt": "Security is becoming a bigger issue in AI and machine learning chips, in part because the chip industry is racing just to get new devices working, and in part because it’s difficult to secure a new technology that is expected to adapt over time.",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/security-becomes-much-bigger-issue-for-ai-ml-chips-tools/",
+      "originalUrl": "https://semiengineering.com/security-becomes-much-bigger-issue-for-ai-ml-chips-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/AdobeStock_436324709-security-05-08-23-scaled.jpeg?fit=2560%2C1181&ssl=1",
+          "width": 2560,
+          "height": 1181,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-wall-street-breakfast-deep-learning.md",
+      "title": "Wall Street Breakfast: Deep Learning",
+      "excerpt": "Investors will have some deep learning to do after being consumed by everything AI this year, especially as they sort through the growing list of companies talking up how they've been AI plays all ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4608736-wall-street-breakfast-deep-learning",
+      "originalUrl": "https://seekingalpha.com/article/4608736-wall-street-breakfast-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1452604857/image_1452604857.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-the-top-5-ai-careers-in-2023-unlocking-the-potential-of-artificial-intelligence.md",
+      "title": "The Top 5 AI Careers in 2023: Unlocking the Potential of Artificial Intelligence",
+      "excerpt": "Artificial intelligence has become next big thing, paving the way for exciting career opportunities. From machine learning to robotics, AI careers have expanded across various domains. In this article,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
+      "originalUrl": "https://www.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/67921/ai-career.jpg",
+          "width": 1600,
+          "height": 884,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
+      "publishedDateTime": "2023-05-31T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance.md",
+      "title": "The Rise of In-House AI Chip Production by Tech Giants Threatens Nvidia’s Dominance",
+      "excerpt": "Nvidia Corporation (NASDAQ: NVDA), a leading player in the field of artificial intelligence (AI), has enjoyed a strong competitive advantage with its AI moat.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance/",
+      "originalUrl": "https://techstory.in/the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2023/06/NVIDIA-Logo-inside-at-angle.jpg",
+          "width": 1920,
+          "height": 1081,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
+      "excerpt": "It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper. Such chips have suddenly taken center stage in what some experts ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108",
+      "publishedDateTime": "2023-05-31T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-singapore-regulator-says-ai-is-focus-of-marquee-fintech-festival.md",
       "title": "Singapore Regulator Says AI is Focus of Marquee Fintech Festival",
       "excerpt": "Artificial intelligence will take center stage at Singapore’s annual fintech event in November, underscoring the growing significance of the technology.",
@@ -907,257 +1126,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-ai-has-created-areas-so-grey-you-could-write-a-song-about-it.md",
-      "title": "AI has created areas so grey, you could write a song about it",
-      "excerpt": "and none have been implanted with a chip. Unfortunately, we're now at a stage where we can no longer easily distinguish between humans and robots. We've not reached the all-controlling level of Skynet yet, but the power of AI today marks a pivotal point ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-has-created-areas-so-grey-you-could-write-a-song-about-it/",
-      "originalUrl": "https://www.zdnet.com/article/ai-has-created-areas-so-grey-you-could-write-a-song-about-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2c398a01a6145e10748f3bc9f2dc34d728e702fb/2023/05/31/4e3affe5-72fc-43b4-80e0-51c48957c5d9/gettyimages-1073941846.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-has-created-areas-so-grey-you-could-write-a-song-about-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-has-created-areas-so-grey-you-could-write-a-song-about-it/",
-      "publishedDateTime": "2023-05-31T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-nvidia-soars-to-1-trillion-market-cap-on-the-back-of-ai-hype.md",
-      "title": "Nvidia Soars to $1 Trillion Market Cap on the Back of AI Hype",
-      "excerpt": "Just last week, Nvidia’s stock rose a startling 26 percent, after the company unveiled better-than-expected quarterly earnings that were tied to its central role in the ongoing “AI revolution.”",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/ai-nvidia-stock-price-gpu-1-trillion-market-cap-1850486906",
-      "originalUrl": "https://gizmodo.com/ai-nvidia-stock-price-gpu-1-trillion-market-cap-1850486906",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/25336e482c69c6b8923398c39836f0dc.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-ai-startup-c3ais-stock-plunges-20-after-softer-revenue-guidance.md",
-      "title": "AI startup C3.ai’s stock plunges 20% after softer revenue guidance",
-      "excerpt": "The company's stock skidded 14% in the minutes leading up to its quarterly financial results. And when C3.ai reported mere minutes before its earnings",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=newsroom-roster",
-      "originalUrl": "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=newsroom-roster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-789589/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66",
-      "publishedDateTime": "2023-05-31T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-aws-picks-biotech-startup-for-ai-accelerator-program.md",
-      "title": "AWS picks biotech startup for AI accelerator program",
-      "excerpt": "Ordaos, a drug design company, was selected for the AWS Generative AI Accelerator, a mentorship program for companies working with generative artificial intelli",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html",
-      "originalUrl": "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know.md",
-      "title": "The Founder Of Artificial Intelligence Sounds The Alarm: 4 Major Risks You Need To Know",
-      "excerpt": "With a BA in Experimental Psychology from the University of Cambridge (1970) and a PhD in Artificial Intelligence from the University of Edinburgh (1978), the 75-year-old has decided to blow the whistle on the technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikepatton/2023/05/31/the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/mikepatton/2023/05/31/the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6477aeef76a632df0c0e1092/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 855,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikepatton/2023/05/31/the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikepatton/2023/05/31/the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know/amp/",
-      "publishedDateTime": "2023-05-31T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

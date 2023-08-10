@@ -32,15 +32,6 @@ related:
       name: Google
       domain: blog.google
     quality: 69
-  - title: "How Artificial Intelligence Is Helping Today’s Small Businesses"
-    excerpt: "More small businesses are using artificial intelligence effectively, especially as pertains to marketing functions."
-    publishedDateTime: 2023-08-09T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "10 Ways Artificial Intelligence is Already Having a Huge Impact on Business"
     excerpt: "The realm of Artificial Intelligence (AI) is effecting a paradigm shift across multiple business sectors since OpenAI released its Large Language Model (or LLM) to the world. A close examination reveals the multifaceted manner in which AI is refashioning business in many areas."
     publishedDateTime: 2023-08-06T12:32:00Z

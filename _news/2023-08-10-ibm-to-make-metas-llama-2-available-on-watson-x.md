@@ -58,6 +58,20 @@ related:
         width: 300
         height: 235
         isCached: true
+  - title: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform"
+    excerpt: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform - As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to"
+    publishedDateTime: 2023-08-10T11:21:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-plans-to-make-metas-llama-2-available-within-its-watsonx-ai-and-data-platform-nid-224674-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 48
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/Lh7Oo24A.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "IBM Collaborates With Meta to Integrate Llama 2 into Watsonx.ai Platform"
     excerpt: "IBM announced that it would host Meta's Llama 2-chat 70 billion parameter model in the watsonx.ai studio, with early access  available to select clients and partners."
     publishedDateTime: 2023-08-09T18:33:00Z

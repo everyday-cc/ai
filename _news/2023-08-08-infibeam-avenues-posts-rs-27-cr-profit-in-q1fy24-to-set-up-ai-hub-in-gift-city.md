@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Infibeam Avenues Ltd to include AI on its platform"
+    excerpt: "According to an official release, Infibeam Avenues Ltd, an Indian fintech company, announced its plans to include Artificial Intelligence (AI) to create an AI-based fraud detection market. The company expects to establish India’s first Artificial Intelligence (AI) HUB at the Gujarat International Finance Tec-City (GIFT City)."
+    publishedDateTime: 2023-08-10T10:00:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik267.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Infibeam Avenues To Foray Into Fraud Detection Market With Its AI HUB In GIFT City"
     excerpt: "Fintech startup Infibeam Avenues on Tuesday (August 8) announced that it will foray into the AI-enabled fraud detection market. The listed company plans to build AI-based solutions for authentication, fraud detection and risk identification for both domestic and global markets."
     publishedDateTime: 2023-08-09T01:30:00Z

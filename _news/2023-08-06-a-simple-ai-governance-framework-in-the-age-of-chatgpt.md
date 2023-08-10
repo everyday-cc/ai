@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/61ddecd6cca3ad80acd3caeb/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Upgrade your ChatGPT skills with this $20 training: Use AI to work smarter, not harder"
+    excerpt: "This online course load contains dozens of lessons breaking down beginner and advanced skills to help you use ChatGPT effectively. If you are new to the AI chatbot or want to make sure you didn't miss any tips and tricks when you first jumped in months ago,"
+    publishedDateTime: 2023-08-10T11:01:00Z
+    webUrl: "https://www.zdnet.com/article/upgrade-your-chatgpt-skills-with-this-20-training-use-ai-to-work-smarter-not-harder/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/upgrade-your-chatgpt-skills-with-this-20-training-use-ai-to-work-smarter-not-harder/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/upgrade-your-chatgpt-skills-with-this-20-training-use-ai-to-work-smarter-not-harder/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/186bba5322f625df06f9b5b4d950935527776302/2023/06/29/d003949e-24fd-4960-a177-712e43e0d249/sale-320578-article-image.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The 12 Best ChatGPT Alternatives in 2023"
     excerpt: "Are you looking for an alternative to ChatGPT? We’ve got you covered. Despite ChatGPT’s high level of sophistication, many other ChatGPT alternatives are available. In addition to ChatGPT, many advanced AI-based alternatives to ChatGPT can help you ..."

@@ -7,8 +7,8 @@ originalUrl: "https://techreport.com/news/the-ai-industry-faces-a-shortage-of-po
 webUrl: "https://techreport.com/news/the-ai-industry-faces-a-shortage-of-powerful-chips/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Tech Report
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "What the Finance Industry Tells Us About the Future of AI"
-    excerpt: "What will artificial intelligence do to industries and jobs? For a preview, look to the finance industry which has been incorporating data and algorithms for a long time, and which is always a canary in the coal mine for new technology."
-    publishedDateTime: 2023-08-09T07:15:00Z
-    webUrl: "https://hbr.org/2023/08/what-the-finance-industry-tells-us-about-the-future-of-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 54
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/08/Aug23_09_5277464.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The big bottleneck for AI: a shortage of powerful chips"
     excerpt: "The crushing demand for AI has also revealed the limits of the global supply chain for powerful chips used to develop and field AI models."
     publishedDateTime: 2023-08-06T11:02:00Z

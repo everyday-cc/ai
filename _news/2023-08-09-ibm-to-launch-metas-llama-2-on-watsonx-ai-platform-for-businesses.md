@@ -7,7 +7,7 @@ originalUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-
 webUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
 type: article
 quality: 64
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
         width: 300
         height: 235
+        isCached: true
+  - title: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform"
+    excerpt: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform - As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to"
+    publishedDateTime: 2023-08-10T11:21:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-plans-to-make-metas-llama-2-available-within-its-watsonx-ai-and-data-platform-nid-224674-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 48
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/Lh7Oo24A.jpg"
+        width: 570
+        height: 367
         isCached: true
   - title: "IBM to make Meta’s Llama 2 available on Watson X"
     excerpt: "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,"

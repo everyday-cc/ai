@@ -2,6 +2,250 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-06-28-nvidia-sweeps-ai-benchmarks-but-intel-brings-meaningful-competition.md",
+      "title": "Nvidia sweeps AI benchmarks, but Intel brings meaningful competition",
+      "excerpt": "Intel is building a mutli-thousand-chip cluster internally based on its Gaudi AI accelerator, the company said, which could be even bigger competition for Nvidia down the road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-sweeps-ai-benchmarks-but-intel-brings-meaningful-competition/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-sweeps-ai-benchmarks-but-intel-brings-meaningful-competition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2a31cc4234549381ea4642abc6f31af8f9b8f2d2/2023/03/21/c83ab042-06b7-49b0-934d-f6ab54c4a554/nvidia-h100-nvl-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-sweeps-ai-benchmarks-but-intel-brings-meaningful-competition/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-sweeps-ai-benchmarks-but-intel-brings-meaningful-competition/",
+      "publishedDateTime": "2023-06-28T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-ballad-health-partners-with-medaware-to-leverage-artificial-intelligence-platform-to-improve.md",
+      "title": "Ballad Health partners with MedAware to leverage artificial intelligence platform to improve ...",
+      "excerpt": "Ballad Health is partnering with Israeli-based MedAware, Ltd., to leverage artificial intelligence (AI) to improve patient safety by identifying potential medication-related",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentuckytoday.com/news/business/ballad-health-partners-with-medaware-to-leverage-artificial-intelligence-platform-to-improve/article_666388a6-aac4-5d96-bcd7-ac9c84c43027.html",
+      "originalUrl": "https://www.kentuckytoday.com/news/business/ballad-health-partners-with-medaware-to-leverage-artificial-intelligence-platform-to-improve/article_666388a6-aac4-5d96-bcd7-ac9c84c43027.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kentucky Today",
+        "domain": "kentuckytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-google-stakes-a-claim-to-all-things-generative-ai.md",
+      "title": "Google Stakes A Claim To All Things Generative AI",
+      "excerpt": "If Google wants you to know one thing, it’s this: Google has generative AI covered ... more than 100 languages to complete tasks like text processing, classification, sentiment analysis, etc. PaLM 2 can “understand, generate, and translate” text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 261,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649c3740ddad085e7cfacb6d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/",
+      "publishedDateTime": "2023-06-28T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-wisconsin-healthcare-system-using-artificial-intelligence.md",
+      "title": "Wisconsin healthcare system using artificial intelligence",
+      "excerpt": "AND JOINING US THIS AFTERNOON TO TALK ABOUT OTHER USES FOR ARTIFICIAL INTELLIGENCE IN HEALTH CARE IS FRANK LAO. HE’S THE SENIOR DIRECTOR OF EMERGING TECHNOLOGIES AT UW HEALTH IN MADISON. DR. LAO, THANK YOU SO MUCH FOR YOUR TIME THIS AFTERNOON.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
+      "originalUrl": "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/5cb33f08-aec1-41e4-98f6-970833e79135/1bda7701-8a0f-4ab7-877e-249b3d2e1b9e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
+      "cdnAmpWebUrl": "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
+      "publishedDateTime": "2023-06-28T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WISN 12 NEWS",
+        "domain": "wisn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-us-considers-new-curbs-on-ai-chip-exports-to-china.md",
+      "title": "U.S. Considers New Curbs on AI Chip Exports to China",
+      "excerpt": "Restrictions come amid concerns that China could use AI chips from Nvidia and others for weapon development and hacking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb",
+      "originalUrl": "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-808160/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-catholic-churchs-stance-on-ai-ethics-technology-should-be-at-the-service-of-humanity.md",
       "title": "Catholic Church's stance on AI ethics: Technology should be 'at the service of humanity'",
       "excerpt": "\"Ethics in the Age of Disruptive Technologies: An Operational Roadmap,\" a handbook for enterprise action around technology and AI, is the result of a collaboration between the Vatican and the ...",
@@ -910,238 +1154,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-ibm-is-bringing-ai-magic-to-the-wimbledon-digital-experience.md",
-      "title": "IBM is bringing AI Magic to the Wimbledon Digital Experience",
-      "excerpt": "IBM and Wimbledon introduce AI Commentary and AI Draw Analysis, enhancing the digital fan experience for the Championships.",
-      "sourceUrl": null,
-      "webUrl": "https://tech-ish.com/2023/06/28/ibm-wimbledon-digital-experience/",
-      "originalUrl": "https://tech-ish.com/2023/06/28/ibm-wimbledon-digital-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tech-ish.com/wp-content/uploads/2023/06/IBM-Wimbledon.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech-ish.com",
-        "domain": "tech-ish.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-leadership-ethics-of-ai-in-medicine-introduction-with-dr-molly-wasko.md",
-      "title": "Leadership & Ethics of AI in Medicine: Introduction with Dr. Molly Wasko",
-      "excerpt": "The institute’s AI in Medicine Graduate Certificate provides current and future health care leaders with important foundations in understanding and applying artificial intelligence (AI), as well as the safety, security, and ethics of using AI to improve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.uab.edu/medicine/news/latest/item/2809-leadership-ethics-of-ai-in-medicine-introduction-with-dr-molly-wasko",
-      "originalUrl": "https://www.uab.edu/medicine/news/latest/item/2809-leadership-ethics-of-ai-in-medicine-introduction-with-dr-molly-wasko",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kaleido Scope",
-        "domain": "uab.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-nvidia-amd-stocks-fall-on-report-of-new-us-ban-on-ai-chip-exports-to-china.md",
-      "title": "Nvidia, AMD stocks fall on report of new U.S. ban on AI chip exports to China",
-      "excerpt": "Nvidia and AMD shares slumped in the extended session Tuesday following a report that the Biden administration might ban more AI chip sales to China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
-      "originalUrl": "https://www.marketwatch.com/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 551,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-790609/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
-      "publishedDateTime": "2023-06-27T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-mongodb-loves-developers-at-mongodblocal-nyc.md",
-      "title": "MongoDB ‘Loves Developers’ At MongoDB.local NYC",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead highlights the new capabilities for MongoDB Atlas announced at the MongoDB.local event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649b74e50a9a56279ec53940/0x0.jpg?format=jpg&crop=627,352,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/amp/",
-      "publishedDateTime": "2023-06-27T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-when-the-ai-is-more-compassionate-than-the-doctor.md",
-      "title": "When The AI Is More Compassionate Than The Doctor",
-      "excerpt": "More physicians are using AI to help in the more “human” aspects of medical care, including communicating with empathy and compassion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/",
-      "originalUrl": "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649b7397aa671b8e72c5393e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1273,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/",
-      "publishedDateTime": "2023-06-27T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

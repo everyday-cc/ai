@@ -22,21 +22,37 @@ topics:
   - AI
 
 related:
-  - title: "AI is ruining the internet"
-    excerpt: "From way more spam to sneakier scams, AI is going to make even the most basic online tasks more annoying — and unreliable."
-    publishedDateTime: 2023-08-08T10:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
+  - title: "How Today’s Top Marketing Leaders Are Approaching AI"
+    excerpt: "Many marketing leaders are embracing the technology, recognizing its staying power and acknowledging that marketers would do well to adapt or risk becoming irrelevant."
+    publishedDateTime: 2023-08-10T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://i.insider.com/64cbf0930f3dff0019568fce?width=1200&format=jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d3984e604bda7e4b0ed9f8/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "This Startup Is Using AI To Increase Productivity And Reduce Meeting Mania"
+    excerpt: "With record buzz surrounding AI, consumers are eager to understand how new tools will impact their own lives. Productivity tools are one of the first aspects of technology that are ripe for innovation through AI. I recently spoke with Matt Martin, a veteran software developer and the co-founder of AI-driven calendar assistant Clockwise."
+    publishedDateTime: 2023-08-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c3cba41e471324dc16a7fe/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 317
         isCached: true
   - title: "Examining The Future Of Marketing In Light Of AI Concerns"
     excerpt: "The more strategic, less brand-aligned functions scored the highest in terms of how defensible they are from being replaced by automation."
@@ -47,77 +63,37 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Artificial Intelligence is already radically altering the world of case management"
-    excerpt: "Some of the brightest minds in the technologies of the future have been unusually vocal about the potential dangers of Artificial Intelligence (AI), with"
-    publishedDateTime: 2023-08-09T08:23:00Z
-    webUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/"
-    ampWebUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
-    cdnAmpWebUrl: "https://hrnews-co-uk.cdn.ampproject.org/c/s/hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
+  - title: "3 Millionaire-Making AI Stocks That Are Flying Under the Radar"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks have exploded to the upside in recent months. It isn’t too"
+    publishedDateTime: 2023-08-06T18:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-millionaire-making-ai-stocks-that-are-flying-under-the-radar-1032520445"
     type: article
     provider:
-      name: UK Human Resources News
-      domain: hrnews.co.uk
-    quality: 55
-    images:
-      - url: "https://hrnews.co.uk/wp-content/uploads/2023/08/Image-62.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI is still driving Big Tech earnings"
-    excerpt: "They AI hype cycle isn't dying down anytime soon. Need proof? Look no further than Big Tech's latest earnings reports."
-    publishedDateTime: 2023-08-09T17:34:00Z
-    webUrl: "https://www.aol.com/finance/ai-still-driving-big-tech-142614990.html"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "How Artificial Intelligence Is Helping Today’s Small Businesses"
+    excerpt: "More small businesses are using artificial intelligence effectively, especially as pertains to marketing functions."
+    publishedDateTime: 2023-08-09T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 41
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/uisH.yiSbE_YLXOVEz86aQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/eb39acbfcfa311ae697dbc83e8c016c3"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Fear Of Ai In The West Is Misdirected"
-    excerpt: "The fear of artificial intelligence is largely a Western phenomenon. It is virtually absent in Asia. In contrast, East Asia sees AI as an invaluable"
-    publishedDateTime: 2023-08-07T07:32:00Z
-    webUrl: "https://menafn.com/1106796191/Fear-Of-Ai-In-The-West-Is-Misdirected"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "The Artificial Intelligence Contribution to Eating Disorders"
+    excerpt: "According to an article posted in the Washington Post, artificial intelligence has an eating disorder problem. Pro-anorexia chatbots are a mere consequence of some of the best tech-funded companies no"
+    publishedDateTime: 2023-08-07T16:35:00Z
+    webUrl: "https://www.wyomingnews.com/news/national/the-artificial-intelligence-contribution-to-eating-disorders/video_21c99039-d078-5fe4-a064-dc0f74a58fd8.html"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/07/AT_da0cbimage_story.jpg"
-        width: 1200
-        height: 960
-        isCached: true
-  - title: "Artificial Intelligence for the Poor"
-    excerpt: "Among elites in wealthy countries, a worry about artificial intelligence has taken hold: the machines will take our jobs. With the explosive popularity of ChatGPT, the remarkably lifelike chatbot, many in the West have begun to fear that it is not only truck drivers and assembly workers who are at risk of being replaced by robots but highly paid knowledge workers,"
-    publishedDateTime: 2023-08-09T04:05:00Z
-    webUrl: "https://www.foreignaffairs.com/world/artificial-intelligence-poor"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 39
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/07/RTSFOQ2E.JPG?itok=ClwbWM-A"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI as the next computing platform"
-    excerpt: "The games industry requires hundreds, if not thousands, of projects every year, so the prospect of radically cutting the time and cost of creative brainstorming and prototyping is, ahem, game-changing. Add to that the increasing ability to use generative AI in software development, and the time from concept to code goes from months to days."
-    publishedDateTime: 2023-08-07T14:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/07/ai-next-computing-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Wyoming News
+      domain: wyomingnews.com
     quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/aibrain-geralt-pixabay.jpeg"
-        width: 1280
-        height: 853
+      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/2/1c/21c99039-d078-5fe4-a064-dc0f74a58fd8/64d11fc31e0fc.image.jpg?crop=1641%2C862%2C0%2C30&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Bringing Artificial Intelligence into the classroom"
     excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
@@ -130,15 +106,47 @@ related:
       name: Fox 13
       domain: fox13news.com
     quality: 37
-  - title: "China’s internet giants in $7.6b AI chip-buying frenzy"
-    excerpt: "Baidu, ByteDance, Tencent and Alibaba are rushing to buy chips vital to building AI systems, amid concerns US President Joe Biden will soon clamp down on their export."
-    publishedDateTime: 2023-08-10T02:58:00Z
-    webUrl: "https://www.afr.com/world/asia/china-s-internet-giants-in-7-6b-ai-chip-buying-frenzy-20230810-p5dvga"
+  - title: "Small businesses using AI are loving it"
+    excerpt: "A new survey finds that more than 90% of small business owners using artificial intelligence tools like ChatGPT say AI has made their businesses more successful."
+    publishedDateTime: 2023-08-09T09:00:00Z
+    webUrl: "https://www.aol.com/finance/small-businesses-using-ai-loving-060057295.html"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 34
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/TqsYkh7r5VfZvITF2W7x9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/4871c9241188d3f5a65fdc2bcc12d5c0"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Here's how Michigan employers and employees are adapting to AI"
+    excerpt: "Employers need workers who are trained in AI platforms, giving a leg-up to job candidates who have those skills."
+    publishedDateTime: 2023-08-07T03:00:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/08/06/heres-how-michigan-employers-and-employees-are-adapting-to-ai/70384916007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
+  - title: "AI dating apps promise less ghosting, more matches"
+    excerpt: "The hardest part of dating, according to Daniel Liss, is the small talk. A digital entrepreneur whose previous ventures include the photo sharing site Dispo, Liss launched Teaser AI in June, marketing it as the app that leads to “less ghosting, more matches.”"
+    publishedDateTime: 2023-08-10T03:19:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-dating-apps-promise-less-ghosting-more-matches-71691595326473.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 19
+  - title: "The Artificial Intelligence Contribution to Eating Disorders"
+    excerpt: "Artificial intelligence has an eating disorder problem. Pro-anorexia chatbots are a mere consequence of some of the best tech-funded companies not doing enough to prevent the circulation of misleading"
+    publishedDateTime: 2023-08-08T22:00:00Z
+    webUrl: "https://omaha.com/life-entertainment/nation-world/technology/the-artificial-intelligence-contribution-to-eating-disorders/video_89389748-9c2e-55ff-88f5-8193dfb22db3.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 17
 
 secured: "kapt7/M8DUp8uRq4bZTmkliQ6pd1pYj+8vTZe7wI5OZeNQQvY/NyaRsJTyZsK2DBCYUUvtAUkR0Zu4pwRhvukH8XKM9ahe1GwMgpY01fdF6LH/hGzVL5BHrl55nEfhLLQYq1Zxt50Q2gPXu2eHXT6VZPnXrXVI7Prj8r9tY/eDL3xRUQJ9S3QZx9V9qXZ7G1qaDUygXKgMzN798p9vqpcKb9HjTilnefYcTrS8Q5wLEMhC1x0OU39tgWb4bWwHTJmNCxtojeoduyb9LIQ/jxeVy9DQ9YGkOsSfYbL2PfrL8p6UoHK9hx0y40za93mkI5+BQ6uRfq5Wqhedb8yT1sTn0Aq3oTvhkBAJhK/asoKKS3vvUSXYEaIaVP0VaBZyi9w5xf/gyO8PguKZD9qH+AAWvmsbNiH3slD2ArFN5Mjg+0dCdgNyhSOv9oIqOqrm6B2pl4Q/d6julmYf3z5Fy2O2YjLTVrS5mtFDbb60sJ9COyPZA79+9tQ3wztW1iFmOsNy7PkjvuoNRNCgYzQEMuaA==;+b59b/5ol7jPX2VxlfmkUA=="
 ---
