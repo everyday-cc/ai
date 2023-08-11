@@ -485,9 +485,9 @@ related:
       domain: abcnews.go.com
     quality: 7
   - title: "Pregnant mother-of-two wrongly arrested for robbery and carjacking after false facial recognition says she was having contractions in the holding cell: 'Shoddy technology' has ..."
-    excerpt: "A Michigan woman who was eight months pregnant became the latest person to be falsely charged after police used facial recognition technology to arrest her on suspicion of carjacking and robbery. Porcha Woodruff, 32, was shocked when six police officers ..."
-    publishedDateTime: 2023-08-07T01:56:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12379181/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html?ns"
+    excerpt: "A Michigan woman who was eight months pregnant became the latest person to be falsely charged after police used facial recognition technology to arrest her on suspicion of carjacking and robbery."
+    publishedDateTime: 2023-08-07T14:19:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12379181/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
     ampWebUrl: "https://www.dailymail.co.uk/news/article-12379181/amp/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
     cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12379181/amp/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
     type: article
@@ -515,6 +515,6 @@ related:
         height: 697
         isCached: true
 
-secured: "J9hRKMglxleuZzAbe3SQUoA9j/AtHXN5QL4RqOrBUegiRofmaUPqLKL4a7v+7cyZEbhKkfusugC6UjoNSTNSmsvNoTASe0R4YHVuhcaoByrZV16MECDlRw42aJN1EME9Vr6Vu/ojSR91N0XtDqC1M351EMXC5rVD3n5274/n5Ps7HMLVDVrxFH9eHkzy3E5jDl52GCJMWgi6/APsIZYWDaFR3AGKuzOkQrlAGjvnzFWzEb+ZXfqGGz11OQDonL8jvC9Od68y0JsTPyzQkyjIj+wy/uaHReZtDBfILff6p5diICbdoBbzjf6G2MGc0+Xx+Uo4qeez7fVzKN2TK7NkqRaPJGoFx4e8c9CeE8+5u6o=;4Tumq3Izyr96d5odj41DNw=="
+secured: "AtabkNCQViz174sMCHww9hyby0H8Py/4VOiFKAqzeR2r3DrIdaSHnp+gr/6+AJ+Zv4P7eE1SPxkFmykF29+Lc9SdEBGQCSHkIy9tK70vzfsG1TUVfcLqVPt69OzbuPXsg9twf8yYzAP/sBrXlx43rmQap8YuLMybYLMd4tv4Ho7cxCkc9p3DrANn5cx5M6xwvQnU7p41SAfB9srfe2b6tg5R2ig/7FsCxXB4Beq6Oqmm5ueMTitbB6j8AR7KMjSxGaN+1OfuTcKNQZyyH/7sVETNyRIzQONHO7kKE8gBJguMF6hX1L2v09BFUbuGCdRYaKps2JVggbD4Spl8sVUF5MpBxOrwJXyEeaFuPvJkKw8qv9k3HMr/AWwXXnxPjPPt0ALIN0KtGO7SCaNi9GjECUxOaJD56TuQtnupVMRud6vwLWwSzpjmsSv73LhWwpfk4feF59clAx91Gpxnrdr48+1Bx5TshC/NnPIf5LVjQKjw7P9M5uyZWn2Ih82E1P+z89bhInty+ngDFUSbuZbqHQ==;2vXQHQxIXEfQd4aRvTGjVQ=="
 ---
 

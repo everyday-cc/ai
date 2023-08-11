@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/london/2023/8/10/1_6514170.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/london/2023/8/10/1_6514170.amp.html"
 type: article
 quality: 52
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Do you need me to take over’: Passengers get stuck in a self-driving car"
+    excerpt: "A popular podcast duo confirmed this fear while documenting their adventure of getting stuck in a self-driving car."
+    publishedDateTime: 2023-08-11T01:54:00Z
+    webUrl: "https://www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/"
+    ampWebUrl: "https://www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 43
+    images:
+      - url: "https://uploads.dailydot.com/2023/08/stuck-on-self-driving-car.jpg?auto=compress&fm=pjpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Digital displays on the exteriors of self-driving cars could help cyclists stay safe in the future"
     excerpt: "Digital displays on the exteriors of self-driving cars could help cyclists stay safe on the roads of the future, researchers say. Animated representations of virtual drivers, traffic-light-like projections on to the road or even emojis displayed on their ..."
     publishedDateTime: 2023-08-09T15:40:00Z

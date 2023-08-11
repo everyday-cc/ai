@@ -43,6 +43,22 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "‘Do you need me to take over’: Passengers get stuck in a self-driving car"
+    excerpt: "A popular podcast duo confirmed this fear while documenting their adventure of getting stuck in a self-driving car."
+    publishedDateTime: 2023-08-11T01:54:00Z
+    webUrl: "https://www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/"
+    ampWebUrl: "https://www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 43
+    images:
+      - url: "https://uploads.dailydot.com/2023/08/stuck-on-self-driving-car.jpg?auto=compress&fm=pjpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Cruise now testing self-driving cars in Atlanta"
     excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."
     publishedDateTime: 2023-08-08T21:39:00Z

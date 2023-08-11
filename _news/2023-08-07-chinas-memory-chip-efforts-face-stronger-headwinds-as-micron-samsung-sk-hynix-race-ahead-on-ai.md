@@ -9,8 +9,8 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356500"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356500"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: The Korea Times
@@ -25,22 +25,6 @@ images:
     width: 980
     height: 653
     isCached: true
-
-related:
-  - title: "China at major risk of losing global memory chip, AI race"
-    excerpt: "China may lag behind in the global memory chip and artificial intelligence (AI) race amid Beijing's restriction on US-based Micron Technology and export sanctions by Joe Biden administration on American companies on sharing tech with China,"
-    publishedDateTime: 2023-08-06T09:27:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1107276"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 54
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/arun_060823_chip.jpg"
-        width: 740
-        height: 459
-        isCached: true
 
 secured: "Ay00ht36eAMXVzO5wZBEnNG9KBXnJIBr3gMKo6PGP0CAE1O9N/AgD3oDThwdn1gk8IEw7B8N+RbngnpbPikGg6T4Ro6KNv6vBvT4oJy/yXEweGUhuEtAf0kLlmMUqJa/U8eIItaton6QZ6Gt7DZBkvqB9IgwXplZeA2K7uEL+y1KHfmygaV3XcBPvNbgTKDdyVCsVyDzfMsr4JNAyiSJ1DQPFG1UHhGm/DPEdP4XqCKoxxw2Sg6CF8XqwsZn2Hqfc3+nmqRWGdtE2SsilFKNHAhf7MlCPFd1ZIzACiLmSLcQvpumv0m35Ikdnzzv7VYv/KHF36tcrHFIxtvk9h6wMC75I/QHngkKYrcYl/bZNMW3wvZOe2RjYxPt5HOhbZkW/16Bf+zdj8JH+bqJB99EffX7H1Nvg52OAZKNqrqmL1YsKNOOn8pXw2VWIFM3MvpNOoF0y9q2wiQtV4NWu5zvnFeBHZPuX2OepZHNgD9v9QJIKCjFb7Q3wQrWTt5ZPQYFSnMNijD/1abKNXXaYFeH9w==;GGJL9c/CsfXm/DbaDlGMqA=="
 ---

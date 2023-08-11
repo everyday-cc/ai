@@ -41,6 +41,22 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "‘Do you need me to take over’: Passengers get stuck in a self-driving car"
+    excerpt: "A popular podcast duo confirmed this fear while documenting their adventure of getting stuck in a self-driving car."
+    publishedDateTime: 2023-08-11T01:54:00Z
+    webUrl: "https://www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/"
+    ampWebUrl: "https://www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 43
+    images:
+      - url: "https://uploads.dailydot.com/2023/08/stuck-on-self-driving-car.jpg?auto=compress&fm=pjpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Digital displays on the exteriors of self-driving cars could help cyclists stay safe in the future"
     excerpt: "Digital displays on the exteriors of self-driving cars could help cyclists stay safe on the roads of the future, researchers say. Animated representations of virtual drivers, traffic-light-like projections on to the road or even emojis displayed on their ..."
     publishedDateTime: 2023-08-09T15:40:00Z
@@ -109,6 +125,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "2d1de1jF8+NpnAd1pqpDM0VDS1i6GCKONyCyYiG4tRDNHa8wYnqwZrLgaWtjAOQJ70tJUBXxWCnP3CmrqTrtWaKcwZw0j3d9uCqrzYztSArmjGC6RV7t9damlPuNX4Ey//tvFHm7icnkqmF/bg2TY8v298waPfTthoP4ebOwcDVED8iBc4X0MMAa833gfRCTEqjx5r+jUu5n3FePB8kUyT0DW4M0BHii+N7UDE72MwLDLJBWRrzkvaX7/AOifEg+bV9wPHvnXGR+Wl7s26fbv/XT3oivHrS6jhRDmz0mrvyd7DcUV9Njj/zkyCKQNQFDddl4s8uPpl6074UhB0odbwy0lTBcHCB+zC4dFAEw7KM=;e70s196o/SE0fn4rBMbHLA=="
+secured: "bZ6f9kkRmbU5Ehuu+c6D25+gN96CfoJ7b4w/TQqk0C7xyfIVw3xNQ/pwHg9d0Y3BL7Z7bDqGes5QYx729TaKfZajVUgCZJ7tZIrLKy0G9XRy4DpysmKyW8j2Dau3XZxXz39RFYpog9VU+So9gThaG0V+QZf4reMpDhWsOmmtw9AtwD8o7z4tDTf+vICWix3lXCrd0R/UU7ft/tW66gsz1ayhYUWpo9MBlfwiIdnUM72Q0jc+IQKf6siJQjdrjwYOF5vT3fgQmEPUABAru/941B/bvv3nyg4a+jxgOnV+4HfZovEyn2ijoFbPsKjor27wN0H001DU/Ukw5LivYK4Ac/lVuzftmDHKbr2sLFX16Ebk6qeZMEZNdZJMrBmqWP5NSuj+bgETkj/a1v1g/Zm55QE4Vnx/XSOGXLvrghy1SE27wKV5IO+VuFF2SZ10u3J3tE5qcIKEbCMrYNzP6MFOmHCfBFutu7k//5hIhNDAHgqFjk30IBBk3/ux12K2dosL8l44h3GUJBl09s/B5QG7Qg==;7nReKDBtAaZMIwdqwkfkkw=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Pregnant mother-of-two wrongly arrested for robbery and carjacking after false facial recognition says she was having contractions in the holding cell: 'Shoddy technology' has ..."
-excerpt: "A Michigan woman who was eight months pregnant became the latest person to be falsely charged after police used facial recognition technology to arrest her on suspicion of carjacking and robbery. Porcha Woodruff, 32, was shocked when six police officers ..."
-publishedDateTime: 2023-08-07T01:56:00Z
-originalUrl: "https://www.dailymail.co.uk/news/article-12379181/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html?ns"
-webUrl: "https://www.dailymail.co.uk/news/article-12379181/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html?ns"
+excerpt: "A Michigan woman who was eight months pregnant became the latest person to be falsely charged after police used facial recognition technology to arrest her on suspicion of carjacking and robbery."
+publishedDateTime: 2023-08-07T14:19:00Z
+originalUrl: "https://www.dailymail.co.uk/news/article-12379181/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
+webUrl: "https://www.dailymail.co.uk/news/article-12379181/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
 ampWebUrl: "https://www.dailymail.co.uk/news/article-12379181/amp/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12379181/amp/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
 type: article
@@ -514,6 +514,6 @@ related:
         height: 697
         isCached: true
 
-secured: "yOm/KrbPoojI7IrEFBqBjRu7+WRmHzfCsZppb7AXgDkN5gwP1+aI2uFzWwcLmck89RiC2snBmAj15GIsyJ8C0d2gRd+nBR2gGaJnay2qUNGtUkUdboNaJnrG23cjwW0wUu9OzyBplvvk1xyDh7TaSzJaNS4wkPtZuFNArDk0OcJj6MUeWRnMqYlqy9ART5otvwLJ9Y6248hcFuApAlDXABuU2u+xubEMfVivfPQCCAJpfm5HkNsEBoSNLK9cyo7sVdAcrFy2e/uihy8ryR95fvw7+7Vp48CIjHv+whOGsd+BTVwqZzTVgf+kkrDgmRLdjeORQTfkaPhsol2bIOuw1ytChaXvovWXlyyXG/l2e04Um87NJhLBIunb7TkVj5t/+tzvfZg+9Y7tlcmdxeYKAi20NEoTryMPRMrfEk0WYG8APR7g5E+ogS0fbfiy4SNeP6QaUSbUt61iVBiT6rUIlCPCx3PGMYdMrQGpvodfwngOCQGogHyZjyEVXItmq2QLYL/XSVuEaRtyM5cDygzOIA==;5kpQx/frpRd4vCihQY7rtA=="
+secured: "9uOG5FYyUqKcTBm1X37gXS4QPla/xFdCOfLFee3AbXpd8mH36znDQte3RFkXtU7ZTgGED27KBUfjCOkcQJCGgx1b+PrF0dJSr+TRNz9NwWX0h2nOop1fkOYH1CH5mlMBIpCNqkLB1K8hL0k/6rLWGBznMmEFZSKI/QtfRt3fEI/dAihjYXipqrJkHkEjdNgySy32kVP2ITmzbVpL3ugSE++IPCA50ZOfOp6uzOGn/soR9isABOi9iQxpF5Rda2Ni7kkQH3ft0MjdLRvVnEw07iocRk442AKkZOPvi/I1JuQ4KXsqqTHB3aD7eSi/IEQVgnpud7PoLRqj16td5+xZmBsrbaIdChNAfVUTa9FGsko=;bJs1Rr7IfMVQVH126WeqpA=="
 ---
 

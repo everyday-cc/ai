@@ -96,6 +96,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 0
+  - title: "Women in fintech hackthon: participants introduced to financial inclusion best practices"
+    excerpt: "On Day One of the 2023 Women in FinTech hackathon, the over 100 innovators from Kenya and Uganda were able to work on their problem statements and business cases."
+    publishedDateTime: 2023-08-11T03:32:00Z
+    webUrl: "https://observer.ug/businessnews/78821-women-in-fintech-hackthon-participants-introduced-to-financial-inclusion-best-practices"
+    type: article
+    provider:
+      name: The Observer
+      domain: observer.ug
+    quality: 0
 
 secured: "R4YR3UBgMId7AP4MGxXi6TxzrJlq79TqvujYnGj6NjXaFqrjnH2EXjpPTbrJOFKBKZpwwLNRJBPD2gHrzG8twRjUTO/5UsV89Jrnd1hYGEnCBJaArEQlQXdfokRiwT3Tu+10BItqmg4x9vOOirJsW63fPPOwgt+fGvOCysNP/veNSSkrIrUVymY3lVcgvEl36phAi2HIliGS60PcRP96K7OV8EgY/hB5h4AGnKp0CXfjnxkbGKuBsTf7ZEKh+nFUHWyShSSvXRM9obiicOM8i0T3dCXKRvEycldHYNK1dm4hD4OEWZzlBpLPOppEeGpOJTYlrkjqoSvHsJL82WdIMF1JIUGibzQ884dl0lM/oP4=;XvGHR3YZl3xdK/NXhTajsA=="
 ---

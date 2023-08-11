@@ -7,7 +7,7 @@ originalUrl: "https://techreport.com/news/apple-hints-at-a-lip-reading-siri-to-r
 webUrl: "https://techreport.com/news/apple-hints-at-a-lip-reading-siri-to-revamp-speech-recognition/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Apple patent hints at Siri getting motion based voice recognition"
-    excerpt: "Dubbed 'Keyword Detection Using Motion Sensing', the patent makes use of motion sensors like accelerometers and gyroscope to detect voice commands."
-    publishedDateTime: 2023-08-06T10:49:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-patent-hints-at-siri-getting-motion-based-voice-recognition-8879287/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-patent-hints-at-siri-getting-motion-based-voice-recognition-8879287/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/apple-patent-hints-at-siri-getting-motion-based-voice-recognition-8879287/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 44
-    images:
-      - url: "https://images.indianexpress.com/2023/08/Apple-Siri-Express-Photo.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Apple's Siri Will Now Understand Motion-Based Voice Recognition | Patents Filed By Apple (How Will It Work?)"
     excerpt: "Apple has applied for a patent involving a technology that has the potential to enable Siri to understand lip movements using motion signals. Initially proposed in January this year, this ground-breaking idea allows Siri to theoretically recognize motions of the mouth and head to improve accuracy and minimize the requirement for ongoing microphone utilization."
     publishedDateTime: 2023-08-08T19:12:00Z

@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "A Simple AI Governance Framework In The Age Of ChatGPT"
-    excerpt: "Since ChatGPT and its artificially intelligent peers have burst on the scene, I’ve been fielding a lot of questions about its impact on the way we will be working."
-    publishedDateTime: 2023-08-06T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c80c9d8f3a72efd6775ac5/0x0.jpg?format=jpg&width=1200"
-        width: 1104
-        height: 844
-        isCached: true
   - title: "Three Decision-Centric Questions To Clarify ChatGPT Hype And Guide Your AI Strategy"
     excerpt: "How can companies cut through AI hyperbole and disillusionment to find ways to improve business decision-making productivity today?"
     publishedDateTime: 2023-08-07T16:30:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.cnbc.com/video/2023/08/06/how-aurora-got-self-driving-
 webUrl: "https://www.cnbc.com/video/2023/08/06/how-aurora-got-self-driving-trucks-on-the-road.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: CNBC
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Congress urged to help get more self-driving vehicles on US roads"
-    excerpt: "Advocates for auto companies and consumer technology firms on Wednesday urged a congressional subcommittee to adopt legislation to advance the development of self-driving cars, saying the U.S. will fall behind competitors, especially China, if the federal ..."
-    publishedDateTime: 2023-08-06T09:19:00Z
-    webUrl: "https://www.tennessean.com/story/money/cars/2023/07/26/congress-self-driving-vehicles/70463526007/"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 4
   - title: "Most Tech-Forward U.S. City Has Doubts About Self-Driving Cars"
     excerpt: "San Francisco officials and residents are not impressed by self-driving cars, underscoring the challenges ahead for autonomous vehicle companies."
     publishedDateTime: 2023-08-09T16:30:00Z

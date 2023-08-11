@@ -488,9 +488,9 @@ related:
       domain: abcnews.go.com
     quality: 7
   - title: "Pregnant mother-of-two wrongly arrested for robbery and carjacking after false facial recognition says she was having contractions in the holding cell: 'Shoddy technology' has ..."
-    excerpt: "A Michigan woman who was eight months pregnant became the latest person to be falsely charged after police used facial recognition technology to arrest her on suspicion of carjacking and robbery. Porcha Woodruff, 32, was shocked when six police officers ..."
-    publishedDateTime: 2023-08-07T01:56:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12379181/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html?ns"
+    excerpt: "A Michigan woman who was eight months pregnant became the latest person to be falsely charged after police used facial recognition technology to arrest her on suspicion of carjacking and robbery."
+    publishedDateTime: 2023-08-07T14:19:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12379181/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
     ampWebUrl: "https://www.dailymail.co.uk/news/article-12379181/amp/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
     cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12379181/amp/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
     type: article

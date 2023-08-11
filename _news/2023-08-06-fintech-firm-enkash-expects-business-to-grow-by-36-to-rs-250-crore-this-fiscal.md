@@ -95,6 +95,15 @@ related:
       name: manilastandard
       domain: manilastandard.net
     quality: 1
+  - title: "Women in fintech hackthon: participants introduced to financial inclusion best practices"
+    excerpt: "On Day One of the 2023 Women in FinTech hackathon, the over 100 innovators from Kenya and Uganda were able to work on their problem statements and business cases."
+    publishedDateTime: 2023-08-11T03:32:00Z
+    webUrl: "https://observer.ug/businessnews/78821-women-in-fintech-hackthon-participants-introduced-to-financial-inclusion-best-practices"
+    type: article
+    provider:
+      name: The Observer
+      domain: observer.ug
+    quality: 0
 
 secured: "BRcb90uf5K1soWzE5lYXCxlquDUdoX4NACA77O0JixiGfH3UejLst2fMoK+AZ+G4ycUeEI3icwfVhuAhKe497i91Du681dey7r/EIrS9/CZerIt1jUeIy41rgN0VM04oL2OQhPz8VmAwF7q3OIYetwVktAZ6seuHQ36AVFS7rgnUBuM1VPcMsjrWf4mIl3umwALuTCezIH9DmFbCoL/en9+5cPS6LKttbvTFyjH3boN2S+vH3m7yP64h4vASxVHc6bUPpNWzvvIKMjg17RTZ3g587XKqXl5qk3cN865+kle47wKyCZQecKKJ9NrtAtPvlzm+Usw26GM6QVvqW7apspN57H7uflbYoM3b+7fYErxl4JsqtHgGMwu3YRm/kFhjHETy1Fk4pwYYaJYMpdp1s0Ez7FtnXLB+LO+QBUCGoLOOvckormGVdcFgUggxiGTOTMeAjYwLEpEfzztn2Rzxm6adjq1unwExenFXTIoN3jPVq2f9CYkr9Hen0QgQiSt5StKbW34Oo2PsIqlFWRp1bg==;gdJBYsqRQhnp3ze/RDC18w=="
 ---

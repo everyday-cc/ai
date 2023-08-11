@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple patent hints at Siri getting motion based voice recognition"
-    excerpt: "Dubbed 'Keyword Detection Using Motion Sensing', the patent makes use of motion sensors like accelerometers and gyroscope to detect voice commands."
-    publishedDateTime: 2023-08-06T10:49:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-patent-hints-at-siri-getting-motion-based-voice-recognition-8879287/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-patent-hints-at-siri-getting-motion-based-voice-recognition-8879287/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/apple-patent-hints-at-siri-getting-motion-based-voice-recognition-8879287/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 44
-    images:
-      - url: "https://images.indianexpress.com/2023/08/Apple-Siri-Express-Photo.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Apple Hints At a Lip-Reading Siri To Revamp Speech Recognition"
     excerpt: "Apple has filed a patent named \"Keyword Detection Using Motion Sensing\", that aims to use lip-reading functions with its voice assistant Siri."
     publishedDateTime: 2023-08-06T13:30:00Z
@@ -51,6 +35,6 @@ related:
       domain: techreport.com
     quality: 19
 
-secured: "hq6FBcW3nWJEJxl3A+hg2KyLx/StsYKXTcsBPyOUdLeGuMh/rCX7dqo/RXm7K0Db4ERmEZTmGjZ3NXSA+T1tNbdewWQJrRPkPha6j2CfBfF0yjbSwJdvMwlPLNzc0Cwa4Fjg/X8V/rinvr3VMCeMDZpIeJu0kyJGLlmCZ0qDWPq6mMz6NjfxDVt7+LW77XY+9sf9BiVMPp+lJcrgGHRgTERBV0RQrqfEN8xajy7r5ycaZQ94uz9QaIrr8opvZoucZ++/m2Bwk/iNbYgQgHHsumpJAAHh45bUsMjJCXx7LU6yAqeED5JrXVKiWXmJpNLDPZsHmctk3wSpfYpBVSQlx4yoD2m0Emv6eYSa1JYXVo0=;JXg1UdwY5lsi9hz9lv7P8g=="
+secured: "crqAnZY8xLvnRgeo58bEuvOtfOS194YZsjHRnPGJI33LFHgPp/bDMQt3AVqEgVnTUAdD9aSXU19YoPI/AoVjOvpphkryj47XigOtrn+/3WqEcqkgDcCubNMPJ/an9YFL0+MeTiM5F7+fU5ZIwhdFMn+DAbDREMePE2cFyaGcjx+9EIh23d+TtKwAnswqYzXWJnTP8uJm7g7j8XwtG7YE+zts2EaUF5AJAy7Ui+ZWFzt6yfiQ+Nsdfllrzb6gaQv2xNNz8gf9nDt1G3Zy1eHkiIHBJ7VwZ/1mPhrVz8lW8aQ9SGhAJHa0hubaZbmN4jwBMYSzvoxSRG3lMzXnSjIaf8VKLaujQQH2OP9O5lcxG2k2t1M+bCXf1Jj/pzVEnCekWSYN1vE4HtEiFROUsmWV0GjFMTCT0WKrT+i78bRqY+xMb1WTD8vqGs9bpbNuBqCf+JhC8oiM19JBW8bH30VKMTy4mmmntNJRMf+PtNGls53MMRHxKyFBZd3G6VfDKjWGjqEOfXSN+PkRZ5SsLOob/g==;4orEBLQZhN/JrBbr/Ekvlw=="
 ---
 
