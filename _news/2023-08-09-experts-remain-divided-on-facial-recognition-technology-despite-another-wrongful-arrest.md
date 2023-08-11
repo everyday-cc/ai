@@ -2,23 +2,24 @@
 category: news
 title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
 excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
-publishedDateTime: 2023-08-08T19:10:00Z
-originalUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
-webUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
-ampWebUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
-cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+publishedDateTime: 2023-08-08T21:11:00Z
+originalUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+webUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+ampWebUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
 type: article
-quality: 66
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: MassLive
-  domain: masslive.com
+  name: al.com
+  domain: al.com
 
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
@@ -514,6 +515,6 @@ related:
         height: 697
         isCached: true
 
-secured: "UncsfJn1esA0aZqGeyi3ZlNg+nh9q1z0cZxCOipHq+PR4wQhFS1zST0yx1lnqM0YI5ecSdHboRlYfjmjvybpJXxqNCzzjW0sg161rZLAFj3AC0ItIWlXP9abls2tOCTjPcnxI/irRsVlMyljNw8/f/TmqUstq7Hl/crDUUISgBKdf+4bBsPhVMmsmwEm0JObeNoAOjf/6gTaIyphA0lXCgvofECeVLnQq/p+YDXbD4+jbBHUFxRUkohZSkzzeaS77+1OUiWFP9FkkKmcuwPbv7EALyPAYyGqXiXw0EuwH0TReoFYTDWv2QUqnmqQ4t9Wr+e0Tgz2Er83r1qxdsEs7MU4K3/oSxnQP0D3Nm0dL0c=;iCXFVp8Jy4JDQ2slw0s0hA=="
+secured: "J9hRKMglxleuZzAbe3SQUoA9j/AtHXN5QL4RqOrBUegiRofmaUPqLKL4a7v+7cyZEbhKkfusugC6UjoNSTNSmsvNoTASe0R4YHVuhcaoByrZV16MECDlRw42aJN1EME9Vr6Vu/ojSR91N0XtDqC1M351EMXC5rVD3n5274/n5Ps7HMLVDVrxFH9eHkzy3E5jDl52GCJMWgi6/APsIZYWDaFR3AGKuzOkQrlAGjvnzFWzEb+ZXfqGGz11OQDonL8jvC9Od68y0JsTPyzQkyjIj+wy/uaHReZtDBfILff6p5diICbdoBbzjf6G2MGc0+Xx+Uo4qeez7fVzKN2TK7NkqRaPJGoFx4e8c9CeE8+5u6o=;4Tumq3Izyr96d5odj41DNw=="
 ---
 

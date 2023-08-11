@@ -398,6 +398,15 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 26
+  - title: "Kyndryl taps Microsoft generative AI for new service, moves toward future profitability"
+    excerpt: "The IT infrastructure provider announced the joint project with Microsoft on the heels of announcing significant 1Q 2024 earnings where Kyndryl executives said the company will return to profitability in the next year, at least a year ahead of what financial analysts predicted after the company spun out of IBM in November 2021."
+    publishedDateTime: 2023-08-11T01:24:00Z
+    webUrl: "https://www.arnnet.com.au/article/708304/kyndryl-taps-microsoft-generative-ai-new-service-moves-toward-future-profitability/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 26
 
 secured: "hwUZ4mm/X2yOc3AJiujYvqXHmqzEjZ1dvQic7j9QgIrM2ZXf8rfg5cwm9PCqAP3ae+QxkTg1MW4Nugy6hQfp6eqtFXDm/BhYHLHzVDU5f7m3KEj6Dnrviu5U8wc1duaj4qpzRZzzFe4g9Q2wvBfpxj9XF1h7XDnZbnuDXw0ncggQGD4MINDkmcJYYE010w0NiD2opup/jYZhSTabjd2bxnG2CDopn14Gi8/z8sI/fJHWt4ep1t3m1jDkOiA2GpIi+F98PdADGwpd4lcoWeevqye5BVSswQZuiyEFnF/NrsETJHWhAv4OfDp5/azo1LTSusR7gkyyUBAjaQms9q+hv5ulevH5xA57EICLmCw4m1o=;sNqRdXCd+R+x77Nk1tppng=="
 ---

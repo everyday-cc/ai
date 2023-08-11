@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Miami Airport Expands Facial-Recognition Verification of Passengers’ Identities"
+    excerpt: "Miami airport started adding facial-recognition technology to at least 20 more international departure gates to verify identification of individual travelers, the biggest"
+    publishedDateTime: 2023-08-10T12:26:00Z
+    webUrl: "https://www.aviationpros.com/airports/news/53068756/miami-airport-expands-facialrecognition-verification-of-passengers-identities"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 35
+    images:
+      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2023/08/BIZ_FACIAL_REC_MIAMI_AIRPORT_MI.64d4d4473f54b.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Sivi AI: Pioneering the Design Revolution With Generative AI"
     excerpt: "In the fast-paced world of digital marketing and content creation, visuals play a pivotal role in capturing audience attention and conveying brand messages effectively. As the demand for captivating designs grows,"
     publishedDateTime: 2023-08-07T18:35:00Z

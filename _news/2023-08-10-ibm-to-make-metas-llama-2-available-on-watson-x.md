@@ -2,21 +2,29 @@
 category: news
 title: "IBM to make Meta’s Llama 2 available on Watson X"
 excerpt: "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,"
-publishedDateTime: 2023-08-09T18:42:00Z
-originalUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446"
-webUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446"
+publishedDateTime: 2023-08-09T18:45:00Z
+originalUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792"
+webUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792"
+ampWebUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
+cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: IT World Canada
-  domain: itworldcanada.com
+  name: IT Business
+  domain: itbusiness.ca
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://i.itbusiness.ca/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
+    width: 1920
+    height: 720
+    isCached: true
 
 related:
   - title: "IBM Plans to Make Llama 2 Available within watsonx.ai Platform"
@@ -27,7 +35,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 71
+    quality: 88
     images:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71223-Hero.Watsonx.jpeg"
         width: 1400
@@ -102,6 +110,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "IBM to host Meta’s Llama 2 for enterprise AI development"
+    excerpt: "IBM Corp. today said it will host Meta Platforms Inc.’s Llama 2, a 70-billion-parameter large language model, in the watsonx.ai studio enterprise artificial intelligence development platform it announced in May. Early access is now available to select clients."
+    publishedDateTime: 2023-08-09T16:33:00Z
+    webUrl: "https://siliconangle.com/2023/08/09/ibm-host-llama-2-enterprise-ai-development/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Llama__2-1920x720-1.jpg"
+        width: 1920
+        height: 720
+        isCached: true
   - title: "IBM Collaborates With Meta to Integrate Llama 2 into Watsonx.ai Platform"
     excerpt: "IBM announced that it would host Meta's Llama 2-chat 70 billion parameter model in the watsonx.ai studio, with early access  available to select clients and partners."
     publishedDateTime: 2023-08-09T18:33:00Z
@@ -121,6 +143,6 @@ related:
       domain: prnewswire.co.uk
     quality: 32
 
-secured: "Y2lSB6/3sRIaJv4zwiDqzMiqqONXIc34bKQp2F/VCLocs1yByC9LuS+tgdiIcGbrNc8A57MrKQzESxwUv6XAhtX0Xp2JVQUi1LKlcCyWReaOoFopHRvJjcFCrGDiA5RX7nV3uMfm9eBvRdvVckCk7R1MYk4j0nVoRu0Q7ycugB3Df9Tel7CngAHCy+JgFso49LMHSuHxCRd9KNJFb0n6QJITkcaWwCcjYjdGbcUcF3AtwFEFXpiqQbzZaApjBeLiF5nZ3CByMTl0IjAOJQX8lmUDLFJc8Xn7cH6CnQH7c/mB/Q4V2XDrWrlvP3ucyq6+ki0wYsbPe7FXlfsW1HiJslOtldZlRuSMPqRdJsv635UbSRifmpGBoAis3l5cRfhTK9JcL96Z45z2s3rCpou/7rP7Kix7mHpahXZEWqZQh3CN1AIleOEExhDBaV2KxRXnOw70Ewss67RT892cTjoXk6pG+jICQl+b/Z4gE6qSdxM2MbuVqErD+d8q3ralGPMDwaGEKP7CzNpEW+q6EAy9nA==;8pNV2LL8p6bWKPvjdXAXVg=="
+secured: "v+YReX33HNAt4Au/4CJz6SgY7hzbQqAJW0tz+f4txY/gs0rha5g1WasGZjZepWz3nEykySbLJ8pWXNiSYZKTz9MDdspHqAsTQzxhz7LqcyIEt2o4/kvZAKFaRS0AVvtrFwrE2M8GSvNOJWllKHn8xULoOb36/D8tJ9zpNNbXqRR49kKODK++JahTT8qGMTwvXud2Gyl3zVovi1tnRgmQxw6nULhy7wzvk3nOSgowBgIbbp4kXU0/UO61jXD25xX6JK7MuIWcgRomfOY2xHOvUYjBKK+0EWCmBJmEar2s+2sb5nGHacbQM3Ieuw7uKVpVvCkfTh+oMSfAFyJgimDAH0G/gEhthpgrUld0Nn+GGVs=;qgGfO1mIB0zVvKqlDka0YA=="
 ---
 

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,8 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "IBM AI"
       ]
     },
     {
@@ -63,7 +64,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 340,
+      "heat": 350,
       "tags": null,
       "images": [
         {

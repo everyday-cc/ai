@@ -2,17 +2,17 @@
 category: news
 title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
 excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
-publishedDateTime: 2023-08-10T20:44:00Z
-originalUrl: "https://wusfnews.wusf.usf.edu/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
-webUrl: "https://wusfnews.wusf.usf.edu/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
+publishedDateTime: 2023-08-11T01:44:00Z
+originalUrl: "https://www.wuwm.com/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
+webUrl: "https://www.wuwm.com/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: wusfnews.wusf.usf.edu
-  domain: usf.edu
+  name: WUWM
+  domain: wuwm.com
 
 topics:
   - AI in Autos
@@ -109,6 +109,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "1HfscwSqo60mogtlgsOb+/7ib2HeuQgWFOW97yXZQ2aY/Jpg5955l/P5JNVpUgIgWDU3TvUUcIoUOu80VHwOHOTFoEDNLIOrftaivjUa5xg/QmqawSiCC6+S3L3And6B1Vp7425YUXZm19zX5p+yhTQ5F+170q9hk4Ddm2KtjXceK7V3DkZidh8vxUvVt9T9R6v3rJnqZ5tljYnbAi+Adqjb+fmlAgb9zvsxTA8k12165CjmFUEOTBMdl4dnZHChKjFvJ7fMqEZ0buTm5WWmW69Bn2uJ+/KuCMCEbIImSEqU9ZGQ06fZlhZlY3qdcDv7Qrkgy7b+Csp3NVWwZwW2ihHiVRJqTyaCUrMDs31IMsurSth9aAXc6Iv98wImQkCvi2XZqYRcUXz+UIPFNOOuJnyC7HhY/sh5USnMavY3CHhDTgfInd5XtY5Uzo7jwq6kBSz20JDtoVai+gDr8KRx55CfI0pDIlfFPt7BfFmUuqv6txxyPA2eKp5d8MM+76CcOag1b+LUYY6knBIN96QzxA==;JsCvAlTROPh9dLguxOl/0w=="
+secured: "2d1de1jF8+NpnAd1pqpDM0VDS1i6GCKONyCyYiG4tRDNHa8wYnqwZrLgaWtjAOQJ70tJUBXxWCnP3CmrqTrtWaKcwZw0j3d9uCqrzYztSArmjGC6RV7t9damlPuNX4Ey//tvFHm7icnkqmF/bg2TY8v298waPfTthoP4ebOwcDVED8iBc4X0MMAa833gfRCTEqjx5r+jUu5n3FePB8kUyT0DW4M0BHii+N7UDE72MwLDLJBWRrzkvaX7/AOifEg+bV9wPHvnXGR+Wl7s26fbv/XT3oivHrS6jhRDmz0mrvyd7DcUV9Njj/zkyCKQNQFDddl4s8uPpl6074UhB0odbwy0lTBcHCB+zC4dFAEw7KM=;e70s196o/SE0fn4rBMbHLA=="
 ---
 

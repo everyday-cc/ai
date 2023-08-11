@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-can-now-steal-your-passwords-by-list
 webUrl: "https://www.pcmag.com/news/ai-can-now-steal-your-passwords-by-listening-to-your-keystrokes"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers successfully train deep learning model to steal data from Keyboard keystrokes"
-    excerpt: "The model trained by British researchers can understand what you are typing by simply listening to keystrokes on your keyboard."
-    publishedDateTime: 2023-08-06T08:57:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/researchers-successfully-train-deep-learning-model-to-steal-data-from-keyboard-keystrokes-8879187/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/researchers-successfully-train-deep-learning-model-to-steal-data-from-keyboard-keystrokes-8879187/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/researchers-successfully-train-deep-learning-model-to-steal-data-from-keyboard-keystrokes-8879187/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 65
-    images:
-      - url: "https://images.indianexpress.com/2023/08/Deep-learning-model.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Deep learning model can steal data by listening to keystrokes with 95% accuracy"
     excerpt: "A team of UK researchers has trained a deep learning model to interpret keystrokes remotely based solely on audio."
     publishedDateTime: 2023-08-09T10:04:00Z

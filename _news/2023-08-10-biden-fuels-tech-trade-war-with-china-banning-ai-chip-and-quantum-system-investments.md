@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html"
 type: article
 quality: 66
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 27
+  - title: "Mark Lee speaks on artificial intelligence following U.S. order on investments in Chinese tech secto"
+    excerpt: "The U.S. announce new trade rules to China reducing its access to U.S. microchip technology. Beijing says the order seriously disrupts the security of the global industrial and supply chains as well as fair competition."
+    publishedDateTime: 2023-08-11T01:39:00Z
+    webUrl: "https://www.cbsnews.com/detroit/video/mark-lee-speaks-on-artificial-intelligence-following-u-s-order-on-investments-in-chinese-tech-secto/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 22
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/11/e634c5af-7212-4b44-b55a-ad3a9f2a551c/thumbnail/1200x630/2c5fbb459b3252cc5223dd8490b4250b/ae2dfb51adecbc530c78e39a48b98cb5.jpg?v=08aa43fa812a9e12e93282c47f58b17f"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden issues an executive order restricting U.S. investments in Chinese technology"
     excerpt: "President Joe Biden signed an executive order Wednesday to block and regulate high-tech U.S.-based investments going toward China -- a move the administration said was targeted but it also reflected an intensifying competition between the world's two biggest powers."
     publishedDateTime: 2023-08-09T23:06:00Z
@@ -81,6 +95,6 @@ related:
         height: 573
         isCached: true
 
-secured: "5+DLK1eES2b1vZj206p7X9uzn37ZSUJlQrAV5kLR8jDCIt0HQDMoP5aMWOIegcsZqYuCpEOTRvxHem6mH/h2S9sYzCaJyKqJ7R6gxRdY1usFM/VxMeb1GzuwUWmz4uARmJD5VcmJzPteLkLsSSxnlMpMRF9Fgm1eb4/wY25lGgOV9oUQMjyUyE5Ib8RLtJmC9VLQPbpyCp0K1KgfXbpBN6FsAHIBJ5kHA1mOcD61wG94ww8cXOEqme67cqAumuMe2o/HHIWK6C3qkdwgOgEsF6LO++wuJZ85FayvAD7f3feEJpsM2d+UO59hRs4f9aqskVSYS9Mfo9vg+EVquGFn/4csxzdhuI7150Cnm+k74fU=;zGlIejMQdq/YMCznD1JKww=="
+secured: "DoORf8pPzhn6TMg9lvooiaiqPUxirwOdK8nMXgFrDrJjZiN/RHXt9NAJmS+nSz91LtSpl0Z96Ln4bGckRFHHy2L33/RycrHT/QlWFDk22727mgCBYHQDVAOw5c8WcIu6JCRKcENEfOJHiib2fk+Oc3iOUh+d/R+hS+fsinsP/24jM8nlhWanReIoSCKbAorvWEtLdfomDizGFg9DxybctVQCPTuNUiqTyZpVEqzYYHW4g58JktSsIISGSoJK5maMBxFHWOlyjX65QSAyAK9z16uIIjIjiNbo5DWxgfn0RlGjL98wqw7WfpLI8N+jBzK+xAV2j36jX/aYFdIcL/z6CVuxmOIfIscSuVIkX5BQqoblClSZYA3gOm6YI+NJ/csaEhQKLI/9qozRl89YQ3ruXWAL8GI1qGMqZLiTd5Lhdd45DW78OelTR7KkKiCHnHyBRqWpzOJidRXehnCchU9ggExe/qi+xuxJlyhLddv9i6Udsq+b2XTCdPMLzt6+88qXJy2b1blp0iRuXPNBp6Gb0Q==;Z/2hWuUlJxzV4FKI1fSvTg=="
 ---
 

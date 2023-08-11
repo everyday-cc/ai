@@ -95,12 +95,12 @@ related:
         isCached: true
   - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
     excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
-    publishedDateTime: 2023-08-10T20:44:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
+    publishedDateTime: 2023-08-11T01:44:00Z
+    webUrl: "https://www.wuwm.com/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
     type: article
     provider:
-      name: wusfnews.wusf.usf.edu
-      domain: usf.edu
+      name: WUWM
+      domain: wuwm.com
     quality: 18
     images:
       - url: "https://npr.brightspotcdn.com/dims4/default/a576e85/2147483647/strip/true/crop/4948x2598+0+319/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F08%2F10%2Fgettyimages-1390904872_custom-facb4d78b06ed88683d0ad1b438c70c0e9e87cdf.jpg"

@@ -27,6 +27,20 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 48
+  - title: "Cruise, Waymo given green light for robo-taxis across San Francisco"
+    excerpt: "Waymo, Cruise self-driving cars can charge for taxi service. Companies have promised thousands of additional cars on San Francisco streets."
+    publishedDateTime: 2023-08-11T01:19:00Z
+    webUrl: "https://missionlocal.org/2023/08/cruise-waymo-given-green-light-for-robo-taxis-across-san-francisco/"
+    type: article
+    provider:
+      name: Mission Local
+      domain: missionlocal.org
+    quality: 39
+    images:
+      - url: "https://missionloca.s3.amazonaws.com/mission/wp-content/uploads/2023/08/IMG_4511-scaled-e1691694476680.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "120 driverless road trains for the West Pilbara"
     excerpt: "In a world-first, MinRes will deploy a fleet of 120 autonomous road trains, which will each carry 330 tonnes of iron ore along a 150km route."
     publishedDateTime: 2023-08-08T03:59:00Z

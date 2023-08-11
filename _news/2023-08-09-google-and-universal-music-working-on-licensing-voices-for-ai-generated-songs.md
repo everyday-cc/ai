@@ -174,6 +174,20 @@ related:
         width: 1260
         height: 578
         isCached: true
+  - title: "Generative AI Is Making Companies Even More Thirsty for Your Data"
+    excerpt: "The outcry over Zoom's tweak to its data policy shows how the race to build more powerful AI models creates new pressure to source training data—including by juicing it from users."
+    publishedDateTime: 2023-08-10T16:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64d430e957ff6ec62db8a934/191:100/w_1280,c_limit/Zoom-User-Data-AI-Training-Fast-Forward-Business-616146659.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Don’t quit your day job: Generative AI and the end of programming"
     excerpt: "AI is something to be learned, tested and incorporated into practices so programmers can focus on understanding and solving problems."
     publishedDateTime: 2023-08-06T17:10:00Z

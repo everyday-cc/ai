@@ -184,6 +184,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
+  - title: "ODMs see Nvidia GPU shortage curb AI server shipments"
+    excerpt: "Wiwynn, and Giga Computing have experienced delays in fulfilling AI server orders due to the ongoing GPU shortage at Nvidia, according to industry sources.."
+    publishedDateTime: 2023-08-11T01:17:00Z
+    webUrl: "https://www.digitimes.com/news/a20230811PD200/ai-server-gpu-nvidia-qct.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230811pd200_files/2_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
   - title: "Nvidia Unveils Faster Processor Aimed at Cementing AI Dominance"
     excerpt: "Nvidia Corp. announced an updated AI processor that gives a jolt to the chip’s capacity and speed, seeking to cement the company’s dominance in a burgeoning market."
     publishedDateTime: 2023-08-08T15:32:00Z

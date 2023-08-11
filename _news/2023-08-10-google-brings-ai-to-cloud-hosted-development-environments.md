@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704630/google-brings-ai-to-cloud-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.amp.html"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04AAbAeVeJinOoug3fEFQcy-1.fit_lim.size_1200x630.v1691700084.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "IBM to host Meta’s Llama 2 for enterprise AI development"
-    excerpt: "IBM Corp. today said it will host Meta Platforms Inc.’s Llama 2, a 70-billion-parameter large language model, in the watsonx.ai studio enterprise artificial intelligence development platform it announced in May. Early access is now available to select clients."
-    publishedDateTime: 2023-08-09T16:33:00Z
-    webUrl: "https://siliconangle.com/2023/08/09/ibm-host-llama-2-enterprise-ai-development/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Llama__2-1920x720-1.jpg"
-        width: 1920
-        height: 720
         isCached: true
   - title: "The Impact of Artificial Intelligence on Software Development"
     excerpt: "Jamie Boote warns developers, architects and QA testers to remain vigilant over the use of AI in software development"

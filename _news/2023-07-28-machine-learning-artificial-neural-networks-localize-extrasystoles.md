@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/60263_kit_logo_en_farbe_positiv.jpg"
@@ -21,6 +22,6 @@ images:
     height: 547
     isCached: true
 
-secured: "+nYe0OahBmyIqFltBIKH6825c4OS0J2JE1B7tVA3ds4qcmSWgASogj/0lycbEMu4V1rIR0s738d59dveG8wqKUGtLNUsfLq/Zq6mrgIvBt3eIxZQ5KTIwTw5hHxEg55ydjoHurVLUrRYstg8Yr95TTILOXHICXUDh85b6XEAaGs0/rkdBtSD68X28Cq154XLyNYV//zLqg5ZEVH1D5lv5EWiKoEibSS1n1c//2Vj4utzHVNvzJv/GM7IMlgTFblACFtsxHeKIBhMuuTRVZvDA+7yPn5692EDoI5mPxdZQZ1hDSFBYNxmPAFyW0hH/U0wXWlMCAu47FSbo+8VgSVfxpgdRBSe/ItvLbatbqavkOo=;D6uzhxrxCioySlzC0n2UnA=="
+secured: "za9RPuWuJdbPE+81ojloRKQyjaKlMfek4si2KEq7veGE681Gsp+r6pYiWZR+c2Xe1q1CZEJcKKFMvJ4D/oE1WrQ0PRB1v5hjsCXzmqhACl7dCuym5Pwd9sXecOj2oNk8jy18RRqImJQzI+/RePeowl5XiXbEkenwa+/QjHANp+vyyZmwJllPDd5vIeqT4w4aBmRsE/ndNYZ/Dak6q7aIOnqGgijkwMaSIFOkHK/7wotnZ/vXk5oCjwYAovLCTs2CMM75eJ12en5ZfE8CKqnCVKPDJhs3iFfCr/TxlVl1tHfnG6TyzSA5JdGC96LvAOVSbDjnZ5Gk1+saXA3dNC9JeUae/py3K1/jJUeKRoxUJUd2nGOCT6PxrLui5MngQ1FXtL8Z9/tI0+tAw1NFgd2bmgoLwbQc7kGSMQGoQpe6Hi9l/dfvNuHdEfAhVDjpAsLOM47M8FzdMi+v6aPjqyLiwNDYrj56eJUa2k2vd5tL+8dZgeDLafXNr0P612xXwp30eQGXPEQDuOWVzi52mhgT7g==;MFse35ssiM8WFXZwKKobrA=="
 ---
 

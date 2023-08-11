@@ -48,20 +48,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "IBM to host Meta’s Llama 2 for enterprise AI development"
-    excerpt: "IBM Corp. today said it will host Meta Platforms Inc.’s Llama 2, a 70-billion-parameter large language model, in the watsonx.ai studio enterprise artificial intelligence development platform it announced in May. Early access is now available to select clients."
-    publishedDateTime: 2023-08-09T16:33:00Z
-    webUrl: "https://siliconangle.com/2023/08/09/ibm-host-llama-2-enterprise-ai-development/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Llama__2-1920x720-1.jpg"
-        width: 1920
-        height: 720
-        isCached: true
 
 secured: "D/cH0wAYzWV4i4FLYlGlFWphQxYiniGgr43y6BSIjlnga9jSE3Maxlkk73YV88/d5VRK/ziNxmBNQq9mgeLtUW/HFnCA2Xr3Xj4v8P9MJJUDmPNpmfucbzwvajCtBolrCNmZul85/J0gtnNjgIhZOauitFVYOosbqGkfOuWAqzhAOK77gXIx8mX+LSreAd7uZE5gu7bLNhqhIYg1+xNETS+OoEMsc0DJGzAGJIfhZFl9uplkWDDqXsOvSZR4zK80e8kuP4HltiuAYdB24vV5rDw37LmmUFghL3PP5NIE5q7504rKxzMNA2HMtB2x2nVoBSMEe4Mh6++Z9f842HhaXfvY2hGR4pccfJup/FTr4XxjUo6CVQmvDj1DOQmWfdqgwxrWsNk730A1pTD2+4yBdSyXkHkb9LlMUdvxo0jhwPBiWPxcMClV9BL25V9sP0QmgVng5mc32B2jASqEfrVjmy6itseq8sAKt8dtOXWqz6RbKwELm+yM/g99bPm3DxVP+IlrL7hIizNWSfSoWUYxrQ==;4snBkLZ8pFc6dytc3Lbxmw=="
 ---

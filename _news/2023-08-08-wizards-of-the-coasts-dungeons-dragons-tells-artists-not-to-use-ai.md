@@ -36,6 +36,20 @@ related:
         width: 620
         height: 415
         isCached: true
+  - title: "Journalists seek regulations to govern fast-moving artificial intelligence technology"
+    excerpt: "Several news organizations, writers and photographers groups are pushing to be involved in creating standards for the use of artificial"
+    publishedDateTime: 2023-08-09T20:39:00Z
+    webUrl: "https://mynorthwest.com/3918712/journalists-seek-regulations-to-govern-fast-moving-artificial-intelligence-technology/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 32
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
+        width: 452
+        height: 282
+        isCached: true
 
 secured: "LYWuSdN7P8BYTsaj6LePN6mqdDAgJWhdtGa7vU8HeSv3tW2KL3PCQ0mK6AMAAO1V0z+Zy0XtR1NhH2F4puw/ylPM2uqDvL3eP/2f9qMExwOiZ+RYYOz3JRBeJDMw4T5D9T0bv6Ckgt9IHGRPD1tz3trFfzvavGKVJ9qmmvcJtuIpKroNQcwLMaN1oIHsuX1ePOntCooiJE3rZkx3Xu5AYB/roleVtWudewH/yBqO6gGxzVZ9kRCCJc4A4bm6oM3UcitFuDckySCONfnDiLNg+6us/vY9Y8FtCAWj/MnKPogSU6iu/cM3uAi8ZJx1WxZQ4PzLhAQ6z8pmY+bNgq2HvAxPRb/O46Vwj6t7w7wY6Mp+QRp2dKA+6Ky2asLc771Jp/u1aYStBCb4Jo0vEy8HQ1ugDIwNXHczexznc5YqrNiRWZDrK5uOJRylL4sNNTxYOu74Dnb5RTolE3izF6WRbKDu79/9FkugzilGOJ5+yARc4KDG1t/Cm6Y+q18YWKUmm9NIAINEhdRB9wkIomHw6A==;H4gBoEBFQioU4+ZeJeaaYA=="
 ---

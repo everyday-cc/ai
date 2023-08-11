@@ -80,6 +80,20 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 27
+  - title: "Mark Lee speaks on artificial intelligence following U.S. order on investments in Chinese tech secto"
+    excerpt: "The U.S. announce new trade rules to China reducing its access to U.S. microchip technology. Beijing says the order seriously disrupts the security of the global industrial and supply chains as well as fair competition."
+    publishedDateTime: 2023-08-11T01:39:00Z
+    webUrl: "https://www.cbsnews.com/detroit/video/mark-lee-speaks-on-artificial-intelligence-following-u-s-order-on-investments-in-chinese-tech-secto/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 22
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/11/e634c5af-7212-4b44-b55a-ad3a9f2a551c/thumbnail/1200x630/2c5fbb459b3252cc5223dd8490b4250b/ae2dfb51adecbc530c78e39a48b98cb5.jpg?v=08aa43fa812a9e12e93282c47f58b17f"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "XZOyJNdU2pEbaEdRHLsWJGPxWE4jKhP7bb0NG2/Bejk6KN3919kXM3Fe+p2EwOh1K/RUZpNRgvWGTFzCcgA05dWt1i5XHu/DDnAsqctPvuYKEkcZIde/PQZkNdJX792ciZbK4klF8bz02Ydo9chdAEScZWSrWoAg3IIqQBSvU/IXI7MyrXT6rOQR1yM4VYCCF6TCFcAeVhOgOVLCSf4y5toZk9TSM6HH/1QwK4aCnkxRuN/VZJHpnzcCuuD1RqaAA9t5rHgx30rIgkC8fswvKDPYd+XXzjDaAxAk4H4YFc/HvLNsDl/cpMdvVi+b75QOyct3gebcCybxwDc7ghhsX70e1WNScTkEXE4coUuvPwM=;9KNUZ3AoUzTVTpFXKSY0aQ=="
 ---

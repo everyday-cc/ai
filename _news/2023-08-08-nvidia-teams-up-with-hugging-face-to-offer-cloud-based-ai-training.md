@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
 type: article
 quality: 89
-heat: 299
+heat: 309
 published: true
 
 provider:
@@ -174,6 +174,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
+  - title: "ODMs see Nvidia GPU shortage curb AI server shipments"
+    excerpt: "Wiwynn, and Giga Computing have experienced delays in fulfilling AI server orders due to the ongoing GPU shortage at Nvidia, according to industry sources.."
+    publishedDateTime: 2023-08-11T01:17:00Z
+    webUrl: "https://www.digitimes.com/news/a20230811PD200/ai-server-gpu-nvidia-qct.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230811pd200_files/2_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
   - title: "Chinese tech giants place $5 billion orders with Nvidia for generative AI chips"
     excerpt: "China’s tech giants, including Baidu, ByteDance, Tencent, and Alibaba, have initiated orders with Nvidia for $5 billion worth of chips to construct"
     publishedDateTime: 2023-08-10T07:22:00Z

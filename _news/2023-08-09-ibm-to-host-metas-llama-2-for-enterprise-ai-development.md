@@ -25,45 +25,123 @@ images:
     isCached: true
 
 related:
-  - title: "Google brings AI to cloud-hosted development environments"
-    excerpt: "Project IDX combines Codey-powered AI assistance and templates for popular JavaScript frameworks in a cloud-hosted Linux VM. Google said support for Python, Go, and other languages is coming soon."
-    publishedDateTime: 2023-08-10T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.html"
-    ampWebUrl: "https://www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.amp.html"
+  - title: "IBM Plans to Make Llama 2 Available within watsonx.ai Platform"
+    excerpt: "IBM makes plans with Meta's Llama 2. Plus, why open source may or may not be a differentiator in generative AI."
+    publishedDateTime: 2023-08-10T20:51:00Z
+    webUrl: "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 88
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/28/18/hand-showing-laptop-computer-with-cloud-network-computer-connects-to-internet-server-service.jpgs1024x1024wisk20c3gwxkwlddsf00-lunwxyq6ke23tl1t853fplvz67cvm-100944020-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71223-Hero.Watsonx.jpeg"
+        width: 1400
+        height: 884
         isCached: true
-  - title: "American Airlines Uses Google AI to Map Out Environmentally Friendly Flight Paths"
-    excerpt: "Google Research and AA join forces to create flight paths that produce fewer contrails, the thin white lines you often see behind planes. Early results are promising."
-    publishedDateTime: 2023-08-10T21:56:00Z
-    webUrl: "https://www.pcmag.com/news/american-airlines-uses-google-ai-to-map-out-environmentally-friendly-flight"
+  - title: "IBM to make Meta’s Llama 2 available on Watson X"
+    excerpt: "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,"
+    publishedDateTime: 2023-08-09T18:45:00Z
+    webUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792"
+    ampWebUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 62
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 74
     images:
-      - url: "https://i.pcmag.com/imagery/articles/04AAbAeVeJinOoug3fEFQcy-1.fit_lim.size_1200x630.v1691700084.jpg"
-        width: 1120
-        height: 630
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
+        width: 1920
+        height: 720
         isCached: true
-  - title: "The Impact of Artificial Intelligence on Software Development"
-    excerpt: "Jamie Boote warns developers, architects and QA testers to remain vigilant over the use of AI in software development"
-    publishedDateTime: 2023-08-08T11:59:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/ai-software-development/"
+  - title: "IBM deepens AI relationship with Meta, plans to add its model to Watson studio"
+    excerpt: "IBM continues to expand its relationship with Meta on the frontier of artificial intelligence. Here's what's happening."
+    publishedDateTime: 2023-08-10T15:32:00Z
+    webUrl: "https://wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/"
+    ampWebUrl: "https://wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/?amp=1"
     type: article
     provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 17
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 70
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/05/artificial-intelligence-5-5-23-e1683284669461.jpg"
+        width: 948
+        height: 532
+        isCached: true
+  - title: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses"
+    excerpt: "(Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language program on its own enterprise AI platform, watsonx. IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients."
+    publishedDateTime: 2023-08-09T12:10:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
+  - title: "IBM to host Meta's Llama 2 in Watsonx platform"
+    excerpt: "The International Business Machines Corporation (IBM) announced on Wednesday it plans to make Meta Platforms' large language model Llama 2-chat available within its Watsonx.ai platform. \"IBM"
+    publishedDateTime: 2023-08-09T14:12:00Z
+    webUrl: "https://www.teletrader.com/shbm-to-host-meta-s-llama-2-in-watsonx-platform/news/details/60472097"
+    ampWebUrl: "https://www.teletrader.com/amp/news/details/60472097"
+    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/60472097"
+    type: article
+    provider:
+      name: teletrader.com
+      domain: teletrader.com
+    quality: 59
+    images:
+      - url: "https://cdn.ttweb.net/News/images/299846.jpg?preset=w800_q70"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "IBM to Make Llama 2 Available Within Its Watsonx AI and Data Platform"
+    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to host Meta's Llama"
+    publishedDateTime: 2023-08-09T15:59:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
+        width: 300
+        height: 235
+        isCached: true
+  - title: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform"
+    excerpt: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform - As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to"
+    publishedDateTime: 2023-08-10T11:21:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-plans-to-make-metas-llama-2-available-within-its-watsonx-ai-and-data-platform-nid-224674-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 48
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/Lh7Oo24A.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "IBM Collaborates With Meta to Integrate Llama 2 into Watsonx.ai Platform"
+    excerpt: "IBM announced that it would host Meta's Llama 2-chat 70 billion parameter model in the watsonx.ai studio, with early access  available to select clients and partners."
+    publishedDateTime: 2023-08-09T18:33:00Z
+    webUrl: "https://analyticsindiamag.com/ibm-collaborates-with-meta-to-integrate-llama-2-into-watsonx-ai-platform/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
+  - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
+    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat"
+    publishedDateTime: 2023-08-09T12:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-301896401.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 32
 
 secured: "26AhBbfat2/XjM9+v0Pu3x4CCDKkNdXQRtIRfdGYVdZNniN3m25LRr9xHNhgO/yxZD7XRlM/9HXTRxfr38+Kpae0N+ihFo/uVSmN6N5rnNRfWaNKplmmOQwy2wZaHgUp8QXKTUjuqe+PqjyERbf/PU5pKjEjcUhkZKgK9g4mdknHjzmeEMdyJgv2mvnMqg/y2yfjYcKqAkAhpBkVwvxO1F+eiOM2UK/oQ69SLrSNO8pqtAM16C7SLKPPh4MPGIF/2G70sEzH73b5e/G0lkaLVuFBc5XQOten8MIvvE113RY6VCP+jLAVlBStO2mI4tkFoGAxXd08PKuilj05I+9z4LEOG9SKtpRnazZsIrRx4kc=;QAKTJb5snT3Ot0VGuMwBng=="
 ---

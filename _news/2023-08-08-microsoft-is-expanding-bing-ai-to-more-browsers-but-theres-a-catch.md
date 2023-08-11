@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-expanding-bing
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/"
 type: article
 quality: 104
-heat: 384
+heat: 394
 published: true
 
 provider:
@@ -401,6 +401,15 @@ related:
     provider:
       name: Network World
       domain: networkworld.com
+    quality: 26
+  - title: "Kyndryl taps Microsoft generative AI for new service, moves toward future profitability"
+    excerpt: "The IT infrastructure provider announced the joint project with Microsoft on the heels of announcing significant 1Q 2024 earnings where Kyndryl executives said the company will return to profitability in the next year, at least a year ahead of what financial analysts predicted after the company spun out of IBM in November 2021."
+    publishedDateTime: 2023-08-11T01:24:00Z
+    webUrl: "https://www.arnnet.com.au/article/708304/kyndryl-taps-microsoft-generative-ai-new-service-moves-toward-future-profitability/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
     quality: 26
 
 secured: "gTta0PAU1GXk4ifc/L4rZ0f1ne77pUAL5GMeqYQEWkjJTYk7CdfbTuAFBTXU8jZbGKsivUMhPBFUcLAh2Q161uHv51CrLJAT1U7eiIDJdCVnDCVNydmqfFdh/j6YUmRBamrhcDm3KtCoTb+2hAUypG7iNTgyyAXpWHFy3AdeB/G4PKgYHWFsENL8IYOc/IDvE0lJ2XALycZbH2TKDNJRT6gDX2kc+mxbXRsQWc5yGqEUzFyOXdSw5VctQwnnqgxoubxtYcNJMIUcx9t5eZ5olmjG3RdeKL8byCakkRnl6MfnRosskTXrzKi8btOo3UvHwD9BrNyJGpEZalTrEmr5EtU79JGvn1BzO2mX24ePf0mQ4x5T8VQKTiSeAdnSVuVISJppNEkTcni4nty6A98rKCXUIx97y1SlbT3i0XuIMJFQ7mzlJruy9Y0FERsOF3cBhX7ASYmCiv1wwk9MZAtLKMKkRUiGPQW+3irotVN+W1BxgiS75Dc1qhxYZu+t3YMubNwt/DWFB8woBqHygkEXuQ==;rqVsoUpjPo8/MmIJA5lzYQ=="

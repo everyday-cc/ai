@@ -180,6 +180,20 @@ related:
         width: 1260
         height: 578
         isCached: true
+  - title: "Generative AI Is Making Companies Even More Thirsty for Your Data"
+    excerpt: "The outcry over Zoom's tweak to its data policy shows how the race to build more powerful AI models creates new pressure to source training data—including by juicing it from users."
+    publishedDateTime: 2023-08-10T16:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64d430e957ff6ec62db8a934/191:100/w_1280,c_limit/Zoom-User-Data-AI-Training-Fast-Forward-Business-616146659.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Gboard could soon let you use generative AI for proofreading and emojis"
     excerpt: "The latest Gboard beta uses generative AI for features such as proofreading, creating emoji stickers, and tone suggestions. Read on for more!"
     publishedDateTime: 2023-08-10T14:13:00Z

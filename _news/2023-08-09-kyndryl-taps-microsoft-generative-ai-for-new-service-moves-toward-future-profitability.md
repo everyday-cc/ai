@@ -397,6 +397,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 32
+  - title: "Kyndryl taps Microsoft generative AI for new service, moves toward future profitability"
+    excerpt: "The IT infrastructure provider announced the joint project with Microsoft on the heels of announcing significant 1Q 2024 earnings where Kyndryl executives said the company will return to profitability in the next year, at least a year ahead of what financial analysts predicted after the company spun out of IBM in November 2021."
+    publishedDateTime: 2023-08-11T01:24:00Z
+    webUrl: "https://www.arnnet.com.au/article/708304/kyndryl-taps-microsoft-generative-ai-new-service-moves-toward-future-profitability/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 26
 
 secured: "mc2qrPfXWyKXntsJbZlKlb7x7MPW80LE891UJZSSj0gU763owmO4h9fX7lPzbdmaZwMIoyuGa6qCojb5SMEFs/x359kLIoeWhh0XEKZoXUtces40qGx1eBTKz1vGOQ/P+TCqPYMDMRKPZYxBmG9ODD9eY4pJGAjiTaalAL3a3V7cSYQCeQp1UF7WT1Vw0FlaIP2mlCRVn4Tffiu5EsbPzIYDNy1n8IsJRgIqAS+aU/gTCOajjHrBu4F/GYPAY+MmtnNw1tISp4fB8/eiRBoNR112aYnJC3eOQRfU+7w5wxLBcFFwSzqf0JJZJ7aQsGPl/9vu5UNdIQ0JXFl1uAvlDPE4NHQxj+8Dz51LaArNYk3G/Xmg/7VnglMDqGv46qVuM4e1o6xefHmCiCbv8XPQO9ZWJcBC8v5fBwesmge8tDr9dXmUwk5uLfTlPEw7Se+HoVvbv7P7+eyywVy4AN46PYCZcJdiWLPuMA7HGsfUIWtgecJnve2GVTQ/Yi6B2SFL8LmddC3tb9dhYVjD7uJHUA==;V5wxTOs1WdmMZudWAFGLuA=="
 ---
