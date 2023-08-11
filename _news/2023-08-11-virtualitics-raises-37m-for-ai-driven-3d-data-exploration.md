@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/virtualitics-raises-37
 webUrl: "https://venturebeat.com/data-infrastructure/virtualitics-raises-37m-for-ai-driven-3d-data-exploration/"
 type: article
 quality: 67
-heat: 98
+heat: 109
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 0
+  - title: "Virtualitics, a Leader in Artificial Intelligence and Data Exploration, Closes $37 Million Series C Funding Round"
+    excerpt: "Virtualitics is revolutionizing and shaping the artificial intelligence and data exploration industry with its groundbreaking technology, Intelligent Exploration. Virtualitics' sophisticated AI-powered analytical capabilities empower data scientists"
+    publishedDateTime: 2023-08-11T12:48:00Z
+    webUrl: "https://www.cmswire.com/the-wire/virtualitics-a-leader-in-artificial-intelligence-and-data-exploration-closes-37-million-series-c-funding-round/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
     quality: 0
 
 secured: "lWYvCPH+uXYnnvT1IHfxdr+oeTlEqcDOyxUhLWgAvbaigRRuMoLKfZna8hIHX2nzfl0p8lh/01T5oEGAN3vAAnyHMsVUdz7+48Ghxou2xZffRviKbsZPXy/HGRmNdGd55nQKV+G0p16d/B6coR/GPGISWqJR3qd/G7FtJNgd91e9tRAFnZZtPUFm0G2uigHrp4Tqw6ib8J3dsslvfV4m/Opt9n0GAuXH00XbeP1Ng4+IRu08QjMIXHS5Qr79ekXI6C5ECeBNVrxZWlm63xC+DGob9hQ0WYUxBdEjbgrjVN3dCbDb3jWwcgAhiKiqkGhE9HOF3nxt/lChzPbdtFLEVA91bmfaf1Tmtmyrs/zeRREHEKlUxxcbYTao3oRioOIPmYgZpSVajUj7pa0RkB8APGgSdmG5NsGCVgGQX9coc3fsXq+DlErtBljcvKPOsuUlXlHiZckVHeRlnU7TOFB3iCdxW2JwUKEd44/GtEm0hlPHwEECqqXBCNKpCBQtmLe7a73yRmDRYBWwwqD7CWjxMg==;vbC4qF0K7LYoVbn41hBMaQ=="

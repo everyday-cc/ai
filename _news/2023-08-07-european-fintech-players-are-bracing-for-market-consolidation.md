@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/european-fintech-players-bracing-marke
 webUrl: "https://thenextweb.com/news/european-fintech-players-bracing-market-consolidation-across-the-market"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Empowering Financial Decisions: The Role of Fintech Software Development"
+    excerpt: "Finance - In today's fast-paced, digital world, the way we approach finance is evolving rapidly. No longer bound by the traditional confines of brick-and-mortar"
+    publishedDateTime: 2023-08-11T11:50:00Z
+    webUrl: "https://business-review.eu/money/finance/empowering-financial-decisions-the-role-of-fintech-software-development-250164"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 3
 
 secured: "tlEWOsjjVmeN/xGpiH8c8A3zrp3GRWZQb1LeIoJ65vLneV2Gk/p6I2AfDTUz8NSxqUfDPQwKsJbMiuez0tDWStLPJMI3wY0ud78IhLd0WjLfnPjD1QmIim3VavSw/GbuxSa3/KjJ44KxDtee8qq9C39JcUi2LRM9gW1xYLFqUJDQIqom0MvyDjjGeUMI0XNbuXjSyZ7H7svpN2Temw8k2ZRNs2TqZ2j63DvWWCwU0KaNlRTLYXub7nlmL950QSAMc1wQ7gvRS0GG+Xe/uGOJELh4snnNI6mvyRmqUZgVrYQMsJI6A57hqNiDTLan2W5hcC5Y1+nwTMLTfaNwPW7lIAn6QVHN4hRA/3ktEh1gSNl3WI3ubxWTqOKKJmNcw4XH1HScihJPBRtkJQD30Cfi2LcNVvWPgdMQAneKpouspGpKIP+QlHgCJAx8QrOwxz/Ui3xIoR7fNW/Fg26Avjx/nvMa5FGdNxJJG5XLWOdLub2KGF5NvcSUEyTKkxCfBzOur+cLto/52JgshWCKaIWsCA==;eHLOpX8c51m/8vrfy+BFpw=="
 ---

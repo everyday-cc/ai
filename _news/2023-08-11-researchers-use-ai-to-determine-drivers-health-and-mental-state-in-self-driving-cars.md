@@ -41,6 +41,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Redefining Robotics: Purdue University’s Innovative Machine Vision Solution"
+    excerpt: "Researchers at the esteemed Purdue University have made a significant leap in the realm of robotics, machine vision, and perception. Their groundbreaking approach offers a marked improvement over conventional techniques,"
+    publishedDateTime: 2023-08-11T12:35:00Z
+    webUrl: "https://www.unite.ai/redefining-robotics-purdue-universitys-innovative-machine-vision-solution/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 34
   - title: "Cruise now testing self-driving cars in Atlanta"
     excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."
     publishedDateTime: 2023-08-08T21:39:00Z

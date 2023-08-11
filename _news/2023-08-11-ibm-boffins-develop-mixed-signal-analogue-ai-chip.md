@@ -7,8 +7,8 @@ originalUrl: "https://www.fudzilla.com/news/ai/57401-ibm-boffins-develop-mixed-s
 webUrl: "https://www.fudzilla.com/news/ai/57401-ibm-boffins-develop-mixed-signal-analogue-ai-chip"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Fudzilla
@@ -39,6 +39,15 @@ related:
         width: 652
         height: 476
         isCached: true
+  - title: "IBM says all the building blocks for analogue AI are in place"
+    excerpt: "Analogue electronics promises a more efficient way to train AI systems than computers that rely on zeros and ones."
+    publishedDateTime: 2023-08-11T08:42:00Z
+    webUrl: "https://www.computerweekly.com/news/366548055/IBM-says-all-the-building-blocks-for-analogue-AI-are-in-place"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 19
 
 secured: "tnO9X/1QTfoo0BNvjE/vRMle+E2cf5pkRxgyD2TitmWOAlU2lGnQEsIcbrPjeUbh5ChL99GdI58RhsngCo1lfODuen6flh7A5fFO3cjsXv1u98eJBlGaw7rxVSO5p4wT2KX+rkn4CbqO1hMFDn0kWpI5dH8Id0rwLUYPNCOJHtm2Q8f/BCPs7OO0f4ywGAGPFxi02nfAuWWZaKyjxfokrekdfURY8VhEk40gBBSThTjjpsYlXOylxiHqNs8VvMotXhHNxL9Hoz29HC4Jh1Wv1pYhXoQRMRpE7zgEnJkTnQ0tmQ8ZZJWDp0uvzJlySPkgwIvKrEZvklANgq+z/+utL+6t0R4wB/RlWZa5tpLOzqY=;a/sm3p5QPDTgGWgPFInfYg=="
 ---

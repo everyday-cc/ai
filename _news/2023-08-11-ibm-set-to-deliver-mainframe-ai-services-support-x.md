@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3704491/ibm-set-to-deliver-main
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support-x.amp.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 1031
     isCached: true
 
-secured: "J0gevGlaYrHzcIdRj4Fq37eK8+bm9clE4HTg9obcir47IUhwgUpOB6v3tjVT2c145LyjFFTq+vIqH8RW9wAsRZIhZBwP188H+iPQ0nksyFeqbkdcFr+62BpP+EAGzL3GdGwnlmN/NgmB/dz3NsI+dydS5Uz1+Q8Ee1YlrElYNIoQVRVfTYYPNeSesPcQ07yNJjwWJobE4RXV90o+n79jWsPk3xBunD2N4seFPVuRE5IbAZxhJ7RHqUQV4BGsE+fVeepTxRKKqm/nR8BVDHlLx3Zdv9CZaowcvzcPnvKk4AsptAYk4b80Zc7eCqG7TvtBEMnoAZPfOOJn47bPs9TCKtzLz2JoSaq4FP98JUcYSAY=;u2uHR37sPCyh6KDjffK1RQ=="
+related:
+  - title: "IBM set to deliver mainframe AI services, support"
+    excerpt: "Set for delivery on Sept. 29, z/OS 3.1, the operating system grows IBM’s AI portfolio to let customers securely deploy AI applications co-located with z/OS applications and data, as well as a variety of new features such as container extensions for Red Hat and Linux applications that better support hybrid cloud applications on the Big Iron."
+    publishedDateTime: 2023-08-11T11:41:00Z
+    webUrl: "https://www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support.html"
+    ampWebUrl: "https://www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/24/09/thinkstockphotos-520137237-100610459-large-100922664-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 1031
+        isCached: true
+
+secured: "4MQPRDFsLP51QmsKydCh7JuHXdsyjZojA9OQHov/Ls1yHzkz0HhEmHqbugQvm9Ny9CgJkv5xqdDfsRudO/MqVGGr3r1mM/uDE6TR1NwGKUPnBBn23osnBnOhBJzOV58rnZa4O/H4QUl+qh/RDfZioxSxqWzExmXE0/h/0ywzdGDil2HPKZnGD1uDfd8i7F33lcsZJ6vgKco95/bSBcDNsFau2tAv0oysQAWR+guP6w2juP7LdPgq9Td7A4iFeqwGmG73qf12VJq9faP6WZrlkeq+jpqAhU4Y/jcVO95+zFlQBiQ1rt0bZiIc/B4VSnzb4FW+tFwXYVOeqr56Z3W2aEKz034l2bs0sjA4yAKSx5tfmlkNvPk1bG3ltrNdm3ybYEcdnJKPlS20GbbxOBWpaLT2Rvl2D/6NCPlpg95O4uyVsrQpdDSOxXI1GnnLmZPt5BJj1aZVkqUZCDVBFcaW4mSOnNmBuonruJ6BrO5io1vA5bimGazsRcsyPtNSX7b0+fP4cW4V5RfkyXyF3J/1IQ==;MEHg8EwfIfJIxqH7gXF0Rg=="
 ---
 

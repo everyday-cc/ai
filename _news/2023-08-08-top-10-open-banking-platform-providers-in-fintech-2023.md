@@ -81,6 +81,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Empowering Financial Decisions: The Role of Fintech Software Development"
+    excerpt: "Finance - In today's fast-paced, digital world, the way we approach finance is evolving rapidly. No longer bound by the traditional confines of brick-and-mortar"
+    publishedDateTime: 2023-08-11T11:50:00Z
+    webUrl: "https://business-review.eu/money/finance/empowering-financial-decisions-the-role-of-fintech-software-development-250164"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 3
 
 secured: "zvlGy6ls5dFAn+l9/CVB7BLdMAAtR3iZcW94q4pk+zAVu5K5Bna9lxZgKJkWF9fJFYCfORkEsAo+YjoH4BZ8D5u6hXOx916x4xbtpa5M+p9pex7gCiLOQHPlHN47PAhtUQTa2qKDo1DDBzpHnsbDFBuymZ7RGsoUHMW9yYpH33waVj2bPK3sM5vWHp2qBFfV3mMYGXjLacC3sPCGpv3xX6DiY5YJxBpsX9RdhAKGBzRlaZJrnFJ3JPshF7XF3zUiowjTpJUz+64bKqfY+htIJc9yiG9OD59xvEm/d9LRFR8015ygIP4IPzVU3HFXI3C54dDMDgnWsT4Sj/SmYJCMYFqp7QKd7BNbpGLwULsB5b6aJYNbJpHIi+mEDq8ppthzfQMRIGOo/P698OVHiXcgPjBX08TTK1vKIqxJjSqvZet7aCicngpYHQLr6ynJdnW7uVj5niPl+wJDA4Flom6hIAaLh207vFwo8kY91mZPwTnQkDxU1KMHGX+QlX2fCXdN1TKo0gGaMb29aWBen8va3Q==;4Jz07eGT+yOLuxLeaYSZxQ=="
 ---

@@ -1,0 +1,95 @@
+---
+category: news
+title: "Empowering Financial Decisions: The Role of Fintech Software Development"
+excerpt: "Finance - In today's fast-paced, digital world, the way we approach finance is evolving rapidly. No longer bound by the traditional confines of brick-and-mortar"
+publishedDateTime: 2023-08-11T11:50:00Z
+originalUrl: "https://business-review.eu/money/finance/empowering-financial-decisions-the-role-of-fintech-software-development-250164"
+webUrl: "https://business-review.eu/money/finance/empowering-financial-decisions-the-role-of-fintech-software-development-250164"
+type: article
+quality: 3
+heat: -1
+published: false
+
+provider:
+  name: business-review.eu
+  domain: business-review.eu
+
+topics:
+  - AI in Finance
+  - AI
+
+related:
+  - title: "European fintech players are bracing for market consolidation"
+    excerpt: "When Monzo published its latest annual revenue figures in February, it provided a flicker of light after months of headlines about fintech down rounds and job cuts. The accounts showed that the UK dig"
+    publishedDateTime: 2023-08-07T09:47:00Z
+    webUrl: "https://thenextweb.com/news/european-fintech-players-bracing-market-consolidation-across-the-market"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FUntitled-design-6-2.jpg&signature=bdddb9af2169a3041de36e8b6d85395c"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Top 10 open banking platform providers in fintech 2023"
+    excerpt: "These are some of the most influential companies creating technology solutions and APIs to help power the open banking revolution evident in fintech today"
+    publishedDateTime: 2023-08-08T15:21:00Z
+    webUrl: "https://fintechmagazine.com/articles/top-10-open-banking-platform-providers-in-fintech-2023"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/120979ac155e6895f8e9319a94192628:855e75eea6a62c78c29f8b3e93a8fcad/gettyimages-1415779751.jpg.jpg"
+        width: 1200
+        height: 629
+        isCached: true
+  - title: "2023’s Biggest Fintech Acquisition Deals"
+    excerpt: "To get a sense of this year’s fintech M&A landscape, we compiled a list of eight of the largest merger and acquisition (M&A) deals in the sector announced in the first half of 2023."
+    publishedDateTime: 2023-08-08T04:07:00Z
+    webUrl: "https://fintechnews.ch/fintechusa/2023-biggest-fintech-acquisition-deals/63010/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/08/H1-2023s-Biggest-Fintech-Acquisition-Deals.png?x30842"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "What Are Examples of FinTech?"
+    excerpt: "What Are Examples of FinTech? To demystify the world of FinTech, we asked ten industry leaders and financial experts to share their insights. From Monzo as an all-digital bank to crowdfunding as a modern financial tool,"
+    publishedDateTime: 2023-08-08T23:15:00Z
+    webUrl: "https://techbullion.com/what-are-examples-of-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/What-Are-Examples-of-FinTech-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Hong Kong tech firm, ASL, accelerates growth in fintech arena with Finastra"
+    excerpt: "HONG KONG, Aug. 8, 2023 /PRNewswire/ -- Automated Systems Holdings Limited (ASL) (771.HK), a leading global IT solutions and services provider, has strategically partnered with Finastra, a global provider of financial software applications and marketplaces, to bolster its industry-specific DevSecOps business and strengthen its fintech trajectory."
+    publishedDateTime: 2023-08-08T05:04:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9860566.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/2170918/Finastra_ASL.jpg"
+        width: 400
+        height: 267
+        isCached: true
+
+secured: "IzPFY+y6UebEGjawhdiVu1a9ltrbwyF6bX/FEMPoPyULWmyx9Z8f6O/Mj13Gs1IWvpe8XFeaZVPzY/6NjDx9cARL868Dd9IJcRYi3OOpIZ26dDSFD5w7M/I/5/qZw12+qP1YXAQlK/d4+JGILdZZg/y1LoM22nMV78ii1EH1pd/7GDeWsbepdhXE6KkWTDSpcD+NSqLKuCOKUe0kHAjopN1O4Pah5hYVJVJs/yLBYZV5ZBsSbLtVkaBS2quVInPb9n3A0tNKEItFAcfiN0j8DnvkeYWCa2Lm8i8sUMvd+9RfK585YIExaGL8edQc7/EHlS6o+GRUCfVHdIB3Ql4sQMBmwx0TjEqLEweYS+20sKtUzaIMJobt4CUf6DeMI2RSDzwcx/SQn7tgM43sZP6x6PDK+mewKmn7FJQr9wFYob/seAR490ojFKo1ds3iWrn//a4Y3y20TtZkqC3LOf6gxeVvNUr63XGBhX67CVfdzB5SaaYgcNWt+9cITfyvvmY+EUl672xtRUQ4OF4alzanxw==;BVqMrEq65zKNsHV3TONpsQ=="
+---
+

@@ -88,6 +88,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Zero-shot text classification with Amazon SageMaker JumpStart"
+    excerpt: "Natural language processing (NLP) is the field in machine learning (ML) concerned with giving computers the ability to understand text and spoken words in the same way as human beings can. Recently, state-of-the-art architectures like the transformer architecture are used to achieve near-human performance"
+    publishedDateTime: 2023-08-11T14:56:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/zero-shot-text-classification-with-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/31/ML-13226-Picture6-1219x630.png"
+        width: 1219
+        height: 630
+        isCached: true
   - title: "Is Generative AI Stealing From Artists?"
     excerpt: "Delve into the contentious debate around ownership, credit, and financial compensation for art created by AI tools, exploring artists' rights and IP laws."
     publishedDateTime: 2023-08-08T06:36:00Z
@@ -208,6 +222,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Security For Generative AI That Can Make Or Break Your Enterprise"
+    excerpt: "To mitigate the potential landmines, companies must adopt a zero-trust approach to protect their data and enable access to AI applications. Data protection becomes paramount as the potential for information breaches continues to grow. You can defend your organization against risks related to generative AI by implementing the following strategies."
+    publishedDateTime: 2023-08-11T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/security-for-generative-ai-that-can-make-or-break-your-enterprise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Elsevier wades into generative AI - cautiously"
     excerpt: "Scientific giant Elsevier is cautiously adding generative AI capabilities to its Scopus abstract and citation database. And it jumpstarted the process by leveraging the ChatGPT engine."
     publishedDateTime: 2023-08-09T09:44:00Z
@@ -269,6 +292,15 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
+    quality: 49
+  - title: "With Generative AI, Businesses Should Listen More And Generate Less"
+    excerpt: "The implementation of large-scale language analytics promises transformative impacts across various sectors, boosting efficiency and providing insightful analysis."
+    publishedDateTime: 2023-08-11T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/with-generative-ai-businesses-should-listen-more-and-generate-lessamit-ben/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 49
   - title: "Using Generative AI To Connect Lab To Fab Test"
     excerpt: "Executive Insight: Thomas Benjamin, CTO at National Instruments, sat down with Semiconductor Engineering to discuss a new way of look at test, using data as a starting point and generative AI as bridge between different capabilities."
@@ -368,6 +400,15 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
+    quality: 19
+  - title: "Exploring Generative AI: Applications, Risks, and Future Implications"
+    excerpt: "Embark on a captivating journey into the realm of Generative AI as we unravel its mysteries in our latest blog. Join us as we explore how Generative AI is transforming art, design, content creation, and healthcare."
+    publishedDateTime: 2023-08-11T12:41:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2555410-exploring-generative-ai-applications-risks-and-future-implications"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
     quality: 19
   - title: "Google and Universal Music working on licensing voices for AI-generated songs"
     excerpt: "Early stage talks are expected to include a potential tool that fans could use to make AI-generated songs"

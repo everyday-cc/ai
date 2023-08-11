@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/skyline-robotics-to-expand-with-3-3
 webUrl: "https://www.therobotreport.com/skyline-robotics-to-expand-with-3-35m-funding-round/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Skyline Robotics Completes $3.35M Funding Round"
+    excerpt: "Skyline robotics, which makes automated systems for cleaning exterior windows on high-rise buildings, announced that it had closed a $3.35 million funding round. With previous rounds, the company says that it has raised in all $12 million."
+    publishedDateTime: 2023-08-11T12:04:00Z
+    webUrl: "https://www.globest.com/2023/08/11/skyline-robotics-completes-3-35m-funding-round/"
+    type: article
+    provider:
+      name: GlobeSt.com
+      domain: globest.com
+    quality: 34
   - title: "Skyline Robotics Completes $3.35M Funding Round to Expand Business Operations"
     excerpt: "Skyline Robotics, developers of OZMO, the world's first high-rise window-cleaning robot, today announced the successful completion of a $3.35M funding round. The funding was raised through a SAFE Note (Simple Agreement for Future Equity) and will be used toward the company's ongoing 2023 business operations plan."
     publishedDateTime: 2023-08-07T14:22:00Z

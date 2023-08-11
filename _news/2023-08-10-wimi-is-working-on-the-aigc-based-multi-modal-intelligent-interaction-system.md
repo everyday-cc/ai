@@ -22,6 +22,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "WiMi Developed an Data Collection System Based on AI Data Modeling Algorithm"
+    excerpt: "Data visualization: data analysis results need to be displayed to the user in the form of visualization. This module displays the data in the form of intuitive charts, heat maps, etc. to help users better understand the results of data analysis."
+    publishedDateTime: 2023-08-11T12:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-developed-an-data-collection-system-based-on-ai-data-modeling-algorithm-1032546383"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+
 secured: "RznkY736ZYjYEFqQkTSMtVKJUN6Mx74aFjYgDVslHgsaP5vcCKzYtn5AhINqT6mGhXM4efEO2VBGuVaKYSQufpWEDM9TVmGzUwRm1bD/I9jjT6Od9UCHxeYFBVGdgO9zD1flad3ut1VO7skapx4bzcqMIjpXmIh6Y4wItcWytKx+IFSSl2iR1vR8/jxqyG4A/9EFwH/O74VxwweQRvvyHTVy9uQ/s9WMT2PLd9SxLYAWaXSL1eR03NiKGavLbie/ueTrjQIM5kwb7YCUMbtAQavnFlg683xoSX/44FgLJpS2tDojjm7c0wEgtNoyPhuKwiwjIjXk9ZXsz0d6HfGI6bo4FO+ZFQk9M6v0y9m8jQw=;ru5lNAIOTWtbTXsfZH5ytA=="
 ---
 

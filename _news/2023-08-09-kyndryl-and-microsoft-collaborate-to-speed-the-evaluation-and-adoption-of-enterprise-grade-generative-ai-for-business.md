@@ -28,15 +28,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 94
-  - title: "How to choose the best enterprise asset management software"
-    excerpt: "While there are a lot of EAM products on the market, this article will help you ask the right questions to find the right fit for your organization.\nThe post How to choose the best enterprise asset management software appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-08T13:48:50Z
-    webUrl: "https://www.ibm.com/blog/best-enterprise-asset-management-software/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
   - title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
     excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable"
     publishedDateTime: 2023-08-09T18:28:00Z

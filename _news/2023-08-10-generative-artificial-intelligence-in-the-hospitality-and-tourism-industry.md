@@ -18,79 +18,78 @@ topics:
   - AI
 
 related:
-  - title: "10 ways generative AI upends the traditional database"
-    excerpt: "Generative AI isn't just for chatbots. Here are 10 ways AI and machine learning are transforming how we store, structure, and query data."
-    publishedDateTime: 2023-08-08T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.html"
-    ampWebUrl: "https://www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/28/09/pcworld-the-2023-ultimate-ai-chatgpt-python-programming-bundle-100943992-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "3 Areas Customers See The Most Potential For Generative AI"
-    excerpt: "In just a short period, we’re likely to see massive changes in how customers find products, engage with companies, and experience brands."
-    publishedDateTime: 2023-08-09T17:51:00Z
-    webUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
+  - title: "Generative AI: Friend Or Foe For The Translation Industry?"
+    excerpt: "Understanding the specific dynamics of how GenAI will affect different industries and functions is a complex and nuanced undertaking."
+    publishedDateTime: 2023-08-11T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c90fd5ea55d543dd49763d/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fd8bff049e58c7220248800/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Syxsense adds generative AI to its endpoint management suite"
-    excerpt: "Syxsense Inc., the developer of a unified security and endpoint management suite, or USEM for short, is adding generative artificial intelligence capabilities to its product with an announcement today."
-    publishedDateTime: 2023-08-08T10:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/08/syxsense-adds-generative-ai-endpoint-management-suite/"
+  - title: "Generation AI: Mickey Mouse catches the bug"
+    excerpt: "From why Disney thinks AI can boost its movies and theme parks, to how singers might profit from fake music, these are the week's big stories from the AI revolution. Rachel Faber reports."
+    publishedDateTime: 2023-08-09T21:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOV336009082023RP1"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20230809&i=OV336009082023RP1&r=OV336009082023RP1&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Kognitos Launches the Industry's Most Advanced Generative AI Automation Platform"
+    excerpt: "Kognitos is introducing self service functionality for business process experts to quickly start building automations interactively without prior automation training. It comes with an industry-first generative AI-powered copilot for writing automations in natural language."
+    publishedDateTime: 2023-08-08T16:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kognitos-launches-the-industry-s-most-advanced-generative-ai-automation-platform-1032530091"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://mma.prnewswire.com/media/2170997/Kognitos_Logo.jpg"
+        width: 400
+        height: 210
+        isCached: true
+  - title: "Generative AI: The Modern-Day Gold Rush"
+    excerpt: "Industry thought leaders share insights on generative AI's impact, advantages, challenges, and advice on implementation."
+    publishedDateTime: 2023-08-10T17:20:00Z
+    webUrl: "https://www.commercialintegrator.com/business_resources/operations/generative-ai-the-modern-day-gold-rush/"
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
     quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/manage-header.png"
-        width: 1639
-        height: 886
+      - url: "https://www.commercialintegrator.com/wp-content/uploads/2023/08/AdobeStock_576595621_1000px.jpg"
+        width: 1000
+        height: 417
         isCached: true
-  - title: "Ai And The Productivity Imperative"
-    excerpt: "MILAN - Around the world, supply is struggling to keep up with demand. Inflation remains stubbornly high, despite aggressive interest-rate hikes. Th"
-    publishedDateTime: 2023-08-11T04:22:00Z
-    webUrl: "https://menafn.com/1106833377/Ai-And-The-Productivity-Imperative"
+  - title: "Kognitos Launches the Industry’s Most Advanced Generative AI Automation Platform"
+    excerpt: "Kognitos has unveiled its latest updates to its generative AI automation platform which now enables business users to"
+    publishedDateTime: 2023-08-08T20:03:00Z
+    webUrl: "https://www.datanami.com/this-just-in/kognitos-launches-the-industrys-most-advanced-generative-ai-automation-platform/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
-  - title: "3 ways to play the artificial intelligence boom"
-    excerpt: "Stocks related to artificial intelligence (AI) have been leading the market higher this year, with names such as Microsoft, Nvidia and Apple jumping between 33% and 218% year to date. These gains are reminiscent of the dotcom bubble in the late 1990s. I’m not entirely convinced we’re in a similar position, but we are certainly in a peculiar market."
-    publishedDateTime: 2023-08-10T12:57:00Z
-    webUrl: "https://moneyweek.com/investments/3-ways-to-play-the-ai-boom"
-    type: article
-    provider:
-      name: MoneyWeek
-      domain: moneyweek.com
-    quality: 17
-  - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
-    excerpt: "The new GPU powers accelerated computing workloads for generative AI, which is transforming workflows and services across industries, including text, image and video generation, chatbots, game development,"
-    publishedDateTime: 2023-08-08T17:34:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861312.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/Kognitos-300x265.png"
+        width: 300
+        height: 265
+        isCached: true
 
 secured: "svazXDP0zN7bfjkj93L32Qra3pWSF1dzhY+ozEStetXESUyPQTg97Gv3ruo/Qw/ER/FQdhpZTuTwi40GKQCEpSBkg1qNUAfvV3JzMPOGNFcsfRplGpACfQAPGncL9Sxsw/pqNjK5w792me0UwyhKYD3c5WzPhGJHLm6SlV74u3JeHBi5lgJvBDvlF3cCzCFf5h8kKF2RtpjfHFVoqK3zDH3Sevsr4mLSW5GM8uJ0IJjFdDcJnGOQ6+XIYAxiB7wWyMVpuveX7wWubSHUedqcBA8WoCA/MDWNbYqkZ3IOt6K751aVZYy2/rMUKzxvKBY9SPVDNg2Lda7G9fCNCrK3qBxiTkwvYp8wPGLYx4HI/uEP+acTWTHphEGpk6j5b0/Pxs1sO8Sq0wT8HogXs56j4acW23P5qi33ycoh0GR/gn2NcVu3Uyrozg3a9q9Ric/iSjFB+kkA/Rez8oPy24hPzHrRdSzvJ2nVuvjIDAFu+DAlP2JS2E0ucglPqdXoimAju4+taTevivXnbXFWiZpBsg==;cgkaDWsG/lW0rf0fD87pKw=="
 ---

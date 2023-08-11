@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Despite Public Safety Concerns, CA Driverless Taxis Get Green Light"
+    excerpt: "\"They're not ready for prime time,\" San Francisco Fire Chief Jeanine Nicholson said recently, adding that they have interfered with 55 recent incidents."
+    publishedDateTime: 2023-08-11T14:10:00Z
+    webUrl: "https://www.firehouse.com/operations-training/video/53068921/despite-public-safety-concerns-ca-driverless-taxis-get-green-light"
+    type: article
+    provider:
+      name: Firehouse
+      domain: firehouse.com
+    quality: 39
+    images:
+      - url: "https://img.firehouse.com/files/base/cygnus/fhc/image/2023/08/maxresdefault.64d63c06c7728.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "120 driverless road trains for the West Pilbara"
     excerpt: "In a world-first, MinRes will deploy a fleet of 120 autonomous road trains, which will each carry 330 tonnes of iron ore along a 150km route."
     publishedDateTime: 2023-08-08T03:59:00Z
@@ -87,6 +101,20 @@ related:
         width: 1472
         height: 1024
         isCached: true
+  - title: "Robotaxi expansion OK'd for San Francisco despite public safety concerns"
+    excerpt: "California's approval signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality."
+    publishedDateTime: 2023-08-11T15:09:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2023/08/11/robotaxi-expansion-okd-for-san-francisco-despite-safety-concerns/70574006007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 23
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/11/PDTN/70574202007-ap-23221627904423.jpg?auto=webp&crop=3120,1761,x0,y82&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "San Francisco drives tech; will it drive away robot taxis?"
     excerpt: "SAN FRANCISCO (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... allow robot car providers Alphabet Inc’s Waymo and General Motors’ Cruise to expand ..."
     publishedDateTime: 2023-08-07T11:07:00Z
@@ -110,20 +138,6 @@ related:
         width: 4948
         height: 3235
         isCached: true
-  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
-    excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
-    publishedDateTime: 2023-08-11T01:44:00Z
-    webUrl: "https://www.wuwm.com/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
-    type: article
-    provider:
-      name: WUWM
-      domain: wuwm.com
-    quality: 18
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/a576e85/2147483647/strip/true/crop/4948x2598+0+319/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F08%2F10%2Fgettyimages-1390904872_custom-facb4d78b06ed88683d0ad1b438c70c0e9e87cdf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan"
     excerpt: "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked me up"
     publishedDateTime: 2023-08-07T13:35:00Z
@@ -138,6 +152,15 @@ related:
         width: 1459
         height: 1491
         isCached: true
+  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
+    excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
+    publishedDateTime: 2023-08-10T20:57:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1193272085"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
+    quality: 0
 
 secured: "8BEExYWUEV7siOI3YIs1cBL5dyLaVezktH/J8MD4o+5UyCC38UZDVD5yjLjkkTwAJcX44b3Lxx/IBbuM8U3+J3QRnriUizyD1igCN0d/6bRWKY6NiI2K3lFZ3Fee9hXHhLbL3ZxnNgH+K3M5Gazw6RXpUgZFEXRvdGpZ8lUh6f73k+Ka5Sp6sSDQf5RQFZDQFEzDRBnTADrp3IIVouj98HvzfW24YelwkovpBclFIYqqcXAupcpeh4GztZwxfpZZYAtqLP9Amzdm8NlYAWChYHR6C4Op/B401OTfFPqCrudkZADtkwYCVr83YAScWnUp6NLt0NRsEHE/Z1UZobRw3yyx0RDPUWj2yF5ugCnKYL616i+ATgjO2/mol0Qkobx1KRK8PjIlhnXoPZIig63M3pAc41srM2ra4Us4ZKWpdtMhyIngupVazsOj41EAxkSo6i4fubJTOwwvmuDD5TLMQeFrR41Rot17HzLDWDQDWQvAud5s7PsEJ05PJJx4swGlvwCa9xwxScprUqGS5p+1FA==;oACYXWp7kOYYvIdDgqOnRA=="
 ---

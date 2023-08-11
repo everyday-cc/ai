@@ -63,6 +63,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Virtualitics, a Leader in Artificial Intelligence and Data Exploration, Closes $37 Million Series C Funding Round"
+    excerpt: "Virtualitics is revolutionizing and shaping the artificial intelligence and data exploration industry with its groundbreaking technology, Intelligent Exploration. Virtualitics' sophisticated AI-powered analytical capabilities empower data scientists"
+    publishedDateTime: 2023-08-11T12:48:00Z
+    webUrl: "https://www.cmswire.com/the-wire/virtualitics-a-leader-in-artificial-intelligence-and-data-exploration-closes-37-million-series-c-funding-round/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 0
 
 secured: "WkPpkQKSg7ap+zCz1918jx6ORGKBUrJzhc0q8uXZuopJlltrXKTtyQfWDjs/vqkL1nqAnidl/zit+LnDVud0uWe2dGmio5h91z24lmINEP3+K/ImsxtKBOa3eToFHUV/BkTfxtGS8WmxsLhCKR6Usg0Bu7u9OzQPkKERuL/zD52paahsNbb2HQAkEW/EWq/XMn/f85OqKdPj2HHCsoeqvIwIYAb/L/FMMMP4nAV5DrHrP8Fh36Ihyy83g/GlDphbnCjLCI7T52q1eeVBcLchTfYBbCROIrh+zTvdhj/gtzykiWoz4Q6EWfwMt/uyQ7dxQdwi/QMqJTjg5rlzlbw5tU5wjXW6xyj6hiVYDaH13KmLmyCeGesH7zGRsfild12k1nVTAkayo+GdiPtFOD+rSqGdijM5KdClv8ofnVstFMhHKs+qXms3Qs+HxKytFD68DDw/e0KbaKKfgcnOpRCd/yHXg+kT42SO6lMc1W/NblQHjR1kGYPPxs6upk3D4W1qkPO4S6VYhCgXWFWlyQ5iag==;P8cb/mpr7TpPRnZ/OLCS7Q=="
 ---

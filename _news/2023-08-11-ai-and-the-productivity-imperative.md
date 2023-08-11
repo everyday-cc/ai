@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Ai And The Productivity Imperative"
-excerpt: "MILAN - Around the world, supply is struggling to keep up with demand. Inflation remains stubbornly high, despite aggressive interest-rate hikes. Th"
-publishedDateTime: 2023-08-11T04:22:00Z
-originalUrl: "https://menafn.com/1106833377/Ai-And-The-Productivity-Imperative"
-webUrl: "https://menafn.com/1106833377/Ai-And-The-Productivity-Imperative"
+title: "AI and the Productivity Imperative"
+excerpt: "The world is struggling with labor shortages, inflation, and a supply chain that cannot keep up with demand. AI can help overcome these productivity challenges, with LLMs in particularly allowing for productivity boosts without replacing human workers,"
+publishedDateTime: 2023-08-11T12:37:00Z
+originalUrl: "https://www.diplomaticourier.com/posts/ai-and-the-productivity-imperative"
+webUrl: "https://www.diplomaticourier.com/posts/ai-and-the-productivity-imperative"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Diplomatic Courier
+  domain: diplomaticourier.com
 
 topics:
   - Computer Vision
@@ -65,6 +65,15 @@ related:
         width: 1639
         height: 886
         isCached: true
+  - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
+    excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
+    publishedDateTime: 2023-08-11T12:04:00Z
+    webUrl: "https://diginomica.com/attention-enterprises-generative-ai-sexy-esg-has-teeth"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 19
   - title: "3 ways to play the artificial intelligence boom"
     excerpt: "Stocks related to artificial intelligence (AI) have been leading the market higher this year, with names such as Microsoft, Nvidia and Apple jumping between 33% and 218% year to date. These gains are reminiscent of the dotcom bubble in the late 1990s. I’m not entirely convinced we’re in a similar position, but we are certainly in a peculiar market."
     publishedDateTime: 2023-08-10T12:57:00Z
@@ -74,15 +83,6 @@ related:
       name: MoneyWeek
       domain: moneyweek.com
     quality: 17
-  - title: "Generative artificial intelligence in the hospitality and tourism industry"
-    excerpt: "Between the boundless potential and the grim peril of artificial intelligence is an ocean of possibilities so vast that its enormity alone can douse research."
-    publishedDateTime: 2023-08-10T13:01:00Z
-    webUrl: "https://techxplore.com/news/2023-08-generative-artificial-intelligence-hospitality-tourism.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 15
   - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
     excerpt: "The new GPU powers accelerated computing workloads for generative AI, which is transforming workflows and services across industries, including text, image and video generation, chatbots, game development,"
     publishedDateTime: 2023-08-08T17:34:00Z
@@ -93,6 +93,6 @@ related:
       domain: tmcnet.com
     quality: 1
 
-secured: "RJjYIzFC9jAygu8VDuX4rS1t8ga51UpeWn9kyZ8OdrVaCTI5UUX9k5mKl5RKpD5E8bExC6uLF9imNdLGerzIgWMIAq/Pje9/ZQ/Z4rUAJQFUUhVDVIpf6/th6QhOn8u+GfcTpmi7t1tmNh46YOQxEYQS/FKiba8JEx+zppvQn5+KAEjozC7ZN0M2Z+beIbLMQVBLmjZfzOxmliR/oaKUAqqK6ZNlQEJsZTLgFUYynnASHinStNKBBl03rrBlB96MO+d7CkWxA9SajnpIKR61m9erEyG6dF4O0EqiPZTAiv+LN/HyaVGHBncYE4NIYQ70lRmBAyJtEh48BVBcl3tBDaqK8bqa2HaKhpFwgSk0ofA=;hCYZLU5KF/rTPtbGhOHUew=="
+secured: "WTGRBoDYoctKBjVRrNr3Bve5CCf1sHJNdp0k5PK2bZTOXaqMLRvi0JPH/lasT5e4cpUe8lG81ft6MP+OLb8kqgP25dEKY/TuNBw0VWxu3XVKEOrodU92xoWiuZuNHUdJsyYul3HAPfu77UO/9jxPV8RVJwe7fTdfBTXqKXalV6c1H8+KkhxuN8jkCXRBx+lbql1bdKTHQE5E3u40kg/6BgfqK8Q54+w5UehcFl5fmjySymVy+WU08jQrllk/K0EzqPE8SEZvuN/0oXPWb1as8y4cclv2US5Q4XdoJ8qzn5ijdyJjoFlMAmss/uOOojtfbri+b7T2Oy2jUBO4BWMOvKxK4mZRBoGB7H2TBGgN+AfDKq1gFcD9S7olEiYYIDHAWhwUCtbNflXgXMQ5ssaQ4AIlQuR9t4Eq2dZLgtvcKz3lkkiiWueMcrge7imbXah6A0qRsrrE2acyhAwykE29W7S84ynyN0qyOJscO2qQuyGBsuN2WhcvO98yXU9XgNL8g80EtOFHvisShdwtdvFD6A==;SMvxL/6Hp6Rzxh9RO++B4Q=="
 ---
 

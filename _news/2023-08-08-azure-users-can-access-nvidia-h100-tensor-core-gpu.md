@@ -20,29 +20,20 @@ topics:
   - AI Hardware
 
 related:
-  - title: "AI boom could lead to a new GPU shortage, but Nvidia says the current problem is just packaging"
-    excerpt: "Recent statements from AI companies indicate that the AI boom is increasing the demand for GPUs to the point where some report shortages. Nvidia claims its"
-    publishedDateTime: 2023-08-06T21:06:00Z
-    webUrl: "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-shortage-but.html"
+  - title: "NVIDIA H100 Tensor Core GPU Used on New Microsoft Azure Virtual Machine Series Now Generally Available"
+    excerpt: "Microsoft Azure users can now turn to the latest NVIDIA accelerated computing technology to train and deploy their generative AI"
+    publishedDateTime: 2023-08-08T16:52:00Z
+    webUrl: "https://www.datanami.com/this-just-in/nvidia-h100-tensor-core-gpu-used-on-new-microsoft-azure-virtual-machine-series-now-generally-available/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 72
+      name: datanami.com
+      domain: datanami.com
+    quality: 70
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-06-image.jpg"
-        width: 2560
-        height: 1280
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/Microsoft-plus-Nvidia-logo-stacked-300x204.png"
+        width: 300
+        height: 204
         isCached: true
-  - title: "Find the Next Nvidia: 3 Must-Watch AI Stocks"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) shares took many investors by surprise in 2023."
-    publishedDateTime: 2023-08-08T21:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/find-the-next-nvidia-3-must-watch-ai-stocks-1032531041"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "j7X2Qi00tr+IX9J7mpzJM9CUEcPet13+9hgUDyNGOq0HZXPW9f6CgLMCXP+BNXIaW+MOrvEFe54Ek6R44CK3cVz8G2xtQZhfNQ4miAlNOvs1E6rjAF6Yzk3aj6/2gf0nKhEyX/O0jMLmvdCsWom2V+QVzc6XLjII2DFo8KP+uEPhJ6I6E6yoyRW7WZ052E7suyezPN8rHOU0nBcd/xvM2UTLFUCFzZ6t3Pd5g5wzHPAO2WB5WNixIoSaIk6VURqK+Qwit8ulMxFAk7TLdjo8CPBQOqTd962Xn1WCWlUP52XmKrdxJgS1g8jkOl/JPg0T3DLpR8FjbgIC0QBocWZVe24uu20SbkarQfs5siYrXqM=;9ZFoINEN5+K8jod0NgyjNQ=="
 ---

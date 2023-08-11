@@ -33,6 +33,20 @@ related:
         width: 1400
         height: 934
         isCached: true
+  - title: "Nvidia’s AI power on full display at SIGGRAPH 2023"
+    excerpt: "Nvidia is the main beneficiary of this year's AI hype. During SIGGRAPH in Los Angeles, the GPU manufacturer revealed that it is only beefing up its"
+    publishedDateTime: 2023-08-10T13:20:00Z
+    webUrl: "https://www.techzine.eu/news/devices/109924/nvidias-ai-power-on-full-display-at-siggraph-2023/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/nvidia-grace-hopper-superchip.jpg"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "z7OfQbsER9hLh1uvNWpZr7JC8Jh02zHNg5kflzgkj0qa9sffP7QZ0yXLsjmud/hdL+YPSQYGRg9mHqDeiRbzLTAfLD7NSLT67zgSuZ/oHRtDNIW1iK9EF3p3fQUUvijp73zco6/9kZT9bSWCgHkEKC+Vx30K/oIWxiQ7iaCfBbiX5QUnGYN7YXRMr+ybiQbDpCdfksuy0/6UIhUSSiTpOr0UTf4RE9lOcYhgD3wTZy2fySFa/Iu+sE13DBNRqucC0NyFun7YFzs5slroaDp71JVG6GSrFMALCCFW/TAIvpyJmUvEgY6yQ6D7dJcdpvFEIT7ffD7d4LDBmqmPnypc30MXRnAr/e2N5fG6tjE1Eky+Sms17HaI/qdk5ZYb1TL1z6E6U/3P6Lj0DMF2YJ5nUGPgQAk9d+AstZmAao1CZ1N+oUhjdfNl0dZ9WoJpQmna99iiUEkt+9b6WNaX+zyS8FZgOv/XlQB4ZdGI6M3iu2aNltZEL3tBV102e//jR3zi6V76Q/2GMMZdeSMKhnGiqA==;c/TrGKQxC/6uATcAbKaORQ=="
 ---

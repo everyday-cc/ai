@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
 type: article
 quality: 87
-heat: 127
+heat: 128
 published: true
 
 provider:

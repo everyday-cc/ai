@@ -6,9 +6,9 @@ publishedDateTime: 2023-08-10T10:00:00Z
 originalUrl: "https://www.wired.com/story/ai-new-turing-test/"
 webUrl: "https://www.wired.com/story/ai-new-turing-test/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Wired
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/64d3d7869ec11a2433532db5/191:100/w_1280,c_limit/Humanizing-AI-Mente_cuerpo-feature.jpg"

@@ -22,29 +22,45 @@ topics:
   - AI
 
 related:
-  - title: "AI boom could lead to a new GPU shortage, but Nvidia says the current problem is just packaging"
-    excerpt: "Recent statements from AI companies indicate that the AI boom is increasing the demand for GPUs to the point where some report shortages. Nvidia claims its"
-    publishedDateTime: 2023-08-06T21:06:00Z
-    webUrl: "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-shortage-but.html"
+  - title: "The 3 Best AI Chip Stocks to Buy in August"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Until the trend fails, chip stocks should remain in focus. Throughout 2023,"
+    publishedDateTime: 2023-08-08T19:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-in-august-1032530506"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 72
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Investing in Artificial Intelligence Stocks: Things You Have to Know"
+    excerpt: "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have."
+    publishedDateTime: 2023-08-10T05:15:00Z
+    webUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html"
+    ampWebUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 61
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-06-image.jpg"
-        width: 2560
-        height: 1280
+      - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Azure users can access Nvidia H100 Tensor Core GPU"
-    excerpt: "Microsoft Azure users can now turn to the latest Nvidia accelerated computing technology to train and deploy their generative AI applications. Available now, the Microsoft Azure ND H100 v5 VMs using Nvidia H100 Tensor Core GPUs and Nvidia Quantum-2 InfiniBand networking enables scaling generative AI,"
-    publishedDateTime: 2023-08-08T09:56:00Z
-    webUrl: "https://it-online.co.za/2023/08/08/azure-users-can-access-nvidia-h100-tensor-core-gpu/"
+  - title: "We must build trust in AI for use in health care"
+    excerpt: "It would seem then, the best hope for the continued development of AI in health care is technology guided by a human touch. The public must trust in the ability of AI tools to produce accurate and reliable information, and believe that such information, gathered without prejudice, assists a physician’s ability to care for patients."
+    publishedDateTime: 2023-08-08T10:00:00Z
+    webUrl: "https://www.newsday.com/opinion/commentary/guest-essays/ai-artificial-intelligence-health-care-drugmaking-gwk1leoa"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 36
+      name: Newsday
+      domain: newsday.com
+    quality: 39
+    images:
+      - url: "https://cdn.newsday.com/ace/c:YmI1NDQzZWMtMDI0NS00:OWNjNzYy/landscape/1280"
+        width: 1280
+        height: 719
+        isCached: true
 
 secured: "BV60evFbGaGoINSqLMkJ2u5TWRU0b79N8X8vDBXn73WPGHeOsBFFyF9G3N0DX2y/4krPBsv9FvV+DgyJtlbTwQ0IzCIO+QD3/cXL+PdZuwpYSte06P6FtnfudCLbwh1wWj2DoO+mMlKR8cDKm2pI9YOmbnIqFeTVMLYFojbn+YSKlji65dU6GIXHcf2/QkRBf/68sKfHmWGMjaTMffzQykdfntbPBIPgEIULoqoqa6W4xNXaBqyFAjRZ1ekGkiYyK10PYx1t7flKT5Tt+w5HPKtNkelTwssdqCFjwP4MR6yL7fK9W2gDNHlT8i7Pi5LngvSL/fVyDByujba0l9bZzDrpzQBtgmuMOXLiFrqnDluhDE51Na2Q2Op1XTdpXKxb9wVZHy+By4AEX5ksG0H719DVkqAB3sVRFPP8gBnKynFPvELIArn1GtgZeFZ3X4poomr8p9eHc/M1pzxR4O07mGft5npKnLCaqmdiioT3s3mOA7SYlGVvRd15TIIeCzDnALe8BdW8ROO1q0bV5LfVSg==;/ybft0DYJasz+4U9ZbEL2A=="
 ---

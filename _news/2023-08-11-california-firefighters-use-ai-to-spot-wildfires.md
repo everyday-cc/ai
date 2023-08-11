@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/idsA$n?now=true"
 webUrl: "https://www.reuters.com/video/watch/idsA$n?now=true"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

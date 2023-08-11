@@ -46,6 +46,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Murdoch News Corp Profits Drop 75%, Looks to AI to Cut Costs"
+    excerpt: "Rupert Murdoch’s News Corporation saw a staggering 75 percent drop in annual profits in the 2023 financial year, with the business now looking to generative artificial intellige"
+    publishedDateTime: 2023-08-11T13:05:00Z
+    webUrl: "https://www.thedailybeast.com/murdochs-news-corp-profits-plunge-75-looks-to-ai-to-cut-costs"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 17
 
 secured: "vp/Ql8ZMUSkXklkVV3DgPdsfcW+47RY0adPYdQx4e+LQggB5sHjZ5QKqHNguNLbQOAw392YgS9F2VW18A0gI3hh+D7qv28Q/R9wPDUqDuW/DHVIGkLAfDjK3N53FEPG3PjjF1+aJxknXA6yYGKowNx6XRL9CpfhbnsFRZGihyxj3lqzV3jmUvhyRl8A5ZiLljdu+XtsidcT71rSwJFHRxu+GY4Fyz3hFNDybaMYef/rYzoNVmnkiphy+yWcq2LZyc0rhQaX0+SIcpYXDjGyev/5YN6NKmZdLEadqYojlxcXeJ0FH0QcN3Sh0VPAeQNKffo8Bk/g91SrezzU1BnM9nPoDswcjNUjkZ004I00eoknRYJ6IvUPgZqQbdZGa5mrmgggdiWR5biRG3ENm4f9Glsz1UdXikm7BFnRy1H7S3SI1J/p5MKURMSIJXnyjs8LL6bhviJInMzdYOaG+GyY4NIDUUhzknp+vIFiFO4WKJse1wSVtoszhk6P4iS8w92+ZGpq7Hm1O5AyXLNo9nt7S9w==;NA4eJNylTU90jsGzL9TWEQ=="
 ---

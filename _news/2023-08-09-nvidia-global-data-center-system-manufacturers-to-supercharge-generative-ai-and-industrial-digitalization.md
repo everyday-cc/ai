@@ -65,14 +65,23 @@ related:
         width: 1639
         height: 886
         isCached: true
-  - title: "Ai And The Productivity Imperative"
-    excerpt: "MILAN - Around the world, supply is struggling to keep up with demand. Inflation remains stubbornly high, despite aggressive interest-rate hikes. Th"
-    publishedDateTime: 2023-08-11T04:22:00Z
-    webUrl: "https://menafn.com/1106833377/Ai-And-The-Productivity-Imperative"
+  - title: "AI and the Productivity Imperative"
+    excerpt: "The world is struggling with labor shortages, inflation, and a supply chain that cannot keep up with demand. AI can help overcome these productivity challenges, with LLMs in particularly allowing for productivity boosts without replacing human workers,"
+    publishedDateTime: 2023-08-11T12:37:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/ai-and-the-productivity-imperative"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 19
+  - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
+    excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
+    publishedDateTime: 2023-08-11T12:04:00Z
+    webUrl: "https://diginomica.com/attention-enterprises-generative-ai-sexy-esg-has-teeth"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
     quality: 19
   - title: "3 ways to play the artificial intelligence boom"
     excerpt: "Stocks related to artificial intelligence (AI) have been leading the market higher this year, with names such as Microsoft, Nvidia and Apple jumping between 33% and 218% year to date. These gains are reminiscent of the dotcom bubble in the late 1990s. I’m not entirely convinced we’re in a similar position, but we are certainly in a peculiar market."
@@ -83,15 +92,6 @@ related:
       name: MoneyWeek
       domain: moneyweek.com
     quality: 17
-  - title: "Generative artificial intelligence in the hospitality and tourism industry"
-    excerpt: "Between the boundless potential and the grim peril of artificial intelligence is an ocean of possibilities so vast that its enormity alone can douse research."
-    publishedDateTime: 2023-08-10T13:01:00Z
-    webUrl: "https://techxplore.com/news/2023-08-generative-artificial-intelligence-hospitality-tourism.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 15
 
 secured: "yktJ7+AXdmxnDVB7Rv07AD9Y6eR2gc7Dc10lHgau07C5pAs2ywfIVJMV0ObLgS8SBVgEDi33Ki3NuFgGcEKjkOomghiX4Es9/w/Il9P0mw1aPQWl/0BkklAtLwUWcklS0rtU4ndkXGQxHNYh2XMNZNE1Fbqz0jHZ3NOLouGi+8qLM/v0NR+ITA4TfFEUbPZXjhxxjSVdcDcnIRA2SxOWVQQPwaVnIJairyPM3VncZv0PYCBqCExCI3Sym/oj6OEIVF4Fs6QhEZcF2PwY8tnZ/4spKI1R9+VWrvbBoSFXXrSEYKfsKa4KCTuHnqvJf8UO+jr0V/WdfjA8EdY7llO062yftmH3yVAIPrKNDFW3mL8=;hPMfzfSj8pl5Y7GlwypZDg=="
 ---

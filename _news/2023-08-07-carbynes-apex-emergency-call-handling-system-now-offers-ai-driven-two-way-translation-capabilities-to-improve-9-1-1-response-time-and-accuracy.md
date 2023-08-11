@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/08/07/9860209.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/08/07/9860209.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,36 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Amazon Translate enhances its custom terminology to improve translation accuracy and fluency"
+    excerpt: "Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. When you translate from one language to another, you want your machine translation to be accurate, fluent, and most importantly contextual. Domain-specific and"
+    publishedDateTime: 2023-08-11T14:59:56Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 95
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/11/amazon-translate-enhances-fluency.jpg"
+        width: 908
+        height: 456
+        isCached: true
+  - title: "Lost in Translation: AI Hallucinations Wreak Havoc on Big Tech"
+    excerpt: "When AI trips up, the stakes don't just rise — they rocket. Now, companies are pondering these pricey \"hallucinations.\""
+    publishedDateTime: 2023-08-10T14:13:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/lost-in-translation-ai-hallucinations-wreak-havoc-on-big-tech/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 41
+    images:
+      - url: "https://www.cmswire.com/-/media/e768317140584cc4a0f2f6974e4f445b.ashx"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "xH12kdfamF8Z5EQeWMYQJz1SuYMJ3QbUMDKJ6NK0jZA1bnvxzFhJRxzRkO/28NkktKW8j3Ocf9bxmU+HA0L60xfhmA1oSnlhSWCVqrpYNZy7BI9SPpDnPuD6pzNgmuUMqa51RPRsBtPTFlf5rvPdJOcp0nHRIPSkDFYrLeJu4+ByFMNeCMWW+ebqEFwrYe5+qrzqlYXRo/FhUn901jKrqALT71Dooenlu5zzjk3cbesF0hFIsvO9eMQlPwxVqeBnzRURUO+lmsTNO83TkTalP/Twg3D9i11DBs+kbKHRmf2E/apGdKm9T8TdXDKHEQ7tgeA5If0I28NehqIJjv1rtmqn60Uf5SuplN/W72bRv44=;2NMZlch+grg+8UfVJDCisw=="
 ---

@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 631
         isCached: true
+  - title: "Pagaya rallies as AI fintech sees stronger than expected quarter"
+    excerpt: "Pagaya Technologies delivered solid 2Q results that showcased an improving financial position for the artificial intelligence infrastructure firm. The"
+    publishedDateTime: 2023-08-11T12:48:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1023275/pagaya-rallies-as-ai-fintech-sees-stronger-than-expected-quarter-1023275.html?region=ca"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 39
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC8yMDIzLTA4LTExLTA5LTUxLTQ2LTZjNDU5NzAxNjg5NmEyODk5MjIyODdjYTA5ZGYxZjlmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Unleash Your Creativity with Opendream.ai’s Revolutionary AI Art Generator"
     excerpt: "In the ever-evolving landscape of technology and creativity, Opendream.ai emerges as a beacon of innovation, introducing a groundbreaking platform that blurs the lines between human ingenuity and artificial intelligence."
     publishedDateTime: 2023-08-10T09:13:00Z
@@ -73,6 +87,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/08/full-shot-super-woman-with-superpowers-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Fintech ForwardLane Introduces Generative AI Platform to Streamline Financial Services"
+    excerpt: "ForwardLane, the provider of AI-powered intelligence solutions, announces the launch of its new generative decision intelligence platform EMERGE."
+    publishedDateTime: 2023-08-11T15:12:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211268-fintech-forwardlane-introduces-generative-ai-platform-to-streamline-financial-services/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 31
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Abe-Lincoln-Eyes-Watch-Look-Dollar-Money.jpeg"
+        width: 1280
+        height: 724
         isCached: true
   - title: "Why FinTech Companies Are Increasingly Relying on IT and How"
     excerpt: "In the last few years, the fintech sector has been going through a tremendous transformation due to the advancements in the IT industry. The fintech companies have entered the financial industry landscape with innovative solutions that revolutionize traditional banking and financial services."

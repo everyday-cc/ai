@@ -370,15 +370,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "In every reported case where police mistakenly arrested someone using facial recognition, that person has been Black"
-    excerpt: "For several years, civil liberties groups, tech experts, and activists have warned that the use of facial recognition technology will only increase racial inequities in policing. As time goes on, it is becoming even more clear that these warnings were right."
-    publishedDateTime: 2023-08-06T19:41:00Z
-    webUrl: "https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
   - title: "Detroit police in deep water after arresting pregnant black woman due to facial recognition error"
     excerpt: "Detroit police in deep water after arresting pregnant black woman due to facial recognition error - SiliconANGLE"
     publishedDateTime: 2023-08-08T02:45:00Z

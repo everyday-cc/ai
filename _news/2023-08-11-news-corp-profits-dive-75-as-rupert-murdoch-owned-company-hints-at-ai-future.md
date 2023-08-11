@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/media/2023/aug/11/profits-dive-at-news-c
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Guardian
@@ -46,6 +46,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Murdoch News Corp Profits Drop 75%, Looks to AI to Cut Costs"
+    excerpt: "Rupert Murdoch’s News Corporation saw a staggering 75 percent drop in annual profits in the 2023 financial year, with the business now looking to generative artificial intellige"
+    publishedDateTime: 2023-08-11T13:05:00Z
+    webUrl: "https://www.thedailybeast.com/murdochs-news-corp-profits-plunge-75-looks-to-ai-to-cut-costs"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 17
 
 secured: "zKTZkqJs/WaIqR5KDIc5CI2nad1m6NFcCJR1Apky4dQB5sEO8j76ewLiqS8vpGJh1TTkeb7j8iQZDoMR9GwHP0BY1xu4JFFBzUk22uGLxJtooKxXgQitwyxn1tLVuoG8VbDEwyoZCfiuXQn/LrP/DYY3Zp7pmitO7ARSkBu2mRmnBitghpzShHuXdkl29xvIzV/f9XXSxwOUkG5vS9+zPeOhsH1GiAvNojbTZgug5LfVbestwD92vW+Gvpqj3fdeAqAXc7uyKirHD002lmeIdFJCgGJYbYA7LIXnRbw2cCeVX+n+itYZHBIANHio4euRjCX63655wRJAahdNChxm/GIfa+GkJr8BALMTW5dSaZU=;2Xd7IGtQ5LQ4paBJHEZv+w=="
 ---

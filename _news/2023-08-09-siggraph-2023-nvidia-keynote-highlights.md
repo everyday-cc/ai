@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/siggraph-2023-nvidia-keynote/
 webUrl: "https://www.techrepublic.com/article/siggraph-2023-nvidia-keynote/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: TechRepublic
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia’s AI power on full display at SIGGRAPH 2023"
+    excerpt: "Nvidia is the main beneficiary of this year's AI hype. During SIGGRAPH in Los Angeles, the GPU manufacturer revealed that it is only beefing up its"
+    publishedDateTime: 2023-08-10T13:20:00Z
+    webUrl: "https://www.techzine.eu/news/devices/109924/nvidias-ai-power-on-full-display-at-siggraph-2023/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/nvidia-grace-hopper-superchip.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "7 Big Announcements Nvidia Made At SIGGRAPH 2023: New AI Chips, Software And More"
     excerpt: "Nvidia CEO Jensen Huang returned to the annual SIGGRAPH event for the first time in five years to showcase the GPU giant’s “full-stack computing” prowess with a bevy of new chips and software for AI,"
     publishedDateTime: 2023-08-10T19:54:00Z

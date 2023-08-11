@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Despite Public Safety Concerns, CA Driverless Taxis Get Green Light"
+    excerpt: "\"They're not ready for prime time,\" San Francisco Fire Chief Jeanine Nicholson said recently, adding that they have interfered with 55 recent incidents."
+    publishedDateTime: 2023-08-11T14:10:00Z
+    webUrl: "https://www.firehouse.com/operations-training/video/53068921/despite-public-safety-concerns-ca-driverless-taxis-get-green-light"
+    type: article
+    provider:
+      name: Firehouse
+      domain: firehouse.com
+    quality: 39
+    images:
+      - url: "https://img.firehouse.com/files/base/cygnus/fhc/image/2023/08/maxresdefault.64d63c06c7728.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "120 driverless road trains for the West Pilbara"
     excerpt: "In a world-first, MinRes will deploy a fleet of 120 autonomous road trains, which will each carry 330 tonnes of iron ore along a 150km route."
     publishedDateTime: 2023-08-08T03:59:00Z
@@ -83,6 +97,20 @@ related:
         width: 1472
         height: 1024
         isCached: true
+  - title: "Robotaxi expansion OK'd for San Francisco despite public safety concerns"
+    excerpt: "California's approval signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality."
+    publishedDateTime: 2023-08-11T15:09:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2023/08/11/robotaxi-expansion-okd-for-san-francisco-despite-safety-concerns/70574006007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 23
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/11/PDTN/70574202007-ap-23221627904423.jpg?auto=webp&crop=3120,1761,x0,y82&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "San Francisco drives tech; will it drive away robot taxis?"
     excerpt: "SAN FRANCISCO (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... allow robot car providers Alphabet Inc’s Waymo and General Motors’ Cruise to expand ..."
     publishedDateTime: 2023-08-07T11:07:00Z
@@ -105,20 +133,6 @@ related:
       - url: "https://media.npr.org/assets/img/2023/08/10/gettyimages-1390904872_custom-facb4d78b06ed88683d0ad1b438c70c0e9e87cdf.jpg"
         width: 4948
         height: 3235
-        isCached: true
-  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
-    excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
-    publishedDateTime: 2023-08-11T01:44:00Z
-    webUrl: "https://www.wuwm.com/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
-    type: article
-    provider:
-      name: WUWM
-      domain: wuwm.com
-    quality: 18
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/a576e85/2147483647/strip/true/crop/4948x2598+0+319/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F08%2F10%2Fgettyimages-1390904872_custom-facb4d78b06ed88683d0ad1b438c70c0e9e87cdf.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AI boom jolts San Francisco office market"
     excerpt: "Ten AI companies are today seeking between 700,000 to 800,000 square feet of office space in San Francisco, per JLL, which says AI companies have already tripled their footprint in the city since 2016. JLL said its confidence is based on anonymized foot traffic and cell phone use data from Placer.ai, demographic and office neighbor information."
@@ -143,6 +157,15 @@ related:
         width: 1459
         height: 1491
         isCached: true
+  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
+    excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
+    publishedDateTime: 2023-08-10T20:57:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1193272085"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
+    quality: 0
 
 secured: "2U5djxy2/M8eJb8E0hXY76HSWVPE3cBXhNUFHGCdWHewzkw7PH8w2kubjO7ueiUJdANbmhfcQY1u2JksrUFEucJGyoY5o2BpDIZ4Ls4ramoyka6adGlxDqZv+2Squ7VNqMm5I6OpsIj4QonK206aOOoIaG/ByyM3y3316qdvDE14KQJEHoAZfEYas8pbG6I2506eolKQAlj35ZLqCTGnxHWHywO/u256XBFqbrN8Ajz7vcSNsmnZ4juKhKXFqVc/kdS67ymD+WURT9xAxccG+yb8KXsor7Uwe33ifOw0AmRJtAMIz+iO4wBpJQRfWQ/6whAEoQt1YbsdHz/YbYD/ROEMRdxX7t27DgIsMYZxSPRcPvZ6w3Op3k0P+LC0h7gejbEdnfTZLBlvIk9qVN0iUo3KCrZ1iNfEcZGjWUb646Iwow7aeqsctb7TjV8cqnEwUit72VNTHsTWNeHuI9tdUvw01w57Uu3sK0Zk5ouHDfbY35gBsuJSdcGsq/zcdveo/c0XRrp7+YtV0/cU4BPKNQ==;9wQPoh1kJylyDKn0bpiWOw=="
 ---

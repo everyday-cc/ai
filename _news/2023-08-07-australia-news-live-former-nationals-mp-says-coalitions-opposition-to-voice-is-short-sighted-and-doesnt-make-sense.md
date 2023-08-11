@@ -58,6 +58,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 5
+  - title: "Dutton position on voice poses a difficult challenge"
+    excerpt: "Supporters of an Indigenous voice to parliament face the prospect of history repeating in the wake of Peter Dutton’s pledge to continue fighting for constitutional recognition and a legislated regional voice."
+    publishedDateTime: 2023-08-11T13:12:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/editorials/dutton-position-on-voice-poses-a-difficult-challenge/news-story/a1fcc237276e8261bd0b13a1bf400141"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "+DS3krz1dEDpb9XGMvV6XQHd1+IegTVitfvlluxs2jB6Fn2PFCfjwBcNCUtm4cT+dFMX1ySKu2Ae4KO90TronubAmNHK2+wbipwUuALxCe7W1svC2sJIoxTNdrpZm4Pt8Iv23s7tqAoFKDb03cqrwXzPVEdE17U9HQJMRk2N0UpKhzn7OG3OiKGKazvrQ/4DG7qMJ8pyw4rJlMRwEJEcsTCmA88h9YO1MxLGAB9+P8jnRfSy6CeeXjP2/ERwM2V7RyJ475fVkrgby11KG/XnGu7zh72lX1b405Q6UJ9YCYL2Yntovr4em4BqwcqW7SeNi6ar5/Hf+40vx0O/Lok/wDcA8miMQ6WuV5EiZ67o9Dc=;WZwExikymJB0ZmNRpXekgQ=="
 ---

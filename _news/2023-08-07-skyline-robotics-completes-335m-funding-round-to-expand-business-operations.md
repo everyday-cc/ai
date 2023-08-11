@@ -28,6 +28,15 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 64
+  - title: "Skyline Robotics Completes $3.35M Funding Round"
+    excerpt: "Skyline robotics, which makes automated systems for cleaning exterior windows on high-rise buildings, announced that it had closed a $3.35 million funding round. With previous rounds, the company says that it has raised in all $12 million."
+    publishedDateTime: 2023-08-11T12:04:00Z
+    webUrl: "https://www.globest.com/2023/08/11/skyline-robotics-completes-3-35m-funding-round/"
+    type: article
+    provider:
+      name: GlobeSt.com
+      domain: globest.com
+    quality: 34
 
 secured: "SY9DfeKUNNiZWbzcuDp2eiVJawyMiXrucRdcTOumuXQvEwtzIZA0kYaDpI+zv305Aum5WnHLTdQRps84sGicR8t4GCZm34edxKOu0oPWBsR++UV7DCH4ixlH30Yuor3670+oNepFwivYf11GWjUikkyb/99xvj5cwwciXeKWLjwO8rqxKzN7uKCghF1+28gv3ytd+zgKRN9/dOelj9vaDLP9/yRANOfInbh3bcu0I8DMhTZKg+vlPEq/BQ2XiPzaG3oNSyl5lKyuqqu9RTPctDq3CePo+VD5T6HBNihxK2E36GEpkwd0hJ5JFn7Y1sDLiaFnXKHRV7ROxsCH/hAFOz0+hIeUXAvDDsCPqVfgHjw=;9JTWKy38WQEzMIgUWWNRNw=="
 ---

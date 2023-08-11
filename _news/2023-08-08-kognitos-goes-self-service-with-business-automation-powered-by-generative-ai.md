@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/automation/kognitos-goes-self-service-with
 webUrl: "https://venturebeat.com/automation/kognitos-goes-self-service-with-business-automation-powered-by-generative-ai/"
 type: article
 quality: 66
-heat: 86
-published: true
+heat: 66
+published: false
 
 provider:
   name: VentureBeat
@@ -27,36 +27,6 @@ images:
     width: 1199
     height: 710
     isCached: true
-
-related:
-  - title: "Kognitos Launches the Industry's Most Advanced Generative AI Automation Platform"
-    excerpt: "Kognitos is introducing self service functionality for business process experts to quickly start building automations interactively without prior automation training. It comes with an industry-first generative AI-powered copilot for writing automations in natural language."
-    publishedDateTime: 2023-08-08T16:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kognitos-launches-the-industry-s-most-advanced-generative-ai-automation-platform-1032530091"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://mma.prnewswire.com/media/2170997/Kognitos_Logo.jpg"
-        width: 400
-        height: 210
-        isCached: true
-  - title: "Kognitos Launches the Industry’s Most Advanced Generative AI Automation Platform"
-    excerpt: "Kognitos has unveiled its latest updates to its generative AI automation platform which now enables business users to"
-    publishedDateTime: 2023-08-08T20:03:00Z
-    webUrl: "https://www.datanami.com/this-just-in/kognitos-launches-the-industrys-most-advanced-generative-ai-automation-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/Kognitos-300x265.png"
-        width: 300
-        height: 265
-        isCached: true
 
 secured: "wCev8culvuV5RUGMk8R5n3qMXzjbSaVxhFYd6bt4m7OfMSe/2BtUSTYrvi/u1mTIKk4WHS3WjxO64q29GPvjTe6R84hRLwxXdXGKofBgQ2rKUFZvgp0kQXitOtPu4oNmphrVglJNwdAPXIy74EQGVN+gXbhN04weozi6fxaA4OIcUmjMD+blSECFJyUjcwty+ZaWlXqrTMMUvgaX4QkJR5SExpNYuR9r1dgcJl9+zhH3UYWmRzuJ9yZl/PhblQV3rwh9tuoxl0Pj4Hol7nq7OxQ3mc+2EVzRYSTj0jCfn0NDaltQdasZ0+oly/07mujG1HLKRODcvrH1R3H++qMwQDmHrKzMMlC559tnE6isFMLOWszTdYIdVx9LOzigSO+BWfFT/aya7GJlT/5D6Rw/WrI1qe/yM9R/Iv3eJu7/VjBCJcUrUnki03UDhVsTiQRCxxIEztr+hO10L2UFQ8R+e5CZzQMyayADMtM/ciS2fVibJxhO/R3euirTCDzqpZNrwckt+XKvcd+6wVrZiVLHUQ==;f+8lSmDbnP+Jx42H1io7eg=="
 ---

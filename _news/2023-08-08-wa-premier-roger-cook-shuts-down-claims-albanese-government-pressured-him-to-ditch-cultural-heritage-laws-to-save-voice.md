@@ -26,22 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Albanese warns just one shot at Voice"
-    excerpt: "Prime Minister Anthony Albanese has warned Australians have just one chance to vote for constitutional recognition and a Voice, amid polls indicating a further slide in support. Whistleblowers have accused consulting giant KPMG of billing the federal government for hours never worked,"
-    publishedDateTime: 2023-08-06T21:06:00Z
-    webUrl: "https://www.thesaturdaypaper.com.au/post/max-opray/2023/08/07/albanese-warns-just-one-shot-voice"
-    type: article
-    provider:
-      name: The Saturday Paper
-      domain: thesaturdaypaper.com.au
-    quality: 24
-    images:
-      - url: "https://www.thesaturdaypaper.com.au/sites/default/files/post4.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "c66TzmLsWTHakiOu+faMSgnl8pt6sjzwCTMmiS2CXumpJ8VWJ9v6HOcPwoJW8yB4jcp7IhFaOYJfpi6rkisBG8VKWHkvNdXxEP8BYGp/CilAWqDN9c1D+nkrY/d4Y3kdxLXCwSALCc8EK5T+UVrjPzsRppDWrGizNWjetDPa+h4YOGKfl+you+IXobmBL7zM04fCAp2irxg2U5/VQWBGd2k2X4UA4EZw6NFOjXaRuVgAMK7liK7QqlwtUNL2l4YYlNQ8ydzmAlRSPfUu/6FY1ECdjODIhULVxto4fK77xyyd9d4d7rqOPkWvIh8PuyLgrc2h4xfLoEAFKeKmbXpylbiGDPrChjIXEFu+aIDmnGF6lbLeIdbnxGoZQj+vyGNP05UeZ7OYc+qQ1V+pvHupuAsy7iPwxy2fwRZdke4LSSp5eBNluYEwkD6fcLJ4Xarveh91ifPuRZNuOVTbXT2uJ6buwSr4z8L3NetAux6jOQ/XoSzYEzis7Oy6WmMdx9mQyc8WA0/27Ll5IF9jYyyM2Q==;BvG3LAa6aRPIT6q9Qvztgw=="
 ---
 

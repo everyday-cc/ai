@@ -33,22 +33,6 @@ related:
         width: 728
         height: 381
         isCached: true
-  - title: "Artificial vs human intelligence: An existential race is underway"
-    excerpt: "Whether AI exterminates human civilization will depend on the extent to which we allow such technology to enslave us"
-    publishedDateTime: 2023-08-06T21:56:00Z
-    webUrl: "https://www.livemint.com/opinion/online-views/artificial-vs-human-intelligence-an-existential-race-is-underway-11691316946562.html"
-    ampWebUrl: "https://www.livemint.com/opinion/online-views/artificial-vs-human-intelligence-an-existential-race-is-underway/amp-11691316946562.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/artificial-vs-human-intelligence-an-existential-race-is-underway/amp-11691316946562.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 42
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/06/600x338/2-0-1248141005-hires-0_1679614534170_1691317292330.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Meta and AI software startup settle trade secrets suit"
     excerpt: "Meta was previously accused of stealing source code via a former employee of tech startup | Facebook allegedly stole code for ‘groundbreaking’ AI algorithms | Parties settle with ‘confidential agreement’ ahead of jury trial."
     publishedDateTime: 2023-08-10T13:45:00Z
