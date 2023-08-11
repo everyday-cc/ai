@@ -10,7 +10,7 @@
       "originalUrl": "https://www.electropages.com/2023/08/groundbreaking-development-computer-vision-ai-accelerator-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -95,50 +95,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-stem-cell-therapy-rescues-symptoms-of-alzheimers-disease.md",
-      "title": "Stem cell therapy rescues symptoms of Alzheimer's disease",
-      "excerpt": "In the ongoing search for a cure for Alzheimer's disease, a burgeoning branch of medicine is bringing new hope. Stem cell therapies are already being used to treat various cancers and disorders of the blood and immune system.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-08-stem-cell-therapy-symptoms-alzheimer.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-08-stem-cell-therapy-symptoms-alzheimer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/stem-cell-therapy-resc.jpg",
-          "width": 1280,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-08-stem-cell-therapy-symptoms-alzheimer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-stem-cell-therapy-symptoms-alzheimer.amp",
-      "publishedDateTime": "2023-08-09T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -298,7 +254,7 @@
       "originalUrl": "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 444,
+      "heat": 454,
       "tags": null,
       "images": [
         {
@@ -1395,6 +1351,49 @@
       "provider": {
         "name": "The Bakersfield Californian",
         "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-ryanair-accused-of-invasive-facial-recognition-use.md",
+      "title": "Ryanair Accused Of 'Invasive' Facial Recognition Use",
+      "excerpt": "A prominent digital privacy campaign group on Thursday filed a complaint against Ryanair in Spain, alleging the popular budget carrier was pushing customers to undergo an \"invasive facial recognition process\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
+      "originalUrl": "https://www.barrons.com/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
+          "width": 1320,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
+      "publishedDateTime": "2023-07-27T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markcperna/2023/08/08/these-3-skills-ca
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcperna/2023/08/08/these-3-skills-can-help-everyone-take-advantage-of-the-coming-ai-era/amp/"
 type: article
 quality: 87
-heat: 116
+heat: 103
 published: true
 
 provider:

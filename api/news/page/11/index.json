@@ -2,6 +2,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-08-02-duke-health-partners-with-microsoft-to-expand-use-of-ai-in-health-care-study-responsible-use.md",
+      "title": "Duke Health partners with Microsoft to expand use of AI in health care, study responsible use",
+      "excerpt": "Artificial intelligence can do everything from writing a social media post to scouring a medical journal, and it’s becoming more common in the health care field. On",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/",
+      "originalUrl": "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cbs17.com/wp-content/uploads/sites/29/2023/03/duke-health.001-e1685671071333.jpeg?w=1280",
+          "width": 974,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/",
+      "cdnAmpWebUrl": "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/",
+      "publishedDateTime": "2023-08-01T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cbs17.com",
+        "domain": "cbs17.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-amd-revenues-fall-18-to-536b-as-pc-market-recovers-and-ai-rises.md",
       "title": "AMD revenues fall 18% to $5.36B as PC market recovers and AI rises",
       "excerpt": "Advanced Micro Devices reported that revenue in its second quarter was $5.36 billion, down 18% from a year earlier as the client PC market continues to climb back during the economic downturn. But investors took the report as good news,",
@@ -1177,49 +1221,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-edge-impulse-joins-aws-isv-accelerate-program-to-bring-real-world-ai-for-edge-devices.md",
-      "title": "Edge Impulse Joins AWS ISV Accelerate Program to Bring Real-World AI for Edge Devices",
-      "excerpt": "Edge Impulse, a leading provider of edge machine learning development tools, today announced it has joined the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program, a co-sell program for AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/edge-impulse-joins-aws-isv-accelerate-program-to-bring-real-world-ai-for-edge-devices/article_fcd12ff5-44be-591d-a436-b0a07fca90e0.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/edge-impulse-joins-aws-isv-accelerate-program-to-bring-real-world-ai-for-edge-devices/article_fcd12ff5-44be-591d-a436-b0a07fca90e0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,50 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-05-19-multan-airport-4th-in-country-to-get-facial-recognition-system.md",
-      "title": "Multan airport 4th in country to get Facial Recognition System",
-      "excerpt": "The Multan International Airport has become the fourth in the country to have a functional Facial Recognition System, a Pakistan Civil Aviation Authority spokesperson confirmed Friday. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
-      "originalUrl": "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-05-19/1071894_065954_updates.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
-      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
-      "publishedDateTime": "2023-05-19T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News International",
-        "domain": "thenews.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2023-05-18-growth-opportunities-in-cloud-security-data-security-edr-security-identity-access-management-deep-learning-and-computer-vision-based-security.md",
       "title": "Growth Opportunities in Cloud Security, Data Security, EDR Security, Identity Access Management, Deep Learning and Computer Vision-based Security",
       "excerpt": "The \"Growth Opportunities in Cloud Security, Data Security, EDR Security, Identity Access Management, Deep Learning and Computer Vision-based Security\" report has been added to ResearchAndMarkets.com's offering.",
@@ -1385,6 +1341,49 @@
       "provider": {
         "name": "Outlookindia",
         "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-specific-training-can-help-computer-vision-models-learn-like-humans-study.md",
+      "title": "Specific training can help computer vision models learn like humans: Study",
+      "excerpt": "MIT researchers have discovered that a specific training method can help computer vision models learn more perceptually straight representations, like humans do. Training involves showing a machine-learning model millions of examples so it can learn a task.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study",
+      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_05_2023_00_57_45_5641496.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp",
+      "publishedDateTime": "2023-05-09T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
         "images": null,
         "publishers": null,
         "authors": null

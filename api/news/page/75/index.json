@@ -2,6 +2,58 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2023-06-22-best-robot-vacuum-mop-combo-for-2023.md",
+      "title": "Best robot vacuum mop combo for 2023",
+      "excerpt": "Gone are the days of breaking out your mop and constantly emptying your dustbin – with robot vacuum-mop combos, much of your cleaning routine can be automated. These useful little drones might ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-and-mop-combo/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-and-mop-combo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/06/roborock-s5-max-robot-vacuum-cleaning-self-charger.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-and-mop-combo/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuum-and-mop-combo/?amp",
+      "publishedDateTime": "2023-06-21T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-artificial-intelligence-in-machine-learning-market-latest-trends-demand-cost-structures-and-industry-development-by-2030-google-baidu-ibm.md",
       "title": "Artificial Intelligence in Machine Learning Market Latest Trends, Demand, Cost Structures and Industry Development by 2030 |Google, Baidu, IBM",
       "excerpt": "The Artificial Intelligence in Machine Learning Market research report encompasses a thorough study of the current",
@@ -1123,50 +1175,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks.md",
-      "title": "DeepMind’s RoboCat learns to perform a range of robotics tasks",
-      "excerpt": "Researchers at DeepMind, the Google AI research division, have devised a model called RoboCat that can learn to perform new robotics tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/",
-      "originalUrl": "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

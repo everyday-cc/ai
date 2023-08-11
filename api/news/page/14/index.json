@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-07-31-how-researchers-train-machine-learning-model-in-outer-space-on-satellite.md",
+      "title": "How Researchers Train Machine Learning Model in Outer Space on Satellite",
+      "excerpt": "In a groundbreaking development, a group of researchers led by DPhil student Vít Růžička from the Department of Computer Science at the University of Oxford successfully trained a machine learning model in outer space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cryptopolitan.com/machine-learning-model-in-space-on-satellite/",
+      "originalUrl": "https://www.cryptopolitan.com/machine-learning-model-in-space-on-satellite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-31_11-25-04.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-30T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cryptopolitan",
+        "domain": "cryptopolitan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-how-is-machine-learning-different-from-deep-learning.md",
       "title": "How is machine learning different from deep learning?",
       "excerpt": "The confusion between machine learning and deep learning is an obvious one. Oftentimes, many people use the two interchangeably. However, these are",
@@ -1127,57 +1170,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/07/28/gen-ai-movie-trailer-for-sci-fi-epic-genesis/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/07/28/gen-ai-movie-trailer-for-sci-fi-epic-genesis/amp/",
       "publishedDateTime": "2023-07-28T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-ai-productivity-gains-are-not-limited-to-big-tech.md",
-      "title": "AI Productivity Gains Are Not Limited To Big Tech",
-      "excerpt": "While Microsoft and Google are competing to roll out bigger and better AI engines, the real beneficiaries of AI technology might be in other sectors of the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/07/28/ai-productivity-gains-are-not-limited-to-big-tech/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/07/28/ai-productivity-gains-are-not-limited-to-big-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c4406c3e9ca5472f03e661/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/07/28/ai-productivity-gains-are-not-limited-to-big-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/07/28/ai-productivity-gains-are-not-limited-to-big-tech/amp/",
-      "publishedDateTime": "2023-07-28T15:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

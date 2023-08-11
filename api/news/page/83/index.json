@@ -2,6 +2,58 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2023-06-17-zyrobotics-becomes-microsofts-first-ai-for-accessibility-grantee.md",
+      "title": "Zyrobotics becomes Microsoft's first AI for Accessibility grantee",
+      "excerpt": "Custom speech models have been created using Azure Machine Learning and Microsoft Cognitive Services in order to identify and provide feedback which is quite similar to what may be provided by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/zyrobotics-becomes-microsofts-first-ai-for-accessibility-grantee/",
+      "originalUrl": "https://www.neowin.net/news/zyrobotics-becomes-microsofts-first-ai-for-accessibility-grantee/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2018/09/1537837168_satya_nadella_story.jpg",
+          "width": 760,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-data-and-ai-ethics-market-insights-2030.md",
       "title": "Data and AI Ethics Market Insights | 2030",
       "excerpt": "Jun (The Expresswire) -- \"Data and AI Ethics Market\" is segmented into Regions, Applications (BFSI, Government and Defense, Healthcare and",
@@ -1128,50 +1180,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition.md",
-      "title": "Facebook Parent Company Meta Uses Bible Translations To Train Artificial Intelligence In Speech Recognition",
-      "excerpt": "The artificial intelligence arm of Facebook parent company Meta has turned to widely translated religious texts like the Bible to provide data for its Massively Multilingual Speech project, which aims to expand text-to-speech and speech-to-text technology to underserved languages.",
-      "sourceUrl": null,
-      "webUrl": "https://religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition",
-      "originalUrl": "https://religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.squarespace-cdn.com/content/v1/586d154f03596e5605562ea7/1686861909051-3NPADGDTEKDDVYNEYHWT/image-asset.jpeg?format=500w",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition?format=amp",
-      "cdnAmpWebUrl": "https://religionunplugged-com.cdn.ampproject.org/c/s/religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition?format=amp",
-      "publishedDateTime": "2023-06-16T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Religion Unplugged",
-        "domain": "religionunplugged.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

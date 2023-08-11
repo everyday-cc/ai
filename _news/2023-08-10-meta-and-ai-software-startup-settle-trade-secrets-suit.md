@@ -48,20 +48,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Nothing artificial about genuine intelligence"
-    excerpt: "I get some of my best cardio from pearl clutching and outrage, so naturally I read everything I can get my hands on about artificial intelligence, especially ChatGPT."
-    publishedDateTime: 2023-08-06T06:14:00Z
-    webUrl: "https://www.gjsentinel.com/lifestyle/nothing-artificial-about-genuine-intelligence/article_02993792-32d7-11ee-b9a2-431e0770887f.html"
-    type: article
-    provider:
-      name: The Grand Junction Daily Sentinel
-      domain: gjsentinel.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/custom/image/b32d0574-1b24-11ec-a31e-77e4d5ecaec6.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Meta Platforms Resolves AI Startup’s Trade Secret Lawsuit Through Settlement"
     excerpt: "Meta Platforms, previously known as Facebook, has reached a settlement in a lawsuit filed by Neural Magic, an artificial intelligence (AI) startup. Neural Magic had accused Meta of unlawfully appropriating its trade secrets."
     publishedDateTime: 2023-08-10T17:52:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/"
 type: article
 quality: 58
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: UPI
@@ -27,19 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI startup Baichuan rolls out third LLM in four months"
-    excerpt: "On Tuesday, four-month-old AI startup Baichuan Intelligent Technology unveiled its first closed-source model equipped with 53 billion parameters."
-    publishedDateTime: 2023-08-09T07:05:00Z
-    webUrl: "https://technode.com/2023/08/09/chinese-ai-startup-baichuan-rolls-out-third-llm-in-four-months/"
+  - title: "Biden fuels tech trade war with China, banning AI, chip, and quantum system investments"
+    excerpt: "US President Joe Biden is escalating the tech trade war with China with an executive order to restrict investment in specific sectors including semiconductors and microelectronics, quantum information technologies,"
+    publishedDateTime: 2023-08-10T16:33:00Z
+    webUrl: "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html"
+    ampWebUrl: "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
+      name: Computerworld
+      domain: computerworld.com
+    quality: 66
     images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/08/截屏2023-08-09-上午11.06.06.png?fit=2672%2C1506&ssl=1"
-        width: 2672
-        height: 1506
+      - url: "https://images.idgesg.net/images/article/2023/08/china_us_chip_semiconductor-100944587-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "US bans American investment in China's semiconductor, AI, and quantum computing industries"
+    excerpt: "The order authorizes the US Treasury to limit or prohibit US investment in three areas of Chinese development: semiconductors, artificial intelligence, and quantum computing. The restrictions"
+    publishedDateTime: 2023-08-10T15:32:00Z
+    webUrl: "https://www.techspot.com/news/99740-us-bans-american-investment-china-semiconductor-ai-quantum.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 59
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-25-image-6.jpg"
+        width: 1021
+        height: 765
         isCached: true
   - title: "US fuels tech trade war with China, banning AI, chip, and quantum system investments"
     excerpt: "US President Joe Biden is escalating the tech trade war with China with an executive order to restrict investment in specific sectors including semiconductors and microelectronics, quantum information technologies,"

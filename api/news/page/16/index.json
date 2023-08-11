@@ -2,6 +2,57 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-07-28-ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives.md",
+      "title": "AI Vs. Hearing Loss: The Battle That's Transforming Millions Of Lives",
+      "excerpt": "Over 5% of the world’s population suffers from disabling hearing loss. Groundbreaking advances in AI are revolutionizing hearing and helping erase the social stigma.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c39893bc808dac8016a7fe/0x0.jpg?format=jpg&crop=2908,1637,x0,y150,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives/amp/",
+      "publishedDateTime": "2023-07-28T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-ai-researchers-say-theyve-found-virtually-unlimited-ways-to-bypass-bard-and-chatgpts-safety-rules.md",
       "title": "AI researchers say they've found 'virtually unlimited' ways to bypass Bard and ChatGPT's safety rules",
       "excerpt": "The researchers found they could use jailbreaks they'd developed for open-source systems to target mainstream and closed AI systems.",
@@ -453,6 +504,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-28-machine-learning-artificial-neural-networks-localize-extrasystoles.md",
+      "title": "Machine Learning: Artificial Neural Networks Localize Extrasystoles",
+      "excerpt": "Up to a certain number, ventricular extrasystoles are normal. Ventricular tachycardias, however, may impair cardiac action and even be life-threatening in case of existing cardiac insufficiency. Ventricular tachycardias may be treated by catheter ablation: The origin of the extrasystoles is ablated by high-frequency current via a special catheter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235994",
+      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235994",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/60263_kit_logo_en_farbe_positiv.jpg",
+          "width": 1181,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AlphaGalileo",
+        "domain": "alphagalileo.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-the-future-of-art-generative-ai-web3-and-the-immersive-internet.md",
       "title": "The Future Of Art: Generative AI, Web3 And The Immersive Internet",
       "excerpt": "The generative AI, the metaverse and Web3 technology are set to revolutionize the art world, offering new opportunities for artists and collectors.",
@@ -795,49 +889,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-28-machine-learning-artificial-neural-networks-localize-extrasystoles.md",
-      "title": "Machine learning: artificial neural networks localize extrasystoles",
-      "excerpt": "Neural Networks Learn from 1.8 Million ECGs In Artificial Intelligence in Medicine, researchers from IBT and from the company of EPIQure in Karlsruhe report how they use deep learning to localize ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/997044",
-      "originalUrl": "https://www.eurekalert.org/news-releases/997044",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ca1b31a0-667c-4b71-9c2a-45bedef70d76/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-28-researchers-successfully-train-a-machine-learning-model-in-outer-space-for-the-first-time.md",
       "title": "Researchers successfully train a machine learning model in outer space for the first time",
       "excerpt": "Scientists have trained a machine learning model in outer space, on board a satellite. This achievement could revolutionize the capabilities of remote-sensing satellites by enabling real-time monitoring and decision making for a range of applications.",
@@ -1170,58 +1221,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-intel-earnings-turns-surprise-q2-profit-with-129b-in-revenue-as-ai-drives-growth.md",
-      "title": "Intel earnings turns surprise Q2 profit with $12.9B in revenue as AI drives growth",
-      "excerpt": "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Intel reported that its second-quarter revenues and profits were above expectations,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/intel-earnings-turns-surprise-q2-profit-with-12-9b-in-revenue-as-ai-drives-growth/",
-      "originalUrl": "https://venturebeat.com/games/intel-earnings-turns-surprise-q2-profit-with-12-9b-in-revenue-as-ai-drives-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/cto-7.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -201,6 +201,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "AI’s business impact to extend far beyond Nvidia"
+    excerpt: "Generative AI could emerge as a $1.3 trillion market by 2032, growing at a 42% compound annual rate, according to BI analyst Mandeep Singh."
+    publishedDateTime: 2023-08-10T21:10:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/ais-business-impact-to-extend-far-beyond-nvidia/"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Nvidia unveils new chip that will bring down cost of running ChatGPT and other AI models"
     excerpt: "Nvidia has revealed its next-generation Grace Hopper platform, featuring the world's first HBM3e processor for generative AI. The system has a single"
     publishedDateTime: 2023-08-08T22:39:00Z

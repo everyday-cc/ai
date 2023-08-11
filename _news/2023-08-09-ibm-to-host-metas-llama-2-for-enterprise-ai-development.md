@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "American Airlines Uses Google AI to Map Out Environmentally Friendly Flight Paths"
+    excerpt: "Google Research and AA join forces to create flight paths that produce fewer contrails, the thin white lines you often see behind planes. Early results are promising."
+    publishedDateTime: 2023-08-10T21:56:00Z
+    webUrl: "https://www.pcmag.com/news/american-airlines-uses-google-ai-to-map-out-environmentally-friendly-flight"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 62
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04AAbAeVeJinOoug3fEFQcy-1.fit_lim.size_1200x630.v1691700084.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "The Impact of Artificial Intelligence on Software Development"
     excerpt: "Jamie Boote warns developers, architects and QA testers to remain vigilant over the use of AI in software development"
     publishedDateTime: 2023-08-08T11:59:00Z

@@ -67,6 +67,20 @@ related:
         width: 1920
         height: 1329
         isCached: true
+  - title: "4 Generative AI Issues That Are Likely Keeping Judges Up At Night"
+    excerpt: "Judges have their task cut out for them when it comes to preparing for generative AI's entry into their courts. In a panel hosted by the Practicing Law Institute, retired judges discussed some of their primary concerns with the advanced technology."
+    publishedDateTime: 2023-08-10T22:45:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/10/4-generative-ai-issues-that-are-likely-keeping-judges-up-at-night/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Law-scales-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "yjmP93FH5czv/ZYqAnf/ohm/bytctfzjc3NgbymFAEm8p5XNomkE9oSMF4f7Bys3KmB24GCGX1T5548qhm+wJ7ql5iqctXCD4ZMFdneOUG8lk7r5zEa5ilnWgsaABsWs8JlVXOFsW4qP3iZzfr2sfmtSDnxHnJW8adJDmS0hDEynE5gsiNQYLKZdc3s3NTn+BlLvZK8kltWp455vGkyIVRf1oKFm0GN0JhJPlzmIU9VVGWBW2Tkb6hqHiK1jG6nJYKXajINOOGofykUbo2T4aui+eqa/UTBuOkpSn6Km3cAQS7a/1MWiYHMm6t4eQeZhJPWr/9AN50y5hItS4EVmN+x0vUpLYncM2mLkcPAxDbA=;er1OWtpUL9fcbpo8bm92Ew=="
 ---

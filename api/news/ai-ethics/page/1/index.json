@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-11-11-skills-youll-need-to-use-ai-effectively.md",
+      "title": "11 Skills You’ll Need To Use AI Effectively",
+      "excerpt": "This is foundational: basic computer skills, navigating the internet, comfort using new software for AI as it develops. Understanding how data is used by AI systems and how we use (and misuse) data. This includes data collection techniques, data privacy, and the potential for data bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d5448255e2983976b1ea3f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/amp/",
+      "publishedDateTime": "2023-08-10T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-how-todays-top-marketing-leaders-are-approaching-ai.md",
       "title": "How Today’s Top Marketing Leaders Are Approaching AI",
       "excerpt": "Many marketing leaders are embracing the technology, recognizing its staying power and acknowledging that marketers would do well to adapt or risk becoming irrelevant.",
@@ -106,7 +158,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/08/zoom-data-mining-for-ai-terms-gdpr-eprivacy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1428,58 +1480,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-ai-appears-more-human-on-social-media-than-actual-humans-study.md",
-      "title": "AI appears more human on social media than actual humans: study",
-      "excerpt": "An artificial intelligence study published in Science Advances found that AI-generated text on social media can appear more human than human-generated content.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study",
-      "originalUrl": "https://www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bff1022-cc69-4a58-ab0c-7d0afacf8a0c/c38f9884-dfb7-4d64-9f42-d747aef5d144/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study.amp",
-      "publishedDateTime": "2023-07-24T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

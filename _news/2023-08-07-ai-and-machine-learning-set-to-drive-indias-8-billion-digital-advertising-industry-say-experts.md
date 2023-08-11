@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-ind
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts/amp-11691378452164.html"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://openx.textileworld.com/www/delivery/avw.php?zoneid=114&cb=INSERT_RANDOM_NUMBER_HERE&n=a0fd0356"
         width: 300
         height: 250
+        isCached: true
+  - title: "India to add AI-powered conversational payments to UPI"
+    excerpt: "The Reserve Bank of India has set out plans for a host of new fintech developments, including AI-powered \"conversational\" payments on the country's UPI system and a public digital platform for the provision of frictionless credit."
+    publishedDateTime: 2023-08-10T23:13:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42771/india-to-add-ai-powered-conversational-payments-to-upi"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5443.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "ZMdCwVuEUKV8hFK73HMpOBqDn5Rd/3QmFXhRn6MCTC1UtQ4t6I9iZw7OhHI52UUMjsXrED9BwQGSpAjnc387xjpCxvr15Zj6dqrw/4N5ROOIiun23Eb3XZyeEAlrDqqI7xnN1M6wNkZWcOEn2a9KkoFA2FyAr6kAxxsFIuSVYgsqu7f3uKdxMTGnfA9Xm3qpdXC5k5615oj9sRC1HUIX+DIX2g6jewA1wEW/eAAtR6Dj+RmH+INX3z1jK2+spb0O6GFUzeGxkFzeI7syeJR5VjSDk3XjJNTap/Id1G+N3huL2YKbmgyYB2g9jP4ABlPjU+NHk+yi9dRkZhy+7H9xrN3WHpnW2QhO53Rdohu0go0=;TiAamp9xusxyf3fosjiBwA=="

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-11-robotics-as-a-service-market-size-share-trends-analysis-and-forecast-to-2031.md",
+      "title": "Robotics As A Service Market Size, Share, Trends, Analysis And Forecast To 2031",
+      "excerpt": "These robots are endowed with sensors, artificial intelligence, and machine learning algorithms, allowing them to perform complex tasks more efficiently and precisely. The global robotics market is anticipated to expand at a CAGR of 11.5% between 2023 and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/ab33728409/robotics-as-a-service-market-size-share-trends-analysis-and-forecast-to-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/ab33728409/robotics-as-a-service-market-size-share-trends-analysis-and-forecast-to-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33728409",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33728409",
+      "publishedDateTime": "2023-08-10T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-researchers-use-ai-to-determine-drivers-health-and-mental-state-in-self-driving-cars.md",
       "title": "Researchers use AI to determine drivers health and mental state in self-driving cars",
       "excerpt": "Researchers at Western University are partnering with Mitacs Globalink to advance technology in self-driving cars by using artificial intelligence (AI).",
@@ -106,7 +149,7 @@
       "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -145,7 +188,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -157,7 +201,7 @@
       "originalUrl": "https://venturebeat.com/data-infrastructure/virtualitics-raises-37m-for-ai-driven-3d-data-exploration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -346,7 +390,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-ai-helped-get-my-music-on-all-the-major-streaming-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -544,6 +588,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-10-biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.md",
+      "title": "Biden fuels tech trade war with China, banning AI, chip, and quantum system investments",
+      "excerpt": "US President Joe Biden is escalating the tech trade war with China with an executive order to restrict investment in specific sectors including semiconductors and microelectronics, quantum information technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html",
+      "originalUrl": "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/08/china_us_chip_semiconductor-100944587-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html",
+      "publishedDateTime": "2023-08-10T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-datarobot-updates-ai-development-platform-to-cover-entire-generative-ai-lifecycle-for-enterprises.md",
       "title": "DataRobot updates AI development platform to cover entire generative AI lifecycle for enterprises",
       "excerpt": "DataRobot announced new generative AI capabilities and applied services for building business-focused LLM applications quickly and easily.",
@@ -707,7 +794,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/10/get-all-of-that-data--and-give-it-to-patients-new-models-for-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1150,101 +1237,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-infibeam-avenues-ltd-to-include-ai-on-its-platform.md",
-      "title": "Infibeam Avenues Ltd to include AI on its platform",
-      "excerpt": "According to an official release, Infibeam Avenues Ltd, an Indian fintech company, announced its plans to include Artificial Intelligence (AI) to create an AI-based fraud detection market. The company expects to establish India’s first Artificial Intelligence (AI) HUB at the Gujarat International Finance Tec-City (GIFT City).",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/",
-      "originalUrl": "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik267.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/lite/",
-      "publishedDateTime": "2023-08-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-understanding-onelake-and-lakehouses-in-microsoft-fabric.md",
-      "title": "Understanding OneLake and lakehouses in Microsoft Fabric",
-      "excerpt": "Microsoft Azure’s new, unified data platform aims to be your one-stop shop for analytics and machine learning at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.html",
-      "originalUrl": "https://www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/07/06/10/shutterstock_1331536427-100929861-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.amp.html",
-      "publishedDateTime": "2023-08-10T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

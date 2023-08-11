@@ -2,6 +2,49 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-07-14-can-ai-lead-growth-for-alphabet-and-google-earnings-preview.md",
+      "title": "Can AI Lead Growth for Alphabet And Google - Earnings Preview",
+      "excerpt": "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview",
+      "originalUrl": "https://www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/googleearningsbakery_medium.png",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview_amp",
+      "publishedDateTime": "2023-07-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-exploring-how-soft-robotics-can-revolutionize-minimally-invasive-surgery.md",
       "title": "Exploring how soft robotics can revolutionize minimally invasive surgery",
       "excerpt": "An overview paper published in the journal Science explores artificial intelligence (AI) applications in medical robots, including Professor Kaspar Althoefer's scientific research unlocking the potential of flexible and adaptable surgical robots to revolutionize surgical procedures.",
@@ -1171,58 +1214,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-1-potential-ai-winner-thats-a-screaming-buy-despite-gaining-148-in-2023.md",
-      "title": "1 Potential AI Winner That's a Screaming Buy Despite Gaining 148% in 2023",
-      "excerpt": "Grand View Research estimates that the adoption of AI in digital marketing could grow at an annual pace of 26% through 2030 and generate $82 billion in annual revenue. Given that Meta's Facebook ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/14/potential-ai-winner-screaming-buy-gains-2023/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/14/potential-ai-winner-screaming-buy-gains-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/739443/chatbot-smartphone-person.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T22:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

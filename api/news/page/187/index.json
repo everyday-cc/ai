@@ -2,6 +2,58 @@
   "page": 187,
   "value": [
     {
+      "path": "_news/2023-04-13-artificial-intelligence-in-health-care-new-product-acts-as-copilot-for-doctors.md",
+      "title": "Artificial intelligence in health care: New product acts as 'copilot for doctors'",
+      "excerpt": "Washington, D.C. – America’s medical community appears to be embracing artificial intelligence products in an effort to speed up patient care and prevent burnout among health care professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors",
+      "originalUrl": "https://www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Meredith_Mark_OFFICIAL.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors.amp",
+      "publishedDateTime": "2023-04-13T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-sophisticated-ai-robot-speaks-several-languages-in-disturbing-footage.md",
       "title": "Sophisticated AI robot speaks several languages in disturbing footage",
       "excerpt": "Disturbing footage shows a highly-advanced AI robot speaking several languages. Ameca is a robot developed by UK startup Engineered Arts, who describe the robot as the “world’s most advanced ...",
@@ -1071,49 +1123,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-automl-the-promise-vs-reality-according-to-practitioners.md",
-      "title": "AutoML: the Promise vs. Reality According to Practitioners",
-      "excerpt": "Unfortunately, true end-to-end automation is not yet available. AutoML is currently most frequently used in hyperparameter tuning and model selection. The failure of AutoML to be end-to-end can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/auto-ml-promise-reality/",
-      "originalUrl": "https://www.infoq.com/articles/auto-ml-promise-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/auto-ml-promise-reality/en/headerimage/header-1661333792384.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

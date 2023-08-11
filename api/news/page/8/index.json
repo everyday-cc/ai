@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-08-04-neuromorphic-chip-market-surges-as-ai-revolutionizes-computing-future-market-insights.md",
+      "title": "Neuromorphic Chip Market Surges as AI Revolutionizes Computing – Future Market Insights",
+      "excerpt": "Vertical (Aerospace & Defence, Automotive, Consumer Electronics, Healthcare, Industrial) & Region - Forecast to 2016 - 2026",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2023/08/03/neuromorphic-chip-market-surges-as-ai-revolutionizes-computing-future-market-insights/",
+      "originalUrl": "https://www.fmiblog.com/2023/08/03/neuromorphic-chip-market-surges-as-ai-revolutionizes-computing-future-market-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2023/08/SpatialLightModulators-420x300.jpg",
+          "width": 420,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-moonwares-ai-lets-airfield-ground-crews-ditch-the-walkies.md",
       "title": "Moonware’s AI lets airfield ground crews ditch the walkies",
       "excerpt": "The startup’s cofounders, Vidal and Saunon Malekshahi ... It’s a solution that Malekshahi likened to an AI-enabled “ground traffic control platform,” similar to how air traffic control (ATC) directs aircraft on the ground and in airspace today.",
@@ -1146,40 +1189,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-artificial-intelligence-in-healthcare-sector-market-status-and-outlook-2023-2029.md",
-      "title": "Artificial Intelligence In Healthcare Sector Market Status and Outlook 2023-2029",
-      "excerpt": "The Artificial Intelligence In Healthcare Sector market report highlights information regarding the current and future industry trends, growth patterns, as well as it offers business strategies to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33542225/artificial-intelligence-in-healthcare-sector-market-status-and-outlook-2023-2029",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33542225/artificial-intelligence-in-healthcare-sector-market-status-and-outlook-2023-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -57,6 +57,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "India to add AI-powered conversational payments to UPI"
+    excerpt: "The Reserve Bank of India has set out plans for a host of new fintech developments, including AI-powered \"conversational\" payments on the country's UPI system and a public digital platform for the provision of frictionless credit."
+    publishedDateTime: 2023-08-10T23:13:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42771/india-to-add-ai-powered-conversational-payments-to-upi"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5443.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "B27i5Ko8QWA2r7NL8nka1lnJ364eY4IRXZXSy+mX/cGI5s2YA1K90XzQpA9/b59aoqOChN6xvAHbvHihPi03v0SDaGnwFzXkz9/FqGqpyYNWK/mm9pr51kjSBTEneqopCvZUTCXOVJB6R+nUa9L9UVuNM5NMo1QWg59LiPmsp0CTH1GRAIxLX4KhqeOH+GyE0QHvJnYxaz1FJKeCDtvSG0/PQjKBWT05sS2xrtYUsVNmJMEO+l81DdbhyLQISv5VOe4AsMj68NGD6dYReOok63jfXy3EqmsbztsWKQ4CT56kimTkztLBhtrjzIIqp9hdkQVRe5xT+TODDc051rS4hVbG6H8U/TF8iM4ZA3MCFV0nb47J72lo/DcD9D1nbvi3K2MWngsTt4lX+bww/PIUmhW9gXeHhNy/5c7UL2usMHDIfYJgFs1zonG3FICJEDcqmO+wD1d7d59KIGCeq24iQ8jQoBvy2hZ5A+zpGfyEWpjSFlENSenJnoDYopFTdi1XkNp67HvZPlpmJLCKGh5jng==;yjwoUiFNrf1L8i2H3B68RQ=="
 ---

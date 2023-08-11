@@ -34,20 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "The Voice and Speech Analytics Market to Grow by $2,565.07 million from 2022 to 2027"
-    excerpt: "The voice and speech analytics market is estimated to grow at a CAGR of 16.35% between 2022 and 2027. The market size is forecast to increase by USD 2,565.07 million , according to Technavio. North America is"
-    publishedDateTime: 2023-08-10T11:44:00Z
-    webUrl: "https://www.cmswire.com/the-wire/the-voice-and-speech-analytics-market-to-grow-by-256507-million-from-2022-to-2027/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 17
-    images:
-      - url: "https://mma.prnewswire.com/media/2182502/Technavio_Logo_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
     excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Martin Klein has been named vice president of Analytics and Artificial Intelligence (AI). Klein returns to ECS after having previously served as a program manager,"
     publishedDateTime: 2023-08-10T11:20:00Z

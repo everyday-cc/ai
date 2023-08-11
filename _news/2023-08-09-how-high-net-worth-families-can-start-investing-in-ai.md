@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How artificial intelligence could be used in deep sea mining"
+    excerpt: "High-tech robotic vehicles that utilize artificial intelligence could soon be scouring the deep sea floor for minerals needed to make batteries for electric vehicles. Ben Tracy has more."
+    publishedDateTime: 2023-08-10T23:45:00Z
+    webUrl: "https://www.cbsnews.com/video/how-artificial-intelligence-could-be-used-in-deep-sea-mining/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/10/fe860a6b-0498-4c3b-a3fb-78a2c59dbba8/thumbnail/1200x630/5ce07e18f1bf286557341c5903ec7102/tracy-2198097-640x360.jpg?v=08aa43fa812a9e12e93282c47f58b17f"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "2xtxd4OJOTYRD5GoDn7PP+JGeAF3tlg2S1grpMuLArn6Tz6a2V2vJkUj7MkC1/tLAuFv9mI8jAyS1Gi3s5lDdizea8WaZ919n+azrSv7pKCR3a+baYPxgSPdpd0TpMWWHvHn1K5OlcLws+Lw0WOEaVxpwQG6H57sQGidsw6xp6afxv2uoUm/tI/Ty8Wk4Te2V8HbNCq16lKcK1W+NrFCCCxzWT2B/av3BFDRl04mkpPQ5u1v7urpCl+jpx5iEaNv5cPFDu/aLmSG8x66i4PXVLj596QTfXPykM7b1tH8dwkJIfuCoQo5muwVDCcxPwCGZjttXofZfa/intMc/tXnZs1IesdchO8mdtor1rySZec=;N6pXcWn3dYKkkWR3SZdWXw=="
 ---

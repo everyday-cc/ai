@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Machine learning: artificial neural networks localize extrasystoles"
-excerpt: "Neural Networks Learn from 1.8 Million ECGs In Artificial Intelligence in Medicine, researchers from IBT and from the company of EPIQure in Karlsruhe report how they use deep learning to localize ..."
-publishedDateTime: 2023-07-27T23:59:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/997044"
-webUrl: "https://www.eurekalert.org/news-releases/997044"
+title: "Machine Learning: Artificial Neural Networks Localize Extrasystoles"
+excerpt: "Up to a certain number, ventricular extrasystoles are normal. Ventricular tachycardias, however, may impair cardiac action and even be life-threatening in case of existing cardiac insufficiency. Ventricular tachycardias may be treated by catheter ablation: The origin of the extrasystoles is ablated by high-frequency current via a special catheter."
+publishedDateTime: 2023-07-28T07:01:00Z
+originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235994"
+webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235994"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: AlphaGalileo
+  domain: alphagalileo.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ca1b31a0-667c-4b71-9c2a-45bedef70d76/Rendition/low-res/Content/Public"
-    width: 700
-    height: 394
+  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/60263_kit_logo_en_farbe_positiv.jpg"
+    width: 1181
+    height: 547
     isCached: true
 
-secured: "9H0jEhNx9M9rpAKwEUIao551oXzEAAsH/Lk9axMGeUTKkK5Eg9y/egoFCc2Y90gVT3SlPLhiHxMkYFS6ug59FGkCTU2zcqEcmL1esYUKrqgQ99Bybd+lqqkpBnX0y75Ub8DaUK3/YRmOnZGOnkG2kcy0DblsPE8dGWiQehxSJD3jrUKYwjzrE5hI58LtguMapk4dnYGb7RdjZNgp98uUNcIQCG8Hnw/IA9NvfVf6VR0u1UjI9/+DFTSC8oDIxDUEpzU9/XHJo9NsvQlxvRh13ZjvpwZADwgKSgF+GemsAMxSJCjSH7YE7NpLjgXsczRAXBWE52KthkSUn0kJxKuVwYa+VBBl3WoiPu3+Az2Dq8M=;Hdqe2lue7iDAZ4pJIJekyQ=="
+secured: "+nYe0OahBmyIqFltBIKH6825c4OS0J2JE1B7tVA3ds4qcmSWgASogj/0lycbEMu4V1rIR0s738d59dveG8wqKUGtLNUsfLq/Zq6mrgIvBt3eIxZQ5KTIwTw5hHxEg55ydjoHurVLUrRYstg8Yr95TTILOXHICXUDh85b6XEAaGs0/rkdBtSD68X28Cq154XLyNYV//zLqg5ZEVH1D5lv5EWiKoEibSS1n1c//2Vj4utzHVNvzJv/GM7IMlgTFblACFtsxHeKIBhMuuTRVZvDA+7yPn5692EDoI5mPxdZQZ1hDSFBYNxmPAFyW0hH/U0wXWlMCAu47FSbo+8VgSVfxpgdRBSe/ItvLbatbqavkOo=;D6uzhxrxCioySlzC0n2UnA=="
 ---
 

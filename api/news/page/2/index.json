@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-10-infibeam-avenues-ltd-to-include-ai-on-its-platform.md",
+      "title": "Infibeam Avenues Ltd to include AI on its platform",
+      "excerpt": "According to an official release, Infibeam Avenues Ltd, an Indian fintech company, announced its plans to include Artificial Intelligence (AI) to create an AI-based fraud detection market. The company expects to establish India’s first Artificial Intelligence (AI) HUB at the Gujarat International Finance Tec-City (GIFT City).",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/",
+      "originalUrl": "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik267.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/lite/",
+      "publishedDateTime": "2023-08-10T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-understanding-onelake-and-lakehouses-in-microsoft-fabric.md",
+      "title": "Understanding OneLake and lakehouses in Microsoft Fabric",
+      "excerpt": "Microsoft Azure’s new, unified data platform aims to be your one-stop shop for analytics and machine learning at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.html",
+      "originalUrl": "https://www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/07/06/10/shutterstock_1331536427-100929861-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.amp.html",
+      "publishedDateTime": "2023-08-10T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-google-brings-ai-to-cloud-hosted-development-environments.md",
       "title": "Google brings AI to cloud-hosted development environments",
       "excerpt": "Project IDX combines Codey-powered AI assistance and templates for popular JavaScript frameworks in a cloud-hosted Linux VM. Google said support for Python, Go, and other languages is coming soon.",
@@ -10,7 +105,7 @@
       "originalUrl": "https://www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -61,7 +156,7 @@
       "originalUrl": "https://www.electropages.com/2023/08/groundbreaking-development-computer-vision-ai-accelerator-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -105,7 +200,7 @@
       "originalUrl": "https://www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -396,7 +491,7 @@
       "originalUrl": "https://www.forbes.com/sites/alexknapp/2023/08/09/innovationrx-70-of-us-adults-concerned-about-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -437,49 +532,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-biden-signs-executive-order-banning-investment-in-chinese-ai-other-tech.md",
-      "title": "Biden signs executive order banning investment in Chinese AI, other tech",
-      "excerpt": "President Joe Biden signed an executive order Wednesday banning U.S. investments in artificial intelligence and other technologies that come from China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/6541691620107/2023/1/253c6e9417c032a9382c422147f5a677/v1.5/Biden-signs-executive-order-banning-investment-in-Chinese-AI-other-tech.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/",
-      "publishedDateTime": "2023-08-09T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -645,7 +697,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/09/messina-joins-ride-home-funds-new-15m-ai-vehicle-backed-by-andreessen-dixon-crowley/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -685,50 +737,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-stem-cell-therapy-rescues-symptoms-of-alzheimers-disease.md",
-      "title": "Stem cell therapy rescues symptoms of Alzheimer's disease",
-      "excerpt": "In the ongoing search for a cure for Alzheimer's disease, a burgeoning branch of medicine is bringing new hope. Stem cell therapies are already being used to treat various cancers and disorders of the blood and immune system.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-08-stem-cell-therapy-symptoms-alzheimer.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-08-stem-cell-therapy-symptoms-alzheimer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/stem-cell-therapy-resc.jpg",
-          "width": 1280,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-08-stem-cell-therapy-symptoms-alzheimer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-stem-cell-therapy-symptoms-alzheimer.amp",
-      "publishedDateTime": "2023-08-09T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1187,7 +1195,7 @@
       "originalUrl": "https://www.reuters.com/legal/transactional/meta-settles-startups-lawsuit-over-artificial-intelligence-trade-secrets-2023-08-09/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {

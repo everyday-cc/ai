@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tech-down-as-ai-enthusiasm-sta
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-down-as-ai-enthusiasm-stalls-tech-roundup-db409f"
 type: article
 quality: 89
-heat: 95
+heat: 89
 published: true
 
 provider:

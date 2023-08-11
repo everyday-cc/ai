@@ -48,6 +48,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "AI data exploration startup Virtualitics raises $37M for growth and innovation"
+    excerpt: "Artificial intelligence data exploration startup Virtualitics Inc. today announced that it had raised $37 million in new funding to invest in growth and innovation, including direct and ecosystem investments and investments to enhance its AI platform."
+    publishedDateTime: 2023-08-10T23:15:00Z
+    webUrl: "https://siliconangle.com/2023/08/10/ai-data-exploration-startup-virtualitics-raises-37m-growth-innovation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/virtualitics.png"
+        width: 1107
+        height: 545
+        isCached: true
 
 secured: "woiD6IXwdp6Buw1Bp6auHTa7e6/Bdle8OuSk1zxDOwVFIXU2Izz6Rw1B08UrrUS6xgpfR6ide2UL+/tL3u8yk7JVa4hYzduujjgDc57Ho6w85es5zczKUqAoOEHiGpLjDpay4VSpe1LaSbcMgA8AUJbtYeOHgqzwjdQtkM/CXJrBTTVN1i2KWjhjjzs3jyw6UDWldptxCwGh7eMISLW4ihdMVObxWLaFqtJk308yVPCM56NXfZE9zjSK6xMsN9xn137QmHR3JhFtPBnORIrW+QErjn85x7MCkCytz3mea5UvNSDJNGZ3ydrE3Gy0IuPSMdpD8g6Myct4D/igu18Hh3Y5gmIX/kIka0RiQ28o6pw2IQHYiznNuy+T/iD0v8VLqDSA8OEvixQ2uZmKQnPjGuUW7D87pewVIS16S9Fp8cop1pUlSFVqnwWLHrP3VCGEuaKk/gWilKznZXfqrIoSayme2MN3AU/pS2jXw94p7NldIxNeEAQlIHcTn3Uiu4rft53IlGU6mqBrVMAb4Yc/FQ==;matZSAkdo539hGMBjsy1ZQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
 type: article
 quality: 89
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -192,6 +192,15 @@ related:
     excerpt: "Nvidia Corp. announced an updated AI processor that gives a jolt to the chip’s capacity and speed, seeking to cement the company’s dominance in a burgeoning market."
     publishedDateTime: 2023-08-08T15:32:00Z
     webUrl: "https://www.bloomberg.com/news/articles/2023-08-08/nvidia-unveils-faster-processor-aimed-at-cementing-ai-dominance"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "AI’s business impact to extend far beyond Nvidia"
+    excerpt: "Generative AI could emerge as a $1.3 trillion market by 2032, growing at a 42% compound annual rate, according to BI analyst Mandeep Singh."
+    publishedDateTime: 2023-08-10T21:10:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/ais-business-impact-to-extend-far-beyond-nvidia/"
     type: article
     provider:
       name: Bloomberg L.P.

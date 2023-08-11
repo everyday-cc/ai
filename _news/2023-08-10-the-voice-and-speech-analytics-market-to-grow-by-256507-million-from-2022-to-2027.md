@@ -25,47 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Amplitude taps AI to improve data quality, accelerate product analytics"
-    excerpt: "Product analytics company Amplitude debuted new AI features to simplify how companies govern their data and use it to generate insights."
-    publishedDateTime: 2023-08-08T18:57:00Z
-    webUrl: "https://venturebeat.com/ai/amplitude-taps-ai-to-improve-data-quality-accelerate-product-analytics/"
+  - title: "Robotics As A Service Market Size, Share, Trends, Analysis And Forecast To 2031"
+    excerpt: "These robots are endowed with sensors, artificial intelligence, and machine learning algorithms, allowing them to perform complex tasks more efficiently and precisely. The global robotics market is anticipated to expand at a CAGR of 11.5% between 2023 and ..."
+    publishedDateTime: 2023-08-10T23:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33728409/robotics-as-a-service-market-size-share-trends-analysis-and-forecast-to-2031"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33728409"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33728409"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Telematics providers improve AI accuracy to combat risky driving behaviors"
-    excerpt: "Verizon Connect launches enhancements to its AI dashcam, including new AI tags for speeding and unfastened seat belt detection."
-    publishedDateTime: 2023-08-09T11:46:00Z
-    webUrl: "https://www.ccjdigital.com/technology/telematics/article/15543878/telematics-providers-improve-ai-accuracy-to-combat-risky-driving-behaviors"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 70
     images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2023/08/GettyImages_1342002649.6284f2184d42f.64d28cb46d3b9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
-    excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Martin Klein has been named vice president of Analytics and Artificial Intelligence (AI). Klein returns to ECS after having previously served as a program manager,"
-    publishedDateTime: 2023-08-10T11:20:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/10/9862493.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-  - title: "Empowering business transformation through data decoupling and analytics"
-    excerpt: "In today’s rapidly evolving digital landscape, harnessing the power of data has become a critical priority for businesses across industries."
-    publishedDateTime: 2023-08-07T08:06:00Z
-    webUrl: "https://www.dqindia.com/empowering-business-transformation-through-data-decoupling-and-analytics/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 3
 
 secured: "3kCfX1Xs8AXlAajcsjr/dPRPCMtDD03njPbli1/HdnbKaclu9OriF6Woi9I/iS7TRbVeaAm9CW2tI0PEAHNsbtkatrmsSTSgv8GtyY/RU5rCjPnXwKSwX70aECXoU/Ev1Jw1bp4NYyr2vjYnxwERcegQUFF33ZSJCLIpx+1qvLomuUUeqtY4wXiuWh9MjaPazchyJgH0B2e2Aj/qI3UpnGC8TQzpGWFi2XujnHCZruH2FPBbXiTvqLSrVCH5X34O9qW4xgvswOV188c0NMEuxmN2tcECOEv8mSnUgp03NKwQfdMWJP7g9D5hl9A89Y5LS2Op0VZnf4LJ4RtUgj0LASC+AiXhsjcBCzH1j9iLISs=;tJ5hi1aM1k8AUHHXnVSfww=="
 ---

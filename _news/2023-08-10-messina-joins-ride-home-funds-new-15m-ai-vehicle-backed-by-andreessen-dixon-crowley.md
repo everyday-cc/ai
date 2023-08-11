@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/09/messina-joins-ride-home-funds-new-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/09/messina-joins-ride-home-funds-new-15m-ai-vehicle-backed-by-andreessen-dixon-crowley/amp/"
 type: article
 quality: 78
-heat: 79
+heat: 80
 published: true
 
 provider:

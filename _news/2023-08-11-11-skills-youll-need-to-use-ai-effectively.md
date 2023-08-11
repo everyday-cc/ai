@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-t
 ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64d5448255e2983976b1ea3f/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 771
     isCached: true
 
-secured: "/iNBsJlAbXUIOvFaOwI57IT1mg/5SED04SSPhTHlDtV1IwRdGswZ5K4wvx5Af9wYNELafg8QHsWfrEhVcluVKXz10/VQ5611kjDOSuNIzBdDUzrdmFc8q4QKtYUSA2VrH1GNggFIIe8SONTpFEI5DPwOu1CEg3H61bAfh11lofYD0oHIlqyXym9QeZ6YnbLXVBy9Aap8e6TWoc8zigWExgwx1VG2bg7w5o0a7MziYWwTWmC9u5bDD7Z85G1j1avrB86SWIYPXdXTcvYzLFbqBbi5YeaADimgw5NZELtgmXcfMy7kljzLCpNxZx+vGsJUPt0wcyobkmsVtAftSaCJLzumu6OEjyhqFdbuOUbGqVU=;qQFlHJ74c75Y7avODNj2iA=="
+secured: "skDGCwRad1DwtaDjka8AiVJLSRKeTUvu7aPr4kEsmdGBnKpSLxJjQno16e3ixA6MAs348GKsbm1wP4QE7SRL30Dc7OoCpXPpwchodbTCoOdaHlyIqeA/VAeg7SGDfwy6cMT5eHb7XHhdZorhFGctmjoN8IbwBC0Ao2ACOhf2qj97SuKhpjCVaY98EXxeQ+7RPiHHFB1krAMaw2Zm/oLnyyxLVz5IPNNNa00FA/Pel0yliFGcNY1PeDq68gQtrUA3xGc68Ma3Te8bVH8DNvBtiAzp6eHb2aOYqkSQMdZUGdkQ3RlAdf0A0tndUlLIS2o7r7XO+Znaz14TFmr/4+DW+vR0/dwn3y/4LuhWamCuywlF0cXIFwH5QWGbz/R+LpW3hABPJnbZGxTzdRbR8ByHo8B8tgOMZryrDOoKFXXYGTVAKorZVcz079mJyRKCFxn6MciuwwX8aMp6KnZ0WeGDj7b8ueJ7H/eCAO+R/hqMdgxU4HAeUWgUxAxuYnrQ2WJng6X4h0nIxKLZkull4c+dQw==;elakrfG+EYrXJWDyJdwVHQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/10/get-all-of-that-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/10/get-all-of-that-data--and-give-it-to-patients-new-models-for-ai-in-healthcare/amp/"
 type: article
 quality: 100
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/ctscan.jpg"
         width: 1920
         height: 1329
+        isCached: true
+  - title: "4 Generative AI Issues That Are Likely Keeping Judges Up At Night"
+    excerpt: "Judges have their task cut out for them when it comes to preparing for generative AI's entry into their courts. In a panel hosted by the Practicing Law Institute, retired judges discussed some of their primary concerns with the advanced technology."
+    publishedDateTime: 2023-08-10T22:45:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/10/4-generative-ai-issues-that-are-likely-keeping-judges-up-at-night/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Law-scales-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "Vital Releases Doctor-to-Patient Translator That Uses AI and LLMs to Transform Medical Jargon Into Simple, Accurate Content for Patients"
     excerpt: "Vital, a leading artificial intelligence (AI)-driven digital health company, today announced the launch of its AI-powered Doctor-to-Patient Translator, designed to transform highly technical medical terminology into plain language that any patient can understand."

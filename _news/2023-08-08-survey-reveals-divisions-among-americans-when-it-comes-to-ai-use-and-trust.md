@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/survey-reveals-divisions-among-ameri
 webUrl: "https://www.geekwire.com/2023/survey-reveals-divisions-among-americans-when-it-comes-to-ai-use-and-trust/"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "US bans American investment in China's semiconductor, AI, and quantum computing industries"
-    excerpt: "The order authorizes the US Treasury to limit or prohibit US investment in three areas of Chinese development: semiconductors, artificial intelligence, and quantum computing. The restrictions"
-    publishedDateTime: 2023-08-10T15:32:00Z
-    webUrl: "https://www.techspot.com/news/99740-us-bans-american-investment-china-semiconductor-ai-quantum.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 59
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-25-image-6.jpg"
-        width: 1021
-        height: 765
-        isCached: true
   - title: "Where Americans are OK with AI in their healthcare"
     excerpt: "Americans remain wary of AI in healthcare, but are more comfortable with certain uses than others. A survey of 2,202 US adults reveals the healthcare tasks they're most at ease having AI help with."
     publishedDateTime: 2023-08-10T14:40:00Z

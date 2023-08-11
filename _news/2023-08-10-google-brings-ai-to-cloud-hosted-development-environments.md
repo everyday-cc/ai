@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704630/google-brings-ai-to-cloud-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.amp.html"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "American Airlines Uses Google AI to Map Out Environmentally Friendly Flight Paths"
+    excerpt: "Google Research and AA join forces to create flight paths that produce fewer contrails, the thin white lines you often see behind planes. Early results are promising."
+    publishedDateTime: 2023-08-10T21:56:00Z
+    webUrl: "https://www.pcmag.com/news/american-airlines-uses-google-ai-to-map-out-environmentally-friendly-flight"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 62
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04AAbAeVeJinOoug3fEFQcy-1.fit_lim.size_1200x630.v1691700084.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "IBM to host Meta’s Llama 2 for enterprise AI development"
     excerpt: "IBM Corp. today said it will host Meta Platforms Inc.’s Llama 2, a 70-billion-parameter large language model, in the watsonx.ai studio enterprise artificial intelligence development platform it announced in May. Early access is now available to select clients."
     publishedDateTime: 2023-08-09T16:33:00Z

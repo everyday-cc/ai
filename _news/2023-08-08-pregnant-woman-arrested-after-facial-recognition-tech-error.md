@@ -77,19 +77,35 @@ related:
         isCached: true
   - title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
     excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
-    publishedDateTime: 2023-08-08T21:11:00Z
-    webUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
-    ampWebUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+    publishedDateTime: 2023-08-08T19:10:00Z
+    webUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+    ampWebUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 68
+      name: MassLive
+      domain: masslive.com
+    quality: 66
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
         width: 1680
         height: 971
+        isCached: true
+  - title: "Detroit woman at center of facial recognition lawsuit responds to police chief's claims"
+    excerpt: "Woodruff and her attorney filed a lawsuit against the city and a Detroit Police Department officer, arguing AI technology was the reason she was falsely identified as a carjacking suspect."
+    publishedDateTime: 2023-08-10T22:09:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
+    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 66
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/10/248a1fe4-8764-4664-87bc-b05f69597616/thumbnail/1200x630/8de1786299c722a34656a03b9d4b3fd7/woodruff-arrest.jpg?v=08aa43fa812a9e12e93282c47f58b17f"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Detroit Police Seek Change After Facial Recognition Lawsuit"
     excerpt: "The Detroit Police Department is pursuing changes to its facial recognition policy in the wake of a woman's federal lawsuit alleging she was arrested at eight months pregnant based on an unreliable hit."

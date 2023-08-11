@@ -8,7 +8,7 @@ webUrl: "https://www.firstpost.com/tech/news-analysis/big-money-for-big-tech-chi
 ampWebUrl: "https://www.firstpost.com/tech/news-analysis/big-money-for-big-tech-china-has-ordered-5-billion-dollars-worth-of-ai-chips-from-nvidia-despite-us-ban-12980592.html/amp"
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/big-money-for-big-tech-china-has-ordered-5-billion-dollars-worth-of-ai-chips-from-nvidia-despite-us-ban-12980592.html/amp"
 type: article
-quality: 63
+quality: 65
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Big-Money-For-Big-Tech-China-has-ordered-5bn-worth-of-AI-chips-from-NVIDIA-despite-US-ban.jpg"

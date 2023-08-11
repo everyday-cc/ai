@@ -40,6 +40,20 @@ related:
         width: 1199
         height: 599
         isCached: true
+  - title: "AI data exploration startup Virtualitics raises $37M for growth and innovation"
+    excerpt: "Artificial intelligence data exploration startup Virtualitics Inc. today announced that it had raised $37 million in new funding to invest in growth and innovation, including direct and ecosystem investments and investments to enhance its AI platform."
+    publishedDateTime: 2023-08-10T23:15:00Z
+    webUrl: "https://siliconangle.com/2023/08/10/ai-data-exploration-startup-virtualitics-raises-37m-growth-innovation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/virtualitics.png"
+        width: 1107
+        height: 545
+        isCached: true
   - title: "Virtualitics, a Leader in Artificial Intelligence and Data Exploration, Closes $37 Million Series C Funding Round"
     excerpt: "PASADENA, Calif., Aug. 10, 2023 /PRNewswire/ -- Virtualitics, Inc., an artificial intelligence and data exploration company, today announced that it has raised $37 million in a Series C financing round led by Smith Point Capital, LLC with participation from Citi and advisory clients of The Hillman Company, among other investors."
     publishedDateTime: 2023-08-10T13:28:00Z

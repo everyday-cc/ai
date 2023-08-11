@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/alexknapp/2023/08/09/innovationrx-70-
 webUrl: "https://www.forbes.com/sites/alexknapp/2023/08/09/innovationrx-70-of-us-adults-concerned-about-ai-in-healthcare/"
 type: article
 quality: 84
-heat: 84
+heat: 86
 published: true
 
 provider:

@@ -37,7 +37,7 @@ related:
     provider:
       name: Firstpost
       domain: firstpost.com
-    quality: 63
+    quality: 65
     images:
       - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Big-Money-For-Big-Tech-China-has-ordered-5bn-worth-of-AI-chips-from-NVIDIA-despite-US-ban.jpg"
         width: 640

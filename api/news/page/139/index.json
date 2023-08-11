@@ -2,6 +2,57 @@
   "page": 139,
   "value": [
     {
+      "path": "_news/2023-05-12-why-chatgpt-developer-openai-is-the-no-1-company-on-the-2023-cnbc-disruptor-50-list.md",
+      "title": "Why ChatGPT developer OpenAI is the No. 1 company on the 2023 CNBC Disruptor 50 list",
+      "excerpt": "ChatGPT developer OpenAI comes in at No. 1 on the 2023 CNBC Disruptor 50 list, with artificial intelligence the dominant theme in the annual ranking. \"I do think we are deep into a new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1683731024",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
+      "publishedDateTime": "2023-05-11T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-i-made-a-sexy-ai-robot-of-myself-you-can-date-me-for-1-a-minute.md",
       "title": "I made a sexy AI robot of myself — you can date me for $1 a minute",
       "excerpt": "He says they also might start training the AI to “slow down a little bit” given that the average use time is two hours — although he didn’t specify how. “I would just hope there’s robust conversations across a lot of different disciplines with ...",
@@ -1166,58 +1217,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-the-surprising-synergy-between-acupuncture-and-ai.md",
-      "title": "The Surprising Synergy Between Acupuncture and AI",
-      "excerpt": "Now that I work in machine learning, I’m often struck by the parallels between this cutting-edge technology and traditional Chinese medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/machine-learning-chinese-medicine-acupuncture-study-design/",
-      "originalUrl": "https://www.wired.com/story/machine-learning-chinese-medicine-acupuncture-study-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/645c1ec952bb92d7ad7c3041/191:100/w_1280,c_limit/ideas_acupuncture_medicine_ai_machine.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

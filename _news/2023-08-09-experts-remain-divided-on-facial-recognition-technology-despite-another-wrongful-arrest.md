@@ -2,24 +2,23 @@
 category: news
 title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
 excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
-publishedDateTime: 2023-08-08T21:11:00Z
-originalUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
-webUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
-ampWebUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
-cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+publishedDateTime: 2023-08-08T19:10:00Z
+originalUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+webUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+ampWebUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
 type: article
-quality: 68
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: al.com
-  domain: al.com
+  name: MassLive
+  domain: masslive.com
 
 topics:
   - Computer Vision
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
@@ -75,6 +74,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-08/230807-porcha-woodruff-ONETIMEUSE-mn-0935-04dfe5.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Detroit woman at center of facial recognition lawsuit responds to police chief's claims"
+    excerpt: "Woodruff and her attorney filed a lawsuit against the city and a Detroit Police Department officer, arguing AI technology was the reason she was falsely identified as a carjacking suspect."
+    publishedDateTime: 2023-08-10T22:09:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
+    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 66
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/10/248a1fe4-8764-4664-87bc-b05f69597616/thumbnail/1200x630/8de1786299c722a34656a03b9d4b3fd7/woodruff-arrest.jpg?v=08aa43fa812a9e12e93282c47f58b17f"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Pregnant woman arrested after facial recognition tech error"
     excerpt: "Porcha Woodruff is the third person wrongly arrested by Detroit police due to the AI software in as many years."
@@ -499,6 +514,6 @@ related:
         height: 697
         isCached: true
 
-secured: "LFnIYVlG2Sh0WfJKZJP3DuetfZ4tddHDCbslaTuznVy2L24aRd63RXuQv//ICRo6ok+MnuOz/y9nLEH15IRkWz3t2LObkeZDgx3Cbfcxla3fzmsaP4A2tohSx0Cd7v500AOnnNS0ws/wFJOIMpnM4y7Os0vmXqXGOz25PpZRxAXDoFR6XNqv43SZL5afJ6Kc+Gz+KUlrW8Rhdb44MuqOpF0CltOjyJfF9mIuVomqHk1MRraAz+5mtoWNuzWksaF3i4NfE/EkIOgWP/YNCEsebFLXJFfIWZ7LwWWWhVeVCtG9JUzWZ8qJqXeiruamD83xyfykz3Zgl6WdbFZG6RRWi/ZsYsYtYfVxwCsMlxhucc8=;ORL18ISaGS29c8MaltKOuQ=="
+secured: "UncsfJn1esA0aZqGeyi3ZlNg+nh9q1z0cZxCOipHq+PR4wQhFS1zST0yx1lnqM0YI5ecSdHboRlYfjmjvybpJXxqNCzzjW0sg161rZLAFj3AC0ItIWlXP9abls2tOCTjPcnxI/irRsVlMyljNw8/f/TmqUstq7Hl/crDUUISgBKdf+4bBsPhVMmsmwEm0JObeNoAOjf/6gTaIyphA0lXCgvofECeVLnQq/p+YDXbD4+jbBHUFxRUkohZSkzzeaS77+1OUiWFP9FkkKmcuwPbv7EALyPAYyGqXiXw0EuwH0TReoFYTDWv2QUqnmqQ4t9Wr+e0Tgz2Er83r1qxdsEs7MU4K3/oSxnQP0D3Nm0dL0c=;iCXFVp8Jy4JDQ2slw0s0hA=="
 ---
 

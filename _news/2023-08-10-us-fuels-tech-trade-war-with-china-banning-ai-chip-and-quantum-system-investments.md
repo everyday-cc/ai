@@ -19,6 +19,36 @@ topics:
   - AI
 
 related:
+  - title: "Biden fuels tech trade war with China, banning AI, chip, and quantum system investments"
+    excerpt: "US President Joe Biden is escalating the tech trade war with China with an executive order to restrict investment in specific sectors including semiconductors and microelectronics, quantum information technologies,"
+    publishedDateTime: 2023-08-10T16:33:00Z
+    webUrl: "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html"
+    ampWebUrl: "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 66
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/08/china_us_chip_semiconductor-100944587-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "US bans American investment in China's semiconductor, AI, and quantum computing industries"
+    excerpt: "The order authorizes the US Treasury to limit or prohibit US investment in three areas of Chinese development: semiconductors, artificial intelligence, and quantum computing. The restrictions"
+    publishedDateTime: 2023-08-10T15:32:00Z
+    webUrl: "https://www.techspot.com/news/99740-us-bans-american-investment-china-semiconductor-ai-quantum.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 59
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-25-image-6.jpg"
+        width: 1021
+        height: 765
+        isCached: true
   - title: "Biden signs executive order banning investment in Chinese AI, other tech"
     excerpt: "President Joe Biden signed an executive order Wednesday banning U.S. investments in artificial intelligence and other technologies that come from China."
     publishedDateTime: 2023-08-09T23:28:00Z
@@ -34,20 +64,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/6541691620107/2023/1/253c6e9417c032a9382c422147f5a677/v1.5/Biden-signs-executive-order-banning-investment-in-Chinese-AI-other-tech.jpg"
         width: 1200
         height: 798
-        isCached: true
-  - title: "Chinese AI startup Baichuan rolls out third LLM in four months"
-    excerpt: "On Tuesday, four-month-old AI startup Baichuan Intelligent Technology unveiled its first closed-source model equipped with 53 billion parameters."
-    publishedDateTime: 2023-08-09T07:05:00Z
-    webUrl: "https://technode.com/2023/08/09/chinese-ai-startup-baichuan-rolls-out-third-llm-in-four-months/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/08/截屏2023-08-09-上午11.06.06.png?fit=2672%2C1506&ssl=1"
-        width: 2672
-        height: 1506
         isCached: true
   - title: "Biden issues an executive order restricting U.S. investments in Chinese technology"
     excerpt: "President Joe Biden signed an executive order Wednesday to block and regulate high-tech U.S.-based investments going toward China -- a move the administration said was targeted but it also reflected an intensifying competition between the world's two biggest powers."
