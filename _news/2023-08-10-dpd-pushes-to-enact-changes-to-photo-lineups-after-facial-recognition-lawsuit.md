@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Black woman matched by facial recognition alleges police misconduct in lawsuit"
+    excerpt: "Another person in the United States is alleging a wrongful arrest based on a false match by facial recognition software used by police."
+    publishedDateTime: 2023-08-07T15:18:00Z
+    webUrl: "https://www.biometricupdate.com/202308/black-woman-matched-by-facial-recognition-alleges-police-misconduct-in-lawsuit"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/07111707/black-woman-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+
 secured: "kAXD50NG6cs+tA3qFDMKfR1Z0lJC8OQyO/U23LDQ/rBE3NbKL2qd8kc7kCff5N30iHDMBqK4v6WTE6VS/K05rHDovQiCgPOydhc7SoIJpkUyAQElHIZLgUmkXcgrVGSEMUztLvxee1QH5HrhEjUR9JL4AvhMENI5gQSnPOJXFCAYHG1ptrpsP9CJqGZI0GjYLS0mSFaCl60y05d0MaQwq38YOeHhQqurjULGjSzC2/290Psh2MkldcXzD0oOeQMvnB5lBHhZ75bduu08WqTo6N0OELxkgHO6wGgMrvFPiS44skrP1dVrJT0VsqAnKrilnXGuNKaNVjriqgKBl5DNaSfFtN9ai1eRpurrEDHaqvxdI7BhVMaB1VsI4LC7kRDct1kBAFUH6fMZEkJ98qIJh6R4nr2YnvBO5BsSpl1pRxQGdIEgoUeDw5xUDJL5/WvtjOwUSQtL8R3miWVZQGiB9RQsDDuSDnnGvX2wb+RmmS/t2Mf4fBZuaq7EqTxVP5JiWtfY44V5FpQ76vYbLpYnxA==;amRviE+Ga33FSPUZD12QtQ=="
 ---
 

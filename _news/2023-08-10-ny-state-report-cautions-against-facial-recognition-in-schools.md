@@ -19,6 +19,31 @@ topics:
   - AI
 
 related:
+  - title: "Advocacy group raises privacy concerns as facial recognition technology booms"
+    excerpt: "Safety, efficiency and profitability are touted as the key drivers behind the growing popularity of digital ID technologies like facial recognition, but they present important privacy risks, Calgary-based legal advocacy organization Justice Centre for Constitutional Freedoms (JCCF) reveals in a new report."
+    publishedDateTime: 2023-08-11T17:13:00Z
+    webUrl: "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542"
+    ampWebUrl: "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 71
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/08/GettyImages-1311613664.jpg"
+        width: 724
+        height: 483
+        isCached: true
+  - title: "Innocent pregnant woman jailed amid faulty facial recognition trend"
+    excerpt: "Woodruff's arrest, and the recent trend of false arrests, has sparked a new round in an ongoing debate about the reliability of facial recognition technology in criminal investigations. Critics say the trend highlights the weaknesses of facial recognition technology and the risks it poses to innocent people."
+    publishedDateTime: 2023-08-07T18:39:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
   - title: "State report identifies risks in schools' use of facial recognition technology"
     excerpt: "The New York State Office of Information Technology Services (ITS) has determined that, when it comes to the use of facial recognition technology for security in schools, the “risks may"
     publishedDateTime: 2023-08-09T00:45:00Z

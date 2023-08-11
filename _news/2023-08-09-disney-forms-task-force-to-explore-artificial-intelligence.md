@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Disney exploring how artificial intelligence could help reduce costs"
+    excerpt: "Amidst a strike by Hollywood writers and actors who are battling to limit the industry's use of artificial intelligence (AI), Walt Disney has created a task force to research the technology and how it can be applied across its entire business."
+    publishedDateTime: 2023-08-11T17:21:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273929027/disney-exploring-how-artificial-intelligence-could-help-reduce-costs"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1691638537682.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Disney sets up task force to explore AI applications"
     excerpt: "Disney has established a task force to explore artificial intelligence (AI) and its potential applications throughout the company"
     publishedDateTime: 2023-08-08T11:50:00Z

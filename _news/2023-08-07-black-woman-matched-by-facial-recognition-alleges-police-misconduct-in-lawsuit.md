@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Innocent pregnant woman jailed amid faulty facial recognition trend"
-    excerpt: "Woodruff's arrest, and the recent trend of false arrests, has sparked a new round in an ongoing debate about the reliability of facial recognition technology in criminal investigations. Critics say the trend highlights the weaknesses of facial recognition technology and the risks it poses to innocent people."
-    publishedDateTime: 2023-08-07T18:39:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/"
+  - title: "DPD pushes to enact changes to photo lineups after facial recognition lawsuit"
+    excerpt: "DPD Chief James White spoke Wednesday about a lawsuit filed last week in response to the department’s use of facial recognition technology that led to a Detroit woman being falsely arrested."
+    publishedDateTime: 2023-08-09T21:35:00Z
+    webUrl: "https://www.wxyz.com/news/dpd-pushes-to-enact-changes-to-photo-lineups-after-facial-recognition-lawsuit"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 64
+      name: WXYZ
+      domain: wxyz.com
+    quality: 36
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c4d91d6/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2Fdf3%2Fbe88c4e651db4a7dbe102614d7272948%2Fdf361fcd68a54b8da81329dfc436b5ec%2Fposter_0a47622d89c94d479fafd0c213d1a00f.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "y7eVyX+CLN64tGnE5UZ1ZP7S/RqstgOGfB0F91YpmZ5obIb/A+kDNQOU7w6In3IPM2fdJIhQShDOpm4RijR1tdn9ecDbKxdPOzRjPnMB/dMko+EEOTWscELlzRj7uCcsVjNhR4o7o3/elBIVDtVPwhSi1lXz41GsrbF8UbRHahI1Ux76aAmSlycfZNAvO2kmAiXbOc+E2zZJgWuZWEcHvfoPRRWRJxCmDCJ4SfS5NMslnQ/ha71kX1C1c07CQpy3r43pq9kA59+ihk32nT/9u7haNSe1cUQiB97Cw9ZWfN/A3PRbj8NNGh8Eg1UYPS1DkXOkVwEy8DPVJA7yOD+F7rJ5xZTr8NqIsV/MUzAt1orLI5/aYk+/mPHEZVfc+5ejky40dLFf06hsrrfrCQ860wT0r2LJ8MwPWLGVAnwsgtytM3UO1b9BXchDFe1mCI5jKrp1m4C3Iaax4NkDXgLugL/mcxGcJQ1w2efcbFvNghP6+MDuqBOA6UsclJtNkKustGr5UkHVk1AxTEBkHFsF+g==;+aMqliX9rrnbgLu+B/sVMw=="
 ---

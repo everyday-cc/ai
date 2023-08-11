@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "I'm an AI-prompt engineer. Here are 3 ways to use ChatGPT to get the best results."
+    excerpt: "I used to be a freelance writer. Now I'm a prompt engineer helping optimize generative-AI tech. Here's what I've learned."
+    publishedDateTime: 2023-08-11T15:50:00Z
+    webUrl: "https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://i.insider.com/64147b500308e00018553689?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "OpenAI just admitted it has a bot that crawls the web to collect AI training data. If you don't block GPTbot, that's self-sabotage."
     excerpt: "AI scraping bots are threatening the web's grand bargain. OpenAI's GPTbot crawler is being blocked by online content creators."
     publishedDateTime: 2023-08-08T21:10:00Z

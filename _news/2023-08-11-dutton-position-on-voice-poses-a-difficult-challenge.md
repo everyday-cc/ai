@@ -35,22 +35,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Australia news live: former Nationals MP says Coalition’s opposition to voice is short-sighted and ‘doesn’t make sense’"
-    excerpt: "Andrew Gee says Indigenous voice to parliament referendum ‘is being weaponised politically’. Follow the day’s news live Australia the only former colony without constitutional recognition for first peoples, PM says Back to the prime minister’s ..."
-    publishedDateTime: 2023-08-06T23:20:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/aug/07/australia-politics-live-indigenous-voice-to-parliament-question-time-anthony-albanese-peter-dutton-sofronoff-lehrmann-act-andrew-barr?topics=ORG%3ALabor"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/aug/07/australia-politics-live-indigenous-voice-to-parliament-question-time-anthony-albanese-peter-dutton-sofronoff-lehrmann-act-andrew-barr"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/aug/07/australia-politics-live-indigenous-voice-to-parliament-question-time-anthony-albanese-peter-dutton-sofronoff-lehrmann-act-andrew-barr"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 20
-    images:
-      - url: "https://i.guim.co.uk/img/media/a5ac40700a2390f42da1e623f587923228f54bf7/0_111_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=137614f42102224dcb51b18249fbe944"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Indigenous voice to parliament: Peter Dutton says his government would ‘fight’ for constitutional recognition"
     excerpt: "Peter Dutton has committed the Coalition to “fighting for” constitutional recognition of Indigenous Australians, as he dismissed Anthony Albanese’s threat of Australia losing a once-in-a-generation chance for recognition as “arrogant and dismissive”."
     publishedDateTime: 2023-08-10T16:33:00Z

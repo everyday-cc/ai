@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip
 webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-in-august-1032530506"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
         width: 600
         height: 338
+        isCached: true
+  - title: "Artificial Intelligence Stocks: The 10 Best AI Companies"
+    excerpt: "Virtually every industry is being disrupted by artificial intelligence, automation and robotics. In recent months, the world has gotten a firsthand look at the remarkable advances in AI"
+    publishedDateTime: 2023-08-07T12:00:00Z
+    webUrl: "https://wtop.com/news/2023/08/artificial-intelligence-stocks-the-10-best-ai-companies-17/"
+    type: article
+    provider:
+      name: WTOP News
+      domain: wtop.com
+    quality: 54
+    images:
+      - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "Find the Next Nvidia: 3 Must-Watch AI Stocks"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) shares took many investors by surprise in 2023."

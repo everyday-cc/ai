@@ -89,6 +89,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Revolutionizing Health Care: Harnessing Artificial Intelligence for Better Patient Care"
+    excerpt: "CMU's Rema Padman discusses the integration of artificial intelligence (AI) — one of the most promising advancements in the health care sector."
+    publishedDateTime: 2023-08-09T00:00:00Z
+    webUrl: "https://www.cmu.edu/news/stories/archives/2023/august/revolutionizing-health-care-harnessing-artificial-intelligence-for-better-patient-care"
+    type: article
+    provider:
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 31
+    images:
+      - url: "https://www.cmu.edu/news/sites/default/files/2023-08/padman-ai-conference-media.jpg"
+        width: 600
+        height: 340
+        isCached: true
   - title: "Vital Releases Doctor-to-Patient Translator That Uses AI and LLMs to Transform Medical Jargon Into Simple, Accurate Content for Patients"
     excerpt: "Vital, a leading artificial intelligence (AI)-driven digital health company, today announced the launch of its AI-powered Doctor-to-Patient Translator, designed to transform highly technical medical terminology into plain language that any patient can understand."
     publishedDateTime: 2023-08-08T19:36:00Z

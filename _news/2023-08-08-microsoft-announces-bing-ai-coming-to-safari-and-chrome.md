@@ -59,6 +59,22 @@ related:
         width: 640
         height: 317
         isCached: true
+  - title: "Hacking AI? Here are 4 common attacks on AI, according to Google's red team"
+    excerpt: "Some of the biggest threats to machine learning (ML) systems, explains Google's red team leader, are adversarial attacks, data poisoning, prompt injection, and backdoor attacks. These ML systems include those built on large language models, like ChatGPT, Google Bard, and Bing AI."
+    publishedDateTime: 2023-08-11T16:29:00Z
+    webUrl: "https://www.zdnet.com/article/hacking-ai-how-googles-ai-red-team-is-fighting-security-attacks/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/hacking-ai-how-googles-ai-red-team-is-fighting-security-attacks/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hacking-ai-how-googles-ai-red-team-is-fighting-security-attacks/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/c1701c12d959513dad7aa50ee816b3fe07dc98e4/2023/08/11/ec9f7b5c-39f1-41d1-9286-1ed71f370959/umbrella.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Examining The Future Of Marketing In Light Of AI Concerns"
     excerpt: "The more strategic, less brand-aligned functions scored the highest in terms of how defensible they are from being replaced by automation."
     publishedDateTime: 2023-08-09T13:16:00Z

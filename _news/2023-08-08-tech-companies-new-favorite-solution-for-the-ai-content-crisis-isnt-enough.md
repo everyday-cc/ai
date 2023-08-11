@@ -7,7 +7,7 @@ originalUrl: "https://www.scientificamerican.com/article/tech-companies-new-favo
 webUrl: "https://www.scientificamerican.com/article/tech-companies-new-favorite-solution-for-the-ai-content-crisis-isnt-enough/"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Tech companies criticise health AI regulations"
+    excerpt: "Efforts in the USA to strengthen oversight of AI in health are being resisted by industry. Paul Webster reports."
+    publishedDateTime: 2023-08-11T16:50:00Z
+    webUrl: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01667-7/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 17
 
 secured: "DGgmo/2Fhf62aSs2Ic9rL1w8Up2UndAoygxCFbI7ptx2QQy0RIHrVhzY6Jx9N6r9bAA5wrIVfWlCnN3ou6R+grhF/osLD1e3ETTFtt16oZP5FDNkrLIqiPnX3F9P1o1JTBraL0uyycj/PfSdGGL8SfIhuQYPfyMzebMugO5bDDo8suWPnAs/CRbWKQr4hOdAK2bykYBbCJRwGoRlDdkxvGGObrJoU9pD+X/ghiDeMzSgW3hpb5uaK22FqEIm4fVxBzj36bGxVdm+dGgL3YDGB6ynBCAzZ7cf5N8aTxBYXHveEHhfl/dh9oKwx/+56EfaK4i88l2Q6cvvb610yaJ2aW1fEZ+m60T3PUGSQeY81flsjj1WnaelFLIrOhyuyHs++K1UscHoEflwnKSLk+A4JyVAgQGgDGhmlhPMe0yo9+YzUWiMtBktOMyxfs/lXd2sNjc4kB1U0z8GZIf0J0UiOFCVFcmiaWube/MknGuaMNGac7ObDP/XN99DTcAWqRC0ANulH03PUJpcRkO3jAZOyA==;GCsO6cJ2vYllLcr4DUlWIQ=="
 ---

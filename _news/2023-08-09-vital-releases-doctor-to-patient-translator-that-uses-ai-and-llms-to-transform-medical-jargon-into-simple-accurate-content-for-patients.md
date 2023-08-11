@@ -97,6 +97,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Revolutionizing Health Care: Harnessing Artificial Intelligence for Better Patient Care"
+    excerpt: "CMU's Rema Padman discusses the integration of artificial intelligence (AI) — one of the most promising advancements in the health care sector."
+    publishedDateTime: 2023-08-09T00:00:00Z
+    webUrl: "https://www.cmu.edu/news/stories/archives/2023/august/revolutionizing-health-care-harnessing-artificial-intelligence-for-better-patient-care"
+    type: article
+    provider:
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 31
+    images:
+      - url: "https://www.cmu.edu/news/sites/default/files/2023-08/padman-ai-conference-media.jpg"
+        width: 600
+        height: 340
+        isCached: true
 
 secured: "yjmP93FH5czv/ZYqAnf/ohm/bytctfzjc3NgbymFAEm8p5XNomkE9oSMF4f7Bys3KmB24GCGX1T5548qhm+wJ7ql5iqctXCD4ZMFdneOUG8lk7r5zEa5ilnWgsaABsWs8JlVXOFsW4qP3iZzfr2sfmtSDnxHnJW8adJDmS0hDEynE5gsiNQYLKZdc3s3NTn+BlLvZK8kltWp455vGkyIVRf1oKFm0GN0JhJPlzmIU9VVGWBW2Tkb6hqHiK1jG6nJYKXajINOOGofykUbo2T4aui+eqa/UTBuOkpSn6Km3cAQS7a/1MWiYHMm6t4eQeZhJPWr/9AN50y5hItS4EVmN+x0vUpLYncM2mLkcPAxDbA=;er1OWtpUL9fcbpo8bm92Ew=="
 ---

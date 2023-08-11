@@ -102,6 +102,20 @@ related:
         width: 300
         height: 235
         isCached: true
+  - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
+    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat 70 billion"
+    publishedDateTime: 2023-08-09T12:17:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59802679-ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 52
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform"
     excerpt: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform - As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to"
     publishedDateTime: 2023-08-10T11:21:00Z
@@ -139,15 +153,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 33
-  - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
-    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat"
-    publishedDateTime: 2023-08-09T12:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-301896401.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 32
 
 secured: "fvJU8gTM+PlTsQGA/BHzyz4Stt3ujjhJ5Ya9GWjnIBTpBX36jKtslHpunrb97IrLeSLi6p4AT9Btwq5uPtxir+FIQ88zDJeY76UXhzzHoH0AVOynZsWSeKDojWdBsZNoGfeRwI54gyC+U2mn7BOe78gyxWlO0Xl4fiYvV59LC9MiHvCnPpcw5cW+xwnqrHdNVo0Jia7jP5EIaH8BOoSZIcbDk1Is2wZIcDk2H9qEE1YFza4TZVdC+Tp0mOqaqG1B63o9AHjrQvzvaWDAja4kl59QfU2gZiCosJEHD93MU+LVHXFNnX5JR4CxWxyzDGqtFSe9XsR8KgugitktIf7uZUHkhaBWH35K7gi3cSlV37fr9NEZdjizrvIcmwmUIBTPqgegE2FUUzm+ZO4Wm1y+0oGQ9/UqC00nInUXyDeTW4+RGbFZFn8Y0eUHE6E8UUSzu2hexrQJwwUSfHZWUkt6F32WBRFIAFMsot/DTa6Ysl6fU9nOsNBb61NEjh32A4H1qp2/eaf3z/eNBQI1XlYyrg==;dpLTnk4Krs6f6QIbvrfm3w=="
 ---

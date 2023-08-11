@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "California Okays Driverless Taxi Expansion for San Francisco"
+    excerpt: "The state's green light, on a 3-1 vote by the California Public Utilities Commission, signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality."
+    publishedDateTime: 2023-08-11T16:09:00Z
+    webUrl: "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco"
+    ampWebUrl: "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2a5480d/2147483647/strip/true/crop/662x348+0+0/resize/662x348!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbb%2Fd0%2F80318d734f7fa9a89f9001e9f5c0%2Fzscaler-public-sector-logo-r1-rgb-31aug21-vertical-pms-blue-002.png"
+        width: 662
+        height: 348
+        isCached: true
   - title: "San Francisco Balks at Expanding Driverless Car Services on City’s Roads"
     excerpt: "Local officials are worried that state regulators are too eager about a plan by the companies Cruise and Waymo to offer round-the-clock driverless taxi services."
     publishedDateTime: 2023-08-09T18:31:00Z
@@ -164,6 +180,6 @@ related:
       domain: capradio.org
     quality: 0
 
-secured: "AEOxlZg5/ti0na7Fkx0EW+3LniSibrWiEZOQWL9Qak7HZOEzeMVkEDEGjPanT9+mRFBOMwsaO4DWIA10qd441kGQ7lXMSi45RsGY0wzmYcala6gR4a7blllWV5iIwtYUL3QyKbhgfMjKXPxTFGvmxn9J440lUkMJS6EQI7Y5w1LHOkxT/rez3UgtY/MRC1fo8UvIjVwdX8IAVape9cstVtS+PXrJTkFitsRdhqRnbGXX96jjihQ7MTAwxJB7eCpj+nsa6ICt3zKlBV9fXgiqzMujrUsmLLnyn8jXlN1PDXbnT9S3tkb0uTqTIHgjsynH3VB3k7SQbnCmsP5JqHegGijC/gxU0ssV3o6qN0ed0lc=;2C/OFUVut1R1wiH8OdPyZw=="
+secured: "RKe8gtaxCV0LL9izo2Xc3yIob+48C+fYdINBqDdmRUsGc0DTrfKPqyGw/+qzcSli82mrsr2k/pwm9JDmQyW0hbLJiZulzONTHaRL4KR5Xn0HW4mKxhRYAs3w8UJlmpHD5IQwTWoWoA7/i6ridu8EdIMXoX9Qb8P94jtky9y/+frX2A6Zf4Gv2ZK8gBHaQXYHHCeiq/n+LHEOaw5yFNATdRzKDKb4PNFC3FKsYstaF85KNpFWTyNMDfVBcVUKmkbeepGhn9qEmf4C8KTnSbkW9tKXr/rptHV1XwiFj+sIpeE/pZGH8Ol/8NsgrrQlqhhy3jSmhJuNXXgFaGAGdqe9Ni10tYDFYwHpIOJc4gUcM63xaJEBOmkOjBzvyo1jWzoMHgq8VpaECrKtCb6tuqSP1ymHw51Ii7RAUZ8gprLKpaD6ZRHoukt1sEnPryUhm4pxAgfUqQ/IoJr05GeeY+GZkhtpMRn4276RNKJ9qf2RelDlV/RMtqLjKsH5g+mh1sy6WdYPOgzetDZ2ZwAWfmBBUQ==;AzlTGQFvyX7h1dTC6T066w=="
 ---
 

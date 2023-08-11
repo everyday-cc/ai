@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "California Okays Driverless Taxi Expansion for San Francisco"
+    excerpt: "The state's green light, on a 3-1 vote by the California Public Utilities Commission, signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality."
+    publishedDateTime: 2023-08-11T16:09:00Z
+    webUrl: "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco"
+    ampWebUrl: "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2a5480d/2147483647/strip/true/crop/662x348+0+0/resize/662x348!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbb%2Fd0%2F80318d734f7fa9a89f9001e9f5c0%2Fzscaler-public-sector-logo-r1-rgb-31aug21-vertical-pms-blue-002.png"
+        width: 662
+        height: 348
+        isCached: true
   - title: "San Francisco Balks at Expanding Driverless Car Services on City’s Roads"
     excerpt: "Local officials are worried that state regulators are too eager about a plan by the companies Cruise and Waymo to offer round-the-clock driverless taxi services."
     publishedDateTime: 2023-08-09T18:31:00Z

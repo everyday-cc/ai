@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/08/09/technology/san-francisco-driver
 webUrl: "https://www.nytimes.com/2023/08/09/technology/san-francisco-driverless-cars.html"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "California Okays Driverless Taxi Expansion for San Francisco"
+    excerpt: "The state's green light, on a 3-1 vote by the California Public Utilities Commission, signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality."
+    publishedDateTime: 2023-08-11T16:09:00Z
+    webUrl: "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco"
+    ampWebUrl: "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2a5480d/2147483647/strip/true/crop/662x348+0+0/resize/662x348!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbb%2Fd0%2F80318d734f7fa9a89f9001e9f5c0%2Fzscaler-public-sector-logo-r1-rgb-31aug21-vertical-pms-blue-002.png"
+        width: 662
+        height: 348
+        isCached: true
   - title: "Cruise, Waymo given green light for robo-taxis across San Francisco"
     excerpt: "Waymo, Cruise self-driving cars can charge for taxi service. Companies have promised thousands of additional cars on San Francisco streets."
     publishedDateTime: 2023-08-11T01:19:00Z

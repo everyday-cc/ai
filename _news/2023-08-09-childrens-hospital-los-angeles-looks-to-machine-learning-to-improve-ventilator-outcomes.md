@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/patient-safety-outcomes/chil
 webUrl: "https://www.beckershospitalreview.com/patient-safety-outcomes/childrens-hospital-los-angeles-looks-to-machine-learning-to-improve-ventilator-outcomes.html"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Using machine learning to make ventilator support safer for children"
-    excerpt: "Children’s Hospital Los Angeles researchers use machine learning to better mesh ventilator rhythms with patient breathing in the pediatric intensive care unit."
-    publishedDateTime: 2023-08-07T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/997915"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/46b661da-ffeb-4673-bfc4-53cb25ae3403/Rendition/low-res/Content/Public"
-        width: 467
-        height: 700
-        isCached: true
 
 secured: "fVz8QnH3yKVVLx6mn7ti97lKwKQhH6y+XNuISJv5z8xIzMh2YgRDexZmTj3s21UWhtWxeWVX+U1XhYIH9HFBbAxkP8gZCkBPqLLF3qxpnUiUjk5ukt59knbfJZrJmz/ReXrjXDAkvD1brYJKRwiqI2GZozXcNTSeftG9n7TuvRM5KMMkx4e4DXWotAgHa5j6GI3nvgj7TTWNYAe9I5sv2STvEGyGH4nrIVuhF80zalcj9IDqyof/a7t4edmm7wgGjQhejtMj/6RcoYKPajc5+QpoTBabsn6ADPZj3HjbMY8a0VNsVUK5nETl4NH4kKwiDNCPMkOzfIyl1QVBzDgAoL3wMOjjMMwvQhsv1bxAb0w=;XXThYu3PRkyqC8qcUCkw2g=="
 ---

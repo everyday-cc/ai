@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/61ddecd6cca3ad80acd3caeb/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "I'm an AI-prompt engineer. Here are 3 ways to use ChatGPT to get the best results."
+    excerpt: "I used to be a freelance writer. Now I'm a prompt engineer helping optimize generative-AI tech. Here's what I've learned."
+    publishedDateTime: 2023-08-11T15:50:00Z
+    webUrl: "https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://i.insider.com/64147b500308e00018553689?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Upgrade your ChatGPT skills with this $20 training: Use AI to work smarter, not harder"
     excerpt: "This online course load contains dozens of lessons breaking down beginner and advanced skills to help you use ChatGPT effectively. If you are new to the AI chatbot or want to make sure you didn't miss any tips and tricks when you first jumped in months ago,"
