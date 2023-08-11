@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-expanding-bing
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/"
 type: article
 quality: 104
-heat: 394
+heat: 404
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://www.cnet.com/a/img/resize/42190d38ade8b2297bf2f0e63f4439bee821301e/hub/2023/02/10/62e99904-1127-458c-8fdf-cf9018b816b7/20230207-bing-logo-01.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft Partners With Aptos Labs For Web3 and AI"
+    excerpt: "On Wednesday, Microsoft, the American tech giant, announced it was partnering with layer-1 blockchain Aptos Labs to collaborate on AI and web3. The latter will be using Microsoft Azure OpenAI Service to accelerate global web3 adoption. \"Artificial ..."
+    publishedDateTime: 2023-08-11T04:03:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/microsoft-partners-with-aptos-for-web3-and-ai/457294"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1691725952-Hithere3.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "HCLSoftware teams up with Microsoft to drive AI-powered offerings"
     excerpt: "HCLSoftware has announced a collaboration with Microsoft to integrate Microsoft's Azure OpenAI Service into its software products, according to a release on Monday."

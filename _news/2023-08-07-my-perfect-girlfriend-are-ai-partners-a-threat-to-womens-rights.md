@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Are AI partners a threat to women's rights?"
+    excerpt: "Chatbot apps like Replika, Character.AI and Soulmate are part of the fast-growing generative AI companion market, where users customise everything about their virtual partners, from appearance and personality to sexual desires."
+    publishedDateTime: 2023-08-07T05:16:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/are-ai-partners-a-threat-to-womens-rights/articleshow/102489423.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/are-ai-partners-a-threat-to-womens-rights/amp_articleshow/102489423.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/are-ai-partners-a-threat-to-womens-rights/amp_articleshow/102489423.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62088,msid-102489662/companion-chatbots.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "Lu3EfxVXn9OvZ4JgNcEeZCW/zKe4VHXeuPHquNIRoTEq3SulnbhGkBce38eY5M3PapAgyXyOES56Zhxtt9Jfulj4S6Ib5Z17hdeChQde8SKxpDBBqDWElipX4/djeEo9MRNaC/yW+XoxRjnMOFCZ+Y+NBsfQRih+204RbSeo4xmDz7XnCuB1c7Q77ihvC9jsdg0gg+bzzfi1+sVwXkFbRiwTZtlZVoFqjflPFsdwFDc/8Qk6HGf7JyXs+AIgh2WnwNVfzU/LBldRV9JieLsWmc41uMzoYXlCoyHzdXnRyDgKIdu8hruMBY0BOpnZqLHJCeUtpKgsMluz4ECk0tdjSAAet9f0w36lN/kBARJBJpo=;ynfy6vssL3SLyZswxphmhw=="
 ---

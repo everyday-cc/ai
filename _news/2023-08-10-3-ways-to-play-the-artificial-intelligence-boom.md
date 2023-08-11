@@ -64,6 +64,15 @@ related:
         width: 1639
         height: 886
         isCached: true
+  - title: "Ai And The Productivity Imperative"
+    excerpt: "MILAN - Around the world, supply is struggling to keep up with demand. Inflation remains stubbornly high, despite aggressive interest-rate hikes. Th"
+    publishedDateTime: 2023-08-11T04:22:00Z
+    webUrl: "https://menafn.com/1106833377/Ai-And-The-Productivity-Imperative"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
   - title: "Generative artificial intelligence in the hospitality and tourism industry"
     excerpt: "Between the boundless potential and the grim peril of artificial intelligence is an ocean of possibilities so vast that its enormity alone can douse research."
     publishedDateTime: 2023-08-10T13:01:00Z

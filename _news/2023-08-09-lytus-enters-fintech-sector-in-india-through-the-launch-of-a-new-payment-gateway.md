@@ -87,15 +87,6 @@ related:
       name: manilastandard
       domain: manilastandard.net
     quality: 1
-  - title: "Fintech firm Enkash expects business to grow by 36% to Rs 250 crore this fiscal"
-    excerpt: "Ascent Capital-backed Enkash founder Hemant Vishnoi said the company focuses on spends management of small and medium enterprises that have over Rs 10 crore annual turnover and expects the customer base to double in the current fiscal."
-    publishedDateTime: 2023-08-06T12:57:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/fintech-firm-enkash-expects-business-to-grow-by-36-to-rs-250-crore-this-fiscal/articleshow/102476139.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 0
   - title: "Women in fintech hackthon: participants introduced to financial inclusion best practices"
     excerpt: "On Day One of the 2023 Women in FinTech hackathon, the over 100 innovators from Kenya and Uganda were able to work on their problem statements and business cases."
     publishedDateTime: 2023-08-11T03:32:00Z

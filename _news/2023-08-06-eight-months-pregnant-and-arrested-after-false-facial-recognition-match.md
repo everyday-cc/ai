@@ -73,15 +73,15 @@ related:
         isCached: true
   - title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
     excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
-    publishedDateTime: 2023-08-08T21:11:00Z
-    webUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
-    ampWebUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+    publishedDateTime: 2023-08-08T19:10:00Z
+    webUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+    ampWebUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 68
+      name: MassLive
+      domain: masslive.com
+    quality: 66
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
         width: 1680
@@ -160,6 +160,36 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 49
+  - title: "Facial recognition software blasted by DPD board of commissioners after recent false arrest"
+    excerpt: "A vote to ban facial recognition for the Detroit police failed tonight, which would have kept the department from using it for a year."
+    publishedDateTime: 2023-08-11T03:15:00Z
+    webUrl: "https://www.fox2detroit.com/news/facial-recognition-software-blasted-by-dpd-board-of-commissioners-after-recent-false-arrest"
+    ampWebUrl: "https://www.fox2detroit.com/news/facial-recognition-software-blasted-by-dpd-board-of-commissioners-after-recent-false-arrest.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/facial-recognition-software-blasted-by-dpd-board-of-commissioners-after-recent-false-arrest.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 49
+    images:
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2023/08/932/470/facial-recognition-arrest.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Facial recognition technology in Detroit to remain in use after commissioners vote"
+    excerpt: "Detroit police will continue to use facial recognition technology after a close vote by the Board of Police Commissioners."
+    publishedDateTime: 2023-08-11T02:45:00Z
+    webUrl: "https://www.wxyz.com/news/facial-recognition-technology-in-detroit-to-remain-in-use-after-commissioners-vote"
+    type: article
+    provider:
+      name: WXYZ
+      domain: wxyz.com
+    quality: 48
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fd525b6/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2F62a%2Fbe88c4e651db4a7dbe102614d7272948%2F62a754a5e1ed4166a8525540c406810f%2Fposter_120b7d8e5dfa451b93e814f3fd64b110.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ACLU of Michigan calls on Detroit police to stop use of facial recognition technology after woman claims she was falsely accused of crime"
     excerpt: "The latest is a Detroit woman named Porcha Woodruff, who says she was falsely arrested after the technology connected her to a carjacking case."
     publishedDateTime: 2023-08-08T22:15:00Z

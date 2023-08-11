@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-floats-prizes-ai-tools-secure
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-floats-prizes-ai-tools-secure-computer-code.amp"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

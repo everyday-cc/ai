@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Partners With Aptos Labs For Web3 and AI"
+    excerpt: "On Wednesday, Microsoft, the American tech giant, announced it was partnering with layer-1 blockchain Aptos Labs to collaborate on AI and web3. The latter will be using Microsoft Azure OpenAI Service to accelerate global web3 adoption. \"Artificial ..."
+    publishedDateTime: 2023-08-11T04:03:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/microsoft-partners-with-aptos-for-web3-and-ai/457294"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1691725952-Hithere3.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Microsoft Shares Guidance and Resources for AI Red Teams"
     excerpt: "Microsoft has shared guidance and resources from its AI Red Team program to help organizations and individuals with AI security."
     publishedDateTime: 2023-08-08T09:04:00Z

@@ -32,15 +32,6 @@ related:
       name: Google
       domain: blog.google
     quality: 69
-  - title: "10 Ways Artificial Intelligence is Already Having a Huge Impact on Business"
-    excerpt: "The realm of Artificial Intelligence (AI) is effecting a paradigm shift across multiple business sectors since OpenAI released its Large Language Model (or LLM) to the world. A close examination reveals the multifaceted manner in which AI is refashioning business in many areas."
-    publishedDateTime: 2023-08-06T12:32:00Z
-    webUrl: "https://techbullion.com/10-ways-artificial-intelligence-is-already-having-a-huge-impact-on-business/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 17
 
 secured: "YxYAC2Cvv2bybTphITtCaccOf0283yN6CmVOwHYJ+DYbkzSBSyusYkEKpRb5oLQtX7PFlWSvLpiajW0fpHRF8gT0jA/0rdX40YYZRqFDRGw/UICpEoD8NeXKKGizq1QiegkbkV8b8X7YdZfiy6GBn3W//ad7wifICXCms/92dUFgIh3NasbibLa9pt+BbIHNyxLd/txvjJKc/rcJbBGG0Sui9lgkCoNLTrBG5e8wZc3gcuS0WSCd0yDJyyswWAfCTMBBO2JcPxJKsq8dmrNl3N7F8f5WrM2YbdJDMn9J3DYcEHlLKnVRckR9SqMuuAo8wCXGhw+nK0+h4810jtNSv6/fxCzAStRNuWrkFiU0zanlMyNY5+lIa7WA/vQ1d1BbjQpeHTc1tREfigLEzEW39I1VmPYqTBxWcPdHTiDv+OvHjIcDZkCvdCjOVUSTSJY1nXoqkeEskpuVOtQoV2cq9V/X0mIqVUwR7EOjxf3A7ZeU4supN7L0O+SseQNt2aMskVN8hRIljgnHPx2LdBhAKg==;zUC6ZJKPxLzXOKo9AzQOmA=="
 ---

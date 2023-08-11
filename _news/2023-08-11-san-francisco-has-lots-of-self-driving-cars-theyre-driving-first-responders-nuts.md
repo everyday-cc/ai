@@ -2,17 +2,17 @@
 category: news
 title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
 excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
-publishedDateTime: 2023-08-11T01:44:00Z
-originalUrl: "https://www.wuwm.com/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
-webUrl: "https://www.wuwm.com/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
+publishedDateTime: 2023-08-11T00:45:00Z
+originalUrl: "https://wusfnews.wusf.usf.edu/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
+webUrl: "https://wusfnews.wusf.usf.edu/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: WUWM
-  domain: wuwm.com
+  name: wusfnews.wusf.usf.edu
+  domain: usf.edu
 
 topics:
   - AI in Autos
@@ -56,6 +56,20 @@ related:
       - url: "https://uploads.dailydot.com/2023/08/stuck-on-self-driving-car.jpg?auto=compress&fm=pjpg"
         width: 2000
         height: 1000
+        isCached: true
+  - title: "The double-edged nature of parenting, mental health and artificial intelligence"
+    excerpt: "There are two sides to every coin — and sometimes our strengths become weaknesses. This hour, TED speakers explore the mixed blessings and volatile flip sides of mental health, parenting and AI. Guests include developmental psychologist Yuko Munakata ..."
+    publishedDateTime: 2023-08-11T05:44:00Z
+    webUrl: "https://www.npr.org/2023/08/10/1193281234/the-double-edged-nature-of-parenting-mental-health-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 33
+    images:
+      - url: "https://media.npr.org/assets/img/2023/08/10/trh_cuts_both_ways_artwork1_wide-f5cd94374cdee89695b5a53cef8e676148eb1927-s1400-c100.jpg"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Digital displays on the exteriors of self-driving cars could help cyclists stay safe in the future"
     excerpt: "Digital displays on the exteriors of self-driving cars could help cyclists stay safe on the roads of the future, researchers say. Animated representations of virtual drivers, traffic-light-like projections on to the road or even emojis displayed on their ..."
@@ -125,6 +139,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "bZ6f9kkRmbU5Ehuu+c6D25+gN96CfoJ7b4w/TQqk0C7xyfIVw3xNQ/pwHg9d0Y3BL7Z7bDqGes5QYx729TaKfZajVUgCZJ7tZIrLKy0G9XRy4DpysmKyW8j2Dau3XZxXz39RFYpog9VU+So9gThaG0V+QZf4reMpDhWsOmmtw9AtwD8o7z4tDTf+vICWix3lXCrd0R/UU7ft/tW66gsz1ayhYUWpo9MBlfwiIdnUM72Q0jc+IQKf6siJQjdrjwYOF5vT3fgQmEPUABAru/941B/bvv3nyg4a+jxgOnV+4HfZovEyn2ijoFbPsKjor27wN0H001DU/Ukw5LivYK4Ac/lVuzftmDHKbr2sLFX16Ebk6qeZMEZNdZJMrBmqWP5NSuj+bgETkj/a1v1g/Zm55QE4Vnx/XSOGXLvrghy1SE27wKV5IO+VuFF2SZ10u3J3tE5qcIKEbCMrYNzP6MFOmHCfBFutu7k//5hIhNDAHgqFjk30IBBk3/ux12K2dosL8l44h3GUJBl09s/B5QG7Qg==;7nReKDBtAaZMIwdqwkfkkw=="
+secured: "YpS6XY2HvS0timRKZBjSfhZC5Ou9Jo4HiW5IWlGnako+nDsjQwnTrB/olJ5BT9VdXNtJnoOWn0rBjw00aNpO2+0ZPN7PnPWOFxmVHX1Q2AQRtP5auQyIZPzvkcNrKdWinX+lf9H8S+iRrMchyh3G/4fnFnHgqrlu0tA79neRcSdgLEW/XRYa3l6xXGK3LSVm4O0SZsWazYxUnWUSWpnVg1R8VsMgEh71CUPyBUBCpgzzw4fAg78KXbxJ02Sz2nS0teV1hy6TysxNYSU8daiWeca/DJTJwlAEdOfwu4oYnRtJcJfPoSyBkcY4WuYv4QeoPJO5Cgw7iHEO9BDma+OdFOs0SFs0CY4D4Y+IQDqUtEs=;WORbCZYMNCAkSS3DVLQZMQ=="
 ---
 

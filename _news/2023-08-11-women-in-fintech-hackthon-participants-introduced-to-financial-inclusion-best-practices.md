@@ -95,15 +95,6 @@ related:
       name: manilastandard
       domain: manilastandard.net
     quality: 1
-  - title: "Fintech firm Enkash expects business to grow by 36% to Rs 250 crore this fiscal"
-    excerpt: "Ascent Capital-backed Enkash founder Hemant Vishnoi said the company focuses on spends management of small and medium enterprises that have over Rs 10 crore annual turnover and expects the customer base to double in the current fiscal."
-    publishedDateTime: 2023-08-06T12:57:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/fintech-firm-enkash-expects-business-to-grow-by-36-to-rs-250-crore-this-fiscal/articleshow/102476139.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 0
 
 secured: "YQH5setke7fDYTjfV8ogEh1ma9AlcYdI2KHKqDUhOwtCKfld8AywAAT89os05r4pjZeEqlFAQ9BSw3ApFXuxq0z6nz5VFc2GlVpCypjUNdTqAfxh7k0Nf/zX77dJwl6lxPHagDVmLUhl7NMwSaZMZfCR1rD3kcQQBYNn4tT8H31wMEulsADX7KSvXa7hEzdV3zQGMl3xTLkWwlTgVrmqYTG4vLplYZmO7LX2eTl3YWT+VbFBgK4m9obQXu8Q7XEY/5lfNgyiAhaW5D2bqWuLjkN6J5+cVd2W9X68AdB2Tepq8u3bFwkw3lmu3zWHbagNnw7hZcs/QPLtwM02S2DcTnMFpAhKxovpzL2w406o4VVUdFDHDDmoUJqiTK52Pqtq7bDY1qWaJMpk2MVhPgfuF0MGMU85vxxOhvJJbHzsYNwu7UIjlUgpWneeuAMzCXyAVDAl59gJ3NFtMdkfzWPGnMEq5oaL6ndyODZgQbEpHqmUlQ7AMjf/GYve4nmJz67/0/uiQSUIzSxzH02mON3XFQ==;OTlqoPh/GSOWSiT0Ak5avw=="
 ---

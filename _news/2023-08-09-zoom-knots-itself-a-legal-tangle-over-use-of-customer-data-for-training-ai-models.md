@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/08/zoom-data-mining-for-ai-terms-gdpr
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/zoom-data-mining-for-ai-terms-gdpr-eprivacy/amp/"
 type: article
 quality: 84
-heat: 86
+heat: 84
 published: true
 
 provider:

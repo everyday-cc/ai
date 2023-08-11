@@ -27,22 +27,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Saudi Arabia’s AI powerhouse, Mozn, recognized as one of the world’s top fintechs for 2023"
-    excerpt: "today announced that it has been recognized as one of the Top 200 FinTech Companies globally, and one of the Top 25 in the “Digital Business Solutions” category by Statista, a leading statistics firm. Mozn's Flagship product FOCAL is an AI-powered risk ..."
-    publishedDateTime: 2023-08-06T11:39:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-recognized-as-one-of-the-worlds-top-fintechs-for-2023-rwao4oa8"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-recognized-as-one-of-the-worlds-top-fintechs-for-2023-rwao4oa8?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-recognized-as-one-of-the-worlds-top-fintechs-for-2023-rwao4oa8?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 49
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjEzODQ4NmQtMGVmNy00/0/mozn-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Fintech groups and banks linking up for new payment partnerships"
     excerpt: "Vietnam’s payment fintech landscape is witnessing a surge in partnerships between foreign giants like Apple Pay and local banks, while local payment apps are teaming up with international firms, signalling promising growth prospects for the digital payment sector."
     publishedDateTime: 2023-08-07T08:17:00Z

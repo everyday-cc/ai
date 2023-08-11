@@ -67,6 +67,20 @@ related:
         width: 640
         height: 436
         isCached: true
+  - title: "Future FinTech Group Inc. (FTFT) Stock: What the Analysts are Saying"
+    excerpt: "Opinions on the stock are mixed, with 0 analysts rating it as a “buy,” 1 as “overweight,” 0 as “hold,” and 0 as “sell.” The average price predicted for Future FinTech Group Inc. (FTFT) by analysts is $71."
+    publishedDateTime: 2023-08-11T05:02:00Z
+    webUrl: "https://newsheater.com/2023/08/11/future-fintech-group-inc-ftft-stock-what-the-analysts-are-saying/"
+    type: article
+    provider:
+      name: newsheater
+      domain: newsheater.com
+    quality: 24
+    images:
+      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-19.png"
+        width: 640
+        height: 438
+        isCached: true
 
 secured: "tYHWB9DxNbeqXWfH9yUNOFbdibyIPaAg+H+07nb9gH2X4gz13DRshQTtDr1h2gf6TAmnyaFi1NpZ813KlXtvn4XgOct5lJ7JcftwBMXnL0jUeJcA66sTUWQHt0lPL+c4dop7VbAlE5eR1zKksmk18e8tEVLBdbzfVyrKbjsqUtZSqGwA72Z6ylCVkLEDRVqw6Onypy8SFePq53wOhtxisYn/q77+BUNSqSTSMEwqaxXoJ29JxOGz2h/kAU0bNh7S9k+/WsTu2vwnwTYNB8IJ62myl6L4rE+TkTo0l4m5EBBCLF9gsuntnm945/fzfPcjLflG21CyWLJAg0LLMzkTVVDGzPnuxNoVMy0N/1noN4A=;dvEEhw6pZrYG6EECwAgptQ=="
 ---

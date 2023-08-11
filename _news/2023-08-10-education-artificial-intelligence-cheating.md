@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "The challenges and ethics of AI in product design"
-    excerpt: "The rise of AI across all industries has been a source of both excitement about the potential opportunities, and serious concerns related to the risks and challenges it might pose."
-    publishedDateTime: 2023-08-09T11:26:00Z
-    webUrl: "https://digileaders.com/the-challenges-and-ethics-of-ai-in-product-design/"
-    type: article
-    provider:
-      name: Digital Leaders
-      domain: digileaders.com
-    quality: 54
-    images:
-      - url: "https://digileaders.com/wp-content/uploads/2023/08/shutterstock_2238570409-scaled-e1691580373332.jpg"
-        width: 800
-        height: 338
-        isCached: true
   - title: "How To Get AI Regulation Right"
     excerpt: "Effective AI regulation should start with bringing the great minds behind AI to the table—those who possess a sophisticated understanding of AI and its applications."
     publishedDateTime: 2023-08-09T13:00:00Z

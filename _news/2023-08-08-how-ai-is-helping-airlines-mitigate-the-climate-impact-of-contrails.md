@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/ai/ai-airlines-contrails-climate-ch
 webUrl: "https://blog.google/technology/ai/ai-airlines-contrails-climate-change/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -32,15 +32,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "10 Ways Artificial Intelligence is Already Having a Huge Impact on Business"
-    excerpt: "The realm of Artificial Intelligence (AI) is effecting a paradigm shift across multiple business sectors since OpenAI released its Large Language Model (or LLM) to the world. A close examination reveals the multifaceted manner in which AI is refashioning business in many areas."
-    publishedDateTime: 2023-08-06T12:32:00Z
-    webUrl: "https://techbullion.com/10-ways-artificial-intelligence-is-already-having-a-huge-impact-on-business/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 17
 
 secured: "mK1xJiRANDI9pUZQJa5RBJb6p+tKAxnKn2ERvX6aAU/u2xysMmOH0uFmeRiBFcR+NXGk+UYX296Mg9QT8fuXlSPj1fch9VtaUai/tfA7nYH1JK2McE/tln6HyFh0jcFRFqbsO8Lnh+xMGcNHs6ONLeB0ngmRBv1R4kzb+b4k4o/HhEbBCLsfLJzOv7Cqf8b5esJOwBCIXhbxAkZo/+CmNABglk3/Y3//DN8+WS0Tq1Pq+lxNmStTk+QqYP/wqVkHUvrjr5H/KVcNGZ0ah29Gd13/qUV1G9rmBkui+cqCRR1hQwRDUzYyFh14olKseHjzHQUL1HcVtcMWIzMeun5Q2C06EqXUrsCM0PAxz1g9T1w=;1cmKLm7iVOFrsUVXbvVM8Q=="
 ---

@@ -27,63 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "My Top AI Stock to Buy Right Now"
-    excerpt: "The Motley Fool has a disclosure policy. Want to Retire a Millionaire? This AI Stock Can Help With That. This Chip Stock Just Hit a Major Setback. Steve Jobs Predicted It. Calculated by average return of all stock recommendations since inception of the ..."
-    publishedDateTime: 2023-08-06T11:16:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/"
+  - title: "FEATURE-My perfect girlfriend: Are AI partners a threat to women's rights?"
+    excerpt: "“Many of the personas are customisable ... for example, you can customise them to be more submissive or more compliant,” said Shannon Vallor, a professor in AI ethics at the University of Edinburgh. “And it’s arguably an invitation to abuse in ..."
+    publishedDateTime: 2023-08-07T05:26:00Z
+    webUrl: "https://www.reuters.com/article/global-tech-women-idUSL8N38P498"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://g.foolcdn.com/editorial/images/741920/person-on-their-phone-in-apartment-sitting-on-the-floor.jpg"
-        width: 2121
-        height: 1414
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "The 3 Best AI Chip Stocks to Buy in August"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Until the trend fails, chip stocks should remain in focus. Throughout 2023,"
-    publishedDateTime: 2023-08-08T19:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-in-august-1032530506"
+  - title: "My perfect girlfriend: Are AI partners a threat to women's rights?"
+    excerpt: "After just five months of dating, Mark and his girlfriend Mina decided to take their relationship to the next level by holidaying at a lake cabin over the summer - on his smartphone."
+    publishedDateTime: 2023-08-07T05:35:00Z
+    webUrl: "https://www.tribuneindia.com/news/trending/my-perfect-girlfriend-are-ai-partners-a-threat-to-womens-rights-532939"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "Investing in Artificial Intelligence Stocks: Things You Have to Know"
-    excerpt: "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have."
-    publishedDateTime: 2023-08-10T05:15:00Z
-    webUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html"
-    ampWebUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 39
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
-        width: 600
-        height: 338
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/8/2023_8$largeimg_734107616.jpeg"
+        width: 660
+        height: 440
         isCached: true
-  - title: "2 AI Stocks to Sell and 2 to Buy Instead"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors should expect a steep selloff among artificial intelligence stocks,"
-    publishedDateTime: 2023-08-09T09:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/2-ai-stocks-to-sell-and-2-to-buy-instead-1032534021"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "3 Artificial Intelligence Stocks Low on Risk and High on Upside"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Since the launch of ChatGPT early in 2023, companies have been falling over"
-    publishedDateTime: 2023-08-10T11:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/best-artificial-intelligence-stocks-3-low-risk-high-upside-picks-1032539923"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "9wC34/DA7nrH5Q0cpUjFTIxu35SqZjnnwAKoYajoX3ugE1mPX+2POb8JhhBfnhJGZtzyvOpNksZ+pWYZ1XGr1Io+MaZTBdj4N4l6XiZuUR9oty3ZLoDJTPPET9MlsR2GSEYk8mEeFjw2iNqmQysQbUBHHJrq7pcOVsxKHuHnXYBsArIZAPwR3Gj1WlLGoqMPXVZiQaJ15QfrSFDRNnV8EXkS0cgM6HQFHdrx9y8NDs/1rpt17Y+YlxiNIejW6eCI8HA47huQ9PerOlxOMh6jfEBGWGBbdxQETc+Ltz1pjt/gebwuxihtZihCbjnDjXLGyw44OJ/5LC2hhBjNlmZcYMJjmkiNRPbXQdAzXCBa6bA=;1QBeTDQzF/zUKW7ugN2LCA=="
 ---

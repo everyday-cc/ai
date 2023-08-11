@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/generate-creative-ad
 webUrl: "https://aws.amazon.com/blogs/machine-learning/generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker/"
 type: article
 quality: 100
-heat: 350
+heat: 351
 published: true
 
 provider:

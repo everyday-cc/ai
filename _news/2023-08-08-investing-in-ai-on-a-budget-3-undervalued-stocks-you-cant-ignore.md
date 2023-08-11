@@ -32,6 +32,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
+  - title: "2 AI Stocks to Sell and 2 to Buy Instead"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors should expect a steep selloff among artificial intelligence stocks,"
+    publishedDateTime: 2023-08-09T09:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/2-ai-stocks-to-sell-and-2-to-buy-instead-1032534021"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "3 Artificial Intelligence Stocks Low on Risk and High on Upside"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Since the launch of ChatGPT early in 2023, companies have been falling over"
+    publishedDateTime: 2023-08-10T11:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/best-artificial-intelligence-stocks-3-low-risk-high-upside-picks-1032539923"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "SeohDWoosSXe5JOSOJdTNa2EQCkh8b8haW6gdIuR79mZcUEZCkY26VfA3bmjRTJfI52Zmb0UZcWckAlFKjSScHfdGNolu1lFMUFAMXuztFRuiaYMqj+pAqEjqSWOfrfnhx3Mloz1T/YJO9tyZWuI7M+G0o6wNZ5cQBb6xxW//vdE+fGTHlldaeN7FnKVPhYaVcphxXvO4NdgYXW9rGp2MdtSUVfnlwISXmgwlI75CkouceN6Ax9iCAMiydtQl8z+dewqT+UyC6fbMHxWe8/6RokXRqVLa32+UjjBn4vFcuN/4il5zEYVw083scS+qpmE3l/wCLA9V2+7cazZfJ+AkxVMv0TO71Efcj0MZZ0ALFUlRmK9v+zt3aAAMO0CtMn2rHsm7M9HCf54oYeuZJE3a2UXLvnkPIEdKUEnzW+EB1lZhkX9SpWAZluAj2e3QGYA9ywcNxOtf8hr4OpYSoZ95SbXVL8kDUCYeFvVGZMYokdttBGzO97AZwF9MRfByYpjmyScvrsveRqC5WWhBJlNfQ==;ufU+ADH01PXWZti3urt9hQ=="
 ---

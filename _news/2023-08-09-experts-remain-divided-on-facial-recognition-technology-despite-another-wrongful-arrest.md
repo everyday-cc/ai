@@ -2,24 +2,23 @@
 category: news
 title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
 excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
-publishedDateTime: 2023-08-08T21:11:00Z
-originalUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
-webUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
-ampWebUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
-cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+publishedDateTime: 2023-08-08T19:10:00Z
+originalUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+webUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+ampWebUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
 type: article
-quality: 68
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: al.com
-  domain: al.com
+  name: MassLive
+  domain: masslive.com
 
 topics:
   - Computer Vision
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
@@ -158,6 +157,36 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 49
+  - title: "Facial recognition software blasted by DPD board of commissioners after recent false arrest"
+    excerpt: "A vote to ban facial recognition for the Detroit police failed tonight, which would have kept the department from using it for a year."
+    publishedDateTime: 2023-08-11T03:15:00Z
+    webUrl: "https://www.fox2detroit.com/news/facial-recognition-software-blasted-by-dpd-board-of-commissioners-after-recent-false-arrest"
+    ampWebUrl: "https://www.fox2detroit.com/news/facial-recognition-software-blasted-by-dpd-board-of-commissioners-after-recent-false-arrest.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/facial-recognition-software-blasted-by-dpd-board-of-commissioners-after-recent-false-arrest.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 49
+    images:
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2023/08/932/470/facial-recognition-arrest.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Facial recognition technology in Detroit to remain in use after commissioners vote"
+    excerpt: "Detroit police will continue to use facial recognition technology after a close vote by the Board of Police Commissioners."
+    publishedDateTime: 2023-08-11T02:45:00Z
+    webUrl: "https://www.wxyz.com/news/facial-recognition-technology-in-detroit-to-remain-in-use-after-commissioners-vote"
+    type: article
+    provider:
+      name: WXYZ
+      domain: wxyz.com
+    quality: 48
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fd525b6/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2F62a%2Fbe88c4e651db4a7dbe102614d7272948%2F62a754a5e1ed4166a8525540c406810f%2Fposter_120b7d8e5dfa451b93e814f3fd64b110.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ACLU of Michigan calls on Detroit police to stop use of facial recognition technology after woman claims she was falsely accused of crime"
     excerpt: "The latest is a Detroit woman named Porcha Woodruff, who says she was falsely arrested after the technology connected her to a carjacking case."
     publishedDateTime: 2023-08-08T22:15:00Z
@@ -515,6 +544,6 @@ related:
         height: 697
         isCached: true
 
-secured: "AtabkNCQViz174sMCHww9hyby0H8Py/4VOiFKAqzeR2r3DrIdaSHnp+gr/6+AJ+Zv4P7eE1SPxkFmykF29+Lc9SdEBGQCSHkIy9tK70vzfsG1TUVfcLqVPt69OzbuPXsg9twf8yYzAP/sBrXlx43rmQap8YuLMybYLMd4tv4Ho7cxCkc9p3DrANn5cx5M6xwvQnU7p41SAfB9srfe2b6tg5R2ig/7FsCxXB4Beq6Oqmm5ueMTitbB6j8AR7KMjSxGaN+1OfuTcKNQZyyH/7sVETNyRIzQONHO7kKE8gBJguMF6hX1L2v09BFUbuGCdRYaKps2JVggbD4Spl8sVUF5MpBxOrwJXyEeaFuPvJkKw8qv9k3HMr/AWwXXnxPjPPt0ALIN0KtGO7SCaNi9GjECUxOaJD56TuQtnupVMRud6vwLWwSzpjmsSv73LhWwpfk4feF59clAx91Gpxnrdr48+1Bx5TshC/NnPIf5LVjQKjw7P9M5uyZWn2Ih82E1P+z89bhInty+ngDFUSbuZbqHQ==;2vXQHQxIXEfQd4aRvTGjVQ=="
+secured: "rIU3Z4vr/bvpN1e1urate6WTklrwtkfyXT6Qi3qtQJdvQ7jO7WC4qhSP6ZNJ6Jtppvzv22vvceG8tAcVVGnLe+W5FoANHcUTTuXihD0uZfsfoRl4EE7x4LiEav/dCPhPsaJSULiV07YW2J3Y3zVcG4iMzbqcWDkDsZtQ2sugMWih7n3BsT86o2i6buVoXH5hgJ1UD1zUK1qtPhZ2mYJCsex+v1BR9CmNVSYW3Aaq4ntzAIIQKsO7cKiyacFh/Aixs2MXHNdrTGHDfurx4sG8H4NU9l6YObBPmTFINLQxXIo8YwbRad9k9GFMUduE5zHXZ5yLQ7z/mjVA2dnhVb/B+6qCwaNxOEIctqgp4fYx7hs=;Wcx3c7gbKDCbgo+wGur+fQ=="
 ---
 

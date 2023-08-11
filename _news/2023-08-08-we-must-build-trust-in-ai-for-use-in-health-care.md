@@ -25,19 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "£13m allocated for research into use of artificial intelligence in healthcare"
-    excerpt: "The Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare."
-    publishedDateTime: 2023-08-09T21:01:00Z
-    webUrl: "https://www.independent.co.uk/news/uk/politics/nhs-government-steve-barclay-james-cleverly-prime-minister-b2390558.html"
+  - title: "The 3 Best AI Chip Stocks to Buy in August"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Until the trend fails, chip stocks should remain in focus. Throughout 2023,"
+    publishedDateTime: 2023-08-08T19:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-in-august-1032530506"
     type: article
     provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 53
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Investing in Artificial Intelligence Stocks: Things You Have to Know"
+    excerpt: "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have."
+    publishedDateTime: 2023-08-10T05:15:00Z
+    webUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html"
+    ampWebUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 61
     images:
-      - url: "https://static.independent.co.uk/2023/08/10/00/0a48a35067bb751bb5abd6562da587f9Y29udGVudHNlYXJjaGFwaSwxNjkxNjc4NzY3-2.69139511.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
+      - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "223Bg2EeOc2DKmZw5ZViWa6iGLDkJakRf3PQEVNQShiaQoHYoSj8e3nzQDhLANLSqd20ah+lqutnRFxI7+cooWze+8Yah1QIIIG0eDDxK7+CINGe8WYsqeO19Z6ff8C/6Lp09/8vx2e0nZnwqMW0Mq8dr7DB0vzfzGg/d1hU+Um2cZOqZDkeEqZMLlyZ9dWqtm5LOc2D8fiCFoYtLskXP38pffk+M9vK31ooOqh4pmZ2Swfqqt0FvTFDHiOW+Rq5SgCEIKLBQ2a9OU4DrW0+TyyGnUZFDcWGQupAAP99sby7aRRUf2Cb/pcKHdZdaEDiSvn3OFF45296GisK159MVIdkvaAvozVHlh7ucghyHkZJunXAJyvpBFukArhMz0bsPmlO1136mu66E4B62uS/4m+CQOT6X+fnywQ/IKCvcfmMgTUmKlDqd70j/lrmlO4p/5YhERQrx/U+Cc3PPadEc+8HncKT/pzJXa2DgptIfXA2vKUfYlfEr6/x5tN2rSeZXtkqoEgJqmAmloe4baonhQ==;NLuSTe/pJVjmEH0DNzUsSA=="

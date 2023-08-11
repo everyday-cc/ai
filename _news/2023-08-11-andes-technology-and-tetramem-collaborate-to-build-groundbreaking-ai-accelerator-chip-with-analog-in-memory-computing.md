@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Andes Technology and TetraMem Collaborate to Build Groundbreaking AI Accelerator Chip with Analog In-Memory Computing"
-excerpt: "Andes Technology, a leading supplier of high-efficiency, low-power 32/64-bit RISC-V processor cores and Founding Premier member of RISC-V International, and TetraMem Inc, a pioneer in analog memristor technology and in-memory computing,"
-publishedDateTime: 2023-08-10T18:51:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/08/10/9862929.htm"
-webUrl: "https://it.tmcnet.com/news/2023/08/10/9862929.htm"
+excerpt: "Andes Technology and TetraMem are proud to announce a strategic partnership aimed at delivering a fast, highly efficient, AI inference chip that will revolutionize the landscape of artificial intelligence and edge computing."
+publishedDateTime: 2023-08-11T05:37:00Z
+originalUrl: "https://www.design-reuse.com/news/54584/andes-tetramem-partnership.html"
+webUrl: "https://www.design-reuse.com/news/54584/andes-tetramem-partnership.html"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Design-Reuse
+  domain: design-reuse.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://static.designandreuse.com/news_img2/homepage54584/ab.jpg"
+    width: 680
+    height: 383
+    isCached: true
 
 related:
   - title: "Groundbreaking development of computer vision AI accelerator chip"
@@ -75,6 +81,6 @@ related:
       domain: tmcnet.com
     quality: 7
 
-secured: "FIICZfxxIh/7/bNGIwgoNEeFX6fngUGgYycgwwAAM6OXD71yjBqDJoH/B7P7II7DafzOWv4IlsP1vt7DUpS9Dp7/44KbyAwR7gOvRaYqMkxQLHCiZA3kyPXNFavxj+VW7FX2zbzZXSCkr2o0o6AC5VWNIGnNFpwJeW62Vmm6t6i9gsZwCL/aezrsJbGWCSn/mO+ZirC5vg/l6x8lOMVKDLZZUPTJVuJMktojQJEwgHxpHiz0UgN7vFoTT2SXOyB0WIW7vxjgHTBmQ32BWsIwS+1wir6UJPUR34N7Bwomg321P/dOYBwHUce2p3EvA9SL9GZwIae01stkdDg9e77PGdur9qm2AXWzaAk5Cq4RXc0=;muypKSkgA3YLZ6eEdUYYCg=="
+secured: "MjwVyl3KuAuoB/mFdevRdHIv01ccbivVU1JkAdkM8meCeYoTFot4BY6Fv5pNr6qpofkIDLo9G/5hmgyweN4m8pBZlv4UEtR8sj3LeZ7UUlfighSZwAfdDuDk3sWQS8ZvzJX508vmZpxDURFo4Bl1yExfZmDTnnMp2C02oAs/F7EpMLmDxmNHw2CubyTMZvCiDnLgiUMt8B3ul0YR1QvfC3FrXjPpBKiiUlP9CEYKhNs8vlwz+BEUHXR/E3VWejb0BBesW5xib+StDYMuhD2EwBsng+ut99SxcfgOwE9rguyC6xNlbAH/BrauJbB0bLL3xLq0jK7dx7XKOEI3f4L59/3ryCoPR2p49HPYpyuyyy8=;6j18gf8CEvaaZJRYm4FPeA=="
 ---
 

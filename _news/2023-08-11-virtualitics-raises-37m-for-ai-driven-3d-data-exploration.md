@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/virtualitics-raises-37
 webUrl: "https://venturebeat.com/data-infrastructure/virtualitics-raises-37m-for-ai-driven-3d-data-exploration/"
 type: article
 quality: 67
-heat: 97
+heat: 98
 published: true
 
 provider:

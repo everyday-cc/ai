@@ -7,7 +7,7 @@ originalUrl: "https://www.cryptopolitan.com/how-ai-in-education-warning-ethics-e
 webUrl: "https://www.cryptopolitan.com/how-ai-in-education-warning-ethics-efficacy/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The challenges and ethics of AI in product design"
-    excerpt: "The rise of AI across all industries has been a source of both excitement about the potential opportunities, and serious concerns related to the risks and challenges it might pose."
-    publishedDateTime: 2023-08-09T11:26:00Z
-    webUrl: "https://digileaders.com/the-challenges-and-ethics-of-ai-in-product-design/"
-    type: article
-    provider:
-      name: Digital Leaders
-      domain: digileaders.com
-    quality: 54
-    images:
-      - url: "https://digileaders.com/wp-content/uploads/2023/08/shutterstock_2238570409-scaled-e1691580373332.jpg"
-        width: 800
-        height: 338
-        isCached: true
   - title: "Education Artificial Intelligence Cheating"
     excerpt: "Faculty members engage in discussion during a teaching circle on artificial intelligence on Wednesday, Aug. 9, 2023, at Temple University in Philadelphia. Educators say they want to embrace the techno"
     publishedDateTime: 2023-08-10T04:01:00Z

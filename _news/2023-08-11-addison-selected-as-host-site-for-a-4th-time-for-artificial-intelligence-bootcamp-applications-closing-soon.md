@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Addison Selected As Host Site For A 4Th Time For Artificial Intelligence Bootcamp Applications Closing Soon!"
-excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Headstorm in Addison. Applications for the no-cost bootcamp are closing soon! The AI bootcamp is targeted toward underserved high school students (9th-12th grade) and offers participants a chance to learn the fundamentals of AI."
-publishedDateTime: 2023-08-10T21:19:00Z
-originalUrl: "https://menafn.com/1106830650/Addison-Selected-As-Host-Site-For-A-4Th-Time-For-Artificial-Intelligence-Bootcamp-Applications-Closing-Soon"
-webUrl: "https://menafn.com/1106830650/Addison-Selected-As-Host-Site-For-A-4Th-Time-For-Artificial-Intelligence-Bootcamp-Applications-Closing-Soon"
+title: "Addison Selected as Host Site for a 4th Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Headstorm in Addison. Applications for the"
+publishedDateTime: 2023-08-10T20:18:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/g33724399/addison-selected-as-host-site-for-a-4th-time-for-artificial-intelligence-bootcamp-applications-clo"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/g33724399/addison-selected-as-host-site-for-a-4th-time-for-artificial-intelligence-bootcamp-applications-clo"
+ampWebUrl: "https://www.benzinga.com/amp/content/33724399"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33724399"
 type: article
-quality: 22
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?85913"
-    width: 477
-    height: 250
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -35,7 +36,16 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "Indianapolis Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
+    excerpt: "INDIANAPOLIS, Aug. 10, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Corteva Agriscience in Indianapolis. Applications for the no-cost bootcamp are closing soon!"
+    publishedDateTime: 2023-08-10T19:53:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/10/9862993.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
-secured: "Vl1Zqn4pj3Ses5aIesRFWwvHSmC6fTxcy/B2YCgng+hJ861BfawRTdGjCFwAIZ+ab9cTlhlEWxJ0WhDzfP7q7OY08DL3ftcDcppNVHXYTGSgIvo2OUa3gvg0827TGx16t23uvgXMcsIr4VKPUnLXhVOq04pFTjeCyurLqk4+ktiBvmzhYKE2XOf7vCcbTTEN28XM5zswq9LJvnJtdGCcVkvoumz2g7sB5EJkbtgb8w1so2tUNBNpLzkOsQla1dCczhbfAa83p1B+wIQQ+eo99iu702DpfhXULDV49MRtQrIhCxQ8gPwlSjs6IWpFNuDto2UpMGNR1E4f//vXa/MYmfRk22LWCzk+LsRVUomj54E=;oA/DgH6LoLnSZmB/Rq85bg=="
+secured: "wZ23O9yPJjq1fIAW29TNmI00DQuZ2zooUdF3idrqxVDs+HWkDHC/vym5qUK0PI7iR414xVoTPxLPFPmi2Cp4qrdxfMiVMzTU4jytrLm+fgR6osvNZ22QStGrbrK6UClaAJJoQWKSZY5TgvCYhH4Iv3GKBlJ1zlTn050LaJDf7okiPwyTPBVyPB+d4au+HSZnjTGyRZOjr/2MqMMxhZRNt6+qYVr6RZ+HHKumEpDHvt3gHOH/Qj1vQ3zUCrECMJ5ljt68hR+LrdW8sbYRa8XvE7+AjCLuwsNRhI1exPejWRtZk+gDy8uxR5yY3DFpsNucpxISvCUGAYfb1IsEk7m+gpVZbO3zECEyPlTqQz2VnVo=;C5BddIaZtYskURRkPKUB3Q=="
 ---
 

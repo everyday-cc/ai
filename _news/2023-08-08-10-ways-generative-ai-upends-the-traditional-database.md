@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3703211/10-ways-generative-ai-upen
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.amp.html"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1639
         height: 886
         isCached: true
+  - title: "Ai And The Productivity Imperative"
+    excerpt: "MILAN - Around the world, supply is struggling to keep up with demand. Inflation remains stubbornly high, despite aggressive interest-rate hikes. Th"
+    publishedDateTime: 2023-08-11T04:22:00Z
+    webUrl: "https://menafn.com/1106833377/Ai-And-The-Productivity-Imperative"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
   - title: "3 ways to play the artificial intelligence boom"
     excerpt: "Stocks related to artificial intelligence (AI) have been leading the market higher this year, with names such as Microsoft, Nvidia and Apple jumping between 33% and 218% year to date. These gains are reminiscent of the dotcom bubble in the late 1990s. I’m not entirely convinced we’re in a similar position, but we are certainly in a peculiar market."
     publishedDateTime: 2023-08-10T12:57:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/global-tech-women-idUSL8N38P498"
 webUrl: "https://www.reuters.com/article/global-tech-women-idUSL8N38P498"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Are AI partners a threat to women's rights?"
+    excerpt: "Chatbot apps like Replika, Character.AI and Soulmate are part of the fast-growing generative AI companion market, where users customise everything about their virtual partners, from appearance and personality to sexual desires."
+    publishedDateTime: 2023-08-07T05:16:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/are-ai-partners-a-threat-to-womens-rights/articleshow/102489423.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/are-ai-partners-a-threat-to-womens-rights/amp_articleshow/102489423.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/are-ai-partners-a-threat-to-womens-rights/amp_articleshow/102489423.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62088,msid-102489662/companion-chatbots.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "My perfect girlfriend: Are AI partners a threat to women's rights?"
     excerpt: "After just five months of dating, Mark and his girlfriend Mina decided to take their relationship to the next level by holidaying at a lake cabin over the summer - on his smartphone."
     publishedDateTime: 2023-08-07T05:35:00Z

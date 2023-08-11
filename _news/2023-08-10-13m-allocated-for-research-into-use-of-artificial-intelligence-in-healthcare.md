@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.co.uk/news/uk/politics/nhs-government-stev
 webUrl: "https://www.independent.co.uk/news/uk/politics/nhs-government-steve-barclay-james-cleverly-prime-minister-b2390558.html"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "We must build trust in AI for use in health care"
-    excerpt: "It would seem then, the best hope for the continued development of AI in health care is technology guided by a human touch. The public must trust in the ability of AI tools to produce accurate and reliable information, and believe that such information, gathered without prejudice, assists a physician’s ability to care for patients."
-    publishedDateTime: 2023-08-08T10:00:00Z
-    webUrl: "https://www.newsday.com/opinion/commentary/guest-essays/ai-artificial-intelligence-health-care-drugmaking-gwk1leoa"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 39
-    images:
-      - url: "https://cdn.newsday.com/ace/c:YmI1NDQzZWMtMDI0NS00:OWNjNzYy/landscape/1280"
-        width: 1280
-        height: 719
-        isCached: true
 
 secured: "Lp4kbCh85yyF7bMizdk8GTO1ETiEpKQ11ckCanpLsFQZ0XI434u/jooMnL03SpStGio+W0/2XEvKUHuNiBIpEa1gnN92V426ittQGhPFR8jXAPiBIOWV2jrCctCpMEX7cygZm5TYhPWi6D61RBHJMb4K4XcaRkxDMmxV8JD8mXYF+YM/te8JM1Q1hayrCiIhles7sVK5Aei+t+Vrc0HkERFbkMqbtQJkgJXNeeZxkVp7RS1SIDl+6vh8JLWre4OxtJlVmCrwYsdeB+5oNIHNejwsQF/kAUy4S8NpjEzBcYXcpafon3Nz6inmS8EUhVq8xzKycm62XWTtnco6Rbg/x36wlYejtSzXba8UhY7511c=;vCJlaqIqugz6+6FkzO4sHw=="
 ---
