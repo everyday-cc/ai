@@ -89,6 +89,34 @@ related:
       name: AOL
       domain: aol.com
     quality: 21
+  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
+    excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
+    publishedDateTime: 2023-08-10T16:44:00Z
+    webUrl: "https://www.houstonpublicmedia.org/npr/2023/08/10/1193272085/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts/"
+    type: article
+    provider:
+      name: Houston Public Media
+      domain: houstonpublicmedia.org
+    quality: 18
+    images:
+      - url: "https://media.npr.org/assets/img/2023/08/10/gettyimages-1390904872_custom-facb4d78b06ed88683d0ad1b438c70c0e9e87cdf.jpg"
+        width: 4948
+        height: 3235
+        isCached: true
+  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
+    excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
+    publishedDateTime: 2023-08-11T01:44:00Z
+    webUrl: "https://www.wuwm.com/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
+    type: article
+    provider:
+      name: WUWM
+      domain: wuwm.com
+    quality: 18
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/a576e85/2147483647/strip/true/crop/4948x2598+0+319/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F08%2F10%2Fgettyimages-1390904872_custom-facb4d78b06ed88683d0ad1b438c70c0e9e87cdf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI boom jolts San Francisco office market"
     excerpt: "Ten AI companies are today seeking between 700,000 to 800,000 square feet of office space in San Francisco, per JLL, which says AI companies have already tripled their footprint in the city since 2016. JLL said its confidence is based on anonymized foot traffic and cell phone use data from Placer.ai, demographic and office neighbor information."
     publishedDateTime: 2023-08-10T10:00:00Z
@@ -113,6 +141,6 @@ related:
         height: 1491
         isCached: true
 
-secured: "YzwyYpRuwap1TuZFTL/1kCbzHDt6mFqb0Xcy+OK3VBB53Z8b/T3LdKIX3no3VKJqn04J9ayzL7X3aqq8qP/dkAy9wlIkgJxIfzo+cMoWCT23xl3R/1HJgC+lDR3L4nBqGLwOYtFtvjglDHyYbE8D2uQpdgm1yJSbiOEoySyDOI58N1Ht5QWtZAbv4gdCv7vCwEXu3yNTUtUeCo8paXDJTdkqPMFROQtsSRlohI2V3rlTkl0a0vvYGlUoIBQafyYyQUJVPQBfSSAVs66z8gXE3tBfjl/x5QJXRZYwKPthWSr2woKsKFD2M8+JUy76D1XsHTKno01JiiSfThNfHZ0+Va+asgkIaozWPPdXbqHN1PQ=;603dPLv2Db3s8p2fdarjQA=="
+secured: "tU7UhNXqxa3Zya7cCE7I9kuYidRzbJAHBBq8IIqVeLSG1E9FNp7A0JwN/f0eM4logzA5/nH65o3S53o6JFkyYYI/INQmXh0XDyaniPpCbyWO5tZixDAUNXCz1UqDfprhoBadO0barSW23rWraxo/7cqh6EAnhZkvKtRK4qAOh2Wlgnht+yHCI1Q/4FdAXy4jlH3Jdv35vPGevgJbodv7qwkTLNVvVT/SEVVfaGn32xPUwVYGxrUAmI/EdmKVgw8rXvIXdoXhsqdsrT52fHGrgqZFoZTS0ZrStIwO9ST1vBUUPjEJ3HnIOGjIRji09pPmo0zCHoFBfyLOpMMYcihARkGYy01LCtW8GLf0VM6XYjHfPXxoJ6KnZ7mEZdZusuMvPoGjuN2aaOf7myhlnR1kgMphNrlBCw5i9L09ndT0Ej/9ZSVRTNNamkOa2HvwtfPH+CyHUMkPP9wjHBHOEkI8uz4xPldtCgCs2Ms4ZpAKmdbBkrQbzdHJ4/fy4msbp0YrM2gI5l8rHUS/UAQNhhpjuw==;PdtMPtQhxu36/rhr8vEaHg=="
 ---
 

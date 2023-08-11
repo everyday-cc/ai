@@ -78,20 +78,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Saudi Arabia's Ai Powerhouse, Mozn, Recognized As One Of The World's Top Fintechs For 2023"
-    excerpt: "Mozn was chosen as a Top Global FinTech Company in the Digital Business Solution category from 1500 global competitors as per the report by Stati"
-    publishedDateTime: 2023-08-06T17:06:00Z
-    webUrl: "https://menafn.com/1106793115/Saudi-Arabias-Ai-Powerhouse-Mozn-Recognized-As-One-Of-The-Worlds-Top-Fintechs-For-2023"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/06/M_a7345image_story.jpg"
-        width: 1368
-        height: 912
-        isCached: true
   - title: "Why FinTech Companies Are Increasingly Relying on IT and How"
     excerpt: "In the last few years, the fintech sector has been going through a tremendous transformation due to the advancements in the IT industry. The fintech companies have entered the financial industry landscape with innovative solutions that revolutionize traditional banking and financial services."
     publishedDateTime: 2023-08-08T06:35:00Z

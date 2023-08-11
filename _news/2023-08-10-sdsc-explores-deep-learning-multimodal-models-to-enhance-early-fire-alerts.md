@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why Healthcare Needs Multimodal AI to Aid Informed Decisions"
+    excerpt: "Unlike conventional AI, which relies on singular inputs, Multimodal AI processes diverse data – from medical images to clinical notes."
+    publishedDateTime: 2023-08-11T09:57:00Z
+    webUrl: "https://www.techopedia.com/leveraging-multimodal-ai-for-enhanced-healthcare-decision-making"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 54
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/ipad_screen_with_pie_charts_01.png"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "RPXuMGqZT+oTXC+FJVjI59HjWizYOy0E/1z3xYIu3Zj1bD6y/G5jhKybV/BV57dFfWfTS931v36RXTTK/Ng0AkCEUaiEuZHqa2D3LIaXjp7W3VjVUtRXqzVY38Gmv/DeA/gsTVcykYVYBxubFZ3CI+21WAlgKQJUFy8fsSeKiDWU9kcKOmjIIP/ed/qNscZ6n06/1fzWmbEihg8aSiplkU2H840xpVIIECldFgBlVlgVNkCkgNkFhHd1E+WJ6vKrp0oD1ma/C0bbyiyWDnpckBFMIsGMkAO4wNU5axhqF6brjBYqrJGtbZXyuvdAZ2WVf+k+hD1dn/vSsP2dK4gVgpGT/qGiOKityXjmZEiD6a4=;4Wz6wsKEHlPtQMtqiSiCyw=="
 ---

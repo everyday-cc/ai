@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Unlocking the Power of Artificial Intelligence in Healthcare"
+    excerpt: "Artificial Intelligence (AI) is rapidly revolutionizing various aspects of our lives, and its significance in healthcare is undeniably on the rise."
+    publishedDateTime: 2023-08-11T11:14:00Z
+    webUrl: "https://www.mid-day.com/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
+    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 74
+    images:
+      - url: "https://images.mid-day.com/images/images/2023/aug/Hidoc1108_d.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Harnessing artificial intelligence for better patient care"
     excerpt: "The integration of artificial intelligence (AI) provides one of the most promising—and fraught—advancements in the ever-evolving landscape of the health care sector. Electronic records let physicians access patient information more easily."
     publishedDateTime: 2023-08-10T14:32:00Z

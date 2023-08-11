@@ -25,105 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use AI to determine drivers health and mental state in self-driving cars"
-    excerpt: "Researchers at Western University are partnering with Mitacs Globalink to advance technology in self-driving cars by using artificial intelligence (AI)."
-    publishedDateTime: 2023-08-10T20:53:00Z
-    webUrl: "https://london.ctvnews.ca/researchers-use-ai-to-determine-drivers-health-and-mental-state-in-self-driving-cars-1.6514170"
-    ampWebUrl: "https://beta.ctvnews.ca/local/london/2023/8/10/1_6514170.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/london/2023/8/10/1_6514170.amp.html"
+  - title: "Consider Protecting Your Brands Early in the Era of Artificial Intelligence"
+    excerpt: "Artificial Intelligence (AI) is the latest emerging technology that is overtaking news headlines and transforming the way we live, learn, and work. The term generally refers to content created or produced by artificial intelligence algorithms, with chat ..."
+    publishedDateTime: 2023-08-08T15:21:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/consider-protecting-your-brands-early-3075175/"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 52
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 35
     images:
-      - url: "https://beta.ctvnews.ca/local/london/2023/8/10/1_6514170/_jcr_content/root/responsivegrid/image.coreimg.png"
-        width: 1020
-        height: 574
-        isCached: true
-  - title: "‘Do you need me to take over’: Passengers get stuck in a self-driving car"
-    excerpt: "A popular podcast duo confirmed this fear while documenting their adventure of getting stuck in a self-driving car."
-    publishedDateTime: 2023-08-11T01:54:00Z
-    webUrl: "https://www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/"
-    ampWebUrl: "https://www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 43
-    images:
-      - url: "https://uploads.dailydot.com/2023/08/stuck-on-self-driving-car.jpg?auto=compress&fm=pjpg"
-        width: 2000
-        height: 1000
-        isCached: true
-  - title: "Digital displays on the exteriors of self-driving cars could help cyclists stay safe in the future"
-    excerpt: "Digital displays on the exteriors of self-driving cars could help cyclists stay safe on the roads of the future, researchers say. Animated representations of virtual drivers, traffic-light-like projections on to the road or even emojis displayed on their ..."
-    publishedDateTime: 2023-08-09T15:40:00Z
-    webUrl: "https://techxplore.com/news/2023-08-digital-displays-exteriors-self-driving-cars.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-digital-displays-exteriors-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-digital-displays-exteriors-self-driving-cars.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 30
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/digital-displays-on-th.jpg"
-        width: 1280
-        height: 983
-        isCached: true
-  - title: "Cruise now testing self-driving cars in Atlanta"
-    excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."
-    publishedDateTime: 2023-08-08T21:39:00Z
-    webUrl: "https://www.ajc.com/news/atlanta-news/cruise-now-testing-self-driving-cars-in-atlanta/TDNR2DPDRVCNBOK2GVB67RNXPU/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 24
-    images:
-      - url: "https://www.ajc.com/resizer/cYnOP2YAm4f3Lr1PlZArsxWGoqI=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/BAIUNG3E35DOVCQPE4YI5RQ7U4.jpg"
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16142_4210.jpg"
         width: 1200
-        height: 630
+        height: 900
         isCached: true
-  - title: "Cruise now testing self-driving cars in Atlanta"
-    excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta. While Cruise intends to eventually operate a ride-hailing"
-    publishedDateTime: 2023-08-09T20:50:00Z
-    webUrl: "https://thebrunswicknews.com/news/business/cruise-now-testing-self-driving-cars-in-atlanta/article_91f6112d-1ac8-51f5-b3d8-8d8b2e7a3f53.html"
-    type: article
-    provider:
-      name: Brunswick News
-      domain: thebrunswicknews.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/f/9a/f9a05a43-2db5-5ef1-9219-133cee44a141/64d3fcb1534e4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
-    excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
-    publishedDateTime: 2023-08-11T01:44:00Z
-    webUrl: "https://www.wuwm.com/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
-    type: article
-    provider:
-      name: WUWM
-      domain: wuwm.com
-    quality: 18
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/a576e85/2147483647/strip/true/crop/4948x2598+0+319/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F08%2F10%2Fgettyimages-1390904872_custom-facb4d78b06ed88683d0ad1b438c70c0e9e87cdf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cruise now testing self-driving cars in Atlanta"
-    excerpt: "For the moment, there's still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."
-    publishedDateTime: 2023-08-10T19:36:00Z
-    webUrl: "https://techxplore.com/news/2023-08-cruise-self-driving-cars-atlanta.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
 
 secured: "v+HX6zKiC4W/qwp62gLhSvJaz4miqUhRSPmvetX8k8QpFyD5KgTrc8SItXaYvd/X0CSrEpNKlJ49Ox/TzZ7sktGbcqgXn9ocDC88bOCJ6v80D5lJlfGvzzjlDyhUiJRg34eC1BK2BmFdHMKIWSm/peIJejBgWpOtAS0RtmMBQ5L9V9bUnuJiipNSPcD1Zxu2UnAW3HbUMm9HqWbTPCXNKdsWxzUa0+4hrF38xRln74XiTL9e6NQ1yNon8bFlq7fDSUxkT+xujlXhN5bHl7n5lUus6jlZxqxO//nFWnzMHIAkiSA2dopiu1o4fT9HPBSIIfckbb0YDMDFK1ANDHcrA31sG47j+RK+8wAFcJGRnXikuRcXUN+JYVO22E4+qJiUq/SDbI6gbNDI7+CQoeQAdNjvBDGIA19fF56SxL9Fxl4/QIcGxotb3Nw9jAmspaI8PIdMavke5GQAe8y7sYuV0rkoQ0orTHTvkL3YGxOzOiMNLR7REkO25W/Oxc/qZNhH9tbmk9zwdyCcYT8uNzLdEg==;dNZbcUf4iB/DpckX3TNyTQ=="
 ---

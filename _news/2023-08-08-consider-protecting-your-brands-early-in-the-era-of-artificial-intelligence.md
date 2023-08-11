@@ -23,6 +23,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "FIU research: Protecting your self-driving car – and your privacy – from cyberhackers in the age of AI"
+    excerpt: "Imagine driving down the highway when suddenly your brakes slam, your engine turns off and your doors lock. A hacker has remotely taken control of your car.   Preventing this hypothetical scenario is a focus of automakers everywhere."
+    publishedDateTime: 2023-08-07T14:40:00Z
+    webUrl: "https://communitynewspapers.com/florida-international-university/fiu-research-protecting-your-self-driving-car-and-your-privacy-from-cyberhackers-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: Miami's Community Newspapers
+      domain: communitynewspapers.com
+    quality: 23
+    images:
+      - url: "https://communitynewspapers.com/wp-content/uploads/2023/08/ai-of-cars-square-image1.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+
 secured: "IRn4ozBKU/DcKcbgyM0KX1sL1RdAtD6Wv3vvBfb/S/iL1SHOqdhatYhtUpeLKrFt0MOgtD4+PZUwGycozfOVPve6kXClk+qqpvq0gxk/mwtIhPR7FsMo2mAWnzM+fcsBCxCdWX0yaVpSfSw6QboG9hDEaG70oaWg5p6alyfV0SE6k5xOza3MeuDpc/GtfpB7YJ/rvco0FJpfnZ++dzPV8lfDfDlHaPDejYyVBJPwQiwohPXGbRrmsDEDO0BGKMOduGrcfLLxi4JinDOB7GvmcxlPutlmzVbdJ7SlPMtxUZ04A6E1QBaHJ/8vAz0QnQVIVLe+XD9FVlEQ6Wa8xgmxf2x/oZC2oZaiPRMdaofACSk=;YFufSKtoN8QykfV++Geq5w=="
 ---
 

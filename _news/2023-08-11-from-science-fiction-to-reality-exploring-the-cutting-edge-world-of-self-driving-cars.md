@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/from-science-fiction-to-reality-exploring-
 webUrl: "https://techbullion.com/from-science-fiction-to-reality-exploring-the-cutting-edge-world-of-self-driving-cars/"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,89 @@ images:
     height: 400
     isCached: true
 
-secured: "2kOIeNg0VFfPBc4DUWWMtwV9HcUoLJ/TIKehacjoDZIy6gjnwkZumBabADHasqakplSPFMRtciBE2h9wpoxl1fx8rXpkO9Z1CTPbepGqR7Ou9HnIaLMQKH4ug+ZkxgEwf7JOTOVEFL0LS25grYV1Aqyzz++l9faboWFIx9Q0NLtSIA15+WcoEX1nGbBd33deWGSlpsVOYvZzjOLppjJW3bdhjl7omsMqjdbWWYiMI3zJeJVtri3dhq+If0/bp6kY10fVbvAQL/95uNhxXV+qKsVal1UDXBWlwZjDaZt75S3ZLlaG9eeP2BX82dOuzhgV+9OWu+AgiMICcW9vur/m8Zd0W6QmNyQU62VggjXlPgs=;jScE8aCUDD/BPa3quj1YMA=="
+related:
+  - title: "Exploring the Intriguing Robotics Technology Behind Self-Driving Cars"
+    excerpt: "Welcome to the forefront of transportation innovation! Self-driving cars have swiftly become a captivating marvel of our era, revolutionizing our perception of commuting and road navigation. But have you ever pondered the technology powering their sleek exteriors?"
+    publishedDateTime: 2023-08-11T08:52:00Z
+    webUrl: "https://techbullion.com/exploring-the-intriguing-robotics-technology-behind-self-driving-cars/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 56
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-11T095151.549.png"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Researchers use AI to determine drivers health and mental state in self-driving cars"
+    excerpt: "Researchers at Western University are partnering with Mitacs Globalink to advance technology in self-driving cars by using artificial intelligence (AI)."
+    publishedDateTime: 2023-08-10T20:53:00Z
+    webUrl: "https://london.ctvnews.ca/researchers-use-ai-to-determine-drivers-health-and-mental-state-in-self-driving-cars-1.6514170"
+    ampWebUrl: "https://beta.ctvnews.ca/local/london/2023/8/10/1_6514170.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/london/2023/8/10/1_6514170.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 52
+    images:
+      - url: "https://beta.ctvnews.ca/local/london/2023/8/10/1_6514170/_jcr_content/root/responsivegrid/image.coreimg.png"
+        width: 1020
+        height: 574
+        isCached: true
+  - title: "Cruise now testing self-driving cars in Atlanta"
+    excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."
+    publishedDateTime: 2023-08-08T21:39:00Z
+    webUrl: "https://www.ajc.com/news/atlanta-news/cruise-now-testing-self-driving-cars-in-atlanta/TDNR2DPDRVCNBOK2GVB67RNXPU/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 24
+    images:
+      - url: "https://www.ajc.com/resizer/cYnOP2YAm4f3Lr1PlZArsxWGoqI=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/BAIUNG3E35DOVCQPE4YI5RQ7U4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cruise now testing self-driving cars in Atlanta"
+    excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta. While Cruise intends to eventually operate a ride-hailing"
+    publishedDateTime: 2023-08-09T20:50:00Z
+    webUrl: "https://thebrunswicknews.com/news/business/cruise-now-testing-self-driving-cars-in-atlanta/article_91f6112d-1ac8-51f5-b3d8-8d8b2e7a3f53.html"
+    type: article
+    provider:
+      name: Brunswick News
+      domain: thebrunswicknews.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/f/9a/f9a05a43-2db5-5ef1-9219-133cee44a141/64d3fcb1534e4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "A New Era in Environmental Monitoring: Uniting Satellite Data Analytics and Artificial Intelligence"
+    excerpt: "Welcome to a pioneering era in environmental monitoring, where state-of-the-art technology converges with our pressing demand for sustainable solutions. Today, we delve into a groundbreaking innovation that harnesses the potential of satellite data analytics empowered by artificial intelligence (AI)."
+    publishedDateTime: 2023-08-11T08:10:00Z
+    webUrl: "https://techbullion.com/a-new-era-in-environmental-monitoring-uniting-satellite-data-analytics-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 23
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-11T090907.168.png"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Cruise now testing self-driving cars in Atlanta"
+    excerpt: "For the moment, there's still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."
+    publishedDateTime: 2023-08-10T19:36:00Z
+    webUrl: "https://techxplore.com/news/2023-08-cruise-self-driving-cars-atlanta.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 4
+
+secured: "2ll1X1/YLbjtcOemU5ldk++6AZVObkxUChK+xUme0JCx71MP6LgimjF/z3CNPjNOLtfjZu8XBI0S4S1fmnU09p/YGLTFYFtl1+bWaVKgtCN0TsNLqMYlPSVtrbRvdNbYOIyGexjDWH7BJltuZsA1h7RJF5q6sDuSpuVmFG1QtYi8dvHQJFPhADzF7SG3ytlO6a7kZVGpzzpHu9neZBoc+pUbsoL5N6OKiAJBEi4QIxkIAfRwU7tbljOVVAyPmYueKG1eluGyDWPiayWfmTWRJRtt78yUCbze1GU7p3cqCS3EVjQe7g9X1ZHF2fVAT56Rxs4c1t3aBuOAXCMuiZz2+e2kOpVJHFybtDn1luY+mS7t436du3/2ly5qdig5pxCGlihtkZLWMwhL6L++16tP+Mmh+BHuELqDIbEUn+wbyx3YbjUhVagyUOeRJclQP1nD+6vjLPaaEHWadtfHJbQxuPmxNsUUkas/4K7o550lA9YTEDhjoQgFVCJau6/T/WcT8LIJU5cmLmj4brOXdjSsuA==;8bXw+TSmsl3ITqG4HqhoJQ=="
 ---
 

@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "A New Era in Environmental Monitoring: Uniting Satellite Data Analytics and Artificial Intelligence"
-    excerpt: "Welcome to a pioneering era in environmental monitoring, where state-of-the-art technology converges with our pressing demand for sustainable solutions. Today, we delve into a groundbreaking innovation that harnesses the potential of satellite data analytics empowered by artificial intelligence (AI)."
-    publishedDateTime: 2023-08-11T08:10:00Z
-    webUrl: "https://techbullion.com/a-new-era-in-environmental-monitoring-uniting-satellite-data-analytics-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 23
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-11T090907.168.png"
-        width: 800
-        height: 400
-        isCached: true
   - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
     excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Martin Klein has been named vice president of Analytics and Artificial Intelligence (AI). Klein returns to ECS after having previously served as a program manager,"
     publishedDateTime: 2023-08-10T11:20:00Z
@@ -80,6 +66,6 @@ related:
       domain: dqindia.com
     quality: 3
 
-secured: "6svqf8X0j5i7zsYcP71CZnYcW+Y2Kzqa3godc5+dNpyerxNbWhjbY0cgV0vEpyFZEMh0x9izmMv/Fj++ADiCm/GtOcrqGdL/fD4Mxo6Ayv1F3LqvTxLexXdhprQHMQa1Niewecarxn698R2MLUTqK028pyASjcnjTB/MJZ/3lwMWYju2CIfOoaq3geIQO2DXFlhEmgmkH8B7AtNxOZP6kLASlzKPNYj/NQvpFWfytJWFAb0QVdfOX/s8bs2mm/b0G5q7Vhnur1R7U4DB4kc1qbXdnaePf/JqEZh8C8Iqm2z5AcEQWABfmb8L6yqkWY9pl525cnF0yI21QGPgWISo/Yvl3nFViWgJp5x4kBqJMuw=;Nx4z8kn1Iw5sFWvTv1JYgA=="
+secured: "DHt6lMffvT0vFJucp5dFLWWNEHPOkYm1c80ukv7DxSMzM/1eZClq4mbtR0i5Cr1C2pCDyQ7zwTCtHW0ndmTC0JUumCnqvx2Zh9Dt9HRVHig3YWHDiLDg+3C2iJC4ackhNQRODhrUx9tDl0w8n4xAU3+mbZXMFWiXAEOvcIDt4X10rsgIN5IUKjnG0C6M1/w+JcpB26A4ty+GMstcGxXjBKecILirmaU1if8cgxiRkTmTyiJwlUQoQy5AEjh149qs5FWezchxzGnTvsPSzbezGV+6cJspqco48/sY9+3OIgNgTiNlz296hyP7OupatuWs4NQfEHFOIY0dVvUNXoawSpiK/DcrpahGiK1KM4JKZQ59NOGT031/bKML+XkT2EZf5Wt5DsrM3AYvfAYXhl323SchYwDo+XWwnIGKSIx3GPmGv4mjVUAbz0Nb1sHpDGfLIQL9kjxQIkiqgSZPh2+amlgG1YhMtpizqpoOoEhITWKnY6iB73j/7ekvOgjTcj07VMA+qpLhhH9E+2gvplk2Ug==;o1kRBi/VyPzBNNdweqnwgw=="
 ---
 

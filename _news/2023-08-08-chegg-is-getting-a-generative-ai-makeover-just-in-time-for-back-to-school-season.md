@@ -122,6 +122,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Generative AI Is Not A Tool; It's An Employee"
+    excerpt: "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team."
+    publishedDateTime: 2023-08-11T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d541f1b585aa1bcfb1ea3f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 608
+        isCached: true
   - title: "Deploy thousands of model ensembles with Amazon SageMaker multi-model endpoints on GPU to minimize your hosting costs"
     excerpt: "Artificial intelligence (AI) adoption is accelerating across industries and use cases. Recent scientific breakthroughs in deep learning (DL), large language models (LLMs), and generative AI is allowing customers to use advanced state-of-the-art solutions with almost human-like performance. These complex"
     publishedDateTime: 2023-08-08T14:50:24Z
@@ -180,20 +196,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Don’t quit your day job: Generative AI and the end of programming"
-    excerpt: "AI is something to be learned, tested and incorporated into practices so programmers can focus on understanding and solving problems."
-    publishedDateTime: 2023-08-06T17:10:00Z
-    webUrl: "https://venturebeat.com/ai/dont-quit-your-day-job-generative-ai-and-the-end-of-programming/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_the_end_of_programming._colorful_futuristic_tech_3d6db463-375e-4d84-9324-2b045c20313a.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Gboard could soon let you use generative AI for proofreading and emojis"
     excerpt: "The latest Gboard beta uses generative AI for features such as proofreading, creating emoji stickers, and tone suggestions. Read on for more!"
     publishedDateTime: 2023-08-10T14:13:00Z
@@ -237,6 +239,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Tackling Healthcare’s Biggest Burdens with Generative AI"
+    excerpt: "Spread the loveIn recent years, the healthcare industry has faced numerous challenges. From managing the overwhelming patient data to combating the increasing prevalence of chronic diseases, these burdens have put immense pressure on medical professionals and healthcare systems."
+    publishedDateTime: 2023-08-11T11:25:00Z
+    webUrl: "https://www.thetechedvocate.org/tackling-healthcares-biggest-burdens-with-generative-ai/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 54
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/07/laundry-chart-1-1024x861-1-660x400.jpg"
+        width: 660
+        height: 400
         isCached: true
   - title: "Legions of DEF CON hackers will attack generative AI models"
     excerpt: "At the 31st annual DEF CON this weekend, thousands of hackers will join the largest red teaming exercise ever for a group of AI models."

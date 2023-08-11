@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Introducing Your New Coworker: AI"
+    excerpt: "Workers in a variety of fields have witnessed the dawn of AI with understandable suspicion. Should I be worried? Will it take my job? While concern is warranted, it can still help get stuff done. (Sou"
+    publishedDateTime: 2023-08-11T11:03:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2023-08-11/introducing-your-new-coworker-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "The impact of artificial intelligence on the work force"
     excerpt: "Artificial intelligence is already having an impact on the labor force, and several indicators show more drastic changes could be ahead."
     publishedDateTime: 2023-08-08T12:53:00Z

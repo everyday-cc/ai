@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-can-multimo
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/lite/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: The Financial Express
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why Healthcare Needs Multimodal AI to Aid Informed Decisions"
+    excerpt: "Unlike conventional AI, which relies on singular inputs, Multimodal AI processes diverse data – from medical images to clinical notes."
+    publishedDateTime: 2023-08-11T09:57:00Z
+    webUrl: "https://www.techopedia.com/leveraging-multimodal-ai-for-enhanced-healthcare-decision-making"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 54
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/ipad_screen_with_pie_charts_01.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "SDSC Explores Deep Learning Multimodal Models to Enhance Early Fire Alerts"
     excerpt: "Researchers at the San Diego Supercomputer Center (SDSC) at UC San Diego have developed new deep learning models to continue improving"
     publishedDateTime: 2023-08-09T19:04:00Z

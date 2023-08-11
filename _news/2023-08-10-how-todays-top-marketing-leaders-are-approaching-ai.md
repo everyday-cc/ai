@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/"
 type: article
 quality: 106
-heat: 246
+heat: 236
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "3 Millionaire-Making AI Stocks That Are Flying Under the Radar"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks have exploded to the upside in recent months. It isn’t too"
-    publishedDateTime: 2023-08-06T18:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-millionaire-making-ai-stocks-that-are-flying-under-the-radar-1032520445"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
     excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
     publishedDateTime: 2023-08-08T11:33:00Z

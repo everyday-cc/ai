@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/08/230809164724.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/08/230809164724.htm"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Science Daily
@@ -38,6 +38,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Reversing Alzheimer’s: Stem Cell Therapy Shows Promise"
+    excerpt: "A study from UC San Diego indicates that transplants of hematopoietic stem cells can shield mice with Alzheimer's from memory decline, neuroinflammation, and accumulation of β-amyloid. In the continuous quest to find a cure for Alzheimer’s disease,"
+    publishedDateTime: 2023-08-11T10:32:00Z
+    webUrl: "https://scitechdaily.com/reversing-alzheimers-stem-cell-therapy-shows-promise/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 21
 
 secured: "otUgO578p4FX/bpC3sHEZ9bFOw6UUpUpwG2iHKuqjM/TbkO0MRMBcKjDX1PeECrGj/PtjQ0do1IUPhOFulMPyDUUz29mMl9LlGWDqtZkKgmGXTFPzCyqzQqWASyDO2IWKD/LdR/YUtypwqSoaSQY4iowQU6fhuVsBJ7xKtivlub07DzqbmcYpDjhT7N2UtNP66CyebRMXPHSUNKvB9ZdXLoJSRwSCTv42ShjLX9CuN1hla7E6PFUQiQM9DCtLIK8YCAFxreblo7KaBDuzz+L6v2q2fBKu6Gp5tMA4YjpRLmSGFfLMPTvqJ25a+zxaDIS3N+FvAf8hYdcQBZmMJUBJXhpef/vvKn72pP6IsYGiXU=;iI1TDpzD6/I88MaNSw7ghg=="
 ---

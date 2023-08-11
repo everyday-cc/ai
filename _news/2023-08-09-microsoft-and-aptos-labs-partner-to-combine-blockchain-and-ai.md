@@ -179,6 +179,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Microsoft Azure Large Instances to help healthcare providers manage EHRs"
+    excerpt: "Microsoft Azure Large Instances is helping healthcare providers to manage large electronic health record (EHR) database loads using public cloud-hosted infrastructure. Azure Large Instances leverages up to 50 million ‘database accesses’ per second,"
+    publishedDateTime: 2023-08-11T10:54:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsoft-azure-large-instances-to-help-healthcare-providers-manage-ehrs"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 70
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4540/Azure-Large-Instances_web.jpg"
+        width: 975
+        height: 548
+        isCached: true
   - title: "7 ways generative AI is bringing bionic business to manufacturing"
     excerpt: "In partnership with several manufacturing companies, Microsoft aims to enable seamless connectivity, data analysis, and AI-driven insights across the production process. By leveraging Azure's capabilities, manufacturers can optimize production operations, improve equipment maintenance, and enhance product"
     publishedDateTime: 2023-08-08T15:00:00Z

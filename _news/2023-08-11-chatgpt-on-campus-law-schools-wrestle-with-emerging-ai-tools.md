@@ -181,6 +181,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Is ChatGPT running out of steam? AI chatbot's performance raises burnout concerns"
+    excerpt: "Benzinga discusses a recent Stanford University study regarding the performance of ChatGPT over several months."
+    publishedDateTime: 2023-08-11T08:20:00Z
+    webUrl: "https://kvia.com/news/2023/08/11/is-chatgpt-running-out-of-steam-ai-chatbots-performance-raises-burnout-concerns/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 34
+    images:
+      - url: "https://kvia.b-cdn.net/2023/08/smartphone.png"
+        width: 1080
+        height: 770
+        isCached: true
   - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
     excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
     publishedDateTime: 2023-08-07T16:48:00Z
@@ -232,6 +246,6 @@ related:
       domain: virginiabusiness.com
     quality: 4
 
-secured: "hv+jmOL/GG17r/odAe5UnBLLuppCv19u5CK5c9ZlOiSQxJW0YxcXIVJkhaXDqP5RITCeHLghgVfboZxMw2CTiKQ+Ow0JyETrOy76A2D8FqAUBlMxPbo+d+48FKIwnpFnF5o621cTF84g/vEdCdqs+2YUrCdDhjnmsIVhgYI/NuDzXUg8I0PKQedqKpvHXLByFQAvMrvHyKTQTeZCXl3yT3zK2cK5yWPNMzruQ3X5/poK4DLlMd0iUHKlKi7MnV1azY/TVU75GxuAKIZam12kd2lgHbhGOCblnJj/8d2b/FC4EW31FZ+GciyV719PkspBedOWaGWKFgfqRuKe9caW46BXkcmEhD0QrvZoH6be3qY=;SvX7J0CHiZPj+K5a6vRXig=="
+secured: "z62ZPTrB+ufwz/Sl5NpjRhkH7TWr3R4Li617REjOhJETPNCi9xOwF2HE5MGvZHKLbuMFHIlxl6RoyAa8yizedVKqXQxsbyhMmXqEl5ZSJReIzJnKv9wJNPB9Kcw4QiXua4PhWTd6qzEok69yJ3+JEh8rIYBOmoiyo+ZFKUw5LuRhPwq4TuQ5Dahxoohwi9b95xLQGhweLTGV5O6i3nP+Jcq+kxGqHYcCcCDshWMIaHzg7lSETaruxQ/A+2O7Ex6mNNlqoj6Ggp24v9baM5XpAW1923DMLv7jmLkTVPmajI3xLDmYyGIepLRbdfZTXaITFGYz37bSmx/3O0eoJJkIWa24BBh4D34jd5kUj48YKGX/lxcdLKTmEX91oJKgrZt0/rNTOSD2h6DkgOd3/QWW0xYVGkAJQ0ReFQddG1PTC6hhHi7TOWCjzzBE05wupWsmyRoZJs8m5K+wMRDGAn8tmxf0znyLNyv+GjGRtaaPv+PIf04K/qBr57NXg0MlLMMJo5TaWd8MhsO5zRpzpF2nmA==;5hItDIaM5Nz1Cl3ePquBlw=="
 ---
 

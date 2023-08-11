@@ -85,20 +85,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Saudi Arabia's Ai Powerhouse, Mozn, Recognized As One Of The World's Top Fintechs For 2023"
-    excerpt: "Mozn was chosen as a Top Global FinTech Company in the Digital Business Solution category from 1500 global competitors as per the report by Stati"
-    publishedDateTime: 2023-08-06T17:06:00Z
-    webUrl: "https://menafn.com/1106793115/Saudi-Arabias-Ai-Powerhouse-Mozn-Recognized-As-One-Of-The-Worlds-Top-Fintechs-For-2023"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/06/M_a7345image_story.jpg"
-        width: 1368
-        height: 912
-        isCached: true
   - title: "Lytus intends to invest $50 million in the fintech business"
     excerpt: "Lytus intends to invest $50 million in the fintech business - Nasdaq-listed Lytus Technologies Holdings, a leading global technology-driven services firm, plans to invest"
     publishedDateTime: 2023-08-09T09:44:00Z

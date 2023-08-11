@@ -3,8 +3,8 @@ category: news
 title: "Health Care’s AI Embrace Boosts Workforce Despite Privacy Risks"
 excerpt: "Health providers using artificial intelligence tools to automate clinical visit notes can reduce their administrative burdens and staffing shortages, but they do so at the risk of violating health privacy laws."
 publishedDateTime: 2023-08-09T09:07:00Z
-originalUrl: "https://news.bloomberglaw.com/business-and-practice/health-cares-ai-embrace-boosts-workforce-despite-privacy-risks"
-webUrl: "https://news.bloomberglaw.com/business-and-practice/health-cares-ai-embrace-boosts-workforce-despite-privacy-risks"
+originalUrl: "https://news.bloomberglaw.com/daily-labor-report/health-cares-ai-embrace-boosts-workforce-despite-privacy-risks"
+webUrl: "https://news.bloomberglaw.com/daily-labor-report/health-cares-ai-embrace-boosts-workforce-despite-privacy-risks"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 740
     isCached: true
 
-secured: "6ICkJqj0ZzoLAqoQlo35H1YgUCWP50g9rGC061OFFl4pCMk0GbWf814IbjueqPLd2v4EdWLLcrKFDwi/hManCdfiPuKtogOsTPkPsJhzBoKriW6OVj56Y3yS2/nWA9tioYvNN6/Pe/cIMaBrgaEniBOCvr4E8Rn0ylOyCw/LLvzdh9uQuHjr9hj4nP/8fza92IiLNEkZ4FhUvRQXTa33bVPq5hXunFS6ujUekbZewu/6jOdaDMYfpK7Ow1suAPvjhjr/MoIhkJjDlj965GQpQi2jVLdP+lC1VfUmlcBJHp4j6oJ/BJ/fV88VyNSgxnMVu4s6pNcWlbAhqhNS2XrRph92vY7FV1wle20KZrGMsCc930jM7DbpI9AmfIAe/QpuHgB7MavuAfpAEnZVv3gUdqDYrxrd3KSCtlwsJf2OJ62gpfh4Kyhof6YSbLsAe29QfdPGNe2aEv1ykeOtrOgP4OopnXlOFApOlXugfNXHKNGur7/Q/v6QW9shmSzUSbTt2YXTLjOA19iu5U3+geVywg==;bQlnIp71/rbtljGUtB8Tyg=="
+secured: "oL1/cmtbJDyX2h81dyjL+nh039wxmKJ1lamN6fhygmc8P8UTmk2hyI02TMdO3Va8TT8aHFddeVU7Tud5aIzrj9boPUfDyg1odOpddxjjwO7EG4+KkEJuE8cUPJVMyawnxFTxxQRWhKpG0nVGEa6HxOmp+eW2Q+xAt+YKPdm4P/Y/QigLBZZx1eiQKhiR6+HVoeib0V1VuaLhlaXo9rLIQlMPOmxVBw0fxKVSqpZOysccx9EjF+KBRND5CQEv+flPfpKi1v+Qger4ULSv/JNEvYkXX8/mAyeyElLdx/4nvuBS+w7Ml/pPV+9HnZumHrNHCS6cKESGXlX/WloXel0oPMnHE6Zk8+Gab+dnCeDL0Os=;cgZgNC1ygnrGxtFkn+kZYg=="
 ---
 

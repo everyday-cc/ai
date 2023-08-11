@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Introducing Your New Coworker: AI"
+    excerpt: "Workers in a variety of fields have witnessed the dawn of AI with understandable suspicion. Should I be worried? Will it take my job? While concern is warranted, it can still help get stuff done. (Sou"
+    publishedDateTime: 2023-08-11T11:03:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2023-08-11/introducing-your-new-coworker-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "How artificial intelligence will impact the workplace and schools"
     excerpt: "The biggest thing about artificial intelligence is it is going to start taking away jobs in the upper middle and upper class such as legal jobs, content creation, administrative assistant jobs, and secretary jobs. When it comes to schools we need to do a better job of preparing our kids for the workforce with artificial intelligence."
     publishedDateTime: 2023-08-08T08:03:00Z

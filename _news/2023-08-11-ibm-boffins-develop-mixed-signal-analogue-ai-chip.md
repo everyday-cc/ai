@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/57401-ibm-boffins-develop-mixed-s
 webUrl: "https://www.fudzilla.com/news/ai/57401-ibm-boffins-develop-mixed-signal-analogue-ai-chip"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 620
     height: 491
     isCached: true
+
+related:
+  - title: "IBM’s analogue AI chip achieves 400Gop/s/mm2"
+    excerpt: "IBM has revealed an analogue in-memory IC for implementing neural networks. The device stores weights locally as analogue levels as conductance in"
+    publishedDateTime: 2023-08-11T11:08:00Z
+    webUrl: "https://www.electronicsweekly.com/news/research-news/ibms-analogue-ai-chip-achieves-400gop-s-mm2-2023-08/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 54
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2023/08/11114946/IBM-proposed-analogue-AI-chip.jpg"
+        width: 652
+        height: 476
+        isCached: true
 
 secured: "tnO9X/1QTfoo0BNvjE/vRMle+E2cf5pkRxgyD2TitmWOAlU2lGnQEsIcbrPjeUbh5ChL99GdI58RhsngCo1lfODuen6flh7A5fFO3cjsXv1u98eJBlGaw7rxVSO5p4wT2KX+rkn4CbqO1hMFDn0kWpI5dH8Id0rwLUYPNCOJHtm2Q8f/BCPs7OO0f4ywGAGPFxi02nfAuWWZaKyjxfokrekdfURY8VhEk40gBBSThTjjpsYlXOylxiHqNs8VvMotXhHNxL9Hoz29HC4Jh1Wv1pYhXoQRMRpE7zgEnJkTnQ0tmQ8ZZJWDp0uvzJlySPkgwIvKrEZvklANgq+z/+utL+6t0R4wB/RlWZa5tpLOzqY=;a/sm3p5QPDTgGWgPFInfYg=="
 ---

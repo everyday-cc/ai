@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -185,6 +185,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Joe-Cohen-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "Is ChatGPT running out of steam? AI chatbot's performance raises burnout concerns"
+    excerpt: "Benzinga discusses a recent Stanford University study regarding the performance of ChatGPT over several months."
+    publishedDateTime: 2023-08-11T08:20:00Z
+    webUrl: "https://kvia.com/news/2023/08/11/is-chatgpt-running-out-of-steam-ai-chatbots-performance-raises-burnout-concerns/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 34
+    images:
+      - url: "https://kvia.b-cdn.net/2023/08/smartphone.png"
+        width: 1080
+        height: 770
         isCached: true
   - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
     excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."

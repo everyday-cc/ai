@@ -47,6 +47,17 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Indigenous voice to parliament: Peter Dutton says his government would ‘fight’ for constitutional recognition"
+    excerpt: "Peter Dutton has committed the Coalition to “fighting for” constitutional recognition of Indigenous Australians, as he dismissed Anthony Albanese’s threat of Australia losing a once-in-a-generation chance for recognition as “arrogant and dismissive”."
+    publishedDateTime: 2023-08-10T16:33:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-peter-dutton-says-his-government-would-fight-for-constitutional-recognition/news-story/c579b0043e418059ac048974277d8dd8"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-peter-dutton-says-his-government-would-fight-for-constitutional-recognition/news-story/c579b0043e418059ac048974277d8dd8?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-peter-dutton-says-his-government-would-fight-for-constitutional-recognition/news-story/c579b0043e418059ac048974277d8dd8?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 5
 
 secured: "+DS3krz1dEDpb9XGMvV6XQHd1+IegTVitfvlluxs2jB6Fn2PFCfjwBcNCUtm4cT+dFMX1ySKu2Ae4KO90TronubAmNHK2+wbipwUuALxCe7W1svC2sJIoxTNdrpZm4Pt8Iv23s7tqAoFKDb03cqrwXzPVEdE17U9HQJMRk2N0UpKhzn7OG3OiKGKazvrQ/4DG7qMJ8pyw4rJlMRwEJEcsTCmA88h9YO1MxLGAB9+P8jnRfSy6CeeXjP2/ERwM2V7RyJ475fVkrgby11KG/XnGu7zh72lX1b405Q6UJ9YCYL2Yntovr4em4BqwcqW7SeNi6ar5/Hf+40vx0O/Lok/wDcA8miMQ6WuV5EiZ67o9Dc=;WZwExikymJB0ZmNRpXekgQ=="
 ---

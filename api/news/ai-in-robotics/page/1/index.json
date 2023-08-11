@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-11-exploring-the-intriguing-robotics-technology-behind-self-driving-cars.md",
+      "title": "Exploring the Intriguing Robotics Technology Behind Self-Driving Cars",
+      "excerpt": "Welcome to the forefront of transportation innovation! Self-driving cars have swiftly become a captivating marvel of our era, revolutionizing our perception of commuting and road navigation. But have you ever pondered the technology powering their sleek exteriors?",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/exploring-the-intriguing-robotics-technology-behind-self-driving-cars/",
+      "originalUrl": "https://techbullion.com/exploring-the-intriguing-robotics-technology-behind-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-11T095151.549.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-ubc-students-bring-mario-kart-to-life-with-robotics-competition.md",
       "title": "UBC students bring Mario Kart to life with robotics competition",
       "excerpt": "Students in UBC's engineering physics program brought Mario Kart to life Thursday, creating autonomous robots to race around a track.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://bc.ctvnews.ca/ubc-students-bring-mario-kart-to-life-with-robotics-competition-1.6514630",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1295,50 +1339,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-a-computer-visionbased-teleoperation-system-that-can-be-applied-to-different-robots.md",
-      "title": "A computer vision–based teleoperation system that can be applied to different robots",
-      "excerpt": "Recent advances in the fields of robotics and artificial intelligence (AI) have opened exciting new avenues for teleoperation, the remote control of robots to complete tasks in a distant location. This could,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-08-visionbased-teleoperation-robots.html",
-      "originalUrl": "https://techxplore.com/news/2023-08-visionbased-teleoperation-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/a-computer-vision-base.jpg",
-          "width": 1999,
-          "height": 1159,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-08-visionbased-teleoperation-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-visionbased-teleoperation-robots.amp",
-      "publishedDateTime": "2023-08-01T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

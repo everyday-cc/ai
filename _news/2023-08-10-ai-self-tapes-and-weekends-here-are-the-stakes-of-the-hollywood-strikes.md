@@ -23,6 +23,17 @@ images:
     height: 560
     isCached: true
 
+related:
+  - title: "ZOO Digital CEO on How Hollywood Strikes and AI Will Impact Media Localization"
+    excerpt: "Within media localization, subtitling grew by 15% and dubbing by 73%. ZOO’s CFO, Phillip Blundell, told Slator that demand for dubbing grew strongly primarily because there was an increase in new productions in FY23 compared to FY22 (the early part of which continued to be impacted by Covid)."
+    publishedDateTime: 2023-08-11T07:30:00Z
+    webUrl: "https://slator.com/zoo-digital-ceo-how-hollywood-strikes-ai-will-impact-media-localization/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 15
+
 secured: "wHDRGHdxuQ+R72uxxe7CzgxaV8ntlM+6o08vT4XB7wbqaQyV0RF0ct2ab9mHOqociuuw4W5k9kVlG+bJeoby+LGaKNZREaZzXpdU9wMHdiWXcF7/Gb2AoH4Pzh8TBIkBuYakSohbqdEowe1aunv9fD2gWcEwJK/Mo7lTFGrvAhpZ67XvpqayeB9xsad5NZbhafCEvWC2DccSNV5Rgg6j/04HnhQRxaqI14NDlzs9saXSQfX+47UvftTqqdNjaM8tMrnFxeAYo3RJkaOJjqrs4GXYE2+2bJA0PIFgCL7NHY4mG3mxyAd7OyH1JmOgI4nwofue/JS9UJHobz9wzF0O4mkjybOi9PL0Ppjy7SxRvR0=;dcS15+7R4vyGI9ZIylsNlA=="
 ---
 
