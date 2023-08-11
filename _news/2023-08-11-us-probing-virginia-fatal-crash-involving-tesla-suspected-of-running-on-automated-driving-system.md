@@ -1,22 +1,28 @@
 ---
 category: news
 title: "US probing Virginia fatal crash involving Tesla suspected of running on automated driving system"
-excerpt: "U.S. safety regulators have sent a team to investigate a fatal crash in Virginia involving a Tesla suspected of running on a partially automated driving system."
-publishedDateTime: 2023-08-10T19:11:00Z
-originalUrl: "https://www.newsday.com/business/us-probing-virginia-fatal-crash-involving-tesla-suspected-of-running-on-automated-driving-system-c7plrttx"
-webUrl: "https://www.newsday.com/business/us-probing-virginia-fatal-crash-involving-tesla-suspected-of-running-on-automated-driving-system-c7plrttx"
+excerpt: "U.S. auto safety regulators have sent a team to investigate a fatal crash in Virginia involving a Tesla suspected of running on a partially automated driving system."
+publishedDateTime: 2023-08-11T09:38:00Z
+originalUrl: "https://wtop.com/virginia/2023/08/us-probing-virginia-fatal-crash-involving-tesla-suspected-of-running-on-automated-driving-system/"
+webUrl: "https://wtop.com/virginia/2023/08/us-probing-virginia-fatal-crash-involving-tesla-suspected-of-running-on-automated-driving-system/"
 type: article
-quality: 6
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Newsday
-  domain: newsday.com
+  name: WTOP News
+  domain: wtop.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://wtop.com/wp-content/uploads/2023/08/Tesla_CFO_Leaves_79349-scaled.jpg"
+    width: 2560
+    height: 1706
+    isCached: true
 
 related:
   - title: "Tesla Under Investigation By US Regulators After Fatal Virginia Crash Linked To Automated Driving"
@@ -36,6 +42,6 @@ related:
         height: 682
         isCached: true
 
-secured: "5MzcO3esAqBfODoN6Oojwf5tDhTHZ8b6fXN6ZFlOOAf2845dOsqyUpjmSyUF+25hihfgunMAFYEogbWlLxNS1Dg+WfBaXf++c1IdFo+0AT+FIkA5FuS3Qz2K/wlYPViAH5tezW4xuoB64gE51JRTiZENUbYY4VURFh6dfBpPjV+7N1wki35ziub6n3gVjHr50PvUEuniuyQ6D0vSN3VVYWmX8qKlHf/ATaQYkuB7mrvMhkuOX4pfGM6Dgfh+0AdjVnz4EXJYoPAFQJec9o9YV4rRZs4m/I6r1UO/53yTe0tzOMu3h/JeXFIeL0dWffHaJ2Wxd23/9n3G5DUawZ0SP9J0bxI8w3hJtE80jt3M2ynaftWdCwLJB8CHG6Hc6A5OzsR91qiFcKWH+gB4GYlAgm3/CZfHYork/nI2CMRhEDVEncPaNYvaWZO8fSbsVAstVCtK1HdfoF256eR3k12Cf5RrC33BJDqxLxNdhhUCN8hFQAbNufWysZZQ4j65HgAV6+cMsZlNKLdzNcWSmA0nSA==;pLGO4evUD0as22akrVNk/g=="
+secured: "e+1UgL/2M6b8LFQCt3+NykgmW7d6VBwMwUduRXkXpOIrH1cO1L++1dFY070r9npTC+HlQJma9wJRIPorOQ1iqTitnF5r7zmJKyzptCXFJ5aqWoTenlbWb8E2UpYetWcgrWJLeIS4dviYDNCJ4ig6d9ulU0i/tPdqnI+W+Hj7Oq0JAUt9z7+GIp1RTBaHmzJtwX+HYY3Loe1VrFdXH2XthS36HLK6PpyjNn4f1uPa7QNWDgcodhx+UcoSbtUvhboRmfXEvCPZOn8vUoSVX9ic5dvt6jqw4fouxyseV8tsQVA5brEVnT8WLXScGRhLNEIGnwmCVdF8CLxS8iNzq1C1iL1YXxG+l3mZHEyMyY1aOV0=;O8mVqNgyLO3okfuixtsPgA=="
 ---
 

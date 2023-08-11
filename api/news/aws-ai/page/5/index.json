@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-15-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report.md",
+      "title": "Amazon’s cloud unit AWS ‘considering’ AMD’s new MI300 AI chips: Report",
+      "excerpt": "While AWS has not made any public commitments to use AMD's new MI300 chips in its cloud services, Dave Brown, vice president of elastic compute cloud at Amazon, said AWS is considering them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/",
+      "originalUrl": "https://www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/06/aws-reuters.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/lite/",
+      "publishedDateTime": "2023-06-14T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker.md",
       "title": "How Forethought saves over 66% in costs for generative AI models using Amazon SageMaker",
       "excerpt": "This post is co-written with Jad Chamoun, Director of Engineering at Forethought Technologies, Inc. and Salina Wu, Senior ML Engineer at Forethought Technologies, Inc. Forethought&nbsp;is a leading generative AI suite for customer service. At the core of its suite is the innovative SupportGPT™ technology",
@@ -1336,40 +1379,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes.md",
-      "title": "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes",
-      "excerpt": "Automation Anywhere, the #1 leader in cloud-native intelligent automation, today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and generative AI innovations to market.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/06/9826879.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/06/9826879.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

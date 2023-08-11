@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/08/innocent-pr
 webUrl: "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Woman files lawsuit, claims 'faulty' DPD facial recognition hit prompted her false arrest"
-    excerpt: "Woman, who says she was arrested while she was pregnant, claims 'pattern of racial discrimination' in how DPD uses technology"
-    publishedDateTime: 2023-08-06T16:52:00Z
-    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2023/08/06/woman-files-lawsuit-claims-faulty-dpd-facial-recognition-hit-prompted-her-false-arrest/70523848007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 25
 
 secured: "XQ6NOyez29H/ARMkc/u0ancdivXf7Em3QrpjHXR0fZwQCGZhWDgJCszB+Cy0vYpf3WtRPqZWg0bAoPikLcaEP1NkSunCMr7pEiapVHqgy6cFPWZxfVHyj3ZFJ4fBR6hjcxtv0hsQMhKsuSkV+pbn5BdXVuaJoTB84fEBbxP+ucn4SvW7nrSYS8qHQ01+qyYyKeelcC+IUxnkJn9Xr9q+/jq9qIJeM6PiMca/kmOQRVecu4dlO5rAV+LcYMPecIiCs0pC9Dc/aHb1gDxrvsVn1vBph7K0q+1CXHUsFH0y9pmkQVrFWy5NMDIOOeVmRRdBoifQnCfhw3P+0zdq+BigLCK3wrNimKEX8BVilGHMw6oavybiOC/rWpZIpXyBWCTY+RweFNkbrBe6w/6C5Zt0fM72NpCk4Hwy08Jp/QNzHoEp8C7VsQDvtFGNXZqOs57gABoSrOCM6m1wvLquMTtELHXlxOusGuj8TWJSHovSHiv1GGLJeGwgHnO8+55/I7yHOi5gdRnVstcnoQwXMAeZXA==;XNhbhWJRrs2qLK7SZew0hA=="
 ---

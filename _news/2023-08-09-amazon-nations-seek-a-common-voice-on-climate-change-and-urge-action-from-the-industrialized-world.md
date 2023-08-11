@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Amazon nations seek common voice on climate change, urge developed world to help protect rainforest"
+    excerpt: "Leaders from South American nations that are home to the Amazon are challenging the developed world to do more to help stop massive destruction of the world’s largest rainforest"
+    publishedDateTime: 2023-08-08T22:06:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 45
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_4e68ebf7f6c719d779ed726cc4f0c5dc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Amazon nations seek common voice on climate change, urge action from industrialised world"
     excerpt: "Read more about Amazon nations seek common voice on climate change, urge action from industrialised world on Devdiscourse"
     publishedDateTime: 2023-08-09T05:54:00Z
@@ -79,15 +95,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Amazon nations seek common voice on climate change, urge developed world to help protect rainforest"
-    excerpt: "It’s been 14 years since the eight countries of the Amazon region convened in a summit of the Amazon Cooperation Treaty Organization."
-    publishedDateTime: 2023-08-09T00:57:00Z
-    webUrl: "https://apnews.com/article/belem-amazon-rainforest-summit-brazil-environment-crime-4e68ebf7f6c719d779ed726cc4f0c5dc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 5
 
 secured: "QNlABZVawBFeCjIrN2wKK4ch8EaCjspfT49xPAe1KJePjYlivIu0/jVrkN+fSUenQlQ9VESEzKv9ANzVm8M737XbMsYzqhTI9a53yS/xnKpqA4qbEv3d/Uc7b31dGBLJnSg4lzMPXfV8PWC9Tj/7ioAS3SnL6knVwIpzRp7clt8Vz54OhAXg605ubsby19EOfKf4yDXKihtpwPPkEj2tR+jUgfKtZ2T0Oii2ng5rIX5g6GpuHJ/24mx0xCwGbzz9mxXYDv7AIGPtbtHBsgCO58wMMYzSapSslv0QllquVFUzsyRT7HRbbbpiD6xoTZ0DmGT2tfNENBS/UEDDNUBWw/W/sPynqWgISaLqGFf4sEXy3k1nwlsEG4PYi08m0xoV+3KjLZeoqdshIaKa4rXkafqKlE4XfWiGkR+hxCAk87eJRsWQZjK1QAyzZtj6LLST+6/jkDGo5bubnlS8/jOAhatT9h3WrbD6rd1o2es0Ybp9iMBuUXYktim0W9VmtmoTNY4Yxfps0bDZkjTu3G4sXw==;cYjQ7GQrNXozsSfcIijifg=="
 ---

@@ -393,6 +393,15 @@ related:
         width: 1600
         height: 879
         isCached: true
+  - title: "Transform your business with Microsoft’s range of Data and AI solutions"
+    excerpt: "Microsoft offers a range of Data and AI solutions that can help businesses transform their data into insights and actions."
+    publishedDateTime: 2023-08-11T08:55:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/503964-transform-your-business-with-microsofts-range-of-data-and-ai-solutions.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 34
   - title: "Exela Technologies, Inc.: Exela Technologies Leverages Generative AI with Microsoft Azure OpenAI Service"
     excerpt: "Exela Technologies, Inc. (NASDAQ: XELA, XELAP), a leader in business processing automation (\"BPA\") today announced its collaboration with"
     publishedDateTime: 2023-08-10T13:07:00Z

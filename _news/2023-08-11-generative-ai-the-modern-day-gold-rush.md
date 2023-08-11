@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: A new Gold Rush for software engineering innovation"
-    excerpt: "Generative AI for the enterprise is a phenomenal opportunity for visionary founders to build the FAANG companies of tomorrow."
-    publishedDateTime: 2023-08-06T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-software-engineering-innovation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_gold_coming_out_of_a_computer._Colorful_futuristic_tech_307cbdc3-afba-4658-a4cc-48761ed98c3b.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Generation AI: Mickey Mouse catches the bug"
     excerpt: "From why Disney thinks AI can boost its movies and theme parks, to how singers might profit from fake music, these are the week's big stories from the AI revolution. Rachel Faber reports."
     publishedDateTime: 2023-08-09T21:21:00Z

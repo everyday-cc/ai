@@ -168,6 +168,20 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "ChatGPT on Campus: Law Schools Wrestle With Emerging AI Tools"
+    excerpt: "Law schools are weighing how to integrate rapidly improving artificial intelligence into the classroom as the legal industry grapples with the technology."
+    publishedDateTime: 2023-08-11T09:01:00Z
+    webUrl: "https://news.bloomberglaw.com/business-and-practice/chatgpt-on-campus-law-schools-wrestle-with-emerging-ai-tools"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 37
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/f37af37/2147483647/crop/5232x2017%2B10%2B182/resize/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F3e%2F6e%2Fc36187ce41b18908efd9bc651803%2Fgettyimages-150777874.jpg"
+        width: 1920
+        height: 740
+        isCached: true
   - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
     excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
     publishedDateTime: 2023-08-07T16:48:00Z

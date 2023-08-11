@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/gates-foundation-
 webUrl: "https://www.beckershospitalreview.com/innovation/gates-foundation-awards-5m-to-healthcare-ai-startups.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Becker's Hospital Review
@@ -38,6 +38,20 @@ related:
       - url: "https://149520306.v2.pressablecdn.com/wp-content/uploads/2023/02/Artificial-intelligence.jpg"
         width: 700
         height: 400
+        isCached: true
+  - title: "Four Nigerian projects win part of Gates Foundation $5m grant for AI solutions"
+    excerpt: "Four Nigerian projects have been selected as winners of the Bill and Melinda Gates Foundation's most recent AI solutions award."
+    publishedDateTime: 2023-08-11T08:56:00Z
+    webUrl: "https://www.thecable.ng/four-nigerian-projects-win-part-of-gates-foundation-5m-grant-for-ai-solutions"
+    type: article
+    provider:
+      name: TheCable
+      domain: thecable.ng
+    quality: 35
+    images:
+      - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2023/08/Bosun-Tijani-and-Bill-Gates.jpeg"
+        width: 2048
+        height: 1366
         isCached: true
 
 secured: "leV29iJlrBww82eyFNyOewZBWBkOrNG0wE7icJIMw0PygZHymt9leWB+DrJb12rtofcu2NXWbdrYduUmIb966P8bzsc0QCKzYjHQ6wHgv+uRrhMFM0b6KYrymSv9BgxzFQbK1TFW4hD1Vkz7PbWXvPa/DO+AGKhOdGkims2ksbF5titmIuUbxA8CeFFpjPP/PRxMFo5N4XEeLX/FzKpcSk7ls0tNZRi+CV4/RJOEaYgNKyE4+NdKhpZGUU1JsIgVwP5gF0D74/qNpFD897kGrU/NG6zEe4M4gBi7IWYtEG5B8t2CLa9aYpmEmYgt5WXTUOM5dxkpDWFB4fW79PlRumAWlRGEPM9Cv4OHpAO+abA=;qsJjWoJFcX6+uxHJ/wgOuQ=="

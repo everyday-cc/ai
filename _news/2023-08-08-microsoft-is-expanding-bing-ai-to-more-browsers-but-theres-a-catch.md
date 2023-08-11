@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-expanding-bing
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/"
 type: article
 quality: 104
-heat: 404
+heat: 414
 published: true
 
 provider:
@@ -389,6 +389,15 @@ related:
         width: 1600
         height: 879
         isCached: true
+  - title: "Transform your business with Microsoft’s range of Data and AI solutions"
+    excerpt: "Microsoft offers a range of Data and AI solutions that can help businesses transform their data into insights and actions."
+    publishedDateTime: 2023-08-11T08:55:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/503964-transform-your-business-with-microsofts-range-of-data-and-ai-solutions.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 34
   - title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
     excerpt: "\"Working together, we will combine our AI expertise to create AI-fueled offerings that will enable businesses to further automate and scale their processes and make informed decisions based on data-driven insights,"
     publishedDateTime: 2023-08-07T14:05:00Z

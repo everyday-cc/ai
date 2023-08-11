@@ -69,15 +69,15 @@ related:
         isCached: true
   - title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
     excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
-    publishedDateTime: 2023-08-08T21:11:00Z
-    webUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
-    ampWebUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+    publishedDateTime: 2023-08-08T19:10:00Z
+    webUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+    ampWebUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 68
+      name: MassLive
+      domain: masslive.com
+    quality: 66
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
         width: 1680
@@ -147,15 +147,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Eight Months Pregnant and Arrested After False Facial Recognition Match"
-    excerpt: "She is the first woman known to be wrongfully accused as a result of facial recognition technology. By Kashmir Hill Porcha Woodruff was getting her two daughters ready for school when six police ..."
-    publishedDateTime: 2023-08-06T16:21:00Z
-    webUrl: "https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
   - title: "Facial recognition software blasted by DPD board of commissioners after recent false arrest"
     excerpt: "A vote to ban facial recognition for the Detroit police failed tonight, which would have kept the department from using it for a year."
     publishedDateTime: 2023-08-11T03:15:00Z

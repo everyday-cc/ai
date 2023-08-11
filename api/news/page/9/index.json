@@ -2,6 +2,204 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-08-03-sanjeev-mansotra-on-revolutionizing-education-sector-of-africa-with-the-power-of-ai.md",
+      "title": "Sanjeev Mansotra on revolutionizing education sector of Africa with the power of AI",
+      "excerpt": "African education might undergo a revolution with the aid of artificial intelligence (AI), which can solve major problems and generate game-changing chances for growth and learning. A lack of finances,",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/ani-press-releases/sanjeev-mansotra-on-revolutionizing-education-sector-of-africa-with-the-power-of-ai/1699079/",
+      "originalUrl": "https://theprint.in/ani-press-releases/sanjeev-mansotra-on-revolutionizing-education-sector-of-africa-with-the-power-of-ai/1699079/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2023/08/ANI-20230803104707.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/ani-press-releases/sanjeev-mansotra-on-revolutionizing-education-sector-of-africa-with-the-power-of-ai/1699079/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/sanjeev-mansotra-on-revolutionizing-education-sector-of-africa-with-the-power-of-ai/1699079/?amp",
+      "publishedDateTime": "2023-08-03T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-biotech-companies-are-ripe-for-machine-learning-adoption.md",
+      "title": "Biotech Companies Are Ripe For Machine Learning Adoption",
+      "excerpt": "The ability for machine learning to study fundamental aspects of biotechnology data and bring to life new concepts is where its power and advantage sits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/biotech-companies-are-ripe-for-machine-learning-adoption/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/biotech-companies-are-ripe-for-machine-learning-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ca698bfa66b94eb249769f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/biotech-companies-are-ripe-for-machine-learning-adoption/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/biotech-companies-are-ripe-for-machine-learning-adoption/amp/",
+      "publishedDateTime": "2023-08-03T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-vsbltys-ai-technology-protects-one-of-americas-largest-synagogues.md",
+      "title": "VSBLTY'S AI TECHNOLOGY PROTECTS ONE OF AMERICA'S LARGEST SYNAGOGUES",
+      "excerpt": "Intelligent Perimeter Security Shield Deployed Around the SynagoguePHILADELPHIA, Aug. 3, 2023 /PRNewswire/ -- VSBLTY Groupe Technologies Corp.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-protects-one-of-america-s-largest-synagogues-1032512087",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-protects-one-of-america-s-largest-synagogues-1032512087",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg",
+          "width": 400,
+          "height": 283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence.md",
+      "title": "Eight MarTech Services To Prepare Your Company For Competition In The Age Of Artificial Intelligence",
+      "excerpt": "To be truly effective, MarTech must create memorable customer experiences that drive engagement and loyalty. MarTech experts can work closely with your in-house or agency experience designers to help, with assistance from AI, define your user personas, understand their needs and preferences and then deliver experiences of value—and even delight.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ca9c18a28ed4c8c9a5d57e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-08-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models.md",
       "title": "The Secret Sauce Of AI Companies: The Importance Of Human-Annotated Data In High-Performing Machine Learning Models",
       "excerpt": "A critical component in the data annotation process is quality assurance. Despite the advances in machine learning and AI, the human touch in reviewing and verifying data remains paramount. The complex nuances, context understanding and creative interpretations that human intelligence brings to the table can't be entirely replicated by machines.",
@@ -928,178 +1126,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-a-new-fund-for-women-creating-ai-startups-in-asia-pacific.md",
-      "title": "A new fund for women creating AI startups in Asia Pacific",
-      "excerpt": "The Google for Startups Women Founders Fund will provide equity-free funding and Google support to women-led AI startups in India, Japan and Korea.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-asia/new-ai-women-fund/",
-      "originalUrl": "https://blog.google/around-the-globe/google-asia/new-ai-women-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image1_RzbDKRC.width-1300.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/new-ai-women-fund/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/new-ai-women-fund/amp/",
-      "publishedDateTime": "2023-08-02T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-e-commerce-giant-reports-q2-earnings.md",
-      "title": "Artificial Intelligence, AWS: What Amazon Investors Are Watching For When E-Commerce Giant Reports Q2 Earnings",
-      "excerpt": "Investors and analysts are focusing on the company’s efforts in artificial intelligence (AI) in light of this year ... including Amazon Web Services (AWS), will come under close scrutiny after the print. AWS' growth rate — which contributed nearly ...",
-      "sourceUrl": null,
-      "webUrl": "https://uk.investing.com/news/stock-market-news/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-ecommerce-giant-reports-q2-earnings-3107664",
-      "originalUrl": "https://uk.investing.com/news/stock-market-news/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-ecommerce-giant-reports-q2-earnings-3107664",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/news/LYNXNPEC121BH_L.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.uk.investing.com/news/stock-market-news/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-ecommerce-giant-reports-q2-earnings-3107664?ampMode=1",
-      "cdnAmpWebUrl": "https://m-uk-investing-com.cdn.ampproject.org/c/s/m.uk.investing.com/news/stock-market-news/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-ecommerce-giant-reports-q2-earnings-3107664?ampMode=1",
-      "publishedDateTime": "2023-08-02T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-ai-can-detect-breast-cancer-as-well-as-radiologists-study-finds.md",
-      "title": "AI can detect breast cancer as well as radiologists, study finds",
-      "excerpt": "Artificial intelligence can detect breast ... need to be trained and tested more before they can be deployed in health-care settings. Still, the findings are “breathtaking,” wrote Nereo ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/2023/08/02/artificial-intelligence-breast-cancer-screening/",
-      "originalUrl": "https://www.washingtonpost.com/health/2023/08/02/artificial-intelligence-breast-cancer-screening/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2X6AMM5WNIJ2NURH3XPXFSZQDA.JPG&w=1440",
-          "width": 1440,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-artificial-intelligence-ai-robots-market-outlook-report-2023-2029-abb-yaskawa-kawasaki-robotics-x-herald.md",
-      "title": "Artificial Intelligence (Ai) Robots Market Outlook Report 2023-2029 Abb, Yaskawa, Kawasaki Robotics X Herald",
-      "excerpt": "artificial intelligence (ai) robots Analysis of Market 2023 is a comprehensive study accumulated to provide the latest information on acute market features. The report contains different market ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106772174/Artificial-Intelligence-Ai-Robots-Market-Outlook-Report-2023-2029-Abb-Yaskawa-Kawasaki-Robotics-X-Herald",
-      "originalUrl": "https://menafn.com/1106772174/Artificial-Intelligence-Ai-Robots-Market-Outlook-Report-2023-2029-Abb-Yaskawa-Kawasaki-Robotics-X-Herald",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

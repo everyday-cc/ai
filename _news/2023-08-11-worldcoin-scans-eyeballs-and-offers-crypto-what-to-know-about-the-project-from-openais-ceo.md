@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Worldcoin scans eyeballs and offers crypto. What to know about the project from OpenAI's CEO"
-excerpt: "Weeks after its international launch, Worldcoin is drawing the attention of privacy regulators around the world"
-publishedDateTime: 2023-08-11T06:21:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
-webUrl: "https://abcnews.go.com/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
+excerpt: "Weeks after its international launch, Worldcoin is drawing the attention of privacy regulators around the world, with the Kenya's government going so far as to shut down the service indefinitely. The international ID startup,"
+publishedDateTime: 2023-08-11T09:07:00Z
+originalUrl: "https://www.aol.com/news/worldcoin-scans-eyeballs-offers-crypto-060837569.html"
+webUrl: "https://www.aol.com/news/worldcoin-scans-eyeballs-offers-crypto-060837569.html"
 type: article
-quality: 48
-heat: 48
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_9dc6a68590435b2f10fedaa0db58331b_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.yimg.com/ny/api/res/1.2/bpe997vbuiMIXC.JKJzz.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/02dde9adc74d048eae00c1abbd8a3a79"
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "PV71guqfpf0jQ4FQFZvy0kRsAQdpZHT2FVRsqzqWPz/RmA3ZjaaXe2FjvDmOeEkbeuDwsJhceBIWw3oOy97lhNJ3D/NwQ5peXqDYpXwesJLJzU0bGg8pC+40IpjdipB+HigPUi2XzOUoyhDSL393s7SILVy2OR6VIId8iB7ZHUCLouGGi2rdU9LDBpScmr8N8XRgEDrJdl2dj6e96FbzyV4+TkRf/eCIKCbeLDXBcZyi11yV4DPneS+WncXWmueY9qCMKoHtud8N7qAKDODnYaRD9kCxfRpLw3qND4Hu1+cB2O7/wc2ckF9cgKB3mBQXKAPGbRJ0XraLrGwQI7ECrNnt6R9DpQk53Qv1+clZxKs=;wSYI8ktlHiP++QS/4n5OgA=="
+secured: "8ny8vT+iKnu62onDfEnKZ2LOroZU+6NHbm3Dxxn2DjUEcOMES6Lzhx9pFlaEAACI22fimdXKAJwhPN2JuWoxY865/RHCFCJGkuFMlv1CerPoFUW4sNKlM1Bal/NwADZdn8VyxNPjUIy/kUCuYmeaqrccLO8wWjq6k8LK3q84JJI4bTK18VKLSy3vrSxzHe4wfpFu7M0o9OcEFe6Yg7waM++oZyI2bGJ4Mt4AjA6y0cPFJrUhCHYEFRjYeq5XDhS9A2fMPa46aIRnL8mNBc90u2ikSkBT8GWoUL1oz/XW577FFgi0DX4psPOjchtEvC9qHHbi8DOqPCKcj/YmkdgDIz/S7R1m4rA1Y/TjoIxVxKE=;+rofwEI6UXAnE54x+xTlTw=="
 ---
 

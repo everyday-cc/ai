@@ -437,6 +437,40 @@
       ]
     },
     {
+      "path": "_news/2023-08-04-every-single-amazon-team-is-working-with-generative-ai-says-ceo.md",
+      "title": "‘Every single’ Amazon team is working with generative AI says CEO",
+      "excerpt": "He added that generative AI can help Amazon become “more cost-effective and streamlined in how we run operations and various businesses, to the absolute heart of every customer experience in which we offer” “It’s true in our AWS business,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/artificial-intelligence/every-single-amazon-team-is-working-with-generative-ai-says-ceo",
+      "originalUrl": "https://www.tvbeurope.com/artificial-intelligence/every-single-amazon-team-is-working-with-generative-ai-says-ceo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-enhancing-aws-intelligent-document-processing-with-generative-ai.md",
       "title": "Enhancing AWS intelligent document processing with generative AI",
       "excerpt": "Data classification, extraction, and analysis can be challenging for organizations that deal with volumes of documents. Traditional document processing solutions are manual, expensive, error prone, and difficult to scale. AWS intelligent document processing (IDP), with AI services such as Amazon Textract,",
@@ -1378,50 +1412,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-flag-harmful-language-in-spoken-conversations-with-amazon-transcribe-toxicity-detection.md",
-      "title": "Flag harmful language in spoken conversations with Amazon Transcribe Toxicity Detection",
-      "excerpt": "The increase in online social activities such as social networking or online gaming is often riddled with hostile or aggressive behavior that can lead to unsolicited manifestations of hate speech, cyberbullying, or harassment. For example, many online gaming communities offer voice chat functionality",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/flag-harmful-language-in-spoken-conversations-with-amazon-transcribe-toxicity-detection/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/flag-harmful-language-in-spoken-conversations-with-amazon-transcribe-toxicity-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T11:48:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

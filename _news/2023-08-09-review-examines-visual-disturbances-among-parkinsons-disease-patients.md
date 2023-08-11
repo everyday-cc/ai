@@ -39,6 +39,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine learning predicts subtypes of Parkinson’s disease"
+    excerpt: "Machine learning can predict subtypes of Parkinson’s disease using images of patient-derived stem cells, an advance that could lead to personalised medicine and targeted drug discovery."
+    publishedDateTime: 2023-08-11T09:01:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/machine-learning-predicts-subtypes-of-parkinson-s-disease"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 39
+    images:
+      - url: "https://www.theengineer.co.uk/media/yxdbmsyr/ffs.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sw1CBiRmwhdoXluOnOVnlmqm+9xx0MhDcJSNhAKcCwC+Pnqw02ExTaVMJjSs0rh1FwzpMqLU3ju1xyCRFLB0rHCN7GIrlYN0lcQ8gwRCT32XTN9/SOoHlgvzMYzeS/rsfb+BPplICR5/Q52vc370iyStDAGSxvFgvC46g5qE3d+jxRMT/ybj7M3Sle1vfCMWeWHhlAwHTjd/D9d4vY07FvX9TgN1znDEpWCgy63nzRbeoCL8MmJVDxNkkpVkccruQaAkZo8KS3lv+g1CRCq88cvKJjrfss58gsBhQq+E421oU3hV9nyU4B6g+MdDkXZdDanFb/rgJM4FTEfDEZhg/pHuDgPccpxC4L0mz9ih4GQOxo4NhYCWiRy2CTdev6pT5GfUsH6bvttOq0GNN3Pl5KgROcsZ0FNEy12HiMxRUK9CAyHmo1Xb96Zp57XfU3z2EvLEOsTCv+sD568oNovzEpDqC7pCEaqSl12/jS3woMHGHj+9vCopqLNO8vT7m1bvwJk/RbBlMpPep7FtxPgg2A==;F3wlhO1P4DkOKG6p32h1ng=="
 ---

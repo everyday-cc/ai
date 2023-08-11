@@ -192,6 +192,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "China spends big on Nvidia chips"
+    excerpt: "Wants them for its generative AI systems China's internet giants have ordered more than $5 billion of high-performance Nvidia chips to build generative AI systems. Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,"
+    publishedDateTime: 2023-08-11T09:05:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57402-china-spends-big-on-nvidia-chips"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/7d2e48c471e8e1bbb6222171f23a9353_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
     excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
     publishedDateTime: 2023-08-08T16:51:00Z

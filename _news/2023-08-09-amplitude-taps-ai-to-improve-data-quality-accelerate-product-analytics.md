@@ -36,6 +36,34 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Martin Klein Returns to ECS as Analytics & Artificial Intelligence VP"
+    excerpt: "Martin Klein, former chief operating officer of the Department of Defense’s Joint Artificial Intelligence Center, has rejoined ECS to serve as vice president of analytics and AI responsible for the company’s overseeing strategic digital transformation initiatives in the defense and intelligence markets."
+    publishedDateTime: 2023-08-11T09:31:00Z
+    webUrl: "https://www.govconwire.com/2023/08/martin-klein-rejoins-ecs-as-vp-of-analytics-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 37
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/08/unnamed-file-76.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "A New Era in Environmental Monitoring: Uniting Satellite Data Analytics and Artificial Intelligence"
+    excerpt: "Welcome to a pioneering era in environmental monitoring, where state-of-the-art technology converges with our pressing demand for sustainable solutions. Today, we delve into a groundbreaking innovation that harnesses the potential of satellite data analytics empowered by artificial intelligence (AI)."
+    publishedDateTime: 2023-08-11T08:10:00Z
+    webUrl: "https://techbullion.com/a-new-era-in-environmental-monitoring-uniting-satellite-data-analytics-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 23
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-11T090907.168.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
     excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Martin Klein has been named vice president of Analytics and Artificial Intelligence (AI). Klein returns to ECS after having previously served as a program manager,"
     publishedDateTime: 2023-08-10T11:20:00Z

@@ -2,6 +2,195 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-06-29-want-to-get-richer-2-top-ai-stocks-to-buy-right-now.md",
+      "title": "Want to Get Richer? 2 Top AI Stocks to Buy Right Now",
+      "excerpt": "Detailed price information for Taiwan Semiconductor ADR (TSM-N) from The Globe and Mail including charting and trades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/TSM/pressreleases/18108725/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/TSM/pressreleases/18108725/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/74b53cace63df68cbf49b82b8879be6a/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fcc3e46acc22e216571ef4fb25a13b20a.png%26amp%3Bw%3D700",
+          "width": 720,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-executives-not-inclined-to-remove-humans-from-ai-decision-making.md",
+      "title": "Executives Not Inclined To Remove Humans From AI Decision-Making",
+      "excerpt": "Fear of losing control is justified, and will motivate executives to keep humans within any AI decisioning processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/28/executives-not-inclined-to-remove-humans-from-ai-decision-making/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/28/executives-not-inclined-to-remove-humans-from-ai-decision-making/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649ccc03c6ace3295f6aa417/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/28/executives-not-inclined-to-remove-humans-from-ai-decision-making/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/06/28/executives-not-inclined-to-remove-humans-from-ai-decision-making/amp/",
+      "publishedDateTime": "2023-06-28T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-us-planning-for-new-restrictions-on-ai-chip-exports-to-china.md",
+      "title": "US Planning for New Restrictions on AI Chip Exports to China",
+      "excerpt": "US may halt shipments of chips made by Nvidia, Advanced Micro Devices (AMD), and other chip companies to customers in China as early as July.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/06/29/us-planning-for-new-restrictions-on-ai-chip-exports-to-china/",
+      "originalUrl": "https://www.gizmochina.com/2023/06/29/us-planning-for-new-restrictions-on-ai-chip-exports-to-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/Screenshot-2023-06-29-084046.png",
+          "width": 901,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-computer-vision-south-america.md",
+      "title": "Computer Vision - South America",
+      "excerpt": "Value in the Computer Vision market is projected to reach US$523.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.09%, resulting in a market volume of US$1,318 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/south-america",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/south-america",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T20:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-natural-language-processing-south-america.md",
       "title": "Natural Language Processing - South America",
       "excerpt": "Value in the Natural Language Processing market is projected to reach US$0.56bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.60%, resulting in a market volume of ...",
@@ -924,205 +1113,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-robotics-in-agriculture-solinftec-robot-that-reduces-up-to-90-of-herbicides-will-have-a-website-for-a-waiting-list.md",
-      "title": "Robotics in agriculture: Solinftec robot that reduces up to 90% of herbicides will have a website for a waiting list",
-      "excerpt": "Bearing in mind the projection of the product, the website should increase the scale of orders for the next 3 years\", said Leonardo Carvalho, CGSO at Solinftec. \"We will be the first agtech offering robotics in large-scale agriculture in an innovative way\",",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-robotics-agriculture-solinftec-robot-that-reduces-up-90-/2023/06/28/9841181.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-robotics-agriculture-solinftec-robot-that-reduces-up-90-/2023/06/28/9841181.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2143305/Robot_Solix_SPRAYER_by_Solinftec.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-forget-ai-and-self-driving-cars-2-of-the-sp-500s-5-best-performing-stocks-this-year-are-cruise-lines.md",
-      "title": "Forget AI and self-driving cars - 2 of the S&P 500's 5 best-performing stocks this year are cruise lines",
-      "excerpt": "Two of the five best performers in the S&P 500 this year have nothing to do with artificial intelligence, self-driving cars, or any other revolutionary technologies. They ferry people around the ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cruise-lines-royal-caribbean-carnival-spx-tech-stocks-ai-travel-2023-6",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cruise-lines-royal-caribbean-carnival-spx-tech-stocks-ai-travel-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/649c06f2ec2dd400195fb9da?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/cruise-lines-royal-caribbean-carnival-spx-tech-stocks-ai-travel-2023-6?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/cruise-lines-royal-caribbean-carnival-spx-tech-stocks-ai-travel-2023-6?amp",
-      "publishedDateTime": "2023-06-28T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-how-generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-hr-software.md",
-      "title": "How generative AI is already changing the workplace: Oracle just added it to HR software",
-      "excerpt": "Generative AI-powered features will improve the job posting, search, and hiring processes for HR pros​ and job applicants alike, the company says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/",
-      "originalUrl": "https://www.zdnet.com/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/cb7e8fe61ddc541ff899e37f15206a20bb3c8b90/2023/06/28/fde1d28f-b5df-42db-8111-ec12a6095501/oracle.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/",
-      "publishedDateTime": "2023-06-28T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace.md",
-      "title": "Kyvos announces availability of Analytics Acceleration Semantic Layer as Azure Application on Marketplace",
-      "excerpt": "Azure users can accelerate analytics on massive data without the hassle of managing software and infrastructure. SAN FRANCISCO, June 28, 2023",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace-1032415935",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace-1032415935",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2143384/Kyvos_Insights_Logo.jpg",
-          "width": 395,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

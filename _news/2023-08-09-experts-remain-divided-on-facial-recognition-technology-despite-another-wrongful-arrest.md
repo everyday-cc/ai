@@ -2,24 +2,23 @@
 category: news
 title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
 excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
-publishedDateTime: 2023-08-08T21:11:00Z
-originalUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
-webUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
-ampWebUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
-cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+publishedDateTime: 2023-08-08T19:10:00Z
+originalUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+webUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+ampWebUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
 type: article
-quality: 68
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: al.com
-  domain: al.com
+  name: MassLive
+  domain: masslive.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
@@ -140,15 +139,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Eight Months Pregnant and Arrested After False Facial Recognition Match"
-    excerpt: "She is the first woman known to be wrongfully accused as a result of facial recognition technology. By Kashmir Hill Porcha Woodruff was getting her two daughters ready for school when six police ..."
-    publishedDateTime: 2023-08-06T16:21:00Z
-    webUrl: "https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
   - title: "Detroit mother files lawsuit over facial recognition arrest"
     excerpt: "Porcha Woodruff was arrested by Detroit police after she says facial recognition software wrongfully identified her as a robbery suspect. WDIV's Demond Fernandez reports."
     publishedDateTime: 2023-08-10T19:23:00Z
@@ -545,6 +535,6 @@ related:
         height: 697
         isCached: true
 
-secured: "0ANMDpzUy/IKGz23Hu7j1pNRk+F+ygj6R2gEc4YoBhJBuWtWZKOWFkvHn/e0G9elJeCVQ4hdd2zbXUG3f8gWldgqLPdpZpP9INN0P+/M/m6rdERNBGG7pxASvnyqEwe+EgCjMDjLgzC02gbYQGvuGNR2usdnbYto+Emej1CfMNjTClBWz3i8BWOy5cFPb4AZjyzGMSf+ArG/ZdXezMAfh/sf/Fbsuo0YXrEWgbcofN8zp5rGHNQlaNYT64OCfaA7skb3I7gwj4DDEa+rsX/VW7gtGrrVQ8AnLam8baYfixG/CpK4tGUeeeUdC+tpIUxVbOAJ01ZLC931ZnPX5JyjSfNA8BZY7lcK8fDbNWJV7nE=;ClcrT9wpjCCfmOLmIf4a0w=="
+secured: "dLPfxUVD+AdP9o+Tq4c2Y+nMh8E7RXVms10Xah9dHQaV/6pY2XeqCdDauTb/jY0TBvFSPtPNv5ZM3pmsaN3b13VL+q6d+/IucUjkztM19m2gSZYaiZIwuuQHPAiIZpi3mDUKkvh/t3eDT+U+oRI6JBFOSoIpqBiZZVDefWB/xWyW+FIO+9wokBhA0DHI6nLWJtmipcN8cLZ8iv0Fw4cXa0ldnpVodhXSYWX+/THBJ4Lay6heuhoG7c5p8ppKmqoQrX+QWEwfNy2A6GK9V9l6dxxwfF+O2OL0wZt0ayKm+B8boe3RfOgfvaN2u0xqBjkxtqmpUF9MxEYt9Cj0fXUxkaNjVkx298iYKpbKvZC1+mY=;zBwCEXa63ThlkWqhwoRhdw=="
 ---
 

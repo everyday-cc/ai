@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/video/watch/idOV336009082023RP1"
 webUrl: "https://www.reuters.com/video/watch/idOV336009082023RP1"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Reuters
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: A new Gold Rush for software engineering innovation"
-    excerpt: "Generative AI for the enterprise is a phenomenal opportunity for visionary founders to build the FAANG companies of tomorrow."
-    publishedDateTime: 2023-08-06T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-software-engineering-innovation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_gold_coming_out_of_a_computer._Colorful_futuristic_tech_307cbdc3-afba-4658-a4cc-48761ed98c3b.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Generative AI: The Modern-Day Gold Rush"
     excerpt: "Industry thought leaders share insights on generative AI's impact, advantages, challenges, and advice on implementation."
     publishedDateTime: 2023-08-10T17:20:00Z

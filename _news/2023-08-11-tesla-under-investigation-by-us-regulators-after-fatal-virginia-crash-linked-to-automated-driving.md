@@ -28,14 +28,19 @@ images:
 
 related:
   - title: "US probing Virginia fatal crash involving Tesla suspected of running on automated driving system"
-    excerpt: "U.S. safety regulators have sent a team to investigate a fatal crash in Virginia involving a Tesla suspected of running on a partially automated driving system."
-    publishedDateTime: 2023-08-10T19:11:00Z
-    webUrl: "https://www.newsday.com/business/us-probing-virginia-fatal-crash-involving-tesla-suspected-of-running-on-automated-driving-system-c7plrttx"
+    excerpt: "U.S. auto safety regulators have sent a team to investigate a fatal crash in Virginia involving a Tesla suspected of running on a partially automated driving system."
+    publishedDateTime: 2023-08-11T09:38:00Z
+    webUrl: "https://wtop.com/virginia/2023/08/us-probing-virginia-fatal-crash-involving-tesla-suspected-of-running-on-automated-driving-system/"
     type: article
     provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 6
+      name: WTOP News
+      domain: wtop.com
+    quality: 26
+    images:
+      - url: "https://wtop.com/wp-content/uploads/2023/08/Tesla_CFO_Leaves_79349-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
 
 secured: "ercmBE2GP5Ld5sa93w/CZhpMAvjLUn7XJ7nS8UHZeAwYOAII+hqrVnhLujykyi7byBbxRpJelD4lrTMAUOEk5HR/bZWdHFi6N4YCxgkU7uF9e9Hm5EJRgdolytDuj9E4a6ZxAuXmohewUf6FvY+O5uShfEhPI2D6HtovLwfPAfV35OyQ3F07F2Qz3pUuIsusaCZG8or6eo9zdR3BiY3FlKSI/z7T4OIUd679hMU9oZ1xDNct6flk8ooGl5DIYaxMeHUyfIIJQGJFYHXRx/hrPT2pTxrImkXTOwJlp7CI4oKiCs3avbLhd7bruHnwVCT9K/E+YAZG1GLSzlMZwtiwGG0WTt2M1yUqilWRk6yF33A=;IOf6WBA6G7S9H4WOTeL/Hg=="
 ---

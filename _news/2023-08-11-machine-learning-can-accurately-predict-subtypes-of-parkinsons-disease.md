@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning predicts subtypes of Parkinson’s disease"
+    excerpt: "Machine learning can predict subtypes of Parkinson’s disease using images of patient-derived stem cells, an advance that could lead to personalised medicine and targeted drug discovery."
+    publishedDateTime: 2023-08-11T09:01:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/machine-learning-predicts-subtypes-of-parkinson-s-disease"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 39
+    images:
+      - url: "https://www.theengineer.co.uk/media/yxdbmsyr/ffs.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Review examines visual disturbances among Parkinson’s disease patients"
     excerpt: "In a recent review published in Brain Sciences, researchers reviewed existing data on visual impairments among Parkinson’s disease (PD) patients."
     publishedDateTime: 2023-08-09T13:28:00Z

@@ -34,15 +34,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 64
-  - title: "Woman files lawsuit, claims 'faulty' DPD facial recognition hit prompted her false arrest"
-    excerpt: "Woman, who says she was arrested while she was pregnant, claims 'pattern of racial discrimination' in how DPD uses technology"
-    publishedDateTime: 2023-08-06T16:52:00Z
-    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2023/08/06/woman-files-lawsuit-claims-faulty-dpd-facial-recognition-hit-prompted-her-false-arrest/70523848007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 25
 
 secured: "y7eVyX+CLN64tGnE5UZ1ZP7S/RqstgOGfB0F91YpmZ5obIb/A+kDNQOU7w6In3IPM2fdJIhQShDOpm4RijR1tdn9ecDbKxdPOzRjPnMB/dMko+EEOTWscELlzRj7uCcsVjNhR4o7o3/elBIVDtVPwhSi1lXz41GsrbF8UbRHahI1Ux76aAmSlycfZNAvO2kmAiXbOc+E2zZJgWuZWEcHvfoPRRWRJxCmDCJ4SfS5NMslnQ/ha71kX1C1c07CQpy3r43pq9kA59+ihk32nT/9u7haNSe1cUQiB97Cw9ZWfN/A3PRbj8NNGh8Eg1UYPS1DkXOkVwEy8DPVJA7yOD+F7rJ5xZTr8NqIsV/MUzAt1orLI5/aYk+/mPHEZVfc+5ejky40dLFf06hsrrfrCQ860wT0r2LJ8MwPWLGVAnwsgtytM3UO1b9BXchDFe1mCI5jKrp1m4C3Iaax4NkDXgLugL/mcxGcJQ1w2efcbFvNghP6+MDuqBOA6UsclJtNkKustGr5UkHVk1AxTEBkHFsF+g==;+aMqliX9rrnbgLu+B/sVMw=="
 ---
