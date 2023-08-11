@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704630/google-brings-ai-to-cloud-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.amp.html"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04AAbAeVeJinOoug3fEFQcy-1.fit_lim.size_1200x630.v1691700084.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Scientists leverage machine learning and AI to guide vaccine development"
+    excerpt: "From tackling homework challenges to drafting emails, people are discovering a vast array of applications for natural language processing tools like generative artificial intelligence (AI) engines."
+    publishedDateTime: 2023-08-11T20:35:00Z
+    webUrl: "https://www.news-medical.net/news/20230811/Scientists-leverage-machine-learning-and-AI-to-guide-vaccine-development.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 53
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/A_doctor_makes_a_vaccination_to_a_child-Yuganov_Konstantin_cdbf1b05417f45e89b8268af4858e1c9-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "The Impact of Artificial Intelligence on Software Development"
     excerpt: "Jamie Boote warns developers, architects and QA testers to remain vigilant over the use of AI in software development"

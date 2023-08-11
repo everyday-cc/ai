@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-12-nvidias-ai-driven-stock-surge-pushed-earnings-multiple-three-times-higher-than-teslas.md",
+      "title": "Nvidia's AI-driven stock surge pushed earnings multiple three times higher than Tesla's",
+      "excerpt": "Nvidia's graphics chips have proven to be the best for training artificial intelligence models, and clients can't get enough of them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107278560-1690555294515-gettyimages-1258356004-TAIWAN-COMPUTEX2023-01062023-152JPG.jpeg?v=1691784755",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
+      "publishedDateTime": "2023-08-11T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-california-okays-driverless-taxi-expansion-for-san-francisco.md",
       "title": "California Okays Driverless Taxi Expansion for San Francisco",
       "excerpt": "The state's green light, on a 3-1 vote by the California Public Utilities Commission, signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -97,7 +149,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032542192",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 171,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -182,50 +234,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-big-money-for-big-tech-china-has-ordered-5bn-worth-of-ai-chips-from-nvidia-despite-us-ban.md",
-      "title": "Big Money For Big Tech: China has ordered $5bn worth of AI chips from NVIDIA, despite US ban",
-      "excerpt": "Despite several sanctions on China, several tech companies in China are lining up to buy NVIDIA's AI Chips at a premium. The Chinese tech industry has placed an order worth $5 billion with NVIDIA for",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/tech/news-analysis/big-money-for-big-tech-china-has-ordered-5-billion-dollars-worth-of-ai-chips-from-nvidia-despite-us-ban-12980592.html",
-      "originalUrl": "https://www.firstpost.com/tech/news-analysis/big-money-for-big-tech-china-has-ordered-5-billion-dollars-worth-of-ai-chips-from-nvidia-despite-us-ban-12980592.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2023/08/Big-Money-For-Big-Tech-China-has-ordered-5bn-worth-of-AI-chips-from-NVIDIA-despite-US-ban.jpg",
-          "width": 640,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/tech/news-analysis/big-money-for-big-tech-china-has-ordered-5-billion-dollars-worth-of-ai-chips-from-nvidia-despite-us-ban-12980592.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/big-money-for-big-tech-china-has-ordered-5-billion-dollars-worth-of-ai-chips-from-nvidia-despite-us-ban-12980592.html/amp",
-      "publishedDateTime": "2023-08-09T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -389,6 +397,49 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-baidus-ernie-bot-to-be-used-in-great-wall-motors-vehicles-to-enhance-conversation-between-driver-and-car.md",
+      "title": "Baidu’s Ernie Bot to be used in Great Wall Motor’s vehicles to enhance conversation between driver and car",
+      "excerpt": "Great Wall Motor, China’s largest sport-utility vehicle (SUV) assembler, looks set to become the first carmaker to use Baidu’s ChatGPT ... featuring autonomous driving technology and digital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/china-business/article/3229790/baidus-ernie-bot-be-used-great-wall-motors-vehicles-enhance-conversation-between-driver-and-car",
+      "originalUrl": "https://www.scmp.com/business/china-business/article/3229790/baidus-ernie-bot-be-used-great-wall-motors-vehicles-enhance-conversation-between-driver-and-car",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -928,6 +979,40 @@
       ]
     },
     {
+      "path": "_news/2023-07-30-heres-how-uae-is-expanding-the-horizons-of-smart-mobility.md",
+      "title": "Here’s how UAE is expanding the horizons of smart mobility",
+      "excerpt": "Shared mobility, micromobility and autonomous vehicles are set to become mainstream in the coming years, say experts.",
+      "sourceUrl": null,
+      "webUrl": "https://gulfbusiness.com/road-to-the-future-uae-boosts-smart-mobility/",
+      "originalUrl": "https://gulfbusiness.com/road-to-the-future-uae-boosts-smart-mobility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-29T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Business",
+        "domain": "gulfbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-30-uber-self-driving-car-test-driver-pleads-guilty-to-endangerment-in-pedestrian-death-case.md",
       "title": "Uber self-driving car test driver pleads guilty to endangerment in pedestrian death case",
       "excerpt": "The Uber test driver behind the wheel of one of the company’s self-driving cars, when it hit and killed a pedestrian in 2018, pleaded guilty to endangerment and was sentenced to three years of ...",
@@ -1311,93 +1396,6 @@
       "provider": {
         "name": "Free Malaysia Today",
         "domain": "freemalaysiatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-artificial-intelligence-to-help-with-security-at-2024-paris-olympics.md",
-      "title": "Artificial intelligence to help with security at 2024 Paris Olympics",
-      "excerpt": "So, this year, the massive security presence will add a new layer -- one that Silicon Valley is very familiar with: artificial intelligence. Something that’s already launched a fierce debate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/",
-      "originalUrl": "https://www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcbayarea.com/2023/05/Social-Media-Hacking-Generic_NBC-5-Responds.png?resize=1200%2C675&quality=85&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/?amp=1",
-      "publishedDateTime": "2023-07-26T18:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Bay Area",
-        "domain": "nbcbayarea.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-waymo-putting-the-brakes-on-its-autonomous-truck-program.md",
-      "title": "Waymo putting the brakes on its autonomous truck program",
-      "excerpt": "Waymo said it would continue collaboration with DTNA to advance technical development of an autonomous truck platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ccjdigital.com/equipment-controls/article/15543134/waymo-puts-driverless-truck-program-on-hold",
-      "originalUrl": "https://www.ccjdigital.com/equipment-controls/article/15543134/waymo-puts-driverless-truck-program-on-hold",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.ccjdigital.com/files/base/randallreilly/all/image/2023/07/Truck_1.64c1b72e48238.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T17:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CCJ",
-        "domain": "ccjdigital.com",
         "images": null,
         "publishers": null,
         "authors": null

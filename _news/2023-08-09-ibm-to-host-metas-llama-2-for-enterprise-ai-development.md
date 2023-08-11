@@ -110,20 +110,6 @@ related:
         width: 300
         height: 235
         isCached: true
-  - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
-    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat 70 billion"
-    publishedDateTime: 2023-08-09T12:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59802679-ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform"
     excerpt: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform - As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to"
     publishedDateTime: 2023-08-10T11:21:00Z
@@ -147,6 +133,15 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 33
+  - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
+    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat"
+    publishedDateTime: 2023-08-09T12:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-301896401.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 32
 
 secured: "26AhBbfat2/XjM9+v0Pu3x4CCDKkNdXQRtIRfdGYVdZNniN3m25LRr9xHNhgO/yxZD7XRlM/9HXTRxfr38+Kpae0N+ihFo/uVSmN6N5rnNRfWaNKplmmOQwy2wZaHgUp8QXKTUjuqe+PqjyERbf/PU5pKjEjcUhkZKgK9g4mdknHjzmeEMdyJgv2mvnMqg/y2yfjYcKqAkAhpBkVwvxO1F+eiOM2UK/oQ69SLrSNO8pqtAM16C7SLKPPh4MPGIF/2G70sEzH73b5e/G0lkaLVuFBc5XQOten8MIvvE113RY6VCP+jLAVlBStO2mI4tkFoGAxXd08PKuilj05I+9z4LEOG9SKtpRnazZsIrRx4kc=;QAKTJb5snT3Ot0VGuMwBng=="
 ---

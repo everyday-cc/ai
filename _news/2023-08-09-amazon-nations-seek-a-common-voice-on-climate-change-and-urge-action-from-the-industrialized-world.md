@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Amazon nations seek a common voice on climate change and urge action from the industrialized world"
-excerpt: "Eight Amazon nations have urged industrialized countries to do more to help preserve the world’s largest rainforest as their leaders meet at a major summit in Brazil to chart a common course on how to combat climate change."
-publishedDateTime: 2023-08-09T12:34:00Z
-originalUrl: "https://apnews.com/article/amazon-deforestation-brazil-climate-change-summit-314d7127864fbb6e709c1ffa0fab0b3e"
-webUrl: "https://apnews.com/article/amazon-deforestation-brazil-climate-change-summit-314d7127864fbb6e709c1ffa0fab0b3e"
+excerpt: "Eight Amazon nations urged industrialized countries on Tuesday to do more to help preserve the world’s largest rainforest as their leaders met at a major summit in Brazil to chart"
+publishedDateTime: 2023-08-09T15:29:00Z
+originalUrl: "https://www.columbian.com/news/2023/aug/09/amazon-nations-seek-a-common-voice-on-climate-change-and-urge-action-from-the-industrialized-world/"
+webUrl: "https://www.columbian.com/news/2023/aug/09/amazon-nations-seek-a-common-voice-on-climate-change-and-urge-action-from-the-industrialized-world/"
 type: article
-quality: 0
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Columbian
+  domain: columbian.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default-2022.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Amazon nations seek common voice on climate change, urge action from industrialised world"
@@ -94,6 +100,6 @@ related:
         height: 800
         isCached: true
 
-secured: "QNlABZVawBFeCjIrN2wKK4ch8EaCjspfT49xPAe1KJePjYlivIu0/jVrkN+fSUenQlQ9VESEzKv9ANzVm8M737XbMsYzqhTI9a53yS/xnKpqA4qbEv3d/Uc7b31dGBLJnSg4lzMPXfV8PWC9Tj/7ioAS3SnL6knVwIpzRp7clt8Vz54OhAXg605ubsby19EOfKf4yDXKihtpwPPkEj2tR+jUgfKtZ2T0Oii2ng5rIX5g6GpuHJ/24mx0xCwGbzz9mxXYDv7AIGPtbtHBsgCO58wMMYzSapSslv0QllquVFUzsyRT7HRbbbpiD6xoTZ0DmGT2tfNENBS/UEDDNUBWw/W/sPynqWgISaLqGFf4sEXy3k1nwlsEG4PYi08m0xoV+3KjLZeoqdshIaKa4rXkafqKlE4XfWiGkR+hxCAk87eJRsWQZjK1QAyzZtj6LLST+6/jkDGo5bubnlS8/jOAhatT9h3WrbD6rd1o2es0Ybp9iMBuUXYktim0W9VmtmoTNY4Yxfps0bDZkjTu3G4sXw==;cYjQ7GQrNXozsSfcIijifg=="
+secured: "/q8hyumzT2jO4/sH6ltKY0txN0KqUO8Llp4Mx1t9qZDcgSaQVArxW9aL2JfymQeqPbPDP0JkuyB66M+8wK13l1Os92VwIKjG3HGwGNKQrsdBW7AqDVAJMJMZbyipJByDPwGi6vBk+mbW0Hycv/oxydk/Cip869QVzHH8r8JPE3ZoPz8beo4oIBTkOBzSr0imME7LZIAzKY3psboBAw0Uh9cfr9h33D1rYn7VvxJo/MLGnLBlDfMRnDYg9ADcGqHqWtOKyf5DOcGlFDTHCn0hRtH8Jz4uuQTVECRXJMtZlxiptxrbThXG+zLaW/bhxG9+NSJsyhHr2Z3XqsBj1EXkPV98XGQMoGYs54Polw9XxQ4=;tOsuJR6aOwmIY+cxFAFroQ=="
 ---
 

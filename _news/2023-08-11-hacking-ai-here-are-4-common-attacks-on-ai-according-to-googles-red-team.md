@@ -167,15 +167,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 29
-  - title: "Here's how Michigan employers and employees are adapting to AI"
-    excerpt: "Employers need workers who are trained in AI platforms, giving a leg-up to job candidates who have those skills."
-    publishedDateTime: 2023-08-07T03:00:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/08/06/heres-how-michigan-employers-and-employees-are-adapting-to-ai/70384916007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
   - title: "AI dating apps promise less ghosting, more matches"
     excerpt: "The hardest part of dating, according to Daniel Liss, is the small talk. A digital entrepreneur whose previous ventures include the photo sharing site Dispo, Liss launched Teaser AI in June, marketing it as the app that leads to “less ghosting, more matches.”"
     publishedDateTime: 2023-08-10T03:19:00Z
@@ -195,6 +186,6 @@ related:
       domain: omaha.com
     quality: 17
 
-secured: "5RzuXCpdQni23RxHTYBzOVJn9YEetn1Rk4xb7jsKH+vswYmTeEaBl2akOVnzkcgW1oKwa/SghZpnUhC/4Uz8fzS9riP2Jqr5ttBQF0vv8shWj33mnjgtHu7bIMuV47cICwhvM2Ru0J9ssdvqBXGF+LFqZS3XznHjADRe+WO0eEiHTKM7DUtw09XxHDZtvYiD7VJMEdM54sJDtYR9blybypqcImzkjItAogm8C2ExkjBt24MzZKDSGRdr71xxR9mwUMl71F3R2zM4aorcAhLY8KLKMfo8Y1Sw4Dfr6t4YVdvVVjO7/CvfIxJa+fPpXSDeZDqpW5PEwrlrRNlCi/G33FG1WQnISdJ1UM+xnW5Fago=;vNRvcyvLQA9TAhXHHutFiA=="
+secured: "OXUbuFvnYHRuUt7f+q/BLuJ2AYHOfvIZZw5poxhOD3zgapz9wNJV4tPwyg+4YWDJDnHPQrkcLBhGIGneWChOHV5AJl0dMwwaMOIit+sIhXzfnkEQr4WnQ2dmxH4WSX3B9jaFIUIw9aasx2/6K2GN/jtA3bNc4fSfFu8W1AM/qVNb6npeG/s0Gx5y+B+gALIX5NI9BDSrNEfn1zui9FD+C1Tv7cHLm0hE+pB2gYkF+engTgMZCsYJYYpcrXF0JH7s873Cr6d9zEhBGu9MfHL+oOVPpcs4HreN037BVQaNU9mUAuioYJiM5XIZbu0oFTMbX0QP+oXRBXo6kxDD3DKKtbn15js6NVuz1xaV9aPMJA01X9yzm14ZXKqPw2/9uc07/7Skt4jq1u91n5yGaPV/5+wHG/Kye5MDyfMJRh9gg+ybgD0eEo1Uv3Nxs3peV5jb1ntyNAQ1ba+GdFkcciakRXwLw9ryHeK8jpKbWicPH2POswGMe9ZDt8ay4GNvipJXyffmnVNgp7k3wu+zmBAKPg==;i9Xa4jx+nZTQv1fg3rucwg=="
 ---
 

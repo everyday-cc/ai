@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33593955"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33593955"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS vs Google Cloud vs Microsoft Azure: Hyperscalers’ Growth Galores"
-    excerpt: "Examining the latest quarterly results, Azure shines brightly in the generative AI arena, boasting impressive 26 percent growth which translates to $ 55 billion revenue, backed by their cutting-edge A"
-    publishedDateTime: 2023-08-07T04:31:00Z
-    webUrl: "https://analyticsindiamag.com/aws-vs-google-cloud-vs-microsoft-azure-hyperscalers-growth-galores/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/azure.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google Cloud: The Grass Could Get Greener"
     excerpt: "Google Cloud has advantages over Microsoft Azure in the AI race. Concerns arise regarding competition from Nvidia's growing ecosystem. Learn more on GOOG stock here."
     publishedDateTime: 2023-08-09T23:24:00Z

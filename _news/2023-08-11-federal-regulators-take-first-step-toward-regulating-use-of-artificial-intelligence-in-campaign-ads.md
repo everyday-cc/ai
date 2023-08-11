@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnewyork.com/news/national-international/federal-regul
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/?amp=1"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "How To Get AI Regulation Right"
+    excerpt: "Effective AI regulation should start with bringing the great minds behind AI to the table—those who possess a sophisticated understanding of AI and its applications."
+    publishedDateTime: 2023-08-09T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-to-get-ai-regulation-right/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "FEC takes first step toward rules on artificial intelligence deepfakes in campaign ads"
     excerpt: "The Federal Election Commission took a first step Thursday toward regulating the use of artificial intelligence-generated media in campaign ads by considering a petition for new rules and asking the public for comment."
     publishedDateTime: 2023-08-10T15:33:00Z

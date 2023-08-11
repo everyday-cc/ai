@@ -33,6 +33,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 78
+  - title: "Build generative AI applications using Azure and NVIDIA H100 Tensor Core GPUs"
+    excerpt: "Microsoft Azure users can now leverage the latest NVIDIA accelerated computing technology to train, deploy and build generative AI applications. The"
+    publishedDateTime: 2023-08-08T08:37:00Z
+    webUrl: "https://www.geeky-gadgets.com/build-generative-ai-apps-08-08-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 68
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Build-generative-AI-applications.jpg"
+        width: 700
+        height: 461
+        isCached: true
   - title: "Transforming sustainable agriculture: The Nature Conservancy Centre and IBM unite to reduce crop residue burning in North India"
     excerpt: "In the pursuit of long-lasting solutions, TNCC has partnered with IBM to leverage the necessary technology and data resources.\nThe post Transforming sustainable agriculture: The Nature Conservancy Centre and IBM unite to reduce crop residue burning in North India appeared first on IBM Blog.\n"
     publishedDateTime: 2023-08-07T20:36:06Z

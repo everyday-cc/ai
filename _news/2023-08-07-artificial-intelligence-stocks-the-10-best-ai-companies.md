@@ -50,15 +50,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Find the Next Nvidia: 3 Must-Watch AI Stocks"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) shares took many investors by surprise in 2023."
-    publishedDateTime: 2023-08-08T21:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/find-the-next-nvidia-3-must-watch-ai-stocks-1032531041"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "We must build trust in AI for use in health care"
     excerpt: "It would seem then, the best hope for the continued development of AI in health care is technology guided by a human touch. The public must trust in the ability of AI tools to produce accurate and reliable information, and believe that such information, gathered without prejudice, assists a physician’s ability to care for patients."
     publishedDateTime: 2023-08-08T10:00:00Z

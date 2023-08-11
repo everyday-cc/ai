@@ -166,15 +166,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 29
-  - title: "Here's how Michigan employers and employees are adapting to AI"
-    excerpt: "Employers need workers who are trained in AI platforms, giving a leg-up to job candidates who have those skills."
-    publishedDateTime: 2023-08-07T03:00:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/08/06/heres-how-michigan-employers-and-employees-are-adapting-to-ai/70384916007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
   - title: "AI dating apps promise less ghosting, more matches"
     excerpt: "The hardest part of dating, according to Daniel Liss, is the small talk. A digital entrepreneur whose previous ventures include the photo sharing site Dispo, Liss launched Teaser AI in June, marketing it as the app that leads to “less ghosting, more matches.”"
     publishedDateTime: 2023-08-10T03:19:00Z

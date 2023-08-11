@@ -34,6 +34,15 @@ related:
         width: 300
         height: 204
         isCached: true
+  - title: "AI Companies are Trying to Score as Many Nvidia H100 Accelerators as Possible"
+    excerpt: "Elon Musk said that acquiring GPUs for AI training is even more difficult than buying drugs. Tweet (opens in a new tab) To give you an idea of the current demand, VentureBeat flagged a lengthy post discussing the \"GPU shortage\" currently riling the AI ..."
+    publishedDateTime: 2023-08-07T17:12:00Z
+    webUrl: "https://www.extremetech.com/computing/ai-companies-are-trying-to-score-as-many-nvidia-h100-accelerators-as-possible"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 16
 
 secured: "j7X2Qi00tr+IX9J7mpzJM9CUEcPet13+9hgUDyNGOq0HZXPW9f6CgLMCXP+BNXIaW+MOrvEFe54Ek6R44CK3cVz8G2xtQZhfNQ4miAlNOvs1E6rjAF6Yzk3aj6/2gf0nKhEyX/O0jMLmvdCsWom2V+QVzc6XLjII2DFo8KP+uEPhJ6I6E6yoyRW7WZ052E7suyezPN8rHOU0nBcd/xvM2UTLFUCFzZ6t3Pd5g5wzHPAO2WB5WNixIoSaIk6VURqK+Qwit8ulMxFAk7TLdjo8CPBQOqTd962Xn1WCWlUP52XmKrdxJgS1g8jkOl/JPg0T3DLpR8FjbgIC0QBocWZVe24uu20SbkarQfs5siYrXqM=;9ZFoINEN5+K8jod0NgyjNQ=="
 ---

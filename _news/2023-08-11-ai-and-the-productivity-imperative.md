@@ -65,6 +65,15 @@ related:
         width: 1639
         height: 886
         isCached: true
+  - title: "Healthcare AI Trends to Watch: M&A Exits & Generative AI Use Cases"
+    excerpt: "The healthcare AI space will be an exciting one to watch over the next couple years, as investment dollars flow to startups and providers launch more AI pilots. Two of the most interesting trends to watch will be the use cases that healthcare organizations prioritize when deploying generative AI models,"
+    publishedDateTime: 2023-08-11T19:04:00Z
+    webUrl: "https://medcitynews.com/2023/08/healthcare-generative-ai-merger-acquisition/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 34
   - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
     excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
     publishedDateTime: 2023-08-11T12:04:00Z

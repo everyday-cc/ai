@@ -173,14 +173,32 @@ related:
         width: 1459
         height: 1491
         isCached: true
-  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
-    excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
-    publishedDateTime: 2023-08-10T20:57:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=1193272085"
+  - title: "Self-driving taxis get the green light on 24/7 service in San Francisco"
+    excerpt: "Companies like Waymo and Cruise can now offer autonomous rides to anyone in San Francisco—but some city officials have concerns."
+    publishedDateTime: 2023-08-11T18:00:00Z
+    webUrl: "https://www.popsci.com/technology/san-francisco-robotaxis-public/"
     type: article
     provider:
-      name: Capital Public Radio
-      domain: capradio.org
+      name: Popular Science
+      domain: popsci.com
+    quality: 4
+  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
+    excerpt: "It's hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
+    publishedDateTime: 2023-08-11T01:44:00Z
+    webUrl: "https://www.wuwm.com/economy-business/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
+    type: article
+    provider:
+      name: WUWM
+      domain: wuwm.com
+    quality: 0
+  - title: "San Francisco's police, fire departments fret about push for more self-driving cars"
+    excerpt: "Self-driving car firms want California regulators to allow for more vehicles on San Francisco streets. Police and fire departments cite many times when autonomous vehicles botched rescue operations."
+    publishedDateTime: 2023-08-11T20:27:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2023-08-11/san-franciscos-police-fire-departments-fret-about-push-for-more-self-driving-cars"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
     quality: 0
 
 secured: "2U5djxy2/M8eJb8E0hXY76HSWVPE3cBXhNUFHGCdWHewzkw7PH8w2kubjO7ueiUJdANbmhfcQY1u2JksrUFEucJGyoY5o2BpDIZ4Ls4ramoyka6adGlxDqZv+2Squ7VNqMm5I6OpsIj4QonK206aOOoIaG/ByyM3y3316qdvDE14KQJEHoAZfEYas8pbG6I2506eolKQAlj35ZLqCTGnxHWHywO/u256XBFqbrN8Ajz7vcSNsmnZ4juKhKXFqVc/kdS67ymD+WURT9xAxccG+yb8KXsor7Uwe33ifOw0AmRJtAMIz+iO4wBpJQRfWQ/6whAEoQt1YbsdHz/YbYD/ROEMRdxX7t27DgIsMYZxSPRcPvZ6w3Op3k0P+LC0h7gejbEdnfTZLBlvIk9qVN0iUo3KCrZ1iNfEcZGjWUb646Iwow7aeqsctb7TjV8cqnEwUit72VNTHsTWNeHuI9tdUvw01w57Uu3sK0Zk5ouHDfbY35gBsuJSdcGsq/zcdveo/c0XRrp7+YtV0/cU4BPKNQ==;9wQPoh1kJylyDKn0bpiWOw=="

@@ -96,20 +96,6 @@ related:
         width: 300
         height: 235
         isCached: true
-  - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
-    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat 70 billion"
-    publishedDateTime: 2023-08-09T12:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59802679-ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform"
     excerpt: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform - As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to"
     publishedDateTime: 2023-08-10T11:21:00Z
@@ -147,6 +133,15 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 33
+  - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
+    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat"
+    publishedDateTime: 2023-08-09T12:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-301896401.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 32
 
 secured: "laTID96dNAd9npKzOKoC01WC7C7nkljtJbkdjUI0ORY69WLqQpZx9DCIIS8gtlZXHcdk//pfDOBnWKlWNG/Wxq8ROJ7YOd2red+FKKLeFf72u5aBKiQYQSAjaHx419MaI2skxuxbbIh0439d8hh44BZ1LDRn6YPMqUUW6nnEy89PlH6KXVCBs0HkkWqmMdCY5Msl8lwmMBhXUjL0x/zOR5Mt67p6U7HIAMAvLsRt2+2U7ny8BAY4CeDKgNtRTkpmht6uoZKPPehd2m2FBxgdOV/coyYRIhW++TjR6HprrtFu4/ebLqZ5Z0jta0MYvOCYkhE07Xd9sl3Wyv7uc0KhSUBrAdW6DrQRIfq6OuLvpYKmcHHt1ycMogBQkjf1QPEqsCxecx33Dtsd99OGEn0sNjOhqfn9r9q6mZeGKZOVWHUpED25axIfXMxv1rLbftpfVJC5Fcd3f9p2QOOZM+bECbecfReMGJDJEjJ6l54Ghl6ONECqm+r7EP0RhwhBIwH0udnZbKoaocT9xeBE1/WYZg==;cGi/QzvbesxZM/K/mRe4jQ=="
 ---

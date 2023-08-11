@@ -220,6 +220,15 @@ related:
         width: 975
         height: 548
         isCached: true
+  - title: "Microsoft: A Long-Term Investment in AI"
+    excerpt: "In addition to being a financial investment, OpenAI granted Microsoft access to its AI research and development ... development and spokeswoman for Facebook and sister to Meta Platforms CEO ..."
+    publishedDateTime: 2023-08-08T09:59:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/08/microsoft-a-long-term-investment-in-ai/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 66
   - title: "Microsoft’s AI Red Team Has Already Made the Case for Itself"
     excerpt: "Since 2018, a dedicated team within Microsoft has attacked machine learning systems to make them safer. But with the public release of new generative AI tools, the field is already evolving."
     publishedDateTime: 2023-08-07T17:51:00Z
@@ -463,6 +472,6 @@ related:
       domain: arnnet.com.au
     quality: 26
 
-secured: "yiy0hD6JXh9vghwWzo3bEYCVT8iKkIAsEasersNaiCsX3xgYspe22EoPCgPjDnJy/pXIRPr5T5kHoLttMb/J5mA+ec18T5DMzMq2zFwb1IdNcyEIqvbJ7bfUj0hYLwuIdQjljH+Q3nHgCf4hGzl3evneNksz6KF/UMj+JRVlKHE8QZRs6mOMDNoOWcWKGEQgFn2RU3C0aAn1U340F+0lajvfC6/ijw3kUA8wa+DREQsY7+NuynwKgyJmpJAXIiqIy0auDiJjGgtkqyAuufX+SLRAWJ73AqnbrFyIPMzjSPfiWQxzKxjtSI1C4vjdhD5e8ERW7o8wKFYdSBAVOQ+IURT18qA+GKHjSE8JpgFckmY=;d86lc5dKegSFauX/sAMknQ=="
+secured: "oRqHJOFCkDJ8G5gSwhxweA83jAvMuET+XHAc6MwUJ4xsl1dZW+O2RZNugDYEtQaTpd1UWSiFvhiKhUTnqCHbpqcjf7TWnCF/FURXyO6gEMiFpwbFTQS9wAiAbxUNTDoxAhg5sfc+2tTWQ2G20RQkSmXMORq1jEM+LNe9R+muqococaIdK6Q8XzwcWRCT+/SAd9SIT/VWtbr0UqmJjV4+o6kIE2s3mwrUWweTAInpI4Xg7p/k2rftsleR1kK/u2FKF+EcHTr1Sy7c3mh/iGjWq2DJTQueYfCihmTcG1GeWVwxLAxxnZ0caTE7YQj/FXqpR5DAa9X3yrJ6vUqAzUKfr+50mjThLIbDnk9F7JeByMDiVC6zO4xNTFHBxXpMHwEXuMuRyp7gCBxjat8lvC/BdhFzcTt5bQPb8vYC19gKFe+QDX20UB4M3cTgK4hYhCK3NCxqFM1tC9vX2ehFZw2v6Y3Ez4HHSJB14GOfBJSL/bASsHJD6v6LdFiv8+cmIXlmDhKRkgyjus0uqBHWlFZ0PA==;OqGIt2qzu6JaIF6WLKEfYQ=="
 ---
 

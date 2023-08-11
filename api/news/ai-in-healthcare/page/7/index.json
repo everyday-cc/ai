@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-05-25-how-will-artificial-intelligence-affect-health-care-systems-will-it-hurt-or-help.md",
-      "title": "How will artificial intelligence affect health care systems – will it hurt or help?",
-      "excerpt": "As artificial intelligence, or AI, enters into the health care field, some experts say there is hope and harm possible for its future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wvxu.org/2023-05-24/how-will-artificial-intelligence-affect-health-care-systems-will-it-hurt-or-help",
-      "originalUrl": "https://www.wvxu.org/2023-05-24/how-will-artificial-intelligence-affect-health-care-systems-will-it-hurt-or-help",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/55cabc2/2147483647/strip/true/crop/1920x1008+0+136/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2Fc7%2F754157b1438783b5245068204d5d%2Fmedical-pixabay.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WVXU",
-        "domain": "wvxu.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-23-enough-with-the-corporate-therapy-speak-workers-say.md",
       "title": "Enough With The Corporate ‘Therapy Speak,’ Workers Say",
       "excerpt": "The published version of this week’s Forbes Careers newsletter brings the latest news, insights and ideas about the workplace straight to your inbox every Tuesday.",
@@ -1442,6 +1399,58 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-healthcare-artificial-intelligence-market-2023-2030-business-report.md",
+      "title": "Healthcare Artificial Intelligence Market [2023-2030] Business Report",
+      "excerpt": "What is the Healthcare Artificial Intelligence market growth in 2023-2029 with TOPMajor Players? Major Players Covered in this Report: APIXIO, Inc. Cyrcadia Health Inc. Sense.ly Atomwise, Inc. Zebra Medical Vision Ltd.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-business-report-2023-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-business-report-2023-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

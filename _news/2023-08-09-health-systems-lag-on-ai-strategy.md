@@ -34,6 +34,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Inside the hunt for AI chips"
+    excerpt: "Everyone wants Nvidia’s chips but they’re nearly impossible to get. Also: updates on the Reddit protest, Musk versus Zuck cage match, and more."
+    publishedDateTime: 2023-08-11T18:33:00Z
+    webUrl: "https://www.theverge.com/2023/8/11/23828874/inside-the-hunt-for-ai-chips-command-line"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 66
   - title: "The challenges and ethics of AI in product design"
     excerpt: "The rise of AI across all industries has been a source of both excitement about the potential opportunities, and serious concerns related to the risks and challenges it might pose."
     publishedDateTime: 2023-08-09T11:26:00Z

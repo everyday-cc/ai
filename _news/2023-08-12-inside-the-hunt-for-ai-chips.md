@@ -1,0 +1,83 @@
+---
+category: news
+title: "Inside the hunt for AI chips"
+excerpt: "Everyone wants Nvidia’s chips but they’re nearly impossible to get. Also: updates on the Reddit protest, Musk versus Zuck cage match, and more."
+publishedDateTime: 2023-08-11T18:33:00Z
+originalUrl: "https://www.theverge.com/2023/8/11/23828874/inside-the-hunt-for-ai-chips-command-line"
+webUrl: "https://www.theverge.com/2023/8/11/23828874/inside-the-hunt-for-ai-chips-command-line"
+type: article
+quality: 66
+heat: -1
+published: false
+
+provider:
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Hardware
+  - AI
+  - AI Ethics
+
+related:
+  - title: "The Hidden Challenges In Integrating Data For AI Systems"
+    excerpt: "The act of combining data from multiple sources is often resulting in accidental “upclassing”, “PII additive” or “deanonymization” problems, causing significant issues."
+    publishedDateTime: 2023-08-11T05:00:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd1bc5e9c119b9a8960ea8/0x0.jpg?format=jpg&crop=400,400,x0,y0,safe&width=1200"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "The challenges and ethics of AI in product design"
+    excerpt: "The rise of AI across all industries has been a source of both excitement about the potential opportunities, and serious concerns related to the risks and challenges it might pose."
+    publishedDateTime: 2023-08-09T11:26:00Z
+    webUrl: "https://digileaders.com/the-challenges-and-ethics-of-ai-in-product-design/"
+    type: article
+    provider:
+      name: Digital Leaders
+      domain: digileaders.com
+    quality: 54
+    images:
+      - url: "https://digileaders.com/wp-content/uploads/2023/08/shutterstock_2238570409-scaled-e1691580373332.jpg"
+        width: 800
+        height: 338
+        isCached: true
+  - title: "Announcing US$5 million in Grand Challenges AI grants to spur local innovation for global good"
+    excerpt: "Nearly 50 projects are receiving up to $100,000 to pursue the use of AI to solve problems in global health and development."
+    publishedDateTime: 2023-08-09T15:43:00Z
+    webUrl: "https://www.gatesfoundation.org/ideas/articles/grand-challenges-ai-rfp-recipients-2023"
+    type: article
+    provider:
+      name: Bill & Melinda Gates Foundation
+      domain: gatesfoundation.org
+    quality: 25
+    images:
+      - url: "https://www.gatesfoundation.org/-/media/gfo/5ideas_articles/articles/20230809-grand-challenges-ai-rfp-recipients-2023/hero_ideas_grand-challenges-rfp_ga17166192_ae652228_08092023_1600x1000.jpg"
+        width: 1600
+        height: 1000
+        isCached: true
+  - title: "Health systems lag on AI strategy"
+    excerpt: "Generative AI can help health systems improve margins, but only 6% of them have a strategy ready, according to a recent report from Bain & Co. Why it matters: The hospital sector is seeing its most challenging year since 2020, with many systems buckling under wage inflation and staffing shortages."
+    publishedDateTime: 2023-08-08T18:35:00Z
+    webUrl: "https://www.axios.com/pro/health-tech-deals/2023/08/08/health-systems-lag-ai-strategy"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
+
+secured: "4l3zeCf1M/8lbAYG287T3QjMnmKePoOm7ZhJwqN0HIuM/hHkiJFPdzMgDi27Yz+pqbid/QcG9v7/D73bjx4T61gayqCOrl354T3NnULqd4rDxDiIzw5XWRWhQgiNtgBcbGncvzakF9sq370HZjLj1AJ5VaDLXnhCj6iPmBlwSZZrcOa/8RYGckcA7OGklAH4K0Ka2gFQ9YvuoquFdZdDyGSADClbthRaD/pLurAHVXLp6Ssw6UE9onRGvYij8plE1ofapLBcvQ5e0c8qUSObg0oeG0xcCDMp31fABv7fyY06lBLvXN3x0eAs8i4RV9flGvbFb5sFempW5rEEr4RIlKd1EFfWpEMzlsmen/hw5SCr3cX6oPCUUgjzkQWKLkb+m9DIGv/POeCkSmLN1uagrtrsNC94Y5wGD9q80uCZWFmXd5D9USkzqJNJ+yPdRsXpRdkgHf6gEO/2cbtxOrWMt2FhOU4MgsDQIJQGBNlC2uqXIK0g5HMEfSNQ60KK09bD0+vrJuYNYrnDi5r6Ek2LBQ==;o3WcgMFxP3mgx0czww0zew=="
+---
+

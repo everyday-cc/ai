@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-11-foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats.md",
+      "title": "Foundations seek to advance AI for good — and also protect the world from its threats",
+      "excerpt": "While technology experts sound the alarm on the pace of artificial intelligence development, philanthropists — including long-established foundations and tech billionaires — have been responding with",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394",
+      "publishedDateTime": "2023-08-11T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-11-skills-youll-need-to-use-ai-effectively.md",
       "title": "11 Skills You’ll Need To Use AI Effectively",
       "excerpt": "This is foundational: basic computer skills, navigating the internet, comfort using new software for AI as it develops. Understanding how data is used by AI systems and how we use (and misuse) data. This includes data collection techniques, data privacy, and the potential for data bias.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -1390,58 +1433,6 @@
         "name": "The Statesman",
         "domain": "thestatesman.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-governance-maturity-index-a-comprehensive-assessment-framework.md",
-      "title": "AI Governance Maturity Index: A Comprehensive Assessment Framework",
-      "excerpt": "There are 5 broad levels of AI Governance Maturity that an organization may adopt. Each comes with key tradeoffs between speed of development, and risk mitigation, as well as costs to implement. The appropriate maturity level for an organization takes into account the organization's size,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-maturity-index-a-comprehensive-assessment-framework/",
-      "originalUrl": "https://www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-maturity-index-a-comprehensive-assessment-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1900005fe9519e9ea0a5f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-maturity-index-a-comprehensive-assessment-framework/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-maturity-index-a-comprehensive-assessment-framework/amp/",
-      "publishedDateTime": "2023-07-26T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

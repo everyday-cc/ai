@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/nvidia-h100-tensor-core-gpu-
 webUrl: "https://www.datanami.com/this-just-in/nvidia-h100-tensor-core-gpu-used-on-new-microsoft-azure-virtual-machine-series-now-generally-available/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 36
+  - title: "AI Companies are Trying to Score as Many Nvidia H100 Accelerators as Possible"
+    excerpt: "Elon Musk said that acquiring GPUs for AI training is even more difficult than buying drugs. Tweet (opens in a new tab) To give you an idea of the current demand, VentureBeat flagged a lengthy post discussing the \"GPU shortage\" currently riling the AI ..."
+    publishedDateTime: 2023-08-07T17:12:00Z
+    webUrl: "https://www.extremetech.com/computing/ai-companies-are-trying-to-score-as-many-nvidia-h100-accelerators-as-possible"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 16
 
 secured: "b6mC5/aAN8wDD4tv5YgvRvG2mlgqXtgRukA6TqP6mC/cg7amY/Rr3uifV5lCyyi9RoABJXs7oUH8VTJnphHBq8ihh6Rza4Hv0qXWwZyQYKWF2YosmBSwFgn2hetaZmJbWSBKBuwjEL44lcf7ogHGwyaI2GYMzST1+LeUY8i1WLZCAJRR2w0iEkSJOTvHnPkignbTSL6pboPujmXLA4wXAGN9EAuvjNmQCPDxhamwcACbWvZAk6YbJprfLgDQMuarEfL3cx3K3rk//n782CLCVwyqAfyGJ+bkilP6Ki70S+6onKsmCno/AG1OiBDEYaQ3edzMEF2KUNkDNwaJDguudotqEk0jWYEMxoUmBCInX2RaP8I/B0srhuVl8C51F2Z+ciNl1ytDEtDt6BdJaUW46BKumAwe3YybBRf28DcHNh/JTKTJwLl4wjPZv4SvCk5R333QTtMRo5x1eCMlUOpa5feq37jSx0yq0JXXHgRP1OfpXSdjo+OvqoC/iafI5pJSv+ID6K0GoFb3faBqXEaRaw==;JD1vvWeSE7QKKv3VvncI3w=="
 ---

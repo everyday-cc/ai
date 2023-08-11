@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Cloud-based workspace collaboration startup Genemod launches new AI solution"
+    excerpt: "Cloud-based workspace collaboration for biopharma startup Genemod Inc. today launched a new artificial intelligence solution designed to turbocharge lab productivity and secure global collaboration."
+    publishedDateTime: 2023-08-11T12:00:00Z
+    webUrl: "https://siliconangle.com/2023/08/11/cloud-based-workspace-collaboration-startup-genemod-launches-new-ai-solution/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 14
+
 secured: "+PmDQOfBNnCFTM5aGBuCrCxwLSzJa+UpoJ2A0+h2nmsHrdlPM931V8IFU7E3pSO8WrkOGCqdvsh99ADzuM6sR8AGnm5Dc24ca6zzQnx4jLKQ4OtCsjejgj9T8l3/ipm+oEhB9bJ9PIIkmR0USMKZoZm2jApsdtIBMUIaVj82Qc0egE2c9AS3XqhSZ8xgeunT+i7h+NO7YqW6UcGiozPPApVyESLb2NBNQ8nLiYqaHyYZCe9LAzBxpMuH8tiF7t/gAjthvAW6xJ8qzlBqb5RTUFTzgxfHLniDGge6QGP7+W2dKdzuDwiIbipLbMiGlgtcS36+C0fWYluKWWICwFrxE+1LWXdmmTCSSomY0aqFb8Y=;n3g4xtY/bZAL/ucwr92/zg=="
 ---
 

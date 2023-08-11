@@ -128,6 +128,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "Nvidia unveils new chip that will bring down cost of running ChatGPT and other AI models"
+    excerpt: "Nvidia has revealed its next-generation Grace Hopper platform, featuring the world's first HBM3e processor for generative AI. The system has a single"
+    publishedDateTime: 2023-08-08T22:39:00Z
+    webUrl: "https://www.headlinestoday.in/technology/nvidia-unveils-new-chip-that-will-bring-down-cost-of-running-chatgpt-and-other-ai-models-587942910.html"
+    type: article
+    provider:
+      name: headlinestoday
+      domain: headlinestoday.in
+    quality: 45
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/sites/headlinestoday/resources/images/headlinestoday_fb.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "How to add ChatGPT to Visual Code Studio for AI coding"
     excerpt: "One of the most notable features of the ChatGPT Genie AI extension is its ability to utilize Azure OpenAI Service deployments. This allows users to harness the power of Azure’s cloud computing capabilities, enhancing the performance and efficiency of the ..."
     publishedDateTime: 2023-08-08T20:58:00Z

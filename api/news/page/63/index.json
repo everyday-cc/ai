@@ -2,6 +2,461 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-06-30-6-ways-you-didnt-know-ai-can-help-with-your-side-gig.md",
+      "title": "6 Ways You Didn’t Know AI Can Help With Your Side Gig",
+      "excerpt": "“Moreover, Rekognition by Amazon Web Services is yet another helpful AI tool. I can now offer services like content moderation, object recognition and facial analysis thanks to Rekognition’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/6-ways-didn-t-know-190004758.html",
+      "originalUrl": "https://www.aol.com/finance/6-ways-didn-t-know-190004758.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/HTRB65PBcZTgoXWrYFVJlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/830fa60e94844d97ed0eeb4ac34f6f41",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-arteraai-announces-first-ever-ai-derived-biomarker-for-predicting-androgen-deprivation-therapy-adt-benefit-in-prostate-cancer.md",
+      "title": "ArteraAI Announces First-Ever AI-Derived Biomarker for Predicting Androgen Deprivation Therapy (ADT) Benefit in Prostate Cancer",
+      "excerpt": "ArteraAI, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announced today the publication of data in",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230629089773/en/ArteraAI-Announces-First-Ever-AI-Derived-Biomarker-for-Predicting-Androgen-Deprivation-Therapy-ADT-Benefit-in-Prostate-Cancer/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230629089773/en/ArteraAI-Announces-First-Ever-AI-Derived-Biomarker-for-Predicting-Androgen-Deprivation-Therapy-ADT-Benefit-in-Prostate-Cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-why-india-risks-falling-behind-in-the-ai-race.md",
+      "title": "Why India Risks Falling Behind in the AI Race",
+      "excerpt": "India’s tech industry is being less than bold in embracing artificial intelligence. It’s hoping to create solutions for corporate clients by building on top of somebody else’s investment in foundational technologies, hardly a strategy for pathbreaking success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKrCGrr9zSHg/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-researchers-teach-an-ai-to-write-better-chart-captions.md",
+      "title": "Researchers teach an AI to write better chart captions",
+      "excerpt": "Chart captions that explain complex trends and patterns are important for improving a reader's ability to comprehend and retain the data being presented. For people with visual disabilities, the information in a caption often provides their only means of understanding the chart.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-ai-captions.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-captions.amp",
+      "publishedDateTime": "2023-06-29T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment.md",
+      "title": "Google DeepMind calls for 'responsible' approach to AI amid 'eureka moment'",
+      "excerpt": "The explosion of interest around AI has come from recent advances in the technology that have allowed people to use it with conversational language, rather than the programmers who predominantly dabbled with it before,",
+      "sourceUrl": null,
+      "webUrl": "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment",
+      "originalUrl": "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/06/chy143-the-canadian-press.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment/wcm/1e5bc4fe-260e-4b6b-a92e-85495a4c4082/amp/",
+      "cdnAmpWebUrl": "https://thestarphoenix-com.cdn.ampproject.org/c/s/thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment/wcm/1e5bc4fe-260e-4b6b-a92e-85495a4c4082/amp/",
+      "publishedDateTime": "2023-06-29T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The StarPhoenix",
+        "domain": "thestarphoenix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge.md",
+      "title": "Runway draws fresh $141 million as next-level generative AI video begins to emerge",
+      "excerpt": "Runway, one of the hottest generative AI startups with its text-to-image video tools, raised $141 million in new funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge/",
+      "originalUrl": "https://venturebeat.com/ai/runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T151443.463.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-worldwide-voice-recognition-software-market-to-2030-increasing-demand-for-voice-biometric-system-for-user-authentication.md",
+      "title": "Worldwide Voice Recognition Software Market to 2030: Increasing Demand for Voice Biometric System for User Authentication",
+      "excerpt": "DUBLIN, June 29, 2023 /PRNewswire/ -- The \"Global Voice Recognition Software Market by Type (Speech Recognition, Voice Recognition), Technology (Artificial Intelligence (AI) Based, Non-Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33065636/worldwide-voice-recognition-software-market-to-2030-increasing-demand-for-voice-biometric-system-f",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33065636/worldwide-voice-recognition-software-market-to-2030-increasing-demand-for-voice-biometric-system-f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33065636",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33065636",
+      "publishedDateTime": "2023-06-29T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-how-to-start-a-career-in-artificial-intelligence.md",
+      "title": "How to start a career in artificial intelligence",
+      "excerpt": "Global industry disruption brought about by artificial intelligence (AI ... how we live and work with technologies like self-driving cars and virtual assistants. If you’re interested in ...",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/start-a-career-in-artificial-intelligence",
+      "originalUrl": "https://cointelegraph.com/news/start-a-career-in-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/58d12984-a56f-4a58-8ef9-1db84c7cbdeb.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/start-a-career-in-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/start-a-career-in-artificial-intelligence/amp",
+      "publishedDateTime": "2023-06-29T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-runway-a-startup-building-generative-ai-for-content-creators-raises-141m.md",
+      "title": "Runway, a startup building generative AI for content creators, raises $141M",
+      "excerpt": "Runway, a startup building generative AI tools geared toward film and image content creators, has raised $141 million in a Series C extension.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/",
+      "originalUrl": "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/gen-2.png?resize=1200,617",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/",
+      "publishedDateTime": "2023-06-29T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-inflection-lands-13b-investment-to-build-more-personal-ai.md",
+      "title": "Inflection lands $1.3B investment to build more ‘personal’ AI",
+      "excerpt": "Inflection AI, an AI startup aiming to build more 'personal' AI assistants, has raised $1.3 billion at a $4 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/",
+      "originalUrl": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1448152453.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/",
+      "publishedDateTime": "2023-06-29T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-ai-service-robotics-d-a-ch.md",
       "title": "AI Service Robotics - D-A-CH",
       "excerpt": "Value in the AI Service Robotics market is projected to reach US$0.42bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.46%, resulting in a market volume of US$1 ...",
@@ -696,469 +1151,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-how-advanced-ai-threatens-banking-security-systems.md",
-      "title": "How advanced AI threatens banking security systems",
-      "excerpt": "The future of payments promises to transform the fintech world as traditional friction barriers begin to disappear. Amid this innovation, concerns arise: could",
-      "sourceUrl": null,
-      "webUrl": "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems",
-      "originalUrl": "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2023-06/GettyImages-1490261842.jpg?itok=msI7us6j",
-          "width": 1200,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Central Banking",
-        "domain": "centralbanking.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-the-rise-of-ai-powered-entrepreneurs.md",
-      "title": "The Rise Of AI-Powered Entrepreneurs",
-      "excerpt": "In a recent speech, Yuval Harari called AI a groundbreaking \"non-biological agent,\" but business leaders are still trying to grasp how Bard, ChatGPT and other generative AI agents will help or hinder their success and humanity at-large.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649ae712978637ce3c8d315d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/amp/",
-      "publishedDateTime": "2023-06-29T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-databricks-hosts-data-ai-summit-unveils-suite-of-ai-tools-for-customers.md",
-      "title": "Databricks Hosts Data + AI Summit, Unveils Suite Of AI Tools For Customers",
-      "excerpt": "Databricks has revealed its new AI-augmented Lakehouse IQ platform, while Snowflake confirmed it was partnering with Nvidia to help customers build their own AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649d915b0297b7ca3032423a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/amp/",
-      "publishedDateTime": "2023-06-29T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-this-transformer-like-robot-can-roll-fly-stand-walk-and-more.md",
-      "title": "This Transformer-Like Robot Can Roll, Fly, Stand, Walk, and More",
-      "excerpt": "Robots are slowly getting smarter, mostly thanks to advances in artificial intelligence that enables them to learn on their own rather than requiring constant human guidance. But despite being able to independently learn new tasks, most robots are still ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/",
-      "originalUrl": "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/06/Gharib_Mory-Lab-M4-Robot-063.2e16d0ba.fill-1600x810-c100.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/?amp=1",
-      "publishedDateTime": "2023-06-29T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-developer-claims-steam-is-rejecting-games-with-ai-generated-artwork.md",
-      "title": "Developer claims Steam is rejecting games with AI-generated artwork",
-      "excerpt": "Valve has reportedly become the latest company to react to the uncertain legal landscape surrounding AI-generated artwork by simply barring its use in submitted materials. An anonymous developer going by the Reddit handle potterharry97 reports having a Steam game page submission rejected for the use of \"art assets generated by artificial intelligence that appears to be relying on copyrighted material owned by third parties.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gaming/2023/06/steam-mods-reportedly-blocking-games-that-use-ai-generated-artwork/",
-      "originalUrl": "https://arstechnica.com/gaming/2023/06/steam-mods-reportedly-blocking-games-that-use-ai-generated-artwork/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/steam-stats.jpeg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gaming/2023/06/steam-mods-reportedly-blocking-games-that-use-ai-generated-artwork/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gaming/2023/06/steam-mods-reportedly-blocking-games-that-use-ai-generated-artwork/amp/",
-      "publishedDateTime": "2023-06-29T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-what-is-asset-reliability.md",
-      "title": "What is asset reliability?",
-      "excerpt": "Asset reliability is the ability of an asset to perform under certain conditions over a specified period without breaking down.\nThe post What is asset reliability? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-asset-reliability/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-asset-reliability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T06:26:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram.md",
-      "title": "Meta releases clues on how AI is used on Facebook and Instagram",
-      "excerpt": "As demand for greater transparency in artificial intelligence mounts ... such as Instagram Stories and Facebook’s news feed. These describe how Meta selects what content to recommend to users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html",
-      "originalUrl": "https://www.cnn.com/2023/06/29/tech/meta-discloses-ai-information/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-digital-twin-vs-digital-thread-two-complementary-ways-to-digitally-replicate-assets.md",
-      "title": "Digital twin vs digital thread: Two complementary ways to digitally replicate assets",
-      "excerpt": "As digital transformation accelerates in manufacturing and engineering, two concepts have gained significant traction: digital twins and digital threads.\nThe post Digital twin vs digital thread: Two complementary ways to digitally replicate assets appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/digital-twin-vs-digital-thread-two-complementary-ways-to-digitally-replicate-assets/",
-      "originalUrl": "https://www.ibm.com/blog/digital-twin-vs-digital-thread-two-complementary-ways-to-digitally-replicate-assets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T06:13:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era.md",
-      "title": "Why Startups Need An Old-School Approach To Talent Development In The AI Era",
-      "excerpt": "It was an era that took computers from room-sized systems that seemed to consume punch cards to something smaller and more usable. We were on the verge of enormous change, introducing computers into business processes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649c36af10ee767e81facb6d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/amp/",
-      "publishedDateTime": "2023-06-29T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-wordly-wins-virtual-events-innovation-award-and-passes-2-million-ai-translation-user-milestone.md",
-      "title": "Wordly Wins Virtual Events Innovation Award and Passes 2 Million AI Translation User Milestone",
-      "excerpt": "Wordly, the leading provider of AI translation for meetings and ... the Wordly translation platform provides real-time translation into 30+ languages for in-person and virtual meetings and events.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33056781/wordly-wins-virtual-events-innovation-award-and-passes-2-million-ai-translation-user-milestone",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33056781/wordly-wins-virtual-events-innovation-award-and-passes-2-million-ai-translation-user-milestone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33056781",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33056781",
-      "publishedDateTime": "2023-06-29T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

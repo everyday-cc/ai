@@ -48,6 +48,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "What NVIDIA’s New Superchip Means for the Future of AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips NVIDIA Corporation (NVDA) has been very busy this year. In February, NVIDIA"
+    publishedDateTime: 2023-08-11T20:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2023/08/lnel-8.11.23.jpg"
+        width: 917
+        height: 696
+        isCached: true
   - title: "Chinese companies splash $5B on Nvidia AI chips"
     excerpt: "In late 2022, the US blocked Chinese companies from acquiring advanced semiconductors and chipmaking equipment: this week, the nation announced a ban on domestic businesses investing in China’s AI and quantum computing sectors, starting from 2024. Bulk orders have also been made due to fears about GPU shortages fuelled by rising demand, FT added."
     publishedDateTime: 2023-08-10T11:02:00Z

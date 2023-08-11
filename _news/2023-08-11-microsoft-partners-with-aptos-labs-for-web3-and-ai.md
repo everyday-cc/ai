@@ -220,6 +220,15 @@ related:
         width: 975
         height: 548
         isCached: true
+  - title: "Microsoft: A Long-Term Investment in AI"
+    excerpt: "In addition to being a financial investment, OpenAI granted Microsoft access to its AI research and development ... development and spokeswoman for Facebook and sister to Meta Platforms CEO ..."
+    publishedDateTime: 2023-08-08T09:59:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/08/microsoft-a-long-term-investment-in-ai/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 66
   - title: "Microsoft’s AI Red Team Has Already Made the Case for Itself"
     excerpt: "Since 2018, a dedicated team within Microsoft has attacked machine learning systems to make them safer. But with the public release of new generative AI tools, the field is already evolving."
     publishedDateTime: 2023-08-07T17:51:00Z

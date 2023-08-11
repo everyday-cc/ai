@@ -150,50 +150,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-09-new-machine-learning-method-may-aid-personalized-cancer-therapy.md",
-      "title": "New machine-learning method may aid personalized cancer therapy",
-      "excerpt": "Deep-learning technology developed by a team of Johns Hopkins engineers and cancer researchers can accurately predict cancer-related protein fragments that may trigger an immune system response. If validated in clinical trials,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/new-machine-learning-m-1.jpg",
-          "width": 2167,
-          "height": 1522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.amp",
-      "publishedDateTime": "2023-08-09T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-08-09-how-machine-learning-could-aid-compatibility-in-kidney-transplantation.md",
       "title": "How machine learning could aid compatibility in kidney transplantation",
       "excerpt": "The United States saw a record 25,487 kidney transplants in 2021, according to the latest annual data report from the Organ Procurement and Transplantation Network and Scientific Registry of Transplant Recipients.",
@@ -334,6 +290,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-08-mindsdb-raises-funding-from-nvidia-to-democratize-ai-application-development.md",
+      "title": "MindsDB raises funding from Nvidia to democratize AI application development",
+      "excerpt": "MindsDB aims to democratize AI development and production for all stripes of developers without requiring specialized AI training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/mindsdb-raises-funding-from-nvidia-to-democratize-ai-application-development/",
+      "originalUrl": "https://venturebeat.com/ai/mindsdb-raises-funding-from-nvidia-to-democratize-ai-application-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/634aea6929d4e1802257ff90_prev.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told.md",
       "title": "AI, Machine Learning Is Used To Detect Potential Frauds Under Ayushman Bharat, Rajya Sabha Told",
       "excerpt": "Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) uses artificial intelligence and machine learning (AI/ML) to detect suspicious transactions and frauds.",
@@ -374,6 +382,58 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-zoom-revises-terms-after-changes-spark-fears-of-ai-learning-from-video-chats.md",
+      "title": "Zoom Revises Terms After Changes Spark Fears of AI Learning From Video Chats",
+      "excerpt": "The video-conferencing firm says 'we do not use audio, video, or chat content for training our models without customer consent.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/zoom-revises-terms-after-changes-spark-fears-of-ai-learning-from-video",
+      "originalUrl": "https://www.pcmag.com/news/zoom-revises-terms-after-changes-spark-fears-of-ai-learning-from-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01ZiH3RhJsKjZucRJOI18Cv-1.fit_lim.size_1200x630.v1691443301.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1354,49 +1414,6 @@
       "provider": {
         "name": "cryptopolitan",
         "domain": "cryptopolitan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-how-is-machine-learning-different-from-deep-learning.md",
-      "title": "How is machine learning different from deep learning?",
-      "excerpt": "The confusion between machine learning and deep learning is an obvious one. Oftentimes, many people use the two interchangeably. However, these are",
-      "sourceUrl": null,
-      "webUrl": "https://www.jagranjosh.com/general-knowledge/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "originalUrl": "https://www.jagranjosh.com/general-knowledge/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jagranjosh.com/images/2023/July/3172023/AnalyticsVidhya-1_11zon.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "publishedDateTime": "2023-07-30T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jagranjosh.com",
-        "domain": "jagranjosh.com",
         "images": null,
         "publishers": null,
         "authors": null

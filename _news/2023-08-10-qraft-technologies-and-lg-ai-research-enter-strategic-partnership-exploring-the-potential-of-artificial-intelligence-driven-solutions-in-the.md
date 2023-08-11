@@ -157,6 +157,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
+  - title: "Fintechs experiment with generative AI, but development is slow going"
+    excerpt: "The firms are increasingly seeking to integrate generative artificial intelligence into their products, and banks are potentially interested customers. But such efforts are costly, the risks are high,"
+    publishedDateTime: 2023-08-11T18:48:00Z
+    webUrl: "https://www.americanbanker.com/news/fintechs-experiment-with-generative-ai-but-development-is-slow-going"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 19
   - title: "Strategic ingenuity: Insights on sustaining tech excellence and innovation in Fintech Sector"
     excerpt: "In the rapidly evolving landscape of fintech, achieving and sustaining technological excellence and innovation is paramount for companies to remain"
     publishedDateTime: 2023-08-09T09:30:00Z
@@ -175,17 +184,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "Back-Office Outsourcing Philippines: Cynergy BPO — Propelling Fintech Innovation with Advanced Tech & Superior CX"
-    excerpt: "The dawn of financial technology, or fintech, has ignited a revolutionary transformation in financial services, redefining interactions, service delivery, and customer experience (CX). Amidst this technological tidal wave,"
-    publishedDateTime: 2023-08-07T04:51:00Z
-    webUrl: "https://www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/"
-    ampWebUrl: "https://www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 3
 
 secured: "LHHt+J6Ic1wq+S4Hy/T4NlQo6LYeEek9+1PdCCqN6cy5AqCzTtbw2h2X+0eYRSVFLVGRmYsIbs/Xd9OLPMaOP3hS14DACSt+rzj8Y5MhQvE/rAZ79S3mxO2OWfNXWbXcZmvlNrM4JCFVW9IALKsy71leKe/jGKex5Pl2frIiOdA09iY9PIZL1tkQuEL83t+THIDy1hawShqpLlv3Pmvien+4SjcDDGeS22VmCDjrEvvcNxUWtmWX1nep7cFrlNYKZJFbCSr6VKX9tdgl+Ru6LzwoVQClu2kkk7u/fcOB99XwunSHkujDzB5ciuGIP5Bm6ahLAE+Ow+hBvHmITYgdkAbjO7bD5F6V1tr8FHbNZqY=;UtD9U3x/mdL9I1WDKqnGLw=="
 ---

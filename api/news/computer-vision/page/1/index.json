@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-12-advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms.md",
-      "title": "Advocacy group raises privacy concerns as facial recognition technology booms",
-      "excerpt": "Safety, efficiency and profitability are touted as the key drivers behind the growing popularity of digital ID technologies like facial recognition, but they present important privacy risks, Calgary-based legal advocacy organization Justice Centre for Constitutional Freedoms (JCCF) reveals in a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542",
-      "originalUrl": "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/08/GettyImages-1311613664.jpg",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1",
-      "publishedDateTime": "2023-08-11T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-10-stem-cell-therapy-rescues-symptoms-of-alzheimers-disease.md",
       "title": "Stem cell therapy rescues symptoms of Alzheimer's disease",
       "excerpt": "Promising preclinical results show hematopoietic stem cell therapy was effective in rescuing memory loss, neuroinflammation and beta amyloid build-up in a mouse model of Alzheimer's disease.",
@@ -133,58 +90,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-10-new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism.md",
-      "title": "New Chinese Facial Recognition Regulations Could Shield Citizens From Surveillance Capitalism",
-      "excerpt": "China’s cyber regulator just released draft regulations on facial recognition technology. They enable continued state surveillance—and overt government exceptionalism. But they also grant individuals the right to protect their personal data (in this case,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/",
-      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d428db7828753d19d9d123/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/amp/",
-      "publishedDateTime": "2023-08-09T17:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-09-how-ai-and-ml-can-revolutionize-banks-signature-verification-process.md",
       "title": "How AI And ML Can Revolutionize Banks’ Signature Verification Process",
       "excerpt": "Despite increased digitization over the last decade, most organizations continue to rely on signatures as the primary method of transaction authentication.",
@@ -238,6 +143,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-08-china-releases-plans-to-restrict-facial-recognition-technology.md",
+      "title": "China releases plans to restrict facial recognition technology",
+      "excerpt": "China is planning to restrict businesses' use of facial recognition technology in favor of non-biometric methods, according to the Cyberspace Administration. If facial recognition is used ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107283043-1691456149025-gettyimages-1359517707-vcg111361963637.jpeg?v=1691467558",
+          "width": 5476,
+          "height": 3651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html",
+      "publishedDateTime": "2023-08-07T21:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-chinas-draft-measures-demand-individual-consent-for-facial-recognition-use.md",
       "title": "China’s draft measures demand ‘individual consent’ for facial recognition use",
       "excerpt": "The pervasive use of facial recognition technology across all facets of life in China has elicited both praise for its convenience and backlash around privacy concerns. The widespread adoption has also fueled the exponential growth of valuations in companies specializing in the field,",
@@ -246,7 +203,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -290,6 +247,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-08-innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend.md",
+      "title": "Innocent pregnant woman jailed amid faulty facial recognition trend",
+      "excerpt": "Woodruff's arrest, and the recent trend of false arrests, has sparked a new round in an ongoing debate about the reliability of facial recognition technology in criminal investigations. Critics say the trend highlights the weaknesses of facial recognition technology and the risks it poses to innocent people.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition.md",
       "title": "Detroit Woman Sues City Police After Being Wrongfully Arrested Due To AI Facial Recognition",
       "excerpt": "Six police officers arrested Porcha Woodruff, who was eight months pregnant, after mistaking her for someone who had robbed a car.",
@@ -298,7 +298,7 @@
       "originalUrl": "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 454,
+      "heat": 464,
       "tags": null,
       "images": [
         {
@@ -322,6 +322,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-eight-months-pregnant-and-arrested-after-false-facial-recognition-match.md",
+      "title": "Eight Months Pregnant and Arrested After False Facial Recognition Match",
+      "excerpt": "She is the first woman known to be wrongfully accused as a result of facial recognition technology. By Kashmir Hill Porcha Woodruff was getting her two daughters ready for school when six police ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html",
+      "originalUrl": "https://www.nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/05/multimedia/00false-arrest-tmvh/00false-arrest-tmvh-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-06T21:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1372,49 +1424,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-himachal-govt-introduces-face-recognition-tech-for-pensioners.md",
-      "title": "Himachal govt introduces face recognition tech for pensioners",
-      "excerpt": "With this initiative, pensioners can get their faces biometrically verified and submit their life certificates from their Android devices without any hassle.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/",
-      "originalUrl": "https://indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/07/Facial-Recognition-Feat.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/lite/",
-      "publishedDateTime": "2023-07-27T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

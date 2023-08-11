@@ -36,6 +36,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "Nvidia debuts upgraded GH200 Grace Hopper chip with high-speed memory"
+    excerpt: "According to Nvidia, the new edition of the GH200 is the world’s first processor to include HBM3e memory. That’s a type of high-speed memory designed to store the data that a chip is actively processing. It’s 50% faster than HBM3, the technology used in the original version of the GH200."
+    publishedDateTime: 2023-08-08T20:04:00Z
+    webUrl: "https://siliconangle.com/2023/08/08/nvidia-debuts-upgraded-gh200-grace-hopper-chip-high-speed-hbm3e-memory/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/nvidia.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "ZQH1CG7TXsWkG6rtXx5Cgx4j8bRJd4s/nowKTMMAyNPM5kqI/IHaNXJXEwUXil8410XKF2DnTZoVaSGf/aLKE2rq+WFlUx4u7v2LTKdbZ2QCJTuhL0cKJq/SXjSATix7yYHC15VQ/42EbfsPvtE6FvtKm9BWL74YXuRL2gVd7RNl4E94Guq2gbfLn6ScrwlviMqeREaXAj1XgHOaYLJeNCf9EzRNNZuqS0+V5CkOnRg8+2oskTD2NmFVQqxLOkhb6gCkSIqtxen500to/xeI2YWVxBF70KFzbX6Czy+3CpZl1LOO7r3DQAJelmTARPu0S+jHNjMbEfKedIM/B+jmpEj1IQIr7c4H5aPKgSbhth6sph6ao+cyqdz3id3gaVWzvzSWskh6Hz2Vcr0clgrb0vJ0P37gXkERqDZ6FH+UOabHQqzkL1i9GxDBuc6crpVl5PT5E7FrMoWMV7Mk+dRWHCvZAtoVBsJXX06dfM/a3nvTQ5sGgGFGpOhba4IJqWsPv+n+YdNlThEebIXnW9mRMg==;pYWIVOtfmlt9Yv0u6DLFdQ=="
 ---

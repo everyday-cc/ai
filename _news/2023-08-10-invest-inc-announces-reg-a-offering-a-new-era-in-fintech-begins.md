@@ -158,6 +158,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
+  - title: "Fintechs experiment with generative AI, but development is slow going"
+    excerpt: "The firms are increasingly seeking to integrate generative artificial intelligence into their products, and banks are potentially interested customers. But such efforts are costly, the risks are high,"
+    publishedDateTime: 2023-08-11T18:48:00Z
+    webUrl: "https://www.americanbanker.com/news/fintechs-experiment-with-generative-ai-but-development-is-slow-going"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 19
   - title: "Strategic ingenuity: Insights on sustaining tech excellence and innovation in Fintech Sector"
     excerpt: "In the rapidly evolving landscape of fintech, achieving and sustaining technological excellence and innovation is paramount for companies to remain"
     publishedDateTime: 2023-08-09T09:30:00Z
@@ -167,17 +176,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 8
-  - title: "Back-Office Outsourcing Philippines: Cynergy BPO — Propelling Fintech Innovation with Advanced Tech & Superior CX"
-    excerpt: "The dawn of financial technology, or fintech, has ignited a revolutionary transformation in financial services, redefining interactions, service delivery, and customer experience (CX). Amidst this technological tidal wave,"
-    publishedDateTime: 2023-08-07T04:51:00Z
-    webUrl: "https://www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/"
-    ampWebUrl: "https://www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 3
   - title: "Qraft Technologies and LG AI Research Enter Strategic Partnership – Exploring the Potential of Artificial Intelligence-Driven Solutions in the Financial Industry"
     excerpt: "SEOUL, South Korea-- ( BUSINESS WIRE )-- Qraft Technologies, a leading invest-tech company developing artificial intelligence solutions, has formally entered into a strategic technology research partnership with LG AI Research, an artificial intelligence research hub of LG group, with the signing of a Memorandum of Understanding (“MoU”)."
     publishedDateTime: 2023-08-10T13:00:00Z

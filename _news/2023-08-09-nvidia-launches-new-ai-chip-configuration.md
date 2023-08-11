@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "What NVIDIA’s New Superchip Means for the Future of AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips NVIDIA Corporation (NVDA) has been very busy this year. In February, NVIDIA"
+    publishedDateTime: 2023-08-11T20:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2023/08/lnel-8.11.23.jpg"
+        width: 917
+        height: 696
+        isCached: true
   - title: "Opinion: This is what tech companies, from Amazon to Apple, just told investors about AI"
     excerpt: "That set up sky-high expectations for companies that are embedding AI-related technology across their product suites as well as chip companies that are selling to them. The second quarter, therefore, became a litmus test. Here’s a breakdown of AI’s ..."
     publishedDateTime: 2023-08-08T11:49:00Z

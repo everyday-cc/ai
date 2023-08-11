@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1"
 type: article
 quality: 71
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: IT World Canada
@@ -27,15 +27,110 @@ images:
     isCached: true
 
 related:
-  - title: "Innocent pregnant woman jailed amid faulty facial recognition trend"
-    excerpt: "Woodruff's arrest, and the recent trend of false arrests, has sparked a new round in an ongoing debate about the reliability of facial recognition technology in criminal investigations. Critics say the trend highlights the weaknesses of facial recognition technology and the risks it poses to innocent people."
-    publishedDateTime: 2023-08-07T18:39:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/"
+  - title: "China releases plans to restrict facial recognition technology"
+    excerpt: "China is planning to restrict businesses' use of facial recognition technology in favor of non-biometric methods, according to the Cyberspace Administration. If facial recognition is used ..."
+    publishedDateTime: 2023-08-08T04:52:00Z
+    webUrl: "https://www.cnbc.com/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 64
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107283043-1691456149025-gettyimages-1359517707-vcg111361963637.jpeg?v=1691467558"
+        width: 5476
+        height: 3651
+        isCached: true
+  - title: "New Chinese Facial Recognition Regulations Could Shield Citizens From Surveillance Capitalism"
+    excerpt: "China’s cyber regulator just released draft regulations on facial recognition technology. They enable continued state surveillance—and overt government exceptionalism. But they also grant individuals the right to protect their personal data (in this case,"
+    publishedDateTime: 2023-08-10T00:03:00Z
+    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/"
+    ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d428db7828753d19d9d123/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "After Feeding Explosion of Facial Recognition, China Moves to Rein It In"
+    excerpt: "The proposal, which carves out exceptions for national security, is the latest in a series of moves to put guardrails around how companies use data and artificial intelligence."
+    publishedDateTime: 2023-08-08T10:07:00Z
+    webUrl: "https://www.wsj.com/articles/china-drafts-rules-for-facial-recognition-use-4953506e"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 68
+    images:
+      - url: "https://images.wsj.net/im-831488/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "China Proposes Stricter Regulations on Facial Recognition to Protect Privacy"
+    excerpt: "China, a country known for its adoption of facial recognition technology, is taking steps to establish more defined boundaries for its usage."
+    publishedDateTime: 2023-08-08T09:13:00Z
+    webUrl: "https://www.coinspeaker.com/china-regulations-facial-recognition/"
+    ampWebUrl: "https://www.coinspeaker.com/china-regulations-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/china-regulations-facial-recognition/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 56
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/05/china-prosecution-agency-nft-users.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "China releases draft regulations on facial recognition technology"
+    excerpt: "China’s cyberspace regulator announced the release of draft regulations aimed at overseeing the security management of facial recognition"
+    publishedDateTime: 2023-08-08T08:55:00Z
+    webUrl: "https://technode.com/2023/08/08/china-releases-draft-regulations-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/08/117869015_l_normal_none-scaled.jpg?fit=2560%2C1707&ssl=1"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Application of facial recognition tech needs to be strictly regulated"
+    excerpt: "Although the technology will improve efficiency and convenience, it brings with it deep security risks. The draft regulation is aimed at improving standardized application and compliance of facial recognition technology in order to effectively protect personal information and property rights, and maintain social order and public safety."
+    publishedDateTime: 2023-08-09T23:36:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202308/10/WS64d415c7a31035260b81b385.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202308/10/64d415c7a310352610ba6cf4.jpeg"
+        width: 721
+        height: 480
+        isCached: true
+  - title: "DPD pushes to enact changes to photo lineups after facial recognition lawsuit"
+    excerpt: "DPD Chief James White spoke Wednesday about a lawsuit filed last week in response to the department’s use of facial recognition technology that led to a Detroit woman being falsely arrested."
+    publishedDateTime: 2023-08-09T21:35:00Z
+    webUrl: "https://www.wxyz.com/news/dpd-pushes-to-enact-changes-to-photo-lineups-after-facial-recognition-lawsuit"
+    type: article
+    provider:
+      name: WXYZ
+      domain: wxyz.com
+    quality: 36
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c4d91d6/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2Fdf3%2Fbe88c4e651db4a7dbe102614d7272948%2Fdf361fcd68a54b8da81329dfc436b5ec%2Fposter_0a47622d89c94d479fafd0c213d1a00f.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "State report identifies risks in schools' use of facial recognition technology"
     excerpt: "The New York State Office of Information Technology Services (ITS) has determined that, when it comes to the use of facial recognition technology for security in schools, the “risks may"
     publishedDateTime: 2023-08-09T00:45:00Z
@@ -59,7 +154,30 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 34
+  - title: "China Plans To Restrict Use Of Facial Recognition Tech By Businesses, Issues Draft Guidelines"
+    excerpt: "China is planning to restrict private businesses from using facial recognition technology less than two years after it announced a data security law."
+    publishedDateTime: 2023-08-09T09:32:00Z
+    webUrl: "https://www.ibtimes.com/china-plans-restrict-use-facial-recognition-tech-businesses-issues-draft-guidelines-3708019"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 28
+    images:
+      - url: "https://d.ibtimes.com/en/full/3134691/facial-recognition-systems-could-using-your-photos-without-your-knowledge.jpg"
+        width: 1920
+        height: 1285
+        isCached: true
+  - title: "China Drafts Rules for Facial Recognition Technology"
+    excerpt: "The Cyberspace Administration of China has issued draft rules governing the use of facial recognition technology amid public concerns about its overuse."
+    publishedDateTime: 2023-08-09T16:38:00Z
+    webUrl: "https://cacm.acm.org/news/275343-china-drafts-rules-for-facial-recognition-technology/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
-secured: "ze2YGM4UXta67J20tPLnYvHxQuyHBHkk9dL/nJQIIN/7+SFfEfQvHZ9iy9OepIdIqbq+8NUO9avzLWfpA88O1PrNKFIz0BAXqGYH1VVIy7NwKcUJH8kusOhaX94vUI78yVG1JXvS/knuhsWLqR0nBej9deUEg3zEp6p8CAE+HiO+6HXLIRbtiktKVlF6aHEfyNKhkTnbCD3Xc2d2DH+LVLKDIzJTiOKm6uX5Fh0Qd0j50dnZz9FMKlbBY2fw5+14XB2IPfYr91gqnqj2/0l4t4Pu+KlygSXNkKhtHXZnMpdOt/sccbhM2Ojd8xhRzDweX3b6sZ7r6g2Wpuzc/BAOc+shKiKhp4q7BveFpv/NTbo=;IWNLlXR+Spu4dIvg8I37Yw=="
+secured: "eNI7fAzOmmBvgb58kI1LrYRxQCtRcBY0HdH4cBJeXYX+pbMv0JrVuU6wOpx+iSaaU8e3sZ6e/dYltqSpIIM0MTWQIJQlfTQHoGaAl64lx/RXh/ECAi9WF3JlPadOQK/b6KjSjhCGSbOjQib2WYwpe2lunCArEuZT3o9a4AkwdnRiRHVTN6Dq5/CsqZaT2n+DLMGyKCeyJpq2TQ2bQC07/unp46Bbpw8+HqQFZbICCr7nJ81Os//DHiNED474kcwiou3fYyisbw6FOfa4/W308vzJ5tAZMhnHSWLnvVHlEn666Lal6lTx++TEb6KBaHUgwflBjplfcYCDlmT8zfLldF4gIwVq/YB77JEYTVXTUKc9LqV7GH0yVLMsaon5AlMXoiVJAcGvy8TP6nGhYZHfL+Yc5EzUh/HiYAOM3ZDPgB8UMRURlLuZpCmSWKuQDaSuLznnf4267v2jWlvv5MzHiQ3Eid/CM+Is3PGow1IaiFDqZkn6gYe0y7qfCN8tm12j1M3H8kMjmCA8CCv/+QYnHA==;zN09nan5vJjwOyHTVCoyrQ=="
 ---
 

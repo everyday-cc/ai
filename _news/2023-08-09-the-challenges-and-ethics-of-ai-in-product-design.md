@@ -41,6 +41,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Inside the hunt for AI chips"
+    excerpt: "Everyone wants Nvidia’s chips but they’re nearly impossible to get. Also: updates on the Reddit protest, Musk versus Zuck cage match, and more."
+    publishedDateTime: 2023-08-11T18:33:00Z
+    webUrl: "https://www.theverge.com/2023/8/11/23828874/inside-the-hunt-for-ai-chips-command-line"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 66
   - title: "Announcing US$5 million in Grand Challenges AI grants to spur local innovation for global good"
     excerpt: "Nearly 50 projects are receiving up to $100,000 to pursue the use of AI to solve problems in global health and development."
     publishedDateTime: 2023-08-09T15:43:00Z

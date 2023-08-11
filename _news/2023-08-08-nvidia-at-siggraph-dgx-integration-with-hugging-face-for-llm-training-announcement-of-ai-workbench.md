@@ -25,299 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia teams up with Hugging Face to offer cloud-based AI training"
-    excerpt: "Nvidia is partnering with Hugging Face, the AI startup, to expand access to AI compute. Timed to coincide with the annual SIGGRAPH conference this week, Nvidia announced that it’ll support a new Hugging Face service, called Training Cluster as a Service ..."
-    publishedDateTime: 2023-08-08T16:16:00Z
-    webUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/"
-    ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
+  - title: "BOXX Upgrades AI Workstation Module with New NVIDIA L40S GPUs"
+    excerpt: "BOXX Technologies, the leading innovator of high-performance computer workstations, rendering systems, and servers, today announced that RAXX P1G, a rack-mounted"
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635531/boxx-upgrades-ai-workstation-module-with-new-nvidia-l40s-gpus"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33635531"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635531"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?resize=1200,900"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Nvidia CEO: We bet the farm on AI and no one knew it"
-    excerpt: "It required that we reinvent the hardware, the software, the algorithms. And while we were reinventing CG with AI, we were reinventing the GPU for AI.” While ray-tracing and DLSS are still in the process of being adopted across the diverse and complex ..."
-    publishedDateTime: 2023-08-08T17:53:00Z
-    webUrl: "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/"
-    ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/nvidia-siggraph1.jpg?resize=1200,749"
-        width: 1200
-        height: 749
-        isCached: true
-  - title: "Nvidia unveils upgraded chip to power the next gen of AI"
-    excerpt: "Nvidia has announced its next generation AI chip platform which uses the new Grace Hopper Superchip with the world’s first HBM3e processor."
-    publishedDateTime: 2023-08-09T15:38:00Z
-    webUrl: "https://www.techradar.com/pro/nvidia-unveils-upgraded-chip-to-power-the-next-gen-of-ai"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/RqZGLD9cNLDo9TwwpFEFAD-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions -FT"
-    excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday."
-    publishedDateTime: 2023-08-09T21:54:00Z
-    webUrl: "https://www.reuters.com/technology/chinas-internet-giants-order-5-bln-nvidia-chips-power-ai-ambitions-ft-2023-08-09/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 80
-    images:
-      - url: "https://www.reuters.com/resizer/tyFpR0H5gc8GFCzc32yvJXBPe84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VTXHVAI3VBOYTAQRG7NBVL5EII.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Nvidia Unveils New AI Chip Set to Cut Cost of Running LLMs"
-    excerpt: "Nvidia appears to have turned up the heat on its competitors within the artificial intelligence (AI) hardware space."
-    publishedDateTime: 2023-08-09T08:14:00Z
-    webUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/"
-    ampWebUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 74
     images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/nvidia-ai-chip-llms.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Nvidia’s new AI chip to offer boon for Korean chip giants’ HBM business"
-    excerpt: "Nvidia’s newest AI chip utilizing the world’s first HBM3e processor is expected to boost growth for SK hynix and Samsung Electronics, the two chipmakers dominating the still-nascent High Bandwidth Memory market. Nvidia, a leading producer of GPUs based ..."
-    publishedDateTime: 2023-08-10T05:50:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20230810000504"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230810000504"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230810000504"
+  - title: "NVIDIA Unveils RTX 5000, 4500 And 4000 Ada Workstation GPUs To Crush AI Workloads"
+    excerpt: "NVIDIA announced the much-anticipated expansion of its workstation graphics card lineup based on Ada Lovelace."
+    publishedDateTime: 2023-08-09T14:15:00Z
+    webUrl: "https://hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
     type: article
     provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 74
+      name: HotHardware
+      domain: hothardware.com
+    quality: 69
     images:
-      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F08%2F10%2F20230810000490_0.jpg"
-        width: 630
-        height: 354
+      - url: "https://images.hothardware.com/contentimages/newsitem/62253/content/NVIDIA_RTX_5000_Hero.jpg"
+        width: 708
+        height: 400
         isCached: true
-  - title: "China's internet giants order $5 billion of Nvidia chips to power AI ambitions"
-    excerpt: "Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,000 A800 processors from the U.S. chipmaker to be delivered this year, the FT reported, citing multiple people familiar with the matter."
-    publishedDateTime: 2023-08-10T00:58:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html/amp"
+  - title: "Nvidia flexes generative AI muscle at SIGGRAPH with new GPUs, development software"
+    excerpt: "GPU titan Nvidia doubled down on generative AI at SIGGRAPH this week, unveiling new chips, server designs, and software to fill out its ecosystem of artificial intelligence hardware and systems design products."
+    publishedDateTime: 2023-08-09T21:34:00Z
+    webUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.html"
+    ampWebUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2018/08/nvidiagaminggraphicsgaming-graphics.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Build generative AI applications using Azure and NVIDIA H100 Tensor Core GPUs"
-    excerpt: "Microsoft Azure users can now leverage the latest NVIDIA accelerated computing technology to train, deploy and build generative AI applications. The"
-    publishedDateTime: 2023-08-08T08:37:00Z
-    webUrl: "https://www.geeky-gadgets.com/build-generative-ai-apps-08-08-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: Network World
+      domain: networkworld.com
     quality: 68
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Build-generative-AI-applications.jpg"
-        width: 700
-        height: 461
-        isCached: true
-  - title: "MindsDB raises funding from Nvidia to democratize AI application development"
-    excerpt: "MindsDB aims to democratize AI development and production for all stripes of developers without requiring specialized AI training."
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/mindsdb-raises-funding-from-nvidia-to-democratize-ai-application-development/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/634aea6929d4e1802257ff90_prev.png?w=1200&strip=all"
+      - url: "https://images.idgesg.net/images/article/2023/08/nvidia-l40s-100944528-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 701
+        height: 800
         isCached: true
-  - title: "Nvidia announces AI Workbench, a new dev tool for building gen AI models on PCs"
-    excerpt: "AI Workbench provides a simple user interface that runs on the developer's machine and connects to HuggingFace, Github and Nvidia's own enterprise portal."
-    publishedDateTime: 2023-08-08T23:00:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-announces-ai-workbench-a-new-dev-tool-for-building-gen-ai-models-on-pcs/"
+  - title: "Nvidia announces updated GH200 Grace Hopper GPU with HBM3e memory for generative AI workloads"
+    excerpt: "Nvidia has announced an updated version of its GH200 'superchip,' which will be the first GPU in the world to include HBM3e memory."
+    publishedDateTime: 2023-08-09T15:26:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-updated-gh200-grace-hopper-gpu-with-hbm3e-memory-for-generative-ai-workloads/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 43
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_surrounded_by_glowing_green_holographic_code_73d4986d-4889-41b0-9899-deab01c71ff0.png?w=1200&strip=all"
-        width: 1200
-        height: 672
+      - url: "https://media.datacenterdynamics.com/media/images/GH200_HBM3e.2e16d0ba.fill-1200x630.png"
+        width: 1124
+        height: 592
         isCached: true
-  - title: "Nvidia boosts its 'superchip' Grace-Hopper with faster memory for AI"
-    excerpt: "Nvidia announced a desktop software program called AI Workbench to more easily containerize neural net models on local workstations to stage them for the cloud."
-    publishedDateTime: 2023-08-08T19:31:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-boosts-its-superchip-grace-hopper-with-faster-memory-for-ai/"
+  - title: "NVIDIA, Global Workstation Manufacturers to Launch Powerful Systems for Generative AI and LLM Development, Content Creation, Data Science"
+    excerpt: "The systems, including those from BOXX, Dell Technologies, HP and Lenovo, are based on NVIDIA RTX 6000 Ada Generation GPUs and incorporate NVIDIA AI Enterprise and NVIDIA Omniverse™ Enterprise software."
+    publishedDateTime: 2023-08-08T17:35:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861311.htm"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
-  - title: "ODMs see Nvidia GPU shortage curb AI server shipments"
-    excerpt: "Wiwynn, and Giga Computing have experienced delays in fulfilling AI server orders due to the ongoing GPU shortage at Nvidia, according to industry sources.."
-    publishedDateTime: 2023-08-11T01:17:00Z
-    webUrl: "https://www.digitimes.com/news/a20230811PD200/ai-server-gpu-nvidia-qct.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230811pd200_files/2_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
-  - title: "Chinese tech giants place $5 billion orders with Nvidia for generative AI chips"
-    excerpt: "China’s tech giants, including Baidu, ByteDance, Tencent, and Alibaba, have initiated orders with Nvidia for $5 billion worth of chips to construct"
-    publishedDateTime: 2023-08-10T07:22:00Z
-    webUrl: "https://technode.com/2023/08/10/chinese-tech-giants-place-5-billion-orders-with-nvidia-for-generative-ai-chips/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 50
-    images:
-      - url: "https://technode.com/wp-content/uploads/2023/08/142394325_l_normal_none-scaled.jpg"
-        width: 2560
-        height: 1680
-        isCached: true
-  - title: "Nvidia Unveils Faster Processor Aimed at Cementing AI Dominance"
-    excerpt: "Nvidia Corp. announced an updated AI processor that gives a jolt to the chip’s capacity and speed, seeking to cement the company’s dominance in a burgeoning market."
-    publishedDateTime: 2023-08-08T15:32:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-08/nvidia-unveils-faster-processor-aimed-at-cementing-ai-dominance"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "AI’s business impact to extend far beyond Nvidia"
-    excerpt: "Generative AI could emerge as a $1.3 trillion market by 2032, growing at a 42% compound annual rate, according to BI analyst Mandeep Singh."
-    publishedDateTime: 2023-08-10T21:10:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/ais-business-impact-to-extend-far-beyond-nvidia/"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Nvidia unveils new chip that will bring down cost of running ChatGPT and other AI models"
-    excerpt: "Nvidia has revealed its next-generation Grace Hopper platform, featuring the world's first HBM3e processor for generative AI. The system has a single"
-    publishedDateTime: 2023-08-08T22:39:00Z
-    webUrl: "https://www.headlinestoday.in/technology/nvidia-unveils-new-chip-that-will-bring-down-cost-of-running-chatgpt-and-other-ai-models-587942910.html"
-    type: article
-    provider:
-      name: headlinestoday
-      domain: headlinestoday.in
-    quality: 45
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/sites/headlinestoday/resources/images/headlinestoday_fb.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Nvidia Unveils New AI Chip with Potential to Reduce Costs of Running Large Language Models"
-    excerpt: "In a move aimed at maintaining its supremacy in the AI hardware sector, Nvidia has introduced a groundbreaking AI chip, the GH200, designed to optimize artificial intelligence models. As rivals such as AMD,"
-    publishedDateTime: 2023-08-10T07:37:00Z
-    webUrl: "https://www.cryptopolitan.com/nvidia-unveils-new-ai-chip/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 44
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-10_10-41-45.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Nvidia debuts upgraded GH200 Grace Hopper chip with high-speed memory"
-    excerpt: "According to Nvidia, the new edition of the GH200 is the world’s first processor to include HBM3e memory. That’s a type of high-speed memory designed to store the data that a chip is actively processing. It’s 50% faster than HBM3, the technology used in the original version of the GH200."
-    publishedDateTime: 2023-08-08T20:04:00Z
-    webUrl: "https://siliconangle.com/2023/08/08/nvidia-debuts-upgraded-gh200-grace-hopper-chip-high-speed-hbm3e-memory/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/nvidia.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Nvidia Teases New Hardware, Software, and Services for AI"
-    excerpt: "The star of the show was the new Grace Hopper Superchip GH200, which NVIDIA says was \"designed from the ground up for giant-scale AI.\""
-    publishedDateTime: 2023-08-08T23:28:00Z
-    webUrl: "https://decrypt.co/151782/nvidia-grace-hopper-gh200-rtx-6000-5000"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 39
-    images:
-      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/NVIDIA-GPU-scaled-gID_7.jpg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "China’s internet giants order $5bn of Nvidia chips to power AI ambitions"
-    excerpt: "Baidu, ByteDance, Tencent and Alibaba rush to acquire GPUs amid concern US will soon clamp down on their export"
-    publishedDateTime: 2023-08-09T20:00:00Z
-    webUrl: "https://www.ft.com/content/9dfee156-4870-4ca4-b67d-bb5a285d855c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 33
-  - title: "Nvidia puts generative AI at the forefront with AI Workbench and Hugging Face partnership"
-    excerpt: "As part of the collaboration, Hugging Face will offer a brand-new service, called Training Cluster as a Service. It will simplify the creation and tailoring of new custom generative AI models for enterprise customers using its platform and Nvidia DGX Cloud for infrastructure with a single click."
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/08/nvidia-puts-generative-ai-forefront-ai-workbench-hugging-face-partnership/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/NVIDIA-AI-Workbench-Image.jpg"
-        width: 1280
-        height: 680
-        isCached: true
-  - title: "AI Companies are Trying to Score as Many Nvidia H100 Accelerators as Possible"
-    excerpt: "Elon Musk said that acquiring GPUs for AI training is even more difficult than buying drugs. Tweet (opens in a new tab) To give you an idea of the current demand, VentureBeat flagged a lengthy post discussing the \"GPU shortage\" currently riling the AI ..."
-    publishedDateTime: 2023-08-07T17:12:00Z
-    webUrl: "https://www.extremetech.com/computing/ai-companies-are-trying-to-score-as-many-nvidia-h100-accelerators-as-possible"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 16
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "9r/rmDQcOSQVzHVqpwQu0pfhqqE3AMzx38vcLMHCstNN5YTBCwjVDFM6KR+PL5srS+dvx/R5AjH+4/O5M+jz7eDj29TR/EJAChlAhYGdsq2WnC4ATvzd2gYm7K/BFLNGOG9eS3xIHI/z7WKK8xcfiIL/NnJQtrUI1lnq/aAS63/hw9ZRzpyMmjBmU+VI2WOficjfXpWNBtPwaQl9UaV5unkMK7tsFaSujwLKMJYBeo/3++PJDnilSJzrxx2IM2rkVPRZlZAZwY5nA8CH+UytlqOnlTr68LuRv1+QgT9ugoA/4fw+yGNxHjtcg6xDBMiomov1rvE6xdmKDlZ+VQ1p55ucs0xjhybg1M7zyU/9Zx10PIhamkOXH1JCWf8EDGLA+LluxSJf8AIrBa1j4qe2NUGSYLKYVbSwx/P/JFKKksatUUzjaPvBZPLjTWha2e/MMLc9mbBzW4ZZcJ3VaOZygOLD0SsCtB3hDASdpYI5qKabY7qw0iAtJOMC4DpgmB1aquWiTimHpeXd6x7XvEKqxw==;jNvgdzR4Rs7yID2sFZr/sA=="
 ---

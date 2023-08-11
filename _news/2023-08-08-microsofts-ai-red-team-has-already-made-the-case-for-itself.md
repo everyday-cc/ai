@@ -228,6 +228,15 @@ related:
         width: 975
         height: 548
         isCached: true
+  - title: "Microsoft: A Long-Term Investment in AI"
+    excerpt: "In addition to being a financial investment, OpenAI granted Microsoft access to its AI research and development ... development and spokeswoman for Facebook and sister to Meta Platforms CEO ..."
+    publishedDateTime: 2023-08-08T09:59:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/08/microsoft-a-long-term-investment-in-ai/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 66
   - title: "Microsoft partners with Aptos Labs to build AI-powered blockchain tools on Azure"
     excerpt: "A compelling new partnership has just been announced between Microsoft and Aptos Labs. The collaboration is set to create an AI-powered tool named Aptos"
     publishedDateTime: 2023-08-09T15:54:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-block-openais-new-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/"
 type: article
 quality: 85
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       - url: "https://wp-assets.futurism.com/2023/08/openais-domain-elon-musks-ai.jpg"
         width: 1200
         height: 726
-        isCached: true
-  - title: "Rakuten, OpenAI Partner to Create Conversational AI Experiences for Customers & Companies"
-    excerpt: "Additionally, the Rakuten Group will bring Rakuten AI experiences into ChatGPT products by leveraging the OpenAI plugin architecture, enabling businesses to use natural language for interacting with AI agents that conduct research, analyze data, optimize inventory, pricing, automate business processes and more."
-    publishedDateTime: 2023-08-07T02:05:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32938-rakuten-openai-partner-to-create-conversational-ai-experiences-for-customers-companies"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 30
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/3e2e125cd1432536421d9fb1f67f3c8f.jpg?t=20230807_013039"
-        width: 752
-        height: 408
         isCached: true
   - title: "OpenAI Shoots To No. 1 Spot On Private Cloud Startup Ranking, Underscoring AI’s Sudden Ascendency"
     excerpt: "OpenAI’s rise to the top of the ranking in Bessemer's Cloud 100 cohort underscores AI’s shockingly fast ascendency in the tech world."

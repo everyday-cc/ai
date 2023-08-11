@@ -25,299 +25,257 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia teams up with Hugging Face to offer cloud-based AI training"
-    excerpt: "Nvidia is partnering with Hugging Face, the AI startup, to expand access to AI compute. Timed to coincide with the annual SIGGRAPH conference this week, Nvidia announced that it’ll support a new Hugging Face service, called Training Cluster as a Service ..."
-    publishedDateTime: 2023-08-08T16:16:00Z
-    webUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/"
-    ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
+    publishedDateTime: 2023-08-10T16:50:00Z
+    webUrl: "https://techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
     quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?resize=1200,900"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
-        height: 900
+        height: 798
         isCached: true
-  - title: "Nvidia CEO: We bet the farm on AI and no one knew it"
-    excerpt: "It required that we reinvent the hardware, the software, the algorithms. And while we were reinventing CG with AI, we were reinventing the GPU for AI.” While ray-tracing and DLSS are still in the process of being adopted across the diverse and complex ..."
-    publishedDateTime: 2023-08-08T17:53:00Z
-    webUrl: "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/"
-    ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/"
+  - title: "Three Decision-Centric Questions To Clarify ChatGPT Hype And Guide Your AI Strategy"
+    excerpt: "How can companies cut through AI hyperbole and disillusionment to find ways to improve business decision-making productivity today?"
+    publishedDateTime: 2023-08-07T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/eriklarson/2023/08/07/three-decision-centric-questions-to-clarify-chatgpt-hype-and-guide-your-ai-strategy/"
+    ampWebUrl: "https://www.forbes.com/sites/eriklarson/2023/08/07/three-decision-centric-questions-to-clarify-chatgpt-hype-and-guide-your-ai-strategy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eriklarson/2023/08/07/three-decision-centric-questions-to-clarify-chatgpt-hype-and-guide-your-ai-strategy/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 81
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/nvidia-siggraph1.jpg?resize=1200,749"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61ddecd6cca3ad80acd3caeb/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 749
+        height: 800
         isCached: true
-  - title: "Nvidia unveils upgraded chip to power the next gen of AI"
-    excerpt: "Nvidia has announced its next generation AI chip platform which uses the new Grace Hopper Superchip with the world’s first HBM3e processor."
-    publishedDateTime: 2023-08-09T15:38:00Z
-    webUrl: "https://www.techradar.com/pro/nvidia-unveils-upgraded-chip-to-power-the-next-gen-of-ai"
+  - title: "I'm an AI-prompt engineer. Here are 3 ways to use ChatGPT to get the best results."
+    excerpt: "I used to be a freelance writer. Now I'm a prompt engineer helping optimize generative-AI tech. Here's what I've learned."
+    publishedDateTime: 2023-08-11T15:50:00Z
+    webUrl: "https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3?amp"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/RqZGLD9cNLDo9TwwpFEFAD-1200-80.png"
+      - url: "https://i.insider.com/64147b500308e00018553689?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions -FT"
-    excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday."
-    publishedDateTime: 2023-08-09T21:54:00Z
-    webUrl: "https://www.reuters.com/technology/chinas-internet-giants-order-5-bln-nvidia-chips-power-ai-ambitions-ft-2023-08-09/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 80
-    images:
-      - url: "https://www.reuters.com/resizer/tyFpR0H5gc8GFCzc32yvJXBPe84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VTXHVAI3VBOYTAQRG7NBVL5EII.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Nvidia Unveils New AI Chip Set to Cut Cost of Running LLMs"
-    excerpt: "Nvidia appears to have turned up the heat on its competitors within the artificial intelligence (AI) hardware space."
-    publishedDateTime: 2023-08-09T08:14:00Z
-    webUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/"
-    ampWebUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 74
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/nvidia-ai-chip-llms.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Nvidia’s new AI chip to offer boon for Korean chip giants’ HBM business"
-    excerpt: "Nvidia’s newest AI chip utilizing the world’s first HBM3e processor is expected to boost growth for SK hynix and Samsung Electronics, the two chipmakers dominating the still-nascent High Bandwidth Memory market. Nvidia, a leading producer of GPUs based ..."
-    publishedDateTime: 2023-08-10T05:50:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20230810000504"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230810000504"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230810000504"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 74
-    images:
-      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F08%2F10%2F20230810000490_0.jpg"
-        width: 630
-        height: 354
-        isCached: true
-  - title: "China's internet giants order $5 billion of Nvidia chips to power AI ambitions"
-    excerpt: "Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,000 A800 processors from the U.S. chipmaker to be delivered this year, the FT reported, citing multiple people familiar with the matter."
-    publishedDateTime: 2023-08-10T00:58:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2018/08/nvidiagaminggraphicsgaming-graphics.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Build generative AI applications using Azure and NVIDIA H100 Tensor Core GPUs"
-    excerpt: "Microsoft Azure users can now leverage the latest NVIDIA accelerated computing technology to train, deploy and build generative AI applications. The"
-    publishedDateTime: 2023-08-08T08:37:00Z
-    webUrl: "https://www.geeky-gadgets.com/build-generative-ai-apps-08-08-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 68
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Build-generative-AI-applications.jpg"
-        width: 700
-        height: 461
-        isCached: true
-  - title: "MindsDB raises funding from Nvidia to democratize AI application development"
-    excerpt: "MindsDB aims to democratize AI development and production for all stripes of developers without requiring specialized AI training."
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/mindsdb-raises-funding-from-nvidia-to-democratize-ai-application-development/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/634aea6929d4e1802257ff90_prev.png?w=1200&strip=all"
-        width: 1200
-        height: 701
-        isCached: true
-  - title: "Nvidia announces AI Workbench, a new dev tool for building gen AI models on PCs"
-    excerpt: "AI Workbench provides a simple user interface that runs on the developer's machine and connects to HuggingFace, Github and Nvidia's own enterprise portal."
-    publishedDateTime: 2023-08-08T23:00:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-announces-ai-workbench-a-new-dev-tool-for-building-gen-ai-models-on-pcs/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_surrounded_by_glowing_green_holographic_code_73d4986d-4889-41b0-9899-deab01c71ff0.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Nvidia boosts its 'superchip' Grace-Hopper with faster memory for AI"
-    excerpt: "Nvidia announced a desktop software program called AI Workbench to more easily containerize neural net models on local workstations to stage them for the cloud."
-    publishedDateTime: 2023-08-08T19:31:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-boosts-its-superchip-grace-hopper-with-faster-memory-for-ai/"
+  - title: "Upgrade your ChatGPT skills with this $20 training: Use AI to work smarter, not harder"
+    excerpt: "This online course load contains dozens of lessons breaking down beginner and advanced skills to help you use ChatGPT effectively. If you are new to the AI chatbot or want to make sure you didn't miss any tips and tricks when you first jumped in months ago,"
+    publishedDateTime: 2023-08-10T11:01:00Z
+    webUrl: "https://www.zdnet.com/article/upgrade-your-chatgpt-skills-with-this-20-training-use-ai-to-work-smarter-not-harder/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/upgrade-your-chatgpt-skills-with-this-20-training-use-ai-to-work-smarter-not-harder/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/upgrade-your-chatgpt-skills-with-this-20-training-use-ai-to-work-smarter-not-harder/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 64
-  - title: "ODMs see Nvidia GPU shortage curb AI server shipments"
-    excerpt: "Wiwynn, and Giga Computing have experienced delays in fulfilling AI server orders due to the ongoing GPU shortage at Nvidia, according to industry sources.."
-    publishedDateTime: 2023-08-11T01:17:00Z
-    webUrl: "https://www.digitimes.com/news/a20230811PD200/ai-server-gpu-nvidia-qct.html"
+    quality: 79
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/186bba5322f625df06f9b5b4d950935527776302/2023/06/29/d003949e-24fd-4960-a177-712e43e0d249/sale-320578-article-image.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "OpenAI just admitted it has a bot that crawls the web to collect AI training data. If you don't block GPTbot, that's self-sabotage."
+    excerpt: "AI scraping bots are threatening the web's grand bargain. OpenAI's GPTbot crawler is being blocked by online content creators."
+    publishedDateTime: 2023-08-08T21:10:00Z
+    webUrl: "https://www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8?amp"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/64d2a8797d2e90001946b1bc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The 12 Best ChatGPT Alternatives in 2023"
+    excerpt: "Are you looking for an alternative to ChatGPT? We’ve got you covered. Despite ChatGPT’s high level of sophistication, many other ChatGPT alternatives are available. In addition to ChatGPT, many advanced AI-based alternatives to ChatGPT can help you ..."
+    publishedDateTime: 2023-08-08T17:16:00Z
+    webUrl: "https://www.entrepreneur.com/growth-strategies/the-12-best-chatgpt-alternatives-in-2023/457117"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 54
     images:
-      - url: "https://img.digitimes.com/newsshow/20230811pd200_files/2_r.jpg"
-        width: 336
-        height: 224
+      - url: "https://assets.entrepreneur.com/providers/calendar/hero-image-calendar-457117.jpeg?format=pjeg&auto=webp"
+        width: 500
+        height: 333
         isCached: true
-  - title: "Chinese tech giants place $5 billion orders with Nvidia for generative AI chips"
-    excerpt: "China’s tech giants, including Baidu, ByteDance, Tencent, and Alibaba, have initiated orders with Nvidia for $5 billion worth of chips to construct"
-    publishedDateTime: 2023-08-10T07:22:00Z
-    webUrl: "https://technode.com/2023/08/10/chinese-tech-giants-place-5-billion-orders-with-nvidia-for-generative-ai-chips/"
+  - title: "Learn to create a ChatGPT AI bot with this course bundle"
+    excerpt: "You may have experimented with ChatGPT, and found it to be a useful tool on its own for work, school, or personal projects. But if you take the opportunity to study even basic coding, you can expand what you can do with AI simply by customizing your own chatbot ."
+    publishedDateTime: 2023-08-09T18:23:00Z
+    webUrl: "https://www.zdnet.com/article/learn-to-create-a-chatgpt-ai-bot-with-this-course-bundle/"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 50
-    images:
-      - url: "https://technode.com/wp-content/uploads/2023/08/142394325_l_normal_none-scaled.jpg"
-        width: 2560
-        height: 1680
-        isCached: true
-  - title: "Nvidia Unveils Faster Processor Aimed at Cementing AI Dominance"
-    excerpt: "Nvidia Corp. announced an updated AI processor that gives a jolt to the chip’s capacity and speed, seeking to cement the company’s dominance in a burgeoning market."
-    publishedDateTime: 2023-08-08T15:32:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-08/nvidia-unveils-faster-processor-aimed-at-cementing-ai-dominance"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 47
-  - title: "AI’s business impact to extend far beyond Nvidia"
-    excerpt: "Generative AI could emerge as a $1.3 trillion market by 2032, growing at a 42% compound annual rate, according to BI analyst Mandeep Singh."
-    publishedDateTime: 2023-08-10T21:10:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/ais-business-impact-to-extend-far-beyond-nvidia/"
+  - title: "Quickly learn to code with ChatGPT and Bard AI"
+    excerpt: "While these AI tools can be incredibly helpful ... This allows Bard to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. Bard is still under development, but it has learned ..."
+    publishedDateTime: 2023-08-08T10:49:00Z
+    webUrl: "https://www.geeky-gadgets.com/learn-how-to-code-with-chatgpt/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Nvidia Unveils New AI Chip with Potential to Reduce Costs of Running Large Language Models"
-    excerpt: "In a move aimed at maintaining its supremacy in the AI hardware sector, Nvidia has introduced a groundbreaking AI chip, the GH200, designed to optimize artificial intelligence models. As rivals such as AMD,"
-    publishedDateTime: 2023-08-10T07:37:00Z
-    webUrl: "https://www.cryptopolitan.com/nvidia-unveils-new-ai-chip/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 44
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-10_10-41-45.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Nvidia debuts upgraded GH200 Grace Hopper chip with high-speed memory"
-    excerpt: "According to Nvidia, the new edition of the GH200 is the world’s first processor to include HBM3e memory. That’s a type of high-speed memory designed to store the data that a chip is actively processing. It’s 50% faster than HBM3, the technology used in the original version of the GH200."
-    publishedDateTime: 2023-08-08T20:04:00Z
-    webUrl: "https://siliconangle.com/2023/08/08/nvidia-debuts-upgraded-gh200-grace-hopper-chip-high-speed-hbm3e-memory/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/nvidia.png"
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-code-with-ChatGPT.jpg"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "How to add ChatGPT to Visual Code Studio for AI coding"
+    excerpt: "One of the most notable features of the ChatGPT Genie AI extension is its ability to utilize Azure OpenAI Service deployments. This allows users to harness the power of Azure’s cloud computing capabilities, enhancing the performance and efficiency of the ..."
+    publishedDateTime: 2023-08-08T20:58:00Z
+    webUrl: "https://www.geeky-gadgets.com/add-chatgpt-to-visual-code-studio/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-add-ChatGPT-to-Visual-Code-Studio.jpg"
+        width: 700
+        height: 449
+        isCached: true
+  - title: "Bud taps Google Cloud generative AI tools to develop intelligent chatbot"
+    excerpt: "UK fintech Bud has developed a generative AI core and chatbot for personalised customer insights using Google's PaLM2 large language model. The new logic core will be embedded into Bud's existing lending and affordability product and its money management ..."
+    publishedDateTime: 2023-08-08T15:18:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42751/bud-taps-google-cloud-generative-ai-tools-to-develop-intelligent-chatbot"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 38
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rszed-maslaveckas-headshot-hi-res.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Tel Aviv Hospital First Ever To Use AI Intake Including ChatGPT"
+    excerpt: "Sourasky is the first hospital in the world to integrate an AI chatbot into its triage process, using the tool from Israeli startup Kahun"
+    publishedDateTime: 2023-08-10T06:10:00Z
+    webUrl: "https://nocamels.com/2023/08/tel-aviv-hospital-first-ever-to-use-ai-including-chatgpt-triage/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/08/ic-edited.jpg"
+        width: 1000
+        height: 562
+        isCached: true
+  - title: "ChatGPT on Campus: Law Schools Wrestle With Emerging AI Tools"
+    excerpt: "Law schools are weighing how to integrate rapidly improving artificial intelligence into the classroom as the legal industry grapples with the technology."
+    publishedDateTime: 2023-08-11T09:01:00Z
+    webUrl: "https://news.bloomberglaw.com/business-and-practice/chatgpt-on-campus-law-schools-wrestle-with-emerging-ai-tools"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 37
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/f37af37/2147483647/crop/5232x2017%2B10%2B182/resize/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F3e%2F6e%2Fc36187ce41b18908efd9bc651803%2Fgettyimages-150777874.jpg"
         width: 1920
-        height: 1080
+        height: 740
         isCached: true
-  - title: "Nvidia Teases New Hardware, Software, and Services for AI"
-    excerpt: "The star of the show was the new Grace Hopper Superchip GH200, which NVIDIA says was \"designed from the ground up for giant-scale AI.\""
-    publishedDateTime: 2023-08-08T23:28:00Z
-    webUrl: "https://decrypt.co/151782/nvidia-grace-hopper-gh200-rtx-6000-5000"
+  - title: "Dentons Head of Innovation on Why and How the Firms Built Its Own Gen AI Chatbot"
+    excerpt: "Legaltech News caught up with Joe Cohen, UKIME head of innovation at Dentons to discuss fleetAI, the firm’s newly released proprietary version of ChatGPT."
+    publishedDateTime: 2023-08-07T19:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/07/dentons-head-of-innovation-on-why-and-how-the-firms-built-its-own-gen-ai-chatbot/"
     type: article
     provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 39
+      name: Law
+      domain: law.com
+    quality: 34
     images:
-      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/NVIDIA-GPU-scaled-gID_7.jpg"
-        width: 1024
-        height: 512
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Joe-Cohen-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "China’s internet giants order $5bn of Nvidia chips to power AI ambitions"
-    excerpt: "Baidu, ByteDance, Tencent and Alibaba rush to acquire GPUs amid concern US will soon clamp down on their export"
-    publishedDateTime: 2023-08-09T20:00:00Z
-    webUrl: "https://www.ft.com/content/9dfee156-4870-4ca4-b67d-bb5a285d855c"
+  - title: "Is ChatGPT running out of steam? AI chatbot's performance raises burnout concerns"
+    excerpt: "Benzinga discusses a recent Stanford University study regarding the performance of ChatGPT over several months."
+    publishedDateTime: 2023-08-11T08:20:00Z
+    webUrl: "https://kvia.com/news/2023/08/11/is-chatgpt-running-out-of-steam-ai-chatbots-performance-raises-burnout-concerns/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 33
-  - title: "Nvidia puts generative AI at the forefront with AI Workbench and Hugging Face partnership"
-    excerpt: "As part of the collaboration, Hugging Face will offer a brand-new service, called Training Cluster as a Service. It will simplify the creation and tailoring of new custom generative AI models for enterprise customers using its platform and Nvidia DGX Cloud for infrastructure with a single click."
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/08/nvidia-puts-generative-ai-forefront-ai-workbench-hugging-face-partnership/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
+      name: KVIA
+      domain: kvia.com
+    quality: 34
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/NVIDIA-AI-Workbench-Image.jpg"
-        width: 1280
-        height: 680
+      - url: "https://kvia.b-cdn.net/2023/08/smartphone.png"
+        width: 1080
+        height: 770
         isCached: true
-  - title: "NVIDIA at SIGGRAPH: DGX Integration with Hugging Face for LLM Training; Announcement of AI Workbench"
-    excerpt: "At the the SIGGRAPH conference this morning in Los Angeles, NVIDIA and Hugging Face made several generative AI-related announcements, including a partnership intended to broaden access to generative AI supercomputing (NVIDIA’s DGX cloud hardware) for developers building large language models (LLMs) and other AI applications on the Hugging Face platform."
-    publishedDateTime: 2023-08-08T16:02:00Z
-    webUrl: "https://insidehpc.com/2023/08/nvidia-at-siggraph-dgx-integration-with-hugging-face-for-llm-training-announcement-of-ai-workbench/"
+  - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
+    excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
+    publishedDateTime: 2023-08-07T16:48:00Z
+    webUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-16/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
+      name: Canindia.com
+      domain: canindia.com
     quality: 24
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/04/jensen1.jpg"
-        width: 862
-        height: 800
+      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
+        width: 696
+        height: 436
         isCached: true
-  - title: "AI Companies are Trying to Score as Many Nvidia H100 Accelerators as Possible"
-    excerpt: "Elon Musk said that acquiring GPUs for AI training is even more difficult than buying drugs. Tweet (opens in a new tab) To give you an idea of the current demand, VentureBeat flagged a lengthy post discussing the \"GPU shortage\" currently riling the AI ..."
-    publishedDateTime: 2023-08-07T17:12:00Z
-    webUrl: "https://www.extremetech.com/computing/ai-companies-are-trying-to-score-as-many-nvidia-h100-accelerators-as-possible"
+  - title: "Newegg’s AI-generated reviews might be the worst use of ChatGPT yet"
+    excerpt: "Newegg has started including AI-generated review summaries powered by ChatGPT on some product pages, but they aren't always helpful."
+    publishedDateTime: 2023-08-09T19:54:00Z
+    webUrl: "https://bgr.com/tech/neweggs-ai-generated-reviews-might-be-the-worst-use-of-chatgpt-yet/"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 16
+      name: BGR
+      domain: bgr.com
+    quality: 17
+  - title: "Dentons Head of Innovation on Why and How the Firm Built Its Own Gen AI Chatbot"
+    excerpt: "Legaltech News caught up with Joe Cohen, UKIME head of innovation at Dentons to discuss fleetAI, the firm’s newly released proprietary version of ChatGPT."
+    publishedDateTime: 2023-08-07T19:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/07/dentons-head-of-innovation-on-why-and-how-the-firms-built-its-own-gen-ai-chatbot/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 15
+  - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
+    excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
+    publishedDateTime: 2023-08-07T19:04:00Z
+    webUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-18/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 4
+  - title: "Why ChatGPT just might save the humanities"
+    excerpt: "Not surprisingly, the release of ChatGPT has produced a host of concerns about its potentially harmful effects on society. In higher education, commonly cited concerns center on threats to"
+    publishedDateTime: 2023-08-08T20:55:00Z
+    webUrl: "https://www.virginiabusiness.com/article/why-chatgpt-just-might-save-the-humanities/"
+    type: article
+    provider:
+      name: Virginia Business
+      domain: virginiabusiness.com
+    quality: 4
 
 secured: "mMEsNIYjivB4XhaGk0w9tbz+ttpIM5galpVyVrTiBPZfHSCPNp5K/2JnLw1d3WIPj8iQEZq3DMgUIzuXlfXcrhpn6FCKm5fzf41wwWcO8anAP3u6OdJaUs76eF+qL1iGePD+dXFQgWrle5x9gp/88/Hm7Vuywh/7OQxjxGBKu2wommXk4RHdIXIM5ogpP/n0ZlAthJpnfnhoD3EnlzRW9J+yqOJH71vdFr92eYF0lOtDHUyKVBVb+Dq2EFmxWxOIX+tnz/wm5rRS1QPd66P0EZhptttOH5OqJRHe2YAL9pbXRrc/YOHTM5wkq9te5B0tO+9jqYYfim18pMaRqZGtMmUpzTKiX2ZMUwI7n2NxQVALQ8eksIHGgOnSuJ7lzpN6GvX2Wva1HgRN7BG4Hih9pu0scCyokRz5A6W1h5Wyd7Ddj39EwCkUNN5T6ZCKMjc7trJt+Yj10L9OvXZiBOJqHAN1o3TZmZu6yhK5S6mhH22DCP+MM3MGdp+CQtN0e7lrhBSuzmndnfWJBWlgDchUhA==;Wffb0IYLWR2uIu2TBAMxkA=="
 ---

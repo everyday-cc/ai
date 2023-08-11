@@ -24,6 +24,17 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "Global Generative Artificial Intelligence Market Is Projected To Reach The Value Of $99.79 Billion By 2030 X Herald"
+    excerpt: "According to the latest report by Virtue Market Research, in 2022, the global generative artificial intelligence market was valued at $8.28 billion,"
+    publishedDateTime: 2023-08-11T18:03:00Z
+    webUrl: "https://menafn.com/1106838112/Global-Generative-Artificial-Intelligence-Market-Is-Projected-To-Reach-The-Value-Of-9979-Billion-By-2030-X-Herald"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+
 secured: "04SiiSj+WgxA5ctUlGHijhCo6UCYGWNk83QhsrKKt/+HNSctixWx7I+AuLzqNZQlAR893tF+2HIzlnNC7YbWGBaBphQBUDhF9wombTYSDbhVJNDXIcODY8vHubFjTuJ9SItXMVtGAyK0UHwjoC2SIwIiINg9jvcYQbremoSljb76ZWzRQWD1Ns3FyJF5GW+RHw2WwI2h0x6VwEFu4FTDaxEBayz21lBV2j5I4/9L+nhvHx3HPGcNbMi3FoPAmuysyItQ9+jIwmTLMeVz3ejyXC2+JYroR8yVAPLuqOW6xb1zBGEIVZw2E3naMnYYAmV3ZLL4pd/y1y0SKy4zvAI9CXlear6TD2fm3EBJEO1JrT9egmGrkd7gtWhO98QvUwiLVv4ANunPT7PkdXRjiMgftM2gp12SEjJA+xy5GE9GzFXLGPiKVbqA1EHaDpffzgUKYAhBpkQAJN0zjbCFPGRsqNZynE+irBzdQy+xAPRdv5Jc42xeytrnhs5Xe4x+XKutvCNUTBV8d+V1AfxITLJngA==;f3fbOhMVs+xQurubML3cqA=="
 ---
 

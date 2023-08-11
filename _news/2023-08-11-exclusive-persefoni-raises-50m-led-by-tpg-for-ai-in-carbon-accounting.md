@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/pro/climate-deals/2023/08/11/persefoni-raise
 webUrl: "https://www.axios.com/pro/climate-deals/2023/08/11/persefoni-raises-50m-led-by-tpg-kentaro-kawamori"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Tempe climate-tech company Persefoni raises $50M to boost AI offerings"
+    excerpt: "The #Tempe company's new infusion of capital coincides with the launch of its carbon accounting AI product. #phoenix #azinno"
+    publishedDateTime: 2023-08-11T18:27:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/inno/stories/fundings/2023/08/11/persefoni-raises-50m-funding-ai-technology.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "pV90iVYGEebAF15W92OZKOvdJK2olTProj5IifocHxqoBG45tabSNBeAZVI6MTeUYWcCGl0htjB7jMu1N09/aGogIgbQ40WVkz9xi2Ov1Dn7ovmWuuJ7ElvRnZz0nXI0AMsCRRdelXmR9llAibStTgRa9GGbntmyZzONRHT9KlWdDvABY744+WA6Bdqjft37Yl0VkJCn8ISgw9Ywxy0Zz5/NHgd2yip6O9QeVkxCflZX8wzHSdz0t5fQiMKHGvGP9pO1aixClarOgrjHNH8lKrY0Dq6PbzPniH/ct/kg4s1afriBb7KzDMZ9Li2oZfI47lXZv16rjeR6OGo2z3wQTYAXZc53+Kd7/Uzx3+lI04/ss0YV02iBUQ8o8YjXUPUrpB/5BIC25qK7MzYLAl2DQPJ6ibUewjON8/Oe5SGqNK+U62jNcarLQ+LTjVCM8TimtVd68ApUHO1Kmcj5gnvZnJ1SJWdvyDnDunD2CHEBCwDAqKhkK/YewjzDYhRioBjKK/1uavY/967NjsswxFq6Ww==;090sZ7kqYC+I22kgOM9N+g=="
 ---

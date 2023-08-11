@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "India to add AI-powered conversational payments to UPI"
+    excerpt: "The Reserve Bank of India has set out plans for a host of new fintech developments, including AI-powered \"conversational\" payments on the country's UPI system and a public digital platform for the provision of frictionless credit."
+    publishedDateTime: 2023-08-10T23:13:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42771/india-to-add-ai-powered-conversational-payments-to-upi"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5443.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Next stop for Ola’s Bhavish Aggarwal: An AI and silicon chip company in India"
     excerpt: "Ola’s Bhavish Aggarwal says his latest venture, as well as Ola Cell Technologies, are part of his larger vision to build technologies for the future, in India."
     publishedDateTime: 2023-08-10T01:40:00Z

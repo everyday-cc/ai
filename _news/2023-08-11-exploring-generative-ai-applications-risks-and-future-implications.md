@@ -385,20 +385,6 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "Age of Generative AI: Ai Palette aiming to optimise food innovation and boost product launches"
-    excerpt: "Singapore-based tech firm Ai Palette has developed a new tool called FoodGPT, which harnesses the power of generative AI and natural language processing to elevate data-backed innovations and increase the success rate of product launches."
-    publishedDateTime: 2023-08-07T03:28:00Z
-    webUrl: "https://www.foodnavigator-asia.com/Article/2023/08/07/ai-palette-aiming-to-optimise-food-innovation-and-boost-product-launches-via-generative-ai"
-    type: article
-    provider:
-      name: FoodNavigator-Asia
-      domain: foodnavigator-asia.com
-    quality: 27
-    images:
-      - url: "https://www.foodnavigator-asia.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-asia.com/headlines/markets/ai-palette-aiming-to-optimise-food-innovation-and-boost-product-launches-via-generative-ai/16608294-1-eng-GB/Ai-Palette-aiming-to-optimise-food-innovation-and-boost-product-launches-via-generative-AI.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "KPMG’s Generative AI Play"
     excerpt: "KPMG India, sheds light on the consulting sector's initial hesitation towards generative AI, the evolving mindset, and the innovative implementations that are shaping the future of these sectors."
     publishedDateTime: 2023-08-08T11:41:00Z

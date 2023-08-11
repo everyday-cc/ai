@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-09T20:27:00Z
 originalUrl: "https://www.wmar2news.com/local/artificial-intelligence-set-to-play-a-role-in-hospitals-doctors-still-learning"
 webUrl: "https://www.wmar2news.com/local/artificial-intelligence-set-to-play-a-role-in-hospitals-doctors-still-learning"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/b788bc5/2147483647/strip/true/crop/1920x1008+0+216/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fe7%2F31%2F9b084ec64462abe8e3885e78033b%2Fthumbnail-img-2268.jpg"

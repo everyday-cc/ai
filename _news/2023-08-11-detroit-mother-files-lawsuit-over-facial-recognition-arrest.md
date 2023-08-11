@@ -67,6 +67,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Black mom sues city of Detroit claiming she was falsely arrested while 8 months pregnant by officers using facial recognition technology"
+    excerpt: "Woodruff later learned she was implicated in the alleged incident after the facial recognition software hit as well as the carjacking victim allegedly identified her in a lineup of six photos that ..."
+    publishedDateTime: 2023-08-08T00:14:00Z
+    webUrl: "https://www.cnn.com/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 71
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230807154058-porcha-woodruff.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
     excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
     publishedDateTime: 2023-08-08T21:11:00Z
@@ -193,22 +209,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Detroit woman sues city over false carjacking arrest while 8 months pregnant due to bogus facial recognition"
-    excerpt: "I was scared, that was the main thing” Woodruff told The Post Sunday evening after realizing cops weren’t joking. “What is going on?”"
-    publishedDateTime: 2023-08-07T01:41:00Z
-    webUrl: "https://nypost.com/2023/08/06/porcha-woodruff-sues-detroit-after-police-arrested-her-8-months-pregnant/"
-    ampWebUrl: "https://nypost.com/2023/08/06/porcha-woodruff-sues-detroit-after-police-arrested-her-8-months-pregnant/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/06/porcha-woodruff-sues-detroit-after-police-arrested-her-8-months-pregnant/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 40
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000020183109.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Carjacking case arrest spurs call for police to end facial recognition"
     excerpt: "A Detroit woman is suing the city and a police officer, saying she was falsely arrested when she was eight months pregnant and accused of a carjacking based on facial"
     publishedDateTime: 2023-08-07T23:42:00Z
@@ -237,21 +237,19 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Detroit woman sues city after being falsely arrested while 8 months pregnant due to facial recognition technology"
-    excerpt: "A Detroit woman is suing the city and a police detective after she was falsely arrested because of facial recognition technology while she was eight months pregnant, according to court documents. Porcha Woodruff, 32, was getting her two children ready for ..."
-    publishedDateTime: 2023-08-07T01:43:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/detroit-woman-sues-city-after-being-falsely-arrested-while-8-months-pregnant-due-to-facial-recognition-technology/4569468/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/detroit-woman-sues-city-after-being-falsely-arrested-while-8-months-pregnant-due-to-facial-recognition-technology/4569468/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/detroit-woman-sues-city-after-being-falsely-arrested-while-8-months-pregnant-due-to-facial-recognition-technology/4569468/?amp=1"
+  - title: "Facial recognition error led to pregnant Black woman’s arrest in Detroit"
+    excerpt: "An automated facial recognition search error led to the wrongful arrest of a pregnant Black woman in Detroit. Porcha Woodruff, a 32-year-old licensed aesthetician and ..."
+    publishedDateTime: 2023-08-08T00:22:00Z
+    webUrl: "https://thegrio.com/2023/08/07/facial-recognition-error-led-to-pregnant-black-woman-arrest-detroit/"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: The Grio
+      domain: thegrio.com
     quality: 38
     images:
-      - url: "https://media.nbcnewyork.com/2019/09/Detroit-Police-Car-110818-e1691372218481.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://thegrio.com/wp-content/uploads/2020/07/DETROIT-1-scaled.jpg?w=428"
+        width: 428
+        height: 240
         isCached: true
   - title: "Detroit police arrest pregnant Black woman after false facial recognition match"
     excerpt: "Turns out, Woodruff was the victim of a false facial recognition match, making her at least the third person to be arrested by Detroit police based on the faulty technology, The New York Times first reported . All three were Black, and Woodruff was the first known woman."
@@ -476,6 +474,15 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 14
+  - title: "Lawsuit filed after facial recognition tech causes wrongful arrest of pregnant woman"
+    excerpt: "Porcha Woodruff is the third Black Detroiter to be wrongfully arrested after flawed facial recognition technology used by police falsely tied her to a crime she did not commit, according to a ..."
+    publishedDateTime: 2023-08-08T10:22:00Z
+    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2023/08/07/facial-recognition-tech-wrongful-arrest-pregnant-woman/70544340007/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 12
   - title: "Detroit Police Department seeks changes after suit over facial recognition-related arrest"
     excerpt: "Chief James White said Porcha Woodruff's arrest 'emanated from, candidly and unfortunately, a poor investigation.'"
     publishedDateTime: 2023-08-10T02:07:00Z

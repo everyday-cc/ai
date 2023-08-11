@@ -172,15 +172,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 29
-  - title: "Here's how Michigan employers and employees are adapting to AI"
-    excerpt: "Employers need workers who are trained in AI platforms, giving a leg-up to job candidates who have those skills."
-    publishedDateTime: 2023-08-07T03:00:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/08/06/heres-how-michigan-employers-and-employees-are-adapting-to-ai/70384916007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
   - title: "The Artificial Intelligence Contribution to Eating Disorders"
     excerpt: "Artificial intelligence has an eating disorder problem. Pro-anorexia chatbots are a mere consequence of some of the best tech-funded companies not doing enough to prevent the circulation of misleading"
     publishedDateTime: 2023-08-08T22:00:00Z

@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "AWS vs Google Cloud vs Microsoft Azure: Hyperscalers’ Growth Galores"
-    excerpt: "Examining the latest quarterly results, Azure shines brightly in the generative AI arena, boasting impressive 26 percent growth which translates to $ 55 billion revenue, backed by their cutting-edge A"
-    publishedDateTime: 2023-08-07T04:31:00Z
-    webUrl: "https://analyticsindiamag.com/aws-vs-google-cloud-vs-microsoft-azure-hyperscalers-growth-galores/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/azure.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "dLK1JolmhwvOO/Kw/bZCWYJq6ZVItgaCXVbxKDkxf2YbW571wTondIjLiAOhK/0gJqf9KwYOLdnIBbRf3wpSzhCtpCQayh4m2QuTHSsLnnjj3ipm7RrS1BhIE/W0xxm81PGxSE+SlP0fovNVWRK772T6P6mAXBF/Y/aVZDV0dojNCBXHODcOUU8kWv8j9O/fr1gKm50cdRkgtebDomyBG1HmPZfB1VfdfSjv7g9g+1xHhL8fi6N/4JCv7v2O1t8PQzwtkg1Wut+lxMOHZaYXheR/+beMSfE5ZbQdPI0O7i9QXoIuugv4gSc0y8xzvUhTwz3lY1sPAkxZiPWXQkjmYYd3AIDNdrrJkcuFh6kuS7+CMsSd+2zi4igQ9YcuyabU+7LYvqEl5qPU4qO/25fBWiPiiA0wMQvBhgH9TYISNy28cw7w0B7rRhJ1dSHtJ2xEZj2bP/Hix98oIuYkS/cvsiA/sYbRyOXBtiPSMfqGk5AO/AQXFnJNdrhN0kP9Xt2YcHba9WE93mCOqEtVD8U+Kw==;+Aaj7wKQKlYluCcwojXwfw=="
 ---

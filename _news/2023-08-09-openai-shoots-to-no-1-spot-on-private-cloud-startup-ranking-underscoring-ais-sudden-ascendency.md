@@ -93,20 +93,6 @@ related:
         width: 1200
         height: 726
         isCached: true
-  - title: "Rakuten, OpenAI Partner to Create Conversational AI Experiences for Customers & Companies"
-    excerpt: "Additionally, the Rakuten Group will bring Rakuten AI experiences into ChatGPT products by leveraging the OpenAI plugin architecture, enabling businesses to use natural language for interacting with AI agents that conduct research, analyze data, optimize inventory, pricing, automate business processes and more."
-    publishedDateTime: 2023-08-07T02:05:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32938-rakuten-openai-partner-to-create-conversational-ai-experiences-for-customers-companies"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 30
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/3e2e125cd1432536421d9fb1f67f3c8f.jpg?t=20230807_013039"
-        width: 752
-        height: 408
-        isCached: true
 
 secured: "A2bGcWKaUjQcewnYdeA8ktW76F1CyGsMlG5juMMQD6hTq2/h71Z1KztLu08iF02gIWDPbqATjfNaC+kuy8lKH9hL6v1ltDUQOUOgjdBBuf51NJO3vdF7pfAo9A0bK/EAJi+p5mTEy4LmrKNrf+18rrGluFbeVV9K6aTDsj9goifPxRfvKptocYW6XR+kGJgvP8AK7jO1uaLE+1vyitkN99WJHxVjn4jQ4BzGFx6Q7K1elXabEbHNESJJxdT5oNsKdVzQId9Yn1K2GI9mj6yDu5/zu6yfkxVtDklqVELASJemS2QfQdq3ljsO4H0F/PXZq4/srWpjn3WqG3AiHUD0Ur21o9Mt1Hs6JYYKqvjSp632ANPf8ygBuO0YfrzbAuJ34dQXYD2GURde8k16cmsnfJTJhSyxOXL7zh7bC5H8Op+DsZqEcYSiQMwUlgFz+14CS3nr3/vU+k1Ep6+sex7nx+GyOIuGKUP5XozGEFe/NeRWSNgxEWOJ98+ezQGoFWYTopPfvJnVBjrMXOAH+/1phg==;xGOwrCN6+IXoWSFGbfK7vg=="
 ---

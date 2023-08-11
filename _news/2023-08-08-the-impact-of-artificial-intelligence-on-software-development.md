@@ -48,6 +48,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Scientists leverage machine learning and AI to guide vaccine development"
+    excerpt: "From tackling homework challenges to drafting emails, people are discovering a vast array of applications for natural language processing tools like generative artificial intelligence (AI) engines."
+    publishedDateTime: 2023-08-11T20:35:00Z
+    webUrl: "https://www.news-medical.net/news/20230811/Scientists-leverage-machine-learning-and-AI-to-guide-vaccine-development.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 53
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/A_doctor_makes_a_vaccination_to_a_child-Yuganov_Konstantin_cdbf1b05417f45e89b8268af4858e1c9-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "D/cH0wAYzWV4i4FLYlGlFWphQxYiniGgr43y6BSIjlnga9jSE3Maxlkk73YV88/d5VRK/ziNxmBNQq9mgeLtUW/HFnCA2Xr3Xj4v8P9MJJUDmPNpmfucbzwvajCtBolrCNmZul85/J0gtnNjgIhZOauitFVYOosbqGkfOuWAqzhAOK77gXIx8mX+LSreAd7uZE5gu7bLNhqhIYg1+xNETS+OoEMsc0DJGzAGJIfhZFl9uplkWDDqXsOvSZR4zK80e8kuP4HltiuAYdB24vV5rDw37LmmUFghL3PP5NIE5q7504rKxzMNA2HMtB2x2nVoBSMEe4Mh6++Z9f842HhaXfvY2hGR4pccfJup/FTr4XxjUo6CVQmvDj1DOQmWfdqgwxrWsNk730A1pTD2+4yBdSyXkHkb9LlMUdvxo0jhwPBiWPxcMClV9BL25V9sP0QmgVng5mc32B2jASqEfrVjmy6itseq8sAKt8dtOXWqz6RbKwELm+yM/g99bPm3DxVP+IlrL7hIizNWSfSoWUYxrQ==;4snBkLZ8pFc6dytc3Lbxmw=="
 ---

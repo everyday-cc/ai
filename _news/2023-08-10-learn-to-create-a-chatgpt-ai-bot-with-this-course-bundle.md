@@ -116,6 +116,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Nvidia unveils new chip that will bring down cost of running ChatGPT and other AI models"
+    excerpt: "Nvidia has revealed its next-generation Grace Hopper platform, featuring the world's first HBM3e processor for generative AI. The system has a single"
+    publishedDateTime: 2023-08-08T22:39:00Z
+    webUrl: "https://www.headlinestoday.in/technology/nvidia-unveils-new-chip-that-will-bring-down-cost-of-running-chatgpt-and-other-ai-models-587942910.html"
+    type: article
+    provider:
+      name: headlinestoday
+      domain: headlinestoday.in
+    quality: 45
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/sites/headlinestoday/resources/images/headlinestoday_fb.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Quickly learn to code with ChatGPT and Bard AI"
     excerpt: "While these AI tools can be incredibly helpful ... This allows Bard to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. Bard is still under development, but it has learned ..."
     publishedDateTime: 2023-08-08T10:49:00Z

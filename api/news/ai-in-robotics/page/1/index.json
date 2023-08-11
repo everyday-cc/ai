@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-12-from-hype-to-policy-how-to-approach-generative-ai-in-practice.md",
+      "title": "From Hype To Policy: How To Approach Generative AI In Practice",
+      "excerpt": "A good place to start: Understand how different teams within your organization are currently using AI. Conduct a listening tour and determine which use cases you should be trying to restrict or limit, as well as which are low-risk, high-value activities that you want to encourage and help facilitate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carabrennanallamano/2023/08/11/from-hype-to-policy-how-to-approach-generative-ai-in-practice/",
+      "originalUrl": "https://www.forbes.com/sites/carabrennanallamano/2023/08/11/from-hype-to-policy-how-to-approach-generative-ai-in-practice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d693c87ebb8ebbf05b25ff/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carabrennanallamano/2023/08/11/from-hype-to-policy-how-to-approach-generative-ai-in-practice/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carabrennanallamano/2023/08/11/from-hype-to-policy-how-to-approach-generative-ai-in-practice/amp/",
+      "publishedDateTime": "2023-08-11T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-how-robot-use-in-manufacturing-can-impact-environmental-sustainability.md",
       "title": "How Robot Use In Manufacturing Can Impact Environmental Sustainability",
       "excerpt": "As robots play an increasingly vital role in manufacturing, it is essential to consider their environmental impact.",
@@ -192,7 +244,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032542192",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 171,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -454,58 +506,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-09-siggraph-2023-nvidia-keynote-highlights.md",
-      "title": "SIGGRAPH 2023: NVIDIA Keynote Highlights",
-      "excerpt": "Discover NVIDIA's latest advancements in generative AI platforms, industrial digitization, GPUs and more at the SIGGRAPH Conference 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/siggraph-2023-nvidia-keynote/",
-      "originalUrl": "https://www.techrepublic.com/article/siggraph-2023-nvidia-keynote/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr080723-siggraph-2023-nvidia-keynote.jpg",
-          "width": 1400,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-09-skyline-robotics-to-expand-with-335m-funding-round.md",
       "title": "Skyline Robotics to expand with $3.35M funding round",
       "excerpt": "Skyline Robotics continues to build momentum adding key patents to bring Ozmo window-cleaning robots to key cities globally.",
@@ -600,7 +600,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {

@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-09T04:05:00Z
 originalUrl: "https://www.foreignaffairs.com/world/artificial-intelligence-poor"
 webUrl: "https://www.foreignaffairs.com/world/artificial-intelligence-poor"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/07/RTSFOQ2E.JPG?itok=ClwbWM-A"
@@ -73,6 +74,15 @@ related:
         width: 1280
         height: 894
         isCached: true
+  - title: "When you gaze into the AI, the AI also gazes into you"
+    excerpt: "Web3, AI: Always worth paying attention when Goliath shifts on his ... Across the site, here are some of the startup stories y’all flocked to since the previous Startups Weekly. Karma, karma, karma, karma, komeuppance: Apparently not entirely immune ..."
+    publishedDateTime: 2023-08-11T18:59:00Z
+    webUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "AI is still driving Big Tech earnings"
     excerpt: "They AI hype cycle isn't dying down anytime soon. Need proof? Look no further than Big Tech's latest earnings reports."
     publishedDateTime: 2023-08-09T17:34:00Z

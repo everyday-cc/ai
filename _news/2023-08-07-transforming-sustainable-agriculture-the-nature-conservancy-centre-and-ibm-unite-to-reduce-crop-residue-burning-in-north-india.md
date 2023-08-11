@@ -31,6 +31,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 78
+  - title: "Build generative AI applications using Azure and NVIDIA H100 Tensor Core GPUs"
+    excerpt: "Microsoft Azure users can now leverage the latest NVIDIA accelerated computing technology to train, deploy and build generative AI applications. The"
+    publishedDateTime: 2023-08-08T08:37:00Z
+    webUrl: "https://www.geeky-gadgets.com/build-generative-ai-apps-08-08-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 68
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Build-generative-AI-applications.jpg"
+        width: 700
+        height: 461
+        isCached: true
   - title: "Stability AI and Google target software developers with latest generative AI tools"
     excerpt: "While Stability AI is taking its first stab at code generation with its latest generative AI model, Google has introduced a web-based development environment that aims to make life easier for developers building multiplatform applications."
     publishedDateTime: 2023-08-09T01:58:00Z

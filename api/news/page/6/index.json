@@ -2,6 +2,204 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-08-new-study-questions-how-long-until-failsafe-is-spelled-using-ai.md",
+      "title": "New Study Questions How Long Until “Failsafe” Is Spelled Using AI",
+      "excerpt": "A new study provides a muddled answer to whether Artificial Intelligence (AI) is the technological silver bullet and possibly a perspective on engineering responsibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevetengler/2023/08/08/new-study-questions-how-long-until-failsafe-is-spelled-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/stevetengler/2023/08/08/new-study-questions-how-long-until-failsafe-is-spelled-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1393d57c475e0f516a7fe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2023/08/08/new-study-questions-how-long-until-failsafe-is-spelled-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2023/08/08/new-study-questions-how-long-until-failsafe-is-spelled-using-ai/amp/",
+      "publishedDateTime": "2023-08-08T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-aws-to-support-korean-startups-with-generative-ai-accelerator.md",
+      "title": "AWS to support Korean startups with Generative AI Accelerator",
+      "excerpt": "Amazon Web Services (AWS) will help Korean AI startups grow with its Generative AI Accelerator, a program that combines powerful AI tools with business, technical mentors and experts, the global-leading cloud computing service provider said Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202308/01fe39d3e3a946b0bdd3a186fae09566.jpg",
+          "width": 980,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593",
+      "publishedDateTime": "2023-08-07T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-china-releases-plans-to-restrict-facial-recognition-technology.md",
+      "title": "China releases plans to restrict facial recognition technology",
+      "excerpt": "China is planning to restrict businesses' use of facial recognition technology in favor of non-biometric methods, according to the Cyberspace Administration. If facial recognition is used ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107283043-1691456149025-gettyimages-1359517707-vcg111361963637.jpeg?v=1691467558",
+          "width": 5476,
+          "height": 3651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html",
+      "publishedDateTime": "2023-08-07T21:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-chinas-draft-measures-demand-individual-consent-for-facial-recognition-use.md",
+      "title": "China’s draft measures demand ‘individual consent’ for facial recognition use",
+      "excerpt": "The pervasive use of facial recognition technology across all facets of life in China has elicited both praise for its convenience and backlash around privacy concerns. The widespread adoption has also fueled the exponential growth of valuations in companies specializing in the field,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/",
+      "originalUrl": "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1128224709.jpg?resize=1200,799",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/amp/",
+      "publishedDateTime": "2023-08-07T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-authors-are-losing-their-patience-with-ai-part-349235.md",
       "title": "Authors are losing their patience with AI, part 349235",
       "excerpt": "Prosecraft creator Benji Smith took down his database of 27,000 books, which were scraped without authors' consent.",
@@ -101,6 +299,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-zoom-revises-terms-after-changes-spark-fears-of-ai-learning-from-video-chats.md",
+      "title": "Zoom Revises Terms After Changes Spark Fears of AI Learning From Video Chats",
+      "excerpt": "The video-conferencing firm says 'we do not use audio, video, or chat content for training our models without customer consent.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/zoom-revises-terms-after-changes-spark-fears-of-ai-learning-from-video",
+      "originalUrl": "https://www.pcmag.com/news/zoom-revises-terms-after-changes-spark-fears-of-ai-learning-from-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01ZiH3RhJsKjZucRJOI18Cv-1.fit_lim.size_1200x630.v1691443301.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -207,6 +457,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-08-innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend.md",
+      "title": "Innocent pregnant woman jailed amid faulty facial recognition trend",
+      "excerpt": "Woodruff's arrest, and the recent trend of false arrests, has sparked a new round in an ongoing debate about the reliability of facial recognition technology in criminal investigations. Critics say the trend highlights the weaknesses of facial recognition technology and the risks it poses to innocent people.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition.md",
       "title": "Detroit Woman Sues City Police After Being Wrongfully Arrested Due To AI Facial Recognition",
       "excerpt": "Six police officers arrested Porcha Woodruff, who was eight months pregnant, after mistaking her for someone who had robbed a car.",
@@ -215,7 +508,7 @@
       "originalUrl": "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 454,
+      "heat": 464,
       "tags": null,
       "images": [
         {
@@ -414,7 +707,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -740,7 +1033,7 @@
       "originalUrl": "https://www.benzinga.com/markets/equities/23/08/33593955/amazons-aws-vs-microsoft-azure-vs-google-cloud-how-tech-titans-fared-in-june-quarters-cloud-show",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -871,108 +1164,21 @@
       ]
     },
     {
-      "path": "_news/2023-08-07-ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts.md",
-      "title": "AI and Machine Learning set to drive India's $8 billion digital advertising industry, say experts",
-      "excerpt": "AI and operational machine learning are expected to transform the communication sectors, including advertising and PR. These technologies have the potential to significantly impact the Indian digital advertising industry,",
+      "path": "_news/2023-08-07-eight-months-pregnant-and-arrested-after-false-facial-recognition-match.md",
+      "title": "Eight Months Pregnant and Arrested After False Facial Recognition Match",
+      "excerpt": "She is the first woman known to be wrongfully accused as a result of facial recognition technology. By Kashmir Hill Porcha Woodruff was getting her two daughters ready for school when six police ...",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts-11691378452164.html",
-      "originalUrl": "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts-11691378452164.html",
+      "webUrl": "https://www.nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html",
+      "originalUrl": "https://www.nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.livemint.com/lm-img/img/2023/08/07/600x338/USA-STOCKS-AI-0_1691381054977_1691381085497.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts/amp-11691378452164.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts/amp-11691378452164.html",
-      "publishedDateTime": "2023-08-06T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction.md",
-      "title": "How can Multimodal Machine Learning ensure positive digital yield extraction",
-      "excerpt": "Artificial intelligence (AI) induced digital revolution seems to be ascertaining how futuristic global technological progress will happen. With machine learning (ML) models considered important for it,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/",
-      "originalUrl": "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik-2023-08-06T233356.340.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/lite/",
-      "publishedDateTime": "2023-08-06T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-how-ai-in-education-leads-to-warnings-on-ethics-and-efficacy.md",
-      "title": "How AI in Education Leads to Warnings on Ethics and Efficacy",
-      "excerpt": "Artificial intelligence (AI) is making its way into San Francisco classrooms to address pandemic-induced learning loss. However, the adoption of AI in education has sparked heated debates over its ethics and effectiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cryptopolitan.com/how-ai-in-education-warning-ethics-efficacy/",
-      "originalUrl": "https://www.cryptopolitan.com/how-ai-in-education-warning-ethics-efficacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cryptopolitan.com/wp-content/uploads/2023/08/msg-842804339-1602.jpg",
-          "width": 1024,
-          "height": 1024,
+          "url": "https://static01.nyt.com/images/2023/08/05/multimedia/00false-arrest-tmvh/00false-arrest-tmvh-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -982,101 +1188,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T18:51:00-07:00",
+      "publishedDateTime": "2023-08-06T21:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "cryptopolitan",
-        "domain": "cryptopolitan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation.md",
-      "title": "National youth robotics competition aims to empower and inspire next generation",
-      "excerpt": "A new to Windsor national robotics competition for youth took place this weekend at the University of Windsor.",
-      "sourceUrl": null,
-      "webUrl": "https://windsor.ctvnews.ca/national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation-1.6509188",
-      "originalUrl": "https://windsor.ctvnews.ca/national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation-1.6509188",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2023/8/6/2740875/_jcr_content/renditions/videothumbnail.1691358876188.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html",
-      "publishedDateTime": "2023-08-06T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-dell-technologies-nvidia-collaborate-on-full-stack-generative-ai-solutions.md",
-      "title": "Dell Technologies & NVIDIA Collaborate On Full-Stack Generative AI Solutions",
-      "excerpt": "Dell and NVIDIA announced new validated designs for inference systems based on NVIDIA GPUs and software, a services offering, and a new Dell Precision AI workstation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 256,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d00bf4e0b0b9ba04775ac7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/",
-      "publishedDateTime": "2023-08-06T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "The New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1092,110 +1211,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-ai-boom-could-lead-to-a-new-gpu-shortage-but-nvidia-says-the-current-problem-is-just-packaging.md",
-      "title": "AI boom could lead to a new GPU shortage, but Nvidia says the current problem is just packaging",
-      "excerpt": "Recent statements from AI companies indicate that the AI boom is increasing the demand for GPUs to the point where some report shortages. Nvidia claims its",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-shortage-but.html",
-      "originalUrl": "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-shortage-but.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-06-image.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-06-generative-ai-a-new-gold-rush-for-software-engineering-innovation.md",
-      "title": "Generative AI: A new Gold Rush for software engineering innovation",
-      "excerpt": "Generative AI for the enterprise is a phenomenal opportunity for visionary founders to build the FAANG companies of tomorrow.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-software-engineering-innovation/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-software-engineering-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/annevb_gold_coming_out_of_a_computer._Colorful_futuristic_tech_307cbdc3-afba-4658-a4cc-48761ed98c3b.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

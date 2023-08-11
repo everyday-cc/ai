@@ -81,6 +81,20 @@ related:
         width: 1400
         height: 1050
         isCached: true
+  - title: "Black Hat USA 2023 Panel: Used Correctly, Generative AI is a Boon for Cybersecurity"
+    excerpt: "A Black Hat 2023 panel discussed the ramifications of generative AI, and included the former Cyber Czar for the Obama administration."
+    publishedDateTime: 2023-08-11T21:02:00Z
+    webUrl: "https://www.techrepublic.com/article/black-hat-2023-generative-ai-panel/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 61
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
+        width: 270
+        height: 203
+        isCached: true
   - title: "Rising Cyberthreats Spur Local Businesses to Embrace AI and Cloud Security"
     excerpt: "With the cybersecurity landscape continually evolving, it is more important than ever for local businesses to keep pace with the changes. The increasing prevalence of threats like phishing, business email compromise (BEC),"
     publishedDateTime: 2023-08-07T09:25:00Z
@@ -111,6 +125,20 @@ related:
         width: 1024
         height: 767
         isCached: true
+  - title: "Generative AI used to conduct cybersecurity drills"
+    excerpt: "A pair of recently-launched products use generative AI to actively train people on cybersecurity through the use of live simulations of real attacks."
+    publishedDateTime: 2023-08-11T20:22:00Z
+    webUrl: "https://www.accountingtoday.com/news/generative-ai-used-to-conduct-cybersecurity-drills-in-two-programs"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/bd302f2/2147483647/strip/true/crop/200x105+0+48/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc3%2Fe9%2Fd7a87c004bfe95e86c1840f263ae%2Fcybersecurity1223123.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "What the OWASP Top 10 for LLMs Means for the Future of AI Security"
     excerpt: "This top 10 was started by Steve Wilson, chief product officer at Contrast Security, who worked alone on version 0.1 over one weekend in the Spring of 2023 because there were no comprehensive resources on LLM vulnerabilities. The Top 10 for LLMs project was approved by the OWASP foundation in May."
     publishedDateTime: 2023-08-08T11:30:00Z
@@ -120,6 +148,15 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 36
+  - title: "AI Is Crucial for Healthcare Cybersecurity"
+    excerpt: "Healthcare organizations are among the most frequent targets of cybercriminals’ attacks. Even as more IT departments invest in cybersecurity safeguards, malicious parties infiltrate infrastructures — often with disastrous results."
+    publishedDateTime: 2023-08-11T18:03:00Z
+    webUrl: "https://www.unite.ai/ai-is-crucial-for-healthcare-cybersecurity/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 34
   - title: "Protecting your self-driving car - and your privacy - from cyberhackers in the age of AI"
     excerpt: "Amini is leading the university's investigation of AI for the National Center for Transportation Cybersecurity and Resiliency, which is funded by the U.S. Department of Transportation."
     publishedDateTime: 2023-08-07T13:45:00Z

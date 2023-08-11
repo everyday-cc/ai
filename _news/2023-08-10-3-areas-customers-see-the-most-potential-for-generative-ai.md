@@ -60,6 +60,15 @@ related:
         width: 1639
         height: 886
         isCached: true
+  - title: "Healthcare AI Trends to Watch: M&A Exits & Generative AI Use Cases"
+    excerpt: "The healthcare AI space will be an exciting one to watch over the next couple years, as investment dollars flow to startups and providers launch more AI pilots. Two of the most interesting trends to watch will be the use cases that healthcare organizations prioritize when deploying generative AI models,"
+    publishedDateTime: 2023-08-11T19:04:00Z
+    webUrl: "https://medcitynews.com/2023/08/healthcare-generative-ai-merger-acquisition/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 34
   - title: "AI and the Productivity Imperative"
     excerpt: "The world is struggling with labor shortages, inflation, and a supply chain that cannot keep up with demand. AI can help overcome these productivity challenges, with LLMs in particularly allowing for productivity boosts without replacing human workers,"
     publishedDateTime: 2023-08-11T12:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/transportation/california-okays-driverless-t
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true"
 type: article
 quality: 59
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -170,16 +170,34 @@ related:
         width: 1459
         height: 1491
         isCached: true
-  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
-    excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
-    publishedDateTime: 2023-08-10T20:57:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=1193272085"
+  - title: "Self-driving taxis get the green light on 24/7 service in San Francisco"
+    excerpt: "Companies like Waymo and Cruise can now offer autonomous rides to anyone in San Francisco—but some city officials have concerns."
+    publishedDateTime: 2023-08-11T18:00:00Z
+    webUrl: "https://www.popsci.com/technology/san-francisco-robotaxis-public/"
     type: article
     provider:
-      name: Capital Public Radio
-      domain: capradio.org
+      name: Popular Science
+      domain: popsci.com
+    quality: 4
+  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
+    excerpt: "It's hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
+    publishedDateTime: 2023-08-11T01:44:00Z
+    webUrl: "https://www.wuwm.com/economy-business/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
+    type: article
+    provider:
+      name: WUWM
+      domain: wuwm.com
+    quality: 0
+  - title: "San Francisco's police, fire departments fret about push for more self-driving cars"
+    excerpt: "Self-driving car firms want California regulators to allow for more vehicles on San Francisco streets. Police and fire departments cite many times when autonomous vehicles botched rescue operations."
+    publishedDateTime: 2023-08-11T20:27:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2023-08-11/san-franciscos-police-fire-departments-fret-about-push-for-more-self-driving-cars"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
     quality: 0
 
-secured: "ssj2a6sBICP2kBAerCQU3cdu2sEspK9ACgQZCq91QfWOACel9u+RMT4FB1UTzee4MD11bNgIedgheoQT8BD9ulYgfXasjVKopJujn8Ys5OZE0hNdjcYoZ39pjWYvwdBWNw+FyHLYKh5kPc/i3QzxEm8pWYS/TIlWBEywu4WFtZ33bdt9y0VMYA/AgA9nucDvxY3/wMV+utU8EkTollyjmXwf0QUcE3ocyp3dzMVN635Ww/eE/iT66vjWdPmNkp16tioClpnMpXeCF/0DWgGRpyo4pkVQ1ZtluCtbtuZOGlD2HrAgmY+BVFoyOpSXVcRxMvEalJNNa94tWZEJ9OsEKO2vqr8TKoFHI3RSjwFlllE=;peY+8aSlp/TvMxrx6rD8fg=="
+secured: "r+/8FaUR3E1V7MoObyw3heAm8wRvqEUrQAyM7827Wd20kKyEbdq7NUskcvS38YlllKbnwjbz3+OEPlUJBTbXB1Oz+XLl4kD8slAvjlPLJiHMAjbdxSpXROP8I53hYxjNnJ+f+NYRHgTm2B0jarqpzm6EGqoYfGtcfKM4gxrroWEhI8P2HcTQrsNGKeIPRHPCGuQOpdkjVh81GLHffFaJ8J80hheCXm01mzDgUUHxA4SQS9nc52xuWSURad9jrTD4FqjGiBNRjjjBPNlCbsH+cP68tlIhQ4PidzaLKzTDYiTbLFz3L1hEcrqIPHMM2F+R8OrQQopBWV4HbxIJj26NdHgL23aoH1CpXnFf2gGkI9A8heBhJ4hn/z4Cid5uM3kZdhzsu0hanmRG1n7NW93C+mxFdTmzZM0jCi83ihQfGFIv7b3kjvUKIC7HexJaQDoiXFxSPGInDSLdwcs4Tlqeh3nayoFj6PnzI+VCHoy8dJBJdYT3FMnSe+oshkK7vhZXCS26k32fNXJJmnoXBAO+bw==;9GTLjEr6qTV1s3sOR1pkAA=="
 ---
 

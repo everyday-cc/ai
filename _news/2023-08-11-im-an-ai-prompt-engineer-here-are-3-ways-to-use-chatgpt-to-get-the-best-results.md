@@ -117,6 +117,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "Nvidia unveils new chip that will bring down cost of running ChatGPT and other AI models"
+    excerpt: "Nvidia has revealed its next-generation Grace Hopper platform, featuring the world's first HBM3e processor for generative AI. The system has a single"
+    publishedDateTime: 2023-08-08T22:39:00Z
+    webUrl: "https://www.headlinestoday.in/technology/nvidia-unveils-new-chip-that-will-bring-down-cost-of-running-chatgpt-and-other-ai-models-587942910.html"
+    type: article
+    provider:
+      name: headlinestoday
+      domain: headlinestoday.in
+    quality: 45
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/sites/headlinestoday/resources/images/headlinestoday_fb.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Quickly learn to code with ChatGPT and Bard AI"
     excerpt: "While these AI tools can be incredibly helpful ... This allows Bard to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. Bard is still under development, but it has learned ..."
     publishedDateTime: 2023-08-08T10:49:00Z
@@ -266,6 +280,6 @@ related:
       domain: virginiabusiness.com
     quality: 4
 
-secured: "aE0UvRcGYebad074I1mWBUqN2y14FqQ3J0XjBFua3ygFjibHw1lZ9v4U8IluW1SJYaprxaSyoYF4e90mLXqahE2m+v+zHhqYv5d0/3hwFg8tWEu0ouptwKVlZEE+4J9GP4SOYLqcGkqI+gaPZhNw0DYr1Hakk5CnkMgkr4XVZlA7ys/sAFtY/7EylZRRRxwUj39DAE15wJHWvZGjsWRN/lGIAp2e7xrnD6gLv/eIyu4ig/GwbCbN3RUhmh82qys9FRw8/gxVyIEpv5O9eR8YVy3AaRpO/iKomwIzX/i5jAzU+dwm3RkxT8CHgSTFmQ0r2CoyNzPfnOUcYFsAuO/23GpxPlePC0YWvzebp+FQ++Q=;nupkYh/ni6jO/a0LpfJIhw=="
+secured: "mSzGfGHLg+3s5IEq5n7tFZ9YxrXj7smhJZA5SDZg9UQwmOV7kf4fnWnJCi3uKkdcphhNFwxG/rDT+X9edi1RFJLeTFwx63WImORkVEPiKmjEk4IQmd/VhG8Uza+sIiQkssc6rpMwHySI67ZKp6zhpYk6NcNl0THetCTYH5UJaP5Rg/I6X+P2OSyTtJ/kM/q5fohKYl97Q/RkbGoVD7WRvAFQNpmNzIYPyeph8otikkHDO3Ubt9tSYiDn+mmq5B8ZNuAVlCI8UeiOqTSRTIdkWEFzUZw8TjXGMdL8TEIYhMH1PwxG3mUIYrXFc6Diafck2PSygqB6XNEM0eZh4eEPbwTIWW0tVZw93zujS3mwRXnCzHAb3HDK0y41QVh59LivwS5raUV8uChpvxik8/jAFMxWs/k4uN90pzFOZh7Ls8bOnSWI+J1SZIRAnGp3h+6M5/cPLi/k5iNwlVN6Uro+qOzeBZ3nRwSO59+g7UBo0DlADhdJ1oGDSDqwNWIbZ9PvLx5wZqV6duOTfcrqv/bK6w==;/WMhcIxtmPUv1pvkdh1YOw=="
 ---
 

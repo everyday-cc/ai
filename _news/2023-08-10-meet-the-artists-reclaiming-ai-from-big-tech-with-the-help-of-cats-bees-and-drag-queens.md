@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/aug/10/artists-using-a
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/aug/10/artists-using-artificial-intelligence-science-gallery"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -30,17 +30,31 @@ images:
     isCached: true
 
 related:
-  - title: "Wizards of the Coast’s Dungeons & Dragons tells artists not to use AI"
-    excerpt: "Dungeons & Dragons, owned by Renton-based Wizards of the Coast, told artists to stop using the technology after social media questioning."
-    publishedDateTime: 2023-08-07T17:25:00Z
-    webUrl: "https://www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/?amp=1"
+  - title: "Foundations seek to advance AI for good — and also protect the world from its threats"
+    excerpt: "While technology experts sound the alarm on the pace of artificial intelligence development, philanthropists — including long-established foundations and tech billionaires — have been responding with"
+    publishedDateTime: 2023-08-11T15:42:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
+      name: ABC
+      domain: abcnews.go.com
+    quality: 52
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Foundations seek to advance AI for good — and also protect the world from its threats"
+    excerpt: "While technology experts sound the alarm on the pace of artificial intelligence development, philanthropists — including long-established foundations and tech billionaires — have been responding with an uptick in grants."
+    publishedDateTime: 2023-08-11T19:32:00Z
+    webUrl: "https://www.clickondetroit.com/business/2023/08/11/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 12
 
 secured: "fehtWZPW/pTJeI0p+6nR13McUT6SMryfojcW4gYdKWV97dn535325PlwdHPJRD5rYui7yuW8bEdI6xkdwqOpHPiANauAu27ktfTo1SLFlJ5fZHE+zAslKhQwV9sCsVYGODGbI2oX3sUeJ2/Bs16GZPkz4BTa5vU9It6JtaDu1fONsGiopE8EsY//7VDRsHUpShqmUl9p76oxfrrLSOrHUP2izl3QHkMpkYQg8SLIr3F/ZMYjKbLY3sq3arwIRDz7dxyMaEhPJRqv8IkshFegH1mW++GfRIPStR/X7U9+tlJefjQOqh/lby0Z9PN7Y6xYe4ru1ubQZ0nxxplS9ImFOok6MgNZ1qi1GooJ9BRRsxBAf8okaVBsrNZwPE/rMp7uY8HiYORvirAmlAJbGfZRkDrf8/kbTFaanpXoBPDCM+MRZ5Hry4ND8+Jt69SqBtVJ3M2P3XejFyUzISvO5E18wpt3NO+e9qh5fRMZAhkx0ZjENJhNjzTpgH9PnTJ8dPVaHPnNwaafRZ9drOU2p7jOUA==;xPUt0G4YirDvssDZ0fGlrA=="
 ---

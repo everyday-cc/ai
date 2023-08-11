@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions -FT"
+    excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday."
+    publishedDateTime: 2023-08-09T21:54:00Z
+    webUrl: "https://www.reuters.com/technology/chinas-internet-giants-order-5-bln-nvidia-chips-power-ai-ambitions-ft-2023-08-09/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 80
+    images:
+      - url: "https://www.reuters.com/resizer/tyFpR0H5gc8GFCzc32yvJXBPe84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VTXHVAI3VBOYTAQRG7NBVL5EII.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Nvidia launches RTX workstations chips for content creation in the generative AI era"
     excerpt: "Nvidia is launching new RTX workstation graphics processing units (GPUs) for the generative AI era at Siggraph."
     publishedDateTime: 2023-08-08T16:00:00Z
@@ -33,81 +47,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "BOXX Upgrades AI Workstation Module with New NVIDIA L40S GPUs"
-    excerpt: "BOXX Technologies, the leading innovator of high-performance computer workstations, rendering systems, and servers, today announced that RAXX P1G, a rack-mounted"
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635531/boxx-upgrades-ai-workstation-module-with-new-nvidia-l40s-gpus"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33635531"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635531"
+  - title: "Nvidia’s new AI chip to offer boon for Korean chip giants’ HBM business"
+    excerpt: "Nvidia’s newest AI chip utilizing the world’s first HBM3e processor is expected to boost growth for SK hynix and Samsung Electronics, the two chipmakers dominating the still-nascent High Bandwidth Memory market. Nvidia, a leading producer of GPUs based ..."
+    publishedDateTime: 2023-08-10T05:50:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20230810000504"
+    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230810000504"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230810000504"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: The Korea Herald
+      domain: koreaherald.com
     quality: 74
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Generative AI Highlights NVIDIA Keynote at SIGGRAPH 2023"
-    excerpt: "At the SIGGRAPH conference, NVIDIA showcased its efforts to make generative AI not only more accessible but also more versatile. Through strategic partnerships and technological advancements, NVIDIA’s innovations echo a significant industry trend where many different sectors are beginning to harness the power of AI."
-    publishedDateTime: 2023-08-08T18:20:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-highlights-nvidia-keynote-at-siggraph-2023/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
-    images:
-      - url: "https://b2758374.smushcdn.com/2758374/wp-content/uploads/2023/05/top-generative-ai-apps-tools-696x464.png?lossy=1&strip=1&webp=1"
-        width: 696
-        height: 464
-        isCached: true
-  - title: "Nvidia upgrades Omniverse to for OpenUSD framework and generative AI"
-    excerpt: "Nvidia said the Omniverse platform will leverage the OpenUSD framework and generative AI (AI) to accelerate industrial digitalization."
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-upgrades-omniverse-to-for-openusd-framework-and-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Studio-Image.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "NVIDIA Unveils RTX 5000, 4500 And 4000 Ada Workstation GPUs To Crush AI Workloads"
-    excerpt: "NVIDIA announced the much-anticipated expansion of its workstation graphics card lineup based on Ada Lovelace."
-    publishedDateTime: 2023-08-09T14:15:00Z
-    webUrl: "https://hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 69
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62253/content/NVIDIA_RTX_5000_Hero.jpg"
-        width: 708
-        height: 400
-        isCached: true
-  - title: "Nvidia flexes generative AI muscle at SIGGRAPH with new GPUs, development software"
-    excerpt: "GPU titan Nvidia doubled down on generative AI at SIGGRAPH this week, unveiling new chips, server designs, and software to fill out its ecosystem of artificial intelligence hardware and systems design products."
-    publishedDateTime: 2023-08-09T21:34:00Z
-    webUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.html"
-    ampWebUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 68
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/nvidia-l40s-100944528-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F08%2F10%2F20230810000490_0.jpg"
+        width: 630
+        height: 354
         isCached: true
   - title: "China's internet giants order $5 billion of Nvidia chips to power AI ambitions: Report"
     excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday."
@@ -125,19 +79,60 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Education Artificial Intelligence Cheating"
-    excerpt: "Faculty members engage in discussion during a teaching circle on artificial intelligence on Wednesday, Aug. 9, 2023, at Temple University in Philadelphia. Educators say they want to embrace the techno"
-    publishedDateTime: 2023-08-10T04:01:00Z
-    webUrl: "https://www.goshennews.com/news/national_news/education-artificial-intelligence-cheating/image_9e8f6e8f-ec1c-5508-bf47-11480663587f.html"
+  - title: "Big Money For Big Tech: China has ordered $5bn worth of AI chips from NVIDIA, despite US ban"
+    excerpt: "Despite several sanctions on China, several tech companies in China are lining up to buy NVIDIA's AI Chips at a premium. The Chinese tech industry has placed an order worth $5 billion with NVIDIA for"
+    publishedDateTime: 2023-08-10T06:50:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/big-money-for-big-tech-china-has-ordered-5-billion-dollars-worth-of-ai-chips-from-nvidia-despite-us-ban-12980592.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/big-money-for-big-tech-china-has-ordered-5-billion-dollars-worth-of-ai-chips-from-nvidia-despite-us-ban-12980592.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/big-money-for-big-tech-china-has-ordered-5-billion-dollars-worth-of-ai-chips-from-nvidia-despite-us-ban-12980592.html/amp"
     type: article
     provider:
-      name: The Goshen News
-      domain: goshennews.com
+      name: Firstpost
+      domain: firstpost.com
+    quality: 65
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Big-Money-For-Big-Tech-China-has-ordered-5bn-worth-of-AI-chips-from-NVIDIA-despite-US-ban.jpg"
+        width: 640
+        height: 362
+        isCached: true
+  - title: "Nvidia boosts its 'superchip' Grace-Hopper with faster memory for AI"
+    excerpt: "Nvidia announced a desktop software program called AI Workbench to more easily containerize neural net models on local workstations to stage them for the cloud."
+    publishedDateTime: 2023-08-08T19:31:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-boosts-its-superchip-grace-hopper-with-faster-memory-for-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
+  - title: "ODMs see Nvidia GPU shortage curb AI server shipments"
+    excerpt: "Wiwynn, and Giga Computing have experienced delays in fulfilling AI server orders due to the ongoing GPU shortage at Nvidia, according to industry sources.."
+    publishedDateTime: 2023-08-11T01:17:00Z
+    webUrl: "https://www.digitimes.com/news/a20230811PD200/ai-server-gpu-nvidia-qct.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
     quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/assets/v3/editorial/9/e8/9e8f6e8f-ec1c-5508-bf47-11480663587f/64d46404761a9.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://img.digitimes.com/newsshow/20230811pd200_files/2_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
+  - title: "Chinese Tech Firms Baidu, TikTok-owner ByteDance, Tencent, Alibaba Order Nvidia AI Chips Worth $5 Billion: Report"
+    excerpt: "The Chinese firms have made orders worth $1 billion to acquire about 100,000 A800 processors from the US chipmaker to be delivered this year."
+    publishedDateTime: 2023-08-10T05:21:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/china-baidu-bytedance-tiktok-tencent-alibaba-nvidia-ai-chips-tech-company-artificial-intelligence-4285377"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/china-baidu-bytedance-tiktok-tencent-alibaba-nvidia-ai-chips-tech-company-artificial-intelligence-4285377/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/china-baidu-bytedance-tiktok-tencent-alibaba-nvidia-ai-chips-tech-company-artificial-intelligence-4285377/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 53
+    images:
+      - url: "https://i.gadgets360cdn.com/large/nvidia_ai_chips_reuters_1691644360974.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
   - title: "FT: China’s internet giants order US$5b of Nvidia chips to power AI ambitions"
     excerpt: "China’s internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems,"
@@ -152,6 +147,20 @@ related:
       - url: "https://www.malaymail.com/malaymail/uploads/images/2023/08/10/thumbs/400x400/136995.jpg"
         width: 400
         height: 266
+        isCached: true
+  - title: "Chinese tech giants place $5 billion orders with Nvidia for generative AI chips"
+    excerpt: "China’s tech giants, including Baidu, ByteDance, Tencent, and Alibaba, have initiated orders with Nvidia for $5 billion worth of chips to construct"
+    publishedDateTime: 2023-08-10T07:22:00Z
+    webUrl: "https://technode.com/2023/08/10/chinese-tech-giants-place-5-billion-orders-with-nvidia-for-generative-ai-chips/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 50
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/08/142394325_l_normal_none-scaled.jpg"
+        width: 2560
+        height: 1680
         isCached: true
   - title: "China's internet giants order US$5b of Nvidia chips to power AI ambitions: Report"
     excerpt: "The FT report comes as Biden signed an executive order that would curb US investments in sensitive technology in China. Read more at straitstimes.com."
@@ -181,88 +190,19 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Nvidia’s FlexiCubes uses generative AI to create 3D meshes"
-    excerpt: "Nvidia has launched FlexiCubes, a new way to use AI to generate 3D meshes for a wide range of 3D applications."
-    publishedDateTime: 2023-08-11T13:01:00Z
-    webUrl: "https://venturebeat.com/ai/nvidias-flexicubes-uses-generative-ai-to-generate-3d-meshes/"
+  - title: "Nvidia Unveils New AI Chip with Potential to Reduce Costs of Running Large Language Models"
+    excerpt: "In a move aimed at maintaining its supremacy in the AI hardware sector, Nvidia has introduced a groundbreaking AI chip, the GH200, designed to optimize artificial intelligence models. As rivals such as AMD,"
+    publishedDateTime: 2023-08-10T07:37:00Z
+    webUrl: "https://www.cryptopolitan.com/nvidia-unveils-new-ai-chip/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Nvidia announces updated GH200 Grace Hopper GPU with HBM3e memory for generative AI workloads"
-    excerpt: "Nvidia has announced an updated version of its GH200 'superchip,' which will be the first GPU in the world to include HBM3e memory."
-    publishedDateTime: 2023-08-09T15:26:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-updated-gh200-grace-hopper-gpu-with-hbm3e-memory-for-generative-ai-workloads/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 43
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 44
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/GH200_HBM3e.2e16d0ba.fill-1200x630.png"
-        width: 1124
-        height: 592
-        isCached: true
-  - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
-    excerpt: "NVIDIA today announced NVIDIA OVX™ servers featuring the new NVIDIA® L40S GPU, a powerful, universal data center processor designed to accelerate the"
-    publishedDateTime: 2023-08-08T16:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635629/nvidia-global-data-center-system-manufacturers-to-supercharge-generative-ai-and-industrial-digital"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33635629"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635629"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "AI powerhouse Nvidia releases toolkit that allows developers to quickly create, test generative models"
-    excerpt: "Nvidia on Tuesday announced the AI Workbench, a new toolkit that will helps developers to more quickly create, test, and customize generative AI models."
-    publishedDateTime: 2023-08-10T01:48:00Z
-    webUrl: "https://www.foxbusiness.com/fox-news-tech/ai-powerhouse-nvidia-releases-toolkit-allows-developers-quickly-create-test-generative-models"
-    ampWebUrl: "https://www.foxbusiness.com/fox-news-tech/ai-powerhouse-nvidia-releases-toolkit-allows-developers-quickly-create-test-generative-models.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/fox-news-tech/ai-powerhouse-nvidia-releases-toolkit-allows-developers-quickly-create-test-generative-models.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 41
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4a0ea36e-3f4d-49e4-b13d-11aaad667f80/cb5c08c3-1d34-43c3-9f86-c589b7c36c77/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "China spends big on Nvidia chips"
-    excerpt: "Wants them for its generative AI systems China's internet giants have ordered more than $5 billion of high-performance Nvidia chips to build generative AI systems. Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,"
-    publishedDateTime: 2023-08-11T09:05:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57402-china-spends-big-on-nvidia-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/7d2e48c471e8e1bbb6222171f23a9353_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "Rules to keep AI in check: nations carve different paths for tech regulation"
-    excerpt: "In January, the CAC began enforcing rules issued in 2022 to tackle deepfakes and other AI-created content. Providers of services that synthesize images, video, audio or text must verify users’ identities, obtain consent from deepfake targets, watermark and log outputs and counter any misinformation produced."
-    publishedDateTime: 2023-08-08T10:40:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-02491-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 36
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02491-y/d41586-023-02491-y_25894594.png"
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-10_10-41-45.jpg"
         width: 1024
-        height: 576
+        height: 1024
         isCached: true
   - title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions: Report"
     excerpt: "Nvidia offers the A800 processor in China to meet export control rules after U.S. officials asked the company to stop exporting its two top computing chips to the country for AI-related work. The FT report comes as President Biden on Wednesday signed an ..."
@@ -273,33 +213,6 @@ related:
       name: telecom.economictimes.indiatimes
       domain: indiatimes.com
     quality: 28
-  - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
-    excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
-    publishedDateTime: 2023-08-08T16:51:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861323.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
-    excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
-    publishedDateTime: 2023-08-08T18:44:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861323.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Cloud-based workspace collaboration startup Genemod launches new AI solution"
-    excerpt: "Cloud-based workspace collaboration for biopharma startup Genemod Inc. today launched a new artificial intelligence solution designed to turbocharge lab productivity and secure global collaboration."
-    publishedDateTime: 2023-08-11T12:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/11/cloud-based-workspace-collaboration-startup-genemod-launches-new-ai-solution/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 14
   - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
     excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
     publishedDateTime: 2023-08-08T15:58:00Z
@@ -318,15 +231,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 13
-  - title: "NVIDIA, Global Workstation Manufacturers to Launch Powerful Systems for Generative AI and LLM Development, Content Creation, Data Science"
-    excerpt: "The systems, including those from BOXX, Dell Technologies, HP and Lenovo, are based on NVIDIA RTX 6000 Ada Generation GPUs and incorporate NVIDIA AI Enterprise and NVIDIA Omniverse™ Enterprise software."
-    publishedDateTime: 2023-08-08T17:35:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861311.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "3Dju5+B1FUMmL+ENk7zvrfOq5iUa9tes7OQzFEvswO7EEb6XhUbaujPluQyJel58Ho1KqcLazSe1mwd4w8c27D6EypEzVV4rnsu0o2glbVLkCCAD8kUdeY9OZPbsw1aMxmODQ1OupaK4v+hG4jjQHZvzaA/NY06gB6LbOtcm0Hz2LrhQQv+0hB+8FYDPb0AumMi3C1c87kjO41AJ+o2LTK1I9IFEF6/ghxEBXIjyIehugIpruykFSTSURjrkBQJzgYjMkDPAoal4vzzvTD5DqECue+WhjU0Zvz5RfFzGmGC+gnlj/nMRtUqap9kZsvhzlwzhYcBFVazx1uh7am3Qt7bU4BjtRqXf0D1OikIQbFKq55LjDvDeE6KE3lIG0FclJUapKy94JQ7J+ICxJpAf2Pb5vKzmhL6woutbe7OXSaCgukIqFkwtj0s+5BqC/zDuLqr6fq7U+A4EsE/1MBS4B/ZIgPitNCprg9Ywhl+vuJi2Yc3C3ji33ixM3B5NVXRoVc3aZEQDzbHwpBLFr4CTXw==;1TVwUsk1LjNJLwS5P5/kbA=="
 ---
