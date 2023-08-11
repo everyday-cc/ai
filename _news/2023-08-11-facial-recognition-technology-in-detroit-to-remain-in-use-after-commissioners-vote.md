@@ -75,15 +75,15 @@ related:
         isCached: true
   - title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
     excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
-    publishedDateTime: 2023-08-08T19:10:00Z
-    webUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
-    ampWebUrl: "https://www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+    publishedDateTime: 2023-08-08T21:11:00Z
+    webUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html"
+    ampWebUrl: "https://www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/reckon/2023/08/experts-remain-divided-on-facial-recognition-technology-despite-another-wrongful-arrest.html?outputType=amp"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 66
+      name: al.com
+      domain: al.com
+    quality: 68
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BIMYC6XAZVAJFBF2QHXBNOIZYE.jpg"
         width: 1680
@@ -544,6 +544,6 @@ related:
         height: 697
         isCached: true
 
-secured: "ZrQcF+xlLzcEPWSQr//raqYUKTrxWmmXP5nOYUbDY9KPeVxGrxav895BNdS6O6aR6UC3vHu2DWkqi/9UsMRRr7q2t2pTNBA2Mp8IrbgdIIDCmvtW5fwSjiI7C2DgXJ1+OKPSrjGJqHkOgQklkJbzvwuJsEKcU2ehuHVQXkGpgoda0bYJ+AjJ52B5Z7PcP3xGSzxtUKga6eAfwbBBpSBdct8r7IR6z4y8ThUBHasMI+3p4WfLHR2sjkYWDks3HGfesNJsON9oH6grMXTeBI4tm1HOrNUf67gzs8IOCJjMeckAdOv7HjB5i+2ByreU5bxnC4vymF05aRHAFQbHXgWEqLDGUR9vVGFzmIV67JDJquo=;k7SSrV4VK5+Cj7IkF5i18g=="
+secured: "o/lxXQSvmBNXz5LRQTSvB0TJ18FPCezAN1b47kFRhfmKpjp/WQsFjAyBCC7kKHP3CW0snFOY+eR5Vrla2q2DgxKOJpnfu31/whoCjtGfXnJR9j5bE+EZRIWGUZE3G25M4C/UhLgso3S6BhFsIUMFXPfOuGc+p1E5VjS2vxxONmGIHJq8URoXq1uRE5YUN3Iy7w2Qd4nFQ1dt58Y8zTqwC6zPKEu1eCon2mqr3zcEUBPLo3DoaFjCjS8LtFUkj/UPFnWIN5W0MlsQjPYFdtvF9CVhq5uRhTb8gjOGDFVPPAdPL6WGaqtiN5/to2zCLFq643VPUNM2aobzkI8pCeMED1pTBTREBs8vF8iTCEA9Cm0ZCcHtF+P7Klya5K40sHvtH+tsd72GPH5akLn2+u3PQzidZ3NZEZUPJnu0LpYAfbjCu7Z6TYfDd3lSh4A5rVp+3kjqr3TkqnReXO3aPK4v5CTVPPr/xUd6EfxbW8xZM7hyL+VvkrbpD77QdrO6+FALZDL45lOlGxsQZGNpnxMlAw==;7TbJhaipvisdeNBc0jZohA=="
 ---
 

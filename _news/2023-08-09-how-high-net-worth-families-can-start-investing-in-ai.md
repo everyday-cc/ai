@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI can be a force for good or ill in society, so everyone must shape it, not just the ‘tech guys’"
+    excerpt: "Although designers do have a lot of power, AI is just a tool conceived to benefit us. Communities must make sure that happens, says author Afua Bruce"
+    publishedDateTime: 2023-08-11T07:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/aug/11/ai-tech-designers-tool-communities"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/11/ai-tech-designers-tool-communities"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/11/ai-tech-designers-tool-communities"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/b1d09319dd1257ea90c8d7f5e63bb2a36f627284/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=43ee72c4811f380bb7e79c6af21a8bac"
+        width: 620
+        height: 372
+        isCached: true
   - title: "How artificial intelligence could be used in deep sea mining"
     excerpt: "High-tech robotic vehicles that utilize artificial intelligence could soon be scouring the deep sea floor for minerals needed to make batteries for electric vehicles. Ben Tracy has more."
     publishedDateTime: 2023-08-10T23:45:00Z

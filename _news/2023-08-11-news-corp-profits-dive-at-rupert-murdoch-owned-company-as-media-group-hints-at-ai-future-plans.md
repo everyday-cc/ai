@@ -33,7 +33,7 @@ related:
   - title: "News Corp profits dive 75% as Rupert Murdoch-owned company hints at AI future"
     excerpt: "Poor result weighed down by lower print and digital advertising at News Corp Australia, a division that includes flagship newspaper The Australian"
     publishedDateTime: 2023-08-11T03:09:00Z
-    webUrl: "https://www.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch?ref=biztoc.com"
+    webUrl: "https://www.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch"
     ampWebUrl: "https://amp.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch"
     type: article

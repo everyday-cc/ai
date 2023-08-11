@@ -3,8 +3,8 @@ category: news
 title: "News Corp profits dive 75% as Rupert Murdoch-owned company hints at AI future"
 excerpt: "Poor result weighed down by lower print and digital advertising at News Corp Australia, a division that includes flagship newspaper The Australian"
 publishedDateTime: 2023-08-11T03:09:00Z
-originalUrl: "https://www.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch"
+webUrl: "https://www.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch"
 ampWebUrl: "https://amp.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch"
 type: article
@@ -47,6 +47,6 @@ related:
         height: 372
         isCached: true
 
-secured: "PNa3CWjmnUyt6696H68kZNy0MvFArd/K/pi3CLRvYNrd3qn6aulPM8Sw7YPtwVoN5BjU+J81jVcqf/7UrbcEnTnG3V0OlgM1wuAeke040XBvPVOG2aLyEWvsd7V2rXbF3IFL0xXw0Ksq9SzcH0JZ1MKqWRW7zpvCIqaOhrnVHcowpbtYtStqCipgWa0Q15sbKHlq1/VROs372skik5V82oxA9nVkdCfb2ZdjFruLJDrNDuIpMXIh1TohZ6B8UdJ7v2a+NyglEZM/KJMqnZcGd+wLuW5au/KqtYf45jfIl6VnXiW0aQdq55gQNbqpv7wP+5sSifvIigfMFmZ/sauaZs1nP+uLZxsWfpYfkFTy8oI=;3jF0Q+k8UZqhdC5qz7tMog=="
+secured: "zKTZkqJs/WaIqR5KDIc5CI2nad1m6NFcCJR1Apky4dQB5sEO8j76ewLiqS8vpGJh1TTkeb7j8iQZDoMR9GwHP0BY1xu4JFFBzUk22uGLxJtooKxXgQitwyxn1tLVuoG8VbDEwyoZCfiuXQn/LrP/DYY3Zp7pmitO7ARSkBu2mRmnBitghpzShHuXdkl29xvIzV/f9XXSxwOUkG5vS9+zPeOhsH1GiAvNojbTZgug5LfVbestwD92vW+Gvpqj3fdeAqAXc7uyKirHD002lmeIdFJCgGJYbYA7LIXnRbw2cCeVX+n+itYZHBIANHio4euRjCX63655wRJAahdNChxm/GIfa+GkJr8BALMTW5dSaZU=;2Xd7IGtQ5LQ4paBJHEZv+w=="
 ---
 

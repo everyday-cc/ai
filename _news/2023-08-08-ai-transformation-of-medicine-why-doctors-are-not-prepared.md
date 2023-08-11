@@ -39,15 +39,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Study Warns That Doctors Are Not Prepared for AI Transformation of Medicine"
-    excerpt: "AI is becoming an integral part of medical decision-making, but physicians need to enhance their understanding of these tools for optimal use. Expert recommendations call for targeted training and a hands-on learning approach."
-    publishedDateTime: 2023-08-06T14:36:00Z
-    webUrl: "https://scitechdaily.com/study-warns-that-doctors-are-not-prepared-for-ai-transformation-of-medicine/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 17
   - title: "The future of medicine: Physicians need new skills to use ai in clinical decision making"
     excerpt: "As artificial intelligence systems like ChatGPT find their way into everyday use, physicians will start to see these tools incorporated into their clinical practice to help them make important decisions on diagnosis and treatment of common medical conditions."
     publishedDateTime: 2023-08-08T12:08:00Z

@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-12-cedar-rapids-airport-testing-facial-recognition-technology.md",
+      "title": "Cedar Rapids airport testing facial recognition technology",
+      "excerpt": "The Eastern Iowa Airport in Cedar Rapids is one of 25 airports in the U.S. that are testing new facial recognition technology in TSA lines. The new technology adds to the previous authentication methods by taking a picture of the traveler to match against their ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/",
+      "originalUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imengine.public.prod.cdr.navigacloud.com/?uuid=767D8083-B298-4C59-86CF-FA5BEF92D3A4&type=preview&q=75&width=1200&height=800",
+          "width": 800,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1",
+      "cdnAmpWebUrl": "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1",
+      "publishedDateTime": "2023-07-12T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "thegazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-senior-computer-vision-leader-and-mapping-expert-luc-vincent-joins-hayden-ai-as-its-chief-product-technology-officer.md",
+      "title": "Senior Computer Vision Leader and Mapping Expert Luc Vincent Joins Hayden AI as its Chief Product & Technology Officer",
+      "excerpt": "Hayden AI today announced that Luc Vincent, a former AI leader at Meta, has joined the company as its Chief Product & Technology Officer. In addition to leading automated bus lane enforcement projects,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentuckytoday.com/news/business/senior-computer-vision-leader-and-mapping-expert-luc-vincent-joins-hayden-ai-as-its-chief/article_09c52fb1-cc13-5d56-add7-e78c3a17cd45.html",
+      "originalUrl": "https://www.kentuckytoday.com/news/business/senior-computer-vision-leader-and-mapping-expert-luc-vincent-joins-hayden-ai-as-its-chief/article_09c52fb1-cc13-5d56-add7-e78c3a17cd45.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kentucky Today",
+        "domain": "kentuckytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-landing-ai-and-snowflake-partner-bringing-ai-fueled-computer-vision-to-unstructured-data.md",
       "title": "Landing AI and Snowflake Partner, Bringing AI-Fueled Computer Vision to Unstructured Data",
       "excerpt": "By extending the power of computer vision to unstructured data located within a Snowflake account, models can now be trained within the Landing AI platform to then be deployed into Snowflake as User-Defined Functions (UDFs), along with pre-trained ...",
@@ -1214,83 +1300,6 @@
       "provider": {
         "name": "Statista",
         "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-computer-vision-system-marries-image-recognition-and-generation.md",
-      "title": "Computer vision system marries image recognition and generation",
-      "excerpt": "Computers possess two remarkable capabilities with respect to images: They can both identify them and generate them anew. Historically, these functions have stood separate, akin to the disparate acts of a chef who is good at creating dishes (generation),",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-vision-image-recognition-generation.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-vision-image-recognition-generation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/computer-vision-system.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-vision-image-recognition-generation.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-vision-image-recognition-generation.amp",
-      "publishedDateTime": "2023-06-28T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-cvpr-reveals-top-five-trends-in-computer-vision.md",
-      "title": "CVPR Reveals Top Five Trends in Computer Vision",
-      "excerpt": "Top paper categories included 3D computer vision; image and video generation; and understanding humans in video. Create an autonomous ecosystem. With advances in autonomous vehicles making their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33049624/cvpr-reveals-top-five-trends-in-computer-vision",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33049624/cvpr-reveals-top-five-trends-in-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

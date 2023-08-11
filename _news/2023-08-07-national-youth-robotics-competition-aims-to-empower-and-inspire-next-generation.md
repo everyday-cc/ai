@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html"
 type: article
 quality: 85
-heat: 95
+heat: 96
 published: true
 
 provider:

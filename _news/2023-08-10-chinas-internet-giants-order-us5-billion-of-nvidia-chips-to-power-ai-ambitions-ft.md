@@ -104,6 +104,20 @@ related:
       name: telecom.economictimes.indiatimes
       domain: indiatimes.com
     quality: 28
+  - title: "Chinese Tech Titans Move To Stockpile $5 Billion Of Nvidia AI Chips Fearing Further Export Restrictions By U.S This Time Targeting A800 Processors"
+    excerpt: "Nvidia introduced A800 as a replacement chip with a slower processing speed for Chinese market after the U.S blocked China’s access to two of its high-end microchips including its leading-edge A100 processors."
+    publishedDateTime: 2023-08-11T07:29:00Z
+    webUrl: "https://swarajyamag.com/tech/chinese-tech-titans-move-to-stockpile-5-billion-of-nvidia-ai-chips-fearing-further-export-restrictions-by-us-this-time-targeting-a800-processors"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 16
+    images:
+      - url: "https://gumlet.assettype.com/swarajya/2022-09/7be06553-4c7c-43b4-b034-e423615f72a6/Screenshot_2022_09_01_at_4_14_44_PM.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 798
+        isCached: true
 
 secured: "3Dju5+B1FUMmL+ENk7zvrfOq5iUa9tes7OQzFEvswO7EEb6XhUbaujPluQyJel58Ho1KqcLazSe1mwd4w8c27D6EypEzVV4rnsu0o2glbVLkCCAD8kUdeY9OZPbsw1aMxmODQ1OupaK4v+hG4jjQHZvzaA/NY06gB6LbOtcm0Hz2LrhQQv+0hB+8FYDPb0AumMi3C1c87kjO41AJ+o2LTK1I9IFEF6/ghxEBXIjyIehugIpruykFSTSURjrkBQJzgYjMkDPAoal4vzzvTD5DqECue+WhjU0Zvz5RfFzGmGC+gnlj/nMRtUqap9kZsvhzlwzhYcBFVazx1uh7am3Qt7bU4BjtRqXf0D1OikIQbFKq55LjDvDeE6KE3lIG0FclJUapKy94JQ7J+ICxJpAf2Pb5vKzmhL6woutbe7OXSaCgukIqFkwtj0s+5BqC/zDuLqr6fq7U+A4EsE/1MBS4B/ZIgPitNCprg9Ywhl+vuJi2Yc3C3ji33ixM3B5NVXRoVc3aZEQDzbHwpBLFr4CTXw==;1TVwUsk1LjNJLwS5P5/kbA=="
 ---

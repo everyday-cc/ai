@@ -59,20 +59,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "The double-edged nature of parenting, mental health and artificial intelligence"
-    excerpt: "There are two sides to every coin — and sometimes our strengths become weaknesses. This hour, TED speakers explore the mixed blessings and volatile flip sides of mental health, parenting and AI. Guests include developmental psychologist Yuko Munakata ..."
-    publishedDateTime: 2023-08-11T05:44:00Z
-    webUrl: "https://www.npr.org/2023/08/10/1193281234/the-double-edged-nature-of-parenting-mental-health-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 33
-    images:
-      - url: "https://media.npr.org/assets/img/2023/08/10/trh_cuts_both_ways_artwork1_wide-f5cd94374cdee89695b5a53cef8e676148eb1927-s1400-c100.jpg"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Cruise now testing self-driving cars in Atlanta"
     excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."
     publishedDateTime: 2023-08-08T21:39:00Z
@@ -117,12 +103,12 @@ related:
         isCached: true
   - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
     excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
-    publishedDateTime: 2023-08-11T00:45:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
+    publishedDateTime: 2023-08-11T01:44:00Z
+    webUrl: "https://www.wuwm.com/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
     type: article
     provider:
-      name: wusfnews.wusf.usf.edu
-      domain: usf.edu
+      name: WUWM
+      domain: wuwm.com
     quality: 18
     images:
       - url: "https://npr.brightspotcdn.com/dims4/default/a576e85/2147483647/strip/true/crop/4948x2598+0+319/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F08%2F10%2Fgettyimages-1390904872_custom-facb4d78b06ed88683d0ad1b438c70c0e9e87cdf.jpg"

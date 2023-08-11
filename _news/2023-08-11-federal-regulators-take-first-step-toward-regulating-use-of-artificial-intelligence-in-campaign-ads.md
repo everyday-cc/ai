@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnewyork.com/news/national-international/federal-regul
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/?amp=1"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: NBC New York
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "FEC moves toward potentially regulating AI deepfakes in campaign ads"
+    excerpt: "The Federal Election Commission has begun a process to potentially regulate AI-generated deepfakes in political ads ahead of the 2024 election"
+    publishedDateTime: 2023-08-11T02:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/fec-moves-potentially-regulating-ai-deepfakes-campaign-ads-102180371"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/fec-moves-potentially-regulating-ai-deepfakes-campaign-ads-102180371"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fec-moves-potentially-regulating-ai-deepfakes-campaign-ads-102180371"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_95399e640bd1e41182f6c631717cc826_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "FEC takes first step toward rules on artificial intelligence deepfakes in campaign ads"
     excerpt: "The Federal Election Commission took a first step Thursday toward regulating the use of artificial intelligence-generated media in campaign ads by considering a petition for new rules and asking the public for comment."
     publishedDateTime: 2023-08-10T15:33:00Z

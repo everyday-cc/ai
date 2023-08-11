@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "FEC moves toward potentially regulating AI deepfakes in campaign ads"
+    excerpt: "The Federal Election Commission has begun a process to potentially regulate AI-generated deepfakes in political ads ahead of the 2024 election"
+    publishedDateTime: 2023-08-11T02:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/fec-moves-potentially-regulating-ai-deepfakes-campaign-ads-102180371"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/fec-moves-potentially-regulating-ai-deepfakes-campaign-ads-102180371"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fec-moves-potentially-regulating-ai-deepfakes-campaign-ads-102180371"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_95399e640bd1e41182f6c631717cc826_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "kkzyBpthKpPjQaijJeDSYDTkVqYOpItS4c1kVw80bZhOBCUCVDeZqNJNsom9nLdR4f0aay3wuncvEbOsdA0Zn9uy/pYiJLLMmwwcMsbHo42mKJwHkcdfn+u0wt4Yfx4Y+P+JW0wEQdtc8Md+LK1Jkc/bQymV5RsJRSurt0y+K7OLT0CwKi2LJAxV7JFW0XDHqxk6T425iKYwQJJKLJbmsVgkFGHbbrJ/K6eteklANUBR/IcBRZYsc0FSgXZXzU/A6sE0BTcz7AJFgu+3EHCE+COaBVxrhnRRX2XObk1f5oWF3ae7W817Tb28DtG2NE2Az7eKntjkZ4RNh0eUs9Le+8hCH6sikcOuk2r6z7AZhU88xtK+SFhpMXaS54m0A75bAt5tzIsJd1kRtiiE0VaBsqNYqcGuqULFF1Hl3aqLiCF1n1K/mLWrqRZTUSRCn72f0bju8WLTLsYSxOugNGiknDYGMnPJ7Rly2H8cjaIY7LeeuKDpWI2xZZf/WF63zR5qljkxyfVPDzKTrTyc6kUhSA==;wY2GdDI/8dsCTSVOMHK38Q=="
 ---

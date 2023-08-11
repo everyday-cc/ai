@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/china-internet-giants-o
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/china-internet-giants-order-5-billion-nvidia-chips-power-ai-ambitions-report/article67179110.ece/amp/"
 type: article
 quality: 66
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 27
+  - title: "Chinese Tech Titans Move To Stockpile $5 Billion Of Nvidia AI Chips Fearing Further Export Restrictions By U.S This Time Targeting A800 Processors"
+    excerpt: "Nvidia introduced A800 as a replacement chip with a slower processing speed for Chinese market after the U.S blocked China’s access to two of its high-end microchips including its leading-edge A100 processors."
+    publishedDateTime: 2023-08-11T07:29:00Z
+    webUrl: "https://swarajyamag.com/tech/chinese-tech-titans-move-to-stockpile-5-billion-of-nvidia-ai-chips-fearing-further-export-restrictions-by-us-this-time-targeting-a800-processors"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 16
+    images:
+      - url: "https://gumlet.assettype.com/swarajya/2022-09/7be06553-4c7c-43b4-b034-e423615f72a6/Screenshot_2022_09_01_at_4_14_44_PM.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 798
+        isCached: true
 
 secured: "O/zQ4/M1kgKbaQYeu5qlofFwdKNn8TjkyPSGjdaujvlvppr1hiXq8hJlyNL3RtXq7s1UH5cPzev5yw7Wxiplh6rem0k3uA4E+89VKWhYxHw8Jb0uJrjqHGB7p+0YOIRdBIWFiiHxTBh0zvJdUgil9nqw13LIXrd2yr0pXs1fNhhzZkD542zU5wSzgDSYhURNH5Mea0kaMRFtWTPj6GzETaNsTUcBzvwzC019TWMiRY8SLre0nOUiUEt8xRQkONO1OSL5qMNbNy0p5+P4hgDAEG6G1drjxjBUyc2SnpuuBkJ0alvyQYv96pXwGeHSus5s9McemKRXUMIcgNYfyN4px4cb3LY3OmoDrmfrP8skEwA=;UtGjxQ8bCC/E5EUpuxuyPQ=="
 ---

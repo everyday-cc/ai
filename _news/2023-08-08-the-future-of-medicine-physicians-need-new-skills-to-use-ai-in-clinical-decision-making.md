@@ -44,15 +44,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Study Warns That Doctors Are Not Prepared for AI Transformation of Medicine"
-    excerpt: "AI is becoming an integral part of medical decision-making, but physicians need to enhance their understanding of these tools for optimal use. Expert recommendations call for targeted training and a hands-on learning approach."
-    publishedDateTime: 2023-08-06T14:36:00Z
-    webUrl: "https://scitechdaily.com/study-warns-that-doctors-are-not-prepared-for-ai-transformation-of-medicine/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 17
 
 secured: "9fLWYZgcCule2ArGTHbgUP0aDff6QbtaqSLS6LMiL34vOEkAuNxJPpC3wmHiZ23LY6f7ge9zEYanIhdYdf7VFKKjgCQhzb/3IygKEcnBehuIwqj5xJARhKGKlf5S9eabaCfYirMEoyUVR20sPhxE56Lw2z9H4kQ5CqvDZ6VLCuS1vK67uhlxjPafB44Ppc/xF3zzDKkQ/sNcigf74dGRTOvZwng/KRamLcbQ7lWMMl4lvEbWzVlM5ep/VqOWwRUhD3kNyRvXHYt6yZ55ovd57aniTo8XzOQdUIEhlfpC0rbKFNIpk9huOLLFtDeP4VLnd/p6B8yb8c85hUvrSeKhqT7VmYaVUU/iua1DD9AtFK8=;8SKhMIusVsLVDWySqnVR9A=="
 ---
