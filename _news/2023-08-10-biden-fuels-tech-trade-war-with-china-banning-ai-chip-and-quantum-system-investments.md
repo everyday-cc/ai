@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html"
 type: article
 quality: 66
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/11/e634c5af-7212-4b44-b55a-ad3a9f2a551c/thumbnail/1200x630/2c5fbb459b3252cc5223dd8490b4250b/ae2dfb51adecbc530c78e39a48b98cb5.jpg?v=08aa43fa812a9e12e93282c47f58b17f"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Reverse CFIUS Unveiled: Focus on China, Semiconductors, Artificial Intelligence, and Quantum Computing"
+    excerpt: "President Biden issued an Executive Order (E.O.) ordering the issuance of outbound investment restrictions. This E.O. comes after nearly a year of anticipation (as we have"
+    publishedDateTime: 2023-08-11T22:45:00Z
+    webUrl: "https://www.natlawreview.com/article/reverse-cfius-unveiled-focus-china-semiconductors-artificial-intelligence-and"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 21
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/33801/SemiConductor%20Circuit%20Board_0.jpg?itok=KoMeBKMn"
+        width: 500
+        height: 282
         isCached: true
   - title: "Biden issues an executive order restricting U.S. investments in Chinese technology"
     excerpt: "President Joe Biden signed an executive order Wednesday to block and regulate high-tech U.S.-based investments going toward China -- a move the administration said was targeted but it also reflected an intensifying competition between the world's two biggest powers."

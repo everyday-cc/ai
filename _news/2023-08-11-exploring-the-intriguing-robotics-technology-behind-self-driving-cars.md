@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/exploring-the-intriguing-robotics-technolo
 webUrl: "https://techbullion.com/exploring-the-intriguing-robotics-technology-behind-self-driving-cars/"
 type: article
 quality: 56
-heat: 127
+heat: 128
 published: true
 
 provider:

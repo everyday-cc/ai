@@ -86,6 +86,15 @@ related:
       name: SiliconIndia
       domain: siliconindia.com
     quality: 4
+  - title: "Invest Inc. Announces Reg A+ Offering: A New Era in Fintech Begins"
+    excerpt: "The future of fintech has a new face, and its name is Invest Inc. With great enthusiasm, we are proud to announce our Reg A+ offering, a transformativ"
+    publishedDateTime: 2023-08-09T21:39:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230809121687/en/Invest-Inc.-Announces-Reg-A-Offering-A-New-Era-in-Fintech-Begins"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
   - title: "Women in fintech hackthon: participants introduced to financial inclusion best practices"
     excerpt: "On Day One of the 2023 Women in FinTech hackathon, the over 100 innovators from Kenya and Uganda were able to work on their problem statements and business cases."
     publishedDateTime: 2023-08-11T03:32:00Z

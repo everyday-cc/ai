@@ -94,6 +94,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Reverse CFIUS Unveiled: Focus on China, Semiconductors, Artificial Intelligence, and Quantum Computing"
+    excerpt: "President Biden issued an Executive Order (E.O.) ordering the issuance of outbound investment restrictions. This E.O. comes after nearly a year of anticipation (as we have"
+    publishedDateTime: 2023-08-11T22:45:00Z
+    webUrl: "https://www.natlawreview.com/article/reverse-cfius-unveiled-focus-china-semiconductors-artificial-intelligence-and"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 21
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/33801/SemiConductor%20Circuit%20Board_0.jpg?itok=KoMeBKMn"
+        width: 500
+        height: 282
+        isCached: true
 
 secured: "XZOyJNdU2pEbaEdRHLsWJGPxWE4jKhP7bb0NG2/Bejk6KN3919kXM3Fe+p2EwOh1K/RUZpNRgvWGTFzCcgA05dWt1i5XHu/DDnAsqctPvuYKEkcZIde/PQZkNdJX792ciZbK4klF8bz02Ydo9chdAEScZWSrWoAg3IIqQBSvU/IXI7MyrXT6rOQR1yM4VYCCF6TCFcAeVhOgOVLCSf4y5toZk9TSM6HH/1QwK4aCnkxRuN/VZJHpnzcCuuD1RqaAA9t5rHgx30rIgkC8fswvKDPYd+XXzjDaAxAk4H4YFc/HvLNsDl/cpMdvVi+b75QOyct3gebcCybxwDc7ghhsX70e1WNScTkEXE4coUuvPwM=;9KNUZ3AoUzTVTpFXKSY0aQ=="
 ---

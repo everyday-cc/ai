@@ -196,6 +196,15 @@ related:
       name: WUWM
       domain: wuwm.com
     quality: 0
+  - title: "Startup Altruist plans to open San Francisco office as it scraps remote-first strategy"
+    excerpt: "One of the latest to shift from remote-first to a hybrid-workplace model is Culver City-based Altruist, which plans to open a San Francisco office for its Bay Area workforce. The company employs about 30 people in the Bay Area, according to RIABiz.com, an industry publication for financial advisers."
+    publishedDateTime: 2023-08-11T21:39:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/08/11/startup-altruist-plans-to-open-san-francisco-offic.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "cd64DGUaImxmYva7veyzWPEp4ZlaM8vDO5dRmdlkxPkqkR5X2CmOdogDBCgxVk5JKDajf9PZthiMT1pJouUt+s8tMUq+Wu18feSKqKrhPQYgd76kQRPpqIvjsjbulZs+kvGIXzSDKU3rjMEkWsyFVfm5mmMfvx+syzDPcfl1lHikNGX/Vd51rmWW/8Tzv0ovX62YPM3qINjg9WI/fe6KbFQ7tIY0bFsEMbB7x/6kx23KToVPVVvMi5kOTcNjERLfXJq6lgsdpzLtoEUqZ08XV1nZjw90L+lzPTPfqgdQdFmOzEh71xFEfLqvP4ZL0NflODc7sZyFu2NN8POL0mrlFMmEC3h++o63OpZZvDtYhBk=;83/Ztiqk7Kh9HJizEbU5oQ=="
 ---

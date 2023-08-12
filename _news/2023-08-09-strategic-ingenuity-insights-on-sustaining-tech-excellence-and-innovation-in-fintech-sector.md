@@ -167,15 +167,6 @@ related:
       name: American Banker
       domain: americanbanker.com
     quality: 19
-  - title: "Invest Inc. Announces Reg A+ Offering: A New Era in Fintech Begins"
-    excerpt: "The future of fintech has a new face, and its name is Invest Inc. With great enthusiasm, we are proud to announce our Reg A+ offering, a transformative step that underscores our commitment to democratizing premium financial market information and technologies."
-    publishedDateTime: 2023-08-09T17:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/09/9862129.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "Qraft Technologies and LG AI Research Enter Strategic Partnership – Exploring the Potential of Artificial Intelligence-Driven Solutions in the Financial Industry"
     excerpt: "SEOUL, South Korea-- ( BUSINESS WIRE )-- Qraft Technologies, a leading invest-tech company developing artificial intelligence solutions, has formally entered into a strategic technology research partnership with LG AI Research, an artificial intelligence research hub of LG group, with the signing of a Memorandum of Understanding (“MoU”)."
     publishedDateTime: 2023-08-10T13:00:00Z

@@ -197,6 +197,15 @@ related:
       name: Boise State Public Radio
       domain: boisestatepublicradio.org
     quality: 0
+  - title: "Startup Altruist plans to open San Francisco office as it scraps remote-first strategy"
+    excerpt: "One of the latest to shift from remote-first to a hybrid-workplace model is Culver City-based Altruist, which plans to open a San Francisco office for its Bay Area workforce. The company employs about 30 people in the Bay Area, according to RIABiz.com, an industry publication for financial advisers."
+    publishedDateTime: 2023-08-11T21:39:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/08/11/startup-altruist-plans-to-open-san-francisco-offic.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "HgekPK4ygVpqln2W4me3BxbhEyBCv6jm4q2ty4dfrdHcEty9FPnit4sby4xu/3KUyEFHzlGHs/YS0/7fmUS0dOgJGd9T1cycXS6g95L1v4KFSXbS5Ro0Ij426YZ7eJ3S4UDCyyvHTYqnsFRhbdpHP096SXmPZF8M/GYaJWmv2bKmogFqIhnjfVBEi89tWykswLaDt79mx+trzxkoFfJ1Gc8mx/Cvl8RPwFvZMd34qf987uYxAM6BezKl9cTMXrAhgpXewrTlFIo/ISvvf3vK5i9TtsQNnRsZvqCT17NZVMfPuzuX148qmHefUvCEsdlVpLRbF4jfquue6MsN1XtB32s1EMfecU1OjYd+ZcLBIpk=;ux/oKW7OtHGvLxQ+aRFvPQ=="
 ---

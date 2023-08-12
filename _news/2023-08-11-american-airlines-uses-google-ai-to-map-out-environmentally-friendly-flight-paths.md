@@ -52,7 +52,7 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 53
+    quality: 55
     images:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/A_doctor_makes_a_vaccination_to_a_child-Yuganov_Konstantin_cdbf1b05417f45e89b8268af4858e1c9-620x480.jpg"
         width: 620

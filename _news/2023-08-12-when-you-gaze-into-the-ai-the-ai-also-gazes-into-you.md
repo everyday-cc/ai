@@ -5,8 +5,10 @@ excerpt: "Web3, AI: Always worth paying attention when Goliath shifts on his ...
 publishedDateTime: 2023-08-11T18:59:00Z
 originalUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/"
 webUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/"
+ampWebUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/"
 type: article
-quality: 47
+quality: 89
 heat: -1
 published: false
 
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-637552576.jpg?resize=1200,800"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "AI is ruining the internet"

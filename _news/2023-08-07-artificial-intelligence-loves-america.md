@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Nearly Half of America Is Worried AI Will Affect Their Job"
-    excerpt: "A large segment of Americans are concerned that artificial intelligence (AI) is going to force them out a job, a new poll by the Los Angeles Times reveals. All up, almost half of all Americans are worried about the consequences of AI,"
-    publishedDateTime: 2023-08-07T05:39:00Z
-    webUrl: "https://www.thedailybeast.com/almost-half-of-americans-are-worried-ai-will-affect-their-job-los-angeles-times-poll-says"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2813,w_5000,x_0,y_59/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1691375354/2023-07-30T143444Z_2001999282_RC2GX1ALRU97_RTRMADP_3_USA-STOCKS-AI_ikdfyr"
-        width: 1480
-        height: 833
-        isCached: true
 
 secured: "nEPSMEBqqbHswZc/wAZmwUX1CjLgvo+qsFw+a77i8hvkX/MkGjXu+bGFHXR5J1i/BTXU5b0dUMoXCEdbMLxDt7GKs430fhmuG09xcj4MnwHSLkWP//nybLs1ONM/I8mQplpZpMGDAGjI4tUFWdzdyNuEAP9fstvr0EAQBMg6I50PfypQJ95gViO+8BqR/D/7/dlfhsn+X9/uJnJstIAWw2LCy/Y4aTN24YQYwVybnVSBYTpH3lXtoQzhn67N6I8ND0WHv7x3mQw0lc/wuKQ+H+kfziqBKIGMXWiTxnVkZmdlx69ZUYJCL8q2F1gkZDDVljc0szjo645JMq3dah0orPZWyplQW88Csyf3qbQXmwRz5akRVJ+vr251Fwb0hMrO/h+PS/Tv4W9BRSr0f4cn7qL+gVVlbRWr3Y3Q2e1JUIwI0N2Av7zEW3nnT/I9DCvjaZztfDmmSl6P4odunCQDsopL6uBgYcBtzkW628iiN7TKg8N/+oVGA5eN55WDfLtEQB0nybf3EW8QeASjt7Lpgg==;S0A68MoGv8RrD1ziRZdADA=="
 ---

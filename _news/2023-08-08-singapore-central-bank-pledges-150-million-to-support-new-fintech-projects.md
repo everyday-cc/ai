@@ -78,6 +78,15 @@ related:
       name: SiliconIndia
       domain: siliconindia.com
     quality: 4
+  - title: "Invest Inc. Announces Reg A+ Offering: A New Era in Fintech Begins"
+    excerpt: "The future of fintech has a new face, and its name is Invest Inc. With great enthusiasm, we are proud to announce our Reg A+ offering, a transformativ"
+    publishedDateTime: 2023-08-09T21:39:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230809121687/en/Invest-Inc.-Announces-Reg-A-Offering-A-New-Era-in-Fintech-Begins"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
   - title: "Fintech BPO Philippines: Navigating digital revolution in financial landscape"
     excerpt: "The rise of financial technology (fintech) has disrupted traditional financial sectors, propelling a shift towards digitization, convenience, and enhanced customer"
     publishedDateTime: 2023-08-09T11:15:00Z

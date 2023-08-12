@@ -1,24 +1,29 @@
 ---
 category: news
 title: "Syxsense Announces AI-Powered Cortex Copilot Bringing Natural Language Processing to Endpoint Management and Security Automation"
-excerpt: "Syxsense, a global leader in Unified Security and Endpoint Management (USEM) solutions, today announced Cortex Copilot, a powerful new AI engine that"
-publishedDateTime: 2023-08-09T10:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20230809184224/en/Syxsense-Announces-AI-Powered-Cortex-Copilot-Bringing-Natural-Language-Processing-to-Endpoint-Management-and-Security-Automation"
-webUrl: "https://www.businesswire.com/news/home/20230809184224/en/Syxsense-Announces-AI-Powered-Cortex-Copilot-Bringing-Natural-Language-Processing-to-Endpoint-Management-and-Security-Automation"
+excerpt: "Syxsense, a global leader in Unified Security and Endpoint Management (USEM) solutions, today announced Cortex Copilot, a powerful new AI engine that allows IT and security administrators to dramatically simplify and speed up the process of creating endpoint management and security workflow automation."
+publishedDateTime: 2023-08-09T09:57:00Z
+originalUrl: "https://www.galvnews.com/news_ap/business/syxsense-announces-ai-powered-cortex-copilot-bringing-natural-language-processing-to-endpoint-management-and-security/article_662953d6-32d1-5f71-93cc-2f19cd7ab405.html?block_id=531919"
+webUrl: "https://www.galvnews.com/news_ap/business/syxsense-announces-ai-powered-cortex-copilot-bringing-natural-language-processing-to-endpoint-management-and-security/article_662953d6-32d1-5f71-93cc-2f19cd7ab405.html?block_id=531919"
 type: article
-quality: 24
-heat: -1
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Daily News
+  domain: galvnews.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Security
-  - Microsoft AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
 
 related:
   - title: "Syxsense Brings Natural Language Processing to Endpoint Management and Security Automation with Cortex Copilot"
@@ -36,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "jl6HlZbar86Bp+MGMoBfqsGGwnvOtFipViCuAMd29CwHr4x5tEh0EbIOmHWT1nzGcmjx7YXJg5FPjUsQLODQlzv1FBHj7d9mShZvrMknx48D/L8Xgo2OtwRJwaqbGacP/gBUgTKQTf27BMlNIGTKlcwb/VD/XmhCgsri3/Mz9o5AzWPEb+k1zYjTO4ZKuBQUyJVMnxYUblRDTjXZcZpurQYibxf2D8UEVTkfWbTzPmUB2RWEu6aJbSL/AbO42wny43OqrTOGJs51aRR7p0px/KqDx4M0sQRShf1mo0tLMNo56/Z2ExUaxjgsxF9MrQx7wu71xmzSXFudSjyOmXCM1L4F1ScE+i0oIxTiZEgQ2YQ=;19SoMCa0ExprkUzTyOysKw=="
+secured: "pufk8EOg/+NaBiKH9zLypMRHO+b4NTT/u6mAdoHKJV2hdbyOxWb3dTJW6/SN2tdQFBJSA8waGL8XFJjaNLBbyLLde6K84QFVSUkVzggJqWJG9McbOK1ZLfu2mSfd6b+FvZ+oNNfGYCclxBGHwhIDW0B/ADVMSPKl3VsdQCypqpeUdKP5tNp+whBy/vND9wx3wtX5e/jiF7Uaeqq/c5Bs1awZpMJJQs65MEVCQ1FPyxo5xbB8SBHu/dCs8cTjtGKNGPNRW/z/3ig+spXWE6gr/GKk5FX2HTGCWBBQOzS65RGKWmvgNHplstOiv0zeXUCfvKwu7m4g3K42VGTwuSxQvHS00DUkSwTr03Bi8caVcws=;Lz2HSruN5N1l6jL+JsT/8A=="
 ---
 

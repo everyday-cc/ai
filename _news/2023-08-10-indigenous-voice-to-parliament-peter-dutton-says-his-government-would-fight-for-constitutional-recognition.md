@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to
 cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-peter-dutton-says-his-government-would-fight-for-constitutional-recognition/news-story/c579b0043e418059ac048974277d8dd8?amp"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,33 @@ topics:
   - AI
 
 related:
+  - title: "Peter Dutton’s Indigenous voice to parliament ploy raises the stakes for Anthony Albanese"
+    excerpt: "At the Garma Festival in Arnhem Land last weekend, Anthony Albanese decided to frighten those people who support constitutional recognition for Indigenous Australians but are baulking at voting Yes because they are concerned about the ramifications of the voice to parliament."
+    publishedDateTime: 2023-08-11T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/peter-duttons-indigenous-voice-to-parliament-ploy-raises-the-stakes-for-anthony-albanese/news-story/8e90f2997188ba5e47e44bab332c3d5d"
+    ampWebUrl: "https://www.theaustralian.com.au/inquirer/peter-duttons-indigenous-voice-to-parliament-ploy-raises-the-stakes-for-anthony-albanese/news-story/8e90f2997188ba5e47e44bab332c3d5d?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/peter-duttons-indigenous-voice-to-parliament-ploy-raises-the-stakes-for-anthony-albanese/news-story/8e90f2997188ba5e47e44bab332c3d5d?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 30
+  - title: "Alice Springs gripped by crime spree targeting airport, university and nursing home - as Anthony Albanese and his Voice 'Yes' campaigners enjoyed the $5,000-per-person Garma ..."
+    excerpt: "The form of constitutional recognition they are asking for is a Voice, not our sympathy, not a symbol, but a vehicle for progress,' he told the crowd. 'A practical tool to make their children's lives better. Not just something that will feel good ..."
+    publishedDateTime: 2023-08-07T11:18:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12379301/Alice-Springs-gripped-crime-spree-targeting-airport-university-nursing-home-Anthony-Albanese-Voice-Yes-campaigners-enjoyed-5-000-person-Garma-festival.html?fs=e"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-12379301/amp/Alice-Springs-gripped-crime-spree-targeting-airport-university-nursing-home-Anthony-Albanese-Voice-Yes-campaigners-enjoyed-5-000-person-Garma-festival.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12379301/amp/Alice-Springs-gripped-crime-spree-targeting-airport-university-nursing-home-Anthony-Albanese-Voice-Yes-campaigners-enjoyed-5-000-person-Garma-festival.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 6
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/08/07/05/74031287-0-image-a-8_1691383525585.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Dutton position on voice poses a difficult challenge"
     excerpt: "Supporters of an Indigenous voice to parliament face the prospect of history repeating in the wake of Peter Dutton’s pledge to continue fighting for constitutional recognition and a legislated regional voice."
     publishedDateTime: 2023-08-11T13:12:00Z

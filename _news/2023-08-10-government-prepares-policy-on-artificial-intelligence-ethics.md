@@ -7,7 +7,7 @@ originalUrl: "https://www.kompas.id/baca/english/2023/08/10/en-pendekatan-etika-
 webUrl: "https://www.kompas.id/baca/english/2023/08/10/en-pendekatan-etika-sebaiknya-tidak-dirangkum-dalam-format-peraturan-dari-pemerintah"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "AI ethics in engineering"
+    excerpt: "Navigate AI ethics: Ensure responsible, fair, and trustworthy AI in engineering. In an era where AI is revolutionising the engineering industry, understanding the ethical implications of this powerful technology is more critical than ever. This engaging ..."
+    publishedDateTime: 2023-08-10T00:00:00Z
+    webUrl: "https://www.imeche.org/training-qualifications/training-details/ai-ethics-in-engineering"
+    type: article
+    provider:
+      name: Institution of Mechanical Engineers
+      domain: imeche.org
+    quality: 54
+    images:
+      - url: "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "B0vGGmGDeUPb48iE/kwCMCIlXBF7V1mWpbFkQzAjzFV8BxNK4JRI+QvChL+PgNoZNq15rolJ44ggPi0KQcMvX/qL+jMz9+DUGQoLoYO0yJB+FYcf56TmVwRkBbj9nJcfUM1xLcsQX8NZKfVFV4GhdauwBtWoWhe8cy3nQTfSzjt5E7dxejHEQsN9593FtugKGC/E/QXtoUOM5zIQ39wytfBVb2vCJjfN2aw8gYbkmYHy8WGAfGtH1tnSfEnSflI9P3J2EQz1NWyZzNdKlybXCFy3ACvvpCG0AxeHfqEemPu2oT7P4meqxO/yLHDjkcubMbndWw/0A4ukS9OhljyVWJX48Qu1x8Xbi1GIPLpWJ693PFGuI9jJg1hOUypORzduRrrf0VgssuMY3jVUa/RVlfoQE5npjc/1PhQFwnyV6c/HX6Xcdi96x61hUrFyHjJ26EOQQHGVtWlzS1hHiQl4oRIEXzsmQ7pyEAz/9DQl4xMUw5R/DwmEi1xi0Rr3Mf2xxdgq14M9Jr4Ar9UzBnz7oA==;dOPSDEtR9T7Ms0jLxpbh7Q=="
 ---

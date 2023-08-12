@@ -1,191 +1,110 @@
 ---
 category: news
 title: "Invest Inc. Announces Reg A+ Offering: A New Era in Fintech Begins"
-excerpt: "The future of fintech has a new face, and its name is Invest Inc. With great enthusiasm, we are proud to announce our Reg A+ offering, a transformative step that underscores our commitment to democratizing premium financial market information and technologies."
-publishedDateTime: 2023-08-09T17:44:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/08/09/9862129.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/08/09/9862129.htm"
+excerpt: "The future of fintech has a new face, and its name is Invest Inc. With great enthusiasm, we are proud to announce our Reg A+ offering, a transformativ"
+publishedDateTime: 2023-08-09T21:39:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230809121687/en/Invest-Inc.-Announces-Reg-A-Offering-A-New-Era-in-Fintech-Begins"
+webUrl: "https://www.businesswire.com/news/home/20230809121687/en/Invest-Inc.-Announces-Reg-A-Offering-A-New-Era-in-Fintech-Begins"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
 
 related:
-  - title: "Fintechs turn to AI and cloud as steadfast forces for innovation"
-    excerpt: "The rapidly evolving fintech landscape is witnessing a remarkable transformation, driven by advancements in leveraging both AI and cloud technologies.\nThe post Fintechs turn to AI and cloud as steadfast forces for innovation appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-10T13:18:21Z
-    webUrl: "https://www.ibm.com/blog/fintechs-turn-to-ai-and-cloud-as-steadfast-forces-for-innovation/"
+  - title: "Lytus plans to invest $50 million in fintech business"
+    excerpt: "Lytus Technologies Holdings plans to spend $50m to expand its fintech offering into India over the next five years. The Nasdaq-listed firm will launch \"AI-driven financial services and personalised solutions\" as part of its move into India."
+    publishedDateTime: 2023-08-09T08:47:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/lytus-plans-to-invest-50-million-in-fintech-business/articleshow/102567813.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/lytus-plans-to-invest-50-million-in-fintech-business/amp_articleshow/102567813.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/lytus-plans-to-invest-50-million-in-fintech-business/amp_articleshow/102567813.cms"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Fintech groups and banks linking up for new payment partnerships"
-    excerpt: "Vietnam’s payment fintech landscape is witnessing a surge in partnerships between foreign giants like Apple Pay and local banks, while local payment apps are teaming up with international firms, signalling promising growth prospects for the digital payment sector."
-    publishedDateTime: 2023-08-07T08:17:00Z
-    webUrl: "https://vir.com.vn/fintech-groups-and-banks-linking-up-for-new-payment-partnerships-104151.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 39
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
     images:
-      - url: "https://vir.com.vn/stores/news_dataimages/2023/082023/07/15/in_social/fintech-groups-and-banks-linking-up-for-new-payment-partnerships-20230807150649.jpg?randTime=1691402506"
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-886390,msid-102568306/fintech.jpg"
         width: 600
-        height: 385
+        height: 450
         isCached: true
-  - title: "FinTech LIVE: AI in financial services"
-    excerpt: "In this forum from FinTech LIVE New York, we discuss how AI is already beginning to transform the financial services sector with AWS ’ Global Banking Industry Strategist Sachin Tandon, and MSU Federal Credit Union ’s Chief Digital Strategy & Innovation Officer Benjamin Maxim ."
-    publishedDateTime: 2023-08-08T09:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-live-ai-in-finserv"
+  - title: "Singapore central bank pledges $150 million to support new fintech projects"
+    excerpt: "Singapore's central bank is to commit up to $150 million to support startups developing innovative financial technologies over the next three years."
+    publishedDateTime: 2023-08-07T23:23:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42745/singapore-central-bank-pledges-150-million-to-support-new-fintech-projects"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/3b954bb1bfdbf39d9330a2cf8e2ce3e8:be2643f3fa4b62e349ff9ba7c35881f6/maxresdefault.jpg.jpg"
-        width: 1200
-        height: 631
-        isCached: true
-  - title: "Pagaya rallies as AI fintech sees stronger than expected quarter"
-    excerpt: "Pagaya Technologies delivered solid 2Q results that showcased an improving financial position for the artificial intelligence infrastructure firm. The"
-    publishedDateTime: 2023-08-11T12:48:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1023275/pagaya-rallies-as-ai-fintech-sees-stronger-than-expected-quarter-1023275.html?region=ca"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 39
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC8yMDIzLTA4LTExLTA5LTUxLTQ2LTZjNDU5NzAxNjg5NmEyODk5MjIyODdjYTA5ZGYxZjlmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Unleash Your Creativity with Opendream.ai’s Revolutionary AI Art Generator"
-    excerpt: "In the ever-evolving landscape of technology and creativity, Opendream.ai emerges as a beacon of innovation, introducing a groundbreaking platform that blurs the lines between human ingenuity and artificial intelligence."
-    publishedDateTime: 2023-08-10T09:13:00Z
-    webUrl: "https://techbullion.com/unleash-your-creativity-with-opendream-ais-revolutionary-ai-art-generator/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
+      name: Finextra
+      domain: finextra.com
     quality: 37
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/full-shot-super-woman-with-superpowers-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5485.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "The 3 Best Fintech Stocks to Buy in August"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As digital banking tools, such as banking apps and automatic bill payments,"
-    publishedDateTime: 2023-08-10T12:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-fintech-stocks-to-buy-in-august-1032540197"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "Fintech ForwardLane Introduces Generative AI Platform to Streamline Financial Services"
-    excerpt: "ForwardLane, the provider of AI-powered intelligence solutions, announces the launch of its new generative decision intelligence platform EMERGE."
-    publishedDateTime: 2023-08-11T15:12:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/211268-fintech-forwardlane-introduces-generative-ai-platform-to-streamline-financial-services/"
+  - title: "Hong Kong Tech Firm, ASL, Accelerates Growth in Fintech Services with Finastra"
+    excerpt: "Automated Systems Holdings Limited (ASL), a global IT solutions and services provider, has strategically partnered with Finastra."
+    publishedDateTime: 2023-08-09T22:58:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211235-hong-kong-tech-firm-asl-accelerates-growth-in-fintech-services-with-finastra/"
     type: article
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 31
+    quality: 20
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Abe-Lincoln-Eyes-Watch-Look-Dollar-Money.jpeg"
-        width: 1280
-        height: 724
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/05/hong-kong-dollar-coin-money.jpg"
+        width: 1354
+        height: 1206
         isCached: true
-  - title: "Why FinTech Companies Are Increasingly Relying on IT and How"
-    excerpt: "In the last few years, the fintech sector has been going through a tremendous transformation due to the advancements in the IT industry. The fintech companies have entered the financial industry landscape with innovative solutions that revolutionize traditional banking and financial services."
-    publishedDateTime: 2023-08-08T06:35:00Z
-    webUrl: "https://techbullion.com/why-fintech-companies-are-increasingly-relying-on-it-and-how/"
+  - title: "Lytus enters FinTech sector in India through the launch of a new payment gateway"
+    excerpt: "Nasdaq-listed Lytus Technologies Holdings PTV. Ltd. (the “Company”) (NASDAQ: LYT), a leading global technology-driven services company, has announced the launch of"
+    publishedDateTime: 2023-08-09T05:40:00Z
+    webUrl: "https://www.thehansindia.com/business/lytus-enters-fintech-sector-in-india-through-the-launch-of-a-new-payment-gateway-814452"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 19
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/FinTech-Companies-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://assets.thehansindia.com/h-upload/2023/08/09/1371187-lytus.jpg"
+        width: 1200
+        height: 720
         isCached: true
-  - title: "Lytus intends to invest $50 million in the fintech business"
-    excerpt: "Lytus intends to invest $50 million in the fintech business - Nasdaq-listed Lytus Technologies Holdings, a leading global technology-driven services firm, plans to invest"
-    publishedDateTime: 2023-08-09T09:44:00Z
-    webUrl: "https://www.siliconindia.com/news/business/lytus-intends-to-invest-50-million-in-the-fintech-business-nid-224641-cid-3.html"
+  - title: "The Rise of Fintech Investment in India: Reshaping Financial Landscapes"
+    excerpt: "Reshaping Financial Landscapes - India has experienced a spectacular financial upheaval in recent years because of the fintech industry."
+    publishedDateTime: 2023-08-09T12:21:00Z
+    webUrl: "https://www.siliconindia.com/news/general/the-rise-of-fintech-investment-in-india-reshaping-financial-landscapes-nid-224650-cid-1.html"
     type: article
     provider:
       name: SiliconIndia
       domain: siliconindia.com
-    quality: 24
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/h7BHAut8.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "The Rise, And Rise, Of Fintech Fraud."
-    excerpt: "The Rise, And Rise, Of Fintech Fraud. Legal News and Analysis - Asia Pacific, China, Hong Kong, India, Singapore, United Kingdom - Cybersecurity, Telecommunications, Media & Technology -"
-    publishedDateTime: 2023-08-09T14:04:00Z
-    webUrl: "https://conventuslaw.com/report/the-rise-and-rise-of-fintech-fraud/"
+    quality: 4
+  - title: "Fintech BPO Philippines: Navigating digital revolution in financial landscape"
+    excerpt: "The rise of financial technology (fintech) has disrupted traditional financial sectors, propelling a shift towards digitization, convenience, and enhanced customer"
+    publishedDateTime: 2023-08-09T11:15:00Z
+    webUrl: "https://manilastandard.net/spotlight/314358733/fintech-bpo-philippines-navigating-digital-revolution-in-financial-landscape.html"
     type: article
     provider:
-      name: Conventus Law
-      domain: conventuslaw.com
-    quality: 24
-    images:
-      - url: "https://conventuslaw.com/wp-content/uploads/2022/03/Untitled-design-36.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "TechSee Brings Computer Vision AI and Augmented Reality Service Automation to Amazon Connect"
-    excerpt: "TechSee, Brings AI Visual Service Automation to AWS Omnichannel Customer Experience NEW YORK, Aug. /PRNewswire/ -- TechSee, a global leader in Visual Service Automation, has announced today it is work"
-    publishedDateTime: 2023-08-10T13:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33707561/techsee-brings-computer-vision-ai-and-augmented-reality-service-automation-to-amazon-connect"
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 1
+  - title: "Women in fintech hackthon: participants introduced to financial inclusion best practices"
+    excerpt: "On Day One of the 2023 Women in FinTech hackathon, the over 100 innovators from Kenya and Uganda were able to work on their problem statements and business cases."
+    publishedDateTime: 2023-08-11T03:32:00Z
+    webUrl: "https://observer.ug/businessnews/78821-women-in-fintech-hackthon-participants-introduced-to-financial-inclusion-best-practices"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
-  - title: "Fintechs experiment with generative AI, but development is slow going"
-    excerpt: "The firms are increasingly seeking to integrate generative artificial intelligence into their products, and banks are potentially interested customers. But such efforts are costly, the risks are high,"
-    publishedDateTime: 2023-08-11T18:48:00Z
-    webUrl: "https://www.americanbanker.com/news/fintechs-experiment-with-generative-ai-but-development-is-slow-going"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 19
-  - title: "Strategic ingenuity: Insights on sustaining tech excellence and innovation in Fintech Sector"
-    excerpt: "In the rapidly evolving landscape of fintech, achieving and sustaining technological excellence and innovation is paramount for companies to remain"
-    publishedDateTime: 2023-08-09T09:30:00Z
-    webUrl: "https://www.dqindia.com/strategic-ingenuity-insights-on-sustaining-tech-excellence-and-innovation-in-fintech-sector/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 8
-  - title: "Qraft Technologies and LG AI Research Enter Strategic Partnership – Exploring the Potential of Artificial Intelligence-Driven Solutions in the Financial Industry"
-    excerpt: "SEOUL, South Korea-- ( BUSINESS WIRE )-- Qraft Technologies, a leading invest-tech company developing artificial intelligence solutions, has formally entered into a strategic technology research partnership with LG AI Research, an artificial intelligence research hub of LG group, with the signing of a Memorandum of Understanding (“MoU”)."
-    publishedDateTime: 2023-08-10T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230810311418/en/Qraft-Technologies-and-LG-AI-Research-Enter-Strategic-Partnership-–-Exploring-the-Potential-of-Artificial-Intelligence-Driven-Solutions-in-the-Financial-Industry/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: The Observer
+      domain: observer.ug
     quality: 0
 
-secured: "m1p4DIfcrl3j2oQ5hSNjpvvocP7GudJvS/UiODEas8DQEC7mP91uCEEkyjyVurgI6Fc0KEoLpTH6xfRENTAgeBQlkHHdhbzK/Z8HnkQzKL7shH6wO3XvPt2DYI4GdsZupKZ1BlBM5pK3M9fisGIFMQKZT/NrK/4kSjps8hkJQ8tWll6zoBySZaYtBpkKvRN+GRjAfIb8TOvfUbA+btAPMIautRBdfpfaDoiuZxZvlMN5TfzPuWFGhDEFnVBM3n1mIfJFYCM8FZFKAARDQHjZBCobe03K//T5kuwh5k1WaQK9nsPm8GrJA0ExLhbCNtll8u3OTkc7FGbptFoV6IIiUZBLpr9bjOJ0auHnBK4J+N4=;xSGu2sYLxrsnMyvXoiwGGQ=="
+secured: "A0qmSHzyNTiT2ciLwc2aoOgaoyCCOhS/iPqHLuI7KGdfkLQq/Atesn6flRSbuzuBkXfHl9zNMwprQosfTm14fK63Y8ZULZwehkOvOX1tfZJlh7H41ezXoBeLpuUvewxa2sD1Rwyaws31pCOqp66hEO3YATfDnV49oWSGfa8Yn9jAAGiKwUzlBj0krgKrxuikMwAiYW51XKhnkCKt7bcK3ZDlJKMt0qwZwnUlXAjE++fVYHtr8BwwgVLuimW3GYcfNaSLfARjus4Xu1k2AvaX8l+rdir1pLanOGEw5+dQ47gGJC2sUuZ52UEf3v3ngjmmM3GfaNjxhpWdvoUFjq0QS3dtpT34so2ThjQKBiAd7bo=;qtCzY1wfDkEBC6b6UKeaBg=="
 ---
 

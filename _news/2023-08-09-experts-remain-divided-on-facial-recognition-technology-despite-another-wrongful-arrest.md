@@ -140,22 +140,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Pregnant US Woman, Arrested After False Facial Recognition Match, Sues Police"
-    excerpt: "After being charged with the two crimes, Porcha Woodruff was released on a $100,000 personal bond. A month later, the case against her was dismissed."
-    publishedDateTime: 2023-08-07T06:28:00Z
-    webUrl: "https://www.ndtv.com/world-news/pregnant-us-woman-arrested-after-false-facial-recognition-match-sues-police-4275620"
-    ampWebUrl: "https://www.ndtv.com/world-news/pregnant-us-woman-arrested-after-false-facial-recognition-match-sues-police-4275620/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/pregnant-us-woman-arrested-after-false-facial-recognition-match-sues-police-4275620/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 56
-    images:
-      - url: "https://c.ndtvimg.com/2022-11/pnmgprs_pregnant-woman-generic-650_625x300_10_November_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Detroit mother files lawsuit over facial recognition arrest"
     excerpt: "Porcha Woodruff was arrested by Detroit police after she says facial recognition software wrongfully identified her as a robbery suspect. WDIV's Demond Fernandez reports."
     publishedDateTime: 2023-08-10T19:23:00Z
@@ -534,6 +518,6 @@ related:
         height: 697
         isCached: true
 
-secured: "jRDu7Lo2jBEJkFuabf4EsS3P+YMzrftnTv+zrDH2EhhVAXga/rcQY+6GrMgyhUEwwiUUyIhiE+BXxijYneSI9AFhSXi9gQ+w+FBGlXdSZsll77KoiA7fpxWTFh6LZ/0nQRcNfmeK4+uD5ycufllxF7hzVOC/8D7HaNNryRlEQYBFpxuzTP9C6vmmZruqooOL+QEkD3R1NmEUsEhaNFz/etlAfutfwCOdIYHdNvCuCoFhMezbu1OBAskT9GKiB3XtK+RzT/+6V3Mp7PZMvkeCLgnBBh+vjm0G6oEBw3jxsRhf8lZDTo7r0GkP+ZNkhixURg7cs1eXZU9+u3AkHtf+prhWX5BIQNl9veIRwwE+T58=;NMBuVFI+l4teHdAHzj+tsg=="
+secured: "ulANVB5NQlDZFYlHLklA/1zj0d7wKDcRH8ta36xMFTgKUQRhQDo6YDsGUgi2X2HTFQPTu1kVH/dWmEOSkWf6K3sDUwDaEXYhw46qCUFeDhjA0VOjHxce02wyvcFCO9uwpAS1H8RHTEtPJrQ0Jj/Rif+KBfU3K/JwNv2Wq9Bfe11+iCvp+q9xY47z+Cwvwu1OQby7h++15jpKziCQB4LLi621Te9hSB8PNAi120lW8X617/azpMeu6pqLqEVXs38LwKVvEdd5cDXw2r1PBy84loLF28PjuWqywFgy92G0w6lO9kC/5E5bSmkpcVUXATFwphrhJ8pc+Ziz6ES/1JKL6S14ZaF1yTfeAjddypm9sFikN2M/wxWF8vEIOhAWvrs+CRaSEQ44q+5NQOFse+MJiyTOF2Dnen2LcO3+SXoDMj4Vp1V8cudwmv21qA8kvrSvJ4Z69c3/f83pkraqlUxwN60LGvjuF0XOHvi3gOLLlbT/ZWucw9ncWxwNQE9sQA8nHHtN0s/wHcesXIs8mpi49w==;X5e5QRrI00o9f5+SV3IdtQ=="
 ---
 

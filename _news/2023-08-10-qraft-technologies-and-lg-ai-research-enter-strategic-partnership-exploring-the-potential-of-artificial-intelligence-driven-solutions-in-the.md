@@ -175,15 +175,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 8
-  - title: "Invest Inc. Announces Reg A+ Offering: A New Era in Fintech Begins"
-    excerpt: "The future of fintech has a new face, and its name is Invest Inc. With great enthusiasm, we are proud to announce our Reg A+ offering, a transformative step that underscores our commitment to democratizing premium financial market information and technologies."
-    publishedDateTime: 2023-08-09T17:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/09/9862129.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "LHHt+J6Ic1wq+S4Hy/T4NlQo6LYeEek9+1PdCCqN6cy5AqCzTtbw2h2X+0eYRSVFLVGRmYsIbs/Xd9OLPMaOP3hS14DACSt+rzj8Y5MhQvE/rAZ79S3mxO2OWfNXWbXcZmvlNrM4JCFVW9IALKsy71leKe/jGKex5Pl2frIiOdA09iY9PIZL1tkQuEL83t+THIDy1hawShqpLlv3Pmvien+4SjcDDGeS22VmCDjrEvvcNxUWtmWX1nep7cFrlNYKZJFbCSr6VKX9tdgl+Ru6LzwoVQClu2kkk7u/fcOB99XwunSHkujDzB5ciuGIP5Bm6ahLAE+Ow+hBvHmITYgdkAbjO7bD5F6V1tr8FHbNZqY=;UtD9U3x/mdL9I1WDKqnGLw=="
 ---

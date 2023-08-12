@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Modular, AI Startup Challenging Nvidia, Discusses Funding at $600 Million Valuation"
+    excerpt: "Modular, a startup whose software aims to loosen Nvidia’s chokehold over in-demand artificial intelligence chips, has been in talks with investors including General Catalyst to raise Series A funding that would value it at roughly $600 million,"
+    publishedDateTime: 2023-08-11T23:21:00Z
+    webUrl: "https://www.theinformation.com/articles/modular-ai-startup-challenging-nvidia-discusses-funding-at-600-million-valuation"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 31
+    images:
+      - url: "https://tii.imgix.net/production/articles/11057/9e8150d2-cb8c-42bb-8810-b35f1573e68a.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NVIDIA at SIGGRAPH: DGX Integration with Hugging Face for LLM Training; Announcement of AI Workbench"
     excerpt: "At the the SIGGRAPH conference this morning in Los Angeles, NVIDIA and Hugging Face made several generative AI-related announcements, including a partnership intended to broaden access to generative AI supercomputing (NVIDIA’s DGX cloud hardware) for developers building large language models (LLMs) and other AI applications on the Hugging Face platform."
     publishedDateTime: 2023-08-08T16:02:00Z

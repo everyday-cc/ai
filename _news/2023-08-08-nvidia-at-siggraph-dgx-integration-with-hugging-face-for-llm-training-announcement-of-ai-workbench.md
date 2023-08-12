@@ -87,6 +87,20 @@ related:
         width: 1124
         height: 592
         isCached: true
+  - title: "Modular, AI Startup Challenging Nvidia, Discusses Funding at $600 Million Valuation"
+    excerpt: "Modular, a startup whose software aims to loosen Nvidia’s chokehold over in-demand artificial intelligence chips, has been in talks with investors including General Catalyst to raise Series A funding that would value it at roughly $600 million,"
+    publishedDateTime: 2023-08-11T23:21:00Z
+    webUrl: "https://www.theinformation.com/articles/modular-ai-startup-challenging-nvidia-discusses-funding-at-600-million-valuation"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 31
+    images:
+      - url: "https://tii.imgix.net/production/articles/11057/9e8150d2-cb8c-42bb-8810-b35f1573e68a.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NVIDIA, Global Workstation Manufacturers to Launch Powerful Systems for Generative AI and LLM Development, Content Creation, Data Science"
     excerpt: "The systems, including those from BOXX, Dell Technologies, HP and Lenovo, are based on NVIDIA RTX 6000 Ada Generation GPUs and incorporate NVIDIA AI Enterprise and NVIDIA Omniverse™ Enterprise software."
     publishedDateTime: 2023-08-08T17:35:00Z

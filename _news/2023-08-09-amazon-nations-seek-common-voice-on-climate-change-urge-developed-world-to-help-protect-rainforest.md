@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Amazon nations seek common voice on climate change, urge developed world to help protect rainforest"
-excerpt: "It’s been 14 years since the eight countries of the Amazon region convened in a summit of the Amazon Cooperation Treaty Organization."
-publishedDateTime: 2023-08-09T00:57:00Z
-originalUrl: "https://apnews.com/article/belem-amazon-rainforest-summit-brazil-environment-crime-4e68ebf7f6c719d779ed726cc4f0c5dc"
-webUrl: "https://apnews.com/article/belem-amazon-rainforest-summit-brazil-environment-crime-4e68ebf7f6c719d779ed726cc4f0c5dc"
+excerpt: "Leaders from South American nations that are home to the Amazon are challenging the developed world to do more to help stop massive destruction of the world’s largest rainforest"
+publishedDateTime: 2023-08-08T22:06:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
+webUrl: "https://abcnews.go.com/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
 type: article
-quality: 25
-heat: -1
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://dims.apnews.com/dims4/default/add180b/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fae%2F71%2F12b02a0cd67f6b2af07bc00ce5bf%2F086cfa98fbeb4ac5a447f1f020e0cfff"
-    width: 1440
-    height: 810
+  - url: "https://s.abcnews.com/images/International/wirestory_4e68ebf7f6c719d779ed726cc4f0c5dc_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -100,6 +102,6 @@ related:
         height: 630
         isCached: true
 
-secured: "10ULTnO2qx/VhEqlbtULBPpUjmfMwtogiHCrSOsFgDuUkSiH4Czz1MF6HEYvnNS0jmGsRafMHbRaAoLSOOPReS1c10NagnOO6r3nWaLVramnDpd6jmFT6QnB3+mJWb0yvtkaBikQ6B8tJjj9aUQk31xLyjaPkjRFWoWyJIsw3wNqLCehgwo8KH///mu3SoQdaRQf7AnJIeHEA2gB1zZba7/wM51VbNwhbynYqEzYdjiDK2aFVpnUNKITjc2AQskE8XThnJi0hIqgsZj8GEEFUOhsk/ThNmTrbVCvAC5n2SF1kojvTf0YnIWMzAH6eSydSz4qeRbNvqvpNvmk5K/CISwqI+yOYbK8/jJu9FJKjBowpS//JLXRUhaA57EnZEsswncufg7BiUEQkYzZEv8uqRKpVmzWQ79EiWT+uC17MRFSX4Vdhd5j6TpfShQ92IrwLJUHUeDf3F0fyA5TvRvuxv2tRUDpF+BBuA7Lg+bXqkXbFa15I+Os1e9Gh1Lvf5GwMXC0ZAvGCH6Ek018sSp15w==;Pd0E9aBm0jCArd3LQcu9QQ=="
+secured: "3kdCIDaqdUvpW3163VZzOaiiBPDc/6bUgTyALCA70MkTmZ/m/n/saueAGBjwLUNXWNCCFAi4GU0KLC5LYKdi+jOMODTGMScHKaKOLRZx58b2Ory6enhBKP5eHfVm19FE9axGjys+DgkLtfqRqgBbWs6hDIn9aqqyBFeVqBp3IFEOHe93foXlkXRxMkGkn02ctecb/qGMAIMLZPPkjytlYkUgnvP2AL4jjevOb/UhvX/Oo5IWnPbK6kswItVpy5Hf1EYiigAz039N98F2aInw2cm1PEZ9DpiV7zqiWTBKh99EulAXeY+GxXEnRMPPka9jqUeI0vt12bhMU9XnlBYWmNcnzepIODRiaIbORRIC5LY=;/j6PoB1tolZQ2D4M3NM7OQ=="
 ---
 

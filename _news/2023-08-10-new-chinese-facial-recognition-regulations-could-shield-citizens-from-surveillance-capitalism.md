@@ -47,6 +47,22 @@ related:
         width: 5476
         height: 3651
         isCached: true
+  - title: "China closes record number of personal data breaches, moots facial recognition law"
+    excerpt: "China has closed a record number of personal data breaches and is seeking public feedback on draft laws to regulate the use of facial recognition data."
+    publishedDateTime: 2023-08-11T22:01:00Z
+    webUrl: "https://www.zdnet.com/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/e62c52c5ce87590f1066d076e19db9058ee87c0e/2023/08/11/893c158b-a331-42d7-a1ac-95c95a6f9fb1/gettyimages-1443495508.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Advocacy group raises privacy concerns as facial recognition technology booms"
     excerpt: "Safety, efficiency and profitability are touted as the key drivers behind the growing popularity of digital ID technologies like facial recognition, but they present important privacy risks, Calgary-based legal advocacy organization Justice Centre for Constitutional Freedoms (JCCF) reveals in a new report."
     publishedDateTime: 2023-08-11T17:13:00Z

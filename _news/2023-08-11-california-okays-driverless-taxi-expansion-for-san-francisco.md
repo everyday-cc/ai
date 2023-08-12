@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/transportation/california-okays-driverless-t
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true"
 type: article
 quality: 59
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -196,6 +196,15 @@ related:
     provider:
       name: Boise State Public Radio
       domain: boisestatepublicradio.org
+    quality: 0
+  - title: "Startup Altruist plans to open San Francisco office as it scraps remote-first strategy"
+    excerpt: "One of the latest to shift from remote-first to a hybrid-workplace model is Culver City-based Altruist, which plans to open a San Francisco office for its Bay Area workforce. The company employs about 30 people in the Bay Area, according to RIABiz.com, an industry publication for financial advisers."
+    publishedDateTime: 2023-08-11T21:39:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/08/11/startup-altruist-plans-to-open-san-francisco-offic.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 0
 
 secured: "r+/8FaUR3E1V7MoObyw3heAm8wRvqEUrQAyM7827Wd20kKyEbdq7NUskcvS38YlllKbnwjbz3+OEPlUJBTbXB1Oz+XLl4kD8slAvjlPLJiHMAjbdxSpXROP8I53hYxjNnJ+f+NYRHgTm2B0jarqpzm6EGqoYfGtcfKM4gxrroWEhI8P2HcTQrsNGKeIPRHPCGuQOpdkjVh81GLHffFaJ8J80hheCXm01mzDgUUHxA4SQS9nc52xuWSURad9jrTD4FqjGiBNRjjjBPNlCbsH+cP68tlIhQ4PidzaLKzTDYiTbLFz3L1hEcrqIPHMM2F+R8OrQQopBWV4HbxIJj26NdHgL23aoH1CpXnFf2gGkI9A8heBhJ4hn/z4Cid5uM3kZdhzsu0hanmRG1n7NW93C+mxFdTmzZM0jCi83ihQfGFIv7b3kjvUKIC7HexJaQDoiXFxSPGInDSLdwcs4Tlqeh3nayoFj6PnzI+VCHoy8dJBJdYT3FMnSe+oshkK7vhZXCS26k32fNXJJmnoXBAO+bw==;9GTLjEr6qTV1s3sOR1pkAA=="

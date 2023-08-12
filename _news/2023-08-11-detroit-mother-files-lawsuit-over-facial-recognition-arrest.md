@@ -147,22 +147,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Pregnant US Woman, Arrested After False Facial Recognition Match, Sues Police"
-    excerpt: "After being charged with the two crimes, Porcha Woodruff was released on a $100,000 personal bond. A month later, the case against her was dismissed."
-    publishedDateTime: 2023-08-07T06:28:00Z
-    webUrl: "https://www.ndtv.com/world-news/pregnant-us-woman-arrested-after-false-facial-recognition-match-sues-police-4275620"
-    ampWebUrl: "https://www.ndtv.com/world-news/pregnant-us-woman-arrested-after-false-facial-recognition-match-sues-police-4275620/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/pregnant-us-woman-arrested-after-false-facial-recognition-match-sues-police-4275620/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 56
-    images:
-      - url: "https://c.ndtvimg.com/2022-11/pnmgprs_pregnant-woman-generic-650_625x300_10_November_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Facial recognition software blasted by DPD board of commissioners after recent false arrest"
     excerpt: "A vote to ban facial recognition for the Detroit police failed tonight, which would have kept the department from using it for a year."
     publishedDateTime: 2023-08-11T03:15:00Z

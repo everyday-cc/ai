@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/idsA$n?now=true"
 webUrl: "https://www.reuters.com/video/watch/idsA$n?now=true"
 type: article
 quality: 67
-heat: 78
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Is Helping California Prevent Wildfires"
+    excerpt: "AI technology is being used to protect Californians from wildfires. The AI has already shaved precious minutes off response times, and has demonstrated it is learning how to reduce false"
+    publishedDateTime: 2023-08-11T22:29:00Z
+    webUrl: "https://madison.com/news/nation-world/video_4d122f2f-03ea-5401-8611-6e1516fb3c7e.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/4/d1/4d122f2f-03ea-5401-8611-6e1516fb3c7e/64d67b38470ad.image.jpg?crop=1485%2C780%2C0%2C27&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "California Commission Approves Waymo and Cruise Expansion Over Fireman and Police Objections"
     excerpt: "Waymo was not permitted to charge for driverless rides. Waymo can now operate its ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology."
     publishedDateTime: 2023-08-11T05:37:00Z

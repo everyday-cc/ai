@@ -7,7 +7,7 @@ originalUrl: "https://www.semissourian.com/story/3005148.html"
 webUrl: "https://www.semissourian.com/story/3005148.html"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -25,31 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence is gaining US lawmakers' attention, and they have a lot of questions"
-    excerpt: "As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they're often focusing first on their own state governments before imposing restrictions on the private sector."
-    publishedDateTime: 2023-08-07T07:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/08/07/artificial-intelligence-is-gaining-us-lawmakers039-attention-and-they-have-a-lot-of-questions"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 43
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/08/07/2218066.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Artificial intelligence is gaining state lawmakers' attention, and they have a lot of questions"
-    excerpt: "After months of warnings from tech executives about the dangers of artificial intelligence ... to assess people with developmental disabilities for federally funded health care services. The automated system, he said, included corrupt data that relied ..."
-    publishedDateTime: 2023-08-11T21:20:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/government-politics/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/article_9b8e1f6f-fa07-5f0d-a38f-a01788bf15d1.html"
+    excerpt: "Legislators seek ways to protect constituents while not hindering advancements in medicine, science, business, education and more."
+    publishedDateTime: 2023-08-11T21:15:00Z
+    webUrl: "https://richmond.com/news/nation-world/government-politics/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/article_308930d7-148a-51c2-9234-110dee60bdd5.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 42
+      name: Richmond
+      domain: richmond.com
+    quality: 44
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/b8/9b8e1f6f-fa07-5f0d-a38f-a01788bf15d1/64d26976a85c2.preview.jpg?crop=882%2C463%2C168%2C630&resize=882%2C463&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/3/08/308930d7-148a-51c2-9234-110dee60bdd5/64d2697646657.preview.jpg?crop=882%2C463%2C168%2C630&resize=882%2C463&order=crop%2Cresize"
         width: 882
         height: 463
         isCached: true

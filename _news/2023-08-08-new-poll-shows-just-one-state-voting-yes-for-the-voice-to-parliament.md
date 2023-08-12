@@ -35,6 +35,17 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Indigenous voice to parliament opponents taking us down a divisive path"
+    excerpt: "The issue of division is a win or lose battlefield in the voice referendum. Many Australians will cast their vote on whether the voice will unite or divide the country."
+    publishedDateTime: 2023-08-11T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-opponents-taking-us-down-a-divisive-path/news-story/cbf7c720c1e9170ea29d45cc6600b8d0"
+    ampWebUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-opponents-taking-us-down-a-divisive-path/news-story/cbf7c720c1e9170ea29d45cc6600b8d0?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-opponents-taking-us-down-a-divisive-path/news-story/cbf7c720c1e9170ea29d45cc6600b8d0?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
   - title: "New poll shows just one state voting yes for the Voice to parliament"
     excerpt: "Voters in just one state intend to vote ‘yes’ in the upcoming Indigenous Voice to parliament referendum, according to a new poll."
     publishedDateTime: 2023-08-08T19:52:00Z

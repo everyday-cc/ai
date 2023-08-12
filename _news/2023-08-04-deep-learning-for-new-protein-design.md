@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Deep learning for new protein design"
-excerpt: "Deep learning methods have been used to augment existing energy-based physical models in 'do novo' or from-scratch computational protein design, resulting in a 10-fold increase in success rates ..."
-publishedDateTime: 2023-08-04T12:14:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/08/230803213837.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/08/230803213837.htm"
+excerpt: "The key to understanding proteins—such as those that govern cancer, COVID-19, and other diseases—is quite simple: Identify their chemical structure and find which other proteins can bind to them. But there's a catch."
+publishedDateTime: 2023-08-03T19:57:00Z
+originalUrl: "https://phys.org/news/2023-08-deep-protein.html"
+webUrl: "https://phys.org/news/2023-08-deep-protein.html"
+ampWebUrl: "https://phys.org/news/2023-08-deep-protein.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-deep-protein.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "seZNxI3pB0yceAlf2A/EvLVJG2Gk1PzlQs84b5rvga49J69eOTU98CzsJ0k7AIODk20uu3x2Nk8NTcquyOsX5IqahaeNasy3ei2CJ0XfV3lOaP4hgfZXnwP4HYw+cXonrsc0YueB52ta1XwEBYpucQZnID8dUHAyLei77g7SizhbwgPFCzEesGorRBw1s4y877KHpTignqRkEBr/EsrBTDv+PURIdWDZiLX7r8NwzOE/7S6GxyLgpGnIIJlb70fkSfYQaBFBsm4Pk6l2RghT+inSlHDPPad3+k/2Vs8RvdMveto7T6ehGJEfKjh4Pxew7YyDlDYGJCKhIks147ZeL0xiiNi/z4NnmWLI6qm5dbg=;bR8gzbVRhx39FdJo6PWmBg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-for-new.jpg"
+    width: 1280
+    height: 446
+    isCached: true
+
+secured: "Z0w70m97DY8fiuedCWR1XPFgqDxmgTzMgonRe6bLFQTWDP5nFsVovO9m9+XVNSVSLQqGYz6KkYtw7LKvNX1iL70/mXNSJfatkfPamRJ8i1fh3+0t4yjpss0OtM4bVCboXA88/Sw3J/YiL4nAEsKUOcKr6wOmgPpG4cTBey0F1wMVYMOmdX7nCF3+ETY7T41v/Du9GzfaJCjatVCSXYCO2R8KVzuZinJ/MorI91OWMSM12H2zYAFm98FytPyxoyfssh13tAcaTKlSj7CfG/59CkqBdCBpQFAUltWQh33AiCJDGp4BdyUfiBOPO0uoDdXBTKA4H5n7ON4GhG4tB22fEX7vDXq4UWtjyCkRIDRqrek=;26P/AEuKRQVkpcqrPk95vA=="
 ---
 
