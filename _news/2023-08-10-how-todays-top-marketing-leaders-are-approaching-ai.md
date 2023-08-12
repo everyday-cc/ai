@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/"
 type: article
 quality: 106
-heat: 236
+heat: 246
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/55775-113306-000-lead-Bing-xl.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Now, study machine learning, cloud computing, AI at AKTU"
+    excerpt: "Lucknow: APJ Abdul Kalam Technical University (AKTU) will offer students certificate courses cum summer internships in machine learning (ML), cloud co."
+    publishedDateTime: 2023-08-12T03:20:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/now-study-machine-learning-cloud-computing-ai-at-aktu/articleshow/102666665.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/lucknow/now-study-machine-learning-cloud-computing-ai-at-aktu/amp_articleshow/102666665.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/lucknow/now-study-machine-learning-cloud-computing-ai-at-aktu/amp_articleshow/102666665.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
         isCached: true
   - title: "Examining The Future Of Marketing In Light Of AI Concerns"
     excerpt: "The more strategic, less brand-aligned functions scored the highest in terms of how defensible they are from being replaced by automation."

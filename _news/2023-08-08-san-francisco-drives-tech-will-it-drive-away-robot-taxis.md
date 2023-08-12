@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/san-francisc
 webUrl: "https://www.reuters.com/business/autos-transportation/san-francisco-drives-tech-will-it-drive-away-robot-taxis-2023-08-07/"
 type: article
 quality: 71
-heat: 231
+heat: 221
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 48
-  - title: "San Francisco drives tech; will it drive away robot taxis?"
-    excerpt: "SAN FRANCISCO (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... Inc’s Waymo and General ..."
-    publishedDateTime: 2023-08-07T10:24:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/08/07/san-francisco-drives-tech-will-it-drive-away-robot-taxis"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 41
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/08/07/2218721.jpg"
-        width: 800
-        height: 525
-        isCached: true
   - title: "Cruise, Waymo given green light for robo-taxis across San Francisco"
     excerpt: "Waymo, Cruise self-driving cars can charge for taxi service. Companies have promised thousands of additional cars on San Francisco streets."
     publishedDateTime: 2023-08-11T01:19:00Z
@@ -148,6 +134,20 @@ related:
         width: 4948
         height: 3235
         isCached: true
+  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
+    excerpt: "It's hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
+    publishedDateTime: 2023-08-10T20:51:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1193272085/san-francisco-has-lots-of-self-driving-cars-they-re-driving-first-responders-nuts"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 18
+    images:
+      - url: "https://media.npr.org/assets/img/2023/08/10/gettyimages-1390904872-51ada1654ef6d7484030dd3525901a0f4fbb557c.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
   - title: "AI boom jolts San Francisco office market"
     excerpt: "Ten AI companies are today seeking between 700,000 to 800,000 square feet of office space in San Francisco, per JLL, which says AI companies have already tripled their footprint in the city since 2016. JLL said its confidence is based on anonymized foot traffic and cell phone use data from Placer.ai, demographic and office neighbor information."
     publishedDateTime: 2023-08-10T10:00:00Z
@@ -189,15 +189,6 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 4
-  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
-    excerpt: "It's hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
-    publishedDateTime: 2023-08-11T01:44:00Z
-    webUrl: "https://www.wuwm.com/economy-business/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
-    type: article
-    provider:
-      name: WUWM
-      domain: wuwm.com
-    quality: 0
   - title: "San Francisco's police, fire departments fret about push for more self-driving cars"
     excerpt: "Self-driving car firms want California regulators to allow for more vehicles on San Francisco streets. Police and fire departments cite many times when autonomous vehicles botched rescue operations."
     publishedDateTime: 2023-08-11T20:27:00Z
@@ -217,6 +208,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "VBo8YjQbh/Z15kmDltpT8b0pcp8FTbETlXbwn6IB4wVxl5X6dWQz74kh6CuxA21lwsRunA+FzKMg+77m3cR4s/fxBfA0PrL8eEc1lc1wTuo7YaJkrNjn8Nx0tic0Ae5m0edTqikevjL8Vn31jTeF83gzEYUbui6a/lx+GDtCjxoTF/2U8aNv9zWEg65oclSQ+rloQ9sjmrrT3AWwY7QUzxkCN+Qpk49Y4n/55DCVAD8VC/qKb6LK1Jd4kXEWNHpMMRgl8A/SXSSYF5xhBRYXepb0Zk1vW21WEu4zA7PHOkDkR9rP5JmfiLVYOWslljXVXzFWOCKbeiE0fqUjtZm+DqHpOOsh7BcHperLDpTK8cc=;yM9GL5Xm0SelyekhSM5EkQ=="
+secured: "zK5Qdylj4psS/ctG1Vukkh/1O4p8moCV1DEHLH67ghQNFHgDDegZ+dekwqlDWUTfFWLk7Fm8TJnoB4kEiR8WMQxB+C+AVtolgJtirGtLpD2M1RIcBf/t2LymHTKOzN8llcgvZPY4QBrzSB1QLvElCsEnGNWvwkStJriHDbvI9MxecCIstDrfh54PCP8ZIS12SIrduZb5ImKBWXpuVeMIExwB0T2cXRMRQaCOrAt3kJ6Pu9f91YJkWSxntnAl9N9xC68kr1eAY3zdjXJ2HP/RWqu/Bv5DBSG9D+7K3AeJejA5VYM1r21wnj49KMMSv3akpbodpmLWE4h9Ellj0rwvmqiN3OYIVKuyaURctX9GmsY=;bPiCsh0JxN2OF93tmkTjhg=="
 ---
 

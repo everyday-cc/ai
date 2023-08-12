@@ -20,22 +20,6 @@ topics:
 
 related:
   - title: "AI transformation of medicine: Why doctors are not prepared"
-    excerpt: "As artificial intelligence systems like ChatGPT find their way into ... most likely to go into life-threatening sepsis from an uncontrolled infection or which therapy has the highest probability of preventing sudden death in an individual heart disease ..."
-    publishedDateTime: 2023-08-07T10:35:00Z
-    webUrl: "https://medicalxpress.com/news/2023-08-ai-medicine-doctors.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-08-ai-medicine-doctors.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-ai-medicine-doctors.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-doctor.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
-  - title: "AI transformation of medicine: Why doctors are not prepared"
     excerpt: "The success of artificial intelligence technologies depends largely on how physicians interpret and act upon a tool's risk predictions -- and that requires a unique set of skills that many are currently lacking,"
     publishedDateTime: 2023-08-08T16:16:00Z
     webUrl: "https://www.sciencedaily.com/releases/2023/08/230806211627.htm"

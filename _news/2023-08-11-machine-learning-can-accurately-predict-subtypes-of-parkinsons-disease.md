@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230810/Machine-learning-can-ac
 webUrl: "https://www.news-medical.net/news/20230810/Machine-learning-can-accurately-predict-subtypes-of-Parkinsons-disease.aspx"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Unraveling Parkinson's Diversity Using Machine Learning"
+    excerpt: "Harnessing the strength of AI, researchers illuminate distinct Parkinson's disease types, successfully forecasting subtypes through patient stem cell imagery."
+    publishedDateTime: 2023-08-12T03:53:00Z
+    webUrl: "https://www.medindia.net/news/unraveling-parkinsons-diversity-using-machine-learning-213069-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/unraveling-parkinsons-diversity-using-machine-learning-213069-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/unraveling-parkinsons-diversity-using-machine-learning-213069-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/stem-cell-parkinsons-disease.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Machine learning predicts subtypes of Parkinson’s disease"
     excerpt: "Machine learning can predict subtypes of Parkinson’s disease using images of patient-derived stem cells, an advance that could lead to personalised medicine and targeted drug discovery."
     publishedDateTime: 2023-08-11T09:01:00Z

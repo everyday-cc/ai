@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/articles/fintech-live-london-2023-the-
 webUrl: "https://fintechmagazine.com/articles/fintech-live-london-2023-the-fastest-growing-fintech-show"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 1199
     height: 630
     isCached: true
+
+related:
+  - title: "The Future of Fintech in Latin America 2023"
+    excerpt: "Many companies, countries and regions have forged ahead in leveraging data, cloud, blockchain and AI. One such region is Latin America, where according to Statista, there are 2,300 registered fintech companies,"
+    publishedDateTime: 2023-08-09T14:00:00Z
+    webUrl: "https://www.finextra.com/researcharticle/285/the-future-of-fintech-in-latin-america-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fo-latamhomepage.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "What Are Examples of FinTech?"
+    excerpt: "What Are Examples of FinTech? To demystify the world of FinTech, we asked ten industry leaders and financial experts to share their insights. From Monzo as an all-digital bank to crowdfunding as a modern financial tool,"
+    publishedDateTime: 2023-08-08T23:15:00Z
+    webUrl: "https://techbullion.com/what-are-examples-of-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/What-Are-Examples-of-FinTech-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "gZVNzuA/lt8yYVqL9VYbxrTGOIgPf5Jx+L+BkwQ6KFbXEBFssdZo9I15jeRzkVaXkFsQEtlcHyuTw0GVqvz7yuqjBpIQg3kw4Cm8jxtG8eTiQsgULv18wC5dDkZGRDYg4g5QWwGfnzhvblQQOIwWHqWrOeSf/nfVRVN5x7uRxYzELfFNpcXDS3NjsUL1i1KUZ+SKsmMEOr+t0Xkr4Bu4KeQ01hDAw8LGLJoIJxO7ijmF9AC6yhhV1B+WHYJBq0NHXfDV9zYXUoTDu7/dUCeToxMzqLbAE5uNGd37YYpcKxTg9nhEQeBcqMuk9Ka4/7SfDAetQO+L3opqtLjGF6SeXDykcQ7U89Ey+0LQe0+odQPkce+UQOLb+ygrjwEvSpS4bzXzr0cyBlcBlmq3y6eGqj1YCQYm1GYYVpR7VYsQfuPgD6vdNSxJxOQJT+RDXi3ZheyM2Sm8hJTPIZA5IV0aPaoEZY1w+R/UXaqXPPmmnIPOoac+7QVs/f9dlL7Ttt/D3ekOcG/B6tzVRTuxaeU5Vg==;MJMMRs5vadkh0zZwox7Amw=="
 ---

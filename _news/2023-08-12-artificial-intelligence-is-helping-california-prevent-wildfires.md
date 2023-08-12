@@ -39,6 +39,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "California deploys AI to detect wildfires before they start spreading"
+    excerpt: "AI and climate change represent two ways humans may ravage life as we know it on Earth, but the former can also help with the consequences of the latter."
+    publishedDateTime: 2023-08-11T20:18:00Z
+    webUrl: "https://www.engadget.com/california-deploys-ai-to-detect-wildfires-before-they-start-spreading-194535845.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/Eam_IJD4d7hPKh.HUbWpHQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/116b5110-387c-11ee-bfed-f4ef22deeb28.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "California Commission Approves Waymo and Cruise Expansion Over Fireman and Police Objections"
     excerpt: "Waymo was not permitted to charge for driverless rides. Waymo can now operate its ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology."
     publishedDateTime: 2023-08-11T05:37:00Z
@@ -54,6 +68,6 @@ related:
         height: 692
         isCached: true
 
-secured: "99RabN5m4lk7fkwfwl7nHNME5wu6Mhd4jtSd5B27CY/2E5xblsbUgWtspFnsBvjQ8Y+SuPJkC+ti4WzjY5VSNUB732JzA7hIR246Cr7g7KGAB8QSG2JEIb8I4sPJo4QwXUK03Y4SH1DkPfhYEKMB64mEYaLPRBoopP1jFhlG61EcRrPMjYdtlyK3FVBNxEt/eVHCv7zjGKW3vltRwEHpEtJbLXdyDnNEfDKS6LkOMuzcrzPmRjm/98m1qq5lh8az5j2XzlpL63OVK+grW99qWl9kqTQc482i0fl12gjZtKAX0KFiXoQZWR0XhlLOPZuDDV236h3UgsH97miqxS9UQyvgKRKzWXYBE2bi6PsLn1o=;Ys46gQWEIeyAedZEjKvSuQ=="
+secured: "gpvWUl1G/udspFNkXUwth4w0NbmiCwyNl6Aa+aWD6icTviWSvDX6MrBXhVxBpKEJNIiFgjfgHI700JuRUy+XPJQJFom8FtOEOg6soQZ4Fu8MYoxX+rNTjY1i/O7Yc/lvejJAX8LoaFULHjpOhSO6FNbUw5KZAPg37HzLkQUm+botr7Rhw5+RwiKnpElv4FjJMnkbHcRXSYPoP0B9vozco3KEww3xuTDCGuK9prC8MDUQx4On5L03yL/FOYggpSOOUoqI7uq2qnxnHMgIsOIUzFMelQRpE8pmg+hfGGAAxwpCbQMFyy1vKY7HOi4V/SFQKP1w3TbCV9+gsMfY85b8qHwoCRkdBBpE4jf65XvKeEeoBM2/DrF8Vaa+LTJcUmgy/UybEO4+BlFpZygWbzqTxzJDOekY3WYIt7UFDTBfQm+nK6dme/VP5U5ucICKvXZjxrlnaS8wNtIgM3HJbGdI66f7K1oDmVsaMhanCgQi49tMeJYt26QQajzHXbQkFau0oVKflh6mLxUaz2zrJHSQ2w==;+N/CZ+3AHXb2Ly94hgkXSA=="
 ---
 

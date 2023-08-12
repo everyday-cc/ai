@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tourists in fast lane with driverless transport"
+    excerpt: "Driverless vehicles have become tourist attractions in the city, providing smart and convenient rides to tourists. Autonomous vehicles carrying people around Shanghai Haichang Ocean Park in the Pudong New Area started trial runs on Friday. Autonomous vending vehicles have been put into use on a trial basis at the same time."
+    publishedDateTime: 2023-08-12T02:57:00Z
+    webUrl: "https://www.shine.cn/news/metro/2308120651/"
+    type: article
+    provider:
+      name: SHINE
+      domain: shine.cn
+    quality: 39
+    images:
+      - url: "https://obj.shine.cn/files/2023/08/12/8cb4bc9e-5db3-41bc-ae4d-0e5b0c6cd8a8_0.jpg"
+        width: 576
+        height: 324
+        isCached: true
   - title: "120 driverless road trains for the West Pilbara"
     excerpt: "In a world-first, MinRes will deploy a fleet of 120 autonomous road trains, which will each carry 330 tonnes of iron ore along a 150km route."
     publishedDateTime: 2023-08-08T03:59:00Z

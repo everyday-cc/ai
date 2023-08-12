@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/idsA$n?now=true"
 webUrl: "https://www.reuters.com/video/watch/idsA$n?now=true"
 type: article
 quality: 67
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "California deploys AI to detect wildfires before they start spreading"
+    excerpt: "AI and climate change represent two ways humans may ravage life as we know it on Earth, but the former can also help with the consequences of the latter."
+    publishedDateTime: 2023-08-11T20:18:00Z
+    webUrl: "https://www.engadget.com/california-deploys-ai-to-detect-wildfires-before-they-start-spreading-194535845.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/Eam_IJD4d7hPKh.HUbWpHQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/116b5110-387c-11ee-bfed-f4ef22deeb28.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Is Helping California Prevent Wildfires"
     excerpt: "AI technology is being used to protect Californians from wildfires. The AI has already shaved precious minutes off response times, and has demonstrated it is learning how to reduce false"
     publishedDateTime: 2023-08-11T22:29:00Z

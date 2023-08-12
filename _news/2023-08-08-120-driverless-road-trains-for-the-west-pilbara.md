@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tourists in fast lane with driverless transport"
+    excerpt: "Driverless vehicles have become tourist attractions in the city, providing smart and convenient rides to tourists. Autonomous vehicles carrying people around Shanghai Haichang Ocean Park in the Pudong New Area started trial runs on Friday. Autonomous vending vehicles have been put into use on a trial basis at the same time."
+    publishedDateTime: 2023-08-12T02:57:00Z
+    webUrl: "https://www.shine.cn/news/metro/2308120651/"
+    type: article
+    provider:
+      name: SHINE
+      domain: shine.cn
+    quality: 39
+    images:
+      - url: "https://obj.shine.cn/files/2023/08/12/8cb4bc9e-5db3-41bc-ae4d-0e5b0c6cd8a8_0.jpg"
+        width: 576
+        height: 324
+        isCached: true
 
 secured: "BZ1cWFgqoBOiFFBlAdDjLDLpSNOuO2qPbeI2HM9U5pWC6xe2aubyK1Y2TqjUBiQUt3r3u5ytZZ8xkCeLO4tntFtJTSEgoTCaDt1PTsQwnhqDERVWcr5x3sMddtjYMja4mwIpr3o7XYgaLXTZvY0YjMhD3DMgUbbzQL8sEDPjTad45e9WjyHr+cf55F1WVVw5wLcCwxrmMlzpo98RY/jdmBwr1SpDeVtsPJxLwhW0IuO7qFzHDkjfARM4D9uMn/Hpk2ceMe0EpSpj/IHxyFTRyhNLVvbQfqLThx2/fzigIdr4cpeXIJkWUa9S7Nh7FANltxK6qPcc/h24LJMCLza9Py0h6Y4pTi/iYYvFamklawSkXAbk4A+VBTxtAwm80vkp4T5qCYAs+t3dPWdzbzi4UWkOp37EA8Hk/DNLMLG7gwSMopAyV34ztHouGifXPH3T9VlDQ7fb0Wa0grUc7F7NYQD/Lu3Mr741ZTp0hzGr2MhUIrBpVbjWlJ+ZkoYSrvdfxvVSw0ZNG/ImXQ8iGTxDvA==;Yvz0DOyDK7JldGT4G+JK3g=="
 ---

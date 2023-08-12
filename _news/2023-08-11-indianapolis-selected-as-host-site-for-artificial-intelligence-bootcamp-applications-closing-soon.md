@@ -112,6 +112,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
+  - title: "Atlantic City Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+    excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by South Jersey Gas in Atlantic City."
+    publishedDateTime: 2023-08-11T15:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33753462/atlantic-city-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applicatio"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33753462"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33753462"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Carnegie Learning in Pittsburgh Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "Founded by Mark Cuban in 2019, the AI bootcamp initiative has hosted no-cost AI bootcamps for students across several U.S. cities, including Dallas, Chicago, Pittsburgh, Detroit, and Atlantic City to name a few. The Mark Cuban Foundation has impacted 900+ students to date and has a goal to increase that number year over year."
     publishedDateTime: 2023-08-11T16:33:00Z

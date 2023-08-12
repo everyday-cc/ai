@@ -450,6 +450,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 32
+  - title: "Kyndryl and Microsoft Unveil Enterprise Generative AI Solutions on Microsoft Cloud"
+    excerpt: "Bangalore (Karnataka) [India], August 11: Kyndryl (NYSE: KD), the worlds largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
+    publishedDateTime: 2023-08-12T03:14:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230811/4107737.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 28
   - title: "Kyndryl taps Microsoft generative AI for new service, moves toward future profitability"
     excerpt: "The IT infrastructure provider announced the joint project with Microsoft on the heels of announcing significant 1Q 2024 earnings where Kyndryl executives said the company will return to profitability in the next year, at least a year ahead of what financial analysts predicted after the company spun out of IBM in November 2021."
     publishedDateTime: 2023-08-09T13:08:00Z

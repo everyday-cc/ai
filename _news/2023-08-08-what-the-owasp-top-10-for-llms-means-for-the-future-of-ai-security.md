@@ -96,20 +96,6 @@ related:
         width: 270
         height: 203
         isCached: true
-  - title: "Rising Cyberthreats Spur Local Businesses to Embrace AI and Cloud Security"
-    excerpt: "With the cybersecurity landscape continually evolving, it is more important than ever for local businesses to keep pace with the changes. The increasing prevalence of threats like phishing, business email compromise (BEC),"
-    publishedDateTime: 2023-08-07T09:25:00Z
-    webUrl: "https://www.itnewsafrica.com/2023/08/rising-cyberthreats-spur-local-businesses-to-embrace-ai-and-cloud-security/"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 54
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2023/08/Cybersecurity-2023-696x461.png"
-        width: 696
-        height: 461
-        isCached: true
   - title: "Top cybersecurity products at Black Hat USA 2023"
     excerpt: "Here are the top cybersecurity tools, platforms, capabilities, services, and technologies launched at Black Hat USA 2023 that you need to know about."
     publishedDateTime: 2023-08-09T23:15:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://electronics360.globalspec.com/article/20036/pony-ai-toyota
 webUrl: "https://electronics360.globalspec.com/article/20036/pony-ai-toyota-to-deploy-large-scale-robotaxi-network"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Toyota forms $140K joint venture with self-driving startup Pony.ai and GAC"
-    excerpt: "Toyota announced on Friday a RMB 1 billion ($140,000) joint venture with self-driving car developer  and GAC-Toyota in the hope of"
-    publishedDateTime: 2023-08-07T10:06:00Z
-    webUrl: "https://technode.com/2023/08/07/toyota-forms-140k-joint-venture-with-self-driving-startup-pony-ai-and-gac/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
 
 secured: "MyDHeRN/e8uCG7eq2xnl2VEQJeLeJQhqh+j0zRK0RIROcX4PzG/1I4eAjNDczWWuLLzlay4svPLcjS8/JpC0/67pWKYJ50B+ZVeiH6yH0LrskuqluUD6ljSrXq7cXlDel+9wLRhNFLhBh7NqeUZ0GahVSR7YZ7JXyNpQfWdUc321fv/45aJ/kqHdGdehZPZii53xOo2mGiSTolOZm7H3nb4W1b6Uda783KCLHi9iGxemrey/SbWJr7UGapr41J3X13iHbE6MDLFL9zDl3xsSsBs7yn/tAFgIeXOviv04Ps/7RHWgZ0oOI0rZea5XlcJOHjjjL7N1iV5iopX9GV6JZFoMN9Alipw84QytAm3mFh40kalGfqcJKT400grurAz3lps/l7N2qapfiJJzlqbS92QdMLU+tOvBcs9UpcprTH9MD/EaeVuxhEkUIcGxu30yuKu+dCFMXTqE3m2nYHxgHsr3R1dUX3gVq2GXu8m41WS5RnP4e5nQ4jcNkNGQ7E+gF8Hz59pO6m6gPim15qTq+g==;Vsp0Fj6ehkt5HZKZhvs1Sw=="
 ---

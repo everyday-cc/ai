@@ -2,21 +2,27 @@
 category: news
 title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
 excerpt: "It's hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
-publishedDateTime: 2023-08-11T01:44:00Z
-originalUrl: "https://www.wuwm.com/economy-business/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
-webUrl: "https://www.wuwm.com/economy-business/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
+publishedDateTime: 2023-08-10T20:51:00Z
+originalUrl: "https://www.northcountrypublicradio.org/news/npr/1193272085/san-francisco-has-lots-of-self-driving-cars-they-re-driving-first-responders-nuts"
+webUrl: "https://www.northcountrypublicradio.org/news/npr/1193272085/san-francisco-has-lots-of-self-driving-cars-they-re-driving-first-responders-nuts"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: WUWM
-  domain: wuwm.com
+  name: Northcountrypublicradio.org
+  domain: northcountrypublicradio.org
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://media.npr.org/assets/img/2023/08/10/gettyimages-1390904872-51ada1654ef6d7484030dd3525901a0f4fbb557c.jpg?s=6"
+    width: 948
+    height: 710
+    isCached: true
 
 related:
   - title: "San Francisco drives tech; will it drive away robot taxis?"
@@ -58,20 +64,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 48
-  - title: "San Francisco drives tech; will it drive away robot taxis?"
-    excerpt: "SAN FRANCISCO (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... Inc’s Waymo and General ..."
-    publishedDateTime: 2023-08-07T10:24:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/08/07/san-francisco-drives-tech-will-it-drive-away-robot-taxis"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 41
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/08/07/2218721.jpg"
-        width: 800
-        height: 525
-        isCached: true
   - title: "Cruise, Waymo given green light for robo-taxis across San Francisco"
     excerpt: "Waymo, Cruise self-driving cars can charge for taxi service. Companies have promised thousands of additional cars on San Francisco streets."
     publishedDateTime: 2023-08-11T01:19:00Z
@@ -211,6 +203,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "x+uc6yeZIx5OnxyMJirf4IUiT2KGzM2F1ZJBC/ttBaFy6MXQQIGL2CGEUS82PR2m+qfvfDe8doznH0GFy5vWPrwrQDp2rEUQo9OTicU0Y8EwwZQJELrSenc45yxk91GOew7ojDZMSd2OiRyi0Y4QBY+PLM207Sor49dG44Y4SbWnFUzItdn+ESUkmurSpFBuPPEjmHmGYCMeTOW+hsJzIoy0EDj83amRi7imEXWnOBnoQJiYGJn14LwZn+7zbvmIvX1ikOrYq0GLHjc+vys+X0vFuu31njxH04Bn4nRgH372guhiT4wYOGBE9jqGVm0236JbyYcGHgR34lHvkeydsR3wQNQYQrqGzH+WnDa0AtqYlZzea5MSBaAy0PdxO4LLsmikxnWjczWqfNlahdyt5WmIRBEaccGnbbxpn4MT1zBfPj4PtwoKfvzoBvfJCfd+nyimsy4Bnaa5sRVBwCMfT40Z40jtIyAleSX8KtMaAVGf5kIFVfthm+9x3WzIWguw2mAgvdIeN38YHyG9XAYagw==;OxQPb1TL2d5lz9/NY68i5A=="
+secured: "tHbRyY4IEuYPvjMpr8iLWGKALyjFyr3DWpeoJTfB739/iH/eYH0a6E8Wkh6JZeyBFMnc1czsIEA9bh3dUY5GfAHqYRvG3nKuRDVkC7IuqbMPBW1hlehZW19V7Hf5PWubw2A0cuR9oEogtc4SHf9JNy9J5YxCCRbZyC/L5c1y9xaTtvMRZxg0DJh68mscKMVHm6EXPru6bXWnUankCfnPfPOVzbAhfG9AagIykmGi5PZw6hcp1anJlA2AZJEVFvz0ioMtMNbWIPxZ7kb+tSGkGKmyRwd9q/ThQ2ZJqAJe6TPk8LfVJvSI0q1ptxkLIp1m4//j8NPidv6AxSgkzKzRGhV73LwXXH++8Mf3Ug3tz6s=;os43XjMupjm/UhoIjzrKeQ=="
 ---
 

@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "European fintech players are bracing for market consolidation"
-    excerpt: "When Monzo published its latest annual revenue figures in February, it provided a flicker of light after months of headlines about fintech down rounds and job cuts. The accounts showed that the UK dig"
-    publishedDateTime: 2023-08-07T09:47:00Z
-    webUrl: "https://thenextweb.com/news/european-fintech-players-bracing-market-consolidation-across-the-market"
+  - title: "Lytus plans to invest $50 million in fintech business"
+    excerpt: "Lytus Technologies Holdings plans to spend $50m to expand its fintech offering into India over the next five years. The Nasdaq-listed firm will launch \"AI-driven financial services and personalised solutions\" as part of its move into India."
+    publishedDateTime: 2023-08-09T08:47:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/lytus-plans-to-invest-50-million-in-fintech-business/articleshow/102567813.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/lytus-plans-to-invest-50-million-in-fintech-business/amp_articleshow/102567813.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/lytus-plans-to-invest-50-million-in-fintech-business/amp_articleshow/102567813.cms"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FUntitled-design-6-2.jpg&signature=bdddb9af2169a3041de36e8b6d85395c"
-        width: 1280
-        height: 640
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-886390,msid-102568306/fintech.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Top 10 open banking platform providers in fintech 2023"
     excerpt: "These are some of the most influential companies creating technology solutions and APIs to help power the open banking revolution evident in fintech today"
@@ -53,19 +55,19 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "What Are Examples of FinTech?"
-    excerpt: "What Are Examples of FinTech? To demystify the world of FinTech, we asked ten industry leaders and financial experts to share their insights. From Monzo as an all-digital bank to crowdfunding as a modern financial tool,"
-    publishedDateTime: 2023-08-08T23:15:00Z
-    webUrl: "https://techbullion.com/what-are-examples-of-fintech/"
+  - title: "Singapore central bank pledges $150 million to support new fintech projects"
+    excerpt: "Singapore's central bank is to commit up to $150 million to support startups developing innovative financial technologies over the next three years."
+    publishedDateTime: 2023-08-07T23:23:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42745/singapore-central-bank-pledges-150-million-to-support-new-fintech-projects"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
+      name: Finextra
+      domain: finextra.com
+    quality: 37
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/What-Are-Examples-of-FinTech-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5485.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Hong Kong tech firm, ASL, accelerates growth in fintech arena with Finastra"
     excerpt: "HONG KONG, Aug. 8, 2023 /PRNewswire/ -- Automated Systems Holdings Limited (ASL) (771.HK), a leading global IT solutions and services provider, has strategically partnered with Finastra, a global provider of financial software applications and marketplaces, to bolster its industry-specific DevSecOps business and strengthen its fintech trajectory."
@@ -81,15 +83,70 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Empowering Financial Decisions: The Role of Fintech Software Development"
-    excerpt: "Finance - In today's fast-paced, digital world, the way we approach finance is evolving rapidly. No longer bound by the traditional confines of brick-and-mortar"
-    publishedDateTime: 2023-08-11T11:50:00Z
-    webUrl: "https://business-review.eu/money/finance/empowering-financial-decisions-the-role-of-fintech-software-development-250164"
+  - title: "Hong Kong Tech Firm, ASL, Accelerates Growth in Fintech Services with Finastra"
+    excerpt: "Automated Systems Holdings Limited (ASL), a global IT solutions and services provider, has strategically partnered with Finastra."
+    publishedDateTime: 2023-08-09T22:58:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211235-hong-kong-tech-firm-asl-accelerates-growth-in-fintech-services-with-finastra/"
     type: article
     provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 3
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 20
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/05/hong-kong-dollar-coin-money.jpg"
+        width: 1354
+        height: 1206
+        isCached: true
+  - title: "Lytus enters FinTech sector in India through the launch of a new payment gateway"
+    excerpt: "Nasdaq-listed Lytus Technologies Holdings PTV. Ltd. (the “Company”) (NASDAQ: LYT), a leading global technology-driven services company, has announced the launch of"
+    publishedDateTime: 2023-08-09T05:40:00Z
+    webUrl: "https://www.thehansindia.com/business/lytus-enters-fintech-sector-in-india-through-the-launch-of-a-new-payment-gateway-814452"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 19
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/08/09/1371187-lytus.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "The Rise of Fintech Investment in India: Reshaping Financial Landscapes"
+    excerpt: "Reshaping Financial Landscapes - India has experienced a spectacular financial upheaval in recent years because of the fintech industry."
+    publishedDateTime: 2023-08-09T12:21:00Z
+    webUrl: "https://www.siliconindia.com/news/general/the-rise-of-fintech-investment-in-india-reshaping-financial-landscapes-nid-224650-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 4
+  - title: "Invest Inc. Announces Reg A+ Offering: A New Era in Fintech Begins"
+    excerpt: "The future of fintech has a new face, and its name is Invest Inc. With great enthusiasm, we are proud to announce our Reg A+ offering, a transformativ"
+    publishedDateTime: 2023-08-09T21:39:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230809121687/en/Invest-Inc.-Announces-Reg-A-Offering-A-New-Era-in-Fintech-Begins"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
+  - title: "Fintech BPO Philippines: Navigating digital revolution in financial landscape"
+    excerpt: "The rise of financial technology (fintech) has disrupted traditional financial sectors, propelling a shift towards digitization, convenience, and enhanced customer"
+    publishedDateTime: 2023-08-09T11:15:00Z
+    webUrl: "https://manilastandard.net/spotlight/314358733/fintech-bpo-philippines-navigating-digital-revolution-in-financial-landscape.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 1
+  - title: "Women in fintech hackthon: participants introduced to financial inclusion best practices"
+    excerpt: "On Day One of the 2023 Women in FinTech hackathon, the over 100 innovators from Kenya and Uganda were able to work on their problem statements and business cases."
+    publishedDateTime: 2023-08-11T03:32:00Z
+    webUrl: "https://observer.ug/businessnews/78821-women-in-fintech-hackthon-participants-introduced-to-financial-inclusion-best-practices"
+    type: article
+    provider:
+      name: The Observer
+      domain: observer.ug
+    quality: 0
 
 secured: "NIMJKpZqlPG6jYxV7M6aMJTcBIRVbP79PvkLFKSoRiQ45FGDHl5jkdj4w5lHgrlIpn0SYrkNDnFOPr3ZEgOVx57aCFx1FuOyk5Lo4OE2PvseDdE5JI2OQbMsYq4dM1wJ+QQCX+MguLrQWj02Kdrsjy0RFolbZghp/izooCW6uCDZH5EhxPLhSwGxsYhZQVogADYS/TeJrmYQjIOGP+GNu5M3aptakGQA7DgAKFX5zPv18ZfatRAuzM4+gwXcKIwyCE/4eSuCYkXe5E/zBDTDvZ5SgjjFHDhEu8qAwNcnAP12sJcnukxJjXlQqK81iPgcrvxy22ohOiPxwyHeLLPJpw+16As2vZmx2lI5crCxtPNpRGf8FL4gtw5cfEB9pdVm0pYUDwt0sg/fZ0wmoLJd9A0ggvm7zVHmTR1flzr7SIrhgIPPrzIKzEZLyeETJRJfB3g5kwFqW8sPvYPP3VNffITrzsMstk39S+0uBGOnPSWkqrE/VY/iKCHgPRUFlSDzBKTlN+YGC0H+0WI2Dg9Uog==;xmuNIPh/cAqRT7ayxd7eEw=="
 ---

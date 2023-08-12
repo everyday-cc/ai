@@ -58,20 +58,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 48
-  - title: "San Francisco drives tech; will it drive away robot taxis?"
-    excerpt: "SAN FRANCISCO (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... Inc’s Waymo and General ..."
-    publishedDateTime: 2023-08-07T10:24:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/08/07/san-francisco-drives-tech-will-it-drive-away-robot-taxis"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 41
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/08/07/2218721.jpg"
-        width: 800
-        height: 525
-        isCached: true
   - title: "Cruise, Waymo given green light for robo-taxis across San Francisco"
     excerpt: "Waymo, Cruise self-driving cars can charge for taxi service. Companies have promised thousands of additional cars on San Francisco streets."
     publishedDateTime: 2023-08-11T01:19:00Z
@@ -151,6 +137,20 @@ related:
         width: 4948
         height: 3235
         isCached: true
+  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
+    excerpt: "It's hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
+    publishedDateTime: 2023-08-10T20:51:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1193272085/san-francisco-has-lots-of-self-driving-cars-they-re-driving-first-responders-nuts"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 18
+    images:
+      - url: "https://media.npr.org/assets/img/2023/08/10/gettyimages-1390904872-51ada1654ef6d7484030dd3525901a0f4fbb557c.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
   - title: "AI boom jolts San Francisco office market"
     excerpt: "Ten AI companies are today seeking between 700,000 to 800,000 square feet of office space in San Francisco, per JLL, which says AI companies have already tripled their footprint in the city since 2016. JLL said its confidence is based on anonymized foot traffic and cell phone use data from Placer.ai, demographic and office neighbor information."
     publishedDateTime: 2023-08-10T10:00:00Z
@@ -192,15 +192,6 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 4
-  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
-    excerpt: "It's hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
-    publishedDateTime: 2023-08-11T01:44:00Z
-    webUrl: "https://www.wuwm.com/economy-business/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
-    type: article
-    provider:
-      name: WUWM
-      domain: wuwm.com
-    quality: 0
   - title: "Startup Altruist plans to open San Francisco office as it scraps remote-first strategy"
     excerpt: "One of the latest to shift from remote-first to a hybrid-workplace model is Culver City-based Altruist, which plans to open a San Francisco office for its Bay Area workforce. The company employs about 30 people in the Bay Area, according to RIABiz.com, an industry publication for financial advisers."
     publishedDateTime: 2023-08-11T21:39:00Z
