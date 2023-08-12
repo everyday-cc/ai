@@ -74,6 +74,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+    excerpt: "ANCHORAGE, Alaska, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The Odom Corporation in Anchorage. Applications for the no-cost bootcamp are closing soon!"
+    publishedDateTime: 2023-08-11T18:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547649"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
   - title: "Philadelphia Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by CSL Behring in Philadelphia. Applications for"
     publishedDateTime: 2023-08-11T15:38:00Z
@@ -108,15 +117,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
-  - title: "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-    excerpt: "ANCHORAGE, Alaska, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The Odom Corporation in Anchorage. Applications for the no-cost bootcamp are closing soon!"
-    publishedDateTime: 2023-08-11T18:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547649"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
   - title: "Indianapolis Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Corteva Agriscience in Indianapolis. Applications"
     publishedDateTime: 2023-08-10T19:42:00Z

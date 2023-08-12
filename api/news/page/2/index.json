@@ -2,48 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-08-11-federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads.md",
-      "title": "Federal regulators take first step toward regulating use of artificial intelligence in campaign ads",
-      "excerpt": "The FEC unanimously voted on Thursday to advance a petition asking it to regulate ads that use AI to misrepresent political opponents as saying or doing something they didn’t",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/",
-      "originalUrl": "https://www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2023/08/AP23222540945939.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/?amp=1",
-      "publishedDateTime": "2023-08-10T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-11-ibm-plans-to-make-llama-2-available-within-watsonxai-platform.md",
       "title": "IBM Plans to Make Llama 2 Available within watsonx.ai Platform",
       "excerpt": "IBM makes plans with Meta's Llama 2. Plus, why open source may or may not be a differentiator in generative AI.",
@@ -106,7 +64,7 @@
       "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -209,7 +167,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-you-better-be-buying-on-each-and-every-dip-1032541918",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -743,7 +701,7 @@
       "originalUrl": "https://venturebeat.com/ai/middleware-raises-6-5m-to-simplify-cloud-monitoring-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -897,7 +855,7 @@
       "originalUrl": "https://www.ibm.com/blog/fintechs-turn-to-ai-and-cloud-as-steadfast-forces-for-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 219,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1230,6 +1188,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-infibeam-avenues-ltd-to-include-ai-on-its-platform.md",
+      "title": "Infibeam Avenues Ltd to include AI on its platform",
+      "excerpt": "According to an official release, Infibeam Avenues Ltd, an Indian fintech company, announced its plans to include Artificial Intelligence (AI) to create an AI-based fraud detection market. The company expects to establish India’s first Artificial Intelligence (AI) HUB at the Gujarat International Finance Tec-City (GIFT City).",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/",
+      "originalUrl": "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik267.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/lite/",
+      "publishedDateTime": "2023-08-10T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

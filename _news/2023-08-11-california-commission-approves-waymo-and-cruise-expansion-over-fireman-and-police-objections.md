@@ -42,14 +42,14 @@ related:
   - title: "Artificial Intelligence Is Helping California Prevent Wildfires"
     excerpt: "AI technology is being used to protect Californians from wildfires. The AI has already shaved precious minutes off response times, and has demonstrated it is learning how to reduce false"
     publishedDateTime: 2023-08-11T22:29:00Z
-    webUrl: "https://madison.com/news/nation-world/video_4d122f2f-03ea-5401-8611-6e1516fb3c7e.html"
+    webUrl: "https://omaha.com/video_e4fe9d3a-fcfc-50c7-b1fb-5f755cf5057a.html"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 37
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/4/d1/4d122f2f-03ea-5401-8611-6e1516fb3c7e/64d67b38470ad.image.jpg?crop=1485%2C780%2C0%2C27&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/4f/e4fe9d3a-fcfc-50c7-b1fb-5f755cf5057a/64d65bf2d1e91.image.jpg?crop=1485%2C780%2C0%2C27&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

@@ -1,38 +1,35 @@
 ---
 category: news
-title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
-excerpt: "It's hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
-publishedDateTime: 2023-08-11T01:44:00Z
-originalUrl: "https://www.wuwm.com/economy-business/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
-webUrl: "https://www.wuwm.com/economy-business/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
+title: "San Francisco drives tech; will it drive away robot taxis?"
+excerpt: "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence, but when it comes to self ..."
+publishedDateTime: 2023-08-08T01:02:00Z
+originalUrl: "https://www.reuters.com/business/autos-transportation/san-francisco-drives-tech-will-it-drive-away-robot-taxis-2023-08-07/"
+webUrl: "https://www.reuters.com/business/autos-transportation/san-francisco-drives-tech-will-it-drive-away-robot-taxis-2023-08-07/"
 type: article
-quality: 0
-heat: -1
-published: false
+quality: 71
+heat: 231
+published: true
 
 provider:
-  name: WUWM
-  domain: wuwm.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://www.reuters.com/resizer/UGMeovV1vj3t5SxbyMpFlVNUJ4o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ4PYLGTDNJWZI3XIRQPZJMW5I.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
-  - title: "San Francisco drives tech; will it drive away robot taxis?"
-    excerpt: "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence, but when it comes to self ..."
-    publishedDateTime: 2023-08-08T01:02:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/san-francisco-drives-tech-will-it-drive-away-robot-taxis-2023-08-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 71
-    images:
-      - url: "https://www.reuters.com/resizer/UGMeovV1vj3t5SxbyMpFlVNUJ4o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ4PYLGTDNJWZI3XIRQPZJMW5I.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "California Okays Driverless Taxi Expansion for San Francisco"
     excerpt: "The state's green light, on a 3-1 vote by the California Public Utilities Commission, signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality."
     publishedDateTime: 2023-08-11T16:09:00Z
@@ -192,6 +189,15 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 4
+  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
+    excerpt: "It's hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
+    publishedDateTime: 2023-08-11T01:44:00Z
+    webUrl: "https://www.wuwm.com/economy-business/economy-business/2023-08-10/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts"
+    type: article
+    provider:
+      name: WUWM
+      domain: wuwm.com
+    quality: 0
   - title: "San Francisco's police, fire departments fret about push for more self-driving cars"
     excerpt: "Self-driving car firms want California regulators to allow for more vehicles on San Francisco streets. Police and fire departments cite many times when autonomous vehicles botched rescue operations."
     publishedDateTime: 2023-08-11T20:27:00Z
@@ -211,6 +217,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "x+uc6yeZIx5OnxyMJirf4IUiT2KGzM2F1ZJBC/ttBaFy6MXQQIGL2CGEUS82PR2m+qfvfDe8doznH0GFy5vWPrwrQDp2rEUQo9OTicU0Y8EwwZQJELrSenc45yxk91GOew7ojDZMSd2OiRyi0Y4QBY+PLM207Sor49dG44Y4SbWnFUzItdn+ESUkmurSpFBuPPEjmHmGYCMeTOW+hsJzIoy0EDj83amRi7imEXWnOBnoQJiYGJn14LwZn+7zbvmIvX1ikOrYq0GLHjc+vys+X0vFuu31njxH04Bn4nRgH372guhiT4wYOGBE9jqGVm0236JbyYcGHgR34lHvkeydsR3wQNQYQrqGzH+WnDa0AtqYlZzea5MSBaAy0PdxO4LLsmikxnWjczWqfNlahdyt5WmIRBEaccGnbbxpn4MT1zBfPj4PtwoKfvzoBvfJCfd+nyimsy4Bnaa5sRVBwCMfT40Z40jtIyAleSX8KtMaAVGf5kIFVfthm+9x3WzIWguw2mAgvdIeN38YHyG9XAYagw==;OxQPb1TL2d5lz9/NY68i5A=="
+secured: "VBo8YjQbh/Z15kmDltpT8b0pcp8FTbETlXbwn6IB4wVxl5X6dWQz74kh6CuxA21lwsRunA+FzKMg+77m3cR4s/fxBfA0PrL8eEc1lc1wTuo7YaJkrNjn8Nx0tic0Ae5m0edTqikevjL8Vn31jTeF83gzEYUbui6a/lx+GDtCjxoTF/2U8aNv9zWEg65oclSQ+rloQ9sjmrrT3AWwY7QUzxkCN+Qpk49Y4n/55DCVAD8VC/qKb6LK1Jd4kXEWNHpMMRgl8A/SXSSYF5xhBRYXepb0Zk1vW21WEu4zA7PHOkDkR9rP5JmfiLVYOWslljXVXzFWOCKbeiE0fqUjtZm+DqHpOOsh7BcHperLDpTK8cc=;yM9GL5Xm0SelyekhSM5EkQ=="
 ---
 

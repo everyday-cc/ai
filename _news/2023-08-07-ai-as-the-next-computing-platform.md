@@ -116,20 +116,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Fear Of Ai In The West Is Misdirected"
-    excerpt: "The fear of artificial intelligence is largely a Western phenomenon. It is virtually absent in Asia. In contrast, East Asia sees AI as an invaluable"
-    publishedDateTime: 2023-08-07T07:32:00Z
-    webUrl: "https://menafn.com/1106796191/Fear-Of-Ai-In-The-West-Is-Misdirected"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/07/AT_da0cbimage_story.jpg"
-        width: 1200
-        height: 960
-        isCached: true
   - title: "China’s internet giants in $7.6b AI chip-buying frenzy"
     excerpt: "Baidu, ByteDance, Tencent and Alibaba are rushing to buy chips vital to building AI systems, amid concerns US President Joe Biden will soon clamp down on their export."
     publishedDateTime: 2023-08-10T02:58:00Z

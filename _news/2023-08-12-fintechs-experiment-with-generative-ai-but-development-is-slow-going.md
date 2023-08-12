@@ -28,20 +28,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Fintech groups and banks linking up for new payment partnerships"
-    excerpt: "Vietnam’s payment fintech landscape is witnessing a surge in partnerships between foreign giants like Apple Pay and local banks, while local payment apps are teaming up with international firms, signalling promising growth prospects for the digital payment sector."
-    publishedDateTime: 2023-08-07T08:17:00Z
-    webUrl: "https://vir.com.vn/fintech-groups-and-banks-linking-up-for-new-payment-partnerships-104151.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 39
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/2023/082023/07/15/in_social/fintech-groups-and-banks-linking-up-for-new-payment-partnerships-20230807150649.jpg?randTime=1691402506"
-        width: 600
-        height: 385
-        isCached: true
   - title: "FinTech LIVE: AI in financial services"
     excerpt: "In this forum from FinTech LIVE New York, we discuss how AI is already beginning to transform the financial services sector with AWS ’ Global Banking Industry Strategist Sachin Tandon, and MSU Federal Credit Union ’s Chief Digital Strategy & Innovation Officer Benjamin Maxim ."
     publishedDateTime: 2023-08-08T09:00:00Z

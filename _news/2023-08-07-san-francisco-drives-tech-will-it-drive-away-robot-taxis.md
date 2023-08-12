@@ -1,25 +1,45 @@
 ---
 category: news
 title: "San Francisco drives tech; will it drive away robot taxis?"
-excerpt: "SAN FRANCISCO (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... allow robot car providers Alphabet Inc’s Waymo and General Motors’ Cruise to expand ..."
-publishedDateTime: 2023-08-07T11:07:00Z
-originalUrl: "https://www.aol.com/news/san-francisco-drives-tech-drive-101320740.html"
-webUrl: "https://www.aol.com/news/san-francisco-drives-tech-drive-101320740.html"
+excerpt: "SAN FRANCISCO (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... Inc’s Waymo and General ..."
+publishedDateTime: 2023-08-07T10:24:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/08/07/san-francisco-drives-tech-will-it-drive-away-robot-taxis"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2023/08/07/san-francisco-drives-tech-will-it-drive-away-robot-taxis"
 type: article
-quality: 21
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
 
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2023/08/07/2218721.jpg"
+    width: 800
+    height: 525
+    isCached: true
+
 related:
+  - title: "San Francisco drives tech; will it drive away robot taxis?"
+    excerpt: "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence, but when it comes to self ..."
+    publishedDateTime: 2023-08-08T01:02:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/san-francisco-drives-tech-will-it-drive-away-robot-taxis-2023-08-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 71
+    images:
+      - url: "https://www.reuters.com/resizer/UGMeovV1vj3t5SxbyMpFlVNUJ4o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ4PYLGTDNJWZI3XIRQPZJMW5I.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "California Okays Driverless Taxi Expansion for San Francisco"
     excerpt: "The state's green light, on a 3-1 vote by the California Public Utilities Commission, signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality."
     publishedDateTime: 2023-08-11T16:09:00Z
@@ -59,29 +79,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Despite Public Safety Concerns, CA Driverless Taxis Get Green Light"
-    excerpt: "\"They're not ready for prime time,\" San Francisco Fire Chief Jeanine Nicholson said recently, adding that they have interfered with 55 recent incidents."
-    publishedDateTime: 2023-08-11T14:10:00Z
-    webUrl: "https://www.firehouse.com/operations-training/video/53068921/despite-public-safety-concerns-ca-driverless-taxis-get-green-light"
-    type: article
-    provider:
-      name: Firehouse
-      domain: firehouse.com
-    quality: 39
-    images:
-      - url: "https://img.firehouse.com/files/base/cygnus/fhc/image/2023/08/maxresdefault.64d63c06c7728.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "120 driverless road trains for the West Pilbara"
-    excerpt: "In a world-first, MinRes will deploy a fleet of 120 autonomous road trains, which will each carry 330 tonnes of iron ore along a 150km route."
-    publishedDateTime: 2023-08-08T03:59:00Z
-    webUrl: "https://bigrigs.com.au/2023/08/08/120-driverless-road-trains-for-the-west-pilbara/"
-    type: article
-    provider:
-      name: Big Rigs
-      domain: bigrigs.com.au
-    quality: 34
   - title: "Cruise, Waymo await decisions on self-driving service in San Francisco"
     excerpt: "Barring another delay, Cruise and Waymo expect to hear Thursday from the California Public Utilities Commission whether they can expand the scope of their commercial services offered in San Francisco."
     publishedDateTime: 2023-08-08T11:55:00Z
@@ -156,6 +153,15 @@ related:
       name: Axios
       domain: axios.com
     quality: 17
+  - title: "San Francisco AI observability startup raises $50M"
+    excerpt: "Weights & Biases helps other AI developers monitor their code so it can be audited, organized and debugged — preventing so-called black boxes. The San Francisco startup just raised some fresh funding."
+    publishedDateTime: 2023-08-09T17:50:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/08/09/san-francisco-ai-observability-startup-raises-50m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan"
     excerpt: "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked me up"
     publishedDateTime: 2023-08-07T13:35:00Z
@@ -207,6 +213,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "xUOV4vYj9hS8n5bkAw1XKVlCKkSkjtpGG53HTCMQFbSS3j5q5eQNhVXXvWJThEQeJD6vGhTMxSwvjVBWvRz7cQSarK5t2whiH1pnznlvH5z1hpwqyvSZFr9mD4bXu90ZLblZXE/KEjVSi5fp7cinSuJ7+cjmR8QVC33r2aP3LxeJwR7RJUMcUFVM3i+hGu1VNlFm1aMt/hbOZnQQSQlOi0x/U8UkkguhnEgawvKEjj9Fk4ULoflc2aFJ3sefRUpd8z1x8XopEcaVkN6sB4ZQa+0rOIq0UTYPgZv4DgxSw9wBavA7Yk7TCCSGwDKPkqIoHLbjO0hwyRlGW11eio6oxRShsyV94+sfVDs1iV4zqv/Qiz2ZvnhlWtZbBzk5NmfAo88/x7FyOSgZ6HgmNFSAh6Ae7Fi8r8sA3klzsafgsDfXOjEyis8oR6CMmKaspSF6gGw0EMrAT/zfd7lrZqNA6iuKdOrd33KGN3ZhdCMRKJx9cDduKuDjyiHvv4txNsRJRmLS5ddP57Ie2hflJnSc3w==;gKzSOfjJdkaF/4n4L1qAzQ=="
+secured: "2v9KRv1lOH/Y9TAlZM478rWhCrzz+/YYn/M8wHa9+gKtVG4wIUQnZMwkhbQEUoLScyn7yt3z/cHS6ePStONgdRxNyjNR0mH4ON4qiTJ+BwZn3eMdW6agEGQjlQ7f9iIhpWH0mRa+w7MXbC0vj/wFs38ELsJZnk36hLYsk5Iqfw9Xcz/APvCdTxy0cNTm/yig+eMXiMBLrkaEsd1ukIYeClYdy5yhIYDSvtQ/fii9PtzSyWKyORzGjasxgX9DPx1yB5FZCRv2Yp76sMgCnzxorp0dXINIQBsJQPe3FoeXJArQ33NmJ2HJVLGPiYZ/36JPJ3JXU/oYhrNFf0gI2VXwZ+7sNA6wlkERCW8u9lMmL2c=;M9PygqjA1UVNQ2PPRaUzPg=="
 ---
 

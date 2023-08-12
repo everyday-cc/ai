@@ -719,34 +719,34 @@
     {
       "path": "_news/2023-08-04-deep-learning-for-new-protein-design.md",
       "title": "Deep learning for new protein design",
-      "excerpt": "The key to understanding proteins—such as those that govern cancer, COVID-19, and other diseases—is quite simple: Identify their chemical structure and find which other proteins can bind to them. But there's a catch.",
+      "excerpt": "Deep learning methods have been used to augment existing energy-based physical models in 'do novo' or from-scratch computational protein design, resulting in a 10-fold increase in success rates ...",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-08-deep-protein.html",
-      "originalUrl": "https://phys.org/news/2023-08-deep-protein.html",
+      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230803213837.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230803213837.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-for-new.jpg",
-          "width": 1280,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-08-deep-protein.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-deep-protein.amp",
-      "publishedDateTime": "2023-08-03T12:57:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T05:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-indiv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "All Cases of Mistaken Facial Recognition Arrests Have Targeted Black Individuals"
-    excerpt: "For a long time, different groups that care about people’s rights, technology experts, and people who work to bring about social change have warned about how facial recognition technology could worsen existing racial inequalities in law enforcement."
-    publishedDateTime: 2023-08-07T08:11:00Z
-    webUrl: "https://techstory.in/all-cases-of-mistaken-facial-recognition-arrests-have-targeted-black-individuals/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/08/facial-recognition-crop.jpg"
-        width: 800
-        height: 492
-        isCached: true
 
 secured: "SYYX1JqGvnxIuSOoHuqEdNNDccQXuOCDZou/5El9EDBPQ+QD3Ae5SHV1xO3CKZ9dhKZX5By6UyrT0mmrNV2m7ypgOBrbz+HG6qE7DLMRinzPDaIh4fUL4JrC6MV6F4XVLwy6gD/XgGrwxMC669K6e1qvZ2lZr9yHkrLbhdUYFicvPbiXwb72kCxGM6Ve+gOX7LjA1stbEeXuJtZBTTye7DShkRT3QN4LnectRU+gnJbnYvqKEBKRwlH1lurxQDrGeYtiWIfAHkIf2OyLUR7HG3SdTJIxJRlJvjblNQEzavVL2/w/B66bpBeKs8QvFND4FWUpfQVpTKI7A5PIn86bzMAkncZTIUIVaudEgYsC4CaP3ANHxwU/nPrdKmddNp3V4+LgCF1eRxJz1sgPBOZ3caCLMEaNPYf/xAoUR3+pU3SxRMTibsOVvv4pRV8uwMpqmw2eQ1Cpyz2DamasuUsMu4KiDaIiNh4RdjJIPuBojo0IX5QhfJLT9op/yWR9VDT3s/81ay7l2P82zSGmgCSQ4w==;jWZ6rwSpfa+bXuk4NPQntQ=="
 ---

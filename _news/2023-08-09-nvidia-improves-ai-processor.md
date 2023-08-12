@@ -25,77 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: Why Nvidia investors are rattled by Supermicro’s AI chip supply constraints"
-    excerpt: "Also read: AI has given a boost to a lesser-known Silicon Valley computer maker Supermicro Chief Executive Charles Liang told analysts on the company’s call that the company is seeing supply constraints for the graphics chips coming from Nvidia that are ..."
-    publishedDateTime: 2023-08-09T20:18:00Z
-    webUrl: "https://www.marketwatch.com/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581"
+  - title: "Nvidia's AI-driven stock surge pushed earnings multiple three times higher than Tesla's"
+    excerpt: "Nvidia's graphics chips have proven to be the best for training artificial intelligence models, and clients can't get enough of them."
+    publishedDateTime: 2023-08-11T18:12:00Z
+    webUrl: "https://www.cnbc.com/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 97
+      name: CNBC
+      domain: cnbc.com
+    quality: 98
     images:
-      - url: "https://images.mktw.net/im-803752/social"
-        width: 1280
-        height: 640
+      - url: "https://image.cnbcfm.com/api/v1/image/107278560-1690555294515-gettyimages-1258356004-TAIWAN-COMPUTEX2023-01062023-152JPG.jpeg?v=1691784755"
+        width: 5000
+        height: 3333
         isCached: true
-  - title: "What NVIDIA’s New Superchip Means for the Future of AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips NVIDIA Corporation (NVDA) has been very busy this year. In February, NVIDIA"
-    publishedDateTime: 2023-08-11T20:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035"
+  - title: "Nvidia teams up with Hugging Face to offer cloud-based AI training"
+    excerpt: "Nvidia is partnering with Hugging Face, the AI startup, to expand access to AI compute. Timed to coincide with the annual SIGGRAPH conference this week, Nvidia announced that it’ll support a new Hugging Face service, called Training Cluster as a Service ..."
+    publishedDateTime: 2023-08-08T16:16:00Z
+    webUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/"
+    ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?resize=1200,900"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Nvidia unveils upgraded chip to power the next gen of AI"
+    excerpt: "Nvidia has announced its next generation AI chip platform which uses the new Grace Hopper Superchip with the world’s first HBM3e processor."
+    publishedDateTime: 2023-08-09T15:38:00Z
+    webUrl: "https://www.techradar.com/pro/nvidia-unveils-upgraded-chip-to-power-the-next-gen-of-ai"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
     quality: 84
     images:
-      - url: "https://investorplace.com/wp-content/uploads/2023/08/lnel-8.11.23.jpg"
-        width: 917
-        height: 696
+      - url: "https://cdn.mos.cms.futurecdn.net/RqZGLD9cNLDo9TwwpFEFAD-1200-80.png"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Opinion: This is what tech companies, from Amazon to Apple, just told investors about AI"
-    excerpt: "That set up sky-high expectations for companies that are embedding AI-related technology across their product suites as well as chip companies that are selling to them. The second quarter, therefore, became a litmus test. Here’s a breakdown of AI’s ..."
-    publishedDateTime: 2023-08-08T11:49:00Z
-    webUrl: "https://www.marketwatch.com/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://images.mktw.net/im-724370/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Chinese companies splash $5B on Nvidia AI chips"
-    excerpt: "In late 2022, the US blocked Chinese companies from acquiring advanced semiconductors and chipmaking equipment: this week, the nation announced a ban on domestic businesses investing in China’s AI and quantum computing sectors, starting from 2024. Bulk orders have also been made due to fears about GPU shortages fuelled by rising demand, FT added."
-    publishedDateTime: 2023-08-10T11:02:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/chinese-companies-splash-5b-on-nvidia-ai-chips/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/chinese-companies-splash-5b-on-nvidia-ai-chips/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/chinese-companies-splash-5b-on-nvidia-ai-chips/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 74
-    images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2020/03/16120403/money-dollars-shutterstock-650.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "Nvidia set to hop AI forward with next-gen Grace Hopper Superchip"
-    excerpt: "One of today's biggest Nvidia announcements is a new version of the GH200 Grace Hopper Superchip, powered with next-generation HBM3e memory."
-    publishedDateTime: 2023-08-08T19:18:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-set-to-hop-ai-forward-with-next-gen-grace-hopper-superchip/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
   - title: "Nvidia launches new AI chip configuration"
     excerpt: "Nvidia announced a new configuration on Tuesday for its advanced artificial intelligence chips that is designed to speed generative AI applications.The new version of the Grace Hopper Superchip boosts the amount of high-bandwidth memory,"
     publishedDateTime: 2023-08-09T03:47:00Z
@@ -110,40 +85,54 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "NVIDIA unveils new AI superchip and adds generative AI to Omniverse"
-    excerpt: "NVIDIA founder and CEO, Jensen Huang, announced an updated GH200 Grace Hopper Superchip, the NVIDIA AI Workbench, and an updated NVIDIA Omniverse with generative AI at a wide-ranging SIGGRAPH keynote."
-    publishedDateTime: 2023-08-09T14:04:00Z
-    webUrl: "https://www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show"
-    ampWebUrl: "https://www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show?hs_amp=true"
-    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show?hs_amp=true"
+  - title: "Nvidia Unveils Faster Processor Aimed at Cementing AI Dominance"
+    excerpt: "Nvidia Corp. announced an updated AI processor that gives a jolt to the chip’s capacity and speed, seeking to cement the company’s dominance in a burgeoning market."
+    publishedDateTime: 2023-08-08T15:32:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-08-08/nvidia-unveils-faster-processor-aimed-at-cementing-ai-dominance"
     type: article
     provider:
-      name: redsharknews.com
-      domain: redsharknews.com
-    quality: 54
-  - title: "Nvidia Unveils Upgraded AI Chips To Enhance Generative AI Applications"
-    excerpt: "The company introduced a new configuration for its Grace Hopper Superchip, aiming to boost the capabilities of generative AI applications, , nvidia, Grace Hopper Superchip, Generative AI"
-    publishedDateTime: 2023-08-09T05:24:00Z
-    webUrl: "https://www.businessworld.in/article/Nvidia-Unveils-Upgraded-AI-Chips-To-Enhance-Generative-AI-Applications/09-08-2023-487115/"
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Find the Next Nvidia: 3 Must-Watch AI Stocks"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) shares took many investors by surprise in 2023."
+    publishedDateTime: 2023-08-08T21:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/find-the-next-nvidia-3-must-watch-ai-stocks-1032531041"
     type: article
     provider:
-      name: Businessworld
-      domain: businessworld.in
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Inside Nvidia's Stupendous 200% Stock Surge: Evaluating The Future Trajectory Of This AI Powerhouse."
+    excerpt: "Nvidia's stock performance has been astonishing this year, soaring over 200% and making it a favored investment choice, despite currently undergoing a correction phase. The growth surge in Nvidia's stock is largely attributed to the increasing demand for its AI chips,"
+    publishedDateTime: 2023-08-07T14:23:00Z
+    webUrl: "https://www.benzinga.com/23/08/33602240/inside-nvidias-stupendous-200-stock-surge-evaluating-the-future-trajectory-of-this-ai-powerhouse"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33602240"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33602240"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://static.businessworld.in/article/article_extra_large_image/1688016391_iJbIWj_nvidia.png"
+      - url: "https://cdn.benzinga.com/files/boliviainteligente-1goydlm_jcg-unsplash_1_0.jpg?width=1200&height=800&fit=crop"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "NVIDIA Infuses Grace Hopper Superchip With HBM3e To Supercharge AI Data Center Workloads"
-    excerpt: "Besides the extra capacity, NVIDIA says that the HBM3e version of the Hopper GPU offers a 50% bandwidth improvement, too. That gives the massive parallel processor some five terabytes per second of memory bandwidth,"
-    publishedDateTime: 2023-08-08T18:55:00Z
-    webUrl: "https://hothardware.com/news/nvidia-gh200-hbm3e-edition"
+  - title: "Chinese Tech Titans Move To Stockpile $5 Billion Of Nvidia AI Chips Fearing Further Export Restrictions By U.S This Time Targeting A800 Processors"
+    excerpt: "Nvidia introduced A800 as a replacement chip with a slower processing speed for Chinese market after the U.S blocked China’s access to two of its high-end microchips including its leading-edge A100 processors."
+    publishedDateTime: 2023-08-11T07:29:00Z
+    webUrl: "https://swarajyamag.com/tech/chinese-tech-titans-move-to-stockpile-5-billion-of-nvidia-ai-chips-fearing-further-export-restrictions-by-us-this-time-targeting-a800-processors"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 25
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 16
+    images:
+      - url: "https://gumlet.assettype.com/swarajya/2022-09/7be06553-4c7c-43b4-b034-e423615f72a6/Screenshot_2022_09_01_at_4_14_44_PM.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 798
+        isCached: true
 
 secured: "bDgcRCv7F//PugIHz4bDeVQnXCzIrpvYRJzzq1aHaTgn8O+7bhIkbzZwrJN9ie2F9Y4F2EHqQ2xFb5fO8NHTOi8lh5qlFE8kAOSJ3NHkUHy18If0uyYaSkvZOK5DOdINK9eCpx3BKtvIyhztB8E27iQmrPUs62SxJy6lV9MuY5mhBsXe9Fe8c/9RgUOcIEjv9P6rW6WEip2FIDIm2n72v4Fv8z32pGja2z6bZSaR3Xw2dyj54JeX0eUNaX7wNfEQZe1c4cAA5DdaIOtVLSi/j3HhXxTk6fxogMC7UXuNpfkKD/FLiI6Nc5kkbTieu6NbxJe/ow+cIwIjqS83W2j4Bmuu9pxpyzUTzJ8EAcQFrnvHvDKF3cLXDA2sWuZZFJHtE184bf4pkNTo3xYwVDjdkr5+0FSSf2I5QqAzPlN1Zx3YPWDTY2GPKA+uvYBIGZrZYasmn2v0FA8clrG3sUPEBTX0pqhmQ0Q6GaZ2kzc/SPhJHbEYh/gjwc8cdprMr65J4lKLNVzBfPc1JX3EbYev9A==;G8qX9VE9T4tVHQ27MXUTyQ=="
 ---

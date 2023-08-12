@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-11T18:16:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547649"
 webUrl: "https://markets.businessinsider.com/news/stocks/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547649"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 related:
   - title: "Mountain View Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"

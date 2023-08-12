@@ -79,20 +79,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 44
-  - title: "OpenAI's Former Domain AI.com Now Directs to Elon Musk's AI Company"
-    excerpt: "The domain AI.com once took users to OpenAI's ChatGPT. Now, it's apparently changed hands, and redirects to Elon Musk's AI project, xAI."
-    publishedDateTime: 2023-08-07T08:06:00Z
-    webUrl: "https://futurism.com/the-byte/openais-domain-elon-musks-ai"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 37
-    images:
-      - url: "https://wp-assets.futurism.com/2023/08/openais-domain-elon-musks-ai.jpg"
-        width: 1200
-        height: 726
-        isCached: true
 
 secured: "A2bGcWKaUjQcewnYdeA8ktW76F1CyGsMlG5juMMQD6hTq2/h71Z1KztLu08iF02gIWDPbqATjfNaC+kuy8lKH9hL6v1ltDUQOUOgjdBBuf51NJO3vdF7pfAo9A0bK/EAJi+p5mTEy4LmrKNrf+18rrGluFbeVV9K6aTDsj9goifPxRfvKptocYW6XR+kGJgvP8AK7jO1uaLE+1vyitkN99WJHxVjn4jQ4BzGFx6Q7K1elXabEbHNESJJxdT5oNsKdVzQId9Yn1K2GI9mj6yDu5/zu6yfkxVtDklqVELASJemS2QfQdq3ljsO4H0F/PXZq4/srWpjn3WqG3AiHUD0Ur21o9Mt1Hs6JYYKqvjSp632ANPf8ygBuO0YfrzbAuJ34dQXYD2GURde8k16cmsnfJTJhSyxOXL7zh7bC5H8Op+DsZqEcYSiQMwUlgFz+14CS3nr3/vU+k1Ep6+sex7nx+GyOIuGKUP5XozGEFe/NeRWSNgxEWOJ98+ezQGoFWYTopPfvJnVBjrMXOAH+/1phg==;xGOwrCN6+IXoWSFGbfK7vg=="
 ---

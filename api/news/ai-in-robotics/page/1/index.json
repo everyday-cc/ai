@@ -288,7 +288,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-you-better-be-buying-on-each-and-every-dip-1032541918",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -600,7 +600,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -642,6 +642,59 @@
         "AI in Robotics",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-san-francisco-drives-tech-will-it-drive-away-robot-taxis.md",
+      "title": "San Francisco drives tech; will it drive away robot taxis?",
+      "excerpt": "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence, but when it comes to self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/san-francisco-drives-tech-will-it-drive-away-robot-taxis-2023-08-07/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/san-francisco-drives-tech-will-it-drive-away-robot-taxis-2023-08-07/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/UGMeovV1vj3t5SxbyMpFlVNUJ4o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ4PYLGTDNJWZI3XIRQPZJMW5I.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1303,51 +1356,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes.md",
-      "title": "MBZUAI launches dedicated robotics and computer science graduate programmes",
-      "excerpt": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programmes dedicated to robotics and computer science, catering to the surging global demand for these disciplines ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5",
-      "originalUrl": "https://www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/YWEzZmJhNzEtNGU0Ny00/0/gmaa-mhmd-bn-zyd-llthk-lstnaay-ttlk-brmg-drst-aaly-fy-aalm-lrobott-oaalom-lhsob.jpeg?f=3%3A2",
-          "width": 898,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5?amp=1",
-      "publishedDateTime": "2023-08-02T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     }
   ],

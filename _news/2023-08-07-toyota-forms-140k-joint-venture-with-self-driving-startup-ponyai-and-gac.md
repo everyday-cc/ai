@@ -7,7 +7,7 @@ originalUrl: "https://technode.com/2023/08/07/toyota-forms-140k-joint-venture-wi
 webUrl: "https://technode.com/2023/08/07/toyota-forms-140k-joint-venture-with-self-driving-startup-pony-ai-and-gac/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota, Pony.ai Team Up on Robotaxis With USD140 Million JV"
-    excerpt: "Japanese auto giant Toyota Motor and Chinese autonomous driving startup Pony.ai are investing CNY1 billion (USD140 million) to set up a joint venture that will promote the large-scale roll out of unmanned taxi services across China."
-    publishedDateTime: 2023-08-07T07:23:00Z
-    webUrl: "https://www.yicaiglobal.com/news/toyota-ponyai-team-up-on-robotaxis-with-usd140-million-jv"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 54
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/08/30096746559173.jpg"
-        width: 770
-        height: 510
-        isCached: true
   - title: "Pony.ai, Toyota to deploy large-scale robotaxi network"
     excerpt: "In total, Pony.ai has a combined fleet of about 200 Toyota and Lexus brand robotaxis located in all four Chinese Tier-1 cities — Guangzhou, Beijing, Shanghai and Shenzhen — where they are road tested and are the public face of the company’s robotaxi services."
     publishedDateTime: 2023-08-08T12:54:00Z

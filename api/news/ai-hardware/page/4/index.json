@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-20-ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest.md",
+      "title": "AI Growth Lifts Quanta’s Barry Lam To No. 1 Among Taiwan’s Richest",
+      "excerpt": "Lam, who founded Quanta in 1988 when Taiwan was disparagingly known as a “clone kingdom” for IBM PC knockoffs, was worth $9.2 billion on the list yesterday, compared with $5.6 billion on the 2023 Forbes Taiwan Rich List published in April. Lam has topped Zhang Congyuan, who at No. 2 has a fortune worth $7.7 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/",
+      "originalUrl": "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b8ac1a5e5cca27155b79a0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/amp/",
+      "publishedDateTime": "2023-07-19T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips.md",
       "title": "China Diplomat warns Washington of further restrictions on investment, AI chips",
       "excerpt": "China's Ambassador to Washington Xie Feng crossed wires late Wednesday, via Reuters, while speaking at the Aspen Security Forum where he criticized the US consideration for review of the outbound investment about China and further curbs on AI chips to the Asian nation.",
@@ -1347,50 +1399,6 @@
         "AI Hardware",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs.md",
-      "title": "IBM may use its own AI chip in cloud service to lower costs",
-      "excerpt": "The high costs of previous AI systems, such as Watson, hindered their market traction. By leveraging their own chips, IBM aims to improve cost efficiency, which could make their cloud service more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195",
-      "originalUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telecomlead.com/wp-content/uploads/2021/06/IBM-at-MWC.jpg",
-          "width": 640,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1",
-      "cdnAmpWebUrl": "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1",
-      "publishedDateTime": "2023-07-12T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecom Lead",
-        "domain": "telecomlead.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

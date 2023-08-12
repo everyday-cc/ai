@@ -1,30 +1,26 @@
 ---
 category: news
 title: "How sure is sure? Incorporating human error into machine learning"
-excerpt: "Researchers are developing a way to incorporate one of the most human of characteristics—uncertainty—into machine learning systems."
-publishedDateTime: 2023-08-09T23:00:00Z
-originalUrl: "https://techxplore.com/news/2023-08-incorporating-human-error-machine.html"
-webUrl: "https://techxplore.com/news/2023-08-incorporating-human-error-machine.html"
-ampWebUrl: "https://techxplore.com/news/2023-08-incorporating-human-error-machine.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-incorporating-human-error-machine.amp"
+excerpt: "Researchers are developing a way to incorporate one of the most human of characteristics -- uncertainty -- into machine learning systems."
+publishedDateTime: 2023-08-10T12:43:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/08/230809203210.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/08/230809203210.htm"
 type: article
-quality: 59
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/uncertainty.jpg"
-    width: 1920
-    height: 1280
-    isCached: true
 
 related:
   - title: "Incorporating Human Error into Machine Learning"
@@ -37,6 +33,6 @@ related:
       domain: acm.org
     quality: 19
 
-secured: "7JsI3iuZJOj0g6Me/rZ8CP/IHHtVr+BUaDXCAvf6jesNantiboM3wgw/FN0lB/3ynedA6AYPAMUfNwO7xjMqNI/Hukrhkogspf2vb2Sd5fk1XAVRD5DfE8ZfHjVojlFM6naCC0Bg3420MdVI8J+wAH3stWV+Yhm91V6iF3KEnZP7GWm31ZkDKP6uQ0AQo3PVZTHtgcRr2uGUlQvN2oJcY1u4jqjEUQof8W+rKdVeHQQpbfr8vuaKZx0kjaBLtnoaUTJ0v1gRDH/cMZqvaCDx5zfZTJG5YxQRzhX/w3u84iE/xllnzAjneOk+/TVbMd1VcWs6yymFlsKkOEj0W/5dlCvsKDmNqTufYjpYJO7/iVXKidRI6ZUTpHCWO6u7MlO1fITWDNYSo1ZhH25LTsXxd84nYMVDsprLt8WPa7HsAilUq3aV0wDJnDb++XhMKmzLR2VjMUjVF2AcXWTu0GqvUBLuXMOTV2Cznxp/kLaERolZ//eNkuhykkDROU9EyyibUYS1D93yiJ/m8SAhkO+xpg==;p7IGwxrXRRSVZ+/aCFqNlg=="
+secured: "HE87lOm6yczljL9rpAWeeo41shY6JtYtKI88SSzOgF1MKdfwUCmM2DmLDCqMEDXQ+4PJh8/6Ljpzw2Qgic0OwW+Lvj1ySfpogDZZ60fHYKqSxQXH6CfYVIN8tnt5SGGcAHXJU6kRsNrUMLWWOFuYMKSCnSL+F5pUU+3UtL2xHmB4K1QYWU0z6gADbnJsYP2bCxPdnPfxgB9oT/i+5GubCeeA7j9DvUgTGGpawsSzhGZ9rND/V3io4TlXAk777fcBgI/y1XbYy1e5Jb+/BaY25K6w9Ff/L+CWz2/xABNOf3Fj5C4FQ2Iro1T0PF58dz62WOIfMsSOn1qUXN1PiHf2PYvEM5ErCEPjWXyHj+jbz3o=;7A7UsoAfvGt8xvXmIJPdzg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/amp/"
 type: article
 quality: 94
-heat: 454
+heat: 444
 published: true
 
 provider:
@@ -377,20 +377,6 @@ related:
     quality: 25
     images:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/07/9802ad96-4197-460b-a567-1af020bb108c/thumbnail/1200x630/2512c50904a026ae5bda7ee10408817d/e2ce76d9698c8b642d8a385de025f5d8.jpg?v=4c3eff96812a3b6c2e014b1daed33369"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Woman falsely arrested while eight months pregnant due to faulty facial recognition tech sues Detroit"
-    excerpt: "A woman who was eight months pregnant when faulty facial recognition technology led to her false arrest on carjacking charges is suing the city of Detroit and the police detective assigned to her case."
-    publishedDateTime: 2023-08-07T08:34:00Z
-    webUrl: "https://www.aol.com/lifestyle/woman-falsely-arrested-while-eight-013400761.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
         height: 630
         isCached: true

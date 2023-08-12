@@ -69,6 +69,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+    excerpt: "ANCHORAGE, Alaska, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The Odom Corporation in Anchorage. Applications for the no-cost bootcamp are closing soon!"
+    publishedDateTime: 2023-08-11T18:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547649"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
   - title: "Philadelphia Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by CSL Behring in Philadelphia. Applications for"
     publishedDateTime: 2023-08-11T15:38:00Z
@@ -103,15 +112,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
-  - title: "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-    excerpt: "ANCHORAGE, Alaska, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The Odom Corporation in Anchorage. Applications for the no-cost bootcamp are closing soon!"
-    publishedDateTime: 2023-08-11T18:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547649"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
   - title: "Carnegie Learning in Pittsburgh Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "Founded by Mark Cuban in 2019, the AI bootcamp initiative has hosted no-cost AI bootcamps for students across several U.S. cities, including Dallas, Chicago, Pittsburgh, Detroit, and Atlantic City to name a few. The Mark Cuban Foundation has impacted 900+ students to date and has a goal to increase that number year over year."
     publishedDateTime: 2023-08-11T16:33:00Z

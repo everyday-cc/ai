@@ -57,15 +57,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 13
-  - title: "Empowering business transformation through data decoupling and analytics"
-    excerpt: "In today’s rapidly evolving digital landscape, harnessing the power of data has become a critical priority for businesses across industries."
-    publishedDateTime: 2023-08-07T08:06:00Z
-    webUrl: "https://www.dqindia.com/empowering-business-transformation-through-data-decoupling-and-analytics/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 3
 
 secured: "sy9HsRzLQZosBrRZ0lKHZ7UAOLIcgMZvr+Tyjs56UFGzTjKfRak932+ndbpKWEw4mKHXNqFl+jCORX58rN5mU8hY7+MIcn9CF0ZAcgu21JGgDxhpP6K7tiTY0AC7DNvZHC3U8EEqjWrHQ34vLZyV7zJMm0nDhYaU7tJYMcgjSRVB8BH9JKPz1TwMYEPy9hxodfg9y1wVQsBDI2THB8DyM3BKZaaLAkq8jWbb0kXa4XyDvU4sWZ/JwjnIJtaoH3M93ltxbShj4n8907NYnGPAK8usDPzTf1exsbWFHYCu18qRNNbwVrWQL6ButWuoUi9oIzQq4rYhbER0UFVPS/ypwMf8ycZkWZi3I3MTC85diB4=;3SPApMV88TnH+tLyhuXw0Q=="
 ---

@@ -107,20 +107,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Fear Of Ai In The West Is Misdirected"
-    excerpt: "The fear of artificial intelligence is largely a Western phenomenon. It is virtually absent in Asia. In contrast, East Asia sees AI as an invaluable"
-    publishedDateTime: 2023-08-07T07:32:00Z
-    webUrl: "https://menafn.com/1106796191/Fear-Of-Ai-In-The-West-Is-Misdirected"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/07/AT_da0cbimage_story.jpg"
-        width: 1200
-        height: 960
-        isCached: true
   - title: "AI as the next computing platform"
     excerpt: "The games industry requires hundreds, if not thousands, of projects every year, so the prospect of radically cutting the time and cost of creative brainstorming and prototyping is, ahem, game-changing. Add to that the increasing ability to use generative AI in software development, and the time from concept to code goes from months to days."
     publishedDateTime: 2023-08-07T14:00:00Z

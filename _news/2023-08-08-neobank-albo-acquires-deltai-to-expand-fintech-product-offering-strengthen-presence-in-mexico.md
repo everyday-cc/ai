@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/08/211196-neobank-albo-acquire
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/08/211196-neobank-albo-acquires-delt-ai-to-expand-fintech-product-offering-strengthen-presence-in-mexico/amp/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mexican neobank albo acquires delt.ai for $20 million"
-    excerpt: "Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
-    publishedDateTime: 2023-08-07T08:43:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97684/mexican-neobank-albo-acquires-deltai-for-20-million"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Neobank albo acquires delt.ai for $20m"
     excerpt: "Neobank, albo acquired delt.ai, a fintech company focused on SMBs, for $20m late last week. Mexico-based albo plans to use the acquisition to expand its credit and debit products for consumers and SMBs."
     publishedDateTime: 2023-08-07T22:24:00Z

@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Empowering business transformation through data decoupling and analytics"
-    excerpt: "In today’s rapidly evolving digital landscape, harnessing the power of data has become a critical priority for businesses across industries."
-    publishedDateTime: 2023-08-07T08:06:00Z
-    webUrl: "https://www.dqindia.com/empowering-business-transformation-through-data-decoupling-and-analytics/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 3
 
 secured: "rDu+Ys/CHtblLMrCFVvjOCU82YPBYt6D9cRhRCcl6opNR9yQH2SKOtBrRXqea5Uc+nwRGWjzoNhRArd97I7uK0cHGeUP3mq8GMzFH8VoaBoZyrO+HEAdl3YUZrASIsgJHngwFBoA6jGOhKhLJ99edmjrMMbgVAeoIh9t831hp3hu8HJ0y4CnhnsI7Vea2bSWshjonv/kOAyiXEr+fbqXukh+8sJXF3On0VsmnUA4cc3H1Rp0A2Q2daEbM4wbwstgqW9SP9fjUAPV2Ke05KwbAA+FI27YVpjYqQHqICl+FB3DSqrLHIVUhMPxeDAiDXqC3MZVYt4x8EI68y6zp3dZAPhMpJJ0HY7qo1CO6a6EXZM=;TUZLi3m3PiS28/5Cf+ANOg=="
 ---

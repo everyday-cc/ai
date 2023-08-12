@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnbc.com/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -50,50 +50,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-california-okays-driverless-taxi-expansion-for-san-francisco.md",
-      "title": "California Okays Driverless Taxi Expansion for San Francisco",
-      "excerpt": "The state's green light, on a 3-1 vote by the California Public Utilities Commission, signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco",
-      "originalUrl": "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/2a5480d/2147483647/strip/true/crop/662x348+0+0/resize/662x348!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbb%2Fd0%2F80318d734f7fa9a89f9001e9f5c0%2Fzscaler-public-sector-logo-r1-rgb-31aug21-vertical-pms-blue-002.png",
-          "width": 662,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true",
-      "publishedDateTime": "2023-08-11T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI in Autos",
-        "AI"
+        "AI Hardware"
       ]
     },
     {
@@ -234,6 +192,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-san-francisco-drives-tech-will-it-drive-away-robot-taxis.md",
+      "title": "San Francisco drives tech; will it drive away robot taxis?",
+      "excerpt": "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence, but when it comes to self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/san-francisco-drives-tech-will-it-drive-away-robot-taxis-2023-08-07/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/san-francisco-drives-tech-will-it-drive-away-robot-taxis-2023-08-07/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/UGMeovV1vj3t5SxbyMpFlVNUJ4o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ4PYLGTDNJWZI3XIRQPZJMW5I.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-nee
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Zoom Vows Not To Use Your Calls To Train Artificial Intelligence"
+    excerpt: "Videoconferencing company Zoom has clarified a policy that had some users nervous. It will not be using its calls to train AI. A recent terms of service update implied customer video calls could"
+    publishedDateTime: 2023-08-12T01:55:00Z
+    webUrl: "https://deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/"
+    ampWebUrl: "https://deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 72
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1466243151.jpg?w=1024"
+        width: 1024
+        height: 606
+        isCached: true
   - title: "Yes, you can deploy AI responsibly and effectively"
     excerpt: "Agencies often ponder whether to apply AI to citizen interactions under the customer experience movement, or to making internal operations more efficient. But the two are connected, said Susan"
     publishedDateTime: 2023-08-09T15:58:00Z

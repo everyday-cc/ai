@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence gaining state lawmakers' attention, and they have a lot of questions"
-    excerpt: "As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they're often focusing first on their own state governments before imposing restrictions on the private sector."
-    publishedDateTime: 2023-08-07T07:13:00Z
-    webUrl: "https://www.semissourian.com/story/3005148.html"
-    type: article
-    provider:
-      name: Southeast Missourian
-      domain: semissourian.com
-    quality: 43
-    images:
-      - url: "https://www.semissourian.com/photos/38/77/10/3877109-B.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Artificial intelligence is gaining state lawmakers’ attention, and they have a lot of questions"
     excerpt: "As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they’re often focusing first on their own state governments before imposing restrictions on the private sector."
     publishedDateTime: 2023-08-07T19:00:00Z
@@ -50,6 +36,6 @@ related:
       domain: brooklyneagle.com
     quality: 20
 
-secured: "vgqhKpjPX6VM8JUDzOxuBuuUrmfWUqCqRpAyQCRd1+C6c6DW4nFucPuOFH41r9LzqghSDaoKLdomy23/16fs1O9xcQFfc399Veys7Xg2M2YpbFm7xGQZnNOuuGHG2fvo2RSv2gQruDdhb3DptUv2E67btogsbsDHH84l36uEeIC0jgu3AsMNaxOImIJzBAnJQAQukroRuqhSZQ6yUwr+AbW4sDC2tZ/fCMdh+xwbyGvqYB0mLY/Pr0LS96tt9riSh6Hm74Zduux4xSWxygzLSByas3bWm8LbfvIjwPuYNhD/g4Li55jmaII4kCVzmNpSexyKzzwicIS8eBMRktyi8gwwEK4RSjeJ5m8IXyzk9Z8=;8EEZuUWmwWYlPHo0prUFNg=="
+secured: "IJ7PDi6kNfTWTuqYxCvLZ9q5RlFGbF6gBuwxJB1eyPm4C4LgFTbMr14F9fK/4IQ7N2IRkK7ZU0EK5o6MA1YqsjsrP4mfW/qSxlba3CC/gfCJh9qLbdulSe4+Sf+M2MhFkY4nRbYyLDB3sg7GAclKE/j7v6KIAU1+4/1AnpTIH5uP2JS7nqp3m2YKwIP9akUhDbpvv/x1luzTAkv/7G2IdX/cCxogAqLJiLYlFHzQV2+n6L3Y43Kr4o/UcTRECVTAUdscaoPef/hVIw7AZHNk1sayn3an2FRU8iRAFz9UJGWgagrg8IrM8TJDSlGabniTZJMnuG6UYnJ5f2AcUA1+pNm2odUc3R1XDhlDPBlBXAyRv8cV6Jy6oqV387VRuoviwK+lZeYbUMsBRvVtEN8AGDimkHJ3IsYWWX0cBYia3Akn3Y/zVseqtDVXEntLALhRnbqrECI3qYJnj0e69S1U+iRsdUd6mVcGltk4YxbsIoD6CbA39BW9qfngdrPQEkuWWp0zWfp0N7olRSG0jyhPBw==;br13fx60RCj/ps5+4XGVtA=="
 ---
 

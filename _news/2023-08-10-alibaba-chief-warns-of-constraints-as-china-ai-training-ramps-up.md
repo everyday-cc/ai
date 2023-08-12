@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "China at Major Risk of Losing Global Memory Chip, AI Race Due to Chip Trade Restrictions"
-    excerpt: "Chip trade restrictions are hampering the efforts of big Chinese tech firms like Alibaba Group, Tencent and JD.com to develop generative AI models."
-    publishedDateTime: 2023-08-07T08:07:00Z
-    webUrl: "https://www.ibtimes.sg/china-major-risk-losing-global-memory-chip-ai-race-due-chip-trade-restrictions-71221"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.sg
-    quality: 45
-    images:
-      - url: "https://data.ibtimes.sg/en/full/68810/chip-war.png"
-        width: 737
-        height: 478
-        isCached: true
-
 secured: "dY6hNd+sdtDz38vrCs45DDEcda7PBZ1epY7stMUektEVGixIRSdN0Vsj0f6Yz9JTk5ZazOxvOWlPE9fWqmq9QHhL8sRgAE07/thX1I4vLess90yHZe3ryg5Cw1ONbqGtHa1zZOZdAi8LdQSyfa1yp6F3oeSZJvcICLBmJHHQcYjmxmtE8IJwT+ieNlmMmGc1Yk1WMYx4aiyoG+F4oIimD2yJiB3BaORDXgzx5h0hjmldJJn3qIKYjV8BRAzeb1365mYeieONYfV1e5JOOXnHHw0/9is3iEHMu0OI/9weXTli582aXAKheGOnk9A8q03W5eX10fFTQfw7XERixvbZEXpUIJSz0NHqpSOxeoqg5m9kKw/iXUGNlZj40Q0vUYNJtupb9AYIGDPT82ZH9If3Tjr+eqDckS5u+feLUnVZTmKKQv2xGXgYTwL0Eh6TDBidYP+wcPOyfNsz/tbYkXIzRTPwvbSASIVWpgCnKW/z+HRRIQ6Nu0hF2KGgyIEFeGjYAoh1JKlShx9noqHKqWsWvw==;+vKFFMfJbFFT+klM/nZRJA=="
 ---
 

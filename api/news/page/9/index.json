@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-08-04-this-week-in-xr-capital-for-inworld-ai-omni-vr-treadmill-hologate-vr-siggraphs-50th.md",
+      "title": "This Week In XR: Capital For Inworld AI, Omni VR Treadmill, Hologate VR, Siggraph’s 50th",
+      "excerpt": "This Week in XR is also a podcast hosted by the author of this column, Ted Schilowitz, Futurist, Paramount Global, and Rony Abovitz, founder of Magic Leap. This week our guest is Zak Penn, filmmaker and screenwriter of Ready Player One and, soon, Ready Player Two . We can be found on Spotify, iTunes, and YouTube.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/08/03/this-week-in-xr-capital-for-inworld-ai-omni-vr-treadmill-hologate-vr-siggraphs-50th/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/08/03/this-week-in-xr-capital-for-inworld-ai-omni-vr-treadmill-hologate-vr-siggraphs-50th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64cc435e995b76bb73960eaa/0x0.jpg?format=jpg&crop=1443,811,x301,y95,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/08/03/this-week-in-xr-capital-for-inworld-ai-omni-vr-treadmill-hologate-vr-siggraphs-50th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/08/03/this-week-in-xr-capital-for-inworld-ai-omni-vr-treadmill-hologate-vr-siggraphs-50th/amp/",
+      "publishedDateTime": "2023-08-03T17:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-lazr-stock-alert-luminars-ai-push-will-revolutionize-self-driving-cars.md",
       "title": "LAZR Stock Alert: Luminar’s AI Push Will Revolutionize Self-Driving Cars",
       "excerpt": "Fennimore told InvestorPlace that his company is in a unique position to make self-driving cars a part of everyday reality. The key is artificial intelligence. Luminar’s history with AI is long.",
@@ -452,49 +503,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-deep-learning-for-new-protein-design.md",
-      "title": "Deep learning for new protein design",
-      "excerpt": "The key to understanding proteins—such as those that govern cancer, COVID-19, and other diseases—is quite simple: Identify their chemical structure and find which other proteins can bind to them. But there's a catch.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-08-deep-protein.html",
-      "originalUrl": "https://phys.org/news/2023-08-deep-protein.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-for-new.jpg",
-          "width": 1280,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-08-deep-protein.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-deep-protein.amp",
-      "publishedDateTime": "2023-08-03T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },

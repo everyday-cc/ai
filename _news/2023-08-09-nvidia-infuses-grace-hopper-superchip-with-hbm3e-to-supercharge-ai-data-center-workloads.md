@@ -90,20 +90,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
-  - title: "Nvidia launches new AI chip configuration"
-    excerpt: "Nvidia announced a new configuration on Tuesday for its advanced artificial intelligence chips that is designed to speed generative AI applications.The new version of the Grace Hopper Superchip boosts the amount of high-bandwidth memory,"
-    publishedDateTime: 2023-08-09T03:47:00Z
-    webUrl: "https://www.channelnewsasia.com/business/nvidia-launches-new-ai-chip-configuration-3686276"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--udSqSFYx--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-08-08t154702z_2_lynxmpej770lg_rtroptp_3_usa-semiconductors.jpg?itok=4INBC_n-"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "NVIDIA unveils new AI superchip and adds generative AI to Omniverse"
     excerpt: "NVIDIA founder and CEO, Jensen Huang, announced an updated GH200 Grace Hopper Superchip, the NVIDIA AI Workbench, and an updated NVIDIA Omniverse with generative AI at a wide-ranging SIGGRAPH keynote."
     publishedDateTime: 2023-08-09T14:04:00Z
@@ -128,20 +114,6 @@ related:
       - url: "https://static.businessworld.in/article/article_extra_large_image/1688016391_iJbIWj_nvidia.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Nvidia improves AI processor"
-    excerpt: "Grace Hopper superchip increases capacity and speed Nvidia announced an updated AI processor that gives a jolt to the chip's capacity and speed. Nvidia  told the gathered throngs at the Siggraph conference in Los Angeles that its Grace Hopper superchip,"
-    publishedDateTime: 2023-08-09T09:52:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57390-nvidia-improves-ai-processor"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/3e814bcb2a51dbe3c5633f6e423c21b2_L.jpg"
-        width: 620
-        height: 465
         isCached: true
 
 secured: "iHFMq0qSJ6Cz7FT/TzXDXs3pB6VHIFJJqsZbd+SsP/aBMvaC4sduRKbM1MPcooJncI2cJMUi6ce8LcNE3T9SOIszQExhqp+mdKz1086beHrrUvp91TeO4nnlfbUaK+c6lvwL0MXbPA399edpYABy8LxQGg3vxQUNzEMOFI7ye5JFze9S6PJgQtaJwP9BDnNXOwEVGSN7XwkZw994v1YVuUdsw+us3tCXfEYScGLVvJ3IDrZNPQhtUEuaBfOEn9iftWl+IppL8TS1Zbkm2y9u7cB3ea+EZDdww/OiBWzqoawCZA4LWBlyzM+kdrKMGOMn+ZPEnjZe7XYvBYcaO90ewGaBuiZMh9uCHCQC0870tQpyODhPcrwE9HhMLlUjcfaVEaWyEO4+f7Z4gj6UeM6h9FA+d/Ufeg9vp2+BeCx/sPQcOgQepBFxHYDQPkHDMCG53g9lp1jkewvRltwWtn2GSBf8eFr0O0vR+aD7yatVe3E2rgisb7Uc5IM31N06ApxIlUlEH+FDg04JknT0Q7WFcg==;vKMr2WSawn0V7UgSc/x9fQ=="

@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-02-mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes.md",
+      "title": "MBZUAI launches dedicated robotics and computer science graduate programmes",
+      "excerpt": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programmes dedicated to robotics and computer science, catering to the surging global demand for these disciplines ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5",
+      "originalUrl": "https://www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/YWEzZmJhNzEtNGU0Ny00/0/gmaa-mhmd-bn-zyd-llthk-lstnaay-ttlk-brmg-drst-aaly-fy-aalm-lrobott-oaalom-lhsob.jpeg?f=3%3A2",
+          "width": 898,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5?amp=1",
+      "publishedDateTime": "2023-08-02T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-how-artificial-intelligence-and-robotics-are-transforming-the-beauty-industry.md",
       "title": "How artificial intelligence and robotics are transforming the beauty industry",
       "excerpt": "The market for A.I. in beauty and cosmetics will hit more than $13 billion dollars by 2030, according to one study. Companies are already rolling out A.I. robots that aim to make services like manicures quicker and cheaper.",
@@ -1317,49 +1362,6 @@
       "provider": {
         "name": "The Sheboygan Press",
         "domain": "sheboyganpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-artificial-intelligence-ai-robots-market-projections-regional-outlook-rapid-growth-and-trend-by-2023-to-2030.md",
-      "title": "Artificial Intelligence (AI) Robots Market Projections, Regional Outlook, Rapid Growth and Trend by 2023 to 2030",
-      "excerpt": "Global Artificial Intelligence (AI) Robots Market is valued approximately USD 6.90 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38.6% over the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33361808/artificial-intelligence-ai-robots-market-projections-regional-outlook-rapid-growth-and-trend-by-202",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33361808/artificial-intelligence-ai-robots-market-projections-regional-outlook-rapid-growth-and-trend-by-202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33361808",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33361808",
-      "publishedDateTime": "2023-07-24T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

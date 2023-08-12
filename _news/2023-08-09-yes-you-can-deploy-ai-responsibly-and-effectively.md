@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 771
         isCached: true
+  - title: "Zoom Vows Not To Use Your Calls To Train Artificial Intelligence"
+    excerpt: "Videoconferencing company Zoom has clarified a policy that had some users nervous. It will not be using its calls to train AI. A recent terms of service update implied customer video calls could"
+    publishedDateTime: 2023-08-12T01:55:00Z
+    webUrl: "https://deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/"
+    ampWebUrl: "https://deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 72
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1466243151.jpg?w=1024"
+        width: 1024
+        height: 606
+        isCached: true
 
 secured: "M1NM9/Xr4LXyfmn1629QIqKW6nwdlFTjhI8G+qeE/yekqTbRSAuTicWakMFc9UDgf6E6ICi104moO71Oev9c0ps+hqBWpaveb9T/E3cAdX89SnPTlDiM/3n8h2sl0y3e1yeG2CHA6Pw7xtTkeCSthZttg2+cLlF1dG22+Q7DKSQ3BxE89sVsyY+M83Rl3/TMPcvD1oIre8gYlLMbT7dWRnZLVdLaBJJTVHsCiVrFHVr2yk+3Mffhfm6n4Hfx182T4V0iMDikwzTjVqj0a4tMpHE2CpIfSlqFzwtSgYd2jAhAL8ePGKGqTXmcazYC7M4//4vqoOfhtX5vbapRup2VcxgKekLTla35bvV++BJJN9mUeF8b18RVYhuGXKVivr8g/Tym345n9au/TdnGBSWRrHFLV2EpH4apoMMO5f1T1k4+u37vUH90tJ6o83mDyc0ueiioLPXarDWW3tI/wUPKL9w0wpUpiafBgOjbEiSIz2hEL35NCXs6xcxn1yA7NaUBCf/5/LSMc44uK01xcXerCw==;STmY/vFkcJ8l9cH5bs6nCQ=="
 ---

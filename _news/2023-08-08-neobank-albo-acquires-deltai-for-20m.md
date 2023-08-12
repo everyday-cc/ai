@@ -41,20 +41,6 @@ related:
         width: 650
         height: 487
         isCached: true
-  - title: "Mexican neobank albo acquires delt.ai for $20 million"
-    excerpt: "Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
-    publishedDateTime: 2023-08-07T08:43:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97684/mexican-neobank-albo-acquires-deltai-for-20-million"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "OdD1iMfjyBeEOTEpxjtKMtt7XtwSzADMCzvY/XOUKuHjB0oxmC1Zni/WVKQ5ZHlvYFUOUdRnAfq1YsAWYuYVqQ52r4Sw38ma2pqy+hYFriC+3J7VePSJWmEyzG0VmCS+iFpaxMIFq2LyhuVSl2ImhTEMnLYcsWTCZvkrxpNGuTUqit6oI/uk9pVkOm0Q+tB072r3yN+y0o8Go8MyyJu+RBQ2QBeXQnZ1BW+NpddXUM1f5Yv7vBR4tsIwachRMQqHmKoaLSb4mhx3Ne6lEz/Laj/YWKTVfW3WvSc2fKouoJ74e9jUs552qDgWF2yWhxfuzIo7Fs0XrKIAGgZs3zn/erGjtJd4BCDwh6aOxwSRJsMZN1E8+ZndkQYMH/Xs4tMvnpErs7N4aPhLRDdEcX51BGvwt5YIKSiOCiaNzUUmYZc0U/QhjSLJ+RtZ52fKzxonczxyfX4cUZjsKgTZ9xGrJ1KacmAPsp46d9fO2Dgbb9fVg4FjLYjTbnx+7cxtY7ATxQciY2v7rmGHSgH092HS5g==;saxWE4N6I2qi8rZ9ZPnF9Q=="
 ---

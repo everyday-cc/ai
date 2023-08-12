@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-14-googles-deepmind-learns-to-reproduce-human-speech-tricks-us-into-starting-robot-apocalypse.md",
+      "title": "Google's DeepMind learns to reproduce human speech, tricks us into starting robot apocalypse",
+      "excerpt": "Google’s DeepMind AI division is famous for defeating the Go world champion and for performing medical research with the UK’s NHS. But the team has developed a very impressive new technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/googles-deepmind-learns-to-reproduce-human-speech-tricks-us-into-starting-robot-apocalypse/",
+      "originalUrl": "https://www.neowin.net/news/googles-deepmind-learns-to-reproduce-human-speech-tricks-us-into-starting-robot-apocalypse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2016/05/ex_machina_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/googles-deepmind-learns-to-reproduce-human-speech-tricks-us-into-starting-robot-apocalypse/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/googles-deepmind-learns-to-reproduce-human-speech-tricks-us-into-starting-robot-apocalypse/",
+      "publishedDateTime": "2023-07-14T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here.md",
       "title": "‘Overwatch: Genesis’ Remembers Sentient Robot Aurora In Its Second Episode, Watch It Here",
       "excerpt": "The second episode of Genesis, the Overwatch anime miniseries, just dropped, and you can watch it below. The latest installment is called “Innocence” and we get to learn more about Aurora, the first omnic that became sentient in this world. The robot travels the planet to learn more about humanity and herself.",
@@ -1326,49 +1379,6 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-ai-robots-say-they-have-no-plans-to-steal-peoples-jobs.md",
-      "title": "AI robots say they have no plans to steal people’s jobs",
-      "excerpt": "Other robots at the conference spoke about how they will work 'alongside humans'.\"I will be working alongside humans to provide assistance and support and will not be replacing an",
-      "sourceUrl": null,
-      "webUrl": "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710",
-      "originalUrl": "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt3bbac8804ae9effd/64ab5b509ead61410cfd5d19/Screen_Shot_2023-07-10_at_11.12.59_am.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-09T18:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LADbible",
-        "domain": "ladbible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

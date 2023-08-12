@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Robotics
+  - Machine Learning
 
 related:
   - title: "Liquid neural networks: how a worm solves AI’s problems"

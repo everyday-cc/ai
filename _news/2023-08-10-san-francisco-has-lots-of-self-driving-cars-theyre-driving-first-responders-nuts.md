@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "San Francisco drives tech; will it drive away robot taxis?"
+    excerpt: "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence, but when it comes to self ..."
+    publishedDateTime: 2023-08-08T01:02:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/san-francisco-drives-tech-will-it-drive-away-robot-taxis-2023-08-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 71
+    images:
+      - url: "https://www.reuters.com/resizer/UGMeovV1vj3t5SxbyMpFlVNUJ4o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ4PYLGTDNJWZI3XIRQPZJMW5I.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "California Okays Driverless Taxi Expansion for San Francisco"
     excerpt: "The state's green light, on a 3-1 vote by the California Public Utilities Commission, signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality."
     publishedDateTime: 2023-08-11T16:09:00Z
@@ -50,6 +64,20 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 48
+  - title: "San Francisco drives tech; will it drive away robot taxis?"
+    excerpt: "SAN FRANCISCO (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... Inc’s Waymo and General ..."
+    publishedDateTime: 2023-08-07T10:24:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/08/07/san-francisco-drives-tech-will-it-drive-away-robot-taxis"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 41
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/08/07/2218721.jpg"
+        width: 800
+        height: 525
+        isCached: true
   - title: "Cruise, Waymo given green light for robo-taxis across San Francisco"
     excerpt: "Waymo, Cruise self-driving cars can charge for taxi service. Companies have promised thousands of additional cars on San Francisco streets."
     publishedDateTime: 2023-08-11T01:19:00Z
@@ -64,29 +92,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Despite Public Safety Concerns, CA Driverless Taxis Get Green Light"
-    excerpt: "\"They're not ready for prime time,\" San Francisco Fire Chief Jeanine Nicholson said recently, adding that they have interfered with 55 recent incidents."
-    publishedDateTime: 2023-08-11T14:10:00Z
-    webUrl: "https://www.firehouse.com/operations-training/video/53068921/despite-public-safety-concerns-ca-driverless-taxis-get-green-light"
-    type: article
-    provider:
-      name: Firehouse
-      domain: firehouse.com
-    quality: 39
-    images:
-      - url: "https://img.firehouse.com/files/base/cygnus/fhc/image/2023/08/maxresdefault.64d63c06c7728.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "120 driverless road trains for the West Pilbara"
-    excerpt: "In a world-first, MinRes will deploy a fleet of 120 autonomous road trains, which will each carry 330 tonnes of iron ore along a 150km route."
-    publishedDateTime: 2023-08-08T03:59:00Z
-    webUrl: "https://bigrigs.com.au/2023/08/08/120-driverless-road-trains-for-the-west-pilbara/"
-    type: article
-    provider:
-      name: Big Rigs
-      domain: bigrigs.com.au
-    quality: 34
   - title: "Cruise, Waymo await decisions on self-driving service in San Francisco"
     excerpt: "Barring another delay, Cruise and Waymo expect to hear Thursday from the California Public Utilities Commission whether they can expand the scope of their commercial services offered in San Francisco."
     publishedDateTime: 2023-08-08T11:55:00Z
@@ -138,15 +143,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "San Francisco drives tech; will it drive away robot taxis?"
-    excerpt: "SAN FRANCISCO (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... allow robot car providers Alphabet Inc’s Waymo and General Motors’ Cruise to expand ..."
-    publishedDateTime: 2023-08-07T11:07:00Z
-    webUrl: "https://www.aol.com/news/san-francisco-drives-tech-drive-101320740.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 21
   - title: "AI boom jolts San Francisco office market"
     excerpt: "Ten AI companies are today seeking between 700,000 to 800,000 square feet of office space in San Francisco, per JLL, which says AI companies have already tripled their footprint in the city since 2016. JLL said its confidence is based on anonymized foot traffic and cell phone use data from Placer.ai, demographic and office neighbor information."
     publishedDateTime: 2023-08-10T10:00:00Z
@@ -155,6 +151,15 @@ related:
     provider:
       name: Axios
       domain: axios.com
+    quality: 17
+  - title: "San Francisco AI observability startup raises $50M"
+    excerpt: "Weights & Biases helps other AI developers monitor their code so it can be audited, organized and debugged — preventing so-called black boxes. The San Francisco startup just raised some fresh funding."
+    publishedDateTime: 2023-08-09T17:50:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/08/09/san-francisco-ai-observability-startup-raises-50m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 17
   - title: "Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan"
     excerpt: "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked me up"
@@ -207,6 +212,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "iwn3ASqecUGfpNsLr0wJLfthDq2XjbfIB/R4PacdDSol+Xp5b5c7HAd4Dhr94xvqXOPD6P+0SgqefHs8rI0Po7pAXqQryP84+NtaYoqcf5iFunaSt0GwyaCzxBcZSk6pP/F2F46v+LGsDpTy9q9+rvXD3e8LfCqrlNjCApZegPL/+uBPJ/GoXHvXIvSpeC/yG92FQbA+gAU84/t+71X+9r7P23Xlro1qqUV4w0jBg+0mKCvLrD1tyTRzPgqsfc2PgFxVGBqaFy1Vqd+HNuSCpXZ/6WSB8t8c2aJXMHCTQtTtymJSnFTlWxGpK887UinAc7ADKFU0hnEaX4k3/M3wR9QrKEyGxxIugMybyRTt3IA=;IHyNTl57vX4imndUBhjGLg=="
+secured: "Cp35i79+AY9IBA7ODbTBj9wrzTPmNN1La2+faugyYnxQABoW9XYaByVEL3yNZTbrO2ZEwODVENqVA13EWZOuYQ0BqBredU7lLc2OpifNmlYGrre1+Ky9Hv2K69jdjmCLhUx/eD71L9OPEAzm9MUArKXgXpOTvnVx9f1emL79koRvwOkrPK2BAx4v1gAJbpDH9KVUNlOgZGvLqrhnUfnvkdZukjArhkyRTA0jP0wcGxzOgrObBsaVgDUppXiwVXDwx0AZLaN2f5SDsFRPbU19Dur5hpqQ2Mx8vA0s1C64P9cjb558ifIkt8y+uPWGsypPWJ2RnNrwdY0mU+qQ1W+KXWVy4l8uxDp+tBCiIOIqz0R2YpM5VrwwYYtvRziWwtrtcXrB8SmBhIj43cVtDha3GhQjWH8n+fQkbxdvvW+Dpx3RYlvCqEEJahKh6gCAWU/gagQZK9WesJfckRsdj9KV4KmzfZcmGy5eX+QjK3I+yWEkoHx9k+Zo0pPpIhrC8hITQ3QadPyjumtuU+0yEzL7RA==;nxspdb2pIUn8B9YTeBZLmQ=="
 ---
 

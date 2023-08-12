@@ -375,20 +375,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Woman falsely arrested while eight months pregnant due to faulty facial recognition tech sues Detroit"
-    excerpt: "A woman who was eight months pregnant when faulty facial recognition technology led to her false arrest on carjacking charges is suing the city of Detroit and the police detective assigned to her case."
-    publishedDateTime: 2023-08-07T08:34:00Z
-    webUrl: "https://www.aol.com/lifestyle/woman-falsely-arrested-while-eight-013400761.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Detroit police in deep water after using erroneous facial recognition to arrest pregnant black woman"
     excerpt: "Detroit police in deep water after using erroneous facial recognition to arrest pregnant black woman - SiliconANGLE"
     publishedDateTime: 2023-08-08T02:51:00Z
