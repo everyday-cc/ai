@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/doctor-burnout-ai-assistant-help-p
 webUrl: "https://www.businessinsider.com/doctor-burnout-ai-assistant-help-paperwork-administrative-tasks-2023-8"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -20,22 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "AI is here — and it's changing the way houses are bought and sold"
-    excerpt: "Artificial intelligence has entered the realm of residential real estate on the Midpeninsula as droves of millennials become homebuyers and turn to virtual assistants to guide them through the homebuying process."
-    publishedDateTime: 2023-08-07T23:10:00Z
-    webUrl: "https://mv-voice.com/news/2023/08/07/ai-is-here---and-its-changing-the-way-houses-are-bought-and-sold"
-    type: article
-    provider:
-      name: mv-voice
-      domain: mv-voice.com
-    quality: 37
-    images:
-      - url: "https://mv-voice.com/news/photos/2023/august/7/47268_col.jpg"
-        width: 790
-        height: 1368
-        isCached: true
 
 secured: "0KIbtqNPEinVrtFmf9HYSarAv5jablqyZe7HkR1JfvXT8+osYZzCyF+mMdn4Btztvh1aGG0s+2Vha/Djmus5lBwK6CJXmJMhyg6FZJM7OTpEb9jDn4A9aKxMeyf1ZlkbSl3F+SDum7dXXjCu5Ba+DIu0/HoFdp1Uk5Bb019nmVfcHLap0LbEmPCE+khzFxDrGfHGKcoNz0Id6b6wyF/umR5bQDTeKyvL5zwLxORnXvqAFBbConLdURw6t0fKhPpldHanWAfXQpx5QUAriiq0Z0Il+lOlES4HW4ENB31EEK1vaaTaTrfosAig6sokXeXQbsngg1dJFmwCKF8hDrmmKWdML6bqjgZ1UYzNOA0yHQxkb+axdmer6Uj17+Dy3rnAxQ1xhr/IPCnzQqXN01CuoBt76d7IQueDMEjkU+9Goj2+2lhRfeRhtOiHBuOYhmawmejR0Do4074UT7TYHEs4O4QnkTrVp8Dzw+B06iT5gYEORkMoCnMjKZh1MtpO2pAiLm5p2BmzqaQk3rAvG/0vsw==;CHD1Po2Bc3Er+O99onvKig=="
 ---

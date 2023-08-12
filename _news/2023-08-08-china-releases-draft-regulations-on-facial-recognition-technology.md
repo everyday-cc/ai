@@ -174,20 +174,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Carjacking case arrest spurs call for police to end facial recognition"
-    excerpt: "A Detroit woman is suing the city and a police officer, saying she was falsely arrested when she was eight months pregnant and accused of a carjacking based on facial"
-    publishedDateTime: 2023-08-07T23:42:00Z
-    webUrl: "https://www.northwestgeorgianews.com/carjacking-case-arrest-spurs-call-for-police-to-end-facial-recognition/video_abf9c0c7-b2ce-511d-94f8-4326b2ced46e.html"
-    type: article
-    provider:
-      name: Rome News-Tribune
-      domain: northwestgeorgianews.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/a/bf/abf9c0c7-b2ce-511d-94f8-4326b2ced46e/64d18cb52a358.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Application of facial recognition tech needs to be strictly regulated"
     excerpt: "Although the technology will improve efficiency and convenience, it brings with it deep security risks. The draft regulation is aimed at improving standardized application and compliance of facial recognition technology in order to effectively protect personal information and property rights, and maintain social order and public safety."
     publishedDateTime: 2023-08-09T23:36:00Z

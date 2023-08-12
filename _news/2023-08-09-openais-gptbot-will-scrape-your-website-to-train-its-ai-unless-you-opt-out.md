@@ -54,20 +54,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Distributed AI technique accelerates picking robot training"
-    excerpt: "FLAIROP research project successfully aggregates learned tasks from multiple robots without revealing sensitive training data."
-    publishedDateTime: 2023-08-08T00:22:00Z
-    webUrl: "https://www.design-engineering.com/TGVze"
-    type: article
-    provider:
-      name: design-engineering.com
-      domain: design-engineering.com
-    quality: 54
-    images:
-      - url: "https://www.design-engineering.com/wp-content/uploads/2023/08/23-Aug-Festo-AI-Robotics-850.jpg"
-        width: 850
-        height: 347
-        isCached: true
   - title: "OpenAI Shoots To No. 1 Spot On Private Cloud Startup Ranking, Underscoring AI’s Sudden Ascendency"
     excerpt: "OpenAI’s rise to the top of the ranking in Bessemer's Cloud 100 cohort underscores AI’s shockingly fast ascendency in the tech world."
     publishedDateTime: 2023-08-09T11:00:00Z

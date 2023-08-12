@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "Singapore central bank pledges $150 million to support new fintech projects"
-    excerpt: "Singapore's central bank is to commit up to $150 million to support startups developing innovative financial technologies over the next three years."
-    publishedDateTime: 2023-08-07T23:23:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42745/singapore-central-bank-pledges-150-million-to-support-new-fintech-projects"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5485.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "2023’s Biggest Fintech Acquisition Deals"
     excerpt: "To get a sense of this year’s fintech M&A landscape, we compiled a list of eight of the largest merger and acquisition (M&A) deals in the sector announced in the first half of 2023."
     publishedDateTime: 2023-08-08T04:07:00Z

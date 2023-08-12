@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-block-openais-new-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/"
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.rollingstone.com/wp-content/uploads/2023/08/Zoom-AI.jpg?crop=0px%2C134px%2C1800px%2C1014px&resize=1600%2C900"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Distributed AI technique accelerates picking robot training"
-    excerpt: "FLAIROP research project successfully aggregates learned tasks from multiple robots without revealing sensitive training data."
-    publishedDateTime: 2023-08-08T00:22:00Z
-    webUrl: "https://www.design-engineering.com/TGVze"
-    type: article
-    provider:
-      name: design-engineering.com
-      domain: design-engineering.com
-    quality: 54
-    images:
-      - url: "https://www.design-engineering.com/wp-content/uploads/2023/08/23-Aug-Festo-AI-Robotics-850.jpg"
-        width: 850
-        height: 347
         isCached: true
   - title: "OpenAI's GPTBot Will Scrape Your Website to Train Its AI, Unless You Opt Out"
     excerpt: "A new web crawler dramatically expands the amount of data OpenAI's models will train on, but the company says you can opt out to prevent it from visiting your website."

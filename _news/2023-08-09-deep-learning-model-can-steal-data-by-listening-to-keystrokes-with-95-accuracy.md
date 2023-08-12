@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deep-learning-steal-data-ai-keystrokes
 webUrl: "https://thenextweb.com/news/deep-learning-steal-data-ai-keystrokes"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/09/b9eab125-be6d-45e9-9967-87679b09bacc/thumbnail/1200x630/43e9cdab271801c00e862738427460bb/cbsn-fusion-ai-could-steal-information-by-listening-to-you-type-study-finds-thumbnail-2193229-640x360.jpg?v=4c3eff96812a3b6c2e014b1daed33369"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Terrifying ‘deep learning attack’ can steal your passwords by listening to you type"
-    excerpt: "According to researchers involved in the study, the deep learning system was able to log keystrokes with a 93 percent accuracy rating when listening to the target typing on their keyboard. The system was taught by pressing the keys on an Apple Mac keyboard multiple times at different levels of pressure."
-    publishedDateTime: 2023-08-07T23:23:00Z
-    webUrl: "https://bgr.com/tech/terrifying-deep-learning-attack-can-steal-your-passwords-by-listening-to-you-type/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 33
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2021/04/rsz_adobestock_233944854.jpg?quality=82&strip=all"
-        width: 1368
-        height: 912
         isCached: true
   - title: "New deep learning model can predict passwords from keystroke sound with 95% accuracy"
     excerpt: "A team of researchers in the United Kingdom developed a deep learning model that can accurately predict what you are typing based on the sounds from keyboard keystrokes, Bleeping Computer reported on August 5. According to the research paper, the model has ..."

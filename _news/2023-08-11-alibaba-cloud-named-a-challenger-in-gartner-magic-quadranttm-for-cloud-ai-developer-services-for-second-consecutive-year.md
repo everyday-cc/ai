@@ -50,20 +50,6 @@ related:
         width: 375
         height: 215
         isCached: true
-  - title: "UiPath named a Leader in the 2023 Gartner Magic Quadrant for Robotic Process Automation report"
-    excerpt: "UiPath, a leading enterprise automation software company, today announced it has been positioned by Gartner as a Leader in the 2023 Gartner Magic Quadrant for Robotic Process Automation research report."
-    publishedDateTime: 2023-08-08T00:24:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/uipath-named-a-leader-in-the-2023-gartner-magic-quadrant-for-robotic-process-automation-report.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 12
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/1c1009612d946dd89c8ad7df8bb3a290_M.jpg"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "6mHc8AYNTbTuYonLMqMv/XT8cU9Ws1tbcorIPW/arqZ3SroPYBEigH97ZF7S/H06aaSp6GlWikDCGtwVTh4FbBNoOoHTJnYYQUQmFiz/tcvhbS2EI9lXvYHcF/KF0LeFd8/zXF74CLFPeEbRR/qe0W8K9TZRM3z2eP2BsJ9xFogzRbxT9PZPDd4I7RaAOGvF7c1RMUyk/iDtQLuNi7k+1AwlYbH7ysbi63XzCBc6P04bmse+roaLh7il3NNDjd8UHsGOSWPiCugtlHOsdaRc436BmhOsiZfVwhkq1bIA/ZGbIoL0oIGsMM4NnfRiquX7iwaG13oIdc8o36tYWDO9AS9owSNDNhQ+Ehqrnrlt2uw=;wHcisPA77OqFD/FjRdbB/A=="
 ---

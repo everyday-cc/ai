@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Terrifying ‘deep learning attack’ can steal your passwords by listening to you type"
-    excerpt: "According to researchers involved in the study, the deep learning system was able to log keystrokes with a 93 percent accuracy rating when listening to the target typing on their keyboard. The system was taught by pressing the keys on an Apple Mac keyboard multiple times at different levels of pressure."
-    publishedDateTime: 2023-08-07T23:23:00Z
-    webUrl: "https://bgr.com/tech/terrifying-deep-learning-attack-can-steal-your-passwords-by-listening-to-you-type/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 33
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2021/04/rsz_adobestock_233944854.jpg?quality=82&strip=all"
-        width: 1368
-        height: 912
-        isCached: true
   - title: "New deep learning model can predict passwords from keystroke sound with 95% accuracy"
     excerpt: "A team of researchers in the United Kingdom developed a deep learning model that can accurately predict what you are typing based on the sounds from keyboard keystrokes, Bleeping Computer reported on August 5. According to the research paper, the model has ..."
     publishedDateTime: 2023-08-08T11:46:00Z

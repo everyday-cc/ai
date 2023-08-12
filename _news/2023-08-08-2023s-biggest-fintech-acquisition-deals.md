@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "Singapore central bank pledges $150 million to support new fintech projects"
-    excerpt: "Singapore's central bank is to commit up to $150 million to support startups developing innovative financial technologies over the next three years."
-    publishedDateTime: 2023-08-07T23:23:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42745/singapore-central-bank-pledges-150-million-to-support-new-fintech-projects"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5485.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Hong Kong tech firm, ASL, accelerates growth in fintech arena with Finastra"
     excerpt: "HONG KONG, Aug. 8, 2023 /PRNewswire/ -- Automated Systems Holdings Limited (ASL) (771.HK), a leading global IT solutions and services provider, has strategically partnered with Finastra, a global provider of financial software applications and marketplaces, to bolster its industry-specific DevSecOps business and strengthen its fintech trajectory."
     publishedDateTime: 2023-08-08T05:04:00Z

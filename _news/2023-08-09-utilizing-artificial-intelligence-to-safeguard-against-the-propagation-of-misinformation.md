@@ -27,8 +27,8 @@ images:
 related:
   - title: "A tsunami of AI misinformation will shape next year’s knife-edge elections"
     excerpt: "If you thought social media had a hand in getting Trump elected, watch what happens when you throw AI into the mix"
-    publishedDateTime: 2023-08-12T14:00:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/aug/12/a-tsunami-of-ai-misinformation-will-shape-next-years-knife-edge-elections"
+    publishedDateTime: 2023-08-12T15:13:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/aug/12/a-tsunami-of-ai-misinformation-will-shape-next-years-knife-edge-elections?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/12/a-tsunami-of-ai-misinformation-will-shape-next-years-knife-edge-elections"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/12/a-tsunami-of-ai-misinformation-will-shape-next-years-knife-edge-elections"
     type: article

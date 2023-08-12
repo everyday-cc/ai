@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/detroit-woman-at-center-of-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 226
+published: true
 
 provider:
   name: CBS News
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Black mom sues city of Detroit claiming she was falsely arrested while 8 months pregnant by officers using facial recognition technology"
-    excerpt: "Woodruff later learned she was implicated in the alleged incident after the facial recognition software hit as well as the carjacking victim allegedly identified her in a lineup of six photos that ..."
-    publishedDateTime: 2023-08-08T00:14:00Z
-    webUrl: "https://www.cnn.com/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 71
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230807154058-porcha-woodruff.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Detroit Police Seek Change After Facial Recognition Lawsuit"
     excerpt: "The Detroit Police Department is pursuing changes to its facial recognition policy in the wake of a woman's federal lawsuit alleging she was arrested at eight months pregnant based on an unreliable hit."
     publishedDateTime: 2023-08-10T15:51:00Z
@@ -99,20 +83,6 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/08/9a9b1483-c998-44d7-bb44-bbdb0f8dbcc6/thumbnail/1200x630/dab634bcf926ec2f907d8d3776ecb1d9/detroit-police.jpg?v=4c3eff96812a3b6c2e014b1daed33369"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facial recognition error led to pregnant Black woman’s arrest in Detroit"
-    excerpt: "An automated facial recognition search error led to the wrongful arrest of a pregnant Black woman in Detroit. Porcha Woodruff, a 32-year-old licensed aesthetician and ..."
-    publishedDateTime: 2023-08-08T00:22:00Z
-    webUrl: "https://thegrio.com/2023/08/07/facial-recognition-error-led-to-pregnant-black-woman-arrest-detroit/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 38
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2020/07/DETROIT-1-scaled.jpg?w=428"
-        width: 428
-        height: 240
         isCached: true
   - title: "Third person sues Detroit Police over false arrest based on facial recognition"
     excerpt: "Police arrested Porcha Woodruff, a 32-year-old Black woman, for robbery and carjacking based off a facial recognition hit from surveillance footage. But Woodruff didn't do it, and critics say this is more proof the technology is flawed,"
@@ -197,20 +167,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/chris-curry-HowMXqv-ty4-unsplash.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Detroit woman sues city over false arrest while 8 months pregnant due to faulty facial recognition"
-    excerpt: "A Detroit woman who claims she was falsely arrested for carjacking and robbery while eight months pregnant is suing the city over faulty facial recognition technology used by the police department, according to court documents."
-    publishedDateTime: 2023-08-07T23:50:00Z
-    webUrl: "https://www.cbsnews.com/detroit/video/detroit-woman-sues-city-over-false-arrest-while-8-months-pregnant-due-to-faulty-facial-recognition/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 25
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/07/9802ad96-4197-460b-a567-1af020bb108c/thumbnail/1200x630/2512c50904a026ae5bda7ee10408817d/e2ce76d9698c8b642d8a385de025f5d8.jpg?v=4c3eff96812a3b6c2e014b1daed33369"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Detroit police in deep water after using erroneous facial recognition to arrest pregnant black woman"
     excerpt: "Detroit police in deep water after using erroneous facial recognition to arrest pregnant black woman - SiliconANGLE"

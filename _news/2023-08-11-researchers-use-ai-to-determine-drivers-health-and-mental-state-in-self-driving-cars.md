@@ -41,6 +41,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Self-driving Cars Sensors Market Size and Strategies 2023-2030"
+    excerpt: "The Self-driving Cars Sensors Market (2023-2031) Our research report provides a comprehensive market analysis covering a wide range of products and applications. The report delves into crucial ..."
+    publishedDateTime: 2023-08-08T08:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/33627455/self-driving-cars-sensors-market-size-and-strategies-2023-2030"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33627455"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33627455"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Redefining Robotics: Purdue University’s Innovative Machine Vision Solution"
     excerpt: "Researchers at the esteemed Purdue University have made a significant leap in the realm of robotics, machine vision, and perception. Their groundbreaking approach offers a marked improvement over conventional techniques,"
     publishedDateTime: 2023-08-11T12:35:00Z
@@ -105,6 +121,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/starbeacon.com/content/tncms/custom/image/760622da-825e-11e5-8595-a7eb0b0092f8.jpg?resize=600%2C315"
         width: 600
         height: 315
+        isCached: true
+  - title: "People having sex in self-driving taxis: Report"
+    excerpt: "San Francisco: As the popularity of autonomous vehicles continues to surge in San Francisco, a growing number of riders are wondering just how far they can push the vehicles’ capabilities, and to test that they are having sex in self-driving taxis."
+    publishedDateTime: 2023-08-12T16:46:00Z
+    webUrl: "https://telanganatoday.com/people-having-sex-in-self-driving-taxis-report"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 24
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/self-driving-taxis.jpg"
+        width: 1280
+        height: 750
         isCached: true
   - title: "A New Era in Environmental Monitoring: Uniting Satellite Data Analytics and Artificial Intelligence"
     excerpt: "Welcome to a pioneering era in environmental monitoring, where state-of-the-art technology converges with our pressing demand for sustainable solutions. Today, we delve into a groundbreaking innovation that harnesses the potential of satellite data analytics empowered by artificial intelligence (AI)."
