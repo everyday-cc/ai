@@ -67,6 +67,15 @@ related:
         width: 1146
         height: 692
         isCached: true
+  - title: "California regulators vote to allow self-driving taxis to operate 24-hours a day"
+    excerpt: "California regulators vote 3-1 to allow Waymo and Cruise to operate driverless robotaxis 24/7 in San Francisco, despite concerns."
+    publishedDateTime: 2023-08-12T13:00:00Z
+    webUrl: "https://smdp.com/2023/08/12/california-regulators-vote-to-allow-self-driving-taxis-to-operate-24-hours-a-day/"
+    type: article
+    provider:
+      name: Santa Monica Daily Press
+      domain: smdp.com
+    quality: 0
 
 secured: "gpvWUl1G/udspFNkXUwth4w0NbmiCwyNl6Aa+aWD6icTviWSvDX6MrBXhVxBpKEJNIiFgjfgHI700JuRUy+XPJQJFom8FtOEOg6soQZ4Fu8MYoxX+rNTjY1i/O7Yc/lvejJAX8LoaFULHjpOhSO6FNbUw5KZAPg37HzLkQUm+botr7Rhw5+RwiKnpElv4FjJMnkbHcRXSYPoP0B9vozco3KEww3xuTDCGuK9prC8MDUQx4On5L03yL/FOYggpSOOUoqI7uq2qnxnHMgIsOIUzFMelQRpE8pmg+hfGGAAxwpCbQMFyy1vKY7HOi4V/SFQKP1w3TbCV9+gsMfY85b8qHwoCRkdBBpE4jf65XvKeEeoBM2/DrF8Vaa+LTJcUmgy/UybEO4+BlFpZygWbzqTxzJDOekY3WYIt7UFDTBfQm+nK6dme/VP5U5ucICKvXZjxrlnaS8wNtIgM3HJbGdI66f7K1oDmVsaMhanCgQi49tMeJYt26QQajzHXbQkFau0oVKflh6mLxUaz2zrJHSQ2w==;+N/CZ+3AHXb2Ly94hgkXSA=="
 ---

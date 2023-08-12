@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/idsA$n?now=true"
 webUrl: "https://www.reuters.com/video/watch/idsA$n?now=true"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
         width: 1146
         height: 692
         isCached: true
+  - title: "California regulators vote to allow self-driving taxis to operate 24-hours a day"
+    excerpt: "California regulators vote 3-1 to allow Waymo and Cruise to operate driverless robotaxis 24/7 in San Francisco, despite concerns."
+    publishedDateTime: 2023-08-12T13:00:00Z
+    webUrl: "https://smdp.com/2023/08/12/california-regulators-vote-to-allow-self-driving-taxis-to-operate-24-hours-a-day/"
+    type: article
+    provider:
+      name: Santa Monica Daily Press
+      domain: smdp.com
+    quality: 0
 
 secured: "qasRA8uRpzZzrTdTzfNmt0TMJ3chsPoiAnOq3v8hbxgaw1KNuCWc1IfsTPU9HYN/eUfbRsRSVVPCyqlgOmWKWR/JODWNrIzrYPpFCAghGNQmvUuj8el09mYeyuxyURxbi1fpns6SGooWWlTMBEVm0urchFyfvpDWyQx1tUbwK5QTdvtcLfSkP4xyUqpABd/+lLKC8nkaHw3lIE7FcvuVcatPpcdR8ss324SN90SdZWjoLh9QIiwvCTM8gfxCt+fEVXEDdrQPqvrwY1LLouIlQYupeicdIvl28MP9lpBHXB2MR18VYftRd2euOsY+Nff2C2Ic3RTZej450iIneKYptrRddeMvO1foaYxGFjEpxBA=;by7xSwfnPyBSzzdZ43bo5g=="
 ---

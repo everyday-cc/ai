@@ -7,8 +7,8 @@ originalUrl: "https://blog.google/technology/ai/ai-airlines-contrails-climate-ch
 webUrl: "https://blog.google/technology/ai/ai-airlines-contrails-climate-change/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Google
@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
   - Google AI
-
-related:
-  - title: "Understanding The Impact And Driving Factors Of Conversation AI"
-    excerpt: "The advent of conversation AI signifies a major leap in the evolution of data management and interaction. It democratizes data access and has the potential to optimize an array of processes across diverse sectors. It not only simplifies data analysis but also fosters a more engaged approach to data exploration."
-    publishedDateTime: 2023-08-07T13:29:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/understanding-the-impact-and-driving-factors-of-conversation-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "mK1xJiRANDI9pUZQJa5RBJb6p+tKAxnKn2ERvX6aAU/u2xysMmOH0uFmeRiBFcR+NXGk+UYX296Mg9QT8fuXlSPj1fch9VtaUai/tfA7nYH1JK2McE/tln6HyFh0jcFRFqbsO8Lnh+xMGcNHs6ONLeB0ngmRBv1R4kzb+b4k4o/HhEbBCLsfLJzOv7Cqf8b5esJOwBCIXhbxAkZo/+CmNABglk3/Y3//DN8+WS0Tq1Pq+lxNmStTk+QqYP/wqVkHUvrjr5H/KVcNGZ0ah29Gd13/qUV1G9rmBkui+cqCRR1hQwRDUzYyFh14olKseHjzHQUL1HcVtcMWIzMeun5Q2C06EqXUrsCM0PAxz1g9T1w=;1cmKLm7iVOFrsUVXbvVM8Q=="
 ---

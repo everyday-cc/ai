@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "ABBYY Promotes Chip VonBurg to Chief Customer Officer to Accelerate Global Customers’ Intelligent Automation Success"
-    excerpt: "ABBYY today announced the appointment of Chip VonBurg to Chief Customer Officer (CCO), reinforcing ABBYY’s commitment to helping its customers achieve their intelligent automation goals faster."
-    publishedDateTime: 2023-08-07T16:45:00Z
-    webUrl: "https://www.cmswire.com/the-wire/abbyy-promotes-chip-vonburg-to-chief-customer-officer-to-accelerate-global-customers-intelligent-automation-success/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 0
   - title: "ABBYY Promotes Chip VonBurg to Chief Customer Officer to Accelerate Global Customers' Intelligent Automation Success"
     excerpt: "Chip VonBurg is appointed to Chief Customer Officer at ABBYY. His focus will be ensuring the success of customers worldwide in leveraging intelligent document processing and process intelligence solutions to put their information to work and yield actionable outcomes. (Photo: Business Wire)"
     publishedDateTime: 2023-08-08T11:24:00Z

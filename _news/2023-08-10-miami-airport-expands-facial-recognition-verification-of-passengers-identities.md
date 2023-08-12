@@ -85,15 +85,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Sivi AI: Pioneering the Design Revolution With Generative AI"
-    excerpt: "In the fast-paced world of digital marketing and content creation, visuals play a pivotal role in capturing audience attention and conveying brand messages effectively. As the demand for captivating designs grows,"
-    publishedDateTime: 2023-08-07T18:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33607119/sivi-ai-pioneering-the-design-revolution-with-generative-ai"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
 secured: "i9uUafF3h2ojGqi5ffuHVBX1hMcFhsSuXnKhlsNEx64sg3If5OhXVRdsm4lr7eb1M230oGkoQ41qcIB+d5rA4TeaKc3XNEhsGbdWdPD7suVgCGRueUsJsrHILZDvSi/6vHdnz61tPgDAx1yfPNzVN/gjVtsAZPBegwN/yN31YmgtLRngBcFyXeOpKXMUaBv8VyOHHfnoW7ZMl2WVB+Wead1jn3o6LaZMt84SerZXU2zRlS+/i5Myqh3pBCsXm+FF6TwS+XlTZiQ7ejBGmV5A0/k/LvZ1VAfERK6l3s1ZF8+A4yNyRxiys7CH7G4A1J7izjFYHo9KfHu1ao85sCRf6GucgqNhd82a3DpSg543grz5VrACe/Q/VszXdz9bnlcZ4yIQsrflg5n1YPqEberuN3HHB0tMoXYbDIWV3BroO/4AIlpxT/VqnA930F0Imle4LtgkPsTym2Q3N92Bao1ShO+/+vFXxKRMnlGVCjHT2tQKbuBdEfmM5qH9HJOJZl63UpYenGEfmpy040wTGKjoKg==;PM+rgX4NBFYseezDymmX2A=="
 ---

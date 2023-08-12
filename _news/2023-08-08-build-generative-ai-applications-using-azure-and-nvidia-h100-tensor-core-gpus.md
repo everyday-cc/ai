@@ -26,38 +26,105 @@ images:
     isCached: true
 
 related:
-  - title: "Scale generative AI with new Azure AI infrastructure advancements and availability"
-    excerpt: "We are excited to share a series of announcements that highlight Microsoft Azure’s commitment to driving innovation and empowering businesses with cutting-edge AI solutions.\nThe post Scale generative AI with new Azure AI infrastructure advancements and availability appeared first on Azure Blog.\n"
-    publishedDateTime: 2023-08-07T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/"
+  - title: "BOXX Upgrades AI Workstation Module with New NVIDIA L40S GPUs"
+    excerpt: "BOXX Technologies, the leading innovator of high-performance computer workstations, rendering systems, and servers, today announced that RAXX P1G, a rack-mounted"
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635531/boxx-upgrades-ai-workstation-module-with-new-nvidia-l40s-gpus"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33635531"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635531"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 78
-  - title: "Transforming sustainable agriculture: The Nature Conservancy Centre and IBM unite to reduce crop residue burning in North India"
-    excerpt: "In the pursuit of long-lasting solutions, TNCC has partnered with IBM to leverage the necessary technology and data resources.\nThe post Transforming sustainable agriculture: The Nature Conservancy Centre and IBM unite to reduce crop residue burning in North India appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-07T20:36:06Z
-    webUrl: "https://www.ibm.com/blog/transforming-sustainable-agriculture-the-nature-conservancy-centre-and-ibm-unite-to-reduce-crop-residue-burning-in-north-india/"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "NVIDIA Unveils RTX 5000, 4500 And 4000 Ada Workstation GPUs To Crush AI Workloads"
+    excerpt: "NVIDIA announced the much-anticipated expansion of its workstation graphics card lineup based on Ada Lovelace."
+    publishedDateTime: 2023-08-09T14:15:00Z
+    webUrl: "https://hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 54
-  - title: "Stability AI and Google target software developers with latest generative AI tools"
-    excerpt: "While Stability AI is taking its first stab at code generation with its latest generative AI model, Google has introduced a web-based development environment that aims to make life easier for developers building multiplatform applications."
-    publishedDateTime: 2023-08-09T01:58:00Z
-    webUrl: "https://siliconangle.com/2023/08/08/stability-ai-google-target-software-developers-latest-generative-ai-tools/"
+      name: HotHardware
+      domain: hothardware.com
+    quality: 69
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62253/content/NVIDIA_RTX_5000_Hero.jpg"
+        width: 708
+        height: 400
+        isCached: true
+  - title: "Nvidia flexes generative AI muscle at SIGGRAPH with new GPUs, development software"
+    excerpt: "GPU titan Nvidia doubled down on generative AI at SIGGRAPH this week, unveiling new chips, server designs, and software to fill out its ecosystem of artificial intelligence hardware and systems design products."
+    publishedDateTime: 2023-08-09T21:34:00Z
+    webUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.html"
+    ampWebUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Network World
+      domain: networkworld.com
+    quality: 68
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/08/nvidia-l40s-100944528-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Nvidia announces updated GH200 Grace Hopper GPU with HBM3e memory for generative AI workloads"
+    excerpt: "Nvidia has announced an updated version of its GH200 'superchip,' which will be the first GPU in the world to include HBM3e memory."
+    publishedDateTime: 2023-08-09T15:26:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-updated-gh200-grace-hopper-gpu-with-hbm3e-memory-for-generative-ai-workloads/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 43
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/GH200_HBM3e.2e16d0ba.fill-1200x630.png"
+        width: 1124
+        height: 592
+        isCached: true
+  - title: "Modular, AI Startup Challenging Nvidia, Discusses Funding at $600 Million Valuation"
+    excerpt: "Modular, a startup whose software aims to loosen Nvidia’s chokehold over in-demand artificial intelligence chips, has been in talks with investors including General Catalyst to raise Series A funding that would value it at roughly $600 million,"
+    publishedDateTime: 2023-08-11T23:21:00Z
+    webUrl: "https://www.theinformation.com/articles/modular-ai-startup-challenging-nvidia-discusses-funding-at-600-million-valuation"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
     quality: 31
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/ai-site-helping-with-software-production.jpg"
-        width: 2000
-        height: 1125
+      - url: "https://tii.imgix.net/production/articles/11057/9e8150d2-cb8c-42bb-8810-b35f1573e68a.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "NVIDIA at SIGGRAPH: DGX Integration with Hugging Face for LLM Training; Announcement of AI Workbench"
+    excerpt: "At the the SIGGRAPH conference this morning in Los Angeles, NVIDIA and Hugging Face made several generative AI-related announcements, including a partnership intended to broaden access to generative AI supercomputing (NVIDIA’s DGX cloud hardware) for developers building large language models (LLMs) and other AI applications on the Hugging Face platform."
+    publishedDateTime: 2023-08-08T16:02:00Z
+    webUrl: "https://insidehpc.com/2023/08/nvidia-at-siggraph-dgx-integration-with-hugging-face-for-llm-training-announcement-of-ai-workbench/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 24
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/04/jensen1.jpg"
+        width: 862
+        height: 800
+        isCached: true
+  - title: "NVIDIA, Global Workstation Manufacturers to Launch Powerful Systems for Generative AI and LLM Development, Content Creation, Data Science"
+    excerpt: "The systems, including those from BOXX, Dell Technologies, HP and Lenovo, are based on NVIDIA RTX 6000 Ada Generation GPUs and incorporate NVIDIA AI Enterprise and NVIDIA Omniverse™ Enterprise software."
+    publishedDateTime: 2023-08-08T17:35:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861311.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "kcenAB0yRMSfWQH7a76hW1h4v6AhaU0DnCOFj1wRyPuLMTm9q2384lTxoaHv5GGjov429/S1dN3YHjM7X6rlax2A6WGBi+tbCOX/oIYp4GGGqsj37HYHhjdnqNdA6M6MMZADhdtFPjnvR25Lp9yyftsYyQqv+pKIl+vw3Dvwe8HdOvvNrdJXdbcE3x+jroZCarmh/GtTwT84XDRI2j+0NEeaTqcfuxjf2ohnyjRJwkfQPk995lRtwSQwREuYOuwkL7Uaq1IewlnUDk1gjErVqQ3tAMqByekIET59eYeZ9TghWEzUYDmiW/WKph9uIueWNO1gBjVvLFMNKb/3kcSPGxFci0nzTKguzPiaA/TQYO3Yw1InkCJI9WGEVuWcpU5Ds4H65CGaaW41eU0jDjAT4bXSDVZW+1axz53F3sLVmpOP9bZGK+tRa8YJ72dMFSls+96NWsDUCo6HlL3z54SXhZPML/LYF6kPhLIEqtizb/oKpqI/e57y2q1ODon2/0wo7q+o8t4Rf8m/TojLxoLmjA==;SN75vlXru1U9ldeH6dqQ2g=="
 ---

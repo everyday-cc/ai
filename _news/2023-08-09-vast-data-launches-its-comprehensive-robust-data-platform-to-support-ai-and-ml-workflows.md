@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Abu Dhabi's artificial intelligence university establishes dedicated robotics & computer science ..."
-    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate"
-    publishedDateTime: 2023-08-07T17:37:00Z
-    webUrl: "https://www.businessghana.com/site/news/General/291437/Abu-Dhabi&"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 56
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-08-07-16502801.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Meta unveils AI audio and music generator"
     excerpt: "Meta’s AudioCraft is made up of three separate AI models: MusicGen, AudioGen and EnCodec. MusicGen exists for music generation and was trained with “Meta-owned” and specifically licensed music, while AudioGen specialises in audio generation and was trained on public sound effects."
     publishedDateTime: 2023-08-08T03:22:00Z
@@ -118,6 +104,15 @@ related:
       name: Manufacturing & Logistics IT Magazine
       domain: logisticsit.com
     quality: 16
+  - title: "The role of Artificial Intelligence in robotic-assisted surgeries – Harnessing the power of data and machine learning"
+    excerpt: "In recent years, the healthcare industry has undergone a remarkable transformation owing to the integration of artificial intelligence (AI) into various aspects of medical practice. Among the many groundbreaking developments,"
+    publishedDateTime: 2023-08-12T11:00:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-the-role-of-artificial-intelligence-in-robotic-assisted-surgeries-harnessing-the-power-of-data-and-machine-learning-3208178/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 11
 
 secured: "QZFbWaHaPGFz4pGzy58C/l92qhBw0UC1FmXtGoeGGOxxYuFFc37k1nwe3GCUFdZ2zaVR6OPFiiD1CfpYw/8AmRIDMk6TC+bTnrCD8cgh4LLGEwiahcr/rwnF7PCa7SGbATd7cABHHhXrbBgrLTSDevUDNrceXpDghGqpD4HS0GB6KLuJcCzRxi3G8LN72PSsjLlaPXJyRIILbQznqNybBWiTcq6nYlkzcyTyqDgVxdoXbFDqP/l+Q9zZlcggg2cK7g+b7XfaWvQ+Rx70wrYRlHFAJRzmSr5HRlsImXzs1EPFnh3zdo5AOCRcR1W2GBEoUI4d1C7CyFJoE+MrSSSk2TRhMn65K4YcujEmjlO0KA4=;yneC93i7CifyAJdVuLqR5Q=="
 ---

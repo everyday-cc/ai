@@ -33,6 +33,15 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Atlanta AI manufacturing startup Tractian raises $45M"
+    excerpt: "As advance manufacturing heats up in the U.S., an Atlanta startup that uses artificial intelligence to predict when machines need maintenance raised $45 million."
+    publishedDateTime: 2023-08-08T16:12:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/fundings/2023/08/08/tractian-startup-fundraising-manufacturing-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "Most Tech-Forward U.S. City Has Doubts About Self-Driving Cars"
     excerpt: "San Francisco officials and residents are not impressed by self-driving cars, underscoring the challenges ahead for autonomous vehicle companies."
     publishedDateTime: 2023-08-09T16:30:00Z

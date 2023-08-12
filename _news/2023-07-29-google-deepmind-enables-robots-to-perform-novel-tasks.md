@@ -5,8 +5,6 @@ excerpt: "Google has demonstrated its first vision-language-action (VLA) model f
 publishedDateTime: 2023-07-29T08:12:00Z
 originalUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
 webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
 type: article
 
 provider:
@@ -18,12 +16,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83854,msid-102228824/google-deepmind-enables-robots-to-perform-novel-tasks.jpg"
-    width: 600
-    height: 450
-    isCached: true
-
-secured: "rarpeTz1uvgrWqPtgEbZUVG1CZvdUdx/2elToUl7jCTWjmCpdax9KNCUOCLCN+pxSkOnO0PGm+Tcyu/MaWlftiCBrnC8brxvcli1necGSP1XVlsIuyHH4TeR8qSQsLaivqqKWlg8zf3E5RUQ6AA1l7bdpDrMp1EK6RkeG6wIe+3asBlZw8EaqGjPJGHig1/fAR6LYukj/gv5v4u0VVGSBGHDwvEiTgfbPeXTqYTUmzZKh6nwZv5ympYAery++XfBCw0y6uWzHGMDKZrY7eHJHnDhxa87/OsgR6RTHuc5mqtraiBpWvehu3kcVrplqxa+NGbNr0HuV5cOqt1FPzhjqf2bgYn7a5l0QxEP5GFq6e4=;sNo3yXFtkIXyhxH06VW2eg=="
+secured: "y06Alcaddz3s+MUIFNye94CCPl1wv/ccCm0GfbNlLa81GJF+1XJ9oLXqOan9LCW8E18qoh3zJYF78NiBBrWQz0zwCL4ehJgWDYy+hKOJIl6Ix+eC7AURWmE8Oh/zwn+YYLI4TE2xbUnQWi7u16GGWL+v9AIF3DJkXIRI6TaAJ/KSN53DPIY7VSYziIgybzkAqTlCpJab1dNM8j0/4QQFUQFGX689LkemhNh9mG3mnwYFDZ4sPy2dHj0Cz6oEV2w/92OFvRADCq+CZJwIqBDywbmqgkMqXRwI/TppUVYfTQi7qeKU1FTPIL8EbNmiaNzVcln7sPXhYfDFS+EVC81Y69nLgC8lTQ4MhIe1aopl2jgGA89+rwyN518pziIgJvZD68AejqsQc58U+CxT/O1tEF9zG+XgL8vwcoCmXWANdWnvooUjZfdghid3uaXaen+muIG7dWoKJ5JqPG5gdFL/2HVQH6Hta0wKNHTJPCBp2AbJTttBrT+0ZyzHsG7lTecAnzl9jco+XjjNsD/KjquktQ==;c5oD85vJnLM1ihw5VwiKEQ=="
 ---
 

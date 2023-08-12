@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Three Decision-Centric Questions To Clarify ChatGPT Hype And Guide Your AI Strategy"
-    excerpt: "How can companies cut through AI hyperbole and disillusionment to find ways to improve business decision-making productivity today?"
-    publishedDateTime: 2023-08-07T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/eriklarson/2023/08/07/three-decision-centric-questions-to-clarify-chatgpt-hype-and-guide-your-ai-strategy/"
-    ampWebUrl: "https://www.forbes.com/sites/eriklarson/2023/08/07/three-decision-centric-questions-to-clarify-chatgpt-hype-and-guide-your-ai-strategy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eriklarson/2023/08/07/three-decision-centric-questions-to-clarify-chatgpt-hype-and-guide-your-ai-strategy/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61ddecd6cca3ad80acd3caeb/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "I'm an AI-prompt engineer. Here are 3 ways to use ChatGPT to get the best results."
     excerpt: "I used to be a freelance writer. Now I'm a prompt engineer helping optimize generative-AI tech. Here's what I've learned."
     publishedDateTime: 2023-08-11T15:50:00Z
@@ -197,20 +181,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Dentons Head of Innovation on Why and How the Firms Built Its Own Gen AI Chatbot"
-    excerpt: "Legaltech News caught up with Joe Cohen, UKIME head of innovation at Dentons to discuss fleetAI, the firm’s newly released proprietary version of ChatGPT."
-    publishedDateTime: 2023-08-07T19:36:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/07/dentons-head-of-innovation-on-why-and-how-the-firms-built-its-own-gen-ai-chatbot/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 34
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Joe-Cohen-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Is ChatGPT running out of steam? AI chatbot's performance raises burnout concerns"
     excerpt: "Benzinga discusses a recent Stanford University study regarding the performance of ChatGPT over several months."
     publishedDateTime: 2023-08-11T08:20:00Z
@@ -225,20 +195,15 @@ related:
         width: 1080
         height: 770
         isCached: true
-  - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
-    excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
-    publishedDateTime: 2023-08-07T16:48:00Z
-    webUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-16/"
+  - title: "A hedge fund manager shares 2 ChatGPT prompts and the AI plugin he used to filter top stock picks"
+    excerpt: "ChatGPT produced some \"phenomenal\" stock picks, Alpesh Patel said. But there is a lot more work and testing that need to be done."
+    publishedDateTime: 2023-08-12T09:44:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-prompts-plugin-for-top-stocks-picks-hedge-fund-2023-8"
     type: article
     provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 24
-    images:
-      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
-        width: 696
-        height: 436
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Newegg’s AI-generated reviews might be the worst use of ChatGPT yet"
     excerpt: "Newegg has started including AI-generated review summaries powered by ChatGPT on some product pages, but they aren't always helpful."
     publishedDateTime: 2023-08-09T19:54:00Z
@@ -248,24 +213,6 @@ related:
       name: BGR
       domain: bgr.com
     quality: 17
-  - title: "Dentons Head of Innovation on Why and How the Firm Built Its Own Gen AI Chatbot"
-    excerpt: "Legaltech News caught up with Joe Cohen, UKIME head of innovation at Dentons to discuss fleetAI, the firm’s newly released proprietary version of ChatGPT."
-    publishedDateTime: 2023-08-07T19:36:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/07/dentons-head-of-innovation-on-why-and-how-the-firms-built-its-own-gen-ai-chatbot/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 15
-  - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
-    excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
-    publishedDateTime: 2023-08-07T19:04:00Z
-    webUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-18/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 4
   - title: "Why ChatGPT just might save the humanities"
     excerpt: "Not surprisingly, the release of ChatGPT has produced a host of concerns about its potentially harmful effects on society. In higher education, commonly cited concerns center on threats to"
     publishedDateTime: 2023-08-08T20:55:00Z
@@ -275,6 +222,15 @@ related:
       name: Virginia Business
       domain: virginiabusiness.com
     quality: 4
+  - title: "You already use ChatGPT to make life easier. Now try using AI chatbots for better sex, a sexologist says."
+    excerpt: "Dr. Amy Marsh, sexologist and AI chatbot beta tester, spoke to Insider about the real-life benefits of sexting a chatbot."
+    publishedDateTime: 2023-08-12T09:30:00Z
+    webUrl: "https://www.insider.com/ai-chatbots-can-improve-your-sex-life-outside-the-internet-2023-7"
+    type: article
+    provider:
+      name: insider
+      domain: insider.com
+    quality: 0
 
 secured: "z62ZPTrB+ufwz/Sl5NpjRhkH7TWr3R4Li617REjOhJETPNCi9xOwF2HE5MGvZHKLbuMFHIlxl6RoyAa8yizedVKqXQxsbyhMmXqEl5ZSJReIzJnKv9wJNPB9Kcw4QiXua4PhWTd6qzEok69yJ3+JEh8rIYBOmoiyo+ZFKUw5LuRhPwq4TuQ5Dahxoohwi9b95xLQGhweLTGV5O6i3nP+Jcq+kxGqHYcCcCDshWMIaHzg7lSETaruxQ/A+2O7Ex6mNNlqoj6Ggp24v9baM5XpAW1923DMLv7jmLkTVPmajI3xLDmYyGIepLRbdfZTXaITFGYz37bSmx/3O0eoJJkIWa24BBh4D34jd5kUj48YKGX/lxcdLKTmEX91oJKgrZt0/rNTOSD2h6DkgOd3/QWW0xYVGkAJQ0ReFQddG1PTC6hhHi7TOWCjzzBE05wupWsmyRoZJs8m5K+wMRDGAn8tmxf0znyLNyv+GjGRtaaPv+PIf04K/qBr57NXg0MlLMMJo5TaWd8MhsO5zRpzpF2nmA==;5hItDIaM5Nz1Cl3ePquBlw=="
 ---

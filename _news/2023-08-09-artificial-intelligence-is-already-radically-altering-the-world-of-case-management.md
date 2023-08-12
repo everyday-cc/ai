@@ -104,20 +104,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI as the next computing platform"
-    excerpt: "The games industry requires hundreds, if not thousands, of projects every year, so the prospect of radically cutting the time and cost of creative brainstorming and prototyping is, ahem, game-changing. Add to that the increasing ability to use generative AI in software development, and the time from concept to code goes from months to days."
-    publishedDateTime: 2023-08-07T14:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/07/ai-next-computing-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/aibrain-geralt-pixabay.jpeg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "China’s internet giants in $7.6b AI chip-buying frenzy"
     excerpt: "Baidu, ByteDance, Tencent and Alibaba are rushing to buy chips vital to building AI systems, amid concerns US President Joe Biden will soon clamp down on their export."
     publishedDateTime: 2023-08-10T02:58:00Z
@@ -127,6 +113,15 @@ related:
       name: The Australian Financial Review
       domain: afr.com
     quality: 34
+  - title: "Humans the risk of artificial intelligence"
+    excerpt: "The risk of AI is not AI, but the human, and the carnage left in the wake of our ideological attachments. As much as we may assume our expertise and ability to use, misuse, guide or control the remarkable tools that we have created, we will continue to stumble towards our demise as long as the awareness remains external to the human experience."
+    publishedDateTime: 2023-08-12T08:43:00Z
+    webUrl: "https://mg.co.za/thoughtleader/2023-08-12-humans-the-risk-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Mail & Guardian
+      domain: mg.co.za
+    quality: 19
 
 secured: "A5ggZqFD1BeLwkm+kAAZ6R0ApBtE4lJhiXqFzWbAv8vnRnufdnHYcfG31tF33odIjndmbk2ZQjwYJqr4BhSk5jyx4GjqzZzeb2RvNM5kFdSFKC4wOAFGepMC/2DZsW/atcuHgnKStgtgMcuMwSdpI1VDdGMNtSWzaJM+PizwDlbjkI3E9QDx/EEMyOVlaslYJ7UrKZ+AtiBcLpHSuNaOWMG5nIs8RheeYgTG6Z5J+sAbECR+HE4vvBP/FaI1bQjJomTuh/f+GUUtsIHFfvxpJ8Wwsu7axziLc5VS8XZ6ojDcB22D+hKbdw51fdwX1c+9frFkfjotRHIs8KqhUo3s3p39MYTRi5wKyoaCFR41DzDWDhAb/WGtSa+cVMt3WS4pLr7aa7s/kIVzLp51DCuVxjWwaJ2Ds4BjoCK6yeZzUG85crRXyBhuZn+J3GVNGeJt6akc2HxpX8DxQSJ5G+gGsc4EjCsreguAIihIkbto9dHClffvAplw8oqHlNwWlal3ewYgyB8kuIQlpOGZVXZt9g==;LIkH/zESYt4jh8d1746atg=="
 ---

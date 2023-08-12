@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Utilizing Artificial Intelligence to Safeguard Against the Propagation of Misinformation"
-    excerpt: "The pervasive issue of misinformation online is prompting innovative solutions, with artificial intelligence (AI) emerging as a potential game-changer. As AI-generated deep fakes raise the stakes for voice and video scams,"
-    publishedDateTime: 2023-08-09T01:41:00Z
-    webUrl: "https://www.cryptopolitan.com/artificial-intelligence-misinformation/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 45
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-09_09-00-08.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "From startup nation to AI nation: Shaping the future in Israel"
     excerpt: "Israeli artificial intelligence innovation is revolutionizing medical diagnoses for women's reproductive health"
     publishedDateTime: 2023-08-10T20:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "One summer movie shows how dangerous artificial intelligence can be | Youth Views"
-    excerpt: "With our endless connection with technology and artificial intelligence, we are more susceptible to dangers, like artificial intelligence gaining a mind of its own."
-    publishedDateTime: 2023-08-07T13:48:00Z
-    webUrl: "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html"
-    ampWebUrl: "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 54
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WWQIBNVV5JBI3GF2HJSR6MJKAU.jpg"
-        width: 6107
-        height: 4072
-        isCached: true
   - title: "Breast-cancer screening gets a boost from AI"
     excerpt: "Radiologists using an artificial-intelligence (AI) assistant during breast-cancer screening had better chances of detecting cancer than those who did not 1."
     publishedDateTime: 2023-08-11T10:30:00Z

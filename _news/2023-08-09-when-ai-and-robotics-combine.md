@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Abu Dhabi's artificial intelligence university establishes dedicated robotics & computer science ..."
-    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate"
-    publishedDateTime: 2023-08-07T17:37:00Z
-    webUrl: "https://www.businessghana.com/site/news/General/291437/Abu-Dhabi&"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 56
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-08-07-16502801.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "VAST Data Launches its Comprehensive, Robust Data Platform to Support AI and ML Workflows"
     excerpt: "VAST Data, the data platform company for the AI era, is unveiling its data computing platform, engineered to underpin the burgeoning world of AI that rivals the capabilities of other existing data platforms."
     publishedDateTime: 2023-08-09T15:49:00Z
@@ -117,6 +103,15 @@ related:
       name: Manufacturing & Logistics IT Magazine
       domain: logisticsit.com
     quality: 16
+  - title: "The role of Artificial Intelligence in robotic-assisted surgeries – Harnessing the power of data and machine learning"
+    excerpt: "In recent years, the healthcare industry has undergone a remarkable transformation owing to the integration of artificial intelligence (AI) into various aspects of medical practice. Among the many groundbreaking developments,"
+    publishedDateTime: 2023-08-12T11:00:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-the-role-of-artificial-intelligence-in-robotic-assisted-surgeries-harnessing-the-power-of-data-and-machine-learning-3208178/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 11
 
 secured: "vU9ksipXV5+GIegG3Vgdjv2U66ikSR5Un4biMg9KeIPCzMBq/CXJL2nHb91V30jWyWszZWrTOnltvLWcKpECrtMn6dumyNxftcMFGEmv0SRdhfsVo0aSoD191Dra4bMw6WbJW4dFSzNfrN5SKcCvWIiPw+tI48/P2sou98MvgpAwQMERDp8IEN4mIXv86bqj9GsXit9iZ7cL2A2g51lPuJ77eoKgC00hxoHCECzIaI4MyaaulrOVNHrNzZ1o1/YsR0J1cFUHECjwbBklHhB+uDwbUS0fOzkuaRPEjL6LS90v1qIgG0swdxQq7bYpCqK4xEzCDzQBAieIX/YJIkJMGdX6RQvsdaFk2kK/ROUALxHN4sk9GgymQEAeC7ehwH3MqAdiPFGjww8G6/+jFEQMdrdd47OylulTvhQi0CYSle+BGphYWDr8d9CV0P7UzBVmKZPXz6KIW6KYn9KVDzQsPALMXK5Iqj4UHj/nupNjAb5t+u5z5daOcp5DUAJ94WPaMYbPMaGRnSU7Ql/u9mJiZQ==;GS14v/40Y3PRsxMq/5l5zg=="
 ---

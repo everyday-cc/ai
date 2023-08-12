@@ -24,6 +24,17 @@ images:
     height: 683
     isCached: true
 
+related:
+  - title: "Navigating the Growth Trajectory of the Traffic Sign Recognition System Market to Reach US$ 53.34 Million by 2032"
+    excerpt: "The traffic sign recognition system market is anticipated to reach a valuation of US$ 53.34 Million by 2032, according to a recent market analysis by Future Market Insights (FMI). The market is anticipated to expand by a CAGR of 3."
+    publishedDateTime: 2023-08-08T05:58:00Z
+    webUrl: "https://www.fmiblog.com/2023/08/08/navigating-the-growth-trajectory-of-the-traffic-sign-recognition-system-market-to-reach-us-53-34-million-by-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
+
 secured: "rwwl9wLoph8Qx70x6h3K4l+RBSi0eXBiR2l2Igh07jYtxvpX5Qu0srEIMaw0cA2wH2vQDRVYKVJsU91ulcwZSAKlIpktpa86vFL4tRN530n/+MMEqj153HGc3sNONARHLVp0FS1DMVqPeOaMOIt31vOeEHX3Sm7kv9AVixC26pwibOFO1hDWXnRyECgdp0ZjP8Erkq5Ufl08z2RitxQGkLpwd2IZ09iTzaBwAvrKwE3ZTE4s5fT9ZHy59NJLIG8/Vewz3gvZmWvMrCSb1sgHn7Ylivk1VMynYZRe1Z0hUJsibqhZInKVHoR7afRQtBs9l3QLiFhtJWfYmCaamq3SE40offiX4xXKFiz2/RRc4ng=;tT/nqoRPn9jB3PxIBmuF3w=="
 ---
 

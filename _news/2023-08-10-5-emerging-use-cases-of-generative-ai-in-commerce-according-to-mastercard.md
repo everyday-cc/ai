@@ -37,20 +37,6 @@ related:
         height: 302
         isCached: true
   - title: "Blueshift Memory announces successful development of computer vision AI accelerator chip"
-    excerpt: "Blueshift Memory, designer of a novel proprietary high-speed memory architecture, has announced the successful completion of a 13-month R&D project to demonstrate the performance of its Cambridge Architecture™,"
-    publishedDateTime: 2023-08-09T07:51:00Z
-    webUrl: "https://www.design-reuse.com/news/54566/blueshift-memory-computer-vision-ai-accelerator-chip.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 62
-    images:
-      - url: "https://static.designandreuse.com/news_img2/homepage54566/bb.jpg"
-        width: 547
-        height: 307
-        isCached: true
-  - title: "Blueshift Memory announces successful development of computer vision AI accelerator chip"
     excerpt: "Blueshift Memory, a designer of proprietary high-speed memory architectures, has successfully completed a 13-month R&D project to demonstrate the performance of its Cambridge Architecture."
     publishedDateTime: 2023-08-08T12:32:00Z
     webUrl: "https://www.newelectronics.co.uk/content/news/blueshift-memory-announces-successful-development-of-computer-vision-ai-accelerator-chip"

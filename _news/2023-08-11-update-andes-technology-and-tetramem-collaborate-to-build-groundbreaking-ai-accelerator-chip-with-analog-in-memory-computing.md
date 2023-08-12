@@ -33,20 +33,6 @@ related:
         width: 302
         height: 302
         isCached: true
-  - title: "Blueshift Memory announces successful development of computer vision AI accelerator chip"
-    excerpt: "Blueshift Memory, designer of a novel proprietary high-speed memory architecture, has announced the successful completion of a 13-month R&D project to demonstrate the performance of its Cambridge Architecture™,"
-    publishedDateTime: 2023-08-09T07:51:00Z
-    webUrl: "https://www.design-reuse.com/news/54566/blueshift-memory-computer-vision-ai-accelerator-chip.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 62
-    images:
-      - url: "https://static.designandreuse.com/news_img2/homepage54566/bb.jpg"
-        width: 547
-        height: 307
-        isCached: true
   - title: "5 emerging use cases of generative AI in commerce, according to Mastercard"
     excerpt: "\"Over the next two to three years, generative AI will power hundreds of capabilities across business and consumer applications,\" said Mastercard. Specifically, the company identified five emerging use cases where AI could be implemented to optimize different commerce sectors, including enterprise, finance, small business, retail, and travel."
     publishedDateTime: 2023-08-10T13:36:00Z

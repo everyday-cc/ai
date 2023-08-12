@@ -7,7 +7,7 @@ originalUrl: "https://www.israel21c.org/the-robot-that-cleans-and-maintains-outd
 webUrl: "https://www.israel21c.org/the-robot-that-cleans-and-maintains-outdoor-wooden-decks/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Little Robot Cleaner Keeps Outdoor Decking Shipshape"
-    excerpt: "RoboDeck's automated deck maintenance robot follows a preprogrammed plan to clean, treat and varnish the decking"
-    publishedDateTime: 2023-08-07T15:17:00Z
-    webUrl: "https://nocamels.com/2023/08/little-robot-cleaner-keeps-outdoor-decking-shipshape/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 39
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/08/rd-pool.jpg"
-        width: 1332
-        height: 776
-        isCached: true
 
 secured: "Dg+WbVZZC9dAZ6rgOZ9M8LdUc1gnzJTjcgOo4byY82/ajdgrnXCckDwdJ9HCxCaCWmS9iy7pEv/97YqcJ1ZQ6Qyk9IH14E0E/G8JVjBALmuYF1Jshd9PU8fixN4VJV3T0wBrkZ71MDFdU+4VMSvaM+W4kTfxEm1LKo3fIVGHqmTbX5dViVNQDI8/1mjneYX/E9sJFcunaJLdSdn+Y3LpAQZzjZpsSnN3H3nYNG3tjPTBiorZ/VfwwS0DzgG7jcUeHaLT1LaW4pD17PT3VcWzzPUnEn1XyHF1+9hQi2Pp4nhA3ovkJ2sJOwLl7MYMd5IDaoCMcVUbdNMuXlMIpHcuNDeLZw2iAOSjzkw1X5pF+XBitS8wlrUGVQ3k/HaHvyUku2OHXcdDvEKK9Pi4+naze4AmUbMXGP76J10kXtS1clpksTl8pnQEsiNcbPWZQOfgXwbkZmElXYMND3hu5JGBaUkn5iuXqVrfU02XHWbqgoXg3un/E4hwW2pMPbgch94ieapqqToCbKMH7p4vE5LBEA==;SqR3DALtlt6Vp2GppXUO8Q=="
 ---

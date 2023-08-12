@@ -5,11 +5,9 @@ excerpt: "Answering frantic calls of suicide, car accidents or a child choking a
 publishedDateTime: 2023-08-11T01:47:00Z
 originalUrl: "https://www.foxla.com/news/ai-stepping-in-to-assist-911-operators-battered-by-tragic-calls-understaffing"
 webUrl: "https://www.foxla.com/news/ai-stepping-in-to-assist-911-operators-battered-by-tragic-calls-understaffing"
-ampWebUrl: "https://www.foxla.com/news/ai-stepping-in-to-assist-911-operators-battered-by-tragic-calls-understaffing.amp"
-cdnAmpWebUrl: "https://www-foxla-com.cdn.ampproject.org/c/s/www.foxla.com/news/ai-stepping-in-to-assist-911-operators-battered-by-tragic-calls-understaffing.amp"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -20,6 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "M8Wzi5WvIhXIUgEBYRL9MXy1MzPOny1oYm81ucTSGmXOuLgpU5lJHxmKex+YTpFTP+o0gR5RD8EeBXa3/hP8XFldCDOYmTwDyUVondqmBZ4djJAWYNcTXo9n5GRvl73PkPZ93JvSWWHU1RraoltnVjakXBWJD/fzdKZ5hV7qBPnD+aEG9Ip1vjYe1OLP84b+ibeA+tzV215lk1s6l96z/QlJ/HYg7MidlCh6wqOegtZ77ouPRTkAR6Mj4CyLd0HYHgGD8RVpM9BNtJTCLKjc/BwDuTYJnMSJZ2q7awWTcP8LoIi55kxbTRnCXR+s8d3UZap8mcXohGSfxTCZ5m0EcNrPd42luYtGRqjMo9QrUuOSLbQUWr+IzmiGp9ZzhWuOO//F1/d5meElsrljUTyObbiTuzDO5aIiI/px8wz529npUDWIX/ogv0rnuDC+wNmWSelYdzG5ARMA7Oood7/Sf5CAH/wyt2N5OISczIJqS0HoaQYIr0sBSYMw9oWfJ3mbpNtV9dF7lrU8pibRQQoKpg==;fh1ErV0ZCbbGX4uFk/xB4Q=="
+secured: "g7rexMil5/r/wOvllZrJ8VkMfbYKTMeTeAscZPqV6ihj0rvE3SJwVWfCLVgeTIY84Z/XXT5UEIz0HgP2J14VuqvdxZjZ3UJ3Qh8YzAz8cJ1HsFGqJPi1lLp+GWwds1Sk38IDq3GZ+9w7drA6Ssukvo1Eu0Z0ltr7SWdzuz5ebjHALSHNFXNzj8LvjLPK71REM75fg9etwEXIc2TUGAWdWCXBrjaqMcCHbcKEMmsS1ZY/sboA3EA6rwAmgZBmBo6QsXgPiFNgQmgfEK+pDEw+j8M0FrTqnoB/HxazS3AsY2fer4VeCKZ6ql03xqK0p/d5WOcGoXPyaUPMw1/GbD2lr+97Uxaq1rUCh3WVQsa6r6xAL/mVvPwoBh27rwTu3Hqsdk/PJgRqryAipoHSGhJmH/GQcICV7gz1PaIg7B19RJle7sHM42O9Hv7Bh9xZNfpa4xu2OkLCicyc+u/4uPulhAJfutAAy0RFunpYbfX0PxGrQRajVQQ3up4QIVC0ON0FGVbV+D8G84SYV2b6XFjPjQ==;nbyAKH8lAc1U2xf87VPRGQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-s
 webUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-shaping-the-future-in-israel/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Utilizing Artificial Intelligence to Safeguard Against the Propagation of Misinformation"
-    excerpt: "The pervasive issue of misinformation online is prompting innovative solutions, with artificial intelligence (AI) emerging as a potential game-changer. As AI-generated deep fakes raise the stakes for voice and video scams,"
-    publishedDateTime: 2023-08-09T01:41:00Z
-    webUrl: "https://www.cryptopolitan.com/artificial-intelligence-misinformation/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 45
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-09_09-00-08.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Rules to keep AI in check: nations carve different paths for tech regulation"
     excerpt: "In January, the CAC began enforcing rules issued in 2022 to tackle deepfakes and other AI-created content. Providers of services that synthesize images, video, audio or text must verify users’ identities, obtain consent from deepfake targets, watermark and log outputs and counter any misinformation produced."
     publishedDateTime: 2023-08-08T10:40:00Z

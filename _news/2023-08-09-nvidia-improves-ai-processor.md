@@ -103,22 +103,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Inside Nvidia's Stupendous 200% Stock Surge: Evaluating The Future Trajectory Of This AI Powerhouse."
-    excerpt: "Nvidia's stock performance has been astonishing this year, soaring over 200% and making it a favored investment choice, despite currently undergoing a correction phase. The growth surge in Nvidia's stock is largely attributed to the increasing demand for its AI chips,"
-    publishedDateTime: 2023-08-07T14:23:00Z
-    webUrl: "https://www.benzinga.com/23/08/33602240/inside-nvidias-stupendous-200-stock-surge-evaluating-the-future-trajectory-of-this-ai-powerhouse"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33602240"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33602240"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://cdn.benzinga.com/files/boliviainteligente-1goydlm_jcg-unsplash_1_0.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Chinese Tech Titans Move To Stockpile $5 Billion Of Nvidia AI Chips Fearing Further Export Restrictions By U.S This Time Targeting A800 Processors"
     excerpt: "Nvidia introduced A800 as a replacement chip with a slower processing speed for Chinese market after the U.S blocked China’s access to two of its high-end microchips including its leading-edge A100 processors."
     publishedDateTime: 2023-08-11T07:29:00Z

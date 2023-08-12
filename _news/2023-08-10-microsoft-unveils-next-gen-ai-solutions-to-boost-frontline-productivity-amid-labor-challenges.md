@@ -75,15 +75,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Explaining the Basics of Blockchain Technology in Healthcare"
-    excerpt: "In recent years, blockchain technologies have made a splash across industries. But what is blockchain, and how is it relevant to healthcare?"
-    publishedDateTime: 2023-08-07T13:29:00Z
-    webUrl: "https://healthitanalytics.com/features/explaining-the-basics-of-blockchain-technology-in-healthcare"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
   - title: "Aptos Price Prediction as Microsoft Partners with Aptos on New AI Blockchain Products – Can APT Reach $100?"
     excerpt: "Aptos (APT) jumped on Wednesday on the news of the Microsoft AI partnership, but could have a long way to run to the upside yet."
     publishedDateTime: 2023-08-09T17:40:00Z

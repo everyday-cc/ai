@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Syxsense-Brings-Natura
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Syxsense-Brings-Natural-Language-Processing-to-Endpoint-Management-and-Security-Automation-with-Cortex-Copilot-160012.aspx"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -27,19 +27,14 @@ images:
 
 related:
   - title: "Syxsense Announces AI-Powered Cortex Copilot Bringing Natural Language Processing to Endpoint Management and Security Automation"
-    excerpt: "Syxsense, a global leader in Unified Security and Endpoint Management (USEM) solutions, today announced Cortex Copilot, a powerful new AI engine that allows IT and security administrators to dramatically simplify and speed up the process of creating endpoint management and security workflow automation."
-    publishedDateTime: 2023-08-09T09:57:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/syxsense-announces-ai-powered-cortex-copilot-bringing-natural-language-processing-to-endpoint-management-and-security/article_662953d6-32d1-5f71-93cc-2f19cd7ab405.html?block_id=531919"
+    excerpt: "Syxsense, a global leader in Unified Security and Endpoint Management (USEM) solutions, today announced Cortex Copilot, a powerful new AI engine that"
+    publishedDateTime: 2023-08-09T14:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230809184224/en/Syxsense-Announces-AI-Powered-Cortex-Copilot-Bringing-Natural-Language-Processing-to-Endpoint-Management-and-Security-Automation"
     type: article
     provider:
-      name: The Daily News
-      domain: galvnews.com
-    quality: 42
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 22
 
 secured: "zdMjT7G0wLr/QPzgmrjgbeAIHLhz4n4uEeSqozVuOKYb6F9WHxZ0rl6dtGOPuYYhEDNTB5lDR0c3NKTBsxpPUE2LMNN2xJ26Gfq8LshaJFrfCkEutkRrIJkYJ+e+x2AydQb2d+reZKK8ibF8R8Sn8sAeY5Im56aI0R1B3Dm+b0soPlhjZYtjdDaNYefPzauxRph05NAJUJcL+EceWVe76Bs/jv75itxMLhwrWxfM4mpU/DLF1Qx0Oddsu/32OSEC6J0wmv+dJ2XRVQsOIQpQ4PS74xwUxfocOWXgC6HvTF9Ph4/B3vEjq9yM8lVGx2lrriOUQvyNncH+87L+pr3aZS4VG1vK8YYipEqsf0MOWqw=;qjms/ZnabvGKf8AIzFuiCA=="
 ---

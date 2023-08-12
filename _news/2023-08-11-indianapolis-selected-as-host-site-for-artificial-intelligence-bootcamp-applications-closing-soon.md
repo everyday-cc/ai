@@ -164,6 +164,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Portland Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
+    excerpt: "PORTLAND, Ore., Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Notified in Portland. Applications for the no-cost bootcamp are closing soon!"
+    publishedDateTime: 2023-08-11T15:49:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/11/9863413.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
   - title: "United Wholesale Mortgage Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by United Wholesale Mortgage. Applications for the"
     publishedDateTime: 2023-08-11T15:37:00Z

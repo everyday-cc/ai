@@ -70,6 +70,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "AI-powered fraud detection: Strengthening security in fintech"
+    excerpt: "In the rapidly evolving world of fintech, security remains a paramount concern. With the increasing sophistication of cybercriminals, traditional methods of fraud detection are often falling short. This is where Artificial Intelligence (AI) steps in, offering a robust and dynamic solution to the complex problem of fraud detection."
+    publishedDateTime: 2023-08-12T09:30:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-ai-powered-fraud-detection-strengthening-security-in-fintech-3208155/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 36
   - title: "The 3 Best Fintech Stocks to Buy in August"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As digital banking tools, such as banking apps and automatic bill payments,"
     publishedDateTime: 2023-08-10T12:00:00Z

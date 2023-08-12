@@ -40,15 +40,6 @@ related:
         width: 908
         height: 456
         isCached: true
-  - title: "Carbyne's APEX Emergency Call Handling System Now Offers AI-Driven Two-Way Translation Capabilities to Improve 9-1-1 Response Time and Accuracy"
-    excerpt: "NEW YORK, Aug. 7, 2023 /PRNewswire/ -- Because every second matters in emergency response, a new AI-driven, cloud-based translation feature for Carbyne APEX, Carbyne's emergency call management platform, helps 9-1-1 centers by providing two-way, automatic language translation capabilities for audio, texts, and chats."
-    publishedDateTime: 2023-08-07T13:18:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/07/9860209.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "ujk4M7Lsj1zWOpOi70KUlvel6PKBBrbEUxSG8osKZzQKFFHiLRkT4KsZeIBvTh4VrrBGvUK/3/XR30ZiVNih8T4o7kpAIOc6bPe434JyRqfF/YPzRJSlSEmjajj4+2OSuzkflm+BTdAcBAqNkDptUbVnjW4KvokvV/VXZfM2CyuLNQk2T2e5wDZ/uWESy+GbnM976iqOLYXKNQC1xsnlqkh3RnEIHxFvAF/fVdbc82z+iCzM6DWYIan/4CECYpLCc2vyyF2erH2OhV2/Uf7ERoFsWgeZlyuzq2UaIoNOgfpgB+qAjY9ekjpXE+IfLm8x4oIsMX/mGRaHhiT1So9hCcMcqVq/8FGYDvek6U4+oZc35wsMznPCecr629++FRRSxGCPAU9paltNK1KZsGz6Wwy61Hznv1qQ7P/C2nL529bUN6G12FnKz49VeJ43rSF2KEoI8c4PTdeyQ1l0++aYLbTTOju6iBRFRekH2+55zW0RRK/CDWKI1KYxmuXJuY2fZ+J2e9ipwaCKXdisjr9Z1g==;mpc15ncH2dfqX3d6E+J8xw=="
 ---

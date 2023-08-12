@@ -79,15 +79,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Explaining the Basics of Blockchain Technology in Healthcare"
-    excerpt: "In recent years, blockchain technologies have made a splash across industries. But what is blockchain, and how is it relevant to healthcare?"
-    publishedDateTime: 2023-08-07T13:29:00Z
-    webUrl: "https://healthitanalytics.com/features/explaining-the-basics-of-blockchain-technology-in-healthcare"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
 
 secured: "MPM6gS8TJiU2js6LuxL79srLqYr6H9B/kcTctQYpwAPuuGAxfmSLinVSKVubm5cn3BbzrGqOmZApTINN2GPyLJpgSd9fUPxLOeztpslfiOwHhIr2XvKLlzqDEhRBSlWSksNe16wCFVMuFRyMKrBmUcvQiSeZCbEcE9h1jLjIFL3JM4GBsyYESiKesyhpMwatz+DJJg9Vl4FcpX29x31m8mP/VwWsmuD0YdX+R+WXWUWYQZftwvWJhykw35AYphkthFi6Zi4jpCMqTdcc6P+rao+n9gcbzJJkq42jpxDY8+O6nLqplrPCsFWFkQUKJgQ7fuUne6kbjbQwad9naXClau1Uu1jERjJmWEKAySNRvpe0xsML2uUDZOChzyj9EOtjzx0gedkgjAh/uDkhGyC2gqMj59OmI8MLDMtTVDfLqNx3ouIxaJQow323aXxfEPnt0wm69UZwlgF/ALvnm3zXax4L0Xudb6+uQCT0iH8kHoQIhjPaU86VFY3qpc/WYcdwkvU4Mgdw5v9ZwKwUMMRLXg==;CnBZH7D1x5Ay+55DTwAzjg=="
 ---

@@ -70,22 +70,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft announces Bing AI coming to Safari and Chrome"
-    excerpt: "Marking six months since the launch of its ChatGPT-like AI app, Microsoft has announced that it is bringing the technology to browsers such as Safari, \"soon.\""
-    publishedDateTime: 2023-08-07T17:03:00Z
-    webUrl: "https://appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome"
-    ampWebUrl: "https://appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 74
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/55775-113306-000-lead-Bing-xl.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Now, study machine learning, cloud computing, AI at AKTU"
     excerpt: "Lucknow: APJ Abdul Kalam Technical University (AKTU) will offer students certificate courses cum summer internships in machine learning (ML), cloud co."
     publishedDateTime: 2023-08-12T03:20:00Z
@@ -120,20 +104,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "The Artificial Intelligence Contribution to Eating Disorders"
-    excerpt: "According to an article posted in the Washington Post, artificial intelligence has an eating disorder problem. Pro-anorexia chatbots are a mere consequence of some of the best tech-funded companies no"
-    publishedDateTime: 2023-08-07T16:35:00Z
-    webUrl: "https://www.wyomingnews.com/news/national/the-artificial-intelligence-contribution-to-eating-disorders/video_21c99039-d078-5fe4-a064-dc0f74a58fd8.html"
-    type: article
-    provider:
-      name: Wyoming News
-      domain: wyomingnews.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/2/1c/21c99039-d078-5fe4-a064-dc0f74a58fd8/64d11fc31e0fc.image.jpg?crop=1641%2C862%2C0%2C30&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Bing AI is coming to more browsers, including on mobile, ‘soon’"
     excerpt: "Microsoft's Bing AI chatbot is coming to more browsers such as Google Chrome, and will start working on mobile soon too."
     publishedDateTime: 2023-08-08T13:52:00Z

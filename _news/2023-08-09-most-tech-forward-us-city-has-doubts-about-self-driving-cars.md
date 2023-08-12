@@ -33,6 +33,15 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Atlanta AI manufacturing startup Tractian raises $45M"
+    excerpt: "As advance manufacturing heats up in the U.S., an Atlanta startup that uses artificial intelligence to predict when machines need maintenance raised $45 million."
+    publishedDateTime: 2023-08-08T16:12:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/fundings/2023/08/08/tractian-startup-fundraising-manufacturing-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "Self-driving car company Cruise to test in Atlanta"
     excerpt: "Cruise is bringing its autonomous vehicles to Atlanta. But, the cars will have drivers for now. The San Francisco-based company, which operates a robotaxi service in other cities, said Monday it will begin testing its self-driving cars in Atlanta."
     publishedDateTime: 2023-08-08T11:49:00Z

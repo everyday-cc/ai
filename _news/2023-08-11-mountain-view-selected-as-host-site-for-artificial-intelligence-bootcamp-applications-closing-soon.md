@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/mountain-view-sele
 webUrl: "https://markets.businessinsider.com/news/stocks/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032542192"
 type: article
 quality: 51
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -164,6 +164,15 @@ related:
     excerpt: "PASADENA, Calif., Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Pasadena Educational Foundation in Pasadena. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-11T15:53:00Z
     webUrl: "https://technews.tmcnet.com/news/2023/08/11/9863407.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Portland Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
+    excerpt: "PORTLAND, Ore., Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Notified in Portland. Applications for the no-cost bootcamp are closing soon!"
+    publishedDateTime: 2023-08-11T15:49:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/11/9863413.htm"
     type: article
     provider:
       name: TMCnet

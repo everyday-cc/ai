@@ -173,6 +173,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Portland Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
+    excerpt: "PORTLAND, Ore., Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Notified in Portland. Applications for the no-cost bootcamp are closing soon!"
+    publishedDateTime: 2023-08-11T15:49:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/11/9863413.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "dpWy7uFprvZtRYNY0ZDoaSsrAtDokHBhczBwmGDM+sVxkn+ElhwORAqDsLM35VPRZKjYowV64Rb0OriiWo3jdMVnbIkserhaa6w03zDPMGs/4pERXZH1xKye7arczuRl4KP6DebSbO6pny+ImuAv1HGAxdyZwDhlHki4BvN1DGrFhHHFqXJ9z3389IyFColBXtW3rekkw2xa5E8PGTGlYXxU7KziH9TqPPKmoVsakPWDpI68gWZSpAIsIXCW7YAWxeJ7pvkb2EqUOqSKq4Ik+eJETSgxnuBUddyLMUaMFIE6n7+JBwKOqAMMWZZVQnqHz0yOaJH3K/0KaHzAYjvDFnGLS/Tk0cdL5J6547VFGRg=;OztkHO92LSI90l6/betFzA=="
 ---

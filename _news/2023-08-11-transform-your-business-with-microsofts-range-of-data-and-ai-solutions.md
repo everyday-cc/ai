@@ -65,22 +65,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Leidos-Microsoft Partnership Is Latest Sign AI Is Taking The Defense Industry By Storm"
-    excerpt: "Defense firms are vigorously pursuing use of artificial intelligence in their product offerings, but the challenges are different from those of civilian AI applications."
-    publishedDateTime: 2023-08-07T16:08:00Z
-    webUrl: "https://www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/"
-    ampWebUrl: "https://www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 96
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d1169365df6e8e3e034c63/0x0.jpg?format=jpg&width=1200"
-        width: 1054
-        height: 720
-        isCached: true
   - title: "On Technology: The Major AI Problem Facing Insurance Brokers That Microsoft, Google And ChatGPT Won’t Solve"
     excerpt: "Navigating Demographic Challenges in Embracing Change. How AI's transformative potential clashes with an aging industry workforce."
     publishedDateTime: 2023-08-10T16:59:00Z
@@ -233,15 +217,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 66
-  - title: "Microsoft’s AI Red Team Has Already Made the Case for Itself"
-    excerpt: "Since 2018, a dedicated team within Microsoft has attacked machine learning systems to make them safer. But with the public release of new generative AI tools, the field is already evolving."
-    publishedDateTime: 2023-08-07T17:51:00Z
-    webUrl: "https://www.wired.com/story/microsoft-ai-red-team/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 64
   - title: "Microsoft partners with Aptos Labs to build AI-powered blockchain tools on Azure"
     excerpt: "A compelling new partnership has just been announced between Microsoft and Aptos Labs. The collaboration is set to create an AI-powered tool named Aptos"
     publishedDateTime: 2023-08-09T15:54:00Z
@@ -416,28 +391,14 @@ related:
         width: 451
         height: 244
         isCached: true
-  - title: "Microsoft says AI-powered Bing Chat will come to more mobile browsers soon, but it’ll be worse"
-    excerpt: "Microsoft has revealed that it is planning to launch its AI assistant Bing Chat on third-party mobile browsers \"soon.\""
-    publishedDateTime: 2023-08-07T16:37:00Z
-    webUrl: "https://bgr.com/tech/microsoft-says-ai-powered-bing-chat-will-come-to-more-mobile-browsers-soon-but-itll-be-worse/"
+  - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
+    excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help ..."
+    publishedDateTime: 2023-08-09T17:22:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20230809sf78393/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 42
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/05/bing-chat-gpt-4-free-visual-results.jpg?quality=82&strip=all"
-        width: 1600
-        height: 879
-        isCached: true
-  - title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
-    excerpt: "\"Working together, we will combine our AI expertise to create AI-fueled offerings that will enable businesses to further automate and scale their processes and make informed decisions based on data-driven insights,"
-    publishedDateTime: 2023-08-07T14:05:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/07/9860278.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Morningstar
+      domain: morningstar.com
     quality: 33
   - title: "Exela Technologies, Inc.: Exela Technologies Leverages Generative AI with Microsoft Azure OpenAI Service"
     excerpt: "Exela Technologies, Inc. (NASDAQ: XELA, XELAP), a leader in business processing automation (\"BPA\") today announced its collaboration with"

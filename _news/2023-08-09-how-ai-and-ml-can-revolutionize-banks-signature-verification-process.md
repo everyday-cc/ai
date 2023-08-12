@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/09/how-ai-and-ml-can-revolutionize-banks-signature-verification-process/amp/"
 type: article
 quality: 106
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -90,15 +90,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Sivi AI: Pioneering the Design Revolution With Generative AI"
-    excerpt: "In the fast-paced world of digital marketing and content creation, visuals play a pivotal role in capturing audience attention and conveying brand messages effectively. As the demand for captivating designs grows,"
-    publishedDateTime: 2023-08-07T18:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33607119/sivi-ai-pioneering-the-design-revolution-with-generative-ai"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
 secured: "McPfhM2kZaX2wWcE7o0wVLGtXt8xyl6VTrlolScc8krtdLP4wPiw0fdPhnqhIfOowspR4buwsKSFCi6YqF0gGCqIhdTw+C2IR575mRd9i0LL9geyo6Aa9Gu5hN0mBsp1ZxPi0EAc/4/p/YsWvgp3rrEVnw/jdQhGJEZHgF/EomEepa7EcQGMSNwcjB50zqfRiHqY0Jg/5Tj2jGkslzMsP3SpR3KypETaIvg9Q0AyKad2JrXE/C//oRBUOff6piykiLw72thLoSVqMF4g271rhh1LEMY1/mN9FbCbN8ULcg/rxrHR3MjpjbxO9qT3r5UtPFI2Wuvbd1gN6fVU75SGq+5nOl5iTKaCn4CviTNkxEHG9TmA5C4XoKGmKf+/DO3LeO1mY1D+Ezv6sTlQsAJ8LaaYgAJ/AdZK68W0JD1spmW0KMZ/owxYGoH13Dfc6ndlNX5GSZLMg/+QwE2j/spcTLIlMJINbe3NTVwaBRoaViQvYjICXighaFVa271I7Q7XNsXybp3kN7cfRzwHm32bSw==;pTfxbuVF3r9cFlZvq3a2Sw=="
 ---

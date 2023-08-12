@@ -74,6 +74,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "AI-powered fraud detection: Strengthening security in fintech"
+    excerpt: "In the rapidly evolving world of fintech, security remains a paramount concern. With the increasing sophistication of cybercriminals, traditional methods of fraud detection are often falling short. This is where Artificial Intelligence (AI) steps in, offering a robust and dynamic solution to the complex problem of fraud detection."
+    publishedDateTime: 2023-08-12T09:30:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-ai-powered-fraud-detection-strengthening-security-in-fintech-3208155/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 36
   - title: "Fintech ForwardLane Introduces Generative AI Platform to Streamline Financial Services"
     excerpt: "ForwardLane, the provider of AI-powered intelligence solutions, announces the launch of its new generative decision intelligence platform EMERGE."
     publishedDateTime: 2023-08-11T15:12:00Z

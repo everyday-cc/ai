@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "One summer movie shows how dangerous artificial intelligence can be | Youth Views"
-    excerpt: "With our endless connection with technology and artificial intelligence, we are more susceptible to dangers, like artificial intelligence gaining a mind of its own."
-    publishedDateTime: 2023-08-07T13:48:00Z
-    webUrl: "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html"
-    ampWebUrl: "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 54
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WWQIBNVV5JBI3GF2HJSR6MJKAU.jpg"
-        width: 6107
-        height: 4072
-        isCached: true
 
 secured: "1K8taGD+c9muXTSsvgizumRESussMDTNUkd75gtJkW0HyPZMULLyGE0PMzQ29cY0pflv0WmZ/1dFL7ScSJYndIT1iEEJB3JtPXjyD6J0yMEDki9BGOP2G/l6SW0OTpDJbxXWZxAMOTQN0c+yzi0QjEP8kc8gP9ZUzA2VfcWx8BFGtniQeVwzfbEEwqRC2XKlog/WlUkWDl63N+HYBKA9vmd0uVSSuWu/tq7QDWmeOTo8p0yYyvbApCFhOPHo/zuct/mpamyC2gNfU8Qdpqvrb/VDiF8HwBdI2FiS8K/cwE/x9FLIF5RSxT0XZ0oM+A/2cy7aZMXniuYMnlYUYh6sVYWbaG5k4yZmoVo0hnWjVkakIyjRaqCRDXzWSbQ8nzPtHj0sZ4pRRtZKtvkIC+4qqmS2ya9pFaqJueBygelDJSDJmTdyouA1X+04q+DjmfkqxABmNoIqdKv9hAWlrZmTNMtiV0pzorD0IDzziPShhU3bLrE8uiu2IEfambRClI0m4xH79ln2BJ3dLX4ftM0nrA==;rIMHZ5GEOpYw2cjvUJRixQ=="
 ---

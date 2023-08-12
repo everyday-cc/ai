@@ -57,6 +57,15 @@ related:
         width: 320
         height: 320
         isCached: true
+  - title: "Turing Wants To Unleash Human Potential Through AI-Powered Tech Services"
+    excerpt: "In 2020, when the Pandemic mandated the move to remote work, Turing raised $32million in Series B funding to define a future where companies could push a button to spin up their engineering team instantly."
+    publishedDateTime: 2023-08-12T10:46:00Z
+    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/12/turing-wants-to-unleash-human-potential-through-ai-powered-tech-services/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 46
   - title: "In the season of AI, writers are feeling the heat"
     excerpt: "Never in a million years could someone have believed that AI or robots would write poetry, paint, make music, etc"
     publishedDateTime: 2023-08-10T06:52:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/alibaba-cloud-
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-jdjwwgti?amp=1"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "UiPath Named a Leader in the 2023 Gartner Magic Quadrant for Robotic Process Automation"
-    excerpt: "UiPath Positioned Highest for Ability to Execute UiPath (NYSE:PATH), a leading enterprise automation software company, today announced it has been positioned by Gartner, Inc. as a Leader in the 2023 G"
-    publishedDateTime: 2023-08-07T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/b33602950/uipath-named-a-leader-in-the-2023-gartner-magic-quadrant-for-robotic-process-automation"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33602950"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33602950"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 36
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "UiPath Named a Leader in the 2023 Gartner Magic Quadrant for Robotic Process Automation"
     excerpt: "UiPath Positioned Highest for Ability to Execute GUEST RESEARCH: UiPath (NYSE: PATH), a leading enterprise automation software company, today announced it has been positioned by Gartner, Inc. as a Leader in the 2023 Gartner® Magic Quadrant™ for Robotic Process Automation[1] research report."
     publishedDateTime: 2023-08-09T13:36:00Z
@@ -80,15 +64,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "CrowdStrike Among Highest Rated in 2023 Gartner Peer Insights™ Voice of the Customer for Managed Detection and Response Services Report"
-    excerpt: "CrowdStrike (Nasdaq: CRWD) today announced it has been recognized as a 'Customers' Choice' in the 2023 Gartner Peer Insights™ Voice of the Customer for Managed Detection and Response Service report across North America,"
-    publishedDateTime: 2023-08-10T13:58:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/10/9862567.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "8s1yzMPUET0B7cDMoJDSWY4t5BHHK9qyXJFrwo6d8O+jyLsY+W09D9muG+rc+OiSTiVJynSRRPjtsFf2ORAuDAUgEZf+T9uW9m55kExyIeDwz0OCs6MH0ihlxsx7rFotGeMvCEgGUQngS+MoYkr2YF+dP5xZWZbfq80lnjpL+Gg4muhyJjDEanvnMCdTQSV1lqOoHHw154TP1di3TDyKjiTWZEaXtv+2145qiyFHgPXxiVoo5bC1b2Fj0Fr/47qGRGjguaEN8H2yAvFTvFAy+ukzY1EJtm2AOaMThnFVEBwxPJY7QRpPp1uh+PZARP6a4lqVBfGZsM581DgO5xUlkRFwmzttClz0K+CukhO0z/I=;BfhXH9xG+nbkUOL6SyVmdA=="
 ---

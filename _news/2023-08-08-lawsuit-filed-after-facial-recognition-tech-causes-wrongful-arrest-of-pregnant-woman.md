@@ -19,21 +19,53 @@ topics:
   - AI
 
 related:
-  - title: "Detroit Woman Sues City Police After Being Wrongfully Arrested Due To AI Facial Recognition"
-    excerpt: "Six police officers arrested Porcha Woodruff, who was eight months pregnant, after mistaking her for someone who had robbed a car."
-    publishedDateTime: 2023-08-07T18:24:00Z
-    webUrl: "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/"
-    ampWebUrl: "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/amp/"
+  - title: "China releases plans to restrict facial recognition technology"
+    excerpt: "China is planning to restrict businesses' use of facial recognition technology in favor of non-biometric methods, according to the Cyberspace Administration. If facial recognition is used ..."
+    publishedDateTime: 2023-08-08T04:52:00Z
+    webUrl: "https://www.cnbc.com/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107283043-1691456149025-gettyimages-1359517707-vcg111361963637.jpeg?v=1691467558"
+        width: 5476
+        height: 3651
+        isCached: true
+  - title: "China closes record number of personal data breaches, moots facial recognition law"
+    excerpt: "China has closed a record number of personal data breaches and is seeking public feedback on draft laws to regulate the use of facial recognition data."
+    publishedDateTime: 2023-08-11T22:01:00Z
+    webUrl: "https://www.zdnet.com/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/e62c52c5ce87590f1066d076e19db9058ee87c0e/2023/08/11/893c158b-a331-42d7-a1ac-95c95a6f9fb1/gettyimages-1443495508.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "New Chinese Facial Recognition Regulations Could Shield Citizens From Surveillance Capitalism"
+    excerpt: "China’s cyber regulator just released draft regulations on facial recognition technology. They enable continued state surveillance—and overt government exceptionalism. But they also grant individuals the right to protect their personal data (in this case,"
+    publishedDateTime: 2023-08-10T00:03:00Z
+    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/"
+    ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 94
+    quality: 78
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d10b3a725fca0578d6288b/0x0.jpg?format=jpg&crop=2369,1332,x603,y0,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d428db7828753d19d9d123/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 798
         isCached: true
   - title: "Detroit police chief says ‘poor investigative work’ led to arrest of Black mom who claims facial recognition technology played a role"
     excerpt: "Detroit’s police chief on Wednesday blamed “poor investigative work,” not the use of facial recognition technology, for the arrest of a Black mother who claims in a lawsuit that she was falsely arrested earlier this year while eight months pregnant."
@@ -51,37 +83,35 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Detroit woman sues city after being falsely arrested while pregnant due to facial recognition technology"
-    excerpt: "Porcha Woodruff was getting her two children ready for school when police officers presented her with an arrest warrant alleging robbery and carjacking, court documents show."
-    publishedDateTime: 2023-08-07T13:42:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/detroit-woman-sues-city-falsely-arrested-8-months-pregnant-due-facial-rcna98447"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna98447"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna98447"
+  - title: "Advocacy group raises privacy concerns as facial recognition technology booms"
+    excerpt: "Safety, efficiency and profitability are touted as the key drivers behind the growing popularity of digital ID technologies like facial recognition, but they present important privacy risks, Calgary-based legal advocacy organization Justice Centre for Constitutional Freedoms (JCCF) reveals in a new report."
+    publishedDateTime: 2023-08-11T17:13:00Z
+    webUrl: "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542"
+    ampWebUrl: "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 72
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-08/230807-porcha-woodruff-ONETIMEUSE-mn-0935-04dfe5.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Black mom sues city of Detroit claiming she was falsely arrested while 8 months pregnant by officers using facial recognition technology"
-    excerpt: "Woodruff later learned she was implicated in the alleged incident after the facial recognition software hit as well as the carjacking victim allegedly identified her in a lineup of six photos that ..."
-    publishedDateTime: 2023-08-08T00:14:00Z
-    webUrl: "https://www.cnn.com/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
+      name: IT World Canada
+      domain: itworldcanada.com
     quality: 71
     images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230807154058-porcha-woodruff.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/08/GettyImages-1311613664.jpg"
+        width: 724
+        height: 483
+        isCached: true
+  - title: "After Feeding Explosion of Facial Recognition, China Moves to Rein It In"
+    excerpt: "The proposal, which carves out exceptions for national security, is the latest in a series of moves to put guardrails around how companies use data and artificial intelligence."
+    publishedDateTime: 2023-08-08T10:07:00Z
+    webUrl: "https://www.wsj.com/articles/china-drafts-rules-for-facial-recognition-use-4953506e"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 68
+    images:
+      - url: "https://images.wsj.net/im-831488/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Experts remain divided on facial recognition technology despite another wrongful arrest"
     excerpt: "Over the weekend, 32-year-old Porcha Woodruff became the sixth person to report being falsely arrested using facial recognition technology."
@@ -99,79 +129,31 @@ related:
         width: 1680
         height: 971
         isCached: true
-  - title: "Detroit woman at center of facial recognition lawsuit responds to police chief's claims"
-    excerpt: "Woodruff and her attorney filed a lawsuit against the city and a Detroit Police Department officer, arguing AI technology was the reason she was falsely identified as a carjacking suspect."
-    publishedDateTime: 2023-08-10T22:09:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
+  - title: "China Proposes Stricter Regulations on Facial Recognition to Protect Privacy"
+    excerpt: "China, a country known for its adoption of facial recognition technology, is taking steps to establish more defined boundaries for its usage."
+    publishedDateTime: 2023-08-08T09:13:00Z
+    webUrl: "https://www.coinspeaker.com/china-regulations-facial-recognition/"
+    ampWebUrl: "https://www.coinspeaker.com/china-regulations-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/china-regulations-facial-recognition/amp/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 66
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 56
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/10/248a1fe4-8764-4664-87bc-b05f69597616/thumbnail/1200x630/8de1786299c722a34656a03b9d4b3fd7/woodruff-arrest.jpg?v=08aa43fa812a9e12e93282c47f58b17f"
-        width: 1200
-        height: 630
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/05/china-prosecution-agency-nft-users.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Pregnant woman arrested after facial recognition tech error"
-    excerpt: "Porcha Woodruff is the third person wrongly arrested by Detroit police due to the AI software in as many years."
-    publishedDateTime: 2023-08-07T20:00:00Z
-    webUrl: "https://www.popsci.com/technology/facial-recognition-false-arrest-detroit/"
-    ampWebUrl: "https://www.popsci.com/technology/facial-recognition-false-arrest-detroit/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/facial-recognition-false-arrest-detroit/?amp"
+  - title: "China drafts rules for using facial recognition technology"
+    excerpt: "HONG KONG, Aug 8 (Reuters) - China's cyberspace regulator said on Tuesday it has issued draft rules to oversee the security management of facial recognition technology in the country, following ..."
+    publishedDateTime: 2023-08-08T14:39:00Z
+    webUrl: "https://www.reuters.com/technology/china-drafts-rules-using-facial-recognition-technology-2023-08-08/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 59
-    images:
-      - url: "https://www.popsci.com/uploads/2023/08/07/Depositphotos_179213404_L.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "Detroit Police Seek Change After Facial Recognition Lawsuit"
-    excerpt: "The Detroit Police Department is pursuing changes to its facial recognition policy in the wake of a woman's federal lawsuit alleging she was arrested at eight months pregnant based on an unreliable hit."
-    publishedDateTime: 2023-08-10T15:51:00Z
-    webUrl: "https://www.govtech.com/public-safety/detroit-police-seek-change-after-facial-recognition-lawsuit"
-    ampWebUrl: "https://www.govtech.com/public-safety/detroit-police-seek-change-after-facial-recognition-lawsuit?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/detroit-police-seek-change-after-facial-recognition-lawsuit?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Detroit mother files lawsuit over facial recognition arrest"
-    excerpt: "Porcha Woodruff was arrested by Detroit police after she says facial recognition software wrongfully identified her as a robbery suspect. WDIV's Demond Fernandez reports."
-    publishedDateTime: 2023-08-10T19:23:00Z
-    webUrl: "https://www.nbcnews.com/video/detroit-mother-files-lawsuit-over-facial-recognition-arrest-190571077700"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 49
-  - title: "Facial recognition software blasted by DPD board of commissioners after recent false arrest"
-    excerpt: "A vote to ban facial recognition for the Detroit police failed tonight, which would have kept the department from using it for a year."
-    publishedDateTime: 2023-08-11T03:15:00Z
-    webUrl: "https://www.fox2detroit.com/news/facial-recognition-software-blasted-by-dpd-board-of-commissioners-after-recent-false-arrest"
-    ampWebUrl: "https://www.fox2detroit.com/news/facial-recognition-software-blasted-by-dpd-board-of-commissioners-after-recent-false-arrest.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/facial-recognition-software-blasted-by-dpd-board-of-commissioners-after-recent-false-arrest.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 49
-    images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2023/08/932/470/facial-recognition-arrest.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Facial recognition technology in Detroit to remain in use after commissioners vote"
     excerpt: "Detroit police will continue to use facial recognition technology after a close vote by the Board of Police Commissioners."
     publishedDateTime: 2023-08-11T02:45:00Z
@@ -183,22 +165,6 @@ related:
     quality: 48
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/fd525b6/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2F62a%2Fbe88c4e651db4a7dbe102614d7272948%2F62a754a5e1ed4166a8525540c406810f%2Fposter_120b7d8e5dfa451b93e814f3fd64b110.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "ACLU of Michigan calls on Detroit police to stop use of facial recognition technology after woman claims she was falsely accused of crime"
-    excerpt: "The latest is a Detroit woman named Porcha Woodruff, who says she was falsely arrested after the technology connected her to a carjacking case."
-    publishedDateTime: 2023-08-08T22:15:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/aclu-of-michigan-calls-on-detroit-police-to-stop-use-of-facial-recognition-technology-after-woman-claims-she-was-falsely-accused-of-crime/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/aclu-of-michigan-calls-on-detroit-police-to-stop-use-of-facial-recognition-technology-after-woman-claims-she-was-falsely-accused-of-crime/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/aclu-of-michigan-calls-on-detroit-police-to-stop-use-of-facial-recognition-technology-after-woman-claims-she-was-falsely-accused-of-crime/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 41
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/08/9a9b1483-c998-44d7-bb44-bbdb0f8dbcc6/thumbnail/1200x630/dab634bcf926ec2f907d8d3776ecb1d9/detroit-police.jpg?v=4c3eff96812a3b6c2e014b1daed33369"
         width: 1200
         height: 630
         isCached: true
@@ -216,291 +182,121 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Eight months pregnant and arrested after false facial recognition match"
-    excerpt: "DETROIT, US - A pregnant US woman was arrested for robbery and carjacking after a false facial recognition match identified her as the suspect for the crimes. Ms Porcha Woodruff was getting her ..."
-    publishedDateTime: 2023-08-07T19:27:00Z
-    webUrl: "https://www.straitstimes.com/world/eight-months-pregnant-and-arrested-after-false-facial-recognition-match"
+  - title: "China releases draft regulations on facial recognition technology"
+    excerpt: "China’s cyberspace regulator announced the release of draft regulations aimed at overseeing the security management of facial recognition"
+    publishedDateTime: 2023-08-08T08:55:00Z
+    webUrl: "https://technode.com/2023/08/08/china-releases-draft-regulations-on-facial-recognition-technology/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
+      name: TechNode
+      domain: technode.com
     quality: 39
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/08/07/FACIALRECOGNITIONMISTAKE1.JPG"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "Facial recognition error led to pregnant Black woman’s arrest in Detroit"
-    excerpt: "An automated facial recognition search error led to the wrongful arrest of a pregnant Black woman in Detroit. Porcha Woodruff, a 32-year-old licensed aesthetician and ..."
-    publishedDateTime: 2023-08-08T00:22:00Z
-    webUrl: "https://thegrio.com/2023/08/07/facial-recognition-error-led-to-pregnant-black-woman-arrest-detroit/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 38
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2020/07/DETROIT-1-scaled.jpg?w=428"
-        width: 428
-        height: 240
-        isCached: true
-  - title: "Detroit police arrest pregnant Black woman after false facial recognition match"
-    excerpt: "Turns out, Woodruff was the victim of a false facial recognition match, making her at least the third person to be arrested by Detroit police based on the faulty technology, The New York Times first reported . All three were Black, and Woodruff was the first known woman."
-    publishedDateTime: 2023-08-07T15:08:00Z
-    webUrl: "https://www.metrotimes.com/news/detroit-police-arrest-pregnant-black-woman-after-false-facial-recognition-match-33818003"
-    type: article
-    provider:
-      name: Metro Times
-      domain: metrotimes.com
-    quality: 35
-    images:
-      - url: "https://media2.metrotimes.com/metrotimes/imager/u/slideshow/33818008/facial_recognition_photo_neavling.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Third person sues Detroit Police over false arrest based on facial recognition"
-    excerpt: "Police arrested Porcha Woodruff, a 32-year-old Black woman, for robbery and carjacking based off a facial recognition hit from surveillance footage. But Woodruff didn't do it, and critics say this is more proof the technology is flawed,"
-    publishedDateTime: 2023-08-08T01:25:00Z
-    webUrl: "https://www.michiganradio.org/criminal-justice-legal-system/2023-08-07/third-person-sues-detroit-police-over-false-arrest-based-on-facial-recognition"
-    type: article
-    provider:
-      name: Michigan Radio
-      domain: michiganradio.org
-    quality: 35
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/d9d3889/2147483647/strip/true/crop/959x503+0+43/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fmichigan%2Ffiles%2F201908%2Ffacial_recognition_dawson.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Detroit Facial Recognition Software Results in Wrongful Arrest of Pregnant Woman"
-    excerpt: "Recent reports have revealed that the Detroit Police Department wrongly arrested a pregnant Black woman for a crime she did not commit after she was misidentified by the city’s facial recognition software."
-    publishedDateTime: 2023-08-07T19:36:00Z
-    webUrl: "https://truthout.org/articles/detroit-facial-recognition-software-results-in-wrongful-arrest-of-pregnant-woman/"
-    type: article
-    provider:
-      name: Truthout
-      domain: truthout.org
-    quality: 34
-    images:
-      - url: "https://truthout.org/app/uploads/2023/08/2023_0807-cops-scaled.jpg"
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/08/117869015_l_normal_none-scaled.jpg?fit=2560%2C1707&ssl=1"
         width: 2560
         height: 1707
         isCached: true
-  - title: "Mom Sues Detroit After Facial Recognition Software Leads to Wrongful Arrest While Pregnant"
-    excerpt: "She spent the day sitting in jail on a concrete bench where she experienced stress-related contractions and was later diagnosed with dehydration."
-    publishedDateTime: 2023-08-08T14:50:00Z
-    webUrl: "https://ijr.com/mom-sues-detroit-facial-recognition-software-leads-wrongful-arrest-pregnant/"
+  - title: "Application of facial recognition tech needs to be strictly regulated"
+    excerpt: "Although the technology will improve efficiency and convenience, it brings with it deep security risks. The draft regulation is aimed at improving standardized application and compliance of facial recognition technology in order to effectively protect personal information and property rights, and maintain social order and public safety."
+    publishedDateTime: 2023-08-09T23:36:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202308/10/WS64d415c7a31035260b81b385.html"
     type: article
     provider:
-      name: ijr.com
-      domain: ijr.com
-    quality: 29
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
     images:
-      - url: "https://ijr.com/wp-content/uploads/2022/06/GettyImages-1290950900.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "A Black Mother Is Suing After She Was Wrongfully Arrested Due to Faulty Facial Recognition ID"
-    excerpt: "A woman is suing the city of Detroit after she was wrongfully arrested for robbery and carjacking over faulty facial recognition technology. Porcha Woodruff was eight months pregnant and getting her two children ready for school when six police officers showed up at her home in February to take her into custody."
-    publishedDateTime: 2023-08-07T15:18:00Z
-    webUrl: "https://www.democracynow.org/2023/8/7/headlines/a_black_mother_is_suing_after_she_was_wrongfully_arrested_due_to_faulty_facial_recognition_id"
-    type: article
-    provider:
-      name: Democracy Now
-      domain: democracynow.org
-    quality: 28
-    images:
-      - url: "https://www.democracynow.org/images/headlines/26/68426/full_hd/HD17-Porcha-Woodruff-CREDIT.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Detroit woman sues Detroit Police Department after arrest over false facial recognition match"
-    excerpt: "There have been only six reported cases in the U.S. of facial recognition technology misidentifying a person as a suspect in a crime, and three of those have happened in the city of Detroit."
-    publishedDateTime: 2023-08-08T22:11:00Z
-    webUrl: "https://www.cbsnews.com/detroit/video/detroit-woman-sues-detroit-police-department-after-arrest-over-false-facial-recognition-match/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 28
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/08/ffb062bc-4a29-45e1-a440-af2906a6b0ef/thumbnail/1200x630/1e78891d88e1eeb8b6e58e28d7fb2ded/591f91033516cfea06122f1bdb5b4220.jpg?v=4c3eff96812a3b6c2e014b1daed33369"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Detroit Woman Files Lawsuit After Facial Recognition Misidentifies Her As A Carjacking Suspect"
-    excerpt: "Porcha Woodruff was arrested by six Detroit police officers after facial recognition software misidentified her."
-    publishedDateTime: 2023-08-08T22:00:00Z
-    webUrl: "https://www.blackenterprise.com/news-woman-sues-detroit-facial-recognition-error/"
-    type: article
-    provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
-    quality: 27
-    images:
-      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2023/08/GettyImages-1397556029-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Detroit Police Chief says faulty police work, not facial recognition, to blame for false arrest"
-    excerpt: "At a Wednesday press conference, Chief James White insisted that Porcha Woodruff's wrongful arrest wasn’t a case of botched facial recognition. Instead, he blamed investigators for using improper procedures,"
-    publishedDateTime: 2023-08-10T10:53:00Z
-    webUrl: "https://www.michiganradio.org/criminal-justice-legal-system/2023-08-10/detroit-police-chief-says-faulty-police-work-not-facial-recognition-to-blame-for-false-arrest"
-    type: article
-    provider:
-      name: Michigan Radio
-      domain: michiganradio.org
-    quality: 27
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/d9108b4/2147483647/strip/true/crop/1254x658+0+27/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F0e%2F9d22aee246bcbb9baa6795f5a32a%2Fdpd-chief-james-white-3.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Detroit police in deep water after arresting pregnant black woman due to facial recognition error"
-    excerpt: "Detroit police in deep water after arresting pregnant black woman due to facial recognition error - SiliconANGLE"
-    publishedDateTime: 2023-08-08T02:45:00Z
-    webUrl: "https://siliconangle.com/2023/08/07/detroit-police-deep-water-arresting-pregnant-black-woman-due-facial-recognition-error/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/chris-curry-HowMXqv-ty4-unsplash.jpg"
-        width: 640
+      - url: "https://img2.chinadaily.com.cn/images/202308/10/64d415c7a310352610ba6cf4.jpeg"
+        width: 721
         height: 480
         isCached: true
-  - title: "Detroit woman sues city over false arrest while 8 months pregnant due to faulty facial recognition"
-    excerpt: "A Detroit woman who claims she was falsely arrested for carjacking and robbery while eight months pregnant is suing the city over faulty facial recognition technology used by the police department, according to court documents."
-    publishedDateTime: 2023-08-07T23:50:00Z
-    webUrl: "https://www.cbsnews.com/detroit/video/detroit-woman-sues-city-over-false-arrest-while-8-months-pregnant-due-to-faulty-facial-recognition/"
+  - title: "DPD pushes to enact changes to photo lineups after facial recognition lawsuit"
+    excerpt: "DPD Chief James White spoke Wednesday about a lawsuit filed last week in response to the department’s use of facial recognition technology that led to a Detroit woman being falsely arrested."
+    publishedDateTime: 2023-08-09T21:35:00Z
+    webUrl: "https://www.wxyz.com/news/dpd-pushes-to-enact-changes-to-photo-lineups-after-facial-recognition-lawsuit"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 25
+      name: WXYZ
+      domain: wxyz.com
+    quality: 36
     images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/07/9802ad96-4197-460b-a567-1af020bb108c/thumbnail/1200x630/2512c50904a026ae5bda7ee10408817d/e2ce76d9698c8b642d8a385de025f5d8.jpg?v=4c3eff96812a3b6c2e014b1daed33369"
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c4d91d6/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2Fdf3%2Fbe88c4e651db4a7dbe102614d7272948%2Fdf361fcd68a54b8da81329dfc436b5ec%2Fposter_0a47622d89c94d479fafd0c213d1a00f.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Detroit police in deep water after using erroneous facial recognition to arrest pregnant black woman"
-    excerpt: "Detroit police in deep water after using erroneous facial recognition to arrest pregnant black woman - SiliconANGLE"
-    publishedDateTime: 2023-08-08T02:51:00Z
-    webUrl: "https://siliconangle.com/2023/08/07/detroit-police-deep-water-using-erroneous-facial-recognition-arrest-pregnant-black-woman/"
+  - title: "State report identifies risks in schools' use of facial recognition technology"
+    excerpt: "The New York State Office of Information Technology Services (ITS) has determined that, when it comes to the use of facial recognition technology for security in schools, the “risks may"
+    publishedDateTime: 2023-08-09T00:45:00Z
+    webUrl: "https://www.lockportjournal.com/news/state-report-identifies-risks-in-schools-use-of-facial-recognition-technology/article_4b7405e2-3637-11ee-b21f-83bab4da8249.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
+      name: Lockport Union-Sun & Journal
+      domain: lockportjournal.com
+    quality: 35
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/chris-curry-HowMXqv-ty4-unsplash.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/custom/image/1607916a-a04b-11e5-8da0-23a879e9bf1f.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Pregnant Woman’s False Arrest in Detroit Shows “Racism Gets Embedded” in Facial Recognition Technology"
-    excerpt: "A shocking story of wrongful arrest in Detroit has renewed scrutiny of how facial recognition software is being deployed by police departments, despite major flaws in the technology. Porcha Woodruff was arrested in February when police showed up at her house accusing her of robbery and carjacking."
-    publishedDateTime: 2023-08-07T14:43:00Z
-    webUrl: "https://www.democracynow.org/2023/8/7/facial_recognition_dorothy_roberts"
-    type: article
-    provider:
-      name: Democracy Now
-      domain: democracynow.org
-    quality: 23
-    images:
-      - url: "https://www.democracynow.org/images/story/28/68428/full_hd/BooksplitV2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Woman sues city of Detroit after being wrongfully arrested while pregnant because of facial recognition tech"
-    excerpt: "A woman who was wrongfully arrested while pregnant because of facial recognition technology is suing the city of Detroit and a police officer."
-    publishedDateTime: 2023-08-08T21:34:00Z
-    webUrl: "https://wdet.org/2023/08/08/detroit-lawsuit-facial-recognition-leads-to-wrongful-arrest/"
-    type: article
-    provider:
-      name: WDET
-      domain: wdet.org
-    quality: 20
-    images:
-      - url: "https://wdet.org/wp-content/uploads/2023/08/DPD-Police-Cars-scaled.jpg"
-        width: 2560
-        height: 1437
-        isCached: true
-  - title: "Woman Falsely Arrested Sues Detroit Over Facial Recognition"
-    excerpt: "A woman who was eight months pregnant when faulty facial recognition technology led to her false arrest on carjacking charges is suing the city of Detroit and the police detective assigned to her case."
-    publishedDateTime: 2023-08-07T19:50:00Z
-    webUrl: "https://www.govtech.com/public-safety/woman-falsely-arrested-sues-detroit-over-facial-recognition"
+  - title: "NY State Report Cautions Against Facial Recognition in Schools"
+    excerpt: "In setting policy on facial recognition, the New York State Education Department will take a cue from a new report from the State Office of Information Technology Services that found the risks may outweigh the benefits."
+    publishedDateTime: 2023-08-09T18:24:00Z
+    webUrl: "https://www.govtech.com/education/k-12/ny-state-report-cautions-against-facial-recognition-in-schools"
     type: article
     provider:
       name: Government Technology
       domain: govtech.com
+    quality: 34
+  - title: "China Plans To Restrict Use Of Facial Recognition Tech By Businesses, Issues Draft Guidelines"
+    excerpt: "China is planning to restrict private businesses from using facial recognition technology less than two years after it announced a data security law."
+    publishedDateTime: 2023-08-09T09:32:00Z
+    webUrl: "https://www.ibtimes.com/china-plans-restrict-use-facial-recognition-tech-businesses-issues-draft-guidelines-3708019"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 28
+    images:
+      - url: "https://d.ibtimes.com/en/full/3134691/facial-recognition-systems-could-using-your-photos-without-your-knowledge.jpg"
+        width: 1920
+        height: 1285
+        isCached: true
+  - title: "China Drafts Rules for Facial Recognition Technology"
+    excerpt: "The Cyberspace Administration of China has issued draft rules governing the use of facial recognition technology amid public concerns about its overuse."
+    publishedDateTime: 2023-08-09T16:38:00Z
+    webUrl: "https://cacm.acm.org/news/275343-china-drafts-rules-for-facial-recognition-technology/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
     quality: 19
-  - title: "Eight months pregnant and arrested after false facial recognition match"
-    excerpt: "Porcha Woodruff, who is the first woman known to be wrongfully accused as a result of facial recognition technology, thought the police who showed up at her door to arrest her for carjacking were joking."
-    publishedDateTime: 2023-08-09T18:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/eight-months-pregnant-and-arrested-after-false-facial-recognition-match/"
+  - title: "Lawsuit filed after facial recognition tech causes wrongful arrest of pregnant woman"
+    excerpt: "Flawed facial recognition technology caused the wrongful arrest of a pregnant woman in Detroit, the latest in a string of false arrests blamed on the technology, according to a federal lawsuit ..."
+    publishedDateTime: 2023-08-08T17:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
-  - title: "Detroit police plan facial recognition policy changes after false arrest lawsuit"
-    excerpt: "The Detroit Police Department will be changing its policies surrounding the use of facial recognition technology in police lineups. The changes come on the heels of a lawsuit filed against the department."
-    publishedDateTime: 2023-08-10T03:11:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/detroit-police-plan-facial-recognition-policy-changes-after-false-arrest-lawsuit/"
+      name: USA Today
+      domain: usatoday.com
+    quality: 12
+  - title: "Is facial recognition used in NY's schools? State urges caution with biometric technology"
+    excerpt: "A new state report urges New York's schools to exercise caution in their use of constantly evolving biometric identifying technology, such as facial recognition. \"Discernable risks\" outlined in ..."
+    publishedDateTime: 2023-08-09T15:20:00Z
+    webUrl: "https://www.lohud.com/story/news/education/2023/08/09/new-york-state-report-urges-schools-cautious-biometric-identifying-technology-facial-recognition/70544753007/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 14
-  - title: "Detroit Police Department seeks changes after suit over facial recognition-related arrest"
-    excerpt: "Chief James White said Porcha Woodruff's arrest 'emanated from, candidly and unfortunately, a poor investigation.'"
-    publishedDateTime: 2023-08-10T02:07:00Z
-    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2023/08/09/detroit-police-department-seeks-changes-after-suit-over-facial-recognition-related-arrest/70563426007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
+      name: The Journal News
+      domain: lohud.com
     quality: 10
-  - title: "Pregnant woman's arrest in carjacking case spurs call to end Detroit police facial recognition"
-    excerpt: "A Detroit woman who was arrested in connection with a suspected robbery and carjacking when she was eight months pregnant is suing the city and one of its police officers for what she says is an over-"
-    publishedDateTime: 2023-08-07T20:02:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/pregnant-womans-arrest-carjacking-case-spurs-call-end-102081277"
+  - title: "How Flawed Facial Recognition Technology Led to Arrest of 8-Months-Pregnant Woman on False Carjacking Charge"
+    excerpt: "The case against her began with faulty facial recognition technology NIC ANTAYA/The New York Times/Redux When six Detroit police officers knocked on her door one morning this February and told ..."
+    publishedDateTime: 2023-08-11T01:17:00Z
+    webUrl: "https://people.com/pregnant-woman-falsely-accused-carjacking-facial-recognition-technology-7571184"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 7
-  - title: "Pregnant mother-of-two wrongly arrested for robbery and carjacking after false facial recognition says she was having contractions in the holding cell: 'Shoddy technology' has ..."
-    excerpt: "A Michigan woman who was eight months pregnant became the latest person to be falsely charged after police used facial recognition technology to arrest her on suspicion of carjacking and robbery."
-    publishedDateTime: 2023-08-07T14:19:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12379181/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12379181/amp/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12379181/amp/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 5
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/08/07/02/74026263-0-image-a-3_1691370347907.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "‘I Was Scared’: Detroit Woman Wrongly Arrested While 8 Months Pregnant for Carjacking, Robbery Due to Botched Facial Recognition Technology"
-    excerpt: "A 32-year-old Detroit, Michigan, woman is taking legal action against the city after she was falsely accused of carjacking and robbery due to a facial"
-    publishedDateTime: 2023-08-08T14:44:00Z
-    webUrl: "https://atlantablackstar.com/2023/08/08/detroit-woman-wrongly-arrested-pregnant-for-carjacking/"
-    type: article
-    provider:
-      name: Atlanta Blackstar
-      domain: atlantablackstar.com
-    quality: 5
-    images:
-      - url: "https://atlantablackstar.com/wp-content/uploads/2024/08/Pregnant-Wrongfully-Arrested-Because-of-Facial-Recognition.jpg"
-        width: 1200
-        height: 697
-        isCached: true
+      name: People
+      domain: people.com
+    quality: 0
 
 secured: "Gp0diPU1g0szsHkJBpSZiZv7ntMNstUvJ2Lr8AI5NMDqZOpM1N+ccKI23LBwOVHKn52/3hqoAtm9jCgMQ4vC2mzycGHA4uZNHDKJpbFrYeLH/4mJSogVIy7gKrv7W65ZImQKdTXXvC3Nwe9gJ3KNlA1W0YqczhSi8L13cM9nDMCeCoYI4zrpYL6y3ImZgbPqYtHbf0pTY5rgoX0KzyfbSN5dD+u7mR9FYqxA8S6mW/VBoWeMiOuxJn11hPonaGp0S9/G37IO5BDfAaDIuhh0zjbHZMK62qoRVsH92zt1HrTSnKADPUoS5+YEgePb4vBEdl2nXcRG8T400X1ivJ8Sjako6bnbmeUpJRyfpXMq5G8=;wWIB9fu+5d6Zl4T9BcViRw=="
 ---

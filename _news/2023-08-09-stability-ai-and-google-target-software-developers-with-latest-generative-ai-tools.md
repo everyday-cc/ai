@@ -24,38 +24,48 @@ images:
     isCached: true
 
 related:
-  - title: "Scale generative AI with new Azure AI infrastructure advancements and availability"
-    excerpt: "We are excited to share a series of announcements that highlight Microsoft Azure’s commitment to driving innovation and empowering businesses with cutting-edge AI solutions.\nThe post Scale generative AI with new Azure AI infrastructure advancements and availability appeared first on Azure Blog.\n"
-    publishedDateTime: 2023-08-07T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/"
+  - title: "DataRobot updates AI development platform to cover entire generative AI lifecycle for enterprises"
+    excerpt: "DataRobot announced new generative AI capabilities and applied services for building business-focused LLM applications quickly and easily."
+    publishedDateTime: 2023-08-10T16:30:00Z
+    webUrl: "https://venturebeat.com/ai/datarobot-updates-ai-development-platform-to-cover-entire-generative-ai-lifecycle-for-enterprises/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 78
-  - title: "Build generative AI applications using Azure and NVIDIA H100 Tensor Core GPUs"
-    excerpt: "Microsoft Azure users can now leverage the latest NVIDIA accelerated computing technology to train, deploy and build generative AI applications. The"
-    publishedDateTime: 2023-08-08T08:37:00Z
-    webUrl: "https://www.geeky-gadgets.com/build-generative-ai-apps-08-08-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 68
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 71
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Build-generative-AI-applications.jpg"
-        width: 700
-        height: 461
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-27-e1691683910498.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Transforming sustainable agriculture: The Nature Conservancy Centre and IBM unite to reduce crop residue burning in North India"
-    excerpt: "In the pursuit of long-lasting solutions, TNCC has partnered with IBM to leverage the necessary technology and data resources.\nThe post Transforming sustainable agriculture: The Nature Conservancy Centre and IBM unite to reduce crop residue burning in North India appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-07T20:36:06Z
-    webUrl: "https://www.ibm.com/blog/transforming-sustainable-agriculture-the-nature-conservancy-centre-and-ibm-unite-to-reduce-crop-residue-burning-in-north-india/"
+  - title: "Rasgo launches Rasgo AI, a generative AI agent for enterprise data warehouse analytics"
+    excerpt: "Rasgo said its AI employs GPT for “intelligent reasoning,” which enables it to think and act like a business analyst for data warehouses."
+    publishedDateTime: 2023-08-10T18:49:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/rasgo-launches-rasgo-ai-generative-ai-agent-enterprise-data-warehouse-analytics/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/rasgo.png?w=1200&strip=all"
+        width: 1032
+        height: 668
+        isCached: true
+  - title: "DataRobot announces new applied generative AI offering for building trustworthy AI apps"
+    excerpt: "Artificial intelligence startup DataRobot Inc. today announced a new generative AI offering designed to allow businesses and developers to integrate their data into AI models and gain confidence in the answers that they receive."
+    publishedDateTime: 2023-08-10T16:07:00Z
+    webUrl: "https://siliconangle.com/2023/08/10/datarobot-announces-new-applied-generative-ai-offering-building-trustworthy-ai-apps/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/datarobot.png"
+        width: 930
+        height: 517
+        isCached: true
 
 secured: "r+hqe63wLwt7A36SmXLqvz7MoeJ/cKU8lX3UrRxEaG6K2VIWRFCD+d5nrPmyy4AaiX4TwEXi7Xz0mjQDNLpeH8FP9RALRtQdCTdh/1HWwdAfyWKN43QCc9GKbqJSU84jSWXG/1QFzS1Y8BK93lBesAOOj/iyjawFkJqg2lLjCJSwyaD6SWyjSbH+TM5b/UtMJCLtMqMnQbfSvMkB9dvrlDrdkLeUTMHKRQNqtr5zMxSqL/VncHHDCdVK/ThFa7kVFw5MqPcvKZ3dqrCcvE6+Ui27JPSl9IgtPNqoEn9F0CBcES2bAbnIFZWlooKWhZ0lY8oZ2cWcAHdFNfwFSuo72SpYpAnNBzxDglpouhHdLGtHyG1GfI3J0kDk/a9DzWTdROr6O8CJk28KPAdN1xPDv2kG/LQDnT9TwFlkDsmdXl3LskecuXAaI2ZNHH0B0uJ0bmj6fKmMpJKYvga6EuOecZmAwZZRSFHQCvQ6BuPmqUOKXzymTUdiNNIZ8lCHC7yJhHXy6Lf2MOQoW6l/zK9mYg==;EerU343zn/1DLW71gHzxlg=="
 ---

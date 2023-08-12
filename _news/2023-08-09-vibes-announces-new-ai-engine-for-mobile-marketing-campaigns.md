@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/vibes-announces-new-ai-engine-for-mobil
 webUrl: "https://venturebeat.com/ai/vibes-announces-new-ai-engine-for-mobile-marketing-campaigns/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 672
     isCached: true
-
-related:
-  - title: "Pharma Earnings Reports Are Moving The Markets And AI Shakes Up The Emerging Tech Space - Forbes AI Newsletter August 5th"
-    excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
-    publishedDateTime: 2023-08-07T14:16:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/08/07/pharma-earnings-reports-are-moving-the-markets-and-ai-shakes-up-the-emerging-tech-spaceforbes-ai-newsletter-august-5th/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d0fc60aad203763e16bfb6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "WcnKOSbXQNES4pv+Xn2ubi6qDT2j3nPBKjU+vijCJwhKuxU2B4Nyzi2WkrhFI7eLy9A+M1r7UL3lHEfuo+M61uRRqnx3ZxiBuSf2GqGMS6PafzkvvW4uTGzJhAKJssJ7DavPbBQ91xcWxlz1GalqU/eokp6drOm/EtJVGn4g9pceeMmzSPLrbjYWwij6u+FJjQ01GKGl2kWN9F2MGrPvayCk+MAP3YnwbXPUQ60GMjh5lfjThOVLczXe7vde4HmuW0vRHvOM7UNenOEeVrQ7fyWzOKQ+8lf60+CgtEJ3rdzOeJ/l11xFFnU4kd0rVziUKfU9u+I0u7LPI47bCXdLDXLN1zBaqHwLiXEtZj9txgg=;qskUrx/2/NuOno0+GtqjiQ=="
 ---
