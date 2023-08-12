@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/08/11/can-ai-bring-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/08/11/can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce/amp/"
 type: article
 quality: 104
-heat: 106
+heat: 104
 published: true
 
 provider:

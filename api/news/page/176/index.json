@@ -2,6 +2,58 @@
   "page": 176,
   "value": [
     {
+      "path": "_news/2023-04-24-zoop-teams-with-humansai-to-translate-celebrity-talk-into-new-languages-for-fans-worldwide.md",
+      "title": "Zoop teams with Humans.ai to translate celebrity talk into new languages for fans worldwide",
+      "excerpt": "Zoop, which connects fans with their favorite celebrities and creators, has partnered with AI startup Humans.ai to break down language barriers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/zoop-teams-with-humans-ai-to-translate-celebrity-talk-into-new-languages-for-fans-worldwide/",
+      "originalUrl": "https://venturebeat.com/ai/zoop-teams-with-humans-ai-to-translate-celebrity-talk-into-new-languages-for-fans-worldwide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/zoop.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/zoop-teams-with-humans-ai-to-translate-celebrity-talk-into-new-languages-for-fans-worldwide/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/zoop-teams-with-humans-ai-to-translate-celebrity-talk-into-new-languages-for-fans-worldwide/amp/",
+      "publishedDateTime": "2023-04-24T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-natural-language-processing-nlp-in-healthcare-market-growth-by-2031.md",
       "title": "Natural Language Processing (NLP) in Healthcare Market Growth by 2031",
       "excerpt": "The latest market research report on the Global \"Natural Language Processing (NLP) in Healthcare Market\" is segmented",
@@ -1101,49 +1153,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-simulations-with-a-machine-learning-model-predict-a-new-phase-of-solid-hydrogen.md",
-      "title": "Simulations with a machine learning model predict a new phase of solid hydrogen",
-      "excerpt": "Hydrogen, the most abundant element in the universe, is found everywhere from the dust filling most of outer space to the cores of stars to many substances here on Earth. This would be reason enough to study hydrogen,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.html",
-      "originalUrl": "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/putting-hydrogen-on-so.jpg",
-          "width": 955,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.amp",
-      "publishedDateTime": "2023-04-21T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

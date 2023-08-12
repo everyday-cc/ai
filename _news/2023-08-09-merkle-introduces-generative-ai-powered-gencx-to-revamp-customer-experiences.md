@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 658
         isCached: true
-  - title: "Your Customers Deserve A Better Experience—And AI Can Help"
-    excerpt: "It’s all about reimagining the entire customer journey and modifying it with an “AI infusion” to create optimal hybrid intelligence."
-    publishedDateTime: 2023-08-07T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/your-customers-deserve-a-better-experience-and-ai-can-help/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Disney AI task force aims to cut costs, enhance experiences across the company"
     excerpt: "The Walt Disney Company has formed a task force to investigate the potential applications of AI throughout its various business units, reports Reuters, including cutting costs and enhancing customer experiences. This comes despite ongoing Hollywood writers' and actors' strikes that have put some AI technologies in the crosshairs."
     publishedDateTime: 2023-08-08T18:50:00Z

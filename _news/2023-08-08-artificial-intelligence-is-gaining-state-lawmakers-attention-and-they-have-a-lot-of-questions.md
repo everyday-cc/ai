@@ -21,14 +21,14 @@ related:
   - title: "Artificial intelligence is gaining state lawmakers' attention, and they have a lot of questions"
     excerpt: "Legislators seek ways to protect constituents while not hindering advancements in medicine, science, business, education and more."
     publishedDateTime: 2023-08-11T21:15:00Z
-    webUrl: "https://richmond.com/news/nation-world/government-politics/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/article_308930d7-148a-51c2-9234-110dee60bdd5.html"
+    webUrl: "https://omaha.com/news/nation-world/government-politics/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/article_ce000d2d-7e54-5b7f-9ff9-8270d3cc99dd.html"
     type: article
     provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 44
+      name: Omaha.com
+      domain: omaha.com
+    quality: 42
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/3/08/308930d7-148a-51c2-9234-110dee60bdd5/64d2697646657.preview.jpg?crop=882%2C463%2C168%2C630&resize=882%2C463&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/e0/ce000d2d-7e54-5b7f-9ff9-8270d3cc99dd/64d269758c399.preview.jpg?crop=882%2C463%2C168%2C630&resize=882%2C463&order=crop%2Cresize"
         width: 882
         height: 463
         isCached: true

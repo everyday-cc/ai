@@ -2,6 +2,58 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2023-06-21-the-economic-benefits-of-innovating-with-azure-ai.md",
+      "title": "The economic benefits of innovating with Azure AI",
+      "excerpt": "While business and technology leaders are ready to invest in AI, they need help making the financial case for tools they need to build great products. That’s why today we’re sharing a new commissioned Total Economic Impact™ (TEI) study conducted by Forrester Consulting, which captures the costs and benefits",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/the-economic-benefits-of-innovating-with-azure-ai/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/the-economic-benefits-of-innovating-with-azure-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Forrester-pic-1-1.jpg",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace.md",
       "title": "Ekinops Offers Direct Routing Voice and Security Abilities to Microsoft Teams Clients from the Azure Marketplace",
       "excerpt": "Ekinops is available on the Microsoft Azure Market place. Telecom service vendors can benefit from developing their voice services.",
@@ -1114,57 +1166,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-to-save-the-planet-start-digging.md",
-      "title": "To Save the Planet, Start Digging",
-      "excerpt": "Environmentalist Jamie Beard has been pushing her vision to tap into geothermal energy—by working with Big Oil. Can it ever work?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/have-a-nice-future-podcast-11/",
-      "originalUrl": "https://www.wired.com/story/have-a-nice-future-podcast-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6492655bf2de86183cf5b51f/master/pass/HANF-jamie-beard.jpg",
-          "width": 1350,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/have-a-nice-future-podcast-11/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/have-a-nice-future-podcast-11/amp",
-      "publishedDateTime": "2023-06-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

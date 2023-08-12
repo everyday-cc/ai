@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gq.com/story/hari-kunzru-prosecraft-ai-interview/amp"
 cdnAmpWebUrl: "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/hari-kunzru-prosecraft-ai-interview/amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 2000
     height: 1125
     isCached: true
-
-related:
-  - title: "What can you do when AI lies about you?"
-    excerpt: "Sometimes, AI creates and spreads fiction about specific people that threatens their reputations and leaves them with few options for protection or recourse."
-    publishedDateTime: 2023-08-07T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/what-can-you-do-when-ai-lies-about-you/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "AJimmKktEF0utBnPdiLaivz8qx1WItWx8C0P6jxcLxKKstTH/ZueKvEJfXpByxhdyFTwP7oYBGwV5toVuUC1E34qJ6JZnGcEq7qs9M/PplbFskqUNYK5SYh5fVndjGTLNrIRbaUNcRo7cXhn4gRoWCk4m7m3wfOhKIGAH0yp3gQKAAkTHxlN5aBekIqsIUPnAOuzW4rUrS/utKkdg3+x585uR+Fs1spJNviEoAU8vSQYR3qg+DCz+zbg32otD6ObnmgflSyjkEBXcHSM6ftkhUDhjO1PV+YjwMVorvxDWRfls9UHXf8pcX4cj743V2Z3kNBXbVRzgKaxoIPDiz5psFIYvpH1p7ItzaBCDFUe+28=;k1ei3B2NC7SjSLu7hUP5jg=="
 ---

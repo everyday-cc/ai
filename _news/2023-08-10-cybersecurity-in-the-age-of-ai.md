@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why do we need safeguards for AI? Cyber security, human manipulation"
-    excerpt: "AI has the potential to significantly improve our lives by finding new cures for diseases, cost-effectively educating the masses and solving some of humanity's most complex problems. However, I am also convinced that without the appropriate safeguards,"
-    publishedDateTime: 2023-08-07T11:48:00Z
-    webUrl: "https://wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/"
-    ampWebUrl: "https://wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/07/why-do-we-need-safeguards-for-ai-cyber-security-human-manipulation/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 74
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
   - title: "Human-plus-AI solutions mitigate security threats"
     excerpt: "With the right human oversight, emerging technologies like artificial intelligence can help keep business and customer data secure"
     publishedDateTime: 2023-08-10T14:00:00Z

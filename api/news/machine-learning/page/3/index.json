@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-07-18-artificial-intelligence-will-not-kill-creativity-opine-tech-literature-and-arts-experts.md",
-      "title": "Artificial Intelligence will not kill creativity, opine tech, literature and arts experts",
-      "excerpt": "Despite the almost daily development in programs and applications of artificial intelligence (AI), it is impossible to abandon the human creator,",
-      "sourceUrl": null,
-      "webUrl": "https://thepeninsulaqatar.com/article/18/07/2023/artificial-intelligence-will-not-kill-creativity-opine-tech-literature-and-arts-experts",
-      "originalUrl": "https://thepeninsulaqatar.com/article/18/07/2023/artificial-intelligence-will-not-kill-creativity-opine-tech-literature-and-arts-experts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thepeninsulaqatar.com/get/maximage/20230718_1689659446-844.jpg?1689659446",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T22:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Peninsula",
-        "domain": "thepeninsulaqatar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-18-teradata-vantagecloud-lake-brings-exciting-aiml-use-cases-to-microsoft-azure.md",
       "title": "Teradata VantageCloud Lake Brings Exciting AI/ML Use Cases to Microsoft Azure",
       "excerpt": "Teradata is announcing its newfound collaboration with Microsoft, bringing the Teradata VantageCloud Lake to Microsoft Azure, extending the solution's reach while simultaneously broadening its use cases to include generative AI.",
@@ -1277,6 +1234,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-auto-labeling-module-for-deep-learning-based-advanced-driver-assistance-systems-on-aws.md",
+      "title": "Auto-labeling module for deep learning-based Advanced Driver Assistance Systems on AWS",
+      "excerpt": "In computer vision (CV), adding tags to identify objects of interest or bounding boxes to locate the objects is called labeling. It’s one of the prerequisite tasks to prepare training data to train a deep learning model. Hundreds of thousands of work hours are spent generating high-quality labels from",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/auto-labeling-module-for-deep-learning-based-advanced-driver-assistance-systems-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/auto-labeling-module-for-deep-learning-based-advanced-driver-assistance-systems-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/19/ml-13782-image001-1260x573.jpg",
+          "width": 1260,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T07:24:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
       ]
     }
   ],

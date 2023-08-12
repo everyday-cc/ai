@@ -2,6 +2,48 @@
   "page": 133,
   "value": [
     {
+      "path": "_news/2023-05-17-ai-hearing-fills-technical-knowledge-that-lawmakers-sometimes-lack-democratic-congressman.md",
+      "title": "AI hearing fills ‘technical knowledge’ that lawmakers sometimes ‘lack’: Democratic congressman",
+      "excerpt": "Rep. Jay Obernolte (R-Calif.) joins Meet the Press NOW to discuss the potential and dangers of AI, as well as Congress’ road to regulation for the rapidly developing technology following Tuesday’s AI hearing on Capitol Hill.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/ai-hearing-fills-technical-knowledge-that-lawmakers-sometimes-lack-democratic-congressman-174544453566",
+      "originalUrl": "https://www.nbcnews.com/video/ai-hearing-fills-technical-knowledge-that-lawmakers-sometimes-lack-democratic-congressman-174544453566",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684273276825_now_mtp_full_obernolte_230518_1920x1080-81fq9s.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174544453566",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174544453566",
+      "publishedDateTime": "2023-05-16T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-nigeria-election-di-unexplained-nigeria-election-votes-wey-political-parties-dey-contest.md",
       "title": "Nigeria election: Di unexplained Nigeria election votes wey political parties dey contest",
       "excerpt": "Wen we compare di profile image for dis account to di television pictures of Dr Ariaga using Amazon Rekognition software, we achieve a match of 97.2%, wey indicate a very high probability say dem be di same man. Dr Ariaga no respond to messages wey we send ...",
@@ -1132,58 +1174,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down.md",
-      "title": "Tesla’s “Full Self-Driving” sees pedestrian, chooses not to slow down",
-      "excerpt": "But alarmingly, a video posted to Twitter over the weekend shows that although the Tesla system can see pedestrians crossing the road, a Tesla can choose not to stop or even slow down as it drives past.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/",
-      "originalUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/FSD-screenshot-800x452.jpg",
-          "width": 800,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/",
-      "publishedDateTime": "2023-05-16T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

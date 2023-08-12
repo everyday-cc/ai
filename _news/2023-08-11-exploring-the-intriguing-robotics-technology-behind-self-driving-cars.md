@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/exploring-the-intriguing-robotics-technolo
 webUrl: "https://techbullion.com/exploring-the-intriguing-robotics-technology-behind-self-driving-cars/"
 type: article
 quality: 56
-heat: 128
+heat: 146
 published: true
 
 provider:
@@ -78,6 +78,34 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/f/9a/f9a05a43-2db5-5ef1-9219-133cee44a141/64d3fcb1534e4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Self-Driving Taxi Market Report, 2023-2030"
+    excerpt: "Self-Driving Taxi Market 2023 Will Give Report Analysis that rapidly arising as one of the [Automobile & Transportation] Sector in the business, by T"
+    publishedDateTime: 2023-08-12T05:20:00Z
+    webUrl: "https://menafn.com/1106841342/Global-Self-Driving-Taxi-Market-Report-2023-2030"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?851084"
+        width: 368
+        height: 249
+        isCached: true
+  - title: "On abortion and self-driving cars"
+    excerpt: "To abort or not to abort is the flaming torch question? Why is this just about women and childbirth that are the focus of it all? I’m going to start"
+    publishedDateTime: 2023-08-12T04:00:00Z
+    webUrl: "https://www.starbeacon.com/opinion/on-abortion-and-self-driving-cars/article_732f4bf4-3881-11ee-9856-277ef744c5db.html"
+    type: article
+    provider:
+      name: Star Beacon
+      domain: starbeacon.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/starbeacon.com/content/tncms/custom/image/760622da-825e-11e5-8595-a7eb0b0092f8.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "A New Era in Environmental Monitoring: Uniting Satellite Data Analytics and Artificial Intelligence"
     excerpt: "Welcome to a pioneering era in environmental monitoring, where state-of-the-art technology converges with our pressing demand for sustainable solutions. Today, we delve into a groundbreaking innovation that harnesses the potential of satellite data analytics empowered by artificial intelligence (AI)."

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-12-supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas.md",
+      "title": "Supermarket AI Gives Horrifying Recipes For Poison Sandwiches And Deadly Chlorine Gas",
+      "excerpt": "It seems every company on the planet is experimenting with different ways to incorporate artificial intelligence into their consumer-facing products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/",
+      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d70d062ae3ad4e070f2e72/0x0.jpg?format=jpg&crop=3589,2020,x0,y330,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/amp/",
+      "publishedDateTime": "2023-08-11T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-12-unraveling-parkinsons-diversity-using-machine-learning.md",
       "title": "Unraveling Parkinson's Diversity Using Machine Learning",
       "excerpt": "Harnessing the strength of AI, researchers illuminate distinct Parkinson's disease types, successfully forecasting subtypes through patient stem cell imagery.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.medindia.net/news/unraveling-parkinsons-diversity-using-machine-learning-213069-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -53,7 +104,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33765664/ais-role-in-modern-healthcare-a-closer-look-at-clinical-practice",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -639,7 +690,7 @@
       "originalUrl": "https://www.reuters.com/video/watch/idsA$n?now=true",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -690,7 +741,7 @@
       "originalUrl": "https://www.forbes.com/sites/stephenwunker/2023/08/11/can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -785,7 +836,7 @@
       "originalUrl": "https://techbullion.com/exploring-the-intriguing-robotics-technology-behind-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -881,7 +932,7 @@
       "originalUrl": "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1152,50 +1203,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
-      "title": "Mountain View Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
-      "excerpt": "MOUNTAIN VIEW, Calif., Aug. 10, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by ThoughtSpot in Mountain View. Applications for the no-cost bootcamp are closing soon!",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032542192",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032542192",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

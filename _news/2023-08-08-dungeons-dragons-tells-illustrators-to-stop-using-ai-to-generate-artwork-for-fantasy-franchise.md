@@ -31,15 +31,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Dungeons & Dragons says its illustrators can't use AI after they discovered the tech was used for work featured in an upcoming book"
-    excerpt: "Dungeons & Dragons said they are updating their guidance around AI after discovering an artist had used the tech to generate work for a book."
-    publishedDateTime: 2023-08-07T11:49:00Z
-    webUrl: "https://www.businessinsider.com/dungeons-and-dragons-illustrators-cant-use-ai-for-art-commissions-2023-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
   - title: "Dungeons & Dragons franchise bans artists from using AI to draw characters, scenery"
     excerpt: "An artist for Dungeon & Dragon was caught using artificial intelligence to create commissioned artwork. The franchise informed artists they aren't allowed to use AI."
     publishedDateTime: 2023-08-07T13:26:00Z

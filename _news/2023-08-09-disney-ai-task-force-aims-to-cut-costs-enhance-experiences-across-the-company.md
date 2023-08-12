@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 658
         isCached: true
-  - title: "Your Customers Deserve A Better Experience—And AI Can Help"
-    excerpt: "It’s all about reimagining the entire customer journey and modifying it with an “AI infusion” to create optimal hybrid intelligence."
-    publishedDateTime: 2023-08-07T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/your-customers-deserve-a-better-experience-and-ai-can-help/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Merkle Introduces Generative AI Powered GenCX to Revamp Customer Experiences"
     excerpt: "Developed within dentsu's Azure OpenAI framework GenCX uses AI to analyse substantial amounts of brands' internal data."
     publishedDateTime: 2023-08-09T05:31:00Z

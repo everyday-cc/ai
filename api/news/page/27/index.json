@@ -2,6 +2,57 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-07-24-mark-zuckerberg-just-changed-artificial-intelligence-forever.md",
+      "title": "Mark Zuckerberg Just Changed Artificial Intelligence Forever",
+      "excerpt": "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/24/mark-zuckerberg-just-changed-artificial-intelligen/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/24/mark-zuckerberg-just-changed-artificial-intelligen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740797/ai-image.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-mdbio-the-doctors-brandtm-publishes-new-article-about-artificial-intelligence-in-healthcare.md",
       "title": "MDbio – The Doctors BrandTM Publishes New Article About Artificial Intelligence in Healthcare",
       "excerpt": "Beverly Hills, California, July 24, 2023 (GLOBE NEWSWIRE) -- MDbio – The Doctors BrandTM published a new article about artificial intelligence in healthcare and what the future of this ...",
@@ -1175,49 +1226,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-artificial-neural-networks-market-size-overview-top-key-players-growth-share-and-forecast-2031.md",
-      "title": "Artificial Neural Networks Market Size, Overview, Top Key Players, Growth, Share, and Forecast 2031",
-      "excerpt": "The global Artificial Neural Networks industry report provides top-notch qualitative and quantitative information including: Market size (2017-2021 value and 2022 forecast).",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33337075/artificial-neural-networks-market-size-overview-top-key-players-growth-share-and-forecast-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33337075/artificial-neural-networks-market-size-overview-top-key-players-growth-share-and-forecast-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33337075",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33337075",
-      "publishedDateTime": "2023-07-23T18:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

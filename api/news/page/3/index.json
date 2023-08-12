@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-10-meet-rebecca-gorman-whose-company-aligned-ai-is-trying-to-match-up-human-values-with-machine-learning.md",
+      "title": "Meet Rebecca Gorman, whose company, Aligned AI, is trying to match up human values with machine learning",
+      "excerpt": "Even the best artificial intelligence systems don’t always reflect what humans actually want—or need. Rebecca Gorman has made it her mission to better align these two things or rather, to better align A.I. with what humans are actually asking it to do ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/",
+      "originalUrl": "https://fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2023/07/Fortune-Founders-2023-Rebecca-Gorman.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/amp/",
+      "publishedDateTime": "2023-08-10T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-infibeam-avenues-ltd-to-include-ai-on-its-platform.md",
       "title": "Infibeam Avenues Ltd to include AI on its platform",
       "excerpt": "According to an official release, Infibeam Avenues Ltd, an Indian fintech company, announced its plans to include Artificial Intelligence (AI) to create an AI-based fraud detection market. The company expects to establish India’s first Artificial Intelligence (AI) HUB at the Gujarat International Finance Tec-City (GIFT City).",
@@ -501,7 +553,7 @@
       "originalUrl": "https://www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -810,7 +862,7 @@
       "originalUrl": "https://www.zdnet.com/article/dbs-bank-uncovers-big-data-challenges-with-ai-use/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -947,7 +999,7 @@
       "originalUrl": "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1094,21 +1146,21 @@
       ]
     },
     {
-      "path": "_news/2023-08-09-new-machine-learning-method-may-aid-personalized-cancer-therapy.md",
-      "title": "New machine-learning method may aid personalized cancer therapy",
-      "excerpt": "Deep-learning technology developed by a team of Johns Hopkins engineers and cancer researchers can accurately predict cancer-related protein fragments that may trigger an immune system response. If validated in clinical trials,",
+      "path": "_news/2023-08-09-dhs-says-it-identified-311-new-child-sexual-exploitation-victimsafter-forbes-reports-ai-facial-recognition-push.md",
+      "title": "DHS Says It Identified 311 New Child Sexual Exploitation Victims—After Forbes Reports AI Facial Recognition Push",
+      "excerpt": "Operation Renewed Hope has led to the identification of hundreds of victims who appeared in sexually explicit material online, authorities said.",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.html",
+      "webUrl": "https://www.forbes.com/sites/maryroeloffs/2023/08/09/dhs-says-it-identified-311-new-child-sexual-exploitation-victims-after-forbes-reports-ai-facial-recognition-push/",
+      "originalUrl": "https://www.forbes.com/sites/maryroeloffs/2023/08/09/dhs-says-it-identified-311-new-child-sexual-exploitation-victims-after-forbes-reports-ai-facial-recognition-push/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 83,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/new-machine-learning-m-1.jpg",
-          "width": 2167,
-          "height": 1522,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d3a50bf4f051e8f0d9d11b/0x0.jpg?format=jpg&crop=1652,930,x0,y85,safe&width=1200",
+          "width": 1200,
+          "height": 676,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1116,14 +1168,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.amp",
-      "publishedDateTime": "2023-08-09T08:45:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/maryroeloffs/2023/08/09/dhs-says-it-identified-311-new-child-sexual-exploitation-victims-after-forbes-reports-ai-facial-recognition-push/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maryroeloffs/2023/08/09/dhs-says-it-identified-311-new-child-sexual-exploitation-victims-after-forbes-reports-ai-facial-recognition-push/amp/",
+      "publishedDateTime": "2023-08-09T08:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1132,9 +1193,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1186,57 +1246,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-zoom-is-entangled-in-an-ai-privacy-mess.md",
-      "title": "Zoom is entangled in an AI privacy mess",
-      "excerpt": "The popular video conferencing platform's recent privacy and AI policy changes have exploded in the company's face. Here's what to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/zoom-is-entangled-in-an-ai-privacy-mess/",
-      "originalUrl": "https://www.zdnet.com/article/zoom-is-entangled-in-an-ai-privacy-mess/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/91657eac81e8c36e1c301d6dd38c99bb1328705b/2023/08/09/1407d605-d4f8-4813-9858-f1df66c9c5ca/gettyimages-1234804190.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/zoom-is-entangled-in-an-ai-privacy-mess/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zoom-is-entangled-in-an-ai-privacy-mess/",
-      "publishedDateTime": "2023-08-09T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

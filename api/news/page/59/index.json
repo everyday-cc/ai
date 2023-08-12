@@ -2,6 +2,49 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-07-03-microsoft-explores-ai-and-the-open-source-future-with-web3.md",
+      "title": "Microsoft Explores AI and 'The Open Source Future with Web3'",
+      "excerpt": "As part of an open-source-focused Azure event, Microsoft announced new AI capabilities and explored \"the open source future with Web3.\" That was the topic of a fireside chat that closed today's (March 7) Azure Open Source Day 2023, described as an ...",
+      "sourceUrl": null,
+      "webUrl": "https://virtualizationreview.com/articles/2023/03/07/azure-open-source.aspx",
+      "originalUrl": "https://virtualizationreview.com/articles/2023/03/07/azure-open-source.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://virtualizationreview.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0115vsm_dorseyVSTool.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virtualization Review",
+        "domain": "virtualizationreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-tensorflow-decision-forests-tutorials.md",
       "title": "TensorFlow Decision Forests tutorials",
       "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
@@ -1100,58 +1143,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-microsoft-tiktok-give-generative-ai-a-sort-of-memory.md",
-      "title": "Microsoft, TikTok give generative AI a sort of memory",
-      "excerpt": "The programs use databases to beat ChatGPT at hundreds of turns of dialogue. The innovations can give any large language model ChatGPT-like abilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/40efaf31e076a7b5738d107834bb0317e0dbb0fa/2023/06/30/23a7542e-8178-46ab-9918-d592cb186aec/tiktok-memory-bot-2023.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
-      "publishedDateTime": "2023-07-01T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,59 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-05-25-how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions.md",
-      "title": "How OCX Cognition reduced ML model development time from weeks to days and model update time from days to real time using AWS Step Functions and Amazon SageMaker",
-      "excerpt": "This post was co-authored by Brian Curry (Founder and Head of Products at OCX Cognition) and Sandhya MN (Data Science Lead at InfoGain) OCX Cognition is a San Francisco Bay Area-based startup, offering a commercial B2B software as a service (SaaS) product called Spectrum AI. Spectrum AI is a predictive",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/19/ml-13311Image12.png",
-          "width": 999,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T08:24:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-05-25-developing-deep-learning-systems-using-institutional-incremental-learning.md",
       "title": "Developing Deep Learning Systems Using Institutional Incremental Learning",
       "excerpt": "The focus of this exercise is to use the resources in the most optimized way to build a deep learning model system fast enough. This also requires that security issues around data are addressed.",
@@ -1258,6 +1205,58 @@
       "ampWebUrl": "https://www.marketwatch.com/amp/story/infineon-acquires-swedish-machine-learning-startup-42dfdb65",
       "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/infineon-acquires-swedish-machine-learning-startup-42dfdb65",
       "publishedDateTime": "2023-05-16T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-deep-learning-in-manufacturing-market-2023-2030.md",
+      "title": "Deep Learning in Manufacturing Market 2023-2030",
+      "excerpt": "The major players covered in the Deep Learning in Manufacturing market report are: Get a sample copy of the Deep Learning in Manufacturing Market report 2023 Market Overview of Global Deep Learning in Manufacturing market: According to our latest research,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2023-2030-2023-05-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2023-2030-2023-05-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T23:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

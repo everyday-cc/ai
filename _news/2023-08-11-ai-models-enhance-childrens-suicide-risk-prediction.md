@@ -24,22 +24,6 @@ images:
     height: 853
     isCached: true
 
-related:
-  - title: "UCLA Health Researchers Develop Machine Learning Models That Could Improve Suicide-Risk Prediction Among Children"
-    excerpt: "UCLA Health Researchers Develop Machine Learning Models That Could Improve Suicide-Risk Prediction Among Children"
-    publishedDateTime: 2023-08-07T12:41:00Z
-    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/48463-ucla-health-researchers-develop-machine-learning-models-that-could-improve-suicide-risk-prediction-among-children"
-    type: article
-    provider:
-      name: Sierra Sun Times
-      domain: goldrushcam.com
-    quality: 18
-    images:
-      - url: "https://goldrushcam.com/sierrasuntimes/images/2023/june/child-seesaw-gd8c64715d_640.jpg"
-        width: 640
-        height: 426
-        isCached: true
-
 secured: "Z+sIg0TW5i1gsTeXn7po3ybxPXFRgQjZ7kpZd8RrDL+mDrrC6ut6hgogyhqbwUGJIkVvT009eIIDZNIn8bvtaepS/BYUjC0bncn4SRss0Upf7wxg4otd+TpHBFLNawtazqhaWeYjTGti/DaE3lgXZFRZFCNASAYybHgEi/LRO3xaupQVYBpZS5pRvkk1TlaouStvEHUvGW/OzMLJDva/zsJ4FXBjHL3XtFJbLxKNHKlQEU1HPzsmpGc0Uhhxbkm8VUM0x5iLmO2F6gwzep0orEoEpgGdV1+sBQz91Zp7eNv8m3QZ+0gbsRbwjazNTkGmuZJbYLwjL7v5svC+15yg4SwYaO6ZbU6SmKA3QYoSHr0=;ms8aLC/e87ik3HpuvT51kQ=="
 ---
 

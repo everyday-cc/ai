@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,31 @@ images:
     isCached: true
 
 related:
+  - title: "Supermarket AI Gives Horrifying Recipes For Poison Sandwiches And Deadly Chlorine Gas"
+    excerpt: "It seems every company on the planet is experimenting with different ways to incorporate artificial intelligence into their consumer-facing products."
+    publishedDateTime: 2023-08-12T05:24:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/"
+    ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d70d062ae3ad4e070f2e72/0x0.jpg?format=jpg&crop=3589,2020,x0,y330,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI-powered grocery bot suggests recipe for toxic gas, “poison bread sandwich”"
+    excerpt: "When given a list of harmful ingredients, an AI-powered recipe suggestion bot called the Savey Meal-Bot returned ridiculously titled dangerous recipe suggestions, reports The Guardian. The bot is a product of the New Zealand-based PAK'nSAVE grocery chain and uses the OpenAI GPT-3.5 language model to craft its recipes."
+    publishedDateTime: 2023-08-10T19:45:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/ai-powered-grocery-bot-suggests-recipe-for-toxic-gas-poison-bread-sandwich/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 44
   - title: "AI Meal Planner Recommends Recipe for Chlorine Gas: Report"
     excerpt: "A supermarket’s artificial intelligence -powered meal planning app has recommended some odd dishes to customers, including one recipe which would create potentially lethal chlorine gas, according to a report."
     publishedDateTime: 2023-08-10T10:17:00Z

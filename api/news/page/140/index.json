@@ -2,6 +2,57 @@
   "page": 140,
   "value": [
     {
+      "path": "_news/2023-05-12-artificial-intelligence-in-life-sciences-market-by-2030.md",
+      "title": "Artificial Intelligence in Life Sciences Market by 2030",
+      "excerpt": "Precision Reports has published a new report titled as \"Artificial Intelligence in Life Sciences Market\" by End User",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-by-2030-2023-05-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-by-2030-2023-05-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-video-analytics-and-artificial-intelligence-market.md",
       "title": "Video Analytics and Artificial Intelligence Market",
       "excerpt": "Precision Reports has published a new report titled as \"Video Analytics and Artificial Intelligence Market\" by End",
@@ -1168,50 +1219,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-i-made-a-sexy-ai-robot-of-myself-you-can-date-me-for-1-a-minute.md",
-      "title": "I made a sexy AI robot of myself — you can date me for $1 a minute",
-      "excerpt": "He says they also might start training the AI to “slow down a little bit” given that the average use time is two hours — although he didn’t specify how. “I would just hope there’s robust conversations across a lot of different disciplines with ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/",
-      "originalUrl": "https://nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/05/NYPICHPDPICT000010943923.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/05/11/influencer-turns-herself-into-sexy-ai-robot-you-can-date-for-1/amp/",
-      "publishedDateTime": "2023-05-11T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

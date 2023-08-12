@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/08/ai-powered-
 webUrl: "https://arstechnica.com/information-technology/2023/08/ai-powered-grocery-bot-suggests-recipe-for-toxic-gas-poison-bread-sandwich/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,54 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Supermarket AI Gives Horrifying Recipes For Poison Sandwiches And Deadly Chlorine Gas"
+    excerpt: "It seems every company on the planet is experimenting with different ways to incorporate artificial intelligence into their consumer-facing products."
+    publishedDateTime: 2023-08-12T05:24:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/"
+    ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d70d062ae3ad4e070f2e72/0x0.jpg?format=jpg&crop=3589,2020,x0,y330,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Supermarket AI meal planner app suggests recipe that would create chlorine gas"
+    excerpt: "Pak ‘n’ Save’s Savey Meal-bot cheerfully created unappealing recipes when customers experimented with non-grocery household items"
+    publishedDateTime: 2023-08-10T03:59:00Z
+    webUrl: "https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes"
+    ampWebUrl: "https://amp.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
+    images:
+      - url: "https://i.guim.co.uk/img/media/dee13c15d09cf0bb642071be5193aeb1d0c520e0/0_168_5120_3072/master/5120.jpg?width=620&quality=85&auto=format&fit=max&s=a9cdcfd2e2f3c530779f30cf568bb82a"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "AI Meal Planner Recommends Recipe for Chlorine Gas: Report"
+    excerpt: "A supermarket’s artificial intelligence -powered meal planning app has recommended some odd dishes to customers, including one recipe which would create potentially lethal chlorine gas, according to a report."
+    publishedDateTime: 2023-08-10T10:17:00Z
+    webUrl: "https://www.thedailybeast.com/supermarkets-ai-meal-planner-recommends-recipe-for-chlorine-gas-report"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1769,w_3148,x_1513,y_366/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1691662243/PAK_nSAVE_Queenstown_ugrywc"
+        width: 1480
+        height: 832
+        isCached: true
 
 secured: "WLrpPfZ+WtCaWYmZe2T7Xniuij14dsi9K6AwZCNbjjBCaA1er+OatktSgfiwPzZfuqnbgU+EqqHjln0P/M2+HZhpYpQDcArZG8oKbMAL9qUpW7k1Oqw8O7LPMoNx2UElbBBkfUzKn9K+hVDy8RQM7yRmXcDcdeIKsos8ftyczvWcpk/2I3G/aPs19kC6e9YCwFpLtU/RKX2+KUKcnc14N9AVzcxq3f2itXi40XSinTgx/+7M/AnVG719w6FZ5+VV1Tl4z4lcMlr7WlG6QVlel2yZqWKuUEd2/3JjGZ4on8Jvm+RBzy82p8ROMXvB2d3Dzx/FTK1GVqQ8RNLRH5e+Xy7hCSkP7rRJoDMV9Me+rUcmbLaFi+VnW5Jv0xAKeoRd3/jYM8yUSCrXLzQQXcD+aBTywfHfV1oD49uf9ybBKFOPL650yMK4Z6VX7PrTMpq8L6wQ2x8yNc8SatVKb3733v/X+LcAXv72bbaK1t0lF3UnFSRnOpbVXPqJfZZ9I6fFJ5K5Cayyx/exE/OWUdOrKA==;8o8IZqsV2LcL9NtHNhnvmg=="
 ---

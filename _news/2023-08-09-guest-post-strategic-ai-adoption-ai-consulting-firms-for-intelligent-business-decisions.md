@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/guest-post-strategic-ai-adoption-ai-consul
 webUrl: "https://techbullion.com/guest-post-strategic-ai-adoption-ai-consulting-firms-for-intelligent-business-decisions/"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Drafting patent claims for AI-based inventions: navigating eligibility and precision"
-    excerpt: "Anup Iyer and Nick Russell of Moore & Van Allen discuss issues over patent eligibility of artificial intelligence inventions as many AI innovations can be viewed as abstract since they involve algorithms and mathematical processes."
-    publishedDateTime: 2023-08-07T12:02:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/drafting-patent-claims-ai-based-inventions-navigating-eligibility-precision-2023-08-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 40
 
 secured: "TsIFLSL7H0NvltLNBuctC+WDy2ohfpasZ3ERbqyQb9wpXmZ9PozvE8jW3Nr3ldixIZnAK6+EzjuuDsfPtpHArGwiFUJJLC+ff4ljRh7OGJ/svg6huo0adWswDi71rS+Ns0YuGknYzQY1Z25eTdo6plBzgNOneqWKtWDTcCx5/knaaCXBTTRS3ugfRlnrgGHdNDo3Egxgp99aNBQkTVoNOwdMu2n06qycuCHAl5qpNpje9nbZvAwKTvAkH4pl9TcutnEpj6PFElgdT7rE8Ib72wV2BJx1lOv2Zeu1YnkQt5L9d/GD3BjbD9MOtew50vU9nzU31j+L33ldae4nBzKCgfxlnLVGr/gaHfc0qVPNe2UkFIevpeu1CSPqnYeheG6PotRThWUp4IiETNs1jFtpHJJ8sEdUnyV3wOBONgwPX7AvqHtrqA76wCaL9t/1w6Fgq2Hy2GNQGf2WC5qzGpvIMLkxD2zwEJbUe6xz/A4i2Htq9QkQkGuX457BBMzaZiYGUBDAkYG4ZIXvcowuP4Td9w==;KFmrfoA7b4cBdFshJ37ymQ=="
 ---

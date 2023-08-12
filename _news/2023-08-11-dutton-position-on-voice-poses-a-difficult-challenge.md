@@ -30,22 +30,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 30
-  - title: "Alice Springs gripped by crime spree targeting airport, university and nursing home - as Anthony Albanese and his Voice 'Yes' campaigners enjoyed the $5,000-per-person Garma ..."
-    excerpt: "The form of constitutional recognition they are asking for is a Voice, not our sympathy, not a symbol, but a vehicle for progress,' he told the crowd. 'A practical tool to make their children's lives better. Not just something that will feel good ..."
-    publishedDateTime: 2023-08-07T11:18:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12379301/Alice-Springs-gripped-crime-spree-targeting-airport-university-nursing-home-Anthony-Albanese-Voice-Yes-campaigners-enjoyed-5-000-person-Garma-festival.html?fs=e"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12379301/amp/Alice-Springs-gripped-crime-spree-targeting-airport-university-nursing-home-Anthony-Albanese-Voice-Yes-campaigners-enjoyed-5-000-person-Garma-festival.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12379301/amp/Alice-Springs-gripped-crime-spree-targeting-airport-university-nursing-home-Anthony-Albanese-Voice-Yes-campaigners-enjoyed-5-000-person-Garma-festival.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 6
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/08/07/05/74031287-0-image-a-8_1691383525585.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Indigenous voice to parliament: Peter Dutton says his government would ‘fight’ for constitutional recognition"
     excerpt: "Peter Dutton has committed the Coalition to “fighting for” constitutional recognition of Indigenous Australians, as he dismissed Anthony Albanese’s threat of Australia losing a once-in-a-generation chance for recognition as “arrogant and dismissive”."
     publishedDateTime: 2023-08-10T16:33:00Z

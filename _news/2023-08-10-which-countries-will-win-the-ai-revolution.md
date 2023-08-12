@@ -79,22 +79,6 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 52
-  - title: "AI-powered platforms revolutionize recruitment: Unveiling the hunt for ideal candidates"
-    excerpt: "However, with the aid of AI and natural language processing (NLP) software, recruiters can now swiftly evaluate and analyze resumes and cover letters, extracting crucial information like work experience, skills, and education. This automation of the ..."
-    publishedDateTime: 2023-08-07T11:20:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-powered-platforms-revolutionize-recruitment-unveiling-the-hunt-for-ideal-candidates/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-powered-platforms-revolutionize-recruitment-unveiling-the-hunt-for-ideal-candidates/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-powered-platforms-revolutionize-recruitment-unveiling-the-hunt-for-ideal-candidates/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 51
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/01/Anil-Agarwal-Co-Founder-InCruiter.jpg"
-        width: 594
-        height: 502
-        isCached: true
   - title: "Microsoft co-founder Bill Gates' sleep revolution: From sleepless nights to embracing restful slumber"
     excerpt: "Tech mogul Bill Gates, previously known for his belief that sleep equated to laziness, has undergone a transformation in his perspective on restorative slumber. Gates, who has revealed that he previously perceived sleep to be unnecessary breaks from his ambitious pursuits,"
     publishedDateTime: 2023-08-09T07:29:00Z

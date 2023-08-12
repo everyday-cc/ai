@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-05-27-japan-ai-startup-launches-robot-for-home-use.md",
+      "title": "Japan AI startup launches robot for home use",
+      "excerpt": "TOKYO (Kyodo) -- A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal commands, such as bringing dishes and condiments to ...",
+      "sourceUrl": null,
+      "webUrl": "https://mainichi.jp/english/articles/20230527/p2g/00m/0na/018000c",
+      "originalUrl": "https://mainichi.jp/english/articles/20230527/p2g/00m/0na/018000c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mainichi.jp/vol1/2023/05/27/20230527p2g00m0na016000p/0c10.jpg?2",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "毎日新聞",
+        "domain": "mainichi.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-27-opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems.md",
       "title": "Opinion: Stop the robot takeover: How AI advancement can pose problems",
       "excerpt": "Pospisil explains that most jobs robots will take over are automated. They still cannot compare to a human’s ability to adapt or critical thinking skills in more specialized jobs not having to do with Ford production. In short, they won’t replace us in the job market because they’re missing a human element.",
@@ -1332,58 +1375,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-amazons-ai-powered-robot-cant-fix-the-broken-smart-home.md",
-      "title": "Amazon's AI-powered robot can't fix the broken smart home",
-      "excerpt": "Unfortunately, some new leaked documents suggest it's up to those tricks again with the development of an AI-powered home robot ... before you have wings. For a start, the current Amazon Astro ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/amazons-ai-powered-robot-cant-fix-the-broken-smart-home",
-      "originalUrl": "https://www.techradar.com/news/amazons-ai-powered-robot-cant-fix-the-broken-smart-home",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XzVDZZoc26io45z3QezWa-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

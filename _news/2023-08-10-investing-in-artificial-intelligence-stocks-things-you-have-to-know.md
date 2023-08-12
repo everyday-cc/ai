@@ -37,20 +37,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Artificial Intelligence Stocks: The 10 Best AI Companies"
-    excerpt: "Virtually every industry is being disrupted by artificial intelligence, automation and robotics. In recent months, the world has gotten a firsthand look at the remarkable advances in AI"
-    publishedDateTime: 2023-08-07T12:00:00Z
-    webUrl: "https://wtop.com/news/2023/08/artificial-intelligence-stocks-the-10-best-ai-companies-17/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 54
-    images:
-      - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "We must build trust in AI for use in health care"
     excerpt: "It would seem then, the best hope for the continued development of AI in health care is technology guided by a human touch. The public must trust in the ability of AI tools to produce accurate and reliable information, and believe that such information, gathered without prejudice, assists a physician’s ability to care for patients."
     publishedDateTime: 2023-08-08T10:00:00Z

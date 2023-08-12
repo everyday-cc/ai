@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/dbs-bank-uncovers-big-data-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dbs-bank-uncovers-big-data-challenges-with-ai-use/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Dell announces generative AI solutions"
-    excerpt: "The company is offering a range of generative AI solutions across its hardware, software, and services offerings."
-    publishedDateTime: 2023-08-07T12:34:00Z
-    webUrl: "https://www.networkworld.com/article/3704209/dell-announces-generative-ai-solutions.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 19
 
 secured: "BCVtQT4keB3UrFqFZGUQJW25/szG32/sfvn3o5X6hH6wXbpZiv5oLde9Ytg/vhKG/y17TowC9PKsN4iSaAIvLZ+ETl42lnEI/zvru/9uJ1qT8xvXyFPvyzlsXn+8PiVTOlw+P31B8lLuvRZ4YaWpRZNXFeAiJzE4PnJ9ZOd8WSnTu+4jvEXvW21TfHhcpqx3ff109kKHJWixwd1F2MuzJgf/2J2euPqIaaoqUHnO/GIh2t1vSx3+I4L1vgg0m2kocF/IrQRXbF/VHe4kb4Tb+tFvpjZiSRgc1peMlFXvGPvqNP2ets8gTF7Z02y1j4BUkKNgF4Hl2aymIzwgR0gt01bgjQ4eLdjEsuGqEcrqXqqYySS/CqPndcQ6nXMhDgdC8MTI9NpotGPAl6rnTpzqcmsOFT+gjAfGk2RwPY5F5EsDEPEIzbTdJnO+nT3a/hKjaBzvC1gtVktZM9cv9ktXHItZH1gb+AcxIBMFJwmNsW7vQNFJgDlxr2XB+U8rQe0tBzj2T3cep6V1Tijpd1lCvg==;23U1XOGuqjJ9cXSmL7NIWQ=="
 ---

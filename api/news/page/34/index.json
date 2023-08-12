@@ -2,6 +2,50 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-07-19-googles-ai-red-team-the-ethical-hackers-making-ai-safer.md",
+      "title": "Google's AI Red Team: the ethical hackers making AI safer",
+      "excerpt": "Today we're publishing information on Google’s AI Red Team for the first time",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/",
+      "originalUrl": "https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-neura-robotics-raises-55-million-to-expand-its-cognitive-robots-family.md",
       "title": "Neura Robotics Raises $55 Million to Expand Its Cognitive Robots Family",
       "excerpt": "Neura Robotics, an emerging AI and robotics startup based in Germany, has successfully concluded a $55 million funding round with the support of European investors Lingotto, Vsquared Ventures, Primepulse, and HV Capital.",
@@ -1104,58 +1148,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-meta-unveils-a-more-powerful-ai-and-isnt-fretting-over-who-uses-it.md",
-      "title": "Meta Unveils a More Powerful A.I. and Isn’t Fretting Over Who Uses It",
-      "excerpt": "The company said it would give outside programmers access to the latest version of its core artificial intelligence technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/07/18/technology/meta-ai-open-source.html",
-      "originalUrl": "https://www.nytimes.com/2023/07/18/technology/meta-ai-open-source.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/07/18/multimedia/18meta-ai-01-wfzm/18meta-ai-01-wfzm-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
