@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Top 10 Alternatives to GPT-3 – Analytics India Magazine"
+    excerpt: "GPT-3 has 175 billion parameters, making it one of the largest language models ever created. It can generate human-like text and perform a wide range of tasks, including translation, summarisation, and even writing codes."
+    publishedDateTime: 2023-08-12T19:41:00Z
+    webUrl: "https://www.inferse.com/677595/top-10-alternatives-to-gpt-3-analytics-india-magazine/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 4
 
 secured: "rDu+Ys/CHtblLMrCFVvjOCU82YPBYt6D9cRhRCcl6opNR9yQH2SKOtBrRXqea5Uc+nwRGWjzoNhRArd97I7uK0cHGeUP3mq8GMzFH8VoaBoZyrO+HEAdl3YUZrASIsgJHngwFBoA6jGOhKhLJ99edmjrMMbgVAeoIh9t831hp3hu8HJ0y4CnhnsI7Vea2bSWshjonv/kOAyiXEr+fbqXukh+8sJXF3On0VsmnUA4cc3H1Rp0A2Q2daEbM4wbwstgqW9SP9fjUAPV2Ke05KwbAA+FI27YVpjYqQHqICl+FB3DSqrLHIVUhMPxeDAiDXqC3MZVYt4x8EI68y6zp3dZAPhMpJJ0HY7qo1CO6a6EXZM=;TUZLi3m3PiS28/5Cf+ANOg=="
 ---

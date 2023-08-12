@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-stocks-enter-correction-territory
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8?amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Rockford schools entering uncharted territory: artificial intelligence"
-    excerpt: "While kids are soaking up the final days of summer, stateline teachers are studying up on artificial intelligence. “As they enter the workforce, AI is going to be a"
-    publishedDateTime: 2023-08-08T03:16:00Z
-    webUrl: "https://www.mystateline.com/news/local-news/rockford-schools-entering-uncharted-territory-artificial-intelligence/"
-    ampWebUrl: "https://www.mystateline.com/news/local-news/rockford-schools-entering-uncharted-territory-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/local-news/rockford-schools-entering-uncharted-territory-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: WTVO
-      domain: mystateline.com
-    quality: 57
-    images:
-      - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2023/03/GettyImages-1281732617.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "JBm5/waME2nqDwQ3FgB0lRHrM5sH3UP0ZgeTKnbHdDF5a2UuL7NJ867+1hJ1LVPhuaqnQfoC/Z16lVb4GpZTHuhn0lygaw7N3pf8UYB1IqNVEXy+G8MedOCPzvwPpSaaVVVj+O+0fTwHORPVLSW850CtpaOGoWwMsrTyh8Be9NUdodG0h5tAY/+7mr8drFy8LnqvFm954TROO3VVEeLdwJ9KM3NnAbZiD0Ek8ByUs6t1P5bftgrbg7Q1K+33I+2l+RUBOak/N37XS3Mfub8HtSFYC3mLz3OrzUsOJwP64lTAk88PYc8UmcXKKJCNAvjL6EXvGZegN0M+89wRi6F2W7MGs8Ph9BEQEQCEfDtOTqm3MlctYku9NLcxE0Zcp8a1FaWh7AA5hNjyFxeuPsLQi6fw9r/hMsG8QGio6k/CJwonrSArgywFUQ93BVF7MQYRwtm8I6UOi6LposDLiqJNkaDgN4i/bU6f04YeVdVFX6m9N2dqR9SW/RaVefR/Gk3zP6oOWtntTuybZiEw1IwGVg==;TuS33YvIFnTSnLgURAEqvA=="
 ---

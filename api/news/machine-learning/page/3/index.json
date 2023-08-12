@@ -2,6 +2,83 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-19-hardware-conversion-of-convolutional-neural-networks.md",
+      "title": "Hardware conversion of convolutional neural networks",
+      "excerpt": "Artificial Intelligence Microcontroller with Ultra Low Power Convolutional Neural Network Accelerator The MAX78000 is an AI microcontroller with an ultra low power CNN accelerator, an advanced system on chip. It enables neural networks at ultra low power ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/hardware-conversion-of-convolutional-neural-networks/",
+      "originalUrl": "https://www.embedded.com/hardware-conversion-of-convolutional-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending.md",
+      "title": "Fed watchdog warns AI, machine learning may perpetuate bias in lending",
+      "excerpt": "The Federal Reserve’s top watchdog warned Tuesday artificial intelligence and machine learning could bolster bias in lending practices. “While these technologies have enormous potential, they also carry risks of violating fair lending laws and ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/business/housing/4103358-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending/",
+      "originalUrl": "https://thehill.com/business/housing/4103358-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/04/644c432596de01.94562039.jpeg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/business/housing/4103358-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/business/housing/4103358-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending/amp/",
+      "publishedDateTime": "2023-07-18T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-machine-learning-and-data-science-156-value-free-download0-0.md",
       "title": "Machine Learning and Data Science ($156 Value) FREE Download0 0",
       "excerpt": "Machine Learning and Data Science: Fundamentals and Applications. Claim your complimentary copy (valued at $156) for free before the offer expires on July 26. Written and edited by a team of experts in the field, this collection of papers reflects the most ...",
@@ -1198,83 +1275,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-growing-bio-inspired-polymer-brains-for-artificial-neural-networks.md",
-      "title": "Growing bio-inspired polymer brains for artificial neural networks",
-      "excerpt": "Advanced Functional Materials) While neural-network models have achieved remarkable success in applications such as image generation and cancer diagnosis, they still lag far behind the general processing abilities of the human brain. In part, this is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63278.php",
-      "originalUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63278.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nanowerk.com/nanotechnology-news2/id63278_1.jpg",
-          "width": 1075,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-byu-students-can-major-in-machine-learning-the-technology-behind-chatgpt-this-fall.md",
-      "title": "BYU students can major in machine learning — the technology behind ChatGPT — this fall",
-      "excerpt": "Amid spirited public discussion over the dangers and opportunities of artificial intelligence, Brigham Young University has added a machine learning degree to its undergraduate catalog.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksl.com/article/50679240/byu-students-can-major-in-machine-learning--the-technology-behind-chatgpt--this-fall",
-      "originalUrl": "https://www.ksl.com/article/50679240/byu-students-can-major-in-machine-learning--the-technology-behind-chatgpt--this-fall",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-04T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSL",
-        "domain": "ksl.com",
         "images": null,
         "publishers": null,
         "authors": null

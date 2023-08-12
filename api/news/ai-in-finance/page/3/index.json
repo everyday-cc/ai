@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-23-bank-of-america-sees-these-3-names-benefiting-from-the-ai-networking-chip-war.md",
+      "title": "Bank of America sees these 3 names benefiting from the A.I. networking chip war",
+      "excerpt": "but investors may also want to keep an eye on networking chip stocks Marvell and Broadcom , according to Bank of America. Networking semiconductors play a critical role in the graphics processing units underpinning many generative AI models, and these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/22/three-chip-stocks-could-win-ai-networking-war-bank-of-america-says.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/22/three-chip-stocks-could-win-ai-networking-war-bank-of-america-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai-based-firms-solving-challenges-in-financial-services.md",
       "title": "Agora Services Named to AIFinTech100 2023: Identified as one of the World's Most Innovative AI-Based Firms Solving Challenges in Financial Services",
       "excerpt": "Agora Services, the next generation of bank as a service / embedded fintech provider announced today its inclusion in the 2023 AIFinTech100 list.– a select global listing reflecting \"the world's most innovative solution providers\" who are \"using artificial intelligence (AI) to transform financial services.",
@@ -1300,49 +1344,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-ai-in-fintech-market-to-reach-usd-391-billion-at-a-1690-cagr-by-2032-market-research-future-mrfr.md",
-      "title": "AI in Fintech Market to Reach USD 39.1 Billion, at a 16.90% CAGR By 2032 - Market Research Future (MRFR)",
-      "excerpt": "New York, USA, June 02, 2023 (GLOBE NEWSWIRE) -- According to the research report published by Market Research Future (MRFR), \"AI in Fintech Market Information By Component, By Deployment Mode ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/g32690038/ai-in-fintech-market-to-reach-usd-39-1-billion-at-a-16-90-cagr-by-2032-market-research-future-mrfr",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/g32690038/ai-in-fintech-market-to-reach-usd-39-1-billion-at-a-16-90-cagr-by-2032-market-research-future-mrfr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32690038",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32690038",
-      "publishedDateTime": "2023-06-02T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

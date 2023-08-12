@@ -107,6 +107,20 @@ related:
         width: 1020
         height: 573
         isCached: true
+  - title: "New Outbound Investment Restrictions Affect China, Semiconductors, Artificial Intelligence, and Quantum Computing"
+    excerpt: "President Biden issued an Executive Order (E.O.) ordering the issuance of outbound investment restrictions. This E.O. comes after nearly a year of anticipation (as we have"
+    publishedDateTime: 2023-08-12T19:51:00Z
+    webUrl: "https://www.natlawreview.com/article/new-outbound-investment-restrictions-affect-china-semiconductors-artificial"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 16
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/15527/Trade%20Export%20Logisitics%20Supply%20Chain%20TOP_3_0.jpg?itok=dt6WjCn9"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "yJEJKedOC/bVT6yeONl0+vKJOcXI7m2DB0WHJ2VLlTTmu5Tu3VSz/OflQwiQiBOsIxEK2L6+U5szElfNFYobamQay2C+XNK6EE5fkNMljgb5rpwB8fSIe7q4/9BemSF0lBM/ACjS0ThHdaYN6ZwcVeLdYCt1lWH3wyd3E3q61y1oEr+kSwAVWS1DYFEE0Qr3dlIp2f+C3TdYNgRnd0XBMCjwUtxpEeIImcWy0BmijP/+jAtpLsdxxa/UXCOPFAmQdBIlzpwnELQVrUNENJJQXaqDZp5OQuqLa/6vWV1iyz8Zytho4C5PUl9ABq7cwYMqV9A5SnlmMu6oMZUU5U2gE1Z3XXLtai725fx62+nCrF++4TF+ChX66g+LFGSVZ7ShzB9ryUIv0FoBUumtcjsev6ppFrf+wsCHtjtU124vU08oaH9IpEOUpKtTt7uhuhXuCPrXQl+6O0EgYJgskmzHT2fQHjd+7FWunvVU62sJ+2N2LgtwoKpNpU7umF4bWIAXh6epzYmcxNlhK4I4tfcFJg==;ZtKVL485HQIedf0xXw5gcg=="
 ---

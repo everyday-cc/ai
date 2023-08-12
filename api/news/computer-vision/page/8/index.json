@@ -2,6 +2,144 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-03-palestinians-subject-to-omnipresent-facial-recognition-amnesty-report-finds.md",
+      "title": "Palestinians Subject to ‘Omnipresent’ Facial Recognition, Amnesty Report Finds",
+      "excerpt": "We may earn a commission from links on this page. The Israeli military is increasingly deploying experimental new facial recognition software to monitor Palestinians and “supercharge segregation ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/israel-palestine-facial-recognition-amnesty-omnipresent-1850395820",
+      "originalUrl": "https://gizmodo.com/israel-palestine-facial-recognition-amnesty-omnipresent-1850395820",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3a07e182985a6acf0f6fbe0f9806767d.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-baltimore-city-council-to-consider-restrictions-to-facial-recognition-and-surveillance-that-would-be-first-test-of-local-police-control.md",
+      "title": "Baltimore City Council to consider restrictions to facial recognition and surveillance that would be first test of local police control",
+      "excerpt": "Baltimore’s use of surveillance and facial recognition technology would face new restrictions under legislation introduced Monday by Councilman Kristerfer Burnett. The twin proposals ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.baltimoresun.com/politics/bs-md-ci-baltimore-council-surveillance-facial-recognition-20230502-i2bh36ll5vgr7kyp3ue35iznbu-story.html",
+      "originalUrl": "https://www.baltimoresun.com/politics/bs-md-ci-baltimore-council-surveillance-facial-recognition-20230502-i2bh36ll5vgr7kyp3ue35iznbu-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer//RErTxFLSFFfAXzhgOnTBj80LEMk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/XEZZN4Y6WZC2TMT3MM6MBQR734",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T19:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-computer-vision-is-transforming-inventory-management-in-the-retail-sector.md",
+      "title": "Computer Vision is Transforming Inventory Management in the Retail Sector",
+      "excerpt": "Retail business owners are often faced with issues in inventory management, which hampers the development of long-term customer relationships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/computer-vision-is-transforming-inventory-management-in-the-retail-sector",
+      "originalUrl": "https://www.bbntimes.com/technology/computer-vision-is-transforming-inventory-management-in-the-retail-sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/How_is_Computer_Vision_Transforming_Inventory_Management_in_the_Retail_Sector.png",
+          "width": 1532,
+          "height": 858,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-landing-ai-announces-the-worlds-first-validation-ready-computer-vision-software-for-fda-regulated-manufacturers.md",
       "title": "Landing AI Announces the World's First Validation-Ready Computer Vision Software for FDA-Regulated Manufacturers",
       "excerpt": "\"AI, starting with computer vision, is a game-changing tool for medical device, pharmaceutical and life sciences industries, and we'll see rapid innovation in the coming years,\" said Andrew Ng ...",
@@ -1282,153 +1420,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-businesses-turn-to-facial-recognition-technology-to-avert-shoplifting-and-robbery.md",
-      "title": "Businesses turn to facial recognition technology to avert shoplifting and robbery",
-      "excerpt": "Fox News’ Douglas Kennedy reports that shoplifting and robbery crimes are up 22% from last year, prompting business owners to use facial recognition technology to stop repeat offenders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6325508060112",
-      "originalUrl": "https://www.foxnews.com/video/6325508060112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f9568c0-e2b3-4369-b71e-f2066447ffc9/c9ff9a97-7061-475b-bcd1-902a42a763be/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-facial-recognition-market-size-by-2031.md",
-      "title": "Facial Recognition Market Size by 2031",
-      "excerpt": "Apr 21, 2023 (The Expresswire) -- New Report (2023-2031) of 105 Pages: Global Facial Recognition Market Status and Prospect A summary of the assiduity, including important Types (2D Facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-by-2031-2023-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-by-2031-2023-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-smart-gun-operating-on-facial-recognition-goes-on-sale-in-us.md",
-      "title": "Smart Gun Operating On Facial Recognition Goes On Sale In U.S",
-      "excerpt": "Reuters Colorado-based Biofire Tech is taking orders for a smart gun enabled by facial-recognition technology, the latest development in personalized weapons that can only be fired by verified users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139",
-      "originalUrl": "https://www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/4448798/smart-gun-operating-facial-recognition-sale-us.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139?amp=1",
-      "publishedDateTime": "2023-04-21T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

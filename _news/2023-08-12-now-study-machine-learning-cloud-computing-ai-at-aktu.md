@@ -116,17 +116,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Bringing Artificial Intelligence into the classroom"
-    excerpt: "Artificial Intelligence is being incorporated in nearly every industry, including teaching. Pasco County schools is one of the few districts choosing to embrace AI in the classroom, starting this year."
-    publishedDateTime: 2023-08-08T02:40:00Z
-    webUrl: "https://www.fox13news.com/video/1260378"
-    ampWebUrl: "https://www.fox13news.com/video/1260378.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1260378.amp"
-    type: article
-    provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 37
   - title: "Small businesses using AI are loving it"
     excerpt: "A new survey finds that more than 90% of small business owners using artificial intelligence tools like ChatGPT say AI has made their businesses more successful."
     publishedDateTime: 2023-08-09T09:00:00Z

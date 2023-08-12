@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-28-neil-chilson-on-the-future-of-artificial-intelligence.md",
+      "title": "Neil Chilson on the Future of Artificial Intelligence",
+      "excerpt": "Neil Chilson talked about the future of artificial intelligence. Javascript must be enabled in order to access C-SPAN videos. *This text was compiled from uncorrected Closed Captioning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c-span.org/video/?528950-3/neil-chilson-future-artificial-intelligence",
+      "originalUrl": "https://www.c-span.org/video/?528950-3/neil-chilson-future-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "c-span",
+        "domain": "c-span.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-artificial-intelligence-risks-ethics-and-future.md",
       "title": "Artificial Intelligence: Risks, Ethics and Future",
       "excerpt": "With great power comes great responsibility, despite the numerous advantages that AI evolution brings to the world. It could pose profound risks to society if not handled properly. Along with other global/societal risks i.",
@@ -1312,40 +1346,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-baidu-gets-upgrade-at-morgan-stanley-on-likely-benefit-from-chinas-ai-evolution.md",
-      "title": "Baidu gets upgrade at Morgan Stanley on likely benefit from China's AI evolution",
-      "excerpt": "In effect, the firm expects Baidu's core revenue to reach RMB 151B, driving a 17% CAGR 2022-25, versus 12% CAGR under the firm's base case.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3980904-baidu-gets-upgrade-at-morgan-stanley-on-likely-benefit-from-chinas-ai-evolution",
-      "originalUrl": "https://seekingalpha.com/news/3980904-baidu-gets-upgrade-at-morgan-stanley-on-likely-benefit-from-chinas-ai-evolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Utilizing Artificial Intelligence to Safeguard Against the Propagation of Misinformation"
+    excerpt: "The pervasive issue of misinformation online is prompting innovative solutions, with artificial intelligence (AI) emerging as a potential game-changer. As AI-generated deep fakes raise the stakes for voice and video scams,"
+    publishedDateTime: 2023-08-09T01:41:00Z
+    webUrl: "https://www.cryptopolitan.com/artificial-intelligence-misinformation/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 45
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-09_09-00-08.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "From startup nation to AI nation: Shaping the future in Israel"
     excerpt: "Israeli artificial intelligence innovation is revolutionizing medical diagnoses for women's reproductive health"
     publishedDateTime: 2023-08-10T20:03:00Z
@@ -39,6 +53,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "A tsunami of AI misinformation will shape next year’s knife-edge elections"
+    excerpt: "If you thought social media had a hand in getting Trump elected, watch what happens when you throw AI into the mix"
+    publishedDateTime: 2023-08-12T14:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/aug/12/a-tsunami-of-ai-misinformation-will-shape-next-years-knife-edge-elections"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 15
 
 secured: "KhrykLq3Ek0nDlBaqgWWAhDi0N5ES89auesZT0eh8XTG7zlKXZNC6fqEU6I+GJrXCqL7pyhZdDYkV4wsgt2UwUarnPJMgPRLSp1ebqx4wuo0sb17MakPxUZVl8i/EhreYo95D3yLQtcXDkCZUkqdb7yyJHhk94/PUoWPpoX3HDquIhF8/hAG+8/iL6u9B6s6dndHKwNFlCxg6LtCD9xnldobmoJDqlxPd94CV4I3iYOybQvF1sR20WlO9Weg7pmMsmnGl48lAFGkDPmX3KG0l89USs0bIgU9EmqcBnM2zoRhv27hQxWvG0JoDYYc3h/l5yUHf6bjaBe5ruK4uyzfcwp6f0x92QnqYg2TnepI0jE+3eLGLh8qnIzWAkqwiHZSaTY16wnUJXxZD6fNM7Nnql6w83VpOgRTUCyQOoqX8V99ottqy1zKLDXUsxHx+qJc8XuSSBHjNjLwlfM3JCXEl+w3iyyTex4Dq1QkSXWWAgQE20Su7glwhdbYD2mfqhXb2Q72RtyjOhNpociGTijIgg==;4uIMWUgJH/gZhzE4Fmg5vA=="
 ---

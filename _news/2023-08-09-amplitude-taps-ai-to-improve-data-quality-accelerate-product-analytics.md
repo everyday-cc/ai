@@ -59,6 +59,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 13
+  - title: "Top 10 Alternatives to GPT-3 – Analytics India Magazine"
+    excerpt: "GPT-3 has 175 billion parameters, making it one of the largest language models ever created. It can generate human-like text and perform a wide range of tasks, including translation, summarisation, and even writing codes."
+    publishedDateTime: 2023-08-12T19:41:00Z
+    webUrl: "https://www.inferse.com/677595/top-10-alternatives-to-gpt-3-analytics-india-magazine/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 4
 
 secured: "0NMFcBCfKafpyRqR3Hy/+X5XttMM+jIHKT4bcl9OyumKKF/fhW46WYgK+1vYJ5szDKMic6RglM42C5sah7LOK6XR6hJOZT4dQcQPNk9Tfbh0M7uw2uCNvO4ZdUHtdW21n4DBDom/OuYFO08InBq7tw8tZiGJeLFVee2toXtgAo6gbxJ727QHK/boXbkIfzLBCDYWzV8F9+iaC86wNmLwRgMwLaSSQslY29suGEoGMW7Ye42K9fvBsFg7vbXyN/g3sEpUYvC64WiICHaKCOwEq7CvW3pZQmvkVvlaoxWKGA1ZKIcCt/mvmhsSgg+hEUU+vwr/IOF5cLXcmWGjd73uCY7nlM3F8iPcFXVOv4mxDSn1qrhyXMsMYuP7fduH/XQrOr/i5vMxfADSCbVz4vAfE3s/7dvCdnzeNjQuzGnsTKy//lT4NnwOTWKCoQrQME0ICuwALX7sn2nEUSmnlOD7GIX4ER9JzTS5ZzNtZmuofv9S5Vy0UkanlKKWoSkwV0Q5DZmUedpaNESv8zOe4hh9Jw==;+Gtmyz6D1xcplo7S40+x0w=="
 ---

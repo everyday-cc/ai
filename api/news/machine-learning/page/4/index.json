@@ -2,6 +2,83 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-05-growing-bio-inspired-polymer-brains-for-artificial-neural-networks.md",
+      "title": "Growing bio-inspired polymer brains for artificial neural networks",
+      "excerpt": "Advanced Functional Materials) While neural-network models have achieved remarkable success in applications such as image generation and cancer diagnosis, they still lag far behind the general processing abilities of the human brain. In part, this is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63278.php",
+      "originalUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63278.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/nanotechnology-news2/id63278_1.jpg",
+          "width": 1075,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-04-byu-students-can-major-in-machine-learning-the-technology-behind-chatgpt-this-fall.md",
+      "title": "BYU students can major in machine learning — the technology behind ChatGPT — this fall",
+      "excerpt": "Amid spirited public discussion over the dangers and opportunities of artificial intelligence, Brigham Young University has added a machine learning degree to its undergraduate catalog.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksl.com/article/50679240/byu-students-can-major-in-machine-learning--the-technology-behind-chatgpt--this-fall",
+      "originalUrl": "https://www.ksl.com/article/50679240/byu-students-can-major-in-machine-learning--the-technology-behind-chatgpt--this-fall",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-04T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSL",
+        "domain": "ksl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-04-polymer-brains-could-advance-artificial-neural-networks.md",
       "title": "Polymer \"Brains\" Could Advance Artificial Neural Networks",
       "excerpt": "The development of neural networks to create artificial intelligence in computers was originally inspired by how biological systems work. These ‘neuromorphic’ networks, however, run on hardware that looks nothing like a biological brain, which limits ...",
@@ -1254,92 +1331,6 @@
       "provider": {
         "name": "Law",
         "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning.md",
-      "title": "Jamia to offer short-term training programme on Artificial Intelligence and Machine Learning",
-      "excerpt": "All students from UG, PG and PhD scholars and faculty with mathematical backgrounds are eligible for the course. The training programme will be conducted for three weeks from July 4 to 22.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/",
-      "originalUrl": "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/06/JMI-Central-Library-1-1.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/lite/",
-      "publishedDateTime": "2023-06-20T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-learn-artificial-intelligence-top-5-short-term-ai-courses-available-online.md",
-      "title": "Learn Artificial Intelligence: Top 5 Short-Term AI Courses Available Online",
-      "excerpt": "These courses are offering learners the opportunity to enhance their understanding of AI concepts and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "originalUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/68381/online-ai-courses.jpg",
-          "width": 1128,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "publishedDateTime": "2023-06-20T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.sg",
         "images": null,
         "publishers": null,
         "authors": null

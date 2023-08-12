@@ -312,17 +312,6 @@ related:
         width: 1200
         height: 825
         isCached: true
-  - title: "Cyient sets up CoE to power engineering with Generative AI"
-    excerpt: "Cyient & Microsoft partner to set up CoE EnGeneer to drive engineering innovation using Generative AI. CoE to integrate new Generative AI capabilities into existing solutions, CyFast & CyArc. OpenAI & Generative AI technologies to be used across all Cyient platform solutions."
-    publishedDateTime: 2023-08-08T04:18:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/cyient-sets-up-coe-to-power-engineering-with-generative-ai/article67168193.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
   - title: "Why Reinforcement Learning Will Save Generative AI"
     excerpt: "In this contributed article, Kim Stagg, VP of Product for Appen, knows the only way to achieve functional AI models is to use high-quality data in every stage of deployment. As businesses look for pathways to adoption,"
     publishedDateTime: 2023-08-12T17:34:00Z

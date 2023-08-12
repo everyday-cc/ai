@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-11-california-okays-driverless-taxi-expansion-for-san-francisco.md",
+      "title": "California Okays Driverless Taxi Expansion for San Francisco",
+      "excerpt": "The state's green light, on a 3-1 vote by the California Public Utilities Commission, signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco",
+      "originalUrl": "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/2a5480d/2147483647/strip/true/crop/662x348+0+0/resize/662x348!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbb%2Fd0%2F80318d734f7fa9a89f9001e9f5c0%2Fzscaler-public-sector-logo-r1-rgb-31aug21-vertical-pms-blue-002.png",
+          "width": 662,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true",
+      "publishedDateTime": "2023-08-11T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-exploring-the-intriguing-robotics-technology-behind-self-driving-cars.md",
       "title": "Exploring the Intriguing Robotics Technology Behind Self-Driving Cars",
       "excerpt": "Welcome to the forefront of transportation innovation! Self-driving cars have swiftly become a captivating marvel of our era, revolutionizing our perception of commuting and road navigation. But have you ever pondered the technology powering their sleek exteriors?",
@@ -203,7 +246,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/san-francisco-drives-tech-will-it-drive-away-robot-taxis-2023-08-07/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -302,19 +345,19 @@
     {
       "path": "_news/2023-08-07-san-francisco-drives-tech-will-it-drive-away-robot-taxis.md",
       "title": "San Francisco drives tech; will it drive away robot taxis?",
-      "excerpt": "SAN FRANCISCO :San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... Alphabet Inc’s Waymo and General Motors ...",
+      "excerpt": "SAN FRANCISCO (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... Inc’s Waymo and General ...",
       "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/san-francisco-drives-tech-will-it-drive-away-robot-taxis-3682931",
-      "originalUrl": "https://www.channelnewsasia.com/business/san-francisco-drives-tech-will-it-drive-away-robot-taxis-3682931",
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/08/07/san-francisco-drives-tech-will-it-drive-away-robot-taxis",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/08/07/san-francisco-drives-tech-will-it-drive-away-robot-taxis",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--aIHGUeUT--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-08-08t010252z_2_lynxmpej760ak_rtroptp_3_usa-autos-autonomous-san-francisco.jpg?itok=GFT62owH",
-          "width": 1200,
-          "height": 676,
+          "url": "https://apicms.thestar.com.my/uploads/images/2023/08/07/2218721.jpg",
+          "width": 800,
+          "height": 525,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -324,11 +367,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T07:19:00-07:00",
+      "publishedDateTime": "2023-08-07T03:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
+        "name": "The Star",
+        "domain": "thestar.com.my",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1392,49 +1435,6 @@
       "provider": {
         "name": "The Courier Online",
         "domain": "couriernews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-another-tesla-with-full-self-driving-beta-blasts-through-a-red-light.md",
-      "title": "Another Tesla With Full Self-Driving Beta Blasts Through A Red Light",
-      "excerpt": "A former Tesla employee has shared a frightening video online that shows a Tesla model equipped with the company’s Full Self-Driving beta running a red light in the U.S. John Bernal once worked as an advanced driver assistance systems test operator for Tesla but was fired last year after sharing videos on YouTube of the FSD Beta misbehaving in California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/",
-      "originalUrl": "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2023/07/Tesla.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/",
-      "publishedDateTime": "2023-07-27T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
         "images": null,
         "publishers": null,
         "authors": null

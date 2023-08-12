@@ -51,7 +51,7 @@ related:
     provider:
       name: Deadline.com
       domain: deadline.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1466243151.jpg?w=1024"
         width: 1024

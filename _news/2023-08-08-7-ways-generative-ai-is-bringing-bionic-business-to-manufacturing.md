@@ -319,17 +319,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
-    excerpt: "Business Wire India HCLSoftware, a leading software provider, announced a collaboration with Microsoft to integrate Microsoft’s Azure OpenAI Serv"
-    publishedDateTime: 2023-08-08T04:57:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2023/08/08/dcm8-hclsoftware.html"
-    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/08/08/dcm8-hclsoftware.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/08/08/dcm8-hclsoftware.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 53
   - title: "Aptos Labs taps into Microsoft’s AI infrastructure to accelerate Web3 adoption"
     excerpt: "Aptos Labs and Microsoft have announced a partnership that could see developers leverage Microsoft’s AI tech to boost Web3 adoption."
     publishedDateTime: 2023-08-09T13:41:00Z

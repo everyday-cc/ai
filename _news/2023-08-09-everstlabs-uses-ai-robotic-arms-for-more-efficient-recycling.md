@@ -35,15 +35,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "How LLMs are making red and blue teams more efficient"
-    excerpt: "Cybersecurity experts have incorporated ChatGPT-like tools into their work, and they use them tasks from source-code analysis to identifying vulnerabilities."
-    publishedDateTime: 2023-08-08T05:00:00Z
-    webUrl: "https://www.csoonline.com/article/648266/how-llms-are-making-red-and-blue-teams-more-efficient.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 4
 
 secured: "60kqhZvrIp8YtdshOw3xDdUAQomIjHBf7BwwPCFVcMOjF8KLCD+Q7cJdX7xIwSt8KuOum3HOhCzrJdFsxQMmqmprCBUAxUBNHvSgVZqI9cpBSTX8dMO2a0pvpMMMUVrgc2zFmTkhd8PHbDBRkFfSfkKrvImhIgTqHQXcWCho8RARlhAMaZsn/KVxrI55yPNOWENSKNPt1znu23QU7iTjmvaFUrGAlX+srEICNldtodMJ7+DBIYaclz0Coy/7pZYN4om2/aSY6zDxvyupv4FaqdmkI7WjKMU6sY5/M9bXp4AbvLqB6XBOTzOM0x2qDF4WwYMLWLHbT3MUmb5kHo4UP/z80E3y0p3le8spHfnMBLwAdvvvipUZAawoHFe/oq4vHco64UweocqDC68dh+bkhLYq/yG5uvwpic5i2vXakqP/IVymatzXsXGhoGwdBCcXD3O6T+a4nVtqrH5wnxZgKfNbCHYo4x/w82nCCu3uEk0FbJ95K6QbcQ0GnTBtJC3iXMB4zMau7XUY3ifQTWm8HQ==;oL1OlSsqkFujyizj9Jv2sA=="
 ---

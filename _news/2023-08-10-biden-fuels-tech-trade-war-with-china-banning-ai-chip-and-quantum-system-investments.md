@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html"
 type: article
 quality: 66
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/8/9/biden-1-6512763-1691622416724.jpg"
         width: 1020
         height: 573
+        isCached: true
+  - title: "New Outbound Investment Restrictions Affect China, Semiconductors, Artificial Intelligence, and Quantum Computing"
+    excerpt: "President Biden issued an Executive Order (E.O.) ordering the issuance of outbound investment restrictions. This E.O. comes after nearly a year of anticipation (as we have"
+    publishedDateTime: 2023-08-12T19:51:00Z
+    webUrl: "https://www.natlawreview.com/article/new-outbound-investment-restrictions-affect-china-semiconductors-artificial"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 16
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/15527/Trade%20Export%20Logisitics%20Supply%20Chain%20TOP_3_0.jpg?itok=dt6WjCn9"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "DoORf8pPzhn6TMg9lvooiaiqPUxirwOdK8nMXgFrDrJjZiN/RHXt9NAJmS+nSz91LtSpl0Z96Ln4bGckRFHHy2L33/RycrHT/QlWFDk22727mgCBYHQDVAOw5c8WcIu6JCRKcENEfOJHiib2fk+Oc3iOUh+d/R+hS+fsinsP/24jM8nlhWanReIoSCKbAorvWEtLdfomDizGFg9DxybctVQCPTuNUiqTyZpVEqzYYHW4g58JktSsIISGSoJK5maMBxFHWOlyjX65QSAyAK9z16uIIjIjiNbo5DWxgfn0RlGjL98wqw7WfpLI8N+jBzK+xAV2j36jX/aYFdIcL/z6CVuxmOIfIscSuVIkX5BQqoblClSZYA3gOm6YI+NJ/csaEhQKLI/9qozRl89YQ3ruXWAL8GI1qGMqZLiTd5Lhdd45DW78OelTR7KkKiCHnHyBRqWpzOJidRXehnCchU9ggExe/qi+xuxJlyhLddv9i6Udsq+b2XTCdPMLzt6+88qXJy2b1blp0iRuXPNBp6Gb0Q==;Z/2hWuUlJxzV4FKI1fSvTg=="

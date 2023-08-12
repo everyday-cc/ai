@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-07-musk-predicts-tesla-self-driving-cars-later-this-year.md",
+      "title": "Musk predicts Tesla self-driving cars 'later this year'",
+      "excerpt": "\"In terms of where Tesla is at this stage, I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai. \"This is only speculation ...",
+      "sourceUrl": null,
+      "webUrl": "https://japantoday.com/category/business/musk-predicts-tesla-self-driving-cars-%27later-this-year%27",
+      "originalUrl": "https://japantoday.com/category/business/musk-predicts-tesla-self-driving-cars-%27later-this-year%27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Japan Today",
+        "domain": "japantoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-elon-musk-predicts-self-driving-teslas-later-this-year.md",
       "title": "Elon Musk predicts self-driving Teslas ‘later this year’",
       "excerpt": "esla CEO Elon Musk has stated that he believes the company will upgrade its vehicles to fully self-driving in 2023. Speaking via video link at the World Artificial Intelligence Conference in ...",
@@ -1351,40 +1385,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-neil-chilson-on-the-future-of-artificial-intelligence.md",
-      "title": "Neil Chilson on the Future of Artificial Intelligence",
-      "excerpt": "Neil Chilson talked about the future of artificial intelligence. Javascript must be enabled in order to access C-SPAN videos. *This text was compiled from uncorrected Closed Captioning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.c-span.org/video/?528950-3/neil-chilson-future-artificial-intelligence",
-      "originalUrl": "https://www.c-span.org/video/?528950-3/neil-chilson-future-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "c-span",
-        "domain": "c-span.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

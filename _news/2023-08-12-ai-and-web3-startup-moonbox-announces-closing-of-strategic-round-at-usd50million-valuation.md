@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OKX Ventures Invests USD1 Million in Lead Funding Round for Hong Kong-Based AI and Web3 Startup Moonbox"
-    excerpt: "HONG KONG, Aug. 4, 2023 /PRNewswire/ -- OKX Ventures, the investment arm of leading global crypto exchange and innovative Web3 company OKX, has announced a USD1 million investment in Moonbox, an artificial intelligence (AI) technology and Web3-focused start-up based in Hong Kong."
-    publishedDateTime: 2023-08-08T01:10:00Z
-    webUrl: "https://www.digitimes.com/biz/news.asp?feed=1929"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 21
-    images:
-      - url: "https://mma.prnasia.com/media2/2153679/OKX_VENTURES_OKX_Stacked_Black_Logo.jpg?p=medium600"
-        width: 600
-        height: 318
-        isCached: true
 
 secured: "Zs9HNYTePQ253OHMk5gIZtlW369dBwBJNI+Z0FI9OlGMkammToUusLz69c1UdIbZYiMq8CXOW5It+5C6X5e8C4ivST9/QgwYuH9FTb+BO9CPAUfxXf8WIwEkjVm2qsmcwfAfPEvph+KWkj7vDNTIkkQ7/Lps38BTeweFWSoR8g/JC0wXOF4PbY+n93h584jJD1ulM9Nd1e3OD6LdOT83VWvaKd0ge0RoRVoNdUjhwIBhAYZfv/cgeVIu9SGftUjfmdAVBVo5pnJL/N3rnVQYdaJwtNBModDmOq9hF/WRf+kZupdDGcQitdSZJQWb4kSOPsfNlQVldfgp4dxZjJjEC280ylKi3K7XgSwT8zh5+NA=;GGm8PrnIvhHII9t8vLeOBA=="
 ---

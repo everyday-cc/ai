@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 658
         isCached: true
+  - title: "Here Are the Top AI Stories You Missed This Week"
+    excerpt: "If you’re behind on what’s happening with the robot uprising, have no fear. Here’s a quick look at some of the weirdest and wildest artificial intelligence news from the past week. Also, don’t forget to check out our weekly AI write-up, which will go into more detail on this same topic."
+    publishedDateTime: 2023-08-12T19:30:00Z
+    webUrl: "https://gizmodo.com/top-artificial-intelligence-stories-zoom-disney-google-1850723427"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
   - title: "Disney AI task force aims to cut costs, enhance experiences across the company"
     excerpt: "The Walt Disney Company has formed a task force to investigate the potential applications of AI throughout its various business units, reports Reuters, including cutting costs and enhancing customer experiences. This comes despite ongoing Hollywood writers' and actors' strikes that have put some AI technologies in the crosshairs."
     publishedDateTime: 2023-08-08T18:50:00Z

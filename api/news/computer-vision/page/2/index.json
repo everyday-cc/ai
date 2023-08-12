@@ -2,6 +2,156 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-31-i-drove-the-70000-genesis-gv60-see-inside-the-futuristic-tesla-rival-that-has-facial-recognition-and-a-crystal-ball.md",
+      "title": "I drove the $70,000 Genesis GV60: See inside the futuristic Tesla rival that has facial recognition and a crystal ball",
+      "excerpt": "The Genesis GV60 is a quirky, premium SUV packed with futuristic tech. It's also super quick and charges fast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7",
+      "originalUrl": "https://www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c4240dcf0778001966e871?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7?amp",
+      "publishedDateTime": "2023-07-31T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-deepminds-rt-2-makes-robot-control-a-matter-of-ai-chat.md",
+      "title": "DeepMind's RT-2 makes robot control a matter of AI chat",
+      "excerpt": "Instructing a robot can be just a matter of a large language model that handles actions in the same prompt as images and words.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
+      "originalUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/69766a4a0ca637cc1b3aa27816b94e2102772847/2023/07/31/dcacd18a-42b7-4fd8-b9ef-c05a182163b6/deepmind-rt-2-picks-up-objects.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-30T22:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-incheon-airport-introduces-smartpass-facial-recognition-system.md",
+      "title": "Incheon airport introduces Smartpass facial recognition system",
+      "excerpt": "A new biometric identification system using the facial features of travelers now substitutes for passports at Incheon International Airport, Korea's largest international air hub. The enhanced identification process started being used on July 27,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/culture/2023/07/135_356006.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2023/07/135_356006.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202307/76a5bef4fee443218a7a270c29c87bb8.jpg",
+          "width": 980,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006",
+      "publishedDateTime": "2023-07-30T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-ryanair-challenged-by-noyb-over-invasive-facial-recognition.md",
       "title": "Ryanair challenged by Noyb over ‘invasive’ facial recognition",
       "excerpt": "Noyb claims Ryanair's use of facial recognition breaches GDPR and is being used to drive users away from external online travel agencies.",
@@ -1191,126 +1341,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-ieee-cs-computer-vision-and-pattern-recognition-conference-ranks-1-on-researchcoms-best-computer-science-conferences-list.md",
-      "title": "IEEE CS' Computer Vision and Pattern Recognition Conference Ranks #1 on Research.com's Best Computer Science Conferences List",
-      "excerpt": "In addition to CVPR 2023, IEEE CS' International Conference on Computer Vision (2021) earned the #3 spot on Research.com's list, with an impact score of 40.60, resulting in IEEE CS claiming two of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/ieee-cs-computer-vision-and-pattern-recognition-conference-ranks-1-on-research-coms-best-computer/article_047e3efa-efab-53da-a0ea-cc13fcfac9e4.html",
-      "originalUrl": "https://www.victoriaadvocate.com/ieee-cs-computer-vision-and-pattern-recognition-conference-ranks-1-on-research-coms-best-computer/article_047e3efa-efab-53da-a0ea-cc13fcfac9e4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-computer-vision-australia-oceania.md",
-      "title": "Computer Vision - Australia & Oceania",
-      "excerpt": "Value in the Computer Vision market is projected to reach US$0.59bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.47%, resulting in a market volume of US$1.35bn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/australia-oceania",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/australia-oceania",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-computer-vision-new-zealand.md",
-      "title": "Computer Vision - New Zealand",
-      "excerpt": "Value in the Computer Vision market is projected to reach US$133.00m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.71%, resulting in a market volume of US$307.40m ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/new-zealand",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/new-zealand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

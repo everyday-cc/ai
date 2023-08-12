@@ -1,32 +1,23 @@
 ---
 category: news
 title: "Guiding vaccine development with machine learning"
-excerpt: "From tackling homework challenges to drafting emails, people are discovering a vast array of applications for natural language processing tools like generative artificial intelligence (AI) engines."
-publishedDateTime: 2023-08-10T16:48:00Z
-originalUrl: "https://medicalxpress.com/news/2023-08-vaccine-machine.html"
-webUrl: "https://medicalxpress.com/news/2023-08-vaccine-machine.html"
-ampWebUrl: "https://medicalxpress.com/news/2023-08-vaccine-machine.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-vaccine-machine.amp"
+excerpt: "The Rapid Assessment of Platform Technologies to Expedite Response project aims to prepare against future pandemics."
+publishedDateTime: 2023-08-10T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/998263"
+webUrl: "https://www.eurekalert.org/news-releases/998263"
 type: article
-quality: 61
-heat: 61
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
-  - Natural Language Processing
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/guiding-vaccine-develo.jpg"
-    width: 1600
-    height: 1200
-    isCached: true
-
-secured: "SRaeLrXQkJMkkA19k3GnB3t6hQIBVoXOe92F9C/V661lHBuPJ/pUEJxyQMS5Q4s6/5uZij+t86vK+N0AHOufYE7JCZgwcD6AJkrmJ0gR0uyoTsMFH3jOeXdvOEuyvOhxIP4TnQN6kEa3gzGSOyPrhm5MqNTHveeb+HBtPg49+wyYfBrQfzJfu5jYiAm6Jf+gpbF/bKcUZgfOrMnpBJGundW1M23ZvYAbjptNAlb2aiPVqVHeELNOnPXhAidIRV6bB+xcIUbejzfzsd+VDwkdmqKoAhJVL6jKdUEWIUrtv0us0FFJ4AnYonCKA0J/FZMw9bZZHXyquXbrLEMcrlpn4PZ4QPO4/W+DRc2n46SsONKo769vBkyY9AdBOgez8mpKNPeTjSnYKjLVhPZv1cfS3ZYvVXX/8u9akaxDzpL2aGir5rBGzs+b1XLwd6TlhWxoLusHUHio69Y5RqkUVvZWzxpq6dhQtwAZv1tMMc5+8djA+wrFBdETs1QdvRWAhOfAaq5AlYa8empQHHei8A992w==;I6jAkgIG4F0vShfG34+Obg=="
+secured: "5hH/yDT4EcdGPvi3YjbGDKm09NOsEjkhqfw99U6CVcVG0v86xL0HyLq1AEndpFqHYzuBExjlULiFKu44xyPdmAQ8aJHgIIeNtblJlkSuOvcQexNszPyAoJnjC9Z5SM40vqnMlBgx/FmzaOHPy8/jurdg95AcdF0Xw8T0wvbDh5nCVfEtwIcjdle2G+KZJdK95ijRhFCZxF6VjXiBYW+HLTDjnG9w9vKnJvIcAkGO3XX/15pkB9jFYg+iYvZiN+GHh9/kLxnlAdM+kmxoRZ9R4aLL+t/aR+g2hccr7d/Jk8CFFFAmjDRq3YVix+OKpE/Oi95wyivlmDhcCXwKX4MDBUkB7fQALrcyJJfuUI2j774b6YPYCrBXzBmOYKOWN0+Mkjcq9bBU8ZJdqBgFkeLztB4COmVSKeDp79xLGZHpRUBkRNpP3iDuEAIx2cHmC9NN4aXllIvDtU9GQjlUin/UlmQ5QSRQl8V3pt5Z0Bm7WFPS3D4DgyydFZbiAMU5C7fDY2v05tEDyGygxz9Ihc6Y+w==;mMUpSC5ZVS+H8ng/FdIIiw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://gulfbusiness.com/why-responsible-ai-agenda-should-start-wi
 webUrl: "https://gulfbusiness.com/why-responsible-ai-agenda-should-start-with-ceo/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 930
     height: 620
     isCached: true
-
-related:
-  - title: "Stability AI’s Lead Threatened by Departures, Concerns Over CEO"
-    excerpt: "After its breakout success with Stable Diffusion, the startup risks ceding its edge in the booming field of generative AI"
-    publishedDateTime: 2023-08-08T05:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-08/stability-ai-s-lead-threatened-by-departures-concerns-over-ceo"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "NJw7DEuTBdIh3fG0FvZ66qiCMdXQRWQQtd1e24Y9/ZC0HK7bbwRNMIiGPZTJttkwwxAnZ84TttiR1JM2zA7pqAI8NDvJiz+dH4N/pBq6GVnL4k/TQG51qC/qVp6sxpgnzlFcuxbznq9ygkYf8mXC2zLx++rQnzFvVkYfkBzgtAcETF/xI8N0H3R3QimzUPCdAORbEu/4ExlAaY0Vj66CBLKsrDuQSrrgposMcmXwYOruJGfLmafGer+i1aEI+F918DPx/xSbQtwWWbd6p/0W/tCMkNHSwVrGacoWAbyscsYkd4MMOoFhbT58TKzC5G8u2MjWG9WPTrG1iPGojm1kLz3xKuImi3k73sE5Qz56IJaqzmHKIEgxhc4GNiPKZr5RrjppiQoHxrbKScOjquKul5tPFo+9tWL4hqPt2SzIsUcaKDtUMN0M9rBG4aS3vnVXnPvIw/DA1nCcIVuKfhFeVLkCfSDB6fXJW7PLLfeQ5USvt1KMd/Ogc+m6mw6lWHq3Uhjdq5iQl/FWDlT5c+XaDg==;cqIWyHRoch4mHGNRs5CIrw=="
 ---

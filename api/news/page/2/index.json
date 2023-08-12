@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-11-ubc-students-bring-mario-kart-to-life-with-robotics-competition.md",
+      "title": "UBC students bring Mario Kart to life with robotics competition",
+      "excerpt": "Students in UBC's engineering physics program brought Mario Kart to life Thursday, creating autonomous robots to race around a track.",
+      "sourceUrl": null,
+      "webUrl": "https://bc.ctvnews.ca/ubc-students-bring-mario-kart-to-life-with-robotics-competition-1.6514630",
+      "originalUrl": "https://bc.ctvnews.ca/ubc-students-bring-mario-kart-to-life-with-robotics-competition-1.6514630",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2023/8/10/2743539/_jcr_content/renditions/videothumbnail.1691719068604.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/british-columbia/2023/8/10/1_6514630.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2023/8/10/1_6514630.amp.html",
+      "publishedDateTime": "2023-08-10T20:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-news-corp-profits-dive-75-as-rupert-murdoch-owned-company-hints-at-ai-future.md",
+      "title": "News Corp profits dive 75% as Rupert Murdoch-owned company hints at AI future",
+      "excerpt": "Poor result weighed down by lower print and digital advertising at News Corp Australia, a division that includes flagship newspaper The Australian",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch",
+      "originalUrl": "https://www.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/24ebc1b0b0d225d0518477eaf39814d683376e9e/0_54_2400_1440/master/2400.jpg?width=620&quality=85&auto=format&fit=max&s=25256113421cc35454e63607633a8698",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch",
+      "publishedDateTime": "2023-08-10T20:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran.md",
+      "title": "Best of artificial intelligence, machine learning will be deployed at Air India: Chandrasekaran",
+      "excerpt": "Tata Sons Chairman N Chandrasekaran on Thursday said the best of artificial intelligence and machine learning will be deployed at Air India and emphasised that the airline is not just another business for the group but a passion and a national mission.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/08/11/1600x900/INDIA-AIR-INDIA-5_1691716811984_1691716831312.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
+      "publishedDateTime": "2023-08-10T18:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-robotics-as-a-service-market-size-share-trends-analysis-and-forecast-to-2031.md",
       "title": "Robotics As A Service Market Size, Share, Trends, Analysis And Forecast To 2031",
       "excerpt": "These robots are endowed with sensors, artificial intelligence, and machine learning algorithms, allowing them to perform complex tasks more efficiently and precisely. The global robotics market is anticipated to expand at a CAGR of 11.5% between 2023 and ...",
@@ -41,49 +178,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims.md",
-      "title": "Detroit woman at center of facial recognition lawsuit responds to police chief's claims",
-      "excerpt": "Woodruff and her attorney filed a lawsuit against the city and a Detroit Police Department officer, arguing AI technology was the reason she was falsely identified as a carjacking suspect.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/",
-      "originalUrl": "https://www.cbsnews.com/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/10/248a1fe4-8764-4664-87bc-b05f69597616/thumbnail/1200x630/8de1786299c722a34656a03b9d4b3fd7/woodruff-arrest.jpg?v=08aa43fa812a9e12e93282c47f58b17f",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/",
-      "publishedDateTime": "2023-08-10T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -580,7 +674,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -683,7 +777,7 @@
       "originalUrl": "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -778,7 +872,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -873,7 +967,7 @@
       "originalUrl": "https://venturebeat.com/ai/middleware-raises-6-5m-to-simplify-cloud-monitoring-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1103,110 +1197,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-embracing-the-ai-revolution-a-guide-for-industry-leaders.md",
-      "title": "Embracing The AI Revolution: A Guide For Industry Leaders",
-      "excerpt": "The obligation lies with every leader to seize this unprecedented era and harness the potency of this breakthrough technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/",
-      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6426e4f5a896dce658217d97/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/amp/",
-      "publishedDateTime": "2023-08-10T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-how-todays-top-marketing-leaders-are-approaching-ai.md",
-      "title": "How Today’s Top Marketing Leaders Are Approaching AI",
-      "excerpt": "Many marketing leaders are embracing the technology, recognizing its staying power and acknowledging that marketers would do well to adapt or risk becoming irrelevant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/",
-      "originalUrl": "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d3984e604bda7e4b0ed9f8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/",
-      "publishedDateTime": "2023-08-10T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI Ethics"
       ]
     }
   ],

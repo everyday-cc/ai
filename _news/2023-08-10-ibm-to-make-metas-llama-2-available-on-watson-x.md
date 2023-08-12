@@ -2,26 +2,26 @@
 category: news
 title: "IBM to make Meta’s Llama 2 available on Watson X"
 excerpt: "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,"
-publishedDateTime: 2023-08-09T18:45:00Z
-originalUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792"
-webUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792"
-ampWebUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
-cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
+publishedDateTime: 2023-08-09T22:41:00Z
+originalUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446"
+webUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446"
+ampWebUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446?amp=1"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: IT World Canada
+  domain: itworldcanada.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://i.itbusiness.ca/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
     width: 1920
     height: 720
     isCached: true
@@ -143,6 +143,6 @@ related:
       domain: prnewswire.co.uk
     quality: 32
 
-secured: "HIcvJDcujjmIcrE3MwxiMwXEPYieX4jlJsi8PjleDKvtYdBjuFamLyEU9xwWmrfJoXQEcKt5iECwzbuaahDo5vMCG53PP4B6YBRFCTkQSZdzC+w2ziMdadWo3kz6z+7RmAT766D4zx0R36n3ApsSRoRsHWVq735OGDh6qz031pYmA03njdM3OYtYC5KbdJzH7Wt4y39hmH0CmuGQx6BtVsdT9K+7bheIVxhqlhbXeTBnOEkBt0pBS5xRvSAZDkJev2JwYXRLkSAtjS7LTOsPU+n6pFA7qOfurVkypKob4Dpnmm5LjHdzNpAtdoqdoUKdYk2ZlaGhXPM6sF9u86tFzkwrPGcSEGpyx7iDZREKiOSHwK4wSDSSYTJiUn0zjT/gwaIyA+7fz7OL3l2f7agGs246R/CLWkCnd0MW5fUPcnLIYaCANwVBeLC7lN6aCuiP6GoGjZ9P8BQjKBvBv3n+gDFFjuQgd24d9K/GnmKfLQ+sO/vZhyYyDAChrcKBoJxYO5+VfalrD+mfKtePWY0zwQ==;owdAOeyj3wUfpNBeLnm55g=="
+secured: "WwBi6yZT5LSD5UCDK3y8fIQpCua2gMxCx38MPhQhYx7dz/lr0CukHq6kKZfv3IxRMJul1kC9jbSeo1JXcPS2G0qVnFpA59eKcEtzZ65qBCIUIWiIhBi5Oc/ttXO1TiZz+XsdjsRyKdSGx+e8MOLPWFVtERX7BCrGnEd0fJqMQ9la5WhhYiKIU8EuBTM8mghDIWoKBJBuRV6mcw7okd/hC0dFvnliP298HRoAWEGxUJINFw8CBpyXHd7QFjKUsbUt1/Ej43U85tMmghb0c2PtdaMaV4qhiPR2mVJL1ck3PIEQ9yG8u4h8CyPr9PQqaNxffKbH3xdX0dXSuo3Hc/Tnv8Gj44MB2V5T+PzkwSleTLs=;2g3wmsgFXij8cmAikYw/hA=="
 ---
 

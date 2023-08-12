@@ -2,6 +2,153 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-04-21-businesses-turn-to-facial-recognition-technology-to-avert-shoplifting-and-robbery.md",
+      "title": "Businesses turn to facial recognition technology to avert shoplifting and robbery",
+      "excerpt": "Fox News’ Douglas Kennedy reports that shoplifting and robbery crimes are up 22% from last year, prompting business owners to use facial recognition technology to stop repeat offenders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6325508060112",
+      "originalUrl": "https://www.foxnews.com/video/6325508060112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f9568c0-e2b3-4369-b71e-f2066447ffc9/c9ff9a97-7061-475b-bcd1-902a42a763be/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-facial-recognition-market-size-by-2031.md",
+      "title": "Facial Recognition Market Size by 2031",
+      "excerpt": "Apr 21, 2023 (The Expresswire) -- New Report (2023-2031) of 105 Pages: Global Facial Recognition Market Status and Prospect A summary of the assiduity, including important Types (2D Facial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-by-2031-2023-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-by-2031-2023-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-smart-gun-operating-on-facial-recognition-goes-on-sale-in-us.md",
+      "title": "Smart Gun Operating On Facial Recognition Goes On Sale In U.S",
+      "excerpt": "Reuters Colorado-based Biofire Tech is taking orders for a smart gun enabled by facial-recognition technology, the latest development in personalized weapons that can only be fired by verified users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139",
+      "originalUrl": "https://www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/4448798/smart-gun-operating-facial-recognition-sale-us.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139?amp=1",
+      "publishedDateTime": "2023-04-21T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-facial-recognition-is-expanding-its-watchful-eye-but-suffers-from-notable-fails.md",
       "title": "Facial recognition is expanding its watchful eye but suffers from notable fails",
       "excerpt": "Various police departments and businesses in the U.S. are increasingly using facial recognition as a security measure, but has been hit with notable criticisms.",
@@ -1159,127 +1306,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry.md",
-      "title": "Global Computer Vision System Market [2023-2030] | An In-Depth Analysis on Industry",
-      "excerpt": "The Global Computer Vision System Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry-2023-04-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry-2023-04-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-computer-vision-in-healthcare.md",
-      "title": "Computer vision in healthcare",
-      "excerpt": "Apr 05 2023, 23:46 ist updated: Apr 06 2023, 22:33 ist A verification email has been sent to your inbox. Please verify to complete the subscription.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanherald.com/opinion/panorama/computer-vision-in-healthcare-1207085.html",
-      "originalUrl": "https://www.deccanherald.com/opinion/panorama/computer-vision-in-healthcare-1207085.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Herald",
-        "domain": "deccanherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-techsee-announces-new-multi-sensory-ai-for-service-automation-built-on-integration-between-openais-chatgpt-and-techsees-computer-vision-ai.md",
-      "title": "TechSee Announces New Multi-Sensory AI For Service Automation Built on Integration between OpenAI's ChatGPT and TechSee's Computer Vision AI",
-      "excerpt": "The integration of Computer Vision AI and Conversational Al will empower organizations to offer full service automation across all digital",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/techsee-announces-new-multi-sensory-ai-for-service-automation-built-on-integration-between-openai-s-chatgpt-and-techsee-s-computer-vision-ai-1032219428",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/techsee-announces-new-multi-sensory-ai-for-service-automation-built-on-integration-between-openai-s-chatgpt-and-techsee-s-computer-vision-ai-1032219428",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

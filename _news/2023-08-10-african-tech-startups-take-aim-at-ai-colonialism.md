@@ -65,6 +65,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "A roadmap to help AI technologies speak African languages"
+    excerpt: "From text-generating ChatGPT to voice-activated Siri, artificial intelligence-powered tools are designed to aid our everyday life -- as long as you speak a language they support. These technologies are out of reach for billions of people who don't use English,"
+    publishedDateTime: 2023-08-11T18:51:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/08/230811115430.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "African perspectives: the role of artificial intelligence in journalism"
     excerpt: "In an interview with Global Voices, African journalists shared their views on the use of artificial intelligence (AI) in journalism on this continent."
     publishedDateTime: 2023-08-10T07:53:00Z

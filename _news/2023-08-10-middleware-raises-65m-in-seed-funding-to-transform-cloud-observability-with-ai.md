@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/middleware-raises-6-5m-to-simplify-clou
 webUrl: "https://venturebeat.com/ai/middleware-raises-6-5m-to-simplify-cloud-monitoring-with-ai/"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 42
+  - title: "San Francisco AI observability startup raises $50M"
+    excerpt: "Weights & Biases helps other AI developers monitor their code so it can be audited, organized and debugged — preventing so-called black boxes. The San Francisco startup just raised some fresh funding."
+    publishedDateTime: 2023-08-09T17:50:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/08/09/san-francisco-ai-observability-startup-raises-50m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "idbi1t3OKR7dk7DdnMF7k2xV0+WwJxSwys5BIzU++7HhI1x8jzmxE4+eH2tEPnd/beYkg5QnluMwUO025OLFvmqLZeYdX+KRJ6ojNOiclPETOXRHReCMfGUV6/XBtRXUoAKUOr+vNtvu7HzEXM4f5uYwUgy32ORpx1QTKM1k2dDDO1j2iQyCqTa/o2PRsH3ZAuurk485t/n7oLUlIIrInz+SZsl9yAuUwewTuFXvC5Zzf3WroGHmpJK11nQ1GPFBN/NYCwBvxf3oniQ1CCzkLSulG7dHwdZreWzyUKa9g1CH7Cxx9IcO4TivVqVlv9gGvtllg8LMTZbxuPjpB5m1DcFQgqtQ+JZoZheKoM+ZPZxhY4uH9NP6m3VMlrvjXTKwyc6s13NTtbgJisC9MFYOAzGF0X5PdkiReXlPaMFjJtRRMoN8ulrpN992FgNtkt3UrAkjeODASc7ayhOQC/XHLgvWaU3ykYUik/PCjaXIGz4Uwo4eo/E6MjQCQ4FH8b+HWhWeCcsDNiX7Pm9StzXJsg==;/hWdVb5zFE4X3NjzerL+zw=="
 ---

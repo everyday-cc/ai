@@ -31,13 +31,13 @@ images:
 
 related:
   - title: "DeepMind could give developers a lift with AI coding tool"
-    excerpt: "Google's AI division filed a patent application for a system that generates computer code from \"task descriptions\" using neural networks. In simple terms, the system allows users to write out exactly what task they need done, and a generative neural network spits out one or more computer programs that can execute that task."
+    excerpt: "Google DeepMind may be adding to the company's AI-coding patent portfolio.  Google's AI division filed a patent application for a"
     publishedDateTime: 2023-08-10T16:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/deepmind-could-give-developers-a-lift-with-ai-coding-tool"
+    webUrl: "https://www.fool.com/investing/2023/08/10/deepmind-could-give-developers-a-lift-with-ai-codi/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 64
 
 secured: "o8G8Xsw4FzEnOeSBR4ZNAfzyRFp3dZ6vJDlVD6xihXCSw4B2kCE8kYxGOIrJvS69+HFEaSCWgcx4mK3dx1vTsoF/WULSkgDEpLy1Td9LbvDXlcQoPS8FDIVlAvq104inpdR9zSf+pzeLK434jgS7o5rpkMfjibr8R6I3L3Xv8xs13P5K6cYFdJ7hEgf9y8JE14PX7ODC9UtrwYUmInGbD7IcQ7uNwx19QYxvoMLAPVK+CFh/HTWgsGW4ED9SX6L7se/eIQdB9lfydBMOTCvplTJPczE3PFruzYUMd9kwDg7anG/95GSFCoiRevAoyhjS4ikAXQITnm9ZocnM0ZouiIePOGdhsafWdkauLvXf9lumgpqmIU/dnWQXjBwU6c30HKRmRQHAcTEusyaajf7xRhB3qq8I+RSN7IQdVzcUJDQWOCDs11MWGa7egFroOUikTMWEhqqsvo1qi+cMCZIxaoxqVCwKb69vbODkKYC3WTAPc147nEah5+RwkkYaDfdPUMM570cPJQE3hY8acTwUHQ==;WEz1zlKmdls3507vj8rSsA=="

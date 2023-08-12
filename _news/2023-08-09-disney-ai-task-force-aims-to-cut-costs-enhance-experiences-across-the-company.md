@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 658
         isCached: true
+  - title: "Here Are the Top AI Stories You Missed This Week"
+    excerpt: "If you’re behind on what’s happening with the robot uprising, have no fear. Here’s a quick look at some of the weirdest and wildest artificial intelligence news from the past week. Also, don’t forget to check out our weekly AI write-up, which will go into more detail on this same topic."
+    publishedDateTime: 2023-08-12T19:30:00Z
+    webUrl: "https://gizmodo.com/top-artificial-intelligence-stories-zoom-disney-google-1850723427"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
   - title: "Merkle Introduces Generative AI Powered GenCX to Revamp Customer Experiences"
     excerpt: "Developed within dentsu's Azure OpenAI framework GenCX uses AI to analyse substantial amounts of brands' internal data."
     publishedDateTime: 2023-08-09T05:31:00Z

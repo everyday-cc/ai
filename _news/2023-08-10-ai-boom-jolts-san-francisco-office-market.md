@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "San Francisco drives tech; will it drive away robot taxis?"
-    excerpt: "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence, but when it comes to self ..."
-    publishedDateTime: 2023-08-08T01:02:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/san-francisco-drives-tech-will-it-drive-away-robot-taxis-2023-08-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 71
-    images:
-      - url: "https://www.reuters.com/resizer/UGMeovV1vj3t5SxbyMpFlVNUJ4o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ4PYLGTDNJWZI3XIRQPZJMW5I.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "California Okays Driverless Taxi Expansion for San Francisco"
     excerpt: "The state's green light, on a 3-1 vote by the California Public Utilities Commission, signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality."
     publishedDateTime: 2023-08-11T16:09:00Z
@@ -47,6 +33,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/2a5480d/2147483647/strip/true/crop/662x348+0+0/resize/662x348!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbb%2Fd0%2F80318d734f7fa9a89f9001e9f5c0%2Fzscaler-public-sector-logo-r1-rgb-31aug21-vertical-pms-blue-002.png"
         width: 662
         height: 348
+        isCached: true
+  - title: "San Francisco Has a Problem With Robotaxis"
+    excerpt: "Afergan stepped outside to check it out. Sure enough, a self-driving cab from the company Cruise, which is majority-owned by General Motors, stood frozen in the middle of the street, its hazard ..."
+    publishedDateTime: 2023-08-11T06:31:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2023/08/robotaxis-san-francisco-self-driving-car/674956/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 54
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/x7OD6DAsLd1BJLs-tijl7E9WRPk=/0x102:4792x2598/1200x625/media/img/mt/2023/08/robotaxi_still/original.jpg"
+        width: 1200
+        height: 625
         isCached: true
   - title: "San Francisco Balks at Expanding Driverless Car Services on City’s Roads"
     excerpt: "Local officials are worried that state regulators are too eager about a plan by the companies Cruise and Waymo to offer round-the-clock driverless taxi services."
@@ -70,6 +70,20 @@ related:
       - url: "https://missionloca.s3.amazonaws.com/mission/wp-content/uploads/2023/08/IMG_4511-scaled-e1691694476680.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Despite Public Safety Concerns, CA Driverless Taxis Get Green Light"
+    excerpt: "\"They're not ready for prime time,\" San Francisco Fire Chief Jeanine Nicholson said recently, adding that they have interfered with 55 recent incidents."
+    publishedDateTime: 2023-08-11T14:10:00Z
+    webUrl: "https://www.firehouse.com/operations-training/video/53068921/despite-public-safety-concerns-ca-driverless-taxis-get-green-light"
+    type: article
+    provider:
+      name: Firehouse
+      domain: firehouse.com
+    quality: 39
+    images:
+      - url: "https://img.firehouse.com/files/base/cygnus/fhc/image/2023/08/maxresdefault.64d63c06c7728.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Cruise, Waymo await decisions on self-driving service in San Francisco"
     excerpt: "Barring another delay, Cruise and Waymo expect to hear Thursday from the California Public Utilities Commission whether they can expand the scope of their commercial services offered in San Francisco."
@@ -122,6 +136,15 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Tourists in fast lane with driverless transport"
+    excerpt: "Driverless vehicles have become tourist attractions in the city, providing smart and convenient rides to tourists. Autonomous vehicles carrying people around Shanghai Haichang Ocean Park in the Pudong New Area started trial runs on Friday. Autonomous vending vehicles have been put into use on a trial basis at the same time."
+    publishedDateTime: 2023-08-12T02:57:00Z
+    webUrl: "https://www.msn.cn/zh-cn/news/other/tourists-in-fast-lane-with-driverless-transport/ar-AA1faI9H"
+    type: article
+    provider:
+      name: SHINE on MSN.com
+      domain: www.msn.cn
+    quality: 19
   - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
     excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
     publishedDateTime: 2023-08-10T16:44:00Z
@@ -136,15 +159,6 @@ related:
         width: 4948
         height: 3235
         isCached: true
-  - title: "San Francisco AI observability startup raises $50M"
-    excerpt: "Weights & Biases helps other AI developers monitor their code so it can be audited, organized and debugged — preventing so-called black boxes. The San Francisco startup just raised some fresh funding."
-    publishedDateTime: 2023-08-09T17:50:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/08/09/san-francisco-ai-observability-startup-raises-50m.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
   - title: "Self-driving taxis get the green light on 24/7 service in San Francisco"
     excerpt: "Companies like Waymo and Cruise can now offer autonomous rides to anyone in San Francisco—but some city officials have concerns."
     publishedDateTime: 2023-08-11T18:00:00Z

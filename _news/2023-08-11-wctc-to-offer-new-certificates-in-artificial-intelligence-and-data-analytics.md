@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta unveils AI audio and music generator"
-    excerpt: "Meta’s AudioCraft is made up of three separate AI models: MusicGen, AudioGen and EnCodec. MusicGen exists for music generation and was trained with “Meta-owned” and specifically licensed music, while AudioGen specialises in audio generation and was trained on public sound effects."
-    publishedDateTime: 2023-08-08T03:22:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/meta-unveils-ai-audio-and-music-generator-.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/woman%20creating%20music.jpg"
-        width: 999
-        height: 562
-        isCached: true
   - title: "'The Bell Labs of AI and robotics:' Boston Dynamics founder Marc Raibert discusses AI Institute"
     excerpt: "In an exclusive interview, Boston Dynamics founder Marc Raibert discusses how the AI Institute is keeping its head down on recruiting and R&D — as far as possible from the commercialization focus of its namesake company."
     publishedDateTime: 2023-08-09T09:26:00Z
