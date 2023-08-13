@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/foundations-seek-adv
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/69a5b094811888463d7887484571cbfcea3143fc/0_97_5827_3902/master/5827.jpg?width=620&quality=85&auto=format&fit=max&s=6953b8417ad2a20b1234ffc20b9f6e6b"
         width: 620
         height: 415
+        isCached: true
+  - title: "Gates Foundation funds 50 AI projects to improve health equity"
+    excerpt: "The Bill and Melinda Gates Foundation has selected about 50 grant recipients developing global health and development solutions for their communities"
+    publishedDateTime: 2023-08-10T13:15:00Z
+    webUrl: "https://businessday.ng/news/article/gates-foundation-funds-50-ai-projects-to-improve-health-equity/"
+    type: article
+    provider:
+      name: businessday
+      domain: businessday.ng
+    quality: 39
+    images:
+      - url: "https://149520306.v2.pressablecdn.com/wp-content/uploads/2023/02/Artificial-intelligence.jpg"
+        width: 700
+        height: 400
         isCached: true
   - title: "Foundations seek to advance AI for good — and also protect the world from its threats"
     excerpt: "While technology experts sound the alarm on the pace of artificial intelligence development, philanthropists — including long-established foundations and tech billionaires — have been responding with an uptick in grants."

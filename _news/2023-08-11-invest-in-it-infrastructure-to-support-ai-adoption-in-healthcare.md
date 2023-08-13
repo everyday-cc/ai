@@ -9,8 +9,8 @@ ampWebUrl: "https://healthtechmagazine.net/article/2023/08/invest-it-infrastruct
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/08/invest-it-infrastructure-support-ai-adoption-healthcare?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: HealthTech
@@ -27,15 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "How to build more sustainable transportation infrastructure"
-    excerpt: "Transportation infrastructure—the networks of fixed installations that ensure safe transport of people and goods—is a critical part of modern economies.\nThe post How to build more sustainable transportation infrastructure appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-08T13:35:42Z
-    webUrl: "https://www.ibm.com/blog/transportation-infrastructure/"
+  - title: "Gates Foundation awards $5M to healthcare AI startups"
+    excerpt: "The Bill & Melinda Gates Foundation is supporting 48 healthcare AI and large language model startups with up to $100,000 in funding. 75% of the recipients are f"
+    publishedDateTime: 2023-08-10T15:14:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/gates-foundation-awards-5m-to-healthcare-ai-startups.html"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "£13m allocated for research into use of artificial intelligence in healthcare"
+    excerpt: "The Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare."
+    publishedDateTime: 2023-08-09T21:01:00Z
+    webUrl: "https://www.independent.co.uk/news/uk/politics/nhs-government-steve-barclay-james-cleverly-prime-minister-b2390558.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 53
+    images:
+      - url: "https://static.independent.co.uk/2023/08/10/00/0a48a35067bb751bb5abd6562da587f9Y29udGVudHNlYXJjaGFwaSwxNjkxNjc4NzY3-2.69139511.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "YquKXN+wziL7tLCmB+awQWxalj0RdluoUnfN3+os/gtIcsNfdFZHGmV8lFj1xGTXE7+B/GK4zLtOCqvBLPPrrclggPy09TM02nS7HKTsZ77Og4hHr9MUPaW6m87HBf4Gs9rKf415Tv8FLb8oXjGEEZS6UIzBTWVLQ1OlUyL3t4kYQ6WFLatjCH4Snz8YROQ8GcXag2ZmVrUFwaalyEeSKbZDGkoCzPvIyvwzFP4o4u4klFBf1B7Qqc+3O+gvsLiDTNmfmL3AyrxKsQh0/Px89mD06e/iHrzeAp3qaPpE5XR2e13TdWznU2zmqDmc/MpY5JpGwfw0SqraaNnT6oYSfHvASFKiF/l9ytcw0dmJrfgjNk9bSIjZQTyKbiakQ+gbBtJim66QytMz109LihZAFF80XLSXBfXeR3mn2XEWtTgtEKKqF94/4GQSXEqmz+tl5BFkwsg5CNvWLllyNtRFjDBwoFAbB6Gy8VujSW9HDa3XDuOXRaFOynPVl09AkQKAx7mK+Wu2S7YL3ZWpMQ5p+w==;6/iULN6pO0jDYgRBZURQNA=="
 ---

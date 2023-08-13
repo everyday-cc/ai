@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "SK Telecom invests $100. mil in US AI startup Anthropic"
+    excerpt: "SK Telecom will invest $100 million in U.S.-based generative AI startup company Anthropic in a bid to improve its competence in the emerging technology and further develop various language-based AI services for global markets,"
+    publishedDateTime: 2023-08-13T07:40:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/08/133_356939.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356939"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356939"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 57
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202308/743e01def6a74c149ce98c673000a986.jpg"
+        width: 980
+        height: 648
+        isCached: true
   - title: "Anthropic releases a faster, smarter, cheaper AI model"
     excerpt: "The AI startup released its own AI model, Claude, in March. It has proven to be a worthy rival to OpenAI's GPT-3.5 and GPT-4. With that initial launch, Anthropic also released Claude Instant, a lighter, less expensive, and faster version of Claude, according to Anthropic. Now, it's getting an upgrade."
     publishedDateTime: 2023-08-10T19:26:00Z
@@ -34,6 +50,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "SK Telecom Pivots to AI, Eyeing Leadership in Global Tech Beyond Telco"
+    excerpt: "SK Telecom announced a strategic shift, moving from traditional telecommunications to dominate the AI, cloud computing, and data center markets, after witnessing non-telecom sectors surging growth in Q2."
+    publishedDateTime: 2023-08-09T07:08:00Z
+    webUrl: "https://www.econotimes.com/SK-Telecom-Rapidly-Transitioning-Its-Business-from-Telco-to-AI-Company-1660799"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
+    images:
+      - url: "https://f1.econotimes.com/2023/08/sqiwgz9ozb_th_1024x0.jpg"
+        width: 1024
+        height: 672
+        isCached: true
 
 secured: "AuBWS5YQvjDSj7IKnPVjuirBR5CWJs/n+aaiCsBldEIFXCXq+DA3CLzfW7keiETKSQYX0I6phvkFiISkHc7Vy+Un9cCk8qyFSnjUEzO8AJPPESAa5EScfVOAvtehQ4gGa89BWTm7qzEnbqUT/uXjpqlft7R12Dke4swTxI9PRXJr8BOoYJBnopQsMdMQfxMa8kFGqPQMI12izNxL48oUPJBsyJSYhdT5ke7e8faUNPaQUmm+/Q9GY2D6/IT5UmouMSpSO4Ub401lYB/2sA+QLahwo5SA6V/4si+bo03CbHFt2KzViPIZuPL0L+H+ul4wWTcgHCnQ6i5wUVp18ViQzK/AMuSS25mBxyTR/WgR8St4KjQz4EpH+CIMfeXdEpPgnUscXtsLkY/FHqpVSEXd9lUE6UGA89rgPF8gqEjW+/d/kg+SrK7eUL5M0V3nNIPVTum661eite7Kbx0pLsGqaZC41Sx4b6DMKxj64WY6QHc14orKDh4MdbIu1kndQPVOBkprnkxIPQ4VThRs00xbAQ==;9SBoP+SzbI1violVP+25nA=="
 ---

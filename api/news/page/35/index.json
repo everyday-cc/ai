@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-07-19-meta-launches-ai-research-community-to-address-pressing-challenges-in-ai.md",
+      "title": "Meta launches AI research community to address pressing challenges in AI",
+      "excerpt": "New Delhi, July 19 (IANS) Meta (formerly Facebook) has launched a new organisation, the Open Innovation AI Research Community for academic researchers, designed to foster transparency, innovation, and collaboration in the field of artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai",
+      "originalUrl": "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://glamsham.com/wp-content/uploads/2023/07/9821ae2f64fe1e0dfea0fe0c41b9015b.jpg",
+          "width": 304,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai?amp=1",
+      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai?amp=1",
+      "publishedDateTime": "2023-07-19T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-everyday-ethics-worry-about-natural-intelligence-not-ai.md",
       "title": "Everyday ethics: Worry about natural intelligence, not AI",
       "excerpt": "Don’t worry about the future of A.I. (Artificial Intelligence), fret over the lack of intelligence now on earth.",
@@ -1111,57 +1154,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-ai-put-me-in-a-south-park-episode.md",
-      "title": "AI put me in a 'South Park' episode",
-      "excerpt": "And then there was me, a tech journalist going door-to-door warning about the impending AI apocalypse. No, I wasn't actually guest starring on the long-running TV series — I was thrust into an episode entirely produced by the Showrunner AI model from The Simulation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/the-simulation-ai-put-me-in-a-south-park-episode-170002565.html",
-      "originalUrl": "https://www.engadget.com/the-simulation-ai-put-me-in-a-south-park-episode-170002565.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/5eOPagwvugtI9ZGYXlZsaA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/0ba6ba00-2588-11ee-b3bd-4c14cd489115.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

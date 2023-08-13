@@ -2,6 +2,49 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2023-05-29-you-should-try-tesla-self-driving-says-elon-musk-to-meta-chief-ai-scientist.md",
+      "title": "'You Should Try Tesla Self-Driving,' Says Elon Musk To Meta Chief AI Scientist",
+      "excerpt": "Tesla Inc TSLA CEO Elon Musk on Friday recommended Tesla’s self-driving to Meta Platforms Inc META Chief Artificial Intelligence scientist looking for the missing element in machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/05/32611631/you-should-try-tesla-self-driving-says-elon-musk-to-meta-chief-ai-scientist",
+      "originalUrl": "https://www.benzinga.com/news/23/05/32611631/you-should-try-tesla-self-driving-says-elon-musk-to-meta-chief-ai-scientist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/elon_musk_ai4_7.png?width=1200&height=800&fit=crop",
+          "width": 861,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32611631",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32611631",
+      "publishedDateTime": "2023-05-28T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-29-i-took-a-trip-on-britains-first-driverless-bus-there-were-heart-stopping-moments-but-the-robots-are-coming.md",
       "title": "I took a trip on Britain’s first driverless bus – there were heart-stopping moments but the robots are coming",
       "excerpt": "Bristling with Artificial Intelligence software and hi-tech sensors ... is the vanguard of Britain’s coming driverless vehicle revolution. It is pitched as a safer alternative to human drivers ...",
@@ -1081,49 +1124,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-ai-is-a-nuclear-bomb-and-the-entire-world-has-already-got-it-palantir-ethics-expert-warns.md",
-      "title": "AI is 'a nuclear bomb and the entire world has already got it,' Palantir ethics expert warns",
-      "excerpt": "An expert on artificial intelligence ethics for a company that builds software used in war zones likened the emergence of widely-available advanced AI to the atomic bomb this week, voicing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns",
-      "originalUrl": "https://www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/e411ac96-aa6b-4cff-8544-75f535f21996/3051c914-44d6-4e64-b3d4-b809d56b5ce9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns.amp",
-      "publishedDateTime": "2023-05-26T21:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

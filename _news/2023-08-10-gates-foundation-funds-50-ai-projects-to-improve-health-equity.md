@@ -25,34 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Gates Foundation awards $5M to healthcare AI startups"
-    excerpt: "The Bill & Melinda Gates Foundation is supporting 48 healthcare AI and large language model startups with up to $100,000 in funding. 75% of the recipients are f"
-    publishedDateTime: 2023-08-10T15:14:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/gates-foundation-awards-5m-to-healthcare-ai-startups.html"
+  - title: "Foundations seek to advance AI for good — and also protect the world from its threats"
+    excerpt: "While technology experts sound the alarm on the pace of artificial intelligence development, philanthropists — including long-established foundations and tech billionaires — have been responding with"
+    publishedDateTime: 2023-08-11T15:42:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: ABC
+      domain: abcnews.go.com
+    quality: 52
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "Four Nigerian projects win part of Gates Foundation $5m grant for AI solutions"
-    excerpt: "Four Nigerian projects have been selected as winners of the Bill and Melinda Gates Foundation's most recent AI solutions award."
-    publishedDateTime: 2023-08-11T08:56:00Z
-    webUrl: "https://www.thecable.ng/four-nigerian-projects-win-part-of-gates-foundation-5m-grant-for-ai-solutions"
+  - title: "Meet the artists reclaiming AI from big tech – with the help of cats, bees and drag queens"
+    excerpt: "AI’s potential is huge and terrifying. But a new generation of artists is starting to find new uses for the technology, as well showing its many limitations"
+    publishedDateTime: 2023-08-10T06:01:00Z
+    webUrl: "https://www.theguardian.com/artanddesign/2023/aug/10/artists-using-artificial-intelligence-science-gallery"
+    ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/aug/10/artists-using-artificial-intelligence-science-gallery"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/aug/10/artists-using-artificial-intelligence-science-gallery"
     type: article
     provider:
-      name: TheCable
-      domain: thecable.ng
-    quality: 35
+      name: The Guardian
+      domain: theguardian.com
+    quality: 47
     images:
-      - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2023/08/Bosun-Tijani-and-Bill-Gates.jpeg"
-        width: 2048
-        height: 1366
+      - url: "https://i.guim.co.uk/img/media/69a5b094811888463d7887484571cbfcea3143fc/0_97_5827_3902/master/5827.jpg?width=620&quality=85&auto=format&fit=max&s=6953b8417ad2a20b1234ffc20b9f6e6b"
+        width: 620
+        height: 415
         isCached: true
+  - title: "Foundations seek to advance AI for good — and also protect the world from its threats"
+    excerpt: "While technology experts sound the alarm on the pace of artificial intelligence development, philanthropists — including long-established foundations and tech billionaires — have been responding with an uptick in grants."
+    publishedDateTime: 2023-08-11T19:32:00Z
+    webUrl: "https://www.clickondetroit.com/business/2023/08/11/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 12
 
 secured: "gxHcM9c1XkU8IrOQTKwgy68i0ckc7hMKjlYFHeXID5ATi3d5kpq/5lWSQxoGJqq8cvYBGQMVWuKQxRpV9w/EOzrEvBnKhcY6b80mofCHhCXnLZEpXO6fEa3vwnLYUJGHgLXxKYXsqRE3N5lXq+KBRfZeS8wlKE6BnGLwS9NMPJ1G45qfJ82wn0L4HkucDT79p4CDgQNFaTAiRZKJpy/Hf8UKXcIdEijhdqmISrAd4H4AzNrJfDcrI9ztdXnzSgOTYc+T6LvFRokNVZZiJtjVS3gJA9bKHEFw1wxojw5NbCEPZZ+J31ytsYYpySQba0WqprB8L64WWlJJd9xBiN01U60zL9JZLjzgnbWzpYGbKy6abRQhGd5ttW2Ga+omsk8ct8kt9SUkRKXTeFb4HT7j+N32cNwojUi/gdWajWhZxcFKApcAolh3zTswPC4hZnRo7rClyl1iv67vDue+Nw7THU3HjedOt5I//PKAbwH6tHRYODR9PNBnv3v71oTJvuscnyDDcK08/HW4NI4exaXajw==;VLa9g7IAbKKGocO8bNrYgA=="
 ---

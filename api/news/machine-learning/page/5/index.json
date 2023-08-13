@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-06-21-learn-artificial-intelligence-top-5-short-term-ai-courses-available-online.md",
-      "title": "Learn Artificial Intelligence: Top 5 Short-Term AI Courses Available Online",
-      "excerpt": "These courses are offering learners the opportunity to enhance their understanding of AI concepts and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "originalUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/68381/online-ai-courses.jpg",
-          "width": 1128,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "publishedDateTime": "2023-06-20T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-20-reduce-energy-consumption-of-your-machine-learning-workloads-by-up-to-90-with-aws-purpose-built-accelerators.md",
       "title": "Reduce energy consumption of your machine learning workloads by up to 90% with AWS purpose-built accelerators",
       "excerpt": "Machine learning (ML) engineers have traditionally focused on striking a balance between model training and deployment cost vs. performance. Increasingly, sustainability (energy efficiency) is becoming an additional objective for customers. This is important because training ML models and then using",
@@ -1403,6 +1360,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-deepchecks-raises-14m-to-validate-machine-learning-models-continuously.md",
+      "title": "Deepchecks raises $14M to validate machine learning models continuously",
+      "excerpt": "Deepchecks was co-founded by Chief Executive Philip Tannor (pictured, right) and Chief Technology Officer Shir Chorev (left). It originally intended to be a traditional machine learning operations platform.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/06/15/deepchecks-raises-14m-continuously-validate-machine-learning-models/",
+      "originalUrl": "https://siliconangle.com/2023/06/15/deepchecks-raises-14m-continuously-validate-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/2205-Philip-and-Shir-Deepchecks.png",
+          "width": 5472,
+          "height": 3648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,57 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-07-07-companies-are-drowning-in-too-much-ai.md",
+      "title": "Companies Are Drowning in Too Much AI",
+      "excerpt": "IT sellers are rolling out an avalanche of new generative AI features, leaving CIOs overwhelmed and workers confused.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/companies-are-drowning-in-too-much-ai-1c27c003?mod=hp_minor_pos4",
+      "originalUrl": "https://www.wsj.com/articles/companies-are-drowning-in-too-much-ai-1c27c003?mod=hp_minor_pos4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-812426/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-ai-robots-could-play-future-role-as-companions-in-care-homes.md",
       "title": "AI robots could play future role as companions in care homes",
       "excerpt": "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it. Nadia Magnenat Thalmann ...",
@@ -1079,58 +1130,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-un-recruits-robots-in-strive-to-meet-global-development-goals.md",
-      "title": "UN recruits robots in strive to meet global development goals",
-      "excerpt": "\"The idea is to showcase their capabilities, opportunities and challenges to start ... connectivity, AI and machine learning, all these things will converge to basically make robotics more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/un-recruits-robots-strive-meet-global-development-goals-2023-07-05/",
-      "originalUrl": "https://www.reuters.com/technology/un-recruits-robots-strive-meet-global-development-goals-2023-07-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/cmSyHNVEqqz0oCT0ZLJIXztCSLk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DYXFJBWFDNK6XG6GCKCHVQFUFY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

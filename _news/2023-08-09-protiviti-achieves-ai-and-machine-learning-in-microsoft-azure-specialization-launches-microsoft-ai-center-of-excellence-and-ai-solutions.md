@@ -128,29 +128,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "7 ways generative AI is bringing bionic business to manufacturing"
-    excerpt: "In partnership with several manufacturing companies, Microsoft aims to enable seamless connectivity, data analysis, and AI-driven insights across the production process. By leveraging Azure's capabilities, manufacturers can optimize production operations, improve equipment maintenance, and enhance product"
-    publishedDateTime: 2023-08-08T15:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/7-ways-generative-ai-is-bringing-bionic-business-to-manufacturing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-  - title: "Microsoft’s Azure OpenAI Service is now available in new regions"
-    excerpt: "Microsoft has expanded its Azure OpenAI Service to provide more businesses around the world with generative artificial intelligence capabilities through models such as GPT-4 and GPT-35-Turbo. The new live regions are in Australia East,"
-    publishedDateTime: 2023-08-08T14:39:00Z
-    webUrl: "https://www.technologyrecord.com/article/microsofts-azure-openai-service-is-now-available-in-new-regions"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 69
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4531/AzureOpenAI.jpg"
-        width: 975
-        height: 548
-        isCached: true
   - title: "Microsoft partners with Aptos Labs to build AI-powered blockchain tools on Azure"
     excerpt: "A compelling new partnership has just been announced between Microsoft and Aptos Labs. The collaboration is set to create an AI-powered tool named Aptos"
     publishedDateTime: 2023-08-09T15:54:00Z

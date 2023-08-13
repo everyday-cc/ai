@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-07-29-executives-need-to-be-careful-before-diving-into-the-world-of-ai.md",
+      "title": "Executives Need To Be Careful Before Diving Into The World Of AI",
+      "excerpt": "With AI continuing to make headlines, organizations feel under pressure to adopt the new technology. But many questions remain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c54268c990bbf4f1ade19b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/amp/",
+      "publishedDateTime": "2023-07-29T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-warning-programming-and-learning-can-be-complementary.md",
       "title": "Warning! Programming And Learning Can Be Complementary!",
       "excerpt": "Starting with ‘why we like programming,’ Solar-Lezama pointed out the value of generalization, modularity and encapsulation.",
@@ -1159,49 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-google-unveils-ai-robot-rt-2-translates-vision-and-language-into-robotic-actions.md",
-      "title": "Google Unveils AI Robot: RT-2 Translates Vision and Language into Robotic Actions",
-      "excerpt": "Google this Friday disclosed its new artificial intelligence model that translates vision and language into robotic actions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/07/33444703/google-unveils-ai-robot-rt-2-translates-vision-and-language-into-robotic-actions",
-      "originalUrl": "https://www.benzinga.com/news/23/07/33444703/google-unveils-ai-robot-rt-2-translates-vision-and-language-into-robotic-actions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/07/28/google_ai.png?width=1200&height=800&fit=crop",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33444703",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33444703",
-      "publishedDateTime": "2023-07-28T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

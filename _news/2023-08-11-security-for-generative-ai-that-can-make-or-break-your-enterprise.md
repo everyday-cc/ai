@@ -37,20 +37,6 @@ related:
         width: 625
         height: 270
         isCached: true
-  - title: "Host the Spark UI on Amazon SageMaker Studio"
-    excerpt: "Amazon SageMaker offers several ways to run distributed data processing jobs with Apache Spark, a popular distributed computing framework for big data processing. You can run Spark applications interactively from Amazon SageMaker Studio by connecting SageMaker Studio notebooks and AWS Glue Interactive"
-    publishedDateTime: 2023-08-08T14:56:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-the-spark-ui-on-amazon-sagemaker-studio/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/08/host-spark-ui-sagemaker-1260x627.jpg"
-        width: 1260
-        height: 627
-        isCached: true
   - title: "Preparing Your People For Generative AI At Work"
     excerpt: "To fully embrace generative AI, leaders need to ensure their team is equipped with the skills to evolve alongside new technology."
     publishedDateTime: 2023-08-09T11:15:00Z
@@ -112,20 +98,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64d541f1b585aa1bcfb1ea3f/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 608
-        isCached: true
-  - title: "Deploy thousands of model ensembles with Amazon SageMaker multi-model endpoints on GPU to minimize your hosting costs"
-    excerpt: "Artificial intelligence (AI) adoption is accelerating across industries and use cases. Recent scientific breakthroughs in deep learning (DL), large language models (LLMs), and generative AI is allowing customers to use advanced state-of-the-art solutions with almost human-like performance. These complex"
-    publishedDateTime: 2023-08-08T14:50:24Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-thousands-of-model-ensembles-with-amazon-sagemaker-multi-model-endpoints-on-gpu-to-minimize-your-hosting-costs/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/08/deploy-thousands-of-models-1248x630.jpg"
-        width: 1248
-        height: 630
         isCached: true
   - title: "Chegg is getting a generative AI makeover just in time for back-to-school season"
     excerpt: "ChatGPT's advanced abilities have the potential to shake up many industries, and online learning services are an early example of this. With a free, competent tool like ChatGPT that can help with homework and studying, why would students pay for an online learning service?"

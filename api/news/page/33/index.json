@@ -2,6 +2,49 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-07-20-the-movement-to-limit-face-recognition-tech-might-finally-get-a-win.md",
+      "title": "The movement to limit face recognition tech might finally get a win",
+      "excerpt": "A Massachusetts bill restricting police use could set the standard for how the technology is regulated in America. If it fails, it'll be a blow to a once-promising movement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/",
+      "originalUrl": "https://www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/06/massachusetts-facial-recognition.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/amp/",
+      "publishedDateTime": "2023-07-20T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-a-bull-market-is-coming-2-artificial-intelligence-ai-growth-stocks-to-buy-now-and-hold-forever.md",
       "title": "A Bull Market Is Coming: 2 Artificial Intelligence (AI) Growth Stocks to Buy Now and Hold Forever",
       "excerpt": "The next bull market could take the S&P 500 much higher, and these growth stocks are well-positioned to outperform.",
@@ -1145,48 +1188,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-red-teaming-101-what-is-red-teaming.md",
-      "title": "Red teaming 101: What is red teaming?",
-      "excerpt": "Red teaming is the process of testing your cybersecurity effectiveness through the removal of defender bias by applying an adversarial lens to your organization.\nThe post Red teaming 101: What is red teaming? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/red-teaming-101-what-is-red-teaming/",
-      "originalUrl": "https://www.ibm.com/blog/red-teaming-101-what-is-red-teaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T09:47:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

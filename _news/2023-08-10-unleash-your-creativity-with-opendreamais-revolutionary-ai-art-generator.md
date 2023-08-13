@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fintech Summit to highlight banking industry innovation"
+    excerpt: "Global leaders in technology and banking are returning to Little Rock this week for two days of speed-dating-like meetings and open sessions that connect bankers with financial technology companies offering innovative services."
+    publishedDateTime: 2023-08-13T07:14:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/aug/13/fintech-summit-to-highlight-banking-industry/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2019/09/18/Andrew_Moreau_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 300
+        isCached: true
   - title: "AI-powered fraud detection: Strengthening security in fintech"
     excerpt: "In the rapidly evolving world of fintech, security remains a paramount concern. With the increasing sophistication of cybercriminals, traditional methods of fraud detection are often falling short. This is where Artificial Intelligence (AI) steps in, offering a robust and dynamic solution to the complex problem of fraud detection."
     publishedDateTime: 2023-08-12T09:30:00Z

@@ -2,6 +2,58 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-07-13-elon-musk-launches-xai-his-new-artificial-intelligence-company.md",
+      "title": "Elon Musk Launches xAI, His New Artificial-Intelligence Company",
+      "excerpt": "Musk has been recruiting researchers to try to create a rival to OpenAI, the AI company behind the viral chatbot ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a",
+      "originalUrl": "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-815887/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-artificial-intelligence-powers-a-new-era-in-construction.md",
       "title": "Artificial Intelligence Powers A New Era In Construction",
       "excerpt": "Exploring the transformative role of Artificial Intelligence in reshaping construction processes, from enhancing operational efficiency to improving on-site safety.",
@@ -1172,49 +1224,6 @@
         "AI Hardware",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-amazon-prime-day-day-2-best-prime-day-laptop-deals-2023.md",
-      "title": "Amazon Prime Day, Day 2: Best Prime Day laptop deals 2023",
-      "excerpt": "The experts at CBS Essentials have rounded up top-rated, customer-loved laptops at Amazon now. All of these laptops have a four-star rating or higher and include tons of positive reviews.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-prime-day-deals-laptops-computers-2023-amazon-2023-07-12/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-prime-day-deals-laptops-computers-2023-amazon-2023-07-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/02/24/25d7180c-a9f4-4577-a8d4-a1cba42fb6a7/thumbnail/1200x630/8d29b0445e9966af894e1bf1d1cd0c55/gettyimages-1181853007.jpg?v=86db2ab42e1f4996c0f037a20ce5a325",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-prime-day-deals-laptops-computers-2023-amazon-2023-07-12/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-prime-day-deals-laptops-computers-2023-amazon-2023-07-12/",
-      "publishedDateTime": "2023-07-12T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -150,20 +150,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mom Sues Detroit After Facial Recognition Software Leads to Wrongful Arrest While Pregnant"
-    excerpt: "She spent the day sitting in jail on a concrete bench where she experienced stress-related contractions and was later diagnosed with dehydration."
-    publishedDateTime: 2023-08-08T14:50:00Z
-    webUrl: "https://ijr.com/mom-sues-detroit-facial-recognition-software-leads-wrongful-arrest-pregnant/"
-    type: article
-    provider:
-      name: ijr.com
-      domain: ijr.com
-    quality: 29
-    images:
-      - url: "https://ijr.com/wp-content/uploads/2022/06/GettyImages-1290950900.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Detroit woman sues Detroit Police Department after arrest over false facial recognition match"
     excerpt: "There have been only six reported cases in the U.S. of facial recognition technology misidentifying a person as a suspect in a crime, and three of those have happened in the city of Detroit."
     publishedDateTime: 2023-08-08T22:11:00Z
@@ -233,20 +219,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 10
-  - title: "‘I Was Scared’: Detroit Woman Wrongly Arrested While 8 Months Pregnant for Carjacking, Robbery Due to Botched Facial Recognition Technology"
-    excerpt: "A 32-year-old Detroit, Michigan, woman is taking legal action against the city after she was falsely accused of carjacking and robbery due to a facial"
-    publishedDateTime: 2023-08-08T14:44:00Z
-    webUrl: "https://atlantablackstar.com/2023/08/08/detroit-woman-wrongly-arrested-pregnant-for-carjacking/"
-    type: article
-    provider:
-      name: Atlanta Blackstar
-      domain: atlantablackstar.com
-    quality: 5
-    images:
-      - url: "https://atlantablackstar.com/wp-content/uploads/2024/08/Pregnant-Wrongfully-Arrested-Because-of-Facial-Recognition.jpg"
-        width: 1200
-        height: 697
-        isCached: true
   - title: "How Flawed Facial Recognition Technology Led to Arrest of 8-Months-Pregnant Woman on False Carjacking Charge"
     excerpt: "The case against her began with faulty facial recognition technology NIC ANTAYA/The New York Times/Redux When six Detroit police officers knocked on her door one morning this February and told ..."
     publishedDateTime: 2023-08-11T01:17:00Z

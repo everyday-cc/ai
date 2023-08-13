@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "China drafts rules for using facial recognition technology"
-    excerpt: "HONG KONG, Aug 8 (Reuters) - China's cyberspace regulator said on Tuesday it has issued draft rules to oversee the security management of facial recognition technology in the country, following ..."
-    publishedDateTime: 2023-08-08T14:39:00Z
-    webUrl: "https://www.reuters.com/technology/china-drafts-rules-using-facial-recognition-technology-2023-08-08/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
   - title: "China Drafts Rules for Facial Recognition Technology"
     excerpt: "The Cyberspace Administration of China has issued draft rules governing the use of facial recognition technology amid public concerns about its overuse."
     publishedDateTime: 2023-08-09T16:38:00Z

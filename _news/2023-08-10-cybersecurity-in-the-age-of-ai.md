@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -127,15 +127,6 @@ related:
         width: 850
         height: 476
         isCached: true
-  - title: "Protecting your self-driving car, and your privacy, from cyberhackers in the age of AI"
-    excerpt: "Imagine driving down the highway when suddenly your brakes slam, your engine turns off and your doors lock. A hacker has remotely taken control of your car."
-    publishedDateTime: 2023-08-08T13:15:00Z
-    webUrl: "https://techxplore.com/news/2023-08-self-driving-car-privacy-cyberhackers-age.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 11
 
 secured: "0upe9tNhDxItZdw2LMSb4cWbg/VqBROtxKzTuL9/G+jPwZmRiHzAcWD4oRnHqF8c2fxZiD9+pv2VW7PzF2jGBp+hXPpNjladRyZJO0F0eW2BuwsNPms0WSZiwAT6UJbnpB7WiYt2Q7WsvUjQmya17jM5Gn0UPwNt1WQPBjkpicHkgBNfwmQeV3qzJFrIqp4OeUbhC50RBMuAdEmsHA6Jtwm8JuAPVD8e09edq5Th+5UL6Iyyv33M/TQj+SlMzvPS5+Q3L0iQ9RJn1/3Ftsnb13dgYOqpoqJ/p6MUkNEVMcKOnBjX4FWWTR8GM4mf2V0K5kTnhl6+U/z4rpAH8GzXNh8rUhAL1aITJsxNiXpq1TOJX++vm+QEhUGf2U96+0k5ZPW8cDoIMiCEMtFRDRUxlgtIGOEwWO+S7ZwJvovfm1hbspIzgkR5u8O1O23ZAjpFJBQDnwN1BQesSJd0tWxTYZ0wmfYqh8ztZiE3ElCAVs7v/kijYAOqSKt2vKOiRl6/Z5mJCf3kuMUMfnMaPr4ijg==;BOCFJxvFOmOIzw4No3mSNw=="
 ---

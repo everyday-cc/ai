@@ -2,6 +2,49 @@
   "page": 152,
   "value": [
     {
+      "path": "_news/2023-05-07-ai-pioneer-geoffrey-hinton-outlines-4-dangers-of-artificial-intelligence.md",
+      "title": "AI pioneer Geoffrey Hinton outlines 4 dangers of artificial intelligence",
+      "excerpt": "The “Godfather of artificial intelligence” has changed his mind about whether AI can become smarter than humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/",
+      "originalUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tampabay.com/resizer/Ex5xkonKhkVd-9caaUA6LmErs2I=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XLO7HHPWM3NDI5NC5D6FR3OQJA.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp",
+      "publishedDateTime": "2023-05-07T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-07-us-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips.md",
       "title": "U.S. Sanctions Drive Chinese Firms to Advance AI Without Latest Chips",
       "excerpt": "Chinese companies racing to catch up with American AI leaders get creative as U.S. sanctions cut them off from the most advanced chips.",
@@ -1135,58 +1178,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-president-biden-meets-with-ai-ceos-at-the-white-house-amid-ethical-criticism.md",
-      "title": "President Biden meets with AI CEOs at the White House amid ethical criticism",
-      "excerpt": "On Thursday, President Joe Biden held a meeting at the White House with CEOs of leading AI companies, including Google, Microsoft, OpenAI, and Anthropic,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1252673513-800x533.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/amp/",
-      "publishedDateTime": "2023-05-05T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

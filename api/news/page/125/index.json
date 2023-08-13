@@ -2,6 +2,58 @@
   "page": 125,
   "value": [
     {
+      "path": "_news/2023-05-23-llms-and-the-rise-of-the-ai-code-generators.md",
+      "title": "LLMs and the rise of the AI code generators",
+      "excerpt": "Large language models like GPT-4 and tools like GitHub Copilot can make good programmers more efficient and bad programmers more dangerous. Are you ready to dive in?",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html",
+      "originalUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/08/code-abstract-matrix-100678032-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html",
+      "publishedDateTime": "2023-05-23T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-indias-infosys-unveils-ai-platform.md",
       "title": "India's Infosys unveils AI platform",
       "excerpt": "India's second-largest software services exporter Infosys Ltd said on Tuesday it launched a platform called Infosys Topaz for generative artificial intelligence (AI).",
@@ -1092,48 +1144,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-22T06:09:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-ibm-websphere-liberty-announces-instanton-for-cloud-native-java.md",
-      "title": "IBM WebSphere Liberty announces InstantOn for cloud-native Java",
-      "excerpt": "IBM is pleased to announce the availability of WebSphere Liberty InstantOn coming at the end of June 2023. \nThe post IBM WebSphere Liberty announces InstantOn for cloud-native Java appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-websphere-liberty-announces-instanton-for-cloud-native-java/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-websphere-liberty-announces-instanton-for-cloud-native-java/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-22T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

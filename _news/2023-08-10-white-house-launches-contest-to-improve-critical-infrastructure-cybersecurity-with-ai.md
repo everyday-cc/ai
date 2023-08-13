@@ -123,15 +123,6 @@ related:
       name: unite
       domain: unite.ai
     quality: 34
-  - title: "Protecting your self-driving car, and your privacy, from cyberhackers in the age of AI"
-    excerpt: "Imagine driving down the highway when suddenly your brakes slam, your engine turns off and your doors lock. A hacker has remotely taken control of your car."
-    publishedDateTime: 2023-08-08T13:15:00Z
-    webUrl: "https://techxplore.com/news/2023-08-self-driving-car-privacy-cyberhackers-age.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 11
 
 secured: "3Zgz2SLe7nMkbCXoNiKLZjFmBBs5gG7LkTd0t8r4/RVkoBYrTdVBiGgmbyIUeI+e8OQofwlFbpG55ax+Iv5Nbkfli+qQKB58oMupCgtYXlfkSUX3P+4ICkp25Sz4mg9bZPTDwSwAyjtQjVIAThlR9WtKa+I4/rU4EhR2RkM2kJ8mRXqEnT/F2YCHxAq8QVsc7rU48uiOTKjkjZHeWbYHLqMIB6/37bZZSjwt8SC2yFxcPxiHRifOjM0OXnQaD/d6PfJMGY7yH0FM4T6jySC/yTJZVRfLqDOzdFc5/B5de8E85/AfML+gOVxgD/Cboo3SRoghy5VL6wSzFDUiqSPG4LhMA9T4bJhhF4TwOP+J3NURFy3y7kESJVGZJpTONLOFsvsxQoFh0VttTeoV9kLOjVefQrKYwzNQCvEAxMGYS6SGGOTWgPjM3SutavUsCNKxLFEI13qMI430Q+2M39uD7f54SZEV9Mws+61aAvRXG0xaEzffGldffjNppVqPXUqeKW5SjVGQkTAU3gp7dT6ZwA==;VMToR7vtRkPlzGC+BaccOA=="
 ---

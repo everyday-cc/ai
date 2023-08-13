@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This Startup Is Using AI To Increase Productivity And Reduce Meeting Mania"
-    excerpt: "With record buzz surrounding AI, consumers are eager to understand how new tools will impact their own lives. Productivity tools are one of the first aspects of technology that are ripe for innovation through AI. I recently spoke with Matt Martin, a veteran software developer and the co-founder of AI-driven calendar assistant Clockwise."
-    publishedDateTime: 2023-08-08T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/"
-    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/08/this-startup-is-using-ai-to-increase-productivity-and-reduce-meeting-mania/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c3cba41e471324dc16a7fe/0x0.jpg?format=jpg&width=1200"
-        width: 640
-        height: 317
-        isCached: true
   - title: "Hacking AI? Here are 4 common attacks on AI, according to Google's red team"
     excerpt: "Some of the biggest threats to machine learning (ML) systems, explains Google's red team leader, are adversarial attacks, data poisoning, prompt injection, and backdoor attacks. These ML systems include those built on large language models, like ChatGPT, Google Bard, and Bing AI."
     publishedDateTime: 2023-08-11T16:29:00Z
@@ -101,20 +85,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Bing AI is coming to more browsers, including on mobile, ‘soon’"
-    excerpt: "Microsoft's Bing AI chatbot is coming to more browsers such as Google Chrome, and will start working on mobile soon too."
-    publishedDateTime: 2023-08-08T13:52:00Z
-    webUrl: "https://9to5google.com/2023/08/08/microsoft-bing-ai-browsers/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/bing-logo-circle-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Small businesses using AI are loving it"
     excerpt: "A new survey finds that more than 90% of small business owners using artificial intelligence tools like ChatGPT say AI has made their businesses more successful."
     publishedDateTime: 2023-08-09T09:00:00Z

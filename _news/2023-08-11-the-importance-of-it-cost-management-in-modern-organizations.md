@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/it-cost-management/"
 webUrl: "https://www.ibm.com/blog/it-cost-management/"
 type: article
 quality: 102
-heat: 132
+heat: 112
 published: true
 
 provider:
@@ -28,29 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to choose the best enterprise asset management software"
-    excerpt: "While there are a lot of EAM products on the market, this article will help you ask the right questions to find the right fit for your organization.\nThe post How to choose the best enterprise asset management software appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-08T13:48:50Z
-    webUrl: "https://www.ibm.com/blog/best-enterprise-asset-management-software/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
-  - title: "AI is Not a Question of “If,” But “Should,” so Organizations Must Have a Risk Management System in Place"
-    excerpt: "Explore AI's ethical challenges and the importance of a robust risk management system for decision-making and data privacy."
-    publishedDateTime: 2023-08-08T14:02:00Z
-    webUrl: "https://marketscale.com/industries/software-and-technology/ai-is-not-a-question-of-if-but-should-so-organizations-must-have-a-risk-management-system-in-place/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 22
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/08/shutterstock_2248249679.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "As Organizations Ask If They “Should” Launch AI Projects, A Risk Management System Becomes Essential"
     excerpt: "As AI's ethical challenges surface, expert Mark Beccue discusses the importance of having a robust risk management system in an organization."
     publishedDateTime: 2023-08-08T18:34:00Z

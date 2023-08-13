@@ -39,20 +39,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Dropzone AI launches autonomous AI agent to investigate security alerts, raises $3.5M in seed funding"
-    excerpt: "Dropzone AI, a startup that aims to automate the tedious work of investigating security alerts, announced that it has raised $3.5 million in seed funding."
-    publishedDateTime: 2023-08-08T15:00:00Z
-    webUrl: "https://venturebeat.com/security/dropzone-ai-launches-autonomous-ai-agent-to-investigate-security-alerts-raises-3-5m-in-seed-funding/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/profile_pic_alt.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "KoCeKe9ij3yT22taMu2qccodpMXKAPw3cpiRx6NNLeJonrJ4wojK1LHa4oqhGWlwP2PEhCI7HQoJCUImuP+Ut+DaB8BpRo1/QZpDLhY7J0kpsNUuNFGO5kmScSWtuB3l5Wn/MHgJoNL6rnhNiAfulUSB5BPJHiQxtnXSOCNq+2nPBlH50qhd/HXD8cAuIeBwlZ+rzGlkWHniU2vvko5yx3/clq7VnVkcJEkECQJh59vM7o+EcqKWxLkJNvy0+C/i7qeHp/j8n0fkzs+7O7eM8ZJpugKHy6kOVbuR5q9qpAaexI8Mj4hhhDT4lk9/j4LEjvMduJrXU/GV6/O+sM347yJKQwbrvvL/bEtvYLokyYhqVoLPzqFITv9D+mpHw2cd32qdQh3sSJpnkMnwKv4aNxxofdhmTfB6kimk9Q3bR7hTn5UBOrSGuLsgnIlqhKH0THzYKAvtq1EbtwyGDHOiZ7yfaiZyj5/UXTHodT6irMW5ItaVicucrI606TIpCcYeFGb5BhoDyMCP58JJnOhXTA==;LGGdpGXfUGeBFut+kMCBHg=="
 ---

@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-08-detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition.md",
+      "title": "Detroit Woman Sues City Police After Being Wrongfully Arrested Due To AI Facial Recognition",
+      "excerpt": "Six police officers arrested Porcha Woodruff, who was eight months pregnant, after mistaking her for someone who had robbed a car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/",
+      "originalUrl": "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 444,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d10b3a725fca0578d6288b/0x0.jpg?format=jpg&crop=2369,1332,x603,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/amp/",
+      "publishedDateTime": "2023-08-07T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-nvidia-stock-is-still-a-top-pick-at-bank-of-america-even-after-its-stunning-ai-driven-209-rally.md",
       "title": "Nvidia stock is still a 'top pick' at Bank of America even after its stunning AI-driven 209% rally",
       "excerpt": "\"Demand isn't the issue, its supply and importantly the pace with which US cloud service providers are able to set up genAI compute instances.\"",
@@ -1131,49 +1183,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-06-the-big-bottleneck-for-ai-a-shortage-of-powerful-chips.md",
-      "title": "The big bottleneck for AI: a shortage of powerful chips",
-      "excerpt": "The crushing demand for AI has also revealed the limits of the global supply chain for powerful chips used to develop and field AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/big-bottleneck-ai-shortage-powerful-080222850.html",
-      "originalUrl": "https://www.aol.com/finance/big-bottleneck-ai-shortage-powerful-080222850.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_cnn_business_articles_764/301d06960d11b7db89fd6a6c72e4610e",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

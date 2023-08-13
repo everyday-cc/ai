@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-08-06-the-big-bottleneck-for-ai-a-shortage-of-powerful-chips.md",
+      "title": "The big bottleneck for AI: a shortage of powerful chips",
+      "excerpt": "The crushing demand for AI has also revealed the limits of the global supply chain for powerful chips used to develop and field AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/big-bottleneck-ai-shortage-powerful-080222850.html",
+      "originalUrl": "https://www.aol.com/finance/big-bottleneck-ai-shortage-powerful-080222850.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_cnn_business_articles_764/301d06960d11b7db89fd6a6c72e4610e",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-06T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-08-06-artificial-intelligence-and-machine-learning-unveiling-the-future-of-technology.md",
       "title": "Artificial Intelligence and Machine Learning: Unveiling the Future of Technology",
       "excerpt": "Welcome to the realm of Artificial Intelligence and Machine Learning, where algorithms breathe life into machines, transforming them into in..|News Track",
@@ -1144,50 +1187,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-ai-and-ml-the-two-biggest-trends-in-robotics-today.md",
-      "title": "AI and ML: The two biggest trends in robotics today",
-      "excerpt": "AI and ML applications for packaging robotics are growing rapidly, helping robots perform tasks more efficiently and eliminating the need for manual programming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.packworld.com/machinery/robotics/article/22866396/ai-and-ml-lead-packaging-robotics-trends",
-      "originalUrl": "https://www.packworld.com/machinery/robotics/article/22866396/ai-and-ml-lead-packaging-robotics-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.packworld.com/files/base/pmmi/all/image/2023/08/DLR_Packaging_Robotics.64caac0985d15.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Packaging World",
-        "domain": "packworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -51,6 +51,20 @@ related:
         width: 620
         height: 415
         isCached: true
+  - title: "Gates Foundation funds 50 AI projects to improve health equity"
+    excerpt: "The Bill and Melinda Gates Foundation has selected about 50 grant recipients developing global health and development solutions for their communities"
+    publishedDateTime: 2023-08-10T13:15:00Z
+    webUrl: "https://businessday.ng/news/article/gates-foundation-funds-50-ai-projects-to-improve-health-equity/"
+    type: article
+    provider:
+      name: businessday
+      domain: businessday.ng
+    quality: 39
+    images:
+      - url: "https://149520306.v2.pressablecdn.com/wp-content/uploads/2023/02/Artificial-intelligence.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "lzZHVnZuREVLQIyhYrGyLDqpI1xYuncxRT6zUaMg0oJADi+S/nTkf8KWF1WR7I87qdU+kWL7V5Xe3JCj8gfPb6Hrdp6RvqYRYTC5biPwEgsd7ijiuNY/BBh86vbgp+eM1umArdX+HwJIfOePIBILdA2toN8mFQdzvJdAuvmgl2AkYcsazrJ32J2pUN4BDzyj+mjcdi4c63mqJEPYbp8wa6NTR8ImhTAI5iQCSoirz4MXevSkdNU6/Vn2pphdlIe8qzVJSXjEqNpVoA5ytNbXNiIRZPM8xPoORQW5BLyys/QJcerc63cBbg51S6HAuUMtj0PUArtMbF7sLF2I5QMwrbxc1gAEhZgdJN7CY+bw4yU9SnW7VXjVz39n2dt+BMqQxlbTsGQjFiuu+ffhqHnGzjZRdKJkmEMhc3gL6oIUONr+6zUZZpKBgytdb5lTo2dNQdApGBtFi9LyMsUef1mgXmnhQi2RIwdNpH+PprEkD2rPpiwRPixU1TfOACw17PlfMMUsXmUYHxToo+LdEzbm8w==;l8+P2M2bCXwuJBwFTW7c2g=="
 ---

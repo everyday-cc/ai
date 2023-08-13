@@ -128,15 +128,6 @@ related:
         width: 850
         height: 476
         isCached: true
-  - title: "Protecting your self-driving car, and your privacy, from cyberhackers in the age of AI"
-    excerpt: "Imagine driving down the highway when suddenly your brakes slam, your engine turns off and your doors lock. A hacker has remotely taken control of your car."
-    publishedDateTime: 2023-08-08T13:15:00Z
-    webUrl: "https://techxplore.com/news/2023-08-self-driving-car-privacy-cyberhackers-age.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 11
 
 secured: "oO+GIjcour+kaV35YatPN/WtVgkwjNQl2i3oGHjXMEGomORgUTscmATHDBxmljm8SwImQIs4/gccsJXHmc8yPzUdZWwthKF4kVNUoHd6KaYN12w0BUkgFnYEngRdS1LkRfvEWJcoO7/3/xFp+aZ8TDABoQi449TQhs65VyYooKE+2X/k2LdDVsFFKqV/eUmXFeVkXQGxZ8AFnpZBTV/Q2dn+bh6MRpVJRsqsxlHhHrRjZ9/BYOfxK1EDiwSHq4WYJZ/+mdyStCssQrPkiAa/lcmPPHKhUVhBg1Mw1wLy+M7KN04O2fU59tQ15rKM94xEloXGRjJOu1VhOGh5MLJKNb0yNOfKyG0EDxOqoyNNOV1co2z1Kg970xPtJm519x7WjyXrimhRKdNrtN4NFk2X4U1tbx3X8y3in3Bm+ER10CCV7Kszpl/cW6Oq+IMCSoufvL3JlfNZylQ6Xw+tZAQAO+BL7kWRD3arAK3i5Om8Km2br9bf5NpfFrBq7xt3yfeomhO4P9any/SdDfuiw01DOQ==;dPCF3V7/dotDeZGrrBUZLA=="
 ---

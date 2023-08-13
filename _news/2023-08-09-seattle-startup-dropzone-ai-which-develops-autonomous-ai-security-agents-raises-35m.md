@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/seattle-startup-dropzone-ai-which-de
 webUrl: "https://www.geekwire.com/2023/seattle-startup-dropzone-ai-which-develops-autonomous-ai-security-agents-raises-3-5m/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dropzone AI launches autonomous AI agent to investigate security alerts, raises $3.5M in seed funding"
-    excerpt: "Dropzone AI, a startup that aims to automate the tedious work of investigating security alerts, announced that it has raised $3.5 million in seed funding."
-    publishedDateTime: 2023-08-08T15:00:00Z
-    webUrl: "https://venturebeat.com/security/dropzone-ai-launches-autonomous-ai-agent-to-investigate-security-alerts-raises-3-5m-in-seed-funding/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/profile_pic_alt.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Horizon3.ai raises $40M to build out its enterprise-wide proactive security platform"
     excerpt: "Autonomous security solutions startup Horizon3.ai Inc. today announced that it had raised $40 million in new funding to build out its enterprise-wide proactive security platform and expand channel and partner presence."
     publishedDateTime: 2023-08-09T00:45:00Z

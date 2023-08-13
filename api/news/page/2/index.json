@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-11-exploring-the-intriguing-robotics-technology-behind-self-driving-cars.md",
+      "title": "Exploring the Intriguing Robotics Technology Behind Self-Driving Cars",
+      "excerpt": "Welcome to the forefront of transportation innovation! Self-driving cars have swiftly become a captivating marvel of our era, revolutionizing our perception of commuting and road navigation. But have you ever pondered the technology powering their sleek exteriors?",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/exploring-the-intriguing-robotics-technology-behind-self-driving-cars/",
+      "originalUrl": "https://techbullion.com/exploring-the-intriguing-robotics-technology-behind-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-11T095151.549.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication.md",
+      "title": "AI's Next Frontier: Are Brain-Computer Interfaces The Future Of Communication?",
+      "excerpt": "Explore the thrilling convergence of AI and the human brain as cutting-edge technologies like Neuralink blur the lines between science fiction and reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d5ce165c31bc68b3d9eed6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/amp/",
+      "publishedDateTime": "2023-08-10T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-the-hidden-challenges-in-integrating-data-for-ai-systems.md",
       "title": "The Hidden Challenges In Integrating Data For AI Systems",
       "excerpt": "The act of combining data from multiple sources is often resulting in accidental “upclassing”, “PII additive” or “deanonymization” problems, causing significant issues.",
@@ -370,6 +466,49 @@
         "AI",
         "Microsoft AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-invest-in-it-infrastructure-to-support-ai-adoption-in-healthcare.md",
+      "title": "Invest in IT Infrastructure to Support AI Adoption in Healthcare",
+      "excerpt": "Healthcare organizations looking to adopt artificial intelligence solutions must develop a comprehensive strategy combining hardware and software that integrate seamlessly for maximum benefit.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2023/08/invest-it-infrastructure-support-ai-adoption-healthcare",
+      "originalUrl": "https://healthtechmagazine.net/article/2023/08/invest-it-infrastructure-support-ai-adoption-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202308/computer%20processing%20concept.jpg?itok=Dj5QFqZ9",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2023/08/invest-it-infrastructure-support-ai-adoption-healthcare?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/08/invest-it-infrastructure-support-ai-adoption-healthcare?amp",
+      "publishedDateTime": "2023-08-10T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -967,49 +1106,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-10-gates-foundation-awards-5m-to-healthcare-ai-startups.md",
-      "title": "Gates Foundation awards $5M to healthcare AI startups",
-      "excerpt": "The Bill & Melinda Gates Foundation is supporting 48 healthcare AI and large language model startups with up to $100,000 in funding. 75% of the recipients are f",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/innovation/gates-foundation-awards-5m-to-healthcare-ai-startups.html",
-      "originalUrl": "https://www.beckershospitalreview.com/innovation/gates-foundation-awards-5m-to-healthcare-ai-startups.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-10-middleware-raises-65m-in-seed-funding-to-transform-cloud-observability-with-ai.md",
       "title": "Middleware raises $6.5M in seed funding to transform cloud observability with AI",
       "excerpt": "Middleware, a startup that uses artificial intelligence (AI) to simplify and enhance cloud observability, announced today that it has raised $6.5 million in a seed round led by 8VC.",
@@ -1110,100 +1206,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-biden-floats-nearly-20m-in-prizes-for-ai-tools-that-secure-us-computer-code.md",
-      "title": "Biden floats nearly $20M in prizes for AI tools that secure US computer code",
-      "excerpt": "The White House announced a competition that will award monetary prizes to teams that develop AI-powered tools to protect critical U.S. computer code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-floats-prizes-ai-tools-secure-computer-code",
-      "originalUrl": "https://www.foxnews.com/politics/biden-floats-prizes-ai-tools-secure-computer-code",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9701d44a-1444-4956-902f-20d2fde42b67/44ffe35d-8225-4400-a110-20e3b019da52/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-floats-prizes-ai-tools-secure-computer-code.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-floats-prizes-ai-tools-secure-computer-code.amp",
-      "publishedDateTime": "2023-08-10T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-fintechs-turn-to-ai-and-cloud-as-steadfast-forces-for-innovation.md",
-      "title": "Fintechs turn to AI and cloud as steadfast forces for innovation",
-      "excerpt": "The rapidly evolving fintech landscape is witnessing a remarkable transformation, driven by advancements in leveraging both AI and cloud technologies.\nThe post Fintechs turn to AI and cloud as steadfast forces for innovation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/fintechs-turn-to-ai-and-cloud-as-steadfast-forces-for-innovation/",
-      "originalUrl": "https://www.ibm.com/blog/fintechs-turn-to-ai-and-cloud-as-steadfast-forces-for-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T06:18:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

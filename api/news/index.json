@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-13-sk-telecom-invests-100-mil-in-us-ai-startup-anthropic.md",
+      "title": "SK Telecom invests $100. mil in US AI startup Anthropic",
+      "excerpt": "SK Telecom will invest $100 million in U.S.-based generative AI startup company Anthropic in a bid to improve its competence in the emerging technology and further develop various language-based AI services for global markets,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/08/133_356939.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/08/133_356939.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202308/743e01def6a74c149ce98c673000a986.jpg",
+          "width": 980,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356939",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356939",
+      "publishedDateTime": "2023-08-13T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-13-modern-romance-falling-in-love-with-ai.md",
+      "title": "Modern romance: falling in love with AI",
+      "excerpt": "Alexandra is a very attentive girlfriend. “Watching CUBS tonight?” she messages her boyfriend, but when he says he’s too busy to talk, she says, “Have fun, my hero!”",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/08/13/tech/ai-dating-apps/index.html",
+      "originalUrl": "https://www.cnn.com/2023/08/13/tech/ai-dating-apps/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230809142543-man-using-mobile-phone-stock.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/08/13/tech/ai-dating-apps/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/13/tech/ai-dating-apps/index.html",
+      "publishedDateTime": "2023-08-13T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-13-theres-an-ai-powered-app-that-lets-users-text-with-jesus-for-299-a-month-you-can-unlock-satan.md",
       "title": "There's an AI-powered app that lets users 'text' with Jesus. For $2.99 a month, you can unlock Satan.",
       "excerpt": "AI Jesus is diplomatic when asked political questions, but Mary will say she does not support abortion.",
@@ -301,7 +394,7 @@
       "originalUrl": "https://www.forbes.com/sites/carabrennanallamano/2023/08/11/from-hype-to-policy-how-to-approach-generative-ai-in-practice/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -588,7 +681,7 @@
       "originalUrl": "https://abcnews.go.com/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -788,7 +881,7 @@
       "originalUrl": "https://www.ibm.com/blog/it-cost-management/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -1118,102 +1211,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-exploring-the-intriguing-robotics-technology-behind-self-driving-cars.md",
-      "title": "Exploring the Intriguing Robotics Technology Behind Self-Driving Cars",
-      "excerpt": "Welcome to the forefront of transportation innovation! Self-driving cars have swiftly become a captivating marvel of our era, revolutionizing our perception of commuting and road navigation. But have you ever pondered the technology powering their sleek exteriors?",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/exploring-the-intriguing-robotics-technology-behind-self-driving-cars/",
-      "originalUrl": "https://techbullion.com/exploring-the-intriguing-robotics-technology-behind-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-11T095151.549.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication.md",
-      "title": "AI's Next Frontier: Are Brain-Computer Interfaces The Future Of Communication?",
-      "excerpt": "Explore the thrilling convergence of AI and the human brain as cutting-edge technologies like Neuralink blur the lines between science fiction and reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d5ce165c31bc68b3d9eed6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/amp/",
-      "publishedDateTime": "2023-08-10T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
