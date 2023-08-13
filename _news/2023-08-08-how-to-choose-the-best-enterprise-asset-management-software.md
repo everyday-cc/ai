@@ -50,15 +50,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Self-organization of neurons explained using a mathematical theory"
-    excerpt: "An international collaboration between researchers at the RIKEN Center for Brain Science (CBS) in Japan, the University of Tokyo, and University College London has demonstrated that self-organization of neurons as they \"learn\" follows a mathematical theory called the free energy principle."
-    publishedDateTime: 2023-08-08T12:10:00Z
-    webUrl: "https://www.news-medical.net/news/20230808/Self-organization-of-neurons-explained-using-a-mathematical-theory.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 19
   - title: "As Organizations Ask If They “Should” Launch AI Projects, A Risk Management System Becomes Essential"
     excerpt: "As AI's ethical challenges surface, expert Mark Beccue discusses the importance of having a robust risk management system in an organization."
     publishedDateTime: 2023-08-08T18:34:00Z

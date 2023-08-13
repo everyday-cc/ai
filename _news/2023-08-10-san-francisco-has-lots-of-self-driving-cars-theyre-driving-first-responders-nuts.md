@@ -92,15 +92,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cruise, Waymo await decisions on self-driving service in San Francisco"
-    excerpt: "Barring another delay, Cruise and Waymo expect to hear Thursday from the California Public Utilities Commission whether they can expand the scope of their commercial services offered in San Francisco."
-    publishedDateTime: 2023-08-08T11:55:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-waymo-await-cpuc-decisions-san-francisco-service"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 34
   - title: "Massive expansion of driverless robotaxis approved for San Francisco despite public safety concerns"
     excerpt: "Gov. Gavin Newsom's California Public Utilities Commission on Thursday approved a measure to let robotaxi companies Cruise and Waymo massively expand deployment of their driverless vehicles on San Francisco streets."
     publishedDateTime: 2023-08-11T09:27:00Z
@@ -161,6 +152,20 @@ related:
       name: Axios
       domain: axios.com
     quality: 17
+  - title: "San Francisco’s North Beach streets clogged as line of Cruise robotaxis come to a standstill"
+    excerpt: "One day after California green-lighted a massive expansion of driverless robotaxis in San Francisco, the implications became clear."
+    publishedDateTime: 2023-08-13T04:04:00Z
+    webUrl: "https://www.havasunews.com/nation/san-francisco-s-north-beach-streets-clogged-as-line-of-cruise-robotaxis-come-to-a/article_76d6ff14-398e-11ee-9d84-67a94dcfb030.html"
+    type: article
+    provider:
+      name: Havasu News
+      domain: havasunews.com
+    quality: 13
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/b/58/b58bbad8-398e-11ee-9f97-9f987ba4074c/64d85710435f9.image.jpg?crop=1766%2C927%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "San Francisco's North Beach streets clogged as long line of Cruise robotaxis come to a standstill"
     excerpt: "Just one day after state officials approved massive robotaxi expansion in San Francisco, a long line of the driverless cars come to a standstill and clog traffic in North Beach neighborhood."
     publishedDateTime: 2023-08-12T23:20:00Z

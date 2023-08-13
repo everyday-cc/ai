@@ -54,20 +54,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "From Laggard To Leader: How The Insurance Industry Is Embracing AI To Deliver Real Business Benefits"
-    excerpt: "Progressive insurers are embracing the transformative power of AI to improve their operations, attract customers and enter new markets."
-    publishedDateTime: 2023-08-08T11:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/from-laggard-to-leader-how-the-insurance-industry-is-embracing-ai-to-deliver-real-business-benefits/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 52
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63923fd8974e7883484072b2/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial Intelligence: OpenAI’s Revolutionary Web Crawling Bot"
     excerpt: "OpenAI's advancements with GPTBot, its role in shaping the future AI models like GPT-5, and the company's dedication to navigating the challenges of technology and ethics in the AI industry."
     publishedDateTime: 2023-08-09T11:46:00Z

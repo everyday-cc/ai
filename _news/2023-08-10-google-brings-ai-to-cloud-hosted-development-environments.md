@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704630/google-brings-ai-to-cloud-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.amp.html"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "The Impact of Artificial Intelligence on Software Development"
-    excerpt: "Jamie Boote warns developers, architects and QA testers to remain vigilant over the use of AI in software development"
-    publishedDateTime: 2023-08-08T11:59:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/ai-software-development/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 17
 
 secured: "gnPko5ZJ25IhIIZ774qRgsXx+TDoSTDqz+BroWZ3Em5aGe8VMZsvLeVK2mr2V/Y3sVo3aYs8F107ZkvdxUBnlzvFqQkD/krO7ChdgnK4e8bQ87RM0lAQEhC3j9V1yS4DGZ9FTK4snKGlF1ox/dqX/0054bp3yObyDuMuC78jxmppOwjd6adnOySokMMEd3J9VHCBu+IzDDhSgqTKy/q0hJuNEYIowlNN4ZQqWOkj/Gi6eONt10A1YYsASLIHwqpSyN5NWV2OT/p2BvyTKOKB6SlhDWmCNyIIysw8UIM6aIfQvRDp9eMdlr0YYvJoPpBhveu854GEHfYip93ZFlFQOiZQHQAHt5KzqH3ARu2PYNXUFupWWKaNGatdmgyaAk0uaAjheH8d0iHL+9vUtUufLy/W6pxYhvNz70ZgnmMl5e3ZVF/tJ84Dui1SjDRt/nY2T3iwUpODvJmpDIxvQOJJEsSK9FBp6GxE6F5D59fEj0YAoxUKLilxP2PXwzmXsKNcHuak0+lmLWo3wuORWFuoYg==;JroAkK+WkSVWW695ddj6AQ=="
 ---

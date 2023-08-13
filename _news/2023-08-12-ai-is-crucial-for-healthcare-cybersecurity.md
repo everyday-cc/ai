@@ -109,15 +109,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "What the OWASP Top 10 for LLMs Means for the Future of AI Security"
-    excerpt: "This top 10 was started by Steve Wilson, chief product officer at Contrast Security, who worked alone on version 0.1 over one weekend in the Spring of 2023 because there were no comprehensive resources on LLM vulnerabilities. The Top 10 for LLMs project was approved by the OWASP foundation in May."
-    publishedDateTime: 2023-08-08T11:30:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news-features/owasp-top-10-llm-means-future-ai/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 36
   - title: "White House launches contest to improve critical infrastructure cybersecurity with AI"
     excerpt: "The White House today announced the AI Cyber Challenge, a contest designed to improve the cybersecurity of the United States’ critical infrastructure. The contest was detailed during Black Hat USA 2023, a major cybersecurity event taking place this week in Las Vegas."
     publishedDateTime: 2023-08-09T21:35:00Z

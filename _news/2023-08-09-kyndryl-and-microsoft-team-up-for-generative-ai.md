@@ -189,20 +189,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft introduces new managed VMs for AI applications"
-    excerpt: "Microsoft has introduced the ND H100 v5 Virtual Machine series, giving enterprises an enhanced infrastructure for training and running generative AI"
-    publishedDateTime: 2023-08-08T11:13:00Z
-    webUrl: "https://www.techzine.eu/news/devices/109791/microsoft-introduces-new-managed-vms-for-ai-applications/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 56
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/04/Chat-GPT-2-scaled.jpg"
-        width: 2560
-        height: 1334
-        isCached: true
   - title: "Microsoft AI Integration Sends Aptos Token APT Soaring 13%"
     excerpt: "The price of APT is soaring after Microsoft announced it was partnering with Aptos Labs, the developer behind the blockchain."
     publishedDateTime: 2023-08-09T15:49:00Z

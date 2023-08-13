@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/10/embraci
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/b6af86d/2147483647/strip/true/crop/940x490+0+44/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Ff0%2F6d%2Fa6d2d721b29727ce33dd54877096%2Fshutterstock-615057098.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "From Laggard To Leader: How The Insurance Industry Is Embracing AI To Deliver Real Business Benefits"
-    excerpt: "Progressive insurers are embracing the transformative power of AI to improve their operations, attract customers and enter new markets."
-    publishedDateTime: 2023-08-08T11:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/from-laggard-to-leader-how-the-insurance-industry-is-embracing-ai-to-deliver-real-business-benefits/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 52
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63923fd8974e7883484072b2/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Artificial Intelligence: OpenAI’s Revolutionary Web Crawling Bot"
     excerpt: "OpenAI's advancements with GPTBot, its role in shaping the future AI models like GPT-5, and the company's dedication to navigating the challenges of technology and ethics in the AI industry."

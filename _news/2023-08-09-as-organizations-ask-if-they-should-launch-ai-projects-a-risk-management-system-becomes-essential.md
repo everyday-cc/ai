@@ -56,15 +56,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Self-organization of neurons explained using a mathematical theory"
-    excerpt: "An international collaboration between researchers at the RIKEN Center for Brain Science (CBS) in Japan, the University of Tokyo, and University College London has demonstrated that self-organization of neurons as they \"learn\" follows a mathematical theory called the free energy principle."
-    publishedDateTime: 2023-08-08T12:10:00Z
-    webUrl: "https://www.news-medical.net/news/20230808/Self-organization-of-neurons-explained-using-a-mathematical-theory.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 19
 
 secured: "PNdo1Uu4vjYbhpP1jbGQcS0LeMy+fIz4f9F5RYLE9XnpEfNfv6iyWqW5EbsEUPOf8iBqZrF8fh9vTavSadMIIxGKudKsdgIxiQ0widp+eIEXOfyDBBKDKCY1NnYPmdDrjIQjp3o4byJzXzaiB6P8X7sdMi+wC3wJyim5ByFrWedQMxGh/X3P4Cl7ELeHsXhvmzzz3BCFUXnszbZXlU7dlTeB8/F+QVW044n+1JIu1InvFXne7wmeIFd6vS4yut2iGiR/0rguBkXrzsbWMKlcmoAbjNVIqXMUBM3qHM6beFUeDgwYwXpoy4yFW0OK2pIacaIZlT6kTV4QAPYG8p6KT9cF0CGSi+npAM8qva5IXM8wA6PnyCcvocptRWJQHIJqpDR7ZoHRqZLgbLb+qGLkyfwy5tJL5wSAbMxKvH1Xf1unXB8Wkcp063ahA52A78IBcqfraHNgGTZPwlJIu78nWFRrwHoRr9KF3jts7spCekAz4CjyO/XJPZVkmGRop5FzmCt0rIxO0/qO5+yBCVLaxA==;Q0Nk5T0Ayejb6CANtIwgTg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.electropages.com/2023/08/groundbreaking-development-co
 webUrl: "https://www.electropages.com/2023/08/groundbreaking-development-computer-vision-ai-accelerator-chip"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -35,15 +35,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 45
-  - title: "Blueshift Memory announces successful development of computer vision AI accelerator chip"
-    excerpt: "Blueshift Memory, a designer of proprietary high-speed memory architectures, has successfully completed a 13-month R&D project to demonstrate the performance of its Cambridge Architecture."
-    publishedDateTime: 2023-08-08T12:32:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/blueshift-memory-announces-successful-development-of-computer-vision-ai-accelerator-chip"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 42
   - title: "Andes Technology and TetraMem Collaborate to Build Groundbreaking AI Accelerator Chip with Analog In-Memory Computing"
     excerpt: "Andes Technology and TetraMem are proud to announce a strategic partnership aimed at delivering a fast, highly efficient, AI inference chip that will revolutionize the landscape of artificial intelligence and edge computing."
     publishedDateTime: 2023-08-11T05:37:00Z

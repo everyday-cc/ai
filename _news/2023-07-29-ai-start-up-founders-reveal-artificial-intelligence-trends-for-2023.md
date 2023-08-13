@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://informationage-production.s3.amazonaws.com/uploads/2023/07/ai-start-up-founders-reveal-artificial-intelligence-trends-scaled.jpg"

@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Bud Financial launches Bud.ai, a generative AI platform for hyper-personalized banking"
-    excerpt: "Bud Financial claims its LLM tech, Bud.ai, will enable orgs to convert unstructured financial data into insights for granular analysis."
-    publishedDateTime: 2023-08-08T13:01:00Z
-    webUrl: "https://venturebeat.com/ai/bud-financial-launches-bud-ai-generative-ai-platform-hyper-personalized-banking/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 41
   - title: "Artificial Intelligence for the Poor"
     excerpt: "Among elites in wealthy countries, a worry about artificial intelligence has taken hold: the machines will take our jobs. With the explosive popularity of ChatGPT, the remarkably lifelike chatbot, many in the West have begun to fear that it is not only truck drivers and assembly workers who are at risk of being replaced by robots but highly paid knowledge workers,"
     publishedDateTime: 2023-08-09T04:05:00Z

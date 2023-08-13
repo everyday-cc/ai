@@ -48,15 +48,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 45
-  - title: "Blueshift Memory announces successful development of computer vision AI accelerator chip"
-    excerpt: "Blueshift Memory, a designer of proprietary high-speed memory architectures, has successfully completed a 13-month R&D project to demonstrate the performance of its Cambridge Architecture."
-    publishedDateTime: 2023-08-08T12:32:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/blueshift-memory-announces-successful-development-of-computer-vision-ai-accelerator-chip"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 42
   - title: "Update: Andes Technology and TetraMem Collaborate to Build Groundbreaking AI Accelerator Chip with Analog In-Memory Computing"
     excerpt: "Andes Technology, a leading supplier of high-efficiency, low-power 32/64-bit RISC-V processor cores and Founding Premier member of RISC-V International, and TetraMem Inc, a pioneer in analog in-memory computing,"
     publishedDateTime: 2023-08-10T22:30:00Z

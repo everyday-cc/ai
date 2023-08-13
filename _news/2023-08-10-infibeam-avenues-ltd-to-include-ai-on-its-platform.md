@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/blockchain-infibeam-avenue
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/lite/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Financial Express
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Infibeam Avenues posts Rs 27 Cr profit in Q1FY24; to set up AI Hub in GIFT city"
-    excerpt: "Payments infrastructure company Infibeam Avenues also said it will list its digital marketing subsidiary—Odigma Consultancy Solutions—on Indian exchanges."
-    publishedDateTime: 2023-08-08T12:32:00Z
-    webUrl: "https://yourstory.com/2023/08/fintech-company-infibeam-avenues-earnings-results-profit-q1-gift-city"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 15
 
 secured: "3zFUzvyfmnXxxw0ltSAjNM2G/RCYN7Vl0Hxw0OueZbpMcU4RSCjbRR93c+nTM/kUnzmrRwe+5txkwWXWdXPhf3hS9anw/K5+kC3cXXEUhWqAkyGz5vKTJXUK00VsxK5XQSUnr7/bP53hmy/dbz5NwbTokbhnFjoC/yRrJRXkUCEKyHs9gS0fShZIC56HSb1pXOSR/bnLhxTJ+YbJLwSQ+26UkJ598cmYqKB5F2WVPcYwZHf/5w99KBqADLzgmc7o0IbtQDVPFXZr31O6NhPqLRNM0dnhqyJsWmgz8rmkVdHzj9/c3Lm5dWdowHOXtnY97+27q8+PHtXPpzMKl9EUl0aKbmeB2/Uc4SKEoPpnrzw=;SyYc0FWZ7SMKq5wTwULV6A=="
 ---

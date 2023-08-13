@@ -34,15 +34,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "Self-driving car company Cruise to test in Atlanta"
-    excerpt: "Cruise is bringing its autonomous vehicles to Atlanta. But, the cars will have drivers for now. The San Francisco-based company, which operates a robotaxi service in other cities, said Monday it will begin testing its self-driving cars in Atlanta."
-    publishedDateTime: 2023-08-08T11:49:00Z
-    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2023/08/08/autonomous-car-cruise-general-motors-test.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
   - title: "Most Tech-Forward U.S. City Has Doubts About Self-Driving Cars"
     excerpt: "San Francisco officials and residents are not impressed by self-driving cars, underscoring the challenges ahead for autonomous vehicle companies."
     publishedDateTime: 2023-08-09T16:30:00Z

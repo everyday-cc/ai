@@ -48,6 +48,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 30
+  - title: "Nationals leader rejects call for legislated Voice model despite Liberal backing"
+    excerpt: "Nationals leader David Littleproud says he does not support a legislated version of an Indigenous Voice, despite the Liberals backing the model."
+    publishedDateTime: 2023-08-13T02:45:00Z
+    webUrl: "https://www.sbs.com.au/news/article/nationals-leader-rejects-call-for-legislated-voice-model-despite-liberal-backing/ph8ayocen"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 19
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/66421c7/2147483647/strip/true/crop/5303x2983+0+142/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F21%2F6b%2F134b98654bd7aa44b1d8abed1347%2Fdavid-littleproud.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dutton position on voice poses a difficult challenge"
     excerpt: "Supporters of an Indigenous voice to parliament face the prospect of history repeating in the wake of Peter Dutton’s pledge to continue fighting for constitutional recognition and a legislated regional voice."
     publishedDateTime: 2023-08-11T13:12:00Z

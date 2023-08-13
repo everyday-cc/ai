@@ -27,17 +27,6 @@ images:
     height: 844
     isCached: true
 
-related:
-  - title: "ABBYY Promotes Chip VonBurg to Chief Customer Officer to Accelerate Global Customers' Intelligent Automation Success"
-    excerpt: "Chip VonBurg is appointed to Chief Customer Officer at ABBYY. His focus will be ensuring the success of customers worldwide in leveraging intelligent document processing and process intelligence solutions to put their information to work and yield actionable outcomes. (Photo: Business Wire)"
-    publishedDateTime: 2023-08-08T11:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9860728.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "VMSoYpTrp2vxgdZ2olidP6yYCv8Ua2iEn/TohKTSP3XocRv6sSKlnKrlMEy/FE94cSQMRVjRiyBNHwvkNctvlcFt0wmAxigRKM8flmT/F5g5geysV9+H3y8wyyrnyoKaLCXBiHrQ9y+SNhaKmIzDBX2d1E3wNAPys0MBLvdlj5v4SVCN1HdgdGQ9yc2cuvj1+gruNmgVkKNWTl4S+CdtGo36oaPTCD51P8fKFdx/eqa2I6cPDunIGh17h3RFoIzXb8hHCrSByvw2qapUCQ28C/gLHel4JZJ67XKu2Fta2tbOghO5vObVgVuRRi+5EwS4aur8GODgvpvltinnyWz5qEfKhNfEf1UbCv0NkCFJrzcr87g0pInT32tFcnzVKtcz9SM/+osJ6fZXo+w50TN6mBZ6h3mix0V1td9KDCEKuglroIXYLMWY3FODBqMpammoTqJRj7n3F01Kagbq9mkv7+1mWnKricPjC+rrK68Q9X8c93BCZJIRAJz2x8S5mLsRaoRdFflpHCeCz1KyNhF4yw==;ykIsZvaBayWckVw8rO2Xfg=="
 ---
 

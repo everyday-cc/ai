@@ -61,15 +61,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Disney sets up task force to explore AI applications"
-    excerpt: "Disney has established a task force to explore artificial intelligence (AI) and its potential applications throughout the company"
-    publishedDateTime: 2023-08-08T11:50:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/disney-creates-task-force-to-explore-ai-possibilities/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 19
 
 secured: "0mniljn1MUv0Osr2sE7kCE/A7LvxkJKl8rDcUG94QazGv+ISEpC5zAoKBBm2MHu0Pjvfx3d31DhH94wfPqX/WZ9gZFwhG/wAeSq3uJsWwk+kxo15kX5Uy++vuMYLywefQ6ThRCG6pdcAqA2vvAs2EqGZPbAKF5X5swOpaL9ePH1MiH88pyLggJ4QyEK5SgbDEHLoN7TA+bQXcXr2M+Va7Wgp3hsHdQmYUyPhR+HbeNqntLm2N9/+X7gBsq5NjFehdrt0PpUNJkfl85+rsB9cEamwa/OPbn5996HQynQ4OQxaY/1ut09BLbb8HlTwnma9Jt0tLK3oGpFf7SleHtbyl0M9ep1QRcpvl72++ZaZov392WJMzQDpKdpAWKP7IR/op3TfcisuHuqHDkJCsqnu2hkhggwsC+VVMDX3DaGNbJiTGEj5CeJYeXg+MaVprddq2r6DZxHCRTkOYq3IG8NyWHklQDLWYOeQwpg10OdF/UpvFFFULiO4OGji8cNB7QOnBsI/N+9n0q8b4MeSRw+2eA==;BTKpfEX6fpE96dW7pfH8eg=="
 ---

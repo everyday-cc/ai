@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of
 webUrl: "https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:

@@ -42,6 +42,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 30
+  - title: "Nationals leader rejects call for legislated Voice model despite Liberal backing"
+    excerpt: "Nationals leader David Littleproud says he does not support a legislated version of an Indigenous Voice, despite the Liberals backing the model."
+    publishedDateTime: 2023-08-13T02:45:00Z
+    webUrl: "https://www.sbs.com.au/news/article/nationals-leader-rejects-call-for-legislated-voice-model-despite-liberal-backing/ph8ayocen"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 19
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/66421c7/2147483647/strip/true/crop/5303x2983+0+142/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F21%2F6b%2F134b98654bd7aa44b1d8abed1347%2Fdavid-littleproud.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Indigenous voice to parliament: Peter Dutton says his government would ‘fight’ for constitutional recognition"
     excerpt: "Peter Dutton has committed the Coalition to “fighting for” constitutional recognition of Indigenous Australians, as he dismissed Anthony Albanese’s threat of Australia losing a once-in-a-generation chance for recognition as “arrogant and dismissive”."
     publishedDateTime: 2023-08-10T16:33:00Z
@@ -72,6 +86,6 @@ related:
       domain: news.com.au
     quality: 0
 
-secured: "eAGMw+ur+V09cvV/NELMvlEwgReIHdNbqgvpRnxWfmlvGw3AghG0UpHXwYadxdVgv3nRT6PC3cArcnkxpeu0wTB4gsALOAYJ2hFkhHpBmIEhihICrhulqw94S11Jk99CHMvkt/gwY9wQq9Kd2qx/0yiCJnbH75mJE6p2XLYDTmskvfaxljBxR6rq0f0fkmWXka4zjluuy74K57ieiicrH7gWjwQ0EZ8mQ9jBDoqfriHHNBI8c70pNgCwc0Hx0w6tl2GmOFE9KwHn6wwFXn3paVBHNvcgj0nqmsq5+dSej0ZBOyUdjCtlP2i4Hb097W5pwerKz4HM3yVWGakmU/DLMTfSmXTAPF4hNgfe0ycpYm8=;uBtAmniTJusN/Mz+6oTdBg=="
+secured: "tVLSRnzvqB4JqeI/95R5OCLQIcwc6np6/6LkzCwnmB8NlrEyKDB/+1tW11IaH9dCSC2zu4KCm0m7hupF4ojT4ykaiAd2JGJnnXhFZdPaRe193/nSRKcVKpxIOa+TziNz5qZo3Rfmfl3+lQcSgI4jpwgGAYc8PqywxA3KeCin5EgpvZgC0dEIZ/vVCBo12o6jssfQ2KstmRsrxhCV3k4nxvA30byVgHdLWXhYz3HzMFhe9BgUExmmKvgZcUEo+tn1bd3MdIMwSsIsCpuWKsSc0zcAMrSPjFxrWX+ZtbEDeECHpTM4ONEwZFD+y7o35Q6C8riBU8B5wsrQ/xYTJrKqp2Xumq4zBy1DEMMd71YgFUuaMXfLA1iUtFGRUyUC+fgopYhOl/nscGU8zY5pWgAO9OXVF7LWyuNkWnw0lz3MbuOqgnuDHU/kfoQ/aTs8b1HB5kKnW+UN5fmYCaOhvnuIWRXHMgMFpRV7iJOvrSgvA1UDcQeFR6/KQvgDbXGZ1OmBRr++MWHqhUoV2ez4qyK2IA==;lXqQDiJ3AOanq94r9MXvqQ=="
 ---
 

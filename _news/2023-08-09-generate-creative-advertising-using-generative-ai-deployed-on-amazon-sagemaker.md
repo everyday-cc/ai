@@ -338,15 +338,6 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "KPMG’s Generative AI Play"
-    excerpt: "KPMG India, sheds light on the consulting sector's initial hesitation towards generative AI, the evolving mindset, and the innovative implementations that are shaping the future of these sectors."
-    publishedDateTime: 2023-08-08T11:41:00Z
-    webUrl: "https://analyticsindiamag.com/kpmgs-generative-ai-play/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
   - title: "Exploring Generative AI: Applications, Risks, and Future Implications"
     excerpt: "Embark on a captivating journey into the realm of Generative AI as we unravel its mysteries in our latest blog. Join us as we explore how Generative AI is transforming art, design, content creation, and healthcare."
     publishedDateTime: 2023-08-11T12:41:00Z
@@ -356,6 +347,15 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 19
+  - title: "Multinationals turn to generative AI to manage supply chains"
+    excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
+    publishedDateTime: 2023-08-13T03:59:00Z
+    webUrl: "https://www.ft.com/content/b7fafed2-9d00-49b0-a281-c1002b139865"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
   - title: "Google and Universal Music working on licensing voices for AI-generated songs"
     excerpt: "Early stage talks are expected to include a potential tool that fans could use to make AI-generated songs"
     publishedDateTime: 2023-08-09T11:31:00Z

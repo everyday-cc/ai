@@ -49,22 +49,6 @@ related:
         width: 917
         height: 696
         isCached: true
-  - title: "Opinion: This is what tech companies, from Amazon to Apple, just told investors about AI"
-    excerpt: "That set up sky-high expectations for companies that are embedding AI-related technology across their product suites as well as chip companies that are selling to them. The second quarter, therefore, became a litmus test. Here’s a breakdown of AI’s ..."
-    publishedDateTime: 2023-08-08T11:49:00Z
-    webUrl: "https://www.marketwatch.com/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-is-what-tech-companies-from-amazon-to-apple-just-told-investors-about-ai-cb554c7"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://images.mktw.net/im-724370/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Chinese companies splash $5B on Nvidia AI chips"
     excerpt: "In late 2022, the US blocked Chinese companies from acquiring advanced semiconductors and chipmaking equipment: this week, the nation announced a ban on domestic businesses investing in China’s AI and quantum computing sectors, starting from 2024. Bulk orders have also been made due to fears about GPU shortages fuelled by rising demand, FT added."
     publishedDateTime: 2023-08-10T11:02:00Z

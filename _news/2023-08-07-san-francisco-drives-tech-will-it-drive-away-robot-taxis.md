@@ -1,27 +1,21 @@
 ---
 category: news
 title: "San Francisco drives tech; will it drive away robot taxis?"
-excerpt: "SAN FRANCISCO :San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... Alphabet Inc’s Waymo and General Motors ..."
-publishedDateTime: 2023-08-07T14:19:00Z
-originalUrl: "https://www.channelnewsasia.com/business/san-francisco-drives-tech-will-it-drive-away-robot-taxis-3682931"
-webUrl: "https://www.channelnewsasia.com/business/san-francisco-drives-tech-will-it-drive-away-robot-taxis-3682931"
+excerpt: "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... s GOOGL.O Waymo and ..."
+publishedDateTime: 2023-08-07T00:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/san-francisco-drives-tech-will-it-drive-away-robot-taxis-0"
+webUrl: "https://www.nasdaq.com/articles/san-francisco-drives-tech-will-it-drive-away-robot-taxis-0"
 type: article
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--aIHGUeUT--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-08-08t010252z_2_lynxmpej760ak_rtroptp_3_usa-autos-autonomous-san-francisco.jpg?itok=GFT62owH"
-    width: 1200
-    height: 676
-    isCached: true
-
-secured: "6XtqyO1zrplZ/opb2fCzlSBOMfrolyqWCBbo39AozFbnrgy1GIQBdD8kC9qBkNHYogdrnWFBbfR+7sM9lNi9xdh9FVRSQ5w0jF/r9wCkAjnswQ3+24lP1PGKBonLH0SNg4zb9RMROI1+BoaiQojrr0dpcmh2DNSA5+uVHYM70pZjgELgWVLj0jWaG8h0eeLvsfY3x/3mPELNLIQAQ/7/ZatEqyky7h0u7kSbbe0rEx1qkVB7xIt6iLV2SUAaevci9y6CzbOASbKULVlErqVGaVK+vgngmQv+tYQUzgSGlthq+kYjOJ4BXKvkT20XbCgRg4GRFhlakbwJKOMmro+6pqjLAxu4urG+bl/zLW6opwg=;bY8J9VyhfuoZu6/QZhXRew=="
+secured: "4aLLOEM8GVKnOTRcSnr0VqzJg3PERSTco807Q0r+Vp/QmXVKXqlSI1IiOdR4vHb3Sdl90bMgWuVExS/JtHWwL9r7OMci8SRs4d70KWAZEjFlBERxB9xh9SVUWaHtCH4gf7MKfiBFYPif5nU6cTUkt3l64TrF5oSoIyI4cTbEREV+k6EkppCXVx41bo0WaJoLmAGNFjupiAW5wfrWzrUht9KSeIMQTldV04+x2fcavw6O/xn36MaK/ZWPr3ryJEo6gH3q3FatI0EAg/cMNmZOAQUS8tiImKzJyvU6073iPKTauI+HDg5PbW0OsaVGoaHNLSBRyjKXt5IeF94947izamkKYqH4/oPhlrVM0IPYbyk=;HgqD1usAGJE7q1MzZihM9A=="
 ---
 

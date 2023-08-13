@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/japanese-stablelm-10-08-2023/"
 webUrl: "https://www.geeky-gadgets.com/japanese-stablelm-10-08-2023/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Stability AI launches StableCode, an LLM for code generation"
-    excerpt: "StableCode, Stability AI's code-generating LLM, will be available in a base model, an instruction model, and a long-context-window model."
-    publishedDateTime: 2023-08-08T13:01:00Z
-    webUrl: "https://venturebeat.com/programming-development/stability-ai-launches-stablecode-an-llm-for-code-generation/"
+  - title: "Japanese firm pilots AI-powered crisis management tool in PH"
+    excerpt: "A Japanese startup is piloting an artificial intelligence-powered (AI) disaster management tool in the Philippines to help provide real-time information in times of emergency.The initiative is part of a public-private partnership promotion program between Spectee,"
+    publishedDateTime: 2023-08-12T08:14:00Z
+    webUrl: "https://www.pna.gov.ph/articles/1207697"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
+      name: pna
+      domain: pna.gov.ph
+    quality: 17
 
 secured: "B1zjdOOt1SvdueFAbx6lhJCsvh+RDdmOCu4trXiXQb7+j+I48XD8otKnCm1aZyJ3iltmptY0IDUgxUaW/nhsbjPtPXMBT9jFPevP/r4SyEehLBtKgwxk3mUYa/uM2GW5CHDMYBHK55yb9shUYyzZqWg8wUQ5iwm85qrws3eJ0leIYLNZeK0ioP2FPVc8eVWODaZzVq/s4PIMsboIGK/MOlhtZPV4FS/rq7cQeytIdQanzUcztCnrkxYYgL4ildOsX88rJQ/FyuA4+no+ySF5bQa0vXGdRqk9hNx+NiXLrHDmOCwxucdqOK58oi0E8RUhY4XJ2f8XQmT1zwoiCdaKVfn5YRNOtx9gGR9FBJYkgdMFO0idyUcaNTY6oALK/TP0da+rnjpDU+1AmEMpEDdM9sQ1gVcGfKxG3DaNBcsdMLG//XKi8Jv9DznXBnGqYoIy2sn2bDdEa3NXAQkmkk/BnYe8x5u+N2s721gvmu10c9CBzX+YbJoqh6eJVipXG4j+GarT7mcI4KvTD37x9nAzAQ==;hYDq9a9w5YJICyo8CQu6CA=="
 ---

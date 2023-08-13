@@ -87,15 +87,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Pioneering Trucking-Industry Learning With Artificial Intelligence"
-    excerpt: "Luma Brighter Learning Launches First-of-Its-Kind Technology ApplicationMOUNT PLEASANT, S.C., Aug. 8, 2023 /PRNewswire/ -- Luma Brighter"
-    publishedDateTime: 2023-08-08T11:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pioneering-trucking-industry-learning-with-artificial-intelligence-1032528295"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "How Artificial Intelligence Is Helping Today’s Small Businesses"
     excerpt: "More small businesses are using artificial intelligence effectively, especially as pertains to marketing functions."
     publishedDateTime: 2023-08-09T13:00:00Z

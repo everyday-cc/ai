@@ -37,6 +37,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Nationals leader rejects call for legislated Voice model despite Liberal backing"
+    excerpt: "Nationals leader David Littleproud says he does not support a legislated version of an Indigenous Voice, despite the Liberals backing the model."
+    publishedDateTime: 2023-08-13T02:45:00Z
+    webUrl: "https://www.sbs.com.au/news/article/nationals-leader-rejects-call-for-legislated-voice-model-despite-liberal-backing/ph8ayocen"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 19
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/66421c7/2147483647/strip/true/crop/5303x2983+0+142/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F21%2F6b%2F134b98654bd7aa44b1d8abed1347%2Fdavid-littleproud.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Indigenous voice to parliament: Peter Dutton says his government would ‘fight’ for constitutional recognition"
     excerpt: "Peter Dutton has committed the Coalition to “fighting for” constitutional recognition of Indigenous Australians, as he dismissed Anthony Albanese’s threat of Australia losing a once-in-a-generation chance for recognition as “arrogant and dismissive”."
     publishedDateTime: 2023-08-10T16:33:00Z

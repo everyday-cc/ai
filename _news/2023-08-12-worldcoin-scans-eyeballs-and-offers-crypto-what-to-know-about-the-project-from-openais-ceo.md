@@ -41,6 +41,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Worldcoin scans eyeballs and offers crypto. But why ChatGPT's Sam Altman is giving 'free money'"
+    excerpt: "Privacy regulators are investigating Worldcoin, an ID startup backed by Silicon Valley, over concerns about the security of the biometric data it collects."
+    publishedDateTime: 2023-08-13T05:35:00Z
+    webUrl: "https://www.hindustantimes.com/technology/worldcoin-scans-eyeballs-and-offers-crypto-but-why-chatgpts-sam-altman-is-giving-free-money-101691901510373.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/worldcoin-scans-eyeballs-and-offers-crypto-but-why-chatgpts-sam-altman-is-giving-free-money-101691901510373-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/worldcoin-scans-eyeballs-and-offers-crypto-but-why-chatgpts-sam-altman-is-giving-free-money-101691901510373-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 32
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/08/13/1600x900/TECH-AI-WORLDCOIN-GERMANY-10_1691903268667_1691903796896.JPG"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "W6wvsFZiuq/oSf+13HAjLNXQo4BCMKg0TxtoXaypOPdCRfKaxm24Yo8WnET5je7T1d7RjuGWyyj3YHSqtXfipAWtXoKA9iERM1v3OcIHt2A5SXCNUET1QnHUqgFgpHQC1MVhPVIvtIGOAh0W7sTDqfX+BRjHUoQyr3kIl7R5eC34v0Hpd+YQIpu4c/wLOSdKhQo2D/71/7A3BsuWLs/DI0LvDAC1XZ4BnmSAFCBlH0FkqPRa1jvkpJHMONx4nws5Gv+V7it2E+GFeSgLCizBdp1+nokY+EovyWaNz0XnORtEq3b9DngoVgK0JSg3EvyawureuKC9h5yqOk82wdb/v4ZgQW+/SSpQlNwHxY1AfLw=;/a15YxwhzoXwbJXiwP24DQ=="
 ---

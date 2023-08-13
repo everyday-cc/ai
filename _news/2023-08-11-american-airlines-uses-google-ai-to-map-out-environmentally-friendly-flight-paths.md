@@ -58,15 +58,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "The Impact of Artificial Intelligence on Software Development"
-    excerpt: "Jamie Boote warns developers, architects and QA testers to remain vigilant over the use of AI in software development"
-    publishedDateTime: 2023-08-08T11:59:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/ai-software-development/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 17
 
 secured: "jm9yu9wl7wKN/Uzq17+2KgbLJyvFdlnyhbV4AANxYccQhAiccCcCJf7JxNu0Nch8u9wKlLhjkJi37dM5Df/g/lP6lRYl75eBx3ci+5X+ioU3uMaw+ueY4+GMcBAhqkQGRVfq1Lyacf9Qu+PvNwCwVtnu9tQIP16BWOq4PDdxmH3agIBGGDzQug2/T39kyBh/PllIkUUFkjFjEWSs28KXySTj7KXxbezkyajIfVUwabeILsTKDAwykPjZFXl8pcV75b80Lhos62NShL/7l0z+SmBYlUwvKc5kclT77JWbPc7+s6bJ07JV+fPfhpYaJgbLk1yqShKRcz/FrGQyvn2vOzvfY+zjgPs/1B31OhsY6gI=;QJjdvwlKIA06v5gQMRLdBw=="
 ---

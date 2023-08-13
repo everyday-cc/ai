@@ -101,15 +101,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "What the OWASP Top 10 for LLMs Means for the Future of AI Security"
-    excerpt: "This top 10 was started by Steve Wilson, chief product officer at Contrast Security, who worked alone on version 0.1 over one weekend in the Spring of 2023 because there were no comprehensive resources on LLM vulnerabilities. The Top 10 for LLMs project was approved by the OWASP foundation in May."
-    publishedDateTime: 2023-08-08T11:30:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news-features/owasp-top-10-llm-means-future-ai/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 36
   - title: "AI Is Crucial for Healthcare Cybersecurity"
     excerpt: "Healthcare organizations are among the most frequent targets of cybercriminals’ attacks. Even as more IT departments invest in cybersecurity safeguards, malicious parties infiltrate infrastructures — often with disastrous results."
     publishedDateTime: 2023-08-11T18:03:00Z

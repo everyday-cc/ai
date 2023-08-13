@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Tech Companies’ New Favorite Solution for the AI Content Crisis Isn’t Enough"
-    excerpt: "From college plagiarism to cybercrime scams, generative AI is eroding trust in online content. Digital watermarking is no quick fix for the problem"
-    publishedDateTime: 2023-08-08T12:01:00Z
-    webUrl: "https://www.scientificamerican.com/article/tech-companies-new-favorite-solution-for-the-ai-content-crisis-isnt-enough/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 14
-
 secured: "ifAkY5qLgGoNTzvSZi/tz9fa0rgH6fur4XUT/OzN8XLc/nQWf0A1lPadsWuQH+MvwvlXgcXdiL0/qTGuf0TMTVM+BqmpIAifkxX1hrUzE2D+ErqHiYyp2coMNuVh7eppEZFkpDTGA+mIypJNNq0T2BSaHQcIcJlfvlqlrP95QzW0TldmHOvnt1jDzawm+voHi65hKiPKWTmY4ArpHUK24nU8ijEkLnvb6h62yEKVmBaOkNM2j5X07yK+BhJCG8ysMbdPMgwVM4Xt2KTcmb6i0Kod4NFMFllN6p+ORU55YkKuH+7xaJi7Rrdp/BeGl9VXqV/4SDF7rZtNm6sczaq5b+1lEI0g/a09ghG8R5Kd9E73LzdQDlVi89vXT8cduOGvIR7FIwenv6CrllK6WBb5ihckcg8PedA1fqLzmyisTaKlZtLjo1kMCst7qvU2UL585IJmeDXHy8vTg01k+Bs9EwhI9PJBTkAqo5c7omPoMrhxPTOi3MbNDMympdW8MUlOR07uVeusKQurVjUOFEwI8Q==;78QPMZNCjcod1ZbgnauAYw=="
 ---
 

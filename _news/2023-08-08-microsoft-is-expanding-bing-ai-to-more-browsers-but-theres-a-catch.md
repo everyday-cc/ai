@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-expanding-bing
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/"
 type: article
 quality: 104
-heat: 364
+heat: 354
 published: true
 
 provider:
@@ -178,20 +178,6 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Microsoft-Adds-Dynamic-JSON-To-Azure-Core-Library-For-.NET_.png"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Microsoft introduces new managed VMs for AI applications"
-    excerpt: "Microsoft has introduced the ND H100 v5 Virtual Machine series, giving enterprises an enhanced infrastructure for training and running generative AI"
-    publishedDateTime: 2023-08-08T11:13:00Z
-    webUrl: "https://www.techzine.eu/news/devices/109791/microsoft-introduces-new-managed-vms-for-ai-applications/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 56
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/04/Chat-GPT-2-scaled.jpg"
-        width: 2560
-        height: 1334
         isCached: true
   - title: "Kyndryl and Microsoft team up for generative AI"
     excerpt: "Kyndryl and Microsoft have ramped up their ongoing partnership to focus on boosting generative artificial intelligence among customers."
