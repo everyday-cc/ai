@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence"
-publishedDateTime: 2023-08-09T16:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735"
-webUrl: "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735"
+excerpt: "MENLO PARK, Calif., Aug. 9, 2023 /PRNewswire/ -- Global consulting firm Protiviti has achieved the Artificial Intelligence (AI) and Machine Learning (ML) in Microsoft Azure specialization."
+publishedDateTime: 2023-08-09T14:39:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33669654/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n33669654/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/33669654"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33669654"
 type: article
-quality: 63
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Find Out How Microsoft’s AI-Powered Shopping Tools Can Save You Money—And Time"
@@ -232,6 +236,6 @@ related:
       domain: datanami.com
     quality: 11
 
-secured: "YfV15uR5UwrdQYYYiqJu76pElQPNczJ7Hj3SpRHNvqL180ToyPOdNBQ8QZHNfKVRqIsFNdQKjJESjFTs+wVzA4gBGfFc9Z2IuFbUc9yBL1DgM3ShSrTaQGapMNvsIwUGirCV9+XGOwFI/A3J1Y5bVS5nXtefIAqlO/Nf6L5bdJSZ2s/yTQbfx3hg/vdeSKJmFQvL9uNM8SRQ5b2QU8EC+55hxFAlOVbh3crJiYkiCK4dFS9TYkKUPkgSK2ugQD1JWzghWNDlA5fH1xWee10lnndSSf9WwAArLJH6vL7kuaPVzCOejQDuXwZi47qkH4aDzqH8bzNlp5RwFIwKeL0CIqlYtB7UoVeRKedtRF5z6c2OgzG8Bw78H28Wkk0q7FBNcTSXrFry4tzOX3S9BXm6HUpj0pjo7aIKbkN2IUGytFQNcE76LARanuBuVdFxe2j8zqE/KTynI4OjV/HNEhw7VlaQBSoEhBiidylkWmKN+niHDd4fEuOE392HEaJvCUaPF/RNgqZnu7nqd5Pw2dRf8g==;CNZV3C1q4jJP/SFw7+ySIA=="
+secured: "EBRuwE7xKdb6gVszhjAvVblNG8stQOD3RDwiM1SeD7FwyzuezgpSjqgbZAiYVc4F6KHwfwVtJ7OwAYme592Ozn/pmtfe5/9FB5yIe8fwN3LKoqaN1N64LQgSrY7sR5kNcmDZ7MWSBhMuGyd8++Bu1xmnCT9ICMrhyLE48bnx1jq+IuMznzJPEWHa76w6p1X9nNqJyxGcPOjPvjN31C5y7oLGlwNFK6CHsml4WBYx2GIm68LAB5QE6cnpbW6yjD5jrCXZwwnkvhosSDeGQ6ZRI1zyTeMyugGQSxJunWxl+9PYGawywafbchUOdKUhItcKlpzdQ6/d85ZD+ahxYTxvJpn/ft3xE0OmpoUdXWu3Ck8=;4YWUMVcDrQX3jAnHmvry/A=="
 ---
 

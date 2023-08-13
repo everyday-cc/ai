@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Are Examples of FinTech?"
-    excerpt: "What Are Examples of FinTech? To demystify the world of FinTech, we asked ten industry leaders and financial experts to share their insights. From Monzo as an all-digital bank to crowdfunding as a modern financial tool,"
-    publishedDateTime: 2023-08-08T23:15:00Z
-    webUrl: "https://techbullion.com/what-are-examples-of-fintech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/What-Are-Examples-of-FinTech-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "FinTech LIVE London 2023 – the fastest growing fintech show"
     excerpt: "Join FinTech LIVE London 2023 on Nov 8-9 for key industry insights, top speakers, and networking. Register now to secure your spot!"
     publishedDateTime: 2023-08-10T09:49:00Z

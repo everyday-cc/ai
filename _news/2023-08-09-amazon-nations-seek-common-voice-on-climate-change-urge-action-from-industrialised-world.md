@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon nations seek common voice on climate change, urge developed world to help protect rainforest"
-    excerpt: "It’s been 14 years since the eight countries of the Amazon region convened in a summit of the Amazon Cooperation Treaty Organization."
-    publishedDateTime: 2023-08-09T00:57:00Z
-    webUrl: "https://apnews.com/article/belem-amazon-rainforest-summit-brazil-environment-crime-4e68ebf7f6c719d779ed726cc4f0c5dc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 5
 
 secured: "fMaYF3xN5h1q2AhZVyH+AuSEZib7FEBziZ9RfddhDdDoKbyPp5Mlcm5ST1CLafEbo3Rsv4ojq/Q9HmtTSYDEDvx21ny7I1vta5XrpwUBCeEOnYUuuUWUKi9ASH2s9pv0bzishVlgI4HcdErcojN0GJxBYsJuVGXFEEkQL3iTkLfprBF8rLkW/eqS3RLYqvtCnLGjb0rlh44hskX3kftyvETS611vmVvefulLp7TT1wnvZyZLhPSupt7rb1xoK7tLbuxQ2qS5dGcPuzFfjSI/GhaebG9gAHFjVOzNnnW1nxJ009FgsMuPPG4dA13NCGy4V+iOYzIkfZQjyr9NFH5MyFpm0023dF8RFThpag20hXA=;X9mkgE6nFmHqqJidMqzfCw=="
 ---

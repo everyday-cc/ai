@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "State report identifies risks in schools' use of facial recognition technology"
-    excerpt: "The New York State Office of Information Technology Services (ITS) has determined that, when it comes to the use of facial recognition technology for security in schools, the “risks may"
-    publishedDateTime: 2023-08-09T00:45:00Z
-    webUrl: "https://www.lockportjournal.com/news/state-report-identifies-risks-in-schools-use-of-facial-recognition-technology/article_4b7405e2-3637-11ee-b21f-83bab4da8249.html"
-    type: article
-    provider:
-      name: Lockport Union-Sun & Journal
-      domain: lockportjournal.com
-    quality: 35
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/custom/image/1607916a-a04b-11e5-8da0-23a879e9bf1f.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "1QQjvPvWI8wEE/f+pVWMI4EXn5mjqNqD2bi/ZG7qGDZ66X+xyOdkMsNGlWEZNV0oU/crPoHzyjc40VPqC01FUgzg0KH06zG373tuPtmnkJnYCCBjmVVgxR4mJR2vlGpaRwRESBgomI4ey/faUda9PRYzq8oNTZgIW26p3nJiyc2JNG5NKeTIF/43CXz9iJtZXyGl0COd63tmkgs8LdnOKt2bN4LE5tyfzGMkUMv4bjVRhYQT6jDBTTRTioF4nk+iM0N7GDlXMKpDdqOrr4lVVwuxpDBCXPcfeaVRiyOj+41b0ZAxaDbP/dwttJklUoaKGXtacdGC30I8YXhVnkr9t9LTKP7d8q/ZgQaukHcI9Dxara6fOrsFuWz7n1H7sA8hX+Tku1r3CExxWdlHCbPqruKpuE9qwchhq30WuJcYcV638eb84dXSGNOJxlISVJmVijK+zymtc1jFXvwjL4oAQhQDSQnhgGduSKOLZztlE50WQuE8lr8igLsFAga+hJnYz05JSqya/7CCMk+AvX9Thg==;hSCjE9pzOq68QgxQ3JoUDg=="
 ---

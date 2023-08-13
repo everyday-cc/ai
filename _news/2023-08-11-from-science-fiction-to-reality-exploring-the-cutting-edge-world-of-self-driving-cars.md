@@ -120,6 +120,20 @@ related:
         width: 1280
         height: 750
         isCached: true
+  - title: "Calif. opens floodgates for self-driving cars"
+    excerpt: "Cars without drivers have become a common sight on San Francisco's winding, hilly and often foggy streets. Thursday's vote stripped most limitations on operating and charging for rides, essentially creating more ride-hailing services like Uber or Lyft — just without the drivers."
+    publishedDateTime: 2023-08-13T07:45:00Z
+    webUrl: "https://www.stltoday.com/eedition/page-a11/page_3cfc30ba-cee2-5b16-8bb6-fd870b645391.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/eedition/4/ae/4aec74df-508b-5d07-836a-2da290121a70/64d7ebd470394.fullsize-img.jpg"
+        width: 792
+        height: 1692
+        isCached: true
   - title: "A New Era in Environmental Monitoring: Uniting Satellite Data Analytics and Artificial Intelligence"
     excerpt: "Welcome to a pioneering era in environmental monitoring, where state-of-the-art technology converges with our pressing demand for sustainable solutions. Today, we delve into a groundbreaking innovation that harnesses the potential of satellite data analytics empowered by artificial intelligence (AI)."
     publishedDateTime: 2023-08-11T08:10:00Z

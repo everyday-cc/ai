@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
+    excerpt: "MENLO PARK, Calif., Aug. 9, 2023 /PRNewswire/ -- Global consulting firm Protiviti has achieved the Artificial Intelligence (AI) and Machine Learning (ML) in Microsoft Azure specialization."
+    publishedDateTime: 2023-08-09T14:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33669654/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33669654"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33669654"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 73
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Microsoft partners with Aptos Labs to build AI-powered blockchain tools on Azure"
     excerpt: "A compelling new partnership has just been announced between Microsoft and Aptos Labs. The collaboration is set to create an AI-powered tool named Aptos"
     publishedDateTime: 2023-08-09T15:54:00Z
@@ -89,15 +105,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-    excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence"
-    publishedDateTime: 2023-08-09T16:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
   - title: "Kyndryl and Microsoft team up for generative AI"
     excerpt: "Kyndryl and Microsoft have ramped up their ongoing partnership to focus on boosting generative artificial intelligence among customers."
     publishedDateTime: 2023-08-09T07:51:00Z
@@ -232,6 +239,6 @@ related:
       domain: datanami.com
     quality: 11
 
-secured: "QIjHfkag9lbtefcvFamiOxjpY1M7uWz8Q33sKZkmWiV2cZYwsBGkMzpH9WqXHy0HY0iYTluATSUmFl2T65mA3+WKFAWmElCPnbVQxs0N+NSxum5SSzFEGATg3H0UZR73BeI0AO4Ex/kPDAqCpT8mD2g+0Xf52y+gq4lcyHcePGvVwVV/OODdGsyEM4QLbgTdulB8BadRfvkGiMq3wp6F39KiSP2yzw5nKZEKsyFzQCChm23e2jQFc1l98j6qyCxG2fuTGsT4eyxrZuL0TSl3XLNmH5qIMokwGt5Xh0ZAfKE32IDxDjcME5uCZoeDlbFYp6Ip385PTx7fVvahihnIWJm9PdZjhreuX1wXn+SLG/4=;mGxvQV/Nfkz/DPFJdc6ZKQ=="
+secured: "cL1j1s5nAXNdecQyuVQKP/u2rU8OxqPogB4ToM+Cv0/HJOUblO9Al3qFHGsHyLR4NVWiV5JBeTB4WT1ahk1GD6IIHgYlJVIg4kENQgai0YQ2rJdI/+B9p0eBpKf3tvFSmpDqJ0DM9bxw7LIblKx1wjwrb9VsTarSe5JzJ1bTOsFsYgW7u4VkTSMayHOjgofc+Qr/4bzPFIyNFr4PMll2wlrl4uhH2Rf/L9IYzyxinE4AcnbYMcl1SkBpenxz96NOf9/47VqvMAHjzD9+ZZlJUmuAa+nKzBDsrMJz1S7dVCEYWkZnJAbTedt62VFAnUyUZsBkQhPNyd/i1wKh9+NbFTrkr8h7lR3WqsNJInzq4Na/UQm7qUjxge+ZTeYwHLA5DE7uV5S9dnFIcLB4pD1sPCk4Ir/N0JCDgdky87fRtCHabfOomtzMw4ILrTYae2+xdviHNe0ny1jbqk4m7RG17hAt7i0MiNpC24ToUKzei88GIr9lO/Oor9Kd8Fx/ErsFdDCYm2Q95Ol42mhsQ2Mptw==;u1Ip/25pUre9c9tdlK01Og=="
 ---
 

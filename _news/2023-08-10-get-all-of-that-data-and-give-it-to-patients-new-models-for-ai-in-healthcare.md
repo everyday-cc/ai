@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/10/get-all-of-that-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/10/get-all-of-that-data--and-give-it-to-patients-new-models-for-ai-in-healthcare/amp/"
 type: article
 quality: 100
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Law-scales-767x633.jpg"
         width: 767
         height: 633
-        isCached: true
-  - title: "Revolutionizing Health Care: Harnessing Artificial Intelligence for Better Patient Care"
-    excerpt: "CMU's Rema Padman discusses the integration of artificial intelligence (AI) — one of the most promising advancements in the health care sector."
-    publishedDateTime: 2023-08-09T00:00:00Z
-    webUrl: "https://www.cmu.edu/news/stories/archives/2023/august/revolutionizing-health-care-harnessing-artificial-intelligence-for-better-patient-care"
-    type: article
-    provider:
-      name: cmu.edu
-      domain: cmu.edu
-    quality: 31
-    images:
-      - url: "https://www.cmu.edu/news/sites/default/files/2023-08/padman-ai-conference-media.jpg"
-        width: 600
-        height: 340
         isCached: true
 
 secured: "TysO2XYyV6dNS5G2lBcx3QD18M/k/777lAJBOAe0/kjfzPojCV1T6j+ZtOO0EUFVRTVPxGTZNCoYNiy67YzoqY1FMsSgRJEx5ycNoug4sIgL0o3UQkgFXYKd0ftYKp3BBpNhsz+ikbkqmytO6cHyFoa5PpzHjUmhtgsfcbIrGDUbET5lowfXogS1ejvX5BSaUx11T2fyZ25XczIbXlgk0wkWYOcRcaPV7aGVjIzA+DFcsDHpWxUgjFfXtErDEVbpuca2TJBRquHoDxN28PhFFQ1DhaLJ5Q7DIuZVuaMFSMTrrBdGoWUwaQ/a8IkHBqde86qUiR2uHWs3UUClWndjefpSUddchzEI3U9uQCW39EI=;BXqPChIulh07qRi9iYK8XA=="

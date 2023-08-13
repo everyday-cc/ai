@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-11T18:48:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547645"
 webUrl: "https://markets.businessinsider.com/news/stocks/madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547645"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 related:
   - title: "Mountain View Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"

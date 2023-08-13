@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyrecord.com/article/microsoft-azure-large-ins
 webUrl: "https://www.technologyrecord.com/article/microsoft-azure-large-instances-to-help-healthcare-providers-manage-ehrs"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 975
     height: 548
     isCached: true
+
+related:
+  - title: "Microsoft Azure meets growing needs of healthcare organizations, such as Mount Sinai Health System, with a highly scalable public cloud for Epic"
+    excerpt: "New Azure Large Instances allows healthcare providers to manage large EHR database loads using public cloud-hosted infrastructure REDMOND, Wash. — Aug. 10, 2023 — Microsoft Corp. on Thursday announced that Epic clients,"
+    publishedDateTime: 2023-08-10T16:59:00Z
+    webUrl: "https://news.microsoft.com/2023/08/10/microsoft-azure-meets-growing-needs-of-healthcare-organizations-such-as-mount-sinai-health-system-with-a-highly-scalable-public-cloud-for-epic/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 29
 
 secured: "E5IV07kkKJCWRamBiruIuQTr29ihTsnZlCTfYu7VJIrueYO3FPgHjN+pGKyyETfKheP8Dh8o3PBbJzbH8W2GHG1FPD7evKPl3qp0lv6TZyX/dGy5k7Qc8tgpnWBxKm0k35RddF+ktsioMp6Fi0npNtvQe0h5HDh5pp+8bs7yUOiHsDHx/TBG547ET/KR0J4lla8hgEAjeudym3B2uVKEgzM7NAt1rrxuhe85FWE0kWEjVVo8NERXAx+S59huIavRxn5i49r2FKbCmFLqlWWNuCG20Yju5L/WCXzFI80slBR5PqugL3OpdCuG8vuZM+Qd3wc2b58SwvPJ7JOAKs8rA3y0d7LfNtnZGFH2ILx3w5I=;xQnPuou29HiTJI0CSNla5w=="
 ---

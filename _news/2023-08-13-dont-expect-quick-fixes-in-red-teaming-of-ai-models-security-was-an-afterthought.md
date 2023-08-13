@@ -9,8 +9,8 @@ ampWebUrl: "https://www.live5news.com/2023/08/13/dont-expect-quick-fixes-red-tea
 cdnAmpWebUrl: "https://www-live5news-com.cdn.ampproject.org/c/s/www.live5news.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Live 5 News
@@ -26,6 +26,24 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Don’t expect quick fixes in ‘red-teaming’ of AI models. Security was an afterthought"
+    excerpt: "Current AI models are simply too unwieldy, brittle and malleable, academic and corporate research shows. Security was an afterthought in their training as data scientists amassed breathtakingly complex collections of images and text. They are prone to racial and cultural biases, and easily manipulated."
+    publishedDateTime: 2023-08-13T17:19:00Z
+    webUrl: "https://www.wtvm.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
+    ampWebUrl: "https://www.wtvm.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wtvm-com.cdn.ampproject.org/c/s/www.wtvm.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
+    type: article
+    provider:
+      name: WTVM
+      domain: wtvm.com
+    quality: 69
+    images:
+      - url: "https://gray-wtvm-prod.cdn.arcpublishing.com/resizer/_NxANRU5NGGFJuUHTkuzBG9N1Ss=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/K5O2VFAXWJEEBOOPTBFTZRMG7Y.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "9NCfr+dhsYNnv1Wy54wNJgPws0pzwKT1kC69xBULDmPFOI/lnzYBfV0m3iamzhn7/Et/PholPQLol81ER7TLlGw/22XNc8LamSSlHG1rVwZZLDgsY/GPVnAxj7Kkx5msn+klqm6QdNjRH59SjJLfYlh7Hp7+k/IB+YSc02NYn5MnrYMV6LqeighUf9xd0WYijHZr72tAu3gDHZgOEtgANJdckMSK8hKS8mDJ7Xe29STpPcrNusff2jr7FWIC6jtl4+cGU3JOAo6xGKoPuQCj6j6uVWmKU+QTlx8YYmOWyWaoW6OwyxEd/E1Gt4yjKVv8UWka5GE5x8411SnSjfhKK6ioPqS3Es3DZYvp/Vb7E88=;EvaKUMMdx+nIQ2AxtRAyLg=="
 ---

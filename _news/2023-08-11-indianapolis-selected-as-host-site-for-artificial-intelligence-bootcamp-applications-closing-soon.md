@@ -53,6 +53,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Madison Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+    excerpt: "MADISON, Wis., Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Fetch in Madison. Applications for the no-cost bootcamp are closing soon!"
+    publishedDateTime: 2023-08-11T18:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547645"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
   - title: "Fort Worth Selected as Host Site for a 4th Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Elevate in Fort Worth. Applications for the"
     publishedDateTime: 2023-08-11T15:41:00Z
@@ -94,15 +103,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Madison Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-    excerpt: "MADISON, Wis., Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Fetch in Madison. Applications for the no-cost bootcamp are closing soon!"
-    publishedDateTime: 2023-08-11T18:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547645"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
   - title: "Richardson Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "RICHARDSON, Texas, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The University of Texas at Dallas in Richardson. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-11T18:42:00Z

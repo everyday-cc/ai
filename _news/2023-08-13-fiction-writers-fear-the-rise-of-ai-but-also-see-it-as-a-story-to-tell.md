@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fiction writers fear the rise of AI, but also see it as a story to tell"
+    excerpt: "Other AI-themed novels expected in the next two years include Sean ... \"It's so weird how, with apps, you start to feel as if you're going person-shopping,\" she said. \"And I thought, wouldn't it be great if you could really pick and choose the best parts ..."
+    publishedDateTime: 2023-08-13T17:32:00Z
+    webUrl: "https://www.ksl.com/article/50708755/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 37
+    images:
+      - url: "https://img.ksl.com/slc/2942/294288/29428879.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
   - title: "Fiction writers fear the rise of artificial intelligence, but also see it as a story to tell"
     excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity."
     publishedDateTime: 2023-08-13T10:20:00Z

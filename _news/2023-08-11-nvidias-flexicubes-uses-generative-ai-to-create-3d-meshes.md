@@ -54,20 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Nvidia Teases New Hardware, Software, and Services for AI"
-    excerpt: "The star of the show was the new Grace Hopper Superchip GH200, which NVIDIA says was \"designed from the ground up for giant-scale AI.\""
-    publishedDateTime: 2023-08-08T23:28:00Z
-    webUrl: "https://decrypt.co/151782/nvidia-grace-hopper-gh200-rtx-6000-5000"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 39
-    images:
-      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/NVIDIA-GPU-scaled-gID_7.jpg"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "7 Big Announcements Nvidia Made At SIGGRAPH 2023: New AI Chips, Software And More"
     excerpt: "Nvidia CEO Jensen Huang returned to the annual SIGGRAPH event for the first time in five years to showcase the GPU giant’s “full-stack computing” prowess with a bevy of new chips and software for AI,"
     publishedDateTime: 2023-08-10T19:54:00Z

@@ -38,6 +38,20 @@ related:
         width: 900
         height: 579
         isCached: true
+  - title: "Fiction writers fear the rise of AI, but also see it as a story to tell"
+    excerpt: "Other AI-themed novels expected in the next two years include Sean ... \"It's so weird how, with apps, you start to feel as if you're going person-shopping,\" she said. \"And I thought, wouldn't it be great if you could really pick and choose the best parts ..."
+    publishedDateTime: 2023-08-13T17:32:00Z
+    webUrl: "https://www.ksl.com/article/50708755/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 37
+    images:
+      - url: "https://img.ksl.com/slc/2942/294288/29428879.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
 
 secured: "2SLnTj7+wdi2n4J7mg9DoZO3kj3y8tBw6uu0XwqxSJsTJYpp0sh4jIF7k6TsNLBKrC/hXI2nDvRGjT4XW2cPlxaC88Jtyf1WV1IaPN0BURaeUN+Zq2BSNlCIb13HUSRRG/OqpsomXdSE5ulusGxWy1yMpisMmAqRVOzcCrW0SAvXlWTJBAayirXXXqElUadSPjZ2eU/oK+0Mk5BhN1/k+1wh9fgnuYPNrrC2Hd4vlY59clcO9B0iw16tFqXZzll6EBucuPdNzMTYHipWqv2Aj+KUbos/m+edU7I336MKe4YKiPHqTFFPS5yssi/Oop11ioW0jWUzN4G8hGgcFjLZlH+ptpoNzxTJUuSLEvkk3hjL8NDoH9mI/BKnrWYvXQ/ym5MCu0bxtz7AzMoQcI9PVQhWIHoy3a7sXvUS2FhKAXRu269jaSblX0r9rM60S45kRUXqhwQX+WfJtu4nUk35Xv3Rc9v1zWXIdp1vrb1cYqhmPA36j8EYSwWmoth9aGtjhzWZ+IK6ffsTtsY1Bxx7Ig==;u+GnieNNE8ahPd4FAQ5zxw=="
 ---
