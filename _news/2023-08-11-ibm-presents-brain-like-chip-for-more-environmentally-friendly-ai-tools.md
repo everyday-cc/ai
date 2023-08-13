@@ -36,7 +36,7 @@ related:
     quality: 64
   - title: "IBM's prototype 'brain-like' chip promises greener AI"
     excerpt: "Tech major IBM has said that its prototype 'brain-like' chip could make artificial intelligence (AI) more energy efficient."
-    publishedDateTime: 2023-08-13T10:15:00Z
+    publishedDateTime: 2023-08-13T15:45:00Z
     webUrl: "https://www.thehansindia.com/technology/tech-news/ibms-prototype-brain-like-chip-promises-greener-ai-815332"
     type: article
     provider:

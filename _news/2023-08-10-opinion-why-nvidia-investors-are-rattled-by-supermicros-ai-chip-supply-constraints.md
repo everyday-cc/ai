@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/why-nvidia-investors-are-rattl
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581"
 type: article
 quality: 97
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Nvidia set to hop AI forward with next-gen Grace Hopper Superchip"
-    excerpt: "One of today's biggest Nvidia announcements is a new version of the GH200 Grace Hopper Superchip, powered with next-generation HBM3e memory."
-    publishedDateTime: 2023-08-08T19:18:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-set-to-hop-ai-forward-with-next-gen-grace-hopper-superchip/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
   - title: "NVIDIA unveils new AI superchip and adds generative AI to Omniverse"
     excerpt: "NVIDIA founder and CEO, Jensen Huang, announced an updated GH200 Grace Hopper Superchip, the NVIDIA AI Workbench, and an updated NVIDIA Omniverse with generative AI at a wide-ranging SIGGRAPH keynote."
     publishedDateTime: 2023-08-09T14:04:00Z

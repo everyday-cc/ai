@@ -19,51 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Azure AI Adds GPT-4 and New Virtual Machines"
-    excerpt: "Microsoft is also working on creating guidelines for red teams working on making sure generative AI is both secure and responsible."
-    publishedDateTime: 2023-08-08T20:52:00Z
-    webUrl: "https://www.techrepublic.com/article/azure-ai-gpt-4-virtual-machines/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 101
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8823-azure-openai-770x465.jpeg"
-        width: 770
-        height: 465
-        isCached: true
-  - title: "Microsoft's red team has monitored AI since 2018. Here are five big insights"
-    excerpt: "Before the ChatGPT boom began, AI was already an impactful, emerging technology, and as a result, Microsoft assembled an AI red team in 2018. The AI red team is composed of interdisciplinary experts dedicated to investigating the risks of AI models by \"thinking like attackers\" and \"probing AI systems for failure,\" according to Microsoft ."
-    publishedDateTime: 2023-08-08T20:33:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-red-team-has-monitored-ai-since-2018-here-are-five-big-insights/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-red-team-has-monitored-ai-since-2018-here-are-five-big-insights/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-red-team-has-monitored-ai-since-2018-here-are-five-big-insights/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/763bb84fcad6688b66f6b6fd5b459b90ee56923e/2023/08/08/95297a9d-4d60-4295-862a-83762dbf6738/red-gettyimages-1175547284.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "On Technology: The Major AI Problem Facing Insurance Brokers That Microsoft, Google And ChatGPT Won’t Solve"
-    excerpt: "Navigating Demographic Challenges in Embracing Change. How AI's transformative potential clashes with an aging industry workforce."
-    publishedDateTime: 2023-08-10T16:59:00Z
-    webUrl: "https://www.forbes.com/sites/quickerbettertech/2023/08/10/on-technology-the-major-ai-problem-facing-insurance-brokers-that-microsoft-google-and-chatgpt-wont-solve/"
-    ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/08/10/on-technology-the-major-ai-problem-facing-insurance-brokers-that-microsoft-google-and-chatgpt-wont-solve/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/08/10/on-technology-the-major-ai-problem-facing-insurance-brokers-that-microsoft-google-and-chatgpt-wont-solve/amp/"
+  - title: "Find Out How Microsoft’s AI-Powered Shopping Tools Can Save You Money—And Time"
+    excerpt: "According to the company, Microsoft Edge has offered $3.7 billion in savings to shoppers worldwide in the last year thanks to built-in shopping features"
+    publishedDateTime: 2023-08-13T15:19:00Z
+    webUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/"
+    ampWebUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
+    quality: 100
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d4c66d604bda7e4b0eda0a/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d64c192cef1748f0b1ea3f/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 763
+        height: 554
         isCached: true
   - title: "Microsoft Partners With Aptos Labs For Web3 and AI"
     excerpt: "On Wednesday, Microsoft, the American tech giant, announced it was partnering with layer-1 blockchain Aptos Labs to collaborate on AI and web3. The latter will be using Microsoft Azure OpenAI Service to accelerate global web3 adoption. \"Artificial ..."
@@ -109,50 +79,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft unveils next-gen AI solutions to boost frontline productivity amid labor challenges"
-    excerpt: "Microsoft aims to enhance the efficiency of frontline service professionals through Copilot integrated into Dynamics 365 Field Service."
-    publishedDateTime: 2023-08-09T17:10:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-unveils-next-gen-ai-solutions-to-boost-frontline-productivity-amid-labor-challenges/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
-        isCached: true
-  - title: "Microsoft Azure Large Instances to help healthcare providers manage EHRs"
-    excerpt: "Microsoft Azure Large Instances is helping healthcare providers to manage large electronic health record (EHR) database loads using public cloud-hosted infrastructure. Azure Large Instances leverages up to 50 million ‘database accesses’ per second,"
-    publishedDateTime: 2023-08-11T10:54:00Z
-    webUrl: "https://www.technologyrecord.com/article/microsoft-azure-large-instances-to-help-healthcare-providers-manage-ehrs"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 70
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4540/Azure-Large-Instances_web.jpg"
-        width: 975
-        height: 548
-        isCached: true
-  - title: "Microsoft and Aptos Blockchain Partner to Revolutionize Web 3.0 and AI Integration"
-    excerpt: "Microsoft partnered with Aptos Labs, a layer 1 innovative blockchain platform co-founded by former Facebook employee"
-    publishedDateTime: 2023-08-09T16:28:00Z
-    webUrl: "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/"
-    ampWebUrl: "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 68
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/microsoft-aptos-web-3-ai.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft partners with Aptos Labs to build AI-powered blockchain tools on Azure"
     excerpt: "A compelling new partnership has just been announced between Microsoft and Aptos Labs. The collaboration is set to create an AI-powered tool named Aptos"
     publishedDateTime: 2023-08-09T15:54:00Z
@@ -166,22 +92,6 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2021/05/microsoft-azure-blockchain.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Illumio Simplifies Zero Trust Policy Enforcement With Microsoft Azure Firewall Integration"
-    excerpt: "Illumio, Inc., the Zero Trust Segmentation company, today announced the general availability of Illumio for Microsoft Azure Firewall."
-    publishedDateTime: 2023-08-10T15:21:00Z
-    webUrl: "https://enterprisetalk.com/news/illumio-simplifies-zero-trust-policy-enforcement-with-microsoft-azure-firewall-integration/"
-    ampWebUrl: "https://enterprisetalk.com/news/illumio-simplifies-zero-trust-policy-enforcement-with-microsoft-azure-firewall-integration/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/illumio-simplifies-zero-trust-policy-enforcement-with-microsoft-azure-firewall-integration/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 64
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Illumio-Simplifies-Zero-Trust-Policy-Enforcement-with.jpg"
-        width: 1500
-        height: 844
         isCached: true
   - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
     excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence"
@@ -262,62 +172,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Aptos token rises 11.6% after Microsoft deal to marry AI with blockchain"
-    excerpt: "The price of Aptos — the token powering the Aptos Network — rocketed more than 11% after Aptos Labs announced a new partnership with Microsoft."
-    publishedDateTime: 2023-08-10T02:23:00Z
-    webUrl: "https://cointelegraph.com/news/aptos-token-surges-after-partner-microsoft"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 53
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMmEwOTIwOWItZDk5My00MWUxLTgwZmMtMGI0OTZmOWE3ZGJlLmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Aptos Labs taps into Microsoft’s AI infrastructure to accelerate Web3 adoption"
-    excerpt: "Aptos Labs and Microsoft have announced a partnership that could see developers leverage Microsoft’s AI tech to boost Web3 adoption."
-    publishedDateTime: 2023-08-09T13:41:00Z
-    webUrl: "https://coinjournal.net/news/aptos-labs-taps-into-microsofts-ai-infrastructure-to-accelerate-web3-adoption/"
-    type: article
-    provider:
-      name: Internet of People
-      domain: coinjournal.net
-    quality: 50
-    images:
-      - url: "https://coinjournal.net/wp-content/uploads/1970/01/1668682922828-56020534-38b6-4f96-8028-c48dac595657.jpg"
-        width: 500
-        height: 282
-        isCached: true
-  - title: "Aptos Labs partners with Microsoft to build AI blockchain solutions using OpenAI"
-    excerpt: "Aptos Labs, the blockchain startup founded by former Meta Platforms Inc. employees behind the defunct Diem blockchain, today announced that it has partnered with Microsoft Corp. to “explore innovative solutions” in blockchain and Web3 technology such as artificial intelligence, tokenization and payments."
-    publishedDateTime: 2023-08-09T16:24:00Z
-    webUrl: "https://siliconangle.com/2023/08/09/aptos-labs-partners-microsoft-build-ai-blockchain-solutions-using-openai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Aptos_Labs__Aptos_Labs_x_Microsoft.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kyndryl, Microsoft to Accelerate Adoption of Industrial-Level Generative AI for Businesses"
-    excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
-    publishedDateTime: 2023-08-09T07:09:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32969-kyndryl-microsoft-to-accelerate-adoption-of-industrial-level-generative-ai-for-businesses"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 44
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/7b6f87b4bb595852735416341c6992bf.jpg?t=20230809_070306"
-        width: 451
-        height: 244
-        isCached: true
   - title: "Transform your business with Microsoft’s range of Data and AI solutions"
     excerpt: "Microsoft offers a range of Data and AI solutions that can help businesses transform their data into insights and actions."
     publishedDateTime: 2023-08-11T08:55:00Z
@@ -336,15 +190,6 @@ related:
       name: Morningstar
       domain: morningstar.com
     quality: 33
-  - title: "Exela Technologies, Inc.: Exela Technologies Leverages Generative AI with Microsoft Azure OpenAI Service"
-    excerpt: "Exela Technologies, Inc. (NASDAQ: XELA, XELAP), a leader in business processing automation (\"BPA\") today announced its collaboration with"
-    publishedDateTime: 2023-08-10T13:07:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59817874-exela-technologies-inc-exela-technologies-leverages-generative-ai-with-microsoft-azure-openai-service-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 32
   - title: "Kyndryl and Microsoft Unveil Enterprise Generative AI Solutions on Microsoft Cloud"
     excerpt: "Bangalore (Karnataka) [India], August 11: Kyndryl (NYSE: KD), the worlds largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
     publishedDateTime: 2023-08-12T03:14:00Z
@@ -372,15 +217,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 26
-  - title: "Aptos Price Prediction as Microsoft Partners with Aptos on New AI Blockchain Products – Can APT Reach $100?"
-    excerpt: "Aptos (APT) jumped on Wednesday on the news of the Microsoft AI partnership, but could have a long way to run to the upside yet."
-    publishedDateTime: 2023-08-09T17:40:00Z
-    webUrl: "https://cryptonews.com/news/aptos-price-prediction-as-microsoft-partners-with-aptos-new-ai-blockchain-products-can-apt-reach-100.htm"
-    type: article
-    provider:
-      name: cryptonews
-      domain: cryptonews.com
-    quality: 16
   - title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
     excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable"
     publishedDateTime: 2023-08-09T18:28:00Z

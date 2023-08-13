@@ -73,6 +73,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "AI Helps Detect Muscle Mass in Head and Neck Cancer Patients"
+    excerpt: "Among individuals diagnosed with head and neck cancer, an AI-driven evaluation of sarcopenia could be conducted at regular intervals during treatment."
+    publishedDateTime: 2023-08-13T14:05:00Z
+    webUrl: "https://www.medindia.net/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://www.medindia.net/health-images/an-artificial-intelligence-accurately-predict.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "AI-driven muscle mass assessment could improve care for head and neck cancer patients"
     excerpt: "Researchers from Dana-Farber Cancer Institute have found a way to use artificial intelligence (AI) to diagnose muscle wasting, called sarcopenia, in patients with head and neck cancer. AI provides a fast,"
     publishedDateTime: 2023-08-10T15:00:00Z
@@ -103,15 +119,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Vital Releases Doctor-to-Patient Translator That Uses AI and LLMs to Transform Medical Jargon Into Simple, Accurate Content for Patients"
-    excerpt: "Vital, a leading artificial intelligence (AI)-driven digital health company, today announced the launch of its AI-powered Doctor-to-Patient Translator, designed to transform highly technical medical terminology into plain language that any patient can understand."
-    publishedDateTime: 2023-08-08T19:36:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861363.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "VteQMcvfGUbqIT3ROLtg2OgQ7c9JXGxNLbaCkBFRTk0uJK8Y/1TCPJF7WCddNI2y2aEqC3hs5qyKt9j+k6EknMKqsgs8moW8BqnUehdoUzZYI6jI1TmyjZQMJYirFGH9g2ZaEvc+DlDrFQvhZzvg+Lpjq1KLv6fdMStc6fE5/d/RwedaLorz1S44jOk/A5VrOvGt65dKQ+HqfTzckkj+PcHBR6+2augGCN5ueVO7w2DOBA2sbtOIL+nMB4kGCv1lCz1wPiCcVK/jvXGS5t05ur1yXOYUGeam6cy2YcV/A6w6ccHNGbEq2XYHyieNoejPffc9E9twIbqcBv+DKWua6WWpvo/v6aDr+d6merg97RM=;ZrjzOy27uL/Tm69S1SQvMQ=="
 ---

@@ -119,15 +119,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Nvidia boosts its 'superchip' Grace-Hopper with faster memory for AI"
-    excerpt: "Nvidia announced a desktop software program called AI Workbench to more easily containerize neural net models on local workstations to stage them for the cloud."
-    publishedDateTime: 2023-08-08T19:31:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-boosts-its-superchip-grace-hopper-with-faster-memory-for-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "Chinese Tech Firms Baidu, TikTok-owner ByteDance, Tencent, Alibaba Order Nvidia AI Chips Worth $5 Billion: Report"
     excerpt: "The Chinese firms have made orders worth $1 billion to acquire about 100,000 A800 processors from the US chipmaker to be delivered this year."
     publishedDateTime: 2023-08-10T05:21:00Z

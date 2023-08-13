@@ -74,12 +74,12 @@ related:
     quality: 4
   - title: "‘Real concern’: David Littleproud at odds with Peter Dutton over alternative to Voice referendum"
     excerpt: "The Coalition is split on what they would take to the next election should the Voice to parliament referendum fail."
-    publishedDateTime: 2023-08-13T03:40:00Z
-    webUrl: "https://www.news.com.au/national/politics/real-concern-david-littleproud-at-odds-with-peter-dutton-over-alternative-to-voice-referendum/news-story/3f2ec39edeb1c67920ddcf9858a3e337"
+    publishedDateTime: 2023-08-13T13:11:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/real-concern-david-littleproud-at-odds-with-peter-dutton-over-alternative-to-voice-referendum/news-story/3f2ec39edeb1c67920ddcf9858a3e337"
     type: article
     provider:
-      name: Couriermail
-      domain: news.com.au
+      name: The Australian
+      domain: theaustralian.com.au
     quality: 0
 
 secured: "QloXzTZVR1RXWqpOFbZsMHtgcvZ5yuPnuFb62V29kkqiGDrKbpcVdV/fveBXsFp+F4DPnvoAIcs3kyTz/4xm++m2wGwRDZDHJGFB1y7FtMKadA7w8dfmzLgIVWWshVsd+WBT0iPCxoD6bl4/UVTN2cEmMd/k1mKKmQYJAgXRFMPKpb7shy4RlOH23UJJ+fcx3q+CrOy8SXW/e3SKe1mlnGWqEumavfFTBGUB3JWpRfPjCTduKNfiV9abO9HW5vgnwZ9vcBwjk8Yj3fZ0XMdJvsxbvYNMvWyIV2YQOixW/T8Pf4Kg9ZrBbOIEMQp7DP3Zb/9pyBR/7ehhgPmhkXwLto8ADJ01F6RIIT0E3wusnlXiFK2bs3GksA+opRvPd1g7govtkdT5gbyzwMNKQoMf4PiqPw7ayaapZ0eWP1GGzyPUZNgR0KomwHOnqa5onIvcBX7tG0e+camBBPE7/wo5MtkuHWl+C7515EW6lD7AHxCl1TwZ/rKl56YruRK8sR43/yIFcxyWSyi+0lxb8Pa/XQ==;S9/Kqp6TaCS33dS4+Tj09A=="

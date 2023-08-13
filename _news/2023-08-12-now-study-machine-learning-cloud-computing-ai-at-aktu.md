@@ -77,6 +77,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "HOW AI IMPACTS TEACHING FUTURE FINANCIAL LEADERS"
+    excerpt: "Students need to learn how to use AI and ChatGPT properly, understand AI’s limitations and know when they can appropriately use AI."
+    publishedDateTime: 2023-08-13T13:25:00Z
+    webUrl: "https://www.forbes.com/sites/stevenwasserman/2023/08/13/how-ai-impacts-teaching-future-financial-leaders/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Small businesses using AI are loving it"
     excerpt: "A new survey finds that more than 90% of small business owners using artificial intelligence tools like ChatGPT say AI has made their businesses more successful."
     publishedDateTime: 2023-08-09T09:00:00Z
@@ -109,15 +118,6 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 19
-  - title: "The Artificial Intelligence Contribution to Eating Disorders"
-    excerpt: "Artificial intelligence has an eating disorder problem. Pro-anorexia chatbots are a mere consequence of some of the best tech-funded companies not doing enough to prevent the circulation of misleading"
-    publishedDateTime: 2023-08-08T22:00:00Z
-    webUrl: "https://omaha.com/life-entertainment/nation-world/technology/the-artificial-intelligence-contribution-to-eating-disorders/video_89389748-9c2e-55ff-88f5-8193dfb22db3.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 17
 
 secured: "SUktz0H7Ud00plhouOSkd6Q+DORR7lDYpXj1+MyJs1nH7McyAVvOsyySEcFXciogxGlPwm688580aIv6FWVbBRe01eYufHBEMX2gSgXGvKnFv8xGn6Qu74+mVs0zrYdyXuzEk2VZbagbeBiol89LFV8zQeYV1KRCD8KIAvFtJO/mOprxHjoq/ORat+HWeLPIP7iIVwXJbwXe5YFsTbFlvFvPGkFpxOcFH6E+Pg9wWWy8V/KTmf+uVDVmmDdOO3iYNE1U4CUPc2/nb1fJORptkLetXAEDfk56yG0QFXa+yEubjnsy/m+19xFe1lDT+QMdCiUukwVaGaR1yhjULiL9cQU38eppi9J6reHOvyO2hX4=;x7zfMaeYKJZLZAu6K7v05Q=="
 ---

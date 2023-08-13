@@ -54,6 +54,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "OPINION | How organisations can navigate AI ethics in SA's regulatory vacuum"
+    excerpt: "This article explores some of the findings, along with strategies and principles that South African organisations can adopt to navigate the AI ethics landscape responsibly, upholding societal trust amidst ongoing technological transformation. The experts ..."
+    publishedDateTime: 2023-08-10T15:56:00Z
+    webUrl: "https://www.news24.com/news24/tech-and-trends/news/opinion-how-organisations-can-navigate-ai-ethics-in-sas-regulatory-vacuum-20230810"
+    type: article
+    provider:
+      name: News24
+      domain: news24.com
+    quality: 51
+    images:
+      - url: "https://cdn.24.co.za/files/Cms/General/d/2643/ceada13bfb174c7f81608ac0173f6e66.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "FEC takes first step toward rules on artificial intelligence deepfakes in campaign ads"
     excerpt: "The Federal Election Commission took a first step Thursday toward regulating the use of artificial intelligence-generated media in campaign ads by considering a petition for new rules and asking the public for comment."
     publishedDateTime: 2023-08-10T15:33:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-08-09/five-things-
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-09/five-things-you-need-to-know-to-start-your-day-ll4dcfcw"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,33 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Investing in Artificial Intelligence Stocks: Things You Have to Know"
+    excerpt: "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have."
+    publishedDateTime: 2023-08-10T05:15:00Z
+    webUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html"
+    ampWebUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 61
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Investing 'Summer Vibes' Drives Interest in Cruise and AI Stocks, According to New Apex Q2 2023 Investor Study"
+    excerpt: "The ANIO report analyzes investor data who trade through introducing brokers on the Apex Clearing Platform - across more than 1.3m Gen Z accounts and 5.6m accounts held by Millennials, Gen Z and Boomers, calculated from April 1 - June 30, 2023."
+    publishedDateTime: 2023-08-10T15:36:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/10/9862721.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "MroZGM3ZChAFY9vg/6uTSarxD9cMimwjPTZhPXhJfGAv+4m1kCxAPoQCfdWWYm5fosEYTgn8IEj5II+R/lFhzIN+BoMlJfkRjm99JsS3BOv3v1KzwJWdr1TVjfC5RDKCHbo1f5u4J3iaWqGGo3sj6ZtpVh9CxPu8BYK8+hgi0wmI/9deWiWN90U9AymNSdKwLZxL3ialZ2LLE++pn49SehRAqMo7EBBkHc8J2VMS77KE3UPcmwzhdos/C57sB8jXpU+4LYjRp9aNns5svGgq1z2h5kPKaHXfu8hOVUkvHyT329raqJdiUAFCl7w/BeT0Jf2TiiiMitHRWsU/ZoYEzqguzfF22qioyKgkMPB486AJTD3CPMvZw3/22Jaau7rxMEl0HnJ+mzDB+ys3sQ47PZ3iVAn/x5LsVgFQGi41cCRW1QGYC4yQm1OXYn7i5/bQlFkIVvtEak4dSb/s1Hsn5nGLgHUdY+sXZgYXwZJrrc4xdlrp7DBAyBvsanJwxa/MpIDMBfPjmzzbnsXsGqwTjQ==;sfsQf2X40YxCo1JaNLN8CQ=="
 ---

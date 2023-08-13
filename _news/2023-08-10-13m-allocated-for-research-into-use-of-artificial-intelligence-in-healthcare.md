@@ -56,6 +56,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Aptos Labs taps into Microsoft’s AI infrastructure to accelerate Web3 adoption"
+    excerpt: "Aptos Labs and Microsoft have announced a partnership that could see developers leverage Microsoft’s AI tech to boost Web3 adoption."
+    publishedDateTime: 2023-08-09T13:41:00Z
+    webUrl: "https://coinjournal.net/news/aptos-labs-taps-into-microsofts-ai-infrastructure-to-accelerate-web3-adoption/"
+    type: article
+    provider:
+      name: Internet of People
+      domain: coinjournal.net
+    quality: 50
+    images:
+      - url: "https://coinjournal.net/wp-content/uploads/1970/01/1668682922828-56020534-38b6-4f96-8028-c48dac595657.jpg"
+        width: 500
+        height: 282
+        isCached: true
 
 secured: "Lp4kbCh85yyF7bMizdk8GTO1ETiEpKQ11ckCanpLsFQZ0XI434u/jooMnL03SpStGio+W0/2XEvKUHuNiBIpEa1gnN92V426ittQGhPFR8jXAPiBIOWV2jrCctCpMEX7cygZm5TYhPWi6D61RBHJMb4K4XcaRkxDMmxV8JD8mXYF+YM/te8JM1Q1hayrCiIhles7sVK5Aei+t+Vrc0HkERFbkMqbtQJkgJXNeeZxkVp7RS1SIDl+6vh8JLWre4OxtJlVmCrwYsdeB+5oNIHNejwsQF/kAUy4S8NpjEzBcYXcpafon3Nz6inmS8EUhVq8xzKycm62XWTtnco6Rbg/x36wlYejtSzXba8UhY7511c=;vCJlaqIqugz6+6FkzO4sHw=="
 ---

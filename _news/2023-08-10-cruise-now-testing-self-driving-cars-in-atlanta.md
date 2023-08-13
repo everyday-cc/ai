@@ -64,20 +64,6 @@ related:
       name: unite
       domain: unite.ai
     quality: 34
-  - title: "Cruise now testing self-driving cars in Atlanta"
-    excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."
-    publishedDateTime: 2023-08-08T21:39:00Z
-    webUrl: "https://www.ajc.com/news/atlanta-news/cruise-now-testing-self-driving-cars-in-atlanta/TDNR2DPDRVCNBOK2GVB67RNXPU/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 24
-    images:
-      - url: "https://www.ajc.com/resizer/cYnOP2YAm4f3Lr1PlZArsxWGoqI=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/BAIUNG3E35DOVCQPE4YI5RQ7U4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Self-Driving Taxi Market Report, 2023-2030"
     excerpt: "Self-Driving Taxi Market 2023 Will Give Report Analysis that rapidly arising as one of the [Automobile & Transportation] Sector in the business, by T"
     publishedDateTime: 2023-08-12T05:20:00Z

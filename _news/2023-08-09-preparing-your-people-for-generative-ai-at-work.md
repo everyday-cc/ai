@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 608
         isCached: true
-  - title: "Opinion: Higher Education Entering Year 2 of Generative AI"
-    excerpt: "After a somewhat chaotic year in which professors grew suspicious of their students' writing and navigated new territory largely without clear guidance, colleges and universities still face inevitable change."
-    publishedDateTime: 2023-08-08T20:32:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/opinion-higher-education-entering-year-2-of-generative-ai"
-    ampWebUrl: "https://www.govtech.com/education/higher-ed/opinion-higher-education-entering-year-2-of-generative-ai?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/opinion-higher-education-entering-year-2-of-generative-ai?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 76
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/50e74b7/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F41%2F5a00b53049eebb276280f1f7f796%2Fgenerative-ai.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Build a centralized monitoring and reporting solution for Amazon SageMaker using Amazon CloudWatch"
     excerpt: "In this post, we present a cross-account observability dashboard that provides a centralized view for monitoring SageMaker user activities and resources across multiple accounts. It allows the end-users and cloud management team to efficiently monitor what ML workloads are running, view the status of"
     publishedDateTime: 2023-08-10T14:48:27Z
@@ -173,20 +157,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-08/Screenshot%202023-08-09%20at%2010.42.29.png"
         width: 488
         height: 294
-        isCached: true
-  - title: "4 most promising healthcare generative AI startups, per CB Insights"
-    excerpt: "Discover the 4 most promising generative AI startups in healthcare, as identified by CB Insights. Learn about Aqemia, Hippocratic AI, Navina, and Subtle Medical."
-    publishedDateTime: 2023-08-08T21:37:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/4-most-promising-healthcare-generative-ai-startups-per-cb-insights.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
         isCached: true
   - title: "Tackling Healthcare’s Biggest Burdens with Generative AI"
     excerpt: "Spread the loveIn recent years, the healthcare industry has faced numerous challenges. From managing the overwhelming patient data to combating the increasing prevalence of chronic diseases, these burdens have put immense pressure on medical professionals and healthcare systems."

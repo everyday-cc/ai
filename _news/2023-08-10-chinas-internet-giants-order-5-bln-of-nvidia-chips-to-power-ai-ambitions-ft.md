@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/chinas-internet-giants-order-5-
 webUrl: "https://www.reuters.com/technology/chinas-internet-giants-order-5-bln-nvidia-chips-power-ai-ambitions-ft-2023-08-09/"
 type: article
 quality: 80
-heat: 290
+heat: 280
 published: true
 
 provider:
@@ -109,15 +109,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Nvidia boosts its 'superchip' Grace-Hopper with faster memory for AI"
-    excerpt: "Nvidia announced a desktop software program called AI Workbench to more easily containerize neural net models on local workstations to stage them for the cloud."
-    publishedDateTime: 2023-08-08T19:31:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-boosts-its-superchip-grace-hopper-with-faster-memory-for-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "ODMs see Nvidia GPU shortage curb AI server shipments"
     excerpt: "Wiwynn, and Giga Computing have experienced delays in fulfilling AI server orders due to the ongoing GPU shortage at Nvidia, according to industry sources.."
     publishedDateTime: 2023-08-11T01:17:00Z

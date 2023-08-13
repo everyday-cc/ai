@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/technology-66465230"
 webUrl: "https://www.bbc.com/news/technology-66465230"
 type: article
 quality: 64
-heat: 86
+heat: 84
 published: true
 
 provider:
@@ -25,7 +25,7 @@ topics:
 related:
   - title: "IBM's prototype 'brain-like' chip promises greener AI"
     excerpt: "Tech major IBM has said that its prototype 'brain-like' chip could make artificial intelligence (AI) more energy efficient."
-    publishedDateTime: 2023-08-13T10:15:00Z
+    publishedDateTime: 2023-08-13T15:45:00Z
     webUrl: "https://www.thehansindia.com/technology/tech-news/ibms-prototype-brain-like-chip-promises-greener-ai-815332"
     type: article
     provider:

@@ -66,22 +66,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI just admitted it has a bot that crawls the web to collect AI training data. If you don't block GPTbot, that's self-sabotage."
-    excerpt: "AI scraping bots are threatening the web's grand bargain. OpenAI's GPTbot crawler is being blocked by online content creators."
-    publishedDateTime: 2023-08-08T21:10:00Z
-    webUrl: "https://www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://i.insider.com/64d2a8797d2e90001946b1bc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Learn to create a ChatGPT AI bot with this course bundle"
     excerpt: "You may have experimented with ChatGPT, and found it to be a useful tool on its own for work, school, or personal projects. But if you take the opportunity to study even basic coding, you can expand what you can do with AI simply by customizing your own chatbot ."
     publishedDateTime: 2023-08-09T18:23:00Z
@@ -91,34 +75,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "Nvidia unveils new chip that will bring down cost of running ChatGPT and other AI models"
-    excerpt: "Nvidia has revealed its next-generation Grace Hopper platform, featuring the world's first HBM3e processor for generative AI. The system has a single"
-    publishedDateTime: 2023-08-08T22:39:00Z
-    webUrl: "https://www.headlinestoday.in/technology/nvidia-unveils-new-chip-that-will-bring-down-cost-of-running-chatgpt-and-other-ai-models-587942910.html"
-    type: article
-    provider:
-      name: headlinestoday
-      domain: headlinestoday.in
-    quality: 45
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/sites/headlinestoday/resources/images/headlinestoday_fb.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "How to add ChatGPT to Visual Code Studio for AI coding"
-    excerpt: "One of the most notable features of the ChatGPT Genie AI extension is its ability to utilize Azure OpenAI Service deployments. This allows users to harness the power of Azure’s cloud computing capabilities, enhancing the performance and efficiency of the ..."
-    publishedDateTime: 2023-08-08T20:58:00Z
-    webUrl: "https://www.geeky-gadgets.com/add-chatgpt-to-visual-code-studio/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-add-ChatGPT-to-Visual-Code-Studio.jpg"
-        width: 700
-        height: 449
-        isCached: true
   - title: "Tel Aviv Hospital First Ever To Use AI Intake Including ChatGPT"
     excerpt: "Sourasky is the first hospital in the world to integrate an AI chatbot into its triage process, using the tool from Israeli startup Kahun"
     publishedDateTime: 2023-08-10T06:10:00Z
@@ -198,15 +154,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Why ChatGPT just might save the humanities"
-    excerpt: "Not surprisingly, the release of ChatGPT has produced a host of concerns about its potentially harmful effects on society. In higher education, commonly cited concerns center on threats to"
-    publishedDateTime: 2023-08-08T20:55:00Z
-    webUrl: "https://www.virginiabusiness.com/article/why-chatgpt-just-might-save-the-humanities/"
-    type: article
-    provider:
-      name: Virginia Business
-      domain: virginiabusiness.com
-    quality: 4
   - title: "You already use ChatGPT to make life easier. Now try using AI chatbots for better sex, a sexologist says."
     excerpt: "Dr. Amy Marsh, sexologist and AI chatbot beta tester, spoke to Insider about the real-life benefits of sexting a chatbot."
     publishedDateTime: 2023-08-12T09:30:00Z

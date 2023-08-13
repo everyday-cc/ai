@@ -95,6 +95,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "Google’s AI ambassador walks a fine line between hype and doom"
+    excerpt: "it fired well-known AI ethics researcher Timnit Gebru after she published a paper arguing the company’s AI could be infected by racism and sexism due to the data it was trained on. Meanwhile ..."
+    publishedDateTime: 2023-08-10T10:36:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/08/09/google-james-manyika-ai-existential-threat/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YLO7VQUHETWL4HH44SEJT3VZWA_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The role of Artificial Intelligence in robotic-assisted surgeries – Harnessing the power of data and machine learning"
     excerpt: "In recent years, the healthcare industry has undergone a remarkable transformation owing to the integration of artificial intelligence (AI) into various aspects of medical practice. Among the many groundbreaking developments,"
     publishedDateTime: 2023-08-12T11:00:00Z

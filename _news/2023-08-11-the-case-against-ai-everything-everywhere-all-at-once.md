@@ -7,8 +7,8 @@ originalUrl: "https://time.com/6302761/ai-risks-autonomy/"
 webUrl: "https://time.com/6302761/ai-risks-autonomy/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Time
@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "These 3 Skills Can Help Everyone Take Advantage Of The Coming AI Era"
-    excerpt: "Leaning into professional skills and what makes us human is the secret to unlocking the full potential of artificial intelligence at work."
-    publishedDateTime: 2023-08-08T22:00:00Z
-    webUrl: "https://www.forbes.com/sites/markcperna/2023/08/08/these-3-skills-can-help-everyone-take-advantage-of-the-coming-ai-era/"
-    ampWebUrl: "https://www.forbes.com/sites/markcperna/2023/08/08/these-3-skills-can-help-everyone-take-advantage-of-the-coming-ai-era/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcperna/2023/08/08/these-3-skills-can-help-everyone-take-advantage-of-the-coming-ai-era/amp/"
+  - title: "Zoom Is Using You to Train AI. So Will Everyone Else"
+    excerpt: "The tech company caught heat for feeding customer data into its machine learning systems — but they are not alone"
+    publishedDateTime: 2023-08-10T00:00:00Z
+    webUrl: "https://www.rollingstone.com/culture/culture-news/zoom-ai-personl-data-1234802844/"
+    ampWebUrl: "https://www.rollingstone.com/culture/culture-news/zoom-ai-personl-data-1234802844/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-news/zoom-ai-personl-data-1234802844/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c8261d4aa5c2f7a1c6f9a7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.rollingstone.com/wp-content/uploads/2023/08/Zoom-AI.jpg?crop=0px%2C134px%2C1800px%2C1014px&resize=1600%2C900"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "2Jcc9cLUquMPjCLItHweeumEyy/BBKTGQMBPkSnxR+y2LyO+z03bYTnHqo12CunQe5ooy6KXyAfQySPowx+JTXp/RYZ+UsY3S1bpNM0y5e7ayZtpLMmo8Il8a/Vi1EDO5OOih9yZo7d/l+yI9i1uTS9WEl3gLpr3f33UUxYqnBbtcuPsVEaQS7n2hWhu4siT5AxwCTC26fSz7FOmBHoit642BM4K+Rilq8jAF9LBvuf+19V7UW4sDn7lZseoHF05QeI9dypxMynUDhS1C8OLLB8v/4+czUh65Dh0IJfVxlK3/1Yz6iF2Q7ltgCmeBm0mouJFsN+9sS7TEitA/gDAVwz6mPlAG44XGuMs9kma+mU=;hriBL7FtIETVmzen2kMCDw=="

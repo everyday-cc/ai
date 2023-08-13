@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generativ
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
 type: article
 quality: 68
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "SIGGRAPH 2023: NVIDIA Keynote Highlights"
-    excerpt: "Discover NVIDIA's latest advancements in generative AI platforms, industrial digitization, GPUs and more at the SIGGRAPH Conference 2023."
-    publishedDateTime: 2023-08-08T22:06:00Z
-    webUrl: "https://www.techrepublic.com/article/siggraph-2023-nvidia-keynote/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr080723-siggraph-2023-nvidia-keynote.jpg"
-        width: 1400
-        height: 934
-        isCached: true
   - title: "Nvidia’s FlexiCubes uses generative AI to create 3D meshes"
     excerpt: "Nvidia has launched FlexiCubes, a new way to use AI to generate 3D meshes for a wide range of 3D applications."
     publishedDateTime: 2023-08-11T13:01:00Z

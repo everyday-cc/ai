@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2023/08/10/9862721.htm"
 webUrl: "https://it.tmcnet.com/news/2023/08/10/9862721.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,33 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Investing in Artificial Intelligence Stocks: Things You Have to Know"
+    excerpt: "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have."
+    publishedDateTime: 2023-08-10T05:15:00Z
+    webUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html"
+    ampWebUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 61
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Five Things You Need to Know to Start Your Day"
+    excerpt: "US imposes restrictions on investments in China. A debt crisis is brewing at Country Garden. Rice soars to highest price in 15 years. Here’s all you need to know today."
+    publishedDateTime: 2023-08-09T23:35:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-09/five-things-you-need-to-know-to-start-your-day-ll4dcfcw"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 32
 
 secured: "Y5IWLDgCFO3/gBGwMDvyD5LwcGSkf8wUKV0m6XpznyEoWkRbEZDro5POrY1xRVVxcv9DoQv5puh6x49qKdIvYUWUCZqxWECfHVQmJI1jTKjgULnIaUR8FixGSGc8rXZhdqMVUgXbdCQ7zewCmrkOJplcE1d/qF6KMfDKdbAl2pm8twiirt9koPs21ggevZdx3c+h9mkIj00nnGri+LAoaqMvB85HijY3B8K8kgKMjiDwXTLLo6kmOhumS+RZXJYt+SZJrMNo5A3ZalYcD1+LdT7AQK6bbEbeZAF4VBECZr/xp0cpsYllR/0IZQMcGYFtwTRU3InFBeT1I3nt9ycuBdSfPf9He/uB38tFvPOu0Jc=;I9UMpJ64GcDvM+Hpd4WGog=="
 ---

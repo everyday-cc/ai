@@ -67,15 +67,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Nvidia set to hop AI forward with next-gen Grace Hopper Superchip"
-    excerpt: "One of today's biggest Nvidia announcements is a new version of the GH200 Grace Hopper Superchip, powered with next-generation HBM3e memory."
-    publishedDateTime: 2023-08-08T19:18:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-set-to-hop-ai-forward-with-next-gen-grace-hopper-superchip/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
   - title: "Nvidia Unveils Upgraded AI Chips To Enhance Generative AI Applications"
     excerpt: "The company introduced a new configuration for its Grace Hopper Superchip, aiming to boost the capabilities of generative AI applications, , nvidia, Grace Hopper Superchip, Generative AI"
     publishedDateTime: 2023-08-09T05:24:00Z

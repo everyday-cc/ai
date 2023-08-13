@@ -1,44 +1,29 @@
 ---
 category: news
-title: "Fiction writers fear the rise of AI, but also see it as a story to tell"
-excerpt: "Crime writer Jeffrey Diger, known for his thrillers set in contemporary Greece, is working on a novel touching upon AI and the metaverse, the outgrowth of being “continually on the lookout for what’s percolating on the edge of societal change,” he said."
-publishedDateTime: 2023-08-13T10:11:00Z
-originalUrl: "https://www.ksat.com/entertainment/2023/08/13/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell/"
-webUrl: "https://www.ksat.com/entertainment/2023/08/13/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell/"
+title: "Fiction Writers Fear The Rise Of AI, But Also See It As a Story To Tell"
+excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity. More than 10,000 of them endorsed an open letter from the Authors Guild this summer,"
+publishedDateTime: 2023-08-13T15:51:00Z
+originalUrl: "https://www.wccbcharlotte.com/2023/08/13/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell/"
+webUrl: "https://www.wccbcharlotte.com/2023/08/13/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell/"
 type: article
-quality: 39
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: KSAT
-  domain: ksat.com
+  name: WCCB
+  domain: wccbcharlotte.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SVYPNIGDTBHIVLF5NRIOFWCMG4.jpg?_a=ATAPphC0"
-    width: 700
-    height: 519
+  - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2023/08/f/y/i-am-code.jpg"
+    width: 900
+    height: 579
     isCached: true
 
 related:
-  - title: "In the season of AI, writers are feeling the heat"
-    excerpt: "Never in a million years could someone have believed that AI or robots would write poetry, paint, make music, etc"
-    publishedDateTime: 2023-08-10T06:52:00Z
-    webUrl: "https://newsmeter.in/top-stories/in-the-season-of-ai-writers-are-feeling-the-heat-716206"
-    type: article
-    provider:
-      name: newsmeter
-      domain: newsmeter.in
-    quality: 39
-    images:
-      - url: "https://newsmeter.in/h-upload/2023/08/10/352126-whatsapp-image-2023-08-10-at-121338-pm.jpg"
-        width: 753
-        height: 407
-        isCached: true
   - title: "Fiction writers fear the rise of artificial intelligence, but also see it as a story to tell"
     excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity."
     publishedDateTime: 2023-08-13T10:20:00Z
@@ -54,6 +39,6 @@ related:
         height: 1897
         isCached: true
 
-secured: "8uMwrfXadi8SOiMpMtWMdr5ZmR6+cYbFdg8QAhovqVynoJULVHa47JjpJ/uJQ/sYU4NM/xAFQo5MOTZFIk0HdGkrns9+sOaky7/CBZylHXlLAa7xyZS0kuGHvjXkUcDfcLTw9YRchFUMnJkLnUuuDJqY47aU+Lmjdh1r/mZE09PN/5pOikWMTPggbOCQ4RGT97TqMfEieimQP9k4D5ZjcPq9QXAzQ/tcRdS1LhIeeDkena2a24lLXBrj1pM8jhOgm+F0+p5Snp+pElEAmIEYXszRyO1tp1bVtcHlTFJyw8uMOdp1kCyui0LJjsnkmeAm89Wy2SqbqQIAlA6hjXQY/BEuN5GdwEa/T2pUaB4B8hs=;zmzPURaoHCxDwtTxzCRvLw=="
+secured: "jaRE2moMzoYBepd697e8PER8S5NNFaXap7LJulladusH8XGbEaj2VtyB0NayRfKcMJ6W+hyDFSehMc+TBZ1qBpTfepYY/eRBwfh+GHvYcWRQQXVRwblPqb25q4Foi5bfnPJKEHIoSUxQnlq2g0Cu74nX5RUd081yKVawOkKksCGKiEat91dxeBMgZc8/HQ+WCSQ2tUv+DMOE1iRcu8m9gyM7a3JUoDCQA4KGyVtbtAxIiLRhf0U6HqlVUzUubWte5AalgOY7JfsBGIoMVb4O0kVfmRGYorkzbf6fmiMCMRh7Cczce//DmIFu04C1ejpCBqbVf1RdSOXMzNbvDB57dcFjd1REhr7Eqc48POYnkis=;yRIKFvPnaC5iO1kIoGeqKw=="
 ---
 

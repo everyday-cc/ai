@@ -8,8 +8,8 @@ webUrl: "https://www.jamaicaobserver.com/business/artificial-intelligence-econom
 ampWebUrl: "https://www.jamaicaobserver.com/business/artificial-intelligence-economic-ally-or-adversary/amp/"
 cdnAmpWebUrl: "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/business/artificial-intelligence-economic-ally-or-adversary/amp/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://imengine.public.prod.jam.navigacloud.com/?uuid=B2C55EA0-B4A6-4976-B9AB-5776161A65E3&function=fit&type=preview"

@@ -851,34 +851,34 @@
     {
       "path": "_news/2023-08-04-deep-learning-for-new-protein-design.md",
       "title": "Deep learning for new protein design",
-      "excerpt": "image: Deep learning methods have been used to augment existing energy-based physical models in ‘do novo’ or from-scratch computational protein design, resulting in a 10-fold increase in ...",
+      "excerpt": "Deep learning methods have been used to augment existing energy-based physical models in 'do novo' or from-scratch computational protein design, resulting in a 10-fold increase in success rates ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/997655",
-      "originalUrl": "https://www.eurekalert.org/news-releases/997655",
+      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230803213837.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230803213837.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8bb6c875-768d-423a-8ebc-f51fff6be32e/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 244,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T11:50:00-07:00",
+      "publishedDateTime": "2023-08-04T05:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

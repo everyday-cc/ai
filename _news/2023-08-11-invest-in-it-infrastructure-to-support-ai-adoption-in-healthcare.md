@@ -9,7 +9,7 @@ ampWebUrl: "https://healthtechmagazine.net/article/2023/08/invest-it-infrastruct
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/08/invest-it-infrastructure-support-ai-adoption-healthcare?amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://static.independent.co.uk/2023/08/10/00/0a48a35067bb751bb5abd6562da587f9Y29udGVudHNlYXJjaGFwaSwxNjkxNjc4NzY3-2.69139511.jpg?quality=75&width=1200&auto=webp"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Aptos Labs taps into Microsoft’s AI infrastructure to accelerate Web3 adoption"
+    excerpt: "Aptos Labs and Microsoft have announced a partnership that could see developers leverage Microsoft’s AI tech to boost Web3 adoption."
+    publishedDateTime: 2023-08-09T13:41:00Z
+    webUrl: "https://coinjournal.net/news/aptos-labs-taps-into-microsofts-ai-infrastructure-to-accelerate-web3-adoption/"
+    type: article
+    provider:
+      name: Internet of People
+      domain: coinjournal.net
+    quality: 50
+    images:
+      - url: "https://coinjournal.net/wp-content/uploads/1970/01/1668682922828-56020534-38b6-4f96-8028-c48dac595657.jpg"
+        width: 500
+        height: 282
         isCached: true
 
 secured: "YquKXN+wziL7tLCmB+awQWxalj0RdluoUnfN3+os/gtIcsNfdFZHGmV8lFj1xGTXE7+B/GK4zLtOCqvBLPPrrclggPy09TM02nS7HKTsZ77Og4hHr9MUPaW6m87HBf4Gs9rKf415Tv8FLb8oXjGEEZS6UIzBTWVLQ1OlUyL3t4kYQ6WFLatjCH4Snz8YROQ8GcXag2ZmVrUFwaalyEeSKbZDGkoCzPvIyvwzFP4o4u4klFBf1B7Qqc+3O+gvsLiDTNmfmL3AyrxKsQh0/Px89mD06e/iHrzeAp3qaPpE5XR2e13TdWznU2zmqDmc/MpY5JpGwfw0SqraaNnT6oYSfHvASFKiF/l9ytcw0dmJrfgjNk9bSIjZQTyKbiakQ+gbBtJim66QytMz109LihZAFF80XLSXBfXeR3mn2XEWtTgtEKKqF94/4GQSXEqmz+tl5BFkwsg5CNvWLllyNtRFjDBwoFAbB6Gy8VujSW9HDa3XDuOXRaFOynPVl09AkQKAx7mK+Wu2S7YL3ZWpMQ5p+w==;6/iULN6pO0jDYgRBZURQNA=="

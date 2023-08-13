@@ -80,6 +80,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "HOW AI IMPACTS TEACHING FUTURE FINANCIAL LEADERS"
+    excerpt: "Students need to learn how to use AI and ChatGPT properly, understand AI’s limitations and know when they can appropriately use AI."
+    publishedDateTime: 2023-08-13T13:25:00Z
+    webUrl: "https://www.forbes.com/sites/stevenwasserman/2023/08/13/how-ai-impacts-teaching-future-financial-leaders/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Small businesses using AI are loving it"
     excerpt: "A new survey finds that more than 90% of small business owners using artificial intelligence tools like ChatGPT say AI has made their businesses more successful."
     publishedDateTime: 2023-08-09T09:00:00Z
@@ -112,15 +121,6 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 19
-  - title: "The Artificial Intelligence Contribution to Eating Disorders"
-    excerpt: "Artificial intelligence has an eating disorder problem. Pro-anorexia chatbots are a mere consequence of some of the best tech-funded companies not doing enough to prevent the circulation of misleading"
-    publishedDateTime: 2023-08-08T22:00:00Z
-    webUrl: "https://omaha.com/life-entertainment/nation-world/technology/the-artificial-intelligence-contribution-to-eating-disorders/video_89389748-9c2e-55ff-88f5-8193dfb22db3.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 17
 
 secured: "76F+nhDpkRIdEvGxQlsd6sf3Z1RNnNhhvJBq6pN6HWT1ndw0xdlHK5yVC7yGrA8xaCc1dV7gYcEJEC8reAFbvtIVmEpfwrVjC/jExjWEJ9lzUduQjjJNb9a/jUkW4FnsKDP6jn+aRlvd9ohEPiAGjGvguv+aihZJR+uqdldkYwX2ECaTMTg+Wnblxw53wRoh/02/9zadzw0lAUa0mBs7JZtslIo9F4D1Es0nHqlBHamDuIbd5qWCyXeXgHSPB7KNHwMc5bv6nycs+uX+QoY98X212CC7T390i35s7D2+HirOqapbbh6aozBlK8FhKJvuMnHyrtcmMTuQ5VW5Mz+NQKnESjzgjlIIv8drw1F8rNifnTCe53nSy7owF81qnTpKlp8xZQOgJ6zx8UkNhK118k34KlJnzOOtCZFzFcbylLA1C1yehAcMznBQ8uD27js8W5ekkUpPMAOFiGpTnP3EdKRo2Bt0mG0Fs3nBgk/p8Ew2uLsiAB8AAMExwvXYHLGyV8COttced5HkIh3SjY6YfQ==;8zlqAU5PFNqzFty1h8nTCA=="
 ---

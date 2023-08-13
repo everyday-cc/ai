@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google’s AI ambassador walks a fine line between hype and doom"
+    excerpt: "it fired well-known AI ethics researcher Timnit Gebru after she published a paper arguing the company’s AI could be infected by racism and sexism due to the data it was trained on. Meanwhile ..."
+    publishedDateTime: 2023-08-10T10:36:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/08/09/google-james-manyika-ai-existential-threat/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YLO7VQUHETWL4HH44SEJT3VZWA_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "WCTC To Offer New Certificates In Artificial Intelligence And Data Analytics"
     excerpt: "Waukesha County Technical College announced plans to offer new certificates in the fall about artificial intelligence and data analytics."
     publishedDateTime: 2023-08-10T18:49:00Z

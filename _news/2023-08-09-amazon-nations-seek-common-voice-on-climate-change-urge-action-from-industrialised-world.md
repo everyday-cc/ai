@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/headlines/2552122-amazon-nation
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2552122-amazon-nations-seek-common-voice-on-climate-change-urge-action-from-industrialised-world?amp"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon nations seek common voice on climate change, urge developed world to help protect rainforest"
-    excerpt: "Leaders from South American nations that are home to the Amazon are challenging the developed world to do more to help stop massive destruction of the world’s largest rainforest"
-    publishedDateTime: 2023-08-08T22:06:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/amazon-rainforest-countries-open-summit-belem-brazil-102097489"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 45
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_4e68ebf7f6c719d779ed726cc4f0c5dc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Amazon nations seek a common voice on climate change and urge action from the industrialised world"
     excerpt: "Read more about Amazon nations seek a common voice on climate change and urge action from the industrialised world on Devdiscourse"
     publishedDateTime: 2023-08-09T12:30:00Z
@@ -101,6 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon nations seek common voice on climate change, urge developed world to help protect rainforest"
+    excerpt: "It’s been 14 years since the eight countries of the Amazon region convened in a summit of the Amazon Cooperation Treaty Organization."
+    publishedDateTime: 2023-08-09T00:57:00Z
+    webUrl: "https://apnews.com/article/belem-amazon-rainforest-summit-brazil-environment-crime-4e68ebf7f6c719d779ed726cc4f0c5dc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
 
 secured: "fMaYF3xN5h1q2AhZVyH+AuSEZib7FEBziZ9RfddhDdDoKbyPp5Mlcm5ST1CLafEbo3Rsv4ojq/Q9HmtTSYDEDvx21ny7I1vta5XrpwUBCeEOnYUuuUWUKi9ASH2s9pv0bzishVlgI4HcdErcojN0GJxBYsJuVGXFEEkQL3iTkLfprBF8rLkW/eqS3RLYqvtCnLGjb0rlh44hskX3kftyvETS611vmVvefulLp7TT1wnvZyZLhPSupt7rb1xoK7tLbuxQ2qS5dGcPuzFfjSI/GhaebG9gAHFjVOzNnnW1nxJ009FgsMuPPG4dA13NCGy4V+iOYzIkfZQjyr9NFH5MyFpm0023dF8RFThpag20hXA=;X9mkgE6nFmHqqJidMqzfCw=="
 ---

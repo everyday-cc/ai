@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-ea
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html"
 type: article
 quality: 98
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Find the Next Nvidia: 3 Must-Watch AI Stocks"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) shares took many investors by surprise in 2023."
-    publishedDateTime: 2023-08-08T21:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/find-the-next-nvidia-3-must-watch-ai-stocks-1032531041"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Nvidia improves AI processor"
     excerpt: "Grace Hopper superchip increases capacity and speed Nvidia announced an updated AI processor that gives a jolt to the chip's capacity and speed. Nvidia  told the gathered throngs at the Siggraph conference in Los Angeles that its Grace Hopper superchip,"
     publishedDateTime: 2023-08-09T09:52:00Z

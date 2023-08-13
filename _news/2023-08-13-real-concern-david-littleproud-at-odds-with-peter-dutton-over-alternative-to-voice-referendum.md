@@ -2,17 +2,17 @@
 category: news
 title: "‘Real concern’: David Littleproud at odds with Peter Dutton over alternative to Voice referendum"
 excerpt: "The Coalition is split on what they would take to the next election should the Voice to parliament referendum fail."
-publishedDateTime: 2023-08-13T03:40:00Z
-originalUrl: "https://www.news.com.au/national/politics/real-concern-david-littleproud-at-odds-with-peter-dutton-over-alternative-to-voice-referendum/news-story/3f2ec39edeb1c67920ddcf9858a3e337"
-webUrl: "https://www.news.com.au/national/politics/real-concern-david-littleproud-at-odds-with-peter-dutton-over-alternative-to-voice-referendum/news-story/3f2ec39edeb1c67920ddcf9858a3e337"
+publishedDateTime: 2023-08-13T13:11:00Z
+originalUrl: "https://www.theaustralian.com.au/breaking-news/real-concern-david-littleproud-at-odds-with-peter-dutton-over-alternative-to-voice-referendum/news-story/3f2ec39edeb1c67920ddcf9858a3e337"
+webUrl: "https://www.theaustralian.com.au/breaking-news/real-concern-david-littleproud-at-odds-with-peter-dutton-over-alternative-to-voice-referendum/news-story/3f2ec39edeb1c67920ddcf9858a3e337"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Couriermail
-  domain: news.com.au
+  name: The Australian
+  domain: theaustralian.com.au
 
 topics:
   - Natural Language Processing
@@ -81,6 +81,6 @@ related:
       domain: theaustralian.com.au
     quality: 4
 
-secured: "w+NpW0bDZFsSVDjQVMOAjRRCXPRsjHvXqBC9VC+clh6E2ItuRsRP0oih17rXYTTc3Gk+9hu1AOtycIQMlDiaaUNMaLcl3OdndIcnBaZe/paMJRJlrqyC3TQ5kGf+oIyUTtJCazFleDSI9/rdYk7ZAiikuac0OKq5UPuuLcMvu3f07VmP7BloNGqBfPziJk0jvik8NSfx3rNqIoHrnMeY8c5YD/EGidFn2B4ywhru/eCYm5PtFMRI36ibmrt2LBesKTF0wWk/S1wavNjzixDD+MXkd0tyfF7N81WjAvorw7PwdqKY5Mc1+6aSpJBvNtyzZUm8KmjkNKAUJtvm4kpG+P7e1UnWiTKP4GmtKbudFgo=;xvfV/DCUxF6bvNxedo2USg=="
+secured: "ogsAdUUCVx4PuPFBp3WIIZy+ozjI9aV7E0ru+ERSsA/XA3egXLcsZKJme18Oo3t5g4dyo8Lvi4h5aWBG4dWZpy3Uo9pQb5liO0lF2GOunCCnczqfRxdi1SpOyOiQWVMEqSQ5RjCTPRpisoigc9E0sPlvRFcTgMBIb0gwajyzmPvqIIHjZMo0BKK8TGPEypRiWo9lo75ddGIgdpGCAYKRzitD1S2P73d9OttGTe3lBwxE7qs1oi8ujDgBmfEUFIG97jDQKKa2KylZOgbsVeFFUT087NWGL+Fp90bvrvPMPGI8/+lviDe+HgEu5Rvk0uO+48YG1lQAWq+ely6GaYJVEzrpj3DVPMcaUePbspLPZfPe6uivQSOIas0aCURXDj0l+cI/1+ZLFlkk6OhB2uBCSyUa+Yjb4zZLMbll604awEui9m2Wm8OHm9HGQYI5dwQFnhF29eZq29iyoBCTYH/1B/1Y5/ezul1wYp+PIVkNngahX81tZ3Cg1E1NLwq9X0YQK4w8vEDQLKypxKWkw2cYPQ==;ZBcO0S7agqgx/J+vfcHRPA=="
 ---
 

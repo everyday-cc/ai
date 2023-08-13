@@ -71,20 +71,6 @@ related:
         width: 1000
         height: 417
         isCached: true
-  - title: "Kognitos Launches the Industry’s Most Advanced Generative AI Automation Platform"
-    excerpt: "Kognitos has unveiled its latest updates to its generative AI automation platform which now enables business users to"
-    publishedDateTime: 2023-08-08T20:03:00Z
-    webUrl: "https://www.datanami.com/this-just-in/kognitos-launches-the-industrys-most-advanced-generative-ai-automation-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/Kognitos-300x265.png"
-        width: 300
-        height: 265
-        isCached: true
   - title: "Generative artificial intelligence in the hospitality and tourism industry"
     excerpt: "Between the boundless potential and the grim peril of artificial intelligence is an ocean of possibilities so vast that its enormity alone can douse research."
     publishedDateTime: 2023-08-10T13:01:00Z

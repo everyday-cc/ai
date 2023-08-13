@@ -78,20 +78,6 @@ related:
         width: 1000
         height: 417
         isCached: true
-  - title: "Kognitos Launches the Industry’s Most Advanced Generative AI Automation Platform"
-    excerpt: "Kognitos has unveiled its latest updates to its generative AI automation platform which now enables business users to"
-    publishedDateTime: 2023-08-08T20:03:00Z
-    webUrl: "https://www.datanami.com/this-just-in/kognitos-launches-the-industrys-most-advanced-generative-ai-automation-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/Kognitos-300x265.png"
-        width: 300
-        height: 265
-        isCached: true
 
 secured: "svazXDP0zN7bfjkj93L32Qra3pWSF1dzhY+ozEStetXESUyPQTg97Gv3ruo/Qw/ER/FQdhpZTuTwi40GKQCEpSBkg1qNUAfvV3JzMPOGNFcsfRplGpACfQAPGncL9Sxsw/pqNjK5w792me0UwyhKYD3c5WzPhGJHLm6SlV74u3JeHBi5lgJvBDvlF3cCzCFf5h8kKF2RtpjfHFVoqK3zDH3Sevsr4mLSW5GM8uJ0IJjFdDcJnGOQ6+XIYAxiB7wWyMVpuveX7wWubSHUedqcBA8WoCA/MDWNbYqkZ3IOt6K751aVZYy2/rMUKzxvKBY9SPVDNg2Lda7G9fCNCrK3qBxiTkwvYp8wPGLYx4HI/uEP+acTWTHphEGpk6j5b0/Pxs1sO8Sq0wT8HogXs56j4acW23P5qi33ycoh0GR/gn2NcVu3Uyrozg3a9q9Ric/iSjFB+kkA/Rez8oPy24hPzHrRdSzvJ2nVuvjIDAFu+DAlP2JS2E0ucglPqdXoimAju4+taTevivXnbXFWiZpBsg==;cgkaDWsG/lW0rf0fD87pKw=="
 ---

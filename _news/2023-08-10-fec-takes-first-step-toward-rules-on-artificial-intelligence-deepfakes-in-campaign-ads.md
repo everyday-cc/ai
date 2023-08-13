@@ -56,6 +56,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "OPINION | How organisations can navigate AI ethics in SA's regulatory vacuum"
+    excerpt: "This article explores some of the findings, along with strategies and principles that South African organisations can adopt to navigate the AI ethics landscape responsibly, upholding societal trust amidst ongoing technological transformation. The experts ..."
+    publishedDateTime: 2023-08-10T15:56:00Z
+    webUrl: "https://www.news24.com/news24/tech-and-trends/news/opinion-how-organisations-can-navigate-ai-ethics-in-sas-regulatory-vacuum-20230810"
+    type: article
+    provider:
+      name: News24
+      domain: news24.com
+    quality: 51
+    images:
+      - url: "https://cdn.24.co.za/files/Cms/General/d/2643/ceada13bfb174c7f81608ac0173f6e66.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "How To Get AI Regulation Right"
     excerpt: "Effective AI regulation should start with bringing the great minds behind AI to the table—those who possess a sophisticated understanding of AI and its applications."
     publishedDateTime: 2023-08-09T13:00:00Z

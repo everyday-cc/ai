@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Author discovers AI-generated counterfeit books written in her name on Amazon"
-    excerpt: "Upon searching Amazon and Goodreads, author Jane Friedman recently discovered a half-dozen listings of fraudulent books using her name, likely filled with either junk or AI-generated content. Both Amazon and Goodreads resisted removing the faux titles until the author's complaints went viral on social media."
-    publishedDateTime: 2023-08-08T21:09:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/author-discovers-ai-generated-counterfeit-books-written-in-her-name-on-amazon/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/author-discovers-ai-generated-counterfeit-books-written-in-her-name-on-amazon/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/author-discovers-ai-generated-counterfeit-books-written-in-her-name-on-amazon/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/AI_spew_hero_crop-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "Ei59S82zVp8f/va0ljBnE3CoYRItHzVHYpEUXPqcBh8VZ5sAz9CC27+XL6LBFSIlkc+NYrEnfxOb5bQSrrfIe5h00a6q9LMH7s5mLlHP1H7N7tb/JoutJI+VpCaPVG0kbk/KfIrF9cMSsnQOf1jbLDGwV8j9w7DL/ycmnh5l7lr8vgXzzbDavxqt3wHFSIjV8bx7DOZVRvctg0PLH0FB8cowauQDJMn+mjX+ZFBQQmiruWoBV1hCxOiYKZQvTce5exdhcs9/v3tWIrIpqOQf3ZCush6VPGZd3n19zVHrZjWfnnW0Tl7p8GS75EoGGRRdFMA0drh0RJd7iCzhfKc/kZUKXorjN6VfdCTIDVnumbV+qiZMFLOHt2O2FZQdwv8jOkJ58kdYAWmpaUzLhdUIaIWs9dO8UOaGbxQk4i6yh2LMU56XVmffFuOzgLUKXT3TNiiPGRRH+GgxY22e7VXiGGpdqttWMTF3mXwQ+h7HSQNXEIysAQWsaJvXSXK9YHo2PZoq0o+Soz/cJX+zp8tUTA==;KXnwGP/OsFALzscOis5wGQ=="
 ---

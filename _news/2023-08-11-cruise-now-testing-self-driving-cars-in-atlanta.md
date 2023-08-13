@@ -59,20 +59,6 @@ related:
       domain: unite.ai
     quality: 34
   - title: "Cruise now testing self-driving cars in Atlanta"
-    excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."
-    publishedDateTime: 2023-08-08T21:39:00Z
-    webUrl: "https://www.ajc.com/news/atlanta-news/cruise-now-testing-self-driving-cars-in-atlanta/TDNR2DPDRVCNBOK2GVB67RNXPU/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 24
-    images:
-      - url: "https://www.ajc.com/resizer/cYnOP2YAm4f3Lr1PlZArsxWGoqI=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/BAIUNG3E35DOVCQPE4YI5RQ7U4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cruise now testing self-driving cars in Atlanta"
     excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta. While Cruise intends to eventually operate a ride-hailing"
     publishedDateTime: 2023-08-09T20:50:00Z
     webUrl: "https://thebrunswicknews.com/news/business/cruise-now-testing-self-driving-cars-in-atlanta/article_91f6112d-1ac8-51f5-b3d8-8d8b2e7a3f53.html"

@@ -60,20 +60,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "The Pope Doubles Down on AI Concerns"
-    excerpt: "Pope Francis is making his AI concerns clear once again, using this year's World Peace Day to issue a call for AI caution and responsibility."
-    publishedDateTime: 2023-08-08T21:56:00Z
-    webUrl: "https://futurism.com/the-byte/pope-ai-concerns"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
-    images:
-      - url: "https://wp-assets.futurism.com/2023/08/pope.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "T2hPVOAZz2CxoG61wxBYvYwailM+jP4hh0T/nc+wmALF1DWRjBNrUy0hKz3Bc8Qka9PCYK6Q7XBY4AUjgSWqUmxuvZ1KS9MkfcMvNx3h7acMphg7RPrSWZ/IB4EQMX72juVZXsmBK7czmRIp//wyOgjwzRIw3CLL9kiTLI15gfJA9CfIKV/da5sSZvUIDZfyMVcD2s4wd3ow4BtpfZIj1ZD6QyWMQVhYSYD+SueKtYHu/BwvOSwXkYtVeYzOFP/l0h6SQc9j0b/1MoQDheiUQyQzp6Yap18KI+cWXXKp5SA9ldqQoca9/G0c4t2GC0zYpNEVhOFmXylCp3Sdj9ClXyJQlVK74NDDXYrCEWB/nTfysOj2STb4H7y8VjCezojpVUSsLAAPk4+mygdwi5gO31OnY9d2KkcpAhNJ3ymATaX0Y6WFe5j383W6BvQy+E6qzsEhPiOMWLsuPefmsEoKTSS6choTcWJ5D3U9MJ8N2wyHwNrixIVH8i3q4PIRwFqUhgIhDwVDiOLL2u2B6sQXMQ==;fWdZ6i9Uqe4eoB/ZwnBrYA=="
 ---

@@ -85,6 +85,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "HOW AI IMPACTS TEACHING FUTURE FINANCIAL LEADERS"
+    excerpt: "Students need to learn how to use AI and ChatGPT properly, understand AI’s limitations and know when they can appropriately use AI."
+    publishedDateTime: 2023-08-13T13:25:00Z
+    webUrl: "https://www.forbes.com/sites/stevenwasserman/2023/08/13/how-ai-impacts-teaching-future-financial-leaders/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Small businesses using AI are loving it"
     excerpt: "A new survey finds that more than 90% of small business owners using artificial intelligence tools like ChatGPT say AI has made their businesses more successful."
     publishedDateTime: 2023-08-09T09:00:00Z
@@ -108,15 +117,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 29
-  - title: "The Artificial Intelligence Contribution to Eating Disorders"
-    excerpt: "Artificial intelligence has an eating disorder problem. Pro-anorexia chatbots are a mere consequence of some of the best tech-funded companies not doing enough to prevent the circulation of misleading"
-    publishedDateTime: 2023-08-08T22:00:00Z
-    webUrl: "https://omaha.com/life-entertainment/nation-world/technology/the-artificial-intelligence-contribution-to-eating-disorders/video_89389748-9c2e-55ff-88f5-8193dfb22db3.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 17
 
 secured: "qwI+l/L6+WmEl13vw/Dg8BB5ElU9BT6S+7E7L5mKmXHAS32kxXKdn/5gKmu6L3AhrcDB8Tzvh0pPe/2Jh7NgWqGUGL6KKIFkPvBHi9bMcjHJhNniZjuHahI1rih1+EKJKumxF8AWwiS+r3AVTE6BEjn9Rjubv2nizbkd1V2569nKbCQEuiIlbeETsemJpacdDIo0tXtCGuOrxi+vJ3KgGn/shjoXl/urCwYrmU4GHciilIZR5V8416VArBHF8MbuXHs39gqeAPgea23RF1YbXwYem7uc8a8TESGnXS/+HL8fFeVHj6i090IHwB5e35BR93K8mdnong/Bz9mKxS1g5J485WjPJ2f0Z1CTH9SYUPc=;IGBx0xTWWwExILST4PLq4w=="
 ---

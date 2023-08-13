@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://www.commercialintegrator.com/wp-content/uploads/2023/08/AdobeStock_576595621_1000px.jpg"
         width: 1000
         height: 417
-        isCached: true
-  - title: "Kognitos Launches the Industry’s Most Advanced Generative AI Automation Platform"
-    excerpt: "Kognitos has unveiled its latest updates to its generative AI automation platform which now enables business users to"
-    publishedDateTime: 2023-08-08T20:03:00Z
-    webUrl: "https://www.datanami.com/this-just-in/kognitos-launches-the-industrys-most-advanced-generative-ai-automation-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/Kognitos-300x265.png"
-        width: 300
-        height: 265
         isCached: true
   - title: "Generative artificial intelligence in the hospitality and tourism industry"
     excerpt: "Between the boundless potential and the grim peril of artificial intelligence is an ocean of possibilities so vast that its enormity alone can douse research."

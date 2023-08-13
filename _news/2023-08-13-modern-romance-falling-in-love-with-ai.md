@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/08/13/tech/ai-dating-apps/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/13/tech/ai-dating-apps/index.html"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

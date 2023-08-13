@@ -75,6 +75,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "AI Helps Detect Muscle Mass in Head and Neck Cancer Patients"
+    excerpt: "Among individuals diagnosed with head and neck cancer, an AI-driven evaluation of sarcopenia could be conducted at regular intervals during treatment."
+    publishedDateTime: 2023-08-13T14:05:00Z
+    webUrl: "https://www.medindia.net/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://www.medindia.net/health-images/an-artificial-intelligence-accurately-predict.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "4 Generative AI Issues That Are Likely Keeping Judges Up At Night"
     excerpt: "Judges have their task cut out for them when it comes to preparing for generative AI's entry into their courts. In a panel hosted by the Practicing Law Institute, retired judges discussed some of their primary concerns with the advanced technology."
     publishedDateTime: 2023-08-10T22:45:00Z
@@ -103,15 +119,6 @@ related:
         width: 600
         height: 340
         isCached: true
-  - title: "Vital Releases Doctor-to-Patient Translator That Uses AI and LLMs to Transform Medical Jargon Into Simple, Accurate Content for Patients"
-    excerpt: "Vital, a leading artificial intelligence (AI)-driven digital health company, today announced the launch of its AI-powered Doctor-to-Patient Translator, designed to transform highly technical medical terminology into plain language that any patient can understand."
-    publishedDateTime: 2023-08-08T19:36:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861363.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "aYBgLRMzpr3wiS1bQK9HTFpHvdoXx1bBOrEgtZOVr7dOkF2jzIaMMVA7BLdIgOcsqGKkbzLLU504rx3REdbqtBjEPEAQ9uIYrG8rKW30RDNcDlr2s7kGeMyG8B1ma8R2DqP65i6xs5KzjDQwR3GfTg80YsoPcKwu0tMacvXk98vHnyCG5v1txgxnTyWeAZ+qvXgaprPGwQX+hMGu7kCCIANiU1fsQg5qo0PUyKaX66/Vauk+nR526H8JCYUIn1Oq87870dEyqLTpTGbJVqXA193qRJOIkbj+zXmnVqhyEQWJQu8ION7s6oQN2GDWnjHpHta1XKpSs5QxaDpEvUGsObtHqlwKYQELjDty+AHYSC6Bay79vMJgaSnA70VQP2OEsL4vyld0lLv2yMk7lkbFlVSAAGT9mq/qODAAtGgIg4C+K+rXra0atstHhGjbKeVsPBmlWnGhuwznCVALSyX+Ap4ZxQikCtYC1CPugQdOqSbloDTHSvoKy0Vl+/Gs6Do1bLwBGnAzeHS1tvpnEWcmOQ==;v8392Pd9PbxjgZkKrFydAw=="
 ---

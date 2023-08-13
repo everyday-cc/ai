@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "SIGGRAPH 2023: NVIDIA Keynote Highlights"
-    excerpt: "Discover NVIDIA's latest advancements in generative AI platforms, industrial digitization, GPUs and more at the SIGGRAPH Conference 2023."
-    publishedDateTime: 2023-08-08T22:06:00Z
-    webUrl: "https://www.techrepublic.com/article/siggraph-2023-nvidia-keynote/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr080723-siggraph-2023-nvidia-keynote.jpg"
-        width: 1400
-        height: 934
-        isCached: true
   - title: "AI powerhouse Nvidia releases toolkit that allows developers to quickly create, test generative models"
     excerpt: "Nvidia on Tuesday announced the AI Workbench, a new toolkit that will helps developers to more quickly create, test, and customize generative AI models."
     publishedDateTime: 2023-08-10T01:48:00Z

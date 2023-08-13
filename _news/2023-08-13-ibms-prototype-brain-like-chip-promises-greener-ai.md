@@ -2,7 +2,7 @@
 category: news
 title: "IBM's prototype 'brain-like' chip promises greener AI"
 excerpt: "Tech major IBM has said that its prototype 'brain-like' chip could make artificial intelligence (AI) more energy efficient."
-publishedDateTime: 2023-08-13T10:15:00Z
+publishedDateTime: 2023-08-13T15:45:00Z
 originalUrl: "https://www.thehansindia.com/technology/tech-news/ibms-prototype-brain-like-chip-promises-greener-ai-815332"
 webUrl: "https://www.thehansindia.com/technology/tech-news/ibms-prototype-brain-like-chip-promises-greener-ai-815332"
 type: article
@@ -49,6 +49,6 @@ related:
         height: 450
         isCached: true
 
-secured: "hEciKKAI2U85GkqvMCOYlfO+ByQeZi26eu1GnsNcOe1nkxOyGky9nQ4K/geOIX0Sp4k+I4W5jkqwUP69X73KP0JQGU0NNj5XKfeZOCZ7meoKyNU54FQuV6HTChODvO6lDZFjhluGXY+m7aZRPXlHUrElePI9a9OASNkzFOh/rsbwZx42Dd18qg45ubRR3HXBWLhINaIIjq7IBSotbKzPpw1JOSN22sq6qtEnEAKC52dyDUkRMVnd/HLK4zoPCOFaARTvS/pJFpQ/M/dlnHL73IQCGQlZ7Hnr/bVqmrSYXSztt6YQ1jYLSJYpRv0ED+dpsJSbVc0oZ9sMPJXktkv9POMvz/lhDN1I7y4oDCpztT4=;tQus5WUO9eM5atc+XhAQ7g=="
+secured: "3un+sM5rbbTTlWEzdX74wdStkYGy5lnxhmMbi3d0C4AVuI/CWHZqYuJdk58zofxJcP0SJV/7X6gKknSs8B6JxCXeVBrRQlibEY6DbZBpMckdwySBen+CJnbRZeOlzgAYuG1YD5ScaVfZSRdvbKVeNHFojhJXzZ3p7zbFv3+YgNsbYKqE6/ssfp2/KMRWRH9rGUTa/8gEZhy+qbT7sfk0bGTuqHk8roEiBkonwLeBLlnZWqaUQbbIeUshtPK/xCVD7wHrpl8dA3W4APduCrzxSNggkkN1A9p654emYiwW5tRdF60ciEHeHkV8uqgKWMnMv1zgqjknJwqGqvjYNQF3kDeRaeUL7cc/odnRSnwQ/R4=;ofDk8dtyXFHIyZRcIKoTeA=="
 ---
 

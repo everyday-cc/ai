@@ -7,7 +7,7 @@ originalUrl: "https://newsmeter.in/top-stories/in-the-season-of-ai-writers-are-f
 webUrl: "https://newsmeter.in/top-stories/in-the-season-of-ai-writers-are-feeling-the-heat-716206"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fiction writers fear the rise of AI, but also see it as a story to tell"
-    excerpt: "Crime writer Jeffrey Diger, known for his thrillers set in contemporary Greece, is working on a novel touching upon AI and the metaverse, the outgrowth of being “continually on the lookout for what’s percolating on the edge of societal change,” he said."
-    publishedDateTime: 2023-08-13T10:11:00Z
-    webUrl: "https://www.ksat.com/entertainment/2023/08/13/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell/"
+  - title: "How new AI demands are fueling the data center industry in the post-cloud era"
+    excerpt: "Builders, investors and users will benefit from flexible data center infrastructure strategies that can harness AI and foster growth."
+    publishedDateTime: 2023-08-13T15:19:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/how-new-ai-demands-are-fueling-the-data-center-industry-in-the-post-cloud-era/"
     type: article
     provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SVYPNIGDTBHIVLF5NRIOFWCMG4.jpg?_a=ATAPphC0"
-        width: 700
-        height: 519
-        isCached: true
-  - title: "Fiction writers fear the rise of artificial intelligence, but also see it as a story to tell"
-    excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity."
-    publishedDateTime: 2023-08-13T10:20:00Z
-    webUrl: "https://www.wishtv.com/news/entertainment-news/fiction-writers-fear-the-rise-of-artificial-intelligence-but-also-see-it-as-a-story-to-tell/"
-    type: article
-    provider:
-      name: WISH-TV
-      domain: wishtv.com
-    quality: 26
-    images:
-      - url: "https://www.wishtv.com/wp-content/uploads/2023/08/AI_Books_AP23221693062073-scaled.jpg"
-        width: 2560
-        height: 1897
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_artificial_intelligence_and_technology_putting_pressure_1ace7081-0d3c-4538-8525-4aeb0eb8b527.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "FygxNdPVm1IwNoSloO6AMg8tFrnZQdoQlIDFw0q2lkpruOlHvt1s9Yo1y7eCLeRKx45GEM3weYmKHDzjoQPeBrsrc9+PFhyrh1b+4+CZiNEEKKJDKroIZCkvhccq3MVSBjZnmY4NfjSw0awp2ayaWthtMXO+xo2sdjEP4qT+s0fuUtloKhKCevjp20xnqj6ySzvfbK2AR/XLj/vbqjabA+5qQdS2yTSny9ikjEcj256nsXIhyi4LQaOlj7I+5ee9nrcdPBBKsP/N8+oZA73rBsGG8CTq4JhiOxe9007BiZd8Ttl+PJn3yzyz0vUPpeNPfqNBsaA9GzNTJefIy37MIaRxQ3j07JRinDjl4KxPDI9feNKSri9uUB+WP7aUl162r1JiOCkRQaQpkqlxCpUpsB1rURq5sh4ShOJ/o1r711Vfn0jjyUWCG4AcU1brh17Cb/aURLnbba5kZgx5vcADSbYuox6RzdUcdWalXSo1zTieV1GARtpYZNOs1VSCY/ZyGCVj3N6WcfUHCCoLMqnQMQ==;WLibIbfFX5pDB+FjjBWCRA=="

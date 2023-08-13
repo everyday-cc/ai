@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/tiktok-creators-will-need-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tiktok-creators-will-need-to-disclose-ai-generated-content-or-else/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Author discovers AI-generated counterfeit books written in her name on Amazon"
-    excerpt: "Upon searching Amazon and Goodreads, author Jane Friedman recently discovered a half-dozen listings of fraudulent books using her name, likely filled with either junk or AI-generated content. Both Amazon and Goodreads resisted removing the faux titles until the author's complaints went viral on social media."
-    publishedDateTime: 2023-08-08T21:09:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/author-discovers-ai-generated-counterfeit-books-written-in-her-name-on-amazon/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/author-discovers-ai-generated-counterfeit-books-written-in-her-name-on-amazon/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/author-discovers-ai-generated-counterfeit-books-written-in-her-name-on-amazon/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/AI_spew_hero_crop-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Why watermarking AI-generated content won’t guarantee trust online"
     excerpt: "The need for transparency around AI-generated content is clear, but the value of measures like watermarks is not."
     publishedDateTime: 2023-08-09T13:51:00Z

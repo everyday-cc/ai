@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/57387-pope-mulls-over-the-ethics-of-
 webUrl: "https://www.fudzilla.com/news/57387-pope-mulls-over-the-ethics-of-ai"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://dmm0a91a1r04e.cloudfront.net/PulG0FV8kDmdip9zzHuOxjdELCc=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F08%2F10%2Fadc11d76-cf21-4e5d-bd9b-a88977175426_jpg.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "The Pope Doubles Down on AI Concerns"
-    excerpt: "Pope Francis is making his AI concerns clear once again, using this year's World Peace Day to issue a call for AI caution and responsibility."
-    publishedDateTime: 2023-08-08T21:56:00Z
-    webUrl: "https://futurism.com/the-byte/pope-ai-concerns"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
-    images:
-      - url: "https://wp-assets.futurism.com/2023/08/pope.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AI Causes Real Harm. Let’s Focus on That over the End-of-Humanity Hype"
     excerpt: "Effective regulation of AI needs grounded science that investigates real harms, not glorified press releases about existential risks"
