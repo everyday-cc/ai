@@ -184,6 +184,15 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
+    excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence"
+    publishedDateTime: 2023-08-09T16:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Kyndryl and Microsoft team up for generative AI"
     excerpt: "Kyndryl and Microsoft have ramped up their ongoing partnership to focus on boosting generative artificial intelligence among customers."
     publishedDateTime: 2023-08-09T07:51:00Z
@@ -319,15 +328,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 34
-  - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-    excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help clients adopt responsible AI MENLO PARK, Calif.,"
-    publishedDateTime: 2023-08-09T14:35:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/08/09/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 33
   - title: "Exela Technologies, Inc.: Exela Technologies Leverages Generative AI with Microsoft Azure OpenAI Service"
     excerpt: "Exela Technologies, Inc. (NASDAQ: XELA, XELAP), a leader in business processing automation (\"BPA\") today announced its collaboration with"
     publishedDateTime: 2023-08-10T13:07:00Z

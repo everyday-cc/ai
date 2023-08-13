@@ -91,15 +91,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NVIDIA Infuses Grace Hopper Superchip With HBM3e To Supercharge AI Data Center Workloads"
-    excerpt: "Besides the extra capacity, NVIDIA says that the HBM3e version of the Hopper GPU offers a 50% bandwidth improvement, too. That gives the massive parallel processor some five terabytes per second of memory bandwidth,"
-    publishedDateTime: 2023-08-08T18:55:00Z
-    webUrl: "https://hothardware.com/news/nvidia-gh200-hbm3e-edition"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 25
 
 secured: "cUP9to+5fM9ed8vHA6JBqYkGfz4+pS1dhXljDpqvl3MS2HNuO8hzPP5MAQMD0TPF/+kKvg+Qb4WlxvKtGlQEmR8qOykwkoLACu4JvGUib6O6SXxmp5eLnKTWUt3kKdaIrSK1Dy/6ltzavHJqOCNb9xj7RYNuf4g9x0+1X6c6x1maHs8n9nF5SE/+/UPtt6M2zYoDcHkkHdIhzYhLn0wsTnNNEEqNBve8l3GANBWDoPTwwHDwl1Bx+2sTnz0nHKMFzX1QyBz9iE5aIQ1SFwMyxZPoiTx3Z63GgOnI580L8cZk+qzddRJSK8odiSELqvgnh+MIT8S9U0f8rfybZ801I9Avz2U4REEMraCvgHcB2NQ=;dV8FxkmPsOFC7uz0P7HORA=="
 ---

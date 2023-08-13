@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/technology-66465230"
 webUrl: "https://www.bbc.com/news/technology-66465230"
 type: article
 quality: 64
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "IBM's prototype 'brain-like' chip promises greener AI"
+    excerpt: "Tech major IBM has said that its prototype 'brain-like' chip could make artificial intelligence (AI) more energy efficient."
+    publishedDateTime: 2023-08-13T10:15:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/ibms-prototype-brain-like-chip-promises-greener-ai-815332"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 54
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/08/13/1372158-ibm.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "IBM presents ‘brain-like’ chip for more environmentally-friendly AI tools"
     excerpt: "IBM has developed a prototype “brain-like” chip that could lead to less battery-draining artificial intelligence (AI) semiconductors for smartphones."
     publishedDateTime: 2023-08-11T15:37:00Z

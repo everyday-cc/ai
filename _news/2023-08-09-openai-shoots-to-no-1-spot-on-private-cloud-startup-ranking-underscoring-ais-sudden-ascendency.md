@@ -56,15 +56,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "OpenAI's GPTBot Will Scrape Your Website to Train Its AI, Unless You Opt Out"
-    excerpt: "A new web crawler dramatically expands the amount of data OpenAI's models will train on, but the company says you can opt out to prevent it from visiting your website."
-    publishedDateTime: 2023-08-08T18:29:00Z
-    webUrl: "https://www.pcmag.com/news/openais-gptbot-will-scrape-your-website-to-train-its-ai-unless-you-opt"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 44
 
 secured: "A2bGcWKaUjQcewnYdeA8ktW76F1CyGsMlG5juMMQD6hTq2/h71Z1KztLu08iF02gIWDPbqATjfNaC+kuy8lKH9hL6v1ltDUQOUOgjdBBuf51NJO3vdF7pfAo9A0bK/EAJi+p5mTEy4LmrKNrf+18rrGluFbeVV9K6aTDsj9goifPxRfvKptocYW6XR+kGJgvP8AK7jO1uaLE+1vyitkN99WJHxVjn4jQ4BzGFx6Q7K1elXabEbHNESJJxdT5oNsKdVzQId9Yn1K2GI9mj6yDu5/zu6yfkxVtDklqVELASJemS2QfQdq3ljsO4H0F/PXZq4/srWpjn3WqG3AiHUD0Ur21o9Mt1Hs6JYYKqvjSp632ANPf8ygBuO0YfrzbAuJ34dQXYD2GURde8k16cmsnfJTJhSyxOXL7zh7bC5H8Op+DsZqEcYSiQMwUlgFz+14CS3nr3/vU+k1Ep6+sex7nx+GyOIuGKUP5XozGEFe/NeRWSNgxEWOJ98+ezQGoFWYTopPfvJnVBjrMXOAH+/1phg==;xGOwrCN6+IXoWSFGbfK7vg=="
 ---

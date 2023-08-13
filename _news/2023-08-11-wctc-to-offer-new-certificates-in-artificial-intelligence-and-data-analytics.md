@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "7 Companies Leading the Way in Advanced AI and Robotics"
-    excerpt: "The post 7 Companies Leading the Way in Advanced AI and Robotics appeared first on InvestorPlace."
-    publishedDateTime: 2023-08-08T18:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/7-companies-leading-the-way-in-advanced-ai-and-robotics"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 79
   - title: "Combining AI and traditional methods can help us predict air quality"
     excerpt: "Combined models will be more accurate ways to forecast hazardous air quality, particularly during unpredictable events like wildfire smoke."
     publishedDateTime: 2023-08-12T23:00:00Z

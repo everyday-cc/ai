@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-08-machine-learning-method-aid-p
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.amp"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Johns Hopkins Engineers Develop Deep-Learning Technology That May Aid Personalized Cancer Therapy"
+    excerpt: "A team of engineers and cancer researchers from Johns Hopkins has developed a deep-learning technology capable of accurately predicting protein fragments linked to cancer, which might trigger an immune system response."
+    publishedDateTime: 2023-08-13T11:23:00Z
+    webUrl: "https://scitechdaily.com/johns-hopkins-engineers-develop-deep-learning-technology-that-may-aid-personalized-cancer-therapy/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 23
   - title: "Deep-learning technology could help scientists to develop personalized immunotherapies and vaccines"
     excerpt: "Deep-learning technology developed by a team of Johns Hopkins engineers and cancer researchers can accurately predict cancer-related protein fragments that may trigger an immune system response."
     publishedDateTime: 2023-08-09T16:57:00Z
@@ -43,6 +52,6 @@ related:
         height: 480
         isCached: true
 
-secured: "w/6WMX2zKRXQfBC50s5d2A1Jde+RW0CKAfDfVofrc/lJJdguUaVCpZR6l6+RlIqxP6cjdOSJlH1SEl1jUpBrsklAPh8PEJUHvfBGb6RGWlzQ9DS5siJzTZSofo2eVxBKV0sZjT5tlOyZL8dFDm/ktbouM6oipiNOU5MkFbA7Bc+PhekMPAMnH/0wtdARu33XPQqmzS8hZbFHH0K+adNz+GWPO6/eD3Ys+9Y4YURkMaXczUA9/tzr/RY+s5Np1/RhBKqEDgAfJf2KwBcUdJpj1QQqYG9sBZc7Cfh67O50Yrdh/viNWFszruoxu0BOL1+tGHA0b97YkIt/VtvUGTvgePKqHoJBZV2LPNhgM53OJm4=;J0FAseuLC4NG9kPyLSvvYg=="
+secured: "2fh+u8gRZXjt+FMeLAi+QtZK7M3xe4NPyyqAyRxydIPq7KbbtSXpFwj5W1r4c3Z7He1q24Ym3E0YUNRjfZgGpCuebcown9HOOycYcN1/6npetDqshyKMJX6TLsq7T5dDtqSoi1oBkrtm5+PSixhWSw1FdlmzDYvBlgMqpRHinmJDFHr51lvJIBxzz8K2DbHXgpCmXDk1qNpnUvN+nJLA6UBtjD3Uht7iyiPeYYPWH1dZE97hswhfBP2UNtrdR9Z+dZNHhDAbjqfL8nNwjMq9+ucIel2LnTq9duG6vM7mnD698LK1VcZv0rNERcbCPBqQIvKrnSdbCf/hs9Zevo/XEG0yu6px8cExOQErsdF5rU8=;fTnr/ip8V8lt0P45IHVqjQ=="
 ---
 

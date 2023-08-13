@@ -25,153 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia CEO: We bet the farm on AI and no one knew it"
-    excerpt: "It required that we reinvent the hardware, the software, the algorithms. And while we were reinventing CG with AI, we were reinventing the GPU for AI.” While ray-tracing and DLSS are still in the process of being adopted across the diverse and complex ..."
-    publishedDateTime: 2023-08-08T17:53:00Z
-    webUrl: "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/"
-    ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/"
+  - title: "Nvidia flexes generative AI muscle at SIGGRAPH with new GPUs, development software"
+    excerpt: "GPU titan Nvidia doubled down on generative AI at SIGGRAPH this week, unveiling new chips, server designs, and software to fill out its ecosystem of artificial intelligence hardware and systems design products."
+    publishedDateTime: 2023-08-09T21:34:00Z
+    webUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.html"
+    ampWebUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: Network World
+      domain: networkworld.com
+    quality: 68
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/nvidia-siggraph1.jpg?resize=1200,749"
+      - url: "https://images.idgesg.net/images/article/2023/08/nvidia-l40s-100944528-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 749
+        height: 800
         isCached: true
-  - title: "Nvidia Unveils New AI Chip Set to Cut Cost of Running LLMs"
-    excerpt: "Nvidia appears to have turned up the heat on its competitors within the artificial intelligence (AI) hardware space."
-    publishedDateTime: 2023-08-09T08:14:00Z
-    webUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/"
-    ampWebUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
+  - title: "SIGGRAPH 2023: NVIDIA Keynote Highlights"
+    excerpt: "Discover NVIDIA's latest advancements in generative AI platforms, industrial digitization, GPUs and more at the SIGGRAPH Conference 2023."
+    publishedDateTime: 2023-08-08T22:06:00Z
+    webUrl: "https://www.techrepublic.com/article/siggraph-2023-nvidia-keynote/"
     type: article
     provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 74
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 54
     images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/nvidia-ai-chip-llms.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr080723-siggraph-2023-nvidia-keynote.jpg"
+        width: 1400
+        height: 934
         isCached: true
-  - title: "China's internet giants order $5 billion of Nvidia chips to power AI ambitions"
-    excerpt: "Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,000 A800 processors from the U.S. chipmaker to be delivered this year, the FT reported, citing multiple people familiar with the matter."
-    publishedDateTime: 2023-08-10T00:58:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2018/08/nvidiagaminggraphicsgaming-graphics.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Nvidia announces AI Workbench, a new dev tool for building gen AI models on PCs"
-    excerpt: "AI Workbench provides a simple user interface that runs on the developer's machine and connects to HuggingFace, Github and Nvidia's own enterprise portal."
-    publishedDateTime: 2023-08-08T23:00:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-announces-ai-workbench-a-new-dev-tool-for-building-gen-ai-models-on-pcs/"
+  - title: "Nvidia’s FlexiCubes uses generative AI to create 3D meshes"
+    excerpt: "Nvidia has launched FlexiCubes, a new way to use AI to generate 3D meshes for a wide range of 3D applications."
+    publishedDateTime: 2023-08-11T13:01:00Z
+    webUrl: "https://venturebeat.com/ai/nvidias-flexicubes-uses-generative-ai-to-generate-3d-meshes/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_surrounded_by_glowing_green_holographic_code_73d4986d-4889-41b0-9899-deab01c71ff0.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Nvidia unveils an update to a new AI chip that hasn't even shipped yet — an aggressive move to keep its crown"
-    excerpt: "Nvidia sees mounting competition in the AI chip and software markets and has plans to keep innovating and improving its offerings."
-    publishedDateTime: 2023-08-09T18:28:00Z
-    webUrl: "https://www.cnbc.com/2023/08/09/nvidia-unveils-an-update-to-a-new-ai-chip-that-hasnt-even-shipped-yet.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 65
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107278560-1690555294515-gettyimages-1258356004-TAIWAN-COMPUTEX2023-01062023-152JPG.jpeg?v=1691612359&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Not the usual suspects: Nine stocks to profit from AI that aren’t Nvidia or tech mega-caps"
-    excerpt: "Artificial Intelligence has captured mainstream attention over the past year like never before. Here's how smart investors can look for profits away from the crowd."
-    publishedDateTime: 2023-08-11T11:47:00Z
-    webUrl: "https://www.thisismoney.co.uk/money/investing/article-12388443/Not-usual-suspects-Nine-stocks-profit-AI-arent-Nvidia-tech-mega-caps.html"
-    ampWebUrl: "https://www.thisismoney.co.uk/money/investing/article-12388443/amp/Not-usual-suspects-Nine-stocks-profit-AI-arent-Nvidia-tech-mega-caps.html"
-    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/investing/article-12388443/amp/Not-usual-suspects-Nine-stocks-profit-AI-arent-Nvidia-tech-mega-caps.html"
-    type: article
-    provider:
-      name: This is Money
-      domain: thisismoney.co.uk
-    quality: 51
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/08/09/10/74117995-0-image-a-7_1691572000909.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "AI’s business impact to extend far beyond Nvidia"
-    excerpt: "Generative AI could emerge as a $1.3 trillion market by 2032, growing at a 42% compound annual rate, according to BI analyst Mandeep Singh."
-    publishedDateTime: 2023-08-10T21:10:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/ais-business-impact-to-extend-far-beyond-nvidia/"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
     quality: 47
-  - title: "Nvidia’s AI power on full display at SIGGRAPH 2023"
-    excerpt: "Nvidia is the main beneficiary of this year's AI hype. During SIGGRAPH in Los Angeles, the GPU manufacturer revealed that it is only beefing up its"
-    publishedDateTime: 2023-08-10T13:20:00Z
-    webUrl: "https://www.techzine.eu/news/devices/109924/nvidias-ai-power-on-full-display-at-siggraph-2023/"
+  - title: "AI powerhouse Nvidia releases toolkit that allows developers to quickly create, test generative models"
+    excerpt: "Nvidia on Tuesday announced the AI Workbench, a new toolkit that will helps developers to more quickly create, test, and customize generative AI models."
+    publishedDateTime: 2023-08-10T01:48:00Z
+    webUrl: "https://www.foxbusiness.com/fox-news-tech/ai-powerhouse-nvidia-releases-toolkit-allows-developers-quickly-create-test-generative-models"
+    ampWebUrl: "https://www.foxbusiness.com/fox-news-tech/ai-powerhouse-nvidia-releases-toolkit-allows-developers-quickly-create-test-generative-models.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/fox-news-tech/ai-powerhouse-nvidia-releases-toolkit-allows-developers-quickly-create-test-generative-models.amp"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 41
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/nvidia-grace-hopper-superchip.jpg"
-        width: 960
-        height: 540
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4a0ea36e-3f4d-49e4-b13d-11aaad667f80/cb5c08c3-1d34-43c3-9f86-c589b7c36c77/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "China spends big on Nvidia chips"
-    excerpt: "Wants them for its generative AI systems China's internet giants have ordered more than $5 billion of high-performance Nvidia chips to build generative AI systems. Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,"
-    publishedDateTime: 2023-08-11T09:05:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57402-china-spends-big-on-nvidia-chips"
+  - title: "7 Big Announcements Nvidia Made At SIGGRAPH 2023: New AI Chips, Software And More"
+    excerpt: "Nvidia CEO Jensen Huang returned to the annual SIGGRAPH event for the first time in five years to showcase the GPU giant’s “full-stack computing” prowess with a bevy of new chips and software for AI,"
+    publishedDateTime: 2023-08-10T19:54:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/7-big-announcements-nvidia-made-at-siggraph-2023-new-ai-chips-software-and-more"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/7d2e48c471e8e1bbb6222171f23a9353_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "Nvidia Is Down, But AI Chip Juggernaut Not Down For The Count"
-    excerpt: "Nvidia Corp. (NASDAQ: NVDA) skidded 4.72% in heavy turnover on August 9, ending the session below its 50-day moving average for the first time since early January. Shares were essentially flat in after-hours trading."
-    publishedDateTime: 2023-08-11T18:19:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/23/08/33747953/nvidia-is-down-but-ai-chip-juggernaut-not-down-for-the-count"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
-  - title: "China’s internet giants order $5bn of Nvidia chips to power AI ambitions"
-    excerpt: "Baidu, ByteDance, Tencent and Alibaba rush to acquire GPUs amid concern US will soon clamp down on their export"
-    publishedDateTime: 2023-08-09T20:00:00Z
-    webUrl: "https://www.ft.com/content/9dfee156-4870-4ca4-b67d-bb5a285d855c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 33
+      name: CRN
+      domain: crn.com
+    quality: 29
 
 secured: "2LLPQ9Eetej/kxaSc6yk9JWAQZ9NVupre9zWV8F6kWErUbauaJEeM20EEIMd5GsPz5mq1YmwnlnG1mMfIpopEThLl3oksMTTS7+RPnG3d6tiu/OgR52mBDFbDGYj85jczgZDpuHUYrqUJbdm2jnVqcnBzpyOFsRc+GER2NwRM9nSP/eq/u27M8WuzqwlEYhkL9JLE+gtsjk9O0biP8hnw2s+pb43lXI5D+stVPCoB63yc4MTgRRkAZF3YEqEUUlQv8RcgB1z0iw7P8yRbEJDEOVvmwG4sHh7L6dxTKkpGy2R5ECJ8c6qMq5o8MpOsbONgRZQsB7N4aQ7i1r/kEBldIrCfyJTO9VSErgZeZIKIBC/Qt6lOtHFZ3KEMSH+9AZBBE0lEuBWmIoq45s4j8CaUoI7NASWiIWxQuUojA6E+d6CEQlwduqeuL5OCXsOluDqHgA3j3mPnYmyvdQo3IKJyjGHz34kLeWzoHYGCs2KfkrJ6CvmwyBPnsOq83O+FJFbEfZZ8SZnL3B2C61vgDOfOw==;+3s1VcXq1gCOFFZACpon6A=="
 ---

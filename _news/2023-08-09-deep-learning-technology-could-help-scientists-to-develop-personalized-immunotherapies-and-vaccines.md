@@ -41,6 +41,15 @@ related:
         width: 2167
         height: 1522
         isCached: true
+  - title: "Johns Hopkins Engineers Develop Deep-Learning Technology That May Aid Personalized Cancer Therapy"
+    excerpt: "A team of engineers and cancer researchers from Johns Hopkins has developed a deep-learning technology capable of accurately predicting protein fragments linked to cancer, which might trigger an immune system response."
+    publishedDateTime: 2023-08-13T11:23:00Z
+    webUrl: "https://scitechdaily.com/johns-hopkins-engineers-develop-deep-learning-technology-that-may-aid-personalized-cancer-therapy/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 23
 
 secured: "2f+uPSKSRhOzFYtcBBTCVdzml3vz5dadj5PhizBTFKv9itmK1ghQhk9dWurX+y9dJINqnG3ZzCuU2CAcRmb33JUPqR2Z+qX9Rsnmoi4v5nmeTEYBrEQ6D8d0RQ2/CD5esyNaARCVBko+RyCWGFTecJcZUz/+ZVDVaiM+MGkbYQjxkcD9/6FbGbiDhsLbPPwzhH9TowJG4VuWcDGhCsbTVDqgr0i7NVm5SlbpFQ276XdrKCLZcQnMyDU4UuWtW1flUF1nzN0OZG7eMG6z34ZvWVG0cminKPWHHnpmEg+vQJ/nsqRTIVPC8FKlIcDuZSUtwBGEF5luUVGZFxMWDua+OxgYHot9p0jxgCoXCSbtkSk=;0cBV3Req+0KV34y4Co3YTw=="
 ---

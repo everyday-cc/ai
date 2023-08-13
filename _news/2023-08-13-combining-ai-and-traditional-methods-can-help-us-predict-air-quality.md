@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "7 Companies Leading the Way in Advanced AI and Robotics"
-    excerpt: "The post 7 Companies Leading the Way in Advanced AI and Robotics appeared first on InvestorPlace."
-    publishedDateTime: 2023-08-08T18:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/7-companies-leading-the-way-in-advanced-ai-and-robotics"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 79
   - title: "VAST Data Launches its Comprehensive, Robust Data Platform to Support AI and ML Workflows"
     excerpt: "VAST Data, the data platform company for the AI era, is unveiling its data computing platform, engineered to underpin the burgeoning world of AI that rivals the capabilities of other existing data platforms."
     publishedDateTime: 2023-08-09T15:49:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.govconwire.com/2023/08/martin-klein-rejoins-ecs-as-vp-
 webUrl: "https://www.govconwire.com/2023/08/martin-klein-rejoins-ecs-as-vp-of-analytics-and-artificial-intelligence/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,29 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amplitude taps AI to improve data quality, accelerate product analytics"
-    excerpt: "Product analytics company Amplitude debuted new AI features to simplify how companies govern their data and use it to generate insights."
-    publishedDateTime: 2023-08-08T18:57:00Z
-    webUrl: "https://venturebeat.com/ai/amplitude-taps-ai-to-improve-data-quality-accelerate-product-analytics/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Telematics providers improve AI accuracy to combat risky driving behaviors"
-    excerpt: "Verizon Connect launches enhancements to its AI dashcam, including new AI tags for speeding and unfastened seat belt detection."
-    publishedDateTime: 2023-08-09T11:46:00Z
-    webUrl: "https://www.ccjdigital.com/technology/telematics/article/15543878/telematics-providers-improve-ai-accuracy-to-combat-risky-driving-behaviors"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 37
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2023/08/GettyImages_1342002649.6284f2184d42f.64d28cb46d3b9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
     excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Martin Klein has been named vice president of Analytics and Artificial Intelligence (AI). Klein returns to ECS after having previously served as a program manager,"
     publishedDateTime: 2023-08-10T11:20:00Z

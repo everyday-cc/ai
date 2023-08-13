@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-block-openais-new-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "OpenAI's GPTBot Will Scrape Your Website to Train Its AI, Unless You Opt Out"
-    excerpt: "A new web crawler dramatically expands the amount of data OpenAI's models will train on, but the company says you can opt out to prevent it from visiting your website."
-    publishedDateTime: 2023-08-08T18:29:00Z
-    webUrl: "https://www.pcmag.com/news/openais-gptbot-will-scrape-your-website-to-train-its-ai-unless-you-opt"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 44
   - title: "OpenAI Shoots To No. 1 Spot On Private Cloud Startup Ranking, Underscoring AI’s Sudden Ascendency"
     excerpt: "OpenAI’s rise to the top of the ranking in Bessemer's Cloud 100 cohort underscores AI’s shockingly fast ascendency in the tech world."
     publishedDateTime: 2023-08-09T11:00:00Z

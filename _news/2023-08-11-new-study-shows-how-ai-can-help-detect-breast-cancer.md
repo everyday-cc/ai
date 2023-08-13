@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Where AI Can And Can’t Help In Talent Management"
+    excerpt: "There are considerable challenges and potential pitfalls to be aware of when using AI in talent management and HR. This article will explore where AI can benefit and potentially harm talent management efforts."
+    publishedDateTime: 2023-08-13T11:02:00Z
+    webUrl: "https://www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/"
+    ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d4f3db21f52229c2d9eed6/0x0.jpg?format=jpg&crop=2925,1645,x0,y151,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Breast-cancer screening gets a boost from AI"
     excerpt: "Radiologists using an artificial-intelligence (AI) assistant during breast-cancer screening had better chances of detecting cancer than those who did not 1."
     publishedDateTime: 2023-08-11T10:30:00Z

@@ -63,15 +63,6 @@ related:
         width: 800
         height: 338
         isCached: true
-  - title: "Health systems lag on AI strategy"
-    excerpt: "Generative AI can help health systems improve margins, but only 6% of them have a strategy ready, according to a recent report from Bain & Co. Why it matters: The hospital sector is seeing its most challenging year since 2020, with many systems buckling under wage inflation and staffing shortages."
-    publishedDateTime: 2023-08-08T18:35:00Z
-    webUrl: "https://www.axios.com/pro/health-tech-deals/2023/08/08/health-systems-lag-ai-strategy"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "+2cuPV22Hw/TPVXuv8SLsa0OYKIWC9d8zhrc3fvnxw5SM6j4mTqyE3j7/n/qZDMcfJg/Bw+GA7Set+of1Ha8SMgE2Qz7WpzUIzjenrQe9sEZRsDFX4WH3l57zUuLCEmnUpMLy+Mk3YeLiT4sOlQ6Tyghf/w0LFn4FsjjCEgRHwoLOT3uk9bKYlxao+gIEVH3yWCgEDnxYn3cPJfYseKIhTLYIhWl4vLdJGgLJhpmed6+jxrCs8ozi2RGAGC+rFNA7lufQqgk9n2jU/MopuvLQN4u7+HFSqw4ILwK8VrpYmKBS/jERQyiE/ES7HGR2xYt/xY004v6VIpV+T7sw1KOCpGWgli1qylR/+jyJfbWb3Y=;pf3ZGZZcMNIMHJw+qDWkQA=="
 ---

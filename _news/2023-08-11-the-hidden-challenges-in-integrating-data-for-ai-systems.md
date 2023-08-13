@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-ch
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "Health systems lag on AI strategy"
-    excerpt: "Generative AI can help health systems improve margins, but only 6% of them have a strategy ready, according to a recent report from Bain & Co. Why it matters: The hospital sector is seeing its most challenging year since 2020, with many systems buckling under wage inflation and staffing shortages."
-    publishedDateTime: 2023-08-08T18:35:00Z
-    webUrl: "https://www.axios.com/pro/health-tech-deals/2023/08/08/health-systems-lag-ai-strategy"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "AZTR80oBs12QlssrwrhYZqM2AovltaFcMZIQxvXSfR3FZD8trXoImyKfE0J1g44Z/YXX1Rkawwx/QEm7bGVmK85ED3s8hCVFoFSsJIaPgDqhqHQIQpeYJb73yrjv/xkoFPKwKojcOeIZFafYREOIGGCAYd8waexaHBOFpHtiVeKlCaT3V0gJQB5w4tLf2+iYqSxNS7R2EauP71RzKRqg3uzWhaJx7N4p2/AEsnaMpqt9yn1UlfehJw/TbCGoNJBXIHI6VZR1EDMieN8+dMjOFHLWlCjRMUz3pFp19IjQ3H1KTZ6KuoJk7ksMcQPbQIU2vx6SAOfSLSWvxu/LXglnS0kKGmMcRKe93cO/c9JHAJJXrTmD21RGzqbRptLDXxtWErAGC2zk2ZhtgGBN2Kzqddmw1NXrHJXNqvT4/qHPRuZdiUxEgMYM600spD7WzqHoen0gi+P3J7xzTdASV/NiVyfAvRiyLyUEIWjoW+FTG159vouwyCy/HS/5xJHJYIWzB8Ye+1OnqsBGmCJWtQzFGQ==;B+go1JACGNHGgV3MxcEu+Q=="
 ---

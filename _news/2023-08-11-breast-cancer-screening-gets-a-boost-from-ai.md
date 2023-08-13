@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Where AI Can And Can’t Help In Talent Management"
+    excerpt: "There are considerable challenges and potential pitfalls to be aware of when using AI in talent management and HR. This article will explore where AI can benefit and potentially harm talent management efforts."
+    publishedDateTime: 2023-08-13T11:02:00Z
+    webUrl: "https://www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/"
+    ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d4f3db21f52229c2d9eed6/0x0.jpg?format=jpg&crop=2925,1645,x0,y151,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "1K8taGD+c9muXTSsvgizumRESussMDTNUkd75gtJkW0HyPZMULLyGE0PMzQ29cY0pflv0WmZ/1dFL7ScSJYndIT1iEEJB3JtPXjyD6J0yMEDki9BGOP2G/l6SW0OTpDJbxXWZxAMOTQN0c+yzi0QjEP8kc8gP9ZUzA2VfcWx8BFGtniQeVwzfbEEwqRC2XKlog/WlUkWDl63N+HYBKA9vmd0uVSSuWu/tq7QDWmeOTo8p0yYyvbApCFhOPHo/zuct/mpamyC2gNfU8Qdpqvrb/VDiF8HwBdI2FiS8K/cwE/x9FLIF5RSxT0XZ0oM+A/2cy7aZMXniuYMnlYUYh6sVYWbaG5k4yZmoVo0hnWjVkakIyjRaqCRDXzWSbQ8nzPtHj0sZ4pRRtZKtvkIC+4qqmS2ya9pFaqJueBygelDJSDJmTdyouA1X+04q+DjmfkqxABmNoIqdKv9hAWlrZmTNMtiV0pzorD0IDzziPShhU3bLrE8uiu2IEfambRClI0m4xH79ln2BJ3dLX4ftM0nrA==;rIMHZ5GEOpYw2cjvUJRixQ=="
 ---

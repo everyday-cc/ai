@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial Intelligence Can’t Predict the Future"
-    excerpt: "AI uses current data and history to make recommendations and can’t consider unexpected events, such as hurricanes, or changing realities, such as \"black swan\" events."
-    publishedDateTime: 2023-08-08T18:42:00Z
-    webUrl: "https://www.floridarealtors.org/news-media/news-articles/2023/08/artificial-intelligence-cant-predict-future"
-    type: article
-    provider:
-      name: FloridaRealtors.org
-      domain: floridarealtors.org
-    quality: 17
 
 secured: "7gRUZFl5ZPhVbz71EmYIrnAa7mfprpaJK7QlygQ4B4QmCspKiWlsg3qPh9Wxbh2gvy+3wXZw2CPhdtLfzDE57m1RpKRBz5wSa1tKzZ6oDxsIDeZULu1ltOqTMzFfIL/VCklQ629YB2UE1AdlBagdRNlhstMqeGKgdzF5q3e1+segxxH3dOxz6xhI94Ksx/gBe0Jk+UN1UHDSAQ+lG+c4hxVXlAHuA4uw4HmHzogY2//1V/wag4CzYLieahkAUNCVjmbRx3qx/q97tVmAhqy4ns1faXyVbyicrqf7a8axuxq6fCTQiaECTFRq6yiY0iIzvMxfdGl0Cu8G6PVAp9ITZaHHzCjHaHGLg3sV7NulR98Ept5icRH/UcnbAVXlRitf5jg+4XSp4BPsyAhdwlzo0PAYIZiOT0l3RYwZAIqw6W5SxZ18Hl7brYdmdhV0XWcRtMOwQM3jp1OM1R06Jx+4fLZjD05k+95yGv4xX7FwJ1MEX6rK8XPIS3XRy9cm2M+EXbMuFPs5SjJAqUXudaXiMg==;jrTmJCd1D8gRzPPTwNGTWg=="
 ---

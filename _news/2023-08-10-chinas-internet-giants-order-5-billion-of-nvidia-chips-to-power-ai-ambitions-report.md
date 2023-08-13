@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Nvidia Unveils New AI Chip Set to Cut Cost of Running LLMs"
+    excerpt: "Nvidia appears to have turned up the heat on its competitors within the artificial intelligence (AI) hardware space."
+    publishedDateTime: 2023-08-09T08:14:00Z
+    webUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/"
+    ampWebUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 74
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/nvidia-ai-chip-llms.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Nvidia’s new AI chip to offer boon for Korean chip giants’ HBM business"
     excerpt: "Nvidia’s newest AI chip utilizing the world’s first HBM3e processor is expected to boost growth for SK hynix and Samsung Electronics, the two chipmakers dominating the still-nascent High Bandwidth Memory market. Nvidia, a leading producer of GPUs based ..."
     publishedDateTime: 2023-08-10T05:50:00Z
@@ -56,6 +72,22 @@ related:
       - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F08%2F10%2F20230810000490_0.jpg"
         width: 630
         height: 354
+        isCached: true
+  - title: "China's internet giants order $5 billion of Nvidia chips to power AI ambitions"
+    excerpt: "Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,000 A800 processors from the U.S. chipmaker to be delivered this year, the FT reported, citing multiple people familiar with the matter."
+    publishedDateTime: 2023-08-10T00:58:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 70
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2018/08/nvidiagaminggraphicsgaming-graphics.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Big Money For Big Tech: China has ordered $5bn worth of AI chips from NVIDIA, despite US ban"
     excerpt: "Despite several sanctions on China, several tech companies in China are lining up to buy NVIDIA's AI Chips at a premium. The Chinese tech industry has placed an order worth $5 billion with NVIDIA for"
@@ -168,6 +200,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "AI’s business impact to extend far beyond Nvidia"
+    excerpt: "Generative AI could emerge as a $1.3 trillion market by 2032, growing at a 42% compound annual rate, according to BI analyst Mandeep Singh."
+    publishedDateTime: 2023-08-10T21:10:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/ais-business-impact-to-extend-far-beyond-nvidia/"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Nvidia Unveils New AI Chip with Potential to Reduce Costs of Running Large Language Models"
     excerpt: "In a move aimed at maintaining its supremacy in the AI hardware sector, Nvidia has introduced a groundbreaking AI chip, the GH200, designed to optimize artificial intelligence models. As rivals such as AMD,"
     publishedDateTime: 2023-08-10T07:37:00Z
@@ -182,6 +223,34 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Nvidia’s AI power on full display at SIGGRAPH 2023"
+    excerpt: "Nvidia is the main beneficiary of this year's AI hype. During SIGGRAPH in Los Angeles, the GPU manufacturer revealed that it is only beefing up its"
+    publishedDateTime: 2023-08-10T13:20:00Z
+    webUrl: "https://www.techzine.eu/news/devices/109924/nvidias-ai-power-on-full-display-at-siggraph-2023/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/nvidia-grace-hopper-superchip.jpg"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "China spends big on Nvidia chips"
+    excerpt: "Wants them for its generative AI systems China's internet giants have ordered more than $5 billion of high-performance Nvidia chips to build generative AI systems. Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,"
+    publishedDateTime: 2023-08-11T09:05:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57402-china-spends-big-on-nvidia-chips"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/7d2e48c471e8e1bbb6222171f23a9353_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "China’s internet giants in $7.6b AI chip-buying frenzy"
     excerpt: "Baidu, ByteDance, Tencent and Alibaba are rushing to buy chips vital to building AI systems, amid concerns US President Joe Biden will soon clamp down on their export."
     publishedDateTime: 2023-08-10T02:58:00Z
@@ -191,6 +260,24 @@ related:
       name: The Australian Financial Review
       domain: afr.com
     quality: 34
+  - title: "Nvidia Is Down, But AI Chip Juggernaut Not Down For The Count"
+    excerpt: "Nvidia Corp. (NASDAQ: NVDA) skidded 4.72% in heavy turnover on August 9, ending the session below its 50-day moving average for the first time since early January. Shares were essentially flat in after-hours trading."
+    publishedDateTime: 2023-08-11T18:19:00Z
+    webUrl: "https://www.benzinga.com/news/earnings/23/08/33747953/nvidia-is-down-but-ai-chip-juggernaut-not-down-for-the-count"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
+  - title: "China’s internet giants order $5bn of Nvidia chips to power AI ambitions"
+    excerpt: "Baidu, ByteDance, Tencent and Alibaba rush to acquire GPUs amid concern US will soon clamp down on their export"
+    publishedDateTime: 2023-08-09T20:00:00Z
+    webUrl: "https://www.ft.com/content/9dfee156-4870-4ca4-b67d-bb5a285d855c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 33
   - title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions: Report"
     excerpt: "Nvidia offers the A800 processor in China to meet export control rules after U.S. officials asked the company to stop exporting its two top computing chips to the country for AI-related work. The FT report comes as President Biden on Wednesday signed an ..."
     publishedDateTime: 2023-08-10T02:32:00Z
@@ -209,15 +296,6 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 27
-  - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
-    excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
-    publishedDateTime: 2023-08-08T17:19:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861286.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
 
 secured: "O/zQ4/M1kgKbaQYeu5qlofFwdKNn8TjkyPSGjdaujvlvppr1hiXq8hJlyNL3RtXq7s1UH5cPzev5yw7Wxiplh6rem0k3uA4E+89VKWhYxHw8Jb0uJrjqHGB7p+0YOIRdBIWFiiHxTBh0zvJdUgil9nqw13LIXrd2yr0pXs1fNhhzZkD542zU5wSzgDSYhURNH5Mea0kaMRFtWTPj6GzETaNsTUcBzvwzC019TWMiRY8SLre0nOUiUEt8xRQkONO1OSL5qMNbNy0p5+P4hgDAEG6G1drjxjBUyc2SnpuuBkJ0alvyQYv96pXwGeHSus5s9McemKRXUMIcgNYfyN4px4cb3LY3OmoDrmfrP8skEwA=;UtGjxQ8bCC/E5EUpuxuyPQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/why-nvidia-investors-are-rattl
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581"
 type: article
 quality: 97
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -95,15 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NVIDIA Infuses Grace Hopper Superchip With HBM3e To Supercharge AI Data Center Workloads"
-    excerpt: "Besides the extra capacity, NVIDIA says that the HBM3e version of the Hopper GPU offers a 50% bandwidth improvement, too. That gives the massive parallel processor some five terabytes per second of memory bandwidth,"
-    publishedDateTime: 2023-08-08T18:55:00Z
-    webUrl: "https://hothardware.com/news/nvidia-gh200-hbm3e-edition"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 25
 
 secured: "TlUqQgz5DkH3F3Z+yTtaWd+3vNQTjUl5oD1ghpkUpbPHo/XflBMAi9zFQPjFMYOwSKGELLZHiqr4FCYXMXNlXOTenSNumGcJogaafENBlboqK9gCdy6L0Y0j6grsc9GRCQaV6esfT7N9o8l75qp0TQOHc73lwrCc6NCPLGJjQJcK3j0PM7qCkFWBPto/WnXaVlkJtkNZAthUeC+b3WBa3PegLlH907K3s2cDdAz1XS53rnXV4JMzto0VXWmhaqVYiRofsJSemhiXabW+2Crrql3vNLucLAWBh1BzIIk0qt102XOPv1VhDIheIov3aGUJlAUDuQscMS3hEVIrPsJm8UIqjgrk9F0WX+bg1lvFDkA=;ojR9Dn0iCZnazxlCwZg/IQ=="
 ---

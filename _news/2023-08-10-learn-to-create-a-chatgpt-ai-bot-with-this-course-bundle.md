@@ -86,20 +86,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The 12 Best ChatGPT Alternatives in 2023"
-    excerpt: "Are you looking for an alternative to ChatGPT? We’ve got you covered. Despite ChatGPT’s high level of sophistication, many other ChatGPT alternatives are available. In addition to ChatGPT, many advanced AI-based alternatives to ChatGPT can help you ..."
-    publishedDateTime: 2023-08-08T17:16:00Z
-    webUrl: "https://www.entrepreneur.com/growth-strategies/the-12-best-chatgpt-alternatives-in-2023/457117"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/providers/calendar/hero-image-calendar-457117.jpeg?format=pjeg&auto=webp"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Nvidia unveils new chip that will bring down cost of running ChatGPT and other AI models"
     excerpt: "Nvidia has revealed its next-generation Grace Hopper platform, featuring the world's first HBM3e processor for generative AI. The system has a single"
     publishedDateTime: 2023-08-08T22:39:00Z

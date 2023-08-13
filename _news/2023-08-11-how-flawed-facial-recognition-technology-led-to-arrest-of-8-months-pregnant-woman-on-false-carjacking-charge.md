@@ -210,15 +210,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 14
-  - title: "Lawsuit filed after facial recognition tech causes wrongful arrest of pregnant woman"
-    excerpt: "Flawed facial recognition technology caused the wrongful arrest of a pregnant woman in Detroit, the latest in a string of false arrests blamed on the technology, according to a federal lawsuit ..."
-    publishedDateTime: 2023-08-08T17:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 12
   - title: "Detroit Police Department seeks changes after suit over facial recognition-related arrest"
     excerpt: "Chief James White said Porcha Woodruff's arrest 'emanated from, candidly and unfortunately, a poor investigation.'"
     publishedDateTime: 2023-08-10T02:07:00Z

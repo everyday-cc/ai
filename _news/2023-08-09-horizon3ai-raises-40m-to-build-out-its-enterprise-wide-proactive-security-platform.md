@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/08/08/horizon3-ai-raises-40m-build-e
 webUrl: "https://siliconangle.com/2023/08/08/horizon3-ai-raises-40m-build-enterprise-wide-proactive-security-platform/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Seattle startup Dropzone AI, which develops autonomous AI security agents, raises $3.5M"
-    excerpt: "Dropzone AI announced a $3.5 million seed round led by Decibel Partners, with participation from Pioneer Square Ventures Fund. Dropzone’s pre-trained AI security agents are designed to work alongside"
-    publishedDateTime: 2023-08-08T17:30:00Z
-    webUrl: "https://www.geekwire.com/2023/seattle-startup-dropzone-ai-which-develops-autonomous-ai-security-agents-raises-3-5m/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 76
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/08/64caaf5ee67f84f8a90d94ef_Edward-p-500.jpeg"
-        width: 500
-        height: 500
-        isCached: true
 
 secured: "KoCeKe9ij3yT22taMu2qccodpMXKAPw3cpiRx6NNLeJonrJ4wojK1LHa4oqhGWlwP2PEhCI7HQoJCUImuP+Ut+DaB8BpRo1/QZpDLhY7J0kpsNUuNFGO5kmScSWtuB3l5Wn/MHgJoNL6rnhNiAfulUSB5BPJHiQxtnXSOCNq+2nPBlH50qhd/HXD8cAuIeBwlZ+rzGlkWHniU2vvko5yx3/clq7VnVkcJEkECQJh59vM7o+EcqKWxLkJNvy0+C/i7qeHp/j8n0fkzs+7O7eM8ZJpugKHy6kOVbuR5q9qpAaexI8Mj4hhhDT4lk9/j4LEjvMduJrXU/GV6/O+sM347yJKQwbrvvL/bEtvYLokyYhqVoLPzqFITv9D+mpHw2cd32qdQh3sSJpnkMnwKv4aNxxofdhmTfB6kimk9Q3bR7hTn5UBOrSGuLsgnIlqhKH0THzYKAvtq1EbtwyGDHOiZ7yfaiZyj5/UXTHodT6irMW5ItaVicucrI606TIpCcYeFGb5BhoDyMCP58JJnOhXTA==;LGGdpGXfUGeBFut+kMCBHg=="
 ---

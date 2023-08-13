@@ -7,7 +7,7 @@ originalUrl: "https://www.ccjdigital.com/technology/telematics/article/15543878/
 webUrl: "https://www.ccjdigital.com/technology/telematics/article/15543878/telematics-providers-improve-ai-accuracy-to-combat-risky-driving-behaviors"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,49 +23,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Amplitude taps AI to improve data quality, accelerate product analytics"
-    excerpt: "Product analytics company Amplitude debuted new AI features to simplify how companies govern their data and use it to generate insights."
-    publishedDateTime: 2023-08-08T18:57:00Z
-    webUrl: "https://venturebeat.com/ai/amplitude-taps-ai-to-improve-data-quality-accelerate-product-analytics/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Martin Klein Returns to ECS as Analytics & Artificial Intelligence VP"
-    excerpt: "Martin Klein, former chief operating officer of the Department of Defense’s Joint Artificial Intelligence Center, has rejoined ECS to serve as vice president of analytics and AI responsible for the company’s overseeing strategic digital transformation initiatives in the defense and intelligence markets."
-    publishedDateTime: 2023-08-11T09:31:00Z
-    webUrl: "https://www.govconwire.com/2023/08/martin-klein-rejoins-ecs-as-vp-of-analytics-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 37
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/08/unnamed-file-76.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
-    excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Martin Klein has been named vice president of Analytics and Artificial Intelligence (AI). Klein returns to ECS after having previously served as a program manager,"
-    publishedDateTime: 2023-08-10T11:20:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/10/9862493.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-  - title: "Top 10 Alternatives to GPT-3 – Analytics India Magazine"
-    excerpt: "GPT-3 has 175 billion parameters, making it one of the largest language models ever created. It can generate human-like text and perform a wide range of tasks, including translation, summarisation, and even writing codes."
-    publishedDateTime: 2023-08-12T19:41:00Z
-    webUrl: "https://www.inferse.com/677595/top-10-alternatives-to-gpt-3-analytics-india-magazine/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 4
 
 secured: "sy9HsRzLQZosBrRZ0lKHZ7UAOLIcgMZvr+Tyjs56UFGzTjKfRak932+ndbpKWEw4mKHXNqFl+jCORX58rN5mU8hY7+MIcn9CF0ZAcgu21JGgDxhpP6K7tiTY0AC7DNvZHC3U8EEqjWrHQ34vLZyV7zJMm0nDhYaU7tJYMcgjSRVB8BH9JKPz1TwMYEPy9hxodfg9y1wVQsBDI2THB8DyM3BKZaaLAkq8jWbb0kXa4XyDvU4sWZ/JwjnIJtaoH3M93ltxbShj4n8907NYnGPAK8usDPzTf1exsbWFHYCu18qRNNbwVrWQL6ButWuoUi9oIzQq4rYhbER0UFVPS/ypwMf8ycZkWZi3I3MTC85diB4=;3SPApMV88TnH+tLyhuXw0Q=="
 ---

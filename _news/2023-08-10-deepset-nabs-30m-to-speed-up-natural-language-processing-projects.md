@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Deepset, an AI startup that helps companies build apps with LLMs, just raised $30 million with this 12-slide pitch deck"
-    excerpt: "Berlin-based Deepset has raised $30 million in fresh funding from VC fund Balderton as it looks to further develop its LLM development tools."
-    publishedDateTime: 2023-08-09T07:59:00Z
-    webUrl: "https://www.businessinsider.com/deepset-german-ai-startup-raises-30m-balderton-to-expand-llms-2023-8"
+  - title: "Deepset receives USD 30M to expedite natural language processing projects"
+    excerpt: "The open-source Haystack framework, which aids programmers in creating applications for natural language processing, has received USD 30 million in funding."
+    publishedDateTime: 2023-08-13T10:11:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/deepset-receives-usd-30m-to-expedite-natural-language-processing-projects/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/deepset-receives-usd-30m-to-expedite-natural-language-processing-projects/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/deepset-receives-usd-30m-to-expedite-natural-language-processing-projects/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 58
     images:
-      - url: "https://i.insider.com/64d23e5a7d2e9000194612b8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Deepset-receives-USD-30M-to-expedite-natural-language-processing-projects.jpg"
+        width: 1500
+        height: 844
         isCached: true
 
 secured: "Ask9CmNQZKYlHwX0t4jxpP/AoKDdukf84UOdLqupnyKqVDPZ0g1+ApltXEWArb5M5pYt+P7A3EThzAiJ0hUiz5KMwVEIG9mtkCKubziKyaufXurX4MYm6lJXEaZqoQm82RqTQzsUH58yokZvAnXGbV0SB8h6XVc0GA0FxdC0JJv/h2ovZNdNf+93HHErGpPiI8U3SDBIL4YTek8sefmUI7jpykvUrCuLa7edagU2AjVbyrOINY8SHe1FsEZVv05GVOLfz7epSnFkdbP388FWXDHVFBjAZP3ddsdQkkhib8eyrIY4bydhHTMGKgGELqFdbFkRgFORke1VRud5DRcJMWHNBuFTnvdVmTIvG+hAxiU=;HVoylr16F8s2Zz0hwcXi6Q=="
