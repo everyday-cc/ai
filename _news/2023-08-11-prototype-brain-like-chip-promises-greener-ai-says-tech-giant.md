@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/technology-66465230"
 webUrl: "https://www.bbc.com/news/technology-66465230"
 type: article
 quality: 64
-heat: 74
+heat: 76
 published: true
 
 provider:

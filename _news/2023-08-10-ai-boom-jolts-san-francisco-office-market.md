@@ -57,6 +57,20 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 48
+  - title: "San Francisco drives tech; will it drive away robot taxis?"
+    excerpt: "SAN FRANCISCO - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... Alphabet Inc’s Waymo and General Motors ..."
+    publishedDateTime: 2023-08-08T11:16:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/san-francisco-drives-tech-will-it-drive-away-robot-taxis"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 41
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/08/08/FILES-US-TRANSPORT-TRAVEL-LIFESTYLE-TECH-010402.jpg"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Cruise, Waymo given green light for robo-taxis across San Francisco"
     excerpt: "Waymo, Cruise self-driving cars can charge for taxi service. Companies have promised thousands of additional cars on San Francisco streets."
     publishedDateTime: 2023-08-11T01:19:00Z
@@ -158,6 +172,20 @@ related:
       - url: "https://media.npr.org/assets/img/2023/08/10/gettyimages-1390904872_custom-facb4d78b06ed88683d0ad1b438c70c0e9e87cdf.jpg"
         width: 4948
         height: 3235
+        isCached: true
+  - title: "San Francisco's North Beach streets clogged as long line of Cruise robotaxis come to a standstill"
+    excerpt: "Just one day after state officials approved massive robotaxi expansion in San Francisco, a long line of the driverless cars come to a standstill and clog traffic in North Beach neighborhood."
+    publishedDateTime: 2023-08-12T23:20:00Z
+    webUrl: "https://www.aol.com/news/san-franciscos-north-beach-streets-202029654.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 11
+    images:
+      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/e7220c3a960d4097dcf9a402eb9c8268"
+        width: 840
+        height: 560
         isCached: true
   - title: "Self-driving taxis get the green light on 24/7 service in San Francisco"
     excerpt: "Companies like Waymo and Cruise can now offer autonomous rides to anyone in San Francisco—but some city officials have concerns."

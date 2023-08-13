@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3703211/10-ways-generative-ai-upen
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.amp.html"
 type: article
 quality: 87
-heat: 157
+heat: 159
 published: true
 
 provider:

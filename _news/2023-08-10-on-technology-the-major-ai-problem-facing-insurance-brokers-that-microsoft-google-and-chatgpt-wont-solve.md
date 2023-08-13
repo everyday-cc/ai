@@ -105,22 +105,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "HCLSoftware teams up with Microsoft to drive AI-powered offerings"
-    excerpt: "HCLSoftware has announced a collaboration with Microsoft to integrate Microsoft's Azure OpenAI Service into its software products, according to a release on Monday."
-    publishedDateTime: 2023-08-08T05:04:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-hclsoftware-teams-up-with-microsoft-to-drive-ai-powered-offerings-247923"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-hclsoftware-teams-up-with-microsoft-to-drive-ai-powered-offerings-247923/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-hclsoftware-teams-up-with-microsoft-to-drive-ai-powered-offerings-247923/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 74
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Microsoft Shares Guidance and Resources for AI Red Teams"
     excerpt: "Microsoft has shared guidance and resources from its AI Red Team program to help organizations and individuals with AI security."
     publishedDateTime: 2023-08-08T09:04:00Z
@@ -136,22 +120,6 @@ related:
       - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft Bing AI Available For Third-Party Browsers; Check out the Details!"
-    excerpt: "Microsoft is making sure you can enjoy the generative AI capabilities of its Bing AI on third-party browsers. See details."
-    publishedDateTime: 2023-08-08T05:57:00Z
-    webUrl: "https://beebom.com/microsoft-bing-ai-available-third-party-browsers/"
-    ampWebUrl: "https://beebom.com/microsoft-bing-ai-available-third-party-browsers/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/microsoft-bing-ai-available-third-party-browsers/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 71
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2023/08/Microsofts-Bing-AI-is-coming-to-mobile-browsers.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "Microsoft Azure Large Instances to help healthcare providers manage EHRs"
     excerpt: "Microsoft Azure Large Instances is helping healthcare providers to manage large electronic health record (EHR) database loads using public cloud-hosted infrastructure. Azure Large Instances leverages up to 50 million ‘database accesses’ per second,"

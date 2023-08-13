@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 907
         isCached: true
+  - title: "Combining AI and traditional methods can help us predict air quality"
+    excerpt: "Combined models will be more accurate ways to forecast hazardous air quality, particularly during unpredictable events like wildfire smoke."
+    publishedDateTime: 2023-08-12T23:00:00Z
+    webUrl: "https://www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/"
+    ampWebUrl: "https://www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2023/08/11/My-project-2023-08-11T114827.562.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "VAST Data Launches its Comprehensive, Robust Data Platform to Support AI and ML Workflows"
     excerpt: "VAST Data, the data platform company for the AI era, is unveiling its data computing platform, engineered to underpin the burgeoning world of AI that rivals the capabilities of other existing data platforms."
     publishedDateTime: 2023-08-09T15:49:00Z

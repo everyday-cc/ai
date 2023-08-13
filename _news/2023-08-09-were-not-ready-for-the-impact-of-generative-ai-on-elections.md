@@ -88,22 +88,6 @@ related:
         width: 1219
         height: 630
         isCached: true
-  - title: "Is Generative AI Stealing From Artists?"
-    excerpt: "Delve into the contentious debate around ownership, credit, and financial compensation for art created by AI tools, exploring artists' rights and IP laws."
-    publishedDateTime: 2023-08-08T06:36:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/08/is-generative-ai-stealing-from-artists/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d1e22b979499b5d765f249/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Generative AI Is Not A Tool; It's An Employee"
     excerpt: "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team."
     publishedDateTime: 2023-08-11T11:00:00Z

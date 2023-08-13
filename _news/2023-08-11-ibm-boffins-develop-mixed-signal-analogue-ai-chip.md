@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/57401-ibm-boffins-develop-mixed-s
 webUrl: "https://www.fudzilla.com/news/ai/57401-ibm-boffins-develop-mixed-signal-analogue-ai-chip"
 type: article
 quality: 54
-heat: 74
+heat: 76
 published: true
 
 provider:

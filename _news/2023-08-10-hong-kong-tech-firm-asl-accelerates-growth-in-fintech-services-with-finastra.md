@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "Hong Kong tech firm, ASL, accelerates growth in fintech arena with Finastra"
-    excerpt: "HONG KONG, Aug. 8, 2023 /PRNewswire/ -- Automated Systems Holdings Limited (ASL) (771.HK), a leading global IT solutions and services provider, has strategically partnered with Finastra, a global provider of financial software applications and marketplaces, to bolster its industry-specific DevSecOps business and strengthen its fintech trajectory."
-    publishedDateTime: 2023-08-08T05:04:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9860566.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/2170918/Finastra_ASL.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Lytus enters FinTech sector in India through the launch of a new payment gateway"
     excerpt: "Nasdaq-listed Lytus Technologies Holdings PTV. Ltd. (the “Company”) (NASDAQ: LYT), a leading global technology-driven services company, has announced the launch of"
     publishedDateTime: 2023-08-09T05:40:00Z

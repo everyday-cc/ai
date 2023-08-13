@@ -2,19 +2,17 @@
 category: news
 title: "New machine-learning method may aid personalized cancer therapy"
 excerpt: "Deep-learning technology developed by a team of Johns Hopkins engineers and cancer researchers can accurately predict cancer-related protein fragments that may trigger an immune system response. If validated in clinical trials,"
-publishedDateTime: 2023-08-09T15:45:00Z
-originalUrl: "https://medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.html"
-webUrl: "https://medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.html"
-ampWebUrl: "https://medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-machine-learning-method-aid-personalized-cancer.amp"
+publishedDateTime: 2023-08-09T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/998118"
+webUrl: "https://www.eurekalert.org/news-releases/998118"
 type: article
-quality: 76
-heat: 86
-published: true
+quality: 56
+heat: 66
+published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
@@ -22,9 +20,9 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/new-machine-learning-m-1.jpg"
-    width: 2167
-    height: 1522
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/cb5c3276-d676-49ce-a6fa-24de556f44db/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -43,6 +41,6 @@ related:
         height: 480
         isCached: true
 
-secured: "mgYVnQew5woDOAULHvhCRa3xBHbXdyL6FjN2cXSeROUkwFwb4A2u/ULhGi9vh0FpnnUv3XPX/rp9rWG+H+WQ8aw43+20pBZQjcKgwF2HtJHiFbUnj2vbjL+RvO004jPh96QtB1JcHnGdMdOENlfCkhtvCVGBsYmpvssxauy2glcpn8G8XGOsfctTrF1vt5LwChBI7VqOI1B/aHPLfvPmXy1TiL08yjoa3t4RGEU0kHnLiqfKpXQc8OFVbg6Z9QOFv4Ojywz9+KzcZBQbsOAxR3XIW786mqo4D5YXS1Igg6TQn0h/nLbG+0MkYlIAca/BQplZ16fpcvJutIspgoQdxWqzMr6fb9DHPyFeO3BmU6c=;Xq4blR9B0C6NtTR44OHhag=="
+secured: "r2xcTT2FB69YpDE+ggSkSgNuwUrCKjvBsdeLkDPFk1OL73vbBmoIB2bnYltTZFIsbiWBYpnQ47WZz9xKv2n1s11iPA82EEzt/AoLwedqPqRDNxxkUosqZW60lgKeE6RYvmOhqRkEmhLb/U/nkV3QtxNcn9jejlBOwXabx0YyhTy/Mg0vfQFvgdMn+tob7q4Dxf+DaunJ+OzYqRiP0+fRGyg8Th5pn2BrkyyATMsZlv2vwYJ6jw7+/wW0HpUm7wKXGx43EVMmuC10u6Tf16/6VbsUbN8L1Ik79eZ83geHIn80X4hMAzImHXz/6VlKTpCvAzUW8Jw6I3vPQ5HRxZxxe+Y+VANGumBnPLivfR3b4qs=;VkDUQX8u5ruvazdP6Db77g=="
 ---
 

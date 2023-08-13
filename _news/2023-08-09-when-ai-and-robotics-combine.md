@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenation.com/article/world/when-ai-and-robotics-combine
 cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://th-i.thgim.com/public/life-and-style/travel/hthd5l/article67167638.ece/alternates/FREE_1200/IMG_0914.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Combining AI and traditional methods can help us predict air quality"
+    excerpt: "Combined models will be more accurate ways to forecast hazardous air quality, particularly during unpredictable events like wildfire smoke."
+    publishedDateTime: 2023-08-12T23:00:00Z
+    webUrl: "https://www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/"
+    ampWebUrl: "https://www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2023/08/11/My-project-2023-08-11T114827.562.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "VAST Data Launches its Comprehensive, Robust Data Platform to Support AI and ML Workflows"
     excerpt: "VAST Data, the data platform company for the AI era, is unveiling its data computing platform, engineered to underpin the burgeoning world of AI that rivals the capabilities of other existing data platforms."

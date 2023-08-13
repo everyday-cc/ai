@@ -66,20 +66,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 46
-  - title: "The Era of AI-Free Life and Work is Over"
-    excerpt: "Artificial Intelligence (AI) has become an essential tool for streamlining the optimization of software code. As tasks become more intricate, the ability to delegate this responsibility to AI-powered chatbots has emerged."
-    publishedDateTime: 2023-08-08T06:21:00Z
-    webUrl: "https://techbullion.com/the-era-of-ai-free-life-and-work-is-over/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/fdgfdgdg-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "The double-edged nature of parenting, mental health and artificial intelligence"
     excerpt: "There are two sides to every coin — and sometimes our strengths become weaknesses. This hour, TED speakers explore the mixed blessings and volatile flip sides of mental health, parenting and AI. Guests include developmental psychologist Yuko Munakata ..."
     publishedDateTime: 2023-08-11T05:44:00Z

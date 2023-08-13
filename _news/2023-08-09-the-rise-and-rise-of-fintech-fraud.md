@@ -108,20 +108,6 @@ related:
         width: 1280
         height: 724
         isCached: true
-  - title: "Why FinTech Companies Are Increasingly Relying on IT and How"
-    excerpt: "In the last few years, the fintech sector has been going through a tremendous transformation due to the advancements in the IT industry. The fintech companies have entered the financial industry landscape with innovative solutions that revolutionize traditional banking and financial services."
-    publishedDateTime: 2023-08-08T06:35:00Z
-    webUrl: "https://techbullion.com/why-fintech-companies-are-increasingly-relying-on-it-and-how/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/FinTech-Companies-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Lytus intends to invest $50 million in the fintech business"
     excerpt: "Lytus intends to invest $50 million in the fintech business - Nasdaq-listed Lytus Technologies Holdings, a leading global technology-driven services firm, plans to invest"
     publishedDateTime: 2023-08-09T09:44:00Z

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "San Francisco drives tech; will it drive away robot taxis?"
-excerpt: "SAN FRANCISCO (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... Inc’s Waymo and General ..."
-publishedDateTime: 2023-08-07T10:24:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/08/07/san-francisco-drives-tech-will-it-drive-away-robot-taxis"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2023/08/07/san-francisco-drives-tech-will-it-drive-away-robot-taxis"
+excerpt: "SAN FRANCISCO :San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... Alphabet Inc’s Waymo and General Motors ..."
+publishedDateTime: 2023-08-07T14:19:00Z
+originalUrl: "https://www.channelnewsasia.com/business/san-francisco-drives-tech-will-it-drive-away-robot-taxis-3682931"
+webUrl: "https://www.channelnewsasia.com/business/san-francisco-drives-tech-will-it-drive-away-robot-taxis-3682931"
 type: article
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
@@ -17,11 +17,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2023/08/07/2218721.jpg"
-    width: 800
-    height: 525
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--aIHGUeUT--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-08-08t010252z_2_lynxmpej760ak_rtroptp_3_usa-autos-autonomous-san-francisco.jpg?itok=GFT62owH"
+    width: 1200
+    height: 676
     isCached: true
 
-secured: "jP2XQAWBwiUsLZdmkjN7UW/eBdEgs53s8rUS4ysy34gCw21PLFG8zXUyUK1U+18Exc9WJkIYM8zlRG8bfcRxp3JOK4GChaJC51b5ZODZhKwvCNaB+VKCy+ELb7zWE95CHM931kNowJCuY/fKaP715+5zSP/VKVv+nMpS17FByg8o9pjF+8UAtVQOjB3pe+XfcLK5MiQgGByiCGPRfeXQ5U3bz9zYuYMwpPTXBjw6TG2XfrR/TE5zBsTfNq6ij+tA6bOdtjI3IcpmBQwcHoucED1T75bpU4c++PA+gzEph34gGVrfW5uG04glcYoEPeDWXl7Eefa5JqZoNB4WP4jvBhluudC20hVmv1c6uxJrvs4=;2ETozE9vIGPFEjDm6Bbiig=="
+secured: "cGRL1Ld24v1F4bFiGAjz76vQ0QXK6cxl2bi1fQUbIpfEXLYYtoWQxKNWC34S2lAqRz89lbIIQqfW/q+iy/QCFzXE1M3VNb52MmqL1ZK50HSmHRCa4XFnK5G/FKI+scgazZi9TRz689JVcreLAAAjCvFCox8m6ChpUmPdpWh2LA5a1ztQEzKdg9ttNpEW0w+k21wgielR1Qw9ZWQbcEqg3PKWI9c8Fl5U0lpzME0y92krUak90dpDeUo5Xxn2eQMDxVcHdWAvIDfVzCxTFwxJ7RuGHk63iNhxXanrlBbXWnsvANatruODkz7gGVm/pIduvPWeYg0DiXDPOCgh3Jk8k5acc4zhdnbSJqZiq8s/dEA=;l6D4aGxE2c0q2WOgW6AOIg=="
 ---
 

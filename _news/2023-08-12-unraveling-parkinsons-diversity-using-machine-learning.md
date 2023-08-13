@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/unraveling-parkinsons-diversity-us
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/unraveling-parkinsons-diversity-using-machine-learning-213069-1.htm"
 type: article
 quality: 59
-heat: 91
+heat: 93
 published: true
 
 provider:
