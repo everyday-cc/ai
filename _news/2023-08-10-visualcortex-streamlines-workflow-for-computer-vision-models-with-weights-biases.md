@@ -1,18 +1,18 @@
 ---
 category: news
 title: "VisualCortex streamlines workflow for computer vision models with Weights & Biases"
-excerpt: "As foundational beta users of Weights & Biases recently-released 'Launch' module for automating ML workflows, VisualCortex's ML team collaborated with Weights & Biases' product team to help produce a scalable process for seamlessly managing and deploying training runs."
-publishedDateTime: 2023-08-10T08:39:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/08/10/9862353.htm"
-webUrl: "https://it.tmcnet.com/news/2023/08/10/9862353.htm"
+excerpt: "Video analytics platform developer, VisualCortex, collaborates with technology partner, Weights & Biases, to automate and reproduce its ML model training practices As foundational beta users of ..."
+publishedDateTime: 2023-08-10T06:48:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33694403/visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n33694403/visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
@@ -34,6 +34,6 @@ related:
         height: 767
         isCached: true
 
-secured: "f4Ppi1zObMy9N2zlHibckcN6GsxdqFje7AAxjvY6J6LLOd1A5hj0wHkLCT/IfjwB5XqTAut6e7y1TKwmW+51Vkpe86onyg5zwPPiyXeNiY9r5uUdN6T0/CNycwcG4NPj1r7jjyk/Ktg5BYrXw/JHgi7pqF1B8ZWMvaiODyi8bqFSuwO45yFLNciqUBq2TUVO41KFkmjFgX7xI3EdFZQ/U/D5polfgNCyKoOuiCdZeicKosbOGABX11iL2SCScgBkFnCWo7jicZbtxJf0o8ppbK9eedi8AE2JliunbfWm1AshMImJc42HC/Hv16SvTCy6KgnJVd5gIVWUloBtN3gwmTmJrDn58CpCIh63BtZetAdK8X8rK4yOrsQ+SxGrEC27yWWrkwXpDJouQtkm53N8wujgvhRQDbZd+KaeMzS6QPbDzccrtDSMUsKNWjXeMGXpAdagftNAc00br2TqoBPxNsJ0vUEOfvSLs3IjHk3G9Ofiq2Y0e2uPZ1pyo5FRO/LS+izWif4QexU/za5nlAp14w==;kIykPDY162AnCwKQUzp+EQ=="
+secured: "IESiEnhABfYHrmnLx5rFeiKutTVG1w90GAnfNqBbprCFwjw5WQViXFs6/1URaTJ4Ur4VemtsqKxM/TTIpeshupmvEIlrg/xtWGtwauCSYP6mTz2VHD0qw8n5QLjiiolvXZvJfUnebe/qZTmFjrMqxfS+6sgwl7wVAQI8FN0504c2AEtsyCIZZGn8R5vRtpL3NS6+htr5qkPeGDyrDiZIsMd4kBIu4lSgEEGNlECeBTZRnW5rgLFcEam1hc41HaxAhEvmMXZjBaCT+iXTyOrJK5rWjSJSawz6FbFtq2PoldXr7NQIulb1dez9cEZMAYBW8djVQJHuyOGy0yxPU08xv2xGalGBkC3+koMto+Fj8Ew=;+pyIVB9GCm79UQ5d9/kKxw=="
 ---
 

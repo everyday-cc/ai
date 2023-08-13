@@ -52,20 +52,6 @@ related:
         width: 1032
         height: 668
         isCached: true
-  - title: "Stability AI and Google target software developers with latest generative AI tools"
-    excerpt: "While Stability AI is taking its first stab at code generation with its latest generative AI model, Google has introduced a web-based development environment that aims to make life easier for developers building multiplatform applications."
-    publishedDateTime: 2023-08-09T01:58:00Z
-    webUrl: "https://siliconangle.com/2023/08/08/stability-ai-google-target-software-developers-latest-generative-ai-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/ai-site-helping-with-software-production.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "ySVCYVxHIuxxOQ4xBgg5WH0SM1JpF1GGmNn4SYimrZy2O3/Sqc2o9vCnTGUbdhln/n6orvaV3yTWsvEeg0TfQEPQbp6SuUuA7s0X7siED7cHj551yVWt4hZfiYm3e9MUZFMSO7gWFQZqooXzOOjsO0Uv0LAQdS2AyR9t8xlLAT5wZv+uca6QwFdStkAr8waw8ufg/b9CsJv1hIWxgZheA05/ie7fbwHaY/m87ipXb3+v5BvYUpwc2mNsfCNw8FGa7m5JESzRUkxEAhlUQXSG66e+Y/i4XYLvQ4B0FC9XjmkzEZcFcjTvXY8gVpST8kMY3DcFORw9GqP5oBHYbgghar7EM18sKaMEnmIVDcDXBIWEmdgoYzsZ+CXYilxQyz8lvcRFoLf+AoAuF7l+QHvyagyVzevhmITIcgkmG8moVWmo0XcDKeU+r0WFx7i0NoY7WAnAzVHBiVDHvLQajr5du3A041c8+W8T1qN53gue3k1udNz84ln3Ot91jsaYSXg0+Xoh1D1pVGKIVjkUXSNiMw==;pqzORs3mDu7xGYP8Pw9xag=="
 ---

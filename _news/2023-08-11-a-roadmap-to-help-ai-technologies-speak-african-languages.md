@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2023-08-roadmap-ai-technologies-african-langua
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-roadmap-ai-technologies-african-languages.amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Phys.org
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "FEATURE-African tech startups take aim at AI 'colonialism'"
-    excerpt: "C alled Lelapa AI, the artificial intelligence research lab headed by Pelonomi Moiloa means home in southern Africa's Sotho and Tswana languages - a name that reflects its goal of building algorithms designed by Africans,"
-    publishedDateTime: 2023-08-09T01:30:00Z
-    webUrl: "https://www.reuters.com/article/africa-ai-tech-idUSL8N39C3M5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI programs often exclude African languages. These researchers have a plan to fix that."
     excerpt: "Over 2,000 languages originate in Africa, but natural language processing programs support very few of them. By Andrew Paul | Published Aug 11, 2023 11:00 AM EDT There are over 7,000 languages throughout the world, nearly half of which are considered ..."
     publishedDateTime: 2023-08-11T15:00:00Z

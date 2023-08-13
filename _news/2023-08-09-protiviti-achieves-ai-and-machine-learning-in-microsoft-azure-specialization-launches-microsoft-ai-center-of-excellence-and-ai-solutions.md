@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-excerpt: "MENLO PARK, Calif., Aug. 9, 2023 /PRNewswire/ -- Global consulting firm Protiviti has achieved the Artificial Intelligence (AI) and Machine Learning (ML) in Microsoft Azure specialization."
-publishedDateTime: 2023-08-09T14:39:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33669654/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/n33669654/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/33669654"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33669654"
+excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence"
+publishedDateTime: 2023-08-09T16:35:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735"
+webUrl: "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735"
 type: article
-quality: 73
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Find Out How Microsoft’s AI-Powered Shopping Tools Can Save You Money—And Time"
@@ -88,6 +84,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Better Artificial Intelligence Stock: Amazon vs. Microsoft"
+    excerpt: "Amazon and Microsoft are two of the best ways to invest in artificial intelligence ... complete ownership of its AI technology. Moreover, AWS' leading cloud market share could be a powerful ..."
+    publishedDateTime: 2023-08-10T11:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/better-artificial-intelligence-stock:-amazon-vs.-microsoft-0"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
   - title: "Microsoft partners with Aptos Labs to build AI-powered blockchain tools on Azure"
     excerpt: "A compelling new partnership has just been announced between Microsoft and Aptos Labs. The collaboration is set to create an AI-powered tool named Aptos"
     publishedDateTime: 2023-08-09T15:54:00Z
@@ -236,6 +241,6 @@ related:
       domain: datanami.com
     quality: 11
 
-secured: "EBRuwE7xKdb6gVszhjAvVblNG8stQOD3RDwiM1SeD7FwyzuezgpSjqgbZAiYVc4F6KHwfwVtJ7OwAYme592Ozn/pmtfe5/9FB5yIe8fwN3LKoqaN1N64LQgSrY7sR5kNcmDZ7MWSBhMuGyd8++Bu1xmnCT9ICMrhyLE48bnx1jq+IuMznzJPEWHa76w6p1X9nNqJyxGcPOjPvjN31C5y7oLGlwNFK6CHsml4WBYx2GIm68LAB5QE6cnpbW6yjD5jrCXZwwnkvhosSDeGQ6ZRI1zyTeMyugGQSxJunWxl+9PYGawywafbchUOdKUhItcKlpzdQ6/d85ZD+ahxYTxvJpn/ft3xE0OmpoUdXWu3Ck8=;4YWUMVcDrQX3jAnHmvry/A=="
+secured: "lys31STXTkBuaG3YF4ozFhgKKbFgXPnUHtsRpR+x5L0+JK1F2sw8OEtRG2SmMDuaaki+jKgTYCuBCaKk30lMcPYQIaUH8wk52/2Rk0lJoeLXSVAtjpA0DpHQuqj0vaZExpccpMUObWWf/j6GIY2FCdawpctJekVfiqHYt8pXBd9n5RetyW36iw+MZ6qdPNRTRlJeijD8MrVgy/+2WMdmvBHRCEzT/wogD9EV8uGhv1qVIqfnurnWYpklmXWF6zmBB2Eh5l/USmt/2tzBciG3azg+clMxsQh3xb+zoIMpWxNtIgdZN8RRe8TyfiimSmOwq1JZLZsUKmq8s1jYVbPoiUXIn4cK99Vz2j9V6zgyuogmE8ynpnxRVwCy0d81TAYrxkfYIUotkL9J+hAArQTh6qbeOyV6ZnhMuN2HhHighpPfZKmj7mLDoaiwHcT7H3uu29rtFNsClE/5JFi+0OK5o5v0fOzabgIYwoozpIR0tEJOc80xpEkapLTV+bW5Ixa93OmhRS8OMDoo7l4xgS4XyQ==;5vWdlzwz6JgrTWS80W7Ptg=="
 ---
 

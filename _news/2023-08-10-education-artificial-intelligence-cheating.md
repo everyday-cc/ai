@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI Write a Good IEP? What Special Education Experts Say"
-    excerpt: "AI tools could ease paperwork burdens and offer new supports for students—but privacy and efficacy concerns are real."
-    publishedDateTime: 2023-08-11T18:11:00Z
-    webUrl: "https://www.edweek.org/teaching-learning/can-ai-write-a-good-iep-what-special-education-experts-say/2023/08"
+  - title: "Smartling receives AI Breakthrough Award for best machine translation solution"
+    excerpt: "Smartling's solutions are based on AI-powered, natural language processing and guarantee translation quality. LanguageAI™ enables low-to-no-touch operational processes through a combination of ..."
+    publishedDateTime: 2023-08-10T13:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33706156/smartling-receives-ai-breakthrough-award-for-best-machine-translation-solution"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33706156"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33706156"
     type: article
     provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 56
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 70
     images:
-      - url: "https://epe.brightspotcdn.com/dims4/default/027b89d/2147483647/strip/true/crop/6000x4500+0+0/resize/840x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2Fad%2Ffd%2F7e7dcd4b41c783a57c6707685b02%2Fgoals-milestones-transition-plan-1412148116-b.jpg"
-        width: 840
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "+C4dzlrw84/pFkwfIbNCrCUIweb/D8GK6ybPfJEjxV/3D67BIzKzzO/lOF41pubsN41WqNUD9c9pJUnXuj0overXDeOYP2GKzWuvrVofZoJa3QTu6+n1zReHWCwrkjYDcLzGuzIuPVSVbaHJ9psRSFkv+7mH7mViVGPBsqJ5IL8HXO4HvJbtS8k7Kp3zzcQcbLuMIXFIr/+7ciVWAekqy2srymN5ND+Z/4SxOVoJi2LDzAnG3+mknTm175Zxb3PgjpNb3WUrqOwSklXVh2nDQbkR8DJCijD1cF7mqKP4PflTTWwLlxxMlFqAF7rQZ1LWNWjsBosUFPt+22nCTEdac9E2BSGwFaN4HAzo7Cy0VWJa9gqdYlu+6Rvpi0BdBzpT6KVRr/Zroc/2cWO1XsD6KBtPPPWTHV2L50ZRIDyB3XoeVOJmx+VgVcSjsR+wgMAkLG1rsdH/v2tMLAPh/VkCyX39504l29nR8Kwwk0BVQj6dmOy2/3fwd5vZPyqULf13b1H5mcS9BtT0cpXTY2K28A==;9A/TfbctG+OhSxuBPZkt4A=="

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Detroit police changing facial-recognition policy after pregnant woman says she was wrongly charged"
-excerpt: "DETROIT — The Detroit police chief said he’s setting new policies on the use of facial-recognition technology after a woman who was eight months pregnant said she was wrongly charged with ..."
-publishedDateTime: 2023-08-10T17:40:00Z
-originalUrl: "https://www.washingtonpost.com/business/2023/08/10/detroit-police-facial-recognition-mistakes/0bfe29b6-37a3-11ee-ac4e-e707870e43db_story.html"
-webUrl: "https://www.washingtonpost.com/business/2023/08/10/detroit-police-facial-recognition-mistakes/0bfe29b6-37a3-11ee-ac4e-e707870e43db_story.html"
+excerpt: "The Detroit police chief says he’s setting new policies on the use of facial-recognition technology DETROIT -- The Detroit police chief said he's setting new policies on the use of facial ..."
+publishedDateTime: 2023-08-10T21:11:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
+webUrl: "https://abcnews.go.com/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
 type: article
-quality: 10
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: ABC News
+  domain: abcnews.go.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZAAYIDBVLAI65LCO44DYODSD3M_size-normalized.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/US/wirestory_3ed0bff9e8d2e87a5f8fed690abbd870_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -152,6 +154,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Detroit Today: How facial recognition software in criminal investigations can harm communities of color"
+    excerpt: "Congresswoman Rashida Tlaib joins a group of guests to discuss the use of facial recognition technology by police departments."
+    publishedDateTime: 2023-08-11T14:54:00Z
+    webUrl: "https://wdet.org/2023/08/11/facial-recognition-software-communities-of-color/"
+    type: article
+    provider:
+      name: WDET
+      domain: wdet.org
+    quality: 23
+    images:
+      - url: "https://wdet.org/wp-content/uploads/2023/08/AP23219682408856-scaled-e1691765555312.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Eight months pregnant and arrested after false facial recognition match"
     excerpt: "Porcha Woodruff, who is the first woman known to be wrongfully accused as a result of facial recognition technology, thought the police who showed up at her door to arrest her for carjacking were joking."
     publishedDateTime: 2023-08-09T18:00:00Z
@@ -161,6 +177,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
+  - title: "Detroit changing facial-recognition policy after police allegedly charge wrong woman"
+    excerpt: "DETROIT (AP) — The Detroit police chief said he’s setting new policies on the use of facial-recognition technology after a woman who was eight months pregnant said she was wrongly charged with ..."
+    publishedDateTime: 2023-08-11T02:43:00Z
+    webUrl: "https://thegrio.com/2023/08/10/detroit-changing-facial-recognition-policy-after-police-allegedly-charge-wrong-woman/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 17
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2023/01/AP23002642945589-scaled.jpg?w=428"
+        width: 428
+        height: 290
+        isCached: true
   - title: "Detroit police plan facial recognition policy changes after false arrest lawsuit"
     excerpt: "The Detroit Police Department will be changing its policies surrounding the use of facial recognition technology in police lineups. The changes come on the heels of a lawsuit filed against the department."
     publishedDateTime: 2023-08-10T03:11:00Z
@@ -198,6 +228,6 @@ related:
       domain: people.com
     quality: 0
 
-secured: "Sj0pV0d9xr518q94rQuXXoh/YhNGt9T+qnhqL81YQZ68DdyiAgl8FoyjytYnqWMqC3zkf/FebZRyfQwo4vgpfU0Ihb++dBvb6x+U3PUD/fris+w9Ky9POGMdWdDO33VQbG8gn0FoEweBp/zAybYCFGHRxQxGsV5FSzYu5KX5byZfOcyB+O1S//Kd4b8pQfc70Hi1yZACNqEJt30zw0aDHzS+xKqyHvqTBZm3bdi1IOn/ojMN3WTFg0J7kIuA8rx3S3+0CT94iLenzNVqkXuMUH4cR3VsHvpOOPCN8LuyP+gzjth9dqi3IuCmicwlNx6WVDMWA2mV599uc0YWpCDqh5DFKjkFZRDfCcq9CQTXfLY=;vVNx3PPim923CSKcRDfzCw=="
+secured: "JdCH7y57l0pwmwNUo6Rhey4qRQhku0lhe4fPWk+qkmD7OTXrAaiGF3WUZO+VdSZrEn2rlIi+eVeRw6d97pjBQZdqs0dfMPWhz26rEK7n+RaP2l0AjqFHhQ7tC9Nq8OmewR666rk+MJA1EEmFg9dnx3YOmGpG3Hp7i8soy8Qt/yAPfNSpi+IQ8VULyYRz+WQeBbJaZZmvygbGtDLwDjocrRsphOjy7vLzIsyGRDppki5w+waufnTtzeaUYBxoZSbAHf/4qcxVMQ31bDUUnnt2x8ZLMp4kYg7JuwE7FWvM70NlcaNS951PCMQSbQdvADZmeTdFCKXa/W7SgzO8kgqn6bgzL1kwIJBwW0z4OB8GyRc=;z8zO3yojkQhQzU7I6GStNA=="
 ---
 

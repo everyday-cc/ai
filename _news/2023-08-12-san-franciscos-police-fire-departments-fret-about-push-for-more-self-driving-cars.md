@@ -206,6 +206,15 @@ related:
       name: WXXI
       domain: wxxinews.org
     quality: 0
+  - title: "Two rival robotaxi services win approval to operate throughout San Francisco despite safety concerns"
+    excerpt: "SAN FRANCISCO — California regulators on Thursday approved an expansion that will allow two rival robotaxi services to operate throughout San Francisco at all hours, despite safety worries ..."
+    publishedDateTime: 2023-08-10T22:33:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/08/10/robotaxis-cruise-waymo-san-francisco-artificial-intelligence/b8ae1f7a-3732-11ee-ac4e-e707870e43db_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 0
   - title: "Startup Altruist plans to open San Francisco office as it scraps remote-first strategy"
     excerpt: "One of the latest to shift from remote-first to a hybrid-workplace model is Culver City-based Altruist, which plans to open a San Francisco office for its Bay Area workforce. The company employs about 30 people in the Bay Area, according to RIABiz.com, an industry publication for financial advisers."
     publishedDateTime: 2023-08-11T21:39:00Z

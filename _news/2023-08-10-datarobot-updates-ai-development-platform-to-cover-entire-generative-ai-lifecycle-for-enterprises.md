@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/datarobot-updates-ai-development-platfo
 webUrl: "https://venturebeat.com/ai/datarobot-updates-ai-development-platform-to-cover-entire-generative-ai-lifecycle-for-enterprises/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/rasgo.png?w=1200&strip=all"
         width: 1032
         height: 668
-        isCached: true
-  - title: "Stability AI and Google target software developers with latest generative AI tools"
-    excerpt: "While Stability AI is taking its first stab at code generation with its latest generative AI model, Google has introduced a web-based development environment that aims to make life easier for developers building multiplatform applications."
-    publishedDateTime: 2023-08-09T01:58:00Z
-    webUrl: "https://siliconangle.com/2023/08/08/stability-ai-google-target-software-developers-latest-generative-ai-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/ai-site-helping-with-software-production.jpg"
-        width: 2000
-        height: 1125
         isCached: true
   - title: "DataRobot announces new applied generative AI offering for building trustworthy AI apps"
     excerpt: "Artificial intelligence startup DataRobot Inc. today announced a new generative AI offering designed to allow businesses and developers to integrate their data into AI models and gain confidence in the answers that they receive."

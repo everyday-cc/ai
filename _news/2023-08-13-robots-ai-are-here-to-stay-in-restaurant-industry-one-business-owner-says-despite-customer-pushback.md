@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/media/tech-sad-reality-restaurant-industrys-fut
 ampWebUrl: "https://www.foxnews.com/media/tech-sad-reality-restaurant-industrys-future-business-owner-says-robot-works-12-hours-day.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tech-sad-reality-restaurant-industrys-future-business-owner-says-robot-works-12-hours-day.amp"
 type: article
-quality: 71
-heat: 71
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31bebe45-782f-4b1c-a841-736695a22921/0a8e08e5-6077-4c1b-a8f5-2f7645837724/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Moed1lDRxioWTxPwRPs2yVl9XAsi/wcpVDZpiytlQ1p0kYHXjPfS1VV4wFYq8setszC7SAn1fWNtrTJZhp1j637BL1n7o46UQbj+MwmI5u2MW3Sn25/cUdTcSQ4lQNxlWOxpqfbBWy7aYTnrkySMwF0xb4erE+38/WmZEuJ8mv3G/89IDj1xDWeJsFo5y1IePStjo2wg3bE1U/IOKGXJJg8Db/j11wPkAesrSi1yCpZ3tIQvF9GdlNhS/jtZPW/sBuDs5waypM2I+hwk2onyXUEuKrgFlOYKE9GYUfiqV/Nx5Ggk4KLgOPVw9iMSOUDkaiCqYtoujF5zrDgjsgmdPOWQrwTCRTxN6+gAwAlih2Q=;4lCtAGetKITYjq9QlPKsaA=="
+secured: "I1ukUwFKOvIVVVBf/Z8TStwpRBCjwaH/TGS5AUE1kDkYt+G1QOtuSrP46GVkAeeFUb1vJi2T+JB1r7PuNReP72AEanZyXaidVo49wL0LLMtfZPYTrgaGVwp6ajWp8yHIQnCrnF8+GIjT3Mw78AC2maokEIchiDSpRh6ucOD6aVLmPpz1XsQakMlI1qQTcN7BGodadqIeYSO/S5whrRKwL/C7Zx4bhE2+W+p99wtWDRULwSqAd4idtnxmV/gNdIVxkSd2yK/L3Ffgc46IgA3yxGzA8r6Oh1lTKXSZ/durKzgbRKQAqEwTjJ0jTJ2s1llavkPzIhnI9cCELkCnvMi0bPA9QMFMs4KDnp0+qqfvx9Y3SODlkW5E0MBt599wJujGjU30/Y8FACLKPItIG4suardl+eCLlnbvu93Q2UXDuM9vuZb8Lbp0Y/GEj6shA9GpB8HZ6nNGW5cqS2+j7lC44/PXDuuWNXpbVlMOEcnEDQyGYCsI1EsDKwpPd3+pAcY8t6nwJnC4zZuB8KY7ruEtOw==;gBhhmzQjSYR8wd/0TMS1tg=="
 ---
 

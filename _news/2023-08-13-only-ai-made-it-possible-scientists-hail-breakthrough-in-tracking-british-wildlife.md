@@ -3,8 +3,8 @@ category: news
 title: "‘Only AI made it possible’: scientists hail breakthrough in tracking British wildlife"
 excerpt: "Technology proves able to identify dozens of species in thousands of hours of recordings"
 publishedDateTime: 2023-08-13T08:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/aug/13/only-ai-made-it-possible-scientists-hail-breakthrough-in-tracking-british-wildlife?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2023/aug/13/only-ai-made-it-possible-scientists-hail-breakthrough-in-tracking-british-wildlife?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2023/aug/13/only-ai-made-it-possible-scientists-hail-breakthrough-in-tracking-british-wildlife"
+webUrl: "https://www.theguardian.com/technology/2023/aug/13/only-ai-made-it-possible-scientists-hail-breakthrough-in-tracking-british-wildlife"
 type: article
 quality: 10
 heat: 10
@@ -21,6 +21,6 @@ provider:
 topics:
   - AI
 
-secured: "dLXDOvFZ0O6MpgkstFxka7fpbvgEYLDt1wnfV8KNaZhbxbGNuE2yut67c7VgZfRZIHnE+RSLdUW4VnY/gjvCjtjL/mrqJdZtiUw9CM14Rt+qL2j4vdEMUvMcrQpNEq77weKnLjAxUM3enr89ehfmJb2LxmoIBzu+UtNlOv8D6qDlfPu0knw7iVIDG88AShp46t6oPE1oHtpHyFWFQxqolVROoU/hGlKFMmNFOJTvmbfG9JbpL4TwEhhISuJSzPX2AAnQ3d/aIt6T+X62TAAIPvrFfIMdCDUOeVrZdB527+gB3mFN4Y5wyXU2KNa6nrIyDCfinFCITxFtGY9ox1y+LEUttahm5qECa0+oR4JtmAen36pHmFs0ZecgHcdHQ5RL1b9B02Hig1ksv/syzJHF2nQiLayIo6czAPGCgWQrynDJlaMubvqwt2VwaHbC4xpQ2MnDTaL240SpAx0M8KW5W9hjBJwg6nJFimWkmlNpPr+KeamLDgIC257OzbfD+LAtEsImTNBuoEJzSrzyODesAA==;i7xxV+2oncgN2MREJv2Zuw=="
+secured: "3k/wgneb3boiteJ/dIYLvnh7vCA4u4T5MBXAcwSjjvAHiRt8AGt0jGcKW4pPRKsTrGgZ/w8DvVJAqdLq0d9q+eEamDop+l7yv05w6WSJNBEij6ruQqtPzwR2iBpL2jzjczx7OzxsZMJexJcq/5SvYhSyxbcDchbTPJe/PnYY8TxwMs7FKyouXUw4CPabXh+zcMEwapZly9letulrq6T5y2wGH75/IginaZcGqTiFn3OpdNJQdbyEZvWgoeB2duedp9bdd+im371A5GTV31dwb8ln9mMy9PfjIkDK0wrr8H1fx7ibMWwkHJZSjKD3ZX5widhgO3uleB7TPafQGtFhFRC4sLL2kAhd4Jxqcy/nJOeII7jRZ/s4rFaYH70/RLkoCCN6/n3DfysDTyfA8X19GJnSc0oXDDQgaW8xIp9ee4DB7wKq1r8QPcXdBUBHR58gHCHlN7OzXOF8H0jg0KaHiXzI/mEchnLS0xM4hvsBUCOC3RWKpss973i68DbwoFV2jq2KpQVYVS+/+m5cAvJX8w==;zuGgsSRfc2ge42lhZr8UAg=="
 ---
 

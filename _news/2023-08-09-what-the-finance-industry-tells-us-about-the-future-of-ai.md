@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Time To Redesign Your Career For The Age Of Artificial Intelligence"
+    excerpt: "The continued rise of AI will change the type of work we do, and how we do it, but augmenting rather than replacing human capabilities."
+    publishedDateTime: 2023-08-13T21:30:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d940f4725deaf2b4635ebc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "7gRUZFl5ZPhVbz71EmYIrnAa7mfprpaJK7QlygQ4B4QmCspKiWlsg3qPh9Wxbh2gvy+3wXZw2CPhdtLfzDE57m1RpKRBz5wSa1tKzZ6oDxsIDeZULu1ltOqTMzFfIL/VCklQ629YB2UE1AdlBagdRNlhstMqeGKgdzF5q3e1+segxxH3dOxz6xhI94Ksx/gBe0Jk+UN1UHDSAQ+lG+c4hxVXlAHuA4uw4HmHzogY2//1V/wag4CzYLieahkAUNCVjmbRx3qx/q97tVmAhqy4ns1faXyVbyicrqf7a8axuxq6fCTQiaECTFRq6yiY0iIzvMxfdGl0Cu8G6PVAp9ITZaHHzCjHaHGLg3sV7NulR98Ept5icRH/UcnbAVXlRitf5jg+4XSp4BPsyAhdwlzo0PAYIZiOT0l3RYwZAIqw6W5SxZ18Hl7brYdmdhV0XWcRtMOwQM3jp1OM1R06Jx+4fLZjD05k+95yGv4xX7FwJ1MEX6rK8XPIS3XRy9cm2M+EXbMuFPs5SjJAqUXudaXiMg==;jrTmJCd1D8gRzPPTwNGTWg=="
 ---

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Fiction writers fear the rise of AI, but also see it as a story to tell"
-excerpt: "Other AI-themed novels expected in the next two years include Sean ... \"It's so weird how, with apps, you start to feel as if you're going person-shopping,\" she said. \"And I thought, wouldn't it be great if you could really pick and choose the best parts ..."
-publishedDateTime: 2023-08-13T17:32:00Z
-originalUrl: "https://www.ksl.com/article/50708755/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell"
-webUrl: "https://www.ksl.com/article/50708755/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell"
+excerpt: "Crime writer Jeffrey Diger, known for his thrillers set in contemporary Greece, is working on a novel touching upon AI and the metaverse, the outgrowth of being “continually on the lookout for what’s percolating on the edge of societal change,” he said."
+publishedDateTime: 2023-08-13T17:52:00Z
+originalUrl: "https://www.kvue.com/article/news/nation-world/artificial-intelligence-fiction-book-writers/507-603f0413-538e-4d35-9161-74c1d09cd9aa"
+webUrl: "https://www.kvue.com/article/news/nation-world/artificial-intelligence-fiction-book-writers/507-603f0413-538e-4d35-9161-74c1d09cd9aa"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: KSL
-  domain: ksl.com
+  name: KVUE
+  domain: kvue.com
 
 topics:
   - AI
-
-images:
-  - url: "https://img.ksl.com/slc/2942/294288/29428879.jpg?filter=kslv2/responsive_story_lg"
-    width: 1228
-    height: 690
-    isCached: true
 
 related:
   - title: "Fiction Writers Fear The Rise Of AI, But Also See It As a Story To Tell"
@@ -53,6 +47,6 @@ related:
         height: 1897
         isCached: true
 
-secured: "YMDF6NjT247fn7Pk2ywX+w32aHpMQ/xNGmJ/NNJbb3Jp2S/o33GmZYEDKeAF1O2A5PC40SRhuY7VXWhvjR0VcKWxlZBY+oJLlzaYZ6ZcgOVhwvdJg/b0BU3H580odQrz4IabJ9jwXpMzj7yz8SbsKWPDyujq+CW5sTglI2b+sMn62RaJxLb+vEzbZwnw+fHRHKx0VqzcJvf3BZqwxwadkEGh0DkHXL9U9ryyBdS1uSDSxsJ1uO/JmWTa46U40y32U38FrXdSOxWVJLWRb+p/v+cR3i5vJCc12rfHqEbejBYUvN01P/PXr66t/Sk3aWp2wZ0sfbhAMa5zcfLn1qG2UNk4eqQmoV0T3Jxc/rGlqqM=;aSDgRUZACSV9K3HxkiRyyQ=="
+secured: "7pBg8uGG3s5Q92bgWx/sioUnT2AW+JyxjOXsNerNpE90HsEBsdypKk3JLuOgJ8823B/soRWVz+qwQkWoDz4cnihcXkyRLkJ8dtk99RprDFi++PCCL9I6K0bsnjghK+6ccTB0jAGZIAdRh+CK+cOQW2lb5YjJSvYvirrXij5Zhijoja8cmia6mnYJLr0yc/CcGqpJKP00IxYg0QgPDBLzgkBwqNlGY21bdQTePDnI4HLC5T978OpWJAfNYbSSNo2iEGYM9Z7ZDlwVFUQ/JHosVTl420HMD0MOjVmKGiOUYgKUPKiAui9huUz4b3kW+Y7KdBnCjebQFv7DodBu0qL+a9n+FSYQjrwDJZBMais/amq81bZJBPQJM7MXbGcp/ROmXlJPVAqtqwO1P3OAAm63RtCqf8EfNCt3gBNGzxds5WJlEzO/0OSnopCr4HznxCNtdGWM671G936k/Vk4ZUvbqeUnaTlDy/GqrxrLZ4OYl1+ihpM3+f2Xkg6+4DkVAsg6Le3GfkRPBLWDfGWr2X5lQw==;n+a3jFU1WsfTpWzBXSghqA=="
 ---
 

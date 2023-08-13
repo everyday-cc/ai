@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/blockchain-infibeam-avenue
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-infibeam-avenues-ltd-to-include-ai-on-its-platform-3206443/lite/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Infibeam Avenues To Foray Into Fraud Detection Market With Its AI HUB In GIFT City"
-    excerpt: "Fintech startup Infibeam Avenues on Tuesday (August 8) announced that it will foray into the AI-enabled fraud detection market. The listed company plans to build AI-based solutions for authentication, fraud detection and risk identification for both domestic and global markets."
-    publishedDateTime: 2023-08-09T01:30:00Z
-    webUrl: "https://inc42.com/buzz/infibeam-avenues-to-foray-into-fraud-detection-market-with-its-ai-hub-in-gift-city/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 33
-    images:
-      - url: "https://cdn.inc42.com/wp-content/uploads/2023/08/infibeam-ai-social-.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "3zFUzvyfmnXxxw0ltSAjNM2G/RCYN7Vl0Hxw0OueZbpMcU4RSCjbRR93c+nTM/kUnzmrRwe+5txkwWXWdXPhf3hS9anw/K5+kC3cXXEUhWqAkyGz5vKTJXUK00VsxK5XQSUnr7/bP53hmy/dbz5NwbTokbhnFjoC/yRrJRXkUCEKyHs9gS0fShZIC56HSb1pXOSR/bnLhxTJ+YbJLwSQ+26UkJ598cmYqKB5F2WVPcYwZHf/5w99KBqADLzgmc7o0IbtQDVPFXZr31O6NhPqLRNM0dnhqyJsWmgz8rmkVdHzj9/c3Lm5dWdowHOXtnY97+27q8+PHtXPpzMKl9EUl0aKbmeB2/Uc4SKEoPpnrzw=;SyYc0FWZ7SMKq5wTwULV6A=="
 ---

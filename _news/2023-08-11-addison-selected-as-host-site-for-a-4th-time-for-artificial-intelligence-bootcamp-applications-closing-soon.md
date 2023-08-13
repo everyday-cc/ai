@@ -45,6 +45,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "Mountain View Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING ..."
+    excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by ThoughtSpot in"
+    publishedDateTime: 2023-08-10T20:33:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing/article_d193030c-0131-5923-bba0-8c8ffa56db9f.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 40
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Madison Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "MADISON, Wis., Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Fetch in Madison. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-11T18:48:00Z

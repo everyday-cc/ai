@@ -56,19 +56,23 @@ related:
         height: 600
         isCached: true
   - title: "£13m allocated for research into use of artificial intelligence in healthcare"
-    excerpt: "The Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare."
-    publishedDateTime: 2023-08-09T21:01:00Z
-    webUrl: "https://www.independent.co.uk/news/uk/politics/nhs-government-steve-barclay-james-cleverly-prime-minister-b2390558.html"
+    excerpt: "The Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare. The move, announced by Technology Secretary ..."
+    publishedDateTime: 2023-08-10T08:28:00Z
+    webUrl: "https://www.aol.co.uk/news/13m-allocated-research-artificial-intelligence-230100126.html"
     type: article
     provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 53
-    images:
-      - url: "https://static.independent.co.uk/2023/08/10/00/0a48a35067bb751bb5abd6562da587f9Y29udGVudHNlYXJjaGFwaSwxNjkxNjc4NzY3-2.69139511.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
+      name: AOL.co.uk
+      domain: aol.co.uk
+    quality: 31
+  - title: "£13m allocated for research into use of artificial intelligence in healthcare"
+    excerpt: "he Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare. The move, announced by Technology Secretary ..."
+    publishedDateTime: 2023-08-11T01:57:00Z
+    webUrl: "https://www.standard.co.uk/news/politics/nhs-michelle-donelan-government-james-cleverly-artificial-intelligence-b1099748.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 31
 
 secured: "DQzsxVMqPl7zVm0JjEiJBUgHgJTdTuAZJPcoOHgUdBzeORWxVIOcxBfuCPWJXcjctBGUAtbeMQ2ceNxBijp+06ccEIyk8yILuCQfL5czS5ZNK3/mGKL+qiSaNddu6aeR1JI4zEl3eCMWgU9RnX0qObbm1fMs7PWrcTdjFA4JwyoUk6Wq7M2VuqYHeKt8yx0KE/kAF2BJ+o5QBnZzEB9WQS+USU2aFaWDMxuKM34lOibIiGeqqVU7d3A0InhD9WllMvVt4gEq/Ax8hWQ4htHHnKxaZYnjKlWdiULdd/AZkEu0GpOretg50ZC+HfMbs8KSBM5y2EngAUZjWQcDTG8GrBVwF5gbBdQ6iSQFh4WaonDJDhlBLgBXrrnZdAnObajpt9cTvVxBu0X4dr7VFrQVPObKbrhSt6zUQGGGIb++GqW8x7jDkc6xpDvZJmRR6gbXrN5UrFopQpLVCjBua1n0rNa8oSy6I7VzbedBv57uZdFY56mpyihut50Owp+kZNb9V6v7Bi76/MwWhjOPwr3+sQ==;gXdEOsD37M4t7wnVfpTl0g=="
 ---

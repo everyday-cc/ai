@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 673
         isCached: true
-  - title: "Amazon nations seek common voice on climate change"
-    excerpt: "Leaders from South American nations home to the Amazon challenged developed countries Tuesday to do more to stop massive destruction of the world's largest rainforest, a task they said can't fall to just a few when the crisis has been caused by so"
-    publishedDateTime: 2023-08-09T05:00:00Z
-    webUrl: "https://www.semissourian.com/story/3005451.html"
-    type: article
-    provider:
-      name: Southeast Missourian
-      domain: semissourian.com
-    quality: 24
-    images:
-      - url: "https://www.semissourian.com/photos/38/77/69/3877690-G.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Amazon nations seek common voice on climate change, urge action from industrialized world"
     excerpt: "Eight Amazon nations called on industrialized countries to do more to help preserve the world's largest rainforest as they met at a major summit in Brazil to chart a common course on how to combat climate change."
     publishedDateTime: 2023-08-09T11:09:00Z

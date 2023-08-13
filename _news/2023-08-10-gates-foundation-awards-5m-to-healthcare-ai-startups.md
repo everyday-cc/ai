@@ -41,20 +41,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "£13m allocated for research into use of artificial intelligence in healthcare"
-    excerpt: "The Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare."
-    publishedDateTime: 2023-08-09T21:01:00Z
-    webUrl: "https://www.independent.co.uk/news/uk/politics/nhs-government-steve-barclay-james-cleverly-prime-minister-b2390558.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 53
-    images:
-      - url: "https://static.independent.co.uk/2023/08/10/00/0a48a35067bb751bb5abd6562da587f9Y29udGVudHNlYXJjaGFwaSwxNjkxNjc4NzY3-2.69139511.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Aptos Labs taps into Microsoft’s AI infrastructure to accelerate Web3 adoption"
     excerpt: "Aptos Labs and Microsoft have announced a partnership that could see developers leverage Microsoft’s AI tech to boost Web3 adoption."
     publishedDateTime: 2023-08-09T13:41:00Z
@@ -69,6 +55,24 @@ related:
         width: 500
         height: 282
         isCached: true
+  - title: "£13m allocated for research into use of artificial intelligence in healthcare"
+    excerpt: "The Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare. The move, announced by Technology Secretary ..."
+    publishedDateTime: 2023-08-10T08:28:00Z
+    webUrl: "https://www.aol.co.uk/news/13m-allocated-research-artificial-intelligence-230100126.html"
+    type: article
+    provider:
+      name: AOL.co.uk
+      domain: aol.co.uk
+    quality: 31
+  - title: "£13m allocated for research into use of artificial intelligence in healthcare"
+    excerpt: "he Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare. The move, announced by Technology Secretary ..."
+    publishedDateTime: 2023-08-11T01:57:00Z
+    webUrl: "https://www.standard.co.uk/news/politics/nhs-michelle-donelan-government-james-cleverly-artificial-intelligence-b1099748.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 31
 
 secured: "leV29iJlrBww82eyFNyOewZBWBkOrNG0wE7icJIMw0PygZHymt9leWB+DrJb12rtofcu2NXWbdrYduUmIb966P8bzsc0QCKzYjHQ6wHgv+uRrhMFM0b6KYrymSv9BgxzFQbK1TFW4hD1Vkz7PbWXvPa/DO+AGKhOdGkims2ksbF5titmIuUbxA8CeFFpjPP/PRxMFo5N4XEeLX/FzKpcSk7ls0tNZRi+CV4/RJOEaYgNKyE4+NdKhpZGUU1JsIgVwP5gF0D74/qNpFD897kGrU/NG6zEe4M4gBi7IWYtEG5B8t2CLa9aYpmEmYgt5WXTUOM5dxkpDWFB4fW79PlRumAWlRGEPM9Cv4OHpAO+abA=;qsJjWoJFcX6+uxHJ/wgOuQ=="
 ---

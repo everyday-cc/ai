@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fiction writers fear the rise of AI, but also see it as a story to tell"
-    excerpt: "Other AI-themed novels expected in the next two years include Sean ... \"It's so weird how, with apps, you start to feel as if you're going person-shopping,\" she said. \"And I thought, wouldn't it be great if you could really pick and choose the best parts ..."
-    publishedDateTime: 2023-08-13T17:32:00Z
-    webUrl: "https://www.ksl.com/article/50708755/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 37
-    images:
-      - url: "https://img.ksl.com/slc/2942/294288/29428879.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
   - title: "Fiction writers fear the rise of artificial intelligence, but also see it as a story to tell"
     excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity."
     publishedDateTime: 2023-08-13T10:20:00Z
@@ -52,6 +38,15 @@ related:
         width: 2560
         height: 1897
         isCached: true
+  - title: "Fiction writers fear the rise of AI, but also see it as a story to tell"
+    excerpt: "Crime writer Jeffrey Diger, known for his thrillers set in contemporary Greece, is working on a novel touching upon AI and the metaverse, the outgrowth of being “continually on the lookout for what’s percolating on the edge of societal change,” he said."
+    publishedDateTime: 2023-08-13T17:52:00Z
+    webUrl: "https://www.kvue.com/article/news/nation-world/artificial-intelligence-fiction-book-writers/507-603f0413-538e-4d35-9161-74c1d09cd9aa"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 17
 
 secured: "jaRE2moMzoYBepd697e8PER8S5NNFaXap7LJulladusH8XGbEaj2VtyB0NayRfKcMJ6W+hyDFSehMc+TBZ1qBpTfepYY/eRBwfh+GHvYcWRQQXVRwblPqb25q4Foi5bfnPJKEHIoSUxQnlq2g0Cu74nX5RUd081yKVawOkKksCGKiEat91dxeBMgZc8/HQ+WCSQ2tUv+DMOE1iRcu8m9gyM7a3JUoDCQA4KGyVtbtAxIiLRhf0U6HqlVUzUubWte5AalgOY7JfsBGIoMVb4O0kVfmRGYorkzbf6fmiMCMRh7Cczce//DmIFu04C1ejpCBqbVf1RdSOXMzNbvDB57dcFjd1REhr7Eqc48POYnkis=;yRIKFvPnaC5iO1kIoGeqKw=="
 ---
