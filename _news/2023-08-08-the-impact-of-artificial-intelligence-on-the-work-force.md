@@ -19,40 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Will AI Augment Or Replace Workers?"
-    excerpt: "AI and other emerging technologies will shift industry practices and human labor norms. However, the manner in which those shifts occur is not always clear, and history tells us that there will still be work for humans to do when the dust settles."
-    publishedDateTime: 2023-08-08T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/will-ai-augment-or-replace-workers/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/08/will-ai-augment-or-replace-workers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/08/will-ai-augment-or-replace-workers/amp/"
+  - title: "How AI is helping airlines mitigate the climate impact of contrails"
+    excerpt: "We used AI to help airlines choose routes that are less likely to cause contrails, minimizing the environmental impact of flights."
+    publishedDateTime: 2023-08-08T19:00:00Z
+    webUrl: "https://blog.google/technology/ai/ai-airlines-contrails-climate-change/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d10a66dac046390f16bfb6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Introducing Your New Coworker: AI"
-    excerpt: "Workers in a variety of fields have witnessed the dawn of AI with understandable suspicion. Should I be worried? Will it take my job? While concern is warranted, it can still help get stuff done. (Sou"
-    publishedDateTime: 2023-08-11T11:03:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2023-08-11/introducing-your-new-coworker-ai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Artificial intelligence is cleverer than you, workers told"
-    excerpt: "“Artificial intelligence is cleverer than you”. That’s what some workers are being told when they challenge the use of the new technology to manage their work."
-    publishedDateTime: 2023-08-09T12:08:00Z
-    webUrl: "https://www.tuc.org.uk/blogs/artificial-intelligence-cleverer-you-workers-told"
-    type: article
-    provider:
-      name: tuc.org.uk
-      domain: tuc.org.uk
-    quality: 19
+      name: Google
+      domain: blog.google
+    quality: 69
 
 secured: "614P4nuEJ0JjQDC/mhud31PG9i6xIQbcR3Sseazg15BDR9FYfMDmtzGQr7BSWEuHHLIz0EGIntVPdTD1as+z3o0is0f2JFuWEfrdc31u+ppyH4HwaJ6LbYcsJGWg2sX0MQgIh/SEz+RDlCl2tauXL7gYT/j/ohfxnw4Ly/gvQC0/n45eorA49a3uL0bp7n8Oas9PXuyNt+yueZOu+Udqq5tISWwgxllmmJj83LxS2ay2KK9hjK9rOTWr04O7gDeNGRDsj0LhbM22FF7ryaDU+pLQ3/De6yNo930TezC9dB/QR3z9ZLUz/gSoLZOuEy2fh01oVnpq9Sy7SYf22oGbxyqF33ghR+MAZMtaJlax8sZHREMrowj+56AaRfiVGYyJqqYG1XghcuQ/W+wqhKLsE6TGXPUCHYG9gdDXWyxxVoONJzg7zm6hRed+9HB1v00f5atwYMWMZG2dY/bT113HlJLj+99wobs2yc1Z/JgIgLQkyDycDbd0nEKVhSjq9CJlZeim+9Tbi/ke4Eyn/Z6DDg==;Wf3TDnlA6NNciiFSJdHAzg=="
 ---

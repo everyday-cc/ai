@@ -2,48 +2,6 @@
   "page": 79,
   "value": [
     {
-      "path": "_news/2023-06-21-what-is-data-center-management.md",
-      "title": "What is data center management?",
-      "excerpt": "Data center management encompasses the tasks and management tools necessary to keep their private data centers operational, secure and compliant.\nThe post What is data center management? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-data-center-management/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-data-center-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T06:07:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-21-using-event-notifications-in-your-deployed-solutions.md",
       "title": "Using Event Notifications in your deployed solutions",
       "excerpt": "How to create and configure the Event Notifications service using an IaC template and configure an example application to send custom events. \nThe post Using Event Notifications in your deployed solutions appeared first on IBM Blog.\n",
@@ -1122,6 +1080,49 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023.md",
+      "title": "Global X ETFs: Artificial Intelligence, Robotics & Automation, and Mobility are the key investment themes for 2H2023",
+      "excerpt": "Global X ETFs, a leading global provider of exchange-traded funds (ETFs), today announced its 2023 half-year market outlook. Jon",
+      "sourceUrl": null,
+      "webUrl": "https://www.macaubusiness.com/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/",
+      "originalUrl": "https://www.macaubusiness.com/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/IMG-2019-w5ZVad.jpeg",
+          "width": 1210,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

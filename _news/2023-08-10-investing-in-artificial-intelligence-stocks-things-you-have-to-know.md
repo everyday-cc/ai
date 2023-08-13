@@ -37,20 +37,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "We must build trust in AI for use in health care"
-    excerpt: "It would seem then, the best hope for the continued development of AI in health care is technology guided by a human touch. The public must trust in the ability of AI tools to produce accurate and reliable information, and believe that such information, gathered without prejudice, assists a physician’s ability to care for patients."
-    publishedDateTime: 2023-08-08T10:00:00Z
-    webUrl: "https://www.newsday.com/opinion/commentary/guest-essays/ai-artificial-intelligence-health-care-drugmaking-gwk1leoa"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 39
-    images:
-      - url: "https://cdn.newsday.com/ace/c:YmI1NDQzZWMtMDI0NS00:OWNjNzYy/landscape/1280"
-        width: 1280
-        height: 719
-        isCached: true
 
 secured: "XY8FrSDMHmhjjOaRsBVJrmrAUNx8NXFlMjXc7fkq+2i7MtWHJE18WGVgjKsrzkZOY7taBYX1ufvh/A08LfbPGFrrGbU+9glRLU30NCPpToOtntUrmZNoeix6oaQNZdSluzJcFY5i5yYlcnqKfiu1jdZXE/oR2gyAVZXc7ZgRe/ASj5DeG3WwlQuIIjQW+xGrFFhNkeXaLMc3ElBGCyzpchBA7pIKwGZbUVVKmRbbM+exRWLZZhoPBzhVpi7iPYXfxKj/Fnd50uo6qF4+JHbz20idei5zWEAfUJ8GxZWAkzTjdXOV97tx1T5wdzxfiqIsUqColf09gvuTe9PTwk94B5dRf35yg6vvaK6erEj+LzAZ6LhkdbcNbwyQznZoMkz3sGPzkA+0NBYRj66VQa/sDsv15Y/Z5XOBFolIj1c8Y6+zYbiaQz54hHHRcI8GwL0cmGFtXElFEYwtXh10/yyYG2aN59y65anVmAnmMe8DIOkp9ua+Q/SigHWTy+8Y63nHylvtZ8CIXIvya1dh0dHmGA==;xCikU3W/qKLKvIBl5YidZw=="
 ---

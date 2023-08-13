@@ -31,100 +31,84 @@ images:
     isCached: true
 
 related:
-  - title: "AI is ruining the internet"
-    excerpt: "From way more spam to sneakier scams, AI is going to make even the most basic online tasks more annoying — and unreliable."
-    publishedDateTime: 2023-08-08T10:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
+  - title: "When AI and Robotics Combine"
+    excerpt: "Drawing on advances in the commercial tech industry, military organizations are combining AI software with drone ships, planes, and tanks to create what some call “lethal autonomous weapons systems” and others “killer robots”—that is,"
+    publishedDateTime: 2023-08-09T09:30:00Z
+    webUrl: "https://www.thenation.com/article/world/when-ai-and-robotics-combine/"
+    ampWebUrl: "https://www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
+      name: The Nation
+      domain: thenation.com
+    quality: 89
     images:
-      - url: "https://i.insider.com/64cbf0930f3dff0019568fce?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.thenation.com/wp-content/uploads/2023/08/robot-weapon-AP.jpg"
+        width: 1440
+        height: 907
         isCached: true
-  - title: "Artificial Intelligence is already radically altering the world of case management"
-    excerpt: "Some of the brightest minds in the technologies of the future have been unusually vocal about the potential dangers of Artificial Intelligence (AI), with"
-    publishedDateTime: 2023-08-09T08:23:00Z
-    webUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/"
-    ampWebUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
-    cdnAmpWebUrl: "https://hrnews-co-uk.cdn.ampproject.org/c/s/hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
+  - title: "Combining AI and traditional methods can help us predict air quality"
+    excerpt: "Combined models will be more accurate ways to forecast hazardous air quality, particularly during unpredictable events like wildfire smoke."
+    publishedDateTime: 2023-08-12T23:00:00Z
+    webUrl: "https://www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/"
+    ampWebUrl: "https://www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/?amp"
     type: article
     provider:
-      name: UK Human Resources News
-      domain: hrnews.co.uk
-    quality: 55
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
     images:
-      - url: "https://hrnews.co.uk/wp-content/uploads/2023/08/Image-62.png"
-        width: 1200
-        height: 675
+      - url: "https://www.popsci.com/uploads/2023/08/11/My-project-2023-08-11T114827.562.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
-  - title: "AI threatens to add to the growing wave of fraud but is also helping tackle it"
-    excerpt: "There were 4.5 million reported incidents of fraud in the UK in 2021/22, up 25% on the year before. It is a growing problem which costs billions of pounds every year."
-    publishedDateTime: 2023-08-10T15:00:00Z
-    webUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
+  - title: "VAST Data Launches its Comprehensive, Robust Data Platform to Support AI and ML Workflows"
+    excerpt: "VAST Data, the data platform company for the AI era, is unveiling its data computing platform, engineered to underpin the burgeoning world of AI that rivals the capabilities of other existing data platforms."
+    publishedDateTime: 2023-08-09T15:49:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/VAST-Data-Launches-its-Comprehensive-Robust-Data-Platform-to-Support-AI-and-ML-Workflows-159991.aspx"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 55
+      name: dbta
+      domain: dbta.com
+    quality: 47
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-threatens-to-add-to.jpg"
-        width: 1280
-        height: 894
-        isCached: true
-  - title: "Artificial Intelligence for the Poor"
-    excerpt: "Among elites in wealthy countries, a worry about artificial intelligence has taken hold: the machines will take our jobs. With the explosive popularity of ChatGPT, the remarkably lifelike chatbot, many in the West have begun to fear that it is not only truck drivers and assembly workers who are at risk of being replaced by robots but highly paid knowledge workers,"
-    publishedDateTime: 2023-08-09T04:05:00Z
-    webUrl: "https://www.foreignaffairs.com/world/artificial-intelligence-poor"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 41
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/07/RTSFOQ2E.JPG?itok=ClwbWM-A"
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI is still driving Big Tech earnings"
-    excerpt: "They AI hype cycle isn't dying down anytime soon. Need proof? Look no further than Big Tech's latest earnings reports."
-    publishedDateTime: 2023-08-09T17:34:00Z
-    webUrl: "https://www.aol.com/finance/ai-still-driving-big-tech-142614990.html"
+  - title: "'The Bell Labs of AI and robotics:' Boston Dynamics founder Marc Raibert discusses AI Institute"
+    excerpt: "In an exclusive interview, Boston Dynamics founder Marc Raibert discusses how the AI Institute is keeping its head down on recruiting and R&D — as far as possible from the commercialization focus of its namesake company."
+    publishedDateTime: 2023-08-09T09:26:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2023/08/09/marc-raibert-boston-dynamics-robotics-ai-institute.html"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 41
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/uisH.yiSbE_YLXOVEz86aQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/eb39acbfcfa311ae697dbc83e8c016c3"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "China’s internet giants in $7.6b AI chip-buying frenzy"
-    excerpt: "Baidu, ByteDance, Tencent and Alibaba are rushing to buy chips vital to building AI systems, amid concerns US President Joe Biden will soon clamp down on their export."
-    publishedDateTime: 2023-08-10T02:58:00Z
-    webUrl: "https://www.afr.com/world/asia/china-s-internet-giants-in-7-6b-ai-chip-buying-frenzy-20230810-p5dvga"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
+  - title: "WCTC To Offer New Certificates In Artificial Intelligence And Data Analytics"
+    excerpt: "Waukesha County Technical College announced plans to offer new certificates in the fall about artificial intelligence and data analytics."
+    publishedDateTime: 2023-08-10T18:49:00Z
+    webUrl: "https://patch.com/wisconsin/waukesha/wctc-offer-new-certificates-artificial-intelligence-data-analytics"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
+      name: Patch
+      domain: patch.com
     quality: 34
-  - title: "Humans the risk of artificial intelligence"
-    excerpt: "The risk of AI is not AI, but the human, and the carnage left in the wake of our ideological attachments. As much as we may assume our expertise and ability to use, misuse, guide or control the remarkable tools that we have created, we will continue to stumble towards our demise as long as the awareness remains external to the human experience."
-    publishedDateTime: 2023-08-12T08:43:00Z
-    webUrl: "https://mg.co.za/thoughtleader/2023-08-12-humans-the-risk-of-artificial-intelligence/"
+    images:
+      - url: "https://patch.com/img/cdn20/users/25016349/20230810/024904/styles/patch_image/public/wctcgrab___10144852995.png"
+        width: 985
+        height: 739
+        isCached: true
+  - title: "The role of Artificial Intelligence in robotic-assisted surgeries – Harnessing the power of data and machine learning"
+    excerpt: "In recent years, the healthcare industry has undergone a remarkable transformation owing to the integration of artificial intelligence (AI) into various aspects of medical practice. Among the many groundbreaking developments,"
+    publishedDateTime: 2023-08-12T11:00:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-the-role-of-artificial-intelligence-in-robotic-assisted-surgeries-harnessing-the-power-of-data-and-machine-learning-3208178/"
     type: article
     provider:
-      name: Mail & Guardian
-      domain: mg.co.za
-    quality: 19
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 11
 
 secured: "RbGu0qkvFPmCl6HUrrnuTUQvKXVgS3i/lvx3pSGJtIvQz+kEBtplTCLK+Mox5NdCpF1eOvoSVvCu/pnGEWjX+xVIWbTvY4UOjvsVAUCY0IoR4LYDkkHYVr+8C2VtwEshceznEF8owHGuka7ozNPPTbXOFi+19d50OqiTtce9XCdEBjYYM/hw1Wg6PkLT+jhsSTxkXrxrzJX/91T0GAyCm54QJmb1TsO2PR/776KIKT5EehDnI3gGgwZ5HVhOgg4sguJ+mGjGEKQiAdBULYA95b6zEVhvJDlL9AfvDafHH3CYwHKMpbpaTwBvKB3mo+bupelGtwQaFE67kpJpQyNhkJA892I2QRrlhIQwzYSfkEc=;W+IZrGKJf/XWgkz3y99wzA=="
 ---

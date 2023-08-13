@@ -42,19 +42,19 @@ related:
         width: 1440
         height: 907
         isCached: true
-  - title: "This robot aims to introduce Artificial Intelligence to Chennai’s school-going children"
-    excerpt: "This robot aims to bridge the distance between the children of Apollo cancer hospital and the classroom. Except, instead of blackboards and desks, the buddy robot extends a black screen with an intuitive network to those confined within the walls of the hospital."
-    publishedDateTime: 2023-08-08T10:04:00Z
-    webUrl: "https://www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/this-robot-aims-to-introduce-artificial-intelligence-to-chennais-school-going-children/article67167661.ece/amp/"
+  - title: "When you gaze into the AI, the AI also gazes into you"
+    excerpt: "Web3, AI: Always worth paying attention when Goliath shifts on his ... Across the site, here are some of the startup stories y’all flocked to since the previous Startups Weekly. Karma, karma, karma, karma, komeuppance: Apparently not entirely immune ..."
+    publishedDateTime: 2023-08-11T18:59:00Z
+    webUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/"
+    ampWebUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 81
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://th-i.thgim.com/public/life-and-style/travel/hthd5l/article67167638.ece/alternates/FREE_1200/IMG_0914.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-637552576.jpg?resize=1200,800"
         width: 1200
         height: 800
         isCached: true

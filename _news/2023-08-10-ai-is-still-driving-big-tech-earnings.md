@@ -26,102 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI is ruining the internet"
-    excerpt: "From way more spam to sneakier scams, AI is going to make even the most basic online tasks more annoying — and unreliable."
-    publishedDateTime: 2023-08-08T10:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
+  - title: "Tech thoughts: Starving xAI’s artificial intelligence means abandoning X"
+    excerpt: "Musk wants to train its AI system with tweets. The problem is X, formerly Twitter, now tends to have racists, ragebait, and hate baked in. What kind of AI would that create?"
+    publishedDateTime: 2023-08-11T09:31:00Z
+    webUrl: "https://www.rappler.com/technology/features/tech-thoughts-starving-xai-artificial-intelligence-means-abandoning-x/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
+      name: Rappler
+      domain: rappler.com
+    quality: 51
     images:
-      - url: "https://i.insider.com/64cbf0930f3dff0019568fce?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "When you gaze into the AI, the AI also gazes into you"
-    excerpt: "Web3, AI: Always worth paying attention when Goliath shifts on his ... Across the site, here are some of the startup stories y’all flocked to since the previous Startups Weekly. Karma, karma, karma, karma, komeuppance: Apparently not entirely immune ..."
-    publishedDateTime: 2023-08-11T18:59:00Z
-    webUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/"
-    ampWebUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-637552576.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Artificial Intelligence is already radically altering the world of case management"
-    excerpt: "Some of the brightest minds in the technologies of the future have been unusually vocal about the potential dangers of Artificial Intelligence (AI), with"
-    publishedDateTime: 2023-08-09T08:23:00Z
-    webUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/"
-    ampWebUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
-    cdnAmpWebUrl: "https://hrnews-co-uk.cdn.ampproject.org/c/s/hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
-    type: article
-    provider:
-      name: UK Human Resources News
-      domain: hrnews.co.uk
-    quality: 55
-    images:
-      - url: "https://hrnews.co.uk/wp-content/uploads/2023/08/Image-62.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI threatens to add to the growing wave of fraud but is also helping tackle it"
-    excerpt: "There were 4.5 million reported incidents of fraud in the UK in 2021/22, up 25% on the year before. It is a growing problem which costs billions of pounds every year."
-    publishedDateTime: 2023-08-10T15:00:00Z
-    webUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-threatens-to-add-to.jpg"
+      - url: "https://www.rappler.com/tachyon/2023/08/twitter-x-walk-away-aug-11-2023.jpg"
         width: 1280
-        height: 894
+        height: 720
         isCached: true
-  - title: "Artificial Intelligence for the Poor"
-    excerpt: "Among elites in wealthy countries, a worry about artificial intelligence has taken hold: the machines will take our jobs. With the explosive popularity of ChatGPT, the remarkably lifelike chatbot, many in the West have begun to fear that it is not only truck drivers and assembly workers who are at risk of being replaced by robots but highly paid knowledge workers,"
-    publishedDateTime: 2023-08-09T04:05:00Z
-    webUrl: "https://www.foreignaffairs.com/world/artificial-intelligence-poor"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 41
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/07/RTSFOQ2E.JPG?itok=ClwbWM-A"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "China’s internet giants in $7.6b AI chip-buying frenzy"
-    excerpt: "Baidu, ByteDance, Tencent and Alibaba are rushing to buy chips vital to building AI systems, amid concerns US President Joe Biden will soon clamp down on their export."
-    publishedDateTime: 2023-08-10T02:58:00Z
-    webUrl: "https://www.afr.com/world/asia/china-s-internet-giants-in-7-6b-ai-chip-buying-frenzy-20230810-p5dvga"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 34
-  - title: "Humans the risk of artificial intelligence"
-    excerpt: "The risk of AI is not AI, but the human, and the carnage left in the wake of our ideological attachments. As much as we may assume our expertise and ability to use, misuse, guide or control the remarkable tools that we have created, we will continue to stumble towards our demise as long as the awareness remains external to the human experience."
-    publishedDateTime: 2023-08-12T08:43:00Z
-    webUrl: "https://mg.co.za/thoughtleader/2023-08-12-humans-the-risk-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Mail & Guardian
-      domain: mg.co.za
-    quality: 19
 
 secured: "YObrhjOuIwcO0MeLstb4xTzimLTe5fT28S8Q1Bx7HmhP4NYPv4Sh7V/xVEdaDhTh2jQ8hXRuJ+oI0HDog0q1gRmTrmgbTr9tUDheN27lxyRfP268BqYTBESaab1/rHflai2qyrQDjAHBHBL/xjXb06kL69F6Wj7bX9+q3K4hBLfd5YUTtHiffSvSZ+isKM8l97vGIWZcfOJjxL2EtlKKPDlEyxhK4ENJKLbP7E6xPVNEYFiW+vwNf7SGycUv3cMwy3tE8rcNg8eKM6cJkB1FAGJwe1nt14Cet8yr8ZTWT71ELHKu7jWQROFbVQbJ7J3ii7kpuvce39k/ReNhubi66awN9XcgFeqkNXu/2v6sSWl5ws5fd4KxP/WGs7PUK1V4k6XH6oHoKp0NB3/fRyW2stXRRb5TQGp8zzf1lm3LDq5jOVs5uQOPDyMmHXiGppxRKXmHf15WlD18wLmZ7AJaVdqWvCjFBdHOgEHTnQ17k9Atmui5dQXaSPW/D0zGc3suYnR4hLp5apG/k33ssr4Rfw==;OlBhhJKtcO6uvWQJtCFt3Q=="
 ---

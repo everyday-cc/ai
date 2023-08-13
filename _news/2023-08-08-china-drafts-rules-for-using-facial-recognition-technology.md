@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "After Feeding Explosion of Facial Recognition, China Moves to Rein It In"
-    excerpt: "The proposal, which carves out exceptions for national security, is the latest in a series of moves to put guardrails around how companies use data and artificial intelligence."
-    publishedDateTime: 2023-08-08T10:07:00Z
-    webUrl: "https://www.wsj.com/articles/china-drafts-rules-for-facial-recognition-use-4953506e"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 68
-    images:
-      - url: "https://images.wsj.net/im-831488/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "State report identifies risks in schools' use of facial recognition technology"
     excerpt: "The New York State Office of Information Technology Services (ITS) has determined that, when it comes to the use of facial recognition technology for security in schools, the “risks may"
     publishedDateTime: 2023-08-09T00:45:00Z

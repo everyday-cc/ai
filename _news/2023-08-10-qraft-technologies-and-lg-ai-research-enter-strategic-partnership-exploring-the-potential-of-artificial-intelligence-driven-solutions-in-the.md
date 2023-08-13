@@ -87,6 +87,20 @@ related:
         width: 1280
         height: 724
         isCached: true
+  - title: "Journalists seek regulations to govern fast-moving artificial intelligence technology"
+    excerpt: "Several news organizations, writers and photographers groups are pushing to be involved in creating standards for the use of artificial intelligence, particularly as it concerns intellectual property rights and the potential spread of misinformation."
+    publishedDateTime: 2023-08-12T21:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/aug/12/journalists-seek-regulations-tfp/"
+    type: article
+    provider:
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 30
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/08/12/AP23221734717325_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Lytus intends to invest $50 million in the fintech business"
     excerpt: "Lytus intends to invest $50 million in the fintech business - Nasdaq-listed Lytus Technologies Holdings, a leading global technology-driven services firm, plans to invest"
     publishedDateTime: 2023-08-09T09:44:00Z

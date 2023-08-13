@@ -115,20 +115,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Quickly learn to code with ChatGPT and Bard AI"
-    excerpt: "While these AI tools can be incredibly helpful ... This allows Bard to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. Bard is still under development, but it has learned ..."
-    publishedDateTime: 2023-08-08T10:49:00Z
-    webUrl: "https://www.geeky-gadgets.com/learn-how-to-code-with-chatgpt/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-code-with-ChatGPT.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "How to add ChatGPT to Visual Code Studio for AI coding"
     excerpt: "One of the most notable features of the ChatGPT Genie AI extension is its ability to utilize Azure OpenAI Service deployments. This allows users to harness the power of Azure’s cloud computing capabilities, enhancing the performance and efficiency of the ..."
     publishedDateTime: 2023-08-08T20:58:00Z
@@ -208,6 +194,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Rise of the chatbots: How artificial intelligence could shape the future of crime"
+    excerpt: "I am here to kill the Queen, a man wearing a handmade metal mask and holding a loaded crossbow tells an armed police officer as he is confronted near her private residence within the grounds of Windsor Castle."
+    publishedDateTime: 2023-08-13T01:40:00Z
+    webUrl: "https://www.three.fm/news/uk-news/rise-of-the-chatbots-how-artificial-intelligence-could-shape-the-future-of-crime/"
+    type: article
+    provider:
+      name: 3FM Isle of Man
+      domain: three.fm
+    quality: 32
+    images:
+      - url: "https://e3.365dm.com/23/08/640x380/skynews-ai-artificial-intelligence_6246406.png?20230810134607"
+        width: 640
+        height: 380
+        isCached: true
   - title: "Newegg’s AI-generated reviews might be the worst use of ChatGPT yet"
     excerpt: "Newegg has started including AI-generated review summaries powered by ChatGPT on some product pages, but they aren't always helpful."
     publishedDateTime: 2023-08-09T19:54:00Z

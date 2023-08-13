@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "New poll shows just one state voting yes for the Voice to parliament"
-    excerpt: "Voters in just one state intend to vote ‘yes’ in the upcoming Indigenous Voice to parliament referendum, according to a new poll."
-    publishedDateTime: 2023-08-08T10:22:00Z
-    webUrl: "https://www.news.com.au/national/politics/new-poll-shows-just-one-state-voting-yes-for-the-voice-to-parliament/news-story/d536bc80f7d3f8b40d502cddc6bb9635"
-    ampWebUrl: "https://www.news.com.au/national/politics/new-poll-shows-just-one-state-voting-yes-for-the-voice-to-parliament/news-story/d536bc80f7d3f8b40d502cddc6bb9635?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/new-poll-shows-just-one-state-voting-yes-for-the-voice-to-parliament/news-story/d536bc80f7d3f8b40d502cddc6bb9635?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 24
   - title: "Talking to students about the Voice to Parliament"
     excerpt: "Explaining a referendum on constitutional law to young people can seem a tall order, but they already have a good knowledge of the world around them"
     publishedDateTime: 2023-08-09T14:00:00Z

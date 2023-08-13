@@ -1,27 +1,29 @@
 ---
 category: news
 title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
-excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat 70 billion"
-publishedDateTime: 2023-08-09T12:17:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59802679-ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59802679-ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-008.htm"
+excerpt: "ARMONK, N.Y., Aug. 9, 2023 /PRNewswire/ -- As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM IBM plans to host Meta's Llama 2-chat 70 billion parameter ..."
+publishedDateTime: 2023-08-09T12:07:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33662581/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n33662581/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform"
+ampWebUrl: "https://www.benzinga.com/amp/content/33662581"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33662581"
 type: article
-quality: 52
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -148,6 +150,6 @@ related:
       domain: analyticsindiamag.com
     quality: 33
 
-secured: "fV1yhBeISKPaxMJ5uCpESlGr7dpqR/Wl9a6V9alMUJLMbajaLtRlfTGpyF2Rsng7C26D6v0ciq0tUBSVsrftgxf8Wiw/YIYPcT/vLJvkwqEqCYplZP+maRyT1vvQgNb7Ueq5jpj8p3YV2RJiihLukGr8ZVZEJJr6r5GXa7v7I/55V2xlqPcW7tvXr1hebf7GxpvZShlCz+3AsSGpz9b86v156YBENp8VPMDuv/BHUQz/Pr7TUHLfk4remf9UssX/IHYLuCcqw5eETm+5QwTc0Zq/7gUi/xMFRvj5Ywgo/CNcSHUdk/DPiuQygvwUClmNyBmkI6ad9W+I7Tkl6yIrhitJ2PqDIZPqAHPFXyostWE=;Bxy2MblChftqryZ6L7pOBA=="
+secured: "8xjy0e5UvMt7UvScH2V2CJ1qv+ICdTS75bXmSXOvtjmkalHPZ/M/OE8+euhUx8fKsGh8tI43mVRDuHMVSuepYnIuf97hSWZ0iIJvGcxctJ90hZ1TqI4eP4PRexkKFKwRFMa+wnnFMKPS6l6gjG3whcfRa69/LYQlOuTPeu8LC/NcvsabrRp61hjKFXKgxRxrH0DMTmMZKkIT+NangcxX2HtOgz5r5tQs465FsEaKGMmIBCGbcFo/BMuA2jVwIlctFWBlK+pFqvArY7MjBGH2sw7QULQq9tofaq67184phT10f/fnxy3bsctRmBc7LkX4EmwGIxagG3FWXOH1dV+okisGYux4n8sZC/XUw5o8oWE=;sPGGyYnOKyzjjR9gXI2bfQ=="
 ---
 

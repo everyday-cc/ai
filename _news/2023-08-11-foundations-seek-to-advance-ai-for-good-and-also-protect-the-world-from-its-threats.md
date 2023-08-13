@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/foundations-seek-adv
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394"
 type: article
 quality: 52
-heat: 74
+heat: 72
 published: true
 
 provider:

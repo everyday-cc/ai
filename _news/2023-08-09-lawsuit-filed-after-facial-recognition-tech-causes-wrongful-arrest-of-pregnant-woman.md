@@ -224,15 +224,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 14
-  - title: "Lawsuit filed after facial recognition tech causes wrongful arrest of pregnant woman"
-    excerpt: "Porcha Woodruff is the third Black Detroiter to be wrongfully arrested after flawed facial recognition technology used by police falsely tied her to a crime she did not commit, according to a ..."
-    publishedDateTime: 2023-08-08T10:22:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2023/08/07/facial-recognition-tech-wrongful-arrest-pregnant-woman/70544340007/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 12
   - title: "Detroit Police Department seeks changes after suit over facial recognition-related arrest"
     excerpt: "Chief James White said Porcha Woodruff's arrest 'emanated from, candidly and unfortunately, a poor investigation.'"
     publishedDateTime: 2023-08-10T02:07:00Z

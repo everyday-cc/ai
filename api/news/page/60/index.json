@@ -2,54 +2,6 @@
   "page": 60,
   "value": [
     {
-      "path": "_news/2023-07-02-ai-innovators-10-artificial-intelligence-companies-to-keep-an-eye-on-in-2023.md",
-      "title": "AI Innovators: 10 Artificial Intelligence Companies to Keep an Eye on in 2023",
-      "excerpt": "Stay updated on the latest innovations and platforms from leading artificial intelligence companies, revolutionizing technology and driving advancements in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govconwire.com/articles/artificial-intelligence-companies/",
-      "originalUrl": "https://www.govconwire.com/articles/artificial-intelligence-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh4.googleusercontent.com/2DIk83fG9ioJjtcAaRaWP1AX4aPh4tqKGsbdud3tCt4AVm5AyTIIZCoxrH48i6wQNUum8CxM_CUq8mCTXG4U1SwKb0KmmhySjKmCwHgr-L0bX5tiLBzegTk_vfvrb0RH7YrNgK79codlInctcTAyqbg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GovCon Wire",
-        "domain": "govconwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI",
-        "AI in Healthcare",
-        "IBM AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-02-agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones.md",
       "title": "AgriTech Innovations 2023: Transforming Farming with AI, Robotics, and Drones",
       "excerpt": "The field of agriculture is advancing day by day. Today, we have bought some latest trends and innovations concerned with Agriculture.",
@@ -1162,6 +1114,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-draft-eu-artificial-intelligence-rules-could-hurt-europe-executives-say.md",
+      "title": "Draft EU artificial intelligence rules could hurt Europe, executives say",
+      "excerpt": "The proposed EU Artificial Intelligence legislation would jeopardise Europe's competitiveness and technological sovereignty, according to an open letter signed by more than 160 executives at companies ranging from Renault to Meta .",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/draft-eu-artificial-intelligence-rules-could-hurt-europe-open-letter-2023-06-30/?ref=promptengineering.org",
+      "originalUrl": "https://www.reuters.com/technology/draft-eu-artificial-intelligence-rules-could-hurt-europe-open-letter-2023-06-30/?ref=promptengineering.org",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/BZZiDdK2-b6MMPX1dKB_GnxGIg8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TRI4RJLDVJNYLKQZNAH2FSAF4Q.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

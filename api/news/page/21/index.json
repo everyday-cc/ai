@@ -2,58 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2023-07-27-meta-rallies-as-ai-powered-ad-sales-drive-monster-forecast.md",
-      "title": "Meta rallies as AI-powered ad sales drive 'monster' forecast",
-      "excerpt": "Meta shares surged nearly 8% on Thursday as a rosy revenue forecast showed that artificial intelligence was helping the social media giant boost engagement and ad sales even in an uncertain economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-rallies-ai-powered-ad-sales-drive-monster-forecast-2023-07-27/",
-      "originalUrl": "https://www.reuters.com/technology/meta-rallies-ai-powered-ad-sales-drive-monster-forecast-2023-07-27/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/QKGxuAo_1W3C9opZRPfdNE6gkEE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X3SJL6Z3BBLZFA52SP7F7SQ5O4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2023-07-27-samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead.md",
       "title": "Samsung extends cut in memory chip production, will focus on high-end AI chips instead",
       "excerpt": "Samsung Electronics extends to cut back its memory chip production and double down on its high-performance chips used in AI.",
@@ -1204,6 +1152,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-microsoft-is-in-the-lead-with-new-cloud-based-ai-workloads-ceo-nadella-says.md",
+      "title": "Microsoft is 'in the lead' with new cloud-based A.I. workloads, CEO Nadella says",
+      "excerpt": "Of Microsoft's anticipated 25% to 26% Azure cloud growth in constant currency in the current quarter, and some 2 percentage points will be derived from AI, the company's finance chief said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/25/microsoft-is-in-the-lead-with-cloud-based-ai-workloads-nadella-says.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/25/microsoft-is-in-the-lead-with-cloud-based-ai-workloads-nadella-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107190488-1675802590794-gettyimages-1246870736-AFP_338Q79L.jpeg?v=1690332558",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/25/microsoft-is-in-the-lead-with-cloud-based-ai-workloads-nadella-says.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/microsoft-is-in-the-lead-with-cloud-based-ai-workloads-nadella-says.html",
+      "publishedDateTime": "2023-07-26T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

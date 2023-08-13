@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202308/ai
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Psychology Today
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Episode 8: Artificial intelligence and the future of warfighting"
-    excerpt: "The advent of ChatGPT and its successor, GPT-4, in recent months has brought artificial intelligence into everyday use. Far from being science fiction, AI is now a frontier for the U.S. military as it competes with China, Russia and other global adversaries."
-    publishedDateTime: 2023-08-08T10:33:00Z
-    webUrl: "https://www.stripes.com/multimedia/podcasts/military_matters/2023-08-08/paul-scharre-ai-military-china-10973585.html"
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 37
-    images:
-      - url: "https://www.stripes.com/incoming/jqp809-mil_ai_cover-edit.jpg/alternates/LANDSCAPE_480/MIL_AI_cover%20edit.jpg"
-        width: 480
-        height: 299
-        isCached: true
   - title: "AI and the Productivity Imperative"
     excerpt: "The world is struggling with labor shortages, inflation, and a supply chain that cannot keep up with demand. AI can help overcome these productivity challenges, with LLMs in particularly allowing for productivity boosts without replacing human workers,"
     publishedDateTime: 2023-08-11T12:37:00Z

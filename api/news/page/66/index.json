@@ -2,49 +2,6 @@
   "page": 66,
   "value": [
     {
-      "path": "_news/2023-06-29-want-to-get-richer-2-top-ai-stocks-to-buy-right-now.md",
-      "title": "Want to Get Richer? 2 Top AI Stocks to Buy Right Now",
-      "excerpt": "Detailed price information for Taiwan Semiconductor ADR (TSM-N) from The Globe and Mail including charting and trades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/TSM/pressreleases/18108725/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/TSM/pressreleases/18108725/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/74b53cace63df68cbf49b82b8879be6a/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fcc3e46acc22e216571ef4fb25a13b20a.png%26amp%3Bw%3D700",
-          "width": 720,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-29-executives-not-inclined-to-remove-humans-from-ai-decision-making.md",
       "title": "Executives Not Inclined To Remove Humans From AI Decision-Making",
       "excerpt": "Fear of losing control is justified, and will motivate executives to keep humans within any AI decisioning processes.",
@@ -1113,6 +1070,49 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-robotics-in-agriculture-solinftec-robot-that-reduces-up-to-90-of-herbicides-will-have-a-website-for-a-waiting-list.md",
+      "title": "Robotics in agriculture: Solinftec robot that reduces up to 90% of herbicides will have a website for a waiting list",
+      "excerpt": "Bearing in mind the projection of the product, the website should increase the scale of orders for the next 3 years\", said Leonardo Carvalho, CGSO at Solinftec. \"We will be the first agtech offering robotics in large-scale agriculture in an innovative way\",",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-robotics-agriculture-solinftec-robot-that-reduces-up-90-/2023/06/28/9841181.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-robotics-agriculture-solinftec-robot-that-reduces-up-90-/2023/06/28/9841181.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2143305/Robot_Solix_SPRAYER_by_Solinftec.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

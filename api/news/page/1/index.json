@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-13-how-your-passwords-can-be-stolen-by-ai-listening-to-your-keystrokes.md",
+      "title": "How your passwords can be stolen by AI listening to your keystrokes",
+      "excerpt": "A new Cornell University research study reveals startling possibilities about AI \"listening in\" on keystrokes for data like passwords. Here's how to stay safe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes",
+      "originalUrl": "https://www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2f57c2c-1707-43b6-ba21-39319b4f7dd6/7a284333-4ee6-4f31-96fb-acd8807ed8c1/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes.amp",
+      "publishedDateTime": "2023-08-12T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-12-supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas.md",
       "title": "Supermarket AI Gives Horrifying Recipes For Poison Sandwiches And Deadly Chlorine Gas",
       "excerpt": "It seems every company on the planet is experimenting with different ways to incorporate artificial intelligence into their consumer-facing products.",
@@ -147,7 +198,7 @@
       "originalUrl": "https://www.zdnet.com/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -486,7 +537,7 @@
       "originalUrl": "https://abcnews.go.com/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1163,49 +1214,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-ubc-students-bring-mario-kart-to-life-with-robotics-competition.md",
-      "title": "UBC students bring Mario Kart to life with robotics competition",
-      "excerpt": "Students in UBC's engineering physics program brought Mario Kart to life Thursday, creating autonomous robots to race around a track.",
-      "sourceUrl": null,
-      "webUrl": "https://bc.ctvnews.ca/ubc-students-bring-mario-kart-to-life-with-robotics-competition-1.6514630",
-      "originalUrl": "https://bc.ctvnews.ca/ubc-students-bring-mario-kart-to-life-with-robotics-competition-1.6514630",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2023/8/10/2743539/_jcr_content/renditions/videothumbnail.1691719068604.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/british-columbia/2023/8/10/1_6514630.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2023/8/10/1_6514630.amp.html",
-      "publishedDateTime": "2023-08-10T20:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.theeducatoronline.com/k12/news/talking-to-students-abo
 webUrl: "https://www.theeducatoronline.com/k12/news/talking-to-students-about-the-voice-to-parliament/283016"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New poll shows just one state voting yes for the Voice to parliament"
-    excerpt: "Voters in just one state intend to vote ‘yes’ in the upcoming Indigenous Voice to parliament referendum, according to a new poll."
-    publishedDateTime: 2023-08-08T10:22:00Z
-    webUrl: "https://www.news.com.au/national/politics/new-poll-shows-just-one-state-voting-yes-for-the-voice-to-parliament/news-story/d536bc80f7d3f8b40d502cddc6bb9635"
-    ampWebUrl: "https://www.news.com.au/national/politics/new-poll-shows-just-one-state-voting-yes-for-the-voice-to-parliament/news-story/d536bc80f7d3f8b40d502cddc6bb9635?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/new-poll-shows-just-one-state-voting-yes-for-the-voice-to-parliament/news-story/d536bc80f7d3f8b40d502cddc6bb9635?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 24
   - title: "Indigenous voice to parliament opponents taking us down a divisive path"
     excerpt: "The issue of division is a win or lose battlefield in the voice referendum. Many Australians will cast their vote on whether the voice will unite or divide the country."
     publishedDateTime: 2023-08-11T23:30:00Z

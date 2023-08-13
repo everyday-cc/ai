@@ -71,6 +71,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 41
+  - title: "Artificial Intelligence for the Poor"
+    excerpt: "Among elites in wealthy countries, a worry about artificial intelligence has taken hold: the machines will take our jobs. With the explosive popularity of ChatGPT, the remarkably lifelike chatbot, many in the West have begun to fear that it is not only truck drivers and assembly workers who are at risk of being replaced by robots but highly paid knowledge workers,"
+    publishedDateTime: 2023-08-09T04:05:00Z
+    webUrl: "https://www.foreignaffairs.com/world/artificial-intelligence-poor"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 41
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/07/RTSFOQ2E.JPG?itok=ClwbWM-A"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Merkle Introduces Generative AI Powered GenCX to Revamp Customer Experiences"
     excerpt: "Developed within dentsu's Azure OpenAI framework GenCX uses AI to analyse substantial amounts of brands' internal data."
     publishedDateTime: 2023-08-09T05:31:00Z

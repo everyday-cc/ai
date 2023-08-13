@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Focus: Disney creates task force to explore AI and cut costs -sources"
-    excerpt: "Walt Disney has created a task force to study artificial intelligence and how it can be applied across the entertainment conglomerate, even as Hollywood writers and actors battle to limit the industry's exploitation of the technology."
-    publishedDateTime: 2023-08-08T09:07:00Z
-    webUrl: "https://www.reuters.com/technology/disney-creates-task-force-explore-ai-cut-costs-sources-2023-08-08/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/p8BpMUM8j0AOd6lJJ-4005UBphg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KWTCYTVJCRIMPHR7UWZAZTFDTA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Disney Forms Task Force to Explore Artificial Intelligence"
     excerpt: "Disney has taken a significant step towards embracing artificial intelligence (AI) by creating a task force to investigate its potential applications across its wide-ranging businesses. The company is exploring the development of AI-based solutions both in-house and through collaboration with external experts."
     publishedDateTime: 2023-08-09T00:38:00Z
@@ -46,6 +32,20 @@ related:
       - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/msg-906142390-4958.jpg"
         width: 1024
         height: 1024
+        isCached: true
+  - title: "Pentagon forms ‘Task Force Lima’ to map generative AI for US defense"
+    excerpt: "The Pentagon’s new “Task Force Lima” will study how the U.S. Department of Defense (DoD) will deploy and defend against AI."
+    publishedDateTime: 2023-08-11T00:45:00Z
+    webUrl: "https://cointelegraph.com/news/pentagon-task-force-lima-to-study-generative-ai-defense"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvNzZiMmE1ZGUtYzMzMi00YTIyLThmODctM2Y0MTc4YTVhMjlmLmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Disney exploring how artificial intelligence could help reduce costs"
     excerpt: "Amidst a strike by Hollywood writers and actors who are battling to limit the industry's use of artificial intelligence (AI), Walt Disney has created a task force to research the technology and how it can be applied across its entire business."

@@ -2,57 +2,6 @@
   "page": 61,
   "value": [
     {
-      "path": "_news/2023-07-01-draft-eu-artificial-intelligence-rules-could-hurt-europe-executives-say.md",
-      "title": "Draft EU artificial intelligence rules could hurt Europe, executives say",
-      "excerpt": "The proposed EU Artificial Intelligence legislation would jeopardise Europe's competitiveness and technological sovereignty, according to an open letter signed by more than 160 executives at companies ranging from Renault to Meta .",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/draft-eu-artificial-intelligence-rules-could-hurt-europe-open-letter-2023-06-30/?ref=promptengineering.org",
-      "originalUrl": "https://www.reuters.com/technology/draft-eu-artificial-intelligence-rules-could-hurt-europe-open-letter-2023-06-30/?ref=promptengineering.org",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/BZZiDdK2-b6MMPX1dKB_GnxGIg8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TRI4RJLDVJNYLKQZNAH2FSAF4Q.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-01-techcrunch-roundup-vertical-ai-crypto-losses-decline-machine-learning-investor-survey.md",
       "title": "TechCrunch+ roundup: Vertical AI, crypto losses decline, machine learning investor survey",
       "excerpt": "We’re publishing on a lighter schedule to commemorate Independence Day, so I’ll return on Friday, July 7 with a new TC+ roundup.",
@@ -1180,6 +1129,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-tech-mahindra-leverages-microsoft-azure-openai-for-enhanced-enterprise-search-capabilities.md",
+      "title": "Tech Mahindra Leverages Microsoft Azure OpenAI for Enhanced Enterprise Search Capabilities",
+      "excerpt": "Tech Mahindra integrates Microsoft Azure OpenAI into its Enterprise Search offering, aiming to boost proficiency, productivity, and employee satisfaction through enhanced data accessibility and AI-driven capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/technology-science/tech-mahindra-leverages-microsoft-azure-openai-for-enhanced-enterprise-search-capabilities-article-101399388",
+      "originalUrl": "https://www.timesnownews.com/technology-science/tech-mahindra-leverages-microsoft-azure-openai-for-enhanced-enterprise-search-capabilities-article-101399388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-101399388,updatedat-1688133100045,width-1280,height-720,resizemode-75/101399388.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/technology-science/tech-mahindra-leverages-microsoft-azure-openai-for-enhanced-enterprise-search-capabilities-article-101399388/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/tech-mahindra-leverages-microsoft-azure-openai-for-enhanced-enterprise-search-capabilities-article-101399388/amp",
+      "publishedDateTime": "2023-06-30T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

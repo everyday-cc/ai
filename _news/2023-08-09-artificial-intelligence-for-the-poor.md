@@ -26,101 +26,97 @@ images:
     isCached: true
 
 related:
-  - title: "AI is ruining the internet"
-    excerpt: "From way more spam to sneakier scams, AI is going to make even the most basic online tasks more annoying — and unreliable."
-    publishedDateTime: 2023-08-08T10:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp"
+  - title: "3 Areas Customers See The Most Potential For Generative AI"
+    excerpt: "In just a short period, we’re likely to see massive changes in how customers find products, engage with companies, and experience brands."
+    publishedDateTime: 2023-08-09T17:51:00Z
+    webUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/64cbf0930f3dff0019568fce?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "When you gaze into the AI, the AI also gazes into you"
-    excerpt: "Web3, AI: Always worth paying attention when Goliath shifts on his ... Across the site, here are some of the startup stories y’all flocked to since the previous Startups Weekly. Karma, karma, karma, karma, komeuppance: Apparently not entirely immune ..."
-    publishedDateTime: 2023-08-11T18:59:00Z
-    webUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/"
-    ampWebUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-637552576.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Artificial Intelligence is already radically altering the world of case management"
-    excerpt: "Some of the brightest minds in the technologies of the future have been unusually vocal about the potential dangers of Artificial Intelligence (AI), with"
-    publishedDateTime: 2023-08-09T08:23:00Z
-    webUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/"
-    ampWebUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
-    cdnAmpWebUrl: "https://hrnews-co-uk.cdn.ampproject.org/c/s/hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
-    type: article
-    provider:
-      name: UK Human Resources News
-      domain: hrnews.co.uk
-    quality: 55
-    images:
-      - url: "https://hrnews.co.uk/wp-content/uploads/2023/08/Image-62.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c90fd5ea55d543dd49763d/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "AI threatens to add to the growing wave of fraud but is also helping tackle it"
-    excerpt: "There were 4.5 million reported incidents of fraud in the UK in 2021/22, up 25% on the year before. It is a growing problem which costs billions of pounds every year."
-    publishedDateTime: 2023-08-10T15:00:00Z
-    webUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
+  - title: "The threatening potential of AI and child abuse"
+    excerpt: "The U.K.'s National Crime Agency warned that the proliferation of AI-generated explicit images of children is \"normalizing\" pedophilia and disturbing behavior against kids."
+    publishedDateTime: 2023-08-11T05:59:00Z
+    webUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse"
+    ampWebUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 55
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-threatens-to-add-to.jpg"
-        width: 1280
-        height: 894
-        isCached: true
-  - title: "AI is still driving Big Tech earnings"
-    excerpt: "They AI hype cycle isn't dying down anytime soon. Need proof? Look no further than Big Tech's latest earnings reports."
-    publishedDateTime: 2023-08-09T17:34:00Z
-    webUrl: "https://www.aol.com/finance/ai-still-driving-big-tech-142614990.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 41
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/uisH.yiSbE_YLXOVEz86aQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/eb39acbfcfa311ae697dbc83e8c016c3"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb0de59a-4578-48df-a0f2-52d127244c2e/438c3371-1ec1-405e-9325-a09ec771d10d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "China’s internet giants in $7.6b AI chip-buying frenzy"
-    excerpt: "Baidu, ByteDance, Tencent and Alibaba are rushing to buy chips vital to building AI systems, amid concerns US President Joe Biden will soon clamp down on their export."
-    publishedDateTime: 2023-08-10T02:58:00Z
-    webUrl: "https://www.afr.com/world/asia/china-s-internet-giants-in-7-6b-ai-chip-buying-frenzy-20230810-p5dvga"
+  - title: "Nvidia launches RTX workstations chips for content creation in the generative AI era"
+    excerpt: "Nvidia is launching new RTX workstation graphics processing units (GPUs) for the generative AI era at Siggraph."
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-launches-rtx-workstations-chips-for-content-creation-in-the-generative-ai-era/"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 34
-  - title: "Humans the risk of artificial intelligence"
-    excerpt: "The risk of AI is not AI, but the human, and the carnage left in the wake of our ideological attachments. As much as we may assume our expertise and ability to use, misuse, guide or control the remarkable tools that we have created, we will continue to stumble towards our demise as long as the awareness remains external to the human experience."
-    publishedDateTime: 2023-08-12T08:43:00Z
-    webUrl: "https://mg.co.za/thoughtleader/2023-08-12-humans-the-risk-of-artificial-intelligence/"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/RTX-Workstation-Image.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Bud Financial launches Bud.ai, a generative AI platform for hyper-personalized banking"
+    excerpt: "Bud Financial claims its LLM tech, Bud.ai, will enable orgs to convert unstructured financial data into insights for granular analysis."
+    publishedDateTime: 2023-08-08T13:01:00Z
+    webUrl: "https://venturebeat.com/ai/bud-financial-launches-bud-ai-generative-ai-platform-hyper-personalized-banking/"
     type: article
     provider:
-      name: Mail & Guardian
-      domain: mg.co.za
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 41
+  - title: "Merkle Introduces Generative AI Powered GenCX to Revamp Customer Experiences"
+    excerpt: "Developed within dentsu's Azure OpenAI framework GenCX uses AI to analyse substantial amounts of brands' internal data."
+    publishedDateTime: 2023-08-09T05:31:00Z
+    webUrl: "https://analyticsindiamag.com/merkle-introduces-generative-ai-powered-gencx-to-revamp-customer-experiences/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/AIM-logo-black-768x334.png"
+        width: 768
+        height: 334
+        isCached: true
+  - title: "Cloud vs. on-premises showdown: The future battlefield for generative AI dominance"
+    excerpt: "As well, the choice of where customers plan to run generative AI is split almost exactly down the middle in terms of public cloud versus on-premises and edge. Further complicating matters, developers report the experiences in the public cloud with respect to feature richness and velocity of innovation have been outstanding."
+    publishedDateTime: 2023-08-12T16:47:00Z
+    webUrl: "https://siliconangle.com/2023/08/12/cloud-vs-premises-showdown-future-battlefield-generative-ai-dominance/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-risk-on-off-1024x574.jpg"
+        width: 1024
+        height: 574
+        isCached: true
+  - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
+    excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
+    publishedDateTime: 2023-08-11T12:04:00Z
+    webUrl: "https://diginomica.com/attention-enterprises-generative-ai-sexy-esg-has-teeth"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
     quality: 19
 
 secured: "MZPUuUFKHI1UxD4uPiDaGxWzv9eGkmRiKjEAs31Z4GsdBTwCwOYAYwpS4oluqHcZv1tUJFpexZtvr80LbHtw5wTSHs2Zi0K/fKhyLbu1NyyjbEkk57RQaQI03CT6DsFvdegt/oQNTZ7KNs3M2zQZ1JdEYZXweMEGga74iiY/RLN5N590/jewpVuioL1tl9sOrTvxl6xKfQ+o2QivyWlQtlkU1o7/cSfhiJb1r9uYvJ50CXqi5UBHCWJZgDVaN4xr09+TSW9sqm+DTuLFSZCFnVyotWY/0HVr/wrgumb7I1WYNr73L7cWgR0QOidMg7YHliBxY7+1Olr6nJa4A97CiDesPw6oXANRWX1IAIxFwOd1iiSIJxUkRouYlRSBOPE7y9igksFAu6zxwy6Kydh4rDIrL9m5QQfmkl4exO1oN1F+uR3WsdMFrIIm/IC1klc7INGlEZC09J+r9mPzh8th0sdx+nesEpLsuXQdoCRQUP06Yv9Y1+IQ7ah2EM5Mr2H+bQOPpJbzTT8NjdRpf4GyLA==;4kDyCKLQaP5wCrNAOngxnA=="

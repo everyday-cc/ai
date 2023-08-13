@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "How your passwords can be stolen by AI listening to your keystrokes"
+    excerpt: "A new Cornell University research study reveals startling possibilities about AI \"listening in\" on keystrokes for data like passwords. Here's how to stay safe."
+    publishedDateTime: 2023-08-13T01:46:00Z
+    webUrl: "https://www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes"
+    ampWebUrl: "https://www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2f57c2c-1707-43b6-ba21-39319b4f7dd6/7a284333-4ee6-4f31-96fb-acd8807ed8c1/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Deep learning model can steal data by listening to keystrokes with 95% accuracy"
     excerpt: "A team of UK researchers has trained a deep learning model to interpret keystrokes remotely based solely on audio."
     publishedDateTime: 2023-08-09T10:04:00Z
@@ -38,15 +54,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "New deep learning model can predict passwords from keystroke sound with 95% accuracy"
-    excerpt: "A team of researchers in the United Kingdom developed a deep learning model that can accurately predict what you are typing based on the sounds from keyboard keystrokes, Bleeping Computer reported on August 5. According to the research paper, the model has ..."
-    publishedDateTime: 2023-08-08T11:46:00Z
-    webUrl: "https://www.medianama.com/2023/08/223-acoustic-attack-keystrokes-sound-research/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 12
 
 secured: "dN2+ObRZH6QHAuUfQNkSNmiPntc5nck5hWYgwQ+KidHk0CDkNr0/Wu1DF8sFUhbQnX0yuRUh4GYULyIfDqqDoyorYLTb9A9udLxFk8b1r+or5KkPLLpnPhkoFw8U1nnwU4Yi6w0r68sCFV8WAh4ayJcCwUWD94+Oljkaw0Ww8GAkrQ+GZkgsxkvehXcUvI5taxndcaDgBKIoWMKa8cZKrWG+KsF9IUminpEkk6ki+XbP7I0QIkFdJlzS4kIfuLq2e3IH2hnBq58P6u1ci8aHaFYQ2QSgyAY1JnXFajjtpHBufqSM8Tw22OTPbIc7XiQRalddXqtbTYB62w58urPV/OcmAhRouKO6UzIEVoswEngk1ehYpE5r9ynAEjblrfgVP9/qoL3MUpmFoX3NY2wrOJDyxVMvcgLI3iKVSJ2K0cszCKRCS/jCNRo9l6WV0CLPxc+T+crxXoNF4jXXxwirrzTgbwPlQPfnTiph7ZUIepBBHcC885BXhPyM5qjZH57+pxXFGYy2fGjQcUGm0uXeuA==;namhnfHiw2lRQKW4OcWG0g=="
 ---

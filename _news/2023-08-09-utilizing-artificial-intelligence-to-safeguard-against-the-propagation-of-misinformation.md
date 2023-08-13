@@ -39,20 +39,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Rules to keep AI in check: nations carve different paths for tech regulation"
-    excerpt: "In January, the CAC began enforcing rules issued in 2022 to tackle deepfakes and other AI-created content. Providers of services that synthesize images, video, audio or text must verify users’ identities, obtain consent from deepfake targets, watermark and log outputs and counter any misinformation produced."
-    publishedDateTime: 2023-08-08T10:40:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-02491-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 36
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02491-y/d41586-023-02491-y_25894594.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "A tsunami of AI misinformation will shape next year’s knife-edge elections"
     excerpt: "If you thought social media had a hand in getting Trump elected, watch what happens when you throw AI into the mix"
     publishedDateTime: 2023-08-12T14:00:00Z

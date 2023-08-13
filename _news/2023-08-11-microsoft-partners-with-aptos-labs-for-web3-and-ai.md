@@ -105,22 +105,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Microsoft Shares Guidance and Resources for AI Red Teams"
-    excerpt: "Microsoft has shared guidance and resources from its AI Red Team program to help organizations and individuals with AI security."
-    publishedDateTime: 2023-08-08T09:04:00Z
-    webUrl: "https://www.securityweek.com/microsoft-shares-guidance-and-resources-for-ai-red-teams/"
-    ampWebUrl: "https://www.securityweek.com/microsoft-shares-guidance-and-resources-for-ai-red-teams/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/microsoft-shares-guidance-and-resources-for-ai-red-teams/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 74
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Azure Large Instances to help healthcare providers manage EHRs"
     excerpt: "Microsoft Azure Large Instances is helping healthcare providers to manage large electronic health record (EHR) database loads using public cloud-hosted infrastructure. Azure Large Instances leverages up to 50 million ‘database accesses’ per second,"
     publishedDateTime: 2023-08-11T10:54:00Z
@@ -158,15 +142,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "Microsoft: A Long-Term Investment in AI"
-    excerpt: "In addition to being a financial investment, OpenAI granted Microsoft access to its AI research and development ... development and spokeswoman for Facebook and sister to Meta Platforms CEO ..."
-    publishedDateTime: 2023-08-08T09:59:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/08/microsoft-a-long-term-investment-in-ai/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 66
   - title: "Microsoft partners with Aptos Labs to build AI-powered blockchain tools on Azure"
     excerpt: "A compelling new partnership has just been announced between Microsoft and Aptos Labs. The collaboration is set to create an AI-powered tool named Aptos"
     publishedDateTime: 2023-08-09T15:54:00Z

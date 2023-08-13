@@ -35,20 +35,6 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "Episode 8: Artificial intelligence and the future of warfighting"
-    excerpt: "The advent of ChatGPT and its successor, GPT-4, in recent months has brought artificial intelligence into everyday use. Far from being science fiction, AI is now a frontier for the U.S. military as it competes with China, Russia and other global adversaries."
-    publishedDateTime: 2023-08-08T10:33:00Z
-    webUrl: "https://www.stripes.com/multimedia/podcasts/military_matters/2023-08-08/paul-scharre-ai-military-china-10973585.html"
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 37
-    images:
-      - url: "https://www.stripes.com/incoming/jqp809-mil_ai_cover-edit.jpg/alternates/LANDSCAPE_480/MIL_AI_cover%20edit.jpg"
-        width: 480
-        height: 299
-        isCached: true
 
 secured: "WTGRBoDYoctKBjVRrNr3Bve5CCf1sHJNdp0k5PK2bZTOXaqMLRvi0JPH/lasT5e4cpUe8lG81ft6MP+OLb8kqgP25dEKY/TuNBw0VWxu3XVKEOrodU92xoWiuZuNHUdJsyYul3HAPfu77UO/9jxPV8RVJwe7fTdfBTXqKXalV6c1H8+KkhxuN8jkCXRBx+lbql1bdKTHQE5E3u40kg/6BgfqK8Q54+w5UehcFl5fmjySymVy+WU08jQrllk/K0EzqPE8SEZvuN/0oXPWb1as8y4cclv2US5Q4XdoJ8qzn5ijdyJjoFlMAmss/uOOojtfbri+b7T2Oy2jUBO4BWMOvKxK4mZRBoGB7H2TBGgN+AfDKq1gFcD9S7olEiYYIDHAWhwUCtbNflXgXMQ5ssaQ4AIlQuR9t4Eq2dZLgtvcKz3lkkiiWueMcrge7imbXah6A0qRsrrE2acyhAwykE29W7S84ynyN0qyOJscO2qQuyGBsuN2WhcvO98yXU9XgNL8g80EtOFHvisShdwtdvFD6A==;SMvxL/6Hp6Rzxh9RO++B4Q=="
 ---

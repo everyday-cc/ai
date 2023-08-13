@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip
 webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-in-august-1032530506"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
         width: 600
         height: 338
-        isCached: true
-  - title: "We must build trust in AI for use in health care"
-    excerpt: "It would seem then, the best hope for the continued development of AI in health care is technology guided by a human touch. The public must trust in the ability of AI tools to produce accurate and reliable information, and believe that such information, gathered without prejudice, assists a physician’s ability to care for patients."
-    publishedDateTime: 2023-08-08T10:00:00Z
-    webUrl: "https://www.newsday.com/opinion/commentary/guest-essays/ai-artificial-intelligence-health-care-drugmaking-gwk1leoa"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 39
-    images:
-      - url: "https://cdn.newsday.com/ace/c:YmI1NDQzZWMtMDI0NS00:OWNjNzYy/landscape/1280"
-        width: 1280
-        height: 719
         isCached: true
 
 secured: "nCUDkOiXElVb7hwDEPeoFaCku73bWTQWgF91ZXjYYrf9up3dIQ1NEqs1tFf1gLznfcd6JneyJwTNAnUzONgZZvVLwniPkE+P2HbSZXN7eBMzhyIDyTu3J8zBKCgRip60ebsQhhHPtd0PiU/NtcFs7XOah3GZcmkV+4tEDx2plF0EHWVGyGqD22Z1man1M9YrqEHwpRc49x90ngpxcG9V5Re7xIVGmXkMM5d6OIDFbFJ5VYmAnhxUnG/YdYccZ0L0vrnL0Qx4QzvZyZFPAfcHk/VkGE5gmP92OVdXrs7r+z9Ajr9xaQf10XevLYmh64Lo/oaTugFcFL8eyjqbLt4LCSPrDqU7V57h47C+qAWtDQ5KpaeOSs1GJC92rQFBh0EW+77vYwWw0DtUeC2S/AX66PpaugMMhHfFvqcKgYOtu5760wNd4yPMxwxn0Zh9/UHJ5JLCInPbleDF6ErXmhhtj3MZQJ44eUAz8F6gGqpW5iychLYsIXWFr3yTdkRPZEY31VAVfjCqRiCkOhDulgZdmA==;l0a3OxlAJM4R8TRa6YvSqg=="

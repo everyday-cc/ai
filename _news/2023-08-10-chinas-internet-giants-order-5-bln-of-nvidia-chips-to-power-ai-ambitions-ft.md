@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/chinas-internet-giants-order-5-
 webUrl: "https://www.reuters.com/technology/chinas-internet-giants-order-5-bln-nvidia-chips-power-ai-ambitions-ft-2023-08-09/"
 type: article
 quality: 80
-heat: 230
+heat: 240
 published: true
 
 provider:
@@ -186,6 +186,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "China’s internet giants in $7.6b AI chip-buying frenzy"
+    excerpt: "Baidu, ByteDance, Tencent and Alibaba are rushing to buy chips vital to building AI systems, amid concerns US President Joe Biden will soon clamp down on their export."
+    publishedDateTime: 2023-08-10T02:58:00Z
+    webUrl: "https://www.afr.com/world/asia/china-s-internet-giants-in-7-6b-ai-chip-buying-frenzy-20230810-p5dvga"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 34
   - title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions: Report"
     excerpt: "Nvidia offers the A800 processor in China to meet export control rules after U.S. officials asked the company to stop exporting its two top computing chips to the country for AI-related work. The FT report comes as President Biden on Wednesday signed an ..."
     publishedDateTime: 2023-08-10T02:32:00Z

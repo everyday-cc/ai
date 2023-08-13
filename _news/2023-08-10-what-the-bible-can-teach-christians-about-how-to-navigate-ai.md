@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/what-bible-teach-christians-navigate
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/what-bible-teach-christians-navigate-ai.amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Humans the risk of artificial intelligence"
+    excerpt: "The risk of AI is not AI, but the human, and the carnage left in the wake of our ideological attachments. As much as we may assume our expertise and ability to use, misuse, guide or control the remarkable tools that we have created, we will continue to stumble towards our demise as long as the awareness remains external to the human experience."
+    publishedDateTime: 2023-08-12T08:43:00Z
+    webUrl: "https://mg.co.za/thoughtleader/2023-08-12-humans-the-risk-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Mail & Guardian
+      domain: mg.co.za
+    quality: 19
 
 secured: "K21E0dbzdnYKq6IG0u7q/ltzKEAzqqv1wW5nWUavDQVWGnC/pECelOVuEkntQBqbT+ZiFqBy/Nby/WoMa95dxXRIgMAfMULNQxfYrePCjC5yroAg1oGRC89HIrZdLarwCdm3/oMcG2nOpoyqHSh+Sxf9TUsYbckl0OnmU0VmD+VF5Xz2E/KwMXXacoTfzpsQh5nGv9+t8d1zjh0alausaB4y9CTnXbJgtzORFXcWQp7hTPLpseC6YtmpinwxoZ+szdWaYz3T9GmKVJC1aAn6EIr/TUEgLbv0WKtQkZPhXl+DgP5xC9xxR5CmI2I/OL730zKcO3BRWKuayp9h9sqCNHlNf5fqc7p2DyJhBqyMFWk=;jvBRoPiRKA5AYD/W7l4gJA=="
 ---

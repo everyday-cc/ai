@@ -217,15 +217,6 @@ related:
       domain: cbsnews.com
     quality: 14
   - title: "Lawsuit filed after facial recognition tech causes wrongful arrest of pregnant woman"
-    excerpt: "Porcha Woodruff is the third Black Detroiter to be wrongfully arrested after flawed facial recognition technology used by police falsely tied her to a crime she did not commit, according to a ..."
-    publishedDateTime: 2023-08-08T10:22:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2023/08/07/facial-recognition-tech-wrongful-arrest-pregnant-woman/70544340007/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 12
-  - title: "Lawsuit filed after facial recognition tech causes wrongful arrest of pregnant woman"
     excerpt: "Flawed facial recognition technology caused the wrongful arrest of a pregnant woman in Detroit, the latest in a string of false arrests blamed on the technology, according to a federal lawsuit ..."
     publishedDateTime: 2023-08-08T17:55:00Z
     webUrl: "https://www.usatoday.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
@@ -267,6 +258,6 @@ related:
       domain: people.com
     quality: 0
 
-secured: "QEBbIeZhRm2VkeTe8e+mZeRFuAmRznYKDi79RApp1WAr5Lw71F454M2SeCF83f7jzDtPtd5xvuDGulwhpT01D++uR4QKL4s0cuXbLGlFeigXg7EJSREwPuJXrcgSuNs3jufejA1MT5pETbfo4ckm4MynABwGKROqO591wqwL3CACuhNW5VvaMeWCG8TzfJkF0isb2N51ykwT+sc0JPRX88w8w8Vm6pAsttMPuD9W6lfT9ko6l57p3//lZp5Zg7GLfLujqFvgxIzBDeF0Lcwsec9EGKBgRTini6w0fh7eNSr51C9N/grFH+WkSFwyWW9A5WOq3/RCeegnq+/Qq1wk8QmDmdFFN2aJob4cPh1tH8A=;c/OGP34RPY7SKlfNRczocA=="
+secured: "21Z8/Y2Hp+dRX23u8OBGL7TRHOwFtSzwZtkHinSl1LoRn/cpk4Wou16qkUASNigUkg98MpIHc+4becl4tLvnaSXoy4t1DnRVH8obtlpKnY8XUqy/UnhleS5DivdpbV09bvJX8U+OaGCwVT+3+7bq+hckwtyXuJxB8uIAySBmkAXXiXq7cHLdehjWbNYYraIQGzXoArDn7eoH64ycx2f4S/JbTTujR+tBnwlvwHLsX28L9m1EgjIhfWcQpMdtZUSfyc954u3GF4IlJd5MBQ4sqY3Ijuzxl747WIc4OUSvfpOi6nHMKaL6RWwCqbBUEAqM/8EWN9+O4bQE3jYZjgIDkg6fym7R/ckOjAnMcX7X5ZlpJygF/RSb8GaIzs8i8+vgcu/0mk7/C9Ysxr5j230iUgo26GBvVolIXZYPJNS9ddo7EIzb9YxdtHIzHqVeuYytteS8iNChSiOcxqc7Jm32KxIZxkNysjVneRkOfRJ+i5Dt3ptf5t0cwGVPrHN1/BjkZypWw0yhPrvC6E5vFKbTTw==;dQhTUpVPeK88aVgoub0zwA=="
 ---
 

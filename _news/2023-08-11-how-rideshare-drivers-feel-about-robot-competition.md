@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-10T21:01:00Z
 originalUrl: "https://www.marketplace.org/2023/08/10/self-driving-cars-ridesharing/"
 webUrl: "https://www.marketplace.org/2023/08/10/self-driving-cars-ridesharing/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.marketplace.org/wp-content/uploads/2023/08/GettyImages-1497020128-e1691697350903.jpg?w=1200"

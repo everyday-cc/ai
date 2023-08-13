@@ -57,6 +57,22 @@ related:
         width: 1920
         height: 720
         isCached: true
+  - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
+    excerpt: "ARMONK, N.Y., Aug. 9, 2023 /PRNewswire/ -- As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM IBM plans to host Meta's Llama 2-chat 70 billion parameter ..."
+    publishedDateTime: 2023-08-09T12:07:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33662581/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33662581"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33662581"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 72
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses"
     excerpt: "(Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language program on its own enterprise AI platform, watsonx. IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients."
     publishedDateTime: 2023-08-09T12:10:00Z
@@ -95,20 +111,6 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
         width: 300
         height: 235
-        isCached: true
-  - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
-    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat 70 billion"
-    publishedDateTime: 2023-08-09T12:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59802679-ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
         isCached: true
   - title: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform"
     excerpt: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform - As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to"
