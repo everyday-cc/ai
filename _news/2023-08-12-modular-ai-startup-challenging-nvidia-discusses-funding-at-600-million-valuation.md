@@ -7,7 +7,7 @@ originalUrl: "https://www.theinformation.com/articles/modular-ai-startup-challen
 webUrl: "https://www.theinformation.com/articles/modular-ai-startup-challenging-nvidia-discusses-funding-at-600-million-valuation"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -22,93 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "BOXX Upgrades AI Workstation Module with New NVIDIA L40S GPUs"
-    excerpt: "BOXX Technologies, the leading innovator of high-performance computer workstations, rendering systems, and servers, today announced that RAXX P1G, a rack-mounted"
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635531/boxx-upgrades-ai-workstation-module-with-new-nvidia-l40s-gpus"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33635531"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635531"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "NVIDIA Unveils RTX 5000, 4500 And 4000 Ada Workstation GPUs To Crush AI Workloads"
-    excerpt: "NVIDIA announced the much-anticipated expansion of its workstation graphics card lineup based on Ada Lovelace."
-    publishedDateTime: 2023-08-09T14:15:00Z
-    webUrl: "https://hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 69
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62253/content/NVIDIA_RTX_5000_Hero.jpg"
-        width: 708
-        height: 400
-        isCached: true
-  - title: "Nvidia flexes generative AI muscle at SIGGRAPH with new GPUs, development software"
-    excerpt: "GPU titan Nvidia doubled down on generative AI at SIGGRAPH this week, unveiling new chips, server designs, and software to fill out its ecosystem of artificial intelligence hardware and systems design products."
-    publishedDateTime: 2023-08-09T21:34:00Z
-    webUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.html"
-    ampWebUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 68
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/nvidia-l40s-100944528-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Nvidia announces updated GH200 Grace Hopper GPU with HBM3e memory for generative AI workloads"
-    excerpt: "Nvidia has announced an updated version of its GH200 'superchip,' which will be the first GPU in the world to include HBM3e memory."
-    publishedDateTime: 2023-08-09T15:26:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-updated-gh200-grace-hopper-gpu-with-hbm3e-memory-for-generative-ai-workloads/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 43
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/GH200_HBM3e.2e16d0ba.fill-1200x630.png"
-        width: 1124
-        height: 592
-        isCached: true
-  - title: "NVIDIA at SIGGRAPH: DGX Integration with Hugging Face for LLM Training; Announcement of AI Workbench"
-    excerpt: "At the the SIGGRAPH conference this morning in Los Angeles, NVIDIA and Hugging Face made several generative AI-related announcements, including a partnership intended to broaden access to generative AI supercomputing (NVIDIA’s DGX cloud hardware) for developers building large language models (LLMs) and other AI applications on the Hugging Face platform."
-    publishedDateTime: 2023-08-08T16:02:00Z
-    webUrl: "https://insidehpc.com/2023/08/nvidia-at-siggraph-dgx-integration-with-hugging-face-for-llm-training-announcement-of-ai-workbench/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 24
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/04/jensen1.jpg"
-        width: 862
-        height: 800
-        isCached: true
-  - title: "NVIDIA, Global Workstation Manufacturers to Launch Powerful Systems for Generative AI and LLM Development, Content Creation, Data Science"
-    excerpt: "The systems, including those from BOXX, Dell Technologies, HP and Lenovo, are based on NVIDIA RTX 6000 Ada Generation GPUs and incorporate NVIDIA AI Enterprise and NVIDIA Omniverse™ Enterprise software."
-    publishedDateTime: 2023-08-08T17:35:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861311.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "NDe1hxs3Hd+Q6nf2VJaTd93F2Ilsy+cbhT8KxHqjKmzelxmmWpegfL/ScpHZZgjayOw0e3vVuoKzvX3vOLOJNePcyzHMqQlqD/pxcnVeo8KniWmrU6QhuMi7SQwc+ujyY4WnkjQ76LbxgDSZRSuYXZxOWPc5L5tLthjEN9uE78bAETFdzfgYBlf/dVbZYIenW3bbaIrkr2UfsO16MtQ/c8Ev5lU+oku1RJGluNVqqIDeG1ihrvMgD7CLjlGfVfXqrdZQ/FCKiWNoPCBJRfYmNbFy8HOcPAQb6E2dc56CxxKGZ8NjbNDN6rlS0JrWuVpzs8Fl7mgj1yZ90hFY/niGFMTlnjdSRgAe3iMflcztCbLdjbXIfMR5RYbvIv2pZhEUCDoez5PaLb/T1MuGenpZI97H4b39hFwa1s9k9s9+OsqcrMPWDPgQ29ewIGm0N3EZ8bPIgGOgUi36avB1yZpZEvEqO+zDSeE2T9nQ9McyxhqshSjeHQ6B49q0wD7B2fnH1FGV3R6YkKZ8O6g2kHGytA==;8PMq4AW2aNijHeJ0KSMTaw=="
 ---

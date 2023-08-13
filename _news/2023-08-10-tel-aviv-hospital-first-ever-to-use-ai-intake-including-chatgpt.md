@@ -139,20 +139,6 @@ related:
         width: 700
         height: 449
         isCached: true
-  - title: "Bud taps Google Cloud generative AI tools to develop intelligent chatbot"
-    excerpt: "UK fintech Bud has developed a generative AI core and chatbot for personalised customer insights using Google's PaLM2 large language model. The new logic core will be embedded into Bud's existing lending and affordability product and its money management ..."
-    publishedDateTime: 2023-08-08T15:18:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42751/bud-taps-google-cloud-generative-ai-tools-to-develop-intelligent-chatbot"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 38
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rszed-maslaveckas-headshot-hi-res.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "ChatGPT on Campus: Law Schools Wrestle With Emerging AI Tools"
     excerpt: "Law schools are weighing how to integrate rapidly improving artificial intelligence into the classroom as the legal industry grapples with the technology."
     publishedDateTime: 2023-08-11T09:01:00Z

@@ -137,20 +137,6 @@ related:
         width: 700
         height: 449
         isCached: true
-  - title: "Bud taps Google Cloud generative AI tools to develop intelligent chatbot"
-    excerpt: "UK fintech Bud has developed a generative AI core and chatbot for personalised customer insights using Google's PaLM2 large language model. The new logic core will be embedded into Bud's existing lending and affordability product and its money management ..."
-    publishedDateTime: 2023-08-08T15:18:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42751/bud-taps-google-cloud-generative-ai-tools-to-develop-intelligent-chatbot"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 38
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rszed-maslaveckas-headshot-hi-res.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Tel Aviv Hospital First Ever To Use AI Intake Including ChatGPT"
     excerpt: "Sourasky is the first hospital in the world to integrate an AI chatbot into its triage process, using the tool from Israeli startup Kahun"
     publishedDateTime: 2023-08-10T06:10:00Z

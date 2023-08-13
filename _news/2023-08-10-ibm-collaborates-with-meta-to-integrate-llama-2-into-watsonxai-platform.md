@@ -82,8 +82,8 @@ related:
         height: 532
         isCached: true
   - title: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses"
-    excerpt: "(Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language program on its own enterprise AI platform, watsonx. IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients."
-    publishedDateTime: 2023-08-09T12:10:00Z
+    excerpt: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses (Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language ..."
+    publishedDateTime: 2023-08-09T12:13:00Z
     webUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
     type: article
     provider:

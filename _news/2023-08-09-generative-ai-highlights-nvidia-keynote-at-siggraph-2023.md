@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-highli
 webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-highlights-nvidia-keynote-at-siggraph-2023/"
 type: article
 quality: 71
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia upgrades Omniverse to for OpenUSD framework and generative AI"
-    excerpt: "Nvidia said the Omniverse platform will leverage the OpenUSD framework and generative AI (AI) to accelerate industrial digitalization."
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-upgrades-omniverse-to-for-openusd-framework-and-generative-ai/"
+  - title: "Nvidia flexes generative AI muscle at SIGGRAPH with new GPUs, development software"
+    excerpt: "GPU titan Nvidia doubled down on generative AI at SIGGRAPH this week, unveiling new chips, server designs, and software to fill out its ecosystem of artificial intelligence hardware and systems design products."
+    publishedDateTime: 2023-08-09T21:34:00Z
+    webUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.html"
+    ampWebUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: Network World
+      domain: networkworld.com
+    quality: 68
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Studio-Image.jpg?w=1200&strip=all"
+      - url: "https://images.idgesg.net/images/article/2023/08/nvidia-l40s-100944528-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
   - title: "SIGGRAPH 2023: NVIDIA Keynote Highlights"
     excerpt: "Discover NVIDIA's latest advancements in generative AI platforms, industrial digitization, GPUs and more at the SIGGRAPH Conference 2023."
@@ -101,15 +103,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 29
-  - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
-    excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
-    publishedDateTime: 2023-08-08T16:51:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861323.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
     excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
     publishedDateTime: 2023-08-08T18:44:00Z

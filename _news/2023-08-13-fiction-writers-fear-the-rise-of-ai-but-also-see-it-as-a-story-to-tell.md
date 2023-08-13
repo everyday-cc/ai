@@ -2,27 +2,26 @@
 category: news
 title: "Fiction writers fear the rise of AI, but also see it as a story to tell"
 excerpt: "Crime writer Jeffrey Diger, known for his thrillers set in contemporary Greece, is working on a novel touching upon AI and the metaverse, the outgrowth of being “continually on the lookout for what’s percolating on the edge of societal change,” he said."
-publishedDateTime: 2023-08-13T05:18:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/fiction-writers-fear-rise-ai-story-102231593"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/fiction-writers-fear-rise-ai-story-102231593"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/fiction-writers-fear-rise-ai-story-102231593"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/fiction-writers-fear-rise-ai-story-102231593"
+publishedDateTime: 2023-08-13T09:10:00Z
+originalUrl: "https://www.local10.com/entertainment/2023/08/13/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell/"
+webUrl: "https://www.local10.com/entertainment/2023/08/13/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell/"
 type: article
-quality: 57
-heat: 67
+quality: 39
+heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: WPLG
+  domain: local10.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/wirestory_f846ff75df37dacbdb87b4343a346c2a_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SVYPNIGDTBHIVLF5NRIOFWCMG4.jpg?_a=ATAPphC0"
+    width: 700
+    height: 519
     isCached: true
 
 related:
@@ -41,6 +40,6 @@ related:
         height: 407
         isCached: true
 
-secured: "b6pNZc1VslqyNN0Ee6gw9AwD6D0n4y6nndMX8sLZofLfsrL+GMirKARPnXhRonDCTJ/mq0m7cHAe+zwTH+ZW9N2hse7gfVGcqPzH7nqLUIZEKacFckQcycbrFoTr/ZOHn0JOia/HTY2XQdEqo2ZW5gESGHW5PH6PSSIk26AHoKXn4uGJ6KGw6tmvuOOlWn/awLNvkYZziFZL95VIuzB6BK+zN5T1W2aFHJuFZ34JHBHHdhSSyfhyq5z4Qj5Zk99zr1csAXgoK8Y8is1yuLEGd4bfr6DkmhW3Ls5hoAUVQhE5piLnj/rl5gQZhIr7szj1UtErftmrqzr/ZtJ9LSIlvkwI0ip/0sWvAFD6kfHlTQyHWvJEopw+01rIrzl0A3e6uQZwSwSpm1AM+hTukA1VXKd09QIjIUqRmc7IWGnEIArvAeyQm2aEbUO0+BtMJ/0V1lDNEIADf2gGNuZJWc9+e2kO6ceHi5zydzVCd4d/tlvKfByVMQQfj62nE8Him/TZJroPDZM0BfhD6ZvORbeoCQ==;AnT25DL7iWY6GHARozP96w=="
+secured: "qF2nNVuG/3cFJqvoyt7bTBVhoj+2slN7rQq42ZEdba6exZzRTuBq2c6IhAC6cLybtbbESx2PVsJtDjyb0TSGCdRU/lWHoh4AojZlOCDTokAVc3+0iG7zOPniI9cHwkksUmjXxIzRb/xl00jJf4m326rTjQdY18D6QODLPUbM3L/y8PfVeicMzXUyJfOmHRwZnl7rABR5fEwfHP0UmP5VF0oc1csYTvA2Ss3lpgfyTXIzJ8et5vbdf6TmpxBBt6W8hyxYumyBKuIJUa8l7UQvXiCpJwBduQqFf/h/6vpNzpm1vgxrapnxHr8DzUeL6P9iaJ6CAnXddMDu7+jeQP5VCktmXv4Sw/tZlCdXpvTXR40=;2jTZifo7IeTgScsMCztNjw=="
 ---
 

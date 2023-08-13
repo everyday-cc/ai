@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft is expanding Bing AI to more browsers - but there's a catch"
-    excerpt: "Already available for select users in Chrome and Safari, the AI chatbot is wending its way to other browsers on both desktop and mobile."
-    publishedDateTime: 2023-08-08T16:57:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/16006480204872b8e8ce286a8314ef1029138839/2023/08/08/c3ad8625-df07-48b1-b5df-fff4b8deb6fb/gettyimages-1546726492.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Azure AI Adds GPT-4 and New Virtual Machines"
     excerpt: "Microsoft is also working on creating guidelines for red teams working on making sure generative AI is both secure and responsible."
     publishedDateTime: 2023-08-08T20:52:00Z
@@ -115,6 +99,36 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Microsoft and Aptos Labs Collaborate on New AI Blockchain Solutions"
+    excerpt: "Aptos, a reincarnation of Facebook's Diem blockchain, is integrating Microsoft's AI infrastructure to support users and developers."
+    publishedDateTime: 2023-08-09T13:08:00Z
+    webUrl: "https://www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/"
+    ampWebUrl: "https://www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/?outputType=amp"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/?outputType=amp"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 74
+    images:
+      - url: "https://www.coindesk.com/resizer/1DEM2RqjH1pG3nYo6lWlfiU0SLI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/F6BDLOKG2VBU3BHACLZ4YOFZ2M.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Microsoft unveils next-gen AI solutions to boost frontline productivity amid labor challenges"
+    excerpt: "Microsoft aims to enhance the efficiency of frontline service professionals through Copilot integrated into Dynamics 365 Field Service."
+    publishedDateTime: 2023-08-09T17:10:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-unveils-next-gen-ai-solutions-to-boost-frontline-productivity-amid-labor-challenges/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "Microsoft Azure Large Instances to help healthcare providers manage EHRs"
     excerpt: "Microsoft Azure Large Instances is helping healthcare providers to manage large electronic health record (EHR) database loads using public cloud-hosted infrastructure. Azure Large Instances leverages up to 50 million ‘database accesses’ per second,"
     publishedDateTime: 2023-08-11T10:54:00Z
@@ -128,6 +142,22 @@ related:
       - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4540/Azure-Large-Instances_web.jpg"
         width: 975
         height: 548
+        isCached: true
+  - title: "Microsoft and Aptos Blockchain Partner to Revolutionize Web 3.0 and AI Integration"
+    excerpt: "Microsoft partnered with Aptos Labs, a layer 1 innovative blockchain platform co-founded by former Facebook employee"
+    publishedDateTime: 2023-08-09T16:28:00Z
+    webUrl: "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/"
+    ampWebUrl: "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 68
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/microsoft-aptos-web-3-ai.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Microsoft partners with Aptos Labs to build AI-powered blockchain tools on Azure"
     excerpt: "A compelling new partnership has just been announced between Microsoft and Aptos Labs. The collaboration is set to create an AI-powered tool named Aptos"
@@ -143,28 +173,21 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-    excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence"
-    publishedDateTime: 2023-08-09T16:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions-1032535735"
+  - title: "Illumio Simplifies Zero Trust Policy Enforcement With Microsoft Azure Firewall Integration"
+    excerpt: "Illumio, Inc., the Zero Trust Segmentation company, today announced the general availability of Illumio for Microsoft Azure Firewall."
+    publishedDateTime: 2023-08-10T15:21:00Z
+    webUrl: "https://enterprisetalk.com/news/illumio-simplifies-zero-trust-policy-enforcement-with-microsoft-azure-firewall-integration/"
+    ampWebUrl: "https://enterprisetalk.com/news/illumio-simplifies-zero-trust-policy-enforcement-with-microsoft-azure-firewall-integration/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/illumio-simplifies-zero-trust-policy-enforcement-with-microsoft-azure-firewall-integration/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-  - title: "Microsoft Azure expands availability of OpenAI GPT-4 and GPT-35-Turbo models to more regions"
-    excerpt: "Microsoft's Azure AI infrastructure has made an expansion, offering OpenAI's GPT-4 and GPT-35-Turbo models in various global regions. The service now covers"
-    publishedDateTime: 2023-08-08T15:37:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-azure-expands-availability-of-openai-gpt-4-and-gpt-35-turbo-models-to-more-regions/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 58
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 64
     images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Microsoft-Adds-Dynamic-JSON-To-Azure-Core-Library-For-.NET_.png"
-        width: 1024
-        height: 768
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Illumio-Simplifies-Zero-Trust-Policy-Enforcement-with.jpg"
+        width: 1500
+        height: 844
         isCached: true
   - title: "Kyndryl and Microsoft team up for generative AI"
     excerpt: "Kyndryl and Microsoft have ramped up their ongoing partnership to focus on boosting generative artificial intelligence among customers."
@@ -222,6 +245,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Aptos token rises 11.6% after Microsoft deal to marry AI with blockchain"
+    excerpt: "The price of Aptos — the token powering the Aptos Network — rocketed more than 11% after Aptos Labs announced a new partnership with Microsoft."
+    publishedDateTime: 2023-08-10T02:23:00Z
+    webUrl: "https://cointelegraph.com/news/aptos-token-surges-after-partner-microsoft"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 53
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMmEwOTIwOWItZDk5My00MWUxLTgwZmMtMGI0OTZmOWE3ZGJlLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Aptos Labs taps into Microsoft’s AI infrastructure to accelerate Web3 adoption"
     excerpt: "Aptos Labs and Microsoft have announced a partnership that could see developers leverage Microsoft’s AI tech to boost Web3 adoption."
     publishedDateTime: 2023-08-09T13:41:00Z
@@ -274,6 +311,15 @@ related:
       domain: mybroadband.co.za
     quality: 34
   - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
+    excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help clients adopt responsible AI MENLO PARK, Calif.,"
+    publishedDateTime: 2023-08-09T14:35:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/08/09/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 33
+  - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
     excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help ..."
     publishedDateTime: 2023-08-09T17:22:00Z
     webUrl: "https://www.morningstar.com/news/pr-newswire/20230809sf78393/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions"
@@ -318,6 +364,33 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 26
+  - title: "Aptos Price Prediction as Microsoft Partners with Aptos on New AI Blockchain Products – Can APT Reach $100?"
+    excerpt: "Aptos (APT) jumped on Wednesday on the news of the Microsoft AI partnership, but could have a long way to run to the upside yet."
+    publishedDateTime: 2023-08-09T17:40:00Z
+    webUrl: "https://cryptonews.com/news/aptos-price-prediction-as-microsoft-partners-with-aptos-new-ai-blockchain-products-can-apt-reach-100.htm"
+    type: article
+    provider:
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 16
+  - title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
+    excerpt: "Kyndryl (NYSE: KD), the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable the adopti"
+    publishedDateTime: 2023-08-09T08:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230808222504/en/Kyndryl-and-Microsoft-Collaborate-to-Speed-the-Evaluation-and-Adoption-of-Enterprise-Grade-Generative-AI-for-Business"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
+  - title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
+    excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable"
+    publishedDateTime: 2023-08-09T18:28:00Z
+    webUrl: "https://www.datanami.com/this-just-in/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprise-grade-generative-ai-for-business/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 11
 
 secured: "fKE9gVZa6XC02DSYDbfzw4yHYPrwKMQPk7WaJA3VbqFj6GMCsuoW7AS25290ZJSr9DUaA1LbEA7EwzuiFBmOpI0FoxbPaVKaNQgw4ZcNeN+VQtrl0j480bz3xDa/5LEMxBvLhkeUSZ6hQLAMFAxPydffLD1KyT3DCEI/P2H551/sMJ4pqjSO89S8wyyjVI/rJ7qZkHwVZ9yPhtRaHRAaSGr3kGKZvIZAWzwWG3H6/1vb/+yHv3n7u8GRED5rhAbnlKhQKjYrJl/4ew/pxUEzSjCk2FPc0P93Gku+Ncjt9Yi90h5panyP8nicWLmfciCMWJYUJcrXdoqCTVc8GyZnKsD4tZWBzdzoRYaB0/BAdHziUhxm9zXuAlTZkzuoS8Dw75DlA/1h518H7cw0hDznwOXixgCmcqS/LjK7HuDBdAqPZIH+1z4aF7Aownr625z4sD08ix5sL/7Cv/1WSo0N9i+AxIMhG+b2PQSCeFM5BE/lvI6CjKKiqXvGajgDG1cVq0SsXeVJpjD/6vf1nSk5Rg==;qprz9QA7K5nNsyWMbSolXA=="
 ---

@@ -49,20 +49,6 @@ related:
         width: 1020
         height: 573
         isCached: true
-  - title: "Al Trailblazer Bud Financial Launches Bud.ai, a Generative Al Core Platform to Deliver Hyper-personalized Banking Experiences"
-    excerpt: "Bud Financial (Bud) unveils an all-new generative Al core to its data intelligence platform, enabling banks and financial services organizations to apply Al to every consumer engagement. The Bud.ai platform will empower any financial services organization to transform their transaction data into powerful new customer insight and achieve the holy grail of personalization at scale in customer experience."
-    publishedDateTime: 2023-08-08T15:59:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/al-trailblazer-bud-financial-launches-budai-generative-al-core-platform"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 12
-    images:
-      - url: "https://financialit.net/sites/default/files/bud_0.png"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "beum4zU3wwbzvjp/z1DSxl4Uqqu6cj6pTzd2gyOU75Fc8bX0ZRJAFv2ZVF1hn6MmRAkPIiTAJzxFF56adjoZ554K+FVCMY1zwr6eaF80iJ5cst/yf+30Xkwc5eQRa9nLF/idvHkUu1JkySLVT94lWWX5a1AqRXtHZPv4sP3zvwxUYOYqpB08ZQZImhJIJn3b9SQUnN70uxq+msZz1HyLh9moPRYXZQHgoZKrynX+x3h+zvIq+NtfBd/56NlsId7qrn7bL7eWfhQ3imi5p0un1dvh6HZRjkwDaNcMzSXSjQ7RJ9oGhiA46DkP9TKVcRt5sBpFj9759Tpoi00fBcPTNJWzfGlvDyQT5ikhlOASPCvo5FKoZ0uDqQZikA/T2yqZTRbpWamWVVI7RResWGbJyUbga1YRydsOBFrXQZznQ3GFJJsShBtbJ5fhJc2HnOETbcE/2fwpCrP3Dye+qFkUJt+Or5DnHYwIIUIx0XMPFZZS5GAm51zCGMAUzbchOvxCO+aZ7wIWPinomtd4nio7pQ==;Uk84LYgJl1wVlbFg1PSELw=="
 ---

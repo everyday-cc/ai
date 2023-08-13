@@ -44,19 +44,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Kognitos Launches the Industry's Most Advanced Generative AI Automation Platform"
-    excerpt: "Kognitos is introducing self service functionality for business process experts to quickly start building automations interactively without prior automation training. It comes with an industry-first generative AI-powered copilot for writing automations in natural language."
-    publishedDateTime: 2023-08-08T16:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kognitos-launches-the-industry-s-most-advanced-generative-ai-automation-platform-1032530091"
+  - title: "Artificial Intelligence: A Revolution on Par with the Industrial Revolution"
+    excerpt: "Oliver Dowden, the deputy prime minister, has highlighted the potential of AI to enhance productivity and streamline mundane tasks."
+    publishedDateTime: 2023-08-13T07:51:00Z
+    webUrl: "https://bmmagazine.co.uk/opinion/artificial-intelligence-a-revolution-on-par-with-the-industrial-revolution/"
+    ampWebUrl: "https://bmmagazine.co.uk/opinion/artificial-intelligence-a-revolution-on-par-with-the-industrial-revolution/?amp"
+    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/opinion/artificial-intelligence-a-revolution-on-par-with-the-industrial-revolution/?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: Business Matters
+      domain: bmmagazine.co.uk
+    quality: 57
     images:
-      - url: "https://mma.prnewswire.com/media/2170997/Kognitos_Logo.jpg"
-        width: 400
-        height: 210
+      - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/08/shutterstock_1828948811-scaled.jpg"
+        width: 850
+        height: 567
         isCached: true
   - title: "Generative AI: The Modern-Day Gold Rush"
     excerpt: "Industry thought leaders share insights on generative AI's impact, advantages, challenges, and advice on implementation."

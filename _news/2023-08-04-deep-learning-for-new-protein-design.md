@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Deep learning for new protein design"
-excerpt: "image: Deep learning methods have been used to augment existing energy-based physical models in ‘do novo’ or from-scratch computational protein design, resulting in a 10-fold increase in ..."
-publishedDateTime: 2023-08-03T18:50:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/997655"
-webUrl: "https://www.eurekalert.org/news-releases/997655"
+excerpt: "Deep learning methods have been used to augment existing energy-based physical models in 'do novo' or from-scratch computational protein design, resulting in a 10-fold increase in success rates ..."
+publishedDateTime: 2023-08-04T12:14:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/08/230803213837.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/08/230803213837.htm"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8bb6c875-768d-423a-8ebc-f51fff6be32e/Rendition/low-res/Content/Public"
-    width: 700
-    height: 244
-    isCached: true
-
-secured: "zxMeK0J176TzAOs2lVJlHuPGuyVsZt09pHGzKb3ybZ36BJ7BLUrvlv904SPNVjy+4ti88eF4aSj0cdRqj4kdMOWBSZmEsst/Wmx90+BX4Vq75eWYQEnN0+fHpjif3n/kPlDDMhHSzgm3rvzV/JUyZ2w4VZnQAq7+y63ynQ/lxWPDYIwIoSgD1gr5p/FkMEPcgUhWCHxwLC01Ap4DRSn1eLfBZAi8U/0S0eA/S1sdaYFbn5MCBf+4L3IytWJzU/7wrHFEtBNO4JS8fy+rS+PhoTLV5VqUbNlPBJDfr5xMsa5tbVCvWakAAXFJHOXr+XEB48m3/xRK/xKBkFir9Ia9xEbk+CSyjiMo+Urh1CrixIA=;hOKgbUSA3Nj9gpLdPOjN4g=="
+secured: "7UA/23Iom58xv1VadBSzZRMfdRhfsajma5n0Cw/kLOBAE77XA8koB9EHDHmFpLl9dc/uOJ0myyZ5Tm/pZ24pulCEy17jFAIUTUC4Pm9Qri9+B1EfaghMYvWx4RAoNyiIHPZA7k40THPBj76bGt/LPMB1HSOxUXmR36u/Kk8HG8HlBCISqhuTnvRWonBhO0qCqEsVf8NeSqP70s0mlEin37LOwx8utZwvZLakFOEK46Yxa5GSEU9q3CSDdVgnZEnw8EYyJ62scJFz3uzG4gZaY9CJdyg2xkZY29nO0Nt5lzZa58NSAlSnN3SBooAIuZ6+HR+ogIM9fWJncUlso9uQNsJBymqQDu65T92xyWnF+sw=;Y6iS4qoIJ211HzavEQsgfg=="
 ---
 

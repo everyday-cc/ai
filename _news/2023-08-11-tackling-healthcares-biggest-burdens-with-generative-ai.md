@@ -101,22 +101,6 @@ related:
         width: 1200
         height: 608
         isCached: true
-  - title: "Chegg is getting a generative AI makeover just in time for back-to-school season"
-    excerpt: "ChatGPT's advanced abilities have the potential to shake up many industries, and online learning services are an early example of this. With a free, competent tool like ChatGPT that can help with homework and studying, why would students pay for an online learning service?"
-    publishedDateTime: 2023-08-08T16:37:00Z
-    webUrl: "https://www.zdnet.com/article/chegg-is-getting-a-generative-ai-makeover-just-in-time-for-back-to-school-season/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chegg-is-getting-a-generative-ai-makeover-just-in-time-for-back-to-school-season/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chegg-is-getting-a-generative-ai-makeover-just-in-time-for-back-to-school-season/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/d5cc6ed5011ba9dd8d03158587d37492d7ff0cd0/2023/08/07/e628bc31-6534-451e-b147-c29be7e18310/gettyimages-1245734633-2.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Opinion: Higher Education Entering Year 2 of Generative AI"
     excerpt: "After a somewhat chaotic year in which professors grew suspicious of their students' writing and navigated new territory largely without clear guidance, colleges and universities still face inevitable change."
     publishedDateTime: 2023-08-08T20:32:00Z

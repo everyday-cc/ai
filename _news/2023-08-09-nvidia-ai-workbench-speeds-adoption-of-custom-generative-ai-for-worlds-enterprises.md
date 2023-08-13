@@ -217,15 +217,6 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 27
-  - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
-    excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
-    publishedDateTime: 2023-08-08T15:58:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861286.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
 
 secured: "TZHGPp5Pt4FafLi41xscbmPxKIxv22LlNGtLEn9HD2AwM4YFM7BvuO7+PzXO9GfusHOEOnDsuAzHh2PYIg/K1qK7163l84Voool4BZ10anr6K6Yfbn9V9mlBNfHLqJ6ZUvM8ud4zIe+bnTNF5p4dktqcLa0u4z9x8bOU0v4dCBHuTqIsWVkkaEPxV1K9Lz8PSp+jdHV486ZgcHVeVorblMR41vfKa6DQF42lFslGz3NRT2oO8w2v2Tj3IhW/el5SHFivaExQT90aUNPQ7/Q6J510p2ocTuSVdyeHUgyswMBtSMOW2KaZb2v/e528vkFHMV4CLJn9dHFkevxvFIthtk+4LzaSrN37dwltSOM8AQU=;fUYiWDCtbb0cuncDGgweFg=="
 ---

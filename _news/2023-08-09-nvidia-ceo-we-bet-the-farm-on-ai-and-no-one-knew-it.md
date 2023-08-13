@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -176,20 +176,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 33
-  - title: "Nvidia puts generative AI at the forefront with AI Workbench and Hugging Face partnership"
-    excerpt: "As part of the collaboration, Hugging Face will offer a brand-new service, called Training Cluster as a Service. It will simplify the creation and tailoring of new custom generative AI models for enterprise customers using its platform and Nvidia DGX Cloud for infrastructure with a single click."
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/08/nvidia-puts-generative-ai-forefront-ai-workbench-hugging-face-partnership/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/NVIDIA-AI-Workbench-Image.jpg"
-        width: 1280
-        height: 680
-        isCached: true
 
 secured: "lGon1NQpl0T48NSCG7jPZ87iY/sIcEiFLen7w4f5XwsJiTk4/0wTRSRI3cZqoMDLU+SRNlnv4bKOg3YUMd/5U/IW3gVF3/EZ1vvsg5OGzc096oPp5NjrJiprO6Wo6id3sLt54rhlnQsir5d2S0XaI+tp4bnTYyRMRN+DoX8d4K/KonImdu1x0Yc3UlH08blPZa2WSTiauJKTjRGfBOGJT3/oOUyCowytHS06vfA06xDCJqA5TDdR1bwfLP3OoxqDA6rNUNTQ/njfnrrwfnhiZO1ouIWIFOY7LXJOiYl+jzMMnF6Rprcf2Ev55g24/MJPKQRd+wupfto321ztj00L4Sr99LH0Nyiee7fXj6QaiAo=;IWXIspfCn45UVlKpiW5t0Q=="
 ---

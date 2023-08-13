@@ -29,47 +29,102 @@ images:
     isCached: true
 
 related:
-  - title: "Survey reveals divisions among Americans when it comes to AI use and trust"
-    excerpt: "As artificial intelligence and generative AI continue to dominate the focus of tech companies, American consumer sentiment about AI is mostly split, according to a new survey by Seattle venture… Read"
-    publishedDateTime: 2023-08-08T16:59:00Z
-    webUrl: "https://www.geekwire.com/2023/survey-reveals-divisions-among-americans-when-it-comes-to-ai-use-and-trust/"
+  - title: "Biden fuels tech trade war with China, banning AI, chip, and quantum system investments"
+    excerpt: "US President Joe Biden is escalating the tech trade war with China with an executive order to restrict investment in specific sectors including semiconductors and microelectronics, quantum information technologies,"
+    publishedDateTime: 2023-08-10T16:33:00Z
+    webUrl: "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html"
+    ampWebUrl: "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 67
+      name: Computerworld
+      domain: computerworld.com
+    quality: 66
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/08/Screenshot-2023-08-08-at-9.39.39-AM.png"
-        width: 1250
-        height: 858
+      - url: "https://images.idgesg.net/images/article/2023/08/china_us_chip_semiconductor-100944587-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Where Americans are OK with AI in their healthcare"
-    excerpt: "Americans remain wary of AI in healthcare, but are more comfortable with certain uses than others. A survey of 2,202 US adults reveals the healthcare tasks they're most at ease having AI help with."
-    publishedDateTime: 2023-08-10T14:40:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/where-americans-are-ok-with-ai-in-their-healthcare.html"
+  - title: "Biden signs executive order banning investment in Chinese AI, other tech"
+    excerpt: "President Joe Biden signed an executive order Wednesday banning U.S. investments in artificial intelligence and other technologies that come from China."
+    publishedDateTime: 2023-08-09T23:28:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: UPI
+      domain: upi.com
+    quality: 58
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6541691620107/2023/1/253c6e9417c032a9382c422147f5a677/v1.5/Biden-signs-executive-order-banning-investment-in-Chinese-AI-other-tech.jpg"
+        width: 1200
+        height: 798
         isCached: true
-  - title: "Americans' level of concern about healthcare AI, by generation"
-    excerpt: "Older Americans are more concerned about AI in healthcare than younger generations, according to new survey results. 77% of Baby Boomers and 70% of Gen Xers are concerned."
-    publishedDateTime: 2023-08-11T15:12:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/americans-level-of-concern-about-healthcare-ai-by-generation.html"
+  - title: "US fuels tech trade war with China, banning AI, chip, and quantum system investments"
+    excerpt: "US President Joe Biden is escalating the tech trade war with China with an executive order to restrict investment in specific sectors including semiconductors and microelectronics, quantum information technologies,"
+    publishedDateTime: 2023-08-10T16:33:00Z
+    webUrl: "https://www.computerworld.com/article/3704610/us-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: Computerworld
+      domain: computerworld.com
+    quality: 27
+  - title: "Mark Lee speaks on artificial intelligence following U.S. order on investments in Chinese tech secto"
+    excerpt: "The U.S. announce new trade rules to China reducing its access to U.S. microchip technology. Beijing says the order seriously disrupts the security of the global industrial and supply chains as well as fair competition."
+    publishedDateTime: 2023-08-11T01:39:00Z
+    webUrl: "https://www.cbsnews.com/detroit/video/mark-lee-speaks-on-artificial-intelligence-following-u-s-order-on-investments-in-chinese-tech-secto/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 22
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/11/e634c5af-7212-4b44-b55a-ad3a9f2a551c/thumbnail/1200x630/2c5fbb459b3252cc5223dd8490b4250b/ae2dfb51adecbc530c78e39a48b98cb5.jpg?v=08aa43fa812a9e12e93282c47f58b17f"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Reverse CFIUS Unveiled: Focus on China, Semiconductors, Artificial Intelligence, and Quantum Computing"
+    excerpt: "President Biden issued an Executive Order (E.O.) ordering the issuance of outbound investment restrictions. This E.O. comes after nearly a year of anticipation (as we have"
+    publishedDateTime: 2023-08-11T22:45:00Z
+    webUrl: "https://www.natlawreview.com/article/reverse-cfius-unveiled-focus-china-semiconductors-artificial-intelligence-and"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 21
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/33801/SemiConductor%20Circuit%20Board_0.jpg?itok=KoMeBKMn"
+        width: 500
+        height: 282
+        isCached: true
+  - title: "Biden issues an executive order restricting U.S. investments in Chinese technology"
+    excerpt: "President Joe Biden signed an executive order Wednesday to block and regulate high-tech U.S.-based investments going toward China -- a move the administration said was targeted but it also reflected an intensifying competition between the world's two biggest powers."
+    publishedDateTime: 2023-08-09T23:06:00Z
+    webUrl: "https://www.ctvnews.ca/world/biden-issues-an-executive-order-restricting-u-s-investments-in-chinese-technology-1.6512662"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 18
+    images:
+      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/8/9/biden-1-6512763-1691622416724.jpg"
+        width: 1020
+        height: 573
+        isCached: true
+  - title: "New Outbound Investment Restrictions Affect China, Semiconductors, Artificial Intelligence, and Quantum Computing"
+    excerpt: "President Biden issued an Executive Order (E.O.) ordering the issuance of outbound investment restrictions. This E.O. comes after nearly a year of anticipation (as we have"
+    publishedDateTime: 2023-08-12T19:51:00Z
+    webUrl: "https://www.natlawreview.com/article/new-outbound-investment-restrictions-affect-china-semiconductors-artificial"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 16
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/15527/Trade%20Export%20Logisitics%20Supply%20Chain%20TOP_3_0.jpg?itok=dt6WjCn9"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "lyWwhX4cX35ZXG0G00AHYXHQ7HVWBxAST90FbD1Bo8hPOTBeWxsi/z+nOcSIh8jBgNod2uWPsyCuLwhwGDOCBwuJld9hXL4mtLn934wzK0FqlbIb+dMUEUuH/3LPunK+vmj7SEWW2K3yeoUAQnQcVoPrFUWrmUDBxvzK4b5rT3r+mqBbXtzTYIxWI+8lOuSZFb+L50mg9ciEneUdUqVJg2q24qswUiA64XKv0sqznQ5cnP7NUw3q4lCwjs4J5u95ughrxQxVSUtHGpYBdWH4kBx6RBFVdpN3p1+w+ei1+usuiV8WvhIpRsSD5Swm3YW273YWqc7ygBwXwVG0Na0nkE1hYo4ITwatALYduhre86w=;kRWvO1P+RKqmJOTfQ/OS5w=="

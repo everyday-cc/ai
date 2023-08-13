@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Spotify's AI DJ expands to 50 countries around the world"
-    excerpt: "Spotify is bringing its AI-based DJ feature to more markets, expanding the feature's reach six months after launch in North America as it continues to compete against Apple Music."
-    publishedDateTime: 2023-08-08T16:56:00Z
-    webUrl: "https://appleinsider.com/articles/23/08/08/spotifys-ai-dj-expands-to-50-countries-around-the-world"
-    ampWebUrl: "https://appleinsider.com/articles/23/08/08/spotifys-ai-dj-expands-to-50-countries-around-the-world/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/08/08/spotifys-ai-dj-expands-to-50-countries-around-the-world/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/55794-113346-spotifydj-xl.jpg"
-        width: 1312
-        height: 731
-        isCached: true
   - title: "Apple Music finally adds personalized recommendations, while Spotify expands AI DJ"
     excerpt: "While Apple plays catch-up, Spotify expands access to its AI-powered DJ custom music feature. Spotify's AI DJ creates custom music selections accompanied by the commentary of a realistic voice that provides insightful facts about what you are listening to."
     publishedDateTime: 2023-08-08T19:04:00Z

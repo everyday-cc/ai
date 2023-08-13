@@ -74,8 +74,8 @@ related:
         height: 532
         isCached: true
   - title: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses"
-    excerpt: "(Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language program on its own enterprise AI platform, watsonx. IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients."
-    publishedDateTime: 2023-08-09T12:10:00Z
+    excerpt: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses (Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language ..."
+    publishedDateTime: 2023-08-09T12:13:00Z
     webUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
     type: article
     provider:
@@ -150,6 +150,6 @@ related:
       domain: analyticsindiamag.com
     quality: 33
 
-secured: "O0RNDHI9x0oAJ9Exu1oEV/k9VGP1ODVJPARtWPDNoSh4aHawQIbxVboZLYDVxbUYCmMoSplVtWmXQC2p+4S+DuYHJzR6zZwWvyf0lTftoMj6M19Wj2mMC/GD7WQlXZ2xjfzW3Auskdk1iU8cXsBzP2IocvxM3Sh1wZaynNk+Qbn1uGGw5tUi9Fcz80va3vWzS5UHOHmAU6l+qWtB3X2U2PktpjUHno6UEPMlBXl5Tu5Nr8TWE26LqdVN6wV+yDDQcK9u40qtrV/bLDckw66GbXKhmsEdn4vuFj9ehDwOgYKvmAmcCt022ZBTvqyBmKC7zyLIRPl8wvTHIm/2pJ2G87xRbYVl/GFFOLaQUrbFyUc=;4KEMthJbr7xPf3NOHL4RkQ=="
+secured: "mxyjDCTnJNciQvncTLnvsApRueUWYLQxISRZcXO1APrUmnRX5f2wAf0oys39zATUvaSp9PYySQ4KPUBWPPxlBMw1oWqc8KjMPhzBwDhwg/YDyDs7ZqpKqSF698ua4RRGo90UPleQNsJ6oa7i5+TGI16kSteaBlGw257BBR+zvvA9ZqDO8uQNlMiWNTl+qKX85rA3BlherPLqj8qe9S58i8lh6TkBLnVqeej2tvMVpN2J52C4PajheykzTLbLy7ByIk7qumLgM6wfprTWusg8ulNDz0KDNwpwNmItCyORRtMzTDv63jVXum3EccsNoCXQA5lNmX4dpqIcgBjK6L/VrANXeD8J3QIB/ENT/xncmWA=;zR+miSEFzLG+7rwEVjbxkw=="
 ---
 

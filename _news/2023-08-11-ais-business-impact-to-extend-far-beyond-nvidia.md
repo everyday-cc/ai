@@ -174,20 +174,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 33
-  - title: "Nvidia puts generative AI at the forefront with AI Workbench and Hugging Face partnership"
-    excerpt: "As part of the collaboration, Hugging Face will offer a brand-new service, called Training Cluster as a Service. It will simplify the creation and tailoring of new custom generative AI models for enterprise customers using its platform and Nvidia DGX Cloud for infrastructure with a single click."
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/08/nvidia-puts-generative-ai-forefront-ai-workbench-hugging-face-partnership/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/NVIDIA-AI-Workbench-Image.jpg"
-        width: 1280
-        height: 680
-        isCached: true
 
 secured: "HrFTzWtrILsZn98RjRhUDeqX0H1lRvaE+5jr1WnWlOosoJOQ+Trs6ePal1vcny7A0DmFrSDCs66NMIwzOWZ+CYpTJllUmrfMp40eGfknDSxUdoeTByYLa6Fcw4+4StkGMyKB4HEwwykQt7MZ4sBgXgI6NMDBaIov95xQtOMmYGQ07HJzPfoazvVwCGoAEYM+aLOw3fDxPi5/knALGwRhRc6nVA823er4j5PsQZ+jFYzGYM7Ond3fqFwEeJmPuD38HfBbs61Yq8yMnFNWq09DQ0fou1nN1xOiqvT1I4MBtq7icP5Z+mRhYrwqtJc4IhM6S6KFumVe55e+YKccxSSb5VMrrt5z+lkyWVqzPk9aocAvWVkijk21Z7iLmXTKD2KjsLYpiC+nllqR6QMoxUstt7iNwEDhmW5KbEbyDoTxqiOzYjuQ+iit05+jLNeRiFPsY8rHZJYsx/GH5TiAjE7zg9x3BBrEi56OCX+8koJRBVjITX20IEIURJ5XURol/X+uBvVndkziFMil4umpcXNcew==;NgerpnM0teeMfK6B5UcqNw=="
 ---

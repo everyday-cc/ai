@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 837
         isCached: true
-  - title: "Disney Is So Serious About Using AI it Created a Task Force"
-    excerpt: "Expect artificial intelligence and machine learning to be injected into every area of Disney's business—from movie production to theme parks."
-    publishedDateTime: 2023-08-08T15:20:00Z
-    webUrl: "https://www.pcmag.com/news/disney-is-so-serious-about-using-ai-it-created-a-task-force"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05xz3UGLjCX3ft8hSSpylGk-1.fit_lim.size_1200x630.v1691507474.jpg"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "3VClCZXlKfo1UUSSEhneaXT+cIOK3Z5qs8MqcxnkSyWjHzKrKVCCP9P0b8dzVZihHGrVcQ1ql6WXhhPN34aym73maDJXClE0VFBhPd/QJZJ1cSR8POkDHfryzOjzo7pthOILcGhpXqlT8K4X0gk7FOHBmxfQAYVpREVxyrz23tjqCdTY5GJSWAElDUSl+JwZTCdd+w7+OhukuPp85rJ9akHoLGW8CxJwg2awy+vgICeowYjj1HZX4Q3tSDX/axYvL6sWLwVoFjKH7QMnvHtiZFlRXj8eZhIl+pk9R9f1lh1pG8RrTl1wibH7TtfaHLLR3o1urqFB31dynO143DfaMtH9Xhznk/L/gq9JsX3YKNSJV17pohZkL90fZAOy0CKymoqpXyXvsovOWwXxauKEZz2rv4Ziiwj2oD3pN3S+sMNLP/wMpZbJlKcrQ3EKrgChTNkuJpLsFK+IRSPpBEE71F7GjGwS/e7RhQcNlxCfqzcePWaYzieR1TsMDQZVY1zubCs6nB9Rk9TBxy8GSpNMQA==;qTQ/zrh9LjY6xkgXKdNGzw=="
 ---

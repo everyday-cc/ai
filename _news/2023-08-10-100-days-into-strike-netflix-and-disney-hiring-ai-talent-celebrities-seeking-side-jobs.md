@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/08/10/100-days-into-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Disney Is So Serious About Using AI it Created a Task Force"
-    excerpt: "Expect artificial intelligence and machine learning to be injected into every area of Disney's business—from movie production to theme parks."
-    publishedDateTime: 2023-08-08T15:20:00Z
-    webUrl: "https://www.pcmag.com/news/disney-is-so-serious-about-using-ai-it-created-a-task-force"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05xz3UGLjCX3ft8hSSpylGk-1.fit_lim.size_1200x630.v1691507474.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Disney AI Task Force: Exploring the Marvels of Artificial Intelligence"
     excerpt: "Disney launched its AI task force earlier this year, prior to the onset of the Writers Guild of America (WGA) strike in May. The task force comprises a team of experts dedicated to exploring the potential applications of AI within Disney’s diverse range of operations."
     publishedDateTime: 2023-08-09T13:01:00Z

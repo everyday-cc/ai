@@ -3,12 +3,9 @@ category: news
 title: "3 Autonomous Driving Stocks to Buy Before Elon Musk Goes All In"
 excerpt: "The article \" 3 Autonomous Driving Stocks to Buy Before Elon Musk Goes All In \" first appeared on MarketBeat."
 publishedDateTime: 2023-07-27T07:40:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/18885712/3-autonomous-driving-stocks-to-buy-before-elon-musk-goes-all-in/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/18885712/3-autonomous-driving-stocks-to-buy-before-elon-musk-goes-all-in/"
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BIDU/pressreleases/18885712/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BIDU/pressreleases/18885712/"
 type: article
-quality: 4
-heat: -1
-published: false
 
 provider:
   name: The Globe and Mail
@@ -18,24 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "3 Autonomous Driving Stocks To Buy Before Elon Musk Goes All In"
-    excerpt: "In 2021, many investors learned a painful lesson that the time it would take to make self-driving cars a reality didn't match up to the hype. But that doesn't change the fact that the underlying technology behind autonomous driving is still sound."
-    publishedDateTime: 2023-07-28T14:58:00Z
-    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/07/33441464/3-autonomous-driving-stocks-to-buy-before-elon-musk-goes-all-in"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33441464"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33441464"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/07/28/iaa_2013_11148518644.jpg?width=1200&height=800&fit=crop"
-        width: 640
-        height: 427
-        isCached: true
+images:
+  - url: "https://barchart-news-media-prod.aws.barchart.com/MKTBEAT/0de7c95e271a6f97263f6afd10ea33aa/med_20230727073922_3-autonomous-driving-stocks-to-buy-before-elon-mus.jpg"
+    width: 1000
+    height: 667
+    isCached: true
 
-secured: "oT60FXNs3i/Lbu5JMsJqKr+9s/NCNZqs6Jx2I9CF8uREAkz7qmTf82B8JeHXR2U8eykoonQ23YLi1ndB/zANQHW2n8J7X78kWfYmtZ5gHaVldFyXSmU/m9smL/gmG2lv16138lQwYqY1jNz0XM899IEG2EBdvSeiFyix9avSxnDDs9vDdcyszK+TH/rYgkamzlez1g8qBn8TckYQrgIQQkyMDNdUFGX9xhiY/eb/RmYgYysQ0KOk6LZu5VWJ5yyiu1zC3DoFiMfaGBgcuKzym2ll4x+tdrcuBU1eLOOvpa6n5dQ3xNVoR0vDQmvp4V5FCNo7d4RZZxL3uhgMWBLp5MU7ZXyotwutgZEVs5d07Ys=;Zqyqjk665Fxq6yqDL0mVWg=="
+secured: "ywPy1jQXPhenVehdu1tC9fMPlEAK835lSbMOiDibOajh7x2W76qRCz+6pSd8ULHjzRbdPYHBjOtLn7+J+fR4JRBD1Bzw9qqBisZ+S0Ufkx6zv+jo9s3hklk7GQ8Na747tu+jmoi8s08W9m/pAaO2X0pg8orsV8gFK/bNqSWJboB6az6aD353CINKDYAitkRdKq9Vp8i7agbtV9gLeDe/CTT+MRjwfq8RCgieX9kmg+HG8LGTnKxLhGFPFxS4nQTM+id5D5v2+lRpLN2x3xDX8p4aAUqcY9D8d8oRHcO8HEevfJkWCxe/6EyHcQDdtQgjKhfFCJW7WA6fk5Hlvf7Qp/BAmcH/MEupFoUpEME079o=;GC3mH6gRsp59N1rEv2pmSw=="
 ---
 

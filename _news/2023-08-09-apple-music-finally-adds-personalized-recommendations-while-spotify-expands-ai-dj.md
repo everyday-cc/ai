@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/apple-music-finally-adds-personalize
 webUrl: "https://www.zdnet.com/article/apple-music-finally-adds-personalized-recommendations-while-spotify-expands-ai-dj/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Spotify's AI DJ expands to 50 countries around the world"
-    excerpt: "Spotify is bringing its AI-based DJ feature to more markets, expanding the feature's reach six months after launch in North America as it continues to compete against Apple Music."
-    publishedDateTime: 2023-08-08T16:56:00Z
-    webUrl: "https://appleinsider.com/articles/23/08/08/spotifys-ai-dj-expands-to-50-countries-around-the-world"
-    ampWebUrl: "https://appleinsider.com/articles/23/08/08/spotifys-ai-dj-expands-to-50-countries-around-the-world/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/08/08/spotifys-ai-dj-expands-to-50-countries-around-the-world/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/55794-113346-spotifydj-xl.jpg"
-        width: 1312
-        height: 731
-        isCached: true
   - title: "Spotify says everyone gets an AI DJ, rolls it out to 50 markets across the globe"
     excerpt: "Spotify has announced that it is officially rolling out its artificial intelligence DJ feature to 50 markets across the globe."
     publishedDateTime: 2023-08-08T20:27:00Z

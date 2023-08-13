@@ -27,89 +27,86 @@ images:
     isCached: true
 
 related:
-  - title: "BOXX Upgrades AI Workstation Module with New NVIDIA L40S GPUs"
-    excerpt: "BOXX Technologies, the leading innovator of high-performance computer workstations, rendering systems, and servers, today announced that RAXX P1G, a rack-mounted"
-    publishedDateTime: 2023-08-08T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33635531/boxx-upgrades-ai-workstation-module-with-new-nvidia-l40s-gpus"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33635531"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33635531"
+  - title: "Generative AI Highlights NVIDIA Keynote at SIGGRAPH 2023"
+    excerpt: "At the SIGGRAPH conference, NVIDIA showcased its efforts to make generative AI not only more accessible but also more versatile. Through strategic partnerships and technological advancements, NVIDIA’s innovations echo a significant industry trend where many different sectors are beginning to harness the power of AI."
+    publishedDateTime: 2023-08-08T18:20:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-highlights-nvidia-keynote-at-siggraph-2023/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
+      name: eWeek
+      domain: eweek.com
+    quality: 71
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://b2758374.smushcdn.com/2758374/wp-content/uploads/2023/05/top-generative-ai-apps-tools-696x464.png?lossy=1&strip=1&webp=1"
+        width: 696
+        height: 464
         isCached: true
-  - title: "NVIDIA Unveils RTX 5000, 4500 And 4000 Ada Workstation GPUs To Crush AI Workloads"
-    excerpt: "NVIDIA announced the much-anticipated expansion of its workstation graphics card lineup based on Ada Lovelace."
-    publishedDateTime: 2023-08-09T14:15:00Z
-    webUrl: "https://hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
+  - title: "SIGGRAPH 2023: NVIDIA Keynote Highlights"
+    excerpt: "Discover NVIDIA's latest advancements in generative AI platforms, industrial digitization, GPUs and more at the SIGGRAPH Conference 2023."
+    publishedDateTime: 2023-08-08T22:06:00Z
+    webUrl: "https://www.techrepublic.com/article/siggraph-2023-nvidia-keynote/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 69
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 54
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62253/content/NVIDIA_RTX_5000_Hero.jpg"
-        width: 708
-        height: 400
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr080723-siggraph-2023-nvidia-keynote.jpg"
+        width: 1400
+        height: 934
         isCached: true
-  - title: "Nvidia announces updated GH200 Grace Hopper GPU with HBM3e memory for generative AI workloads"
-    excerpt: "Nvidia has announced an updated version of its GH200 'superchip,' which will be the first GPU in the world to include HBM3e memory."
-    publishedDateTime: 2023-08-09T15:26:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-updated-gh200-grace-hopper-gpu-with-hbm3e-memory-for-generative-ai-workloads/"
+  - title: "Nvidia’s FlexiCubes uses generative AI to create 3D meshes"
+    excerpt: "Nvidia has launched FlexiCubes, a new way to use AI to generate 3D meshes for a wide range of 3D applications."
+    publishedDateTime: 2023-08-11T13:01:00Z
+    webUrl: "https://venturebeat.com/ai/nvidias-flexicubes-uses-generative-ai-to-generate-3d-meshes/"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 43
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/GH200_HBM3e.2e16d0ba.fill-1200x630.png"
-        width: 1124
-        height: 592
-        isCached: true
-  - title: "Modular, AI Startup Challenging Nvidia, Discusses Funding at $600 Million Valuation"
-    excerpt: "Modular, a startup whose software aims to loosen Nvidia’s chokehold over in-demand artificial intelligence chips, has been in talks with investors including General Catalyst to raise Series A funding that would value it at roughly $600 million,"
-    publishedDateTime: 2023-08-11T23:21:00Z
-    webUrl: "https://www.theinformation.com/articles/modular-ai-startup-challenging-nvidia-discusses-funding-at-600-million-valuation"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Nvidia Stock (NASDAQ:NVDA): Analysts Expect Generative AI to Drive Further Upside"
+    excerpt: "Tech companies in the U.S. and international markets are in a race to develop generative artificial intelligence (AI)-powered tools and"
+    publishedDateTime: 2023-08-10T19:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-nasdaq-nvda-analysts-expect-generative-ai-to-drive-further-upside-1032541930"
     type: article
     provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 31
-    images:
-      - url: "https://tii.imgix.net/production/articles/11057/9e8150d2-cb8c-42bb-8810-b35f1573e68a.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "NVIDIA at SIGGRAPH: DGX Integration with Hugging Face for LLM Training; Announcement of AI Workbench"
-    excerpt: "At the the SIGGRAPH conference this morning in Los Angeles, NVIDIA and Hugging Face made several generative AI-related announcements, including a partnership intended to broaden access to generative AI supercomputing (NVIDIA’s DGX cloud hardware) for developers building large language models (LLMs) and other AI applications on the Hugging Face platform."
-    publishedDateTime: 2023-08-08T16:02:00Z
-    webUrl: "https://insidehpc.com/2023/08/nvidia-at-siggraph-dgx-integration-with-hugging-face-for-llm-training-announcement-of-ai-workbench/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+  - title: "AI powerhouse Nvidia releases toolkit that allows developers to quickly create, test generative models"
+    excerpt: "Nvidia on Tuesday announced the AI Workbench, a new toolkit that will helps developers to more quickly create, test, and customize generative AI models."
+    publishedDateTime: 2023-08-10T01:48:00Z
+    webUrl: "https://www.foxbusiness.com/fox-news-tech/ai-powerhouse-nvidia-releases-toolkit-allows-developers-quickly-create-test-generative-models"
+    ampWebUrl: "https://www.foxbusiness.com/fox-news-tech/ai-powerhouse-nvidia-releases-toolkit-allows-developers-quickly-create-test-generative-models.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/fox-news-tech/ai-powerhouse-nvidia-releases-toolkit-allows-developers-quickly-create-test-generative-models.amp"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 24
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 41
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/04/jensen1.jpg"
-        width: 862
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4a0ea36e-3f4d-49e4-b13d-11aaad667f80/cb5c08c3-1d34-43c3-9f86-c589b7c36c77/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "NVIDIA, Global Workstation Manufacturers to Launch Powerful Systems for Generative AI and LLM Development, Content Creation, Data Science"
-    excerpt: "The systems, including those from BOXX, Dell Technologies, HP and Lenovo, are based on NVIDIA RTX 6000 Ada Generation GPUs and incorporate NVIDIA AI Enterprise and NVIDIA Omniverse™ Enterprise software."
-    publishedDateTime: 2023-08-08T17:35:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861311.htm"
+  - title: "7 Big Announcements Nvidia Made At SIGGRAPH 2023: New AI Chips, Software And More"
+    excerpt: "Nvidia CEO Jensen Huang returned to the annual SIGGRAPH event for the first time in five years to showcase the GPU giant’s “full-stack computing” prowess with a bevy of new chips and software for AI,"
+    publishedDateTime: 2023-08-10T19:54:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/7-big-announcements-nvidia-made-at-siggraph-2023-new-ai-chips-software-and-more"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 29
+  - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD"
+    excerpt: "Wonder Dynamics is connected to Omniverse with new OpenUSD export support through its AI platform Wonder Studio, which automatically animates, lights and composes computer-generated characters into live-action scenes. New OpenUSD export support will enable artists to generate and export a complete 3D scene — all from a single camera video."
+    publishedDateTime: 2023-08-08T18:44:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861323.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
+    quality: 19
 
 secured: "1DiCJOHVcl8FkG0+g8g7gM25qikXzeGXz4laN/FVsgNtfEL8s3rNWj9oE+qGrpoa6QE6OVMD2UOo5ZWVKd/szJkpxdf0mJumXnWWJ8n7/s47mCHp3u4BqsAKg7i909MsTho5FW2syBuA6SVQwNgt1USI4FpAxQEKlgP0i76WPoAMFsvZick8MXixEApZFOg2vJtIJnZfzE3cHm0GA2Ql1wizuq571+YXdvVfMp0ii1bNVMY5CQBDrVF0Mf0UxEtnAJNrS45WB/6IsOHmtHlwhaXJz/wQ47fkpcWQh5dVzo1b59zDTqVWM7cjJYUukIMvCeDdlvHh16nuWswLL0udfto2Ru0Zzfuiq4WxrlyU7gx210EmjZTuNvEJcduZO4pFa8IEAAVrQ8yvAPTndVHtpsAg6sfgCNORwz1lWV2a4lD4Tz3h4YnH7P3rlFHe0nXzz4mOV7MxM+LUlp3pNONpV/hqgy1u5PgQa25lISy087Aguh732fGQ+b61EK+lVAtl5/Skg37d7V1FUn13SB2EUw==;sXMoL6WFto1vrWe0BfJZNQ=="
 ---

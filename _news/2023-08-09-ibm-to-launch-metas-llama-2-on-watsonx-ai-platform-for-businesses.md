@@ -1,8 +1,8 @@
 ---
 category: news
 title: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses"
-excerpt: "(Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language program on its own enterprise AI platform, watsonx. IBM's watsonx, which helps businesses integrate AI into their workflow, provides early access to the Facebook-parent's Llama 2 to some clients."
-publishedDateTime: 2023-08-09T12:10:00Z
+excerpt: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses (Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language ..."
+publishedDateTime: 2023-08-09T12:13:00Z
 originalUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
 webUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
 type: article
@@ -153,6 +153,6 @@ related:
       domain: analyticsindiamag.com
     quality: 33
 
-secured: "NOPlHyKi7a66u3j0t3w2f1gNIWTRKBv5Dhh8Yxu1ZFFWqFj6BLBWDyExHb7PpaZywdtv/YQTO4kwqItRTzwIogtnb+7DEd/m31JPGkhmIlfHpk8itp3o+S6ZtpiB4gg+Y6ms4ZkO+WjlC8aIbijnwOHwrzLeWdXxy6thUY29u2Maixdxj91IHEigBrfzqqKW4disoyv18xcDjFkYOyYiRbkCCxTQz+fjz3F7sfIhlSEFnoPXMpafpqHWtbK04uxEkrONa9l4/W2YnToxTAm9Hww4pusFk6fzi21LQqpEJS3lL1WnegJYR5dJVpOA/MS6a2sGiguUxQaaiVdanQ40stXPqu8LO1FPi+YYql0JtyYPkrXuZk9/27rXliy6aOT1QuVeMI4H8R5jh37AEBzZh7pRFhssAouDZC2b3QER+6EkxZqh4G13W+AsucTeQsFeraj7ApYxW+dUwVyTCdWdYxQ/aZpP/CZ+zWV9zPIylOAVgaJwPcRsoJDsCsWj0TiF3r6rLB+Mbv4ElnEcuut4yg==;tbVM25XAkxG5veuLSSsU2A=="
+secured: "+H7AYaaRfKSX6yESOrQJoUSAj0XWCU7fVQmcdv4Y+noZua1ohRCdcRH1Lar8LDz7S7zlWg5Aet9wbSG1P7KZWo/AVD1/JAJ+8kX/hqabfRY5oQ3ARQ3iok3WNrxXntH0pqa264foof/SPBGl+kfa6GzpTGWfiW70i3PqNMgSjn1DJT+j559WxwBPtor2DoI2ZGlfsaVaYrYhl02f2xuW2vkFQcQW1xYDBHcqTSP5LTLSxN6+0Enf3WSdmvJWqnQzQa14KZZsQV8+f8hgysXRhVRJXIgI2dFbfxXfaE86UrHN4IeP4bpmHpzi2moXZmqbPjrtkWZopuVO0c/JNeSP0wV/5muuqJ0zCqEAvh+Suhw=;xGQEs+Y6FNVNG442fQgURQ=="
 ---
 

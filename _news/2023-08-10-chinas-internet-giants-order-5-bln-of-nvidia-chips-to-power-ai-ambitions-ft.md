@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/chinas-internet-giants-order-5-
 webUrl: "https://www.reuters.com/technology/chinas-internet-giants-order-5-bln-nvidia-chips-power-ai-ambitions-ft-2023-08-09/"
 type: article
 quality: 80
-heat: 240
+heat: 230
 published: true
 
 provider:
@@ -213,15 +213,6 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 27
-  - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
-    excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
-    publishedDateTime: 2023-08-08T15:58:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/08/9861286.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
   - title: "NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World's Enterprises"
     excerpt: "AI Workbench removes the complexity of getting started with an enterprise AI project. Accessed through a simplified interface running on a local system, it allows developers to customize models from popular repositories like Hugging Face, GitHub and NVIDIA NGC ™ using custom data. The models can then be shared easily across multiple platforms."
     publishedDateTime: 2023-08-08T17:19:00Z
