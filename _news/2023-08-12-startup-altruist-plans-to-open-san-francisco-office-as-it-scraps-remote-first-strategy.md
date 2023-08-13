@@ -57,20 +57,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 48
-  - title: "San Francisco drives tech; will it drive away robot taxis?"
-    excerpt: "SAN FRANCISCO - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... Alphabet Inc’s Waymo and General Motors ..."
-    publishedDateTime: 2023-08-08T11:16:00Z
-    webUrl: "https://www.straitstimes.com/world/united-states/san-francisco-drives-tech-will-it-drive-away-robot-taxis"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 41
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/08/08/FILES-US-TRANSPORT-TRAVEL-LIFESTYLE-TECH-010402.jpg"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Cruise, Waymo given green light for robo-taxis across San Francisco"
     excerpt: "Waymo, Cruise self-driving cars can charge for taxi service. Companies have promised thousands of additional cars on San Francisco streets."
     publishedDateTime: 2023-08-11T01:19:00Z

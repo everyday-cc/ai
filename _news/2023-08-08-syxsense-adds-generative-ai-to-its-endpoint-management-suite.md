@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/08/08/syxsense-adds-generative-ai-en
 webUrl: "https://siliconangle.com/2023/08/08/syxsense-adds-generative-ai-endpoint-management-suite/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,83 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "10 ways generative AI upends the traditional database"
-    excerpt: "Generative AI isn't just for chatbots. Here are 10 ways AI and machine learning are transforming how we store, structure, and query data."
-    publishedDateTime: 2023-08-08T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.html"
-    ampWebUrl: "https://www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703211/10-ways-generative-ai-upends-the-traditional-database.amp.html"
+  - title: "Syxsense Brings Natural Language Processing to Endpoint Management and Security Automation with Cortex Copilot"
+    excerpt: "Syxsense, a provider of unified security and endpoint management (USEM) solutions, is releasing Cortex Copilot, a new AI engine that allows IT and security administrators to simplify and speed up the process of creating endpoint management and security workflow automation."
+    publishedDateTime: 2023-08-10T16:23:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Syxsense-Brings-Natural-Language-Processing-to-Endpoint-Management-and-Security-Automation-with-Cortex-Copilot-160012.aspx"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: dbta
+      domain: dbta.com
+    quality: 36
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/28/09/pcworld-the-2023-ultimate-ai-chatgpt-python-programming-bundle-100943992-large.jpg?auto=webp&quality=85,70"
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "3 Areas Customers See The Most Potential For Generative AI"
-    excerpt: "In just a short period, we’re likely to see massive changes in how customers find products, engage with companies, and experience brands."
-    publishedDateTime: 2023-08-09T17:51:00Z
-    webUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
+  - title: "Syxsense Announces AI-Powered Cortex Copilot Bringing Natural Language Processing to Endpoint Management and Security Automation"
+    excerpt: "Syxsense, a global leader in Unified Security and Endpoint Management (USEM) solutions, today announced Cortex Copilot, a powerful new AI engine that"
+    publishedDateTime: 2023-08-09T14:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230809184224/en/Syxsense-Announces-AI-Powered-Cortex-Copilot-Bringing-Natural-Language-Processing-to-Endpoint-Management-and-Security-Automation"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c90fd5ea55d543dd49763d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Healthcare AI Trends to Watch: M&A Exits & Generative AI Use Cases"
-    excerpt: "The healthcare AI space will be an exciting one to watch over the next couple years, as investment dollars flow to startups and providers launch more AI pilots. Two of the most interesting trends to watch will be the use cases that healthcare organizations prioritize when deploying generative AI models,"
-    publishedDateTime: 2023-08-11T19:04:00Z
-    webUrl: "https://medcitynews.com/2023/08/healthcare-generative-ai-merger-acquisition/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 34
-  - title: "AI and the Productivity Imperative"
-    excerpt: "The world is struggling with labor shortages, inflation, and a supply chain that cannot keep up with demand. AI can help overcome these productivity challenges, with LLMs in particularly allowing for productivity boosts without replacing human workers,"
-    publishedDateTime: 2023-08-11T12:37:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/ai-and-the-productivity-imperative"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 19
-  - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
-    excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
-    publishedDateTime: 2023-08-11T12:04:00Z
-    webUrl: "https://diginomica.com/attention-enterprises-generative-ai-sexy-esg-has-teeth"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 19
-  - title: "3 ways to play the artificial intelligence boom"
-    excerpt: "Stocks related to artificial intelligence (AI) have been leading the market higher this year, with names such as Microsoft, Nvidia and Apple jumping between 33% and 218% year to date. These gains are reminiscent of the dotcom bubble in the late 1990s. I’m not entirely convinced we’re in a similar position, but we are certainly in a peculiar market."
-    publishedDateTime: 2023-08-10T12:57:00Z
-    webUrl: "https://moneyweek.com/investments/3-ways-to-play-the-ai-boom"
-    type: article
-    provider:
-      name: MoneyWeek
-      domain: moneyweek.com
-    quality: 17
-  - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
-    excerpt: "The new GPU powers accelerated computing workloads for generative AI, which is transforming workflows and services across industries, including text, image and video generation, chatbots, game development,"
-    publishedDateTime: 2023-08-08T17:34:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861312.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
+      name: Business Wire
+      domain: businesswire.com
+    quality: 22
 
 secured: "xU4OeloktSIS9WUcGM1HG4Cb++xIPPD4s9N0tnl1QSENLuoDWOeK0KYmwrC6ccQ5Yw4lxTSAbTFbc0p/k8suYqUxW4rs6jdOHy7K9Ar08uxl5jY94PJbAunyhTv/mgO5c4sn2RDcdBSoeA56trA//NGA03r8IGkMXVuj8wYs//QKq7aPyxduu8agQPgodUkmMidxmP/1MtOZpld86ubDcGzwffRYVV8OptC7Dao/16gJWam66oU9VRGJcJ2R1gec2K0yZdk5xlDUIzWHFpkRg4/HpkdMqpCRAg84Tm/jHEpfZ5R4GgrcueGbiVtG1ewbSmOVa1J2NRiJdIzqTsSrLzh4LxHjfrJvs14ZNijOKj0oLPGtwDXiTEXOUb3r9wz2i6SdbCzqf6vKZsP+fwxew75LvbtwfIgGtVO2c7hnMIvUMfNBrOeX4KSPXlxqKE0CqmQTfhvWPlH5k4N0zwlRjT7eoy2BWdNKVE/DWNHure2asU9IxNu/mLFXgiEi4V9i+jIe3sGRJf7aMjIUiy4RTA==;urk8Us7z2Lak5P81syhUEA=="
 ---

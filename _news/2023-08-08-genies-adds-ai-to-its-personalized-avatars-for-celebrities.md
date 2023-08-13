@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Bud Financial launches Bud.ai, a generative AI platform for hyper-personalized banking"
-    excerpt: "Bud Financial claims its LLM tech, Bud.ai, will enable orgs to convert unstructured financial data into insights for granular analysis."
-    publishedDateTime: 2023-08-08T13:01:00Z
-    webUrl: "https://venturebeat.com/ai/bud-financial-launches-bud-ai-generative-ai-platform-hyper-personalized-banking/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 41
-
 secured: "B0LS7JGiaEL0pIpRZrh8TA9guggJJYhj7KXQF9DmUp9A6pCg1iNg3bWj5Y7S69A3w3pwW/eiB8w62hKmwShkmcMrKZCY+KPJJUa1PC76Ll5mYHk4sRte7/lGBpbQN4Xbx3vRv/yRtHueG2+EBEtMOt06I/yi62fFkrrwPORP/fIJWbYIDML+r1DUUF9xQ3zUEtyvq8XCVCFgJo0X77roJwjn8zmG1CzbSq2ye1kdaRLAM99KGVjowMSgdzuL88enLDBPZlwn9bcMpcLc/GvWG5IpayPa4siIvbj28fpTFOpgAeb+95axbsnPeClgVSCRwEZI3K2fuGghD20mUP73vUsOz5ek3AfdHqarQn8Hf8HF0hNbiru3B94G6kd44mDU4Sq2XXKr86DNMVWHtTPTw102AycBexTWM8CkyfQO8Ej0TFhQlf6Fe7tVMLfsOS802gqvchgvlABZyHwmDp9DzX7WfCTTR1mI77G8O0VxwtcTNF/4yFvpLNGkH+0FvAcExFxI8J4FoTa0fH0GChVXTw==;eNVPtbjtGO19CzbakFnSXg=="
 ---
 

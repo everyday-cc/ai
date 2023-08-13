@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html"
 type: article
 quality: 66
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "US bans American investment in China's semiconductor, AI, and quantum computing industries"
-    excerpt: "The order authorizes the US Treasury to limit or prohibit US investment in three areas of Chinese development: semiconductors, artificial intelligence, and quantum computing. The restrictions"
-    publishedDateTime: 2023-08-10T15:32:00Z
-    webUrl: "https://www.techspot.com/news/99740-us-bans-american-investment-china-semiconductor-ai-quantum.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 59
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-25-image-6.jpg"
-        width: 1021
-        height: 765
-        isCached: true
   - title: "Biden signs executive order banning investment in Chinese AI, other tech"
     excerpt: "President Joe Biden signed an executive order Wednesday banning U.S. investments in artificial intelligence and other technologies that come from China."
     publishedDateTime: 2023-08-09T23:28:00Z

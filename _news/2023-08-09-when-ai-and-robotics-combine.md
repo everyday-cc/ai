@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenation.com/article/world/when-ai-and-robotics-combine
 cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -96,15 +96,6 @@ related:
         width: 985
         height: 739
         isCached: true
-  - title: "Abu Dhabi’s artificial intelligence university establishes dedicated robotics and computer science departments to meet surging global demand"
-    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programs dedicated to robotics and computer science, catering to the surging global demand for these disciplines, which is expected to hit USD $225 billioni and $140 billion, respectively, by 2030."
-    publishedDateTime: 2023-08-08T08:43:00Z
-    webUrl: "https://www.logisticsit.com/articles/2023/08/08/abu-dhabi’s-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-departments-to-meet-surging-global-demand"
-    type: article
-    provider:
-      name: Manufacturing & Logistics IT Magazine
-      domain: logisticsit.com
-    quality: 16
   - title: "The role of Artificial Intelligence in robotic-assisted surgeries – Harnessing the power of data and machine learning"
     excerpt: "In recent years, the healthcare industry has undergone a remarkable transformation owing to the integration of artificial intelligence (AI) into various aspects of medical practice. Among the many groundbreaking developments,"
     publishedDateTime: 2023-08-12T11:00:00Z

@@ -95,15 +95,6 @@ related:
         width: 985
         height: 739
         isCached: true
-  - title: "Abu Dhabi’s artificial intelligence university establishes dedicated robotics and computer science departments to meet surging global demand"
-    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programs dedicated to robotics and computer science, catering to the surging global demand for these disciplines, which is expected to hit USD $225 billioni and $140 billion, respectively, by 2030."
-    publishedDateTime: 2023-08-08T08:43:00Z
-    webUrl: "https://www.logisticsit.com/articles/2023/08/08/abu-dhabi’s-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-departments-to-meet-surging-global-demand"
-    type: article
-    provider:
-      name: Manufacturing & Logistics IT Magazine
-      domain: logisticsit.com
-    quality: 16
   - title: "The role of Artificial Intelligence in robotic-assisted surgeries – Harnessing the power of data and machine learning"
     excerpt: "In recent years, the healthcare industry has undergone a remarkable transformation owing to the integration of artificial intelligence (AI) into various aspects of medical practice. Among the many groundbreaking developments,"
     publishedDateTime: 2023-08-12T11:00:00Z
@@ -114,6 +105,6 @@ related:
       domain: financialexpress.com
     quality: 11
 
-secured: "6DEYqpqok+CpkozHqkq8Orf7GqEs0nsZ6ifI0owxsUDSViDR0Eu4f9NnN2locobbB7qZsgUT8Bu33ri0/24H2Rre10K1Z13GfLcXzD99hP/ZeAJ52BjTcp1dTvhrlVfN0BqoYyoLKTNl1wQhKxK9jOkiiA+cfTKSrW09xLEvMF3Eefi9DREP2V2c46nXQFFLQQo2mX+vzTu/+eacStVnaQtWp1n1yxwQdNxDvNAvy8AzbrbMzkIcSLqaFtTQaPs1wt1KqUA7hd7B17i12IaukuS6jTs/ZuwMp5xHcjY7DbTJZgddupp/gySKx3yGOeGUIEfoF0L79Ieh8B7c5bCax3kAj3uLa0nQP3fpCkV5Ujw=;hB6PTHFUubELnfuH+6C4Fw=="
+secured: "ZUuLCyBrxXKP952v/APia389TnMkfIhbC3XM7vvNrRrkzA0yjuely2N0ule/kSpPygAbUbwLV2tfgG5VaHwqvqvqG9NVGgN7mpNqSahzockA2zRS1qXuO+wyIlbIA7+X3RKpgo/fDisu3YRltUvW+nt0Em8zicUrFiD0HYZdHsYrdcdyiDCIWALNJZ5D+3n1YN5Nk5n/fZXYIKpJPENe6KYSNZkUp9iVE9dQ907N/jz7LHEh+IEkACDGT6jbuHSgtER1TCPZE/xhnOlGjR7SurEfdttjNwQjwEufGvoPXyiuIbbFqnwqxH0J0SLtdRB/bCCys544OWWMfCkyObbJRfmai+hqMy6CX4MvzL1tthmcI7rFNNRFNJJ652PXm4OPtl/luYKBfxc31iLxDCJ+s1TJqc3CWBthJ0jOo3pxlgI047d47tcooHTAsSdG4kjMGzc8DA9KM0uEGoELttPNC/SNl0oovqW8lFRfyH4HnTuTKFyTwd6BmE1yEhAUZuU9APiaaclpK6cy0AalHVn+eA==;w19MZCpYl+G1K9l1tSHuSg=="
 ---
 

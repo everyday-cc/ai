@@ -1,22 +1,28 @@
 ---
 category: news
 title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
-excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat"
-publishedDateTime: 2023-08-09T12:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-301896401.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-301896401.html"
+excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat 70 billion"
+publishedDateTime: 2023-08-09T12:17:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59802679-ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59802679-ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-008.htm"
 type: article
-quality: 32
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
 
 related:
   - title: "IBM Plans to Make Llama 2 Available within watsonx.ai Platform"
@@ -35,17 +41,17 @@ related:
         isCached: true
   - title: "IBM to make Meta’s Llama 2 available on Watson X"
     excerpt: "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,"
-    publishedDateTime: 2023-08-09T22:41:00Z
-    webUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446"
-    ampWebUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446?amp=1"
+    publishedDateTime: 2023-08-09T18:45:00Z
+    webUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792"
+    ampWebUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
+      name: IT Business
+      domain: itbusiness.ca
     quality: 74
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
         width: 1920
         height: 720
         isCached: true
@@ -142,6 +148,6 @@ related:
       domain: analyticsindiamag.com
     quality: 33
 
-secured: "qFfRVY8eVgM8Dx+jtnvxYF52itbUgxkHxk0SHOXNpowTgpKqFKf4SZoSddhmuP+7gplwi0qouuAarWktqYKbhAjv4wfd88XfNMOqWpWmOigsG4kJfw4S8ODST5g+/dc/cEBF9pah08205oLnwRmxdzlFvNYtVJatE4E8QURJ/dG2tEAH5HZwPsc/iPgnjNkUPQJGK3cPsM3s26qv7vbRlneImHyHGSPzap9Bg4DE6cJfxaZUU+X1u69X8y3sr4huTk1k7V3E7TARS0ZMJk4E+5fxxuGgkQOlwrhBpL4ReUR4p+GS8W9hXmwClnKlH0OgmAIrIoiMNBPM9Gz2hkoS7c9YlqhwH1qBn1uv5Fy7CYDrb/nkx7G9jp/3M5Bzp4+Qqlt6lyoWboarhVpPXH9Ex4aQ092C5OvIl/Yr/f+owfNKnyYnKW+RdKa0g6DUf6PZQRoDL+hWwsAiKsZK2o4hSdAMmAy/9MOIIB6Qje2b2iftfxDptnya8Zo7PoQ05IUBja9FWqmYsQoWIXhaGjYGuA==;xtfxAjvKaqNQXOLmxh+hvw=="
+secured: "fV1yhBeISKPaxMJ5uCpESlGr7dpqR/Wl9a6V9alMUJLMbajaLtRlfTGpyF2Rsng7C26D6v0ciq0tUBSVsrftgxf8Wiw/YIYPcT/vLJvkwqEqCYplZP+maRyT1vvQgNb7Ueq5jpj8p3YV2RJiihLukGr8ZVZEJJr6r5GXa7v7I/55V2xlqPcW7tvXr1hebf7GxpvZShlCz+3AsSGpz9b86v156YBENp8VPMDuv/BHUQz/Pr7TUHLfk4remf9UssX/IHYLuCcqw5eETm+5QwTc0Zq/7gUi/xMFRvj5Ywgo/CNcSHUdk/DPiuQygvwUClmNyBmkI6ad9W+I7Tkl6yIrhitJ2PqDIZPqAHPFXyostWE=;Bxy2MblChftqryZ6L7pOBA=="
 ---
 

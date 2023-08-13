@@ -33,11 +33,25 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 65
+    quality: 67
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2023/08/Screenshot-2023-08-08-at-9.39.39-AM.png"
         width: 1250
         height: 858
+        isCached: true
+  - title: "US bans American investment in China's semiconductor, AI, and quantum computing industries"
+    excerpt: "The order authorizes the US Treasury to limit or prohibit US investment in three areas of Chinese development: semiconductors, artificial intelligence, and quantum computing. The restrictions"
+    publishedDateTime: 2023-08-10T15:32:00Z
+    webUrl: "https://www.techspot.com/news/99740-us-bans-american-investment-china-semiconductor-ai-quantum.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 59
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-25-image-6.jpg"
+        width: 1021
+        height: 765
         isCached: true
   - title: "Where Americans are OK with AI in their healthcare"
     excerpt: "Americans remain wary of AI in healthcare, but are more comfortable with certain uses than others. A survey of 2,202 US adults reveals the healthcare tasks they're most at ease having AI help with."

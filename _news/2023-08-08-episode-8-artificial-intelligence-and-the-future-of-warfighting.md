@@ -7,7 +7,7 @@ originalUrl: "https://www.stripes.com/multimedia/podcasts/military_matters/2023-
 webUrl: "https://www.stripes.com/multimedia/podcasts/military_matters/2023-08-08/paul-scharre-ai-military-china-10973585.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,33 @@ images:
     width: 480
     height: 299
     isCached: true
+
+related:
+  - title: "AI and the Evolving Landscape of Creativity"
+    excerpt: "Welcome to the age of co-creation, where the lines blur between the creator, the technological ally (AI), and the audience. This rich tapestry of collaboration challenges and redefines traditional boundaries, venturing into unexplored domains of both individual inspiration and communal expression."
+    publishedDateTime: 2023-08-10T23:11:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2023-08/AIPainting.png.jpg?itok=aaxz6CBC"
+        width: 320
+        height: 320
+        isCached: true
+  - title: "AI and the Productivity Imperative"
+    excerpt: "The world is struggling with labor shortages, inflation, and a supply chain that cannot keep up with demand. AI can help overcome these productivity challenges, with LLMs in particularly allowing for productivity boosts without replacing human workers,"
+    publishedDateTime: 2023-08-11T12:37:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/ai-and-the-productivity-imperative"
+    type: article
+    provider:
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 19
 
 secured: "aVyx7JEStAXrhSDFUPaDV8HbBvvQA1l7wRpVGjAfel2MArChowcD0gsA61d6PuCKxH8oGAwREh4UgVdC/PSmQXXb/mI+CJhPCwkh0yR0sIM6AlZh51LjoJKZbgTRUwsON07aZgDE7whTqx9bPuwXcnDY6BV3Ry8j8jROCd8BmHhekLKfOd1P93LHalGbH++snnbi6FMxjtb9dozZ6jPEaI5i1D7injGcUj7ekuaIVwLrq41/u2nN5UAY6e1iqMYDB6vVddJAIsoBMK7GaKay4MfGroH4lvPOhfJaEhPeXW7qCTDlr6kxg0C5irkG5Pa5tBKOAT+PgP0khjnnob4N+ua9J9QUxuvrOASj7QW/9hI=;qNjKlzd7tdz8KqHX3dDoVA=="
 ---

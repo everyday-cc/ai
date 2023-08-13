@@ -20,6 +20,20 @@ topics:
   - AI in Security
 
 related:
+  - title: "Syxsense adds generative AI to its endpoint management suite"
+    excerpt: "Syxsense Inc., the developer of a unified security and endpoint management suite, or USEM for short, is adding generative artificial intelligence capabilities to its product with an announcement today."
+    publishedDateTime: 2023-08-08T10:00:00Z
+    webUrl: "https://siliconangle.com/2023/08/08/syxsense-adds-generative-ai-endpoint-management-suite/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/manage-header.png"
+        width: 1639
+        height: 886
+        isCached: true
   - title: "Syxsense Brings Natural Language Processing to Endpoint Management and Security Automation with Cortex Copilot"
     excerpt: "Syxsense, a provider of unified security and endpoint management (USEM) solutions, is releasing Cortex Copilot, a new AI engine that allows IT and security administrators to simplify and speed up the process of creating endpoint management and security workflow automation."
     publishedDateTime: 2023-08-10T16:23:00Z

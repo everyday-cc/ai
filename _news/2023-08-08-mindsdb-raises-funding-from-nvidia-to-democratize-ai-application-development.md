@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/mindsdb-raises-funding-from-nvidia-to-d
 webUrl: "https://venturebeat.com/ai/mindsdb-raises-funding-from-nvidia-to-democratize-ai-application-development/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
+    excerpt: "The new GPU powers accelerated computing workloads for generative AI, which is transforming workflows and services across industries, including text, image and video generation, chatbots, game development,"
+    publishedDateTime: 2023-08-08T17:34:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861312.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "AEI1zR/2Pa/n5GV0F222yRYfN0shq4yLKjWihSqfVhWv2Eqi7lM4WaHpO+Ifv6gP3e6PDqdJq9NIIpZPbxmwySmFOzL61zD9pwBD76RikHDiE7siETs7hVp71nJyW7tBWrJPJbrVSNFIJagGiC9ggF+wXaKJ6v4JZbEC3wo6KVRUdtuSg1K25RkOuHp9PuhvQTjsrdkDB2+zJZOPtd7UiPcx6t0PVSr4rThUNR6cO29l5C6Ce2KuG54PLvxIGmxP1Pen19IAUsECygPDHL2w7TdNM9ZM5484qhmySMNWcKx6PYfElo97HA1qNejFGflVDjhKqPikRtVIPhg6jnwA6iX5j6V39xCzEyMGGYTgwVfPeoHc7yu8U42l6HtbGnwl8nF/xLeMTtFAjNfXwZI3SXt5GOlpQ5v52WM/+IYX8IBlsuR8h+6EppTmk6d9E8o5pHxMIneB9Lqr3fi0OUTim08FVWQsvVz0XKUS6m21DUVWxbeQwE3pWjim7JttmYSTk3F5kvX3tKZ2DpHoH0DCUQ==;iVNkUWA9bhqfPRcGttLJWg=="
 ---

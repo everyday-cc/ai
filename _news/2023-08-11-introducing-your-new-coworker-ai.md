@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How artificial intelligence will impact the workplace and schools"
-    excerpt: "The biggest thing about artificial intelligence is it is going to start taking away jobs in the upper middle and upper class such as legal jobs, content creation, administrative assistant jobs, and secretary jobs. When it comes to schools we need to do a better job of preparing our kids for the workforce with artificial intelligence."
-    publishedDateTime: 2023-08-08T08:03:00Z
-    webUrl: "https://www.weny.com/story/49368488/how-artificial-intelligence-will-impact-the-workplace-and-schools"
-    type: article
-    provider:
-      name: WENY News
-      domain: weny.com
-    quality: 41
-    images:
-      - url: "https://WENY.images.worldnow.com/images/19874934_G.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "The impact of artificial intelligence on the work force"
     excerpt: "Artificial intelligence is already having an impact on the labor force, and several indicators show more drastic changes could be ahead."
     publishedDateTime: 2023-08-08T12:53:00Z

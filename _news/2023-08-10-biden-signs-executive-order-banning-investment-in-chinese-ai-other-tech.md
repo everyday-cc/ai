@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "US bans American investment in China's semiconductor, AI, and quantum computing industries"
-    excerpt: "The order authorizes the US Treasury to limit or prohibit US investment in three areas of Chinese development: semiconductors, artificial intelligence, and quantum computing. The restrictions"
-    publishedDateTime: 2023-08-10T15:32:00Z
-    webUrl: "https://www.techspot.com/news/99740-us-bans-american-investment-china-semiconductor-ai-quantum.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 59
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-25-image-6.jpg"
-        width: 1021
-        height: 765
-        isCached: true
   - title: "US fuels tech trade war with China, banning AI, chip, and quantum system investments"
     excerpt: "US President Joe Biden is escalating the tech trade war with China with an executive order to restrict investment in specific sectors including semiconductors and microelectronics, quantum information technologies,"
     publishedDateTime: 2023-08-10T16:33:00Z

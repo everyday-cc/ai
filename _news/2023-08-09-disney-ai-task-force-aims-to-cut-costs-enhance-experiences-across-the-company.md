@@ -47,20 +47,15 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
-  - title: "Merkle Introduces Generative AI Powered GenCX to Revamp Customer Experiences"
-    excerpt: "Developed within dentsu's Azure OpenAI framework GenCX uses AI to analyse substantial amounts of brands' internal data."
-    publishedDateTime: 2023-08-09T05:31:00Z
-    webUrl: "https://analyticsindiamag.com/merkle-introduces-generative-ai-powered-gencx-to-revamp-customer-experiences/"
+  - title: "3 ways to play the artificial intelligence boom"
+    excerpt: "Stocks related to artificial intelligence (AI) have been leading the market higher this year, with names such as Microsoft, Nvidia and Apple jumping between 33% and 218% year to date. These gains are reminiscent of the dotcom bubble in the late 1990s. I’m not entirely convinced we’re in a similar position, but we are certainly in a peculiar market."
+    publishedDateTime: 2023-08-10T12:57:00Z
+    webUrl: "https://moneyweek.com/investments/3-ways-to-play-the-ai-boom"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/AIM-logo-black-768x334.png"
-        width: 768
-        height: 334
-        isCached: true
+      name: MoneyWeek
+      domain: moneyweek.com
+    quality: 17
 
 secured: "F5tMZaO9bYqOQs+Bdc2XqKRu5OidwLjvDLuTa8cjj70Fmp9hhfF7jefoR+E5ZN2zNMyhLyDVrS6iNsscR5WJy0rW/ohSz5coKLtAmEqDEspP/v+5Mz4y3AFHjGc0p/kPKFjHyLdghIGaph9aueMQojnSEak27SolM1H3KCBN5b2PevIXsGEsRTAcv7ul7W5dmoZAAR+3eWqlqNv+dhvxYDD7kXAPyffL8a+3j7jVhp0vOmV0GtHwaab9YyVEAjtGdD2vjhNtHgMATYlNAPha3bZKLjWRT3OXHFjjhjvjSZPFSzYKs8/q5PJkrCwQH+tUgXmgWuyKrLBif2vwh11RoBmiQ0wi0E29kQX1+Qhp5ZBdxk7UJO2/fEtXrfKnIhcYh31CukBdOIsS13qkPiYBubucdr5M6cxxhwN1mB3AVMVdVLkbjLbwLFVQDF7iB+NOP8jeRjUVAs9s5K2r9R/W8OisErvCJjvUCee960HRDpBojmMqRaPZ1ZoqDQDRieaEorH6RnPn/6ZZZCDQXDtZdw==;oGLlU+CQfRumMPU7Vf+iKg=="
 ---

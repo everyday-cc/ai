@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
 type: article
 quality: 87
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,59 +30,82 @@ images:
     isCached: true
 
 related:
-  - title: "AI and the Evolving Landscape of Creativity"
-    excerpt: "Welcome to the age of co-creation, where the lines blur between the creator, the technological ally (AI), and the audience. This rich tapestry of collaboration challenges and redefines traditional boundaries, venturing into unexplored domains of both individual inspiration and communal expression."
-    publishedDateTime: 2023-08-10T23:11:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2023-08/AIPainting.png.jpg?itok=aaxz6CBC"
-        width: 320
-        height: 320
-        isCached: true
-  - title: "Turing Wants To Unleash Human Potential Through AI-Powered Tech Services"
-    excerpt: "In 2020, when the Pandemic mandated the move to remote work, Turing raised $32million in Series B funding to define a future where companies could push a button to spin up their engineering team instantly."
-    publishedDateTime: 2023-08-12T10:46:00Z
-    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/12/turing-wants-to-unleash-human-potential-through-ai-powered-tech-services/"
+  - title: "3 Areas Customers See The Most Potential For Generative AI"
+    excerpt: "In just a short period, we’re likely to see massive changes in how customers find products, engage with companies, and experience brands."
+    publishedDateTime: 2023-08-09T17:51:00Z
+    webUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 46
-  - title: "In the season of AI, writers are feeling the heat"
-    excerpt: "Never in a million years could someone have believed that AI or robots would write poetry, paint, make music, etc"
-    publishedDateTime: 2023-08-10T06:52:00Z
-    webUrl: "https://newsmeter.in/top-stories/in-the-season-of-ai-writers-are-feeling-the-heat-716206"
-    type: article
-    provider:
-      name: newsmeter
-      domain: newsmeter.in
-    quality: 39
+    quality: 87
     images:
-      - url: "https://newsmeter.in/h-upload/2023/08/10/352126-whatsapp-image-2023-08-10-at-121338-pm.jpg"
-        width: 753
-        height: 407
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c90fd5ea55d543dd49763d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The double-edged nature of parenting, mental health and artificial intelligence"
-    excerpt: "There are two sides to every coin — and sometimes our strengths become weaknesses. This hour, TED speakers explore the mixed blessings and volatile flip sides of mental health, parenting and AI. Guests include developmental psychologist Yuko Munakata ..."
-    publishedDateTime: 2023-08-11T05:44:00Z
-    webUrl: "https://www.npr.org/2023/08/10/1193281234/the-double-edged-nature-of-parenting-mental-health-and-artificial-intelligence/"
+  - title: "Nvidia launches RTX workstations chips for content creation in the generative AI era"
+    excerpt: "Nvidia is launching new RTX workstation graphics processing units (GPUs) for the generative AI era at Siggraph."
+    publishedDateTime: 2023-08-08T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-launches-rtx-workstations-chips-for-content-creation-in-the-generative-ai-era/"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/RTX-Workstation-Image.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Bud Financial launches Bud.ai, a generative AI platform for hyper-personalized banking"
+    excerpt: "Bud Financial claims its LLM tech, Bud.ai, will enable orgs to convert unstructured financial data into insights for granular analysis."
+    publishedDateTime: 2023-08-08T13:01:00Z
+    webUrl: "https://venturebeat.com/ai/bud-financial-launches-bud-ai-generative-ai-platform-hyper-personalized-banking/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 41
+  - title: "Merkle Introduces Generative AI Powered GenCX to Revamp Customer Experiences"
+    excerpt: "Developed within dentsu's Azure OpenAI framework GenCX uses AI to analyse substantial amounts of brands' internal data."
+    publishedDateTime: 2023-08-09T05:31:00Z
+    webUrl: "https://analyticsindiamag.com/merkle-introduces-generative-ai-powered-gencx-to-revamp-customer-experiences/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/AIM-logo-black-768x334.png"
+        width: 768
+        height: 334
+        isCached: true
+  - title: "Cloud vs. on-premises showdown: The future battlefield for generative AI dominance"
+    excerpt: "As well, the choice of where customers plan to run generative AI is split almost exactly down the middle in terms of public cloud versus on-premises and edge. Further complicating matters, developers report the experiences in the public cloud with respect to feature richness and velocity of innovation have been outstanding."
+    publishedDateTime: 2023-08-12T16:47:00Z
+    webUrl: "https://siliconangle.com/2023/08/12/cloud-vs-premises-showdown-future-battlefield-generative-ai-dominance/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 33
     images:
-      - url: "https://media.npr.org/assets/img/2023/08/10/trh_cuts_both_ways_artwork1_wide-f5cd94374cdee89695b5a53cef8e676148eb1927-s1400-c100.jpg"
-        width: 1400
-        height: 787
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-risk-on-off-1024x574.jpg"
+        width: 1024
+        height: 574
         isCached: true
+  - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
+    excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
+    publishedDateTime: 2023-08-11T12:04:00Z
+    webUrl: "https://diginomica.com/attention-enterprises-generative-ai-sexy-esg-has-teeth"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 19
 
 secured: "yJgYGGiP1K5N1rWIGs5kAGUbvWALseco8+w5E9LojzjCNbXgkTx9ApYCPXHZOux/T7693xcR/LgjhyyZcIo9FKEjKNY7vwMY2IJu/N+OAowSzlj0tKvvik9IOJ4X9EHysts4upPw+3hi/ty4EElBTyBNn8EcTb8JLrONzTIwESAVqYk7dYsG82G/Q17z5JwoRdr5YbwPboeIZWki45b3zQmErp5PE+8WpbsQhEbfwtOVaEgE5QZ3b4CwgcPJ6iZMr+dc3zo+MNcg4/SBfm2bphfJmt9MIpjSmnjriKtxUpTHoA4q9GWZayCg7Bhv9mtRsBoAecf2aMr4w6G2A1nJxZh/9uPHNNBmm8lZmOWraTE=;x76rfhw7ERfJUb8L7PKmFg=="
 ---

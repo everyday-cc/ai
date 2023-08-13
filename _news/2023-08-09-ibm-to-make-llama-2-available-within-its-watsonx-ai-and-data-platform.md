@@ -41,17 +41,17 @@ related:
         isCached: true
   - title: "IBM to make Meta’s Llama 2 available on Watson X"
     excerpt: "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,"
-    publishedDateTime: 2023-08-09T22:41:00Z
-    webUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446"
-    ampWebUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446?amp=1"
+    publishedDateTime: 2023-08-09T18:45:00Z
+    webUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792"
+    ampWebUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
+      name: IT Business
+      domain: itbusiness.ca
     quality: 74
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
         width: 1920
         height: 720
         isCached: true
@@ -96,6 +96,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
+    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat 70 billion"
+    publishedDateTime: 2023-08-09T12:17:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59802679-ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 52
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform"
     excerpt: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform - As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to"
     publishedDateTime: 2023-08-10T11:21:00Z
@@ -133,15 +147,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 33
-  - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
-    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat"
-    publishedDateTime: 2023-08-09T12:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-301896401.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 32
 
 secured: "EUDQCByrWCGHF+h6teIx4lKin8xEg5JT0C0V0CWWZcgXc1uz8rP1dMSZsC8bqRJ7SlwdbWTe4giCdC9zYRgTChkDdD7vMFNbqvVjq02DnOTs6KmHxtUyjvVP7F/N9waSWQogEYGskxCzco1jHA23g/TQ+US62CNuHifyFpJm3C8UbqVcwxtrK6bvc1QO51oB23r0i7rL6WX8RM5JkVPBk453+TwYj3uCv7zRc7bA5rWXvFUbOxzGvTZiymi38J8wK4B9BkkovMpO6EMBOocQ23fZwNRXPHP+jtuABanlM0S+++aJ4nfFCnSAhujWqvTZciTGcSgdTA6a1nBQ5C+qL86N+XYKyW2SHG7u2Dbty30O1+jaj3U0eTS1j8VVtmRsM3cdfjaNk2KlqU4OfEPQzu4WLvmMv4AQRZjQVaDQV8YRP1RNyzyeMrtbUbPqREG6S2qtE97qpNXNJg0fDN51sE6H+ySgrLEQc5Ilr8iEwRjIgptHYQ0aqNguNS7jUuqiJ+FB7fPG0zATWUuJrNQk/A==;TI3CB8rz4fGbGpFdhdorZQ=="
 ---

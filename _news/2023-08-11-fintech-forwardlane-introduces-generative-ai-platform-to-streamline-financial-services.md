@@ -34,20 +34,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "FinTech LIVE: AI in financial services"
-    excerpt: "In this forum from FinTech LIVE New York, we discuss how AI is already beginning to transform the financial services sector with AWS ’ Global Banking Industry Strategist Sachin Tandon, and MSU Federal Credit Union ’s Chief Digital Strategy & Innovation Officer Benjamin Maxim ."
-    publishedDateTime: 2023-08-08T09:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-live-ai-in-finserv"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/3b954bb1bfdbf39d9330a2cf8e2ce3e8:be2643f3fa4b62e349ff9ba7c35881f6/maxresdefault.jpg.jpg"
-        width: 1200
-        height: 631
-        isCached: true
   - title: "Pagaya rallies as AI fintech sees stronger than expected quarter"
     excerpt: "Pagaya Technologies delivered solid 2Q results that showcased an improving financial position for the artificial intelligence infrastructure firm. The"
     publishedDateTime: 2023-08-11T12:48:00Z

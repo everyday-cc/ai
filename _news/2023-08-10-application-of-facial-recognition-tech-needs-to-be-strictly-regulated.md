@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "China releases draft regulations on facial recognition technology"
-    excerpt: "China’s cyberspace regulator announced the release of draft regulations aimed at overseeing the security management of facial recognition"
-    publishedDateTime: 2023-08-08T08:55:00Z
-    webUrl: "https://technode.com/2023/08/08/china-releases-draft-regulations-on-facial-recognition-technology/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/08/117869015_l_normal_none-scaled.jpg?fit=2560%2C1707&ssl=1"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "DPD pushes to enact changes to photo lineups after facial recognition lawsuit"
     excerpt: "DPD Chief James White spoke Wednesday about a lawsuit filed last week in response to the department’s use of facial recognition technology that led to a Detroit woman being falsely arrested."
     publishedDateTime: 2023-08-09T21:35:00Z

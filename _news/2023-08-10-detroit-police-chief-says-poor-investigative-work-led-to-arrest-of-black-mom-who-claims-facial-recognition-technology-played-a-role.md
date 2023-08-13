@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/08/10/us/facial-recognition-technology-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/10/us/facial-recognition-technology-detroit-false-arrest/index.html"
 type: article
 quality: 73
-heat: 253
+heat: 263
 published: true
 
 provider:
@@ -115,6 +115,20 @@ related:
       - url: "https://img.ksl.com/slc/2942/294228/29422843.jpg?filter=kslv2/responsive_story_lg"
         width: 1228
         height: 690
+        isCached: true
+  - title: "‘Shoddy’ AI facial recognition lead to her false arrest, now this Detroit woman is suing police"
+    excerpt: "A Black mother is suing the city of Detroit and a Detroit Police Department detective after she was falsely arrested while eight months pregnant by officers using “an unreliable facial recognition match,"
+    publishedDateTime: 2023-08-13T01:00:00Z
+    webUrl: "https://www.eastidahonews.com/2023/08/shoddy-ai-facial-recognition-lead-to-her-false-arrest-now-this-detroit-woman-is-suing-police/"
+    type: article
+    provider:
+      name: East Idaho News
+      domain: eastidahonews.com
+    quality: 42
+    images:
+      - url: "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2023/08/detroit-woman-CNN.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "ACLU of Michigan calls on Detroit police to stop use of facial recognition technology after woman claims she was falsely accused of crime"
     excerpt: "The latest is a Detroit woman named Porcha Woodruff, who says she was falsely arrested after the technology connected her to a carjacking case."

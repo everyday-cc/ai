@@ -2,26 +2,26 @@
 category: news
 title: "IBM to make Meta’s Llama 2 available on Watson X"
 excerpt: "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,"
-publishedDateTime: 2023-08-09T22:41:00Z
-originalUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446"
-webUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446"
-ampWebUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446?amp=1"
-cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446?amp=1"
+publishedDateTime: 2023-08-09T18:45:00Z
+originalUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792"
+webUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792"
+ampWebUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
+cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: IT World Canada
-  domain: itworldcanada.com
+  name: IT Business
+  domain: itbusiness.ca
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
+  - url: "https://i.itbusiness.ca/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
     width: 1920
     height: 720
     isCached: true
@@ -96,6 +96,20 @@ related:
         width: 300
         height: 235
         isCached: true
+  - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
+    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat 70 billion"
+    publishedDateTime: 2023-08-09T12:17:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59802679-ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 52
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform"
     excerpt: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform - As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to"
     publishedDateTime: 2023-08-10T11:21:00Z
@@ -133,16 +147,7 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 33
-  - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
-    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM (NYSE: IBM) plans to host Meta's Llama 2-chat"
-    publishedDateTime: 2023-08-09T12:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform-301896401.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 32
 
-secured: "jD3RxquXXs8Gy5eJtUcQ7/rXBmy5YJqWq+zTPYwnthBNBZFWV/XIwtvmyDiXsyH9VBs8FVm0WAM093q84aToZrlnOnXQBEx9LT3HksGZkRu3UgzBNuHzYj/uf6D60XDGDEK3cM9xmKoKnu9qDZu4DCYgqhsLQsMZDngg5unJrkWlSY8aJWDz+YWiakrL+5yIesLuwGQSGX6BJQ9cSpThrK22mbfH508Kmt91iT365iPaeU3WgSL673mxh46X+qPr6DHpgXwHlyRncvFsAnh0veAoPEwyCs2XKRu7YtxuOMinYvZWzEy4V6xlg9hDVjdFvE4bPeZnPZrdLC/nCL9nX15pgtwVaXoqQJkwErQBdfX7ARMnZDnhzKhQZReYaPK+pssiHAAW6N2DLHP9qGY2sI++AjPzm4qePd8iK/mhPvmhWk0StMvdA4vLXus6WQD91Mq4MgR4YoFo9850HkLPbHnMe9UY+nRay6485hKsSQ0kMEqCX79WOVi2BZKllbuQtLdzO7KsgesqxqU2lHPl4A==;p9QsnoyzTQWyCLikJ3B00Q=="
+secured: "3OyGYE6yQX6Mp3msFRaCVI3KQ+FwIspj4uYy0E6XYinqAQJjQ6ysupGntSCzPclcxm2JZxu9DFj/VaH7LJFwdt9lEv/idXwcw5eC6IqlVA2nCXSA85gKVuQ6PV10dzXUZl73xXMoHmDtbIvftnJ+39Z7QfCcPs1X7E+AQ2y0Or2v+chXE5UFkXBUwb863tUYHaT/VtekUS8jp8HI+zpS1RQGwznWgK45/nBLbvNIDlhh+7FScdXVvSWmpROKdOpC2xDK1Mfsnv8zKJ5ixMvWS+o0QjX5j9C6Eqm4xymxxTZ+K7BmeZic25XaHY2RtLzEB30rATGJ8UxbFPSYiZUtTT2DZdQDZGjdV8mwoBV3Fgs=;9ked07aTQHBLy/WGJOhaJw=="
 ---
 

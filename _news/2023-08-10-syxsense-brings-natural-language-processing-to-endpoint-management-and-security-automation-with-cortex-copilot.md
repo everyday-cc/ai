@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Syxsense-Brings-Natura
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Syxsense-Brings-Natural-Language-Processing-to-Endpoint-Management-and-Security-Automation-with-Cortex-Copilot-160012.aspx"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Syxsense adds generative AI to its endpoint management suite"
+    excerpt: "Syxsense Inc., the developer of a unified security and endpoint management suite, or USEM for short, is adding generative artificial intelligence capabilities to its product with an announcement today."
+    publishedDateTime: 2023-08-08T10:00:00Z
+    webUrl: "https://siliconangle.com/2023/08/08/syxsense-adds-generative-ai-endpoint-management-suite/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/manage-header.png"
+        width: 1639
+        height: 886
+        isCached: true
   - title: "Syxsense Announces AI-Powered Cortex Copilot Bringing Natural Language Processing to Endpoint Management and Security Automation"
     excerpt: "Syxsense, a global leader in Unified Security and Endpoint Management (USEM) solutions, today announced Cortex Copilot, a powerful new AI engine that"
     publishedDateTime: 2023-08-09T14:00:00Z

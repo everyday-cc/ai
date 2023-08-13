@@ -50,22 +50,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Self-driving Cars Sensors Market Size and Strategies 2023-2030"
-    excerpt: "The Self-driving Cars Sensors Market (2023-2031) Our research report provides a comprehensive market analysis covering a wide range of products and applications. The report delves into crucial ..."
-    publishedDateTime: 2023-08-08T08:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/33627455/self-driving-cars-sensors-market-size-and-strategies-2023-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33627455"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33627455"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Cruise now testing self-driving cars in Atlanta"
     excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."
     publishedDateTime: 2023-08-08T21:39:00Z

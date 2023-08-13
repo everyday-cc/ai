@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/china-closes-record-number-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/"
 type: article
 quality: 83
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.coinspeaker.com/wp-content/uploads/2023/05/china-prosecution-agency-nft-users.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "China releases draft regulations on facial recognition technology"
-    excerpt: "China’s cyberspace regulator announced the release of draft regulations aimed at overseeing the security management of facial recognition"
-    publishedDateTime: 2023-08-08T08:55:00Z
-    webUrl: "https://technode.com/2023/08/08/china-releases-draft-regulations-on-facial-recognition-technology/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/08/117869015_l_normal_none-scaled.jpg?fit=2560%2C1707&ssl=1"
-        width: 2560
-        height: 1707
         isCached: true
   - title: "Application of facial recognition tech needs to be strictly regulated"
     excerpt: "Although the technology will improve efficiency and convenience, it brings with it deep security risks. The draft regulation is aimed at improving standardized application and compliance of facial recognition technology in order to effectively protect personal information and property rights, and maintain social order and public safety."

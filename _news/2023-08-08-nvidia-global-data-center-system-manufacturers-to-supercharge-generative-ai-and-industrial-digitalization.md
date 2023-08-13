@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 701
         isCached: true
+  - title: "NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization"
+    excerpt: "The new GPU powers accelerated computing workloads for generative AI, which is transforming workflows and services across industries, including text, image and video generation, chatbots, game development,"
+    publishedDateTime: 2023-08-08T17:34:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/08/9861312.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "6sAROL7rbcfD0Ld1Jp2/FMKhbg7mUdD67IvrvrYe0mc4CI3zo9kKkY9tcPJw8C7hOS3M5kcuBAGAZwwzygizTf8cCfn3UrU9BSlJ+p3sK1arLzxJo1IsFvRy9b6y8QZOxMi8MQpwlglqDf/5DxSQTvdIGSPPHY8CPTie0QpQyK2XJCahTyFGGorxXbMMDeX//UHWBV8yNd37I6r9/APEkmJk58MvmT0LPxCQaH21KK6JHxulFuP5D1f4z2uBhLggXRGzRmpWNnba8Cu9k7PHNrgyRDnMUTDs8Gy4t4s/wZMDDptvNIynbIr2buTHM/ovQUpiA5mkRlX5u0g5fMSnfnQe5K1FaIkkDnx4FZnyes0=;zopFXCPtBv/LyhrZLc0wBg=="
 ---
