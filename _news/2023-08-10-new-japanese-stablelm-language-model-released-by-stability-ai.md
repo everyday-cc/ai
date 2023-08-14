@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Stability AI Stable Chat model featured at DEFCON31"
+    excerpt: "Stability AI unveiled its revolutionary open access large language model (LLM) on July 21st, 2023. This LLM, known for its intricate reasoning"
+    publishedDateTime: 2023-08-14T06:07:00Z
+    webUrl: "https://www.geeky-gadgets.com/stability-ai-stable-chat-model-featured-at-defcon31/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Stability-AI-Stable-Chat-model-will-featured-at-DEFCON31.jpg"
+        width: 700
+        height: 498
+        isCached: true
   - title: "Japanese firm pilots AI-powered crisis management tool in PH"
     excerpt: "A Japanese startup is piloting an artificial intelligence-powered (AI) disaster management tool in the Philippines to help provide real-time information in times of emergency.The initiative is part of a public-private partnership promotion program between Spectee,"
     publishedDateTime: 2023-08-12T08:14:00Z

@@ -22,20 +22,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "UiPath Named a Leader in the 2023 Gartner Magic Quadrant for Robotic Process Automation"
-    excerpt: "UiPath Positioned Highest for Ability to Execute GUEST RESEARCH: UiPath (NYSE: PATH), a leading enterprise automation software company, today announced it has been positioned by Gartner, Inc. as a Leader in the 2023 Gartner® Magic Quadrant™ for Robotic Process Automation[1] research report."
-    publishedDateTime: 2023-08-09T13:36:00Z
-    webUrl: "https://itwire.com/guest-articles/guest-research/uipath-named-a-leader-in-the-2023-gartner-magic-quadrant-for-robotic-process-automation.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 16
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/eeb2039c8bd5c2136cd69da1d0534924_M.jpg"
-        width: 375
-        height: 215
-        isCached: true
   - title: "Alibaba Cloud Named A Challenger In Gartner® Magic Quadranttm For Cloud Ai Developer Services For Second Consecutive Year"
     excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, has been named a Challenger in this year's Gartner® Magic Quadr"
     publishedDateTime: 2023-08-10T21:23:00Z

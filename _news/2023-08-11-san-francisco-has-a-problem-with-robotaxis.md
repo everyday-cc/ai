@@ -45,6 +45,20 @@ related:
         width: 662
         height: 348
         isCached: true
+  - title: "Robotaxis Can Now Work the Streets of San Francisco 24/7"
+    excerpt: "Robotaxis can offer paid rides in San Francisco around the clock after Alphabet’s Waymo and GM’s Cruise got approval from the California Public Utilities Commission."
+    publishedDateTime: 2023-08-11T01:50:00Z
+    webUrl: "https://www.wired.com/story/robotaxis-cruise-waymo-san-francisco/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 54
+    images:
+      - url: "https://media.wired.com/photos/649cd5a8065114c6bc3082d4/191:100/w_1280,c_limit/California-Expanding-Robotaxis-Business-Alamy-2J9HRBA.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "San Francisco Balks at Expanding Driverless Car Services on City’s Roads"
     excerpt: "Local officials are worried that state regulators are too eager about a plan by the companies Cruise and Waymo to offer round-the-clock driverless taxi services."
     publishedDateTime: 2023-08-09T18:31:00Z

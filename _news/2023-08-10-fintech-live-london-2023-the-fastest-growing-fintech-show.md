@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/articles/fintech-live-london-2023-the-
 webUrl: "https://fintechmagazine.com/articles/fintech-live-london-2023-the-fastest-growing-fintech-show"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Fintech in Latin America 2023"
-    excerpt: "Many companies, countries and regions have forged ahead in leveraging data, cloud, blockchain and AI. One such region is Latin America, where according to Statista, there are 2,300 registered fintech companies,"
-    publishedDateTime: 2023-08-09T14:00:00Z
-    webUrl: "https://www.finextra.com/researcharticle/285/the-future-of-fintech-in-latin-america-2023"
+  - title: "Hong Kong Tech Firm, ASL, Accelerates Growth in Fintech Services with Finastra"
+    excerpt: "Automated Systems Holdings Limited (ASL), a global IT solutions and services provider, has strategically partnered with Finastra."
+    publishedDateTime: 2023-08-09T22:58:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211235-hong-kong-tech-firm-asl-accelerates-growth-in-fintech-services-with-finastra/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 20
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fo-latamhomepage.jpg"
-        width: 480
-        height: 270
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/05/hong-kong-dollar-coin-money.jpg"
+        width: 1354
+        height: 1206
         isCached: true
 
 secured: "gZVNzuA/lt8yYVqL9VYbxrTGOIgPf5Jx+L+BkwQ6KFbXEBFssdZo9I15jeRzkVaXkFsQEtlcHyuTw0GVqvz7yuqjBpIQg3kw4Cm8jxtG8eTiQsgULv18wC5dDkZGRDYg4g5QWwGfnzhvblQQOIwWHqWrOeSf/nfVRVN5x7uRxYzELfFNpcXDS3NjsUL1i1KUZ+SKsmMEOr+t0Xkr4Bu4KeQ01hDAw8LGLJoIJxO7ijmF9AC6yhhV1B+WHYJBq0NHXfDV9zYXUoTDu7/dUCeToxMzqLbAE5uNGd37YYpcKxTg9nhEQeBcqMuk9Ka4/7SfDAetQO+L3opqtLjGF6SeXDykcQ7U89Ey+0LQe0+odQPkce+UQOLb+ygrjwEvSpS4bzXzr0cyBlcBlmq3y6eGqj1YCQYm1GYYVpR7VYsQfuPgD6vdNSxJxOQJT+RDXi3ZheyM2Sm8hJTPIZA5IV0aPaoEZY1w+R/UXaqXPPmmnIPOoac+7QVs/f9dlL7Ttt/D3ekOcG/B6tzVRTuxaeU5Vg==;MJMMRs5vadkh0zZwox7Amw=="

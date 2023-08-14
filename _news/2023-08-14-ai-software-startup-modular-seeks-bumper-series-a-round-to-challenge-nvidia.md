@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta and AI software startup settle trade secrets suit"
+    excerpt: "Meta was previously accused of stealing source code via a former employee of tech startup | Facebook allegedly stole code for ‘groundbreaking’ AI algorithms | Parties settle with ‘confidential agreement’ ahead of jury trial."
+    publishedDateTime: 2023-08-10T13:45:00Z
+    webUrl: "https://www.worldipreview.com/news/meta-and-ai-software-startup-settle-trade-secrets-suit-24219"
+    type: article
+    provider:
+      name: World IP Review
+      domain: worldipreview.com
+    quality: 17
 
 secured: "uvAKNr00blWBFq8gZIJ1/7fBtOY4Yqrnvr6cIBbKsWN86XIn6b0C4xsNMxiLlSDHzfgC22u0nri52VjxvCOWXxmgjX6EprmZTHkOiV0hHUyOcqbCLgZtx3Xv45BY6zJ6SD006NBEbduvuu6isNnS/hmLxWZMe5dLYXpFUF40KaFKCXHJMAbIfS1ikId0n3PoReupAw4c1zj9WFQp8ydgrgdorDiSQBZ8nWOXlM+0U+SHrIcdLXp5Lzb5jApRio9cwRnpju6H7Enbq9ubHybyjpuSo4YQIN19QDuAwpxfL2WTITGJt5qva/KiA2olbdD0j4HmkvvQ1DIFe2S6y6zTXD2ePzVBcXHI1V8Lld/O7L4q2Z6BM666H7LabHrrIh9xDdQPd90so6K2tSolU1H+3mKj8I814KVmEJp57B3/nfVwuie4nafpz8pKCv0xCfXYEUFK6/xAJMAfBAj2Gxpy0b/Ly2Sg2gN1FCpv7OfsvpDGpYrF75SpXcMagtae9dbjXfwbNx7dyxFabH2QAGXwPw==;PLPJZRSKLe61JZS5t/5e3w=="
 ---

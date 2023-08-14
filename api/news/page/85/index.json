@@ -2,6 +2,92 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2023-06-19-5g-was-an-overhyped-technology-bust-lets-learn-our-lesson.md",
+      "title": "5G was an overhyped technology bust. Let’s learn our lesson.",
+      "excerpt": "One lesson is that we can’t trust companies to be honest about how today’s buzzy technologies, including artificial intelligence, driverless cars and the metaverse, will or won’t change our ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2023/06/13/5g-didnt-matter/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2023/06/13/5g-didnt-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DT7S27G5CZHJNC6YJHWDVSVEXE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-from-video-games-to-ai-dominance-with-chatgpt-how-nvidia-joined-the-magic-1-trillion-club.md",
+      "title": "From video games to AI dominance with ChatGPT – How Nvidia joined the magic $1 trillion club",
+      "excerpt": "Discover how Nvidia, once a video game chipmaker, has emerged as an AI pioneer, reshaping computing with cutting-edge technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biznews.com/global-investing/2023/06/19/nvidia-1-trillion-club",
+      "originalUrl": "https://www.biznews.com/global-investing/2023/06/19/nvidia-1-trillion-club",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.biznews.com/wp-content/uploads/2019/06/alec-hogg-profile-squared.jpg",
+          "width": 450,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "biznews.com",
+        "domain": "biznews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-19-reshoring-the-risks-of-swinging-the-pendulum-too-far.md",
       "title": "Reshoring: The risks of swinging the pendulum too far",
       "excerpt": "From the decades before the turn of the century until the global pandemic, great economic growth spread across the world, driving historic demand in commodities and consumer goods. But this economic growth, coupled with stringent labor laws, drove up labor costs. By sourcing materials and labor from",
@@ -1110,100 +1196,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-18-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services.md",
-      "title": "Fintech Paro Raises $25M via Series C to Build Enterprise Platform for Finance, Accounting Services",
-      "excerpt": "Paro, a Chicago-based startup disrupting the way companies access on-demand finance and accounting expertise, raises $25 million via Series C.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2014/04/Chicago-City-Skyscraper.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/amp/",
-      "publishedDateTime": "2023-06-18T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-18-how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise.md",
-      "title": "How to navigate the AI jungle with pragmatic steps for enterprise",
-      "excerpt": "Why enterprises that perceive AI as a dynamic field ripe for exploration, discovery and adaptation will find their ambitions taking flight.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/annevb_bright_futuristic_lines_navigating_a_path_through_a_jung_bee8d3fd-7914-4c77-b606-8a1993b96b01.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

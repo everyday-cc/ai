@@ -24,38 +24,24 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Be A Force For Good In Achieving Fair Lending"
-    excerpt: "With advances in technology, specifically artificial intelligence, we can now remove the opacity in the financial approval process."
-    publishedDateTime: 2023-08-09T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/how-ai-can-be-a-force-for-good-in-achieving-fair-lending/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/how-ai-can-be-a-force-for-good-in-achieving-fair-lending/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/how-ai-can-be-a-force-for-good-in-achieving-fair-lending/amp/"
+  - title: "DeepMind could give developers a lift with AI coding tool"
+    excerpt: "It's completely free and we guarantee you'll learn something new every day. Google DeepMind may be adding to the company's AI-coding patent portfolio. Google's AI division filed a patent ..."
+    publishedDateTime: 2023-08-10T16:56:00Z
+    webUrl: "https://www.nasdaq.com/articles/deepmind-could-give-developers-a-lift-with-ai-coding-tool"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63320f08d9832c486944b11e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI can be a force for good or ill in society, so everyone must shape it, not just the ‘tech guys’"
-    excerpt: "Although designers do have a lot of power, AI is just a tool conceived to benefit us. Communities must make sure that happens, says author Afua Bruce"
-    publishedDateTime: 2023-08-11T07:00:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/aug/11/ai-tech-designers-tool-communities"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/11/ai-tech-designers-tool-communities"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/11/ai-tech-designers-tool-communities"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+  - title: "Google DeepMind Alumni Shine As Startup Founders"
+    excerpt: "A large number of Google DeepMind employees have moved on to start their own businesses, with the majority of them operating in the AI space"
+    publishedDateTime: 2023-08-13T11:36:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-alumni-shine-as-startup-founders/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
-    images:
-      - url: "https://i.guim.co.uk/img/media/b1d09319dd1257ea90c8d7f5e63bb2a36f627284/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=43ee72c4811f380bb7e79c6af21a8bac"
-        width: 620
-        height: 372
-        isCached: true
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "L1uHTcN+gntx0NbrsBUczkh3CMQJuLjHKVUtrqM9O4mUhNfKWjqG1aPq8/OosrBo1+tKcvWjNabXsOJc+hEVY2W9nOQreIuaNMNuY+wD11z+yk4U3c1+NIbH3ZiqzGygsqPwMcKOWv1I6vLbYanbLq2WI09irBgObtnsS64DA74emfl7+pdOMiElrdjfxYY1ip+U/rYWXkBJFnH/wxRTVmbwe6GJvXBmONqN/8DZ+S0bUEHCKSMAyKihWRhHKXg83pfBE19HcS68Pf5ZSg0xGR/dt6RNIInjQpbJl2yAlgkzqROHlMDiMG9HOfMWfGLmxdlNG72Y4LU/FkKgjRqvfeWBZOo4gyRSl8pTZHAIBizxH9GehIpwQvQdnKV+BXMq+TB58rub5C1e31Yh+xFOBakQtmuKo8LV5ViSwcKUqxrf8h7mjagRb3sARxwc75clCEITOChpwnq+ojlHBt8na+U71yf1iDyUhrKZnFDWm3wq7hPrc+znA60fQbgI9taFlkOL9OjIzfY1QrytRz/QfQ==;LTWF+0G7Ck1e2HMB4GVUZQ=="
 ---

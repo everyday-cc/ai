@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/got-it-ai-launches-agent-copilot-to-giv
 webUrl: "https://venturebeat.com/ai/got-it-ai-launches-agent-copilot-to-give-ai-assistance-to-customer-service-and-sales/"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom says it will not use audio, video or chat content to train AI without customer consent"
-    excerpt: "Zoom has updated its terms of service to clarify it will not use customer data to train its AI unless a person consents."
-    publishedDateTime: 2023-08-09T14:24:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/zoom-says-it-will-not-use-audio-video-or-chat-content-to-train-ai-without-customer-consent-1.6511817"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/8/9/1_6511817.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/8/9/1_6511817.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 49
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/8/8/1_5407257.jpg"
-        width: 1020
-        height: 573
-        isCached: true
   - title: "SoundHound AI Launches Fully Automated Smart Answering Service That Lets Any Business Handle Customer Service Calls With Voice AI"
     excerpt: "SoundHound AI, Inc. (Nasdaq: SOUN) (“SoundHound”), a global leader in voice artificial intelligence, today announced that its fully-automated Smart An"
     publishedDateTime: 2023-08-10T13:00:00Z

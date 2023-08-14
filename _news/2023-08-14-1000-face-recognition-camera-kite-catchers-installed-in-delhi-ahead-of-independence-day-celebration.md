@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "I-Day: 10,000 cops, facial recognition cameras at Red Fort"
+    excerpt: "With Delhi gearing up to celebrate India's 77th Independence Day, foolproof security arrangements have been made all across Delhi and especially at the Red Fort from where PM Modi will address the nat"
+    publishedDateTime: 2023-08-14T07:34:00Z
+    webUrl: "https://www.newsbytesapp.com/news/india/i-day-10-000-cops-facial-recognition-cameras-at-red-fort/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 39
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l52920230814121829.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "10,000 cops, facial recognition cameras part of Independence Day security at Red Fort"
     excerpt: "A 1,000 facial recognition cameras, anti-drone systems, and over 10,000 police personnel keeping vigil are part of the security measures in place at the Mughal-era Red Fort here, from where Prime Minister Narendra Modi will address the nation on August 15."
     publishedDateTime: 2023-08-13T15:52:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unmasking the Social Impact of Robotics: Implications for Society and Humanity"
-    excerpt: "Robots have always fascinated us, sparking visions of futuristic worlds where they effortlessly interact with humans and revolutionize industries. As robotics advances, it’s time to uncover their social impact."
-    publishedDateTime: 2023-08-09T13:14:00Z
-    webUrl: "https://techbullion.com/unmasking-the-social-impact-of-robotics-implications-for-society-and-humanity/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-09T141030.513.png"
-        width: 800
-        height: 400
-        isCached: true
   - title: "A novel motion-capture system with robotic marker that could enhance human-robot interactions"
     excerpt: "Motion capture (mocap) systems, technologies that can detect and record the movements of humans, animals and objects, are widely used in various settings. For instance, they have been used to shoot movies,"
     publishedDateTime: 2023-08-10T13:40:00Z

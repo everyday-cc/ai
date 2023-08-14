@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-10-how-ai-is-transforming-business-outcomes-across-industries-and-sectors.md",
+      "title": "How AI Is transforming business outcomes across industries and sectors",
+      "excerpt": "Why companies that embrace AI will find new and productive ways to integrate it with their existing workforces, products and operations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ai-is-transforming-business-outcomes-across-industries-and-sectors/",
+      "originalUrl": "https://venturebeat.com/ai/how-ai-is-transforming-business-outcomes-across-industries-and-sectors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1347947373.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-10T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-microsoft-is-letting-companies-build-their-own-ai-copilots.md",
+      "title": "Microsoft is letting companies build their own AI 'copilots'",
+      "excerpt": "Microsoft (MSFT), on Tuesday, announced a new service that will allow enterprises to build their own AI-powered apps. Unveiled at Microsoft's annual Build conference, the offering, known as Azure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/microsoft-giving-letting-companies-build-150003775.html",
+      "originalUrl": "https://www.aol.com/finance/microsoft-giving-letting-companies-build-150003775.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/7FwzaEN0YvUK_Xbntj0JqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/e34f91bf8aa03dff3cacc8549b0fe3ad",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-cognitive-computing-market-revenue-is-expected-to-increase-by-usd-2395-billion-by-2032-says-acumen-research-and-consulting.md",
       "title": "Cognitive Computing Market revenue is expected to increase by USD 239.5 Billion by 2032 Says Acumen Research and Consulting",
       "excerpt": "Key Companies Profiled IBM Corporation, Google Inc., Microsoft Corporation, Accenture PLC, Amazon Web Services Inc., Palantir Technologies Inc., Hewlett Packard ...",
@@ -1368,92 +1464,6 @@
         "AI",
         "Microsoft AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-microsoft-azure-openai-service-generally-available-chatgpt-api-voicebotai.md",
-      "title": "Microsoft Azure OpenAI Service Generally Available, ChatGPT API … – Voicebot.ai",
-      "excerpt": "Microsoft has made its Azure OpenAI Service generally available, bringing the enterprise generative AI tools out of its invite-only program. Now any customers",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/525616/microsoft-azure-openai-service-generally-available-chatgpt-api-voicebot-ai/",
-      "originalUrl": "https://www.inferse.com/525616/microsoft-azure-openai-service-generally-available-chatgpt-api-voicebot-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inferse.com/wp-content/uploads/2023/05/wp-header-logo-1220.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-29T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-5-everyday-examples-of-cognitive-dissonance.md",
-      "title": "5 Everyday Examples of Cognitive Dissonance",
-      "excerpt": "Cognitive dissonance happens when you hold two conflicting thoughts in your mind at the same time — like loving both hamburgers and cows. Cognitive dissonance is a theory in social psychology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health/cognitive-dissonance-examples",
-      "originalUrl": "https://www.healthline.com/health/cognitive-dissonance-examples",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.healthline.com/wp-content/uploads/2018/11/Alcohol_Drink_Wine_Female-1200x628-Facebook.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

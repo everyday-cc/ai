@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/fintechs-turn-to-ai-and-cloud-as-steadfas
 webUrl: "https://www.ibm.com/blog/fintechs-turn-to-ai-and-cloud-as-steadfast-forces-for-innovation/"
 type: article
 quality: 99
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/08/12/AP23221734717325_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 400
-        isCached: true
-  - title: "The Rise, And Rise, Of Fintech Fraud."
-    excerpt: "The Rise, And Rise, Of Fintech Fraud. Legal News and Analysis - Asia Pacific, China, Hong Kong, India, Singapore, United Kingdom - Cybersecurity, Telecommunications, Media & Technology -"
-    publishedDateTime: 2023-08-09T14:04:00Z
-    webUrl: "https://conventuslaw.com/report/the-rise-and-rise-of-fintech-fraud/"
-    type: article
-    provider:
-      name: Conventus Law
-      domain: conventuslaw.com
-    quality: 24
-    images:
-      - url: "https://conventuslaw.com/wp-content/uploads/2022/03/Untitled-design-36.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "TechSee Brings Computer Vision AI and Augmented Reality Service Automation to Amazon Connect"
     excerpt: "TechSee, Brings AI Visual Service Automation to AWS Omnichannel Customer Experience NEW YORK, Aug. /PRNewswire/ -- TechSee, a global leader in Visual Service Automation, has announced today it is work"

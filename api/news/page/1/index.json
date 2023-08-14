@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-14-ai-facial-recognition-led-to-8-month-pregnant-womans-wrongful-carjacking-arrest-in-front-of-kids-lawsuit.md",
+      "title": "AI facial recognition led to 8-month pregnant woman's wrongful carjacking arrest in front of kids: lawsuit",
+      "excerpt": "An eight-month pregnant woman, Porcha Woodruff, was arrested by Detroit police for a carjacking that she did not commit based on faulty AI-powered facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit",
+      "originalUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/07/340/340/Chris-Eberhart-Headshot-1.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit.amp",
+      "publishedDateTime": "2023-08-13T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-13-robots-ai-are-here-to-stay-in-restaurant-industry-one-business-owner-says-despite-customer-pushback.md",
       "title": "Robots, AI are here to stay in restaurant industry, one business owner says, despite customer pushback",
       "excerpt": "One restaurant owner whose robot server became the subject of small town scorn says AI is here to stay. New small business survey results suggest she's correct.",
@@ -113,7 +165,7 @@
       "originalUrl": "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 240,
+      "heat": 230,
       "tags": null,
       "images": [
         {
@@ -260,7 +312,7 @@
       "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/08/133_356939.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -506,7 +558,7 @@
       "originalUrl": "https://www.medindia.net/news/unraveling-parkinsons-diversity-using-machine-learning-213069-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -886,7 +938,7 @@
       "originalUrl": "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -1163,58 +1215,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-how-robot-use-in-manufacturing-can-impact-environmental-sustainability.md",
-      "title": "How Robot Use In Manufacturing Can Impact Environmental Sustainability",
-      "excerpt": "As robots play an increasingly vital role in manufacturing, it is essential to consider their environmental impact.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-robot-use-in-manufacturing-can-impact-environmental-sustainability/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-robot-use-in-manufacturing-can-impact-environmental-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d4ee5ae67956682c0eda01/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-robot-use-in-manufacturing-can-impact-environmental-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/11/how-robot-use-in-manufacturing-can-impact-environmental-sustainability/amp/",
-      "publishedDateTime": "2023-08-11T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

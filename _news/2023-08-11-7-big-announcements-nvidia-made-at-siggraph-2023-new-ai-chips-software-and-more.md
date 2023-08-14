@@ -44,6 +44,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Nvidia announces updated GH200 Grace Hopper GPU with HBM3e memory for generative AI workloads"
+    excerpt: "Nvidia has announced an updated version of its GH200 'superchip,' which will be the first GPU in the world to include HBM3e memory."
+    publishedDateTime: 2023-08-09T15:26:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-updated-gh200-grace-hopper-gpu-with-hbm3e-memory-for-generative-ai-workloads/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 43
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/GH200_HBM3e.2e16d0ba.fill-1200x630.png"
+        width: 1124
+        height: 592
+        isCached: true
   - title: "AI powerhouse Nvidia releases toolkit that allows developers to quickly create, test generative models"
     excerpt: "Nvidia on Tuesday announced the AI Workbench, a new toolkit that will helps developers to more quickly create, test, and customize generative AI models."
     publishedDateTime: 2023-08-10T01:48:00Z
@@ -59,6 +73,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4a0ea36e-3f4d-49e4-b13d-11aaad667f80/cb5c08c3-1d34-43c3-9f86-c589b7c36c77/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "AMD's new professional graphics GPU, the Radeon PRO W7600, shows its face at Siggraph 2023"
+    excerpt: "AMD showcased its new Radeon PRO W7600 GPU for professionals on the expo floor at Siggraph 2023 and we took some happy snaps of it."
+    publishedDateTime: 2023-08-14T06:54:00Z
+    webUrl: "https://www.tweaktown.com/news/92850/amds-new-professional-graphics-gpu-the-radeon-pro-w7600-shows-its-face-at-siggraph-2023/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 29
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92850_888_amd-w7600-hands-on_full.jpg"
+        width: 1500
+        height: 1050
         isCached: true
 
 secured: "z7OfQbsER9hLh1uvNWpZr7JC8Jh02zHNg5kflzgkj0qa9sffP7QZ0yXLsjmud/hdL+YPSQYGRg9mHqDeiRbzLTAfLD7NSLT67zgSuZ/oHRtDNIW1iK9EF3p3fQUUvijp73zco6/9kZT9bSWCgHkEKC+Vx30K/oIWxiQ7iaCfBbiX5QUnGYN7YXRMr+ybiQbDpCdfksuy0/6UIhUSSiTpOr0UTf4RE9lOcYhgD3wTZy2fySFa/Iu+sE13DBNRqucC0NyFun7YFzs5slroaDp71JVG6GSrFMALCCFW/TAIvpyJmUvEgY6yQ6D7dJcdpvFEIT7ffD7d4LDBmqmPnypc30MXRnAr/e2N5fG6tjE1Eky+Sms17HaI/qdk5ZYb1TL1z6E6U/3P6Lj0DMF2YJ5nUGPgQAk9d+AstZmAao1CZ1N+oUhjdfNl0dZ9WoJpQmna99iiUEkt+9b6WNaX+zyS8FZgOv/XlQB4ZdGI6M3iu2aNltZEL3tBV102e//jR3zi6V76Q/2GMMZdeSMKhnGiqA==;c/TrGKQxC/6uATcAbKaORQ=="

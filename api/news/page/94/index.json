@@ -2,6 +2,100 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2023-06-14-paul-mccartney-reveals-ai-was-used-to-create-the-last-beatles-record.md",
+      "title": "Paul McCartney reveals AI was used to create the 'last Beatles record'",
+      "excerpt": "McCartney revealed that what he called \"the last Beatles record\" is on its way, adding that it was created with the help of AI. \"It was a demo that John had that we worked on,\" he",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=upstract.com",
+      "originalUrl": "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/GMA/mccartney-1-ap-er-230613_1686693220455_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489",
+      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489",
+      "publishedDateTime": "2023-06-13T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-ai-and-coding-how-these-tech-companies-are-using-generative-ai-for-programming.md",
+      "title": "AI and coding: How these tech companies are using generative AI for programming",
+      "excerpt": "Diamond Bishop, CEO and co-founder at Augmend, a Seattle collaboration software startup Diamond Bishop, CEO of Augmend. (Augmend Photo) “AI is making it so small startups like ours can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/ai-and-coding-how-seattle-tech-companies-are-using-generative-ai-for-programming/",
+      "originalUrl": "https://www.geekwire.com/2023/ai-and-coding-how-seattle-tech-companies-are-using-generative-ai-for-programming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/06/3743d9d0-77a9-4f15-8e09-b755373102f0.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise.md",
       "title": "AI Everywhere: Salesforce Unveils Its Vision Of The AI-First Enterprise",
       "excerpt": "All of this is part of a massive vision Salesforce is unveiling that deeply integrates generative AI into almost everything a company does, from sales to service to",
@@ -1164,100 +1258,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
-      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ...",
-      "sourceUrl": null,
-      "webUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "originalUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "publishedDateTime": "2023-06-13T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7",
-        "domain": "abc7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-ai-startup-synthesia-gains-unicorn-status-after-nvidia-backed-fundraise.md",
-      "title": "AI startup Synthesia gains unicorn status after Nvidia-backed fundraise",
-      "excerpt": "June 13 (Reuters) - Synthesia, a UK-based artificial intelligence (AI) startup, said on Tuesday it has raised about $90 million at a valuation of $1 billion from a funding round led by venture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-startup-synthesia-gains-unicorn-status-after-nvidia-backed-fundraise-2023-06-13/",
-      "originalUrl": "https://www.reuters.com/technology/ai-startup-synthesia-gains-unicorn-status-after-nvidia-backed-fundraise-2023-06-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/FSPUvb7djINBafN665jGm5-QZEM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TIDCQXE4ZLHTGW3OELMLU5JIU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

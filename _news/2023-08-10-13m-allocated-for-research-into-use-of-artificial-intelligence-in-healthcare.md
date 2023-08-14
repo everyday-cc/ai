@@ -49,20 +49,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Aptos Labs taps into Microsoft’s AI infrastructure to accelerate Web3 adoption"
-    excerpt: "Aptos Labs and Microsoft have announced a partnership that could see developers leverage Microsoft’s AI tech to boost Web3 adoption."
-    publishedDateTime: 2023-08-09T13:41:00Z
-    webUrl: "https://coinjournal.net/news/aptos-labs-taps-into-microsofts-ai-infrastructure-to-accelerate-web3-adoption/"
-    type: article
-    provider:
-      name: Internet of People
-      domain: coinjournal.net
-    quality: 50
-    images:
-      - url: "https://coinjournal.net/wp-content/uploads/1970/01/1668682922828-56020534-38b6-4f96-8028-c48dac595657.jpg"
-        width: 500
-        height: 282
-        isCached: true
   - title: "£13m allocated for research into use of artificial intelligence in healthcare"
     excerpt: "he Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare. The move, announced by Technology Secretary ..."
     publishedDateTime: 2023-08-11T01:57:00Z

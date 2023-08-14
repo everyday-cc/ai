@@ -32,15 +32,6 @@ related:
         width: 750
         height: 600
         isCached: true
-  - title: "Debunking observability myths – Part 3: Why observability works in every environment, not just large-scale systems"
-    excerpt: "In this article, we'll tackle the common myth that observability is only relevant and beneficial for large-scale systems or complex architectures. \nThe post Debunking observability myths – Part 3: Why observability works in every environment, not just large-scale systems appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-09T13:11:02Z
-    webUrl: "https://www.ibm.com/blog/debunking-observability-myths-part-3-why-observability-works-in-every-environment-not-just-large-scale-systems/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 60
   - title: "Middleware raises $6.5M in seed funding to transform cloud observability with AI"
     excerpt: "Middleware, a startup that uses artificial intelligence (AI) to simplify and enhance cloud observability, announced today that it has raised $6.5 million in a seed round led by 8VC."
     publishedDateTime: 2023-08-10T19:00:00Z

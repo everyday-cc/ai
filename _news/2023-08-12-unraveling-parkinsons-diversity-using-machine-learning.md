@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/unraveling-parkinsons-diversity-us
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/unraveling-parkinsons-diversity-using-machine-learning-213069-1.htm"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.theengineer.co.uk/media/yxdbmsyr/ffs.jpg?width=1200&height=630&mode=crop"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Review examines visual disturbances among Parkinson’s disease patients"
-    excerpt: "In a recent review published in Brain Sciences, researchers reviewed existing data on visual impairments among Parkinson’s disease (PD) patients."
-    publishedDateTime: 2023-08-09T13:28:00Z
-    webUrl: "https://www.news-medical.net/news/20230809/Review-examines-visual-disturbances-among-Parkinsone28099s-disease-patients.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 24
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_755865_1691583171419134.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "fLzW0rtbZhAF6F2IxFge82E8Cpa4LKeB/+d9UgHiIslqErZ8EgkH1SLQF/CObvoH8ZPfrwP9vsmGUyjcBoLf1pKUMJ3x4/sMFYuv5GETS5FYMZWnyLMty+V4SBKgg80Er5NjTCiGObL2GDnMOq5aFxmz60rbWJNdW+0WL8WiUzpT7lSfcMgYDY0VNnqKdZTHL4BSI28F06i1zZsVioQGZ0YT6z4DnNrIrvnBAJwJWuVkhr64KxWc+VQiai8cJ0k1N7oYm/T8OL5uDZ8eZ0vQD/N7PSZtqDfuCTqPaeSAjqYwMyoJMceE6/aDf3zuU7rBQDiy005kyO5D3wmsgEm8O7kg9uqWv2zZ73+b24Ec1VA=;75QqDbmyGuKlGDg+vvQg9w=="

@@ -38,6 +38,20 @@ related:
         width: 980
         height: 648
         isCached: true
+  - title: "South Korea telco giant to invest $100m in AI start-up Anthropic"
+    excerpt: "Multiple reports suggest SK Telecom is set to build new multilingual models and an AI platform with Anthropic, the creator of Claude."
+    publishedDateTime: 2023-08-14T07:38:00Z
+    webUrl: "https://www.siliconrepublic.com/comms/sk-telecom-anthropic-investment-stake-funding-ai-platform"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/a-7.jpeg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Anthropic cracks open the black box to see how AI comes up with the stuff it says"
     excerpt: "A recently published research paper from scientists at Anthropic demonstrates a method for determining how much “influence” individual instances of training data have on the generation of outputs by large language models."
     publishedDateTime: 2023-08-10T21:00:00Z

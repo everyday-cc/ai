@@ -115,20 +115,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "The Rise, And Rise, Of Fintech Fraud."
-    excerpt: "The Rise, And Rise, Of Fintech Fraud. Legal News and Analysis - Asia Pacific, China, Hong Kong, India, Singapore, United Kingdom - Cybersecurity, Telecommunications, Media & Technology -"
-    publishedDateTime: 2023-08-09T14:04:00Z
-    webUrl: "https://conventuslaw.com/report/the-rise-and-rise-of-fintech-fraud/"
-    type: article
-    provider:
-      name: Conventus Law
-      domain: conventuslaw.com
-    quality: 24
-    images:
-      - url: "https://conventuslaw.com/wp-content/uploads/2022/03/Untitled-design-36.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "TechSee Brings Computer Vision AI and Augmented Reality Service Automation to Amazon Connect"
     excerpt: "TechSee, Brings AI Visual Service Automation to AWS Omnichannel Customer Experience NEW YORK, Aug. /PRNewswire/ -- TechSee, a global leader in Visual Service Automation, has announced today it is work"
     publishedDateTime: 2023-08-10T13:29:00Z

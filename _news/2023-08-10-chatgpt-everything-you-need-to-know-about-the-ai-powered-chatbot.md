@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/186bba5322f625df06f9b5b4d950935527776302/2023/06/29/d003949e-24fd-4960-a177-712e43e0d249/sale-320578-article-image.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The 5 best AI books recommended by ChatGPT"
+    excerpt: "It is recommended for beginners as well as advanced AI enthusiasts. The book covers the latest research and developments in AI. Universities and institutions around the world use this book as a textbook."
+    publishedDateTime: 2023-08-14T07:36:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/08/14/1600x900/pexels-matheus-bertelli-16094043_1687844354160_1691998377504.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Learn to create a ChatGPT AI bot with this course bundle"
     excerpt: "You may have experimented with ChatGPT, and found it to be a useful tool on its own for work, school, or personal projects. But if you take the opportunity to study even basic coding, you can expand what you can do with AI simply by customizing your own chatbot ."

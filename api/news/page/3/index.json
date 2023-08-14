@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-11-prototype-brain-like-chip-promises-greener-ai-says-tech-giant.md",
+      "title": "Prototype 'Brain-like' chip promises greener AI, says tech giant",
+      "excerpt": "A prototype \"brain-like\" chip could make artificial intelligence (AI) more energy efficient, its developer, technology giant IBM, has said. Concerns have been raised about emissions associated with warehouses full of computers powering AI systems. IBM said its prototype could lead to more efficient, less battery draining AI chips for smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-66465230",
+      "originalUrl": "https://www.bbc.com/news/technology-66465230",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-new-study-shows-how-ai-can-help-detect-breast-cancer.md",
       "title": "New Study Shows How AI Can Help Detect Breast Cancer",
       "excerpt": "The study found that AI-supported screening found 20% more cancers as compared to the standard review by physicians who did not use AI. AI-supported screening did not increase the number of false positives, meaning it did incorrectly diagnose mammograms as abnormal.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -164,7 +207,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/deepmind-could-give-developers-a-lift-with-ai-coding-tool",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -250,7 +293,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -302,7 +345,7 @@
       "originalUrl": "https://www.zdnet.com/article/tiktok-creators-will-need-to-disclose-ai-generated-content-or-else/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -543,7 +586,7 @@
       "originalUrl": "https://venturebeat.com/ai/middleware-raises-6-5m-to-simplify-cloud-monitoring-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -697,7 +740,7 @@
       "originalUrl": "https://www.ibm.com/blog/fintechs-turn-to-ai-and-cloud-as-steadfast-forces-for-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1178,57 +1221,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-google-brings-ai-to-cloud-hosted-development-environments.md",
-      "title": "Google brings AI to cloud-hosted development environments",
-      "excerpt": "Project IDX combines Codey-powered AI assistance and templates for popular JavaScript frameworks in a cloud-hosted Linux VM. Google said support for Python, Go, and other languages is coming soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.html",
-      "originalUrl": "https://www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/28/18/hand-showing-laptop-computer-with-cloud-network-computer-connects-to-internet-server-service.jpgs1024x1024wisk20c3gwxkwlddsf00-lunwxyq6ke23tl1t853fplvz67cvm-100944020-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.amp.html",
-      "publishedDateTime": "2023-08-10T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

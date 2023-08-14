@@ -116,20 +116,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "The Rise, And Rise, Of Fintech Fraud."
-    excerpt: "The Rise, And Rise, Of Fintech Fraud. Legal News and Analysis - Asia Pacific, China, Hong Kong, India, Singapore, United Kingdom - Cybersecurity, Telecommunications, Media & Technology -"
-    publishedDateTime: 2023-08-09T14:04:00Z
-    webUrl: "https://conventuslaw.com/report/the-rise-and-rise-of-fintech-fraud/"
-    type: article
-    provider:
-      name: Conventus Law
-      domain: conventuslaw.com
-    quality: 24
-    images:
-      - url: "https://conventuslaw.com/wp-content/uploads/2022/03/Untitled-design-36.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Fintechs experiment with generative AI, but development is slow going"
     excerpt: "The firms are increasingly seeking to integrate generative artificial intelligence into their products, and banks are potentially interested customers. But such efforts are costly, the risks are high,"
     publishedDateTime: 2023-08-11T18:48:00Z

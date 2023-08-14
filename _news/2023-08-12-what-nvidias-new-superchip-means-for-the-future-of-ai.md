@@ -61,17 +61,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "NVIDIA unveils new AI superchip and adds generative AI to Omniverse"
-    excerpt: "NVIDIA founder and CEO, Jensen Huang, announced an updated GH200 Grace Hopper Superchip, the NVIDIA AI Workbench, and an updated NVIDIA Omniverse with generative AI at a wide-ranging SIGGRAPH keynote."
-    publishedDateTime: 2023-08-09T14:04:00Z
-    webUrl: "https://www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show"
-    ampWebUrl: "https://www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show?hs_amp=true"
-    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show?hs_amp=true"
-    type: article
-    provider:
-      name: redsharknews.com
-      domain: redsharknews.com
-    quality: 54
 
 secured: "20X9I4UNZWK4YLJouAj6sZsRP+0YE2n9UeeoRm0+pYEJbR/CLxDj4Wsm6CUtmIPloCICUH8XHY/04iUNGPta4p4KdgBp29UTSh14wCFA//yZXHHHnC14de2kKsVv8lI0R/Q5gGEWYl4YRR8H4u+/boKsXy3R/rZmOHpsCZV15D5bKEQO3nvyoRkbtEO4uIm/I26KFBuH2myQBIMkx/cBN2qxHekhXypJr8hEJWZ8YWAvzDH43nHFgD/1JAQPxzhN0tsZgpfbaWCUx8kD4NcR/u3ZeZMTyi/4ulIRkcqbrgUkIPXsonZsWFT00hYf0WQKmFvv8hw9t8X0VOZA9BHGWkLlGCcHNB+ZXVNufMuPS6OyAaqI2lNdLWo1/OTMAahkDXUWED6pSWNCRQLo+01zLX37qFmvyMEGXQ1X8kLYGam3QBqmfb4K+1YeXknh/vrAeHbVVUFm2jbO7bUwRW+Dk1WTN3hnBCKpQ0CpgFzRSzMcF/K7NhEK+Ga6Lk2qyRCsXvwW0b1WNutayDoMm6xONA==;fgK0OJlbayuiR2oHNaq5DA=="
 ---

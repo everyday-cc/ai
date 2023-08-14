@@ -2,6 +2,93 @@
   "page": 199,
   "value": [
     {
+      "path": "_news/2023-04-05-artificial-intelligence-in-accounting-market-business-overview-2023-and-forecast-to-2030-microsoft-aws-xero-intuit.md",
+      "title": "Artificial Intelligence in Accounting Market Business Overview 2023, and Forecast to 2030 | Microsoft, AWS, Xero, Intuit",
+      "excerpt": "Artificial Intelligence in Accounting Market is growing at a High CAGR during the forecast period 2023-2030. The increasing interest of the individuals in this industry is the major reason for the expansion of this market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-business-overview-2023-and-forecast-to-2030-microsoft-aws-xero-intuit-2023-04-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-business-overview-2023-and-forecast-to-2030-microsoft-aws-xero-intuit-2023-04-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-ai-could-have-a-7-trillion-impact-in-10-years-here-are-4-top-stocks-to-buy-now.md",
+      "title": "AI Could Have a $7 Trillion Impact in 10 Years: Here Are 4 Top Stocks to Buy Now",
+      "excerpt": "It estimates that AI could drive a 7% increase in annual global gross domestic product (GDP) over the next 10 years. This translates to an economic impact of close to $7 trillion. As you might expect,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-could-have-a-$7-trillion-impact-in-10-years:-here-are-4-top-stocks-to-buy-now",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-could-have-a-$7-trillion-impact-in-10-years:-here-are-4-top-stocks-to-buy-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-meta-to-debut-ad-creating-generative-ai-this-year-cto-says.md",
       "title": "Meta to debut ad-creating generative AI this year, CTO says",
       "excerpt": "TOKYO -- Facebook owner Meta intends to commercialize ... The company, which began full-scale AI research in 2013, stands out along with Google in the number of studies published.",
@@ -871,83 +958,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-ai-in-computer-vision-market-expected-to-reach-457-billion-by-2028.md",
-      "title": "AI in Computer Vision Market Expected to Reach $45.7 Billion by 2028",
-      "excerpt": "By 2026, the demand for computer vision systems in developing applications, quality inspection and automation needs, and government measures to assist industrial automation and AI",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/04/9788354.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/04/9788354.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-students-use-machine-learning-in-lesson-designed-to-reveal-issues-promise-of-ai.md",
-      "title": "Students use machine learning in lesson designed to reveal issues, promise of AI",
-      "excerpt": "In a new study, North Carolina State University researchers had 28 high school students create their own machine learning artificial intelligence (AI) models for analyzing data. The goals of the project were to help students explore the challenges,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-04-students-machine-lesson-reveal-issues.html",
-      "originalUrl": "https://phys.org/news/2023-04-students-machine-lesson-reveal-issues.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg",
-          "width": 1920,
-          "height": 875,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-04-students-machine-lesson-reveal-issues.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-students-machine-lesson-reveal-issues.amp",
-      "publishedDateTime": "2023-04-04T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/"
 webUrl: "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/"
 type: article
 quality: 88
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -33,17 +33,17 @@ images:
 related:
   - title: "IBM to make Meta’s Llama 2 available on Watson X"
     excerpt: "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,"
-    publishedDateTime: 2023-08-09T22:41:00Z
-    webUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446"
-    ampWebUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446?amp=1"
+    publishedDateTime: 2023-08-09T18:45:00Z
+    webUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792"
+    ampWebUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
+      name: IT Business
+      domain: itbusiness.ca
     quality: 74
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
         width: 1920
         height: 720
         isCached: true
@@ -62,22 +62,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2023/05/artificial-intelligence-5-5-23-e1683284669461.jpg"
         width: 948
         height: 532
-        isCached: true
-  - title: "IBM to host Meta's Llama 2 in Watsonx platform"
-    excerpt: "The International Business Machines Corporation (IBM) announced on Wednesday it plans to make Meta Platforms' large language model Llama 2-chat available within its Watsonx.ai platform. \"IBM"
-    publishedDateTime: 2023-08-09T14:12:00Z
-    webUrl: "https://www.teletrader.com/shbm-to-host-meta-s-llama-2-in-watsonx-platform/news/details/60472097"
-    ampWebUrl: "https://www.teletrader.com/amp/news/details/60472097"
-    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/60472097"
-    type: article
-    provider:
-      name: teletrader.com
-      domain: teletrader.com
-    quality: 59
-    images:
-      - url: "https://cdn.ttweb.net/News/images/299846.jpg?preset=w800_q70"
-        width: 800
-        height: 450
         isCached: true
   - title: "IBM to Make Llama 2 Available Within Its Watsonx AI and Data Platform"
     excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to host Meta's Llama"

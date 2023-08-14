@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02526-4/d41586-023-02526-4_25899286.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Positive results for AI-assisted breast cancer detection, says Swedish trial"
+    excerpt: "Share Copyright 2023 The Associated Press. All Rights Reserved."
+    publishedDateTime: 2023-08-14T07:13:00Z
+    webUrl: "https://apnews.com/video/breast-cancer-denmark-sweden-ilse-vejborg-kristina-lang-6893ce7b6b9a4eecb138ff8541651236"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://dims.apnews.com/dims4/default/77f521f/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2Fdd%2F186e72c220c2346b07c0361a80a0%2Fswe-ai-breast-cancer-20230814cr-1920x1080.jpg"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "wfEdjyTdPduqvZ5g75NZTdW6/NKw3FlZpxEh1TAOFT6D5CCH+JUlayOMNsg41ei5KnHeoRn0glS4+kT+d13glD19EZTKKBUD/+cPX/K/oALRNAEzfWKVY/lLluSqHgKfTMCcEfNjG+jUjZ2yERX6A9R/WVXHsIz4XXcKiZdP0K+7TgQreK2pW65Sr6eGpbfSEOOqPgOY4QBRZWpRtJDcd3D+kf4bnSrAGE6e746XI55yE0AvtmZRDgTfPn8W/88asN82H/bW5mSDRShNwO0WuugYovSGWwfOth+XlYYzFKzUigkDc2SVQ9z30ncwNDB6BChso12/pxSh9Y7jUcd+c6lcZfpl1xqR/Kqj0iPNLbDddxWEU0mdMdkny+QyThgv1kybtJZqYSUfuhM0TXikbxkS2HmLE9RTtxabBEFVAbpmCxZbVzCUE2Aykpg4McsD7z3QlultvCKSyKsebNvV9AWAmNJNJgr2FTaGhf6iGKwm5XD7bPAD0gT1pQaHdPXozBd/k/Z7rQ6JqW5uS3cx4w==;WYPeboi89nPlUJcxL9cscQ=="

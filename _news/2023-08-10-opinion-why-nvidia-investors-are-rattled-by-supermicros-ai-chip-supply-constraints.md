@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/why-nvidia-investors-are-rattl
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581"
 type: article
 quality: 97
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -61,17 +61,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "NVIDIA unveils new AI superchip and adds generative AI to Omniverse"
-    excerpt: "NVIDIA founder and CEO, Jensen Huang, announced an updated GH200 Grace Hopper Superchip, the NVIDIA AI Workbench, and an updated NVIDIA Omniverse with generative AI at a wide-ranging SIGGRAPH keynote."
-    publishedDateTime: 2023-08-09T14:04:00Z
-    webUrl: "https://www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show"
-    ampWebUrl: "https://www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show?hs_amp=true"
-    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/nvidia-ceo-brings-generative-ai-to-la-show?hs_amp=true"
-    type: article
-    provider:
-      name: redsharknews.com
-      domain: redsharknews.com
-    quality: 54
 
 secured: "TlUqQgz5DkH3F3Z+yTtaWd+3vNQTjUl5oD1ghpkUpbPHo/XflBMAi9zFQPjFMYOwSKGELLZHiqr4FCYXMXNlXOTenSNumGcJogaafENBlboqK9gCdy6L0Y0j6grsc9GRCQaV6esfT7N9o8l75qp0TQOHc73lwrCc6NCPLGJjQJcK3j0PM7qCkFWBPto/WnXaVlkJtkNZAthUeC+b3WBa3PegLlH907K3s2cDdAz1XS53rnXV4JMzto0VXWmhaqVYiRofsJSemhiXabW+2Crrql3vNLucLAWBh1BzIIk0qt102XOPv1VhDIheIov3aGUJlAUDuQscMS3hEVIrPsJm8UIqjgrk9F0WX+bg1lvFDkA=;ojR9Dn0iCZnazxlCwZg/IQ=="
 ---

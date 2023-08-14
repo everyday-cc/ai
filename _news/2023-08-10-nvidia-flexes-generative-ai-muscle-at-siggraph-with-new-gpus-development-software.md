@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generativ
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
 type: article
 quality: 68
-heat: 98
+heat: 118
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Nvidia announces updated GH200 Grace Hopper GPU with HBM3e memory for generative AI workloads"
+    excerpt: "Nvidia has announced an updated version of its GH200 'superchip,' which will be the first GPU in the world to include HBM3e memory."
+    publishedDateTime: 2023-08-09T15:26:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-updated-gh200-grace-hopper-gpu-with-hbm3e-memory-for-generative-ai-workloads/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 43
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/GH200_HBM3e.2e16d0ba.fill-1200x630.png"
+        width: 1124
+        height: 592
+        isCached: true
   - title: "AI powerhouse Nvidia releases toolkit that allows developers to quickly create, test generative models"
     excerpt: "Nvidia on Tuesday announced the AI Workbench, a new toolkit that will helps developers to more quickly create, test, and customize generative AI models."
     publishedDateTime: 2023-08-10T01:48:00Z
@@ -61,6 +75,20 @@ related:
       name: CRN
       domain: crn.com
     quality: 29
+  - title: "AMD's new professional graphics GPU, the Radeon PRO W7600, shows its face at Siggraph 2023"
+    excerpt: "AMD showcased its new Radeon PRO W7600 GPU for professionals on the expo floor at Siggraph 2023 and we took some happy snaps of it."
+    publishedDateTime: 2023-08-14T06:54:00Z
+    webUrl: "https://www.tweaktown.com/news/92850/amds-new-professional-graphics-gpu-the-radeon-pro-w7600-shows-its-face-at-siggraph-2023/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 29
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92850_888_amd-w7600-hands-on_full.jpg"
+        width: 1500
+        height: 1050
+        isCached: true
 
 secured: "1DiCJOHVcl8FkG0+g8g7gM25qikXzeGXz4laN/FVsgNtfEL8s3rNWj9oE+qGrpoa6QE6OVMD2UOo5ZWVKd/szJkpxdf0mJumXnWWJ8n7/s47mCHp3u4BqsAKg7i909MsTho5FW2syBuA6SVQwNgt1USI4FpAxQEKlgP0i76WPoAMFsvZick8MXixEApZFOg2vJtIJnZfzE3cHm0GA2Ql1wizuq571+YXdvVfMp0ii1bNVMY5CQBDrVF0Mf0UxEtnAJNrS45WB/6IsOHmtHlwhaXJz/wQ47fkpcWQh5dVzo1b59zDTqVWM7cjJYUukIMvCeDdlvHh16nuWswLL0udfto2Ru0Zzfuiq4WxrlyU7gx210EmjZTuNvEJcduZO4pFa8IEAAVrQ8yvAPTndVHtpsAg6sfgCNORwz1lWV2a4lD4Tz3h4YnH7P3rlFHe0nXzz4mOV7MxM+LUlp3pNONpV/hqgy1u5PgQa25lISy087Aguh732fGQ+b61EK+lVAtl5/Skg37d7V1FUn13SB2EUw==;sXMoL6WFto1vrWe0BfJZNQ=="
 ---

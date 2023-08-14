@@ -2,26 +2,26 @@
 category: news
 title: "IBM to make Meta’s Llama 2 available on Watson X"
 excerpt: "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,"
-publishedDateTime: 2023-08-09T22:41:00Z
-originalUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446"
-webUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446"
-ampWebUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446?amp=1"
-cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446?amp=1"
+publishedDateTime: 2023-08-09T18:45:00Z
+originalUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792"
+webUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792"
+ampWebUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
+cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: IT World Canada
-  domain: itworldcanada.com
+  name: IT Business
+  domain: itbusiness.ca
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
+  - url: "https://i.itbusiness.ca/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
     width: 1920
     height: 720
     isCached: true
@@ -56,22 +56,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2023/05/artificial-intelligence-5-5-23-e1683284669461.jpg"
         width: 948
         height: 532
-        isCached: true
-  - title: "IBM to host Meta's Llama 2 in Watsonx platform"
-    excerpt: "The International Business Machines Corporation (IBM) announced on Wednesday it plans to make Meta Platforms' large language model Llama 2-chat available within its Watsonx.ai platform. \"IBM"
-    publishedDateTime: 2023-08-09T14:12:00Z
-    webUrl: "https://www.teletrader.com/shbm-to-host-meta-s-llama-2-in-watsonx-platform/news/details/60472097"
-    ampWebUrl: "https://www.teletrader.com/amp/news/details/60472097"
-    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/60472097"
-    type: article
-    provider:
-      name: teletrader.com
-      domain: teletrader.com
-    quality: 59
-    images:
-      - url: "https://cdn.ttweb.net/News/images/299846.jpg?preset=w800_q70"
-        width: 800
-        height: 450
         isCached: true
   - title: "IBM to Make Llama 2 Available Within Its Watsonx AI and Data Platform"
     excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to host Meta's Llama"
@@ -125,6 +109,6 @@ related:
       domain: analyticsindiamag.com
     quality: 33
 
-secured: "WiR4WLBnXDQoOmATeKYPiOVM/zvP1rckS3NSA1j/Msf1tHYv6NFqXJF6wBqEyDdsHpBPaFwdLz+EFCkOGtlkY79imew6prwkclZmd03uvTDVVNnWqthn7BHYuGz/hohF9RUtxqTeacnxWTPteG3BXNZbmfEE50psfVQDAOu7jpoXCI7oK8FGAPzZl73ujfWs9ZMFz33MeslGHE7f03PDxU1XwAo3DXRNwYqO71dodGvp88d0wxN9lc4AkCPIfdOBDVo5MTqUlPexdTpwEhQVYXnvLqFexlrbaNkJwwdgASL/OxcG4WmbVCMdT4GCsMIMzFm5AVcMsTLhMkwTDzkIbojWPMtMMt+KGHbYQ9V2RpuXzQCXD1AfYzLeNxZmA+eoHrQmwdpc2fnd3j6X6GsgUJb4omTlnKDCGgDqbil+Gq28tDr2fOoI1XxszwTF/k5twZHMToBRWLrtCEf9z8aQ8BOIsbCCc64LtAizvZrgyXKaHjyfKPsXxa27OvOsWOaWrRJeo75UpupOun3gFzfbyA==;gIY+Hc4dCBB/pCgrJRwrCw=="
+secured: "FlqGLe5WC/z7BZKm4pwm7T1lOLNYZlgxu1zmfYT7KQoohVHjX5PJdCeZtrwfgHl8tRpstdo23O40HhKFTdwUzgkOn1+W2Ao0z4wvTHLYY0dsv0pBgNT1Vkow7/GDysjB1tt7ZAdMBRkIRswCNXPDszK/MMvt6wUkSb6js0sMvmWdmXIxuRW1BJml/ufVDj8Jv6h1qG8BuiDBQQ/GywH6cNtXQx7aKzxnCObzEH1PgPPO1qu4JB8v/2wMS7EVLWIRmSFzABSAHZWtjfBjSgTtjHMcc9vxqsG6Y0u7J2YxdKocT4O9IdLcNEA+v81Dc66Bh9rVNSwTJ9sAGlssxHGGsCfE/sX4wG+ZS7FgutJD8LY=;LdNBvajV/qgqxO3AVID5Sg=="
 ---
 

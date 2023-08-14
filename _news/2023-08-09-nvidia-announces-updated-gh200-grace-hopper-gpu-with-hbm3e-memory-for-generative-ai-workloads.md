@@ -25,31 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Unveils RTX 5000, 4500 And 4000 Ada Workstation GPUs To Crush AI Workloads"
-    excerpt: "NVIDIA announced the much-anticipated expansion of its workstation graphics card lineup based on Ada Lovelace."
-    publishedDateTime: 2023-08-09T14:15:00Z
-    webUrl: "https://hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus"
+  - title: "Nvidia flexes generative AI muscle at SIGGRAPH with new GPUs, development software"
+    excerpt: "GPU titan Nvidia doubled down on generative AI at SIGGRAPH this week, unveiling new chips, server designs, and software to fill out its ecosystem of artificial intelligence hardware and systems design products."
+    publishedDateTime: 2023-08-09T21:34:00Z
+    webUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.html"
+    ampWebUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 69
+      name: Network World
+      domain: networkworld.com
+    quality: 68
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62253/content/NVIDIA_RTX_5000_Hero.jpg"
-        width: 708
-        height: 400
+      - url: "https://images.idgesg.net/images/article/2023/08/nvidia-l40s-100944528-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Nvidia unveils GH200 Superchips for 'most complex AI workloads'"
-    excerpt: "With a 90 percent market share, Nvidia is further upping its game as more companies race to make GPU chips to run AI models."
-    publishedDateTime: 2023-08-10T13:17:00Z
-    webUrl: "https://interestingengineering.com/innovation/nvidia-unveils-gh200-superchips"
+  - title: "Nvidia’s FlexiCubes uses generative AI to create 3D meshes"
+    excerpt: "Nvidia has launched FlexiCubes, a new way to use AI to generate 3D meshes for a wide range of 3D applications."
+    publishedDateTime: 2023-08-11T13:01:00Z
+    webUrl: "https://venturebeat.com/ai/nvidias-flexicubes-uses-generative-ai-to-generate-3d-meshes/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 36
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "AI powerhouse Nvidia releases toolkit that allows developers to quickly create, test generative models"
+    excerpt: "Nvidia on Tuesday announced the AI Workbench, a new toolkit that will helps developers to more quickly create, test, and customize generative AI models."
+    publishedDateTime: 2023-08-10T01:48:00Z
+    webUrl: "https://www.foxbusiness.com/fox-news-tech/ai-powerhouse-nvidia-releases-toolkit-allows-developers-quickly-create-test-generative-models"
+    ampWebUrl: "https://www.foxbusiness.com/fox-news-tech/ai-powerhouse-nvidia-releases-toolkit-allows-developers-quickly-create-test-generative-models.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/fox-news-tech/ai-powerhouse-nvidia-releases-toolkit-allows-developers-quickly-create-test-generative-models.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 41
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4a0ea36e-3f4d-49e4-b13d-11aaad667f80/cb5c08c3-1d34-43c3-9f86-c589b7c36c77/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "7 Big Announcements Nvidia Made At SIGGRAPH 2023: New AI Chips, Software And More"
+    excerpt: "Nvidia CEO Jensen Huang returned to the annual SIGGRAPH event for the first time in five years to showcase the GPU giant’s “full-stack computing” prowess with a bevy of new chips and software for AI,"
+    publishedDateTime: 2023-08-10T19:54:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/7-big-announcements-nvidia-made-at-siggraph-2023-new-ai-chips-software-and-more"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 29
+  - title: "AMD's new professional graphics GPU, the Radeon PRO W7600, shows its face at Siggraph 2023"
+    excerpt: "AMD showcased its new Radeon PRO W7600 GPU for professionals on the expo floor at Siggraph 2023 and we took some happy snaps of it."
+    publishedDateTime: 2023-08-14T06:54:00Z
+    webUrl: "https://www.tweaktown.com/news/92850/amds-new-professional-graphics-gpu-the-radeon-pro-w7600-shows-its-face-at-siggraph-2023/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 29
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92850_888_amd-w7600-hands-on_full.jpg"
+        width: 1500
+        height: 1050
+        isCached: true
 
 secured: "Q9VMUdy+CEkUzNHOJnw1A+XHA3BIjbnge9CW5gwcpCWGeLcEUcFUPtMz5BkwEsSPkEX8zUWK+T+HdzOJ+ZmQ8mBtUPnjJ9lEu1f6iuuoL8Ry4b3x1Xfay+EB4HF6yTMdlQRKbUn9kLhGqpBzDBAjAGrrCHyN/q/5UpJA3eYsbl0QERAilVVOVrCFwr0LPCkivbJXgA9MtIBIyVcvUirkKNBkSV2oUlydFkixTpELPoDTEGseDVBZa16RUxnbtIFNAg6KZJ7j2Qcm7QJu7bir3tMBD5lEA46eeHhH9qD1cjyWlO3ivsUpbrJL+71UA6iXveVW7Q373wYSOSRQ0tp5SNbboL+iKNHBGZrdmAfxJexOzBtgpoBfNI7WwYohOI/mXeHbiAtur8Xr3RgeLKXrlFp1spkZTO3pqqp7GJXaxL1x3vunZMEtM2WRlRmYdjbVX9L8bPdDx0ZeYpz+TE09bgYIjC/YkGNsv8hEp18hK8hUjsDPzrYRDqT6xkDLaITAUjmJvhjVrFr6hi1FAD5wqA==;7fXhprTTYybYkIYT/GXw+w=="
 ---

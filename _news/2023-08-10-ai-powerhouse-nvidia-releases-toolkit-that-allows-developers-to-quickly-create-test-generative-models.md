@@ -51,6 +51,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Nvidia announces updated GH200 Grace Hopper GPU with HBM3e memory for generative AI workloads"
+    excerpt: "Nvidia has announced an updated version of its GH200 'superchip,' which will be the first GPU in the world to include HBM3e memory."
+    publishedDateTime: 2023-08-09T15:26:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-updated-gh200-grace-hopper-gpu-with-hbm3e-memory-for-generative-ai-workloads/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 43
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/GH200_HBM3e.2e16d0ba.fill-1200x630.png"
+        width: 1124
+        height: 592
+        isCached: true
   - title: "7 Big Announcements Nvidia Made At SIGGRAPH 2023: New AI Chips, Software And More"
     excerpt: "Nvidia CEO Jensen Huang returned to the annual SIGGRAPH event for the first time in five years to showcase the GPU giant’s “full-stack computing” prowess with a bevy of new chips and software for AI,"
     publishedDateTime: 2023-08-10T19:54:00Z
@@ -60,6 +74,20 @@ related:
       name: CRN
       domain: crn.com
     quality: 29
+  - title: "AMD's new professional graphics GPU, the Radeon PRO W7600, shows its face at Siggraph 2023"
+    excerpt: "AMD showcased its new Radeon PRO W7600 GPU for professionals on the expo floor at Siggraph 2023 and we took some happy snaps of it."
+    publishedDateTime: 2023-08-14T06:54:00Z
+    webUrl: "https://www.tweaktown.com/news/92850/amds-new-professional-graphics-gpu-the-radeon-pro-w7600-shows-its-face-at-siggraph-2023/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 29
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92850_888_amd-w7600-hands-on_full.jpg"
+        width: 1500
+        height: 1050
+        isCached: true
 
 secured: "bqIjwW9MvqIbPArrxMg/tzuOh8VzMp5dwUb5MRH4nNguNg8Lbpk/PmYfCdZzN3fo3xw16rusQg7uw+2zjbzVwbrvfgMYvfE8ziQsmk/ggotiLbEJ/Dxyt4rxfFJwKJSYxEjH0PdPjqreA2TJDjYBu2P8aAM4Gc6Jqg20IBIr0AjlbtQ07h3vwT3d7/7A/g9JEYl+IrVeBvMXngoE0SbynWapPoB6s0cYi7VgZQilI3kqVF1+D3CWKI0YsiY5Bd1NWahUtFKe30IsZwOjRlv7dQg611iYJHIVYx8pCEKbuPhsSdO6yPdl0n32zbjnJ5AhlJH4fSWc/eZ9Ki/INwVYD72nt9yHPHr8AmZb61laDPc=;XqPX617dfbXvcNQFW2KXzQ=="
 ---

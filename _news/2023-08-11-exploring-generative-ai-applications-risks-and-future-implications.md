@@ -47,22 +47,6 @@ related:
         width: 1219
         height: 630
         isCached: true
-  - title: "We're not ready for the impact of generative AI on elections"
-    excerpt: "ZDNET's resident presidential scholar takes a deep dive into political campaign deepfakes in the time of generative AI. This affects much more than the national contests. AI will transform local politics,"
-    publishedDateTime: 2023-08-09T14:15:00Z
-    webUrl: "https://www.zdnet.com/article/were-not-ready-for-the-impact-of-generative-ai-on-elections/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/were-not-ready-for-the-impact-of-generative-ai-on-elections/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/were-not-ready-for-the-impact-of-generative-ai-on-elections/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/29d6bbc441c6800e3c5d41b69c880d00fc44fe90/2023/08/03/a5004c8e-9286-41e9-a651-0cc6373b3326/cryscreenshot-2023-08-03-162524.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Generative AI Is Not A Tool; It's An Employee"
     excerpt: "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team."
     publishedDateTime: 2023-08-11T11:00:00Z
@@ -78,6 +62,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64d541f1b585aa1bcfb1ea3f/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 608
+        isCached: true
+  - title: "Is Generative AI Destroying The Internet?"
+    excerpt: "Explore the astonishing capabilities of generative AI as it blurs the lines between reality and digital deception, and discover the urgent race to safeguard the truth."
+    publishedDateTime: 2023-08-14T06:21:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d9c7c62d69c2f7f6635ebe/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 787
         isCached: true
   - title: "Build a centralized monitoring and reporting solution for Amazon SageMaker using Amazon CloudWatch"
     excerpt: "In this post, we present a cross-account observability dashboard that provides a centralized view for monitoring SageMaker user activities and resources across multiple accounts. It allows the end-users and cloud management team to efficiently monitor what ML workloads are running, view the status of"
@@ -153,6 +153,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 51
+  - title: "ABB and Microsoft collaborate to bring generative AI to industrial applications"
+    excerpt: "Expanding on their long-standing partnership, ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability™ Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
+    publishedDateTime: 2023-08-14T06:32:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/abb-and-microsoft-collaborate-to-bring-generative-ai-to-industrial-applications-2023-08-14"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 50
+    images:
+      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001080035_resized_abbenablescustomerstorealizethebenefitsofdigitalizationthroughsixindustryvaluepillars1022.jpg"
+        width: 1022
+        height: 575
+        isCached: true
   - title: "How to use AI to create a logo for free"
     excerpt: "Generative AI is perfect for producing code, writing letters, and creating images. But how does it fare generating logos?"
     publishedDateTime: 2023-08-10T18:44:00Z

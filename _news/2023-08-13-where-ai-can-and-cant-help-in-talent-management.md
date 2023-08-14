@@ -60,6 +60,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Positive results for AI-assisted breast cancer detection, says Swedish trial"
+    excerpt: "Share Copyright 2023 The Associated Press. All Rights Reserved."
+    publishedDateTime: 2023-08-14T07:13:00Z
+    webUrl: "https://apnews.com/video/breast-cancer-denmark-sweden-ilse-vejborg-kristina-lang-6893ce7b6b9a4eecb138ff8541651236"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://dims.apnews.com/dims4/default/77f521f/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2Fdd%2F186e72c220c2346b07c0361a80a0%2Fswe-ai-breast-cancer-20230814cr-1920x1080.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "wjWdbgfsNqf+LcD04DvjsGSRP1itCqpJ0KsDIcWmxDlK0cMn9PZ3LnTQZQKm9eKqZOdW9QChDE02t9pMR7FIrzaeGDzQfXnk59Exc6nN7q6gvHZGXqMM06MbWzAAXU7GIwgjqaiJs4OT1b+qQgL/20AnqHHMBXUvlI4xu/xGcK4ahz4HMkJT/3A2PrS/Svn4TCDshx9Oplvimi7MDUnSu78pcVUHrdR46mFxEKrDiw9VlThy7geObDHznSoto2Chw/HOBGWyXvskpwS5Hx58ZrBXCkcQCzAeZoR7oGEQWuOMMMsUhsS9NhwzgmybcUaTAGohDkqUxsSZjGKGUAgUIZHs4T5o+hZGBzjX9PW8ZQ2JctRRJGYBvpPn21ZK0NF9+oNqhV6ZAYJnl5/AXPOqsWvJWpqcQlWPRlHXBtvy5P/4QbQi2dqwWEWSnOUj3nFlqxKoyViU5W6+UHnt4MVKB72B6lF5hu2KMOOaOMQ59Wv66aZ6HRVw5E/IOKNThWhOD37K/aft9LLwZqb9Z6HhnQ==;/mW/ffsZBhCqnIk82q0bAw=="
 ---

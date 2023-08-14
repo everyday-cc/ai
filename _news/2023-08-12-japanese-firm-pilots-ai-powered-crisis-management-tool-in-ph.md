@@ -32,6 +32,20 @@ related:
         width: 700
         height: 486
         isCached: true
+  - title: "Stability AI Stable Chat model featured at DEFCON31"
+    excerpt: "Stability AI unveiled its revolutionary open access large language model (LLM) on July 21st, 2023. This LLM, known for its intricate reasoning"
+    publishedDateTime: 2023-08-14T06:07:00Z
+    webUrl: "https://www.geeky-gadgets.com/stability-ai-stable-chat-model-featured-at-defcon31/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Stability-AI-Stable-Chat-model-will-featured-at-DEFCON31.jpg"
+        width: 700
+        height: 498
+        isCached: true
 
 secured: "SXWtQkndelRxSgYKyxGmRUk5axg5uUwx3Ff2QAVf/q1PKCb7RPvEQ7w4T8PiAjPoODo5xj4aJHI2M6MWhfyYmv/ho5eqDEAbyfuxee194/SOl6FYXHufIepO0DwECZ0KEG6AU0lVG+N9j8qikq3BB9gHUwiwh1l8uGPstOAtiQIRheZl5DDrT0/4/zqS4cU2kAZJassfv1VLaw5GJKuxs63rDm1JY6Zqm+O/kWK/UfVLg6/6R5SSRKoFOLF3teoxuBxvuFle2LYoyc9pl+Wdr9Pq0x7/XyRMziGn0fSFBDbVYN8PmJoSwMiz+IlOD2E1vYpQkenmslvpf1UPIRPSh+xbwKaf+69S0FAlmNJfVNLRc5hoA+NdjZ+9jcy6lZOM1AWtDlBOQZj4w5u7PTT0HeQg6OFJxvrCjY4T6UWH9+vmaCowpofL3xEsM8PxxcE5y2HVJwscgK4smCWWzPfQ/7Mqn9jgaVNlOzb+30GGLd7sF0g4mgwSY9QbCoc3t3PoXDzc6oJ+HRDxHYYbCKI0wg==;1VkeVeDUclcCW3YKAvyJ/g=="
 ---

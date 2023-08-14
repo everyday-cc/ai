@@ -2,19 +2,19 @@
 category: news
 title: "Don’t expect quick fixes in ‘red-teaming’ of AI models. Security was an afterthought"
 excerpt: "Current AI models are simply too unwieldy, brittle and malleable, academic and corporate research shows. Security was an afterthought in their training as data scientists amassed breathtakingly complex collections of images and text. They are prone to racial and cultural biases, and easily manipulated."
-publishedDateTime: 2023-08-13T21:20:00Z
-originalUrl: "https://www.kolotv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
-webUrl: "https://www.kolotv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
-ampWebUrl: "https://www.kolotv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
-cdnAmpWebUrl: "https://www-kolotv-com.cdn.ampproject.org/c/s/www.kolotv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
+publishedDateTime: 2023-08-13T19:19:00Z
+originalUrl: "https://www.wsfa.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
+webUrl: "https://www.wsfa.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
+ampWebUrl: "https://www.wsfa.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
+cdnAmpWebUrl: "https://www-wsfa-com.cdn.ampproject.org/c/s/www.wsfa.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: KOLO TV
-  domain: kolotv.com
+  name: WSFA
+  domain: wsfa.com
 
 topics:
   - Facebook AI
@@ -22,7 +22,7 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://gray-kolo-prod.cdn.arcpublishing.com/resizer/PZZNkf6E_avLaH3D-aJkzbAW9fk=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/HX5MXLD74VG2TH457K5QZ6NX5I.jpg"
+  - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/Yw9t5WAPTXFF38XJZuVQWGMHw3c=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/PGUFJDLQVBCF7GNH2LANYZNWDY.jpg"
     width: 800
     height: 450
     isCached: true
@@ -45,6 +45,6 @@ related:
         height: 450
         isCached: true
 
-secured: "1qaabkYq5R4h0GKz11wJWLQsqpaVsSEn9lWJdSa2ohmZGJxK8Tek9lFHHd5FXVWUpzNCGUGk8XExHvUkzrl6sKxMEw6ZpLNNRtLDyszeqD2oIS9sLqoakqvskrne59deDP0jsnKMxC0SfL/EX0+ecZaX0zSe9LsPipbdIWOt7CULNpv/jRsXgA4MHsp0vU3at++BUsauzCPbvIkeFsi0UXny9XPoteC2qfoASmDK6QsJApOm+oKKNbiySLIyHhOvLSlXvg2UZ78PE74EOJbka+X8AqasnrDzfx1HKC5D190ElNoN/e+9lRLyVCTtPlK9JuGv5tyOQQpaNbtMNZQ21KLoyN0sJ+2SM8W7ZK6Tf68=;dK96ZHs1OqYzYwZhtboAug=="
+secured: "NNY+T1wfT/ZLEN0w9ZVHVNB0h5qu1VcKJimphiNHs+Z8oUzRhFctycuRSENvktn0FWXhtn1Jl78O3LiKCgodeWDRpHvwZ9weGTGIA2PTpZ+jGVFNXPqENgbYG+uMld5er7Z92Fn5Z12mqfJEC40YQKJuPrSUlCxmxLF1gbO5VxxYe/XCI0TWGop1C4Va9ryciTxFcrNKCsyvFlhLmCLTl3uunt+F+RaXXmnfkf2lY251rfaQHnKRse4S6ekFuhGFHS5l0+AnrM9atpUh3Ev4jYutAm5mgJJicjTCKZODSrgB5VuKFgHfGoI5O5ux7m+z193FHW6NNsbApceEzYtGehpuuYmbnBYj9SQF01pfN2o=;jyMo+xWTIs0Q95Ya0Y/Phg=="
 ---
 

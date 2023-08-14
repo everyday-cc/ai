@@ -69,22 +69,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-    excerpt: "MENLO PARK, Calif., Aug. 9, 2023 /PRNewswire/ -- Global consulting firm Protiviti has achieved the Artificial Intelligence (AI) and Machine Learning (ML) in Microsoft Azure specialization."
-    publishedDateTime: 2023-08-09T14:39:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33669654/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33669654"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33669654"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 73
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Better Artificial Intelligence Stock: Amazon vs. Microsoft"
     excerpt: "Amazon and Microsoft are two of the best ways to invest in artificial intelligence ... complete ownership of its AI technology. Moreover, AWS' leading cloud market share could be a powerful ..."
     publishedDateTime: 2023-08-10T11:25:00Z

@@ -36,20 +36,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 31
-  - title: "UiPath Named a Leader in the 2023 Gartner Magic Quadrant for Robotic Process Automation"
-    excerpt: "UiPath Positioned Highest for Ability to Execute GUEST RESEARCH: UiPath (NYSE: PATH), a leading enterprise automation software company, today announced it has been positioned by Gartner, Inc. as a Leader in the 2023 Gartner® Magic Quadrant™ for Robotic Process Automation[1] research report."
-    publishedDateTime: 2023-08-09T13:36:00Z
-    webUrl: "https://itwire.com/guest-articles/guest-research/uipath-named-a-leader-in-the-2023-gartner-magic-quadrant-for-robotic-process-automation.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 16
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/eeb2039c8bd5c2136cd69da1d0534924_M.jpg"
-        width: 375
-        height: 215
-        isCached: true
 
 secured: "6mHc8AYNTbTuYonLMqMv/XT8cU9Ws1tbcorIPW/arqZ3SroPYBEigH97ZF7S/H06aaSp6GlWikDCGtwVTh4FbBNoOoHTJnYYQUQmFiz/tcvhbS2EI9lXvYHcF/KF0LeFd8/zXF74CLFPeEbRR/qe0W8K9TZRM3z2eP2BsJ9xFogzRbxT9PZPDd4I7RaAOGvF7c1RMUyk/iDtQLuNi7k+1AwlYbH7ysbi63XzCBc6P04bmse+roaLh7il3NNDjd8UHsGOSWPiCugtlHOsdaRc436BmhOsiZfVwhkq1bIA/ZGbIoL0oIGsMM4NnfRiquX7iwaG13oIdc8o36tYWDO9AS9owSNDNhQ+Ehqrnrlt2uw=;wHcisPA77OqFD/FjRdbB/A=="
 ---

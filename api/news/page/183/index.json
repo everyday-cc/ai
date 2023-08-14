@@ -2,6 +2,101 @@
   "page": 183,
   "value": [
     {
+      "path": "_news/2023-04-20-reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies.md",
+      "title": "Reddit will start charging some users for API access -- bad news for AI companies",
+      "excerpt": "Reddit is now putting a halt to that, announcing on Tuesday that it will begin to charge big businesses for Reddit API data access. The social networking platform added a new \"premium access point\" for third party users who require \"additional capabilities, higher usage limits, and broader usage rights,\" according to the announcement .",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
+      "originalUrl": "https://www.zdnet.com/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/52aff004391e33410e3a1b98a157bd0bb2d02fec/2023/04/19/813b1d72-00fb-445f-91f7-30e993dd8ee1/gettyimages-1244227518.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
+      "publishedDateTime": "2023-04-19T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-teslas-mind-blowing-tech-is-supercharging-robots-and-paving-the-way-for-smarter-ai.md",
+      "title": "Tesla's Mind-Blowing Tech is Supercharging Robots and Paving The Way For Smarter AI",
+      "excerpt": "sign up for Benzinga’s Startup Investing & Equity Crowdfunding Newsletter As robots become more autonomous and take over tasks previously performed by humans, their ability to collect and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/startups/23/04/31898752/teslas-mind-blowing-tech-is-supercharging-robots-and-paving-the-way-for-smarter-ai",
+      "originalUrl": "https://www.benzinga.com/startups/23/04/31898752/teslas-mind-blowing-tech-is-supercharging-robots-and-paving-the-way-for-smarter-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/04/19/shutterstock_2209397693.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31898752",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31898752",
+      "publishedDateTime": "2023-04-19T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-ai-can-kill-us-but-some-in-congress-dont-even-know-how-to-log-in-to-facebook-lawmakers-say.md",
       "title": "AI can 'kill us,' but some in Congress don’t even know how to log in to Facebook, lawmakers say",
       "excerpt": "WASHINGTON – AI has the potential to both benefit and harm the U.S. in unknown and unimagined ways but Congress has hardly any experts on the rapidly developing technology, lawmakers told Fox News.",
@@ -1029,83 +1124,6 @@
         "AI in Healthcare",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology.md",
-      "title": "Anchorage Assembly heavily limits city use of facial recognition technology",
-      "excerpt": "If the city opts to purchase and use the technology, the Assembly must approve it, and there must be a public hearing.",
-      "sourceUrl": null,
-      "webUrl": "https://alaskapublic.org/2023/04/18/anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology/",
-      "originalUrl": "https://alaskapublic.org/2023/04/18/anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Alaska Public Media",
-        "domain": "alaskapublic.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-ai-governance-market-research-2023-2030-top-key-players-in-the-industry-are-sas-institute-pymetrics-fico-facebook.md",
-      "title": "AI Governance Market Research [2023-2030] | Top Key-Players in the Industry are - SAS Institute, Pymetrics, FICO, Facebook",
-      "excerpt": "The AI Governance market research report is the outcome of comprehensive primary and secondary research. It offers a detailed analysis of the current and future objectives of the market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-governance-market-research-2023-2030-top-key-players-in-the-industry-are---sas-institute-pymetrics-fico-facebook-2023-04-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-governance-market-research-2023-2030-top-key-players-in-the-industry-are---sas-institute-pymetrics-fico-facebook-2023-04-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

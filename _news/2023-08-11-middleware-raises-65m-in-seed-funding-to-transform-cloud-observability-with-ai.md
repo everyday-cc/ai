@@ -36,15 +36,6 @@ related:
         width: 750
         height: 600
         isCached: true
-  - title: "Debunking observability myths – Part 3: Why observability works in every environment, not just large-scale systems"
-    excerpt: "In this article, we'll tackle the common myth that observability is only relevant and beneficial for large-scale systems or complex architectures. \nThe post Debunking observability myths – Part 3: Why observability works in every environment, not just large-scale systems appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-09T13:11:02Z
-    webUrl: "https://www.ibm.com/blog/debunking-observability-myths-part-3-why-observability-works-in-every-environment-not-just-large-scale-systems/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 60
   - title: "San Francisco AI observability startup raises $50M"
     excerpt: "Weights & Biases helps other AI developers monitor their code so it can be audited, organized and debugged — preventing so-called black boxes. The San Francisco startup just raised some fresh funding."
     publishedDateTime: 2023-08-09T17:50:00Z

@@ -30,17 +30,17 @@ images:
 related:
   - title: "Don’t expect quick fixes in ‘red-teaming’ of AI models. Security was an afterthought"
     excerpt: "Current AI models are simply too unwieldy, brittle and malleable, academic and corporate research shows. Security was an afterthought in their training as data scientists amassed breathtakingly complex collections of images and text. They are prone to racial and cultural biases, and easily manipulated."
-    publishedDateTime: 2023-08-13T21:20:00Z
-    webUrl: "https://www.kolotv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
-    ampWebUrl: "https://www.kolotv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kolotv-com.cdn.ampproject.org/c/s/www.kolotv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
+    publishedDateTime: 2023-08-13T19:19:00Z
+    webUrl: "https://www.wsfa.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
+    ampWebUrl: "https://www.wsfa.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsfa-com.cdn.ampproject.org/c/s/www.wsfa.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
     type: article
     provider:
-      name: KOLO TV
-      domain: kolotv.com
+      name: WSFA
+      domain: wsfa.com
     quality: 69
     images:
-      - url: "https://gray-kolo-prod.cdn.arcpublishing.com/resizer/PZZNkf6E_avLaH3D-aJkzbAW9fk=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/HX5MXLD74VG2TH457K5QZ6NX5I.jpg"
+      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/Yw9t5WAPTXFF38XJZuVQWGMHw3c=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/PGUFJDLQVBCF7GNH2LANYZNWDY.jpg"
         width: 800
         height: 450
         isCached: true

@@ -2,6 +2,102 @@
   "page": 131,
   "value": [
     {
+      "path": "_news/2023-05-18-meta-discloses-its-second-custom-processor-and-this-should-interest-investors.md",
+      "title": "Meta Discloses Its Second Custom Processor, And This Should Interest Investors",
+      "excerpt": "Ultimately Meta will continue to use merchant silicon GPUs for those workloads where the GPU provides better performance per watt. Don't forget that 100s of AI workloads still work better on GPUs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/18/meta-discloses-its-second-custom-processor-and-this-should-interest-investors/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/18/meta-discloses-its-second-custom-processor-and-this-should-interest-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64664e7899b353f41dc92c25/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/18/meta-discloses-its-second-custom-processor-and-this-should-interest-investors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/18/meta-discloses-its-second-custom-processor-and-this-should-interest-investors/amp/",
+      "publishedDateTime": "2023-05-18T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-why-google-cloud-bests-aws-microsoft-in-generative-ai-kevin-ichhpurani.md",
+      "title": "Why Google Cloud Bests AWS, Microsoft In Generative AI: Kevin Ichhpurani",
+      "excerpt": "Google’s generative AI enterprise innovation with Google Cloud is better compared to Microsoft and AWS’ artificial intelligence, says partner leader Kevin Ichhpurani.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/why-google-cloud-bests-aws-microsoft-in-generative-ai-kevin-ichhpurani",
+      "originalUrl": "https://www.crn.com/news/cloud/why-google-cloud-bests-aws-microsoft-in-generative-ai-kevin-ichhpurani",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0281-180b09f845b3-5ac794ee6411-1000/kevin-ichhpurani-google-cloud.jpeg",
+          "width": 610,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more.md",
       "title": "Amazon Web Services CEO Selipsky on its growth, India market, AI bet and more",
       "excerpt": "India continues to be a big focus area though where AWS does enjoy a leadership position. Having invested about USD 3.7 billion in India since 2016 to set up its cloud infrastructure and service the market,",
@@ -1074,110 +1170,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-mitigating-dark-web-risks-the-role-of-ai-and-machine-learning.md",
-      "title": "Mitigating Dark Web Risks: The Role Of AI And Machine Learning",
-      "excerpt": "As artificial intelligence and machine learning are becoming increasingly important in the fight against cybercrime, security leaders should consider a range of tools to safeguard themselves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6464d9377c567a5a9746245d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2023-05-18T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup.md",
-      "title": "Scaling Human Kindness In The Age Of AI: A New Kind Of Israeli Startup",
-      "excerpt": "In this age of dizzying technological innovation, no one has invented the technology to scale human capital. a humanitarian startup aims to scale kindness",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carrierubinstein/2023/05/18/scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup/",
-      "originalUrl": "https://www.forbes.com/sites/carrierubinstein/2023/05/18/scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646602d32c4c4bdd28b1abc6/0x0.jpg?format=jpg&crop=2889,1864,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carrierubinstein/2023/05/18/scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carrierubinstein/2023/05/18/scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup/amp/",
-      "publishedDateTime": "2023-05-18T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

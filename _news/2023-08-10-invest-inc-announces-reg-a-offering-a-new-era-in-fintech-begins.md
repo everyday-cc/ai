@@ -18,6 +18,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Women in fintech hackthon: participants introduced to financial inclusion best practices"
+    excerpt: "On Day One of the 2023 Women in FinTech hackathon, the over 100 innovators from Kenya and Uganda were able to work on their problem statements and business cases."
+    publishedDateTime: 2023-08-11T03:32:00Z
+    webUrl: "https://observer.ug/businessnews/78821-women-in-fintech-hackthon-participants-introduced-to-financial-inclusion-best-practices"
+    type: article
+    provider:
+      name: The Observer
+      domain: observer.ug
+    quality: 0
+
 secured: "A0qmSHzyNTiT2ciLwc2aoOgaoyCCOhS/iPqHLuI7KGdfkLQq/Atesn6flRSbuzuBkXfHl9zNMwprQosfTm14fK63Y8ZULZwehkOvOX1tfZJlh7H41ezXoBeLpuUvewxa2sD1Rwyaws31pCOqp66hEO3YATfDnV49oWSGfa8Yn9jAAGiKwUzlBj0krgKrxuikMwAiYW51XKhnkCKt7bcK3ZDlJKMt0qwZwnUlXAjE++fVYHtr8BwwgVLuimW3GYcfNaSLfARjus4Xu1k2AvaX8l+rdir1pLanOGEw5+dQ47gGJC2sUuZ52UEf3v3ngjmmM3GfaNjxhpWdvoUFjq0QS3dtpT34so2ThjQKBiAd7bo=;qtCzY1wfDkEBC6b6UKeaBg=="
 ---
 

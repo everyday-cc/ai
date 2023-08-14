@@ -55,20 +55,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Review examines visual disturbances among Parkinson’s disease patients"
-    excerpt: "In a recent review published in Brain Sciences, researchers reviewed existing data on visual impairments among Parkinson’s disease (PD) patients."
-    publishedDateTime: 2023-08-09T13:28:00Z
-    webUrl: "https://www.news-medical.net/news/20230809/Review-examines-visual-disturbances-among-Parkinsone28099s-disease-patients.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 24
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_755865_1691583171419134.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "JS/G3KoWS2ymaiKANTvWcAk+zVl3hXxaM8ou3YinIhGQjuS4V03fVmlp7tU7e9h4gjeAhftGeD5N42LXT5oiy7xBOXaJRdlAQHXfeSUFw716s2vkakh5aoK9iOPFxxO3dWTnqulzzVlUH3ZQepeHNTmSgZ+d5ijNw/oeNAabmQVba47HcDoQ7eo81McnfPWxy6DEaC+vl319aXQz0JwzyEGOHoZ2gbv9h6D0PD2U+x60Yo2x0+XgQp8xyyFEl5X7iXCx4HQValjZLcWEa8g03DKBclO4YDBrqX4VGoNWQQdIq/9qRA/JQH7XnyGGK0Tdj+bWT2UGe8Re12pEI1Lm2zUgfD7cYqMiRf808OXJ0ZM=;SUtSIPOFB8uvxk8cbtTASA=="
 ---

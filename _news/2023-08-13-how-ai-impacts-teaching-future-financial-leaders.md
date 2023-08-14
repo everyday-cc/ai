@@ -70,15 +70,22 @@ related:
         width: 1070
         height: 579
         isCached: true
-  - title: "Examining The Future Of Marketing In Light Of AI Concerns"
-    excerpt: "The more strategic, less brand-aligned functions scored the highest in terms of how defensible they are from being replaced by automation."
-    publishedDateTime: 2023-08-09T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/examining-the-future-of-marketing-in-light-of-ai-concerns/"
+  - title: "People coaxed AI into saying 9+10=21 and giving instructions for spying — it shows how these systems are prone to flaws and bias"
+    excerpt: "Participants at a hacking conference showed that AI can be tricked into making errors like falsely claiming Barack Obama was born in Kenya."
+    publishedDateTime: 2023-08-14T04:38:00Z
+    webUrl: "https://www.businessinsider.com/ai-math-error-flaws-bias-hacker-conference-openai-google-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/ai-math-error-flaws-bias-hacker-conference-openai-google-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-math-error-flaws-bias-hacker-conference-openai-google-2023-8?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/64b750641ccd1e00198ab8f5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI dating apps promise less ghosting, more matches"
     excerpt: "The hardest part of dating, according to Daniel Liss, is the small talk. A digital entrepreneur whose previous ventures include the photo sharing site Dispo, Liss launched Teaser AI in June, marketing it as the app that leads to “less ghosting, more matches.”"
     publishedDateTime: 2023-08-10T03:19:00Z

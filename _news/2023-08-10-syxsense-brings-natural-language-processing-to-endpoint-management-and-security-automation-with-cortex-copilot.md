@@ -25,17 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Syxsense Announces AI-Powered Cortex Copilot Bringing Natural Language Processing to Endpoint Management and Security Automation"
-    excerpt: "Syxsense, a global leader in Unified Security and Endpoint Management (USEM) solutions, today announced Cortex Copilot, a powerful new AI engine that"
-    publishedDateTime: 2023-08-09T14:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230809184224/en/Syxsense-Announces-AI-Powered-Cortex-Copilot-Bringing-Natural-Language-Processing-to-Endpoint-Management-and-Security-Automation"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 22
-
 secured: "zdMjT7G0wLr/QPzgmrjgbeAIHLhz4n4uEeSqozVuOKYb6F9WHxZ0rl6dtGOPuYYhEDNTB5lDR0c3NKTBsxpPUE2LMNN2xJ26Gfq8LshaJFrfCkEutkRrIJkYJ+e+x2AydQb2d+reZKK8ibF8R8Sn8sAeY5Im56aI0R1B3Dm+b0soPlhjZYtjdDaNYefPzauxRph05NAJUJcL+EceWVe76Bs/jv75itxMLhwrWxfM4mpU/DLF1Qx0Oddsu/32OSEC6J0wmv+dJ2XRVQsOIQpQ4PS74xwUxfocOWXgC6HvTF9Ph4/B3vEjq9yM8lVGx2lrriOUQvyNncH+87L+pr3aZS4VG1vK8YYipEqsf0MOWqw=;qjms/ZnabvGKf8AIzFuiCA=="
 ---
 
