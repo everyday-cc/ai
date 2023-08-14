@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
 type: article
 quality: 100
-heat: 200
+heat: 180
 published: true
 
 provider:
@@ -105,15 +105,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 34
-  - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-    excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help ..."
-    publishedDateTime: 2023-08-09T17:22:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20230809sf78393/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 33
   - title: "Kyndryl and Microsoft Unveil Enterprise Generative AI Solutions on Microsoft Cloud"
     excerpt: "Bangalore (Karnataka) [India], August 11: Kyndryl (NYSE: KD), the worlds largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
     publishedDateTime: 2023-08-12T03:14:00Z
@@ -132,15 +123,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 26
-  - title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
-    excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable"
-    publishedDateTime: 2023-08-09T18:28:00Z
-    webUrl: "https://www.datanami.com/this-just-in/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprise-grade-generative-ai-for-business/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 11
 
 secured: "cL1j1s5nAXNdecQyuVQKP/u2rU8OxqPogB4ToM+Cv0/HJOUblO9Al3qFHGsHyLR4NVWiV5JBeTB4WT1ahk1GD6IIHgYlJVIg4kENQgai0YQ2rJdI/+B9p0eBpKf3tvFSmpDqJ0DM9bxw7LIblKx1wjwrb9VsTarSe5JzJ1bTOsFsYgW7u4VkTSMayHOjgofc+Qr/4bzPFIyNFr4PMll2wlrl4uhH2Rf/L9IYzyxinE4AcnbYMcl1SkBpenxz96NOf9/47VqvMAHjzD9+ZZlJUmuAa+nKzBDsrMJz1S7dVCEYWkZnJAbTedt62VFAnUyUZsBkQhPNyd/i1wKh9+NbFTrkr8h7lR3WqsNJInzq4Na/UQm7qUjxge+ZTeYwHLA5DE7uV5S9dnFIcLB4pD1sPCk4Ir/N0JCDgdky87fRtCHabfOomtzMw4ILrTYae2+xdviHNe0ny1jbqk4m7RG17hAt7i0MiNpC24ToUKzei88GIr9lO/Oor9Kd8Fx/ErsFdDCYm2Q95Ol42mhsQ2Mptw==;u1Ip/25pUre9c9tdlK01Og=="
 ---

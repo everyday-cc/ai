@@ -65,6 +65,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "SK Telecom Pumps $100M into US AI Startup Anthropic: Eyes Multi-Lingual AI Expansion"
+    excerpt: "SK Telecom pours $100 million into Anthropic, a U.S.-based AI startup, to amplify its presence in the AI sector. By collaborating with Anthropic, the telecom giant intends to develop an advanced AI platform"
+    publishedDateTime: 2023-08-14T09:56:00Z
+    webUrl: "https://www.econotimes.com/SK-Telecom-to-Invest-100M-In-US-Anthropic-AI-Company-in-Partnership-Deal-1661015"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 30
+    images:
+      - url: "https://f1.econotimes.com/2023/08/6b5hg557p4_th_1024x0.jpg"
+        width: 1024
+        height: 676
+        isCached: true
 
 secured: "bpZFsTnO2YG5tlIBYwYjzlIsGvibz4dqQsDc7On8rl5itIRkvOSCXgkDZDiJuty4nXFZJcpLDnGga2erxkfdzejGfHJ7cabKpIJ4IYrPe1rbwuPxFW9i068zExeRykfXSLckDJBlh2CMLgy41OJw0y/NYoBqlW5B6Q1wJP102DE2efNIdrPvqobotbFLB71VhGWcWhP/yvdnhkhnNC8X7tAxVMFf8VlYGv+NLbAiodPMwHix/hRqvY/ENW0TFcGVia5HLGy/nXeLHrbTgkk8XkqSmw5FYlA0vFwb9pcM94Z6baoWL0Nt4UaUwcMd6OXt0vBWKFTmXt+9GqmeI0QSCfToGThvDYLuVPcmB89fsCvIJW0JnuyufTYZj6WUknpUlcvPJ6oR7J6bHZyFwkGVwWTLr4VRjq+VXC1Boi9wD29i14O0L8nqka+nVJSt8iaLcYNoTsbs//Rk9geypcrimY/9pArJYvzHGH+3nM0CZ2BFbZKvPWaeIaL5zVh6R/09TStL+bSxN0jlQ0xw5JGLSQ==;BhZq9zdcT0icFpj2HnoNLg=="
 ---

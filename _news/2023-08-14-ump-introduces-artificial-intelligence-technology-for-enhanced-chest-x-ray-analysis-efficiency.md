@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-14T08:21:00Z
 originalUrl: "https://technews.tmcnet.com/news/2023/08/14/9863595.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/08/14/9863595.htm"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/2184845/Group_photo.jpg"

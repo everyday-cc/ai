@@ -25,22 +25,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "Tome, AI Startup Founded by Ex-Meta Managers, Discusses Fundraising at $600 Million Valuation"
-    excerpt: "Tome, a startup that uses artificial intelligence to make it easier to create and design presentations, has talked to investors about raising new money that could double its valuation to up to $600 million,"
-    publishedDateTime: 2023-08-09T20:16:00Z
-    webUrl: "https://www.theinformation.com/articles/tome-ai-startup-founded-by-ex-meta-managers-discusses-fundraising-at-600-million-valuation"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 26
-    images:
-      - url: "https://tii.imgix.net/production/articles/11038/6bd71ced-8c71-4876-93da-3c82def4cfac.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "Zs9HNYTePQ253OHMk5gIZtlW369dBwBJNI+Z0FI9OlGMkammToUusLz69c1UdIbZYiMq8CXOW5It+5C6X5e8C4ivST9/QgwYuH9FTb+BO9CPAUfxXf8WIwEkjVm2qsmcwfAfPEvph+KWkj7vDNTIkkQ7/Lps38BTeweFWSoR8g/JC0wXOF4PbY+n93h584jJD1ulM9Nd1e3OD6LdOT83VWvaKd0ge0RoRVoNdUjhwIBhAYZfv/cgeVIu9SGftUjfmdAVBVo5pnJL/N3rnVQYdaJwtNBModDmOq9hF/WRf+kZupdDGcQitdSZJQWb4kSOPsfNlQVldfgp4dxZjJjEC280ylKi3K7XgSwT8zh5+NA=;GGm8PrnIvhHII9t8vLeOBA=="
 ---
 

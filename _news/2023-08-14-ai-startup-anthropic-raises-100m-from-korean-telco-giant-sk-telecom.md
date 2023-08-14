@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/a-7.jpeg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "SK Telecom Pumps $100M into US AI Startup Anthropic: Eyes Multi-Lingual AI Expansion"
+    excerpt: "SK Telecom pours $100 million into Anthropic, a U.S.-based AI startup, to amplify its presence in the AI sector. By collaborating with Anthropic, the telecom giant intends to develop an advanced AI platform"
+    publishedDateTime: 2023-08-14T09:56:00Z
+    webUrl: "https://www.econotimes.com/SK-Telecom-to-Invest-100M-In-US-Anthropic-AI-Company-in-Partnership-Deal-1661015"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 30
+    images:
+      - url: "https://f1.econotimes.com/2023/08/6b5hg557p4_th_1024x0.jpg"
+        width: 1024
+        height: 676
         isCached: true
 
 secured: "KXdlQKwN1wiZdixhG4uXVM6DIS0J5toI/G303ZMWtd/HcribmrRcm6rZR8AtPiRHBi8r3JA+XOhQQU3ayp49tb6/Lfb05XpaOlqpZWgjvZFX4fE3HsaDksA9mmJMtY+JtKs7wbXFb0XCY23Y3zHIwsjnZrKgylha1DZYRMHmOaPvRCyNkfbrUQfFLj366yXEesRpgX04Zad6JWIzu+n6W1LJsjt/0rD3EExx4D8gxWrXYVC13APswW4roc3jaMYTwOCZugP4Ey41KsbIn+R3GvRUC6UljuOQH4Y5TbK6BXiFRqf/US/DU5r3U6heR8pwNmh/h8y0Hrk14G+5sVoUHgqfdK5AX/0bjbP5t0yH05k=;Osw46p8HRGzlVpOYMY1Tbg=="

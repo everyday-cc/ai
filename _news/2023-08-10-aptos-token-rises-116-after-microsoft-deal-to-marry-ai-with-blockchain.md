@@ -7,7 +7,7 @@ originalUrl: "https://cointelegraph.com/news/aptos-token-surges-after-partner-mi
 webUrl: "https://cointelegraph.com/news/aptos-token-surges-after-partner-microsoft"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1160
     height: 773
     isCached: true
-
-related:
-  - title: "Aptos Price Prediction as Microsoft Partners with Aptos on New AI Blockchain Products – Can APT Reach $100?"
-    excerpt: "Aptos (APT) jumped on Wednesday on the news of the Microsoft AI partnership, but could have a long way to run to the upside yet."
-    publishedDateTime: 2023-08-09T17:40:00Z
-    webUrl: "https://cryptonews.com/news/aptos-price-prediction-as-microsoft-partners-with-aptos-new-ai-blockchain-products-can-apt-reach-100.htm"
-    type: article
-    provider:
-      name: cryptonews
-      domain: cryptonews.com
-    quality: 16
 
 secured: "W5qJb2gMkcEunXK4+trQpeHNkgZS/S7KuribDFmc2vORuGR7kzQqIFa53W6lhu98LK/Rg4A+8yPqnVsJvxcDlS1ze6Di8Mx+30/nHu9z2rP1msGooT6/UBPkuwdd/DGoTsxxJ6lyxNOq8z6Uy5jLQNmCK16mN57CaBhq/mUaPt9ZHujZJZkJugJFs2pKXYn4XboNYRnXtMyG81ewx1F91ysULLk7/zEA200iFIJQYGkxPye9ezJAHv5cMHDZDz3+nK2oKJLIl6mPNpXntGNV7IH6T3Z2taApahdvpEiLpq5u8nEb7UgE/7KSLkGRLWqWrUSRIH4g8IRG7bkXfZxaM3x479rpUCwMPk5mnRdbya3L6cJuLmwssHjKz0q2YuGL3S5cxgQQijz+rqbYHhWYr8ZL3T3vs3g2d4XXH9eO9djLCfENej5SawC/ZmO+w0ySZWz/xdFHUETQE+H/oUbvsnQGct7GasvJgFfHbM9QhQuznLgXelaOQOmzgLKQ17F/sPKTky7e5Z+esjREspONWw==;DkIbwGkBlUlSfcaxspIoCQ=="
 ---

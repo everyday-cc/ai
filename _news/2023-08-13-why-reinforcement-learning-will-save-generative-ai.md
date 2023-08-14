@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Areas Customers See The Most Potential For Generative AI"
-    excerpt: "In just a short period, we’re likely to see massive changes in how customers find products, engage with companies, and experience brands."
-    publishedDateTime: 2023-08-09T17:51:00Z
-    webUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c90fd5ea55d543dd49763d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The threatening potential of AI and child abuse"
-    excerpt: "The U.K.'s National Crime Agency warned that the proliferation of AI-generated explicit images of children is \"normalizing\" pedophilia and disturbing behavior against kids."
-    publishedDateTime: 2023-08-11T05:59:00Z
-    webUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse"
-    ampWebUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 87
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb0de59a-4578-48df-a0f2-52d127244c2e/438c3371-1ec1-405e-9325-a09ec771d10d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Generative AI Is Making Companies Even More Thirsty for Your Data"
     excerpt: "The outcry over Zoom's tweak to its data policy shows how the race to build more powerful AI models creates new pressure to source training data—including by juicing it from users."
     publishedDateTime: 2023-08-10T16:00:00Z
@@ -71,15 +39,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Security For Generative AI That Can Make Or Break Your Enterprise"
-    excerpt: "To mitigate the potential landmines, companies must adopt a zero-trust approach to protect their data and enable access to AI applications. Data protection becomes paramount as the potential for information breaches continues to grow. You can defend your organization against risks related to generative AI by implementing the following strategies."
-    publishedDateTime: 2023-08-11T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/security-for-generative-ai-that-can-make-or-break-your-enterprise/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Tackling Healthcare’s Biggest Burdens with Generative AI"
     excerpt: "Spread the loveIn recent years, the healthcare industry has faced numerous challenges. From managing the overwhelming patient data to combating the increasing prevalence of chronic diseases, these burdens have put immense pressure on medical professionals and healthcare systems."
     publishedDateTime: 2023-08-11T11:25:00Z
@@ -94,38 +53,29 @@ related:
         width: 660
         height: 400
         isCached: true
-  - title: "Legions of DEF CON hackers will attack generative AI models"
-    excerpt: "At the 31st annual DEF CON this weekend, thousands of hackers will join the largest red teaming exercise ever for a group of AI models."
-    publishedDateTime: 2023-08-10T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/legions-of-defcon-hackers-will-attack-generative-ai-models/"
+  - title: "AI Is Coming For Your Data: 6 Steps To Ensure Cyber Resilience"
+    excerpt: "Since AI is great at learning, it can be used as a weapon to gather information from the internet and use social engineering to create tantalizing ways of getting people to click. In other words, if AI knows a lot about you, it knows your interests and what you will likely click on."
+    publishedDateTime: 2023-08-10T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/10/ai-is-coming-for-your-data-6-steps-to-ensure-cyber-resilience/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 51
-  - title: "Cloud vs. on-premises showdown: The future battlefield for generative AI dominance"
-    excerpt: "As well, the choice of where customers plan to run generative AI is split almost exactly down the middle in terms of public cloud versus on-premises and edge. Further complicating matters, developers report the experiences in the public cloud with respect to feature richness and velocity of innovation have been outstanding."
-    publishedDateTime: 2023-08-12T16:47:00Z
-    webUrl: "https://siliconangle.com/2023/08/12/cloud-vs-premises-showdown-future-battlefield-generative-ai-dominance/"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "AI is setting off a great scramble for data"
+    excerpt: "Adobe’s triumph over the doomsters illustrates a wider point about the contest for dominance in the fast-developing market for AI tools. The supersized models powering the lates"
+    publishedDateTime: 2023-08-13T17:39:00Z
+    webUrl: "https://www.economist.com/business/2023/08/13/ai-is-setting-off-a-great-scramble-for-data"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
+      name: The Economist
+      domain: economist.com
+    quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-risk-on-off-1024x574.jpg"
-        width: 1024
-        height: 574
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230819_WBP502.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
-    excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
-    publishedDateTime: 2023-08-11T12:04:00Z
-    webUrl: "https://diginomica.com/attention-enterprises-generative-ai-sexy-esg-has-teeth"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 19
 
 secured: "6qJY96PEMCuRPob7B7CqtaDnw/MVNi/QFDshNTAlXKIsuFL7dx7vn/JTnDZIcavWkWqJK7H8zE48dIN7jyBNvrY2NisAIGZNCAZhVXalU0zg5SrDOQMytSdTK8A6mOBQudek+3B9yHyhP91r0/HefmhTL18sVXVuNWSXsJyaqOBPzdb309F4bkAs0NY3Z7swMvMnnY9zWMukZ+3PY4ydkMHqowCvQ+8pOeMf6fOnl4GmEW6Bp4AJNNhFFJJjZA5LzqorJ3pNKmYaE/VDjWxSkjv5Sput9GTRHTt/LPPm0Ap53xkPlslp+v4Wg00rl+yx2J4k4hUQi7oRK5L2gLKpj2CBOSGu6lz+HstI5SFp+l8=;dzA7ofpl0937faSLNXRGFA=="
 ---

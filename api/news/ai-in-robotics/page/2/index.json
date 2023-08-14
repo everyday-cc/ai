@@ -448,6 +448,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-02-man-who-threw-away-millions-in-bitcoin-wants-to-use-ai-and-robots-to-find-it-in-the-trash.md",
+      "title": "Man who threw away millions in bitcoin wants to use AI and robots to find it in the trash",
+      "excerpt": "Howells hasn’t given up hope and wants to pull the job by combing through the trash with the help of AI and robot dogs ... the council would let him start the hunt for bitcoin in the trash.",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/man-who-threw-away-millions-in-bitcoin-wants-to-use-ai-and-robots-to-find-it-in-the-trash/",
+      "originalUrl": "https://bgr.com/tech/man-who-threw-away-millions-in-bitcoin-wants-to-use-ai-and-robots-to-find-it-in-the-trash/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2021/07/rsz_adobestock_61457857.jpg?quality=82&strip=all",
+          "width": 1600,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-how-artificial-intelligence-and-robotics-are-transforming-the-beauty-industry.md",
       "title": "How artificial intelligence and robotics are transforming the beauty industry",
       "excerpt": "The market for A.I. in beauty and cosmetics will hit more than $13 billion dollars by 2030, according to one study. Companies are already rolling out A.I. robots that aim to make services like manicures quicker and cheaper.",
@@ -1302,49 +1345,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-automatic-for-the-people-how-robotics-is-transforming-life-sciences-research.md",
-      "title": "Automatic for the people - how robotics is transforming life sciences research",
-      "excerpt": "But in life sciences, lab hardware tends to be standardized: a test tube, bench, pipette, and other specialist equipment will, broadly, be the same in every lab. This means that repetitive processes can be automated and replicated, opening up a global market – and to solve global problems.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/automatic-people-how-robotics-transforming-life-sciences-research",
-      "originalUrl": "https://diginomica.com/automatic-people-how-robotics-transforming-life-sciences-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-05/6698E22A-5065-4726-AB0C-5A37DCE72104.jpeg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/automatic-people-how-robotics-transforming-life-sciences-research?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/automatic-people-how-robotics-transforming-life-sciences-research?amp",
-      "publishedDateTime": "2023-07-28T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
         "images": null,
         "publishers": null,
         "authors": null

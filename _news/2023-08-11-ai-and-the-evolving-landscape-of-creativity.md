@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202308/ai
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity?amp"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,63 @@ images:
     width: 320
     height: 320
     isCached: true
+
+related:
+  - title: "The threatening potential of AI and child abuse"
+    excerpt: "The U.K.'s National Crime Agency warned that the proliferation of AI-generated explicit images of children is \"normalizing\" pedophilia and disturbing behavior against kids."
+    publishedDateTime: 2023-08-11T05:59:00Z
+    webUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse"
+    ampWebUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb0de59a-4578-48df-a0f2-52d127244c2e/438c3371-1ec1-405e-9325-a09ec771d10d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI threatens to add to the growing wave of fraud but is also helping tackle it"
+    excerpt: "There were 4.5 million reported incidents of fraud in the UK in 2021/22, up 25% on the year before. It is a growing problem which costs billions of pounds every year."
+    publishedDateTime: 2023-08-10T15:00:00Z
+    webUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.html"
+    ampWebUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-threatens-to-add-to.jpg"
+        width: 1280
+        height: 894
+        isCached: true
+  - title: "Turing Wants To Unleash Human Potential Through AI-Powered Tech Services"
+    excerpt: "In 2020, when the Pandemic mandated the move to remote work, Turing raised $32million in Series B funding to define a future where companies could push a button to spin up their engineering team instantly."
+    publishedDateTime: 2023-08-12T10:46:00Z
+    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/12/turing-wants-to-unleash-human-potential-through-ai-powered-tech-services/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 46
+  - title: "The double-edged nature of parenting, mental health and artificial intelligence"
+    excerpt: "There are two sides to every coin — and sometimes our strengths become weaknesses. This hour, TED speakers explore the mixed blessings and volatile flip sides of mental health, parenting and AI. Guests include developmental psychologist Yuko Munakata ..."
+    publishedDateTime: 2023-08-11T05:44:00Z
+    webUrl: "https://www.npr.org/2023/08/10/1193281234/the-double-edged-nature-of-parenting-mental-health-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 33
+    images:
+      - url: "https://media.npr.org/assets/img/2023/08/10/trh_cuts_both_ways_artwork1_wide-f5cd94374cdee89695b5a53cef8e676148eb1927-s1400-c100.jpg"
+        width: 1400
+        height: 787
+        isCached: true
 
 secured: "ry1BJtcZLVBpAOcwXouaUoQNxD8LaM7z0gcwliOEnRHvhQSVT8X347ANTyME8XkyPlpnFE4F8XqS0aXVG0rmEND6DYYhj8e1Mz4x5sE0Hlch3WRkfLds8ogD+Kujdg4zssEWSl3wma1luQld7yeIFy+32xJKLi0gtlYVotJf06njQ3II9r3071EM8WOB3Jod1HeSSv55dopR0nafdF0alGAuXv6Wql+Yt3vwWJGMsTWqg3Qy2mZZ8qg36+RO7705aTH3tBWsywd4CwiM4i6sscmvmLonecfbNiH3Yj1Y1v3xzWX5i0gnS9gGsnF3cjMpOtfP829RKf12T6SKljm+7lFJbsvqTLXjiFWMn+ZOoCOYHmG5qfEd5EO1KXN3BBDkEGWBV9k++s6jjnsMf80px6cnF2rRUWfQzvlqu2WSupyeaoam7Vb4pp2WgJB2689XxKcdy136+1eRSN7jXs0B60nteXrYpTeirCpcuEYDhHdP5rXAFarHQ6zGzzQRba2i0I1jjpK78eps8zt/mCXoBQ==;2bpRC0TbVUI+mT9zUUvZbw=="
 ---

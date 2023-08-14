@@ -164,6 +164,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Detroit police changing facial-recognition policy after pregnant woman says she was wrongly charged"
+    excerpt: "The Detroit police chief says he’s setting new policies on the use of facial-recognition technology DETROIT -- The Detroit police chief said he's setting new policies on the use of facial ..."
+    publishedDateTime: 2023-08-10T21:11:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 30
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_3ed0bff9e8d2e87a5f8fed690abbd870_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Detroit Police Chief says faulty police work, not facial recognition, to blame for false arrest"
     excerpt: "At a Wednesday press conference, Chief James White insisted that Porcha Woodruff's wrongful arrest wasn’t a case of botched facial recognition. Instead, he blamed investigators for using improper procedures,"
     publishedDateTime: 2023-08-10T10:53:00Z
@@ -178,24 +194,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Detroit Police Changing Facial-Recognition Policy After Pregnant Woman Says She Was Wrongly Charged"
-    excerpt: "Detroit Police Changing Facial-Recognition Policy After Pregnant Woman Says She Was Wrongly Charged DETROIT (AP) — The Detroit police chief said he's setting new policies on the use of facial ..."
-    publishedDateTime: 2023-08-10T17:31:00Z
-    webUrl: "https://www.usnews.com/news/best-states/michigan/articles/2023-08-10/detroit-police-changing-facial-recognition-policy-after-pregnant-woman-says-she-was-wrongly-charged"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 20
-  - title: "Eight months pregnant and arrested after false facial recognition match"
-    excerpt: "Porcha Woodruff, who is the first woman known to be wrongfully accused as a result of facial recognition technology, thought the police who showed up at her door to arrest her for carjacking were joking."
-    publishedDateTime: 2023-08-09T18:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/eight-months-pregnant-and-arrested-after-false-facial-recognition-match/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
   - title: "Detroit alters facial recognition tech policy after lawsuit filed by pregnant woman"
     excerpt: "The Detroit Police Department will be strengthening its photo lineup and facial recognition technology policies after \"shoddy\" police work led to a February wrongful arrest of a woman who was ..."
     publishedDateTime: 2023-08-10T08:34:00Z

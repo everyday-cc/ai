@@ -35,6 +35,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Here Are the Top AI Stories You Missed This Week"
+    excerpt: "If you’re behind on what’s happening with the robot uprising, have no fear. Here’s a quick look at some of the weirdest and wildest artificial intelligence news from the past week. Also, don’t forget to check out our weekly AI write-up, which will go into more detail on this same topic."
+    publishedDateTime: 2023-08-12T19:30:00Z
+    webUrl: "https://gizmodo.com/top-artificial-intelligence-stories-zoom-disney-google-1850723427"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
   - title: "Five Things You Need to Know to Start Your Day"
     excerpt: "US imposes restrictions on investments in China. A debt crisis is brewing at Country Garden. Rice soars to highest price in 15 years. Here’s all you need to know today."
     publishedDateTime: 2023-08-09T23:35:00Z

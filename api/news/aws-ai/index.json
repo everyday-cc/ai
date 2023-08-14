@@ -115,7 +115,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1242,19 +1242,19 @@
     {
       "path": "_news/2023-07-29-aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-for-fans.md",
       "title": "AWS AI-powered video highlights feature introduces game-changing World Cup viewing experience for fans",
-      "excerpt": "Sports fans continue to seek a dynamic viewing experience whenever they decide to tune into a live sporting event. The advancements in technology have only raised expectations. Creative uses of graphics,",
+      "excerpt": "The technology utilizes services from AWS, including Amazon Rekognition. \"This is leveraging computer vision and a lot of other services from AWS to help us develop what they did for the World Cup ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wgmd.com/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-for-fans/",
-      "originalUrl": "https://www.wgmd.com/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-for-fans/",
+      "webUrl": "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans",
+      "originalUrl": "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.wgmd.com/wp-content/uploads/2022/04/Logo-HighRes.png",
-          "width": 600,
-          "height": 242,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/07/1200/675/Womens-World-Cup.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1262,14 +1262,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-29T03:00:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans.amp",
+      "publishedDateTime": "2023-07-28T18:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WGMD",
-        "domain": "wgmd.com",
-        "images": null,
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

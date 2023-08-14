@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-excerpt: "MENLO PARK, Calif., Aug. 9, 2023 /PRNewswire/ -- Global consulting firm Protiviti has achieved the Artificial Intelligence (AI) and Machine Learning (ML) in Microsoft Azure specialization."
+excerpt: "The Generative AI Accelerated Roadmap is a four-week assessment to define objectives and develop a strategic plan for deploying Microsoft Azure-based Open AI-LLM applications across business ..."
 publishedDateTime: 2023-08-09T14:39:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33669654/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai"
 webUrl: "https://www.benzinga.com/pressreleases/23/08/n33669654/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai"
@@ -24,6 +24,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "ec172S+JD0YwzYBSLtggBkzJJj9wGKNr7RmeAUuKQpR386N/0BTeJ+g/bLjC74clcF3TCyXC56b0tY3THwCHklSPKHCv9xo0BWxlA2THH1O3Y4Wq4t3SmDKaTWh+2JYZ1NsV4grdevVjwmxRqt52HxhwGDrVfkUPH4oLLYRbneBb+GrNltpIABYUzO7XuOnbs+OBMMsyeoMz6hhgg3C1xOanBbMht6KKCoapQ56iDfxryBnPJggUMsxlJG4aJX2aEzvR9SUJXBEKW5SyXWN5cWgR0JNjlaQfVXh/ZrnZLU7S1Mxs4+E0rgBuWpjDROolkU5XgaSB8hn5SWgyNwnFUi7WzM3Y6vThymkgzpc9VJc=;WCmKOe2KcI7Gqx7ZFfBEPg=="
+secured: "n++9Hk0eeCLbNKTVKfZE8ijDfcloUIWMS8+rnGhfcHs6ln+w2uoDp4qVfIMDSnTQAdlLqYmVxXiVccZjpo5PdJ1p+xqHj9YCDQHdibFUvOXc/xRKDBAh0xOioFSF37pWkbVyZ4fIqwIIrVUYpPrp2a72LLSLYVL6Wq2agGjzcPkxrEg6Fclr3e8GkuxhXg0gaG2JK1hlVm0DPltrqZS8LyxQjo1i3wnBHbIqTXn6rapGv6xFrLOnsOzwV7sRcJ7E1xgLCtiOa4F6193sLLerAs9+00gWNMAFEhXoTcqHyXl+6ts3meSp3CZyTAlaZsCP3Q6stpjdb5Byht2bziMucSI3L6+nKfXm3QEQEQ0WFPk=;OfBCVUmDcCOHl1nkpP4gsA=="
 ---
 

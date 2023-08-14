@@ -38,6 +38,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Here Are the Top AI Stories You Missed This Week"
+    excerpt: "If you’re behind on what’s happening with the robot uprising, have no fear. Here’s a quick look at some of the weirdest and wildest artificial intelligence news from the past week. Also, don’t forget to check out our weekly AI write-up, which will go into more detail on this same topic."
+    publishedDateTime: 2023-08-12T19:30:00Z
+    webUrl: "https://gizmodo.com/top-artificial-intelligence-stories-zoom-disney-google-1850723427"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
   - title: "Investing 'Summer Vibes' Drives Interest in Cruise and AI Stocks, According to New Apex Q2 2023 Investor Study"
     excerpt: "The ANIO report analyzes investor data who trade through introducing brokers on the Apex Clearing Platform - across more than 1.3m Gen Z accounts and 5.6m accounts held by Millennials, Gen Z and Boomers, calculated from April 1 - June 30, 2023."
     publishedDateTime: 2023-08-10T15:36:00Z

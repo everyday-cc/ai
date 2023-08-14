@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Detroit Police Changing Facial-Recognition Policy After Pregnant Woman Says She Was Wrongly Charged"
-excerpt: "Detroit Police Changing Facial-Recognition Policy After Pregnant Woman Says She Was Wrongly Charged DETROIT (AP) — The Detroit police chief said he's setting new policies on the use of facial ..."
-publishedDateTime: 2023-08-10T17:31:00Z
-originalUrl: "https://www.usnews.com/news/best-states/michigan/articles/2023-08-10/detroit-police-changing-facial-recognition-policy-after-pregnant-woman-says-she-was-wrongly-charged"
-webUrl: "https://www.usnews.com/news/best-states/michigan/articles/2023-08-10/detroit-police-changing-facial-recognition-policy-after-pregnant-woman-says-she-was-wrongly-charged"
+title: "Detroit police changing facial-recognition policy after pregnant woman says she was wrongly charged"
+excerpt: "The Detroit police chief says he’s setting new policies on the use of facial-recognition technology DETROIT -- The Detroit police chief said he's setting new policies on the use of facial ..."
+publishedDateTime: 2023-08-10T21:11:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
+webUrl: "https://abcnews.go.com/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
 type: article
-quality: 20
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ABC News
+  domain: abcnews.go.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/US/wirestory_3ed0bff9e8d2e87a5f8fed690abbd870_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "AI facial recognition led to 8-month pregnant woman's wrongful carjacking arrest in front of kids: lawsuit"
@@ -182,15 +186,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Eight months pregnant and arrested after false facial recognition match"
-    excerpt: "Porcha Woodruff, who is the first woman known to be wrongfully accused as a result of facial recognition technology, thought the police who showed up at her door to arrest her for carjacking were joking."
-    publishedDateTime: 2023-08-09T18:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/eight-months-pregnant-and-arrested-after-false-facial-recognition-match/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
   - title: "Detroit alters facial recognition tech policy after lawsuit filed by pregnant woman"
     excerpt: "The Detroit Police Department will be strengthening its photo lineup and facial recognition technology policies after \"shoddy\" police work led to a February wrongful arrest of a woman who was ..."
     publishedDateTime: 2023-08-10T08:34:00Z
@@ -210,6 +205,6 @@ related:
       domain: people.com
     quality: 0
 
-secured: "U2yjoUAe+DsxFBkdwvPrmofyu3A2ZvEEeLiKyA8/nNTUaf8ji4NgzLqgP86yEfq5mWiW3Kj2yi0PEbhrbDFK76s2zR97ijKTLSPG86ERbxyun/980js/d0pW/Vvw9vC1kKEYCG3t1KshvDsRQZml0tvPbJPTWBNLdGqZHSJmBuJfu5VZ9RQ3S5wQFamMrLT6HhQi8dztTWc24BdsY6mAjX7tMHOuDmftPQu6Cphpn2tAD1Y7PcCcfX3WNNWjnOtJIWkTaZMKPlWn5L/GYwhAGmTyNmCbNhUUdxmtafSEafukhy5fb5eT9/uWqgP6uJwizYo2R+e+RlVzcub9Z0hMtrSGlWLmjWVG4pxn/lAkQfY=;7e55a8EdF+y3pBYcK0/+Rw=="
+secured: "Z91/G6+tdx1cfbhGKxnqHrYlA5W1uw2bCC7Tcha2298Z+Zscg5QAVRIvg52t4NHthIWSCCcDzsESUoDPeRz+Xz1SX2qnhiuRKPDuKXHfb9TUbecbaxAI96sdqVSLZQd5hEVYEEp7vyBJWaqK2sCuvIBWsrjy7hxotkzXdXKJFPw1uuOEkdI5ocHzKwDeuStJI5urzlvhXq6Q6MVhxKu0VtO8QVRJk+/una5F+blDfpuGtLgc0VCf4uLSUxZRZF4X5wonqjFEhbxaV3/wuEonEm1Um2Cvu3u5aW0g1KUCdTlVrZMAyN2wLOBFDtaGw4CVRdaY9/K25I61SSzqf6AK8CSfiYxk8ECFdMloNW5Q3RY=;uPBNdT179ChxIgNRet9gMg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Fox News
@@ -30,105 +30,61 @@ images:
     isCached: true
 
 related:
-  - title: "3 Areas Customers See The Most Potential For Generative AI"
-    excerpt: "In just a short period, we’re likely to see massive changes in how customers find products, engage with companies, and experience brands."
-    publishedDateTime: 2023-08-09T17:51:00Z
-    webUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
+  - title: "AI and the Evolving Landscape of Creativity"
+    excerpt: "Welcome to the age of co-creation, where the lines blur between the creator, the technological ally (AI), and the audience. This rich tapestry of collaboration challenges and redefines traditional boundaries, venturing into unexplored domains of both individual inspiration and communal expression."
+    publishedDateTime: 2023-08-10T23:11:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c90fd5ea55d543dd49763d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2023-08/AIPainting.png.jpg?itok=aaxz6CBC"
+        width: 320
+        height: 320
         isCached: true
-  - title: "Generative AI Is Making Companies Even More Thirsty for Your Data"
-    excerpt: "The outcry over Zoom's tweak to its data policy shows how the race to build more powerful AI models creates new pressure to source training data—including by juicing it from users."
-    publishedDateTime: 2023-08-10T16:00:00Z
-    webUrl: "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/"
+  - title: "AI threatens to add to the growing wave of fraud but is also helping tackle it"
+    excerpt: "There were 4.5 million reported incidents of fraud in the UK in 2021/22, up 25% on the year before. It is a growing problem which costs billions of pounds every year."
+    publishedDateTime: 2023-08-10T15:00:00Z
+    webUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.html"
+    ampWebUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: techxplore
+      domain: techxplore.com
+    quality: 55
     images:
-      - url: "https://media.wired.com/photos/64d430e957ff6ec62db8a934/191:100/w_1280,c_limit/Zoom-User-Data-AI-Training-Fast-Forward-Business-616146659.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-threatens-to-add-to.jpg"
         width: 1280
-        height: 670
+        height: 894
         isCached: true
-  - title: "Security For Generative AI That Can Make Or Break Your Enterprise"
-    excerpt: "To mitigate the potential landmines, companies must adopt a zero-trust approach to protect their data and enable access to AI applications. Data protection becomes paramount as the potential for information breaches continues to grow. You can defend your organization against risks related to generative AI by implementing the following strategies."
-    publishedDateTime: 2023-08-11T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/security-for-generative-ai-that-can-make-or-break-your-enterprise/"
+  - title: "Turing Wants To Unleash Human Potential Through AI-Powered Tech Services"
+    excerpt: "In 2020, when the Pandemic mandated the move to remote work, Turing raised $32million in Series B funding to define a future where companies could push a button to spin up their engineering team instantly."
+    publishedDateTime: 2023-08-12T10:46:00Z
+    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/12/turing-wants-to-unleash-human-potential-through-ai-powered-tech-services/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
-  - title: "Tackling Healthcare’s Biggest Burdens with Generative AI"
-    excerpt: "Spread the loveIn recent years, the healthcare industry has faced numerous challenges. From managing the overwhelming patient data to combating the increasing prevalence of chronic diseases, these burdens have put immense pressure on medical professionals and healthcare systems."
-    publishedDateTime: 2023-08-11T11:25:00Z
-    webUrl: "https://www.thetechedvocate.org/tackling-healthcares-biggest-burdens-with-generative-ai/"
+    quality: 46
+  - title: "The double-edged nature of parenting, mental health and artificial intelligence"
+    excerpt: "There are two sides to every coin — and sometimes our strengths become weaknesses. This hour, TED speakers explore the mixed blessings and volatile flip sides of mental health, parenting and AI. Guests include developmental psychologist Yuko Munakata ..."
+    publishedDateTime: 2023-08-11T05:44:00Z
+    webUrl: "https://www.npr.org/2023/08/10/1193281234/the-double-edged-nature-of-parenting-mental-health-and-artificial-intelligence/"
     type: article
     provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 54
-    images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/07/laundry-chart-1-1024x861-1-660x400.jpg"
-        width: 660
-        height: 400
-        isCached: true
-  - title: "Legions of DEF CON hackers will attack generative AI models"
-    excerpt: "At the 31st annual DEF CON this weekend, thousands of hackers will join the largest red teaming exercise ever for a group of AI models."
-    publishedDateTime: 2023-08-10T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/legions-of-defcon-hackers-will-attack-generative-ai-models/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 51
-  - title: "Why Reinforcement Learning Will Save Generative AI"
-    excerpt: "In this contributed article, Kim Stagg, VP of Product for Appen, knows the only way to achieve functional AI models is to use high-quality data in every stage of deployment. As businesses look for pathways to adoption,"
-    publishedDateTime: 2023-08-12T17:34:00Z
-    webUrl: "https://insidebigdata.com/2023/08/12/why-reinforcement-learning-will-save-generative-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
-        width: 1100
-        height: 550
-        isCached: true
-  - title: "Cloud vs. on-premises showdown: The future battlefield for generative AI dominance"
-    excerpt: "As well, the choice of where customers plan to run generative AI is split almost exactly down the middle in terms of public cloud versus on-premises and edge. Further complicating matters, developers report the experiences in the public cloud with respect to feature richness and velocity of innovation have been outstanding."
-    publishedDateTime: 2023-08-12T16:47:00Z
-    webUrl: "https://siliconangle.com/2023/08/12/cloud-vs-premises-showdown-future-battlefield-generative-ai-dominance/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: NPR
+      domain: npr.org
     quality: 33
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-risk-on-off-1024x574.jpg"
-        width: 1024
-        height: 574
+      - url: "https://media.npr.org/assets/img/2023/08/10/trh_cuts_both_ways_artwork1_wide-f5cd94374cdee89695b5a53cef8e676148eb1927-s1400-c100.jpg"
+        width: 1400
+        height: 787
         isCached: true
-  - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
-    excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
-    publishedDateTime: 2023-08-11T12:04:00Z
-    webUrl: "https://diginomica.com/attention-enterprises-generative-ai-sexy-esg-has-teeth"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 19
 
 secured: "yJgYGGiP1K5N1rWIGs5kAGUbvWALseco8+w5E9LojzjCNbXgkTx9ApYCPXHZOux/T7693xcR/LgjhyyZcIo9FKEjKNY7vwMY2IJu/N+OAowSzlj0tKvvik9IOJ4X9EHysts4upPw+3hi/ty4EElBTyBNn8EcTb8JLrONzTIwESAVqYk7dYsG82G/Q17z5JwoRdr5YbwPboeIZWki45b3zQmErp5PE+8WpbsQhEbfwtOVaEgE5QZ3b4CwgcPJ6iZMr+dc3zo+MNcg4/SBfm2bphfJmt9MIpjSmnjriKtxUpTHoA4q9GWZayCg7Bhv9mtRsBoAecf2aMr4w6G2A1nJxZh/9uPHNNBmm8lZmOWraTE=;x76rfhw7ERfJUb8L7PKmFg=="
 ---

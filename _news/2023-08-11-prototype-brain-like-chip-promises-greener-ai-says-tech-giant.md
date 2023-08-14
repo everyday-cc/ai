@@ -7,8 +7,8 @@ originalUrl: "https://www.bbc.com/news/technology-66465230"
 webUrl: "https://www.bbc.com/news/technology-66465230"
 type: article
 quality: 64
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -23,6 +23,36 @@ topics:
   - AI
 
 related:
+  - title: "IBM’s Brain-Inspired Chip Embraces Energy-Efficient AI"
+    excerpt: "IBM unveils an energy-efficient 'brain-like' chip, addressing concerns over emissions from AI systems. With its unique design inspired by human brain connections, this innovation could transform the efficiency of AI chips in smartphones,"
+    publishedDateTime: 2023-08-14T10:00:00Z
+    webUrl: "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/"
+    ampWebUrl: "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 74
+    images:
+      - url: "https://techround.co.uk/wp-content/uploads/2023/08/milad-fakurian-58Z17lnVS4U-unsplash-scaled.jpg"
+        width: 2560
+        height: 1945
+        isCached: true
+  - title: "IBM boffins develop mixed-signal analogue AI chip"
+    excerpt: "Good for deep neural network (DNN) inference. IBM Research introduced a mixed-signal analogue AI chip for running a variety of deep neural network (DNN) inference tasks. According to Biggish Blue the device has been tested to be as adept at computer vision AI tasks as digital counterparts and is a"
+    publishedDateTime: 2023-08-11T09:03:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57401-ibm-boffins-develop-mixed-signal-analogue-ai-chip"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/daea25d248d90881f92ce76053955638_L.jpg"
+        width: 620
+        height: 491
+        isCached: true
   - title: "IBM's prototype 'brain-like' chip promises greener AI"
     excerpt: "Tech major IBM has said that its prototype 'brain-like' chip could make artificial intelligence (AI) more energy efficient."
     publishedDateTime: 2023-08-13T15:45:00Z

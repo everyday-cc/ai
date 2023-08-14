@@ -41,22 +41,6 @@ related:
         width: 1400
         height: 884
         isCached: true
-  - title: "IBM to make Meta’s Llama 2 available on Watson X"
-    excerpt: "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,"
-    publishedDateTime: 2023-08-09T18:45:00Z
-    webUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792"
-    ampWebUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 74
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
-        width: 1920
-        height: 720
-        isCached: true
   - title: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform"
     excerpt: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform - As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to"
     publishedDateTime: 2023-08-10T11:21:00Z
@@ -71,15 +55,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "IBM Collaborates With Meta to Integrate Llama 2 into Watsonx.ai Platform"
-    excerpt: "IBM announced that it would host Meta's Llama 2-chat 70 billion parameter model in the watsonx.ai studio, with early access  available to select clients and partners."
-    publishedDateTime: 2023-08-09T18:33:00Z
-    webUrl: "https://analyticsindiamag.com/ibm-collaborates-with-meta-to-integrate-llama-2-into-watsonx-ai-platform/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 33
 
 secured: "SNTxNrpeUOKUfhrAnE6uVyyQOAfVG6sW70+fRIG0NMWEZYHwaKlkvlRi9/7XmmW4kXhjM757ueNpaiRll6f4xUC26REPYaPox3zMGdwQ9/1sqQdyDxknxL69IvLD/YgOLN+ULqBScF3E20dtaChRUEulULiri4YqJ+3+To+fizqWVD9nEcfcy0f9HOykyDxLe5qllzFgmLO1tQ6fysLNwRo1y2qyNYpMN8p1M5Cr4PTFQGKkS5/EjE8hE8B0nRZ3A6Naqz1b2MW4qoJuMnSZGnKJmD6qJUyGQhrg4eOJanDGODw9LPIbpY8Hwz5robuysvYaLb+FNkKil/Iyv5bNgAxCSM5yczBLgX+RPNMkX0PdRSiPPIw0APEVqnPECmJIdfHfvrqogeqWQ8mc6qo+I2qtOZ6Sr2brav7y9BhNT8KOllanL1uOFCjSWA04Pqe/UA36h5LOz3R371nmkB+/6N/X7Wn39CphOWZGSbfrijoEl1eDOA8zMfvcZCtWtrp3hjlkcBk/prsIXSwioXuCYA==;eSGCzugomg8kaz4MSfLQ/Q=="
 ---

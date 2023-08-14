@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/technology/worldcoin-scans-eyeballs-a
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/worldcoin-scans-eyeballs-and-offers-crypto-but-why-chatgpts-sam-altman-is-giving-free-money-101691901510373-amp.html"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Worldcoin scans eyeballs and offers crypto. What to know about the project from OpenAI's CEO"
+    excerpt: "Weeks after its international launch, Worldcoin is drawing the attention of privacy regulators around the world"
+    publishedDateTime: 2023-08-11T06:21:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 48
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_9dc6a68590435b2f10fedaa0db58331b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Worldcoin scans eyeballs and offers crypto. What to know about the project from OpenAI’s CEO"
     excerpt: "Weeks after its international launch, Worldcoin is drawing the attention of privacy regulators around the world"
     publishedDateTime: 2023-08-11T20:51:00Z
@@ -41,15 +57,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Worldcoin scans eyeballs and offers crypto. What to know about the project from OpenAI's CEO"
-    excerpt: "Worldcoin is the creation of Sam Altman, best known as the CEO of OpenAI, the company that has gained widespread recognition with its artificial intelligence chatbot ChatGPT."
-    publishedDateTime: 2023-08-11T10:08:00Z
-    webUrl: "https://www.timesunion.com/business/article/worldcoin-scans-eyeballs-and-offers-crypto-what-18290910.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 8
 
 secured: "Z9vZrK7ovLXxdZ+qIwIQ4Rsgnr8eU7WVLIpiUfT/yylDZsReAeUrVVs03Nbeg+toU4wjn4yDteyf0JtJwPEFFHpg06WzJlP1eHlXBOKqradClnc729ov24TtkvG25eeOw4EuioysJAIxrZAcjmcOFR3nnNv6NYXx5WDp4gW0Wi46ArEFDPx4F13qXFJS0NIeQZO6cWhjqQlBuaLyhn/7Zk52nf1jiBCbdcdlTbAsI+49D4Hk4OqVU3hgOkQvcHeshl1JYvrVH6S8OyUAGHRe42Oyg8/BvN4MQiDebSKIoZulgszv4mh9BU18T0nvf/xTdI9y76tCkkFLyk1bclTVGsR9IFVgCsB8hDskzeCBxUk=;n7zJu3Bi43h5AU5ZdJ95ng=="
 ---

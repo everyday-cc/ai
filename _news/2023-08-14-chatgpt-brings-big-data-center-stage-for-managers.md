@@ -7,7 +7,7 @@ originalUrl: "https://www.pionline.com/big-data/chatgpt-brings-big-data-center-s
 webUrl: "https://www.pionline.com/big-data/chatgpt-brings-big-data-center-stage-money-managers"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,16 +25,23 @@ images:
     isCached: true
 
 related:
-  - title: "The ChatGPT Code Interpreter: Why It Matters for Conversational AI"
-    excerpt: "Delve into the fascinating world of AI-driven conversations with the ChatGPT Code Interpreter. Discover how this innovative technology bridges the gap between human language and machine understanding,"
-    publishedDateTime: 2023-08-11T12:41:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2551230-the-chatgpt-code-interpreter-why-it-matters-for-conversational-ai"
+  - title: "Learning to be a writer? Clinic topics include ChatGPT and getting an agent"
+    excerpt: "Local authors and educators Gary Arnold and Alexandra Weiss will be featured in the August Saturday Writers’ Clinic beginning at 9:30 a.m. Aug. 19 at the East Bank Regional Library,"
+    publishedDateTime: 2023-08-14T11:00:00Z
+    webUrl: "https://www.nola.com/entertainment_life/learning-to-be-a-writer-clinic-topics-include-chatgpt-and-getting-an-agent/article_21363b8e-3316-11ee-87c8-1716bd0d6883.html"
+    ampWebUrl: "https://www.nola.com/entertainment_life/learning-to-be-a-writer-clinic-topics-include-chatgpt-and-getting-an-agent/article_21363b8e-3316-11ee-87c8-1716bd0d6883.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/entertainment_life/learning-to-be-a-writer-clinic-topics-include-chatgpt-and-getting-an-agent/article_21363b8e-3316-11ee-87c8-1716bd0d6883.amp.html"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 19
+      name: NOLA.com
+      domain: nola.com
+    quality: 42
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/8/8f/88fb72de-088d-11ed-9091-f3736f902ba2/6011b8319c193.image.jpg?resize=1024%2C756"
+        width: 1024
+        height: 756
+        isCached: true
 
-secured: "E1NAH4ZpdYD2Q8J5edvVNoAuFQFal3jrsQ0TTkk1fHWruFDpxqF4JoibrMMBIbbVUgv0jHCP8qzneXvYdm/zfWHTLSsVyio1Q8y2MPXPTjWgcTfquYcoSgaoCgstXJ89zFLXSIYnXdv5uAvyjy9wdQUmNgzt7b5pCOVmF8BKF2mlOr1vUEeZhvirN2uUwEHjvphqXq2CM3faAZkpYD2jKfjqwwPmRdfFTykC3J7E+Tc20ub+sceQu+ovigqupfNCJ2Ww6TLJykO1wU91zrwzUFSSA+PYgVzKFJuNnHDT/uTWftzwj4uQtdLhE6c3myLB275LJeQIO/uYunHS0WOXNWnL5Nfz2drL6zRGO23IPvI=;auEqnR8PQH5AbdZrmNluKw=="
+secured: "KxSADMPYcEoJ7oNAV+G3OFQKjEZUloIWgKmBz8aE/pLd+pYYSlcuxYANZfQDrf2rThwiiua7Qhs/a1qxkgGnYDYv6GSATPzq1N+HkURfQQbf96FsJcEDE2U7JOvQVNKl8eLJHYwtFJIEUSckgdw/JpmZDJc1t4zNqwyg1HVrnknddQI/+wLSprdt3zmjqjyINnFiE/aB9tt0dYJ8xExKRSw6zhqk6WrIoKt8H8Sg4PZ5Tuyg3ifb7P5MLCLdZjnxka/r57d2QXXrJ9KrlXAt7CjMLBeSZahMJm9FHpVVEM7IZaJbE8Hss+P9PYhpZNQMiTx+1ylMVsjhOvgwuVC7cgMerT+ZB4xYieiC0y4VXaN24+YSxtKIM6TSn78MYGP//5VHJiEdwbSjsll1A95Xb7qHgkrw1aXqUkCVGs+3ZC4HFSOdpBWEVf9ncDMUfPL7Fxogn+zh9Nv994dQA+PcYRseRKaCMtHSVHBNktZLi9a21oafRwx+l9f3vzpahQefD2bPChg3E85IpbHvxWbbQA==;Uj/BMU01SkMK+P7leJSx5g=="
 ---
 

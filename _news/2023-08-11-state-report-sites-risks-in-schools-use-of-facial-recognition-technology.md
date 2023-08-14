@@ -43,15 +43,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "NY State Report Cautions Against Facial Recognition in Schools"
-    excerpt: "In setting policy on facial recognition, the New York State Education Department will take a cue from a new report from the State Office of Information Technology Services that found the risks may outweigh the benefits."
-    publishedDateTime: 2023-08-09T18:24:00Z
-    webUrl: "https://www.govtech.com/education/k-12/ny-state-report-cautions-against-facial-recognition-in-schools"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 34
 
 secured: "oFgn33MR3irBJrYSdGHSgKrmQstJXN76PGJZFFvtIs9mmwLLE0zMD/d6nSFJCRsOb5mahrMcCtSpjGSAU7AscVQetZ3FJurYX19V1cY5H+bcCsfM5+2s9pdcYZKHc+9Y5Ryb2iEy8ZwA2wB4gJ3EfxtCb+2V7DuF9upgrP98TVoz18rckBzlVBDFEevld2m9tHYljfxPSv0orpTVdXWbT3nlzaFAtLrU+w9ReZasAMlZwjbaRKY8DEyAh4f27pbZ0gimGBYqgf8Z9/NU6hmddNmoOPwbfFIwzfSt2ncK3oHwoDG71JHbPaUZn9jGVaMzU88VT5fbkeLvOdEwVj/n5EQ+vZY1x6HpHu/juGboQvI=;97DsQJ3WUWq7r3/b/XldIA=="
 ---

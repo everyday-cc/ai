@@ -56,6 +56,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "AI isn’t great at decoding human emotions. So why are regulators targeting the tech?"
+    excerpt: "In addition to proposing the theory of evolution, Darwin studied the expressions and emotions of people and animals. He debated in his writing just how scientific, universal, and predictable emotions actually are, and he sketched characters with exaggerated expressions, which the library had on display. The subject rang a bell for me."
+    publishedDateTime: 2023-08-14T11:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/08/14/1077788/ai-decoding-human-emotions-target-for-regulators/"
+    ampWebUrl: "https://www.technologyreview.com/2023/08/14/1077788/ai-decoding-human-emotions-target-for-regulators/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/14/1077788/ai-decoding-human-emotions-target-for-regulators/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 50
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/6cc82996-4551-4f9a-9943-86e52a9bab05_3524.jpeg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "FEC takes first step toward rules on artificial intelligence deepfakes in campaign ads"
     excerpt: "The Federal Election Commission took a first step Thursday toward regulating the use of artificial intelligence-generated media in campaign ads by considering a petition for new rules and asking the public for comment."
     publishedDateTime: 2023-08-10T15:33:00Z

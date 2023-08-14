@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/five-emerging-use-cases-of-generativ
 webUrl: "https://www.zdnet.com/article/five-emerging-use-cases-of-generative-ai-in-commerce-according-to-mastercard/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -20,45 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Groundbreaking development of computer vision AI accelerator chip"
-    excerpt: "When employed in a security camera monitoring a rapidly-evolving active shooter situation, for example, the chip can facilitate real-time identification of different types of firearms to trigger an alarm automatically. This capability could be a game changer and potentially save many lives."
-    publishedDateTime: 2023-08-10T08:47:00Z
-    webUrl: "https://www.electropages.com/2023/08/groundbreaking-development-computer-vision-ai-accelerator-chip"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 71
-    images:
-      - url: "https://www.electropages.com/storage/app/media/2023/8-August/blueshift-ComputerVision.jpg"
-        width: 302
-        height: 302
-        isCached: true
-  - title: "Andes Technology and TetraMem Collaborate to Build Groundbreaking AI Accelerator Chip with Analog In-Memory Computing"
-    excerpt: "Andes Technology and TetraMem are proud to announce a strategic partnership aimed at delivering a fast, highly efficient, AI inference chip that will revolutionize the landscape of artificial intelligence and edge computing."
-    publishedDateTime: 2023-08-11T05:37:00Z
-    webUrl: "https://www.design-reuse.com/news/54584/andes-tetramem-partnership.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 31
-    images:
-      - url: "https://static.designandreuse.com/news_img2/homepage54584/ab.jpg"
-        width: 680
-        height: 383
-        isCached: true
-  - title: "Update: Andes Technology and TetraMem Collaborate to Build Groundbreaking AI Accelerator Chip with Analog In-Memory Computing"
-    excerpt: "Andes Technology, a leading supplier of high-efficiency, low-power 32/64-bit RISC-V processor cores and Founding Premier member of RISC-V International, and TetraMem Inc, a pioneer in analog in-memory computing,"
-    publishedDateTime: 2023-08-10T22:30:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/10/9863105.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "bzEgaSZ+adUchZs/a0Gu4HLX9/mqA1u8ffrbHz4D+pC9AqGi50UxrEhqCndYEoTsUtvizU0eq2tfVg3KASuM4xZR8C4jXecr4pyvVIG9URvrpKekDNjjoA3qXrHbBQkiz4l9hIor5i/eNf+LjwONnM7vejhdxGdyfA0tA7ZlhKG5NPc5AvcLWRAyV4tz5WnGZk3LqLOwsYN5ye8sNBjiQDpghaXk5aePTWD4ystqtArFucVMv+HQz9/BvYu3NRTVx0wWyzIyHtPsK8kSDu+ERmrWznHfjIpOYjUx7fOfNLcRxeciZExuFNPqSOyHWCZGHcTKpGn+rHnwKFMzhUwTQiDl3d/5GJPl+UB3EiHi2swcK3bxmYWOuO9WQ1uyr4RCZTnuQYFb6duZvFlbi7D9SP1Q059Ki8l7+E/kWT1MITTPp0SLXk7zM2mcF7QDeQPPy/wuwd5syzhDY0oI0DQ7u6GoHMMDIIW0A+4fjaJv1+aKtKQZKssXPiCdn89KddYyhjibYho9wIF8cl04d7SE4A==;geLShlre4gC8BKnRfN6wdQ=="
 ---

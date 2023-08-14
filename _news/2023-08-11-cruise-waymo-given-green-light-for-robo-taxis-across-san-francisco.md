@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "San Francisco Balks at Expanding Driverless Car Services on City’s Roads"
-    excerpt: "Local officials are worried that state regulators are too eager about a plan by the companies Cruise and Waymo to offer round-the-clock driverless taxi services."
-    publishedDateTime: 2023-08-09T18:31:00Z
-    webUrl: "https://www.nytimes.com/2023/08/09/technology/san-francisco-driverless-cars.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 48
   - title: "Despite Public Safety Concerns, CA Driverless Taxis Get Green Light"
     excerpt: "\"They're not ready for prime time,\" San Francisco Fire Chief Jeanine Nicholson said recently, adding that they have interfered with 55 recent incidents."
     publishedDateTime: 2023-08-11T14:10:00Z

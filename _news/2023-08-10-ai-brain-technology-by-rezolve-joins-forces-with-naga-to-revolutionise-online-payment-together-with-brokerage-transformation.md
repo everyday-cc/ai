@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Leading The AI Revolution: Best Practices For Executive Leaders"
+    excerpt: "Regardless of where you might be on the AI journey, it is a must-have conversation that includes leadership, executives and teams across the organization."
+    publishedDateTime: 2023-08-14T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/640653232a8f09e0f7c603ac/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 660
+        isCached: true
   - title: "Embracing The AI Revolution: A Guide For Industry Leaders"
     excerpt: "The obligation lies with every leader to seize this unprecedented era and harness the potency of this breakthrough technology."
     publishedDateTime: 2023-08-10T11:44:00Z
@@ -35,22 +51,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI Guidelines: A Resource for Public Sector Leaders"
-    excerpt: "Government and education institutions are wrestling with the best way to reap the rewards – and minimize the risks – of game-changing generative AI. This list of resources is meant to share guidelines"
-    publishedDateTime: 2023-08-09T23:38:00Z
-    webUrl: "https://www.govtech.com/sponsored/generative-ai-guidelines-a-resource-for-public-sector-leaders"
-    ampWebUrl: "https://www.govtech.com/sponsored/generative-ai-guidelines-a-resource-for-public-sector-leaders?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/generative-ai-guidelines-a-resource-for-public-sector-leaders?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/b6af86d/2147483647/strip/true/crop/940x490+0+44/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Ff0%2F6d%2Fa6d2d721b29727ce33dd54877096%2Fshutterstock-615057098.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Which Countries Will Win the AI Revolution?"
     excerpt: "Artificial intelligence, like a lot of new technology, will most benefit nations with ambitious and innovative economies."
     publishedDateTime: 2023-08-10T03:59:00Z
@@ -60,20 +60,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "RBC: These 19 stocks with an early lead in the AI revolution will continue to profit from rising demand in semiconductors, cloud computing, and more"
-    excerpt: "Companies jumping into AI now will set themselves up for long term success. RBC identified 19 stocks benefitting from AI developments today."
-    publishedDateTime: 2023-08-10T08:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-investing-strategy-rbc-2023-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
-    images:
-      - url: "https://i.insider.com/64d3e3f7a8ce53001a5942ea?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "WNG5vy6fdjrcvsqrg2ukjA1YsB9Xq9k1Ayra06flL2HFEvmgin15OTUYwxbWs2CULlix64XKwVQx60Xx5drMyPOWcnmtr03i8Sov26CeXw07DR5EtRGMN0Gx+CLIzGbU2kIZo3l+iZXEkmrG0+BgOZT+j1NjX7nx+oDQ4aPj19lSm4mVKyJu2dZv8849mojjOdP33G+fFrbqbiotRTY3y7XB8CbNHy/oB7vIDU1yPb0Qb2qfZlEf80LRc/o7LeWGy5w1PgYphop+D8fRlqr9NGGklyw60gk3LeLXoYgFHUH8Nz6y4D0weAY58g9koYD56P5B5+stFVZ9CUQmv27im+l8AyAuV/tiRuQmwYGssi4=;VyBfJ6c5gy1fiqikyaQriw=="
 ---

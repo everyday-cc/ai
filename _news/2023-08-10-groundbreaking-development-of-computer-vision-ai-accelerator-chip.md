@@ -7,8 +7,8 @@ originalUrl: "https://www.electropages.com/2023/08/groundbreaking-development-co
 webUrl: "https://www.electropages.com/2023/08/groundbreaking-development-computer-vision-ai-accelerator-chip"
 type: article
 quality: 71
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electropages
@@ -26,38 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "5 emerging use cases of generative AI in commerce, according to Mastercard"
-    excerpt: "\"Over the next two to three years, generative AI will power hundreds of capabilities across business and consumer applications,\" said Mastercard. Specifically, the company identified five emerging use cases where AI could be implemented to optimize different commerce sectors, including enterprise, finance, small business, retail, and travel."
-    publishedDateTime: 2023-08-10T13:36:00Z
-    webUrl: "https://www.zdnet.com/article/five-emerging-use-cases-of-generative-ai-in-commerce-according-to-mastercard/"
+  - title: "Amazon Develops Two Chips Dedicated to AI Operations"
+    excerpt: "Amazon revealed that it is developing two chips dedicated to artificial intelligence operations called Inferentia and Trainium.The two new chips developed by Amazon Cloud"
+    publishedDateTime: 2023-08-14T09:56:00Z
+    webUrl: "https://www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations"
+    ampWebUrl: "https://www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations/amp"
+    cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations/amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
-  - title: "Andes Technology and TetraMem Collaborate to Build Groundbreaking AI Accelerator Chip with Analog In-Memory Computing"
-    excerpt: "Andes Technology and TetraMem are proud to announce a strategic partnership aimed at delivering a fast, highly efficient, AI inference chip that will revolutionize the landscape of artificial intelligence and edge computing."
-    publishedDateTime: 2023-08-11T05:37:00Z
-    webUrl: "https://www.design-reuse.com/news/54584/andes-tetramem-partnership.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 31
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 74
     images:
-      - url: "https://static.designandreuse.com/news_img2/homepage54584/ab.jpg"
-        width: 680
-        height: 383
+      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/08/14/65373.jpg"
+        width: 1000
+        height: 562
         isCached: true
-  - title: "Update: Andes Technology and TetraMem Collaborate to Build Groundbreaking AI Accelerator Chip with Analog In-Memory Computing"
-    excerpt: "Andes Technology, a leading supplier of high-efficiency, low-power 32/64-bit RISC-V processor cores and Founding Premier member of RISC-V International, and TetraMem Inc, a pioneer in analog in-memory computing,"
-    publishedDateTime: 2023-08-10T22:30:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/10/9863105.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "5ktRerEg4TOpjLEvCtMd7rGcl4urb/RPOBYWeV18kQUJkYS4TFQiXe59+UJ7PD/HJxmjCs1XO/sSNGYNf02lbvNnZNtbz1cKGZjMnAnOoISnnd7DGIUVWBzh9wws1SYD1i43XZ/Bm9AX4uwOtVM/7qwfVYphXTLKH1PdaOryi3BvI/73mwI/1Y9LlTeWBIFfTgCGXXBomNFOQyOG4filvjK2pPTD9MQD0X40yphYMdGnemYUuh34Ysy2AX/jDuPxk+yZtzIQ+1bgzDEXcv3Y0wenbxf5komIfs3hihREcSrJPE2yp4YNai7qtsZ+XZ0WxDn4V7Nr8NE2xWQ9oZIiG4cXLy4+7RoSxhLvUDl7yIxeb00oge8YdmstKL1EphIRnbPbDz2nb8oJBRl2ZcO8k6GVh8HQ5j/Em4UKN23LmnF+iT5g4Tb1zgWdIuwkVl4diZDiRamwwUhGngdMgDSJPwf87GED2trvyKbbpthVPA0rw4HYrVlCzUKQKA91kIAluFR5JKb7+KXBlERJWoJi6A==;QR+T4fg4g2YlBIrZUpUSRg=="
 ---

@@ -22,22 +22,40 @@ topics:
   - AI
 
 related:
-  - title: "Here’s Why AI Is The Key To More Empathetic Customer Experiences"
-    excerpt: "If empathy is what makes us human, artificial empathy can help us deliver richer, more personal customer experiences at scale."
-    publishedDateTime: 2023-08-09T17:51:00Z
-    webUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/"
-    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/amp/"
+  - title: "Investing in Artificial Intelligence Stocks: Things You Have to Know"
+    excerpt: "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have."
+    publishedDateTime: 2023-08-10T05:15:00Z
+    webUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html"
+    ampWebUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Mint
+      domain: livemint.com
+    quality: 61
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c91091d4d15ec01469db67/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 658
+      - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
+        width: 600
+        height: 338
         isCached: true
+  - title: "Five Things You Need to Know to Start Your Day"
+    excerpt: "US imposes restrictions on investments in China. A debt crisis is brewing at Country Garden. Rice soars to highest price in 15 years. Here’s all you need to know today."
+    publishedDateTime: 2023-08-09T23:35:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-09/five-things-you-need-to-know-to-start-your-day-ll4dcfcw"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 32
+  - title: "Investing 'Summer Vibes' Drives Interest in Cruise and AI Stocks, According to New Apex Q2 2023 Investor Study"
+    excerpt: "The ANIO report analyzes investor data who trade through introducing brokers on the Apex Clearing Platform - across more than 1.3m Gen Z accounts and 5.6m accounts held by Millennials, Gen Z and Boomers, calculated from April 1 - June 30, 2023."
+    publishedDateTime: 2023-08-10T15:36:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/10/9862721.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "EMSlMmAULhr6B1LwgoDy0kgzaEDj0Oo6c/kcTIx0DX80Lui/OjYJEngTs26lKW7KtZ1pf0P/KiEBBBYY6Y74zqhpplU5IEN80xYgMGl3w5Vs6GI/Ov151gaXjzEd49MqOmhf5eCeAIRBnhI1UE2CgvYZA6lIVjnojwZhxrrX23iiI1Ow+3SAI2w6sgbFS/XXgPZrP8oswZk03Dcxc7+65qL8eCbTe19QsRLSBVq8h/iedXRD9adkgl4HuzDqiQKgWkzyAQ4vENQW0WfuEumk/dFZVsg3Pr35agapkMc4Cyyip8OiFbuqEv8hFLECcWs0Cyj6R1mUD9u49RqgIEutjpb6jg9faGfsL96OpcKMZf236Q2VMLj2LBlvkV0Ezxu5ehy9bZ1jY7spQ4274484MUVvubwxpPZJpOXk+ka7fGraZQb9qrIxPc2gh4HCQgkVbqDXUi7rVKVGAt+a1wbZYpOr3nz2RjL0y2/R75oaXnOesoV+o+lQcMEVF+jJie+rr7kdkaHNR6MXTtvQQQzGvQ==;kvBWtwz9ucrsoHgU9rGmrQ=="
 ---

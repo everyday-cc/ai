@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/futureverse-publis
 webUrl: "https://markets.businessinsider.com/news/stocks/futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space-1032541745"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Business Insider
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "After raising $54m in funding, Futureverse unveils ‘JEN 1’ text-to-music AI generator"
+    excerpt: "Most recently, Futureverse unveiled JEN 1, a new text-to-music generation tool in a research paper authored by Futureverse’s Altered State Machine innovation team. The team includes Dr. Alex Wang, Patrick Li, Boyu Chen, Yao Yao, Allen Wang and Yikai Wang."
+    publishedDateTime: 2023-08-14T09:25:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/after-raising-54m-in-funding-futureverse-unveils-jen-1-text-to-music-ai-generator/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 30
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2023/08/Shara-Senderoff-and-Aaron-McDonald-Headshot-2023-Credit-TCK-Photo-1296x654.jpg"
+        width: 1296
+        height: 654
+        isCached: true
   - title: "AI, Metaverse Tech: Outlier Ventures Helps Launch Futureverse Base Camp Accelerator Program"
     excerpt: "Futureverse, an AI and metaverse technology and content company, and Outlier Ventures announce launch of Futureverse Base Camp accelerator."
     publishedDateTime: 2023-08-14T01:24:00Z

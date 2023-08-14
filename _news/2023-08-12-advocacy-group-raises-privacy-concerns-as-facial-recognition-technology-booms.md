@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "NY State Report Cautions Against Facial Recognition in Schools"
-    excerpt: "In setting policy on facial recognition, the New York State Education Department will take a cue from a new report from the State Office of Information Technology Services that found the risks may outweigh the benefits."
-    publishedDateTime: 2023-08-09T18:24:00Z
-    webUrl: "https://www.govtech.com/education/k-12/ny-state-report-cautions-against-facial-recognition-in-schools"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 34
 
 secured: "3LPfM8FcuKpXpVQzfhkNv0uJkcHMwAs8uLqZCK689tgYHeDeRlNK35AwbtEf47lDl6R+FvFsKrFHbbsWakUvZ76bzJu4vWAYrvAeA0YG+6nw1qrQPDRx6/astWbDLudPYuetKsragwcwEwJMg+J1uT1DJ2OBj6o+RuyvB3g9OQAQ0DzJSJkA2rnwGiqUY8EwEPeyR6p4ExJdUazIymSJ6GBca4l6NQzqNdOpWkNr/lGnFANXGGeer+tHeN0KMZkQ0g/WYOJnOIRmleykSJtsPP/xJ7UreFfbCva2fbCJ7RUZI3QShoq/sXVu/RYb4HKhzkVlSJxS4a7ifZSNoCP0tOyFkTfarXbw3QnP9sclN6t32JDnOkIkZMgAqWG7+YRHthSGFdZphXh43/eYCvZLMnF13QHCOPM991/GmG6uQ4THNdlfCSnboDkcWXD1bLuSLZXf2cNb3zifz16wsoaomA9OHr4xhMOImT4nGcQYpn9bbjOaLYM0VP/dKH2FAS8VGMzB5bWfc/wZRDlWX5y0lQ==;b9rqv1VwWe/6E2atZWP50A=="
 ---

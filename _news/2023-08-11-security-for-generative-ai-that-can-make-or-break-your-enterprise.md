@@ -23,112 +23,91 @@ topics:
   - AI in Security
 
 related:
-  - title: "3 Areas Customers See The Most Potential For Generative AI"
-    excerpt: "In just a short period, we’re likely to see massive changes in how customers find products, engage with companies, and experience brands."
-    publishedDateTime: 2023-08-09T17:51:00Z
-    webUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
+  - title: "Cybersecurity In The Age Of AI"
+    excerpt: "Artificial intelligence (AI) is certainly not a new concept, but with the public launch of ChatGPT and the rise of generative AI models, it has take on new, dizzying momentum. AI is transforming the world of cybersecurity and evolving the threat landscape at a remarkable pace."
+    publishedDateTime: 2023-08-09T22:51:00Z
+    webUrl: "https://www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c90fd5ea55d543dd49763d/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d417926eef048c84b1ea3f/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
-  - title: "The threatening potential of AI and child abuse"
-    excerpt: "The U.K.'s National Crime Agency warned that the proliferation of AI-generated explicit images of children is \"normalizing\" pedophilia and disturbing behavior against kids."
-    publishedDateTime: 2023-08-11T05:59:00Z
-    webUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse"
-    ampWebUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
+  - title: "Black Hat 2023 Keynote: Navigating Generative AI in Today’s Cybersecurity Landscape"
+    excerpt: "Discover the challenges AI will bring to cybersecurity and the opportunities and future implications of security in an AI-dominated world."
+    publishedDateTime: 2023-08-10T20:31:00Z
+    webUrl: "https://www.techrepublic.com/article/black-hat-2023-keynote/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 87
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 63
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb0de59a-4578-48df-a0f2-52d127244c2e/438c3371-1ec1-405e-9325-a09ec771d10d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr081123-black-hat-2023-keynote.jpg"
+        width: 1400
+        height: 1050
         isCached: true
-  - title: "Generative AI Is Making Companies Even More Thirsty for Your Data"
-    excerpt: "The outcry over Zoom's tweak to its data policy shows how the race to build more powerful AI models creates new pressure to source training data—including by juicing it from users."
-    publishedDateTime: 2023-08-10T16:00:00Z
-    webUrl: "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/"
+  - title: "Black Hat USA 2023 Panel: Used Correctly, Generative AI is a Boon for Cybersecurity"
+    excerpt: "A Black Hat 2023 panel discussed the ramifications of generative AI, and included the former Cyber Czar for the Obama administration."
+    publishedDateTime: 2023-08-11T21:02:00Z
+    webUrl: "https://www.techrepublic.com/article/black-hat-2023-generative-ai-panel/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 61
     images:
-      - url: "https://media.wired.com/photos/64d430e957ff6ec62db8a934/191:100/w_1280,c_limit/Zoom-User-Data-AI-Training-Fast-Forward-Business-616146659.jpg"
-        width: 1280
-        height: 670
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
+        width: 270
+        height: 203
         isCached: true
-  - title: "Tackling Healthcare’s Biggest Burdens with Generative AI"
-    excerpt: "Spread the loveIn recent years, the healthcare industry has faced numerous challenges. From managing the overwhelming patient data to combating the increasing prevalence of chronic diseases, these burdens have put immense pressure on medical professionals and healthcare systems."
-    publishedDateTime: 2023-08-11T11:25:00Z
-    webUrl: "https://www.thetechedvocate.org/tackling-healthcares-biggest-burdens-with-generative-ai/"
+  - title: "PayPal keen to leverage AI for security solutions"
+    excerpt: "PayPal is leveraging AI to develop security solutions to combat the intensifying threat landscape. It is creating an ecosystem of security and fighting threats as a collective group. Covid, economic crisis,"
+    publishedDateTime: 2023-08-14T03:11:00Z
+    webUrl: "https://www.thehindubusinessline.com/money-and-banking/paypal-keen-to-leverage-ai-for-security-solutions/article67190686.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/paypal-keen-to-leverage-ai-for-security-solutions/article67190686.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/paypal-keen-to-leverage-ai-for-security-solutions/article67190686.ece/amp/"
     type: article
     provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 54
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 56
+  - title: "Top cybersecurity products at Black Hat USA 2023"
+    excerpt: "Here are the top cybersecurity tools, platforms, capabilities, services, and technologies launched at Black Hat USA 2023 that you need to know about."
+    publishedDateTime: 2023-08-09T23:15:00Z
+    webUrl: "https://www.csoonline.com/article/649183/top-cybersecurity-products-at-black-hat-usa-2023.html"
+    ampWebUrl: "https://www.csoonline.com/article/649183/top-cybersecurity-products-at-black-hat-usa-2023.html/amp/"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/649183/top-cybersecurity-products-at-black-hat-usa-2023.html/amp/"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 44
     images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/07/laundry-chart-1-1024x861-1-660x400.jpg"
-        width: 660
-        height: 400
+      - url: "https://www.csoonline.com/wp-content/uploads/2023/08/pexels-kevin-ku-577585.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 767
         isCached: true
-  - title: "Legions of DEF CON hackers will attack generative AI models"
-    excerpt: "At the 31st annual DEF CON this weekend, thousands of hackers will join the largest red teaming exercise ever for a group of AI models."
-    publishedDateTime: 2023-08-10T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/legions-of-defcon-hackers-will-attack-generative-ai-models/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 51
-  - title: "Why Reinforcement Learning Will Save Generative AI"
-    excerpt: "In this contributed article, Kim Stagg, VP of Product for Appen, knows the only way to achieve functional AI models is to use high-quality data in every stage of deployment. As businesses look for pathways to adoption,"
-    publishedDateTime: 2023-08-12T17:34:00Z
-    webUrl: "https://insidebigdata.com/2023/08/12/why-reinforcement-learning-will-save-generative-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
-        width: 1100
-        height: 550
-        isCached: true
-  - title: "Cloud vs. on-premises showdown: The future battlefield for generative AI dominance"
-    excerpt: "As well, the choice of where customers plan to run generative AI is split almost exactly down the middle in terms of public cloud versus on-premises and edge. Further complicating matters, developers report the experiences in the public cloud with respect to feature richness and velocity of innovation have been outstanding."
-    publishedDateTime: 2023-08-12T16:47:00Z
-    webUrl: "https://siliconangle.com/2023/08/12/cloud-vs-premises-showdown-future-battlefield-generative-ai-dominance/"
+  - title: "White House launches contest to improve critical infrastructure cybersecurity with AI"
+    excerpt: "The White House today announced the AI Cyber Challenge, a contest designed to improve the cybersecurity of the United States’ critical infrastructure. The contest was detailed during Black Hat USA 2023, a major cybersecurity event taking place this week in Las Vegas."
+    publishedDateTime: 2023-08-09T21:35:00Z
+    webUrl: "https://siliconangle.com/2023/08/09/white-house-launches-contest-improve-critical-infrastructure-cybersecurity-ai/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 33
+    quality: 30
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-risk-on-off-1024x574.jpg"
-        width: 1024
-        height: 574
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Image-2.png"
+        width: 850
+        height: 476
         isCached: true
-  - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
-    excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
-    publishedDateTime: 2023-08-11T12:04:00Z
-    webUrl: "https://diginomica.com/attention-enterprises-generative-ai-sexy-esg-has-teeth"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 19
 
 secured: "nghkKCqdXcI32w46YE3U4AcNcAAyMSaxBdJKSkCD/vL2AeKfy1NBTPWOMTEa4J5S/eQHeHdabBonovCvhgO+jtIEA8ZY/+ZYdx5ipZPvlyPYgw5TidQO9NhQ26CZcU0DA8+9Qm0QVDIS45gBw5DSypwc+96J0ByBUcjvSi0qHluxztqMi7b9/GH1aL029Mq2X8HtLStT7cw5pXrHwW1jV3Nksr1Key/sUC658WEQtKsVNrBdQPfnoRF0mcfRm6Jz5UtNN2DpGQSMtJILgXgxqtTCjH6o5gtV3qxeyDzbqL97yWkE+YUVS0Q0i0RFDaZuSrim8pJgKd54qT6h6w7gEfdbfMQhLrU0LkNr8mMmtE7EORiiF2pvDHAaIksyqtfnfPsPrJ5dnU2bJb6qPnaZEKZmJiUCk3rNAc/yl6EzBIDgGAVGEKgC3sjlc86ZYie94+JuzgzZUUnToQ3SeFx1atN5N9fcHNH9fVtn6Ff9o4/qiDYY6xct2VwOhiWTw9aXB/wT7FmtkAo+bT0VJCCRpA==;JYe85jntggcKG9GN19A2TA=="
 ---

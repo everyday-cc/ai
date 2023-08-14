@@ -89,15 +89,20 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Learn to create a ChatGPT AI bot with this course bundle"
-    excerpt: "You may have experimented with ChatGPT, and found it to be a useful tool on its own for work, school, or personal projects. But if you take the opportunity to study even basic coding, you can expand what you can do with AI simply by customizing your own chatbot ."
-    publishedDateTime: 2023-08-09T18:23:00Z
-    webUrl: "https://www.zdnet.com/article/learn-to-create-a-chatgpt-ai-bot-with-this-course-bundle/"
+  - title: "How To Invest In ChatGPT"
+    excerpt: "These include the Azure Bot Service, which allows businesses to create intelligent chatbots using Microsoft technologies, and Azure Cognitive Services to assist developers of natural language processing and translation tools. Brewin Dolphin’s Mr Moore ..."
+    publishedDateTime: 2023-08-14T11:56:00Z
+    webUrl: "https://www.forbes.com/uk/advisor/investing/how-to-invest-in-chatgpt/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/08/ChatGPT_image-e1692002280431.jpg"
+        width: 1188
+        height: 669
+        isCached: true
   - title: "How did DefCon hackers do against AI chatbots?"
     excerpt: "White House officials concerned by AI chatbots' potential for societal harm and the Silicon Valley powerhouses rushing them to market are heavily invested in a three-day competition endi"
     publishedDateTime: 2023-08-13T21:30:00Z

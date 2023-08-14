@@ -43,22 +43,15 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Human-plus-AI solutions mitigate security threats"
-    excerpt: "With the right human oversight, emerging technologies like artificial intelligence can help keep business and customer data secure"
-    publishedDateTime: 2023-08-10T14:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/08/10/1077088/human-plus-ai-solutions-mitigate-security-threats/"
-    ampWebUrl: "https://www.technologyreview.com/2023/08/10/1077088/human-plus-ai-solutions-mitigate-security-threats/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/10/1077088/human-plus-ai-solutions-mitigate-security-threats/amp/"
+  - title: "Security For Generative AI That Can Make Or Break Your Enterprise"
+    excerpt: "To mitigate the potential landmines, companies must adopt a zero-trust approach to protect their data and enable access to AI applications. Data protection becomes paramount as the potential for information breaches continues to grow. You can defend your organization against risks related to generative AI by implementing the following strategies."
+    publishedDateTime: 2023-08-11T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/security-for-generative-ai-that-can-make-or-break-your-enterprise/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 74
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/TeleperformanceCov_16-9Ratio.png?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Black Hat 2023 Keynote: Navigating Generative AI in Today’s Cybersecurity Landscape"
     excerpt: "Discover the challenges AI will bring to cybersecurity and the opportunities and future implications of security in an AI-dominated world."
     publishedDateTime: 2023-08-10T20:31:00Z
@@ -98,29 +91,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 56
-  - title: "Generative AI used to conduct cybersecurity drills"
-    excerpt: "A pair of recently-launched products use generative AI to actively train people on cybersecurity through the use of live simulations of real attacks."
-    publishedDateTime: 2023-08-11T20:22:00Z
-    webUrl: "https://www.accountingtoday.com/news/generative-ai-used-to-conduct-cybersecurity-drills-in-two-programs"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/bd302f2/2147483647/strip/true/crop/200x105+0+48/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc3%2Fe9%2Fd7a87c004bfe95e86c1840f263ae%2Fcybersecurity1223123.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Is Crucial for Healthcare Cybersecurity"
-    excerpt: "Healthcare organizations are among the most frequent targets of cybercriminals’ attacks. Even as more IT departments invest in cybersecurity safeguards, malicious parties infiltrate infrastructures — often with disastrous results."
-    publishedDateTime: 2023-08-11T18:03:00Z
-    webUrl: "https://www.unite.ai/ai-is-crucial-for-healthcare-cybersecurity/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 34
   - title: "White House launches contest to improve critical infrastructure cybersecurity with AI"
     excerpt: "The White House today announced the AI Cyber Challenge, a contest designed to improve the cybersecurity of the United States’ critical infrastructure. The contest was detailed during Black Hat USA 2023, a major cybersecurity event taking place this week in Las Vegas."
     publishedDateTime: 2023-08-09T21:35:00Z

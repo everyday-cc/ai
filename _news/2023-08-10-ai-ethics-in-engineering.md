@@ -7,8 +7,8 @@ originalUrl: "https://www.imeche.org/training-qualifications/training-details/ai
 webUrl: "https://www.imeche.org/training-qualifications/training-details/ai-ethics-in-engineering"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Institution of Mechanical Engineers
@@ -38,20 +38,6 @@ related:
       - url: "https://dmm0a91a1r04e.cloudfront.net/PulG0FV8kDmdip9zzHuOxjdELCc=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F08%2F10%2Fadc11d76-cf21-4e5d-bd9b-a88977175426_jpg.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Best AI ETFs in August 2023"
-    excerpt: "This ETF debuted in September 2016, tracking the Indxx Global Robotics & Artificial Intelligence Thematic Index. It holds companies that are poised to benefit from increased adoption of not only ..."
-    publishedDateTime: 2023-08-09T17:12:00Z
-    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-etfs/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 39
-    images:
-      - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/08/09032927/GettyImages-1495043596.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "mrh9rL4sNUdOW+8cMpPboVy9YLZ6lCsmtwpJehTmAe0gOl+1SS5hpzvyeI1ngyz+E0tN1LKc2ayaoZrrVP32Xkvv4MY0zvlttLBtQ/Qiw8SOAFbgN8ebTFPn+BB3zLfcZsnVzXc8Gb7CT3140bbCZW9sJ6yhBeUj1aGIMJCK1NRO4SywrHDQwiuOZbc48XzsH8bW+erhHj8D/LhnI8WElN/H3ariUkw8ATQClqMTORoSC8MdiMBi5jpFAHcb8T67NwMyC6WDv8ZkbUk9g4Yq06HBnt8bFAiCm2NHmmgz+L/ypDXTjdY7v06RaRqnrqSTWyWT0TxPRTX3kw9WHDmg2XQO+q5E6XhztK3kufELMM4=;4KuPBXty3PX7DBWd2HRu/A=="

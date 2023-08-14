@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artif
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Here Are the Top AI Stories You Missed This Week"
+    excerpt: "If you’re behind on what’s happening with the robot uprising, have no fear. Here’s a quick look at some of the weirdest and wildest artificial intelligence news from the past week. Also, don’t forget to check out our weekly AI write-up, which will go into more detail on this same topic."
+    publishedDateTime: 2023-08-12T19:30:00Z
+    webUrl: "https://gizmodo.com/top-artificial-intelligence-stories-zoom-disney-google-1850723427"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
   - title: "Five Things You Need to Know to Start Your Day"
     excerpt: "US imposes restrictions on investments in China. A debt crisis is brewing at Country Garden. Rice soars to highest price in 15 years. Here’s all you need to know today."
     publishedDateTime: 2023-08-09T23:35:00Z

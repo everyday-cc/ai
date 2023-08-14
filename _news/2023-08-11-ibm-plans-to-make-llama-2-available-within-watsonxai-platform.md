@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/"
 webUrl: "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/"
 type: article
 quality: 88
-heat: 130
+heat: 110
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM to make Meta’s Llama 2 available on Watson X"
-    excerpt: "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,"
-    publishedDateTime: 2023-08-09T18:45:00Z
-    webUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792"
-    ampWebUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 74
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
-        width: 1920
-        height: 720
-        isCached: true
   - title: "IBM deepens AI relationship with Meta, plans to add its model to Watson studio"
     excerpt: "IBM continues to expand its relationship with Meta on the frontier of artificial intelligence. Here's what's happening."
     publishedDateTime: 2023-08-10T15:32:00Z
@@ -77,15 +61,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "IBM Collaborates With Meta to Integrate Llama 2 into Watsonx.ai Platform"
-    excerpt: "IBM announced that it would host Meta's Llama 2-chat 70 billion parameter model in the watsonx.ai studio, with early access  available to select clients and partners."
-    publishedDateTime: 2023-08-09T18:33:00Z
-    webUrl: "https://analyticsindiamag.com/ibm-collaborates-with-meta-to-integrate-llama-2-into-watsonx-ai-platform/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 33
 
 secured: "fvJU8gTM+PlTsQGA/BHzyz4Stt3ujjhJ5Ya9GWjnIBTpBX36jKtslHpunrb97IrLeSLi6p4AT9Btwq5uPtxir+FIQ88zDJeY76UXhzzHoH0AVOynZsWSeKDojWdBsZNoGfeRwI54gyC+U2mn7BOe78gyxWlO0Xl4fiYvV59LC9MiHvCnPpcw5cW+xwnqrHdNVo0Jia7jP5EIaH8BOoSZIcbDk1Is2wZIcDk2H9qEE1YFza4TZVdC+Tp0mOqaqG1B63o9AHjrQvzvaWDAja4kl59QfU2gZiCosJEHD93MU+LVHXFNnX5JR4CxWxyzDGqtFSe9XsR8KgugitktIf7uZUHkhaBWH35K7gi3cSlV37fr9NEZdjizrvIcmwmUIBTPqgegE2FUUzm+ZO4Wm1y+0oGQ9/UqC00nInUXyDeTW4+RGbFZFn8Y0eUHE6E8UUSzu2hexrQJwwUSfHZWUkt6F32WBRFIAFMsot/DTa6Ysl6fU9nOsNBb61NEjh32A4H1qp2/eaf3z/eNBQI1XlYyrg==;dpLTnk4Krs6f6QIbvrfm3w=="
 ---

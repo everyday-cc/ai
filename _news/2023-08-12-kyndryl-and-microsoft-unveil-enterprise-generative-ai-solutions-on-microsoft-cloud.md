@@ -109,15 +109,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 34
-  - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-    excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help ..."
-    publishedDateTime: 2023-08-09T17:22:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20230809sf78393/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 33
   - title: "Kyndryl taps Microsoft generative AI for new service, moves toward future profitability"
     excerpt: "The IT infrastructure provider announced the joint project with Microsoft on the heels of announcing significant 1Q 2024 earnings where Kyndryl executives said the company will return to profitability in the next year, at least a year ahead of what financial analysts predicted after the company spun out of IBM in November 2021."
     publishedDateTime: 2023-08-11T01:24:00Z
@@ -127,15 +118,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 26
-  - title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
-    excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable"
-    publishedDateTime: 2023-08-09T18:28:00Z
-    webUrl: "https://www.datanami.com/this-just-in/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprise-grade-generative-ai-for-business/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 11
 
 secured: "8CfItjRJxm8KkEJRZEZEFqlMYMn8BTkK7puoXumRpBVGYrmbh6LePcpZcA8ti33BQpSrQ62ywl3faMUW9qxaQTyO3JtGLa7MRbrxjWSclU8ZK+OW4MgSf0W2mVtVkATPnC1mrxTjufMSb5FIXspi3j8Ds9nV7JmF/5HNh1ijBdaVvbmgNvYucqfhb32toNuIN853Rrs0d+o7mGPyp0iSUzooOYqJjwXk51EwlPazWrSUyg8jhgGe0FQK4/9feEf2uikSXdDE1iwcZFw20jlY8e4ByIahaC9DwQFKiLzsgFpwycqBc2sByxjSYs+wYd2eR6TWhbnhNBUPtva2T+OwkLR5sld0W8iB78R330enqPE=;ZXUwWhR57+M7EQhSSKXjLQ=="
 ---

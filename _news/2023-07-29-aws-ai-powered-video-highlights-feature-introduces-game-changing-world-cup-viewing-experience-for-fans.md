@@ -1,26 +1,32 @@
 ---
 category: news
 title: "AWS AI-powered video highlights feature introduces game-changing World Cup viewing experience for fans"
-excerpt: "Sports fans continue to seek a dynamic viewing experience whenever they decide to tune into a live sporting event. The advancements in technology have only raised expectations. Creative uses of graphics,"
-publishedDateTime: 2023-07-29T10:00:00Z
-originalUrl: "https://www.wgmd.com/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-for-fans/"
-webUrl: "https://www.wgmd.com/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-for-fans/"
+excerpt: "The technology utilizes services from AWS, including Amazon Rekognition. \"This is leveraging computer vision and a lot of other services from AWS to help us develop what they did for the World Cup ..."
+publishedDateTime: 2023-07-29T01:59:00Z
+originalUrl: "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans"
+webUrl: "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans"
+ampWebUrl: "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans.amp"
 type: article
 
 provider:
-  name: WGMD
-  domain: wgmd.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.wgmd.com/wp-content/uploads/2022/04/Logo-HighRes.png"
-    width: 600
-    height: 242
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/07/1200/675/Womens-World-Cup.jpg?ve=1&tl=1"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "p3B9t/hAfqk1E42xntacjWi35t6IvAawZV8ToJfZ8vGSQnP4Cj6ngAx38Vf/pMDXKv+PEvCy4PT5AZZbfCTLOI46eRPQktEN6sc/1f6rBG8fN37vSNwCK+yIGgUem3ayYphG74+8qJpK9beP9vwvhgrGKeE+DIaVNNDkCzf+dyUyeF+2pJBamecEH04nKFo7/1mefGOejfaxd26C44SQpTFnDevmzVo1WhdcOCjbIxFatQVBDa/+EHoIYlMfrWBkpjP2Vl4xDdDmTyFVhXTDHZZDomDGUhIm8tSH7OHzu2twy7U20NebPy5uLRySuoWNGXUkf0oBZgNLPjihPDBg+NVScgWo5iFxLT8mZRPa670=;6iAIjbq+yvQusmHC070diw=="
+secured: "G+otCCoPVxzrIHuZvyNXHj0aPpqGp3WWIcYpeX2/sws0CM/6vTE2R+qDrJ5yl7eqDwcYX5rdxeloQo6u4HXZyw6q1yvsHuLDN2APJ23ma+5cxoHxAN9iEqfc2pr7wSjp6FJQ9ZyI/xax0wTfJJgB+C1tozPlHWqpAQ7qSVW5wHUf5V/h+50ZgPwvQRXR5vjCvUU3mR0w2qn46xrNOVIWSNbqlII4uOMEhIAQd1e4M3oP3rDXHztetx5GGYwKIL9p4gPjCwQmgMKQjFcrVUDo+qi92gWfyzGMsDScxP0lgebdId26juE0SkZh9JLzMCvGGg9eOIbgpb2UI+yp8mTCQCdH5cIBk9AHxKNAK/wuE2A=;piu95x56HZxpX715NeW8+Q=="
 ---
 

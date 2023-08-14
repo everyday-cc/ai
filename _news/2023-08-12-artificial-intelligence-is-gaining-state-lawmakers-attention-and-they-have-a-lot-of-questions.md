@@ -3,26 +3,27 @@ category: news
 title: "Artificial intelligence is gaining state lawmakers' attention, and they have a lot of questions"
 excerpt: "Legislators seek ways to protect constituents while not hindering advancements in medicine, science, business, education and more."
 publishedDateTime: 2023-08-11T21:15:00Z
-originalUrl: "https://omaha.com/news/nation-world/government-politics/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/article_ce000d2d-7e54-5b7f-9ff9-8270d3cc99dd.html"
-webUrl: "https://omaha.com/news/nation-world/government-politics/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/article_ce000d2d-7e54-5b7f-9ff9-8270d3cc99dd.html"
+originalUrl: "https://tulsaworld.com/news/nation-world/government-politics/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/article_edc7c5c4-68b4-5bcb-bc8d-6daab5e92a5b.html"
+webUrl: "https://tulsaworld.com/news/nation-world/government-politics/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/article_edc7c5c4-68b4-5bcb-bc8d-6daab5e92a5b.html"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/e0/ce000d2d-7e54-5b7f-9ff9-8270d3cc99dd/64d269758c399.preview.jpg?crop=882%2C463%2C168%2C630&resize=882%2C463&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/e/dc/edc7c5c4-68b4-5bcb-bc8d-6daab5e92a5b/64d26977a646b.preview.jpg?crop=882%2C463%2C168%2C630&resize=882%2C463&order=crop%2Cresize"
     width: 882
     height: 463
     isCached: true
 
-secured: "kzUmprAhKlCNxfSKdAirxmF00Rg6+0D7VzJq2zJXoX59uO05hSqjp+pQOMYnJW6O9iyMt6cVkIuulroQVCG8GJsFb1hqZjH5NgVgw0kQYgix3Fs91rucCHnRCe9ahKjhLS7yKK5k5HMOchZdWTzq3TF57ATEOHbAkkVYns+dWi9TyfBFkyr6FTaQUz7bR9DVDLc4tUZ2cMHvJR4j4MIzen4XEnUgAFYfYa/V20sk35bEbCw3qUZB6wTuRNFpJc9wZMfOA5Woyg6sC++Ji4vuZMJPDCQcF2Hayhxo1NSGsYHC25AoBnSaHYKzYd+mV5igRSxo7BH/aZZ2+ZidrhxZ7JI/NC1sBF4n49wzh4bs8Dg=;vXK95xedcKY3l3loMoiHiw=="
+secured: "p36qL+/hqlXG+9KVDeLMZsID/qZbAa5ggYCQGd1643u+7AFqQeTwvcLuHRHr/j5Y8jg0z6MYU15/ZeRemMVCuocYWPjNChmTUbhaGzc5CD6sr8qAO98urwobCfDyx6Cn6wPSzTBYekqy563YGg53AwmqEgGhCZvXh+UfUXHNcWjp84rciq54TfD/K4SeYRCum92PctUurPWMZtRIed7WGMcOwiOJeY6cuMvsKJaq3saBEA7YDNh9kLuAZ0f7zwQkkB50If7jBcnxp3JZwChSDIoTvV43KVVS+nUoPGYmsFzjbne0KuxXgblKVDwuTpjk3Cxsyaxdb52FodbpSQ8rr8LGa+xytLpPq5JLw452vb4=;mEBL+GgFJdKDxLcoQQ77gQ=="
 ---
 

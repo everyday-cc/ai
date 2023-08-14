@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI This Week Was All About Chips and China Investment Rules"
+    excerpt: "President Joe Biden issued an executive order to take effect next year that will limit US investments in China, focused on chips, quantum computing and AI companies. The UK is considering whether to follow suit, citing a need to strike a balance between promoting national security with the economic necessity of trading with China."
+    publishedDateTime: 2023-08-12T11:00:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-12/ai-news-this-week-chips-and-china-investment-rules"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Biden signs executive order banning investment in Chinese AI, other tech"
     excerpt: "President Joe Biden signed an executive order Wednesday banning U.S. investments in artificial intelligence and other technologies that come from China."
     publishedDateTime: 2023-08-09T23:28:00Z

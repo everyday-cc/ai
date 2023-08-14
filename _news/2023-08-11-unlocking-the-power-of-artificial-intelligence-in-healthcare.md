@@ -27,70 +27,75 @@ images:
     isCached: true
 
 related:
-  - title: "Get All Of That Data – And Give It To Patients! New Models For AI In Healthcare"
-    excerpt: "Sontag points out that we may end up using AI to augment decision-making, partly through the use of the data that we have. Going back to the example of UTI, he illustrates its commonality (affecting one in two women during their lifetimes) and notes that UTI is the third most common condition for which antibiotics are prescribed."
-    publishedDateTime: 2023-08-10T14:50:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/08/10/get-all-of-that-data--and-give-it-to-patients-new-models-for-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/10/get-all-of-that-data--and-give-it-to-patients-new-models-for-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/10/get-all-of-that-data--and-give-it-to-patients-new-models-for-ai-in-healthcare/amp/"
+  - title: "Upgrading Healthcare Security Strategies To Combat AI-Based Threats"
+    excerpt: "• Use AI to combat AI: The bright side of artificial intelligence is it can deliver as many effective capabilities to cybersecurity solutions as it does to criminals. Software should leverage sophisticated AI-based tools, including optical character recognition and algorithms that recognize “red flag” keywords that could indicate a breach."
+    publishedDateTime: 2023-08-14T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 100
+    quality: 121
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d4f8266b38ace2a4d9d11b/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/820808708/0x0.jpg?format=jpg&crop=4765,3178,x0,y314,safe&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Harnessing artificial intelligence for better patient care"
-    excerpt: "The integration of artificial intelligence (AI) provides one of the most promising—and fraught—advancements in the ever-evolving landscape of the health care sector. Electronic records let physicians access patient information more easily."
-    publishedDateTime: 2023-08-10T14:32:00Z
-    webUrl: "https://medicalxpress.com/news/2023-08-harnessing-artificial-intelligence-patient.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-08-harnessing-artificial-intelligence-patient.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-harnessing-artificial-intelligence-patient.amp"
+  - title: "Human-plus-AI solutions mitigate security threats"
+    excerpt: "With the right human oversight, emerging technologies like artificial intelligence can help keep business and customer data secure"
+    publishedDateTime: 2023-08-10T14:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/08/10/1077088/human-plus-ai-solutions-mitigate-security-threats/"
+    ampWebUrl: "https://www.technologyreview.com/2023/08/10/1077088/human-plus-ai-solutions-mitigate-security-threats/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/10/1077088/human-plus-ai-solutions-mitigate-security-threats/amp/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/health-data-1.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/TeleperformanceCov_16-9Ratio.png?w=3000"
+        width: 3000
+        height: 1687
         isCached: true
-  - title: "AI Helps Detect Muscle Mass in Head and Neck Cancer Patients"
-    excerpt: "Among individuals diagnosed with head and neck cancer, an AI-driven evaluation of sarcopenia could be conducted at regular intervals during treatment."
-    publishedDateTime: 2023-08-13T14:05:00Z
-    webUrl: "https://www.medindia.net/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+  - title: "In the season of AI, writers are feeling the heat"
+    excerpt: "Never in a million years could someone have believed that AI or robots would write poetry, paint, make music, etc"
+    publishedDateTime: 2023-08-10T06:52:00Z
+    webUrl: "https://newsmeter.in/top-stories/in-the-season-of-ai-writers-are-feeling-the-heat-716206"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
+      name: newsmeter
+      domain: newsmeter.in
+    quality: 39
     images:
-      - url: "https://www.medindia.net/health-images/an-artificial-intelligence-accurately-predict.jpg"
-        width: 300
-        height: 250
+      - url: "https://newsmeter.in/h-upload/2023/08/10/352126-whatsapp-image-2023-08-10-at-121338-pm.jpg"
+        width: 753
+        height: 407
         isCached: true
-  - title: "AI-driven muscle mass assessment could improve care for head and neck cancer patients"
-    excerpt: "Researchers from Dana-Farber Cancer Institute have found a way to use artificial intelligence (AI) to diagnose muscle wasting, called sarcopenia, in patients with head and neck cancer. AI provides a fast,"
-    publishedDateTime: 2023-08-10T15:00:00Z
-    webUrl: "https://medicalxpress.com/news/2023-08-ai-driven-muscle-mass-neck-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-08-ai-driven-muscle-mass-neck-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-ai-driven-muscle-mass-neck-cancer.amp"
+  - title: "Generative AI used to conduct cybersecurity drills"
+    excerpt: "A pair of recently-launched products use generative AI to actively train people on cybersecurity through the use of live simulations of real attacks."
+    publishedDateTime: 2023-08-11T20:22:00Z
+    webUrl: "https://www.accountingtoday.com/news/generative-ai-used-to-conduct-cybersecurity-drills-in-two-programs"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 52
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 37
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/ctscan.jpg"
-        width: 1920
-        height: 1329
+      - url: "https://arizent.brightspotcdn.com/dims4/default/bd302f2/2147483647/strip/true/crop/200x105+0+48/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc3%2Fe9%2Fd7a87c004bfe95e86c1840f263ae%2Fcybersecurity1223123.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "AI Is Crucial for Healthcare Cybersecurity"
+    excerpt: "Healthcare organizations are among the most frequent targets of cybercriminals’ attacks. Even as more IT departments invest in cybersecurity safeguards, malicious parties infiltrate infrastructures — often with disastrous results."
+    publishedDateTime: 2023-08-11T18:03:00Z
+    webUrl: "https://www.unite.ai/ai-is-crucial-for-healthcare-cybersecurity/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 34
 
 secured: "CryQ+yaXXC7i2hw07VSuXLbMLZbpYJA2eXMcUsoBYsLWIpQ3u0TMOOjYPNkKMCMgZXZnigr8P+lhA9PqVbSuD/RbGbR/dcquLXA8L6OB7/hWVCyL4QmJ4gnfFIDj8I+aqlF0Zmh0bopxXTj93mRzgyB4uI4IS66D9FESSzl3BuTBnnxBpFWUy3Lv1iV5+sLfefeZHlWxamh1N0XA9VTO7duVGALiZ0DRU4BGRbXFh7vLbb6NF/VYMQ5DguWFMuCJDoOzXbhwD//z2iv2ZX+x31KGh2bSyMiU9jOMcn9sCNlA2dp33/wMloY9Dj6a2Ag6+h5/r43NkHbcIJ/scYrJ6GlJOSIJCU3fOyC7X+1f3eM=;1mz1/SWtmMSZ6Q0nQo0R4g=="
 ---

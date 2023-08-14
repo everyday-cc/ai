@@ -38,6 +38,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "After raising $54m in funding, Futureverse unveils ‘JEN 1’ text-to-music AI generator"
+    excerpt: "Most recently, Futureverse unveiled JEN 1, a new text-to-music generation tool in a research paper authored by Futureverse’s Altered State Machine innovation team. The team includes Dr. Alex Wang, Patrick Li, Boyu Chen, Yao Yao, Allen Wang and Yikai Wang."
+    publishedDateTime: 2023-08-14T09:25:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/after-raising-54m-in-funding-futureverse-unveils-jen-1-text-to-music-ai-generator/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 30
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2023/08/Shara-Senderoff-and-Aaron-McDonald-Headshot-2023-Credit-TCK-Photo-1296x654.jpg"
+        width: 1296
+        height: 654
+        isCached: true
 
 secured: "u3HpLbyXDm7lEpClVNfqM+cpTwMMijuuRFDn1rB3OlSz12kyqU8EswxFjjYASR0HhtOyw82iiAt5DGMa8pqvohUssbwOfHLzN+oXWHb2Z7Jl4zpVgbXA8Qgtjlz+5ChXJ4poG0erPRQpOetGxAgpz+R3SVI9Y6DBH5qcMk5mQlh0QN6c6z1sC4AH9m5xAv0ut4sH37AJk7yLqtTqGY59d6SQAp3QO7UzTeEIxGBsM76B57jiegHa7IwyLHJTHybp7f1PLSHiEIVk+DFgOUSkWKYqnFz1xaZfpOiiCuG0+ZMiIG1YFwx6K80jAT18HUv9THpDBklSd+Sb/MnPBeP5Y8CBX3FMGwHmEvofm7doFsM=;LN2PoQ0IvjTMz6JIgy3Fiw=="
 ---

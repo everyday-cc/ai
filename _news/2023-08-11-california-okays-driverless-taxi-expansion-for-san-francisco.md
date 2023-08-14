@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/transportation/california-okays-driverless-t
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true"
 type: article
 quality: 59
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "San Francisco Balks at Expanding Driverless Car Services on City’s Roads"
-    excerpt: "Local officials are worried that state regulators are too eager about a plan by the companies Cruise and Waymo to offer round-the-clock driverless taxi services."
-    publishedDateTime: 2023-08-09T18:31:00Z
-    webUrl: "https://www.nytimes.com/2023/08/09/technology/san-francisco-driverless-cars.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 48
   - title: "Cruise, Waymo given green light for robo-taxis across San Francisco"
     excerpt: "Waymo, Cruise self-driving cars can charge for taxi service. Companies have promised thousands of additional cars on San Francisco streets."
     publishedDateTime: 2023-08-11T01:19:00Z

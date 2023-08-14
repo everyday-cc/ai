@@ -7,7 +7,7 @@ originalUrl: "https://www.techopedia.com/leveraging-multimodal-ai-for-enhanced-h
 webUrl: "https://www.techopedia.com/leveraging-multimodal-ai-for-enhanced-healthcare-decision-making"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "SDSC Explores Deep Learning Multimodal Models to Enhance Early Fire Alerts"
-    excerpt: "Researchers at the San Diego Supercomputer Center (SDSC) at UC San Diego have developed new deep learning models to continue improving"
-    publishedDateTime: 2023-08-09T19:04:00Z
-    webUrl: "https://www.datanami.com/this-just-in/sdsc-explores-deep-learning-multimodal-models-to-enhance-early-fire-alerts/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
 
 secured: "/FV2WeiL42r1VZj0QSYCcs4+q6/6/78CMrJjy1KzajcHkNwM9vMvrBCMDL4P5hi8NocihmCm15cFMmKJ6NXZjzZidbtvamKRBn3v6I+5RKla48J8HHLlT3c1WOieBZea7ky+JsonyjfykYvYZOZJ88J+giqwT5soKZ1PAxRA8igoek9xha0RxYWmaxEpCxvqzCsMXalwxVN00IwcQ4AIa4BkGTSunG9aWqEQVu2v5zfbh/P1Gd0hk3P1eU4kPDKfbawZKU7IQ+95Vg/K43zai0LRCSJq0fHMB8a9fyTMzVDy5wMcMxlRHiupURErRchaAJkH/EwDr7oirsDb60/2paQEyAD0vpR2Og8YC1XSuA4muqW37dvPOEKrnMk1b6Kw7wV12ElUAucCoHKrLCpZHi1P32d9s88T8q+p4DRgxd8ttQGAXojAdtXDacIjAD3k3Q0/uTgcyXIUR5JWaX8YyWE+5BI8iKS+a5mxXCq8sNiftnh7DxJ09/UrGIqTU0F+LShB6TR0fnCiiJlMBJNztg==;I4e18T9tOxJOil62ow0r1A=="
 ---

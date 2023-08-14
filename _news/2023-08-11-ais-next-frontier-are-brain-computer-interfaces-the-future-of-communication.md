@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontie
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/amp/"
 type: article
 quality: 85
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AI Landscape Emerges For Employee Communications"
+    excerpt: "A key finding is that implementing AI in employee communications requires a clear purpose and strategic integration."
+    publishedDateTime: 2023-08-14T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/14/ai-landscape-emerges-for-employee-communications/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/14/ai-landscape-emerges-for-employee-communications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/14/ai-landscape-emerges-for-employee-communications/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Ioc9be+IdAK0myLArY0mu5GDCPRIMh3TNbSx6hUjiOLCtnC82UAX9pUk7bk+gKZf0kIVIdjSnQjifTah4OsGNejDLqT91qsE7yLf5pKpBQKMIKW671QSAgC0oc5m6cdPn8NwQwxYss5U/eJgoi37nanJpNyraMD2El13fnEs/P0+/Jo1YYzgQ8JzsaEA57rmhqcF//TDyoUHC3zKQVxkS5SbyEUYHyI09HzZFgW9uaAH0qJmuI5tL4hkOJBVN/Iyyur97YTrKVIzdmihV3hvGWKQqW7UADXJd6KDpdNJoK2S/3HHCqyrRI5KZejjBtGdwZ7UzLFItM1XE1CH/ZdLVCccz/LQl9u5U20iqI7NTJbw7gdi8+V8slDttz/5lVG7Or9sLFXYGSylOOJTi5Cb/6s6+VhKAT0ujrI6nif2tDIGPyUGG1HPvxYGNRAVUtNqCQWheYF2p/GOdnID26o4yQGWtQxYFU3P4XNL/U6BeNl7DRhau3t1bJvWjdCZy6E+tPci9g6upQsBHWwhsT0FKA==;NBnIGIpN0t3mb8b7/ZKKxw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/ai-new-turing-test/"
 webUrl: "https://www.wired.com/story/ai-new-turing-test/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1280
     height: 670
     isCached: true
-
-related:
-  - title: "Turing Wants To Unleash Human Potential Through AI-Powered Tech Services"
-    excerpt: "In 2020, when the Pandemic mandated the move to remote work, Turing raised $32million in Series B funding to define a future where companies could push a button to spin up their engineering team instantly."
-    publishedDateTime: 2023-08-12T10:46:00Z
-    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/12/turing-wants-to-unleash-human-potential-through-ai-powered-tech-services/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
 
 secured: "JXoKiVmQhbBNzzgmcOPOxO5M6djckLdh/crRifNj4Y2FcV8vS4psVSrwtA3bB3aK//auXXUULhUdht+GiVLH5gntnVv1EXp6xdWXaSQiSQ7E8yNuwGSzQRpTXBeEPKKlMBtBz8RqZ9wJOygMG7+XNLe6Zd4n6PvLDrC0GPZe9PdGYP5W8SHEvN+fvczOjhOi/siRuos5Rp+iloa6yU152vZzzHuPYFhEXJB4mRwLoXLmrO+MjvUTTEqCoHkyPXJXk8ba5eCqCPIMRgAP9/JDZBUWXv8mo4BOHFWYkY/trr2dW8QXXTQWKKGHBvEyEvpWla0eIp8cPysyD+O1zKAECGQjJImwDMgtdxEsOK0d0rdp5F1cSCbEFGhB3pGXJlg9vTFNo7OuHqKI5OPAjuEhtRtbDXeH5UlZQMd/phfBmjQupyLbqp9a2pDVK8/zuk4t6MdVWK8qrCr7Dd+YUSF7tiUTUdP2dG8FArwHBcCkR9zw/WKI4xhw+B6pCPCTTOLUWUUUTQxM19RoeaxrxKM8xg==;lhgaKprasQWrdCbCI4dsbg=="
 ---

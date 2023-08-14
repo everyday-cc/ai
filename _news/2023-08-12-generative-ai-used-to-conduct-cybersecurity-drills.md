@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Cybersecurity In The Age Of AI"
-    excerpt: "Artificial intelligence (AI) is certainly not a new concept, but with the public launch of ChatGPT and the rise of generative AI models, it has take on new, dizzying momentum. AI is transforming the world of cybersecurity and evolving the threat landscape at a remarkable pace."
-    publishedDateTime: 2023-08-09T22:51:00Z
-    webUrl: "https://www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/amp/"
+  - title: "Upgrading Healthcare Security Strategies To Combat AI-Based Threats"
+    excerpt: "• Use AI to combat AI: The bright side of artificial intelligence is it can deliver as many effective capabilities to cybersecurity solutions as it does to criminals. Software should leverage sophisticated AI-based tools, including optical character recognition and algorithms that recognize “red flag” keywords that could indicate a breach."
+    publishedDateTime: 2023-08-14T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 121
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d417926eef048c84b1ea3f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/820808708/0x0.jpg?format=jpg&crop=4765,3178,x0,y314,safe&width=1200"
         width: 1200
-        height: 900
+        height: 800
         isCached: true
   - title: "Human-plus-AI solutions mitigate security threats"
     excerpt: "With the right human oversight, emerging technologies like artificial intelligence can help keep business and customer data secure"
@@ -56,60 +56,35 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "Black Hat 2023 Keynote: Navigating Generative AI in Today’s Cybersecurity Landscape"
-    excerpt: "Discover the challenges AI will bring to cybersecurity and the opportunities and future implications of security in an AI-dominated world."
-    publishedDateTime: 2023-08-10T20:31:00Z
-    webUrl: "https://www.techrepublic.com/article/black-hat-2023-keynote/"
+  - title: "Unlocking the Power of Artificial Intelligence in Healthcare"
+    excerpt: "Artificial Intelligence (AI) is rapidly revolutionizing various aspects of our lives, and its significance in healthcare is undeniably on the rise."
+    publishedDateTime: 2023-08-11T11:14:00Z
+    webUrl: "https://www.mid-day.com/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
+    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 63
+      name: Mid Day
+      domain: mid-day.com
+    quality: 74
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr081123-black-hat-2023-keynote.jpg"
-        width: 1400
-        height: 1050
+      - url: "https://images.mid-day.com/images/images/2023/aug/Hidoc1108_d.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Black Hat USA 2023 Panel: Used Correctly, Generative AI is a Boon for Cybersecurity"
-    excerpt: "A Black Hat 2023 panel discussed the ramifications of generative AI, and included the former Cyber Czar for the Obama administration."
-    publishedDateTime: 2023-08-11T21:02:00Z
-    webUrl: "https://www.techrepublic.com/article/black-hat-2023-generative-ai-panel/"
+  - title: "In the season of AI, writers are feeling the heat"
+    excerpt: "Never in a million years could someone have believed that AI or robots would write poetry, paint, make music, etc"
+    publishedDateTime: 2023-08-10T06:52:00Z
+    webUrl: "https://newsmeter.in/top-stories/in-the-season-of-ai-writers-are-feeling-the-heat-716206"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 61
+      name: newsmeter
+      domain: newsmeter.in
+    quality: 39
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
-        width: 270
-        height: 203
-        isCached: true
-  - title: "PayPal keen to leverage AI for security solutions"
-    excerpt: "PayPal is leveraging AI to develop security solutions to combat the intensifying threat landscape. It is creating an ecosystem of security and fighting threats as a collective group. Covid, economic crisis,"
-    publishedDateTime: 2023-08-14T03:11:00Z
-    webUrl: "https://www.thehindubusinessline.com/money-and-banking/paypal-keen-to-leverage-ai-for-security-solutions/article67190686.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/paypal-keen-to-leverage-ai-for-security-solutions/article67190686.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/paypal-keen-to-leverage-ai-for-security-solutions/article67190686.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 56
-  - title: "Top cybersecurity products at Black Hat USA 2023"
-    excerpt: "Here are the top cybersecurity tools, platforms, capabilities, services, and technologies launched at Black Hat USA 2023 that you need to know about."
-    publishedDateTime: 2023-08-09T23:15:00Z
-    webUrl: "https://www.csoonline.com/article/649183/top-cybersecurity-products-at-black-hat-usa-2023.html"
-    ampWebUrl: "https://www.csoonline.com/article/649183/top-cybersecurity-products-at-black-hat-usa-2023.html/amp/"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/649183/top-cybersecurity-products-at-black-hat-usa-2023.html/amp/"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 44
-    images:
-      - url: "https://www.csoonline.com/wp-content/uploads/2023/08/pexels-kevin-ku-577585.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 767
+      - url: "https://newsmeter.in/h-upload/2023/08/10/352126-whatsapp-image-2023-08-10-at-121338-pm.jpg"
+        width: 753
+        height: 407
         isCached: true
   - title: "AI Is Crucial for Healthcare Cybersecurity"
     excerpt: "Healthcare organizations are among the most frequent targets of cybercriminals’ attacks. Even as more IT departments invest in cybersecurity safeguards, malicious parties infiltrate infrastructures — often with disastrous results."
@@ -120,20 +95,6 @@ related:
       name: unite
       domain: unite.ai
     quality: 34
-  - title: "White House launches contest to improve critical infrastructure cybersecurity with AI"
-    excerpt: "The White House today announced the AI Cyber Challenge, a contest designed to improve the cybersecurity of the United States’ critical infrastructure. The contest was detailed during Black Hat USA 2023, a major cybersecurity event taking place this week in Las Vegas."
-    publishedDateTime: 2023-08-09T21:35:00Z
-    webUrl: "https://siliconangle.com/2023/08/09/white-house-launches-contest-improve-critical-infrastructure-cybersecurity-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Image-2.png"
-        width: 850
-        height: 476
-        isCached: true
 
 secured: "i3CwnNJ2nyNV1E62CkFA7P6UuE0DZEvvcWkWQhxdcRYqzwdIFurKvPUh0MGJYY/mqhzBidLVnDOOsFJ/Md+BHza6wEREComY4ZixYcsJvFjpsARoJPyB5REHDY9oK6QC0vdt4UJFk6az7xyIj/dc5hCmVGHLN6qjPBPEeiv5xspWnzVvuG3QXg05WYPoZ4TXEFTGg1TKqdpbxIJnyUlk9tMRQk2W4rvDYhqdANgvjNwsjyVrLBXCo1AtShRdQY2ct03NHELeaLgx6y2aHpzezbumLz+02t7IfZQYBcEzGtzVUDpmqrRYBMqb609hevdnHb2IuCnRXkOLO7BiKLdviYclCwqQj7ZmdXPAIlOqW9b0E0481XV9nLSwigGesNv02cBgCMV4Kq0Tkv4tkjbqCvcDkG2sgrKyLZGDyG4ag+K+a/KqOwJQoPxhpArdisRDmQPr3Pdm+7V8GOzi/BLFRlevcneCuVhvUqS22Cw3FFN5l618IyW1+Z3bHD0kDdu3di/Y9KFqyZs2lVHeRIhzAQ==;ZyEitaM9mu05Axk2gi0AaA=="
 ---
