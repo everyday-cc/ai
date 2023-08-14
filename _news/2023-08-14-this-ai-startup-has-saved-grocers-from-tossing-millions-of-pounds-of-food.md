@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/laurendebter/2023/08/14/this-ai-start
 webUrl: "https://www.forbes.com/sites/laurendebter/2023/08/14/this-ai-startup-has-saved-grocers-from-tossing-millions-of-pounds-of-food/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -28,30 +28,16 @@ images:
     isCached: true
 
 related:
-  - title: "Tome, AI Startup Founded by Ex-Meta Managers, Discusses Fundraising at $600 Million Valuation"
-    excerpt: "Tome, a startup that uses artificial intelligence to make it easier to create and design presentations, has talked to investors about raising new money that could double its valuation to up to $600 million,"
-    publishedDateTime: 2023-08-09T20:16:00Z
-    webUrl: "https://www.theinformation.com/articles/tome-ai-startup-founded-by-ex-meta-managers-discusses-fundraising-at-600-million-valuation"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 26
-    images:
-      - url: "https://tii.imgix.net/production/articles/11038/6bd71ced-8c71-4876-93da-3c82def4cfac.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "CT innovator IDs illegal trawlers with AI and ears in the ocean"
     excerpt: "Miles off the U.S. coast, Groton-based ThayerMahan is readying a nautical network of buoys and roaming sea drones to ID commercial fishing trawlers that may be operating illegally, whether in U.S. territorial waters or those of other nations where catch limits are abused routinely to put pressure on fish stocks."
-    publishedDateTime: 2023-08-14T09:01:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/ct-groton-thayermahan-connor-navy-fishing-win-ai-18274730.php?src=sthpbusiness"
+    publishedDateTime: 2023-08-14T13:01:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/ct-groton-thayermahan-connor-navy-fishing-win-ai-18274730.php?src=startpromo"
     type: article
     provider:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
     quality: 17
 
-secured: "ekBJIK04KnJFomnutCGFpAlevVRUjBXdUM+6zEz+CP52CAGRvbQFkhVYl0GZjHi9mzuRevld1+c3/BB2wBzQ+dCP6Doc9UOLYxs1TFv32qw8GLXwOmrBE3e3sEzJeN/LQSK/v2UK6NK/xBKHoReolMpRpy6cvxhXldwJB5Vb2fbNt3FJMUSzrbfT5SKzZ3RJfunc0KwMw0lxUE3CRtk96/gWDDts8GYV2ho4jXRg1EZyYURNgTEWK+oLTz5+WjDrKIw6GjAZMDtVHpYqycGVsEY/k3lTQMCYIfmZRkcvDoASjiB2EixElKGDpS0C2PHhS8x/2gJJH1UdO9dDS+/VjEbecb+/empyPjchcBBd39g=;cQyjncsajjxHeGdPcJV0FA=="
+secured: "EI96rY413/7toNJcTotMD5cSZLg05nJDbL4HbS2f29Zl3byFO6dxWlk5f/iwFEiCiHSSn3utkoq29MmYU6RqrimVNkQYaDJVJfRmRly26utFO6dyrJai6Gf23NgflghR7IAxq2pF5nt7MTl/zrrBu4G8KiOFsJLBBIECSPhCmk1dYPv5o1I0CFUUMHVcZ60GvSqyPZwEMnoG8kXVTxTneYUR/wGAviUOL7foHcnw/5xPdDtnlIoE2eA5qun/T3ZRpwiKwvbkVuYmj/UAIri1nOYK2aio2zSTLprd0OIyWbqrwDDN3RmKUiOj/Cmf3n/qQbbYmdWP/AwvrTTS/54wDw5l9Y99Tng6l5OMFrqT73m9hErSlwyxTzWNg4grN459RZvp2ZGYYBzOzJxBKOlPcVE0NnmzUoZghjKDMMvbbdWS/MvEOqUW5S3htEsUEPSslLTFF4aBzLMOF8nku4Qh0FG6eXpu4u8xJzdCnC9bg5YZOZjuFn2B6qU30RJcwpIvzze2C/OYRTttEHl9RP745A==;6jgBP4zJkKfUPPrZh2FxKQ=="
 ---
 

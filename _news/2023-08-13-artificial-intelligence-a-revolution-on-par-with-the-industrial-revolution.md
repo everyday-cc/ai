@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generation AI: Mickey Mouse catches the bug"
-    excerpt: "From why Disney thinks AI can boost its movies and theme parks, to how singers might profit from fake music, these are the week's big stories from the AI revolution. Rachel Faber reports."
-    publishedDateTime: 2023-08-09T21:21:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOV336009082023RP1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20230809&i=OV336009082023RP1&r=OV336009082023RP1&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Generative AI: The Modern-Day Gold Rush"
     excerpt: "Industry thought leaders share insights on generative AI's impact, advantages, challenges, and advice on implementation."
     publishedDateTime: 2023-08-10T17:20:00Z

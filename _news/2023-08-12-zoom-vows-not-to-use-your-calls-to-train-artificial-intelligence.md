@@ -52,6 +52,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "Five ways to use AI responsibly"
+    excerpt: "However, Cousineau says one thing is already clear from these nascent moves: \"Responsible AI has to be embedded in ethics throughout the entire lifecycle.\" Also: Today's AI boom will amplify social problems if we don't act now Her views on the importance ..."
+    publishedDateTime: 2023-08-14T12:01:00Z
+    webUrl: "https://www.zdnet.com/article/five-ways-to-use-ai-responsibly/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
 
 secured: "ONfDU+lICmL50+RsWmbwg5yxAhi25o+ZR8NpJLxcp+Ol9keEQvJa7RxSSCK2P2KG0hGzaU/hTMgjKzm3JasNOCEXp9RCVxxrA7gCoYwJf86QWqjOPDrnaJ6Y1dEqv9SKqbxalvDT7M1zGkpVYC/WtP4040p4JbVmXAQ4euFpeafLAUlhdr0liQTRtQ9Ju2Ay5ryUUcz5DQKmpEzA9w0ABOdFfpVWwjFOSlZt2hl2fbvDmsxOsmuHsDFeiQkW2aOGqaQm6F50XKxD4sztYQtjO8Jt3kNFrtFn0awIz3Q1kTUkmKHTRjK4XEIfGrJ+2ZX0DlF5FAIFhzKH9Xw9Q3uyXQaBSHbpPg2H1p44tdKFTXDK4IxOxFtF0OWC15GdoIw5YxjjVUz9lnMNE277yiGo1e374zIjCa6c4ygxFAWOGOuTKES28gbI0pYQiwOOPhhPjAlEUFG1Z1YtiRlQ08HYf+HSiod/an1hpc0svKdzAlqUkictLx307VnBGVyh1E/jcPMdX5S9ZLnLP5W05frN3A==;xaYsxSmh2l/hIcz+f8O2Ag=="
 ---

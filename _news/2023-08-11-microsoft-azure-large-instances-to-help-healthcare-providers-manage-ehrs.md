@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyrecord.com/article/microsoft-azure-large-ins
 webUrl: "https://www.technologyrecord.com/article/microsoft-azure-large-instances-to-help-healthcare-providers-manage-ehrs"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Oxford Health Founder, Steve Wiggins, launches a new type of health insurance plan with nirvanaHealth’s Aria platform on Microsoft Azure"
+    excerpt: "Press Release Oxbridge Health (\"Oxbridge\") will leverage nirvanaHealth's Aria Payer & PBM platform to administer its innovative Episode Benefit plans, an entirely new category of health insurance plan design that integrates familiar features of PPO and HMO plans,"
+    publishedDateTime: 2023-08-14T15:25:00Z
+    webUrl: "https://venturebeat.com/business/oxford-health-founder-steve-wiggins-launches-a-new-type-of-health-insurance-plan-with-nirvanahealths-aria-platform-on-microsoft-azure/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 31
   - title: "Microsoft Azure meets growing needs of healthcare organizations, such as Mount Sinai Health System, with a highly scalable public cloud for Epic"
     excerpt: "New Azure Large Instances allows healthcare providers to manage large EHR database loads using public cloud-hosted infrastructure REDMOND, Wash. — Aug. 10, 2023 — Microsoft Corp. on Thursday announced that Epic clients,"
     publishedDateTime: 2023-08-10T16:59:00Z

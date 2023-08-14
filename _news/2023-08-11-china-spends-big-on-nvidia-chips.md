@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions -FT"
-    excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday."
-    publishedDateTime: 2023-08-09T21:54:00Z
-    webUrl: "https://www.reuters.com/technology/chinas-internet-giants-order-5-bln-nvidia-chips-power-ai-ambitions-ft-2023-08-09/"
+  - title: "What NVIDIA’s New Superchip Means for the Future of AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips NVIDIA Corporation (NVDA) has been very busy this year. In February, NVIDIA"
+    publishedDateTime: 2023-08-11T20:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 80
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
     images:
-      - url: "https://www.reuters.com/resizer/tyFpR0H5gc8GFCzc32yvJXBPe84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VTXHVAI3VBOYTAQRG7NBVL5EII.jpg"
-        width: 1200
-        height: 628
+      - url: "https://investorplace.com/wp-content/uploads/2023/08/lnel-8.11.23.jpg"
+        width: 917
+        height: 696
+        isCached: true
+  - title: "Chinese companies splash $5B on Nvidia AI chips"
+    excerpt: "In late 2022, the US blocked Chinese companies from acquiring advanced semiconductors and chipmaking equipment: this week, the nation announced a ban on domestic businesses investing in China’s AI and quantum computing sectors, starting from 2024. Bulk orders have also been made due to fears about GPU shortages fuelled by rising demand, FT added."
+    publishedDateTime: 2023-08-10T11:02:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/chinese-companies-splash-5b-on-nvidia-ai-chips/"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/chinese-companies-splash-5b-on-nvidia-ai-chips/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/chinese-companies-splash-5b-on-nvidia-ai-chips/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 74
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2020/03/16120403/money-dollars-shutterstock-650.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "Nvidia’s new AI chip to offer boon for Korean chip giants’ HBM business"
     excerpt: "Nvidia’s newest AI chip utilizing the world’s first HBM3e processor is expected to boost growth for SK hynix and Samsung Electronics, the two chipmakers dominating the still-nascent High Bandwidth Memory market. Nvidia, a leading producer of GPUs based ..."
@@ -71,22 +87,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "China's internet giants order $5 billion of Nvidia chips to power AI ambitions: Report"
-    excerpt: "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday."
-    publishedDateTime: 2023-08-10T04:36:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/china-internet-giants-order-5-billion-nvidia-chips-power-ai-ambitions-report/article67179110.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/china-internet-giants-order-5-billion-nvidia-chips-power-ai-ambitions-report/article67179110.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/china-internet-giants-order-5-billion-nvidia-chips-power-ai-ambitions-report/article67179110.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 66
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/v7usrh/article67179111.ece/alternates/FREE_1200/2023-08-03T124237Z_1663218347_RC2L91A0ORCI_RTRMADP_3_COREWEAVE-FUNDING.JPG"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Big Money For Big Tech: China has ordered $5bn worth of AI chips from NVIDIA, despite US ban"
     excerpt: "Despite several sanctions on China, several tech companies in China are lining up to buy NVIDIA's AI Chips at a premium. The Chinese tech industry has placed an order worth $5 billion with NVIDIA for"
     publishedDateTime: 2023-08-10T06:50:00Z
@@ -117,35 +117,37 @@ related:
         width: 336
         height: 224
         isCached: true
-  - title: "Chinese Tech Firms Baidu, TikTok-owner ByteDance, Tencent, Alibaba Order Nvidia AI Chips Worth $5 Billion: Report"
-    excerpt: "The Chinese firms have made orders worth $1 billion to acquire about 100,000 A800 processors from the US chipmaker to be delivered this year."
-    publishedDateTime: 2023-08-10T05:21:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/china-baidu-bytedance-tiktok-tencent-alibaba-nvidia-ai-chips-tech-company-artificial-intelligence-4285377"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/china-baidu-bytedance-tiktok-tencent-alibaba-nvidia-ai-chips-tech-company-artificial-intelligence-4285377/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/china-baidu-bytedance-tiktok-tencent-alibaba-nvidia-ai-chips-tech-company-artificial-intelligence-4285377/amp"
+  - title: "AI software startup Modular aims to boost its series A contest against Nvidia"
+    excerpt: "AI startup Modular Inc. is reportedly in talks with investors regarding a large funding round that would value the company at approximately USD 600 million."
+    publishedDateTime: 2023-08-14T13:42:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ai-software-startup-modular-aims-to-boost-its-series-a-contest-against-nvidia/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-software-startup-modular-aims-to-boost-its-series-a-contest-against-nvidia/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-software-startup-modular-aims-to-boost-its-series-a-contest-against-nvidia/amp/"
     type: article
     provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 53
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 54
     images:
-      - url: "https://i.gadgets360cdn.com/large/nvidia_ai_chips_reuters_1691644360974.jpg"
-        width: 1200
-        height: 675
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/AI-software-startup-Modular-aims-to-boost-its-series-A-contest-against-Nvidia.jpg"
+        width: 1500
+        height: 844
         isCached: true
-  - title: "FT: China’s internet giants order US$5b of Nvidia chips to power AI ambitions"
-    excerpt: "China’s internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems,"
-    publishedDateTime: 2023-08-09T23:06:00Z
-    webUrl: "https://www.malaymail.com/news/money/2023/08/10/ft-chinas-internet-giants-order-us5b-of-nvidia-chips-to-power-ai-ambitions/84469"
+  - title: "Not the usual suspects: Nine stocks to profit from AI that aren’t Nvidia or tech mega-caps"
+    excerpt: "Artificial Intelligence has captured mainstream attention over the past year like never before. Here's how smart investors can look for profits away from the crowd."
+    publishedDateTime: 2023-08-11T11:47:00Z
+    webUrl: "https://www.thisismoney.co.uk/money/investing/article-12388443/Not-usual-suspects-Nine-stocks-profit-AI-arent-Nvidia-tech-mega-caps.html"
+    ampWebUrl: "https://www.thisismoney.co.uk/money/investing/article-12388443/amp/Not-usual-suspects-Nine-stocks-profit-AI-arent-Nvidia-tech-mega-caps.html"
+    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/investing/article-12388443/amp/Not-usual-suspects-Nine-stocks-profit-AI-arent-Nvidia-tech-mega-caps.html"
     type: article
     provider:
-      name: malaymail
-      domain: malaymail.com
+      name: This is Money
+      domain: thisismoney.co.uk
     quality: 51
     images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/08/10/thumbs/400x400/136995.jpg"
-        width: 400
-        height: 266
+      - url: "https://i.dailymail.co.uk/1s/2023/08/09/10/74117995-0-image-a-7_1691572000909.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Chinese tech giants place $5 billion orders with Nvidia for generative AI chips"
     excerpt: "China’s tech giants, including Baidu, ByteDance, Tencent, and Alibaba, have initiated orders with Nvidia for $5 billion worth of chips to construct"
@@ -160,20 +162,6 @@ related:
       - url: "https://technode.com/wp-content/uploads/2023/08/142394325_l_normal_none-scaled.jpg"
         width: 2560
         height: 1680
-        isCached: true
-  - title: "China's internet giants order US$5b of Nvidia chips to power AI ambitions: Report"
-    excerpt: "The FT report comes as Biden signed an executive order that would curb US investments in sensitive technology in China. Read more at straitstimes.com."
-    publishedDateTime: 2023-08-09T23:48:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/chinas-internet-giants-order-us5b-of-nvidia-chips-to-power-ai-ambitions-report"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 49
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/08/10/BIGTECHAI.JPG"
-        width: 860
-        height: 573
         isCached: true
   - title: "Chinese Tech Giants Secure $5 Billion Worth of Nvidia GPUs for Generative AI Projects"
     excerpt: "In a strategic move to bolster their generative artificial intelligence (AI) endeavors, major Chinese tech giants are making substantial investments in high-performance Nvidia graphics processing units (GPUs)."
@@ -212,19 +200,28 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Nvidia’s AI power on full display at SIGGRAPH 2023"
-    excerpt: "Nvidia is the main beneficiary of this year's AI hype. During SIGGRAPH in Los Angeles, the GPU manufacturer revealed that it is only beefing up its"
-    publishedDateTime: 2023-08-10T13:20:00Z
-    webUrl: "https://www.techzine.eu/news/devices/109924/nvidias-ai-power-on-full-display-at-siggraph-2023/"
+  - title: "Nvidia unveils GH200 Superchips for 'most complex AI workloads'"
+    excerpt: "With a 90 percent market share, Nvidia is further upping its game as more companies race to make GPU chips to run AI models."
+    publishedDateTime: 2023-08-10T13:17:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-unveils-gh200-superchips"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 36
+  - title: "AI software startup Modular seeks bumper Series A round to challenge Nvidia"
+    excerpt: "According to the startup’s website, its software works by unifying the frontend of popular AI frameworks such as PyTorch and TensorFlow using modular, composable components. This means developers can use custom hardware to train AI systems and later deploy them across any server or edge device."
+    publishedDateTime: 2023-08-13T23:44:00Z
+    webUrl: "https://siliconangle.com/2023/08/13/ai-software-startup-modular-seeks-bumper-series-round-challenge-nvidia/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/nvidia-grace-hopper-superchip.jpg"
-        width: 960
-        height: 540
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/modular.png"
+        width: 1030
+        height: 577
         isCached: true
   - title: "Nvidia Is Down, But AI Chip Juggernaut Not Down For The Count"
     excerpt: "Nvidia Corp. (NASDAQ: NVDA) skidded 4.72% in heavy turnover on August 9, ending the session below its 50-day moving average for the first time since early January. Shares were essentially flat in after-hours trading."
@@ -235,33 +232,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
-  - title: "China’s internet giants order $5bn of Nvidia chips to power AI ambitions"
-    excerpt: "Baidu, ByteDance, Tencent and Alibaba rush to acquire GPUs amid concern US will soon clamp down on their export"
-    publishedDateTime: 2023-08-09T20:00:00Z
-    webUrl: "https://www.ft.com/content/9dfee156-4870-4ca4-b67d-bb5a285d855c"
+  - title: "7 Big Announcements Nvidia Made At SIGGRAPH 2023: New AI Chips, Software And More"
+    excerpt: "Nvidia CEO Jensen Huang returned to the annual SIGGRAPH event for the first time in five years to showcase the GPU giant’s “full-stack computing” prowess with a bevy of new chips and software for AI,"
+    publishedDateTime: 2023-08-10T19:54:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/7-big-announcements-nvidia-made-at-siggraph-2023-new-ai-chips-software-and-more"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 33
-  - title: "China's internet giants order $5 bln of Nvidia chips to power AI ambitions: Report"
-    excerpt: "Nvidia offers the A800 processor in China to meet export control rules after U.S. officials asked the company to stop exporting its two top computing chips to the country for AI-related work. The FT report comes as President Biden on Wednesday signed an ..."
-    publishedDateTime: 2023-08-10T02:32:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/chinas-internet-giants-order-5-bln-of-nvidia-chips-to-power-ai-ambitions-report/102589724"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 28
-  - title: "China’s Internet giants order US$5 billion of Nvidia chips to power AI ambitions: FT"
-    excerpt: "CHINA’S Internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence (AI) systems, making orders worth US$5 billion, the Financial Times (FT) reported on Wednesday (Aug 9)."
-    publishedDateTime: 2023-08-10T00:26:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/chinas-internet-giants-order-us5-billion-nvidia-chips-power-ai-ambitions-ft"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 27
+      name: CRN
+      domain: crn.com
+    quality: 29
 
 secured: "EtiPZ/MdbQQYxbyp2Zifl8ph58d1tENpaGU32G9/Ka7cb7BT0p4jPKnZE+My4AYFODPzIWNEPKSjCsDIdrBiRuBY9QzgV8YOzd3P0UKoSI520Ed/33GIr0cn/PGJVSVDiQ7Q0yR3iUeM8VX1C8b8rBXCp3m0aMoLNIrC1Oo7p8Csi/dqjPqc7R/FnoLw/9ekyCBFOLE7OhxAo4PTp1+y++jDWiSadZyDKXRuUv2KxeL4KwyI0EPKGKx/XKl5SfKREzErpcABKfBXoFIHL6m//OJ6VdjaPtdf7k7Z5IwicXu07TfhN/iN6P1VgbQVB4u4Loe8WaA3tuZuNoMfolHtZbbMFIBC0izM5JFAM7FOYPI=;XkKnfQk+aDlfJKkubFNKrg=="
 ---

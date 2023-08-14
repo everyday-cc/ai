@@ -66,29 +66,6 @@ related:
       name: FOX 32
       domain: fox32chicago.com
     quality: 35
-  - title: "Redefining Robotics: Purdue University’s Innovative Machine Vision Solution"
-    excerpt: "Researchers at the esteemed Purdue University have made a significant leap in the realm of robotics, machine vision, and perception. Their groundbreaking approach offers a marked improvement over conventional techniques,"
-    publishedDateTime: 2023-08-11T12:35:00Z
-    webUrl: "https://www.unite.ai/redefining-robotics-purdue-universitys-innovative-machine-vision-solution/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 34
-  - title: "Cruise now testing self-driving cars in Atlanta"
-    excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta. While Cruise intends to eventually operate a ride-hailing"
-    publishedDateTime: 2023-08-09T20:50:00Z
-    webUrl: "https://thebrunswicknews.com/news/business/cruise-now-testing-self-driving-cars-in-atlanta/article_91f6112d-1ac8-51f5-b3d8-8d8b2e7a3f53.html"
-    type: article
-    provider:
-      name: Brunswick News
-      domain: thebrunswicknews.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/f/9a/f9a05a43-2db5-5ef1-9219-133cee44a141/64d3fcb1534e4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "On abortion and self-driving cars"
     excerpt: "To abort or not to abort is the flaming torch question? Why is this just about women and childbirth that are the focus of it all? I’m going to start"
     publishedDateTime: 2023-08-12T04:00:00Z

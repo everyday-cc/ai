@@ -35,7 +35,7 @@ related:
     provider:
       name: Diginomica
       domain: diginomica.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
         width: 424

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-ea
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html"
 type: article
 quality: 98
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -32,6 +32,15 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia unveils faster chip aimed at cementing AI dominance"
+    excerpt: "The Grace Hopper Superchip, a combination graphics chip and processor, will get a boost from a new type of memory, Nvidia said last week at the Siggraph conference in Los Angeles. The product relies on high-bandwidth memory 3, or HBM3e, which is able to access information at a blazing 5 terabytes per second."
+    publishedDateTime: 2023-08-14T12:59:00Z
+    webUrl: "https://www.seattletimes.com/business/nvidia-unveils-faster-chip-aimed-at-cementing-ai-dominance/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
   - title: "Chinese Tech Titans Move To Stockpile $5 Billion Of Nvidia AI Chips Fearing Further Export Restrictions By U.S This Time Targeting A800 Processors"
     excerpt: "Nvidia introduced A800 as a replacement chip with a slower processing speed for Chinese market after the U.S blocked China’s access to two of its high-end microchips including its leading-edge A100 processors."
     publishedDateTime: 2023-08-11T07:29:00Z

@@ -116,20 +116,6 @@ related:
         width: 500
         height: 282
         isCached: true
-  - title: "Biden issues an executive order restricting U.S. investments in Chinese technology"
-    excerpt: "President Joe Biden signed an executive order Wednesday to block and regulate high-tech U.S.-based investments going toward China -- a move the administration said was targeted but it also reflected an intensifying competition between the world's two biggest powers."
-    publishedDateTime: 2023-08-09T23:06:00Z
-    webUrl: "https://www.ctvnews.ca/world/biden-issues-an-executive-order-restricting-u-s-investments-in-chinese-technology-1.6512662"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 18
-    images:
-      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/8/9/biden-1-6512763-1691622416724.jpg"
-        width: 1020
-        height: 573
-        isCached: true
 
 secured: "ttrWSO390mbAQUhWfXPb9EjPtuKOHrqyrU0UByb82oZiQVMYAOhW9F1aNu4XQO1hPeqR9FBV3fN29KFtXqkr8+YMbfv+2x0PnFBu2QaiMJvwezHcWQR2jW01Y2J49na2bDcSXzGhqykNJ5pqv7oDF5V4Y8UxWR5SrkeEytc1WEamUG34vhSwLNBPi97zYcqTG83RNljxiSwvurPLCAtI48BzOKgsCnPSw47Rggk73QRNxJJWNqc+OL8+8otVwxOacw026/Fe4itbRoz2A77CisnkOWwf6kBVWmwmCVhH7V4eQRIxnP5s8qzBIY7ZuDHhF6zjTlgRBjSrRDn5S/vRlO7eMPqYAsNuqPLPR0350qE=;1Y896ZpPGTo6WNfKOd+kTA=="
 ---

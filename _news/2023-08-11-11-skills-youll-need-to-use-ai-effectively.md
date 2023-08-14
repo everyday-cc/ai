@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-nee
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
     excerpt: "Generative AI is perfect for producing code, writing letters, and creating images. But how does it fare generating logos?"
     publishedDateTime: 2023-08-10T18:44:00Z
     webUrl: "https://www.zdnet.com/article/how-to-use-ai-to-create-a-logo-for-free/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
+  - title: "Five ways to use AI responsibly"
+    excerpt: "However, Cousineau says one thing is already clear from these nascent moves: \"Responsible AI has to be embedded in ethics throughout the entire lifecycle.\" Also: Today's AI boom will amplify social problems if we don't act now Her views on the importance ..."
+    publishedDateTime: 2023-08-14T12:01:00Z
+    webUrl: "https://www.zdnet.com/article/five-ways-to-use-ai-responsibly/"
     type: article
     provider:
       name: ZDNet

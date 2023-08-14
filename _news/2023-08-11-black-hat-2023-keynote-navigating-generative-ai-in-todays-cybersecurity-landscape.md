@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/black-hat-2023-keynote/"
 webUrl: "https://www.techrepublic.com/article/black-hat-2023-keynote/"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: TechRepublic
@@ -29,31 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cybersecurity In The Age Of AI"
-    excerpt: "Artificial intelligence (AI) is certainly not a new concept, but with the public launch of ChatGPT and the rise of generative AI models, it has take on new, dizzying momentum. AI is transforming the world of cybersecurity and evolving the threat landscape at a remarkable pace."
-    publishedDateTime: 2023-08-09T22:51:00Z
-    webUrl: "https://www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d417926eef048c84b1ea3f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Security For Generative AI That Can Make Or Break Your Enterprise"
-    excerpt: "To mitigate the potential landmines, companies must adopt a zero-trust approach to protect their data and enable access to AI applications. Data protection becomes paramount as the potential for information breaches continues to grow. You can defend your organization against risks related to generative AI by implementing the following strategies."
-    publishedDateTime: 2023-08-11T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/security-for-generative-ai-that-can-make-or-break-your-enterprise/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Black Hat USA 2023 Panel: Used Correctly, Generative AI is a Boon for Cybersecurity"
     excerpt: "A Black Hat 2023 panel discussed the ramifications of generative AI, and included the former Cyber Czar for the Obama administration."
     publishedDateTime: 2023-08-11T21:02:00Z
@@ -68,17 +43,6 @@ related:
         width: 270
         height: 203
         isCached: true
-  - title: "PayPal keen to leverage AI for security solutions"
-    excerpt: "PayPal is leveraging AI to develop security solutions to combat the intensifying threat landscape. It is creating an ecosystem of security and fighting threats as a collective group. Covid, economic crisis,"
-    publishedDateTime: 2023-08-14T03:11:00Z
-    webUrl: "https://www.thehindubusinessline.com/money-and-banking/paypal-keen-to-leverage-ai-for-security-solutions/article67190686.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/paypal-keen-to-leverage-ai-for-security-solutions/article67190686.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/paypal-keen-to-leverage-ai-for-security-solutions/article67190686.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 56
   - title: "Top cybersecurity products at Black Hat USA 2023"
     excerpt: "Here are the top cybersecurity tools, platforms, capabilities, services, and technologies launched at Black Hat USA 2023 that you need to know about."
     publishedDateTime: 2023-08-09T23:15:00Z
@@ -94,20 +58,6 @@ related:
       - url: "https://www.csoonline.com/wp-content/uploads/2023/08/pexels-kevin-ku-577585.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 767
-        isCached: true
-  - title: "White House launches contest to improve critical infrastructure cybersecurity with AI"
-    excerpt: "The White House today announced the AI Cyber Challenge, a contest designed to improve the cybersecurity of the United States’ critical infrastructure. The contest was detailed during Black Hat USA 2023, a major cybersecurity event taking place this week in Las Vegas."
-    publishedDateTime: 2023-08-09T21:35:00Z
-    webUrl: "https://siliconangle.com/2023/08/09/white-house-launches-contest-improve-critical-infrastructure-cybersecurity-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Image-2.png"
-        width: 850
-        height: 476
         isCached: true
 
 secured: "oO+GIjcour+kaV35YatPN/WtVgkwjNQl2i3oGHjXMEGomORgUTscmATHDBxmljm8SwImQIs4/gccsJXHmc8yPzUdZWwthKF4kVNUoHd6KaYN12w0BUkgFnYEngRdS1LkRfvEWJcoO7/3/xFp+aZ8TDABoQi449TQhs65VyYooKE+2X/k2LdDVsFFKqV/eUmXFeVkXQGxZ8AFnpZBTV/Q2dn+bh6MRpVJRsqsxlHhHrRjZ9/BYOfxK1EDiwSHq4WYJZ/+mdyStCssQrPkiAa/lcmPPHKhUVhBg1Mw1wLy+M7KN04O2fU59tQ15rKM94xEloXGRjJOu1VhOGh5MLJKNb0yNOfKyG0EDxOqoyNNOV1co2z1Kg970xPtJm519x7WjyXrimhRKdNrtN4NFk2X4U1tbx3X8y3in3Bm+ER10CCV7Kszpl/cW6Oq+IMCSoufvL3JlfNZylQ6Xw+tZAQAO+BL7kWRD3arAK3i5Om8Km2br9bf5NpfFrBq7xt3yfeomhO4P9any/SdDfuiw01DOQ==;dPCF3V7/dotDeZGrrBUZLA=="

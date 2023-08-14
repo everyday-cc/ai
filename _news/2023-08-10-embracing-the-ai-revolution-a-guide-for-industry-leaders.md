@@ -55,15 +55,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "AI 'Brain' Technology by Rezolve Joins Forces with NAGA to Revolutionise Online Payment Together with Brokerage Transformation"
-    excerpt: "Frankfurt-listed, German Fintech leader, The NAGA Group A.G., operator of the All-in-One Financial Super App, has announced a ground-breaking partnership with Rezolve AI Limited. The integration of Rezolve's AI platform,"
-    publishedDateTime: 2023-08-09T19:27:00Z
-    webUrl: "https://financialit.net/news/payments/ai-brain-technology-rezolve-joins-forces-naga-revolutionise-online-payment-together"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 0
 
 secured: "Kqa4aflS9QN3hBXr+pAO8nxLGlMjflKzoVBFGBW0pKCKwbKDlUbET8xErnZVB80fknZK39fXlH+u9PFv9fyu24kWi+e/I6Zq0r00n7O0Gu8iXs7rEOTfbe3UCfmB589xKhvG2j3wa7lLBfCnUXVwzjDLfDaZ22gvNfJcoR8Z9uTfTF68T1+QtXZR0cFrJBHDTflsT0oNguDsPVp2hpcVZ9KYgKRx0gWe5doX502l6lijGCOxPIoa47LFR3m8z1FyzDcnbOioKH6zTSHiwjN9azJSs4j3F2I2Hluc+6FCbwseeF42HFloKs/XMdmT4/2zpI0KLgVSH/VzsmMmAnE6JfRvd8HauNBUVrBRLnRkf+w=;DY5scxW2dkIaOWBDaSJYSg=="
 ---

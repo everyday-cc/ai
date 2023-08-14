@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Hong Kong Tech Firm, ASL, Accelerates Growth in Fintech Services with Finastra"
-    excerpt: "Automated Systems Holdings Limited (ASL), a global IT solutions and services provider, has strategically partnered with Finastra."
-    publishedDateTime: 2023-08-09T22:58:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/211235-hong-kong-tech-firm-asl-accelerates-growth-in-fintech-services-with-finastra/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 20
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/05/hong-kong-dollar-coin-money.jpg"
-        width: 1354
-        height: 1206
-        isCached: true
-
 secured: "gZVNzuA/lt8yYVqL9VYbxrTGOIgPf5Jx+L+BkwQ6KFbXEBFssdZo9I15jeRzkVaXkFsQEtlcHyuTw0GVqvz7yuqjBpIQg3kw4Cm8jxtG8eTiQsgULv18wC5dDkZGRDYg4g5QWwGfnzhvblQQOIwWHqWrOeSf/nfVRVN5x7uRxYzELfFNpcXDS3NjsUL1i1KUZ+SKsmMEOr+t0Xkr4Bu4KeQ01hDAw8LGLJoIJxO7ijmF9AC6yhhV1B+WHYJBq0NHXfDV9zYXUoTDu7/dUCeToxMzqLbAE5uNGd37YYpcKxTg9nhEQeBcqMuk9Ka4/7SfDAetQO+L3opqtLjGF6SeXDykcQ7U89Ey+0LQe0+odQPkce+UQOLb+ygrjwEvSpS4bzXzr0cyBlcBlmq3y6eGqj1YCQYm1GYYVpR7VYsQfuPgD6vdNSxJxOQJT+RDXi3ZheyM2Sm8hJTPIZA5IV0aPaoEZY1w+R/UXaqXPPmmnIPOoac+7QVs/f9dlL7Ttt/D3ekOcG/B6tzVRTuxaeU5Vg==;MJMMRs5vadkh0zZwox7Amw=="
 ---
 

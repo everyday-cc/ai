@@ -44,6 +44,15 @@ related:
         width: 1080
         height: 540
         isCached: true
+  - title: "Research shows extensive use of AI contains data breaches faster and saves significant costs"
+    excerpt: "Organizations today need new technologies and approaches to stay ahead of attackers and the latest threats.\nThe post Research shows extensive use of AI contains data breaches faster and saves significant costs appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-14T13:27:26Z
+    webUrl: "https://www.ibm.com/blog/research-shows-extensive-use-of-ai-contains-data-breaches-faster-and-saves-significant-costs/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 88
   - title: "With Generative AI, Businesses Should Listen More And Generate Less"
     excerpt: "The implementation of large-scale language analytics promises transformative impacts across various sectors, boosting efficiency and providing insightful analysis."
     publishedDateTime: 2023-08-11T13:30:00Z

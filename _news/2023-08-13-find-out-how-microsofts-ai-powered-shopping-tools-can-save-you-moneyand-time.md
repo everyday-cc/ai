@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
 type: article
 quality: 100
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -96,6 +96,15 @@ related:
         width: 1022
         height: 575
         isCached: true
+  - title: "Amazon chips will help to compete with Google, Microsoft in AI race, here’s how"
+    excerpt: "Amazon aims to enter the generative artificial intelligence (AI) market and has begun developing microchips to compete against tech majors such as Goo"
+    publishedDateTime: 2023-08-14T12:33:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-chips-will-help-to-compete-with-google-microsoft-in-ai-race-heres-how/articleshow/102726767.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 47
   - title: "Transform your business with Microsoft’s range of Data and AI solutions"
     excerpt: "Microsoft offers a range of Data and AI solutions that can help businesses transform their data into insights and actions."
     publishedDateTime: 2023-08-11T08:55:00Z

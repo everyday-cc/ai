@@ -1,18 +1,18 @@
 ---
 category: news
 title: "VisualCortex streamlines workflow for computer vision models with Weights & Biases"
-excerpt: "Video analytics platform developer, VisualCortex, collaborates with technology partner, Weights & Biases, to automate and reproduce its ML model training practices As foundational beta users of ..."
-publishedDateTime: 2023-08-10T06:48:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33694403/visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/n33694403/visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases"
+excerpt: "As foundational beta users of Weights & Biases recently-released 'Launch' module for automating ML workflows, VisualCortex's ML team collaborated with Weights & Biases' product team to help produce a scalable process for seamlessly managing and deploying training runs."
+publishedDateTime: 2023-08-10T08:39:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/08/10/9862353.htm"
+webUrl: "https://it.tmcnet.com/news/2023/08/10/9862353.htm"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
@@ -34,6 +34,6 @@ related:
         height: 767
         isCached: true
 
-secured: "IESiEnhABfYHrmnLx5rFeiKutTVG1w90GAnfNqBbprCFwjw5WQViXFs6/1URaTJ4Ur4VemtsqKxM/TTIpeshupmvEIlrg/xtWGtwauCSYP6mTz2VHD0qw8n5QLjiiolvXZvJfUnebe/qZTmFjrMqxfS+6sgwl7wVAQI8FN0504c2AEtsyCIZZGn8R5vRtpL3NS6+htr5qkPeGDyrDiZIsMd4kBIu4lSgEEGNlECeBTZRnW5rgLFcEam1hc41HaxAhEvmMXZjBaCT+iXTyOrJK5rWjSJSawz6FbFtq2PoldXr7NQIulb1dez9cEZMAYBW8djVQJHuyOGy0yxPU08xv2xGalGBkC3+koMto+Fj8Ew=;+pyIVB9GCm79UQ5d9/kKxw=="
+secured: "zbkw8Lc0y6ZbBJrvkYp7ScqFVSs/8O35bj5U9KisnwqYTRuZwhu1P9PgdPhZqa/ldOWVIba8H60SR1TJIAizT7bFtIUUwLkmxtZcQD5GyDV7O9AAl1i5s0BEHZEVzWGHcSqqtfjJSrnY6YSog1oY8Fxn5a6R6EapOzECwyUe0PMRmpJdYd+3kED5NIbmhaUJSWJKZEZm47S/EQ9GADy3tfG6LIbb0p3Gdsr34hRBhXs2x1PsxY93ya8+7lkyc3gjvty71LqzRbBNpDavuVdXZ6Cy8FST3F1TvhHU4+sQINCOGUkTeuZDk76g0h0yhZtyWGxdesgat9LtzMK1mdLg35XatNkzJTVU2aonYcpbZzBPKR62bbG4tXLzyVY+5AYAHJSgSAGaByu8SE9lCQhyapT0PpuVppJP2HsljaJzQRBXD5GYJidOqwa1M5Sghj/kx0yWQTR85zrl7/O+7QIcMtRDggND5MIyGeoDk8//EsA+rfJ8543EF4chb3b5ayfL+3q3g4TrrkHLrK2W36846g==;nvCpVoE7ucyx3+p1CTK20g=="
 ---
 

@@ -67,6 +67,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Generative AI's Dark Side: How It's The Perfect Tool For Hackers To Spread Malware"
+    excerpt: "Generative AI presents many opportunities for businesses to improve operations and reduce costs. On the bright side, there is great potential for this form of AI to deliver value to organizations. However, it has a dark side in the cybersecurity landscape, as hackers can easily manipulate it to spread malware."
+    publishedDateTime: 2023-08-14T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/generative-ais-dark-side-how-its-the-perfect-tool-for-hackers-to-spread-malware/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
   - title: "In the season of AI, writers are feeling the heat"
     excerpt: "Never in a million years could someone have believed that AI or robots would write poetry, paint, make music, etc"
     publishedDateTime: 2023-08-10T06:52:00Z

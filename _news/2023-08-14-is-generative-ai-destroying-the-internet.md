@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "PR expert putting the intelligence in AI with Pay-as-you-prompt"
+    excerpt: "A North East PR expert has warned that some firms are at risk of being left behind in the “AI… | Entrepreneurship | PR | North East | Digital | Entrepreneur | Technology | Marketing |"
+    publishedDateTime: 2023-08-14T15:19:00Z
+    webUrl: "https://bdaily.co.uk/articles/2023/08/14/pr-expert-putting-the-intelligence-in-ai-with-pay-as-you-prompt"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 39
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/IBV3WmAWIE8Ol58OiOoQ8EB64tjR3RhiOhX38ncM.jpeg?w=1200&h=630&fm=jpg&fit=crop-51-41&s=09131aaed294658dcfffa5d9f3906bda"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "China’s internet giants in $7.6b AI chip-buying frenzy"
     excerpt: "Baidu, ByteDance, Tencent and Alibaba are rushing to buy chips vital to building AI systems, amid concerns US President Joe Biden will soon clamp down on their export."
     publishedDateTime: 2023-08-10T02:58:00Z

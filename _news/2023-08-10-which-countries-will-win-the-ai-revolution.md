@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI 'Brain' Technology by Rezolve Joins Forces with NAGA to Revolutionise Online Payment Together with Brokerage Transformation"
-    excerpt: "Frankfurt-listed, German Fintech leader, The NAGA Group A.G., operator of the All-in-One Financial Super App, has announced a ground-breaking partnership with Rezolve AI Limited. The integration of Rezolve's AI platform,"
-    publishedDateTime: 2023-08-09T19:27:00Z
-    webUrl: "https://financialit.net/news/payments/ai-brain-technology-rezolve-joins-forces-naga-revolutionise-online-payment-together"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 0
 
 secured: "sJ3qM/vXaAneSzwhABtshQl6VCo/Dg2y9DCAqygIvaCSI7hR+vPN5PeZ/bTL2GZC9sIKiaOG0ak/NLBp/3/RCrZEv88QhUh9ub0UOvdVhnQiKWtCIiAJBE8se/Z/d820WWdfiS3m2Fi9D1LdDCBIoUUT4YcIZOhJO9EErBbG8i8S3uwxMeerCYop2tg8hxX/HQRh/grILvz6GtYNgu80q9snpIg5Mc4iRw3LMJTkDyNt0DjntUpoz/kx9TGucEPiQ6Kh30GDZ+Xrdn7I8e9jnYvkgTmCPRP8xBPHCy2Rg0pFS7yfyXN4uU/kcbYIzAp6sYKCZbPkx04yf6xQD+J5Im1H96t3cB0eR7u19HE/vzo6pLEOYK65wg6SiINUqf9CWr+AObpo063E7+x2KsvuYlnOLIQQfeVDRZT5h53J+rnoKdEj9RgnqyiZ4wYlNUVqmkW3f3lHCDFy1UOnQTZowMZEZeO3fSGIy+MCsnz7cmFCPUzyLQej4CKFaK3+APBPzfqneYJHfMBPAXA9NxOw2A==;Fj5lCIRrwVUQw72wjpfp2g=="
 ---

@@ -54,6 +54,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Security For Generative AI That Can Make Or Break Your Enterprise"
+    excerpt: "To mitigate the potential landmines, companies must adopt a zero-trust approach to protect their data and enable access to AI applications. Data protection becomes paramount as the potential for information breaches continues to grow. You can defend your organization against risks related to generative AI by implementing the following strategies."
+    publishedDateTime: 2023-08-11T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/security-for-generative-ai-that-can-make-or-break-your-enterprise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
 
 secured: "60W8LxGGOJ4agwp8P2JLU6VwXz2hI9a/yAFTQkaP5lig2PBdWApW0DdtmXFLdIoHcIG8K/Ge7/mUCNjBvbpxn1VqTEwW85rsGAi1DErilfLuXQdLivb6Xi4wD+wNW05AVpD0aYkVmgcvm0T5F/scm3+vabkZ/2L/3cg7RbntHD3mYxqSRg0swPgw1xxLC0BRjyupCkJFiIIeIdIntn5Yf4gv32x7AYN80X4JQCMWP2vYYgYWS+EQ+/qknwYH+VALIApvrnYZv389seBN7BGxzQaLpCLlsFBbP5LyDywPSOFI+tUqJDG/0tJao0LIxRYGffUm078dUaDoyxbP7JtofuzQSbdiyZrIkuoz4/ybvRAPa2Q+HvcyGVnSH7nczQDBZD6QxywLtqbQmdOyJnfzqw0owSH+FM3SxHmcHcjnhQ9qI1Obn7eBnthJTupqgOTVa/IwDXAk9tx7IL6WbFkv2Y/KKUPMmC5UceVFeGVz+HJDEpBJ/u+MgLmxD7Ua24rL2Hp7YqxCU0LpQL1BuQ9BzA==;QlYJkLum3k9ktjSS6G0gzg=="
 ---

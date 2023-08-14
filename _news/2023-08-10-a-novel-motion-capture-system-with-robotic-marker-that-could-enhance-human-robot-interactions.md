@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-08-motion-capture-robotic-marker-hu
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-motion-capture-robotic-marker-human-robot-interactions.amp"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "The Dawn Of Humanoid Robotics: A Glimpse Into The Future"
+    excerpt: "The world of robotics has been evolving at an unprecedented pace, with humanoid robots at the forefront of this technological revolution. These robots, designed to mimic human form and behavior, are transforming various sectors, from healthcare and education to entertainment and personal assistance."
+    publishedDateTime: 2023-08-14T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/the-dawn-of-humanoid-robotics-a-glimpse-into-the-future/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "The Rise of Humanoid Robots: Exploring the Latest Innovations and Advancements"
     excerpt: "Welcome to the future! Imagine a world where robots walk alongside humans, seamlessly integrating into society and performing tasks once thought impossible. Well, that future is here, and it’s called humanoid robotics."
     publishedDateTime: 2023-08-10T10:01:00Z
@@ -41,6 +50,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Redefining Robotics: Purdue University’s Innovative Machine Vision Solution"
+    excerpt: "Researchers at the esteemed Purdue University have made a significant leap in the realm of robotics, machine vision, and perception. Their groundbreaking approach offers a marked improvement over conventional techniques,"
+    publishedDateTime: 2023-08-11T12:35:00Z
+    webUrl: "https://www.unite.ai/redefining-robotics-purdue-universitys-innovative-machine-vision-solution/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 34
 
 secured: "JHvkuMxM3eRexMJvtA+d9KExlyjI1mnnf70UJ24q4D5jUywxIMgPd7GTB1mRhzn6Mrab9CWiK/zmOk6tRr/ztHLS4Js/w6x+V6iZd4sCzIyYwGBfXKIzym5zRSsEV3we1DK3i7UndcQ9458gWJauCJyvt82wVa3QK1d8YvIUiM65zHZ9bTgerkG0dQCWTH6wbiED+fFxVYmEEKJfU2F4vwzNWSB0FKi2TQ4A9By/rRy2Yic/88hDu4yL72L4vuNszh9MwFtE686J98XwYr9VeQCgTBK5Z50wbmTOTbpdEUGNsxl3zFA5znEbV9sk15MiTb3DYHHyuMFFvOGPDl4m94R+frEUej0QeDothmlqcByEVXSU13fcYum78h9lTrv2DqSImKe3MpKPoA951UWMlnGdKDY935zx3f0jPUXrdOoGHlg7yz5LLStJwWsql//io4XpQZtkEJfGg0Dy50Q4UUt8uTHCp89lxB0AkVjzPTu7bO8eX1PYXXJGJrAAoeOGAZ7ZQ0fkdBfYLW0tFSxrHw==;OuZpzwSWwy9SIFGIk1cvdQ=="
 ---

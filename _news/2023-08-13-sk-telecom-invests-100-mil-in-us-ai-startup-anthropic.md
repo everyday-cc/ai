@@ -42,6 +42,50 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "AI startup Anthropic gets $100M to build custom LLM for telecom industry"
+    excerpt: "AI startup Anthropic with its \"constitutional AI\" approach has raised $100 million from Korean telecom major SK Telecom to build custom LLMs."
+    publishedDateTime: 2023-08-14T15:08:00Z
+    webUrl: "https://venturebeat.com/ai/ai-startup-anthropic-gets-100m-to-build-custom-llm-for-telecom-industry/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1323198492-e1653330450993.jpg?fit=750%2C493&#038;strip=all"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "AI startup Antrhopic gets $100M to build custom LLM for telecom industry"
+    excerpt: "AI startup Anthropic has raised $100 million from Korean telecom major SK Telecom to build custom large language models."
+    publishedDateTime: 2023-08-14T14:07:00Z
+    webUrl: "https://venturebeat.com/ai/ai-startup-antrhopic-gets-100m-to-build-custom-llm-for-telecom-industry/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1323198492-e1653330450993.jpg?fit=750%2C493&#038;strip=all"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Google-backed AI startup raises $100 million from South Korean telecom giant"
+    excerpt: "South Korea's SK Telecom has invested $100m in artificial intelligence (AI) start-up Anthropic. The move boosts the country's top telecoms firm in its"
+    publishedDateTime: 2023-08-14T14:40:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-backed-ai-startup-raises-100-million-from-south-korean-telecom-giant/articleshow/102729664.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-backed-ai-startup-raises-100-million-from-south-korean-telecom-giant/amp_articleshow/102729664.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-backed-ai-startup-raises-100-million-from-south-korean-telecom-giant/amp_articleshow/102729664.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://static.toiimg.com/photo/msid-102729724/102729724.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Anthropic releases a faster, smarter, cheaper AI model"
     excerpt: "The AI startup released its own AI model, Claude, in March. It has proven to be a worthy rival to OpenAI's GPT-3.5 and GPT-4. With that initial launch, Anthropic also released Claude Instant, a lighter, less expensive, and faster version of Claude, according to Anthropic. Now, it's getting an upgrade."
     publishedDateTime: 2023-08-10T19:26:00Z
@@ -79,6 +123,15 @@ related:
         width: 1024
         height: 676
         isCached: true
+  - title: "SK Telecom invests $100m in generative AI startup Anthropic, will create LLM for telcos"
+    excerpt: "South Korean telecoms company SK Telecom has invested $100 million in buzzy generative AI startup Anthropic."
+    publishedDateTime: 2023-08-14T13:04:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/sk-telecom-invests-100m-in-generative-ai-startup-anthropic-will-create-llm-for-telcos/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 9
 
 secured: "x9VVBnvsvUaO7mK4f116/uMn09Ezmwps1rp1tr2hhALX3/T/CaD1pFhT16/OX3mGA0aMpMb3AH4l29RB2+JQhwrRo0Eu9b+KLeHxERtsR9wHDJYWQkwH8Fz73bVLVQUfwZV2HPjQPYZYZaDI6WIHbNJcvbn7dKTab7i2GrOVt1qVZsda+3SSXLaUdWaONgfhUdKh+OPCFcwXZtZY1gQTH/9tbx2GvHqUtGdUwAr2YMRAdqpO2Z8Aoe8xXzrCnk1bJPJxH5h3PocOzBZ67o60yaxLT8Zz/E0xGTXGK8NHH0ucEUMeZAVgu5NoCUmLGYacravjy10P/vzxXC3rtlp6PGDHzAZWbISmTILcTszSq2dNtdviR007oRu7V9LvJZNvwF79hqAIRvmogrlfM69RszI7j0+wJKIqetjWrDKtVtbaphe9JW7xdyVoIHYe6ndyZiMT9sZQEmwY6josF7a4YWsndsDi9biM/uKwhJVCn8VPcYx08zxRXaO4nVU0M/o+h4yA/sVZiuoeAGCQm0V5tQ==;SSFTzLEJXyRXqQWns0oKsQ=="
 ---

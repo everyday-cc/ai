@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/china-closes-record-number-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/"
 type: article
 quality: 83
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202308/10/64d415c7a310352610ba6cf4.jpeg"
         width: 721
         height: 480
-        isCached: true
-  - title: "DPD pushes to enact changes to photo lineups after facial recognition lawsuit"
-    excerpt: "DPD Chief James White spoke Wednesday about a lawsuit filed last week in response to the department’s use of facial recognition technology that led to a Detroit woman being falsely arrested."
-    publishedDateTime: 2023-08-09T21:35:00Z
-    webUrl: "https://www.wxyz.com/news/dpd-pushes-to-enact-changes-to-photo-lineups-after-facial-recognition-lawsuit"
-    type: article
-    provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 36
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c4d91d6/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2Fdf3%2Fbe88c4e651db4a7dbe102614d7272948%2Fdf361fcd68a54b8da81329dfc436b5ec%2Fposter_0a47622d89c94d479fafd0c213d1a00f.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "kkhMtUkv11APdWkoSN4YaOTXPcb3Jd4g42Rz2/KCUxt0rxqcrsWLFb11iFrmS8wKwc3VSG2Qhkz5EHDOORhYirE/wPwrmYUY9WlSxu96dDOw+Wr5pIQOtdlABcqHrepLzU1m3a9i3UdDEbitnSNkSqMLQOWu+3nQbkyuV/YP5xpVFzEuMzGO5XdynuEQZRTJuOyIpDvYCfp9G/E1uE9AvNbIJoA65wXjdnz5ICL21RPGmltfyB8Uypk7AcY3NDjFXhtG/Y9uBBgWq2q8Mj9JXdY61J0o2jyHwIRpY8uE+YW5fcqt28KFSNXrr2HMIeANyzfSUVRPA2Zbdcxq5UM7a9NNxsGpUBpY1tfQWJua6v84iQSkLVsg8Odn9LLAGmkLWbg4G9jc6ergQT0iPxtUfN3RICp2/alcz9ByZrcQvwCXeyLFX1GF5MpHZWsj8lJ2YVoC/v47CZDSTv1LqMq9g21qLMIDW9xGboU/PU0Ir9GsD5wRYgoTEtuwwKulyeyMQAxLYcOIgzOKzOPItqFQeA==;rqjhE5i5CRjq59ucFzmzRA=="

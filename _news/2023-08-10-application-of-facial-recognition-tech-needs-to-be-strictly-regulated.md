@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "DPD pushes to enact changes to photo lineups after facial recognition lawsuit"
-    excerpt: "DPD Chief James White spoke Wednesday about a lawsuit filed last week in response to the department’s use of facial recognition technology that led to a Detroit woman being falsely arrested."
-    publishedDateTime: 2023-08-09T21:35:00Z
-    webUrl: "https://www.wxyz.com/news/dpd-pushes-to-enact-changes-to-photo-lineups-after-facial-recognition-lawsuit"
-    type: article
-    provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 36
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c4d91d6/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2Fdf3%2Fbe88c4e651db4a7dbe102614d7272948%2Fdf361fcd68a54b8da81329dfc436b5ec%2Fposter_0a47622d89c94d479fafd0c213d1a00f.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "yqPQgi075ZBas94cvFPbcFfmEQAyw3uJbr73V/zl9HUidMeYXE/E+gEeDg7HF6HaDv6iU8ShyifSfolaNF4uqFW6GgqNoBfCh2Uk+z6KCYRKSqDnLlga+W+Tt4SQFqCXf8sesvXc7V62xw3sKgJ21FoIAxdOo79N13NcAY0wI/Yot9I26jU4kPDzgfNq29sbBnObfRkr6wQB9LVResaDVWlJVo+P4e0lkm45qE369nbmemFAr42jB12uVtj5nEsByjQ0cEZZNuWwGIpZ/Kw0IKQ3UCHQs2Xk6c4L7YSmYX5sfvQ5Pl30tg6/5aKymRIZ3JhOjdC0XZURwMdt8V64wrToLjEgBnEwPQC/H9ZaSQN9AAgyKu+nzHHG3Zhf/JS6GD9FcEXzZAT8O08CMyvUWn2N+x94y+Qpxm2M6ekfzFajAclkoZ4MjYSyrq+vHWsVeBX3tJMuO0ipvnuAdvyHa4LdSyh+VHgwnZxF3+hN1DvwlrlX1Yh0t7UYWn2LAu5l0+sWX0fvQIk/HqA0bVi+4g==;9wNeVH2eTj0WkHeaLgmRGw=="
 ---

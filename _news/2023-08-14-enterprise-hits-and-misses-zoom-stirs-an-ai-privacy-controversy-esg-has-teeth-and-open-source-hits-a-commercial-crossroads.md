@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/enterprise-hits-and-misses-zoom-stirs-ai-privacy
 ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-zoom-stirs-ai-privacy-controversy-esg-has-teeth-and-open-source-hits?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-zoom-stirs-ai-privacy-controversy-esg-has-teeth-and-open-source-hits?amp"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
@@ -42,6 +43,6 @@ related:
         height: 649
         isCached: true
 
-secured: "C2r5xD9VN2F9NMiXWwj28acrWQ8w7BG07zIrfyuqd0zYSov9dduLCkHMnWSikk/ZPxNKvDziSm+ObPYAuOKnS8z0LZwojDDFzJcQOS/KOloikXF555sLXhB4lLfYQFXN7r/P2fTuDawRe92qtjHnrrgJO2ChAn2+z5mG6OCvdOrCO3AaICYNSXMxwlxq8yWlVmxR+APXdSpdSZMTi4I4ZuWuiukBVAq6nDA4EQwOcwv4q24UyVq0oXqdBEZtdf9AgW8sopVxJehcodwuA5gsUkSAJ47AJuXzXCVdmARbuwRfq/z2CJ3dDehO8mF1VKg6IXNi0OdwV1boVPeEL05N8NWJIwFqUl5NHuhxAPEAtaI=;huUFoLtJoFIYSezVCyRCEQ=="
+secured: "dCbpjMmUG6RxFA0VDryWLBYGBFdyCS9f6aLSe9ofk0AMz04fxGJvcT+2Wn0R7kbRhICHbNnbDD5T6c73/PTrl6ifx8TAG9v803b+QCKY0ZiihR3cD41qEeJb/NhkGlwH/6XMHBNMagnHCL/4oOKdbLkB2JCSpZLxMEx0RWN1vGw52z3r9g8IFc1IWVPdsrHUcugOIcdutr+BzuMPSDMJYkMx2ak7BZ7i+AFHvd402oiJta98bxoH/n0gkiC/oZkf4KwQcUn/ONCVDuKgX+4S5d3H7aMF39MwyZO3VcuY2ieSDCJtQ3+hfmhJBz56xGApqOQCBuLcH8HiR32GOi5qMz510+H6bOIQuigwDi4sGXYEO6utxzN+1VT1yOmBsGzrpj7PcxasccTxpj3N3+7XD0Ky+47evYROCCSJymWhcphsTop5bA+smlNVIoGjAZBUQPB3kfpDlSwbO0z+WPkVIQ2gfij1IGk7KFRTMdX6j6Gm6Y2s3d+yVI59XzRQY+onsc6tKyDZjB5+op7h+ghbrg==;gyojmHhKcIw19Ves86HIXg=="
 ---
 

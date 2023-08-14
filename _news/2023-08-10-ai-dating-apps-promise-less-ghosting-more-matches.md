@@ -108,6 +108,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "UT professors embracing, preparing for AI use in classrooms"
+    excerpt: "As a new academic year rapidly approaches for The University of Texas at Austin, it is working to balance fostering a learning environment with AI while preventing cheating among college students."
+    publishedDateTime: 2023-08-14T13:45:00Z
+    webUrl: "https://www.kxan.com/news/education/ut-professors-embracing-preparing-for-ai-use-in-classrooms/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 19
 
 secured: "qwI+l/L6+WmEl13vw/Dg8BB5ElU9BT6S+7E7L5mKmXHAS32kxXKdn/5gKmu6L3AhrcDB8Tzvh0pPe/2Jh7NgWqGUGL6KKIFkPvBHi9bMcjHJhNniZjuHahI1rih1+EKJKumxF8AWwiS+r3AVTE6BEjn9Rjubv2nizbkd1V2569nKbCQEuiIlbeETsemJpacdDIo0tXtCGuOrxi+vJ3KgGn/shjoXl/urCwYrmU4GHciilIZR5V8416VArBHF8MbuXHs39gqeAPgea23RF1YbXwYem7uc8a8TESGnXS/+HL8fFeVHj6i090IHwB5e35BR93K8mdnong/Bz9mKxS1g5J485WjPJ2f0Z1CTH9SYUPc=;IGBx0xTWWwExILST4PLq4w=="
 ---

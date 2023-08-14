@@ -100,6 +100,15 @@ related:
         width: 1022
         height: 575
         isCached: true
+  - title: "Amazon chips will help to compete with Google, Microsoft in AI race, here’s how"
+    excerpt: "Amazon aims to enter the generative artificial intelligence (AI) market and has begun developing microchips to compete against tech majors such as Goo"
+    publishedDateTime: 2023-08-14T12:33:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-chips-will-help-to-compete-with-google-microsoft-in-ai-race-heres-how/articleshow/102726767.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 47
   - title: "Kyndryl and Microsoft Unveil Enterprise Generative AI Solutions on Microsoft Cloud"
     excerpt: "Bangalore (Karnataka) [India], August 11: Kyndryl (NYSE: KD), the worlds largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
     publishedDateTime: 2023-08-12T03:14:00Z

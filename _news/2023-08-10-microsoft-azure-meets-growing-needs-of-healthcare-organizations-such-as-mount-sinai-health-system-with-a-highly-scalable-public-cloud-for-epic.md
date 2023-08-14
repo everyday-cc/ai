@@ -38,6 +38,15 @@ related:
         width: 975
         height: 548
         isCached: true
+  - title: "Oxford Health Founder, Steve Wiggins, launches a new type of health insurance plan with nirvanaHealth’s Aria platform on Microsoft Azure"
+    excerpt: "Press Release Oxbridge Health (\"Oxbridge\") will leverage nirvanaHealth's Aria Payer & PBM platform to administer its innovative Episode Benefit plans, an entirely new category of health insurance plan design that integrates familiar features of PPO and HMO plans,"
+    publishedDateTime: 2023-08-14T15:25:00Z
+    webUrl: "https://venturebeat.com/business/oxford-health-founder-steve-wiggins-launches-a-new-type-of-health-insurance-plan-with-nirvanahealths-aria-platform-on-microsoft-azure/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 31
 
 secured: "AXyCEGAV+7RoJ5VwtklI04s/DHUjj5ExXqRheqaSESQwovbaT+siq1LnIoNDlsiaM2cYfYpmdVDPEzPqhVF9ZCIksX0DnSp7kYtbZBh7YlC3vKGVDxUEoORhju5xwWBuomAeCbdKUYPT/nV2A+t1Ikb6Lsu2WUkmGrJf1eLfrtupQ39duLSWwewP5+iscBCsjEOSMF4X3jgG7Lz7ABsLXUuv9OE3NysOHZoRGisyL8yTpO2s9exK925jp1cefBPuzw7Ol6VOHr2Xr1aXNquELAHqDsc2AzalagT62m2KmhJUu9w96fTVCV0MZYPPotiO4LKFdtY5YIdxLYiLWpgGrC/95MSkp3IS15ihMNFM6iI=;bpLdRGDF/NReAY0BZLTlTg=="
 ---

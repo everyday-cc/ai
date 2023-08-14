@@ -23,90 +23,49 @@ topics:
   - AI in Security
 
 related:
-  - title: "Cybersecurity In The Age Of AI"
-    excerpt: "Artificial intelligence (AI) is certainly not a new concept, but with the public launch of ChatGPT and the rise of generative AI models, it has take on new, dizzying momentum. AI is transforming the world of cybersecurity and evolving the threat landscape at a remarkable pace."
-    publishedDateTime: 2023-08-09T22:51:00Z
-    webUrl: "https://www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/amp/"
+  - title: "TikTok creators will need to disclose AI-generated content, or else"
+    excerpt: "AI-generated content is so realistic that in many cases, it is virtually impossible for you to discern between what is fake and reality. This can have significant negative consequences, such as the spread of misinformation. For that reason, social media platforms have been working on measures to address this problem."
+    publishedDateTime: 2023-08-10T16:40:00Z
+    webUrl: "https://www.zdnet.com/article/tiktok-creators-will-need-to-disclose-ai-generated-content-or-else/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/tiktok-creators-will-need-to-disclose-ai-generated-content-or-else/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tiktok-creators-will-need-to-disclose-ai-generated-content-or-else/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d417926eef048c84b1ea3f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/fc4dc6cb5ea856dbc545782ce965222751106100/2023/08/10/149efa9d-b714-49e5-8e29-7cfa23c3a2d7/gettyimages-1470268269.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 900
+        height: 675
         isCached: true
-  - title: "Black Hat 2023 Keynote: Navigating Generative AI in Today’s Cybersecurity Landscape"
-    excerpt: "Discover the challenges AI will bring to cybersecurity and the opportunities and future implications of security in an AI-dominated world."
-    publishedDateTime: 2023-08-10T20:31:00Z
-    webUrl: "https://www.techrepublic.com/article/black-hat-2023-keynote/"
+  - title: "Gboard could soon let you use generative AI for proofreading and emojis"
+    excerpt: "The latest Gboard beta uses generative AI for features such as proofreading, creating emoji stickers, and tone suggestions. Read on for more!"
+    publishedDateTime: 2023-08-10T14:13:00Z
+    webUrl: "https://www.androidauthority.com/gboard-beta-generative-ai-proofreading-emojis-3354114/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 63
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr081123-black-hat-2023-keynote.jpg"
-        width: 1400
-        height: 1050
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/07/Gboard-on-Nothing-Phone-2-1200w-675h.png"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Black Hat USA 2023 Panel: Used Correctly, Generative AI is a Boon for Cybersecurity"
-    excerpt: "A Black Hat 2023 panel discussed the ramifications of generative AI, and included the former Cyber Czar for the Obama administration."
-    publishedDateTime: 2023-08-11T21:02:00Z
-    webUrl: "https://www.techrepublic.com/article/black-hat-2023-generative-ai-panel/"
+  - title: "This Audio Startup Is Using AI To Generate ‘Contextual CTV Ads’"
+    excerpt: "Call it the lovechild of dynamic creative optimization and contextual advertising. On Thursday, audio marketing platform Instreamatic released a product for connected TV that generates multiple audio"
+    publishedDateTime: 2023-08-10T14:00:00Z
+    webUrl: "https://www.adexchanger.com/digital-tv/this-audio-startup-is-using-ai-to-generate-contextual-ctv-ads/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 61
+      name: adexchanger
+      domain: adexchanger.com
+    quality: 37
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
-        width: 270
-        height: 203
-        isCached: true
-  - title: "PayPal keen to leverage AI for security solutions"
-    excerpt: "PayPal is leveraging AI to develop security solutions to combat the intensifying threat landscape. It is creating an ecosystem of security and fighting threats as a collective group. Covid, economic crisis,"
-    publishedDateTime: 2023-08-14T03:11:00Z
-    webUrl: "https://www.thehindubusinessline.com/money-and-banking/paypal-keen-to-leverage-ai-for-security-solutions/article67190686.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/paypal-keen-to-leverage-ai-for-security-solutions/article67190686.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/paypal-keen-to-leverage-ai-for-security-solutions/article67190686.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 56
-  - title: "Top cybersecurity products at Black Hat USA 2023"
-    excerpt: "Here are the top cybersecurity tools, platforms, capabilities, services, and technologies launched at Black Hat USA 2023 that you need to know about."
-    publishedDateTime: 2023-08-09T23:15:00Z
-    webUrl: "https://www.csoonline.com/article/649183/top-cybersecurity-products-at-black-hat-usa-2023.html"
-    ampWebUrl: "https://www.csoonline.com/article/649183/top-cybersecurity-products-at-black-hat-usa-2023.html/amp/"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/649183/top-cybersecurity-products-at-black-hat-usa-2023.html/amp/"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 44
-    images:
-      - url: "https://www.csoonline.com/wp-content/uploads/2023/08/pexels-kevin-ku-577585.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 767
-        isCached: true
-  - title: "White House launches contest to improve critical infrastructure cybersecurity with AI"
-    excerpt: "The White House today announced the AI Cyber Challenge, a contest designed to improve the cybersecurity of the United States’ critical infrastructure. The contest was detailed during Black Hat USA 2023, a major cybersecurity event taking place this week in Las Vegas."
-    publishedDateTime: 2023-08-09T21:35:00Z
-    webUrl: "https://siliconangle.com/2023/08/09/white-house-launches-contest-improve-critical-infrastructure-cybersecurity-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Image-2.png"
-        width: 850
-        height: 476
+      - url: "https://www.adexchanger.com/wp-content/uploads/2023/08/little-green-seedling-shoot-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "nghkKCqdXcI32w46YE3U4AcNcAAyMSaxBdJKSkCD/vL2AeKfy1NBTPWOMTEa4J5S/eQHeHdabBonovCvhgO+jtIEA8ZY/+ZYdx5ipZPvlyPYgw5TidQO9NhQ26CZcU0DA8+9Qm0QVDIS45gBw5DSypwc+96J0ByBUcjvSi0qHluxztqMi7b9/GH1aL029Mq2X8HtLStT7cw5pXrHwW1jV3Nksr1Key/sUC658WEQtKsVNrBdQPfnoRF0mcfRm6Jz5UtNN2DpGQSMtJILgXgxqtTCjH6o5gtV3qxeyDzbqL97yWkE+YUVS0Q0i0RFDaZuSrim8pJgKd54qT6h6w7gEfdbfMQhLrU0LkNr8mMmtE7EORiiF2pvDHAaIksyqtfnfPsPrJ5dnU2bJb6qPnaZEKZmJiUCk3rNAc/yl6EzBIDgGAVGEKgC3sjlc86ZYie94+JuzgzZUUnToQ3SeFx1atN5N9fcHNH9fVtn6Ff9o4/qiDYY6xct2VwOhiWTw9aXB/wT7FmtkAo+bT0VJCCRpA==;JYe85jntggcKG9GN19A2TA=="

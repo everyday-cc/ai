@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 113
 published: true
 
 provider:
@@ -57,16 +57,7 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "AI 'Brain' Technology by Rezolve Joins Forces with NAGA to Revolutionise Online Payment Together with Brokerage Transformation"
-    excerpt: "Frankfurt-listed, German Fintech leader, The NAGA Group A.G., operator of the All-in-One Financial Super App, has announced a ground-breaking partnership with Rezolve AI Limited. The integration of Rezolve's AI platform,"
-    publishedDateTime: 2023-08-09T19:27:00Z
-    webUrl: "https://financialit.net/news/payments/ai-brain-technology-rezolve-joins-forces-naga-revolutionise-online-payment-together"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 0
 
-secured: "x6nPG68ypzWupm5rTOJ2UfUzvlXzVh10n7ORXCS324dVN4UV+IWZ7qC/59Bctt7rYKHXxnNSmpA+0IJprSY9oAG986bUdmSYXgyvLxANp9Hyg9uHim2uwV/1YFQHR09ipHTfPbFfvRpOX2YqBKlYDOZIRVQ/fQ4xpPMoR7qz9klpzBsrthS2A7QGayy6aoB9p0nCk8eJ/T52KpD2X0KXaAZL1grad4Oa0a1/5qXw0Cs5Fi2EFOlZW4a/AWIYbbEH/Q8g0QMuIN0wqT9RaSNklK3dVTZvrSAFxqVMi4x6QSEmK9VTOMpwW0D4wy9VEgQxo8A25BocBYe0PBHxZvitg8OThjhh7TFcWqXzLrckuM4=;r5JvFMm4wGHoFRjlVNLFEQ=="
+secured: "kAFvhSrCNBPkXZueg+jzeGum2KagrmiSQ+kOE1LJ+cpbfet3Jv6irWNYJSPmoF/dM+SVMHrgeKf9K9gs0N6aEDxF6DIb9Cg7yUL94k5x4QHTybKRPCHc4waNAGi6V5+j69Bv72vY4z2PqLLxK1TUrEizhHxlllshAvuTl9w3I7Nm2L6SWb0++6hJJHhEAW18rV85ja6wcUBwZuB0kR3iGKc21Awdk20CG6RL/XdPbSF+HdhTQlAcTNuo4WXRQeF0EXWz4x5eBW0HG8jnRuu9iBvP9DvZJ0t5FL9qjEp8w160sNY97cMGtdJHLVHGQXQduSjxfNbcxamPwbGchAMYt11WOzrGY2V9Kz8vkRe6HX47MIKNTEPnuNCb7odgEj9LxEYQF7OWZ+vJ0Mpu2YBCIZxlSz05FwARXawURJOraBx3cMXcPgUa9GZpc+tBHLBcSPxgdmT32VpahEZOZPkX8s7NITWPua6PD3giTRUWiPIIviJsqO0CFxz7ZnClxpCKE+NM5UCOXZ/5xi/DsDqD4A==;Qo0hKutOPAhFJxPVettu6w=="
 ---
 

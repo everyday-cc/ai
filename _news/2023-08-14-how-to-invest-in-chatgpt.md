@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "You can build your own customer service AI chatbot with this drag-and-drop tool"
+    excerpt: "Botpress is a tool for building interactive chatbots. While it supports building chatbots for a wide range of applications, the killer app is using it to build a customer support chatbot and backing it up with AI smarts."
+    publishedDateTime: 2023-08-14T14:15:00Z
+    webUrl: "https://www.zdnet.com/article/you-can-build-your-own-customer-service-ai-chatbot-with-this-drag-and-drop-tool/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-build-your-own-customer-service-ai-chatbot-with-this-drag-and-drop-tool/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-build-your-own-customer-service-ai-chatbot-with-this-drag-and-drop-tool/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/a4f0eef2e70ef56e48bc4428d41601df60d1621c/2023/08/11/826e16dc-c712-4bec-9bd0-701c88651466/chatbot-gettyimages-1413855189.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "I'm an AI-prompt engineer. Here are 3 ways to use ChatGPT to get the best results."
     excerpt: "I used to be a freelance writer. Now I'm a prompt engineer helping optimize generative-AI tech. Here's what I've learned."
     publishedDateTime: 2023-08-11T15:50:00Z
@@ -76,6 +92,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/186bba5322f625df06f9b5b4d950935527776302/2023/06/29/d003949e-24fd-4960-a177-712e43e0d249/sale-320578-article-image.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The Best AI Chatbots for 2023"
+    excerpt: "ChatGPT started the AI chatbot revolution, but there are compelling alternatives to help you get more out of these new, conversation-based tools. We've tested them to help you determine which one is right for you."
+    publishedDateTime: 2023-08-14T15:21:00Z
+    webUrl: "https://www.pcmag.com/picks/the-best-ai-chatbots"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/roundups/01AY6LKrl2he2T0GJgvaDXG-1.fit_lim.size_1200x630.v1691697293.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "The 5 best AI books recommended by ChatGPT"
     excerpt: "It is recommended for beginners as well as advanced AI enthusiasts. The book covers the latest research and developments in AI. Universities and institutions around the world use this book as a textbook."
@@ -172,15 +202,6 @@ related:
         width: 640
         height: 380
         isCached: true
-  - title: "Newegg’s AI-generated reviews might be the worst use of ChatGPT yet"
-    excerpt: "Newegg has started including AI-generated review summaries powered by ChatGPT on some product pages, but they aren't always helpful."
-    publishedDateTime: 2023-08-09T19:54:00Z
-    webUrl: "https://bgr.com/tech/neweggs-ai-generated-reviews-might-be-the-worst-use-of-chatgpt-yet/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
   - title: "Many experts believe AI chatbots like ChatGPT are here to stay. So how can they fit into the academic world? We looked for answers."
     excerpt: "With the start of the school year just around the corner, educators acknowledge that programs like ChatGPT are already a presence on the academic landscape."
     publishedDateTime: 2023-08-12T18:03:00Z
@@ -195,6 +216,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Schools navigate regulation of artificial intelligence, ChatGPT as students return to classrooms"
+    excerpt: "Artificial intelligence is becoming a major conversation in the classroom, especially a popular software called ChatGPT. ABC7 asked ChatGPT to write a book report on \"Pride and Prejudice.\" In just seconds, it created a report that would probably satisfy ..."
+    publishedDateTime: 2023-08-14T12:52:00Z
+    webUrl: "https://abc7chicago.com/ai-chatgpt-what-is-artificial-intelligence-back-to-school/13646839/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 4
   - title: "You already use ChatGPT to make life easier. Now try using AI chatbots for better sex, a sexologist says."
     excerpt: "Dr. Amy Marsh, sexologist and AI chatbot beta tester, spoke to Insider about the real-life benefits of sexting a chatbot."
     publishedDateTime: 2023-08-12T09:30:00Z

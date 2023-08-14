@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyshoenthal/2023/08/10/how-todays-top-marketing-leaders-are-approaching-ai/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
     provider:
       name: Hindustan Times Tech
       domain: hindustantimes.com
+    quality: 19
+  - title: "UT professors embracing, preparing for AI use in classrooms"
+    excerpt: "As a new academic year rapidly approaches for The University of Texas at Austin, it is working to balance fostering a learning environment with AI while preventing cheating among college students."
+    publishedDateTime: 2023-08-14T13:45:00Z
+    webUrl: "https://www.kxan.com/news/education/ut-professors-embracing-preparing-for-ai-use-in-classrooms/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
     quality: 19
 
 secured: "m+DdFVNm5cHp6HlCuPqeW1T+sIOh/xbZO7f9lLmWCnwzhIbhZm0P5/76IygJQ2SSI3GkVTu52Is4OBtPmBKij81/4BONmrVrKYQiIykhdpbYAmxWrXotfLXcraBbNjCi5dgO5IIb889uInDsf4qN3Bu4GEb0m4NJe8IV8SbUL9+ULKaugJbU2Uu2gty72OEElrnc9Cqof/fj3CMQgh9Qj58h4tGWhv2HmiXsKabM7+s+8CuSCb3oCSO9DnnkTqZxRC4aTcofWG+heZjyoh1p+ZAQry6JZmapq6SY3efT5i0X9o+Kc1Jk9xIK+0VhuDfUrtC8TqmG5aN6d+kYc57yM8OOxK7fb7Gc8YXzfm3pkHLvoBZ7ZShVqlvUSgO3Vg5YhveiB5E4IbmrVxoOLt7YhHrxvCtwXRCxsSODKByxxuO1nSqHiyFohQ44qpwwvCWnq+fwjfkwITa12rhqk69woqoA2gUJS4oe3uQRgomHXovH0nJx5P08AYAzZBOMC3FDgaapVdZ+qmt+QNmP/RUyiA==;9SomRg48fSom6NHEJrrs7Q=="

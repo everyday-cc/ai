@@ -176,6 +176,15 @@ related:
       name: SHINE on MSN.com
       domain: www.msn.cn
     quality: 19
+  - title: "Revolutionary Driverless 'Robotaxis' Poised to Transform Roadways"
+    excerpt: "Whether you call them robot taxis, self-driving taxis, or driverless taxis, these autonomous vehicles are revolutionizing how we travel. Picture yourself summoning one of these high-tech wonders with a simple tap on your smartphone,"
+    publishedDateTime: 2023-08-14T12:00:00Z
+    webUrl: "https://wallstreetrebel.com/wsr/articles/revolutionary_driverless_robotaxis_poised_to_transform_roadways/2023-08-14-08-00-00.html"
+    type: article
+    provider:
+      name: https//wallstreetrebel.com
+      domain: wallstreetrebel.com
+    quality: 19
   - title: "AI boom jolts San Francisco office market"
     excerpt: "Ten AI companies are today seeking between 700,000 to 800,000 square feet of office space in San Francisco, per JLL, which says AI companies have already tripled their footprint in the city since 2016. JLL said its confidence is based on anonymized foot traffic and cell phone use data from Placer.ai, demographic and office neighbor information."
     publishedDateTime: 2023-08-10T10:00:00Z

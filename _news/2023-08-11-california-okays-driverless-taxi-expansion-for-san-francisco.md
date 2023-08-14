@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/transportation/california-okays-driverless-t
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true"
 type: article
 quality: 59
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -161,6 +161,15 @@ related:
     provider:
       name: SHINE on MSN.com
       domain: www.msn.cn
+    quality: 19
+  - title: "Revolutionary Driverless 'Robotaxis' Poised to Transform Roadways"
+    excerpt: "Whether you call them robot taxis, self-driving taxis, or driverless taxis, these autonomous vehicles are revolutionizing how we travel. Picture yourself summoning one of these high-tech wonders with a simple tap on your smartphone,"
+    publishedDateTime: 2023-08-14T12:00:00Z
+    webUrl: "https://wallstreetrebel.com/wsr/articles/revolutionary_driverless_robotaxis_poised_to_transform_roadways/2023-08-14-08-00-00.html"
+    type: article
+    provider:
+      name: https//wallstreetrebel.com
+      domain: wallstreetrebel.com
     quality: 19
   - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
     excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."

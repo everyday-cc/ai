@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/"
 type: article
 quality: 121
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Generative AI's Dark Side: How It's The Perfect Tool For Hackers To Spread Malware"
+    excerpt: "Generative AI presents many opportunities for businesses to improve operations and reduce costs. On the bright side, there is great potential for this form of AI to deliver value to organizations. However, it has a dark side in the cybersecurity landscape, as hackers can easily manipulate it to spread malware."
+    publishedDateTime: 2023-08-14T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/generative-ais-dark-side-how-its-the-perfect-tool-for-hackers-to-spread-malware/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
   - title: "In the season of AI, writers are feeling the heat"
     excerpt: "Never in a million years could someone have believed that AI or robots would write poetry, paint, make music, etc"
     publishedDateTime: 2023-08-10T06:52:00Z
@@ -102,6 +111,6 @@ related:
       domain: unite.ai
     quality: 34
 
-secured: "twobiE5LJRGFwhxLPNlYqLM8jecbui9UGa8trqKiEWx0M3KzQ12ZJKQ85FfnCz0hC22HgnzKSx/I+wYKwAgvVSy5kFH7CmKIafNkzQbDYh2WZt4cWTMeu4A+GYBCtOe9dtJf7tvPSTEQsRdTyaFf0ZqD/ktOMkxkGTQ/5o/Fr6M2tZHaCW4+8JQSipOFkZvwwTwY2MzyV2LHtp5yJXiK6LaUcTrQ4XI+F/zVHQ29c8bnvrMxqGe5xNv6/Jt/+NYja3TzNdoF0PjD9g2OUGp8b9S3ynkFDB1p35UXlwNKLFL2JZ88aRz1kGPuYTiMiQIjU8UYRO/50GO7yFg+E5m+xTlB5a7hR4/9BbAFKniLRS8=;ytILqkXRrqGM5Q63L3Rp6Q=="
+secured: "mVhjWNBkntopnBgn0yUP76a2wdlzH72Kt37M88Qzizak5EDrwai2z20RF+KPAaZl4sMSW3uMIwesa4a4hToNksFbyiFvQZJgNc27sbQb5ud5PL5HELyYsEE1LpG4soPKZXfRsZ/NLyGQar8aB32nriEBoIGzUu5hZ6PU+5tRNm3oxQdqf2H5d4cBN/SMD9/lh9zGvNQPzjh3O7UvVlmwXKlPiMMYVyvf+zuE7m6/UpsHAsux/oRhnraZ1DB2FEzjYMqe2SLBMwQ75bHpNTdq69u3RJj4/0zGtYn/dPTKPrmlp/vpluxKbzsJn3K2A19B4jOGimHtZp+BSqs0v550tgyjZHEleE5nRMJrSH/aXtTSP/zoawCnd8+uBSSKHJwYtwGtyHmIaoj3T+30IPVsX5LR2GsnUJX0ly9K9k2aXH2zyD45yEQyux6Q5Fy26nOAGogLBT/VEdSZpkFV+Wd2QTMmaU3VBSSQxyMAp8GIh9w97TYFik0GKodV+/M4C8EMotRS0IWmbjLU9BGLnuZCNg==;/PGFSkY8mqQviNlHAHpiCw=="
 ---
 

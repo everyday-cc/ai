@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 787
         isCached: true
+  - title: "PR expert putting the intelligence in AI with Pay-as-you-prompt"
+    excerpt: "A North East PR expert has warned that some firms are at risk of being left behind in the “AI… | Entrepreneurship | PR | North East | Digital | Entrepreneur | Technology | Marketing |"
+    publishedDateTime: 2023-08-14T15:19:00Z
+    webUrl: "https://bdaily.co.uk/articles/2023/08/14/pr-expert-putting-the-intelligence-in-ai-with-pay-as-you-prompt"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 39
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/IBV3WmAWIE8Ol58OiOoQ8EB64tjR3RhiOhX38ncM.jpeg?w=1200&h=630&fm=jpg&fit=crop-51-41&s=09131aaed294658dcfffa5d9f3906bda"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Innova Solutions CEO: Generative AI will have ‘bigger impact than the Internet’"
     excerpt: "Raj Sardana, CEO of technology services company Innova Solutions, says generative AI will have a \"bigger impact than the Internet.\""
     publishedDateTime: 2023-08-13T23:07:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/enhancing-customer-experience-with-nlp-how
 webUrl: "https://techbullion.com/enhancing-customer-experience-with-nlp-how-ai-systems-are-responding-to-customer-queries-in-real-time/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -24,31 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "The Role of Artificial Intelligence (AI) in Fintech: Enhancing Customer Experience and Risk Management"
-    excerpt: "By; Ayush Jindal, Co-Founder and CEO of ScoreMe Solutions Pvt Ltd <br /> <br /> As per the Reserve Bank of India's Annual Repo"
-    publishedDateTime: 2023-08-09T19:47:00Z
-    webUrl: "https://menafn.com/1106817902/The-Role-of-Artificial-Intelligence-AI-in-Fintech-Enhancing-Customer-Experience-and-Risk-Management"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/09/pr_13468_1d577728_image_story.jpg"
-        width: 500
-        height: 500
-        isCached: true
-  - title: "Empowering Financial Decisions: The Role of Fintech Software Development"
-    excerpt: "Finance - In today's fast-paced, digital world, the way we approach finance is evolving rapidly. No longer bound by the traditional confines of brick-and-mortar"
-    publishedDateTime: 2023-08-11T11:50:00Z
-    webUrl: "https://business-review.eu/money/finance/empowering-financial-decisions-the-role-of-fintech-software-development-250164"
-    type: article
-    provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 3
-
-secured: "l9mSTKHGafGTYc09OsEHCqOnbPCU6U2kZKD0L4kg0VfXITB/g56OL2VNuyZ2+mL7pn0NmFXeuRcD+ljtwWEFlm8fTjg6owLFMDmP6kC4G4YQzs2/W6vmvYextf1FcAYh66/MN5Bz3al631UcD+hw0TuF9gDar/eZ+yB+F1MdfWVD5kfZ7y8kHp8LC9xijaD18IyjNsOi5pv6jj0IwllO4/taRpuK4iyNheoqwDSHHkMw7rbqV2r3+vh6cFe1vsJhXCMns/fbqDuPxwavex/h0LvzISwhlXlHvaDgAj3QWI44vWodO7wmSma+263H8cJSdUie74uQpPZypJEQHeBwfUbHripezV6IhgfxLCYHBBk=;FdE7DPIn2a/Q02G0Nw4dHQ=="
+secured: "NJbnIFv5R/YeKJwithAEB/ZE4/2kt41W5sXzDroxWi1aGbg+UJ5wnzJsMNvOiawSWPWMcedJgrM9ezyieYomZXekceIZww7z/BNd2LeqIde+OLvtB6T6m2PAscHoYv1xBjzxUTAwISFJjUHTx8lsX45zRj9xS/MGw7VEKHZ8wZqgmQybeVTSxjVuN1R12QbYTRUVu3182PiY9TSb9nMD3Lw6Zm0ikFpX3WG70MV5yrAksIlR8LJxD0Kri4Du2swMhq49Owx/WvSMtwR1bE4Ih2yBUvtn2gyzpeAPQxWw/drelc8EN13d8tXssWgVnR41OQSuHARMSRPhu52vHqH06FH8TZDE3Ctg04vNxPre5lgRXz8BeObth+71ApQxGnjsQHoDfHT2vlUJfxfx/kUgWCz1MjhsQDmJkyVeV6JCBgxfWanfv/Gr7U2ytHL8r+kLh9oFlWJEEMACdkXwrsT91wNJXNaB5nNGiQbZVm8t/rWEY5ytS+9UYT4I7ZPdV3xPdIiLD4vwvcQMacM9wNx3nw==;a2p/sVZKWzzYBN7O6sUrpQ=="
 ---
 

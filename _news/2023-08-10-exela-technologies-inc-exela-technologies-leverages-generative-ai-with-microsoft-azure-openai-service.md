@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 763
         isCached: true
+  - title: "Exela Technologies Leverages Generative Ai With Microsoft Azure Openai Service"
+    excerpt: "The integration combines Exela technology with Microsoft Azure OpenAI Service, providing customers with access to OpenAI's advanced AI models with the security and enterprise promise of Azure."
+    publishedDateTime: 2023-08-10T13:50:00Z
+    webUrl: "https://menafn.com/1106827665/Exela-Technologies-Leverages-Generative-Ai-With-Microsoft-Azure-Openai-Service"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 65
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?817573"
+        width: 341
+        height: 250
+        isCached: true
 
 secured: "vFd7qoQmLnuQOJgcZuWK3P0nLsKikTEOpi1AJUOyt6rVy0uOQZfurb9GfSzSL9tEbz6b3E/Kt8rLRca53e6eybf8SZgdVYoqunKSy+Zj8+GqTqSrl/aIaNw1qqvgHlgcaiIUxXG8+0E9usNYR56cpGwCWPKvuiZTVlcMGdxU+VZR2moCTUXkp+2ILkhyZWyHaty7VCq5OQ76/RmEOLEiIz4/Z7MReH0b7BKL+L9ONJQfjNarTQOcPhvOOAGZag4M+JN+G4VKTWHASEtffY8E++dfWuMkxoOvRYiVMsAg/lSYJu7+QVndKCZF3kn+IuQT7t2XAdurEXxOElZEUbXe6Zs+9PHQ3r0gbHy2Qk37DhQ=;mjL0JI5UDZFNXR9FSAfTpw=="
 ---

@@ -111,6 +111,15 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 19
+  - title: "UT professors embracing, preparing for AI use in classrooms"
+    excerpt: "As a new academic year rapidly approaches for The University of Texas at Austin, it is working to balance fostering a learning environment with AI while preventing cheating among college students."
+    publishedDateTime: 2023-08-14T13:45:00Z
+    webUrl: "https://www.kxan.com/news/education/ut-professors-embracing-preparing-for-ai-use-in-classrooms/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 19
 
 secured: "pZClX+fk/D5m8ER9UZoaf7hQeFCZNsYsAF+4TMbhxAMUCwv4IB3+6wCS8APYpEL1g3YrZbJ5RtsAqS3yrQYhvoqqDJIdtZg75dD9Mzc4JL2uMtiFFqsRZ9OLL1Eh5dTrL2pIIUolZwrUkq0DKQ2Hy3JLXGYMCB2FY8PRlajyn/jWyHDH8W3Zf3/GxFX8KPFoKLQ75bMoSQN/W3RfuCf79RLbcyo7R9M1Tvv12wgFUdo96hY1twLo57XcRdGWQHa6CRx0B/tq7VT9H3rrRCOk6XsZjW+/q0CzFSkgeoLtdp5CQIDQxKE99oxJKx4T9kJ8E7np46N8FI+6mOtsp7ED+yjbHNa1AH/hVvbUKxGIx1bYsgWO8bGEFBjzGbCirMWATRvlWZMztLv9W4PSb2ymShTb0pAIItBFYjUfbTSPh5Keh0qqRyM9PNjYCwcbss2WCKadUzmGorrVfJpynGkto80FTc+uIeQlz3+yCwpoaZlBltQCWIu+YvrA6YWcYXJJwYeSflsq0ysk/+oy3n13oA==;l8Mt6NUJlWPl2Dy7iISxOw=="
 ---
