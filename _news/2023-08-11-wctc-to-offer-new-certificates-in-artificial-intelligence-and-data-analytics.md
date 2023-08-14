@@ -24,114 +24,38 @@ images:
     isCached: true
 
 related:
-  - title: "When AI and Robotics Combine"
-    excerpt: "Drawing on advances in the commercial tech industry, military organizations are combining AI software with drone ships, planes, and tanks to create what some call “lethal autonomous weapons systems” and others “killer robots”—that is,"
-    publishedDateTime: 2023-08-09T09:30:00Z
-    webUrl: "https://www.thenation.com/article/world/when-ai-and-robotics-combine/"
-    ampWebUrl: "https://www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/"
-    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/"
+  - title: "Martin Klein Returns to ECS as Analytics & Artificial Intelligence VP"
+    excerpt: "Martin Klein, former chief operating officer of the Department of Defense’s Joint Artificial Intelligence Center, has rejoined ECS to serve as vice president of analytics and AI responsible for the company’s overseeing strategic digital transformation initiatives in the defense and intelligence markets."
+    publishedDateTime: 2023-08-11T09:31:00Z
+    webUrl: "https://www.govconwire.com/2023/08/martin-klein-rejoins-ecs-as-vp-of-analytics-and-artificial-intelligence/"
     type: article
     provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 89
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 37
     images:
-      - url: "https://www.thenation.com/wp-content/uploads/2023/08/robot-weapon-AP.jpg"
-        width: 1440
-        height: 907
-        isCached: true
-  - title: "When you gaze into the AI, the AI also gazes into you"
-    excerpt: "Web3, AI: Always worth paying attention when Goliath shifts on his ... Across the site, here are some of the startup stories y’all flocked to since the previous Startups Weekly. Karma, karma, karma, karma, komeuppance: Apparently not entirely immune ..."
-    publishedDateTime: 2023-08-11T18:59:00Z
-    webUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/"
-    ampWebUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-637552576.jpg?resize=1200,800"
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/08/unnamed-file-76.png"
         width: 1200
-        height: 800
+        height: 628
         isCached: true
-  - title: "AI Service Robotics - Latvia"
-    excerpt: "Value in the AI Service Robotics market is projected to reach US$3m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.46%, resulting in a market volume of US$7m by 2030."
-    publishedDateTime: 2023-08-10T16:35:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/latvia"
+  - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
+    excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Martin Klein has been named vice president of Analytics and Artificial Intelligence (AI). Klein returns to ECS after having previously served as a program manager,"
+    publishedDateTime: 2023-08-10T11:20:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/10/9862493.htm"
     type: article
     provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Combining AI and traditional methods can help us predict air quality"
-    excerpt: "Combined models will be more accurate ways to forecast hazardous air quality, particularly during unpredictable events like wildfire smoke."
-    publishedDateTime: 2023-08-12T23:00:00Z
-    webUrl: "https://www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/"
-    ampWebUrl: "https://www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/?amp"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+  - title: "Top 10 Alternatives to GPT-3 – Analytics India Magazine"
+    excerpt: "GPT-3 has 175 billion parameters, making it one of the largest language models ever created. It can generate human-like text and perform a wide range of tasks, including translation, summarisation, and even writing codes."
+    publishedDateTime: 2023-08-12T19:41:00Z
+    webUrl: "https://www.inferse.com/677595/top-10-alternatives-to-gpt-3-analytics-india-magazine/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/08/11/My-project-2023-08-11T114827.562.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "VAST Data Launches its Comprehensive, Robust Data Platform to Support AI and ML Workflows"
-    excerpt: "VAST Data, the data platform company for the AI era, is unveiling its data computing platform, engineered to underpin the burgeoning world of AI that rivals the capabilities of other existing data platforms."
-    publishedDateTime: 2023-08-09T15:49:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/VAST-Data-Launches-its-Comprehensive-Robust-Data-Platform-to-Support-AI-and-ML-Workflows-159991.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 47
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "'The Bell Labs of AI and robotics:' Boston Dynamics founder Marc Raibert discusses AI Institute"
-    excerpt: "In an exclusive interview, Boston Dynamics founder Marc Raibert discusses how the AI Institute is keeping its head down on recruiting and R&D — as far as possible from the commercialization focus of its namesake company."
-    publishedDateTime: 2023-08-09T09:26:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/08/09/marc-raibert-boston-dynamics-robotics-ai-institute.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-  - title: "Google’s AI ambassador walks a fine line between hype and doom"
-    excerpt: "it fired well-known AI ethics researcher Timnit Gebru after she published a paper arguing the company’s AI could be infected by racism and sexism due to the data it was trained on. Meanwhile ..."
-    publishedDateTime: 2023-08-10T10:36:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/08/09/google-james-manyika-ai-existential-threat/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YLO7VQUHETWL4HH44SEJT3VZWA_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "The role of Artificial Intelligence in robotic-assisted surgeries – Harnessing the power of data and machine learning"
-    excerpt: "In recent years, the healthcare industry has undergone a remarkable transformation owing to the integration of artificial intelligence (AI) into various aspects of medical practice. Among the many groundbreaking developments,"
-    publishedDateTime: 2023-08-12T11:00:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-the-role-of-artificial-intelligence-in-robotic-assisted-surgeries-harnessing-the-power-of-data-and-machine-learning-3208178/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 11
+      name: Inferse
+      domain: inferse.com
+    quality: 4
 
 secured: "lDwJvIpscqet1U/G/hvec1roi3LSLXXQfaqx+savC8+vvJNViEY/Tx2ibcfNxNprzFapFJWGApfzi8F5HNl38YOxqhfeJiQnZmrcy2eIsKBOA7bifAbrpUW8G78vYJgf7tnqkfuyE6O/8OZIQdSuCEmPdiX0FU3anVp1zKneag/Ax//5qQ4Zcv2z1lcWzUYkE2TdfKEC946Q/fwd6rI3tmPd9O3T3NDqpBNPGgZjIO8t5la3Gx1te+UvhozIliuBkfnmnwelta8oAZ7bpzjERmOJnR3XzmnnJJGQnvUrJ+G4Jq/MARg4XFe525zOnzqJopIdXWLjlbg6+VdVrF5Fb9EJ2CVaXh9TlDBd/caRKZz2+fV8m4tunM973z0urwpTQZiv1fmIBchsNiiSNukE74Aptudna/P5SwETfJQsbIHjak0g1xqmEmZb8nY/JuBhuRfYaM8slgMnxARhroU/mJ8PGPl/VcIxJ5NPo1uxZ7+lbDkX9E7fYsdMEo8E4pXZqc2TpdobvKRSZGvxILHfeQ==;UhpO7781ZuxJL9eJIyk16w=="
 ---

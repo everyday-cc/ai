@@ -24,6 +24,22 @@ images:
     height: 1024
     isCached: true
 
+related:
+  - title: "Google’s AI ambassador walks a fine line between hype and doom"
+    excerpt: "it fired well-known AI ethics researcher Timnit Gebru after she published a paper arguing the company’s AI could be infected by racism and sexism due to the data it was trained on. Meanwhile ..."
+    publishedDateTime: 2023-08-10T10:36:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/08/09/google-james-manyika-ai-existential-threat/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YLO7VQUHETWL4HH44SEJT3VZWA_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+
 secured: "gRb65PBr/4/Z0qDw5eIrQeaL6dCQ+d8WFVylmrWa/e+fqQGKk5H558x2F+XXWodOdiyr5cDt8X+gc0Eg8ikcHgXHaLjmFs4zuKlgWqHDTzOOxt07QO9cgioTCG9QaG9zfnmnBvTRBwrW/4jsbm7abM65JDkhVaxkZVu+8/81T2nLFYoSvKGhfcvArligFB/4B7XOPAHy1TW2IU5KRVlRhldweNR9yxqZlts0oOCzDbLXeMsZfZuxxVQ5moMRgxOmIVUZ/ZhcPEnLCQavTcGmeakpJ4arHWFluAxVkiLcXQDumCc7ENAUyHEsVFWUrFUh2gLDIf6Jlobs6Hp2FSdA4VzoRnC0I1q+XuKa11qlGp0=;ibmgXAFLqrf5EcTu52Vxlg=="
 ---
 

@@ -2,6 +2,228 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-07-20-google-is-pushing-ai-tool-on-newsrooms-to-help-journalists.md",
+      "title": "Google Is Pushing AI Tool on Newsrooms to 'Help' Journalists",
+      "excerpt": "Google is inserting itself in newsrooms with the promotion of its new AI tool that it says will “help” journalists create articles. The company has reportedly pitched its software to The New York Times, The Washington Post, and News Corp, which owns The Wall Street Journal, saying it can effectively produce news stories.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-is-pushing-ai-tool-on-newsrooms-to-help-journali-1850659346",
+      "originalUrl": "https://gizmodo.com/google-is-pushing-ai-tool-on-newsrooms-to-help-journali-1850659346",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8207b7d5338a19dc74b78bbf70ac99b4.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world.md",
+      "title": "Chip Giant AMD Says AI To Be 'Mega-trend' For Computing World",
+      "excerpt": "AI will be the \"defining mega-trend\" for the global computing industry, the head of chip giant AMD said Thursday in Taiwan, where the majority of the world's semiconductors powering the technology is produced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3",
+      "originalUrl": "https://www.barrons.com/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP1111428094401440029311815910956682994861---1.jpg",
+          "width": 768,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3",
+      "publishedDateTime": "2023-07-20T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-artificial-intelligence-uk-and-frances-battle-for-european-leadership.md",
+      "title": "Artificial Intelligence: UK and France’s Battle for European Leadership",
+      "excerpt": "Explore how the competition between the UK and France to emerge as the European leader in AI symbolises more than national pride; it's a testament to their shared belief in the potential of AI to shape the future.",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/news/artificial-intelligence-uk-frances-battle-european-leadership/",
+      "originalUrl": "https://techround.co.uk/news/artificial-intelligence-uk-frances-battle-european-leadership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-forbes-daily-artificial-intelligence-and-what-you-need-to-know.md",
+      "title": "Forbes Daily: Artificial Intelligence And What You Need To Know",
+      "excerpt": "Good morning, Seemingly overnight, artificial intelligence began to dominate public consciousness thanks to the launch of ChatGPT in November. In just two months, the bot had 100 million users ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/daniellechemtob/2023/07/20/forbes-daily-artificial-intelligence-and-what-you-need-to-know/",
+      "originalUrl": "https://www.forbes.com/sites/daniellechemtob/2023/07/20/forbes-daily-artificial-intelligence-and-what-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-generative-ai-and-solving-the-blank-page-problem.md",
+      "title": "Generative AI And Solving The 'Blank Page' Problem",
+      "excerpt": "As we white-knuckle the early days of generative AI, here’s my viewpoint on where the machine and human value begins and ends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b304e0b8ffa27f33c85e4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/amp/",
+      "publishedDateTime": "2023-07-20T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-risks-associated-with-off-the-shelf-ai-toolsand-how-to-mitigate-them.md",
       "title": "Risks Associated With Off-The-Shelf AI Tools—And How To Mitigate Them",
       "excerpt": "In the wrong hands, they could turn into highly potent sources of malicious code—code designed to harm the software or enable security breaches. Employees using generative AI tools could unwittingly make their companies vulnerable to bad actors looking to generate malicious code.",
@@ -954,239 +1176,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-how-to-build-the-ultimate-gpu-cloud-to-power-ai.md",
-      "title": "How to Build the Ultimate GPU Cloud to Power AI",
-      "excerpt": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/audio/2023-07-19/how-to-build-the-ultimate-gpu-cloud-to-power-ai-podcast",
-      "originalUrl": "https://www.bloomberg.com/news/audio/2023-07-19/how-to-build-the-ultimate-gpu-cloud-to-power-ai-podcast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/navi/images/radio-thumbnail-745046050e.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-ai-takeover-8-jobs-that-are-safe-for-now.md",
-      "title": "AI Takeover? 8 Jobs That Are ‘Safe for Now’",
-      "excerpt": "Artificial intelligence -- while still in its nascent stages -- seems to be omnipresent, revolutionizing everything including the way we work and the way we make money. Of course, one of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/ai-takeover-8-jobs-safe-173711864.html",
-      "originalUrl": "https://www.aol.com/ai-takeover-8-jobs-safe-173711864.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/4ZpRNSIvnfn0VKJ6NTg24A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/4c59741820c8c43b6b894e955e44b478",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-why-many-in-china-unlike-in-the-us-see-ai-as-a-force-for-good.md",
-      "title": "Why many in China – unlike in the US – see AI as a force for good",
-      "excerpt": "For instance, artificial intelligence in China has been strategically integrated ... The internet giant Baidu now operates fully driverless taxi services in government-approved areas of Wuhan, Chongqing and Beijing. Baidu is testing the service in 10 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/07/20/3c054da4-c2c6-4ef2-a80f-ae1d02c43a45_488b870d.jpg?itok=k8LRczI9&v=1689787730",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "publishedDateTime": "2023-07-19T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-this-changed-the-way-i-look-for-ai-stocks-forever.md",
-      "title": "This Changed the Way I Look for AI Stocks Forever",
-      "excerpt": "The good news is the AI bubble - which still has a little air left in it - is starting to shrink as investors come to their senses and realize that a $2-per-share bottling that slapped\"AI\" in its name this March isn't going to hit $487.",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/",
-      "originalUrl": "https://moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/07/image001.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/amp/",
-      "cdnAmpWebUrl": "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/amp/",
-      "publishedDateTime": "2023-07-19T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-tuition-financial-aid.md",
-      "title": "Tuition & Financial Aid",
-      "excerpt": "The Master of Science in Machine Learning and Data Science tuition for the 2023-2024 academic year is $21,500 per quarter, plus an added $266 health services fee and a $125 ... Science program are eligible for financial aid. Prospective students should ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/tuition-financial-aid.html",
-      "originalUrl": "https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/tuition-financial-aid.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mccormick.northwestern.edu/machine-learning-data-science/images/overview/tuition-financial-aid.jpg",
-          "width": 770,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mccormick.northwestern.edu",
-        "domain": "northwestern.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-real-estate-prices-home-values-pr
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8?amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Time To Redesign Your Career For The Age Of Artificial Intelligence"
-    excerpt: "The continued rise of AI will change the type of work we do, and how we do it, but augmenting rather than replacing human capabilities."
-    publishedDateTime: 2023-08-13T21:30:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d940f4725deaf2b4635ebc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "djAzPxawNUIlq/JNaIdDhlUSfPLNnJgpjIdKgWK7/avpd8S1VyH6/7bLmqscpsOo2iyoZAkAtFJTd5eFGTW2xMR0SNOdlCDUfo/a3g0psWClVuvcJ4jzEIDwh9tS84VB9nIytu7Thc+D8fqEAbSybzTdKuYlZkqrygw6VOVhb48+mHWvWMwpKBnJSgSOIIvywOn8W0X6kdBU1sJXuZTomdfjBCCvKjuUL9W4m/hXAWPPEG7bHzCP4tvBMhk29Ky8nz/+rydf75zIUC0cwOVNZGG6CgZWP9pb7MhGTBmPQSt9qSsT1R9pHrmoGf3j4ljUTIqW/cy7Zb/hJbWL3pL8402EICI6lIVJ8AtevWpDln8xcCJD2LYhCb4s1ZxWHHUbeJE5dmneS+WL+V+dvawuPb78z5X5WEllfk6BfLNVELcgX25vPqhUQxY9jjvyt4JdURFw7NqUoHEFTdEhwP6Lb9Gq3C9x5H2dBbQUqc8AMlUw8dxJpXR8bBcBcc3mvmk4wiItelH5PX1jrJrO/hZyvg==;6OHagZ4XFwDngi0LKUS9tw=="
 ---

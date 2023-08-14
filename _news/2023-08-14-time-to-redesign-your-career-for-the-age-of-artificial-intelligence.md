@@ -30,22 +30,40 @@ images:
     isCached: true
 
 related:
-  - title: "AI could soon tell you the future value of your home"
-    excerpt: "MIT used an AI bot to make what researchers called \"very accurate\" predictions for how home prices would change over time."
-    publishedDateTime: 2023-08-10T10:15:00Z
-    webUrl: "https://www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8?amp"
+  - title: "When you gaze into the AI, the AI also gazes into you"
+    excerpt: "Web3, AI: Always worth paying attention when Goliath shifts on his ... Across the site, here are some of the startup stories y’all flocked to since the previous Startups Weekly. Karma, karma, karma, karma, komeuppance: Apparently not entirely immune ..."
+    publishedDateTime: 2023-08-11T18:59:00Z
+    webUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/"
+    ampWebUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://i.insider.com/64d3e32dec14ba0019f3859e?width=1200&format=jpeg"
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-637552576.jpg?resize=1200,800"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
+  - title: "Humans the risk of artificial intelligence"
+    excerpt: "The risk of AI is not AI, but the human, and the carnage left in the wake of our ideological attachments. As much as we may assume our expertise and ability to use, misuse, guide or control the remarkable tools that we have created, we will continue to stumble towards our demise as long as the awareness remains external to the human experience."
+    publishedDateTime: 2023-08-12T08:43:00Z
+    webUrl: "https://mg.co.za/thoughtleader/2023-08-12-humans-the-risk-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Mail & Guardian
+      domain: mg.co.za
+    quality: 19
+  - title: "3 ways to play the artificial intelligence boom"
+    excerpt: "Stocks related to artificial intelligence (AI) have been leading the market higher this year, with names such as Microsoft, Nvidia and Apple jumping between 33% and 218% year to date. These gains are reminiscent of the dotcom bubble in the late 1990s. I’m not entirely convinced we’re in a similar position, but we are certainly in a peculiar market."
+    publishedDateTime: 2023-08-10T12:57:00Z
+    webUrl: "https://moneyweek.com/investments/3-ways-to-play-the-ai-boom"
+    type: article
+    provider:
+      name: MoneyWeek
+      domain: moneyweek.com
+    quality: 17
 
 secured: "syjaaY2nBGwFvtUIXw6wxXrqNwfmIoe+NyJM+sUMIif9XCcLEnut5SQ6m9+NnU7SByfbyqUyPLUQQvaTpTDOw4RV8WJVY9x6N/SszHw3TEmdrSlbRJFIDQyjVKLvX7yla3CNoVgW4lPxpp+NnbhKwCgWIDhkhxbzJnGy3o/6uqhcbPpSR2KT0NNHRWXPWx5Ut38EfS3VMgwt0XUH++aWwMw62+VqCTKiu7HcmPvoq6kIWeV8ceBlkepnf1ek5cr4RVvNMczHLb+1GBX1VeXhYbBZcPkq0fF1o3UNYVRoOibhlsWf/yoaTuAqZ1y4sRaA31GvGSP3j7Bih4PwGtHAYrVeD6EjqZn1DAmr9Jy+DlAvRX9sH1XxsU36L6tnUChYYSDp7DcdqAtAi6Oo5YIG3ExJUniEBiuN+kwUjV4jeqBgAygfgko1l7mvDvx6Jm2sPiTV7+ChSuD8VXnfktTwJd4AdFW+CZn0o8Fu9ojehQy7IELBK7rbfoG8vO1mrLkMkLRDKHZzcR35Fa4ruRJkcA==;xElTaUNG9dEC1KpYLHV83Q=="
 ---

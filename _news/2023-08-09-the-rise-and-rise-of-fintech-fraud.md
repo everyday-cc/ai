@@ -122,20 +122,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Lytus intends to invest $50 million in the fintech business"
-    excerpt: "Lytus intends to invest $50 million in the fintech business - Nasdaq-listed Lytus Technologies Holdings, a leading global technology-driven services firm, plans to invest"
-    publishedDateTime: 2023-08-09T09:44:00Z
-    webUrl: "https://www.siliconindia.com/news/business/lytus-intends-to-invest-50-million-in-the-fintech-business-nid-224641-cid-3.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 24
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/h7BHAut8.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "TechSee Brings Computer Vision AI and Augmented Reality Service Automation to Amazon Connect"
     excerpt: "TechSee, Brings AI Visual Service Automation to AWS Omnichannel Customer Experience NEW YORK, Aug. /PRNewswire/ -- TechSee, a global leader in Visual Service Automation, has announced today it is work"
     publishedDateTime: 2023-08-10T13:29:00Z
@@ -154,15 +140,6 @@ related:
       name: American Banker
       domain: americanbanker.com
     quality: 19
-  - title: "Strategic ingenuity: Insights on sustaining tech excellence and innovation in Fintech Sector"
-    excerpt: "In the rapidly evolving landscape of fintech, achieving and sustaining technological excellence and innovation is paramount for companies to remain"
-    publishedDateTime: 2023-08-09T09:30:00Z
-    webUrl: "https://www.dqindia.com/strategic-ingenuity-insights-on-sustaining-tech-excellence-and-innovation-in-fintech-sector/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 8
   - title: "Qraft Technologies and LG AI Research Enter Strategic Partnership – Exploring the Potential of Artificial Intelligence-Driven Solutions in the Financial Industry"
     excerpt: "SEOUL, South Korea-- ( BUSINESS WIRE )-- Qraft Technologies, a leading invest-tech company developing artificial intelligence solutions, has formally entered into a strategic technology research partnership with LG AI Research, an artificial intelligence research hub of LG group, with the signing of a Memorandum of Understanding (“MoU”)."
     publishedDateTime: 2023-08-10T13:00:00Z

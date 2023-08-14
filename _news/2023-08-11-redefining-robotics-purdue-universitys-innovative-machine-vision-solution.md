@@ -50,6 +50,17 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "University of Illinois developing 'Star Wars'-inspired self-driving wheelchair"
+    excerpt: "For their latest life-changing invention, University of Illinois researchers took inspiration from Star Wars. They've developed a hands-free wheelchair, that could eventually operate like a self-driving car."
+    publishedDateTime: 2023-08-14T02:44:00Z
+    webUrl: "https://www.fox32chicago.com/news/university-of-illinois-developing-star-wars-inspired-self-driving-wheelchair"
+    ampWebUrl: "https://www.fox32chicago.com/news/university-of-illinois-developing-star-wars-inspired-self-driving-wheelchair.amp"
+    cdnAmpWebUrl: "https://www-fox32chicago-com.cdn.ampproject.org/c/s/www.fox32chicago.com/news/university-of-illinois-developing-star-wars-inspired-self-driving-wheelchair.amp"
+    type: article
+    provider:
+      name: FOX 32
+      domain: fox32chicago.com
+    quality: 35
   - title: "Cruise now testing self-driving cars in Atlanta"
     excerpt: "For the moment, there’s still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta. While Cruise intends to eventually operate a ride-hailing"
     publishedDateTime: 2023-08-09T20:50:00Z
@@ -109,7 +120,7 @@ related:
   - title: "Calif. opens floodgates for self-driving cars"
     excerpt: "Cars without drivers have become a common sight on San Francisco's winding, hilly and often foggy streets. Thursday's vote stripped most limitations on operating and charging for rides, essentially creating more ride-hailing services like Uber or Lyft — just without the drivers."
     publishedDateTime: 2023-08-13T07:45:00Z
-    webUrl: "https://www.stltoday.com/eedition/page-a11/page_3cfc30ba-cee2-5b16-8bb6-fd870b645391.html"
+    webUrl: "https://www.stltoday.com/eedition/page-a10/page_4aec74df-508b-5d07-836a-2da290121a70.html"
     type: article
     provider:
       name: St. Louis Post-Dispatch

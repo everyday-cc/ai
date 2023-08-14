@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/china-closes-record-number-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/"
 type: article
 quality: 83
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/c4d91d6/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2Fdf3%2Fbe88c4e651db4a7dbe102614d7272948%2Fdf361fcd68a54b8da81329dfc436b5ec%2Fposter_0a47622d89c94d479fafd0c213d1a00f.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "China Plans To Restrict Use Of Facial Recognition Tech By Businesses, Issues Draft Guidelines"
-    excerpt: "China is planning to restrict private businesses from using facial recognition technology less than two years after it announced a data security law."
-    publishedDateTime: 2023-08-09T09:32:00Z
-    webUrl: "https://www.ibtimes.com/china-plans-restrict-use-facial-recognition-tech-businesses-issues-draft-guidelines-3708019"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 28
-    images:
-      - url: "https://d.ibtimes.com/en/full/3134691/facial-recognition-systems-could-using-your-photos-without-your-knowledge.jpg"
-        width: 1920
-        height: 1285
         isCached: true
 
 secured: "kkhMtUkv11APdWkoSN4YaOTXPcb3Jd4g42Rz2/KCUxt0rxqcrsWLFb11iFrmS8wKwc3VSG2Qhkz5EHDOORhYirE/wPwrmYUY9WlSxu96dDOw+Wr5pIQOtdlABcqHrepLzU1m3a9i3UdDEbitnSNkSqMLQOWu+3nQbkyuV/YP5xpVFzEuMzGO5XdynuEQZRTJuOyIpDvYCfp9G/E1uE9AvNbIJoA65wXjdnz5ICL21RPGmltfyB8Uypk7AcY3NDjFXhtG/Y9uBBgWq2q8Mj9JXdY61J0o2jyHwIRpY8uE+YW5fcqt28KFSNXrr2HMIeANyzfSUVRPA2Zbdcxq5UM7a9NNxsGpUBpY1tfQWJua6v84iQSkLVsg8Odn9LLAGmkLWbg4G9jc6ergQT0iPxtUfN3RICp2/alcz9ByZrcQvwCXeyLFX1GF5MpHZWsj8lJ2YVoC/v47CZDSTv1LqMq9g21qLMIDW9xGboU/PU0Ir9GsD5wRYgoTEtuwwKulyeyMQAxLYcOIgzOKzOPItqFQeA==;rqjhE5i5CRjq59ucFzmzRA=="

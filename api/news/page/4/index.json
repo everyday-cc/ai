@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-10-groundbreaking-development-of-computer-vision-ai-accelerator-chip.md",
+      "title": "Groundbreaking development of computer vision AI accelerator chip",
+      "excerpt": "When employed in a security camera monitoring a rapidly-evolving active shooter situation, for example, the chip can facilitate real-time identification of different types of firearms to trigger an alarm automatically. This capability could be a game changer and potentially save many lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electropages.com/2023/08/groundbreaking-development-computer-vision-ai-accelerator-chip",
+      "originalUrl": "https://www.electropages.com/2023/08/groundbreaking-development-computer-vision-ai-accelerator-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electropages.com/storage/app/media/2023/8-August/blueshift-ComputerVision.jpg",
+          "width": 302,
+          "height": 302,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electropages",
+        "domain": "electropages.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-new-ai-tech-aims-to-detect-the-origin-of-cancers-for-optimal-treatments-an-important-step.md",
+      "title": "New AI tech aims to detect the origin of cancers for optimal treatments: ‘An important step’",
+      "excerpt": "Researchers at MIT have created an artificial intelligence (AI) model that analyzes the genetic information and predicts where in the body tumors first appeared.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step",
+      "originalUrl": "https://www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b20a8b4d-d1d9-46e9-a471-d4f6f6c9211e/f5657d0d-4d70-46a3-ba0e-25c77dafa905/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step.amp",
+      "publishedDateTime": "2023-08-09T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-what-the-bible-can-teach-christians-about-how-to-navigate-ai.md",
       "title": "What the Bible can teach Christians about how to navigate AI",
       "excerpt": "As Christians evaluate technologies, we need to be asking ourselves how technologies create new symptoms that distract us from the underlying problem.",
@@ -10,7 +105,7 @@
       "originalUrl": "https://www.foxnews.com/opinion/what-bible-teach-christians-navigate-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -295,6 +390,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-10-ai-ethics-in-engineering.md",
+      "title": "AI ethics in engineering",
+      "excerpt": "Navigate AI ethics: Ensure responsible, fair, and trustworthy AI in engineering. In an era where AI is revolutionising the engineering industry, understanding the ethical implications of this powerful technology is more critical than ever. This engaging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.imeche.org/training-qualifications/training-details/ai-ethics-in-engineering",
+      "originalUrl": "https://www.imeche.org/training-qualifications/training-details/ai-ethics-in-engineering",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Institution of Mechanical Engineers",
+        "domain": "imeche.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-innovationrx-70-of-us-adults-concerned-about-ai-in-healthcare.md",
       "title": "InnovationRx: 70% Of U.S. Adults ‘Concerned’ About AI In Healthcare",
       "excerpt": "InnovationRx is your weekly digest of healthcare news. To get it in your inbox, subscribe here.",
@@ -355,7 +493,7 @@
       "originalUrl": "https://www.forbes.com/sites/tonybradley/2023/08/09/cybersecurity-in-the-age-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -990,7 +1128,7 @@
       "originalUrl": "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1082,153 +1220,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-fluidais-artificial-intelligence-powered-postsurgical-monitor-stream-platform-launches-globally.md",
-      "title": "FluidAI's artificial intelligence-powered postsurgical monitor, Stream™ Platform, launches globally",
-      "excerpt": "The revolutionary Stream™ Platform paves the way for early detection of life-threatening postoperative complications KITCHENER, ON, Aug. 9, 2023",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/fluidai-s-artificial-intelligence-powered-postsurgical-monitor-stream-platform-launches-globally-1032535727",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fluidai-s-artificial-intelligence-powered-postsurgical-monitor-stream-platform-launches-globally-1032535727",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2171277/FluidAI_Medical_FluidAI_s_artificial_intelligence_powered_postsu.jpg",
-          "width": 400,
-          "height": 305,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-microsoft-and-aptos-blockchain-partner-to-revolutionize-web-30-and-ai-integration.md",
-      "title": "Microsoft and Aptos Blockchain Partner to Revolutionize Web 3.0 and AI Integration",
-      "excerpt": "Microsoft partnered with Aptos Labs, a layer 1 innovative blockchain platform co-founded by former Facebook employee",
-      "sourceUrl": null,
-      "webUrl": "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/",
-      "originalUrl": "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/08/microsoft-aptos-web-3-ai.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/",
-      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/",
-      "publishedDateTime": "2023-08-09T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "coinspeaker",
-        "domain": "coinspeaker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker.md",
-      "title": "Generate creative advertising using generative AI deployed on Amazon SageMaker",
-      "excerpt": "Creative advertising has the potential to be revolutionized by generative AI (GenAI). You can now create a wide variation of novel images, such as product shots, by retraining a GenAI model and providing a few inputs into the model, such as textual prompts (sentences describing the scene and objects",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 300,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/23/ml14623-pic1.png",
-          "width": 625,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T08:51:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.deccanherald.com/india/delhi/10000-cops-facial-recogni
 webUrl: "https://www.deccanherald.com/india/delhi/10000-cops-facial-recognition-cameras-part-of-independence-day-security-at-red-fort-2646184"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,24 @@ topics:
   - AI
   - AI in Security
   - Natural Language Processing
+
+related:
+  - title: "1,000 Face Recognition Camera, Kite Catchers, Installed In Delhi Ahead Of Independence Day Celebration"
+    excerpt: "The Delhi Traffic Police on Sunday issued a traffic advisory for vehicular movement in Delhi on Tuesday as Prime Minister Narendra Modi would address the nation from the Red Fort."
+    publishedDateTime: 2023-08-14T02:54:00Z
+    webUrl: "https://www.outlookindia.com/national/1-000-face-recognition-camera-kite-catchers-installed-in-delhi-ahead-of-independence-day-celebration-news-310531"
+    ampWebUrl: "https://www.outlookindia.com/national/1-000-face-recognition-camera-kite-catchers-installed-in-delhi-ahead-of-independence-day-celebration-news-310531/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/1-000-face-recognition-camera-kite-catchers-installed-in-delhi-ahead-of-independence-day-celebration-news-310531/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 43
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1691921231.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "qTU1fuwQd07MjOD1SmQXalSlq3moXwsUvqfsZwfcdjNJh6VJCvodUQOHl8yvulQ1PXEu02naX9MD5iEfUhJdYfLhBsTn2Wd1DHAApeR5R5XUFYgaRWJDpdSo0IdLNmHTKljlPb0xgGBVaVKbbMhvPoHdV9X6VfCWzGzoJug1qy8OvHiQC5ERHLIRNH7UFl3Ee6CuCokJpdrafuqX9pOBsgX4UltThYWR+NgXAp6SvcaGxt1x/5/8Y8TaWzCuADuUsGqP+MUreu0XA+uOOAdRp0/PECIv+7T7qIfZK/I0Pw4xBSI2pKsYWfbuMnfHA4k2EQS/WEA25/ZUi+FocN0TGCzGne6Qp8YUO9TTF/qEpgBQJ4OqLuA6Q/uVwN6QwtClAJLemJ4j9nTKMnTJ1tcHVXDOvPnSPE+y3r1t3iXTGZ0eEfraAulHxwHtWZ1zCoNgFCSROPkEqmx+pS2aQSXNqxUpT1IP/0Dh4sbrKLmzi/10lKw9Ssyy/fd08HlhMbBB8xBKcZ+riJ3OGMWHZYu5DQ==;Oh5z3JmqbGf4OEA1z3G4Jg=="
 ---

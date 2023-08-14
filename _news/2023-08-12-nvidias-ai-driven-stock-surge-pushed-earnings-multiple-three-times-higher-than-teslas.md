@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-ea
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html"
 type: article
 quality: 98
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/RqZGLD9cNLDo9TwwpFEFAD-1200-80.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Nvidia improves AI processor"
-    excerpt: "Grace Hopper superchip increases capacity and speed Nvidia announced an updated AI processor that gives a jolt to the chip's capacity and speed. Nvidia  told the gathered throngs at the Siggraph conference in Los Angeles that its Grace Hopper superchip,"
-    publishedDateTime: 2023-08-09T09:52:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57390-nvidia-improves-ai-processor"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/3e814bcb2a51dbe3c5633f6e423c21b2_L.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "Chinese Tech Titans Move To Stockpile $5 Billion Of Nvidia AI Chips Fearing Further Export Restrictions By U.S This Time Targeting A800 Processors"
     excerpt: "Nvidia introduced A800 as a replacement chip with a slower processing speed for Chinese market after the U.S blocked China’s access to two of its high-end microchips including its leading-edge A100 processors."

@@ -79,6 +79,17 @@ related:
         width: 270
         height: 203
         isCached: true
+  - title: "PayPal keen to leverage AI for security solutions"
+    excerpt: "PayPal is leveraging AI to develop security solutions to combat the intensifying threat landscape. It is creating an ecosystem of security and fighting threats as a collective group. Covid, economic crisis,"
+    publishedDateTime: 2023-08-14T03:11:00Z
+    webUrl: "https://www.thehindubusinessline.com/money-and-banking/paypal-keen-to-leverage-ai-for-security-solutions/article67190686.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/paypal-keen-to-leverage-ai-for-security-solutions/article67190686.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/paypal-keen-to-leverage-ai-for-security-solutions/article67190686.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 56
   - title: "Top cybersecurity products at Black Hat USA 2023"
     excerpt: "Here are the top cybersecurity tools, platforms, capabilities, services, and technologies launched at Black Hat USA 2023 that you need to know about."
     publishedDateTime: 2023-08-09T23:15:00Z

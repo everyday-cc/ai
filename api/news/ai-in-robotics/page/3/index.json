@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-28-speaking-robot-our-new-ai-model-translates-vision-and-language-into-robotic-actions.md",
+      "title": "Speaking robot: Our new AI model translates vision and language into robotic actions",
+      "excerpt": "Google DeepMind introduces a new vision-language-action model for improving robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/",
+      "originalUrl": "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/speaking_robot.width-1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/amp/",
+      "publishedDateTime": "2023-07-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-is-indian-agriculture-ready-for-robotics-and-ai.md",
+      "title": "Is Indian agriculture ready for robotics and AI?",
+      "excerpt": "Does India need a national level institute for agricultural robotics and artificial intelligence? The Parliamentary Standing Committee on Agriculture, an all-party Parliamentary mechanism tasked ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2018/12/Tractor-770x433.jpg",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html/amp",
+      "publishedDateTime": "2023-07-27T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-how-to-invest-in-artificial-intelligence.md",
       "title": "How to Invest in Artificial Intelligence",
       "excerpt": "Here are some of the best AI ETFs to consider: Global X Robotics & Artificial Intelligence ETF (BOTZ): This fund invests in companies that are likely to benefit from the growth in robotics and AI ...",
@@ -1280,84 +1376,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog-companion-in-stem-and-robotics-learning.md",
-      "title": "The New Breed of Robotics is Here: Meet Bittle X, the Voice-controlled Robot Dog Companion in STEM and Robotics Learning",
-      "excerpt": "Petoi, the maker of futuristic robotic pets, has expanded its Bittle robot dog lineup with the introduction of Bittle X, a palm-sized, open-source programmable robot dog, designed for STEM and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog/article_7fd8f922-a6db-5352-96cf-ede8d3664f09.html",
-      "originalUrl": "https://www.news-journal.com/the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog/article_7fd8f922-a6db-5352-96cf-ede8d3664f09.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-un-security-council-holds-1st-meeting-on-ai-very-serious-consequences.md",
-      "title": "UN Security Council holds 1st meeting on AI: ‘Very serious consequences’",
-      "excerpt": "Robots answer questions at AI press conference The United ... Jack Clark, co-founder of high-profile AI startup Anthropic, and Professor Zeng Yi, co-director of the China-UK Research Center for AI Ethics and Governance. “Both military and non-military ...",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/9840681/un-security-council-ai/",
-      "originalUrl": "https://globalnews.ca/news/9840681/un-security-council-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://globalnews.ca/wp-content/uploads/2023/07/Untitled-design-56.png?w=276",
-          "width": 275,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://globalnews.ca/news/9840681/un-security-council-ai/amp/",
-      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9840681/un-security-council-ai/amp/",
-      "publishedDateTime": "2023-07-18T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

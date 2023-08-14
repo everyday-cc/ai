@@ -75,15 +75,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI 'Brain' Technology by Rezolve Joins Forces with NAGA to Revolutionise Online Payment together with Brokerage Transformation"
-    excerpt: "Frankfurt listed, German Fintech leader, The NAGA Group A.G. (XETRA: N4G) (ISIN: DE000A161NR7), operator of the All-in-One Financial Super App, has announced a ground-breaking partnership with Rezolve AI Limited."
-    publishedDateTime: 2023-08-09T09:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/09/9861620.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "AI 'Brain' Technology by Rezolve Joins Forces with NAGA to Revolutionise Online Payment Together with Brokerage Transformation"
     excerpt: "Frankfurt-listed, German Fintech leader, The NAGA Group A.G., operator of the All-in-One Financial Super App, has announced a ground-breaking partnership with Rezolve AI Limited. The integration of Rezolve's AI platform,"
     publishedDateTime: 2023-08-09T19:27:00Z

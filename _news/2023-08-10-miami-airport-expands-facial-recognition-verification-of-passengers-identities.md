@@ -41,36 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Latest Insights About AI And The Law With A Keen Spotlight On The American Bar Association Remarkable Resolution 604"
-    excerpt: "Take an informative journey through the American Bar Association considerations on AI and the law, including the ABA Resolution 604 that was passed earlier this year."
-    publishedDateTime: 2023-08-09T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/09/latest-insights-about-ai-and-the-law-with-a-keen-spotlight-on-the-american-bar-association-remarkable-resolution-604/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/09/latest-insights-about-ai-and-the-law-with-a-keen-spotlight-on-the-american-bar-association-remarkable-resolution-604/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/09/latest-insights-about-ai-and-the-law-with-a-keen-spotlight-on-the-american-bar-association-remarkable-resolution-604/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d323dcc7d1559713d9d11d/0x0.jpg?format=jpg&crop=3108,2071,x134,y0,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Xiao-I Elevates Global Presence with Debut Showcase of AI Innovations at Ai4 2023 Exhibition in Las Vegas"
-    excerpt: "Xiao-I's participation at Ai4 reinforces its commitment to global expansion, international product deployment, and continuous AI innovation, all driving its continued growth trajectory. This milestone also marks Xiao-I's inaugural presentation of products and services in the U.S., showcasing innovative AI technologies to American companies."
-    publishedDateTime: 2023-08-09T09:24:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273926217/xiao-i-elevates-global-presence-with-debut-showcase-of-ai-innovations-at-ai4-2023-exhibition-in-las-vegas"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 22
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1691469780468.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "i9uUafF3h2ojGqi5ffuHVBX1hMcFhsSuXnKhlsNEx64sg3If5OhXVRdsm4lr7eb1M230oGkoQ41qcIB+d5rA4TeaKc3XNEhsGbdWdPD7suVgCGRueUsJsrHILZDvSi/6vHdnz61tPgDAx1yfPNzVN/gjVtsAZPBegwN/yN31YmgtLRngBcFyXeOpKXMUaBv8VyOHHfnoW7ZMl2WVB+Wead1jn3o6LaZMt84SerZXU2zRlS+/i5Myqh3pBCsXm+FF6TwS+XlTZiQ7ejBGmV5A0/k/LvZ1VAfERK6l3s1ZF8+A4yNyRxiys7CH7G4A1J7izjFYHo9KfHu1ao85sCRf6GucgqNhd82a3DpSg543grz5VrACe/Q/VszXdz9bnlcZ4yIQsrflg5n1YPqEberuN3HHB0tMoXYbDIWV3BroO/4AIlpxT/VqnA930F0Imle4LtgkPsTym2Q3N92Bao1ShO+/+vFXxKRMnlGVCjHT2tQKbuBdEfmM5qH9HJOJZl63UpYenGEfmpy040wTGKjoKg==;PM+rgX4NBFYseezDymmX2A=="
 ---

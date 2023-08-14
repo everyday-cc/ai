@@ -151,22 +151,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Elsevier wades into generative AI - cautiously"
-    excerpt: "Scientific giant Elsevier is cautiously adding generative AI capabilities to its Scopus abstract and citation database. And it jumpstarted the process by leveraging the ChatGPT engine."
-    publishedDateTime: 2023-08-09T09:44:00Z
-    webUrl: "https://diginomica.com/elsevier-wades-generative-ai-cautiously"
-    ampWebUrl: "https://diginomica.com/elsevier-wades-generative-ai-cautiously?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/elsevier-wades-generative-ai-cautiously?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-08/Screenshot%202023-08-09%20at%2010.42.29.png"
-        width: 488
-        height: 294
-        isCached: true
   - title: "Tackling Healthcare’s Biggest Burdens with Generative AI"
     excerpt: "Spread the loveIn recent years, the healthcare industry has faced numerous challenges. From managing the overwhelming patient data to combating the increasing prevalence of chronic diseases, these burdens have put immense pressure on medical professionals and healthcare systems."
     publishedDateTime: 2023-08-11T11:25:00Z

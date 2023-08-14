@@ -34,6 +34,20 @@ related:
       name: BBC
       domain: bbc.com
     quality: 64
+  - title: "IBM’s “Brain-Like” Chip Breakthrough to Transform AI Energy Efficiency"
+    excerpt: "IBM has introduced a \"brain-like\" chip prototype that'll reduce battery consumption, leading to greener AI developments."
+    publishedDateTime: 2023-08-14T02:19:00Z
+    webUrl: "https://techreport.com/news/ibm-brain-like-chip-breakthrough-to-transform-ai-energy-efficiency/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/08/shutterstock_1092369068.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "IBM presents ‘brain-like’ chip for more environmentally-friendly AI tools"
     excerpt: "IBM has developed a prototype “brain-like” chip that could lead to less battery-draining artificial intelligence (AI) semiconductors for smartphones."
     publishedDateTime: 2023-08-11T15:37:00Z

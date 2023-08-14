@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia improves AI processor"
-    excerpt: "Grace Hopper superchip increases capacity and speed Nvidia announced an updated AI processor that gives a jolt to the chip's capacity and speed. Nvidia  told the gathered throngs at the Siggraph conference in Los Angeles that its Grace Hopper superchip,"
-    publishedDateTime: 2023-08-09T09:52:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57390-nvidia-improves-ai-processor"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/3e814bcb2a51dbe3c5633f6e423c21b2_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
 
 secured: "+V9zOQZyTSC34qyXb1LBroEGc2UcQ0DHheoBcWhvsIZRab+Y8vaIZQaxHDjdATTGLYBukhgEbh6bkZBwIn2ZFZFbrFRJHj4dV4s9uyzJBu2AygCrVVdngEPej+JHupSgPYGXOy1kNwp3eqSX685gjXAermXWw5ar+6jUEdpkjcvW3BCpwXQXj8lqaJgePF3r95JdVxFCCl7y+yLdMYgo1SFilo3OSKvqayk4B2J6YSPiNd9kV2ULKYroAKKBrE6vGBuCD9b8ore++obaQhfviU/xEQgsDOTWB339OTWyxZjHLJJPe7mLdPAzA5n0xFJWJlLHDezIUmvedT8uzJbsFBKe7BiV3EVpf02G2DTBLmA=;8JAiLs5EHCs6AsQIl8LdAQ=="
 ---

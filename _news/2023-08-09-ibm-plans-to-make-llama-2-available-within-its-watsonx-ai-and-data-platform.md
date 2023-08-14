@@ -1,12 +1,12 @@
 ---
 category: news
 title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
-excerpt: "ARMONK, N.Y., Aug. 9, 2023 /PRNewswire/ -- As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM IBM plans to host Meta's Llama 2-chat 70 billion parameter ..."
+excerpt: "ARMONK, N.Y., Aug. 9, 2023 /CNW/ -- As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM IBM plans to host Meta's Llama 2-chat 70 billion parameter model in ..."
 publishedDateTime: 2023-08-09T12:07:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33662581/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/n33662581/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform"
-ampWebUrl: "https://www.benzinga.com/amp/content/33662581"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33662581"
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33662604/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n33662604/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform"
+ampWebUrl: "https://www.benzinga.com/amp/content/33662604"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33662604"
 type: article
 quality: 72
 heat: -1
@@ -43,17 +43,17 @@ related:
         isCached: true
   - title: "IBM to make Meta’s Llama 2 available on Watson X"
     excerpt: "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,"
-    publishedDateTime: 2023-08-09T18:45:00Z
-    webUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792"
-    ampWebUrl: "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792?amp=1"
+    publishedDateTime: 2023-08-09T22:41:00Z
+    webUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446"
+    ampWebUrl: "https://www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/ibm-to-make-metas-llama-2-available-on-watson-x/544446?amp=1"
     type: article
     provider:
-      name: IT Business
-      domain: itbusiness.ca
+      name: IT World Canada
+      domain: itworldcanada.com
     quality: 74
     images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/08/IBM_watson_x_social.jpg"
         width: 1920
         height: 720
         isCached: true
@@ -150,6 +150,6 @@ related:
       domain: analyticsindiamag.com
     quality: 33
 
-secured: "ozXefrfTek5athSVxS14aDW217NHw0h+RRqtfi8JOXARDWJOq1ZMDucXqMmkJE3pY9wansI847EwO3qHNoKoeR9esi4dbEWB75+eR3/+zap/hEaGi9QLXLh2c4RSRhEBQCMRo29uOOqxqJ/l4EtHyZi4oMSEalWh0rcS73BNIfXQl1OM/CQIQIW8Lf5zVIPHcsJYvAD3I5h7Cv7Nu6g5EHbxI8Gi+/DUQQzcHxO9COcCK9B9c823b5MU01sIhun57wUSJZ1V4q9jCXzLkQ+JRRIn8WTqPqnZQTZIcgMJp04Vy04NRQZ/WoT0ntHUjNVYR2bzSHnnzC/mqFgtcM+TgoQaQR8TpvSVl2d8OvxAQmc=;YzSODY4g8rP0ThFGDQp0fA=="
+secured: "2O9JU+cb+eWxWmqrRPXzYmi0scuHI4tS2b80LhoUIVJVoWOwphUYNiAwS7RUQo2hsLWOMPmqKRqkw9pNemEz+x5rlaMqFD3QpRKsG7+ulWr7psT61mUx7NNS++DnT/bXaLi5AmdcDHevqGITHQbDgw9topT76+BCa+vzFsmtOAjtZJFHSHOf3CVdbD2EBFvhGFQrAlQXkfBfnGg7rBtZycEwa520ZQN891PMxRc/ZbpbKmj+b78gVOjLy7HjSAqbGHrjKolCbeHf0jk0xrYGg7GgEBT8NVOK/FWrDmqZ5VWu/y2O051jU6MAVfLgX2a/r0FXk+RKtTdUaGwReC1JYuO6CPa1qSd9jrv1ZzYOU/I=;KBetk/5Mo65sAYk/zj95gA=="
 ---
 

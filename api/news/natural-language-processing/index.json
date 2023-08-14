@@ -264,7 +264,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-you-better-be-buying-on-each-and-every-dip-1032541918",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -593,6 +593,49 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-speech-and-voice-recognition-technology-market-share-trends-2023-2030-regional-status-and-prospect.md",
+      "title": "Speech and Voice Recognition Technology Market Share, Trends | 2023-2030 | Regional Status and Prospect",
+      "excerpt": "The Global Speech and Voice Recognition Technology market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33615492/speech-and-voice-recognition-technology-market-share-trends-2023-2030-regional-status-and-prospect",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33615492/speech-and-voice-recognition-technology-market-share-trends-2023-2030-regional-status-and-prospect",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33615492",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33615492",
+      "publishedDateTime": "2023-08-07T19:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1385,49 +1428,6 @@
         "AI in Autos",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-bridging-the-ai-language-gap-in-africa-and-beyond.md",
-      "title": "Bridging the AI language gap in Africa and beyond",
-      "excerpt": "AI tools, from ChatGPT to Google Translate, are useless to billions of people in the Global South who don't work in western languages. Researchers and startups from Africa and other parts of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dw.com/en/bridging-the-ai-language-gap-in-africa-and-beyond/a-66331763",
-      "originalUrl": "https://www.dw.com/en/bridging-the-ai-language-gap-in-africa-and-beyond/a-66331763",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.dw.com/image/66379734_6.jpg",
-          "width": 940,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.dw.com/en/bridging-the-ai-language-gap-in-africa-and-beyond/a-66331763",
-      "cdnAmpWebUrl": "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/bridging-the-ai-language-gap-in-africa-and-beyond/a-66331763",
-      "publishedDateTime": "2023-07-29T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dw",
-        "domain": "dw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

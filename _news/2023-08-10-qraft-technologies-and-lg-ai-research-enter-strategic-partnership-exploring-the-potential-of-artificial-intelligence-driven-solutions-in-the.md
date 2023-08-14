@@ -115,20 +115,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Lytus intends to invest $50 million in the fintech business"
-    excerpt: "Lytus intends to invest $50 million in the fintech business - Nasdaq-listed Lytus Technologies Holdings, a leading global technology-driven services firm, plans to invest"
-    publishedDateTime: 2023-08-09T09:44:00Z
-    webUrl: "https://www.siliconindia.com/news/business/lytus-intends-to-invest-50-million-in-the-fintech-business-nid-224641-cid-3.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 24
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/h7BHAut8.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "The Rise, And Rise, Of Fintech Fraud."
     excerpt: "The Rise, And Rise, Of Fintech Fraud. Legal News and Analysis - Asia Pacific, China, Hong Kong, India, Singapore, United Kingdom - Cybersecurity, Telecommunications, Media & Technology -"
     publishedDateTime: 2023-08-09T14:04:00Z
@@ -161,15 +147,6 @@ related:
       name: American Banker
       domain: americanbanker.com
     quality: 19
-  - title: "Strategic ingenuity: Insights on sustaining tech excellence and innovation in Fintech Sector"
-    excerpt: "In the rapidly evolving landscape of fintech, achieving and sustaining technological excellence and innovation is paramount for companies to remain"
-    publishedDateTime: 2023-08-09T09:30:00Z
-    webUrl: "https://www.dqindia.com/strategic-ingenuity-insights-on-sustaining-tech-excellence-and-innovation-in-fintech-sector/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 8
 
 secured: "LHHt+J6Ic1wq+S4Hy/T4NlQo6LYeEek9+1PdCCqN6cy5AqCzTtbw2h2X+0eYRSVFLVGRmYsIbs/Xd9OLPMaOP3hS14DACSt+rzj8Y5MhQvE/rAZ79S3mxO2OWfNXWbXcZmvlNrM4JCFVW9IALKsy71leKe/jGKex5Pl2frIiOdA09iY9PIZL1tkQuEL83t+THIDy1hawShqpLlv3Pmvien+4SjcDDGeS22VmCDjrEvvcNxUWtmWX1nep7cFrlNYKZJFbCSr6VKX9tdgl+Ru6LzwoVQClu2kkk7u/fcOB99XwunSHkujDzB5ciuGIP5Bm6ahLAE+Ow+hBvHmITYgdkAbjO7bD5F6V1tr8FHbNZqY=;UtD9U3x/mdL9I1WDKqnGLw=="
 ---

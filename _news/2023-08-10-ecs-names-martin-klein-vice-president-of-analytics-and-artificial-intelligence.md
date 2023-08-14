@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "WCTC To Offer New Certificates In Artificial Intelligence And Data Analytics"
+    excerpt: "Waukesha County Technical College announced plans to offer new certificates in the fall about artificial intelligence and data analytics."
+    publishedDateTime: 2023-08-10T18:49:00Z
+    webUrl: "https://patch.com/wisconsin/waukesha/wctc-offer-new-certificates-artificial-intelligence-data-analytics"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 34
+    images:
+      - url: "https://patch.com/img/cdn20/users/25016349/20230810/024904/styles/patch_image/public/wctcgrab___10144852995.png"
+        width: 985
+        height: 739
+        isCached: true
   - title: "Top 10 Alternatives to GPT-3 – Analytics India Magazine"
     excerpt: "GPT-3 has 175 billion parameters, making it one of the largest language models ever created. It can generate human-like text and perform a wide range of tasks, including translation, summarisation, and even writing codes."
     publishedDateTime: 2023-08-12T19:41:00Z

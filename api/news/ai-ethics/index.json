@@ -245,6 +245,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-10-ai-ethics-in-engineering.md",
+      "title": "AI ethics in engineering",
+      "excerpt": "Navigate AI ethics: Ensure responsible, fair, and trustworthy AI in engineering. In an era where AI is revolutionising the engineering industry, understanding the ethical implications of this powerful technology is more critical than ever. This engaging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.imeche.org/training-qualifications/training-details/ai-ethics-in-engineering",
+      "originalUrl": "https://www.imeche.org/training-qualifications/training-details/ai-ethics-in-engineering",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Institution of Mechanical Engineers",
+        "domain": "imeche.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-pope-mulls-over-the-ethics-of-ai.md",
       "title": "Pope mulls over the ethics of AI",
       "excerpt": "We need to be a bit positive about this Pope Francis has issued a communique announcing the theme for World Day of Peace 2024 as \"Artificial Intelligence and Peace,\" emphasising the potential impact of AI on human life and calling for responsible use,",
@@ -1406,50 +1449,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-medical-students-recognize-ais-potential-in-medicine-call-for-ethical-education.md",
-      "title": "Medical students recognize AI's potential in medicine, call for ethical education",
-      "excerpt": "A team of researchers assessed medical students' understanding, perceptions, and educational preferences related to artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230727/Medical-students-recognize-AIs-potential-in-medicine-call-for-ethical-education.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230727/Medical-students-recognize-AIs-potential-in-medicine-call-for-ethical-education.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_754798_16904645865162642.jpg",
-          "width": 2000,
-          "height": 1064,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

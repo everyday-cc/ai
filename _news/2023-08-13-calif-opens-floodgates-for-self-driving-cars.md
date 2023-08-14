@@ -3,8 +3,8 @@ category: news
 title: "Calif. opens floodgates for self-driving cars"
 excerpt: "Cars without drivers have become a common sight on San Francisco's winding, hilly and often foggy streets. Thursday's vote stripped most limitations on operating and charging for rides, essentially creating more ride-hailing services like Uber or Lyft — just without the drivers."
 publishedDateTime: 2023-08-13T07:45:00Z
-originalUrl: "https://www.stltoday.com/eedition/page-a11/page_3cfc30ba-cee2-5b16-8bb6-fd870b645391.html"
-webUrl: "https://www.stltoday.com/eedition/page-a11/page_3cfc30ba-cee2-5b16-8bb6-fd870b645391.html"
+originalUrl: "https://www.stltoday.com/eedition/page-a10/page_4aec74df-508b-5d07-836a-2da290121a70.html"
+webUrl: "https://www.stltoday.com/eedition/page-a10/page_4aec74df-508b-5d07-836a-2da290121a70.html"
 type: article
 quality: 24
 heat: -1
@@ -55,6 +55,17 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "University of Illinois developing 'Star Wars'-inspired self-driving wheelchair"
+    excerpt: "For their latest life-changing invention, University of Illinois researchers took inspiration from Star Wars. They've developed a hands-free wheelchair, that could eventually operate like a self-driving car."
+    publishedDateTime: 2023-08-14T02:44:00Z
+    webUrl: "https://www.fox32chicago.com/news/university-of-illinois-developing-star-wars-inspired-self-driving-wheelchair"
+    ampWebUrl: "https://www.fox32chicago.com/news/university-of-illinois-developing-star-wars-inspired-self-driving-wheelchair.amp"
+    cdnAmpWebUrl: "https://www-fox32chicago-com.cdn.ampproject.org/c/s/www.fox32chicago.com/news/university-of-illinois-developing-star-wars-inspired-self-driving-wheelchair.amp"
+    type: article
+    provider:
+      name: FOX 32
+      domain: fox32chicago.com
+    quality: 35
   - title: "Redefining Robotics: Purdue University’s Innovative Machine Vision Solution"
     excerpt: "Researchers at the esteemed Purdue University have made a significant leap in the realm of robotics, machine vision, and perception. Their groundbreaking approach offers a marked improvement over conventional techniques,"
     publishedDateTime: 2023-08-11T12:35:00Z
@@ -158,6 +169,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "YTYmU5a+Iq5bXnU239HJmcJoky3d+/4YBC9V38+CxArFM575ecJJ5VzveQyvJPlLWwytmDdFES3n8a/FX9L2P+NcKkYzk9GefdAcJQlRI0hyrSS9GMFX6d9uO/AtdtrJpv+LF9SbKQQd4pmVVeea5gDbuurt7/fE6a8SSOZDJiNP7hBYaCjkH7gg4BfHY4DZRllJdiy3fsb9fPuPjyLAGqM56vI9ZIBuLrYOYonZBm7pVnAKx3pgdpEhgNwO/pV9g0cue0ryu11rhHGCuiv5NN27pZX8buRc4KiBBjNuLMhN5RMP5JP2LF1WGbljnT6scskv3cB/zBvg8avLhCn0eFDfmH5cYfeZAasdCC4b7OlF+Q1mSuqpPUVtjxOnQ9RFCzqx7pOWr07UgOUXAeOUX5nTCwXZmIvPQwYfCT9NWdrsra95KhpeuEDf2Tla2WjRzJBud4PnDGoJm4hhfVYmXKI1xH1dU1lpSn/BKFxKwZw+8wGNc+GLFfgR0i266le3/JkXHuDpWvJcYjJq12VBHw==;txUBAvCDFSjW8gV42ycJiQ=="
+secured: "9xLMS2bcoPsl2L77jkheZQqcxOEphL4Z6PL+yuIqZlThuan2H5k1F0xDOaGttq7YXvbqEl6iQAsgf/ZAaUNWYH0/iWfRx6Zx07N0r3Cihp9FGMF7yBniVE3dmenDWe6ItyM/6Uj1S7/GEOUG6UOdYhPA3jdkMfNOAqIf7sp7QwEKDCy6cl5twUDkpzBK4R7pDi6WJ9fuw+GT3za/ZRJ62TlPNfuqDcMe1pOLw52wJHrSyQp6Zq5D66pd0+693abqmAbDieWVDavSqDqQTHZt7BhtUvs3PDBifROH9DFlUzZ7LaZdM2qyDy5TfqJK9sHfWPJWq+49ypUFNtovdKW9ZKb5sK0hTGgbawZ4LX8/Ybg=;NupF8urnyDjipsuj0u6pbA=="
 ---
 

@@ -128,6 +128,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Stalled self-driving taxis clog streets of San Francisco"
+    excerpt: "Just days after robotaxis were given the go ahead to begin charging passengers for rides in San Francisco, residents found nearly a dozen of the self-driving vehicles stalled, clogging the streets and causing a massive traffic jam."
+    publishedDateTime: 2023-08-14T01:50:00Z
+    webUrl: "https://www.cbsnews.com/losangeles/video/stalled-self-driving-taxis-clog-streets-of-san-francisco/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 24
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/14/18e064fe-b8dc-4c78-b819-807eccaf0548/thumbnail/1200x630/85dffd0e0d63df7b71cbb327d4b7ea84/d48fef9e54bea894e61daec900cef2db.jpg?v=08aa43fa812a9e12e93282c47f58b17f"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Robotaxi expansion OK'd for San Francisco despite public safety concerns"
     excerpt: "California's approval signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality."
     publishedDateTime: 2023-08-11T15:09:00Z

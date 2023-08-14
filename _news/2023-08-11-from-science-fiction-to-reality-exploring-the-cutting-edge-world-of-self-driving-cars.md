@@ -55,6 +55,17 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "University of Illinois developing 'Star Wars'-inspired self-driving wheelchair"
+    excerpt: "For their latest life-changing invention, University of Illinois researchers took inspiration from Star Wars. They've developed a hands-free wheelchair, that could eventually operate like a self-driving car."
+    publishedDateTime: 2023-08-14T02:44:00Z
+    webUrl: "https://www.fox32chicago.com/news/university-of-illinois-developing-star-wars-inspired-self-driving-wheelchair"
+    ampWebUrl: "https://www.fox32chicago.com/news/university-of-illinois-developing-star-wars-inspired-self-driving-wheelchair.amp"
+    cdnAmpWebUrl: "https://www-fox32chicago-com.cdn.ampproject.org/c/s/www.fox32chicago.com/news/university-of-illinois-developing-star-wars-inspired-self-driving-wheelchair.amp"
+    type: article
+    provider:
+      name: FOX 32
+      domain: fox32chicago.com
+    quality: 35
   - title: "Redefining Robotics: Purdue University’s Innovative Machine Vision Solution"
     excerpt: "Researchers at the esteemed Purdue University have made a significant leap in the realm of robotics, machine vision, and perception. Their groundbreaking approach offers a marked improvement over conventional techniques,"
     publishedDateTime: 2023-08-11T12:35:00Z
@@ -123,7 +134,7 @@ related:
   - title: "Calif. opens floodgates for self-driving cars"
     excerpt: "Cars without drivers have become a common sight on San Francisco's winding, hilly and often foggy streets. Thursday's vote stripped most limitations on operating and charging for rides, essentially creating more ride-hailing services like Uber or Lyft — just without the drivers."
     publishedDateTime: 2023-08-13T07:45:00Z
-    webUrl: "https://www.stltoday.com/eedition/page-a11/page_3cfc30ba-cee2-5b16-8bb6-fd870b645391.html"
+    webUrl: "https://www.stltoday.com/eedition/page-a10/page_4aec74df-508b-5d07-836a-2da290121a70.html"
     type: article
     provider:
       name: St. Louis Post-Dispatch

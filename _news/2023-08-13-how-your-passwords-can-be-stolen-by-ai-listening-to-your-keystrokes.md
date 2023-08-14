@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/how-passwords-stolen-ai-listening-keyst
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes.amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning model can steal data by listening to keystrokes with 95% accuracy"
-    excerpt: "A team of UK researchers has trained a deep learning model to interpret keystrokes remotely based solely on audio."
-    publishedDateTime: 2023-08-09T10:04:00Z
-    webUrl: "https://thenextweb.com/news/deep-learning-steal-data-ai-keystrokes"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 65
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2Fdeep-learning-hack-acoustic-attack-keystrokes.jpg&signature=ee946d9e8ecd71d767055398707c6ddd"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI could steal information by listening to you type, study finds"
     excerpt: "New research shows artificial intelligence can identify keystrokes by the sound of your typing and can steal information with 95% accuracy. Joshua Harrison, a software engineer and one of the authors of the study,"
     publishedDateTime: 2023-08-09T15:42:00Z

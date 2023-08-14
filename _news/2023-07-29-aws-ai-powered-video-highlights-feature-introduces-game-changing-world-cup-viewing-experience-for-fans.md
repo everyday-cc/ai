@@ -1,27 +1,26 @@
 ---
 category: news
 title: "AWS AI-powered video highlights feature introduces game-changing World Cup viewing experience for fans"
-excerpt: "A groundbreaking video recap feature, built with an Amazon media replay engine in partnership with Fox Sports, gives fans an exciting a new way to catch up on a game's key moments."
-publishedDateTime: 2023-07-29T06:00:00Z
-originalUrl: "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans"
-webUrl: "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans"
+excerpt: "Sports fans continue to seek a dynamic viewing experience whenever they decide to tune into a live sporting event. The advancements in technology have only raised expectations. Creative uses of graphics,"
+publishedDateTime: 2023-07-29T10:00:00Z
+originalUrl: "https://www.wgmd.com/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-for-fans/"
+webUrl: "https://www.wgmd.com/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-for-fans/"
 type: article
-quality: 48
-heat: 48
-published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WGMD
+  domain: wgmd.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "NI3n93jylsK+B3vqUagrRaDD9h+UXP5DqNVUnuYNncPEyz3EcwSMr2rDP1W3BvUs0M19nwKcUcdn4YbjFTUihhrEOdd51xNMOSrUssVo5jOsHWsN268apogiiaw03GUsuZlwvRLKFGQeZH7Ixl1O/y+Mbro7168TSCLqjo7hQ49YGp7Nl6LXOeSFON3WLLtIGcPoz0TG56TDgzN7t7uTOdiisQnVdcPxplD3CXps3xok85+tYE0l69Zh9ra+R+2BD6BFjCGovmGPpHIY232WZBI+c3gG9b60vs+l+yOwj5ga1wIQ4x1R3SHrkjG+ogMDWMqASznn61mWk43pBPVcyvTm8gQBZEZxRAEWstrIlLSVuBMLjtmOPtVjWE/nRh7yf8uwo/WADg/paDwN6yLITT9nZA75AauW6edmfjYxL9FIPg/4SMihBvTWoH973P7RD3juBREQN/wGL6cGQ1r9yDStC4A8E6jvl7IcCD9ZCUiqFhOfgODA2w3EfLlY43qeCuVX39ajmjzdtEwXxf9xdw==;68DrRaxpqaw4k2AuVz34iQ=="
+images:
+  - url: "https://www.wgmd.com/wp-content/uploads/2022/04/Logo-HighRes.png"
+    width: 600
+    height: 242
+    isCached: true
+
+secured: "aottgmcu2BQ3d6p9cAehfBjkvm3lINPVyU3wnRuuy5v8066sD89fzIdy7h+cAWhan0X3Yg9wYHCmQr2WDQqRjsrgFaqgAqkGC8CX3n/dlZJwyoAxE3YUECnRd2A+KQwf/mfTBC7X5CDUGqpwLNrH9I3Thk9w2zsKXdfJ3aGCYKG8IsWwCczETZHuFPJw59m9dMA4Wj5mjsN3LUvlQqrPyEGtid1b7H8718vIa3Tyr5UQVScuOWukJsxomyFB2rnZ65QMesIbeFBrDqQCtCi0gUnkM5SbTqEjKikvA6TWX9y8ljZmhbT9JwoGxlZtjBa085fypeXLh11ojK0rqNDjFeQ8TsLUZ5IrEGWUXrcU/cc=;VS/hjgnm1Sr+8kjhhTPFTw=="
 ---
 

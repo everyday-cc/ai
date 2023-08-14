@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-11-new-study-shows-how-ai-can-help-detect-breast-cancer.md",
+      "title": "New Study Shows How AI Can Help Detect Breast Cancer",
+      "excerpt": "The study found that AI-supported screening found 20% more cancers as compared to the standard review by physicians who did not use AI. AI-supported screening did not increase the number of false positives, meaning it did incorrectly diagnose mammograms as abnormal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/",
+      "originalUrl": "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d17ec3930cd4cc47034c6b/0x0.jpg?format=jpg&crop=1730,974,x0,y149,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/amp/",
+      "publishedDateTime": "2023-08-10T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-how-ai-helped-get-my-music-on-all-the-major-streaming-services.md",
       "title": "How AI helped get my music on all the major streaming services",
       "excerpt": "If I can launch an album onto Spotify, Apple Music, Amazon Music, iTunes, and the rest, so can you. Here are all the ways that AI tools did and did not help.",
@@ -290,6 +341,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-ai-industrial-robotics-latvia.md",
+      "title": "AI Industrial Robotics - Latvia",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$3m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.36%, resulting in a market volume of US$8m by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/latvia",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/latvia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -603,7 +697,7 @@
       "originalUrl": "https://www.ibm.com/blog/fintechs-turn-to-ai-and-cloud-as-steadfast-forces-for-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 209,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -733,7 +827,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -888,7 +982,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1120,101 +1214,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-groundbreaking-development-of-computer-vision-ai-accelerator-chip.md",
-      "title": "Groundbreaking development of computer vision AI accelerator chip",
-      "excerpt": "When employed in a security camera monitoring a rapidly-evolving active shooter situation, for example, the chip can facilitate real-time identification of different types of firearms to trigger an alarm automatically. This capability could be a game changer and potentially save many lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electropages.com/2023/08/groundbreaking-development-computer-vision-ai-accelerator-chip",
-      "originalUrl": "https://www.electropages.com/2023/08/groundbreaking-development-computer-vision-ai-accelerator-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electropages.com/storage/app/media/2023/8-August/blueshift-ComputerVision.jpg",
-          "width": 302,
-          "height": 302,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electropages",
-        "domain": "electropages.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-new-ai-tech-aims-to-detect-the-origin-of-cancers-for-optimal-treatments-an-important-step.md",
-      "title": "New AI tech aims to detect the origin of cancers for optimal treatments: ‘An important step’",
-      "excerpt": "Researchers at MIT have created an artificial intelligence (AI) model that analyzes the genetic information and predicts where in the body tumors first appeared.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step",
-      "originalUrl": "https://www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b20a8b4d-d1d9-46e9-a471-d4f6f6c9211e/f5657d0d-4d70-46a3-ba0e-25c77dafa905/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step.amp",
-      "publishedDateTime": "2023-08-09T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

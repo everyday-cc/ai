@@ -117,7 +117,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 300,
+      "heat": 290,
       "tags": null,
       "images": [
         {
@@ -1188,6 +1188,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-29-aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-for-fans.md",
+      "title": "AWS AI-powered video highlights feature introduces game-changing World Cup viewing experience for fans",
+      "excerpt": "Sports fans continue to seek a dynamic viewing experience whenever they decide to tune into a live sporting event. The advancements in technology have only raised expectations. Creative uses of graphics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgmd.com/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-for-fans/",
+      "originalUrl": "https://www.wgmd.com/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-for-fans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wgmd.com/wp-content/uploads/2022/04/Logo-HighRes.png",
+          "width": 600,
+          "height": 242,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGMD",
+        "domain": "wgmd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning.md",
       "title": "IBM and AWS partnering to transform industrial welding with AI and machine learning",
       "excerpt": "IBM Smart Edge for Welding on AWS uniquely leverages multi-modality and IBM Research’s patented multi-modal AI to provide accurate insights.\nThe post IBM and AWS partnering to transform industrial welding with AI and machine learning appeared first on IBM Blog.\n",
@@ -1359,40 +1402,6 @@
       "provider": {
         "name": "Healthcare Dive",
         "domain": "healthcaredive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-amazon-is-failing-to-provide-accommodations-for-disabled-workers-labor-group-claims.md",
-      "title": "Amazon is failing to provide accommodations for disabled workers, labor group claims",
-      "excerpt": "Amazon is failing to provide adequate workplace accommodations for disabled employees, a violation of the American Disabilities Act (ADA), according to labor activists. Amazon workers with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/amazon-disabled-workers-american-disabilities-act-violations-report/",
-      "originalUrl": "https://www.cbsnews.com/news/amazon-disabled-workers-american-disabilities-act-violations-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T20:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

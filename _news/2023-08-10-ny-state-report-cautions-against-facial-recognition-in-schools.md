@@ -21,17 +21,17 @@ topics:
 related:
   - title: "Advocacy group raises privacy concerns as facial recognition technology booms"
     excerpt: "Safety, efficiency and profitability are touted as the key drivers behind the growing popularity of digital ID technologies like facial recognition, but they present important privacy risks, Calgary-based legal advocacy organization Justice Centre for Constitutional Freedoms (JCCF) reveals in a new report."
-    publishedDateTime: 2023-08-11T21:13:00Z
-    webUrl: "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542"
-    ampWebUrl: "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1"
+    publishedDateTime: 2023-08-11T17:36:00Z
+    webUrl: "https://www.itbusiness.ca/news/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/125811"
+    ampWebUrl: "https://www.itbusiness.ca/news/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/125811?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/125811?amp=1"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
+      name: IT Business
+      domain: itbusiness.ca
     quality: 71
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/08/GettyImages-1311613664.jpg"
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2023/08/GettyImages-1311613664.jpg"
         width: 724
         height: 483
         isCached: true

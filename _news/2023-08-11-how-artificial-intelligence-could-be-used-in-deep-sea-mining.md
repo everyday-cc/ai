@@ -56,20 +56,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "How High-Net-Worth Families Can Start Investing in AI"
-    excerpt: "AI, or artificial intelligence, as an alternative investment could score some major gains, but it could also come with some high risks. Where to begin?"
-    publishedDateTime: 2023-08-09T09:40:00Z
-    webUrl: "https://www.kiplinger.com/investing/investing-in-ai-how-high-net-worth-families-can-start"
-    type: article
-    provider:
-      name: Kiplinger
-      domain: kiplinger.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jawFn5oNUMysmDU4N3tFXQ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "L1uHTcN+gntx0NbrsBUczkh3CMQJuLjHKVUtrqM9O4mUhNfKWjqG1aPq8/OosrBo1+tKcvWjNabXsOJc+hEVY2W9nOQreIuaNMNuY+wD11z+yk4U3c1+NIbH3ZiqzGygsqPwMcKOWv1I6vLbYanbLq2WI09irBgObtnsS64DA74emfl7+pdOMiElrdjfxYY1ip+U/rYWXkBJFnH/wxRTVmbwe6GJvXBmONqN/8DZ+S0bUEHCKSMAyKihWRhHKXg83pfBE19HcS68Pf5ZSg0xGR/dt6RNIInjQpbJl2yAlgkzqROHlMDiMG9HOfMWfGLmxdlNG72Y4LU/FkKgjRqvfeWBZOo4gyRSl8pTZHAIBizxH9GehIpwQvQdnKV+BXMq+TB58rub5C1e31Yh+xFOBakQtmuKo8LV5ViSwcKUqxrf8h7mjagRb3sARxwc75clCEITOChpwnq+ojlHBt8na+U71yf1iDyUhrKZnFDWm3wq7hPrc+znA60fQbgI9taFlkOL9OjIzfY1QrytRz/QfQ==;LTWF+0G7Ck1e2HMB4GVUZQ=="
 ---

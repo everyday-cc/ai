@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/how-ai-can-be-a-force-for-good-in-achieving-fair-lending/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/b1d09319dd1257ea90c8d7f5e63bb2a36f627284/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=43ee72c4811f380bb7e79c6af21a8bac"
         width: 620
         height: 372
-        isCached: true
-  - title: "How High-Net-Worth Families Can Start Investing in AI"
-    excerpt: "AI, or artificial intelligence, as an alternative investment could score some major gains, but it could also come with some high risks. Where to begin?"
-    publishedDateTime: 2023-08-09T09:40:00Z
-    webUrl: "https://www.kiplinger.com/investing/investing-in-ai-how-high-net-worth-families-can-start"
-    type: article
-    provider:
-      name: Kiplinger
-      domain: kiplinger.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jawFn5oNUMysmDU4N3tFXQ-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "How artificial intelligence could be used in deep sea mining"
     excerpt: "High-tech robotic vehicles that utilize artificial intelligence could soon be scouring the deep sea floor for minerals needed to make batteries for electric vehicles. Ben Tracy has more."

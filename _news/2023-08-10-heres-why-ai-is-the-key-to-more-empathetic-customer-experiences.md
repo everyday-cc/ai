@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
-  - title: "3 ways to play the artificial intelligence boom"
-    excerpt: "Stocks related to artificial intelligence (AI) have been leading the market higher this year, with names such as Microsoft, Nvidia and Apple jumping between 33% and 218% year to date. These gains are reminiscent of the dotcom bubble in the late 1990s. I’m not entirely convinced we’re in a similar position, but we are certainly in a peculiar market."
-    publishedDateTime: 2023-08-10T12:57:00Z
-    webUrl: "https://moneyweek.com/investments/3-ways-to-play-the-ai-boom"
-    type: article
-    provider:
-      name: MoneyWeek
-      domain: moneyweek.com
-    quality: 17
 
 secured: "UOaLPrK0pfyzIhLYljZ6JCa6hp+ufvSZwv6HiP0KJ3D4yastbGI9+EnYFTIeY6TS6iVeLo9AKlMScY7Js38uLIUKwdsxdaR1I71S4lqGR1HYiNH1Nu5/WA9RRGvFRup6vC6v827/JLDz74cQAQinjM2ao7DaibH7Nky2ikU+EYPS2oCATRfsCn+hXFgqqoZfdZ4fscDLxPYUWF3JOe5eHkEb3RkJRVgMlK6wiIfcu/4Utvx3vdSg+29CeRd53ugOs5jpcmckZojHL9wL4V1Qs527NMkcZj1qjXKGCamuJFfyznCp/w8s6Tglx/qwanKEd9lkZdNTZhhPHN9vwFf9fh2X1NgCk7SK5iEGJFfJsWE=;mpOPtHHfyNjCeznnp13+vw=="
 ---

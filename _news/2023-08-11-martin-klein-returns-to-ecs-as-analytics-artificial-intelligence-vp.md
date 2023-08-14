@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "WCTC To Offer New Certificates In Artificial Intelligence And Data Analytics"
+    excerpt: "Waukesha County Technical College announced plans to offer new certificates in the fall about artificial intelligence and data analytics."
+    publishedDateTime: 2023-08-10T18:49:00Z
+    webUrl: "https://patch.com/wisconsin/waukesha/wctc-offer-new-certificates-artificial-intelligence-data-analytics"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 34
+    images:
+      - url: "https://patch.com/img/cdn20/users/25016349/20230810/024904/styles/patch_image/public/wctcgrab___10144852995.png"
+        width: 985
+        height: 739
+        isCached: true
   - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
     excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Martin Klein has been named vice president of Analytics and Artificial Intelligence (AI). Klein returns to ECS after having previously served as a program manager,"
     publishedDateTime: 2023-08-10T11:20:00Z
