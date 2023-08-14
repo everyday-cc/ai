@@ -2,6 +2,57 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-07-28-the-future-of-art-generative-ai-web3-and-the-immersive-internet.md",
+      "title": "The Future Of Art: Generative AI, Web3 And The Immersive Internet",
+      "excerpt": "The generative AI, the metaverse and Web3 technology are set to revolutionize the art world, offering new opportunities for artists and collectors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c360def8a6665c5f03e3c1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/amp/",
+      "publishedDateTime": "2023-07-27T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-ai-tech-aims-to-detect-breast-cancer-by-mimicking-radiologists-eye-movements-a-critical-friend.md",
       "title": "AI tech aims to detect breast cancer by mimicking radiologists’ eye movements: 'A critical friend'",
       "excerpt": "U.K. researchers are training artificial intelligence models to “read\" mammogram images by mimicking the gaze of human radiologists, but an AI expert says there are limitations.",
@@ -1172,57 +1223,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-vs-the-drive-through-customer.md",
-      "title": "AI vs. the Drive-Through Customer",
-      "excerpt": "One of the best places to see how artificial intelligence is affecting our lives and jobs may be at a fast-food drive-through. WSJ senior personal tech columnis",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/tech-news-briefing/ai-vs-the-drive-through-customer/93677CD2-CF11-4461-A787-3103B6BA1D58",
-      "originalUrl": "https://www.wsj.com/video/series/tech-news-briefing/ai-vs-the-drive-through-customer/93677CD2-CF11-4461-A787-3103B6BA1D58",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://images.wsj.net/im-824859?width=1280&height=720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

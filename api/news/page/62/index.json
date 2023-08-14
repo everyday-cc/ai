@@ -2,6 +2,59 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-07-01-what-would-einstein-have-said-about-the-impact-of-generative-ai-on-higher-education.md",
+      "title": "What would Einstein have said about the impact of generative AI on higher education?",
+      "excerpt": "The debate over AI taking over our jobs has intensified in recent years. There was much discussion after the 2011 Jeopardy quiz show during which IBM’s Watson outsmarted two human champions, and the 2016 Go match in which Google’s AlphaGo beat Go ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/comment/opinion/article/3225987/what-would-einstein-have-said-about-impact-generative-ai-higher-education?module=live&pgtype=homepage",
+      "originalUrl": "https://www.scmp.com/comment/opinion/article/3225987/what-would-einstein-have-said-about-impact-generative-ai-higher-education?module=live&pgtype=homepage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/06/29/fb5e7661-4967-4384-aec2-0bbdfb230ba9_f8895cc2.jpg?itok=ZIS8I_lg&v=1688042148",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-07-01-is-the-amd-gpu-better-than-we-thought-for-ai.md",
       "title": "Is The AMD GPU Better Than We Thought For AI?",
       "excerpt": "MosaicML, just acquired by DataBricks for $1.3B, published some interesting benchmarks for training LLMs on the AMD MI250 GPU, and said it is ~80% as fast as an",
@@ -1162,49 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-service-robotics-greece.md",
-      "title": "AI Service Robotics - Greece",
-      "excerpt": "Value in the AI Service Robotics market is projected to reach US$10.22m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.89%, resulting in a market volume of US$23 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/greece",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/greece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -36,22 +36,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Artificial Intelligence is already radically altering the world of case management"
-    excerpt: "Some of the brightest minds in the technologies of the future have been unusually vocal about the potential dangers of Artificial Intelligence (AI), with"
-    publishedDateTime: 2023-08-09T08:23:00Z
-    webUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/"
-    ampWebUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
-    cdnAmpWebUrl: "https://hrnews-co-uk.cdn.ampproject.org/c/s/hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
-    type: article
-    provider:
-      name: UK Human Resources News
-      domain: hrnews.co.uk
-    quality: 55
-    images:
-      - url: "https://hrnews.co.uk/wp-content/uploads/2023/08/Image-62.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "xaTA8L6k5Zk1VZ7IQq6agvmf+2Atz3dHQETRW5g0XQHHq5U0wJV+LlpshHcyEYqnOvHEsKuFcPTfmWpNzYnFMiqGMOOBNzzPCNiYeoLZhlhof90BD/FrMv53xa8zDNQYRlOrOs+vFjwPA5Jg/IqdVJz9VSUWaFBnYl0M8LHC7WlsZn5P4PS8/oSJgyAY+jZTErY6GolcvLs6j4/3mmqodpsqbk8SZDA7JiWHCpiNoxGWgz2/J2eQX5KFB21ztaQAW3duiDQoJv1iGZzpBoeUUku/ylz0ZrpCJAxfCgDAIgo7A7t1MwlPE2WqwE+p+JDBK9v6vOOABkLZkW5nFt4dchUxa6oNPwjX72QY2I/FOwKEh1sLeKp4QxpHErqOBwD07vxPt3CwJd0IHRyO7XAqWMYbP+X6xN5hbl1br2d0h86CSzNEQ3/LzlTDvUM1l1dkhAvinuMbEtu4u9kVEh+q3J2FQ0MtxzL9wLjp3l4su1QrLbqqS22tIK/5m5jTE1wgclCAlKJbUMfXa7M3GvG5LQ==;v2iN/Ng/ZKia85aXHOFs9w=="
 ---

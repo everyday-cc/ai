@@ -2,6 +2,49 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-06-14-ai-chatbots-could-help-provide-therapy-but-caution-is-needed.md",
+      "title": "AI Chatbots Could Help Provide Therapy, but Caution Is Needed",
+      "excerpt": "Therapy apps are incorporating AI programs such as ChatGPT. But such programs could provide unvetted or harmful feedback if they’re not well regulated",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/",
+      "originalUrl": "https://www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/1A754ECE-07C0-407C-81F2761EEE57345F.jpg",
+          "width": 790,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true",
+      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true",
+      "publishedDateTime": "2023-06-14T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how.md",
       "title": "Artificial Intelligence Will Dramatically Impact Facebook And Instagram. Here’s How",
       "excerpt": "Later, you might use a built-in AI feature that’s part of the app, asking for modifications. Using a text interface, you might ask Instagram to make the photo brighter or even add a brighter smile to your face. On Facebook, you might do a broader text ...",
@@ -1176,57 +1219,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-a-new-song-from-the-beatles-is-due-out-this-year-thanks-to-artificial-intelligence.md",
-      "title": "A new song from the Beatles is due out this year, thanks to artificial intelligence",
-      "excerpt": "Paul McCartney says A.I. is being used to remake the voices of John Lennon and George Harrison. CNN's John Vause discusses the news with music expert Bob Lefsetz.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn",
-      "originalUrl": "https://www.cnn.com/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230614024930-exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world-00000808.png?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn",
-      "publishedDateTime": "2023-06-14T00:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

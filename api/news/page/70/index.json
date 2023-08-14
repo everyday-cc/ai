@@ -2,6 +2,50 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-06-28-artificial-intelligence-risks-ethics-and-future.md",
+      "title": "Artificial Intelligence: Risks, Ethics and Future",
+      "excerpt": "With great power comes great responsibility, despite the numerous advantages that AI evolution brings to the world. It could pose profound risks to society if not handled properly. Along with other global/societal risks i.",
+      "sourceUrl": null,
+      "webUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/",
+      "originalUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/amp/",
+      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/amp/",
+      "publishedDateTime": "2023-06-27T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Times",
+        "domain": "dailytimes.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-ai-is-catching-on-with-api-developers.md",
       "title": "AI is catching on with API developers",
       "excerpt": "Some 60% of API developers use generative AI to help them code, according to a Postman survey of more than 40,000 developers and API professionals.",
@@ -1067,57 +1111,6 @@
         "AI in Finance",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-qualcomm-is-right-about-ai-it-requires-strong-edge-computing.md",
-      "title": "Qualcomm Is Right About AI: It Requires Strong Edge Computing",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as he wants to unpack the need for strong on-device AI processing and the leadership role Qualcomm is taking on that front.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649b0a613c6a3dfabf6aa415/0x0.png?format=png&height=900&width=1600&fit=bounds",
-          "width": 936,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/amp/",
-      "publishedDateTime": "2023-06-27T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-07-27-this-ai-beauty-and-wellness-stock-just-hit-the-markets-should-you-buy-oddity-stock.md",
+      "title": "This AI Beauty and Wellness Stock Just Hit the Markets. Should You Buy Oddity Stock?",
+      "excerpt": "Beauty and wellness company Oddity Tech ( ODD 7.37%) is a company with high-tech AI capabilities in a niche industry that had its initial public offering (IPO) last week. Let's check it out and see if Oddity should make it into your stock portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740690/a-child-putting-blush-on-a-womans-face.jpg",
+          "width": 2122,
+          "height": 1412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-yonyou-unveils-its-large-language-model-for-enterprise-services.md",
       "title": "Yonyou unveils its large language model for enterprise services",
       "excerpt": "Yonyou Network Technology Co Ltd, China's leading software and cloud service provider, on Thursday unveiled the first large language model in the country's enterprise service industry.",
@@ -1117,58 +1169,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-governance-maturity-index-a-comprehensive-assessment-framework.md",
-      "title": "AI Governance Maturity Index: A Comprehensive Assessment Framework",
-      "excerpt": "There are 5 broad levels of AI Governance Maturity that an organization may adopt. Each comes with key tradeoffs between speed of development, and risk mitigation, as well as costs to implement. The appropriate maturity level for an organization takes into account the organization's size,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-maturity-index-a-comprehensive-assessment-framework/",
-      "originalUrl": "https://www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-maturity-index-a-comprehensive-assessment-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1900005fe9519e9ea0a5f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-maturity-index-a-comprehensive-assessment-framework/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-maturity-index-a-comprehensive-assessment-framework/amp/",
-      "publishedDateTime": "2023-07-26T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

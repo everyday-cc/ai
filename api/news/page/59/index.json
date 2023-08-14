@@ -2,6 +2,57 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-07-04-japan-dreams-of-ai-overtaking-nvidia-and-universal-basic-income.md",
+      "title": "Japan Dreams of AI, Overtaking Nvidia and Universal Basic Income",
+      "excerpt": "Japan is laying the groundwork to become home to some of the world’s top companies in artificial intelligence, the country’s Economy Minister Yasutoshi Nishimura told a group of University of Tokyo students Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-04/japan-dreams-of-ai-overtaking-nvidia-and-universal-basic-income",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-04/japan-dreams-of-ai-overtaking-nvidia-and-universal-basic-income",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imlWQwojNL.U/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-04T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-04-counting-africas-largest-bat-colony.md",
       "title": "Counting Africa's largest bat colony",
       "excerpt": "Artificial intelligence and computer vision provide most accurate estimate yet. Once a year, a small forest in Zambia becomes the site of one of the world's greatest natural spectacles.",
@@ -1115,40 +1166,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-barred-from-grocery-stores-by-facial-recognition.md",
-      "title": "Barred from grocery stores by facial recognition",
-      "excerpt": "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/?mibextid=Zxz2cZ",
-      "originalUrl": "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/?mibextid=Zxz2cZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/?amp=1",
-      "publishedDateTime": "2023-07-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

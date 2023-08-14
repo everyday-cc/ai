@@ -2,6 +2,41 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2023-06-20-machine-learning-helps-researchers-identify-hit-songs-with-97-accuracy.md",
+      "title": "Machine learning helps researchers identify hit songs with 97% accuracy",
+      "excerpt": "They also applied machine learning to the neural responses to the first minute of the songs. In this case, hits were correctly identified with a success rate of 82%. “This means that streaming services ... of any commercial or financial relationships ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/992481",
+      "originalUrl": "https://www.eurekalert.org/news-releases/992481",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-self-driving-revolution-hampered-by-a-lack-of-accurate-simulations-of-human-behavior.md",
       "title": "Self-driving revolution hampered by a lack of accurate simulations of human behavior",
       "excerpt": "Algorithms that accurately reflect the behaviour of road users - vital for the safe roll out of driverless vehicles - are still not available, warn scientists. They say there is “formidable complexity” in developing software that can predict the way people behave and interact on the roads,",
@@ -1142,58 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-automatic-speech-recognitionasr-software-market-size-2030.md",
-      "title": "Automatic Speech Recognition(ASR) Software Market Size | 2030",
-      "excerpt": "Jun 19, 2023 (The Expresswire) -- \"Automatic Speech Recognition(ASR) Software Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-size-2030-2023-06-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-size-2030-2023-06-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

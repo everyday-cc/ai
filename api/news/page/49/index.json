@@ -2,6 +2,57 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-07-11-coding-with-ai-tips-and-best-practices-from-developers.md",
+      "title": "Coding with AI: Tips and best practices from developers",
+      "excerpt": "AI pair programming could be a coder's dream or a nightmare in the making. Nine developers talk shop about how they're using generative AI today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3700771/coding-with-ai-developer-tips-and-best-practices.html",
+      "originalUrl": "https://www.infoworld.com/article/3700771/coding-with-ai-developer-tips-and-best-practices.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/08/thinkstockphotos-452405935-100609767-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3700771/coding-with-ai-developer-tips-and-best-practices.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700771/coding-with-ai-developer-tips-and-best-practices.amp.html",
+      "publishedDateTime": "2023-07-11T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-how-google-translate-used-ai-to-decipher-the-worlds-oldest-language-in-minutes.md",
       "title": "How Google Translate used AI to decipher the world's oldest language in minutes",
       "excerpt": "Akkadian, the language of the Akkadian Empire that thrived in present-day Iraq during the 24th to 22nd centuries BCE, poses unique challenges for translation.",
@@ -1140,58 +1191,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-teslas-self-driving-tech-is-probably-worthless-in-the-resale-market-short-seller-jim-chanos-says.md",
-      "title": "Tesla's self-driving tech is probably worthless in the resale market, short-seller Jim Chanos says",
-      "excerpt": "\"The current value of the $TSLA \"Full Self Driving\" package is probably close to zero in the retail market. #RealityCheck,\" the veteran short-seller tweeted.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-elon-musk-fsd-self-driving-tech-worthless-jim-chanos-2023-7",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tesla-elon-musk-fsd-self-driving-tech-worthless-jim-chanos-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ac1c818ed31300199e4625?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/tesla-elon-musk-fsd-self-driving-tech-worthless-jim-chanos-2023-7?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/tesla-elon-musk-fsd-self-driving-tech-worthless-jim-chanos-2023-7?amp",
-      "publishedDateTime": "2023-07-10T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

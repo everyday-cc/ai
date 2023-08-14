@@ -50,20 +50,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "SK Telecom Pivots to AI, Eyeing Leadership in Global Tech Beyond Telco"
-    excerpt: "SK Telecom announced a strategic shift, moving from traditional telecommunications to dominate the AI, cloud computing, and data center markets, after witnessing non-telecom sectors surging growth in Q2."
-    publishedDateTime: 2023-08-09T07:08:00Z
-    webUrl: "https://www.econotimes.com/SK-Telecom-Rapidly-Transitioning-Its-Business-from-Telco-to-AI-Company-1660799"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 39
-    images:
-      - url: "https://f1.econotimes.com/2023/08/sqiwgz9ozb_th_1024x0.jpg"
-        width: 1024
-        height: 672
-        isCached: true
 
 secured: "AuBWS5YQvjDSj7IKnPVjuirBR5CWJs/n+aaiCsBldEIFXCXq+DA3CLzfW7keiETKSQYX0I6phvkFiISkHc7Vy+Un9cCk8qyFSnjUEzO8AJPPESAa5EScfVOAvtehQ4gGa89BWTm7qzEnbqUT/uXjpqlft7R12Dke4swTxI9PRXJr8BOoYJBnopQsMdMQfxMa8kFGqPQMI12izNxL48oUPJBsyJSYhdT5ke7e8faUNPaQUmm+/Q9GY2D6/IT5UmouMSpSO4Ub401lYB/2sA+QLahwo5SA6V/4si+bo03CbHFt2KzViPIZuPL0L+H+ul4wWTcgHCnQ6i5wUVp18ViQzK/AMuSS25mBxyTR/WgR8St4KjQz4EpH+CIMfeXdEpPgnUscXtsLkY/FHqpVSEXd9lUE6UGA89rgPF8gqEjW+/d/kg+SrK7eUL5M0V3nNIPVTum661eite7Kbx0pLsGqaZC41Sx4b6DMKxj64WY6QHc14orKDh4MdbIu1kndQPVOBkprnkxIPQ4VThRs00xbAQ==;9SBoP+SzbI1violVP+25nA=="
 ---

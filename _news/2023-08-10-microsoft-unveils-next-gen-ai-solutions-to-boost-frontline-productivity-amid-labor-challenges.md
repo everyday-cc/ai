@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/microsoft-unveils-next-gen-ai-solutions
 webUrl: "https://venturebeat.com/ai/microsoft-unveils-next-gen-ai-solutions-to-boost-frontline-productivity-amid-labor-challenges/"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Aptos_Labs__Aptos_Labs_x_Microsoft.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Kyndryl, Microsoft to Accelerate Adoption of Industrial-Level Generative AI for Businesses"
-    excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
-    publishedDateTime: 2023-08-09T07:09:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32969-kyndryl-microsoft-to-accelerate-adoption-of-industrial-level-generative-ai-for-businesses"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 44
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/7b6f87b4bb595852735416341c6992bf.jpg?t=20230809_070306"
-        width: 451
-        height: 244
         isCached: true
 
 secured: "J4CEv1aYwtLfadSmlaqeDVVmbiJEn6BIDVYRXBpfvpt/aQOwOYiaOsdJLha9yg4JuH4k8xU+utCS0k4NnzxEwyv6myFvfz+Mi2CxfhOvMBXuMq3jRTmgDDG5Jkcv7KQhf3prlouk8XwnQ8d8dNWEn1G70ZcJHv41pfhVsNDyLye9LUuxVebx/x4o5pVf3zNTJ5c0D9ZxAxui6/3i5W018Qji8YWq3FD35nDtUMyGPeUl+4F8jlcZook4ZHXTqcLIDF1n3gh5olsg0O508W1uhfl2RXrXBR6LVPYc9gjQkZ1pe7vHe22a3rvolEx5TYwArNer4ukgNGIpdj6l81WsQWBtPSE3YHbHFaB/YZbJg89YHkrFvU+xo7FE9KXnmZZiyWpNhZazMAXVcUHeCQBOoKFyCxMjzEm4Ny2T4Nz3Wv7kOvxG0/YXEDQii1KSVE/KmuFjqtY1qc13lF398dx64IaqX4ECI/DRH3ZX9O35olfSSl2/9yRZuq57xHOXINOq1Bhr1bsDB2lfPNYyRXBtAg==;4cGh5bsRLrQg+p+NuqfDlA=="

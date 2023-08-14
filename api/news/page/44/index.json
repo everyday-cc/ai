@@ -2,6 +2,58 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-07-13-overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here.md",
+      "title": "‘Overwatch: Genesis’ Remembers Sentient Robot Aurora In Its Second Episode, Watch It Here",
+      "excerpt": "The second episode of Genesis, the Overwatch anime miniseries, just dropped, and you can watch it below. The latest installment is called “Innocence” and we get to learn more about Aurora, the first omnic that became sentient in this world. The robot travels the planet to learn more about humanity and herself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/",
+      "originalUrl": "https://www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64af894e4461ffb2e7534a09/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/amp/",
+      "publishedDateTime": "2023-07-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers.md",
       "title": "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers",
       "excerpt": "Pinecone, the vector database company providing long-term memory for AI, today announced it will be available on Microsoft",
@@ -1129,49 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-robotaxi-ventures-making-slow-but-sure-progress.md",
-      "title": "Robotaxi ventures making slow but sure progress",
-      "excerpt": "Waymo and Cruise, the two companies offering ... Baidu, the Chinese Internet and artificial intelligence company, obtained a license in June to offer its Apollo Go commercial driverless service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/robotaxis-are-still-long-way-finish-line",
-      "originalUrl": "https://www.autonews.com/mobility-report/robotaxis-are-still-long-way-finish-line",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/INTELLEGENCE_REPORT-MAIN_i.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-07-service-robotics-market-to-grow-at-a-cagr-of-22.md",
+      "title": "Service Robotics Market to grow at a CAGR of 22....",
+      "excerpt": "The service robotics market is set to grow by USD 48,788.55 million from 2022 to 2027, progressing at a CAGR of 22.75% during the forecast period. The report offers an up-to-date",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33142292/service-robotics-market-to-grow-at-a-cagr-of-22-75-from-2022-to-2027-increasing-adoption-of-roboti",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33142292/service-robotics-market-to-grow-at-a-cagr-of-22-75-from-2022-to-2027-increasing-adoption-of-roboti",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33142292",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33142292",
+      "publishedDateTime": "2023-07-06T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-humanoid-robots-take-questions-at-a-geneva-news-conference.md",
       "title": "Humanoid robots take questions at a Geneva news conference",
       "excerpt": "inviting reporters to ask them questions in an event meant to spark discussion about the future of artificial intelligence. The nine robots were seated and posed upright along with some of the ...",
@@ -1261,49 +1304,6 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-aigen-unveils-the-worlds-first-ai-driven-solar-powered-agricultural-robotics-service.md",
-      "title": "Aigen Unveils the World's First AI-Driven, Solar-Powered, Agricultural Robotics Service",
-      "excerpt": "The fossil fuel-free Aigen Element helps farmers reduce chemicals in food, and improve human and planetary health SEATTLE, June 30, 2023 /PRNewswire/ -- Aigen, a Seattle -based agricultural technology startup,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/30/9842539.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/30/9842539.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2145637/Aigen_Founders_PhotoCredit_Bohler.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,57 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-06-27-qualcomm-is-right-about-ai-it-requires-strong-edge-computing.md",
+      "title": "Qualcomm Is Right About AI: It Requires Strong Edge Computing",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as he wants to unpack the need for strong on-device AI processing and the leadership role Qualcomm is taking on that front.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b0a613c6a3dfabf6aa415/0x0.png?format=png&height=900&width=1600&fit=bounds",
+          "width": 936,
+          "height": 528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/amp/",
+      "publishedDateTime": "2023-06-27T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-training-convolutional-neural-networks.md",
       "title": "Training convolutional neural networks",
       "excerpt": "In the final article of this series, we will test our neural network for recognizing cats by converting it into hardware. For this, we will use the MAX78000 artificial intelligence microcontroller with a hardware-based CNN accelerator developed by Analog ...",
@@ -1109,57 +1160,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-ai-regulation-is-coming-to-the-us-albeit-slowly.md",
-      "title": "AI Regulation Is Coming To The U.S., Albeit Slowly",
-      "excerpt": "Bipartisan legislation to form a National AI Commission indicates Congress' pressing need to educate itself on AI, and signals that federal AI regulation is coming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/",
-      "originalUrl": "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649a325468e062698c5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/",
-      "publishedDateTime": "2023-06-27T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

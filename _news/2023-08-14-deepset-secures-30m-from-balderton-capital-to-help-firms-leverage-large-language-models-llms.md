@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/08/211409-deepset-secures-30m-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/08/211409-deepset-secures-30m-from-balderton-capital-to-help-firms-leverage-large-language-models-llms/amp/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Deepset, an AI startup that helps companies build apps with LLMs, just raised $30 million with this 12-slide pitch deck"
-    excerpt: "Berlin-based Deepset has raised $30 million in fresh funding from VC fund Balderton as it looks to further develop its LLM development tools."
-    publishedDateTime: 2023-08-09T07:59:00Z
-    webUrl: "https://www.businessinsider.com/deepset-german-ai-startup-raises-30m-balderton-to-expand-llms-2023-8"
+  - title: "What Are Large Language Models (LLMs)? Definition, Types & Uses"
+    excerpt: "As we continue to see breakthroughs in machine learning (ML) and natural language processing (NLP), these sophisticated models are not just mimicking human-like conversation and content creation, but aiding in critical decision-making processes ..."
+    publishedDateTime: 2023-08-09T10:02:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/what-are-large-language-models-llms-definition-types-uses/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 24
     images:
-      - url: "https://i.insider.com/64d23e5a7d2e9000194612b8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.cmswire.com/-/media/1c780db98e634716bfa724ce08d83d68.ashx"
+        width: 640
+        height: 480
         isCached: true
 
-secured: "z1mfQXDWpKn3nUGC5sPfFSdVlFW/SrfOf2uaXv0KDcqv2jYNxubY6KD4FLZJSaR1ISHAd3KEJ+ZXxN5eJnGXGgi+g/9oXos7w4eedaxOzT4fgOAXBDii323J9WCVNKaBC0xbiNdePzLprJhkHpzjk1aYHSLtXdpFbVVmdyp1plftM1CFLYG2blxUkzo7Y1APUGr/e/sWACKHBd7y77xZUOLi1PEf5yP44xFxTcltiK4hjNZCmf01cGNWQ9icl0EeTvhgBnSn6MRrkwHomETBt8TPrd6+3YF8M2BHYi0vhqPF4+2IFnDPqUfuE5ufCEiBjAezoM9wNcq6ShTw9+tNGu22fhDQUuarZAsbDBbMPpw=;WZERg30alAYC9SpXszFhuw=="
+secured: "zMyeddQAxo0eGxTUNYBN0XDVXyfFVLqhMd/Ta6qlMcVD/C8QYOFqaAEgb+9D8Zi4K+rxOMO/i1xJENEm58JKXzMI5JPI5X57CxA8IoJ995iH52j/qHZDAF47P4n13wjKKCawMTL9IyBz7kuSQ28/m8RI6Tn7M8XVRAhqQ1FD6xDG68feCNlxe3crzhRJUAGBMDBjXaH6XbrfvwksTIImvo+NAfb+UmjbBKqD8UAbkgkaXDL5pLpiIu5GUjodJrLxHvIH7Fh/hbRqc5h98UlJak9CNJspIJLWlRHSo20SWhXq8D/AyVn/MvnHr1FnjWukAVU7FZVa9kWN/JN7hY81JHpqhlTqLyWa2zRsRhlJkCy8/21KcbWinVPmafcHnS1VaDitgZAU2qR5WZhwHF1wC0C1WQF9UT31y8CKb4HUHWvj0vRZfpmsJrQmEA5n2Jd5T+FN6hD1Put0A4sUsQSsYEHSozZ3bhEpPHTvK7arfIqLF1fn7O3ulfQP7cGRjWhNLWv7HomOHEJiF5XoJXuj2A==;gyt11vWVXyuMKyn5BMwZXw=="
 ---
 

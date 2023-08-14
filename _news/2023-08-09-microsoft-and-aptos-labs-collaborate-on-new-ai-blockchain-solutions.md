@@ -72,7 +72,7 @@ related:
         height: 750
         isCached: true
   - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
-    excerpt: "The Generative AI Accelerated Roadmap is a four-week assessment to define objectives and develop a strategic plan for deploying Microsoft Azure-based Open AI-LLM applications across business ..."
+    excerpt: "MENLO PARK, Calif., Aug. 9, 2023 /PRNewswire/ -- Global consulting firm Protiviti has achieved the Artificial Intelligence (AI) and Machine Learning (ML) in Microsoft Azure specialization."
     publishedDateTime: 2023-08-09T14:39:00Z
     webUrl: "https://www.benzinga.com/pressreleases/23/08/n33669654/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai"
     ampWebUrl: "https://www.benzinga.com/amp/content/33669654"
@@ -109,20 +109,6 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2021/05/microsoft-azure-blockchain.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Kyndryl and Microsoft team up for generative AI"
-    excerpt: "Kyndryl and Microsoft have ramped up their ongoing partnership to focus on boosting generative artificial intelligence among customers."
-    publishedDateTime: 2023-08-09T07:51:00Z
-    webUrl: "https://www.reseller.co.nz/article/708298/kyndryl-microsoft-team-up-generative-ai/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 54
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/stephen_leonard_kyndryl.jpg"
-        width: 504
-        height: 315
         isCached: true
   - title: "Microsoft AI Integration Sends Aptos Token APT Soaring 13%"
     excerpt: "The price of APT is soaring after Microsoft announced it was partnering with Aptos Labs, the developer behind the blockchain."
@@ -225,15 +211,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 26
-  - title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
-    excerpt: "Kyndryl (NYSE: KD), the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable the adopti"
-    publishedDateTime: 2023-08-09T08:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230808222504/en/Kyndryl-and-Microsoft-Collaborate-to-Speed-the-Evaluation-and-Adoption-of-Enterprise-Grade-Generative-AI-for-Business"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
   - title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
     excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable"
     publishedDateTime: 2023-08-09T18:28:00Z

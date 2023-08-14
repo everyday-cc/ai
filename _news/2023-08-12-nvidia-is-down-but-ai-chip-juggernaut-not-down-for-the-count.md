@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia Unveils New AI Chip Set to Cut Cost of Running LLMs"
-    excerpt: "Nvidia appears to have turned up the heat on its competitors within the artificial intelligence (AI) hardware space."
-    publishedDateTime: 2023-08-09T08:14:00Z
-    webUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/"
-    ampWebUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 74
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/nvidia-ai-chip-llms.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Nvidia’s new AI chip to offer boon for Korean chip giants’ HBM business"
     excerpt: "Nvidia’s newest AI chip utilizing the world’s first HBM3e processor is expected to boost growth for SK hynix and Samsung Electronics, the two chipmakers dominating the still-nascent High Bandwidth Memory market. Nvidia, a leading producer of GPUs based ..."
     publishedDateTime: 2023-08-10T05:50:00Z

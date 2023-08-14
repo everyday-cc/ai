@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-28-how-to-invest-in-artificial-intelligence.md",
+      "title": "How to Invest in Artificial Intelligence",
+      "excerpt": "Here are some of the best AI ETFs to consider: Global X Robotics & Artificial Intelligence ETF (BOTZ): This fund invests in companies that are likely to benefit from the growth in robotics and AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://moneymorning.com/artificial-intelligence-investing-guide/how-to-invest-in-artificial-intelligence/",
+      "originalUrl": "https://moneymorning.com/artificial-intelligence-investing-guide/how-to-invest-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-a-simpler-method-for-learning-to-control-a-robot.md",
       "title": "A simpler method for learning to control a robot",
       "excerpt": "(Nanowerk News) Researchers from MIT and Stanford University have devised a new machine-learning approach that could be used to control a robot, such as a drone or autonomous vehicle, more effectively and efficiently in dynamic environments where ...",
@@ -1324,49 +1358,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog-companion-in-stem-and-robotics-learning.md",
-      "title": "The New Breed of Robotics is Here: Meet Bittle X, the Voice-controlled Robot Dog Companion in STEM and Robotics Learning",
-      "excerpt": "Petoi, the maker of futuristic robotic pets, has expanded its Bittle robot dog lineup with the introduction of Bittle X, a palm-sized, open-source programmable robot dog, designed for STEM and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog/article_9114997b-cd91-5a7a-b215-d92f8b5a5524.html",
-      "originalUrl": "https://www.victoriaadvocate.com/the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog/article_9114997b-cd91-5a7a-b215-d92f8b5a5524.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/6/db/6db2b106-719d-5daf-bdcf-3cd47be85938/64b6cfad0b0c6.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

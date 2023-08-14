@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "Kyndryl, Microsoft to Accelerate Adoption of Industrial-Level Generative AI for Businesses"
-    excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
-    publishedDateTime: 2023-08-09T07:09:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32969-kyndryl-microsoft-to-accelerate-adoption-of-industrial-level-generative-ai-for-businesses"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 44
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/7b6f87b4bb595852735416341c6992bf.jpg?t=20230809_070306"
-        width: 451
-        height: 244
-        isCached: true
 
 secured: "tNKuZxcBjvpjNyEkXDM8oRz1CHYYUjWUKoamAUYNa/aYxYAyokI4+NVy7DMSQ/Y4h01Xy1jqZyiT7lWTVejFiF/oZpN+2K6UKbeeF4fC9clvZmNbQDYH1XKsCcs2egfBHy0Luyvd8D/oWjtynVIgQkWblTTJ0sAbW41QNkOKoV7ZZqQLvcJKOnSDHtXWTkwSxeoVo+PeH7tKmtecYnFDwnYRUmlIXudX88Ljrzgt+703eZ4W+7+BP6gzyKgK+by6Qve/0/i3rlVZmoxXHtFZUJo+61uMJxxHKPjMdcb12MmqHda//ibw4zw8H1lnW/ABTsag5p5vs49bFf2yDp2MWx013hdjTsKlj0YLNwcbQCLoN4X8WpZbQK/B5LCaT3cxEPzPqA68GCf7bpHKFhbS0CWLcI6Vwhp6QLbmvBaVAu1Hm74cY8ZR6Gz60owDXNTT1qu9RUCjSa+239QNmOyKt6B3A7FIH4Aw7q+HrhgYjVDxVIw088gBQJG58RPBgRwfW16FdBQHBIesNMujkj5LdA==;wO6o1psDasRUxAH4N3nbVA=="
 ---

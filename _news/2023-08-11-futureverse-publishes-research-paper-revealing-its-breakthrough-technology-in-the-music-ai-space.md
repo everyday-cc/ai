@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/futureverse-publis
 webUrl: "https://markets.businessinsider.com/news/stocks/futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space-1032541745"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 400
     height: 225
     isCached: true
+
+related:
+  - title: "AI, Metaverse Tech: Outlier Ventures Helps Launch Futureverse Base Camp Accelerator Program"
+    excerpt: "Futureverse, an AI and metaverse technology and content company, and Outlier Ventures announce launch of Futureverse Base Camp accelerator."
+    publishedDateTime: 2023-08-14T01:24:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211326-ai-metaverse-tech-outlier-ventures-helps-launch-futureverse-base-camp-accelerator-program/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 27
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/10/You-Are-Here-Now-Today-Future.jpg"
+        width: 960
+        height: 1280
+        isCached: true
 
 secured: "8ybD0MEu5GZlcpfZOxHFmKenjYAI12E/nH5yFqYN6DrnifNcfKsbuC+6XqOkVbi6HkSTd2pOAx1FAyl3qTeaMm34L8ewVjJmVv49lDx9ITL3/+ATxVrW9OzALa/IKGJ2yVb5CuqDwaEkGa3lNEjODJZmM2So5YnZThnhiUZM7MIxOQCGae3syO8ukN5+VeqiwsSIrEHQ56R1xj+EN6Zl94b0Lg9TRjt0/jruVpKrScG50eX6Clzut1Hr3y5iCdjKYAL1Q6QPJJlT6mrcfapSBY239zmOWeCduMIgfbUApud4WgCxOppWrDhRv3pvwhGoPMY9bXR3Ap37MYvv0dj//kO4U13Mw8SKKlHTszNbu38=;Zd+EwHNBIpr3Zh7gTgLMyA=="
 ---

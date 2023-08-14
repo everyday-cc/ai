@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia Unveils New AI Chip Set to Cut Cost of Running LLMs"
-    excerpt: "Nvidia appears to have turned up the heat on its competitors within the artificial intelligence (AI) hardware space."
-    publishedDateTime: 2023-08-09T08:14:00Z
-    webUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/"
-    ampWebUrl: "https://www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/nvidia-ai-chip-llms/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 74
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/nvidia-ai-chip-llms.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "China's internet giants order $5 billion of Nvidia chips to power AI ambitions"
     excerpt: "Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,000 A800 processors from the U.S. chipmaker to be delivered this year, the FT reported, citing multiple people familiar with the matter."
     publishedDateTime: 2023-08-10T00:58:00Z

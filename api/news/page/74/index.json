@@ -2,6 +2,41 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2023-06-26-snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai-models-and-increased-machine-learning-capabilities-to-the-data.md",
+      "title": "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud",
+      "excerpt": "NYSE:SNOW) Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2023/06/26/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2023/06/26/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-how-to-boost-personalized-email-campaigns-with-ai-technology.md",
       "title": "How To Boost Personalized Email Campaigns With AI Technology",
       "excerpt": "There are several ways AI can be used to improve email marketing campaigns, such as: • Predictive analytics. AI can now analyze subscriber/website visitor data to predict how likely they are to open an email, click a link or make a purchase.",
@@ -1157,58 +1192,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-25-how-chatgpt-and-generative-ai-could-bring-the-star-trek-holodeck-to-life.md",
-      "title": "How ChatGPT and generative AI could bring the Star Trek holodeck to life",
-      "excerpt": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More For Star Trek fans and tech nerds, the holodeck concept is a form of geek grail.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-chatgpt-and-generative-ai-could-bring-the-star-trek-holodeck-to-life/",
-      "originalUrl": "https://venturebeat.com/ai/how-chatgpt-and-generative-ai-could-bring-the-star-trek-holodeck-to-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/annevb_a_brightly_lit_holodeck_appearing_out_of_nowhere._colorf_ed1ac62a-65d8-443c-8558-bdba0976e7ba.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-25T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

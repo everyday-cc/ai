@@ -2,6 +2,59 @@
   "page": 128,
   "value": [
     {
+      "path": "_news/2023-05-21-ai-excites-healthcare-yet-it-urgently-needs-regulations.md",
+      "title": "AI Excites Healthcare, Yet It Urgently Needs Regulations",
+      "excerpt": "The healthcare sector should pay attention to Sam Altman's statements on AI regulation. AI has exponential potential in healthcare but requires regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
+      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646989f4cacc478d7bbd2c16/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
+      "publishedDateTime": "2023-05-20T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-05-21-tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns.md",
       "title": "TSA testing facial recognition at more airports, raising privacy concerns",
       "excerpt": "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes",
@@ -1164,40 +1217,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-how-to-build-and-scale-ai-projects-in-2023-and-beyond.md",
-      "title": "How to build and scale AI projects in 2023 and beyond",
-      "excerpt": "The artificial intelligence (AI) industry has made significant strides in recent years, making it a vital component of business growth and innovation. The increasing adoption of AI across industries has created a significant demand",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/how-to-build-and-scale-ai-projects-in-2023-and-beyond/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/how-to-build-and-scale-ai-projects-in-2023-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

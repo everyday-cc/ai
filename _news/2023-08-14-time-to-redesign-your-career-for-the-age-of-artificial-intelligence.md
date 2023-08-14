@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "What the Finance Industry Tells Us About the Future of AI"
-    excerpt: "What will artificial intelligence do to industries and jobs? For a preview, look to the finance industry which has been incorporating data and algorithms for a long time, and which is always a canary in the coal mine for new technology."
-    publishedDateTime: 2023-08-09T07:15:00Z
-    webUrl: "https://hbr.org/2023/08/what-the-finance-industry-tells-us-about-the-future-of-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 54
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/08/Aug23_09_5277464.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "syjaaY2nBGwFvtUIXw6wxXrqNwfmIoe+NyJM+sUMIif9XCcLEnut5SQ6m9+NnU7SByfbyqUyPLUQQvaTpTDOw4RV8WJVY9x6N/SszHw3TEmdrSlbRJFIDQyjVKLvX7yla3CNoVgW4lPxpp+NnbhKwCgWIDhkhxbzJnGy3o/6uqhcbPpSR2KT0NNHRWXPWx5Ut38EfS3VMgwt0XUH++aWwMw62+VqCTKiu7HcmPvoq6kIWeV8ceBlkepnf1ek5cr4RVvNMczHLb+1GBX1VeXhYbBZcPkq0fF1o3UNYVRoOibhlsWf/yoaTuAqZ1y4sRaA31GvGSP3j7Bih4PwGtHAYrVeD6EjqZn1DAmr9Jy+DlAvRX9sH1XxsU36L6tnUChYYSDp7DcdqAtAi6Oo5YIG3ExJUniEBiuN+kwUjV4jeqBgAygfgko1l7mvDvx6Jm2sPiTV7+ChSuD8VXnfktTwJd4AdFW+CZn0o8Fu9ojehQy7IELBK7rbfoG8vO1mrLkMkLRDKHZzcR35Fa4ruRJkcA==;xElTaUNG9dEC1KpYLHV83Q=="
 ---

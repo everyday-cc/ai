@@ -81,22 +81,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Microsoft co-founder Bill Gates' sleep revolution: From sleepless nights to embracing restful slumber"
-    excerpt: "Tech mogul Bill Gates, previously known for his belief that sleep equated to laziness, has undergone a transformation in his perspective on restorative slumber. Gates, who has revealed that he previously perceived sleep to be unnecessary breaks from his ambitious pursuits,"
-    publishedDateTime: 2023-08-09T07:29:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/new-updates/microsoft-co-founder-bill-gates-sleep-revolution-from-sleepless-nights-at-microsoft-to-embracing-restful-slumber/articleshow/102565441.cms"
-    ampWebUrl: "https://m.economictimes.com/news/new-updates/microsoft-co-founder-bill-gates-sleep-revolution-from-sleepless-nights-at-microsoft-to-embracing-restful-slumber/amp_articleshow/102565441.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/microsoft-co-founder-bill-gates-sleep-revolution-from-sleepless-nights-at-microsoft-to-embracing-restful-slumber/amp_articleshow/102565441.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-53264,msid-102565518/microsoft-founder-bill-gates-file-photo-ians.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "AI 'Brain' Technology by Rezolve Joins Forces with NAGA to Revolutionise Online Payment together with Brokerage Transformation"
     excerpt: "Frankfurt listed, German Fintech leader, The NAGA Group A.G. (XETRA: N4G) (ISIN: DE000A161NR7), operator of the All-in-One Financial Super App, has announced a ground-breaking partnership with Rezolve AI Limited."
     publishedDateTime: 2023-08-09T09:22:00Z

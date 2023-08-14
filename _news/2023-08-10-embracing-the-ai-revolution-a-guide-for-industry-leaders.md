@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/10/embraci
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -66,22 +66,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Microsoft co-founder Bill Gates' sleep revolution: From sleepless nights to embracing restful slumber"
-    excerpt: "Tech mogul Bill Gates, previously known for his belief that sleep equated to laziness, has undergone a transformation in his perspective on restorative slumber. Gates, who has revealed that he previously perceived sleep to be unnecessary breaks from his ambitious pursuits,"
-    publishedDateTime: 2023-08-09T07:29:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/new-updates/microsoft-co-founder-bill-gates-sleep-revolution-from-sleepless-nights-at-microsoft-to-embracing-restful-slumber/articleshow/102565441.cms"
-    ampWebUrl: "https://m.economictimes.com/news/new-updates/microsoft-co-founder-bill-gates-sleep-revolution-from-sleepless-nights-at-microsoft-to-embracing-restful-slumber/amp_articleshow/102565441.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/microsoft-co-founder-bill-gates-sleep-revolution-from-sleepless-nights-at-microsoft-to-embracing-restful-slumber/amp_articleshow/102565441.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-53264,msid-102565518/microsoft-founder-bill-gates-file-photo-ians.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "RBC: These 19 stocks with an early lead in the AI revolution will continue to profit from rising demand in semiconductors, cloud computing, and more"
     excerpt: "Companies jumping into AI now will set themselves up for long term success. RBC identified 19 stocks benefitting from AI developments today."
     publishedDateTime: 2023-08-10T08:00:00Z

@@ -2,6 +2,50 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-07-09-us-school-tests-ai-robot-security-guard.md",
+      "title": "US school tests AI robot security guard",
+      "excerpt": "In the wake of rising incidents of shootings in schools, administrations are getting creative with security. A school in New Mexico in the United States has started a pilot program in which a robot patrols the campus 24 hours a day,",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/us-school-tests-ai-robot-security-guard",
+      "originalUrl": "https://interestingengineering.com/innovation/us-school-tests-ai-robot-security-guard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/07/09/image/jpeg/FlD3waiH4Ss4K3mD6jTdp10PEpEgLioUXVFtXDA2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-09T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-07-09-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu.md",
       "title": "AI, machine learning being considered for inclusion in college curricula: CM Sukhu",
       "excerpt": "Read more about AI, machine learning being considered for inclusion in college curricula: CM Sukhu on Devdiscourse",
@@ -1090,49 +1134,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-human-looking-robots-take-questions-at-a-geneva-news-conference.md",
-      "title": "Human-looking robots take questions at a Geneva news conference",
-      "excerpt": "UN tech agency rolls out human-looking robots for questions at a Geneva news conference to take questions from reporters.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "originalUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "publishedDateTime": "2023-07-07T15:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 7 Chicago",
-        "domain": "abc7chicago.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

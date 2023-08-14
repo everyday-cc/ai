@@ -43,20 +43,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
-  - title: "Blueshift Memory announces successful development of computer vision AI accelerator chip"
-    excerpt: "Blueshift Memory, designer of a novel proprietary high-speed memory architecture, has announced the successful completion of a 13-month R&D project to demonstrate the performance of its Cambridge Architecture™,"
-    publishedDateTime: 2023-08-09T07:51:00Z
-    webUrl: "https://www.design-reuse.com/news/54566/blueshift-memory-computer-vision-ai-accelerator-chip.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 62
-    images:
-      - url: "https://static.designandreuse.com/news_img2/homepage54566/bb.jpg"
-        width: 547
-        height: 307
-        isCached: true
 
 secured: "VgeTwh+niXGQcm+Fr3TwrwbWe4NhRPbcn2fMyX4WKzBB2CEy696cIQIWXYPkfMQcBp4v8oSTGwFgW/zRURutQvjogtQp7Bfv0UqicLPIvWL95j62ubHyL3V/iDa2kaG9+68pxLYC+gr4uepQ010enCJIvmztTsmef7LGeWx+aRpgxdgiC2GkxptJRzEnC/qSIm3q6ZugEW1LNhlGr8gHJ8AOPILKpQkCwZ7+EIaBVb5t8OREHeW9Pq7x+974GxFIuQBpaMbFJR3prKQp6gl0jCrmPfk2DSzxWrf57jFgPYMpsjotLdmDAQSzsZbW2ErLfuxdJzht9I/5lgdlZoN19tdxNuDv1AhupAAdu7Wf4Fg4P8qicq7r7ttTj7UNeDJb4R3vgx2evOo8BguNe/3Ju8chDXlGveg82ebDrZsp45FLK5rGtpD7nWLvOuefOvfBV4nQFyhM7n8eS7Z25hkmc4tvC8az+5ZDkOeS2uqII51h1opwq4qaSeA6cIG3ddWfc7zuuKOTw9xWMhSxQsPLPw==;xJH+IfTTo9tgC29BZe+uig=="
 ---

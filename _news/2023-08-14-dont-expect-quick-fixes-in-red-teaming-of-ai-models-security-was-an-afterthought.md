@@ -1,29 +1,30 @@
 ---
 category: news
-title: "Don't expect quick fixes in 'red-teaming' of AI models. Security was an afterthought"
-excerpt: "White House officials concerned about AI chatbots' potential for societal harm and the Silicon Valley powerhouses rushing them to market are heavily invested in a three-day competition ending Sunday a"
-publishedDateTime: 2023-08-13T21:34:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/expect-quick-fixes-red-teaming-ai-models-security-102239905"
-webUrl: "https://abcnews.go.com/US/wireStory/expect-quick-fixes-red-teaming-ai-models-security-102239905"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/expect-quick-fixes-red-teaming-ai-models-security-102239905"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/expect-quick-fixes-red-teaming-ai-models-security-102239905"
+title: "Don’t expect quick fixes in ‘red-teaming’ of AI models. Security was an afterthought"
+excerpt: "Current AI models are simply too unwieldy, brittle and malleable, academic and corporate research shows. Security was an afterthought in their training as data scientists amassed breathtakingly complex collections of images and text. They are prone to racial and cultural biases, and easily manipulated."
+publishedDateTime: 2023-08-13T20:18:00Z
+originalUrl: "https://www.kktv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
+webUrl: "https://www.kktv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
+ampWebUrl: "https://www.kktv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
+cdnAmpWebUrl: "https://www-kktv-com.cdn.ampproject.org/c/s/www.kktv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: KKTV11
+  domain: kktv.com
 
 topics:
+  - Facebook AI
   - AI
   - AI in Security
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/WZe3wG-ml8IHMMz4qRGnoQ5NrYw=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/X3YAXSRL2VGGDMCCSEV7VMY2HI.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -44,6 +45,6 @@ related:
         height: 450
         isCached: true
 
-secured: "GdzKBRSrgOIIaxOqjUJtV9yM2ixdu3HthZXYYLL3Y1ll92Qf20QdNbgu03wMlot83DG4PHYZlTBAqktumcUSjTn2TS/I5/drdw2cRk/y6EfI1iCVGuc6w+2BFjkbScGS0yPND5SQwtiTfrVGy+2lcfWr+MCQANaGyYmHx27/i7zUzrvraT37FHcE5iTbkcGjel+HiwXsH374rgx6mi1vtqO5PfBlINHHVPU/PFDtP5tA4w2TU3JNVLStKjHBbNvmWKjTUVWUvsSrgj/4AM9HGbfRpgiaqfQgeRx1CHxh7rkIE5oW6b7f1m8X7P3dBKoodc/bjUC1/Byw9Ukua3JgirsD0+LlITnDXupU1cCyi2s=;sxvscQl2O7nfBkOkkTTVMQ=="
+secured: "96lAq9zZYTQfFFnMycbRf5NPmBY/zNTG0Y/sNdNjK9WI8++nMYWvLkTiuLK41YftwSQXMPJU/6yBM+yXP8lgXjLDAdxpv1UcS8GxsQVsV9C+H70wBzdvAWf03DXa8CqbycJwQcYnRpZdKKiYeARE6pKclSsA+wqziXtP1prQfizSRrGPWXwmZLzCUc2ZXfoeyCxo60CIoaJBJL1q/+e+b6j2AQkqLtOcPox29GJmQzJl5NXdKARReTJnphYOadcq9vkLEaPNSdfElGp2bCuPBIbXyil8bkZWwhYYd0eeNYIR1OiHr7Ee9Ys7nkdFiyREj72k956BjFapx0Zy6VRCPZ/XlNyzxHX9dzWOsvC/Dso=;cuIFxlfGdFhfqi3yMVCN/g=="
 ---
 

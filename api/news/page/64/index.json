@@ -2,6 +2,49 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-06-30-meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook.md",
+      "title": "Meta explains how its AI algorithms work on Instagram and Facebook",
+      "excerpt": "The social media giant has put out a post explaining how its AI Algorithms decide on the content you see on your feed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/353634079_292975916467647_5811223305601545193_n.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html/amp",
+      "publishedDateTime": "2023-06-30T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-inflection-ai-collects-about-13-billion-during-a-fundraising-round.md",
       "title": "Inflection AI collects about $1.3 billion during a fundraising round",
       "excerpt": "Inflection AI, a Palo Alto-based artificial intelligence platform, announced that it has completed its fundraising and it amounts to about $1.3 billion. Supposedly this was led by Microsoft, Reid Hoffman,",
@@ -1054,49 +1097,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-6-ways-you-didnt-know-ai-can-help-with-your-side-gig.md",
-      "title": "6 Ways You Didn’t Know AI Can Help With Your Side Gig",
-      "excerpt": "“Moreover, Rekognition by Amazon Web Services is yet another helpful AI tool. I can now offer services like content moderation, object recognition and facial analysis thanks to Rekognition’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/6-ways-didn-t-know-190004758.html",
-      "originalUrl": "https://www.aol.com/finance/6-ways-didn-t-know-190004758.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/HTRB65PBcZTgoXWrYFVJlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/830fa60e94844d97ed0eeb4ac34f6f41",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

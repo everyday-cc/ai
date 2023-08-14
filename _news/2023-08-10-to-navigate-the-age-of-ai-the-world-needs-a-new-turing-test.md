@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/ai-new-turing-test/"
 webUrl: "https://www.wired.com/story/ai-new-turing-test/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence is already radically altering the world of case management"
-    excerpt: "Some of the brightest minds in the technologies of the future have been unusually vocal about the potential dangers of Artificial Intelligence (AI), with"
-    publishedDateTime: 2023-08-09T08:23:00Z
-    webUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/"
-    ampWebUrl: "https://hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
-    cdnAmpWebUrl: "https://hrnews-co-uk.cdn.ampproject.org/c/s/hrnews.co.uk/artificial-intelligence-is-already-radically-altering-the-world-of-case-management/amp/"
-    type: article
-    provider:
-      name: UK Human Resources News
-      domain: hrnews.co.uk
-    quality: 55
-    images:
-      - url: "https://hrnews.co.uk/wp-content/uploads/2023/08/Image-62.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Turing Wants To Unleash Human Potential Through AI-Powered Tech Services"
     excerpt: "In 2020, when the Pandemic mandated the move to remote work, Turing raised $32million in Series B funding to define a future where companies could push a button to spin up their engineering team instantly."
     publishedDateTime: 2023-08-12T10:46:00Z

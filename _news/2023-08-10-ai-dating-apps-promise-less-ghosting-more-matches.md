@@ -94,20 +94,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Small businesses using AI are loving it"
-    excerpt: "A new survey finds that more than 90% of small business owners using artificial intelligence tools like ChatGPT say AI has made their businesses more successful."
-    publishedDateTime: 2023-08-09T09:00:00Z
-    webUrl: "https://www.aol.com/finance/small-businesses-using-ai-loving-060057295.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/TqsYkh7r5VfZvITF2W7x9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/4871c9241188d3f5a65fdc2bcc12d5c0"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "qwI+l/L6+WmEl13vw/Dg8BB5ElU9BT6S+7E7L5mKmXHAS32kxXKdn/5gKmu6L3AhrcDB8Tzvh0pPe/2Jh7NgWqGUGL6KKIFkPvBHi9bMcjHJhNniZjuHahI1rih1+EKJKumxF8AWwiS+r3AVTE6BEjn9Rjubv2nizbkd1V2569nKbCQEuiIlbeETsemJpacdDIo0tXtCGuOrxi+vJ3KgGn/shjoXl/urCwYrmU4GHciilIZR5V8416VArBHF8MbuXHs39gqeAPgea23RF1YbXwYem7uc8a8TESGnXS/+HL8fFeVHj6i090IHwB5e35BR93K8mdnong/Bz9mKxS1g5J485WjPJ2f0Z1CTH9SYUPc=;IGBx0xTWWwExILST4PLq4w=="
 ---

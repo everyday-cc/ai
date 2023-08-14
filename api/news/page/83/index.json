@@ -2,6 +2,49 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2023-06-20-machine-learning-for-targeted-disease-treatment.md",
+      "title": "Machine Learning for Targeted Disease Treatment",
+      "excerpt": "Machine learning is a next generation technology and a sub-set of Artificial Intelligence (AI) now being used to navigate complex biological information in the search for specific patterns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/health/Machine-Learning-for-Targeted-Disease-Treatment.aspx",
+      "originalUrl": "https://www.news-medical.net/health/Machine-Learning-for-Targeted-Disease-Treatment.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23771_45097368410416678285.jpg",
+          "width": 2000,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-swiss-israeli-fintech-firm-okoora-launches-ai-integrated-platform.md",
       "title": "Swiss-Israeli fintech firm Okoora launches AI-integrated platform",
       "excerpt": "Okoora, a Swiss-Israeli fintech start-up, has introduced its new ... Okoora’s platform utilizes advanced AI technology to provide real-time insights into currency markets, streamline currency ...",
@@ -1117,41 +1160,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-machine-learning-helps-researchers-identify-hit-songs-with-97-accuracy.md",
-      "title": "Machine learning helps researchers identify hit songs with 97% accuracy",
-      "excerpt": "They also applied machine learning to the neural responses to the first minute of the songs. In this case, hits were correctly identified with a success rate of 82%. “This means that streaming services ... of any commercial or financial relationships ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/992481",
-      "originalUrl": "https://www.eurekalert.org/news-releases/992481",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

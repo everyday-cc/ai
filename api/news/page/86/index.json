@@ -2,6 +2,40 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2023-06-18-artificial-intelligence-and-natural-language-processing.md",
+      "title": "Artificial intelligence and natural language processing",
+      "excerpt": "You are now leaving the Cambridge University Press website. Your eBook purchase and download will be completed by our partner www.ebooks.com. Please see the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/dm/universitypress/subjects/computer-science/artificial-intelligence-and-natural-language-processing/",
+      "originalUrl": "https://www.cambridge.org/dm/universitypress/subjects/computer-science/artificial-intelligence-and-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-17T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-5-loreal-hair-and-beauty-innovations-at-viva-tech-ar-ai-web3-driving-di-and-utility.md",
       "title": "5 L’Oréal Hair And Beauty Innovations At Viva Tech: AR, AI, Web3 Driving D&I And Utility",
       "excerpt": "Top 5 L'Oréal hair and beauty innovations premiered at Viva Tech in Paris with AR, AI, Web3 technology driving diversity, inclusion and utility.",
@@ -1191,50 +1225,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-growth-opportunities-in-artificial-intelligence-machine-learning-generative-ai-nlp-synthetic-data-saas-no-code-designops-2023.md",
-      "title": "Growth Opportunities in Artificial Intelligence, Machine Learning, Generative AI, NLP, Synthetic Data, SaaS, No-Code, DesignOps 2023",
-      "excerpt": "The \"Growth Opportunities in Artificial Intelligence, Machine Learning, Generative AI, NLP, Synthetic Data, SaaS, No-Code, DesignOps\" report has been added",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32894493/growth-opportunities-in-artificial-intelligence-machine-learning-generative-ai-nlp-synthetic-data-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32894493/growth-opportunities-in-artificial-intelligence-machine-learning-generative-ai-nlp-synthetic-data-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32894493",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32894493",
-      "publishedDateTime": "2023-06-16T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

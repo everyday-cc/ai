@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Lytus plans to invest $50 million in fintech business"
-    excerpt: "Lytus Technologies Holdings plans to spend $50m to expand its fintech offering into India over the next five years. The Nasdaq-listed firm will launch \"AI-driven financial services and personalised solutions\" as part of its move into India."
-    publishedDateTime: 2023-08-09T08:47:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/lytus-plans-to-invest-50-million-in-fintech-business/articleshow/102567813.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/lytus-plans-to-invest-50-million-in-fintech-business/amp_articleshow/102567813.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/lytus-plans-to-invest-50-million-in-fintech-business/amp_articleshow/102567813.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-886390,msid-102568306/fintech.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Hong Kong Tech Firm, ASL, Accelerates Growth in Fintech Services with Finastra"
     excerpt: "Automated Systems Holdings Limited (ASL), a global IT solutions and services provider, has strategically partnered with Finastra."
     publishedDateTime: 2023-08-09T22:58:00Z
@@ -49,33 +33,15 @@ related:
         width: 1354
         height: 1206
         isCached: true
-  - title: "The Rise of Fintech Investment in India: Reshaping Financial Landscapes"
-    excerpt: "Reshaping Financial Landscapes - India has experienced a spectacular financial upheaval in recent years because of the fintech industry."
-    publishedDateTime: 2023-08-09T12:21:00Z
-    webUrl: "https://www.siliconindia.com/news/general/the-rise-of-fintech-investment-in-india-reshaping-financial-landscapes-nid-224650-cid-1.html"
+  - title: "Empowering Financial Decisions: The Role of Fintech Software Development"
+    excerpt: "Finance - In today's fast-paced, digital world, the way we approach finance is evolving rapidly. No longer bound by the traditional confines of brick-and-mortar"
+    publishedDateTime: 2023-08-11T11:50:00Z
+    webUrl: "https://business-review.eu/money/finance/empowering-financial-decisions-the-role-of-fintech-software-development-250164"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 4
-  - title: "Invest Inc. Announces Reg A+ Offering: A New Era in Fintech Begins"
-    excerpt: "The future of fintech has a new face, and its name is Invest Inc. With great enthusiasm, we are proud to announce our Reg A+ offering, a transformativ"
-    publishedDateTime: 2023-08-09T21:39:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230809121687/en/Invest-Inc.-Announces-Reg-A-Offering-A-New-Era-in-Fintech-Begins"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
-  - title: "Fintech BPO Philippines: Navigating digital revolution in financial landscape"
-    excerpt: "The rise of financial technology (fintech) has disrupted traditional financial sectors, propelling a shift towards digitization, convenience, and enhanced customer"
-    publishedDateTime: 2023-08-09T11:15:00Z
-    webUrl: "https://manilastandard.net/spotlight/314358733/fintech-bpo-philippines-navigating-digital-revolution-in-financial-landscape.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 1
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 3
 
 secured: "YQH5setke7fDYTjfV8ogEh1ma9AlcYdI2KHKqDUhOwtCKfld8AywAAT89os05r4pjZeEqlFAQ9BSw3ApFXuxq0z6nz5VFc2GlVpCypjUNdTqAfxh7k0Nf/zX77dJwl6lxPHagDVmLUhl7NMwSaZMZfCR1rD3kcQQBYNn4tT8H31wMEulsADX7KSvXa7hEzdV3zQGMl3xTLkWwlTgVrmqYTG4vLplYZmO7LX2eTl3YWT+VbFBgK4m9obQXu8Q7XEY/5lfNgyiAhaW5D2bqWuLjkN6J5+cVd2W9X68AdB2Tepq8u3bFwkw3lmu3zWHbagNnw7hZcs/QPLtwM02S2DcTnMFpAhKxovpzL2w406o4VVUdFDHDDmoUJqiTK52Pqtq7bDY1qWaJMpk2MVhPgfuF0MGMU85vxxOhvJJbHzsYNwu7UIjlUgpWneeuAMzCXyAVDAl59gJ3NFtMdkfzWPGnMEq5oaL6ndyODZgQbEpHqmUlQ7AMjf/GYve4nmJz67/0/uiQSUIzSxzH02mON3XFQ==;OTlqoPh/GSOWSiT0Ak5avw=="
 ---
