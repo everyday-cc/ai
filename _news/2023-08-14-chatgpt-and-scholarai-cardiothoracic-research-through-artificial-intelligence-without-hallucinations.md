@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2023-08-chatgpt-scholarai-cardiothoracic-ar
 ampWebUrl: "https://techxplore.com/news/2023-08-chatgpt-scholarai-cardiothoracic-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-chatgpt-scholarai-cardiothoracic-artificial-intelligence.amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/chatgpt-and-scholarai.jpg"
@@ -26,6 +27,6 @@ images:
     height: 1280
     isCached: true
 
-secured: "4PCs6N37AgCJIKQ+RJVExR/9VdLkyM+uMeIn2qfUi5VGmgt71Dp8HyUNOZKLF03K/Bj6JKRHrDp12JxZ0X4pSTQ0yUTg9mno0zePYok0x1rFoVWKN9WTb5p5Jh3Og5AjXhtuIzvUtg2wt2ZSp60w4WL+Vn5IRJMPIX7VQotUyr7ruluS17/A3S0So0tEfN7VyYHaSVrlIN4uC0LtU1QNzIQtDNJ1Eabj+QO9q2h6i3blYy4ua9SHSgg2mDVBbGwQIsLgFcke6dfthyXyR2vH0wAh0fBl//4LPIsUKieArXqQOGQvcfPhTKcaka6/jEqn3h//oEFf3tO3NxwEKlBd6RiYNoOwmdrU4mx6f1JpaPc=;oi8zbekEZyEgICV4wu1KGw=="
+secured: "9oRKkhW2+V7uqTPbAGuLfKlB4ajv1wjRZrolSouhWVe485LTlb1GzncLPdZm/W4C+hP/agIQx3E2EfoE4ypwXx4MsO261icyElopVjRRL5OdOT3csw0q3pvIcNYySK2oAtjFPPbb7lq8XnaROYmQLpff7htehdp+/Q2ANHpV2ipRHYSjwxkeQWNsYicD2dIM+Osaz81BgOdobVH6IYUyIWiud0CaufdO6FJJBfJBeWrKkocr2lH3gUBUClptMo3feMK4cFmqLZkHKrZVw0X7sWaEClf/YA7VaJeCcQltW6oK3PCzfQ1c3cvwYlFQ31G9LgTN3V2LHXMCAt4b+KUvlH0PyU2bVZpSOwtvbFfxnFEOgaJ1qciKrv+TtS9S6R9EFVPlVPpc6dAwH41azaaEXvdNzMXBwHy2Y+aFjSl5ByrhE2rwt/92Lr5o+FaFe0a/RTQANPDm92gXIdEQJW6l/dxiV5rOsseQZEsL/kgKuGFYJMgCx51cvT6WSqam7m8diR7OeQaFiHD6pOPFlwNVPA==;ay9ftE5J5/Aq16UUtQwgYA=="
 ---
 

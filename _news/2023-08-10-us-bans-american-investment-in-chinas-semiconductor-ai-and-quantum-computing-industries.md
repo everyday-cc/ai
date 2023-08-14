@@ -54,22 +54,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
-  - title: "Biden signs executive order banning investment in Chinese AI, other tech"
-    excerpt: "President Joe Biden signed an executive order Wednesday banning U.S. investments in artificial intelligence and other technologies that come from China."
-    publishedDateTime: 2023-08-09T23:28:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 58
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/6541691620107/2023/1/253c6e9417c032a9382c422147f5a677/v1.5/Biden-signs-executive-order-banning-investment-in-Chinese-AI-other-tech.jpg"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "US fuels tech trade war with China, banning AI, chip, and quantum system investments"
     excerpt: "US President Joe Biden is escalating the tech trade war with China with an executive order to restrict investment in specific sectors including semiconductors and microelectronics, quantum information technologies,"
     publishedDateTime: 2023-08-10T16:33:00Z

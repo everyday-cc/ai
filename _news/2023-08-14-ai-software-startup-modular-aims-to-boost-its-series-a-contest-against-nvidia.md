@@ -72,22 +72,6 @@ related:
         width: 630
         height: 354
         isCached: true
-  - title: "China's internet giants order $5 billion of Nvidia chips to power AI ambitions"
-    excerpt: "Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,000 A800 processors from the U.S. chipmaker to be delivered this year, the FT reported, citing multiple people familiar with the matter."
-    publishedDateTime: 2023-08-10T00:58:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-11137811.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2018/08/nvidiagaminggraphicsgaming-graphics.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Big Money For Big Tech: China has ordered $5bn worth of AI chips from NVIDIA, despite US ban"
     excerpt: "Despite several sanctions on China, several tech companies in China are lining up to buy NVIDIA's AI Chips at a premium. The Chinese tech industry has placed an order worth $5 billion with NVIDIA for"
     publishedDateTime: 2023-08-10T06:50:00Z
@@ -241,6 +225,6 @@ related:
       domain: crn.com
     quality: 29
 
-secured: "DPuC1JEVoiUTmG5pJ5T5SnuPWYF7DBfDuplV36bDEhbX7VafBoUU1EbwiuIzEA4o9KDv9ef/zgC1ijG2x++25/EwY9Vww1/sXaril9KHTnrJixW/CGPJGzdSDqSXyhujQaky0uKXONF4Dyc0PgFwxyEPxENDusFtu49cd01i8HLep/M5fDUjZEBFZzqclMWTV4qGIfalGq2FSvCnWOkbdjYOiJwzoDgIN4fZik/U7Wo3YTayg0O8/cSV8KYUULNxQk6EQxlMxsmTXKXuUPl/Dw+7UDLWKanrNmvTt0jjBct2nZg8h2GloBbjYZ7V9Fc/YX8hZqAfxllqvT3DU0Gtb1Om85sGCsFox/berRZAwd0=;J0No6t/F/KDgWzcvEM9L/w=="
+secured: "p1wxRZ5CmPem2X12dmqpjirYKf1SNFdE9Gx/MvuUbpVKKx+dHdAqxj/G4IROnDl45CYCc1U2AMRZEl30QMo8cYJ2DXqS097EJCzD7wnJpWnSx3Q+vlQbXW10iMW9Xd7et/9Sh7mpACvvyDmHHvw3Zma7rrL2nCqHoeAbd3XOoX5IU2dWshkAxbe+D/Dy7rCHByyjFTrevs3T9DYfaEmPJg/FfQ59jiXfUnfno4HsB1m95clDdcUd+PVvQzCisv4YxoxddELEwFoTaTFGI0a8u6Yfbd3hdIwp3zhqBA2Ox9rxpZbqFv3E8OmWspC/aAJhksxNeZxr/UxjNJ1O5ZhN4Emr9viHKYoC2cmcOuJXActjMASAza3DFvugT+8EbySLe5N6OxRvXdgDtwZzlncwuCFZbf43G6fbfalfXY1NqWri+1jJ9rHhr5Is4RXIWCEZqCkELtC2y7M8H4nHPwy5eImach7YLet2IzquTTlsKE1a9hvI15o5lh6Vy8Yq46cbWCgt11txZFptaysRPiDesQ==;dCNZkAtnqPSPifOEEa9b2w=="
 ---
 

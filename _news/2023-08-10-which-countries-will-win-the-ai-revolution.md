@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 660
         isCached: true
+  - title: "Embracing The AI Revolution"
+    excerpt: "In a world where AI has become an integral part of our daily lives, resistance is not only futile but counterproductive."
+    publishedDateTime: 2023-08-14T16:36:00Z
+    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/14/embracing-the-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/14/embracing-the-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/08/14/embracing-the-ai-revolution/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64da56e59b353f4c410eda42/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Embracing The AI Revolution: A Guide For Industry Leaders"
     excerpt: "The obligation lies with every leader to seize this unprecedented era and harness the potency of this breakthrough technology."
     publishedDateTime: 2023-08-10T11:44:00Z
@@ -53,6 +69,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6426e4f5a896dce658217d97/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Revolutionizing Education: Harnessing the Power of AI for Studying"
+    excerpt: "In today’s fast-paced digital era, the role of Artificial Intelligence (AI) has transcended beyond mere automation and into the realm of education. The integration of AI into the learning process is transforming how students approach their studies,"
+    publishedDateTime: 2023-08-14T16:29:00Z
+    webUrl: "https://techbullion.com/revolutionizing-education-harnessing-the-power-of-ai-for-studying/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 56
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/AI-in-education.jpeg"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "sJ3qM/vXaAneSzwhABtshQl6VCo/Dg2y9DCAqygIvaCSI7hR+vPN5PeZ/bTL2GZC9sIKiaOG0ak/NLBp/3/RCrZEv88QhUh9ub0UOvdVhnQiKWtCIiAJBE8se/Z/d820WWdfiS3m2Fi9D1LdDCBIoUUT4YcIZOhJO9EErBbG8i8S3uwxMeerCYop2tg8hxX/HQRh/grILvz6GtYNgu80q9snpIg5Mc4iRw3LMJTkDyNt0DjntUpoz/kx9TGucEPiQ6Kh30GDZ+Xrdn7I8e9jnYvkgTmCPRP8xBPHCy2Rg0pFS7yfyXN4uU/kcbYIzAp6sYKCZbPkx04yf6xQD+J5Im1H96t3cB0eR7u19HE/vzo6pLEOYK65wg6SiINUqf9CWr+AObpo063E7+x2KsvuYlnOLIQQfeVDRZT5h53J+rnoKdEj9RgnqyiZ4wYlNUVqmkW3f3lHCDFy1UOnQTZowMZEZeO3fSGIy+MCsnz7cmFCPUzyLQej4CKFaK3+APBPzfqneYJHfMBPAXA9NxOw2A==;Fj5lCIRrwVUQw72wjpfp2g=="

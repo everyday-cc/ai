@@ -39,6 +39,20 @@ related:
         width: 2560
         height: 1945
         isCached: true
+  - title: "IBM unveils an analog AI chip that works like a human brain"
+    excerpt: "IBM Research has unveiled an analog AI chip that demonstrates remarkable efficiency and accuracy in performing complex computations."
+    publishedDateTime: 2023-08-14T16:22:00Z
+    webUrl: "https://interestingengineering.com/innovation/ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/14/image/jpeg/8bavDaKXnvuBKxvdvcYxixoxwiNrWZhWOittTvOQ.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "IBM boffins develop mixed-signal analogue AI chip"
     excerpt: "Good for deep neural network (DNN) inference. IBM Research introduced a mixed-signal analogue AI chip for running a variety of deep neural network (DNN) inference tasks. According to Biggish Blue the device has been tested to be as adept at computer vision AI tasks as digital counterparts and is a"
     publishedDateTime: 2023-08-11T09:03:00Z

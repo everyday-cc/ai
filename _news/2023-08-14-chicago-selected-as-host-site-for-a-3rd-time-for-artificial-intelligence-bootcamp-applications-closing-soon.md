@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Chicago Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
-excerpt: "CHICAGO, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Rush in Chicago. Applications for the no-cost bootcamp are closing soon!"
-publishedDateTime: 2023-08-14T14:40:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/08/14/9864033.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/08/14/9864033.htm"
+title: "Chicago Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Rush in Chicago. Applications for the no-cost bootcamp"
+publishedDateTime: 2023-08-14T14:29:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/g33834832/chicago-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-clo"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/g33834832/chicago-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-clo"
+ampWebUrl: "https://www.benzinga.com/amp/content/33834832"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33834832"
 type: article
-quality: 0
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Mountain View Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
@@ -37,6 +45,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "Fort Lauderdale Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+    excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The ODP Corporation at the Alan B. Levan"
+    publishedDateTime: 2023-08-14T14:27:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33834825/fort-lauderdale-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-so"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33834825"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33834825"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Mountain View Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING ..."
     excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by ThoughtSpot in"
     publishedDateTime: 2023-08-10T20:33:00Z
@@ -50,22 +74,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
         width: 600
         height: 315
-        isCached: true
-  - title: "Plano Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-    excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital"
-    publishedDateTime: 2023-08-14T14:51:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33835686/plano-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-closi"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33835686"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33835686"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "Addison Selected as Host Site for a 4th Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Headstorm in Addison. Applications for the"
@@ -92,6 +100,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "Detroit Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+    excerpt: "DETROIT, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital consultancy, taking place in Detroit. Applications for the no-cost bootcamp are closing soon!"
+    publishedDateTime: 2023-08-14T16:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/detroit-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032552173"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
   - title: "Fort Worth Selected as Host Site for a 4th Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Elevate in Fort Worth. Applications for the"
     publishedDateTime: 2023-08-11T15:41:00Z
@@ -112,6 +129,15 @@ related:
     excerpt: "ANCHORAGE, Alaska, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The Odom Corporation in Anchorage. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-11T18:16:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547649"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "St. Louis Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+    excerpt: "ST. LOUIS, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital consultancy, taking place in St. Louis. Applications for the no-cost bootcamp are closing soon!"
+    publishedDateTime: 2023-08-14T16:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/st-louis-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032552172"
     type: article
     provider:
       name: Business Insider
@@ -230,7 +256,25 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 0
+  - title: "Houston Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
+    excerpt: "HOUSTON, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital consultancy, taking place in Houston. Applications for the no-cost bootcamp are closing soon!"
+    publishedDateTime: 2023-08-14T15:16:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/14/9864046.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Plano Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
+    excerpt: "PLANO, Texas, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital consultancy, taking place in Plano. Applications for the no-cost bootcamp are closing soon!"
+    publishedDateTime: 2023-08-14T14:59:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/14/9864044.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "Fin+2NsaThy+TDd7ONf39uRwvgpf9nxIewzBBhY3bNJQtRt43mSXyq0QJLUZO384gpr8fKpynvLmvQRnEd2Zks5j2UujJV+NW6A2unAo7QAaglnus3cwW5meq402gvqN80QsNpimBUrdJRN9MzXdkT8GU1XR++uG4FZekhcdVfRAsvWrBJQwI7quTI/e2M/GC98LsignSS/8iFtscCC4MelZcRshFjVkOKkCpatvlND4+k//WvZXhryQpG49+R95Ph+HHl9A3xW21esoN3OCxGmHKlHWkB+CmVYiYNB6ZTvHJSFVPuZhFMtlG3Q3yDZNyaeEp8NuJtJsRz7zp9rCDhS67INo0SlwKocYA2XVCq0=;0YqB8zZraudzLmY0KTjx7Q=="
+secured: "pWimjCEZywUGUJtl1oHQ3kSpkJqnJ/6FkROtppn2xTOxWg/xuLASeWbV7f37lBHeaUhngBfNY3kV2xZN7oeb7s+D+hCuuSr98hInqnYe1VOxgGwdKbIj+aBXx0tK4Sg4jx5bLsGxtoOj6PGxW4aais0mIdCfZ3HhgSXMQyR6f/IEgIt/TVoS1REnXWd5SYyBT3nxNlek/mahwS+WwbeTBJJwdZ/I7WkuvU7aUCI+9TZlcszwmqY4LXkiIt53VC9St2PNpPbWBhqphGDUVxdqhGrLAky3/Qzm8BbF31Z9rSV6reDHqJcBF+rx+O9kSli312cCBEQV1LrxWgIkP6IvDGAfxNIP7gYdRYlOfmOmHx4=;f5DYkYJIA3mTD3bsKzUcbA=="
 ---
 

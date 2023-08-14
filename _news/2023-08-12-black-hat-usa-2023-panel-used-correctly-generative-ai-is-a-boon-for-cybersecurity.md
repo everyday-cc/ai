@@ -42,22 +42,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "Top cybersecurity products at Black Hat USA 2023"
-    excerpt: "Here are the top cybersecurity tools, platforms, capabilities, services, and technologies launched at Black Hat USA 2023 that you need to know about."
-    publishedDateTime: 2023-08-09T23:15:00Z
-    webUrl: "https://www.csoonline.com/article/649183/top-cybersecurity-products-at-black-hat-usa-2023.html"
-    ampWebUrl: "https://www.csoonline.com/article/649183/top-cybersecurity-products-at-black-hat-usa-2023.html/amp/"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/649183/top-cybersecurity-products-at-black-hat-usa-2023.html/amp/"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 44
-    images:
-      - url: "https://www.csoonline.com/wp-content/uploads/2023/08/pexels-kevin-ku-577585.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 767
-        isCached: true
 
 secured: "UgcYChGf45g+dQdGnbaYitJkS6onIPcMfs4v8E5jUtv+HBgn7nvGjOn38AxXFV9SedOti+lu647aQ4OgUbWwsNdEOf7zzEt3RDDjEKBzsxNkBk+rkUtwu55dC+WRLfLhCSEYLmUDYqwWcheGN3Lby+lA2YpwZXfeEceoPtCYzEGy0qLEct5rN9j4Q96ENski4ObTcpfw0uXyKAgyqv1X7HIxctXWYlbKqACcQ2z8O1g/3ZuWzTN0EqFB35b9pLtHj0wCMw19Q24HR80OshPgHbCU1xgMx/uX8JetHl2Jo5WpX9DAp2MjgeGlmPi8wWbi9hDIVT8KNoDybbViibO79K+wqwwwBDfYnq/bHdLm5WyewbrNWAFalunVEreFDRdGKkoAb9MoZpo0Ue1zaTeon263gYS81emX+smiR2gCFimm9QHV0h9XsGMC2jMsYKpDqpOnAai6LUVBT012yTmxuULeoYVAEDUlX43jiwIs/tXDmq0vtx9Pdie7VdWzHWc2Qgqpc2xbdqNJiOjSktcPFw==;wIKZOlRzGyNGdZA2GzKg8A=="
 ---

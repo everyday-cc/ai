@@ -38,15 +38,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Five Things You Need to Know to Start Your Day"
-    excerpt: "US imposes restrictions on investments in China. A debt crisis is brewing at Country Garden. Rice soars to highest price in 15 years. Here’s all you need to know today."
-    publishedDateTime: 2023-08-09T23:35:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-09/five-things-you-need-to-know-to-start-your-day-ll4dcfcw"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 32
   - title: "Investing 'Summer Vibes' Drives Interest in Cruise and AI Stocks, According to New Apex Q2 2023 Investor Study"
     excerpt: "The ANIO report analyzes investor data who trade through introducing brokers on the Apex Clearing Platform - across more than 1.3m Gen Z accounts and 5.6m accounts held by Millennials, Gen Z and Boomers, calculated from April 1 - June 30, 2023."
     publishedDateTime: 2023-08-10T15:36:00Z

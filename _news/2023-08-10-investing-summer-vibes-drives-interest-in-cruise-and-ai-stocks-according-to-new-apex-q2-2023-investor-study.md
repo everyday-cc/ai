@@ -44,15 +44,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
-  - title: "Five Things You Need to Know to Start Your Day"
-    excerpt: "US imposes restrictions on investments in China. A debt crisis is brewing at Country Garden. Rice soars to highest price in 15 years. Here’s all you need to know today."
-    publishedDateTime: 2023-08-09T23:35:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-09/five-things-you-need-to-know-to-start-your-day-ll4dcfcw"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 32
 
 secured: "Y5IWLDgCFO3/gBGwMDvyD5LwcGSkf8wUKV0m6XpznyEoWkRbEZDro5POrY1xRVVxcv9DoQv5puh6x49qKdIvYUWUCZqxWECfHVQmJI1jTKjgULnIaUR8FixGSGc8rXZhdqMVUgXbdCQ7zewCmrkOJplcE1d/qF6KMfDKdbAl2pm8twiirt9koPs21ggevZdx3c+h9mkIj00nnGri+LAoaqMvB85HijY3B8K8kgKMjiDwXTLLo6kmOhumS+RZXJYt+SZJrMNo5A3ZalYcD1+LdT7AQK6bbEbeZAF4VBECZr/xp0cpsYllR/0IZQMcGYFtwTRU3InFBeT1I3nt9ycuBdSfPf9He/uB38tFvPOu0Jc=;I9UMpJ64GcDvM+Hpd4WGog=="
 ---

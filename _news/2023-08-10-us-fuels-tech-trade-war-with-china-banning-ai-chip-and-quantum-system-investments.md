@@ -58,22 +58,6 @@ related:
         width: 1021
         height: 765
         isCached: true
-  - title: "Biden signs executive order banning investment in Chinese AI, other tech"
-    excerpt: "President Joe Biden signed an executive order Wednesday banning U.S. investments in artificial intelligence and other technologies that come from China."
-    publishedDateTime: 2023-08-09T23:28:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/08/09/biden-signs-executive-order-banning-investment-china-ai-tech/6541691620107/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 58
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/6541691620107/2023/1/253c6e9417c032a9382c422147f5a677/v1.5/Biden-signs-executive-order-banning-investment-in-Chinese-AI-other-tech.jpg"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Mark Lee speaks on artificial intelligence following U.S. order on investments in Chinese tech secto"
     excerpt: "The U.S. announce new trade rules to China reducing its access to U.S. microchip technology. Beijing says the order seriously disrupts the security of the global industrial and supply chains as well as fair competition."
     publishedDateTime: 2023-08-11T01:39:00Z

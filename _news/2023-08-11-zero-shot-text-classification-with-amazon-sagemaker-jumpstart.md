@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/zero-shot-text-class
 webUrl: "https://aws.amazon.com/blogs/machine-learning/zero-shot-text-classification-with-amazon-sagemaker-jumpstart/"
 type: article
 quality: 89
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -42,6 +42,34 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/28/ML-13521-dashboard-1260x578.png"
         width: 1260
         height: 578
+        isCached: true
+  - title: "Build production-ready generative AI applications for enterprise search using Haystack pipelines and Amazon SageMaker JumpStart with LLMs"
+    excerpt: "In this post, we showcase how to build an end-to-end generative AI application for enterprise search with Retrieval Augmented Generation (RAG) by using Haystack pipelines and the Falcon-40b-instruct model from Amazon SageMaker JumpStart and Amazon OpenSearch Service."
+    publishedDateTime: 2023-08-14T16:42:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-production-ready-generative-ai-applications-for-enterprise-search-using-haystack-pipelines-and-amazon-sagemaker-jumpstart-with-llms/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/14/production-ready-genai-haystack.jpg"
+        width: 912
+        height: 453
+        isCached: true
+  - title: "Zero-shot and few-shot prompting for the BloomZ 176B foundation model with the simplified Amazon SageMaker JumpStart SDK"
+    excerpt: "Amazon SageMaker JumpStart is a machine learning (ML) hub offering algorithms, models, and ML solutions. With SageMaker JumpStart, ML practitioners can choose from a growing list of best performing and publicly available foundation models (FMs) such as BLOOM, Llama 2, Falcon-40B, Stable Diffusion, OpenLLaMA,"
+    publishedDateTime: 2023-08-14T17:07:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/zero-shot-and-few-shot-prompting-for-the-bloomz-176b-foundation-model-with-the-simplified-amazon-sagemaker-jumpstart-sdk/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 64
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/14/zero-shot-prompting-bloomz-sagemaker-jumpstart.jpg"
+        width: 912
+        height: 452
         isCached: true
 
 secured: "sINK4zo3whDTu9iUysQXA87QPQ4bDdZou1zToCXtiSpLWJNMbxS0inaCXAYn7gHv5RdXONcS9maixYnqmGCdLksbevb3RGpnAAOwsvEt9GgGLU1Eje+FfMqaOJ5Q3yyWwzpq2Y6CC3aBLPgEBvEjqVboskxM+8wwW0IJH3e9Ce5fxr4x2e7E34rAkXiOydsQ+P57f6EyvHA2AM+eMgeg/IiuTSdBbnZ9IJElFCe0KyRdc2ryteabMgsvfZVn7bzYa/+r/gPsMg8uAwm482UT1Bcl3kToVQQ9gU1zViwOm+OYKes6bfLdhMmJtsSMroCTox6KtKC8zjTXbFX83aCSJxVIeBBGCS35YAjxg/LAvPA=;oktWiREu7ynKivvBpADvNw=="

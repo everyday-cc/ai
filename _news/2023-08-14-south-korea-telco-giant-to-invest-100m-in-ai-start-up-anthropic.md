@@ -109,6 +109,48 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "AI Startup Anthropic Raises More Cash — $100M From South Korea’s SK Telecom"
+    excerpt: "Anthropic raised a $100M round from SK Telecom, as South Korea's largest telco looks to grow its AI-related telecommunications business."
+    publishedDateTime: 2023-08-14T16:36:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/anthropic-cash-raise-sk-teleco-goog/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "SF startup Anthropic, chief OpenAI rival, raises another $100M"
+    excerpt: "San Francisco AI startup Anthropic has secured an additional $100 million in funding just three months after raising $450 million in venture capital."
+    publishedDateTime: 2023-08-14T17:44:00Z
+    webUrl: "https://www.sfexaminer.com/news/technology/openai-rival-anthropic-raises-another-100-million-dollars/article_26eeac48-3ac6-11ee-8436-17b1f6e8bdba.html"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/b/4d/b4d781a0-3abd-11ee-b368-bfcabc4ec83a/64da534faf3cb.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Anthropic raises $100M from SK Telecom to build AI for telecommunications"
+    excerpt: "Google LLC-backed artificial intelligence research startup Anthropic announced Sunday that it has raised an additional $100 million from South Korean telecommunications giant SK Telecom Co. Ltd. with the aim to build large language model AI systems customized for the telecom industry."
+    publishedDateTime: 2023-08-14T16:57:00Z
+    webUrl: "https://siliconangle.com/2023/08/14/anthropic-raises-100m-sk-telecom-build-ai-telecommunications/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Fundraising_Blog.jpg"
+        width: 2880
+        height: 1620
+        isCached: true
   - title: "SK Telecom Pumps $100M into US AI Startup Anthropic: Eyes Multi-Lingual AI Expansion"
     excerpt: "SK Telecom pours $100 million into Anthropic, a U.S.-based AI startup, to amplify its presence in the AI sector. By collaborating with Anthropic, the telecom giant intends to develop an advanced AI platform"
     publishedDateTime: 2023-08-14T09:56:00Z

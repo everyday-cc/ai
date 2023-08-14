@@ -46,6 +46,36 @@ related:
         width: 1200
         height: 660
         isCached: true
+  - title: "Embracing The AI Revolution"
+    excerpt: "In a world where AI has become an integral part of our daily lives, resistance is not only futile but counterproductive."
+    publishedDateTime: 2023-08-14T16:36:00Z
+    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/14/embracing-the-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/14/embracing-the-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/08/14/embracing-the-ai-revolution/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64da56e59b353f4c410eda42/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Revolutionizing Education: Harnessing the Power of AI for Studying"
+    excerpt: "In today’s fast-paced digital era, the role of Artificial Intelligence (AI) has transcended beyond mere automation and into the realm of education. The integration of AI into the learning process is transforming how students approach their studies,"
+    publishedDateTime: 2023-08-14T16:29:00Z
+    webUrl: "https://techbullion.com/revolutionizing-education-harnessing-the-power-of-ai-for-studying/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 56
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/AI-in-education.jpeg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Which Countries Will Win the AI Revolution?"
     excerpt: "Artificial intelligence, like a lot of new technology, will most benefit nations with ambitious and innovative economies."
     publishedDateTime: 2023-08-10T03:59:00Z

@@ -3,20 +3,27 @@ category: news
 title: "Artificial intelligence is gaining state lawmakers' attention, and they have a lot of questions"
 excerpt: "Legislators seek ways to protect constituents while not hindering advancements in medicine, science, business, education and more."
 publishedDateTime: 2023-08-11T21:15:00Z
-originalUrl: "https://omaha.com/news/nation-world/government-politics/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/article_ce000d2d-7e54-5b7f-9ff9-8270d3cc99dd.html"
-webUrl: "https://omaha.com/news/nation-world/government-politics/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/article_ce000d2d-7e54-5b7f-9ff9-8270d3cc99dd.html"
+originalUrl: "https://richmond.com/news/nation-world/government-politics/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/article_308930d7-148a-51c2-9234-110dee60bdd5.html"
+webUrl: "https://richmond.com/news/nation-world/government-politics/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/article_308930d7-148a-51c2-9234-110dee60bdd5.html"
 type: article
-quality: 20
-heat: 20
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Richmond
+  domain: richmond.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "Hio1+T6FGkcc4iPlNad7X171Q4dWFu8bik66M8WdDyk0XtxbrHwxEobyql3iYvn4a56uBdSAGXtYpw+4Wzh3y5UfbXErrixsxAY1YnWSSN+d8JIH2r8B/fX+25Q+sW94i82oc0PkvSlGDNTN9aPQmWJhfwV8yb2JX5GmoNulojSMJZOKNB5U9/OzCLuSl/dByEIAwM6IFnEJkRzgKqPiGe2klaMML87Y5tWa9BwPRbYxiZuU9vvzvc2hzmkZ8i43RA/Ccc0icXEQdMZhfns2M/7xlbROfqXhmX+XXOfRBlDKxC0zqahpbLGKQGnk9Iw+PxXSZDpPhFnjJbP+gTSb+28sLIpMD03u/n9WI9IU5rbkdfa6Jp2I7albgSR4p1/gDDk1i4MSHO2LYG0h1Ijx8hSBfDf2b3eOK4XtMc8u973UkqcoQTO3uZMafoGVWYHQE0uIqLNga8cZg6nt+EG+ILEbWoOvMgbf9bDSeUlepGejaSh/suKeFQmUwndu91F4+LqplRYaZqluK6h4z0iwBA==;rpRGzeTi62Mm8L29OCGliA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/3/08/308930d7-148a-51c2-9234-110dee60bdd5/64d2697646657.preview.jpg?crop=882%2C463%2C168%2C630&resize=882%2C463&order=crop%2Cresize"
+    width: 882
+    height: 463
+    isCached: true
+
+secured: "yf/yaXvACI0AizOKFrwZ5hTEHo9RevXIxLZQD1ItnVc4s59Scn79C6bAa04vnKz/vEplBsU/VVhOUHArAqPjBfliWF+3iYh3pk57BgO03SqjojbeDSzNDd+A2WWoHGnuwDE3BS7ErXz0xnp5KOifDTHkuPF0+7QRQl+DHoPOaM430p2VXucYEO7aJu04DqjWRVryhXKN0lNBQ7e+Tf7xnGFz7GLZY5GcXAeUaiV2dh81XIrikSgeMgw3q4QW0UipRt7a0CePYADCgqvOU/mMqZ1F5up8Fy8PAQyXcUrImSTtdxgpcjv63j59hjVSF7z7QfZ4Hx8fMtCvzcOeH2Or2Yv83r7pZrs82lgRo4Pg3dg=;xhWiCk7yp8SmlcSknHaILA=="
 ---
 

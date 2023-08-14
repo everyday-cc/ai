@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "China's internet giants order US$5b of Nvidia chips to power AI ambitions: Report"
-    excerpt: "The FT report comes as Biden signed an executive order that would curb US investments in sensitive technology in China. Read more at straitstimes.com."
-    publishedDateTime: 2023-08-09T23:48:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/chinas-internet-giants-order-us5b-of-nvidia-chips-to-power-ai-ambitions-report"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 49
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/08/10/BIGTECHAI.JPG"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Modular, AI Startup Challenging Nvidia, Discusses Funding at $600 Million Valuation"
     excerpt: "Modular, a startup whose software aims to loosen Nvidia’s chokehold over in-demand artificial intelligence chips, has been in talks with investors including General Catalyst to raise Series A funding that would value it at roughly $600 million,"
     publishedDateTime: 2023-08-11T23:21:00Z
@@ -79,15 +65,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "China’s Internet giants order US$5 billion of Nvidia chips to power AI ambitions: FT"
-    excerpt: "CHINA’S Internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence (AI) systems, making orders worth US$5 billion, the Financial Times (FT) reported on Wednesday (Aug 9)."
-    publishedDateTime: 2023-08-10T00:26:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/chinas-internet-giants-order-us5-billion-nvidia-chips-power-ai-ambitions-ft"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 27
 
 secured: "YeRxG6gsOkoE9M9Txs8+BQsPM/PsEi53PkpXabwjVjdrJq5bS573sIt/b903iOrXnNp1LTG0cKrBl3wdjMkM2W8L7W8RWqVX13mDq0UZJKvj5DepQmWsMinGQTZkHK/KCOvfWLKGz5F/lJVwmJGsyPUT8sc/DXlbWVUMOAzKXD3U35QC9Xk37RC8wSC7RnqA4Dp5DcmhEJmppboqv5rnXgogDJAGy2HLx+nkMmmWyE8klTBizKF7WqUVREm4rQVkUkBeewwohMRlMVDz5OL69soFRMnFxoO5kPLxxGruCzhh3SyAdBX6CEyjiJNMYzFXu/L0499qNrKHhwVC4VXxhTrM0VD4bjLlEC6KjxYVJRyt+sTrGK1GdqppulpWGlMED3DzPaRjhWaFPJ0rnvJUTuGigv2ef+u/tCYptvZQFqI3DRgMcjp0CzpIW7eA5ZPSClECH+bB3kgHkY3ZK2f+N0ZrghqaOTTTiaO03PKck8XM5jv0j3Hk7Zalgp0qD6WlnUmWkCbAWRDabEEc1OxOdw==;OZDLkkPo9WHtIwZbfYPNIg=="
 ---

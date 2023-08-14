@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/transportation/california-okays-driverless-t
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true"
 type: article
 quality: 59
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -96,20 +96,6 @@ related:
       - url: "https://media.zenfs.com/en/aol_la_times_articles_830/6cba431ac83e36f1ff5ae60455774e19"
         width: 840
         height: 560
-        isCached: true
-  - title: "San Francisco’s robotaxis drive debates among students and faculty"
-    excerpt: "Stanford students and faculty expressed varying perspectives on autonomous vehicles, with some raising safety concerns. San Francisco city officials vote tomorrow on the expansion of robotaxi pilot programs."
-    publishedDateTime: 2023-08-10T00:51:00Z
-    webUrl: "https://stanforddaily.com/2023/08/09/san-franciscos-robotaxis-drive-debates-among-students-and-faculty/"
-    type: article
-    provider:
-      name: The Stanford Daily
-      domain: stanforddaily.com
-    quality: 24
-    images:
-      - url: "https://stanforddaily.com/wp-content/uploads/2023/01/DALL·E-2023-01-22-11.23.40-robot-school-cinematic-lighting-digital-art.png"
-        width: 1472
-        height: 1024
         isCached: true
   - title: "Self-driving cars block roads in San Francisco"
     excerpt: "A busy bar and restaurant area in San Francisco was brought to a standstill by malfunctioning self-driving taxis only a day after state regulators had approved"

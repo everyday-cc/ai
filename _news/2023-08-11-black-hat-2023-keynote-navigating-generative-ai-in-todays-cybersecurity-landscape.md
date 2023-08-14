@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/black-hat-2023-keynote/"
 webUrl: "https://www.techrepublic.com/article/black-hat-2023-keynote/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
         width: 270
         height: 203
-        isCached: true
-  - title: "Top cybersecurity products at Black Hat USA 2023"
-    excerpt: "Here are the top cybersecurity tools, platforms, capabilities, services, and technologies launched at Black Hat USA 2023 that you need to know about."
-    publishedDateTime: 2023-08-09T23:15:00Z
-    webUrl: "https://www.csoonline.com/article/649183/top-cybersecurity-products-at-black-hat-usa-2023.html"
-    ampWebUrl: "https://www.csoonline.com/article/649183/top-cybersecurity-products-at-black-hat-usa-2023.html/amp/"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/649183/top-cybersecurity-products-at-black-hat-usa-2023.html/amp/"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 44
-    images:
-      - url: "https://www.csoonline.com/wp-content/uploads/2023/08/pexels-kevin-ku-577585.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 767
         isCached: true
 
 secured: "oO+GIjcour+kaV35YatPN/WtVgkwjNQl2i3oGHjXMEGomORgUTscmATHDBxmljm8SwImQIs4/gccsJXHmc8yPzUdZWwthKF4kVNUoHd6KaYN12w0BUkgFnYEngRdS1LkRfvEWJcoO7/3/xFp+aZ8TDABoQi449TQhs65VyYooKE+2X/k2LdDVsFFKqV/eUmXFeVkXQGxZ8AFnpZBTV/Q2dn+bh6MRpVJRsqsxlHhHrRjZ9/BYOfxK1EDiwSHq4WYJZ/+mdyStCssQrPkiAa/lcmPPHKhUVhBg1Mw1wLy+M7KN04O2fU59tQ15rKM94xEloXGRjJOu1VhOGh5MLJKNb0yNOfKyG0EDxOqoyNNOV1co2z1Kg970xPtJm519x7WjyXrimhRKdNrtN4NFk2X4U1tbx3X8y3in3Bm+ER10CCV7Kszpl/cW6Oq+IMCSoufvL3JlfNZylQ6Xw+tZAQAO+BL7kWRD3arAK3i5Om8Km2br9bf5NpfFrBq7xt3yfeomhO4P9any/SdDfuiw01DOQ==;dPCF3V7/dotDeZGrrBUZLA=="

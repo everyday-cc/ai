@@ -43,6 +43,34 @@ related:
         width: 1219
         height: 630
         isCached: true
+  - title: "Build production-ready generative AI applications for enterprise search using Haystack pipelines and Amazon SageMaker JumpStart with LLMs"
+    excerpt: "In this post, we showcase how to build an end-to-end generative AI application for enterprise search with Retrieval Augmented Generation (RAG) by using Haystack pipelines and the Falcon-40b-instruct model from Amazon SageMaker JumpStart and Amazon OpenSearch Service."
+    publishedDateTime: 2023-08-14T16:42:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-production-ready-generative-ai-applications-for-enterprise-search-using-haystack-pipelines-and-amazon-sagemaker-jumpstart-with-llms/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/14/production-ready-genai-haystack.jpg"
+        width: 912
+        height: 453
+        isCached: true
+  - title: "Zero-shot and few-shot prompting for the BloomZ 176B foundation model with the simplified Amazon SageMaker JumpStart SDK"
+    excerpt: "Amazon SageMaker JumpStart is a machine learning (ML) hub offering algorithms, models, and ML solutions. With SageMaker JumpStart, ML practitioners can choose from a growing list of best performing and publicly available foundation models (FMs) such as BLOOM, Llama 2, Falcon-40B, Stable Diffusion, OpenLLaMA,"
+    publishedDateTime: 2023-08-14T17:07:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/zero-shot-and-few-shot-prompting-for-the-bloomz-176b-foundation-model-with-the-simplified-amazon-sagemaker-jumpstart-sdk/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 64
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/14/zero-shot-prompting-bloomz-sagemaker-jumpstart.jpg"
+        width: 912
+        height: 452
+        isCached: true
 
 secured: "et6zIveD0cOn2vaM9Wi0bLQjJBCcgrjlflVKJUAUm4exjHyw8q7wUHmNZ+qd3KVT6+zVpuzz21Em0htxHr42i/fQRMq61L/lh1kKB6qCWy/jv5V8X9KiX3nBni0U2STzfXLHMgQ7vylhmm3nFSQ5UJJ/llFX/dGa8Gto7HorcPQ1ykQ86wz2JsTHq6wQep8d8cXPFl4CddQNnAmIER/RrSXRjsOPBV57acZUss5lLHJwK/s+FMPWQK6qmTCtYEsoOYuxbBG2Kb30WGdDUOAGJacS75U+cMKDEhnS7gZtq46Er6Crqt3Eol1C5kvT8ibpSzMcWhmL4ZwDCm3wxlWm91pFPlxdYHNGm0nJFIBOC7I=;RkaSWdXG9o4YVB669wG/+Q=="
 ---

@@ -50,6 +50,20 @@ related:
       name: BBC
       domain: bbc.com
     quality: 64
+  - title: "IBM unveils an analog AI chip that works like a human brain"
+    excerpt: "IBM Research has unveiled an analog AI chip that demonstrates remarkable efficiency and accuracy in performing complex computations."
+    publishedDateTime: 2023-08-14T16:22:00Z
+    webUrl: "https://interestingengineering.com/innovation/ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/14/image/jpeg/8bavDaKXnvuBKxvdvcYxixoxwiNrWZhWOittTvOQ.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "IBM's prototype 'brain-like' chip promises greener AI"
     excerpt: "Tech major IBM has said that its prototype 'brain-like' chip could make artificial intelligence (AI) more energy efficient."
     publishedDateTime: 2023-08-13T15:45:00Z
