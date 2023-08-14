@@ -103,15 +103,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI dating apps promise less ghosting, more matches"
-    excerpt: "The hardest part of dating, according to Daniel Liss, is the small talk. A digital entrepreneur whose previous ventures include the photo sharing site Dispo, Liss launched Teaser AI in June, marketing it as the app that leads to “less ghosting, more matches.”"
-    publishedDateTime: 2023-08-10T03:19:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-dating-apps-promise-less-ghosting-more-matches-71691595326473.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 19
   - title: "UT professors embracing, preparing for AI use in classrooms"
     excerpt: "As a new academic year rapidly approaches for The University of Texas at Austin, it is working to balance fostering a learning environment with AI while preventing cheating among college students."
     publishedDateTime: 2023-08-14T13:45:00Z

@@ -106,6 +106,15 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "IBM analog AI chip uses phase-change memory"
+    excerpt: "IBM Research has developed a multicore compute in memory analog AI chip using PCM to reduce the power consumption."
+    publishedDateTime: 2023-08-14T19:25:00Z
+    webUrl: "https://www.eenewseurope.com/en/ibm-analog-ai-chip-uses-phase-change-memory/"
+    type: article
+    provider:
+      name: eeNews Europe
+      domain: eenewseurope.com
+    quality: 34
 
 secured: "tnO9X/1QTfoo0BNvjE/vRMle+E2cf5pkRxgyD2TitmWOAlU2lGnQEsIcbrPjeUbh5ChL99GdI58RhsngCo1lfODuen6flh7A5fFO3cjsXv1u98eJBlGaw7rxVSO5p4wT2KX+rkn4CbqO1hMFDn0kWpI5dH8Id0rwLUYPNCOJHtm2Q8f/BCPs7OO0f4ywGAGPFxi02nfAuWWZaKyjxfokrekdfURY8VhEk40gBBSThTjjpsYlXOylxiHqNs8VvMotXhHNxL9Hoz29HC4Jh1Wv1pYhXoQRMRpE7zgEnJkTnQ0tmQ8ZZJWDp0uvzJlySPkgwIvKrEZvklANgq+z/+utL+6t0R4wB/RlWZa5tpLOzqY=;a/sm3p5QPDTgGWgPFInfYg=="
 ---

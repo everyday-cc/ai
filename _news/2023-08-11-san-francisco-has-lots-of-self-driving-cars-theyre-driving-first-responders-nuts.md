@@ -225,6 +225,15 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 4
+  - title: "Self-driving taxi program expands in San Francisco, but not without criticism"
+    excerpt: "Self-driving taxis will soon be available for paid trips 24 hours a day in San Francisco after California regulators approved permits for two autonomous car companies, Waymo and Cruise last week. Johana Bhuiyan,"
+    publishedDateTime: 2023-08-14T19:54:00Z
+    webUrl: "https://www.cbsnews.com/video/self-driving-taxi-program-launches-in-san-francisco-but-not-without-criticism/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 1
   - title: "Two rival robotaxi services win approval to operate throughout San Francisco despite safety concerns"
     excerpt: "SAN FRANCISCO — California regulators on Thursday approved an expansion that will allow two rival robotaxi services to operate throughout San Francisco at all hours, despite safety worries ..."
     publishedDateTime: 2023-08-10T22:33:00Z

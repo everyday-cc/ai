@@ -149,6 +149,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 0
+  - title: "AI-Powered Innovation: VAST's Vision for Democratizing 3D Content Creation Takes Center Stage as the first Chinese keynote speaker at SIGGRAPH 2023"
+    excerpt: "At the SIGGRAPH 2023 conference, Yachen Song, founder of startup VAST, presented his vision for using artificial intelligence to transform 3D content creation. VAST joined industry leaders like Nvidia and Unity on stage at the 50th anniversary of SIGGRAPH,"
+    publishedDateTime: 2023-08-14T21:53:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/14/9864212.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "kCp+uiAyeNMJ0wWjPyOZ/XQdxtExz2wk8ahMem/viWXal/aX5bydtAlBQ0WzZwP0PFhChN5QAoxPB++cVC8AmxwHY8tddV6IBHFp0U9Wawh4tlDOY0ePhx+PTOSCTJ/CJmXzQu/w4ovU4Alcl6IHWp7dlLIJ8wKbS8l+KnU1F0+WNJahNQWTUCSu2pxmONTVyMHoJt4tPci3ek5Jtqf0z/l0UBEKZZJQfTeEWUk9bryscFjk9hcXjGZ22q3NqeCk7KpjseqvgNpHzAzk7sRaXxcuufvMzl/2hpu15VioCZzV28Lq2n8KIorTf/mE2nzlKszXZxKk+J+ARw+fq+pU3/B6ylIPGQmsgRw1zd8NTfOiv637bNvy3ff2uFGf3K99PFR9mUkMIsYi2CMadpOsPLgbELls5j/4Y0PKksRQErmK4dwldf1kxIwReeuBnAULI2P5I7TyOl+rqxea3mzDxxLJmQN4rqG/WJjebtZZHRxNW86Q7ExN04I6NpYLTUiceWS7Ikic7zNYCSUwIAOSaA==;XfFVdJSvJ7Gq2WMvdXoKjQ=="
 ---

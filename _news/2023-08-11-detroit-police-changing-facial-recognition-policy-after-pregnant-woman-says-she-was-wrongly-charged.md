@@ -43,22 +43,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Detroit police chief says ‘poor investigative work’ led to arrest of Black mom who claims facial recognition technology played a role"
-    excerpt: "Detroit’s police chief on Wednesday blamed “poor investigative work,” not the use of facial recognition technology, for the arrest of a Black mother who claims in a lawsuit that she was falsely arrested earlier this year while eight months pregnant."
-    publishedDateTime: 2023-08-10T04:12:00Z
-    webUrl: "https://www.cnn.com/2023/08/10/us/facial-recognition-technology-detroit-false-arrest/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/08/10/us/facial-recognition-technology-detroit-false-arrest/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/10/us/facial-recognition-technology-detroit-false-arrest/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 73
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230807154058-porcha-woodruff.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Detroit woman at center of facial recognition lawsuit responds to police chief's claims"
     excerpt: "Woodruff and her attorney filed a lawsuit against the city and a Detroit Police Department officer, arguing AI technology was the reason she was falsely identified as a carjacking suspect."
     publishedDateTime: 2023-08-10T22:09:00Z

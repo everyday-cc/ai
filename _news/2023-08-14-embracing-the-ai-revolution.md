@@ -77,16 +77,7 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Which Countries Will Win the AI Revolution?"
-    excerpt: "Artificial intelligence, like a lot of new technology, will most benefit nations with ambitious and innovative economies."
-    publishedDateTime: 2023-08-10T03:59:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-08-10/the-ai-revolution-which-countries-will-win"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
-secured: "l4AUp1efpdP2IyNkV3pVXeIHXPULaEZ8XZrVdvSFWCfwGMh0Rmoi17eUDlDI9vW2739TMzlmp3Ol8hbxFC4Ogrfwk5l3uPFw9+5XhMzJNf32e3O/jNz0CKA7CVGhYIsCD+qQ5t67NoA+uVyHKLCSLhcfnnS54QkJfFJ2vtWgQpClydq982ST6SAWlNBvikWgpxaXH+d2li+q63zfLZCRgRgmWiT52X8TQAnx9L2BloRihBRn4g9UvR1/n2o+Bqd+16Qr7vrDuabf2FrEhh+M9n7V94It/M2Y83tC7dfkARWR4dm9rKh/czLRw+xhilF7EJdJ17Gh18M41OYsl8jTnaRJAJUJPl8hRlakamVAYJQ=;UFl92477kgi2HMiVGoDDIg=="
+secured: "R8PA+Wax80AEeZ+Ber/2Xx9EyaPzbhGRPO1LjpXEjRIDIXNiOmlVmmOlxmaIRiIn3lzIW9+dJwRyd0KajAucYDwJC64kDmpJgZU3IezPQqR0byV6+cZtOP2Eerz2fJX2dBtskYOVBmudZzaozrBo5T2/HcQ0hUzw0gLdJRt+9jRn3joLn3kyvKrWud55zcRORNZr4st75S+GHbODshXbDu2ChMA9xRf1k8kDwISVz+XbLzCUYI49+Gt0Z/Q2f/BQ8npBsdqKEffWCkusyvvmu1bEp77Rws2UhtpyeOq0TUb3vfGSZUNujdAWUR8nZkeGjtsPuMsXLqj6n7ZFg9QAxmD/Jovh9EKHOV6w5MKxyA0Lf8w9TfJc2euELC+sQmlNr7n/8wtrPuESWemnkVSsMbT5lOIzinyf13sJ/NnZFCDNACOIvlZvG0DWgX9rH02qXiRqfLs85yP5wbQZAKIjVP4qroa1wd3j+g0oi/8pfhgZXUjewzoifVLWkPUQGl/hDz0u4Q5zxbofhZybg/j33Q==;Ol6MPrm0nAq5kh/0W7e69g=="
 ---
 

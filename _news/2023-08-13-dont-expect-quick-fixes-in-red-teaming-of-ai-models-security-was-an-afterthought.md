@@ -21,20 +21,13 @@ topics:
 related:
   - title: "Don’t expect quick fixes in ‘red-teaming’ of AI models. Security was an afterthought"
     excerpt: "Current AI models are simply too unwieldy, brittle and malleable, academic and corporate research shows. Security was an afterthought in their training as data scientists amassed breathtakingly complex collections of images and text. They are prone to racial and cultural biases, and easily manipulated."
-    publishedDateTime: 2023-08-13T21:20:00Z
-    webUrl: "https://www.kolotv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
-    ampWebUrl: "https://www.kolotv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kolotv-com.cdn.ampproject.org/c/s/www.kolotv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
+    publishedDateTime: 2023-08-13T19:19:00Z
+    webUrl: "https://www.wsfa.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
     type: article
     provider:
-      name: KOLO TV
-      domain: kolotv.com
-    quality: 69
-    images:
-      - url: "https://gray-kolo-prod.cdn.arcpublishing.com/resizer/t-lfzEg4PF9ZmMXu1nMib11ZXRQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CX4W7HZYKRFBPFVX42G5IPTPNA.jpg"
-        width: 800
-        height: 450
-        isCached: true
+      name: WSFA
+      domain: wsfa.com
+    quality: 29
 
 secured: "FCdXZ8iccrOlopIBAnOs8vDylZdRLiy0JXO1vaBq1M/RHnBAY1HIDWmuQsznbikIA+QEp7yCfrAZrMRzrG1KaY0mu25u8xQgmXX7rFN7V6wJBHMlGR/TJrX/3R6miQ2RUKXPdYsJdRhw1P52QWg3NkLKL2apvEBAqGf0Q7hbsvVeHKvJGB2fdOx8y1VmVIM6jE/drTJ0GU/RdfY+F29Xn7Gmkn5tbLmHXFuPEPEVx5JZ9nvIah6JISXCm+3D4gUJ7Jy/7QDFehG1WbamefTn9Ddj19RWwK9ZWyVM9TVDn8aEYQ0KHlsOXOQjNkTdDRc2KjeOSnqcCrMaA6TceKgmRUnEWdrJ/PqQXm61cdWlNJbRD8Z3LIsf5pMC+AxsvteLgQV7LVnPvniol4W8hLEOpk6nIYUoc9YRHvLbCb4/i5aTEy7MiUX5wU4QYMYg12f+f/gLoQ8jRpEZs3B1zJymAQxtwKSWOV1CRKCQLD9cQjqV3tPW58k35ZrtbXgynCPn4n0RnMC8fZDCp/P36vnKHg==;nRapipz2hiaVKNjGOt3QEg=="
 ---

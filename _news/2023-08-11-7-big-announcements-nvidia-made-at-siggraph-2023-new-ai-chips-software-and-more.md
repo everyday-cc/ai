@@ -224,6 +224,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
+  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
+    excerpt: "Gulf nations acquire thousands of GPUs amid global shortage of semiconductors needed to build large language models"
+    publishedDateTime: 2023-08-14T20:01:00Z
+    webUrl: "https://www.ft.com/content/c93d2a76-16f3-4585-af61-86667c5090ba"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "z7OfQbsER9hLh1uvNWpZr7JC8Jh02zHNg5kflzgkj0qa9sffP7QZ0yXLsjmud/hdL+YPSQYGRg9mHqDeiRbzLTAfLD7NSLT67zgSuZ/oHRtDNIW1iK9EF3p3fQUUvijp73zco6/9kZT9bSWCgHkEKC+Vx30K/oIWxiQ7iaCfBbiX5QUnGYN7YXRMr+ybiQbDpCdfksuy0/6UIhUSSiTpOr0UTf4RE9lOcYhgD3wTZy2fySFa/Iu+sE13DBNRqucC0NyFun7YFzs5slroaDp71JVG6GSrFMALCCFW/TAIvpyJmUvEgY6yQ6D7dJcdpvFEIT7ffD7d4LDBmqmPnypc30MXRnAr/e2N5fG6tjE1Eky+Sms17HaI/qdk5ZYb1TL1z6E6U/3P6Lj0DMF2YJ5nUGPgQAk9d+AstZmAao1CZ1N+oUhjdfNl0dZ9WoJpQmna99iiUEkt+9b6WNaX+zyS8FZgOv/XlQB4ZdGI6M3iu2aNltZEL3tBV102e//jR3zi6V76Q/2GMMZdeSMKhnGiqA==;c/TrGKQxC/6uATcAbKaORQ=="
 ---

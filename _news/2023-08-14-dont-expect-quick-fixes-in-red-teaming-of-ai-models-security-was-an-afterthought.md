@@ -2,30 +2,22 @@
 category: news
 title: "Don’t expect quick fixes in ‘red-teaming’ of AI models. Security was an afterthought"
 excerpt: "Current AI models are simply too unwieldy, brittle and malleable, academic and corporate research shows. Security was an afterthought in their training as data scientists amassed breathtakingly complex collections of images and text. They are prone to racial and cultural biases, and easily manipulated."
-publishedDateTime: 2023-08-13T21:20:00Z
-originalUrl: "https://www.kolotv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
-webUrl: "https://www.kolotv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
-ampWebUrl: "https://www.kolotv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
-cdnAmpWebUrl: "https://www-kolotv-com.cdn.ampproject.org/c/s/www.kolotv.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
+publishedDateTime: 2023-08-13T19:19:00Z
+originalUrl: "https://www.wsfa.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
+webUrl: "https://www.wsfa.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 29
+heat: 29
+published: false
 
 provider:
-  name: KOLO TV
-  domain: kolotv.com
+  name: WSFA
+  domain: wsfa.com
 
 topics:
   - Facebook AI
   - AI
   - AI in Security
-
-images:
-  - url: "https://gray-kolo-prod.cdn.arcpublishing.com/resizer/t-lfzEg4PF9ZmMXu1nMib11ZXRQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CX4W7HZYKRFBPFVX42G5IPTPNA.jpg"
-    width: 800
-    height: 450
-    isCached: true
 
 related:
   - title: "Don't expect quick fixes in 'red-teaming' of AI models. Security was an afterthought"
@@ -38,6 +30,6 @@ related:
       domain: abcnews.go.com
     quality: 27
 
-secured: "16R1ebdPn/R8Djf9blmE+gVJa0b8vdoRNpQh7PzzCEG3xjX4BQlrrFjAnU17E+1k88+sadOqXNsbGR6wh72UciMHR+5/slHBko42F2Np9xNaKqdn4+b0NKn1vh3eveQDT9gSTm+RxahKXWe6ax5gps6JydKBzOz4cL8u3CieKf5AMtil/mzJXb566DcVn5krUUE9eTR1MmA7FEppY01Mat2FE31QnAiAHUiMZehZsO9hYpuFOVA1jw4qXtUb0moAWUzqWfxp9lE3mu3PyzckzHVEqni33rOUByD7v/9gQDHCJI5Qy4eZyfWvMfBok6M5ri/oPu8b/0Or/c2FRzaqbz3hO+XPgloauFHgBENrChl4Za8745o/d99nE7GYJm9w5c6kzxf45LEMUoNkOptYtlTmAblXHE7fFjPZsb1sCSlGjHpws1Act2Bi8Y+lsszbHvk6RDEZTZ9YSFdxmEHtWne5K0o7LVqlFqqxjAf7E1ifDAj9Gsn5MgnLXl+gIuSeYlAqNQV06XzpZTL9iUXojQ==;Vzsm5HFA8fXv6gylrQyGUg=="
+secured: "ku5/2rb6OSSCVUlkYGvsOw6ipXnF8BlClT6f6HbwOZs3pS0HVQHI+y9ZqcH7ghmBbBtCrdR9TRDCCLVH0L0xHXworA0lCIIG1VPCN21RBMHcJ4/15ee6tdDGaagXehPhLKYge9+YbhYIfg0sUyKtQhb2O2rTtInK+b0/o+cZFyGZZ+AcjWOAVZ4vRz391fa+8EkpY3Xu1t0DBZTZFXRR15qyeJRzaBKWuOAM4tPzFKseWJ6g4V1OMNV0sHY5PeOBjki4FV+UMikgPuW75dxjcpOUi3x5uFPlmG7qlDhtjJeS/rtBOnXxtYEFRcwpiPul5p4daPmfUtDO6rWmHAhC7ByNKI+WDxl5lNbSERIJUYt3KBpv5NGRk56CnKh2TUaxHDQvvOsTJarQ7ATs5nGGl16KlVmW7wC0BB/6wgnZaAuiOyx1M9/eNodttqia9tv4RW0otuGEnik7XCcUK8l0610DCHptqWRJYBY0OhX12FNyEy7w7b6n7bSqLr6atAYXJA9wbsOQdI74pC6yyNqJzg==;D9yorBajtGZ6gVpq+mSB8g=="
 ---
 

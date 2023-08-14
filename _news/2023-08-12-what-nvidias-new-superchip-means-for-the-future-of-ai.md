@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-superchip-f
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035"
 type: article
 quality: 84
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -219,6 +219,15 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 34
+  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
+    excerpt: "Gulf nations acquire thousands of GPUs amid global shortage of semiconductors needed to build large language models"
+    publishedDateTime: 2023-08-14T20:01:00Z
+    webUrl: "https://www.ft.com/content/c93d2a76-16f3-4585-af61-86667c5090ba"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 34
   - title: "7 Big Announcements Nvidia Made At SIGGRAPH 2023: New AI Chips, Software And More"
     excerpt: "Nvidia CEO Jensen Huang returned to the annual SIGGRAPH event for the first time in five years to showcase the GPU giant’s “full-stack computing” prowess with a bevy of new chips and software for AI,"

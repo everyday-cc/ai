@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/amp/"
 type: article
 quality: 91
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Which Countries Will Win the AI Revolution?"
-    excerpt: "Artificial intelligence, like a lot of new technology, will most benefit nations with ambitious and innovative economies."
-    publishedDateTime: 2023-08-10T03:59:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-08-10/the-ai-revolution-which-countries-will-win"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "kAFvhSrCNBPkXZueg+jzeGum2KagrmiSQ+kOE1LJ+cpbfet3Jv6irWNYJSPmoF/dM+SVMHrgeKf9K9gs0N6aEDxF6DIb9Cg7yUL94k5x4QHTybKRPCHc4waNAGi6V5+j69Bv72vY4z2PqLLxK1TUrEizhHxlllshAvuTl9w3I7Nm2L6SWb0++6hJJHhEAW18rV85ja6wcUBwZuB0kR3iGKc21Awdk20CG6RL/XdPbSF+HdhTQlAcTNuo4WXRQeF0EXWz4x5eBW0HG8jnRuu9iBvP9DvZJ0t5FL9qjEp8w160sNY97cMGtdJHLVHGQXQduSjxfNbcxamPwbGchAMYt11WOzrGY2V9Kz8vkRe6HX47MIKNTEPnuNCb7odgEj9LxEYQF7OWZ+vJ0Mpu2YBCIZxlSz05FwARXawURJOraBx3cMXcPgUa9GZpc+tBHLBcSPxgdmT32VpahEZOZPkX8s7NITWPua6PD3giTRUWiPIIviJsqO0CFxz7ZnClxpCKE+NM5UCOXZ/5xi/DsDqD4A==;Qo0hKutOPAhFJxPVettu6w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
     quality: 87
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64d4f3db21f52229c2d9eed6/0x0.jpg?format=jpg&crop=2925,1645,x0,y151,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google Health expands AI-powered breast cancer screenings integration"
+    excerpt: "\"Combining Google's artificial intelligence (AI) technology with our leading-edge ProFound Breast Health Suite of AI solutions will enhance our technology and expand access to the technology to millions of women and providers worldwide,\" said Dana Brown, President and CEO of iCAD."
+    publishedDateTime: 2023-08-14T20:31:00Z
+    webUrl: "https://www.zdnet.com/article/google-health-expands-ai-powered-breast-cancer-screenings-integration/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-health-expands-ai-powered-breast-cancer-screenings-integration/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-health-expands-ai-powered-breast-cancer-screenings-integration/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/9bb9106210d711c47c2ceeeef370e7e6aa325de3/2023/08/14/c31425ef-3a59-44da-8cec-857e2714f96b/gettyimages-1187651665.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true

@@ -33,6 +33,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Amazon's Latest AI Tool Will Summarize Customer Reviews For You"
+    excerpt: "Amazon’s newest AI feature aims to make it easier to dig through customer reviews."
+    publishedDateTime: 2023-08-14T21:05:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/amazons-latest-ai-tool-will-summarize-customer-reviews-for-you/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/img/resize/f791e693e58fa0412325fd2d859ed5cff6e0c96d/hub/2022/11/10/ac1c56f1-2f1e-4c87-97c8-688fdc3345bd/amazon-logo-phone.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Untrustworthy AI is going to summarize untrustworthy Amazon reviews"
     excerpt: "Amazon has announced it is rolling out AI-generated review summaries that will give users a glance at customer sentiment."
     publishedDateTime: 2023-08-14T17:17:00Z

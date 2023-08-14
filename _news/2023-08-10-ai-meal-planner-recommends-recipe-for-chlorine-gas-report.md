@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Supermarket AI meal planner app suggests recipe that would create chlorine gas"
-    excerpt: "Pak ‘n’ Save’s Savey Meal-bot cheerfully created unappealing recipes when customers experimented with non-grocery household items"
-    publishedDateTime: 2023-08-10T03:59:00Z
-    webUrl: "https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes"
-    ampWebUrl: "https://amp.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
-    images:
-      - url: "https://i.guim.co.uk/img/media/dee13c15d09cf0bb642071be5193aeb1d0c520e0/0_168_5120_3072/master/5120.jpg?width=620&quality=85&auto=format&fit=max&s=a9cdcfd2e2f3c530779f30cf568bb82a"
-        width: 620
-        height: 372
-        isCached: true
   - title: "AI-powered grocery bot suggests recipe for toxic gas, “poison bread sandwich”"
     excerpt: "When given a list of harmful ingredients, an AI-powered recipe suggestion bot called the Savey Meal-Bot returned ridiculously titled dangerous recipe suggestions, reports The Guardian. The bot is a product of the New Zealand-based PAK'nSAVE grocery chain and uses the OpenAI GPT-3.5 language model to craft its recipes."
     publishedDateTime: 2023-08-10T19:45:00Z

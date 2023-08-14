@@ -42,6 +42,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Amazon's Latest AI Tool Will Summarize Customer Reviews For You"
+    excerpt: "Amazon’s newest AI feature aims to make it easier to dig through customer reviews."
+    publishedDateTime: 2023-08-14T21:05:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/amazons-latest-ai-tool-will-summarize-customer-reviews-for-you/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/img/resize/f791e693e58fa0412325fd2d859ed5cff6e0c96d/hub/2022/11/10/ac1c56f1-2f1e-4c87-97c8-688fdc3345bd/amazon-logo-phone.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Zoom's updated TOS prompted concerns about AI and privacy. Can the two go hand-in-hand?"
     excerpt: "The Zoom backlash is just another example of how regulators, and average people, continue to grapple with the growing presence of AI."
     publishedDateTime: 2023-08-11T02:08:00Z
@@ -52,6 +66,6 @@ related:
       domain: tennessean.com
     quality: 11
 
-secured: "vwNMbtSfx773nIfqQ+dnJ4uN3qcrgYX/SteXxjzwSlP4TIhVYluRIl9kT5x6Cuq/fqZAlfP9P3rHR5/cLJBwtkuFXJhHUa6Ge+dPEO06oIsE87dYSwK3ZvA7TY2ZljXP8XupeWnR+7r3Q1WQaHI/L/U31l99kk6AfGPG/aFrn37xjJtff91fhVEh6y5yLIpHwZCUBpRse71QXWISOB2b6xbnAlNfqzY554NwQKg89AqkbsNwGxvuGq+oQMqDAg/g+mQx3GosOAivTiknlCvCoYJE6LfEfNqaktC8aZqfOLf2N75VHIWT/rpyvvLYZlt8MDxQnj/45OKG7RlnoOT1HCRHqi1/O9GLeo6V4/vl7jg=;9u1H1swBoJTscWXF6BWR4w=="
+secured: "TKL2OiyJWMvqbZoxqAH3oR2dK4HLO3TFCcutWLOaqlPBPaSFEL0D06ZdGGLmktMX/32EaqdU1CF5Pn46KqQCFt/tibV+kPQU1vpVmcn00cs1ZHVW8beTDRx2g4C5c8mH7LVnfytxBDTQd1A5V0eLzX61lDg5ab/P2PhvNiNwEmqyZR+c8Swjl8HjhH7j/KkAvVpwNuSxCG7zdBYwqBdy4xcjhFIg1oLBtQatqlGrN8aOeDOZ/wYbtzWg2rsyVqVFspjFNtoPK1CmbmZUREFKrv7tCGsgtL0tqcczbNbs+ult00erGs9ckENhf/RvXTwNAtLwyJ8RKePHnm8B7MyQNPekQTLr5XWJkWxjsEGRwkBLXqSBWs0M109U5G0MmK6CNFj+4YfnHVL/sYRUcegqugRrWKBxR3Jr/LupdmnhvtrEdmiQld7QCPBcED4NtCVFBJbpGoWTcOP3rLB0hlDE0FUVZafWnR9qWt3//TKhzTxkdYUVgMQJPDQmAL40MkowvpwA/zGEc8MU/EsBGsMRaQ==;qtFVCN/0QEWpAHEI9Qv3zA=="
 ---
 

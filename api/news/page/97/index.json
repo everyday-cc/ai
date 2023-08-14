@@ -2,6 +2,151 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2023-06-13-why-taiwan-semiconductor-manufacturing-rose-on-monday.md",
+      "title": "Why Taiwan Semiconductor Manufacturing Rose on Monday",
+      "excerpt": "However, management also noted very strong demand for artificial intelligence (AI)-related chips, and especially tight capacity for advanced packaging needed for 3D-stacked CPU-GPU AI chipsets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/12/why-taiwan-semiconductor-manufacturing-rose-on-mon/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/12/why-taiwan-semiconductor-manufacturing-rose-on-mon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare.md",
+      "title": "Are You Ready To Work With AI As A Copilot? 4 Strategies To Prepare",
+      "excerpt": "Billions of humans across the globe are about to be working with AI 'copilots', which will redefine the nature of work itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/avanade/2023/06/12/are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare/",
+      "originalUrl": "https://www.forbes.com/sites/avanade/2023/06/12/are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64873077523c869c0bf4b945/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/avanade/2023/06/12/are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/avanade/2023/06/12/are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare/amp/",
+      "publishedDateTime": "2023-06-12T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-nature-bans-ai-generated-art-from-its-153-year-old-science-journal.md",
+      "title": "Nature bans AI-generated art from its 153-year-old science journal",
+      "excerpt": "Nature publishes peer-reviewed research from various academic disciplines, mainly in science and technology. It is one of the world's most cited and most influential scientific journals. Nature says its recent decision on AI artwork followed months of intense discussions and consultations prompted by the rising popularity and advancing capabilities of generative AI tools like ChatGPT and Midjourney.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/06/nature-bans-ai-generated-art-from-its-153-year-old-science-journal/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/06/nature-bans-ai-generated-art-from-its-153-year-old-science-journal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/nasa_fireball_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/nature-bans-ai-generated-art-from-its-153-year-old-science-journal/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/nature-bans-ai-generated-art-from-its-153-year-old-science-journal/amp/",
+      "publishedDateTime": "2023-06-12T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-with-52-of-atts-traffic-drivenets-aims-at-ai-networking.md",
       "title": "With 52% Of AT&T’s Traffic, DriveNets Aims At AI Networking",
       "excerpt": "DriveNets aims to capture a chunk of the market for AI networks that train and operate large language models like ChatGPT",
@@ -1077,144 +1222,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-ai-deepfakes-of-innocent-images-fuel-spike-in-sextortion-scams-fbi-warns.md",
-      "title": "AI ‘deepfakes’ of innocent images fuel spike in sextortion scams, FBI warns",
-      "excerpt": "There has been an uptick in sextortion victims reporting the use of artificial intelligence-generated deepfakes since April, according to the FBI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns",
-      "originalUrl": "https://www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dc9be95-a9de-408f-b909-3dcba83a1c8e/5656c770-0cfc-4904-8e70-c5c993136502/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns.amp",
-      "publishedDateTime": "2023-06-11T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-juniper-research-regtech-spend-to-surge-to-207-billion-globally-by-2028-with-ai-machine-learning-unlocking-efficiencies.md",
-      "title": "Juniper Research: Regtech Spend to Surge to $207 Billion Globally by 2028, with AI & Machine Learning Unlocking Efficiencies",
-      "excerpt": "A new study from Juniper Research, the foremost experts in fintech, has found that spend on regtech by financial institutions and other industries will increase by 124% between 2023 and 2028 globally,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/b32810416/juniper-research-regtech-spend-to-surge-to-207-billion-globally-by-2028-with-ai-machine-learning-u",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/b32810416/juniper-research-regtech-spend-to-surge-to-207-billion-globally-by-2028-with-ai-machine-learning-u",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-11T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-amazon-bets-big-on-ai-how-the-company-is-investing-in-the-future-of-technology.md",
-      "title": "Amazon Bets Big on AI: How the Company Is Investing in the Future of Technology",
-      "excerpt": "and Amazon Rekognition. Finally, Amazon is more than just another e-commerce platform. It also operates a logistics network that is on par with United Parcel Service in delivering a package from a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/11/amazon-bets-big-on-ai-how-the-company-is-investing/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/11/amazon-bets-big-on-ai-how-the-company-is-investing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/735326/gettyimages-1483272785.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-11T18:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

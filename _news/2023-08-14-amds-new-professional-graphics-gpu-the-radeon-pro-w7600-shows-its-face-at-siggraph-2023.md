@@ -39,6 +39,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Modular, AI Startup Challenging Nvidia, Discusses Funding at $600 Million Valuation"
+    excerpt: "Modular, a startup whose software aims to loosen Nvidia’s chokehold over in-demand artificial intelligence chips, has been in talks with investors including General Catalyst to raise Series A funding that would value it at roughly $600 million,"
+    publishedDateTime: 2023-08-11T23:21:00Z
+    webUrl: "https://www.theinformation.com/articles/modular-ai-startup-challenging-nvidia-discusses-funding-at-600-million-valuation"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 31
+    images:
+      - url: "https://tii.imgix.net/production/articles/11057/9e8150d2-cb8c-42bb-8810-b35f1573e68a.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "VyrqGmLUQtuJkNb+72Z/GOf62NttM3Jl2Hsp9P/Ky4axh5Wl6y5x/fwgHlJWK7Wx4ZFxwkPvrZxFmVJyCzwNAsjALBvOyryAkyYa2BxoTrR1WvysjjKZu37VB7df0o08BMlzr9Vte/WpTLO8m42Yl+hS1uVVgpIPIV0mH1be8Z+RpMAUAeYpPkaYc47CBUUQOt9wtxveAuq8Tp4yBHLM6km5PrP62KzNiOTHCcUo0CI9QLkR0rUIwdnrSeZyXA9Y7SKLNkiJofFkH4Tu6O/O9C9w/sNeW6avK2QKVoZHo/8P4z7Z4+pU3sR0oUHUNJ1uyoFr8P/Vl4zYufH0HbKj4cveDDfXW2FXy1a2D82qv4uXIjX7Ps4HZKc+MwXTOk5lSpRwiajAvZ5r9r2PS6e84o543yNk9SO3CC26z68SJAMluTINIvC7zkYllg+2NrQFVDe7bZPVuZO9sebci5lN4u6o7SMai+KohoRWzNdSzm/JFg90AHHXFQv0JozapI41EDyZWogePlbbUJVaXIcJaw==;pRv3gIplZwv8EUzDMkyX/A=="
 ---

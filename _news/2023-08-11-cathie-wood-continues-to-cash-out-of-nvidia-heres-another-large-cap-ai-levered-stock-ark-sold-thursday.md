@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/etf/cathie-wood-continues
 webUrl: "https://markets.businessinsider.com/news/etf/cathie-wood-continues-to-cash-out-of-nvidia-here-s-another-large-cap-ai-levered-stock-ark-sold-thursday-1032545454"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1024
     height: 768
     isCached: true
+
+related:
+  - title: "Every AI Stock Cathie Wood Owns, Ranked From Best to Worst"
+    excerpt: "There's arguably no greater area for innovation right now than artificial intelligence (AI). Unsurprisingly, Ark Invest has loaded up in recent years on AI stocks. Here is every AI stock that Wood owns, ranked from best to worst."
+    publishedDateTime: 2023-08-12T09:51:00Z
+    webUrl: "https://www.nasdaq.com/articles/every-ai-stock-cathie-wood-owns-ranked-from-best-to-worst"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "yecEnkUzuX8pXLEobSCmNHTUVQyY2Czbs/KJsYT99squ1AMmhSEb5ULOi0c9cxStJjKT+elZYDZJhGUyuliQP1jJ76wRUTDic/Q+7gkXZEjQwTdtKplAn4Q5o4qwDACHh05YqUxi3AFwkKK3HfTJ/uJFKudDOdjp6935H78VYWnkNlqhMhmfLUCN6s6O9LrAtqwZhvxmbYP2g3I6YDRmVS7AfxRLCQmTPFOxRL1jMlRkhd7DAAmK83UBBLBYNd7Fbc1fj4Gkpn3udTyjMvZMWuLop4WJ92BWgNOackwIWmMGVWrIN5/fB1ji74ndTzfYvAyYVLK7euwoeDlsplBOpAMpy9QhK/0l2KBxcy5MdEpoKdqcL530xoenNfO6FZLhvvKKWMawd76WTrPPCpGbQ3g96Tn1i2dMovN9VNDdKlIPyhVPn9Cj8U128V7skjU5sztzVM1HirAN9PTn5BM0BPd0bJ75pniXC8gR55XvqFKAccuEzyJUPjXHOHFQsJUphvq9XZWYcc2j6htpHxea0g==;Pphy2uKMt8HuE+seYYATpQ=="
 ---

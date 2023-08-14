@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-08-roadmap-ai-technologies-african-langua
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-roadmap-ai-technologies-african-languages.amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
       name: Global Voices Online
       domain: globalvoices.org
     quality: 37
-  - title: "African tech startups take aim at AI 'colonialism'"
-    excerpt: "In contrast, Lelapa AI - which Moiloa calls a \"socially grounded product and research lab\" - has developed a language processing tool for under-represented African languages to help companies translate,"
-    publishedDateTime: 2023-08-10T02:22:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/african-tech-startups-take-aim-at-ai-colonialism/102589562"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 19
 
 secured: "b5x9FqwOG4z0q3fzQIcx6mlMLUDP8eJad+MQrJqb1rQZNZ9eyJL+Gy7cTcd/j3gsSs/duR1l94BYFKj1BDmCLIDCYRoedy5IBL6nIaJVi0eebGQHW/mvMY2Cv7TiZM4CLX3be+k7pWbblQdmJxM+FBs7e4PCrxd8S6bmAqw0ykL3mbYLGP+ZOAXpkl/TJBm3QlZGr3A7B6KYvjNl0nQ6+d+wFJ+iwAVYWHM3WD5apkkH+NyIdBmO5+2nPaMIf399SgoLyApXp0329JL85kKDFa/p6Ef7/rtdqiDzAd9WTuZp/SnxrmnZOnOvtDLVHxvUEWhnemVJEHJz4yc2JpO+lSlmjUsB1bZWWtIOK/PLx6R8CIgppwXWKQMXmCEFb94YcVb9onfqxgBH7kog8i8bSbbu+7pc04vlCzmj6Gb7yeXVVj6M7y2WRn+13e9nZgP5FdAmxRSU9iTjLeGlknCmH8dkoBeGX5OcMIuZRSUU3SIbujZYR9rE3NHpJb24ATZQ19iB3guNP6VwBev1c/6tMQ==;IZeTREMhSWTCVt+bB91PKA=="
 ---

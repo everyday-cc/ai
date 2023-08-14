@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/08/230809164724.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/08/230809164724.htm"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Science Daily
@@ -24,20 +24,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Stem cell transplants may be a promising therapeutic against Alzheimer's, study shows"
-    excerpt: "In the ongoing search for a cure for Alzheimer's disease, a burgeoning branch of medicine is bringing new hope. Stem cell therapies are already being used to treat various cancers and disorders of the blood and immune system."
-    publishedDateTime: 2023-08-10T01:30:00Z
-    webUrl: "https://www.news-medical.net/news/20230809/Stem-cell-transplants-may-be-a-promising-therapeutic-against-Alzheimers-study-shows.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 32
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/6/Anatomical_structure_of_biological_animal_cell_with_organelles-eranicle_1d73b50575dc4546875a4a2fc7d429a6-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Reversing Alzheimer’s: Stem Cell Therapy Shows Promise"
     excerpt: "A study from UC San Diego indicates that transplants of hematopoietic stem cells can shield mice with Alzheimer's from memory decline, neuroinflammation, and accumulation of β-amyloid. In the continuous quest to find a cure for Alzheimer’s disease,"
     publishedDateTime: 2023-08-11T10:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/k-12/florida-high-schools-to-teach
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf?_amp=true"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     height: 438
     isCached: true
 
-secured: "OBbLp542kO+EAUvy2c9Tj/cejasr6fjY+SiudzLLGV4yAicOoDtZFpZZh9ljn9HjKrbJ+8xMnsGolTZlpbyocVjsFmGFaxydUYe9IsKqoikbVGvtAmG45qf/6Dp88gDm3/BoEP4Q6dTTU/xSR7JZ9+dz49So/9PVVkItjSl9QbDlXCGfJ9weMCqVjO2ZlAls0H0/dd6KL3Lj16v9ive+9xi4sLXU7buKJYvNGlT5a8W1Pl0X3FzLP4E6h7Pq6aATjPoY/FL/aOM8MqIN3sblxU54Rcx+PrCsERYyjYFYmvitdRF3ILQiiTW+u+GMz7LmEmcqLoysXJOjbh87uSIsMbliJsQAPT17fxLdosjUMUc=;RIC8fdbNyobk1V3pSBYhzQ=="
+related:
+  - title: "Artificial intelligence courses will be taught in some South Florida schools"
+    excerpt: "More South Florida students will soon have the option to enroll in coursework centered around artificial intelligence, which is part of a University of Florida AI education program that began last"
+    publishedDateTime: 2023-08-14T18:14:00Z
+    webUrl: "https://www.sun-sentinel.com/2023/08/14/artificial-intelligence-courses-will-be-taught-in-some-south-florida-schools/"
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 14
+
+secured: "ApXKisUkOh06szylZx1Qa3jsC75b+p/Lune7mqI3qPrCXgyLULC6nXlk+NFMEOGISGdyhp2x4hTqike2f97QrTw17zGJ2IjYrWRNDX+hR9R5TrFwHzkW9Np8yLvsg3+q6oERKoSQNUXlRnvBOGuGVu+nFhFU5a5RF43ByUR2uCrs+lg6iDN9/xYNrQPPKbKGPEzDlTavXSioJLSj2Mc6oqgZ5h17sGO8wpTHmKJcWw1ANYUl5gsmP7Zx7Sp1hK//0sFgZo5/mDh/eutZ/+hYigoIXyzG8psA5Sdl2JE+x8pcXUnN7IYGcb0sEA5GB4R8vVjO+IVpLKNYYuwBOuelYeqLCEs5jhcXRjzxGQA/Erw1geBTEp4CUeWDGcQHhChxF8CWstlxgaU98OKoAOHKSBgtHA38VzJrzUvJjvlGykiqQgPLnlO3caijw0ROOlNf9mj9cKDQk/smQNa5wFqKEnRB6S2HZyN9IdqMv5sWA+6INQGcMO7ooegNPmkhzC1aEAyy4/bPJY772V0kdgI0zQ==;0uEnJLUXY7SySAS8Hv3y7g=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/amazon-taps-ai-to-sum-up-user-product-r
 webUrl: "https://www.pcmag.com/news/amazon-taps-ai-to-sum-up-user-product-reviews-point-out-pros-and-cons"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon's Latest AI Tool Will Summarize Customer Reviews For You"
+    excerpt: "Amazon’s newest AI feature aims to make it easier to dig through customer reviews."
+    publishedDateTime: 2023-08-14T21:05:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/amazons-latest-ai-tool-will-summarize-customer-reviews-for-you/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/img/resize/f791e693e58fa0412325fd2d859ed5cff6e0c96d/hub/2022/11/10/ac1c56f1-2f1e-4c87-97c8-688fdc3345bd/amazon-logo-phone.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Untrustworthy AI is going to summarize untrustworthy Amazon reviews"
     excerpt: "Amazon has announced it is rolling out AI-generated review summaries that will give users a glance at customer sentiment."
     publishedDateTime: 2023-08-14T17:17:00Z
@@ -52,6 +66,6 @@ related:
       domain: tennessean.com
     quality: 11
 
-secured: "1vDK/735cf2k4rUvzbHcTh2lNOQHpzMHhxOxauM5XbAJr5iOUg+upDUT40rfXEuv8J2EL4fc0wpvoDEkjcAmU9L48iRzCuQsIo7TBFoDRJhgfPEiUaieBY73sAjEpYvSPph4QNhHZQDu+ukT7PVlEhrm4uC6S1cpIOu4IZNUVEB4fDlacYsAFxyam2lar5CE1x6voNvDztonqFU2PO1cTKKAfMo2OuwjT2VtkNtpOL0rQfvUg9cH95LydtKZJ5EUMj291vPYB1wSzOfwZJAvkCbPjEGuvBMGiS5OWcaSr4aec++8RjmNvX+mZAVq1BxAydcfLqFhyECxvIu8TOGPKwT4GF3JdA5UIUXnvzL2wvI=;SdEGPvepZyIHcDIHueMPPQ=="
+secured: "zN6E2aOj8JaKedHterm2XQ2hn06YJOoYcxCmoRAju02yc40uBcjwjhU0V79RRyKNrak0v7kS2pbjhU+KqRtupBhaQ4Z762dffJiDAnt7TspHzdYRAeiWUF+lcEjcxH+HUsah9X5cGKjfh3Ft8E3UzgEuIUhm2L7lus22nWJED62/FibOL9HKaTkywgB4TwcEIizUinwyasjlhlLqKPyn8RHydL0CywDJjm1LsWsC8b4nqo89M7OraellCiU6cLtCRf1fQr4Dk8uvTzg4+GyHl7JSoCW90Xn9COadVmJHNm4CD9xlJTqPf79NTiXAInJMrSVDnSur69HRXmzbNlmn2AOsfdHeeYsFj86S4QdPBq7OHT6pyvx6bOdu98VKjGFb6tr3xnFusy8dFo3RpfTM0BHwS9mVGfl+jiFCCD40ShJeERlJW8vbIcsSMa9wNCLBDRkyzRL8ofvNqzEHFgeNrxFsHRnaS0ga2C/2xwSSg6okK6qVPDbeveG7RAYT3ttGBwV/lFRs8fe+K2PrlTO+nw==;dmvP/xuNRuf8KLsXKdn6Wg=="
 ---
 

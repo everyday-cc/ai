@@ -66,15 +66,6 @@ related:
       name: Global Voices Online
       domain: globalvoices.org
     quality: 37
-  - title: "African tech startups take aim at AI 'colonialism'"
-    excerpt: "In contrast, Lelapa AI - which Moiloa calls a \"socially grounded product and research lab\" - has developed a language processing tool for under-represented African languages to help companies translate,"
-    publishedDateTime: 2023-08-10T02:22:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/african-tech-startups-take-aim-at-ai-colonialism/102589562"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 19
 
 secured: "WdJ2tKBTubFKN1ThOUMbx43FPUDQx1qJZqfZfychO6jNbsO6Zpj/oeOJm8KIHN9pKeifDDdyJumL89HDEmCglog2rzI9VVddOtkvfrsSQ4MhnuR4JHQH1ox9ezx1AIMj3iK+10G3fqW9nMa+tdTD/0r1zljGZbsSTGxLIWWF+W/klhkqe4rbdRGxGL+YCPY8Ri2aicHWEinTHTd/2NKU0vT0Mi2vO9bExpmL1JDVfEhuJinunQxX97MEeOdedULjBhuRfFgc+MCXJ+j5ISqdi+mZNPLYdIQ2QtSQLeDyNa5dyvXNPFpG5Tszn6qqaEZVXkrdhpxeuDAVoGtj09InHqn29VEXetPlm7hIL4iujXY=;UoqIRutW2Wm73jsAdRrArQ=="
 ---

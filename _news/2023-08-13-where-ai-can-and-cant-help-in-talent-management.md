@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Google Health expands AI-powered breast cancer screenings integration"
+    excerpt: "\"Combining Google's artificial intelligence (AI) technology with our leading-edge ProFound Breast Health Suite of AI solutions will enhance our technology and expand access to the technology to millions of women and providers worldwide,\" said Dana Brown, President and CEO of iCAD."
+    publishedDateTime: 2023-08-14T20:31:00Z
+    webUrl: "https://www.zdnet.com/article/google-health-expands-ai-powered-breast-cancer-screenings-integration/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-health-expands-ai-powered-breast-cancer-screenings-integration/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-health-expands-ai-powered-breast-cancer-screenings-integration/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/9bb9106210d711c47c2ceeeef370e7e6aa325de3/2023/08/14/c31425ef-3a59-44da-8cec-857e2714f96b/gettyimages-1187651665.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Breast-cancer screening gets a boost from AI"
     excerpt: "Radiologists using an artificial-intelligence (AI) assistant during breast-cancer screening had better chances of detecting cancer than those who did not 1."
     publishedDateTime: 2023-08-11T10:30:00Z

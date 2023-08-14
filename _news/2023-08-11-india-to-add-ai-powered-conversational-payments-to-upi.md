@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/newsarticle/42771/india-to-add-ai-powered
 webUrl: "https://www.finextra.com/newsarticle/42771/india-to-add-ai-powered-conversational-payments-to-upi"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Bhashini: An AI Platform To Bridge The Regional Language Gap In India"
-    excerpt: "Bhashini is India’s own NLTM, which was announced by Finance Minister Nirmala Sitharaman in Union Budget 2021-2022, , Bhashini, large language model (LLM), National Language Translation Mission (NLTM),"
-    publishedDateTime: 2023-08-10T01:46:00Z
-    webUrl: "https://www.businessworld.in/article/Bhashini-An-AI-Platform-To-Bridge-The-Regional-Language-Gap-In-India/10-08-2023-487226/"
+  - title: "RBI to enable UPI payments through AI conversations"
+    excerpt: "India has emerged as one of the fastest-growing ecosystems for fintech innovation and the government and the central bank have been instrumental in driving the globalization of India's digital payment infrastructure."
+    publishedDateTime: 2023-08-11T04:22:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/government-policy/rbi-to-enable-upi-payments-through-ai-conversations/102632925"
     type: article
     provider:
-      name: Businessworld
-      domain: businessworld.in
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 39
     images:
-      - url: "https://static.businessworld.in/article/article_extra_large_image/1691612850_Eca5YL_AI_language.jpg"
-        width: 870
-        height: 470
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102632925,imgsize-12158,width-1200,height=765,overlay-etcio/government-policy/rbi-to-enable-upi-payments-through-ai-conversations.jpg"
+        width: 1200
+        height: 765
         isCached: true
-  - title: "Next stop for Ola’s Bhavish Aggarwal: An AI and silicon chip company in India"
-    excerpt: "Ola’s Bhavish Aggarwal says his latest venture, as well as Ola Cell Technologies, are part of his larger vision to build technologies for the future, in India."
-    publishedDateTime: 2023-08-10T01:40:00Z
-    webUrl: "https://yourstory.com/2023/08/ola-bhavish-aggarwal-ai-silicon-chip-business"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 31
 
 secured: "tiBmzD9uVp6oGzOCPRXZoAB8l5fYYg64GwjA65iwN07N8gnCNdNpMBLUtrjQnCMchwUoicdWZLyI7YUYt0KJE8FEVDG0Aiz/gqQubRoNkMI1fO/7XUz+2lhLRjs2M8u8cXov7nEYUtR5fxbwrgfHivYV0afwOSDm+ktjn5UJrfTygby/9FMaWm2jyFgaTqSyd2AziF/d0OcQFWO1Zc9fk61HjYIWrb3RQIvtk1b0IanhlqL9EWi979nQngfuQIPjSWC7KYbdpzZS4jqL+FNgZtZOqk571WUVCG02rt4T1wDW7U0jlPLrBLr3AMYF853cW3OuRLG5nDamDT1GhkhP0Brok9Egl1A/ebluA2QG7lggXXJ09tO8jONyex+IHUDZlIb4d+4ymEUkIPha1HFOy2AhSawBEVw3EIc9AYPchzDnP4E9bK9Ab2k671U2xgP16FmdX4IyYlCjBUXAMDvrRFvOBzevkUC8UU7dztCoA8y4QyQ3pkV/55TuSzfHuxnz0WwMqCQFNCRIslPUubL6GQ==;HkbQUY4agFvJOLo68QBqMA=="
 ---

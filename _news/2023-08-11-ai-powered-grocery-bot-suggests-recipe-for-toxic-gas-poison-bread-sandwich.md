@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Supermarket AI meal planner app suggests recipe that would create chlorine gas"
-    excerpt: "Pak ‘n’ Save’s Savey Meal-bot cheerfully created unappealing recipes when customers experimented with non-grocery household items"
-    publishedDateTime: 2023-08-10T03:59:00Z
-    webUrl: "https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes"
-    ampWebUrl: "https://amp.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
-    images:
-      - url: "https://i.guim.co.uk/img/media/dee13c15d09cf0bb642071be5193aeb1d0c520e0/0_168_5120_3072/master/5120.jpg?width=620&quality=85&auto=format&fit=max&s=a9cdcfd2e2f3c530779f30cf568bb82a"
-        width: 620
-        height: 372
-        isCached: true
   - title: "AI Meal Planner Recommends Recipe for Chlorine Gas: Report"
     excerpt: "A supermarket’s artificial intelligence -powered meal planning app has recommended some odd dishes to customers, including one recipe which would create potentially lethal chlorine gas, according to a report."
     publishedDateTime: 2023-08-10T10:17:00Z

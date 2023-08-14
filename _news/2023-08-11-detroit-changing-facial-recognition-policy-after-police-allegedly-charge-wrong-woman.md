@@ -62,24 +62,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 19
-  - title: "Detroit police plan facial recognition policy changes after false arrest lawsuit"
-    excerpt: "The Detroit Police Department will be changing its policies surrounding the use of facial recognition technology in police lineups. The changes come on the heels of a lawsuit filed against the department."
-    publishedDateTime: 2023-08-10T03:11:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/detroit-police-plan-facial-recognition-policy-changes-after-false-arrest-lawsuit/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 14
-  - title: "Detroit Police Department seeks changes after suit over facial recognition-related arrest"
-    excerpt: "Chief James White said Porcha Woodruff's arrest 'emanated from, candidly and unfortunately, a poor investigation.'"
-    publishedDateTime: 2023-08-10T02:07:00Z
-    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2023/08/09/detroit-police-department-seeks-changes-after-suit-over-facial-recognition-related-arrest/70563426007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 10
 
 secured: "SIcSvyTrbcXisv+gZLasA07ZhcXLoKt286JI1YNIzOoL/20q13PRUj2DYJAW4RitBSwk1DNU9rLZ/MqqRmMDjBJO2zgnbdAsDKyEsJLiBYf1JPpfR7UhC4xavTOdZ3w7renBZhJN+IIgPW8xYdzSMCk39p70IaCYuDn8niH/Qgrpjn8+UGjZBsctP8/6YQAW1WLoZQnxk+guUWV+j09hjT327NpAjQsyT3jxIyytsTSfe5ozGDJBOObGPFZXceuw4Z8xMYjmi3c+xKCNsR2iMI4etOMU2J4JbiHxYyJkxMROMjtSeHucJTpXxNjp36TBgG0Bgvr5wBP85GTTd+oB05eQe5X/LF/YRJrukudLq8Q=;/kc1ljVcZVWkZC5lO1zmWQ=="
 ---
