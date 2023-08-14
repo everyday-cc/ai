@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/politics/federal/coalition-at-odds-with-itself
 webUrl: "https://www.afr.com/politics/federal/coalition-at-odds-with-itself-over-the-voice-20230813-p5dw2h"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "National Party at odds with Liberals on legislating Voice if referendum fails and Coalition secures election victory"
+    excerpt: "The Coalition has presented a split stance on how it would recoup from the consequences of an unsuccessful Voice to Parliament referendum if the LNP were to win the next election."
+    publishedDateTime: 2023-08-13T22:32:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/national-party-at-odds-with-liberals-on-legislating-voice-if-referendum-fails-and-coalition-secures-election-victory/news-story/da713f27ccb6f18e7f994f2831bba1e3"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/national-party-at-odds-with-liberals-on-legislating-voice-if-referendum-fails-and-coalition-secures-election-victory/news-story/da713f27ccb6f18e7f994f2831bba1e3?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/national-party-at-odds-with-liberals-on-legislating-voice-if-referendum-fails-and-coalition-secures-election-victory/news-story/da713f27ccb6f18e7f994f2831bba1e3?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 36
+    images:
+      - url: "https://content.api.news/v3/images/bin/dc59ef2bd08a5d57a33feaba5666178b"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Coalition’s position on the voice ‘clear as mud’ and ‘completely confused’, Burney says – as it happened"
+    excerpt: "Burney made the comments after the leader of the Nationals, David Littleproud, refused to commit to legislating an Indigenous voice if the Coalition wins the next election, even though Peter Dutton has proposed symbolic-only constitutional recognition ..."
+    publishedDateTime: 2023-08-13T18:01:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/aug/13/matildas-joy-womens-world-cup-2023-semi-final-voice-to-parliament-town-hall-city2surf-run-sydney?filterKeyEvents=true&page=with:block-64d836958f08e1f5a10e72c0"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 0
 
 secured: "USc25qZTbowZ/J+1PpzeQOe2M6iqQQiJAksiT/tCLUUdEpk15Dq8+1CU7ghyhhf8/CQ8zzKYRFn3jE/0CPEbe+IZSPIYQ8j+6n8OpqkNQgCFOJH4LU9H5bq1RfxyL+xKErfSewfHnYh73qsdxUqA3vUw83sF8adtEkaAGBEQHqd0LqiQFJsOlS1h2XLJjij/CaZqOJv+noy/WM3CAW9Nb1i91JP1MwUJsejNhDgybQXs+ykCiTEKJTs7kGTneNLmre184ETNe0bn0BlBIum+PUoTqLM9G4Yx4APgzNX6qJI3hzp2mGT23qjatSq3YajZwnnOGCyt7SkqawvrC4lstEuRFSTjFaCt0DIp2uASYN8QZkKptOvlMX5LSUK3uO4mkWDb0E1+YE68WI/YhrLknm8VbpbCbkM9WmJi+YRRUOPLWQDTzhstq52h44uoUCOZobKUr+qx/USkyOhu0oavix5A/w0gJ0lWJalcAy7YSVoTUhwKmdS6IXdd4EQby9ZCPNWoKZ8cQpvbumZkvkhTtg==;dr04wxxuP0kGMHapuagidg=="
 ---

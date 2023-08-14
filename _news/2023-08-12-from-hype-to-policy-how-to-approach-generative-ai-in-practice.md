@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carabrennanallamano/2023/08/11/from-hyp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carabrennanallamano/2023/08/11/from-hype-to-policy-how-to-approach-generative-ai-in-practice/amp/"
 type: article
 quality: 89
-heat: 94
+heat: 93
 published: true
 
 provider:

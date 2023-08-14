@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/clarivate-launches-enhanced-
 webUrl: "https://www.datanami.com/this-just-in/clarivate-launches-enhanced-search-powered-by-generative-artificial-intelligence/"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Clarivate Launches Enhanced Search Powered by Generative Artificial Intelligence"
-    excerpt: "Latest iteration of patent pending platform enables life sciences and pharmaceutical companies to access insights from billions of proprietary data points LONDON, /CNW/ -- Clarivate Plc (NYSE:CLVT), a"
-    publishedDateTime: 2023-08-09T07:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33654108/clarivate-launches-enhanced-search-powered-by-generative-artificial-intelligence"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33654108"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33654108"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Clarivate Plc: Clarivate Launches Enhanced Search Powered by Generative Artificial Intelligence"
     excerpt: "Latest iteration of patent pending platform enables life sciences and pharmaceutical companies to access insights from billions of proprietary data points LONDON, Aug. 9, 2023 /PRNewswire/"
     publishedDateTime: 2023-08-09T07:18:00Z

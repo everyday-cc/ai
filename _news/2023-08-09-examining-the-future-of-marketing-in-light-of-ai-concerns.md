@@ -103,15 +103,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Finance workers fear they’re bringing about their own jobs demise by embracing AI"
-    excerpt: "Three of the nation’s largest unions representing parts of the tech industry in the banking sector say their members fear that embracing AI is “facilitating the demise of their own jobs”."
-    publishedDateTime: 2023-08-09T05:18:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/finance-workers-fear-theyre-bringing-about-their-own-jobs-demise-by-embracing-ai/news-story/544ee48602931ae24d70e024ada2ecd9"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 29
   - title: "AI dating apps promise less ghosting, more matches"
     excerpt: "The hardest part of dating, according to Daniel Liss, is the small talk. A digital entrepreneur whose previous ventures include the photo sharing site Dispo, Liss launched Teaser AI in June, marketing it as the app that leads to “less ghosting, more matches.”"
     publishedDateTime: 2023-08-10T03:19:00Z

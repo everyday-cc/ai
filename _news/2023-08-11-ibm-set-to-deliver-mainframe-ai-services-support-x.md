@@ -9,8 +9,8 @@ ampWebUrl: "https://www.networkworld.com/article/3704491/ibm-set-to-deliver-main
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support-x.amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Network World
@@ -42,6 +42,20 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/24/09/thinkstockphotos-520137237-100610459-large-100922664-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 1031
+        isCached: true
+  - title: "IBM set to deliver mainframe AI services, support x"
+    excerpt: "Set for delivery on Sept. 29, z/OS 3.1, the operating system grows IBM’s AI portfolio to let customers securely deploy AI applications co-located with z/OS applications and data, as well as a variety of new features such as container extensions for Red Hat and Linux applications that better support hybrid cloud applications on the Big Iron."
+    publishedDateTime: 2023-08-13T23:33:00Z
+    webUrl: "https://www.arnnet.com.au/article/708337/ibm-set-deliver-mainframe-ai-services-support-x/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_ibm.jpg"
+        width: 504
+        height: 315
         isCached: true
 
 secured: "4MQPRDFsLP51QmsKydCh7JuHXdsyjZojA9OQHov/Ls1yHzkz0HhEmHqbugQvm9Ny9CgJkv5xqdDfsRudO/MqVGGr3r1mM/uDE6TR1NwGKUPnBBn23osnBnOhBJzOV58rnZa4O/H4QUl+qh/RDfZioxSxqWzExmXE0/h/0ywzdGDil2HPKZnGD1uDfd8i7F33lcsZJ6vgKco95/bSBcDNsFau2tAv0oysQAWR+guP6w2juP7LdPgq9Td7A4iFeqwGmG73qf12VJq9faP6WZrlkeq+jpqAhU4Y/jcVO95+zFlQBiQ1rt0bZiIc/B4VSnzb4FW+tFwXYVOeqr56Z3W2aEKz034l2bs0sjA4yAKSx5tfmlkNvPk1bG3ltrNdm3ybYEcdnJKPlS20GbbxOBWpaLT2Rvl2D/6NCPlpg95O4uyVsrQpdDSOxXI1GnnLmZPt5BJj1aZVkqUZCDVBFcaW4mSOnNmBuonruJ6BrO5io1vA5bimGazsRcsyPtNSX7b0+fP4cW4V5RfkyXyF3J/1IQ==;MEHg8EwfIfJIxqH7gXF0Rg=="

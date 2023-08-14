@@ -108,15 +108,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Finance workers fear they’re bringing about their own jobs demise by embracing AI"
-    excerpt: "Three of the nation’s largest unions representing parts of the tech industry in the banking sector say their members fear that embracing AI is “facilitating the demise of their own jobs”."
-    publishedDateTime: 2023-08-09T05:18:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/finance-workers-fear-theyre-bringing-about-their-own-jobs-demise-by-embracing-ai/news-story/544ee48602931ae24d70e024ada2ecd9"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 29
 
 secured: "qwI+l/L6+WmEl13vw/Dg8BB5ElU9BT6S+7E7L5mKmXHAS32kxXKdn/5gKmu6L3AhrcDB8Tzvh0pPe/2Jh7NgWqGUGL6KKIFkPvBHi9bMcjHJhNniZjuHahI1rih1+EKJKumxF8AWwiS+r3AVTE6BEjn9Rjubv2nizbkd1V2569nKbCQEuiIlbeETsemJpacdDIo0tXtCGuOrxi+vJ3KgGn/shjoXl/urCwYrmU4GHciilIZR5V8416VArBHF8MbuXHs39gqeAPgea23RF1YbXwYem7uc8a8TESGnXS/+HL8fFeVHj6i090IHwB5e35BR93K8mdnong/Bz9mKxS1g5J485WjPJ2f0Z1CTH9SYUPc=;IGBx0xTWWwExILST4PLq4w=="
 ---

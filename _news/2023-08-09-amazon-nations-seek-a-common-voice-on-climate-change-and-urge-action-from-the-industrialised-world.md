@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/headlines/2552681-amazon-nation
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2552681-amazon-nations-seek-a-common-voice-on-climate-change-and-urge-action-from-the-industrialised-world?amp"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon nations seek common voice on climate change, urge action from industrialised world"
-    excerpt: "Read more about Amazon nations seek common voice on climate change, urge action from industrialised world on Devdiscourse"
-    publishedDateTime: 2023-08-09T05:54:00Z
-    webUrl: "https://www.devdiscourse.com/article/headlines/2552122-amazon-nations-seek-common-voice-on-climate-change-urge-action-from-industrialised-world"
-    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2552122-amazon-nations-seek-common-voice-on-climate-change-urge-action-from-industrialised-world?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2552122-amazon-nations-seek-common-voice-on-climate-change-urge-action-from-industrialised-world?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 35
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_05_2023_12_33_28_6896278.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Amazon nations seek common voice on climate change, urge action from industrialized world"
     excerpt: "Eight Amazon nations called on industrialized countries to do more to help preserve the world's largest rainforest as they met at a major summit in Brazil to chart a common course on how to combat climate change."
     publishedDateTime: 2023-08-09T11:09:00Z

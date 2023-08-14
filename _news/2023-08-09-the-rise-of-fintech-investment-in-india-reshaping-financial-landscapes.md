@@ -49,20 +49,6 @@ related:
         width: 1354
         height: 1206
         isCached: true
-  - title: "Lytus enters FinTech sector in India through the launch of a new payment gateway"
-    excerpt: "Nasdaq-listed Lytus Technologies Holdings PTV. Ltd. (the “Company”) (NASDAQ: LYT), a leading global technology-driven services company, has announced the launch of"
-    publishedDateTime: 2023-08-09T05:40:00Z
-    webUrl: "https://www.thehansindia.com/business/lytus-enters-fintech-sector-in-india-through-the-launch-of-a-new-payment-gateway-814452"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 19
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/08/09/1371187-lytus.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Invest Inc. Announces Reg A+ Offering: A New Era in Fintech Begins"
     excerpt: "The future of fintech has a new face, and its name is Invest Inc. With great enthusiasm, we are proud to announce our Reg A+ offering, a transformativ"
     publishedDateTime: 2023-08-09T21:39:00Z

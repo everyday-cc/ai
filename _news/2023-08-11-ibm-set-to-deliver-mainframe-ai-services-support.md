@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 1031
         isCached: true
+  - title: "IBM set to deliver mainframe AI services, support x"
+    excerpt: "Set for delivery on Sept. 29, z/OS 3.1, the operating system grows IBM’s AI portfolio to let customers securely deploy AI applications co-located with z/OS applications and data, as well as a variety of new features such as container extensions for Red Hat and Linux applications that better support hybrid cloud applications on the Big Iron."
+    publishedDateTime: 2023-08-13T23:33:00Z
+    webUrl: "https://www.arnnet.com.au/article/708337/ibm-set-deliver-mainframe-ai-services-support-x/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_ibm.jpg"
+        width: 504
+        height: 315
+        isCached: true
 
 secured: "Zg/CFqR2OJH3Y686cPeVZ+BV1nOExP3asCo62hX+HCMRoUJIJ1nZEV4Z9Ye+x7ijtTxyXivwxyexBZxCBgfsESrIAb/D3J4uVdLbuJfwJiaEoRlduis67ma9NykbyfbQDojMLRsFsAb00QoHcRS+Mke8Sb+g9F8DbjjOaEy9hzR1O1SoNucLpdMXc/CV1BxlEXp5YcVt15LjQcV1tRipZ/oGMOCotP4AA5O8QZrhL8t9nyq07dtUcCP3ZWROjRTkjzqavoBWaFHEnLVlaUl5kkCkYLv5ubf3Io0rx7fGpipy3e8mMGWmptnCYJpBGjevipLBKuGArSlyKixiL8V5tVDFwIQlK2dJviR+jfz4ZFuU0Vx6vAcxbG1ZW/bw9J1VGjtgwwprviCaBlNwN4ICXMWdKCAg3Qh+Bo/5vjl3Wd1JZdgEaVoW6qlQV4WJYVxbr12bIpI3BASgB9DqoWV4EnqtamX7kotWTDVp6L2h3fMVbAbC4s3iZBhdFpaOezHfBMcNfCDXiV6lbtTF5+6L8g==;tmePNq2R4KJHBEaHvP655g=="
 ---

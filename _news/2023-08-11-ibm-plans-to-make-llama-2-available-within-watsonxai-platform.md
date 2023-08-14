@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/"
 webUrl: "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/"
 type: article
 quality: 88
-heat: 179
+heat: 180
 published: true
 
 provider:

@@ -27,6 +27,24 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "deepset Secures $30M from Balderton Capital to Help Firms Leverage Large Language Models (LLMs)"
+    excerpt: "deepset.ai – the enterprise platform for building applications with LLMs – has raised $30 million in funding led by Balderton Capital. The investment round also included participation from existing investors GV (Google Ventures), and Harpoon Ventures."
+    publishedDateTime: 2023-08-13T22:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211409-deepset-secures-30m-from-balderton-capital-to-help-firms-leverage-large-language-models-llms/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/08/211409-deepset-secures-30m-from-balderton-capital-to-help-firms-leverage-large-language-models-llms/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/08/211409-deepset-secures-30m-from-balderton-capital-to-help-firms-leverage-large-language-models-llms/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 32
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/06/Benjamin-Money-Dollars-100.jpg"
+        width: 1164
+        height: 1280
+        isCached: true
+
 secured: "L0/tJBQ2w7vnNzxKL92SE/Fckyz0QYjpEil6Sf3g4vZxwC+epktLTb6yhieYG2r/K+KCXQURnLOSbSoJYvfiDpNZenLzl3cIEuGcyc6YKxHBVOWDAQyMoLddeIYq5B79FhR7mv+TTR0n3KB3ozAKdevOdWt8RXLGywh8MCaG+5/Vuxg5CHmWEOzUhZLP88aqpoFfgY+y6UaDGj+v2LAD1QuEDVYCn5JxBnoMAPaDql9WDX0oqXYmqQ0vKE39b//VPQviQJmzV62A8RhLnOQxlA8xTL761N5wdwdslOlDJ3k2TSsSfqViPltTZAnYMisqR8k/efZCUXydsTTLpkTwB3nlXjnt0yQBHBSjljwlmoliXHUXx0mFmMyEx6zpeHGnqx1oR3drnFzhmixLG2TdYYsleM2ArWDz8PVABmmMldz4avuV1uoe0MJy+PnWB+8qwdG3lOQO4NQyqT2biz/uO4j8h/PlCqaF+2SXOyjxUIstA13HZkS6zyVKEL/fQenJNFWUGk/t6qtPAcnqNaJ9Xg==;iy2wjtJWwtBGISAfSNX9zA=="
 ---
 

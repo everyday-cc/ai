@@ -1,32 +1,22 @@
 ---
 category: news
 title: "DeepMind could give developers a lift with AI coding tool"
-excerpt: "Google DeepMind may be adding to the company's AI-coding patent portfolio.  Google's AI division filed a patent application for a"
-publishedDateTime: 2023-08-10T16:00:00Z
-originalUrl: "https://www.fool.com/investing/2023/08/10/deepmind-could-give-developers-a-lift-with-ai-codi/"
-webUrl: "https://www.fool.com/investing/2023/08/10/deepmind-could-give-developers-a-lift-with-ai-codi/"
+excerpt: "It's completely free and we guarantee you'll learn something new every day. Google DeepMind may be adding to the company's AI-coding patent portfolio. Google's AI division filed a patent ..."
+publishedDateTime: 2023-08-10T16:56:00Z
+originalUrl: "https://www.nasdaq.com/articles/deepmind-could-give-developers-a-lift-with-ai-coding-tool"
+webUrl: "https://www.nasdaq.com/articles/deepmind-could-give-developers-a-lift-with-ai-coding-tool"
 type: article
-quality: 84
-heat: 94
+quality: 64
+heat: 74
 published: true
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Google AI
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/editorial/images/743695/featured-daily-upside-image.png"
-    width: 3000
-    height: 2000
-    isCached: true
 
 related:
   - title: "Google DeepMind Alumni Shine As Startup Founders"
@@ -39,6 +29,6 @@ related:
       domain: analyticsindiamag.com
     quality: 19
 
-secured: "CS68NPtz1hwOzyiH1QPHfaiaYfRHgJ54vjv1D5e+7+MQ8offBRd3GFq9Nir18AC1wYthfRv1T51wvUTVKbBUhf1kT5ZIAQgGjswFffQoEO3dXFZeMS+C1Rc1y3SoBWry91xZEc9TmrdApqzBdDkJZfhD2dg1MqANR/AjRzUTvaoaVzL6q/fm6e3YID3HGjiGAPEm/iKR/XHbvXozlor82u9A4hiT9C7DidTBiTi8Ajxed3xouuVCrTldRYfXK99FcCiVkaYHtKu9z52S4eard76+qBXubEnbpAgH/IRUNhMudCIxxMaGzud5J34aEY12jsEnyK4FAgU4agFgpoS1Tpy1YYGwrFMA6EAIZRCJK1o=;/D50q3jpZ+WD9fhKjy+hmA=="
+secured: "YU1t/0G14avwFR9JZQd0+I5azmkOhztOnhXbrMt6zOvDRkHi6W9GPjmneUpjZ0VS4X4ZS8MCCOCVTys/3tHCnkOBV1bCnkRLRjbBeJGOiuFRdP5Ka6Fk6AyrT1nzCcgtwbvRy9zVLp+GhJOI6uCrC8m1cssK+fwIR6mj7lZMfUD6j0lSqdwTw6uUqMrhlfYfZu/EkQtjn2+AkFPWSmqLMAg6u/k8d6ZDeu7T/3eI2jkD6hpm0TzRvyV3LFeza7pfeeOoM+zh0SAPJ3TmBB7bY4mlHULoFEK+Iztb3WJEtcdoaafDAhm1+VBp2FSbxlxK62j6Z4km9xDZhlUT5uw+ekqqra2o0P+Mb+A0tfJy2sA=;V/RoXy7pV7psnWyZ7iMemg=="
 ---
 

@@ -120,6 +120,20 @@ related:
         width: 1472
         height: 1024
         isCached: true
+  - title: "Self-driving cars block roads in San Francisco"
+    excerpt: "A busy bar and restaurant area in San Francisco was brought to a standstill by malfunctioning self-driving taxis only a day after state regulators had approved"
+    publishedDateTime: 2023-08-13T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/self-driving-cars-block-roads-in-san-francisco-5bzgtpptd"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F0942f298-3a09-11ee-81cd-1bf34cc855cb.jpg?crop=2902%2C1633%2C0%2C151&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tourists in fast lane with driverless transport"
     excerpt: "Driverless vehicles have become tourist attractions in the city, providing smart and convenient rides to tourists. Autonomous vehicles carrying people around Shanghai Haichang Ocean Park in the Pudong New Area started trial runs on Friday. Autonomous vending vehicles have been put into use on a trial basis at the same time."
     publishedDateTime: 2023-08-12T02:57:00Z

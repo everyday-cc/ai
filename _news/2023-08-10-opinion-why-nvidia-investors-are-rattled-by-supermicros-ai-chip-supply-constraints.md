@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/why-nvidia-investors-are-rattl
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581"
 type: article
 quality: 97
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       name: redsharknews.com
       domain: redsharknews.com
     quality: 54
-  - title: "Nvidia Unveils Upgraded AI Chips To Enhance Generative AI Applications"
-    excerpt: "The company introduced a new configuration for its Grace Hopper Superchip, aiming to boost the capabilities of generative AI applications, , nvidia, Grace Hopper Superchip, Generative AI"
-    publishedDateTime: 2023-08-09T05:24:00Z
-    webUrl: "https://www.businessworld.in/article/Nvidia-Unveils-Upgraded-AI-Chips-To-Enhance-Generative-AI-Applications/09-08-2023-487115/"
-    type: article
-    provider:
-      name: Businessworld
-      domain: businessworld.in
-    quality: 54
-    images:
-      - url: "https://static.businessworld.in/article/article_extra_large_image/1688016391_iJbIWj_nvidia.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "TlUqQgz5DkH3F3Z+yTtaWd+3vNQTjUl5oD1ghpkUpbPHo/XflBMAi9zFQPjFMYOwSKGELLZHiqr4FCYXMXNlXOTenSNumGcJogaafENBlboqK9gCdy6L0Y0j6grsc9GRCQaV6esfT7N9o8l75qp0TQOHc73lwrCc6NCPLGJjQJcK3j0PM7qCkFWBPto/WnXaVlkJtkNZAthUeC+b3WBa3PegLlH907K3s2cDdAz1XS53rnXV4JMzto0VXWmhaqVYiRofsJSemhiXabW+2Crrql3vNLucLAWBh1BzIIk0qt102XOPv1VhDIheIov3aGUJlAUDuQscMS3hEVIrPsJm8UIqjgrk9F0WX+bg1lvFDkA=;ojR9Dn0iCZnazxlCwZg/IQ=="
 ---

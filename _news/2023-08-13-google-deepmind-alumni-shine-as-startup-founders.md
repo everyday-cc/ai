@@ -20,19 +20,14 @@ topics:
 
 related:
   - title: "DeepMind could give developers a lift with AI coding tool"
-    excerpt: "Google DeepMind may be adding to the company's AI-coding patent portfolio.  Google's AI division filed a patent application for a"
-    publishedDateTime: 2023-08-10T16:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/10/deepmind-could-give-developers-a-lift-with-ai-codi/"
+    excerpt: "It's completely free and we guarantee you'll learn something new every day. Google DeepMind may be adding to the company's AI-coding patent portfolio. Google's AI division filed a patent ..."
+    publishedDateTime: 2023-08-10T16:56:00Z
+    webUrl: "https://www.nasdaq.com/articles/deepmind-could-give-developers-a-lift-with-ai-coding-tool"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/743695/featured-daily-upside-image.png"
-        width: 3000
-        height: 2000
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
 
 secured: "A127P/Q8c4Yy5gGssSwx/PFux8+zIwUkYVvZn2WlkoeTB+SpyBqURf33WJ1o36P5JnlX221g5lFU7KHqv9jpqPTEG6cMxbR+dez1aKJKqWv9a9/CBe2wsjVtmQpRW5AHRYL9y/kkcA3YSwDXy6eBOiw5NAvGFnCv2G09Aba+UxVKTzJscH9gkgLzmq2o2rCsIXh8R5rm4+04ImtiyNfK/miYSyWr2GHQYdRhxQRPXbcPoWWfP7T+Kp1YqvAGNPZM1Vgy4ND4V3N9BVnSpUlg+yNg2VVZKpOC8fzV15oyiWbk45jSPam72gDjUNcIKXJ5K3JL1FzBsgEkUglg3Jql18kAUv3MfiDWCyVR4EGtcvXQR5cor1MprLIfcBG2I6YCDBFUAQ7ktG0IM4/o57I0Xk02XoIAZ8FtCjZYqXS2HuvyqyTAd5dHfFvNkQfrj+LPCGbR2vfBlsnmx9zg6vG4Ex7iZA/t/+4XKLiZhtW2pfaJcCdvr7478XbHWl2upaTzCqYgcggIGVSuTPTN7ZRzOw==;jSEExpDYuTber4+s+IB9vw=="
 ---

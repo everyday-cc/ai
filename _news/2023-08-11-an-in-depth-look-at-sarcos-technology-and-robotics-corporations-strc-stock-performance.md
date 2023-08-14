@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GE HealthCare Technologies Inc. (GEHC) Stock: A Look at the Monthly Trend"
-    excerpt: "GEHC stock has gone down by -4.84%, with a monthly decline of -8.34% and a quarterly plunge of -6.91%. The volatility ratio for the week is 1.89%, and the volatility levels for the last 30 days are 2."
-    publishedDateTime: 2023-08-09T05:20:00Z
-    webUrl: "https://newsheater.com/2023/08/09/ge-healthcare-technologies-inc-gehc-stock-a-look-at-the-monthly-trend/"
-    type: article
-    provider:
-      name: newsheater
-      domain: newsheater.com
-    quality: 38
-    images:
-      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-31.png"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Tenet Healthcare Corporation’s (THC) Stock: A Long-Term Performance Analysis"
     excerpt: "The stock of Tenet Healthcare Corporation (THC) has gone down by -4.68% for the week, with a -11.67% drop in the past month and a 5.01% rise in the past quarter. The volatility ratio for the week is 2."
     publishedDateTime: 2023-08-09T10:43:00Z
