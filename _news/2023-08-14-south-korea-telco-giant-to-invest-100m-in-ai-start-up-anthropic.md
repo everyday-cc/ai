@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI startup Anthropic raises $100M from Korean telco giant SK Telecom"
+    excerpt: "Most recently, the Google-backed generative AI startup has released its updated version, Claude Instant 1.2, which incorporates the strengths of Claude 2, its second-generation AI chatbot. Claude’s use cases for the telco industry will include ..."
+    publishedDateTime: 2023-08-14T07:54:00Z
+    webUrl: "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/"
+    ampWebUrl: "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/04/Anthropic_logo_art.png?w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "SK Telecom invests $100. mil in US AI startup Anthropic"
     excerpt: "SK Telecom will invest $100 million in U.S.-based generative AI startup company Anthropic in a bid to improve its competence in the emerging technology and further develop various language-based AI services for global markets,"
     publishedDateTime: 2023-08-13T07:40:00Z
@@ -49,21 +65,7 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "Anthropic cracks open the black box to see how AI comes up with the stuff it says"
-    excerpt: "A recently published research paper from scientists at Anthropic demonstrates a method for determining how much “influence” individual instances of training data have on the generation of outputs by large language models."
-    publishedDateTime: 2023-08-10T21:00:00Z
-    webUrl: "https://cointelegraph.com/news/anthropic-cracks-open-the-black-box-to-see-how-ai-comes-up-with-the-stuff-it-says"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMjZlMDcyMzEtYjQ2YS00OWE2LTg5ZjYtMmI0NmM2ODlhMTc0LmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "llTEWoXQu7KKxLsXd5wlmXVGhT4LjQI2dT6xVZ1niGsDw087NpCJNVLsgy8LwAHCXaLZwtTenszIIicZ1i6Zqqv7l0talSA9oeIOPrluM9XEHYMtSvynqklil+ERg1ks3qv2Hhwxi32Pk1kpKa5Du+3+rux2Rz1+Wf4onLsJALqgza1vwO1NqftzxAm3nJ6DvqkXmfYZZ3aPGnYMiDYoH4teCqOYgU11ym6jReBrYORnLjJ7q2ZsjKdbRygCLsmBGp8vnUaS3EtIDGCQebPYocUyzXIxby+fmp+YrM8R004jblw+9snJkXFlURec+zwxTE10vmK0TxnhLKlLjWgsoO2f01SCKg0SKeGkozHFGuI=;h9f/ENBqjO5uCUwW0xm26A=="
+secured: "bpZFsTnO2YG5tlIBYwYjzlIsGvibz4dqQsDc7On8rl5itIRkvOSCXgkDZDiJuty4nXFZJcpLDnGga2erxkfdzejGfHJ7cabKpIJ4IYrPe1rbwuPxFW9i068zExeRykfXSLckDJBlh2CMLgy41OJw0y/NYoBqlW5B6Q1wJP102DE2efNIdrPvqobotbFLB71VhGWcWhP/yvdnhkhnNC8X7tAxVMFf8VlYGv+NLbAiodPMwHix/hRqvY/ENW0TFcGVia5HLGy/nXeLHrbTgkk8XkqSmw5FYlA0vFwb9pcM94Z6baoWL0Nt4UaUwcMd6OXt0vBWKFTmXt+9GqmeI0QSCfToGThvDYLuVPcmB89fsCvIJW0JnuyufTYZj6WUknpUlcvPJ6oR7J6bHZyFwkGVwWTLr4VRjq+VXC1Boi9wD29i14O0L8nqka+nVJSt8iaLcYNoTsbs//Rk9geypcrimY/9pArJYvzHGH+3nM0CZ2BFbZKvPWaeIaL5zVh6R/09TStL+bSxN0jlQ0xw5JGLSQ==;BhZq9zdcT0icFpj2HnoNLg=="
 ---
 

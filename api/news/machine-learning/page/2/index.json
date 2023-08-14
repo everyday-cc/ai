@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-01-machine-learning-blockchain-could-combat-the-spread-of-fake-news-new-study-says.md",
+      "title": "Machine Learning, Blockchain Could Combat the Spread of Fake News, New Study Says",
+      "excerpt": "Researchers proposed solutions to combat the spread of fake news using a combination of machine learning and blockchain technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm",
+      "originalUrl": "https://www.techtimes.com/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/432894/machine-learning-blockchain-could-combat-the-spread-of-fake-news-new-study-says.jpg",
+          "width": 1500,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm",
+      "publishedDateTime": "2023-08-01T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-why-is-the-machine-learning-chips-market-expected-to-grow-by-usd-2227652-million.md",
       "title": "Why is the Machine Learning Chips Market Expected to Grow by USD 22,276.52 Million?",
       "excerpt": "In a recent report by Technavio, the machine learning chips market is projected to experience remarkable growth, expanding by USD 22,276.52 million from 2022 to 2027, with a compound annual growth rate (CAGR) of 30.",
@@ -360,6 +403,41 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-30-cnn-business-money-machine-learning-financial-risk-management.md",
+      "title": "Cnn Business Money ️️ Machine Learning Financial Risk Management",
+      "excerpt": "Dr. Senge's \"Fifth Practice\" methods, such as self-transcendence, improvement of mental model, establishment of common vision, team learning and systematic thinking, will surely reduce detours.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/slot.aspx?how-to-invest-for-a-child-1d0s33",
+      "originalUrl": "https://menafn.com/slot.aspx?how-to-invest-for-a-child-1d0s33",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-30T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1234,101 +1312,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/amp/",
       "publishedDateTime": "2023-07-19T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-automated-machine-learning-automl-market-will-reach-usd-154993-million-by-2030-says-ps-intelligence.md",
-      "title": "Automated Machine Learning (AutoML) Market Will Reach USD 15,499.3 Million by 2030, Says P&S Intelligence",
-      "excerpt": "By analyzing browsing history, clickstream data, demographics, prior purchases, and previous product searches for patterns in the consumer behavior, autoML systems may provide customized products ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33286554/automated-machine-learning-automl-market-will-reach-usd-15-499-3-million-by-2030-says-p-s-intellig",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33286554/automated-machine-learning-automl-market-will-reach-usd-15-499-3-million-by-2030-says-p-s-intellig",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33286554",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33286554",
-      "publishedDateTime": "2023-07-19T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-artificial-intelligence-continues-to-revolutionize-cybersecurity.md",
-      "title": "Artificial Intelligence Continues To Revolutionize Cybersecurity",
-      "excerpt": "For many years, artificial intelligence (AI ... By leveraging these generative models—and the deep neural networks powering them—analysts and engineers are already developing powerful new tools to automate tasks, enhance efficiency and augment human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b68f7fe71fea93525f1dc1/0x0.jpg?format=jpg&crop=6305,3545,x795,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/",
-      "publishedDateTime": "2023-07-19T04:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

@@ -29,91 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Generate creative advertising using generative AI deployed on Amazon SageMaker"
-    excerpt: "Creative advertising has the potential to be revolutionized by generative AI (GenAI). You can now create a wide variation of novel images, such as product shots, by retraining a GenAI model and providing a few inputs into the model, such as textual prompts (sentences describing the scene and objects"
-    publishedDateTime: 2023-08-09T15:51:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/23/ml14623-pic1.png"
-        width: 625
-        height: 270
-        isCached: true
-  - title: "Zero-shot text classification with Amazon SageMaker JumpStart"
-    excerpt: "Natural language processing (NLP) is the field in machine learning (ML) concerned with giving computers the ability to understand text and spoken words in the same way as human beings can. Recently, state-of-the-art architectures like the transformer architecture are used to achieve near-human performance"
-    publishedDateTime: 2023-08-11T14:56:51Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/zero-shot-text-classification-with-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/31/ML-13226-Picture6-1219x630.png"
-        width: 1219
-        height: 630
-        isCached: true
-  - title: "Generative AI Is Not A Tool; It's An Employee"
-    excerpt: "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team."
-    publishedDateTime: 2023-08-11T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
+  - title: "3 Areas Customers See The Most Potential For Generative AI"
+    excerpt: "In just a short period, we’re likely to see massive changes in how customers find products, engage with companies, and experience brands."
+    publishedDateTime: 2023-08-09T17:51:00Z
+    webUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d541f1b585aa1bcfb1ea3f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c90fd5ea55d543dd49763d/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 608
+        height: 675
         isCached: true
-  - title: "Is Generative AI Destroying The Internet?"
-    excerpt: "Explore the astonishing capabilities of generative AI as it blurs the lines between reality and digital deception, and discover the urgent race to safeguard the truth."
-    publishedDateTime: 2023-08-14T06:21:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
+  - title: "The threatening potential of AI and child abuse"
+    excerpt: "The U.K.'s National Crime Agency warned that the proliferation of AI-generated explicit images of children is \"normalizing\" pedophilia and disturbing behavior against kids."
+    publishedDateTime: 2023-08-11T05:59:00Z
+    webUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse"
+    ampWebUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Fox News
+      domain: foxnews.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d9c7c62d69c2f7f6635ebe/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 787
-        isCached: true
-  - title: "Build a centralized monitoring and reporting solution for Amazon SageMaker using Amazon CloudWatch"
-    excerpt: "In this post, we present a cross-account observability dashboard that provides a centralized view for monitoring SageMaker user activities and resources across multiple accounts. It allows the end-users and cloud management team to efficiently monitor what ML workloads are running, view the status of"
-    publishedDateTime: 2023-08-10T14:48:27Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-centralized-monitoring-and-reporting-solution-for-amazon-sagemaker-using-amazon-cloudwatch/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 75
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/28/ML-13521-dashboard-1260x578.png"
-        width: 1260
-        height: 578
-        isCached: true
-  - title: "Gboard could soon let you use generative AI for proofreading and emojis"
-    excerpt: "The latest Gboard beta uses generative AI for features such as proofreading, creating emoji stickers, and tone suggestions. Read on for more!"
-    publishedDateTime: 2023-08-10T14:13:00Z
-    webUrl: "https://www.androidauthority.com/gboard-beta-generative-ai-proofreading-emojis-3354114/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/07/Gboard-on-Nothing-Phone-2-1200w-675h.png"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb0de59a-4578-48df-a0f2-52d127244c2e/438c3371-1ec1-405e-9325-a09ec771d10d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
         isCached: true
@@ -149,38 +93,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 51
-  - title: "ABB and Microsoft collaborate to bring generative AI to industrial applications"
-    excerpt: "Expanding on their long-standing partnership, ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability™ Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
-    publishedDateTime: 2023-08-14T06:32:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/abb-and-microsoft-collaborate-to-bring-generative-ai-to-industrial-applications-2023-08-14"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 50
-    images:
-      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001080035_resized_abbenablescustomerstorealizethebenefitsofdigitalizationthroughsixindustryvaluepillars1022.jpg"
-        width: 1022
-        height: 575
-        isCached: true
-  - title: "How to use AI to create a logo for free"
-    excerpt: "Generative AI is perfect for producing code, writing letters, and creating images. But how does it fare generating logos?"
-    publishedDateTime: 2023-08-10T18:44:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-use-ai-to-create-a-logo-for-free/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
-  - title: "With Generative AI, Businesses Should Listen More And Generate Less"
-    excerpt: "The implementation of large-scale language analytics promises transformative impacts across various sectors, boosting efficiency and providing insightful analysis."
-    publishedDateTime: 2023-08-11T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/with-generative-ai-businesses-should-listen-more-and-generate-lessamit-ben/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Why Reinforcement Learning Will Save Generative AI"
     excerpt: "In this contributed article, Kim Stagg, VP of Product for Appen, knows the only way to achieve functional AI models is to use high-quality data in every stage of deployment. As businesses look for pathways to adoption,"
     publishedDateTime: 2023-08-12T17:34:00Z
@@ -195,52 +107,29 @@ related:
         width: 1100
         height: 550
         isCached: true
-  - title: "This Audio Startup Is Using AI To Generate ‘Contextual CTV Ads’"
-    excerpt: "Call it the lovechild of dynamic creative optimization and contextual advertising. On Thursday, audio marketing platform Instreamatic released a product for connected TV that generates multiple audio"
-    publishedDateTime: 2023-08-10T14:00:00Z
-    webUrl: "https://www.adexchanger.com/digital-tv/this-audio-startup-is-using-ai-to-generate-contextual-ctv-ads/"
+  - title: "Cloud vs. on-premises showdown: The future battlefield for generative AI dominance"
+    excerpt: "As well, the choice of where customers plan to run generative AI is split almost exactly down the middle in terms of public cloud versus on-premises and edge. Further complicating matters, developers report the experiences in the public cloud with respect to feature richness and velocity of innovation have been outstanding."
+    publishedDateTime: 2023-08-12T16:47:00Z
+    webUrl: "https://siliconangle.com/2023/08/12/cloud-vs-premises-showdown-future-battlefield-generative-ai-dominance/"
     type: article
     provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
     images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2023/08/little-green-seedling-shoot-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-risk-on-off-1024x574.jpg"
+        width: 1024
+        height: 574
         isCached: true
-  - title: "Gunderson Launches Homegrown Generative AI App to Accelerate Subject-Matter Expertise"
-    excerpt: "We view this tool as an accelerant for subject matter expertise,” said Gunderson chief innovation officer Joe Green. “It’s not going to produce anything that is done and dusted and ready to go. But it will help attorneys do their jobs better."
-    publishedDateTime: 2023-08-09T22:09:00Z
-    webUrl: "https://www.law.com/americanlawyer/2023/08/09/gunderson-launches-homegrown-generative-ai-app-to-accelerate-subject-matter-expertise/"
+  - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
+    excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
+    publishedDateTime: 2023-08-11T12:04:00Z
+    webUrl: "https://diginomica.com/attention-enterprises-generative-ai-sexy-esg-has-teeth"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 32
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2023/08/ChatGD-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
-  - title: "Exploring Generative AI: Applications, Risks, and Future Implications"
-    excerpt: "Embark on a captivating journey into the realm of Generative AI as we unravel its mysteries in our latest blog. Join us as we explore how Generative AI is transforming art, design, content creation, and healthcare."
-    publishedDateTime: 2023-08-11T12:41:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2555410-exploring-generative-ai-applications-risks-and-future-implications"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
+      name: Diginomica
+      domain: diginomica.com
     quality: 19
-  - title: "Multinationals turn to generative AI to manage supply chains"
-    excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
-    publishedDateTime: 2023-08-13T03:59:00Z
-    webUrl: "https://www.ft.com/content/b7fafed2-9d00-49b0-a281-c1002b139865"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "QytmqknPByjPJH9LYpq9rJjPeUHTYK9DjKpQuwiwv2HfrG4fkSaoeQNVozr7VnUbZjSqfMnZ62boPcZOP3tP0gc8oCK9Km5TA1QKMCCEnVIgrtBzjCPIeMiZAmlqUQH9AxF5ybymXyiu1jsei3uAfJrYNgpDM2c3ovobmpPcBDMYYwh9Pp6FcewJQSdq6FENv+UY/iSgLd9LPFsO17MUgbgCR+rTSM3rKNfVdkPAwvM+wnYVSsWXX4LHGilCqn96V//zWS9kNklr1nRlfXxTWjNjXAJJOBaRmXb0fKtmwu1LH1wCfFpk1tNdtf4MJhv1GLcdCs/52VqKDDl5oOmX/DCZsBhbzIJyFWQAzn2gOFv7WANHhwyEOckW/EvmSuyhcfCGZ6sQ24Iw2j09NnCiXXzyrg9o+qdf9yMMYnB6yhNoJF71CCtqtqmkF5j41G3loG3qaP5E7FOh9zPtUtz82vwyydzs48pa2S6vbQyz0GZt4XMm4EFnMqUfr6UQpjYRoSjGanGTwvSJhU94VczrMA==;OO4KNbsOsOrzhN/BD7iziw=="
 ---

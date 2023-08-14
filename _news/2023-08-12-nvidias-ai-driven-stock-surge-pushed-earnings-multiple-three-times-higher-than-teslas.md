@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-ea
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html"
 type: article
 quality: 98
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia unveils upgraded chip to power the next gen of AI"
-    excerpt: "Nvidia has announced its next generation AI chip platform which uses the new Grace Hopper Superchip with the world’s first HBM3e processor."
-    publishedDateTime: 2023-08-09T15:38:00Z
-    webUrl: "https://www.techradar.com/pro/nvidia-unveils-upgraded-chip-to-power-the-next-gen-of-ai"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/RqZGLD9cNLDo9TwwpFEFAD-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Chinese Tech Titans Move To Stockpile $5 Billion Of Nvidia AI Chips Fearing Further Export Restrictions By U.S This Time Targeting A800 Processors"
     excerpt: "Nvidia introduced A800 as a replacement chip with a slower processing speed for Chinese market after the U.S blocked China’s access to two of its high-end microchips including its leading-edge A100 processors."
     publishedDateTime: 2023-08-11T07:29:00Z

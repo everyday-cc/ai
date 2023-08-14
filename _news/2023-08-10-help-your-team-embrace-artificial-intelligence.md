@@ -5,9 +5,11 @@ excerpt: "To be effective as a leader and in a team today, being smart, say, by 
 publishedDateTime: 2023-08-10T16:11:00Z
 originalUrl: "https://www.psychologytoday.com/intl/blog/the-power-of-experience/202308/help-your-team-embrace-artificial-intelligence"
 webUrl: "https://www.psychologytoday.com/intl/blog/the-power-of-experience/202308/help-your-team-embrace-artificial-intelligence"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-power-of-experience/202308/help-your-team-embrace-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-power-of-experience/202308/help-your-team-embrace-artificial-intelligence?amp"
 type: article
-quality: 17
-heat: 17
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -16,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
-secured: "ViVzz+BWNWtjcNbYD8CneY4jZyessQgNnBQ984bIrVTtESiGlYW91NioxYSiAevm2D3LmQxG8bRThrFer/ER62AevLtEnvmrc1+ltP0cN8vXB7jXRIQTsnYbLtjNNPZnEJC4g+wqxRO1i1SUO/85b1RNOBueVBnCaXcG4V9fESOw9ePLGX6lTD2fWlqZZDf4pMw95lOLawiR+yrzzfQdo9B5n/QhGmzSjqpyqq3doK8QsrEoY0ZbVKW11cjdXGehRtJH84meexG0wvQllK+y9hO4pXSmUn4SiWqeujJBPsZuLa5XiUhDQEdvdJ/YZSLk8nHJX15pZXa5//SkYeWsTKINrmFgzVZJOJPpPoLJXGtrLMiSLM+KSGQ4rAXNpo6S0M2Y+QhOxBh4HpZDQWJL7qC+UTCREainodTb7sUYiyDfa8YJ8wW4RWXuXR//WrugStjlvmcrIqTaxuh3oKeA9gnn/nmhbO5tE9JYGNcZz9kymqDCsV4ohqSoWpBI8Ew6jb6IdUMk+WldkaCZwtpRCQ==;N6Gr7IyHfs+nJSvMtE2Y2Q=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-08/AI.jpeg.jpg?itok=oIuFPz_P"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "E3czEqlElVRVn8kdwwUMulK358NHmYMyxQj5AKqhKViNiU2q6hp0Fr86ozKs1oyR4BHtub/3xrIn88Fk5DWDUWpuB1wy2VnNPRb5/9H7J70BhL5wNYXzIOI0uOvO29KKhPZxCKwJvwSKr9zqxD+kyvu8cDpriSZaffi/Nd74kVq7nhSQ45lGXtfR8k5eQoeMj97Q+l3X4Pj4MmNxSIFm9a5kXOKfC/D0H1kKYpApbNDY6OqXr9wZymi0yYetWlGyINiHfo/jdTuhJD8FSFT2YFz3MZyws/Q/jnijlll36ThZmn1jvLoI08tHkxkrlDKLUvYx0hhG1SK4onqlqSa0ee2Vs2Rba9gu4O7W7izeY/M=;Jnmu8PwnhK7ed8n/xlnxMg=="
 ---
 

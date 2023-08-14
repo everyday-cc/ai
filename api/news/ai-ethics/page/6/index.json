@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-05-22-how-to-talk-about-ai-like-an-insider.md",
-      "title": "How to talk about A.I. like an insider",
-      "excerpt": "AI ethics describes the desire to prevent AI from causing immediate harm, and often focuses on questions like how AI systems collect and process data and the possibility of bias in areas like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/05/21/ai-glossary-how-to-talk-about-ai-like-an-insider.html",
-      "originalUrl": "https://www.cnbc.com/2023/05/21/ai-glossary-how-to-talk-about-ai-like-an-insider.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/47432137-12-seized-shipments-slide4.jpg?v=1684677601",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/21/ai-glossary-how-to-talk-about-ai-like-an-insider.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/21/ai-glossary-how-to-talk-about-ai-like-an-insider.html",
-      "publishedDateTime": "2023-05-21T22:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-22-todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist.md",
       "title": "Today's AI boom will amplify social problems if we don't act now, says AI ethicist",
       "excerpt": "AI systems trained on internet data are in danger of reinforcing negative bias and causing societal harm. Salesforce's Kathy Baxter explains how to fix it.",
@@ -1457,6 +1405,50 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai.md",
+      "title": "The Rise of the Machines: Assessing The Ethical Risks of Machine Learning And AI",
+      "excerpt": "As the world progresses towards digitalization, more people are adopting Artificial Intelligence (AI). The pandemic has accelerated this adoption. There are predictions that computers and robots will become more",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai-2-53549/",
+      "originalUrl": "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai-2-53549/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75476733.cms",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

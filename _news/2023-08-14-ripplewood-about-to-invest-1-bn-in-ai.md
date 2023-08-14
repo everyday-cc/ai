@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Ripplewood about to invest 1 bn in AI"
-excerpt: "FRANKFURT, GERMANY - EQS Newswire - 14 August 2023 - One of the largest fintech investors in the industry finally wants to buy auspicious AI software. As Bloomberg sources"
-publishedDateTime: 2023-08-14T07:30:00Z
-originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/08/14/ripplewood-about-to-invest-1-bn-in-ai/239367"
-webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/08/14/ripplewood-about-to-invest-1-bn-in-ai/239367"
-ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2023/08/14/ripplewood-about-to-invest-1-bn-in-ai/239367"
-cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2023/08/14/ripplewood-about-to-invest-1-bn-in-ai/239367"
+excerpt: "One of the largest fintech investors in the industry finally wants to buy auspicious AI software. As Bloomberg sources report, private equity giant Ripplewood plans to invest $1"
+publishedDateTime: 2023-08-14T08:02:00Z
+originalUrl: "https://www.sinchew.com.my/20230814/ripplewood-about-to-invest-1-bn-in-ai/"
+webUrl: "https://www.sinchew.com.my/20230814/ripplewood-about-to-invest-1-bn-in-ai/"
 type: article
-quality: 59
-heat: 59
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: malaymail
-  domain: malaymail.com
+  name: sinchew
+  domain: sinchew.com.my
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "aFxKVGhJlUxKaVm2MxfBxJOWd1Nm2khBJPijhnWYDebbj8tVX48rv526jUq4j4TBhQ+vB6dP9RmXomOFQIxJc8iqbNYf3TKfIa5Otnv+BvMfwfEUcEmIH7McnLvpJxmeYLK4NMqrmroxrqu6WR5IyPiuu3qEyUzGNQTrJ4ZdghM1sMwtuHHr7r1+CSi/JG2JYZo/+FW+2veyHzo4E07Ocp1C183FbzZJVrYOfMcUJQkAUsP/+4vTli2Oe73rxLVG4U+kqYIMM0IJaxicZaG9Stw09djb5rExGwSLK0+h7itZdh+Zzrw342PagQKCM6eUvIOjP33osOWg7s/t3y4J7K9xfXgocpyYtjcBdIzifh8=;OFWcRQC7WKmvFZfHOzdC1Q=="
+secured: "bYgB18D5+Y6/M6UA7GhvZjcpkcNL8gkK9Ecyz4geXyOq5yda1/cCh9oe6gybBCvxqmF7/EhWSz+6oMdKLnT3qqKgROfm68X1CdvHiBE3T2B/4i5XWjmX0ervA+sTU6Vy9bNb3MNwvZet9iWJfoskd9goNnfdUOMS/Frgcs+wOxaYSHQLfJ4UyRSRnZR0SyI9erFr1f5ni516umjUlz30F+XeCrAO2iN35eLQPAPWxiClANYDln8hHyBbyF4DjBUkRpOvzhjFrSATDugx99/Xc35isw63ZnRcrAhBdwUFCaMQAhfGYDE3yWziTH9D/M3pNAu35qzjZ+dmSuFZAvd5LPDRXwPsEP9Imui6RVRQtuee/2/Mg1pgb8ttHs5VJHyNa3hTwBQPYzSRKp0p5k4E+PHiYFBIhFe1XPxmu4iVSiGxZbOLtAcCr3jnURFhoDAJHmBOcsWIAwcQ5V/AM6ddVltrSBPcrtdxs4ttFiyiKfdALynG83KWHdYHUAbckaICQxFK2gXVQuDpks2vorUf3w==;6GZE5gsJaE7uD5CmZy/XjA=="
 ---
 

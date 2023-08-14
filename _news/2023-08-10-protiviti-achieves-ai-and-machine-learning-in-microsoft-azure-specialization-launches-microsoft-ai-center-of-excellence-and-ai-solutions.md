@@ -73,62 +73,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 66
-  - title: "Microsoft partners with Aptos Labs to build AI-powered blockchain tools on Azure"
-    excerpt: "A compelling new partnership has just been announced between Microsoft and Aptos Labs. The collaboration is set to create an AI-powered tool named Aptos"
-    publishedDateTime: 2023-08-09T15:54:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-partners-with-aptos-labs-to-build-ai-powered-blockchain-tools-on-azure/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 64
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2021/05/microsoft-azure-blockchain.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Microsoft AI Integration Sends Aptos Token APT Soaring 13%"
-    excerpt: "The price of APT is soaring after Microsoft announced it was partnering with Aptos Labs, the developer behind the blockchain."
-    publishedDateTime: 2023-08-09T15:49:00Z
-    webUrl: "https://decrypt.co/151860/microsoft-ai-aptos-labs-apt-token"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 54
-    images:
-      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/02/aptos-mo-shaikh-gID_7.jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Microsoft and Aptos Labs partner to combine blockchain and AI for banks"
-    excerpt: "Microsoft has teamed up with Aptos Labs on an effort to combine the power of AI and the blockchain to drive web3 into the mainstream."
-    publishedDateTime: 2023-08-09T16:26:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42762/microsoft-and-aptos-labs-partner-to-combine-blockchain-and-ai-for-banks"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/blockchain-network.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Microsoft and Aptos Labs partner to combine blockchain and AI"
-    excerpt: "Microsoft has teamed up with Aptos Labs on an effort to combine the power of AI and the blockchain to drive web3 into the mainstream."
-    publishedDateTime: 2023-08-09T15:26:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42762/microsoft-and-aptos-labs-partner-to-combine-blockchain-and-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/blockchain-network.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Microsoft, Aptos Labs team up to build new blockchain AI tools"
     excerpt: "Microsoft predicts that AI will be infused into web3 solutions in a larger scale in the \"coming months and years.\""
     publishedDateTime: 2023-08-10T06:56:00Z
@@ -142,6 +86,20 @@ related:
       - url: "https://d.ibtimes.co.uk/en/full/1716336/microsoft.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "ABB and Microsoft collaborate to bring generative AI to industrial applications"
+    excerpt: "Expanding on their long-standing partnership, ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability™ Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
+    publishedDateTime: 2023-08-14T06:32:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/abb-and-microsoft-collaborate-to-bring-generative-ai-to-industrial-applications-2023-08-14"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 50
+    images:
+      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001080035_resized_abbenablescustomerstorealizethebenefitsofdigitalizationthroughsixindustryvaluepillars1022.jpg"
+        width: 1022
+        height: 575
         isCached: true
   - title: "Transform your business with Microsoft’s range of Data and AI solutions"
     excerpt: "Microsoft offers a range of Data and AI solutions that can help businesses transform their data into insights and actions."

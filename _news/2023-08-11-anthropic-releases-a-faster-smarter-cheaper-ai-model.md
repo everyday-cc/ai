@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "AI startup Anthropic raises $100M from Korean telco giant SK Telecom"
+    excerpt: "Most recently, the Google-backed generative AI startup has released its updated version, Claude Instant 1.2, which incorporates the strengths of Claude 2, its second-generation AI chatbot. Claude’s use cases for the telco industry will include ..."
+    publishedDateTime: 2023-08-14T07:54:00Z
+    webUrl: "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/"
+    ampWebUrl: "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/04/Anthropic_logo_art.png?w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "SK Telecom invests $100. mil in US AI startup Anthropic"
     excerpt: "SK Telecom will invest $100 million in U.S.-based generative AI startup company Anthropic in a bid to improve its competence in the emerging technology and further develop various language-based AI services for global markets,"
     publishedDateTime: 2023-08-13T07:40:00Z
@@ -51,20 +67,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/a-7.jpeg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Anthropic cracks open the black box to see how AI comes up with the stuff it says"
-    excerpt: "A recently published research paper from scientists at Anthropic demonstrates a method for determining how much “influence” individual instances of training data have on the generation of outputs by large language models."
-    publishedDateTime: 2023-08-10T21:00:00Z
-    webUrl: "https://cointelegraph.com/news/anthropic-cracks-open-the-black-box-to-see-how-ai-comes-up-with-the-stuff-it-says"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMjZlMDcyMzEtYjQ2YS00OWE2LTg5ZjYtMmI0NmM2ODlhMTc0LmpwZw==.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "t/TrycUkiwA7OrjyGyIZriUwp9b9vOH61fzjRW1xB+2YAaVvTYUAlj3tXEwGWb4JV//BUa17gRANMVchQU9gEyOBiZux8W12FuHALjJkZn9iL+gaoCs/J9f1k98xsAxeefk25SEFuVYwd+iJmMzSdu1OKQmBHVhAQsuf1qdz6Bac4c4vPeZGL+dlY8dmrWI68B85A/BbT1vadn/PNW/KZiX9I1wwL0PlR2OGDyq4fiqFK1mu6hslc2tNtSgnEOAh3BUQDZ+gR65QFakJXsKusdgSOiar9gOaA9WS54NlK3FZXa3TMOJ8A9DMxJQXXddefUO54pV+mfa+9W/nv6KmC54x9g4hTohdKbMad1QL3yAMZJov5N/sFnmJIf6+rF/LKxJKdP8N5+E2YX1jAnsSreoSfLellMT2X5IZ0u7dB2Rtrx0jYQ9BXDvPI2jHjS/MT8amIdEp9yFI5r6fCMAgiwVScj3mLeiE/RJXdC99eJ9Ruc/jwhRXpxXInYM0VyiO8RRaMCUtQPgUVFlG+S74Xw==;LpHW8rO33Fenhr07TjRWvA=="

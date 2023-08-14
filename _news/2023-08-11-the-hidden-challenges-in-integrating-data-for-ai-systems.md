@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-ch
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 66
-  - title: "Announcing US$5 million in Grand Challenges AI grants to spur local innovation for global good"
-    excerpt: "Nearly 50 projects are receiving up to $100,000 to pursue the use of AI to solve problems in global health and development."
-    publishedDateTime: 2023-08-09T15:43:00Z
-    webUrl: "https://www.gatesfoundation.org/ideas/articles/grand-challenges-ai-rfp-recipients-2023"
-    type: article
-    provider:
-      name: Bill & Melinda Gates Foundation
-      domain: gatesfoundation.org
-    quality: 25
-    images:
-      - url: "https://www.gatesfoundation.org/-/media/gfo/5ideas_articles/articles/20230809-grand-challenges-ai-rfp-recipients-2023/hero_ideas_grand-challenges-rfp_ga17166192_ae652228_08092023_1600x1000.jpg"
-        width: 1600
-        height: 1000
-        isCached: true
 
 secured: "AZTR80oBs12QlssrwrhYZqM2AovltaFcMZIQxvXSfR3FZD8trXoImyKfE0J1g44Z/YXX1Rkawwx/QEm7bGVmK85ED3s8hCVFoFSsJIaPgDqhqHQIQpeYJb73yrjv/xkoFPKwKojcOeIZFafYREOIGGCAYd8waexaHBOFpHtiVeKlCaT3V0gJQB5w4tLf2+iYqSxNS7R2EauP71RzKRqg3uzWhaJx7N4p2/AEsnaMpqt9yn1UlfehJw/TbCGoNJBXIHI6VZR1EDMieN8+dMjOFHLWlCjRMUz3pFp19IjQ3H1KTZ6KuoJk7ksMcQPbQIU2vx6SAOfSLSWvxu/LXglnS0kKGmMcRKe93cO/c9JHAJJXrTmD21RGzqbRptLDXxtWErAGC2zk2ZhtgGBN2Kzqddmw1NXrHJXNqvT4/qHPRuZdiUxEgMYM600spD7WzqHoen0gi+P3J7xzTdASV/NiVyfAvRiyLyUEIWjoW+FTG159vouwyCy/HS/5xJHJYIWzB8Ye+1OnqsBGmCJWtQzFGQ==;B+go1JACGNHGgV3MxcEu+Q=="
 ---

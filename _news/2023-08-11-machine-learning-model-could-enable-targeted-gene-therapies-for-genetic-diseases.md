@@ -24,22 +24,6 @@ images:
     height: 780
     isCached: true
 
-related:
-  - title: "Deep-learning technology could help scientists to develop personalized immunotherapies and vaccines"
-    excerpt: "Deep-learning technology developed by a team of Johns Hopkins engineers and cancer researchers can accurately predict cancer-related protein fragments that may trigger an immune system response."
-    publishedDateTime: 2023-08-09T16:57:00Z
-    webUrl: "https://www.news-medical.net/news/20230809/Deep-learning-technology-could-help-scientists-to-develop-personalized-immunotherapies-and-vaccines.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 10
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-
 secured: "aEOvyFrqXpz7FueroT74VR0dClo9Lbq5QOyQf/bru1Rujx2bFlhd9hIOFE+TodAR2G+WQWR/gP1ZX/Rnjvw5Bh9fbo9OhgO7zY5B6KSSozJHKfAgVbJnr4a1SbsiNGM4pz2EEW3IJjuhzzvkD5xFyvOOlx+fj1qMpjtauOUal4eh8KFMmr5VVZUORtc3ZNviHQvvG24537EWzg1tHTj0Q4lTBIHA+/uS6u/Xm+OBfv5EBb6tjvIhotYAfiDiNFsBpUBdMs4IuhbASk6E5q+mGx9xIv/eCaH28n5ShbInHY9EtvIoUi7gVYgcoYnLjjTYar6wigcj39OSEv2bGn1P5mkJUG7YA1n5LdwRVCMuvf/8u0G3fdTCAUVaHKBPaz2Jryg/WFLc35CwonIj8uWQ9FWGzZUXwy1YVKL7z1+JlfS2UxMsqU008M2I6F6UwZSkE4FjFEymr2U9VI56ru1GGyfPyCNl5vC38u8WRFiIXidIApXz/C/PXmGOFQW9w9eJcqOHQD97NzcT8AGnmm6yWw==;sfdGItxP4Fsff1FJwDCrFw=="
 ---
 

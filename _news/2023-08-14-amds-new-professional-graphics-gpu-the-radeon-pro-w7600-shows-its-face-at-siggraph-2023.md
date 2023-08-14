@@ -41,29 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia’s FlexiCubes uses generative AI to create 3D meshes"
-    excerpt: "Nvidia has launched FlexiCubes, a new way to use AI to generate 3D meshes for a wide range of 3D applications."
-    publishedDateTime: 2023-08-11T13:01:00Z
-    webUrl: "https://venturebeat.com/ai/nvidias-flexicubes-uses-generative-ai-to-generate-3d-meshes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Nvidia announces updated GH200 Grace Hopper GPU with HBM3e memory for generative AI workloads"
-    excerpt: "Nvidia has announced an updated version of its GH200 'superchip,' which will be the first GPU in the world to include HBM3e memory."
-    publishedDateTime: 2023-08-09T15:26:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-updated-gh200-grace-hopper-gpu-with-hbm3e-memory-for-generative-ai-workloads/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 43
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/GH200_HBM3e.2e16d0ba.fill-1200x630.png"
-        width: 1124
-        height: 592
-        isCached: true
   - title: "AI powerhouse Nvidia releases toolkit that allows developers to quickly create, test generative models"
     excerpt: "Nvidia on Tuesday announced the AI Workbench, a new toolkit that will helps developers to more quickly create, test, and customize generative AI models."
     publishedDateTime: 2023-08-10T01:48:00Z
@@ -90,6 +67,6 @@ related:
       domain: crn.com
     quality: 29
 
-secured: "NdpfI4tyfLwP62aut0H05WbxjwlqmQ5l0C6HMUkUWBaqgNV/MuTX7wRsmzRhiKTtLOsQoAfsSy/JkS8bWF7E7Q4ihgLdIv3EAAM5e0MN+bnpfwthwAhEo3jPG7Mip+OyvsH2IJhKDw6Q7mHPjAVGQf8au07jtGGGQr7XoKaXU6kBXfGMo8UNG0+ZlqUeEDQJEeJD7JfZPtKeuQtrlljhsjKZDby8o9uww5RHms+sece8l2bTuMSqBQrNvlhMUq9jadBiisRfWkYnrHOLTOUW8BpeLAqzbmWJ567Cil31SHWbrsCeZEcDW6QzZ3UxIRXhWoWcMKN1moV5j48Pw/ms8mX2hAkP+EWvBckchBLXBhs=;FS2DD7v9ikyJ+vgtWcYjlA=="
+secured: "VyrqGmLUQtuJkNb+72Z/GOf62NttM3Jl2Hsp9P/Ky4axh5Wl6y5x/fwgHlJWK7Wx4ZFxwkPvrZxFmVJyCzwNAsjALBvOyryAkyYa2BxoTrR1WvysjjKZu37VB7df0o08BMlzr9Vte/WpTLO8m42Yl+hS1uVVgpIPIV0mH1be8Z+RpMAUAeYpPkaYc47CBUUQOt9wtxveAuq8Tp4yBHLM6km5PrP62KzNiOTHCcUo0CI9QLkR0rUIwdnrSeZyXA9Y7SKLNkiJofFkH4Tu6O/O9C9w/sNeW6avK2QKVoZHo/8P4z7Z4+pU3sR0oUHUNJ1uyoFr8P/Vl4zYufH0HbKj4cveDDfXW2FXy1a2D82qv4uXIjX7Ps4HZKc+MwXTOk5lSpRwiajAvZ5r9r2PS6e84o543yNk9SO3CC26z68SJAMluTINIvC7zkYllg+2NrQFVDe7bZPVuZO9sebci5lN4u6o7SMai+KohoRWzNdSzm/JFg90AHHXFQv0JozapI41EDyZWogePlbbUJVaXIcJaw==;pRv3gIplZwv8EUzDMkyX/A=="
 ---
 

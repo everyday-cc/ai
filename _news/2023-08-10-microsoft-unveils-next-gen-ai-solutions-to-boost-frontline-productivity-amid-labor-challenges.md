@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/microsoft-unveils-next-gen-ai-solutions
 webUrl: "https://venturebeat.com/ai/microsoft-unveils-next-gen-ai-solutions-to-boost-frontline-productivity-amid-labor-challenges/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 599
     isCached: true
-
-related:
-  - title: "Aptos Labs partners with Microsoft to build AI blockchain solutions using OpenAI"
-    excerpt: "Aptos Labs, the blockchain startup founded by former Meta Platforms Inc. employees behind the defunct Diem blockchain, today announced that it has partnered with Microsoft Corp. to “explore innovative solutions” in blockchain and Web3 technology such as artificial intelligence, tokenization and payments."
-    publishedDateTime: 2023-08-09T16:24:00Z
-    webUrl: "https://siliconangle.com/2023/08/09/aptos-labs-partners-microsoft-build-ai-blockchain-solutions-using-openai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Aptos_Labs__Aptos_Labs_x_Microsoft.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "J4CEv1aYwtLfadSmlaqeDVVmbiJEn6BIDVYRXBpfvpt/aQOwOYiaOsdJLha9yg4JuH4k8xU+utCS0k4NnzxEwyv6myFvfz+Mi2CxfhOvMBXuMq3jRTmgDDG5Jkcv7KQhf3prlouk8XwnQ8d8dNWEn1G70ZcJHv41pfhVsNDyLye9LUuxVebx/x4o5pVf3zNTJ5c0D9ZxAxui6/3i5W018Qji8YWq3FD35nDtUMyGPeUl+4F8jlcZook4ZHXTqcLIDF1n3gh5olsg0O508W1uhfl2RXrXBR6LVPYc9gjQkZ1pe7vHe22a3rvolEx5TYwArNer4ukgNGIpdj6l81WsQWBtPSE3YHbHFaB/YZbJg89YHkrFvU+xo7FE9KXnmZZiyWpNhZazMAXVcUHeCQBOoKFyCxMjzEm4Ny2T4Nz3Wv7kOvxG0/YXEDQii1KSVE/KmuFjqtY1qc13lF398dx64IaqX4ECI/DRH3ZX9O35olfSSl2/9yRZuq57xHOXINOq1Bhr1bsDB2lfPNYyRXBtAg==;4cGh5bsRLrQg+p+NuqfDlA=="
 ---

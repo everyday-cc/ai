@@ -25,86 +25,72 @@ images:
     isCached: true
 
 related:
-  - title: "Get All Of That Data – And Give It To Patients! New Models For AI In Healthcare"
-    excerpt: "Sontag points out that we may end up using AI to augment decision-making, partly through the use of the data that we have. Going back to the example of UTI, he illustrates its commonality (affecting one in two women during their lifetimes) and notes that UTI is the third most common condition for which antibiotics are prescribed."
-    publishedDateTime: 2023-08-10T14:50:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/08/10/get-all-of-that-data--and-give-it-to-patients-new-models-for-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/10/get-all-of-that-data--and-give-it-to-patients-new-models-for-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/10/get-all-of-that-data--and-give-it-to-patients-new-models-for-ai-in-healthcare/amp/"
+  - title: "How generative AI correlates IT and business objectives to maximize business outcomes"
+    excerpt: "Incorporate generative AI into existing technologies — such as SAP, CPI interfaces, Signavio and Salesforce — to achieve targeted outcomes.\nThe post How generative AI correlates IT and business objectives to maximize business outcomes appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-14T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-generative-ai-correlates-it-and-business-objectives-to-maximize-business-outcomes/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 112
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/How-generative-AI-correlates-IT-and-business-objectives-to-maximize-business-outcomes.jpg"
+        width: 1080
+        height: 540
+        isCached: true
+  - title: "Generative AI Is Not A Tool; It's An Employee"
+    excerpt: "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team."
+    publishedDateTime: 2023-08-11T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 100
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d4f8266b38ace2a4d9d11b/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d541f1b585aa1bcfb1ea3f/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 608
         isCached: true
-  - title: "Unlocking the Power of Artificial Intelligence in Healthcare"
-    excerpt: "Artificial Intelligence (AI) is rapidly revolutionizing various aspects of our lives, and its significance in healthcare is undeniably on the rise."
-    publishedDateTime: 2023-08-11T11:14:00Z
-    webUrl: "https://www.mid-day.com/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
-    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
+  - title: "With Generative AI, Businesses Should Listen More And Generate Less"
+    excerpt: "The implementation of large-scale language analytics promises transformative impacts across various sectors, boosting efficiency and providing insightful analysis."
+    publishedDateTime: 2023-08-11T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/with-generative-ai-businesses-should-listen-more-and-generate-lessamit-ben/"
     type: article
     provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 74
-    images:
-      - url: "https://images.mid-day.com/images/images/2023/aug/Hidoc1108_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Harnessing artificial intelligence for better patient care"
-    excerpt: "The integration of artificial intelligence (AI) provides one of the most promising—and fraught—advancements in the ever-evolving landscape of the health care sector. Electronic records let physicians access patient information more easily."
-    publishedDateTime: 2023-08-10T14:32:00Z
-    webUrl: "https://medicalxpress.com/news/2023-08-harnessing-artificial-intelligence-patient.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-08-harnessing-artificial-intelligence-patient.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-harnessing-artificial-intelligence-patient.amp"
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Nvidia’s FlexiCubes uses generative AI to create 3D meshes"
+    excerpt: "Nvidia has launched FlexiCubes, a new way to use AI to generate 3D meshes for a wide range of 3D applications."
+    publishedDateTime: 2023-08-11T13:01:00Z
+    webUrl: "https://venturebeat.com/ai/nvidias-flexicubes-uses-generative-ai-to-generate-3d-meshes/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/health-data-1.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "AI Helps Detect Muscle Mass in Head and Neck Cancer Patients"
-    excerpt: "Among individuals diagnosed with head and neck cancer, an AI-driven evaluation of sarcopenia could be conducted at regular intervals during treatment."
-    publishedDateTime: 2023-08-13T14:05:00Z
-    webUrl: "https://www.medindia.net/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "AI and the Productivity Imperative"
+    excerpt: "The world is struggling with labor shortages, inflation, and a supply chain that cannot keep up with demand. AI can help overcome these productivity challenges, with LLMs in particularly allowing for productivity boosts without replacing human workers,"
+    publishedDateTime: 2023-08-11T12:37:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/ai-and-the-productivity-imperative"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://www.medindia.net/health-images/an-artificial-intelligence-accurately-predict.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "AI-driven muscle mass assessment could improve care for head and neck cancer patients"
-    excerpt: "Researchers from Dana-Farber Cancer Institute have found a way to use artificial intelligence (AI) to diagnose muscle wasting, called sarcopenia, in patients with head and neck cancer. AI provides a fast,"
-    publishedDateTime: 2023-08-10T15:00:00Z
-    webUrl: "https://medicalxpress.com/news/2023-08-ai-driven-muscle-mass-neck-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-08-ai-driven-muscle-mass-neck-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-ai-driven-muscle-mass-neck-cancer.amp"
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 19
+  - title: "Asian businesses see better opportunities and complexities for generative AI"
+    excerpt: "Rackspace Technology helps businesses with both complexities and opportunities for generative AI technology in the multi-cloud."
+    publishedDateTime: 2023-08-10T13:49:00Z
+    webUrl: "https://techwireasia.com/2023/08/opportunities-outplay-complexities-for-generative-ai-technology/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/ctscan.jpg"
-        width: 1920
-        height: 1329
-        isCached: true
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 16
 
 secured: "ZNqKrFBmNS4GX8+nbGX7D/hnEep7gvtX88n+B9zuG0QNkomHM7ewNfT82hP6DKgg3LyucvoLYRWRv5A0vhZydoNKKuKl51TVgOH73Y2ndHRDdDZe+zivmNa4s0WgHekFW2bmztdUzLWIjaQ+N1UwAYJFXuwEY3Cyx46FH5RD5EgoImWgCG0ZGTSZ25bjwMdDCHg+yj9KKNavEGO97fUy8FCFonVZWMj3MQmel5ZQnw8WjBvAvOh8zz/xoe2xm2MwX+WFCmaIKwiQyZXYink5M9vmjKb8oYQ2DySfr0uw379LMj3vjdpLW7zhzn34Q9hESG+9vgb+iFRa1UlENLAnjhK7BP0oim4EphpflzTrmHE=;Iat/KK/5x0H7icvzde19lQ=="
 ---

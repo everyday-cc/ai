@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "State report sites risks in schools' use of facial recognition technology"
+    excerpt: "The New York State Office of Information Technology Services (ITS) has determined that, when it comes to the use of facial recognition technology for security in schools, the “risks may"
+    publishedDateTime: 2023-08-11T09:00:00Z
+    webUrl: "https://www.niagara-gazette.com/news/local_news/state-report-sites-risks-in-schools-use-of-facial-recognition-technology/article_cd3e25c6-1c02-5e2a-a879-ebb56e0bc29b.html"
+    ampWebUrl: "https://www.niagara-gazette.com/news/local_news/state-report-sites-risks-in-schools-use-of-facial-recognition-technology/article_cd3e25c6-1c02-5e2a-a879-ebb56e0bc29b.amp.html"
+    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/local_news/state-report-sites-risks-in-schools-use-of-facial-recognition-technology/article_cd3e25c6-1c02-5e2a-a879-ebb56e0bc29b.amp.html"
+    type: article
+    provider:
+      name: Niagara Gazette
+      domain: niagara-gazette.com
+    quality: 58
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/2/a5/2a5e0cd4-abd8-11e8-a89b-a72926ec393a/5b87198aab100.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "NY State Report Cautions Against Facial Recognition in Schools"
     excerpt: "In setting policy on facial recognition, the New York State Education Department will take a cue from a new report from the State Office of Information Technology Services that found the risks may outweigh the benefits."
     publishedDateTime: 2023-08-09T18:24:00Z

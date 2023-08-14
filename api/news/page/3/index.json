@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-11-11-skills-youll-need-to-use-ai-effectively.md",
+      "title": "11 Skills You’ll Need To Use AI Effectively",
+      "excerpt": "This is foundational: basic computer skills, navigating the internet, comfort using new software for AI as it develops. Understanding how data is used by AI systems and how we use (and misuse) data. This includes data collection techniques, data privacy, and the potential for data bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d5448255e2983976b1ea3f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/amp/",
+      "publishedDateTime": "2023-08-10T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-virtualitics-raises-37m-for-ai-driven-3d-data-exploration.md",
+      "title": "Virtualitics raises $37M for AI-driven, 3D data exploration",
+      "excerpt": "California-based Virtualitics, a data exploration startup with roots at NASA, today announced $37 million in a series C round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/virtualitics-raises-37m-for-ai-driven-3d-data-exploration/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/virtualitics-raises-37m-for-ai-driven-3d-data-exploration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/cover-image-virtualitics-e1691695329155.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-3-robotics-stocks-you-better-be-buying-on-each-and-every-dip.md",
+      "title": "3 Robotics Stocks You Better Be Buying on Each and Every Dip",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The global robotics industry is taking off, and investors are keeping a close",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-you-better-be-buying-on-each-and-every-dip-1032541918",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-you-better-be-buying-on-each-and-every-dip-1032541918",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-prototype-brain-like-chip-promises-greener-ai-says-tech-giant.md",
       "title": "Prototype 'Brain-like' chip promises greener AI, says tech giant",
       "excerpt": "A prototype \"brain-like\" chip could make artificial intelligence (AI) more energy efficient, its developer, technology giant IBM, has said. Concerns have been raised about emissions associated with warehouses full of computers powering AI systems. IBM said its prototype could lead to more efficient, less battery draining AI chips for smartphones.",
@@ -345,7 +492,7 @@
       "originalUrl": "https://www.zdnet.com/article/tiktok-creators-will-need-to-disclose-ai-generated-content-or-else/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -526,6 +673,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-10-illumio-simplifies-zero-trust-policy-enforcement-with-microsoft-azure-firewall-integration.md",
+      "title": "Illumio Simplifies Zero Trust Policy Enforcement With Microsoft Azure Firewall Integration",
+      "excerpt": "Illumio, Inc., the Zero Trust Segmentation company, today announced the general availability of Illumio for Microsoft Azure Firewall.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/illumio-simplifies-zero-trust-policy-enforcement-with-microsoft-azure-firewall-integration/",
+      "originalUrl": "https://enterprisetalk.com/news/illumio-simplifies-zero-trust-policy-enforcement-with-microsoft-azure-firewall-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/08/Illumio-Simplifies-Zero-Trust-Policy-Enforcement-with.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/illumio-simplifies-zero-trust-policy-enforcement-with-microsoft-azure-firewall-integration/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/illumio-simplifies-zero-trust-policy-enforcement-with-microsoft-azure-firewall-integration/amp/",
+      "publishedDateTime": "2023-08-10T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-chart-ai-stocks-enter-correction-territory.md",
       "title": "CHART: AI stocks enter correction territory",
       "excerpt": "AI hype drove huge gains among some tech stocks in the first half of 2023. Lately, that has gone into reverse.",
@@ -637,7 +827,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/10/get-all-of-that-data--and-give-it-to-patients-new-models-for-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -783,7 +973,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33706156/smartling-receives-ai-breakthrough-award-for-best-machine-translation-solution",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -1013,214 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-ai-could-soon-tell-you-the-future-value-of-your-home.md",
-      "title": "AI could soon tell you the future value of your home",
-      "excerpt": "MIT used an AI bot to make what researchers called \"very accurate\" predictions for how home prices would change over time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8",
-      "originalUrl": "https://www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64d3e32dec14ba0019f3859e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-real-estate-prices-home-values-predictions-retirement-mit-2023-8?amp",
-      "publishedDateTime": "2023-08-10T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-meet-rebecca-gorman-whose-company-aligned-ai-is-trying-to-match-up-human-values-with-machine-learning.md",
-      "title": "Meet Rebecca Gorman, whose company, Aligned AI, is trying to match up human values with machine learning",
-      "excerpt": "Even the best artificial intelligence systems don’t always reflect what humans actually want—or need. Rebecca Gorman has made it her mission to better align these two things or rather, to better align A.I. with what humans are actually asking it to do ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/",
-      "originalUrl": "https://fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/07/Fortune-Founders-2023-Rebecca-Gorman.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/08/10/rebecca-gorman-founders-forum-2023/amp/",
-      "publishedDateTime": "2023-08-10T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-to-navigate-the-age-of-ai-the-world-needs-a-new-turing-test.md",
-      "title": "To Navigate the Age of AI, the World Needs a New Turing Test",
-      "excerpt": "There was a time in the not too distant past—say, nine months ago—when the Turing test seemed like a pretty stringent detector of machine intelligence. Chances are you’re familiar with how it works: Human judges hold text conversations with two hidden interlocutors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-new-turing-test/",
-      "originalUrl": "https://www.wired.com/story/ai-new-turing-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64d3d7869ec11a2433532db5/191:100/w_1280,c_limit/Humanizing-AI-Mente_cuerpo-feature.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-understanding-onelake-and-lakehouses-in-microsoft-fabric.md",
-      "title": "Understanding OneLake and lakehouses in Microsoft Fabric",
-      "excerpt": "Microsoft Azure’s new, unified data platform aims to be your one-stop shop for analytics and machine learning at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.html",
-      "originalUrl": "https://www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/07/06/10/shutterstock_1331536427-100929861-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704608/understanding-onelake-and-lakehouses-in-microsoft-fabric.amp.html",
-      "publishedDateTime": "2023-08-10T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

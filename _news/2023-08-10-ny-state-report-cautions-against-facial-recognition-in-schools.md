@@ -35,6 +35,22 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "State report sites risks in schools' use of facial recognition technology"
+    excerpt: "The New York State Office of Information Technology Services (ITS) has determined that, when it comes to the use of facial recognition technology for security in schools, the “risks may"
+    publishedDateTime: 2023-08-11T09:00:00Z
+    webUrl: "https://www.niagara-gazette.com/news/local_news/state-report-sites-risks-in-schools-use-of-facial-recognition-technology/article_cd3e25c6-1c02-5e2a-a879-ebb56e0bc29b.html"
+    ampWebUrl: "https://www.niagara-gazette.com/news/local_news/state-report-sites-risks-in-schools-use-of-facial-recognition-technology/article_cd3e25c6-1c02-5e2a-a879-ebb56e0bc29b.amp.html"
+    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/local_news/state-report-sites-risks-in-schools-use-of-facial-recognition-technology/article_cd3e25c6-1c02-5e2a-a879-ebb56e0bc29b.amp.html"
+    type: article
+    provider:
+      name: Niagara Gazette
+      domain: niagara-gazette.com
+    quality: 58
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/2/a5/2a5e0cd4-abd8-11e8-a89b-a72926ec393a/5b87198aab100.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "7WbsbV0Sduq7TrT7q29LPS277xH3LTH4iJohYT4AdW2gFdnf2heAab3rwlwlSDbJLSPxPygotR+ciwIavdJJPzKc+4t93gjlUkX57LPfyhdD3nKl6LuK8aDwWOHUvLXe+KkWbiHZDyWPZ6dE6rEMWjfVGAeJhu6eJTVLf5EwN7xLe0/lC8T6IU3NS04c7xwOQUKm3J89S2jVmkMrS3LJZr0T+eGPfv4aEl5msGcvcKA748JBD6mSsnKklkkVN1oqTqggvHNofvW/5BRqXNul7+N2SZR4lGf1XyQPZ8OmwD/RqTu4Cy0oOHccdE6mbm02Hbx6JtsSVogljPbB8FlEzO4SHdVXS175nILMS+0JWICggFt9OMje6fuWtTII/zdXBOCW7PrZgi6D2USWJLYUV91e98rxxZzwN5bwz4CnM6Udc9i///Ijc+Sw37M1TarPCHEB6Qadbt0CJIW+Q/TOyvp2cHz6fm2O3o4khIKIu+ayuvlfewPRXeCRTCJLqlQwu8gucxR4t7YkZQjQ1S/rJw==;wgfxxEbWGHELSDpYzhrvhw=="
 ---

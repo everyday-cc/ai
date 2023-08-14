@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/how-passwords-stolen-ai-listening-keyst
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes.amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI could steal information by listening to you type, study finds"
-    excerpt: "New research shows artificial intelligence can identify keystrokes by the sound of your typing and can steal information with 95% accuracy. Joshua Harrison, a software engineer and one of the authors of the study,"
-    publishedDateTime: 2023-08-09T15:42:00Z
-    webUrl: "https://www.cbsnews.com/video/ai-could-steal-information-by-listening-to-you-type-keystrokes-study/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/09/b9eab125-be6d-45e9-9967-87679b09bacc/thumbnail/1200x630/43e9cdab271801c00e862738427460bb/cbsn-fusion-ai-could-steal-information-by-listening-to-you-type-study-finds-thumbnail-2193229-640x360.jpg?v=4c3eff96812a3b6c2e014b1daed33369"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "PQjseEb7QtrX7tPPg0EstRyGmYv52GEtdPIF5QGjCE2OCegR6FonasGwZ8d4y++NoJpWGZycjdJWAuNRk3Atpiprprlut36nITqvnQG0wLrEdDMEAISmVPCb2AnMA+beDwYskDAN4OoMoX9D0QRs5Ht3HodnX6L914rUvSIOZW6/IWXGCdHU79pw2bk6DBaqKqVdQhCYuOJGcOxw1EFZl6ac2DNhx8b3eqBrYCcQTkix15ID1hSa4Qb8QyLSPn6OqRBN56B1uctKkvKLqGnjPUHo2pODxEDQHd+5m2Xc2nMXiUfqCE7WWki4hejVIy+/ttd1gq8qHGRcNVKUothrcIvuXAOjaMx24AD39IBLD05a5BLm+jloLk9VcaPgCjrLI0T+C+JkEbPmJkGZhyoJdaEjj1nSyujl1y0vMWwtNGb3f+IFz3oU6wsHOz7DWOBjiWS3+YuBEQZC4hLxU9cEWtNgRvuSOA8UEHQA6vjmhAwV3LLy/P2RXyEsyvoGg6mFMyhPpvSkUvGvi/4QjFPzVA==;NY5e3l7aB5tl6V2MfXsexQ=="
 ---

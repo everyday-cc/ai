@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3704569/nvidia-flexes-generativ
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704569/nvidia-flexes-generative-ai-muscle-at-siggraph-with-new-gpus-development-software.amp.html"
 type: article
 quality: 68
-heat: 118
+heat: 98
 published: true
 
 provider:
@@ -27,29 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s FlexiCubes uses generative AI to create 3D meshes"
-    excerpt: "Nvidia has launched FlexiCubes, a new way to use AI to generate 3D meshes for a wide range of 3D applications."
-    publishedDateTime: 2023-08-11T13:01:00Z
-    webUrl: "https://venturebeat.com/ai/nvidias-flexicubes-uses-generative-ai-to-generate-3d-meshes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Nvidia announces updated GH200 Grace Hopper GPU with HBM3e memory for generative AI workloads"
-    excerpt: "Nvidia has announced an updated version of its GH200 'superchip,' which will be the first GPU in the world to include HBM3e memory."
-    publishedDateTime: 2023-08-09T15:26:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-updated-gh200-grace-hopper-gpu-with-hbm3e-memory-for-generative-ai-workloads/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 43
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/GH200_HBM3e.2e16d0ba.fill-1200x630.png"
-        width: 1124
-        height: 592
-        isCached: true
   - title: "AI powerhouse Nvidia releases toolkit that allows developers to quickly create, test generative models"
     excerpt: "Nvidia on Tuesday announced the AI Workbench, a new toolkit that will helps developers to more quickly create, test, and customize generative AI models."
     publishedDateTime: 2023-08-10T01:48:00Z

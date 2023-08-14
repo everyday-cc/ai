@@ -43,20 +43,15 @@ related:
         width: 1200
         height: 771
         isCached: true
-  - title: "Yes, you can deploy AI responsibly and effectively"
-    excerpt: "Agencies often ponder whether to apply AI to citizen interactions under the customer experience movement, or to making internal operations more efficient. But the two are connected, said Susan"
-    publishedDateTime: 2023-08-09T15:58:00Z
-    webUrl: "https://federalnewsnetwork.com/federal-insights/2023/08/yes-you-can-deploy-ai-responsibly-and-effectively/"
+  - title: "How to use AI to create a logo for free"
+    excerpt: "Generative AI is perfect for producing code, writing letters, and creating images. But how does it fare generating logos?"
+    publishedDateTime: 2023-08-10T18:44:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-use-ai-to-create-a-logo-for-free/"
     type: article
     provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/08/ibm-octo-interview-2.png"
-        width: 857
-        height: 551
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
 
 secured: "ONfDU+lICmL50+RsWmbwg5yxAhi25o+ZR8NpJLxcp+Ol9keEQvJa7RxSSCK2P2KG0hGzaU/hTMgjKzm3JasNOCEXp9RCVxxrA7gCoYwJf86QWqjOPDrnaJ6Y1dEqv9SKqbxalvDT7M1zGkpVYC/WtP4040p4JbVmXAQ4euFpeafLAUlhdr0liQTRtQ9Ju2Ay5ryUUcz5DQKmpEzA9w0ABOdFfpVWwjFOSlZt2hl2fbvDmsxOsmuHsDFeiQkW2aOGqaQm6F50XKxD4sztYQtjO8Jt3kNFrtFn0awIz3Q1kTUkmKHTRjK4XEIfGrJ+2ZX0DlF5FAIFhzKH9Xw9Q3uyXQaBSHbpPg2H1p44tdKFTXDK4IxOxFtF0OWC15GdoIw5YxjjVUz9lnMNE277yiGo1e374zIjCa6c4ygxFAWOGOuTKES28gbI0pYQiwOOPhhPjAlEUFG1Z1YtiRlQ08HYf+HSiod/an1hpc0svKdzAlqUkictLx307VnBGVyh1E/jcPMdX5S9ZLnLP5W05frN3A==;xaYsxSmh2l/hIcz+f8O2Ag=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://time.com/6302761/ai-risks-autonomy/"
 webUrl: "https://time.com/6302761/ai-risks-autonomy/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Time
@@ -29,22 +29,101 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom Is Using You to Train AI. So Will Everyone Else"
-    excerpt: "The tech company caught heat for feeding customer data into its machine learning systems — but they are not alone"
-    publishedDateTime: 2023-08-10T00:00:00Z
-    webUrl: "https://www.rollingstone.com/culture/culture-news/zoom-ai-personl-data-1234802844/"
-    ampWebUrl: "https://www.rollingstone.com/culture/culture-news/zoom-ai-personl-data-1234802844/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-news/zoom-ai-personl-data-1234802844/amp/"
+  - title: "How to take action against AI bias"
+    excerpt: "Given the growing popularity of ChatGPT and generative AI, and the emergence of synthetic data (or artificially manufactured information), data scientists must be the custodians of data. Training data scientists to better curate data and implement ethical practices for collecting and cleaning data will be a necessary step."
+    publishedDateTime: 2023-08-14T09:03:00Z
+    webUrl: "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.html"
+    ampWebUrl: "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html"
     type: article
     provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 59
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2023/08/Zoom-AI.jpg?crop=0px%2C134px%2C1800px%2C1014px&resize=1600%2C900"
-        width: 1600
-        height: 900
+      - url: "https://images.idgesg.net/images/article/2018/01/diversity_team_collabotion_paper-cutout-people-100745850-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Education Artificial Intelligence Cheating"
+    excerpt: "Faculty members engage in discussion during a teaching circle on artificial intelligence on Wednesday, Aug. 9, 2023, at Temple University in Philadelphia. Educators say they want to embrace the techno"
+    publishedDateTime: 2023-08-10T04:01:00Z
+    webUrl: "https://www.goshennews.com/news/national_news/education-artificial-intelligence-cheating/image_9e8f6e8f-ec1c-5508-bf47-11480663587f.html"
+    type: article
+    provider:
+      name: The Goshen News
+      domain: goshennews.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/assets/v3/editorial/9/e8/9e8f6e8f-ec1c-5508-bf47-11480663587f/64d46404761a9.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Foundations Seek to Advance AI for Good, Protect Against Threats"
+    excerpt: "While technology experts sound the alarm on the pace of AI development, philanthropists have been responding with an uptick in grants."
+    publishedDateTime: 2023-08-14T08:50:00Z
+    webUrl: "https://businessjournaldaily.com/foundations-seek-to-advance-ai-for-good-protect-against-threats/"
+    type: article
+    provider:
+      name: Business Journal Daily
+      domain: businessjournaldaily.com
+    quality: 39
+    images:
+      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/08/artificial-intelligence.png"
+        width: 925
+        height: 520
+        isCached: true
+  - title: "Fiction Writers Fear The Rise Of AI, But Also See It As a Story To Tell"
+    excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity. More than 10,000 of them endorsed an open letter from the Authors Guild this summer,"
+    publishedDateTime: 2023-08-13T15:51:00Z
+    webUrl: "https://www.wccbcharlotte.com/2023/08/13/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell/"
+    type: article
+    provider:
+      name: WCCB
+      domain: wccbcharlotte.com
+    quality: 37
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2023/08/f/y/i-am-code.jpg"
+        width: 900
+        height: 579
+        isCached: true
+  - title: "How to Prevent an AI Catastrophe"
+    excerpt: "Unfortunately, the researchers quickly discovered that their AI tool would synthesize chemicals far more dangerous than Advil. The program was happy to craft instruction to produce a World War I–era chemical weapon and a common date-rape drug."
+    publishedDateTime: 2023-08-14T04:52:00Z
+    webUrl: "https://www.foreignaffairs.com/world/how-prevent-ai-catastrophe-artificial-intelligence"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/11/RTSL4H92.JPG?itok=-vHGIUKv"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fiction writers fear the rise of artificial intelligence, but also see it as a story to tell"
+    excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity."
+    publishedDateTime: 2023-08-13T10:20:00Z
+    webUrl: "https://www.wishtv.com/news/entertainment-news/fiction-writers-fear-the-rise-of-artificial-intelligence-but-also-see-it-as-a-story-to-tell/"
+    type: article
+    provider:
+      name: WISH-TV
+      domain: wishtv.com
+    quality: 26
+    images:
+      - url: "https://www.wishtv.com/wp-content/uploads/2023/08/AI_Books_AP23221693062073-scaled.jpg"
+        width: 2560
+        height: 1897
+        isCached: true
+  - title: "Fiction writers fear the rise of AI, but also see it as a story to tell"
+    excerpt: "Crime writer Jeffrey Diger, known for his thrillers set in contemporary Greece, is working on a novel touching upon AI and the metaverse, the outgrowth of being “continually on the lookout for what’s percolating on the edge of societal change,” he said."
+    publishedDateTime: 2023-08-13T17:52:00Z
+    webUrl: "https://www.kvue.com/article/news/nation-world/artificial-intelligence-fiction-book-writers/507-603f0413-538e-4d35-9161-74c1d09cd9aa"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 17
 
 secured: "2Jcc9cLUquMPjCLItHweeumEyy/BBKTGQMBPkSnxR+y2LyO+z03bYTnHqo12CunQe5ooy6KXyAfQySPowx+JTXp/RYZ+UsY3S1bpNM0y5e7ayZtpLMmo8Il8a/Vi1EDO5OOih9yZo7d/l+yI9i1uTS9WEl3gLpr3f33UUxYqnBbtcuPsVEaQS7n2hWhu4siT5AxwCTC26fSz7FOmBHoit642BM4K+Rilq8jAF9LBvuf+19V7UW4sDn7lZseoHF05QeI9dypxMynUDhS1C8OLLB8v/4+czUh65Dh0IJfVxlK3/1Yz6iF2Q7ltgCmeBm0mouJFsN+9sS7TEitA/gDAVwz6mPlAG44XGuMs9kma+mU=;hriBL7FtIETVmzen2kMCDw=="
 ---

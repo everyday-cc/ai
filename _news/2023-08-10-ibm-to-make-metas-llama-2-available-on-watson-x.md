@@ -57,20 +57,6 @@ related:
         width: 948
         height: 532
         isCached: true
-  - title: "IBM to Make Llama 2 Available Within Its Watsonx AI and Data Platform"
-    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to host Meta's Llama"
-    publishedDateTime: 2023-08-09T15:59:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
-        width: 300
-        height: 235
-        isCached: true
   - title: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform"
     excerpt: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform - As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to"
     publishedDateTime: 2023-08-10T11:21:00Z
@@ -85,20 +71,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "IBM to host Meta’s Llama 2 for enterprise AI development"
-    excerpt: "IBM Corp. today said it will host Meta Platforms Inc.’s Llama 2, a 70-billion-parameter large language model, in the watsonx.ai studio enterprise artificial intelligence development platform it announced in May. Early access is now available to select clients."
-    publishedDateTime: 2023-08-09T16:33:00Z
-    webUrl: "https://siliconangle.com/2023/08/09/ibm-host-llama-2-enterprise-ai-development/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Llama__2-1920x720-1.jpg"
-        width: 1920
-        height: 720
-        isCached: true
   - title: "IBM Collaborates With Meta to Integrate Llama 2 into Watsonx.ai Platform"
     excerpt: "IBM announced that it would host Meta's Llama 2-chat 70 billion parameter model in the watsonx.ai studio, with early access  available to select clients and partners."
     publishedDateTime: 2023-08-09T18:33:00Z
@@ -109,6 +81,6 @@ related:
       domain: analyticsindiamag.com
     quality: 33
 
-secured: "FlqGLe5WC/z7BZKm4pwm7T1lOLNYZlgxu1zmfYT7KQoohVHjX5PJdCeZtrwfgHl8tRpstdo23O40HhKFTdwUzgkOn1+W2Ao0z4wvTHLYY0dsv0pBgNT1Vkow7/GDysjB1tt7ZAdMBRkIRswCNXPDszK/MMvt6wUkSb6js0sMvmWdmXIxuRW1BJml/ufVDj8Jv6h1qG8BuiDBQQ/GywH6cNtXQx7aKzxnCObzEH1PgPPO1qu4JB8v/2wMS7EVLWIRmSFzABSAHZWtjfBjSgTtjHMcc9vxqsG6Y0u7J2YxdKocT4O9IdLcNEA+v81Dc66Bh9rVNSwTJ9sAGlssxHGGsCfE/sX4wG+ZS7FgutJD8LY=;LdNBvajV/qgqxO3AVID5Sg=="
+secured: "j4L2WmedCjBIttFSGPRth9zi+jPD0hCwEey789G1PdRvrsM7FT5vfoOy9f3BlmDN219HFCMtsXUFOAY0muu8wV89nSqa0PzQflpDzcLBcqheoV9wDQJMXftAOiqnkcbfNgvAcnm65X+EOA9aTd9gW480BnyU6vtamxqMkYDVJqkozVw1VhYrZlMiXjA8IiJU4l+TmsGiMcNaIx3k9CPq2vzzRyW8xbwIH/EZerSQ+3Ece9Ws80YslkolmsM3kGhY6aRLH3DChC3kARLNWOrBowyNGsnogVPMyVUwZj+f7FMuMZAb4HWHMDG9iAEN4xhRSyC8eEvpQctWyUQL81ElWYaMtB3QPzKVKgKgs40OiL9uHxxXbuDWcMYdpU/NNRO7MxgBjT70+7HN9LR1tq32ctZjj0tDTh+mcdl5m3shCzxbfzaKAAhlpqLyZTOpMHWIzfOgx7aCK4fTFqXfZoHrWao79yWW2shF9IaHk3qvoCp8hb3hi6eG+LlkGfuc3UBB1WCxqYIpR1V7GfeHZquOpw==;V33cSVVcrkSiFIUhn/0BXA=="
 ---
 

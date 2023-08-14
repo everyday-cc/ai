@@ -40,20 +40,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Announcing US$5 million in Grand Challenges AI grants to spur local innovation for global good"
-    excerpt: "Nearly 50 projects are receiving up to $100,000 to pursue the use of AI to solve problems in global health and development."
-    publishedDateTime: 2023-08-09T15:43:00Z
-    webUrl: "https://www.gatesfoundation.org/ideas/articles/grand-challenges-ai-rfp-recipients-2023"
-    type: article
-    provider:
-      name: Bill & Melinda Gates Foundation
-      domain: gatesfoundation.org
-    quality: 25
-    images:
-      - url: "https://www.gatesfoundation.org/-/media/gfo/5ideas_articles/articles/20230809-grand-challenges-ai-rfp-recipients-2023/hero_ideas_grand-challenges-rfp_ga17166192_ae652228_08092023_1600x1000.jpg"
-        width: 1600
-        height: 1000
-        isCached: true
 
 secured: "4l3zeCf1M/8lbAYG287T3QjMnmKePoOm7ZhJwqN0HIuM/hHkiJFPdzMgDi27Yz+pqbid/QcG9v7/D73bjx4T61gayqCOrl354T3NnULqd4rDxDiIzw5XWRWhQgiNtgBcbGncvzakF9sq370HZjLj1AJ5VaDLXnhCj6iPmBlwSZZrcOa/8RYGckcA7OGklAH4K0Ka2gFQ9YvuoquFdZdDyGSADClbthRaD/pLurAHVXLp6Ssw6UE9onRGvYij8plE1ofapLBcvQ5e0c8qUSObg0oeG0xcCDMp31fABv7fyY06lBLvXN3x0eAs8i4RV9flGvbFb5sFempW5rEEr4RIlKd1EFfWpEMzlsmen/hw5SCr3cX6oPCUUgjzkQWKLkb+m9DIGv/POeCkSmLN1uagrtrsNC94Y5wGD9q80uCZWFmXd5D9USkzqJNJ+yPdRsXpRdkgHf6gEO/2cbtxOrWMt2FhOU4MgsDQIJQGBNlC2uqXIK0g5HMEfSNQ60KK09bD0+vrJuYNYrnDi5r6Ek2LBQ==;o3WcgMFxP3mgx0czww0zew=="
 ---

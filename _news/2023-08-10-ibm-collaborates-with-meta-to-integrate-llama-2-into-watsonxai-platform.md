@@ -65,20 +65,6 @@ related:
         width: 948
         height: 532
         isCached: true
-  - title: "IBM to Make Llama 2 Available Within Its Watsonx AI and Data Platform"
-    excerpt: "As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to host Meta's Llama"
-    publishedDateTime: 2023-08-09T15:59:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
-        width: 300
-        height: 235
-        isCached: true
   - title: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform"
     excerpt: "IBM Plans to Make Meta's Llama 2 Available within its Watsonx AI and Data Platform - As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM plans to"
     publishedDateTime: 2023-08-10T11:21:00Z
@@ -92,20 +78,6 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/Lh7Oo24A.jpg"
         width: 570
         height: 367
-        isCached: true
-  - title: "IBM to host Meta’s Llama 2 for enterprise AI development"
-    excerpt: "IBM Corp. today said it will host Meta Platforms Inc.’s Llama 2, a 70-billion-parameter large language model, in the watsonx.ai studio enterprise artificial intelligence development platform it announced in May. Early access is now available to select clients."
-    publishedDateTime: 2023-08-09T16:33:00Z
-    webUrl: "https://siliconangle.com/2023/08/09/ibm-host-llama-2-enterprise-ai-development/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Llama__2-1920x720-1.jpg"
-        width: 1920
-        height: 720
         isCached: true
 
 secured: "seP2CQu/uHBVVPnG8w8fmNBdrC+Nwa8I05NWwE2uI/qnXbODwwU2B/sAdVvW3KY7vXqQQ+9FC1X7BZF0cx9H7OQXTIDot9N+qwNl9rRRasFgE8oK3h+SBsZZmJDL6X65dkfhw3VvZ4NSl7CALux2KlItu3JfkEo5X2jk8D75hAEcRQqaYwhJ3FxoctWYnTV7MKA3eEty6Wb+yMNvqhVMqPfjbGlDoWc/LnQl+gTeBqQ5SVNkBZ1ogo+eruWKgaOwF+v41MJdpjcif3Ow6R8E98fd0OWsUydLGfdFswpnSmnEsf7+AzSdIH0ONIdB8+QJ/JPGjmzS9rND45uZCSrxx7D27COUKqUrldFU3zeZ24FHP5nGv0Rnyzj5gwLs/oDSm4Jztx3PDDnuf5uggjb2D2xBkgd7Rx60lu06t8ZJLO4RiGHscIMe9XQYaHPXLGEmE4hFsDmJ+4j5+g1jjr9sBCgKFsiRXC5UUFH/IvuPzUpm+PHXOzCq5pIKavMrSL7sBhdAkYGtYxNwezf2Z1MNBA==;hfSd+IlinQZvrkzJYgZyTw=="

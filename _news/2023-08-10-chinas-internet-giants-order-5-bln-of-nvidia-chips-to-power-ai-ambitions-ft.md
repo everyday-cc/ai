@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/chinas-internet-giants-order-5-
 webUrl: "https://www.reuters.com/technology/chinas-internet-giants-order-5-bln-nvidia-chips-power-ai-ambitions-ft-2023-08-09/"
 type: article
 quality: 80
-heat: 270
+heat: 260
 published: true
 
 provider:
@@ -230,15 +230,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "China’s internet giants in $7.6b AI chip-buying frenzy"
-    excerpt: "Baidu, ByteDance, Tencent and Alibaba are rushing to buy chips vital to building AI systems, amid concerns US President Joe Biden will soon clamp down on their export."
-    publishedDateTime: 2023-08-10T02:58:00Z
-    webUrl: "https://www.afr.com/world/asia/china-s-internet-giants-in-7-6b-ai-chip-buying-frenzy-20230810-p5dvga"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 34
   - title: "Nvidia Is Down, But AI Chip Juggernaut Not Down For The Count"
     excerpt: "Nvidia Corp. (NASDAQ: NVDA) skidded 4.72% in heavy turnover on August 9, ending the session below its 50-day moving average for the first time since early January. Shares were essentially flat in after-hours trading."
     publishedDateTime: 2023-08-11T18:19:00Z

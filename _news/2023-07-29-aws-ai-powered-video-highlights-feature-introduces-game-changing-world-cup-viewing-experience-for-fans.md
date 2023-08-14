@@ -1,32 +1,26 @@
 ---
 category: news
 title: "AWS AI-powered video highlights feature introduces game-changing World Cup viewing experience for fans"
-excerpt: "The technology utilizes services from AWS, including Amazon Rekognition. \"This is leveraging computer vision and a lot of other services from AWS to help us develop what they did for the World Cup ..."
-publishedDateTime: 2023-07-29T01:59:00Z
-originalUrl: "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans"
-webUrl: "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans"
-ampWebUrl: "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans.amp"
+excerpt: "Sports fans continue to seek a dynamic viewing experience whenever they decide to tune into a live sporting event. The advancements in technology have only raised expectations. Creative uses of graphics,"
+publishedDateTime: 2023-07-29T10:00:00Z
+originalUrl: "https://www.wgmd.com/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-for-fans/"
+webUrl: "https://www.wgmd.com/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-for-fans/"
 type: article
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WGMD
+  domain: wgmd.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/07/1200/675/Womens-World-Cup.jpg?ve=1&tl=1"
-    width: 1200
-    height: 675
+  - url: "https://www.wgmd.com/wp-content/uploads/2022/04/Logo-HighRes.png"
+    width: 600
+    height: 242
     isCached: true
 
-secured: "2VudOeQnId7c+M5gnGjpIuuOrnWzmpb/z+S0qDIxAiNzw9y8KVs/em8off7IeznYnWQvD81MAV8+AK5vLxXRy9ydVI/y4UrCeaF9/lkanfEFplp7xwCP6JmPIv08cdSzWummhEMXjU4KzZOUtSAJDFf5ZTcL8Tb1FHoAw0GfYucJUPY2r4QbSB1w/NRSimMWAuAleWSv2WdvB5sRW0nY3VtWejI1R6+dTxh1dYirTO+t7lLjHW5b4ct9VpPDIbBhcivpXgb5CNLrdsMLqsdKxre0zQzemmU9d+12wKCRWJ3ogvRLdPmf24GmmXzyfS1Vmrgj+Zwj1dyPHQHiFq2wATuNrY2QM3HB6Ze2IDNHyo0=;K0bjoWAAvPa6Y+6cPlQLpQ=="
+secured: "p3B9t/hAfqk1E42xntacjWi35t6IvAawZV8ToJfZ8vGSQnP4Cj6ngAx38Vf/pMDXKv+PEvCy4PT5AZZbfCTLOI46eRPQktEN6sc/1f6rBG8fN37vSNwCK+yIGgUem3ayYphG74+8qJpK9beP9vwvhgrGKeE+DIaVNNDkCzf+dyUyeF+2pJBamecEH04nKFo7/1mefGOejfaxd26C44SQpTFnDevmzVo1WhdcOCjbIxFatQVBDa/+EHoIYlMfrWBkpjP2Vl4xDdDmTyFVhXTDHZZDomDGUhIm8tSH7OHzu2twy7U20NebPy5uLRySuoWNGXUkf0oBZgNLPjihPDBg+NVScgWo5iFxLT8mZRPa670=;6iAIjbq+yvQusmHC070diw=="
 ---
 

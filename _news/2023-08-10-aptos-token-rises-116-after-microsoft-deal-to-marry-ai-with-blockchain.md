@@ -7,7 +7,7 @@ originalUrl: "https://cointelegraph.com/news/aptos-token-surges-after-partner-mi
 webUrl: "https://cointelegraph.com/news/aptos-token-surges-after-partner-microsoft"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and Aptos Blockchain Partner to Revolutionize Web 3.0 and AI Integration"
-    excerpt: "Microsoft partnered with Aptos Labs, a layer 1 innovative blockchain platform co-founded by former Facebook employee"
-    publishedDateTime: 2023-08-09T16:28:00Z
-    webUrl: "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/"
-    ampWebUrl: "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 68
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/microsoft-aptos-web-3-ai.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Aptos Price Prediction as Microsoft Partners with Aptos on New AI Blockchain Products – Can APT Reach $100?"
     excerpt: "Aptos (APT) jumped on Wednesday on the news of the Microsoft AI partnership, but could have a long way to run to the upside yet."
     publishedDateTime: 2023-08-09T17:40:00Z

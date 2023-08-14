@@ -2,6 +2,285 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-06-06-ai-for-value-investors-megacap-tech-etn-dlr.md",
+      "title": "AI For Value Investors: MegaCap Tech, ETN & DLR",
+      "excerpt": "No doubt, the big news on the individual stock front was the euphoria surrounding just about any stock having anything to do with artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/",
+      "originalUrl": "https://www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647e71f5e8e43bc88257b388/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/amp/",
+      "publishedDateTime": "2023-06-05T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-aws-announces-general-availability-of-amazon-security-lake.md",
+      "title": "AWS Announces General Availability of Amazon Security Lake",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Security Lake, a service that automatically centralizes an organization’",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
+      "originalUrl": "https://indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
+      "publishedDateTime": "2023-06-05T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-eu-asks-big-tech-to-label-ai-generated-content.md",
+      "title": "EU asks Big Tech to label AI-generated content",
+      "excerpt": "The European Commission has called on online platforms to detect and label AI-generated content to tackle disinformation. Can the EU keep pace with tech developments?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalheraldindia.com/world/eu-asks-big-tech-to-label-ai-generated-content",
+      "originalUrl": "https://www.nationalheraldindia.com/world/eu-asks-big-tech-to-label-ai-generated-content",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/nationalherald%2F2023-06%2F0ca0dd0d-d9f8-454c-af72-aa1acc943db1%2F65830692_403.jpg?rect=0%2C18%2C940%2C494&w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
+          "width": 1200,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech-to-label-ai-generated-content",
+      "cdnAmpWebUrl": "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech-to-label-ai-generated-content",
+      "publishedDateTime": "2023-06-05T19:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Herald",
+        "domain": "nationalheraldindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-the-future-of-education-disruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5.md",
+      "title": "The Future Of Education - Disruption Caused By AI And ChatGPT: Artificial Intelligence Series 3 Of 5",
+      "excerpt": "It is crucial for educational systems to adapt quickly and integrate AI into teaching/learning. However, educational systems are slow to adapt and full of bureaucracies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/",
+      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647e8876a92e58b45e214425/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/",
+      "publishedDateTime": "2023-06-05T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-collaborative-robot-leverages-motion-control-speed-and-agility.md",
+      "title": "Collaborative Robot Leverages Motion Control Speed and Agility",
+      "excerpt": "With that in mind, ABB has identified three growing trends in ... covering automation and control, motion control, power transmission, robotics, and fluid power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/YuMi%20VIII.jpg",
+          "width": 7360,
+          "height": 5197,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-purdue-ethics-conference-tackles-big-picture-ai-challenges.md",
+      "title": "Purdue ethics conference tackles big-picture AI challenges",
+      "excerpt": "IEEE Ethics-2023 conference participants Sorin Adam Matei (left), professor of communication, and JP Messina, assistant professor of philosophy, participate in a panel discussion on “Perspectives from Liberal Arts on the Practical Turn in AI Ethics.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.purdue.edu/research/features/stories/purdue-ethics-conference-tackles-big-picture-ai-challenges/",
+      "originalUrl": "https://www.purdue.edu/research/features/stories/purdue-ethics-conference-tackles-big-picture-ai-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.purdue.edu/research/features/wp-content/uploads/2023/06/IEEE.-Ethics-Panel-800x450-1.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Purdue University",
+        "domain": "purdue.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-tsa-expands-controversial-facial-recognition-program.md",
       "title": "TSA expands controversial facial recognition program",
       "excerpt": "At 25 airports in the U.S. and Puerto Rico, the TSA is expanding a controversial digital identification program that uses facial recognition. This comes as the TSA and other divisions of Homeland ...",
@@ -921,291 +1200,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-improving-ai-chips-with-the-help-of-human-brain-cells.md",
-      "title": "Improving AI chips with the help of human brain cells",
-      "excerpt": "AI is modeled on the human brain. To copy the brain's functions, an Australian startup has grown human brain cells on electrodes in a petri dish. This means the new",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/science/improving-ai-chips-with-the-help-of-human-brain-cells/video_686ad286-bc62-5d3f-a872-9d00e912b2fe.html",
-      "originalUrl": "https://omaha.com/news/science/improving-ai-chips-with-the-help-of-human-brain-cells/video_686ad286-bc62-5d3f-a872-9d00e912b2fe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/6/86/686ad286-bc62-5d3f-a872-9d00e912b2fe/647a38cdd5f2b.image.jpg?crop=940%2C494%2C0%2C17&resize=940%2C494&order=crop%2Cresize",
-          "width": 940,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-stability-ai-ceo-says-hes-sad-about-report-he-exaggerated-his-resume.md",
-      "title": "Stability AI CEO says he’s ‘sad’ about report he exaggerated his resume",
-      "excerpt": "Emad Mostaque, the CEO of Stability AI, spoke with VentureBeat for a Q&A about the recent Forbes report and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/stability-ceo-says-hes-sad-about-report-he-exaggerated-his-resume/",
-      "originalUrl": "https://venturebeat.com/ai/stability-ceo-says-hes-sad-about-report-he-exaggerated-his-resume/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/VB22_StabilityA1_03-e1685971474825.jpg?fit=750%2C500&#038;strip=all",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-master-generative-ai-for-free-from-googles-courses.md",
-      "title": "Master Generative AI for Free from Google’s Courses",
-      "excerpt": "At Google I/O 2023, Google, one of the leading players in this space, introduced a suite of generative AI features for Gmail, unveiled the advanced PaLM 2 language model, showcased Med-PaLM 2 for medical applications,",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/master-gen-ai-for-free-from-google/",
-      "originalUrl": "https://analyticsindiamag.com/master-gen-ai-for-free-from-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/09/Googles-Birthday-Evolution-of-Googles-Capability-Over-The-Years.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-cutting-through-the-hype-smart-deployment-of-ai-for-growth.md",
-      "title": "Cutting Through The Hype: Smart Deployment Of AI For Growth",
-      "excerpt": "The development and adoption of AI are stochastic, meaning that the outcome must account for variability and uncertainty.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-through-the-hype-smart-deployment-of-ai-for-growth/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-through-the-hype-smart-deployment-of-ai-for-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6453b86b434b3a6451eabd2b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-through-the-hype-smart-deployment-of-ai-for-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-through-the-hype-smart-deployment-of-ai-for-growth/amp/",
-      "publishedDateTime": "2023-06-05T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-google-pixel-8-could-get-a-major-gaming-and-ai-boost-from-leaked-tensor-g3-chip.md",
-      "title": "Google Pixel 8 could get a major gaming and AI boost from leaked Tensor G3 chip",
-      "excerpt": "One of the biggest upgrades likely to be offered by the Google Pixel 8 and Pixel 8 Pro is the chipset. We fully expect Google to replace the Tensor G2 found in the Pixel 7 series with a new Tensor G3, and now that chipset has leaked in full.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/google-tensor-g3",
-      "originalUrl": "https://www.techradar.com/news/google-tensor-g3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/LJ7EmqJytnTPW6r4ag3GmZ-1200-80.jpg",
-          "width": 1000,
-          "height": 561,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-safe-security-claims-to-predict-data-breaches-with-new-generative-ai-offering.md",
-      "title": "SAFE Security claims to predict data breaches with new generative AI offering",
-      "excerpt": "SAFE Security’s Cyber Risk Cloud of Clouds generates likelihoods for different risk scenarios based on an organization’s cybersecurity posture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/3698728/safe-security-claims-to-predict-data-breaches-with-new-generative-ai-offering.html",
-      "originalUrl": "https://www.csoonline.com/article/3698728/safe-security-claims-to-predict-data-breaches-with-new-generative-ai-offering.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/12/digital-ball-hand-prediction-100744622-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/3698728/safe-security-claims-to-predict-data-breaches-with-new-generative-ai-offering.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3698728/safe-security-claims-to-predict-data-breaches-with-new-generative-ai-offering.amp.html",
-      "publishedDateTime": "2023-06-05T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

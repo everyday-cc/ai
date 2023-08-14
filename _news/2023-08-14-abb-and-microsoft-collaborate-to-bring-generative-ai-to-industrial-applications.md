@@ -25,218 +25,118 @@ images:
     isCached: true
 
 related:
-  - title: "Generate creative advertising using generative AI deployed on Amazon SageMaker"
-    excerpt: "Creative advertising has the potential to be revolutionized by generative AI (GenAI). You can now create a wide variation of novel images, such as product shots, by retraining a GenAI model and providing a few inputs into the model, such as textual prompts (sentences describing the scene and objects"
-    publishedDateTime: 2023-08-09T15:51:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker/"
+  - title: "Find Out How Microsoft’s AI-Powered Shopping Tools Can Save You Money—And Time"
+    excerpt: "According to the company, Microsoft Edge has offered $3.7 billion in savings to shoppers worldwide in the last year thanks to built-in shopping features"
+    publishedDateTime: 2023-08-13T15:19:00Z
+    webUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/"
+    ampWebUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
+      name: Forbes
+      domain: forbes.com
     quality: 100
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/23/ml14623-pic1.png"
-        width: 625
-        height: 270
-        isCached: true
-  - title: "Zero-shot text classification with Amazon SageMaker JumpStart"
-    excerpt: "Natural language processing (NLP) is the field in machine learning (ML) concerned with giving computers the ability to understand text and spoken words in the same way as human beings can. Recently, state-of-the-art architectures like the transformer architecture are used to achieve near-human performance"
-    publishedDateTime: 2023-08-11T14:56:51Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/zero-shot-text-classification-with-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/31/ML-13226-Picture6-1219x630.png"
-        width: 1219
-        height: 630
-        isCached: true
-  - title: "Generative AI Is Not A Tool; It's An Employee"
-    excerpt: "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team."
-    publishedDateTime: 2023-08-11T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d541f1b585aa1bcfb1ea3f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d64c192cef1748f0b1ea3f/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 608
+        height: 554
         isCached: true
-  - title: "Is Generative AI Destroying The Internet?"
-    excerpt: "Explore the astonishing capabilities of generative AI as it blurs the lines between reality and digital deception, and discover the urgent race to safeguard the truth."
-    publishedDateTime: 2023-08-14T06:21:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
+  - title: "Microsoft Partners With Aptos Labs For Web3 and AI"
+    excerpt: "On Wednesday, Microsoft, the American tech giant, announced it was partnering with layer-1 blockchain Aptos Labs to collaborate on AI and web3. The latter will be using Microsoft Azure OpenAI Service to accelerate global web3 adoption. \"Artificial ..."
+    publishedDateTime: 2023-08-11T04:03:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/microsoft-partners-with-aptos-for-web3-and-ai/457294"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d9c7c62d69c2f7f6635ebe/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 787
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1691725952-Hithere3.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Build a centralized monitoring and reporting solution for Amazon SageMaker using Amazon CloudWatch"
-    excerpt: "In this post, we present a cross-account observability dashboard that provides a centralized view for monitoring SageMaker user activities and resources across multiple accounts. It allows the end-users and cloud management team to efficiently monitor what ML workloads are running, view the status of"
-    publishedDateTime: 2023-08-10T14:48:27Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-centralized-monitoring-and-reporting-solution-for-amazon-sagemaker-using-amazon-cloudwatch/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 75
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/28/ML-13521-dashboard-1260x578.png"
-        width: 1260
-        height: 578
-        isCached: true
-  - title: "Generative AI Is Making Companies Even More Thirsty for Your Data"
-    excerpt: "The outcry over Zoom's tweak to its data policy shows how the race to build more powerful AI models creates new pressure to source training data—including by juicing it from users."
-    publishedDateTime: 2023-08-10T16:00:00Z
-    webUrl: "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/64d430e957ff6ec62db8a934/191:100/w_1280,c_limit/Zoom-User-Data-AI-Training-Fast-Forward-Business-616146659.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Gboard could soon let you use generative AI for proofreading and emojis"
-    excerpt: "The latest Gboard beta uses generative AI for features such as proofreading, creating emoji stickers, and tone suggestions. Read on for more!"
-    publishedDateTime: 2023-08-10T14:13:00Z
-    webUrl: "https://www.androidauthority.com/gboard-beta-generative-ai-proofreading-emojis-3354114/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/07/Gboard-on-Nothing-Phone-2-1200w-675h.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Security For Generative AI That Can Make Or Break Your Enterprise"
-    excerpt: "To mitigate the potential landmines, companies must adopt a zero-trust approach to protect their data and enable access to AI applications. Data protection becomes paramount as the potential for information breaches continues to grow. You can defend your organization against risks related to generative AI by implementing the following strategies."
-    publishedDateTime: 2023-08-11T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/security-for-generative-ai-that-can-make-or-break-your-enterprise/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "Tackling Healthcare’s Biggest Burdens with Generative AI"
-    excerpt: "Spread the loveIn recent years, the healthcare industry has faced numerous challenges. From managing the overwhelming patient data to combating the increasing prevalence of chronic diseases, these burdens have put immense pressure on medical professionals and healthcare systems."
-    publishedDateTime: 2023-08-11T11:25:00Z
-    webUrl: "https://www.thetechedvocate.org/tackling-healthcares-biggest-burdens-with-generative-ai/"
-    type: article
-    provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 54
-    images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/07/laundry-chart-1-1024x861-1-660x400.jpg"
-        width: 660
-        height: 400
-        isCached: true
-  - title: "Legions of DEF CON hackers will attack generative AI models"
-    excerpt: "At the 31st annual DEF CON this weekend, thousands of hackers will join the largest red teaming exercise ever for a group of AI models."
-    publishedDateTime: 2023-08-10T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/legions-of-defcon-hackers-will-attack-generative-ai-models/"
+  - title: "Microsoft changes Services Agreement to add restrictions for AI offerings"
+    excerpt: "Microsoft has added rules and restrictions for its AI offerings in its Terms of Service, that will go into effect on September 30."
+    publishedDateTime: 2023-08-11T17:22:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-changes-services-agreement-to-add-restrictions-for-ai-offerings/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 51
-  - title: "How to use AI to create a logo for free"
-    excerpt: "Generative AI is perfect for producing code, writing letters, and creating images. But how does it fare generating logos?"
-    publishedDateTime: 2023-08-10T18:44:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-use-ai-to-create-a-logo-for-free/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
-  - title: "With Generative AI, Businesses Should Listen More And Generate Less"
-    excerpt: "The implementation of large-scale language analytics promises transformative impacts across various sectors, boosting efficiency and providing insightful analysis."
-    publishedDateTime: 2023-08-11T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/with-generative-ai-businesses-should-listen-more-and-generate-lessamit-ben/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Why Reinforcement Learning Will Save Generative AI"
-    excerpt: "In this contributed article, Kim Stagg, VP of Product for Appen, knows the only way to achieve functional AI models is to use high-quality data in every stage of deployment. As businesses look for pathways to adoption,"
-    publishedDateTime: 2023-08-12T17:34:00Z
-    webUrl: "https://insidebigdata.com/2023/08/12/why-reinforcement-learning-will-save-generative-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
+    quality: 83
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
-        width: 1100
-        height: 550
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
-  - title: "This Audio Startup Is Using AI To Generate ‘Contextual CTV Ads’"
-    excerpt: "Call it the lovechild of dynamic creative optimization and contextual advertising. On Thursday, audio marketing platform Instreamatic released a product for connected TV that generates multiple audio"
-    publishedDateTime: 2023-08-10T14:00:00Z
-    webUrl: "https://www.adexchanger.com/digital-tv/this-audio-startup-is-using-ai-to-generate-contextual-ctv-ads/"
+  - title: "Better Artificial Intelligence Stock: Amazon vs. Microsoft"
+    excerpt: "Amazon and Microsoft are two of the best ways to invest in artificial intelligence ... complete ownership of its AI technology. Moreover, AWS' leading cloud market share could be a powerful ..."
+    publishedDateTime: 2023-08-10T11:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/better-artificial-intelligence-stock:-amazon-vs.-microsoft-0"
     type: article
     provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 37
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
+  - title: "Microsoft, Aptos Labs team up to build new blockchain AI tools"
+    excerpt: "Microsoft predicts that AI will be infused into web3 solutions in a larger scale in the \"coming months and years.\""
+    publishedDateTime: 2023-08-10T06:56:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-aptos-labs-team-build-new-blockchain-ai-tools-1718393"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 54
     images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2023/08/little-green-seedling-shoot-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://d.ibtimes.co.uk/en/full/1716336/microsoft.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Gunderson Launches Homegrown Generative AI App to Accelerate Subject-Matter Expertise"
-    excerpt: "We view this tool as an accelerant for subject matter expertise,” said Gunderson chief innovation officer Joe Green. “It’s not going to produce anything that is done and dusted and ready to go. But it will help attorneys do their jobs better."
-    publishedDateTime: 2023-08-09T22:09:00Z
-    webUrl: "https://www.law.com/americanlawyer/2023/08/09/gunderson-launches-homegrown-generative-ai-app-to-accelerate-subject-matter-expertise/"
+  - title: "Transform your business with Microsoft’s range of Data and AI solutions"
+    excerpt: "Microsoft offers a range of Data and AI solutions that can help businesses transform their data into insights and actions."
+    publishedDateTime: 2023-08-11T08:55:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/503964-transform-your-business-with-microsofts-range-of-data-and-ai-solutions.html"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 32
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2023/08/ChatGD-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
-  - title: "Exploring Generative AI: Applications, Risks, and Future Implications"
-    excerpt: "Embark on a captivating journey into the realm of Generative AI as we unravel its mysteries in our latest blog. Join us as we explore how Generative AI is transforming art, design, content creation, and healthcare."
-    publishedDateTime: 2023-08-11T12:41:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2555410-exploring-generative-ai-applications-risks-and-future-implications"
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 34
+  - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
+    excerpt: "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help ..."
+    publishedDateTime: 2023-08-09T17:22:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20230809sf78393/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 19
-  - title: "Multinationals turn to generative AI to manage supply chains"
-    excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
-    publishedDateTime: 2023-08-13T03:59:00Z
-    webUrl: "https://www.ft.com/content/b7fafed2-9d00-49b0-a281-c1002b139865"
+      name: Morningstar
+      domain: morningstar.com
+    quality: 33
+  - title: "Kyndryl and Microsoft Unveil Enterprise Generative AI Solutions on Microsoft Cloud"
+    excerpt: "Bangalore (Karnataka) [India], August 11: Kyndryl (NYSE: KD), the worlds largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
+    publishedDateTime: 2023-08-12T03:14:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230811/4107737.html"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 28
+  - title: "Kyndryl taps Microsoft generative AI for new service, moves toward future profitability"
+    excerpt: "The IT infrastructure provider announced the joint project with Microsoft on the heels of announcing significant 1Q 2024 earnings where Kyndryl executives said the company will return to profitability in the next year, at least a year ahead of what financial analysts predicted after the company spun out of IBM in November 2021."
+    publishedDateTime: 2023-08-11T01:24:00Z
+    webUrl: "https://www.arnnet.com.au/article/708304/kyndryl-taps-microsoft-generative-ai-new-service-moves-toward-future-profitability/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 26
+  - title: "Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business"
+    excerpt: "Kyndryl, the world’s largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable"
+    publishedDateTime: 2023-08-09T18:28:00Z
+    webUrl: "https://www.datanami.com/this-just-in/kyndryl-and-microsoft-collaborate-to-speed-the-evaluation-and-adoption-of-enterprise-grade-generative-ai-for-business/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 11
 
 secured: "KMmm6XYDFV55pYPYCXxxdNmPurgSYysCfjyN0SrMeKMaJwLe8ztWAuJdJJT2oRCLQMe8Oo5WVP12t10Qtnt8Q7RlMcu8t2wiYobh970hKOT/xlzAe5ZXsxh4pITOlXHFXaDHeWPJit/xFo2ore4m3FH99rgJE//eC3QFIJ69kpZdAXlG3L/CZpFWS8ikK+0vppv2VzbRGWQWKlvNZZRDumB7qEJE7R8hMR7nF+ctnvWgLhzxfr79l0kGM0fxoPIB6vJMGsaWAucHN7PoNS4xRunoHBLRZ6dievUHGnrZqLY4KXf2gJfIRlWEoubaJPZfOmeY7zzTcsvnzLgDy5+0CMR9WWRqWUA905Z5GYhHb9Q=;ZK6aIzsstmBiokndPnMWBg=="
 ---

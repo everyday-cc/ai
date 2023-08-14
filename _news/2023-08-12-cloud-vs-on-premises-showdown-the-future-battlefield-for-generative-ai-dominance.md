@@ -57,6 +57,66 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Generative AI Is Making Companies Even More Thirsty for Your Data"
+    excerpt: "The outcry over Zoom's tweak to its data policy shows how the race to build more powerful AI models creates new pressure to source training data—including by juicing it from users."
+    publishedDateTime: 2023-08-10T16:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64d430e957ff6ec62db8a934/191:100/w_1280,c_limit/Zoom-User-Data-AI-Training-Fast-Forward-Business-616146659.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Security For Generative AI That Can Make Or Break Your Enterprise"
+    excerpt: "To mitigate the potential landmines, companies must adopt a zero-trust approach to protect their data and enable access to AI applications. Data protection becomes paramount as the potential for information breaches continues to grow. You can defend your organization against risks related to generative AI by implementing the following strategies."
+    publishedDateTime: 2023-08-11T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/security-for-generative-ai-that-can-make-or-break-your-enterprise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Tackling Healthcare’s Biggest Burdens with Generative AI"
+    excerpt: "Spread the loveIn recent years, the healthcare industry has faced numerous challenges. From managing the overwhelming patient data to combating the increasing prevalence of chronic diseases, these burdens have put immense pressure on medical professionals and healthcare systems."
+    publishedDateTime: 2023-08-11T11:25:00Z
+    webUrl: "https://www.thetechedvocate.org/tackling-healthcares-biggest-burdens-with-generative-ai/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 54
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/07/laundry-chart-1-1024x861-1-660x400.jpg"
+        width: 660
+        height: 400
+        isCached: true
+  - title: "Legions of DEF CON hackers will attack generative AI models"
+    excerpt: "At the 31st annual DEF CON this weekend, thousands of hackers will join the largest red teaming exercise ever for a group of AI models."
+    publishedDateTime: 2023-08-10T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/legions-of-defcon-hackers-will-attack-generative-ai-models/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 51
+  - title: "Why Reinforcement Learning Will Save Generative AI"
+    excerpt: "In this contributed article, Kim Stagg, VP of Product for Appen, knows the only way to achieve functional AI models is to use high-quality data in every stage of deployment. As businesses look for pathways to adoption,"
+    publishedDateTime: 2023-08-12T17:34:00Z
+    webUrl: "https://insidebigdata.com/2023/08/12/why-reinforcement-learning-will-save-generative-ai/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
+        width: 1100
+        height: 550
+        isCached: true
   - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
     excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
     publishedDateTime: 2023-08-11T12:04:00Z

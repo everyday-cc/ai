@@ -41,20 +41,6 @@ related:
         width: 5000
         height: 3333
         isCached: true
-  - title: "Nvidia unveils upgraded chip to power the next gen of AI"
-    excerpt: "Nvidia has announced its next generation AI chip platform which uses the new Grace Hopper Superchip with the world’s first HBM3e processor."
-    publishedDateTime: 2023-08-09T15:38:00Z
-    webUrl: "https://www.techradar.com/pro/nvidia-unveils-upgraded-chip-to-power-the-next-gen-of-ai"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/RqZGLD9cNLDo9TwwpFEFAD-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "+V9zOQZyTSC34qyXb1LBroEGc2UcQ0DHheoBcWhvsIZRab+Y8vaIZQaxHDjdATTGLYBukhgEbh6bkZBwIn2ZFZFbrFRJHj4dV4s9uyzJBu2AygCrVVdngEPej+JHupSgPYGXOy1kNwp3eqSX685gjXAermXWw5ar+6jUEdpkjcvW3BCpwXQXj8lqaJgePF3r95JdVxFCCl7y+yLdMYgo1SFilo3OSKvqayk4B2J6YSPiNd9kV2ULKYroAKKBrE6vGBuCD9b8ore++obaQhfviU/xEQgsDOTWB339OTWyxZjHLJJPe7mLdPAzA5n0xFJWJlLHDezIUmvedT8uzJbsFBKe7BiV3EVpf02G2DTBLmA=;8JAiLs5EHCs6AsQIl8LdAQ=="
 ---

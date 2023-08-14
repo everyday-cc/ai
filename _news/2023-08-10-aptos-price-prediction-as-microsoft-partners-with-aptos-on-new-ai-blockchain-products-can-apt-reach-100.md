@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft and Aptos Blockchain Partner to Revolutionize Web 3.0 and AI Integration"
-    excerpt: "Microsoft partnered with Aptos Labs, a layer 1 innovative blockchain platform co-founded by former Facebook employee"
-    publishedDateTime: 2023-08-09T16:28:00Z
-    webUrl: "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/"
-    ampWebUrl: "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 68
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/08/microsoft-aptos-web-3-ai.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Aptos token rises 11.6% after Microsoft deal to marry AI with blockchain"
     excerpt: "The price of Aptos — the token powering the Aptos Network — rocketed more than 11% after Aptos Labs announced a new partnership with Microsoft."
     publishedDateTime: 2023-08-10T02:23:00Z
