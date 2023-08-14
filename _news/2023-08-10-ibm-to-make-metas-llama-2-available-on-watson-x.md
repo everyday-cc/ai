@@ -41,22 +41,6 @@ related:
         width: 1400
         height: 884
         isCached: true
-  - title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
-    excerpt: "ARMONK, N.Y., Aug. 9, 2023 /CNW/ -- As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM IBM plans to host Meta's Llama 2-chat 70 billion parameter model in ..."
-    publishedDateTime: 2023-08-09T12:07:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33662604/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33662604"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33662604"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 72
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "IBM deepens AI relationship with Meta, plans to add its model to Watson studio"
     excerpt: "IBM continues to expand its relationship with Meta on the frontier of artificial intelligence. Here's what's happening."
     publishedDateTime: 2023-08-10T15:32:00Z
@@ -73,15 +57,6 @@ related:
         width: 948
         height: 532
         isCached: true
-  - title: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses"
-    excerpt: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses (Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language ..."
-    publishedDateTime: 2023-08-09T12:13:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "IBM to host Meta's Llama 2 in Watsonx platform"
     excerpt: "The International Business Machines Corporation (IBM) announced on Wednesday it plans to make Meta Platforms' large language model Llama 2-chat available within its Watsonx.ai platform. \"IBM"
     publishedDateTime: 2023-08-09T14:12:00Z
@@ -150,6 +125,6 @@ related:
       domain: analyticsindiamag.com
     quality: 33
 
-secured: "afyHvB12WUtZY04ZyUroHfdaMBTEJUxJnMTTUrsoj3pNcDlDedE6J83WwTrShcCOToN8hP2RBBe3sFWQHmJ3LoljueVPzyBM5xvIJ9tbV6mgcUhHT57GlqOvD89tO8Nr/BKCyeUjFW7UYy1hV4eNNIks4PiNZsf7Bq7dLnQ1GcTI8Uw17ZQRCqhbR2fu9sm8XCO1NnzjI6+x0r4TU8+zfJzK9/0PMUIqy24wtY3o3NU2zF6Kq/CW8l0E0ih/B+DiS19217v32bPdRG5dS39qJQRRsBSyIuVhlbviH/FzJkNWBYe/iUr6EMGeMGSR4YYqMcvkpMYOObHiNB1uClijmz3cVnNONiys3J1gjHFRq58=;nlhzkLBySZBNRMPQOZOeGA=="
+secured: "WiR4WLBnXDQoOmATeKYPiOVM/zvP1rckS3NSA1j/Msf1tHYv6NFqXJF6wBqEyDdsHpBPaFwdLz+EFCkOGtlkY79imew6prwkclZmd03uvTDVVNnWqthn7BHYuGz/hohF9RUtxqTeacnxWTPteG3BXNZbmfEE50psfVQDAOu7jpoXCI7oK8FGAPzZl73ujfWs9ZMFz33MeslGHE7f03PDxU1XwAo3DXRNwYqO71dodGvp88d0wxN9lc4AkCPIfdOBDVo5MTqUlPexdTpwEhQVYXnvLqFexlrbaNkJwwdgASL/OxcG4WmbVCMdT4GCsMIMzFm5AVcMsTLhMkwTDzkIbojWPMtMMt+KGHbYQ9V2RpuXzQCXD1AfYzLeNxZmA+eoHrQmwdpc2fnd3j6X6GsgUJb4omTlnKDCGgDqbil+Gq28tDr2fOoI1XxszwTF/k5twZHMToBRWLrtCEf9z8aQ8BOIsbCCc64LtAizvZrgyXKaHjyfKPsXxa27OvOsWOaWrRJeo75UpupOun3gFzfbyA==;gIY+Hc4dCBB/pCgrJRwrCw=="
 ---
 

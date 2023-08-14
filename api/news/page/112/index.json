@@ -2,6 +2,162 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2023-06-01-ai-has-created-areas-so-grey-you-could-write-a-song-about-it.md",
+      "title": "AI has created areas so grey, you could write a song about it",
+      "excerpt": "and none have been implanted with a chip. Unfortunately, we're now at a stage where we can no longer easily distinguish between humans and robots. We've not reached the all-controlling level of Skynet yet, but the power of AI today marks a pivotal point ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-has-created-areas-so-grey-you-could-write-a-song-about-it/",
+      "originalUrl": "https://www.zdnet.com/article/ai-has-created-areas-so-grey-you-could-write-a-song-about-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2c398a01a6145e10748f3bc9f2dc34d728e702fb/2023/05/31/4e3affe5-72fc-43b4-80e0-51c48957c5d9/gettyimages-1073941846.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-has-created-areas-so-grey-you-could-write-a-song-about-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-has-created-areas-so-grey-you-could-write-a-song-about-it/",
+      "publishedDateTime": "2023-05-31T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-nvidia-soars-to-1-trillion-market-cap-on-the-back-of-ai-hype.md",
+      "title": "Nvidia Soars to $1 Trillion Market Cap on the Back of AI Hype",
+      "excerpt": "Just last week, Nvidia’s stock rose a startling 26 percent, after the company unveiled better-than-expected quarterly earnings that were tied to its central role in the ongoing “AI revolution.”",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-nvidia-stock-price-gpu-1-trillion-market-cap-1850486906",
+      "originalUrl": "https://gizmodo.com/ai-nvidia-stock-price-gpu-1-trillion-market-cap-1850486906",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/25336e482c69c6b8923398c39836f0dc.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-ai-startup-c3ais-stock-plunges-20-after-softer-revenue-guidance.md",
+      "title": "AI startup C3.ai’s stock plunges 20% after softer revenue guidance",
+      "excerpt": "The company's stock skidded 14% in the minutes leading up to its quarterly financial results. And when C3.ai reported mere minutes before its earnings",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=newsroom-roster",
+      "originalUrl": "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=newsroom-roster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-789589/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66",
+      "publishedDateTime": "2023-05-31T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-aws-picks-biotech-startup-for-ai-accelerator-program.md",
       "title": "AWS picks biotech startup for AI accelerator program",
       "excerpt": "Ordaos, a drug design company, was selected for the AWS Generative AI Accelerator, a mentorship program for companies working with generative artificial intelli",
@@ -1024,145 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures.md",
-      "title": "China warns of artificial intelligence risks, calls for beefed-up national security measures",
-      "excerpt": "The statement underscores the tension between the government’s determination to be technological leaders and concerns about the possible harms of such technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021",
-      "originalUrl": "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230531-xi-jinping-jm-1004-8797e3.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna87021",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021",
-      "publishedDateTime": "2023-05-31T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-microsoft-vets-lead-secretive-education-startup-using-generative-ai-to-help-students-learn.md",
-      "title": "Microsoft vets lead secretive education startup using generative AI to help students learn",
-      "excerpt": "Two decades after selling their startup to Microsoft, Eran Megiddo and Liviu Asnash are going back to their entrepreneurial roots. The longtime Microsoft leaders are the co-founders of Maximal Learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/microsoft-vets-lead-secretive-education-startup-using-generative-ai-to-help-students-learn/",
-      "originalUrl": "https://www.geekwire.com/2023/microsoft-vets-lead-secretive-education-startup-using-generative-ai-to-help-students-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-31-at-7.07.16-AM.png",
-          "width": 1088,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-lg-teams-up-with-canadian-startup-for-ai-chip-development.md",
-      "title": "LG teams Up with Canadian startup for AI chip development",
-      "excerpt": "Tenstorrent, founded in 2016, specializes in AI computer development, as reported by Yonhap. The CEO, Jim Keller, is a renowned microprocessor engineer celebrated for his achievements at AMD and Apple.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/lg-teams-up-with-canadian-startup-for-ai-chip-development-2023-05-31-873619",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/lg-teams-up-with-canadian-startup-for-ai-chip-development-2023-05-31-873619",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/05/lg-logo-1685541471.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/lg-teams-up-with-canadian-startup-for-ai-chip-development-2023-05-31-873619",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/lg-teams-up-with-canadian-startup-for-ai-chip-development-2023-05-31-873619",
-      "publishedDateTime": "2023-05-31T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.columbian.com/news/2023/aug/09/amazon-nations-seek-a-c
 webUrl: "https://www.columbian.com/news/2023/aug/09/amazon-nations-seek-a-common-voice-on-climate-change-and-urge-action-from-the-industrialized-world/"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Amazon nations seek a common voice on climate change and urge action from the industrialised world"
-    excerpt: "Read more about Amazon nations seek a common voice on climate change and urge action from the industrialised world on Devdiscourse"
-    publishedDateTime: 2023-08-09T12:30:00Z
-    webUrl: "https://www.devdiscourse.com/article/headlines/2552681-amazon-nations-seek-a-common-voice-on-climate-change-and-urge-action-from-the-industrialised-world"
-    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2552681-amazon-nations-seek-a-common-voice-on-climate-change-and-urge-action-from-the-industrialised-world?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2552681-amazon-nations-seek-a-common-voice-on-climate-change-and-urge-action-from-the-industrialised-world?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 30
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_11_2019_17_57_13_4143764.jpg?width=1280"
-        width: 1280
-        height: 673
-        isCached: true
-  - title: "Amazon nations seek common voice on climate change, urge action from industrialized world"
-    excerpt: "Eight Amazon nations called on industrialized countries to do more to help preserve the world's largest rainforest as they met at a major summit in Brazil to chart a common course on how to combat climate change."
-    publishedDateTime: 2023-08-09T11:09:00Z
-    webUrl: "https://www.aol.com/news/amazon-nations-seek-common-voice-040913270.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 15
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/soJpoTT2VW8AJ0o2yWrMnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/9e836bebffb138cf26fa9377af62efb8"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "/q8hyumzT2jO4/sH6ltKY0txN0KqUO8Llp4Mx1t9qZDcgSaQVArxW9aL2JfymQeqPbPDP0JkuyB66M+8wK13l1Os92VwIKjG3HGwGNKQrsdBW7AqDVAJMJMZbyipJByDPwGi6vBk+mbW0Hycv/oxydk/Cip869QVzHH8r8JPE3ZoPz8beo4oIBTkOBzSr0imME7LZIAzKY3psboBAw0Uh9cfr9h33D1rYn7VvxJo/MLGnLBlDfMRnDYg9ADcGqHqWtOKyf5DOcGlFDTHCn0hRtH8Jz4uuQTVECRXJMtZlxiptxrbThXG+zLaW/bhxG9+NSJsyhHr2Z3XqsBj1EXkPV98XGQMoGYs54Polw9XxQ4=;tOsuJR6aOwmIY+cxFAFroQ=="
 ---

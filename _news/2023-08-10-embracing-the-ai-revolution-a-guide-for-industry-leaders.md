@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/10/embraci
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -46,17 +46,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Artificial Intelligence: OpenAI’s Revolutionary Web Crawling Bot"
-    excerpt: "OpenAI's advancements with GPTBot, its role in shaping the future AI models like GPT-5, and the company's dedication to navigating the challenges of technology and ethics in the AI industry."
-    publishedDateTime: 2023-08-09T11:46:00Z
-    webUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/"
-    ampWebUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 52
   - title: "Which Countries Will Win the AI Revolution?"
     excerpt: "Artificial intelligence, like a lot of new technology, will most benefit nations with ambitious and innovative economies."
     publishedDateTime: 2023-08-10T03:59:00Z

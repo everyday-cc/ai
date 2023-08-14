@@ -2,6 +2,143 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-06-30-soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year.md",
+      "title": "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year",
+      "excerpt": "SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award. Soul Machines ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33079784/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33079784/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33079784",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33079784",
+      "publishedDateTime": "2023-06-30T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-the-industrial-revolution-y2k-the-internet-generative-ai-still-the-same-old-story.md",
+      "title": "The Industrial Revolution, Y2K, The Internet & Generative AI. Still The Same Old Story.",
+      "excerpt": "As we attempt to regulate AI, we should also explore its amazing capabilities. We should do so as optimistic explorers, not strippers worried about victims of technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/",
+      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649eea1ecc0ec4522e0b9757/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/amp/",
+      "publishedDateTime": "2023-06-30T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-ai-in-recruitment.md",
+      "title": "AI in recruitment",
+      "excerpt": "Let’s rethink recruiting. If you were to design the recruitment process for a new company, what would you automate to identify and get the best talent?\nThe post AI in recruitment appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ai-in-recruitment/",
+      "originalUrl": "https://www.ibm.com/blog/ai-in-recruitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:45:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key.md",
       "title": "Capital One’s new chief scientist says ‘responsible, thoughtful’ generative AI is key",
       "excerpt": "Prem Natarajan, Capital One's new chief scientist and head of enterprise AI, says the company has a 'deep imperative' to operate responsibly.",
@@ -1006,142 +1143,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-artificial-intelligence-in-healthcare-market-growth-set-to-surge-significantly-during-2022-to-2028.md",
-      "title": "Artificial Intelligence In Healthcare Market Growth Set to Surge Significantly during 2022 to 2028",
-      "excerpt": "What important contenders are dominating the Global Artificial Intelligence In Healthcare Market industry and how competitive will the market be by 2023? Global Artificial Intelligence In ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/news/skyquest-technology-consulting-pvt-ltd-/artificial-intelligence-in-healthcare-market-growth-set-to-surge-significantly-during-2022-to-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/news/skyquest-technology-consulting-pvt-ltd-/artificial-intelligence-in-healthcare-market-growth-set-to-surge-significantly-during-2022-to-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-image-generators-powerful-tech-marketers-should-be-using.md",
-      "title": "AI Image Generators: Powerful Tech Marketers Should Be Using",
-      "excerpt": "There is far more that marketers can accomplish with these tools beyond seeing what a pink cat with a crown driving a car might look like.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649db7170b37026be90b96cb/0x0.jpg?format=jpg&width=1200",
-          "width": 1057,
-          "height": 732,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/amp/",
-      "publishedDateTime": "2023-06-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-two-ways-ai-can-be-used-to-help-transform-insurance.md",
-      "title": "Two Ways AI Can Be Used To Help Transform Insurance",
-      "excerpt": "Whether insurers want to improve underwriting, risk management or both, AI is one solution to satisfying B2B customers while benefiting underwriters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef60896accb250006414b32/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/30/two-ways-ai-can-be-used-to-help-transform-insurance/amp/",
-      "publishedDateTime": "2023-06-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

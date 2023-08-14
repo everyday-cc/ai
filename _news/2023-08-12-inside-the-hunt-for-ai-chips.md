@@ -40,20 +40,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "The challenges and ethics of AI in product design"
-    excerpt: "The rise of AI across all industries has been a source of both excitement about the potential opportunities, and serious concerns related to the risks and challenges it might pose."
-    publishedDateTime: 2023-08-09T11:26:00Z
-    webUrl: "https://digileaders.com/the-challenges-and-ethics-of-ai-in-product-design/"
-    type: article
-    provider:
-      name: Digital Leaders
-      domain: digileaders.com
-    quality: 54
-    images:
-      - url: "https://digileaders.com/wp-content/uploads/2023/08/shutterstock_2238570409-scaled-e1691580373332.jpg"
-        width: 800
-        height: 338
-        isCached: true
   - title: "Announcing US$5 million in Grand Challenges AI grants to spur local innovation for global good"
     excerpt: "Nearly 50 projects are receiving up to $100,000 to pursue the use of AI to solve problems in global health and development."
     publishedDateTime: 2023-08-09T15:43:00Z

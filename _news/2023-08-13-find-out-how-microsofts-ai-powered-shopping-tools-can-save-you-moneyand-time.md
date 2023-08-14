@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
 type: article
 quality: 100
-heat: 260
+heat: 240
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
         width: 1200
         height: 750
-        isCached: true
-  - title: "Microsoft and Aptos Labs Collaborate on New AI Blockchain Solutions"
-    excerpt: "Aptos, a reincarnation of Facebook's Diem blockchain, is integrating Microsoft's AI infrastructure to support users and developers."
-    publishedDateTime: 2023-08-09T13:08:00Z
-    webUrl: "https://www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/"
-    ampWebUrl: "https://www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/?outputType=amp"
-    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/?outputType=amp"
-    type: article
-    provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 74
-    images:
-      - url: "https://www.coindesk.com/resizer/1DEM2RqjH1pG3nYo6lWlfiU0SLI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/F6BDLOKG2VBU3BHACLZ4YOFZ2M.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions"
     excerpt: "MENLO PARK, Calif., Aug. 9, 2023 /PRNewswire/ -- Global consulting firm Protiviti has achieved the Artificial Intelligence (AI) and Machine Learning (ML) in Microsoft Azure specialization."
@@ -197,15 +181,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 28
-  - title: "Kyndryl taps Microsoft generative AI for new service, moves toward future profitability"
-    excerpt: "The IT infrastructure provider announced the joint project with Microsoft on the heels of announcing significant 1Q 2024 earnings where Kyndryl executives said the company will return to profitability in the next year, at least a year ahead of what financial analysts predicted after the company spun out of IBM in November 2021."
-    publishedDateTime: 2023-08-09T13:08:00Z
-    webUrl: "https://www.networkworld.com/article/3704390/kyndryl-taps-microsoft-generative-ai-for-new-service-moves-toward-future-profitability.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 26
   - title: "Kyndryl taps Microsoft generative AI for new service, moves toward future profitability"
     excerpt: "The IT infrastructure provider announced the joint project with Microsoft on the heels of announcing significant 1Q 2024 earnings where Kyndryl executives said the company will return to profitability in the next year, at least a year ahead of what financial analysts predicted after the company spun out of IBM in November 2021."
     publishedDateTime: 2023-08-11T01:24:00Z

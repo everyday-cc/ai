@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-14-artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68360-million-by-2032.md",
+      "title": "Artificial Intelligence (AI) in Manufacturing Market Size To Hit USD 68,360 Million By 2032",
+      "excerpt": "The global artificial intelligence (AI) in manufacturing market size was valued at USD 3,800 million in 2022. Artificial intelligence (AI) in manufacturing units is adopted to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33232796/artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68-360-million-by-2032",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33232796/artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68-360-million-by-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33232796",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33232796",
+      "publishedDateTime": "2023-07-14T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-3-artificial-intelligence-stocks-that-ai-is-loving-in-july.md",
       "title": "3 Artificial Intelligence Stocks That AI Is Loving in July",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the financial landscape constantly transforms, state-of-the-art technology",
@@ -1332,40 +1377,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-arteraai-announces-first-ever-ai-derived-biomarker-for-predicting-androgen-deprivation-therapy-adt-benefit-in-prostate-cancer.md",
-      "title": "ArteraAI Announces First-Ever AI-Derived Biomarker for Predicting Androgen Deprivation Therapy (ADT) Benefit in Prostate Cancer",
-      "excerpt": "ArteraAI, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announced today the publication of data in",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230629089773/en/ArteraAI-Announces-First-Ever-AI-Derived-Biomarker-for-Predicting-Androgen-Deprivation-Therapy-ADT-Benefit-in-Prostate-Cancer/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230629089773/en/ArteraAI-Announces-First-Ever-AI-Derived-Biomarker-for-Predicting-Androgen-Deprivation-Therapy-ADT-Benefit-in-Prostate-Cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

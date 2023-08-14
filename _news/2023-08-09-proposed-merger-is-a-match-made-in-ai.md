@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How to Prevent an AI Catastrophe"
+    excerpt: "Unfortunately, the researchers quickly discovered that their AI tool would synthesize chemicals far more dangerous than Advil. The program was happy to craft instruction to produce a World War I–era chemical weapon and a common date-rape drug."
+    publishedDateTime: 2023-08-14T04:52:00Z
+    webUrl: "https://www.foreignaffairs.com/world/how-prevent-ai-catastrophe-artificial-intelligence"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/11/RTSL4H92.JPG?itok=-vHGIUKv"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "DO0zflVUUGAv6HQgZLBJBstopbgtLhIRwvRZduumGgQ6rlNMA7CXupjDpFoPSJh9kXAicUT4Fe/el1RYO3PO0Om1bxX/NHW50TE5ubDDNjH/iG7EkkX3RmtvCPDC6ri2U3UyqTz1paBmsqjn2t6KnQEVvwnZkp7OgeyebQoInzIg4+HJVY1LMLygurXWaWYjMEi0+iHguIJDTe5hQo2aNc/jPsg3z6Vai+vBp1H0Bjqd6aeU3K6pOPD2e703u+TPx402hRBrzGv4PkyjsS1m9gDT6lzxVp+xBy904dUOqV8jfVwYiKi/Uxw6XsFi9MhCPiv8Cy+rMhAeye/VWIMmkLYf4EgwP+Khu+mEaeur+Aj4ZvKllbQBaPLUNWKM6HSuhmpwMzE6je9Eyzk1jCB3a0EM96lFZulj4ktZiwNpsEBINUY4RiYi7P9cwFh6U74Yoc1Yx5Phu+C8jKfG6z2xXtqsyuPH1Qvv1/sscMpm0t0p3rrBpeh0KSkIloGHhNAPqe898G5viJZVh8w0rH1wfA==;kSuC7IJNbUN9lqSGPRdBGg=="
 ---

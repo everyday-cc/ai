@@ -2,6 +2,144 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-07-21-revolutionizing-fintech-the-role-of-ai-in-democratizing-investment-opportunities.md",
+      "title": "Revolutionizing Fintech: The Role of AI in Democratizing Investment Opportunities",
+      "excerpt": "With the integration of AI in fintech, individual investors can access high-quality researched-back data and investment recommendations to make better-informed decisions. AI platforms are using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities",
+      "originalUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech%3A-the-role-of-ai-in-democratizing-investment-opportunities?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/revolutionizing-fintech%3A-the-role-of-ai-in-democratizing-investment-opportunities?amp",
+      "publishedDateTime": "2023-07-21T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-no-i-didnt-imagine-it-the-npc-craze-really-offers-money-for-robotic-gibberish.md",
+      "title": "No, I didn’t imagine it – the ‘NPC’ craze really offers money for robotic gibberish",
+      "excerpt": "People online pretend to be jerky video-game characters – and some make tons of money doing it. What on earth?",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2023/jul/21/npc-tiktok-robotic-make-money",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2023/jul/21/npc-tiktok-robotic-make-money",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8557b8ab7161001e3fad6196c988ed175e6e0c93/0_0_2000_1200/master/2000.jpg?width=620&quality=85&auto=format&fit=max&s=fdc6381d696d6c70f7a73303e69203a4",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2023/jul/21/npc-tiktok-robotic-make-money",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/21/npc-tiktok-robotic-make-money",
+      "publishedDateTime": "2023-07-21T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-here-are-the-actual-mechanics-behind-powering-ai.md",
+      "title": "Here Are the Actual Mechanics Behind Powering AI",
+      "excerpt": "He walks us through the infrastructure involved in powering AI, how difficult it is to get chips right now, who has them, and how the landscape might change in the future. This transcript has been lightly edited for clarity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-actual-mechanics-behind-powering-ai",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-actual-mechanics-behind-powering-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQxpkUu8IGrQ/v1/1200x746.jpg",
+          "width": 1200,
+          "height": 746,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-5-deep-learning-courses-for-high-salary-jobs.md",
       "title": "5 Deep Learning Courses for High Salary Jobs",
       "excerpt": "In this article, we will look at 5 Deep Learning Courses for High Salary Jobs. We have also discussed the innovations and intelligence of deep learning and companies that are making huge ...",
@@ -1046,142 +1184,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-experts-discuss-how-artificial-intelligence-could-be-used-in-war.md",
-      "title": "Experts discuss how artificial intelligence could be used in war",
-      "excerpt": "Brandon Tseng, co-founder and president of Shield AI, and Jennifer McArdle, senior director and adjunct senior fellow at CNAS, discuss the military uses of artificial intelligence and address the question of whether humans should be taken out of the \"kill chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2023/07/21/experts-discuss-how-artificial-intelligence-could-be-used-in-war.html",
-      "originalUrl": "https://www.cnbc.com/video/2023/07/21/experts-discuss-how-artificial-intelligence-could-be-used-in-war.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107274604-16899079551689907952-30395291236-1080pnbcnews.jpg?v=1689909894&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T18:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-tenstorrent-is-changing-the-way-we-think-about-ai-chips.md",
-      "title": "Tenstorrent Is Changing the Way We Think About AI Chips",
-      "excerpt": "“GPUs are essentially at the end of their evolutionary curve,” Ljubisa Bajic, CEO of AI chip startup Tenstorrent told Design News. “[GPUs] have done a great job; they’ve pushed the field to to the point where it is now. But in order to make any ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
-      "originalUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-ai-will-lead-to-more-games-being-made-and-more-jobs.md",
-      "title": "AI will 'lead to more games being made and more jobs'",
-      "excerpt": "Dr Richard Wilson, boss of TIGA, says AI will \"reduce the cost of making games and speed up the process\". Video games have been using forms of artificial intelligence for decades. But use of the latest technology in games creation is concerning some who worry that it could cost jobs and create legal issues for studios.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-66058906",
-      "originalUrl": "https://www.bbc.com/news/entertainment-arts-66058906",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/14CC5/production/_130298158_charisma.ai2.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-66058906.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-66058906.amp",
-      "publishedDateTime": "2023-07-20T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

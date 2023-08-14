@@ -2,6 +2,152 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-07-12-our-three-month-generative-ai-transformation-lessons-learned.md",
+      "title": "Our Three-Month Generative AI Transformation: Lessons Learned",
+      "excerpt": "While generative AI is capable of incredible feats, leaders should start by thinking critically about how these new capabilities impact their companies’ visions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647df0780fbdf1afcd13b283/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/",
+      "publishedDateTime": "2023-07-12T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-the-best-amazon-prime-day-deals-of-2023.md",
+      "title": "The Best Amazon Prime Day Deals of 2023",
+      "excerpt": "Apple Watch Series 8 (45 mm) — Top Pick Amazon deal price: $310; street price: $360 What we like: The larger version of our top pick. Builds on the features we liked from its predecessor by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2023-0712/",
+      "originalUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2023-0712/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-dutch-startup-taps-ai-and-robotics-to-automate-ev-charging.md",
+      "title": "Dutch startup taps AI and robotics to automate EV charging",
+      "excerpt": "Rocsys has created a robotic arm guided by AI-powered computer vision technology that can convert any charger into an autonomous one.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/dutch-startup-rocsys-ai-robotics-automation-ev-charging",
+      "originalUrl": "https://thenextweb.com/news/dutch-startup-rocsys-ai-robotics-automation-ev-charging",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2Frocsys-autonomous-charger-EV-robotics.jpg&signature=b2e4e462ae986df71fc72aeaefe70deb",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation.md",
       "title": "Navigating The AI Regulatory Minefield: State And Local Themes From Recent Legislation",
       "excerpt": "In an era where AI is integrated into our everyday lives regulators are emphasizing the need for responsible governance — though the challenge lies in compliance.",
@@ -999,144 +1145,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-profet-ais-first-overseas-crossover-talks.md",
-      "title": "Profet AI's First Overseas Crossover Talks",
-      "excerpt": "Jonathan Yu, General Manager of Sales of Profet AI, said: \"There are more than 5 trillion-dollar industries in Taiwan, and Profet AI has over 100 success cases. We're going to take these experiences to Vietnam. We want to cultivate local talents with our advanced AI technology, which will help both markets grow.\"",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/07/12/9847515.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/07/12/9847515.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-musk-to-host-ai-focused-twitter-event-with-us-house-lawmakers.md",
-      "title": "Musk to Host AI-Focused Twitter Event With US House Lawmakers",
-      "excerpt": "Elon Musk will hold an event broadcast on Twitter Spaces Wednesday focused on artificial intelligence with two prominent US House lawmakers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-11/musk-to-host-ai-focused-twitter-event-with-us-house-lawmakers",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-11/musk-to-host-ai-focused-twitter-event-with-us-house-lawmakers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiaHc2gRH6A8/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.md",
-      "title": "IBM mulls using its own AI chip in new cloud service to lower costs",
-      "excerpt": "The firm is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"watsonx\" cloud service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/",
-      "originalUrl": "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/-b_02wsAE19DcOzsCg_tQf9XaaY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q645SUBL2JML7C4QKZOJLY7N2Q.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

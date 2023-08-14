@@ -2,6 +2,127 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2023-06-02-broadcom-ceo-sees-rising-ai-chip-demand-earnings-were-strong.md",
+      "title": "Broadcom CEO Sees Rising AI Chip Demand. Earnings Were Strong.",
+      "excerpt": "Chip maker Broadcom reported better-than-expected earnings for its fiscal second quarter. The revenue outlook topped Wall Street's forecast, as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/broadcom-earnings-stock-price-92f9f4ca",
+      "originalUrl": "https://www.barrons.com/articles/broadcom-earnings-stock-price-92f9f4ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-791517/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca",
+      "publishedDateTime": "2023-06-01T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.md",
+      "title": "Microsoft offers Azure ML data import CLI, SDK for Snowflake, other databases",
+      "excerpt": "The new integration, which is in public preview, is designed to bring data into Azure’s ML service from data repositories outside the Azure platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/707450/microsoft-offers-azure-ml-data-import-cli-sdk-snowflake-other-databases/",
+      "originalUrl": "https://www.reseller.co.nz/article/707450/microsoft-offers-azure-ml-data-import-cli-sdk-snowflake-other-databases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/microsoft_headquarters_by_efes_kitap_cc0_via_pixabay_1200x800-100766833-orig-100916747-orig_2.jpgautowebp8570",
+          "width": 472,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-image-recognition-in-retail-global-market-report-2023-increasing-use-of-image-recognition-applications-drives-growth.md",
+      "title": "Image Recognition In Retail Global Market Report 2023: Increasing use of Image Recognition Applications Drives Growth",
+      "excerpt": "This report provides strategists, marketers and senior management with the critical information they need to assess the market. The global image recognition in retail market is expected to grow from $1.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/06/01/9825362.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/06/01/9825362.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-what-are-ai-chips-and-why-are-they-hot.md",
       "title": "What are AI chips and why are they hot?",
       "excerpt": "SAN FRANCISCO >> The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper.",
@@ -1073,127 +1194,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-heres-why-the-new-norton-v4cr-is-the-ultimate-cafe-racer.md",
-      "title": "Here’s Why The New Norton V4CR Is The ULTIMATE Cafe Racer",
-      "excerpt": "Did you know the Norton Motorcycle Company first opened its door 125 years ago in 1898? Well, now you do, and in these years, the British bikemaker has had a rollercoaster of a run. There’ve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.topspeed.com/heres-why-the-new-norton-v4cr-is-the-ultimate-cafe-racer/",
-      "originalUrl": "https://www.topspeed.com/heres-why-the-new-norton-v4cr-is-the-ultimate-cafe-racer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TopSpeed",
-        "domain": "topspeed.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-accenture-acquires-nextira-expanding-engineering-capabilities-in-artificial-intelligence-and-machine-learning.md",
-      "title": "Accenture Acquires Nextira, Expanding Engineering Capabilities in Artificial Intelligence and Machine Learning",
-      "excerpt": "Nextira will join the Accenture AWS Business Group with a focus on media and entertainment industry clients . Accenture (NYSE: ACN) has acquired Nextira, an Amazon Web Services (A",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-6-1-accenture-acquires-nextira-expanding-engineering-capabilities-in-artificial-intelligence-and-machine-learning",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-6-1-accenture-acquires-nextira-expanding-engineering-capabilities-in-artificial-intelligence-and-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-automation-anywhere-collaborates-with-aws-to-empower-enterprise-processes-with-generative-ai.md",
-      "title": "Automation Anywhere collaborates with AWS to empower enterprise processes with generative AI",
-      "excerpt": "Automation Anywhere will utilize Amazon SageMaker JumpStart and Bedrock to provide enhanced generative AI capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/automation-anywhere-collaborates-aws-empower-enterprise-processes-generative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/automation-anywhere-collaborates-aws-empower-enterprise-processes-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/AIAAI-VentureBeat-2023-Banner-Ads-1200x675-05312023.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -23,17 +23,6 @@ images:
     height: 420
     isCached: true
 
-related:
-  - title: "Disney Forms Task Force To Study Ai Applications And Cut Costs Amid Hollywood's Writers And Actors Strike"
-    excerpt: "Walt Disney has established a task force to delve into the applications of artificial intelligence (AI) across its entertainment conglomerate, even"
-    publishedDateTime: 2023-08-09T12:32:00Z
-    webUrl: "https://menafn.com/1106816481/Disney-Forms-Task-Force-To-Study-Ai-Applications-And-Cut-Costs-Amid-Hollywoods-Writers-And-Actors-Strike"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 2
-
 secured: "ey4Vw2wbiNkJx34QEcTclq5SNd3MLYnvZVWEnjjetUgLgCYjcO1t91N7TqSNd6LT1NTfMC8woSTSZIGTlh/fACEuKK8k9QHhDCjkQUKY2SwFEewZWz9qyklZY5OOeNjHd2chP9pdFm0lpnr9kn9jcSq4PhQmiB95t+Bw/rduKqKvTsUlcDhd43A/ufnrF40lX4qzHdI9RWb3cBXLwKwST6h+2ZHEEV1lauzsT1Pk/nAPlg2lR2lb6oNQuaOJ5t1vjTuaZNyXBpqWBQCi/knBF1gqNb29NFi0csCs8s7Ac2zS1TyFPRn1jDAyjhewJNteDvg4tE/WQqu6SqJgYzcPVf3VIPDJ8L6g+N8qroncBlM=;mFtFUSyla5MVHjmI301msA=="
 ---
 

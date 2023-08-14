@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-10T20:33:00Z
 originalUrl: "https://www.bakersfield.com/ap/news/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing/article_d193030c-0131-5923-bba0-8c8ffa56db9f.html"
 webUrl: "https://www.bakersfield.com/ap/news/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing/article_d193030c-0131-5923-bba0-8c8ffa56db9f.html"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"

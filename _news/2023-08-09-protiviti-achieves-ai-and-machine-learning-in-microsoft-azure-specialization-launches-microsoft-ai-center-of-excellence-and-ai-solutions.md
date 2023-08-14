@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Microsoft and Aptos Labs Collaborate on New AI Blockchain Solutions"
-    excerpt: "Aptos, a reincarnation of Facebook's Diem blockchain, is integrating Microsoft's AI infrastructure to support users and developers."
-    publishedDateTime: 2023-08-09T13:08:00Z
-    webUrl: "https://www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/"
-    ampWebUrl: "https://www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/?outputType=amp"
-    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/web3/2023/08/09/microsoft-and-aptos-labs-partner-on-new-ai-blockchain-solutions/?outputType=amp"
-    type: article
-    provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 74
-    images:
-      - url: "https://www.coindesk.com/resizer/1DEM2RqjH1pG3nYo6lWlfiU0SLI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/F6BDLOKG2VBU3BHACLZ4YOFZ2M.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Better Artificial Intelligence Stock: Amazon vs. Microsoft"
     excerpt: "Amazon and Microsoft are two of the best ways to invest in artificial intelligence ... complete ownership of its AI technology. Moreover, AWS' leading cloud market share could be a powerful ..."
     publishedDateTime: 2023-08-10T11:25:00Z
@@ -196,15 +180,6 @@ related:
     quality: 28
   - title: "Kyndryl taps Microsoft generative AI for new service, moves toward future profitability"
     excerpt: "The IT infrastructure provider announced the joint project with Microsoft on the heels of announcing significant 1Q 2024 earnings where Kyndryl executives said the company will return to profitability in the next year, at least a year ahead of what financial analysts predicted after the company spun out of IBM in November 2021."
-    publishedDateTime: 2023-08-09T13:08:00Z
-    webUrl: "https://www.networkworld.com/article/3704390/kyndryl-taps-microsoft-generative-ai-for-new-service-moves-toward-future-profitability.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 26
-  - title: "Kyndryl taps Microsoft generative AI for new service, moves toward future profitability"
-    excerpt: "The IT infrastructure provider announced the joint project with Microsoft on the heels of announcing significant 1Q 2024 earnings where Kyndryl executives said the company will return to profitability in the next year, at least a year ahead of what financial analysts predicted after the company spun out of IBM in November 2021."
     publishedDateTime: 2023-08-11T01:24:00Z
     webUrl: "https://www.arnnet.com.au/article/708304/kyndryl-taps-microsoft-generative-ai-new-service-moves-toward-future-profitability/"
     type: article
@@ -222,6 +197,6 @@ related:
       domain: datanami.com
     quality: 11
 
-secured: "RrELBmSxSUzKJpg01CASGjqk8q+OY7L1V9Yrb6eJd5rlld3XaXMAAg3CJE8f/szHgOe9aunGzMcnkcDhBi9ueZlECC9kK9+FgBHPY/vPwhn/8CZwssLLgTZbXBqz9r5zuEnykTquWk6cZJst4Q7Dck61qpMx6vZdICmCkn+U7YJYbwsJYHhCNSxOLoVfIpn5WHHRDcQPQRSpU9hEZGZb1T242VaGKHNqQdH95ROjniWwB1CHjf6znqDhiqQ6wW/hYLBdvbFTwQ67XvUDAH7uubnm5yY7td13x81+6kzX2yKaPIoJTzS5ec6XM07suNyVpLoLAGpy2mGSM7XJ/t+aZamd13fjmjO/Lj0WV9W5LyQ=;R0mJlEByGb9SfyayAgL9bA=="
+secured: "56D2Aj7RfSSQx7hMzs1A4oMXter1BWcF0r9osSuF7bLqfujgeV7RMIzGswP8aiU5xfHWBlJDvdkDAI6YyeaYq7RKU1C9Bkfc6MW5FTz4WD/7EkdoxdjLasRZ20L6wMQWdHHLKYCP8AbWgAXUybgtl6N/YV6EiJVMBhJNdjx73oAEtxCHcZRb8/xUNimdD6LgpSlvdSBWgaa/Zi3S48jmHt5q2OwFe140+6hR9XozeWsUtCsgphNyZzWGoLqj+kY5cD1kEw8V2FxSOskY/beROTDnblW+5BLdqbTFiVju04SFaFi6PbcFEslHhuLqQ7aUcdcd1ooBU61QNoGbB2ycJx6Fu4IPF1nVcCJTPVMEKas=;Y+W8ZoDsT4cz+0e8Zyz88Q=="
 ---
 

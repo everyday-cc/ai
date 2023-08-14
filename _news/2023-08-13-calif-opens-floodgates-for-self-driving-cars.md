@@ -3,8 +3,8 @@ category: news
 title: "Calif. opens floodgates for self-driving cars"
 excerpt: "Cars without drivers have become a common sight on San Francisco's winding, hilly and often foggy streets. Thursday's vote stripped most limitations on operating and charging for rides, essentially creating more ride-hailing services like Uber or Lyft — just without the drivers."
 publishedDateTime: 2023-08-13T07:45:00Z
-originalUrl: "https://www.stltoday.com/eedition/page-a10/page_4aec74df-508b-5d07-836a-2da290121a70.html"
-webUrl: "https://www.stltoday.com/eedition/page-a10/page_4aec74df-508b-5d07-836a-2da290121a70.html"
+originalUrl: "https://www.stltoday.com/eedition/page-a11/page_3cfc30ba-cee2-5b16-8bb6-fd870b645391.html"
+webUrl: "https://www.stltoday.com/eedition/page-a11/page_3cfc30ba-cee2-5b16-8bb6-fd870b645391.html"
 type: article
 quality: 24
 heat: -1
@@ -169,6 +169,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "9xLMS2bcoPsl2L77jkheZQqcxOEphL4Z6PL+yuIqZlThuan2H5k1F0xDOaGttq7YXvbqEl6iQAsgf/ZAaUNWYH0/iWfRx6Zx07N0r3Cihp9FGMF7yBniVE3dmenDWe6ItyM/6Uj1S7/GEOUG6UOdYhPA3jdkMfNOAqIf7sp7QwEKDCy6cl5twUDkpzBK4R7pDi6WJ9fuw+GT3za/ZRJ62TlPNfuqDcMe1pOLw52wJHrSyQp6Zq5D66pd0+693abqmAbDieWVDavSqDqQTHZt7BhtUvs3PDBifROH9DFlUzZ7LaZdM2qyDy5TfqJK9sHfWPJWq+49ypUFNtovdKW9ZKb5sK0hTGgbawZ4LX8/Ybg=;NupF8urnyDjipsuj0u6pbA=="
+secured: "Q0uMqR4IhOSuV+ANzrf8rgi6T3TrByuLHjNGw74ikf+1nw3UrYbvprn8xC2iQ3s5IgrObzwdSCPLyEhU6wQVQVAbkP2CCiwtgxZTM8d1WC5cBcRF61RETflxkzrfo42wr/Omq5NGrYk1xB+xYsCtxRxbiHtYSes+6fUNam77Ag87SLnLY6eyJ0fZWC0nDVXCF1xB/P0XU7fMHGsgjCXz8393D7NS2K3wnRO/6ikjdatYyPwSqsQvpxE+gGcQEUkkfXnMtnfSO6mFM5cZOP3PQjZC8wEvwtEuVC0weFCMqlDLBvUeD3sDnjVX2sEEC4rVnbnXEf0EN0V0/PYxSHazKOXus73lheaavnnkVn8x2jc=;donJDKQJObLPZ5bEDfORnA=="
 ---
 

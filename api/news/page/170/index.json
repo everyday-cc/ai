@@ -2,6 +2,152 @@
   "page": 170,
   "value": [
     {
+      "path": "_news/2023-04-27-the-dangers-of-letting-ai-loose-on-finance.md",
+      "title": "The dangers of letting AI loose on finance",
+      "excerpt": "We must recognise the stability risks — whether over-concentration or digital herding — as well as the benefits",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9",
+      "originalUrl": "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg",
+          "width": 619,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds.md",
+      "title": "Developers embrace AI Tools but face ‘Big Code’ challenges, survey finds",
+      "excerpt": "A new report from Sourcegraph warns Big Code will hit crisis mode if companies don't get a handle on how their developers use AI at work.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/",
+      "originalUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Screenshot-2023-04-27-at-1.35.41-AM-e1682604857405.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/amp/",
+      "publishedDateTime": "2023-04-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-global-x-funds-global-x-robotics-artificial-intelligence-etf-nasdaq-botz.md",
+      "title": "Global X Funds - Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ)",
+      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 04/27/2023. Discounted offers are only available to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/quote/nasdaq/botz/",
+      "originalUrl": "https://www.fool.com/quote/nasdaq/botz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
+          "width": 843,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-improve-multi-hop-reasoning-in-llms-by-learning-from-rich-human-feedback.md",
       "title": "Improve multi-hop reasoning in LLMs by learning from rich human feedback",
       "excerpt": "Recent large language models (LLMs) have enabled tremendous progress in natural language understanding. However, they are prone to generating confident but nonsensical explanations, which poses a significant obstacle to establishing trust with users. In this post, we show how to incorporate human feedback",
@@ -1050,161 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-spotify-ceo-daniel-ek-argues-ai-could-be-potentially-huge-for-creativity.md",
-      "title": "Spotify CEO Daniel Ek Argues AI Could Be 'Potentially Huge For Creativity'",
-      "excerpt": "Ek, who co-founded the streaming giant, also acknowledged that he's \"very familiar\" with the \"scary parts\" of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/spotify-ceo-daniel-ek-artificial-intelligence_n_644a26d2e4b039ec4e8319b6",
-      "originalUrl": "https://www.huffpost.com/entry/spotify-ceo-daniel-ek-artificial-intelligence_n_644a26d2e4b039ec4e8319b6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/644a2807230000580093ecb4.jpeg?cache=6840vIdiXR&ops=1200_630",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/spotify-ceo-daniel-ek-artificial-intelligence_n_644a26d2e4b039ec4e8319b6/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/spotify-ceo-daniel-ek-artificial-intelligence_n_644a26d2e4b039ec4e8319b6/amp",
-      "publishedDateTime": "2023-04-27T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-the-future-of-artificial-intelligence-and-work.md",
-      "title": "The Future Of Artificial Intelligence And Work",
-      "excerpt": "The exponential growth of useful artificial intelligence (AI) applications has taken the world by storm. With AI applications and improvements being released daily, it's tempting to keep pivoting startup ideas and career strategies—especially as entire industries seem to be on the verge of getting disrupted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644924d67f513f26cbf33129/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/amp/",
-      "publishedDateTime": "2023-04-27T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-how-to-avoid-bias-in-machine-learning-algorithms.md",
-      "title": "How To Avoid Bias In Machine Learning Algorithms",
-      "excerpt": "ML algorithms are great helpers that are applicable to numerous industries. However, since the technology is relatively new, many aspects—including biased output—need special attention and improvement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-bias-in-machine-learning-algorithms/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-bias-in-machine-learning-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64492398c1fbcd6346f33129/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-bias-in-machine-learning-algorithms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-bias-in-machine-learning-algorithms/amp/",
-      "publishedDateTime": "2023-04-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

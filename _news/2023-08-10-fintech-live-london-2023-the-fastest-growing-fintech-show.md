@@ -39,15 +39,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "The Rise of Fintech Investment in India: Reshaping Financial Landscapes"
-    excerpt: "Reshaping Financial Landscapes - India has experienced a spectacular financial upheaval in recent years because of the fintech industry."
-    publishedDateTime: 2023-08-09T12:21:00Z
-    webUrl: "https://www.siliconindia.com/news/general/the-rise-of-fintech-investment-in-india-reshaping-financial-landscapes-nid-224650-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 4
 
 secured: "gZVNzuA/lt8yYVqL9VYbxrTGOIgPf5Jx+L+BkwQ6KFbXEBFssdZo9I15jeRzkVaXkFsQEtlcHyuTw0GVqvz7yuqjBpIQg3kw4Cm8jxtG8eTiQsgULv18wC5dDkZGRDYg4g5QWwGfnzhvblQQOIwWHqWrOeSf/nfVRVN5x7uRxYzELfFNpcXDS3NjsUL1i1KUZ+SKsmMEOr+t0Xkr4Bu4KeQ01hDAw8LGLJoIJxO7ijmF9AC6yhhV1B+WHYJBq0NHXfDV9zYXUoTDu7/dUCeToxMzqLbAE5uNGd37YYpcKxTg9nhEQeBcqMuk9Ka4/7SfDAetQO+L3opqtLjGF6SeXDykcQ7U89Ey+0LQe0+odQPkce+UQOLb+ygrjwEvSpS4bzXzr0cyBlcBlmq3y6eGqj1YCQYm1GYYVpR7VYsQfuPgD6vdNSxJxOQJT+RDXi3ZheyM2Sm8hJTPIZA5IV0aPaoEZY1w+R/UXaqXPPmmnIPOoac+7QVs/f9dlL7Ttt/D3ekOcG/B6tzVRTuxaeU5Vg==;MJMMRs5vadkh0zZwox7Amw=="
 ---

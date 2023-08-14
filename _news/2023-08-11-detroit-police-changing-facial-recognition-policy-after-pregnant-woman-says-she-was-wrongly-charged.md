@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Detroit police changing facial-recognition policy after pregnant woman says she was wrongly charged"
-excerpt: "The Detroit police chief says he’s setting new policies on the use of facial-recognition technology DETROIT -- The Detroit police chief said he's setting new policies on the use of facial ..."
-publishedDateTime: 2023-08-10T21:11:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
-webUrl: "https://abcnews.go.com/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
+title: "Detroit Police Changing Facial-Recognition Policy After Pregnant Woman Says She Was Wrongly Charged"
+excerpt: "Detroit Police Changing Facial-Recognition Policy After Pregnant Woman Says She Was Wrongly Charged DETROIT (AP) — The Detroit police chief said he's setting new policies on the use of facial ..."
+publishedDateTime: 2023-08-10T17:31:00Z
+originalUrl: "https://www.usnews.com/news/best-states/michigan/articles/2023-08-10/detroit-police-changing-facial-recognition-policy-after-pregnant-woman-says-she-was-wrongly-charged"
+webUrl: "https://www.usnews.com/news/best-states/michigan/articles/2023-08-10/detroit-police-changing-facial-recognition-policy-after-pregnant-woman-says-she-was-wrongly-charged"
 type: article
-quality: 30
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: ABC News
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/US/wirestory_3ed0bff9e8d2e87a5f8fed690abbd870_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Detroit police chief says ‘poor investigative work’ led to arrest of Black mom who claims facial recognition technology played a role"
@@ -251,6 +247,6 @@ related:
       domain: people.com
     quality: 0
 
-secured: "JdCH7y57l0pwmwNUo6Rhey4qRQhku0lhe4fPWk+qkmD7OTXrAaiGF3WUZO+VdSZrEn2rlIi+eVeRw6d97pjBQZdqs0dfMPWhz26rEK7n+RaP2l0AjqFHhQ7tC9Nq8OmewR666rk+MJA1EEmFg9dnx3YOmGpG3Hp7i8soy8Qt/yAPfNSpi+IQ8VULyYRz+WQeBbJaZZmvygbGtDLwDjocrRsphOjy7vLzIsyGRDppki5w+waufnTtzeaUYBxoZSbAHf/4qcxVMQ31bDUUnnt2x8ZLMp4kYg7JuwE7FWvM70NlcaNS951PCMQSbQdvADZmeTdFCKXa/W7SgzO8kgqn6bgzL1kwIJBwW0z4OB8GyRc=;z8zO3yojkQhQzU7I6GStNA=="
+secured: "k3OetCA1JlD77beSi5eo2OKkBL4tDNvMshZULxbIsKXzmIaE61Vu5Em0GQ8iS1zB4Cog/jzr9DjoUTYK8sl0UYIcymULonA+kJYHzbZYWyqIsXnLq7NLG4cLx9LJo7la9ezVrowqTLEKXOgbgYsRDPz+mw//0YLOkXrwS7ZbCgin610SQhFaYqFUH6cqUif4Fy1goUGcEESBSVviZLdwXIXZWpawWxKMdJcIu3l8eWwxi6/B/cP41rDMTAl52OHPkqopMr6VdECaYB7NXER5oIrjanmF6SaPunqn0lCJmVo4kZc/xujDHBrKVBmADMHKORuAaFjp/Ny+LOPnuGpw7orCxQcsFV2BB37sYtEPaHM=;cwwfteEnRr5tA7suQrD0GQ=="
 ---
 

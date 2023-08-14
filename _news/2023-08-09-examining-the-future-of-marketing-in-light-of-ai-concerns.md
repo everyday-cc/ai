@@ -71,15 +71,6 @@ related:
         width: 1070
         height: 579
         isCached: true
-  - title: "How Artificial Intelligence Is Helping Today’s Small Businesses"
-    excerpt: "More small businesses are using artificial intelligence effectively, especially as pertains to marketing functions."
-    publishedDateTime: 2023-08-09T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "HOW AI IMPACTS TEACHING FUTURE FINANCIAL LEADERS"
     excerpt: "Students need to learn how to use AI and ChatGPT properly, understand AI’s limitations and know when they can appropriately use AI."
     publishedDateTime: 2023-08-13T13:25:00Z

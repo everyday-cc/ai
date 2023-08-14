@@ -49,20 +49,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 66
-  - title: "The challenges and ethics of AI in product design"
-    excerpt: "The rise of AI across all industries has been a source of both excitement about the potential opportunities, and serious concerns related to the risks and challenges it might pose."
-    publishedDateTime: 2023-08-09T11:26:00Z
-    webUrl: "https://digileaders.com/the-challenges-and-ethics-of-ai-in-product-design/"
-    type: article
-    provider:
-      name: Digital Leaders
-      domain: digileaders.com
-    quality: 54
-    images:
-      - url: "https://digileaders.com/wp-content/uploads/2023/08/shutterstock_2238570409-scaled-e1691580373332.jpg"
-        width: 800
-        height: 338
-        isCached: true
 
 secured: "+2cuPV22Hw/TPVXuv8SLsa0OYKIWC9d8zhrc3fvnxw5SM6j4mTqyE3j7/n/qZDMcfJg/Bw+GA7Set+of1Ha8SMgE2Qz7WpzUIzjenrQe9sEZRsDFX4WH3l57zUuLCEmnUpMLy+Mk3YeLiT4sOlQ6Tyghf/w0LFn4FsjjCEgRHwoLOT3uk9bKYlxao+gIEVH3yWCgEDnxYn3cPJfYseKIhTLYIhWl4vLdJGgLJhpmed6+jxrCs8ozi2RGAGC+rFNA7lufQqgk9n2jU/MopuvLQN4u7+HFSqw4ILwK8VrpYmKBS/jERQyiE/ES7HGR2xYt/xY004v6VIpV+T7sw1KOCpGWgli1qylR/+jyJfbWb3Y=;pf3ZGZZcMNIMHJw+qDWkQA=="
 ---

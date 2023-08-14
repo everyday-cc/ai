@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/08/10/100-days-into-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 837
     isCached: true
-
-related:
-  - title: "Disney AI Task Force: Exploring the Marvels of Artificial Intelligence"
-    excerpt: "Disney launched its AI task force earlier this year, prior to the onset of the Writers Guild of America (WGA) strike in May. The task force comprises a team of experts dedicated to exploring the potential applications of AI within Disney’s diverse range of operations."
-    publishedDateTime: 2023-08-09T13:01:00Z
-    webUrl: "https://www.technowize.com/disney-ai-task-force-exploring-the-marvels-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Technowize
-      domain: technowize.com
-    quality: 34
 
 secured: "vmRNBBjVQ0mjE5Na+bZWkxj+vHtlsppg5YvUFNq0aOd3T/dMI1iI7x6tQBpT7ntgtvFkQ0y95K1L3i/VPhigvWqdNAbCwjYK1k/tFtDOu5G+VK7URPSOIgVBij+bSE38u1mDEPxNljINXbqe/R7BiRL1QqQHNQGtXh7ui7KhAJiDsncOH7YZ5n7l8J/aOmEovaAM5GFHx+q8f4A1VN6xeLOecCbd6TL73MRJBmZsGu5Qwllg9nbdZDI1DSPIkqWMGmJXxT2Okf3fwa1AGloc390B7Y0rMlHXkaWuOFhIZFZKyarFABTdfrfZGdPowRmJbBs2YBuBjerx5Dkv6u8TzsxGUpOIP8PGCc6gt55uibZ6aUqpHvkdsNsoOimToCw3Mgp1gBZlOrq6AuYQ/7X3lW2+bnBnSznZEtiW2W+A/KgJNRu4f3iiqBU8TUHMthmUovNy3ggkIDwr3+Gs7y/FEfUZVotGGGdu9tdCHQFzLLgZDNxRRCZZWeLEg3fju/hFZ1FFJ9purh8TEmbrDOlETQ==;s9JxkKeinwjjf4q3SiTQtw=="
 ---

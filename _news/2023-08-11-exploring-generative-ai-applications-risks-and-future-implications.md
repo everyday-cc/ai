@@ -33,22 +33,6 @@ related:
         width: 625
         height: 270
         isCached: true
-  - title: "Preparing Your People For Generative AI At Work"
-    excerpt: "To fully embrace generative AI, leaders need to ensure their team is equipped with the skills to evolve alongside new technology."
-    publishedDateTime: 2023-08-09T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/09/preparing-your-people-for-generative-ai-at-work/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/09/preparing-your-people-for-generative-ai-at-work/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/09/preparing-your-people-for-generative-ai-at-work/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5fc69e28f02f5833055ec5db/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Zero-shot text classification with Amazon SageMaker JumpStart"
     excerpt: "Natural language processing (NLP) is the field in machine learning (ML) concerned with giving computers the ability to understand text and spoken words in the same way as human beings can. Recently, state-of-the-art architectures like the transformer architecture are used to achieve near-human performance"
     publishedDateTime: 2023-08-11T14:56:51Z
@@ -215,15 +199,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Nvidia unveils new chip for accelerated computing, generative AI"
-    excerpt: "Chip maker Nvidia has unveiled a new AI chip built for accelerated computing and to handle the world’s most complex generative AI"
-    publishedDateTime: 2023-08-09T12:04:00Z
-    webUrl: "https://glamsham.com/world/technology/nvidia-unveils-new-chip-for-accelerated-computing-generative-ai"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 34
   - title: "Gunderson Launches Homegrown Generative AI App to Accelerate Subject-Matter Expertise"
     excerpt: "We view this tool as an accelerant for subject matter expertise,” said Gunderson chief innovation officer Joe Green. “It’s not going to produce anything that is done and dusted and ready to go. But it will help attorneys do their jobs better."
     publishedDateTime: 2023-08-09T22:09:00Z
@@ -247,15 +222,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Google and Universal Music working on licensing voices for AI-generated songs"
-    excerpt: "Early stage talks are expected to include a potential tool that fans could use to make AI-generated songs"
-    publishedDateTime: 2023-08-09T11:31:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/aug/09/google-and-universal-music-working-on-licensing-voices-for-ai-generated-songs"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 14
 
 secured: "NvDvORi+iMd8qqJb52Irqn1jtY7Cja0YHW5bDxaOUEtDib0B3My8yc4FfumE+/Y0nyeyJCcFwoLpBh+RnRLk6M+SlhTpDEU6Odx+LUoTekyJ13N5TCdXaK/b4+SAFA/TnpYtQrNe2NVx7tY7nTgpGKsekRbg2/eMq7l8oFTz2TcbOjF2r44iyjcgFKfVFgnyzq/HsbykHro450a2Wlx2ZF1GHvvjVEkyX3ETjneRi2PvFa0snq9AGx7jLi3Q3NTVh7RtVxEssOoLnTxbg4GIQknuhVxWOPx3XMygJBMJqufnreBw+cOEhvj8HDWqnQSTlBZiFPjaWQwOst6Kq1OPPey/1bbB7T0LYQjRrAGpVDmE00HW7lbarhg59BMHPrAmN63bXX7LsWtSzCS8+TOyg6oa31h/doowXnTNucVBmXpN7I+hfGVluZ1Wgrx0j/MpGOOgGlDJvsN4JH+UBAAxOiPZrKBIxDGmoQAmD2ak832NNXjA9Db0CROJpEiJ50MSyPqLRCksomZ0nJQhvV+/XQ==;0vxtNAwCO2EqE66cwvCTwA=="
 ---

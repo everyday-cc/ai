@@ -272,6 +272,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-10-healthcare-interoperability-market-ai-based-api-innovation-is-improving-healthcare-data-management-and-analysis.md",
+      "title": "Healthcare Interoperability Market - AI-based API Innovation is Improving Healthcare Data Management and Analysis",
+      "excerpt": "Technology Innovation and Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. Healthcare interoperability,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33688321/healthcare-interoperability-market-ai-based-api-innovation-is-improving-healthcare-data-management",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33688321/healthcare-interoperability-market-ai-based-api-innovation-is-improving-healthcare-data-management",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33688321",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33688321",
+      "publishedDateTime": "2023-08-09T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-innovationrx-70-of-us-adults-concerned-about-ai-in-healthcare.md",
       "title": "InnovationRx: 70% Of U.S. Adults ‘Concerned’ About AI In Healthcare",
       "excerpt": "InnovationRx is your weekly digest of healthcare news. To get it in your inbox, subscribe here.",
@@ -1309,60 +1352,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence.md",
-      "title": "AI At The Doctor? Amazon Launches New Service As Google, Microsoft Aim At Merging Healthcare With Artificial Intelligence",
-      "excerpt": "Amazon is continuing its expansion into the health space with the launch of a new generative AI tool called HealthScribe, meant to take over some time-consuming administrative tasks of doctor’s offices and clinics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 393,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1637e81d2f6620816a7fe/0x0.jpg?format=jpg&crop=4886,2747,x0,y49,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-07-26T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "AI in Autos"
       ]
     }
   ],

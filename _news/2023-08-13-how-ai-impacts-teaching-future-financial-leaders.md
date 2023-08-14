@@ -79,15 +79,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "How Artificial Intelligence Is Helping Today’s Small Businesses"
-    excerpt: "More small businesses are using artificial intelligence effectively, especially as pertains to marketing functions."
-    publishedDateTime: 2023-08-09T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/charlesrtaylor/2023/08/09/how-artificial-intelligence-is-helping-todays-small-businesses/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "AI dating apps promise less ghosting, more matches"
     excerpt: "The hardest part of dating, according to Daniel Liss, is the small talk. A digital entrepreneur whose previous ventures include the photo sharing site Dispo, Liss launched Teaser AI in June, marketing it as the app that leads to “less ghosting, more matches.”"
     publishedDateTime: 2023-08-10T03:19:00Z

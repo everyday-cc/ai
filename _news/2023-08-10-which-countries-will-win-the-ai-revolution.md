@@ -54,17 +54,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Artificial Intelligence: OpenAI’s Revolutionary Web Crawling Bot"
-    excerpt: "OpenAI's advancements with GPTBot, its role in shaping the future AI models like GPT-5, and the company's dedication to navigating the challenges of technology and ethics in the AI industry."
-    publishedDateTime: 2023-08-09T11:46:00Z
-    webUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/"
-    ampWebUrl: "https://techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/artificial-intelligence-openais-revolutionary-web-crawling-bot/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 52
   - title: "RBC: These 19 stocks with an early lead in the AI revolution will continue to profit from rising demand in semiconductors, cloud computing, and more"
     excerpt: "Companies jumping into AI now will set themselves up for long term success. RBC identified 19 stocks benefitting from AI developments today."
     publishedDateTime: 2023-08-10T08:00:00Z

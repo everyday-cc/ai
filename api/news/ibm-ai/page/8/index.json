@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-10-ibm-unveils-new-watsonx-ai-and-data-platform.md",
+      "title": "IBM unveils new watsonx, AI and data platform",
+      "excerpt": "The new AI platform launch comes over a decade after IBM’s software called Watson got attention for winning the game show Jeopardy. IBM at the time said Watson could “learn” and process ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/ai-ibm-watsonx-idCAKBN2X00OO",
+      "originalUrl": "https://www.reuters.com/article/ai-ibm-watsonx-idCAKBN2X00OO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-ibm-announces-ai-platform-watsonx-to-help-businesses.md",
+      "title": "IBM announces AI platform watsonx to help businesses",
+      "excerpt": "clients can quickly train and deploy custom AI capabilities across their entire business, all while retaining full control of their data.\" More than a decade ago, IBM introduced Watson ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "originalUrl": "https://www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/IBM.jpg?ve=1&tl=1",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "publishedDateTime": "2023-05-09T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering.md",
       "title": "IBM stressing accuracy of responses in launch of upgraded AI offering",
       "excerpt": "IBM’s initial AI program Watson was created to beat humans at the gameshow “Jeopardy!,” but have now updated the AI offering. The new Watsonx program boasts an AI development studio that ...",
@@ -1319,100 +1405,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-04-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-artificial-intelligence-discovers-molecules-market-2023-comprehensive-insights-insilico-medicine-verge-genomics-ibm-watson-health-exscientia.md",
-      "title": "Artificial Intelligence Discovers Molecules Market 2023 Comprehensive Insights – Insilico Medicine, Verge Genomics, IBM Watson Health, Exscientia",
-      "excerpt": "Top Leading Companies of Global Artificial Intelligence Discovers Molecules Market are – Insilico Medicine, Verge Genomics, IBM Watson Health, Exscientia, BenevolentAI, Atomwise, Cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-discovers-molecules-market-2023-comprehensive-insights-insilico-medicine-verge-genomics-ibm-watson-health-exscientia-2023-04-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-discovers-molecules-market-2023-comprehensive-insights-insilico-medicine-verge-genomics-ibm-watson-health-exscientia-2023-04-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-ibm-and-texas-am-agrilife-provide-data-technology-and-expertise-to-farmers-in-need.md",
-      "title": "IBM and Texas A&M AgriLife provide data, technology and expertise to farmers in need",
-      "excerpt": "In Texas, 2022 was one of the driest years on record. With failed crops, low yields for farmers and diminished grazing for cattle, the Texas Department of Agriculture identified climate change as a potential threat to the state&#8217;s food supply. Smallholder farmers, particularly those in arid and",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-and-texas-am-agrilife-provide-data-technology-and-expertise-to-farmers-in-need/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-and-texas-am-agrilife-provide-data-technology-and-expertise-to-farmers-in-need/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/IBM-and-Texas-AM-AgriLife-provide-data-technology-and-expertise-to-farmers-in-need-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T11:25:40-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

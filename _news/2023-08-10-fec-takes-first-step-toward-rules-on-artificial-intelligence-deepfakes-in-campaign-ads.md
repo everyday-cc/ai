@@ -70,15 +70,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "How To Get AI Regulation Right"
-    excerpt: "Effective AI regulation should start with bringing the great minds behind AI to the table—those who possess a sophisticated understanding of AI and its applications."
-    publishedDateTime: 2023-08-09T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/how-to-get-ai-regulation-right/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "kkzyBpthKpPjQaijJeDSYDTkVqYOpItS4c1kVw80bZhOBCUCVDeZqNJNsom9nLdR4f0aay3wuncvEbOsdA0Zn9uy/pYiJLLMmwwcMsbHo42mKJwHkcdfn+u0wt4Yfx4Y+P+JW0wEQdtc8Md+LK1Jkc/bQymV5RsJRSurt0y+K7OLT0CwKi2LJAxV7JFW0XDHqxk6T425iKYwQJJKLJbmsVgkFGHbbrJ/K6eteklANUBR/IcBRZYsc0FSgXZXzU/A6sE0BTcz7AJFgu+3EHCE+COaBVxrhnRRX2XObk1f5oWF3ae7W817Tb28DtG2NE2Az7eKntjkZ4RNh0eUs9Le+8hCH6sikcOuk2r6z7AZhU88xtK+SFhpMXaS54m0A75bAt5tzIsJd1kRtiiE0VaBsqNYqcGuqULFF1Hl3aqLiCF1n1K/mLWrqRZTUSRCn72f0bju8WLTLsYSxOugNGiknDYGMnPJ7Rly2H8cjaIY7LeeuKDpWI2xZZf/WF63zR5qljkxyfVPDzKTrTyc6kUhSA==;wY2GdDI/8dsCTSVOMHK38Q=="
 ---

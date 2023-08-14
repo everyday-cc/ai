@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Miami Airport Expands Facial-Recognition Verification of Passengers’ Identities"
+    excerpt: "Miami airport started adding facial-recognition technology to at least 20 more international departure gates to verify identification of individual travelers, the biggest"
+    publishedDateTime: 2023-08-10T12:26:00Z
+    webUrl: "https://www.aviationpros.com/airports/news/53068756/miami-airport-expands-facialrecognition-verification-of-passengers-identities"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 35
+    images:
+      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2023/08/BIZ_FACIAL_REC_MIAMI_AIRPORT_MI.64d4d4473f54b.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "1QQjvPvWI8wEE/f+pVWMI4EXn5mjqNqD2bi/ZG7qGDZ66X+xyOdkMsNGlWEZNV0oU/crPoHzyjc40VPqC01FUgzg0KH06zG373tuPtmnkJnYCCBjmVVgxR4mJR2vlGpaRwRESBgomI4ey/faUda9PRYzq8oNTZgIW26p3nJiyc2JNG5NKeTIF/43CXz9iJtZXyGl0COd63tmkgs8LdnOKt2bN4LE5tyfzGMkUMv4bjVRhYQT6jDBTTRTioF4nk+iM0N7GDlXMKpDdqOrr4lVVwuxpDBCXPcfeaVRiyOj+41b0ZAxaDbP/dwttJklUoaKGXtacdGC30I8YXhVnkr9t9LTKP7d8q/ZgQaukHcI9Dxara6fOrsFuWz7n1H7sA8hX+Tku1r3CExxWdlHCbPqruKpuE9qwchhq30WuJcYcV638eb84dXSGNOJxlISVJmVijK+zymtc1jFXvwjL4oAQhQDSQnhgGduSKOLZztlE50WQuE8lr8igLsFAga+hJnYz05JSqya/7CCMk+AvX9Thg==;hSCjE9pzOq68QgxQ3JoUDg=="
 ---

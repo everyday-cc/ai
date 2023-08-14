@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/zoom-is-entangled-in-an-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zoom-is-entangled-in-an-ai-privacy-mess/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_2023-08-09-100416.jpg"
         width: 770
         height: 400
+        isCached: true
+  - title: "How to Prevent an AI Catastrophe"
+    excerpt: "Unfortunately, the researchers quickly discovered that their AI tool would synthesize chemicals far more dangerous than Advil. The program was happy to craft instruction to produce a World War I–era chemical weapon and a common date-rape drug."
+    publishedDateTime: 2023-08-14T04:52:00Z
+    webUrl: "https://www.foreignaffairs.com/world/how-prevent-ai-catastrophe-artificial-intelligence"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/11/RTSL4H92.JPG?itok=-vHGIUKv"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "PiAwiMhwqqc3rYlVB3IwmaqjswSg16UioO4Hse6BI+JnlB54+lhrTrHm99rPEajngJQaBBD2TyGjSWG5eSEWzYwrMtJkHLajxEXBkPZ7POtquG3oQCi8IZHqlMZP3OWDEHUcrPbomPYRtifNPP0eaThQJ0iYQazIjfTFPH55sCHWN25XWcHIz3Oo7s2NHMLNCuQUV4F6HDjxHp48EwqrV3lc0yAcKmHchpsYlk6u4h8R1IkTHbQqgeTMScH5Ur5dcxAGMkVYO7bpGwu/DJpa+AU7QWwy3xsbehJNcfAaC9IiWxpJ3kj4XijYeYdlYDC9iwLmkrl/5874ZnK9XjeaMtf/823oodpdQ6iR5+QAjhY=;ZuRpll7QyQ1d5NMum3FKIA=="
