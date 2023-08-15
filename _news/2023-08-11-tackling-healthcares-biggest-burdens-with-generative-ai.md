@@ -7,8 +7,8 @@ originalUrl: "https://www.thetechedvocate.org/tackling-healthcares-biggest-burde
 webUrl: "https://www.thetechedvocate.org/tackling-healthcares-biggest-burdens-with-generative-ai/"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: thetechedvocate.org
@@ -25,38 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Why Reinforcement Learning Will Save Generative AI"
-    excerpt: "In this contributed article, Kim Stagg, VP of Product for Appen, knows the only way to achieve functional AI models is to use high-quality data in every stage of deployment. As businesses look for pathways to adoption,"
-    publishedDateTime: 2023-08-12T17:34:00Z
-    webUrl: "https://insidebigdata.com/2023/08/12/why-reinforcement-learning-will-save-generative-ai/"
+  - title: "The looming battle over where generative AI systems will run"
+    excerpt: "Putting AI on cloud versus on-premises systems may seem like a simple decision, but it's much more complex (and potentially expensive)."
+    publishedDateTime: 2023-08-15T09:05:00Z
+    webUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.html"
+    ampWebUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
-        width: 1100
-        height: 550
+      - url: "https://images.techhive.com/images/article/2016/03/ceo_cio_battle-100648302-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 1200
         isCached: true
-  - title: "Healthcare AI Trends to Watch: M&A Exits & Generative AI Use Cases"
-    excerpt: "The healthcare AI space will be an exciting one to watch over the next couple years, as investment dollars flow to startups and providers launch more AI pilots. Two of the most interesting trends to watch will be the use cases that healthcare organizations prioritize when deploying generative AI models,"
-    publishedDateTime: 2023-08-11T19:04:00Z
-    webUrl: "https://medcitynews.com/2023/08/healthcare-generative-ai-merger-acquisition/"
+  - title: "Cloud vs. on-premises showdown: The future battlefield for generative AI dominance"
+    excerpt: "As well, the choice of where customers plan to run generative AI is split almost exactly down the middle in terms of public cloud versus on-premises and edge. Further complicating matters, developers report the experiences in the public cloud with respect to feature richness and velocity of innovation have been outstanding."
+    publishedDateTime: 2023-08-12T16:47:00Z
+    webUrl: "https://siliconangle.com/2023/08/12/cloud-vs-premises-showdown-future-battlefield-generative-ai-dominance/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 34
-  - title: "Multinationals turn to generative AI to manage supply chains"
-    excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
-    publishedDateTime: 2023-08-13T03:59:00Z
-    webUrl: "https://www.ft.com/content/b7fafed2-9d00-49b0-a281-c1002b139865"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-risk-on-off-1024x574.jpg"
+        width: 1024
+        height: 574
+        isCached: true
 
 secured: "7rJC7nxL3LLBSDgZfxzZR+X30+g+7qs0lcWcFt9ZxU7VRZdewHgEfBXrN36Ykdp5nwpP9aYXySlhcYNrYhIGTondFrl2xO4Z+tRbGFnhSk6+l3+xktNQ5Z8b/lWkqQTnTBZOGbekMAq2BBSXz1712/jFm95ROSr9GEJxJiR1TjrQUfw2Ry/bT0Ira90FjQKC57lImpZHhe3J+DFHevcgQ57JsTbuUVRjc60MBMwlBL7uCx//A9Lw7mu/4fVmgTVmTp2fLnfqZTgi9n2VVncoujSfsLdAeDjiDlY/7+o4PwYdqLXnueYrOSqTuxtcphKRTj6dCez0bALVBvyq2tKr1m8Lvo6fyvHZ5W4TD0KYSrM=;bYsn5Kf/HYnZ/Dg1duK07w=="
 ---

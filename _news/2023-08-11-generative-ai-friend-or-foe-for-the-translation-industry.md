@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/08/shutterstock_1828948811-scaled.jpg"
         width: 850
         height: 567
-        isCached: true
-  - title: "Generative AI: The Modern-Day Gold Rush"
-    excerpt: "Industry thought leaders share insights on generative AI's impact, advantages, challenges, and advice on implementation."
-    publishedDateTime: 2023-08-10T17:20:00Z
-    webUrl: "https://www.commercialintegrator.com/business_resources/operations/generative-ai-the-modern-day-gold-rush/"
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 39
-    images:
-      - url: "https://www.commercialintegrator.com/wp-content/uploads/2023/08/AdobeStock_576595621_1000px.jpg"
-        width: 1000
-        height: 417
         isCached: true
 
 secured: "wRUyLpNHSe+bqglZUSqBzL6cFAk6KQsDcDH3JTFScSPSYqPCMBtai7YO+oKyh6nPFknX3AD0C5R4iLLqlYop/rvInDq5wvmaRx/nbaqfsoeLFig8n+SZ5FCnNC+pJ1Vceso5esJ4cRzQ3UHkiaKOYuXJjFtyMBwr62s0WlwrQPSryeWBhxtfOuzBkI7DwZPFnqhXuigs64Ihu+1y2+ZWwcS47btrm6y8w0okPaXPiCYtmjT0pza4Z28ecGScPLZgYuE4JQ/sEkf9VSvXY4bpGCR/J2FEbqxEeV/snJWLdUs2poZZ7fQ98LPIxVkY9Tb/HLUg6KGJ+aCiFbDMFQ/y3jLF9NxVVTbuwjdSQFQU79vO2gtwm/4HZfNzc36+Q49+gtmv0qfQ5mfuLzbx+SxW9CCkUtOIxiTSsqS5r9wmN0NsUctxZGWXtAip/snP8hWitiW+VnGtW8zAotdtP6ZHyCpYEf3Gh5Hhkwp20k5eYlxMyZdkQor5EcvpJZz3tYLWBqkaKY4kb1Y27q8MV8EpqA==;UI/p0yr7Ev6+jlQVolNmcA=="

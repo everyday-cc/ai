@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-nee
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -31,31 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom Vows Not To Use Your Calls To Train Artificial Intelligence"
-    excerpt: "Videoconferencing company Zoom has clarified a policy that had some users nervous. It will not be using its calls to train AI. A recent terms of service update implied customer video calls could"
-    publishedDateTime: 2023-08-12T01:55:00Z
-    webUrl: "https://deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/"
-    ampWebUrl: "https://deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 74
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1466243151.jpg?w=1024"
-        width: 1024
-        height: 606
-        isCached: true
-  - title: "How to use AI to create a logo for free"
-    excerpt: "Generative AI is perfect for producing code, writing letters, and creating images. But how does it fare generating logos?"
-    publishedDateTime: 2023-08-10T18:44:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-use-ai-to-create-a-logo-for-free/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
   - title: "Five ways to use AI responsibly"
     excerpt: "However, Cousineau says one thing is already clear from these nascent moves: \"Responsible AI has to be embedded in ethics throughout the entire lifecycle.\" Also: Today's AI boom will amplify social problems if we don't act now Her views on the importance ..."
     publishedDateTime: 2023-08-14T12:01:00Z

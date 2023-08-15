@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-27-more-battlefield-ai-will-make-the-fog-of-war-more-deadly.md",
+      "title": "More Battlefield AI Will Make the Fog of War More Deadly",
+      "excerpt": "The Pentagon’s embrace of military AI raises questions about what limits should be placed on the technology—and how to keep humans in control.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-battlefield-ai-will-make-the-fog-of-war-more-deadly/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-battlefield-ai-will-make-the-fog-of-war-more-deadly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64c1b3dd9ec11a2433532d3d/191:100/w_1280,c_limit/AI-War-US-Fast-Forward-Business-1540566906.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-studios-quietly-go-on-hiring-spree-for-ai-specialist-jobs-amid-picket-line-anxiety.md",
       "title": "Studios Quietly Go on Hiring Spree for AI Specialist Jobs Amid Picket Line Anxiety",
       "excerpt": "and Sony seeks an AI ethics expert, while the tech becomes a staple of SAG-AFTRA and Writers Guild picket signs. By Alex Weprin Media & Business Writer While the writer and actor strikes are ...",
@@ -1392,58 +1445,6 @@
         "AI Hardware",
         "Natural Language Processing",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-how-to-avoid-pitfalls-and-navigate-the-ethical-landscape-of-generative-ai.md",
-      "title": "How to avoid pitfalls and navigate the ethical landscape of generative AI",
-      "excerpt": "We still have a lot to figure out. That was my impression of a Transform 2023 panel that drilled into the ethics of generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-avoid-pitfalls-and-successfully-navigate-the-ethical-landscape-of-generative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-avoid-pitfalls-and-successfully-navigate-the-ethical-landscape-of-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/ethics-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 769,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

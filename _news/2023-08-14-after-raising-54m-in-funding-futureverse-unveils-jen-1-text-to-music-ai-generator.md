@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "FUTUREVERSE PUBLISHES RESEARCH PAPER REVEALING ITS BREAKTHROUGH TECHNOLOGY IN THE MUSIC AI SPACE"
-    excerpt: "On The Heels of Raising 54M Futureverse to Advance AI and Web3 Technology StackJEN 1: TEXT-GUIDED UNIVERSAL MUSIC GENERATION WITH OMNIDIRECTIONAL"
-    publishedDateTime: 2023-08-10T17:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space-1032541745"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://mma.prnewswire.com/media/2183201/Futureverse_Logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Futureverse claims its JEN-1 system sets a new quality bar for AI music"
     excerpt: "Earlier this year, a startup called Futureverse raised a $54m Series A funding round, promising to “introduce AI to the metaverse”."
     publishedDateTime: 2023-08-15T08:34:00Z

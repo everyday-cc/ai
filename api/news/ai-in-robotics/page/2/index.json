@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-07-toyota-ponyai-team-up-on-robotaxis-with-usd140-million-jv.md",
+      "title": "Toyota, Pony.ai Team Up on Robotaxis With USD140 Million JV",
+      "excerpt": "Japanese auto giant Toyota Motor and Chinese autonomous driving startup Pony.ai are investing CNY1 billion (USD140 million) to set up a joint venture that will promote the large-scale roll out of unmanned taxi services across China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.yicaiglobal.com/news/toyota-ponyai-team-up-on-robotaxis-with-usd140-million-jv",
+      "originalUrl": "https://www.yicaiglobal.com/news/toyota-ponyai-team-up-on-robotaxis-with-usd140-million-jv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img.yicaiglobal.com/src/image/2023/08/30096746559173.jpg",
+          "width": 770,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yicai Global",
+        "domain": "yicaiglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-san-francisco-drives-tech-will-it-drive-away-robot-taxis.md",
       "title": "San Francisco drives tech; will it drive away robot taxis?",
       "excerpt": "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... s GOOGL.O Waymo and ...",
@@ -336,8 +379,8 @@
       "title": "How MIT's Liquid Neural Networks Can Solve AI Problems from Robotics to Self-Driving Cars",
       "excerpt": "In the current artificial intelligence (AI) landscape, the buzz around large language models (LLMs) has led to a race toward creating increasingly larger neural networks. However, not every application can support the computational and memory demands of very large deep learning models.",
       "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/275198-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/fulltext",
-      "originalUrl": "https://cacm.acm.org/news/275198-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/fulltext",
+      "webUrl": "https://cacm.acm.org/news/275198-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars",
+      "originalUrl": "https://cacm.acm.org/news/275198-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1240,49 +1283,6 @@
       "provider": {
         "name": "Becker's Hospital Review",
         "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-dobot-robotics-signs-letter-of-intent-with-venhub.md",
-      "title": "DoBot Robotics signs letter of intent with VenHub",
-      "excerpt": "DoBot Robotics has signed a Letter of Intent with VenHub, a company developing a modular retail platform built on expendable containers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/dobot-robotics-signs-letter-of-intent-with-venhub/",
-      "originalUrl": "https://www.therobotreport.com/dobot-robotics-signs-letter-of-intent-with-venhub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/dobot-collab-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-31T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

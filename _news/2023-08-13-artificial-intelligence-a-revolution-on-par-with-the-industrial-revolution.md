@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI: The Modern-Day Gold Rush"
-    excerpt: "Industry thought leaders share insights on generative AI's impact, advantages, challenges, and advice on implementation."
-    publishedDateTime: 2023-08-10T17:20:00Z
-    webUrl: "https://www.commercialintegrator.com/business_resources/operations/generative-ai-the-modern-day-gold-rush/"
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 39
-    images:
-      - url: "https://www.commercialintegrator.com/wp-content/uploads/2023/08/AdobeStock_576595621_1000px.jpg"
-        width: 1000
-        height: 417
-        isCached: true
 
 secured: "sASSRfFrSe3yg739EJLMFhBLxyWEGV5jz5Pm717DKBmqSRU8Q7pXahWlkk0rXjBQ+p4JvB5niqPRzzB2MeoUX/KKuBrarpXTHHoMZBuc7j4LolYEDfGZSS+U0YbEEX7n12aHWkFhYF3SsokAGOvxwWBl6M2J5r6J2ZWF99e4dn/jDlUTPgXBoRxy5VON42aWiNIgSchXgCZkpb7fEwraaZQsUksW4weVY9IGr5IOKFM/4ifjSfQbgMaoIq50L+UztjPxx89CPE4OphdgYM1WMLXv9JyXytGKjCG3gFxuyrBmKaoweKFK0zRLspN9CmkCA+fsVhIQKn8cv6+kaHXO4c1Fhbcm/Sj0REgxzEcYwA8nVyxJUosVvSBBUQ4pTR/3m+6W/Ncb+uN61LdMGDk6PtmEPaQ6FuIO1QDDVx+syyk3Qh9DCocWUYmkqfK/9OA1kvYJx2lcWm/w2fyxqBTEhKYIhzhP2E7tRRjoKI1dk1MwHFLrU7Zwe00EFNGF3tEJxvp2GzJmGvGuun6qcunrmw==;cWxkidIyuybUKw7mSYAYGA=="
 ---

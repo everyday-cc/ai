@@ -19,76 +19,114 @@ topics:
   - AI
 
 related:
-  - title: "Rasgo launches Rasgo AI, a generative AI agent for enterprise data warehouse analytics"
-    excerpt: "Rasgo said its AI employs GPT for “intelligent reasoning,” which enables it to think and act like a business analyst for data warehouses."
-    publishedDateTime: 2023-08-10T18:49:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/rasgo-launches-rasgo-ai-generative-ai-agent-enterprise-data-warehouse-analytics/"
+  - title: "Generative AI Is Not A Tool; It's An Employee"
+    excerpt: "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team."
+    publishedDateTime: 2023-08-11T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/rasgo.png?w=1200&strip=all"
-        width: 1032
-        height: 668
-        isCached: true
-  - title: "Martin Klein Returns to ECS as Analytics & Artificial Intelligence VP"
-    excerpt: "Martin Klein, former chief operating officer of the Department of Defense’s Joint Artificial Intelligence Center, has rejoined ECS to serve as vice president of analytics and AI responsible for the company’s overseeing strategic digital transformation initiatives in the defense and intelligence markets."
-    publishedDateTime: 2023-08-11T09:31:00Z
-    webUrl: "https://www.govconwire.com/2023/08/martin-klein-rejoins-ecs-as-vp-of-analytics-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 37
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/08/unnamed-file-76.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d541f1b585aa1bcfb1ea3f/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 628
+        height: 608
         isCached: true
-  - title: "WCTC To Offer New Certificates In Artificial Intelligence And Data Analytics"
-    excerpt: "Waukesha County Technical College announced plans to offer new certificates in the fall about artificial intelligence and data analytics."
-    publishedDateTime: 2023-08-10T18:49:00Z
-    webUrl: "https://patch.com/wisconsin/waukesha/wctc-offer-new-certificates-artificial-intelligence-data-analytics"
+  - title: "What Does Generative AI Mean For Websites And SEO?"
+    excerpt: "Exploring the intersection of generative AI and the future of web search, this article delves into how chatbots could revolutionize SEO and reshape online business models"
+    publishedDateTime: 2023-08-15T06:23:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://patch.com/img/cdn20/users/25016349/20230810/024904/styles/patch_image/public/wctcgrab___10144852995.png"
-        width: 985
-        height: 739
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64db19be0420c96050635ebc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
-    excerpt: "Klein served as the chief operating officer of the Department of Defense Joint Artificial Intelligence Center."
-    publishedDateTime: 2023-08-15T08:50:00Z
-    webUrl: "https://www.hstoday.us/industry/industry-news/ecs-names-martin-klein-vice-president-of-analytics-and-artificial-intelligence/"
+  - title: "How to build employee trust as AI gains ground"
+    excerpt: "One in four workers do not feel trusted by their employer, and as more organizations roll out or pilot AI platforms to unlock efficiencies, employees are fearful of being replaced by a machine."
+    publishedDateTime: 2023-08-15T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.html"
+    ampWebUrl: "https://www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.amp.html"
     type: article
     provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 33
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
     images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2023/08/martinklein.jpg"
-        width: 1080
-        height: 969
+      - url: "https://images.idgesg.net/images/article/2023/08/shutterstockelnur-100944620-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 801
         isCached: true
-  - title: "A New Era in Environmental Monitoring: Uniting Satellite Data Analytics and Artificial Intelligence"
-    excerpt: "Welcome to a pioneering era in environmental monitoring, where state-of-the-art technology converges with our pressing demand for sustainable solutions. Today, we delve into a groundbreaking innovation that harnesses the potential of satellite data analytics empowered by artificial intelligence (AI)."
-    publishedDateTime: 2023-08-11T08:10:00Z
-    webUrl: "https://techbullion.com/a-new-era-in-environmental-monitoring-uniting-satellite-data-analytics-and-artificial-intelligence/"
+  - title: "With Generative AI, Businesses Should Listen More And Generate Less"
+    excerpt: "The implementation of large-scale language analytics promises transformative impacts across various sectors, boosting efficiency and providing insightful analysis."
+    publishedDateTime: 2023-08-11T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/with-generative-ai-businesses-should-listen-more-and-generate-lessamit-ben/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 23
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "4 Generative AI Issues That Are Likely Keeping Judges Up At Night"
+    excerpt: "Judges have their task cut out for them when it comes to preparing for generative AI's entry into their courts. In a panel hosted by the Practicing Law Institute, retired judges discussed some of their primary concerns with the advanced technology."
+    publishedDateTime: 2023-08-10T22:45:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/10/4-generative-ai-issues-that-are-likely-keeping-judges-up-at-night/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-11T090907.168.png"
-        width: 800
-        height: 400
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Law-scales-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
+  - title: "Global generative AI revenue to hit $33B by 2027"
+    excerpt: "Generative artificial intelligence is set to yield US$33 billion in global revenue within five years as the technology experiences rapid growth."
+    publishedDateTime: 2023-08-11T05:42:00Z
+    webUrl: "https://www.arnnet.com.au/article/708303/global-generative-ai-revenue-to-hit-33b-by-2027/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_267728566_1.jpg"
+        width: 473
+        height: 315
+        isCached: true
+  - title: "Why Reinforcement Learning Will Save Generative AI"
+    excerpt: "In this contributed article, Kim Stagg, VP of Product for Appen, knows the only way to achieve functional AI models is to use high-quality data in every stage of deployment. As businesses look for pathways to adoption,"
+    publishedDateTime: 2023-08-12T17:34:00Z
+    webUrl: "https://insidebigdata.com/2023/08/12/why-reinforcement-learning-will-save-generative-ai/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
+        width: 1100
+        height: 550
+        isCached: true
+  - title: "Multinationals turn to generative AI to manage supply chains"
+    excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
+    publishedDateTime: 2023-08-13T03:59:00Z
+    webUrl: "https://www.ft.com/content/b7fafed2-9d00-49b0-a281-c1002b139865"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "zc9Avw/61OOQ0itBm291qQBNgZWDoTLbFgwSxqJ4DnoR/veWWW+LkI11YQ7v+R9GM8NHmQY3suzrVLU7nFamAPNvCsJ0vuCjPpEczztUmnZUzJbJJ+25hZWqDfJxOOxRiYd6S0IZSNuSs/s3nRb1Xzq5JQCKA6l4rx0tetl5KtGD2iSnrepIw06jZ0iGIvDMFU2Efaf5irxeSxqEH3OCwHD8j+pDWcrEGMq0MgQJEisBV6cFfRG2cVL8mhqg6qEHr6086eQUJA5hOs+fzke6EPtOhx3lwql1+PpTo8rbstRN0co4pEpVSw8DS8OmzIGUTceweBvYEP3ITbfUq4C44vLE/9fQQjfizjCPZEk9tkQxj0kUc7d8V/j7PF4RU3aX5Td1wGzPe9orrFiXwF6HCfHRdDM1KI8BbE4WQX05MlWfNioi+EUKFTbFPB1BWeQnLCijrrZJpgsThf/EFeBQLNT9yA16xVKYmTC9YT6eZkfhkDQMSsd0daUazWkYceoZjzTMFxi0/mrs9a70g/kBDA==;2X2bI7uSw2YAC/i/Jekmag=="
 ---

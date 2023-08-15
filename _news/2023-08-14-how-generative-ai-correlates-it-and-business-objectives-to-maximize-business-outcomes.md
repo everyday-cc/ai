@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/how-generative-ai-correlates-it-and-busin
 webUrl: "https://www.ibm.com/blog/how-generative-ai-correlates-it-and-business-objectives-to-maximize-business-outcomes/"
 type: article
 quality: 112
-heat: 192
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -29,102 +29,68 @@ images:
     isCached: true
 
 related:
-  - title: "Research shows extensive use of AI contains data breaches faster and saves significant costs"
-    excerpt: "Organizations today need new technologies and approaches to stay ahead of attackers and the latest threats.\nThe post Research shows extensive use of AI contains data breaches faster and saves significant costs appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-14T13:27:26Z
-    webUrl: "https://www.ibm.com/blog/research-shows-extensive-use-of-ai-contains-data-breaches-faster-and-saves-significant-costs/"
+  - title: "Take advantage of AI and use it to make your business better"
+    excerpt: "Only 54% of AI projects make it to production. Here's how to overcome the challenges and benefit from artificial intelligence in business.\nThe post Take advantage of AI and use it to make your business better appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-15T11:00:00Z
+    webUrl: "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-your-business-better/"
     type: article
     provider:
       name: IBM
       domain: ibm.com
-    quality: 88
-  - title: "Generative AI Is Not A Tool; It's An Employee"
-    excerpt: "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team."
-    publishedDateTime: 2023-08-11T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+    quality: 119
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d541f1b585aa1bcfb1ea3f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 608
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/dji_0420-9b.blog-lead-space-40x21-1.jpg"
+        width: 2400
+        height: 1260
         isCached: true
-  - title: "What Does Generative AI Mean For Websites And SEO?"
-    excerpt: "Exploring the intersection of generative AI and the future of web search, this article delves into how chatbots could revolutionize SEO and reshape online business models"
-    publishedDateTime: 2023-08-15T06:23:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
+  - title: "Time To Redesign Your Career For The Age Of Artificial Intelligence"
+    excerpt: "The continued rise of AI will change the type of work we do, and how we do it, but augmenting rather than replacing human capabilities."
+    publishedDateTime: 2023-08-13T21:30:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64db19be0420c96050635ebc/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d940f4725deaf2b4635ebc/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "How to tackle the ethics of Generative AI"
-    excerpt: "A tip by Daniel Pell of @Workday about how business leaders should approach the ethical questions around deploying #GenerativeAI"
-    publishedDateTime: 2023-08-15T07:36:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2023/08/15/how-to-tackle-the-ethics-of-generative-ai/"
+  - title: "Zoom Vows Not To Use Your Calls To Train Artificial Intelligence"
+    excerpt: "Videoconferencing company Zoom has clarified a policy that had some users nervous. It will not be using its calls to train AI. A recent terms of service update implied customer video calls could"
+    publishedDateTime: 2023-08-12T01:55:00Z
+    webUrl: "https://deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/"
+    ampWebUrl: "https://deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/amp/"
     type: article
     provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 54
+      name: Deadline.com
+      domain: deadline.com
+    quality: 74
     images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/01/business-tip.jpg"
-        width: 728
-        height: 410
+      - url: "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1466243151.jpg?w=1024"
+        width: 1024
+        height: 606
         isCached: true
-  - title: "With Generative AI, Businesses Should Listen More And Generate Less"
-    excerpt: "The implementation of large-scale language analytics promises transformative impacts across various sectors, boosting efficiency and providing insightful analysis."
-    publishedDateTime: 2023-08-11T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/with-generative-ai-businesses-should-listen-more-and-generate-lessamit-ben/"
+  - title: "Background actors fear being taken ‘advantage of’ by AI, as union and studio negotiations continue to stall"
+    excerpt: "Negotiations between SAG-AFTRA and the AMPTP continue to be at a standstill, as background actors worry artificial intelligence could replace them with digital copies."
+    publishedDateTime: 2023-08-11T05:59:00Z
+    webUrl: "https://www.foxnews.com/entertainment/background-actors-fear-being-taken-advantage-ai-union-studio-negotiations-continue-stall"
+    ampWebUrl: "https://www.foxnews.com/entertainment/background-actors-fear-being-taken-advantage-ai-union-studio-negotiations-continue-stall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/background-actors-fear-being-taken-advantage-ai-union-studio-negotiations-continue-stall.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Nvidia’s FlexiCubes uses generative AI to create 3D meshes"
-    excerpt: "Nvidia has launched FlexiCubes, a new way to use AI to generate 3D meshes for a wide range of 3D applications."
-    publishedDateTime: 2023-08-11T13:01:00Z
-    webUrl: "https://venturebeat.com/ai/nvidias-flexicubes-uses-generative-ai-to-generate-3d-meshes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "4 Generative AI Issues That Are Likely Keeping Judges Up At Night"
-    excerpt: "Judges have their task cut out for them when it comes to preparing for generative AI's entry into their courts. In a panel hosted by the Practicing Law Institute, retired judges discussed some of their primary concerns with the advanced technology."
-    publishedDateTime: 2023-08-10T22:45:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/10/4-generative-ai-issues-that-are-likely-keeping-judges-up-at-night/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: Fox News
+      domain: foxnews.com
+    quality: 69
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Law-scales-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/1200/675/SAG-Strike-Sign.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "AI and the Productivity Imperative"
-    excerpt: "The world is struggling with labor shortages, inflation, and a supply chain that cannot keep up with demand. AI can help overcome these productivity challenges, with LLMs in particularly allowing for productivity boosts without replacing human workers,"
-    publishedDateTime: 2023-08-11T12:37:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/ai-and-the-productivity-imperative"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 19
 
 secured: "fZzRGdsx9zP+JZISoo5vlhBUUaL2ocmOf71YB1ANUTU1nMJyIm20MEdaVq3BEQEzStcRiM8y3hqYe8oEenOBe4hiK009eTwv6RHiueeGL1T6wdEo1F8qaytH3bwJRjvgxdYsr4Oj5Oebb9lali4DM8iCkZowFWsbadlY4hmoD+ejULRPv14jChr2/NOhWKtguhARB5G3MJl76ny1aw3Rv7aTCQdPJiy5b57l4H/vGC09JPZKde+7UOxxMjOruY/Pk5CcFt7zJbIQiKl0+I2nXjPzBuS3DPx8KMQy11d/CwTJ3ejfGy76G7FUylM7hOg96BG0164Ynz6Rzi9tyGWp0TXERQqeDfJnuuXtlUoyQiA=;3rlYC5fwUGgSJqMEVYAhnw=="
 ---

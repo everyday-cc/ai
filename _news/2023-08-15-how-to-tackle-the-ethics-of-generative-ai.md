@@ -25,102 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "How generative AI correlates IT and business objectives to maximize business outcomes"
-    excerpt: "Incorporate generative AI into existing technologies — such as SAP, CPI interfaces, Signavio and Salesforce — to achieve targeted outcomes.\nThe post How generative AI correlates IT and business objectives to maximize business outcomes appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-14T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-generative-ai-correlates-it-and-business-objectives-to-maximize-business-outcomes/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 112
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/How-generative-AI-correlates-IT-and-business-objectives-to-maximize-business-outcomes.jpg"
-        width: 1080
-        height: 540
-        isCached: true
-  - title: "Research shows extensive use of AI contains data breaches faster and saves significant costs"
-    excerpt: "Organizations today need new technologies and approaches to stay ahead of attackers and the latest threats.\nThe post Research shows extensive use of AI contains data breaches faster and saves significant costs appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-14T13:27:26Z
-    webUrl: "https://www.ibm.com/blog/research-shows-extensive-use-of-ai-contains-data-breaches-faster-and-saves-significant-costs/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 88
-  - title: "Generative AI Is Not A Tool; It's An Employee"
-    excerpt: "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team."
-    publishedDateTime: 2023-08-11T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
+  - title: "From Hype To Policy: How To Approach Generative AI In Practice"
+    excerpt: "A good place to start: Understand how different teams within your organization are currently using AI. Conduct a listening tour and determine which use cases you should be trying to restrict or limit, as well as which are low-risk, high-value activities that you want to encourage and help facilitate."
+    publishedDateTime: 2023-08-11T20:05:00Z
+    webUrl: "https://www.forbes.com/sites/carabrennanallamano/2023/08/11/from-hype-to-policy-how-to-approach-generative-ai-in-practice/"
+    ampWebUrl: "https://www.forbes.com/sites/carabrennanallamano/2023/08/11/from-hype-to-policy-how-to-approach-generative-ai-in-practice/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carabrennanallamano/2023/08/11/from-hype-to-policy-how-to-approach-generative-ai-in-practice/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d541f1b585aa1bcfb1ea3f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 608
-        isCached: true
-  - title: "What Does Generative AI Mean For Websites And SEO?"
-    excerpt: "Exploring the intersection of generative AI and the future of web search, this article delves into how chatbots could revolutionize SEO and reshape online business models"
-    publishedDateTime: 2023-08-15T06:23:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64db19be0420c96050635ebc/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d693c87ebb8ebbf05b25ff/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "With Generative AI, Businesses Should Listen More And Generate Less"
-    excerpt: "The implementation of large-scale language analytics promises transformative impacts across various sectors, boosting efficiency and providing insightful analysis."
-    publishedDateTime: 2023-08-11T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/with-generative-ai-businesses-should-listen-more-and-generate-lessamit-ben/"
+  - title: "Amazon taps generative AI to enhance product reviews"
+    excerpt: "Amazon will begin to leverage generative AI to help customers better understand what customers are saying about a product, without having to read dozens of individual reviews."
+    publishedDateTime: 2023-08-14T21:24:00Z
+    webUrl: "https://techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhance-product-reviews/"
+    ampWebUrl: "https://techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhance-product-reviews/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhance-product-reviews/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Nvidia’s FlexiCubes uses generative AI to create 3D meshes"
-    excerpt: "Nvidia has launched FlexiCubes, a new way to use AI to generate 3D meshes for a wide range of 3D applications."
-    publishedDateTime: 2023-08-11T13:01:00Z
-    webUrl: "https://venturebeat.com/ai/nvidias-flexicubes-uses-generative-ai-to-generate-3d-meshes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "4 Generative AI Issues That Are Likely Keeping Judges Up At Night"
-    excerpt: "Judges have their task cut out for them when it comes to preparing for generative AI's entry into their courts. In a panel hosted by the Practicing Law Institute, retired judges discussed some of their primary concerns with the advanced technology."
-    publishedDateTime: 2023-08-10T22:45:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/10/4-generative-ai-issues-that-are-likely-keeping-judges-up-at-night/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Law-scales-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/amazon-ai-reviews.webp?resize=1200,675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "AI and the Productivity Imperative"
-    excerpt: "The world is struggling with labor shortages, inflation, and a supply chain that cannot keep up with demand. AI can help overcome these productivity challenges, with LLMs in particularly allowing for productivity boosts without replacing human workers,"
-    publishedDateTime: 2023-08-11T12:37:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/ai-and-the-productivity-imperative"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 19
 
 secured: "SIxVFYwCH0RkGLgnqKFGnO1vUEtX4Y3bv1YMbKWIQClBwgoGMgJAffAb9+5rJXRw2feCyP5YIsKXb00ZfghIX8xTaLc3iNe3w4xgmciBcHd8gZYlx9ANqUR4CyVxovfcTcg4dNXrN/ea1Y72ZyjUqQ+CPbGbXnjARKqnNkKOX0xdrQoO3iRpU5/aO4QTkBWVPBXgDYI/VjQIwb7+jDO8JSTJ7XDz8Ab652SORd8kK56lBf52nWReIhH8j5JfdkKl67S+9EE5KqBfu4LBSEhrkaZ0o2Jq0Ts1WZwpA0pIaj4PgNnn6fs1JH7iA/lQ/26zP0THWkRc7eStXg/9OuQaLywk952GfIcQu963ukARl5wBJgPKd+HRQ5cWG5gwNTca2ctZflFd4JABIWWFDxUI+Z5XGCpJf7KuLwYtmWJgUr5pgH4YzDIZ9S8LnCHVFQAFpQYWRLNBWIPSt7QWzX4i0Va1X4bmQxlWT/ZWLDh262djIwehkWoWqlUUsKSD3UiNjEMUDW3+np2OtuQGP3lfgQ==;ITUiDexj+VkgY5nRZoVZ1Q=="
 ---

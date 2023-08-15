@@ -27,40 +27,66 @@ images:
     isCached: true
 
 related:
-  - title: "11 Skills You’ll Need To Use AI Effectively"
-    excerpt: "This is foundational: basic computer skills, navigating the internet, comfort using new software for AI as it develops. Understanding how data is used by AI systems and how we use (and misuse) data. This includes data collection techniques, data privacy, and the potential for data bias."
-    publishedDateTime: 2023-08-10T20:14:00Z
-    webUrl: "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/"
-    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/amp/"
+  - title: "Take advantage of AI and use it to make your business better"
+    excerpt: "Only 54% of AI projects make it to production. Here's how to overcome the challenges and benefit from artificial intelligence in business.\nThe post Take advantage of AI and use it to make your business better appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-15T11:00:00Z
+    webUrl: "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-your-business-better/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 119
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/dji_0420-9b.blog-lead-space-40x21-1.jpg"
+        width: 2400
+        height: 1260
+        isCached: true
+  - title: "How generative AI correlates IT and business objectives to maximize business outcomes"
+    excerpt: "Incorporate generative AI into existing technologies — such as SAP, CPI interfaces, Signavio and Salesforce — to achieve targeted outcomes.\nThe post How generative AI correlates IT and business objectives to maximize business outcomes appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-14T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-generative-ai-correlates-it-and-business-objectives-to-maximize-business-outcomes/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 112
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/How-generative-AI-correlates-IT-and-business-objectives-to-maximize-business-outcomes.jpg"
+        width: 1080
+        height: 540
+        isCached: true
+  - title: "Time To Redesign Your Career For The Age Of Artificial Intelligence"
+    excerpt: "The continued rise of AI will change the type of work we do, and how we do it, but augmenting rather than replacing human capabilities."
+    publishedDateTime: 2023-08-13T21:30:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d5448255e2983976b1ea3f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d940f4725deaf2b4635ebc/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 771
+        height: 800
         isCached: true
-  - title: "How to use AI to create a logo for free"
-    excerpt: "Generative AI is perfect for producing code, writing letters, and creating images. But how does it fare generating logos?"
-    publishedDateTime: 2023-08-10T18:44:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-use-ai-to-create-a-logo-for-free/"
+  - title: "Background actors fear being taken ‘advantage of’ by AI, as union and studio negotiations continue to stall"
+    excerpt: "Negotiations between SAG-AFTRA and the AMPTP continue to be at a standstill, as background actors worry artificial intelligence could replace them with digital copies."
+    publishedDateTime: 2023-08-11T05:59:00Z
+    webUrl: "https://www.foxnews.com/entertainment/background-actors-fear-being-taken-advantage-ai-union-studio-negotiations-continue-stall"
+    ampWebUrl: "https://www.foxnews.com/entertainment/background-actors-fear-being-taken-advantage-ai-union-studio-negotiations-continue-stall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/background-actors-fear-being-taken-advantage-ai-union-studio-negotiations-continue-stall.amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
-  - title: "Five ways to use AI responsibly"
-    excerpt: "However, Cousineau says one thing is already clear from these nascent moves: \"Responsible AI has to be embedded in ethics throughout the entire lifecycle.\" Also: Today's AI boom will amplify social problems if we don't act now Her views on the importance ..."
-    publishedDateTime: 2023-08-14T12:01:00Z
-    webUrl: "https://www.zdnet.com/article/five-ways-to-use-ai-responsibly/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
+      name: Fox News
+      domain: foxnews.com
+    quality: 69
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/1200/675/SAG-Strike-Sign.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ONfDU+lICmL50+RsWmbwg5yxAhi25o+ZR8NpJLxcp+Ol9keEQvJa7RxSSCK2P2KG0hGzaU/hTMgjKzm3JasNOCEXp9RCVxxrA7gCoYwJf86QWqjOPDrnaJ6Y1dEqv9SKqbxalvDT7M1zGkpVYC/WtP4040p4JbVmXAQ4euFpeafLAUlhdr0liQTRtQ9Ju2Ay5ryUUcz5DQKmpEzA9w0ABOdFfpVWwjFOSlZt2hl2fbvDmsxOsmuHsDFeiQkW2aOGqaQm6F50XKxD4sztYQtjO8Jt3kNFrtFn0awIz3Q1kTUkmKHTRjK4XEIfGrJ+2ZX0DlF5FAIFhzKH9Xw9Q3uyXQaBSHbpPg2H1p44tdKFTXDK4IxOxFtF0OWC15GdoIw5YxjjVUz9lnMNE277yiGo1e374zIjCa6c4ygxFAWOGOuTKES28gbI0pYQiwOOPhhPjAlEUFG1Z1YtiRlQ08HYf+HSiod/an1hpc0svKdzAlqUkictLx307VnBGVyh1E/jcPMdX5S9ZLnLP5W05frN3A==;xaYsxSmh2l/hIcz+f8O2Ag=="
 ---

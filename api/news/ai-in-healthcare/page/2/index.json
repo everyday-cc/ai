@@ -2,104 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-07-27-an-extensive-analysis-on-the-healthcare-natural-language-processing-nlp-market-with-projected-13-cagr-growth-from-2023-to-2030.md",
-      "title": "An extensive analysis on the Healthcare Natural Language Processing (NLP) market with projected 13% CAGR growth from 2023 to 2030",
-      "excerpt": "The \"Healthcare Natural Language Processing (NLP) Market\" is segmented into regions, Applications, and Types. The report presents the research and analysis provided within the Healthcare Natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33406530/an-extensive-analysis-on-the-healthcare-natural-language-processing-nlp-market-with-projected-13-ca",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33406530/an-extensive-analysis-on-the-healthcare-natural-language-processing-nlp-market-with-projected-13-ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33406530",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33406530",
-      "publishedDateTime": "2023-07-26T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence.md",
-      "title": "AI At The Doctor? Amazon Launches New Service As Google, Microsoft Aim At Merging Healthcare With Artificial Intelligence",
-      "excerpt": "Amazon is continuing its expansion into the health space with the launch of a new generative AI tool called HealthScribe, meant to take over some time-consuming administrative tasks of doctor’s offices and clinics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 393,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1637e81d2f6620816a7fe/0x0.jpg?format=jpg&crop=4886,2747,x0,y49,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-07-26T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2023-07-27-aws-launches-new-healthcare-focused-services-powered-by-generative-ai.md",
       "title": "AWS launches new healthcare-focused services, powered by generative AI",
       "excerpt": "Amazon says that the AI capabilities in HealthScribe are powered by Bedrock, its platform that provides a way to build generative AI-powered apps via pretrained models from startups as well as Amazon itself. This might be cause for alarm, given generative AI’s tendency to exhibit biases, confidently invent facts and generally go off the rails.",
@@ -1465,6 +1367,95 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-exploring-how-soft-robotics-can-revolutionize-minimally-invasive-surgery.md",
+      "title": "Exploring how soft robotics can revolutionize minimally invasive surgery",
+      "excerpt": "An overview paper published in the journal Science explores artificial intelligence (AI) applications in medical robots, including Professor Kaspar Althoefer's scientific research unlocking the potential of flexible and adaptable surgical robots to revolutionize surgical procedures.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/soft-robotics-revoluti.jpg",
+          "width": 640,
+          "height": 346,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
+      "publishedDateTime": "2023-07-14T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68360-million-by-2032.md",
+      "title": "Artificial Intelligence (AI) in Manufacturing Market Size To Hit USD 68,360 Million By 2032",
+      "excerpt": "The global artificial intelligence (AI) in manufacturing market size was valued at USD 3,800 million in 2022. Artificial intelligence (AI) in manufacturing units is adopted to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33232796/artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68-360-million-by-2032",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33232796/artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68-360-million-by-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33232796",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33232796",
+      "publishedDateTime": "2023-07-14T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "AI Hardware"
       ]
     }
   ],

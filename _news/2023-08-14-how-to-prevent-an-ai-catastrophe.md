@@ -24,87 +24,38 @@ images:
     isCached: true
 
 related:
-  - title: "How to take action against AI bias"
-    excerpt: "Given the growing popularity of ChatGPT and generative AI, and the emergence of synthetic data (or artificially manufactured information), data scientists must be the custodians of data. Training data scientists to better curate data and implement ethical practices for collecting and cleaning data will be a necessary step."
-    publishedDateTime: 2023-08-14T09:03:00Z
-    webUrl: "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.html"
-    ampWebUrl: "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html"
+  - title: "Where AI Can And Can’t Help In Talent Management"
+    excerpt: "There are considerable challenges and potential pitfalls to be aware of when using AI in talent management and HR. This article will explore where AI can benefit and potentially harm talent management efforts."
+    publishedDateTime: 2023-08-13T11:02:00Z
+    webUrl: "https://www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/"
+    ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://images.idgesg.net/images/article/2018/01/diversity_team_collabotion_paper-cutout-people-100745850-large.jpg?auto=webp&quality=85,70"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d4f3db21f52229c2d9eed6/0x0.jpg?format=jpg&crop=2925,1645,x0,y151,safe&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "The Case Against AI Everything, Everywhere, All at Once"
-    excerpt: "and inspire independent funding and ethics guidelines for a vibrant research community that will fuel innovation. With the right priorities and guardrails, AI can help advance science, cure diseases, build new industries, expand joy, and maintain human ..."
-    publishedDateTime: 2023-08-11T09:04:00Z
-    webUrl: "https://time.com/6302761/ai-risks-autonomy/"
+  - title: "AI Helps Detect Muscle Mass in Head and Neck Cancer Patients"
+    excerpt: "Among individuals diagnosed with head and neck cancer, an AI-driven evaluation of sarcopenia could be conducted at regular intervals during treatment."
+    publishedDateTime: 2023-08-13T14:05:00Z
+    webUrl: "https://www.medindia.net/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 69
+      name: Medindia
+      domain: medindia.net
+    quality: 59
     images:
-      - url: "https://api.time.com/wp-content/uploads/2023/08/GettyImages-1421511892.jpg?quality&#x3D;85"
-        width: 2121
-        height: 1414
+      - url: "https://www.medindia.net/health-images/an-artificial-intelligence-accurately-predict.jpg"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Foundations Seek to Advance AI for Good, Protect Against Threats"
-    excerpt: "While technology experts sound the alarm on the pace of AI development, philanthropists have been responding with an uptick in grants."
-    publishedDateTime: 2023-08-14T08:50:00Z
-    webUrl: "https://businessjournaldaily.com/foundations-seek-to-advance-ai-for-good-protect-against-threats/"
-    type: article
-    provider:
-      name: Business Journal Daily
-      domain: businessjournaldaily.com
-    quality: 39
-    images:
-      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/08/artificial-intelligence.png"
-        width: 925
-        height: 520
-        isCached: true
-  - title: "Fiction Writers Fear The Rise Of AI, But Also See It As a Story To Tell"
-    excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity. More than 10,000 of them endorsed an open letter from the Authors Guild this summer,"
-    publishedDateTime: 2023-08-13T15:51:00Z
-    webUrl: "https://www.wccbcharlotte.com/2023/08/13/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell/"
-    type: article
-    provider:
-      name: WCCB
-      domain: wccbcharlotte.com
-    quality: 37
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2023/08/f/y/i-am-code.jpg"
-        width: 900
-        height: 579
-        isCached: true
-  - title: "Fiction writers fear the rise of artificial intelligence, but also see it as a story to tell"
-    excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity."
-    publishedDateTime: 2023-08-13T10:20:00Z
-    webUrl: "https://www.wishtv.com/news/entertainment-news/fiction-writers-fear-the-rise-of-artificial-intelligence-but-also-see-it-as-a-story-to-tell/"
-    type: article
-    provider:
-      name: WISH-TV
-      domain: wishtv.com
-    quality: 26
-    images:
-      - url: "https://www.wishtv.com/wp-content/uploads/2023/08/AI_Books_AP23221693062073-scaled.jpg"
-        width: 2560
-        height: 1897
-        isCached: true
-  - title: "Fiction writers fear the rise of AI, but also see it as a story to tell"
-    excerpt: "Crime writer Jeffrey Diger, known for his thrillers set in contemporary Greece, is working on a novel touching upon AI and the metaverse, the outgrowth of being “continually on the lookout for what’s percolating on the edge of societal change,” he said."
-    publishedDateTime: 2023-08-13T17:52:00Z
-    webUrl: "https://www.kvue.com/article/news/nation-world/artificial-intelligence-fiction-book-writers/507-603f0413-538e-4d35-9161-74c1d09cd9aa"
-    type: article
-    provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 17
 
 secured: "kxf6dKloSnfw/I4TY1nRVgNfBCYZgSfNi79xcCgDD/f8CV06YFPWRGv2EeOq4cVWGng8BgHdaHwdDmlOiTlx44cIq9rqbhz0TfKqJa41iNlJGmqbf6gfQjd5cXiXmMMHCK4VwRvPvGx9byqfp1AM21uC+IBsdEP108uS1h0h9h0tMjIBOOSxg2ZhRFMaJ7QUodNaM0lb2QP3WqhUhr6AKFw1trsmLqAExfZqrhxgaFrBOCPQ2O6A+SVm/mb7Qxt5FNK96Yi4k13r/oInpo4ZB3VLp79xVtd2LpHnlNMPmZVzgMziQyHWiGHKPB+NklgPgu68fv5ebiULGeitcXGAunN2qcluLhYtSAA6+0DBMgU=;zbYRHNXnZITBeuK6CgBNHQ=="
 ---

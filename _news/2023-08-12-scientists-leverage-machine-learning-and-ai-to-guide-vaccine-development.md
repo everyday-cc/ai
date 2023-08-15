@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230811/Scientists-leverage-mac
 webUrl: "https://www.news-medical.net/news/20230811/Scientists-leverage-machine-learning-and-AI-to-guide-vaccine-development.aspx"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "Parexel and Partex Announce Innovative Alliance Leveraging Artificial Intelligence and Big Data to Accelerate Drug Discovery and Development"
+    excerpt: "Parexel and Partex are committed to driving advancements in drug development and providing valuable insights to their customers. The strategic alliance marks a significant step forward in leveraging artificial intelligence and big data to revolutionize the pharmaceutical industry and bring life-changing treatments to patients in need."
+    publishedDateTime: 2023-08-15T11:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/15/9864394.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "xwlTsBaPwdeOIjaVVXLPpncBdKfEUaR83S4cv/6mwmtE5kZp2hN186HSgn9s94HqH4SkhaOZKrsNPpsmIkG4/VI25UU2P7kmHEgYJbffQQILf+MdUFy35iCFjC/PEgQzFnwF31nNHlSX/yXyT1CIJE5Pl5fi6WWgfV3oQZ6VeMP2KC3zcwH91M1MOfw1g93SfG8Cp7XeQ0y3nzOJjPOvLHr2em2uFF5f+z/cYQntnf/KixRKhKZD2RrD+jhoDw7awqpQWDI685QRm9jSR3+Fh5MY8JwF/kLPdP0vlC85gcmFR2uIL8mU+ZnQp37kokU/D/YH2I8Vtc2zSaQ+sSZfQu4BzBwvQJTel9N1WANgjdU=;K0p7QM2Wd2htX+VJy5tRiQ=="
 ---

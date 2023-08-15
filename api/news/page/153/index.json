@@ -2,6 +2,195 @@
   "page": 153,
   "value": [
     {
+      "path": "_news/2023-05-09-what-manufacturers-need-to-know-about-optimizing-operations-with-computer-vision.md",
+      "title": "What manufacturers need to know about optimizing operations with computer vision",
+      "excerpt": "How computer vision is transforming manufacturing by increasing product quality, reducing waste and creating safer work environments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/what-manufacturers-need-to-know-about-optimizing-operations-with-computer-vision/",
+      "originalUrl": "https://venturebeat.com/ai/what-manufacturers-need-to-know-about-optimizing-operations-with-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T20:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ai-machine-learning-openlayer-finalizes-48m-seed-round.md",
+      "title": "AI, Machine Learning: Openlayer Finalizes $4.8M Seed Round",
+      "excerpt": "Openlayer, which claims to be the creator of the most comprehensive platform for testing AI, announced that it has closed a $4.8M seed round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/12/US-Dollar-George-Washington-Money.jpg",
+          "width": 1280,
+          "height": 1047,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/206771-ai-machine-learning-openlayer-finalizes-4-8m-seed-round/amp/",
+      "publishedDateTime": "2023-05-08T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-new-jersey-biotech-company-uses-artificial-intelligence-for-drug-development.md",
+      "title": "New Jersey biotech company uses artificial intelligence for drug development",
+      "excerpt": "PsychoGenics CEO Emer Leahy of Paramus, New Jersey, explains how the first potential AI-discovered treatment for schizophrenia was developed through machine learning. Fox News Digital spoke with her.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6327063190112",
+      "originalUrl": "https://www.foxnews.com/video/6327063190112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44203693-1c85-4ea8-9deb-8fba074c2686/b1fd64fd-3b38-49fb-b878-65d240efae67/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-you-can-earn-up-to-25-an-hour-training-ai-to-write-better-in-other-languages.md",
+      "title": "You can earn up to $25 an hour training AI to write better in other languages",
+      "excerpt": "If you're a writer with an interest in AI and other languages, there's a job available for you. Scale AI, a data-labeling company, has job listings for writers to train generative AI models to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5",
+      "originalUrl": "https://www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/645a535ec726bc00196a8d95?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5?amp",
+      "publishedDateTime": "2023-05-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-artificial-intelligence-robotics-market-global-analysis-2023-2030.md",
       "title": "Artificial Intelligence Robotics Market Global Analysis 2023-2030",
       "excerpt": "Highlights with Short Brief of Artificial Intelligence Robotics Market: Artificial Intelligence Robotics Marketsize, segment (mainly coveringMajorType (, Service Robots, Industrial Robots, ,),End Users (, Military and Defense, Law Enforcement, Healthcare ...",
@@ -1018,195 +1207,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-what-really-made-geoffrey-hinton-into-an-ai-doomer.md",
-      "title": "What Really Made Geoffrey Hinton Into an AI Doomer",
-      "excerpt": "The AI pioneer is alarmed by how clever the technology he helped create has become. And it all started with a joke.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/geoffrey-hinton-ai-chatgpt-dangers/",
-      "originalUrl": "https://www.wired.com/story/geoffrey-hinton-ai-chatgpt-dangers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6458f22c4a854832b16fcf7b/191:100/w_1280,c_limit/GeoffHinton_Biz_h_15908078.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ocrolus-adds-openai-gpt-embeddings-for-deeper-automation-in-financial-document-analysis.md",
-      "title": "Ocrolus Adds OpenAI GPT Embeddings for Deeper Automation in Financial Document Analysis",
-      "excerpt": "Addition strengthens company's ability to process semi-structured and unstructured documents without human involvementNEW YORK, May 8, 2023",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ocrolus-adds-openai-gpt-embeddings-for-deeper-automation-in-financial-document-analysis-1032302388",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ocrolus-adds-openai-gpt-embeddings-for-deeper-automation-in-financial-document-analysis-1032302388",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ais-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.md",
-      "title": "AI's facial recognition failures: Three times crime solving intelligence got it wrong",
-      "excerpt": "Law enforcement's use of artifical intelligence-driven facial recognition puts everyone into what one expert called a \"perpetual police line-up,\" and studies show it's more likely the finger will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong",
-      "originalUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/12/340/340/69272029239__714BF986-699F-43ED-BD6D-FD1D2BB59635.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.amp",
-      "publishedDateTime": "2023-05-08T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ai-and-the-hollywood-writers-strike.md",
-      "title": "AI and the Hollywood Writers’ Strike",
-      "excerpt": "The fear—or hope, depending on side of the desk you sit on—is that AI can replace writers and undermine their fees. One of the key sticking points in the Writers Guild of America (WGA) strike that began on May 1 at midnight,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/",
-      "originalUrl": "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenation.com/wp-content/uploads/2023/05/1SAGShotCrop.jpg",
-          "width": 1440,
-          "height": 907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/tnamp/",
-      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/tnamp/",
-      "publishedDateTime": "2023-05-08T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Nation",
-        "domain": "thenation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-15-saudi-arabia-and-uae-invest-in-thousands-of-nvidia-chips-aiming-to-become-global-ai-powerhouses.md",
+      "title": "Saudi Arabia and UAE invest in thousands of Nvidia chips, aiming to become global AI powerhouses",
+      "excerpt": "The Financial Times reports that Saudi Arabia has bought at least 3,000 Nvidia H100 GPUs, which Nvidia CEO Jensen Huang calls the first chip designed for",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99787-saudi-arabia-uae-invest-thousands-nvidia-chips-aiming.html",
+      "originalUrl": "https://www.techspot.com/news/99787-saudi-arabia-uae-invest-thousands-nvidia-chips-aiming.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image.jpg",
+          "width": 2100,
+          "height": 1181,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-vsbltys-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intels-gpu-flex-170.md",
       "title": "VSBLTY'S AI-DRIVEN WEAPONS DETECTION SOFTWARE IS FASTER & MORE RELIABLE WITH INTEL'S GPU FLEX 170",
       "excerpt": "VSBLTY's AI-driven software Vector provides early threat detection using enhanced facial recognition, and the ability to identify weapons, utilizing surveillance cameras to observe a wide area around protected sites.",
@@ -202,7 +254,7 @@
       "originalUrl": "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -800,6 +852,40 @@
       ]
     },
     {
+      "path": "_news/2023-08-09-nvidias-stock-slips-on-introduction-of-new-ai-data-center-cpugpu-chip.md",
+      "title": "Nvidia's stock slips on introduction of new AI data-center CPU+GPU chip",
+      "excerpt": "Read: Will AI do to Nvidia what the dot-com boom did to Sun Microsystems? Analysts compare current hype to past ones. AMD introduced its MI300X CPU + GPU at its AI product launch in June.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/marketwatch/20230808877/nvidias-stock-slips-on-introduction-of-new-ai-data-center-cpugpu-chip",
+      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230808877/nvidias-stock-slips-on-introduction-of-new-ai-data-center-cpugpu-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-tech-down-as-ai-enthusiasm-stalls-tech-roundup.md",
       "title": "Tech Down as AI Enthusiasm Stalls -- Tech Roundup",
       "excerpt": "Shares of technology companies ticked lower amid as enthusiasm about the rise of artificial-intelligence technology stalled. Nvidia slipped, but remains",
@@ -1312,111 +1398,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-08-07T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-nvidia-stock-is-still-a-top-pick-at-bank-of-america-even-after-its-stunning-ai-driven-209-rally.md",
-      "title": "Nvidia stock is still a 'top pick' at Bank of America even after its stunning AI-driven 209% rally",
-      "excerpt": "\"Demand isn't the issue, its supply and importantly the pace with which US cloud service providers are able to set up genAI compute instances.\"",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60747ea52cc1ef0018da1405?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8?amp",
-      "publishedDateTime": "2023-08-07T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-dell-technologies-nvidia-collaborate-on-full-stack-generative-ai-solutions.md",
-      "title": "Dell Technologies & NVIDIA Collaborate On Full-Stack Generative AI Solutions",
-      "excerpt": "Dell and NVIDIA announced new validated designs for inference systems based on NVIDIA GPUs and software, a services offering, and a new Dell Precision AI workstation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 256,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d00bf4e0b0b9ba04775ac7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/",
-      "publishedDateTime": "2023-08-06T14:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

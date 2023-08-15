@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-08-nvidia-stock-is-still-a-top-pick-at-bank-of-america-even-after-its-stunning-ai-driven-209-rally.md",
+      "title": "Nvidia stock is still a 'top pick' at Bank of America even after its stunning AI-driven 209% rally",
+      "excerpt": "\"Demand isn't the issue, its supply and importantly the pace with which US cloud service providers are able to set up genAI compute instances.\"",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60747ea52cc1ef0018da1405?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8?amp",
+      "publishedDateTime": "2023-08-07T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-dell-technologies-nvidia-collaborate-on-full-stack-generative-ai-solutions.md",
+      "title": "Dell Technologies & NVIDIA Collaborate On Full-Stack Generative AI Solutions",
+      "excerpt": "Dell and NVIDIA announced new validated designs for inference systems based on NVIDIA GPUs and software, a services offering, and a new Dell Precision AI workstation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 256,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d00bf4e0b0b9ba04775ac7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/",
+      "publishedDateTime": "2023-08-06T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-ai-boom-could-lead-to-a-new-gpu-shortage-but-nvidia-says-the-current-problem-is-just-packaging.md",
       "title": "AI boom could lead to a new GPU shortage, but Nvidia says the current problem is just packaging",
       "excerpt": "Recent statements from AI companies indicate that the AI boom is increasing the demand for GPUs to the point where some report shortages. Nvidia claims its",
@@ -1339,112 +1444,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-taiwan-semiconductors-sales-are-down-even-with-the-ai-boom.md",
-      "title": "Taiwan Semiconductor's Sales Are Down -- Even With the AI Boom",
-      "excerpt": "Investors have bid up computer chip stocks such as TSMC this year on the back of the artificial intelligence (AI) boom, which requires an immense amount of computing power to train and run. The iShares Semiconductor ETF is up 47.5% in 2023, outpacing the S&P 500 's (still impressive) return of 19%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/28/taiwan-semiconductors-sales-are-down-even-with-the/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/28/taiwan-semiconductors-sales-are-down-even-with-the/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/741327/latex-glove-computer-chip.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-qualcomm-and-meta-team-up-on-ai-1-of-these-is-an-ai-sleeper-stock.md",
-      "title": "Qualcomm and Meta Team Up on AI -- 1 of These Is an AI Sleeper Stock",
-      "excerpt": "But Qualcomm and social media titan Meta Platforms just teamed up to bring AI-powered services to a device near you. Here's what you need to know about the AI sleeper stock Qualcomm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/28/qualcomm-and-meta-team-up-on-ai-1-of-these-is-an-a/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/28/qualcomm-and-meta-team-up-on-ai-1-of-these-is-an-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740917/smartphone-city-connectivity.jpg",
-          "width": 4896,
-          "height": 3264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -26,6 +26,22 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "Self-driving cars could slow down traffic, study finds"
+    excerpt: "Using computer simulations, researchers have found that automated vehicles could slow down travel time through intersections compared to connected vehicles."
+    publishedDateTime: 2023-08-15T11:16:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/08/self-driving-cars-could-slow-down-traffic-study-finds/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 24
+    images:
+      - url: "https://eandt.theiet.org/media/22232/web_concept-for-automomous-vehicles_credit_metamorworks_shutterstock_1019225323.jpg?crop=0,0,0,0.5078125&cropmode=percentage&width=1200&height=450&rnd=133365686950000000"
+        width: 1200
+        height: 450
+        isCached: true
+
 secured: "mMU7/vhwOd/b8iVPsoUZT3Lm9SSi/5LPv9aj7Aj31vgbtsnsbfkeLukK29+SOd7ZyQVsvWoZBD6aeBwcbk9tLFCUrasixglu6D3YKgjgONBNJfeARhrqz/bl9UPJdb384Nn5UM2V7L3w3SmGc+NdD9q7Hpy35jW7hclIm+7QtEvsSZ1Lt9FUuBqJTIC939MTN0XMKLEgUDRus5NW2egpG98N6aRPZUwddpZ4cgG83rLaGBpaj4Sg4UmjqN8ED5vGQiF0ilsFULQe5Il0zNooRqbLND9sllWsRIX/wim8h8T58+c7+AjNd8DDLCJ2ENZCMj2MqS1Yt8NFPsS1zi0/yenLcURFMCCdunMICJoxGhRXPf9JcJUuxrMir7IvkCMXf3CAWRJ79BfgUIgvd6I55oNto+yXRDUZffbBRe2h2FD+zEI6556Yya/Iv2hvhHCbe2fbWYUFSGLxXnQI5Jm8ugdEEnyCUg3JMlY7/iBC/nRXiLB6gUOyWpZtTJSUnw1gRTxDx6lI9/Um89V+ZYQZ1g==;UrITMTO3pllqzyYYwwNNOg=="
 ---
 

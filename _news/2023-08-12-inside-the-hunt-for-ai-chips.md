@@ -24,37 +24,60 @@ topics:
   - AI Ethics
 
 related:
-  - title: "The Hidden Challenges In Integrating Data For AI Systems"
-    excerpt: "The act of combining data from multiple sources is often resulting in accidental “upclassing”, “PII additive” or “deanonymization” problems, causing significant issues."
-    publishedDateTime: 2023-08-11T05:00:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/amp/"
+  - title: "The threatening potential of AI and child abuse"
+    excerpt: "The U.K.'s National Crime Agency warned that the proliferation of AI-generated explicit images of children is \"normalizing\" pedophilia and disturbing behavior against kids."
+    publishedDateTime: 2023-08-11T05:59:00Z
+    webUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse"
+    ampWebUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb0de59a-4578-48df-a0f2-52d127244c2e/438c3371-1ec1-405e-9325-a09ec771d10d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI and the Evolving Landscape of Creativity"
+    excerpt: "Welcome to the age of co-creation, where the lines blur between the creator, the technological ally (AI), and the audience. This rich tapestry of collaboration challenges and redefines traditional boundaries, venturing into unexplored domains of both individual inspiration and communal expression."
+    publishedDateTime: 2023-08-10T23:11:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2023-08/AIPainting.png.jpg?itok=aaxz6CBC"
+        width: 320
+        height: 320
+        isCached: true
+  - title: "Turing Wants To Unleash Human Potential Through AI-Powered Tech Services"
+    excerpt: "In 2020, when the Pandemic mandated the move to remote work, Turing raised $32million in Series B funding to define a future where companies could push a button to spin up their engineering team instantly."
+    publishedDateTime: 2023-08-12T10:46:00Z
+    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/12/turing-wants-to-unleash-human-potential-through-ai-powered-tech-services/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd1bc5e9c119b9a8960ea8/0x0.jpg?format=jpg&crop=400,400,x0,y0,safe&width=1200"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "The looming battle over where generative AI systems will run"
-    excerpt: "Putting AI on cloud versus on-premises systems may seem like a simple decision, but it's much more complex (and potentially expensive)."
-    publishedDateTime: 2023-08-15T09:05:00Z
-    webUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.html"
-    ampWebUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
+    quality: 46
+  - title: "The double-edged nature of parenting, mental health and artificial intelligence"
+    excerpt: "There are two sides to every coin — and sometimes our strengths become weaknesses. This hour, TED speakers explore the mixed blessings and volatile flip sides of mental health, parenting and AI. Guests include developmental psychologist Yuko Munakata ..."
+    publishedDateTime: 2023-08-11T05:44:00Z
+    webUrl: "https://www.npr.org/2023/08/10/1193281234/the-double-edged-nature-of-parenting-mental-health-and-artificial-intelligence/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: NPR
+      domain: npr.org
+    quality: 33
     images:
-      - url: "https://images.techhive.com/images/article/2016/03/ceo_cio_battle-100648302-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 1200
+      - url: "https://media.npr.org/assets/img/2023/08/10/trh_cuts_both_ways_artwork1_wide-f5cd94374cdee89695b5a53cef8e676148eb1927-s1400-c100.jpg"
+        width: 1400
+        height: 787
         isCached: true
 
 secured: "4l3zeCf1M/8lbAYG287T3QjMnmKePoOm7ZhJwqN0HIuM/hHkiJFPdzMgDi27Yz+pqbid/QcG9v7/D73bjx4T61gayqCOrl354T3NnULqd4rDxDiIzw5XWRWhQgiNtgBcbGncvzakF9sq370HZjLj1AJ5VaDLXnhCj6iPmBlwSZZrcOa/8RYGckcA7OGklAH4K0Ka2gFQ9YvuoquFdZdDyGSADClbthRaD/pLurAHVXLp6Ssw6UE9onRGvYij8plE1ofapLBcvQ5e0c8qUSObg0oeG0xcCDMp31fABv7fyY06lBLvXN3x0eAs8i4RV9flGvbFb5sFempW5rEEr4RIlKd1EFfWpEMzlsmen/hw5SCr3cX6oPCUUgjzkQWKLkb+m9DIGv/POeCkSmLN1uagrtrsNC94Y5wGD9q80uCZWFmXd5D9USkzqJNJ+yPdRsXpRdkgHf6gEO/2cbtxOrWMt2FhOU4MgsDQIJQGBNlC2uqXIK0g5HMEfSNQ60KK09bD0+vrJuYNYrnDi5r6Ek2LBQ==;o3WcgMFxP3mgx0czww0zew=="

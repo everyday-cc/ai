@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rasgo launches Rasgo AI, a generative AI agent for enterprise data warehouse analytics"
-    excerpt: "Rasgo said its AI employs GPT for “intelligent reasoning,” which enables it to think and act like a business analyst for data warehouses."
-    publishedDateTime: 2023-08-10T18:49:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/rasgo-launches-rasgo-ai-generative-ai-agent-enterprise-data-warehouse-analytics/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/rasgo.png?w=1200&strip=all"
-        width: 1032
-        height: 668
-        isCached: true
   - title: "Martin Klein Returns to ECS as Analytics & Artificial Intelligence VP"
     excerpt: "Martin Klein, former chief operating officer of the Department of Defense’s Joint Artificial Intelligence Center, has rejoined ECS to serve as vice president of analytics and AI responsible for the company’s overseeing strategic digital transformation initiatives in the defense and intelligence markets."
     publishedDateTime: 2023-08-11T09:31:00Z
@@ -52,44 +38,16 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "WCTC To Offer New Certificates In Artificial Intelligence And Data Analytics"
-    excerpt: "Waukesha County Technical College announced plans to offer new certificates in the fall about artificial intelligence and data analytics."
-    publishedDateTime: 2023-08-10T18:49:00Z
-    webUrl: "https://patch.com/wisconsin/waukesha/wctc-offer-new-certificates-artificial-intelligence-data-analytics"
+  - title: "Top 10 Alternatives to GPT-3 – Analytics India Magazine"
+    excerpt: "GPT-3 has 175 billion parameters, making it one of the largest language models ever created. It can generate human-like text and perform a wide range of tasks, including translation, summarisation, and even writing codes."
+    publishedDateTime: 2023-08-12T19:41:00Z
+    webUrl: "https://www.inferse.com/677595/top-10-alternatives-to-gpt-3-analytics-india-magazine/"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 34
-    images:
-      - url: "https://patch.com/img/cdn20/users/25016349/20230810/024904/styles/patch_image/public/wctcgrab___10144852995.png"
-        width: 985
-        height: 739
-        isCached: true
-  - title: "A New Era in Environmental Monitoring: Uniting Satellite Data Analytics and Artificial Intelligence"
-    excerpt: "Welcome to a pioneering era in environmental monitoring, where state-of-the-art technology converges with our pressing demand for sustainable solutions. Today, we delve into a groundbreaking innovation that harnesses the potential of satellite data analytics empowered by artificial intelligence (AI)."
-    publishedDateTime: 2023-08-11T08:10:00Z
-    webUrl: "https://techbullion.com/a-new-era-in-environmental-monitoring-uniting-satellite-data-analytics-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 23
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-11T090907.168.png"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
-    excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
-    publishedDateTime: 2023-08-11T12:04:00Z
-    webUrl: "https://diginomica.com/attention-enterprises-generative-ai-sexy-esg-has-teeth"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 19
+      name: Inferse
+      domain: inferse.com
+    quality: 4
 
-secured: "E41/uuSNGZU4TcoyIqDoEHX79i0F8Uk9hgv03lov3CYZZ2tZNf7lGbQHkFmxqQPY08bgvkI5y6DYAG0WbMT9Fo0/eVG6SM4lNFgmeKWULrW7/KdK17ZI9+3hQU9oLT8k4oK4lULOINAox1inkPxl1NKod4Qoens2Ee2we/ZfdEUwANVoa23bNCfHADXi4Js7l5ttQ3iluNnL9MTe3vsBgN1vj8UagZrs3JZH965cy9xSPkfBmQgkPj2NiCqIMKSLqNeyUuOXIREF9WIFsZn/684FxFrhszREs0cagPBhrjMWwfSG/rSVv6Hmyy+ndLAAxxGw8bml5YzMPXckxT9j+TVbyHnIlOZQisEYJWqs9y0=;wEei12OzEbjzhM6TTUAYYA=="
+secured: "d7baPrs2r5XRQfcYhIjSWs4tWUPrAY6UG0f8B8+tn1q04LhnLNyHNfGVgCu4ZBbihvgpHRj+oFsxImqf1Jw3cvHGUQja9I/ef3l1yPlKMx0XjZP/Zgg2DYG9jURRn7Rt6q+jPSQRXqUPND1JgKLHHoH202ZbAhQ/W3DYbGbzJPG05SHy7P0k71t8qFwPTcqjLMN8ECghUaZeI38f29raovLG5bWw6Lgn908IRJ5XmpYXX9KQMhFDyH5O/NQ1pLCoB9wZANT3tMO2qBnWICt8IycYDeLTzacU6bvmXBeU36+ZfdBsclaR3OYgtQvAeuIT/u6q86qS/eoGh5jNOPF3IuMzbs5Oq7L9DmfLmtEzbYfl1p3xHsMQU8z27IPwK5nDp/HwN/DSjdq0h6u6qQDBFUggAoJqEx9/muHX5MQnr6B1iWuy+eFvnIY6Y+LHsEW4mnz5Txo7aM3MEOfyhH3uRiwwdU9+iHaMkGO3e51ItJ6spXqhtVkyHjkNPgAPrYULslHOEJ4iOSiwsj+c3N7Xkw==;b5ODgtDwO1dmpsMPRdu+GA=="
 ---
 

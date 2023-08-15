@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-05-23-intel-announces-falcon-shores-its-ai-chip-for-2025.md",
+      "title": "Intel announces Falcon Shores, its AI chip for 2025",
+      "excerpt": "Intel has revealed early details about its next-gen artificial intelligence (AI) chip. Called Falcon Shores, this chip will reportedly boast 288GB of high bandwidth memory (HMB3) and support 8-bit floating-point computation. The company plans to introduce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html",
+      "originalUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2018/12/AH-Intel-logo-MWC-2018-2-New.jpg",
+          "width": 1918,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp",
+      "publishedDateTime": "2023-05-23T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-qualcomm-revs-up-ai-capabilities-for-snapdragon-laptops-and-tablets.md",
+      "title": "Qualcomm Revs Up AI Capabilities for Snapdragon Laptops and Tablets",
+      "excerpt": "Qualcomm jumps on the AI train at Microsoft Build 2023, bringing AI access directly to devices running on its latest Snapdragon chip for Windows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/qualcomm-revs-up-ai-capabilities-for-snapdragon-laptops-and-tablets",
+      "originalUrl": "https://www.pcmag.com/news/qualcomm-revs-up-ai-capabilities-for-snapdragon-laptops-and-tablets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00zcg433I72hEGoITIdYLvP-1.fit_lim.size_1200x630.v1684800238.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-nvidia-gpus-see-massive-price-hike-and-huge-demand-from-ai.md",
       "title": "Nvidia GPUs see massive price hike and huge demand from AI",
       "excerpt": "It feels like we’ve only just emerged from the debilitating graphics card shortage of the last few years, but a new report suggests we can’t breathe easy just yet. Could a new GPU shortage be ...",
@@ -1335,92 +1430,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances.md",
-      "title": "AI Demand Triggers GPU Shortage and Unusual Big Tech Alliances",
-      "excerpt": "When our analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* They just revealed what ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech.md",
-      "title": "This Web3 Ready Beauty Brand Is Co-Created By Its Community And Produced Using AI Tech",
-      "excerpt": "Web3 ready beauty brand KIKI is co-created by its community who can vote on the products that go to market and is also made using AI tech",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/",
-      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646234f2e8052ab0dec2ff1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/amp/",
-      "publishedDateTime": "2023-05-15T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

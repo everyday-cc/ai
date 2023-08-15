@@ -9,8 +9,8 @@ ampWebUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-wh
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: InfoWorld
@@ -30,32 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "The Hidden Challenges In Integrating Data For AI Systems"
-    excerpt: "The act of combining data from multiple sources is often resulting in accidental “upclassing”, “PII additive” or “deanonymization” problems, causing significant issues."
-    publishedDateTime: 2023-08-11T05:00:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/amp/"
+  - title: "Tackling Healthcare’s Biggest Burdens with Generative AI"
+    excerpt: "Spread the loveIn recent years, the healthcare industry has faced numerous challenges. From managing the overwhelming patient data to combating the increasing prevalence of chronic diseases, these burdens have put immense pressure on medical professionals and healthcare systems."
+    publishedDateTime: 2023-08-11T11:25:00Z
+    webUrl: "https://www.thetechedvocate.org/tackling-healthcares-biggest-burdens-with-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd1bc5e9c119b9a8960ea8/0x0.jpg?format=jpg&crop=400,400,x0,y0,safe&width=1200"
-        width: 400
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/07/laundry-chart-1-1024x861-1-660x400.jpg"
+        width: 660
         height: 400
         isCached: true
-  - title: "Inside the hunt for AI chips"
-    excerpt: "Everyone wants Nvidia’s chips but they’re nearly impossible to get. Also: updates on the Reddit protest, Musk versus Zuck cage match, and more."
-    publishedDateTime: 2023-08-11T18:33:00Z
-    webUrl: "https://www.theverge.com/2023/8/11/23828874/inside-the-hunt-for-ai-chips-command-line"
+  - title: "Cloud vs. on-premises showdown: The future battlefield for generative AI dominance"
+    excerpt: "As well, the choice of where customers plan to run generative AI is split almost exactly down the middle in terms of public cloud versus on-premises and edge. Further complicating matters, developers report the experiences in the public cloud with respect to feature richness and velocity of innovation have been outstanding."
+    publishedDateTime: 2023-08-12T16:47:00Z
+    webUrl: "https://siliconangle.com/2023/08/12/cloud-vs-premises-showdown-future-battlefield-generative-ai-dominance/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 66
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-risk-on-off-1024x574.jpg"
+        width: 1024
+        height: 574
+        isCached: true
 
-secured: "jPiJBBWAOYXHzwUtBtRE+TlVwRES46BkUgaLtOhjgslnBFTa3kf16Bv0cGN+oE3XQ3f9RDI1ie2waC1XRCQZF3h0vrPMEjYdt8/wXNH0R9XPt53kFcOQkbskPMsqtwSJuTyV3m5xT+896c6uxyOsgefNJ/NBVsRZUg1DELaW6FzKSTXWsBfdGJqqbGmhHIMvoagMxYugUoxly0/6Ymr0gZj+eJREZ4crteKkouNcNa3Q38sYUTXYgI13/w3AcBuLXSQ3tuFYKIKq0lLxGJp1GcK/hhpYKi6Ud/y6vPV2bQcW4NZMfiq3LCb2mCUdVS2/WPD0sflKhQTJSc4dl35xV+O3e1e1jezUfk+BCrLpJEQ=;auN9alaFKa+p7V35NwkT8g=="
+secured: "Lw7WeUPilPOcT6W3XrFxsWmTWfKMLozJZKIDQvI8uJ7wwkrH9VqYqivFlk47Bpxtwj4JMjlY407Y543AAXeAS4ZnGr5oReGG2w9zOD0rTIsgI+ozawwTzfcEmxLgTtiu85vppGS5vxPF0uPoRFX8PeerLcjwOBNps7+IN8SnNEYLewLfsJQSGyXTaNJG+r0qysdMYb7cu2aOLg49atE8REFEfFrv2AuUR0RDz9mXGsF1x3a44YlMsY06v8Ofq7a/5qpyq/6Ce+XhzWw/ClA28ArP85W9+N0zETFqWIW11y3SyqWKn0CgBsL0VkgqsY9kexRvOjKWpeA5q3qPcJiu1AIg9egrzyBPsxHmKo+abfASVn9mIOo+AANlF+AJNhjC6Jh+517oXKnMzCdSSwbMX4pZzgU+/OunZ5ABSKIwN0szXGcsrD5uDoimtn42yReUhtDybFyb2GMglIMeehcCursSEFBVGJNChcSk6ihiS7dsdoOMdM30JxYxuvOPaNPOXs9ff56fJyIqys1kc6H3JA==;334opmHu8e/jXlOswpeXgQ=="
 ---
 

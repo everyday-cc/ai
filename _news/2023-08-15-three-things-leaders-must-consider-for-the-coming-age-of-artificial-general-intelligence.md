@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-15T09:57:00Z
 originalUrl: "https://tdwi.org/articles/2023/08/15/adv-all-three-things-leaders-must-consider-for-the-coming-age-of-artificial-general-intelligence.aspx"
 webUrl: "https://tdwi.org/articles/2023/08/15/adv-all-three-things-leaders-must-consider-for-the-coming-age-of-artificial-general-intelligence.aspx"
 type: article
-quality: 15
-heat: 15
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/AI4.jpg"
@@ -24,6 +25,6 @@ images:
     height: 400
     isCached: true
 
-secured: "COhlIDuKgYVX0sWVBznWU0jNRLHs6gwexonsb4fvV58t5PMN5PBAUTm0NZI5ooLLMfyTBQsZpK4krOJi/2xOPOSKBDV0cfJrj+iHPmak+0X1sthQ1FH7LGrAn+hvTrZDkEa2GEmtzhqUQSt77VDo8UjS+THwx4mnNbIwb0djKrtCL5hV6XPbfeCCZ0poV8rEGyUyxPWmmMTeYhnjcmsKk7xyUwV2X2iDOFvyEBG2QrC5NuW+SEmWRDAlVna/ky/pKk7WRypxktWBJj6WCAbPHdeNjwbSx0L4UKA2CZTXN8yLs5ohAoWQNOe3qDTUF9CTusN0YWGDKVo/9DEyuzxrsAavVA4s4hkYLHbZGlwQD94=;c0Z1ldfsxtKFg3KiQIiCfg=="
+secured: "bqxHcNPnPrEjrvDcYS2nlQ2ZgWgNSVtD7yiwUD2AksrbSTvQKmWoLDRX8jqAbnNwN5DLp4W0QLd5htdVCCA/LVcum7ZAM4Go7x5H91ZgSnFrY2rkYDCnDQXnUbogUq8o0bouT9VCelncnuudD8nwGBcIasl8kvNah/g3AcFrkDe5JkYKbB/xsBVSTCjNpYnXWHt9ibBiV37hMU/mnxTEerp8ySaGPCvLnJjnFrNbEuDRajbqZxpIpevePV86yuDjXYpxw1S4nn238E0v+5nJdn7uwid26KlChL0w+2SDTQH/7KeP5+iiG4Mbr7Q4/M9B0mjglG6nsND7GUHqhgRXPJtEwth5b30EQnobPD4fSoFLwsltRqwLZDEu4JQ/yAiBEjJIIQbBAVDt7tEGyQXM/40noNVj9mswkGG3uL5DBmc9UQkjIQTOGoOwdpEVALZLW29H3hOBhkrNeHKoot4mimsw63WiQGOta+ndRtbF+N9AFHDFm0QCqlWDjKVgfRivtIe5p4NhcKPOwSHQ0MmXdw==;nPM4wU30uA0VLStjVEs86Q=="
 ---
 

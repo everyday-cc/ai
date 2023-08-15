@@ -201,6 +201,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
+  - title: "Twin Cities Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+    excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Strategic Education, Inc. in the Twin"
+    publishedDateTime: 2023-08-14T18:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33841844/twin-cities-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33841844"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33841844"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "White Marsh Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "WHITE MARSH, Md., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Strategic Education, Inc. in White Marsh. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-14T19:01:00Z
@@ -324,15 +340,6 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 0
-  - title: "Twin Cities Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
-    excerpt: "TWIN CITIES, Minn., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Strategic Education, Inc. in the Twin Cities. Applications for the no-cost bootcamp are closing soon!"
-    publishedDateTime: 2023-08-14T19:15:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/14/9864132.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 0
 
 secured: "tQuGJYQaShml6Crm98X/W7vOiDPObF2aJh6MD7UrfWWlTpFOW1vustXdHNyTB64tEPSWsC6CHdrv3zCOnRvsGVAXJ/8ugXUCBTjtEH1JFPfxj23JINrNh+p9ZyCKEm6pMogFY9SJQet4HODYKxJ+0agLvqcCoNGjKQGv0+h5Lyq46jbPlR5JKsRSxpGoYyfU7dfuALzyPwf2fDAYMVegwWgdBJ6xEst2EOSZOgn07myeCgQPB3GEnMBo2l0sXp6OymmYkj8Q958yHcebJHQCmsgIW/mJOZv4A6fmRUBgiWaP5EUL2+diDA5DQeYT+THjhiBytKdMXLnGtZcuIoieIdOMmCvcvNqFejAaW6C1XJg=;xxdEp7opiExiW5stp4lvhA=="

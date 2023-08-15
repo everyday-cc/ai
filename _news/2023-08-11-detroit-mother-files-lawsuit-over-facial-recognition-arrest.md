@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "‘Are you kidding, carjacking?: The problem with facial recognition in policing"
+    excerpt: "When a pregnant Black woman was falsely arrested, she fought back. Here’s what happened next. Plus, the week in AI"
+    publishedDateTime: 2023-08-15T09:46:00Z
+    webUrl: "https://www.theguardian.com/newsletters/2023/aug/15/techscape-facial-recognition-software-detroit-porcha-woodruff-black-people-ai"
+    ampWebUrl: "https://amp.theguardian.com/newsletters/2023/aug/15/techscape-facial-recognition-software-detroit-porcha-woodruff-black-people-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/newsletters/2023/aug/15/techscape-facial-recognition-software-detroit-porcha-woodruff-black-people-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/d741c78be9e7d04826982a112970eaabef4cbad3/658_1211_1274_764/master/1274.jpg?width=620&quality=85&auto=format&fit=max&s=9150caaad972a2fdc4230a221c7702d5"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Facial recognition software blasted by DPD board of commissioners after recent false arrest"
     excerpt: "A vote to ban facial recognition for the Detroit police failed tonight, which would have kept the department from using it for a year."
     publishedDateTime: 2023-08-11T03:15:00Z
@@ -66,6 +82,22 @@ related:
       - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2023/08/932/470/facial-recognition-arrest.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "TechScape: ‘Are you kidding, carjacking?’ – The problem with facial recognition in policing"
+    excerpt: "When a pregnant Black woman was falsely arrested, she fought back. Here’s what happened next. Plus, the week in AI"
+    publishedDateTime: 2023-08-15T10:18:00Z
+    webUrl: "https://www.theguardian.com/newsletters/2023/aug/15/techscape-facial-recognition-software-detroit-porcha-woodruff-black-people-ai?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/newsletters/2023/aug/15/techscape-facial-recognition-software-detroit-porcha-woodruff-black-people-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/newsletters/2023/aug/15/techscape-facial-recognition-software-detroit-porcha-woodruff-black-people-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
+    images:
+      - url: "https://i.guim.co.uk/img/media/d741c78be9e7d04826982a112970eaabef4cbad3/658_1211_1274_764/master/1274.jpg?width=620&quality=85&auto=format&fit=max&s=9150caaad972a2fdc4230a221c7702d5"
+        width: 620
+        height: 372
         isCached: true
   - title: "Detroit woman suing police after 'shoddy' AI facial recognition leads to false arrest"
     excerpt: "Porcha Woodruff was eight months pregnant when six cops showed up at her home in February, told her she had been identified as a suspect in a carjacking incident and arrested her in front of her children."

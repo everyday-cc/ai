@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/hacking-ai-how-googles-ai-r
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hacking-ai-how-googles-ai-red-team-is-fighting-security-attacks/"
 type: article
 quality: 85
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,29 +30,100 @@ images:
     isCached: true
 
 related:
-  - title: "What Are the Risks of Artificial Intelligence?"
-    excerpt: "What Are the Risks of Artificial Intelligence? To shed light on the potential risks of Artificial Intelligence, we’ve gathered insights from twelve experts, including Technology Editors and CEOs. From the trust issues in AI expert opinions to potential privacy breaches in AI data collection,"
-    publishedDateTime: 2023-08-11T21:43:00Z
-    webUrl: "https://techbullion.com/what-are-the-risks-of-artificial-intelligence/"
+  - title: "Using AI In Customer Communication"
+    excerpt: "By leveraging the right AI tools while considering the reasoning for their implementation, you can drive significant success in terms of customer communication."
+    publishedDateTime: 2023-08-15T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64da309a14c3ce119fb1ea3f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 744
+        isCached: true
+  - title: "The Hidden Challenges In Integrating Data For AI Systems"
+    excerpt: "The act of combining data from multiple sources is often resulting in accidental “upclassing”, “PII additive” or “deanonymization” problems, causing significant issues."
+    publishedDateTime: 2023-08-11T05:00:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd1bc5e9c119b9a8960ea8/0x0.jpg?format=jpg&crop=400,400,x0,y0,safe&width=1200"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "AI Landscape Emerges For Employee Communications"
+    excerpt: "A key finding is that implementing AI in employee communications requires a clear purpose and strategic integration."
+    publishedDateTime: 2023-08-14T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/14/ai-landscape-emerges-for-employee-communications/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/14/ai-landscape-emerges-for-employee-communications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/14/ai-landscape-emerges-for-employee-communications/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI's Next Frontier: Are Brain-Computer Interfaces The Future Of Communication?"
+    excerpt: "Explore the thrilling convergence of AI and the human brain as cutting-edge technologies like Neuralink blur the lines between science fiction and reality."
+    publishedDateTime: 2023-08-11T05:59:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d5ce165c31bc68b3d9eed6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Financial Services Are Using Artificial Intelligence to Navigate Regulations"
+    excerpt: "In five key areas, AI and machine learning tools can help banks follow know-your-customer rules, spot potential money laundering and more."
+    publishedDateTime: 2023-08-14T20:23:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/08/financial-services-are-using-artificial-intelligence-navigate-regulations"
+    ampWebUrl: "https://biztechmagazine.com/article/2023/08/financial-services-are-using-artificial-intelligence-navigate-regulations?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/08/financial-services-are-using-artificial-intelligence-navigate-regulations?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 56
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202308/GettyImages-1210917404.jpg?itok=rV6TnDKT"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "Revolutionizing Customer Engagement with Voice Interfaces in Business"
+    excerpt: "Welcome to the future of customer engagement! In today’s ever-evolving technological landscape, businesses are constantly seeking innovative ways to forge deeper connections with their customers. With the rise of voice interfaces,"
+    publishedDateTime: 2023-08-14T15:58:00Z
+    webUrl: "https://techbullion.com/revolutionizing-customer-engagement-with-voice-interfaces-in-business/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 39
+    quality: 24
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/What-Are-the-Risks-of-Artificial-Intelligence-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-14T165701.298.png"
+        width: 800
+        height: 400
         isCached: true
-  - title: "How well do you understand AI? Here are 7 terms to know"
-    excerpt: "You might have heard about machine learning and algorithms. But do you know what read teaming and watermarking are?"
-    publishedDateTime: 2023-08-11T11:00:00Z
-    webUrl: "https://www.poynter.org/fact-checking/2023/artificial-intelligence-terminology/"
-    type: article
-    provider:
-      name: Poynter
-      domain: poynter.org
-    quality: 17
 
 secured: "OXUbuFvnYHRuUt7f+q/BLuJ2AYHOfvIZZw5poxhOD3zgapz9wNJV4tPwyg+4YWDJDnHPQrkcLBhGIGneWChOHV5AJl0dMwwaMOIit+sIhXzfnkEQr4WnQ2dmxH4WSX3B9jaFIUIw9aasx2/6K2GN/jtA3bNc4fSfFu8W1AM/qVNb6npeG/s0Gx5y+B+gALIX5NI9BDSrNEfn1zui9FD+C1Tv7cHLm0hE+pB2gYkF+engTgMZCsYJYYpcrXF0JH7s873Cr6d9zEhBGu9MfHL+oOVPpcs4HreN037BVQaNU9mUAuioYJiM5XIZbu0oFTMbX0QP+oXRBXo6kxDD3DKKtbn15js6NVuz1xaV9aPMJA01X9yzm14ZXKqPw2/9uc07/7Skt4jq1u91n5yGaPV/5+wHG/Kye5MDyfMJRh9gg+ybgD0eEo1Uv3Nxs3peV5jb1ntyNAQ1ba+GdFkcciakRXwLw9ryHeK8jpKbWicPH2POswGMe9ZDt8ay4GNvipJXyffmnVNgp7k3wu+zmBAKPg==;i9Xa4jx+nZTQv1fg3rucwg=="
 ---

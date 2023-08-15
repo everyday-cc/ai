@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Inside the hunt for AI chips"
+    excerpt: "Everyone wants Nvidia’s chips but they’re nearly impossible to get. Also: updates on the Reddit protest, Musk versus Zuck cage match, and more."
+    publishedDateTime: 2023-08-11T18:33:00Z
+    webUrl: "https://www.theverge.com/2023/8/11/23828874/inside-the-hunt-for-ai-chips-command-line"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 66
   - title: "AI and the Evolving Landscape of Creativity"
     excerpt: "Welcome to the age of co-creation, where the lines blur between the creator, the technological ally (AI), and the audience. This rich tapestry of collaboration challenges and redefines traditional boundaries, venturing into unexplored domains of both individual inspiration and communal expression."
     publishedDateTime: 2023-08-10T23:11:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
 type: article
 quality: 100
-heat: 170
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Stock Is Set To Skyrocket Into The AI Future"
+    excerpt: "Exploring the Resilience and Growth Potential of Microsoft's Stock: An In-Depth Analysis of Factors Driving Microsoft's Financial Health, and Future Prospects"
+    publishedDateTime: 2023-08-15T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/"
+    ampWebUrl: "https://www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c6dd5758fabf29ee775ae8/0x0.jpg?format=jpg&crop=2447,1377,x0,y802,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft Azure awards Protiviti specialisation in AI"
+    excerpt: "“Protiviti is proud to collaborate with Microsoft to be a leading provider of AI enabled capabilities,” said Christine Livingston, global leader of Protiviti’s AI services. “Together with Microsoft, we look forward to helping organizations utilize AI solutions responsibly to drive impactful transformation in their businesses.”"
+    publishedDateTime: 2023-08-15T04:45:00Z
+    webUrl: "https://www.consultancy.uk/news/35089/microsoft-azure-awards-protiviti-specialisation-in-ai"
+    ampWebUrl: "https://www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai"
+    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai"
+    type: article
+    provider:
+      name: Consultancy
+      domain: consultancy.uk
+    quality: 89
+    images:
+      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-10-021905627-Microsoft_Azure_awards_Protiviti_specialisation_in_AI_spot.jpg"
+        width: 546
+        height: 312
+        isCached: true
   - title: "Microsoft Partners With Aptos Labs For Web3 and AI"
     excerpt: "On Wednesday, Microsoft, the American tech giant, announced it was partnering with layer-1 blockchain Aptos Labs to collaborate on AI and web3. The latter will be using Microsoft Azure OpenAI Service to accelerate global web3 adoption. \"Artificial ..."
     publishedDateTime: 2023-08-11T04:03:00Z
@@ -58,6 +90,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
         width: 1200
         height: 750
+        isCached: true
+  - title: "Microsoft Azure Large Instances to help healthcare providers manage EHRs"
+    excerpt: "Microsoft Azure Large Instances is helping healthcare providers to manage large electronic health record (EHR) database loads using public cloud-hosted infrastructure. Azure Large Instances leverages up to 50 million ‘database accesses’ per second,"
+    publishedDateTime: 2023-08-11T10:54:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsoft-azure-large-instances-to-help-healthcare-providers-manage-ehrs"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 70
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4540/Azure-Large-Instances_web.jpg"
+        width: 975
+        height: 548
         isCached: true
   - title: "ABB and Microsoft collaborate to bring generative AI to industrial applications"
     excerpt: "Expanding on their long-standing partnership, ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability™ Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
@@ -109,6 +155,15 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 26
+  - title: "Microsoft shuts Cortana App for Windows. 4 other ways to use voice control features"
+    excerpt: "Microsoft shuts down Cortana app for Windows 11 after discontinuing iOS and Android versions. Support will end for other platforms by fall 2023."
+    publishedDateTime: 2023-08-12T08:18:00Z
+    webUrl: "https://www.hindustantimes.com/technology/microsoft-shuts-cortana-app-for-windows-4-other-ways-to-use-voice-control-features-101691823817377.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 15
 
 secured: "cL1j1s5nAXNdecQyuVQKP/u2rU8OxqPogB4ToM+Cv0/HJOUblO9Al3qFHGsHyLR4NVWiV5JBeTB4WT1ahk1GD6IIHgYlJVIg4kENQgai0YQ2rJdI/+B9p0eBpKf3tvFSmpDqJ0DM9bxw7LIblKx1wjwrb9VsTarSe5JzJ1bTOsFsYgW7u4VkTSMayHOjgofc+Qr/4bzPFIyNFr4PMll2wlrl4uhH2Rf/L9IYzyxinE4AcnbYMcl1SkBpenxz96NOf9/47VqvMAHjzD9+ZZlJUmuAa+nKzBDsrMJz1S7dVCEYWkZnJAbTedt62VFAnUyUZsBkQhPNyd/i1wKh9+NbFTrkr8h7lR3WqsNJInzq4Na/UQm7qUjxge+ZTeYwHLA5DE7uV5S9dnFIcLB4pD1sPCk4Ir/N0JCDgdky87fRtCHabfOomtzMw4ILrTYae2+xdviHNe0ny1jbqk4m7RG17hAt7i0MiNpC24ToUKzei88GIr9lO/Oor9Kd8Fx/ErsFdDCYm2Q95Ol42mhsQ2Mptw==;u1Ip/25pUre9c9tdlK01Og=="
 ---

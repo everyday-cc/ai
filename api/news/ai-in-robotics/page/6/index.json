@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-09-robots-vows-not-to-erase-human-role-at-ai-forum.md",
+      "title": "Robots vows not to erase human role at AI Forum",
+      "excerpt": "ALBAWABA - Robots showcased at an artificial intelligence (AI) forum on Friday revealed their expectations of increasing in number and assisting in solv",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/node/1525829",
+      "originalUrl": "https://www.albawaba.com/node/1525829",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/rob.jpg?itok=5dAaPcbM",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/node/1525829",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/node/1525829",
+      "publishedDateTime": "2023-07-09T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-09-ai-anxiety-the-top-20-professions-bracing-for-the-robot-takeover.md",
       "title": "AI anxiety: The top 20 professions bracing for the robot takeover",
       "excerpt": "A recent study has revealed the professions most concerned about being replaced by artificial intelligence (AI). The study, 'AI Anxiety: The Top 20 Professions Bracing for the Robot Takeover',",
@@ -1267,49 +1310,6 @@
       "provider": {
         "name": "jagranjosh.com",
         "domain": "jagranjosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-02-agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones.md",
-      "title": "AgriTech Innovations 2023: Transforming Farming with AI, Robotics, and Drones",
-      "excerpt": "The field of agriculture is advancing day by day. Today, we have bought some latest trends and innovations concerned with Agriculture.",
-      "sourceUrl": null,
-      "webUrl": "https://krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/",
-      "originalUrl": "https://krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kj1bcdn.b-cdn.net/media/91685/engineer-gc9ddb59df_1280.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/?amp=1",
-      "cdnAmpWebUrl": "https://krishijagran-com.cdn.ampproject.org/c/s/krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/?amp=1",
-      "publishedDateTime": "2023-07-01T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "krishijagran",
-        "domain": "krishijagran.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://musically.com/2023/08/15/futureverse-claims-its-jen-1-syst
 webUrl: "https://musically.com/2023/08/15/futureverse-claims-its-jen-1-system-sets-a-new-quality-bar-for-ai-music/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "FUTUREVERSE PUBLISHES RESEARCH PAPER REVEALING ITS BREAKTHROUGH TECHNOLOGY IN THE MUSIC AI SPACE"
-    excerpt: "On The Heels of Raising 54M Futureverse to Advance AI and Web3 Technology StackJEN 1: TEXT-GUIDED UNIVERSAL MUSIC GENERATION WITH OMNIDIRECTIONAL"
-    publishedDateTime: 2023-08-10T17:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space-1032541745"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://mma.prnewswire.com/media/2183201/Futureverse_Logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "After raising $54m in funding, Futureverse unveils ‘JEN 1’ text-to-music AI generator"
     excerpt: "Most recently, Futureverse unveiled JEN 1, a new text-to-music generation tool in a research paper authored by Futureverse’s Altered State Machine innovation team. The team includes Dr. Alex Wang, Patrick Li, Boyu Chen, Yao Yao, Allen Wang and Yikai Wang."
     publishedDateTime: 2023-08-14T09:25:00Z
@@ -68,6 +54,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "mt/Ovf4hpArMi9E1n/kKaO0cEUOCgxET1FWec/PTSa0msqqYTXCZCG4c6Eauh5xr5nZCeCoqBDBRrOQpYe1LY3CVOv6gWwspjos2XXYUMNPSrqoh/EW8woZULRjDlOhlJ7v/JxqP+Z2jO+miIMbW2nsNprCpIF/t36lddk/hsn8D2YY0Aivcin/uBkj7imnlpyOZARsisrEalr/GW/tbNhw8HkFgMpaGwJhKsxbffjPf7DC4hgD8qbdy1HhIQKImwRYTwXoZhMonS0UkEtHIowtUstQ6TEiZPRsdwo+spUmxieS496ycXkYLjP4Q/vC4UpuC6U34eWN6A085+xnzHXSM9rqco9P4vEIsqXmUi8k=;4WrqQJHPKx5515eV56C2+g=="
+secured: "Xlic80f8wZ4qf8iNtyx8QwzyulLUcUqdm2+fCURmb6awlcFKuXECixYfvirweIUjWL28bosj4fyVx4412eNUT0CFPJ7PjgtWwpffEfku/OIBGDrnp484g8BUrkt3Q4ElhvO7IWlTTDxriVzxn4V4G8TdNimm6JKYfhv/U2m7ZmJwy5lcJVvg8NYtx7nJ7NrjB/mlso2yIs3HN4IqpDFuE3m6y3g9sh7pDexDRmFktKFsxpheP8VpBJEufrDhHFHHeXENqT/34bBQphmGpVqvSt+9ErXl0DSBiTn41Hp6uOy/nMD/a4CP6iSIoG5bEih4+6+/xTIOlJ8rUA2y1D7TRydJDLrgTlRyKwL5GNOmrqPVLsJtNHVk17t4ZC0O540fyMEjof8QoXWhKFC234u4HovDqZIOXk3WORyBdewYfKhR4Vgp/7oKj7megkwfxAiaBotn0IwuecjNXBddoxvemO4BaOwtqkxJ2mvsB5B4bA4sIsxEnfIKnDFSrurjSFsiZuCTB4FD/E2tgPhv6hg38Q==;MjYD1Y0PzXUZYgkWid6g7w=="
 ---
 

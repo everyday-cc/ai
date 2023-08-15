@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-15-take-advantage-of-ai-and-use-it-to-make-your-business-better.md",
+      "title": "Take advantage of AI and use it to make your business better",
+      "excerpt": "Only 54% of AI projects make it to production. Here's how to overcome the challenges and benefit from artificial intelligence in business.\nThe post Take advantage of AI and use it to make your business better appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-your-business-better/",
+      "originalUrl": "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-your-business-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/dji_0420-9b.blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-aws-cloud-migration-with-ibm-turbonomic.md",
       "title": "AWS cloud migration with IBM Turbonomic",
       "excerpt": "Explore how to efficiently migrate to AWS and learn how organizations can better navigate this complex process with IBM Turbonomic. \nThe post AWS cloud migration with IBM Turbonomic appeared first on IBM Blog.\n",
@@ -54,22 +106,22 @@
       ]
     },
     {
-      "path": "_news/2023-08-14-new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it.md",
-      "title": "New IBM study reveals how AI is changing work and what HR leaders should do about it",
-      "excerpt": "Tomorrow may not be able to run with yesterday’s talent, and tomorrow’s talent may not be able be rely on yesterday’s ways of working. \nThe post New IBM study reveals how AI is changing work and what HR leaders should do about it appeared first on IBM Blog.\n",
+      "path": "_news/2023-08-14-research-shows-extensive-use-of-ai-contains-data-breaches-faster-and-saves-significant-costs.md",
+      "title": "Research shows extensive use of AI contains data breaches faster and saves significant costs",
+      "excerpt": "Organizations today need new technologies and approaches to stay ahead of attackers and the latest threats.\nThe post Research shows extensive use of AI contains data breaches faster and saves significant costs appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it/",
-      "originalUrl": "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it/",
+      "webUrl": "https://www.ibm.com/blog/research-shows-extensive-use-of-ai-contains-data-breaches-faster-and-saves-significant-costs/",
+      "originalUrl": "https://www.ibm.com/blog/research-shows-extensive-use-of-ai-contains-data-breaches-faster-and-saves-significant-costs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 88,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T05:00:00-07:00",
+      "publishedDateTime": "2023-08-14T06:27:26-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -97,31 +149,22 @@
       ]
     },
     {
-      "path": "_news/2023-08-14-how-generative-ai-correlates-it-and-business-objectives-to-maximize-business-outcomes.md",
-      "title": "How generative AI correlates IT and business objectives to maximize business outcomes",
-      "excerpt": "Incorporate generative AI into existing technologies — such as SAP, CPI interfaces, Signavio and Salesforce — to achieve targeted outcomes.\nThe post How generative AI correlates IT and business objectives to maximize business outcomes appeared first on IBM Blog.\n",
+      "path": "_news/2023-08-14-new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it.md",
+      "title": "New IBM study reveals how AI is changing work and what HR leaders should do about it",
+      "excerpt": "Tomorrow may not be able to run with yesterday’s talent, and tomorrow’s talent may not be able be rely on yesterday’s ways of working. \nThe post New IBM study reveals how AI is changing work and what HR leaders should do about it appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-generative-ai-correlates-it-and-business-objectives-to-maximize-business-outcomes/",
-      "originalUrl": "https://www.ibm.com/blog/how-generative-ai-correlates-it-and-business-objectives-to-maximize-business-outcomes/",
+      "webUrl": "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it/",
+      "originalUrl": "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 102,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/How-generative-AI-correlates-IT-and-business-objectives-to-maximize-business-outcomes.jpg",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T02:00:00-07:00",
+      "publishedDateTime": "2023-08-14T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -1293,48 +1336,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-incident-management-vs-problem-management-whats-the-difference.md",
-      "title": "Incident management vs. problem management: What’s the difference?",
-      "excerpt": "incident and problem management are two important processes for issue and error control, maintaining uptime, and delivering a great service to customers.\nThe post Incident management vs. problem management: What’s the difference? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/incident-management-vs-problem-management/",
-      "originalUrl": "https://www.ibm.com/blog/incident-management-vs-problem-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T08:18:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

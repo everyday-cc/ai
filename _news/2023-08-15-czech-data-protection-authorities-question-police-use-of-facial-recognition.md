@@ -55,6 +55,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Clint ISD teacher receives national recognition"
+    excerpt: "In the heart of Clint Independent School District, an educator is going above and beyond to provide profound support for her students. Meet Jennifer Galindo, a dedicated teacher with 16 years of experience,"
+    publishedDateTime: 2023-08-15T11:49:00Z
+    webUrl: "https://kvia.com/news/2023/08/15/clint-isd-teacher-receives-national-recognition/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 24
+    images:
+      - url: "https://kvia.b-cdn.net/2023/08/IMG_8213.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "KKgsdm/dNgsd0+UL6M4W+JwgwB8pyeSW4Old1OWYkiAEErbalhIhB5/88hsb+tsS+8CfOtVkEe3hyrbbuVuuuM0KuX8b3gteRuI26emT0mlScb+LrG536U06+oJjk6yLUqxRyFPz7iVCWdOT/BsFjzprCX5/OPKvweKM/fxFFkhqFtqoQkrYyd+ADom9a4TrGSjWB/iEMhNHL9uKOTyLpSjxClY078FmZO+PJBwIPM3CnLvhLhyDFTJpm6Kthi1s+0A85F1iQOQY71cuJrc8gFQAidUq0zYcUA4asaoWgKXd0466lEWIsQn0yUoat9BO/cztmKjqj5fFLlr0G3JA6veQEUmoWHUi9FB+Zl8/Ls8=;pQG/hD0JHhQo/5cM2MlRHQ=="
 ---

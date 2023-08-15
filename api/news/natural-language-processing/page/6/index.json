@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-25-youtube-is-testing-an-ai-powered-dub-tool-to-translate-creators-videos.md",
+      "title": "YouTube is testing an AI-powered dub tool to translate creators' videos",
+      "excerpt": "YouTube is testing out an AI-powered multi-language dubbing feature for creators. Credit: Mateusz Slodkowski/SOPA Images/LightRocket via Getty Images) YouTube has been making some big ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/youtube-ai-powered-dubbing-tool-aloud",
+      "originalUrl": "https://mashable.com/article/youtube-ai-powered-dubbing-tool-aloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/033TXxSPosNJOZ5ZMWXOEVK/hero-image.fill.size_1200x675.v1687620649.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-24T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-24-explained-australias-referendum-to-include-an-indigenous-voice-in-its-constitution.md",
       "title": "Explained | Australia’s referendum to include an Indigenous ‘Voice’ in its Constitution",
       "excerpt": "Read The Hindu explainer on why Australia is conducting a referendum on rights of its Indigenous population. Who are in support and against of constitution recognition for Indigenous people?",
@@ -1328,61 +1371,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai.md",
-      "title": "A Rising Star In The East Lights A Path To Responsible Artificial Intelligence: The Mohammed Bin Zayed University Of AI",
-      "excerpt": "As we hurtle into the 21st century, the pivotal role that Artificial Intelligence plays in reshaping our world cannot be ignored.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidwalcott/2023/06/13/a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/davidwalcott/2023/06/13/a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6487b8a204b294ec6d7d5722/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidwalcott/2023/06/13/a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidwalcott/2023/06/13/a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai/amp/",
-      "publishedDateTime": "2023-06-13T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing",
-        "AI in Healthcare"
       ]
     }
   ],

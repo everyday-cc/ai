@@ -29,7 +29,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/29/18/article-2-image-1-100932907-large.jpg?auto=webp&quality=85,70"
         width: 1200

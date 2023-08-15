@@ -20,20 +20,15 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Global generative AI revenue to hit $33B by 2027"
-    excerpt: "Generative artificial intelligence is set to yield US$33 billion in global revenue within five years as the technology experiences rapid growth."
-    publishedDateTime: 2023-08-11T05:42:00Z
-    webUrl: "https://www.arnnet.com.au/article/708303/global-generative-ai-revenue-to-hit-33b-by-2027/"
+  - title: "Local universities prepared to teach ethics of using generative AI"
+    excerpt: "As students begin arriving at colleges and universities to kick off their fall semester, they’ll have tools with them they didn’t have this time last year: ChatGPT and similar generative AI chatbots like Google Bard,"
+    publishedDateTime: 2023-08-15T11:00:00Z
+    webUrl: "https://rbj.net/2023/08/15/local-universities-prepared-to-teach-ethics-of-using-generative-ai/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_267728566_1.jpg"
-        width: 473
-        height: 315
-        isCached: true
+      name: Rochester Business Journal
+      domain: rbj.net
+    quality: 34
 
 secured: "kJPxjH1Bnd/zQ/KWEjxWuCdlbbJZjZdPuYte8djJAYUX3CptqXmEDGAidEIavRLH3iL7rjHqFYCv/7jgHWDrGyIx8lEyTaPgsc7IfVnS6UDYAAXoJO0x3MxjWzMnyhXzXtpWIG+ENUMmx3DeIWQhgJJvvcrLtGPQqvrU7KZCndQoYi+jVdr+6sHBgd/oxyEilNN0XAeqZu1EulWum/iHFDKNkD5GZfU2FKwgY/T8L3Sg0wkAIRaR/wD/I0yG2RdQV/QnfOKo1P8hxcICE4e405QKUQFMM7ZyhJQF7r9iD9tU8JQY9uZHa3XDg9opl4nI+16rx98vyYoGrbfd3XASpUJHr271QmicbysqDSKx2Fw=;kdS6k3eBg3Kkx0MHJr3mHg=="
 ---

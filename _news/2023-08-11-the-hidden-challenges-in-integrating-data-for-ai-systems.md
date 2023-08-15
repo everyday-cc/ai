@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-ch
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,31 +30,100 @@ images:
     isCached: true
 
 related:
-  - title: "The looming battle over where generative AI systems will run"
-    excerpt: "Putting AI on cloud versus on-premises systems may seem like a simple decision, but it's much more complex (and potentially expensive)."
-    publishedDateTime: 2023-08-15T09:05:00Z
-    webUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.html"
-    ampWebUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
+  - title: "Using AI In Customer Communication"
+    excerpt: "By leveraging the right AI tools while considering the reasoning for their implementation, you can drive significant success in terms of customer communication."
+    publishedDateTime: 2023-08-15T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64da309a14c3ce119fb1ea3f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 744
+        isCached: true
+  - title: "AI Landscape Emerges For Employee Communications"
+    excerpt: "A key finding is that implementing AI in employee communications requires a clear purpose and strategic integration."
+    publishedDateTime: 2023-08-14T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/14/ai-landscape-emerges-for-employee-communications/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/14/ai-landscape-emerges-for-employee-communications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/14/ai-landscape-emerges-for-employee-communications/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://images.techhive.com/images/article/2016/03/ceo_cio_battle-100648302-large.jpg?auto=webp&quality=85,70"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 1200
+        height: 800
         isCached: true
-  - title: "Inside the hunt for AI chips"
-    excerpt: "Everyone wants Nvidia’s chips but they’re nearly impossible to get. Also: updates on the Reddit protest, Musk versus Zuck cage match, and more."
-    publishedDateTime: 2023-08-11T18:33:00Z
-    webUrl: "https://www.theverge.com/2023/8/11/23828874/inside-the-hunt-for-ai-chips-command-line"
+  - title: "AI's Next Frontier: Are Brain-Computer Interfaces The Future Of Communication?"
+    excerpt: "Explore the thrilling convergence of AI and the human brain as cutting-edge technologies like Neuralink blur the lines between science fiction and reality."
+    publishedDateTime: 2023-08-11T05:59:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 66
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d5ce165c31bc68b3d9eed6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Hacking AI? Here are 4 common attacks on AI, according to Google's red team"
+    excerpt: "Some of the biggest threats to machine learning (ML) systems, explains Google's red team leader, are adversarial attacks, data poisoning, prompt injection, and backdoor attacks. These ML systems include those built on large language models, like ChatGPT, Google Bard, and Bing AI."
+    publishedDateTime: 2023-08-11T16:29:00Z
+    webUrl: "https://www.zdnet.com/article/hacking-ai-how-googles-ai-red-team-is-fighting-security-attacks/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/hacking-ai-how-googles-ai-red-team-is-fighting-security-attacks/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hacking-ai-how-googles-ai-red-team-is-fighting-security-attacks/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/c1701c12d959513dad7aa50ee816b3fe07dc98e4/2023/08/11/ec9f7b5c-39f1-41d1-9286-1ed71f370959/umbrella.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Financial Services Are Using Artificial Intelligence to Navigate Regulations"
+    excerpt: "In five key areas, AI and machine learning tools can help banks follow know-your-customer rules, spot potential money laundering and more."
+    publishedDateTime: 2023-08-14T20:23:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/08/financial-services-are-using-artificial-intelligence-navigate-regulations"
+    ampWebUrl: "https://biztechmagazine.com/article/2023/08/financial-services-are-using-artificial-intelligence-navigate-regulations?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/08/financial-services-are-using-artificial-intelligence-navigate-regulations?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 56
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202308/GettyImages-1210917404.jpg?itok=rV6TnDKT"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "Revolutionizing Customer Engagement with Voice Interfaces in Business"
+    excerpt: "Welcome to the future of customer engagement! In today’s ever-evolving technological landscape, businesses are constantly seeking innovative ways to forge deeper connections with their customers. With the rise of voice interfaces,"
+    publishedDateTime: 2023-08-14T15:58:00Z
+    webUrl: "https://techbullion.com/revolutionizing-customer-engagement-with-voice-interfaces-in-business/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-14T165701.298.png"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "AZTR80oBs12QlssrwrhYZqM2AovltaFcMZIQxvXSfR3FZD8trXoImyKfE0J1g44Z/YXX1Rkawwx/QEm7bGVmK85ED3s8hCVFoFSsJIaPgDqhqHQIQpeYJb73yrjv/xkoFPKwKojcOeIZFafYREOIGGCAYd8waexaHBOFpHtiVeKlCaT3V0gJQB5w4tLf2+iYqSxNS7R2EauP71RzKRqg3uzWhaJx7N4p2/AEsnaMpqt9yn1UlfehJw/TbCGoNJBXIHI6VZR1EDMieN8+dMjOFHLWlCjRMUz3pFp19IjQ3H1KTZ6KuoJk7ksMcQPbQIU2vx6SAOfSLSWvxu/LXglnS0kKGmMcRKe93cO/c9JHAJJXrTmD21RGzqbRptLDXxtWErAGC2zk2ZhtgGBN2Kzqddmw1NXrHJXNqvT4/qHPRuZdiUxEgMYM600spD7WzqHoen0gi+P3J7xzTdASV/NiVyfAvRiyLyUEIWjoW+FTG159vouwyCy/HS/5xJHJYIWzB8Ye+1OnqsBGmCJWtQzFGQ==;B+go1JACGNHGgV3MxcEu+Q=="
 ---

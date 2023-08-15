@@ -30,21 +30,65 @@ images:
     isCached: true
 
 related:
-  - title: "When you gaze into the AI, the AI also gazes into you"
-    excerpt: "Web3, AI: Always worth paying attention when Goliath shifts on his ... Across the site, here are some of the startup stories y’all flocked to since the previous Startups Weekly. Karma, karma, karma, karma, komeuppance: Apparently not entirely immune ..."
-    publishedDateTime: 2023-08-11T18:59:00Z
-    webUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/"
-    ampWebUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/"
+  - title: "Take advantage of AI and use it to make your business better"
+    excerpt: "Only 54% of AI projects make it to production. Here's how to overcome the challenges and benefit from artificial intelligence in business.\nThe post Take advantage of AI and use it to make your business better appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-15T11:00:00Z
+    webUrl: "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-your-business-better/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-637552576.jpg?resize=1200,800"
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/dji_0420-9b.blog-lead-space-40x21-1.jpg"
+        width: 2400
+        height: 1260
+        isCached: true
+  - title: "How generative AI correlates IT and business objectives to maximize business outcomes"
+    excerpt: "Incorporate generative AI into existing technologies — such as SAP, CPI interfaces, Signavio and Salesforce — to achieve targeted outcomes.\nThe post How generative AI correlates IT and business objectives to maximize business outcomes appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-14T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-generative-ai-correlates-it-and-business-objectives-to-maximize-business-outcomes/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 112
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/How-generative-AI-correlates-IT-and-business-objectives-to-maximize-business-outcomes.jpg"
+        width: 1080
+        height: 540
+        isCached: true
+  - title: "Zoom Vows Not To Use Your Calls To Train Artificial Intelligence"
+    excerpt: "Videoconferencing company Zoom has clarified a policy that had some users nervous. It will not be using its calls to train AI. A recent terms of service update implied customer video calls could"
+    publishedDateTime: 2023-08-12T01:55:00Z
+    webUrl: "https://deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/"
+    ampWebUrl: "https://deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 74
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1466243151.jpg?w=1024"
+        width: 1024
+        height: 606
+        isCached: true
+  - title: "Background actors fear being taken ‘advantage of’ by AI, as union and studio negotiations continue to stall"
+    excerpt: "Negotiations between SAG-AFTRA and the AMPTP continue to be at a standstill, as background actors worry artificial intelligence could replace them with digital copies."
+    publishedDateTime: 2023-08-11T05:59:00Z
+    webUrl: "https://www.foxnews.com/entertainment/background-actors-fear-being-taken-advantage-ai-union-studio-negotiations-continue-stall"
+    ampWebUrl: "https://www.foxnews.com/entertainment/background-actors-fear-being-taken-advantage-ai-union-studio-negotiations-continue-stall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/background-actors-fear-being-taken-advantage-ai-union-studio-negotiations-continue-stall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 69
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/1200/675/SAG-Strike-Sign.jpg?ve=1&tl=1"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
 
 secured: "syjaaY2nBGwFvtUIXw6wxXrqNwfmIoe+NyJM+sUMIif9XCcLEnut5SQ6m9+NnU7SByfbyqUyPLUQQvaTpTDOw4RV8WJVY9x6N/SszHw3TEmdrSlbRJFIDQyjVKLvX7yla3CNoVgW4lPxpp+NnbhKwCgWIDhkhxbzJnGy3o/6uqhcbPpSR2KT0NNHRWXPWx5Ut38EfS3VMgwt0XUH++aWwMw62+VqCTKiu7HcmPvoq6kIWeV8ceBlkepnf1ek5cr4RVvNMczHLb+1GBX1VeXhYbBZcPkq0fF1o3UNYVRoOibhlsWf/yoaTuAqZ1y4sRaA31GvGSP3j7Bih4PwGtHAYrVeD6EjqZn1DAmr9Jy+DlAvRX9sH1XxsU36L6tnUChYYSDp7DcdqAtAi6Oo5YIG3ExJUniEBiuN+kwUjV4jeqBgAygfgko1l7mvDvx6Jm2sPiTV7+ChSuD8VXnfktTwJd4AdFW+CZn0o8Fu9ojehQy7IELBK7rbfoG8vO1mrLkMkLRDKHZzcR35Fa4ruRJkcA==;xElTaUNG9dEC1KpYLHV83Q=="

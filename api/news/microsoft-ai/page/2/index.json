@@ -2,93 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-08-01-aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes.md",
-      "title": "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service – Forbes",
-      "excerpt": "AWS and Hugging Face announced a partnership to offer large language models (LLMs) and generative AI models on AWS’ ML platform. The Hugging Face community can leverage AWS ML services and infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/659289/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/",
-      "originalUrl": "https://www.inferse.com/659289/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-39.png",
-          "width": 1000,
-          "height": 715,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-ebay-turns-to-ai-on-its-attempt-of-tech-led-business-reimagination.md",
-      "title": "eBay Turns To AI On Its Attempt Of Tech-Led Business Reimagination",
-      "excerpt": "Despite its earnings beat, eBay Inc (NASDAQ: EBAY) shares tanked 10.5% upon the release of second quarter results last week while its main competitor and e-commerce giant, Amazon.com Inc (NASDAQ: AMZN",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/23/07/33475213/ebay-turns-to-ai-on-its-attempt-of-tech-led-business-reimagination",
-      "originalUrl": "https://www.benzinga.com/23/07/33475213/ebay-turns-to-ai-on-its-attempt-of-tech-led-business-reimagination",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/16544.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33475213",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33475213",
-      "publishedDateTime": "2023-07-31T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-31-flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa.md",
       "title": "Flapmax Partners with Intel to Accelerate Artificial Intelligence (AI) Innovation in Africa",
       "excerpt": "Flapmax ( a leading artificial intelligence (AI) company, announced today its strategic partnership with Intel, the global technology leader, to foster AI innovation and drive economic empowerment in Africa.",
@@ -1471,6 +1384,94 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-23-microsoft-introduces-the-public-preview-of-vector-search-feature-in-azure-cognitive-search.md",
+      "title": "Microsoft Introduces the Public Preview of Vector Search Feature in Azure Cognitive Search",
+      "excerpt": "Subscribe for free. At its annual Inspire conference, Microsoft recently announced the public preview of Vector search in Azure Cognitive Search, a capability for building applications powered by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/",
+      "originalUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-22T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-23-an-ai-generated-south-park-episode-microsofts-security-woes-and-teslas-first-cybertruck-build.md",
+      "title": "An AI-generated ‘South Park’ episode, Microsoft’s security woes, and Tesla’s first Cybertruck build",
+      "excerpt": "In this edition of Week in Review, we cover the AI-generated \"South Park\" episode, Microsoft's security woes and Tesla's first Cybertruck build.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/",
+      "originalUrl": "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/Cybertruck_78.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/amp/",
+      "publishedDateTime": "2023-07-22T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Security",
+        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,212 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-07-10-3-ways-moveworks-and-microsoft-teams-use-ai-to-improve-employee-productivity.md",
+      "title": "3 ways Moveworks and Microsoft Teams use AI to improve employee productivity",
+      "excerpt": "Moveworks on Microsoft Teams uses conversational AI to help enterprises improve employee productivity and free up IT and HR staff. Learn more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/10/3-ways-moveworks-and-microsoft-teams-use-ai-to-improve-employee-productivity/",
+      "originalUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/10/3-ways-moveworks-and-microsoft-teams-use-ai-to-improve-employee-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/07/Moveworks-feature-image-5-30.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-generative-ai-is-coming-for-your-job-here-are-4-reasons-to-get-excited.md",
+      "title": "Generative AI is coming for your job. Here are 4 reasons to get excited",
+      "excerpt": "Any discussion on the impact of generative AI usually comes with a debate about the potential loss of jobs. But while some estimates suggest AI could lead to the automation of more than 25% of jobs, the research also suggests that fast-emerging technologies could lead to new opportunities for employees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/",
+      "originalUrl": "https://www.zdnet.com/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b0072dba480b7e46c6d881d98d732b4aa5678a55/2023/07/10/d5970d20-a245-4559-947c-0e9f787c0604/gettyimages-1258096414.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/",
+      "publishedDateTime": "2023-07-10T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace.md",
+      "title": "DigitalOcean Adds AI Capabilities With Acquisition Of Paperspace",
+      "excerpt": "The buzz around generative AI is forcing cloud providers to move fast in adding GPU-based infrastructure and machine learning platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ac198d45697841e291cf25/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/amp/",
+      "publishedDateTime": "2023-07-10T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-tandem-repeat-is-revolutionizing-sustainable-fashion-with-ai-designed-squid-proteins-to-reduce-plastic-harm.md",
+      "title": "Tandem Repeat Is Revolutionizing Sustainable Fashion With AI-Designed Squid Proteins To Reduce Plastic Harm",
+      "excerpt": "Squitex technology is poised to transform the fashion industry with a sustainable, non-polluting replacement for petroleum and animal-based fibers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/07/10/tandem-repeat-is-revolutionizing-sustainable-fashion-with-ai-designed-squid-proteins-to-reduce-plastic-harm/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/10/tandem-repeat-is-revolutionizing-sustainable-fashion-with-ai-designed-squid-proteins-to-reduce-plastic-harm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ac19ea0bcf58cde5d24a23/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/07/10/tandem-repeat-is-revolutionizing-sustainable-fashion-with-ai-designed-squid-proteins-to-reduce-plastic-harm/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/10/tandem-repeat-is-revolutionizing-sustainable-fashion-with-ai-designed-squid-proteins-to-reduce-plastic-harm/amp/",
+      "publishedDateTime": "2023-07-10T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-want-to-build-your-own-ai-chatbot-say-hello-to-open-source-huggingchat.md",
       "title": "Want to build your own AI chatbot? Say hello to open-source HuggingChat",
       "excerpt": "ChatGPT may be dominating AI coverage but If you're super-geeky, you can build your own chatbot using HuggingChat and a few other tools.",
@@ -988,179 +1194,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-tsmc-records-high-sales-amid-increased-demand-for-ai-tools-and-chips.md",
-      "title": "TSMC Records High Sales amid Increased Demand for AI Tools and Chips",
-      "excerpt": "TSMC is also expanding a factory under construction in Arizona to develop better chips for iPhones and subsequently drive sales.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coinspeaker.com/tsmc-sales-ai-tools-chips/",
-      "originalUrl": "https://www.coinspeaker.com/tsmc-sales-ai-tools-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/07/tsmc-sales-ai-tools-chips.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.coinspeaker.com/tsmc-sales-ai-tools-chips/amp/",
-      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/tsmc-sales-ai-tools-chips/amp/",
-      "publishedDateTime": "2023-07-10T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "coinspeaker",
-        "domain": "coinspeaker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-snowflake-expands-partnership-with-microsoft.md",
-      "title": "Snowflake expands partnership with Microsoft",
-      "excerpt": "Additionally, to leverage the latest in AI innovation to build intelligent data products, both companies are committed to working toward enabling Snowflake customers to easily and securely leverage Azure OpenAI and Microsoft Cognitive Services with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/snowflake-expands-partnership-with-microsoft-y0b36j8r",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/snowflake-expands-partnership-with-microsoft-y0b36j8r",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/snowflake-expands-partnership-with-microsoft-y0b36j8r?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/snowflake-expands-partnership-with-microsoft-y0b36j8r?amp=1",
-      "publishedDateTime": "2023-07-10T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-struck-capitals-founder-discusses-his-foray-into-ai-investing.md",
-      "title": "Struck Capital’s Founder Discusses His Foray Into AI Investing",
-      "excerpt": "Venture capitalist Adam Struck spoke with WSJ Pro about his approach to deals in the buzzy artificial intelligence sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/struck-capitals-founder-discusses-his-foray-into-ai-investing-86190f0a",
-      "originalUrl": "https://www.wsj.com/articles/struck-capitals-founder-discusses-his-foray-into-ai-investing-86190f0a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-813830/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-nextgen-food-robotics-integrates-large-language-model-llm-through-gpt-35-into-ai-food-ordering-app-lily.md",
-      "title": "Nextgen Food Robotics Integrates Large Language Model (LLM) through GPT-3.5 into AI Food Ordering App, Lily",
-      "excerpt": "Nextgen Food Robotics Corp (NEO: NGRB) (OTC:NGRBF) (FSE: A3D48V) (the \"Company\" or \"NextGen\"), a company exploring the implementation of artificial intelligence (\"AI\")",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33159832/nextgen-food-robotics-integrates-large-language-model-llm-through-gpt-3-5-into-ai-food-ordering-ap",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33159832/nextgen-food-robotics-integrates-large-language-model-llm-through-gpt-3-5-into-ai-food-ordering-ap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33159832",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33159832",
-      "publishedDateTime": "2023-07-10T00:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

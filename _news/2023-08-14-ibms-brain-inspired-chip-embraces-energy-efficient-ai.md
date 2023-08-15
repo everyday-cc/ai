@@ -9,7 +9,7 @@ ampWebUrl: "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energ
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/amp/"
 type: article
 quality: 74
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Prototype 'Brain-like' chip promises greener AI, says tech giant"
-    excerpt: "A prototype \"brain-like\" chip could make artificial intelligence (AI) more energy efficient, its developer, technology giant IBM, has said. Concerns have been raised about emissions associated with warehouses full of computers powering AI systems. IBM said its prototype could lead to more efficient, less battery draining AI chips for smartphones."
-    publishedDateTime: 2023-08-10T18:30:00Z
-    webUrl: "https://www.bbc.com/news/technology-66465230"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 64
   - title: "IBM unveils an analog AI chip that works like a human brain"
     excerpt: "IBM Research has unveiled an analog AI chip that demonstrates remarkable efficiency and accuracy in performing complex computations."
     publishedDateTime: 2023-08-14T16:22:00Z

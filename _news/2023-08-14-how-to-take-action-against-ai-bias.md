@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704495/how-to-take-action-against
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html"
 type: article
 quality: 87
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2023/08/f/y/i-am-code.jpg"
         width: 900
         height: 579
-        isCached: true
-  - title: "How to Prevent an AI Catastrophe"
-    excerpt: "Unfortunately, the researchers quickly discovered that their AI tool would synthesize chemicals far more dangerous than Advil. The program was happy to craft instruction to produce a World War I–era chemical weapon and a common date-rape drug."
-    publishedDateTime: 2023-08-14T04:52:00Z
-    webUrl: "https://www.foreignaffairs.com/world/how-prevent-ai-catastrophe-artificial-intelligence"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/11/RTSL4H92.JPG?itok=-vHGIUKv"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Fiction writers fear the rise of artificial intelligence, but also see it as a story to tell"
     excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity."
