@@ -2,14 +2,12 @@
 category: news
 title: "Worldcoin scans eyeballs and offers crypto. What to know about the project from OpenAI's CEO"
 excerpt: "Weeks after its international launch, Worldcoin is drawing the attention of privacy regulators around the world"
-publishedDateTime: 2023-08-11T06:21:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
-webUrl: "https://abcnews.go.com/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
+publishedDateTime: 2023-08-11T06:47:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189215"
+webUrl: "https://abcnews.go.com/US/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189215"
 type: article
-quality: 48
-heat: 48
+quality: 8
+heat: -1
 published: false
 
 provider:
@@ -19,12 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/US/wirestory_9dc6a68590435b2f10fedaa0db58331b_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Worldcoin scans eyeballs and offers crypto. But why ChatGPT's Sam Altman is giving 'free money'"
@@ -58,6 +50,6 @@ related:
         height: 667
         isCached: true
 
-secured: "0mGCMZg8iSv08gGjEZMOn6mVOU0UJiuezsP8TLwiAKMDotGYuPR86DsATQXoAsvgTRCfeytBdshJWTSIJNNVPRA1QHAnVj6g443oA/S/fbxGZWON/HIEMtpMNGhm9LjuYENOu23boQZ71DafrOuYcV2T2mFRuTqUZd2tLjMAM3+pzpKwHbjzrf1sn+0OiTkZqFv1VlauhJzbD7qfOEXVsIk+j3g7K/Gs9//1koB3oEfISssDBKu+fuIfSrXiDcrEzR2zRf6Jz6pcpA8fNNz8dWLcXTo61oqLesO198IhL8MZsk/GkdKgktjn7B0cVGHsnNUd21kl0SiNqErbMTS2wnyZyoz77XWqMIgRQQ29jBNFo6neQN2TVRmspHpIzw04NODYz2Y6lwiXCPKuc1WcwYAE3+anGrrI16v1OhFPKkC1SeDFBE/M6TX8ZmyZ89cS4n061n7A4mnBrkz/MGqkbcSGkebHFXi3oztEa4pF/9e4fzFNVawvWz59NhUMsZlUKjIHXSghYgAcRLytnceQ0Q==;dlJQdZ+Jj1+xP4fPDI4xLA=="
+secured: "gHw+z1Pj5StBzHrB3XVDlEpT0K5fRfAAv9Y9/y2ZaznhtdkoxBUCzsyg5KOvmdwJftC6n8txfeyeGaz6CvkiZ6P908oseHRBMkn9wCf8j3b7e/V+8t3aoEKpq5nRVbSli4Jm5ewYrj9+9CQl1Q9Y/CxpXjgAB57DcVkmgMNxyl2/Ix4CxnptTHEgUIK8dRKn4dQi/hTA1j2+FtO9DP8AWBDTXMfrMFGOqyJi+gd9aO4+EEuW9FWWLfQ25u6dKfUMRaDTwmqX5pbI8RjYq+v3n4+eg/4icpCUG3UJM95LY499UTemlD/1Qy3uGdcXpablMB0h9gi+/bpgVpKla1DhdShOQuMs8xq9aHxeSQSKNg4xyQTX9EqXtMpoJV1cQLVB948aXOh13h7iXH5EtfqzM6hnlfhBa1m4q8BhiQGwgFde0Yd4s0wJtEDvUadu7937SUL3LBZDxJDdfuTjY/AYLWEY/2gAWdzHm5OfrogomPta1R5AqoTyDsl3RFGrF7pzVCXmkT9uKWpRmn5JhEv32w==;yKq4O1K+EDQ/rwk2Co3MIQ=="
 ---
 

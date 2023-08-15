@@ -3,10 +3,10 @@ category: news
 title: "Earnings preview: Can Nvidia amaze markets with its AI chip sales?"
 excerpt: "Nvidia is slated to report its second-quarter earnings after the US markets closing bell on 24 August (APAC time)"
 publishedDateTime: 2023-08-15T04:27:00Z
-originalUrl: "https://www.cmcmarkets.com/en-au/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales"
-webUrl: "https://www.cmcmarkets.com/en-au/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales"
-ampWebUrl: "https://www.cmcmarkets.com/en-au/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp"
-cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-au/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp"
+originalUrl: "https://www.cmcmarkets.com/en-ie/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales"
+webUrl: "https://www.cmcmarkets.com/en-ie/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales"
+ampWebUrl: "https://www.cmcmarkets.com/en-ie/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp"
+cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-ie/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp"
 type: article
 quality: 93
 heat: 113
@@ -53,6 +53,6 @@ related:
       domain: benzinga.com
     quality: 34
 
-secured: "f9yG+YUdGp0lYSyQAIoTUtVMn97Q3YBQYavHsF9criFG6xfZ1hVvIJKSwW1i/exo5TuMFAcjaI/PIzo9PdNnySMV03r0ZacTpqxQsT9ORkwWeup/154dfmTxKf/SSPf2zQWFIJRV6EDE1bHUhg6Nt2u2zweZSQJ9CgQ6j0nMz5U2ybdw+ebMLwbejE/VtvPlUSJvZdlfs+NU90WSv0jyZR7OfLRLzh+p9tykbs/NKX0lmrUWi+uux0go7DQ+LcHBJVP9ftSOSMZ+MBk5WGb/QMpYnzsouBNu8V4fLs8DhJdbwvTX5J8U5kpRmPwelfsbvXJ1km+WfRGTKMDWAiuxG76JwZ+g8hmGEo6bIBpTzq+yOqGZzsqZhLrV7UJdFDtOzLtEjxbhteTKd/gVqasz5Sr3lsQiffMOQWO8SxlNLcXCPen1eWWItBFifBxpaSnldqZzj1cliOrnAwiCvYcGx2Tk91MN71JKoWFpEKfCojm+ng6aKkl0ya326Gcpdnf9hLHpNyXxvWRlsCBHGJ0J2A==;bNEWmwUKkfHBrm1Zr+lNLg=="
+secured: "df78EHuUlXgUPOM888XAKgLsYkeSOmDoMTRGETrB7kGf0KfH6jd1EOQgqyd5X0MeyfF6Kj71NrIm2GmoHKNQSzMb74bn0YEgiLyi8avd9YtSeFc6MNuPBPa7gNjYJMEHbdPhz8NYLZ4YJmM8E4pB6qaC32bATlOq5jdpiCd+D7smxP7kwP5qeH8WVtlDeHUelixI2AC1z7Toyacc654xpdXpQ1HNZwhZ2AigPCK3/VowSbNN6khCpMnxNctsI3dC3Q7x1NbyfXEV1DJABNxgtdiwUWUiL1Y/d9yPQB5QWdR+NdY3aAYwCdcXD/DQJfcyXDvX5mrsEqZShaGvfzPoPLiboZV7E/+Co5umkXSEbqQ=;d8xMOK8Zm0utvGkwPJ6EqQ=="
 ---
 

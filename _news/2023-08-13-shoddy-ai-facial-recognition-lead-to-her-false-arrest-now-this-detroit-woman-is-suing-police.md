@@ -41,22 +41,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Detroit woman at center of facial recognition lawsuit responds to police chief's claims"
-    excerpt: "Woodruff and her attorney filed a lawsuit against the city and a Detroit Police Department officer, arguing AI technology was the reason she was falsely identified as a carjacking suspect."
-    publishedDateTime: 2023-08-10T22:09:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 66
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/10/248a1fe4-8764-4664-87bc-b05f69597616/thumbnail/1200x630/8de1786299c722a34656a03b9d4b3fd7/woodruff-arrest.jpg?v=08aa43fa812a9e12e93282c47f58b17f"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "‘Are you kidding, carjacking?: The problem with facial recognition in policing"
     excerpt: "When a pregnant Black woman was falsely arrested, she fought back. Here’s what happened next. Plus, the week in AI"
     publishedDateTime: 2023-08-15T09:46:00Z
@@ -73,15 +57,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Detroit mother files lawsuit over facial recognition arrest"
-    excerpt: "Porcha Woodruff was arrested by Detroit police after she says facial recognition software wrongfully identified her as a robbery suspect. WDIV's Demond Fernandez reports."
-    publishedDateTime: 2023-08-10T19:23:00Z
-    webUrl: "https://www.nbcnews.com/video/detroit-mother-files-lawsuit-over-facial-recognition-arrest-190571077700"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
   - title: "Facial recognition software blasted by DPD board of commissioners after recent false arrest"
     excerpt: "A vote to ban facial recognition for the Detroit police failed tonight, which would have kept the department from using it for a year."
     publishedDateTime: 2023-08-11T03:15:00Z
@@ -141,22 +116,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2023/08/07/PDTF/af0fbd16-6503-499c-9768-a5ed2475395c-Detroit_Police_surveillance_Project_Greenlight.jpg?auto=webp&crop=2399,1350,x0,y356&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Detroit police changing facial-recognition policy after pregnant woman says she was wrongly charged"
-    excerpt: "The Detroit police chief says he’s setting new policies on the use of facial-recognition technology DETROIT -- The Detroit police chief said he's setting new policies on the use of facial ..."
-    publishedDateTime: 2023-08-10T21:11:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 30
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_3ed0bff9e8d2e87a5f8fed690abbd870_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Detroit police changing facial-recognition policy after pregnant woman says she was wrongly charged"
     excerpt: "The Detroit police chief says he’s setting new policies on the use of facial-recognition technology DETROIT -- The Detroit police chief said he's setting new policies on the use of facial ..."

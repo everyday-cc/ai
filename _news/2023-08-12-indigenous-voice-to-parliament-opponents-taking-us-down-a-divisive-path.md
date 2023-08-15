@@ -20,6 +20,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Prime Minister Anthony Albanese won't move to legislate an Indigenous Voice to Parliament if No vote defeats referendum"
+    excerpt: "Anthony Albanese has said he won't move to legislate an Indigenous Voice to Parliament, should Australians vote against the constitutional change in this year's referendum."
+    publishedDateTime: 2023-08-15T12:42:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/prime-minister-anthony-albanese-wont-move-to-legislate-an-indigenous-voice-to-parliament-if-no-vote-defeats-referendum/news-story/fbd05da2e34f598f886428a4c3de1bc2"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 0
+
 secured: "GkAUONWR1lsrfzeq0khlAs/SE5AF3PLscHm10CiM/SlN0ZxbaaCnLvN3D7SQu7SiJ2A7MvZe3Nooi6OlDrA3U/19/eKs4r3fkK4rPnqXFAza/B3BXWwQ4egAUwhbxqQUBqXBm1+SicMepxvaiTPJEpPt5V1Ia9nYXIAohR+59X1thsbxxLHDb5LtY85qTVGXNXA3gZXvOPK/DX5j+kwESqSP17MGaTgqVi42qMtHu7pWbQbF4c7YadEgWhKFZqNEfS6dthZ9kK9sjnspNgD+gn5RjAaDVjOZ2a8jkaBDmAKDfZxnP4BUwKrgqmCrtdYVfiYEmmLHpikFRcqCABd42KqzWrX8X9ZpGvpCUIc0sjpJpGRpqhLPkNxRpgPDz5kNSXATv3F18K4u07+cbAt6/88MV+YMshNYXLXRkbI3boXwE9pdgR7hSXGmyEJUSotWiBo/cTGRxcfttLxHgIXZSga/oE6lXhmozAx42++j4Qfx0hS4gJWqB8g1Eyk5PYufa/hgFcqNUix1cZpLal3ktQ==;1rQ/kRVHk+fkyOKJMWO0oQ=="
 ---
 

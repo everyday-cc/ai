@@ -86,15 +86,20 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "AI’s business impact to extend far beyond Nvidia"
-    excerpt: "Generative AI could emerge as a $1.3 trillion market by 2032, growing at a 42% compound annual rate, according to BI analyst Mandeep Singh."
-    publishedDateTime: 2023-08-10T21:10:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/ais-business-impact-to-extend-far-beyond-nvidia/"
+  - title: "Nvidia CEO Explains How AI Chips Could Save Future Data Centers Lots Of Money"
+    excerpt: "Nvidia CEO Jensen Huang explains how the Grace Hopper Superchip can save significant amounts of money in data center costs for AI workloads compared to Intel CPUs."
+    publishedDateTime: 2023-08-15T15:26:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-ceo-explains-how-ai-chips-could-save-future-data-centers-lots-of-money"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
+      name: CRN
+      domain: crn.com
+    quality: 51
+    images:
+      - url: "https://www.crn.com/resources/0284-18bdfd528cd6-44d20c59faff-1000/jensen_datacenter.jpeg"
+        width: 700
+        height: 394
+        isCached: true
   - title: "AI software startup Modular seeks bumper Series A round to challenge Nvidia"
     excerpt: "According to the startup’s website, its software works by unifying the frontend of popular AI frameworks such as PyTorch and TensorFlow using modular, composable components. This means developers can use custom hardware to train AI systems and later deploy them across any server or edge device."
     publishedDateTime: 2023-08-13T23:44:00Z
@@ -109,15 +114,6 @@ related:
         width: 1030
         height: 577
         isCached: true
-  - title: "7 Big Announcements Nvidia Made At SIGGRAPH 2023: New AI Chips, Software And More"
-    excerpt: "Nvidia CEO Jensen Huang returned to the annual SIGGRAPH event for the first time in five years to showcase the GPU giant’s “full-stack computing” prowess with a bevy of new chips and software for AI,"
-    publishedDateTime: 2023-08-10T19:54:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/7-big-announcements-nvidia-made-at-siggraph-2023-new-ai-chips-software-and-more"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 29
 
 secured: "Ljl4zlqYRpxgsYNjEKLk4Bi1o2wgvuC/4u/fr5aYsri5fmVcqgGhXRzL1fIGv9gsxltOovO6tg60kPhF4JibLYEpbrlxMw2P41LA0fpaj82bv+FFoqLpnsaPJyNR+IkcUoA9qxxiWypUr8WBnhnOW6Z0KSYFvhy3p1KAz6rTo99XOqovkos0ja5I3dbn6CVmG24M2wBxHgINpNwMqDiEYcbJTn1cqYVFQ2GAMCeSFrAj4e/3ldmXZFXppKCvjt8Btk8MVyGUTKTfo8EUOky2MIZY+BbYMhL0dxClFUjuwIJcUa98U4x/Q/Vc9TaKv4kaxB6HQ76IjLRuwizetowIOzUxX3staxd1YF+oicoGUB+Vaxcb7WCwO5+y/x5SdeYrHePmu3CILeNeEpZY/WNRlM5YtLmptiqzBloHOvyJFIPEUs1WTjcUEr4Iw7KckCD0bSaX04PSOQPJy3pNtytVGadBw/xzXMEeTQhQ2oODexmT/ptpAQetaEtl3MkoETHm6dIP9DdUPNP24W0Mkdc+Wg==;VNy0NAJ5X+nX5A731d5lDw=="
 ---

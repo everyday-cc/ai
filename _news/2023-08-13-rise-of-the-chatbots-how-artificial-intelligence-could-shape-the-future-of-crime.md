@@ -82,29 +82,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Is ChatGPT running out of steam? AI chatbot's performance raises burnout concerns"
-    excerpt: "Benzinga discusses a recent Stanford University study regarding the performance of ChatGPT over several months."
-    publishedDateTime: 2023-08-11T08:20:00Z
-    webUrl: "https://kvia.com/news/2023/08/11/is-chatgpt-running-out-of-steam-ai-chatbots-performance-raises-burnout-concerns/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 34
-    images:
-      - url: "https://kvia.b-cdn.net/2023/08/smartphone.png"
-        width: 1080
-        height: 770
-        isCached: true
-  - title: "You already use ChatGPT to make life easier. Now try using AI chatbots for better sex, a sexologist says."
-    excerpt: "Dr. Amy Marsh, sexologist and AI chatbot beta tester, spoke to Insider about the real-life benefits of sexting a chatbot."
-    publishedDateTime: 2023-08-12T09:30:00Z
-    webUrl: "https://www.insider.com/ai-chatbots-can-improve-your-sex-life-outside-the-internet-2023-7"
-    type: article
-    provider:
-      name: insider
-      domain: insider.com
-    quality: 0
 
 secured: "w66tY3SDEnVvdFlAJsx/WkmVSYWpyoPwS8JwR7N90ie8Rx0kzGQaW5FIWuOqYFsGo0i8FC49hTTODQ/DFyTNnj4rLmuDVDbJuNYfJyOKxOoeJX9L6IBu264r8c/Nyid5Oz5AhuXmMe23V5fIVCoTUx88dU7dObK6FdGkzOgO7EWEjcchBpirU9UW16hthgD2LoAGWUqnMXo+oEsd96CuSol3h71ICwzYt8X6EB+QOGBibtnWgMEzpoHcoU4vcWRS4fua9pWyxS952GS+UNBVkMfr5dZMNdwAQQpwTSbzFvM4VNw0x4uulPxwtp4vpQIXwMyNzDiE5erQKcX6nM1WiHBXbWhKDy6uGT3li3ZxEQ0W89QJwyj3MDX7yCq9CtPmdZ7Rt+Ni+qe4QuHpAnGoxzfr0lYJsehDM2SQicG9vEzuKJXA/bENk3aMhETMq99AzFsVqXzC86yooH2hvHXv+VJRHrf3pQJDo59LmdIwUo11JwuGzuZ0Fp4RSy8ep7GfGdHgx1NZXO3O9/+UI1Vsog==;rDGAOPYdkX8hUxohh+WOCg=="
 ---

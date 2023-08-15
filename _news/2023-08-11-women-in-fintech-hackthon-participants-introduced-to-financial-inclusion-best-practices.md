@@ -47,6 +47,15 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Enhancing sandbox programs to aid commercial deployment of fintech innovations in Africa"
+    excerpt: "Financial technology (Fintech) innovations are becoming the mainstay of the global financial sector and user responses to these innovations have been remarkably positive and embraced at an unprecedented scale."
+    publishedDateTime: 2023-08-15T11:10:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Enhancing-sandbox-programs-to-aid-commercial-deployment-of-fintech-innovations-in-Africa-1825235"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 10
 
 secured: "YQH5setke7fDYTjfV8ogEh1ma9AlcYdI2KHKqDUhOwtCKfld8AywAAT89os05r4pjZeEqlFAQ9BSw3ApFXuxq0z6nz5VFc2GlVpCypjUNdTqAfxh7k0Nf/zX77dJwl6lxPHagDVmLUhl7NMwSaZMZfCR1rD3kcQQBYNn4tT8H31wMEulsADX7KSvXa7hEzdV3zQGMl3xTLkWwlTgVrmqYTG4vLplYZmO7LX2eTl3YWT+VbFBgK4m9obQXu8Q7XEY/5lfNgyiAhaW5D2bqWuLjkN6J5+cVd2W9X68AdB2Tepq8u3bFwkw3lmu3zWHbagNnw7hZcs/QPLtwM02S2DcTnMFpAhKxovpzL2w406o4VVUdFDHDDmoUJqiTK52Pqtq7bDY1qWaJMpk2MVhPgfuF0MGMU85vxxOhvJJbHzsYNwu7UIjlUgpWneeuAMzCXyAVDAl59gJ3NFtMdkfzWPGnMEq5oaL6ndyODZgQbEpHqmUlQ7AMjf/GYve4nmJz67/0/uiQSUIzSxzH02mON3XFQ==;OTlqoPh/GSOWSiT0Ak5avw=="
 ---

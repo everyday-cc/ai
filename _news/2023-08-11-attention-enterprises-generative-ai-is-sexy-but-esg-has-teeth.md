@@ -67,29 +67,15 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "With Generative AI, Businesses Should Listen More And Generate Less"
-    excerpt: "The implementation of large-scale language analytics promises transformative impacts across various sectors, boosting efficiency and providing insightful analysis."
-    publishedDateTime: 2023-08-11T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/with-generative-ai-businesses-should-listen-more-and-generate-lessamit-ben/"
+  - title: "Amazon is making its own chips to offer generative AI on AWS"
+    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
+    publishedDateTime: 2023-08-15T13:21:00Z
+    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "4 Generative AI Issues That Are Likely Keeping Judges Up At Night"
-    excerpt: "Judges have their task cut out for them when it comes to preparing for generative AI's entry into their courts. In a panel hosted by the Practicing Law Institute, retired judges discussed some of their primary concerns with the advanced technology."
-    publishedDateTime: 2023-08-10T22:45:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/10/4-generative-ai-issues-that-are-likely-keeping-judges-up-at-night/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Law-scales-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 51
   - title: "Global generative AI revenue to hit $33B by 2027"
     excerpt: "Generative artificial intelligence is set to yield US$33 billion in global revenue within five years as the technology experiences rapid growth."
     publishedDateTime: 2023-08-11T05:42:00Z
@@ -104,20 +90,15 @@ related:
         width: 473
         height: 315
         isCached: true
-  - title: "Why Reinforcement Learning Will Save Generative AI"
-    excerpt: "In this contributed article, Kim Stagg, VP of Product for Appen, knows the only way to achieve functional AI models is to use high-quality data in every stage of deployment. As businesses look for pathways to adoption,"
-    publishedDateTime: 2023-08-12T17:34:00Z
-    webUrl: "https://insidebigdata.com/2023/08/12/why-reinforcement-learning-will-save-generative-ai/"
+  - title: "Marqeta Adds AI with New Generative Artificial Intelligence Tool"
+    excerpt: "Global credit card management firm Marqeta (NASDAQ: MQ) has revealed its \"Docs AI,\" described as an AI-powered external-facing question and answer tool, which"
+    publishedDateTime: 2023-08-15T13:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211506-marqeta-adds-ai-with-new-generative-artificial-intelligence-tool/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
-        width: 1100
-        height: 550
-        isCached: true
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 32
   - title: "Multinationals turn to generative AI to manage supply chains"
     excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
     publishedDateTime: 2023-08-13T03:59:00Z

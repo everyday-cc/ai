@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in the financial industry: Machine learning in banking"
+    excerpt: "UK financial services firms saw a 72% rise in the use of ML applications; what does this mean for the future of AI in the financial industry?"
+    publishedDateTime: 2023-08-15T12:35:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-in-the-financial-industry-machine-learning-in-banking/165122/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 71
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/08/iStock-1390124637-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Artificial Intelligence: A Revolution on Par with the Industrial Revolution"
     excerpt: "Oliver Dowden, the deputy prime minister, has highlighted the potential of AI to enhance productivity and streamline mundane tasks."
     publishedDateTime: 2023-08-13T07:51:00Z

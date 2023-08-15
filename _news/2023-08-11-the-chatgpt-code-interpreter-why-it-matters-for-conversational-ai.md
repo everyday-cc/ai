@@ -19,29 +19,100 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT brings big data center stage for managers"
-    excerpt: "The launch of large language models such as ChatGPT this year has left money managers scrambling to explore applications and implications."
-    publishedDateTime: 2023-08-14T09:00:00Z
-    webUrl: "https://www.pionline.com/big-data/chatgpt-brings-big-data-center-stage-money-managers"
+  - title: "Has AI Robotics Revolution Met Its ChatGPT Moment? A Conversation With Peter Chen, Co-Founder Of Covariant"
+    excerpt: "In a year marked by massive leaps in technology change, Covariant has created an adaptable AI that thrives in an environment characterized by unpredictability and imbue robots with the capacity to conquer novel challenges with precision and autonomy."
+    publishedDateTime: 2023-08-15T12:13:00Z
+    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/"
+    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/"
     type: article
     provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 103
     images:
-      - url: "https://www.pionline.com/s3/files/styles/1200x630/public/AI-illustration-cropped-16-9.jpg"
-        width: 1200
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64db6a9e8cd8bf5f77635ef0/0x0.jpg?format=jpg&crop=640,361,x0,y29,safe&width=1200"
+        width: 640
+        height: 361
         isCached: true
-  - title: "How ChatGPT can help you optimize your content for entities"
-    excerpt: "An object. The subject and object are typically the entities ... To determine successful entity usage within your material, these platforms often devise their own entity recognition algorithms. The left side prominently displays the entity."
-    publishedDateTime: 2023-08-13T22:23:00Z
-    webUrl: "https://searchengineland.com/chatgpt-help-optimize-content-entities-430315"
+  - title: "The 5 best AI books recommended by ChatGPT"
+    excerpt: "It is recommended for beginners as well as advanced AI enthusiasts. The book covers the latest research and developments in AI. Universities and institutions around the world use this book as a textbook."
+    publishedDateTime: 2023-08-14T07:36:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
     type: article
     provider:
-      name: Search Engine Land
-      domain: searchengineland.com
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/08/14/1600x900/pexels-matheus-bertelli-16094043_1687844354160_1691998377504.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How artificial intelligence could change college football"
+    excerpt: "The explosion of applications like ChatGPT has thrown many businesses into a new industrial revolution as new efficiencies could streamline workflow. That’s great for everyone but the humans who could be replaced by computers. Few industries escape at least the conversation of AI disruption and college football is far from exempt."
+    publishedDateTime: 2023-08-15T11:38:00Z
+    webUrl: "https://www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html"
+    ampWebUrl: "https://www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5ZMK7BFE75HRNE6IUZQTAYPKE4.jpg"
+        width: 5372
+        height: 3022
+        isCached: true
+  - title: "How To Invest In ChatGPT"
+    excerpt: "These include the Azure Bot Service, which allows businesses to create intelligent chatbots using Microsoft technologies, and Azure Cognitive Services to assist developers of natural language processing and translation tools. Brewin Dolphin’s Mr Moore ..."
+    publishedDateTime: 2023-08-14T11:56:00Z
+    webUrl: "https://www.forbes.com/uk/advisor/investing/how-to-invest-in-chatgpt/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/08/ChatGPT_image-e1692002280431.jpg"
+        width: 1188
+        height: 669
+        isCached: true
+  - title: "Is ChatGPT running out of steam? AI chatbot's performance raises burnout concerns"
+    excerpt: "Benzinga discusses a recent Stanford University study regarding the performance of ChatGPT over several months."
+    publishedDateTime: 2023-08-11T08:20:00Z
+    webUrl: "https://kvia.com/news/2023/08/11/is-chatgpt-running-out-of-steam-ai-chatbots-performance-raises-burnout-concerns/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 34
+    images:
+      - url: "https://kvia.b-cdn.net/2023/08/smartphone.png"
+        width: 1080
+        height: 770
+        isCached: true
+  - title: "Schools navigate regulation of artificial intelligence, ChatGPT as students return to classrooms"
+    excerpt: "Artificial intelligence is becoming a major conversation in the classroom, especially a popular software called ChatGPT. ABC7 asked ChatGPT to write a book report on \"Pride and Prejudice.\" In just seconds, it created a report that would probably satisfy ..."
+    publishedDateTime: 2023-08-14T12:52:00Z
+    webUrl: "https://abc7chicago.com/ai-chatgpt-what-is-artificial-intelligence-back-to-school/13646839/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
     quality: 4
+  - title: "You already use ChatGPT to make life easier. Now try using AI chatbots for better sex, a sexologist says."
+    excerpt: "Dr. Amy Marsh, sexologist and AI chatbot beta tester, spoke to Insider about the real-life benefits of sexting a chatbot."
+    publishedDateTime: 2023-08-12T09:30:00Z
+    webUrl: "https://www.insider.com/ai-chatbots-can-improve-your-sex-life-outside-the-internet-2023-7"
+    type: article
+    provider:
+      name: insider
+      domain: insider.com
+    quality: 0
 
 secured: "yFw+eEaUBEQj/8T1kaRWSHoJ2//CMMidBer75PKK05PBPwQCs7a6jmhwj3uZi+AbLJOBiI6CBrUwfVErweyYY5yyr2PzKE+iYzoI21ttCbdrEB38QqH+XMJCcNsulwu7xK2HZskEAfInZ86WNqFvQLUiL+VZbp44nEk+dpy/ogaN9fDEKnPt60yZnum47wCkcbZKGpAIoRBhAhaaGyqfcAFgiHemRosv923hOfJSBwwYJUpCR8vLM4/ppq1b+PRo80+8oYWrAGp30TZPlFlCbghmVF4y2b87eu4rS1ROdcfThqonhji6/xwg9q1fNeZJ4yAF6Pe8ZL4qi5BTUQoFt5GRBHV3eojuQ+z7I0hbJZJOo5xB4IgNbv5HNJMNFyT7ZQBU/qBGvUnS5gGgIE4TmZ6gu0SvD1YzH7ggQSLt0BtQmVIcC5jD9u/jG/ENPJcFBjoYiI50i3yxIBRZmsfZyaFFCFAatpYj4GVAh99bHCv5WXC357KJMu/5p/2EPe5lQPkjqmR139gk25hELp1fmw==;BaJ7LsOOWDBz4NkGMWLFOg=="
 ---

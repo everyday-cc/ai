@@ -43,36 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The 5 best AI books recommended by ChatGPT"
-    excerpt: "It is recommended for beginners as well as advanced AI enthusiasts. The book covers the latest research and developments in AI. Universities and institutions around the world use this book as a textbook."
-    publishedDateTime: 2023-08-14T07:36:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/08/14/1600x900/pexels-matheus-bertelli-16094043_1687844354160_1691998377504.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "How To Invest In ChatGPT"
-    excerpt: "These include the Azure Bot Service, which allows businesses to create intelligent chatbots using Microsoft technologies, and Azure Cognitive Services to assist developers of natural language processing and translation tools. Brewin Dolphin’s Mr Moore ..."
-    publishedDateTime: 2023-08-14T11:56:00Z
-    webUrl: "https://www.forbes.com/uk/advisor/investing/how-to-invest-in-chatgpt/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/08/ChatGPT_image-e1692002280431.jpg"
-        width: 1188
-        height: 669
-        isCached: true
   - title: "ChatGPT on Campus: Law Schools Wrestle With Emerging AI Tools"
     excerpt: "Law schools are weighing how to integrate rapidly improving artificial intelligence into the classroom as the legal industry grapples with the technology."
     publishedDateTime: 2023-08-11T09:01:00Z
@@ -110,15 +80,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Schools navigate regulation of artificial intelligence, ChatGPT as students return to classrooms"
-    excerpt: "Artificial intelligence is becoming a major conversation in the classroom, especially a popular software called ChatGPT. ABC7 asked ChatGPT to write a book report on \"Pride and Prejudice.\" In just seconds, it created a report that would probably satisfy ..."
-    publishedDateTime: 2023-08-14T12:52:00Z
-    webUrl: "https://abc7chicago.com/ai-chatgpt-what-is-artificial-intelligence-back-to-school/13646839/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 4
   - title: "How will the oil and gas industry use ChatGPT?"
     excerpt: "However, its use extends beyond the household and the classroom, and it is being eyed for a host of other industries. Follow along with GlobalSpec for an ongoing series examining how ChatGPT is being used in specific industries,"
     publishedDateTime: 2023-08-15T09:03:00Z

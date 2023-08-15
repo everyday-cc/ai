@@ -27,6 +27,29 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars can make traffic slower"
+    excerpt: "A new study finds that 'connected' vehicles, which share data with each other wirelessly, significantly improve travel time through intersections -- but automated vehicles can actually slow down travel time through intersections if they are not connected to each other."
+    publishedDateTime: 2023-08-15T12:51:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/08/230814122318.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+  - title: "Self-driving cars could make traffic slower: Research"
+    excerpt: "If we want to also improve travel time, an increase in automated vehicles isn't enough; we need vehicles that are capable of communicating with each other."
+    publishedDateTime: 2023-08-15T14:39:00Z
+    webUrl: "https://telanganatoday.com/self-driving-cars-could-make-traffic-slower-research"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 24
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/cars.jpg"
+        width: 1200
+        height: 670
+        isCached: true
   - title: "Self-driving cars could slow down traffic, study finds"
     excerpt: "Using computer simulations, researchers have found that automated vehicles could slow down travel time through intersections compared to connected vehicles."
     publishedDateTime: 2023-08-15T11:16:00Z

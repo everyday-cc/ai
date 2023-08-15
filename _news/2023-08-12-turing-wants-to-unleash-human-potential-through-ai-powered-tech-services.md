@@ -47,22 +47,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 66
-  - title: "AI and the Evolving Landscape of Creativity"
-    excerpt: "Welcome to the age of co-creation, where the lines blur between the creator, the technological ally (AI), and the audience. This rich tapestry of collaboration challenges and redefines traditional boundaries, venturing into unexplored domains of both individual inspiration and communal expression."
-    publishedDateTime: 2023-08-10T23:11:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202308/ai-and-the-evolving-landscape-of-creativity?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2023-08/AIPainting.png.jpg?itok=aaxz6CBC"
-        width: 320
-        height: 320
-        isCached: true
   - title: "The double-edged nature of parenting, mental health and artificial intelligence"
     excerpt: "There are two sides to every coin — and sometimes our strengths become weaknesses. This hour, TED speakers explore the mixed blessings and volatile flip sides of mental health, parenting and AI. Guests include developmental psychologist Yuko Munakata ..."
     publishedDateTime: 2023-08-11T05:44:00Z

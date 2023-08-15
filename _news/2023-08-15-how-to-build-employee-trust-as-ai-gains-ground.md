@@ -58,29 +58,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "With Generative AI, Businesses Should Listen More And Generate Less"
-    excerpt: "The implementation of large-scale language analytics promises transformative impacts across various sectors, boosting efficiency and providing insightful analysis."
-    publishedDateTime: 2023-08-11T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/with-generative-ai-businesses-should-listen-more-and-generate-lessamit-ben/"
+  - title: "Amazon is making its own chips to offer generative AI on AWS"
+    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
+    publishedDateTime: 2023-08-15T13:21:00Z
+    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "4 Generative AI Issues That Are Likely Keeping Judges Up At Night"
-    excerpt: "Judges have their task cut out for them when it comes to preparing for generative AI's entry into their courts. In a panel hosted by the Practicing Law Institute, retired judges discussed some of their primary concerns with the advanced technology."
-    publishedDateTime: 2023-08-10T22:45:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/10/4-generative-ai-issues-that-are-likely-keeping-judges-up-at-night/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Law-scales-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 51
   - title: "Global generative AI revenue to hit $33B by 2027"
     excerpt: "Generative artificial intelligence is set to yield US$33 billion in global revenue within five years as the technology experiences rapid growth."
     publishedDateTime: 2023-08-11T05:42:00Z
@@ -95,20 +81,15 @@ related:
         width: 473
         height: 315
         isCached: true
-  - title: "Why Reinforcement Learning Will Save Generative AI"
-    excerpt: "In this contributed article, Kim Stagg, VP of Product for Appen, knows the only way to achieve functional AI models is to use high-quality data in every stage of deployment. As businesses look for pathways to adoption,"
-    publishedDateTime: 2023-08-12T17:34:00Z
-    webUrl: "https://insidebigdata.com/2023/08/12/why-reinforcement-learning-will-save-generative-ai/"
+  - title: "Marqeta Adds AI with New Generative Artificial Intelligence Tool"
+    excerpt: "Global credit card management firm Marqeta (NASDAQ: MQ) has revealed its \"Docs AI,\" described as an AI-powered external-facing question and answer tool, which"
+    publishedDateTime: 2023-08-15T13:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211506-marqeta-adds-ai-with-new-generative-artificial-intelligence-tool/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
-        width: 1100
-        height: 550
-        isCached: true
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 32
   - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
     excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
     publishedDateTime: 2023-08-11T12:04:00Z
@@ -128,6 +109,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "RhOjdWoQlLcAxl3nNzeo/S4BMTuTD/Lc0JkziJe04AgJc8xzppiOQN8wUxEoel9ZO5Qp7Ifi6BJH1zHbZhKuHGfl/2b/uMD0SjZ+4KqEBtkja/kEL2/rRI1sEzvKEA54qZtruZtWfPijfmxHtIuttBo6MsQ+oZ3hKP/9PmTl78+BpWcgzbD954Kt41Qtv3sluIjNANwoUGVUE10KrIfgF5/c3iUGi8ZP6IAV3SSo0czqaZQtl5Xwqe8kjj5n3jjiuPuUCeZxZ8LMPrAl/5EV2iRTp59rWLQTNPZuj4lO09WOZjaY4PyWGV5kCwzgKgAFwJVAAFGdX6hG42sWEXvdnNf2fWcxclMrl5PR1KjHaFA=;DF0tErXBqHcGD52I7sXAUg=="
+secured: "yvKbF4DU87WDssYWpL/ArCIpazt5s7fT+p2pTrHN44vXU+SMHDIoo/xHXdbOqRB8KHHLf3bV+JzuNAfoPr+b7bFxQEoMD4OSKLOL7h/nlY4i44iApusEUCBVr8XjY8117FHzyPJKU3UrJMg0qWmAZ7905E/lduyiPEfbnsN+o7MJguIqBQRDOkD9qXTDSYTR3GOLVJYxkPuVonwm/bgIVBWFmmvqKWfnJJRxUEe3jcS8U9n8rginyKtP/vNEocljQv96pndELf7oLTFJ0cJj2IT94nBP1qbmt9LHLIdW5MRKYMe3iFLdu9xWg8mnj5kbiPfCHd3nWKFPm1fJSLZkU+CdG+UFMcfdBFpjXTyqn3iaA3tA5nChzkLEELvZtmo9aS5BLvBRLmIizPX3Y2Pid87TnmgmIOQMO54p1hu7GoLJpZ0fBAQfnaQwsrb9GicJCXXIQkMc0+aZi2qmDQQFZeZ8//mkpdx+7AdCxwOxCFHRExsOxxN7clQpl5Fv/XfVnv42BPzueeFL8BNFAm6X0A==;7YUQAC/AQ9Kj0L51pGk/Wg=="
 ---
 

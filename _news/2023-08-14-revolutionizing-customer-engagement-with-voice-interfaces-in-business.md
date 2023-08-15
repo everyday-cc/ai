@@ -121,6 +121,47 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution"
+    excerpt: "Nutanix ( NASDAQ : NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box solution for customers looking to jump-start their artificial intelligence (AI) and machine learning (ML) innovation, while maintaining control over their data."
+    publishedDateTime: 2023-08-15T14:42:00Z
+    webUrl: "https://za.investing.com/news/nutanix-simplifies-adoption-of-generative-ai-with-new-gptinabox-solution-2844261"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 37
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
+  - title: "Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
+    excerpt: "The Nutanix GPT-in-a-Box solution delivers ready-to-use customer-controlled AI infrastructure for the edge or the core data center and allows customers to run and fine-tune AI and GPT models while maintaining control over their data. Nutanix provides a full complement of security and data protection offerings ideal for AI data protection."
+    publishedDateTime: 2023-08-15T14:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/15/9864857.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+  - title: "Addentax Group Corp. Continues to Make Significant Strides in Advancing the Automation of Artificial Intelligence Internet Operational Tools"
+    excerpt: "Addentax Group Corp. (\"Addentax\" or the \"Company\") (Nasdaq: ATXG), an integrated service provider focusing on garment manufacturing, logistics services, and property management and subleasing, has announced significant progress in its collaborative initiative with Games-as-a-Service (\"GaaS\") firms for the development of Artificial Intelligence (\"AI\") Online Operational Tools (referred to as the \"AI project\"),"
+    publishedDateTime: 2023-08-15T13:57:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/15/9864915.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Fine-Tuning, Prompt Engineering are Keys to Delivering Real Generative AI Solutions to Commercial Pharma Operations Today"
+    excerpt: "Generative AI further enhances the value of prompt engineering by synthesizing important insights from various interactions, including text, images, compliant transcripts, and call notes. By automating this process,"
+    publishedDateTime: 2023-08-15T13:00:00Z
+    webUrl: "https://medcitynews.com/2023/08/fine-tuning-prompt-engineering-are-keys-to-delivering-real-generative-ai-solutions-to-commercial-pharma-operations-today/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 0
 
 secured: "6JBWcz3wPDs4e3AFeQvGFxMmfMUdVJbPEB0PVoYchuJc5RVQFODoqXPgsDXWI/GwVjRZoxDxlx0W1ULYh7NctMG/38gXcQPLuMI2wcC3rB9abQ2hWA80zr90jgBn+GwDOBw5krMd1fgfT3LdWG25s1PUPDVF2lcCvWZl/ZJDqBUKjkeUjrNlREh7UgknhJdG4qMRTMpNqGn6ICOAOD0kfOHpxeHPYBYj5/QpLy8y+e2ZxnMDLDOsmj/Dw9ARFjMl0Dc/r2UMgDM9ZUAgC3M+TrNMLSlLkv7Od+IKrDuDGCsg9dNgbv3ltmjD2MbH4ZBlBHVLO4RbH5l9YLvdQsPBlPQk/PNwHhiheJO+JNafW+s=;/1KP3VXgS5NZt9rBabbYCQ=="
 ---

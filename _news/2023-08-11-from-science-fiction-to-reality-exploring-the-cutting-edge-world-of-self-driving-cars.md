@@ -39,20 +39,6 @@ related:
         width: 368
         height: 249
         isCached: true
-  - title: "People having sex in self-driving taxis: Report"
-    excerpt: "San Francisco: As the popularity of autonomous vehicles continues to surge in San Francisco, a growing number of riders are wondering just how far they can push the vehicles’ capabilities, and to test that they are having sex in self-driving taxis."
-    publishedDateTime: 2023-08-12T16:46:00Z
-    webUrl: "https://telanganatoday.com/people-having-sex-in-self-driving-taxis-report"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 24
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/self-driving-taxis.jpg"
-        width: 1280
-        height: 750
-        isCached: true
 
 secured: "2ll1X1/YLbjtcOemU5ldk++6AZVObkxUChK+xUme0JCx71MP6LgimjF/z3CNPjNOLtfjZu8XBI0S4S1fmnU09p/YGLTFYFtl1+bWaVKgtCN0TsNLqMYlPSVtrbRvdNbYOIyGexjDWH7BJltuZsA1h7RJF5q6sDuSpuVmFG1QtYi8dvHQJFPhADzF7SG3ytlO6a7kZVGpzzpHu9neZBoc+pUbsoL5N6OKiAJBEi4QIxkIAfRwU7tbljOVVAyPmYueKG1eluGyDWPiayWfmTWRJRtt78yUCbze1GU7p3cqCS3EVjQe7g9X1ZHF2fVAT56Rxs4c1t3aBuOAXCMuiZz2+e2kOpVJHFybtDn1luY+mS7t436du3/2ly5qdig5pxCGlihtkZLWMwhL6L++16tP+Mmh+BHuELqDIbEUn+wbyx3YbjUhVagyUOeRJclQP1nD+6vjLPaaEHWadtfHJbQxuPmxNsUUkas/4K7o550lA9YTEDhjoQgFVCJau6/T/WcT8LIJU5cmLmj4brOXdjSsuA==;8bXw+TSmsl3ITqG4HqhoJQ=="
 ---

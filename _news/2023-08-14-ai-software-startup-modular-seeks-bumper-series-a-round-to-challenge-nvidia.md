@@ -98,24 +98,20 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "AI’s business impact to extend far beyond Nvidia"
-    excerpt: "Generative AI could emerge as a $1.3 trillion market by 2032, growing at a 42% compound annual rate, according to BI analyst Mandeep Singh."
-    publishedDateTime: 2023-08-10T21:10:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/ais-business-impact-to-extend-far-beyond-nvidia/"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "7 Big Announcements Nvidia Made At SIGGRAPH 2023: New AI Chips, Software And More"
-    excerpt: "Nvidia CEO Jensen Huang returned to the annual SIGGRAPH event for the first time in five years to showcase the GPU giant’s “full-stack computing” prowess with a bevy of new chips and software for AI,"
-    publishedDateTime: 2023-08-10T19:54:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/7-big-announcements-nvidia-made-at-siggraph-2023-new-ai-chips-software-and-more"
+  - title: "Nvidia CEO Explains How AI Chips Could Save Future Data Centers Lots Of Money"
+    excerpt: "Nvidia CEO Jensen Huang explains how the Grace Hopper Superchip can save significant amounts of money in data center costs for AI workloads compared to Intel CPUs."
+    publishedDateTime: 2023-08-15T15:26:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-ceo-explains-how-ai-chips-could-save-future-data-centers-lots-of-money"
     type: article
     provider:
       name: CRN
       domain: crn.com
-    quality: 29
+    quality: 51
+    images:
+      - url: "https://www.crn.com/resources/0284-18bdfd528cd6-44d20c59faff-1000/jensen_datacenter.jpeg"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "uvAKNr00blWBFq8gZIJ1/7fBtOY4Yqrnvr6cIBbKsWN86XIn6b0C4xsNMxiLlSDHzfgC22u0nri52VjxvCOWXxmgjX6EprmZTHkOiV0hHUyOcqbCLgZtx3Xv45BY6zJ6SD006NBEbduvuu6isNnS/hmLxWZMe5dLYXpFUF40KaFKCXHJMAbIfS1ikId0n3PoReupAw4c1zj9WFQp8ydgrgdorDiSQBZ8nWOXlM+0U+SHrIcdLXp5Lzb5jApRio9cwRnpju6H7Enbq9ubHybyjpuSo4YQIN19QDuAwpxfL2WTITGJt5qva/KiA2olbdD0j4HmkvvQ1DIFe2S6y6zTXD2ePzVBcXHI1V8Lld/O7L4q2Z6BM666H7LabHrrIh9xDdQPd90so6K2tSolU1H+3mKj8I814KVmEJp57B3/nfVwuie4nafpz8pKCv0xCfXYEUFK6/xAJMAfBAj2Gxpy0b/Ly2Sg2gN1FCpv7OfsvpDGpYrF75SpXcMagtae9dbjXfwbNx7dyxFabH2QAGXwPw==;PLPJZRSKLe61JZS5t/5e3w=="
 ---

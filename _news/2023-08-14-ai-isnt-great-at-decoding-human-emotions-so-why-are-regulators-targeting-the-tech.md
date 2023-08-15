@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/08/14/1077788/ai-decoding-huma
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/14/1077788/ai-decoding-human-emotions-target-for-regulators/amp/"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -26,37 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Federal regulators take first step toward regulating use of artificial intelligence in campaign ads"
-    excerpt: "The FEC unanimously voted on Thursday to advance a petition asking it to regulate ads that use AI to misrepresent political opponents as saying or doing something they didn’t"
-    publishedDateTime: 2023-08-10T21:44:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/?amp=1"
+  - title: "Journalists seek regulations to govern fast-moving artificial intelligence technology"
+    excerpt: "Several news organizations, writers and photographers groups are pushing to be involved in creating standards for the use of artificial intelligence, particularly as it concerns intellectual property rights and the potential spread of misinformation."
+    publishedDateTime: 2023-08-12T21:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/aug/12/journalists-seek-regulations-tfp/"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 58
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 30
     images:
-      - url: "https://media.nbcnewyork.com/2023/08/AP23222540945939.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "FEC moves toward potentially regulating AI deepfakes in campaign ads"
-    excerpt: "The Federal Election Commission has begun a process to potentially regulate AI-generated deepfakes in political ads ahead of the 2024 election"
-    publishedDateTime: 2023-08-11T02:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/fec-moves-potentially-regulating-ai-deepfakes-campaign-ads-102180371"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/fec-moves-potentially-regulating-ai-deepfakes-campaign-ads-102180371"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fec-moves-potentially-regulating-ai-deepfakes-campaign-ads-102180371"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_95399e640bd1e41182f6c631717cc826_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/08/12/AP23221734717325_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "frd5Vsh5kMeMpBOrK8znkmMf8hhH5tIJUQS5aAmU3se7pSNST3yCKuvb/faZDBjHvEyp40OivBJAk/6wpJpQ5p7KwI+KfxnnoCPG+FYwpDzGdxhMdIsE/bZEfuTGilEHPf8chlpk2MQSNskyVuq29/WNfcpdTAknqlqxDpVMUkvEipzDGrm0fg08WZFPGBZ7uAE9cVUOSSU8566Ljxvr+LyzhOOmrBu1FqRb9A2jHm3dy7XsxNDolcICLmx1zAPdTHDg9wHTca3wNyrKUV7kS2EaIYivej4BeGLyoM60RHxkdBXn291I5XDN8akoWXZD1n2TTynbwxS/2+2A2QtjjpJoT+vPL8yn9jta+KhBVazpskgK/hWIQQBnvE/tpTyJCdiBTBtFHcU+iBFiCkDs+JmBGLtmI+4d7ZVrV51Duho03nJCP0tu3TjTIHhS4iNhtBjdYaiR5LX+m1flzW+wZemdAIQSIAbswloLU3CR9BZYjjA4eZxeMtmyF2d9uQK48RQ8kBM1sEaT7xKEmQCSFw==;pgC6UW+GhUy33hfxtnS+pw=="

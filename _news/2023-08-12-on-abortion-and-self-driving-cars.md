@@ -7,7 +7,7 @@ originalUrl: "https://www.starbeacon.com/opinion/on-abortion-and-self-driving-ca
 webUrl: "https://www.starbeacon.com/opinion/on-abortion-and-self-driving-cars/article_732f4bf4-3881-11ee-9856-277ef744c5db.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,47 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use AI to determine drivers health and mental state in self-driving cars"
-    excerpt: "Researchers at Western University are partnering with Mitacs Globalink to advance technology in self-driving cars by using artificial intelligence (AI)."
-    publishedDateTime: 2023-08-10T20:53:00Z
-    webUrl: "https://london.ctvnews.ca/researchers-use-ai-to-determine-drivers-health-and-mental-state-in-self-driving-cars-1.6514170"
-    ampWebUrl: "https://beta.ctvnews.ca/local/london/2023/8/10/1_6514170.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/london/2023/8/10/1_6514170.amp.html"
+  - title: "Calif. opens floodgates for self-driving cars"
+    excerpt: "SAN FRANCISCO — California regulators voted Thursday to allow self driving car companies Waymo and Cruise to offer 24/7 paid taxi service in San Francisco, a major win for the"
+    publishedDateTime: 2023-08-13T07:45:00Z
+    webUrl: "https://www.stltoday.com/calif-opens-floodgates-for-self-driving-cars/article_7f81d78c-83c7-5163-9d17-0c2c606ec753.html"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 52
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 24
     images:
-      - url: "https://beta.ctvnews.ca/local/london/2023/8/10/1_6514170/_jcr_content/root/responsivegrid/image.coreimg.png"
-        width: 1020
-        height: 574
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/95/f95333a0-ad90-5c1b-94cc-a381c683b5a0/64d88a09af83f.image.jpg?crop=1898%2C996%2C0%2C47&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "‘Do you need me to take over’: Passengers get stuck in a self-driving car"
-    excerpt: "A popular podcast duo confirmed this fear while documenting their adventure of getting stuck in a self-driving car."
-    publishedDateTime: 2023-08-11T01:54:00Z
-    webUrl: "https://www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/"
-    ampWebUrl: "https://www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/?amp"
+  - title: "Don’t Scrape Me, Bro, the Activists Sabotaging Self-Driving Cars and How Reddit Beat a Rebellion"
+    excerpt: "For more audio journalism and storytelling, download New York Times Audio, a new iOS app available for news subscribers. Hosted by Kevin Roose and Casey Newton Produced by Davis Land and Rachel Cohn Edited by Jen Poyant Engineered by Sophia Lanman Original ..."
+    publishedDateTime: 2023-08-11T09:00:00Z
+    webUrl: "https://www.nytimes.com/2023/08/11/podcasts/dont-scrape-me-bro-the-activists-sabotaging-self-driving-cars-and-how-reddit-beat-a-rebellion.html"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 43
-    images:
-      - url: "https://uploads.dailydot.com/2023/08/stuck-on-self-driving-car.jpg?auto=compress&fm=pjpg"
-        width: 2000
-        height: 1000
-        isCached: true
-  - title: "Cruise now testing self-driving cars in Atlanta"
-    excerpt: "For the moment, there's still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."
-    publishedDateTime: 2023-08-10T19:36:00Z
-    webUrl: "https://techxplore.com/news/2023-08-cruise-self-driving-cars-atlanta.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
+      name: The New York Times
+      domain: nytimes.com
+    quality: 21
 
 secured: "qM5Q9f2/5bZAOB6L81AQ30V4Ba6KYOuFLuH6oLOMdJx80T13PVCvC8m6W8Q9pY0LmoJNGWx5hyg86py2YBJCNATD7dTm3uMkGH4iLfa7Cbar8ujH6Uu0APMWtcuFO6VKOxdUadUNqhJ9rp2nuDX5XKfQRnSkpZigjnWq4qynKv/N1J/J5LzB3XsQowtQ8qnT2r7lH8bwHp0u6yn2wV3cBcKMQ0RYuNogAL6J4RkfSB00qYQQWo3+9QxyEFxRAXKvlg86uRuAKMnpRF5bUaV0Uza+NoYajvDk1wRhEBtI4dHMUlSoB6EgjYMcHGlbgeluapgEh4TRD/yJAW03SZxqMWxJusElbS0Waxs2gntebG0=;xG8PdHjYERibuAuYYkbctA=="
 ---

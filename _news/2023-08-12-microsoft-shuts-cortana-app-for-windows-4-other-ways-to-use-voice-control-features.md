@@ -30,7 +30,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64c6dd5758fabf29ee775ae8/0x0.jpg?format=jpg&crop=2447,1377,x0,y802,safe&width=1200"
         width: 1200
@@ -160,6 +160,15 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 26
+  - title: "Doctors use Artificial Intelligence software to plan for the future"
+    excerpt: "About 30% of U.S. doctors are approaching retirement age, but only 12% are choosing to retire. Why? In a financial environment struggling with inflation, advance preparation for retirement is necessary for all physicians seeking more comfortable golden years."
+    publishedDateTime: 2023-08-15T15:46:00Z
+    webUrl: "https://neworleanscitybusiness.com/blog/2023/08/15/doctors-use-artificial-intelligence-software-to-plan-for-the-future/"
+    type: article
+    provider:
+      name: New Orleans City Business
+      domain: neworleanscitybusiness.com
+    quality: 19
 
 secured: "SUYoDeSNAHEjUwEZRvkyxKu6SfOIVJAKVrVp1EDxQ90Tkge7Gzkadd9scDibO23/oprolbJax0hXwKUJ/VDqoffpEzjWAFAbZMHQngsMuwl/fM+rkm3EHph40op0/qEszsoyY45+Af/CvSedZTXTss95QMfJr/iwjQm65t8RgQ0hp2dCGSn0jE5CIxGGmg3QNcZslT2hhvIoQSfFvcpe+M6btM8DLRPT29TNPZE7iFVdombSe4ni/XIILXhn7kdKb3MBeNRrK1A9qDFIJ0nyha7W9EYRoutcsr67H1q3KOY5zrk0XrLh+D9tGKDkPTosV97q1HFcp62PnPmPyEUpDhDw1RtpSfWlwscXVCkcIuI=;U/xHF4zb2OV2gqYBt7qOQg=="
 ---

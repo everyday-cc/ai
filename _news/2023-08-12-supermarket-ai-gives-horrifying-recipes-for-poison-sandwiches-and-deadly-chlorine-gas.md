@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-giv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI-powered grocery bot suggests recipe for toxic gas, “poison bread sandwich”"
-    excerpt: "When given a list of harmful ingredients, an AI-powered recipe suggestion bot called the Savey Meal-Bot returned ridiculously titled dangerous recipe suggestions, reports The Guardian. The bot is a product of the New Zealand-based PAK'nSAVE grocery chain and uses the OpenAI GPT-3.5 language model to craft its recipes."
-    publishedDateTime: 2023-08-10T19:45:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/ai-powered-grocery-bot-suggests-recipe-for-toxic-gas-poison-bread-sandwich/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 44
 
 secured: "0o0CD1n6ByO7knXokJ1/uEps2tmBWKJRrgM4Q5eCZrE7ArHd2mab8wVfbfheB79aHhAbY6sGNedIwVN6w6Y2ABhZ69bo6SF1Q0XMmWTHckEBG0M0mecFMlEGH9UGlMP8ZylrJG6UgF0nImsneYfmsrTVDZ5HlK0d4ICSbzWnPhNgElADuwc323Rgken2YUDRoTV9rmTql4aerD7kajyzZUycWRQ2PJ9arRlnoTPwZtxBwsFrVXuGkUsBj/aPKjVPbXs/qyXIMYvkUEnxrzuy7E5MPvXJxERrplrx102Zx0JRbpun1AI32SUWm2DX5Qb5ZSIvskuuYcO6H8ZdGRZDMIUx7xVpm6mz9dP97H3AhpNxq6YhmbXvTJQN2ju0yriz8tS435oVshp0QjLrteS2jCXM83Vib3xIUpwd+V+nxJ8XdSSFHlI1DyqUlKTnzbNST7FV5OOgirdRct2CqV15XvqttFzxPQfnFGkA+Lrs1ygy3IP6YaHGbWuaaEi1VzgoRE/x2OaRSC0LrXkFTZYwiw==;ACZ6VN+dsm3RoYN3tXVU7A=="
 ---

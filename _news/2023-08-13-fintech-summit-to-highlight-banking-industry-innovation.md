@@ -39,6 +39,15 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Enhancing sandbox programs to aid commercial deployment of fintech innovations in Africa"
+    excerpt: "Financial technology (Fintech) innovations are becoming the mainstay of the global financial sector and user responses to these innovations have been remarkably positive and embraced at an unprecedented scale."
+    publishedDateTime: 2023-08-15T11:10:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Enhancing-sandbox-programs-to-aid-commercial-deployment-of-fintech-innovations-in-Africa-1825235"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 10
   - title: "Women in fintech hackthon: participants introduced to financial inclusion best practices"
     excerpt: "On Day One of the 2023 Women in FinTech hackathon, the over 100 innovators from Kenya and Uganda were able to work on their problem statements and business cases."
     publishedDateTime: 2023-08-11T03:32:00Z

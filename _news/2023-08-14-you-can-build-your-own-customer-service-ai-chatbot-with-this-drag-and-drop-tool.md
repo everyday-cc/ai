@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-build-your-own-cust
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-build-your-own-customer-service-ai-chatbot-with-this-drag-and-drop-tool/"
 type: article
 quality: 83
-heat: 143
+heat: 123
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Is ChatGPT running out of steam? AI chatbot's performance raises burnout concerns"
-    excerpt: "Benzinga discusses a recent Stanford University study regarding the performance of ChatGPT over several months."
-    publishedDateTime: 2023-08-11T08:20:00Z
-    webUrl: "https://kvia.com/news/2023/08/11/is-chatgpt-running-out-of-steam-ai-chatbots-performance-raises-burnout-concerns/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 34
-    images:
-      - url: "https://kvia.b-cdn.net/2023/08/smartphone.png"
-        width: 1080
-        height: 770
-        isCached: true
   - title: "Rise of the chatbots: How artificial intelligence could shape the future of crime"
     excerpt: "I am here to kill the Queen, a man wearing a handmade metal mask and holding a loaded crossbow tells an armed police officer as he is confronted near her private residence within the grounds of Windsor Castle."
     publishedDateTime: 2023-08-13T01:40:00Z
@@ -100,15 +86,6 @@ related:
         width: 640
         height: 380
         isCached: true
-  - title: "You already use ChatGPT to make life easier. Now try using AI chatbots for better sex, a sexologist says."
-    excerpt: "Dr. Amy Marsh, sexologist and AI chatbot beta tester, spoke to Insider about the real-life benefits of sexting a chatbot."
-    publishedDateTime: 2023-08-12T09:30:00Z
-    webUrl: "https://www.insider.com/ai-chatbots-can-improve-your-sex-life-outside-the-internet-2023-7"
-    type: article
-    provider:
-      name: insider
-      domain: insider.com
-    quality: 0
 
 secured: "6OoIvHVoR9UHUfsDAgi1CUbwnit0hxgRJq7tUKb+TCP/LoIjB/XWVcIPsyipiyr611eAP6Sk2JtR4jK6pUaUt49GHx7kLSTw7etPGJm635miFBeAwHcnMiOF9II/wFQ60M9MQVIT4hw2WCTwTwyBq+4le24x9qkroGyQKByqJ1r3LoHJ4BDero67pk0PY62s0G99TnDS5iruxGhMQhjKNiKHG4yqkvYCLBL8cqLnQKEOLxmgNH/K8YHjJn1QaXJg8a0UmUfa4bjlmLsxjQyoDWABa3cGFOsLYKboGnTgZpMeDnmtnYt+xlt5I8YIt7sE2Jc94PgEv8x7Qz1nkuGGgLfXJKVofEMILr09jszIhdk=;gsQRYxK5cb7S4Q3CINTD7g=="
 ---

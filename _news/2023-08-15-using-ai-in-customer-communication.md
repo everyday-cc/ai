@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 189
 published: true
 
 provider:
@@ -111,6 +111,20 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution"
+    excerpt: "Nutanix ( NASDAQ : NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box solution for customers looking to jump-start their artificial intelligence (AI) and machine learning (ML) innovation, while maintaining control over their data."
+    publishedDateTime: 2023-08-15T14:42:00Z
+    webUrl: "https://za.investing.com/news/nutanix-simplifies-adoption-of-generative-ai-with-new-gptinabox-solution-2844261"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 37
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
   - title: "Revolutionizing Customer Engagement with Voice Interfaces in Business"
     excerpt: "Welcome to the future of customer engagement! In today’s ever-evolving technological landscape, businesses are constantly seeking innovative ways to forge deeper connections with their customers. With the rise of voice interfaces,"
     publishedDateTime: 2023-08-14T15:58:00Z
@@ -125,7 +139,34 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
+    excerpt: "The Nutanix GPT-in-a-Box solution delivers ready-to-use customer-controlled AI infrastructure for the edge or the core data center and allows customers to run and fine-tune AI and GPT models while maintaining control over their data. Nutanix provides a full complement of security and data protection offerings ideal for AI data protection."
+    publishedDateTime: 2023-08-15T14:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/15/9864857.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+  - title: "Addentax Group Corp. Continues to Make Significant Strides in Advancing the Automation of Artificial Intelligence Internet Operational Tools"
+    excerpt: "Addentax Group Corp. (\"Addentax\" or the \"Company\") (Nasdaq: ATXG), an integrated service provider focusing on garment manufacturing, logistics services, and property management and subleasing, has announced significant progress in its collaborative initiative with Games-as-a-Service (\"GaaS\") firms for the development of Artificial Intelligence (\"AI\") Online Operational Tools (referred to as the \"AI project\"),"
+    publishedDateTime: 2023-08-15T13:57:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/15/9864915.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Fine-Tuning, Prompt Engineering are Keys to Delivering Real Generative AI Solutions to Commercial Pharma Operations Today"
+    excerpt: "Generative AI further enhances the value of prompt engineering by synthesizing important insights from various interactions, including text, images, compliant transcripts, and call notes. By automating this process,"
+    publishedDateTime: 2023-08-15T13:00:00Z
+    webUrl: "https://medcitynews.com/2023/08/fine-tuning-prompt-engineering-are-keys-to-delivering-real-generative-ai-solutions-to-commercial-pharma-operations-today/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 0
 
-secured: "fC+KgpktvJ5pTmkBP3AN211V4QEiRB+k5h3mP7CN+TbnyMqKO7fgEuZ7/7z5LyepiRbxO2maWK5vN1AHlApy01ai+udUY+o+w4jCT2JWWVRprVCIiSSp7GRtmXH6zq2L6rx8cMqoMoDXyz2ZJnEPO/vRJeeXjzo7tmqZwvDMAr87M5w0JNCA5kgVcRnWd4/spZ4ASj8qt7yVIxlfyJ6YlNFhtTJJJTKKIqX6TTlFuAaTzRz/UJLyZqU61DL+7mIG4TFeDoIeO6wKPP9gHVmy95ej9dO6zdr8ziAnPG0EkwN4HM666XmBMF00SGnItwXeez6eRMYmTTa2enYSbJzQzgdewaQiVk/MLy7c4UiOKBc=;ctyuAX/oXn3uWZYVsBneGw=="
+secured: "t3jpAWfavcvUKg3wX57Be0BkIpgJq+dstOv4UsUnBlBXreSRmiEDba/arWxobDxNB5vErdgOY3r+YhBsbkyYegActRcoHq7CDYcmrKd7xHjzPtli4nYY+L9nh9ZiZtERKuXdrn6uuy5uXShC2jawvAP27J4VnnY1CC28HjzqjXf/JeB5UqifDxw1fytIMIx1Uy3lk1EvaGGKT7ar8S9P2ZmrmCLlK8TKFOhJmSvFkK/qjQmh4+L1KKhi5Rk7mePtIHazE6k4yvKlTbq6jC2fOgT0NBQASGab3cG23Q5vGlhdLFJZOTvVWke6bcD9xz0DwRdvqkutpY1Kh9D8hcYUFT8cOf5AfDq/sCmIJ61gkwyLtwNUiaV//wXGEHG7fgfMgIjtkV6x5bEfBW447B4jICKyUd4jEWD0Sm1di5J4DXobeeYLpfDSPMrJK/uAlaE1twhpokPw1ERaXCQ2xULK8juvGP+Kjdvo4EZTZmGkbEZmqc2dEuPT4JK1JS0mE5qQhTlZHyEDJHHtevmfpy4p4A==;tA5a4qONUqniyhHDTOlNEA=="
 ---
 

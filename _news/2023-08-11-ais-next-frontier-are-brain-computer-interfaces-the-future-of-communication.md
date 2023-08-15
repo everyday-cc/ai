@@ -111,6 +111,20 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution"
+    excerpt: "Nutanix ( NASDAQ : NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box solution for customers looking to jump-start their artificial intelligence (AI) and machine learning (ML) innovation, while maintaining control over their data."
+    publishedDateTime: 2023-08-15T14:42:00Z
+    webUrl: "https://za.investing.com/news/nutanix-simplifies-adoption-of-generative-ai-with-new-gptinabox-solution-2844261"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 37
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
   - title: "Revolutionizing Customer Engagement with Voice Interfaces in Business"
     excerpt: "Welcome to the future of customer engagement! In today’s ever-evolving technological landscape, businesses are constantly seeking innovative ways to forge deeper connections with their customers. With the rise of voice interfaces,"
     publishedDateTime: 2023-08-14T15:58:00Z
@@ -125,6 +139,33 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
+    excerpt: "The Nutanix GPT-in-a-Box solution delivers ready-to-use customer-controlled AI infrastructure for the edge or the core data center and allows customers to run and fine-tune AI and GPT models while maintaining control over their data. Nutanix provides a full complement of security and data protection offerings ideal for AI data protection."
+    publishedDateTime: 2023-08-15T14:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/15/9864857.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+  - title: "Addentax Group Corp. Continues to Make Significant Strides in Advancing the Automation of Artificial Intelligence Internet Operational Tools"
+    excerpt: "Addentax Group Corp. (\"Addentax\" or the \"Company\") (Nasdaq: ATXG), an integrated service provider focusing on garment manufacturing, logistics services, and property management and subleasing, has announced significant progress in its collaborative initiative with Games-as-a-Service (\"GaaS\") firms for the development of Artificial Intelligence (\"AI\") Online Operational Tools (referred to as the \"AI project\"),"
+    publishedDateTime: 2023-08-15T13:57:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/15/9864915.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Fine-Tuning, Prompt Engineering are Keys to Delivering Real Generative AI Solutions to Commercial Pharma Operations Today"
+    excerpt: "Generative AI further enhances the value of prompt engineering by synthesizing important insights from various interactions, including text, images, compliant transcripts, and call notes. By automating this process,"
+    publishedDateTime: 2023-08-15T13:00:00Z
+    webUrl: "https://medcitynews.com/2023/08/fine-tuning-prompt-engineering-are-keys-to-delivering-real-generative-ai-solutions-to-commercial-pharma-operations-today/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 0
 
 secured: "Ioc9be+IdAK0myLArY0mu5GDCPRIMh3TNbSx6hUjiOLCtnC82UAX9pUk7bk+gKZf0kIVIdjSnQjifTah4OsGNejDLqT91qsE7yLf5pKpBQKMIKW671QSAgC0oc5m6cdPn8NwQwxYss5U/eJgoi37nanJpNyraMD2El13fnEs/P0+/Jo1YYzgQ8JzsaEA57rmhqcF//TDyoUHC3zKQVxkS5SbyEUYHyI09HzZFgW9uaAH0qJmuI5tL4hkOJBVN/Iyyur97YTrKVIzdmihV3hvGWKQqW7UADXJd6KDpdNJoK2S/3HHCqyrRI5KZejjBtGdwZ7UzLFItM1XE1CH/ZdLVCccz/LQl9u5U20iqI7NTJbw7gdi8+V8slDttz/5lVG7Or9sLFXYGSylOOJTi5Cb/6s6+VhKAT0ujrI6nif2tDIGPyUGG1HPvxYGNRAVUtNqCQWheYF2p/GOdnID26o4yQGWtQxYFU3P4XNL/U6BeNl7DRhau3t1bJvWjdCZy6E+tPci9g6upQsBHWwhsT0FKA==;NBnIGIpN0t3mb8b7/ZKKxw=="
 ---

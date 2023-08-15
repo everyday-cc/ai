@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "A Billion-Dollar Bet on AI? The Potential Game-Changer for Fintech"
+    excerpt: "To boot, the firm may have set its investing sights on the mothership, so to speak. In this case, Ripplewood might be investing $1 billion in OpenAI, which is known for the tour de force of the AI world that has been ChatGPT."
+    publishedDateTime: 2023-08-15T15:02:00Z
+    webUrl: "https://www.techzone360.com/topics/techzone/articles/2023/08/15/456783-billion-dollar-bet-ai-potential-game-changer-fintech.htm"
+    ampWebUrl: "https://www.techzone360.com/topics/techzone/articles/2023/08/15/456783-billion-dollar-bet-ai-potential-game-changer-fintech.htm/amp"
+    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/s/www.techzone360.com/topics/techzone/articles/2023/08/15/456783-billion-dollar-bet-ai-potential-game-changer-fintech.htm/amp"
+    type: article
+    provider:
+      name: Tech Zone 360
+      domain: techzone360.com
+    quality: 39
   - title: "AI-powered fraud detection: Strengthening security in fintech"
     excerpt: "In the rapidly evolving world of fintech, security remains a paramount concern. With the increasing sophistication of cybercriminals, traditional methods of fraud detection are often falling short. This is where Artificial Intelligence (AI) steps in, offering a robust and dynamic solution to the complex problem of fraud detection."
     publishedDateTime: 2023-08-12T09:30:00Z

@@ -101,15 +101,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Anthropic releases a faster, smarter, cheaper AI model"
-    excerpt: "The AI startup released its own AI model, Claude, in March. It has proven to be a worthy rival to OpenAI's GPT-3.5 and GPT-4. With that initial launch, Anthropic also released Claude Instant, a lighter, less expensive, and faster version of Claude, according to Anthropic. Now, it's getting an upgrade."
-    publishedDateTime: 2023-08-10T19:26:00Z
-    webUrl: "https://www.zdnet.com/article/anthropic-releases-a-faster-smarter-cheaper-ai-model/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
   - title: "South Korea telco giant to invest $100m in AI start-up Anthropic"
     excerpt: "Multiple reports suggest SK Telecom is set to build new multilingual models and an AI platform with Anthropic, the creator of Claude."
     publishedDateTime: 2023-08-14T07:38:00Z

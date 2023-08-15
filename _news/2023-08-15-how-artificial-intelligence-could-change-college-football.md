@@ -9,7 +9,7 @@ ampWebUrl: "https://www.al.com/sports/2023/08/how-artificial-intelligence-could-
 cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,95 @@ images:
     width: 5372
     height: 3022
     isCached: true
+
+related:
+  - title: "Has AI Robotics Revolution Met Its ChatGPT Moment? A Conversation With Peter Chen, Co-Founder Of Covariant"
+    excerpt: "In a year marked by massive leaps in technology change, Covariant has created an adaptable AI that thrives in an environment characterized by unpredictability and imbue robots with the capacity to conquer novel challenges with precision and autonomy."
+    publishedDateTime: 2023-08-15T12:13:00Z
+    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/"
+    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 103
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64db6a9e8cd8bf5f77635ef0/0x0.jpg?format=jpg&crop=640,361,x0,y29,safe&width=1200"
+        width: 640
+        height: 361
+        isCached: true
+  - title: "The 5 best AI books recommended by ChatGPT"
+    excerpt: "It is recommended for beginners as well as advanced AI enthusiasts. The book covers the latest research and developments in AI. Universities and institutions around the world use this book as a textbook."
+    publishedDateTime: 2023-08-14T07:36:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/08/14/1600x900/pexels-matheus-bertelli-16094043_1687844354160_1691998377504.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How To Invest In ChatGPT"
+    excerpt: "These include the Azure Bot Service, which allows businesses to create intelligent chatbots using Microsoft technologies, and Azure Cognitive Services to assist developers of natural language processing and translation tools. Brewin Dolphin’s Mr Moore ..."
+    publishedDateTime: 2023-08-14T11:56:00Z
+    webUrl: "https://www.forbes.com/uk/advisor/investing/how-to-invest-in-chatgpt/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/08/ChatGPT_image-e1692002280431.jpg"
+        width: 1188
+        height: 669
+        isCached: true
+  - title: "Is ChatGPT running out of steam? AI chatbot's performance raises burnout concerns"
+    excerpt: "Benzinga discusses a recent Stanford University study regarding the performance of ChatGPT over several months."
+    publishedDateTime: 2023-08-11T08:20:00Z
+    webUrl: "https://kvia.com/news/2023/08/11/is-chatgpt-running-out-of-steam-ai-chatbots-performance-raises-burnout-concerns/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 34
+    images:
+      - url: "https://kvia.b-cdn.net/2023/08/smartphone.png"
+        width: 1080
+        height: 770
+        isCached: true
+  - title: "The ChatGPT Code Interpreter: Why It Matters for Conversational AI"
+    excerpt: "Delve into the fascinating world of AI-driven conversations with the ChatGPT Code Interpreter. Discover how this innovative technology bridges the gap between human language and machine understanding,"
+    publishedDateTime: 2023-08-11T12:41:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2551230-the-chatgpt-code-interpreter-why-it-matters-for-conversational-ai"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 19
+  - title: "Schools navigate regulation of artificial intelligence, ChatGPT as students return to classrooms"
+    excerpt: "Artificial intelligence is becoming a major conversation in the classroom, especially a popular software called ChatGPT. ABC7 asked ChatGPT to write a book report on \"Pride and Prejudice.\" In just seconds, it created a report that would probably satisfy ..."
+    publishedDateTime: 2023-08-14T12:52:00Z
+    webUrl: "https://abc7chicago.com/ai-chatgpt-what-is-artificial-intelligence-back-to-school/13646839/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 4
+  - title: "You already use ChatGPT to make life easier. Now try using AI chatbots for better sex, a sexologist says."
+    excerpt: "Dr. Amy Marsh, sexologist and AI chatbot beta tester, spoke to Insider about the real-life benefits of sexting a chatbot."
+    publishedDateTime: 2023-08-12T09:30:00Z
+    webUrl: "https://www.insider.com/ai-chatbots-can-improve-your-sex-life-outside-the-internet-2023-7"
+    type: article
+    provider:
+      name: insider
+      domain: insider.com
+    quality: 0
 
 secured: "FO0e7NDtjP/sFAzpxamRjp9zJn7MmQ0pLP86rxm5CDmHuYdgxYX8f/cBtI5odSqp98QyBRzhgaUSHUKbO4RF9SzxOrGch4H9bS2c1pPDG69Q3TgFNS0tgAf1Lf4AS+HsMt3Tfk43y0GSj+ClzGMI6ZKIzvrLf8DdtWbhaDU6pk9Cw3kNYeW+KUnm1IzWxizUjVen9vh2+UrpGAdKzi1jkG/PtdrQVBDl6dgQIC1b2TDNw5DEVqNSKbGNIe3gSs+J7ElYJb6p+LLKEx1g1Dd0KugY6eaTk9nV2LAeYgcn+cP9oUB0kqGSIxUdDT7gVktsssx2nPbgGmyrwKbP1vEtUP2qvshGJZDMZYV8NfS/WKg=;KBh+M102don89q1N5COWeQ=="
 ---

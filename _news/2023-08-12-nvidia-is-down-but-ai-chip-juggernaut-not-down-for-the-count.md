@@ -22,9 +22,9 @@ related:
   - title: "Earnings preview: Can Nvidia amaze markets with its AI chip sales?"
     excerpt: "Nvidia is slated to report its second-quarter earnings after the US markets closing bell on 24 August (APAC time)"
     publishedDateTime: 2023-08-15T04:27:00Z
-    webUrl: "https://www.cmcmarkets.com/en-au/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales"
-    ampWebUrl: "https://www.cmcmarkets.com/en-au/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp"
-    cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-au/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp"
+    webUrl: "https://www.cmcmarkets.com/en-ie/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales"
+    ampWebUrl: "https://www.cmcmarkets.com/en-ie/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp"
+    cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-ie/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp"
     type: article
     provider:
       name: CMC Markets

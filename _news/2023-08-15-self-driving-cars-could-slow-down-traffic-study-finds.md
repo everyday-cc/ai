@@ -41,7 +41,30 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Self-driving cars can make traffic slower"
+    excerpt: "A new study finds that 'connected' vehicles, which share data with each other wirelessly, significantly improve travel time through intersections -- but automated vehicles can actually slow down travel time through intersections if they are not connected to each other."
+    publishedDateTime: 2023-08-15T12:51:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/08/230814122318.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+  - title: "Self-driving cars could make traffic slower: Research"
+    excerpt: "If we want to also improve travel time, an increase in automated vehicles isn't enough; we need vehicles that are capable of communicating with each other."
+    publishedDateTime: 2023-08-15T14:39:00Z
+    webUrl: "https://telanganatoday.com/self-driving-cars-could-make-traffic-slower-research"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 24
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/cars.jpg"
+        width: 1200
+        height: 670
+        isCached: true
 
-secured: "OF49bB0fPmJ7LWYg7GQ9la54TbbyQjKuqnxHV4wNm261GQL2HZVyS7g9z6HVSWeJ6FGBxhkDInlDtejWOLbKpHumELOv5efhen/nvlCvUu5ViG+VtNasZ+HUHhOA4u/Omk8PoIy+9FPJjagSsi2fUQga46gzbeC4R0pY+u2dskusBTumD01NgjOjzAtr1tlGijcqxbUScpwutCNFh7XfD0C5nD0hlPbNO4Z6fcuMmHp3KZqR1xZaemg+6KruKXG6Lgm5c3rNT93sOBgzAnBLpe2kelg53ZmVdNAfrDhwhLb3/LwZ1hqbYO96RROzcE1TeZCcK/PZ3hTsdxr51uqWFthFHV0q4VVAMRqmw3cphec=;Fl+YrtduCfr4w1+ynqGIig=="
+secured: "nJXaJ0rSCKgJsPoSVqHk+uieY0cs3a7INvo3bvGjuU8387YxvbGmGtpiZL8i5fzE1j+pIiGZ0rMxFFgDVfIay4KuugOybMOZh77xYhQigYGReeGkHvohNApy62fq1Bdc/tMuPNg22Nw+QseitTQgIk8I56oi1PqX0S5CkNOfRa3oE59QeSYd86KAonTkjIrdVcjuOILVT3Uf8GPuyUXa8B0ClKp0M3qCfphjQDDUVc2C4O19yVzeXvLzRu3f9aRNiLPTUwZJ7kRe1/z91oF8NPgjSBcVSu+CtVJT4+Wk2kwfp5jaKZCQ8IRMxsLngAT8sCcy+ka2f0rm40rZIQ4GHJAgiCCcrJ6eKYPD9+sm4cnBk6N3bLAX+J2f3Rk6agjHlJZ5WI/Rb2i0P7MJNzw+gPEYHOLGpV6Gwz2hNekjxMjFVSITI+roXJ1ZGO7Wu89GcmNBeW52wESu+YQU815nh++9/sSxIfOdsYL/971BkKKRgMrSQOb1C/Y4bFAcMcCIAFNwPEK5ZqHmhEPe7IzMUA==;v2eTaHM6MdJFbLpxoc+vEw=="
 ---
 

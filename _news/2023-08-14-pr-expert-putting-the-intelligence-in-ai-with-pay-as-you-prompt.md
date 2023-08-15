@@ -61,6 +61,15 @@ related:
       name: American Banker
       domain: americanbanker.com
     quality: 19
+  - title: "Dialpad integrates generative AI across its call center suite"
+    excerpt: "Cloud communications provider Dialpad Inc. is continuing its aggressive rollout of artificial intelligence capabilities with today’s launch of DialpadGPT, which it describes as a domain-specific large language model that’s tailored to the needs of customer service, sales, and recruiting operations."
+    publishedDateTime: 2023-08-15T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/08/15/dialpad-integrates-generative-ai-across-call-center-suite/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "/i8BGtK77HiZ0qV1UvX7jlZoj8Nz8SN7bc9Q13ZtQ6iKsuYvNNE/QpldliAb34fp47Dl/SzhkNsTqWmZj1ITttYdvfsfZa7T+0Vm7o5HCLUiap4yUP7gDzzenRBUzB9oNbl8DXWJxfrquJe0VudPf1DEFxgBp8aZv5LhU9iE04f7Jt/66KxQS74f+2oguA21fulGLIOlufhOkmbUDP4bQriL1BxtpXUzr3VoWJJcmZ+zwXBpoCoK1RUrmn6YF1sfe0P9DMWXJqnkqN0R+ZCvBPjmO1SMGSSVuePyRJMLJQfPW6LUi4pmkGWaxrAgTYyhI6IwJNajZYUNgWQU+Hr6BJh/0IQ/bQf/X4V6fGydtBk=;+4lhCkfrZ27PGRV6kwty+g=="
 ---

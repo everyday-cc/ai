@@ -48,15 +48,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 19
-  - title: "Update: Andes Technology and TetraMem Collaborate to Build Groundbreaking AI Accelerator Chip with Analog In-Memory Computing"
-    excerpt: "Andes Technology, a leading supplier of high-efficiency, low-power 32/64-bit RISC-V processor cores and Founding Premier member of RISC-V International, and TetraMem Inc, a pioneer in analog in-memory computing,"
-    publishedDateTime: 2023-08-10T22:30:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/10/9863105.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "u6Ko3H0kkFpO/8+wilka/m8Ij3mOgS46rx6O9uiZQO2bhJ0g1rl63TFFz78h0FK04mjNNwTsQbpa4d8C1cOT0IpDWhsFpGnFTnXa5gW225YNEEGx49PtcTWhIgHmQVw+jCuKsNXiYBHqq7G67XKSy5OvzHKLwJbxazgKad5gn79zD9JJo2ADNfzk0MIsziP6/XI5m3o5rIMIhxMBHEN2Qo473xYyfhRPQqzYXAmpCieEYFBy94Lev1vC2tlefC/YG3U1jzoPB3R5da25rUXID4kZAe43QeQrcFfKiCqzWo2lY0kpF4/1Gu3VIkPFerH6BtYDFGuc41MUN0q4mN72u0IpZy+vhMjIAD5mGGmDDiY=;EpPdR4HSSI83WttjL/oYjA=="
 ---

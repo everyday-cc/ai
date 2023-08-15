@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/fec-moves-potentially-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fec-moves-potentially-regulating-ai-deepfakes-campaign-ads-102180371"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,40 +24,6 @@ images:
     width: 992
     height: 558
     isCached: true
-
-related:
-  - title: "Federal regulators take first step toward regulating use of artificial intelligence in campaign ads"
-    excerpt: "The FEC unanimously voted on Thursday to advance a petition asking it to regulate ads that use AI to misrepresent political opponents as saying or doing something they didn’t"
-    publishedDateTime: 2023-08-10T21:44:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/federal-regulators-take-first-step-toward-regulating-use-of-artificial-intelligence-in-campaign-ads/4582243/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 58
-    images:
-      - url: "https://media.nbcnewyork.com/2023/08/AP23222540945939.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI isn’t great at decoding human emotions. So why are regulators targeting the tech?"
-    excerpt: "In addition to proposing the theory of evolution, Darwin studied the expressions and emotions of people and animals. He debated in his writing just how scientific, universal, and predictable emotions actually are, and he sketched characters with exaggerated expressions, which the library had on display. The subject rang a bell for me."
-    publishedDateTime: 2023-08-14T11:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/08/14/1077788/ai-decoding-human-emotions-target-for-regulators/"
-    ampWebUrl: "https://www.technologyreview.com/2023/08/14/1077788/ai-decoding-human-emotions-target-for-regulators/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/14/1077788/ai-decoding-human-emotions-target-for-regulators/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 50
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/6cc82996-4551-4f9a-9943-86e52a9bab05_3524.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
 
 secured: "uqBu3d4FPDsucrn/UMgBbCpxemhpgiu91t0iQGXI+OUO1N+KXzsBdclcllK5L8wZkHibk7lH50WrpDlscLkbDi+XWOWU+V+H7b1zOFMcyiBCCzCkC48b4P+9bZ4H7Yh+Ppl0USoEbcdRea6UsWGgs8lg2V3oXlToT7fgX3t9akqMaB9pEQsgMtFMhE7f+T7qzzsEBTQWsEdAxMboPOuSQ4GtCuVtv8F3wwOnZcp2tt0Q1F7Np3IR4TGg7DgwLBinnhYEqpsXqMo2FJDGVOCyfZM3m4OoMkMEp2bRkz76SWszHaf962ioAMswnPyEbEUMdFfOnWvBzPyMGD6cJTblZyqC0zclXe5xfXo0EdliP9Az74NzR2YUzY8oVt2PLm/pbzu1y/azYOGMgW+DptfAijQzyod4OuL6Jn21G920gfzOUN5zrDSlmgAr73NGyIhhdy//tA53PDSh5dlclAeusIZk9iAK0q3D0bB9qYxsIOPn9k7WN6ygHq20GWly9rmC+KGahYMlbe00ZHc161LY7g==;IJgWkg6CeA02KPhHbCZ7ng=="
 ---

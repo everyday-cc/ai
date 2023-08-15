@@ -74,20 +74,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Is ChatGPT running out of steam? AI chatbot's performance raises burnout concerns"
-    excerpt: "Benzinga discusses a recent Stanford University study regarding the performance of ChatGPT over several months."
-    publishedDateTime: 2023-08-11T08:20:00Z
-    webUrl: "https://kvia.com/news/2023/08/11/is-chatgpt-running-out-of-steam-ai-chatbots-performance-raises-burnout-concerns/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 34
-    images:
-      - url: "https://kvia.b-cdn.net/2023/08/smartphone.png"
-        width: 1080
-        height: 770
-        isCached: true
   - title: "Rise of the chatbots: How artificial intelligence could shape the future of crime"
     excerpt: "I am here to kill the Queen, a man wearing a handmade metal mask and holding a loaded crossbow tells an armed police officer as he is confronted near her private residence within the grounds of Windsor Castle."
     publishedDateTime: 2023-08-13T01:40:00Z
@@ -102,15 +88,6 @@ related:
         width: 640
         height: 380
         isCached: true
-  - title: "You already use ChatGPT to make life easier. Now try using AI chatbots for better sex, a sexologist says."
-    excerpt: "Dr. Amy Marsh, sexologist and AI chatbot beta tester, spoke to Insider about the real-life benefits of sexting a chatbot."
-    publishedDateTime: 2023-08-12T09:30:00Z
-    webUrl: "https://www.insider.com/ai-chatbots-can-improve-your-sex-life-outside-the-internet-2023-7"
-    type: article
-    provider:
-      name: insider
-      domain: insider.com
-    quality: 0
 
 secured: "W/ck50v+hXYfKoYXWXyRhec5/7D0prJECRap+LeU/4CrGqForps3KoI3jG1uzfAi9RKze27wV92E0xpZqjOZ/8jXzGKKJ3IDR91rKromM+4DhYsknr0oQgG29YqOLQOgygdapaqd5CFK60UC4DH1ZlaBPy67ug0hdVekEgcoymVa1PDVJUZY9ncucPQId6ubsTo9FBsIA1dTe/Dvji0hJGvusTXOg837+80MPpav88vnQ7vrX/cyy3EE2gFEkaYhKv3IpoDuKa127be97gg2tTaX6perNbuACS57IJXA4ZFA9w5UT1iL7S6zEWJAn5At9g2dAUflQEJwJbcyzBhOOWAHrcVan5wyzzFumr95So2at9wCqr7B7kJHZUCQfNuqdKS+FmJM0HJib7xnT/db21b4sfMExhr9ZHlTeIffuh3ntYrNCnSNobu2xwJrCy01OZAUSAgjHYHuX902un3Wn7vOcauHOrLfwCDZFovxim+zycg9NrjqDlK5PZeaSB2oMOoyp5omUPLkNI8wme4Spg==;UiQH/rBiFDg0jc8iX5n7Lw=="
 ---

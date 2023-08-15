@@ -34,6 +34,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Billion-Dollar Bet on AI? The Potential Game-Changer for Fintech"
+    excerpt: "To boot, the firm may have set its investing sights on the mothership, so to speak. In this case, Ripplewood might be investing $1 billion in OpenAI, which is known for the tour de force of the AI world that has been ChatGPT."
+    publishedDateTime: 2023-08-15T15:02:00Z
+    webUrl: "https://www.techzone360.com/topics/techzone/articles/2023/08/15/456783-billion-dollar-bet-ai-potential-game-changer-fintech.htm"
+    ampWebUrl: "https://www.techzone360.com/topics/techzone/articles/2023/08/15/456783-billion-dollar-bet-ai-potential-game-changer-fintech.htm/amp"
+    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/s/www.techzone360.com/topics/techzone/articles/2023/08/15/456783-billion-dollar-bet-ai-potential-game-changer-fintech.htm/amp"
+    type: article
+    provider:
+      name: Tech Zone 360
+      domain: techzone360.com
+    quality: 39
   - title: "Fintech ForwardLane Introduces Generative AI Platform to Streamline Financial Services"
     excerpt: "ForwardLane, the provider of AI-powered intelligence solutions, announces the launch of its new generative decision intelligence platform EMERGE."
     publishedDateTime: 2023-08-11T15:12:00Z

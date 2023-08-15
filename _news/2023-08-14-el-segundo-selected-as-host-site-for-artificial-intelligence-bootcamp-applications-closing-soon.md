@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Mountain View Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-    excerpt: "MOUNTAIN VIEW, Calif., Aug. 10, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by ThoughtSpot in Mountain View. Applications for the no-cost bootcamp are closing soon!"
-    publishedDateTime: 2023-08-10T21:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032542192"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "MIAMI, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Miami Dade College in Miami. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-11T18:42:00Z
@@ -62,20 +53,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Mountain View Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING ..."
-    excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by ThoughtSpot in"
-    publishedDateTime: 2023-08-10T20:33:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing/article_d193030c-0131-5923-bba0-8c8ffa56db9f.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 42
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Birmingham Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Protective Life Corporation in Birmingham."
     publishedDateTime: 2023-08-14T21:17:00Z
@@ -87,22 +64,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 40
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Addison Selected as Host Site for a 4th Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-    excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Headstorm in Addison. Applications for the"
-    publishedDateTime: 2023-08-10T20:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33724399/addison-selected-as-host-site-for-a-4th-time-for-artificial-intelligence-bootcamp-applications-clo"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33724399"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33724399"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
@@ -260,15 +221,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
-  - title: "Indianapolis Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-    excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Corteva Agriscience in Indianapolis. Applications"
-    publishedDateTime: 2023-08-10T19:42:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33722135/indianapolis-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
   - title: "Tempe Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
     excerpt: "TEMPE, Ariz., Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by DriveTime in Tempe. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-11T15:50:00Z

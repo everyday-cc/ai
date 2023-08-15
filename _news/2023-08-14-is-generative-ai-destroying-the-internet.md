@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
     provider:
       name: American Banker
       domain: americanbanker.com
+    quality: 19
+  - title: "Dialpad integrates generative AI across its call center suite"
+    excerpt: "Cloud communications provider Dialpad Inc. is continuing its aggressive rollout of artificial intelligence capabilities with today’s launch of DialpadGPT, which it describes as a domain-specific large language model that’s tailored to the needs of customer service, sales, and recruiting operations."
+    publishedDateTime: 2023-08-15T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/08/15/dialpad-integrates-generative-ai-across-call-center-suite/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 19
 
 secured: "4sM/2XrrFGMr5KAXW4ayLCsf3qzu1o9z4S3/4c0mSxz912PoaYXs1LJg6rSmjPVSA+4+9Qku6bdjxtquQ+XmprM5x8uNBAPkKfUa6Iet31gTohC78JfxPOHv6UFiRYr9N/jxN7j+5EoVdmUNKq26p4/uyXw3kOiEyL6kH/f1/RDHtsD2y+A4RZIjDtqvpeczVYHQS3ZYNqxkJoy3Utas6N1oSonwQlhgHrE63g+84nzK2Um6eBmFkRf3GdQq0vYIFgKPHzq09+qyaWRMGzzgcPrZ2tSl+uFceHIY4rw3nWH1JF2gCbmFH+zLg5GFBx8VyyzuxMZ8C86BnLvmu3ekflmx5ALaXxvbBdRQ0hr/Dx0cauM6ql7PClG1we+EYeV31ZAc081jBmqmZ4I50PopsCScr9bsWmRhveSH6KNOeDIl95R0kP3xsok51TaFW7PtV6XkV7mDDEa2DI4K7HbN50n1DzXInMIp2o/D62EI6Ie6YwS4Rpn7E5bx2D4/BUC2Jy6Rw4xsVoZvoDtHEZwJpQ==;DlQ0NF/RT+ND7yPOnJtDaQ=="

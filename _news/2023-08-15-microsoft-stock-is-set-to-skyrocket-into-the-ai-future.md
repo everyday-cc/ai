@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set
 ampWebUrl: "https://www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/amp/"
 type: article
-quality: 104
-heat: 214
+quality: 106
+heat: 226
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64c6dd5758fabf29ee775ae8/0x0.jpg?format=jpg&crop=2447,1377,x0,y802,safe&width=1200"
@@ -155,6 +156,15 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 26
+  - title: "Doctors use Artificial Intelligence software to plan for the future"
+    excerpt: "About 30% of U.S. doctors are approaching retirement age, but only 12% are choosing to retire. Why? In a financial environment struggling with inflation, advance preparation for retirement is necessary for all physicians seeking more comfortable golden years."
+    publishedDateTime: 2023-08-15T15:46:00Z
+    webUrl: "https://neworleanscitybusiness.com/blog/2023/08/15/doctors-use-artificial-intelligence-software-to-plan-for-the-future/"
+    type: article
+    provider:
+      name: New Orleans City Business
+      domain: neworleanscitybusiness.com
+    quality: 19
   - title: "Microsoft shuts Cortana App for Windows. 4 other ways to use voice control features"
     excerpt: "Microsoft shuts down Cortana app for Windows 11 after discontinuing iOS and Android versions. Support will end for other platforms by fall 2023."
     publishedDateTime: 2023-08-12T08:18:00Z

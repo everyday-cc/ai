@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "People having sex in self-driving taxis: Report"
-    excerpt: "San Francisco: As the popularity of autonomous vehicles continues to surge in San Francisco, a growing number of riders are wondering just how far they can push the vehicles’ capabilities, and to test that they are having sex in self-driving taxis."
-    publishedDateTime: 2023-08-12T16:46:00Z
-    webUrl: "https://telanganatoday.com/people-having-sex-in-self-driving-taxis-report"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 24
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/self-driving-taxis.jpg"
-        width: 1280
-        height: 750
-        isCached: true
   - title: "From Science Fiction to Reality: Exploring the Cutting-Edge World of Self-Driving Cars"
     excerpt: "Prepare to embark on a journey into the future as we delve deeply into the fascinating realm of self-driving cars. Once confined to the pages of science fiction, these state-of-the-art vehicles are now a tangible reality that stands to revolutionize transportation as we know it."
     publishedDateTime: 2023-08-11T08:34:00Z

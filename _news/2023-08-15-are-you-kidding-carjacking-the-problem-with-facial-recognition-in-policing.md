@@ -48,31 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Detroit woman at center of facial recognition lawsuit responds to police chief's claims"
-    excerpt: "Woodruff and her attorney filed a lawsuit against the city and a Detroit Police Department officer, arguing AI technology was the reason she was falsely identified as a carjacking suspect."
-    publishedDateTime: 2023-08-10T22:09:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/detroit-woman-at-center-of-facial-recognition-lawsuit-responds-to-police-chiefs-claims/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 66
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/10/248a1fe4-8764-4664-87bc-b05f69597616/thumbnail/1200x630/8de1786299c722a34656a03b9d4b3fd7/woodruff-arrest.jpg?v=08aa43fa812a9e12e93282c47f58b17f"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Detroit mother files lawsuit over facial recognition arrest"
-    excerpt: "Porcha Woodruff was arrested by Detroit police after she says facial recognition software wrongfully identified her as a robbery suspect. WDIV's Demond Fernandez reports."
-    publishedDateTime: 2023-08-10T19:23:00Z
-    webUrl: "https://www.nbcnews.com/video/detroit-mother-files-lawsuit-over-facial-recognition-arrest-190571077700"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
   - title: "Facial recognition software blasted by DPD board of commissioners after recent false arrest"
     excerpt: "A vote to ban facial recognition for the Detroit police failed tonight, which would have kept the department from using it for a year."
     publishedDateTime: 2023-08-11T03:15:00Z
@@ -149,22 +124,6 @@ related:
         isCached: true
   - title: "Detroit police changing facial-recognition policy after pregnant woman says she was wrongly charged"
     excerpt: "The Detroit police chief says he’s setting new policies on the use of facial-recognition technology DETROIT -- The Detroit police chief said he's setting new policies on the use of facial ..."
-    publishedDateTime: 2023-08-10T21:11:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173015"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 30
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_3ed0bff9e8d2e87a5f8fed690abbd870_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Detroit police changing facial-recognition policy after pregnant woman says she was wrongly charged"
-    excerpt: "The Detroit police chief says he’s setting new policies on the use of facial-recognition technology DETROIT -- The Detroit police chief said he's setting new policies on the use of facial ..."
     publishedDateTime: 2023-08-12T21:04:00Z
     webUrl: "https://abcnews.go.com/Technology/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173041"
     ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173041"
@@ -189,6 +148,6 @@ related:
       domain: people.com
     quality: 0
 
-secured: "ArnBJ2V7hZ79SYoWsQg8sD5Vr+L77w8ibPLWZ++l3x2iXnbpR/FXtQD/5pgimztu2E7Q5YJ9X88E1q5gpyD41eYgDM7MYdTOKSe8ZJqeG9UdF3kNX1suLEZHVfDN1eyqBTqG+VUuTNr9XW0enx2djizfSgtee8S0qZttwnoXghNiWZBqE/+KjvsDGPY50hUiuZn9CRbApmsMYHZsKlUiITmZWEI5MUem8v+nsT6qtW4DlbmpAR0Mt+46jIeLvdSEr9d6Z6sQP4hO4GciBBob6IXR7pb6qDalsQt4zvphRTym8hvYUNDK+Blb0HTM0CsW6//llR2GIAIV1K9DU9zVfYmN2+idHq8OnArI0gISUWY=;Oo1TQ+KYTnAAglzBDSsMiA=="
+secured: "jYAA4+nUzSCS7y1u1V51WJrHTU0M0IM8JJsgNPNVheHtcDC+iolElSJgg60NKoSGbE2tUcn3FqO3vTG7SmWS7nmfwc8Mlj9p+oIIb45ChQIyFNV5sxy6ZXHx+QjVbB75iSXNqGJQINCqzUNrQiiz7s0Nn1yH5axR2bYq6NjsstKpuBrdSzZADaHtgJvPZzhD13aXRUAHSlHOe09pQqsIKJtXo8R5wPVPG+vg7KNz7MlfcepNN0EL6CVc/W7nBU2kKC+a3nXl5x51bhRRnsTNe/wyNOoYenfwcSM4F8pWD9f9fXrJRUcL+MnH/Gf13eqOBjKIDOlHPGPW30OUxBOrG4T/YbxBDy2hLiY029FL8/0ocdR+PsNOfwWARFjsu/QLhStsWZ+GjBmyVZ5Bj6rSnaJo27kRbHJGG07UWSY6rRwxlxT3G1eKKjdsHGrLxjJAB+AOgBVQG5OlTW5CPvejuk11MhjykHOsHtyroVaWPxieqJs7JViejhFql7uKuJQLh7HaHI2W8TZmlrkL0Y1Wwg==;B9mgasKZnxvfJgHlozcVUw=="
 ---
 
