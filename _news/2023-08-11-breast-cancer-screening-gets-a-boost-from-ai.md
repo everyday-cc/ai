@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Helps Detect Muscle Mass in Head and Neck Cancer Patients"
+    excerpt: "Among individuals diagnosed with head and neck cancer, an AI-driven evaluation of sarcopenia could be conducted at regular intervals during treatment."
+    publishedDateTime: 2023-08-13T14:05:00Z
+    webUrl: "https://www.medindia.net/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://www.medindia.net/health-images/an-artificial-intelligence-accurately-predict.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Positive results for AI-assisted breast cancer detection, says Swedish trial"
     excerpt: "Share Copyright 2023 The Associated Press. All Rights Reserved."
     publishedDateTime: 2023-08-14T07:13:00Z

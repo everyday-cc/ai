@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Human-plus-AI solutions mitigate security threats"
-    excerpt: "With the right human oversight, emerging technologies like artificial intelligence can help keep business and customer data secure"
-    publishedDateTime: 2023-08-10T14:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/08/10/1077088/human-plus-ai-solutions-mitigate-security-threats/"
-    ampWebUrl: "https://www.technologyreview.com/2023/08/10/1077088/human-plus-ai-solutions-mitigate-security-threats/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/10/1077088/human-plus-ai-solutions-mitigate-security-threats/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 74
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/TeleperformanceCov_16-9Ratio.png?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "Generative AI's Dark Side: How It's The Perfect Tool For Hackers To Spread Malware"
     excerpt: "Generative AI presents many opportunities for businesses to improve operations and reduce costs. On the bright side, there is great potential for this form of AI to deliver value to organizations. However, it has a dark side in the cybersecurity landscape, as hackers can easily manipulate it to spread malware."
     publishedDateTime: 2023-08-14T13:15:00Z

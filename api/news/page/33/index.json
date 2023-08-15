@@ -2,6 +2,282 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-07-22-ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence.md",
+      "title": "AI And The Economy: Which Companies And Industries Will Avoid Artificial Intelligence",
+      "excerpt": "AI implementation will be very slow in sectors with high stakes, litigiousness, high unionization, and high regulation. The opposite industries will move the fastest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bab8313b2f9ab4369a6bb7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-07-22T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-what-elon-musks-ai-startup-means-for-teslas-ai-ambitions.md",
+      "title": "What Elon Musk’s AI Startup Means for Tesla’s AI Ambitions",
+      "excerpt": "The billionaire for a long time framed the automaker as an artificial-intelligence company. Then he started xAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/elon-musk-tesla-xai-artificial-intelligence-1db53628",
+      "originalUrl": "https://www.wsj.com/articles/elon-musk-tesla-xai-artificial-intelligence-1db53628",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-821616/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-22T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-microsoft-introduces-the-public-preview-of-vector-search-feature-in-azure-cognitive-search.md",
+      "title": "Microsoft Introduces the Public Preview of Vector Search Feature in Azure Cognitive Search",
+      "excerpt": "Microsoft’s Vector Search feature through Azure Cognitive Search uses machine learning to capture the meaning and context of unstructured data, including images and text, to make search faster. Liam Cavanagh, a principal group product manager of Azure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/",
+      "originalUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-22T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-exploring-the-role-of-machine-learning-in-curriculum-design-and-development.md",
+      "title": "Exploring the role of machine learning in curriculum design and development",
+      "excerpt": "With statistics coming into the picture, its more glorified avatar, “Machine Learning,” finds a natural application in this context. Here we derive insights from recent research in this domain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/education-2/exploring-the-role-of-machine-learning-in-curriculum-design-and-development/3182396/",
+      "originalUrl": "https://www.financialexpress.com/education-2/exploring-the-role-of-machine-learning-in-curriculum-design-and-development/3182396/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/07/image-2023-07-22T102046.700.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/education-2/exploring-the-role-of-machine-learning-in-curriculum-design-and-development/3182396/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/exploring-the-role-of-machine-learning-in-curriculum-design-and-development/3182396/lite/",
+      "publishedDateTime": "2023-07-22T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-ai-powered-travel-assistant-touted-as-most-powerful-ever.md",
+      "title": "AI-powered travel assistant touted as most powerful ever",
+      "excerpt": "Travel platform Mondee has rolled out a new artificial intelligence-powered travel assistant, Abhi, which the company says is the most powerful in the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
+      "originalUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4d5e9f2b-0dd0-4d1f-83ea-ef3fa41a8f48/046da2a7-ef12-441f-9b74-6eee76b2fd20/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
+      "publishedDateTime": "2023-07-21T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-british-political-candidate-used-ai-to-build-policy-platform-to-create-meaningful-participation.md",
+      "title": "British political candidate used AI to build policy platform to create 'meaningful participation'",
+      "excerpt": "Andrew Gray used artificial intelligence to crowdsource his party platform, gauging interest and stances on various issues and finding points of agreement and gaps in consensus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation",
+      "originalUrl": "https://www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1fbcb2e8-ccec-4dac-ac6e-95f168587aaf/08252fc7-392e-4cfa-a4cf-84a1b110cfd6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation.amp",
+      "publishedDateTime": "2023-07-21T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-cybersecurity-in-the-era-of-ai-and-quantum.md",
       "title": "Cybersecurity In The Era Of AI And Quantum",
       "excerpt": "In the ever-evolving landscape of cybersecurity, AI and quantum are rapidly becoming game-changers. How is the US Navy poised to take advantage of this emerging tech?",
@@ -926,293 +1202,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-revolutionizing-fintech-the-role-of-ai-in-democratizing-investment-opportunities.md",
-      "title": "Revolutionizing Fintech: The Role of AI in Democratizing Investment Opportunities",
-      "excerpt": "With the integration of AI in fintech, individual investors can access high-quality researched-back data and investment recommendations to make better-informed decisions. AI platforms are using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities",
-      "originalUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech%3A-the-role-of-ai-in-democratizing-investment-opportunities?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/revolutionizing-fintech%3A-the-role-of-ai-in-democratizing-investment-opportunities?amp",
-      "publishedDateTime": "2023-07-21T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-no-i-didnt-imagine-it-the-npc-craze-really-offers-money-for-robotic-gibberish.md",
-      "title": "No, I didn’t imagine it – the ‘NPC’ craze really offers money for robotic gibberish",
-      "excerpt": "People online pretend to be jerky video-game characters – and some make tons of money doing it. What on earth?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2023/jul/21/npc-tiktok-robotic-make-money",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2023/jul/21/npc-tiktok-robotic-make-money",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/8557b8ab7161001e3fad6196c988ed175e6e0c93/0_0_2000_1200/master/2000.jpg?width=620&quality=85&auto=format&fit=max&s=fdc6381d696d6c70f7a73303e69203a4",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2023/jul/21/npc-tiktok-robotic-make-money",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/21/npc-tiktok-robotic-make-money",
-      "publishedDateTime": "2023-07-21T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-here-are-the-actual-mechanics-behind-powering-ai.md",
-      "title": "Here Are the Actual Mechanics Behind Powering AI",
-      "excerpt": "He walks us through the infrastructure involved in powering AI, how difficult it is to get chips right now, who has them, and how the landscape might change in the future. This transcript has been lightly edited for clarity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-actual-mechanics-behind-powering-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-actual-mechanics-behind-powering-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQxpkUu8IGrQ/v1/1200x746.jpg",
-          "width": 1200,
-          "height": 746,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-5-deep-learning-courses-for-high-salary-jobs.md",
-      "title": "5 Deep Learning Courses for High Salary Jobs",
-      "excerpt": "In this article, we will look at 5 Deep Learning Courses for High Salary Jobs. We have also discussed the innovations and intelligence of deep learning and companies that are making huge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2015/08/artificial-intelligence-503592_1280.jpg?auto=format&expires=1722124800&w=400&h=225&fit=crop",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/?amp=1",
-      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/?amp=1",
-      "publishedDateTime": "2023-07-21T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-how-ai-enabled-threat-intelligence-is-becoming-our-future.md",
-      "title": "How AI-Enabled Threat Intelligence Is Becoming Our Future",
-      "excerpt": "As a CEO in the industry, I see tremendous applications of AI in cybersecurity soon, particularly in threat intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648726ec4c121273abd8baa2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/amp/",
-      "publishedDateTime": "2023-07-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-amds-best-bet-on-ai-might-not-be-what-you-think.md",
-      "title": "AMD's Best Bet on AI Might Not Be What You Think",
-      "excerpt": "But FPGAs are a big bet on AI, too, and still get little love from the investor community. The addition of Xilinx remade AMD's embedded segment into a high-growth powerhouse that raked in over $1.5 billion in sales last quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-not-be-what-you-think/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-not-be-what-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740371/semiconductors-design-chips-ai.jpg",
-          "width": 5120,
-          "height": 2880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

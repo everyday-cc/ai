@@ -446,6 +446,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-07-toyota-to-set-up-self-driving-taxi-developer-with-chinese-firm.md",
+      "title": "Toyota to Set Up Self-Driving Taxi Developer with Chinese Firm",
+      "excerpt": "Beijing, Aug. 7 (Jiji Press)--Japan's Toyota Motor Corp. said it will set up a new firm that develops autonomous driving taxis ... technologies such as artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nippon.com/en/news/yjj2023080401109/",
+      "originalUrl": "https://www.nippon.com/en/news/yjj2023080401109/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nippon.com/en/ncommon/contents/news/2443330/2443330.jpg",
+          "width": 450,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nippon",
+        "domain": "nippon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-san-francisco-drives-tech-will-it-drive-away-robot-taxis.md",
       "title": "San Francisco drives tech; will it drive away robot taxis?",
       "excerpt": "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... s GOOGL.O Waymo and ...",
@@ -1367,49 +1410,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-backup-driver-in-2018-uber-self-driving-crash-pleads-guilty.md",
-      "title": "Backup Driver in 2018 Uber Self-Driving Crash Pleads Guilty",
-      "excerpt": "Backup Driver in 2018 Uber Self-Driving Crash Pleads Guilty By David Shepardson (Reuters) -The backup safety driver behind the wheel of a self-driving Uber Technologies test vehicle that struck ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/us/articles/2023-07-28/backup-driver-in-2018-uber-self-driving-crash-pleads-guilty",
-      "originalUrl": "https://www.usnews.com/news/us/articles/2023-07-28/backup-driver-in-2018-uber-self-driving-crash-pleads-guilty",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

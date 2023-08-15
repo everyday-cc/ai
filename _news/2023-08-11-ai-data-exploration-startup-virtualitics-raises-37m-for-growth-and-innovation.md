@@ -38,31 +38,6 @@ related:
         width: 1199
         height: 599
         isCached: true
-  - title: "Weights & Biases raises USD 50M for AI development tooling startup"
-    excerpt: "Weights & Biases Inc., a startup that works with OpenAI LP and Nvidia Corp. to build AI models more quickly, announced that it has raised USD 50 million in funding."
-    publishedDateTime: 2023-08-10T15:05:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/weights-biases-raises-usd-50m-for-ai-development-tooling-startup/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/weights-biases-raises-usd-50m-for-ai-development-tooling-startup/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/weights-biases-raises-usd-50m-for-ai-development-tooling-startup/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Weights-Biases-raises-USD-50M-for-AI-development-tooling-startup.jpg"
-        width: 1500
-        height: 844
-        isCached: true
-  - title: "Virtualitics, a Leader in Artificial Intelligence and Data Exploration, Closes $37 Million Series C Funding Round"
-    excerpt: "PASADENA, Calif., Aug. 10, 2023 /PRNewswire/ -- Virtualitics, Inc., an artificial intelligence and data exploration company, today announced that it has raised $37 million in a Series C financing round led by Smith Point Capital, LLC with participation from Citi and advisory clients of The Hillman Company, among other investors."
-    publishedDateTime: 2023-08-10T13:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/10/9862719.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Virtualitics, a Leader in Artificial Intelligence and Data Exploration, Closes $37 Million Series C Funding Round"
     excerpt: "Virtualitics is revolutionizing and shaping the artificial intelligence and data exploration industry with its groundbreaking technology, Intelligent Exploration. Virtualitics' sophisticated AI-powered analytical capabilities empower data scientists"
     publishedDateTime: 2023-08-11T12:48:00Z

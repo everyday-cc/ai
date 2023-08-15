@@ -2,17 +2,17 @@
 category: news
 title: "Lawsuit filed after facial recognition tech causes wrongful arrest of pregnant woman"
 excerpt: "Flawed facial recognition technology caused the wrongful arrest of a pregnant woman in Detroit, the latest in a string of false arrests blamed on the technology, according to a federal lawsuit ..."
-publishedDateTime: 2023-08-11T14:14:00Z
-originalUrl: "https://www.indystar.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
-webUrl: "https://www.indystar.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
+publishedDateTime: 2023-08-11T14:13:00Z
+originalUrl: "https://www.jsonline.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
+webUrl: "https://www.jsonline.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: The Indianapolis Star
-  domain: indystar.com
+  name: Milwaukee Journal Sentinel
+  domain: jsonline.com
 
 topics:
   - Computer Vision
@@ -168,6 +168,6 @@ related:
       domain: people.com
     quality: 0
 
-secured: "z2TyfGE/12LYijlI+fD1BWTswg07YFqICyYcVIuw9/ZEMRKAkOpmXftU/H4k1zYEA2vc2LAMX2xFFL5qfzsXhjIalQOIlSwIjMOhP8AmMJlWYb7fyWCdmZwOaCE5iaEq9uBDFvqFX/c/CLC1lll1AWLJ45AY0tSiWvdMLzIQ4pUIN8KSDBkzcBeCj4TP4Fq+aJTc4ovJTDVWDK5CqvS6Q4J8oFvwKN00ZXMA9d5wD632SS+I1CV9VvarqD0ylM/YoDcqxWBH7y6XMIDDmylTDysFAzPpw23j9cxZCfDdvFPlUC15VsRxSF07oyn55zY5DU2dFxnmv8SSqVE/0N72hTtNvTczGkiBgE17FdlPaEw=;B7loz+xyXLhuG5P7gMxikA=="
+secured: "r1mi4dUF8ia57dDUXlh37FKfnrOKx92jUdFgiZrZYKJ7S/bDtszc/bskkcn+ov6YSfwjZPCRtM5c1JZP+6h5eNXXyi7EFcV6HSvBTiAno7MLwphxLXy/5QmSbkFQYr/HVIZEsNDQHheFIsGY73Xa8d58/7cM8bSQ0z7poHcGFELvdZeRGtrCSU7PTvjVfrteN3JwcEIvnGPfgUb+6mwyBlEZ+WJ28him4zo4HBNV+DbHMat1Yu3hRCt11oq2qTuK0K5ckeJzig82rRG+Hiovh5WkNOr1G7J86g3DOsfteXqLL3E/jJ6RQ2g+d0NQz1tGUGMJRz9j1mzwkworskLT0jS7DmtEmXjJEx/UgTCLNbE=;2b3QyzwSW1IxI9cGBrn0rQ=="
 ---
 

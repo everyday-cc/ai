@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-08-driverless-robotaxi-services-launched-in-shanghais-pudong-district.md",
+      "title": "Driverless robotaxi services launched in Shanghai's Pudong district",
+      "excerpt": "Driverless robotaxi services were launched in designated areas of Shanghai's Pudong New Area as the district's first batches of licenses for the commercialization of autonomous driving were issued on Saturday at the sixth World Artificial Intelligence Conference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202307/08/WS64a96b91a310bf8a75d6e075.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202307/08/WS64a96b91a310bf8a75d6e075.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202307/09/64aa5035a310bf8a1d23b203.jpeg",
+          "width": 634,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-08T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-how-much-should-we-fear-artificial-intelligence.md",
       "title": "How much should we fear artificial intelligence?",
       "excerpt": "How much should we fear artificial intelligence? on facebook (opens in a new window) How much should we fear artificial intelligence? on linkedin (opens in a new window)",
@@ -1312,49 +1355,6 @@
       "provider": {
         "name": "The Globe and Mail",
         "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-one-mans-quest-to-ban-teslas-full-self-driving-and-take-on-elon-musk.md",
-      "title": "One Man’s Quest to Ban Tesla’s Full Self Driving and Take on Elon Musk",
-      "excerpt": "The Dawn Project’s Dan O’Dowd paid for a Super Bowl ad and conducts regular tests to show that Tesla’s FSD technology is dangerous and should be outlawed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/",
-      "originalUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motortrend.com/uploads/2023/06/002-tsla-fsd-test-dan-odowd-testing-with-ross-gerbe.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/",
-      "publishedDateTime": "2023-06-28T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
         "images": null,
         "publishers": null,
         "authors": null

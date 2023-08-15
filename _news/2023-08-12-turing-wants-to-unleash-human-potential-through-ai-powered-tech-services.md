@@ -54,22 +54,6 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "AI threatens to add to the growing wave of fraud but is also helping tackle it"
-    excerpt: "There were 4.5 million reported incidents of fraud in the UK in 2021/22, up 25% on the year before. It is a growing problem which costs billions of pounds every year."
-    publishedDateTime: 2023-08-10T15:00:00Z
-    webUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-threatens-to-add-to.jpg"
-        width: 1280
-        height: 894
-        isCached: true
   - title: "The double-edged nature of parenting, mental health and artificial intelligence"
     excerpt: "There are two sides to every coin — and sometimes our strengths become weaknesses. This hour, TED speakers explore the mixed blessings and volatile flip sides of mental health, parenting and AI. Guests include developmental psychologist Yuko Munakata ..."
     publishedDateTime: 2023-08-11T05:44:00Z

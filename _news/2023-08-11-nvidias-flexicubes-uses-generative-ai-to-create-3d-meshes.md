@@ -61,6 +61,36 @@ related:
         width: 1200
         height: 608
         isCached: true
+  - title: "What Does Generative AI Mean For Websites And SEO?"
+    excerpt: "Exploring the intersection of generative AI and the future of web search, this article delves into how chatbots could revolutionize SEO and reshape online business models"
+    publishedDateTime: 2023-08-15T06:23:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64db19be0420c96050635ebc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How to tackle the ethics of Generative AI"
+    excerpt: "A tip by Daniel Pell of @Workday about how business leaders should approach the ethical questions around deploying #GenerativeAI"
+    publishedDateTime: 2023-08-15T07:36:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/08/15/how-to-tackle-the-ethics-of-generative-ai/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/01/business-tip.jpg"
+        width: 728
+        height: 410
+        isCached: true
   - title: "With Generative AI, Businesses Should Listen More And Generate Less"
     excerpt: "The implementation of large-scale language analytics promises transformative impacts across various sectors, boosting efficiency and providing insightful analysis."
     publishedDateTime: 2023-08-11T13:30:00Z
@@ -93,15 +123,6 @@ related:
       name: Diplomatic Courier
       domain: diplomaticourier.com
     quality: 19
-  - title: "Asian businesses see better opportunities and complexities for generative AI"
-    excerpt: "Rackspace Technology helps businesses with both complexities and opportunities for generative AI technology in the multi-cloud."
-    publishedDateTime: 2023-08-10T13:49:00Z
-    webUrl: "https://techwireasia.com/2023/08/opportunities-outplay-complexities-for-generative-ai-technology/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 16
 
 secured: "8lK7aEFJ9b5i0UHNIN1/wEhIWU9jdkwretidB0r7sVIMIPTjNmnNN5DbS2tOlD6MAsaqR3o/NMOHtsd52gbmo3C7mGc17aIoklJsOit3PYx+9m1jajJLXYwr/SAgRox+uDE5H1aZZV4qlbcx8pPlXiiRkulgqUFmb2Xh92jE1jNj71kKURS3OouDVcHa7uCqTyl54ti/Jnesop/uH5G8YgzhH7bbqZlzAAs443oOzkrU34U6z82B/PEC3Cf0GO9eZK88qtwhZHmhJZcjiQHyqM4VOZrXGH0oiBNcOGCRdt+Mp+kZNyX7n+1s+pJI54nFXQx3pIMt5VF2v+kwmrRIMRbcAC6x7G0fruW50erul7A361v679UePchNm+r7vbvItSVtXCZ73Gu5W2MdDA0uAuSBVmkUuFn1rxjxvxoTQ7BxW3ch1nMya8tKJcQQCJ6qd8IA9f1DR1I/FMbyckIRSZw5HY7XmN4WSjaBDCom8RuM9ewQoTPyg81KbiHn1UZ4R/8zfXYEkdSPz+wrQpwyjQ==;AeWvGzM0BbwW+loddN4kRQ=="
 ---

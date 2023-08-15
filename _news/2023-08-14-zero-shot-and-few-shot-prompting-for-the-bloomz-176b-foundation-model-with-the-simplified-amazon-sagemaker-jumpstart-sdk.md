@@ -43,20 +43,6 @@ related:
         width: 1219
         height: 630
         isCached: true
-  - title: "Build a centralized monitoring and reporting solution for Amazon SageMaker using Amazon CloudWatch"
-    excerpt: "In this post, we present a cross-account observability dashboard that provides a centralized view for monitoring SageMaker user activities and resources across multiple accounts. It allows the end-users and cloud management team to efficiently monitor what ML workloads are running, view the status of"
-    publishedDateTime: 2023-08-10T14:48:27Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-centralized-monitoring-and-reporting-solution-for-amazon-sagemaker-using-amazon-cloudwatch/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 75
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/28/ML-13521-dashboard-1260x578.png"
-        width: 1260
-        height: 578
-        isCached: true
   - title: "Build production-ready generative AI applications for enterprise search using Haystack pipelines and Amazon SageMaker JumpStart with LLMs"
     excerpt: "In this post, we showcase how to build an end-to-end generative AI application for enterprise search with Retrieval Augmented Generation (RAG) by using Haystack pipelines and the Falcon-40b-instruct model from Amazon SageMaker JumpStart and Amazon OpenSearch Service."
     publishedDateTime: 2023-08-14T16:42:40Z

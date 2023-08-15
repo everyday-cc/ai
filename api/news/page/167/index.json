@@ -2,6 +2,271 @@
   "page": 167,
   "value": [
     {
+      "path": "_news/2023-05-01-yann-le-cun-director-at-meta-the-very-idea-of-wanting-to-slow-down-ai-research-is-akin-to-a-new-form-of-obscurantism.md",
+      "title": "Yann Le Cun, director at Meta: 'The very idea of wanting to slow down AI research is akin to a new form of obscurantism'",
+      "excerpt": "There, he created the FAIR (Facebook Artificial Intelligence Research) research lab. The author of Quand la machine apprend (\"When the Machine Learns\") was awarded the 2018 Turing Award ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lemonde.fr/en/opinion/article/2023/04/28/yann-le-cun-director-at-meta-the-very-idea-of-wanting-to-slow-down-ai-research-is-akin-to-a-new-form-of-obscurantism_6024729_23.html",
+      "originalUrl": "https://www.lemonde.fr/en/opinion/article/2023/04/28/yann-le-cun-director-at-meta-the-very-idea-of-wanting-to-slow-down-ai-research-is-akin-to-a-new-form-of-obscurantism_6024729_23.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-30T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Monde.fr",
+        "domain": "lemonde.fr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-ai-generated-music-growing-exponentially-sparking-debate.md",
+      "title": "AI-generated music growing exponentially, sparking debate",
+      "excerpt": "An anonymous creator used artificial intelligence to create a song with Drake and The Weeknd’s voices, fueling AI’s first real viral hit, “Heart on my Sleeve.” NBC News’ Steve Patterson gets a closer look at how AI music is created.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-generated-music-growing-exponentially-sparking-debate-171959877938",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-generated-music-growing-exponentially-sparking-debate-171959877938",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/1682898379260_nn_spa_musics_new_ai_frontier_230430_1920x1080-9iile5.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo171959877938",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171959877938",
+      "publishedDateTime": "2023-04-30T16:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution.md",
+      "title": "We must perfect predictive models for generative AI to deliver on the AI revolution",
+      "excerpt": "To accelerate the AI revolution, we shouldn’t abandon “old school AI” for flashier generative AI. Why we should perfect predictive AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/",
+      "originalUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1347040940.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/",
+      "publishedDateTime": "2023-04-30T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt.md",
+      "title": "Board Directors And C-Suite Executives Need An AI Digital Literacy Jolt",
+      "excerpt": "This article summarizes a series of articles on ChatGPT to help advance board directors and c-level leaders understanding of AI in particular, generative AI like OpenAI's ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644ed0207cdeacee53ba8cab/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/amp/",
+      "publishedDateTime": "2023-04-30T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-machine-learning-and-data-sciences-for-financial-markets.md",
+      "title": "Machine Learning and Data Sciences for Financial Markets",
+      "excerpt": "Leveraging the research efforts of more than sixty experts in the area, this book reviews cutting-edge practices in machine learning for financial markets. Instead of seeing machine learning as a new field, the authors explore the connection between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/books/machine-learning-and-data-sciences-for-financial-markets/8BB31611662A96D0AB93A8A26E2D0D0A",
+      "originalUrl": "https://www.cambridge.org/core/books/machine-learning-and-data-sciences-for-financial-markets/8BB31611662A96D0AB93A8A26E2D0D0A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cambridge.org/97813165/16195/large_cover/9781316516195i.jpg",
+          "width": 451,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-30T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-30-two-healthy-babies-conceived-by-a-sperm-injecting-robot-that-is-controlled-by-a-playstation-5-controller-are-born-in-spain.md",
+      "title": "Two healthy babies conceived by a sperm-injecting robot that is controlled by a PlayStation 5 controller are born in Spain",
+      "excerpt": "Two babies have been born after a robot guided by a Playstation 5 controller fertilised human eggs. The procedure, completed in Barcelona, involved student engineer Eduard Alba manoeuvring a tiny ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-12030899/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-12030899/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/04/30/15/70405427-0-image-a-20_1682865620945.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-12030899/amp/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12030899/amp/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
+      "publishedDateTime": "2023-04-30T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-30-ai-winners-arent-who-you-think.md",
       "title": "AI Winners Aren't Who You Think",
       "excerpt": "Artificial intelligence is the biggest buzzword on the market today, and there are a lot of ways to invest in this area of growth. But the biggest winners dominating the discussion today might not ...",
@@ -918,299 +1183,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-latest-healthcare-natural-language-processing-market-share-2023-2029-with-new-trend.md",
-      "title": "Latest \"Healthcare Natural Language Processing Market\" Share 2023-2029, With New Trend",
-      "excerpt": "The Readers in the section will understand how the Healthcare Natural Language Processing market scenario changed",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/latest-healthcare-natural-language-processing-market-share-2023-2029-with-new-trend-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/latest-healthcare-natural-language-processing-market-share-2023-2029-with-new-trend-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T18:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-artificial-intelligence-is-driving-the-stock-market-it-has-some-advice-for-you.md",
-      "title": "Artificial Intelligence Is Driving the Stock Market. It Has Some Advice for You.",
-      "excerpt": "It’s based on an Instagram page called RuPublicans, a nod to reality show celebrity RuPaul, featuring portraits made using the artificial intelligence tools Midjourney and ChatGPT-4. Already a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/artificial-intelligence-tech-stocks-chatgpt-ai-7349e463",
-      "originalUrl": "https://www.barrons.com/articles/artificial-intelligence-tech-stocks-chatgpt-ai-7349e463",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-772462/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/artificial-intelligence-tech-stocks-chatgpt-ai-7349e463",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/artificial-intelligence-tech-stocks-chatgpt-ai-7349e463",
-      "publishedDateTime": "2023-04-28T16:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-artificial-intelligence-changing-politics-with-fake-images-and-videos.md",
-      "title": "Artificial intelligence changing politics with fake images and videos",
-      "excerpt": "Artificial intelligence is adding a new dimension to the political universe. NBC News’ Hallie Jackson reports on the danger of disinformation that could come along with the tech, showing us how easily AI can be used to make fake videos or images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/artificial-intelligence-changing-politics-with-fake-images-and-videos-171704901628",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/artificial-intelligence-changing-politics-with-fake-images-and-videos-171704901628",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/1682723596904_nn_hja_air_ai_2024_election_230428_1920x1080-n2iad7.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo171704901628",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171704901628",
-      "publishedDateTime": "2023-04-28T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai.md",
-      "title": "Report describes Apple’s “organizational dysfunction” and “lack of ambition” in AI",
-      "excerpt": "A new behind-the-scenes report in The Information details Apple's struggles to keep up with AI features and innovation amid the rise of large language models (LLMs) that drive groundbreaking tools like ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/iOS-14-header-800x481-1.jpg",
-          "width": 800,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/amp/",
-      "publishedDateTime": "2023-04-28T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-2023-2031-object-recognition-imaging-systems-market-opportunities-and-company-growth-strategies.md",
-      "title": "2023-2031 \"Object Recognition Imaging Systems Market\" Opportunities and Company Growth Strategies",
-      "excerpt": "“Global Object Recognition Imaging Systems Research Observes Global Market Competition by Manufacturer: The study offers critical insights into key players, product information, and production ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-2031-object-recognition-imaging-systems-market-opportunities-and-company-growth-strategies-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-2031-object-recognition-imaging-systems-market-opportunities-and-company-growth-strategies-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-heres-how-the-cloud-is-revolutionizing-health-tech-and-fintech.md",
-      "title": "Here's How the Cloud is Revolutionizing Health Tech and FinTech",
-      "excerpt": "Overcoming the model of office and lab work with cloud computing Cloud computing systems have allowed enterprises, schools, and government organizations to overcome pandemic-induced challenges and meaningfully accelerate innovation and agility toward the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/cloud-revolutionizes-healthtech-fintech/450667",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/cloud-revolutionizes-healthtech-fintech/450667",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1682721803-GettyImages-1365582863.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

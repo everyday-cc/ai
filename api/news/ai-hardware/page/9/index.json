@@ -2,6 +2,153 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-06-05-google-pixel-8-could-get-a-major-gaming-and-ai-boost-from-leaked-tensor-g3-chip.md",
+      "title": "Google Pixel 8 could get a major gaming and AI boost from leaked Tensor G3 chip",
+      "excerpt": "One of the biggest upgrades likely to be offered by the Google Pixel 8 and Pixel 8 Pro is the chipset. We fully expect Google to replace the Tensor G2 found in the Pixel 7 series with a new Tensor G3, and now that chipset has leaked in full.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/google-tensor-g3",
+      "originalUrl": "https://www.techradar.com/news/google-tensor-g3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/LJ7EmqJytnTPW6r4ag3GmZ-1200-80.jpg",
+          "width": 1000,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-duet-ai-for-google-workspace-what-is-it-and-how-does-it-work.md",
+      "title": "Duet AI for Google Workspace: What is it and how does it work?",
+      "excerpt": "Google has unveiled a new basket of features for its suite of apps, collectively called Duet AI for Workspace. Here's how to use it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/",
+      "originalUrl": "https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-duet-ai-for-workspace.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T20:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
+      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make",
+      "sourceUrl": null,
+      "webUrl": "https://www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.html",
+      "originalUrl": "https://www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/c/a8/ca876be0-0143-11ee-9b3d-1b859d4763af/6479e538866c4.image.jpg?resize=1024%2C683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.amp.html",
+      "cdnAmpWebUrl": "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.amp.html",
+      "publishedDateTime": "2023-06-04T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Niagara Gazette",
+        "domain": "niagara-gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-04-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
       "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
       "excerpt": "This photo provided by the chipmaker Nvidia shows the company’s HGX H100 module, which can use as many as eight AI chips to train artificial intelligence systems and perform other tasks.",
@@ -1284,154 +1431,6 @@
         "AI",
         "Microsoft AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation.md",
-      "title": "Nvidia Dominates AI Silicon, But That Doesn’t Justify A $1 Trillion Valuation",
-      "excerpt": "Nvidia (NASDAQ: NVDA) stock surged by 24% in Thursday’s trading after the company posted a better-than-expected set of Q1 FY’24 results and provided Q2 revenue guidance that was well ahead of Street estimates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647591d4304997e476bb5bd0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/",
-      "publishedDateTime": "2023-05-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-nvidias-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.md",
-      "title": "Nvidia’s new Grace Hopper superchip to fuel its DGX GH200 AI supercomputer",
-      "excerpt": "The DGX GH200 AI supercomputer is targeted toward developing and supporting large language models. Google Cloud, Meta, and Microsoft already have access to it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.html",
-      "originalUrl": "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/05/nvidia-dgx-gh200-100941527-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html",
-      "publishedDateTime": "2023-05-30T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai.md",
-      "title": "SOXQ ETF: Front-Row Exposure to Semiconductor Stocks and AI",
-      "excerpt": "On the other hand, I also wouldn’t want to not have exposure to these names, as AI is clearly here to stay and is just getting started on disrupting many industries. Thus, my strategy (not financial advice) with an ETF like this would be to start a ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai-1032356835",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai-1032356835",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/05/image-798-1024x548.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-29T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
       ]
     }
   ],

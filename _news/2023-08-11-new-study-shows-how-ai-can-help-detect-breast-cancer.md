@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/9bb9106210d711c47c2ceeeef370e7e6aa325de3/2023/08/14/c31425ef-3a59-44da-8cec-857e2714f96b/gettyimages-1187651665.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI Helps Detect Muscle Mass in Head and Neck Cancer Patients"
+    excerpt: "Among individuals diagnosed with head and neck cancer, an AI-driven evaluation of sarcopenia could be conducted at regular intervals during treatment."
+    publishedDateTime: 2023-08-13T14:05:00Z
+    webUrl: "https://www.medindia.net/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-helps-detect-muscle-mass-in-head-and-neck-cancer-patients-213091-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://www.medindia.net/health-images/an-artificial-intelligence-accurately-predict.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "Breast-cancer screening gets a boost from AI"
     excerpt: "Radiologists using an artificial-intelligence (AI) assistant during breast-cancer screening had better chances of detecting cancer than those who did not 1."

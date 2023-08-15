@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-15-how-robots-use-ai-to-navigate-the-world.md",
+      "title": "How robots use AI to navigate the world?",
+      "excerpt": "Aniket Bera is an associate professor of computer science in the College of Science at Purdue University. In this video, he explains how robots use artificial intelligence to navigate the world and solve problems.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/videoshow/102743818.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/videoshow/102743818.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-102743818/videos/international/how-robots-use-ai-to-navigate-the-world.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/amp_videoshow/102743818.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/amp_videoshow/102743818.cms",
+      "publishedDateTime": "2023-08-15T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-more-than-half-the-complexity-of-robots-is-in-the-hands.md",
       "title": "More Than Half The Complexity Of Robots Is In The Hands",
       "excerpt": "Phoenix has 75 degrees of freedom when you count up how the machine can move in all its jointed components. 44 of those 75 are in the hands.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/the-dawn-of-humanoid-robotics-a-glimpse-into-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1353,41 +1396,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-san-francisco-drives-tech-will-it-drive-away-robot-taxis.md",
-      "title": "San Francisco drives tech; will it drive away robot taxis?",
-      "excerpt": "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... s GOOGL.O Waymo and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/san-francisco-drives-tech-will-it-drive-away-robot-taxis-0",
-      "originalUrl": "https://www.nasdaq.com/articles/san-francisco-drives-tech-will-it-drive-away-robot-taxis-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

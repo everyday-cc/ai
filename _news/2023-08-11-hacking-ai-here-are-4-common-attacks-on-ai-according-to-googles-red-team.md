@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/hacking-ai-how-googles-ai-r
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hacking-ai-how-googles-ai-red-team-is-fighting-security-attacks/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Banks embracing the AI future need to pay attention to its risks"
-    excerpt: "Artificial intelligence can and should be integrated into the business of banking, but with adequate safeguards in place to mitigate the technology's potential vulnerabilities."
-    publishedDateTime: 2023-08-10T14:00:00Z
-    webUrl: "https://www.americanbanker.com/opinion/banks-embracing-the-ai-future-need-to-pay-attention-to-its-risks"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 54
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/0a3bfbb/2147483647/strip/true/crop/6762x3550+141+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb0%2Fd3%2Fb079dda54cc9a088e9478d5b8a9e%2Fadobestock-621425314.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "What Are the Risks of Artificial Intelligence?"
     excerpt: "What Are the Risks of Artificial Intelligence? To shed light on the potential risks of Artificial Intelligence, we’ve gathered insights from twelve experts, including Technology Editors and CEOs. From the trust issues in AI expert opinions to potential privacy breaches in AI data collection,"
     publishedDateTime: 2023-08-11T21:43:00Z

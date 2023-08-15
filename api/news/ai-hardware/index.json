@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-15-vsbltys-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intels-gpu-flex-170.md",
+      "title": "VSBLTY'S AI-DRIVEN WEAPONS DETECTION SOFTWARE IS FASTER & MORE RELIABLE WITH INTEL'S GPU FLEX 170",
+      "excerpt": "VSBLTY's AI-driven software Vector provides early threat detection using enhanced facial recognition, and the ability to identify weapons, utilizing surveillance cameras to observe a wide area around protected sites.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intel-s-gpu-flex-170-1032553856",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intel-s-gpu-flex-170-1032553856",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg",
+          "width": 400,
+          "height": 283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-tsmc-caters-to-ai-gpu-chip-customers-to-meet-market-demand.md",
+      "title": "TSMC caters to AI GPU chip customers to meet market demand",
+      "excerpt": "Since ChatGPT ignited a race among competitors to develop their generative AI system in early 2023, the high-computing power demand has pushed up the sales of AI GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230815PD204/tsmc-ai-gpu-advanced-packaging-cowos.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230815PD204/tsmc-ai-gpu-advanced-packaging-cowos.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20230815pd204_files/1_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-kneron-takes-aim-at-gpu-shortage-with-its-neural-processing-unit-npu-update.md",
       "title": "Kneron takes aim at GPU shortage with its neural processing unit (NPU) update",
       "excerpt": "With GPUs increasingly hard to come by for AI, Kneron announces its KL730 neural processing unit (NLU) featuring enhanced energy efficiency.",
@@ -58,11 +153,11 @@
       "title": "Earnings preview: Can Nvidia amaze markets with its AI chip sales?",
       "excerpt": "Nvidia is slated to report its second-quarter earnings after the US markets closing bell on 24 August (APAC time)",
       "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
-      "originalUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
+      "webUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
+      "originalUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -76,8 +171,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
-      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-08-14T21:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -192,7 +287,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1354,101 +1449,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-06-my-top-ai-stock-to-buy-right-now.md",
-      "title": "My Top AI Stock to Buy Right Now",
-      "excerpt": "The Motley Fool has a disclosure policy. Want to Retire a Millionaire? This AI Stock Can Help With That. This Chip Stock Just Hit a Major Setback. Steve Jobs Predicted It. Calculated by average return of all stock recommendations since inception of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/741920/person-on-their-phone-in-apartment-sitting-on-the-floor.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-06-the-big-bottleneck-for-ai-a-shortage-of-powerful-chips.md",
-      "title": "The big bottleneck for AI: a shortage of powerful chips",
-      "excerpt": "The crushing demand for AI has also revealed the limits of the global supply chain for powerful chips used to develop and field AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/big-bottleneck-ai-shortage-powerful-080222850.html",
-      "originalUrl": "https://www.aol.com/finance/big-bottleneck-ai-shortage-powerful-080222850.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_cnn_business_articles_764/301d06960d11b7db89fd6a6c72e4610e",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

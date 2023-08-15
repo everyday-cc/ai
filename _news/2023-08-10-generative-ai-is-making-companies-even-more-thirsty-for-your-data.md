@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/fast-forward-generative-ai-companies-t
 webUrl: "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 660
         height: 400
         isCached: true
-  - title: "AI Is Coming For Your Data: 6 Steps To Ensure Cyber Resilience"
-    excerpt: "Since AI is great at learning, it can be used as a weapon to gather information from the internet and use social engineering to create tantalizing ways of getting people to click. In other words, if AI knows a lot about you, it knows your interests and what you will likely click on."
-    publishedDateTime: 2023-08-10T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/10/ai-is-coming-for-your-data-6-steps-to-ensure-cyber-resilience/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Why Reinforcement Learning Will Save Generative AI"
     excerpt: "In this contributed article, Kim Stagg, VP of Product for Appen, knows the only way to achieve functional AI models is to use high-quality data in every stage of deployment. As businesses look for pathways to adoption,"
     publishedDateTime: 2023-08-12T17:34:00Z

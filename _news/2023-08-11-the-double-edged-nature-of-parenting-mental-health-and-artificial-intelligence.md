@@ -56,22 +56,6 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "AI threatens to add to the growing wave of fraud but is also helping tackle it"
-    excerpt: "There were 4.5 million reported incidents of fraud in the UK in 2021/22, up 25% on the year before. It is a growing problem which costs billions of pounds every year."
-    publishedDateTime: 2023-08-10T15:00:00Z
-    webUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-threatens-fraud-tackle.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-threatens-to-add-to.jpg"
-        width: 1280
-        height: 894
-        isCached: true
   - title: "Turing Wants To Unleash Human Potential Through AI-Powered Tech Services"
     excerpt: "In 2020, when the Pandemic mandated the move to remote work, Turing raised $32million in Series B funding to define a future where companies could push a button to spin up their engineering team instantly."
     publishedDateTime: 2023-08-12T10:46:00Z

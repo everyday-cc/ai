@@ -32,22 +32,6 @@ related:
         width: 1199
         height: 599
         isCached: true
-  - title: "Weights & Biases raises USD 50M for AI development tooling startup"
-    excerpt: "Weights & Biases Inc., a startup that works with OpenAI LP and Nvidia Corp. to build AI models more quickly, announced that it has raised USD 50 million in funding."
-    publishedDateTime: 2023-08-10T15:05:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/weights-biases-raises-usd-50m-for-ai-development-tooling-startup/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/weights-biases-raises-usd-50m-for-ai-development-tooling-startup/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/weights-biases-raises-usd-50m-for-ai-development-tooling-startup/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Weights-Biases-raises-USD-50M-for-AI-development-tooling-startup.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "AI data exploration startup Virtualitics raises $37M for growth and innovation"
     excerpt: "Artificial intelligence data exploration startup Virtualitics Inc. today announced that it had raised $37 million in new funding to invest in growth and innovation, including direct and ecosystem investments and investments to enhance its AI platform."
     publishedDateTime: 2023-08-10T23:15:00Z
@@ -62,15 +46,6 @@ related:
         width: 1107
         height: 545
         isCached: true
-  - title: "Virtualitics, a Leader in Artificial Intelligence and Data Exploration, Closes $37 Million Series C Funding Round"
-    excerpt: "PASADENA, Calif., Aug. 10, 2023 /PRNewswire/ -- Virtualitics, Inc., an artificial intelligence and data exploration company, today announced that it has raised $37 million in a Series C financing round led by Smith Point Capital, LLC with participation from Citi and advisory clients of The Hillman Company, among other investors."
-    publishedDateTime: 2023-08-10T13:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/10/9862719.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "eDZsrtEWcxn4ixby7w9hhL5a+CiU1gSFBOWanbE6AeAOcn+6OU7I6pbEot/NaeJMe/709ZtOfM5zDp+r2dLS9tdQpJHlb5hIQA1arPJOE9AXpM/m3UHnXc1f7Jf8c/5vj+wROTV/tX9J+f7Nw8ZtKGQAWHnm3Ri+JfSqRcM/IeIomtTwz9QLfBjfNzm32EUCulija+Fb7UoteQpQJqWIdlZCLj+IjAjvPAFcogXMR/0Yk+HUeFQPy6Akwfs/SIkGFc10rXMQMgkNdRN8cVtWR1o64DBZ85sBdBUvPLCC4Rcu5fOMIuVClXigTq7OBdtk2EPZXZ19ze+l2jeclsZFzoiwf2PEBgfCoyKj7mPI0S0=;BaGK4GEc5gx99bK4zZQxiQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
+  - title: "Fintechs experiment with generative AI, but development is slow going"
+    excerpt: "The firms are increasingly seeking to integrate generative artificial intelligence into their products, and banks are potentially interested customers. But such efforts are costly, the risks are high,"
+    publishedDateTime: 2023-08-11T18:48:00Z
+    webUrl: "https://www.americanbanker.com/news/fintechs-experiment-with-generative-ai-but-development-is-slow-going"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 19
 
 secured: "4sM/2XrrFGMr5KAXW4ayLCsf3qzu1o9z4S3/4c0mSxz912PoaYXs1LJg6rSmjPVSA+4+9Qku6bdjxtquQ+XmprM5x8uNBAPkKfUa6Iet31gTohC78JfxPOHv6UFiRYr9N/jxN7j+5EoVdmUNKq26p4/uyXw3kOiEyL6kH/f1/RDHtsD2y+A4RZIjDtqvpeczVYHQS3ZYNqxkJoy3Utas6N1oSonwQlhgHrE63g+84nzK2Um6eBmFkRf3GdQq0vYIFgKPHzq09+qyaWRMGzzgcPrZ2tSl+uFceHIY4rw3nWH1JF2gCbmFH+zLg5GFBx8VyyzuxMZ8C86BnLvmu3ekflmx5ALaXxvbBdRQ0hr/Dx0cauM6ql7PClG1we+EYeV31ZAc081jBmqmZ4I50PopsCScr9bsWmRhveSH6KNOeDIl95R0kP3xsok51TaFW7PtV6XkV7mDDEa2DI4K7HbN50n1DzXInMIp2o/D62EI6Ie6YwS4Rpn7E5bx2D4/BUC2Jy6Rw4xsVoZvoDtHEZwJpQ==;DlQ0NF/RT+ND7yPOnJtDaQ=="
 ---

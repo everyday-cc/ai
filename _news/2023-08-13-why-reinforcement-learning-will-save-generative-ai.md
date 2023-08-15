@@ -53,15 +53,6 @@ related:
         width: 660
         height: 400
         isCached: true
-  - title: "AI Is Coming For Your Data: 6 Steps To Ensure Cyber Resilience"
-    excerpt: "Since AI is great at learning, it can be used as a weapon to gather information from the internet and use social engineering to create tantalizing ways of getting people to click. In other words, if AI knows a lot about you, it knows your interests and what you will likely click on."
-    publishedDateTime: 2023-08-10T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/10/ai-is-coming-for-your-data-6-steps-to-ensure-cyber-resilience/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "AI is setting off a great scramble for data"
     excerpt: "Adobe’s triumph over the doomsters illustrates a wider point about the contest for dominance in the fast-developing market for AI tools. The supersized models powering the lates"
     publishedDateTime: 2023-08-13T17:39:00Z

@@ -2,6 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-15-how-robots-use-ai-to-navigate-the-world.md",
+      "title": "How robots use AI to navigate the world?",
+      "excerpt": "Aniket Bera is an associate professor of computer science in the College of Science at Purdue University. In this video, he explains how robots use artificial intelligence to navigate the world and solve problems.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/videoshow/102743818.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/videoshow/102743818.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-102743818/videos/international/how-robots-use-ai-to-navigate-the-world.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/amp_videoshow/102743818.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/amp_videoshow/102743818.cms",
+      "publishedDateTime": "2023-08-15T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-vsbltys-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intels-gpu-flex-170.md",
+      "title": "VSBLTY'S AI-DRIVEN WEAPONS DETECTION SOFTWARE IS FASTER & MORE RELIABLE WITH INTEL'S GPU FLEX 170",
+      "excerpt": "VSBLTY's AI-driven software Vector provides early threat detection using enhanced facial recognition, and the ability to identify weapons, utilizing surveillance cameras to observe a wide area around protected sites.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intel-s-gpu-flex-170-1032553856",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intel-s-gpu-flex-170-1032553856",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg",
+          "width": 400,
+          "height": 283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-tsmc-caters-to-ai-gpu-chip-customers-to-meet-market-demand.md",
+      "title": "TSMC caters to AI GPU chip customers to meet market demand",
+      "excerpt": "Since ChatGPT ignited a race among competitors to develop their generative AI system in early 2023, the high-computing power demand has pushed up the sales of AI GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230815PD204/tsmc-ai-gpu-advanced-packaging-cowos.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230815PD204/tsmc-ai-gpu-advanced-packaging-cowos.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20230815pd204_files/1_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-kneron-takes-aim-at-gpu-shortage-with-its-neural-processing-unit-npu-update.md",
       "title": "Kneron takes aim at GPU shortage with its neural processing unit (NPU) update",
       "excerpt": "With GPUs increasingly hard to come by for AI, Kneron announces its KL730 neural processing unit (NLU) featuring enhanced energy efficiency.",
@@ -62,7 +200,7 @@
       "originalUrl": "https://www.consultancy.uk/news/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -101,11 +239,11 @@
       "title": "Earnings preview: Can Nvidia amaze markets with its AI chip sales?",
       "excerpt": "Nvidia is slated to report its second-quarter earnings after the US markets closing bell on 24 August (APAC time)",
       "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
-      "originalUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
+      "webUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
+      "originalUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -119,8 +257,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
-      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-08-14T21:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -235,6 +373,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-15-how-fraudgpt-presages-the-future-of-weaponized-ai.md",
+      "title": "How FraudGPT presages the future of weaponized AI",
+      "excerpt": "Five ways new generative AI tools for crafting malicious cyberattacks will start to define the future of cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/how-fraudgpt-presages-the-future-of-weaponized-ai/",
+      "originalUrl": "https://venturebeat.com/security/how-fraudgpt-presages-the-future-of-weaponized-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_security-breach-padlock_1_bing_1200x800.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-the-ai-engineer-myth-unicorn-or-new-normal.md",
       "title": "The AI Engineer: Myth, Unicorn, Or New Normal?",
       "excerpt": "What is an AI Engineer? What skills are required to become one? What jobs are available? Do I want to become an AI engineer? How to start learning to be an AI Engineer?",
@@ -243,7 +433,7 @@
       "originalUrl": "https://www.forbes.com/sites/nishatalagala/2023/08/14/the-ai-engineer-myth-unicorn-or-new-normal/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -397,7 +587,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -648,7 +838,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/the-dawn-of-humanoid-robotics-a-glimpse-into-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -890,7 +1080,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1025,203 +1215,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-amazon-develops-two-chips-dedicated-to-ai-operations.md",
-      "title": "Amazon Develops Two Chips Dedicated to AI Operations",
-      "excerpt": "Amazon revealed that it is developing two chips dedicated to artificial intelligence operations called Inferentia and Trainium.The two new chips developed by Amazon Cloud",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations",
-      "originalUrl": "https://www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gulf-times.com/gulftimes/uploads/images/2023/08/14/65373.jpg",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations/amp",
-      "cdnAmpWebUrl": "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations/amp",
-      "publishedDateTime": "2023-08-14T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Times",
-        "domain": "gulf-times.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-how-to-take-action-against-ai-bias.md",
-      "title": "How to take action against AI bias",
-      "excerpt": "Given the growing popularity of ChatGPT and generative AI, and the emergence of synthetic data (or artificially manufactured information), data scientists must be the custodians of data. Training data scientists to better curate data and implement ethical practices for collecting and cleaning data will be a necessary step.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.html",
-      "originalUrl": "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/diversity_team_collabotion_paper-cutout-people-100745850-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html",
-      "publishedDateTime": "2023-08-14T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-how-generative-ai-correlates-it-and-business-objectives-to-maximize-business-outcomes.md",
-      "title": "How generative AI correlates IT and business objectives to maximize business outcomes",
-      "excerpt": "Incorporate generative AI into existing technologies — such as SAP, CPI interfaces, Signavio and Salesforce — to achieve targeted outcomes.\nThe post How generative AI correlates IT and business objectives to maximize business outcomes appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-generative-ai-correlates-it-and-business-objectives-to-maximize-business-outcomes/",
-      "originalUrl": "https://www.ibm.com/blog/how-generative-ai-correlates-it-and-business-objectives-to-maximize-business-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/How-generative-AI-correlates-IT-and-business-objectives-to-maximize-business-outcomes.jpg",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom.md",
-      "title": "AI startup Anthropic raises $100M from Korean telco giant SK Telecom",
-      "excerpt": "Most recently, the Google-backed generative AI startup has released its updated version, Claude Instant 1.2, which incorporates the strengths of Claude 2, its second-generation AI chatbot. Claude’s use cases for the telco industry will include ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/",
-      "originalUrl": "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Anthropic_logo_art.png?w=1080",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/",
-      "publishedDateTime": "2023-08-14T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

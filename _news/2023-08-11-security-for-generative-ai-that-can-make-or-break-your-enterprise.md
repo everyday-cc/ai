@@ -39,34 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Gboard could soon let you use generative AI for proofreading and emojis"
-    excerpt: "The latest Gboard beta uses generative AI for features such as proofreading, creating emoji stickers, and tone suggestions. Read on for more!"
-    publishedDateTime: 2023-08-10T14:13:00Z
-    webUrl: "https://www.androidauthority.com/gboard-beta-generative-ai-proofreading-emojis-3354114/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/07/Gboard-on-Nothing-Phone-2-1200w-675h.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "This Audio Startup Is Using AI To Generate ‘Contextual CTV Ads’"
-    excerpt: "Call it the lovechild of dynamic creative optimization and contextual advertising. On Thursday, audio marketing platform Instreamatic released a product for connected TV that generates multiple audio"
-    publishedDateTime: 2023-08-10T14:00:00Z
-    webUrl: "https://www.adexchanger.com/digital-tv/this-audio-startup-is-using-ai-to-generate-contextual-ctv-ads/"
-    type: article
-    provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 37
-    images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2023/08/little-green-seedling-shoot-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "nghkKCqdXcI32w46YE3U4AcNcAAyMSaxBdJKSkCD/vL2AeKfy1NBTPWOMTEa4J5S/eQHeHdabBonovCvhgO+jtIEA8ZY/+ZYdx5ipZPvlyPYgw5TidQO9NhQ26CZcU0DA8+9Qm0QVDIS45gBw5DSypwc+96J0ByBUcjvSi0qHluxztqMi7b9/GH1aL029Mq2X8HtLStT7cw5pXrHwW1jV3Nksr1Key/sUC658WEQtKsVNrBdQPfnoRF0mcfRm6Jz5UtNN2DpGQSMtJILgXgxqtTCjH6o5gtV3qxeyDzbqL97yWkE+YUVS0Q0i0RFDaZuSrim8pJgKd54qT6h6w7gEfdbfMQhLrU0LkNr8mMmtE7EORiiF2pvDHAaIksyqtfnfPsPrJ5dnU2bJb6qPnaZEKZmJiUCk3rNAc/yl6EzBIDgGAVGEKgC3sjlc86ZYie94+JuzgzZUUnToQ3SeFx1atN5N9fcHNH9fVtn6Ff9o4/qiDYY6xct2VwOhiWTw9aXB/wT7FmtkAo+bT0VJCCRpA==;JYe85jntggcKG9GN19A2TA=="
 ---
