@@ -81,20 +81,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
-  - title: "In the season of AI, writers are feeling the heat"
-    excerpt: "Never in a million years could someone have believed that AI or robots would write poetry, paint, make music, etc"
-    publishedDateTime: 2023-08-10T06:52:00Z
-    webUrl: "https://newsmeter.in/top-stories/in-the-season-of-ai-writers-are-feeling-the-heat-716206"
-    type: article
-    provider:
-      name: newsmeter
-      domain: newsmeter.in
-    quality: 39
-    images:
-      - url: "https://newsmeter.in/h-upload/2023/08/10/352126-whatsapp-image-2023-08-10-at-121338-pm.jpg"
-        width: 753
-        height: 407
-        isCached: true
   - title: "AI Is Crucial for Healthcare Cybersecurity"
     excerpt: "Healthcare organizations are among the most frequent targets of cybercriminals’ attacks. Even as more IT departments invest in cybersecurity safeguards, malicious parties infiltrate infrastructures — often with disastrous results."
     publishedDateTime: 2023-08-11T18:03:00Z

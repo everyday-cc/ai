@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gulf-times.com/article/666453/international/uslatin-amer
 cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations/amp"
 type: article
 quality: 74
-heat: 84
+heat: 86
 published: true
 
 provider:

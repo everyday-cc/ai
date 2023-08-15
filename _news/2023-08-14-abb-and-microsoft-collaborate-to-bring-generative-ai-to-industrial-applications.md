@@ -78,20 +78,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 66
-  - title: "Microsoft, Aptos Labs team up to build new blockchain AI tools"
-    excerpt: "Microsoft predicts that AI will be infused into web3 solutions in a larger scale in the \"coming months and years.\""
-    publishedDateTime: 2023-08-10T06:56:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-aptos-labs-team-build-new-blockchain-ai-tools-1718393"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 54
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1716336/microsoft.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Amazon chips will help to compete with Google, Microsoft in AI race, here’s how"
     excerpt: "Amazon aims to enter the generative artificial intelligence (AI) market and has begun developing microchips to compete against tech majors such as Goo"
     publishedDateTime: 2023-08-14T12:33:00Z

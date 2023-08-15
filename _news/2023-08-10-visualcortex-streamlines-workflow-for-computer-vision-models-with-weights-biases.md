@@ -1,18 +1,18 @@
 ---
 category: news
 title: "VisualCortex streamlines workflow for computer vision models with Weights & Biases"
-excerpt: "As foundational beta users of Weights & Biases recently-released 'Launch' module for automating ML workflows, VisualCortex's ML team collaborated with Weights & Biases' product team to help produce a scalable process for seamlessly managing and deploying training runs."
-publishedDateTime: 2023-08-10T08:39:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/08/10/9862353.htm"
-webUrl: "https://it.tmcnet.com/news/2023/08/10/9862353.htm"
+excerpt: "\"We now have a robust ML model training process, which allows us to produce - and continually improve - highly accurate computer-vision-based insights for our clients. With Weights & Biases' help ..."
+publishedDateTime: 2023-08-10T08:54:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59812166-visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59812166-visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases-008.htm"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Computer Vision
@@ -34,6 +34,6 @@ related:
         height: 767
         isCached: true
 
-secured: "zbkw8Lc0y6ZbBJrvkYp7ScqFVSs/8O35bj5U9KisnwqYTRuZwhu1P9PgdPhZqa/ldOWVIba8H60SR1TJIAizT7bFtIUUwLkmxtZcQD5GyDV7O9AAl1i5s0BEHZEVzWGHcSqqtfjJSrnY6YSog1oY8Fxn5a6R6EapOzECwyUe0PMRmpJdYd+3kED5NIbmhaUJSWJKZEZm47S/EQ9GADy3tfG6LIbb0p3Gdsr34hRBhXs2x1PsxY93ya8+7lkyc3gjvty71LqzRbBNpDavuVdXZ6Cy8FST3F1TvhHU4+sQINCOGUkTeuZDk76g0h0yhZtyWGxdesgat9LtzMK1mdLg35XatNkzJTVU2aonYcpbZzBPKR62bbG4tXLzyVY+5AYAHJSgSAGaByu8SE9lCQhyapT0PpuVppJP2HsljaJzQRBXD5GYJidOqwa1M5Sghj/kx0yWQTR85zrl7/O+7QIcMtRDggND5MIyGeoDk8//EsA+rfJ8543EF4chb3b5ayfL+3q3g4TrrkHLrK2W36846g==;nvCpVoE7ucyx3+p1CTK20g=="
+secured: "FPiuYifS1c5+bDCp3/FqFceungCIkTFqE4vM5HdMXrypBc4YhI9tNbVU9arJtbWpqzak2CY6ThrX17y2Ys7LvlvAMNV7PgTGM3AwOHV6TUbNXBnHR+RQ6ioF2GvFtxkXa0hOiZGByOszMw/qhe5tCERWDcRHhutOKoYpqJBJL0vakWE9vJgu/bMBRGLZp2JFGeeMw1Xk0rriR73CDav1UxKchs84bQRyE/n0GEN+lDVePOweYt0lcYSIZKtsn1j0WgdX1y+vIpUP1fvGH9as7y+f2GYJpM2E8jnX7lGqYA/OF4PcFJQwEP9VkGTyu8xA1/2O7T6Fznqe7DclS7wOZheZmxP/B/25upRvqHYsT4g=;s4MMV7V++PtQmIifRef5cQ=="
 ---
 

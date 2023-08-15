@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "This Showdown Between Humans and Chatbots Could Keep You Safe From Bad AI"
+    excerpt: "She has noticed when using chatbots for class research that they sometimes provide inaccurate information. Guardado, a Black woman, says she uses AI for lots of things, but errors like that and incidents where photo apps tried to lighten her skin or ..."
+    publishedDateTime: 2023-08-14T23:57:00Z
+    webUrl: "https://www.wired.com/story/showdown-humans-chatbots-defcon/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 68
+    images:
+      - url: "https://media.wired.com/photos/64da6a0c0a0f9ed43773f3db/191:100/w_1280,c_limit/Hackers-Take-A-Historic-Swing-at-Harmful-AI-Security-GettyImages-1170285788.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "The Best AI Chatbots for 2023"
     excerpt: "ChatGPT started the AI chatbot revolution, but there are compelling alternatives to help you get more out of these new, conversation-based tools. We've tested them to help you determine which one is right for you."
     publishedDateTime: 2023-08-14T15:21:00Z
@@ -132,20 +146,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/08/ChatGPT_image-e1692002280431.jpg"
         width: 1188
         height: 669
-        isCached: true
-  - title: "Tel Aviv Hospital First Ever To Use AI Intake Including ChatGPT"
-    excerpt: "Sourasky is the first hospital in the world to integrate an AI chatbot into its triage process, using the tool from Israeli startup Kahun"
-    publishedDateTime: 2023-08-10T06:10:00Z
-    webUrl: "https://nocamels.com/2023/08/tel-aviv-hospital-first-ever-to-use-ai-including-chatgpt-triage/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/08/ic-edited.jpg"
-        width: 1000
-        height: 562
         isCached: true
   - title: "ChatGPT on Campus: Law Schools Wrestle With Emerging AI Tools"
     excerpt: "Law schools are weighing how to integrate rapidly improving artificial intelligence into the classroom as the legal industry grapples with the technology."

@@ -1,62 +1,32 @@
 ---
 category: news
 title: "Foundations seek to advance AI for good — and also protect the world from its threats"
-excerpt: "While technology experts sound the alarm on the pace of artificial intelligence development, philanthropists — including long-established foundations and tech billionaires — have been responding with"
-publishedDateTime: 2023-08-11T15:42:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394"
-webUrl: "https://abcnews.go.com/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394"
+excerpt: "Gebru launched the Distributed Artificial Intelligence Research Institute in 2021 to ... Open Philanthropy, a foundation started by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna ..."
+publishedDateTime: 2023-08-11T15:38:00Z
+originalUrl: "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/"
+webUrl: "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/"
+ampWebUrl: "https://www.wral.com/amp/20995889/"
+cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20995889/"
 type: article
 quality: 52
-heat: 82
-published: true
+heat: 62
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: WRAL
+  domain: wral.com
 
 topics:
-  - AI Ethics
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://wwwcache.wral.com/asset/news/technology/2023/08/11/20995890/64d654fe5e5bb-media_8df39a03c1594324b12a740ee34ad835-DMID1-5zvvi6s6q-640x480.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
-  - title: "Meet the artists reclaiming AI from big tech – with the help of cats, bees and drag queens"
-    excerpt: "AI’s potential is huge and terrifying. But a new generation of artists is starting to find new uses for the technology, as well showing its many limitations"
-    publishedDateTime: 2023-08-10T06:01:00Z
-    webUrl: "https://www.theguardian.com/artanddesign/2023/aug/10/artists-using-artificial-intelligence-science-gallery"
-    ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/aug/10/artists-using-artificial-intelligence-science-gallery"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/aug/10/artists-using-artificial-intelligence-science-gallery"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 47
-    images:
-      - url: "https://i.guim.co.uk/img/media/69a5b094811888463d7887484571cbfcea3143fc/0_97_5827_3902/master/5827.jpg?width=620&quality=85&auto=format&fit=max&s=6953b8417ad2a20b1234ffc20b9f6e6b"
-        width: 620
-        height: 415
-        isCached: true
-  - title: "Gates Foundation funds 50 AI projects to improve health equity"
-    excerpt: "The Bill and Melinda Gates Foundation has selected about 50 grant recipients developing global health and development solutions for their communities"
-    publishedDateTime: 2023-08-10T13:15:00Z
-    webUrl: "https://businessday.ng/news/article/gates-foundation-funds-50-ai-projects-to-improve-health-equity/"
-    type: article
-    provider:
-      name: businessday
-      domain: businessday.ng
-    quality: 39
-    images:
-      - url: "https://149520306.v2.pressablecdn.com/wp-content/uploads/2023/02/Artificial-intelligence.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Foundations seek to advance AI for good — and also protect the world from its threats"
     excerpt: "While technology experts sound the alarm on the pace of artificial intelligence development, philanthropists — including long-established foundations and tech billionaires — have been responding with an uptick in grants."
     publishedDateTime: 2023-08-11T19:32:00Z
@@ -67,6 +37,6 @@ related:
       domain: clickondetroit.com
     quality: 12
 
-secured: "nog7mz3gusW8REGnxmjJHkDwhRelgNvSQhOfHUv4+PQjMqmo6/NOmzbeoCB8AXSSGLSJYVA5B2OGrWsviDg8dxH9kVQiE0xIXhizkXVz/42h0OUgp3lkYNzz2GtmRizNhT7cAT/0JCMpxfHgpUW2sUPd3NvV/eK/9EsD7eOP5VurnJOcOcVMnmn6MAzOu8q4Wm2/gIQCCU8LTfc61N7QbutjjtGxcyUfy49esWC2GpaUVlwJGUA7I2yzrlPYUn6dnr2gpx345qRkdO34N9B45usQy+cMDxnbQq+swSnL+6pTTzVwJr1LMqOcdFpQxkuk4UUwCZ9L295r8b1zmUSa6P1mB61BqxX3/GYpxiVr+qWY0B466cIwqbfP0t3Ne+YIfyodwbUPX0JWB0t5YcJWUsKhjrjo3coQRn9LS4ADiru0XKoJF9kZutSWaDLt/LZUe8aefOX6Wz1cXfBVXgmWp+5l+F2nZXjmTJumCraC8tNpsM/Yko7dyodyHLS+3LLXIBaPPyL8N1ZiTMaKS/ZaZA==;QKDtNFKSGZnd2Ki50Pb0vw=="
+secured: "Rm5nEUd9AHGseBN1yPArB38TdSdpWAqJwI7XXizFvH3I10hDN0ofAcUrDeJLRz3jfnA+QCLytOdu4ghTMoWB4Z1EHi77FgQO6xaq5iFhSm7jy4YvNq0AGB99OFOTCzCcdrnE8CTTUSSOdXRxyVCUBHDkbP9J15nIKHm+Er6d/OPztzyhz/MtyhRpLStfsU47uc0k3Hc9P1++rPdZ8CYJKjmqUpX4foVMB/ia5RO09bskH1c8Ca05wq304G6M1QjF7O+9JW1xWT4eKqijlckSgv7pnPVVRPFDF6Wx5AuWW5ttM9wDNtlsH+hehi1dsp5nmK/QbBOOA0tZ5KS+FClzOUHdYQWrj682UhkFa32cm2s=;6981ArNIQ15ZJw8HNN6RfQ=="
 ---
 

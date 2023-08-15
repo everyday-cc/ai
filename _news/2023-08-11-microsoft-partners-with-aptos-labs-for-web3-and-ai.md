@@ -68,20 +68,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 66
-  - title: "Microsoft, Aptos Labs team up to build new blockchain AI tools"
-    excerpt: "Microsoft predicts that AI will be infused into web3 solutions in a larger scale in the \"coming months and years.\""
-    publishedDateTime: 2023-08-10T06:56:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-aptos-labs-team-build-new-blockchain-ai-tools-1718393"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 54
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1716336/microsoft.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "ABB and Microsoft collaborate to bring generative AI to industrial applications"
     excerpt: "Expanding on their long-standing partnership, ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability™ Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
     publishedDateTime: 2023-08-14T06:32:00Z

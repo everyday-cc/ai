@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/top-artificial-intelligence-stories-zoom-disne
 webUrl: "https://gizmodo.com/top-artificial-intelligence-stories-zoom-disney-google-1850723427"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,31 +22,29 @@ topics:
   - AI
 
 related:
-  - title: "Investing in Artificial Intelligence Stocks: Things You Have to Know"
-    excerpt: "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have."
-    publishedDateTime: 2023-08-10T05:15:00Z
-    webUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html"
-    ampWebUrl: "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html"
+  - title: "AI, self-tapes and weekends: Here are the stakes of the Hollywood strikes"
+    excerpt: "Writers and actors on strike are forcing Hollywood to address deep-seated issues. The latest from the protests and what's at stake on."
+    publishedDateTime: 2023-08-10T09:00:00Z
+    webUrl: "https://www.aol.com/news/ai-self-tapes-weekends-stakes-090000123.html"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
+      name: AOL
+      domain: aol.com
+    quality: 36
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG"
-        width: 600
-        height: 338
+      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/b772496cdc74d162adf0b2c580b0165d"
+        width: 840
+        height: 560
         isCached: true
-  - title: "Investing 'Summer Vibes' Drives Interest in Cruise and AI Stocks, According to New Apex Q2 2023 Investor Study"
-    excerpt: "The ANIO report analyzes investor data who trade through introducing brokers on the Apex Clearing Platform - across more than 1.3m Gen Z accounts and 5.6m accounts held by Millennials, Gen Z and Boomers, calculated from April 1 - June 30, 2023."
-    publishedDateTime: 2023-08-10T15:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/10/9862721.htm"
+  - title: "NFL mascots were recreated by AI, and they'll give you nightmares"
+    excerpt: "Now AI — artificial intelligence for those who aren't hip to the times — has recreated all 32 mascots of the NFL, and they're terrifying. The graphics were created by the guys over at betonline.ag again using the image tool \"Midjourney\" for all 32 teams."
+    publishedDateTime: 2023-08-14T16:01:00Z
+    webUrl: "https://www.chron.com/news/article/nfl-mascots-ai-nightmares-18294963.php"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
 secured: "EMSlMmAULhr6B1LwgoDy0kgzaEDj0Oo6c/kcTIx0DX80Lui/OjYJEngTs26lKW7KtZ1pf0P/KiEBBBYY6Y74zqhpplU5IEN80xYgMGl3w5Vs6GI/Ov151gaXjzEd49MqOmhf5eCeAIRBnhI1UE2CgvYZA6lIVjnojwZhxrrX23iiI1Ow+3SAI2w6sgbFS/XXgPZrP8oswZk03Dcxc7+65qL8eCbTe19QsRLSBVq8h/iedXRD9adkgl4HuzDqiQKgWkzyAQ4vENQW0WfuEumk/dFZVsg3Pr35agapkMc4Cyyip8OiFbuqEv8hFLECcWs0Cyj6R1mUD9u49RqgIEutjpb6jg9faGfsL96OpcKMZf236Q2VMLj2LBlvkV0Ezxu5ehy9bZ1jY7spQ4274484MUVvubwxpPZJpOXk+ka7fGraZQb9qrIxPc2gh4HCQgkVbqDXUi7rVKVGAt+a1wbZYpOr3nz2RjL0y2/R75oaXnOesoV+o+lQcMEVF+jJie+rr7kdkaHNR6MXTtvQQQzGvQ==;kvBWtwz9ucrsoHgU9rGmrQ=="
 ---

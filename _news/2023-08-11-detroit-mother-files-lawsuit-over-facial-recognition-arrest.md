@@ -141,6 +141,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Detroit police changing facial-recognition policy after pregnant woman says she was wrongly charged"
+    excerpt: "The Detroit police chief says he’s setting new policies on the use of facial-recognition technology DETROIT -- The Detroit police chief said he's setting new policies on the use of facial ..."
+    publishedDateTime: 2023-08-12T21:04:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173041"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173041"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173041"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 30
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_3ed0bff9e8d2e87a5f8fed690abbd870_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Detroit Police Chief says faulty police work, not facial recognition, to blame for false arrest"
     excerpt: "At a Wednesday press conference, Chief James White insisted that Porcha Woodruff's wrongful arrest wasn’t a case of botched facial recognition. Instead, he blamed investigators for using improper procedures,"
     publishedDateTime: 2023-08-10T10:53:00Z

@@ -1,21 +1,31 @@
 ---
 category: news
-title: "Birmingham Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
-excerpt: "BIRMINGHAM, Ala., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Protective Life Corporation in Birmingham. Applications for the no-cost bootcamp are closing Sept. 8!"
-publishedDateTime: 2023-08-14T21:24:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/08/14/9864238.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/08/14/9864238.htm"
+title: "Birmingham Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Protective Life Corporation in Birmingham."
+publishedDateTime: 2023-08-14T21:17:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/g33848503/birmingham-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/g33848503/birmingham-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-"
+ampWebUrl: "https://www.benzinga.com/amp/content/33848503"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33848503"
 type: article
-quality: 0
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI in Autos
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Mountain View Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
@@ -31,6 +41,15 @@ related:
     excerpt: "MIAMI, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Miami Dade College in Miami. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-11T18:42:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon-1032547651"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+    excerpt: "MIAMI, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Miami Dade College (Wolfson Campus) in Miami. Applications for the no-cost bootcamp are closing soon!"
+    publishedDateTime: 2023-08-14T22:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon-1032552838"
     type: article
     provider:
       name: Business Insider
@@ -175,6 +194,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
+  - title: "Twin Cities Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+    excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Strategic Education, Inc. in the Twin"
+    publishedDateTime: 2023-08-14T18:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33841844/twin-cities-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33841844"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33841844"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "White Marsh Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "WHITE MARSH, Md., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Strategic Education, Inc. in White Marsh. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-14T19:01:00Z
@@ -308,16 +343,7 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
-  - title: "Twin Cities Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
-    excerpt: "TWIN CITIES, Minn., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Strategic Education, Inc. in the Twin Cities. Applications for the no-cost bootcamp are closing soon!"
-    publishedDateTime: 2023-08-14T19:15:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/14/9864132.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
-secured: "iBgpi+sTXX2zq0T0A5U1urrtM79ospuXvTMGWoQA+XCr8vxp/pXBymksnBvoNYRYePzl58Ua6NOgpPLHpzJZMYs/lDM+Wh9p+6umJWeliSdWBxJhEvagz6IjaAoh3J5Q20TbKyCPKPVeEJebvJEKl9OY8gYnwry/bAMJhH6QD+Wexe8BWtF2/qg84sR8RcXkQumCZ8PpMvk/SLUP1bLkNLJZLmELeu7J29SiInbD+UTujWNLA6QasNo6xa3xZ+rY6HTMlQIBROiDweKplWeJimmthuM05KJsM1q+FJTgLkxGh2nkZ5DTKpGWq05/AMVJNsyuOe8iRJeTwGGed41iVwEiSC8N17t7e/zX333HHyM=;G8L82iU/as+FzcUFzcw8Yg=="
+secured: "79fT2DuJmNpMfK3qiUFM0EQ7VlABDltEK4VuiBU0owcvaz4aa9tPnaHEdfCY6lG7XMXFICPqiuLHse2PGl2y3Kk4S5Mu3rdBk83o1Fhjnk6nwv3HUp7tJ36/JgUA4VyXpKrgR1bmOBnjBCb6dCpdSBaLPo7IffqxUIeYRf1umCuIkl2u63NFl8dGcGCmq+3qhXfacApl0q8IMcdo4pXssS9wZ1vfcxiS6Q0LRYq8PvU0W+BAY9elshUeEvzAgkoypDqYvAc/ELAhYKzg+C/4qdp0IZ0lUKPgzEzHY8iBotbKtI5xEA/rwCPsqjyf8x3+ZZMIA+eM2k8mcqEewEWC5nnGVh4GRXEqhrFWSeIvAfg=;7FuLwrv3r6JpM1DrniVoPQ=="
 ---
 

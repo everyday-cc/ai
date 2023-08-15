@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/how-new-ai-demands-are
 webUrl: "https://venturebeat.com/data-infrastructure/how-new-ai-demands-are-fueling-the-data-center-industry-in-the-post-cloud-era/"
 type: article
 quality: 64
-heat: 64
+heat: 66
 published: false
 
 provider:

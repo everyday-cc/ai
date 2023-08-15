@@ -9,7 +9,7 @@ ampWebUrl: "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energ
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 146
 published: true
 
 provider:

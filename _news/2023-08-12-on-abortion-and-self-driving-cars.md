@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring the Intriguing Robotics Technology Behind Self-Driving Cars"
-    excerpt: "Welcome to the forefront of transportation innovation! Self-driving cars have swiftly become a captivating marvel of our era, revolutionizing our perception of commuting and road navigation. But have you ever pondered the technology powering their sleek exteriors?"
-    publishedDateTime: 2023-08-11T08:52:00Z
-    webUrl: "https://techbullion.com/exploring-the-intriguing-robotics-technology-behind-self-driving-cars/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 56
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-11T095151.549.png"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Researchers use AI to determine drivers health and mental state in self-driving cars"
     excerpt: "Researchers at Western University are partnering with Mitacs Globalink to advance technology in self-driving cars by using artificial intelligence (AI)."
     publishedDateTime: 2023-08-10T20:53:00Z
@@ -55,86 +41,21 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "University of Illinois developing 'Star Wars'-inspired self-driving wheelchair"
-    excerpt: "For their latest life-changing invention, University of Illinois researchers took inspiration from Star Wars. They've developed a hands-free wheelchair, that could eventually operate like a self-driving car."
-    publishedDateTime: 2023-08-14T02:44:00Z
-    webUrl: "https://www.fox32chicago.com/news/university-of-illinois-developing-star-wars-inspired-self-driving-wheelchair"
-    ampWebUrl: "https://www.fox32chicago.com/news/university-of-illinois-developing-star-wars-inspired-self-driving-wheelchair.amp"
-    cdnAmpWebUrl: "https://www-fox32chicago-com.cdn.ampproject.org/c/s/www.fox32chicago.com/news/university-of-illinois-developing-star-wars-inspired-self-driving-wheelchair.amp"
+  - title: "‘Do you need me to take over’: Passengers get stuck in a self-driving car"
+    excerpt: "A popular podcast duo confirmed this fear while documenting their adventure of getting stuck in a self-driving car."
+    publishedDateTime: 2023-08-11T01:54:00Z
+    webUrl: "https://www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/"
+    ampWebUrl: "https://www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/unclick/passengers-stuck-in-self-driving-car/?amp"
     type: article
     provider:
-      name: FOX 32
-      domain: fox32chicago.com
-    quality: 35
-  - title: "Global Self-Driving Taxi Market Report, 2023-2030"
-    excerpt: "Self-Driving Taxi Market 2023 Will Give Report Analysis that rapidly arising as one of the [Automobile & Transportation] Sector in the business, by T"
-    publishedDateTime: 2023-08-12T05:20:00Z
-    webUrl: "https://menafn.com/1106841342/Global-Self-Driving-Taxi-Market-Report-2023-2030"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 43
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?851084"
-        width: 368
-        height: 249
-        isCached: true
-  - title: "People having sex in self-driving taxis: Report"
-    excerpt: "San Francisco: As the popularity of autonomous vehicles continues to surge in San Francisco, a growing number of riders are wondering just how far they can push the vehicles’ capabilities, and to test that they are having sex in self-driving taxis."
-    publishedDateTime: 2023-08-12T16:46:00Z
-    webUrl: "https://telanganatoday.com/people-having-sex-in-self-driving-taxis-report"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 24
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/self-driving-taxis.jpg"
-        width: 1280
-        height: 750
-        isCached: true
-  - title: "Calif. opens floodgates for self-driving cars"
-    excerpt: "Cars without drivers have become a common sight on San Francisco's winding, hilly and often foggy streets. Thursday's vote stripped most limitations on operating and charging for rides, essentially creating more ride-hailing services like Uber or Lyft — just without the drivers."
-    publishedDateTime: 2023-08-13T07:45:00Z
-    webUrl: "https://www.stltoday.com/eedition/page-a11/page_3cfc30ba-cee2-5b16-8bb6-fd870b645391.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/eedition/4/ae/4aec74df-508b-5d07-836a-2da290121a70/64d7ebd470394.fullsize-img.jpg"
-        width: 792
-        height: 1692
-        isCached: true
-  - title: "A New Era in Environmental Monitoring: Uniting Satellite Data Analytics and Artificial Intelligence"
-    excerpt: "Welcome to a pioneering era in environmental monitoring, where state-of-the-art technology converges with our pressing demand for sustainable solutions. Today, we delve into a groundbreaking innovation that harnesses the potential of satellite data analytics empowered by artificial intelligence (AI)."
-    publishedDateTime: 2023-08-11T08:10:00Z
-    webUrl: "https://techbullion.com/a-new-era-in-environmental-monitoring-uniting-satellite-data-analytics-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 23
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-11T090907.168.png"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "From Science Fiction to Reality: Exploring the Cutting-Edge World of Self-Driving Cars"
-    excerpt: "Prepare to embark on a journey into the future as we delve deeply into the fascinating realm of self-driving cars. Once confined to the pages of science fiction, these state-of-the-art vehicles are now a tangible reality that stands to revolutionize transportation as we know it."
-    publishedDateTime: 2023-08-11T08:34:00Z
-    webUrl: "https://techbullion.com/from-science-fiction-to-reality-exploring-the-cutting-edge-world-of-self-driving-cars/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 16
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-11T093340.909.png"
-        width: 800
-        height: 400
+      - url: "https://uploads.dailydot.com/2023/08/stuck-on-self-driving-car.jpg?auto=compress&fm=pjpg"
+        width: 2000
+        height: 1000
         isCached: true
   - title: "Cruise now testing self-driving cars in Atlanta"
     excerpt: "For the moment, there's still a driver at the wheel, but San Francisco-based Cruise has begun testing its self-driving vehicles in Atlanta."

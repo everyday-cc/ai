@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/newyorklawjournal/2023/08/14/prenups-recent-co
 webUrl: "https://www.law.com/newyorklawjournal/2023/08/14/prenups-recent-controversies-over-plans-for-perpetuity/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Artificial Intelligence Uncovers the Best Drug Combos To Prevent COVID Recurrence"
+    excerpt: "Using machine learning to improve living. A groundbreaking machine-learning study has revealed the optimal drug combinations to prevent the recurrence of COVID-19 after initial infection. Interestingly,"
+    publishedDateTime: 2023-08-14T23:35:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-uncovers-the-best-drug-combos-to-prevent-covid-recurrence/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 12
 
 secured: "6++S7K3E25fKgBOTd61opWCRGC0pS7pbxu2hTlTqmCh5G/K4X8zkB6YpaUU9ieVSRPuBpUoj3cysdKDSeyWRQa0YgLxJ+6/2PZQ/WG/Nfblh++/K3x45iShpXA4iDXdIGyegzVEyIqZ3Alc73PvBDWvC/uIp19IQ6D+tLt/6fKqoh30U49K8IRW7W2b+96fzs4BjqSEuWqSNSU67lda0tGio852Dax+MTDBjZGiAyNTF4r28TdRMxA4Pzt3ztiQmPONgroBcYBvVtT5uni06YbJUiEiTjrwu9JgFsERf1JI++ybgwE8740ZZsw117ZLG6cTqi1folpTSddwMrAuWUKSr4uIMc1+qsRySBU1X4OhVDkIJ4XavaTArLdSDSBd1u2ftmDXMf6FX4wdKCVQaA48BmcqCZ9ZrNTjUXxqxkV6jiDQrkfmFf81kl1OZslqvpVeAdTwHJ1H1D4ogYvex1p8sx59jNv9PIMOzQ+cSYy/RU9A7Cuu+0pYGzNXUjoO+IFzo+WmIdlhXVc+me0rpeA==;kDnO1jm+McyayO4gJcQV8w=="
 ---

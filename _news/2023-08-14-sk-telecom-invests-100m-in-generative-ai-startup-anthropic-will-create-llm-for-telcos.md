@@ -173,6 +173,15 @@ related:
         width: 1024
         height: 676
         isCached: true
+  - title: "How Anthropic's funding stacks up against other Bay Area generative AI startups"
+    excerpt: "The new capital brings Anthropic's total funding to at least $1.35 billion, and the startup was previously valued at $5 billion in May. OpenAI remains the top-funded generative AI startup in the Bay Area, and globally, with at least $12 billion in ..."
+    publishedDateTime: 2023-08-14T22:49:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/08/14/anthropic-generative-ai-new-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
 
 secured: "akBNsJEB503NPFa8JkWJ1pwGDMw/hXkx8VSRtOEVDW002wyyZS2V52XJSSC9nxlp3rfP96kCPHFFhEc+CJcBgTvLCb5djZPGGQAqjfVwYdwtVX7b1q2ibP99bJnRWD/Qgf9uhVudivdg/5hdF8lzOf/w59AGeDE2URQ1yn7GXIZaQSMw7eGeygAuQvdLSXQEQUfyfx/paIv4cZCDqxO45uRS1nd9DVYbe8ZeKMCsuULh3/6vMW5KxA/Ns3NodQh4Ay8vjoq16cdgfdogPtOox+TAWSBVNT4AovaH95OoIXgt6bIqdfJ+V2TJ8QFJZWPCc8Klvr43XqYFDHc+0w26VCLJsKuoov5uzQOB6WQU5SubwfcIqnhDcRMJm+rckgIpt1ItHAH2wlQ4yEK9OAEGr0gd7y9zeY7l/hGNWbMZDZFmNRKXLthHupVAikvMGZgB1ZcUSuZt7/imxBjIXqkqrTofE9NaSB+J00wQmgVtmiAgZ06CA+5jSKCPOmUdJ/SvR2JqAsDI+dOyeCAMf+zGXw==;Y+ahh/6twBDuC4sPy/khxA=="
 ---

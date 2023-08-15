@@ -55,38 +55,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Nvidia’s new AI chip to offer boon for Korean chip giants’ HBM business"
-    excerpt: "Nvidia’s newest AI chip utilizing the world’s first HBM3e processor is expected to boost growth for SK hynix and Samsung Electronics, the two chipmakers dominating the still-nascent High Bandwidth Memory market. Nvidia, a leading producer of GPUs based ..."
-    publishedDateTime: 2023-08-10T05:50:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20230810000504"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230810000504"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230810000504"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 74
-    images:
-      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F08%2F10%2F20230810000490_0.jpg"
-        width: 630
-        height: 354
-        isCached: true
-  - title: "Big Money For Big Tech: China has ordered $5bn worth of AI chips from NVIDIA, despite US ban"
-    excerpt: "Despite several sanctions on China, several tech companies in China are lining up to buy NVIDIA's AI Chips at a premium. The Chinese tech industry has placed an order worth $5 billion with NVIDIA for"
-    publishedDateTime: 2023-08-10T06:50:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/big-money-for-big-tech-china-has-ordered-5-billion-dollars-worth-of-ai-chips-from-nvidia-despite-us-ban-12980592.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/big-money-for-big-tech-china-has-ordered-5-billion-dollars-worth-of-ai-chips-from-nvidia-despite-us-ban-12980592.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/big-money-for-big-tech-china-has-ordered-5-billion-dollars-worth-of-ai-chips-from-nvidia-despite-us-ban-12980592.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 65
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Big-Money-For-Big-Tech-China-has-ordered-5bn-worth-of-AI-chips-from-NVIDIA-despite-US-ban.jpg"
-        width: 640
-        height: 362
-        isCached: true
   - title: "AI software startup Modular aims to boost its series A contest against Nvidia"
     excerpt: "AI startup Modular Inc. is reportedly in talks with investors regarding a large funding round that would value the company at approximately USD 600 million."
     publishedDateTime: 2023-08-14T13:42:00Z
