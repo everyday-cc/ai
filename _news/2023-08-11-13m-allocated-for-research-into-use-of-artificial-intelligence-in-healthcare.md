@@ -49,15 +49,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "£13m allocated for research into use of artificial intelligence in healthcare"
-    excerpt: "The Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare. The move, announced by Technology Secretary ..."
-    publishedDateTime: 2023-08-10T08:28:00Z
-    webUrl: "https://www.aol.co.uk/news/13m-allocated-research-artificial-intelligence-230100126.html"
-    type: article
-    provider:
-      name: AOL.co.uk
-      domain: aol.co.uk
-    quality: 31
 
 secured: "aj/PlnJBDUqjpO4o1FboFsZRPhFMuP1BHoh9+BGI+/94jz0IR0D09gHOFHPIxgJiwT0cxOdBoYZVNiaNnpX0kUzOh2pyLx+//AA/21gvSPb7aIls26VuCPWlTTidpZj73J3nLtqNwXOcLZEzGAOjhP8t5KhEp/IDssxuGkKdGBSq3gqk7iqI7TDjt9DcuuijDbg25zTvS7lfFu6woeF2RP2xEAZ7AN2l36XaOaQKdsu1/SD/RbZTgwE3iWx4UFTtp1SIIRth2LsKSVXUSyyJ2IkCI+2o7e78jOh1prPugYiyFkdLgd3yok6sFdbS2swfqyWKV9qd65c0M8LLcEfqJAprcR7bLu2F/h2k3/HtvaI=;eGCVpDQYIu/ZRCq2mtzJRg=="
 ---

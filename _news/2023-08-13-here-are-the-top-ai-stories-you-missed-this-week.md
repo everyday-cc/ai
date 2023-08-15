@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "AI, self-tapes and weekends: Here are the stakes of the Hollywood strikes"
-    excerpt: "Writers and actors on strike are forcing Hollywood to address deep-seated issues. The latest from the protests and what's at stake on."
-    publishedDateTime: 2023-08-10T09:00:00Z
-    webUrl: "https://www.aol.com/news/ai-self-tapes-weekends-stakes-090000123.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 36
-    images:
-      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/b772496cdc74d162adf0b2c580b0165d"
-        width: 840
-        height: 560
-        isCached: true
   - title: "NFL mascots were recreated by AI, and they'll give you nightmares"
     excerpt: "Now AI — artificial intelligence for those who aren't hip to the times — has recreated all 32 mascots of the NFL, and they're terrifying. The graphics were created by the guys over at betonline.ag again using the image tool \"Midjourney\" for all 32 teams."
     publishedDateTime: 2023-08-14T16:01:00Z

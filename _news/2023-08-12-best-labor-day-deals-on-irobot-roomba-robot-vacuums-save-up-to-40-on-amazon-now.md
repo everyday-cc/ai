@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-labor-day-deals-irobot-r
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-labor-day-deals-irobot-roomba-2023-08-12/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "This week's robot vacuum deals include almost every 2022 and 2023 Roborock on sale"
-    excerpt: "Compared to one of our previous-favorite hybrids, the S7, the S8 introduces AI-powered ... enabled robot vacuums can be synced with a smartphone app to control scheduling, manual start, and ..."
-    publishedDateTime: 2023-08-10T09:00:00Z
-    webUrl: "https://mashable.com/deals/best-robot-vacuum-deals"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 63
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/00Mn3035vqXT3udlVYKH7UG/hero-image.fill.size_1200x675.v1638483738.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "cWvBleYJ+dgjJ3WjEyA9o2A6Nh+ZG2pJIzHnZasyVaQI5SddRj+s7p46BcBWWXssbDCDiVSq0hh3z0cgKxXOceDDaAzAdXXKJ9LqRR8b3keQVDkYhscaWOZmIivzrMDea/MevtSRWXbDPSHRd1DXXTMQeQ4mYGkJ4bfG6Z2SfSvDoXwImzh2p5SZxHjMSc4Hs7zWr64VLICsVWN6V+BZ//18q2/DoB/0r8h5sxKOM5gNVA3ebNy86qPQ8cZTioH2mgd9zsvEfmO9J+ILmY+6Qt1JRJkkeUxMk3VywH/5656L+za+0xPebuZBATjV7VNVtq2g3OQSFSYts5s0MuOuRofR5B1IXXIg+R4MWMk3ZMs=;Kl4AL4iLVt7zIObkPXgRKg=="
 ---

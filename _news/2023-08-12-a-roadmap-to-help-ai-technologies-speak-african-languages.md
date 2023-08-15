@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "American Airlines Uses Google AI to Map Out Environmentally Friendly Flight Paths"
+    excerpt: "Google Research and AA join forces to create flight paths that produce fewer contrails, the thin white lines you often see behind planes. Early results are promising."
+    publishedDateTime: 2023-08-10T21:56:00Z
+    webUrl: "https://www.pcmag.com/news/american-airlines-uses-google-ai-to-map-out-environmentally-friendly-flight"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 62
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04AAbAeVeJinOoug3fEFQcy-1.fit_lim.size_1200x630.v1691700084.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "A roadmap to help AI technologies speak African languages"
     excerpt: "From text-generating ChatGPT to voice-activated Siri, artificial intelligence-powered tools are designed to aid our everyday life—as long as you speak a language they support. These technologies are out of reach for billions of people who don't use English,"
     publishedDateTime: 2023-08-11T15:00:00Z
@@ -39,33 +53,20 @@ related:
         width: 1920
         height: 1238
         isCached: true
-  - title: "AI programs often exclude African languages. These researchers have a plan to fix that."
-    excerpt: "Over 2,000 languages originate in Africa, but natural language processing programs support very few of them. By Andrew Paul | Published Aug 11, 2023 11:00 AM EDT There are over 7,000 languages throughout the world, nearly half of which are considered ..."
-    publishedDateTime: 2023-08-11T15:00:00Z
-    webUrl: "https://www.popsci.com/technology/african-language-ai-bias/"
-    ampWebUrl: "https://www.popsci.com/technology/african-language-ai-bias/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/african-language-ai-bias/?amp"
+  - title: "Americans' level of concern about healthcare AI, by generation"
+    excerpt: "Older Americans are more concerned about AI in healthcare than younger generations, according to new survey results. 77% of Baby Boomers and 70% of Gen Xers are concerned."
+    publishedDateTime: 2023-08-11T15:12:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/americans-level-of-concern-about-healthcare-ai-by-generation.html"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 51
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://www.popsci.com/uploads/2023/08/11/Depositphotos_191735032_L.jpg?auto=webp"
-        width: 2000
-        height: 1125
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "African perspectives: the role of artificial intelligence in journalism"
-    excerpt: "In an interview with Global Voices, African journalists shared their views on the use of artificial intelligence (AI) in journalism on this continent."
-    publishedDateTime: 2023-08-10T07:53:00Z
-    webUrl: "https://globalvoices.org/2023/08/10/african-perspectives-the-role-of-artificial-intelligence-in-journalism/"
-    ampWebUrl: "https://globalvoices.org/2023/08/10/african-perspectives-the-role-of-artificial-intelligence-in-journalism/amp/"
-    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2023/08/10/african-perspectives-the-role-of-artificial-intelligence-in-journalism/amp/"
-    type: article
-    provider:
-      name: Global Voices Online
-      domain: globalvoices.org
-    quality: 37
 
 secured: "WdJ2tKBTubFKN1ThOUMbx43FPUDQx1qJZqfZfychO6jNbsO6Zpj/oeOJm8KIHN9pKeifDDdyJumL89HDEmCglog2rzI9VVddOtkvfrsSQ4MhnuR4JHQH1ox9ezx1AIMj3iK+10G3fqW9nMa+tdTD/0r1zljGZbsSTGxLIWWF+W/klhkqe4rbdRGxGL+YCPY8Ri2aicHWEinTHTd/2NKU0vT0Mi2vO9bExpmL1JDVfEhuJinunQxX97MEeOdedULjBhuRfFgc+MCXJ+j5ISqdi+mZNPLYdIQ2QtSQLeDyNa5dyvXNPFpG5Tszn6qqaEZVXkrdhpxeuDAVoGtj09InHqn29VEXetPlm7hIL4iujXY=;UoqIRutW2Wm73jsAdRrArQ=="
 ---

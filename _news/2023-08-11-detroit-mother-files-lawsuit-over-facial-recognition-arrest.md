@@ -171,15 +171,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Detroit alters facial recognition tech policy after lawsuit filed by pregnant woman"
-    excerpt: "The Detroit Police Department will be strengthening its photo lineup and facial recognition technology policies after \"shoddy\" police work led to a February wrongful arrest of a woman who was ..."
-    publishedDateTime: 2023-08-10T08:34:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2023/08/09/facial-recognition-technology-policy-wrongful-arrest/70561994007/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 13
   - title: "How Flawed Facial Recognition Technology Led to Arrest of 8-Months-Pregnant Woman on False Carjacking Charge"
     excerpt: "The case against her began with faulty facial recognition technology NIC ANTAYA/The New York Times/Redux When six Detroit police officers knocked on her door one morning this February and told ..."
     publishedDateTime: 2023-08-11T01:17:00Z

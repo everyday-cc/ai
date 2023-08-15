@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tourists in fast lane with driverless transport"
+    excerpt: "Driverless vehicles have become tourist attractions in the city, providing smart and convenient rides to tourists. Autonomous vehicles carrying people around Shanghai Haichang Ocean Park in the Pudong New Area started trial runs on Friday. Autonomous vending vehicles have been put into use on a trial basis at the same time."
+    publishedDateTime: 2023-08-12T10:54:00Z
+    webUrl: "https://www.shine.cn/news/metro/2308120651/"
+    type: article
+    provider:
+      name: SHINE
+      domain: shine.cn
+    quality: 39
+    images:
+      - url: "https://obj.shine.cn/files/2023/08/12/8cb4bc9e-5db3-41bc-ae4d-0e5b0c6cd8a8_0.jpg"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Self-driving cars block roads in San Francisco"
     excerpt: "A busy bar and restaurant area in San Francisco was brought to a standstill by malfunctioning self-driving taxis only a day after state regulators had approved"
     publishedDateTime: 2023-08-13T23:01:00Z
@@ -139,15 +153,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "Tourists in fast lane with driverless transport"
-    excerpt: "Driverless vehicles have become tourist attractions in the city, providing smart and convenient rides to tourists. Autonomous vehicles carrying people around Shanghai Haichang Ocean Park in the Pudong New Area started trial runs on Friday. Autonomous vending vehicles have been put into use on a trial basis at the same time."
-    publishedDateTime: 2023-08-12T02:57:00Z
-    webUrl: "https://www.msn.cn/zh-cn/news/other/tourists-in-fast-lane-with-driverless-transport/ar-AA1faI9H"
-    type: article
-    provider:
-      name: SHINE on MSN.com
-      domain: www.msn.cn
-    quality: 19
   - title: "Revolutionary Driverless 'Robotaxis' Poised to Transform Roadways"
     excerpt: "Whether you call them robot taxis, self-driving taxis, or driverless taxis, these autonomous vehicles are revolutionizing how we travel. Picture yourself summoning one of these high-tech wonders with a simple tap on your smartphone,"
     publishedDateTime: 2023-08-14T12:00:00Z

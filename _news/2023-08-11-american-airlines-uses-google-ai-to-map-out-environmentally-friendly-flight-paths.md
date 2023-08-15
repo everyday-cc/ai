@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/american-airlines-uses-google-ai-to-map
 webUrl: "https://www.pcmag.com/news/american-airlines-uses-google-ai-to-map-out-environmentally-friendly-flight"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: PC Magazine
@@ -28,36 +28,45 @@ images:
     isCached: true
 
 related:
-  - title: "Google brings AI to cloud-hosted development environments"
-    excerpt: "Project IDX combines Codey-powered AI assistance and templates for popular JavaScript frameworks in a cloud-hosted Linux VM. Google said support for Python, Go, and other languages is coming soon."
-    publishedDateTime: 2023-08-10T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.html"
-    ampWebUrl: "https://www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704630/google-brings-ai-to-cloud-hosted-development-environments.amp.html"
+  - title: "A roadmap to help AI technologies speak African languages"
+    excerpt: "From text-generating ChatGPT to voice-activated Siri, artificial intelligence-powered tools are designed to aid our everyday life—as long as you speak a language they support. These technologies are out of reach for billions of people who don't use English,"
+    publishedDateTime: 2023-08-11T15:00:00Z
+    webUrl: "https://phys.org/news/2023-08-roadmap-ai-technologies-african-languages.html"
+    ampWebUrl: "https://phys.org/news/2023-08-roadmap-ai-technologies-african-languages.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-roadmap-ai-technologies-african-languages.amp"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: Phys.org
+      domain: phys.org
+    quality: 59
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/28/18/hand-showing-laptop-computer-with-cloud-network-computer-connects-to-internet-server-service.jpgs1024x1024wisk20c3gwxkwlddsf00-lunwxyq6ke23tl1t853fplvz67cvm-100944020-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/african-language.jpg"
+        width: 1920
+        height: 1238
         isCached: true
-  - title: "Scientists leverage machine learning and AI to guide vaccine development"
-    excerpt: "From tackling homework challenges to drafting emails, people are discovering a vast array of applications for natural language processing tools like generative artificial intelligence (AI) engines."
-    publishedDateTime: 2023-08-11T20:35:00Z
-    webUrl: "https://www.news-medical.net/news/20230811/Scientists-leverage-machine-learning-and-AI-to-guide-vaccine-development.aspx"
+  - title: "Americans' level of concern about healthcare AI, by generation"
+    excerpt: "Older Americans are more concerned about AI in healthcare than younger generations, according to new survey results. 77% of Baby Boomers and 70% of Gen Xers are concerned."
+    publishedDateTime: 2023-08-11T15:12:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/americans-level-of-concern-about-healthcare-ai-by-generation.html"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 55
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/A_doctor_makes_a_vaccination_to_a_child-Yuganov_Konstantin_cdbf1b05417f45e89b8268af4858e1c9-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
+  - title: "A roadmap to help AI technologies speak African languages"
+    excerpt: "From text-generating ChatGPT to voice-activated Siri, artificial intelligence-powered tools are designed to aid our everyday life -- as long as you speak a language they support. These technologies are out of reach for billions of people who don't use English,"
+    publishedDateTime: 2023-08-11T18:51:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/08/230811115430.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "jm9yu9wl7wKN/Uzq17+2KgbLJyvFdlnyhbV4AANxYccQhAiccCcCJf7JxNu0Nch8u9wKlLhjkJi37dM5Df/g/lP6lRYl75eBx3ci+5X+ioU3uMaw+ueY4+GMcBAhqkQGRVfq1Lyacf9Qu+PvNwCwVtnu9tQIP16BWOq4PDdxmH3agIBGGDzQug2/T39kyBh/PllIkUUFkjFjEWSs28KXySTj7KXxbezkyajIfVUwabeILsTKDAwykPjZFXl8pcV75b80Lhos62NShL/7l0z+SmBYlUwvKc5kclT77JWbPc7+s6bJ07JV+fPfhpYaJgbLk1yqShKRcz/FrGQyvn2vOzvfY+zjgPs/1B31OhsY6gI=;QJjdvwlKIA06v5gQMRLdBw=="
 ---

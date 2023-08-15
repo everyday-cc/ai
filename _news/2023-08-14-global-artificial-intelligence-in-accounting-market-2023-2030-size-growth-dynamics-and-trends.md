@@ -39,20 +39,6 @@ related:
         width: 600
         height: 452
         isCached: true
-  - title: "Global Self-Driving Cars Market Share [2023-2030]"
-    excerpt: "Self-driving Cars Market 2023 Will Give Report Analysis that rapidly arising as one of the [Automobile & Transportation] Sector in the business, by T"
-    publishedDateTime: 2023-08-10T07:54:00Z
-    webUrl: "https://menafn.com/1106825044/Global-Self-Driving-Cars-Market-Share-2023-2030"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?812861"
-        width: 376
-        height: 250
-        isCached: true
 
 secured: "CFT4NWBHAoFUJF5KIdhUJ9JAY/i937EH41w8xnjc/XWLUFb51EnwbbbLhnDrbkRD6JRfxT43SYnI17VMkgfYk+XT/BEuhIV94LkXIpebK4Np8DH7Q/1zT405cd9Y0iNCAVxvlTawbzn3xqq1J21cu3zil56M4y0l7/2dHalXizK7mhjyma4aP7mUcoVybJ5rvs8SpY/hOO+CfrfSRdapx64X/sb4R6LjI9trxnaY2QnO+dqL6wiwaetqn58C/NFMhrGH+s94FhoMvrWHeN5rhbmW/BltELYZ4QpUGAN0Yu91JFmxDiL4NgI9sWtmUlKvJtqvYb7Frf3sOGrA0smmh3jrq0vqelIcO7M6AMEq1jHU2OlhWDRXHfBEfgzEYj2A/uu81CiLOmKfEP+LAgj1PHpWe435PN+wAxFAaMBKWzDvZQNPGAot6SPcBxIwV3A7lknqM9d3JCnHJLT8GjfHJPtGpG+dmLGxhvsgP9BFn9rUDGGn/OxrROZJ0FsGV5GYc/nIngZB/Cr1yqlDIH3tcQ==;a+RnNSzSYs5qM5CHQ+u6Cg=="
 ---

@@ -2,21 +2,27 @@
 category: news
 title: "Tourists in fast lane with driverless transport"
 excerpt: "Driverless vehicles have become tourist attractions in the city, providing smart and convenient rides to tourists. Autonomous vehicles carrying people around Shanghai Haichang Ocean Park in the Pudong New Area started trial runs on Friday. Autonomous vending vehicles have been put into use on a trial basis at the same time."
-publishedDateTime: 2023-08-12T02:57:00Z
-originalUrl: "https://www.msn.cn/zh-cn/news/other/tourists-in-fast-lane-with-driverless-transport/ar-AA1faI9H"
-webUrl: "https://www.msn.cn/zh-cn/news/other/tourists-in-fast-lane-with-driverless-transport/ar-AA1faI9H"
+publishedDateTime: 2023-08-12T10:54:00Z
+originalUrl: "https://www.shine.cn/news/metro/2308120651/"
+webUrl: "https://www.shine.cn/news/metro/2308120651/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: SHINE on MSN.com
-  domain: www.msn.cn
+  name: SHINE
+  domain: shine.cn
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://obj.shine.cn/files/2023/08/12/8cb4bc9e-5db3-41bc-ae4d-0e5b0c6cd8a8_0.jpg"
+    width: 576
+    height: 324
+    isCached: true
 
 related:
   - title: "California Okays Driverless Taxi Expansion for San Francisco"
@@ -262,6 +268,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "KM9/sLqtT5rQU/nu705Foh3cBnVZHqYVlNqWxNYVReYQ99VE4Q/rB7wo+I8aXckxP5IFxwqNUOZ4QlWxALpS8+HARosJLFSJctUfW/YIlxxceFcPMsT0Xk0S0JdqkdzsY32vAHQv5QDeq8G/I3ej4QoYVBaq9y5fVHCK/tFhdNj77AsCh/lOFlSQowWMMTQ6cmVzE3g/NTJjNMOl4f6TQWTJV54b7lVkSONaK2Yw93E/dunLU587bdj8423ldZDgoQArD5lxW9V+bs4DL5M7sLWozIFcuYYjDKLEV88LduJlV1bSCLR9cCpEZImn8LAvBSUvHr6ZFJ6cgixdEpilKVb8ggN8/B/9rbj6+RjCAykYUV+PxGoubpTEGTcZCpLD4nNSWCPYF5bvy6hQd2NpFY2rNE/Fo0g8jWEbKnf5WIefJYAYjRPIRthjGEdBdnspkw/e899Or6KF57yFt1NIypCxAeqPQ1zrwlMBQBYG8c0ANIBJqP0NHzLv5i0MQSRAtwp6K7Q8N+HVnw/AlADfCw==;ULCOEwT3K+yeamWJT8kqkA=="
+secured: "FdjFLQ1DAC/fiCeidfTkVJVj2PdORrBc71AS8aVyS4yvC0+MaQ2bFGb7GI08utaHV5sZbhNwy1nAR3zQpmUrjbRCPQtwcRWaE+Kmi2HOdpxU4or2V3Tj6m2LogPdbOi3B4zs9S+xkFvEsCZgVu+XpDlmxS4YhzGBdmumf8g/gU2QvWtu/K8SXGwe03KwQCqi7Xwu6CNGaOO0x7Bu6y8tCVqKz6QElmrxPoNKQ/WncWdlloiTw+N7KXHFbM/GOwprFc8xjFFdgnqVc3CxqGTo8pLcbNcctP+op9geXghzTl159o5xfWnYAc7cveuzPlPIznH9Kpw+M570JC2SERro/ZaIYIhSs9/1VHrhZDPU25w=;3QpbePVrr/xZ5KNE5LOBvw=="
 ---
 

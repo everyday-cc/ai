@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tourists in fast lane with driverless transport"
+    excerpt: "Driverless vehicles have become tourist attractions in the city, providing smart and convenient rides to tourists. Autonomous vehicles carrying people around Shanghai Haichang Ocean Park in the Pudong New Area started trial runs on Friday. Autonomous vending vehicles have been put into use on a trial basis at the same time."
+    publishedDateTime: 2023-08-12T10:54:00Z
+    webUrl: "https://www.shine.cn/news/metro/2308120651/"
+    type: article
+    provider:
+      name: SHINE
+      domain: shine.cn
+    quality: 39
+    images:
+      - url: "https://obj.shine.cn/files/2023/08/12/8cb4bc9e-5db3-41bc-ae4d-0e5b0c6cd8a8_0.jpg"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Massive expansion of driverless robotaxis approved for San Francisco despite public safety concerns"
     excerpt: "Gov. Gavin Newsom's California Public Utilities Commission on Thursday approved a measure to let robotaxi companies Cruise and Waymo massively expand deployment of their driverless vehicles on San Francisco streets."
     publishedDateTime: 2023-08-11T09:27:00Z
@@ -147,15 +161,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "Tourists in fast lane with driverless transport"
-    excerpt: "Driverless vehicles have become tourist attractions in the city, providing smart and convenient rides to tourists. Autonomous vehicles carrying people around Shanghai Haichang Ocean Park in the Pudong New Area started trial runs on Friday. Autonomous vending vehicles have been put into use on a trial basis at the same time."
-    publishedDateTime: 2023-08-12T02:57:00Z
-    webUrl: "https://www.msn.cn/zh-cn/news/other/tourists-in-fast-lane-with-driverless-transport/ar-AA1faI9H"
-    type: article
-    provider:
-      name: SHINE on MSN.com
-      domain: www.msn.cn
-    quality: 19
   - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
     excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
     publishedDateTime: 2023-08-10T16:44:00Z

@@ -1,18 +1,18 @@
 ---
 category: news
-title: "United Wholesale Mortgage Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by United Wholesale Mortgage. Applications for the"
-publishedDateTime: 2023-08-11T15:37:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/g33753653/united-wholesale-mortgage-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcam"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/g33753653/united-wholesale-mortgage-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcam"
+title: "United Wholesale Mortgage Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
+excerpt: "The AI bootcamp is targeted toward underserved high school students (Grades 9-12) and offers participants a chance to learn the fundamentals of AI. United Wholesale Mortgage has been selected as one of the 28+ host companies across the U.S. for fall 2023."
+publishedDateTime: 2023-08-11T15:49:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/11/9863410.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/11/9863410.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
@@ -342,6 +342,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "dpWy7uFprvZtRYNY0ZDoaSsrAtDokHBhczBwmGDM+sVxkn+ElhwORAqDsLM35VPRZKjYowV64Rb0OriiWo3jdMVnbIkserhaa6w03zDPMGs/4pERXZH1xKye7arczuRl4KP6DebSbO6pny+ImuAv1HGAxdyZwDhlHki4BvN1DGrFhHHFqXJ9z3389IyFColBXtW3rekkw2xa5E8PGTGlYXxU7KziH9TqPPKmoVsakPWDpI68gWZSpAIsIXCW7YAWxeJ7pvkb2EqUOqSKq4Ik+eJETSgxnuBUddyLMUaMFIE6n7+JBwKOqAMMWZZVQnqHz0yOaJH3K/0KaHzAYjvDFnGLS/Tk0cdL5J6547VFGRg=;OztkHO92LSI90l6/betFzA=="
+secured: "PQ9DhI9dpxdzaUiBAOnoMAo+a8U+N9L6qBTJWypUPgqvdBoRx5eDZHVKp8Mz+3fReQ7aCAZ7PI3I4VJke3g1F6NgMFEKIrcP9h/QzN6iME1llv4w8eaO0BFW7aFyIKZt90aeR+1nfPV1tNZfKJqnQSOiEJV7093IB0WfmMll/Oe5OtBGZ17Ta4MvU+ijVvt9xmamXueaVkP1jWlnEwhpZ5tB7q5igriEDoyFv7G52Jl9DTnlf68hlgA+rll8TSct74PRIQflTzsrkOPDiXguIY6NTrMZOCOIoMYCJGq01aqjsHdamAXg6AOfFkcIRafuYsWDPPv5Zvswq0yithAtFmX3OPg6/cDZ9u6dWLmL/4I=;JTbyAH1LfgHVJWb7FZysgQ=="
 ---
 

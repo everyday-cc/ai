@@ -9,7 +9,7 @@ ampWebUrl: "https://healthtechmagazine.net/article/2023/08/invest-it-infrastruct
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/08/invest-it-infrastructure-support-ai-adoption-healthcare?amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "£13m allocated for research into use of artificial intelligence in healthcare"
-    excerpt: "The Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare. The move, announced by Technology Secretary ..."
-    publishedDateTime: 2023-08-10T08:28:00Z
-    webUrl: "https://www.aol.co.uk/news/13m-allocated-research-artificial-intelligence-230100126.html"
-    type: article
-    provider:
-      name: AOL.co.uk
-      domain: aol.co.uk
-    quality: 31
   - title: "£13m allocated for research into use of artificial intelligence in healthcare"
     excerpt: "he Government has allocated a £13 million investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare. The move, announced by Technology Secretary ..."
     publishedDateTime: 2023-08-11T01:57:00Z

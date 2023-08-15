@@ -323,14 +323,14 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
-  - title: "United Wholesale Mortgage Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-    excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by United Wholesale Mortgage. Applications for the"
-    publishedDateTime: 2023-08-11T15:37:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33753653/united-wholesale-mortgage-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcam"
+  - title: "United Wholesale Mortgage Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
+    excerpt: "The AI bootcamp is targeted toward underserved high school students (Grades 9-12) and offers participants a chance to learn the fundamentals of AI. United Wholesale Mortgage has been selected as one of the 28+ host companies across the U.S. for fall 2023."
+    publishedDateTime: 2023-08-11T15:49:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/11/9863410.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
   - title: "Houston Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital consultancy,"

@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/where-americans-a
 webUrl: "https://www.beckershospitalreview.com/innovation/where-americans-are-ok-with-ai-in-their-healthcare.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "Americans' level of concern about healthcare AI, by generation"
-    excerpt: "Older Americans are more concerned about AI in healthcare than younger generations, according to new survey results. 77% of Baby Boomers and 70% of Gen Xers are concerned."
-    publishedDateTime: 2023-08-11T15:12:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/americans-level-of-concern-about-healthcare-ai-by-generation.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "BJ3Bac7/uBX+TzM5sXi8Djei174Z+SbwDbDt0QxVxNZbADdPnuJc5B8+p5e/n2p2G8juiio494A3NK0FfXRbqSZsWyPwWxbXOLtqadY37dyhsyP95eZZZLDtD4QaHb11crfTmaECip8cTGj+tXUPyVz2HXlMOIKAEDkXHWUaSIQrbNUE2tWEV0Tdf0/n1uAN2kZy5QiPNqcxxvuUEVyCC/JZe4FPzmYkoKnsLM+73/1a+AXUNZ2nGSDk7kIGThCWp2GEjFzZhjVCUsy5YEmQVb9Ovyq8C2CEhJ9YCrtzZ5Jm3K3mabky4ATpM+n2hGl29ssCS97LpyZqERulyAcM+hXMqKfY922fcWOpYnEco8c=;B7qWs2HjjQ3HkoEPXvQT0g=="
 ---

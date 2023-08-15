@@ -90,7 +90,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 68
+    quality: 70
     images:
       - url: "https://media.wired.com/photos/64da6a0c0a0f9ed43773f3db/191:100/w_1280,c_limit/Hackers-Take-A-Historic-Swing-at-Harmful-AI-Security-GettyImages-1170285788.jpg"
         width: 1280
@@ -153,6 +153,20 @@ related:
       - url: "https://pcdn.columbian.com/wp-content/uploads/2023/08/Cybersecurity_AI_Security__44668-1ffca.jpg"
         width: 899
         height: 599
+        isCached: true
+  - title: "Ascott leverages AI with new chatbot providing personalised services"
+    excerpt: "CapitaLand’s wholly owned lodging business unit, The Ascott Limited (Ascott) has launched an AI-powered chatbot named Cubby to enhance the journey of its guests by being their travel buddy and supporting Ascott‘s growth."
+    publishedDateTime: 2023-08-15T00:00:00Z
+    webUrl: "https://www.marketing-interactive.com/ascott-leverages-ai-with-new-chatbot-providing-personalised-services"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 39
+    images:
+      - url: "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/by_year_month/2023-august/ascott_ai.jpg?auto_optimize=medium"
+        width: 800
+        height: 450
         isCached: true
   - title: "ChatGPT on Campus: Law Schools Wrestle With Emerging AI Tools"
     excerpt: "Law schools are weighing how to integrate rapidly improving artificial intelligence into the classroom as the legal industry grapples with the technology."

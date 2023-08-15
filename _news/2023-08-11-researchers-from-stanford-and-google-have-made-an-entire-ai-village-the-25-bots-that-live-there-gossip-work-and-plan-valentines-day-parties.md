@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-village-bots-plan-valentines-elec
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-village-bots-plan-valentines-elections-gossip-stanford-researchers-created-2023-8?amp"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 599
     isCached: true
+
+related:
+  - title: "AI programs often exclude African languages. These researchers have a plan to fix that."
+    excerpt: "Over 2,000 languages originate in Africa, but natural language processing programs support very few of them. By Andrew Paul | Published Aug 11, 2023 11:00 AM EDT There are over 7,000 languages throughout the world, nearly half of which are considered ..."
+    publishedDateTime: 2023-08-11T15:00:00Z
+    webUrl: "https://www.popsci.com/technology/african-language-ai-bias/"
+    ampWebUrl: "https://www.popsci.com/technology/african-language-ai-bias/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/african-language-ai-bias/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 51
+    images:
+      - url: "https://www.popsci.com/uploads/2023/08/11/Depositphotos_191735032_L.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "o2oKKC6rkGn1evVS/RrPGzbNFe98/rpEHgrZrulzTNcFG23mNEjoJuRXt4QCUfdc38ax7YIHhgAz1NBPGS7j5Erjt4tMTDKIJkq81h6dxHwwebxLQcRTytYRRGoPa/bEWpuFp5o9ZchUjC+z1AgffzAQCaG1uq5o1ZMadkMs5owYeoSNLzQFtzE2gPyfpRYkFNS+Qle2iInRq3xTrdJUS5uJZAD0ah1lFhYIE9TXayjsIIkGurvdQ9JiJn7uzgnv0koN0NpV8uIjJ5CNgB20FyLDRmMXU3qtzNmSASH8se/aFKaIyg83yHcHM07l7CTWng5vom7w885/puyUoh+8K8Jsd2hKP23DHdaGIAVKKqM=;FjNkMb5LkLt1lDSFZ7ckbw=="
 ---

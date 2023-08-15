@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-14T23:57:00Z
 originalUrl: "https://www.wired.com/story/showdown-humans-chatbots-defcon/"
 webUrl: "https://www.wired.com/story/showdown-humans-chatbots-defcon/"
 type: article
-quality: 68
+quality: 70
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.wired.com/photos/64da6a0c0a0f9ed43773f3db/191:100/w_1280,c_limit/Hackers-Take-A-Historic-Swing-at-Harmful-AI-Security-GettyImages-1170285788.jpg"
@@ -151,6 +152,20 @@ related:
         width: 899
         height: 599
         isCached: true
+  - title: "Ascott leverages AI with new chatbot providing personalised services"
+    excerpt: "CapitaLand’s wholly owned lodging business unit, The Ascott Limited (Ascott) has launched an AI-powered chatbot named Cubby to enhance the journey of its guests by being their travel buddy and supporting Ascott‘s growth."
+    publishedDateTime: 2023-08-15T00:00:00Z
+    webUrl: "https://www.marketing-interactive.com/ascott-leverages-ai-with-new-chatbot-providing-personalised-services"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 39
+    images:
+      - url: "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/by_year_month/2023-august/ascott_ai.jpg?auto_optimize=medium"
+        width: 800
+        height: 450
+        isCached: true
   - title: "ChatGPT on Campus: Law Schools Wrestle With Emerging AI Tools"
     excerpt: "Law schools are weighing how to integrate rapidly improving artificial intelligence into the classroom as the legal industry grapples with the technology."
     publishedDateTime: 2023-08-11T09:01:00Z
@@ -235,6 +250,6 @@ related:
       domain: insider.com
     quality: 0
 
-secured: "jWA1PmW6AfHqdUXngXexKwreo/OEenHFTRbsTHJ9Jjy3FR/qCPe0HGG+mdc7FpUK7f/OSeUw9kiJFbylsgUYjGHPBZdimgtXDF+lP6kBk3dTbDw+eGmQeH7IDtvvtDx5ton39iKDeSpKCUQjK5M2ZYfGBSQe92oZSMGCLqWL9R5fnQgd/i/HzURUjtD5tQmb18Xs0CuHyZwVl98unZZQvwBgG7db+1X6KLNYEVuI0oKjv1qR1TEYRtgIbork0baCwbLgzP3hw7tlz/j4kWJrsRzjYJZed4EeHK+9cw646I2QzhcR43aXXDcZZchg5lxRIthR7Fx0n6FN6z9ULdTSwspt8jTAiZx22qcz9t37Mco=;Nut28SnJjmzYSrH/AfuZxg=="
+secured: "W/ck50v+hXYfKoYXWXyRhec5/7D0prJECRap+LeU/4CrGqForps3KoI3jG1uzfAi9RKze27wV92E0xpZqjOZ/8jXzGKKJ3IDR91rKromM+4DhYsknr0oQgG29YqOLQOgygdapaqd5CFK60UC4DH1ZlaBPy67ug0hdVekEgcoymVa1PDVJUZY9ncucPQId6ubsTo9FBsIA1dTe/Dvji0hJGvusTXOg837+80MPpav88vnQ7vrX/cyy3EE2gFEkaYhKv3IpoDuKa127be97gg2tTaX6perNbuACS57IJXA4ZFA9w5UT1iL7S6zEWJAn5At9g2dAUflQEJwJbcyzBhOOWAHrcVan5wyzzFumr95So2at9wCqr7B7kJHZUCQfNuqdKS+FmJM0HJib7xnT/db21b4sfMExhr9ZHlTeIffuh3ntYrNCnSNobu2xwJrCy01OZAUSAgjHYHuX902un3Wn7vOcauHOrLfwCDZFovxim+zycg9NrjqDlK5PZeaSB2oMOoyp5omUPLkNI8wme4Spg==;UiQH/rBiFDg0jc8iX5n7Lw=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "After years of dominating facial recognition tech, China is ready to govern it"
+    excerpt: "The rules also state that facial recognition tech must be used only when non-biometric measures won't do, among others."
+    publishedDateTime: 2023-08-15T01:08:00Z
+    webUrl: "https://techwireasia.com/2023/08/facial-recognition-tech-in-china-will-soon-be-governed/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 35
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/08/shutterstock_1115578520-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "KKgsdm/dNgsd0+UL6M4W+JwgwB8pyeSW4Old1OWYkiAEErbalhIhB5/88hsb+tsS+8CfOtVkEe3hyrbbuVuuuM0KuX8b3gteRuI26emT0mlScb+LrG536U06+oJjk6yLUqxRyFPz7iVCWdOT/BsFjzprCX5/OPKvweKM/fxFFkhqFtqoQkrYyd+ADom9a4TrGSjWB/iEMhNHL9uKOTyLpSjxClY078FmZO+PJBwIPM3CnLvhLhyDFTJpm6Kthi1s+0A85F1iQOQY71cuJrc8gFQAidUq0zYcUA4asaoWgKXd0466lEWIsQn0yUoat9BO/cztmKjqj5fFLlr0G3JA6veQEUmoWHUi9FB+Zl8/Ls8=;pQG/hD0JHhQo/5cM2MlRHQ=="
 ---

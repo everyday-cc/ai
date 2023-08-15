@@ -101,34 +101,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Chinese tech giants place $5 billion orders with Nvidia for generative AI chips"
-    excerpt: "China’s tech giants, including Baidu, ByteDance, Tencent, and Alibaba, have initiated orders with Nvidia for $5 billion worth of chips to construct"
-    publishedDateTime: 2023-08-10T07:22:00Z
-    webUrl: "https://technode.com/2023/08/10/chinese-tech-giants-place-5-billion-orders-with-nvidia-for-generative-ai-chips/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 50
-    images:
-      - url: "https://technode.com/wp-content/uploads/2023/08/142394325_l_normal_none-scaled.jpg"
-        width: 2560
-        height: 1680
-        isCached: true
-  - title: "Chinese Tech Giants Secure $5 Billion Worth of Nvidia GPUs for Generative AI Projects"
-    excerpt: "In a strategic move to bolster their generative artificial intelligence (AI) endeavors, major Chinese tech giants are making substantial investments in high-performance Nvidia graphics processing units (GPUs)."
-    publishedDateTime: 2023-08-10T07:51:00Z
-    webUrl: "https://www.cryptopolitan.com/chinese-techs-secure-5-billion-nvidia-gpus/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 47
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-10_11-24-04.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "AI’s business impact to extend far beyond Nvidia"
     excerpt: "Generative AI could emerge as a $1.3 trillion market by 2032, growing at a 42% compound annual rate, according to BI analyst Mandeep Singh."
     publishedDateTime: 2023-08-10T21:10:00Z
@@ -138,20 +110,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Nvidia Unveils New AI Chip with Potential to Reduce Costs of Running Large Language Models"
-    excerpt: "In a move aimed at maintaining its supremacy in the AI hardware sector, Nvidia has introduced a groundbreaking AI chip, the GH200, designed to optimize artificial intelligence models. As rivals such as AMD,"
-    publishedDateTime: 2023-08-10T07:37:00Z
-    webUrl: "https://www.cryptopolitan.com/nvidia-unveils-new-ai-chip/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 44
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-10_10-41-45.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Nvidia unveils GH200 Superchips for 'most complex AI workloads'"
     excerpt: "With a 90 percent market share, Nvidia is further upping its game as more companies race to make GPU chips to run AI models."
     publishedDateTime: 2023-08-10T13:17:00Z

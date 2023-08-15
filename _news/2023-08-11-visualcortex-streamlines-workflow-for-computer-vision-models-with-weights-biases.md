@@ -24,17 +24,6 @@ images:
     height: 767
     isCached: true
 
-related:
-  - title: "VisualCortex streamlines workflow for computer vision models with Weights & Biases"
-    excerpt: "\"We now have a robust ML model training process, which allows us to produce - and continually improve - highly accurate computer-vision-based insights for our clients. With Weights & Biases' help ..."
-    publishedDateTime: 2023-08-10T08:54:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59812166-visualcortex-streamlines-workflow-for-computer-vision-models-with-weights-biases-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 13
-
 secured: "oXbJJhoUI8Lkfs2+hZy6TEXaElH2nEv780KADNGON8AViCNQhAGH8OVBjW6+6Sp9Ok4TQrqgOGwLLWuJGjdO2mJ9gi3iIZyqWRXelRoPnJMRie/GduoMHGyonE7/aBEKhHbTmSq2Sqh87Uh8G78nDmNvNVRqyLazcAAOSTUF92HQHim0brVZMHDQCvvTsf4DJDADgzOxZ1aepYxloWnjiIOXEyPG7eP92EheJSzFfbtpR5aj8J1rC5WqbvWUI8oPWLl687t7gIGxGWhxiW+KtCrJjHPWS0WvR9m5IG3QksKMPN6WpB1+X1ZoqyhJqPVfnYUdMXQc1JWuQCDTVRel7fR/sK1PJON9twE5sIi0wyI=;YHDe6YsIjvSn5kvzII3bzw=="
 ---
 
