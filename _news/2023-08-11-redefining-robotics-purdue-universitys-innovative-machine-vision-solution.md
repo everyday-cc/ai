@@ -45,20 +45,6 @@ related:
         width: 2145
         height: 1686
         isCached: true
-  - title: "The Rise of Humanoid Robots: Exploring the Latest Innovations and Advancements"
-    excerpt: "Welcome to the future! Imagine a world where robots walk alongside humans, seamlessly integrating into society and performing tasks once thought impossible. Well, that future is here, and it’s called humanoid robotics."
-    publishedDateTime: 2023-08-10T10:01:00Z
-    webUrl: "https://techbullion.com/the-rise-of-humanoid-robots-exploring-the-latest-innovations-and-advancements/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 35
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-10T110007.543.png"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "q1fZ7LxSN2Num/F2tezmYayglmVS6tnTDTwL646oCuoquTvlaYa2hrsEifmpl/4HBOXcja4eO9+Z68Ar7pbFj7THe7vnUxRc4bD3ufl+V7mpQn3KHp9RhLr5b4EtihOlGHHBV98paZRc/1YpvDQB2Vgk9lK0kWj998x2Ae6FFgrKn9JYRtnLz/Vcl1fBbz7uZaFh9L5vwRI5zJS3YRgmJnEtTav6GYkxR9jv83DPUd9tWMrHgm3gLOwTP68Jhkvx0rZeClLySLbxYB0/f+ws77L6kriwkUicjJVJO0lBgprcbKwN+4JFvPw1X8WgEL9nlX0d6H87Ir7+bTb6Q4U4Hk9Ku+ZL99+UrgIokHS+Nh5Dtjaa0v+M6U2k6QXrz9RTBQuoKULmNwnOLpIGlWHMF8IE+83edTEj4wZH1q/Mr4GMd4gZgdTAUrNk6dAV6GY8h6j0eIGYDlgs/GKzeqedai124Y+p0zlGNYb4urEb9s/9U2u3B6z85nnMecaXUmDeK1/N0oYUQExgtwM3chn4wQ==;KPNKvn/RiceuzcRavxud2Q=="
 ---

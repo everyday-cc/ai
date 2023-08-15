@@ -176,15 +176,6 @@ related:
         width: 4948
         height: 3235
         isCached: true
-  - title: "AI boom jolts San Francisco office market"
-    excerpt: "Ten AI companies are today seeking between 700,000 to 800,000 square feet of office space in San Francisco, per JLL, which says AI companies have already tripled their footprint in the city since 2016. JLL said its confidence is based on anonymized foot traffic and cell phone use data from Placer.ai, demographic and office neighbor information."
-    publishedDateTime: 2023-08-10T10:00:00Z
-    webUrl: "https://www.axios.com/2023/08/10/ai-boom-san-francisco-office-market"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
   - title: "San Francisco’s North Beach streets clogged as line of Cruise robotaxis come to a standstill"
     excerpt: "One day after California green-lighted a massive expansion of driverless robotaxis in San Francisco, the implications became clear."
     publishedDateTime: 2023-08-13T04:04:00Z
@@ -268,6 +259,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "FdjFLQ1DAC/fiCeidfTkVJVj2PdORrBc71AS8aVyS4yvC0+MaQ2bFGb7GI08utaHV5sZbhNwy1nAR3zQpmUrjbRCPQtwcRWaE+Kmi2HOdpxU4or2V3Tj6m2LogPdbOi3B4zs9S+xkFvEsCZgVu+XpDlmxS4YhzGBdmumf8g/gU2QvWtu/K8SXGwe03KwQCqi7Xwu6CNGaOO0x7Bu6y8tCVqKz6QElmrxPoNKQ/WncWdlloiTw+N7KXHFbM/GOwprFc8xjFFdgnqVc3CxqGTo8pLcbNcctP+op9geXghzTl159o5xfWnYAc7cveuzPlPIznH9Kpw+M570JC2SERro/ZaIYIhSs9/1VHrhZDPU25w=;3QpbePVrr/xZ5KNE5LOBvw=="
+secured: "dmvY3qHaRGLw6ZUGMwDveFhOZnnjC8y49a5vIl1NK6NIZO8vDQCp7fIfnCfa35ZtjNX5PHhpuA0fhilzkYDLvnuuD1nXtiNf+RIBD7op2RXRZ0bLOrbwOswHjcmDe8E+hDskVut83FuU2blDK3Ykm7Nb6yeNIxn3oIhATgQep6OK2Is/swRKsblqe0EyhYqB3kxHDuOuvOrs+CmBtjs2D17el4MalvA591/l03Qbm5eLuEkx2oNp+031Jj+ia2dO3FLZ5X6xmmxMP5RDpXZSO/xHaU5RBB65zk8KIzHVUEojPx/t9hoUGQi8XmkKa5nJI4npIgK00nkKflixdnnOaaX4TAgjcJ3hG0Yzf1+kV++DethrJq29TgdAlkY3nrRmGfGUJXi/XEtjrcWq69PSOf5KNB4vl/t6vIPkE05i1qt27kDjANIpLoDD/jiaxzWurj74I5CmxmNG/TOS3yCiLNOTKqDT8NG6iQPk5gqgo9/6Hhv+mAGhlb2Myhxy+cuv5avaFb8dlOnawvjDVyyATA==;Q1skP+T0QU5HT4HAJYiayg=="
 ---
 

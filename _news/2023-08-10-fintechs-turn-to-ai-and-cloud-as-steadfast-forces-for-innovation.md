@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/fintechs-turn-to-ai-and-cloud-as-steadfas
 webUrl: "https://www.ibm.com/blog/fintechs-turn-to-ai-and-cloud-as-steadfast-forces-for-innovation/"
 type: article
 quality: 99
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -50,20 +50,6 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2019/09/18/Andrew_Moreau_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 300
-        isCached: true
-  - title: "Unleash Your Creativity with Opendream.ai’s Revolutionary AI Art Generator"
-    excerpt: "In the ever-evolving landscape of technology and creativity, Opendream.ai emerges as a beacon of innovation, introducing a groundbreaking platform that blurs the lines between human ingenuity and artificial intelligence."
-    publishedDateTime: 2023-08-10T09:13:00Z
-    webUrl: "https://techbullion.com/unleash-your-creativity-with-opendream-ais-revolutionary-ai-art-generator/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/full-shot-super-woman-with-superpowers-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "AI-powered fraud detection: Strengthening security in fintech"
     excerpt: "In the rapidly evolving world of fintech, security remains a paramount concern. With the increasing sophistication of cybercriminals, traditional methods of fraud detection are often falling short. This is where Artificial Intelligence (AI) steps in, offering a robust and dynamic solution to the complex problem of fraud detection."

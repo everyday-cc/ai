@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-giv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 44
-  - title: "AI Meal Planner Recommends Recipe for Chlorine Gas: Report"
-    excerpt: "A supermarket’s artificial intelligence -powered meal planning app has recommended some odd dishes to customers, including one recipe which would create potentially lethal chlorine gas, according to a report."
-    publishedDateTime: 2023-08-10T10:17:00Z
-    webUrl: "https://www.thedailybeast.com/supermarkets-ai-meal-planner-recommends-recipe-for-chlorine-gas-report"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1769,w_3148,x_1513,y_366/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1691662243/PAK_nSAVE_Queenstown_ugrywc"
-        width: 1480
-        height: 832
-        isCached: true
 
 secured: "0o0CD1n6ByO7knXokJ1/uEps2tmBWKJRrgM4Q5eCZrE7ArHd2mab8wVfbfheB79aHhAbY6sGNedIwVN6w6Y2ABhZ69bo6SF1Q0XMmWTHckEBG0M0mecFMlEGH9UGlMP8ZylrJG6UgF0nImsneYfmsrTVDZ5HlK0d4ICSbzWnPhNgElADuwc323Rgken2YUDRoTV9rmTql4aerD7kajyzZUycWRQ2PJ9arRlnoTPwZtxBwsFrVXuGkUsBj/aPKjVPbXs/qyXIMYvkUEnxrzuy7E5MPvXJxERrplrx102Zx0JRbpun1AI32SUWm2DX5Qb5ZSIvskuuYcO6H8ZdGRZDMIUx7xVpm6mz9dP97H3AhpNxq6YhmbXvTJQN2ju0yriz8tS435oVshp0QjLrteS2jCXM83Vib3xIUpwd+V+nxJ8XdSSFHlI1DyqUlKTnzbNST7FV5OOgirdRct2CqV15XvqttFzxPQfnFGkA+Lrs1ygy3IP6YaHGbWuaaEi1VzgoRE/x2OaRSC0LrXkFTZYwiw==;ACZ6VN+dsm3RoYN3tXVU7A=="
 ---

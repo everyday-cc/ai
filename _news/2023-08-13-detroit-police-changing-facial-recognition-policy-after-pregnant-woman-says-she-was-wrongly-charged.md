@@ -158,20 +158,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Detroit Police Chief says faulty police work, not facial recognition, to blame for false arrest"
-    excerpt: "At a Wednesday press conference, Chief James White insisted that Porcha Woodruff's wrongful arrest wasn’t a case of botched facial recognition. Instead, he blamed investigators for using improper procedures,"
-    publishedDateTime: 2023-08-10T10:53:00Z
-    webUrl: "https://www.michiganradio.org/criminal-justice-legal-system/2023-08-10/detroit-police-chief-says-faulty-police-work-not-facial-recognition-to-blame-for-false-arrest"
-    type: article
-    provider:
-      name: Michigan Radio
-      domain: michiganradio.org
-    quality: 27
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/d9108b4/2147483647/strip/true/crop/1254x658+0+27/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F0e%2F9d22aee246bcbb9baa6795f5a32a%2Fdpd-chief-james-white-3.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How Flawed Facial Recognition Technology Led to Arrest of 8-Months-Pregnant Woman on False Carjacking Charge"
     excerpt: "The case against her began with faulty facial recognition technology NIC ANTAYA/The New York Times/Redux When six Detroit police officers knocked on her door one morning this February and told ..."
     publishedDateTime: 2023-08-11T01:17:00Z

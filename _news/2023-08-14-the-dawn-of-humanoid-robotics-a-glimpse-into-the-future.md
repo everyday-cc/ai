@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/the-dawn
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/the-dawn-of-humanoid-robotics-a-glimpse-into-the-future/"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/a-novel-motion-capture.jpg"
         width: 2145
         height: 1686
-        isCached: true
-  - title: "The Rise of Humanoid Robots: Exploring the Latest Innovations and Advancements"
-    excerpt: "Welcome to the future! Imagine a world where robots walk alongside humans, seamlessly integrating into society and performing tasks once thought impossible. Well, that future is here, and it’s called humanoid robotics."
-    publishedDateTime: 2023-08-10T10:01:00Z
-    webUrl: "https://techbullion.com/the-rise-of-humanoid-robots-exploring-the-latest-innovations-and-advancements/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 35
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-10T110007.543.png"
-        width: 800
-        height: 400
         isCached: true
   - title: "Redefining Robotics: Purdue University’s Innovative Machine Vision Solution"
     excerpt: "Researchers at the esteemed Purdue University have made a significant leap in the realm of robotics, machine vision, and perception. Their groundbreaking approach offers a marked improvement over conventional techniques,"

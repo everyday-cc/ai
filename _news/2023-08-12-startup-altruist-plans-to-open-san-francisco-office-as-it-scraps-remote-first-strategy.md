@@ -183,15 +183,6 @@ related:
         width: 4948
         height: 3235
         isCached: true
-  - title: "AI boom jolts San Francisco office market"
-    excerpt: "Ten AI companies are today seeking between 700,000 to 800,000 square feet of office space in San Francisco, per JLL, which says AI companies have already tripled their footprint in the city since 2016. JLL said its confidence is based on anonymized foot traffic and cell phone use data from Placer.ai, demographic and office neighbor information."
-    publishedDateTime: 2023-08-10T10:00:00Z
-    webUrl: "https://www.axios.com/2023/08/10/ai-boom-san-francisco-office-market"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
   - title: "San Francisco’s North Beach streets clogged as line of Cruise robotaxis come to a standstill"
     excerpt: "One day after California green-lighted a massive expansion of driverless robotaxis in San Francisco, the implications became clear."
     publishedDateTime: 2023-08-13T04:04:00Z

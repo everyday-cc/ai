@@ -36,20 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "The Rise of Humanoid Robots: Exploring the Latest Innovations and Advancements"
-    excerpt: "Welcome to the future! Imagine a world where robots walk alongside humans, seamlessly integrating into society and performing tasks once thought impossible. Well, that future is here, and it’s called humanoid robotics."
-    publishedDateTime: 2023-08-10T10:01:00Z
-    webUrl: "https://techbullion.com/the-rise-of-humanoid-robots-exploring-the-latest-innovations-and-advancements/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 35
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-10T110007.543.png"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Redefining Robotics: Purdue University’s Innovative Machine Vision Solution"
     excerpt: "Researchers at the esteemed Purdue University have made a significant leap in the realm of robotics, machine vision, and perception. Their groundbreaking approach offers a marked improvement over conventional techniques,"
     publishedDateTime: 2023-08-11T12:35:00Z

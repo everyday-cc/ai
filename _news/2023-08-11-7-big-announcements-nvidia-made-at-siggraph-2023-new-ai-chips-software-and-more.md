@@ -33,22 +33,6 @@ related:
         width: 917
         height: 696
         isCached: true
-  - title: "Chinese companies splash $5B on Nvidia AI chips"
-    excerpt: "In late 2022, the US blocked Chinese companies from acquiring advanced semiconductors and chipmaking equipment: this week, the nation announced a ban on domestic businesses investing in China’s AI and quantum computing sectors, starting from 2024. Bulk orders have also been made due to fears about GPU shortages fuelled by rising demand, FT added."
-    publishedDateTime: 2023-08-10T11:02:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/chinese-companies-splash-5b-on-nvidia-ai-chips/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/chinese-companies-splash-5b-on-nvidia-ai-chips/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/chinese-companies-splash-5b-on-nvidia-ai-chips/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 74
-    images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2020/03/16120403/money-dollars-shutterstock-650.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "ODMs see Nvidia GPU shortage curb AI server shipments"
     excerpt: "Wiwynn, and Giga Computing have experienced delays in fulfilling AI server orders due to the ongoing GPU shortage at Nvidia, according to industry sources.."
     publishedDateTime: 2023-08-11T01:17:00Z
