@@ -21,7 +21,7 @@ topics:
 related:
   - title: "Foundations seek to advance AI for good — and also protect the world from its threats"
     excerpt: "Gebru launched the Distributed Artificial Intelligence Research Institute in 2021 to ... Open Philanthropy, a foundation started by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna ..."
-    publishedDateTime: 2023-08-11T15:38:00Z
+    publishedDateTime: 2023-08-11T16:46:00Z
     webUrl: "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/"
     ampWebUrl: "https://www.wral.com/amp/20995889/"
     cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20995889/"

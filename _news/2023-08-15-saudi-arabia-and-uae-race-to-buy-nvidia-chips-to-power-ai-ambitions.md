@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-15T07:51:00Z
 originalUrl: "https://www.afr.com/world/middle-east/saudi-arabia-and-uae-race-to-buy-nvidia-chips-to-power-ai-ambitions-20230815-p5dws6"
 webUrl: "https://www.afr.com/world/middle-east/saudi-arabia-and-uae-race-to-buy-nvidia-chips-to-power-ai-ambitions-20230815-p5dws6"
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://static.ffx.io/images/$zoom_0.7646%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_75%2C$y_35/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6c2f7200580e527712f20fef3335cf87cec1ba5c"
@@ -94,20 +95,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "China spends big on Nvidia chips"
-    excerpt: "Wants them for its generative AI systems China's internet giants have ordered more than $5 billion of high-performance Nvidia chips to build generative AI systems. Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,"
-    publishedDateTime: 2023-08-11T09:05:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57402-china-spends-big-on-nvidia-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/7d2e48c471e8e1bbb6222171f23a9353_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "AI software startup Modular seeks bumper Series A round to challenge Nvidia"
     excerpt: "According to the startup’s website, its software works by unifying the frontend of popular AI frameworks such as PyTorch and TensorFlow using modular, composable components. This means developers can use custom hardware to train AI systems and later deploy them across any server or edge device."
     publishedDateTime: 2023-08-13T23:44:00Z
@@ -122,15 +109,6 @@ related:
         width: 1030
         height: 577
         isCached: true
-  - title: "Nvidia Is Down, But AI Chip Juggernaut Not Down For The Count"
-    excerpt: "Nvidia Corp. (NASDAQ: NVDA) skidded 4.72% in heavy turnover on August 9, ending the session below its 50-day moving average for the first time since early January. Shares were essentially flat in after-hours trading."
-    publishedDateTime: 2023-08-11T18:19:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/23/08/33747953/nvidia-is-down-but-ai-chip-juggernaut-not-down-for-the-count"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
   - title: "7 Big Announcements Nvidia Made At SIGGRAPH 2023: New AI Chips, Software And More"
     excerpt: "Nvidia CEO Jensen Huang returned to the annual SIGGRAPH event for the first time in five years to showcase the GPU giant’s “full-stack computing” prowess with a bevy of new chips and software for AI,"
     publishedDateTime: 2023-08-10T19:54:00Z
@@ -141,6 +119,6 @@ related:
       domain: crn.com
     quality: 29
 
-secured: "2Der8ao0ZKS98hcfIANgvC4tryVM8l7YfZXPRUnKmDY9QkCCsaQce5lAOd+yj+m0aw/W/grgMXkrFIY9Ar0KnO/Ig7kbIWCdC2KKScvtVmSqF/EW6CX71o9YVEdQHovs2EbgWIFAPVJUIGXIKJHbxqbN7pqWOxygucMLR0h6i3joGElfYpsNsCb90YFDRWwXCSG9sBWKV0KfXWffHE1C4/I/pbXK8kfArrIyog4EkO00y7ToU0snQCHLgQonUOqHC1FiIefc/XH4U/CaLpevAzU01PAoxvMO14WWet1jDRl7LzRuLIF51h6fc12w8kEjnrlitLt2J9MTgUrPc873XPoTI+MDoNhkYqJbDLylNYo=;IA3iCkfoDhvx75xjuPFNxA=="
+secured: "S/B8nkl3nU/zjn1L52ZBmAg20TwdxDnwbFAAkwUHV+Mtm3KxNIOr0mUL5P2Yj/58iEiDCmRoV2ap8j7+vpJtfRtXzAPBaTG7umqCtT8yA9pQ/cFhpxBNF7FkbKY1qh9hZtv2Y2YRQTviI/6qbxE27fOrnHVqGPWKFz4HkJBoFGa8yPF0VPWrSgD+q+06Fsu8PFAwHUPHEGkO18umLWEmzvmvK86uc88+rQtQtYPw0zPEBNEs/n6L3Sx0zLR1A2e940Fl03br6GT8oVnq356sH/FZQlCTXeTtsq5GUXb4n4VmFQiIsevdBN9R+c+RG8jrg/KE3GGEYHJfsbIAlFYc5a66UNdUcJ5IYJaUw2y9MmgDKZ5RHHNOENAwwLVXbFBsaEgflDjYU48nLvNKlo6YHO6LAvyeuaJhcYYhK8/puXaPaCbnQTTVa/FoXRjy5nncz6x4W5oJk7nlEnLFuahQ9bIyU2fOgLYz8ALZxNRvP7jXTGUUHA4M5sPMlH36SkhiOyDiOoQq+q/CGCuDKepPXQ==;5dlxoZAZYT3tC5KMr+e6uw=="
 ---
 

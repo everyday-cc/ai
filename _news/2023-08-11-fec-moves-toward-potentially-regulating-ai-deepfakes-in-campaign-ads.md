@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OPINION | How organisations can navigate AI ethics in SA's regulatory vacuum"
-    excerpt: "This article explores some of the findings, along with strategies and principles that South African organisations can adopt to navigate the AI ethics landscape responsibly, upholding societal trust amidst ongoing technological transformation. The experts ..."
-    publishedDateTime: 2023-08-10T15:56:00Z
-    webUrl: "https://www.news24.com/news24/tech-and-trends/news/opinion-how-organisations-can-navigate-ai-ethics-in-sas-regulatory-vacuum-20230810"
-    type: article
-    provider:
-      name: News24
-      domain: news24.com
-    quality: 51
-    images:
-      - url: "https://cdn.24.co.za/files/Cms/General/d/2643/ceada13bfb174c7f81608ac0173f6e66.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "AI isn’t great at decoding human emotions. So why are regulators targeting the tech?"
     excerpt: "In addition to proposing the theory of evolution, Darwin studied the expressions and emotions of people and animals. He debated in his writing just how scientific, universal, and predictable emotions actually are, and he sketched characters with exaggerated expressions, which the library had on display. The subject rang a bell for me."
     publishedDateTime: 2023-08-14T11:00:00Z
@@ -71,20 +57,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/6cc82996-4551-4f9a-9943-86e52a9bab05_3524.jpeg?w=3000"
         width: 3000
         height: 1687
-        isCached: true
-  - title: "FEC takes first step toward rules on artificial intelligence deepfakes in campaign ads"
-    excerpt: "The Federal Election Commission took a first step Thursday toward regulating the use of artificial intelligence-generated media in campaign ads by considering a petition for new rules and asking the public for comment."
-    publishedDateTime: 2023-08-10T15:33:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/campaigns/fec-first-step-rules-artificial-intelligence-deepfakes-campaign-ads"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 44
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/42faca6/2147483647/strip/true/crop/1200x630+0+110/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F0f%2F5b%2Ffcb4443e8c30e5fe1c04e974423e%2F12afee5b2b53eb31fad4a8e842754437.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "uqBu3d4FPDsucrn/UMgBbCpxemhpgiu91t0iQGXI+OUO1N+KXzsBdclcllK5L8wZkHibk7lH50WrpDlscLkbDi+XWOWU+V+H7b1zOFMcyiBCCzCkC48b4P+9bZ4H7Yh+Ppl0USoEbcdRea6UsWGgs8lg2V3oXlToT7fgX3t9akqMaB9pEQsgMtFMhE7f+T7qzzsEBTQWsEdAxMboPOuSQ4GtCuVtv8F3wwOnZcp2tt0Q1F7Np3IR4TGg7DgwLBinnhYEqpsXqMo2FJDGVOCyfZM3m4OoMkMEp2bRkz76SWszHaf962ioAMswnPyEbEUMdFfOnWvBzPyMGD6cJTblZyqC0zclXe5xfXo0EdliP9Az74NzR2YUzY8oVt2PLm/pbzu1y/azYOGMgW+DptfAijQzyod4OuL6Jn21G920gfzOUN5zrDSlmgAr73NGyIhhdy//tA53PDSh5dlclAeusIZk9iAK0q3D0bB9qYxsIOPn9k7WN6ygHq20GWly9rmC+KGahYMlbe00ZHc161LY7g==;IJgWkg6CeA02KPhHbCZ7ng=="

@@ -23,21 +23,21 @@ topics:
   - AI in Security
 
 related:
-  - title: "TikTok creators will need to disclose AI-generated content, or else"
-    excerpt: "AI-generated content is so realistic that in many cases, it is virtually impossible for you to discern between what is fake and reality. This can have significant negative consequences, such as the spread of misinformation. For that reason, social media platforms have been working on measures to address this problem."
-    publishedDateTime: 2023-08-10T16:40:00Z
-    webUrl: "https://www.zdnet.com/article/tiktok-creators-will-need-to-disclose-ai-generated-content-or-else/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/tiktok-creators-will-need-to-disclose-ai-generated-content-or-else/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tiktok-creators-will-need-to-disclose-ai-generated-content-or-else/"
+  - title: "How Can Enterprises Fortify Digital Identity Amidst Rising AI Threats?"
+    excerpt: "Employers and users are the last line of defense as their actions and security hygiene affect overall security posture. They should be continually trained about various traditional and emerging threats, such as AI-based spear phishing and social engineering, especially as AI-written spear phishing emails are harder to spot."
+    publishedDateTime: 2023-08-11T13:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/11/how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/fc4dc6cb5ea856dbc545782ce965222751106100/2023/08/10/149efa9d-b714-49e5-8e29-7cfa23c3a2d7/gettyimages-1470268269.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/642445004586b4330e81b689/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 685
         isCached: true
 
 secured: "nghkKCqdXcI32w46YE3U4AcNcAAyMSaxBdJKSkCD/vL2AeKfy1NBTPWOMTEa4J5S/eQHeHdabBonovCvhgO+jtIEA8ZY/+ZYdx5ipZPvlyPYgw5TidQO9NhQ26CZcU0DA8+9Qm0QVDIS45gBw5DSypwc+96J0ByBUcjvSi0qHluxztqMi7b9/GH1aL029Mq2X8HtLStT7cw5pXrHwW1jV3Nksr1Key/sUC658WEQtKsVNrBdQPfnoRF0mcfRm6Jz5UtNN2DpGQSMtJILgXgxqtTCjH6o5gtV3qxeyDzbqL97yWkE+YUVS0Q0i0RFDaZuSrim8pJgKd54qT6h6w7gEfdbfMQhLrU0LkNr8mMmtE7EORiiF2pvDHAaIksyqtfnfPsPrJ5dnU2bJb6qPnaZEKZmJiUCk3rNAc/yl6EzBIDgGAVGEKgC3sjlc86ZYie94+JuzgzZUUnToQ3SeFx1atN5N9fcHNH9fVtn6Ff9o4/qiDYY6xct2VwOhiWTw9aXB/wT7FmtkAo+bT0VJCCRpA==;JYe85jntggcKG9GN19A2TA=="

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Is Making Companies Even More Thirsty for Your Data"
-    excerpt: "The outcry over Zoom's tweak to its data policy shows how the race to build more powerful AI models creates new pressure to source training data—including by juicing it from users."
-    publishedDateTime: 2023-08-10T16:00:00Z
-    webUrl: "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/64d430e957ff6ec62db8a934/191:100/w_1280,c_limit/Zoom-User-Data-AI-Training-Fast-Forward-Business-616146659.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Tackling Healthcare’s Biggest Burdens with Generative AI"
     excerpt: "Spread the loveIn recent years, the healthcare industry has faced numerous challenges. From managing the overwhelming patient data to combating the increasing prevalence of chronic diseases, these burdens have put immense pressure on medical professionals and healthcare systems."
     publishedDateTime: 2023-08-11T11:25:00Z
@@ -53,20 +39,24 @@ related:
         width: 660
         height: 400
         isCached: true
-  - title: "AI is setting off a great scramble for data"
-    excerpt: "Adobe’s triumph over the doomsters illustrates a wider point about the contest for dominance in the fast-developing market for AI tools. The supersized models powering the lates"
-    publishedDateTime: 2023-08-13T17:39:00Z
-    webUrl: "https://www.economist.com/business/2023/08/13/ai-is-setting-off-a-great-scramble-for-data"
+  - title: "Healthcare AI Trends to Watch: M&A Exits & Generative AI Use Cases"
+    excerpt: "The healthcare AI space will be an exciting one to watch over the next couple years, as investment dollars flow to startups and providers launch more AI pilots. Two of the most interesting trends to watch will be the use cases that healthcare organizations prioritize when deploying generative AI models,"
+    publishedDateTime: 2023-08-11T19:04:00Z
+    webUrl: "https://medcitynews.com/2023/08/healthcare-generative-ai-merger-acquisition/"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230819_WBP502.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 34
+  - title: "Multinationals turn to generative AI to manage supply chains"
+    excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
+    publishedDateTime: 2023-08-13T03:59:00Z
+    webUrl: "https://www.ft.com/content/b7fafed2-9d00-49b0-a281-c1002b139865"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "6qJY96PEMCuRPob7B7CqtaDnw/MVNi/QFDshNTAlXKIsuFL7dx7vn/JTnDZIcavWkWqJK7H8zE48dIN7jyBNvrY2NisAIGZNCAZhVXalU0zg5SrDOQMytSdTK8A6mOBQudek+3B9yHyhP91r0/HefmhTL18sVXVuNWSXsJyaqOBPzdb309F4bkAs0NY3Z7swMvMnnY9zWMukZ+3PY4ydkMHqowCvQ+8pOeMf6fOnl4GmEW6Bp4AJNNhFFJJjZA5LzqorJ3pNKmYaE/VDjWxSkjv5Sput9GTRHTt/LPPm0Ap53xkPlslp+v4Wg00rl+yx2J4k4hUQi7oRK5L2gLKpj2CBOSGu6lz+HstI5SFp+l8=;dzA7ofpl0937faSLNXRGFA=="
 ---

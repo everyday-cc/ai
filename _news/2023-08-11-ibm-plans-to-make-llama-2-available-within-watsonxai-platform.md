@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/"
 webUrl: "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1400
     height: 884
     isCached: true
-
-related:
-  - title: "IBM deepens AI relationship with Meta, plans to add its model to Watson studio"
-    excerpt: "IBM continues to expand its relationship with Meta on the frontier of artificial intelligence. Here's what's happening."
-    publishedDateTime: 2023-08-10T15:32:00Z
-    webUrl: "https://wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/"
-    ampWebUrl: "https://wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/10/ibm-deepens-ai-relationship-with-meta-plans-to-add-its-model-to-watson-studio/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 70
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/05/artificial-intelligence-5-5-23-e1683284669461.jpg"
-        width: 948
-        height: 532
-        isCached: true
 
 secured: "fvJU8gTM+PlTsQGA/BHzyz4Stt3ujjhJ5Ya9GWjnIBTpBX36jKtslHpunrb97IrLeSLi6p4AT9Btwq5uPtxir+FIQ88zDJeY76UXhzzHoH0AVOynZsWSeKDojWdBsZNoGfeRwI54gyC+U2mn7BOe78gyxWlO0Xl4fiYvV59LC9MiHvCnPpcw5cW+xwnqrHdNVo0Jia7jP5EIaH8BOoSZIcbDk1Is2wZIcDk2H9qEE1YFza4TZVdC+Tp0mOqaqG1B63o9AHjrQvzvaWDAja4kl59QfU2gZiCosJEHD93MU+LVHXFNnX5JR4CxWxyzDGqtFSe9XsR8KgugitktIf7uZUHkhaBWH35K7gi3cSlV37fr9NEZdjizrvIcmwmUIBTPqgegE2FUUzm+ZO4Wm1y+0oGQ9/UqC00nInUXyDeTW4+RGbFZFn8Y0eUHE6E8UUSzu2hexrQJwwUSfHZWUkt6F32WBRFIAFMsot/DTa6Ysl6fU9nOsNBb61NEjh32A4H1qp2/eaf3z/eNBQI1XlYyrg==;dpLTnk4Krs6f6QIbvrfm3w=="
 ---

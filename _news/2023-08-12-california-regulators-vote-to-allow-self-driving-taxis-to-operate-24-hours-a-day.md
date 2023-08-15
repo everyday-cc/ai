@@ -75,6 +75,20 @@ related:
         width: 1146
         height: 692
         isCached: true
+  - title: "California just opened the floodgates for self-driving cars"
+    excerpt: "A passenger yells out the window of his self-driving taxi as it takes him to his destination in San Francisco on July 11. (Josh Edelson/AFP/Getty Images)"
+    publishedDateTime: 2023-08-11T03:52:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/08/10/san-francisco-robotaxi-approved-waymo-cruise/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 24
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/47D53BA4CFDGTSEXPBZC653B5Y_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 917
+        isCached: true
 
 secured: "eiDH8v4ut+TrI00309oIZ3CRbf30L3GFd3PH0tVqvxOeBEDPiuhFo33HmxsnxeX4nXpstCx3GmdK0B6VZLYKtrBDgrTNLDMthjb500rRHE//RyMA9FyoG20AoK/CihZHaUyEs+3/ctGZrch0SaJH2wjcnoYzwVdp/Sk28m/xn9iFe3GG85Ni6hl4NKFl4uoF4Q2gTnJgsg8ptuPX+Wk1zuSdSNjyG/k/ZtI3C/gXhU785LO8O1ApFft/RqC72WcuuEKwxwIAf+gNdIsglwOuv8LTOnHTnjC+AQky2dzhOm/JHEs9nxb/WPSTjFo6iZ7+yQIJ+WpjLO/NOVj9Wc+Gq2kQ5KfcnklM19v6R6THhS3jLgK4oC3fNoy9nZZEJ1CItyBP1wVqZ8YMTvXjrTgf85Jb/Q24TCq97+obp5l1LiwoH59ez/8jnQpivrox1RUpyTgINtABaVwvVgKwmVGFyJdieN6gNqtpDHJCK/ZaPJId6Cw35cpSRdXEVPzn6tR01dmKWT6xljunveQRfv0IsQ==;FomxXOiVmuPaZprG5q1TjA=="
 ---

@@ -40,15 +40,22 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "UT professors embracing, preparing for AI use in classrooms"
-    excerpt: "As a new academic year rapidly approaches for The University of Texas at Austin, it is working to balance fostering a learning environment with AI while preventing cheating among college students."
-    publishedDateTime: 2023-08-14T13:45:00Z
-    webUrl: "https://www.kxan.com/news/education/ut-professors-embracing-preparing-for-ai-use-in-classrooms/"
+  - title: "The looming battle over where generative AI systems will run"
+    excerpt: "Putting AI on cloud versus on-premises systems may seem like a simple decision, but it's much more complex (and potentially expensive)."
+    publishedDateTime: 2023-08-15T09:05:00Z
+    webUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.html"
+    ampWebUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
     type: article
     provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 19
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.techhive.com/images/article/2016/03/ceo_cio_battle-100648302-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "4l3zeCf1M/8lbAYG287T3QjMnmKePoOm7ZhJwqN0HIuM/hHkiJFPdzMgDi27Yz+pqbid/QcG9v7/D73bjx4T61gayqCOrl354T3NnULqd4rDxDiIzw5XWRWhQgiNtgBcbGncvzakF9sq370HZjLj1AJ5VaDLXnhCj6iPmBlwSZZrcOa/8RYGckcA7OGklAH4K0Ka2gFQ9YvuoquFdZdDyGSADClbthRaD/pLurAHVXLp6Ssw6UE9onRGvYij8plE1ofapLBcvQ5e0c8qUSObg0oeG0xcCDMp31fABv7fyY06lBLvXN3x0eAs8i4RV9flGvbFb5sFempW5rEEr4RIlKd1EFfWpEMzlsmen/hw5SCr3cX6oPCUUgjzkQWKLkb+m9DIGv/POeCkSmLN1uagrtrsNC94Y5wGD9q80uCZWFmXd5D9USkzqJNJ+yPdRsXpRdkgHf6gEO/2cbtxOrWMt2FhOU4MgsDQIJQGBNlC2uqXIK0g5HMEfSNQ60KK09bD0+vrJuYNYrnDi5r6Ek2LBQ==;o3WcgMFxP3mgx0czww0zew=="
 ---

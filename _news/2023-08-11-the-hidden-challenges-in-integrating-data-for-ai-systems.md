@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The looming battle over where generative AI systems will run"
+    excerpt: "Putting AI on cloud versus on-premises systems may seem like a simple decision, but it's much more complex (and potentially expensive)."
+    publishedDateTime: 2023-08-15T09:05:00Z
+    webUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.html"
+    ampWebUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.techhive.com/images/article/2016/03/ceo_cio_battle-100648302-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Inside the hunt for AI chips"
     excerpt: "Everyone wants Nvidia’s chips but they’re nearly impossible to get. Also: updates on the Reddit protest, Musk versus Zuck cage match, and more."
     publishedDateTime: 2023-08-11T18:33:00Z
@@ -39,15 +55,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 66
-  - title: "UT professors embracing, preparing for AI use in classrooms"
-    excerpt: "As a new academic year rapidly approaches for The University of Texas at Austin, it is working to balance fostering a learning environment with AI while preventing cheating among college students."
-    publishedDateTime: 2023-08-14T13:45:00Z
-    webUrl: "https://www.kxan.com/news/education/ut-professors-embracing-preparing-for-ai-use-in-classrooms/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 19
 
 secured: "AZTR80oBs12QlssrwrhYZqM2AovltaFcMZIQxvXSfR3FZD8trXoImyKfE0J1g44Z/YXX1Rkawwx/QEm7bGVmK85ED3s8hCVFoFSsJIaPgDqhqHQIQpeYJb73yrjv/xkoFPKwKojcOeIZFafYREOIGGCAYd8waexaHBOFpHtiVeKlCaT3V0gJQB5w4tLf2+iYqSxNS7R2EauP71RzKRqg3uzWhaJx7N4p2/AEsnaMpqt9yn1UlfehJw/TbCGoNJBXIHI6VZR1EDMieN8+dMjOFHLWlCjRMUz3pFp19IjQ3H1KTZ6KuoJk7ksMcQPbQIU2vx6SAOfSLSWvxu/LXglnS0kKGmMcRKe93cO/c9JHAJJXrTmD21RGzqbRptLDXxtWErAGC2zk2ZhtgGBN2Kzqddmw1NXrHJXNqvT4/qHPRuZdiUxEgMYM600spD7WzqHoen0gi+P3J7xzTdASV/NiVyfAvRiyLyUEIWjoW+FTG159vouwyCy/HS/5xJHJYIWzB8Ye+1OnqsBGmCJWtQzFGQ==;B+go1JACGNHGgV3MxcEu+Q=="
 ---

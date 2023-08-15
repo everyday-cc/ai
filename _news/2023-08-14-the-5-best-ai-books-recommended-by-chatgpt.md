@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
-    publishedDateTime: 2023-08-10T16:50:00Z
-    webUrl: "https://techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/10/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "You can build your own customer service AI chatbot with this drag-and-drop tool"
-    excerpt: "Botpress is a tool for building interactive chatbots. While it supports building chatbots for a wide range of applications, the killer app is using it to build a customer support chatbot and backing it up with AI smarts."
-    publishedDateTime: 2023-08-14T14:15:00Z
-    webUrl: "https://www.zdnet.com/article/you-can-build-your-own-customer-service-ai-chatbot-with-this-drag-and-drop-tool/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-build-your-own-customer-service-ai-chatbot-with-this-drag-and-drop-tool/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-build-your-own-customer-service-ai-chatbot-with-this-drag-and-drop-tool/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/a4f0eef2e70ef56e48bc4428d41601df60d1621c/2023/08/11/826e16dc-c712-4bec-9bd0-701c88651466/chatbot-gettyimages-1413855189.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "I'm an AI-prompt engineer. Here are 3 ways to use ChatGPT to get the best results."
     excerpt: "I used to be a freelance writer. Now I'm a prompt engineer helping optimize generative-AI tech. Here's what I've learned."
     publishedDateTime: 2023-08-11T15:50:00Z
@@ -75,34 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "This Showdown Between Humans and Chatbots Could Keep You Safe From Bad AI"
-    excerpt: "She has noticed when using chatbots for class research that they sometimes provide inaccurate information. Guardado, a Black woman, says she uses AI for lots of things, but errors like that and incidents where photo apps tried to lighten her skin or ..."
-    publishedDateTime: 2023-08-14T23:57:00Z
-    webUrl: "https://www.wired.com/story/showdown-humans-chatbots-defcon/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 70
-    images:
-      - url: "https://media.wired.com/photos/64da6a0c0a0f9ed43773f3db/191:100/w_1280,c_limit/Hackers-Take-A-Historic-Swing-at-Harmful-AI-Security-GettyImages-1170285788.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "The Best AI Chatbots for 2023"
-    excerpt: "ChatGPT started the AI chatbot revolution, but there are compelling alternatives to help you get more out of these new, conversation-based tools. We've tested them to help you determine which one is right for you."
-    publishedDateTime: 2023-08-14T15:21:00Z
-    webUrl: "https://www.pcmag.com/picks/the-best-ai-chatbots"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/roundups/01AY6LKrl2he2T0GJgvaDXG-1.fit_lim.size_1200x630.v1691697293.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "How To Invest In ChatGPT"
     excerpt: "These include the Azure Bot Service, which allows businesses to create intelligent chatbots using Microsoft technologies, and Azure Cognitive Services to assist developers of natural language processing and translation tools. Brewin Dolphin’s Mr Moore ..."
     publishedDateTime: 2023-08-14T11:56:00Z
@@ -117,33 +57,21 @@ related:
         width: 1188
         height: 669
         isCached: true
-  - title: "How did DefCon hackers do against AI chatbots?"
-    excerpt: "White House officials concerned by AI chatbots' potential for societal harm and the Silicon Valley powerhouses rushing them to market are heavily invested in a three-day competition endi"
-    publishedDateTime: 2023-08-13T21:30:00Z
-    webUrl: "https://www.columbian.com/news/2023/aug/13/how-did-defcon-hackers-do-against-ai-chatbots/"
+  - title: "Learning to be a writer? Clinic topics include ChatGPT and getting an agent"
+    excerpt: "Local authors and educators Gary Arnold and Alexandra Weiss will be featured in the August Saturday Writers’ Clinic beginning at 9:30 a.m. Aug. 19 at the East Bank Regional Library,"
+    publishedDateTime: 2023-08-14T11:00:00Z
+    webUrl: "https://www.nola.com/entertainment_life/learning-to-be-a-writer-clinic-topics-include-chatgpt-and-getting-an-agent/article_21363b8e-3316-11ee-87c8-1716bd0d6883.html"
+    ampWebUrl: "https://www.nola.com/entertainment_life/learning-to-be-a-writer-clinic-topics-include-chatgpt-and-getting-an-agent/article_21363b8e-3316-11ee-87c8-1716bd0d6883.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/entertainment_life/learning-to-be-a-writer-clinic-topics-include-chatgpt-and-getting-an-agent/article_21363b8e-3316-11ee-87c8-1716bd0d6883.amp.html"
     type: article
     provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 39
+      name: NOLA.com
+      domain: nola.com
+    quality: 42
     images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/08/Cybersecurity_AI_Security__44668-1ffca.jpg"
-        width: 899
-        height: 599
-        isCached: true
-  - title: "Ascott leverages AI with new chatbot providing personalised services"
-    excerpt: "CapitaLand’s wholly owned lodging business unit, The Ascott Limited (Ascott) has launched an AI-powered chatbot named Cubby to enhance the journey of its guests by being their travel buddy and supporting Ascott‘s growth."
-    publishedDateTime: 2023-08-15T00:00:00Z
-    webUrl: "https://www.marketing-interactive.com/ascott-leverages-ai-with-new-chatbot-providing-personalised-services"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 39
-    images:
-      - url: "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/by_year_month/2023-august/ascott_ai.jpg?auto_optimize=medium"
-        width: 800
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/8/8f/88fb72de-088d-11ed-9091-f3736f902ba2/6011b8319c193.image.jpg?resize=1024%2C756"
+        width: 1024
+        height: 756
         isCached: true
   - title: "ChatGPT on Campus: Law Schools Wrestle With Emerging AI Tools"
     excerpt: "Law schools are weighing how to integrate rapidly improving artificial intelligence into the classroom as the legal industry grapples with the technology."
@@ -159,20 +87,6 @@ related:
         width: 1920
         height: 740
         isCached: true
-  - title: "Is ChatGPT running out of steam? AI chatbot's performance raises burnout concerns"
-    excerpt: "Benzinga discusses a recent Stanford University study regarding the performance of ChatGPT over several months."
-    publishedDateTime: 2023-08-11T08:20:00Z
-    webUrl: "https://kvia.com/news/2023/08/11/is-chatgpt-running-out-of-steam-ai-chatbots-performance-raises-burnout-concerns/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 34
-    images:
-      - url: "https://kvia.b-cdn.net/2023/08/smartphone.png"
-        width: 1080
-        height: 770
-        isCached: true
   - title: "A hedge fund manager shares 2 ChatGPT prompts and the AI plugin he used to filter top stock picks"
     excerpt: "ChatGPT produced some \"phenomenal\" stock picks, Alpesh Patel said. But there is a lot more work and testing that need to be done."
     publishedDateTime: 2023-08-12T09:44:00Z
@@ -182,20 +96,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Rise of the chatbots: How artificial intelligence could shape the future of crime"
-    excerpt: "I am here to kill the Queen, a man wearing a handmade metal mask and holding a loaded crossbow tells an armed police officer as he is confronted near her private residence within the grounds of Windsor Castle."
-    publishedDateTime: 2023-08-13T01:40:00Z
-    webUrl: "https://www.three.fm/news/uk-news/rise-of-the-chatbots-how-artificial-intelligence-could-shape-the-future-of-crime/"
-    type: article
-    provider:
-      name: 3FM Isle of Man
-      domain: three.fm
-    quality: 32
-    images:
-      - url: "https://e3.365dm.com/23/08/640x380/skynews-ai-artificial-intelligence_6246406.png?20230810134607"
-        width: 640
-        height: 380
-        isCached: true
   - title: "Many experts believe AI chatbots like ChatGPT are here to stay. So how can they fit into the academic world? We looked for answers."
     excerpt: "With the start of the school year just around the corner, educators acknowledge that programs like ChatGPT are already a presence on the academic landscape."
     publishedDateTime: 2023-08-12T18:03:00Z
@@ -210,15 +110,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How ChatGPT can help you optimize your content for entities"
-    excerpt: "An object. The subject and object are typically the entities ... To determine successful entity usage within your material, these platforms often devise their own entity recognition algorithms. The left side prominently displays the entity."
-    publishedDateTime: 2023-08-13T22:23:00Z
-    webUrl: "https://searchengineland.com/chatgpt-help-optimize-content-entities-430315"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 4
   - title: "Schools navigate regulation of artificial intelligence, ChatGPT as students return to classrooms"
     excerpt: "Artificial intelligence is becoming a major conversation in the classroom, especially a popular software called ChatGPT. ABC7 asked ChatGPT to write a book report on \"Pride and Prejudice.\" In just seconds, it created a report that would probably satisfy ..."
     publishedDateTime: 2023-08-14T12:52:00Z
@@ -228,15 +119,15 @@ related:
       name: ABC 7 Chicago
       domain: abc7chicago.com
     quality: 4
-  - title: "You already use ChatGPT to make life easier. Now try using AI chatbots for better sex, a sexologist says."
-    excerpt: "Dr. Amy Marsh, sexologist and AI chatbot beta tester, spoke to Insider about the real-life benefits of sexting a chatbot."
-    publishedDateTime: 2023-08-12T09:30:00Z
-    webUrl: "https://www.insider.com/ai-chatbots-can-improve-your-sex-life-outside-the-internet-2023-7"
+  - title: "How will the oil and gas industry use ChatGPT?"
+    excerpt: "However, its use extends beyond the household and the classroom, and it is being eyed for a host of other industries. Follow along with GlobalSpec for an ongoing series examining how ChatGPT is being used in specific industries,"
+    publishedDateTime: 2023-08-15T09:03:00Z
+    webUrl: "https://insights.globalspec.com/article/20882/how-will-the-oil-and-gas-industry-use-chatgpt"
     type: article
     provider:
-      name: insider
-      domain: insider.com
-    quality: 0
+      name: GlobalSpec
+      domain: globalspec.com
+    quality: 4
 
 secured: "4IHlKYZNzkhUJOYhZsG/+2yisiKZPbJrtWBNanMawhkeOZuKr1w9h5BbVXr/trYkV49TCgv1Zw8vuDRqqKgR1sDGZ9zIEOA2NKvBiLL9Lpgf9GYmU83gABcEsTKMU6Iv5Qi/VVPNch4KApPjfSXrpxeq8iVtcNdxws1l3XAVpuJBpUsX+ASGPJ9MfLZ9P4vmrGg/Bw62fGXGz0Orc5lIzugSLWUdUtu+bQqambefMSHSfv5HSbdQc5fu4OaUT0m2UciWp7rbwUhOLihFWg4FqlimJnT6rXrtiON4OuzgTpkYi3aRo4MelFXp0K9tAGuPCXN8Cs46rIdGvfp8Z5wM9CFpSzLWqqxdMFd82mAa8KE=;K6kFGWIehNTgktmcUQv6RA=="
 ---

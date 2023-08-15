@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden fuels tech trade war with China, banning AI, chip, and quantum system investments"
-    excerpt: "US President Joe Biden is escalating the tech trade war with China with an executive order to restrict investment in specific sectors including semiconductors and microelectronics, quantum information technologies,"
-    publishedDateTime: 2023-08-10T16:33:00Z
-    webUrl: "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html"
-    ampWebUrl: "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 66
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/china_us_chip_semiconductor-100944587-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI This Week Was All About Chips and China Investment Rules"
     excerpt: "President Joe Biden issued an executive order to take effect next year that will limit US investments in China, focused on chips, quantum computing and AI companies. The UK is considering whether to follow suit, citing a need to strike a balance between promoting national security with the economic necessity of trading with China."
     publishedDateTime: 2023-08-12T11:00:00Z
@@ -49,29 +33,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
-  - title: "US bans American investment in China's semiconductor, AI, and quantum computing industries"
-    excerpt: "The order authorizes the US Treasury to limit or prohibit US investment in three areas of Chinese development: semiconductors, artificial intelligence, and quantum computing. The restrictions"
-    publishedDateTime: 2023-08-10T15:32:00Z
-    webUrl: "https://www.techspot.com/news/99740-us-bans-american-investment-china-semiconductor-ai-quantum.html"
+  - title: "China Wants to Regulate Its Artificial Intelligence Sector Without Crushing It"
+    excerpt: "Beijing issued 24 guidelines that require platform providers to register their services and conduct a security review before they’re brought to market."
+    publishedDateTime: 2023-08-15T02:15:00Z
+    webUrl: "https://time.com/6304831/china-ai-regulations/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 59
+      name: Time
+      domain: time.com
+    quality: 63
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-25-image-6.jpg"
-        width: 1021
-        height: 765
+      - url: "https://api.time.com/wp-content/uploads/2023/08/AI-convention.jpg?quality&#x3D;85"
+        width: 1024
+        height: 593
         isCached: true
-  - title: "US fuels tech trade war with China, banning AI, chip, and quantum system investments"
-    excerpt: "US President Joe Biden is escalating the tech trade war with China with an executive order to restrict investment in specific sectors including semiconductors and microelectronics, quantum information technologies,"
-    publishedDateTime: 2023-08-10T16:33:00Z
-    webUrl: "https://www.computerworld.com/article/3704610/us-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 27
   - title: "Reverse CFIUS Unveiled: Focus on China, Semiconductors, Artificial Intelligence, and Quantum Computing"
     excerpt: "President Biden issued an Executive Order (E.O.) ordering the issuance of outbound investment restrictions. This E.O. comes after nearly a year of anticipation (as we have"
     publishedDateTime: 2023-08-11T22:45:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/futureverse-publis
 webUrl: "https://markets.businessinsider.com/news/stocks/futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space-1032541745"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Futureverse claims its JEN-1 system sets a new quality bar for AI music"
+    excerpt: "Earlier this year, a startup called Futureverse raised a $54m Series A funding round, promising to “introduce AI to the metaverse”."
+    publishedDateTime: 2023-08-15T08:34:00Z
+    webUrl: "https://musically.com/2023/08/15/futureverse-claims-its-jen-1-system-sets-a-new-quality-bar-for-ai-music/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2023/08/Music-Ally-SIX-Campaigns-square.png?resize=500%2C500&#038;ssl=1"
+        width: 500
+        height: 500
+        isCached: true
   - title: "After raising $54m in funding, Futureverse unveils ‘JEN 1’ text-to-music AI generator"
     excerpt: "Most recently, Futureverse unveiled JEN 1, a new text-to-music generation tool in a research paper authored by Futureverse’s Altered State Machine innovation team. The team includes Dr. Alex Wang, Patrick Li, Boyu Chen, Yao Yao, Allen Wang and Yikai Wang."
     publishedDateTime: 2023-08-14T09:25:00Z

@@ -58,34 +58,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "OPINION | How organisations can navigate AI ethics in SA's regulatory vacuum"
-    excerpt: "This article explores some of the findings, along with strategies and principles that South African organisations can adopt to navigate the AI ethics landscape responsibly, upholding societal trust amidst ongoing technological transformation. The experts ..."
-    publishedDateTime: 2023-08-10T15:56:00Z
-    webUrl: "https://www.news24.com/news24/tech-and-trends/news/opinion-how-organisations-can-navigate-ai-ethics-in-sas-regulatory-vacuum-20230810"
-    type: article
-    provider:
-      name: News24
-      domain: news24.com
-    quality: 51
-    images:
-      - url: "https://cdn.24.co.za/files/Cms/General/d/2643/ceada13bfb174c7f81608ac0173f6e66.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "FEC takes first step toward rules on artificial intelligence deepfakes in campaign ads"
-    excerpt: "The Federal Election Commission took a first step Thursday toward regulating the use of artificial intelligence-generated media in campaign ads by considering a petition for new rules and asking the public for comment."
-    publishedDateTime: 2023-08-10T15:33:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/campaigns/fec-first-step-rules-artificial-intelligence-deepfakes-campaign-ads"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 44
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/42faca6/2147483647/strip/true/crop/1200x630+0+110/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F0f%2F5b%2Ffcb4443e8c30e5fe1c04e974423e%2F12afee5b2b53eb31fad4a8e842754437.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "frd5Vsh5kMeMpBOrK8znkmMf8hhH5tIJUQS5aAmU3se7pSNST3yCKuvb/faZDBjHvEyp40OivBJAk/6wpJpQ5p7KwI+KfxnnoCPG+FYwpDzGdxhMdIsE/bZEfuTGilEHPf8chlpk2MQSNskyVuq29/WNfcpdTAknqlqxDpVMUkvEipzDGrm0fg08WZFPGBZ7uAE9cVUOSSU8566Ljxvr+LyzhOOmrBu1FqRb9A2jHm3dy7XsxNDolcICLmx1zAPdTHDg9wHTca3wNyrKUV7kS2EaIYivej4BeGLyoM60RHxkdBXn291I5XDN8akoWXZD1n2TTynbwxS/2+2A2QtjjpJoT+vPL8yn9jta+KhBVazpskgK/hWIQQBnvE/tpTyJCdiBTBtFHcU+iBFiCkDs+JmBGLtmI+4d7ZVrV51Duho03nJCP0tu3TjTIHhS4iNhtBjdYaiR5LX+m1flzW+wZemdAIQSIAbswloLU3CR9BZYjjA4eZxeMtmyF2d9uQK48RQ8kBM1sEaT7xKEmQCSFw==;pgC6UW+GhUy33hfxtnS+pw=="
 ---

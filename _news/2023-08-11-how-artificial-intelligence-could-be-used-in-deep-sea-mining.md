@@ -24,24 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind could give developers a lift with AI coding tool"
-    excerpt: "It's completely free and we guarantee you'll learn something new every day. Google DeepMind may be adding to the company's AI-coding patent portfolio. Google's AI division filed a patent ..."
-    publishedDateTime: 2023-08-10T16:56:00Z
-    webUrl: "https://www.nasdaq.com/articles/deepmind-could-give-developers-a-lift-with-ai-coding-tool"
+  - title: "AI can be used to speed up radiotherapy planning, says NICE"
+    excerpt: "In its guidance, NICE says that the use of AI could save time and money, helping to relieve pressure on stretched radiography services, and allow clinicians to spend more time with patients or concentrate their efforts on cases that require complex planning."
+    publishedDateTime: 2023-08-14T08:38:00Z
+    webUrl: "https://pharmaphorum.com/news/ai-can-be-used-speed-radiotherapy-planning-says-nice"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "Google DeepMind Alumni Shine As Startup Founders"
-    excerpt: "A large number of Google DeepMind employees have moved on to start their own businesses, with the majority of them operating in the AI space"
-    publishedDateTime: 2023-08-13T11:36:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepmind-alumni-shine-as-startup-founders/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
+      name: pharmaphorum
+      domain: pharmaphorum.com
+    quality: 54
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2020/06/COVID-19-and-cancer-can-pharma-stymie-the-pandemic%E2%80%99s-impact-on-mortality.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "L1uHTcN+gntx0NbrsBUczkh3CMQJuLjHKVUtrqM9O4mUhNfKWjqG1aPq8/OosrBo1+tKcvWjNabXsOJc+hEVY2W9nOQreIuaNMNuY+wD11z+yk4U3c1+NIbH3ZiqzGygsqPwMcKOWv1I6vLbYanbLq2WI09irBgObtnsS64DA74emfl7+pdOMiElrdjfxYY1ip+U/rYWXkBJFnH/wxRTVmbwe6GJvXBmONqN/8DZ+S0bUEHCKSMAyKihWRhHKXg83pfBE19HcS68Pf5ZSg0xGR/dt6RNIInjQpbJl2yAlgkzqROHlMDiMG9HOfMWfGLmxdlNG72Y4LU/FkKgjRqvfeWBZOo4gyRSl8pTZHAIBizxH9GehIpwQvQdnKV+BXMq+TB58rub5C1e31Yh+xFOBakQtmuKo8LV5ViSwcKUqxrf8h7mjagRb3sARxwc75clCEITOChpwnq+ojlHBt8na+U71yf1iDyUhrKZnFDWm3wq7hPrc+znA60fQbgI9taFlkOL9OjIzfY1QrytRz/QfQ==;LTWF+0G7Ck1e2HMB4GVUZQ=="
 ---

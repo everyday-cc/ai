@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnan
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit.amp"
 type: article
 quality: 86
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/10/248a1fe4-8764-4664-87bc-b05f69597616/thumbnail/1200x630/8de1786299c722a34656a03b9d4b3fd7/woodruff-arrest.jpg?v=08aa43fa812a9e12e93282c47f58b17f"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Detroit Police Seek Change After Facial Recognition Lawsuit"
-    excerpt: "The Detroit Police Department is pursuing changes to its facial recognition policy in the wake of a woman's federal lawsuit alleging she was arrested at eight months pregnant based on an unreliable hit."
-    publishedDateTime: 2023-08-10T15:51:00Z
-    webUrl: "https://www.govtech.com/public-safety/detroit-police-seek-change-after-facial-recognition-lawsuit"
-    ampWebUrl: "https://www.govtech.com/public-safety/detroit-police-seek-change-after-facial-recognition-lawsuit?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/detroit-police-seek-change-after-facial-recognition-lawsuit?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
-        width: 840
-        height: 438
         isCached: true
   - title: "Detroit mother files lawsuit over facial recognition arrest"
     excerpt: "Porcha Woodruff was arrested by Detroit police after she says facial recognition software wrongfully identified her as a robbery suspect. WDIV's Demond Fernandez reports."

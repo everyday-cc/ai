@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Detroit Police Seek Change After Facial Recognition Lawsuit"
-    excerpt: "The Detroit Police Department is pursuing changes to its facial recognition policy in the wake of a woman's federal lawsuit alleging she was arrested at eight months pregnant based on an unreliable hit."
-    publishedDateTime: 2023-08-10T15:51:00Z
-    webUrl: "https://www.govtech.com/public-safety/detroit-police-seek-change-after-facial-recognition-lawsuit"
-    ampWebUrl: "https://www.govtech.com/public-safety/detroit-police-seek-change-after-facial-recognition-lawsuit?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/detroit-police-seek-change-after-facial-recognition-lawsuit?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Detroit mother files lawsuit over facial recognition arrest"
     excerpt: "Porcha Woodruff was arrested by Detroit police after she says facial recognition software wrongfully identified her as a robbery suspect. WDIV's Demond Fernandez reports."
     publishedDateTime: 2023-08-10T19:23:00Z
@@ -168,6 +152,6 @@ related:
       domain: people.com
     quality: 0
 
-secured: "r1mi4dUF8ia57dDUXlh37FKfnrOKx92jUdFgiZrZYKJ7S/bDtszc/bskkcn+ov6YSfwjZPCRtM5c1JZP+6h5eNXXyi7EFcV6HSvBTiAno7MLwphxLXy/5QmSbkFQYr/HVIZEsNDQHheFIsGY73Xa8d58/7cM8bSQ0z7poHcGFELvdZeRGtrCSU7PTvjVfrteN3JwcEIvnGPfgUb+6mwyBlEZ+WJ28him4zo4HBNV+DbHMat1Yu3hRCt11oq2qTuK0K5ckeJzig82rRG+Hiovh5WkNOr1G7J86g3DOsfteXqLL3E/jJ6RQ2g+d0NQz1tGUGMJRz9j1mzwkworskLT0jS7DmtEmXjJEx/UgTCLNbE=;2b3QyzwSW1IxI9cGBrn0rQ=="
+secured: "JZ1Vgs/Yf5E0xnBYrNrS0YuNRHGbuzUIT6WeVgfjzSr0mAALm4tTXTIbHvd4HaUX0aHnnVNQOGpVqnK3d6dmXL3R/g4+ngAmhoamrP6cp0qJ6Vvpoqiiu9DwY78r7GbRSFmAPahMPLrGM4L4i7Cn9nGivLhE+CGmzEJaCmQFn213UHHjfp/ENfEmtF4/QoinP3E8355u3oKk7VqbK01fvOWhbws/G5TJFCaoaZ6PY0nmIHQ5t6nLoSkHDHOX/kffMYEPIfjIE5StYAR3seeFjQVsOXWf6rz5fjP5trVnZdXJO7FlhfzbcrTgAcUt0RCD2NuWICZzuwuNeimfbH4+EhKzOZzd0uCno+5CWgGR5oQ=;45pzhyZMqEAIEZ2vo6psXw=="
 ---
 

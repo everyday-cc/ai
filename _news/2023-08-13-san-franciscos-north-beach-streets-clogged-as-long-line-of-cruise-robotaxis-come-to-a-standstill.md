@@ -176,20 +176,6 @@ related:
       name: https//wallstreetrebel.com
       domain: wallstreetrebel.com
     quality: 19
-  - title: "San Francisco has lots of self-driving cars. They're driving first responders nuts"
-    excerpt: "It hard to miss self-driving cars and their rooftop sensors in San Francisco. But now they're facing unexpected resistance from the city's police and fire departments."
-    publishedDateTime: 2023-08-10T16:44:00Z
-    webUrl: "https://www.houstonpublicmedia.org/npr/2023/08/10/1193272085/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts/"
-    type: article
-    provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
-    quality: 18
-    images:
-      - url: "https://media.npr.org/assets/img/2023/08/10/gettyimages-1390904872_custom-facb4d78b06ed88683d0ad1b438c70c0e9e87cdf.jpg"
-        width: 4948
-        height: 3235
-        isCached: true
   - title: "San Francisco’s North Beach streets clogged as line of Cruise robotaxis come to a standstill"
     excerpt: "One day after California green-lighted a massive expansion of driverless robotaxis in San Francisco, the implications became clear."
     publishedDateTime: 2023-08-13T04:04:00Z

@@ -35,20 +35,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "Gates Foundation awards $5M to healthcare AI startups"
-    excerpt: "The Bill & Melinda Gates Foundation is supporting 48 healthcare AI and large language model startups with up to $100,000 in funding. 75% of the recipients are f"
-    publishedDateTime: 2023-08-10T15:14:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/gates-foundation-awards-5m-to-healthcare-ai-startups.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "aj/PlnJBDUqjpO4o1FboFsZRPhFMuP1BHoh9+BGI+/94jz0IR0D09gHOFHPIxgJiwT0cxOdBoYZVNiaNnpX0kUzOh2pyLx+//AA/21gvSPb7aIls26VuCPWlTTidpZj73J3nLtqNwXOcLZEzGAOjhP8t5KhEp/IDssxuGkKdGBSq3gqk7iqI7TDjt9DcuuijDbg25zTvS7lfFu6woeF2RP2xEAZ7AN2l36XaOaQKdsu1/SD/RbZTgwE3iWx4UFTtp1SIIRth2LsKSVXUSyyJ2IkCI+2o7e78jOh1prPugYiyFkdLgd3yok6sFdbS2swfqyWKV9qd65c0M8LLcEfqJAprcR7bLu2F/h2k3/HtvaI=;eGCVpDQYIu/ZRCq2mtzJRg=="
 ---

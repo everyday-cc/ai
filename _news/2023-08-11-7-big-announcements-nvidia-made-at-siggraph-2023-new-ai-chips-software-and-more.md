@@ -33,6 +33,20 @@ related:
         width: 917
         height: 696
         isCached: true
+  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
+    excerpt: "The Gulf states’ purchases of large numbers of Nvidia chips via state-owned groups come as the world’s leading tech companies rush to obtain the scarce chips for AI development."
+    publishedDateTime: 2023-08-15T07:51:00Z
+    webUrl: "https://www.afr.com/world/middle-east/saudi-arabia-and-uae-race-to-buy-nvidia-chips-to-power-ai-ambitions-20230815-p5dws6"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 56
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.7646%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_75%2C$y_35/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6c2f7200580e527712f20fef3335cf87cec1ba5c"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "ODMs see Nvidia GPU shortage curb AI server shipments"
     excerpt: "Wiwynn, and Giga Computing have experienced delays in fulfilling AI server orders due to the ongoing GPU shortage at Nvidia, according to industry sources.."
     publishedDateTime: 2023-08-11T01:17:00Z
@@ -88,34 +102,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "China spends big on Nvidia chips"
-    excerpt: "Wants them for its generative AI systems China's internet giants have ordered more than $5 billion of high-performance Nvidia chips to build generative AI systems. Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,"
-    publishedDateTime: 2023-08-11T09:05:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57402-china-spends-big-on-nvidia-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/7d2e48c471e8e1bbb6222171f23a9353_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
-    excerpt: "The Gulf states’ purchases of large numbers of Nvidia chips via state-owned groups come as the world’s leading tech companies rush to obtain the scarce chips for AI development."
-    publishedDateTime: 2023-08-15T07:51:00Z
-    webUrl: "https://www.afr.com/world/middle-east/saudi-arabia-and-uae-race-to-buy-nvidia-chips-to-power-ai-ambitions-20230815-p5dws6"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.7646%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_75%2C$y_35/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6c2f7200580e527712f20fef3335cf87cec1ba5c"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI software startup Modular seeks bumper Series A round to challenge Nvidia"
     excerpt: "According to the startup’s website, its software works by unifying the frontend of popular AI frameworks such as PyTorch and TensorFlow using modular, composable components. This means developers can use custom hardware to train AI systems and later deploy them across any server or edge device."
     publishedDateTime: 2023-08-13T23:44:00Z
@@ -130,15 +116,6 @@ related:
         width: 1030
         height: 577
         isCached: true
-  - title: "Nvidia Is Down, But AI Chip Juggernaut Not Down For The Count"
-    excerpt: "Nvidia Corp. (NASDAQ: NVDA) skidded 4.72% in heavy turnover on August 9, ending the session below its 50-day moving average for the first time since early January. Shares were essentially flat in after-hours trading."
-    publishedDateTime: 2023-08-11T18:19:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/23/08/33747953/nvidia-is-down-but-ai-chip-juggernaut-not-down-for-the-count"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
 
 secured: "z7OfQbsER9hLh1uvNWpZr7JC8Jh02zHNg5kflzgkj0qa9sffP7QZ0yXLsjmud/hdL+YPSQYGRg9mHqDeiRbzLTAfLD7NSLT67zgSuZ/oHRtDNIW1iK9EF3p3fQUUvijp73zco6/9kZT9bSWCgHkEKC+Vx30K/oIWxiQ7iaCfBbiX5QUnGYN7YXRMr+ybiQbDpCdfksuy0/6UIhUSSiTpOr0UTf4RE9lOcYhgD3wTZy2fySFa/Iu+sE13DBNRqucC0NyFun7YFzs5slroaDp71JVG6GSrFMALCCFW/TAIvpyJmUvEgY6yQ6D7dJcdpvFEIT7ffD7d4LDBmqmPnypc30MXRnAr/e2N5fG6tjE1Eky+Sms17HaI/qdk5ZYb1TL1z6E6U/3P6Lj0DMF2YJ5nUGPgQAk9d+AstZmAao1CZ1N+oUhjdfNl0dZ9WoJpQmna99iiUEkt+9b6WNaX+zyS8FZgOv/XlQB4ZdGI6M3iu2aNltZEL3tBV102e//jR3zi6V76Q/2GMMZdeSMKhnGiqA==;c/TrGKQxC/6uATcAbKaORQ=="
 ---

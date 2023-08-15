@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230811/Scientists-leverage-mac
 webUrl: "https://www.news-medical.net/news/20230811/Scientists-leverage-machine-learning-and-AI-to-guide-vaccine-development.aspx"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Guiding vaccine development with machine learning"
-    excerpt: "From tackling homework challenges to drafting emails, people are discovering a vast array of applications for natural language processing tools like generative artificial intelligence (AI) engines."
-    publishedDateTime: 2023-08-10T16:48:00Z
-    webUrl: "https://medicalxpress.com/news/2023-08-vaccine-machine.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-08-vaccine-machine.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-vaccine-machine.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/guiding-vaccine-develo.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
 
 secured: "xwlTsBaPwdeOIjaVVXLPpncBdKfEUaR83S4cv/6mwmtE5kZp2hN186HSgn9s94HqH4SkhaOZKrsNPpsmIkG4/VI25UU2P7kmHEgYJbffQQILf+MdUFy35iCFjC/PEgQzFnwF31nNHlSX/yXyT1CIJE5Pl5fi6WWgfV3oQZ6VeMP2KC3zcwH91M1MOfw1g93SfG8Cp7XeQ0y3nzOJjPOvLHr2em2uFF5f+z/cYQntnf/KixRKhKZD2RrD+jhoDw7awqpQWDI685QRm9jSR3+Fh5MY8JwF/kLPdP0vlC85gcmFR2uIL8mU+ZnQp37kokU/D/YH2I8Vtc2zSaQ+sSZfQu4BzBwvQJTel9N1WANgjdU=;K0p7QM2Wd2htX+VJy5tRiQ=="
 ---

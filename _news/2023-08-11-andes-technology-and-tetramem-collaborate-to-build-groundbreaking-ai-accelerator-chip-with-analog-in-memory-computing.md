@@ -7,7 +7,7 @@ originalUrl: "https://www.design-reuse.com/news/54584/andes-tetramem-partnership
 webUrl: "https://www.design-reuse.com/news/54584/andes-tetramem-partnership.html"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,29 @@ images:
     isCached: true
 
 related:
+  - title: "Collaboration looks to build AI Accelerator chip with analogue in-memory computing"
+    excerpt: "Andes Technology, a supplier of 32/64-bit RISC-V processor cores and TetraMem, a developer of analogue memristor technology and in-memory computing, are collaborating on the development of a fast, highly efficient,"
+    publishedDateTime: 2023-08-15T08:34:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/collaboration-looks-to-build-ai-accelerator-chip-with-analogue-in-memory-computing"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 48
+    images:
+      - url: "https://www.newelectronics.co.uk/media/kgdbdmj2/ai.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IBM says all the building blocks for analogue AI are in place"
+    excerpt: "Analogue electronics promises a more efficient way to train AI systems than computers that rely on zeros and ones."
+    publishedDateTime: 2023-08-11T08:42:00Z
+    webUrl: "https://www.computerweekly.com/news/366548055/IBM-says-all-the-building-blocks-for-analogue-AI-are-in-place"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 19
   - title: "Update: Andes Technology and TetraMem Collaborate to Build Groundbreaking AI Accelerator Chip with Analog In-Memory Computing"
     excerpt: "Andes Technology, a leading supplier of high-efficiency, low-power 32/64-bit RISC-V processor cores and Founding Premier member of RISC-V International, and TetraMem Inc, a pioneer in analog in-memory computing,"
     publishedDateTime: 2023-08-10T22:30:00Z

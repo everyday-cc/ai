@@ -38,6 +38,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Futureverse claims its JEN-1 system sets a new quality bar for AI music"
+    excerpt: "Earlier this year, a startup called Futureverse raised a $54m Series A funding round, promising to “introduce AI to the metaverse”."
+    publishedDateTime: 2023-08-15T08:34:00Z
+    webUrl: "https://musically.com/2023/08/15/futureverse-claims-its-jen-1-system-sets-a-new-quality-bar-for-ai-music/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2023/08/Music-Ally-SIX-Campaigns-square.png?resize=500%2C500&#038;ssl=1"
+        width: 500
+        height: 500
+        isCached: true
   - title: "AI, Metaverse Tech: Outlier Ventures Helps Launch Futureverse Base Camp Accelerator Program"
     excerpt: "Futureverse, an AI and metaverse technology and content company, and Outlier Ventures announce launch of Futureverse Base Camp accelerator."
     publishedDateTime: 2023-08-14T01:24:00Z

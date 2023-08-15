@@ -19,35 +19,75 @@ topics:
   - AI
 
 related:
-  - title: "Enterprise hits and misses - Zoom stirs an AI privacy controversy, ESG has teeth, and open source hits a commercial crossroads"
-    excerpt: "Zoom sparks an AI privacy debate with a controversial terms and conditions update. Open source hits a commercial 'fork' in the road, and does ESG have the regulatory teeth to put 'sexy' generative AI on the IT spending back burner?"
-    publishedDateTime: 2023-08-14T09:33:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-zoom-stirs-ai-privacy-controversy-esg-has-teeth-and-open-source-hits"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-zoom-stirs-ai-privacy-controversy-esg-has-teeth-and-open-source-hits?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-zoom-stirs-ai-privacy-controversy-esg-has-teeth-and-open-source-hits?amp"
+  - title: "Rasgo launches Rasgo AI, a generative AI agent for enterprise data warehouse analytics"
+    excerpt: "Rasgo said its AI employs GPT for “intelligent reasoning,” which enables it to think and act like a business analyst for data warehouses."
+    publishedDateTime: 2023-08-10T18:49:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/rasgo-launches-rasgo-ai-generative-ai-agent-enterprise-data-warehouse-analytics/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/rasgo.png?w=1200&strip=all"
+        width: 1032
+        height: 668
+        isCached: true
+  - title: "Martin Klein Returns to ECS as Analytics & Artificial Intelligence VP"
+    excerpt: "Martin Klein, former chief operating officer of the Department of Defense’s Joint Artificial Intelligence Center, has rejoined ECS to serve as vice president of analytics and AI responsible for the company’s overseeing strategic digital transformation initiatives in the defense and intelligence markets."
+    publishedDateTime: 2023-08-11T09:31:00Z
+    webUrl: "https://www.govconwire.com/2023/08/martin-klein-rejoins-ecs-as-vp-of-analytics-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 37
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/08/unnamed-file-76.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "WCTC To Offer New Certificates In Artificial Intelligence And Data Analytics"
+    excerpt: "Waukesha County Technical College announced plans to offer new certificates in the fall about artificial intelligence and data analytics."
+    publishedDateTime: 2023-08-10T18:49:00Z
+    webUrl: "https://patch.com/wisconsin/waukesha/wctc-offer-new-certificates-artificial-intelligence-data-analytics"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 34
+    images:
+      - url: "https://patch.com/img/cdn20/users/25016349/20230810/024904/styles/patch_image/public/wctcgrab___10144852995.png"
+        width: 985
+        height: 739
+        isCached: true
+  - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
+    excerpt: "Klein served as the chief operating officer of the Department of Defense Joint Artificial Intelligence Center."
+    publishedDateTime: 2023-08-15T08:50:00Z
+    webUrl: "https://www.hstoday.us/industry/industry-news/ecs-names-martin-klein-vice-president-of-analytics-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
     quality: 33
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
-        width: 424
-        height: 283
+      - url: "https://www.hstoday.us/wp-content/uploads/2023/08/martinklein.jpg"
+        width: 1080
+        height: 969
         isCached: true
-  - title: "This week in enterprise: Cyber consolidation quickens, AI transforms programming and open-source rifts widen"
-    excerpt: "Nvidia presses its AI advantage: Nvidia debuts upgraded GH200 Grace Hopper chip with high-speed memory and Nvidia announces major updates to Omniverse with generative AI and OpenUSD and Nvidia puts generative AI at the forefront with AI Workbench and Hugging Face partnership and Rackspace to collaborate with Dell and Nvidia amid generative AI pivot"
-    publishedDateTime: 2023-08-11T22:26:00Z
-    webUrl: "https://siliconangle.com/2023/08/11/week-enterprise-cyber-consolidation-quickens-ai-transforms-programming-open-source-rifts-widen/"
+  - title: "A New Era in Environmental Monitoring: Uniting Satellite Data Analytics and Artificial Intelligence"
+    excerpt: "Welcome to a pioneering era in environmental monitoring, where state-of-the-art technology converges with our pressing demand for sustainable solutions. Today, we delve into a groundbreaking innovation that harnesses the potential of satellite data analytics empowered by artificial intelligence (AI)."
+    publishedDateTime: 2023-08-11T08:10:00Z
+    webUrl: "https://techbullion.com/a-new-era-in-environmental-monitoring-uniting-satellite-data-analytics-and-artificial-intelligence/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 20
+      name: Impacts
+      domain: techbullion.com
+    quality: 23
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/hackerdrivingfast.jpeg"
-        width: 1022
-        height: 649
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-11T090907.168.png"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "zc9Avw/61OOQ0itBm291qQBNgZWDoTLbFgwSxqJ4DnoR/veWWW+LkI11YQ7v+R9GM8NHmQY3suzrVLU7nFamAPNvCsJ0vuCjPpEczztUmnZUzJbJJ+25hZWqDfJxOOxRiYd6S0IZSNuSs/s3nRb1Xzq5JQCKA6l4rx0tetl5KtGD2iSnrepIw06jZ0iGIvDMFU2Efaf5irxeSxqEH3OCwHD8j+pDWcrEGMq0MgQJEisBV6cFfRG2cVL8mhqg6qEHr6086eQUJA5hOs+fzke6EPtOhx3lwql1+PpTo8rbstRN0co4pEpVSw8DS8OmzIGUTceweBvYEP3ITbfUq4C44vLE/9fQQjfizjCPZEk9tkQxj0kUc7d8V/j7PF4RU3aX5Td1wGzPe9orrFiXwF6HCfHRdDM1KI8BbE4WQX05MlWfNioi+EUKFTbFPB1BWeQnLCijrrZJpgsThf/EFeBQLNT9yA16xVKYmTC9YT6eZkfhkDQMSsd0daUazWkYceoZjzTMFxi0/mrs9a70g/kBDA==;2X2bI7uSw2YAC/i/Jekmag=="

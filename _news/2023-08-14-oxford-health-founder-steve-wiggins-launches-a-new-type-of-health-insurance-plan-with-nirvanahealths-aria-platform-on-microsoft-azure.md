@@ -37,15 +37,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "Microsoft Azure meets growing needs of healthcare organizations, such as Mount Sinai Health System, with a highly scalable public cloud for Epic"
-    excerpt: "New Azure Large Instances allows healthcare providers to manage large EHR database loads using public cloud-hosted infrastructure REDMOND, Wash. — Aug. 10, 2023 — Microsoft Corp. on Thursday announced that Epic clients,"
-    publishedDateTime: 2023-08-10T16:59:00Z
-    webUrl: "https://news.microsoft.com/2023/08/10/microsoft-azure-meets-growing-needs-of-healthcare-organizations-such-as-mount-sinai-health-system-with-a-highly-scalable-public-cloud-for-epic/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 29
 
 secured: "4CqNMWyrq3ICfpkwweS2zQ/RSzYtrBbIGPSf0kCV/uSrgc7js+IRUL19nzQ2r03JoX6a/qsCES1t3cgse/kuwmc4Uq/7VhkJ7Aecfc3uZEIF9JzSw2YtrrhygZjnTrv5bxuip1NtFc7DSHcSxVU7Z2m6jXCQDUl+VXaOQmnaJ+s6Ld/fv/R+FiwI2e4hfpufGzGlua23c4IHt13Bl0whdmheIUAhchEXMacn92QGav4v1LFmYRfm+XaF6cCb2jBJxKcVj3wkrFecoGBh14mLa63oYnninwcZc7+gTUwj5zL7RvsTKC3wmh1EM+YJGqaKjj44/BuuPLy84dt5OclEDyLU0Teiy17yUXI9d8B1Wu0=;ZKqIUCXupPO+yoSjSWciCQ=="
 ---
