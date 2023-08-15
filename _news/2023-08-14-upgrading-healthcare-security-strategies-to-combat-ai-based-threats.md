@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/"
 type: article
 quality: 121
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
       name: unite
       domain: unite.ai
     quality: 34
+  - title: "Enterprise Security Leaders See AI and Machine Learning as the Biggest Near-Term Cyberthreats, ISG Study Finds"
+    excerpt: "Global enterprise leaders see emerging AI and machine learning technologies as the biggest looming threat to cybersecurity, and are focusing future cyber investments on detection and prevention rather than remediation,"
+    publishedDateTime: 2023-08-15T15:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-enterprise-security-leaders-see-ai-machine-learning-as-/2023/08/15/9864941.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
 
 secured: "mVhjWNBkntopnBgn0yUP76a2wdlzH72Kt37M88Qzizak5EDrwai2z20RF+KPAaZl4sMSW3uMIwesa4a4hToNksFbyiFvQZJgNc27sbQb5ud5PL5HELyYsEE1LpG4soPKZXfRsZ/NLyGQar8aB32nriEBoIGzUu5hZ6PU+5tRNm3oxQdqf2H5d4cBN/SMD9/lh9zGvNQPzjh3O7UvVlmwXKlPiMMYVyvf+zuE7m6/UpsHAsux/oRhnraZ1DB2FEzjYMqe2SLBMwQ75bHpNTdq69u3RJj4/0zGtYn/dPTKPrmlp/vpluxKbzsJn3K2A19B4jOGimHtZp+BSqs0v550tgyjZHEleE5nRMJrSH/aXtTSP/zoawCnd8+uBSSKHJwYtwGtyHmIaoj3T+30IPVsX5LR2GsnUJX0ly9K9k2aXH2zyD45yEQyux6Q5Fy26nOAGogLBT/VEdSZpkFV+Wd2QTMmaU3VBSSQxyMAp8GIh9w97TYFik0GKodV+/M4C8EMotRS0IWmbjLU9BGLnuZCNg==;/PGFSkY8mqQviNlHAHpiCw=="
 ---

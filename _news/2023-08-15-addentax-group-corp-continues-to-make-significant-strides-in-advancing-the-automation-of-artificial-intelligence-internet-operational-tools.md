@@ -2,17 +2,21 @@
 category: news
 title: "Addentax Group Corp. Continues to Make Significant Strides in Advancing the Automation of Artificial Intelligence Internet Operational Tools"
 excerpt: "Addentax Group Corp. (\"Addentax\" or the \"Company\") (Nasdaq: ATXG), an integrated service provider focusing on garment manufacturing, logistics services, and property management and subleasing, has announced significant progress in its collaborative initiative with Games-as-a-Service (\"GaaS\") firms for the development of Artificial Intelligence (\"AI\") Online Operational Tools (referred to as the \"AI project\"),"
-publishedDateTime: 2023-08-15T13:57:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/08/15/9864915.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/08/15/9864915.htm"
+publishedDateTime: 2023-08-15T15:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/addentax-group-corp-continues-to-make-significant-strides-in-advancing-the-automation-of-artificial-intelligence-internet-operational-tools-1032555433"
+webUrl: "https://markets.businessinsider.com/news/stocks/addentax-group-corp-continues-to-make-significant-strides-in-advancing-the-automation-of-artificial-intelligence-internet-operational-tools-1032555433"
 type: article
-quality: 0
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -65,6 +69,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Amazon now using generative AI to summarize customer reviews"
+    excerpt: "Available on a wide number of products for many US shoppers on mobile devices, the AI tech will condense all the customer reviews into one digestible paragraph."
+    publishedDateTime: 2023-08-15T17:37:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/fd7d04c6b95c4ca84d40ae31677e3db892358371/2023/08/15/a50e0fd5-5c54-4fcf-83cd-0e849a812256/figure-top-amazon-now-using-generative-ai-to-summarize-customer-reviews.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AI's Next Frontier: Are Brain-Computer Interfaces The Future Of Communication?"
     excerpt: "Explore the thrilling convergence of AI and the human brain as cutting-edge technologies like Neuralink blur the lines between science fiction and reality."
@@ -161,6 +181,6 @@ related:
       domain: medcitynews.com
     quality: 0
 
-secured: "XgqHsxRs3qjCqdJ9PnvggQ0SlPiUi48oLfNj7hcV7ax3GaSyKVyMRLrrPiWZpeZwKEbW3Co7eObkTSuPDuq4WD1ZX2AJ0U6ET42gbiuMyXuyhzFh8HLdaMUrY3cAuWviiaWBHjK6vzfjNpa2K1htkR65TtS6tdojs1cbqp5z9ZQad2BjG0QkByiJkQ6bA9cGp/3oPI5WLvwUZbjAnK2x2lHe+nPgjJtxkJCOdkZWADmXVOYTCgStSznicuuB99aUy9iqYATN8Or5Kew7hTRbHXQkCF/M8LVqYkZ7fWNEnH/ZLtI6HkoD3gFFQyf+4JKZN5+dZyrUj0ji3uLSJJXRy+T8/jA1qpVVH6SxYlayJBk=;evkwAh6xqoGDNpxHVu5OgA=="
+secured: "RoUa5wmAMhAZpw6EQRAQVleSFQRyqOsnIOHd4KOFcoVZARHQjgs5R5jTXQQ15ihGUbGZVOzCI+zrnqdr6McSW+pbR/G45IrsNv8TBwyu2eGEK5i/vQEyLiewN3XtAtEE1haYOfB0vtn4E+ILkd3nXu6WxY/gWCaxuUTQptRs9LOdlVOE+qFjxeAxMQttPy5Xln+tk3csmaWj4SecdJam43EtUonwzL1ytvoQhhAje6jmkIgMk8dC/OL7S6lfPerBOcp5w2W4FWcFyIKZU/IThkEtKCDGupEsMufODnePALf3RkR7TCp4KX43xmYJhbt2Ag19grEzIXM9vpkLrjwE5ON4QuaqVpK4NFC1xFbHGyE=;dMnfAXwpnTVmRUnT3rLYZQ=="
 ---
 

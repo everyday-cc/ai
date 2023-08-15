@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Generative AI Revolution Is Underway"
+    excerpt: "It’s not an easy path but with proper support from employers and government, the benefits of AI are likely to significantly outweigh its costs."
+    publishedDateTime: 2023-08-15T15:45:00Z
+    webUrl: "https://www.aei.org/workforce-development/the-generative-ai-revolution-is-underway/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
 
 secured: "mnb0ywq43wzw8EKq9HOU5UggKlCXEaeTL70oTcJOErZy8ESgj4702faxPvmd56ph12mYUOLOsRjaoplQPJ4ouwAcpB7A/35iIyuvz2exfJJmzmCkQbQ7o9p7BMlTzGo2KcxLF4zO1IGt2dHp7Tw3txBAtYYFNC+8mFsiiJfghTbkSZ1GZZukLwyJp1dhJHwZSurD+/SAL4uHLESsG05pOMr2btgVkFfzBcJ52SmkNECAX0jBAZOnnxIA2fN2lwOcqiHdHZZs4Ae4so0Un8bO20pPnbuwQwaWfaEG1hc9LHssRe9AbS2/5J86r2+MaUHxkvvNxOVIn9raOyXiPgwBVH1E9YsUQDvBTKEv2B7vYQrTY8B9aeDjZ6w0f/JGbW6RiBxL5CrNIXN4+Af+AQxqQpZgMUoZ9T70G7KaoQ5bfZPkVRS9txO1YB+RPR4IjZxQxFIPc1eCcBvgHzShqbeC46E62/hT/Umg+CwmX1j0rLAGlyToqtOUAku2+9o+ekLa0L6uNk3HKZU9rR8GEWM6Ng==;5utaxxFSsYOTCrW9Gqth7w=="
 ---

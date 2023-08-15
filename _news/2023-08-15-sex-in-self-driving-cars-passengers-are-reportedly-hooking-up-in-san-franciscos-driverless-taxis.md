@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp"
 type: article
 quality: 75
-heat: 235
+heat: 225
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://cdn.theatlantic.com/thumbor/x7OD6DAsLd1BJLs-tijl7E9WRPk=/0x102:4792x2598/1200x625/media/img/mt/2023/08/robotaxi_still/original.jpg"
         width: 1200
         height: 625
-        isCached: true
-  - title: "Cruise, Waymo given green light for robo-taxis across San Francisco"
-    excerpt: "Waymo, Cruise self-driving cars can charge for taxi service. Companies have promised thousands of additional cars on San Francisco streets."
-    publishedDateTime: 2023-08-11T01:19:00Z
-    webUrl: "https://missionlocal.org/2023/08/cruise-waymo-given-green-light-for-robo-taxis-across-san-francisco/"
-    type: article
-    provider:
-      name: Mission Local
-      domain: missionlocal.org
-    quality: 39
-    images:
-      - url: "https://missionloca.s3.amazonaws.com/mission/wp-content/uploads/2023/08/IMG_4511-scaled-e1691694476680.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Despite Public Safety Concerns, CA Driverless Taxis Get Green Light"
     excerpt: "\"They're not ready for prime time,\" San Francisco Fire Chief Jeanine Nicholson said recently, adding that they have interfered with 55 recent incidents."
@@ -235,6 +221,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "zTvt6ryiaqHyII9sGnKHeJJHUVOVTDe24ek5KiLn4vY/jAWIX9oe4BH5U1/kzR/uphQfuGVyJ51ypBduJ5j7FqyOT1KHV2dMBg3e4M+z1ikU+Ky7Du5nzJ97+xN/rvnsY/1YSjiTR2lZXBC56c0Cq4pyho0Gje7DDf3ZYrdhtGPU8YyfnryFgqsscl8LPtKorEd3jQ8m/LppqzqlcQOiRHoq0H9u/2scbmP168OB5K2mAA2CDWPk0JUXtpFEQbrV4+Xa3js7INxQvumj3qUFwYPeHGpsFda4DTqYdaoByv9JTt6eEA4a/rfdxMa5G0jpVETJXUzyJ9skoC8PozM2RbqL1VrDtFWNk0J0SwjIUS0=;WblsrIDP7g977rl//zKcnA=="
+secured: "1W6FmxoDcvuQY2CzjBzVzn7z7SVPY8BoKwrOl7614BjXrI8mPqtITCgsaXdQ5V2Kjb+kQnUVLYMny2feoyjyZl94wLmcEwdIblLWxF4S3XKl0F9rFd48GnDsGS5pa+jHNtl6NwRn5rgpwir8s7qv7moRNZzV/lRTEV9FV2oYlUE5SHt714+sx/vDnq45+NtH4wwFPfU/zuNdVMEnQaI4t8v4hlPJCIOhY3tAy7jw+bHhCcXULq1vVPirWmbv7mChh3suGD8t6mwi66Mv7z54f6DL7qXaHtIKdKIlKjYUZA1C8h6A+SNnU+Q3l9plK6yRHJQSuDRwADGeV4M3xOps6sWY0aNfDanr+9DRMs+1X7P2NExdqu+GtCM+oEI+IpHTDc5rBZ5JYa3ONcbQZycC0yqJ/WOhcf1QKVip8ibunIHCfx6pl1F4O8Du0WscsHBss758IFfKOTupDaACepLeP+UFwP8HDPEuqnkVwaW/x5161a6d0N+1RZEmMgPGOJHBJ50Di/d4gdh34ArhamdYxA==;34INDcpmxiq7yqoeK5x5uQ=="
 ---
 

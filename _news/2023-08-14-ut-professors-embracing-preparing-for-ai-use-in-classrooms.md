@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "SQream Expands its End-To-End Low-Code Analytics Platform with Flex Connector AI Assistant"
+    excerpt: "New features leveraging AI and LLMs establish Panoply as the easiest end-to-end analytics platform for SMEs to obtain critical business insights without complicated code. TEL AVIV"
+    publishedDateTime: 2023-08-15T17:47:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/15/9864734.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/2068670/4221224/SQream_Logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "NnNRfSe5hoxQzqhyfaUS3ObP3s8rHNB7F0HbO7g8pXFTqHPrBDu71sucBV4fVlNPhGK2UQJcgK3mPU2FF503zn2Mu2XOXxjetVYRYw646K37r1ni50iKny1cqd9hZxsVdPKr7vtTXeStkpa6uYpRXKCI7WhGu9pzymtXZkD7y9ksVCfm5KUvy+NcePIJkh/C1jRKKWNEWhEJ+03Zi68KiRI1m/mn6SZ/i1n6WJduqkkfnzecWZ2pDdiKGMAYJCOZ/r2x9SVbYnKXr37M3tCIceTjg2K+1MdHZgv6SqTaJPtfQ9GhZJAjNvTMcexofGSlsxvoXIEzw1lhHAju8ncljHDb8gswFG99AaQYG8njfH+IPIzvqu5E7Fh+zfQwVIXjkBi2Zs2FgQsVT/fWpt51C6ry80Zr4vFvg3qLYVVI4ZekRHrwvqY1Y21c0B0EK+AMql6cT2aFMNFuy4Rgc4Y0/S825rmZWFgenX5g9SmEF5uX4OXKcLz/roS26IOAf3056WHRZUn6GgHhPwS2vlOSKw==;Le/GjvcyGUizffk6BUvjxg=="
 ---

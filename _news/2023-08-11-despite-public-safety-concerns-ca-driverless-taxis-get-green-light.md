@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "Cruise, Waymo given green light for robo-taxis across San Francisco"
-    excerpt: "Waymo, Cruise self-driving cars can charge for taxi service. Companies have promised thousands of additional cars on San Francisco streets."
-    publishedDateTime: 2023-08-11T01:19:00Z
-    webUrl: "https://missionlocal.org/2023/08/cruise-waymo-given-green-light-for-robo-taxis-across-san-francisco/"
-    type: article
-    provider:
-      name: Mission Local
-      domain: missionlocal.org
-    quality: 39
-    images:
-      - url: "https://missionloca.s3.amazonaws.com/mission/wp-content/uploads/2023/08/IMG_4511-scaled-e1691694476680.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Tourists in fast lane with driverless transport"
     excerpt: "Driverless vehicles have become tourist attractions in the city, providing smart and convenient rides to tourists. Autonomous vehicles carrying people around Shanghai Haichang Ocean Park in the Pudong New Area started trial runs on Friday. Autonomous vending vehicles have been put into use on a trial basis at the same time."
     publishedDateTime: 2023-08-12T10:54:00Z

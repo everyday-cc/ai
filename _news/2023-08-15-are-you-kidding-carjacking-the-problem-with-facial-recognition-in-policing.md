@@ -110,12 +110,12 @@ related:
         isCached: true
   - title: "Lawsuit filed after facial recognition tech causes wrongful arrest of pregnant woman"
     excerpt: "Flawed facial recognition technology caused the wrongful arrest of a pregnant woman in Detroit, the latest in a string of false arrests blamed on the technology, according to a federal lawsuit ..."
-    publishedDateTime: 2023-08-11T14:13:00Z
-    webUrl: "https://www.jsonline.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
+    publishedDateTime: 2023-08-11T14:14:00Z
+    webUrl: "https://www.indystar.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
     type: article
     provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
+      name: The Indianapolis Star
+      domain: indystar.com
     quality: 32
     images:
       - url: "https://www.gannett-cdn.com/presto/2023/08/07/PDTF/af0fbd16-6503-499c-9768-a5ed2475395c-Detroit_Police_surveillance_Project_Greenlight.jpg?auto=webp&crop=2399,1350,x0,y356&format=pjpg&width=1200"
@@ -138,15 +138,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "How Flawed Facial Recognition Technology Led to Arrest of 8-Months-Pregnant Woman on False Carjacking Charge"
-    excerpt: "The case against her began with faulty facial recognition technology NIC ANTAYA/The New York Times/Redux When six Detroit police officers knocked on her door one morning this February and told ..."
-    publishedDateTime: 2023-08-11T01:17:00Z
-    webUrl: "https://people.com/pregnant-woman-falsely-accused-carjacking-facial-recognition-technology-7571184"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 0
 
 secured: "jYAA4+nUzSCS7y1u1V51WJrHTU0M0IM8JJsgNPNVheHtcDC+iolElSJgg60NKoSGbE2tUcn3FqO3vTG7SmWS7nmfwc8Mlj9p+oIIb45ChQIyFNV5sxy6ZXHx+QjVbB75iSXNqGJQINCqzUNrQiiz7s0Nn1yH5axR2bYq6NjsstKpuBrdSzZADaHtgJvPZzhD13aXRUAHSlHOe09pQqsIKJtXo8R5wPVPG+vg7KNz7MlfcepNN0EL6CVc/W7nBU2kKC+a3nXl5x51bhRRnsTNe/wyNOoYenfwcSM4F8pWD9f9fXrJRUcL+MnH/Gf13eqOBjKIDOlHPGPW30OUxBOrG4T/YbxBDy2hLiY029FL8/0ocdR+PsNOfwWARFjsu/QLhStsWZ+GjBmyVZ5Bj6rSnaJo27kRbHJGG07UWSY6rRwxlxT3G1eKKjdsHGrLxjJAB+AOgBVQG5OlTW5CPvejuk11MhjykHOsHtyroVaWPxieqJs7JViejhFql7uKuJQLh7HaHI2W8TZmlrkL0Y1Wwg==;B9mgasKZnxvfJgHlozcVUw=="
 ---

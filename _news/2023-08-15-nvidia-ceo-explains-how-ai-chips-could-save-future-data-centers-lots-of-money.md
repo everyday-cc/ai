@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "ODMs see Nvidia GPU shortage curb AI server shipments"
-    excerpt: "Wiwynn, and Giga Computing have experienced delays in fulfilling AI server orders due to the ongoing GPU shortage at Nvidia, according to industry sources.."
-    publishedDateTime: 2023-08-11T01:17:00Z
-    webUrl: "https://www.digitimes.com/news/a20230811PD200/ai-server-gpu-nvidia-qct.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230811pd200_files/2_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
   - title: "AI software startup Modular aims to boost its series A contest against Nvidia"
     excerpt: "AI startup Modular Inc. is reportedly in talks with investors regarding a large funding round that would value the company at approximately USD 600 million."
     publishedDateTime: 2023-08-14T13:42:00Z
@@ -114,6 +100,6 @@ related:
         height: 577
         isCached: true
 
-secured: "cnyKIT+TXPcYD3vqqI8HCps9rAaDSenS++CNEjCdZpdxUc+2cMPs2nz8X2RqIeWYgSPB66BB1TRFCBn3oawGfHM6bsnTtvLl/7xJo8Z1MNVmmgpm1H79sjxLQ2Q7gOy0izQJlrtxPlMPRw+d0PtwIzk+H7jPyc1K6KkxyMBZpy6UbnXH976R0lXnE7pLLEDTKf36AJy07inXsiloQZ43Oh/epsqBN5WCAag4HOq1t81aAHoLweO1WlqOR5RikCTtuw7ktA2Mr69cRa2WI/v6h4RjSmz4/Pid+v0PQ/ZV6/m92m+86k2yRjAuBVJMdqa3NUJlbcMVHxX33wZoEA2mokHaZB/aziAwhp2Gvo6315A=;EHlqAYPDoMAqCbjg+BGO3g=="
+secured: "Tu40PJS1EpccQKuimFIq8NOKxm0HemLg/Y0L3OEapTbAlkDHwCXbZZPkjgiS3Nys4qbeEIoSOo35wALUkf7qXUcb1+CfkPlkVS6pvMdXX2D3IInJP53jHf3TF8DjwXpHXv5n4pSqoU+XRmz0PlpCl5GDxakMuZy7MtHRl5I2c1YR02MUjIxSIlnxyZVhn1WUgHJzmhR+I+kANcDTn8NtcFkDuWm5xPB68Owbsapfc8YUqryZM/ggPvuL9lrEBGHMsu7RfXTKa/PzsUe8sppz25kZ4dmAoQwgpT1UA8DPPLH4Wc0mCW3H8VMvCKxhdSEj2xvcA6YmiiFocp3Pd0aCuZRGjZEfdmlGLTnhPQrg4M4y3F6HsymopizIENqIr+FyYih9uZ+7tpb2UL6zX3uIKa7Il7e5hZ276AvQaQWIAYNZ0Ggs9fgBXKKSZAotFkGKvx+EnOsmyVk5y++zjtb/Qf0jz4HfjIAKEpX0C/puh+UqzOewxylwWtYEp+QonMIN1GRm52+snfPWufFly4xrBg==;6cWQMMqZOOvGZnuwZHZPjw=="
 ---
 

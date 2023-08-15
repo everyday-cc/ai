@@ -24,6 +24,22 @@ images:
     height: 495
     isCached: true
 
+related:
+  - title: "From Startup Nation to AI Nation: Listening to Machines"
+    excerpt: "Two Israeli companies are seeking to introduce the innovation of AI to industrial and energy factories, leading the traditional manufacturing sector towards a better future"
+    publishedDateTime: 2023-08-15T16:27:00Z
+    webUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-listening-to-machines/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 37
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/users/ami-appelbaum1692115798-400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
+
 secured: "qzC0IG9N/vkjF35al21clN46bKnIajacpaNI4Pxdh3gcDEDQ91uBwHiz3E9w7UsWWsxIM+OGAmeaY5rkIOdb7o+ZClEj5QmZ332eH/1AwkDruDKBI8fQ7ZE3Jt2I9v8uGUg+6yH3CGRcKhU6I3+Fvcrml9GBi7d2R2CHZ+0bXmW5QVYSZO2mrEdI4fWAVTzjfxADnnNSNePp6GoETryLC0j5lYDysXBZZyJBe8xBHURdm2dZ/R0Nb0l23PIBcehhLFOMO9ww6qtrTROcP5OFpS7mHgc2UM0RpYTRjE0Otf78zLqPO7wK7gGxO3M1OYJlBWNhy4S92/1FSeUoregDRvPRql6VJ261eVVWozfc3fevlGg3bU0dHpR1fnPV5etV3oVqGxIevZynR5yuZZUFIjY5toHDWmJUCMx5Fne3Fyscxe8XJFJWjaHP0eqpJdIsixbMdlW4vU7TsMjejxFk0gw22vGlStRfi97xHf4TK5lsbSSh8bxXOLJKknWwQv8x3i9X7NuYKbl5w/0KlxhSbw==;UvKCXhog1aDwsx2M54QSdA=="
 ---
 

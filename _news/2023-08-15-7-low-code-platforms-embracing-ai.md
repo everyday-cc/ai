@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704792/7-low-code-platforms-embra
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.amp.html"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "SQream Expands its End-To-End Low-Code Analytics Platform with Flex Connector AI Assistant"
+    excerpt: "New features leveraging AI and LLMs establish Panoply as the easiest end-to-end analytics platform for SMEs to obtain critical business insights without complicated code. TEL AVIV"
+    publishedDateTime: 2023-08-15T17:47:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/15/9864734.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/2068670/4221224/SQream_Logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "UT professors embracing, preparing for AI use in classrooms"
     excerpt: "As a new academic year rapidly approaches for The University of Texas at Austin, it is working to balance fostering a learning environment with AI while preventing cheating among college students."
     publishedDateTime: 2023-08-14T13:45:00Z

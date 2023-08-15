@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "ODMs see Nvidia GPU shortage curb AI server shipments"
-    excerpt: "Wiwynn, and Giga Computing have experienced delays in fulfilling AI server orders due to the ongoing GPU shortage at Nvidia, according to industry sources.."
-    publishedDateTime: 2023-08-11T01:17:00Z
-    webUrl: "https://www.digitimes.com/news/a20230811PD200/ai-server-gpu-nvidia-qct.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230811pd200_files/2_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
   - title: "Not the usual suspects: Nine stocks to profit from AI that aren’t Nvidia or tech mega-caps"
     excerpt: "Artificial Intelligence has captured mainstream attention over the past year like never before. Here's how smart investors can look for profits away from the crowd."
     publishedDateTime: 2023-08-11T11:47:00Z

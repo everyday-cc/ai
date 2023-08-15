@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/amp/"
 type: article
 quality: 91
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "The Generative AI Revolution Is Underway"
+    excerpt: "It’s not an easy path but with proper support from employers and government, the benefits of AI are likely to significantly outweigh its costs."
+    publishedDateTime: 2023-08-15T15:45:00Z
+    webUrl: "https://www.aei.org/workforce-development/the-generative-ai-revolution-is-underway/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
 
 secured: "kAFvhSrCNBPkXZueg+jzeGum2KagrmiSQ+kOE1LJ+cpbfet3Jv6irWNYJSPmoF/dM+SVMHrgeKf9K9gs0N6aEDxF6DIb9Cg7yUL94k5x4QHTybKRPCHc4waNAGi6V5+j69Bv72vY4z2PqLLxK1TUrEizhHxlllshAvuTl9w3I7Nm2L6SWb0++6hJJHhEAW18rV85ja6wcUBwZuB0kR3iGKc21Awdk20CG6RL/XdPbSF+HdhTQlAcTNuo4WXRQeF0EXWz4x5eBW0HG8jnRuu9iBvP9DvZJ0t5FL9qjEp8w160sNY97cMGtdJHLVHGQXQduSjxfNbcxamPwbGchAMYt11WOzrGY2V9Kz8vkRe6HX47MIKNTEPnuNCb7odgEj9LxEYQF7OWZ+vJ0Mpu2YBCIZxlSz05FwARXawURJOraBx3cMXcPgUa9GZpc+tBHLBcSPxgdmT32VpahEZOZPkX8s7NITWPua6PD3giTRUWiPIIviJsqO0CFxz7ZnClxpCKE+NM5UCOXZ/5xi/DsDqD4A==;Qo0hKutOPAhFJxPVettu6w=="
 ---

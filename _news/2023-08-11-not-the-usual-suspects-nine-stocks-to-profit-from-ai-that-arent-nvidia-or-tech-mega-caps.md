@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "ODMs see Nvidia GPU shortage curb AI server shipments"
-    excerpt: "Wiwynn, and Giga Computing have experienced delays in fulfilling AI server orders due to the ongoing GPU shortage at Nvidia, according to industry sources.."
-    publishedDateTime: 2023-08-11T01:17:00Z
-    webUrl: "https://www.digitimes.com/news/a20230811PD200/ai-server-gpu-nvidia-qct.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230811pd200_files/2_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
   - title: "AI software startup Modular aims to boost its series A contest against Nvidia"
     excerpt: "AI startup Modular Inc. is reportedly in talks with investors regarding a large funding round that would value the company at approximately USD 600 million."
     publishedDateTime: 2023-08-14T13:42:00Z

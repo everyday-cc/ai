@@ -146,15 +146,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 28
-  - title: "Kyndryl taps Microsoft generative AI for new service, moves toward future profitability"
-    excerpt: "The IT infrastructure provider announced the joint project with Microsoft on the heels of announcing significant 1Q 2024 earnings where Kyndryl executives said the company will return to profitability in the next year, at least a year ahead of what financial analysts predicted after the company spun out of IBM in November 2021."
-    publishedDateTime: 2023-08-11T01:24:00Z
-    webUrl: "https://www.arnnet.com.au/article/708304/kyndryl-taps-microsoft-generative-ai-new-service-moves-toward-future-profitability/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 26
   - title: "Doctors use Artificial Intelligence software to plan for the future"
     excerpt: "About 30% of U.S. doctors are approaching retirement age, but only 12% are choosing to retire. Why? In a financial environment struggling with inflation, advance preparation for retirement is necessary for all physicians seeking more comfortable golden years."
     publishedDateTime: 2023-08-15T15:46:00Z

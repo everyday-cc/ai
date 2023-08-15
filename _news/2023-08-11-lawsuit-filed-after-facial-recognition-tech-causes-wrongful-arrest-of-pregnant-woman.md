@@ -2,17 +2,17 @@
 category: news
 title: "Lawsuit filed after facial recognition tech causes wrongful arrest of pregnant woman"
 excerpt: "Flawed facial recognition technology caused the wrongful arrest of a pregnant woman in Detroit, the latest in a string of false arrests blamed on the technology, according to a federal lawsuit ..."
-publishedDateTime: 2023-08-11T14:13:00Z
-originalUrl: "https://www.jsonline.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
-webUrl: "https://www.jsonline.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
+publishedDateTime: 2023-08-11T14:14:00Z
+originalUrl: "https://www.indystar.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
+webUrl: "https://www.indystar.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Milwaukee Journal Sentinel
-  domain: jsonline.com
+  name: The Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Computer Vision
@@ -133,16 +133,7 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "How Flawed Facial Recognition Technology Led to Arrest of 8-Months-Pregnant Woman on False Carjacking Charge"
-    excerpt: "The case against her began with faulty facial recognition technology NIC ANTAYA/The New York Times/Redux When six Detroit police officers knocked on her door one morning this February and told ..."
-    publishedDateTime: 2023-08-11T01:17:00Z
-    webUrl: "https://people.com/pregnant-woman-falsely-accused-carjacking-facial-recognition-technology-7571184"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 0
 
-secured: "JZ1Vgs/Yf5E0xnBYrNrS0YuNRHGbuzUIT6WeVgfjzSr0mAALm4tTXTIbHvd4HaUX0aHnnVNQOGpVqnK3d6dmXL3R/g4+ngAmhoamrP6cp0qJ6Vvpoqiiu9DwY78r7GbRSFmAPahMPLrGM4L4i7Cn9nGivLhE+CGmzEJaCmQFn213UHHjfp/ENfEmtF4/QoinP3E8355u3oKk7VqbK01fvOWhbws/G5TJFCaoaZ6PY0nmIHQ5t6nLoSkHDHOX/kffMYEPIfjIE5StYAR3seeFjQVsOXWf6rz5fjP5trVnZdXJO7FlhfzbcrTgAcUt0RCD2NuWICZzuwuNeimfbH4+EhKzOZzd0uCno+5CWgGR5oQ=;45pzhyZMqEAIEZ2vo6psXw=="
+secured: "q8LJVDIGNdyS2IxAhYxmvZ172d3zUG5+MbH2MP5PLjrnkFlub9p9nO9VnT1hGbFaeRqawKt9Rje2IDVj3TvDAefX25dI0en5lvOEOGjl8RBHFvRHyu5wILMA3IFiodbrBuhS7bVtap9hOzGvIHGTp3FiHAK6ReCMu01YhfQJrCMkZzuU2CsARnMaXpu8tJ9QU61GFmMMzdWhGdkIlplC21uIT6aZSYprhhCs7XUG1EGKSiYpTtLXb6vJHw4hqJGH7ARg/V0LcXEIwXJLg2cwjNYpH7Cc/sLHG86hTQgX+bPPThZ2KqlI+vKhkgIZjN0eYWYydAO/BROtc3LewFNeGa4ufgQxos22FVk449obd9c=;IuGudYKf56TujnxXT4N5YA=="
 ---
 

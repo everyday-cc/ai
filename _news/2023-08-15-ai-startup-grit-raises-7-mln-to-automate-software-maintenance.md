@@ -28,15 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup Grit Raises $7 Million to Automate Software Maintenance"
-    excerpt: "(Reuters) - Artificial intelligence code cleanup startup Grit has raised a $7 million in a seed round, the New York City-based startup said on Tuesday."
-    publishedDateTime: 2023-08-15T11:01:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-15/ai-startup-grit-raises-7-million-to-automate-software-maintenance"
+  - title: "AI startup Grit raises $7 million to automate software maintenance"
+    excerpt: "Artificial intelligence code cleanup startup Grit has raised a $7 million in a seed round, the New York City-based startup said on Tuesday. Founders Fund and Abstract Ventures led the round, with participation from Quiet Capital,"
+    publishedDateTime: 2023-08-15T14:01:00Z
+    webUrl: "https://www.aol.com/news/ai-startup-grit-raises-7-110150974.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "viCuWT0EUfEOcZwno/ppU1J5epmifC/hN1Y3frkkFD4CC35KBUS8TW9V9PmXgpqGrVWB1cFXfDd14O9bvm+6XfEhTA+703MBIFtlRl7qKh54wvGcVBUKiOqhKZcMpM01+pW1TSs3A/eqZZPGuAT8zZeQTX7loIx1ZWkS2rBBdwv82UbOomO/l/7mJXFrE++YKBXZ8eAMzs1nlJvLkcowqE43rHUwznsFKXRaZWHo4I/k+nk7U8cTePYH0Np7gcQd4KDlH/Z7rvlBjDpR6s0dX4gqnBmC9D9qM9EMrYZPqAAeFW7yvFky5uWygTJ0Y6kiw3cd3XtEnMMYvGf2tCdtaQzdVavWhNDCSztSsFapXtI=;gfZ/ZX52Z9dXW4OKQhypUg=="
 ---

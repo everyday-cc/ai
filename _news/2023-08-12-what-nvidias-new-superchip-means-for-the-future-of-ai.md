@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-superchip-f
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.7646%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_75%2C$y_35/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6c2f7200580e527712f20fef3335cf87cec1ba5c"
         width: 1200
         height: 628
-        isCached: true
-  - title: "ODMs see Nvidia GPU shortage curb AI server shipments"
-    excerpt: "Wiwynn, and Giga Computing have experienced delays in fulfilling AI server orders due to the ongoing GPU shortage at Nvidia, according to industry sources.."
-    publishedDateTime: 2023-08-11T01:17:00Z
-    webUrl: "https://www.digitimes.com/news/a20230811PD200/ai-server-gpu-nvidia-qct.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230811pd200_files/2_r.jpg"
-        width: 336
-        height: 224
         isCached: true
   - title: "AI software startup Modular aims to boost its series A contest against Nvidia"
     excerpt: "AI startup Modular Inc. is reportedly in talks with investors regarding a large funding round that would value the company at approximately USD 600 million."

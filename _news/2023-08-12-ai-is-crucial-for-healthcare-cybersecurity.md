@@ -74,6 +74,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Enterprise Security Leaders See AI and Machine Learning as the Biggest Near-Term Cyberthreats, ISG Study Finds"
+    excerpt: "Global enterprise leaders see emerging AI and machine learning technologies as the biggest looming threat to cybersecurity, and are focusing future cyber investments on detection and prevention rather than remediation,"
+    publishedDateTime: 2023-08-15T15:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-enterprise-security-leaders-see-ai-machine-learning-as-/2023/08/15/9864941.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
 
 secured: "3B7HTaIvElliEDt/qTwbbrY9kDtAzJC/mLrR1PHOhvDKNbzyRh4QibuSO2+0M0FIcK6WrDP4/EHIQCQLCuEsWT3PKaNnYWBLvf23VN8Qx6m4P/A+6p7TBT0aOrfcBqlB9elaQCPo9NS3ZR3WOM4DH8zEYGkG9UsdSZTFvPSsxgPgwVfuxCAzXSobfr59S1CA2/O1Rsr0wzAoIAdxORqWuchTnS/yDt6DpePVdXYHQkjY+8X0W4roKb7pYQBvflf0DZjAOPBm7yVSLA5HweB+FLC2hzTZraT3q8nPCuhDrp8FkrPJqINrxBlIVtVYpPMwBjKxwAmmCZ3t+Mbf1JxDBBGYRfJBu/AVfv7zJmYdS9iZo7kqUp2LLvD3Ahh6RzDANrp30uh/nLB6N8gS7iVn+nMeE/Vmc5VXAaZSaOpf8IjLAM//ZFCR/OMjV6TTYNZ/pT6YKTBuj68DDYd1QMtNOvqQyERNqzx/YoiiTDkZMp4o54YN1s1k9BUqKjEeCkKnYONhYSoZZdLvI0pJgXDwcA==;ErxK9wOnFT2YaEimxTfphA=="
 ---

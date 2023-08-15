@@ -1,31 +1,29 @@
 ---
 category: news
-title: "FDA Grants Breakthrough Device Designation To Tempus' HLA-LOH Companion Diagnostic Test"
-excerpt: "Tempus, a leader in artificial intelligence and precision medicine, today announced that the U.S. Food & Drug Administration (FDA) has granted the company Breakthrough Device Designation for its HLA-L"
-publishedDateTime: 2023-08-15T13:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/b33858918/fda-grants-breakthrough-device-designation-to-tempus-hla-loh-companion-diagnostic-test"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/b33858918/fda-grants-breakthrough-device-designation-to-tempus-hla-loh-companion-diagnostic-test"
-ampWebUrl: "https://www.benzinga.com/amp/content/33858918"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33858918"
+title: "FDA Grants Breakthrough Device Designation To Tempus’ HLA-LOH Companion Diagnostic Test"
+excerpt: "Tempus, a leader in artificial intelligence and precision medicine, today announced that the U.S. Food & Drug Administration (FDA) has granted the company Breakthrough Device Designation for its HLA-LOH assay as a companion diagnostic (CDx) test."
+publishedDateTime: 2023-08-15T16:30:00Z
+originalUrl: "https://www.pharmiweb.com/press-release/2023-08-15/fda-grants-breakthrough-device-designation-to-tempus-hla-loh-companion-diagnostic-test"
+webUrl: "https://www.pharmiweb.com/press-release/2023-08-15/fda-grants-breakthrough-device-designation-to-tempus-hla-loh-companion-diagnostic-test"
 type: article
-quality: 36
-heat: 36
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PharmiWeb
+  domain: pharmiweb.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+    width: 1200
+    height: 448
     isCached: true
 
-secured: "ns2qZ+0IX19Rokn36OJMjWHv7LPEQTLF1OuqAf08Z+dY4NN5AyCFkT/Qlis7SG6Hy7Oi1e96i3YAIRd2pkpr/mZPxHgqjipWCddyRbdsNdQW69pO/nzIm0kzBJb7N2N2gro7FCrLqJvD7DVSmS0nYVAVaxJTIm5H3yefjIO1B7kHvpGcbKGGGn9MdUdCict4h51l1o53Gb77WZBViseoFHtXFt2tM5n0waOpFCHPZlVI4GNK/hNbrCHGz6iJTxt+9Fe1RzBditaynDYuf2YpPvofigU86zjr6eHMk5+Z7bRriwANnVyfPX7K0a4iEusXxuuQJMZJfl41E+3a6eZUX+5wUdi8X1CklS57uHHsdbA=;4L6KZhhiS1ayrOz1/38aqA=="
+secured: "B1IlO2q84Ywg37Nj/0gPGReRs7tOSroit6Uk6Wbq4TJ5RJgr+62cWWc2uxDXzz470aW2CI10zxKN8kaqG2sbQV5BePblYp7fqIa1sjlGzYlyOHPT7yesyPxHmpLI0Kj9RKgM9siHd2BiL81KSQ3lLgsIJ6g43iVT5UYc8HA3t346aQM1GiCTKlEPS7/KmMPIpRkkTV4+hrsBjYUHaCHSZdhVFWvu+Madu+UlE8w3k2G3iIUWuH48qv6XMRbfOkk4Mr3yeZkpAQMj0SXJmA/31g28I4DSUY6tK8pI0x/xHZ9ATZk279Vy/Riv9q2YiD4I6JZkWUSP68izBNtEtJdq8ZGldUwLE30CD6m0OpNznBw=;syWWBIJ4/+Z17bez0xJdiQ=="
 ---
 

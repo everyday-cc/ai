@@ -68,6 +68,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Amazon now using generative AI to summarize customer reviews"
+    excerpt: "Available on a wide number of products for many US shoppers on mobile devices, the AI tech will condense all the customer reviews into one digestible paragraph."
+    publishedDateTime: 2023-08-15T17:37:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/fd7d04c6b95c4ca84d40ae31677e3db892358371/2023/08/15/a50e0fd5-5c54-4fcf-83cd-0e849a812256/figure-top-amazon-now-using-generative-ai-to-summarize-customer-reviews.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI's Next Frontier: Are Brain-Computer Interfaces The Future Of Communication?"
     excerpt: "Explore the thrilling convergence of AI and the human brain as cutting-edge technologies like Neuralink blur the lines between science fiction and reality."
     publishedDateTime: 2023-08-11T05:59:00Z
@@ -155,13 +171,13 @@ related:
     quality: 13
   - title: "Addentax Group Corp. Continues to Make Significant Strides in Advancing the Automation of Artificial Intelligence Internet Operational Tools"
     excerpt: "Addentax Group Corp. (\"Addentax\" or the \"Company\") (Nasdaq: ATXG), an integrated service provider focusing on garment manufacturing, logistics services, and property management and subleasing, has announced significant progress in its collaborative initiative with Games-as-a-Service (\"GaaS\") firms for the development of Artificial Intelligence (\"AI\") Online Operational Tools (referred to as the \"AI project\"),"
-    publishedDateTime: 2023-08-15T13:57:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/15/9864915.htm"
+    publishedDateTime: 2023-08-15T15:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/addentax-group-corp-continues-to-make-significant-strides-in-advancing-the-automation-of-artificial-intelligence-internet-operational-tools-1032555433"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 12
 
 secured: "DSnyEn3tvXYb4xok2RxZHId6k+Bxz0aj3VtpX+mvC1acM0xxsCQ3/bzrqLOYBYLvDVnnbLEmPZ3xIjjdZyU8lBzgTSpQNFSd/TkQPTRQu6nOh4L7zIo7/KZs8vzGs5xgqF8DgwoIHLDzxCs9owQoDjl5vbiJ9A8oiAdVP1FKD3TXMPJOAys+Wlo05f14GrfZzFR/m5KZS5ROKBPy/aymWCVUy+5stjvmyAtIWHkxEkudt+fBnCbGUtmBcRsJQA1IpCVrVwVHrmoDZgHKFvSKZIhkZUPQbGUTcZMhf322JlZdg87olLpnbrgk6oUTMunsM8KrV9JeGabrYgZYvTUwZTLz/XMXCeuRfLCrLE55vE2LWcnCNzCWcINtaSQEB+G8LEvbJyNPGlnfQiUNqhlXuo1hQlAitUutYaOyL7eVEnDMNzY13JIayjusYOOzDAGmS1hs8AWbkCLIcroKlVRE4DxFHD7Sv+E2bMapcHfh3qUQpOXy1junIwnanUc0Yf8L7J/23YMOmXoGYmjv3QSAqw==;5wnwV2d8v8+aqv1vZYkI5w=="
 ---

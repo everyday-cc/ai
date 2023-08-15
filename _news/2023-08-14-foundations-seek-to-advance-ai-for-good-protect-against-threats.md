@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How to use Windows 11 Copilot AI"
+    excerpt: "The Windows Copilot AI is now available for Windows early adopters in the Insider program. Here's how to use it."
+    publishedDateTime: 2023-08-15T17:13:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/08/summarizedocuments.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Case Against AI Everything, Everywhere, All at Once"
     excerpt: "and inspire independent funding and ethics guidelines for a vibrant research community that will fuel innovation. With the right priorities and guardrails, AI can help advance science, cure diseases, build new industries, expand joy, and maintain human ..."
     publishedDateTime: 2023-08-11T09:04:00Z

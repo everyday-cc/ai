@@ -7,7 +7,7 @@ originalUrl: "https://www.financial-planning.com/list/older-investors-flock-to-a
 webUrl: "https://www.financial-planning.com/list/older-investors-flock-to-ai-stocks-as-gen-z-plays-it-safe-wealthtech-weekly"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Hedge Funds Flock to Big Tech, AI Stocks In Q2"
+    excerpt: "Megacap tech stocks and artificial-intelligence plays rallied in the second quarter. Many big hedge funds flocked to those bets. Funds like Appaloosa, Third Point and Pershing Square opened new positions or increased their holdings in tech giants and semiconductor stocks during the second quarter,"
+    publishedDateTime: 2023-08-15T17:46:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-15-2023/card/hedge-funds-flock-to-big-tech-ai-stocks-in-q2-qGqFDs48zkGBiaUAaag7"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-836010/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "PqdRf03OMQbh5NLjlJ6CXeRr+3QvID2gGJwXxAuLyVhiVcstx7YJGavsD+iITVH5Q5lqOqtO96kPCSU4WCU0JYhRehcrtu3SVKKO1A6BANF7xDuzPxZWiLzWkovV92075fX0jgdKcjPMG2RlfnG7aOVCo47zKuH6p0j6jiqIxkwW7LIF6d/aDrihPe4yws5wFELpVYJLtNyhLUdwHVBR+bGNK/iKjWkl7BJE77n6SdhGEE+Sq/Jx+RUiLBk6OjTpZTeKBJmrSo+IIyqE7zCPKLkKV8W6cFiWS5k8z43xVbB2Oda8IAsjfA2gdE1rBNreVHSS80UObNEDr4zHibZbxwT2i1gW2vf+4tQpraFqARjuVA/D7yqeYEb+nhv2bz5UJBsZ1hWCz91AfSSUn9Gso1pB25+XNBZKuOCvn8IMWiO7jUKFo4OhX3HnYLGtasWMi+25dI6g9zkkPWRGYqjg4b3FxVPKzbOL/R+UEljC4giUQXmVzG56hCVngSesUk2nVb4GdQ93wi1/NmhW9Dp2Og==;zdn0UmxBb/dfCTNDp5mL2A=="
 ---

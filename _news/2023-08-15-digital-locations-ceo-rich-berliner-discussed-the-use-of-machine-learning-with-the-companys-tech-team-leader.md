@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Digital Locations CEO Rich Berliner Discussed the Use of Machine Learning with the Company's Tech Team Leader"
-excerpt: "Dr. Elias Alwan from Florida International University (FIU) commented about using machine learning to overcome the challenges of delivering high-speed Internet from satellites directly to smartphones SANTA BARBARA,"
-publishedDateTime: 2023-08-15T15:41:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/08/15/9864977.htm"
-webUrl: "https://it.tmcnet.com/news/2023/08/15/9864977.htm"
+excerpt: "OTCPK:DLOC) Digital Locations CEO Rich Berliner Discussed the Use of Machine Learning with the Company's Tech Team Leader"
+publishedDateTime: 2023-08-15T15:21:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2023/08/15/digital-locations-ceo-rich-berliner-discussed-the-use-of-machine-learning-with"
+webUrl: "https://stockhouse.com/news/press-releases/2023/08/15/digital-locations-ceo-rich-berliner-discussed-the-use-of-machine-learning-with"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "4a136RPdC/aNqIP05+G2ETdjflsE5MUxMD6gU7KSJ2xWPFl12HbZfjAJUrt5nUUDzo04nQC/hPZnnbeUtVBxAGCcY/zrb0ckUqda/vAw2qTx6vmM2l6BFYpDV03UHHGMTb6lfap7ddO57irp1Fkr8FFGAQwaU7qr9lIU9qf/5aSuxquSPXXa24AXQb5kf1kZIXG5WWS6qi8ReAe5D7gr4mkrLTJrL0l+ZZQ5rlLYDRDb8/MITUBVSoxlGSRM/Ho2z5cERE5vu4ekSKDHvPQ92BV6iWsLwk49PJlDVIfJ4p8A3Pp38CYlERPsUzo5CS4Zy4vIENC2bxcx6MkuD8/UPCj9jxkOvAAN01K7LIVlQik=;yWcdkX6awDJi/MMVti2gJQ=="
+secured: "x3UWrn08dyG2jB48RvwKB1xG2OEw85TqxbLeOff609YA2mYDerXIF8BJnkbcp3NtsClZ4FHCJKu8cxBhRleFVFgWvCmFFR6+LoVTsMgLJA+pwjYlPqgG4xeA/aVJELkGZxbDwcXtBS66okCppu6nWx64yrRPmKY5WjtjqAVox+nOtqbAbLH6iI8YcYSilahuh1UMGRsii8yBohjN3AkF9K6Ri9JnXXmeOJ+Phk0Ak1b1ege0e/g8QDO9ioMBJk85/reM6aCnIeog2qksrR6qYHi4IQ+yR5vJQUP8EhnHrof0/Y6gBQVCXIY3fjHCsJU4FbcVBQjjS35OeAV5DdCgi2E6nezUEpC52/AY055X8OA=;H4hdEj/BgUIJ6POfGFDyfQ=="
 ---
 

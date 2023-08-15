@@ -1,25 +1,90 @@
 ---
 category: news
 title: "Enterprise Security Leaders See AI and Machine Learning as the Biggest Near-Term Cyberthreats, ISG Study Finds"
-excerpt: "NDAQ:III) Enterprise Security Leaders See AI and Machine Learning as the Biggest Near-Term Cyberthreats, ISG Study Finds"
-publishedDateTime: 2023-08-15T15:46:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2023/08/15/enterprise-security-leaders-see-ai-and-machine-learning-as-the-biggest-near-term"
-webUrl: "https://stockhouse.com/news/press-releases/2023/08/15/enterprise-security-leaders-see-ai-and-machine-learning-as-the-biggest-near-term"
+excerpt: "Global enterprise leaders see emerging AI and machine learning technologies as the biggest looming threat to cybersecurity, and are focusing future cyber investments on detection and prevention rather than remediation,"
+publishedDateTime: 2023-08-15T15:32:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-enterprise-security-leaders-see-ai-machine-learning-as-/2023/08/15/9864941.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-enterprise-security-leaders-see-ai-machine-learning-as-/2023/08/15/9864941.htm"
 type: article
-quality: 33
-heat: 33
+quality: 31
+heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
   - AI in Security
 
-secured: "FjQHNk6Mauk81IcF8biBPn9cqilPhi5XgkhU79NkfjNYJDWiN6pF4PNbhKKLjNgPbc5+d74uv4lEutHJPFMFiropm43FZk1D5Qx7EZ5yRwa0K9eAKFotq1IjSGi6NwC5vqz0x73/TRxqmyge3JcdEsSEF6QlqaipgLJUJWldTDruibJHGMC252MqJ3BoM1KQMyq7sTTVmSi10vEk7duFVz91nDq6ugeNhp/KhVu3V61aSsns82B6R/wFjRbm+5UtCN+Vn4s3uDpVJS2FY7/gIlr9Zfn0curqo6huqse/PUSPqJ9+bzJbbgjYPjykK9Pm7CNmfOKIli9n94f6lV5LZm2OTkoStn9zS5v/+Wq2Giw=;eQ5oz2lCNJeFv01ucNmTYA=="
+related:
+  - title: "Upgrading Healthcare Security Strategies To Combat AI-Based Threats"
+    excerpt: "• Use AI to combat AI: The bright side of artificial intelligence is it can deliver as many effective capabilities to cybersecurity solutions as it does to criminals. Software should leverage sophisticated AI-based tools, including optical character recognition and algorithms that recognize “red flag” keywords that could indicate a breach."
+    publishedDateTime: 2023-08-14T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 121
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/820808708/0x0.jpg?format=jpg&crop=4765,3178,x0,y314,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Unlocking the Power of Artificial Intelligence in Healthcare"
+    excerpt: "Artificial Intelligence (AI) is rapidly revolutionizing various aspects of our lives, and its significance in healthcare is undeniably on the rise."
+    publishedDateTime: 2023-08-11T11:14:00Z
+    webUrl: "https://www.mid-day.com/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
+    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 74
+    images:
+      - url: "https://images.mid-day.com/images/images/2023/aug/Hidoc1108_d.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Generative AI's Dark Side: How It's The Perfect Tool For Hackers To Spread Malware"
+    excerpt: "Generative AI presents many opportunities for businesses to improve operations and reduce costs. On the bright side, there is great potential for this form of AI to deliver value to organizations. However, it has a dark side in the cybersecurity landscape, as hackers can easily manipulate it to spread malware."
+    publishedDateTime: 2023-08-14T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/generative-ais-dark-side-how-its-the-perfect-tool-for-hackers-to-spread-malware/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
+  - title: "Generative AI used to conduct cybersecurity drills"
+    excerpt: "A pair of recently-launched products use generative AI to actively train people on cybersecurity through the use of live simulations of real attacks."
+    publishedDateTime: 2023-08-11T20:22:00Z
+    webUrl: "https://www.accountingtoday.com/news/generative-ai-used-to-conduct-cybersecurity-drills-in-two-programs"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/bd302f2/2147483647/strip/true/crop/200x105+0+48/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc3%2Fe9%2Fd7a87c004bfe95e86c1840f263ae%2Fcybersecurity1223123.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Is Crucial for Healthcare Cybersecurity"
+    excerpt: "Healthcare organizations are among the most frequent targets of cybercriminals’ attacks. Even as more IT departments invest in cybersecurity safeguards, malicious parties infiltrate infrastructures — often with disastrous results."
+    publishedDateTime: 2023-08-11T18:03:00Z
+    webUrl: "https://www.unite.ai/ai-is-crucial-for-healthcare-cybersecurity/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 34
+
+secured: "qTeLrN5ToyVrPTQbn6+k+ULVvWcmuOiFFjWvlV3nVlfBw9Xl/WT98JcclwtRcrHig0GT/Gjm2RCY/u6LRVmsQiFJwekKITGOpDzJL7ZXeWTmZM7o9M2mB4F5xR3izWz1cGu6SMI188iqTSs86u29Ebh+Z6/uiIlC6gQQSFLpyQwhqpoj8MkAb2TwSlMkGlVYN6PbN+83p3FXfw+w/GLVYEjPT+Xtvsz4G5XFuxdTnDA3PPTiM6JxlgF/asBwaAXtWI14P3gUWGGKYyL2bffSBQrKTBblw6wjcG6BEX/lzDjhgqApjpIZ4Nm0Yo6LixXCSiztKBRIOPc7xWmaYEEtY/56U/AowK4XhuyAVgXqDng=;U+rn8B8eN/KjeGpgIPWL1A=="
 ---
 
