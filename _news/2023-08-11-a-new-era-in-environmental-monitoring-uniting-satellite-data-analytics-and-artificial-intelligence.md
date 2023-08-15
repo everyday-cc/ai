@@ -52,15 +52,6 @@ related:
         width: 985
         height: 739
         isCached: true
-  - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
-    excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Martin Klein has been named vice president of Analytics and Artificial Intelligence (AI). Klein returns to ECS after having previously served as a program manager,"
-    publishedDateTime: 2023-08-10T11:20:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/10/9862493.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
   - title: "Top 10 Alternatives to GPT-3 – Analytics India Magazine"
     excerpt: "GPT-3 has 175 billion parameters, making it one of the largest language models ever created. It can generate human-like text and perform a wide range of tasks, including translation, summarisation, and even writing codes."
     publishedDateTime: 2023-08-12T19:41:00Z

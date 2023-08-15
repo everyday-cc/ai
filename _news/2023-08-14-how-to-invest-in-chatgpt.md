@@ -214,6 +214,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How ChatGPT can help you optimize your content for entities"
+    excerpt: "An object. The subject and object are typically the entities ... To determine successful entity usage within your material, these platforms often devise their own entity recognition algorithms. The left side prominently displays the entity."
+    publishedDateTime: 2023-08-13T22:23:00Z
+    webUrl: "https://searchengineland.com/chatgpt-help-optimize-content-entities-430315"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 4
   - title: "Schools navigate regulation of artificial intelligence, ChatGPT as students return to classrooms"
     excerpt: "Artificial intelligence is becoming a major conversation in the classroom, especially a popular software called ChatGPT. ABC7 asked ChatGPT to write a book report on \"Pride and Prejudice.\" In just seconds, it created a report that would probably satisfy ..."
     publishedDateTime: 2023-08-14T12:52:00Z

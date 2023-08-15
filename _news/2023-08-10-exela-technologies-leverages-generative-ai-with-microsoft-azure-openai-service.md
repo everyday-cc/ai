@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "On Technology: The Major AI Problem Facing Insurance Brokers That Microsoft, Google And ChatGPT Won’t Solve"
-    excerpt: "Navigating Demographic Challenges in Embracing Change. How AI's transformative potential clashes with an aging industry workforce."
-    publishedDateTime: 2023-08-10T16:59:00Z
-    webUrl: "https://www.forbes.com/sites/quickerbettertech/2023/08/10/on-technology-the-major-ai-problem-facing-insurance-brokers-that-microsoft-google-and-chatgpt-wont-solve/"
-    ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/08/10/on-technology-the-major-ai-problem-facing-insurance-brokers-that-microsoft-google-and-chatgpt-wont-solve/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/08/10/on-technology-the-major-ai-problem-facing-insurance-brokers-that-microsoft-google-and-chatgpt-wont-solve/amp/"
+  - title: "Microsoft Azure awards Protiviti specialisation in AI"
+    excerpt: "“Protiviti is proud to collaborate with Microsoft to be a leading provider of AI enabled capabilities,” said Christine Livingston, global leader of Protiviti’s AI services. “Together with Microsoft, we look forward to helping organizations utilize AI solutions responsibly to drive impactful transformation in their businesses.”"
+    publishedDateTime: 2023-08-15T04:45:00Z
+    webUrl: "https://www.consultancy.uk/news/35089/microsoft-azure-awards-protiviti-specialisation-in-ai"
+    ampWebUrl: "https://www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai"
+    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: Consultancy
+      domain: consultancy.uk
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d4c66d604bda7e4b0eda0a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 763
+      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-10-021905627-Microsoft_Azure_awards_Protiviti_specialisation_in_AI_spot.jpg"
+        width: 546
+        height: 312
         isCached: true
   - title: "Exela Technologies, Inc.: Exela Technologies Leverages Generative AI with Microsoft Azure OpenAI Service"
     excerpt: "Exela Technologies, Inc. (NASDAQ: XELA, XELAP), a leader in business processing automation (\"BPA\") today announced its collaboration with"

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "3 ways to play the artificial intelligence boom"
-    excerpt: "Stocks related to artificial intelligence (AI) have been leading the market higher this year, with names such as Microsoft, Nvidia and Apple jumping between 33% and 218% year to date. These gains are reminiscent of the dotcom bubble in the late 1990s. I’m not entirely convinced we’re in a similar position, but we are certainly in a peculiar market."
-    publishedDateTime: 2023-08-10T12:57:00Z
-    webUrl: "https://moneyweek.com/investments/3-ways-to-play-the-ai-boom"
-    type: article
-    provider:
-      name: MoneyWeek
-      domain: moneyweek.com
-    quality: 17
 
 secured: "RbGu0qkvFPmCl6HUrrnuTUQvKXVgS3i/lvx3pSGJtIvQz+kEBtplTCLK+Mox5NdCpF1eOvoSVvCu/pnGEWjX+xVIWbTvY4UOjvsVAUCY0IoR4LYDkkHYVr+8C2VtwEshceznEF8owHGuka7ozNPPTbXOFi+19d50OqiTtce9XCdEBjYYM/hw1Wg6PkLT+jhsSTxkXrxrzJX/91T0GAyCm54QJmb1TsO2PR/776KIKT5EehDnI3gGgwZ5HVhOgg4sguJ+mGjGEKQiAdBULYA95b6zEVhvJDlL9AfvDafHH3CYwHKMpbpaTwBvKB3mo+bupelGtwQaFE67kpJpQyNhkJA892I2QRrlhIQwzYSfkEc=;W+IZrGKJf/XWgkz3y99wzA=="
 ---

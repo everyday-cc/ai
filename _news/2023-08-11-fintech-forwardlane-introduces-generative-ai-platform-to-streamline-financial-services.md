@@ -71,15 +71,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 36
-  - title: "The 3 Best Fintech Stocks to Buy in August"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As digital banking tools, such as banking apps and automatic bill payments,"
-    publishedDateTime: 2023-08-10T12:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-fintech-stocks-to-buy-in-august-1032540197"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Journalists seek regulations to govern fast-moving artificial intelligence technology"
     excerpt: "Several news organizations, writers and photographers groups are pushing to be involved in creating standards for the use of artificial intelligence, particularly as it concerns intellectual property rights and the potential spread of misinformation."
     publishedDateTime: 2023-08-12T21:00:00Z
@@ -126,15 +117,6 @@ related:
       name: American Banker
       domain: americanbanker.com
     quality: 19
-  - title: "Qraft Technologies and LG AI Research Enter Strategic Partnership – Exploring the Potential of Artificial Intelligence-Driven Solutions in the Financial Industry"
-    excerpt: "SEOUL, South Korea-- ( BUSINESS WIRE )-- Qraft Technologies, a leading invest-tech company developing artificial intelligence solutions, has formally entered into a strategic technology research partnership with LG AI Research, an artificial intelligence research hub of LG group, with the signing of a Memorandum of Understanding (“MoU”)."
-    publishedDateTime: 2023-08-10T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230810311418/en/Qraft-Technologies-and-LG-AI-Research-Enter-Strategic-Partnership-–-Exploring-the-Potential-of-Artificial-Intelligence-Driven-Solutions-in-the-Financial-Industry/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
   - title: "AI-Powered Innovation: VAST's Vision for Democratizing 3D Content Creation Takes Center Stage as the first Chinese keynote speaker at SIGGRAPH 2023"
     excerpt: "At the SIGGRAPH 2023 conference, Yachen Song, founder of startup VAST, presented his vision for using artificial intelligence to transform 3D content creation. VAST joined industry leaders like Nvidia and Unity on stage at the 50th anniversary of SIGGRAPH,"
     publishedDateTime: 2023-08-14T21:53:00Z

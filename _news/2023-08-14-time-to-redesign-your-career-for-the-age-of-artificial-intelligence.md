@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "3 ways to play the artificial intelligence boom"
-    excerpt: "Stocks related to artificial intelligence (AI) have been leading the market higher this year, with names such as Microsoft, Nvidia and Apple jumping between 33% and 218% year to date. These gains are reminiscent of the dotcom bubble in the late 1990s. I’m not entirely convinced we’re in a similar position, but we are certainly in a peculiar market."
-    publishedDateTime: 2023-08-10T12:57:00Z
-    webUrl: "https://moneyweek.com/investments/3-ways-to-play-the-ai-boom"
-    type: article
-    provider:
-      name: MoneyWeek
-      domain: moneyweek.com
-    quality: 17
 
 secured: "syjaaY2nBGwFvtUIXw6wxXrqNwfmIoe+NyJM+sUMIif9XCcLEnut5SQ6m9+NnU7SByfbyqUyPLUQQvaTpTDOw4RV8WJVY9x6N/SszHw3TEmdrSlbRJFIDQyjVKLvX7yla3CNoVgW4lPxpp+NnbhKwCgWIDhkhxbzJnGy3o/6uqhcbPpSR2KT0NNHRWXPWx5Ut38EfS3VMgwt0XUH++aWwMw62+VqCTKiu7HcmPvoq6kIWeV8ceBlkepnf1ek5cr4RVvNMczHLb+1GBX1VeXhYbBZcPkq0fF1o3UNYVRoOibhlsWf/yoaTuAqZ1y4sRaA31GvGSP3j7Bih4PwGtHAYrVeD6EjqZn1DAmr9Jy+DlAvRX9sH1XxsU36L6tnUChYYSDp7DcdqAtAi6Oo5YIG3ExJUniEBiuN+kwUjV4jeqBgAygfgko1l7mvDvx6Jm2sPiTV7+ChSuD8VXnfktTwJd4AdFW+CZn0o8Fu9ojehQy7IELBK7rbfoG8vO1mrLkMkLRDKHZzcR35Fa4ruRJkcA==;xElTaUNG9dEC1KpYLHV83Q=="
 ---

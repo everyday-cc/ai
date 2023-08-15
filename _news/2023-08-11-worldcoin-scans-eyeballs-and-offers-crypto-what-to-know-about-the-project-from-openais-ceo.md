@@ -2,11 +2,11 @@
 category: news
 title: "Worldcoin scans eyeballs and offers crypto. What to know about the project from OpenAI's CEO"
 excerpt: "Weeks after its international launch, Worldcoin is drawing the attention of privacy regulators around the world"
-publishedDateTime: 2023-08-11T06:47:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189215"
-webUrl: "https://abcnews.go.com/US/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189215"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189215"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189215"
+publishedDateTime: 2023-08-11T06:21:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
+webUrl: "https://abcnews.go.com/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
 type: article
 quality: 48
 heat: 48
@@ -58,6 +58,6 @@ related:
         height: 667
         isCached: true
 
-secured: "Yflg0Hd6ZoxsGEJ7qlFhIg+bbi3aKrN5d+qcqtjfNJ8LVemEa5tN77ja0kGVGY3Z/RxPlO2o5xjd7vl9iTIWNp9G37T5u7YQAm5zY0KhynDgcBnH+WELLn5zfk+vnWuO4CKkgHcg85Ely2XFUBJoRjk4bXy6qT2Zl3wHRcHFldjN81yTvZTogWI5JTxBH3uWxZ62xXc31b30/MBqvqX63ru0ijiR7jcgE+a7T1ese7yQMcCBy4Rfy5IJkkSxmM9JhjOfVzHnC+jj0HJj5nJStZrY0I76ijrQPKcehllS9wDtL4cq6e7rFcKBa56gOw/5EwYm8jDW6Oc+wAH5BJT1nxdGJjlnb8rE4UL1bt9c4BQ=;y1BoIedBJ0gsu94tU8Xkbg=="
+secured: "bWYZIF+YBf9c6NGZqKLsI22fOYpAjk/zMWe8UkRAl7dHGqGjqrc6MBNTdh9PLAXWPyJWWX7E483mZbScQlITXDpcS/z2pI3CVCuYz+OQDVIOoo10ZujNbZFTsDJiunbBzp1NuMQSJC+lsXJdJ+ITzt21S+Wu+4C4vi7eeTZUWlyESBr+4UkhsGn4J8noekzw2fOvADgTSU1ZLstvMo9cOgMlU7h4c9N11ego9BfIHxyKdtc7KVNsHLmLFUjz0fcjWPy4XBKgrc6x0NsCeMWBskrWEVB5ADaponv4Eauvo9Y386YR7HHIbrwH/2BmNUPh3qaQFoCU7nmuhQp2Sc7in44N5MPUC2v1iq7TSMlAmrc=;6Fl+4ltjYF/bqDtFP2Sxgg=="
 ---
 

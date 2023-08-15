@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/08/11/cloud-based-workspace-collabor
 webUrl: "https://siliconangle.com/2023/08/11/cloud-based-workspace-collaboration-startup-genemod-launches-new-ai-solution/"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Nection Startup Unveils AI-Powered Gift Sending"
-    excerpt: "Nection, the innovative mobile application designed to empower business-minded individuals in developing their social capital, is excited to"
-    publishedDateTime: 2023-08-10T11:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nection-startup-unveils-aipowered-gift-sending-1032539641"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "gGwej+B00MfwucDvzepN/RbCdY4SIVO2Keh+Vp7+MFnKi6hqD5qB40p0TDh+FbqjeQ5SRs3hDoJkc4y5X7Bj2jzRQnDViTM4qq5Nu/yRd9HueNDEDsnniWzKPUFML0DgGLGZ9i07uy2cJfL/LNv+N98I6hZaYN0dP9xLp/4QAlwPEagTg4bQGIteA7yfT4dTOeYdB15A1yUdZKIpoI6HpSzamgOcdYXZjPZe7/wZ9GgXjGqXaD+D2YdVQFdgTHdkP1p6yla9ktdaT8AUL8GRGngnEzzygny0yOOTxXe/KMrbAofkAQKARNCBix84nXh5xUkfOoXxBHviY1UZYcOWFE0GGkTwbknqPCSMofl5XcZWtBPs3s0VYZdXFh447vVDQ8LesMFZ7WAZWYlmMTIWIRLG1cXZ9Meim++tvJfPav3uGYAf5ILIpgOV8i2ZcjVOwryAGqqrx1wQv723CJ2G3UYhdygqX2a1gjh1b6lgfFa01GLAPgN9sTYFmreZ8+cr9S2tiFXLrHBPk0ihC4syYQ==;ADRu9p9zOPCk/CxUwpW9Rw=="
 ---

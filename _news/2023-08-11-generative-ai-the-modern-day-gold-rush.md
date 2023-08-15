@@ -57,15 +57,6 @@ related:
         width: 850
         height: 567
         isCached: true
-  - title: "Generative artificial intelligence in the hospitality and tourism industry"
-    excerpt: "Between the boundless potential and the grim peril of artificial intelligence is an ocean of possibilities so vast that its enormity alone can douse research."
-    publishedDateTime: 2023-08-10T13:01:00Z
-    webUrl: "https://techxplore.com/news/2023-08-generative-artificial-intelligence-hospitality-tourism.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 15
 
 secured: "JIp2MMdOVGrK960PAZ8ArZjoh1l1rYpWCvyGpstKJp8YKwyj5pEr8TzJz/xh/zS2IG7vO036IHbZe3UQUTVc1Zc+8mzPfylxQTjQtQFQOaKNesaipc5+96NMkq2BfQxzYY0eDnFIooa8TMLRuKvVSIOhGysiR0PGSMvBhEzPIQcaKzDnpzvHrUS88N92326uvgirBcT8XoSf0/fGIceJ4CyhX7E2lRd1wJiD6GjYVmq+MuiIq4lGdub2kJp6myArxCi3K606CUE4qmxP3srxJoRRRGHW+UKTqbv7EgNrcatkgFcpfkoIWZ9qhnHvWILphpDDp0XeAni2OX6pMuN/547g3oC647/LQ07+b9GgesAi/HQ5T8zILC37Sf922EyPEyOOkcojvODM/R7dU7zCYX4/d70DfTNi3TgjpFQkpKvtn/FGnbpUfFbLbRLu13TDVFB7UkAJ6jDxOKkauQxFDYl0qvh6tLepbgg80uF8lsvdrqAq5+wGUy8bTPOcKgST4QccxlWJY6gPJbsalB/OZw==;QzR0nGDEzP+wIlzciogeIw=="
 ---

@@ -2,17 +2,17 @@
 category: news
 title: "Lawsuit filed after facial recognition tech causes wrongful arrest of pregnant woman"
 excerpt: "Flawed facial recognition technology caused the wrongful arrest of a pregnant woman in Detroit, the latest in a string of false arrests blamed on the technology, according to a federal lawsuit ..."
-publishedDateTime: 2023-08-10T19:25:00Z
-originalUrl: "https://www.azcentral.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
-webUrl: "https://www.azcentral.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
+publishedDateTime: 2023-08-11T14:14:00Z
+originalUrl: "https://www.indystar.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
+webUrl: "https://www.indystar.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: AZ Central
-  domain: azcentral.com
+  name: The Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Computer Vision
@@ -168,6 +168,6 @@ related:
       domain: people.com
     quality: 0
 
-secured: "1AaWKHXsf2eOntfJ9XQdWQh8bxZ06TRekF9wI6wxldMnGt/Ttni9V7g1z2j4MXtqRfcvHNvO8z6VnDbzFtVtcMaBAbm5DGhu4Db8vQGwi7zcbw1h19T3KYeIP0Heh9XDc7BpoxOnBZQOhxCcFlkHoSZwmWplERByudJO+4XQq9ig2WfSjLLcbpJx9AMwUfpHv8KEXxriVtnHQXa0d1SL2+VZr3KTVuMh3Shhv5MQZyeQSlBGl45iBPoeJOdcyLoq5j/kvlJ1y0IAVBKjv+a98Kok/zcoWg/e1vMtkNmZIiMWKffiNaTxEmgl9PBTWdJAnG91Cq57CITzWPZoSuc/A9A5gYgckLL0qLhaDIR3qNQ=;SgfNNrUw+8rZgieqBXLL3Q=="
+secured: "z2TyfGE/12LYijlI+fD1BWTswg07YFqICyYcVIuw9/ZEMRKAkOpmXftU/H4k1zYEA2vc2LAMX2xFFL5qfzsXhjIalQOIlSwIjMOhP8AmMJlWYb7fyWCdmZwOaCE5iaEq9uBDFvqFX/c/CLC1lll1AWLJ45AY0tSiWvdMLzIQ4pUIN8KSDBkzcBeCj4TP4Fq+aJTc4ovJTDVWDK5CqvS6Q4J8oFvwKN00ZXMA9d5wD632SS+I1CV9VvarqD0ylM/YoDcqxWBH7y6XMIDDmylTDysFAzPpw23j9cxZCfDdvFPlUC15VsRxSF07oyn55zY5DU2dFxnmv8SSqVE/0N72hTtNvTczGkiBgE17FdlPaEw=;B7loz+xyXLhuG5P7gMxikA=="
 ---
 

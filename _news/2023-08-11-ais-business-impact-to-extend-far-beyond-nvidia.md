@@ -82,20 +82,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "China spends big on Nvidia chips"
-    excerpt: "Wants them for its generative AI systems China's internet giants have ordered more than $5 billion of high-performance Nvidia chips to build generative AI systems. Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,"
-    publishedDateTime: 2023-08-11T09:05:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57402-china-spends-big-on-nvidia-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/7d2e48c471e8e1bbb6222171f23a9353_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Nvidia unveils GH200 Superchips for 'most complex AI workloads'"
     excerpt: "With a 90 percent market share, Nvidia is further upping its game as more companies race to make GPU chips to run AI models."
     publishedDateTime: 2023-08-10T13:17:00Z
@@ -119,15 +105,6 @@ related:
         width: 1030
         height: 577
         isCached: true
-  - title: "Nvidia Is Down, But AI Chip Juggernaut Not Down For The Count"
-    excerpt: "Nvidia Corp. (NASDAQ: NVDA) skidded 4.72% in heavy turnover on August 9, ending the session below its 50-day moving average for the first time since early January. Shares were essentially flat in after-hours trading."
-    publishedDateTime: 2023-08-11T18:19:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/23/08/33747953/nvidia-is-down-but-ai-chip-juggernaut-not-down-for-the-count"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
   - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
     excerpt: "Gulf nations acquire thousands of GPUs amid global shortage of semiconductors needed to build large language models"
     publishedDateTime: 2023-08-14T20:01:00Z

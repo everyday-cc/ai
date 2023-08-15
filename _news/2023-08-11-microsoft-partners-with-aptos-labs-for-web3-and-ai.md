@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Better Artificial Intelligence Stock: Amazon vs. Microsoft"
-    excerpt: "Amazon and Microsoft are two of the best ways to invest in artificial intelligence ... complete ownership of its AI technology. Moreover, AWS' leading cloud market share could be a powerful ..."
-    publishedDateTime: 2023-08-10T11:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/better-artificial-intelligence-stock:-amazon-vs.-microsoft-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
   - title: "ABB and Microsoft collaborate to bring generative AI to industrial applications"
     excerpt: "Expanding on their long-standing partnership, ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability™ Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
     publishedDateTime: 2023-08-14T06:32:00Z

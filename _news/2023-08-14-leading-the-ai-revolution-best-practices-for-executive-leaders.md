@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/amp/"
 type: article
 quality: 91
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64da56e59b353f4c410eda42/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Embracing The AI Revolution: A Guide For Industry Leaders"
-    excerpt: "The obligation lies with every leader to seize this unprecedented era and harness the potency of this breakthrough technology."
-    publishedDateTime: 2023-08-10T11:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6426e4f5a896dce658217d97/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Revolutionizing Education: Harnessing the Power of AI for Studying"
     excerpt: "In today’s fast-paced digital era, the role of Artificial Intelligence (AI) has transcended beyond mere automation and into the realm of education. The integration of AI into the learning process is transforming how students approach their studies,"

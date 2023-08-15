@@ -217,6 +217,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How ChatGPT can help you optimize your content for entities"
+    excerpt: "An object. The subject and object are typically the entities ... To determine successful entity usage within your material, these platforms often devise their own entity recognition algorithms. The left side prominently displays the entity."
+    publishedDateTime: 2023-08-13T22:23:00Z
+    webUrl: "https://searchengineland.com/chatgpt-help-optimize-content-entities-430315"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 4
   - title: "You already use ChatGPT to make life easier. Now try using AI chatbots for better sex, a sexologist says."
     excerpt: "Dr. Amy Marsh, sexologist and AI chatbot beta tester, spoke to Insider about the real-life benefits of sexting a chatbot."
     publishedDateTime: 2023-08-12T09:30:00Z

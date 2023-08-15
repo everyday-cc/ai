@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Embracing The AI Revolution: A Guide For Industry Leaders"
-    excerpt: "The obligation lies with every leader to seize this unprecedented era and harness the potency of this breakthrough technology."
-    publishedDateTime: 2023-08-10T11:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/10/embracing-the-ai-revolution-a-guide-for-industry-leaders/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6426e4f5a896dce658217d97/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "mnb0ywq43wzw8EKq9HOU5UggKlCXEaeTL70oTcJOErZy8ESgj4702faxPvmd56ph12mYUOLOsRjaoplQPJ4ouwAcpB7A/35iIyuvz2exfJJmzmCkQbQ7o9p7BMlTzGo2KcxLF4zO1IGt2dHp7Tw3txBAtYYFNC+8mFsiiJfghTbkSZ1GZZukLwyJp1dhJHwZSurD+/SAL4uHLESsG05pOMr2btgVkFfzBcJ52SmkNECAX0jBAZOnnxIA2fN2lwOcqiHdHZZs4Ae4so0Un8bO20pPnbuwQwaWfaEG1hc9LHssRe9AbS2/5J86r2+MaUHxkvvNxOVIn9raOyXiPgwBVH1E9YsUQDvBTKEv2B7vYQrTY8B9aeDjZ6w0f/JGbW6RiBxL5CrNIXN4+Af+AQxqQpZgMUoZ9T70G7KaoQ5bfZPkVRS9txO1YB+RPR4IjZxQxFIPc1eCcBvgHzShqbeC46E62/hT/Umg+CwmX1j0rLAGlyToqtOUAku2+9o+ekLa0L6uNk3HKZU9rR8GEWM6Ng==;5utaxxFSsYOTCrW9Gqth7w=="
 ---

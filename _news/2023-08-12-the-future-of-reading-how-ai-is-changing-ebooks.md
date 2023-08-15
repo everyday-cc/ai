@@ -7,7 +7,7 @@ originalUrl: "https://goodereader.com/blog/e-book-news/the-future-of-reading-how
 webUrl: "https://goodereader.com/blog/e-book-news/the-future-of-reading-how-ai-is-changing-ebooks"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 904
     height: 602
     isCached: true
+
+related:
+  - title: "HOW AI IMPACTS TEACHING FUTURE FINANCIAL LEADERS"
+    excerpt: "Students need to learn how to use AI and ChatGPT properly, understand AI’s limitations and know when they can appropriately use AI."
+    publishedDateTime: 2023-08-13T13:25:00Z
+    webUrl: "https://www.forbes.com/sites/stevenwasserman/2023/08/13/how-ai-impacts-teaching-future-financial-leaders/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "5vzNs6qU6eLsspzO4uw3eET/6nMqStJv8DL49lQqq4RfCTsKAez/PUkGWTLIHGMtHRAFX54gtWPjBHdCaYpyeN9dmI7uIX8TVh0jrzG2ZcA1G4wz51nheqNUUhxPH02Dfp7wkN4OCFt1JPow+/p57OAnWzM9H38XjSG+lWYRGbD4U94BLketiaHJt2bq1+MXu/qHLbHD29MveHlRxfGWb53KnDEEVc4rr50Je8PSO8yKRgTBhvlSlsMeZ3zQ2D3yQI+RKeQVrmLwGnKJU7VasGdy34pM3l03E97x9wkQzue6fa2QmXCfVqEx7YotCjS0sHuSAIfV6Ql/yYUIQ/P83OV/7rex7gx5jVk+81mrO7Zd2MdR//pzYj1sN8J+7XtYCRmwOO3+FdhfcfRytGwCvHgPCy+37myo90JT4mk+iApW2FrCAfDo/Vy6nDQWNC9bkWl7C6WqrTRI7HWmFgckuZtELK0Ab9Bo1tEAGaYeBEAA1DLodxB1WIAX7Y8HPr8KQhLPk+aZ7Pgm2mzJAXGyxA==;V/NwiOCXHuhpKMlAzL2uVQ=="
 ---

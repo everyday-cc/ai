@@ -24,6 +24,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "AI’s Impact on Fintech: Do the Benefits Outweigh the Risks?"
+    excerpt: "Firms need to consider data privacy and security, the opacity of AI decision making, and the risk of model degradation."
+    publishedDateTime: 2023-08-15T04:30:00Z
+    webUrl: "https://www.tradersmagazine.com/am/ais-impact-on-fintech-do-the-benefits-outweigh-the-risks/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 19
+
 secured: "UaiaSLufhfKhzOul6zpPcK8N4NnaDMbloD1GIHZCJzRuG18wrr2P78W5mpiwY+WndjrMbkXAfic4b4LCJaDZmdUseFlwAXH3K1dOtNRnV+IC8yTq32xXJz3aMPxog2Xtbt6ov88J0bPABxbu8e1NGRUzcP99kR+tXNq88PjnkAftepJ67pABmVfwVbKCLSh8DkjAfDhtiKA5W5QLK7TAnCQ8wVPMXTYt0127+v6uRmN+Z9LzFOqBIH6koRPITHSj/Wdf8AKpxsotes3uHLRB9fYv6wjOIIHpLARIMX7n9LOb+WUG9m6CyZBbGX5Sifge2McMOKBPvbFGqKnWIpZZQ2CoSulS7gtttF87Cb/yd1idfJ7PU2JVNhnVu/OVrauMoMnKi5Vcm/PXxZbMqfZk7kqQJx9aX2W4h21Q3+erd9GDlaqtxgRkvVhP9e367j5EgNRr7y3XB2/RNBLkcqK8fu+LcZ8n1GT1qAIorOVedHLpiHIaRQD5QXsI+9lSv6+tmyFYYX8nyGEr7ev4mQg11Q==;/3/Gy1ZwFVf2Uzhe+G6DMQ=="
 ---
 

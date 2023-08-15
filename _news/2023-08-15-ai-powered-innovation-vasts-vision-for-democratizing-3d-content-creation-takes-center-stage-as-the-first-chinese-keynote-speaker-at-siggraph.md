@@ -64,15 +64,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 36
-  - title: "The 3 Best Fintech Stocks to Buy in August"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As digital banking tools, such as banking apps and automatic bill payments,"
-    publishedDateTime: 2023-08-10T12:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-fintech-stocks-to-buy-in-august-1032540197"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Fintech ForwardLane Introduces Generative AI Platform to Streamline Financial Services"
     excerpt: "ForwardLane, the provider of AI-powered intelligence solutions, announces the launch of its new generative decision intelligence platform EMERGE."
     publishedDateTime: 2023-08-11T15:12:00Z
@@ -133,15 +124,6 @@ related:
       name: American Banker
       domain: americanbanker.com
     quality: 19
-  - title: "Qraft Technologies and LG AI Research Enter Strategic Partnership – Exploring the Potential of Artificial Intelligence-Driven Solutions in the Financial Industry"
-    excerpt: "SEOUL, South Korea-- ( BUSINESS WIRE )-- Qraft Technologies, a leading invest-tech company developing artificial intelligence solutions, has formally entered into a strategic technology research partnership with LG AI Research, an artificial intelligence research hub of LG group, with the signing of a Memorandum of Understanding (“MoU”)."
-    publishedDateTime: 2023-08-10T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230810311418/en/Qraft-Technologies-and-LG-AI-Research-Enter-Strategic-Partnership-–-Exploring-the-Potential-of-Artificial-Intelligence-Driven-Solutions-in-the-Financial-Industry/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "RlFX+GgZNTS+dXJ3e2A76GQ6QeyAf+0t81hY66n3QMSz53d7h4eMVE4UJNdbYs0JAjbrZCEqhgCQQSvZzzpeWTsu6ZQ/HTA8LdfXKtjy5+ZXnBCNbgVoq+H6ChlRq/Dp85CmGDlLRKxePmZ+8NjqbFizLlgC7Jqdke0MROJbVKpxU0Ow6soA7YlCLVXAlulrsJzojFZeFWSTPIVh1igTxkglpKarJxL6nrMWRuhE6r5LCuy8PntPsjWI7vbukpf3JGDThCPdIDKJFwT//+unGbP7nvgmmcDcdfwFlOneujUn628+olcq7RDQemmMM46AWbeHzVQtqgrTW+/q/0OAbRt7GtFUWdMpPAwAllCBauo=;vmwWpIxhZOBCIrDJ2ypv6w=="
 ---

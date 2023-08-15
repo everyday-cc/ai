@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1000
         height: 417
         isCached: true
-  - title: "Generative artificial intelligence in the hospitality and tourism industry"
-    excerpt: "Between the boundless potential and the grim peril of artificial intelligence is an ocean of possibilities so vast that its enormity alone can douse research."
-    publishedDateTime: 2023-08-10T13:01:00Z
-    webUrl: "https://techxplore.com/news/2023-08-generative-artificial-intelligence-hospitality-tourism.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 15
 
 secured: "wRUyLpNHSe+bqglZUSqBzL6cFAk6KQsDcDH3JTFScSPSYqPCMBtai7YO+oKyh6nPFknX3AD0C5R4iLLqlYop/rvInDq5wvmaRx/nbaqfsoeLFig8n+SZ5FCnNC+pJ1Vceso5esJ4cRzQ3UHkiaKOYuXJjFtyMBwr62s0WlwrQPSryeWBhxtfOuzBkI7DwZPFnqhXuigs64Ihu+1y2+ZWwcS47btrm6y8w0okPaXPiCYtmjT0pza4Z28ecGScPLZgYuE4JQ/sEkf9VSvXY4bpGCR/J2FEbqxEeV/snJWLdUs2poZZ7fQ98LPIxVkY9Tb/HLUg6KGJ+aCiFbDMFQ/y3jLF9NxVVTbuwjdSQFQU79vO2gtwm/4HZfNzc36+Q49+gtmv0qfQ5mfuLzbx+SxW9CCkUtOIxiTSsqS5r9wmN0NsUctxZGWXtAip/snP8hWitiW+VnGtW8zAotdtP6ZHyCpYEf3Gh5Hhkwp20k5eYlxMyZdkQor5EcvpJZz3tYLWBqkaKY4kb1Y27q8MV8EpqA==;UI/p0yr7Ev6+jlQVolNmcA=="
 ---

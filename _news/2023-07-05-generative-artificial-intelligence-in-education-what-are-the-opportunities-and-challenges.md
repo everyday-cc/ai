@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Education
+  - AI in Autos
 
 images:
   - url: "https://www.unesco.org/sites/default/files/styles/best_image/article/2023-07/generative%20ai%20in%20education.png?itok=zzVma9da"

@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Better Artificial Intelligence Stock: Amazon vs. Microsoft"
-    excerpt: "Amazon and Microsoft are two of the best ways to invest in artificial intelligence ... complete ownership of its AI technology. Moreover, AWS' leading cloud market share could be a powerful ..."
-    publishedDateTime: 2023-08-10T11:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/better-artificial-intelligence-stock:-amazon-vs.-microsoft-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
   - title: "Amazon chips will help to compete with Google, Microsoft in AI race, here’s how"
     excerpt: "Amazon aims to enter the generative artificial intelligence (AI) market and has begun developing microchips to compete against tech majors such as Goo"
     publishedDateTime: 2023-08-14T12:33:00Z

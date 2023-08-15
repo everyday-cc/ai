@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/08/10/on-technol
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/08/10/on-technology-the-major-ai-problem-facing-insurance-brokers-that-microsoft-google-and-chatgpt-wont-solve/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 86
 published: true
 
 provider:
@@ -29,31 +29,6 @@ images:
     width: 1200
     height: 763
     isCached: true
-
-related:
-  - title: "Exela Technologies Leverages Generative Ai With Microsoft Azure Openai Service"
-    excerpt: "The integration combines Exela technology with Microsoft Azure OpenAI Service, providing customers with access to OpenAI's advanced AI models with the security and enterprise promise of Azure."
-    publishedDateTime: 2023-08-10T13:50:00Z
-    webUrl: "https://menafn.com/1106827665/Exela-Technologies-Leverages-Generative-Ai-With-Microsoft-Azure-Openai-Service"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 65
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?817573"
-        width: 341
-        height: 250
-        isCached: true
-  - title: "Exela Technologies, Inc.: Exela Technologies Leverages Generative AI with Microsoft Azure OpenAI Service"
-    excerpt: "Exela Technologies, Inc. (NASDAQ: XELA, XELAP), a leader in business processing automation (\"BPA\") today announced its collaboration with"
-    publishedDateTime: 2023-08-10T13:07:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59817874-exela-technologies-inc-exela-technologies-leverages-generative-ai-with-microsoft-azure-openai-service-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 32
 
 secured: "n3jGmjy83D/I3TJwZyE0yT0YZCU38Mncenf6ee3+jmXM6Cx0CQIOuj89WfQHi9yDAhlJjP8dCq6BFXU4Mg3Bqj/BnuhzXEQIIn44T9900v5IHYqV7i89C4LKkXNTOeaVA0hc5zv1Xflf1ywK94FCB8Gs6ZJLD8na6iydSe+7IVQDpwOR3zFMU56I2jdy/0v3dkW0KE3q528uNZDtVAOYh5v16u8fjat9TazA6ZZRWrZSIb6FMnC6RKekbbE0+IKnB8XCm4t2Rj1678mhnvPD02KD/r3Lx1umbWSuBKS79SiheKQEz1bF4jW+xSB0KgHiAyzvc/s3qSy8N+/5SSFNSz2Lmyq2Ptq7QJM7zgTWvhw=;5phGfAXfgQH0zFjFgyHFiw=="
 ---
