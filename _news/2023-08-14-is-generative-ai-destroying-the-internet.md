@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
-  - title: "Fintechs experiment with generative AI, but development is slow going"
-    excerpt: "The firms are increasingly seeking to integrate generative artificial intelligence into their products, and banks are potentially interested customers. But such efforts are costly, the risks are high,"
-    publishedDateTime: 2023-08-11T18:48:00Z
-    webUrl: "https://www.americanbanker.com/news/fintechs-experiment-with-generative-ai-but-development-is-slow-going"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 19
   - title: "Dialpad integrates generative AI across its call center suite"
     excerpt: "Cloud communications provider Dialpad Inc. is continuing its aggressive rollout of artificial intelligence capabilities with today’s launch of DialpadGPT, which it describes as a domain-specific large language model that’s tailored to the needs of customer service, sales, and recruiting operations."
     publishedDateTime: 2023-08-15T13:00:00Z

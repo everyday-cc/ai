@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/amazon-taps-ai-to-sum-up-user-product-r
 webUrl: "https://www.pcmag.com/news/amazon-taps-ai-to-sum-up-user-product-reviews-point-out-pros-and-cons"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Zoom's updated TOS prompted concerns about AI and privacy. Can the two go hand-in-hand?"
-    excerpt: "The Zoom backlash is just another example of how regulators, and average people, continue to grapple with the growing presence of AI."
-    publishedDateTime: 2023-08-11T02:08:00Z
-    webUrl: "https://www.tennessean.com/story/tech/news/2023/08/10/zoom-ai-terms-of-service-backlash-experts-weigh-in/70570221007/"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 11
 
 secured: "zN6E2aOj8JaKedHterm2XQ2hn06YJOoYcxCmoRAju02yc40uBcjwjhU0V79RRyKNrak0v7kS2pbjhU+KqRtupBhaQ4Z762dffJiDAnt7TspHzdYRAeiWUF+lcEjcxH+HUsah9X5cGKjfh3Ft8E3UzgEuIUhm2L7lus22nWJED62/FibOL9HKaTkywgB4TwcEIizUinwyasjlhlLqKPyn8RHydL0CywDJjm1LsWsC8b4nqo89M7OraellCiU6cLtCRf1fQr4Dk8uvTzg4+GyHl7JSoCW90Xn9COadVmJHNm4CD9xlJTqPf79NTiXAInJMrSVDnSur69HRXmzbNlmn2AOsfdHeeYsFj86S4QdPBq7OHT6pyvx6bOdu98VKjGFb6tr3xnFusy8dFo3RpfTM0BHwS9mVGfl+jiFCCD40ShJeERlJW8vbIcsSMa9wNCLBDRkyzRL8ofvNqzEHFgeNrxFsHRnaS0ga2C/2xwSSg6okK6qVPDbeveG7RAYT3ttGBwV/lFRs8fe+K2PrlTO+nw==;dmvP/xuNRuf8KLsXKdn6Wg=="
 ---

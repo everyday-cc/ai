@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-y
 webUrl: "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-your-business-better/"
 type: article
 quality: 119
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/1200/675/SAG-Strike-Sign.jpg?ve=1&tl=1"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Message to NKY businesses: Start using AI or be out of business in 10 years"
+    excerpt: "By a show of hands, most of the businesspeople at the Northern Kentucky Chamber's Eggs 'N Issues have used Chat GPT — a from of AI that's still evolving, according to Northern Kentucky University's Dean of College of Informatics Kevin Kirby."
+    publishedDateTime: 2023-08-15T20:21:00Z
+    webUrl: "https://www.wvxu.org/business/2023-08-15/nky-businesses-start-using-ai-out-of-business"
+    type: article
+    provider:
+      name: WVXU
+      domain: wvxu.org
+    quality: 35
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/555e689/2147483647/strip/true/crop/1803x947+0+203/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F04%2F28%2Fautomation-6762812-1--763c8220ded19d1840ae8a7ec74abfe04db8ed89.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "jH8Mzu/KgXvwon/QoCJvsRuso+Y3UVjw84oJb6kPDgMXnDK7zJsgLFCbiEhBElFoKiEdURdmlJGt+U5o3D30ba5BLLJe97hFBsa20VbSXUdhgxQLdQWl1izwh+XKQTAobtwJHPjuNd4m1RISZglMHPILXS6WlT66IkJsR6elvGBUgMqvPj19pI+dMEFg6Nm7mnmmc2y/r1StzZVkWWioa9QtgAVrT89IfXC1i6/jlfhCx6bdwQYY8gT6VtJmKAjeyfHH1Pnh6TOFn/PEdT3Jm6YMZhyV4E/adXmihFoPEiC2FP1qyH8iF2kj2pY6Y9qmfpVyoyXH/j+6+pL7c2OP586R8S9Srjwu3S+od7P4HoM=;q+1tCVr5k19WiSSmI22GLQ=="

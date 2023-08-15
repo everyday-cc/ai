@@ -7,7 +7,7 @@ originalUrl: "https://www.govconwire.com/2023/08/martin-klein-rejoins-ecs-as-vp-
 webUrl: "https://www.govconwire.com/2023/08/martin-klein-rejoins-ecs-as-vp-of-analytics-and-artificial-intelligence/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Smart video analytics are redefining use cases from retail to healthcare"
+    excerpt: "No longer are we using video monitoring purposes just to see what is happening. We’re seeing AI & ML on video to predict what will happen."
+    publishedDateTime: 2023-08-15T20:21:00Z
+    webUrl: "https://venturebeat.com/ai/smart-video-analytics-are-redefining-use-cases-from-retail-to-healthcare/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_579286324.jpeg?w=1200&strip=all"
+        width: 1198
+        height: 701
+        isCached: true
   - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
     excerpt: "Klein served as the chief operating officer of the Department of Defense Joint Artificial Intelligence Center."
     publishedDateTime: 2023-08-15T08:50:00Z
@@ -37,6 +51,20 @@ related:
       - url: "https://www.hstoday.us/wp-content/uploads/2023/08/martinklein.jpg"
         width: 1080
         height: 969
+        isCached: true
+  - title: "A New Era in Environmental Monitoring: Uniting Satellite Data Analytics and Artificial Intelligence"
+    excerpt: "Welcome to a pioneering era in environmental monitoring, where state-of-the-art technology converges with our pressing demand for sustainable solutions. Today, we delve into a groundbreaking innovation that harnesses the potential of satellite data analytics empowered by artificial intelligence (AI)."
+    publishedDateTime: 2023-08-11T08:10:00Z
+    webUrl: "https://techbullion.com/a-new-era-in-environmental-monitoring-uniting-satellite-data-analytics-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 23
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-11T090907.168.png"
+        width: 800
+        height: 400
         isCached: true
   - title: "Top 10 Alternatives to GPT-3 – Analytics India Magazine"
     excerpt: "GPT-3 has 175 billion parameters, making it one of the largest language models ever created. It can generate human-like text and perform a wide range of tasks, including translation, summarisation, and even writing codes."

@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/most-americans-want-federal-regulati
 webUrl: "https://www.zdnet.com/article/most-americans-want-federal-regulation-of-ai-poll-shows/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,22 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Americans' level of concern about healthcare AI, by generation"
-    excerpt: "Older Americans are more concerned about AI in healthcare than younger generations, according to new survey results. 77% of Baby Boomers and 70% of Gen Xers are concerned."
-    publishedDateTime: 2023-08-11T15:12:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/americans-level-of-concern-about-healthcare-ai-by-generation.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "tb/VkE4YrHGXOPuxg1q/oCsyxSHCB0nWkcaujda6DvgWBzRY8Pb6tGSU3YFwMQEbM6pkbZNq8FlLtQbOoLUZWMoOegkPghzgOcOwroHlBkIhcMqNnoQft5YT7yA7GVPyZ7yNb4kSbimkbwVjdLKJxPLrgtj8XDpyWtYM9/cER/8XvFhRVkhrourZlKonmTEJzmIBK7GTsYREBlmN0FJxFZSzYgpcFbuUKz5oLTHmuygMd9lpoN3l3yT2Ss1h1A5OORlpTPIQQc71vYEoK3WLFCdYNBFWvF9tVq9dIxMxdsZnTKS2gtWxcTAnKB7HRa9+eg+IN01g9G8ravj6dfdmCb+ZWBadt5T9zjBBGj1ffdd5Iu5RL3d8jCInylvSOuhgfx1M7yzveO04WH4aBTMiLh/eGD+gG0pOj5sAeqS7sevoCNgOdnwf47IutpClJdhPXa7u/7WsR9/2D9bPujYP4C6CGHQWKen9w/Sp12qPduxF7DTlUmQPsNF/Duf5e/YaBvMcGAlBHfpm7cX16mGzLA==;nllrHVzZmiaIbgPB3v5DAQ=="
 ---

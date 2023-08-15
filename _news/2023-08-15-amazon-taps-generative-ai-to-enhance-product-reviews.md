@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How to tackle the ethics of Generative AI"
-    excerpt: "A tip by Daniel Pell of @Workday about how business leaders should approach the ethical questions around deploying #GenerativeAI"
-    publishedDateTime: 2023-08-15T07:36:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2023/08/15/how-to-tackle-the-ethics-of-generative-ai/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/01/business-tip.jpg"
-        width: 728
-        height: 410
-        isCached: true
 
 secured: "BRhewlq6agldl3ooJam0ueZDjeH4e9EmlEEB/iMylE5K3/n2grHvzN/muicHqHhZKEVUTcpIDcyxIQhaiLc4dQNULi7otFHtTglZpofp0fY8B53EeAWZU07lX+4KNGOTAL6pmFlgnfClFGZSn3GBixryDX6p27o3bIOxbduA7HeLaQOda7IgkmVX7f79eOTLFTnbTP6uyBFJIlF8dMvZuAcrAwy8zRGGjo71I3h8BofQZyWcwJwDNeLWXZJkkB8tIKKQWzJqfH2lob97trYpHIKVdcRe33Wd85LtwTp1ne4iZBs7g9O7aNQ8T7hNsjzFCDb9ykNTL9aNKMlypa6Qxi5PfbgnWKaymiry+fbSjHlAR0pWUume+zLqOd8HZ90kU27jnO1TPaa98OQ0SGsUqq/FoMxlQFDxFFt/DhfjrgzFuuU8phijsfpkoNaEz0ieLITcfu5lxT0fyMi+qo9hs1GaMKKbvJRtPMMQZEolENBqC3z2rFDTQ5X/dEN93kPR8n/4zH2K6Js0bwmN3nGy1Q==;qyXZQgRTWs52ua7VxmKQEA=="
 ---

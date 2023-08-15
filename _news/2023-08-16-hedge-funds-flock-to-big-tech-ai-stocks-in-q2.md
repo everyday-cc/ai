@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-1
 webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-15-2023/card/hedge-funds-flock-to-big-tech-ai-stocks-in-q2-qGqFDs48zkGBiaUAaag7"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tech Down Even as AI Stocks Rise -- Tech Roundup"
+    excerpt: "Shares of technology companies fell as wild swings for artificial-intelligence issues continued. Shares of chip makers Nvidia and Broadcom,"
+    publishedDateTime: 2023-08-15T21:04:00Z
+    webUrl: "https://www.marketwatch.com/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Older investors flock to AI stocks as Gen Z plays it safe: Wealthtech Weekly"
     excerpt: "Plus, F2 Strategy gets a new office; AdvisorCheck gets a new boss; and Advisor360° rolls out new tech updates."
     publishedDateTime: 2023-08-11T20:38:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 17
+  - title: "US military’s special task force will explore generative AI"
+    excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
+    publishedDateTime: 2023-08-15T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/dod-generative-ai-task-force/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
     quality: 17
 
 secured: "lL2WesKCTG5DILvBbWXj7LsbQKMFtHN8sxjiEfH3mxYilQCgSfCBfSJ2e4XXYnu8R0GOXgPZxGGmsL5Yvj5f6WrPAEdPRM+0L53lhH6T1MDyb7YI2n4M+a4lZ06QrXlpJyBFB7NRNZSdpk7d09BOPP0AsBK7xeJ6FR5S41f0kOntnJtEQyd0jolTFo5isj/uNC1txXKhYgf48ZFv611mimA0kjw5sSC7yESkxbeLHmKNF5FsxXJjYVeiZE4N5e0jVJYL9HnlFG01fBB+JaxZBNVtc7v2RuN/7FSVUnN92cAPjHo+oqWdodgLSzlzcVYnPrev/U/gb83JffihfhOD931PEMjmdiBKOGUnyM9mnCuxeBJ3NtRsWtESlI8bdrLfsNWnXjmeB7MTHQ4d9Ex5thcbZUzazMzxXi2ZK/ROuvhnOnkqeZjYsVeEBO7DFG4Ej/vYJz5y/A4biQA0e55OXR/3jmk4gh6/DKkyv7WTNtSH0NFXEXa+QAjI5Lzk7nMMePmja45rOf7LzXDy2T806w==;MYDpUaqkYiRMJN5JTda2wA=="

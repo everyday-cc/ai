@@ -20,6 +20,36 @@ topics:
   - AI in Security
 
 related:
+  - title: "How AI Is Increasing Fraud Risks Across The Fintech Industry"
+    excerpt: "Fintech founder Gili Raanan of Cyberstarts told the Israeli ... Mastercard is spearheading its own AI-related efforts across the pond alongside nine prominent UK banks including Lloyds Bank, Halifax, Bank of Scotland, and Monzo. According to Gartner ..."
+    publishedDateTime: 2023-08-15T21:30:00Z
+    webUrl: "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d131c6a5fbee691f65f247/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How new AI demands are fueling the data center industry in the post-cloud era"
+    excerpt: "Builders, investors and users will benefit from flexible data center infrastructure strategies that can harness AI and foster growth."
+    publishedDateTime: 2023-08-13T15:19:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/how-new-ai-demands-are-fueling-the-data-center-industry-in-the-post-cloud-era/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_artificial_intelligence_and_technology_putting_pressure_1ace7081-0d3c-4538-8525-4aeb0eb8b527.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Pagaya rallies as AI fintech sees stronger than expected quarter"
     excerpt: "Pagaya Technologies delivered solid 2Q results that showcased an improving financial position for the artificial intelligence infrastructure firm. The"
     publishedDateTime: 2023-08-11T12:48:00Z
@@ -33,6 +63,20 @@ related:
       - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC8yMDIzLTA4LTExLTA5LTUxLTQ2LTZjNDU5NzAxNjg5NmEyODk5MjIyODdjYTA5ZGYxZjlmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fintech Summit to highlight banking industry innovation"
+    excerpt: "Global leaders in technology and banking are returning to Little Rock this week for two days of speed-dating-like meetings and open sessions that connect bankers with financial technology companies offering innovative services."
+    publishedDateTime: 2023-08-13T07:14:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/aug/13/fintech-summit-to-highlight-banking-industry/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2019/09/18/Andrew_Moreau_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 300
         isCached: true
   - title: "A Billion-Dollar Bet on AI? The Potential Game-Changer for Fintech"
     excerpt: "To boot, the firm may have set its investing sights on the mothership, so to speak. In this case, Ripplewood might be investing $1 billion in OpenAI, which is known for the tour de force of the AI world that has been ChatGPT."
@@ -73,6 +117,42 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Fintechs experiment with generative AI, but development is slow going"
+    excerpt: "The firms are increasingly seeking to integrate generative artificial intelligence into their products, and banks are potentially interested customers. But such efforts are costly, the risks are high,"
+    publishedDateTime: 2023-08-11T18:48:00Z
+    webUrl: "https://www.americanbanker.com/news/fintechs-experiment-with-generative-ai-but-development-is-slow-going"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 19
+  - title: "AI’s Impact on Fintech: Do the Benefits Outweigh the Risks?"
+    excerpt: "Firms need to consider data privacy and security, the opacity of AI decision making, and the risk of model degradation."
+    publishedDateTime: 2023-08-15T04:30:00Z
+    webUrl: "https://www.tradersmagazine.com/am/ais-impact-on-fintech-do-the-benefits-outweigh-the-risks/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 19
+  - title: "Enhancing sandbox programs to aid commercial deployment of fintech innovations in Africa"
+    excerpt: "Financial technology (Fintech) innovations are becoming the mainstay of the global financial sector and user responses to these innovations have been remarkably positive and embraced at an unprecedented scale."
+    publishedDateTime: 2023-08-15T11:10:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Enhancing-sandbox-programs-to-aid-commercial-deployment-of-fintech-innovations-in-Africa-1825235"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 10
+  - title: "Empowering Financial Decisions: The Role of Fintech Software Development"
+    excerpt: "Finance - In today's fast-paced, digital world, the way we approach finance is evolving rapidly. No longer bound by the traditional confines of brick-and-mortar"
+    publishedDateTime: 2023-08-11T11:50:00Z
+    webUrl: "https://business-review.eu/money/finance/empowering-financial-decisions-the-role-of-fintech-software-development-250164"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 3
 
 secured: "v6wIHGGDM2TomCAwkheDkAPYEVstsVD4e9dIfmOou56/9S5FolcVkoJ7Zy8Re8WvEDJjlU11IJQGP8bZMhBgt5nWZHaDumTsLedYVylNlgpl7hPSp92TcDE6+WrGPfpaMkyBKyfYzuffcoWxvF7i97bECN6dOj+ijHCAzs1124SXscyNTdUZfC8ntqpGz+mjMFe6jMkjItjHFzrSlbMdKLW7FCuXeELIAQ/FDPeSwdGDCDFyIgbYbDOZratC1N/sWrTpFs0wdvxEi5tLvwl+oJyHkMX4hvNgPtSfyAia1/SMhlGzfcirrZYHLNmv4xCYTMsUmjV5O6/zRlxWXa7E9TaQYJ32FUGDhWlnsypGfvD1PGaBsLKS5YWZ0or/1GZsoQsqeU8TJjVCnLMnh1IZ9Amr9OrXOtsRYKV5xrApTMx8rxNH75El0Ydu4SCVFKwr/pkktTpa3peACfcPKd1i0M1aQt5sV7BhJnmLAxBMRUvYyAdYlm/Dr2SS1M8afsumBOaF6V8+2KCJ+PhwyOFFRA==;FAH/7KB8Gqmzgfa+oT69nQ=="
 ---

@@ -58,6 +58,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "You can build your own AI chatbot with this drag-and-drop tool"
+    excerpt: "Botpress is a tool for building interactive chatbots. While it supports building chatbots for a wide range of applications, the killer app is using it to build a customer support chatbot and backing it up with AI smarts."
+    publishedDateTime: 2023-08-15T19:13:00Z
+    webUrl: "https://www.zdnet.com/article/you-can-build-your-own-ai-chatbot-with-this-drag-and-drop-tool/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Ascott leverages AI with new chatbot providing personalised services"
     excerpt: "CapitaLand’s wholly owned lodging business unit, The Ascott Limited (Ascott) has launched an AI-powered chatbot named Cubby to enhance the journey of its guests by being their travel buddy and supporting Ascott‘s growth."
     publishedDateTime: 2023-08-15T00:00:00Z

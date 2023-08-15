@@ -108,6 +108,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "US military’s special task force will explore generative AI"
+    excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
+    publishedDateTime: 2023-08-15T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/dod-generative-ai-task-force/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "yvKbF4DU87WDssYWpL/ArCIpazt5s7fT+p2pTrHN44vXU+SMHDIoo/xHXdbOqRB8KHHLf3bV+JzuNAfoPr+b7bFxQEoMD4OSKLOL7h/nlY4i44iApusEUCBVr8XjY8117FHzyPJKU3UrJMg0qWmAZ7905E/lduyiPEfbnsN+o7MJguIqBQRDOkD9qXTDSYTR3GOLVJYxkPuVonwm/bgIVBWFmmvqKWfnJJRxUEe3jcS8U9n8rginyKtP/vNEocljQv96pndELf7oLTFJ0cJj2IT94nBP1qbmt9LHLIdW5MRKYMe3iFLdu9xWg8mnj5kbiPfCHd3nWKFPm1fJSLZkU+CdG+UFMcfdBFpjXTyqn3iaA3tA5nChzkLEELvZtmo9aS5BLvBRLmIizPX3Y2Pid87TnmgmIOQMO54p1hu7GoLJpZ0fBAQfnaQwsrb9GicJCXXIQkMc0+aZi2qmDQQFZeZ8//mkpdx+7AdCxwOxCFHRExsOxxN7clQpl5Fv/XfVnv42BPzueeFL8BNFAm6X0A==;7YUQAC/AQ9Kj0L51pGk/Wg=="
 ---

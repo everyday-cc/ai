@@ -98,6 +98,29 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "China spends big on Nvidia chips"
+    excerpt: "Wants them for its generative AI systems China's internet giants have ordered more than $5 billion of high-performance Nvidia chips to build generative AI systems. Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,"
+    publishedDateTime: 2023-08-11T09:05:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57402-china-spends-big-on-nvidia-chips"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/7d2e48c471e8e1bbb6222171f23a9353_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "Nvidia Is Down, But AI Chip Juggernaut Not Down For The Count"
+    excerpt: "Nvidia Corp. (NASDAQ: NVDA) skidded 4.72% in heavy turnover on August 9, ending the session below its 50-day moving average for the first time since early January. Shares were essentially flat in after-hours trading."
+    publishedDateTime: 2023-08-11T18:19:00Z
+    webUrl: "https://www.benzinga.com/news/earnings/23/08/33747953/nvidia-is-down-but-ai-chip-juggernaut-not-down-for-the-count"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
 
 secured: "uvAKNr00blWBFq8gZIJ1/7fBtOY4Yqrnvr6cIBbKsWN86XIn6b0C4xsNMxiLlSDHzfgC22u0nri52VjxvCOWXxmgjX6EprmZTHkOiV0hHUyOcqbCLgZtx3Xv45BY6zJ6SD006NBEbduvuu6isNnS/hmLxWZMe5dLYXpFUF40KaFKCXHJMAbIfS1ikId0n3PoReupAw4c1zj9WFQp8ydgrgdorDiSQBZ8nWOXlM+0U+SHrIcdLXp5Lzb5jApRio9cwRnpju6H7Enbq9ubHybyjpuSo4YQIN19QDuAwpxfL2WTITGJt5qva/KiA2olbdD0j4HmkvvQ1DIFe2S6y6zTXD2ePzVBcXHI1V8Lld/O7L4q2Z6BM666H7LabHrrIh9xDdQPd90so6K2tSolU1H+3mKj8I814KVmEJp57B3/nfVwuie4nafpz8pKCv0xCfXYEUFK6/xAJMAfBAj2Gxpy0b/Ly2Sg2gN1FCpv7OfsvpDGpYrF75SpXcMagtae9dbjXfwbNx7dyxFabH2QAGXwPw==;PLPJZRSKLe61JZS5t/5e3w=="
 ---

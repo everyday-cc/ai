@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "ESG May Help Regulate AI/ ChatGPT Use In Business"
+    excerpt: "The simultaneous rise of AI and ESG in the business sector creates an opportunity to use ESG to better regulate AI."
+    publishedDateTime: 2023-08-15T19:39:00Z
+    webUrl: "https://www.forbes.com/sites/jonmcgowan/2023/08/15/esg-may-help-regulate-ai-chatgpt-use-in-business/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Learning to be a writer? Clinic topics include ChatGPT and getting an agent"
     excerpt: "Local authors and educators Gary Arnold and Alexandra Weiss will be featured in the August Saturday Writers’ Clinic beginning at 9:30 a.m. Aug. 19 at the East Bank Regional Library,"
     publishedDateTime: 2023-08-14T11:00:00Z
@@ -68,6 +77,15 @@ related:
         width: 1920
         height: 740
         isCached: true
+  - title: "ByteDance AI researchers say OpenAI now tries to hide that ChatGPT was trained on J.K. Rowling's copyrighted Harry Potter books"
+    excerpt: "A new research paper laid out ways in which AI developers should try and avoid showing LLMs have been trained on copyrighted material."
+    publishedDateTime: 2023-08-15T19:06:00Z
+    webUrl: "https://www.businessinsider.com/openais-latest-chatgpt-version-hides-training-on-copyrighted-material-2023-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
   - title: "Many experts believe AI chatbots like ChatGPT are here to stay. So how can they fit into the academic world? We looked for answers."
     excerpt: "With the start of the school year just around the corner, educators acknowledge that programs like ChatGPT are already a presence on the academic landscape."
     publishedDateTime: 2023-08-12T18:03:00Z

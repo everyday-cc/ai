@@ -63,22 +63,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Facial recognition software blasted by DPD board of commissioners after recent false arrest"
-    excerpt: "A vote to ban facial recognition for the Detroit police failed tonight, which would have kept the department from using it for a year."
-    publishedDateTime: 2023-08-11T03:15:00Z
-    webUrl: "https://www.fox2detroit.com/news/facial-recognition-software-blasted-by-dpd-board-of-commissioners-after-recent-false-arrest"
-    ampWebUrl: "https://www.fox2detroit.com/news/facial-recognition-software-blasted-by-dpd-board-of-commissioners-after-recent-false-arrest.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/facial-recognition-software-blasted-by-dpd-board-of-commissioners-after-recent-false-arrest.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 49
-    images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2023/08/932/470/facial-recognition-arrest.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Detroit woman suing police after 'shoddy' AI facial recognition leads to false arrest"
     excerpt: "Porcha Woodruff was eight months pregnant when six cops showed up at her home in February, told her she had been identified as a suspect in a carjacking incident and arrested her in front of her children."
     publishedDateTime: 2023-08-12T19:10:00Z

@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Zoom's updated TOS prompted concerns about AI and privacy. Can the two go hand-in-hand?"
-    excerpt: "The Zoom backlash is just another example of how regulators, and average people, continue to grapple with the growing presence of AI."
-    publishedDateTime: 2023-08-11T02:08:00Z
-    webUrl: "https://www.tennessean.com/story/tech/news/2023/08/10/zoom-ai-terms-of-service-backlash-experts-weigh-in/70570221007/"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 11
 
 secured: "wsIAzOMDLyOYRS/6C3Qpx3xAIenIP1jIGo2D5gV4pPFdF12JWnk5YTWuIoXsmguOJOhV+HopHgWQjqgoKT3nkbQZ4nk30rGLNbxAJvEQ65Tb5wlwk4E62Kz+ar5bffceApbxfrqPA2+S0y+kOn482n7LtaB8OrzEWa5y2goj/tu/5C+nix5pdX0M9q29d3k7us7nbfdzZBZfdlOjxKrOF4Ui8zVkPC/Qa8VFW9KZJOw1utLs0L1CWMQEob4/qbQbnQ1oReVDqz+qodjkf4FQOOHjAVHqi8OVgC8NaWGwa/noHzX06zi4+yVReLAc3WncyN25OJbrHFjsPYv8HP2NAi/1xNe2s7k+pJhmB3q9xf7wbzum7jnELYNWQGllwIARwgrtqunr/bQaYnbXB/GVCJxSF1sew/kxzM3tRGvLbXo6wwIXy3R2er02AUBGHe7NUEvl/pEmTVTtZH57RxhIVlFOPYMiXMWHRH1qODGkkvcOO37M1GZ/dbOktPObhXWzXGfZEP5AFaxLNMQiNkwl7g==;bGiMK+WcjyPeDA428CiLUQ=="
 ---

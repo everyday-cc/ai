@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/amp/"
 type: article
 quality: 106
-heat: 216
+heat: 206
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-10-021905627-Microsoft_Azure_awards_Protiviti_specialisation_in_AI_spot.jpg"
         width: 546
         height: 312
-        isCached: true
-  - title: "Microsoft Partners With Aptos Labs For Web3 and AI"
-    excerpt: "On Wednesday, Microsoft, the American tech giant, announced it was partnering with layer-1 blockchain Aptos Labs to collaborate on AI and web3. The latter will be using Microsoft Azure OpenAI Service to accelerate global web3 adoption. \"Artificial ..."
-    publishedDateTime: 2023-08-11T04:03:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/microsoft-partners-with-aptos-for-web3-and-ai/457294"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 84
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1691725952-Hithere3.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Microsoft changes Services Agreement to add restrictions for AI offerings"
     excerpt: "Microsoft has added rules and restrictions for its AI offerings in its Terms of Service, that will go into effect on September 30."

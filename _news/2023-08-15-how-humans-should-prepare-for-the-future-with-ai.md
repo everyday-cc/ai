@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ODDITY Tech's Bright Future, Analyst Credits Artificial Intelligence"
+    excerpt: "KeyBanc Capital Market analyst Scott Schoenhaus initiated coverage on ODDITY Tech Ltd (NASDAQ: ODD) at an Overweight rating"
+    publishedDateTime: 2023-08-15T18:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/oddity-tech-s-bright-future-analyst-credits-artificial-intelligence-1032556550"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "mANixYHyZbMLwP08h5ilryXzTvqb12VNKYVPIRq6dm1aFy8XWQ6L0Kyb/Rysg2P+aQk98/ExYhrBZBcgW9LJykmm1FNE8zM+Ed6jrUkNpeNiEtg8ZYudLrH/izNuupZGjpnwL349FzsMBy4GZldI839m8rtKsNY8wHTKGP24eT23iAGdu3XSEnd8esthf3LzlS/ASCi+ewisaxJNrv/+51knT8R13VST1GI+sBy5wdtuJ0iX1qudN61AOpAWTRoKCycUz4d11+4o1BNGLwjxEvSi9HXIDWOGUQe3UOER395YUlLtszpEUUUkZ86yDOFoaXekhDUDiz7kNPz0brSHuaxxlej93M6idnVB0rRJYDUa3QjSBUuOnFEMa+ygN4AYTGSgr2zYVVDtLq0Kz0IrdQvUa8VBSyNq2NxmnZebiPTnqOEv14XX+50xiOYmk8f4UnTyUVl9HWyGueBLUN7et97RBQ/lsDDulDwid1udvSBYi7J8oMTtHUenWrfLUyUb5v9JHeai0vXDAt6Xk95Mqg==;q+uuILLtI9KXL3CR7APo4A=="
 ---

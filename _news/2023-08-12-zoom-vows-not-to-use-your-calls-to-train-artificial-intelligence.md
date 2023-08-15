@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Message to NKY businesses: Start using AI or be out of business in 10 years"
+    excerpt: "By a show of hands, most of the businesspeople at the Northern Kentucky Chamber's Eggs 'N Issues have used Chat GPT — a from of AI that's still evolving, according to Northern Kentucky University's Dean of College of Informatics Kevin Kirby."
+    publishedDateTime: 2023-08-15T20:21:00Z
+    webUrl: "https://www.wvxu.org/business/2023-08-15/nky-businesses-start-using-ai-out-of-business"
+    type: article
+    provider:
+      name: WVXU
+      domain: wvxu.org
+    quality: 35
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/555e689/2147483647/strip/true/crop/1803x947+0+203/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F04%2F28%2Fautomation-6762812-1--763c8220ded19d1840ae8a7ec74abfe04db8ed89.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ONfDU+lICmL50+RsWmbwg5yxAhi25o+ZR8NpJLxcp+Ol9keEQvJa7RxSSCK2P2KG0hGzaU/hTMgjKzm3JasNOCEXp9RCVxxrA7gCoYwJf86QWqjOPDrnaJ6Y1dEqv9SKqbxalvDT7M1zGkpVYC/WtP4040p4JbVmXAQ4euFpeafLAUlhdr0liQTRtQ9Ju2Ay5ryUUcz5DQKmpEzA9w0ABOdFfpVWwjFOSlZt2hl2fbvDmsxOsmuHsDFeiQkW2aOGqaQm6F50XKxD4sztYQtjO8Jt3kNFrtFn0awIz3Q1kTUkmKHTRjK4XEIfGrJ+2ZX0DlF5FAIFhzKH9Xw9Q3uyXQaBSHbpPg2H1p44tdKFTXDK4IxOxFtF0OWC15GdoIw5YxjjVUz9lnMNE277yiGo1e374zIjCa6c4ygxFAWOGOuTKES28gbI0pYQiwOOPhhPjAlEUFG1Z1YtiRlQ08HYf+HSiod/an1hpc0svKdzAlqUkictLx307VnBGVyh1E/jcPMdX5S9ZLnLP5W05frN3A==;xaYsxSmh2l/hIcz+f8O2Ag=="
 ---

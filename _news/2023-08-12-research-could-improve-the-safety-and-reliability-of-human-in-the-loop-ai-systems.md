@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "The Reality of Artificial Intelligence in the Family Office Realm"
+    excerpt: "Across industries, professionals are talking about the opportunity and utility of artificial intelligence (AI). In the estate planning and family office realms, two fields that require a distinctly hu"
+    publishedDateTime: 2023-08-15T19:17:00Z
+    webUrl: "https://www.natlawreview.com/article/reality-artificial-intelligence-family-office-realm"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 21
   - title: "AI and the Productivity Imperative"
     excerpt: "The world is struggling with labor shortages, inflation, and a supply chain that cannot keep up with demand. AI can help overcome these productivity challenges, with LLMs in particularly allowing for productivity boosts without replacing human workers,"
     publishedDateTime: 2023-08-11T12:37:00Z

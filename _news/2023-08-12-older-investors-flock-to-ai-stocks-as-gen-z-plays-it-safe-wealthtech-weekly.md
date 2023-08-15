@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tech Down Even as AI Stocks Rise -- Tech Roundup"
+    excerpt: "Shares of technology companies fell as wild swings for artificial-intelligence issues continued. Shares of chip makers Nvidia and Broadcom,"
+    publishedDateTime: 2023-08-15T21:04:00Z
+    webUrl: "https://www.marketwatch.com/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Hedge Funds Flock to Big Tech, AI Stocks In Q2"
     excerpt: "Megacap tech stocks and artificial-intelligence plays rallied in the second quarter. Many big hedge funds flocked to those bets. Funds like Appaloosa, Third Point and Pershing Square opened new positions or increased their holdings in tech giants and semiconductor stocks during the second quarter,"
     publishedDateTime: 2023-08-15T17:46:00Z

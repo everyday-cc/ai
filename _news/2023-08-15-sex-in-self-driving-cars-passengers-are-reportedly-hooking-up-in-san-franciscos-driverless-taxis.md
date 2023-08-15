@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp"
 type: article
 quality: 75
-heat: 225
+heat: 215
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/2a5480d/2147483647/strip/true/crop/662x348+0+0/resize/662x348!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbb%2Fd0%2F80318d734f7fa9a89f9001e9f5c0%2Fzscaler-public-sector-logo-r1-rgb-31aug21-vertical-pms-blue-002.png"
         width: 662
         height: 348
-        isCached: true
-  - title: "Robotaxis Can Now Work the Streets of San Francisco 24/7"
-    excerpt: "Robotaxis can offer paid rides in San Francisco around the clock after Alphabet’s Waymo and GM’s Cruise got approval from the California Public Utilities Commission."
-    publishedDateTime: 2023-08-11T01:50:00Z
-    webUrl: "https://www.wired.com/story/robotaxis-cruise-waymo-san-francisco/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 54
-    images:
-      - url: "https://media.wired.com/photos/649cd5a8065114c6bc3082d4/191:100/w_1280,c_limit/California-Expanding-Robotaxis-Business-Alamy-2J9HRBA.jpg"
-        width: 1280
-        height: 670
         isCached: true
   - title: "San Francisco Has a Problem With Robotaxis"
     excerpt: "Afergan stepped outside to check it out. Sure enough, a self-driving cab from the company Cruise, which is majority-owned by General Motors, stood frozen in the middle of the street, its hazard ..."

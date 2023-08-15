@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "ESG May Help Regulate AI/ ChatGPT Use In Business"
+    excerpt: "The simultaneous rise of AI and ESG in the business sector creates an opportunity to use ESG to better regulate AI."
+    publishedDateTime: 2023-08-15T19:39:00Z
+    webUrl: "https://www.forbes.com/sites/jonmcgowan/2023/08/15/esg-may-help-regulate-ai-chatgpt-use-in-business/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Learning to be a writer? Clinic topics include ChatGPT and getting an agent"
     excerpt: "Local authors and educators Gary Arnold and Alexandra Weiss will be featured in the August Saturday Writers’ Clinic beginning at 9:30 a.m. Aug. 19 at the East Bank Regional Library,"
     publishedDateTime: 2023-08-14T11:00:00Z
@@ -79,6 +88,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "ByteDance AI researchers say OpenAI now tries to hide that ChatGPT was trained on J.K. Rowling's copyrighted Harry Potter books"
+    excerpt: "A new research paper laid out ways in which AI developers should try and avoid showing LLMs have been trained on copyrighted material."
+    publishedDateTime: 2023-08-15T19:06:00Z
+    webUrl: "https://www.businessinsider.com/openais-latest-chatgpt-version-hides-training-on-copyrighted-material-2023-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
   - title: "How will the oil and gas industry use ChatGPT?"
     excerpt: "However, its use extends beyond the household and the classroom, and it is being eyed for a host of other industries. Follow along with GlobalSpec for an ongoing series examining how ChatGPT is being used in specific industries,"
     publishedDateTime: 2023-08-15T09:03:00Z

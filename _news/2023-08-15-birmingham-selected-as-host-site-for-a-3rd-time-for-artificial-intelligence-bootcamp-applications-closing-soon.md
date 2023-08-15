@@ -62,6 +62,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Plano Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+    excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital"
+    publishedDateTime: 2023-08-14T14:51:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33835686/plano-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-closi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33835686"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33835686"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Madison Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "MADISON, Wis., Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Fetch in Madison. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-11T18:48:00Z
@@ -285,15 +301,6 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 0
-  - title: "Plano Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
-    excerpt: "PLANO, Texas, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital consultancy, taking place in Plano. Applications for the no-cost bootcamp are closing soon!"
-    publishedDateTime: 2023-08-14T14:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/14/9864044.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 0
 
 secured: "79fT2DuJmNpMfK3qiUFM0EQ7VlABDltEK4VuiBU0owcvaz4aa9tPnaHEdfCY6lG7XMXFICPqiuLHse2PGl2y3Kk4S5Mu3rdBk83o1Fhjnk6nwv3HUp7tJ36/JgUA4VyXpKrgR1bmOBnjBCb6dCpdSBaLPo7IffqxUIeYRf1umCuIkl2u63NFl8dGcGCmq+3qhXfacApl0q8IMcdo4pXssS9wZ1vfcxiS6Q0LRYq8PvU0W+BAY9elshUeEvzAgkoypDqYvAc/ELAhYKzg+C/4qdp0IZ0lUKPgzEzHY8iBotbKtI5xEA/rwCPsqjyf8x3+ZZMIA+eM2k8mcqEewEWC5nnGVh4GRXEqhrFWSeIvAfg=;7FuLwrv3r6JpM1DrniVoPQ=="

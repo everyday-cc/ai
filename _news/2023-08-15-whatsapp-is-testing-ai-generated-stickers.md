@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/whatsapp-is-testing-ai-generated-sticke
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/whatsapp-is-testing-ai-generated-stickers-150614153.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
     provider:
       name: Android Authority
       domain: androidauthority.com
+    quality: 47
+  - title: "Google Tests Using AI to Sum Up Entire Web Pages on Chrome"
+    excerpt: "The company is running a test that uses AI to generate key points for web articles you’re viewing on Chrome. Called “Search Generative Experience (SGE) while browsing,” the feature can create a bullet-point summary of an article within seconds, all with the click of a button."
+    publishedDateTime: 2023-08-15T19:33:00Z
+    webUrl: "https://www.pcmag.com/news/google-tests-using-ai-to-sum-up-entire-web-pages-on-chrome"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
     quality: 47
 
 secured: "R5fDZUnivZYSEQZ/suGN5KhHh8GXwO1RZEJ20Y2lHfregJaM4vStGLVdWMBP//AcmflndlGdVWqFZCHP+J6JU7kS6rRswDKFAr9uIgvwAWRoPVKEFctkM3ooH5S4WGggVlpsXFJXACJ7PDrxu6H3GmnVM53vnHxSlksLlnHcbE3SD6qlj3EvtdCwbVSmSlaZs+L/tC3RdcGj/k9HPg74U11CdudSRe1rCtaRbLeNVpC4hu9O5YZxCkewLLMv/R6Nc+/cj+ZBuUyXtDvw3WQiD06blZpcYBFVlLANzvzF5ElhHk/RQWAHO4kTpQpwKEGyLlmDRtr67BsHuZILbosZYdJHL8UXwe269YY1mlBy5PB0OaK3KJye7E45V4XjU6RyyAM7qi08Sd42w2TAHD2ot8wZ/70lfpKEAaiejWYQrk8CITp7EHJx/MaOv2EUf7Mb2Hh1V/nc6Nky9LF2NrxwZp9gtwQt/KjUAq34RObLnMOOtqknKmIrJLl6wVsEIlssa2BX/7HL3Q10PysRJaNPOA==;pnEg/J0hS4K1kBUDQaL86g=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gulf-times.com/article/666453/international/uslatin-amer
 cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations/amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1000
     height: 562
     isCached: true
+
+related:
+  - title: "AI startup Grit nabs $7M to help developers fix technical debt faster"
+    excerpt: "New York-based Grit has developed an AI platform that promises to speed up the task. According to the startup, its platform can find technical debt in an application’s code base and generate new, more efficient code with which it can be replaced."
+    publishedDateTime: 2023-08-15T18:06:00Z
+    webUrl: "https://siliconangle.com/2023/08/15/ai-startup-grit-nabs-7m-help-developers-fix-technical-debt-faster/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "/ZZ9aVDBFFPSIp4nb3TRw7m8W85RoRJRJb7eCFvRkkiZePiEtZVmt6AWwo/azXfar2JdFOPgw4TnAJ4A8xv78D+z4zh3+HfWC9qyhKqBEHhVY495uD7QCimRusDln9PeW8YEVIizu49Rg0HYPwWdHkcN2XrO7ZQ8+JVE5tB/Pi2TyhTlEpqkCnJbn/uluY2kIAscnKmwuuYB7KDotexxD44r36e94RBu5x7ZY6hszzaka2lsIY9CbGk11V9vqac/xpHLcDC1oLq4evxPdeY4cbx2rKWraD/Fy/HpRefBuPPDJRwQRDUd041CKcByIeSTbMlVSvuNVs1YysTcxb75EuEYxErQDsiy/vOQ63VL97M=;zDGOf6BJIrfitd+ntOQcyQ=="
 ---

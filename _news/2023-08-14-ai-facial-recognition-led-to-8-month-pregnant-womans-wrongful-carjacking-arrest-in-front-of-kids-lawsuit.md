@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnan
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit.amp"
 type: article
 quality: 86
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/d741c78be9e7d04826982a112970eaabef4cbad3/658_1211_1274_764/master/1274.jpg?width=620&quality=85&auto=format&fit=max&s=9150caaad972a2fdc4230a221c7702d5"
         width: 620
         height: 372
-        isCached: true
-  - title: "Facial recognition software blasted by DPD board of commissioners after recent false arrest"
-    excerpt: "A vote to ban facial recognition for the Detroit police failed tonight, which would have kept the department from using it for a year."
-    publishedDateTime: 2023-08-11T03:15:00Z
-    webUrl: "https://www.fox2detroit.com/news/facial-recognition-software-blasted-by-dpd-board-of-commissioners-after-recent-false-arrest"
-    ampWebUrl: "https://www.fox2detroit.com/news/facial-recognition-software-blasted-by-dpd-board-of-commissioners-after-recent-false-arrest.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/facial-recognition-software-blasted-by-dpd-board-of-commissioners-after-recent-false-arrest.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 49
-    images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2023/08/932/470/facial-recognition-arrest.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
         isCached: true
   - title: "TechScape: ‘Are you kidding, carjacking?’ – The problem with facial recognition in policing"
     excerpt: "When a pregnant Black woman was falsely arrested, she fought back. Here’s what happened next. Plus, the week in AI"

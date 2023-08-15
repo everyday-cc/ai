@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "ODDITY Tech's Bright Future, Analyst Credits Artificial Intelligence"
+    excerpt: "KeyBanc Capital Market analyst Scott Schoenhaus initiated coverage on ODDITY Tech Ltd (NASDAQ: ODD) at an Overweight rating"
+    publishedDateTime: 2023-08-15T18:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/oddity-tech-s-bright-future-analyst-credits-artificial-intelligence-1032556550"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "How humans should prepare for the future with AI"
     excerpt: "We currently live in a world where technology is advancing at an unprecedented pace, and smart machines are becoming an integral part of our daily lives. Artificial Intelligence (AI) has"
     publishedDateTime: 2023-08-15T06:52:00Z

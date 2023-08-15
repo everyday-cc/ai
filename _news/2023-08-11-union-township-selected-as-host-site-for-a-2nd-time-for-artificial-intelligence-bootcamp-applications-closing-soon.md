@@ -53,6 +53,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Plano Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+    excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital"
+    publishedDateTime: 2023-08-14T14:51:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33835686/plano-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-closi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33835686"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33835686"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Birmingham Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Protective Life Corporation in Birmingham."
     publishedDateTime: 2023-08-14T21:17:00Z
@@ -283,15 +299,6 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 0
-  - title: "Plano Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
-    excerpt: "PLANO, Texas, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital consultancy, taking place in Plano. Applications for the no-cost bootcamp are closing soon!"
-    publishedDateTime: 2023-08-14T14:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/14/9864044.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 0
 
 secured: "AG/bYnDFPd0tSaTOwNx+R1IlmPaH9G5b6xZaS6a/t9r8QFC3SfNGiHPVsDPjtmm7K4AWJDmLgJa33iOFnP2W0yf1aPZaUwigwjea/7fS0k+Y7jxF9FNEyCFDxHIdbFkcGLUSDc9Pvbl+SqXKTcPfEhRfSZxftntt/js28Uvw7ASEJ2tGK1IV1xnhfz0ZiNKGNY5pkycYo3jbTUm0JD9xCHe+dEiqou7i1ibl0YYSAPcyp9jo9GXftY+kQC0jR5zTvko5SE0rXgeZeHJEbcJnD+o55Y1h7EfgMeGhm/A0lAf2hBJMeI+aXqvbw18Abc+iAbuw3o0n8gnjU7WhP+OPZCp/IW3t5EFMEyqM2hywqUA=;gW0uDfIhrJheHsZAJZerhQ=="

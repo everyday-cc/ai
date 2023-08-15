@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 744
         isCached: true
-  - title: "The Hidden Challenges In Integrating Data For AI Systems"
-    excerpt: "The act of combining data from multiple sources is often resulting in accidental “upclassing”, “PII additive” or “deanonymization” problems, causing significant issues."
-    publishedDateTime: 2023-08-11T05:00:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/08/11/the-hidden-challenges-in-integrating-data-for-ai-systems/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd1bc5e9c119b9a8960ea8/0x0.jpg?format=jpg&crop=400,400,x0,y0,safe&width=1200"
-        width: 400
-        height: 400
-        isCached: true
   - title: "AI Landscape Emerges For Employee Communications"
     excerpt: "A key finding is that implementing AI in employee communications requires a clear purpose and strategic integration."
     publishedDateTime: 2023-08-14T11:30:00Z
@@ -110,6 +94,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Amazon Shopping uses Amazon Rekognition Content Moderation to review harmful images in product reviews"
+    excerpt: "Customers are increasingly turning to product reviews to make informed decisions in their shopping journey, whether they’re purchasing everyday items like a kitchen towel or making major purchases like buying a car. These reviews have transformed into an essential source of information, enabling shoppers"
+    publishedDateTime: 2023-08-15T19:31:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-shopping-uses-amazon-rekognition-content-moderation-to-review-harmful-images-in-product-reviews/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
   - title: "Financial Services Are Using Artificial Intelligence to Navigate Regulations"
     excerpt: "In five key areas, AI and machine learning tools can help banks follow know-your-customer rules, spot potential money laundering and more."
     publishedDateTime: 2023-08-14T20:23:00Z

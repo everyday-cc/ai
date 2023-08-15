@@ -107,6 +107,15 @@ related:
       name: Diginomica
       domain: diginomica.com
     quality: 19
+  - title: "US military’s special task force will explore generative AI"
+    excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
+    publishedDateTime: 2023-08-15T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/dod-generative-ai-task-force/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "6UUCGGQxwtpWkYMhop/dlUjCzn9JNxAZv+OkzwL10+3cWa4zBVb3keuIuhoKFcUfb3oV80F+s8qc1FqwDEj6ffMtWcQ2fRrlpvIH6dBaqrv6Cocq7iIwAslcndgyUtqs6I6x4j1wZfa+1AxAxWHcbF/f8lsLFnXTLfcaZOjx5hMPA+R/7ou4vs7JclHkjwlIqR87ek6um+8Z0JbmwGJi8kIHQFAK2NxaT5GCc11VOmdNaU4HOOuaUCiWxkJYbGqest4AH6KW3+YlVVcT98LctNCk43i4MXxKPV7Y9earikQWgdKxDUu1EC0TyAB8U82grX9HrI90sZYuepMJAdmxJH6w1xkTbn6+aAjW7oUc48DofScRIc6APcoL98hbvsuLmPXZeYNZUU5B5D6zSiMZelXFLbSgNL9wRGDkKFfYDOzr+IAEQRA0YODID7nGfy9FX9Rh0SRpb7fURt8UQQy8hLzYVrEzO/ebV3i0dBrYam90HtuZucSe0VXrccwR1KHCkJQH5NH3BnCIeQa5rPhcDQ==;iBGPabhjK1qFGXzIqhsXig=="
 ---

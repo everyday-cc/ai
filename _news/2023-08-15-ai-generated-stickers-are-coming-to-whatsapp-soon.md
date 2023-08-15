@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google Tests Using AI to Sum Up Entire Web Pages on Chrome"
+    excerpt: "The company is running a test that uses AI to generate key points for web articles you’re viewing on Chrome. Called “Search Generative Experience (SGE) while browsing,” the feature can create a bullet-point summary of an article within seconds, all with the click of a button."
+    publishedDateTime: 2023-08-15T19:33:00Z
+    webUrl: "https://www.pcmag.com/news/google-tests-using-ai-to-sum-up-entire-web-pages-on-chrome"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
 
 secured: "9MXyoQTNwuz02HZgFALf48ZKT6hgT5ezdGuMFbNptJ+vnfh9bu0tqd7Pc9iEs9EeKh92kzzAiIJzk4uzqUkMF6jpXCCAoEkzroarU67X1/ZQTU7k7IjoE5NF9TtaRuIGZNZcRs6XJdDctvSC02SuQcBksKSL64jjxsMayP8zpec90Be6fs0ZGnoKaHNioDEHo8gwtzJ1heWtl/rp98/CU+KVECfvJq4aEuQkFHqpbBzm3yhACE/enyO6bRUuk0mrgWFez6Zt0KTYJZZ851X9tGUGpfIGfaUyIDCN37Yylrj0lpkc5uJTmzg4YTXKqI16eqxbzmwu+5f6jIT9JNqt52p1xLt9h0j/JhVsWh+OGtDp52Pd3YvxTUFoXxOnGTOYSjG9GWM7n2GU7SM1aaRansO5MXyTMSSYgxJlL1NVFW0PQmmhIeR1iWBdiz/r2jwNzKX0wb34ZtU3hpnzxPhGtmOpZKuCj1+L/BHQPjONjka/IX3E1k87tFgmioFhowYae95Zd6nqaclNn3G5mNkuHQ==;9y0/C0jVpevYNcVd/BSpPw=="
 ---

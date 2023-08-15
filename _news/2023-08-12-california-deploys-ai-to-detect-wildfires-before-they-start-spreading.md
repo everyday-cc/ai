@@ -70,20 +70,6 @@ related:
         width: 1146
         height: 692
         isCached: true
-  - title: "California just opened the floodgates for self-driving cars"
-    excerpt: "A passenger yells out the window of his self-driving taxi as it takes him to his destination in San Francisco on July 11. (Josh Edelson/AFP/Getty Images)"
-    publishedDateTime: 2023-08-11T03:52:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/08/10/san-francisco-robotaxi-approved-waymo-cruise/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/47D53BA4CFDGTSEXPBZC653B5Y_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 917
-        isCached: true
   - title: "California regulators vote to allow self-driving taxis to operate 24-hours a day"
     excerpt: "California regulators vote 3-1 to allow Waymo and Cruise to operate driverless robotaxis 24/7 in San Francisco, despite concerns."
     publishedDateTime: 2023-08-12T13:00:00Z

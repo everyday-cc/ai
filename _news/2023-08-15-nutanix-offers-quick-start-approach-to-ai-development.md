@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-15T13:00:00Z
 originalUrl: "https://siliconangle.com/2023/08/15/nutanix-offers-quick-start-approach-ai-development/"
 webUrl: "https://siliconangle.com/2023/08/15/nutanix-offers-quick-start-approach-ai-development/"
 type: article
-quality: 17
-heat: -1
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Nutanix targets Generative AI newcomer market with Nutanix GPT-in-a-Box"
@@ -26,6 +27,15 @@ related:
     provider:
       name: Channel Buzz
       domain: channelbuzz.ca
+    quality: 19
+  - title: "The Department of State’s pilot project approach to AI adoption"
+    excerpt: "Senior IT leaders at State argue that small-scale pilots of AI technology can help bring a wealth of benefits to federal government, such as increased transparency."
+    publishedDateTime: 2023-08-15T13:00:00Z
+    webUrl: "https://fedscoop.com/the-department-of-states-pilot-project-approach-to-ai-adoption/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
     quality: 19
 
 secured: "7BDC8nqemw9OHJbSoEiEXYnwJKnsFY67lqPzH0TnvDolHUZehWRaC+VPb9VF2UqtClPtrEb/BAk8HjF7RrxiLlJ5vHJ7CampMJVOd+hCMR/yJoqwz8esKYuVt68yom9+Tpw/Ozvp7gFvDDkT9c1EMi5o/9WUz40imtkmW/FNwN4farWsLnXM2mAoLIzTeGyXTccEPHiMhJ/Z54Nwi7Nc7+LUeNweUlDDIbAo15WKUh0qRbPoSKbJQefxLGzpfz1i2nj5YssihGm+JogTVYJd7xi34Q2dOuA28rxd7X7QWdtXMEPUATVg/8++S2LOLozuzQDJwDH1VZ/SqAcKRNQ3w8mOITrSaoNUy+h81puDoLg1yUNQzvSriviwXI1N9cNWpZwsE2URn9ydUpGkCzM6WcaVe3DK05uak8vv0WSVtRYTjfRvvISf6zSEIF/2N/0yWry29DCxXQJAaQmJye/y7Z9irgd2KzAu4Lc75W/YXXsXGY0nO/81BGprRdprT8pLIiVVVFDGL3shJ97IyRHtIw==;awofNn46Tdm0Qf+noTRz2Q=="

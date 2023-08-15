@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "Machine learning can accurately predict subtypes of Parkinson's disease"
-    excerpt: "Researchers at the Francis Crick Institute and UCL Queen Square Institute of Neurology, working with technology company Faculty AI, have shown that machine learning can accurately predict subtypes of Parkinson's disease using images of patient-derived stem cells."
-    publishedDateTime: 2023-08-11T02:32:00Z
-    webUrl: "https://www.news-medical.net/news/20230810/Machine-learning-can-accurately-predict-subtypes-of-Parkinsons-disease.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2015/7/image_28620e4b6b0047f7ab9154b41d739db1-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "JS/G3KoWS2ymaiKANTvWcAk+zVl3hXxaM8ou3YinIhGQjuS4V03fVmlp7tU7e9h4gjeAhftGeD5N42LXT5oiy7xBOXaJRdlAQHXfeSUFw716s2vkakh5aoK9iOPFxxO3dWTnqulzzVlUH3ZQepeHNTmSgZ+d5ijNw/oeNAabmQVba47HcDoQ7eo81McnfPWxy6DEaC+vl319aXQz0JwzyEGOHoZ2gbv9h6D0PD2U+x60Yo2x0+XgQp8xyyFEl5X7iXCx4HQValjZLcWEa8g03DKBclO4YDBrqX4VGoNWQQdIq/9qRA/JQH7XnyGGK0Tdj+bWT2UGe8Re12pEI1Lm2zUgfD7cYqMiRf808OXJ0ZM=;SUtSIPOFB8uvxk8cbtTASA=="
 ---

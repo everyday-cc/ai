@@ -69,6 +69,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "You can build your own AI chatbot with this drag-and-drop tool"
+    excerpt: "Botpress is a tool for building interactive chatbots. While it supports building chatbots for a wide range of applications, the killer app is using it to build a customer support chatbot and backing it up with AI smarts."
+    publishedDateTime: 2023-08-15T19:13:00Z
+    webUrl: "https://www.zdnet.com/article/you-can-build-your-own-ai-chatbot-with-this-drag-and-drop-tool/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Rise of the chatbots: How artificial intelligence could shape the future of crime"
     excerpt: "I am here to kill the Queen, a man wearing a handmade metal mask and holding a loaded crossbow tells an armed police officer as he is confronted near her private residence within the grounds of Windsor Castle."
     publishedDateTime: 2023-08-13T01:40:00Z
