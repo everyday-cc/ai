@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The World Isn’t Ready for the Next Decade of AI"
+    excerpt: "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state."
+    publishedDateTime: 2023-08-16T10:59:00Z
+    webUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 71
+    images:
+      - url: "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Many experts believe AI chatbots like ChatGPT are here to stay. So how can they fit into the academic world? We looked for answers."
     excerpt: "With the start of the school year just around the corner, educators acknowledge that programs like ChatGPT are already a presence on the academic landscape."
     publishedDateTime: 2023-08-12T18:03:00Z

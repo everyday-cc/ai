@@ -38,6 +38,20 @@ related:
         width: 1198
         height: 701
         isCached: true
+  - title: "App Science Announces New AI Feature Within Its Insights Analytics Dashboard"
+    excerpt: "CNW/ -- (TSXV: SBIO; OTCQX: SABOF) (the \"Company\" or \"Sabio\"), a leading provider of connected TV (\"CTV\")/over-the-top (\"OTT\")"
+    publishedDateTime: 2023-08-16T11:30:00Z
+    webUrl: "https://www.newswire.ca/news-releases/app-science-announces-new-ai-feature-within-its-insights-analytics-dashboard-899108532.html"
+    type: article
+    provider:
+      name: Newswire
+      domain: newswire.ca
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1725822/Sabio_Holdings_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Top 10 Alternatives to GPT-3 – Analytics India Magazine"
     excerpt: "GPT-3 has 175 billion parameters, making it one of the largest language models ever created. It can generate human-like text and perform a wide range of tasks, including translation, summarisation, and even writing codes."
     publishedDateTime: 2023-08-12T19:41:00Z

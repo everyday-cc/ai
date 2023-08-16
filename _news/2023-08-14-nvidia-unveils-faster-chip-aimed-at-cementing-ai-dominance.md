@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia's AI-driven stock surge pushed earnings multiple three times higher than Tesla's"
-    excerpt: "Nvidia's graphics chips have proven to be the best for training artificial intelligence models, and clients can't get enough of them."
-    publishedDateTime: 2023-08-11T18:12:00Z
-    webUrl: "https://www.cnbc.com/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html"
+  - title: "Earnings preview: Can Nvidia amaze markets with its AI chip sales?"
+    excerpt: "Nvidia is slated to report its second-quarter earnings after the US markets closing bell on 24 August (APAC time)"
+    publishedDateTime: 2023-08-15T04:27:00Z
+    webUrl: "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales"
+    ampWebUrl: "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp"
+    cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 98
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 93
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107278560-1690555294515-gettyimages-1258356004-TAIWAN-COMPUTEX2023-01062023-152JPG.jpeg?v=1691784755"
-        width: 5000
-        height: 3333
+      - url: "https://assets.cmcmarkets.com/images/Nvidia_GettyImages-902419310_1200px_medium.jpg"
+        width: 768
+        height: 576
         isCached: true
 
 secured: "XM11orm9T3h6wv2EyrB9pGLhMsIwKBwJDDshYVvJ+xXKgPU7s2JnA10Nac5/T5uoLtmjVQSn19MhhBwG6uJITIeBoU+K9Juhfg89QkGr29/WutMbGxKbd1LileqB+skFMOwGvd6IW9qIoYu6ftEO9iUI1D2g2gijtF/j8C3DeZ3FCaHx2JFSRGtSfFl6yhWihwwOwImX/Q4rM/QXNjMSSsVQZDwBPafk/NzYjPUWrT457jTiO5hxtzfptph428tAd8JXLMCVrFvKUgsa7GbTwNDGvtEaTEtnYdC+OY7+H1Sb+vEjPRI4Qwtz43aWhOa4LpB+DQM9lnqCLR9OZu/0NxXXjVkIUHmDo256jsST7OmfozvyFqUTUjxcpM5zeT1GYhugp45aoJHdRl15g0Rm1P19l0juQDdmFGaa7rLeVmq+Y7oc/EXvwjmMjojrStwiV0Xaj5BHr/ahzcpuQTcG/CE5KsE5yZ+5we8QfJC5w9Tf79rHqu1lPG3cL37TQc7HiWqD1hAOFi0Os0dAMuVh2w==;u2AmD41BVnT5sv5t80nD/g=="

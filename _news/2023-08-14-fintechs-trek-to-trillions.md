@@ -117,15 +117,6 @@ related:
         width: 799
         height: 449
         isCached: true
-  - title: "Fintechs experiment with generative AI, but development is slow going"
-    excerpt: "The firms are increasingly seeking to integrate generative artificial intelligence into their products, and banks are potentially interested customers. But such efforts are costly, the risks are high,"
-    publishedDateTime: 2023-08-11T18:48:00Z
-    webUrl: "https://www.americanbanker.com/news/fintechs-experiment-with-generative-ai-but-development-is-slow-going"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 19
   - title: "AI’s Impact on Fintech: Do the Benefits Outweigh the Risks?"
     excerpt: "Firms need to consider data privacy and security, the opacity of AI decision making, and the risk of model degradation."
     publishedDateTime: 2023-08-15T04:30:00Z
@@ -163,6 +154,6 @@ related:
       domain: deccanherald.com
     quality: 4
 
-secured: "7QWdpsdsZHLUVxkREumtJOd+a7xqLbM0jWepzXvrx29Yk85Zm+tb6HKwjZwsC5EK5sBC/ZrBQH98YiWlgbc9Ogc0mILrAsxa/bWkR/e8AXP243iktD94jZ73sU/th+TsCyvKHimv6y8yoC6laSlcV/RwZPeuLg0+IJq0TYF4pSCyUSbNu49BOeSEr7m2d4iYcS9J7xvAKrJESNmc5iFrb9bBg//2OIiVOD9rb87oYHoZJwvOnIp18J4vey4N3VnsQ2W5SNhYNrAdpWntXhX4/RoyqBU5JFiutQPr8xrP0A9RJUY4ht8hplSH8L1nxxVPw1/4EJnRMO2HoJrk5SFv2pDhmG+qqh64o+G3/AmrMWs=;q25h25JVXsXXuDY/xAgsFw=="
+secured: "n26C6LnD+p4mQuYlRND31fNhnWN14ocdAqfG/0R6yyB1pxSKwvvrq4NQyVX0aUipKEkXfROMNHNTxUMBewrgLMsp1v/ne6MbUwS961ojmcqlW1UfSs2D5l8FzzNXN03gEVgoVMuyDzWteK051dmJCceb1h9VcYcUKpmc6dR6dc94/Tt8nCX4StvvsbEIqAhvWG5GRXvqQWXnIAalhh3Vc//XSheudGg8A0ba+7K1yYy04KfazLQEkb26wBZBIqeGjiNow7j1b+mGhSsWaC8TmrAVAZuRwpa1wGA0dG6iAYHVwE0Q8zQCFswLg/4/elVk3e87UG96LsIornLFOfiuLJt+zjfZTjjwLDvBb0mNupVgqrpAoJ2FM7qLk0U8rumDfnRZeolrHQ46XgL3AVibsC2GkcQgU3Lqo7u0BDV9zWyTc7SXKPMlsRuAnqUbrZ0HZJhoU3MhaA3w6we9WZIpOCxcxG9LihyzCtpYaqmM8EWJOK+GVySSAnrsgUmhJAjVgpNDU4JWjC7H1MwYH23LNA==;sZSyhmk4PgvLBJjLQP2kIg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/15/browse-ai-help-companies-build-bot
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Companies Put AI to Work Outside the Cloud, Trimming Costs"
+    excerpt: "Advances in networking and algorithms are pushing computing-intensive apps beyond data centers and closer to the edge, CIOs say."
+    publishedDateTime: 2023-08-16T10:00:00Z
+    webUrl: "https://www.wsj.com/articles/companies-put-ai-to-work-outside-the-cloud-trimming-costs-453b649e"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-836202/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "Zapata AI and IonQ Collaborate to Advance Generative AI Research"
     excerpt: "Zapata AI, a software company building solutions to enterprises’ most computationally complex problems, today announced it has entered a strategic all"
     publishedDateTime: 2023-08-15T16:01:00Z

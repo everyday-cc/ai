@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Is Crucial for Healthcare Cybersecurity"
-    excerpt: "Healthcare organizations are among the most frequent targets of cybercriminals’ attacks. Even as more IT departments invest in cybersecurity safeguards, malicious parties infiltrate infrastructures — often with disastrous results."
-    publishedDateTime: 2023-08-11T18:03:00Z
-    webUrl: "https://www.unite.ai/ai-is-crucial-for-healthcare-cybersecurity/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 34
 
 secured: "D7cJ00mhLEIXKeapZqf4h0NH9knFgpRiXDttQiz7zEdmh6ubgYMrhtk85Li1qh06FgeIWQFpMRoMkDSkJAOHYNlepgap/qmyRyxUoen+X3HqPa0C/KXH8ZadshxzdjCKUYw8q45+/JDYzYMdhYz8WIOOLScR+eW3wB8hPpxmfDhm/3aeslamLJietm1V63TEIsLHJkt1iJY2olEomM37wzUQcFiovoKKMd4ig++LwuL9V9BZvbyw/GnesbC2ukD7wTHpvOm5AwUTPP7Imb1Moit11hY4vDUVjvtLksWzCOHUfEJsO4tDVwSQYohxpG8tzsbqQxsnEbHDAG78e9SU+nCz0ZJByq3KTIwJDkg2qcg=;BN5TAZ/zui5gDV5iPBhiWg=="
 ---

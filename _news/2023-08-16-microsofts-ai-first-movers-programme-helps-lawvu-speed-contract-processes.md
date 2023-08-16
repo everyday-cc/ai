@@ -73,20 +73,6 @@ related:
         width: 546
         height: 312
         isCached: true
-  - title: "Microsoft changes Services Agreement to add restrictions for AI offerings"
-    excerpt: "Microsoft has added rules and restrictions for its AI offerings in its Terms of Service, that will go into effect on September 30."
-    publishedDateTime: 2023-08-11T17:22:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-changes-services-agreement-to-add-restrictions-for-ai-offerings/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "ABB and Microsoft collaborate to bring generative AI to industrial applications"
     excerpt: "Expanding on their long-standing partnership, ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability™ Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
     publishedDateTime: 2023-08-14T06:32:00Z

@@ -39,6 +39,20 @@ related:
         width: 1420
         height: 798
         isCached: true
+  - title: "Tesla plans to roll out Full Self-Driving solution in China"
+    excerpt: "Tesla plans to establish a local operation team of around 20 people to introduce its Full Self-Driving (FSD) solution into the Chinese market, according"
+    publishedDateTime: 2023-08-16T09:55:00Z
+    webUrl: "https://technode.com/2023/08/16/tesla-plans-to-roll-out-full-self-driving-solution-in-china/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2022/07/131403118_m的副本-1-e1657706210717.jpg?fit=1800%2C1044&ssl=1"
+        width: 1800
+        height: 1044
+        isCached: true
 
 secured: "cVjhA/63eTBPPuVTHurAFknhWSiO/Swip0ozHu6jpgk+ckcOexQQR4NecCf+DKMV+e/HtgDQ2PrIn8t+gfMkeZajsTDFh+/c9YrTWNAGBit3enV6ZcoJR5wLdw2+gOWMtG12TaeXj0r1vEQprZ5KmfEOYxXGqk6sSZ+d4kh7Wu8Gfg6Jr5iFU6cUQ3q23juVoknEK32sU1lY1TivILapdM3hsc50q8ZSIOykousYPUAqh+SDuAYcHYX64cftv/N5nIdVhfZenl4pMFOQH0lcBu0wz2Ic4yrmFg6nTwsELNrDoEhX/LKkFZLEHGIk5pbF+IEA/MmGmtV5QRtWobrhpF7Dwc2SnSshGAM4eXMdeEx38X9AB3JSkV/jV1Fa9ux9y/7rX2A6B1d1REE1irCdmOxeiPVHj9h2U17CHNofaWsINqYi1LCYYvJJWC71H2cxX/lCpkM+edMlqfCa49g8qxU3h5oJ2fLd7ZWaKSDrxdBdZB6MreWtOV35p25DZ+Q+xtUxIbLuxzX1kiYxI18cfg==;t0dWqMQQMOEVr1KuHcykYQ=="
 ---

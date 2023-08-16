@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/smart-video-analytics-are-redefining-us
 webUrl: "https://venturebeat.com/ai/smart-video-analytics-are-redefining-use-cases-from-retail-to-healthcare/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "App Science Announces New AI Feature Within Its Insights Analytics Dashboard"
+    excerpt: "CNW/ -- (TSXV: SBIO; OTCQX: SABOF) (the \"Company\" or \"Sabio\"), a leading provider of connected TV (\"CTV\")/over-the-top (\"OTT\")"
+    publishedDateTime: 2023-08-16T11:30:00Z
+    webUrl: "https://www.newswire.ca/news-releases/app-science-announces-new-ai-feature-within-its-insights-analytics-dashboard-899108532.html"
+    type: article
+    provider:
+      name: Newswire
+      domain: newswire.ca
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1725822/Sabio_Holdings_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
   - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
     excerpt: "Klein served as the chief operating officer of the Department of Defense Joint Artificial Intelligence Center."
     publishedDateTime: 2023-08-15T08:50:00Z

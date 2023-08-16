@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/videos/international/how-robots-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/amp_videoshow/102743818.cms"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The World Isn’t Ready for the Next Decade of AI"
+    excerpt: "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state."
+    publishedDateTime: 2023-08-16T10:59:00Z
+    webUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 71
+    images:
+      - url: "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Boston Dynamics wants to change the world with its state-of-the-art robots"
     excerpt: "CEO Robert Playter dispels worries about the potential harm robots could inflict and thinks they will empower people instead of displacing them."
     publishedDateTime: 2023-08-15T16:51:00Z

@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Six Ways AI Could Revolutionize The Way You Do Business"
+    excerpt: "At Pink Moon Studio, we implemented new AI features to automate tedious tasks like player behavior tracking and ticket handling. AI-powered analytics helped us understand player p"
+    publishedDateTime: 2023-08-16T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/632dbbaa69b953ca837d2c1f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Revolutionizing Education: Harnessing the Power of AI for Studying"
     excerpt: "In today’s fast-paced digital era, the role of Artificial Intelligence (AI) has transcended beyond mere automation and into the realm of education. The integration of AI into the learning process is transforming how students approach their studies,"
     publishedDateTime: 2023-08-14T16:29:00Z
@@ -64,6 +80,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/08/AI-in-education.jpeg"
         width: 500
         height: 333
+        isCached: true
+  - title: "How the human brain is revolutionizing AI hardware"
+    excerpt: "GEMESYS is developing a revolutionary chip design that mimics the information-processing mechanisms of the human brain – now they are nominated for a"
+    publishedDateTime: 2023-08-16T11:50:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/236506"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 39
+    images:
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/db897644-a15c-42ce-ad84-4369b9ac29e2--r2ksm.jpg"
+        width: 400
+        height: 217
         isCached: true
 
 secured: "DdxFkydGWdzwWGel9REIyIqKfm0J2kWyHRan0g1/c1LtgdQqg7ZfRuo1jl+KKNqlev0oI1/wk/LFw36TISfqaxMGuNGM2BK+rwH223ihF1YQepeTXHYm/lPcEPwRcJULlmi/AZw4utxOCEwqVWhhqiXOp4Jmfyes0kv9ywRF6OkBSC8yTlAAQCf4z/gu7u0TgC1ttu8bS7olCFsOGgB5yJs+zoLHmntC2jDOp4NCaRb3GeYmCIhmblzK3nTzS3FbwzEVM41RzOpBsVqHc/GN09wAQKkg/f6xh+ukmBwWq4OCunQoxL9RMNCV5Wv6FHOLvTygsUMxjyCVxN5XQXTQicIKVTgdBWi9dvTUH10t0pc=;X+Gh/ZNoodKXTKUsdTus7g=="

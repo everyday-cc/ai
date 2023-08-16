@@ -34,6 +34,15 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Accern Recognized in Gartner 2023 Hype Cycle for Data Science, Machine Learning, and Emerging Technologies in Banking"
+    excerpt: "Accern has been specifically acknowledged for its capabilities in Adaptive Machine Learning (ML). \"We are honored and thrilled to be recognized by Gartner in these two critical areas,\" said Kumesh Aroomoogan, Co-founder and CEO of Accern. \"Our focus has ..."
+    publishedDateTime: 2023-08-16T10:40:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59865816-accern-recognized-in-gartner-2023-hype-cycle-for-data-science-machine-learning-and-emerging-technologies-in-banking-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "ydu1PfIe4+CICZSAv9E3qx/CkV6g+e4jGOeyjYNIQOTxO/ESic1jQFbSi4VP9GKpa+CCxa8KB0YSeilejYgkquHUt5KhyBlxrUfrXdBXsu2G1/Rnw2i1/4KS5tylOXUqq9tUtoTqgjZOCTHBqOpml9vudGm0Nh/2pQ739smipoKS6gqclr6Tdx2s31L9lFgAExsZzQ5d7bVFRICkuM28I10tiNs0o83p9WQz/r0FuXLmeuZF7ZGtZQV7B/P1gR/bUd81i6EMsLNECgs3ahvXa2l/DD6aAVSU+0EejR0Rs2G/GLwLvnqb+J2IyCSqsouhw8pPNcyefIKFAbLK0NI7FPmF6oel7lJvUKLf5F7TxLo=;JwQ6JU79G+GXRz2Y68c+Xw=="
 ---

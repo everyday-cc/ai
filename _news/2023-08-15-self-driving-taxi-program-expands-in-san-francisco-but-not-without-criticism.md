@@ -116,15 +116,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving taxis get the green light on 24/7 service in San Francisco"
-    excerpt: "Companies like Waymo and Cruise can now offer autonomous rides to anyone in San Francisco—but some city officials have concerns."
-    publishedDateTime: 2023-08-11T18:00:00Z
-    webUrl: "https://www.popsci.com/technology/san-francisco-robotaxis-public/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 4
   - title: "San Francisco's police, fire departments fret about push for more self-driving cars"
     excerpt: "Self-driving car firms want California regulators to allow for more vehicles on San Francisco streets. Police and fire departments cite many times when autonomous vehicles botched rescue operations."
     publishedDateTime: 2023-08-11T20:27:00Z

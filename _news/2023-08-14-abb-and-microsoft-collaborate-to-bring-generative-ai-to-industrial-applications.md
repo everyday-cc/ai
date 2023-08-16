@@ -73,20 +73,6 @@ related:
         width: 546
         height: 312
         isCached: true
-  - title: "Microsoft changes Services Agreement to add restrictions for AI offerings"
-    excerpt: "Microsoft has added rules and restrictions for its AI offerings in its Terms of Service, that will go into effect on September 30."
-    publishedDateTime: 2023-08-11T17:22:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-changes-services-agreement-to-add-restrictions-for-ai-offerings/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Microsoft's AI First Movers programme helps LawVu speed contract processes"
     excerpt: "Tauranga-based legal software developer LawVu is one beneficiary of a Microsoft programme that is ​helping developers deploy generative AI."
     publishedDateTime: 2023-08-15T23:57:00Z

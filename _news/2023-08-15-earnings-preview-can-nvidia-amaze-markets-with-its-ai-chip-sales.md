@@ -29,14 +29,14 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Is Down, But AI Chip Juggernaut Not Down For The Count"
-    excerpt: "Nvidia Corp. (NASDAQ: NVDA) skidded 4.72% in heavy turnover on August 9, ending the session below its 50-day moving average for the first time since early January. Shares were essentially flat in after-hours trading."
-    publishedDateTime: 2023-08-11T18:19:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/23/08/33747953/nvidia-is-down-but-ai-chip-juggernaut-not-down-for-the-count"
+  - title: "Nvidia unveils faster chip aimed at cementing AI dominance"
+    excerpt: "The Grace Hopper Superchip, a combination graphics chip and processor, will get a boost from a new type of memory, Nvidia said last week at the Siggraph conference in Los Angeles. The product relies on high-bandwidth memory 3, or HBM3e, which is able to access information at a blazing 5 terabytes per second."
+    publishedDateTime: 2023-08-14T12:59:00Z
+    webUrl: "https://www.seattletimes.com/business/nvidia-unveils-faster-chip-aimed-at-cementing-ai-dominance/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 34
 
 secured: "9AZo2WXHdsx38CEUfF8PIM1mBxa4U3L3RFSnFdNyW6odlOYW8km5kTJMEdS0mldtWADruZHDJRTI/b/9PV3gFfkPL08/f59vVK18T+7RnyVor0TDcO1pKN1ddgEanFhdFyXHBKXO1FH8KGunJPygE7xLZTMl/n5XA2kGfdG8cziRfr563ZkTHKmOuN22vwn1omvmU8hRNWr76AxjnA9quhaIkJRoZCZ552VrqCJlIl+Ixhq6+VfnrgKrR+iN4FLOaF7HEBfS9OZNsGRpsrNjyG9K9QNuk+TQje8quNuTk/MaXZf+VjnVC0A5hONgSdagtRg8STpbsezrWDP0Wh8g/sKo+tXnB/OWljH1lwwknmgYkrRfWJqIWMrHYzrh0fYkYCRnJo0hjWW1uhTvprbzPYkVXjj8XptmIm7NZ9gLigDTG2H6/+Z76PfOm3NhzYrQPKXGw872kCVBcID1vQc391+AMdpIZA/EbAk86XlUdwCAAzVlBRbZChGmkxTHcZgML22bFnB/wDPaeaEbyDBRPw==;MC3+xG+ulXdHRupKXwAMGw=="

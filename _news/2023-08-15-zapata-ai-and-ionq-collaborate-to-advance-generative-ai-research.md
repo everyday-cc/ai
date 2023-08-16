@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 862
         isCached: true
+  - title: "Companies Put AI to Work Outside the Cloud, Trimming Costs"
+    excerpt: "Advances in networking and algorithms are pushing computing-intensive apps beyond data centers and closer to the edge, CIOs say."
+    publishedDateTime: 2023-08-16T10:00:00Z
+    webUrl: "https://www.wsj.com/articles/companies-put-ai-to-work-outside-the-cloud-trimming-costs-453b649e"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-836202/social"
+        width: 1279
+        height: 640
+        isCached: true
 
 secured: "NYC9k6Meo7CHfif7Z1jyTnDT39Cq9AxPTuazDT/hFfuTRCHp324Y4MTPn4Eugq0wzQuA1eWAAmSuxxxuXpmvk72X00qhnQrkecpe1GS92ok6ZY3hpasC2NIoAjruzWUdcRcYUo6D1A6+FVwdfmcp9q3GD1ALESuJ4f64c3L/o4V+PXLYvo8hraQZ0rnkM1aTh/6m9IyH+F8lqZPrrWY90alOO3fMJb5FeVuImSuAN0oxnVzqDB8H4hF4LoetEEctinOe7PPQJYUu1+YFeUVp5HVSpYSv737Kb4/UIl7VfGRmKpe00kadaqPsmQILi+xGEQfYsIp1QsSi3oMuQtmJtQpAT4aOwBn8U2+nP/MDRMg=;hOuVac9FOnh4ZkStfCySFw=="
 ---

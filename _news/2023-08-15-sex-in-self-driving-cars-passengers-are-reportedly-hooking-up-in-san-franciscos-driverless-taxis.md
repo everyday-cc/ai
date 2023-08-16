@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp"
 type: article
 quality: 75
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -112,15 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving taxis get the green light on 24/7 service in San Francisco"
-    excerpt: "Companies like Waymo and Cruise can now offer autonomous rides to anyone in San Francisco—but some city officials have concerns."
-    publishedDateTime: 2023-08-11T18:00:00Z
-    webUrl: "https://www.popsci.com/technology/san-francisco-robotaxis-public/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 4
   - title: "Self-driving taxi program expands in San Francisco, but not without criticism"
     excerpt: "Self-driving taxis will soon be available for paid trips 24 hours a day in San Francisco after California regulators approved permits for two autonomous car companies, Waymo and Cruise last week. Johana Bhuiyan,"
     publishedDateTime: 2023-08-14T19:54:00Z

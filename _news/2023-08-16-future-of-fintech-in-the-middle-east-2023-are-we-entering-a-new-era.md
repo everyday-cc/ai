@@ -117,15 +117,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Fintechs experiment with generative AI, but development is slow going"
-    excerpt: "The firms are increasingly seeking to integrate generative artificial intelligence into their products, and banks are potentially interested customers. But such efforts are costly, the risks are high,"
-    publishedDateTime: 2023-08-11T18:48:00Z
-    webUrl: "https://www.americanbanker.com/news/fintechs-experiment-with-generative-ai-but-development-is-slow-going"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 19
   - title: "AI’s Impact on Fintech: Do the Benefits Outweigh the Risks?"
     excerpt: "Firms need to consider data privacy and security, the opacity of AI decision making, and the risk of model degradation."
     publishedDateTime: 2023-08-15T04:30:00Z

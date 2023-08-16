@@ -7,8 +7,8 @@ originalUrl: "https://www.insurancetimes.co.uk/news/majority-of-uk-insurance-exe
 webUrl: "https://www.insurancetimes.co.uk/news/majority-of-uk-insurance-executives-investing-in-ai-and-machine-learning/1445268.article"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Insurance Times
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "The insurance implications of AI are heating up - reviewing the NAIC's Model Bulletin for the use of algorithms and AI"
+    excerpt: "The NAIC's highly anticipated Model Bulletin for the use of algorithms, predicative models and AI came out in July, but what are the implications? Though the bulletin is still in draft form, those with a stake in the insurance industry should be prepared."
+    publishedDateTime: 2023-08-16T09:28:00Z
+    webUrl: "https://diginomica.com/insurance-implications-ai-are-heating-reviewing-naics-model-bulletin-use-algorithms-and-ai"
+    ampWebUrl: "https://diginomica.com/insurance-implications-ai-are-heating-reviewing-naics-model-bulletin-use-algorithms-and-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/insurance-implications-ai-are-heating-reviewing-naics-model-bulletin-use-algorithms-and-ai?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 35
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2018-03/finger-pointing.jpg"
+        width: 1265
+        height: 872
+        isCached: true
   - title: "Investing in Artificial Intelligence (AI)"
     excerpt: "Artificial intelligence (AI) is still developing—along with related regulations and business uses—but it is likely to become ubiquitous. It won't be feasible to avoid exposure. Much like it's not practical to avoid being invested in \"the internet\" these days with companies across the spectrum of"
     publishedDateTime: 2023-08-15T07:28:00Z

@@ -1,41 +1,24 @@
 ---
 category: news
-title: "Twin Cities Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Strategic Education, Inc. in the Twin"
-publishedDateTime: 2023-08-14T18:53:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/g33841844/twin-cities-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/g33841844/twin-cities-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications"
-ampWebUrl: "https://www.benzinga.com/amp/content/33841844"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33841844"
+title: "Twin Cities Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
+excerpt: "TWIN CITIES, Minn., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Strategic Education, Inc. in the Twin Cities. Applications for the no-cost bootcamp are closing soon!"
+publishedDateTime: 2023-08-14T19:15:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/14/9864132.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/14/9864132.htm"
 type: article
-quality: 37
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
 related:
-  - title: "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-    excerpt: "MIAMI, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Miami Dade College in Miami. Applications for the no-cost bootcamp are closing soon!"
-    publishedDateTime: 2023-08-11T18:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon-1032547651"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "MIAMI, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Miami Dade College (Wolfson Campus) in Miami. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-14T22:00:00Z
@@ -93,15 +76,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Madison Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-    excerpt: "MADISON, Wis., Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Fetch in Madison. Applications for the no-cost bootcamp are closing soon!"
-    publishedDateTime: 2023-08-11T18:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547645"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Chicago Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Rush in Chicago. Applications for the no-cost bootcamp"
     publishedDateTime: 2023-08-14T14:29:00Z
@@ -143,15 +117,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-    excerpt: "ANCHORAGE, Alaska, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The Odom Corporation in Anchorage. Applications for the no-cost bootcamp are closing soon!"
-    publishedDateTime: 2023-08-11T18:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547649"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
   - title: "St. Louis Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "ST. LOUIS, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital consultancy, taking place in St. Louis. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-14T16:51:00Z
@@ -161,15 +126,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "Richardson Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-    excerpt: "RICHARDSON, Texas, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The University of Texas at Dallas in Richardson. Applications for the no-cost bootcamp are closing soon!"
-    publishedDateTime: 2023-08-11T18:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/richardson-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547646"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
   - title: "White Marsh Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "WHITE MARSH, Md., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Strategic Education, Inc. in White Marsh. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-14T19:01:00Z
@@ -198,6 +154,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "TXyMU9ERXhLFGmonLI4K+zWJ7V6Fw9uisrGMTqvhN2bc4xXUc7W2yfzxmTahB7Orrqjj5IeSeLUwxvEJcClQnrgkt+T5oMNCNhxGEogNILStCeArv7CV3AUAA/9RGiafxRf1l5u9FaOCspSCD2PKm97Du/EPSmNjmBBfAIJq5q874e5SgVr5gKa+vJKtQFVTi0X1FeQar0M/Ov92X8IXy+AFxmlg7GuilBphnZYycbmCzXVCaA6uBvYDknrbKNSgj+hkctuMTkBgt5rSbvgJM57ob5dUHGgQ38aO92YPR8otld2Hk6+T+YL/HimNIwdRs36SwDPzEEYPWAlZyv2lSc5mJ48Y0ZWk49jfMw127po=;7q85rVMXBMB2olZAg8Va7w=="
+secured: "aWkqJHm6S2SZ/hUhHt2fJWOoOziOewlln/3WB9fLtQ4KI9uD/2IhV4y63V7zEU/68Op7gbYYhmdfAvjNo5ngHVkB0m1hvurBMkwSPj5K+CtHZmj2YwT6uTJI7R7IYQiPIsMk7w1f8c6h0bvY8I9sqIEPcGa+HywmspIKmnPwlf9oIG4rNDNTGWJgwgHHdUMb6oWdMEFpRNQSsPwNZGYpT6OSOOsbYmFg/xiQmWYIfAIGIDDbtoWtMNsOJMb7aY+PfUHlxYrhMQbv2Dv3iFotjZnRP9hbBQ0yR9V+CZE5Wo+eLQvur2qJfEOxW+R8Fc2V4fqDuKpalWfXLX/dik+EjqDTcw+dcw0PSYQHecMttic=;LQ7kg+qCYtJa0hQc6aZxWw=="
 ---
 
