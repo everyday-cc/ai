@@ -22,15 +22,24 @@ topics:
   - AI
 
 related:
-  - title: "WiMi Developed an Data Collection System Based on AI Data Modeling Algorithm"
-    excerpt: "Data visualization: data analysis results need to be displayed to the user in the form of visualization. This module displays the data in the form of intuitive charts, heat maps, etc. to help users better understand the results of data analysis."
-    publishedDateTime: 2023-08-11T12:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-developed-an-data-collection-system-based-on-ai-data-modeling-algorithm-1032546383"
+  - title: "ByteDance AI researchers say OpenAI now tries to hide that ChatGPT was trained on J.K. Rowling's copyrighted Harry Potter books"
+    excerpt: "A new research paper laid out ways in which AI developers should try and avoid showing LLMs have been trained on copyrighted material."
+    publishedDateTime: 2023-08-15T19:06:00Z
+    webUrl: "https://www.businessinsider.com/openais-latest-chatgpt-version-hides-training-on-copyrighted-material-2023-8"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 46
+    quality: 21
+  - title: "OpenAI's GPT-4 Shakes Up Content Moderation Landscape: Propels Facebook, Instagram And X To Embrace AI Solutions"
+    excerpt: "OpenAI's unveils usage of GPT-4 for content moderation prompting Facebook, Instagram, and Elon Musk's X to reconsider their approaches."
+    publishedDateTime: 2023-08-16T06:52:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/33870852/openais-gpt-4-shakes-up-content-moderation-landscape-propels-facebook-instagram-and-x-to-embrace-ai"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "UFKfMlJZrxP3PTfpmXuG1yhKAY8tC/7xaseWLT2jBHC68vs730aDzT2cOCkmj//WNBGzXEIWU/I8LzZVfBjpTCHeqxxvIEXClDeJ2+EPUBI2hqH403fodapKvcCr/f590RJ2NQOCgPeLdQmbw8jc+9NWsIdLpmlVU8QzErtUQwQqsY7V2OPeOdAN21TbDUhpDa8SbP7Ml8ltie7jkS73HkRjnW6rSKnCb7rpf8Acsc/vjSctXkxnvPegwxlPAxc25dH8AQeV/yzXS7njRVs/t1KdYzK3/daEbeqdTSwZwUS0C5VwR9Z9P3Z2cLBGL0M0UJi/m00PNlOEr890QjIsF2b4WAECeyZ9WmZWMd8N79WAcPT9E7oDI+nqzR88iosappo8hwvS70o7cGEGRuRCHi8kkIxrBWnyGYWixE002TTqdxsrbVXKxQdpzek9Td7OirFQs7q9Mgeo3s4csk2uBdd8WGITr7GVIdThXPD8ZM7D5qNtbWRy10XHdeAjzSkt8SGY1demolAneR34bFDfbQ==;CPSKkbBo+sA7xWmLTWM89w=="
 ---

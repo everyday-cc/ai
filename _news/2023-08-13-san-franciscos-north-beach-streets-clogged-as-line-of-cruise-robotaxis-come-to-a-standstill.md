@@ -7,7 +7,7 @@ originalUrl: "https://www.havasunews.com/nation/san-francisco-s-north-beach-stre
 webUrl: "https://www.havasunews.com/nation/san-francisco-s-north-beach-streets-clogged-as-line-of-cruise-robotaxis-come-to-a/article_76d6ff14-398e-11ee-9d84-67a94dcfb030.html"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotaxi expansion OK'd for San Francisco despite public safety concerns"
-    excerpt: "California's approval signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality."
-    publishedDateTime: 2023-08-11T15:09:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2023/08/11/robotaxi-expansion-okd-for-san-francisco-despite-safety-concerns/70574006007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 23
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/11/PDTN/70574202007-ap-23221627904423.jpg?auto=webp&crop=3120,1761,x0,y82&format=pjpg&width=1200"
-        width: 1200
-        height: 677
-        isCached: true
   - title: "San Francisco's North Beach streets clogged as long line of Cruise robotaxis come to a standstill"
     excerpt: "Just one day after state officials approved massive robotaxi expansion in San Francisco, a long line of the driverless cars come to a standstill and clog traffic in North Beach neighborhood."
     publishedDateTime: 2023-08-12T23:20:00Z

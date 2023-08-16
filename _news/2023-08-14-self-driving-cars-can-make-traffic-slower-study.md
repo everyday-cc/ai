@@ -66,13 +66,18 @@ related:
         isCached: true
   - title: "Self-driving cars could make traffic slower: Research"
     excerpt: "\"There is a lot of research showing that automated vehicles can improve safety. But our research here -- which relies on computational modeling -- suggests that if we want to also improve travel time,"
-    publishedDateTime: 2023-08-16T02:41:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20230815/4108947.html"
+    publishedDateTime: 2023-08-16T08:01:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/self-driving-cars-could-make-traffic-slower-research/102766027"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
+      name: ET Auto
+      domain: indiatimes.com
+    quality: 24
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102766027,imgsize-66726,width-1200,height=765,overlay-etauto/passenger-vehicle/self-driving-cars-could-make-traffic-slower-research.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "mMU7/vhwOd/b8iVPsoUZT3Lm9SSi/5LPv9aj7Aj31vgbtsnsbfkeLukK29+SOd7ZyQVsvWoZBD6aeBwcbk9tLFCUrasixglu6D3YKgjgONBNJfeARhrqz/bl9UPJdb384Nn5UM2V7L3w3SmGc+NdD9q7Hpy35jW7hclIm+7QtEvsSZ1Lt9FUuBqJTIC939MTN0XMKLEgUDRus5NW2egpG98N6aRPZUwddpZ4cgG83rLaGBpaj4Sg4UmjqN8ED5vGQiF0ilsFULQe5Il0zNooRqbLND9sllWsRIX/wim8h8T58+c7+AjNd8DDLCJ2ENZCMj2MqS1Yt8NFPsS1zi0/yenLcURFMCCdunMICJoxGhRXPf9JcJUuxrMir7IvkCMXf3CAWRJ79BfgUIgvd6I55oNto+yXRDUZffbBRe2h2FD+zEI6556Yya/Iv2hvhHCbe2fbWYUFSGLxXnQI5Jm8ugdEEnyCUg3JMlY7/iBC/nRXiLB6gUOyWpZtTJSUnw1gRTxDx6lI9/Um89V+ZYQZ1g==;UrITMTO3pllqzyYYwwNNOg=="
 ---

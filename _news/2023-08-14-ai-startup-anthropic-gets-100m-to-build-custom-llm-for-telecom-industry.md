@@ -38,7 +38,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2023/04/Anthropic_logo_art.png?w=1080"
         width: 1080

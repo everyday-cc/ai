@@ -34,15 +34,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "AI and the Productivity Imperative"
-    excerpt: "The world is struggling with labor shortages, inflation, and a supply chain that cannot keep up with demand. AI can help overcome these productivity challenges, with LLMs in particularly allowing for productivity boosts without replacing human workers,"
-    publishedDateTime: 2023-08-11T12:37:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/ai-and-the-productivity-imperative"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 19
 
 secured: "ecvzIg3aBdj1W6ShM0sWx9CypaXHZPaNCsS1denYZ6gPJ+RPrwnFneanSkhXQyrKuv2NraxVR+VHU3hkx1j5q5cWG5dRnN30HRuIEuXqRmFH2wYNqiyeg0ujA/GMVuHmm4ZuZqG1ns1gK3pjChkRK/CE9DawAkRIHGY6Dw48BuL0hWoRvXAeWOKX2JTfFigHFtb933XK4GnVAeDl0ZkqhD80eshPzlgIfGY/u/vjloNUY0A0gWhJbaxxIHJLmZ6Y1R9+RXRMlOMDMOqOAbGubFjIxBLHhkng7PE58m4aayjSwNOWUz1XAcihzvEzCEPEJ9P4NsXYbnBtyFRNwnDpBLBsTRrSD4ytFFu4C4orEno=;b0O947bRVqjw5olf7TG5mw=="
 ---

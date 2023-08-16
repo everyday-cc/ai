@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Notch on iMac? Apple patent reveals plans for Face ID on MacBooks & desktops"
+    excerpt: "First introduced on the MacBooks back in 2016, Touch ID has remained the staple form of authentication on those macOS-powered devices ever since. It’s convenient, it’s fast, and nothing beats the technology in terms of security. However, a new patent hints that Apple could be working on an alternative to the touch-powered authentication method."
+    publishedDateTime: 2023-08-16T06:58:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-patent-face-id-macbook-imac-8894771/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-patent-face-id-macbook-imac-8894771/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/apple-patent-face-id-macbook-imac-8894771/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 41
+    images:
+      - url: "https://images.indianexpress.com/2023/08/apple-macbook-face-id-featured.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Macs with Face ID could be closer than ever thanks to this new Apple patent"
     excerpt: "The lack of Face ID on the Mac is something that continues to surprise, especially after Apple introduced the notch on the MacBook Pro and MacBook Air. As a biometric security feature, it's been huge on the iPhone and iPad Pro. And it could finally be on the way to the Mac."
     publishedDateTime: 2023-08-15T15:45:00Z

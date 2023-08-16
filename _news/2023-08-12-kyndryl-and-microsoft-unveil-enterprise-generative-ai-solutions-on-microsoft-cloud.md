@@ -118,6 +118,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 47
+  - title: "ABB and Microsoft bring generative AI to industrial applications"
+    excerpt: "Automation and electrification specialists ABB is tapping into Microsoft Azure OpenAI Service to bring Generative AI to industrial"
+    publishedDateTime: 2023-08-16T06:47:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/662/241021.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 34
   - title: "Doctors use Artificial Intelligence software to plan for the future"
     excerpt: "About 30% of U.S. doctors are approaching retirement age, but only 12% are choosing to retire. Why? In a financial environment struggling with inflation, advance preparation for retirement is necessary for all physicians seeking more comfortable golden years."
     publishedDateTime: 2023-08-15T15:46:00Z

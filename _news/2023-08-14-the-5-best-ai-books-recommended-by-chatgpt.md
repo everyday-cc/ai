@@ -73,15 +73,6 @@ related:
         width: 1188
         height: 669
         isCached: true
-  - title: "The ChatGPT Code Interpreter: Why It Matters for Conversational AI"
-    excerpt: "Delve into the fascinating world of AI-driven conversations with the ChatGPT Code Interpreter. Discover how this innovative technology bridges the gap between human language and machine understanding,"
-    publishedDateTime: 2023-08-11T12:41:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2551230-the-chatgpt-code-interpreter-why-it-matters-for-conversational-ai"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 19
   - title: "Schools navigate regulation of artificial intelligence, ChatGPT as students return to classrooms"
     excerpt: "Artificial intelligence is becoming a major conversation in the classroom, especially a popular software called ChatGPT. ABC7 asked ChatGPT to write a book report on \"Pride and Prejudice.\" In just seconds, it created a report that would probably satisfy ..."
     publishedDateTime: 2023-08-14T12:52:00Z

@@ -41,36 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "California Okays Driverless Taxi Expansion for San Francisco"
-    excerpt: "The state's green light, on a 3-1 vote by the California Public Utilities Commission, signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality."
-    publishedDateTime: 2023-08-11T16:09:00Z
-    webUrl: "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco"
-    ampWebUrl: "https://www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/california-okays-driverless-taxi-expansion-for-san-francisco?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/2a5480d/2147483647/strip/true/crop/662x348+0+0/resize/662x348!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbb%2Fd0%2F80318d734f7fa9a89f9001e9f5c0%2Fzscaler-public-sector-logo-r1-rgb-31aug21-vertical-pms-blue-002.png"
-        width: 662
-        height: 348
-        isCached: true
-  - title: "Despite Public Safety Concerns, CA Driverless Taxis Get Green Light"
-    excerpt: "\"They're not ready for prime time,\" San Francisco Fire Chief Jeanine Nicholson said recently, adding that they have interfered with 55 recent incidents."
-    publishedDateTime: 2023-08-11T14:10:00Z
-    webUrl: "https://www.firehouse.com/operations-training/video/53068921/despite-public-safety-concerns-ca-driverless-taxis-get-green-light"
-    type: article
-    provider:
-      name: Firehouse
-      domain: firehouse.com
-    quality: 39
-    images:
-      - url: "https://img.firehouse.com/files/base/cygnus/fhc/image/2023/08/maxresdefault.64d63c06c7728.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tourists in fast lane with driverless transport"
     excerpt: "Driverless vehicles have become tourist attractions in the city, providing smart and convenient rides to tourists. Autonomous vehicles carrying people around Shanghai Haichang Ocean Park in the Pudong New Area started trial runs on Friday. Autonomous vending vehicles have been put into use on a trial basis at the same time."
     publishedDateTime: 2023-08-12T10:54:00Z

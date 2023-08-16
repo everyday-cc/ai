@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotaxi expansion OK'd for San Francisco despite public safety concerns"
-    excerpt: "California's approval signals a historic turning point for the robotaxi business as it evolves from fascinating experiment to commercial reality."
-    publishedDateTime: 2023-08-11T15:09:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2023/08/11/robotaxi-expansion-okd-for-san-francisco-despite-safety-concerns/70574006007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 23
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/11/PDTN/70574202007-ap-23221627904423.jpg?auto=webp&crop=3120,1761,x0,y82&format=pjpg&width=1200"
-        width: 1200
-        height: 677
-        isCached: true
   - title: "San Francisco’s North Beach streets clogged as line of Cruise robotaxis come to a standstill"
     excerpt: "One day after California green-lighted a massive expansion of driverless robotaxis in San Francisco, the implications became clear."
     publishedDateTime: 2023-08-13T04:04:00Z

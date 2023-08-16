@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106864884/Wcm-Q-Discusses-Legal-Ethical-Issues
 webUrl: "https://menafn.com/1106864884/Wcm-Q-Discusses-Legal-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
 type: article
 quality: 71
-heat: 91
+heat: 83
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://www.eweek.com/wp-content/uploads/2023/08/eSPEAKS-thumbnail.png"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Americans' level of concern about healthcare AI, by generation"
-    excerpt: "Older Americans are more concerned about AI in healthcare than younger generations, according to new survey results. 77% of Baby Boomers and 70% of Gen Xers are concerned."
-    publishedDateTime: 2023-08-11T15:12:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/americans-level-of-concern-about-healthcare-ai-by-generation.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "qu1KIzxyplGuXdfeaA8v8wAazG+O827OnnYrWqGsadoUHgdUb40NXsAmfBvdmtPRuKGBafm/EeaPv+AQyJCUmedv9plkAwPSVweRxw4Iii0of8iD6gJhPujfJWvZsgBs5ndOvAe+t6yaEL2LO1CWwJ3cYEMIv61pg9bZQnWJLmuJ8Io4EVmcSxPcjxrlBUbd5tpXFnZvoJWhDZQ771IcELS4Zi1BdRzipvlilcH8JIxt0TfsLlUlETzaBEDhYceeekBUDy8KXfSK4lFayq6k4xRyWGXMb0OUylN/IPNFxsRMkmTdlO4cL8F7iIIunfBBJOqK/bPfN9Ha0NjVQ6X9MO8TdNipStyyJ8K8ZyZRPk4=;u5ueFnYonyfznEfJZIou7A=="

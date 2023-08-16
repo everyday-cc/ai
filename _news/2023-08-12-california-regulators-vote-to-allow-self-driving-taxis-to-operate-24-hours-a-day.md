@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "California firefighters use AI to spot wildfires"
-    excerpt: "California firefighters are using artificial intelligence to help spot wildfires, feeding video from more than 1,000 cameras strategically placed across the state into a machine that alerts first responders when to mobilize. Alex Cohen has more."
-    publishedDateTime: 2023-08-11T11:36:00Z
-    webUrl: "https://www.reuters.com/video/watch/idsA$n?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/64d611b0e4b068bf74a564d1-1691750835338?location=LANDSCAPE"
-        width: 960
-        height: 540
-        isCached: true
   - title: "California deploys AI to detect wildfires before they start spreading"
     excerpt: "AI and climate change represent two ways humans may ravage life as we know it on Earth, but the former can also help with the consequences of the latter."
     publishedDateTime: 2023-08-11T20:18:00Z

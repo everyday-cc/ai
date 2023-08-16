@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/videos/international/how-robots-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/amp_videoshow/102743818.cms"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.strategy-business.com/media/image/44771186b_thumb5_690x400.jpg"
         width: 690
         height: 400
+        isCached: true
+  - title: "Many experts believe AI chatbots like ChatGPT are here to stay. So how can they fit into the academic world? We looked for answers."
+    excerpt: "With the start of the school year just around the corner, educators acknowledge that programs like ChatGPT are already a presence on the academic landscape."
+    publishedDateTime: 2023-08-12T18:03:00Z
+    webUrl: "https://kstp.com/kstp-news/top-news/many-experts-believe-ai-chatbots-like-chatgpt-are-here-to-stay-so-how-can-they-fit-into-the-academic-world-we-looked-for-answers/"
+    type: article
+    provider:
+      name: KSTP-TV
+      domain: kstp.com
+    quality: 7
+    images:
+      - url: "https://kstp.com/wp-content/uploads/2023/02/CHATGPT-EXPLAINER_PKG_00.01.04.52.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "c9/QVfd1usqMPtZUL4W5ox5HaV8ki7rYLLrfF2b4SkerANtcSwrGCEq67y7G4Z5fH5ITvh1yzoZVIseJEa2jzyz0wnsnZG87Y344aB/zmzlYgcyMrIzHXR4oOzDMzE/clwNF59+KrE4gFFIda8IqseNxFvASn8A5i8+b+d9IS42hYCE2QNQZ64ri8R/pF2dshuW9s7fwoFgqgJbUFKJJxT6kAzNltwMPNwG6PzdLwIZPWSwiKpTx19ThQWvbcUQ3Qooyqs/vzhmisQ8zfrgzR3a4ZyR0lDg7I/H6TFUztfds44VCk77K3HnNDWtq03u4ak6FTtpzibviZ1x0jxJzyspln2UiIRhExGc5u+9Wq7A=;PnvZTY3QU9zhD/aK76GRAQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://tdwi.org/articles/2023/08/15/adv-all-three-things-leaders-
 webUrl: "https://tdwi.org/articles/2023/08/15/adv-all-three-things-leaders-must-consider-for-the-coming-age-of-artificial-general-intelligence.aspx"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 976
     height: 400
     isCached: true
+
+related:
+  - title: "How Machine Learning is accelerating the commercialization of Robotics and Autonomous Systems"
+    excerpt: "Robotics is no more a sci-fi concept. Across industries, we are witnessing the growth of connected systems that can process information and act without necessarily calling for a human prompt. At the heart of this is machine learning,"
+    publishedDateTime: 2023-08-16T06:27:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/how-machine-learning-is-accelerating-the-commercialization-of-robotics-and-autonomous-systems/102762747"
+    type: article
+    provider:
+      name: ET Auto
+      domain: indiatimes.com
+    quality: 40
 
 secured: "bqxHcNPnPrEjrvDcYS2nlQ2ZgWgNSVtD7yiwUD2AksrbSTvQKmWoLDRX8jqAbnNwN5DLp4W0QLd5htdVCCA/LVcum7ZAM4Go7x5H91ZgSnFrY2rkYDCnDQXnUbogUq8o0bouT9VCelncnuudD8nwGBcIasl8kvNah/g3AcFrkDe5JkYKbB/xsBVSTCjNpYnXWHt9ibBiV37hMU/mnxTEerp8ySaGPCvLnJjnFrNbEuDRajbqZxpIpevePV86yuDjXYpxw1S4nn238E0v+5nJdn7uwid26KlChL0w+2SDTQH/7KeP5+iiG4Mbr7Q4/M9B0mjglG6nsND7GUHqhgRXPJtEwth5b30EQnobPD4fSoFLwsltRqwLZDEu4JQ/yAiBEjJIIQbBAVDt7tEGyQXM/40noNVj9mswkGG3uL5DBmc9UQkjIQTOGoOwdpEVALZLW29H3hOBhkrNeHKoot4mimsw63WiQGOta+ndRtbF+N9AFHDFm0QCqlWDjKVgfRivtIe5p4NhcKPOwSHQ0MmXdw==;nPM4wU30uA0VLStjVEs86Q=="
 ---

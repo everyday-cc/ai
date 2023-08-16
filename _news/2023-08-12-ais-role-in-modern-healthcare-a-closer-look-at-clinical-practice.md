@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33765664"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33765664"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 650
         height: 364
         isCached: true
+  - title: "Demystifying AI in healthcare in India"
+    excerpt: "More and more innovations are coming up in AI-based healthcare services and may soon convert India's dream of affordable universal healthcare into reality"
+    publishedDateTime: 2023-08-16T07:29:00Z
+    webUrl: "https://www.forbesindia.com/article/isbinsight/demystifying-ai-in-healthcare-in-india/87547/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 36
 
 secured: "+Dy+oXhRajmk9Fz75upiAL9vIXT6nPKrK+n+3Pz4bj65Iuxbhh9n8/GHUhlCmjolDJZs1lxblfItYpnXX0t3LHS9AKwB63FQWC3OY406o9PEDGqnrJ5P68Xu9Og6mUZgwvx+QmiTrOahZgo5VHpAzuo0+M7OeSLh06HqeFnM3e3imkycaF2B8TF+E43ZRBoA8IgvJ9oRW59frnwPi2Xsj2ouu0TzHMmqf3YbY057/MUqtXWcHu9J0eHY01pnTYtNScdTShcHRZzfecurkG7m8V8GE7H5OFfGW1fXhrzpVkJD6OGaEsY1w9yFJR5Zn0XrsP8TU9enU/azk81tvs7IjThhOTS7u3KOAOMpezSMpdE=;dFgtb7yj/WQclYGLHMi8rw=="
 ---

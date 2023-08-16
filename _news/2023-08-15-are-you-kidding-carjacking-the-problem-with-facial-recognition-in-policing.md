@@ -92,20 +92,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Lawsuit filed after facial recognition tech causes wrongful arrest of pregnant woman"
-    excerpt: "Flawed facial recognition technology caused the wrongful arrest of a pregnant woman in Detroit, the latest in a string of false arrests blamed on the technology, according to a federal lawsuit ..."
-    publishedDateTime: 2023-08-11T14:14:00Z
-    webUrl: "https://www.indystar.com/story/news/nation/2023/08/08/facial-recognition-technology-wrongful-arrest-pregnant-woman/70551497007/"
-    type: article
-    provider:
-      name: The Indianapolis Star
-      domain: indystar.com
-    quality: 32
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/08/07/PDTF/af0fbd16-6503-499c-9768-a5ed2475395c-Detroit_Police_surveillance_Project_Greenlight.jpg?auto=webp&crop=2399,1350,x0,y356&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Detroit police changing facial-recognition policy after pregnant woman says she was wrongly charged"
     excerpt: "The Detroit police chief says he’s setting new policies on the use of facial-recognition technology DETROIT -- The Detroit police chief said he's setting new policies on the use of facial ..."
     publishedDateTime: 2023-08-12T21:04:00Z

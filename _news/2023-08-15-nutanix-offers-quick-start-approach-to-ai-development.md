@@ -19,20 +19,17 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Nutanix simplifies adoption of Generative AI with new Nutanix GPT-in-a-Box solution"
-    excerpt: "Nutanix, a leader in hybrid multicloud computing, today announced the Nutanix GPT-in-a-Box solution for customers looking to jump-start their artificial intelligence (AI) and machine learning (ML) innovation,"
-    publishedDateTime: 2023-08-15T23:25:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/nutanix-simplifies-adoption-of-generative-ai-with-new-nutanix-gpt-in-a-box-solution.html"
+  - title: "Nutanix simplifies adoption of generative AI with new Nutanix GPT-in-a-Box solution"
+    excerpt: "Nutanix, a pioneer in hybrid multi-cloud computing announced the Nutanix GPT-in-a-Box™ solution for customers looking to jump-start their artificial intelligence (AI) and machine learning"
+    publishedDateTime: 2023-08-16T09:40:00Z
+    webUrl: "https://www.sourcesecurity.com/news/nutanix-simplifies-adoption-generative-ai-nutanix-co-14411-ga-co-1564579956-ga-co-1565946412-ga-co-1568897613-ga-co-1570707227-ga-co-1674033489-ga-co-1692173033-ga-co-1692173215-ga-npr.1692174407.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/nutanix-simplifies-adoption-generative-ai-nutanix-co-14411-ga-co-1564579956-ga-co-1565946412-ga-co-1568897613-ga-co-1570707227-ga-co-1674033489-ga-co-1692173033-ga-co-1692173215-ga-npr.1692174407.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/nutanix-simplifies-adoption-generative-ai-nutanix-co-14411-ga-co-1564579956-ga-co-1565946412-ga-co-1568897613-ga-co-1570707227-ga-co-1674033489-ga-co-1692173033-ga-co-1692173215-ga-npr.1692174407.html"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
+      name: SourceSecurity
+      domain: sourcesecurity.com
     quality: 33
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/793f53f1f63688fe74fd3123fa489ce6_M.jpg"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Nutanix targets Generative AI newcomer market with Nutanix GPT-in-a-Box"
     excerpt: "The new offering adds an Opinionated AI stack and related services to Nutanix’s infrastructure and storage stacks, and the company believes it will find a good reception from the SMB to the"
     publishedDateTime: 2023-08-15T13:00:00Z

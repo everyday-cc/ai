@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Artificial Intelligence: A Hot Topic on Campus"
+    excerpt: "Offices, programs and initiatives at the U of A tackle concerns as well as the pros and cons surrounding the use of artificial intelligence in the classroom and what it means to education."
+    publishedDateTime: 2023-08-16T05:46:00Z
+    webUrl: "https://news.uark.edu/articles/64909/artificial-intelligence-a-hot-topic-on-campus"
+    type: article
+    provider:
+      name: University of Arkansas
+      domain: uark.edu
+    quality: 19
 
 secured: "m4Gio7vTlRmKT4pwg3/CB7dDm+a/iIs0tBbJe0zZw8+SkaGX4AOciQsncfqybFHHaSSJ8HICyAMXyY3oVC+VnvD3erNrl88ErLsqvZt2+2/LmUf7Em5G/wBTdJB7wZ/5HF3NQGjQeQKEMzGUK+FzxEmGsjyVZNjS4irRC386q4VQzWp5b+PIU/IrVKBFOhTaxOnQY7CwK7ITuDMYwVc7KWDOJX18eTIStDMpRh8tPBi/TJfA3jejN7TsRLT0rkaofYDFkyYMZxdOQPrg1kkDq3s4p6nir/2WaBhvggvF/jgWYx1G61aDomdURM6mrr5xv3+pEFFIWU7d0mqtTMBnXSNffzkLOUPeiGMCWwdjY4w=;uPjGs6eMBHA/3gAq7rz7nQ=="
 ---

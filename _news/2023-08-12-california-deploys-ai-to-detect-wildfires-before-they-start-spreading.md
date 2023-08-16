@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/california-deploys-ai-to-detect-wildfires
 webUrl: "https://www.engadget.com/california-deploys-ai-to-detect-wildfires-before-they-start-spreading-194535845.html"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Engadget
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "California firefighters use AI to spot wildfires"
-    excerpt: "California firefighters are using artificial intelligence to help spot wildfires, feeding video from more than 1,000 cameras strategically placed across the state into a machine that alerts first responders when to mobilize. Alex Cohen has more."
-    publishedDateTime: 2023-08-11T11:36:00Z
-    webUrl: "https://www.reuters.com/video/watch/idsA$n?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/64d611b0e4b068bf74a564d1-1691750835338?location=LANDSCAPE"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Artificial Intelligence Is Helping California Prevent Wildfires"
     excerpt: "AI technology is being used to protect Californians from wildfires. The AI has already shaved precious minutes off response times, and has demonstrated it is learning how to reduce false"
     publishedDateTime: 2023-08-11T22:29:00Z

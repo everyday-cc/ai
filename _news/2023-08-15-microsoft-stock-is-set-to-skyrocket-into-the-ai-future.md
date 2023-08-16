@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/amp/"
 type: article
 quality: 106
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -115,6 +115,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 47
+  - title: "ABB and Microsoft bring generative AI to industrial applications"
+    excerpt: "Automation and electrification specialists ABB is tapping into Microsoft Azure OpenAI Service to bring Generative AI to industrial"
+    publishedDateTime: 2023-08-16T06:47:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/662/241021.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 34
   - title: "Kyndryl and Microsoft Unveil Enterprise Generative AI Solutions on Microsoft Cloud"
     excerpt: "Bangalore (Karnataka) [India], August 11: Kyndryl (NYSE: KD), the worlds largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
     publishedDateTime: 2023-08-12T03:14:00Z

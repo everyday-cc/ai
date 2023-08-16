@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704498/zenhub-previews-ai-for-sof
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704498/zenhub-previews-ai-for-software-project-management.amp.html"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 514
     isCached: true
+
+related:
+  - title: "AI startup Grit raises $7 mln to automate software maintenance"
+    excerpt: "Grit provides an AI-powered product that automates software maintenance, traditionally a manual and frustrating task for software engineering teams, particularly for large enterprises with antiquated code bases."
+    publishedDateTime: 2023-08-16T04:13:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-startup-grit-raises-7-mln-to-automate-software-maintenance/articleshow/102759020.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
 
 secured: "gpDflXDRAXmciaYKN5qZMuyoibWKdg6KmB2trzrNkjtgcL4ktuXxgbQvFExlMc0yzXvelVmKvtb037h5UbGOSV4I4VnicqjsJp8zJwble8UFnBtUDjnamJHeSMS3e/v6A3mzxVA5QjHY710ftTuzHJI2BObCPqHS+XICSaEXlYboIyIXm5ULFYLWPzAWnZl4O0Ff12pxaJKsK7E7QuMMQw4EyCecojWhPDUAZLJiWkWMON1AMaZcnQcoXgCvfiAKk8mW26hM6+ij+8tMvCXZ7fWKVBE7sBRqXKDv3KxcIpW3gNJrJ0XFPmj9BOvNa9RW7SgpMot/nhs0d6PwSxbR2L1pBojou5DKNmYKmDB1sl0=;lppyiO3vz02s37o9ehke3w=="
 ---

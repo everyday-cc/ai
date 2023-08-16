@@ -24,74 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "I'm an AI-prompt engineer. Here are 3 ways to use ChatGPT to get the best results."
-    excerpt: "I used to be a freelance writer. Now I'm a prompt engineer helping optimize generative-AI tech. Here's what I've learned."
-    publishedDateTime: 2023-08-11T15:50:00Z
-    webUrl: "https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3"
-    ampWebUrl: "https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3?amp"
+  - title: "How robots use AI to navigate the world?"
+    excerpt: "Aniket Bera is an associate professor of computer science in the College of Science at Purdue University. In this video, he explains how robots use artificial intelligence to navigate the world and solve problems."
+    publishedDateTime: 2023-08-15T07:47:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/videoshow/102743818.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/amp_videoshow/102743818.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/amp_videoshow/102743818.cms"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://i.insider.com/64147b500308e00018553689?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static.toiimg.com/photo/msid-102743818/videos/international/how-robots-use-ai-to-navigate-the-world.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "ESG May Help Regulate AI/ ChatGPT Use In Business"
-    excerpt: "The simultaneous rise of AI and ESG in the business sector creates an opportunity to use ESG to better regulate AI."
-    publishedDateTime: 2023-08-15T19:39:00Z
-    webUrl: "https://www.forbes.com/sites/jonmcgowan/2023/08/15/esg-may-help-regulate-ai-chatgpt-use-in-business/"
+  - title: "Boston Dynamics wants to change the world with its state-of-the-art robots"
+    excerpt: "CEO Robert Playter dispels worries about the potential harm robots could inflict and thinks they will empower people instead of displacing them."
+    publishedDateTime: 2023-08-15T16:51:00Z
+    webUrl: "https://www.strategy-business.com/article/Boston-Dynamics-wants-to-change-the-world-with-its-state-of-the-art-robots"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Learning to be a writer? Clinic topics include ChatGPT and getting an agent"
-    excerpt: "Local authors and educators Gary Arnold and Alexandra Weiss will be featured in the August Saturday Writers’ Clinic beginning at 9:30 a.m. Aug. 19 at the East Bank Regional Library,"
-    publishedDateTime: 2023-08-14T11:00:00Z
-    webUrl: "https://www.nola.com/entertainment_life/learning-to-be-a-writer-clinic-topics-include-chatgpt-and-getting-an-agent/article_21363b8e-3316-11ee-87c8-1716bd0d6883.html"
-    ampWebUrl: "https://www.nola.com/entertainment_life/learning-to-be-a-writer-clinic-topics-include-chatgpt-and-getting-an-agent/article_21363b8e-3316-11ee-87c8-1716bd0d6883.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/entertainment_life/learning-to-be-a-writer-clinic-topics-include-chatgpt-and-getting-an-agent/article_21363b8e-3316-11ee-87c8-1716bd0d6883.amp.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 42
+      name: Strategy+Business
+      domain: strategy-business.com
+    quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/8/8f/88fb72de-088d-11ed-9091-f3736f902ba2/6011b8319c193.image.jpg?resize=1024%2C756"
-        width: 1024
-        height: 756
+      - url: "https://www.strategy-business.com/media/image/44771186b_thumb5_690x400.jpg"
+        width: 690
+        height: 400
         isCached: true
-  - title: "A hedge fund manager shares 2 ChatGPT prompts and the AI plugin he used to filter top stock picks"
-    excerpt: "ChatGPT produced some \"phenomenal\" stock picks, Alpesh Patel said. But there is a lot more work and testing that need to be done."
-    publishedDateTime: 2023-08-12T09:44:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-prompts-plugin-for-top-stocks-picks-hedge-fund-2023-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "ByteDance AI researchers say OpenAI now tries to hide that ChatGPT was trained on J.K. Rowling's copyrighted Harry Potter books"
-    excerpt: "A new research paper laid out ways in which AI developers should try and avoid showing LLMs have been trained on copyrighted material."
-    publishedDateTime: 2023-08-15T19:06:00Z
-    webUrl: "https://www.businessinsider.com/openais-latest-chatgpt-version-hides-training-on-copyrighted-material-2023-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
-  - title: "How will the oil and gas industry use ChatGPT?"
-    excerpt: "However, its use extends beyond the household and the classroom, and it is being eyed for a host of other industries. Follow along with GlobalSpec for an ongoing series examining how ChatGPT is being used in specific industries,"
-    publishedDateTime: 2023-08-15T09:03:00Z
-    webUrl: "https://insights.globalspec.com/article/20882/how-will-the-oil-and-gas-industry-use-chatgpt"
-    type: article
-    provider:
-      name: GlobalSpec
-      domain: globalspec.com
-    quality: 4
 
 secured: "BlCrMyIoJ7WuyTmuY9/Tv0YSHqh4PSx6qXjy5oltcGhT5bFvgpvWVDvXMkEEKmj2elY7TIZmkTrWFmDMTVApXdEYMz9L7BZsUuD4xffkOgBEUGNi8HYOjrV0aZ7s+2B4CuxQMBgiA+ernDCOqemRQytfkCknH5xHovYMMkTu2yqbIWNn7tz0TVJ5CiRK4m6oq03Q7YZPWreZLIUnTPbFT111ujdJ89kwwSlT4jfusYOTznzmY1d1yNKTMpqrNTloqwvLug5zpAyBBQv9hN0W4tcONv/8p24XHsyY6wOMvhEiY8jzh61DVAItAEJKXwOTlM0WqV2WYy+8MH1y5lIsBZ+vZl9wfgAaqgLo26RI8hw=;BasPdFipHe2QyKQkKjtbfw=="
 ---

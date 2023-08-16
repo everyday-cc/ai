@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "BYD quits collaboration with Baidu in self-driving technology: sources"
+    excerpt: "BYD has withdrawn from an agreement to incorporate Baidu’s autonomous driving technology into its electric vehicles, as the automaker says it will develop"
+    publishedDateTime: 2023-08-16T09:03:00Z
+    webUrl: "https://technode.com/2023/08/16/byd-quits-collaboration-with-baidu-in-self-driving-technology-sources/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 39
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/03/BYDs-Intelligent-Cockpit1.jpg"
+        width: 2000
+        height: 914
+        isCached: true
 
 secured: "lN+mSIEtjmgGGmRyjtR1xCOXSkHt6NOb8YREDRTWxYZ/LBooqmE/FpYD2AHKty67qgktVu6lWn2NOtjFYe6lDu20KIgh6YrwHUV68bnt5RGvmSXku3YrBLbZhjlvij7ezRgrGtUgnUlrbea8FkqIZhksfVVPITh7DbXDOG8dDje+wc5MOKinhLcXcXGP3bLUmVADlGs8pU7PVQSnXweL+d/SJH02m6KZxCy1At3OB8Qyl4NxCohl+9IdKgV2HpNI02WDV8s3nZnTlH8biyUtXb/Yon64K8WwH4j5Oviys6W8Sp/01KGyUGCbYhK2xmKXIbrNURFyfWDoi3w+SFOYAI1+iTRP7B5URwAhAgsMyHk=;oD6l8SDZec8AAkwFoac9RA=="
 ---

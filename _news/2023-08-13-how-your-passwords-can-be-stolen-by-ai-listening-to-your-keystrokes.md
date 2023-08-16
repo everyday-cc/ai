@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/how-passwords-stolen-ai-listening-keyst
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes.amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Hackers could now steal passwords over Zoom by listening to keystrokes using AI — and they'll be right 93% of the time, study says"
+    excerpt: "These \"acoustic side-channel attacks\" present a greater threat to keyboards than ever before, said the researchers in their paper."
+    publishedDateTime: 2023-08-16T03:28:00Z
+    webUrl: "https://www.businessinsider.com/ai-decipher-passwords-hackers-listening-keystrokes-zoom-study-2023-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
 
 secured: "PQjseEb7QtrX7tPPg0EstRyGmYv52GEtdPIF5QGjCE2OCegR6FonasGwZ8d4y++NoJpWGZycjdJWAuNRk3Atpiprprlut36nITqvnQG0wLrEdDMEAISmVPCb2AnMA+beDwYskDAN4OoMoX9D0QRs5Ht3HodnX6L914rUvSIOZW6/IWXGCdHU79pw2bk6DBaqKqVdQhCYuOJGcOxw1EFZl6ac2DNhx8b3eqBrYCcQTkix15ID1hSa4Qb8QyLSPn6OqRBN56B1uctKkvKLqGnjPUHo2pODxEDQHd+5m2Xc2nMXiUfqCE7WWki4hejVIy+/ttd1gq8qHGRcNVKUothrcIvuXAOjaMx24AD39IBLD05a5BLm+jloLk9VcaPgCjrLI0T+C+JkEbPmJkGZhyoJdaEjj1nSyujl1y0vMWwtNGb3f+IFz3oU6wsHOz7DWOBjiWS3+YuBEQZC4hLxU9cEWtNgRvuSOA8UEHQA6vjmhAwV3LLy/P2RXyEsyvoGg6mFMyhPpvSkUvGvi/4QjFPzVA==;NY5e3l7aB5tl6V2MfXsexQ=="
 ---

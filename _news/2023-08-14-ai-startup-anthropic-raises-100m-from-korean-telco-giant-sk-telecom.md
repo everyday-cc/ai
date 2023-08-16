@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from
 ampWebUrl: "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/"
 type: article
-quality: 87
-heat: 197
+quality: 89
+heat: 199
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2023/04/Anthropic_logo_art.png?w=1080"
@@ -179,6 +180,6 @@ related:
       domain: datacenterdynamics.com
     quality: 9
 
-secured: "KXdlQKwN1wiZdixhG4uXVM6DIS0J5toI/G303ZMWtd/HcribmrRcm6rZR8AtPiRHBi8r3JA+XOhQQU3ayp49tb6/Lfb05XpaOlqpZWgjvZFX4fE3HsaDksA9mmJMtY+JtKs7wbXFb0XCY23Y3zHIwsjnZrKgylha1DZYRMHmOaPvRCyNkfbrUQfFLj366yXEesRpgX04Zad6JWIzu+n6W1LJsjt/0rD3EExx4D8gxWrXYVC13APswW4roc3jaMYTwOCZugP4Ey41KsbIn+R3GvRUC6UljuOQH4Y5TbK6BXiFRqf/US/DU5r3U6heR8pwNmh/h8y0Hrk14G+5sVoUHgqfdK5AX/0bjbP5t0yH05k=;Osw46p8HRGzlVpOYMY1Tbg=="
+secured: "H0sE8Co48TcxQtCMXchLvu3Fd7GYANJBkt2CpE1v+rDSszx/SAvaWNlQ+CBRYke7d9VSZCfv59waouD7ZnnC69bgD5PseISMsc6019tLC/FtjS1FOgjM2HX72SFDIemc/6nLiA9BGqL0JCmGRHemJagZQqoshkys9fjfzn10Mh9MTuFF9ZU03IUArrRv964LyneHkkvWYtVmSyCzHyGem8sZS+PD3fyRyK0nfcRthduamMTL8EYyazThjusGLZf7X1X3eBoHcwNVbJK2R1+rraWbOgZ06N0u5sXcTu5HQ/NHd8s/4/IJvU6soinJ6uij9+9RERdHLE4OIpmwqs6hyTFLUUiuu72xwbH8ytTx5rma3v8LPnRP5NlF0juqBEOFp/58g5CkvV48Jbv/foqYAt3Y/2ER8PvnoDn9IRcXXljLXh6uPwB+gzK09e6Ksck80ZCV1FY3E38Wvzx/VRo/+JbwoTzsefPRNudOWrT5Q5Eb9HJBEGijWg/IFehK/zo0HmZdSvY6LzEqthqHt1RrLg==;jhea3OaJXkeID5TFM94YHw=="
 ---
 

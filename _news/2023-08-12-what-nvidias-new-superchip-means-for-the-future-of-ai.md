@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-superchip-f
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -29,6 +29,38 @@ images:
     isCached: true
 
 related:
+  - title: "Saudi Arabia and UAE Compete for Nvidia Chips to Build More Powerful AI Tool Than ChatGPT"
+    excerpt: "Saudi Arabia and the United Arab Emirates (UAE) are buying large quantities of high-performance Nvidia chips, which are essential for developing"
+    publishedDateTime: 2023-08-16T07:48:00Z
+    webUrl: "https://propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/"
+    ampWebUrl: "https://propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 65
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2023/08/Nvidia.jpg"
+        width: 1000
+        height: 560
+        isCached: true
+  - title: "Race To AI Supremacy: UAE and Saudi Arabia are falling over each other to woo Nvidia for chips"
+    excerpt: "Saudi Arabia and UAE are investing heavily in AI and AI Chips, and are practically falling over each other to woo NVIDIA. Saudi Arabia's King Abdullah University of Science and Technology or KAUST has"
+    publishedDateTime: 2023-08-16T08:07:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/race-to-ai-supremacy-uae-and-saudi-arabia-are-falling-over-each-other-to-woo-nvidia-for-chips-13003542.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/race-to-ai-supremacy-uae-and-saudi-arabia-are-falling-over-each-other-to-woo-nvidia-for-chips-13003542.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/race-to-ai-supremacy-uae-and-saudi-arabia-are-falling-over-each-other-to-woo-nvidia-for-chips-13003542.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 62
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Race-To-AI-Supremacy-UAE-and-Saudi-Arabia-are-falling-over-each-other-to-woo-Nvidia-for-chips.jpg"
+        width: 640
+        height: 362
+        isCached: true
   - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
     excerpt: "The Gulf states’ purchases of large numbers of Nvidia chips via state-owned groups come as the world’s leading tech companies rush to obtain the scarce chips for AI development."
     publishedDateTime: 2023-08-15T07:51:00Z
@@ -58,22 +90,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/AI-software-startup-Modular-aims-to-boost-its-series-A-contest-against-Nvidia.jpg"
         width: 1500
         height: 844
-        isCached: true
-  - title: "Not the usual suspects: Nine stocks to profit from AI that aren’t Nvidia or tech mega-caps"
-    excerpt: "Artificial Intelligence has captured mainstream attention over the past year like never before. Here's how smart investors can look for profits away from the crowd."
-    publishedDateTime: 2023-08-11T11:47:00Z
-    webUrl: "https://www.thisismoney.co.uk/money/investing/article-12388443/Not-usual-suspects-Nine-stocks-profit-AI-arent-Nvidia-tech-mega-caps.html"
-    ampWebUrl: "https://www.thisismoney.co.uk/money/investing/article-12388443/amp/Not-usual-suspects-Nine-stocks-profit-AI-arent-Nvidia-tech-mega-caps.html"
-    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/investing/article-12388443/amp/Not-usual-suspects-Nine-stocks-profit-AI-arent-Nvidia-tech-mega-caps.html"
-    type: article
-    provider:
-      name: This is Money
-      domain: thisismoney.co.uk
-    quality: 51
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/08/09/10/74117995-0-image-a-7_1691572000909.jpg"
-        width: 636
-        height: 382
         isCached: true
   - title: "Nvidia CEO Explains How AI Chips Could Save Future Data Centers Lots Of Money"
     excerpt: "Nvidia CEO Jensen Huang explains how the Grace Hopper Superchip can save significant amounts of money in data center costs for AI workloads compared to Intel CPUs."

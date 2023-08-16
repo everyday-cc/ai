@@ -27,16 +27,16 @@ images:
 
 related:
   - title: "Artificial Intelligence To Help Chartered Accountants Deliver High Quality Audits: ICAI Prez"
-    excerpt: "Artificial Intelligence will help chartered accountants deliver high quality audits as well as increase the number of transactions being looked at, ICAI President Aniket Sunil Talati has said and high"
-    publishedDateTime: 2023-08-15T21:42:00Z
-    webUrl: "https://www.outlookindia.com/business/artificial-intelligence-to-help-chartered-accountants-deliver-high-quality-audits-icai-prez-news-310861"
+    excerpt: "The Institute of Chartered Accountants of India (ICAI) has more than 3.80 lakh members and over 8 lakh students"
+    publishedDateTime: 2023-08-16T09:44:00Z
+    webUrl: "https://www.outlookindia.com/business/artificial-intelligence-to-help-chartered-accountants-deliver-high-quality-audits-icai-prez-news-311014"
     type: article
     provider:
       name: Outlookindia
       domain: outlookindia.com
     quality: 41
     images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646124333.jpg?utm_source=fb"
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1686926655.jpg?utm_source=fb"
         width: 1200
         height: 675
         isCached: true

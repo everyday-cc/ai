@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Tackling Healthcare’s Biggest Burdens with Generative AI"
-    excerpt: "Spread the loveIn recent years, the healthcare industry has faced numerous challenges. From managing the overwhelming patient data to combating the increasing prevalence of chronic diseases, these burdens have put immense pressure on medical professionals and healthcare systems."
-    publishedDateTime: 2023-08-11T11:25:00Z
-    webUrl: "https://www.thetechedvocate.org/tackling-healthcares-biggest-burdens-with-generative-ai/"
-    type: article
-    provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 54
-    images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/07/laundry-chart-1-1024x861-1-660x400.jpg"
-        width: 660
-        height: 400
-        isCached: true
   - title: "US military’s special task force will explore generative AI"
     excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
     publishedDateTime: 2023-08-15T19:00:00Z

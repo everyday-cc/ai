@@ -2,21 +2,27 @@
 category: news
 title: "Self-driving cars could make traffic slower: Research"
 excerpt: "\"There is a lot of research showing that automated vehicles can improve safety. But our research here -- which relies on computational modeling -- suggests that if we want to also improve travel time,"
-publishedDateTime: 2023-08-16T02:41:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20230815/4108947.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20230815/4108947.html"
+publishedDateTime: 2023-08-16T08:01:00Z
+originalUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/self-driving-cars-could-make-traffic-slower-research/102766027"
+webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/self-driving-cars-could-make-traffic-slower-research/102766027"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: ET Auto
+  domain: indiatimes.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-102766027,imgsize-66726,width-1200,height=765,overlay-etauto/passenger-vehicle/self-driving-cars-could-make-traffic-slower-research.jpg"
+    width: 1200
+    height: 765
+    isCached: true
 
 related:
   - title: "Self-driving cars can make traffic slower: Study"
@@ -73,6 +79,6 @@ related:
         height: 450
         isCached: true
 
-secured: "2belmyXc8x8uA11VgQKvZBJyo+yXa75SrPnI6/O7fpx2k4TTvUMuoTYwvU9lXz3rF4SiutKCfZ/2+klN27oNJnrMMM5OsQRnakX3vW6d6R7gMksvXBLd+Nx5ZcQE+gXqcjUH69KpWKQwJFR7xqIzzx/evPneyOmxKEf3FKxrq8DEHv0yElrKO2KUFwaFJLZPjoNUTORZ+iBtNpNWKTBlKteAaRm1g7j5x81Zsz0REQIYsw9kC+9cu80V8gVhL7DxOwdQnOBhkzQ+wLDD8ul1GaSz6iZexY4cqoa/D5f796fwwlQNWuXvTxZbZbGeXxnGo6/Yhe+KVA+BWsTzwgs+uCStJk2uZBkq++ME6JmNqys=;CEJ8KdRQCC6b0y2OUoSNKA=="
+secured: "M7yl20qPmoHi9mCIisO+Fxnz0zp8ORZbBmK9JNbmrZsWx1YDeD0VO+InMgWiA2kyerKZ64c6f6MWEZQSXvHIi9dHFFUveG5+UhjtQyorUmGxECHmQjZLOlmYBo76VmRJP9TtNCd6yHXv8z1zA/nzsivxhXoZjL4WITEPDR5GXRjIeWTTI/yDHAaFshJs64Hgnc52fU8FMbYAznNFGtvQcuzRcbV4RYZOqAhBYBW0vDJA+q1DVoWb5scr//G5egNzKgMQ5MhT7YobbJkIWRYO2xZYRW8f2SowiNlr+90c8NhbUKGG8NkNwqxYoqaBkqpoizkj+9OKd4vWW5SleDYJl4gAKtvINOutw9lIIEam/KI=;NyMO66YfT6TWfy71BcGQEQ=="
 ---
 

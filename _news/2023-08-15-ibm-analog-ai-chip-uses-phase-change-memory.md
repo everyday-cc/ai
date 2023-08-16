@@ -91,20 +91,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "IBM presents ‘brain-like’ chip for more environmentally-friendly AI tools"
-    excerpt: "IBM has developed a prototype “brain-like” chip that could lead to less battery-draining artificial intelligence (AI) semiconductors for smartphones."
-    publishedDateTime: 2023-08-11T15:37:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/08/ibm-presents-brain-like-chip-for-more-environmentally-friendly-ai-tools/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 53
-    images:
-      - url: "https://eandt.theiet.org/media/22222/web_ibm-headquarters_credit_istock-1170762235.jpg?crop=0,0.31791666666666668,0,0.18989583333333326&cropmode=percentage&width=1200&height=450&rnd=133362406550000000"
-        width: 1200
-        height: 450
-        isCached: true
 
 secured: "ag8kHcu2WFBCxdp5y2uSozUOodhoFnCBccZu44E9U7qlcLcAvVnMeDdqQp+HhtJ0PJ4EHOcVkB8wanLbE6RLDfnlHwP9KZ+STdr5QVsHmcQl8mh5ofA9wwSA/+05qEyfg+bS7X1hmBdPzlFyF52ESVYr5JtsGqvVLQ0x0FdCkfRbkrZeheEnbfCxwbPwsoxyl6yZO+7Y/MGfzlCyfmI4ja3/XJY4jIIaIB+WYwb2qh1/DBrc3zkQmMnp45mVnbUNJWrReRqaC3J0KbOuErpfYM3IoOK3hydoGEEq9lDosl1vlbRqF5CI/jiTBIlO2wTXBgDeqxrxEHK9xxx84l5rdQp43q+kvcjHV0bKCleKvwA=;er4OlIzC/xubH5aQto58Iw=="
 ---

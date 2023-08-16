@@ -7,7 +7,7 @@ originalUrl: "https://manilastandard.net/tech/314360522/new-aws-build-program-he
 webUrl: "https://manilastandard.net/tech/314360522/new-aws-build-program-helps-early-stage-startups-get-ideas-off-the-ground.html"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Amazon Web Services launch of AWS Build Program to Help Early-Stage Startups in their cloud journey"
+    excerpt: "Amazon Web Services launch of AWS Build Program to Help Early-Stage Startups in their cloud journey - Amazon Web Services recently announced the launch of AWS Build, a new global program designed to"
+    publishedDateTime: 2023-08-16T04:56:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/amazon-web-services-launch-of-aws-build-program-to-help-earlystage-startups-in-their-cloud-journey-nid-224744-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 20
   - title: "New AWS Build Program Helps Early-Stage Startups Get Their Ideas Off The Ground"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of AWS Build, a new global program designed to support entrepreneurs early in their cloud journey to build,"
     publishedDateTime: 2023-08-15T06:44:00Z

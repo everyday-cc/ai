@@ -56,15 +56,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Dutton position on voice poses a difficult challenge"
-    excerpt: "Supporters of an Indigenous voice to parliament face the prospect of history repeating in the wake of Peter Dutton’s pledge to continue fighting for constitutional recognition and a legislated regional voice."
-    publishedDateTime: 2023-08-11T13:12:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/editorials/dutton-position-on-voice-poses-a-difficult-challenge/news-story/a1fcc237276e8261bd0b13a1bf400141"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
   - title: "‘Real concern’: David Littleproud at odds with Peter Dutton over alternative to Voice referendum"
     excerpt: "The Coalition is split on what they would take to the next election should the Voice to parliament referendum fail."
     publishedDateTime: 2023-08-13T13:11:00Z

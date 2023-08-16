@@ -7,8 +7,8 @@ originalUrl: "https://www.digitimes.com/news/a20230815PD204/tsmc-ai-gpu-advanced
 webUrl: "https://www.digitimes.com/news/a20230815PD204/tsmc-ai-gpu-advanced-packaging-cowos.html"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Digi Times
@@ -23,17 +23,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "Partnership delivers on-demand GPU by the hour for HPC and AI"
-    excerpt: "Applied Digital Corporation and Zededa partner to deliver on-demand access to GPU resources by the hour to execute AI, ML, and HPC workloads."
-    publishedDateTime: 2023-08-11T16:57:00Z
-    webUrl: "https://www.embedded.com/partnership-delivers-on-demand-gpu-by-the-hour-for-hpc-and-ai/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 34
 
 secured: "mfE/LBMWxkMUI5CEIXa9JPvNwdw3jsuVandBwL6RY0Q0Wd35xqNWImR9MQXJPoeOcLCUVGM6GncZoHqE7eDs2fyh4j5NGKCnaiip0r588AwxRraPQE0DBrWDmiJFPWGc6R0G6p9YdX4g7XShVOu6KL6EkkGX891ccXAEK8tqWM0C/hI03aIPXtrtkQwCmuwSjir7rnJiuoGTdRMjPG6fmvt13hMsVZmklLfE9UfOxlwMpd6jt5vxeVlFwT6F8Sl1yj57fcWmHuYjDd4UO1SRd+n7CFGcxB1Ea7874R0dz9cp3mDVEtgA2KsyUj0TiZpggCSbTsAxMSR5gNhDunrIkzkm0LDNns8JszvRRRYEbQNGZH04gr3eu6HYiHSIVkXpIqS1UDQUnaBogen3nuXH3kLXzMkZCmUYTgBBexegqbUdSzCdvgBA9Dm3n3xEBV0WegL1jxbB4HrO0u4IYIFtNXJtKPefVqjUNWIoWef1YqBoli7eE3mH/C5fVg1g1gKo+ROA8Obn+lP8m6QEmjuNHQ==;lB8vTvt3MbZIidvvlmw5ug=="
 ---

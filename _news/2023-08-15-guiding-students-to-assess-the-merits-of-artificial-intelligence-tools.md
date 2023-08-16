@@ -7,7 +7,7 @@ originalUrl: "https://www.edutopia.org/article/teaching-students-use-ai-tools"
 webUrl: "https://www.edutopia.org/article/teaching-students-use-ai-tools"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "There’s Too Much Money Going to AI Doomers"
+    excerpt: "Nonprofit groups that fight AI harms today are getting far less funding than those preventing a theoretical AI apocalypse."
+    publishedDateTime: 2023-08-16T04:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-08-16/ai-apocalypse-there-s-too-much-vc-money-going-to-doomers"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "iN78/Au3XkBikNfD2JVPxwxh8npHKG6ST929FAWRkIxTFAkWIh0alVksEBqIhvsaqsOlUbIACBml3ItLaaKpZhYmcsBVv1q7LUefTdc0tg+XNFcGR+i8wZpp7vach7mX30/fHzeGEsaQVqQPJngb4xWm3CyyJX66kGQ6bcWUaQuwe+riRVK3Ifni8SLzXeQS08o3d+kNxSYuKFciaKGhUhAxu+EQKZGZZySkwq3t+moqT+DMAp7jKq1I0vNNmeoB/wWBxnPi6VuKSMrTJVXwcwU2Rn5ZXgF2KMluiFIJc00KxRcAAMwE0fISg8dZaEh39XpqMixcoe94UqmtbAb8T8+HEB8+5ao9J2AHdygCvJ6bP7B6FrDWS7edbI9TEfrS1NqxgRuS8UVB1NmzGvQCFsFB4JJAvdyvvkx11VXMfAvJu21KW0rF/wboN4btl1DM1qs7ASdtGDJ8HonnHaCPRWFFKxlQfEJdxkPgjdQNYkbNr7C+sDhLIiz3KopGd0roz5nsBPH8yI6NXCT6s5xjvg==;S2BKCpomL+slTzp54QyKWA=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Demystifying AI in healthcare in India"
+    excerpt: "More and more innovations are coming up in AI-based healthcare services and may soon convert India's dream of affordable universal healthcare into reality"
+    publishedDateTime: 2023-08-16T07:29:00Z
+    webUrl: "https://www.forbesindia.com/article/isbinsight/demystifying-ai-in-healthcare-in-india/87547/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 36
 
 secured: "+o+z6LuIy2ERt9JWG2utcog/xj2cVPSPG6KGWkQkJGLuNxa+JFM284DipfGBUP2lOd+IA5+77WdwAFgD195HWqWetfRTHOtgCOwlTT8vzDE65c2pxj2PmcfRoGGLbTbvCxgNxIyq6U3fIotLnnRmjjKRM1SC2v5P3YMnWQnNbcOsWuWuYfUPoeWuE8hzgizPDegrGSa6pfvNX3iWQJ0/LBVDnfB8LmqaAvTBRXSvvxHmZ9c1AQRhejv0U/0ZbrjV3yJhm0jfS0VGgzexg5uMDwE++JUfqECMbbSefj3S2VLalvKHfM+LLI+15nniQzubgxf3HJhB0sTyHztkbGoGb4O833aAoY5/4jOGBYFnqoJ+wEkkDv1iKcpelQ8X5VSqpmDgFwUAA4FRpVmL2eo9tQg72UiZubUntmFTiJDUMjsGt5Nx93mdwwUMtDmz6pU7L11FsYcgtDIH8NkKmHzO/VTVIxZg7Q2mDSb+4cZQqcHoxK8Syvw2PnmDgTp8zVIKxpp7HCjnVRe3mQJgyPj33Q==;xHnOqrymXnW3S/29AxC03g=="
 ---

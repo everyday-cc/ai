@@ -7,8 +7,8 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3231045/top-chinese-ev-
 webUrl: "https://www.scmp.com/tech/big-tech/article/3231045/top-chinese-ev-maker-byd-opts-out-deal-use-baidus-autonomous-driving-technology-sources-say?module=more_top_stories_hk&pgtype=homepage"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: scmp.com
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/14/8d0c8faa-5516-4e6e-86d6-fb4767cae9e5_be05c4b5.jpg?itok=9WZuQ1Up&v=1692010100"
         width: 1200
         height: 630
+        isCached: true
+  - title: "BYD quits collaboration with Baidu in self-driving technology: sources"
+    excerpt: "BYD has withdrawn from an agreement to incorporate Baidu’s autonomous driving technology into its electric vehicles, as the automaker says it will develop"
+    publishedDateTime: 2023-08-16T09:03:00Z
+    webUrl: "https://technode.com/2023/08/16/byd-quits-collaboration-with-baidu-in-self-driving-technology-sources/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 39
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/03/BYDs-Intelligent-Cockpit1.jpg"
+        width: 2000
+        height: 914
         isCached: true
 
 secured: "SNSGTBgbX+L1ISWxKvPScMIqHJIfNqEe0USGwFVdn08U+CXiSZfeJX3sksCj+wQ2GGBQfNDPblDjSdkB7RNRS1Rg00qrm3KUbg8rIXdort83iOZI53U0tdd3qP5EP8ttLwhld4WrVqXxKj5S5j+EARLYIBBq4g0cLdaMHjdDHjTKznSv23JUm+AuPiJ6cCcp5Z/U3M/9wBquKse9cWJ0bbXpHofXiow4MTgQGZsFRpN6J8gVQIxa5lVIkCW+fiWfNnGMdWm4mROPmFz9VpwZA+ZR8/AcuzT6csUbhIadTGHcglNSs1TDT7dPqjMpHnIr1Nmn7gCc33WJ5VB0zrHZIeBuWlqwOUjATsEmjGBekQ8=;udVWDv5Ind0GNaktwuzcNg=="

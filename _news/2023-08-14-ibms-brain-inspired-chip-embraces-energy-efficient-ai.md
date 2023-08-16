@@ -9,7 +9,7 @@ ampWebUrl: "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energ
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-102737089,imgsize-120944,width-1200,height=765,overlay-etcio/artificial-intelligence/ibms-prototype-brain-like-chip-promises-greener-ai.jpg"
         width: 1200
         height: 765
-        isCached: true
-  - title: "IBM presents ‘brain-like’ chip for more environmentally-friendly AI tools"
-    excerpt: "IBM has developed a prototype “brain-like” chip that could lead to less battery-draining artificial intelligence (AI) semiconductors for smartphones."
-    publishedDateTime: 2023-08-11T15:37:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/08/ibm-presents-brain-like-chip-for-more-environmentally-friendly-ai-tools/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 53
-    images:
-      - url: "https://eandt.theiet.org/media/22222/web_ibm-headquarters_credit_istock-1170762235.jpg?crop=0,0.31791666666666668,0,0.18989583333333326&cropmode=percentage&width=1200&height=450&rnd=133362406550000000"
-        width: 1200
-        height: 450
         isCached: true
   - title: "IBM analog AI chip uses phase-change memory"
     excerpt: "IBM Research has developed a multicore compute in memory analog AI chip using PCM to reduce the power consumption."

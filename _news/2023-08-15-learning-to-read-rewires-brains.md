@@ -3,13 +3,11 @@ category: news
 title: "Learning to Read Rewires Brains"
 excerpt: "In modern societies, large numbers of children spend years learning and practicing reading. With intensive and prolonged practice, literacy shifts from a slow, effortful, conscious, and deliberate process to one that becomes fast, effortless, (mostly) unconscious, and automatic."
 publishedDateTime: 2023-08-15T01:38:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/why-religion-is-natural-and-science-is-not/202308/learning-to-read-rewires-brains"
-webUrl: "https://www.psychologytoday.com/us/blog/why-religion-is-natural-and-science-is-not/202308/learning-to-read-rewires-brains"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/why-religion-is-natural-and-science-is-not/202308/learning-to-read-rewires-brains?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/why-religion-is-natural-and-science-is-not/202308/learning-to-read-rewires-brains?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/why-religion-is-natural-and-science-is-not/202308/learning-to-read-rewires-brains"
+webUrl: "https://www.psychologytoday.com/intl/blog/why-religion-is-natural-and-science-is-not/202308/learning-to-read-rewires-brains"
 type: article
-quality: 59
-heat: 59
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -20,12 +18,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-08/shutterstock_682208722.jpg?h=9b85b8d2&itok=zyOMyNYu"
-    width: 1528
-    height: 800
-    isCached: true
-
-secured: "RME0sdig+7o8FpBVg+nIql18+rNAJLDKYUVU2OyGMrbdk1BNhwRWEgMG6xI3cE7s7Y/f8ROP89+S0rQ+cTC/hMEZ4HjrvUxFMbQ6mXDeK44qhnfg96jW53TQZN+6eeSvOYCDo6l5pShBupH3jTfF7dPGFF2TP7vKrf+po/jbJxnfgM9KPpTg9oOeXbFHdBcZXembOrSYhAEATr0B8sdq9LBUK6eZrobfyOZun9nYz0SC9NSr7PGpvaeo64+5VhST97sTgixrc9j8mT27bPY0hJdwkUiK2lUqBXcCSutbCvajPERttxXSCUFdepofPoPhbBiJmymmXHTGN2WQvIctIshgDFhMpv2Fx8rE6WvRVQx12QoQBOTUYJIe7U8U88/1KLrEetbcq+xU5IsrQLgOR+KvoLhqqiNJ/NcccIR/rl4zZ0cFk4rLtuoY+VRaSBOnjuAeFlwROue+SCRhjvUzthh4dVFCR8tYhJI7qbO4mFqxxlbt007YSpVPfphQ5olS2gfT4JcgVQygyeBv1w/gTg==;ftzVWHwsOTyU12ByXUbq8g=="
+secured: "X0htW0oNs9P4vOH2lC8Jjxf9lAVZFedx9QN7Zd/DOGAFxmIRqxloyksqkhgk6h2+lsVlkrMYOz8s1boHGdY1kRIDKVTzIClq/kgX8j9RCWPjtjD6ZqkfcmPacKYygrCMFhpwLGcxzxFE1K7+cZhO2x5XP2mkgYoNI6C5ZLnpDTxKIswVncxCiaazNPqz6vGuBh+YCH33B1Urlh20XjTrCRV7QFekyP6B30JM8gPw8amrja8DaNxhLRZuiKF6XYYay5RZ0TIg6jZYiWPjTqiwjVG972Nwk9FbfoeaDqUftLDnC3W5SgwKmNsKuRbv3qCboG7qGYHInRLdpBC6uOaqp76niEQVJQV0HrXN0A1XlhI4SAoguoHDnkNKU9POkWMfb2/Ek21mLlYwDxYMXlPhhTefzGxKJZsqKSqe8FX+WRoUJQiAG6OjqAo74iuWx1/liqfiIEHSzkr5Z14FPEpwIppQgJgpK+wP6skMabBqgGJbjhvJ3hMZAX7PNdp7A2i3JVOg/LEm37NF1jJ1trQw4w==;cUoiwOfucmvX97JQAXN/TA=="
 ---
 

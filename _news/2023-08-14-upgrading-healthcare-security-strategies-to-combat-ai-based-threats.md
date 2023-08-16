@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/"
 type: article
 quality: 121
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking the Power of Artificial Intelligence in Healthcare"
-    excerpt: "Artificial Intelligence (AI) is rapidly revolutionizing various aspects of our lives, and its significance in healthcare is undeniably on the rise."
-    publishedDateTime: 2023-08-11T11:14:00Z
-    webUrl: "https://www.mid-day.com/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
-    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 74
-    images:
-      - url: "https://images.mid-day.com/images/images/2023/aug/Hidoc1108_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Generative AI's Dark Side: How It's The Perfect Tool For Hackers To Spread Malware"
     excerpt: "Generative AI presents many opportunities for businesses to improve operations and reduce costs. On the bright side, there is great potential for this form of AI to deliver value to organizations. However, it has a dark side in the cybersecurity landscape, as hackers can easily manipulate it to spread malware."
     publishedDateTime: 2023-08-14T13:15:00Z
@@ -82,8 +66,8 @@ related:
     quality: 34
   - title: "Enterprise Security Leaders See AI and Machine Learning as the Biggest Near-Term Cyberthreats, ISG Study Finds"
     excerpt: "Global enterprise leaders see emerging AI and machine learning technologies as the biggest looming threat to cybersecurity, and are focusing future cyber investments on detection and prevention rather than remediation,"
-    publishedDateTime: 2023-08-15T15:42:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/15/9864941.htm"
+    publishedDateTime: 2023-08-15T15:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-enterprise-security-leaders-see-ai-machine-learning-as-/2023/08/15/9864941.htm"
     type: article
     provider:
       name: TMCnet

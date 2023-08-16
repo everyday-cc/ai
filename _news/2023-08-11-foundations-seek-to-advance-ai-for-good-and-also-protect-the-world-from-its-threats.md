@@ -8,9 +8,6 @@ webUrl: "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-
 ampWebUrl: "https://www.wral.com/amp/20995889/"
 cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20995889/"
 type: article
-quality: 52
-heat: 62
-published: false
 
 provider:
   name: WRAL
@@ -26,17 +23,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Foundations seek to advance AI for good — and also protect the world from its threats"
-    excerpt: "While technology experts sound the alarm on the pace of artificial intelligence development, philanthropists — including long-established foundations and tech billionaires — have been responding with an uptick in grants."
-    publishedDateTime: 2023-08-11T19:32:00Z
-    webUrl: "https://www.clickondetroit.com/business/2023/08/11/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 12
-
-secured: "1eAYWmZfWZuQkV0byWxpchseyMBugVWLkO6LxiSJS/Z+ZMB5d8CW64P552v33W434dpDoOmhSfkJjszKu+JATdo4Ukk6Mp2P4K2rZxfVhSw/JOgKE/q3Xt+BGjhJAwXSRj50Hka5V08zHggWtghiay8KPQ5q89okyOPUm8Ja02A+SPT75Uk0u4yh8QeBRbMgvk1U4C9TPpjYCJw3E1NisFwKUJkmUrY+YHX48D5iufeaH7bZZZvLMVt1CqzFbxG6X1q7sF9xpXMTpTiccv6ZGDK5Tn53cWaRqIewqdW2+zx9Wr/TUA4beAcQEv605EZ1T3Qg5AlMQDROvpEQyzhZC+tsTIQsOOmQJCZtK0QFKp8=;Tm1ul6DyCOUH9726Ggg4Gg=="
+secured: "UzkAD86roilpoisR5ixVCmN6GkzYRNvs81aabeKwtHXCytQMD87QoJBX5utvIukJSJQGpFMsdOBv1RrLwPWR2eM3Y+VbPXHrWVL2Nnr+UvmZrTalLxdgtHihA5xwkJclRZfSQv/spTSPC9Y/wKmQR0toHafq8pjw9UoIIq8gGFFKwnCuj037RF70O4U/jblvnY79f4nUInFs1udcqVTvMsx5cnX2w2IFmbEdhsO7mN75Hi8dkOWWipsNFSBgwOJYAqoflY4tUXIU6DsgCFzeOYZfNYgBd84JamITUUSqN8few764J9gqQthNKE9foL0eMbcgxzNjOKfsKNdJml8OJEZd/uCENNy2v6tZRjfJsZk=;hrgSsIlRUNz6mve2c2VhvA=="
 ---
 

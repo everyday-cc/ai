@@ -2,6 +2,136 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-05-21-bristol-experts-help-launch-first-driverless-buses-on-britains-roads.md",
+      "title": "Bristol experts help launch first driverless buses on Britain's roads",
+      "excerpt": "Bristol robot experts have helped create and launch what is being heralded as one of the most ambitious and complex trials of driverless ... together with artificial intelligence processing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260",
+      "originalUrl": "https://www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.bristolpost.co.uk/incoming/article8443273.ece/ALTERNATES/s1200/0_TCR_BRI_160523AutonomousBusBRI_02.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260.amp",
+      "cdnAmpWebUrl": "https://www-bristolpost-co-uk.cdn.ampproject.org/c/s/www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260.amp",
+      "publishedDateTime": "2023-05-21T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bristol Post",
+        "domain": "bristolpost.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-tech-digest-daily-roundup-tesla-issues-optimus-robot-update.md",
+      "title": "Tech Digest daily roundup: Tesla issues Optimus robot update",
+      "excerpt": "BBC The government must act to prepare for artificial intelligence (AI) to hit the workplace “like a freight train”, the boss of one of Britain’s leading energy companies has told Sky News. Greg Jackson, founder of Octopus, says the adoption of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techdigest.tv/2023/05/tech-digest-daily-roundup-tesla-issues-optimus-robot-update.html",
+      "originalUrl": "https://www.techdigest.tv/2023/05/tech-digest-daily-roundup-tesla-issues-optimus-robot-update.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2023/05/Tesla-optimus-.webp?resize=788%2C443&#038;ssl=1",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Digest",
+        "domain": "techdigest.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-adopting-artificial-intelligence-things-leaders-need-to-know.md",
+      "title": "Adopting Artificial Intelligence: Things Leaders Need to Know",
+      "excerpt": "Artificial intelligence (AI ... from movie recommendations to self-driving cars, and are expected to have a major impact on businesses in the coming years. Software leaders should be able to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/05/AI-leaders-need-know/",
+      "originalUrl": "https://www.infoq.com/news/2023/05/AI-leaders-need-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2023/05/AI-leaders-need-know/en/headerimage/adopting-artificial-intelligenc-things-leaders-need-to-know-header-1684308986874.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-ex-apple-employee-accused-of-stealing-self-driving-tech-secrets.md",
       "title": "Ex-Apple employee accused of stealing self-driving tech secrets",
       "excerpt": "Wang is the third employee from China to face charges of trade secrets theft is the third to hit the company. Last year Xiaolang Zhang pleaded guilty to stealing trade secrets from Apple’s autonomous division. Another man faces charges, but the trial is to be set at a later date.",
@@ -1210,144 +1340,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-worlds-first-self-driving-bus-rolls-out-in-scotland.md",
-      "title": "World’s first self-driving bus rolls out in Scotland",
-      "excerpt": "The world’s first self-driving bus rolled out in Scotland carrying passengers on a regularly scheduled route. NBC News’ Matt Bradley reports on the future of public transport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/world-s-first-self-driving-bus-rolls-out-in-scotland-174465605630",
-      "originalUrl": "https://www.nbcnews.com/now/video/world-s-first-self-driving-bus-rolls-out-in-scotland-174465605630",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684202953745_now_staytuned_scotland_230515_1920x1080-uvfure.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174465605630",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174465605630",
-      "publishedDateTime": "2023-05-15T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-dui-suspect-claims-tesla-self-drive-malfunction-after-marin-county-crash.md",
-      "title": "DUI suspect claims Tesla self-drive malfunction after Marin County crash",
-      "excerpt": "A San Rafael man was arrested on allegations of intoxicated driving after crashing a Tesla into three parked vehicles, police said. The driver told police the Tesla was in “full self-drive” mode, but a witness said it was swerving erratically and moving at inconsistent speeds before the crashes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/",
-      "originalUrl": "https://www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/05/MIJ-L-SRPD-0117-01-1.jpg?w=1024&h=866",
-          "width": 1024,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/amp/",
-      "publishedDateTime": "2023-05-15T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-singapore-hopes-artificial-intelligence-will-help-boost-its-tourism-industry.md",
-      "title": "Singapore hopes artificial intelligence will help boost its tourism industry",
-      "excerpt": "As the city-state looks to salvage its battered tourism industry — which contributes around 4% to its economy — it's hoped that artificial intelligence can help the sector bring back visitors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "originalUrl": "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106706240-1600338869741-gettyimages-1136947347-nik_1761-----gi--19mar19.jpeg?v=1600339088",
-          "width": 5568,
-          "height": 3712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "publishedDateTime": "2023-05-15T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

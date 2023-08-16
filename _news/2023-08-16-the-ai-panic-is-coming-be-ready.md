@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-ai-panic-is-co
 webUrl: "https://markets.businessinsider.com/news/stocks/the-ai-panic-is-coming-1032556797"
 type: article
 quality: 67
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Reading: How AI is Changing Ebooks"
-    excerpt: "The way we consume literature has constantly been evolving over the centuries, from manuscripts to Gutenberg’s printing press to digital ebooks and audiobooks we have today. With the recent advances in artificial intelligence,"
-    publishedDateTime: 2023-08-11T17:25:00Z
-    webUrl: "https://goodereader.com/blog/e-book-news/the-future-of-reading-how-ai-is-changing-ebooks"
+  - title: "Move over Bard, Google's next big AI product is coming this fall"
+    excerpt: "Google Gemini, the next-generation AI foundational model that combines conversational text with image generation, could launch this fall."
+    publishedDateTime: 2023-08-16T09:10:00Z
+    webUrl: "https://www.androidauthority.com/google-gemini-ai-fall-release-3355460/"
     type: article
     provider:
-      name: Good e-Reader
-      domain: goodereader.com
-    quality: 39
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
     images:
-      - url: "https://assets.goodereader.com/blog/uploads/images/2023/08/11132524/Picture1-1.jpg"
-        width: 904
-        height: 602
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-gemini.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "4Npr6h+KJ5ilp38L6SnuhuFIf/t6WbSl/dzxx0gffxCo7P8p+srnDV3xteBWRLVQl+TA6ZfISyvwT7mDd2XMttJXTv6fI1wGv+DwuHGG+l3tgnJp+7BnXHxO8BWb9NAgpMY4uVTbfX0pAWqxm69bHKqk/HRVZpgo9ZpX6Uj57jVO0kEQ4ijlxilVjwjQzpX6ssuKcRfE8nrnbjYwTE/GimfT/hhAXxPhBfD1CNl0o2Uf0aopXSidQZV0RXZeh/d6cvkE388RI3qTbEmxXRDsP3DJfm0Fzg3Tcrgdsx/CAXt/XQsNskkrMvqbuy6Efg4CiTLDyDdIFOr5/MaOilzbPN+Exsj65j7+JOVgAt2HgIk=;BCFxmZsEFUiT+NOgL0pYvw=="

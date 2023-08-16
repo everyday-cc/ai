@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Nutanix simplifies adoption of Generative AI with new Nutanix GPT-in-a-Box solution"
-excerpt: "Nutanix, a leader in hybrid multicloud computing, today announced the Nutanix GPT-in-a-Box solution for customers looking to jump-start their artificial intelligence (AI) and machine learning (ML) innovation,"
-publishedDateTime: 2023-08-15T23:25:00Z
-originalUrl: "https://itwire.com/guest-articles/company-news/nutanix-simplifies-adoption-of-generative-ai-with-new-nutanix-gpt-in-a-box-solution.html"
-webUrl: "https://itwire.com/guest-articles/company-news/nutanix-simplifies-adoption-of-generative-ai-with-new-nutanix-gpt-in-a-box-solution.html"
+title: "Nutanix simplifies adoption of generative AI with new Nutanix GPT-in-a-Box solution"
+excerpt: "Nutanix, a pioneer in hybrid multi-cloud computing announced the Nutanix GPT-in-a-Box™ solution for customers looking to jump-start their artificial intelligence (AI) and machine learning"
+publishedDateTime: 2023-08-16T09:40:00Z
+originalUrl: "https://www.sourcesecurity.com/news/nutanix-simplifies-adoption-generative-ai-nutanix-co-14411-ga-co-1564579956-ga-co-1565946412-ga-co-1568897613-ga-co-1570707227-ga-co-1674033489-ga-co-1692173033-ga-co-1692173215-ga-npr.1692174407.html"
+webUrl: "https://www.sourcesecurity.com/news/nutanix-simplifies-adoption-generative-ai-nutanix-co-14411-ga-co-1564579956-ga-co-1565946412-ga-co-1568897613-ga-co-1570707227-ga-co-1674033489-ga-co-1692173033-ga-co-1692173215-ga-npr.1692174407.html"
+ampWebUrl: "https://www.sourcesecurity.com/amp/news/nutanix-simplifies-adoption-generative-ai-nutanix-co-14411-ga-co-1564579956-ga-co-1565946412-ga-co-1568897613-ga-co-1570707227-ga-co-1674033489-ga-co-1692173033-ga-co-1692173215-ga-npr.1692174407.html"
+cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/nutanix-simplifies-adoption-generative-ai-nutanix-co-14411-ga-co-1564579956-ga-co-1565946412-ga-co-1568897613-ga-co-1570707227-ga-co-1674033489-ga-co-1692173033-ga-co-1692173215-ga-npr.1692174407.html"
 type: article
 quality: 33
 heat: 33
 published: false
 
 provider:
-  name: ITWire
-  domain: itwire.com
+  name: SourceSecurity
+  domain: sourcesecurity.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://itwire.com/media/k2/items/cache/793f53f1f63688fe74fd3123fa489ce6_M.jpg"
-    width: 375
-    height: 250
-    isCached: true
 
 related:
   - title: "Nutanix offers quick-start approach to AI development"
@@ -44,6 +40,6 @@ related:
       domain: channelbuzz.ca
     quality: 19
 
-secured: "jNGl7zomljoLQahXcuc5aoxzvZ6RDT3qmjLYvojCrH+6H/Fzt9QtmNHQY722ZK3SXZnpkEHctSHywIuR0TUQs5wlFVRg0Oql9khzsKhEUtcYVn6kCvWk8A3K6a0xTDzVnITcPy0tgDItv8OoMHgJjm7N4wUjEk5FulatGjz4BGy9wvNxRGZBlXmDgEGJhfBiIYzh2OrrN8/HZ4spH5aQKpJxCmp0QgGp78ekJxscgpA8iBbTTFOFI70zOvgUX/Un4XGaMgr2wY9+MYxsTFrgrMGhApe3W+sxU636Pt7VrwpnB+zSG3Iw7TwY9ebG5JFBZC9xGsgcyhGUif+xePaucl0YwO8E9tTK4toHLSm1Kj0cn+WVnCQE7vyu7FHwMo99GRbKLzrQ6SE11flzsvYd0BHPJ16620Lr7lrfeCsS8ZifQpQzKPAAPM+0pjaD4zv0YRg7pewexjRkL4tXw8089a7ZkuDzgwN4KBR0RPaB2ZmPegyMvs4j5eiQxsPty8isjKBHQGLz4tXeZt7WznYBhg==;TxQr5eF8jJWyuAKNcoy5RA=="
+secured: "SQgIpCdOEXoe3Do3BGVI5FwuNFpM661fsURIGPCcrz3+XomSB9bOVbl8zcA3TtzkPok6tWHjkUowwvpu52+crVb/fyxPk8ZzPKmtAk+ElfT47GLy8PCk9nQCojlNzeRW1pL8TBEkOuo35Ok62qq07OE5B9TYvkURd9+fYk0c0A63T72ynfrUP0NzVwiK/pIUaQ/AqQz+xIG1C08OjrBGEEMszwb4mPDF9LkAuDY9+Xt4XS9+Sw5P91Hmgj/+LHSHx2g4RNZiElGgZAONZTen46th5JPNIIoG2IaZg3PJqlCZOtBJxt0/vphMwFL6cNQCGr94fP2DDMwoJ29O5z7CzdxHuj0P/QkiUziw0g2ot4s=;51lio4kwh5MHjH+1MsTGhg=="
 ---
 

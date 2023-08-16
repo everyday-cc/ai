@@ -2,9 +2,9 @@
 category: news
 title: "Enterprise Security Leaders See AI and Machine Learning as the Biggest Near-Term Cyberthreats, ISG Study Finds"
 excerpt: "Global enterprise leaders see emerging AI and machine learning technologies as the biggest looming threat to cybersecurity, and are focusing future cyber investments on detection and prevention rather than remediation,"
-publishedDateTime: 2023-08-15T15:42:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/08/15/9864941.htm"
-webUrl: "https://it.tmcnet.com/news/2023/08/15/9864941.htm"
+publishedDateTime: 2023-08-15T15:32:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-enterprise-security-leaders-see-ai-machine-learning-as-/2023/08/15/9864941.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-enterprise-security-leaders-see-ai-machine-learning-as-/2023/08/15/9864941.htm"
 type: article
 quality: 31
 heat: -1
@@ -35,22 +35,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/820808708/0x0.jpg?format=jpg&crop=4765,3178,x0,y314,safe&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Unlocking the Power of Artificial Intelligence in Healthcare"
-    excerpt: "Artificial Intelligence (AI) is rapidly revolutionizing various aspects of our lives, and its significance in healthcare is undeniably on the rise."
-    publishedDateTime: 2023-08-11T11:14:00Z
-    webUrl: "https://www.mid-day.com/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
-    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/unlocking-the-power-of-artificial-intelligence-in-healthcare-23303113"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 74
-    images:
-      - url: "https://images.mid-day.com/images/images/2023/aug/Hidoc1108_d.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Generative AI's Dark Side: How It's The Perfect Tool For Hackers To Spread Malware"
     excerpt: "Generative AI presents many opportunities for businesses to improve operations and reduce costs. On the bright side, there is great potential for this form of AI to deliver value to organizations. However, it has a dark side in the cybersecurity landscape, as hackers can easily manipulate it to spread malware."
@@ -85,6 +69,6 @@ related:
       domain: unite.ai
     quality: 34
 
-secured: "EP/uVbRiLcR3oi4bvjsM6cpp4QCCwRcRaXFoP+T/gSjGcx/TsTP9RsziJhU5eyJAylRa0rQorMeSlVZrdccx6NzXdKIkaGVWWvCXrZ5bnP1mLITmdblMR4FGv+jl0+VI6qfSHhpnecLyrYOBZ8dg/+P8wwhaa4+tZspANADUHls57EzQ1pY57grCyr4H54RnK9Vnrt20rVSbKIGufGBCDVkDf6TDFkem8U6XXTzRhDnG02coI9WiOKi1+yAvGTyAHZqrN+u3iQcJMBlOMCBkQ97qmfSd43FhZ0vAkKSefIhRhB7u3/NHHlTtRDbnoROVqG4aXgmSZs/tG9l876uqjgsMF1bIgWoafECoS6KhDow=;b7qVUeoJi3wz1+cn2jr4ZQ=="
+secured: "D7cJ00mhLEIXKeapZqf4h0NH9knFgpRiXDttQiz7zEdmh6ubgYMrhtk85Li1qh06FgeIWQFpMRoMkDSkJAOHYNlepgap/qmyRyxUoen+X3HqPa0C/KXH8ZadshxzdjCKUYw8q45+/JDYzYMdhYz8WIOOLScR+eW3wB8hPpxmfDhm/3aeslamLJietm1V63TEIsLHJkt1iJY2olEomM37wzUQcFiovoKKMd4ig++LwuL9V9BZvbyw/GnesbC2ukD7wTHpvOm5AwUTPP7Imb1Moit11hY4vDUVjvtLksWzCOHUfEJsO4tDVwSQYohxpG8tzsbqQxsnEbHDAG78e9SU+nCz0ZJByq3KTIwJDkg2qcg=;BN5TAZ/zui5gDV5iPBhiWg=="
 ---
 

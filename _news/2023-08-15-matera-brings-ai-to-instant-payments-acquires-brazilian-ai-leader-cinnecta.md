@@ -33,6 +33,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Matera Brings Ai To Instant Payments, Acquires Brazilian Ai Leader Cinnecta"
+    excerpt: "Company will develop innovative new products and services tailored to financial institutions, credit card companies and consumers ATLANTA–"
+    publishedDateTime: 2023-08-16T04:28:00Z
+    webUrl: "https://menafn.com/1106865272/Matera-Brings-Ai-To-Instant-Payments-Acquires-Brazilian-Ai-Leader-Cinnecta"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 17
 
 secured: "NPLTjwuAjl8Vbe3ugLa7wkG97uGQ7DpZNwBx3Dpa9VGqwnsi0Jee3TsDbelumVJGticN3dQG3ZlASIkIiFoUjzPLHGpwxB4z59xwjrMPoO3IPRKRkt0W9aaMUbhUHYPLxukEHFsdeiY4BKu9LG+MLyrvzbjnfsG9vdLbZR7Oofk460gDOjyCTswQu9LWK1ES5nHAv+2AtuzdW18gJb0nr8AAEk5RVLLfXUm7NQLwcLiMjpVz8zR2jbx5AElIAWpqdS/3GwVNB9C3LErrRgLi6N1flnG4ZG0E2OHF/YA0o8zCTG1CQ39MRFY12h8YVERUBkuPfnQH55Z34T5urhx9ndhut1QB081C3fJl62ql5z4=;NWGjoTt5MKJuEBX1hBvNqg=="
 ---

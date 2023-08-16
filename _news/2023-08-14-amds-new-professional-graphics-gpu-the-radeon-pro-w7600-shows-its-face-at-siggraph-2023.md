@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/92850/amds-new-professional-graphic
 webUrl: "https://www.tweaktown.com/news/92850/amds-new-professional-graphics-gpu-the-radeon-pro-w7600-shows-its-face-at-siggraph-2023/index.html"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1500
     height: 1050
     isCached: true
-
-related:
-  - title: "AMD Radeon RX 7600 review: a GPU with nothing new"
-    excerpt: "In the Radeon RX 7600, AMD finally have an affordable graphics card with RDNA 3 tech. Sadly, it will need more than"
-    publishedDateTime: 2023-08-11T14:52:00Z
-    webUrl: "https://www.rockpapershotgun.com/amd-radeon-rx-7600-review"
-    type: article
-    provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
-    quality: 39
-    images:
-      - url: "https://assetsio.reedpopcdn.com/AMD-Radeon-RX-7600-review.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "VyrqGmLUQtuJkNb+72Z/GOf62NttM3Jl2Hsp9P/Ky4axh5Wl6y5x/fwgHlJWK7Wx4ZFxwkPvrZxFmVJyCzwNAsjALBvOyryAkyYa2BxoTrR1WvysjjKZu37VB7df0o08BMlzr9Vte/WpTLO8m42Yl+hS1uVVgpIPIV0mH1be8Z+RpMAUAeYpPkaYc47CBUUQOt9wtxveAuq8Tp4yBHLM6km5PrP62KzNiOTHCcUo0CI9QLkR0rUIwdnrSeZyXA9Y7SKLNkiJofFkH4Tu6O/O9C9w/sNeW6avK2QKVoZHo/8P4z7Z4+pU3sR0oUHUNJ1uyoFr8P/Vl4zYufH0HbKj4cveDDfXW2FXy1a2D82qv4uXIjX7Ps4HZKc+MwXTOk5lSpRwiajAvZ5r9r2PS6e84o543yNk9SO3CC26z68SJAMluTINIvC7zkYllg+2NrQFVDe7bZPVuZO9sebci5lN4u6o7SMai+KohoRWzNdSzm/JFg90AHHXFQv0JozapI41EDyZWogePlbbUJVaXIcJaw==;pRv3gIplZwv8EUzDMkyX/A=="
 ---

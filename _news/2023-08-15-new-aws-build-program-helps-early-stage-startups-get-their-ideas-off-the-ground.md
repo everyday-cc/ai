@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Amazon Web Services launch of AWS Build Program to Help Early-Stage Startups in their cloud journey"
+    excerpt: "Amazon Web Services launch of AWS Build Program to Help Early-Stage Startups in their cloud journey - Amazon Web Services recently announced the launch of AWS Build, a new global program designed to"
+    publishedDateTime: 2023-08-16T04:56:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/amazon-web-services-launch-of-aws-build-program-to-help-earlystage-startups-in-their-cloud-journey-nid-224744-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 20
   - title: "New AWS Build Program helps early-stage startups get ideas off the ground"
     excerpt: "The 10-week program will provide early-stage startups with business and technical guidance to successfully launch their applications in the AWS"
     publishedDateTime: 2023-08-14T08:35:00Z

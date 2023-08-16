@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI in the financial industry: Machine learning in banking"
+    excerpt: "UK financial services firms saw a 72% rise in the use of ML applications; what does this mean for the future of AI in the financial industry?"
+    publishedDateTime: 2023-08-15T12:35:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-in-the-financial-industry-machine-learning-in-banking/165122/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 71
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/08/iStock-1390124637-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "How new AI demands are fueling the data center industry in the post-cloud era"
     excerpt: "Builders, investors and users will benefit from flexible data center infrastructure strategies that can harness AI and foster growth."
     publishedDateTime: 2023-08-13T15:19:00Z
@@ -48,20 +62,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_artificial_intelligence_and_technology_putting_pressure_1ace7081-0d3c-4538-8525-4aeb0eb8b527.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Pagaya rallies as AI fintech sees stronger than expected quarter"
-    excerpt: "Pagaya Technologies delivered solid 2Q results that showcased an improving financial position for the artificial intelligence infrastructure firm. The"
-    publishedDateTime: 2023-08-11T12:48:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1023275/pagaya-rallies-as-ai-fintech-sees-stronger-than-expected-quarter-1023275.html?region=ca"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 39
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC8yMDIzLTA4LTExLTA5LTUxLTQ2LTZjNDU5NzAxNjg5NmEyODk5MjIyODdjYTA5ZGYxZjlmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 630
         isCached: true
   - title: "Fintech Summit to highlight banking industry innovation"
     excerpt: "Global leaders in technology and banking are returning to Little Rock this week for two days of speed-dating-like meetings and open sessions that connect bankers with financial technology companies offering innovative services."
@@ -97,20 +97,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 36
-  - title: "Fintech ForwardLane Introduces Generative AI Platform to Streamline Financial Services"
-    excerpt: "ForwardLane, the provider of AI-powered intelligence solutions, announces the launch of its new generative decision intelligence platform EMERGE."
-    publishedDateTime: 2023-08-11T15:12:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/211268-fintech-forwardlane-introduces-generative-ai-platform-to-streamline-financial-services/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 31
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Abe-Lincoln-Eyes-Watch-Look-Dollar-Money.jpeg"
-        width: 1280
-        height: 724
-        isCached: true
   - title: "Fintech’s Trek To Trillions"
     excerpt: "“People can get in trouble if they use it incorrectly, especially if that AI violates compliance issues. … You want to partner with fintech who makes your workflow easier. If you try to fully digitize something as big as a home purchase, it’s not ..."
     publishedDateTime: 2023-08-14T15:52:00Z
@@ -124,6 +110,20 @@ related:
       - url: "https://nationalmortgageprofessional.com/sites/default/files/2023-08/iStock-1126669376%20web.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Future of Fintech in the Middle East 2023: Are we entering a new era?"
+    excerpt: "This is an excerpt from The Future of Fintech in the Middle East 2023 report. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
+    publishedDateTime: 2023-08-16T09:16:00Z
+    webUrl: "https://www.finextra.com/the-long-read/760/future-of-fintech-in-the-middle-east-2023-are-we-entering-a-new-era"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/760.jpg"
+        width: 799
+        height: 449
         isCached: true
   - title: "Fintechs experiment with generative AI, but development is slow going"
     excerpt: "The firms are increasingly seeking to integrate generative artificial intelligence into their products, and banks are potentially interested customers. But such efforts are costly, the risks are high,"
@@ -143,15 +143,24 @@ related:
       name: Traders Magazine
       domain: tradersmagazine.com
     quality: 19
-  - title: "Empowering Financial Decisions: The Role of Fintech Software Development"
-    excerpt: "Finance - In today's fast-paced, digital world, the way we approach finance is evolving rapidly. No longer bound by the traditional confines of brick-and-mortar"
-    publishedDateTime: 2023-08-11T11:50:00Z
-    webUrl: "https://business-review.eu/money/finance/empowering-financial-decisions-the-role-of-fintech-software-development-250164"
+  - title: "Exploring the Future of Fintech: AI and Blockchain Transforming Financial Services"
+    excerpt: "The Fintech industry is experiencing rapid evolution, driven by emerging technologies and changing consumer needs. In a conversation with Karthik Thenkarai, Co-founder and Director of Paycorp.io, we d"
+    publishedDateTime: 2023-08-16T06:28:00Z
+    webUrl: "https://www.pcquest.com/exploring-the-future-of-fintech-ai-and-blockchain-transforming-financial-services/"
     type: article
     provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 3
+      name: PCQuest
+      domain: pcquest.com
+    quality: 13
+  - title: "Legislation needs to play catch up with fintech"
+    excerpt: "A comprehensive legislative and regulatory framework exclusively for fintech may be the need of the hour."
+    publishedDateTime: 2023-08-16T00:16:00Z
+    webUrl: "https://www.deccanherald.com/opinion/legislation-needs-to-play-catch-up-with-fintech-2649234"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 4
 
 secured: "izyZWlQpb4KmV2sQ0c+HpseYk6if9mTWXQ+uEsqd9LKOoB3Iton48HnEiT9zRuvOmpUUKiR4WVUVGjkt9dvdZpmc6QqORrulKSja/U2Xj2dqR/MWckl5MHaYDLwXak9pxxOdtPv64EHEpISbBCiQhSyGP8DYqtOvlDjsZq+xukPwx5A8SboW8yk9JY6NRwR5hoi/opycuVm9XuuwQjNsOQvawnx9UhJHRx5hiS6QhW8HiaZ6FG/znEHSeeokE9M7XjlasRo3qWvbM80ogRXgKkbDtoHhBE4d4twxTk1fx4DeTVdxUXFqAXV2hfNV5CScAtJtMo9gf0ggCdZnu8GpmX9ys+PbTVFAa6lhBopkBMuzQiF65hCpVoo3fiJ8DBWMOk/IbRCwUcerKR7oV1T16nqmmIdPlhsgFZRPy14Zg+R8Et9yevUH8uof07QjFmh5tgms276NnG3IczQjX90mhvjsC8g8MQUSpe+60nVoTSb84KrIE6uwcnvmzidPdkqbkao/m/OTIQ91cxOQvNFZIw==;APGFWUkivDzawyn59QGtGw=="
 ---
