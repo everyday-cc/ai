@@ -42,6 +42,20 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "The Role Of Technology And Artificial Intelligence In Healthcare"
+    excerpt: "On the season 9 finale of NDTV-Dettol Banega Swasth India, experts discuss a pressing issue - the role of technology and artificial intelligence (AI) in healthcare and if it can take over humans in the healthcare industry."
+    publishedDateTime: 2023-08-15T15:41:00Z
+    webUrl: "https://www.ndtv.com/video/news/banega-swasth-india/the-role-of-technology-and-artificial-intelligence-in-healthcare-717786"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 54
+    images:
+      - url: "https://c.ndtvimg.com/2023-08/ahnjetto_banega-swasth-india_160x120_15_August_23.jpg"
+        width: 650
+        height: 364
+        isCached: true
 
 secured: "gx6bkWDJhoqgrsnBYX0mXIqd1M2UUsRfrc0i/zIVC6a45u1TcTrfFyVi/0eCtHyiSfc5PxnlEzzS6X2jpia9Keao8Mrln3fHbUVpODikXH3YHIilFqJXAaOQVSfPI4opz8Rsm/UbnoSx0KyZz0ODyPBK6+y9OcpWwmOYBBHrNn+BiLvCPvMMuHp4ggR4Ordb4iCnmuCfiwKmt0x9e+odW+N6kOqhasBZ61kecv6ITlaipr6b3IBkem4ILs19caDFMeVO5mFR70Ht6lHXlie6VFq/msSiOc8HOKtu6PDGAF4sQaAFBK/9k2MCa7Ek2Y3aI1rBF7SA4+U75LbEXj6wdH4z+XBAzqLRvO908yRchLaF6clZbHPIOF0ShRSP9/njV0yliAmJhC1veMUTP2+vQ6/PVQTmDiKxDFTXBXaNxZYHLxJkqzz9tN/ry8pgXfd0lU5Xss6ktcYKR2JylEEJgOAUFvlSdfndh3Aahg33nIMK8inLWFh8XvW6HW3M3CadjCWcA0psexEGVby5PBFd+Q==;I4ZKPnbOuxjD6CXt0GQchw=="
 ---

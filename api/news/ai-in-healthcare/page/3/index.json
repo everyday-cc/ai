@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-18-seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration.md",
+      "title": "Seeing The Future: Artificial Intelligence For Age-Related Macular Degeneration",
+      "excerpt": "With recent advances in artificial intelligence (AI) and machine learning, healthcare providers can now effectively screen patients for age-related macular degeneration. iHealthScreen develops AI and machine learning-based diagnostic systems for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/",
+      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b577f192d2c76251248079/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/amp/",
+      "publishedDateTime": "2023-07-17T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.md",
       "title": "Artificial intelligence can detect 'sextortion' before it happens and help FBI: expert",
       "excerpt": "Yaron Litwin, executive of AI-powered company Canopy, explains how \"AI can be used for good\" in an ongoing chess match with criminals using deepfakes in sextortion scams.",
@@ -1344,49 +1397,6 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-building-resilient-healthcare-supply-chains.md",
-      "title": "Building resilient healthcare supply chains",
-      "excerpt": "Find out how the healthcare industry can address shortages, delays, rising costs, tight regulations and more with resilient supply chains.\nThe post Building resilient healthcare supply chains appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/building-resilient-healthcare-supply-chains/",
-      "originalUrl": "https://www.ibm.com/blog/building-resilient-healthcare-supply-chains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI in Healthcare"
       ]
     }

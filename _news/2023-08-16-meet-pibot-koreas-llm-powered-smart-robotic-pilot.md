@@ -24,6 +24,22 @@ images:
     height: 1080
     isCached: true
 
-secured: "h+pAh7sVOlM8kfnoCZDAuRhCpRw3FHnfoGKGkkxmf8l76wt7OUBNOqrFDTxfkLWkUBZrvzHG8/I6m2bMwn4681RoX9m+Veq5PyFcROTOK8wAz1PHlOqBu7hHwtuDFUfI5ejYm1JBAQLZQEsE31ViZpjhO0IFLZQ0/euwL7eGxYIUXUMLigtEhY9o+Mq4YL0GJPZ7Tlkm2MetfIglE3gjSRN5vpCLdBlEkTaBI9AVXQxG6Oe0YB7x5IBa2W3bwcgDCqRnWJ+rNDMbkQdk5JZRbZ2+U6ih4wjflTL/p5r+B90A/cN8sxZS1f9r3DO10MHtteZgdIUBHRjEGzs4o2OAWznnL+2mBh3+lSQHCfcB9xA=;GsLuS6LH8sdUbW91GJ2WLw=="
+related:
+  - title: "Meet Pibot, The Humanoid Robot That Can Fly An Aeroplane Just Like A Human Pilot [Video]"
+    excerpt: "A team of engineers and researchers from the Korea Advanced Institute of Science & Technology (KAIST) is currently developing a humanoid robot that can fly aeroplanes without the need to modify the cockpit."
+    publishedDateTime: 2023-08-16T11:28:00Z
+    webUrl: "https://www.2oceansvibe.com/2023/08/16/meet-pibot-the-humanoid-robot-that-can-fly-an-aeroplane-just-like-a-human-pilot-video/"
+    type: article
+    provider:
+      name: 2oceansvibe.com
+      domain: 2oceansvibe.com
+    quality: 30
+    images:
+      - url: "https://media.2oceansvibe.com/wp-content/uploads/2023/08/sddefault-1.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
+secured: "TtzZ9eSw/2fXxLYx2+Qeik8pFgkF9E6P/8SbcSLBCfJu6mbb88/hzR2wZ6pQxy74/c4414kRkX1TL62bq3hMsHDnB6ZsNOW66pZGW3X/5jYS6Iwh3NwBx7VLbZTQ/b8CMIVb+/Oe/V4EVcGSRBJQZJst0T2YWUmzA/0OLxw+/st+8JekBfK6rv1IUz75wg4THON3l1gEZ34IOQIEw0Vd04MNvy5n3UfcvU7Fxgc88U8fFP/ef0krcUUdhPmbWgopynGcid3BbyQSTqXM47yuZBb4xLvTx8G+/PKWMdmD58g/KoHF6z1cs7zTfHKBF9mFvWU/yhEpflqMcfyiCpJXQKqQNc9en+hwZIPAjJolBltz/ymwPyYkyzW/y2v1hvp/G8OGrVn7JHz1MEdTjiJUur47I8Ow20u5PNEzBo2JIH33bj7vTGiZ1w6aZbWAJAzOd7mAEL8IjHlolpW+XZhvS0DKDTXrQgCMh7k94AYMAhDzKSZM9wwytwnsqQdEKBqugwtp/MB1HoZRnbTBur25Bg==;3dRSeh3XNx4/34Hi8XLXhA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-10-deepmind-founder-says-governments-need-to-compensate-serious-number-of-losers-who-will-be-left-jobless-due-to-ai.md",
+      "title": "DeepMind founder says governments need to compensate 'serious number of losers' who will be left jobless due to AI",
+      "excerpt": "A co-founder of the AI company DeepMind has warned that governments will need to figure out a plan to compensate people who will lose their jobs to the new technology, the Financial Times reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5",
+      "originalUrl": "https://www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/645b735f65a21600192fe3fd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5?amp",
+      "publishedDateTime": "2023-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-ai-will-create-a-serious-number-of-losers-warns-deepmind-co-founder.md",
       "title": "AI will create ‘a serious number of losers’, warns DeepMind co-founder",
       "excerpt": "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology.",
@@ -1341,49 +1393,6 @@
       "provider": {
         "name": "The Tech Report",
         "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-google-merges-deepmind-brain-research-units-as-ai-race-intensifies.md",
-      "title": "Google merges DeepMind, Brain research units as AI race intensifies",
-      "excerpt": "Alphabet's Google has consolidated its artificial intelligence research groups into one unit, the company's latest move to keep from falling behind in the AI race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.spokesman.com/stories/2023/apr/20/google-merges-deepmind-brain-research-units-as-ai-/",
-      "originalUrl": "https://www.spokesman.com/stories/2023/apr/20/google-merges-deepmind-brain-research-units-as-ai-/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumb.spokesman.com/t_depzN6zkvzsRU5yQuxuPPRMZI=/1200x630/smart/media.spokesman.com/photos/2023/04/20/6441c3f85adda.hires.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T17:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spokesman-Review",
-        "domain": "spokesman.com",
         "images": null,
         "publishers": null,
         "authors": null

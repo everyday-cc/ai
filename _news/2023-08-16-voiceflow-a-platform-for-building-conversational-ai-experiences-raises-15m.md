@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/15/voiceflow-a-platform-for-building-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/15/voiceflow-a-platform-for-building-conversational-ai-experiences-raises-15m/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -39,6 +39,17 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "DynamoFL raises $15.1 million in Series A to scale privacy-focused generative AI for enterprises"
+    excerpt: "Privacy-solutions provider for generative AI space DynamoFL, has raised $15.1 million as part of a fresh funding round, co-led by existing investor Nexus Venture Partners and Canapi Ventures."
+    publishedDateTime: 2023-08-16T14:03:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/dynamofl-raises-151-million-in-series-a-to-scale-privacy-focused-generative-ai-for-enterprises/article67201952.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/dynamofl-raises-151-million-in-series-a-to-scale-privacy-focused-generative-ai-for-enterprises/article67201952.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/dynamofl-raises-151-million-in-series-a-to-scale-privacy-focused-generative-ai-for-enterprises/article67201952.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 26
   - title: "AI startup Voiceflow raises $15 million USD to help companies collaborate on customer-service agents"
     excerpt: "Voiceflow raised $24.9 million CAD ($20 million USD) in Series A funding in 2021. In 2019, Voiceflow raised a $4.7 million CAD seed round following its takeover of American competitor Invocable."
     publishedDateTime: 2023-08-15T13:00:00Z

@@ -2,6 +2,375 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-16-train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker.md",
+      "title": "Train self-supervised vision transformers on overhead imagery with Amazon SageMaker",
+      "excerpt": "In this post, we demonstrate how to train self-supervised vision transformers on overhead imagery using Amazon SageMaker. Travelers collaborated with the Amazon Machine Learning Solutions Lab (now known as the Generative AI Innovation Center) to develop this framework to support and enhance aerial imagery",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/24/dino_ben-1260x604.png",
+          "width": 1260,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T09:00:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories.md",
+      "title": "Google Photos will offer AI assist for collaborating on your favorite memories",
+      "excerpt": "With the updated Memories section, users can add or remove specific photos, start a group of their own, rename a group that Google makes, and see their photos in a scrapbook-like layout.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories/",
+      "originalUrl": "https://www.zdnet.com/article/google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/acd7b05c7c968574d109f4b942d7cd8be84b9ad0/2023/08/16/8161436a-4581-4426-a41f-24112694227d/screenshot-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories/",
+      "publishedDateTime": "2023-08-16T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-adobe-express-replaces-design-guesswork-with-ai-text-prompts.md",
+      "title": "Adobe Express Replaces Design Guesswork With AI Text Prompts",
+      "excerpt": "Adobe's all-in-one Express design tool has exited beta and is now available globally with Firefly generative AI built-in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/adobe-express-replaces-design-guesswork-with-ai-text-prompts",
+      "originalUrl": "https://www.pcmag.com/news/adobe-express-replaces-design-guesswork-with-ai-text-prompts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/06Azr9wtaq3iWgutpTnwS1F-1.fit_lim.size_1200x630.v1692197835.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-ncsofts-new-ai-suite-is-trained-to-streamline-game-production.md",
+      "title": "NCSoft's new AI suite is trained to streamline game production",
+      "excerpt": "Korean MMORPG publisher NCSoft has developed four new AI large language models, dubbed VARCO, to help streamline future game development..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html",
+      "originalUrl": "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/TeVUt3.TDftfSQaaHNgPCA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/d553fdd0-3bcd-11ee-bfd7-9a70d50e742c.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai.md",
+      "title": "Exploring the risks and alternatives of ChatGPT: Paving a path to trustworthy AI",
+      "excerpt": "Direct usage of chatbots in an enterprise presents risks and challenges. Learn how to mitigate these risks and establish trustworthy AI.\nThe post Exploring the risks and alternatives of ChatGPT: Paving a path to trustworthy AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/",
+      "originalUrl": "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T07:15:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-6-considerations-to-take-when-approximating-cloud-spend.md",
+      "title": "6 considerations to take when approximating cloud spend",
+      "excerpt": "Six ways organizations can improve their cloud cost management, increase cloud cost optimization and drive as much value from their cloud budgets as possible.\nThe post 6 considerations to take when approximating cloud spend appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/cloud-spend-management/",
+      "originalUrl": "https://www.ibm.com/blog/cloud-spend-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T06:40:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture.md",
+      "title": "How continuous automated red teaming (CART) can help improve your cybersecurity posture",
+      "excerpt": "CART utilizes automation to discover assets, prioritize discoveries and conduct real-world attacks to help improve your cybersecurity posture.\nThe post How continuous automated red teaming (CART) can help improve your cybersecurity posture appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture/",
+      "originalUrl": "https://www.ibm.com/blog/how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T06:09:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-the-future-of-finance-ai-meets-tokenization.md",
+      "title": "The Future of Finance: AI Meets Tokenization",
+      "excerpt": "F ederal Reserve Governor Christopher J. Waller recently gave a speech titled: “Innovations and the Future of Finance,” explicitly focusing on two emerging technologies, namely Tokenization and Artificial Intelligence (AI). He said, “the world is rapidly changing, and we need to be open to the potential benefits of innovation.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization",
+      "originalUrl": "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-ai-powered-efficiency-college-hostel-management-in-emerging-markets.md",
       "title": "AI-Powered Efficiency: College Hostel Management In Emerging Markets",
       "excerpt": "By embracing the power of AI, colleges can cultivate a nurturing environment that combines cutting-edge technology with individualized care.",
@@ -50,6 +419,61 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-the-world-isnt-ready-for-the-next-decade-of-ai.md",
+      "title": "The World Isn’t Ready for the Next Decade of AI",
+      "excerpt": "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
+      "originalUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI",
+        "Google AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -155,7 +579,7 @@
       "originalUrl": "https://menafn.com/1106864884/Wcm-Q-Discusses-Legal-Ethical-Issues-Of-Generative-Ai-In-Healthcare",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -199,7 +623,7 @@
       "originalUrl": "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -251,7 +675,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -440,7 +864,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/15/voiceflow-a-platform-for-building-conversational-ai-experiences-raises-15m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -542,7 +966,7 @@
       "originalUrl": "https://www.techrepublic.com/article/def-con-hackers-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -733,58 +1157,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-15-intelligent-video-and-audio-qa-with-multilingual-support-using-llms-on-amazon-sagemaker.md",
-      "title": "Intelligent video and audio Q&A with multilingual support using LLMs on Amazon SageMaker",
-      "excerpt": "Digital assets are vital visual representations of products, services, culture, and brand identity for businesses in an increasingly digital world. Digital assets, together with recorded user behavior, can facilitate customer engagement by offering interactive and personalized experiences, allowing companies",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligent-video-and-audio-qa-with-multilingual-support-using-llms-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligent-video-and-audio-qa-with-multilingual-support-using-llms-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/15/intelligent-video-sagemaker-1260x630.jpg",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T08:14:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-15-sex-in-self-driving-cars-passengers-are-reportedly-hooking-up-in-san-franciscos-driverless-taxis.md",
       "title": "Sex in self-driving cars: Passengers are reportedly hooking up in San Francisco's driverless taxis",
       "excerpt": "People are reportedly having sex during their driverless taxi rides in Cruise vehicles, despite company rules against \"inappropriate behavior.\"",
@@ -793,7 +1165,7 @@
       "originalUrl": "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -833,404 +1205,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-suzhou-universal-chain-technologys-digital-reshaping-with-ibm-hybrid-cloud-and-ai-software.md",
-      "title": "Suzhou Universal Chain Technology’s digital reshaping with IBM hybrid cloud and AI software",
-      "excerpt": "A look at the development of Suzhou Universal Chain’s enterprise application integration platform and business process automation management platform.\nThe post Suzhou Universal Chain Technology’s digital reshaping with IBM hybrid cloud and AI software appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/suzhou-universal-chain-technologys-digital-reshaping-with-ibm-hybrid-cloud-and-ai-software/",
-      "originalUrl": "https://www.ibm.com/blog/suzhou-universal-chain-technologys-digital-reshaping-with-ibm-hybrid-cloud-and-ai-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T07:19:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work.md",
-      "title": "Browse AI help companies build bots to scrape website data and put it to work",
-      "excerpt": "Enter Browse AI, an early stage startup that has developed an automated solution to scrape information from websites and move it into a spreadsheet or API for further processing. Today, the company announced a $2.8 million seed investment. Browse AI CEO ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/",
-      "originalUrl": "https://techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1410263547.jpg?resize=1200,862",
-          "width": 1200,
-          "height": 862,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/amp/",
-      "publishedDateTime": "2023-08-15T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-data-quality-for-good-ai-outcomes.md",
-      "title": "Data Quality For Good AI Outcomes",
-      "excerpt": "In today’s rapidly transforming world, Data has emerged as a key enabler for dealing with current business challenges and future opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/08/15/data-quality-for-good-ai-outcomes/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/08/15/data-quality-for-good-ai-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64da3876ff89ccf482635ebe/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/08/15/data-quality-for-good-ai-outcomes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/15/data-quality-for-good-ai-outcomes/amp/",
-      "publishedDateTime": "2023-08-15T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-software-engineers-could-get-30-time-back-thanks-to-generative-ai.md",
-      "title": "Software Engineers Could Get 30% Time Back Thanks To Generative AI",
-      "excerpt": "Generative AI has the potential to automate between 60% to 70% of the work that most of us engage in every day. But for many knowledge workers, generative AI tools are likely to help take back time spent on administrative tasks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/software-engineers-could-get-time-back-thanks-to-generative-ai/",
-      "originalUrl": "https://www.techrepublic.com/article/software-engineers-could-get-time-back-thanks-to-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-ai-is-more-artificial-than-intelligent.md",
-      "title": "AI Is More ‘Artificial’ Than ‘Intelligent’",
-      "excerpt": "AI has already demonstrated that it can improve productivity, but is it also the ultimate disruptor that can threaten our very existence? Some experts think it will take years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/investor/2023/08/15/ai-is-more-artificial-than-intelligent/",
-      "originalUrl": "https://www.forbes.com/sites/investor/2023/08/15/ai-is-more-artificial-than-intelligent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64db7d498cd8bf5f77635f1e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/investor/2023/08/15/ai-is-more-artificial-than-intelligent/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2023/08/15/ai-is-more-artificial-than-intelligent/amp/",
-      "publishedDateTime": "2023-08-15T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-debunking-observability-myths-part-4-observability-is-always-expensive.md",
-      "title": "Debunking observability myths – Part 4: Observability is always expensive",
-      "excerpt": "In this article, we will focus on the misconception that “observability is always expensive.” \nThe post Debunking observability myths – Part 4: Observability is always expensive appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/debunking-observability-myths-part-4-observability-is-always-expensive/",
-      "originalUrl": "https://www.ibm.com/blog/debunking-observability-myths-part-4-observability-is-always-expensive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T06:02:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant.md",
-      "title": "Has AI Robotics Revolution Met Its ChatGPT Moment? A Conversation With Peter Chen, Co-Founder Of Covariant",
-      "excerpt": "In a year marked by massive leaps in technology change, Covariant has created an adaptable AI that thrives in an environment characterized by unpredictability and imbue robots with the capacity to conquer novel challenges with precision and autonomy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64db6a9e8cd8bf5f77635ef0/0x0.jpg?format=jpg&crop=640,361,x0,y29,safe&width=1200",
-          "width": 640,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/",
-      "publishedDateTime": "2023-08-15T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-shaping-the-ai-future-a-shared-journey.md",
-      "title": "Shaping The AI Future: A Shared Journey",
-      "excerpt": "AI isn't just about flashy robots or an elevated gaming experience. It's about a transformative force that's currently driving a shift in social norms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b57b0a819d2bc95e95e410/0x0.jpg?format=jpg&crop=2440,1373,x0,y126,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/amp/",
-      "publishedDateTime": "2023-08-15T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

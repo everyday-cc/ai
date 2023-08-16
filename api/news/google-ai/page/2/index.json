@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-14-meet-team-xai-musks-latest-brainchild-boasts-heavyweight-lineup-from-deepmind-openai-google.md",
+      "title": "Meet Team xAI: Musk's Latest Brainchild Boasts Heavyweight Lineup From DeepMind, OpenAI, Google",
+      "excerpt": "Tech billionaire Elon Musk has unveiled his latest venture, xAI, featuring a dream team of 12 co-founders recruited from industry giants like DeepMind, OpenAI, Google, and Microsoft.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/07/33213851/meet-team-xai-musks-latest-brainchild-boasts-heavyweight-lineup-from-deepmind-openai-google",
+      "originalUrl": "https://www.benzinga.com/news/23/07/33213851/meet-team-xai-musks-latest-brainchild-boasts-heavyweight-lineup-from-deepmind-openai-google",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-introducing-notebooklm.md",
       "title": "Introducing NotebookLM",
       "excerpt": "We’re rolling out NotebookLM, an experimental offering from Google Labs to summarize information, complex ideas and brainstorm new connections.",
@@ -1392,58 +1426,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-8-ways-google-lens-can-help-make-your-life-easier.md",
-      "title": "8 ways Google Lens can help make your life easier",
-      "excerpt": "Lens makes it easy to search what you see and explore the world around you — including the new ability to search for skin conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/google-lens/google-lens-features/",
-      "originalUrl": "https://blog.google/products/google-lens/google-lens-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/lens_update_hero.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/google-lens/google-lens-features/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-lens/google-lens-features/amp/",
-      "publishedDateTime": "2023-06-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

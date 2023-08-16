@@ -60,6 +60,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
+  - title: "The Key People Driving Meta’s Generative AI Work"
+    excerpt: "As Meta Platforms has tried to cut costs and trim headcount over the past year, one area has emerged as an exception: generative artificial intelligence. Caught flat-footed by the explosion of interest in OpenAI’s ChatGPT,"
+    publishedDateTime: 2023-08-16T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/the-key-people-driving-metas-generative-ai-work"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 19
 
 secured: "iQUoAu8HLibh+E5o+aNQuDHFoLM/QJOgpCzm5ocxehQHcx9EzKGSONT6af31UqgCnX9ce9I5owpwMS7+gXM0RYokUD12GqPD3N/Rr1DcyiaPu86Ovfth+8t5RBErED3aMz5w+jLx8UthNqfre+WSlLb1qMMtyAplNEf1jk/6XRiSa0c5whxgPoTY2/XhmDkOlsC/xPke363Nf5d5WQpT9RNiU0u1yewoq2Tsr2809JY/bod85W9b4o6It98+WtIeeIp+oyVBFGepzH4PE7eZNJ+cw1Zpttn2BFXU8Kk5s45zXpeUy+OYxWQxCSL1WcLd+t5bu7ML6sS4OQdf9Nf8zQXrjOQ3LnCAvwAh/SZ4m1cW1KlwBTPiyc7P/fw/rhFS3nOFB5M7/PTBIxNxYq1SfCqua9xzYeoH7yzTJm+ZRWISq/dFNJhFAgWdT2Dm/diWv3YqEcaUFcl83vo35PeTSmddFOt95A42a9v70SUXcq4NcJVzJ1e622HyTp7Gnp61al55xZ31SQH/uznPIYrbWQ==;KjOvFVknK1oPOl3lJwOw4Q=="
 ---

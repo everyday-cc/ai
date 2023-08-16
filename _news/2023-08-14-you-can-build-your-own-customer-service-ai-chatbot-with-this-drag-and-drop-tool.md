@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-build-your-own-cust
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-build-your-own-customer-service-ai-chatbot-with-this-drag-and-drop-tool/"
 type: article
 quality: 83
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       - url: "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/by_year_month/2023-august/ascott_ai.jpg?auto_optimize=medium"
         width: 800
         height: 450
+        isCached: true
+  - title: "Google’s working beyond Bard to evolve the AI chatbot market"
+    excerpt: "Google may be stumbling out of the gate a bit with its latest large language model chat bot Bard, but it looks like the company may already be looking for a"
+    publishedDateTime: 2023-08-16T14:33:00Z
+    webUrl: "https://www.onmsft.com/news/googles-working-beyond-bard-to-evolve-the-ai-chatbot-market/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/maxresdefault.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Rise of the chatbots: How artificial intelligence could shape the future of crime"
     excerpt: "I am here to kill the Queen, a man wearing a handmade metal mask and holding a loaded crossbow tells an armed police officer as he is confronted near her private residence within the grounds of Windsor Castle."

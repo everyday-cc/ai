@@ -19,6 +19,17 @@ topics:
   - AI
   - AI in Healthcare
 
+related:
+  - title: "Deep Learning Tool May Support Personalized Cancer Care"
+    excerpt: "Johns Hopkins researchers have developed a deep learning method to predict cancer-related protein fragments that trigger tumor cell-killing immune responses."
+    publishedDateTime: 2023-08-16T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/deep-learning-tool-may-support-personalized-cancer-care"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
+
 secured: "WnO++7HTgukrD1m7lAZ0lo7twKcYnEkFCBAahLhqE+4+/h8map3oe7aELePLrQS+lMg4iGwbq0p76JPcj7INNQEv3yDd9L2p0AiEGqjVjjW0cKJPnU6XwHUIgo6lLi4SP7dEMu8GhrNHyWkp6XpYwITLPrXiwkn+tm23bPW4T4/dPXZV3iosC7hcSN6awIcQAArjdBvrp3qbVks1aH2zLZZ4mqOHAC4+zCB8u+UeoVYmXR+zpuawbNMld/qWPC3b2cxB+cGBLypEx7vZyzz+NlPaq0cy6WsL9YcDdbvJFoMKoljchGUpiwpysrSPB41Pov2McUGCWGskkyWY5CuUWtQuccAFfA0fraaUQCszJrs=;W4LUwKvvUuwu46mg1wFbaQ=="
 ---
 

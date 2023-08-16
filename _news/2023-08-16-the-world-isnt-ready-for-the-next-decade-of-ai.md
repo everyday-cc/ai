@@ -6,9 +6,9 @@ publishedDateTime: 2023-08-16T10:59:00Z
 originalUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
 webUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
 type: article
-quality: 71
-heat: -1
-published: false
+quality: 75
+heat: 105
+published: true
 
 provider:
   name: Wired
@@ -22,6 +22,8 @@ topics:
   - AI in Healthcare
   - AI
   - Facebook AI
+  - Google AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg"
@@ -46,35 +48,25 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Boston Dynamics wants to change the world with its state-of-the-art robots"
-    excerpt: "CEO Robert Playter dispels worries about the potential harm robots could inflict and thinks they will empower people instead of displacing them."
-    publishedDateTime: 2023-08-15T16:51:00Z
-    webUrl: "https://www.strategy-business.com/article/Boston-Dynamics-wants-to-change-the-world-with-its-state-of-the-art-robots"
+  - title: "The Reality of Artificial Intelligence in the Family Office Realm"
+    excerpt: "Across industries, professionals are talking about the opportunity and utility of artificial intelligence (AI). In the estate planning and family office realms, two fields that require a distinctly hu"
+    publishedDateTime: 2023-08-15T19:17:00Z
+    webUrl: "https://www.natlawreview.com/article/reality-artificial-intelligence-family-office-realm"
     type: article
     provider:
-      name: Strategy+Business
-      domain: strategy-business.com
-    quality: 37
-    images:
-      - url: "https://www.strategy-business.com/media/image/44771186b_thumb5_690x400.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "Many experts believe AI chatbots like ChatGPT are here to stay. So how can they fit into the academic world? We looked for answers."
-    excerpt: "With the start of the school year just around the corner, educators acknowledge that programs like ChatGPT are already a presence on the academic landscape."
-    publishedDateTime: 2023-08-12T18:03:00Z
-    webUrl: "https://kstp.com/kstp-news/top-news/many-experts-believe-ai-chatbots-like-chatgpt-are-here-to-stay-so-how-can-they-fit-into-the-academic-world-we-looked-for-answers/"
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 21
+  - title: "Japanese AI Advances Offer Lessons for the Rest of the World"
+    excerpt: "Countries around the world should take notes from Japan's forward-looking AI approach, which balances innovation, rationality, and regulation."
+    publishedDateTime: 2023-08-15T10:00:00Z
+    webUrl: "https://www.aei.org/technology-and-innovation/japanese-ai-advances-offer-lessons-for-the-rest-of-the-world/"
     type: article
     provider:
-      name: KSTP-TV
-      domain: kstp.com
-    quality: 7
-    images:
-      - url: "https://kstp.com/wp-content/uploads/2023/02/CHATGPT-EXPLAINER_PKG_00.01.04.52.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
 
-secured: "UVmF0IId64qQD6Yba+ao+UyrahejHIzbb8ol2cCkZMiBHXUDTyazTI0Hg0AUoVyzuEzy0gW5LOCmKgOdK33bBcKzsgJVcIL9y8g7fUZ+EmNJdsHaIZWW7sjFQNSl1Vr5EWXsR9xwpDDYFkmFMJYXkxpB+IngLh8+n/6JctJvRlcHKG+YYvybxcV0UjsvJV1KY/AoSX+NWO77RPVo1YIEcv2TFc5S/SIzbyIMByc0/p6g6kOJYXlUnTdylzMHyZDgzj2TfGc80Gz0azusmPO3KeocvPaB6MyZnI4KTj41UDgECJdN73CAFKru5yMDCXpKPmOI48mTVSDJCeMyj1VkqBB4NTkf1H/uUM7tWuWatDg=;2zq3BuCc+a5jtH51csbN3A=="
+secured: "/H0mbC4WjAsSnMTgr/0Lpdq+3V6qLbpBHxQE2dqajF7oR5HmDdWDY92C+3gO58U7kBgRY3NqwuL4PlYpIiAf0sUnlet6Mh68meQ6l55AS0Uz4V4yio5fGY9JQ+IRHAU0C5sSWpfxYjPAGputUkJYr9VvjL5OEVpx2QXnaF2xl458oVI2XT68cVfojbP4XUC4aMWYds1NZRuge3clbvosz5g5ViAqF8PwiJt8sweqTnmZhC3qOyULnt7bGmdp35AWyG1WkJxPQxkYm0NQDqIPnrOu1hG43jtulkS+3cTP1JbCnVy+KBYSS7jZ2Ya6xeQtQ8m00vKl+vRrnJmSKK+lLVMaZgk8cTfjd/223oeIUgoZZkjWMMOH8ACR+dw4YdzImgpP1MicsuzOCE8diCUqutGNOjOZ38PGIsmLbLBoQ9APEm0nA1JKPG7YIhNbTQWr8shKYaS1yQpF9OaA6kM+7JrgQCZZzRaUsW+4A0jQenZg2Qf9OpVX93+FSCi3GcvraYlPTRx4xKYTH2O3MGTVPA==;v9avARHBc37zTjPatbgDTA=="
 ---
 

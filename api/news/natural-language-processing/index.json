@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-16-ncsofts-new-ai-suite-is-trained-to-streamline-game-production.md",
+      "title": "NCSoft's new AI suite is trained to streamline game production",
+      "excerpt": "Korean MMORPG publisher NCSoft has developed four new AI large language models, dubbed VARCO, to help streamline future game development..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html",
+      "originalUrl": "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/TeVUt3.TDftfSQaaHNgPCA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/d553fdd0-3bcd-11ee-bfd7-9a70d50e742c.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-the-world-isnt-ready-for-the-next-decade-of-ai.md",
+      "title": "The World Isn’t Ready for the Next Decade of AI",
+      "excerpt": "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
+      "originalUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI",
+        "Google AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant.md",
       "title": "Has AI Robotics Revolution Met Its ChatGPT Moment? A Conversation With Peter Chen, Co-Founder Of Covariant",
       "excerpt": "In a year marked by massive leaps in technology change, Covariant has created an adaptable AI that thrives in an environment characterized by unpredictability and imbue robots with the capacity to conquer novel challenges with precision and autonomy.",
@@ -221,7 +329,7 @@
       "originalUrl": "https://www.rediff.com/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1323,92 +1431,6 @@
       "provider": {
         "name": "CoinTelegraph",
         "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable.md",
-      "title": "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable",
-      "excerpt": "It also helps power automatic translation and transcription services ... parent Meta to offer its customers a smorgasbord of AI language models tailored to their needs. For someone concerned ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.opb.org/article/2023/08/01/chatgpt-ai-hallucinate/",
-      "originalUrl": "https://www.opb.org/article/2023/08/01/chatgpt-ai-hallucinate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/iqROxDJOsVrcvclMj4uVLd0D69o=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/VHYM5RCUK5ERZKJUFZUYTKKYYE.jpg",
-          "width": 767,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.opb.org/article/2023/08/01/chatgpt-ai-hallucinate/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2023/08/01/chatgpt-ai-hallucinate/?outputType=amp",
-      "publishedDateTime": "2023-08-02T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "OPB",
-        "domain": "opb.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-bridging-the-ai-language-problem-why-artificial-intelligence-tools-do-not-work-in-many-languages.md",
-      "title": "Bridging the AI language problem: Why artificial intelligence tools do not work in many languages",
-      "excerpt": "AI tools, from ChatGPT to Google Translate, are useless to billions of people in the Global South who don't work in western languages. Researchers and startups from Africa and other parts of the world are changing that.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/08/AI-Language.png",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
-      "publishedDateTime": "2023-08-02T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

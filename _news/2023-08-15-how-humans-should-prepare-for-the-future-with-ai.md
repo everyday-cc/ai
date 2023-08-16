@@ -51,6 +51,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "The future of artificial intelligence in accessibility"
+    excerpt: "AI is already playing a massive part in our lives, however, what role does artificial intelligence play in accessibility?"
+    publishedDateTime: 2023-08-16T14:14:00Z
+    webUrl: "https://www.openaccessgovernment.org/the-future-of-artificial-intelligence-in-accessibility/165188/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/08/iStock-1270805321-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "mANixYHyZbMLwP08h5ilryXzTvqb12VNKYVPIRq6dm1aFy8XWQ6L0Kyb/Rysg2P+aQk98/ExYhrBZBcgW9LJykmm1FNE8zM+Ed6jrUkNpeNiEtg8ZYudLrH/izNuupZGjpnwL349FzsMBy4GZldI839m8rtKsNY8wHTKGP24eT23iAGdu3XSEnd8esthf3LzlS/ASCi+ewisaxJNrv/+51knT8R13VST1GI+sBy5wdtuJ0iX1qudN61AOpAWTRoKCycUz4d11+4o1BNGLwjxEvSi9HXIDWOGUQe3UOER395YUlLtszpEUUUkZ86yDOFoaXekhDUDiz7kNPz0brSHuaxxlej93M6idnVB0rRJYDUa3QjSBUuOnFEMa+ygN4AYTGSgr2zYVVDtLq0Kz0IrdQvUa8VBSyNq2NxmnZebiPTnqOEv14XX+50xiOYmk8f4UnTyUVl9HWyGueBLUN7et97RBQ/lsDDulDwid1udvSBYi7J8oMTtHUenWrfLUyUb5v9JHeai0vXDAt6Xk95Mqg==;q+uuILLtI9KXL3CR7APo4A=="
 ---

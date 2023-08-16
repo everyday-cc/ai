@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106864884/Wcm-Q-Discusses-Legal-Ethical-Issues
 webUrl: "https://menafn.com/1106864884/Wcm-Q-Discusses-Legal-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
 type: article
 quality: 71
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.eweek.com/wp-content/uploads/2023/08/eSPEAKS-thumbnail.png"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "The Role Of Technology And Artificial Intelligence In Healthcare"
+    excerpt: "On the season 9 finale of NDTV-Dettol Banega Swasth India, experts discuss a pressing issue - the role of technology and artificial intelligence (AI) in healthcare and if it can take over humans in the healthcare industry."
+    publishedDateTime: 2023-08-15T15:41:00Z
+    webUrl: "https://www.ndtv.com/video/news/banega-swasth-india/the-role-of-technology-and-artificial-intelligence-in-healthcare-717786"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 54
+    images:
+      - url: "https://c.ndtvimg.com/2023-08/ahnjetto_banega-swasth-india_160x120_15_August_23.jpg"
+        width: 650
+        height: 364
         isCached: true
 
 secured: "qu1KIzxyplGuXdfeaA8v8wAazG+O827OnnYrWqGsadoUHgdUb40NXsAmfBvdmtPRuKGBafm/EeaPv+AQyJCUmedv9plkAwPSVweRxw4Iii0of8iD6gJhPujfJWvZsgBs5ndOvAe+t6yaEL2LO1CWwJ3cYEMIv61pg9bZQnWJLmuJ8Io4EVmcSxPcjxrlBUbd5tpXFnZvoJWhDZQ771IcELS4Zi1BdRzipvlilcH8JIxt0TfsLlUlETzaBEDhYceeekBUDy8KXfSK4lFayq6k4xRyWGXMb0OUylN/IPNFxsRMkmTdlO4cL8F7iIIunfBBJOqK/bPfN9Ha0NjVQ6X9MO8TdNipStyyJ8K8ZyZRPk4=;u5ueFnYonyfznEfJZIou7A=="

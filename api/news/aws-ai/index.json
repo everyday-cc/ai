@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-15-intelligent-video-and-audio-qa-with-multilingual-support-using-llms-on-amazon-sagemaker.md",
-      "title": "Intelligent video and audio Q&A with multilingual support using LLMs on Amazon SageMaker",
-      "excerpt": "Digital assets are vital visual representations of products, services, culture, and brand identity for businesses in an increasingly digital world. Digital assets, together with recorded user behavior, can facilitate customer engagement by offering interactive and personalized experiences, allowing companies",
+      "path": "_news/2023-08-16-train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker.md",
+      "title": "Train self-supervised vision transformers on overhead imagery with Amazon SageMaker",
+      "excerpt": "In this post, we demonstrate how to train self-supervised vision transformers on overhead imagery using Amazon SageMaker. Travelers collaborated with the Amazon Machine Learning Solutions Lab (now known as the Generative AI Innovation Center) to develop this framework to support and enhance aerial imagery",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligent-video-and-audio-qa-with-multilingual-support-using-llms-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligent-video-and-audio-qa-with-multilingual-support-using-llms-on-amazon-sagemaker/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 128,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/15/intelligent-video-sagemaker-1260x630.jpg",
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/24/dino_ben-1260x604.png",
           "width": 1260,
-          "height": 630,
+          "height": 604,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T08:14:09-07:00",
+      "publishedDateTime": "2023-08-16T09:00:15-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/zero-shot-and-few-sh
 webUrl: "https://aws.amazon.com/blogs/machine-learning/zero-shot-and-few-shot-prompting-for-the-bloomz-176b-foundation-model-with-the-simplified-amazon-sagemaker-jumpstart-sdk/"
 type: article
 quality: 64
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,50 @@ images:
     width: 912
     height: 452
     isCached: true
+
+related:
+  - title: "Train self-supervised vision transformers on overhead imagery with Amazon SageMaker"
+    excerpt: "In this post, we demonstrate how to train self-supervised vision transformers on overhead imagery using Amazon SageMaker. Travelers collaborated with the Amazon Machine Learning Solutions Lab (now known as the Generative AI Innovation Center) to develop this framework to support and enhance aerial imagery"
+    publishedDateTime: 2023-08-16T16:00:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 98
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/24/dino_ben-1260x604.png"
+        width: 1260
+        height: 604
+        isCached: true
+  - title: "Intelligent video and audio Q&A with multilingual support using LLMs on Amazon SageMaker"
+    excerpt: "Digital assets are vital visual representations of products, services, culture, and brand identity for businesses in an increasingly digital world. Digital assets, together with recorded user behavior, can facilitate customer engagement by offering interactive and personalized experiences, allowing companies"
+    publishedDateTime: 2023-08-15T15:14:09Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligent-video-and-audio-qa-with-multilingual-support-using-llms-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 80
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/15/intelligent-video-sagemaker-1260x630.jpg"
+        width: 1260
+        height: 630
+        isCached: true
+  - title: "Build production-ready generative AI applications for enterprise search using Haystack pipelines and Amazon SageMaker JumpStart with LLMs"
+    excerpt: "In this post, we showcase how to build an end-to-end generative AI application for enterprise search with Retrieval Augmented Generation (RAG) by using Haystack pipelines and the Falcon-40b-instruct model from Amazon SageMaker JumpStart and Amazon OpenSearch Service."
+    publishedDateTime: 2023-08-14T16:42:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-production-ready-generative-ai-applications-for-enterprise-search-using-haystack-pipelines-and-amazon-sagemaker-jumpstart-with-llms/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/14/production-ready-genai-haystack.jpg"
+        width: 912
+        height: 453
+        isCached: true
 
 secured: "83uq/yG0HRB0gvJ44TvJfTW6I7RoL68xNpGgsSggyyun45vETRyQbKwWErwvhAPUXqaoo5ZTn9nLEL1DbnMB5e03CngBbnZPZB8/6QCaOTwNIlvLK0XLTZvjJVdN7hIO5gsDWOQs9nRAEajd58WvzoSG1IJ5YIKzDtshCwoS+BKQAiZrkrMh9IE7GqFrngCfS7VgvqhvoR88BW0a4P47w666I6jVs59NPtr352Rv1wTnS9AMzQDNv0ppBoOOQLu14446I+pjljvnlFbwsm4kAQUo//pvTcprA4vGG3gA0TBip8UylGMSqSbYB7rUm3v/6T60SMKV0Gqv/pp7W5tDcWM0sazQhoA59CHJM8QFMhc=;MEibk924Dtqz9TH0afs9EA=="
 ---

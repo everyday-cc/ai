@@ -152,6 +152,15 @@ related:
       name: Ghanaweb.com
       domain: ghanaweb.com
     quality: 10
+  - title: "FinTech Magazine’s Top 10 companies in APAC"
+    excerpt: "Keep scrolling to learn more about FinTech Magazine’s Top 10 fintechs based in APAC."
+    publishedDateTime: 2023-08-16T12:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-magazines-top-10-companies-in-apac"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "WWIalGAj1LXDiLiVtulKm64E/6gTx+BJO5q4V5438Ox0OwGz/tmEZEMTMCFwi/UGmC6sldCSR8RtoihjdyNqhR9ffCmkfNuFzl0VQvIX6YoruIYE7ZdRnQjT0t+IWMKkeWuNyxMsGhOkOx3G4lJ6AT3MCR0v5W9hB+zuLCMsqHZWQ5BKLNiTAWVaW2pTir3R94jxYENKDS1CdA4FH2VhBX654hSTLQBZXTLn1PXrpIimMiNoE0hCOoFz1gbaP+hQr/USNow2G4lCHLYoADxQ/TNcajndM2Y8Rog51iyQWGoAcnqReNCmNygDZQi4G+FSbRxL8KrQpu+19aUtycS++ivnx9lx13lGgfj8VhXxLG7jEXloMw1bVAWwl0nUF9+k4zVql79L/zFuAwtRRXkLhl8H2i76vc+osZchxz3cRsVu9V8FB+qRYUhPgBNK28HO2dbPl7OGcN9HiqPjgjpwEL+NON+X0BIFbQ4/18yJaS3dz5U7FCO1/1XK3cMP8sixBrLdHyTMlfQ+z5MMVIqrEA==;lL4+i62F29UV7kOJnhg8Ag=="
 ---

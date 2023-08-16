@@ -91,6 +91,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Google’s working beyond Bard to evolve the AI chatbot market"
+    excerpt: "Google may be stumbling out of the gate a bit with its latest large language model chat bot Bard, but it looks like the company may already be looking for a"
+    publishedDateTime: 2023-08-16T14:33:00Z
+    webUrl: "https://www.onmsft.com/news/googles-working-beyond-bard-to-evolve-the-ai-chatbot-market/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/maxresdefault.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "w66tY3SDEnVvdFlAJsx/WkmVSYWpyoPwS8JwR7N90ie8Rx0kzGQaW5FIWuOqYFsGo0i8FC49hTTODQ/DFyTNnj4rLmuDVDbJuNYfJyOKxOoeJX9L6IBu264r8c/Nyid5Oz5AhuXmMe23V5fIVCoTUx88dU7dObK6FdGkzOgO7EWEjcchBpirU9UW16hthgD2LoAGWUqnMXo+oEsd96CuSol3h71ICwzYt8X6EB+QOGBibtnWgMEzpoHcoU4vcWRS4fua9pWyxS952GS+UNBVkMfr5dZMNdwAQQpwTSbzFvM4VNw0x4uulPxwtp4vpQIXwMyNzDiE5erQKcX6nM1WiHBXbWhKDy6uGT3li3ZxEQ0W89QJwyj3MDX7yCq9CtPmdZ7Rt+Ni+qe4QuHpAnGoxzfr0lYJsehDM2SQicG9vEzuKJXA/bENk3aMhETMq99AzFsVqXzC86yooH2hvHXv+VJRHrf3pQJDo59LmdIwUo11JwuGzuZ0Fp4RSy8ep7GfGdHgx1NZXO3O9/+UI1Vsog==;rDGAOPYdkX8hUxohh+WOCg=="
 ---

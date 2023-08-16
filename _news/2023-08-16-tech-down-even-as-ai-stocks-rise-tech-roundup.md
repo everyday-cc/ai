@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-ri
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://images.wsj.net/im-836010/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Older investors flock to AI stocks as Gen Z plays it safe: Wealthtech Weekly"
-    excerpt: "Plus, F2 Strategy gets a new office; AdvisorCheck gets a new boss; and Advisor360° rolls out new tech updates."
-    publishedDateTime: 2023-08-11T20:38:00Z
-    webUrl: "https://www.financial-planning.com/list/older-investors-flock-to-ai-stocks-as-gen-z-plays-it-safe-wealthtech-weekly"
-    type: article
-    provider:
-      name: Financial Planning
-      domain: financial-planning.com
-    quality: 36
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/db7c955/2147483647/strip/true/crop/4835x2538+0+343/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Ff7%2Fbc%2Fef8183b44f879a2bb12fa4b7e291%2Fpexels-anna-tarazevich-14751157.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "9Iby0CxRO5qvsh0gyZZvVdXb17sDCiU3OZ7MRlBydvD+18/z+e7+7Y4PtNcv5vYnGYfE6g9qn5U7s+Iqp+U7eTUse41bfO29cLFQc+WTxmIx/lSTgP6ePZpXM7oq3bp/c85iiYbvsPr0tEC7lBfX37CZGf0fFeMy7XNWI1T5l54Q0ekk8c1qRnljqa6ARWSWbOS3296ptWhjBJcMgJ2fgu5MKvVPYn2c/cpQPpaC4mHY/bN3WNF1+lgbcj7++ceOd1Ja80uDXeet9VUlLiO0jsrvneXbwkSKDOiiHnXElDWXk8PvKxT+bFTO6uGT4aY/9fQdhVF8EHfxhmKSapjy+V8pXHmv2AY0CNBbwHP0WgE=;h7K7YWA6fd1YUmDJQR0IIQ=="

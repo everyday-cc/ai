@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/amp/"
 type: article
 quality: 89
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2.jpg"
         width: 1661
         height: 962
+        isCached: true
+  - title: "The future of artificial intelligence in accessibility"
+    excerpt: "AI is already playing a massive part in our lives, however, what role does artificial intelligence play in accessibility?"
+    publishedDateTime: 2023-08-16T14:14:00Z
+    webUrl: "https://www.openaccessgovernment.org/the-future-of-artificial-intelligence-in-accessibility/165188/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/08/iStock-1270805321-scaled.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "myNJhSbo1fPokNw2f8Yis/ezUfMCbVqPQs5lTYtIElpvSEaP7qgWIAhJZlEA3CbEsKFNqkPqeFS1GWpmqe2HE2tYaGT5hvEv37cIsEE0iMGOazlWbrCaDvRGvsGLtKzrVv/7G7HWKgx18T95PVLcLT/2NgV50vdLxJUUOx0Nd1tIyikkR1H96lUUaMW72H7fxBrxv0FLAl+fqsQN2XPQ6EFGmeQSW5yaymCfvYdd3fZwIl4UWVVjKEDmDzkl4da7yx472Iz1IrdRAcy/hdPx24HGunpT2b0NHufugQ/pzwpzTbw+/VRkQr/HcueWHA/B0My6pYatngr6ZMJMgYjejlkFNDAjvCin0NGrn4/9Z/9DNbNJXhPZAeiZcnvp6kaEwFgDcGIZvZN8ooDf9lY8iqna5e9cI6ZGQsHp4aT1eR+yZNlbApcl0eAgkWU44VdKbhDRIQbBXYejzTp7valel5cHGs1KD91QRwMjm83WePUmrHv4W2tXm/eTOKL+ubXOS/IUg/Bjtular8XuBtMWAg==;EABdUhNeIQqdMJs9pG3Qfw=="

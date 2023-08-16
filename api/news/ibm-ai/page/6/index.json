@@ -2,6 +2,134 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-15-the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonxdata.md",
+      "title": "The disruptive potential of open data lakehouse architectures and IBM watsonx.data",
+      "excerpt": "Learn about watsonx.data, a data store built on an open data lakehouse architecture to help organizations scale AI workloads.\nThe post The disruptive potential of open data lakehouse architectures and IBM watsonx.data appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/",
+      "originalUrl": "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
+      "title": "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions",
+      "excerpt": "The two companies held an event in Riyadh on Wednsday that highlighted how to accelerate digital transformation in the Kingdom in line Vision 2030",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/OGY3MGQ1ODUtM2NiNS00/0/image2-mohammedalromaizan-vpsapsaudiarabiaandashutoshmuni-interimmpofibmconsultingsaudiarabia-alongsideibm-sapteam-jpg.jpeg?f=3%3A2",
+          "width": 873,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1",
+      "publishedDateTime": "2023-06-15T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-smart-manufacturing-technology-is-transforming-mass-production.md",
+      "title": "Smart manufacturing technology is transforming mass production",
+      "excerpt": "Smart manufacturing (SM)—the use of advanced, highly integrated technologies in manufacturing processes—is revolutionizing how companies operate.\nThe post Smart manufacturing technology is transforming mass production appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/smart-manufacturing-technology-is-transforming-mass-production/",
+      "originalUrl": "https://www.ibm.com/blog/smart-manufacturing-technology-is-transforming-mass-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T12:44:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-utility-scale-quantum-computing-on-ibm-cloud.md",
       "title": "Utility-scale quantum computing on IBM Cloud",
       "excerpt": "IBM Quantum has entered the age of quantum utility—quantum processors can now provide useful results to problems that challenge the best classical methods.\nThe post Utility-scale quantum computing on IBM Cloud appeared first on IBM Blog.\n",
@@ -1264,150 +1392,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-31T05:55:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-join-us-at-prestocon-day-a-free-virtual-community-event.md",
-      "title": "Join us at PrestoCon Day, a free virtual community event",
-      "excerpt": "Learn how companies are using Presto to power their data lakehouses at scale by attending the free virtual PrestoCon Day conference.\nThe post Join us at PrestoCon Day, a free virtual community event appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/join-us-at-prestocon-day-a-free-virtual-community-event/",
-      "originalUrl": "https://www.ibm.com/blog/join-us-at-prestocon-day-a-free-virtual-community-event/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/wjd_20220214_557.l_2x1.jpg",
-          "width": 1312,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-keep-it-simple-how-to-succeed-at-business-transformation-using-behavioral-economics.md",
-      "title": "Keep it simple: How to succeed at business transformation using behavioral economics",
-      "excerpt": "Business leaders often think it&#8217;s impossible to predict the outcome of a transformation effort&#8212;whether employees will embrace a new process, for example, or how customers will react to a new service. They&#8217;re missing out on a secret of change management, says IBM Global Managing Partner",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/keep-it-simple-how-to-succeed-at-business-transformation-using-behavioral-economics/",
-      "originalUrl": "https://www.ibm.com/blog/keep-it-simple-how-to-succeed-at-business-transformation-using-behavioral-economics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/Keep-it-simple-How-to-succeed-at-business-transformation-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-websphere-application-server-support.md",
-      "title": "WebSphere Application Server support",
-      "excerpt": "An update on WebSphere Application. Server Support.\nThe post WebSphere Application Server support appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-websphere-application-server-support/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-websphere-application-server-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T11:32:25-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

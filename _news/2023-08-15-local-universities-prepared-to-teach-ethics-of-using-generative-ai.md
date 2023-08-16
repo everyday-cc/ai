@@ -19,19 +19,157 @@ topics:
   - AI
 
 related:
-  - title: "DEF CON Generative AI Hacking Challenge Explored Cutting Edge of Security Vulnerabilities"
-    excerpt: "Data from the human vs. machine challenge could provide a framework for government and enterprise policies around generative AI."
-    publishedDateTime: 2023-08-15T17:02:00Z
-    webUrl: "https://www.techrepublic.com/article/def-con-hackers-generative-ai/"
+  - title: "Amazon taps generative AI to enhance product reviews"
+    excerpt: "Amazon will begin to leverage generative AI to help customers better understand what customers are saying about a product, without having to read dozens of individual reviews."
+    publishedDateTime: 2023-08-14T21:24:00Z
+    webUrl: "https://techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhance-product-reviews/"
+    ampWebUrl: "https://techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhance-product-reviews/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhance-product-reviews/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/amazon-ai-reviews.webp?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Amazon Develops Two Chips Dedicated to AI Operations"
+    excerpt: "Amazon revealed that it is developing two chips dedicated to artificial intelligence operations called Inferentia and Trainium.The two new chips developed by Amazon Cloud"
+    publishedDateTime: 2023-08-14T09:56:00Z
+    webUrl: "https://www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations"
+    ampWebUrl: "https://www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations/amp"
+    cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations/amp"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 74
+    images:
+      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/08/14/65373.jpg"
+        width: 1000
+        height: 562
+        isCached: true
+  - title: "Software Engineers Could Get 30% Time Back Thanks To Generative AI"
+    excerpt: "Generative AI has the potential to automate between 60% to 70% of the work that most of us engage in every day. But for many knowledge workers, generative AI tools are likely to help take back time spent on administrative tasks,"
+    publishedDateTime: 2023-08-15T13:58:00Z
+    webUrl: "https://www.techrepublic.com/article/software-engineers-could-get-time-back-thanks-to-generative-ai/"
     type: article
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 77
+    quality: 71
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr081523-def-con-hackers-generative-ai.jpg"
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Amazon Taps AI to Sum Up User Product Reviews, Point Out Pros and Cons"
+    excerpt: "These 'AI-generated customer review highlights' are now available on Amazon's mobile apps, and will break down buyers' reviews into one overall summary."
+    publishedDateTime: 2023-08-14T16:44:00Z
+    webUrl: "https://www.pcmag.com/news/amazon-taps-ai-to-sum-up-user-product-reviews-point-out-pros-and-cons"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/01svuEMUOd3FzDd6A3hVgso-1.fit_lim.size_1200x630.v1692026228.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Amazon's Latest AI Tool Will Summarize Customer Reviews For You"
+    excerpt: "Amazon’s newest AI feature aims to make it easier to dig through customer reviews."
+    publishedDateTime: 2023-08-14T21:05:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/amazons-latest-ai-tool-will-summarize-customer-reviews-for-you/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/img/resize/f791e693e58fa0412325fd2d859ed5cff6e0c96d/hub/2022/11/10/ac1c56f1-2f1e-4c87-97c8-688fdc3345bd/amazon-logo-phone.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Untrustworthy AI is going to summarize untrustworthy Amazon reviews"
+    excerpt: "Amazon has announced it is rolling out AI-generated review summaries that will give users a glance at customer sentiment."
+    publishedDateTime: 2023-08-14T17:17:00Z
+    webUrl: "https://www.androidauthority.com/amazon-ai-customer-review-summaries-3354894/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/05/Amazon-logo-on-phone-next-to-boxes-stock-photo-11.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Amazon is making its own chips to offer generative AI on AWS"
+    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
+    publishedDateTime: 2023-08-15T13:21:00Z
+    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 51
+  - title: "AI comes to Amazon product reviews"
+    excerpt: "Some Amazon users can now take advantage of a new artificial intelligence tool that recognizes common themes from customer product reviews and turns them into a short summary. Ben Bergman, senior correspondent for Insider focusing on the tech industry,"
+    publishedDateTime: 2023-08-16T15:45:00Z
+    webUrl: "https://www.cbsnews.com/video/ai-comes-to-amazon-product-reviews/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/16/53556a4c-0102-4767-9843-aa2d05b4c054/thumbnail/1200x630/bed16f895dd7719b415b5167a4433a9b/cbsn-fusion-ai-comes-to-amazon-product-reviews-thumbnail-2211619-640x360.jpg?v=46e0dad4db516ed39a3a8f6257e75e73"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Zapata AI and IonQ Collaborate to Advance Generative AI Research"
+    excerpt: "Zapata AI, a software company building solutions to enterprises’ most computationally complex problems, today announced it has entered a strategic all"
+    publishedDateTime: 2023-08-15T16:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230815820982/en/Zapata-AI-and-IonQ-Collaborate-to-Advance-Generative-AI-Research/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
+  - title: "Multinationals turn to generative AI to manage supply chains"
+    excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
+    publishedDateTime: 2023-08-13T03:59:00Z
+    webUrl: "https://www.ft.com/content/b7fafed2-9d00-49b0-a281-c1002b139865"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "US military’s special task force will explore generative AI"
+    excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
+    publishedDateTime: 2023-08-15T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/dod-generative-ai-task-force/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
+  - title: "Here are 10 AI tools that you can start using today to enhance productivity and hopefully, drive profits for your company."
+    excerpt: "ALBAWABA - AI tools are poised to make a significant impact on businesses in the coming years, but what about right now? Here are 10 AI tools you can in"
+    publishedDateTime: 2023-08-13T08:16:00Z
+    webUrl: "https://www.albawaba.com/business/here-are-10-ai-tools-you-can-start-using-today-enhance-productivity-and-hopefully-drive"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 11
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/inline-images/64063dbcad97bd421b437096_chatgpt.jpg"
+        width: 410
+        height: 250
         isCached: true
 
 secured: "GY1MtS1zyHTf770GwrPlVSdklefgJ55Zqa9FeUz1WCNLISN5FImndbimF+KXmeTr6z3OTO/k94eaUbP+AYSK0G7kMWWjkeyaug/0kzjjJRpZOK6D8bT7q7+sfJY1qxHn7YWWkvDTwMaWgKMpPeTrIo9/gaBsmEh86qpfJ82KF/TVSCY2QQ/Vh+K9PEOlhXbbIpwh6xiUM7oVj/XU/Mbr9/ES521K51U9tBsaUK7sMzu9aBYI4NEZLAAy+JjlSo5pyXdyHuUgnN7EZFmfN8QDHmhSyaYYoDJnr3/swiIFocT1+xFGTx6W+gPyvJvzmZuJlK0E7mGXasMy5qLHLKmgw902tEjYylhK1hv2A5CXHA8=;4tLth36PlDKwegvM/zsckQ=="

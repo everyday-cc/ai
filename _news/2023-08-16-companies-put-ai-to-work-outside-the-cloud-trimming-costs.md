@@ -44,16 +44,7 @@ related:
         width: 1200
         height: 862
         isCached: true
-  - title: "Zapata AI and IonQ Collaborate to Advance Generative AI Research"
-    excerpt: "Zapata AI, a software company building solutions to enterprises’ most computationally complex problems, today announced it has entered a strategic all"
-    publishedDateTime: 2023-08-15T16:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230815820982/en/Zapata-AI-and-IonQ-Collaborate-to-Advance-Generative-AI-Research/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
-secured: "xJ47Mihl1WkPF6W5CvSWI615aJMV+yJmUrioK911ygLwlHCGHoMTuJkmtIZuqfOKllr8P7DDgGZndS64BvhFSpu12uP2zodz2Pkaxss27qnxUUYgchOAbeu+c86KnWoIG6kt6I5SOwuJK4bXzDNugdG1rVybMv5yGGhzoooJjR0wY7W83DIqgeBNHoks3z2ashc//T3dmenEH21Spc73maCkS7tp6T8ZiDZldZsrmZJNEcoT4VYY5f8nvFnc3rXnSTnXgb/sgdrUQ9gXcEyrLpbrLS0aukhgmS4cfv6d52aPewfwE2wJRetn9bAMe1785ImJb69pDz8bKoqZNchiOpKIkVO1WUSTG4/Uta2Cmq8=;rQV5wF8RDC7IGCFRAb/P6g=="
+secured: "44F51p5rG89MABA5WdXTwyx7N0rI1BHWlnih6WXh/8Qs8GSHyibrh75YZC4TpFMFsI/3qq1BD8Ro/7k0FTUFAt2TileAnK0M1eajQugxvOjyDNWCRvVuvek5ioizNQuzVrjczh1p/vYMaWjVyu7QAZlqAoUdqrGl28e/++ZLuUNdutUKFUxfZ6S563sglqXvFHytaz/gkVMlfsqS7qqcPfa98q9W3w3y/xQ02GS69zUxV/tijCsmEeAFmOvhhYjA7S3QmhxscaC6Z/sgDiQKOsUrTKamtgOFMJxE3CM4n3glbyQflAdZ2hxXydP7qPBIph9d8adZYb/Tt/X0y9Yj4Sd1NdkimRiOSah+BxIwKRIiRGCJeZUl1AqIQuT0Fj3VrNjFwdl/FlPiQdxrbfcWVpv8nNKH5VDMQGvpapXvfEzKzWrBv6BDr/iSzz+s0uVd+004y+BHTSCKI/AvH5icqmY9gLxbOwKlF5/MQAz7EMzYl07wEYXXvoe1gClphpfH4Kt2zf9GFK6zadGjzicvgg==;LgjnGGCq2qzdwUOyQex8zQ=="
 ---
 

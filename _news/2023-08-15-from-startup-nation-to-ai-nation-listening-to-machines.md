@@ -7,7 +7,7 @@ originalUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-l
 webUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-listening-to-machines/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,38 +24,24 @@ images:
     isCached: true
 
 related:
-  - title: "From Startup Nation to AI Nation: The Farmer Knows Best"
-    excerpt: "For thousands of years, agriculture was based on human expertise and gut feelings, but this simply isn't enough in the 21st century"
-    publishedDateTime: 2023-08-15T16:37:00Z
-    webUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-the-farmer-knows-best/"
+  - title: "The Future of Finance: AI Meets Tokenization"
+    excerpt: "F ederal Reserve Governor Christopher J. Waller recently gave a speech titled: “Innovations and the Future of Finance,” explicitly focusing on two emerging technologies, namely Tokenization and Artificial Intelligence (AI). He said, “the world is rapidly changing, and we need to be open to the potential benefits of innovation.”"
+    publishedDateTime: 2023-08-16T12:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization"
     type: article
     provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 37
-    images:
-      - url: "https://static.timesofisrael.com/blogs/uploads/users/ziv-katzir1692116510-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Opinion: Navigating the uncharted waters of AI ethics and regulations"
-    excerpt: "Manisha Kapoor of ASCI shares her thoughts on threading through the risks of using generative AI in the A&M industry while keeping AI ethics and regulations in mind."
-    publishedDateTime: 2023-08-16T04:30:00Z
-    webUrl: "https://www.socialsamosa.com/2023/08/opinion-navigating-ai-ethics-and-regulations/"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
+  - title: "HOW AI IMPACTS TEACHING FUTURE FINANCIAL LEADERS"
+    excerpt: "Students need to learn how to use AI and ChatGPT properly, understand AI’s limitations and know when they can appropriately use AI."
+    publishedDateTime: 2023-08-13T13:25:00Z
+    webUrl: "https://www.forbes.com/sites/stevenwasserman/2023/08/13/how-ai-impacts-teaching-future-financial-leaders/"
     type: article
     provider:
-      name: Social Samosa
-      domain: socialsamosa.com
-    quality: 34
-  - title: "Empowering education: AI technology set to transform classrooms as students return to school"
-    excerpt: "Students and their families are getting ready to go back to school and this year, students are getting some high-tech help that promises<a class=\"excerpt-read-more\" href=\" More"
-    publishedDateTime: 2023-08-14T12:33:00Z
-    webUrl: "https://wsvn.com/news/us-world/empowering-education-ai-technology-set-to-transform-classrooms-as-students-return-to-school/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 25
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "HnxiniC/CL2R1h3usBhCN5IiB+Z3TXlQF2G1o+rn0W9OQf4DtMBeOP7Awu6YBCrKEwfTn4FnXhTMEX3nT/zbs/hMMsUIbxiw+vjxUqfWAM2GmHvX7x4wjtU1rXkBtjsfZjkdXhSAPi9VYK4nl+YJAxwuXBtbA+8Uhs7nFzw6Sy1TLmRGzqiplI4GKUyxzdS6/EgfJQpsiR//XGNH/cE6/qM2vqCWmpfh9TUORoNtCqbNB0WzALYHjAn70tEj15hGireQS8Ozj0paWPpzcZg1wU8jO0Mflk4ri/KM8Z+Vb/GrPnSTMa5ta12E1/al+nYeMIB9tuO3cVDFcIkoyhd+Bzb2GJ2PxnIPlgrsBcgThxQ=;T1z9d4y37q90pphcSMVoFw=="
 ---

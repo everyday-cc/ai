@@ -20,20 +20,45 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Research could improve the safety and reliability of human-in-the-loop AI systems"
-    excerpt: "Researchers are developing a way to incorporate one of the most human of characteristics – uncertainty – into machine learning systems."
-    publishedDateTime: 2023-08-12T02:51:00Z
-    webUrl: "https://www.news-medical.net/news/20230811/Research-could-improve-the-safety-and-reliability-of-human-in-the-loop-AI-systems.aspx"
+  - title: "The World Isn’t Ready for the Next Decade of AI"
+    excerpt: "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state."
+    publishedDateTime: 2023-08-16T10:59:00Z
+    webUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 34
+      name: Wired
+      domain: wired.com
+    quality: 75
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg"
+        width: 1280
+        height: 670
         isCached: true
+  - title: "How robots use AI to navigate the world?"
+    excerpt: "Aniket Bera is an associate professor of computer science in the College of Science at Purdue University. In this video, he explains how robots use artificial intelligence to navigate the world and solve problems."
+    publishedDateTime: 2023-08-15T07:47:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/videoshow/102743818.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/amp_videoshow/102743818.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/videos/international/how-robots-use-ai-to-navigate-the-world/amp_videoshow/102743818.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/photo/msid-102743818/videos/international/how-robots-use-ai-to-navigate-the-world.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Japanese AI Advances Offer Lessons for the Rest of the World"
+    excerpt: "Countries around the world should take notes from Japan's forward-looking AI approach, which balances innovation, rationality, and regulation."
+    publishedDateTime: 2023-08-15T10:00:00Z
+    webUrl: "https://www.aei.org/technology-and-innovation/japanese-ai-advances-offer-lessons-for-the-rest-of-the-world/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
 
 secured: "ecvzIg3aBdj1W6ShM0sWx9CypaXHZPaNCsS1denYZ6gPJ+RPrwnFneanSkhXQyrKuv2NraxVR+VHU3hkx1j5q5cWG5dRnN30HRuIEuXqRmFH2wYNqiyeg0ujA/GMVuHmm4ZuZqG1ns1gK3pjChkRK/CE9DawAkRIHGY6Dw48BuL0hWoRvXAeWOKX2JTfFigHFtb933XK4GnVAeDl0ZkqhD80eshPzlgIfGY/u/vjloNUY0A0gWhJbaxxIHJLmZ6Y1R9+RXRMlOMDMOqOAbGubFjIxBLHhkng7PE58m4aayjSwNOWUz1XAcihzvEzCEPEJ9P4NsXYbnBtyFRNwnDpBLBsTRrSD4ytFFu4C4orEno=;b0O947bRVqjw5olf7TG5mw=="
 ---

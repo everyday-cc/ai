@@ -144,6 +144,15 @@ related:
       name: Ghanaweb.com
       domain: ghanaweb.com
     quality: 10
+  - title: "FinTech Magazine’s Top 10 companies in APAC"
+    excerpt: "Keep scrolling to learn more about FinTech Magazine’s Top 10 fintechs based in APAC."
+    publishedDateTime: 2023-08-16T12:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-magazines-top-10-companies-in-apac"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
   - title: "Legislation needs to play catch up with fintech"
     excerpt: "A comprehensive legislative and regulatory framework exclusively for fintech may be the need of the hour."
     publishedDateTime: 2023-08-16T00:16:00Z

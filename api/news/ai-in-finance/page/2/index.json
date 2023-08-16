@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-18-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers.md",
+      "title": "Fintech Firm Collective Raises $50M to Establish AI-Powered Finance Platform for Freelancers",
+      "excerpt": "Collective, which claims to be the first all-in-one online back-office platform for solopreneurs, announced it has raised $50 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2015/11/Money-in-Wallet-100.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/amp/",
+      "publishedDateTime": "2023-07-17T19:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-what-next-for-ai-and-ml-in-financial-services.md",
       "title": "What next for AI and ML in financial services?",
       "excerpt": "The latest research from The Bank of England and Financial Conduct Authority, for example, suggests that 72% of UK firms in the sector are developing or deploying ML, a branch of AI that gives machines the ability to \"learn\" from data to improve computer performance.",
@@ -1330,41 +1373,6 @@
         "AI in Finance",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-geox-partners-with-insurity-to-provide-pc-insurers-with-enhanced-risk-assessment-using-machine-vision-and-deep-learning-technology.md",
-      "title": "GeoX Partners with Insurity to Provide P&C Insurers with Enhanced Risk Assessment Using Machine Vision and Deep Learning Technology",
-      "excerpt": "From there, insurers can use the deep learning technology to accurately predict the properties ... For a limited time, Insurity is offering its customers discounted pricing for GeoX services. To learn more about Insurity’s partnership with GeoX and ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/geox-partners-with-insurity-to-provide-pc-insurers-with-enhanced-risk-assessment-using-machine-vision-and-deep-learning-technology",
-      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/geox-partners-with-insurity-to-provide-pc-insurers-with-enhanced-risk-assessment-using-machine-vision-and-deep-learning-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

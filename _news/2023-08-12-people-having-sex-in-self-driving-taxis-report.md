@@ -117,24 +117,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 1
-  - title: "San Francisco's police, fire departments fret about push for more self-driving cars"
-    excerpt: "Self-driving car firms want California regulators to allow for more vehicles on San Francisco streets. Police and fire departments cite many times when autonomous vehicles botched rescue operations."
-    publishedDateTime: 2023-08-11T20:27:00Z
-    webUrl: "https://www.wmfe.org/2023-08-11/san-franciscos-police-fire-departments-fret-about-push-for-more-self-driving-cars"
-    type: article
-    provider:
-      name: WMFE
-      domain: wmfe.org
-    quality: 0
-  - title: "Startup Altruist plans to open San Francisco office as it scraps remote-first strategy"
-    excerpt: "One of the latest to shift from remote-first to a hybrid-workplace model is Culver City-based Altruist, which plans to open a San Francisco office for its Bay Area workforce. The company employs about 30 people in the Bay Area, according to RIABiz.com, an industry publication for financial advisers."
-    publishedDateTime: 2023-08-11T21:39:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/08/11/startup-altruist-plans-to-open-san-francisco-offic.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "hcdlbNVuM0aT08rw6aCrciL38VQtg6HznlOtB/9fkHmHFF+ha+WXhcT5s1sdAIzc9NskomQqoDvz+msuHPo1Y1iaNV+yHKazwpmXieUeOdGvvLWtdKp8kBzObm9X0NArMmNBnqZTuPCao4YRRjg3P/HkUdnunLeDDc+UCaJbVS46UHAZStFxN6AZf40200b1uVlWKSrbCYXkAu0/0RKr5TB7Mn4NlybvVah75lVOQmWELJzc47PWveh+wS+3GzCc9m5BYG2AsV0w2GsCGg45Qwa9JfCQVIPnhIPnLNBgRkAVJIisGPa36cJnlDLXgjerDkJc40OifOFm3pyMPrs+Sfm+vQoOd2gfUqMSPMRjpOY=;sf/FfTwlA5mkVQt+rpPQmg=="
 ---

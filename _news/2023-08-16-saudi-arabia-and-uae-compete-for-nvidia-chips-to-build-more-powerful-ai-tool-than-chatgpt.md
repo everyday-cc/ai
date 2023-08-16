@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "What NVIDIA’s New Superchip Means for the Future of AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips NVIDIA Corporation (NVDA) has been very busy this year. In February, NVIDIA"
-    publishedDateTime: 2023-08-11T20:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035"
+  - title: "Saudi Arabia and UAE invest in thousands of Nvidia chips, aiming to become global AI powerhouses"
+    excerpt: "The Financial Times reports that Saudi Arabia has bought at least 3,000 Nvidia H100 GPUs, which Nvidia CEO Jensen Huang calls the first chip designed for"
+    publishedDateTime: 2023-08-15T10:18:00Z
+    webUrl: "https://www.techspot.com/news/99787-saudi-arabia-uae-invest-thousands-nvidia-chips-aiming.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
+      name: TechSpot
+      domain: techspot.com
+    quality: 71
     images:
-      - url: "https://investorplace.com/wp-content/uploads/2023/08/lnel-8.11.23.jpg"
-        width: 917
-        height: 696
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image.jpg"
+        width: 2100
+        height: 1181
         isCached: true
   - title: "Race To AI Supremacy: UAE and Saudi Arabia are falling over each other to woo Nvidia for chips"
     excerpt: "Saudi Arabia and UAE are investing heavily in AI and AI Chips, and are practically falling over each other to woo NVIDIA. Saudi Arabia's King Abdullah University of Science and Technology or KAUST has"
@@ -87,33 +87,19 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Nvidia CEO Explains How AI Chips Could Save Future Data Centers Lots Of Money"
-    excerpt: "Nvidia CEO Jensen Huang explains how the Grace Hopper Superchip can save significant amounts of money in data center costs for AI workloads compared to Intel CPUs."
-    publishedDateTime: 2023-08-15T15:26:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-ceo-explains-how-ai-chips-could-save-future-data-centers-lots-of-money"
+  - title: "Saudi Arabia giving an arm and a leg for Nvidia chips"
+    excerpt: "AI arms race in the desert sands Saudi Arabia is buying up thousands of the high-performance Nvidia chips crucial for building artificial intelligence software to join in the global AI arms race. Saudi Arabia has bought at least 3,"
+    publishedDateTime: 2023-08-16T10:40:00Z
+    webUrl: "https://www.fudzilla.com/news/57429-saudi-arabia-giving-an-arm-and-a-leg-for-nvidia-chips"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 51
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
     images:
-      - url: "https://www.crn.com/resources/0284-18bdfd528cd6-44d20c59faff-1000/jensen_datacenter.jpeg"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "AI software startup Modular seeks bumper Series A round to challenge Nvidia"
-    excerpt: "According to the startup’s website, its software works by unifying the frontend of popular AI frameworks such as PyTorch and TensorFlow using modular, composable components. This means developers can use custom hardware to train AI systems and later deploy them across any server or edge device."
-    publishedDateTime: 2023-08-13T23:44:00Z
-    webUrl: "https://siliconangle.com/2023/08/13/ai-software-startup-modular-seeks-bumper-series-round-challenge-nvidia/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/modular.png"
-        width: 1030
-        height: 577
+      - url: "https://www.fudzilla.com/media/k2/items/cache/8396cadd0f4696d8d1c4cc0ac890d7bb_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "fz3MuXhz0MD1VvY/JNuWyVVpSvYO3YUJUbVaA4WXQ5V5uxzkLv0UH34i0SET8rzktV8GR/RhG02MnNtpug4ddqf+e5+f9DXSq+5whjXUVxkmJ8lBlBZeobg7xNjYWvm/CTHGJFKtu1Pt0XTbA+Wumj1xRhjApdrgv6F1zhE/wyv/0mR0ARqbPAJhqwK5YR/0rGubXBNEuQ6uiUYCtAkcJLE56W6pD+AEaCJlMQs3NmaxtqGeUntBAAX3i0YXv3+zO4wGJOH06yG8EzHR0a9e14b8HeLlY5chAAMfz4yGcgmYKn5L13Aqii+5D8ch6pNOXZs0AbMcx/VN1vXnaFaoirM6RfbysKptaJM06V8YH4Y=;qSeZsRRGqDEu7xkRHoAO9w=="

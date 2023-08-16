@@ -26,22 +26,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Worldcoin scans eyeballs and offers crypto. What to know about the project from OpenAI’s CEO"
-    excerpt: "Weeks after its international launch, Worldcoin is drawing the attention of privacy regulators around the world"
-    publishedDateTime: 2023-08-11T20:51:00Z
-    webUrl: "https://www.pressherald.com/2023/08/11/worldcoin-scans-eyeballs-and-offers-crypto-what-to-know-about-the-project-from-openais-ceo/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 28
-    images:
-      - url: "https://www.pressherald.com/wp-content/uploads/sites/4/2023/08/Worldcoin_Privacy_Explainer_31492-1691787091.jpg?w=1000"
-        width: 1000
-        height: 667
-        isCached: true
-
 secured: "Z9vZrK7ovLXxdZ+qIwIQ4Rsgnr8eU7WVLIpiUfT/yylDZsReAeUrVVs03Nbeg+toU4wjn4yDteyf0JtJwPEFFHpg06WzJlP1eHlXBOKqradClnc729ov24TtkvG25eeOw4EuioysJAIxrZAcjmcOFR3nnNv6NYXx5WDp4gW0Wi46ArEFDPx4F13qXFJS0NIeQZO6cWhjqQlBuaLyhn/7Zk52nf1jiBCbdcdlTbAsI+49D4Hk4OqVU3hgOkQvcHeshl1JYvrVH6S8OyUAGHRe42Oyg8/BvN4MQiDebSKIoZulgszv4mh9BU18T0nvf/xTdI9y76tCkkFLyk1bclTVGsR9IFVgCsB8hDskzeCBxUk=;n7zJu3Bi43h5AU5ZdJ95ng=="
 ---
 

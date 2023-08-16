@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Nutanix simplifies adoption of generative AI with new Nutanix GPT-in-a-Box solution"
-    excerpt: "Nutanix, a pioneer in hybrid multi-cloud computing announced the Nutanix GPT-in-a-Box™ solution for customers looking to jump-start their artificial intelligence (AI) and machine learning"
-    publishedDateTime: 2023-08-16T09:40:00Z
-    webUrl: "https://www.sourcesecurity.com/news/nutanix-simplifies-adoption-generative-ai-nutanix-co-14411-ga-co-1564579956-ga-co-1565946412-ga-co-1568897613-ga-co-1570707227-ga-co-1674033489-ga-co-1692173033-ga-co-1692173215-ga-npr.1692174407.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/nutanix-simplifies-adoption-generative-ai-nutanix-co-14411-ga-co-1564579956-ga-co-1565946412-ga-co-1568897613-ga-co-1570707227-ga-co-1674033489-ga-co-1692173033-ga-co-1692173215-ga-npr.1692174407.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/nutanix-simplifies-adoption-generative-ai-nutanix-co-14411-ga-co-1564579956-ga-co-1565946412-ga-co-1568897613-ga-co-1570707227-ga-co-1674033489-ga-co-1692173033-ga-co-1692173215-ga-npr.1692174407.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 33
   - title: "Nutanix offers quick-start approach to AI development"
     excerpt: "Data center infrastructure supplier Nutanix Inc. today is jumping into the generative pretrained transformer fray with GPT-in-a-Box, which it describes as a toolkit for companies that are looking to jumpstart artificial intelligence and machine learning projects without risking their data or budget."
     publishedDateTime: 2023-08-15T13:00:00Z
@@ -39,6 +28,24 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
+  - title: "The Department of State’s pilot project approach to AI adoption"
+    excerpt: "Senior IT leaders at State argue that small-scale pilots of AI technology can help bring a wealth of benefits to federal government, such as increased transparency."
+    publishedDateTime: 2023-08-15T13:00:00Z
+    webUrl: "https://fedscoop.com/the-department-of-states-pilot-project-approach-to-ai-adoption/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 19
+  - title: "Nutanix Simplifies Adoption Of Generative Ai With New Nutanix Gpt-In-A-Box Solution"
+    excerpt: "AI infrastructure solution accelerates customers' path to GPT and LLMs while keeping organizations in control of their data. DUBAI, UAE– N"
+    publishedDateTime: 2023-08-16T12:55:00Z
+    webUrl: "https://menafn.com/1106867736/Nutanix-Simplifies-Adoption-Of-Generative-Ai-With-New-Nutanix-Gpt-In-A-Box-Solution"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 13
 
 secured: "0FOB3iO9VF8FgcLJjS5RHYw7ooN1Wv+hB3nrekVnKkHw86irOepEXl3w1DlicRY+K1YFRfgD7/N/PTVplkEkWTbYYF38MU+JF9hkE+0qCIDpvctiXohbab1G4NvYTRGV+lEIDZriD9hxuI/OGhwHTB1NNznIc2RZMQlM4qatgCA+IKFRGFyTuIu6ZP52hUtgolGOEEuUoLFek4VKVpftsr1pzYWAOvdbaqU7l3m6Q6p1k3tKT/t8+jniDlafPljv3dLfIaXrNRM3Pm2gbEEhYueGEtaLDgA3RlCwqPMLawFyTxn5kmKZqP6JvnqOE6YHGzNos0Q9pYRKi/75he9RqMAboggsBoMV5NiruhzL+OoLFyW5/IYsrxl2xyURguTpJlfL8/Qo6i2x4Mzm053HBI74ZjH1I7/1vSbz634hTTrKTqyGBCMflsFL7P45Cgzo8PGb0CEhZQX9PBOEFUR+ZvuN3iuvXVTHWDT1Vj4CTfMgolWcFfflyBLrkTuDcGqjc4aNT0JyiDKzflirh2IGmg==;pV0ZX81S6ezUO2dO7TT/FQ=="
 ---

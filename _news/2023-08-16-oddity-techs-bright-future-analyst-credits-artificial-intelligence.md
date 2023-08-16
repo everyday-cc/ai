@@ -52,6 +52,20 @@ related:
         width: 1661
         height: 962
         isCached: true
+  - title: "The future of artificial intelligence in accessibility"
+    excerpt: "AI is already playing a massive part in our lives, however, what role does artificial intelligence play in accessibility?"
+    publishedDateTime: 2023-08-16T14:14:00Z
+    webUrl: "https://www.openaccessgovernment.org/the-future-of-artificial-intelligence-in-accessibility/165188/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/08/iStock-1270805321-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "lPBD6WUA1Xo1MQJH7QworNsQUCCDpGzPcLGdDqsavsqMHoPKUaHJW0gP7UljcE2Spog0X+H7WPmQXVeWHXuQClQC0eDAL9gBpaqPo4MJ8pQg9ktozp62LP0MhNPJV3gm9fFMdp5MmCV4lMlyMWERYXCGts/sOoz7D9/wrh88Pu/8osutjwncMhSyRdeP5XAMVdm7BhfKLRjGpYITrUSIORV2p7+LYTs0WmUOE06z/XDNYftfKaXEn7QjDItT4ervmsL9y3eLisDUmREpLfeSSemIcoe6aFhB/98D4Rz4fAZf0AnHagHT1VnYUjx9ILBN1xCL9m+RoSX37adTn70mHI9xSQ3WXTjoQMbOnZn0Cp1pWq8JHZa6bATQbSDzZP+diThUTr8SF5IyLWQZqBB9IWJvjAK37aNWdUuFEMMkje8OFF5UcrOWAmoteDRzd7dUgq2nqPOneqAKWVsT4efEE8MBEg5Z5CjfUEQNWrKZWdqiZeBuTC8bjC88eIfA+OUzMZccyZdhbHLNe+ndbOzmmw==;Epc+RcSByMp7piTfu3koQg=="
 ---

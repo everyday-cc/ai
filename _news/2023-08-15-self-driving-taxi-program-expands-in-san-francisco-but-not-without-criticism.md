@@ -116,24 +116,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "San Francisco's police, fire departments fret about push for more self-driving cars"
-    excerpt: "Self-driving car firms want California regulators to allow for more vehicles on San Francisco streets. Police and fire departments cite many times when autonomous vehicles botched rescue operations."
-    publishedDateTime: 2023-08-11T20:27:00Z
-    webUrl: "https://www.wmfe.org/2023-08-11/san-franciscos-police-fire-departments-fret-about-push-for-more-self-driving-cars"
-    type: article
-    provider:
-      name: WMFE
-      domain: wmfe.org
-    quality: 0
-  - title: "Startup Altruist plans to open San Francisco office as it scraps remote-first strategy"
-    excerpt: "One of the latest to shift from remote-first to a hybrid-workplace model is Culver City-based Altruist, which plans to open a San Francisco office for its Bay Area workforce. The company employs about 30 people in the Bay Area, according to RIABiz.com, an industry publication for financial advisers."
-    publishedDateTime: 2023-08-11T21:39:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/08/11/startup-altruist-plans-to-open-san-francisco-offic.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "ByKk9eoXgJp2DjaVXfVtG8ourLVDBiOJ11eCAnbo+pw3B0EbT3v5NlkmBZ8DH2wrIejAOUcEiVtlXFl/cvBR/QkqgkJc5DAkEEj23gUeRdmgF1hjdjKEI6yC1hnlxx9532jTMgf8Maqzh8cc01HUk2jqYAXx+i12iYYJODr+bnmft6e86iPXvv9K1FQCX23a2MB6KJCkSBPpdr+NhzaKK2fxdKR9q3gKv08C7ng44HJX5Y13QFxWbYitv+cN96nySyfjX3U3nAvLLigziOylMgC5WoQe89btAJkEIOXCT2Fq+qOEBNjkoPiMAakFmtiMZtTTuaSMdWzUaiPIHMldJGRn505GZj5ZAPCXtrL4uvgnQ7SRp62pNth1+LHLTz52E/5j+cU4iGzHMX/JtW1MF8ddbDZoU0XEXUFQ/PS+PpJKelcd8dJaxZxy/TZg2cI/1x3H9/Wpl9ifn2BS6Xf+mMoSlzg6gVSjjuLu6iY+TETkekNW/RA5fAusHgpmwiC0l9guNJWMqJE7pVbm/IRoaA==;d64j44yUXfL9lDXZyJ1FGg=="
 ---

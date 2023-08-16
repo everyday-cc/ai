@@ -1,28 +1,22 @@
 ---
 category: news
 title: "App Science Announces New AI Feature Within Its Insights Analytics Dashboard"
-excerpt: "CNW/ -- (TSXV: SBIO; OTCQX: SABOF) (the \"Company\" or \"Sabio\"), a leading provider of connected TV (\"CTV\")/over-the-top (\"OTT\")"
-publishedDateTime: 2023-08-16T11:30:00Z
-originalUrl: "https://www.newswire.ca/news-releases/app-science-announces-new-ai-feature-within-its-insights-analytics-dashboard-899108532.html"
-webUrl: "https://www.newswire.ca/news-releases/app-science-announces-new-ai-feature-within-its-insights-analytics-dashboard-899108532.html"
+excerpt: "The new AI feature is available immediately and in use currently by App Science clients. To learn more about the capabilities of App Science Insights and how it works, visit https://www.appscience.inc/solutions/insights."
+publishedDateTime: 2023-08-16T12:54:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/08/16/9865492.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/08/16/9865492.htm"
 type: article
-quality: 36
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Newswire
-  domain: newswire.ca
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1725822/Sabio_Holdings_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Smart video analytics are redefining use cases from retail to healthcare"
@@ -63,6 +57,6 @@ related:
       domain: inferse.com
     quality: 4
 
-secured: "rm28qHa2zIM7+1w8KWGeB2eOvA9QAJD5paUhTOCCIy8L4zoDgGKaWqNjJUxMPIpGzvWAbnQ5n1jveJpQ+7wi+3fy8RXWrLJAMGG0UVe786kxg32DHf4DWR2XkjzfzBUmatQO5lg3azSubOc8kadWunP/IFPhziKQalQNhYZgd4Z8BYVNxWCjux3uc7tkQSXBBGC9UwvnUMRvvbVMrciTYMdILsScdrsmhOZvfVG4SIKls+f8B1FbDYz9oMVUYyinxXxvYTrZMgiLfJzE6nud2gTWMpr4yKyOO/2njRlUySV0ZBCkwfoK9URXc+MTjYH5z+lvEFjw/fBIfrLlE1V8TJP1kiiZFe7DYsTlstHZz/k=;rJDWgKTCOkgXYQ/qwcz/Ng=="
+secured: "Pf34qW4eJJovknpOe/vto2mZJUtiEj2SROx5Gu5wL0nVyM/M6/zg+QD4Hx9duoZ5xsN3wYC1DUySWT1pu1pRjmzSU4kT5QRKD/eUUNkF3C18+zMcREa7NX4Fi2/I3BJp4i6pFesTd1KrXJGGCgNSpKB32AH0uSJWshkQ7HFi3gwACb9uZWJKEspqVrFAeCh7rX7DYMCTpjNMr7diSvnOAFsoc+s+aKXWQ9QO27hnSpK3IpzKOSHrj6qu0HSIWSzf7iRhiGEzpsh5atsDWmH8MiVoLr22mgmfBTNf0b4CURMAX4oZnMNcFaGKCrcXWpSomFCCc/IEgAyzW8r3K9sqCC6U+FV5ayPipG0YHbsi8GhcPeuF9XTR+d7NcPzw6PnHt1i0HbcZQYr4eKOgOFjg9B+K6V9x/bFw5NhbhugvZZhcVPcEyPPzhCDCWJmsa61CYJRtTDUaHtPasNTGKVOFAqVVPqejCPNBZppm7A6RhwV8/+oZ98DBOpqHgu5qXelou7ot+e8J3A5WGANEQc08yw==;gVeR+3tSySUdTpW/bad6ig=="
 ---
 

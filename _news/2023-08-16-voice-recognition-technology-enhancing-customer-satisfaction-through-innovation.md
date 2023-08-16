@@ -25,23 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Advocacy group raises privacy concerns as facial recognition technology booms"
-    excerpt: "Safety, efficiency and profitability are touted as the key drivers behind the growing popularity of digital ID technologies like facial recognition, but they present important privacy risks, Calgary-based legal advocacy organization Justice Centre for Constitutional Freedoms (JCCF) reveals in a new report."
-    publishedDateTime: 2023-08-11T21:13:00Z
-    webUrl: "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542"
-    ampWebUrl: "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1"
+  - title: "Brain-Like Chips And Future Technology Innovations"
+    excerpt: "IBM has revealed a 'brain-like' chip prototype that promises to boost energy efficiency in artificial intelligence (AI) applications."
+    publishedDateTime: 2023-08-16T08:20:00Z
+    webUrl: "https://www.electronicsforu.com/news/brain-like-chips-and-future-technology-innovations"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 71
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 54
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/08/GettyImages-1311613664.jpg"
-        width: 724
-        height: 483
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/08/JciOA9o6.jpeg"
+        width: 540
+        height: 370
         isCached: true
 
-secured: "g+a0yPr4hWqXlBbXv5ClQL8hQxXVMA1m0WiJYSJk95MspkSs+qQDSEI/MwV6RzlOwAsSVHEIY7tXvdfhC4BkqXMSR+E/yTzNN62v+dn/feyTu4OonGbGwRB5wEB8VPooVkWGMk/XUd2BdGTS/Ebev+o7/FMULdWgyNwl9WKgXqG0oS3xkywF0VSR7RTAtWpyXhSRKp84FDt7p5aSb3HnIlPF/7CghFd2zo1/Uvu1enS3KrPrGPgwgtr3U/8VGxbwP2gLW3FxTRocP3kU4fF6JzC6rb3N+JQqq4HeHKUVtTeEXpR+yHhVUMo6uSIvYWayY4A/2jEwMbL6rHgI1d6J9ySGoMQfZPKi6A7bkbatqWk=;udpAh2A3NXDxbAyWqTuFjw=="
+secured: "D1+bmMmd/sW2poeMa3l7LmJxvFP2kQNjOWAnNLuvUIHSqp65OeK5ORayd9ifcLauPlVxOcqudM0xPEBL8wtKmsg3lwOHxpHf1NJfj7QXSX032AyRcF2BqK6IwaiTRa3ecOOj8GUsXF3Dgz/WVSWPOvU0bnmbvqk9FMG4PN3hB+yHPUvJ8ch2aNBUKiYhKE9ZHD+vo6bNOebSIl7tCzGF+Fgl2CacABKfiU8RLKVYzw5+HbRk/Ed0YQ5OikfU73+3In42JjoITHTeQxNqaMBOFba0PMMpgiEByxofjQR0fWtouCcHkWgk7iN+oEf86YWmqxuFXVRedeNDMW71s0mdOPJ8B/88dv/WIH0HfQt0oYaW9yIhnFFm2+4P6uX2+ntYrvCnHBM3zGrgxrX977guO96in24b2y5xEFGyMNmKQ+bemNSxsp4rFWLmoXEaXMuyfzSQMohcD85UZO6HCEhvPDNY0cfXHHr7NRBBXQ8u6ZfVrHglUZp2BnDr2BPWSx9mDxLR9Z8P3dx27bjJB1474g==;WxI29/j+JL3YoCX3sh4xgg=="
 ---
 

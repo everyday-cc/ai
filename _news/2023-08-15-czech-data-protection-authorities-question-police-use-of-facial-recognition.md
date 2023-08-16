@@ -25,50 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "China closes record number of personal data breaches, moots facial recognition law"
-    excerpt: "China has closed a record number of personal data breaches and is seeking public feedback on draft laws to regulate the use of facial recognition data."
-    publishedDateTime: 2023-08-11T22:01:00Z
-    webUrl: "https://www.zdnet.com/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/"
+  - title: "With facial recognition CCTVs and anti-drone systems, R-Day security goes hi-tech"
+    excerpt: "Delhi has been wrapped in a security blanket for Tuesday's 77th Independence Day celebrations, with more than 10,000 personnel manning the area in and around the Red Fort from where Prime Minister Narendra Modi will address the nation,"
+    publishedDateTime: 2023-08-14T15:19:00Z
+    webUrl: "https://www.rediff.com/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm"
+    ampWebUrl: "https://m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
+      name: rediff.com
+      domain: rediff.com
+    quality: 73
     images:
-      - url: "https://www.zdnet.com/a/img/resize/e62c52c5ce87590f1066d076e19db9058ee87c0e/2023/08/11/893c158b-a331-42d7-a1ac-95c95a6f9fb1/gettyimages-1443495508.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://im.rediff.com/345-230/news/2023/aug/14president-murmu-addresses-the-nation.jpg"
+        width: 345
+        height: 230
+        isCached: true
+  - title: "1,000 Face Recognition Camera, Kite Catchers, Installed In Delhi Ahead Of Independence Day Celebration"
+    excerpt: "The Delhi Traffic Police on Sunday issued a traffic advisory for vehicular movement in Delhi on Tuesday as Prime Minister Narendra Modi would address the nation from the Red Fort."
+    publishedDateTime: 2023-08-14T02:54:00Z
+    webUrl: "https://www.outlookindia.com/national/1-000-face-recognition-camera-kite-catchers-installed-in-delhi-ahead-of-independence-day-celebration-news-310531"
+    ampWebUrl: "https://www.outlookindia.com/national/1-000-face-recognition-camera-kite-catchers-installed-in-delhi-ahead-of-independence-day-celebration-news-310531/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/1-000-face-recognition-camera-kite-catchers-installed-in-delhi-ahead-of-independence-day-celebration-news-310531/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 43
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1691921231.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "After years of dominating facial recognition tech, China is ready to govern it"
-    excerpt: "The rules also state that facial recognition tech must be used only when non-biometric measures won't do, among others."
-    publishedDateTime: 2023-08-15T01:08:00Z
-    webUrl: "https://techwireasia.com/2023/08/facial-recognition-tech-in-china-will-soon-be-governed/"
+  - title: "I-Day: 10,000 cops, facial recognition cameras at Red Fort"
+    excerpt: "With Delhi gearing up to celebrate India's 77th Independence Day, foolproof security arrangements have been made all across Delhi and especially at the Red Fort from where PM Modi will address the nat"
+    publishedDateTime: 2023-08-14T07:34:00Z
+    webUrl: "https://www.newsbytesapp.com/news/india/i-day-10-000-cops-facial-recognition-cameras-at-red-fort/story"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 35
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 39
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/08/shutterstock_1115578520-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://i.cdn.newsbytesapp.com/images/l52920230814121829.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Clint ISD teacher receives national recognition"
-    excerpt: "In the heart of Clint Independent School District, an educator is going above and beyond to provide profound support for her students. Meet Jennifer Galindo, a dedicated teacher with 16 years of experience,"
-    publishedDateTime: 2023-08-15T11:49:00Z
-    webUrl: "https://kvia.com/news/2023/08/15/clint-isd-teacher-receives-national-recognition/"
+  - title: "Independence Day 2023: Over 10,000 cops, 1,000 facial recognition cameras, anti-drone systems in place at Red Fort"
+    excerpt: "He added that around 1,000 cameras with facial recognition and video analytic systems have also ... The Independence Day celebrations will be led by Prime Minister Modi, who will deliver a speech from the Red Fort. He is also expected to inspect a Guard ..."
+    publishedDateTime: 2023-08-14T05:03:00Z
+    webUrl: "https://www.livemint.com/news/india/independence-day-2023-over-10-000-cops-1-000-facial-recognition-cameras-anti-drone-systems-in-place-at-red-fort-11691986233508.html"
+    ampWebUrl: "https://www.livemint.com/news/india/independence-day-2023-over-10-000-cops-1-000-facial-recognition-cameras-anti-drone-systems-in-place-at-red-fort/amp-11691986233508.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/independence-day-2023-over-10-000-cops-1-000-facial-recognition-cameras-anti-drone-systems-in-place-at-red-fort/amp-11691986233508.html"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 24
+      name: Mint
+      domain: livemint.com
+    quality: 39
     images:
-      - url: "https://kvia.b-cdn.net/2023/08/IMG_8213.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.livemint.com/lm-img/img/2023/08/14/600x338/Red-fort-Security-8_1691974651529_1691989003287.jpg"
+        width: 600
+        height: 338
         isCached: true
+  - title: "10,000 cops, facial recognition cameras part of Independence Day security at Red Fort"
+    excerpt: "A 1,000 facial recognition cameras, anti-drone systems, and over 10,000 police personnel keeping vigil are part of the security measures in place at the Mughal-era Red Fort here, from where Prime Minister Narendra Modi will address the nation on August 15."
+    publishedDateTime: 2023-08-13T15:52:00Z
+    webUrl: "https://www.deccanherald.com/india/delhi/10000-cops-facial-recognition-cameras-part-of-independence-day-security-at-red-fort-2646184"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 31
 
 secured: "KKgsdm/dNgsd0+UL6M4W+JwgwB8pyeSW4Old1OWYkiAEErbalhIhB5/88hsb+tsS+8CfOtVkEe3hyrbbuVuuuM0KuX8b3gteRuI26emT0mlScb+LrG536U06+oJjk6yLUqxRyFPz7iVCWdOT/BsFjzprCX5/OPKvweKM/fxFFkhqFtqoQkrYyd+ADom9a4TrGSjWB/iEMhNHL9uKOTyLpSjxClY078FmZO+PJBwIPM3CnLvhLhyDFTJpm6Kthi1s+0A85F1iQOQY71cuJrc8gFQAidUq0zYcUA4asaoWgKXd0466lEWIsQn0yUoat9BO/cztmKjqj5fFLlr0G3JA6veQEUmoWHUi9FB+Zl8/Ls8=;pQG/hD0JHhQo/5cM2MlRHQ=="
 ---

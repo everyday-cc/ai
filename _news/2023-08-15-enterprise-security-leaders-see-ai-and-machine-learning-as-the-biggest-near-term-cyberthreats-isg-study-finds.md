@@ -45,20 +45,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
-  - title: "Generative AI used to conduct cybersecurity drills"
-    excerpt: "A pair of recently-launched products use generative AI to actively train people on cybersecurity through the use of live simulations of real attacks."
-    publishedDateTime: 2023-08-11T20:22:00Z
-    webUrl: "https://www.accountingtoday.com/news/generative-ai-used-to-conduct-cybersecurity-drills-in-two-programs"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/bd302f2/2147483647/strip/true/crop/200x105+0+48/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc3%2Fe9%2Fd7a87c004bfe95e86c1840f263ae%2Fcybersecurity1223123.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "D7cJ00mhLEIXKeapZqf4h0NH9knFgpRiXDttQiz7zEdmh6ubgYMrhtk85Li1qh06FgeIWQFpMRoMkDSkJAOHYNlepgap/qmyRyxUoen+X3HqPa0C/KXH8ZadshxzdjCKUYw8q45+/JDYzYMdhYz8WIOOLScR+eW3wB8hPpxmfDhm/3aeslamLJietm1V63TEIsLHJkt1iJY2olEomM37wzUQcFiovoKKMd4ig++LwuL9V9BZvbyw/GnesbC2ukD7wTHpvOm5AwUTPP7Imb1Moit11hY4vDUVjvtLksWzCOHUfEJsO4tDVwSQYohxpG8tzsbqQxsnEbHDAG78e9SU+nCz0ZJByq3KTIwJDkg2qcg=;BN5TAZ/zui5gDV5iPBhiWg=="
 ---

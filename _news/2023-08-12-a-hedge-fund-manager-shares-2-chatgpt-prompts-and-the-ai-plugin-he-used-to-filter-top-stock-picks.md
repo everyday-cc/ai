@@ -22,47 +22,82 @@ topics:
   - AI
 
 related:
-  - title: "ESG May Help Regulate AI/ ChatGPT Use In Business"
-    excerpt: "The simultaneous rise of AI and ESG in the business sector creates an opportunity to use ESG to better regulate AI."
-    publishedDateTime: 2023-08-15T19:39:00Z
-    webUrl: "https://www.forbes.com/sites/jonmcgowan/2023/08/15/esg-may-help-regulate-ai-chatgpt-use-in-business/"
+  - title: "Exploring the risks and alternatives of ChatGPT: Paving a path to trustworthy AI"
+    excerpt: "Direct usage of chatbots in an enterprise presents risks and challenges. Learn how to mitigate these risks and establish trustworthy AI.\nThe post Exploring the risks and alternatives of ChatGPT: Paving a path to trustworthy AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-16T14:15:25Z
+    webUrl: "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 94
+  - title: "AI As Your Content Partner: Working With ChatGPT To Create Engaging LinkedIn Posts"
+    excerpt: "Learn to craft LinkedIn posts with ChatGPT: from custom instructions and creative briefs to emoji use and editing. A complete guide to engaging LinkedIn content."
+    publishedDateTime: 2023-08-16T14:04:00Z
+    webUrl: "https://www.forbes.com/sites/renaegregoire/2023/08/16/ai-as-your-content-partner-working-with-chatgpt-to-create-engaging-linkedin-posts/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
-  - title: "ChatGPT brings big data center stage for managers"
-    excerpt: "The launch of large language models such as ChatGPT this year has left money managers scrambling to explore applications and implications."
-    publishedDateTime: 2023-08-14T09:00:00Z
-    webUrl: "https://www.pionline.com/big-data/chatgpt-brings-big-data-center-stage-money-managers"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 24
+    quality: 61
     images:
-      - url: "https://www.pionline.com/s3/files/styles/1200x630/public/AI-illustration-cropped-16-9.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dcd6ddb9f53bfc4f3d516d/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "How ChatGPT can help you optimize your content for entities"
-    excerpt: "An object. The subject and object are typically the entities ... To determine successful entity usage within your material, these platforms often devise their own entity recognition algorithms. The left side prominently displays the entity."
-    publishedDateTime: 2023-08-13T22:23:00Z
-    webUrl: "https://searchengineland.com/chatgpt-help-optimize-content-entities-430315"
+  - title: "Learning to be a writer? Clinic topics include ChatGPT and getting an agent"
+    excerpt: "Local authors and educators Gary Arnold and Alexandra Weiss will be featured in the August Saturday Writers’ Clinic beginning at 9:30 a.m. Aug. 19 at the East Bank Regional Library,"
+    publishedDateTime: 2023-08-14T11:00:00Z
+    webUrl: "https://www.nola.com/entertainment_life/learning-to-be-a-writer-clinic-topics-include-chatgpt-and-getting-an-agent/article_21363b8e-3316-11ee-87c8-1716bd0d6883.html"
+    ampWebUrl: "https://www.nola.com/entertainment_life/learning-to-be-a-writer-clinic-topics-include-chatgpt-and-getting-an-agent/article_21363b8e-3316-11ee-87c8-1716bd0d6883.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/entertainment_life/learning-to-be-a-writer-clinic-topics-include-chatgpt-and-getting-an-agent/article_21363b8e-3316-11ee-87c8-1716bd0d6883.amp.html"
     type: article
     provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 4
-  - title: "How will the oil and gas industry use ChatGPT?"
-    excerpt: "However, its use extends beyond the household and the classroom, and it is being eyed for a host of other industries. Follow along with GlobalSpec for an ongoing series examining how ChatGPT is being used in specific industries,"
-    publishedDateTime: 2023-08-15T09:03:00Z
-    webUrl: "https://insights.globalspec.com/article/20882/how-will-the-oil-and-gas-industry-use-chatgpt"
+      name: NOLA.com
+      domain: nola.com
+    quality: 42
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/8/8f/88fb72de-088d-11ed-9091-f3736f902ba2/6011b8319c193.image.jpg?resize=1024%2C756"
+        width: 1024
+        height: 756
+        isCached: true
+  - title: "Understanding ChatGPT: Exploring the Technology Behind this Powerful AI Model"
+    excerpt: "Get to know the Generative Pre-Trained Transformer (GPT) better, before you consider putting it to any serious use."
+    publishedDateTime: 2023-08-14T06:17:00Z
+    webUrl: "https://www.electronicsforu.com/technology-trends/understanding-chatgpt"
     type: article
     provider:
-      name: GlobalSpec
-      domain: globalspec.com
-    quality: 4
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 36
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/GPT-AI-1.jpg"
+        width: 500
+        height: 450
+        isCached: true
+  - title: "Google’s Gemini AI might be the best thing that happens to ChatGPT"
+    excerpt: "Google's Gemini ChatGPT rival will launch this fall with a few exciting features, and that's actually great news for ChatGPT fans."
+    publishedDateTime: 2023-08-16T13:41:00Z
+    webUrl: "https://bgr.com/tech/googles-gemini-ai-might-be-the-best-thing-that-happens-to-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 17
+  - title: "Many experts believe AI chatbots like ChatGPT are here to stay. So how can they fit into the academic world? We looked for answers."
+    excerpt: "With the start of the school year just around the corner, educators acknowledge that programs like ChatGPT are already a presence on the academic landscape."
+    publishedDateTime: 2023-08-12T18:03:00Z
+    webUrl: "https://kstp.com/kstp-news/top-news/many-experts-believe-ai-chatbots-like-chatgpt-are-here-to-stay-so-how-can-they-fit-into-the-academic-world-we-looked-for-answers/"
+    type: article
+    provider:
+      name: KSTP-TV
+      domain: kstp.com
+    quality: 7
+    images:
+      - url: "https://kstp.com/wp-content/uploads/2023/02/CHATGPT-EXPLAINER_PKG_00.01.04.52.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "GmsRZWqVdgAF2nwsE7cy5oz0Vi7L0JvWZqgbGaFhvvt4BOXQlwtMorFvLPA/8yaCERdhu1sfKfI/xxwb3EGkurBr1QAuX2ZncSmgawBMgk43AMXWHZw6vMMvL5mNWMPbFwkW0d4FYS4pXhka74e6shyEFuiK0weLb2kDYNDHdzzPgd/KX33zv+v9j8h4JbEeqMDK7ERUDEAEPA0QDNwDq5N0GE4fVfVmGuQyrAfyCThWdb2doQyQ0iyQG461HlKft/K7wvqL/amLTdnxiMajKcgtNvtUDALHz8KVF0CFIkhUBC8JPWAv3oMWmUgcBpFkfbVRTIh/hP/s8iPtcZKiXZpfvfG7N+YlDFA19KOF557gNJdYouCzb9HR/UEUNDpxRw/OevZZtbuD6AaVKahJyhyshjIXAhjyWS4bpnbDKgaHmbX130c2VgUcIylmA/MhWHyo1Ve4XTkia50W7psigNfwQqFplCjh7IjYFVgoqmj9JtHyHj0rvd0eFarWkS6UJ1OTYtaFeKPCAP7vhgFYgA==;f5rjurnb1OsCb2vwGcdHxA=="
 ---

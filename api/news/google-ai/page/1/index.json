@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-16-the-world-isnt-ready-for-the-next-decade-of-ai.md",
+      "title": "The World Isn’t Ready for the Next Decade of AI",
+      "excerpt": "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
+      "originalUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI",
+        "Google AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-move-over-bard-googles-next-big-ai-product-is-coming-this-fall.md",
       "title": "Move over Bard, Google's next big AI product is coming this fall",
       "excerpt": "Google Gemini, the next-generation AI foundational model that combines conversational text with image generation, could launch this fall.",
@@ -1427,40 +1482,6 @@
         "Google AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-meet-team-xai-musks-latest-brainchild-boasts-heavyweight-lineup-from-deepmind-openai-google.md",
-      "title": "Meet Team xAI: Musk's Latest Brainchild Boasts Heavyweight Lineup From DeepMind, OpenAI, Google",
-      "excerpt": "Tech billionaire Elon Musk has unveiled his latest venture, xAI, featuring a dream team of 12 co-founders recruited from industry giants like DeepMind, OpenAI, Google, and Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/07/33213851/meet-team-xai-musks-latest-brainchild-boasts-heavyweight-lineup-from-deepmind-openai-google",
-      "originalUrl": "https://www.benzinga.com/news/23/07/33213851/meet-team-xai-musks-latest-brainchild-boasts-heavyweight-lineup-from-deepmind-openai-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

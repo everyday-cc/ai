@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Train self-supervised vision transformers on overhead imagery with Amazon SageMaker"
+    excerpt: "In this post, we demonstrate how to train self-supervised vision transformers on overhead imagery using Amazon SageMaker. Travelers collaborated with the Amazon Machine Learning Solutions Lab (now known as the Generative AI Innovation Center) to develop this framework to support and enhance aerial imagery"
+    publishedDateTime: 2023-08-16T16:00:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 98
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/24/dino_ben-1260x604.png"
+        width: 1260
+        height: 604
+        isCached: true
   - title: "Intelligent video and audio Q&A with multilingual support using LLMs on Amazon SageMaker"
     excerpt: "Digital assets are vital visual representations of products, services, culture, and brand identity for businesses in an increasingly digital world. Digital assets, together with recorded user behavior, can facilitate customer engagement by offering interactive and personalized experiences, allowing companies"
     publishedDateTime: 2023-08-15T15:14:09Z
@@ -42,6 +56,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/15/intelligent-video-sagemaker-1260x630.jpg"
         width: 1260
         height: 630
+        isCached: true
+  - title: "Zero-shot and few-shot prompting for the BloomZ 176B foundation model with the simplified Amazon SageMaker JumpStart SDK"
+    excerpt: "Amazon SageMaker JumpStart is a machine learning (ML) hub offering algorithms, models, and ML solutions. With SageMaker JumpStart, ML practitioners can choose from a growing list of best performing and publicly available foundation models (FMs) such as BLOOM, Llama 2, Falcon-40B, Stable Diffusion, OpenLLaMA,"
+    publishedDateTime: 2023-08-14T17:07:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/zero-shot-and-few-shot-prompting-for-the-bloomz-176b-foundation-model-with-the-simplified-amazon-sagemaker-jumpstart-sdk/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 64
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/14/zero-shot-prompting-bloomz-sagemaker-jumpstart.jpg"
+        width: 912
+        height: 452
         isCached: true
 
 secured: "UvVjbb5WHovEN3CyHLtn87PR9qdVn4n8TmkZwQzlxe/hNHCpm+blkbAjOIbwgggFP6twjQw/jEbV3Vb9yoIsk2RoLR3OiaTnZ3eoPbY+QGHGg1atE1kthWIDVhO61KYhjMP7IYr0CHq5CdWuindU2SSK3rx/BQIoqSoDkaOvf8zS4XxPW0tPOcoe3RYihf1mNXFMs1B67CSiFUUYQCMFYpF9wM36yF2dkN58S5Jhrb5dXd9ck2HI9vpFl+j9ksNiQNLtQzOlHPD2OTcDOdnFqmlSYN3/VK/F1ZPD6VxHulWvXEazohrCiQxfaOedQFEqdyWOWEqNeUe2Ur+gf9zGCyUxuWEHAuS+ngExYlvEKeA=;kzKhE9whfSewtVjteAqEzQ=="

@@ -43,6 +43,17 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "DynamoFL raises $15.1 million in Series A to scale privacy-focused generative AI for enterprises"
+    excerpt: "Privacy-solutions provider for generative AI space DynamoFL, has raised $15.1 million as part of a fresh funding round, co-led by existing investor Nexus Venture Partners and Canapi Ventures."
+    publishedDateTime: 2023-08-16T14:03:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/dynamofl-raises-151-million-in-series-a-to-scale-privacy-focused-generative-ai-for-enterprises/article67201952.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/dynamofl-raises-151-million-in-series-a-to-scale-privacy-focused-generative-ai-for-enterprises/article67201952.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/dynamofl-raises-151-million-in-series-a-to-scale-privacy-focused-generative-ai-for-enterprises/article67201952.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 26
 
 secured: "F46ykWqBzokOeijvhoNymKZDEvWZcG76frt2Y6SQcgqjme4VmyZjxjdxyZn/WCSUDJIqimiyWrdzUvTGCRf5PDBbZiWYu8kMsZBEVrDK1o4eCoq9c8fwbqzqH0wXeuu39qyn7sXs8Xc2akHPimTklW/d8sCblR3LartHTfiiPi1MCerscUi+1UKvvL8FVSxIu0c4T1TI3n8yqYrdc/gOOalm4LhCopg9LJyrR+vFaskf/z4BpwQXxdSRq5EwYKUYWUVR664VEHifcH88m3RYjL/uxQYxyULt/bLEXO8NlcPrMPR22ZH82wHcpTAxppfs3ZdZfqIfgO3jktoRgaK7ULjChAd728+bNfct+pqBMexvNgRgxuiWI0pSMcEPHY62CQLlyojLb3AWmQD4eWfV34oBrdpUFIKEu6u/bDid/RkrHt3MQU2bjGqVYjRT7MZ3mytF1gyjrQrBQKyGFDWi0ox+vRi/lCjSv7wlSW7NtAu//dUD5arWo4Chn0OJCc27jTUsJOkruI37QYD7H0Bc8A==;joEcPqLr5thudYn7yCUXgQ=="
 ---

@@ -2,45 +2,27 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-15-software-engineers-could-get-30-time-back-thanks-to-generative-ai.md",
-      "title": "Software Engineers Could Get 30% Time Back Thanks To Generative AI",
-      "excerpt": "Generative AI has the potential to automate between 60% to 70% of the work that most of us engage in every day. But for many knowledge workers, generative AI tools are likely to help take back time spent on administrative tasks,",
+      "path": "_news/2023-08-16-the-future-of-finance-ai-meets-tokenization.md",
+      "title": "The Future of Finance: AI Meets Tokenization",
+      "excerpt": "F ederal Reserve Governor Christopher J. Waller recently gave a speech titled: “Innovations and the Future of Finance,” explicitly focusing on two emerging technologies, namely Tokenization and Artificial Intelligence (AI). He said, “the world is rapidly changing, and we need to be open to the potential benefits of innovation.”",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/software-engineers-could-get-time-back-thanks-to-generative-ai/",
-      "originalUrl": "https://www.techrepublic.com/article/software-engineers-could-get-time-back-thanks-to-generative-ai/",
+      "webUrl": "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization",
+      "originalUrl": "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 86,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T06:58:00-07:00",
+      "publishedDateTime": "2023-08-16T05:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,9 +31,9 @@
         "news"
       ],
       "topics": [
-        "AI",
         "Microsoft AI",
-        "Facebook AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-08-12/ai-news-this
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-12/ai-news-this-week-chips-and-china-investment-rules"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2023/08/AI-convention.jpg?quality&#x3D;85"
         width: 1024
         height: 593
-        isCached: true
-  - title: "Reverse CFIUS Unveiled: Focus on China, Semiconductors, Artificial Intelligence, and Quantum Computing"
-    excerpt: "President Biden issued an Executive Order (E.O.) ordering the issuance of outbound investment restrictions. This E.O. comes after nearly a year of anticipation (as we have"
-    publishedDateTime: 2023-08-11T22:45:00Z
-    webUrl: "https://www.natlawreview.com/article/reverse-cfius-unveiled-focus-china-semiconductors-artificial-intelligence-and"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 21
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/33801/SemiConductor%20Circuit%20Board_0.jpg?itok=KoMeBKMn"
-        width: 500
-        height: 282
         isCached: true
   - title: "New Outbound Investment Restrictions Affect China, Semiconductors, Artificial Intelligence, and Quantum Computing"
     excerpt: "President Biden issued an Executive Order (E.O.) ordering the issuance of outbound investment restrictions. This E.O. comes after nearly a year of anticipation (as we have"

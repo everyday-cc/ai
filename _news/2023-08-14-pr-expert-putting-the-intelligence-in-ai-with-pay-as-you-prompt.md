@@ -61,6 +61,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
+  - title: "The Key People Driving Meta’s Generative AI Work"
+    excerpt: "As Meta Platforms has tried to cut costs and trim headcount over the past year, one area has emerged as an exception: generative artificial intelligence. Caught flat-footed by the explosion of interest in OpenAI’s ChatGPT,"
+    publishedDateTime: 2023-08-16T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/the-key-people-driving-metas-generative-ai-work"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 19
 
 secured: "/i8BGtK77HiZ0qV1UvX7jlZoj8Nz8SN7bc9Q13ZtQ6iKsuYvNNE/QpldliAb34fp47Dl/SzhkNsTqWmZj1ITttYdvfsfZa7T+0Vm7o5HCLUiap4yUP7gDzzenRBUzB9oNbl8DXWJxfrquJe0VudPf1DEFxgBp8aZv5LhU9iE04f7Jt/66KxQS74f+2oguA21fulGLIOlufhOkmbUDP4bQriL1BxtpXUzr3VoWJJcmZ+zwXBpoCoK1RUrmn6YF1sfe0P9DMWXJqnkqN0R+ZCvBPjmO1SMGSSVuePyRJMLJQfPW6LUi4pmkGWaxrAgTYyhI6IwJNajZYUNgWQU+Hr6BJh/0IQ/bQf/X4V6fGydtBk=;+4lhCkfrZ27PGRV6kwty+g=="
 ---

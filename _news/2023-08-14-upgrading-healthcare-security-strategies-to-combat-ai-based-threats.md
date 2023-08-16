@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/"
 type: article
 quality: 121
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
-  - title: "Generative AI used to conduct cybersecurity drills"
-    excerpt: "A pair of recently-launched products use generative AI to actively train people on cybersecurity through the use of live simulations of real attacks."
-    publishedDateTime: 2023-08-11T20:22:00Z
-    webUrl: "https://www.accountingtoday.com/news/generative-ai-used-to-conduct-cybersecurity-drills-in-two-programs"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/bd302f2/2147483647/strip/true/crop/200x105+0+48/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc3%2Fe9%2Fd7a87c004bfe95e86c1840f263ae%2Fcybersecurity1223123.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Enterprise Security Leaders See AI and Machine Learning as the Biggest Near-Term Cyberthreats, ISG Study Finds"
     excerpt: "Global enterprise leaders see emerging AI and machine learning technologies as the biggest looming threat to cybersecurity, and are focusing future cyber investments on detection and prevention rather than remediation,"
     publishedDateTime: 2023-08-15T15:32:00Z

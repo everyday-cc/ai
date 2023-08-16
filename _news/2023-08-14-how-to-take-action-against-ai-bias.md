@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704495/how-to-take-action-against
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/08/shutterstockelnur-100944620-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 801
+        isCached: true
+  - title: "How to tackle the ethics of Generative AI"
+    excerpt: "A tip by Daniel Pell of @Workday about how business leaders should approach the ethical questions around deploying #GenerativeAI"
+    publishedDateTime: 2023-08-15T07:36:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/08/15/how-to-tackle-the-ethics-of-generative-ai/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/01/business-tip.jpg"
+        width: 728
+        height: 410
         isCached: true
   - title: "Foundations Seek to Advance AI for Good, Protect Against Threats"
     excerpt: "While technology experts sound the alarm on the pace of AI development, philanthropists have been responding with an uptick in grants."

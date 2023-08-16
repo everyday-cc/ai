@@ -33,20 +33,6 @@ related:
         width: 1198
         height: 701
         isCached: true
-  - title: "App Science Announces New AI Feature Within Its Insights Analytics Dashboard"
-    excerpt: "CNW/ -- (TSXV: SBIO; OTCQX: SABOF) (the \"Company\" or \"Sabio\"), a leading provider of connected TV (\"CTV\")/over-the-top (\"OTT\")"
-    publishedDateTime: 2023-08-16T11:30:00Z
-    webUrl: "https://www.newswire.ca/news-releases/app-science-announces-new-ai-feature-within-its-insights-analytics-dashboard-899108532.html"
-    type: article
-    provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/1725822/Sabio_Holdings_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
   - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
     excerpt: "Klein served as the chief operating officer of the Department of Defense Joint Artificial Intelligence Center."
     publishedDateTime: 2023-08-15T08:50:00Z
@@ -61,6 +47,15 @@ related:
         width: 1080
         height: 969
         isCached: true
+  - title: "App Science Announces New AI Feature Within Its Insights Analytics Dashboard"
+    excerpt: "The new AI feature is available immediately and in use currently by App Science clients. To learn more about the capabilities of App Science Insights and how it works, visit https://www.appscience.inc/solutions/insights."
+    publishedDateTime: 2023-08-16T12:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/16/9865492.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "jQq7739S2HFTrRmjdTlJ5S7hQ/0cFVJZBypfviZNxZlalCqmxYvpHfJ3qVbN99CtQxyxBjfe7JOxhCptQyibgsrxt9bX43Z7Mb8U33L2aVZPPPUWcAYjr1l/R4f8ui8Os7qcGbIuBaedlU79pKGydva486vmdBt3hJICw3HZBkEi+ksnluSB7dJajxKsl5T4SRjAtG/N23GnW/ChS0Q16BxmXjuhtTGUCiHUrhCi5wkguxAVktrYGfiIGqKe2BB/+17gIlPUvNvIpcRZDAQIVwCLqXtAHnzpBG4SQSzC6vF5YJZWcZkmYA6luDUXu8S4FBu944etSo3NpkidAMJQ+ensjAn5wW9h8UpEKIJWN1kfmH2ZXnMH0/2Knp1VF/3oBlF7F+ZwmOOrpMdBxrGKt37CvdhgHynnu62hdsLYcv/67xiT6Hxq9QzKw/mOq6uX5JkE0yh5BAiFr5qZneJ5TUoOc2dGmjgCssMQnuGYb6eUj7bmcRwsfG3ekItLsj/Jh8YtgzE1sFG3mZKEnCBcLQ==;Du8sk1jRuY+Av32//VdawQ=="
 ---

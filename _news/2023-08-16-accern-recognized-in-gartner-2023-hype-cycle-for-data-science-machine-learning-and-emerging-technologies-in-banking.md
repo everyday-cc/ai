@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-16T10:40:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59865816-accern-recognized-in-gartner-2023-hype-cycle-for-data-science-machine-learning-and-emerging-technologies-in-banking-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59865816-accern-recognized-in-gartner-2023-hype-cycle-for-data-science-machine-learning-and-emerging-technologies-in-banking-200.htm"
 type: article
-quality: 0
+quality: 13
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "Jaggaer recognized again in 2023 Gartner Hype Cycle for Artificial Intelligence"

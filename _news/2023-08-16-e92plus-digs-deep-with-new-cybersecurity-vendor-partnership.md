@@ -25,36 +25,26 @@ images:
     isCached: true
 
 related:
-  - title: "Black Hat USA 2023 Panel: Used Correctly, Generative AI is a Boon for Cybersecurity"
-    excerpt: "A Black Hat 2023 panel discussed the ramifications of generative AI, and included the former Cyber Czar for the Obama administration."
-    publishedDateTime: 2023-08-11T21:02:00Z
-    webUrl: "https://www.techrepublic.com/article/black-hat-2023-generative-ai-panel/"
+  - title: "How continuous automated red teaming (CART) can help improve your cybersecurity posture"
+    excerpt: "CART utilizes automation to discover assets, prioritize discoveries and conduct real-world attacks to help improve your cybersecurity posture.\nThe post How continuous automated red teaming (CART) can help improve your cybersecurity posture appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-16T13:09:15Z
+    webUrl: "https://www.ibm.com/blog/how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 61
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
-        width: 270
-        height: 203
-        isCached: true
-  - title: "Black Hat USA 2023: Five Lessons in Artificial Intelligence"
-    excerpt: "Cyberattackers are using AI to reconstruct and manipulate data points to prey on your weaknesses, but researchers say regulating the emerging technology can help."
-    publishedDateTime: 2023-08-14T20:15:00Z
-    webUrl: "https://biztechmagazine.com/article/2023/08/black-hat-usa-2023-five-lessons-artificial-intelligence"
-    ampWebUrl: "https://biztechmagazine.com/article/2023/08/black-hat-usa-2023-five-lessons-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/08/black-hat-usa-2023-five-lessons-artificial-intelligence?amp"
+      name: IBM
+      domain: ibm.com
+    quality: 74
+  - title: "Cabinet approves Rs 14,903 cr for AI, cybersecurity, digital skilling"
+    excerpt: "The government previously revealed plans to construct three Centres of Excellence (CoE) for the advancement of AI research and innovation in India"
+    publishedDateTime: 2023-08-16T14:40:00Z
+    webUrl: "https://www.business-standard.com/economy/news/cabinet-approves-rs-14-903-cr-for-ai-cybersecurity-digital-skilling-123081600710_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/economy/news/cabinet-approves-rs-14-903-cr-for-ai-cybersecurity-digital-skilling-123081600710_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/economy/news/cabinet-approves-rs-14-903-cr-for-ai-cybersecurity-digital-skilling-123081600710_1.html"
     type: article
     provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 57
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202308/black%20hat%20hero%20kumar.png.jpg?itok=fPUncIsj"
-        width: 1440
-        height: 500
-        isCached: true
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
 
 secured: "dcsi+AqTBMnwHoS4tMiEgH1iXaeN+6X5mwh4DymjesOaFK38K9rZ+i3MZqJ7Gbogbx79xjHIueHsLqDvDjIR7ElTOSYL3FWOfaBprWsTJzGMFOVBRvCBjn/fCU1rZoK7eB5nJLNMuDgax5omHuvKxsBezS32qoGcGSUiw1g5ncmi/qbJDDz430VzNA0h2YEY3K5gOLkoYcaDZ9OYNzVOcfJt/gXS1h+JG7Uzo3HL9fNDTUR1ORwrxPts6dy5Cmth3f3cYAjf/cSD/OoKd6Ont/nnUQ394FIiWiGhh6FrpyThl6jZwcc+scDIlBmISBxifqlmatFq1ud8PI/nkiHXLX3OUS6n9hJmyx5+yDrohrY=;mIafwrrLAhqjA28aop7kZQ=="
 ---

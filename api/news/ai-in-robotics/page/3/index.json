@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-08-01-buy-alert-3-robotics-stocks-nearing-super-attractive-entry-points.md",
-      "title": "Buy Alert: 3 Robotics Stocks Nearing Super Attractive Entry Points",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Before artificial intelligence (AI) became a household word, there was",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-high-potential-robotics-investments-that-look-super-attractive-1032497309",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-high-potential-robotics-investments-that-look-super-attractive-1032497309",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-31T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-01-of-americans-see-ai-and-robotics-providing-future-care.md",
       "title": "⅓ of Americans see AI and robotics providing future care",
       "excerpt": "Americans are increasingly open to the use of AI-based care as they age, with many willing to accept robots to help with dressing, bathroom use and emergency alerts.",
@@ -1334,6 +1291,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-robot-preachers-ai-programs-may-undermine-credibility-of-religious-groups-study-finds.md",
+      "title": "Robot preachers, AI programs may undermine credibility of religious groups, study finds",
+      "excerpt": "As artificial intelligence expands across more professions, robot preachers and AI programs offer new means of sharing religious beliefs, but they may undermine credibility and reduce donations for religious groups that rely on them,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-credibility.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-credibility.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/robot-preachers-ai-pro.jpg",
+          "width": 592,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-credibility.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-credibility.amp",
+      "publishedDateTime": "2023-07-24T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

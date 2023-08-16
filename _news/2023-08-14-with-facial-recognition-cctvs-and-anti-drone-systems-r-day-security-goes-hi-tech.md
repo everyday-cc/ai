@@ -9,7 +9,7 @@ ampWebUrl: "https://m.rediff.com/amp/news/report/with-facial-recognition-cctvs-a
 cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm"
 type: article
 quality: 73
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/08/14/600x338/Red-fort-Security-8_1691974651529_1691989003287.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "Czech data protection authorities question police use of facial recognition"
+    excerpt: "The Office for Personal Data Protection asked the police for information on the facial recognition system that has been in trial operation for almost a year."
+    publishedDateTime: 2023-08-14T20:20:00Z
+    webUrl: "https://www.biometricupdate.com/202308/czech-data-protection-authorities-question-police-use-of-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
         isCached: true
   - title: "10,000 cops, facial recognition cameras part of Independence Day security at Red Fort"
     excerpt: "A 1,000 facial recognition cameras, anti-drone systems, and over 10,000 police personnel keeping vigil are part of the security measures in place at the Mughal-era Red Fort here, from where Prime Minister Narendra Modi will address the nation on August 15."

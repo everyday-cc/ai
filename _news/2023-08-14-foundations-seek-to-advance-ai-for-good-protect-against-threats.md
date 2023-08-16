@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "How to tackle the ethics of Generative AI"
+    excerpt: "A tip by Daniel Pell of @Workday about how business leaders should approach the ethical questions around deploying #GenerativeAI"
+    publishedDateTime: 2023-08-15T07:36:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/08/15/how-to-tackle-the-ethics-of-generative-ai/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/01/business-tip.jpg"
+        width: 728
+        height: 410
+        isCached: true
   - title: "Fiction Writers Fear The Rise Of AI, But Also See It As a Story To Tell"
     excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity. More than 10,000 of them endorsed an open letter from the Authors Guild this summer,"
     publishedDateTime: 2023-08-13T15:51:00Z

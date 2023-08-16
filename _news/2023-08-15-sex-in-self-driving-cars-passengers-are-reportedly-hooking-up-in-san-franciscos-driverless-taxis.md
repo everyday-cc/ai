@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp"
 type: article
 quality: 75
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -121,24 +121,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 1
-  - title: "San Francisco's police, fire departments fret about push for more self-driving cars"
-    excerpt: "Self-driving car firms want California regulators to allow for more vehicles on San Francisco streets. Police and fire departments cite many times when autonomous vehicles botched rescue operations."
-    publishedDateTime: 2023-08-11T20:27:00Z
-    webUrl: "https://www.wmfe.org/2023-08-11/san-franciscos-police-fire-departments-fret-about-push-for-more-self-driving-cars"
-    type: article
-    provider:
-      name: WMFE
-      domain: wmfe.org
-    quality: 0
-  - title: "Startup Altruist plans to open San Francisco office as it scraps remote-first strategy"
-    excerpt: "One of the latest to shift from remote-first to a hybrid-workplace model is Culver City-based Altruist, which plans to open a San Francisco office for its Bay Area workforce. The company employs about 30 people in the Bay Area, according to RIABiz.com, an industry publication for financial advisers."
-    publishedDateTime: 2023-08-11T21:39:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/08/11/startup-altruist-plans-to-open-san-francisco-offic.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "1W6FmxoDcvuQY2CzjBzVzn7z7SVPY8BoKwrOl7614BjXrI8mPqtITCgsaXdQ5V2Kjb+kQnUVLYMny2feoyjyZl94wLmcEwdIblLWxF4S3XKl0F9rFd48GnDsGS5pa+jHNtl6NwRn5rgpwir8s7qv7moRNZzV/lRTEV9FV2oYlUE5SHt714+sx/vDnq45+NtH4wwFPfU/zuNdVMEnQaI4t8v4hlPJCIOhY3tAy7jw+bHhCcXULq1vVPirWmbv7mChh3suGD8t6mwi66Mv7z54f6DL7qXaHtIKdKIlKjYUZA1C8h6A+SNnU+Q3l9plK6yRHJQSuDRwADGeV4M3xOps6sWY0aNfDanr+9DRMs+1X7P2NExdqu+GtCM+oEI+IpHTDc5rBZ5JYa3ONcbQZycC0yqJ/WOhcf1QKVip8ibunIHCfx6pl1F4O8Du0WscsHBss758IFfKOTupDaACepLeP+UFwP8HDPEuqnkVwaW/x5161a6d0N+1RZEmMgPGOJHBJ50Di/d4gdh34ArhamdYxA==;34INDcpmxiq7yqoeK5x5uQ=="
 ---

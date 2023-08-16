@@ -25,31 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "AI's Role in Modern Healthcare: A Closer Look at Clinical Practice"
-    excerpt: "The \"Artificial Intelligence (AI) in Clinical Practice\" report has been added to ResearchAndMarkets.com's offering. This report delves into the use of AI in clinical"
-    publishedDateTime: 2023-08-11T22:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33765664/ais-role-in-modern-healthcare-a-closer-look-at-clinical-practice"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33765664"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33765664"
+  - title: "Wcm-Q Discusses Legal, Ethical Issues Of Generative Ai In Healthcare"
+    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed during the latest instalment of Weill"
+    publishedDateTime: 2023-08-16T03:14:00Z
+    webUrl: "https://menafn.com/1106864884/Wcm-Q-Discusses-Legal-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
+      name: Mena FN
+      domain: menafn.com
+    quality: 71
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?248441"
+        width: 444
+        height: 250
         isCached: true
-  - title: "Demystifying AI in healthcare in India"
-    excerpt: "More and more innovations are coming up in AI-based healthcare services and may soon convert India's dream of affordable universal healthcare into reality"
-    publishedDateTime: 2023-08-16T07:29:00Z
-    webUrl: "https://www.forbesindia.com/article/isbinsight/demystifying-ai-in-healthcare-in-india/87547/1"
+  - title: "BMC’s CTO Ram Chakravarti on Generative AI in the Enterprise"
+    excerpt: "The BMC executive discussed the challenges posed by generative AI and also gave advice on optimizing enterprise AI deployments."
+    publishedDateTime: 2023-08-15T21:59:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/bmc-generative-ai-in-the-enterprise/"
     type: article
     provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 36
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/08/eSPEAKS-thumbnail.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "+o+z6LuIy2ERt9JWG2utcog/xj2cVPSPG6KGWkQkJGLuNxa+JFM284DipfGBUP2lOd+IA5+77WdwAFgD195HWqWetfRTHOtgCOwlTT8vzDE65c2pxj2PmcfRoGGLbTbvCxgNxIyq6U3fIotLnnRmjjKRM1SC2v5P3YMnWQnNbcOsWuWuYfUPoeWuE8hzgizPDegrGSa6pfvNX3iWQJ0/LBVDnfB8LmqaAvTBRXSvvxHmZ9c1AQRhejv0U/0ZbrjV3yJhm0jfS0VGgzexg5uMDwE++JUfqECMbbSefj3S2VLalvKHfM+LLI+15nniQzubgxf3HJhB0sTyHztkbGoGb4O833aAoY5/4jOGBYFnqoJ+wEkkDv1iKcpelQ8X5VSqpmDgFwUAA4FRpVmL2eo9tQg72UiZubUntmFTiJDUMjsGt5Nx93mdwwUMtDmz6pU7L11FsYcgtDIH8NkKmHzO/VTVIxZg7Q2mDSb+4cZQqcHoxK8Syvw2PnmDgTp8zVIKxpp7HCjnVRe3mQJgyPj33Q==;xHnOqrymXnW3S/29AxC03g=="
 ---

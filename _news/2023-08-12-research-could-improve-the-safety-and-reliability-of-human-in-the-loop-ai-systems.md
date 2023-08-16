@@ -24,17 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "The Reality of Artificial Intelligence in the Family Office Realm"
-    excerpt: "Across industries, professionals are talking about the opportunity and utility of artificial intelligence (AI). In the estate planning and family office realms, two fields that require a distinctly hu"
-    publishedDateTime: 2023-08-15T19:17:00Z
-    webUrl: "https://www.natlawreview.com/article/reality-artificial-intelligence-family-office-realm"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 21
-
 secured: "6o/1xSG5QbdbiEYde1Pb10wFH2b1KxYwsJvaAmrF27UBDQRdo4MTeUeMDH6wh983p+hidj7uJBrEYQrF2z93IURfEn0ou37mLFuV4yQl8V6Li/Fx0etndNO6MOTpMHa6W/mZaDG0YQBcpBLZlzmKrrb8qdkdVtEYe5ycC3+21eqsbhBb+B0BrudrNJNrX4so3w257VMflvbbnttHBHEnKzm6HezirdkRQu/HNvWkXVlwWj345eKNBPSh5+Rd9Kvs4tCrqBX68H0/toU+Jd7eLUXZ2o449VGNNquXn/ZVxruwOAI+/ETZJXnzDZxbIxnOLz3Gdi6HAnyjoVuZUeRU4aiaBYonJxTXUeca7ZWTLSM=;JAHHm921tyynURAyF3/Niw=="
 ---
 
