@@ -98,6 +98,20 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "How AI Can Scale Personalization and Creativity in Marketing"
+    excerpt: "AI tools can help marketers use performance data to optimize the results of their messaging before they launch an email campaign. Using AI, an organization can quickly crunch millions of data points from its most successful campaigns to help it recommend changes in messaging, imagery, and layouts for pending emails."
+    publishedDateTime: 2023-08-16T15:43:00Z
+    webUrl: "https://hbr.org/sponsored/2023/08/how-ai-can-scale-personalization-and-creativity-in-marketing"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 54
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/07/AIScalingPersonalization-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution"
     excerpt: "Nutanix ( NASDAQ : NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box solution for customers looking to jump-start their artificial intelligence (AI) and machine learning (ML) innovation, while maintaining control over their data."
     publishedDateTime: 2023-08-15T14:42:00Z

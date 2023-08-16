@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2023-08-qa-scientist-discusses-artificial-i
 ampWebUrl: "https://techxplore.com/news/2023-08-qa-scientist-discusses-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-qa-scientist-discusses-artificial-intelligence.amp"
 type: article
-quality: 59
-heat: 59
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-67.jpg"
@@ -26,6 +28,6 @@ images:
     height: 974
     isCached: true
 
-secured: "EPZYZQni+5QveHgcI1J/MeeP0bCPKWqMJax1rAlA5X9F/vrX/rH0gs7eme+fJLyUWsxKIzN4zjZGixZZZ+o9rNcoFAYykH9Wm+o8w2chVrneQ85RDWV+BXun8n9b211sLIjImj82UNMMPUuEfAGJii/flG62FrMMgJvHoYx+5vxLSzrxN5CFB3b4ptJMg4lC/Kluhyb8LmkHh0Kq1jYGt1Hij8LKTjnosf3cFOOr2EExBsY1ua4tr0DwwOTCYCz9oOAq6brYAkgROJxbxuMPwYDpCoT7w/Jf3PsNKNmP/4NypwfCcdk+aiO1PWSWoKM0VZS605MPOmsQVd4QKdDsreqJX0JW4AiRq7JI2XFRueI=;f5v7T+4gtY4p0C1NT/AUyw=="
+secured: "yjLYchD+pNWxhebxzz0liNOuoSCCuRhOLNb7DwJt4bxuDzZuT1iwgtRqDtIeBMGbRu6O7R2TNsiZpiK+uubZCiBzhXysCWFz3BuclruhccrJiHUx43NkCK0auM6cfy2l6E9LRGy1BTA6S1AUw13z48ovgGT2hBY/FyBtgqYOZoT5VUTuBwg7h1WCONbxg0somnMt1gotEqfqcNcABx7mcruzhe8hat1AsNmAfKb+/bAP/y81aIVP0fYAs+SgPnORAYXfUQpZwXPpe5QTBKoeY7jNmwcya2vF3XvyBbG6oVv/ZDxW2FSFDJGuX/fLknihtzcFmNX3dXFxb/c64JBXWWRKK75Lh+d3lpLb4m2oHMFML3WyqAozUrxT3SpQF8NdxTXldmDR/2l3IDJtUF4wnpHcKzBtQtp36RpO3Q8sTM6+z6oYnRpRSNIBElKu6w4Db3HeIPFf5cq23MpA4UnFJ3qxj5UkAjPkbC827rGJgD8kgGVjgoqR8TOIX2OAPvEtJBmCvgd98/t43Z8eeyIgxw==;GfaHTd9papSMuI9PWTZoXA=="
 ---
 

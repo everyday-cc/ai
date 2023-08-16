@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Creating forest inventories with drones and artificial intelligence"
+    excerpt: "Using drone imagery and artificial intelligence (AI), scientists from the Leibniz Center for Tropical Marine Research (ZMT) in Bremen have developed a method that delineates each tree in a forest, along with an estimate of its height and diameter."
+    publishedDateTime: 2023-08-16T16:13:00Z
+    webUrl: "https://phys.org/news/2023-08-forest-drones-artificial-intelligence.html"
+    ampWebUrl: "https://phys.org/news/2023-08-forest-drones-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-forest-drones-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/blue-carbon-creating-f.jpg"
+        width: 2607
+        height: 1650
+        isCached: true
 
 secured: "u6Ko3H0kkFpO/8+wilka/m8Ij3mOgS46rx6O9uiZQO2bhJ0g1rl63TFFz78h0FK04mjNNwTsQbpa4d8C1cOT0IpDWhsFpGnFTnXa5gW225YNEEGx49PtcTWhIgHmQVw+jCuKsNXiYBHqq7G67XKSy5OvzHKLwJbxazgKad5gn79zD9JJo2ADNfzk0MIsziP6/XI5m3o5rIMIhxMBHEN2Qo473xYyfhRPQqzYXAmpCieEYFBy94Lev1vC2tlefC/YG3U1jzoPB3R5da25rUXID4kZAe43QeQrcFfKiCqzWo2lY0kpF4/1Gu3VIkPFerH6BtYDFGuc41MUN0q4mN72u0IpZy+vhMjIAD5mGGmDDiY=;EpPdR4HSSI83WttjL/oYjA=="
 ---

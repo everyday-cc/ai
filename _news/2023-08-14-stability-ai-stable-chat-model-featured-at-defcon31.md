@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/stability-ai-stable-chat-model-featu
 webUrl: "https://www.geeky-gadgets.com/stability-ai-stable-chat-model-featured-at-defcon31/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 700
     height: 498
     isCached: true
-
-related:
-  - title: "How did DefCon hackers do against AI chatbots?"
-    excerpt: "White House officials concerned by AI chatbots' potential for societal harm and the Silicon Valley powerhouses rushing them to market are heavily invested in a three-day competition endi"
-    publishedDateTime: 2023-08-13T21:30:00Z
-    webUrl: "https://www.columbian.com/news/2023/aug/13/how-did-defcon-hackers-do-against-ai-chatbots/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 39
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/08/Cybersecurity_AI_Security__44668-1ffca.jpg"
-        width: 899
-        height: 599
-        isCached: true
-  - title: "How AI Chatbots Revolutionizing Gyms & Fitness Centers, 5 Winning Ways."
-    excerpt: "Introduction Welcome to the future of fitness! Gone are the days when gyms were merely a place to break a sweat. Thanks to advancements in artificial intelligence (AI) technology, gyms and fitness centers are now embracing the power of AI chatbots."
-    publishedDateTime: 2023-08-16T07:39:00Z
-    webUrl: "https://techbullion.com/how-ai-chatbots-revolutionizing-gyms-fitness-centers-5-winning-ways/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-15.jpg"
-        width: 800
-        height: 440
-        isCached: true
 
 secured: "0SeTtbmHSkIWHh9FCrVIETixHW4IOcd//B+fUKJhroi73F1DZB5oSIJZsUCUIfjnjLAFTEytHd7r+kdclBdf8AA/uPHaKMZoJW5+Bmd70tBQJpBFw3qAz+kKjWYFSSmWPCnzS01TymSXR5lxM2q5p6H39MIRZMEVWk1W/P9vzl4GtR241oMmgHupNHJ+TeWK/OcGfCq0Oj41Ck19Mmg9CF9j1wjYzpuzIqMRyv6WRiKin31NoJQKHUAia8MXxbOSrmHPpW56OVppyro1lpjCP8LEEgrTzQvLSEnYPzWO02DEKMbZz0dDU/ottuz4uIvWvpnMKussA0nkaqtkuZb3k0XIgqeKyW6MSahg7mSrEXM=;r9nocej3S5nS963Ww4hf7g=="
 ---

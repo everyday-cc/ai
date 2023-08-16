@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Can ChatGPT Help Get More Sales Meetings? Maybe. Here's How"
+    excerpt: "Technology is transforming the work world one more time. This time, the charge is led by AI and Natural Language Processing — or NLP. IBM describes NLP this way: NLP combines computational linguistics — rule-based modeling of human language — with ..."
+    publishedDateTime: 2023-08-16T15:35:00Z
+    webUrl: "https://www.piworld.com/post/can-chatgpt-help-get-more-sales-meetings-maybe-heres-how/"
+    type: article
+    provider:
+      name: Printing Impressions
+      domain: piworld.com
+    quality: 21
   - title: "How will the oil and gas industry use ChatGPT?"
     excerpt: "However, its use extends beyond the household and the classroom, and it is being eyed for a host of other industries. Follow along with GlobalSpec for an ongoing series examining how ChatGPT is being used in specific industries,"
     publishedDateTime: 2023-08-15T09:03:00Z

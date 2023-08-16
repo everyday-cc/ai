@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/openai-is-using-gpt-4-to-build-an-ai-powe
 webUrl: "https://www.engadget.com/openai-is-using-gpt-4-to-build-an-ai-powered-content-moderation-system-184933519.html"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,24 +22,59 @@ topics:
   - AI
 
 related:
-  - title: "ByteDance AI researchers say OpenAI now tries to hide that ChatGPT was trained on J.K. Rowling's copyrighted Harry Potter books"
-    excerpt: "A new research paper laid out ways in which AI developers should try and avoid showing LLMs have been trained on copyrighted material."
-    publishedDateTime: 2023-08-15T19:06:00Z
-    webUrl: "https://www.businessinsider.com/openais-latest-chatgpt-version-hides-training-on-copyrighted-material-2023-8"
+  - title: "OpenAI acquires AI design studio Global Illumination"
+    excerpt: "OpenAI, the AI company behind the viral AI-powered chatbot ChatGPT, has acquired Global Illumination, a New York-based startup leveraging AI to build creative tools, infrastructure and digital experiences. It’s OpenAI’s first public acquisition in its ..."
+    publishedDateTime: 2023-08-16T17:12:00Z
+    webUrl: "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/"
+    ampWebUrl: "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
-  - title: "OpenAI's GPT-4 Shakes Up Content Moderation Landscape: Propels Facebook, Instagram And X To Embrace AI Solutions"
-    excerpt: "OpenAI's unveils usage of GPT-4 for content moderation prompting Facebook, Instagram, and Elon Musk's X to reconsider their approaches."
-    publishedDateTime: 2023-08-16T06:52:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/33870852/openais-gpt-4-shakes-up-content-moderation-landscape-propels-facebook-instagram-and-x-to-embrace-ai"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "OpenAI acquires startup founded by ex-Instagram talent for undisclosed sum"
+    excerpt: "Global Illumination, Inc., is a New York City-based startup founded in 2021 by a trio of former Facebook and Instagram workers."
+    publishedDateTime: 2023-08-16T17:44:00Z
+    webUrl: "https://venturebeat.com/ai/openai-acquires-startup-founded-by-ex-instagram-talent-for-undisclosed-sum/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vector_art_of_a_modern_bustling_startup_office_flat__96bfe510-f61d-44a6-9f0c-7090e3c6e8e3.png?w=1200&strip=all"
+        width: 803
+        height: 642
+        isCached: true
+  - title: "Artificial intelligence designs advanced materials"
+    excerpt: "Artificial intelligence (AI) is playing an increasingly pivotal role in designing new alloys. Yet, the predictive power of AI models in foreseeing corrosion behaviour and suggesting optimal alloy formulas has remained elusive. Scientists of the Max-Planck ..."
+    publishedDateTime: 2023-08-16T16:41:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/08/230811143817.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
+  - title: "Artificial intelligence designs advanced materials"
+    excerpt: "Artificial intelligence (AI) is playing an increasingly pivotal role in designing new alloys. Yet, the predictive power of AI models in foreseeing corrosion behaviour and suggesting optimal alloy formulas has remained elusive. Scientists of the Max-Planck ..."
+    publishedDateTime: 2023-08-12T11:08:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63494.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 39
+    images:
+      - url: "https://www.nanowerk.com/smart/images/smartworlder.jpg"
+        width: 400
+        height: 217
+        isCached: true
 
 secured: "UFKfMlJZrxP3PTfpmXuG1yhKAY8tC/7xaseWLT2jBHC68vs730aDzT2cOCkmj//WNBGzXEIWU/I8LzZVfBjpTCHeqxxvIEXClDeJ2+EPUBI2hqH403fodapKvcCr/f590RJ2NQOCgPeLdQmbw8jc+9NWsIdLpmlVU8QzErtUQwQqsY7V2OPeOdAN21TbDUhpDa8SbP7Ml8ltie7jkS73HkRjnW6rSKnCb7rpf8Acsc/vjSctXkxnvPegwxlPAxc25dH8AQeV/yzXS7njRVs/t1KdYzK3/daEbeqdTSwZwUS0C5VwR9Z9P3Z2cLBGL0M0UJi/m00PNlOEr890QjIsF2b4WAECeyZ9WmZWMd8N79WAcPT9E7oDI+nqzR88iosappo8hwvS70o7cGEGRuRCHi8kkIxrBWnyGYWixE002TTqdxsrbVXKxQdpzek9Td7OirFQs7q9Mgeo3s4csk2uBdd8WGITr7GVIdThXPD8ZM7D5qNtbWRy10XHdeAjzSkt8SGY1demolAneR34bFDfbQ==;CPSKkbBo+sA7xWmLTWM89w=="
 ---

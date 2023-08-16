@@ -9,8 +9,8 @@ ampWebUrl: "https://biztechmagazine.com/article/2023/08/black-hat-usa-2023-five-
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/08/black-hat-usa-2023-five-lessons-artificial-intelligence?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: BizTech
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "A Deep Dive into AI Jobs in 2023"
+    excerpt: "Discover Lucrative AI Jobs. Gain insights for a successful career in the thriving field of Artificial Intelligence."
+    publishedDateTime: 2023-08-16T14:47:00Z
+    webUrl: "https://opencv.org/blog/2023/08/16/ai-jobs-2023/"
+    type: article
+    provider:
+      name: OpenCV
+      domain: opencv.org
+    quality: 39
+    images:
+      - url: "https://lh6.googleusercontent.com/Xt_bfKXg76WA2jXsWjb2S8Ng5AwX49DFfIA_PLlUjlEYG8Xjkgn6Q3qKXpyKbGMtw12dCSrpPf56nPGa5Y5yUTnvtpP3K8l2yA_Wrt3aUhtILcEA9Cthyzlkcm4p3H8h1Gd4MI6AojkhaahLOnISl7Fqt6Dqzc8P5319k5YZawcBeaKRSiWC-RDxWNWtfw"
+        width: 480
+        height: 343
+        isCached: true
   - title: "Black Hat 2023: How AI changes the monetization of search"
     excerpt: "Will the word Google stop being a verb? While society may or may not have an issue with the ethics of AI, I am curious whether the adoption of AI in search causes an issue that de-monetizes the internet for many content providers. Traditional search ..."
     publishedDateTime: 2023-08-14T12:55:00Z

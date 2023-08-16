@@ -41,17 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Peter Dutton’s Indigenous voice to parliament ploy raises the stakes for Anthony Albanese"
-    excerpt: "At the Garma Festival in Arnhem Land last weekend, Anthony Albanese decided to frighten those people who support constitutional recognition for Indigenous Australians but are baulking at voting Yes because they are concerned about the ramifications of the voice to parliament."
-    publishedDateTime: 2023-08-11T23:30:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/peter-duttons-indigenous-voice-to-parliament-ploy-raises-the-stakes-for-anthony-albanese/news-story/8e90f2997188ba5e47e44bab332c3d5d"
-    ampWebUrl: "https://www.theaustralian.com.au/inquirer/peter-duttons-indigenous-voice-to-parliament-ploy-raises-the-stakes-for-anthony-albanese/news-story/8e90f2997188ba5e47e44bab332c3d5d?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/peter-duttons-indigenous-voice-to-parliament-ploy-raises-the-stakes-for-anthony-albanese/news-story/8e90f2997188ba5e47e44bab332c3d5d?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 30
   - title: "‘Real concern’: David Littleproud at odds with Peter Dutton over alternative to Voice referendum"
     excerpt: "The Coalition is split on what they would take to the next election should the Voice to parliament referendum fail."
     publishedDateTime: 2023-08-13T13:11:00Z

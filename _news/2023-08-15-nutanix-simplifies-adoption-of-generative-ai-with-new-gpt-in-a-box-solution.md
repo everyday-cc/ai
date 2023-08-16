@@ -98,6 +98,20 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "How AI Can Scale Personalization and Creativity in Marketing"
+    excerpt: "AI tools can help marketers use performance data to optimize the results of their messaging before they launch an email campaign. Using AI, an organization can quickly crunch millions of data points from its most successful campaigns to help it recommend changes in messaging, imagery, and layouts for pending emails."
+    publishedDateTime: 2023-08-16T15:43:00Z
+    webUrl: "https://hbr.org/sponsored/2023/08/how-ai-can-scale-personalization-and-creativity-in-marketing"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 54
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/07/AIScalingPersonalization-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "OpenAI says AI tools can be effective in content moderation"
     excerpt: "Despite the hype around generative AI, companies such as Microsoft and Google-owner Alphabet are yet to monetize the technology in which they have been pumping billions of dollars in the hope that it will have a big impact across industries."
     publishedDateTime: 2023-08-15T22:28:00Z

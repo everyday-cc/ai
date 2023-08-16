@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Nutanix Simplifies Adoption Of Generative Ai With New Nutanix Gpt-In-A-Box Solution"
-excerpt: "AI infrastructure solution accelerates customers' path to GPT and LLMs while keeping organizations in control of their data. DUBAI, UAE– N"
-publishedDateTime: 2023-08-16T12:55:00Z
-originalUrl: "https://menafn.com/1106867736/Nutanix-Simplifies-Adoption-Of-Generative-Ai-With-New-Nutanix-Gpt-In-A-Box-Solution"
-webUrl: "https://menafn.com/1106867736/Nutanix-Simplifies-Adoption-Of-Generative-Ai-With-New-Nutanix-Gpt-In-A-Box-Solution"
+title: "Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
+excerpt: "Nutanix, a leader in hybrid multicloud computing, announced the Nutanix GPT-in-a-Box solution for customers looking to"
+publishedDateTime: 2023-08-16T15:54:00Z
+originalUrl: "https://www.datanami.com/this-just-in/nutanix-simplifies-adoption-of-generative-ai-with-new-nutanix-gpt-in-a-box-solution/"
+webUrl: "https://www.datanami.com/this-just-in/nutanix-simplifies-adoption-of-generative-ai-with-new-nutanix-gpt-in-a-box-solution/"
 type: article
-quality: 13
-heat: -1
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+    width: 1893
+    height: 767
+    isCached: true
 
 related:
   - title: "Nutanix offers quick-start approach to AI development"
@@ -37,16 +43,7 @@ related:
       name: Channel Buzz
       domain: channelbuzz.ca
     quality: 19
-  - title: "The Department of State’s pilot project approach to AI adoption"
-    excerpt: "Senior IT leaders at State argue that small-scale pilots of AI technology can help bring a wealth of benefits to federal government, such as increased transparency."
-    publishedDateTime: 2023-08-15T13:00:00Z
-    webUrl: "https://fedscoop.com/the-department-of-states-pilot-project-approach-to-ai-adoption/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 19
 
-secured: "w+wnDqg+KWQnrC45hzkMXtCbH4Pc6pUE58Dcasx/OFl4ErL/hfMFL1R4a4veBGdMjgeRuNB5xbGOzQJITYM4uIsk9fH1G+dvLLEmb5XR5Z7Rwoz9hEsJcxsZdF4wcqHPbQgDOEczgD9WWylZdOH7RF1Nau4D9JNh3U050DtdBGEoiJakl9XDBe1soiu7GobS+sr/FfKYDAGKNnCcdCuce3cNEU3Bj3h/ai4Cd5Aqg8mmHMmIIsN3TSextYPOd/Bgwb3IuwqtgVNAucJYj5rMoHYbN4F1RjnxhOT0sLN7dNMnyHEs68GpIsZ+7DwOTAP5jB/o8pDK1WqYCfT6OlgRH7rttr5BgTBg1fNBRh8TeOeeCOlzuetAD4lJEXv0xEvmKebzkqYK+U46FHS9oP2trNr64ETz41J5nyJ5QLmcwWCS1kUO/QFm0NMLMqjI1Rrg0/YXci/PMvvhJ2v2M3FBl6EBcje0v6T4BRZZTbiQMm5aMvCR+Y6fztJDJVB7WKBwExCuF7QE0Mv51lnrMckQNw==;h8Ean/mJX/GQp1E0WWeMHQ=="
+secured: "sO/5tx1OlxRId05z+IhboqYJ/nZqRlDZ3dzSinGLgFs2jABoW87dAIFhmHxQGgzI8MXgHzYWiufV1/8khZ/u++E2BKMyiCFg0zAf3IRCAGhvSMJ7m34lzA/NPZTKx8Mzd0vPwOOSWP8+GwjIjrgrCUFN/68vbs+0j170bjhaj2Y/NsiNTHH2j0JQgNB5dFeeP8FV1L+qegeQfkEMFI/5qo1tIhALyDfQej1b+ZaEPWTN9dpjNYDbKlY+HLkMWvHz6bvVHLWjayOPKoO2PDvgBgTrXYD4vsAmcoxx7IwxYyZBr4KxDcWHUZCDq4rs23MYX3TXyJwwBUQtqmVPSwXOCKa33lS2GtDM0OoR8miweKM=;e2ZQkKuOwrYtjmAT+D0D8g=="
 ---
 

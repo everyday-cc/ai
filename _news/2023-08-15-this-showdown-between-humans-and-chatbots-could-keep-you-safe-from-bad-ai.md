@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "Opera adds AI chatbot to its iPhone browser"
+    excerpt: "AI in Opera is also an opt-in experience. You can choose to enable or disable it depending on your preferences. Your chats are saved for 30 days, allowing you to access and resume a previous conversation."
+    publishedDateTime: 2023-08-16T17:02:00Z
+    webUrl: "https://www.zdnet.com/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/a20bea777a6b3f02ce0d1bf37dce3c93cb0d38da/2023/08/16/ea0c354c-5064-417e-8746-3366e44b302f/figure-top-opera-adds-ai-chatbot-to-its-iphone-browser.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Snapchat’s AI chatbot posts mysterious video and goes silent, spooking users"
+    excerpt: "It's not Halloween yet, but some users of Snapchat feel like it is. On Tuesday evening, Snapchat's My AI chatbot posted a mysterious one-second video of what looks like a wall and a ceiling, despite never having added a video to its messages before. When users asked the chatbot about it, the machine stayed eerily silent."
+    publishedDateTime: 2023-08-16T16:40:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/snapchats-ai-chatbot-posts-mysterious-video-and-goes-silent-spooking-users/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/snapchats-ai-chatbot-posts-mysterious-video-and-goes-silent-spooking-users/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/snapchats-ai-chatbot-posts-mysterious-video-and-goes-silent-spooking-users/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/snapchat_spoofy-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "You can build your own customer service AI chatbot with this drag-and-drop tool"
     excerpt: "Botpress is a tool for building interactive chatbots. While it supports building chatbots for a wide range of applications, the killer app is using it to build a customer support chatbot and backing it up with AI smarts."
     publishedDateTime: 2023-08-14T14:15:00Z
@@ -69,6 +101,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "How did DefCon hackers do against AI chatbots?"
+    excerpt: "White House officials concerned by AI chatbots' potential for societal harm and the Silicon Valley powerhouses rushing them to market are heavily invested in a three-day competition endi"
+    publishedDateTime: 2023-08-13T21:30:00Z
+    webUrl: "https://www.columbian.com/news/2023/aug/13/how-did-defcon-hackers-do-against-ai-chatbots/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 39
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/08/Cybersecurity_AI_Security__44668-1ffca.jpg"
+        width: 899
+        height: 599
+        isCached: true
   - title: "Ascott leverages AI with new chatbot providing personalised services"
     excerpt: "CapitaLand’s wholly owned lodging business unit, The Ascott Limited (Ascott) has launched an AI-powered chatbot named Cubby to enhance the journey of its guests by being their travel buddy and supporting Ascott‘s growth."
     publishedDateTime: 2023-08-15T00:00:00Z
@@ -97,6 +143,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "How AI Chatbots Revolutionizing Gyms & Fitness Centers, 5 Winning Ways."
+    excerpt: "Introduction Welcome to the future of fitness! Gone are the days when gyms were merely a place to break a sweat. Thanks to advancements in artificial intelligence (AI) technology, gyms and fitness centers are now embracing the power of AI chatbots."
+    publishedDateTime: 2023-08-16T07:39:00Z
+    webUrl: "https://techbullion.com/how-ai-chatbots-revolutionizing-gyms-fitness-centers-5-winning-ways/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-15.jpg"
+        width: 800
+        height: 440
+        isCached: true
   - title: "Rise of the chatbots: How artificial intelligence could shape the future of crime"
     excerpt: "I am here to kill the Queen, a man wearing a handmade metal mask and holding a loaded crossbow tells an armed police officer as he is confronted near her private residence within the grounds of Windsor Castle."
     publishedDateTime: 2023-08-13T01:40:00Z
@@ -110,6 +170,20 @@ related:
       - url: "https://e3.365dm.com/23/08/640x380/skynews-ai-artificial-intelligence_6246406.png?20230810134607"
         width: 640
         height: 380
+        isCached: true
+  - title: "I can’t stop playing with this AI app that writes poetry based on your iPhone photos"
+    excerpt: "A fun and nifty AI-driven photo poetry app can turn your photos into poems with a quick snap and the help of the AI language model GPT-4."
+    publishedDateTime: 2023-08-12T20:09:00Z
+    webUrl: "https://bgr.com/tech/i-cant-stop-playing-with-this-ai-app-that-writes-poetry-based-on-your-iphone-photos/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 30
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/09/apple-iphone-14-pro-2.jpg?quality=82&strip=all"
+        width: 1500
+        height: 844
         isCached: true
 
 secured: "W/ck50v+hXYfKoYXWXyRhec5/7D0prJECRap+LeU/4CrGqForps3KoI3jG1uzfAi9RKze27wV92E0xpZqjOZ/8jXzGKKJ3IDR91rKromM+4DhYsknr0oQgG29YqOLQOgygdapaqd5CFK60UC4DH1ZlaBPy67ug0hdVekEgcoymVa1PDVJUZY9ncucPQId6ubsTo9FBsIA1dTe/Dvji0hJGvusTXOg837+80MPpav88vnQ7vrX/cyy3EE2gFEkaYhKv3IpoDuKa127be97gg2tTaX6perNbuACS57IJXA4ZFA9w5UT1iL7S6zEWJAn5At9g2dAUflQEJwJbcyzBhOOWAHrcVan5wyzzFumr95So2at9wCqr7B7kJHZUCQfNuqdKS+FmJM0HJib7xnT/db21b4sfMExhr9ZHlTeIffuh3ntYrNCnSNobu2xwJrCy01OZAUSAgjHYHuX902un3Wn7vOcauHOrLfwCDZFovxim+zycg9NrjqDlK5PZeaSB2oMOoyp5omUPLkNI8wme4Spg==;UiQH/rBiFDg0jc8iX5n7Lw=="

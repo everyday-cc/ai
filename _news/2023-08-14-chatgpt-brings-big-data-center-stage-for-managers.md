@@ -34,6 +34,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Can ChatGPT Help Get More Sales Meetings? Maybe. Here's How"
+    excerpt: "Technology is transforming the work world one more time. This time, the charge is led by AI and Natural Language Processing — or NLP. IBM describes NLP this way: NLP combines computational linguistics — rule-based modeling of human language — with ..."
+    publishedDateTime: 2023-08-16T15:35:00Z
+    webUrl: "https://www.piworld.com/post/can-chatgpt-help-get-more-sales-meetings-maybe-heres-how/"
+    type: article
+    provider:
+      name: Printing Impressions
+      domain: piworld.com
+    quality: 21
   - title: "How ChatGPT can help you optimize your content for entities"
     excerpt: "An object. The subject and object are typically the entities ... To determine successful entity usage within your material, these platforms often devise their own entity recognition algorithms. The left side prominently displays the entity."
     publishedDateTime: 2023-08-13T22:23:00Z
