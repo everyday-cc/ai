@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704495/how-to-take-action-against
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://www.digitaltrends.com/wp-content/uploads/2023/08/summarizedocuments.jpg?resize=1200%2C630&p=1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How to build employee trust as AI gains ground"
+    excerpt: "One in four workers do not feel trusted by their employer, and as more organizations roll out or pilot AI platforms to unlock efficiencies, employees are fearful of being replaced by a machine."
+    publishedDateTime: 2023-08-15T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.html"
+    ampWebUrl: "https://www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/08/shutterstockelnur-100944620-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 801
         isCached: true
   - title: "Foundations Seek to Advance AI for Good, Protect Against Threats"
     excerpt: "While technology experts sound the alarm on the pace of AI development, philanthropists have been responding with an uptick in grants."

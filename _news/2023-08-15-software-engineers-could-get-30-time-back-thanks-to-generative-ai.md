@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/software-engineers-could-get-
 webUrl: "https://www.techrepublic.com/article/software-engineers-could-get-time-back-thanks-to-generative-ai/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1400
     height: 933
     isCached: true
+
+related:
+  - title: "Multinationals turn to generative AI to manage supply chains"
+    excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
+    publishedDateTime: 2023-08-13T03:59:00Z
+    webUrl: "https://www.ft.com/content/b7fafed2-9d00-49b0-a281-c1002b139865"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "8mzezJc6y8jUHD3YhsHLFUpVe9WvxK/wAAHJ/WiB6ptZCzrGlUokLulmeiHpQ+Z5dLasEkN3BqMGkmAEAZMXdn+2CnpEIUQNPV2zy1SLtSilRtYHzeqftnuTZXq6LU4PFWdOq4IpIt11k0NyBMKgPvZFpjkDQTYYgV5PbFoMZYCv0CYDr/pRX8Of8TH+aV59G5LYlo81hgwCmISQlNUsk2qTZvM/UqC9IQGiIQ0ZTwq5VMCCCkzu7ObOvvUFKmH0M3Pi8dHZP7KgDx/8Xj2HVq5YtnTNSg761ZMBktogY2jS62Ff98teVvW8QeFnjflYICH47sbL28vfcpl+tPwWvMk3fK6LBG4XcMI5sc06kvjOaiiLBShis5Y7D+8sCRAonTIvZlGe+pksqaM2gM5MZkcdsH06RF5B89FSsypStEqPd6pPXpgOrc7ByYiYjNLW4yCdAdVN3IzMrT681BvLiDMHNmhv0knizz4KpqOIbMbuPi+OMrFffPlrTKTuo67pUGsQU53OZxPIuP15gaHQLg==;HSKK7gtAGNfGYmIvaaj1Rg=="
 ---

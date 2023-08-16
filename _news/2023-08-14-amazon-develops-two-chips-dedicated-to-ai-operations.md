@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gulf-times.com/article/666453/international/uslatin-amer
 cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations/amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon is making its own chips to offer generative AI on AWS"
+    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
+    publishedDateTime: 2023-08-15T13:21:00Z
+    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 51
   - title: "AI startup Grit nabs $7M to help developers fix technical debt faster"
     excerpt: "New York-based Grit has developed an AI platform that promises to speed up the task. According to the startup, its platform can find technical debt in an application’s code base and generate new, more efficient code with which it can be replaced."
     publishedDateTime: 2023-08-15T18:06:00Z

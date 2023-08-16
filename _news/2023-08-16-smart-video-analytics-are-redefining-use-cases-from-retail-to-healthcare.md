@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/smart-video-analytics-are-redefining-us
 webUrl: "https://venturebeat.com/ai/smart-video-analytics-are-redefining-use-cases-from-retail-to-healthcare/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Martin Klein Returns to ECS as Analytics & Artificial Intelligence VP"
-    excerpt: "Martin Klein, former chief operating officer of the Department of Defense’s Joint Artificial Intelligence Center, has rejoined ECS to serve as vice president of analytics and AI responsible for the company’s overseeing strategic digital transformation initiatives in the defense and intelligence markets."
-    publishedDateTime: 2023-08-11T09:31:00Z
-    webUrl: "https://www.govconwire.com/2023/08/martin-klein-rejoins-ecs-as-vp-of-analytics-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 37
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/08/unnamed-file-76.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "ECS Names Martin Klein Vice President of Analytics and Artificial Intelligence"
     excerpt: "Klein served as the chief operating officer of the Department of Defense Joint Artificial Intelligence Center."
     publishedDateTime: 2023-08-15T08:50:00Z

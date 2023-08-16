@@ -84,6 +84,20 @@ related:
         width: 1024
         height: 606
         isCached: true
+  - title: "Lunch and Learn event helps businesses adapt to AI"
+    excerpt: "The panel featured a trio of presenters, all experts in startup AI-focused businesses. \"Change is coming and I really want local businesses to shift from being threatened (by AI) to being the threat,\" said chamber member Aaron Smothers, the chief ..."
+    publishedDateTime: 2023-08-16T03:49:00Z
+    webUrl: "https://www.semissourian.com/story/3006248.html"
+    type: article
+    provider:
+      name: Southeast Missourian
+      domain: semissourian.com
+    quality: 37
+    images:
+      - url: "https://www.semissourian.com/photos/38/79/23/3879234-B.jpg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "6bWMJjqhHV+rQ6GpowPfWCPoK441RGvb250H5pHcu9Hkz5sP0wHQ1YNZMQL77MErGNf3ChHa4aWDAYTQfxfxKOcwKOM6KJnHq8xZPy100aX4+A9J2FtQeV4fUlR339n2eaT/5zfEO8zlUr6DjFFOmLriNYVeqsTkHKQpRixpD00ZMmntjjo649eTuAGHbfN9uzsPiNjJm84Vqahu7oi60D6489PdCerEzedhGvhAo4COmtYxtEAH8VfnuTeGX50sWnaRnN1Nz23m0OWyaR1wVcR4n119ynquxWhmbJWsYL2ppAxwNLtJYQ4RFTDUgs6l6vjKi6Pqo6xMFDcEWbckepXy/5p2MMEL51X07vCtN+TCpRg9vNIVrXK4PhWzp17n+izrh4w83Cl4wVTHY82UAUeQcNEdrpaSt+rnnapc6fXMlasSBLwRglEfDZod51DpGHLXPvWZnWCWjy6mKJYXpMSu5aIyxJo2SZll4TaYNOE7yekZlo8XAF/agnL6ATu+FTK7a9RA0ZVuHw6fJC2IsA==;q4gYCTWVeFs0NTOf1bL87w=="
 ---

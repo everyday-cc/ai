@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning brings optical character recognition into focus"
-    excerpt: "Increased automation, including automation of visual inspection using machine vision, can unlock greater accuracy, speed, compliance, and safety. It also means front-line engineers can hand over inspection tasks to machine vision, leaving them more time for other valuable and needed workflows."
-    publishedDateTime: 2023-08-11T11:01:00Z
-    webUrl: "https://www.imveurope.com/article/deep-learning-brings-optical-character-recognition-focus"
-    type: article
-    provider:
-      name: imveurope.com
-      domain: imveurope.com
-    quality: 39
-    images:
-      - url: "https://www.imveurope.com/sites/default/files/inline-images/IK_0.png"
-        width: 400
-        height: 400
-        isCached: true
   - title: "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth"
     excerpt: "This relationship between recognition abilities in different senses stands in contrast to learning styles studies’ failure to find expected correlations among variables. For instance, people’s preferred learning styles do not predict performance on measures of pictorial, auditory or tactile learning."
     publishedDateTime: 2023-08-14T13:03:00Z

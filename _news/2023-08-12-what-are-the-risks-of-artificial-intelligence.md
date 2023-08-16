@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "How well do you understand AI? Here are 7 terms to know"
-    excerpt: "You might have heard about machine learning and algorithms. But do you know what read teaming and watermarking are?"
-    publishedDateTime: 2023-08-11T11:00:00Z
-    webUrl: "https://www.poynter.org/fact-checking/2023/artificial-intelligence-terminology/"
-    type: article
-    provider:
-      name: Poynter
-      domain: poynter.org
-    quality: 17
-
 secured: "QTexpnWfEL3c/LVeeZZlBGTWnUinGETmJEFUVcf6xu7nOG21Q0G7+Akv5BslXum16I3lrmW6R00jP8vdR0hLSdqOOUezFJlS7PEty6tWQdvutTW/wiqczYNb/LEbV+r5SPtLQMgGUHYGNKvNnSV0uMFS7jnR3QnwAmE6/Joyqj8KL9XhyIBHwjM/A698ZIgJrTL/0J1ds11PHy2ZPG+KpBy0nZ9SHRGnsvKbpd+MrIhek4Kkt5//mJ4zEiHtJ7Wa/LOgX7zuMsh6fqOmSSPEVpRiJp1enUxJCNvKXhqhRkqzcndZZYHfqY1jv50UmbG+hqiMXiuSwhNSQPo7gV2oJaxw+uOPC2gF7ISwEeHTxABc6lMbNSF8P9wTxbFJdTHaG1ZLYVgkrOAk9Pbic3yF+W7ZbjV4zj8ETzWPkneT2YwVDtaH77mUW64xOhgp4Sgv2JQIWa/66f5lQNEB+SWF1XGa7kptTgPxnSSyhEQBbkGlMeLA2i7f1DoSL3fK+bq5A2BkEV2LvwS1eQLGMhoNcg==;tAVxwyXjWYYbdJ7MIEiqVA=="
 ---
 

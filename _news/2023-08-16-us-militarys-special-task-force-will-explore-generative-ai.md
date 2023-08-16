@@ -18,90 +18,50 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI Is Not A Tool; It's An Employee"
-    excerpt: "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team."
-    publishedDateTime: 2023-08-11T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
+  - title: "The looming battle over where generative AI systems will run"
+    excerpt: "Putting AI on cloud versus on-premises systems may seem like a simple decision, but it's much more complex (and potentially expensive)."
+    publishedDateTime: 2023-08-15T09:05:00Z
+    webUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.html"
+    ampWebUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d541f1b585aa1bcfb1ea3f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://images.techhive.com/images/article/2016/03/ceo_cio_battle-100648302-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 608
+        height: 1200
         isCached: true
-  - title: "What Does Generative AI Mean For Websites And SEO?"
-    excerpt: "Exploring the intersection of generative AI and the future of web search, this article delves into how chatbots could revolutionize SEO and reshape online business models"
-    publishedDateTime: 2023-08-15T06:23:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
+  - title: "Tackling Healthcare’s Biggest Burdens with Generative AI"
+    excerpt: "Spread the loveIn recent years, the healthcare industry has faced numerous challenges. From managing the overwhelming patient data to combating the increasing prevalence of chronic diseases, these burdens have put immense pressure on medical professionals and healthcare systems."
+    publishedDateTime: 2023-08-11T11:25:00Z
+    webUrl: "https://www.thetechedvocate.org/tackling-healthcares-biggest-burdens-with-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64db19be0420c96050635ebc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/07/laundry-chart-1-1024x861-1-660x400.jpg"
+        width: 660
+        height: 400
         isCached: true
-  - title: "How to build employee trust as AI gains ground"
-    excerpt: "One in four workers do not feel trusted by their employer, and as more organizations roll out or pilot AI platforms to unlock efficiencies, employees are fearful of being replaced by a machine."
-    publishedDateTime: 2023-08-15T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.html"
-    ampWebUrl: "https://www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.amp.html"
+  - title: "Cloud vs. on-premises showdown: The future battlefield for generative AI dominance"
+    excerpt: "As well, the choice of where customers plan to run generative AI is split almost exactly down the middle in terms of public cloud versus on-premises and edge. Further complicating matters, developers report the experiences in the public cloud with respect to feature richness and velocity of innovation have been outstanding."
+    publishedDateTime: 2023-08-12T16:47:00Z
+    webUrl: "https://siliconangle.com/2023/08/12/cloud-vs-premises-showdown-future-battlefield-generative-ai-dominance/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
     images:
-      - url: "https://images.idgesg.net/images/article/2023/08/shutterstockelnur-100944620-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 801
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-risk-on-off-1024x574.jpg"
+        width: 1024
+        height: 574
         isCached: true
-  - title: "Amazon is making its own chips to offer generative AI on AWS"
-    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
-    publishedDateTime: 2023-08-15T13:21:00Z
-    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 51
-  - title: "Marqeta Adds AI with New Generative Artificial Intelligence Tool"
-    excerpt: "Global credit card management firm Marqeta (NASDAQ: MQ) has revealed its \"Docs AI,\" described as an AI-powered external-facing question and answer tool, which"
-    publishedDateTime: 2023-08-15T13:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/211506-marqeta-adds-ai-with-new-generative-artificial-intelligence-tool/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 32
-  - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
-    excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
-    publishedDateTime: 2023-08-11T12:04:00Z
-    webUrl: "https://diginomica.com/attention-enterprises-generative-ai-sexy-esg-has-teeth"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 19
-  - title: "Multinationals turn to generative AI to manage supply chains"
-    excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
-    publishedDateTime: 2023-08-13T03:59:00Z
-    webUrl: "https://www.ft.com/content/b7fafed2-9d00-49b0-a281-c1002b139865"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "/sFXMyNJn+r415NK/OF0O+aXESbqz09Yl7lhbmaDYqL4ztQ8YKZe5mIvitDoCCQbSLhhQDwLXRx/kDipmlaM5a2AtmPckKzGrVQCkStOuU/XI95FM/BGUGqa/ZIJh02je3+AJPPdehy2N4ydiR7hNKLWOsmSsDbVBZm9o2QZcucZw7RPIUQ1+ol4ZzQNEHiXusMNnfMmLaxQ7ppA7RNPvoi6SxdI9lMZr2nRf3ZHY6diW7ZpLX5gxpzvoe+VAuJZz3YoDOnRMOFBNCvDEKAH3zCxdGy6G1aDXCZjZVsWPOXTJ5XfYOhfBSed6GWZo6xsDGFlvT0vpoRDdNltPkvNPZEtPiLaPhA0HNpGuH/2D08nRI358i+4gG5n5jhTRT/u84ieMLAXzPglEGkD7qYmH64PBFZR4M2xfXrZojXC/DbvhlUXZfPjZFT9Arj0ouCeHeyIRxltcyZFpKuq4QGqxs18h2FJYcxdaF4EmTuib4yK2ITJjgnyR9efaUZLHrjrm35gZuMBzLJrpr8cMqumwg==;36Tv5Sb8TonMNFzGUnUqOw=="
 ---

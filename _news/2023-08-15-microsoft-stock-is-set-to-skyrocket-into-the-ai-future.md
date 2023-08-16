@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
         width: 1200
         height: 750
-        isCached: true
-  - title: "Microsoft Azure Large Instances to help healthcare providers manage EHRs"
-    excerpt: "Microsoft Azure Large Instances is helping healthcare providers to manage large electronic health record (EHR) database loads using public cloud-hosted infrastructure. Azure Large Instances leverages up to 50 million ‘database accesses’ per second,"
-    publishedDateTime: 2023-08-11T10:54:00Z
-    webUrl: "https://www.technologyrecord.com/article/microsoft-azure-large-instances-to-help-healthcare-providers-manage-ehrs"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 70
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4540/Azure-Large-Instances_web.jpg"
-        width: 975
-        height: 548
         isCached: true
   - title: "Microsoft's AI First Movers programme helps LawVu speed contract processes"
     excerpt: "Tauranga-based legal software developer LawVu is one beneficiary of a Microsoft programme that is ​helping developers deploy generative AI."

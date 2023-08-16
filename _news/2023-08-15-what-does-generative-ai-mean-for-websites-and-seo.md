@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -28,85 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Generative AI Is Not A Tool; It's An Employee"
-    excerpt: "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team."
-    publishedDateTime: 2023-08-11T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d541f1b585aa1bcfb1ea3f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 608
-        isCached: true
-  - title: "How to build employee trust as AI gains ground"
-    excerpt: "One in four workers do not feel trusted by their employer, and as more organizations roll out or pilot AI platforms to unlock efficiencies, employees are fearful of being replaced by a machine."
-    publishedDateTime: 2023-08-15T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.html"
-    ampWebUrl: "https://www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/shutterstockelnur-100944620-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Amazon is making its own chips to offer generative AI on AWS"
-    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
-    publishedDateTime: 2023-08-15T13:21:00Z
-    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 51
-  - title: "Marqeta Adds AI with New Generative Artificial Intelligence Tool"
-    excerpt: "Global credit card management firm Marqeta (NASDAQ: MQ) has revealed its \"Docs AI,\" described as an AI-powered external-facing question and answer tool, which"
-    publishedDateTime: 2023-08-15T13:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/211506-marqeta-adds-ai-with-new-generative-artificial-intelligence-tool/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 32
-  - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
-    excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
-    publishedDateTime: 2023-08-11T12:04:00Z
-    webUrl: "https://diginomica.com/attention-enterprises-generative-ai-sexy-esg-has-teeth"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 19
-  - title: "Multinationals turn to generative AI to manage supply chains"
-    excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
-    publishedDateTime: 2023-08-13T03:59:00Z
-    webUrl: "https://www.ft.com/content/b7fafed2-9d00-49b0-a281-c1002b139865"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-  - title: "US military’s special task force will explore generative AI"
-    excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
-    publishedDateTime: 2023-08-15T19:00:00Z
-    webUrl: "https://www.popsci.com/technology/dod-generative-ai-task-force/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "C30XxMCHh9sOki/sgvUYBKdoksG7vCFSuKKx10j5FHf7teiIdcw514XhXtQy0DWteR6XhweocOxb6ce05Ml9Sbtvs8BwNbzOje8c3kZy8V0Fz7FxdIMUkf63Kh13080pSVDDqAm+mzLeO8HGcyfA+kzzv3oEotSImKOkPxVHX8zk+VBIExg5DkNwSg9U5vtkKu0vbxM2WT+MLt7U+uD2KuAJtzRG8f1RZwezP4qWsS1bzKKUWiWL4IhWdh3fbhCruNzs/ZR81qVg3fI4nIEVJi4cmR0j00dt3rFW8FRx1QsltbX3NfU7k7pE2MesK9PEA/d6y5TIfEA8WJeskSagvSWtLRR/+GNoNB2HIX2MFen7UgT41sxKYTleUytgE2OyhR7ehldCNeUwEi94bagHBX5v3RTe1jeQbb8m8XICxykVpa4FYyfcvnuAL8nLd/dSUC0AGGLtuKes30uIImeENpTjCE747E+GQ5MAn/SO6w2p10OpaFEj6oU5nccc1IC2xJgEjcP5sJIWuryLE4Pa0w==;Izzx/Haxj0ylXLXKj9I7Gg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-y
 webUrl: "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-your-business-better/"
 type: article
 quality: 119
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1466243151.jpg?w=1024"
         width: 1024
         height: 606
+        isCached: true
+  - title: "Lunch and Learn event helps businesses adapt to AI"
+    excerpt: "The panel featured a trio of presenters, all experts in startup AI-focused businesses. \"Change is coming and I really want local businesses to shift from being threatened (by AI) to being the threat,\" said chamber member Aaron Smothers, the chief ..."
+    publishedDateTime: 2023-08-16T03:49:00Z
+    webUrl: "https://www.semissourian.com/story/3006248.html"
+    type: article
+    provider:
+      name: Southeast Missourian
+      domain: semissourian.com
+    quality: 37
+    images:
+      - url: "https://www.semissourian.com/photos/38/79/23/3879234-B.jpg"
+        width: 1000
+        height: 750
         isCached: true
   - title: "Message to NKY businesses: Start using AI or be out of business in 10 years"
     excerpt: "By a show of hands, most of the businesspeople at the Northern Kentucky Chamber's Eggs 'N Issues have used Chat GPT — a from of AI that's still evolving, according to Northern Kentucky University's Dean of College of Informatics Kevin Kirby."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp"
 type: article
 quality: 75
-heat: 205
+heat: 195
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/9a9b620/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2Fb7%2F7889b1824daf8828d17f469252f3%2F53109496780-1c34f2e556-b.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Massive expansion of driverless robotaxis approved for San Francisco despite public safety concerns"
-    excerpt: "Gov. Gavin Newsom's California Public Utilities Commission on Thursday approved a measure to let robotaxi companies Cruise and Waymo massively expand deployment of their driverless vehicles on San Francisco streets."
-    publishedDateTime: 2023-08-11T09:27:00Z
-    webUrl: "https://www.aol.com/news/massive-expansion-driverless-robotaxis-approved-022748465.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 25
-    images:
-      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/6cba431ac83e36f1ff5ae60455774e19"
-        width: 840
-        height: 560
         isCached: true
   - title: "People having sex in self-driving taxis: Report"
     excerpt: "San Francisco: As the popularity of autonomous vehicles continues to surge in San Francisco, a growing number of riders are wondering just how far they can push the vehicles’ capabilities, and to test that they are having sex in self-driving taxis."

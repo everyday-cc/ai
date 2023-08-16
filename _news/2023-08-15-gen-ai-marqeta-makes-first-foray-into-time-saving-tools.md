@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Marqeta Adds AI with New Generative Artificial Intelligence Tool"
+    excerpt: "Global credit card management firm Marqeta (NASDAQ: MQ) has revealed its \"Docs AI,\" described as an AI-powered external-facing question and answer tool, which"
+    publishedDateTime: 2023-08-15T13:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211506-marqeta-adds-ai-with-new-generative-artificial-intelligence-tool/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 32
+
 secured: "20LWC36KT9OWTBo2F2/YPtID4uLKKWGW43+oXdAj3YGjOFa6TNq7diC8B3G+gzNvWU6SFMYcdraAh3MheMIs2qFwXGJvaIYnxB+US2Fp6xqx/wOAtHAP2bESjhQPaB6ez00U7/U5jkX+HY2nafdGPVhSJlYugIfxMN8qSoBJnO/Jj+fPBZJFGnNudYD82gS0ARRa4/67Dbm7PqppPGlUVZXerfq19VncYVTgj1V1MWJUrqWnPWAOIlxpFsenL8zzkfNMnIW6UJYWbFsiEtY32o4ai8xhl5ugnKmMs95gcKSxI2nlq9KQarbs4h2diD8KYf98SwR2bQkgx9AlFH9llebBDnclyIcUoaUyt3H7X/5TeE6sLc5Hrh01jZdr1hEYZbAvIjepBH0O81zpELXUL1oNUXJwG7Dbha13sg0xOD4Ob2Lqed1s4zuTECRRmcsrNGbJAqfjSZ3wr7XwE2pxxvMjuWzfFIWzPqwlh66CuRgWXxdHni994iAO9iICyvs/dcRF7qkrndG315+YAptbzw==;PJR/TUjC5PHRslZLqF3IkQ=="
 ---
 

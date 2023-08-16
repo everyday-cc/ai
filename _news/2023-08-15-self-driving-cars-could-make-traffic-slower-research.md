@@ -64,6 +64,15 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Self-driving cars could make traffic slower: Research"
+    excerpt: "\"There is a lot of research showing that automated vehicles can improve safety. But our research here -- which relies on computational modeling -- suggests that if we want to also improve travel time,"
+    publishedDateTime: 2023-08-16T02:41:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20230815/4108947.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "k1lzEJFAMj4d859/0XimpmBwIHvt+VhrOix3cpqAEVYYf9qekgqPO77Lnl+36eOLVk7gvWEzEziBASPEjr10l++MlGF5QywAtmP4ttMTea9PF55pOk+TDIfzflfcwf7DuJFkwweKCwMzEINrSYL+5E+ahEsJLjd4mfH8XWEYHHIgOh6TjfAH+D71Dkvgq4hn9qcIhgD+Mto4d7wpMs1Gy6KdcrhUgUBqBiwEWQWmiUNETsQsr5lMEGaGpKr+ZZBQGnnzIphI/wBYpsmWxRuzQ9l0y8BClhcjG9/oRRH6rAj+yRJHmHC1Yc23F+MtqD50h6PNvIhIpa06KB2n6xwGNa8JOEpyoZPlOD+cmnqRo74=;jwPi9MaPuQheBHy44Xwf1g=="
 ---

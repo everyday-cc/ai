@@ -34,6 +34,15 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Amazon is making its own chips to offer generative AI on AWS"
+    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
+    publishedDateTime: 2023-08-15T13:21:00Z
+    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 51
 
 secured: "ckBMIEOwZCcPrjzQIUxtBa/SmAy0+GO7P+rIxVYkklcp+pEQe3vZvc+aI7RiZTI7THRZnDtxg3MaAiN1RCdSo5fxAILDTh7c4JPhDt7G2zy0uzPbdhpR4vr/BMbnynctYAGZz38Wza/qZeB9+Hz/hmDXWcVzuPHA9gx+TAu+YXszNU4G8uCZjc86QvcVxF0Rb7ffP+P3UvoZ2H1S6Pz+c3JILGFKrKFNJtUFhNqrrtjHLoHvb20cvwiekv/cYBT9ZnPmGovN5MOLHqihM8k4JCQxVyRxH8FEpqMaeFvqMuqbNXBs7kvt+FNWVdwipIrrZi84mynbHqgXuVsSSFGSvp3iDRDEmUgATNUxtZkGjB5JIge5KZffmxEew6aa13MMniCv4NwTHEMbLep9kAyjha3C/djdEXd/dXmcApn6PmIa9sm7Fp3arRDjTU/KiZqMq80KylFIT6pqbmx7QEyFdO4TZD8Np25Ojw3umitcWD3MuH68K7LYQRArRZHsN1jXC+HDuQ8pT0WlwkVoceC3NQ==;ej575H/YzVORUluLUV0AMQ=="
 ---

@@ -41,6 +41,29 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Tackling Healthcare’s Biggest Burdens with Generative AI"
+    excerpt: "Spread the loveIn recent years, the healthcare industry has faced numerous challenges. From managing the overwhelming patient data to combating the increasing prevalence of chronic diseases, these burdens have put immense pressure on medical professionals and healthcare systems."
+    publishedDateTime: 2023-08-11T11:25:00Z
+    webUrl: "https://www.thetechedvocate.org/tackling-healthcares-biggest-burdens-with-generative-ai/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 54
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/07/laundry-chart-1-1024x861-1-660x400.jpg"
+        width: 660
+        height: 400
+        isCached: true
+  - title: "US military’s special task force will explore generative AI"
+    excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
+    publishedDateTime: 2023-08-15T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/dod-generative-ai-task-force/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "BpxSM/eWwA36SD6Mi2V7MOwkxyXLX45Gv7gi7bSZvpyzFSXAMhyubSd8WwcheShmb/PxZV3xPkKBaY9q2Q2zDZFjHwM/+FKBAuvyN6bCyE8yDU3XI9bJ/Ah/ji/HZdzwHAyHcwebqjoZzLlUPu7ciQaIBi10I6M2jUl1tdYbGuD6UYsKccQfbdnR0dzq+OJDtVEww3g7FuFd11aiYX+4kR2+p4ZCO+xkGdmfHT18+lxMNdr6KcFGxiTPtCstjkTTXcHhggAHn04Ras95RtWL4y2vv+Fgoywo+SCdjK0FMKq+e+rl4Yuyfrkd+kmpSwdpCeGF6SEVd8iOMjUXIXnLyXxJXxFtZQ81YMzZprYR4uJDCPbDWfwbI9sIdMXoTXsPdvJ1bJSaFuii5w+t2dsnlYOoIZ8EVmVyUmyZM0Qf8kDNuBWAdle9cZ1enRhAU9RA6dv/lMITZGqCWxeNPZW2UkmB+erbgksqrynws/+xs9l25wxWLR241DAZD3XZaroe32If1hEyeDkjerfMV17nZw==;na6NRmHp4GDG9x/rIz9hXg=="
 ---

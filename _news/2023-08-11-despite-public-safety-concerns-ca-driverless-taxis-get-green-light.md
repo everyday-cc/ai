@@ -96,20 +96,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Massive expansion of driverless robotaxis approved for San Francisco despite public safety concerns"
-    excerpt: "Gov. Gavin Newsom's California Public Utilities Commission on Thursday approved a measure to let robotaxi companies Cruise and Waymo massively expand deployment of their driverless vehicles on San Francisco streets."
-    publishedDateTime: 2023-08-11T09:27:00Z
-    webUrl: "https://www.aol.com/news/massive-expansion-driverless-robotaxis-approved-022748465.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 25
-    images:
-      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/6cba431ac83e36f1ff5ae60455774e19"
-        width: 840
-        height: 560
-        isCached: true
   - title: "People having sex in self-driving taxis: Report"
     excerpt: "San Francisco: As the popularity of autonomous vehicles continues to surge in San Francisco, a growing number of riders are wondering just how far they can push the vehicles’ capabilities, and to test that they are having sex in self-driving taxis."
     publishedDateTime: 2023-08-12T16:46:00Z

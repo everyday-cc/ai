@@ -2,6 +2,100 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-07-13-ai-is-the-next-front-in-the-culture-war.md",
+      "title": "AI is the next front in the culture war",
+      "excerpt": "Artificial intelligence has become the latest battleground between left and right. It's not like social media. It's an innovation that needs to be handled in each industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/ai-next-front-culture-war",
+      "originalUrl": "https://www.foxnews.com/opinion/ai-next-front-culture-war",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65005a2b-1ca5-4161-b171-6d919e481c94/362427db-94c2-4411-8415-4ede681c9547/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/ai-next-front-culture-war.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-next-front-culture-war.amp",
+      "publishedDateTime": "2023-07-12T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-robotaxi-ventures-making-slow-but-sure-progress.md",
+      "title": "Robotaxi ventures making slow but sure progress",
+      "excerpt": "Waymo and Cruise, the two companies offering ... Baidu, the Chinese Internet and artificial intelligence company, obtained a license in June to offer its Apollo Go commercial driverless service ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/robotaxis-are-still-long-way-finish-line",
+      "originalUrl": "https://www.autonews.com/mobility-report/robotaxis-are-still-long-way-finish-line",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/INTELLEGENCE_REPORT-MAIN_i.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-the-rise-of-the-terminators-ai-robots-claim-they-could-run-earth-better-than-clouded-humans.md",
       "title": "The rise of the Terminators? AI robots claim they could run Earth better than 'clouded' humans",
       "excerpt": "claims the event was vital to start using robotics for good. He believes that robots may have mainstream uses within just the next five years, taking off the same way as ChatGPT and other AI ...",
@@ -1057,75 +1151,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-how-the-financial-services-industry-is-employing-machine-learning.md",
-      "title": "How the Financial Services Industry Is Employing Machine Learning",
-      "excerpt": "TradeTalks broadcasts live from MarketSite in Times Square, the historic Philadelphia Trading Floor and Global Industry Conferences and Events. Featuring conversations with top industry thought ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/videos/how-the-financial-services-industry-is-employing-machine-learning",
-      "originalUrl": "https://www.nasdaq.com/videos/how-the-financial-services-industry-is-employing-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions.md",
-      "title": "'Wipro ai360' artificial intelligence system launched, company plans to invest $1 billion in developing AI solutions",
-      "excerpt": "'Wipro ai360' artificial intelligence system launched, company plans to invest $1 billion in developing AI solutions Headlines Today is a platform to find all the news at one go and to personalise the utility and other information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.headlinestoday.in/technology/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions-574790481.html",
-      "originalUrl": "https://www.headlinestoday.in/technology/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions-574790481.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "headlinestoday",
-        "domain": "headlinestoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -25,87 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "WCM-Q discusses legal, ethical issues of generative AI in healthcare"
-    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed during the latest instalment of Weill Cornell"
-    publishedDateTime: 2023-08-15T21:04:00Z
-    webUrl: "https://www.gulf-times.com/article/666596/qatar/wcm-q-discusses-legal-ethical-issues-of-generative-ai-in-healthcare"
-    ampWebUrl: "https://www.gulf-times.com/article/666596/qatar/wcm-q-discusses-legal-ethical-issues-of-generative-ai-in-healthcare/amp"
-    cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/666596/qatar/wcm-q-discusses-legal-ethical-issues-of-generative-ai-in-healthcare/amp"
+  - title: "The looming battle over where generative AI systems will run"
+    excerpt: "Putting AI on cloud versus on-premises systems may seem like a simple decision, but it's much more complex (and potentially expensive)."
+    publishedDateTime: 2023-08-15T09:05:00Z
+    webUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.html"
+    ampWebUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 91
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/08/15/66333.jpg"
-        width: 1000
-        height: 503
+      - url: "https://images.techhive.com/images/article/2016/03/ceo_cio_battle-100648302-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 1200
         isCached: true
-  - title: "BMC’s CTO Ram Chakravarti on Generative AI in the Enterprise"
-    excerpt: "The BMC executive discussed the challenges posed by generative AI and also gave advice on optimizing enterprise AI deployments."
-    publishedDateTime: 2023-08-15T21:59:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/bmc-generative-ai-in-the-enterprise/"
+  - title: "Cloud vs. on-premises showdown: The future battlefield for generative AI dominance"
+    excerpt: "As well, the choice of where customers plan to run generative AI is split almost exactly down the middle in terms of public cloud versus on-premises and edge. Further complicating matters, developers report the experiences in the public cloud with respect to feature richness and velocity of innovation have been outstanding."
+    publishedDateTime: 2023-08-12T16:47:00Z
+    webUrl: "https://siliconangle.com/2023/08/12/cloud-vs-premises-showdown-future-battlefield-generative-ai-dominance/"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/08/eSPEAKS-thumbnail.png"
-        width: 1920
-        height: 1080
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-risk-on-off-1024x574.jpg"
+        width: 1024
+        height: 574
         isCached: true
-  - title: "Americans' level of concern about healthcare AI, by generation"
-    excerpt: "Older Americans are more concerned about AI in healthcare than younger generations, according to new survey results. 77% of Baby Boomers and 70% of Gen Xers are concerned."
-    publishedDateTime: 2023-08-11T15:12:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/americans-level-of-concern-about-healthcare-ai-by-generation.html"
+  - title: "US military’s special task force will explore generative AI"
+    excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
+    publishedDateTime: 2023-08-15T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/dod-generative-ai-task-force/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "How to tackle the ethics of Generative AI"
-    excerpt: "A tip by Daniel Pell of @Workday about how business leaders should approach the ethical questions around deploying #GenerativeAI"
-    publishedDateTime: 2023-08-15T07:36:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2023/08/15/how-to-tackle-the-ethics-of-generative-ai/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/01/business-tip.jpg"
-        width: 728
-        height: 410
-        isCached: true
-  - title: "The Role Of Technology And Artificial Intelligence In Healthcare"
-    excerpt: "On the season 9 finale of NDTV-Dettol Banega Swasth India, experts discuss a pressing issue - the role of technology and artificial intelligence (AI) in healthcare and if it can take over humans in the healthcare industry."
-    publishedDateTime: 2023-08-15T15:41:00Z
-    webUrl: "https://www.ndtv.com/video/news/banega-swasth-india/the-role-of-technology-and-artificial-intelligence-in-healthcare-717786"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 54
-    images:
-      - url: "https://c.ndtvimg.com/2023-08/ahnjetto_banega-swasth-india_160x120_15_August_23.jpg"
-        width: 650
-        height: 364
-        isCached: true
-  - title: "Local universities prepared to teach ethics of using generative AI"
-    excerpt: "As students begin arriving at colleges and universities to kick off their fall semester, they’ll have tools with them they didn’t have this time last year: ChatGPT and similar generative AI chatbots like Google Bard,"
-    publishedDateTime: 2023-08-15T11:00:00Z
-    webUrl: "https://rbj.net/2023/08/15/local-universities-prepared-to-teach-ethics-of-using-generative-ai/"
-    type: article
-    provider:
-      name: Rochester Business Journal
-      domain: rbj.net
-    quality: 34
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "7rJC7nxL3LLBSDgZfxzZR+X30+g+7qs0lcWcFt9ZxU7VRZdewHgEfBXrN36Ykdp5nwpP9aYXySlhcYNrYhIGTondFrl2xO4Z+tRbGFnhSk6+l3+xktNQ5Z8b/lWkqQTnTBZOGbekMAq2BBSXz1712/jFm95ROSr9GEJxJiR1TjrQUfw2Ry/bT0Ira90FjQKC57lImpZHhe3J+DFHevcgQ57JsTbuUVRjc60MBMwlBL7uCx//A9Lw7mu/4fVmgTVmTp2fLnfqZTgi9n2VVncoujSfsLdAeDjiDlY/7+o4PwYdqLXnueYrOSqTuxtcphKRTj6dCez0bALVBvyq2tKr1m8Lvo6fyvHZ5W4TD0KYSrM=;bYsn5Kf/HYnZ/Dg1duK07w=="
 ---

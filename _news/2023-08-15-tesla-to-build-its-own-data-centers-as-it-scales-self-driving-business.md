@@ -39,20 +39,6 @@ related:
         width: 1420
         height: 798
         isCached: true
-  - title: "US probing Virginia fatal crash involving Tesla suspected of running on automated driving system"
-    excerpt: "U.S. auto safety regulators have sent a team to investigate a fatal crash in Virginia involving a Tesla suspected of running on a partially automated driving system."
-    publishedDateTime: 2023-08-11T09:38:00Z
-    webUrl: "https://wtop.com/virginia/2023/08/us-probing-virginia-fatal-crash-involving-tesla-suspected-of-running-on-automated-driving-system/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 26
-    images:
-      - url: "https://wtop.com/wp-content/uploads/2023/08/Tesla_CFO_Leaves_79349-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
 
 secured: "cVjhA/63eTBPPuVTHurAFknhWSiO/Swip0ozHu6jpgk+ckcOexQQR4NecCf+DKMV+e/HtgDQ2PrIn8t+gfMkeZajsTDFh+/c9YrTWNAGBit3enV6ZcoJR5wLdw2+gOWMtG12TaeXj0r1vEQprZ5KmfEOYxXGqk6sSZ+d4kh7Wu8Gfg6Jr5iFU6cUQ3q23juVoknEK32sU1lY1TivILapdM3hsc50q8ZSIOykousYPUAqh+SDuAYcHYX64cftv/N5nIdVhfZenl4pMFOQH0lcBu0wz2Ic4yrmFg6nTwsELNrDoEhX/LKkFZLEHGIk5pbF+IEA/MmGmtV5QRtWobrhpF7Dwc2SnSshGAM4eXMdeEx38X9AB3JSkV/jV1Fa9ux9y/7rX2A6B1d1REE1irCdmOxeiPVHj9h2U17CHNofaWsINqYi1LCYYvJJWC71H2cxX/lCpkM+edMlqfCa49g8qxU3h5oJ2fLd7ZWaKSDrxdBdZB6MreWtOV35p25DZ+Q+xtUxIbLuxzX1kiYxI18cfg==;t0dWqMQQMOEVr1KuHcykYQ=="
 ---

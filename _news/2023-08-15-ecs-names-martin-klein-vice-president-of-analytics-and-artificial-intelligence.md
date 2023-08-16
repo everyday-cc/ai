@@ -38,20 +38,6 @@ related:
         width: 1198
         height: 701
         isCached: true
-  - title: "Martin Klein Returns to ECS as Analytics & Artificial Intelligence VP"
-    excerpt: "Martin Klein, former chief operating officer of the Department of Defense’s Joint Artificial Intelligence Center, has rejoined ECS to serve as vice president of analytics and AI responsible for the company’s overseeing strategic digital transformation initiatives in the defense and intelligence markets."
-    publishedDateTime: 2023-08-11T09:31:00Z
-    webUrl: "https://www.govconwire.com/2023/08/martin-klein-rejoins-ecs-as-vp-of-analytics-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 37
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/08/unnamed-file-76.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Top 10 Alternatives to GPT-3 – Analytics India Magazine"
     excerpt: "GPT-3 has 175 billion parameters, making it one of the largest language models ever created. It can generate human-like text and perform a wide range of tasks, including translation, summarisation, and even writing codes."
     publishedDateTime: 2023-08-12T19:41:00Z

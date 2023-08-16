@@ -18,90 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI Is Not A Tool; It's An Employee"
-    excerpt: "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team."
-    publishedDateTime: 2023-08-11T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
+  - title: "Software Engineers Could Get 30% Time Back Thanks To Generative AI"
+    excerpt: "Generative AI has the potential to automate between 60% to 70% of the work that most of us engage in every day. But for many knowledge workers, generative AI tools are likely to help take back time spent on administrative tasks,"
+    publishedDateTime: 2023-08-15T13:58:00Z
+    webUrl: "https://www.techrepublic.com/article/software-engineers-could-get-time-back-thanks-to-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d541f1b585aa1bcfb1ea3f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 608
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg"
+        width: 1400
+        height: 933
         isCached: true
-  - title: "What Does Generative AI Mean For Websites And SEO?"
-    excerpt: "Exploring the intersection of generative AI and the future of web search, this article delves into how chatbots could revolutionize SEO and reshape online business models"
-    publishedDateTime: 2023-08-15T06:23:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64db19be0420c96050635ebc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How to build employee trust as AI gains ground"
-    excerpt: "One in four workers do not feel trusted by their employer, and as more organizations roll out or pilot AI platforms to unlock efficiencies, employees are fearful of being replaced by a machine."
-    publishedDateTime: 2023-08-15T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.html"
-    ampWebUrl: "https://www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/shutterstockelnur-100944620-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Amazon is making its own chips to offer generative AI on AWS"
-    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
-    publishedDateTime: 2023-08-15T13:21:00Z
-    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 51
-  - title: "Marqeta Adds AI with New Generative Artificial Intelligence Tool"
-    excerpt: "Global credit card management firm Marqeta (NASDAQ: MQ) has revealed its \"Docs AI,\" described as an AI-powered external-facing question and answer tool, which"
-    publishedDateTime: 2023-08-15T13:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/211506-marqeta-adds-ai-with-new-generative-artificial-intelligence-tool/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 32
-  - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
-    excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
-    publishedDateTime: 2023-08-11T12:04:00Z
-    webUrl: "https://diginomica.com/attention-enterprises-generative-ai-sexy-esg-has-teeth"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 19
-  - title: "US military’s special task force will explore generative AI"
-    excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
-    publishedDateTime: 2023-08-15T19:00:00Z
-    webUrl: "https://www.popsci.com/technology/dod-generative-ai-task-force/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "6UUCGGQxwtpWkYMhop/dlUjCzn9JNxAZv+OkzwL10+3cWa4zBVb3keuIuhoKFcUfb3oV80F+s8qc1FqwDEj6ffMtWcQ2fRrlpvIH6dBaqrv6Cocq7iIwAslcndgyUtqs6I6x4j1wZfa+1AxAxWHcbF/f8lsLFnXTLfcaZOjx5hMPA+R/7ou4vs7JclHkjwlIqR87ek6um+8Z0JbmwGJi8kIHQFAK2NxaT5GCc11VOmdNaU4HOOuaUCiWxkJYbGqest4AH6KW3+YlVVcT98LctNCk43i4MXxKPV7Y9earikQWgdKxDUu1EC0TyAB8U82grX9HrI90sZYuepMJAdmxJH6w1xkTbn6+aAjW7oUc48DofScRIc6APcoL98hbvsuLmPXZeYNZUU5B5D6zSiMZelXFLbSgNL9wRGDkKFfYDOzr+IAEQRA0YODID7nGfy9FX9Rh0SRpb7fURt8UQQy8hLzYVrEzO/ebV3i0dBrYam90HtuZucSe0VXrccwR1KHCkJQH5NH3BnCIeQa5rPhcDQ==;iBGPabhjK1qFGXzIqhsXig=="
 ---

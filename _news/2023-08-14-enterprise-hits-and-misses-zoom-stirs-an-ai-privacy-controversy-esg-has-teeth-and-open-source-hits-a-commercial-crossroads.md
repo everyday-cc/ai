@@ -42,6 +42,15 @@ related:
         width: 1022
         height: 649
         isCached: true
+  - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
+    excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
+    publishedDateTime: 2023-08-11T12:04:00Z
+    webUrl: "https://diginomica.com/attention-enterprises-generative-ai-sexy-esg-has-teeth"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 19
 
 secured: "dCbpjMmUG6RxFA0VDryWLBYGBFdyCS9f6aLSe9ofk0AMz04fxGJvcT+2Wn0R7kbRhICHbNnbDD5T6c73/PTrl6ifx8TAG9v803b+QCKY0ZiihR3cD41qEeJb/NhkGlwH/6XMHBNMagnHCL/4oOKdbLkB2JCSpZLxMEx0RWN1vGw52z3r9g8IFc1IWVPdsrHUcugOIcdutr+BzuMPSDMJYkMx2ak7BZ7i+AFHvd402oiJta98bxoH/n0gkiC/oZkf4KwQcUn/ONCVDuKgX+4S5d3H7aMF39MwyZO3VcuY2ieSDCJtQ3+hfmhJBz56xGApqOQCBuLcH8HiR32GOi5qMz510+H6bOIQuigwDi4sGXYEO6utxzN+1VT1yOmBsGzrpj7PcxasccTxpj3N3+7XD0Ky+47evYROCCSJymWhcphsTop5bA+smlNVIoGjAZBUQPB3kfpDlSwbO0z+WPkVIQ2gfij1IGk7KFRTMdX6j6Gm6Y2s3d+yVI59XzRQY+onsc6tKyDZjB5+op7h+ghbrg==;gyojmHhKcIw19Ves86HIXg=="
 ---

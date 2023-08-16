@@ -26,82 +26,88 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Is Not A Tool; It's An Employee"
-    excerpt: "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team."
-    publishedDateTime: 2023-08-11T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/"
+  - title: "How to take action against AI bias"
+    excerpt: "Given the growing popularity of ChatGPT and generative AI, and the emergence of synthetic data (or artificially manufactured information), data scientists must be the custodians of data. Training data scientists to better curate data and implement ethical practices for collecting and cleaning data will be a necessary step."
+    publishedDateTime: 2023-08-14T09:03:00Z
+    webUrl: "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.html"
+    ampWebUrl: "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d541f1b585aa1bcfb1ea3f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 608
-        isCached: true
-  - title: "What Does Generative AI Mean For Websites And SEO?"
-    excerpt: "Exploring the intersection of generative AI and the future of web search, this article delves into how chatbots could revolutionize SEO and reshape online business models"
-    publishedDateTime: 2023-08-15T06:23:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64db19be0420c96050635ebc/0x0.jpg?format=jpg&width=1200"
+      - url: "https://images.idgesg.net/images/article/2018/01/diversity_team_collabotion_paper-cutout-people-100745850-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true
-  - title: "Amazon is making its own chips to offer generative AI on AWS"
-    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
-    publishedDateTime: 2023-08-15T13:21:00Z
-    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
+  - title: "How to use Windows 11 Copilot AI"
+    excerpt: "The Windows Copilot AI is now available for Windows early adopters in the Insider program. Here's how to use it."
+    publishedDateTime: 2023-08-15T17:13:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 51
-  - title: "Marqeta Adds AI with New Generative Artificial Intelligence Tool"
-    excerpt: "Global credit card management firm Marqeta (NASDAQ: MQ) has revealed its \"Docs AI,\" described as an AI-powered external-facing question and answer tool, which"
-    publishedDateTime: 2023-08-15T13:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/211506-marqeta-adds-ai-with-new-generative-artificial-intelligence-tool/"
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/08/summarizedocuments.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Foundations Seek to Advance AI for Good, Protect Against Threats"
+    excerpt: "While technology experts sound the alarm on the pace of AI development, philanthropists have been responding with an uptick in grants."
+    publishedDateTime: 2023-08-14T08:50:00Z
+    webUrl: "https://businessjournaldaily.com/foundations-seek-to-advance-ai-for-good-protect-against-threats/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 32
-  - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
-    excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
-    publishedDateTime: 2023-08-11T12:04:00Z
-    webUrl: "https://diginomica.com/attention-enterprises-generative-ai-sexy-esg-has-teeth"
+      name: Business Journal Daily
+      domain: businessjournaldaily.com
+    quality: 39
+    images:
+      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/08/artificial-intelligence.png"
+        width: 925
+        height: 520
+        isCached: true
+  - title: "Fiction Writers Fear The Rise Of AI, But Also See It As a Story To Tell"
+    excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity. More than 10,000 of them endorsed an open letter from the Authors Guild this summer,"
+    publishedDateTime: 2023-08-13T15:51:00Z
+    webUrl: "https://www.wccbcharlotte.com/2023/08/13/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 19
-  - title: "Multinationals turn to generative AI to manage supply chains"
-    excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
-    publishedDateTime: 2023-08-13T03:59:00Z
-    webUrl: "https://www.ft.com/content/b7fafed2-9d00-49b0-a281-c1002b139865"
+      name: WCCB
+      domain: wccbcharlotte.com
+    quality: 37
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2023/08/f/y/i-am-code.jpg"
+        width: 900
+        height: 579
+        isCached: true
+  - title: "Fiction writers fear the rise of artificial intelligence, but also see it as a story to tell"
+    excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity."
+    publishedDateTime: 2023-08-13T10:20:00Z
+    webUrl: "https://www.wishtv.com/news/entertainment-news/fiction-writers-fear-the-rise-of-artificial-intelligence-but-also-see-it-as-a-story-to-tell/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-  - title: "US military’s special task force will explore generative AI"
-    excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
-    publishedDateTime: 2023-08-15T19:00:00Z
-    webUrl: "https://www.popsci.com/technology/dod-generative-ai-task-force/"
+      name: WISH-TV
+      domain: wishtv.com
+    quality: 26
+    images:
+      - url: "https://www.wishtv.com/wp-content/uploads/2023/08/AI_Books_AP23221693062073-scaled.jpg"
+        width: 2560
+        height: 1897
+        isCached: true
+  - title: "Fiction writers fear the rise of AI, but also see it as a story to tell"
+    excerpt: "Crime writer Jeffrey Diger, known for his thrillers set in contemporary Greece, is working on a novel touching upon AI and the metaverse, the outgrowth of being “continually on the lookout for what’s percolating on the edge of societal change,” he said."
+    publishedDateTime: 2023-08-13T17:52:00Z
+    webUrl: "https://www.kvue.com/article/news/nation-world/artificial-intelligence-fiction-book-writers/507-603f0413-538e-4d35-9161-74c1d09cd9aa"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
+      name: KVUE
+      domain: kvue.com
     quality: 17
 
 secured: "yvKbF4DU87WDssYWpL/ArCIpazt5s7fT+p2pTrHN44vXU+SMHDIoo/xHXdbOqRB8KHHLf3bV+JzuNAfoPr+b7bFxQEoMD4OSKLOL7h/nlY4i44iApusEUCBVr8XjY8117FHzyPJKU3UrJMg0qWmAZ7905E/lduyiPEfbnsN+o7MJguIqBQRDOkD9qXTDSYTR3GOLVJYxkPuVonwm/bgIVBWFmmvqKWfnJJRxUEe3jcS8U9n8rginyKtP/vNEocljQv96pndELf7oLTFJ0cJj2IT94nBP1qbmt9LHLIdW5MRKYMe3iFLdu9xWg8mnj5kbiPfCHd3nWKFPm1fJSLZkU+CdG+UFMcfdBFpjXTyqn3iaA3tA5nChzkLEELvZtmo9aS5BLvBRLmIizPX3Y2Pid87TnmgmIOQMO54p1hu7GoLJpZ0fBAQfnaQwsrb9GicJCXXIQkMc0+aZi2qmDQQFZeZ8//mkpdx+7AdCxwOxCFHRExsOxxN7clQpl5Fv/XfVnv42BPzueeFL8BNFAm6X0A==;7YUQAC/AQ9Kj0L51pGk/Wg=="
