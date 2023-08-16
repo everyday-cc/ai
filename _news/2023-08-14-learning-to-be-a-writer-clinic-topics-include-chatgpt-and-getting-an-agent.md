@@ -82,6 +82,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 17
+  - title: "Navigating through a world with growing and advancing artificial intelligence"
+    excerpt: "As AI continues to develop, people strive to monitor, regulate and promote it so that it progresses safely and responsibly."
+    publishedDateTime: 2023-08-16T17:56:00Z
+    webUrl: "https://www.wuwm.com/2023-08-16/navigating-through-a-world-with-growing-and-advancing-artificial-intelligence"
+    type: article
+    provider:
+      name: WUWM
+      domain: wuwm.com
+    quality: 16
   - title: "Many experts believe AI chatbots like ChatGPT are here to stay. So how can they fit into the academic world? We looked for answers."
     excerpt: "With the start of the school year just around the corner, educators acknowledge that programs like ChatGPT are already a presence on the academic landscape."
     publishedDateTime: 2023-08-12T18:03:00Z

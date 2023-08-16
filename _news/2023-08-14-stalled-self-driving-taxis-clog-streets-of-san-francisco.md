@@ -108,6 +108,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ten Self-Driving Cars Cause Huge Traffic Jam After Losing Wireless Signal"
+    excerpt: "Self-driving cars caused a major traffic jam on Friday in San Francisco when ten of its self-driving taxis simply shut down."
+    publishedDateTime: 2023-08-15T18:25:00Z
+    webUrl: "https://futurism.com/the-byte/self-driving-cars-traffic-jam-wireless"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 3
   - title: "Self-driving taxi program expands in San Francisco, but not without criticism"
     excerpt: "Self-driving taxis will soon be available for paid trips 24 hours a day in San Francisco after California regulators approved permits for two autonomous car companies, Waymo and Cruise last week. Johana Bhuiyan,"
     publishedDateTime: 2023-08-14T19:54:00Z

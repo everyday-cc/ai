@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-17-google-said-to-be-testing-new-life-coach-ai-for-providing-helpful-advice-to-people.md",
+      "title": "Google said to be testing new life coach AI for providing helpful advice to people",
+      "excerpt": "Google has been consistently rolling out generative AI tech like the launch of the Search Engine Experience and giving Chrome the ability to summarize news articles. In the future, the tech giant may be taking artificial intelligence into a new frontier: offering life advice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/computing/artificial-intelligence/google-said-to-be-testing-new-life-coach-ai-for-providing-helpful-advice-to-people",
+      "originalUrl": "https://www.techradar.com/computing/artificial-intelligence/google-said-to-be-testing-new-life-coach-ai-for-providing-helpful-advice-to-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8bpnx7UFeMUWJq9FoUXCa7-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-openai-acquires-ai-design-studio-global-illumination.md",
       "title": "OpenAI acquires AI design studio Global Illumination",
       "excerpt": "OpenAI, the AI company behind the viral AI-powered chatbot ChatGPT, has acquired Global Illumination, a New York-based startup leveraging AI to build creative tools, infrastructure and digital experiences. It’s OpenAI’s first public acquisition in its ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -61,7 +113,7 @@
       "originalUrl": "https://www.zdnet.com/article/opera-adds-ai-chatbot-to-its-iphone-browser/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -412,7 +464,7 @@
       "originalUrl": "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -465,7 +517,7 @@
       "originalUrl": "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -733,7 +785,7 @@
       "originalUrl": "https://www.zawya.com/en/press-release/companies-news/jaggaer-recognized-again-in-2023-gartner-hype-cycle-for-artificial-intelligence-om1ier8z",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1136,57 +1188,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-zenhub-previews-ai-for-software-project-management.md",
-      "title": "Zenhub previews AI for software project management",
-      "excerpt": "Zenhub is adding AI capabilities to automate task labeling, prioritize work, estimate completion dates, and provide insights into challenges and blockages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3704498/zenhub-previews-ai-for-software-project-management.html",
-      "originalUrl": "https://www.infoworld.com/article/3704498/zenhub-previews-ai-for-software-project-management.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/01/19/10/project-management-100713160-large-100936476-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3704498/zenhub-previews-ai-for-software-project-management.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704498/zenhub-previews-ai-for-software-project-management.amp.html",
-      "publishedDateTime": "2023-08-15T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

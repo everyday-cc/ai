@@ -110,6 +110,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "My favorite AI chat apps for the iPhone"
+    excerpt: "When I'm using my PC and want to work with an AI chatbot, I typically turn to a website like ChatGPT or Bing AI. But when my trusty iPhone is in hand, I can more easily and conveniently chat with an AI via a mobile app."
+    publishedDateTime: 2023-08-16T18:05:00Z
+    webUrl: "https://www.zdnet.com/article/my-favorite-ai-chat-apps-for-the-iphone/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "How did DefCon hackers do against AI chatbots?"
     excerpt: "White House officials concerned by AI chatbots' potential for societal harm and the Silicon Valley powerhouses rushing them to market are heavily invested in a three-day competition endi"
     publishedDateTime: 2023-08-13T21:30:00Z

@@ -138,6 +138,20 @@ related:
       name: Rochester Business Journal
       domain: rbj.net
     quality: 34
+  - title: "Team Behind New Generative AI 'Copilot' Says Tool Can Reduce Contract Review Time by 82% on Average"
+    excerpt: "Robin AI claims that the LLM its Robin copilot trained—known as “Claude” and developed by AI start-up Anthropic—has been refined to the point where businesses have reportedly already reduced the time it takes them to review contracts by 82% on average."
+    publishedDateTime: 2023-08-16T20:06:00Z
+    webUrl: "https://www.law.com/2023/08/16/team-behind-new-generative-ai-copilot-says-tool-can-reduce-contract-review-time-by-82-on-average/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 23
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/Artificial-Intelligence_2-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
   - title: "Zapata AI and IonQ Collaborate to Advance Generative AI Research"
     excerpt: "Zapata AI, a software company building solutions to enterprises’ most computationally complex problems, today announced it has entered a strategic all"
     publishedDateTime: 2023-08-15T16:01:00Z

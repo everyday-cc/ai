@@ -63,6 +63,15 @@ related:
         width: 1661
         height: 962
         isCached: true
+  - title: "Artificial Intelligence Continues to Shape the Future of Automation"
+    excerpt: "Artificial Intelligence (AI) has had a profound impact on the future of automation, revolutionizing various industries and processes. Here are some key ways in which AI has shaped the future of automation: Enhanced Efficiency and Productivity: AI-powered automation systems can perform repetitive tasks with greater accuracy and speed than human workers."
+    publishedDateTime: 2023-08-16T19:35:00Z
+    webUrl: "https://www.financialbuzz.com/artificial-intelligence-continues-to-shape-the-future-of-automation/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 17
 
 secured: "3HENDmOxMOIF4+QRpDsoOpqCc55qiiIhsrw1Mb2N4j2E+TMaQFszpN76vjfgozgYFVSVcX3SA4jP4gzXVmBm2kHUXq07aShxcZjSmNpWmQJNi6dnlst6VJ38lRKhbL27kO1u2egWiJcpMpQkzd7ZmrU5ldqecPuEx8+gMtVCm1oN6dY2ETMgbBGmXW4R6RvTat3FCpJaKq8k325SiZFb+9my8ZZUl31nKSasTLwCrMj/Bvq/y31z6m/W3v3gav8INx+FpFTndT5bECAhqCMp5VFBe/CvaA1nViHBcu3uHwbgY1jpMsP6Fof1PcqTXHFBySaIeetsewGHzvsecVxMeBZBjDRDBQOo/huL8+wss++84MAvp2va2qg6zz2H1c7YmIhI3HenFln8fXXKUBLym6M9Hnv5WqXPrqfHW2rMrs42U3huDWfh2jHWWAgdUuXxxi7PSFTJvWGnri2/g8WAC+558ZEp+DOQa0W1Bk6pcYG8v+1+7otFnfdO42TuQSU3r4OlEPGdi1KSK2i0sihp2Q==;5o50k0pScRfwu7C/wT12/A=="
 ---

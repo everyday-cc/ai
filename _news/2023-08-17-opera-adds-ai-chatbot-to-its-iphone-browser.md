@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-it
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
 type: article
 quality: 87
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -94,6 +94,15 @@ related:
     excerpt: "Botpress is a tool for building interactive chatbots. While it supports building chatbots for a wide range of applications, the killer app is using it to build a customer support chatbot and backing it up with AI smarts."
     publishedDateTime: 2023-08-15T19:13:00Z
     webUrl: "https://www.zdnet.com/article/you-can-build-your-own-ai-chatbot-with-this-drag-and-drop-tool/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "My favorite AI chat apps for the iPhone"
+    excerpt: "When I'm using my PC and want to work with an AI chatbot, I typically turn to a website like ChatGPT or Bing AI. But when my trusty iPhone is in hand, I can more easily and conveniently chat with an AI via a mobile app."
+    publishedDateTime: 2023-08-16T18:05:00Z
+    webUrl: "https://www.zdnet.com/article/my-favorite-ai-chat-apps-for-the-iphone/"
     type: article
     provider:
       name: ZDNet
@@ -184,6 +193,6 @@ related:
         height: 844
         isCached: true
 
-secured: "igkQaSO3T0Ey6P1zB8I+ytyGCg2yXtW/nCY9x6WttK1JiCvtpRa0iyNKs6GJhymJTR0aIv9BO/W5k09Ge2rONLANNJ3+IYm5vA76cCltAMcQAceWolwCCDpNzkvRR6uYnN7SMgLL1etzLX44n/6ZaCKrbH/QzJL3Jbmv8NwhSUvLq+pv5tI2R/1Qpunak5jPGkAU0XYGlD9Cro++tDf+SHBQ4Ns5ex2OCq3w2bIPDCQ2Z7ZvIZU69nDrYW3Qn8s4GqI2e1mOMxQ4QTYsi3BdIu2/3KMh89/6jWHoC3e1pxHFSGYiryY1Ge8X4M7KIs5L1CEIkRtOGI0bXx8VVJeLlj6Hps3JOfWc/55K6OxFIrg=;64H9FWs6LmdPN8JG6qpUEQ=="
+secured: "sy+vz/4BBvRFyxMrJWm3W/Y7zi4YUdBvk6QRKi1D31cj3m8qUKb6JaWwKPTFnnJKYbQS0AURywZC7dgRE4OHUhndywAH4DjVVDsnoquHpEmsTy3hwttKpOW8xfBDEQG8slAV9xz6dmiJgiiXyGHrhcFzjv5Hfgui0iHclcvMBY3/NMjqLalozZiG5HxFeMRhbnXq+/2YYius89UG5f342Ds0R4Af2PYLNDqsMraGF+u4MOrG5wBWFBMdinFO56LzCfaXBu7cCp85jNHH4/VNPLK0M0/rC7Um9eUOJJsIsXdwfqQul5DASBGq66iQPtJzbpzOH7vop4vIsHsLvRQUF+Z2BkBodXcR2zZHfxshCkq3ZTtkiIaUJ8LDTtkl12uldk3Tv5oklkLOuSDQqvhY3Pc2JNrcN/cDOXd2U7Nvhj5Y3/DHqEiGglRAsdX5MIb7micDEATVzKIB/d49ELDXuPB7ajjwAMeQFCPRksXIatZz8S7xNYQ8xLUbAQfaFS/6JQugEKGgkcUCxsfqXCwv8g==;HU87ihGxB297VMHbRFnWzg=="
 ---
 

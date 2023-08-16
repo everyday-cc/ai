@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Consulting giant McKinsey unveils its own generative AI tool for employees: Lilli"
+    excerpt: "Throughout it all, the AI cited its sources clearly at the bottom ... including those developed by McKinsey partner Cohere as well as OpenAI on the Microsoft Azure platform, to inform its GenAI Chat and natural language processing capabilities."
+    publishedDateTime: 2023-08-16T19:00:00Z
+    webUrl: "https://venturebeat.com/ai/consulting-giant-mckinsey-unveils-its-own-generative-ai-tool-for-employees-lilli/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 44
+
 secured: "210Wa0+OHMwp4+X1GIa5my2SdcVvTCv4ruGLEH7F1ZBaKRjpbA2DpUNitSyFoLyV3MAgUJN6i6eaeMFxH1sXvaI2cxzMvdnYllMLz1wGWNRtJ9TckHllvcsaY6lW9gSazQG+daweOXh1yj7HQkiuzOj8J+qKeNh/4SzpIrgN6aHrWz9RkWjxuMy5skJQZ+GmmFKL5uhlrYIJjPTSewyCWpQPJNzpn7v+L5f6JBKMPCAgMFA6v4VeGRk4ogJxwYcf/FgG4sve/1xlDex1oSyk6mot/Ya5uoTVDmvILr3UtcLHRg+uVgpzBQHGBmjB2hhsIuWwIerSIZr9AkiHA5E6C+JIZLQfTj2uQqJQ4Umwaxw=;s7M3dn/7SYq5xXzh+F2J8Q=="
 ---
 

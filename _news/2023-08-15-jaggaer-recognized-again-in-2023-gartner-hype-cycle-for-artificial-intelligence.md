@@ -34,6 +34,15 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Gartner Hype Cycle places generative AI on the ‘Peak of Inflated Expectations’"
+    excerpt: "Gartner Hype Cycle for emerging technologies placed generative AI on the 'Peak of Inflated Expectations' for the first time."
+    publishedDateTime: 2023-08-16T18:49:00Z
+    webUrl: "https://venturebeat.com/ai/gartner-hype-cycle-places-generative-ai-on-the-peak-of-inflated-expectations/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 43
   - title: "Accern Recognized in Gartner 2023 Hype Cycle for Data Science, Machine Learning, and Emerging Technologies in Banking"
     excerpt: "Accern has been specifically acknowledged for its capabilities in Adaptive Machine Learning (ML). \"We are honored and thrilled to be recognized by Gartner in these two critical areas,\" said Kumesh Aroomoogan, Co-founder and CEO of Accern. \"Our focus has ..."
     publishedDateTime: 2023-08-16T10:40:00Z

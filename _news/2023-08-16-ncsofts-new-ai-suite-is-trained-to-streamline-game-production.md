@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-stream
 webUrl: "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "NCSoft reveals VARCO AI language models"
+    excerpt: "NCSoft has announced the launch of VARCO LLM, a series of AI language models and generative AI tools based on them."
+    publishedDateTime: 2023-08-16T21:45:00Z
+    webUrl: "https://venturebeat.com/games/ncsoft-reveals-varco-ai-language-models/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/VARCO-Logo.jpg?w=1200&strip=all"
+        width: 1200
+        height: 660
+        isCached: true
 
 secured: "GXYVsE2VxwObo+x/O3+MXTl4AlX0P1bSuJOT0Z6NAzON7JVgTL0NHL0L3tSNNwbErk/9tRuuNi8AiHJYH27BghHXN6K4BEB1vFczhbnfLxkhNY5XpI89gKO1/JteUlf3k19H/GdegeAIWTfr9Bs/Vx/ANfMqY+HYWQV6cY0rEQVexwurYowGNL4vXbNut6o3Bo1Z/UfQdfvDIMhUORU2Zx85DELcXP34dHu2xG+Ob/955uFqOuqSJLr090QGBTpI3V/jJmtr5tSD3z/Can7db8fgqlbd/GrNAnVFeBDubC4X3nuGcmNKze/KF07kYOQ0wyngF92FgLu+jIOS8ev5DzibLNYXhzEi+KQIXF6mJowHNJnP3G+Cd0U3lzkEem+GMu5GryVEAcigjTv4H3OvNn6zjQsXS4mJKe75WNKCt+/HOBZlMiU1M8xx8VFEDZndK+h57e+CHQGq7i062kh8u1kuS6y2tcHTVe5LLS6RF4ky+2+uyWAtYa4P9Ts+VNFFF/cd5ztB5Ab377uZvd1oYQ==;C82X9b1rKMUcoWxnbE45Aw=="
 ---

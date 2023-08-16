@@ -36,6 +36,15 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Gartner Hype Cycle places generative AI on the ‘Peak of Inflated Expectations’"
+    excerpt: "Gartner Hype Cycle for emerging technologies placed generative AI on the 'Peak of Inflated Expectations' for the first time."
+    publishedDateTime: 2023-08-16T18:49:00Z
+    webUrl: "https://venturebeat.com/ai/gartner-hype-cycle-places-generative-ai-on-the-peak-of-inflated-expectations/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 43
   - title: "JAGGAER Recognized Again in 2023 Gartner® Hype Cycle™ for Artificial Intelligence"
     excerpt: "JAGGAER, a global leader in Autonomous Commerce, today announced that it has been named for the third year in a row as a Sample Vendor in the Gartner® Hype Cycle™ for Artificial Intelligence, 2023. The source-to-pay (S2P) technology provider is included in the category of Intelligent Applications."
     publishedDateTime: 2023-08-15T14:33:00Z

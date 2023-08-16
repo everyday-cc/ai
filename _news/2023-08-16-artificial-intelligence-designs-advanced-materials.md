@@ -75,6 +75,15 @@ related:
         width: 400
         height: 217
         isCached: true
+  - title: "OpenAI buys AI gaming startup Global Illumination"
+    excerpt: "OpenAI has acquired a New York-based AI gaming startup for an undisclosed sum, the company announced on its website Wednesday. Global Illumination is a venture-backed company with $14 million in funding and was working on a massively multiplayer online game called Biomes, which from the looks of it appears as an open source Minecraft-like game."
+    publishedDateTime: 2023-08-16T18:16:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/08/16/openai-acquires-new-york-ai-gaming-startup.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "cJXQpVOEYIC52tfTMF0J4lSSKAWDiTEDGM+8r8amesmwNZFItEsWKLmw9HdSkm87U69X0b0nIOM2pJKVW1v7eoIuzXMaLQZPNRoJm9jOVP6wKWN7pm0uizNjUospmj/8dZl1E16KPOCvL6bsHr643o0ey3H5TAFm9ODR08zejLS6Kvw0FgqsoFeYwYTc1T1XgF7yADKmuCxYwxRNblOOpnZx0REIl9aGI1Cpum5b1Y9FLb9Byn7SYWSL82sVPvGYi/yBpQ9ArjILYPXEOZbNAvmOTQ6akiJuvSisHTRX4QuoXqBp6by8a0fwIq7up0QeGRSdqXWvusL7RGAD/SPIXyZluyliZvg6QPR7qBa38J0=;iKtKqu89nnQOtRPlfh32ww=="
 ---

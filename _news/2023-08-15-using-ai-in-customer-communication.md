@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -162,6 +162,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 12
+  - title: "Transforming Talent Acquisition Through the Power of Automation and Artificial Intelligence"
+    excerpt: "Over the past three years, talent acquisition (TA) has been impacted by significant events—an enduring talent shortage, changing workplace standards and attitudes, and new technologies that have the potential to transform the hiring process."
+    publishedDateTime: 2023-08-16T16:19:00Z
+    webUrl: "https://hbr.org/sponsored/2023/08/transforming-talent-acquisition-through-the-power-of-automation-and-artificial-intelligence"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 7
   - title: "Fine-Tuning, Prompt Engineering are Keys to Delivering Real Generative AI Solutions to Commercial Pharma Operations Today"
     excerpt: "Generative AI further enhances the value of prompt engineering by synthesizing important insights from various interactions, including text, images, compliant transcripts, and call notes. By automating this process,"
     publishedDateTime: 2023-08-15T13:00:00Z

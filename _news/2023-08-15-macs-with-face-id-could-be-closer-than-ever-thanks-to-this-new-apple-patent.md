@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "New Apple patents for emotion recognition and MacBook face authentication"
+    excerpt: "Apple may be inching closer to including Face ID biometric authentication in its MacBook laptops, based on a newly granted patent."
+    publishedDateTime: 2023-08-16T20:03:00Z
+    webUrl: "https://www.biometricupdate.com/202308/new-apple-patents-for-emotion-recognition-and-macbook-face-authentication"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/16160102/apple-macbook-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "MacBook Face ID patent approved, but don’t hold your breath"
     excerpt: "One technical problem with implementing Face ID in the Mac is that there’s not necessarily a clear signal to trigger it. For an iPhone, it’s easy, as it can detect you picking up your phone, and then activate Face ID."
     publishedDateTime: 2023-08-15T12:43:00Z

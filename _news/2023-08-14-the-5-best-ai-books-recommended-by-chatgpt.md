@@ -43,6 +43,20 @@ related:
         width: 640
         height: 361
         isCached: true
+  - title: "Tackling the not-so-hidden risks of ChatGPT and generative AI"
+    excerpt: "While business leaders are putting pressure on to add generative AI and do it quickly, the technology, as it stands, has several risks."
+    publishedDateTime: 2023-08-16T20:20:00Z
+    webUrl: "https://venturebeat.com/ai/tackling-the-not-so-hidden-risks-of-chatgpt-and-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_502055402.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How artificial intelligence could change college football"
     excerpt: "The explosion of applications like ChatGPT has thrown many businesses into a new industrial revolution as new efficiencies could streamline workflow. That’s great for everyone but the humans who could be replaced by computers. Few industries escape at least the conversation of AI disruption and college football is far from exempt."
     publishedDateTime: 2023-08-15T11:38:00Z

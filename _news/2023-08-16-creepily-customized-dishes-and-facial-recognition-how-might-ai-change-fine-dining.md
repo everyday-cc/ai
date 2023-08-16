@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
 
 images:
   - url: "https://i.guim.co.uk/img/media/2b73a2245ffe131ee39d2c4c058545a6f6c7767d/0_0_1500_900/master/1500.jpg?width=620&quality=85&auto=format&fit=max&s=67119d24f976c08ba2bff3006e890a08"
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "G2l9sFtpfqLvHZUcA4u9XJCpTbkUMmPH8y+NlpijCXdqDFu8+oHRqI6DFEEX76rofdn8QrjNpjGpa+GetHrI1O49mQzoKp7PbQ8tzr7p2WDZZRt3UT38YgfGplSEv5enPhQSibFEK31ZNYiU3BTs77PCfSN1E5MLSoYs6V8JO0j29ydqU75bfCw7CnjzZH3DEooxGlRrPOt7oRBsBMMSZlOJQ6jOE/Z9+dnAYLQ0V+LxFHHR1GUxAT4jkDXn3iIA/pkFl6VcNYeU5HggD43tJuJC9jtOtebc98mr78WzieQaIFABfNEGr5VvXokkEWVFe9t1pwJPxltGTHyJf5CT3s8g2DR/gXBro/sgla+bnmo=;1mUq928AAv3220nLV60l0g=="
+secured: "BAbRiiUC6YiliIwB/xpAg1JFlkVlvjJxR8WhJWoAqFNJ31nd8tKDx/GK+aTJdx8iJng+e4Me77xrTIbMxNLsWVhu3cdW3/2TP3Hx3MYhBGYCmIN3QBggTWAg42+0TqO7KVhVDmRarQtCN7XOx7VjbbIrLvVmUCMExh2kGNDj9ubjWkfWgpSNEKQQAWiJBGOK+VWHMflu0e7bSkLlyxmbEZ86LIAl8FSSeozP3GgMt3lx0/3niVeP0/pgnng6nLgpqL9OcGac3VnHWyw1t/5N193Ed8CMjNOUQ59mSkOQdtOP5sFIHZD7Kukff7EoUOgUX3aFmbwUwhdk4WbZ7wN7PsTJXHjCMRBuUyjylsIKcyc=;B3InVWhO4d7MRsaksw3vfA=="
 ---
 

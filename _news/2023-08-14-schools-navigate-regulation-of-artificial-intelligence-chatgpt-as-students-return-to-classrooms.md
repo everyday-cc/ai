@@ -34,6 +34,20 @@ related:
         width: 640
         height: 361
         isCached: true
+  - title: "Tackling the not-so-hidden risks of ChatGPT and generative AI"
+    excerpt: "While business leaders are putting pressure on to add generative AI and do it quickly, the technology, as it stands, has several risks."
+    publishedDateTime: 2023-08-16T20:20:00Z
+    webUrl: "https://venturebeat.com/ai/tackling-the-not-so-hidden-risks-of-chatgpt-and-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_502055402.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The 5 best AI books recommended by ChatGPT"
     excerpt: "It is recommended for beginners as well as advanced AI enthusiasts. The book covers the latest research and developments in AI. Universities and institutions around the world use this book as a textbook."
     publishedDateTime: 2023-08-14T07:36:00Z

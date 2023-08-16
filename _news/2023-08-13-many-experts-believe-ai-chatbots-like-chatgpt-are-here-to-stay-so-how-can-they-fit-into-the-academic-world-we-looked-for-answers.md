@@ -95,6 +95,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 17
+  - title: "Navigating through a world with growing and advancing artificial intelligence"
+    excerpt: "As AI continues to develop, people strive to monitor, regulate and promote it so that it progresses safely and responsibly."
+    publishedDateTime: 2023-08-16T17:56:00Z
+    webUrl: "https://www.wuwm.com/2023-08-16/navigating-through-a-world-with-growing-and-advancing-artificial-intelligence"
+    type: article
+    provider:
+      name: WUWM
+      domain: wuwm.com
+    quality: 16
 
 secured: "BlCrMyIoJ7WuyTmuY9/Tv0YSHqh4PSx6qXjy5oltcGhT5bFvgpvWVDvXMkEEKmj2elY7TIZmkTrWFmDMTVApXdEYMz9L7BZsUuD4xffkOgBEUGNi8HYOjrV0aZ7s+2B4CuxQMBgiA+ernDCOqemRQytfkCknH5xHovYMMkTu2yqbIWNn7tz0TVJ5CiRK4m6oq03Q7YZPWreZLIUnTPbFT111ujdJ89kwwSlT4jfusYOTznzmY1d1yNKTMpqrNTloqwvLug5zpAyBBQv9hN0W4tcONv/8p24XHsyY6wOMvhEiY8jzh61DVAItAEJKXwOTlM0WqV2WYy+8MH1y5lIsBZ+vZl9wfgAaqgLo26RI8hw=;BasPdFipHe2QyKQkKjtbfw=="
 ---

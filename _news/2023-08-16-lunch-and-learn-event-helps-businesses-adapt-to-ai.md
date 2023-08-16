@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Zoom Vows Not To Use Your Calls To Train Artificial Intelligence"
-    excerpt: "Videoconferencing company Zoom has clarified a policy that had some users nervous. It will not be using its calls to train AI. A recent terms of service update implied customer video calls could"
-    publishedDateTime: 2023-08-12T01:55:00Z
-    webUrl: "https://deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/"
-    ampWebUrl: "https://deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 74
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1466243151.jpg?w=1024"
-        width: 1024
-        height: 606
-        isCached: true
   - title: "Message to NKY businesses: Start using AI or be out of business in 10 years"
     excerpt: "By a show of hands, most of the businesspeople at the Northern Kentucky Chamber's Eggs 'N Issues have used Chat GPT — a from of AI that's still evolving, according to Northern Kentucky University's Dean of College of Informatics Kevin Kirby."
     publishedDateTime: 2023-08-15T20:21:00Z

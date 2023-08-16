@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-y
 webUrl: "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-your-business-better/"
 type: article
 quality: 119
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64d940f4725deaf2b4635ebc/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Zoom Vows Not To Use Your Calls To Train Artificial Intelligence"
-    excerpt: "Videoconferencing company Zoom has clarified a policy that had some users nervous. It will not be using its calls to train AI. A recent terms of service update implied customer video calls could"
-    publishedDateTime: 2023-08-12T01:55:00Z
-    webUrl: "https://deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/"
-    ampWebUrl: "https://deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2023/08/zoom-vows-not-to-use-calls-to-train-artificial-intelligence-1235460819/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 74
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1466243151.jpg?w=1024"
-        width: 1024
-        height: 606
         isCached: true
   - title: "Lunch and Learn event helps businesses adapt to AI"
     excerpt: "The panel featured a trio of presenters, all experts in startup AI-focused businesses. \"Change is coming and I really want local businesses to shift from being threatened (by AI) to being the threat,\" said chamber member Aaron Smothers, the chief ..."

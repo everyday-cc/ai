@@ -167,6 +167,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 12
+  - title: "Transforming Talent Acquisition Through the Power of Automation and Artificial Intelligence"
+    excerpt: "Over the past three years, talent acquisition (TA) has been impacted by significant events—an enduring talent shortage, changing workplace standards and attitudes, and new technologies that have the potential to transform the hiring process."
+    publishedDateTime: 2023-08-16T16:19:00Z
+    webUrl: "https://hbr.org/sponsored/2023/08/transforming-talent-acquisition-through-the-power-of-automation-and-artificial-intelligence"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 7
 
 secured: "DSnyEn3tvXYb4xok2RxZHId6k+Bxz0aj3VtpX+mvC1acM0xxsCQ3/bzrqLOYBYLvDVnnbLEmPZ3xIjjdZyU8lBzgTSpQNFSd/TkQPTRQu6nOh4L7zIo7/KZs8vzGs5xgqF8DgwoIHLDzxCs9owQoDjl5vbiJ9A8oiAdVP1FKD3TXMPJOAys+Wlo05f14GrfZzFR/m5KZS5ROKBPy/aymWCVUy+5stjvmyAtIWHkxEkudt+fBnCbGUtmBcRsJQA1IpCVrVwVHrmoDZgHKFvSKZIhkZUPQbGUTcZMhf322JlZdg87olLpnbrgk6oUTMunsM8KrV9JeGabrYgZYvTUwZTLz/XMXCeuRfLCrLE55vE2LWcnCNzCWcINtaSQEB+G8LEvbJyNPGlnfQiUNqhlXuo1hQlAitUutYaOyL7eVEnDMNzY13JIayjusYOOzDAGmS1hs8AWbkCLIcroKlVRE4DxFHD7Sv+E2bMapcHfh3qUQpOXy1junIwnanUc0Yf8L7J/23YMOmXoGYmjv3QSAqw==;5wnwV2d8v8+aqv1vZYkI5w=="
 ---

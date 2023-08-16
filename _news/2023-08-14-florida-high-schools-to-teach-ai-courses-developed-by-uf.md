@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/education/k-12/florida-high-schools-to-teach
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Government Technology
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Self Driving Buses Florida"
+    excerpt: "Orlando Mayor Buddy Dyer looks over the new self driving SWAN (Shuttling with Autonomous Navigation) shuttle bus, Wednesday, Aug. 16, 2023, in Orlando, Fla. The SWAN shuttle seats up to"
+    publishedDateTime: 2023-08-16T16:12:00Z
+    webUrl: "https://www.goshennews.com/news/national_news/self-driving-buses-florida/image_d7d64eb4-9e28-53f1-a996-78ef2eac1599.html"
+    type: article
+    provider:
+      name: The Goshen News
+      domain: goshennews.com
+    quality: 19
   - title: "Artificial intelligence courses will be taught in some South Florida schools"
     excerpt: "More South Florida students will soon have the option to enroll in coursework centered around artificial intelligence, which is part of a University of Florida AI education program that began last"
     publishedDateTime: 2023-08-14T18:14:00Z

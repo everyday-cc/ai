@@ -113,15 +113,6 @@ related:
       name: Bizcommunity
       domain: bizcommunity.com
     quality: 34
-  - title: "Kyndryl and Microsoft Unveil Enterprise Generative AI Solutions on Microsoft Cloud"
-    excerpt: "Bangalore (Karnataka) [India], August 11: Kyndryl (NYSE: KD), the worlds largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
-    publishedDateTime: 2023-08-12T03:14:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230811/4107737.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 28
   - title: "Microsoft shuts Cortana App for Windows. 4 other ways to use voice control features"
     excerpt: "Microsoft shuts down Cortana app for Windows 11 after discontinuing iOS and Android versions. Support will end for other platforms by fall 2023."
     publishedDateTime: 2023-08-12T08:18:00Z

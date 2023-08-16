@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-g
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
         width: 400
         height: 217
         isCached: true
+  - title: "OpenAI buys AI gaming startup Global Illumination"
+    excerpt: "OpenAI has acquired a New York-based AI gaming startup for an undisclosed sum, the company announced on its website Wednesday. Global Illumination is a venture-backed company with $14 million in funding and was working on a massively multiplayer online game called Biomes, which from the looks of it appears as an open source Minecraft-like game."
+    publishedDateTime: 2023-08-16T18:16:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/08/16/openai-acquires-new-york-ai-gaming-startup.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "L5d5YDXqUM2Dhhzdywyt8jDIuelk8OVzmyf1GY7HmIb29W94/DO4PrarOdj8IP1zvpM9LTvDkjBFtNRYo1VeYbod0fgP0agMgMfdLcJ0pm8MVwuCm5wiZrzK7kKK9+slB2Dfl0BKRJGfg6/v3N46yOZqIxQJI2KN1F1eqGxT1/3tYZemci/jlI1GgF70GIl7JPsSGU5UifTbAES2bok1k6XUY1kcf7wnEuvamJJed7hfnnoPCpv7iQzRI6kzxUL+579SN8svBQ7zqBB5te6IWNE4F4+41rxk0XXIxps0TsfrSFhKxbgEiz2CdeeHJdgUA/f4DGVLpqktYUHeHaezcSnBlKxGhbX7ZUHUya/afjI=;/uA2SG3foe0RbTctXlgjRw=="
 ---

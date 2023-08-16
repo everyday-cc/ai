@@ -48,6 +48,15 @@ related:
         width: 1265
         height: 872
         isCached: true
+  - title: "Maine native accused of defrauding AI firm investors"
+    excerpt: "The indictment alleges Brackett added a “5” at the beginning of the $94,420 balance to make it falsely appear as $594,420."
+    publishedDateTime: 2023-08-16T19:50:00Z
+    webUrl: "https://www.bangordailynews.com/2023/08/16/news/midcoast/maine-native-accused-defrauding-artificial-intelligence-investors/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 17
 
 secured: "3VR3/hiAXzLzfXp7hiEkpE0/heZKJrVgGEHRCyeUg47xWBCrg2TAPsP8Ldgqa/wW6EvF7KD1scozuzjexSU6D1aq07PdPGiFHPC46RB8dkr5PnNaUWay+YLDz8X67fcW1jeDYbSJ4Oo9+IQ9gO2eNl20y4rPgEHfnuylioAl7Lz6zCV1a6uIVlGm7scRFZlWnAWElvjrA8g7oy/1ZhptjJkHT1WLTlUtP4syi+tLrJRMyUpe11X9Z0H73fzQenrlHqjQ2Ia919/nv8UWZMNK6c1+f60FxIxQvd3EwFX10wTOvavkZ6o5CC0XJDwRR66E34HcL4xFxkdkdkRXiDPTz/j1HU3D7tHiQrKnPQbq4sBFQelUKqoOiIQfwR2eC83DlH+uT7FnDd4zCxUfwiUWTJhAUHt47JKKzlxd0/G5B3yunsBt/oLbyAZDxSPIcGIBRvfjffNHV3uWFl48YGy+XdrC7MJceHTi612/VMAsvrXneQAQ0j9+9ZaetrQiyZqupox9T+tzmMs8UBNt7QTpXg==;y9I5+KCH3NkfYsdHEBg3GQ=="
 ---

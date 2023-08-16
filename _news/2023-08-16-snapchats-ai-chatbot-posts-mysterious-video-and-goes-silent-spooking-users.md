@@ -99,6 +99,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "My favorite AI chat apps for the iPhone"
+    excerpt: "When I'm using my PC and want to work with an AI chatbot, I typically turn to a website like ChatGPT or Bing AI. But when my trusty iPhone is in hand, I can more easily and conveniently chat with an AI via a mobile app."
+    publishedDateTime: 2023-08-16T18:05:00Z
+    webUrl: "https://www.zdnet.com/article/my-favorite-ai-chat-apps-for-the-iphone/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "How did DefCon hackers do against AI chatbots?"
     excerpt: "White House officials concerned by AI chatbots' potential for societal harm and the Silicon Valley powerhouses rushing them to market are heavily invested in a three-day competition endi"
     publishedDateTime: 2023-08-13T21:30:00Z
@@ -184,6 +193,6 @@ related:
         height: 844
         isCached: true
 
-secured: "ezUHdz9IajirA5ymuGX+XMml0tM/HXwDt0OWqdgOf1oYZegFRjodgHns7hsdB8gxeAvannHBArQd4tVhBgyJXYOd9eyvlmvC9nisqq7XRwOe2T0JhE1WxDGq8667/xHMvk+4GBiFQAytjLqw+kOb4E3f3HzklpGzFGlPwDRr16RyDDvipQuQtlJwXGqn50nsEpvOaIpMB8jSFsx/4hOUKNYdayXaQ/VrF76VRgvfjDn68igxUpnRcV+Olz2ZYYyJVCRVS3gaertKsUhnjMrK42joxBs+bTE0wIGAk9fbdxlTJhixjONFwbvZkUQ2q83TisDmiDE6VWzULvZyab71L8zFeh1+Etx+13WCTQ1MQkM=;PPsm9vIkeLzKN/9M9WytPg=="
+secured: "5kWk1DWvw/CLnzi4PCYBmEqhu2Bl00UWKo2qOKqEUUQ8bcnUiQCATO1+w6YCU4tCup2TnIGEVUuCBkEYgYcHiz5g31ILvheZbht9UxSTsfNlkzDmBnjuEXRJ6Z0CR/FaTfcyiPJT0qNDikcvKGoVE8kxqCOE5zf2hMBSv6jZCH6UcW3DkRIR/Z7cjz1oMAuPxFpu2t7I8hie5DbrDPGpXI481m0Uecztmkb/Ohyc4HyyaBgQZZ7hKd64pe5Wu7f5tgJvriEiFgrUlcPLxyKjVCnrTnCFNriZbNBArt175yVot3bvoQXDFsbZQr/pCLLb/wzAH1UnIj/TuZ6qfehlLSowqpM/JgV/RGcx5zLG8L3N3pCjeFq5Y+FFkPjp7bqNVzTSQZl805T5nv45GX85rFTJnlN5F5RZa+vA1Q4iNgU/7nvwQhVuVuTUN01bzqCMBYbXPKIwFDo/hlwQpFL6yVr67rjDI1qdDv4sAc+OfHE4TDDYlAJ3sZ3QAAk4SyMvx3U4A9sqU6DemuYQSwmwEg==;t4qgRn9kay0hFYDJsC4p0Q=="
 ---
 

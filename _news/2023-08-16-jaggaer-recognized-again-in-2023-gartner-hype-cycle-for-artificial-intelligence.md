@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/jaggaer-recogn
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/jaggaer-recognized-again-in-2023-gartner-hype-cycle-for-artificial-intelligence-om1ier8z?amp=1"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Gartner Hype Cycle places generative AI on the ‘Peak of Inflated Expectations’"
+    excerpt: "Gartner Hype Cycle for emerging technologies placed generative AI on the 'Peak of Inflated Expectations' for the first time."
+    publishedDateTime: 2023-08-16T18:49:00Z
+    webUrl: "https://venturebeat.com/ai/gartner-hype-cycle-places-generative-ai-on-the-peak-of-inflated-expectations/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 43
   - title: "JAGGAER Recognized Again in 2023 Gartner® Hype Cycle™ for Artificial Intelligence"
     excerpt: "JAGGAER, a global leader in Autonomous Commerce, today announced that it has been named for the third year in a row as a Sample Vendor in the Gartner® Hype Cycle™ for Artificial Intelligence, 2023. The source-to-pay (S2P) technology provider is included in the category of Intelligent Applications."
     publishedDateTime: 2023-08-15T14:33:00Z

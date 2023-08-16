@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thegazette.com/news/cedar-rapids-travelers-seem-ok-with-
 cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/news/cedar-rapids-travelers-seem-ok-with-new-facial-recognition-checks/?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 765
     isCached: true
+
+related:
+  - title: "Facial recognition now being used at airports in Des Moines and Cedar Rapids"
+    excerpt: "Facial recognition scanners are now in full-time use at the state’s two largest airports. TSA regional spokesperson Jessica Mayle says the scanners verify ID’s used by passengers as they board. “It takes a real-time photo of the person who is presenting the ID and it compares it to the image on the ID and validates"
+    publishedDateTime: 2023-08-16T20:56:00Z
+    webUrl: "https://www.radioiowa.com/2023/08/16/facial-recognition-now-being-used-at-airports-in-des-moines-and-cedar-rapids/"
+    type: article
+    provider:
+      name: Radio Iowa
+      domain: radioiowa.com
+    quality: 51
+    images:
+      - url: "https://cdn.radioiowa.com/wp-content/uploads/2023/08/Facial-recognition-RI-photo.jpg"
+        width: 900
+        height: 683
+        isCached: true
 
 secured: "kyd6rrZBPDi9FvkRdfXA4Zu/nNZohRowu4hiCyGKy+xbfttI4GcWJSwYf7HavnA4YS2qXlbxY/2uM7NZQSR1Bx3lOE6W95Kyaze5SrNBujI40FGJ7t0XmQ5DwQbEQjctT5LxiSDbNcG6KFQbEtyoQ5fwUbx2JPew7IUsAIhH8DKzb5hWd7F1809YMIrBBRWsvjBV1HzdZnQJUIyu+g+21lkaTe1UBjtGAbTxxApllRrZaBXM+DWfZPQ9u9uwWUS6SYPGiE+toG2YXWKCqA9dow4NijIUkRlEGr8d7VXD0M0fV2XQM0Q0t4DPIwJwPMFbr8rXu0qMOfJXE9dc+bpabeNDfeSfcNsp//xxCBgCW9MjJ0WZKbXI0h87tRosgOwSoNfkrNFDYrorGSplt7UCThAAzkyyFkuuJoj+g9D/79MX5vRLr3JjgukVfx5/Pl11SSTps9SyNkcjBPBF+aPgcDhyQewFslpSNTq2pjJ4y/b7W4vHgnVqsx/Pw1BWjvWQ9EW+T71xEe+4N+VlAafm1w==;CrhwoYIwZ/Ls0fjUyyG4eQ=="
 ---

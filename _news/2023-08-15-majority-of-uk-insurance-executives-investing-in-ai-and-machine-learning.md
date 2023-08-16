@@ -7,7 +7,7 @@ originalUrl: "https://www.insurancetimes.co.uk/news/majority-of-uk-insurance-exe
 webUrl: "https://www.insurancetimes.co.uk/news/majority-of-uk-insurance-executives-investing-in-ai-and-machine-learning/1445268.article"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: Forex Factory
       domain: forexfactory.com
     quality: 32
+  - title: "Maine native accused of defrauding AI firm investors"
+    excerpt: "The indictment alleges Brackett added a “5” at the beginning of the $94,420 balance to make it falsely appear as $594,420."
+    publishedDateTime: 2023-08-16T19:50:00Z
+    webUrl: "https://www.bangordailynews.com/2023/08/16/news/midcoast/maine-native-accused-defrauding-artificial-intelligence-investors/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 17
 
 secured: "d2PcPTZX7f6jNqWbNH/1YBwJz/XNWkw72JxVXzcJrjNua149+Uch24afUsIbF+1RvmMOdnOMy3UfmiCym15ouSC8h/DtyZgIwqhiCK/1ciEzOGKuc/ZfH1nu0dJecQM9Feu4Ou22UCgL95RIhWK7WNx6IKqi9DPlhiOJzCRNYPcz+hoEId/CUEfYswL9et67X8zYm3romR8tqPjJxQpb68kRtGYPrYhRSril9iOJsOIqNglct1OKbNdtknzOM2rGEJPoEALjD3vAHhX1bk32JfFeXFuqH/1KJT7UMRg++j8IZrlKuRcG22FjhkZ+yNjRXI42/3lhl36/CDDOL9mxRffosuKOPSZ3cF8n5cbsHgmnQkvl9qnj1NugBuskgm6mQPOdgid0bDbMpd6MhcGS2nA4s8CPApF45Z/IVo5t+TW03EtW4lBTUJtYBSLPf2Z/d8Cnz9fMGk11mMU9BnZ+j8y8UekMcOy/FK+V3pOy3IGllZw5GDpsCVE5kcRXbGSe5TGqKRomWyNY3VunyldzrQ==;U6G3pcneXBGdKp0R/kE4Jg=="
 ---
