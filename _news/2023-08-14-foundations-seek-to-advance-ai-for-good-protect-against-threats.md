@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Case Against AI Everything, Everywhere, All at Once"
-    excerpt: "and inspire independent funding and ethics guidelines for a vibrant research community that will fuel innovation. With the right priorities and guardrails, AI can help advance science, cure diseases, build new industries, expand joy, and maintain human ..."
-    publishedDateTime: 2023-08-11T09:04:00Z
-    webUrl: "https://time.com/6302761/ai-risks-autonomy/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 69
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/08/GettyImages-1421511892.jpg?quality&#x3D;85"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Fiction Writers Fear The Rise Of AI, But Also See It As a Story To Tell"
     excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity. More than 10,000 of them endorsed an open letter from the Authors Guild this summer,"
     publishedDateTime: 2023-08-13T15:51:00Z

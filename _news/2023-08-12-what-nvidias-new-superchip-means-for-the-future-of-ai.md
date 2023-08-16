@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-superchip-f
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035"
 type: article
 quality: 84
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "China spends big on Nvidia chips"
-    excerpt: "Wants them for its generative AI systems China's internet giants have ordered more than $5 billion of high-performance Nvidia chips to build generative AI systems. Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,"
-    publishedDateTime: 2023-08-11T09:05:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57402-china-spends-big-on-nvidia-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/7d2e48c471e8e1bbb6222171f23a9353_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "AI software startup Modular seeks bumper Series A round to challenge Nvidia"
     excerpt: "According to the startup’s website, its software works by unifying the frontend of popular AI frameworks such as PyTorch and TensorFlow using modular, composable components. This means developers can use custom hardware to train AI systems and later deploy them across any server or edge device."
     publishedDateTime: 2023-08-13T23:44:00Z
@@ -117,15 +103,6 @@ related:
         width: 1030
         height: 577
         isCached: true
-  - title: "Nvidia Is Down, But AI Chip Juggernaut Not Down For The Count"
-    excerpt: "Nvidia Corp. (NASDAQ: NVDA) skidded 4.72% in heavy turnover on August 9, ending the session below its 50-day moving average for the first time since early January. Shares were essentially flat in after-hours trading."
-    publishedDateTime: 2023-08-11T18:19:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/23/08/33747953/nvidia-is-down-but-ai-chip-juggernaut-not-down-for-the-count"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
 
 secured: "20X9I4UNZWK4YLJouAj6sZsRP+0YE2n9UeeoRm0+pYEJbR/CLxDj4Wsm6CUtmIPloCICUH8XHY/04iUNGPta4p4KdgBp29UTSh14wCFA//yZXHHHnC14de2kKsVv8lI0R/Q5gGEWYl4YRR8H4u+/boKsXy3R/rZmOHpsCZV15D5bKEQO3nvyoRkbtEO4uIm/I26KFBuH2myQBIMkx/cBN2qxHekhXypJr8hEJWZ8YWAvzDH43nHFgD/1JAQPxzhN0tsZgpfbaWCUx8kD4NcR/u3ZeZMTyi/4ulIRkcqbrgUkIPXsonZsWFT00hYf0WQKmFvv8hw9t8X0VOZA9BHGWkLlGCcHNB+ZXVNufMuPS6OyAaqI2lNdLWo1/OTMAahkDXUWED6pSWNCRQLo+01zLX37qFmvyMEGXQ1X8kLYGam3QBqmfb4K+1YeXknh/vrAeHbVVUFm2jbO7bUwRW+Dk1WTN3hnBCKpQ0CpgFzRSzMcF/K7NhEK+Ga6Lk2qyRCsXvwW0b1WNutayDoMm6xONA==;fgK0OJlbayuiR2oHNaq5DA=="
 ---

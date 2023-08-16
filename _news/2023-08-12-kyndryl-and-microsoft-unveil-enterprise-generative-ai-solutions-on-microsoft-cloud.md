@@ -132,15 +132,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 47
-  - title: "Transform your business with Microsoft’s range of Data and AI solutions"
-    excerpt: "Microsoft offers a range of Data and AI solutions that can help businesses transform their data into insights and actions."
-    publishedDateTime: 2023-08-11T08:55:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/503964-transform-your-business-with-microsofts-range-of-data-and-ai-solutions.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 34
   - title: "Doctors use Artificial Intelligence software to plan for the future"
     excerpt: "About 30% of U.S. doctors are approaching retirement age, but only 12% are choosing to retire. Why? In a financial environment struggling with inflation, advance preparation for retirement is necessary for all physicians seeking more comfortable golden years."
     publishedDateTime: 2023-08-15T15:46:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-ea
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html"
 type: article
 quality: 98
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 34
-  - title: "Chinese Tech Titans Move To Stockpile $5 Billion Of Nvidia AI Chips Fearing Further Export Restrictions By U.S This Time Targeting A800 Processors"
-    excerpt: "Nvidia introduced A800 as a replacement chip with a slower processing speed for Chinese market after the U.S blocked China’s access to two of its high-end microchips including its leading-edge A100 processors."
-    publishedDateTime: 2023-08-11T07:29:00Z
-    webUrl: "https://swarajyamag.com/tech/chinese-tech-titans-move-to-stockpile-5-billion-of-nvidia-ai-chips-fearing-further-export-restrictions-by-us-this-time-targeting-a800-processors"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 16
-    images:
-      - url: "https://gumlet.assettype.com/swarajya/2022-09/7be06553-4c7c-43b4-b034-e423615f72a6/Screenshot_2022_09_01_at_4_14_44_PM.png?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 798
-        isCached: true
 
 secured: "M5PTconTSoryfTDnsE0WlaPGX3M8iEj5SL+K7PU9CppQLvcp5k5SyKWg31sWjCQqnjE5t6ikZJ8Ne9N33cOkQMRLYDsYh9QNZyl0EIFilmnSNAKnJeeQbtvx4sQCoNeeU39ohJg7bxy92JDGDencgsKDnFXb/qgK/jrP057SYE/IFriGW6WiJJMjM/vuOcxmaehuuXnmbB+YSah5az2hC4twgO0YAlkBl5nqluRFF7OMgTRv1ibQfxxHgjLYZngy2fesUCNo+h4h8dn6b9PibfOBlxLpCHCNy7bMaqjVqGBWHVY2RtjVuuEThH7MZIsWYmA0NCE9OazcSS+Atj5nA3OtYcNqdeXD0ZzZCK6KpadS7i5tF9H0NsS6xij3gn08QgZfwG/E7Q04tOP61K/qXNtNne4RKye8sJb8OEN4Oz8gjuDKv+uAQHERgWvrqbhv15wBGLWl6JkiAtlfvJQ8VMArhInA0eqn0nepFZUM1nrG4doEnFNljXznx/HcWemg0M10axk3z2Hh2tqs4ZWIkA==;pU4/PTE7ttqEYLADZo05Ng=="
 ---

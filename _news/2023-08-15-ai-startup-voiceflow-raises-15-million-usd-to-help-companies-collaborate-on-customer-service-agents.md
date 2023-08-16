@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Voiceflow, a platform for building conversational AI experiences, raises $15M"
+    excerpt: "Voiceflow, a platform for building conversational AI experiences powered by models like OpenAI's GPT-4, has raised $15 million in venture capital."
+    publishedDateTime: 2023-08-15T19:20:00Z
+    webUrl: "https://techcrunch.com/2023/08/15/voiceflow-a-platform-for-building-conversational-ai-experiences-raises-15m/"
+    ampWebUrl: "https://techcrunch.com/2023/08/15/voiceflow-a-platform-for-building-conversational-ai-experiences-raises-15m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/15/voiceflow-a-platform-for-building-conversational-ai-experiences-raises-15m/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1465454608.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Voiceflow raises $15M to build the ‘Figma’ of conversational AI"
     excerpt: "Voiceflow, a company offering a collaborative platform to build conversational AI agents, today announced $15 million in fresh funding."
     publishedDateTime: 2023-08-15T13:00:00Z

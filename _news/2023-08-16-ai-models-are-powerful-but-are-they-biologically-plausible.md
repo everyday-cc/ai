@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2023-08-ai-powerful-biologically-plausible.
 ampWebUrl: "https://techxplore.com/news/2023-08-ai-powerful-biologically-plausible.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-powerful-biologically-plausible.amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - IBM AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-models-are-powerful.jpg"

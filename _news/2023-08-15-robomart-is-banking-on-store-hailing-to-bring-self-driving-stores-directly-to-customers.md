@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/14/robomart-is-banking-on-store-haili
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/robomart-is-banking-on-store-hailing-to-bring-self-driving-stores-directly-to-customers/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 659
     isCached: true
-
-related:
-  - title: "Exploring the Intriguing Robotics Technology Behind Self-Driving Cars"
-    excerpt: "Welcome to the forefront of transportation innovation! Self-driving cars have swiftly become a captivating marvel of our era, revolutionizing our perception of commuting and road navigation. But have you ever pondered the technology powering their sleek exteriors?"
-    publishedDateTime: 2023-08-11T08:52:00Z
-    webUrl: "https://techbullion.com/exploring-the-intriguing-robotics-technology-behind-self-driving-cars/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 56
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-11T095151.549.png"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "cK/7pjgK9CNQJBuvmwZ8B+AIb4n6XLLxQy2v9SX40BFXWE1JSYRVGFX2rNXlnRmndzc40yJKBLC5OQFSXZ0HIjOdhVu3hUf3NNZbGmomAnf21O7j936D0Zjgq+XDN0Jy0fM4pEhzmSEUbF6ArnJn4onNeOZ6FkyzxaGG1zMb2XVGy9jV4ewtytokf4XKFYR8xfujgi4mrPiYIG93fgL9qbVxqMURI6ASUkkDr0bTnqixHaBSp+Qb1ZMfRcoU2yQpvSzd5fvgCRGMGeEyk1/QEU7XEN2oQBXOKOherJUSYOfQWZMFZkpn05pVb9Q3rf/Gl2TM5dCKn3qW/xAs+bHjL1GdKmo/ro0lxuJ4m62HviUBpYFXvvigEUwY0urUj1Eji5irXRhocL0b4s4CGvOjxX7C9bG1AJHZYC0gMRBzWH9+3ebWk9wJwtAx40oMDtm9VCDGUeBrsVzcXozdBqob3X4OLD22AVztM0mxgOioZSqjryEtbGqmwYy43yoEt9ZLRRbXVnZjcmu8z8umr0X+2w==;ilgCO/j3Y9+FczAG7+HGhg=="
 ---

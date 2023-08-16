@@ -50,20 +50,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Case Against AI Everything, Everywhere, All at Once"
-    excerpt: "and inspire independent funding and ethics guidelines for a vibrant research community that will fuel innovation. With the right priorities and guardrails, AI can help advance science, cure diseases, build new industries, expand joy, and maintain human ..."
-    publishedDateTime: 2023-08-11T09:04:00Z
-    webUrl: "https://time.com/6302761/ai-risks-autonomy/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 69
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/08/GettyImages-1421511892.jpg?quality&#x3D;85"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Foundations Seek to Advance AI for Good, Protect Against Threats"
     excerpt: "While technology experts sound the alarm on the pace of AI development, philanthropists have been responding with an uptick in grants."
     publishedDateTime: 2023-08-14T08:50:00Z

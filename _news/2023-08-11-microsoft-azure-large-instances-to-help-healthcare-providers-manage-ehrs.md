@@ -125,15 +125,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 47
-  - title: "Transform your business with Microsoft’s range of Data and AI solutions"
-    excerpt: "Microsoft offers a range of Data and AI solutions that can help businesses transform their data into insights and actions."
-    publishedDateTime: 2023-08-11T08:55:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/503964-transform-your-business-with-microsofts-range-of-data-and-ai-solutions.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 34
   - title: "Kyndryl and Microsoft Unveil Enterprise Generative AI Solutions on Microsoft Cloud"
     excerpt: "Bangalore (Karnataka) [India], August 11: Kyndryl (NYSE: KD), the worlds largest technology infrastructure services provider, and Microsoft today announced a joint effort to enable the adoption of enterprise-grade generative AI solutions for businesses on The Microsoft Cloud."
     publishedDateTime: 2023-08-12T03:14:00Z

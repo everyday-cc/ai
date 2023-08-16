@@ -81,20 +81,6 @@ related:
         width: 1188
         height: 669
         isCached: true
-  - title: "Is ChatGPT running out of steam? AI chatbot's performance raises burnout concerns"
-    excerpt: "Benzinga discusses a recent Stanford University study regarding the performance of ChatGPT over several months."
-    publishedDateTime: 2023-08-11T08:20:00Z
-    webUrl: "https://kvia.com/news/2023/08/11/is-chatgpt-running-out-of-steam-ai-chatbots-performance-raises-burnout-concerns/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 34
-    images:
-      - url: "https://kvia.b-cdn.net/2023/08/smartphone.png"
-        width: 1080
-        height: 770
-        isCached: true
   - title: "Schools navigate regulation of artificial intelligence, ChatGPT as students return to classrooms"
     excerpt: "Artificial intelligence is becoming a major conversation in the classroom, especially a popular software called ChatGPT. ABC7 asked ChatGPT to write a book report on \"Pride and Prejudice.\" In just seconds, it created a report that would probably satisfy ..."
     publishedDateTime: 2023-08-14T12:52:00Z

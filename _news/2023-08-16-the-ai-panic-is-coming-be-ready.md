@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-ai-panic-is-co
 webUrl: "https://markets.businessinsider.com/news/stocks/the-ai-panic-is-coming-1032556797"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

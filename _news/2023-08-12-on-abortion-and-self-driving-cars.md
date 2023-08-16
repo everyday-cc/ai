@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Don’t Scrape Me, Bro, the Activists Sabotaging Self-Driving Cars and How Reddit Beat a Rebellion"
-    excerpt: "For more audio journalism and storytelling, download New York Times Audio, a new iOS app available for news subscribers. Hosted by Kevin Roose and Casey Newton Produced by Davis Land and Rachel Cohn Edited by Jen Poyant Engineered by Sophia Lanman Original ..."
-    publishedDateTime: 2023-08-11T09:00:00Z
-    webUrl: "https://www.nytimes.com/2023/08/11/podcasts/dont-scrape-me-bro-the-activists-sabotaging-self-driving-cars-and-how-reddit-beat-a-rebellion.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 21
 
 secured: "qM5Q9f2/5bZAOB6L81AQ30V4Ba6KYOuFLuH6oLOMdJx80T13PVCvC8m6W8Q9pY0LmoJNGWx5hyg86py2YBJCNATD7dTm3uMkGH4iLfa7Cbar8ujH6Uu0APMWtcuFO6VKOxdUadUNqhJ9rp2nuDX5XKfQRnSkpZigjnWq4qynKv/N1J/J5LzB3XsQowtQ8qnT2r7lH8bwHp0u6yn2wV3cBcKMQ0RYuNogAL6J4RkfSB00qYQQWo3+9QxyEFxRAXKvlg86uRuAKMnpRF5bUaV0Uza+NoYajvDk1wRhEBtI4dHMUlSoB6EgjYMcHGlbgeluapgEh4TRD/yJAW03SZxqMWxJusElbS0Waxs2gntebG0=;xG8PdHjYERibuAuYYkbctA=="
 ---

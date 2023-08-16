@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/whatsapp-is-testing-ai-generated-sticke
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/whatsapp-is-testing-ai-generated-stickers-150614153.html"
 type: article
 quality: 87
-heat: 109
+heat: 110
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/"
 type: article
 quality: 103
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/08/ChatGPT_image-e1692002280431.jpg"
         width: 1188
         height: 669
-        isCached: true
-  - title: "Is ChatGPT running out of steam? AI chatbot's performance raises burnout concerns"
-    excerpt: "Benzinga discusses a recent Stanford University study regarding the performance of ChatGPT over several months."
-    publishedDateTime: 2023-08-11T08:20:00Z
-    webUrl: "https://kvia.com/news/2023/08/11/is-chatgpt-running-out-of-steam-ai-chatbots-performance-raises-burnout-concerns/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 34
-    images:
-      - url: "https://kvia.b-cdn.net/2023/08/smartphone.png"
-        width: 1080
-        height: 770
         isCached: true
   - title: "The ChatGPT Code Interpreter: Why It Matters for Conversational AI"
     excerpt: "Delve into the fascinating world of AI-driven conversations with the ChatGPT Code Interpreter. Discover how this innovative technology bridges the gap between human language and machine understanding,"
