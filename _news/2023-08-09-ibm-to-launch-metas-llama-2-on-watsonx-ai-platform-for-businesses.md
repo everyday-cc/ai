@@ -1,20 +1,24 @@
 ---
 category: news
-title: "IBM to launch Meta's Llama 2 on watsonx AI platform for businesses"
-excerpt: "Aug 9 (Reuters) - International Business Machines IBM.N said on Wednesday it would host Meta Platforms' META.O artificial intelligence language program on its own enterprise AI platform ..."
-publishedDateTime: 2023-08-09T12:39:00Z
-originalUrl: "https://www.nasdaq.com/articles/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
-webUrl: "https://www.nasdaq.com/articles/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
+title: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses"
+excerpt: "IBM to Launch Meta's Llama 2 on Watsonx AI Platform for Businesses (Reuters) - International Business Machines said on Wednesday it would host Meta Platforms' artificial intelligence language ..."
+publishedDateTime: 2023-08-09T12:13:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
+webUrl: "https://www.usnews.com/news/technology/articles/2023-08-09/ibm-to-launch-metas-llama-2-on-watsonx-ai-platform-for-businesses"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-secured: "FOEOC5Fyy37nxCFtG+pGZ8kIl9IRdepCIDFwGyb3oslFhzLbQSCAjOB9+Jv6uexVrRTgzjypseRx0wp14QIKtcYr1UGtpWTB+/nfzEXYUGrkC0Zfpa/rqmjCc2j9UVxvRNJTOO5nkYdcSBpV7Jge1ikWQUMpHVLri53/Q8WynWK5OH5EpHn9sa51Tc09va4O6LBuYVdqiad+zJwX7lpeYFFaXJmslI86A+oTDMEw8f8cBMbLzdP+YksEqGzUGgUZsA2uIELjzEUMRUHIKFYlZCeT/SLGjr19ZVqpEwhIjh4odYHeunlzzstPXHHaevunLHLiS9Mf/nXiXW4H5BRaJ2thH7ZHNBDefL47RLMNd4o=;0LpcUd4OAGXQTpf3J7ezqg=="
+secured: "pUpBj3F0SxR5TZ9i+kCo7vllR/s/NU0uJd3pnGgseFrnyBZ+sdKhnHg9nmYUMUiU0/cDT+I+uIuZQZB9RgYS9vxnEcHq9cdpluHBjbDNUWIDksyn59SVrMVvjBFPY82/ym6KAZrkCOOKrjvJGFWAA1d99LVr5bFUaDuCcCxFMZ0CMC3sKs2+H6uEsvXbufgwCNuMrWqj7tr8VU1b9UBlWvbDb4qheZNOZT1YzQQj3SR75QaWe+isjx9bAkzgSB8z+E6zBa9sAjMLK1p2t6UdjUuPqomo6Bjf1E2w65dkKX0f02TVlyeSXxlMJGU3y72hhI1eND3Z/QzQJ0bnSgjdRx+nwQM4EtIiqrYzpY8+ONA=;f0ZMBJgbfXwErmo6VodhhA=="
 ---
 

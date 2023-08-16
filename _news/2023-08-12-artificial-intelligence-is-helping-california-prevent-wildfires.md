@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "California Commission Approves Waymo and Cruise Expansion Over Fireman and Police Objections"
-    excerpt: "Waymo was not permitted to charge for driverless rides. Waymo can now operate its ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology."
-    publishedDateTime: 2023-08-11T05:37:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/08/california-commission-approves-waymo-and-cruise-expansion-over-fireman-and-police-objections.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 28
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/08/cruiseblockingtraffic.jpg"
-        width: 1146
-        height: 692
-        isCached: true
   - title: "California regulators vote to allow self-driving taxis to operate 24-hours a day"
     excerpt: "California regulators vote 3-1 to allow Waymo and Cruise to operate driverless robotaxis 24/7 in San Francisco, despite concerns."
     publishedDateTime: 2023-08-12T13:00:00Z

@@ -37,6 +37,6 @@ related:
       domain: clickondetroit.com
     quality: 12
 
-secured: "2DJB0rRVreSPxfV9RZ/bzIQTwvOyZzLDtoj3ibsMAvYhVlp3WObsetLQ4HqNTatawdk3Ixcp8oZgRcS1T29SAa5UIGbhLdPn/I4IV3QadL+MSotB9OrQsisRVoRt3t44AumeCEDE+Wkl2/2++NhNJEeEej59TndE84juvy0sfwIGlUPS0cEfS3yLg2G7C+oayBZ1+WOP9TTRMbummWofo5xSgnxTr1eUuJ1fKelIYC16etpJUYpAPrV7L8R2wfYRp94Yx9uwbGHirsfxPgbQIyuoylx13IeIb+NpXe3Wv8XAwM9tK42Ihl+baYRjRI9jRVBfkePTftUS1f3qlO/pZ1nSycTRKGRv55/jDZNnBb4=;wkZp4BoAeuWtQk8CO++aIQ=="
+secured: "8XXE3mJmUCz7aDYs/ttY2tIhesAXLVwFtFYWQPJkdv65uiTL3bfiKQZDEQwxyYapEJmTp/M4nWJslv9KwbnJ05BRAmku2G+mxH3RPRpze90kG7e+XNPqv2QR5G5TPP/+/8oSnQs5Tq0UTB/PZd53gY3qzSFUZp+iCCE/bMe0peQBOgxV43Rg0SX6xAK9S8IbeflOMaeIk/1k5Lcqjd7V/RIb87sD/RzTLd+LqxshH2Mfj0drCF4OnOB9KdHkFG4GzQu4V7mVwLH6kxrwG+KH2xD2ktfWclfWQxdQsHEfKo89VGaLqMgjNFJSwyxDF+Pjn0uizq7ZRBPT3DeL2myuVk7I9Lk6YdKu8iR5CkeIlMM=;UqBLQ8CCOGGqz/vdAEUSWQ=="
 ---
 

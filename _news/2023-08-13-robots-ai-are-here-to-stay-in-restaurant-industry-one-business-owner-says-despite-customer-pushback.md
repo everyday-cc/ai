@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/tech-sad-reality-restaurant-industrys-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tech-sad-reality-restaurant-industrys-future-business-owner-says-robot-works-12-hours-day.amp"
 type: article
 quality: 88
-heat: 90
+heat: 88
 published: true
 
 provider:

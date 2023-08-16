@@ -101,6 +101,20 @@ related:
         width: 975
         height: 548
         isCached: true
+  - title: "Microsoft's AI First Movers programme helps LawVu speed contract processes"
+    excerpt: "Tauranga-based legal software developer LawVu is one beneficiary of a Microsoft programme that is ​helping developers deploy generative AI."
+    publishedDateTime: 2023-08-15T23:57:00Z
+    webUrl: "https://www.reseller.co.nz/article/708377/microsofts-ai-first-movers-programme-helps-lawvu-speed-contract-processes/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 52
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/lawvu_kidd.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "Amazon chips will help to compete with Google, Microsoft in AI race, here’s how"
     excerpt: "Amazon aims to enter the generative artificial intelligence (AI) market and has begun developing microchips to compete against tech majors such as Goo"
     publishedDateTime: 2023-08-14T12:33:00Z

@@ -84,23 +84,7 @@ related:
         width: 1024
         height: 606
         isCached: true
-  - title: "Background actors fear being taken ‘advantage of’ by AI, as union and studio negotiations continue to stall"
-    excerpt: "Negotiations between SAG-AFTRA and the AMPTP continue to be at a standstill, as background actors worry artificial intelligence could replace them with digital copies."
-    publishedDateTime: 2023-08-11T05:59:00Z
-    webUrl: "https://www.foxnews.com/entertainment/background-actors-fear-being-taken-advantage-ai-union-studio-negotiations-continue-stall"
-    ampWebUrl: "https://www.foxnews.com/entertainment/background-actors-fear-being-taken-advantage-ai-union-studio-negotiations-continue-stall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/background-actors-fear-being-taken-advantage-ai-union-studio-negotiations-continue-stall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 69
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/1200/675/SAG-Strike-Sign.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "YGCczls5vhFI9zrp/j1n3BSuI4O+gQLfgrQTx1Aatu4QMawQKYZDx57TFBHrrrpC11BOZ1MozQNODlZy6oYZV1rrWzvdOMMYpTIqPO+fy195aTbGs7jjPbQb1sV18NPn4s+KEYbG3cP05+gn574CgCiyBeWoEGTHgT2PG3nhAt7Q6l63/OewksGiQTWdHVQPaN952zuhQDYF1A4O4/tqM9V88I0ZXVDJABLWdhQ+1IjznUOJ/Bl1ebZQrM0Dz5qzNzztWlshPfwnOUeOPhzF+DS5PCuYN35bvPqowXYPGxp7AdZ3eMCAomy9OIBDYID+jY3Zbqv31Ff1TDXYo3Y6DTW+u+gLEpZL8OLiJnIWLTo=;EOOq/AO2mMA+5PhZ+sghXA=="
+secured: "6bWMJjqhHV+rQ6GpowPfWCPoK441RGvb250H5pHcu9Hkz5sP0wHQ1YNZMQL77MErGNf3ChHa4aWDAYTQfxfxKOcwKOM6KJnHq8xZPy100aX4+A9J2FtQeV4fUlR339n2eaT/5zfEO8zlUr6DjFFOmLriNYVeqsTkHKQpRixpD00ZMmntjjo649eTuAGHbfN9uzsPiNjJm84Vqahu7oi60D6489PdCerEzedhGvhAo4COmtYxtEAH8VfnuTeGX50sWnaRnN1Nz23m0OWyaR1wVcR4n119ynquxWhmbJWsYL2ppAxwNLtJYQ4RFTDUgs6l6vjKi6Pqo6xMFDcEWbckepXy/5p2MMEL51X07vCtN+TCpRg9vNIVrXK4PhWzp17n+izrh4w83Cl4wVTHY82UAUeQcNEdrpaSt+rnnapc6fXMlasSBLwRglEfDZod51DpGHLXPvWZnWCWjy6mKJYXpMSu5aIyxJo2SZll4TaYNOE7yekZlo8XAF/agnL6ATu+FTK7a9RA0ZVuHw6fJC2IsA==;q4gYCTWVeFs0NTOf1bL87w=="
 ---
 

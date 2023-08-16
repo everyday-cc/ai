@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "California Commission Approves Waymo and Cruise Expansion Over Fireman and Police Objections"
-    excerpt: "Waymo was not permitted to charge for driverless rides. Waymo can now operate its ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology."
-    publishedDateTime: 2023-08-11T05:37:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/08/california-commission-approves-waymo-and-cruise-expansion-over-fireman-and-police-objections.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 28
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/08/cruiseblockingtraffic.jpg"
-        width: 1146
-        height: 692
-        isCached: true
 
 secured: "eiDH8v4ut+TrI00309oIZ3CRbf30L3GFd3PH0tVqvxOeBEDPiuhFo33HmxsnxeX4nXpstCx3GmdK0B6VZLYKtrBDgrTNLDMthjb500rRHE//RyMA9FyoG20AoK/CihZHaUyEs+3/ctGZrch0SaJH2wjcnoYzwVdp/Sk28m/xn9iFe3GG85Ni6hl4NKFl4uoF4Q2gTnJgsg8ptuPX+Wk1zuSdSNjyG/k/ZtI3C/gXhU785LO8O1ApFft/RqC72WcuuEKwxwIAf+gNdIsglwOuv8LTOnHTnjC+AQky2dzhOm/JHEs9nxb/WPSTjFo6iZ7+yQIJ+WpjLO/NOVj9Wc+Gq2kQ5KfcnklM19v6R6THhS3jLgK4oC3fNoy9nZZEJ1CItyBP1wVqZ8YMTvXjrTgf85Jb/Q24TCq97+obp5l1LiwoH59ez/8jnQpivrox1RUpyTgINtABaVwvVgKwmVGFyJdieN6gNqtpDHJCK/ZaPJId6Cw35cpSRdXEVPzn6tR01dmKWT6xljunveQRfv0IsQ==;FomxXOiVmuPaZprG5q1TjA=="
 ---

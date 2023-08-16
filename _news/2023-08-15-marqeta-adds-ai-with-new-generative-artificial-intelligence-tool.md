@@ -75,20 +75,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 51
-  - title: "Global generative AI revenue to hit $33B by 2027"
-    excerpt: "Generative artificial intelligence is set to yield US$33 billion in global revenue within five years as the technology experiences rapid growth."
-    publishedDateTime: 2023-08-11T05:42:00Z
-    webUrl: "https://www.arnnet.com.au/article/708303/global-generative-ai-revenue-to-hit-33b-by-2027/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_267728566_1.jpg"
-        width: 473
-        height: 315
-        isCached: true
   - title: "Attention enterprises - generative AI is sexy, but ESG has teeth"
     excerpt: "Generative AI is just all enterprise software vendors want to talk about these days - but are we sleeping on ESG? The regulatory traction behind ESG is going to force the IT spending hand, and a new generation of ESG vendors is on the case."
     publishedDateTime: 2023-08-11T12:04:00Z

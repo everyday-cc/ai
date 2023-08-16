@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Andes Technology and TetraMem Collaborate to Build Groundbreaking AI Accelerator Chip with Analog In-Memory Computing"
-    excerpt: "Andes Technology and TetraMem are proud to announce a strategic partnership aimed at delivering a fast, highly efficient, AI inference chip that will revolutionize the landscape of artificial intelligence and edge computing."
-    publishedDateTime: 2023-08-11T05:37:00Z
-    webUrl: "https://www.design-reuse.com/news/54584/andes-tetramem-partnership.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 31
-    images:
-      - url: "https://static.designandreuse.com/news_img2/homepage54584/ab.jpg"
-        width: 680
-        height: 383
-        isCached: true
   - title: "IBM says all the building blocks for analogue AI are in place"
     excerpt: "Analogue electronics promises a more efficient way to train AI systems than computers that rely on zeros and ones."
     publishedDateTime: 2023-08-11T08:42:00Z

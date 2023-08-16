@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2023/8/11/23828874/inside-the-hunt-for-ai
 webUrl: "https://www.theverge.com/2023/8/11/23828874/inside-the-hunt-for-ai-chips-command-line"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Verge
@@ -24,44 +24,21 @@ topics:
   - AI Ethics
 
 related:
-  - title: "The threatening potential of AI and child abuse"
-    excerpt: "The U.K.'s National Crime Agency warned that the proliferation of AI-generated explicit images of children is \"normalizing\" pedophilia and disturbing behavior against kids."
-    publishedDateTime: 2023-08-11T05:59:00Z
-    webUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse"
-    ampWebUrl: "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp"
+  - title: "The not-so-intelligent side of artificial intelligence"
+    excerpt: "If AI is smart enough to pass the bar exam, why does it struggle with simple common sense questions? Computer scientist Yejin Choi studies how to teach AI human reasoning, social norms, and values."
+    publishedDateTime: 2023-08-11T13:20:00Z
+    webUrl: "https://www.kmuw.org/2023-08-11/the-not-so-intelligent-side-of-artificial-intelligence"
+    ampWebUrl: "https://www.kmuw.org/2023-08-11/the-not-so-intelligent-side-of-artificial-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-kmuw-org.cdn.ampproject.org/c/s/www.kmuw.org/2023-08-11/the-not-so-intelligent-side-of-artificial-intelligence?_amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 87
+      name: KMUW
+      domain: kmuw.org
+    quality: 59
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb0de59a-4578-48df-a0f2-52d127244c2e/438c3371-1ec1-405e-9325-a09ec771d10d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Turing Wants To Unleash Human Potential Through AI-Powered Tech Services"
-    excerpt: "In 2020, when the Pandemic mandated the move to remote work, Turing raised $32million in Series B funding to define a future where companies could push a button to spin up their engineering team instantly."
-    publishedDateTime: 2023-08-12T10:46:00Z
-    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/12/turing-wants-to-unleash-human-potential-through-ai-powered-tech-services/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
-  - title: "The double-edged nature of parenting, mental health and artificial intelligence"
-    excerpt: "There are two sides to every coin — and sometimes our strengths become weaknesses. This hour, TED speakers explore the mixed blessings and volatile flip sides of mental health, parenting and AI. Guests include developmental psychologist Yuko Munakata ..."
-    publishedDateTime: 2023-08-11T05:44:00Z
-    webUrl: "https://www.npr.org/2023/08/10/1193281234/the-double-edged-nature-of-parenting-mental-health-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 33
-    images:
-      - url: "https://media.npr.org/assets/img/2023/08/10/trh_cuts_both_ways_artwork1_wide-f5cd94374cdee89695b5a53cef8e676148eb1927-s1400-c100.jpg"
-        width: 1400
-        height: 787
+      - url: "https://media.npr.org/assets/img/2020/03/04/manoush-zomorodi_bio_photo-1_vert-bf366cf2e0a689ea87422c5de657f381d9d43437.jpg"
+        width: 2096
+        height: 2794
         isCached: true
 
 secured: "4l3zeCf1M/8lbAYG287T3QjMnmKePoOm7ZhJwqN0HIuM/hHkiJFPdzMgDi27Yz+pqbid/QcG9v7/D73bjx4T61gayqCOrl354T3NnULqd4rDxDiIzw5XWRWhQgiNtgBcbGncvzakF9sq370HZjLj1AJ5VaDLXnhCj6iPmBlwSZZrcOa/8RYGckcA7OGklAH4K0Ka2gFQ9YvuoquFdZdDyGSADClbthRaD/pLurAHVXLp6Ssw6UE9onRGvYij8plE1ofapLBcvQ5e0c8qUSObg0oeG0xcCDMp31fABv7fyY06lBLvXN3x0eAs8i4RV9flGvbFb5sFempW5rEEr4RIlKd1EFfWpEMzlsmen/hw5SCr3cX6oPCUUgjzkQWKLkb+m9DIGv/POeCkSmLN1uagrtrsNC94Y5wGD9q80uCZWFmXd5D9USkzqJNJ+yPdRsXpRdkgHf6gEO/2cbtxOrWMt2FhOU4MgsDQIJQGBNlC2uqXIK0g5HMEfSNQ60KK09bD0+vrJuYNYrnDi5r6Ek2LBQ==;o3WcgMFxP3mgx0czww0zew=="

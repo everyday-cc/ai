@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 503
         isCached: true
+  - title: "BMC’s CTO Ram Chakravarti on Generative AI in the Enterprise"
+    excerpt: "The BMC executive discussed the challenges posed by generative AI and also gave advice on optimizing enterprise AI deployments."
+    publishedDateTime: 2023-08-15T21:59:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/bmc-generative-ai-in-the-enterprise/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/08/eSPEAKS-thumbnail.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tackling Healthcare’s Biggest Burdens with Generative AI"
     excerpt: "Spread the loveIn recent years, the healthcare industry has faced numerous challenges. From managing the overwhelming patient data to combating the increasing prevalence of chronic diseases, these burdens have put immense pressure on medical professionals and healthcare systems."
     publishedDateTime: 2023-08-11T11:25:00Z

@@ -88,6 +88,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Microsoft's AI First Movers programme helps LawVu speed contract processes"
+    excerpt: "Tauranga-based legal software developer LawVu is one beneficiary of a Microsoft programme that is ​helping developers deploy generative AI."
+    publishedDateTime: 2023-08-15T23:57:00Z
+    webUrl: "https://www.reseller.co.nz/article/708377/microsofts-ai-first-movers-programme-helps-lawvu-speed-contract-processes/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 52
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/lawvu_kidd.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "ABB and Microsoft collaborate to bring generative AI to industrial applications"
     excerpt: "Expanding on their long-standing partnership, ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability™ Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
     publishedDateTime: 2023-08-14T06:32:00Z

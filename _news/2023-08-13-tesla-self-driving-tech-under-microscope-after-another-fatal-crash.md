@@ -7,7 +7,7 @@ originalUrl: "https://www.stuff.co.nz/motoring/300949230/tesla-selfdriving-tech-
 webUrl: "https://www.stuff.co.nz/motoring/300949230/tesla-selfdriving-tech-under-microscope-after-another-fatal-crash"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Under Investigation By US Regulators After Fatal Virginia Crash Linked To Automated Driving"
-    excerpt: "A team has been dispatched to delve into a fatal crash in Virginia involving a Tesla believed to have been operating on a partially automated driving system. This recent incident, which occurred in July, marks the 35th Tesla crash being scrutinized by the National Highway Traffic Safety Administration (NHTSA) since June 2016."
-    publishedDateTime: 2023-08-11T05:39:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/33736627/tesla-under-investigation-by-us-regulators-after-fatal-virginia-crash-linked-to-automated-driving"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33736627"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33736627"
+  - title: "Tesla to build its own data centers as it scales self-driving business"
+    excerpt: "Electric vehicle maker Tesla is planning to enter the data business with the launch of a \"1st of its kind\" data center."
+    publishedDateTime: 2023-08-14T21:07:00Z
+    webUrl: "https://www.cbtnews.com/tesla-to-build-its-own-data-centers-as-it-scales-self-driving-business/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 39
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Tesla_Model_S_2.jpeg?width=1200&height=800&fit=crop"
-        width: 1023
-        height: 682
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/08/Untitled-design-8.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "US probing Virginia fatal crash involving Tesla suspected of running on automated driving system"
     excerpt: "U.S. auto safety regulators have sent a team to investigate a fatal crash in Virginia involving a Tesla suspected of running on a partially automated driving system."

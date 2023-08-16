@@ -1,0 +1,40 @@
+---
+category: news
+title: "Brazil's Matera buy Cinnecta to bring AI to instant payments"
+excerpt: "Brazil's Matera is bringing AI to instant payments after acquiring local outfit Cinnecta. Financial terms of the deal were not disclosed."
+publishedDateTime: 2023-08-15T23:22:00Z
+originalUrl: "https://www.finextra.com/newsarticle/42792/brazils-matera-buy-cinnecta-to-bring-ai-to-instant-payments"
+webUrl: "https://www.finextra.com/newsarticle/42792/brazils-matera-buy-cinnecta-to-bring-ai-to-instant-payments"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: Finextra
+  domain: finextra.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://www.finextra.com/finextra-images/top_pics/xl/fast-changing-p27-1920x1280.jpg"
+    width: 480
+    height: 270
+    isCached: true
+
+related:
+  - title: "Matera Brings AI to Instant Payments, Acquires Brazilian AI Leader Cinnecta"
+    excerpt: "Cinnecta will be at the epicenter for AI solutions development, complementing Matera's suite of offerings. The combined company will be able to innovate on a new scale to provide unparalleled client experiences. Its transformative banking solutions can pave the way for an intelligently connected financial future."
+    publishedDateTime: 2023-08-15T13:29:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/15/9864843.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+
+secured: "jCkXqa713tEdABr4ooRHmmGGswAAOHBU+iAZUe9s+5WP8tkWxXtGiRfrWsxqWxOt8eqbiA/0TmUnSi8BAqAdmx51/7p8VXZHrPH4sowjbgMxtUMxJPhSVRup2ROEkLJGRU1czZhdFXTc3hDm7Sz2OJ2ufbdzxWY3V02yQO9k44+GJ0rkX2BMaBjNl1knmhRbkND2egHnK1cbHvUO4Z4Bld2NxveXqm9mje5k6WiOJAduNkQ850OEngKf76bFWr2GBMZ6BcyzhD4qsXyrOEdUypACuWFtqWck0a3np/5tzGTk6ry12hdCiz4mpUB76MBecO2x9yQgwsbf1ghDk4RK7we32Fwsz0RESUCxMXlDSKs=;EDcyF6Wkz87MwRmVirsZcw=="
+---
+

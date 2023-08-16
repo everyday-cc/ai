@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Background actors fear being taken ‘advantage of’ by AI, as union and studio negotiations continue to stall"
-    excerpt: "Negotiations between SAG-AFTRA and the AMPTP continue to be at a standstill, as background actors worry artificial intelligence could replace them with digital copies."
-    publishedDateTime: 2023-08-11T05:59:00Z
-    webUrl: "https://www.foxnews.com/entertainment/background-actors-fear-being-taken-advantage-ai-union-studio-negotiations-continue-stall"
-    ampWebUrl: "https://www.foxnews.com/entertainment/background-actors-fear-being-taken-advantage-ai-union-studio-negotiations-continue-stall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/background-actors-fear-being-taken-advantage-ai-union-studio-negotiations-continue-stall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 69
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/1200/675/SAG-Strike-Sign.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Message to NKY businesses: Start using AI or be out of business in 10 years"
     excerpt: "By a show of hands, most of the businesspeople at the Northern Kentucky Chamber's Eggs 'N Issues have used Chat GPT — a from of AI that's still evolving, according to Northern Kentucky University's Dean of College of Informatics Kevin Kirby."
     publishedDateTime: 2023-08-15T20:21:00Z

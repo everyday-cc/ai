@@ -2,15 +2,12 @@
 category: news
 title: "Worldcoin scans eyeballs and offers crypto. What to know about the project from OpenAI's CEO"
 excerpt: "Weeks after its international launch, Worldcoin is drawing the attention of privacy regulators around the world"
-publishedDateTime: 2023-08-11T06:21:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
-webUrl: "https://abcnews.go.com/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217"
+publishedDateTime: 2023-08-11T06:47:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189215"
+webUrl: "https://abcnews.go.com/US/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189215"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189215"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189215"
 type: article
-quality: 48
-heat: 48
-published: false
 
 provider:
   name: ABC
@@ -26,38 +23,6 @@ images:
     height: 558
     isCached: true
 
-related:
-  - title: "Worldcoin scans eyeballs and offers crypto. But why ChatGPT's Sam Altman is giving 'free money'"
-    excerpt: "Privacy regulators are investigating Worldcoin, an ID startup backed by Silicon Valley, over concerns about the security of the biometric data it collects."
-    publishedDateTime: 2023-08-13T05:35:00Z
-    webUrl: "https://www.hindustantimes.com/technology/worldcoin-scans-eyeballs-and-offers-crypto-but-why-chatgpts-sam-altman-is-giving-free-money-101691901510373.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/worldcoin-scans-eyeballs-and-offers-crypto-but-why-chatgpts-sam-altman-is-giving-free-money-101691901510373-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/worldcoin-scans-eyeballs-and-offers-crypto-but-why-chatgpts-sam-altman-is-giving-free-money-101691901510373-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 32
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/08/13/1600x900/TECH-AI-WORLDCOIN-GERMANY-10_1691903268667_1691903796896.JPG"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Worldcoin scans eyeballs and offers crypto. What to know about the project from OpenAI’s CEO"
-    excerpt: "Weeks after its international launch, Worldcoin is drawing the attention of privacy regulators around the world"
-    publishedDateTime: 2023-08-11T20:51:00Z
-    webUrl: "https://www.pressherald.com/2023/08/11/worldcoin-scans-eyeballs-and-offers-crypto-what-to-know-about-the-project-from-openais-ceo/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 28
-    images:
-      - url: "https://www.pressherald.com/wp-content/uploads/sites/4/2023/08/Worldcoin_Privacy_Explainer_31492-1691787091.jpg?w=1000"
-        width: 1000
-        height: 667
-        isCached: true
-
-secured: "HaKHz8rN4jmcvKdnenvetoPhLeNJftuLcM9p8pI8bchY6H71QILM4gptsErmBBob71UeKieam6WRTt8FD8fsrczOKvFa+Aq92TOuc4CLwZg/sqUGpDnUFjcwsF/tTzn/ji0DMW7zW54r6rOeK4f66PMWdOlc6DbB0TnH5QJxvTpBxzxNuC1UklQrEttiS9Ct8oFG95T5/+3dX97MsM/g7yJmm1I4KU3CBq+ateSiT+UQOwlqb5gCsYajsJ6hKnhcOMxaGR/Hf7K7JXrz/TH+A2RxUj05weWtq7zlFGdHJghh0GYKppzQ3vD2LcrIkbUx0ivgw3fE4DBJ/elnolKjmGHbbQpJBn8a5OweqlM4x0VzmBPPekAZ5MvI33cdX80Wn8aiuRBlnbrE+9Dq/RiDZSUJjOQM7hfdWWkUvGc54ubHhTlzab0yOuyskOEOQE4MfT/ejRjPhUg9xFCrbSgSHAMvjzzBL0MYm5DUFI22FH1VQYfDPuNWmGIgs1f40OXpoJ2EXZyvrfwFbCnScmoFtA==;pt7W4g9zLaGnPMI3HV1oLg=="
+secured: "Nulca9E3DnSQnFYbqdXM3GTYjcFwuLtoh3tvBZUjYtGMos2siEXFCrpOjkomqmxbJFTsP6fSV57AViuy3kwwlKV5izdzKTABAixzH4GYDugW/3eQtNcyt/RUA2mkYuBQZT8yPwd1tiR6SUKZz2M7Edf5h4zV3t+IHjRbk1kW3/fNNw+BvA0kSoZuX62ZfeCDrbtJkE8gctktDU1EEO8Uyh8u/ttNPuX+2VqtGYaLks+V7GyAXUDHMcs3aEm5At/0AY86Pv2c8CFVRBijso4xg26TM+ORb2o2QgTVrrbE1x1EHzt5m/Yt9+n8ALp93AfAQcnXFvIfqzojWR3LNyf7IDqnWZENkwqCrb/cgtHh5sU=;36hPfW6iu+o4ulU/idSI9g=="
 ---
 

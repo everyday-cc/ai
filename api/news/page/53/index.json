@@ -2,6 +2,151 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-07-11-ai-company-partners-with-bear-grylls-on-new-fact-checking-system-mission-seekr.md",
+      "title": "AI company partners with Bear Grylls on new fact-checking system 'Mission Seekr'",
+      "excerpt": "Seekr Technologies CEO Pat Condo spoke to Fox News Digital about his and Bear Grylls' new project to encourage digital media literacy among young people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ai-company-partners-bear-grylls-new-fact-checking-system-mission-seekr",
+      "originalUrl": "https://www.foxnews.com/media/ai-company-partners-bear-grylls-new-fact-checking-system-mission-seekr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1fbcb2e8-ccec-4dac-ac6e-95f168587aaf/08252fc7-392e-4cfa-a4cf-84a1b110cfd6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ai-company-partners-bear-grylls-new-fact-checking-system-mission-seekr.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ai-company-partners-bear-grylls-new-fact-checking-system-mission-seekr.amp",
+      "publishedDateTime": "2023-07-10T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-supercharging-insurance-through-ai.md",
+      "title": "Supercharging Insurance through AI",
+      "excerpt": "AI automates tedious tasks leaving individuals to focus on honing their skills and creativity, thereby generating greater value.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/julianteicke/2023/07/11/supercharging-insurance-through-ai/",
+      "originalUrl": "https://www.forbes.com/sites/julianteicke/2023/07/11/supercharging-insurance-through-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ac6add5b0e8626ccedfb03/0x0.jpg?format=jpg&crop=4555,2562,x275,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/julianteicke/2023/07/11/supercharging-insurance-through-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/julianteicke/2023/07/11/supercharging-insurance-through-ai/amp/",
+      "publishedDateTime": "2023-07-10T22:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-driverless-taxis-to-start-paid-service-in-beijing.md",
+      "title": "Driverless taxis to start paid service in Beijing",
+      "excerpt": "BEIJING: A larger fleet of driverless taxis will soon be available for hire in the capital city as the Office of the Beijing High-Level Autonomous Driving Demonstration Zone has decided to launch the commercial operation of autonomous vehicles and expand their serviceable area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/business/business-news/2023/07/11/driverless-taxis-to-start-paid-service-in-beijing",
+      "originalUrl": "https://www.thestar.com.my/business/business-news/2023/07/11/driverless-taxis-to-start-paid-service-in-beijing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2023/07/11/2170762.jpeg",
+          "width": 1198,
+          "height": 813,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai.md",
       "title": "Elon Musk, Steve Wozniak Sound Alarm On Dangerous AI",
       "excerpt": "Elon Musk and Steve Wozniak, the co-founder of Apple (AAPL), sounded the alarm last week about the perils of AI experiments. Their Future of Life petition is nearing 20,000 signatures. Aggressive investors should buy Ark Genomic Revolution (ARKG). Let me explain.",
@@ -1039,152 +1184,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-2-reasons-the-ai-revolution-will-enhance-our-quality-of-life.md",
-      "title": "2 Reasons The AI Revolution Will Enhance Our Quality Of Life",
-      "excerpt": "As capable as our brains are, there are many things AI can do better than a human. A 2023 study found that participants were unable to tell apart tweets written by GPT-3 and those by a human. We can focus on the little improvements generative AI like ChatGPT, Midjourney, and others are bringing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/social-instincts/202307/2-reasons-the-ai-revolution-will-enhance-our-quality-of-life",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/social-instincts/202307/2-reasons-the-ai-revolution-will-enhance-our-quality-of-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-07/pexels-michelangelo-buonarroti-8728557.jpg?itok=O-nUwU6k",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/social-instincts/202307/2-reasons-the-ai-revolution-will-enhance-our-quality-of-life?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/social-instincts/202307/2-reasons-the-ai-revolution-will-enhance-our-quality-of-life?amp",
-      "publishedDateTime": "2023-07-10T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-3-ways-moveworks-and-microsoft-teams-use-ai-to-improve-employee-productivity.md",
-      "title": "3 ways Moveworks and Microsoft Teams use AI to improve employee productivity",
-      "excerpt": "Moveworks on Microsoft Teams uses conversational AI to help enterprises improve employee productivity and free up IT and HR staff. Learn more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/10/3-ways-moveworks-and-microsoft-teams-use-ai-to-improve-employee-productivity/",
-      "originalUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/10/3-ways-moveworks-and-microsoft-teams-use-ai-to-improve-employee-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/07/Moveworks-feature-image-5-30.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-generative-ai-is-coming-for-your-job-here-are-4-reasons-to-get-excited.md",
-      "title": "Generative AI is coming for your job. Here are 4 reasons to get excited",
-      "excerpt": "Any discussion on the impact of generative AI usually comes with a debate about the potential loss of jobs. But while some estimates suggest AI could lead to the automation of more than 25% of jobs, the research also suggests that fast-emerging technologies could lead to new opportunities for employees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/",
-      "originalUrl": "https://www.zdnet.com/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b0072dba480b7e46c6d881d98d732b4aa5678a55/2023/07/10/d5970d20-a245-4559-947c-0e9f787c0604/gettyimages-1258096414.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-coming-for-your-job-heres-4-reasons-to-get-excited/",
-      "publishedDateTime": "2023-07-10T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

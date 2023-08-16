@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2023/08/14/the-ai-enginee
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/08/14/the-ai-engineer-myth-unicorn-or-new-normal/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 93
 published: true
 
 provider:

@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI's Next Frontier: Are Brain-Computer Interfaces The Future Of Communication?"
-    excerpt: "Explore the thrilling convergence of AI and the human brain as cutting-edge technologies like Neuralink blur the lines between science fiction and reality."
-    publishedDateTime: 2023-08-11T05:59:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/11/ais-next-frontier-are-brain-computer-interfaces-the-future-of-communication/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d5ce165c31bc68b3d9eed6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Hacking AI? Here are 4 common attacks on AI, according to Google's red team"
     excerpt: "Some of the biggest threats to machine learning (ML) systems, explains Google's red team leader, are adversarial attacks, data poisoning, prompt injection, and backdoor attacks. These ML systems include those built on large language models, like ChatGPT, Google Bard, and Bing AI."
     publishedDateTime: 2023-08-11T16:29:00Z
@@ -133,6 +117,20 @@ related:
       - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
         width: 251
         height: 282
+        isCached: true
+  - title: "OpenAI says AI tools can be effective in content moderation"
+    excerpt: "Despite the hype around generative AI, companies such as Microsoft and Google-owner Alphabet are yet to monetize the technology in which they have been pumping billions of dollars in the hope that it will have a big impact across industries."
+    publishedDateTime: 2023-08-15T22:28:00Z
+    webUrl: "https://www.aol.com/news/openai-says-ai-tools-effective-192727939.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/8feda3c1f32fbd1cf9d118a4ff749e2e"
+        width: 800
+        height: 543
         isCached: true
   - title: "Revolutionizing Customer Engagement with Voice Interfaces in Business"
     excerpt: "Welcome to the future of customer engagement! In today’s ever-evolving technological landscape, businesses are constantly seeking innovative ways to forge deeper connections with their customers. With the rise of voice interfaces,"

@@ -2,6 +2,40 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-04-19-artificial-intelligence-ai-chips-market-to-grow-at-a-cagr-of-6151-from-2022-to-2027-growth-from-asics-segment-will-be-significant-technavio.md",
+      "title": "Artificial intelligence (AI) chips market to grow at a CAGR of 61.51% from 2022 to 2027: Growth from ASICs segment will be significant - Technavio",
+      "excerpt": "The artificial intelligence (AI) chips market size is estimated to grow by USD 210,506.47 million during 2022-2027. Moreover, the growth momentum will progress at a CAGR of 61.51% during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/04/19/9798229.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/19/9798229.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-microsoft-reportedly-pinning-its-ai-hopes-on-in-house-athena-chip.md",
       "title": "Microsoft Reportedly Pinning its AI Hopes on In-House ‘Athena’ Chip",
       "excerpt": "Microsoft is reportedly developing an AI-centric GPU for itself and OpenAI, one that can give them an edge over AI chipmaker Nvidia.",
@@ -1334,40 +1368,6 @@
       "provider": {
         "name": "Barron's",
         "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-nvidias-h100-hopper-gpu-sweeps-mlperf-ai-inference-tests-with-huge-performance-uplift.md",
-      "title": "NVIDIA's H100 Hopper GPU Sweeps MLPerf AI Inference Tests With Huge Performance Uplift",
-      "excerpt": "The new GPU is based on NVIDIA's Hopper architecture and features a Transformer Engine design. \"The next level of Generative AI requires new AI infrastructure to train large language models with ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidias-h100-hopper-gpu-sweeps-mlperf-ai-inference-tests-with-huge-performance-uplift",
-      "originalUrl": "https://hothardware.com/news/nvidias-h100-hopper-gpu-sweeps-mlperf-ai-inference-tests-with-huge-performance-uplift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
         "images": null,
         "publishers": null,
         "authors": null

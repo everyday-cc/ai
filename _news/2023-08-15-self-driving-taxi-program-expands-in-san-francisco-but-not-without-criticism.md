@@ -51,20 +51,6 @@ related:
         width: 662
         height: 348
         isCached: true
-  - title: "San Francisco Has a Problem With Robotaxis"
-    excerpt: "Afergan stepped outside to check it out. Sure enough, a self-driving cab from the company Cruise, which is majority-owned by General Motors, stood frozen in the middle of the street, its hazard ..."
-    publishedDateTime: 2023-08-11T06:31:00Z
-    webUrl: "https://www.theatlantic.com/ideas/archive/2023/08/robotaxis-san-francisco-self-driving-car/674956/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 54
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/x7OD6DAsLd1BJLs-tijl7E9WRPk=/0x102:4792x2598/1200x625/media/img/mt/2023/08/robotaxi_still/original.jpg"
-        width: 1200
-        height: 625
-        isCached: true
   - title: "Despite Public Safety Concerns, CA Driverless Taxis Get Green Light"
     excerpt: "\"They're not ready for prime time,\" San Francisco Fire Chief Jeanine Nicholson said recently, adding that they have interfered with 55 recent incidents."
     publishedDateTime: 2023-08-11T14:10:00Z

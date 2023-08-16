@@ -68,20 +68,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Global generative AI revenue to hit $33B by 2027"
-    excerpt: "Generative artificial intelligence is set to yield US$33 billion in global revenue within five years as the technology experiences rapid growth."
-    publishedDateTime: 2023-08-11T05:42:00Z
-    webUrl: "https://www.arnnet.com.au/article/708303/global-generative-ai-revenue-to-hit-33b-by-2027/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_267728566_1.jpg"
-        width: 473
-        height: 315
-        isCached: true
   - title: "Marqeta Adds AI with New Generative Artificial Intelligence Tool"
     excerpt: "Global credit card management firm Marqeta (NASDAQ: MQ) has revealed its \"Docs AI,\" described as an AI-powered external-facing question and answer tool, which"
     publishedDateTime: 2023-08-15T13:30:00Z
