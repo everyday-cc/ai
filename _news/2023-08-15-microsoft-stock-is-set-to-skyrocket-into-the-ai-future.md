@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -119,15 +119,6 @@ related:
       name: New Orleans City Business
       domain: neworleanscitybusiness.com
     quality: 19
-  - title: "Microsoft shuts Cortana App for Windows. 4 other ways to use voice control features"
-    excerpt: "Microsoft shuts down Cortana app for Windows 11 after discontinuing iOS and Android versions. Support will end for other platforms by fall 2023."
-    publishedDateTime: 2023-08-12T08:18:00Z
-    webUrl: "https://www.hindustantimes.com/technology/microsoft-shuts-cortana-app-for-windows-4-other-ways-to-use-voice-control-features-101691823817377.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 15
 
 secured: "OciEy/zMplmdD85pLRFb4/QGJLGZqUUEUNP0mHmQs/bTF2slPbWD1mxCl5v/mP1Hy4CuBC4zs/liD2p5XOC/nzIVl5PolEECEYz1prB+UXzCLw0hqLJqtkdKURI05q/la/Ebl7sfY13af75kKFezjMH/SuwNVAsbDINf2eElbNWM1jQwyQFV9083SdnXA+9NrH7eV0W8WXRtWQlAMvLWChJzqazsRHH8NkHdBeRgWNf8UDcvhwraAVIRIv+MHvnqMjTWchL+VoAZBLE0cWcov8pzUaA1gqcckWiZ7T0aI0wNQqbadI0q/sfOyjxeArpG8FjMwz5Ffa5TRXVuxSQJ6lWAI9OdxtkHQoSzdW0/c5M=;M6HLgs+2dYZWpdxNmhE9KQ=="
 ---

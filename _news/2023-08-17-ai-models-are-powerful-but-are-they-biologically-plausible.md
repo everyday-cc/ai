@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-16T23:38:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2023/08/230815151142.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/08/230815151142.htm"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Machine Learning
 
 related:
   - title: "AI models are powerful, but are they biologically plausible?"

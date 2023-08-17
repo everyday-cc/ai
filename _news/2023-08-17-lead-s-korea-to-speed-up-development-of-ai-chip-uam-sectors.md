@@ -7,7 +7,7 @@ originalUrl: "https://en.yna.co.kr/view/AEN20230817000951320"
 webUrl: "https://en.yna.co.kr/view/AEN20230817000951320"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 500
     height: 304
     isCached: true
+
+related:
+  - title: "Korea to speed up development of AI chip, UAM sectors"
+    excerpt: "Korea's finance ministry unveiled a set of measures Thursday to pave the way for the growth of the country's artificial intelligence chip and urban air mobility (UAM) industries in line with efforts to foster new growth engines."
+    publishedDateTime: 2023-08-17T00:12:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/biz/2023/08/488_357208.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357208"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357208"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 74
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202308/e15867f45a40464d912079b7f17d7365.jpg"
+        width: 980
+        height: 622
+        isCached: true
 
 secured: "TxTnAGapF8Uww5vGFSWqnkyYBD23L2Mj8XkR+mx35oByimEZYNPzlBeFaE5zFU1aMgSB20xDqSiCdXxuoFdz6uGLJE5pxxbGTvRAM0cU/7xN9jQU1kj7w7j3hQrLZdu1b6h/QatCDBSd80E4Zrx705DcHWqBRpOUGsYw6ZRSbINi/px3e2llK/cG1fVUb5BriM5wgYYW1oZ6dFJMMXDvkE7jgtqwhfBKPE8C9XTU5ZkiWpF2wNUImi7jk3bWvFTT4E8A0RQg8KfUz3GjBjvLvQdeZ+TdOHlgQaCpd3IbZm4co+THIxiqVEukTU8R4Sw/TaJS989gE1wd1a5qm7Zn2k9s3gUhCV45IA/2vDWEjag=;vAvNi4y1ymJ52kmJ504lMw=="
 ---

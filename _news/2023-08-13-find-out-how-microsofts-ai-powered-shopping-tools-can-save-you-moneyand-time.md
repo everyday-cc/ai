@@ -118,15 +118,6 @@ related:
       name: New Orleans City Business
       domain: neworleanscitybusiness.com
     quality: 19
-  - title: "Microsoft shuts Cortana App for Windows. 4 other ways to use voice control features"
-    excerpt: "Microsoft shuts down Cortana app for Windows 11 after discontinuing iOS and Android versions. Support will end for other platforms by fall 2023."
-    publishedDateTime: 2023-08-12T08:18:00Z
-    webUrl: "https://www.hindustantimes.com/technology/microsoft-shuts-cortana-app-for-windows-4-other-ways-to-use-voice-control-features-101691823817377.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 15
 
 secured: "cL1j1s5nAXNdecQyuVQKP/u2rU8OxqPogB4ToM+Cv0/HJOUblO9Al3qFHGsHyLR4NVWiV5JBeTB4WT1ahk1GD6IIHgYlJVIg4kENQgai0YQ2rJdI/+B9p0eBpKf3tvFSmpDqJ0DM9bxw7LIblKx1wjwrb9VsTarSe5JzJ1bTOsFsYgW7u4VkTSMayHOjgofc+Qr/4bzPFIyNFr4PMll2wlrl4uhH2Rf/L9IYzyxinE4AcnbYMcl1SkBpenxz96NOf9/47VqvMAHjzD9+ZZlJUmuAa+nKzBDsrMJz1S7dVCEYWkZnJAbTedt62VFAnUyUZsBkQhPNyd/i1wKh9+NbFTrkr8h7lR3WqsNJInzq4Na/UQm7qUjxge+ZTeYwHLA5DE7uV5S9dnFIcLB4pD1sPCk4Ir/N0JCDgdky87fRtCHabfOomtzMw4ILrTYae2+xdviHNe0ny1jbqk4m7RG17hAt7i0MiNpC24ToUKzei88GIr9lO/Oor9Kd8Fx/ErsFdDCYm2Q95Ol42mhsQ2Mptw==;u1Ip/25pUre9c9tdlK01Og=="
 ---
