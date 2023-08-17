@@ -94,15 +94,6 @@ related:
         width: 1188
         height: 669
         isCached: true
-  - title: "You already use ChatGPT to make life easier. Now try using AI chatbots for better sex, a sexologist says."
-    excerpt: "Dr. Amy Marsh, sexologist and AI chatbot beta tester, spoke to Insider about the real-life benefits of sexting a chatbot."
-    publishedDateTime: 2023-08-12T09:30:00Z
-    webUrl: "https://www.insider.com/ai-chatbots-can-improve-your-sex-life-outside-the-internet-2023-7"
-    type: article
-    provider:
-      name: insider
-      domain: insider.com
-    quality: 0
 
 secured: "Tb4igftKbvXQUK3J+Ph9oN7b4gld82uZ7XQ50tnFtdNGchZqVt69krdxIL/SFVZi8wZPZao2bBVWIGa6Vx/Rd3iT764IQU0G6XimDreZ5asoBLc6sqHMt/gWYIq8MNBRhsrA/Bx9SY1HQPzINLqgDcmKHZndXnXxN0lnLhg/kMPhxV6ftp3G7f59Kz28Au2iqGnNf6qV3A8Q6fE/rlITqLup9p+IlxoWgZtSAkN+P1e0nHJseUQewt8MjS3jQKrQttDSfJGpP9+G52tCi49H2QAMVJHBzZ+EW0YX8rza/nDMXs6ZvrJicb4r/3A5pxTRdVquZS+xmvXo1OHV1ey60jRhux7N6spqr1W10uP6ZvPXP5cskNgVfcuOaTA4dw1WejfBFPP22YT/3982nEuLAIfuHRZ6Mhdg/5D1PjHxnB51LYga7oOgLb09tegM8bzE6G1Wn/Vqs6m6iAJy0KYsfouG5KSZPXw/aDTn6JNDtFDPBZYGp90xt1Q+Nv5lHrsop2nQJLVNO0kZIUNOqlFbvA==;On68BBYdeXndIZj5I0D0gQ=="
 ---

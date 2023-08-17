@@ -71,15 +71,6 @@ related:
         width: 500
         height: 450
         isCached: true
-  - title: "A hedge fund manager shares 2 ChatGPT prompts and the AI plugin he used to filter top stock picks"
-    excerpt: "ChatGPT produced some \"phenomenal\" stock picks, Alpesh Patel said. But there is a lot more work and testing that need to be done."
-    publishedDateTime: 2023-08-12T09:44:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-prompts-plugin-for-top-stocks-picks-hedge-fund-2023-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Navigating through a world with growing and advancing artificial intelligence"
     excerpt: "As AI continues to develop, people strive to monitor, regulate and promote it so that it progresses safely and responsibly."
     publishedDateTime: 2023-08-16T17:56:00Z

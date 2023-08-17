@@ -9,7 +9,7 @@ ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/sussan
 cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/sussan-ley-condemns-anthony-albaneses-threat-on-voice-to-parliament-referendum-amid-confusion-over-coalitions-proposal/news-story/8fda2ecf5cc4212437de8881c3642022?amp"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Working for Australia: Anthony Albanese’s speech in full"
+    excerpt: "I begin by acknowledging the traditional owners of the land on which we meet and I pay my respects to elders past, present and emerging."
+    publishedDateTime: 2023-08-17T02:54:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/working-for-australia-anthony-albaneses-speech-in-full/news-story/d8e5ee8dbaf611eb0cd25ee51fc7eeb2"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/working-for-australia-anthony-albaneses-speech-in-full/news-story/d8e5ee8dbaf611eb0cd25ee51fc7eeb2?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/working-for-australia-anthony-albaneses-speech-in-full/news-story/d8e5ee8dbaf611eb0cd25ee51fc7eeb2?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
   - title: "Prime Minister Anthony Albanese won't move to legislate an Indigenous Voice to Parliament if No vote defeats referendum"
     excerpt: "Anthony Albanese has said he won't move to legislate an Indigenous Voice to Parliament, should Australians vote against the constitutional change in this year's referendum."
     publishedDateTime: 2023-08-15T12:42:00Z

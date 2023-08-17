@@ -1,32 +1,48 @@
 ---
 category: news
 title: "Orlando debuts self-driving shuttle that will whisk passengers around downtown"
-excerpt: "There is going to be a new way to get around downtown Orlando, Florida, and it’s not going to require any<a class=\"excerpt-read-more\" href=\" More"
-publishedDateTime: 2023-08-16T21:18:00Z
-originalUrl: "https://wsvn.com/news/local/florida/orlando-debuts-self-driving-shuttle-that-will-whisk-passengers-around-downtown/"
-webUrl: "https://wsvn.com/news/local/florida/orlando-debuts-self-driving-shuttle-that-will-whisk-passengers-around-downtown/"
-ampWebUrl: "https://wsvn.com/news/local/florida/orlando-debuts-self-driving-shuttle-that-will-whisk-passengers-around-downtown/amp/"
-cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/local/florida/orlando-debuts-self-driving-shuttle-that-will-whisk-passengers-around-downtown/amp/"
+excerpt: "Starting later this month, an electric, self-driving shuttle will whisk passengers around a 1-mile loop in the downtown area for no charge, officials said."
+publishedDateTime: 2023-08-17T02:58:00Z
+originalUrl: "https://www.wtsp.com/article/news/regional/florida/orlando-self-driving-shuttle-downtown/67-91cbccf6-5867-42bd-8401-306c6fb05628"
+webUrl: "https://www.wtsp.com/article/news/regional/florida/orlando-self-driving-shuttle-downtown/67-91cbccf6-5867-42bd-8401-306c6fb05628"
+ampWebUrl: "https://www.wtsp.com/amp/article/news/regional/florida/orlando-self-driving-shuttle-downtown/67-91cbccf6-5867-42bd-8401-306c6fb05628"
+cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/regional/florida/orlando-self-driving-shuttle-downtown/67-91cbccf6-5867-42bd-8401-306c6fb05628"
 type: article
 quality: 40
 heat: 40
 published: false
 
 provider:
-  name: 7News Miami
-  domain: wsvn.com
+  name: WTSP
+  domain: wtsp.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://wsvn.com/wp-content/uploads/sites/2/2023/08/swanshuttlephoto.png?w=700"
-    width: 700
-    height: 400
+  - url: "https://media.wtsp.com/assets/WTSP/images/a0f8e8fe-782e-4ed1-915d-b7f1a1365654/a0f8e8fe-782e-4ed1-915d-b7f1a1365654_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
+  - title: "Meet 'The SWAN': Orlando debuts self-driving shuttle to whisk passengers around downtown, for free"
+    excerpt: "Starting later this month, an electric, self-driving shuttle, branded \"The SWAN,\" will whisk passengers around a 1-mile (1.6 km) loop in the downtown area for no charge."
+    publishedDateTime: 2023-08-17T02:21:00Z
+    webUrl: "https://www.fox35orlando.com/news/meet-the-swan-orlando-debuts-self-driving-shuttle-to-whisk-passengers-around-downtown-for-free"
+    ampWebUrl: "https://www.fox35orlando.com/news/meet-the-swan-orlando-debuts-self-driving-shuttle-to-whisk-passengers-around-downtown-for-free.amp"
+    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/meet-the-swan-orlando-debuts-self-driving-shuttle-to-whisk-passengers-around-downtown-for-free.amp"
+    type: article
+    provider:
+      name: WOFL
+      domain: fox35orlando.com
+    quality: 30
+    images:
+      - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2023/08/320/250/Orlando-SWAN-Shuttle3.jpg?ve=1&tl=1"
+        width: 320
+        height: 250
+        isCached: true
   - title: "Orlando debuts new free self-driving SWAN shuttles in downtown’s Creative Village"
     excerpt: "If the pilot program is successful, the shuttles could be expanded throughout Orlando, into areas like SoDo and Ivanhoe Village. SWAN shuttles will run every eight minutes during office hours and every 15 minutes on evenings and weekends. Full hours of operation can be found via the LYNX site."
     publishedDateTime: 2023-08-16T20:56:00Z
@@ -42,6 +58,6 @@ related:
         height: 397
         isCached: true
 
-secured: "bjXxcqAyVhwCRYkofw2knDIxwrjDoeex8oxGbPSyksG2U88Cx2wi40OAR7YkfacVmZOppHLn90oBHUBZZfrKQk/JkjwchyTVq7UlAO4nYnPB2OTzRL0GSeLXIzwl1cz1dK9lGCG7F1FLCJYvCRN+vmtfmwrApJ6iPVkCfF0pBPdB9DvGuiI+KIuD7ptRBROtm/4S/PChbqZpTj0L2YAdjpvz/OaM9AW23nV6HerDFJCGS1/CqrHS1+hVbtFy9+Ojpq5bLx2kH1Mh/fO5Ro/E0wABNQuE3Gcl2VnYTwzl0ZIK8nO0pjZ9yUUpnq8eTIemK9E/9c2n5smVMzjsMl2HnVvQ1LRcbre0P+GQ3kdInRBD/L3N6YI3lD1rDnAfpIp1IO6j4R4vcMKq1c1Mn5KdI/TgzvsaSv6l+EU1ZEcwo8EcnoHmRfmFcyWNx2c1lxYN5aPza8GUG3NLhwOyfcTYdVBYAYlgpZp+eaWXqPi0jW9BSPJcjWgZojalzzIRSYcQ7rOFRz5SnCEk5M8Ybcx+yA==;sO6XcWpLYuorN9u5MJLFIw=="
+secured: "IcfWsOkkXd5DDnwBWRqbNPsWICHBIc6/jQd1IvNch2o1hEy+8xBGmua24yXrsnBCQIJ2CZirqIdXXgh5LCpQ6bs222d2DbtGASY5nooE8cCs+LVQWvGdo5SYyUripD/cpm9z+gCR5/GHkXhSErwqn9QdUgBRj5w+fj4j1CpXLqi0RmcWT0vEr9dZF1KZYK83SNgWAtKz8pcvtqkDVFWQbI7pwvRldKzpZNpSCfXOgp8oM0XSqHbn9DRbDvYU39D8LFPB0/QbcJmhhMo87iOgl4JLZ1LcMOGGdNBXrGOBEdKnUQJNYSad2ZzWNhm613zMW3TR/yhXINdpoBY2G4B4i+cmOOzPDog/u41WqVH67HI=;423BbwWzsKDkuj4lB05Thw=="
 ---
 

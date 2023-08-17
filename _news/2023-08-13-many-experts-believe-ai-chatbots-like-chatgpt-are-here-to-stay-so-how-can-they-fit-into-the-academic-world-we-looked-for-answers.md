@@ -77,15 +77,6 @@ related:
         width: 500
         height: 450
         isCached: true
-  - title: "A hedge fund manager shares 2 ChatGPT prompts and the AI plugin he used to filter top stock picks"
-    excerpt: "ChatGPT produced some \"phenomenal\" stock picks, Alpesh Patel said. But there is a lot more work and testing that need to be done."
-    publishedDateTime: 2023-08-12T09:44:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-prompts-plugin-for-top-stocks-picks-hedge-fund-2023-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Google’s Gemini AI might be the best thing that happens to ChatGPT"
     excerpt: "Google's Gemini ChatGPT rival will launch this fall with a few exciting features, and that's actually great news for ChatGPT fans."
     publishedDateTime: 2023-08-16T13:41:00Z

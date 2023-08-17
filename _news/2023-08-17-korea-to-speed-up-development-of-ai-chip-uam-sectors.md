@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357208"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357208"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
         height: 304
         isCached: true
 
-secured: "vCcoWPhvm6LeRR03JVmHy2o1ZylSI57ZGqfgQlY5ElX/JLsY39kVWK4M/EHuxGhKvAzHdLYdgWV5tm6H2vr52A082/iRLtrggkjlti58MiskxClTjZYhLoTspZw4FMXupGknOpbvDtS4OBo/sRivcld95UHy+FtsVapHv0AnV8ElGwegK730SrMTgfM2JFIgylcV/hoUUTdrT55lrfCTYd0aECurFev4/5zZopirxIfEj4reP9tXp7oPy4WrGY4EzDvVx5UKuQ6gEN5uMvgnlLgHdOyvIjN8FoA6sgWHsfvcjXSkpDVmtUZmzXNkZ0BeDaJ46/W0vepGKufX0HKj01ctLxLXVnepeTTtN2khAas=;K9P7HXVuXm0q5OdYsmMAuQ=="
+secured: "CqYmp2rSd+SjOkWVdFVDtHSSIpJdD8/6xPEZ8wrnzXkQvSCsfWnIE9EtESiBlddzO+EMf92K2oONJBa4PvjwbpuBv403U2vxl86QHyi1H3JPWz6kzjmc2qYS0XNF75JKg2O2/KrPLEi/LRqFnK2G21r+qxUnmFQ3EHbenE1rTLn0WLPrkWQM6N0QFVDFwLmczd++4v49QvoAUJa9WX1BkF0LGHWB7Q+68lLC7w9/b96i6NXSAZ/hMoUfdRnZSytkUtL2IJQW4LM+ra+1dtJi709UEW4pcbfRFgebc6a3UZYAMJMF87jJXlsdKDfPu/EAi9l3/9V6HLIZhcjSY4s8Uz7rCHXYbfY57iH2NHVN5HU2u4+on5/BYg23Fn5dh2fTl3zxN1dC9rGyiLb1EFeNd4F/+Rx4S7OwW/aYsFxMvga8GEi39GD3G6DlTcAI9PoKaEHvb3eIqbkCOvanXlvHIJZJzxjruaOcv9fEYAVJYcs6CssULJNjyvQR0PQOU0IVkZNzL9J/xDPE4WyAUh4xNQ==;mDgWGCLgtsGeJ/Fzm/yJtQ=="
 ---
 

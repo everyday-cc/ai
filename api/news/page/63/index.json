@@ -2,6 +2,49 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-07-05-diamir-biosciences-partners-with-jadbio-to-utilize-machine-learning-in-assay-development.md",
+      "title": "DiamiR Biosciences Partners with JADBio to Utilize Machine Learning in Assay Development",
+      "excerpt": "NEW HAVEN, Conn. and MONMOUTH JUNCTION, N.J. and LOS ANGELES, /PRNewswire/ -- DiamiR Biosciences, a developer of innovative non-invasive blood-based diagnostic tests for brain health and other diseases,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33113888/diamir-biosciences-partners-with-jadbio-to-utilize-machine-learning-in-assay-development",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33113888/diamir-biosciences-partners-with-jadbio-to-utilize-machine-learning-in-assay-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33113888",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33113888",
+      "publishedDateTime": "2023-07-05T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-pope-francis-takes-a-stand-on-ai-vatican-releases-ai-ethics-handbook.md",
       "title": "Pope Francis Takes a Stand on AI: Vatican Releases AI Ethics Handbook",
       "excerpt": "The Vatican has delved into artificial intelligence (AI) ethics by releasing an extensive handbook. The Pope Francis-founded Institute for Technology, Ethics, and Culture (ITEC) and the Markkula ...",
@@ -1151,59 +1194,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-us-looks-to-cut-china-cloud-access-to-aws-azure-and-more.md",
-      "title": "US looks to cut China cloud access to AWS, Azure and more",
-      "excerpt": "The US and China have imposed various sanctions and rules to limit the supply of computing elements in an effort to prevent the other from getting access to potentially more powerful capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/pro/us-looks-to-cut-china-cloud-access-to-aws-azure-and-more",
-      "originalUrl": "https://www.techradar.com/pro/us-looks-to-cut-china-cloud-access-to-aws-azure-and-more",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-04T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

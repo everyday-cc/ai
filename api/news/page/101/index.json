@@ -2,6 +2,58 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-06-13-baidu-flaps-its-lips.md",
+      "title": "Baidu flaps its lips",
+      "excerpt": "AI video programs, it seems, are facing the same problem. Baidu is working on tech... For more crisp and insightful business and economic news, subscribe to The Daily Upside newsletter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/12/baidu-flaps-its-lips/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/12/baidu-flaps-its-lips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/736045/featured-daily-upside-image.jpg",
+          "width": 9427,
+          "height": 5303,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-ibm-tech-now-june-12-2023.md",
       "title": "IBM Tech Now: June 12, 2023",
       "excerpt": "The latest episode of IBM Tech Now looks at the 2023 X-Force Definitive Guide to Ransomware and the Center of Excellence for Generative AI.\nThe post IBM Tech Now: June 12, 2023 appeared first on IBM Blog.\n",
@@ -1156,40 +1208,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-global-composite-ai-market-report-2023-growing-intricacy-of-ai-applications-for-better-performance-and-accuracy-drives-growth.md",
-      "title": "Global Composite AI Market Report 2023: Growing Intricacy of AI Applications for Better Performance and Accuracy Drives Growth",
-      "excerpt": "The composite AI market is estimated to grow from USD 0.9 billion in 2023 to USD 4.4 billion by 2028, at a CAGR of 36.5% during the forecast period. With the proliferation of digital devices, sensors,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/12/9830993.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/12/9830993.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

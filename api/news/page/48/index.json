@@ -2,6 +2,49 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-07-14-bunnings-makes-facial-recognition-technology-a-condition-of-entry-at-store-in-preston-melbourne.md",
+      "title": "Bunnings makes facial recognition technology a condition of entry at store in Preston, Melbourne",
+      "excerpt": "A customer's photo of a point of entry sign at a Bunnings store has raised fears it has quietly reintroduced facial recognition technology - but the hardware giant claims the sign is just part of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-12297609/Bunnings-makes-facial-recognition-technology-condition-entry-store-Preston-Melbourne.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-12297609/Bunnings-makes-facial-recognition-technology-condition-entry-store-Preston-Melbourne.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/07/14/04/73201751-0-image-a-6_1689307091993.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-12297609/amp/Bunnings-makes-facial-recognition-technology-condition-entry-store-Preston-Melbourne.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12297609/amp/Bunnings-makes-facial-recognition-technology-condition-entry-store-Preston-Melbourne.html",
+      "publishedDateTime": "2023-07-13T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-1-potential-ai-winner-thats-a-screaming-buy-despite-gaining-148-in-2023.md",
       "title": "1 Potential AI Winner That's a Screaming Buy Despite Gaining 148% in 2023",
       "excerpt": "Grand View Research estimates that the adoption of AI in digital marketing could grow at an annual pace of 26% through 2030 and generate $82 billion in annual revenue. Given that Meta's Facebook ...",
@@ -1112,49 +1155,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-musk-warns-of-terminator-future-in-ai-race-as-zuckerberg-prepares-chatgpt-rival.md",
-      "title": "Musk warns of ‘Terminator future’ in AI race as Zuckerberg prepares ChatGPT rival",
-      "excerpt": "Earlier this year Mr Musk signed a letter warning that “out of control” AI research by “unelected ... the popular chatbot tool. The Facebook-owner previously released a free AI bot for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/business/2023/07/13/elon-musk-warns-terminator-future-ai-race-mark-zuckerberg/",
-      "originalUrl": "https://www.telegraph.co.uk/business/2023/07/13/elon-musk-warns-terminator-future-ai-race-mark-zuckerberg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/business/2023/07/13/TELEMMGLPICT000342454197_16892387650800_trans_NvBQzQNjv4Bq5yQLQqeH37t50SCyM4-zeGcv5yZLmao6LolmWYJrXns.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

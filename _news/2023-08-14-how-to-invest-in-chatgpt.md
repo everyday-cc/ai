@@ -100,15 +100,6 @@ related:
       name: ABC 7 Chicago
       domain: abc7chicago.com
     quality: 4
-  - title: "You already use ChatGPT to make life easier. Now try using AI chatbots for better sex, a sexologist says."
-    excerpt: "Dr. Amy Marsh, sexologist and AI chatbot beta tester, spoke to Insider about the real-life benefits of sexting a chatbot."
-    publishedDateTime: 2023-08-12T09:30:00Z
-    webUrl: "https://www.insider.com/ai-chatbots-can-improve-your-sex-life-outside-the-internet-2023-7"
-    type: article
-    provider:
-      name: insider
-      domain: insider.com
-    quality: 0
 
 secured: "HWpIaIpMXa3QSMw3avl/fbAog4PIYPb2d7XZfG43iegdj0pu1qdAv9uK0SmorAqQ6jrNvS2Nth6Rg11/KVKMrqgZFkQkEQcORTqIAsjE2EKM0XLadFeupnNFMyeHo+QdU5Hjav1C+wc/GRhFoVwGO4DepN5ObYFKSf9ERx3unMHFENUo7DZJ1L78LdV/eyGzCnoyVPXA6aE3jngONs0MwmHJg4z9xO/UlBZwLo6zbDv+xgM+i35nI6208Tek1QTKUwNJnmOM9it5vyweP618b7a4z0Khsbh/NrkqV3MneArM8CK8Ku3tPFtXe29ci60NuaqNsksQufz/jlqABBQp01i9nm03QEjRvNlIbY439Og=;wBgBPu6O3cXexglC6m6TIw=="
 ---

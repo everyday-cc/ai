@@ -2,6 +2,58 @@
   "page": 149,
   "value": [
     {
+      "path": "_news/2023-05-11-self-driving-cars-are-being-put-on-a-data-diet.md",
+      "title": "Self-Driving Cars Are Being Put on a Data Diet",
+      "excerpt": "Growing fleets, fancier sensors, and tighter budgets are forcing autonomous vehicle developers to get pickier about what stays on their servers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/self-driving-cars-are-being-put-on-a-data-diet/",
+      "originalUrl": "https://www.wired.com/story/self-driving-cars-are-being-put-on-a-data-diet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/645c372a88479249e0cc28b6/191:100/w_1280,c_limit/Driverless-Cars-Data-Diet-Business-1247366812.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-the-surprising-synergy-between-acupuncture-and-ai.md",
       "title": "The Surprising Synergy Between Acupuncture and AI",
       "excerpt": "Now that I work in machine learning, I’m often struck by the parallels between this cutting-edge technology and traditional Chinese medicine.",
@@ -1154,57 +1206,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-meet-the-new-google-search-ai-generated-results-get-top-billing.md",
-      "title": "Meet the New Google Search: AI-Generated Results Get Top Billing",
-      "excerpt": "At I/O, Google previews the new 'Search Generative Experience,' which places AI-powered results atop traditional search results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/meet-the-new-google-search-ai-generated-results-get-top-billing",
-      "originalUrl": "https://www.pcmag.com/news/meet-the-new-google-search-ai-generated-results-get-top-billing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02wpEEUQXRc8sreSn73b1Q1-1.fit_lim.size_1200x630.v1683749201.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -63,6 +63,20 @@ related:
         width: 1661
         height: 962
         isCached: true
+  - title: "Quanta sees AI as future growth driver"
+    excerpt: "Quanta Computer expects its future operation and profitability to be majorly driven by the AI business and in addition to servers and automotive AI chips, the company has also been keen on developing medical solutions and formed technology transfer collaborations with hospitals in Taiwan to develop an AI electrocardiography (ECG) platform."
+    publishedDateTime: 2023-08-17T02:42:00Z
+    webUrl: "https://www.digitimes.com/news/a20230816PD212.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230816pd212_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Artificial Intelligence Continues to Shape the Future of Automation"
     excerpt: "Artificial Intelligence (AI) has had a profound impact on the future of automation, revolutionizing various industries and processes. Here are some key ways in which AI has shaped the future of automation: Enhanced Efficiency and Productivity: AI-powered automation systems can perform repetitive tasks with greater accuracy and speed than human workers."
     publishedDateTime: 2023-08-16T19:35:00Z

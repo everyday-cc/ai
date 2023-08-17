@@ -52,7 +52,7 @@
       "originalUrl": "https://www.koreatimes.co.kr/www/biz/2023/08/488_357208.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -83,6 +83,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-meet-marqo-an-open-source-vector-search-engine-for-ai-applications.md",
+      "title": "Meet Marqo, an open source vector search engine for AI applications",
+      "excerpt": "So it’s clear that companies working on helping infrastructure keep apace with the AI hype train are in big demand, something that Australian startup Marqo is now looking ... learning scientist at Amazon’s robotics unit in Seattle; and Tom Hamer ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/16/meet-marqo-an-open-source-vector-search-engine-for-ai-applications/",
+      "originalUrl": "https://techcrunch.com/2023/08/16/meet-marqo-an-open-source-vector-search-engine-for-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/230719_MARQO_402-e1691671682554.jpg?resize=1200,676",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/16/meet-marqo-an-open-source-vector-search-engine-for-ai-applications/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/16/meet-marqo-an-open-source-vector-search-engine-for-ai-applications/amp/",
+      "publishedDateTime": "2023-08-16T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -249,7 +301,7 @@
       "originalUrl": "https://www.zdnet.com/article/opera-adds-ai-chatbot-to-its-iphone-browser/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 207,
+      "heat": 217,
       "tags": null,
       "images": [
         {
@@ -653,7 +705,7 @@
       "originalUrl": "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1059,7 +1111,7 @@
       "originalUrl": "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1152,48 +1204,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-measuring-the-impact-unveiling-the-savings-realized-in-cloud-cost-optimization.md",
-      "title": "Measuring the impact: Unveiling the savings realized in cloud cost optimization ",
-      "excerpt": "Unveil IBM Turbonomic's enhanced features, streamlining savings calculation for precise cost optimization insights and financial impact.\nThe post Measuring the impact: Unveiling the savings realized in cloud cost optimization  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/measuring-the-impact-unveiling-the-savings-realized-in-cloud-cost-optimization/",
-      "originalUrl": "https://www.ibm.com/blog/measuring-the-impact-unveiling-the-savings-realized-in-cloud-cost-optimization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T13:58:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -90,6 +90,22 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Google’s testing an AI chatbot that could be your personal life coach"
+    excerpt: "Google is testing an AI chatbot that could act as a virtual life coach for users. The chatbot, developed by Google’s DeepMind team, is currently being"
+    publishedDateTime: 2023-08-17T01:51:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/articleshow/102780976.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/amp_articleshow/102780976.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/amp_articleshow/102780976.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-102785299/102785299.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "You can build your own AI chatbot with this drag-and-drop tool"
     excerpt: "Botpress is a tool for building interactive chatbots. While it supports building chatbots for a wide range of applications, the killer app is using it to build a customer support chatbot and backing it up with AI smarts."
     publishedDateTime: 2023-08-15T19:13:00Z

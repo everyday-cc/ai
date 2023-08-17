@@ -2,6 +2,57 @@
   "page": 158,
   "value": [
     {
+      "path": "_news/2023-05-08-this-week-in-xr-after-ai-sucks-the-air-out-of-the-metaverse-it-will-remake-xr.md",
+      "title": "This Week In XR: After AI Sucks The Air Out Of The Metaverse, It Will Remake XR",
+      "excerpt": "On the “This Week In XR” podcast Friday morning, co-host and Magic Leap founder Rony Abovitz said “ AI is what XR has been waiting for. ” Co-host Ted Schilowitz, Futurist at Paramount Global says “the Apple Mixed Reality headset will change everyone’s thinking. ” He should know. He’s seen it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/05/07/this-week-in-xr-after-ai-sucks-the-air-out-of-the-metaverse-it-will-remake-xr/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/05/07/this-week-in-xr-after-ai-sucks-the-air-out-of-the-metaverse-it-will-remake-xr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64567adb7e7cefe61be31892/0x0.jpg?format=jpg&width=1200",
+          "width": 782,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/05/07/this-week-in-xr-after-ai-sucks-the-air-out-of-the-metaverse-it-will-remake-xr/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/07/this-week-in-xr-after-ai-sucks-the-air-out-of-the-metaverse-it-will-remake-xr/amp/",
+      "publishedDateTime": "2023-05-07T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-2030-gpu-for-deep-learning-market-with-pestal-swot-analysis.md",
       "title": "2030, GPU for Deep Learning Market with PESTAL & SWOT Analysis",
       "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
@@ -1127,57 +1178,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-pricey-college-textbooks-next-on-ais-hit-list-professor-says-chatgtp-could-replace-them.md",
-      "title": "Pricey college textbooks next on AI’s hit list? Professor says ChatGTP could replace them",
-      "excerpt": "A professor says AI chatbot software, such as ChatGPT, could restructure postsecondary education by replacing some textbooks and promoting critical thinking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/pricey-college-textbooks-next-ais-hit-list-professor-says-chatgtp",
-      "originalUrl": "https://www.foxnews.com/tech/pricey-college-textbooks-next-ais-hit-list-professor-says-chatgtp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8afa715-b39f-4644-a45b-0a685525bf00/d6941cd8-4851-4e07-88de-2143f1711cbc/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/pricey-college-textbooks-next-ais-hit-list-professor-says-chatgtp.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/pricey-college-textbooks-next-ais-hit-list-professor-says-chatgtp.amp",
-      "publishedDateTime": "2023-05-05T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

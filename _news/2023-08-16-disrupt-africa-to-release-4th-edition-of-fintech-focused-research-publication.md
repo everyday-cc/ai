@@ -7,7 +7,7 @@ originalUrl: "https://disrupt-africa.com/2023/08/16/disrupt-africa-to-release-4t
 webUrl: "https://disrupt-africa.com/2023/08/16/disrupt-africa-to-release-4th-edition-of-fintech-focused-research-publication/"
 type: article
 quality: 1
-heat: 1
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "TSB and Fintech Scotland lab open for applications"
+    excerpt: "TSB has opened applications for its latest fintech programme in partnership with Fintech Scotland, with up to 20 successful startups given an opportunity to become an official supplier to the bank. The annual TSB Innovation Labs programme, which is hosted in TSB’s Edinburgh-based technology centre, is in its third year."
+    publishedDateTime: 2023-08-15T08:00:00Z
+    webUrl: "https://www.computerweekly.com/news/366548413/TSB-and-Fintech-Scotland-lab-open-for-applications"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-150823-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
 
 secured: "Pe8mckXDznZBdx3nmaxQJjE9sAePDj1ASF4RVbCUdeY09mO6L+Pl6Y21BWWJVu3pldSWlLfo6m0byAP0L5fCbWoYoSns5UuN2UVd/3wd/K5usIhFV1R6yclW4DLAyI4EcoOaMjamEJFK/BQ+0FDWzjQm/6sK2E1TaAS0o3cpmB0/npQnuC6fU3ArToYK3m2MfojxLNr/4iVa0c/e+YtI1rjmd1n+zuGDApoaHDiuJ/R1d/Mz6F3JRnhm1TnR+nxQsXlhJBBQWB8ZRHzknWPdX70EyN/ODkEMucihGtAg1xwSVPB08x8aB1TxAv00oqmmZlPc0rMdHfYRii2EmGywgvTo8aNZnAtX+iRJWuCFCp19OaCX8thvivLWBFlVoctTZda51yL6+upsYzjoAWoAv6yw+5SNNMr+JkffoTU5avG1OwEJ00/5ueFNQ8NV9CTvhddTYURgKejFDt5PVQFBAN2Cc8bKq3GCWVCx0z0/AQ05W3PDSmikk4+RJDh3kpuzCwDy39lUdFwBjUv8jphRfQ==;zUMzX1ZNH/lQ8AUHg6pdQw=="
 ---

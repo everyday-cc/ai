@@ -2,6 +2,59 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-07-04-us-looks-to-cut-china-cloud-access-to-aws-azure-and-more.md",
+      "title": "US looks to cut China cloud access to AWS, Azure and more",
+      "excerpt": "The US and China have imposed various sanctions and rules to limit the supply of computing elements in an effort to prevent the other from getting access to potentially more powerful capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/us-looks-to-cut-china-cloud-access-to-aws-azure-and-more",
+      "originalUrl": "https://www.techradar.com/pro/us-looks-to-cut-china-cloud-access-to-aws-azure-and-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-04T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-04-better-than-humans-ai-attack-drones-to-join-us-military-soon.md",
       "title": "Better Than Humans? AI Attack Drones to Join US Military Soon",
       "excerpt": "The AI system, developed by Athena AI, aims to enhance target identification and assist human drone operators. While the potential benefits are significant, concerns about ethics and AI reliability have been raised by experts.",
@@ -1085,49 +1138,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-is-it-possible-to-opt-out-facial-recognition-technology-raises-questions-about-data-and-consent.md",
-      "title": "Is It Possible To Opt-Out? Facial Recognition Technology Raises Questions About Data And Consent",
-      "excerpt": "multimedia artist Mac Pierce presents a simple black hat, tricked out with what he calls a privacy solution to the widespread use of facial recognition technology. Pierce has printed three angles of a face onto transfer paper, ironed the photos onto an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wgbh.org/news/science-and-technology/2020/02/25/is-it-possible-to-opt-out-facial-recognition-technology-raises-questions-about-data-and-consent",
-      "originalUrl": "https://www.wgbh.org/news/science-and-technology/2020/02/25/is-it-possible-to-opt-out-facial-recognition-technology-raises-questions-about-data-and-consent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgbh.brightspotcdn.com/dims4/default/feaa8ee/2147483647/strip/true/crop/3872x2576+0+0/resize/3872x2576!/quality/70/?url=https%3A%2F%2Fwgbh-brightspot.s3.amazonaws.com%2F09%2F64%2Fab02edbd4e21b2d6332384e23caf%2Ffacial-recognition.jpg",
-          "width": 3872,
-          "height": 2576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGBH",
-        "domain": "wgbh.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

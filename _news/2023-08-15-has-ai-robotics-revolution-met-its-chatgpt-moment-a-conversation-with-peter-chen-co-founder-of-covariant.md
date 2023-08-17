@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/"
 type: article
 quality: 103
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -101,15 +101,6 @@ related:
       name: ABC 7 Chicago
       domain: abc7chicago.com
     quality: 4
-  - title: "You already use ChatGPT to make life easier. Now try using AI chatbots for better sex, a sexologist says."
-    excerpt: "Dr. Amy Marsh, sexologist and AI chatbot beta tester, spoke to Insider about the real-life benefits of sexting a chatbot."
-    publishedDateTime: 2023-08-12T09:30:00Z
-    webUrl: "https://www.insider.com/ai-chatbots-can-improve-your-sex-life-outside-the-internet-2023-7"
-    type: article
-    provider:
-      name: insider
-      domain: insider.com
-    quality: 0
 
 secured: "QHEqPHmPJUF4U+oUb8M4JbCN1oAha8IAGWSKa2cvbksNgXaOhzLvp1U3IqqvT42eKSCsJykNPsuFgSQBr7zkzVszTw1dYlWdo3Bmp1mAvrhGzSgXGHXVOJ/16xRzcS8u80Tx1YLiBSTYqb7IhT6kSDUmVp9RlirBInfTq8Pk/HAw8DvaHkGGjEzrZh8sHQWtPAUvI+tmbT+YWBaFIcfQCZkKGmt1M4GNQXogXvE/5hX9uGseZJX3dtLgfA87oiuyo8pDzNHtWdi3lioYcsQSA9HoKycGD4ht7jI1gjRxntE6/Dr/qQNGsHlpi0rb3X4gMZgTImNk3aaJmoy9hMbVBN1qMkTt6s9SnGRWOHOuYB+ik1aly0SzAQU2UyNuENGiYJK6BMBTjqZUzLIvcqlZgjtJ3aEMPs6kSIbqk1bQvJejEmHHRAkPJ6omnvvqb8qBao/25ifiwJin1AU/I+NGubPiF/Ws+3V/jNnH13CjOQ0wi4uVBteqEqUWVaWbElDDDaoNWxJ6d/Ksw52Q2LoJlA==;wY8LEJUvcDTINfYPjE1F+A=="
 ---

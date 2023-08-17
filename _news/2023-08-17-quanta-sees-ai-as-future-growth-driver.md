@@ -1,0 +1,93 @@
+---
+category: news
+title: "Quanta sees AI as future growth driver"
+excerpt: "Quanta Computer expects its future operation and profitability to be majorly driven by the AI business and in addition to servers and automotive AI chips, the company has also been keen on developing medical solutions and formed technology transfer collaborations with hospitals in Taiwan to develop an AI electrocardiography (ECG) platform."
+publishedDateTime: 2023-08-17T02:42:00Z
+originalUrl: "https://www.digitimes.com/news/a20230816PD212.html"
+webUrl: "https://www.digitimes.com/news/a20230816PD212.html"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Digi Times
+  domain: digitimes.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://img.digitimes.com/newsshow/20230816pd212_files/1_b.jpg"
+    width: 640
+    height: 427
+    isCached: true
+
+related:
+  - title: "Shaping The AI Future: A Shared Journey"
+    excerpt: "AI isn't just about flashy robots or an elevated gaming experience. It's about a transformative force that's currently driving a shift in social norms."
+    publishedDateTime: 2023-08-15T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63b57b0a819d2bc95e95e410/0x0.jpg?format=jpg&crop=2440,1373,x0,y126,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ODDITY Tech's Bright Future, Analyst Credits Artificial Intelligence"
+    excerpt: "KeyBanc Capital Market analyst Scott Schoenhaus initiated coverage on ODDITY Tech Ltd (NASDAQ: ODD) at an Overweight rating"
+    publishedDateTime: 2023-08-15T18:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/oddity-tech-s-bright-future-analyst-credits-artificial-intelligence-1032556550"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "How humans should prepare for the future with AI"
+    excerpt: "We currently live in a world where technology is advancing at an unprecedented pace, and smart machines are becoming an integral part of our daily lives. Artificial Intelligence (AI) has"
+    publishedDateTime: 2023-08-15T06:52:00Z
+    webUrl: "https://www.thecable.ng/how-humans-should-prepare-for-the-future-with-ai"
+    type: article
+    provider:
+      name: TheCable
+      domain: thecable.ng
+    quality: 41
+    images:
+      - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2.jpg"
+        width: 1661
+        height: 962
+        isCached: true
+  - title: "The future of artificial intelligence in accessibility"
+    excerpt: "AI is already playing a massive part in our lives, however, what role does artificial intelligence play in accessibility?"
+    publishedDateTime: 2023-08-16T14:14:00Z
+    webUrl: "https://www.openaccessgovernment.org/the-future-of-artificial-intelligence-in-accessibility/165188/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/08/iStock-1270805321-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Artificial Intelligence Continues to Shape the Future of Automation"
+    excerpt: "Artificial Intelligence (AI) has had a profound impact on the future of automation, revolutionizing various industries and processes. Here are some key ways in which AI has shaped the future of automation: Enhanced Efficiency and Productivity: AI-powered automation systems can perform repetitive tasks with greater accuracy and speed than human workers."
+    publishedDateTime: 2023-08-16T19:35:00Z
+    webUrl: "https://www.financialbuzz.com/artificial-intelligence-continues-to-shape-the-future-of-automation/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 17
+
+secured: "3+/t6sZg304SWZcU7JQOl8H5HHpMErDExuSm7FNOMGNaXID1d/7I5hm4rG38yc6Y/rp9thjXMRG4by0N+85S3vqaOb6DuTanSAQLQQhHIb33ke6CtFZhkUrloDFBPl0pFFt9I/Njz+3M+ke/zZ490xXeWoDeTPl/FcgunJm8d901eyMGCehuK3ddimoP0AsG27XIxoTiz1ETz5Xk5ueO5kzm/qkgknzpE9IjeI0FR4NR4F7Ai5OUqjnQRQiu1SQGucQZgQ/6XZsPgA7AZA1Cpn0MmNKmwqbf6mnWxRLZQpyhGUH0JeECn6aN8ronRSgH/nQNERjJPnauUPw+DCN30M4vo5aPYcEypA/MJFswwTI=;1wBvxXqkhbl05r8BV04Y1Q=="
+---
+

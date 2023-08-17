@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "Working for Australia: Anthony Albanese’s speech in full"
+    excerpt: "I begin by acknowledging the traditional owners of the land on which we meet and I pay my respects to elders past, present and emerging."
+    publishedDateTime: 2023-08-17T02:54:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/working-for-australia-anthony-albaneses-speech-in-full/news-story/d8e5ee8dbaf611eb0cd25ee51fc7eeb2"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/working-for-australia-anthony-albaneses-speech-in-full/news-story/d8e5ee8dbaf611eb0cd25ee51fc7eeb2?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/working-for-australia-anthony-albaneses-speech-in-full/news-story/d8e5ee8dbaf611eb0cd25ee51fc7eeb2?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
   - title: "Sussan Ley condemns Anthony Albanese's 'threat' on Voice to Parliament referendum amid confusion over Coalition's proposal"
     excerpt: "Deputy Liberal leader Sussan Ley has hit back at Prime Minister Anthony Albanese’s ultimatum on the upcoming Voice to Parliament referendum."
     publishedDateTime: 2023-08-13T01:57:00Z

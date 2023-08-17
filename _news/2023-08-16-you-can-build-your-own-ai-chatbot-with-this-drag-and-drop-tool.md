@@ -98,6 +98,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Google’s testing an AI chatbot that could be your personal life coach"
+    excerpt: "Google is testing an AI chatbot that could act as a virtual life coach for users. The chatbot, developed by Google’s DeepMind team, is currently being"
+    publishedDateTime: 2023-08-17T01:51:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/articleshow/102780976.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/amp_articleshow/102780976.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/googles-testing-an-ai-chatbot-that-could-be-your-personal-life-coach/amp_articleshow/102780976.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-102785299/102785299.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "My favorite AI chat apps for the iPhone"
     excerpt: "When I'm using my PC and want to work with an AI chatbot, I typically turn to a website like ChatGPT or Bing AI. But when my trusty iPhone is in hand, I can more easily and conveniently chat with an AI via a mobile app."
     publishedDateTime: 2023-08-16T18:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2.jpg"
         width: 1661
         height: 962
+        isCached: true
+  - title: "Quanta sees AI as future growth driver"
+    excerpt: "Quanta Computer expects its future operation and profitability to be majorly driven by the AI business and in addition to servers and automotive AI chips, the company has also been keen on developing medical solutions and formed technology transfer collaborations with hospitals in Taiwan to develop an AI electrocardiography (ECG) platform."
+    publishedDateTime: 2023-08-17T02:42:00Z
+    webUrl: "https://www.digitimes.com/news/a20230816PD212.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230816pd212_files/1_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "The future of artificial intelligence in accessibility"
     excerpt: "AI is already playing a massive part in our lives, however, what role does artificial intelligence play in accessibility?"

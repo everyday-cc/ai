@@ -94,15 +94,6 @@ related:
       name: Tech Zone 360
       domain: techzone360.com
     quality: 39
-  - title: "AI-powered fraud detection: Strengthening security in fintech"
-    excerpt: "In the rapidly evolving world of fintech, security remains a paramount concern. With the increasing sophistication of cybercriminals, traditional methods of fraud detection are often falling short. This is where Artificial Intelligence (AI) steps in, offering a robust and dynamic solution to the complex problem of fraud detection."
-    publishedDateTime: 2023-08-12T09:30:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-ai-powered-fraud-detection-strengthening-security-in-fintech-3208155/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 36
   - title: "Future of Fintech in the Middle East 2023: Are we entering a new era?"
     excerpt: "This is an excerpt from The Future of Fintech in the Middle East 2023 report. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
     publishedDateTime: 2023-08-16T09:16:00Z

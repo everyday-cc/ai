@@ -2,6 +2,49 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-07-03-is-it-possible-to-opt-out-facial-recognition-technology-raises-questions-about-data-and-consent.md",
+      "title": "Is It Possible To Opt-Out? Facial Recognition Technology Raises Questions About Data And Consent",
+      "excerpt": "multimedia artist Mac Pierce presents a simple black hat, tricked out with what he calls a privacy solution to the widespread use of facial recognition technology. Pierce has printed three angles of a face onto transfer paper, ironed the photos onto an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgbh.org/news/science-and-technology/2020/02/25/is-it-possible-to-opt-out-facial-recognition-technology-raises-questions-about-data-and-consent",
+      "originalUrl": "https://www.wgbh.org/news/science-and-technology/2020/02/25/is-it-possible-to-opt-out-facial-recognition-technology-raises-questions-about-data-and-consent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgbh.brightspotcdn.com/dims4/default/feaa8ee/2147483647/strip/true/crop/3872x2576+0+0/resize/3872x2576!/quality/70/?url=https%3A%2F%2Fwgbh-brightspot.s3.amazonaws.com%2F09%2F64%2Fab02edbd4e21b2d6332384e23caf%2Ffacial-recognition.jpg",
+          "width": 3872,
+          "height": 2576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGBH",
+        "domain": "wgbh.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-retain-original-pdf-formatting-to-view-translated-documents-with-amazon-textract-amazon-translate-and-pdfbox.md",
       "title": "Retain original PDF formatting to view translated documents with Amazon Textract, Amazon Translate, and PDFBox",
       "excerpt": "Companies across various industries create, scan, and store large volumes of PDF documents. In many cases, the content is text-heavy and often written in a different language and requires translation. To address this, you need an automated solution to extract the contents within these PDFs and translate",
@@ -1101,57 +1144,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again.md",
-      "title": "He Spent $140 Billion on AI With Little to Show. Now He Is Trying Again.",
-      "excerpt": "Billionaire Masayoshi Son said he would make SoftBank “the investment company for the AI revolution” but he missed out on the most recent frenzy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again-dbcca17",
-      "originalUrl": "https://www.wsj.com/articles/he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again-dbcca17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-810126/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-02T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

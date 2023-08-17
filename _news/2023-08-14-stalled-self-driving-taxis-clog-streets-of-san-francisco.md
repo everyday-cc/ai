@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tourists in fast lane with driverless transport"
-    excerpt: "Driverless vehicles have become tourist attractions in the city, providing smart and convenient rides to tourists. Autonomous vehicles carrying people around Shanghai Haichang Ocean Park in the Pudong New Area started trial runs on Friday. Autonomous vending vehicles have been put into use on a trial basis at the same time."
-    publishedDateTime: 2023-08-12T10:54:00Z
-    webUrl: "https://www.shine.cn/news/metro/2308120651/"
-    type: article
-    provider:
-      name: SHINE
-      domain: shine.cn
-    quality: 39
-    images:
-      - url: "https://obj.shine.cn/files/2023/08/12/8cb4bc9e-5db3-41bc-ae4d-0e5b0c6cd8a8_0.jpg"
-        width: 576
-        height: 324
-        isCached: true
   - title: "Driverless vehicles on our roads?"
     excerpt: "The real test of driverless vehicles will be when they are ready to cruise along India’s Wild West roads. As one industrialist says: When they’re ready to do that, the AI-created future will truly be upon us."
     publishedDateTime: 2023-08-15T15:09:00Z
