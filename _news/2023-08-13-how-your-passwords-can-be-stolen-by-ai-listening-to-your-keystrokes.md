@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/how-passwords-stolen-ai-listening-keyst
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes.amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Now, an AI assistant from Google that can be your personal life coach"
+    excerpt: "DeepMind and Brain are testing ambitious new tools that could turn generative AI - the technology behind chatbots such as OpenAI's ChatGPT and Google's own Bard - into a personal life coach."
+    publishedDateTime: 2023-08-17T04:28:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/now-an-ai-assistant-from-google-that-can-be-your-personal-life-coach/articleshow/102789472.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://economictimes.indiatimes.com/thumb/msid-102789593,width-1070,height-580,imgsize-43510,overlay-ettech/photo.jpg"
+        width: 1070
+        height: 580
+        isCached: true
   - title: "Hackers could now steal passwords over Zoom by listening to keystrokes using AI — and they'll be right 93% of the time, study says"
     excerpt: "These \"acoustic side-channel attacks\" present a greater threat to keyboards than ever before, said the researchers in their paper."
     publishedDateTime: 2023-08-16T03:28:00Z

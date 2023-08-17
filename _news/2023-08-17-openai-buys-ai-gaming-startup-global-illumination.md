@@ -48,6 +48,22 @@ related:
         width: 803
         height: 642
         isCached: true
+  - title: "OpenAI Acquires AI Startup Global Illumination"
+    excerpt: "Global Illumination, founded in 2021 by Thomas Dimson, Taylor Gordon, and Joey Flynn, has engaged in diverse projects."
+    publishedDateTime: 2023-08-17T03:50:00Z
+    webUrl: "https://www.republicworld.com/business-news/international-business/openai-acquires-ai-startup-global-illumination-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/openai-acquires-ai-startup-global-illumination-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/openai-acquires-ai-startup-global-illumination-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 57
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/gmdny8uzalubdamp_1692244065.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Artificial intelligence designs advanced materials"
     excerpt: "Artificial intelligence (AI) is playing an increasingly pivotal role in designing new alloys. Yet, the predictive power of AI models in foreseeing corrosion behaviour and suggesting optimal alloy formulas has remained elusive. Scientists of the Max-Planck ..."
     publishedDateTime: 2023-08-16T16:41:00Z
@@ -66,20 +82,6 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 47
-  - title: "Artificial intelligence designs advanced materials"
-    excerpt: "Artificial intelligence (AI) is playing an increasingly pivotal role in designing new alloys. Yet, the predictive power of AI models in foreseeing corrosion behaviour and suggesting optimal alloy formulas has remained elusive. Scientists of the Max-Planck ..."
-    publishedDateTime: 2023-08-12T11:08:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63494.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 39
-    images:
-      - url: "https://www.nanowerk.com/smart/images/smartworlder.jpg"
-        width: 400
-        height: 217
-        isCached: true
 
 secured: "QHYLA7GTEb0B4HaQI4giTJnLCIgJwOQZrEhUq8aXEjcBBWgYcEKu5IpgbZdBznxfnDs0yhUs7ffUFcz6QYXp+Q6Xbi2G7JcYWiyOmC9tCufwmQmeSTiItxn9503j9VJx2QH3f21itGo4uHF5dtxlp+Ulmu3ZzQVUtteYY+rnGgwvZF3/IyJF+Xg3nb51tTwXeYMYi92R1NwsdUFBpE50Snu9q5bQYzezpY3dnosoBzPc1xy7CZxkgJz3pNLmO48K1qOTfsytg2gz5+fspMf6WLSKYsMGBtrelZv7OAFyOQdEXldAqvJAmiFAwcD4Ckj94hcJWNRKsy7UGbaPd0XxFL27qa9KPEYa1tVw7/P4N9NLn4w8II3Z0blDGSiDMGkomUKO5xkGup3zSLWtxj0IrxwyAJx779oGhTTo/n0ts2viyBrWg4zuSAgWALylqRRtawIacDcTiejglv9Gg8sjwq7DYQlRQ6ixpIOgeWasEk70N9OWOCL5K0SpUGoMe3e9NdugW4/qmJcnK20nwNkSDQ==;EJPYAhT9G/4DY6WP2Mjwgg=="
 ---

@@ -73,6 +73,20 @@ related:
         width: 546
         height: 312
         isCached: true
+  - title: "How to use speech to text in Microsoft Word"
+    excerpt: "Developed and refined over many years, Microsoft's speech recognition and voice typing technology is an efficient way to get your thoughts out, create drafts and make notes. Just like the best ..."
+    publishedDateTime: 2023-08-15T16:41:00Z
+    webUrl: "https://www.techradar.com/how-to/use-speech-microsoft-word"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 71
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/B5tyi6qFDKKunFkdaCYb5c-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "ABB and Microsoft collaborate to bring generative AI to industrial applications"
     excerpt: "Expanding on their long-standing partnership, ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability™ Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
     publishedDateTime: 2023-08-14T06:32:00Z

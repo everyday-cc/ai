@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/jaggaer-recogn
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/jaggaer-recognized-again-in-2023-gartner-hype-cycle-for-artificial-intelligence-om1ier8z?amp=1"
 type: article
 quality: 68
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: Zawya
@@ -26,6 +26,36 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI tops Gartner's top 25 emerging technologies for 2023"
+    excerpt: "The research firm also identified developer experience, pervasive cloud, human-centric privacy, and security as four emerging technology trend themes."
+    publishedDateTime: 2023-08-16T17:18:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ec058f75a594480c4345f453fc3ae0691ac6c89f/2023/08/16/d74b157c-f68a-475f-8520-d77af4df3293/gettyimages-1404640492.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Gartner: Generative AI Will Bring “Transformational Benefit” in the Next 2-5 Years"
+    excerpt: "The AI subset is positioned on the firm’s “Peak of Inflated Expectations” within the Emerging Technologies Hype Cycle this year. Hype cycles follow the maturity of technologies through their lifecycle, explained Davis. All hype cycles start when a ..."
+    publishedDateTime: 2023-08-16T17:41:00Z
+    webUrl: "https://www.techrepublic.com/article/gartner-hype-cycle-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 61
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr816123-gartner-ai.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Gartner Hype Cycle places generative AI on the ‘Peak of Inflated Expectations’"
     excerpt: "Gartner Hype Cycle for emerging technologies placed generative AI on the 'Peak of Inflated Expectations' for the first time."
     publishedDateTime: 2023-08-16T18:49:00Z

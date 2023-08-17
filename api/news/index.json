@@ -242,6 +242,143 @@
       ]
     },
     {
+      "path": "_news/2023-08-17-cisco-gains-after-ceo-points-to-headway-in-ai-and-security.md",
+      "title": "Cisco Gains After CEO Points to Headway in AI and Security",
+      "excerpt": "Cisco Systems Inc., the largest maker of computer networking equipment, rebounded in late trading after the company outlined headway in AI and security technology, helping ease concerns about a sales slowdown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-08-16/cisco-gives-tepid-annual-forecast-renewing-fears-of-slowdown",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-08-16/cisco-gives-tepid-annual-forecast-renewing-fears-of-slowdown",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-tesla-could-bring-its-full-self-driving-beta-to-china-soon.md",
+      "title": "Tesla Could Bring Its Full Self-Driving Beta To China Soon",
+      "excerpt": "Tesla could bring its full self-driving beta to China very soon. Here is everything you need to know about this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.redmondpie.com/tesla-could-bring-its-full-self-driving-beta-to-china-soon/",
+      "originalUrl": "https://www.redmondpie.com/tesla-could-bring-its-full-self-driving-beta-to-china-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.redmondpie.com/tesla-could-bring-its-full-self-driving-beta-to-china-soon/amp/",
+      "cdnAmpWebUrl": "https://www-redmondpie-com.cdn.ampproject.org/c/s/www.redmondpie.com/tesla-could-bring-its-full-self-driving-beta-to-china-soon/amp/",
+      "publishedDateTime": "2023-08-16T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Pie",
+        "domain": "redmondpie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-generative-ai-tops-gartners-top-25-emerging-technologies-for-2023.md",
+      "title": "Generative AI tops Gartner's top 25 emerging technologies for 2023",
+      "excerpt": "The research firm also identified developer experience, pervasive cloud, human-centric privacy, and security as four emerging technology trend themes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/",
+      "originalUrl": "https://www.zdnet.com/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ec058f75a594480c4345f453fc3ae0691ac6c89f/2023/08/16/d74b157c-f68a-475f-8520-d77af4df3293/gettyimages-1404640492.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/",
+      "publishedDateTime": "2023-08-16T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-openai-acquires-ai-design-studio-global-illumination.md",
       "title": "OpenAI acquires AI design studio Global Illumination",
       "excerpt": "OpenAI, the AI company behind the viral AI-powered chatbot ChatGPT, has acquired Global Illumination, a New York-based startup leveraging AI to build creative tools, infrastructure and digital experiences. It’s OpenAI’s first public acquisition in its ...",
@@ -965,48 +1102,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-16-jaggaer-recognized-again-in-2023-gartner-hype-cycle-for-artificial-intelligence.md",
-      "title": "Jaggaer recognized again in 2023 Gartner Hype Cycle for Artificial Intelligence",
-      "excerpt": "​​​​Dubai, United Arab Emirates: JAGGAER, the global leader in Autonomous Commerce, today announced that it has been named for the third year in a row as a Sample Vendor in the Gartner® Hype Cycle™ for Artificial Intelligence, 2023. The source-to-pay (S2P) technology provider is included in the category of Intelligent Applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/jaggaer-recognized-again-in-2023-gartner-hype-cycle-for-artificial-intelligence-om1ier8z",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/jaggaer-recognized-again-in-2023-gartner-hype-cycle-for-artificial-intelligence-om1ier8z",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/YTRjZTU1NzEtMWU3Yy00/0/learning-jpg.jpeg?f=3%3A2",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/jaggaer-recognized-again-in-2023-gartner-hype-cycle-for-artificial-intelligence-om1ier8z?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/jaggaer-recognized-again-in-2023-gartner-hype-cycle-for-artificial-intelligence-om1ier8z?amp=1",
-      "publishedDateTime": "2023-08-16T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-16-move-over-bard-googles-next-big-ai-product-is-coming-this-fall.md",
       "title": "Move over Bard, Google's next big AI product is coming this fall",
       "excerpt": "Google Gemini, the next-generation AI foundational model that combines conversational text with image generation, could launch this fall.",
@@ -1100,110 +1195,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-how-ai-is-increasing-fraud-risks-across-the-fintech-industry.md",
-      "title": "How AI Is Increasing Fraud Risks Across The Fintech Industry",
-      "excerpt": "Fintech founder Gili Raanan of Cyberstarts told the Israeli ... Mastercard is spearheading its own AI-related efforts across the pond alongside nine prominent UK banks including Lloyds Bank, Halifax, Bank of Scotland, and Monzo. According to Gartner ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/",
-      "originalUrl": "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d131c6a5fbee691f65f247/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/amp/",
-      "publishedDateTime": "2023-08-15T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-tech-down-even-as-ai-stocks-rise-tech-roundup.md",
-      "title": "Tech Down Even as AI Stocks Rise -- Tech Roundup",
-      "excerpt": "Shares of technology companies fell as wild swings for artificial-intelligence issues continued. Shares of chip makers Nvidia and Broadcom,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff",
-      "originalUrl": "https://www.marketwatch.com/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff",
-      "publishedDateTime": "2023-08-15T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

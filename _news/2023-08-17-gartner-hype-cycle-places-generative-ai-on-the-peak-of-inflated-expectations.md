@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Generative AI tops Gartner's top 25 emerging technologies for 2023"
+    excerpt: "The research firm also identified developer experience, pervasive cloud, human-centric privacy, and security as four emerging technology trend themes."
+    publishedDateTime: 2023-08-16T17:18:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ec058f75a594480c4345f453fc3ae0691ac6c89f/2023/08/16/d74b157c-f68a-475f-8520-d77af4df3293/gettyimages-1404640492.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Jaggaer recognized again in 2023 Gartner Hype Cycle for Artificial Intelligence"
     excerpt: "​​​​Dubai, United Arab Emirates: JAGGAER, the global leader in Autonomous Commerce, today announced that it has been named for the third year in a row as a Sample Vendor in the Gartner® Hype Cycle™ for Artificial Intelligence, 2023. The source-to-pay (S2P) technology provider is included in the category of Intelligent Applications."
     publishedDateTime: 2023-08-16T09:47:00Z
@@ -37,6 +53,20 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/YTRjZTU1NzEtMWU3Yy00/0/learning-jpg.jpeg?f=3%3A2"
         width: 450
         height: 300
+        isCached: true
+  - title: "Gartner: Generative AI Will Bring “Transformational Benefit” in the Next 2-5 Years"
+    excerpt: "The AI subset is positioned on the firm’s “Peak of Inflated Expectations” within the Emerging Technologies Hype Cycle this year. Hype cycles follow the maturity of technologies through their lifecycle, explained Davis. All hype cycles start when a ..."
+    publishedDateTime: 2023-08-16T17:41:00Z
+    webUrl: "https://www.techrepublic.com/article/gartner-hype-cycle-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 61
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr816123-gartner-ai.jpeg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "JAGGAER Recognized Again in 2023 Gartner® Hype Cycle™ for Artificial Intelligence"
     excerpt: "JAGGAER, a global leader in Autonomous Commerce, today announced that it has been named for the third year in a row as a Sample Vendor in the Gartner® Hype Cycle™ for Artificial Intelligence, 2023. The source-to-pay (S2P) technology provider is included in the category of Intelligent Applications."

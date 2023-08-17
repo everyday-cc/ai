@@ -68,22 +68,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Chicago Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-    excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Rush in Chicago. Applications for the no-cost bootcamp"
-    publishedDateTime: 2023-08-14T14:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33834832/chicago-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-clo"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33834832"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33834832"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Detroit Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "DETROIT, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital consultancy, taking place in Detroit. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-14T16:53:00Z
@@ -129,6 +113,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 5
+  - title: "Chicago Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
+    excerpt: "CHICAGO, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Rush in Chicago. Applications for the no-cost bootcamp are closing soon!"
+    publishedDateTime: 2023-08-14T14:40:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/14/9864033.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
   - title: "Birmingham Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
     excerpt: "BIRMINGHAM, Ala., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Protective Life Corporation in Birmingham. Applications for the no-cost bootcamp are closing Sept. 8!"
     publishedDateTime: 2023-08-14T21:24:00Z

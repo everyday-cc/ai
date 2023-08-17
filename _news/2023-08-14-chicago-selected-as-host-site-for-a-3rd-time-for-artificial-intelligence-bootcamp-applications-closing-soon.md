@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Chicago Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Rush in Chicago. Applications for the no-cost bootcamp"
-publishedDateTime: 2023-08-14T14:29:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/g33834832/chicago-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-clo"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/g33834832/chicago-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-clo"
-ampWebUrl: "https://www.benzinga.com/amp/content/33834832"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33834832"
+title: "Chicago Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
+excerpt: "CHICAGO, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Rush in Chicago. Applications for the no-cost bootcamp are closing soon!"
+publishedDateTime: 2023-08-14T14:40:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/14/9864033.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/14/9864033.htm"
 type: article
-quality: 39
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
@@ -148,6 +140,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "pWimjCEZywUGUJtl1oHQ3kSpkJqnJ/6FkROtppn2xTOxWg/xuLASeWbV7f37lBHeaUhngBfNY3kV2xZN7oeb7s+D+hCuuSr98hInqnYe1VOxgGwdKbIj+aBXx0tK4Sg4jx5bLsGxtoOj6PGxW4aais0mIdCfZ3HhgSXMQyR6f/IEgIt/TVoS1REnXWd5SYyBT3nxNlek/mahwS+WwbeTBJJwdZ/I7WkuvU7aUCI+9TZlcszwmqY4LXkiIt53VC9St2PNpPbWBhqphGDUVxdqhGrLAky3/Qzm8BbF31Z9rSV6reDHqJcBF+rx+O9kSli312cCBEQV1LrxWgIkP6IvDGAfxNIP7gYdRYlOfmOmHx4=;f5DYkYJIA3mTD3bsKzUcbA=="
+secured: "+ZFldZH3B4PISHeR8RV7zyzFgsqk/xqeOhBWu8H176fkMMZdGS+GZn6iZXsmjWYCnJIqXbEvIY6Lka9Naj67UbS1jmsDs7Gdi1MarBRs5CwX2IxOgtKzcy2IouOZ9HETv4VaoLH7+zymfLjOrZyKK8CpJaH0KWt9+XijjXipMv6/CIH7ZF7ciiLlclj+KMylAiKCNtSNqS3oMd0uvQngM3Twzbp3IcRClpHcSWhkXXh+82EvpkZW/xx4baZQxbBgLvDCtMwSdDnwZNZxfjsWCtxn/HYAE1+Tkiit9k+QBuNB3A/69vaV0y/8B0nSG9+CSNJHtv6CKKdAp0PKtk4F5rDebvp+5UjylxVfHQH/2pg=;DbOGyJz2bf1NGYYngysW1A=="
 ---
 

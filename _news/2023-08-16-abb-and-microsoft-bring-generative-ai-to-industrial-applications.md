@@ -67,6 +67,20 @@ related:
         width: 546
         height: 312
         isCached: true
+  - title: "How to use speech to text in Microsoft Word"
+    excerpt: "Developed and refined over many years, Microsoft's speech recognition and voice typing technology is an efficient way to get your thoughts out, create drafts and make notes. Just like the best ..."
+    publishedDateTime: 2023-08-15T16:41:00Z
+    webUrl: "https://www.techradar.com/how-to/use-speech-microsoft-word"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 71
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/B5tyi6qFDKKunFkdaCYb5c-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "Microsoft's AI First Movers programme helps LawVu speed contract processes"
     excerpt: "Tauranga-based legal software developer LawVu is one beneficiary of a Microsoft programme that is ​helping developers deploy generative AI."
     publishedDateTime: 2023-08-15T23:57:00Z

@@ -52,6 +52,22 @@ related:
         width: 803
         height: 642
         isCached: true
+  - title: "OpenAI Acquires AI Startup Global Illumination"
+    excerpt: "Global Illumination, founded in 2021 by Thomas Dimson, Taylor Gordon, and Joey Flynn, has engaged in diverse projects."
+    publishedDateTime: 2023-08-17T03:50:00Z
+    webUrl: "https://www.republicworld.com/business-news/international-business/openai-acquires-ai-startup-global-illumination-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/openai-acquires-ai-startup-global-illumination-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/openai-acquires-ai-startup-global-illumination-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 57
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/gmdny8uzalubdamp_1692244065.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "OpenAI is using GPT-4 to build an AI-powered content moderation system"
     excerpt: "ChatGPT maker OpenAI says it's using GPT-4 to build an AI-powered \"content moderation system that is scalable, consistent and customizable.\" The company says humans should still be involved in the moderation process."
     publishedDateTime: 2023-08-15T19:22:00Z
@@ -61,20 +77,6 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 47
-  - title: "Artificial intelligence designs advanced materials"
-    excerpt: "Artificial intelligence (AI) is playing an increasingly pivotal role in designing new alloys. Yet, the predictive power of AI models in foreseeing corrosion behaviour and suggesting optimal alloy formulas has remained elusive. Scientists of the Max-Planck ..."
-    publishedDateTime: 2023-08-12T11:08:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63494.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 39
-    images:
-      - url: "https://www.nanowerk.com/smart/images/smartworlder.jpg"
-        width: 400
-        height: 217
-        isCached: true
   - title: "OpenAI buys AI gaming startup Global Illumination"
     excerpt: "OpenAI has acquired a New York-based AI gaming startup for an undisclosed sum, the company announced on its website Wednesday. Global Illumination is a venture-backed company with $14 million in funding and was working on a massively multiplayer online game called Biomes, which from the looks of it appears as an open source Minecraft-like game."
     publishedDateTime: 2023-08-16T18:16:00Z
