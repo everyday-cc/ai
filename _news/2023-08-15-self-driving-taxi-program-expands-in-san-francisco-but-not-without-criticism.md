@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "People are having sex in self-driving cars, apparently"
+    excerpt: "Now the self-driving car companies Waymo and Cruise can shuttle busy passengers at all hours of the day. Alex and Megan, a couple who spoke to the Standard, said that the ride wasn't exactly ..."
+    publishedDateTime: 2023-08-12T18:35:00Z
+    webUrl: "https://mashable.com/article/people-are-having-sex-in-robotaxis-in-san-francisco"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 54
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/01lwWwoWG0dlnCwf9ZHDgsZ/hero-image.fill.size_1200x675.v1691860631.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tourists in fast lane with driverless transport"
     excerpt: "Driverless vehicles have become tourist attractions in the city, providing smart and convenient rides to tourists. Autonomous vehicles carrying people around Shanghai Haichang Ocean Park in the Pudong New Area started trial runs on Friday. Autonomous vending vehicles have been put into use on a trial basis at the same time."
     publishedDateTime: 2023-08-12T10:54:00Z

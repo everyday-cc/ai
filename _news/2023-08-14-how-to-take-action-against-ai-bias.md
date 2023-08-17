@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704495/how-to-take-action-against
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/08/shutterstockelnur-100944620-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 801
+        isCached: true
+  - title: "The New York Times is the latest to go to battle against AI scrapers"
+    excerpt: "The development adds to the mess of lawsuits and pushbacks that AI makers are facing from copyright owners."
+    publishedDateTime: 2023-08-16T22:00:00Z
+    webUrl: "https://www.popsci.com/technology/nyt-generative-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/nyt-generative-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/nyt-generative-ai/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2023/08/15/marco-lenti-19CYdO70ss4-unsplash.jpg?auto=webp"
+        width: 2000
+        height: 1121
         isCached: true
   - title: "How to tackle the ethics of Generative AI"
     excerpt: "A tip by Daniel Pell of @Workday about how business leaders should approach the ethical questions around deploying #GenerativeAI"

@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "The New York Times is the latest to go to battle against AI scrapers"
+    excerpt: "The development adds to the mess of lawsuits and pushbacks that AI makers are facing from copyright owners."
+    publishedDateTime: 2023-08-16T22:00:00Z
+    webUrl: "https://www.popsci.com/technology/nyt-generative-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/nyt-generative-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/nyt-generative-ai/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2023/08/15/marco-lenti-19CYdO70ss4-unsplash.jpg?auto=webp"
+        width: 2000
+        height: 1121
+        isCached: true
   - title: "Foundations Seek to Advance AI for Good, Protect Against Threats"
     excerpt: "While technology experts sound the alarm on the pace of AI development, philanthropists have been responding with an uptick in grants."
     publishedDateTime: 2023-08-14T08:50:00Z

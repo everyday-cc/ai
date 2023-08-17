@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/train-self-supervise
 webUrl: "https://aws.amazon.com/blogs/machine-learning/train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker/"
 type: article
 quality: 98
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
     images:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/15/intelligent-video-sagemaker-1260x630.jpg"
         width: 1260
+        height: 630
+        isCached: true
+  - title: "Unlocking efficiency: Harnessing the power of Selective Execution in Amazon SageMaker Pipelines"
+    excerpt: "MLOps is a key discipline that often oversees the path to productionizing machine learning (ML) models. It’s natural to focus on a single model that you want to train and deploy. However, in reality, you’ll likely work with dozens or even hundreds of models, and the process may involve multiple complex"
+    publishedDateTime: 2023-08-16T23:00:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-efficiency-harnessing-the-power-of-selective-execution-in-amazon-sagemaker-pipelines/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 77
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/10/ML-14562-image002-1139x630.jpg"
+        width: 1139
         height: 630
         isCached: true
   - title: "Build production-ready generative AI applications for enterprise search using Haystack pipelines and Amazon SageMaker JumpStart with LLMs"

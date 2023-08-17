@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-17-is-ai-art-real-art-harvard-arts-professors-ponder-the-potential-of-artificial-reality.md",
+      "title": "Is AI Art Real Art? Harvard Arts Professors Ponder The Potential Of Artificial Reality",
+      "excerpt": "Artificial intelligence art is any form of digital art created or enhanced with AI tools, including images, video, and audio compositions, or music. It is fundamentally different from digital art, which draws from digital technology in the artistic process and dates back to the 1960s,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/natashagural/2023/08/16/is-ai-art-real-art-harvard-arts-professors-ponder-the-potential-of-artificial-reality/",
+      "originalUrl": "https://www.forbes.com/sites/natashagural/2023/08/16/is-ai-art-real-art-harvard-arts-professors-ponder-the-potential-of-artificial-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64db95402000d526b988000c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 717,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/natashagural/2023/08/16/is-ai-art-real-art-harvard-arts-professors-ponder-the-potential-of-artificial-reality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/natashagural/2023/08/16/is-ai-art-real-art-harvard-arts-professors-ponder-the-potential-of-artificial-reality/amp/",
+      "publishedDateTime": "2023-08-16T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-google-said-to-be-testing-new-life-coach-ai-for-providing-helpful-advice-to-people.md",
       "title": "Google said to be testing new life coach AI for providing helpful advice to people",
       "excerpt": "Google has been consistently rolling out generative AI tech like the launch of the Search Engine Experience and giving Chrome the ability to summarize news articles. In the future, the tech giant may be taking artificial intelligence into a new frontier: offering life advice.",
@@ -310,7 +361,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-self-supervised-vision-transformers-on-overhead-imagery-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -879,7 +930,7 @@
       "originalUrl": "https://menafn.com/1106864884/Wcm-Q-Discusses-Legal-Ethical-Issues-Of-Generative-Ai-In-Healthcare",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1069,7 +1120,7 @@
       "originalUrl": "https://www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1152,57 +1203,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-voiceflow-a-platform-for-building-conversational-ai-experiences-raises-15m.md",
-      "title": "Voiceflow, a platform for building conversational AI experiences, raises $15M",
-      "excerpt": "Voiceflow, a platform for building conversational AI experiences powered by models like OpenAI's GPT-4, has raised $15 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/15/voiceflow-a-platform-for-building-conversational-ai-experiences-raises-15m/",
-      "originalUrl": "https://techcrunch.com/2023/08/15/voiceflow-a-platform-for-building-conversational-ai-experiences-raises-15m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1465454608.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/15/voiceflow-a-platform-for-building-conversational-ai-experiences-raises-15m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/15/voiceflow-a-platform-for-building-conversational-ai-experiences-raises-15m/amp/",
-      "publishedDateTime": "2023-08-15T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

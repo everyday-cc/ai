@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-03-the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models.md",
+      "title": "The Secret Sauce Of AI Companies: The Importance Of Human-Annotated Data In High-Performing Machine Learning Models",
+      "excerpt": "A critical component in the data annotation process is quality assurance. Despite the advances in machine learning and AI, the human touch in reviewing and verifying data remains paramount. The complex nuances, context understanding and creative interpretations that human intelligence brings to the table can't be entirely replicated by machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/612cd9b4f42bed4cf122c801/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/amp/",
+      "publishedDateTime": "2023-08-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars.md",
       "title": "How MIT’s Liquid Neural Networks can solve AI problems from robotics to self-driving cars",
       "excerpt": "Register Here In the current artificial intelligence (AI ... such as robotics and self-driving cars. “The inspiration for liquid neural networks was thinking about the existing approaches ...",
@@ -1296,49 +1348,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-harnessing-machine-learning-for-early-cancer-detection-in-primary-care.md",
-      "title": "Harnessing machine learning for early cancer detection in primary care",
-      "excerpt": "A new editorial paper was published in Oncoscience, titled \"Transforming early cancer detection in primary care: harnessing the power of machine learning.\"",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/cancer.jpg",
-          "width": 1920,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.amp",
-      "publishedDateTime": "2023-07-21T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

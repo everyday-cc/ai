@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/the-dawn
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/the-dawn-of-humanoid-robotics-a-glimpse-into-the-future/"
 type: article
 quality: 64
-heat: 66
+heat: 64
 published: false
 
 provider:

@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-10-datarobot-updates-ai-development-platform-to-cover-entire-generative-ai-lifecycle-for-enterprises.md",
+      "title": "DataRobot updates AI development platform to cover entire generative AI lifecycle for enterprises",
+      "excerpt": "DataRobot announced new generative AI capabilities and applied services for building business-focused LLM applications quickly and easily.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/datarobot-updates-ai-development-platform-to-cover-entire-generative-ai-lifecycle-for-enterprises/",
+      "originalUrl": "https://venturebeat.com/ai/datarobot-updates-ai-development-platform-to-cover-entire-generative-ai-lifecycle-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-27-e1691683910498.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-generative-ai-is-making-companies-even-more-thirsty-for-your-data.md",
+      "title": "Generative AI Is Making Companies Even More Thirsty for Your Data",
+      "excerpt": "The outcry over Zoom's tweak to its data policy shows how the race to build more powerful AI models creates new pressure to source training data—including by juicing it from users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64d430e957ff6ec62db8a934/191:100/w_1280,c_limit/Zoom-User-Data-AI-Training-Fast-Forward-Business-616146659.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-illumio-simplifies-zero-trust-policy-enforcement-with-microsoft-azure-firewall-integration.md",
       "title": "Illumio Simplifies Zero Trust Policy Enforcement With Microsoft Azure Firewall Integration",
       "excerpt": "Illumio, Inc., the Zero Trust Segmentation company, today announced the general availability of Illumio for Microsoft Azure Firewall.",
@@ -1099,101 +1203,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-healthcare-interoperability-market-ai-based-api-innovation-is-improving-healthcare-data-management-and-analysis.md",
-      "title": "Healthcare Interoperability Market - AI-based API Innovation is Improving Healthcare Data Management and Analysis",
-      "excerpt": "Technology Innovation and Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. Healthcare interoperability,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33688321/healthcare-interoperability-market-ai-based-api-innovation-is-improving-healthcare-data-management",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33688321/healthcare-interoperability-market-ai-based-api-innovation-is-improving-healthcare-data-management",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33688321",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33688321",
-      "publishedDateTime": "2023-08-09T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism.md",
-      "title": "New Chinese Facial Recognition Regulations Could Shield Citizens From Surveillance Capitalism",
-      "excerpt": "China’s cyber regulator just released draft regulations on facial recognition technology. They enable continued state surveillance—and overt government exceptionalism. But they also grant individuals the right to protect their personal data (in this case,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/",
-      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d428db7828753d19d9d123/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/08/09/new-chinese-facial-recognition-regulations-could-shield-citizens-from-surveillance-capitalism/amp/",
-      "publishedDateTime": "2023-08-09T17:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

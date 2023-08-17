@@ -2,6 +2,108 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-08-01-ad-verification-company-doubleverify-to-acquire-ai-firm-scibids-in-125-million-deal.md",
+      "title": "Ad verification company DoubleVerify to acquire AI firm Scibids in $125 million deal",
+      "excerpt": "Scibids uses AI to create customizable algorithms that marketers can use to optimize their ad campaigns and marketing budgets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/doubleverify-acquires-european-ai-firm-scibids-125-million-2023-7",
+      "originalUrl": "https://www.businessinsider.com/doubleverify-acquires-european-ai-firm-scibids-125-million-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/635ab992513e8f0019c97443?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires.md",
+      "title": "Torch Startup Says Its Outdoor Sensors Can Help Snuff Out Wildfires",
+      "excerpt": "The California company is taking preorders for its first batch of 100,000 detectors. They plan to begin shipments in the fourth quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires/",
+      "originalUrl": "https://www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c810098eb0ed467b49763d/0x0.jpg?format=jpg&crop=1009,1009,x0,y165,safe&width=1200",
+          "width": 1009,
+          "height": 1009,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires/amp/",
+      "publishedDateTime": "2023-07-31T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-uber-driver-behind-the-wheel-in-fatal-self-driving-vehicle-crash-pleads-guilty.md",
       "title": "Uber driver behind the wheel in fatal self-driving vehicle crash pleads guilty",
       "excerpt": "The Uber driver behind the wheel during the first reported fatal collision involving a fully autonomous vehicle pleaded guilty to endangerment on Friday, and was sentenced to three years of ...",
@@ -1106,111 +1208,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-a-group-of-seven-technology-leaders-agree-to-ai-safeguards.md",
-      "title": "A Group Of Seven Technology Leaders Agree To AI Safeguards",
-      "excerpt": "This article discusses Amazon, Google, Inflection, Meta, Microsoft & OpenAI's voluntary commitment to AI Safeguards & discusses the USA WhiteHouse AI legislation status.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c76de0561a39fa1d6b2a39/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/amp/",
-      "publishedDateTime": "2023-07-31T01:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops.md",
-      "title": "Kubeflow Joins CNCF To Accelerate The Adoption Of MLOps",
-      "excerpt": "CNCF’s acceptance of Kubeflow as an incubation project marks an important milestone in the evolution of the open source MLOps platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c74b2ceb8e510cf216a81a/0x0.png?format=png&width=1200",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/amp/",
-      "publishedDateTime": "2023-07-30T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
       ]
     }
   ],

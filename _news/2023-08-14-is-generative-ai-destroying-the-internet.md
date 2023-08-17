@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://bdaily.co.uk/images/uploads/IBV3WmAWIE8Ol58OiOoQ8EB64tjR3RhiOhX38ncM.jpeg?w=1200&h=630&fm=jpg&fit=crop-51-41&s=09131aaed294658dcfffa5d9f3906bda"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Epic Is Integrating Abridge’s Generative AI Tool Into Its EHR"
+    excerpt: "Epic announced that it will integrate Abridge’s clinical documentation tool into its EHR workflow. The startup’s generative AI tool listens to visits and creates a near-instant summary that adheres to physicians’ prototypical note structure."
+    publishedDateTime: 2023-08-16T21:22:00Z
+    webUrl: "https://medcitynews.com/2023/08/epic-ehr-healthcare-generative-ai/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2023/06/TMX-image-1-e1687877713584-300x241.png"
+        width: 300
+        height: 241
         isCached: true
   - title: "Innova Solutions CEO: Generative AI will have ‘bigger impact than the Internet’"
     excerpt: "Raj Sardana, CEO of technology services company Innova Solutions, says generative AI will have a \"bigger impact than the Internet.\""

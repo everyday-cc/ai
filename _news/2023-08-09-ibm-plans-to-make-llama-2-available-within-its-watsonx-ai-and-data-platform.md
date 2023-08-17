@@ -1,10 +1,12 @@
 ---
 category: news
 title: "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform"
-excerpt: "ARMONK, N.Y., Aug. 9, 2023 /PRNewswire/ -- As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM IBM plans to host Meta's Llama 2-chat 70 billion parameter ..."
+excerpt: "ARMONK, N.Y., Aug. 9, 2023 /CNW/ -- As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM IBM plans to host Meta's Llama 2-chat 70 billion parameter model in ..."
 publishedDateTime: 2023-08-09T12:07:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33662581/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/n33662581/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform"
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33662604/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n33662604/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform"
+ampWebUrl: "https://www.benzinga.com/amp/content/33662604"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33662604"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "x1Kuo823AJFRsMEBYIDx4SJAKLtFbesGHJ+b3dm51NO92quamx3Hua50N/ucjaJ9JZDy6J70afHINcFkp24BuQg3UWJ1qtyL8Jzkc1GE4FJUM22gq7Evkk8PPcs6MZ3KBhW98m8CXx9WYqZ1CHK+YeumkQ4CH3CJVd44sAqXbzSkKmQpwde0A80ehJ1SvOOLn6B5zyl1qayWOv3bWK07aTMudfWOVgpOmuAznovw/DnE+COxN16sQrSxNYALIKXXuiJX0ZRzxkEKl51+pk4ZGxgQHV5+fATuHoyl4+rstx4xiK+CpPUtmLBtAiqsCAutIeBRgKKb6Map4B1PrpgCq1Dxc7j+Mv0c00tdHUBsf3Y=;ImKI/uVCIDNy9KFPXXhgzA=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "Dc/fe9gyW7Svi3Rj1f5HvfEvZfTSUZVG/qo+wgVqFJFIKGg8wRkilGY24VZBa0PZS9NCzYackwfVC0J91Qzehmay+wn8VA0aI2pUcdWh5EOZZBfQu2okVrNNwSCQiIzmG8kuhXysMoifOvri0Ggm9bGqxrfnVBV9KSjtqh3N0zEbn7fh0vW1NswvO2tsC7eD32FAeyzy/7+7bevXCyT8kLomvSqoEgS/wya6tgYyuGQIhLVArmF7z/lGxcfh+LBPifCsTArABgkduzxQUbW0n6d95Lac/SA0IdrN2+hhxvuP+DmybS43iL+lDgm2rapLNJ5ZoBcdYRV8ibtrSI6fzQitQ6fbjwp3Zqvrxz5mTT8=;+7pYkgwPRLhW344DrKIQKQ=="
 ---
 

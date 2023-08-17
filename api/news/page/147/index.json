@@ -2,6 +2,110 @@
   "page": 147,
   "value": [
     {
+      "path": "_news/2023-05-12-meet-the-guy-who-helped-google-beat-apples-siri.md",
+      "title": "Meet The Guy Who Helped Google Beat Apple's Siri",
+      "excerpt": "But the success of Google's mobile search stems at least as much from a big improvement over the past year in Google’s speech recognition efforts. That's the result of research by legendary ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roberthof/2013/05/01/meet-the-guy-who-helped-google-beat-apples-siri/",
+      "originalUrl": "https://www.forbes.com/sites/roberthof/2013/05/01/meet-the-guy-who-helped-google-beat-apples-siri/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/06Xv9Sk0spbdy/960x960.jpg?height=400&width=400&fit=bounds",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roberthof/2013/05/01/meet-the-guy-who-helped-google-beat-apples-siri/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthof/2013/05/01/meet-the-guy-who-helped-google-beat-apples-siri/amp/",
+      "publishedDateTime": "2023-05-11T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-mobile-speech-recognition-software-market-2030.md",
+      "title": "Mobile Speech Recognition Software Market | 2030",
+      "excerpt": "The Global Mobile Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2030-2023-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2030-2023-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-edge-artificial-intelligence-ai-chip-market-by-2030.md",
       "title": "Edge Artificial Intelligence (AI) Chip Market by 2030",
       "excerpt": "Chip market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
@@ -1102,109 +1206,6 @@
         "AI",
         "AI in Education",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship.md",
-      "title": "AI Venturing: 7 Timeless Rules For Success From 6 Decades Of Unicorn-Entrepreneurship",
-      "excerpt": "Over the past 60 years, the success of unicorn-entrepreneurs, from the likes of Walton to Chesky, offer insights that can be applied to the emerging AI industry. Whether you aim to dominate the industry or build your growth venture,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/",
-      "originalUrl": "https://www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645d222b81f6ab451e4bd1e3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dileeprao/2023/05/11/ai-venturing-7-timeless-rules-for-success-from-6-decades-of-unicorn-entrepreneurship/amp/",
-      "publishedDateTime": "2023-05-11T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-as-ai-usage-ramps-up-on-wall-street-goldman-sachs-cio-details-how-the-bank-analyzes-return-on-investment-for-the-tech.md",
-      "title": "As AI usage ramps up on Wall Street, Goldman Sachs CIO details how the bank analyzes return on investment for the tech",
-      "excerpt": "Marco Argenti, Goldman Sachs' chief information officer, told a fintech conference that financial firms are using AI to make their top people efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-goldman-sachs-marco-argenti-fintech-conference2023-5",
-      "originalUrl": "https://www.businessinsider.com/ai-goldman-sachs-marco-argenti-fintech-conference2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/645bf22665275b0018b7e4d6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

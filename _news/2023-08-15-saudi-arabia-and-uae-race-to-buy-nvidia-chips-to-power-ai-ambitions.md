@@ -72,6 +72,22 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "NVIDIA's Top Stories: How It's Beating Competition in AI in US and Overseas"
+    excerpt: "underscored the economic advantages of the company's AI chips over traditional CPUs in data centers. The Grace Hopper Superchip, a fusion of CPU and GPU, promises substantial energy savings and enhanced performance for generative AI tasks. Intel's ..."
+    publishedDateTime: 2023-08-16T23:27:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/33885673/nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33885673"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33885673"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/08/16/nvda_chip_0.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI software startup Modular aims to boost its series A contest against Nvidia"
     excerpt: "AI startup Modular Inc. is reportedly in talks with investors regarding a large funding round that would value the company at approximately USD 600 million."
     publishedDateTime: 2023-08-14T13:42:00Z

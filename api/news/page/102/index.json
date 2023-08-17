@@ -2,6 +2,109 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2023-06-12-scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features.md",
+      "title": "Scality ARTESCA 2.0 Object Storage Focuses On CyberSecurity And Enterprise Features",
+      "excerpt": "Scality ARTESCA 2.0 S3 software-defined object storage enables new cybersecurity and cyber-resilience capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648642d4a607fe1d81f4b945/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/",
+      "publishedDateTime": "2023-06-11T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation.md",
+      "title": "Sunak Keeps Up Push To Make UK a Leader in AI Regulation",
+      "excerpt": "UK Prime Minister Rishi Sunak will on Monday keep up his push to give Britain a leading role in global regulation of artificial intelligence, while warning industry leaders the nation must act quickly to retain its position as one of the world’s tech capitals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isMt.CfJNIqk/v1/1200x802.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-11T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-ai-jobs-with-mind-blowing-paychecks-of-375k-a-year.md",
       "title": "AI jobs with mind-blowing paychecks of $375K a year",
       "excerpt": "When we’re talking AI and jobs, it’s easy to be nervous that the tech will make yours obsolete. Scan this list to see if AI might change the way you work.",
@@ -1121,83 +1224,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-artificial-intelligence-ai-in-mri-global-market-report-2023-sector-to-reach-153-billion-by-2028-at-a-357-cagr.md",
-      "title": "Artificial Intelligence (AI) in MRI Global Market Report 2023: Sector to Reach $1.53 Billion by 2028 at a 35.7% CAGR",
-      "excerpt": "The \"Artificial Intelligence (AI) in MRI Market - Forecasts from 2023 to 2028\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence in",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32799034/artificial-intelligence-ai-in-mri-global-market-report-2023-sector-to-reach-1-53-billion-by-2028-a",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32799034/artificial-intelligence-ai-in-mri-global-market-report-2023-sector-to-reach-1-53-billion-by-2028-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-healthcare-and-ai-paradigm-shift-stocks-in-focus-ipa-mgrx-inbs-rmed.md",
-      "title": "Healthcare and AI \"Paradigm Shift\" Stocks in Focus: IPA, MGRX, INBS, RMED",
-      "excerpt": "The healthcare sector has huge potential, offering attractive opportunities as companies meet the growing demand for Artificial Intelligence (AI) wellness solutions and recent market research is signa",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/ab32798306/healthcare-and-ai-paradigm-shift-stocks-in-focus-ipa-mgrx-inbs-rmed",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/ab32798306/healthcare-and-ai-paradigm-shift-stocks-in-focus-ipa-mgrx-inbs-rmed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32798306",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32798306",
-      "publishedDateTime": "2023-06-09T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

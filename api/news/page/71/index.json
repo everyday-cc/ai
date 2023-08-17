@@ -2,6 +2,92 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-06-29-helmai-named-in-cb-insights-ai-100-most-promising-artificial-intelligence-startup-of-2023.md",
+      "title": "Helm.ai Named in CB Insights AI 100 Most Promising Artificial Intelligence Startup of 2023",
+      "excerpt": "Helm.ai, a provider of next-generation AI software for autonomous driving and automation of robotics, today announced it has been named among CB Insights' AI 100 for 2023, an annual list of the year's",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33062445/helm-ai-named-in-cb-insights-ai-100-most-promising-artificial-intelligence-startup-of-2023",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33062445/helm-ai-named-in-cb-insights-ai-100-most-promising-artificial-intelligence-startup-of-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33062445",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33062445",
+      "publishedDateTime": "2023-06-29T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-ai-industrial-robotics-morocco.md",
+      "title": "AI Industrial Robotics - Morocco",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$19.74m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.65%, resulting in a market volume of US$ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/morocco",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/morocco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules.md",
       "title": "Chinese Companies Are Reacting To AI Regulations By Releasing Their Own Rules",
       "excerpt": "China is currently home to some of the most advanced AI regulations in the world. Its party-state government, free from the burden of compromise, can swiftly regulate AI as it sees fit. Beijing has in recent months and years crafted regulations that both (partially) protect citizens from tech companies’ greediest impulses and uphold the paternalistic impulse to preserve state power over individual expression and corporate interest.",
@@ -1062,92 +1148,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-us-considers-tightening-restrictions-on-ai-chip-exports.md",
-      "title": "U.S. considers tightening restrictions on AI chip exports",
-      "excerpt": "The potential restrictions would include further clamping down on the level of the computing power of chips that are available to be exported to foreign markets in China.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/us-considers-tightening-restrictions-on-ai-chip-exports",
-      "originalUrl": "https://cointelegraph.com/news/us-considers-tightening-restrictions-on-ai-chip-exports",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/621d1be9-e0b2-43fe-b511-f43734a5574d.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/us-considers-tightening-restrictions-on-ai-chip-exports/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/us-considers-tightening-restrictions-on-ai-chip-exports/amp",
-      "publishedDateTime": "2023-06-29T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-nation-presses-the-accelerator-on-driverless-vehicles.md",
-      "title": "Nation presses the accelerator on driverless vehicles",
-      "excerpt": "A passenger travels in a driverless car at Baidu Technology ... \"Thanks to the convergence of machine learning and artificial intelligence, big data, mobility and advanced sensors, the autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202306/29/649cbee9a310bf8a1d231853.jpeg",
-          "width": 668,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

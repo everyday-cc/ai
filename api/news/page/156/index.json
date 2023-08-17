@@ -2,6 +2,110 @@
   "page": 156,
   "value": [
     {
+      "path": "_news/2023-05-09-uipath-co-ceo-rob-enslin-on-ai-and-workplace-automation-the-c-suite-interview.md",
+      "title": "UiPath Co-CEO Rob Enslin On AI And Workplace Automation: The C-Suite Interview",
+      "excerpt": "\"We're at that tipping point,\" says the co-CEO of UiPath. \"When I was at Google, I thought we were at a tipping point but it didn't happen.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dianebrady/2023/05/08/uipath-co-ceo-rob-enslin-on-ai-and-workplace-automation-the-c-suite-interview/",
+      "originalUrl": "https://www.forbes.com/sites/dianebrady/2023/05/08/uipath-co-ceo-rob-enslin-on-ai-and-workplace-automation-the-c-suite-interview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64595346c962fe6795be84e7/0x0.jpg?format=jpg&crop=2455,1381,x5,y17,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-supremacy.md",
+      "title": "Chinese Tech Companies Forced To Think Outside The Box To Overcome US Chip Ban In The Race For AI Supremacy",
+      "excerpt": "By the time the sanctions were issued in October, Chinese institutions were producing 4.5 times more research papers on the topic of AI than American ones, according to a report released by State of AI. The release of ChatGPT in November 2021 by OpenAI ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-supremacy-1032303426",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-supremacy-1032303426",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Computer,Support,Engineer,Installing,Processor.,Microprocessor,With,Clearly,Visible,Silicon.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-uva-researcher-receives-trailblazer-r21-award-to-improve-cardiac-resynchronization-therapy-outcomes.md",
       "title": "UVA researcher receives Trailblazer R21 Award to improve cardiac resynchronization therapy outcomes",
       "excerpt": "The National Institutes of Health Trailblazer Award will provide the project $660,000 over three years using an enhanced provision of the R21, the NIH's program for exploratory or developmental research. Trailblazer awards are designed for \"NIH-defined New and Early-Stage Investigators.\"",
@@ -1094,108 +1198,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai.md",
-      "title": "Should We Be Worried About AI? I Thought Not, Until I Asked An AI",
-      "excerpt": "With the introduction of ChatGPT last November, millions of people suddenly discovered that AI was far, far more than just a research activity. The range and sophistication of ChatGPT’s answers to questions across a wide range of disciplines is,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/",
-      "originalUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6457a40845ad46981d9c02fc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/",
-      "publishedDateTime": "2023-05-08T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ai-tools-can-help-musicians-unlock-creativity-and-reach-fans.md",
-      "title": "AI Tools Can Help Musicians Unlock Creativity And Reach Fans",
-      "excerpt": "AI is a game changer for music. It's intuitive, adaptive, suggestive and big-data-powered, and everything from workflow to strategic analysis is set to evolve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64555ccda625265f03e31892/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/08/ai-tools-can-help-musicians-unlock-creativity-and-reach-fans/amp/",
-      "publishedDateTime": "2023-05-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

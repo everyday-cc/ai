@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-04-27-a-versatile-deep-learning-model-for-accurate-prediction-of-plant-growth.md",
+      "title": "A versatile deep-learning model for accurate prediction of plant growth",
+      "excerpt": "To overcome this limitation, researchers from Korea led by Professor Jung Eok Son from Seoul National University have created a novel deep-learning based crop model known as “DeepCrop”, for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/987092",
+      "originalUrl": "https://www.eurekalert.org/news-releases/987092",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fa66d95e-03d1-4a32-a4d4-df30ecb190da/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 346,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-how-to-avoid-bias-in-machine-learning-algorithms.md",
       "title": "How To Avoid Bias In Machine Learning Algorithms",
       "excerpt": "ML algorithms are great helpers that are applicable to numerous industries. However, since the technology is relatively new, many aspects—including biased output—need special attention and improvement.",
@@ -1333,59 +1376,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-how-amazon-has-reorganized-around-artificial-intelligence-and-machine-learning.md",
-      "title": "How Amazon Has Reorganized Around Artificial Intelligence And Machine Learning",
-      "excerpt": "I am a Customer Experience Futurist, Author and Keynote Speaker. In honor of Amazon Prime Day, let’s take a look at the inner workings of this company that is pushing the bounds of innovation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has-re-organized-around-artificial-intelligence-and-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has-re-organized-around-artificial-intelligence-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/dam/imageserve/80be61df19f54b8e87e96066748b9882/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 870,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/amp/"
 type: article
 quality: 89
-heat: 133
+heat: 129
 published: true
 
 provider:

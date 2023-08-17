@@ -31,20 +31,6 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 47
-  - title: "Google’s Lead AI Guy Says AI Will Be Amazing, Unless It Kills Us"
-    excerpt: "Rebecca Johnson, an AI ethics researcher at the University of Sydney who recently worked as a visiting researcher at Google, told the WaPo. \"It just sounds like a slogan.\""
-    publishedDateTime: 2023-08-12T06:26:00Z
-    webUrl: "https://futurism.com/the-byte/google-lead-ai-amazing-kills-us"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
-    images:
-      - url: "https://wp-assets.futurism.com/2023/08/googles-lead-ai-guy-says-ai-will-be-amazing-unless-it-kills-us.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "O5KRL38Nr6ovUhnkYeH04AB2wYi6LczcMmaopw1bBAm6WC1RsWAakPPinPrOe+py2HIZes8p1bZP+F6BImPdfZLVUmYgdk56sBMkM/ZkegzfLaLtx6iGf5sBk2Kd2PFxLOrBfXAhrM/2ZheF9I2wLpnXsc6NYIKx0cv2rxAvoJaXFBLnEaqKjmfCEVzDGmKG73o4cYSD1kjLtzxrE1AlaTXSDQt2lP3YEm2Ks6unhEzN05OAthzaKifNjAmF3HK1fpiChG5zSxCAiIxWLGIdM/A/eXfNy3hYbNiRwE2jGnN3kgoAEcq2EoE3wjlhcOfxARcHqm63VEjNt4VgQalbH70EzZQNiPCL017VZijprRpOSTDjKGkb4CZjPoJTMU3ilWrP7X1klIfJoeKr70wO3lxevTm389KvLDAtIK0k6+WpplzBm/vwRGQCx+mofhg6PC+D3TPNAbW8dDCySxRf0vDbn1LeBGa9ibuI2KHfwS1kkWoC5iO66sMN4FpKJ9JWFr8U8X597cBbdRPG1cPmyQ==;eoIG+2Wr0al7X/mMaEQReQ=="
 ---

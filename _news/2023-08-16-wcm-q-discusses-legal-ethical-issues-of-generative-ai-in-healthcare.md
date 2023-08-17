@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106864884/Wcm-Q-Discusses-Legal-Ethical-Issues
 webUrl: "https://menafn.com/1106864884/Wcm-Q-Discusses-Legal-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
 type: article
 quality: 71
-heat: 93
+heat: 95
 published: true
 
 provider:

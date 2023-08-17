@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kneron drives automotive AI chip market with new KL730 release"
+    excerpt: "A forthcoming image-focused AI chip from Kneron looks to enable a host of improvements around edge compute, security and automotive applications."
+    publishedDateTime: 2023-08-16T23:31:00Z
+    webUrl: "https://www.arnnet.com.au/article/708375/kneron-drives-automotive-ai-chip-market-new-kl730-release/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/speedometer-100944749-orig.jpgautowebp8570"
+        width: 472
+        height: 315
+        isCached: true
 
 secured: "qYjSZ6VL43qvVwWiPp0LIb/kxF5POLGKxL6iDvp5RwKNWE0rK37Ym/t7Sx3RW59w1I5KW7i/pEGVQ5Z7mVI1YHG5ludjYFXbMCULGf8TgJ8hd9K/KHKw0VlfWYHbrSByo1Bd2lanABuyFf9rVv6IZsoMmNVsBjkMEyDLygvuq2ctx3EqDI+OFXSkf9NdBUDPZZbsbfMYI+GzTs1+z/jDQyY7oJByFOzbOiEhtspcqi7FkP8QYMxMhS9mT0WsWAxLNsnTJnHBDeS3zgysScrGlbP09A+yLfOLijn9p4MwOHdjZI7ITMOuPp7Stkmn2I7mWdYKBMqNeHObD6s+IAR7zafoDvBFrNQOFr72BtdOz5AHvbLM5eUDuS49jLpJ7HYdqdyn2fSHCr4SJhrQfJxRebTf4YXKGHSoAbTx4OKj117j3OZ4dDvCtw4fzJ1QDwtgWa24UkeAOJG5mcPkJOZgZwq+6KoBv1GPewvnPu8yvSr+ASmSZaQBtFNinU3ox2QFbdyUhbpjsB+w3Kaa+nxMYA==;LT/HHs+pxvY4hM2+85RooA=="
 ---

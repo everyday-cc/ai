@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99787-saudi-arabia-uae-invest-thousa
 webUrl: "https://www.techspot.com/news/99787-saudi-arabia-uae-invest-thousands-nvidia-chips-aiming.html"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Race-To-AI-Supremacy-UAE-and-Saudi-Arabia-are-falling-over-each-other-to-woo-Nvidia-for-chips.jpg"
         width: 640
         height: 362
+        isCached: true
+  - title: "NVIDIA's Top Stories: How It's Beating Competition in AI in US and Overseas"
+    excerpt: "underscored the economic advantages of the company's AI chips over traditional CPUs in data centers. The Grace Hopper Superchip, a fusion of CPU and GPU, promises substantial energy savings and enhanced performance for generative AI tasks. Intel's ..."
+    publishedDateTime: 2023-08-16T23:27:00Z
+    webUrl: "https://www.benzinga.com/news/23/08/33885673/nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33885673"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33885673"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/08/16/nvda_chip_0.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
     excerpt: "The Gulf states’ purchases of large numbers of Nvidia chips via state-owned groups come as the world’s leading tech companies rush to obtain the scarce chips for AI development."

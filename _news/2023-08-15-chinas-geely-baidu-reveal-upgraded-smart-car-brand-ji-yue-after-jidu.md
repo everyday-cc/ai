@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Geely, Baidu Launch Premium Smart Auto Brand Ji Yue"
+    excerpt: "(Yicai) Aug. 15 -- Geely Holding Group, a Chinese automotive giant, has launched a high-end intelligent car brand called Ji Yue with internet giant Baidu, following another partnership marque called Jidu."
+    publishedDateTime: 2023-08-16T22:18:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinas-geely--baidu-reveal-upgraded-smart-car-brand-ji-yue-after-jidu"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 39
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/08/30800371886789.png"
+        width: 770
+        height: 510
+        isCached: true
   - title: "China's Geely unveils auto robotics brand JI YUE"
     excerpt: "Chinese automaker Geely Holding Group on Monday unveiled a premium intelligent technology brand JI YUE, which stems from Geely's cooperation with Baidu Inc on \"automotive robotics\", and introduced its first model."
     publishedDateTime: 2023-08-14T12:58:00Z
