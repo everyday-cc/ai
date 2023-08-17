@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/15/data-quality-for-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/15/data-quality-for-good-ai-outcomes/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Combining AI and traditional methods can help us predict air quality"
-    excerpt: "Combined models will be more accurate ways to forecast hazardous air quality, particularly during unpredictable events like wildfire smoke."
-    publishedDateTime: 2023-08-12T23:00:00Z
-    webUrl: "https://www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/"
-    ampWebUrl: "https://www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/08/11/My-project-2023-08-11T114827.562.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "The Reality of Artificial Intelligence for Family Offices"
     excerpt: "Artificial intelligence is the replication of human intelligence ... per stirpes to a 10-year-old” or to “explain the concept of delayed revocation in a health care power of attorney in Illinois.” The software will provide a simplified explanation ..."
     publishedDateTime: 2023-08-16T13:16:00Z

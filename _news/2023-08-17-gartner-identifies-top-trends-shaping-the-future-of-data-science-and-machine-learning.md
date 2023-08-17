@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Gartner Identifies Top Trends Shaping the Future of Data Science and Machine Learning"
-excerpt: "Gartner, Inc. today highlighted the top trends impacting the future of data science and machine learning (DSML) as the industry rapidly grows and evolve"
-publishedDateTime: 2023-08-17T08:08:00Z
-originalUrl: "https://www.albawaba.com/business/pr/gartner-identifies-top-trends-shaping-future-data-science-and-machine-learning-1530815"
-webUrl: "https://www.albawaba.com/business/pr/gartner-identifies-top-trends-shaping-future-data-science-and-machine-learning-1530815"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/gartner-identifies-top-trends-shaping-future-data-science-and-machine-learning-1530815"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/gartner-identifies-top-trends-shaping-future-data-science-and-machine-learning-1530815"
+title: "Gartner Identifies Top Trends Shaping The Future Of Data Science And Machine Learning"
+excerpt: "As machine learning adoption continues to grow, DSML is evolving from just focusing on predictive models to a more democratized, dynamic, and dat"
+publishedDateTime: 2023-08-17T12:25:00Z
+originalUrl: "https://menafn.com/1106876895/Gartner-Identifies-Top-Trends-Shaping-The-Future-Of-Data-Science-And-Machine-Learning"
+webUrl: "https://menafn.com/1106876895/Gartner-Identifies-Top-Trends-Shaping-The-Future-Of-Data-Science-And-Machine-Learning"
 type: article
-quality: 52
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-08/unnamed%20%2830%29.jpg?itok=nk7yLJrq"
-    width: 1270
-    height: 692
-    isCached: true
 
 related:
   - title: "Generative AI tops Gartner's top 25 emerging technologies for 2023"
@@ -101,6 +93,6 @@ related:
       domain: finanznachrichten.de
     quality: 13
 
-secured: "If+YJVMJXjPUfDjp/0r51N+ZGcoHa6GwCcL8QuMFsNstjGuFM598f+jsrOUSB+49D1Jl9KRmrBzYghNFFDJA6N02NAGftnVi9It9QrerhMEg+9u+NQOiRklMxuMewXpD4QNAsQLdI8V4R/vWhU6jI/FSpg6/xsb8AVxtSco59yp7mgEThPJi+meKSqX0H9e15E+EM3QVVVkDS0+ZnMrwzlI0RgKNF8vFSxLJL7EtrRveWx7PF3vYma8pZHUMt1r/dSjhhpRAaDNHQtSuDkfku+PBSwgJ5soqDYKyPMA7sGZxpgEy3pZ7CXw9tB8iohdmZoEWKRNv3HYs5vtRNs1O35ddz3KFvAiOPVrOerzLZeqq3L5vEhWZNmLT+eWFkAIGziRDrkvVUeZR9jBSJuU0OgeCSJ9Isl4qJfBDKU5kwpKkwU7c7L/lLdfgfEpvuSUlg6dtU95c9duVM7zfKHk1RQdTTRQoY9F85AjavZc++mc1H/7kKx+iyufeiTs94LGhWiUjswCpYJ6gJgHug74aIg==;03JrXo66dzG+LZQ7cqFcEw=="
+secured: "fpL8xSG8Hprok8tDfDpil6zTlX8UeqJQa2dwjfiFCWxrOgMTOjrfwoznJWC1FC7lcbBdmOTn2NVP7qHvgA9Ik81dRT+b1QtlM8d/eRHEUkT3aBykT37Q5mUlQh8m408lnp/I+iEmivdT3Z8t8ALJs9yyE2t1Y/aENV9G9UzSl3S79x6RJmvB3fikweSx+cWjWGikEwANukrMNwp87qPYuu0pfEp+sNb8qUco23kW5esdXCn7EIebcGuwKRltJxOtv1AL3urF6JQ8njGiEaTAT6M1NByO9J0jd+S3uP5QoIVO2xALwXyeQfxkEYs7C7zjaR5fuvGyTQ7IhYiUxUwbQYPykTInyMVsr6np2t5mUN8Htm2eCU6yQAUbuusxpZpELY/lBbAVvnoJdMkpEXm7s9OmTObI0eL/OH3qzUo2sPtqJ7r6sP8ZS6sDLQjnyHTxhrC4kzW0zydFTxfwljIvcOI5379GPX1NmGnlAG530CAGzRqV2ZqjPmyp1KkZWIc39y3Wg8pMAnHyuTdl1HCVyg==;uhbkdIPYkXxhjzi6t4a9PA=="
 ---
 

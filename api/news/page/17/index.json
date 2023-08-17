@@ -2,6 +2,101 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-08-03-abu-dhabis-mbzuai-launches-new-robotics-and-computer-science-departments.md",
+      "title": "Abu Dhabi’s MBZUAI launches new robotics and computer science departments",
+      "excerpt": "It has also launched master’s and PhD programmes in the two highly sought-after new-age science courses Abu Dhabi's MBZUAI launches new robotics and computer science departments Abu Dhabi, MBZUAI, Mohamed bin Zayed University of Artificial Intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.arabianbusiness.com/industries/education/abu-dhabis-mbzuai-launches-new-robotics-and-computer-science-departments",
+      "originalUrl": "https://www.arabianbusiness.com/industries/education/abu-dhabis-mbzuai-launches-new-robotics-and-computer-science-departments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.arabianbusiness.com/cloud/2023/08/03/Mohamed-bin-Zayed-University-of-Artificial-Intelligence-MBZUAI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T00:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arabian Business",
+        "domain": "arabianbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-womans-ai-bionic-arm-is-fitted-after-tube-near-death-experience.md",
+      "title": "Woman's AI bionic arm is fitted after Tube near-death experience",
+      "excerpt": "A woman has had an AI bionic arm fitted nine months after receiving life-changing injuries at a Tube station. Sarah de Lagarde was run over by two London Underground trains at High Barnet Station in September 2022, with her arm and leg needing to be amputated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/uk-england-london-66372057",
+      "originalUrl": "https://www.bbc.com/news/av/uk-england-london-66372057",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/D822/production/_130603355_p0g40jxs.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-ibm-and-nasa-deploy-open-source-geospatial-ai-foundation-model-on-hugging-face.md",
       "title": "IBM and NASA deploy open-source geospatial AI foundation model on Hugging Face",
       "excerpt": "IBM and NASA announce the availability of watsonx.ai geospatial foundation model on Hugging Face, the leading community for open AI models.",
@@ -997,83 +1092,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-ziff-davis-xyla-partner-to-drive-innovation-using-artificial-intelligence-initial-focus-in-healthcare-vertical.md",
-      "title": "Ziff Davis & Xyla Partner to Drive Innovation Using Artificial Intelligence; Initial Focus in Healthcare Vertical",
-      "excerpt": "Ziff Davis, Inc. (Nasdaq: ZD), a vertically focused digital media and internet company, and Xyla, Inc., an artificial intelligence ... into medical knowledge for healthcare professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20230801703051/ziff-davis-xyla-partner-to-drive-innovation-using-artificial-intelligence-initial-focus-in-healthcare-vertical",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20230801703051/ziff-davis-xyla-partner-to-drive-innovation-using-artificial-intelligence-initial-focus-in-healthcare-vertical",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says.md",
-      "title": "AI-supported screenings increase breast cancer detection by 20%, study says",
-      "excerpt": "The group whose scans were assisted by AI found 20% more cancers than the group without AI assistance. However, this doesn’t mean hospitals will let a computer determine whether a patient has cancer any time soon. The authors of the study say there is still a lot more research to do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/",
-      "originalUrl": "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/EwLmyaUJXfmKZSOY6C5VE2_9X5k=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/B42NVLP4QJBGJK6TDXVWZBW36M.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/?outputType=amp",
-      "publishedDateTime": "2023-08-02T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDBJ",
-        "domain": "wdbj7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

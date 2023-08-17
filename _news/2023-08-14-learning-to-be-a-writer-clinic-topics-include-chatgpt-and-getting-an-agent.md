@@ -82,6 +82,15 @@ related:
       name: WUWM
       domain: wuwm.com
     quality: 16
+  - title: "Today in AI: Alternatives to ChatGPT, Google adds translation to Gmail and more"
+    excerpt: "That popularity comes with a cost though; despite OpenAI's best efforts, the servers for the chatbot are often stormed with users, resulting in long queues as you wait your turn. The paid subscription alleviates this problem by giving you 24x7 access to the bot, even during peak times, but what if you don't want to pay?"
+    publishedDateTime: 2023-08-17T13:26:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-alternatives-to-chatgpt-google-adds-translation-to-gmail-and-more-11211181.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 15
 
 secured: "ScSrN6vuooOLMbSBSQ8dw/FZprW1SPs7GJXVFNnlHir/OTvg+vJThGUFvYjmBh8bZ1+D2zhcJUcXNL92oWPHaCtBuLG3glgRbUFdQGg3U/q/orYmrL4Koh2FxL4N8A6OZPUT8/46JKP7mYS2P1kgjEATmvVk9MMYXfgMRtEEsq+w70aEsy5G+fHJBpPKgO/Oy1j+BVOnSASC4VkGKdFknrTja1OZd+GxJKLliJmxmyE6Hl2y5w1YHyv1Z5FbYdARcJz4d/I6jGlCALtK4/44QQDQY1e3Ig7Xepkt8tUilqo/HHK9b1WWFOAMYWev+UYqQ+rtnZOtmDbj8S3lo8bQKX73djsJ03yjjyIvHBTwe7UeN9ztj02q7tpmN7x1PvKiz2VGHqQYnpeX2QWZleQLp3iO9GW0cLG1xjxFHv8+0AngM3azGjHhQmQgLBLLNi2sOGd3fdNAS2/rlpthwU02bDh4tBksJBKyOSsWK8lDF13fDJjsC2EZPjzrLO+kT2he49o/2sLiG1toM6/uJjhtxQ==;VL6Egdh8graQOeRuZEX3BA=="
 ---

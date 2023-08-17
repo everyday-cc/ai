@@ -79,6 +79,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Driverless cars may struggle to spot children and dark-skinned people"
+    excerpt: "Driverless cars may be worse at detecting children and people with darker skin, tests on artificial intelligence systems suggest. The researchers who carried out the work say that tighter government regulation is needed and that car-makers must be ..."
+    publishedDateTime: 2023-08-17T13:01:00Z
+    webUrl: "https://www.newscientist.com/article/2386635-driverless-cars-may-struggle-to-spot-children-and-dark-skinned-people/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 19
   - title: "Ten Self-Driving Cars Cause Huge Traffic Jam After Losing Wireless Signal"
     excerpt: "Self-driving cars caused a major traffic jam on Friday in San Francisco when ten of its self-driving taxis simply shut down."
     publishedDateTime: 2023-08-15T18:25:00Z

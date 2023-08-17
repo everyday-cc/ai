@@ -2,6 +2,103 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-14-aws-cloud-migration-with-ibm-turbonomic.md",
+      "title": "AWS cloud migration with IBM Turbonomic",
+      "excerpt": "Explore how to efficiently migrate to AWS and learn how organizations can better navigate this complex process with IBM Turbonomic. \nThe post AWS cloud migration with IBM Turbonomic appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/aws-cloud-migration-with-ibm-turbonomic/",
+      "originalUrl": "https://www.ibm.com/blog/aws-cloud-migration-with-ibm-turbonomic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-11-at-2.20.20-PM.png",
+          "width": 2312,
+          "height": 1076,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T09:12:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech.md",
+      "title": "With facial recognition CCTVs and anti-drone systems, R-Day security goes hi-tech",
+      "excerpt": "Delhi has been wrapped in a security blanket for Tuesday's 77th Independence Day celebrations, with more than 10,000 personnel manning the area in and around the Red Fort from where Prime Minister Narendra Modi will address the nation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "originalUrl": "https://www.rediff.com/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/345-230/news/2023/aug/14president-murmu-addresses-the-nation.jpg",
+          "width": 345,
+          "height": 230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "publishedDateTime": "2023-08-14T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-how-to-think-about-ai-a-guide-for-manufacturers.md",
       "title": "How To Think About AI: A Guide For Manufacturers",
       "excerpt": "The artificial intelligence revolution has arrived, and it’s here to stay. This long-awaited technology is entering a more mature—and more valuable—stage.",
@@ -199,7 +296,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -554,7 +651,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -605,7 +702,7 @@
       "originalUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1142,92 +1239,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-now-study-machine-learning-cloud-computing-ai-at-aktu.md",
-      "title": "Now, study machine learning, cloud computing, AI at AKTU",
-      "excerpt": "Lucknow: APJ Abdul Kalam Technical University (AKTU) will offer students certificate courses cum summer internships in machine learning (ML), cloud co.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/lucknow/now-study-machine-learning-cloud-computing-ai-at-aktu/articleshow/102666665.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/lucknow/now-study-machine-learning-cloud-computing-ai-at-aktu/articleshow/102666665.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/lucknow/now-study-machine-learning-cloud-computing-ai-at-aktu/amp_articleshow/102666665.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/lucknow/now-study-machine-learning-cloud-computing-ai-at-aktu/amp_articleshow/102666665.cms",
-      "publishedDateTime": "2023-08-11T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-self-driving-taxis-get-247-access-in-san-francisco-what-historic-vote-means-for-the-city.md",
-      "title": "Self-driving taxis get 24/7 access in San Francisco. What historic vote means for the city.",
-      "excerpt": "SAN FRANCISCO — San Francisco is the first city in the world where two separate self-driving taxi companies can offer paid rides after a historic – and contentious – vote by the California ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2023/08/11/san-francisco-self-driving-taxis/70574497007/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2023/08/11/san-francisco-self-driving-taxis/70574497007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/05/05/USAT/21a65166-49d9-48d8-b9a2-c94173f585c5-Weise-2023-04-29-6876.jpg?auto=webp&crop=4031,2268,x0,y151&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

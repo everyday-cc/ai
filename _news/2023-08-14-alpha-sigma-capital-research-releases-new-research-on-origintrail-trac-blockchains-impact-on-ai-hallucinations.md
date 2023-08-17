@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Central Bank Digital Currency (CBDC) and blockchain enable the future of payments"
+    excerpt: "CBDC is a digital form of fiat designed to be a digital representation of the country’s physical currency.\nThe post Central Bank Digital Currency (CBDC) and blockchain enable the future of payments appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-17T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 94
   - title: "BAAS GPT: Leading the market frenzy, the perfect fusion of blockchain and artificial intelligence"
     excerpt: "King NewsWire - The integration of blockchain and artificial intelligence is becoming the engine of the digital economy, and in this wave, the innovative power of the BAAS Foundation is"
     publishedDateTime: 2023-08-15T03:24:00Z
@@ -48,6 +57,15 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 34
+  - title: "Exploring the Future of Fintech: AI and Blockchain Transforming Financial Services"
+    excerpt: "The Fintech industry is experiencing rapid evolution, driven by emerging technologies and changing consumer needs. In a conversation with Karthik Thenkarai, Co-founder and Director of Paycorp.io, we d"
+    publishedDateTime: 2023-08-16T06:28:00Z
+    webUrl: "https://www.pcquest.com/exploring-the-future-of-fintech-ai-and-blockchain-transforming-financial-services/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 13
 
 secured: "A2fu/u8Ta4OMCfA5bYzt3zLw0u/OcNVoZV4rKpHMz1sWI4NBLQ1m+5pleQY1kDhbWX83ZfKw+aTQsbV3yhzaK1n1KvRqV00RLAoJeR2PX+Nul/WzP80d6unpAiSNPVXM/bMcxL9TZsBlDEVe+D+RlpG0JZLp8cA5OPEMjET2F9YsWLXCCx/m/uyXB+Rmdl8xXrQ4VHLcJVDJQvJh9ekKxtqrK+Kr210H+blXy8sCFB5CVkIrXa9eNqHfb4nKuj0+vQScp+kfn9zKcfFgdYReJYd6F9FrIvkR1vRdmGzSyfhY6VdqmaE/fbasMnYd+31bEe/f5sHCnSvjpXaEb1CkQJST1ToQ1zQtk3GdlGMRVYE=;y3NYZmlckSrEpq+rY7qNEQ=="
 ---

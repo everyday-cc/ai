@@ -95,6 +95,15 @@ related:
         width: 400
         height: 217
         isCached: true
+  - title: "TIFIN AMP, the AI platform for distribution in the asset management industry, appoints senior executive leadership"
+    excerpt: "Sal Gagliano, formerly from Broadridge, joins as Chief Executive Officer. Charlie Shaffer, formerly from Russell Investments, joins as President"
+    publishedDateTime: 2023-08-17T12:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tifin-amp-the-ai-platform-for-distribution-in-the-asset-management-industry-appoints-senior-executive-leadership-1032563184"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
 
 secured: "bGGhx0KWkLml5EWiViKGLUP2nnEIoya+SaiSUCIQr7ShMB89r4dXwojjg+nH+CDXz3j2+OifCOqdGXRjdgLsCRBnQyFktF9128HkRwkJK/+295D04HB0DSTIcxGXIM0b3NFuFMiafQP6/SR4idysBsCkLfM+N2YQs8xDmfdMam/fDLkVeOyhrp8WYsY1cva96bPo9+IdQUq1AzUCs4bbaWiOvpSQoO0ID8Fc1Jd5rPBgfiXALEdVSzvsr+FNuSHhA8cjQL2VQ+ZbD7broYUtb0LeAwc2kcR+N+7H7uEGq4bMFO7ayEO5WuqCMp47x4scEFX3IebB+FxjPxGIUPeMlXWyNPEJarDq6d1CRYrcwVE/UVEu+uO0SJgApqLhPooAwsFt80+Prqw6Lwnq/K2j3jx6gvQ6JoPg+E1+FkE0ls/wlRL13mMhcXEVvZ6Xcvi02Zm8pFWCX6I3EI8yyp2+shFnIHze0sYmHf+OLpTqHPEPiloKfO/pAHHwvUNEAeLlkrI9YoutMPIc3uXp/MYCSA==;hRmiKfBJL14Btw9XMQVChA=="
 ---

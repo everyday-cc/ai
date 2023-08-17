@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Central Bank Digital Currency (CBDC) and blockchain enable the future of payments"
+    excerpt: "CBDC is a digital form of fiat designed to be a digital representation of the country’s physical currency.\nThe post Central Bank Digital Currency (CBDC) and blockchain enable the future of payments appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-17T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 94
   - title: "BAAS GPT: Leading the market frenzy, the perfect fusion of blockchain and artificial intelligence"
     excerpt: "King NewsWire - The integration of blockchain and artificial intelligence is becoming the engine of the digital economy, and in this wave, the innovative power of the BAAS Foundation is"
     publishedDateTime: 2023-08-15T03:24:00Z
@@ -44,6 +53,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Exploring the Future of Fintech: AI and Blockchain Transforming Financial Services"
+    excerpt: "The Fintech industry is experiencing rapid evolution, driven by emerging technologies and changing consumer needs. In a conversation with Karthik Thenkarai, Co-founder and Director of Paycorp.io, we d"
+    publishedDateTime: 2023-08-16T06:28:00Z
+    webUrl: "https://www.pcquest.com/exploring-the-future-of-fintech-ai-and-blockchain-transforming-financial-services/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 13
 
 secured: "hgCKdDc5zUKezXA20md3CVmd1+Vk4vlna90EmgEW7KjYA31tx2ZcXhQJ5aGd00W6TXHRV3BeGZ3wugDAt0sr9w/oMDayniUIs9/eQ8hZBANu2cJY2U3nEsDflcDpfE4jJH+Esy8F259Ryot89aTZvicjD31Gw4HgqUA660IWHnIQzUOb81ldVvciBB/QTygpfpM5rpP7KnR5WKDqjbO1Q/pNGEES4XOIfTG3Y7TOE4KLHPIh62rPmJ1X8O7tSvp2UL9GYTy5Erpg/SKZ2PuAYys93slwD5UIGHijeKDFNuo1vme6rKJbKLpmSwL4BfsPPCb94RVcQh7Ku9dXs+/AOFIOQVLE1R7jA4Ofvrll6TUTiD2oawqLtwY022HbRhv4Rv3i+R9GIFHzpLnzBY3ekoNEWooUtW8bXR/4krpVDkbxKORbYk6EcOPcmazW5izhPO9X21VjwAtAQgKpq6zm08HMNK+NdhYOVsuMcaOUWceOhyMtrQfH0MSlNzPQJyoisIZZ6Kclgy2flVTjIJ+38w==;l3PfnNGu3c6dAriLvS6xNg=="
 ---

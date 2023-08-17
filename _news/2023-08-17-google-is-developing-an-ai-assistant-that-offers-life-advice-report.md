@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google developing AI tool that offers life advice: Report"
-    excerpt: "Google DeepMind with Brain are now testing new tools that could turn AI into a life coach Google is reportedly testing an artificial intelligence (AI) tool that will give advice about issues users face in their lives. Image Credit: Reuters San Francisco ..."
-    publishedDateTime: 2023-08-17T11:28:00Z
-    webUrl: "https://gulfnews.com/technology/google-developing-ai-tool-that-offers-life-advice-report-1.1692271717987"
-    ampWebUrl: "https://gulfnews.com/amp/technology/google-developing-ai-tool-that-offers-life-advice-report-1.1692271717987"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/google-developing-ai-tool-that-offers-life-advice-report-1.1692271717987"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
-    images:
-      - url: "https://imagevars.gulfnews.com/2023/08/17/20230817-google_18a03405880_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "Google expanding AI capabilities with life advice tool: Report"
     excerpt: "Google had previously showcased its first vision-language-action (VLA) model for robot control in July. This model displayed improved capabilities in terms of generalization and understanding beyond the specific robotic data it had been exposed to."
     publishedDateTime: 2023-08-17T09:27:00Z
@@ -103,7 +87,30 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Google Wants to Build an AI to Give You Life Advice"
+    excerpt: "Google’s AI department DeepMind is working on a suite of generative AI tools to help dole out life advice, according to The New York Times. The company has partnered with software firm Scale AI to develop at least 21 bots for things like idea generation,"
+    publishedDateTime: 2023-08-17T13:41:00Z
+    webUrl: "https://www.thedailybeast.com/google-deepmind-is-building-an-ai-to-give-you-life-advice"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2813,w_5000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1692278711/GettyImages-1258471501_mfer5t"
+        width: 1480
+        height: 833
+        isCached: true
+  - title: "Google developing AI tool that offers life advice: Report"
+    excerpt: "In a bid to catch up to Microsoft-owned OpenAI's technology, Google is reportedly testing an artificial intelligence (AI) tool that will give advice about issues users face in their lives."
+    publishedDateTime: 2023-08-17T12:49:00Z
+    webUrl: "https://telanganatoday.com/google-developing-ai-tool-that-offers-life-advice-report"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 19
 
-secured: "yQ+pR5VImmsYeWcfIQ4H3ktf4F5HtwOKEaipYJbSPw5Yyuzr8OiZvMgSYQCMk3mIWeLuDaolT9ZSF2aEoD7ixYWbFwn3M/EMpycK/qukFmnHVRo1ayBtTcht3xN8i4xuXsR3i2fbFoDJ7k3rbOBRKc7pJbfNSibnM3Q2fpr/IRzVeLui1rjQd8q5UNEIMazeDE9iow3Gn86GulmhiU7ZxFiuuQNLQdYhWuIn9evy4mjFl5DBGNfHYxV6q5MuHd5N7NH2kyfuWucUBQpJeSWutN4Q+v9S+8BOHk8q4n+ECKjthnDBDa8SS72FStVxFWYOQkY2+wSVLNXs/cYC6cVuA4G71mV1pCjtOxfYA1fPRS4=;FevIWIRjmZXoKMxXtlSCJQ=="
+secured: "mC5PiOcyR32rUcZkHxe4v5Q8HmJjE/palKuxS3nk0wEpWnu6Rg284T2eeRg7RwRGDUVEVh4Ip6IFob6xCFXvY8LCWgmy0PfYwtooJRYVfyKsPHMZgh5SI9VcMonkJbH3ulCzbHVGlC9U04pKa6UKK4UX1Iu5VJctESJs1+SqO7Vd6kUBGY1/5cmF1BOVWkWu7zWlnOA7UW47OKzFm6aLJbqaPZqZFSYfm0he/Zz0AgOOGrKX6vUCxiJaXbAcF3ZKgAfOxcwRHddbuIDySvyZm+3HiGmnDShfLdt7ed9nBJRD0+ehX4h3K1OslVLq4+Zc2u4HRav+2I6rDZf4E6WNf70xpZAq/rLsVrJKNf313iY1Wc6ao8T/m86NGYrsVRV4hZU9UgitDIVX1qhonXxxo1Uj/5oNNJ5kO7Bao/3jkyq3VDeMhmWnUWYw235w8XQheYbTFJKH8Qvc/f4DmHUI4VJUIFwLZJD8aMcaRq4l2G6ZgRDiZthmDiFIRRNqn+SgiuNc3sbxHDaMT/B8HWbPwg==;Jskj46vAMUZrCGYRnI2Xpw=="
 ---
 

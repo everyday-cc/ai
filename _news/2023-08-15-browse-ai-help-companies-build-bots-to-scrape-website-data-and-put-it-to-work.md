@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/15/browse-ai-help-companies-build-bot
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "Startup's tool aims to help companies decide which AI is right for them"
+    excerpt: "OpenAI remains the leader in generative AI, but its rivals have narrowed the gap and may be a better option for certain uses, a new AI assessment tool has found. The open-source testing platform released Thursday by startup Arthur aims to help businesses figure out which large language model is best suited to their needs."
+    publishedDateTime: 2023-08-17T13:00:00Z
+    webUrl: "https://www.axios.com/2023/08/17/startups-tool-companies-decide-ai-right"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "UJclYLVI2sXJMwTGqMSz3jngVQWpbi6GrCiO58UovAeancZ+Dw2+zgf9ST2fzF3XetrTF1Cl+6K/OJHwUDiWwXpYJ74lOZCqCRuPPNul8XIHxuDaUh9mk8xkX0dCveXyvz89ROY/RMpUunijInp8c2JbB1WqDkSJurSOP6K6nhsUHAIJPHfIMCkFmuyAZ1xcFzg9PkLC/TIXkKGjB+2I9kaHYT3NfRlcBAh3zhtmXCYlLp7oNTrKvTMjoQ5oFJHeeBta3heWEDNPJzzaVx1C4EnUO5Un8h0S5y5zkf2iS8izjC9HCDwsqRbZ+MJHBGWWe3/oDESIiDjMngt/NnAZgsm2BHqt8tOqOyiBBYSitPQ=;Lnb4oyvSU2uNCBuljtVD5g=="
 ---

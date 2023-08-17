@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "LaLiga partners with Microsoft to infuse sports with AI innovation"
+    excerpt: "Globant, LaLiga, and Microsoft are partnering to create AI services for the sports industry. LaLiga and Microsoft have collaborated, who have teamed up in the"
+    publishedDateTime: 2023-08-17T15:41:00Z
+    webUrl: "https://www.onmsft.com/news/laliga-partners-with-microsoft-to-infuse-sports-with-ai-innovation/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 54
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Microsoft-LalIga.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft's AI First Movers programme helps LawVu speed contract processes"
     excerpt: "Tauranga-based legal software developer LawVu is one beneficiary of a Microsoft programme that is ​helping developers deploy generative AI."
     publishedDateTime: 2023-08-15T23:57:00Z
@@ -159,6 +173,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 34
+  - title: "LaLiga and Globant partner with Microsoft to create AI tech services for sport"
+    excerpt: "IT services giant Globant and Spanish soccer’s LaLiga are partnering with Microsoft to create a range of artificial intelligence (AI) services for the sports industry."
+    publishedDateTime: 2023-08-17T13:57:00Z
+    webUrl: "https://www.sportspromedia.com/news/laliga-tech-globant-microsoft-ai-tech/"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 30
 
 secured: "lpUxpQ/LEGnUbLXPyTfZXTygr7NZOemrKJvnx7iAHwk33Nj4r/u8YTfNfw4nkbPsu/eUQICtDqIq1i/JPuCbZIMuzjjzABcy3M6DrqZtY8NJmhbHdUUCPCy8m7lnHsudmPSJCSvR1p6u+/+BrgRaShPWJEngztkiJyAvOjGEpNDBqDah0xUMFnXl7v0eKY1p2UVJyZvmnfS264297cPVgmVoPoKx5vYy4aP0l1vlT3XX6PmTgV7/zF5N2XysXpoU3/xOr7IwuRkraD7ahsw/hHgRlovKJZ1NCC9zH87GQZG5Hqh6XHHXTjCrd+ZAGhQcPngT0JjTFxEaqdThCgMqykE3Z1RkPii1yauVSfD1hmnH+YH2y5ZpabbozgOJnaZcO/6A7Nmtqd+UzVZim+WZ7XQDefvqaovZLr80268KH7+FKkUOsXL0ZFhy6oaOrgyeQazkaJMUXg3VRsdxKO69tqAVdVy5TiA5K9QMocJ3MXMgN1W715Y20v1ISi662Ji7q4R9wzS3GnYoT4elxEpBiQ==;9ZTLWmx1Qoc8pHwVm/Fvgw=="
 ---

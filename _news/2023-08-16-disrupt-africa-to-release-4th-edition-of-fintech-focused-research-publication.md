@@ -33,6 +33,15 @@ related:
         width: 500
         height: 354
         isCached: true
+  - title: "Beyond buzzwords: Diversity and inclusion matter in fintech"
+    excerpt: "Explore the Crucial Role of Diversity and Inclusion in Fintech Innovation and Growth - Insights from Paymentology Co-CEO"
+    publishedDateTime: 2023-08-17T12:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/beyond-buzzwords-diversity-and-inclusion-matter-in-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "Pe8mckXDznZBdx3nmaxQJjE9sAePDj1ASF4RVbCUdeY09mO6L+Pl6Y21BWWJVu3pldSWlLfo6m0byAP0L5fCbWoYoSns5UuN2UVd/3wd/K5usIhFV1R6yclW4DLAyI4EcoOaMjamEJFK/BQ+0FDWzjQm/6sK2E1TaAS0o3cpmB0/npQnuC6fU3ArToYK3m2MfojxLNr/4iVa0c/e+YtI1rjmd1n+zuGDApoaHDiuJ/R1d/Mz6F3JRnhm1TnR+nxQsXlhJBBQWB8ZRHzknWPdX70EyN/ODkEMucihGtAg1xwSVPB08x8aB1TxAv00oqmmZlPc0rMdHfYRii2EmGywgvTo8aNZnAtX+iRJWuCFCp19OaCX8thvivLWBFlVoctTZda51yL6+upsYzjoAWoAv6yw+5SNNMr+JkffoTU5avG1OwEJ00/5ueFNQ8NV9CTvhddTYURgKejFDt5PVQFBAN2Cc8bKq3GCWVCx0z0/AQ05W3PDSmikk4+RJDh3kpuzCwDy39lUdFwBjUv8jphRfQ==;zUMzX1ZNH/lQ8AUHg6pdQw=="
 ---

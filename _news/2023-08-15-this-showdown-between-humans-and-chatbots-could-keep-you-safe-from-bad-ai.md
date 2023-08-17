@@ -196,20 +196,6 @@ related:
         width: 640
         height: 380
         isCached: true
-  - title: "I can’t stop playing with this AI app that writes poetry based on your iPhone photos"
-    excerpt: "A fun and nifty AI-driven photo poetry app can turn your photos into poems with a quick snap and the help of the AI language model GPT-4."
-    publishedDateTime: 2023-08-12T20:09:00Z
-    webUrl: "https://bgr.com/tech/i-cant-stop-playing-with-this-ai-app-that-writes-poetry-based-on-your-iphone-photos/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 30
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2022/09/apple-iphone-14-pro-2.jpg?quality=82&strip=all"
-        width: 1500
-        height: 844
-        isCached: true
 
 secured: "W/ck50v+hXYfKoYXWXyRhec5/7D0prJECRap+LeU/4CrGqForps3KoI3jG1uzfAi9RKze27wV92E0xpZqjOZ/8jXzGKKJ3IDR91rKromM+4DhYsknr0oQgG29YqOLQOgygdapaqd5CFK60UC4DH1ZlaBPy67ug0hdVekEgcoymVa1PDVJUZY9ncucPQId6ubsTo9FBsIA1dTe/Dvji0hJGvusTXOg837+80MPpav88vnQ7vrX/cyy3EE2gFEkaYhKv3IpoDuKa127be97gg2tTaX6perNbuACS57IJXA4ZFA9w5UT1iL7S6zEWJAn5At9g2dAUflQEJwJbcyzBhOOWAHrcVan5wyzzFumr95So2at9wCqr7B7kJHZUCQfNuqdKS+FmJM0HJib7xnT/db21b4sfMExhr9ZHlTeIffuh3ntYrNCnSNobu2xwJrCy01OZAUSAgjHYHuX902un3Wn7vOcauHOrLfwCDZFovxim+zycg9NrjqDlK5PZeaSB2oMOoyp5omUPLkNI8wme4Spg==;UiQH/rBiFDg0jc8iX5n7Lw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33851332"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33851332"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Central Bank Digital Currency (CBDC) and blockchain enable the future of payments"
+    excerpt: "CBDC is a digital form of fiat designed to be a digital representation of the country’s physical currency.\nThe post Central Bank Digital Currency (CBDC) and blockchain enable the future of payments appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-17T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 94
   - title: "Blockchain Vs Artificial Intelligence: How Are The Two Different?"
     excerpt: "Due to game-changing innovations, both blockchain and artificial intelligence have captivated the attention of masterminds everywhere. Nevertheless, a lot of individuals get confused between these two concepts and often wonder if they’re the same or different."
     publishedDateTime: 2023-08-13T18:12:00Z
@@ -44,6 +53,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Exploring the Future of Fintech: AI and Blockchain Transforming Financial Services"
+    excerpt: "The Fintech industry is experiencing rapid evolution, driven by emerging technologies and changing consumer needs. In a conversation with Karthik Thenkarai, Co-founder and Director of Paycorp.io, we d"
+    publishedDateTime: 2023-08-16T06:28:00Z
+    webUrl: "https://www.pcquest.com/exploring-the-future-of-fintech-ai-and-blockchain-transforming-financial-services/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 13
 
 secured: "Vj4Xn6czVzD0nhkGT2nmphGEgR8SUIoUxNNdNthOVwo/hTqWZi2DzQcxbaJ9hgvfESLPGc9Sr5QzCsZ1mH0FCrwtFJQIl43186nC+OPMAVMmyY5X+/shErnCk5iUvApIhPLyw1j7L5KFGBw/DAEbRAaXSDXsMex8NLK4453+5qwKqNNdFlQynCCpX/SSGMlmnhAfymayw6ZBTD7UCtD2msesvoo4H3hOVFss3KOXd0hOxPFam7OysmZpqCY7f1AGu6FYO5c5fSKl857sagGnMJ7DVyiObxeDwqUK/p7S1Lra6DAEEpNMqZNLandriDieqe83A+4YS0ERpLH75QCxLe+nFmHQX3B/I7qp774gaYg=;WtF0WzU2LNS8anfg1N9miA=="
 ---

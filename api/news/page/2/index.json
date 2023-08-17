@@ -2,6 +2,134 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-16-how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture.md",
+      "title": "How continuous automated red teaming (CART) can help improve your cybersecurity posture",
+      "excerpt": "CART utilizes automation to discover assets, prioritize discoveries and conduct real-world attacks to help improve your cybersecurity posture.\nThe post How continuous automated red teaming (CART) can help improve your cybersecurity posture appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture/",
+      "originalUrl": "https://www.ibm.com/blog/how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T06:09:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-the-future-of-finance-ai-meets-tokenization.md",
+      "title": "The Future of Finance: AI Meets Tokenization",
+      "excerpt": "F ederal Reserve Governor Christopher J. Waller recently gave a speech titled: “Innovations and the Future of Finance,” explicitly focusing on two emerging technologies, namely Tokenization and Artificial Intelligence (AI). He said, “the world is rapidly changing, and we need to be open to the potential benefits of innovation.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization",
+      "originalUrl": "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-ai-powered-efficiency-college-hostel-management-in-emerging-markets.md",
+      "title": "AI-Powered Efficiency: College Hostel Management In Emerging Markets",
+      "excerpt": "By embracing the power of AI, colleges can cultivate a nurturing environment that combines cutting-edge technology with individualized care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/16/ai-powered-efficiency-college-hostel-management-in-emerging-markets/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/16/ai-powered-efficiency-college-hostel-management-in-emerging-markets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649d8709912e06741b6aa415/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/16/ai-powered-efficiency-college-hostel-management-in-emerging-markets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/16/ai-powered-efficiency-college-hostel-management-in-emerging-markets/amp/",
+      "publishedDateTime": "2023-08-16T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-the-world-isnt-ready-for-the-next-decade-of-ai.md",
       "title": "The World Isn’t Ready for the Next Decade of AI",
       "excerpt": "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state.",
@@ -161,7 +289,7 @@
       "originalUrl": "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -350,7 +478,7 @@
       "originalUrl": "https://venturebeat.com/ai/smart-video-analytics-are-redefining-use-cases-from-retail-to-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -747,7 +875,7 @@
       "originalUrl": "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -842,7 +970,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -893,7 +1021,7 @@
       "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/08/15/data-quality-for-good-ai-outcomes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1081,162 +1209,6 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-shaping-the-ai-future-a-shared-journey.md",
-      "title": "Shaping The AI Future: A Shared Journey",
-      "excerpt": "AI isn't just about flashy robots or an elevated gaming experience. It's about a transformative force that's currently driving a shift in social norms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b57b0a819d2bc95e95e410/0x0.jpg?format=jpg&crop=2440,1373,x0,y126,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/amp/",
-      "publishedDateTime": "2023-08-15T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-using-ai-in-customer-communication.md",
-      "title": "Using AI In Customer Communication",
-      "excerpt": "By leveraging the right AI tools while considering the reasoning for their implementation, you can drive significant success in terms of customer communication.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64da309a14c3ce119fb1ea3f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/",
-      "publishedDateTime": "2023-08-15T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-take-advantage-of-ai-and-use-it-to-make-your-business-better.md",
-      "title": "Take advantage of AI and use it to make your business better",
-      "excerpt": "Only 54% of AI projects make it to production. Here's how to overcome the challenges and benefit from artificial intelligence in business.\nThe post Take advantage of AI and use it to make your business better appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-your-business-better/",
-      "originalUrl": "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-your-business-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/dji_0420-9b.blog-lead-space-40x21-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

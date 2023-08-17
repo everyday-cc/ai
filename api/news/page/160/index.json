@@ -2,6 +2,152 @@
   "page": 160,
   "value": [
     {
+      "path": "_news/2023-05-06-chatgpt-and-generative-ai-in-payments-reality-hype-whats-next-and-how-to-prepare.md",
+      "title": "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare",
+      "excerpt": "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-payments-hype-how-to-prepare-2023-may?amp",
+      "publishedDateTime": "2023-05-05T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-techcrunch-roundup-ai-ethics-investor-survey-b2b-saas-kpis-dont-frown-on-down-rounds.md",
+      "title": "TechCrunch+ roundup: AI ethics investor survey, B2B SaaS KPIs, don’t frown on down rounds",
+      "excerpt": "Because AI requires human input, it is inherently susceptible to bias. What are investors doing to hold founders accountable?",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/05/techcrunch-roundup-ai-ethics-investor-survey-b2b-saas-kpis-dont-frown-on-down-rounds/",
+      "originalUrl": "https://techcrunch.com/2023/05/05/techcrunch-roundup-ai-ethics-investor-survey-b2b-saas-kpis-dont-frown-on-down-rounds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-biden-administration-takes-action-to-promote-responsible-ai-innovation.md",
+      "title": "Biden administration takes action to promote responsible AI innovation",
+      "excerpt": "The Biden administration pushes responsible AI with R&D investment, policymaking, and assessments of current generative AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/",
+      "originalUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_chatbots_and_AI_everywhere_all_at_once_-_tech_colorful_e_beb92de9-8091-4437-9e29-d568ea8d4b74.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/",
+      "publishedDateTime": "2023-05-05T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-build-an-image-search-engine-with-amazon-kendra-and-amazon-rekognition.md",
       "title": "Build an image search engine with Amazon Kendra and Amazon Rekognition",
       "excerpt": "In this post, we discuss a machine learning (ML) solution for complex image searches using Amazon Kendra and Amazon Rekognition. Specifically, we use the example of architecture diagrams for complex images due to their incorporation of numerous different visual icons and text. With the internet, searching",
@@ -1069,162 +1215,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-healthcare-natural-language-processing-market-2023-insight-and-global-trends.md",
-      "title": "Healthcare Natural Language Processing Market 2023 Insight and Global Trends",
-      "excerpt": "The Healthcare Natural Language Processing Market Scope and Overview Report for 2023 presents a detailed analysis of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-05T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-bing-ai-chat-is-now-open-to-everyone-though-still-in-preview.md",
-      "title": "Bing AI Chat is now open to everyone, though still in preview",
-      "excerpt": "Persistent chat, images and video, a chat sidebar and the promise of third-party plugins make Bing Chat more useful but not perfect.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/bing-ai-chat-open/",
-      "originalUrl": "https://www.techrepublic.com/article/bing-ai-chat-open/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/All-the-new-Bing-chat-features.jpg",
-          "width": 1400,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/bing-ai-chat-open/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/bing-ai-chat-open/amp/",
-      "publishedDateTime": "2023-05-04T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-ai-in-computer-vision-market-recent-growing-trend-2030.md",
-      "title": "AI In Computer Vision Market: Recent Growing Trend 2030",
-      "excerpt": "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Qualcomm Technologies, Inc., Google LLC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-recent-growing-trend-2030-2023-05-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-recent-growing-trend-2030-2023-05-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

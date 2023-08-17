@@ -2,6 +2,153 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2023-06-28-barred-from-grocery-stores-by-facial-recognition.md",
+      "title": "Barred From Grocery Stores by Facial Recognition",
+      "excerpt": "A facial recognition system alerts Simon Mackenzie, a QD Stores security guard near London, when someone on a shoplifting watchlist has entered.Credit...Suzie Howell for The New York Times Supported by By Adam Satariano and Kashmir Hill Adam Satariano ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html",
+      "originalUrl": "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/22/multimedia/00facewatch-top-fqlv/00facewatch-top-fqlv-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-new-wef-research-identifies-revolutionary-healthcare-ai-applications.md",
+      "title": "New WEF research identifies revolutionary healthcare AI applications",
+      "excerpt": "World Economic Forum report released today highlights the transformative potential of artificial intelligence (AI) in healthcare and the importance of public-private collaboration in driving its global adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications",
+      "originalUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_06_2023_08_02_07_2980727.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp",
+      "publishedDateTime": "2023-06-28T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.md",
+      "title": "Chinese A.I. stocks fall as U.S. reportedly weighs curbs on chip exports",
+      "excerpt": "China's AI stocks fell Wednesday after The Wall Street Journal reported that the U.S. is planning to impose more chip restrictions",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107263783-1687930209478-gettyimages-1258367086-TAIWAN_NVIDIA.jpeg?v=1687936055",
+          "width": 4000,
+          "height": 2486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html",
+      "publishedDateTime": "2023-06-27T22:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific.md",
       "title": "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific",
       "excerpt": "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society.",
@@ -1004,118 +1151,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-artificial-intelligence-now-being-used-in-grandparent-scam-what-you-need-to-know.md",
-      "title": "Artificial intelligence now being used in Grandparent Scam. What you need to know",
-      "excerpt": "If it wasn’t bad enough that scammers target grandparents, trying to pull on their heartstrings with a panicked call from a \"grandchild\" in trouble, now artificial intelligence is involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-aws-announces-general-availability-of-aws-appfabric-to-enhance-leading-saas-applications-for-improved-productivity-and-security.md",
-      "title": "AWS Announces General Availability of AWS AppFabric to Enhance Leading SaaS Applications for Improved Productivity and Security",
-      "excerpt": "(NASDAQ: AMZN), today announced AWS AppFabric, a no-code service that enhances companies' existing investment in software as a service (SaaS) applications with improved security, management, and productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/27/9840130.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/27/9840130.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-deepmind-and-google-gemini-ai-will-surpass-chatgpt.md",
-      "title": "Deepmind and Google Gemini AI Will Surpass ChatGPT",
-      "excerpt": "DeepMind’s Gemini is a large language model that works with text and is similar to GPT-4, which powers ChatGPT. Deepmin CEO Demi Hassabis says his team will combine LLM with AlphaGO reinforcement learning. Gemini will still take months to complete and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2023/06/deepmind-and-google-gemini-ai-will-surpass-chatgpt.html",
-      "originalUrl": "https://www.nextbigfuture.com/2023/06/deepmind-and-google-gemini-ai-will-surpass-chatgpt.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/06/Screen-Shot-2023-06-27-at-11.17.23-AM-1024x624.jpg",
-          "width": 1024,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

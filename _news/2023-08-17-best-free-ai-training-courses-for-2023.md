@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-17T08:53:00Z
 originalUrl: "https://tech.co/news/best-free-ai-training-courses"
 webUrl: "https://tech.co/news/best-free-ai-training-courses"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://images.tech.co/wp-content/uploads/2023/08/17043018/ai-training-courses.jpg"

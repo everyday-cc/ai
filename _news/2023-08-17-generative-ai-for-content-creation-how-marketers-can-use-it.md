@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-con
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Navigating Change Management In The Era Of Generative AI"
+    excerpt: "To effectively navigate change management in the era of generative AI, companies must develop a deeper understanding of their offerings and customer expectations. This understanding will help them identify the areas where generative AI can provide value and where human interactions are indispensable."
+    publishedDateTime: 2023-08-17T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/17/navigating-change-management-in-the-era-of-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "From Startup Nation to AI Nation: Listening to Machines"
     excerpt: "Two Israeli companies are seeking to introduce the innovation of AI to industrial and energy factories, leading the traditional manufacturing sector towards a better future"
     publishedDateTime: 2023-08-15T16:27:00Z
@@ -128,6 +137,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "JR7wOl8N0u/gABSEmPn/VyCbQ1E3RLGXMuF/fmud/MMGhTkjY7j59r1PWOnk1xhUHBUlUg6uvxIsKJkjTuWLi6L3UBGcwwf0qCT3dgEQ3dHXrlzoGqOvB0lWDTKTDMA1tpUSFibdkXkH47YtO6qbV94WVGFfRV4WyOvSjJjMADdUopfODsW7lwf0I3fHVKKqeyI56j7Zdwx293+YTeeIQkba4Q6UqNyGUHZAMW5kEQGjTKNJJuuHLYqMRJr2ScHZoe/Fi/R9Zh77OQ3sm2olQI2pj89C6HhGSs+D+mdnhGyZcfReKD4NDqBxL5d8BMhdvUwh/CZBSZm/RjCpi3Xu88paoSMB9O3+ONHRlYp6zOo=;R8BkYmv5QspzG8TIWROy/w=="
+secured: "atea7LFvJeaxhhJzOB+lqb9pOmMuUlJ8V+1shLTIRHwyOTowfzP3MYnN7kBRG9u6BQFxgw7R6csgpGMC0QFr+LcKueM5CiLNQsAZAWsB/tlxdZyltQkkFKOYguKH5en7S172Muxg9CLwITnuBbc8COcVyx9vrle46aesIHBO46ReTueSWqaXYS9eSc4enGJ1W6WoMlTzrePDZlP3cCmJJ5M9Hu6mqr/Uq8+drgEBFvV4EO7RjblPe1Vv1IR7rgJ7vX8GS3XUFS4wD2Wc0W4Tib+eZpaeTjxokGdklBkAfdT/Dyn3wVFin5dtyZ0xovz/tu4hQuukqwmzeTQ7hQNYaiv42mfPxyNtn51u48vuTSfx1OACyF8AX91cmNq2VPbl95HONpo+cUu+sEnQcebnUqKr1NZXiNd9Sj4zv4gyayctE6zvsLfeVYObp5JEk08n1lqcGksNJ7e8UD6c8Pi4PfAGQmag4zkVTtUcoijZV6rgSLxPDNDfpeYrLSXc13e5MpUuZn8e1+O5Ppc/V8IveA==;DhppAsPcKTRj40YKCcZr5A=="
 ---
 

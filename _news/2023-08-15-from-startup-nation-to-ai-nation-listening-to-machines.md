@@ -72,6 +72,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Navigating Change Management In The Era Of Generative AI"
+    excerpt: "To effectively navigate change management in the era of generative AI, companies must develop a deeper understanding of their offerings and customer expectations. This understanding will help them identify the areas where generative AI can provide value and where human interactions are indispensable."
+    publishedDateTime: 2023-08-17T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/17/navigating-change-management-in-the-era-of-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "From Startup Nation to AI Nation: The Farmer Knows Best"
     excerpt: "For thousands of years, agriculture was based on human expertise and gut feelings, but this simply isn't enough in the 21st century"
     publishedDateTime: 2023-08-15T16:37:00Z

@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Can Be Used To Design Engaging And Interactive Public Art"
-    excerpt: "Montréal's public art program attracts people to specific locations throughout the city, encouraging visitors to linger. This helps stimulate the e"
-    publishedDateTime: 2023-08-17T00:15:00Z
-    webUrl: "https://menafn.com/1106871859/Artificial-Intelligence-Can-Be-Used-To-Design-Engaging-And-Interactive-Public-Art"
+  - title: "Artificial intelligence can be used to design engaging and interactive public art"
+    excerpt: "This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the"
+    publishedDateTime: 2023-08-17T14:35:00Z
+    webUrl: "https://www.winnipegfreepress.com/uncategorized/2023/08/17/artificial-intelligence-can-be-used-to-design-engaging-and-interactive-public-art"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/16/TC_d6567image_story.jpg"
-        width: 960
-        height: 640
-        isCached: true
+      name: Winnipeg Free Press
+      domain: winnipegfreepress.com
+    quality: 14
 
 secured: "JoXGmkjUL3UALxxm1c5CljneHXdvfC4FlIsYxBvQWQKTt38hp4LosP+UhBkXipwjsakOhxqQppF2WHLd567+au12uHZ1F9nMgH/MvGQ8O/XCeRAOXEDwOHFqrKz4dTOpVkYE+sZ0bfTrM0Ml6fuBc26uUg/5JIm4PlprgKqk2JIu4AA0en+RE8e7WzA65Y3v1TbK9teLTK+9+x+aUJsg2/XFt5C6zhPjZegJ6HR+JLPttJKSxDuGs/WxhAZgZwLTaIct2Re6RleIf+VMMKlP8OCcTOAgasNQ3m22Se2uZ9nT8hgMcyvXBRKyEHXte12wRzbnubBso8G57jSq78Tt5qL4rP2qbldpSLAP8sk7cyV6nxb8XVWTM8OhMFZQbLJLZGO05uiVsVhUp5ie2QffCOT7r3BWSxhOpIWLRSG+qjqZCetNnN0e52XGt2M5WsSr8HOSn24UePSo9S9WPqktIj/5YiafpEsscd7SlrvbdMQ48Eg8Zr1yUcJUaBQilTZUASuey3wENalvCeGRceeptw==;I2zPeLYJ2bCI+TCIl6zJzw=="
 ---

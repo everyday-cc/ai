@@ -2,6 +2,83 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-08-06-self-driving-shuttles-headed-to-detroit-select-residents-will-qualify-for-free-rides.md",
+      "title": "Self-driving shuttles headed to Detroit; select residents will qualify for free rides",
+      "excerpt": "A number of Detroit’s older residents and those with disabilities who don’t qualify for paratransit services could have a chance beginning next year to use self-driving shuttles to get to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2023/08/04/detroit-self-driving-shuttles-elderly-disabled-residents/70506876007/",
+      "originalUrl": "https://www.freep.com/story/news/local/michigan/detroit/2023/08/04/detroit-self-driving-shuttles-elderly-disabled-residents/70506876007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-05T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-jp-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin.md",
+      "title": "J.P Morgan To Launch AI Program To Boost AI Fintech Innovation In Partnership With TIFIN",
+      "excerpt": "In a significant move for the fintech sector, TIFIN, a leading artificial intelligence (AI) platform for wealth, and J.P. Morgan (NYSE: JPM) have announced the launch of TIFIN.AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin",
+      "originalUrl": "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/08/04/contributors_4_0.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33585861",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33585861",
+      "publishedDateTime": "2023-08-05T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-05-recalling-a-wild-ride-with-a-robotaxi-named-peaches-as-regulators-mull-san-francisco-expansion-plan.md",
       "title": "Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan",
       "excerpt": "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last",
@@ -1101,84 +1178,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-crocker-park-deploys-innovative-security-measure-with-knightscope-robot-sam.md",
-      "title": "Crocker Park Deploys Innovative Security Measure with Knightscope Robot S.A.M.",
-      "excerpt": "Nasdaq: KSCP] (“Knightscope” or the “Company”), a leading developer of autonomous security robots and blue light emergency communication systems, today announced that Crocker Park – a lifestyle center for shopping,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230804839195/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230804839195/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-ibm-cloud-security-how-to-clean-up-unused-access-policies.md",
-      "title": "IBM Cloud security: How to clean up unused access policies",
-      "excerpt": "How to find inactive access policies and clean them up to enhance security for your IBM Cloud environment.\nThe post IBM Cloud security: How to clean up unused access policies appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-cloud-security-how-to-clean-up-unused-access-policies/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-security-how-to-clean-up-unused-access-policies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T06:07:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
       ]
     }
   ],

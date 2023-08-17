@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
         width: 400
         height: 217
         isCached: true
+  - title: "TIFIN AMP, the AI platform for distribution in the asset management industry, appoints senior executive leadership"
+    excerpt: "Sal Gagliano, formerly from Broadridge, joins as Chief Executive Officer. Charlie Shaffer, formerly from Russell Investments, joins as President"
+    publishedDateTime: 2023-08-17T12:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tifin-amp-the-ai-platform-for-distribution-in-the-asset-management-industry-appoints-senior-executive-leadership-1032563184"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
   - title: "The Generative AI Revolution Is Underway"
     excerpt: "It’s not an easy path but with proper support from employers and government, the benefits of AI are likely to significantly outweigh its costs."
     publishedDateTime: 2023-08-15T15:45:00Z

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-01-flapmax-partners-intel-driving-ai-innovation-in-africa.md",
+      "title": "Flapmax Partners Intel: Driving AI Innovation in Africa",
+      "excerpt": "Flapmax, a leading artificial intelligence (AI) company, has recently announced a strategic partnership with Intel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/",
+      "originalUrl": "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2023/08/resizedgg.jpg",
+          "width": 800,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/",
+      "publishedDateTime": "2023-08-01T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-low-code-ai-with-power-apps-and-power-automate.md",
       "title": "Low code AI with Power Apps and Power Automate",
       "excerpt": "Microsoft's AI Builder introduces low-code generative AI capabilities to Power Apps and Power Automate. Let's see how the preview features stack up.",
@@ -1428,50 +1471,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-ai-in-fintech-market-future-outlook-in-depth-insights-and-forecast-2023-2030-with-major-players-like-microsoft-google-salesforcecom.md",
-      "title": "AI in Fintech Market Future Outlook, In-depth Insights and Forecast 2023-2030 with Major Players like Microsoft, Google, Salesforce.com",
-      "excerpt": "The Global AI in Fintech Market is poised for significant growth between 2023 and 2030, with a positive outlook for 2022 and beyond. As key players in the industry adopt effective strategies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33346171/ai-in-fintech-market-future-outlook-in-depth-insights-and-forecast-2023-2030-with-major-players-lik",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33346171/ai-in-fintech-market-future-outlook-in-depth-insights-and-forecast-2023-2030-with-major-players-lik",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33346171",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33346171",
-      "publishedDateTime": "2023-07-24T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

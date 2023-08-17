@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-y
 webUrl: "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-your-business-better/"
 type: article
 quality: 119
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
     quality: 87
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64d940f4725deaf2b4635ebc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Why Your Business Needs A Winning AI Strategy (And How To Build One)"
+    excerpt: "Part of the challenge is the countless applications for AI within a business, and it’s often difficult for business leaders to determine where to start. Without a proper roadmap that looks for automation opportunities across the entire value chain ..."
+    publishedDateTime: 2023-08-17T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true

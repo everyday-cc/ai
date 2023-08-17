@@ -68,22 +68,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Gartner Identifies Top Trends Shaping the Future of Data Science and Machine Learning"
-    excerpt: "Gartner, Inc. today highlighted the top trends impacting the future of data science and machine learning (DSML) as the industry rapidly grows and evolve"
-    publishedDateTime: 2023-08-17T08:08:00Z
-    webUrl: "https://www.albawaba.com/business/pr/gartner-identifies-top-trends-shaping-future-data-science-and-machine-learning-1530815"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/gartner-identifies-top-trends-shaping-future-data-science-and-machine-learning-1530815"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/gartner-identifies-top-trends-shaping-future-data-science-and-machine-learning-1530815"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 52
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-08/unnamed%20%2830%29.jpg?itok=nk7yLJrq"
-        width: 1270
-        height: 692
-        isCached: true
   - title: "JAGGAER Recognized Again in 2023 Gartner® Hype Cycle™ for Artificial Intelligence"
     excerpt: "JAGGAER, a global leader in Autonomous Commerce, today announced that it has been named for the third year in a row as a Sample Vendor in the Gartner® Hype Cycle™ for Artificial Intelligence, 2023. The source-to-pay (S2P) technology provider is included in the category of Intelligent Applications."
     publishedDateTime: 2023-08-15T14:33:00Z
@@ -102,6 +86,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 13
+  - title: "Gartner Identifies Top Trends Shaping The Future Of Data Science And Machine Learning"
+    excerpt: "As machine learning adoption continues to grow, DSML is evolving from just focusing on predictive models to a more democratized, dynamic, and dat"
+    publishedDateTime: 2023-08-17T12:25:00Z
+    webUrl: "https://menafn.com/1106876895/Gartner-Identifies-Top-Trends-Shaping-The-Future-Of-Data-Science-And-Machine-Learning"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 12
 
 secured: "wZUMcAb2xAIsDd5eUOaR/WpS+em4ENuXqjecveHjxClBeFKOX7l/meaG0vSQTwcBvuVNhjOhZgQc2SrIhWKysrdoLHQwXF7z4svWCHHtar4hcOFlcNCGiJKepMDxPfvhTIE/5udIqoRa3IOo5EcO5eqUEP7q1y3R/TQ7Oafpk5rtfYitSA+mfrV6RV/ulp+qZph/QFf3cTUmlYQcoNGbmIPlLhl2Tc1eqa3fd9zF7jmBKLEs29Uign4xcPGgUrCrY5Nv3TBlLAP4KRhbfBilNO/0/25fKA0e1Q2bHU/KI182wa4JhoIOLx9/dJv/43qhcxia5NjdNCUNn5NiFG6rwvvmdb5PKYPJpU9gFqxyB0HlnDCQmTsMHO0HVZEsPTUUw9hWoQk453hTxrV8wocxhySlD5cTKItu5BwyYn4eQi1nAQpNLRbqxFiaMh2cZRj51dLsqUgMqLKVhFUSOR9f/4wmGw78XdMKM2zINREY8eAgb9egbruZ1XIo9M6eMTN9/5OQws9sY9WxolR1FTDiMg==;uRAFRecT6c8Kb8VBqmJVdg=="
 ---

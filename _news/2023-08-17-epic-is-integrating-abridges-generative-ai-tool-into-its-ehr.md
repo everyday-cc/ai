@@ -74,6 +74,15 @@ related:
       name: The Information
       domain: theinformation.com
     quality: 19
+  - title: "Companies go all out to up their generative AI game"
+    excerpt: "The company is dividing its workforce into three layers, based on how deeply each needs to understand the new technology. The first and the broadest is mandatory training to bring all employees, regardless of role, up to speed on generative AI basics: what it is, how it works, best practices and how to use it ethically and responsibly."
+    publishedDateTime: 2023-08-17T13:00:00Z
+    webUrl: "https://www.seattletimes.com/explore/careers/companies-go-all-out-to-up-their-generative-ai-game/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "zfoHndqb3IRg/BpFk154itxux8R7iOY3xNCK08SJE5f7AxKPuYfcQJXbFgklcGT+97RSTEdFvMfETUC0+ZLVqCN2Kjf7bfGm6TDzIeouBAW0xd+90/dU+pcQCkTdYWxc3b6BZbsuZ8VMRFRWmjAcUU/c/Ixy8A4hfQW9dXjwPsfwrg+NS3O03Vptrccy8qzVOGj5Z+/NoESF4xLpzkYSyEmFoTdFn8tt/ErGrONrZd4hoqN7C3j1eLKHL0PFgfUsPEhR3IjiRei8GVTFqN4ADFnJFcVZOzdECd79dX3FB0Jxt7sVhbEUr/3gQKZDk8BPbIZ7nUnoPJnABEIN7lAIkLjOETkEZQ9WyA4eBzQu5eQ=;Yb28Q+9ZX+MGG4j1mydXNQ=="
 ---

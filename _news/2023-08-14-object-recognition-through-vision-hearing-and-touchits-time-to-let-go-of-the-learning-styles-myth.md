@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "WiMi is Researching Edge Detection Algorithm Based on Deep Learning and Image Fusion"
+    excerpt: "The algorithm is widely used in the field of computer vision due to its high accuracy and robustness, for example, for object recognition, video analysis, image segmentation, automatic driving, medical image processing and so on. In the future, WiMi will ..."
+    publishedDateTime: 2023-08-17T12:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-is-researching-edge-detection-algorithm-based-on-deep-learning-and-image-fusion-1032562985"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
   - title: "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth"
     excerpt: "This relationship between recognition abilities in different senses stands in contrast to learning styles studies’ failure to find expected correlations among variables. For instance, people’s preferred learning styles do not predict performance on measures of pictorial, auditory or tactile learning."
     publishedDateTime: 2023-08-14T13:03:00Z

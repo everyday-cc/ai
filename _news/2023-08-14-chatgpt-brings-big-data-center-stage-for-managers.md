@@ -61,6 +61,15 @@ related:
       name: GlobalSpec
       domain: globalspec.com
     quality: 4
+  - title: "How ChatGPT plugins can up your SEO game"
+    excerpt: "Discover innovative ways to elevate your keyword research, content optimization and link building strategies with ChatGPT plugins."
+    publishedDateTime: 2023-08-17T13:00:00Z
+    webUrl: "https://searchengineland.com/chatgpt-plugins-up-seo-game-430789"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 4
 
 secured: "KxSADMPYcEoJ7oNAV+G3OFQKjEZUloIWgKmBz8aE/pLd+pYYSlcuxYANZfQDrf2rThwiiua7Qhs/a1qxkgGnYDYv6GSATPzq1N+HkURfQQbf96FsJcEDE2U7JOvQVNKl8eLJHYwtFJIEUSckgdw/JpmZDJc1t4zNqwyg1HVrnknddQI/+wLSprdt3zmjqjyINnFiE/aB9tt0dYJ8xExKRSw6zhqk6WrIoKt8H8Sg4PZ5Tuyg3ifb7P5MLCLdZjnxka/r57d2QXXrJ9KrlXAt7CjMLBeSZahMJm9FHpVVEM7IZaJbE8Hss+P9PYhpZNQMiTx+1ylMVsjhOvgwuVC7cgMerT+ZB4xYieiC0y4VXaN24+YSxtKIM6TSn78MYGP//5VHJiEdwbSjsll1A95Xb7qHgkrw1aXqUkCVGs+3ZC4HFSOdpBWEVf9ncDMUfPL7Fxogn+zh9Nv994dQA+PcYRseRKaCMtHSVHBNktZLi9a21oafRwx+l9f3vzpahQefD2bPChg3E85IpbHvxWbbQA==;Uj/BMU01SkMK+P7leJSx5g=="
 ---

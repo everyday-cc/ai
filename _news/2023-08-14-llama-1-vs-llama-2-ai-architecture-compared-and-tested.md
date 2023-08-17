@@ -24,6 +24,17 @@ images:
     height: 466
     isCached: true
 
+related:
+  - title: "ChatGPT vs Bard vs Claude LLMs compared and tested"
+    excerpt: "If you are interested in learning more about the available large language models this ChatGPT vs Bard vs Claude comparison guide offers"
+    publishedDateTime: 2023-08-17T11:39:00Z
+    webUrl: "https://www.geeky-gadgets.com/chatgpt-vs-bard-vs-claude/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 4
+
 secured: "xaZiamhXxnKKok3Gt/oEfCxVUJDT/2pQUjccXIOO3xj/x1KD8LD+Pxv+nmLOrOvfXQguL+6w/21uMRuOtUUsqCcEosS9bjzHYPLo3iFl4e91UpFAMfAfeVDYJLeZbw+JhA5vbXgN7Ut4vCIZPv6GewQJR2wRQq2BkYlOvQe7sGi1vFG+eHJ/fKGVIqRMwXiIEUMiy/e70Qmf+YMi9S+lKFrxdklpkDUhCHtjIKN9yZ8ylt11mjduTAGpXBGI8v3sOZVllYmJKzWnBF6mjR6y+tZ1a0krX3eDX/TAjGDs0f0EFC83Pk3gMRuU2WQhHlUoLVczMfjCVEh0sFZpuAVFzUUfUdxXZEqDWfITbYpcy7Y=;jw+omDWhnt/qHfZAlP2LsQ=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-17-central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments.md",
+      "title": "Central Bank Digital Currency (CBDC) and blockchain enable the future of payments",
+      "excerpt": "CBDC is a digital form of fiat designed to be a digital representation of the country’s physical currency.\nThe post Central Bank Digital Currency (CBDC) and blockchain enable the future of payments appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments/",
+      "originalUrl": "https://www.ibm.com/blog/central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-the-future-of-finance-ai-meets-tokenization.md",
       "title": "The Future of Finance: AI Meets Tokenization",
       "excerpt": "F ederal Reserve Governor Christopher J. Waller recently gave a speech titled: “Innovations and the Future of Finance,” explicitly focusing on two emerging technologies, namely Tokenization and Artificial Intelligence (AI). He said, “the world is rapidly changing, and we need to be open to the potential benefits of innovation.”",
@@ -45,7 +88,7 @@
       "originalUrl": "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -1267,49 +1310,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-tuition-financial-aid.md",
-      "title": "Tuition & Financial Aid",
-      "excerpt": "The Master of Science in Machine Learning and Data Science tuition for the 2023-2024 academic year is $21,500 per quarter, plus an added $266 health services fee and a $125 ... Science program are eligible for financial aid. Prospective students should ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/tuition-financial-aid.html",
-      "originalUrl": "https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/tuition-financial-aid.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mccormick.northwestern.edu/machine-learning-data-science/images/overview/tuition-financial-aid.jpg",
-          "width": 770,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mccormick.northwestern.edu",
-        "domain": "northwestern.edu",
         "images": null,
         "publishers": null,
         "authors": null

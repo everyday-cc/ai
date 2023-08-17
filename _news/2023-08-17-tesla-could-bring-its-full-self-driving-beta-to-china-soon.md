@@ -9,7 +9,7 @@ ampWebUrl: "https://www.redmondpie.com/tesla-could-bring-its-full-self-driving-b
 cdnAmpWebUrl: "https://www-redmondpie-com.cdn.ampproject.org/c/s/www.redmondpie.com/tesla-could-bring-its-full-self-driving-beta-to-china-soon/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla self-driving tech under microscope after another fatal crash"
-    excerpt: "American auto safety regulators have sent a team to investigate a fatal crash in Virginia involving a Tesla suspected of running on a partially automated driving system."
-    publishedDateTime: 2023-08-12T22:26:00Z
-    webUrl: "https://www.stuff.co.nz/motoring/300949230/tesla-selfdriving-tech-under-microscope-after-another-fatal-crash"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/6/6/m/2/image.related.StuffLandscapeSixteenByNine.1420x800.4z6dwu.png/1691879214608.jpg"
-        width: 1420
-        height: 798
-        isCached: true
   - title: "Tesla to build its own data centers as it scales self-driving business"
     excerpt: "Electric vehicle maker Tesla is planning to enter the data business with the launch of a \"1st of its kind\" data center."
     publishedDateTime: 2023-08-14T21:07:00Z

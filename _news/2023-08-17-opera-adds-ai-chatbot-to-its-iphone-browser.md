@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-it
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
 type: article
 quality: 87
-heat: 217
+heat: 207
 published: true
 
 provider:
@@ -193,20 +193,6 @@ related:
       - url: "https://e3.365dm.com/23/08/640x380/skynews-ai-artificial-intelligence_6246406.png?20230810134607"
         width: 640
         height: 380
-        isCached: true
-  - title: "I can’t stop playing with this AI app that writes poetry based on your iPhone photos"
-    excerpt: "A fun and nifty AI-driven photo poetry app can turn your photos into poems with a quick snap and the help of the AI language model GPT-4."
-    publishedDateTime: 2023-08-12T20:09:00Z
-    webUrl: "https://bgr.com/tech/i-cant-stop-playing-with-this-ai-app-that-writes-poetry-based-on-your-iphone-photos/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 30
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2022/09/apple-iphone-14-pro-2.jpg?quality=82&strip=all"
-        width: 1500
-        height: 844
         isCached: true
 
 secured: "sy+vz/4BBvRFyxMrJWm3W/Y7zi4YUdBvk6QRKi1D31cj3m8qUKb6JaWwKPTFnnJKYbQS0AURywZC7dgRE4OHUhndywAH4DjVVDsnoquHpEmsTy3hwttKpOW8xfBDEQG8slAV9xz6dmiJgiiXyGHrhcFzjv5Hfgui0iHclcvMBY3/NMjqLalozZiG5HxFeMRhbnXq+/2YYius89UG5f342Ds0R4Af2PYLNDqsMraGF+u4MOrG5wBWFBMdinFO56LzCfaXBu7cCp85jNHH4/VNPLK0M0/rC7Um9eUOJJsIsXdwfqQul5DASBGq66iQPtJzbpzOH7vop4vIsHsLvRQUF+Z2BkBodXcR2zZHfxshCkq3ZTtkiIaUJ8LDTtkl12uldk3Tv5oklkLOuSDQqvhY3Pc2JNrcN/cDOXd2U7Nvhj5Y3/DHqEiGglRAsdX5MIb7micDEATVzKIB/d49ELDXuPB7ajjwAMeQFCPRksXIatZz8S7xNYQ8xLUbAQfaFS/6JQugEKGgkcUCxsfqXCwv8g==;HU87ihGxB297VMHbRFnWzg=="

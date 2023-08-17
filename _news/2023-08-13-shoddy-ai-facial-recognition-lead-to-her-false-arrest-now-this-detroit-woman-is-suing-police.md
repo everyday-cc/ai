@@ -73,36 +73,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Detroit woman suing police after 'shoddy' AI facial recognition leads to false arrest"
-    excerpt: "Porcha Woodruff was eight months pregnant when six cops showed up at her home in February, told her she had been identified as a suspect in a carjacking incident and arrested her in front of her children."
-    publishedDateTime: 2023-08-12T19:10:00Z
-    webUrl: "https://www.ksl.com/article/50705314/detroit-woman-suing-police-after-shoddy-ai-facial-recognition-leads-to-false-arrest"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 47
-    images:
-      - url: "https://img.ksl.com/slc/2942/294228/29422843.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
-  - title: "Detroit police changing facial-recognition policy after pregnant woman says she was wrongly charged"
-    excerpt: "The Detroit police chief says he’s setting new policies on the use of facial-recognition technology DETROIT -- The Detroit police chief said he's setting new policies on the use of facial ..."
-    publishedDateTime: 2023-08-12T21:04:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173041"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173041"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/detroit-police-changing-facial-recognition-policy-after-pregnant-102173041"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 30
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_3ed0bff9e8d2e87a5f8fed690abbd870_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "21Z8/Y2Hp+dRX23u8OBGL7TRHOwFtSzwZtkHinSl1LoRn/cpk4Wou16qkUASNigUkg98MpIHc+4becl4tLvnaSXoy4t1DnRVH8obtlpKnY8XUqy/UnhleS5DivdpbV09bvJX8U+OaGCwVT+3+7bq+hckwtyXuJxB8uIAySBmkAXXiXq7cHLdehjWbNYYraIQGzXoArDn7eoH64ycx2f4S/JbTTujR+tBnwlvwHLsX28L9m1EgjIhfWcQpMdtZUSfyc954u3GF4IlJd5MBQ4sqY3Ijuzxl747WIc4OUSvfpOi6nHMKaL6RWwCqbBUEAqM/8EWN9+O4bQE3jYZjgIDkg6fym7R/ckOjAnMcX7X5ZlpJygF/RSb8GaIzs8i8+vgcu/0mk7/C9Ysxr5j230iUgo26GBvVolIXZYPJNS9ddo7EIzb9YxdtHIzHqVeuYytteS8iNChSiOcxqc7Jm32KxIZxkNysjVneRkOfRJ+i5Dt3ptf5t0cwGVPrHN1/BjkZypWw0yhPrvC6E5vFKbTTw==;dQhTUpVPeK88aVgoub0zwA=="
 ---

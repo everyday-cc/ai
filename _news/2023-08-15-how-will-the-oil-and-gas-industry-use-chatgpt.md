@@ -60,6 +60,15 @@ related:
       name: Search Engine Land
       domain: searchengineland.com
     quality: 4
+  - title: "How ChatGPT plugins can up your SEO game"
+    excerpt: "Discover innovative ways to elevate your keyword research, content optimization and link building strategies with ChatGPT plugins."
+    publishedDateTime: 2023-08-17T13:00:00Z
+    webUrl: "https://searchengineland.com/chatgpt-plugins-up-seo-game-430789"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 4
 
 secured: "lVZ3r+Dnl9svz1z4WZVe3U3pifdzgvoSZwzFmgdBrQv6yJJEWjQJP4TAuwtDs8yHNC7cThET6qmN0UNreoYnWw/1HwV2sRQbqxXSmOQHcykpzrmkckpHk+hXJ7loMuVU4G8Yk5oMzyDYeRAZmVkl2fxD1C9j40zO7F+Je/HztQXoxX6YbCS0Pgewz1zDhf6Ib7UQ3DBuXg2HHSy/n6jmxpQHohjrIEtl7ucKtVBYbwwDJpSHy14wc7vKOTWr/LZ6jju2vxW4fVP6nzuScgmW86gMQ4lU0AOHjuIAIMlcQCWWztaFJNZW0CkrrZcf30OPg3D/RlCTmfKTzB/utXPbELtRhS2nIbIzNDr3A4tmtNXYAl/wEvu65Eu2HkoxoLsAKzq6wWp3USpEtJErUGaTEgA87gy9iIEHxTuDkQo6QTZjixkKxFiUdO1dMEMGEHddtlHq7idF/gYQrk0nH0gP8aJS7Hsw9hefB3i2rq/jRGYtefRUKCKG/P1nnC6jGBoJyfet5Hj6/BhymJT/L38yOQ==;RMxfjyjRnDurhQLK4hJp0w=="
 ---

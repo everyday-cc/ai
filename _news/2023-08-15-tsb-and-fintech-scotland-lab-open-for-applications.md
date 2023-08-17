@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Beyond buzzwords: Diversity and inclusion matter in fintech"
+    excerpt: "Explore the Crucial Role of Diversity and Inclusion in Fintech Innovation and Growth - Insights from Paymentology Co-CEO"
+    publishedDateTime: 2023-08-17T12:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/beyond-buzzwords-diversity-and-inclusion-matter-in-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
   - title: "Disrupt Africa to release 4th edition of fintech-focused research publication"
     excerpt: "Startup-focused news and research company Disrupt Africa will shortly be releasing Finnovating for Africa 2023, the fourth edition of its deep-dive into the continent’s fintech startup ecosystem, for free as part of an open-sourcing initiative."
     publishedDateTime: 2023-08-16T06:00:00Z

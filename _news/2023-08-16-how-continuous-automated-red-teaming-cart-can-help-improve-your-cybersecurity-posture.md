@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-continuous-automated-red-teaming-cart
 webUrl: "https://www.ibm.com/blog/how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "What Americans Know About AI, Cybersecurity and Big Tech"
+    excerpt: "Americans’ understanding of digital topics varies notably depending on the subject. For example, majorities of U.S. adults know what cookies on websites do and can identify a secure password, but far fewer can recognize an example of two-factor authentication."
+    publishedDateTime: 2023-08-17T15:43:00Z
+    webUrl: "https://www.pewresearch.org/internet/2023/08/17/what-americans-know-about-ai-cybersecurity-and-big-tech/"
+    type: article
+    provider:
+      name: Pew Research Center
+      domain: pewresearch.org
+    quality: 37
+    images:
+      - url: "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2023/08/PI_2023.08.17_digital-knowledge_featured-jpg.webp?w=1200&h=628&crop=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "e92plus digs deep with new cybersecurity vendor partnership"
     excerpt: "Cybersecurity vendor Deep Instinct and British distributor e92plus are partnering to expand reach of prevention-first cybersecurity approach with VARs, MSPs/MSSPs and CSPs. The vendor claimed that overall, the industry has failed to eliminate manual intervention and reduce the pressure on SOC teams so they can focus on higher value activities."
     publishedDateTime: 2023-08-16T11:37:00Z

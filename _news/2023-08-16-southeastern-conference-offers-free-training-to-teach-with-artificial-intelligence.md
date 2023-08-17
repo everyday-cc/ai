@@ -26,7 +26,7 @@ related:
     provider:
       name: Tech.co
       domain: tech.co
-    quality: 39
+    quality: 41
     images:
       - url: "https://images.tech.co/wp-content/uploads/2023/08/17043018/ai-training-courses.jpg"
         width: 1920

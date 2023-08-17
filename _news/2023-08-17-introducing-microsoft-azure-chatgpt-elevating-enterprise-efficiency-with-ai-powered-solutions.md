@@ -87,6 +87,20 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "LaLiga partners with Microsoft to infuse sports with AI innovation"
+    excerpt: "Globant, LaLiga, and Microsoft are partnering to create AI services for the sports industry. LaLiga and Microsoft have collaborated, who have teamed up in the"
+    publishedDateTime: 2023-08-17T15:41:00Z
+    webUrl: "https://www.onmsft.com/news/laliga-partners-with-microsoft-to-infuse-sports-with-ai-innovation/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 54
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Microsoft-LalIga.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft's AI First Movers programme helps LawVu speed contract processes"
     excerpt: "Tauranga-based legal software developer LawVu is one beneficiary of a Microsoft programme that is ​helping developers deploy generative AI."
     publishedDateTime: 2023-08-15T23:57:00Z
@@ -151,6 +165,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 34
+  - title: "LaLiga and Globant partner with Microsoft to create AI tech services for sport"
+    excerpt: "IT services giant Globant and Spanish soccer’s LaLiga are partnering with Microsoft to create a range of artificial intelligence (AI) services for the sports industry."
+    publishedDateTime: 2023-08-17T13:57:00Z
+    webUrl: "https://www.sportspromedia.com/news/laliga-tech-globant-microsoft-ai-tech/"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 30
   - title: "Doctors use Artificial Intelligence software to plan for the future"
     excerpt: "About 30% of U.S. doctors are approaching retirement age, but only 12% are choosing to retire. Why? In a financial environment struggling with inflation, advance preparation for retirement is necessary for all physicians seeking more comfortable golden years."
     publishedDateTime: 2023-08-15T15:46:00Z
@@ -161,6 +184,6 @@ related:
       domain: neworleanscitybusiness.com
     quality: 19
 
-secured: "FtpBO7bGXcFm7ocrBylxIHiyYofTEJ7+lltj5cRLk7+DAwU5Ckf4wN3gDGSTIBtMcIbLm+ZJKw6H/t0WrWqhRGYIoHbq8Pi8DLHzuvpycwRtV9RkwggkgHD1c+cm7RApZK8VPOy0TrWO9B8NXGnq1yQ0z6me2rMwQZ8CHyipJ98buuvkoHkfNxuXTy41Vp7xyUq12peY2KJ+L+evKgYtUk8gvgAU3EgFFFG5MrgoUiDgqmR4JkFgE/epMWTfI2N30Zl6DygIE0DPUZ9QLn2qhudGxSiXLs53I0muXfeQWhqdnYqbuMr2lQQnL0WpL9nWV2tFMCnR85x8euJ/avk5KXTuK+CKbaI2XRgUk6TsYv4=;Gqc6GWfGuD53fIl3q/sAog=="
+secured: "9wNWSK3Xc+iNqEECW7uqd3r/n+iH9V6BtuK8RnVlTIT3FLfUOnjbOekD+60zm3ki3CbvYgY3opDoyQF1DuQeVXS8HmxMA+ql228Cbn0ll4n8Hzu4Um9bxYSsInlutxXhInAy+a5VuZ+FXWsviI8kCDBhlsKl29xK1ktHpWig5XBYEyaHJ9djiE7AIWLZ+MSrr4ObDrI3fM8tESWcOeXR7ace0fhmoDR31+X3VRG5KX9XdlMfGKzsUZv/HxY/vxOeQAbB1hUEqeTELGbTboWZpIwjR3pONK1AQ69ABZCzfmaY+pIlDCawetuMyP9lDk+T+5FjU05tm6yok8+RL66HQRCZRLXDa422R8JHBymZxsVqhgBrxXHHoBlox1PN0RT6NEfCLWR1XkfgzWDfi1sQfyZu/yacbLY+3yYx+8a6HB+oq61lCYNrpAdPMgNOn/x0Sr08LwW+46y8/bfgCP1d15TUocEmqU9MUE7xjAnE5MNjG4UeWFO3Gm3nBCa22KiepCH1bfSITHf7K43t8c8p7Q==;WzVIWUtdNQJZTd4v7tl7vQ=="
 ---
 

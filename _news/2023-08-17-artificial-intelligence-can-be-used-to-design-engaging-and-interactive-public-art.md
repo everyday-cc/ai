@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Artificial Intelligence Can Be Used To Design Engaging And Interactive Public Art"
-excerpt: "Montréal's public art program attracts people to specific locations throughout the city, encouraging visitors to linger. This helps stimulate the e"
-publishedDateTime: 2023-08-17T00:15:00Z
-originalUrl: "https://menafn.com/1106871859/Artificial-Intelligence-Can-Be-Used-To-Design-Engaging-And-Interactive-Public-Art"
-webUrl: "https://menafn.com/1106871859/Artificial-Intelligence-Can-Be-Used-To-Design-Engaging-And-Interactive-Public-Art"
+title: "Artificial intelligence can be used to design engaging and interactive public art"
+excerpt: "This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the"
+publishedDateTime: 2023-08-17T14:35:00Z
+originalUrl: "https://www.winnipegfreepress.com/uncategorized/2023/08/17/artificial-intelligence-can-be-used-to-design-engaging-and-interactive-public-art"
+webUrl: "https://www.winnipegfreepress.com/uncategorized/2023/08/17/artificial-intelligence-can-be-used-to-design-engaging-and-interactive-public-art"
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Winnipeg Free Press
+  domain: winnipegfreepress.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://menafn.com/updates/pr/2023-08/16/TC_d6567image_story.jpg"
-    width: 960
-    height: 640
-    isCached: true
 
 related:
   - title: "AI can be used to speed up radiotherapy planning, says NICE"
@@ -40,6 +34,6 @@ related:
         height: 676
         isCached: true
 
-secured: "n6PdmDvN8yyvFRgdqRou6tJnKFipNT4WCawPgmCb1a2oN1qUFUFecfIBYm2EYvnrMiloqvks8rnm4/CqvBseoqhgi3WCuDmwwQq6i2MAVxgr2LvhJiHMYcjy91pJyihcelWtjIlHE2HBe+OpgMq+Pbzr7UDt9vwIZoWTkNyZhTWzlOsr/Dg5KwL4q1ymN1StUE9A+DvN+8RxTwZdfvrbNyS5IlDgvD9p67nvfQPx/CYH0FVIbJAyms2K795/WhQBuo8BVSoTtF7H+hUhBQKmOTNYOk2rtXEgVpcvk5kaSVdzR3z/y9RU+Wvg1UATXDlzdfXxVgcQykPCbn93YlVhjyItJBNFhaxn233wDyqCK9s=;9BY9lLKsibvooCh8UeHffw=="
+secured: "fSrc5G7f585jhfIWYwcZUi6qmQ7O1jV0yO3JttgRMV9N8shUUi3qKIOHQEazy2SdWUHJE+op7Z8dSipkGRuCS4PdRPSBiDW5Ot5eGI/273ocDHVA9M0Bv+fjaiKeT8KO3WT/x5b+PQcFmB1U7JccOgSPvTeZ1TyvPPm9Onq0BnoO2LATs+OWzrzHU1V0RE5vAUbwW0kGxBSQWWlS3kAw8XJAiC/7KeMtRyrFKwZA2SiH53BVNtubB31aiMLavfviBOojWF8nwxnFfGhxfTMV4U7fpM/jMCsaKPZurNRsdA7LUKsfM4gEGvZIQYS/lT8AaTPcYY1hP8Qk2czmjOe8dwFnwq5zSkghQIj0hWgWXoc=;dsCb3JH4n5VDLRGc0TQw1g=="
 ---
 

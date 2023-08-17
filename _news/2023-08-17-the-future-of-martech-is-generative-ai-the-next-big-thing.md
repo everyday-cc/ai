@@ -62,6 +62,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Navigating Change Management In The Era Of Generative AI"
+    excerpt: "To effectively navigate change management in the era of generative AI, companies must develop a deeper understanding of their offerings and customer expectations. This understanding will help them identify the areas where generative AI can provide value and where human interactions are indispensable."
+    publishedDateTime: 2023-08-17T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/17/navigating-change-management-in-the-era-of-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "From Startup Nation to AI Nation: Listening to Machines"
     excerpt: "Two Israeli companies are seeking to introduce the innovation of AI to industrial and energy factories, leading the traditional manufacturing sector towards a better future"
     publishedDateTime: 2023-08-15T16:27:00Z

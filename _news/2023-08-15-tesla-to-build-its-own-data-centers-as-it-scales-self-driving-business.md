@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla self-driving tech under microscope after another fatal crash"
-    excerpt: "American auto safety regulators have sent a team to investigate a fatal crash in Virginia involving a Tesla suspected of running on a partially automated driving system."
-    publishedDateTime: 2023-08-12T22:26:00Z
-    webUrl: "https://www.stuff.co.nz/motoring/300949230/tesla-selfdriving-tech-under-microscope-after-another-fatal-crash"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/6/6/m/2/image.related.StuffLandscapeSixteenByNine.1420x800.4z6dwu.png/1691879214608.jpg"
-        width: 1420
-        height: 798
-        isCached: true
   - title: "Tesla plans to roll out Full Self-Driving solution in China"
     excerpt: "Tesla plans to establish a local operation team of around 20 people to introduce its Full Self-Driving (FSD) solution into the Chinese market, according"
     publishedDateTime: 2023-08-16T09:55:00Z

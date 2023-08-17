@@ -60,22 +60,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Gartner Identifies Top Trends Shaping the Future of Data Science and Machine Learning"
-    excerpt: "Gartner, Inc. today highlighted the top trends impacting the future of data science and machine learning (DSML) as the industry rapidly grows and evolve"
-    publishedDateTime: 2023-08-17T08:08:00Z
-    webUrl: "https://www.albawaba.com/business/pr/gartner-identifies-top-trends-shaping-future-data-science-and-machine-learning-1530815"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/gartner-identifies-top-trends-shaping-future-data-science-and-machine-learning-1530815"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/gartner-identifies-top-trends-shaping-future-data-science-and-machine-learning-1530815"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 52
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-08/unnamed%20%2830%29.jpg?itok=nk7yLJrq"
-        width: 1270
-        height: 692
-        isCached: true
   - title: "Gartner Hype Cycle places generative AI on the ‘Peak of Inflated Expectations’"
     excerpt: "Gartner Hype Cycle for emerging technologies placed generative AI on the 'Peak of Inflated Expectations' for the first time."
     publishedDateTime: 2023-08-16T18:49:00Z
@@ -103,6 +87,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 13
+  - title: "Gartner Identifies Top Trends Shaping The Future Of Data Science And Machine Learning"
+    excerpt: "As machine learning adoption continues to grow, DSML is evolving from just focusing on predictive models to a more democratized, dynamic, and dat"
+    publishedDateTime: 2023-08-17T12:25:00Z
+    webUrl: "https://menafn.com/1106876895/Gartner-Identifies-Top-Trends-Shaping-The-Future-Of-Data-Science-And-Machine-Learning"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 12
 
 secured: "uuAdWSAKqHJymD2KtEirIKN/Cp/f6e+Bub4s8No15R8HGtB/ZB2cyqdzd95uTEJW96zq2aZxParcaxAgOWbcWiJddkWVoIHiOnn0ZGhFefWwBogqNZuYzNdJJ8zBrm8nlE/X0L5ymb1OdJ4HtOLxKmJ/sLJ6FWMfPkvD0A2QXaWCHe4BqVtwsKiZJ7Zb60KwqIN92ux+9wChwOlDZ3HCoYJ/COsNcYThmZUa0Fx7stUNUmk3UdLnef1nq6OfI4hBr1YJ/YxE4c/ClrRL+BqJKuk4fvmkhc91VpXAKB5Rc9akHlJNlrKPmMrxKS3U63i1iiouaZ13+z1+2B6L9KLzlFxyDZ08S7KgUFXfHfv8aAvbk1J45ar3CML7OahAv4z+3SEuWFouiWzSTWA7llzoctbYcoKPFLC/FbMbQC0zEuRr8s8BoHx2zUpNLuZHaaXAPPStBc/6ym2p5wjU5TyC/p59RI42fr9PBZo+ufBtGIMWaqXCnlid11atRG6SUZKyg+59gVCRE4PNflBBRfTH2w==;dZW6oRgEgkKVE3LoiP2yzg=="
 ---

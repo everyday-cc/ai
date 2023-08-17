@@ -2,9 +2,9 @@
 category: news
 title: "App Science Announces New AI Feature Within Its Insights Analytics Dashboard"
 excerpt: "The new AI feature is available immediately and in use currently by App Science clients. To learn more about the capabilities of App Science Insights and how it works, visit https://www.appscience.inc/solutions/insights."
-publishedDateTime: 2023-08-16T12:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/08/16/9865492.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/08/16/9865492.htm"
+publishedDateTime: 2023-08-16T11:42:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/16/9865492.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/16/9865492.htm"
 type: article
 quality: 36
 heat: -1
@@ -53,16 +53,7 @@ related:
         width: 1080
         height: 969
         isCached: true
-  - title: "Top 10 Alternatives to GPT-3 – Analytics India Magazine"
-    excerpt: "GPT-3 has 175 billion parameters, making it one of the largest language models ever created. It can generate human-like text and perform a wide range of tasks, including translation, summarisation, and even writing codes."
-    publishedDateTime: 2023-08-12T19:41:00Z
-    webUrl: "https://www.inferse.com/677595/top-10-alternatives-to-gpt-3-analytics-india-magazine/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 4
 
-secured: "NdyRlpN09MQqpCh7g1YUGzg6N851P94yu1Qqx0MiuhAfc6mt3Wynvbqgai5cUxAoOj523Wqbpd0JAjRO4sfIOIH9XvehDE2uotCoStku6quvXTZqCdWuPcpfi+fbTPjvVORmAe0Er2pzaaj5bkTtRcCnWUs2k5jzOftlCseXnMBwHZM94fPeY1cfVfYBBU6qrZor7EPPAuA3w6Cl6ro23oruAsrNaLzvaZTxDtAjrL6zciaJx+oQCPjHuqdR7v1hrmj+3HCEa38OSAHe5PEwlAbooZOpCgD72aJ+1S/y49fjjF9XVUInZVM8rZg4fpuQ1VznDt8dLeg555SzGfq9MXy0iC78MQBv5yHNIvURsBU=;Gxjg2DMABfdmK6lF8fCuXQ=="
+secured: "cxsZpE3Lluke8sbmGeUKT2SXoaJ1M4LTlIEWMB9DkzlbUY3ghzc2zDp5miz/A7gHZ8QMgqmmkc+jy5nQG9MYTrPW6Bq4Xuv8Zrbg/M8lQQLyJkERqWQti/AhkTczM1EbE5AfqZIiOVKluzi0CfMy9l20VIh3TGwQ6szREuOICMTyEQ8y/L7ZF7GyRpHE6A9NAnJpyxnp9JLB4vmmkB5ggtHKYhXfWKhA8fKySq0K7LK6Ze4QtCw94KzGCoRTbuwpqWpqYgt1aG36F3l1i+8DmGtez/e3GqQvOHxyElN22pOOGme+6GGtYzbcPHP2OTvhx9wTnehlqFQVnOdz/NLJ14u4GEeGhYTtValHEUz/lcA=;yK2QZiBhnIo6ImqarqJf4w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-c
 webUrl: "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/"
 type: article
 quality: 94
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
       name: WUWM
       domain: wuwm.com
     quality: 16
+  - title: "Today in AI: Alternatives to ChatGPT, Google adds translation to Gmail and more"
+    excerpt: "That popularity comes with a cost though; despite OpenAI's best efforts, the servers for the chatbot are often stormed with users, resulting in long queues as you wait your turn. The paid subscription alleviates this problem by giving you 24x7 access to the bot, even during peak times, but what if you don't want to pay?"
+    publishedDateTime: 2023-08-17T13:26:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-alternatives-to-chatgpt-google-adds-translation-to-gmail-and-more-11211181.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 15
 
 secured: "icsl1JocncQqOOMtdOYqeslAf4VQHZRnYfMrj4TZBQMkVXy8Bnc603UmcsGeeOKJW6N69uO36fTKNesL1YjG8ebSSjy1TMiqGVhL640rDb/gRmGuSY39mO08HaRYeRNcu4kU5ffUu+DTY6DP/NEyHuiKecPJj2GtWr/rTK+Rj69uvV2s7o215qOX1kyFan8VQ4JTJzN3xeFezdB/4LdEV1aXRPLqpC/yn0ZJIXN4s+RDmt/akQiMpFhu1vkoatdTXwWa2F8DWejjYMipmLifp9Hh5ObvDGa7wEiuLnFL2xK70dj4mCE6cNCzqgAALEW/sFv/09KD6V7bYtaNy2n8IpVzmrCGqXf7uRQGiIsMc98=;pk9CafCzuwtoh2QOAPYhuA=="
 ---

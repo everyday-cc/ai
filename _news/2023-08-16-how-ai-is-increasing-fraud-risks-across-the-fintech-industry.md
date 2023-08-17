@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/amp/"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Saasant: Transforming Finance – How Fintech Automation Reshapes the Accounting Industry"
+    excerpt: "Fintech Automation is reshaping the accounting industry and propelling us into a future where efficiency, accuracy, and speed are crucial.DE"
+    publishedDateTime: 2023-08-17T08:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/saasant-transforming-finance-–-how-fintech-automation-reshapes-the-accounting-industry-1032561444"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
   - title: "Fintech Summit to highlight banking industry innovation"
     excerpt: "Global leaders in technology and banking are returning to Little Rock this week for two days of speed-dating-like meetings and open sessions that connect bankers with financial technology companies offering innovative services."
     publishedDateTime: 2023-08-13T07:14:00Z
@@ -149,15 +158,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Exploring the Future of Fintech: AI and Blockchain Transforming Financial Services"
-    excerpt: "The Fintech industry is experiencing rapid evolution, driven by emerging technologies and changing consumer needs. In a conversation with Karthik Thenkarai, Co-founder and Director of Paycorp.io, we d"
-    publishedDateTime: 2023-08-16T06:28:00Z
-    webUrl: "https://www.pcquest.com/exploring-the-future-of-fintech-ai-and-blockchain-transforming-financial-services/"
-    type: article
-    provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 13
   - title: "Enhancing sandbox programs to aid commercial deployment of fintech innovations in Africa"
     excerpt: "Financial technology (Fintech) innovations are becoming the mainstay of the global financial sector and user responses to these innovations have been remarkably positive and embraced at an unprecedented scale."
     publishedDateTime: 2023-08-15T11:10:00Z
@@ -166,6 +166,15 @@ related:
     provider:
       name: Ghanaweb.com
       domain: ghanaweb.com
+    quality: 10
+  - title: "The Role of Artificial Intelligence in Fintech: Revolutionizing Financial Decision-Making"
+    excerpt: "Prepare to witness the dawn of a new financial era! A groundbreaking revolution is underway, reshaping how we approach financial decisions, all thanks to Artificial Intelligence (AI). Within the realm of Fintech,"
+    publishedDateTime: 2023-08-17T13:43:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-fintech-revolutionizing-financial-decision-making/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
     quality: 10
   - title: "FinTech Magazine’s Top 10 companies in APAC"
     excerpt: "Keep scrolling to learn more about FinTech Magazine’s Top 10 fintechs based in APAC."

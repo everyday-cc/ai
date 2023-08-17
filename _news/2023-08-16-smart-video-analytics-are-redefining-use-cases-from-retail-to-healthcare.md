@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/smart-video-analytics-are-redefining-us
 webUrl: "https://venturebeat.com/ai/smart-video-analytics-are-redefining-use-cases-from-retail-to-healthcare/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -31,8 +31,8 @@ images:
 related:
   - title: "App Science Announces New AI Feature Within Its Insights Analytics Dashboard"
     excerpt: "The new AI feature is available immediately and in use currently by App Science clients. To learn more about the capabilities of App Science Insights and how it works, visit https://www.appscience.inc/solutions/insights."
-    publishedDateTime: 2023-08-16T12:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/16/9865492.htm"
+    publishedDateTime: 2023-08-16T11:42:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/16/9865492.htm"
     type: article
     provider:
       name: TMCnet
@@ -57,15 +57,6 @@ related:
         width: 1080
         height: 969
         isCached: true
-  - title: "Top 10 Alternatives to GPT-3 – Analytics India Magazine"
-    excerpt: "GPT-3 has 175 billion parameters, making it one of the largest language models ever created. It can generate human-like text and perform a wide range of tasks, including translation, summarisation, and even writing codes."
-    publishedDateTime: 2023-08-12T19:41:00Z
-    webUrl: "https://www.inferse.com/677595/top-10-alternatives-to-gpt-3-analytics-india-magazine/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 4
 
 secured: "p1nSCoYXPB2/yRgSfVzhNZaDcKfdsoqjOh/DyKyMYfiCd6DNd+GoFCC/1HZ9s3h58OD/7q04XUB4sP7j87vKa7LAWBKIefhNNrNYNRNbpIGR86TwmBeyKXvH6NeqJy4BWvir40GXpkrb5gzYGejwCVF1ZSF5X15vYyOr4zk8a0K5Q/O8IaKQWbG0JxhGUU5hAA6RjTW6KyUVMtmG2sq5HN5oLQWGruP1H0uemNRjpprO8qn1+rph5lSCrjWrdSAuaP0LIMGr5daxVklonQ8N89JlWH5We526R+jvVvddSd3Hngxu0JUbdqwhmJVX+GagpUVWQO7UaD6dJsziCpe1r3mNYEG+dAkdGKhol4tmPSIBQz2HF2zgM9HCO4XkwSN3Uo2pI789rKTwoEVvwUPMxaBg5FfEGaH6NlLS7+l0sRFQCik19eoReBjqSZUpJohwjAQ9nge2mQ74G/owj/mnRLi1ci3CkSFYKLbYazEpikddzcnu7Ype8eGV84QHbahkLrBziwEhw2gWYCBCedqhuA==;MAAq31byn2Fif+x+J7K7mg=="
 ---

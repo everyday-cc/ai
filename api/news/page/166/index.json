@@ -2,6 +2,145 @@
   "page": 166,
   "value": [
     {
+      "path": "_news/2023-05-03-automated-machine-learning-automl-market-analysis-and-forecast-to-2031.md",
+      "title": "Automated Machine Learning (AutoML) Market Analysis and Forecast to 2031",
+      "excerpt": "May 03, 2023 (The Expresswire) -- \"Automated Machine Learning (AutoML) Market\" is expected to witness significant growth in the coming years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-and-forecast-to-2031-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-and-forecast-to-2031-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-baltimore-city-council-to-consider-restrictions-to-facial-recognition-and-surveillance-that-would-be-first-test-of-local-police-control.md",
+      "title": "Baltimore City Council to consider restrictions to facial recognition and surveillance that would be first test of local police control",
+      "excerpt": "Baltimore’s use of surveillance and facial recognition technology would face new restrictions under legislation introduced Monday by Councilman Kristerfer Burnett. The twin proposals ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.baltimoresun.com/politics/bs-md-ci-baltimore-council-surveillance-facial-recognition-20230502-i2bh36ll5vgr7kyp3ue35iznbu-story.html",
+      "originalUrl": "https://www.baltimoresun.com/politics/bs-md-ci-baltimore-council-surveillance-facial-recognition-20230502-i2bh36ll5vgr7kyp3ue35iznbu-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer//RErTxFLSFFfAXzhgOnTBj80LEMk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/XEZZN4Y6WZC2TMT3MM6MBQR734",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T19:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-center-for-deep-learning.md",
+      "title": "Center for Deep Learning",
+      "excerpt": "The Center for Deep Learning’s (CDL) mission is to act as a resource for companies seeking to establish or improve access to artificial intelligence (AI) by providing technical capacity and expertise, allowing the center’s members to achieve proof of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mccormick.northwestern.edu/research/deep-learning/",
+      "originalUrl": "https://www.mccormick.northwestern.edu/research/deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mccormick.northwestern.edu/research/deep-learning/images/logos/anthem-440x248.png",
+          "width": 440,
+          "height": 248,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mccormick.northwestern.edu",
+        "domain": "northwestern.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-deep-learning-pioneer-geoffrey-hinton-has-quit-google.md",
       "title": "Deep learning pioneer Geoffrey Hinton has quit Google",
       "excerpt": "Hinton will be speaking at EmTech Digital on Wednesday. Geoffrey Hinton, a VP and engineering fellow at Google and a pioneer of deep learning who developed some of the most important techniques at ...",
@@ -1004,153 +1143,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-landing-ai-announces-the-worlds-first-validation-ready-computer-vision-software-for-fda-regulated-manufacturers.md",
-      "title": "Landing AI Announces the World's First Validation-Ready Computer Vision Software for FDA-Regulated Manufacturers",
-      "excerpt": "\"AI, starting with computer vision, is a game-changing tool for medical device, pharmaceutical and life sciences industries, and we'll see rapid innovation in the coming years,\" said Andrew Ng ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/landing-ai-announces-the-worlds-first-validation-ready-computer-vision-software-for-fda-regulated-manufacturers/article_1193883f-c73d-550c-b11e-e36827805b2c.html",
-      "originalUrl": "https://www.victoriaadvocate.com/landing-ai-announces-the-worlds-first-validation-ready-computer-vision-software-for-fda-regulated-manufacturers/article_1193883f-c73d-550c-b11e-e36827805b2c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/9/89/989f9cf4-43ac-5f44-8296-4db5b93b41bb/64510611dad8d.image.jpg?crop=1259%2C661%2C0%2C177&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-microsofts-work-trend-index-employee-engagement-pays-off-in-productivity-stock-price.md",
-      "title": "Microsoft’s Work Trend Index: Employee engagement pays off in productivity, stock price",
-      "excerpt": "This Microsoft Work Trend research report details the benefits of using a feedback flywheel to keep employees engaged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/microsoft-gef15b3e66_1280.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/amp/",
-      "publishedDateTime": "2023-05-02T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-best-fintech-app-development-companies-in-the-usa.md",
-      "title": "Best Fintech App Development Companies in the USA",
-      "excerpt": "Fintech app development services are known to develop diverse fintech apps. The introduction involves creating",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

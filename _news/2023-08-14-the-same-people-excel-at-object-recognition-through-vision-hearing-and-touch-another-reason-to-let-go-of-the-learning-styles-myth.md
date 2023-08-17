@@ -35,6 +35,15 @@ related:
         width: 1280
         height: 1239
         isCached: true
+  - title: "WiMi is Researching Edge Detection Algorithm Based on Deep Learning and Image Fusion"
+    excerpt: "The algorithm is widely used in the field of computer vision due to its high accuracy and robustness, for example, for object recognition, video analysis, image segmentation, automatic driving, medical image processing and so on. In the future, WiMi will ..."
+    publishedDateTime: 2023-08-17T12:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-is-researching-edge-detection-algorithm-based-on-deep-learning-and-image-fusion-1032562985"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "oT47rs6vwFciiqqBlDgprjOm8J5qHtBg+UVB7YnvukMBZwJgXhOX7s0bmr8tQlr6etYOYZUPz542tR8/EObXX5CeuBdAZECy1mAd2JR9YEgEhUH9wqmOYybDiB/Nb6p6W5rD8qN6X3knoI7wlPnD6f9tu2aET/jpzeU8fJYMBp6XiZjAX4ssHC5b9ykkDgVES+6Jq2J+5bKiF9cjrMjIzF2JVHipcKTqLk31MyaYSWDK9fQCaxn1QrmvaGK05RHBEVfS70KJRxvuM6/2xfVXDBoyA+bmMuuvK38zquiteU8+cMTKN5UjL7sMpT44Qq4IxTGDaIetq6zF5SkhYk9NvJ6GkzjeCASHO1eUPJfe2b5IppSC/HG3na+5HkxQW2ituWpQNmca01mR5s+5UTf4UvKnbp+VFa7uYkB5fIAPGajNLnvAMIYJNCEDcUMaAj5iMJKf8mVvLKcioRz2W6hAvnlTonVN26C0nGP+9LW0ttOdmjiJtYIkkScjit5AlUe1tsei2J7cfl01A7seaDYPqQ==;0IBVBi8O3d1EM6H/zp5tcA=="
 ---

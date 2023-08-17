@@ -41,22 +41,6 @@ related:
         width: 640
         height: 457
         isCached: true
-  - title: "Combining AI and traditional methods can help us predict air quality"
-    excerpt: "Combined models will be more accurate ways to forecast hazardous air quality, particularly during unpredictable events like wildfire smoke."
-    publishedDateTime: 2023-08-12T23:00:00Z
-    webUrl: "https://www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/"
-    ampWebUrl: "https://www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/ai-wildfire-air-quality-tracking-methods/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/08/11/My-project-2023-08-11T114827.562.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "CVYPexOoHUFSujOpEHDQUl3Geg/fx3bBG/zTlQSkd2xvpux8zPStTbQP6yJbqvOoXZmXsoLmnFHj9tf1o9wCdJYkuqmyY+SIbjOjfa9tMrPyBnP3smCoGtVHbqjgyx5nJ5PQ7IYgIcaw39MWbznWwBCaGB/HpxOb6L8UtYBIJ/qYdBJglEGwg9me6T4EroILJBTDUZc8He54YBWvT5897fleSBoKjUmJFIF40TRumpYiqOAlu9YM/mLuXPHAYMRx//DM9TGhYkQrBjXSBv5So5eZ1We6kNBIa3uhJ445SqXAdgPv3aBzobBrPpgq2ECkR8wuZSPemBPcWGfw44xjoF7Lw8dKgcwZrav3toUkgx0=;a9f3ZoK5QdbhdWsLNkGx6w=="
 ---

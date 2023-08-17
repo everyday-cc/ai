@@ -68,6 +68,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why Your Business Needs A Winning AI Strategy (And How To Build One)"
+    excerpt: "Part of the challenge is the countless applications for AI within a business, and it’s often difficult for business leaders to determine where to start. Without a proper roadmap that looks for automation opportunities across the entire value chain ..."
+    publishedDateTime: 2023-08-17T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Lunch and Learn event helps businesses adapt to AI"
     excerpt: "The panel featured a trio of presenters, all experts in startup AI-focused businesses. \"Change is coming and I really want local businesses to shift from being threatened (by AI) to being the threat,\" said chamber member Aaron Smothers, the chief ..."
     publishedDateTime: 2023-08-16T03:49:00Z
