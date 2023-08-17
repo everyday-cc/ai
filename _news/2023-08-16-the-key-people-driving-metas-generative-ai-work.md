@@ -74,15 +74,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
-  - title: "Dialpad integrates generative AI across its call center suite"
-    excerpt: "Cloud communications provider Dialpad Inc. is continuing its aggressive rollout of artificial intelligence capabilities with today’s launch of DialpadGPT, which it describes as a domain-specific large language model that’s tailored to the needs of customer service, sales, and recruiting operations."
-    publishedDateTime: 2023-08-15T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/15/dialpad-integrates-generative-ai-across-call-center-suite/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "HZ3Fi8NFJFklmiexwwAeNxlT618VvZayPahT5rtUE98MtVf79LbkigACku5mB8nm76/xdsULsO97dQv2idJzdaqTk3+NP5rfSZNbaklNLZC3zBjAKCX4f0dSjc30CU4FlvIIZbMkYgrRBBiG338N3ehgSS2SDkyG1C0Layhs5QZ0k2VmIPoA/twBLbp7vSJSu4WYsIrcWShGZ4qZzHBDcOqiIF9UxpayOqc5/RMcQI9IroBDxNwkVh6W1F7iAHBkUfJ2lRSs0I2sKpD6ASPIzoJAjKwROxtx2mrk7Y/tys5qifz/iSE93r5SP1DVrIX+Dh3uBoZuCPGVM+6/0wu78IyI3ruvyZoAXtNOVO1WFYvFmkW2FE5ldG9goKI1+4fXWBmG+KR6DheWkKHsLIwAWHU1U++VDC+mweglFWx2bbqt5jt8VvIqyawQpiD4tLZKttsAdoE1y7kOszopK1v3q9y/rjB8jxDu08dJ7dAWaiv1vaSj75UV7oNXy7wrkvvTKyZY7Z94gwRfTX+LxEjHzA==;omEfANzjSQR/cA27c9/peg=="
 ---

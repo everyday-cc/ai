@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Cape Town Welcomes Amazon Web Services (AWS) Skills Center"
+    excerpt: "Amazon Web Services (AWS) has further extended its commitment to democratising access to cloud skills training with the inauguration of its first international AWS Skills Center in Cape Town, South Africa."
+    publishedDateTime: 2023-08-17T10:37:00Z
+    webUrl: "https://ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/"
+    ampWebUrl: "https://ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/?amp=1"
+    cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/?amp=1"
+    type: article
+    provider:
+      name: Ventureburn
+      domain: ventureburn.com
+    quality: 74
+    images:
+      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2023/08/download-min-1.png"
+        width: 2640
+        height: 1486
+        isCached: true
   - title: "First international AWS Skills Centre Opens In Cape Town"
     excerpt: "Members of Parliament joined AWS executives in highlighting the value of cloud skills training to prepare South Africa’s workforce for the future. As part of the grand opening ceremony, AWS invited local community leaders,"
     publishedDateTime: 2023-08-16T16:10:00Z

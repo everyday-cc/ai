@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357208"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357208"
 type: article
 quality: 74
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://img3.yna.co.kr/etc/inner/EN/2023/08/11/AEN20230811000854315_17_i_P2.jpg"
         width: 500
         height: 304
+        isCached: true
+  - title: "South Korean Gov't to develop data centers with domestically made AI chips"
+    excerpt: "The South Korean government has revealed plans to develop two data centers using domestically made artificial intelligence (AI) semiconductors, as well as increasing funding for semiconductor products."
+    publishedDateTime: 2023-08-17T10:31:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/south-korean-govt-to-develop-data-centers-with-domestically-made-ai-chips/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 52
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/GettyImages-1266604898.2e16d0ba.fill-1200x630.jpg"
+        width: 724
+        height: 381
         isCached: true
 
 secured: "CqYmp2rSd+SjOkWVdFVDtHSSIpJdD8/6xPEZ8wrnzXkQvSCsfWnIE9EtESiBlddzO+EMf92K2oONJBa4PvjwbpuBv403U2vxl86QHyi1H3JPWz6kzjmc2qYS0XNF75JKg2O2/KrPLEi/LRqFnK2G21r+qxUnmFQ3EHbenE1rTLn0WLPrkWQM6N0QFVDFwLmczd++4v49QvoAUJa9WX1BkF0LGHWB7Q+68lLC7w9/b96i6NXSAZ/hMoUfdRnZSytkUtL2IJQW4LM+ra+1dtJi709UEW4pcbfRFgebc6a3UZYAMJMF87jJXlsdKDfPu/EAi9l3/9V6HLIZhcjSY4s8Uz7rCHXYbfY57iH2NHVN5HU2u4+on5/BYg23Fn5dh2fTl3zxN1dC9rGyiLb1EFeNd4F/+Rx4S7OwW/aYsFxMvga8GEi39GD3G6DlTcAI9PoKaEHvb3eIqbkCOvanXlvHIJZJzxjruaOcv9fEYAVJYcs6CssULJNjyvQR0PQOU0IVkZNzL9J/xDPE4WyAUh4xNQ==;mDgWGCLgtsGeJ/Fzm/yJtQ=="

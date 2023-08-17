@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Robotics
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/07/RTSFOQ2E.JPG?itok=ClwbWM-A"

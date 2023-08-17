@@ -55,9 +55,9 @@ related:
         height: 962
         isCached: true
   - title: "Quanta sees AI as future growth driver"
-    excerpt: "Quanta Computer expects its future operation and profitability to be majorly driven by the AI business and in addition to servers and automotive AI chips, the company has also been keen on developing medical solutions and formed technology transfer collaborations with hospitals in Taiwan to develop an AI electrocardiography (ECG) platform."
-    publishedDateTime: 2023-08-17T02:42:00Z
-    webUrl: "https://www.digitimes.com/news/a20230816PD212.html"
+    excerpt: "Quanta Computer expects its future operation and profitability to be majorly driven by the AI business and in addition to servers and automotive AI chips, the company has also been keen on developing medical solutions and formed technology transfer.."
+    publishedDateTime: 2023-08-17T10:27:00Z
+    webUrl: "https://www.digitimes.com/news/a20230816PD212/quanta-ai-applications-healthcare.html"
     type: article
     provider:
       name: Digi Times

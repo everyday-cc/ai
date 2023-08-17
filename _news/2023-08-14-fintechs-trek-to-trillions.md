@@ -131,6 +131,20 @@ related:
       name: Traders Magazine
       domain: tradersmagazine.com
     quality: 19
+  - title: "Canadian fintech investment drops to pandemic-era levels in the first half of the year"
+    excerpt: "CNW/ - Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since"
+    publishedDateTime: 2023-08-17T11:00:00Z
+    webUrl: "https://www.newswire.ca/news-releases/canadian-fintech-investment-drops-to-pandemic-era-levels-in-the-first-half-of-the-year-806246580.html"
+    type: article
+    provider:
+      name: Newswire
+      domain: newswire.ca
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/2187873/KPMG_LLP_Canadian_fintech_investment_drops_to_pandemic_era_level.jpg?p=facebook"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Exploring the Future of Fintech: AI and Blockchain Transforming Financial Services"
     excerpt: "The Fintech industry is experiencing rapid evolution, driven by emerging technologies and changing consumer needs. In a conversation with Karthik Thenkarai, Co-founder and Director of Paycorp.io, we d"
     publishedDateTime: 2023-08-16T06:28:00Z

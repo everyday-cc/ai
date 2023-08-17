@@ -25,29 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "PWSA Customers Receive Faster, More Efficient Response to Emails With Machine Learning Technology"
-    excerpt: "'Technology improvements are an essential part of PWSA's transformation to becoming a best-in-class water utility,' said Will Pickering, PWSA's CEO. 'Solutions like the machine learning model and the Customer Advantage portal demonstrate our investment in the customer experience and use of technology to enhance customer service.'"
-    publishedDateTime: 2023-08-16T20:16:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273934082/pwsa-customers-receive-faster-more-efficient-response-to-emails-with-machine-learning-technology"
+  - title: "Speech AI Startup Contiinex Bags Funding To Help Businesses Enhance Customer Experience"
+    excerpt: "Founded in 2020 by Prateek Mehta and Vijay Krishna BS, Contiinex operates in the speech AI segment. It analyses voice files and helps businesses understand their customers better"
+    publishedDateTime: 2023-08-17T10:00:00Z
+    webUrl: "https://inc42.com/buzz/speech-ai-startup-contiinex-bags-funding-to-help-businesses-enhance-customer-experience/"
+    ampWebUrl: "https://inc42.com/buzz/speech-ai-startup-contiinex-bags-funding-to-help-businesses-enhance-customer-experience/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/speech-ai-startup-contiinex-bags-funding-to-help-businesses-enhance-customer-experience/amp/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 41
+      name: inc42
+      domain: inc42.com
+    quality: 49
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1692199349832.jpg"
-        width: 630
-        height: 420
+      - url: "https://cdn.inc42.com/wp-content/uploads/2023/08/AI-Chatbot-Web.jpg"
+        width: 1360
+        height: 1020
         isCached: true
-  - title: "Pittsburgh Water and Sewer Authority: PWSA Customers Receive Faster, More Efficient Response to Emails With Machine Learning Technology"
-    excerpt: "PITTSBURGH, PA / ACCESSWIRE / August 16, 2023 / Pittsburgh Water and Sewer Authority (PWSA) has revolutionized its customer service by leveraging cutting-edge machine learning technology to expedite and enhance email communication. Receiving Fast Support ..."
-    publishedDateTime: 2023-08-16T19:54:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59870859-pittsburgh-water-and-sewer-authority-pwsa-customers-receive-faster-more-efficient-response-to-emails-with-machine-learning-technology-200.htm"
+  - title: "AI can help small businesses, startups boost search traffic"
+    excerpt: "Generative artificial intelligence tools are becoming force multipliers for small businesses and startups that need to create content quickly to further their business strategy."
+    publishedDateTime: 2023-08-16T15:00:00Z
+    webUrl: "https://www.aol.com/ai-help-small-businesses-startups-120032296.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 2
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/1YaxuBnCyp8QFfZblgudlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/cec74b80e91cbce4e7bfaf232fceba7f"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "NJbnIFv5R/YeKJwithAEB/ZE4/2kt41W5sXzDroxWi1aGbg+UJ5wnzJsMNvOiawSWPWMcedJgrM9ezyieYomZXekceIZww7z/BNd2LeqIde+OLvtB6T6m2PAscHoYv1xBjzxUTAwISFJjUHTx8lsX45zRj9xS/MGw7VEKHZ8wZqgmQybeVTSxjVuN1R12QbYTRUVu3182PiY9TSb9nMD3Lw6Zm0ikFpX3WG70MV5yrAksIlR8LJxD0Kri4Du2swMhq49Owx/WvSMtwR1bE4Ih2yBUvtn2gyzpeAPQxWw/drelc8EN13d8tXssWgVnR41OQSuHARMSRPhu52vHqH06FH8TZDE3Ctg04vNxPre5lgRXz8BeObth+71ApQxGnjsQHoDfHT2vlUJfxfx/kUgWCz1MjhsQDmJkyVeV6JCBgxfWanfv/Gr7U2ytHL8r+kLh9oFlWJEEMACdkXwrsT91wNJXNaB5nNGiQbZVm8t/rWEY5ytS+9UYT4I7ZPdV3xPdIiLD4vwvcQMacM9wNx3nw==;a2p/sVZKWzzYBN7O6sUrpQ=="
 ---

@@ -139,6 +139,20 @@ related:
       name: Traders Magazine
       domain: tradersmagazine.com
     quality: 19
+  - title: "Canadian fintech investment drops to pandemic-era levels in the first half of the year"
+    excerpt: "CNW/ - Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since"
+    publishedDateTime: 2023-08-17T11:00:00Z
+    webUrl: "https://www.newswire.ca/news-releases/canadian-fintech-investment-drops-to-pandemic-era-levels-in-the-first-half-of-the-year-806246580.html"
+    type: article
+    provider:
+      name: Newswire
+      domain: newswire.ca
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/2187873/KPMG_LLP_Canadian_fintech_investment_drops_to_pandemic_era_level.jpg?p=facebook"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Enhancing sandbox programs to aid commercial deployment of fintech innovations in Africa"
     excerpt: "Financial technology (Fintech) innovations are becoming the mainstay of the global financial sector and user responses to these innovations have been remarkably positive and embraced at an unprecedented scale."
     publishedDateTime: 2023-08-15T11:10:00Z

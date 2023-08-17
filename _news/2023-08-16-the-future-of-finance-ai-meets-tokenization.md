@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tok
 webUrl: "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -29,20 +29,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "From Startup Nation to AI Nation: Listening to Machines"
-    excerpt: "Two Israeli companies are seeking to introduce the innovation of AI to industrial and energy factories, leading the traditional manufacturing sector towards a better future"
-    publishedDateTime: 2023-08-15T16:27:00Z
-    webUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-listening-to-machines/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 37
-    images:
-      - url: "https://static.timesofisrael.com/blogs/uploads/users/ami-appelbaum1692115798-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "S324fa5cCNHBaLEkWGhsxZpbkvd+YBLPiV4kyO3ddTBg0k/JZNKFVGfDC5AqmRc0b7eQyWzdtVK4xXoBx8UGSBDs/xMUvqZTyiVeAZKPe7VLFXaBms949763lmWM/4gWLLmCJ4cM9m13hCZyAMZf+dyh07YlDH7HbkbUftYVVO6jhCj2YjC9ZxFPbpjSZT7VJUAsniJK6NWiK5nH3zdetSgFDqRG9UrURyuIdXke27PclVJx8r1+XdRh+DNeX7jBCMLt7pjIyCyccY6iiN0SMVv7aTTvlM/bbaTe2rAWL2uOOq+XPjI44LVnDu3IaHzLM8O3DNXVn4sxv4q0fgJEakNz/rvtPoWQdLgs1Vjw8Q7m59l/x1g7DRgccCxXIMXvaLQ4aSOU2Rkfj2I7C1f9DohTsMAcDK7Ec1mZkSXX9VXzNTSdl+GS79ECu2kNc+9TehJ6pdCbYvEXkNo+1EcfI/Z8pl0Qf8k3CYuqvi2E2VqBckdja88QOb/GQryhDfhE/fRUr4gv0B9bCupKtAx01A==;ZKR2mztfvo0pd2G9D7v59w=="
 ---

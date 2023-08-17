@@ -2,19 +2,19 @@
 category: news
 title: "Snapchat users freak out over AI bot that seemingly had mind of its own"
 excerpt: "Snapchat users were alarmed on Tuesday night when the platform's artificial intelligence chatbot posted a live update to its profile and stopped responding to messages."
-publishedDateTime: 2023-08-16T15:19:00Z
-originalUrl: "https://www.wmur.com/article/snapchat-ai-bot-users-freak-out/44830032"
-webUrl: "https://www.wmur.com/article/snapchat-ai-bot-users-freak-out/44830032"
-ampWebUrl: "https://www.wmur.com/amp/article/snapchat-ai-bot-users-freak-out/44830032"
-cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/snapchat-ai-bot-users-freak-out/44830032"
+publishedDateTime: 2023-08-16T15:59:00Z
+originalUrl: "https://www.wjcl.com/article/snapchat-ai-bot-users-freak-out/44830032"
+webUrl: "https://www.wjcl.com/article/snapchat-ai-bot-users-freak-out/44830032"
+ampWebUrl: "https://www.wjcl.com/amp/article/snapchat-ai-bot-users-freak-out/44830032"
+cdnAmpWebUrl: "https://www-wjcl-com.cdn.ampproject.org/c/s/www.wjcl.com/amp/article/snapchat-ai-bot-users-freak-out/44830032"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: WMUR
-  domain: wmur.com
+  name: WJCL
+  domain: wjcl.com
 
 topics:
   - AI Ethics
@@ -26,6 +26,6 @@ images:
     height: 677
     isCached: true
 
-secured: "QG7HooZbRzK89wpz7rQYbFeUdOyEaEKQsgN3iDM9l5wlZA2AEHkTJ2PSle8PKgzM0I0FAWlKrl+Oaz6eDq4TQRuGuZhvDSCRD7H0u8KZwj/q4wgIkXokiBCtm84//3oB2ey5CLpcCSbOKqpECJwDTKs3CqtZwzYcV9lGCPj/gzmDot8IOYnh1VU3pVRBl6rSNlmFwM4suaRzKWAuxFRK2pcTW5t/BsLycdU8whmR0Au2M7hGmVkhtWefbJcF4XhTqz1RKN35b2EovVoyfnkuNegvP+QYbtFn1LIjNkD31OHKSK949VwJXL/zI3WIjib+i0Ml0++mHoehm5jbA3MK84+J9bKNyxgRAxLVzJ0dRXxYMg+DepVCSAsIq6SM3EPET3zyfzFriQmNuN4o+p108oC9t+YeEKEY2y883PjrqUzNiW8/ZNaB4WxYSrPHlPqKGsIxInJY3+iWB7UOlnzQ24wZEd9UMOKWapzmCkAhAc5uzx3KgbZZoYPK4jUYp4vPICjDCrzOhP74rsfjmrKZPA==;u2JvFflHAwEYTQaqtYbjhw=="
+secured: "Deeuhd+PR78GB2quqSaE6hyPMqWWF6NTE1EGOGTdDkTYyujZeInP6G/YKc2VhTRyyfjlDBFXERmawvAFYWGzrXUMYWsuPA4KuHpKO4W5CZ/hVLjmHQvJRl95RL+OblMUuL1AZx2bPIsUD8SqCSgL+6070wsAmmGzy7009XM9Nd0JVLwbcEd0myamdtCpYWRe1CaO3CQwIxy6qPFnevTjJPX7FXFA+TB9628UfB0TXSzkVkGU3wlqnyutqHUkvdykqfbN4z1rpghJyah/Fxov1JdhxgSGk7Z0Rm5o4uCxB/SBsqoQ6RJfqsYGeBlgep7A5fMdlQ/cijaUiWGxJzPXyWfU4U8lbiXpH9VoIb7Jgf4=;uYtNP2F/d7auXWpa8cVmMA=="
 ---
 

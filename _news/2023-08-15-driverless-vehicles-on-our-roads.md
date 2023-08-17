@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "People are having sex in self-driving cars, apparently"
-    excerpt: "Now the self-driving car companies Waymo and Cruise can shuttle busy passengers at all hours of the day. Alex and Megan, a couple who spoke to the Standard, said that the ride wasn't exactly ..."
-    publishedDateTime: 2023-08-12T18:35:00Z
-    webUrl: "https://mashable.com/article/people-are-having-sex-in-robotaxis-in-san-francisco"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 54
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/01lwWwoWG0dlnCwf9ZHDgsZ/hero-image.fill.size_1200x675.v1691860631.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cookie, take the wheel! What’s with all the driverless cars zooming around Austin?"
     excerpt: "Imagine standing on a street corner in Central Austin and seeing a white car with black and red accents stop at a light. You look for the driver, but the seat is empty. The light turns green, and the car drives off on its own."
     publishedDateTime: 2023-08-14T10:01:00Z

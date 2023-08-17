@@ -64,15 +64,6 @@ related:
         width: 300
         height: 241
         isCached: true
-  - title: "Dialpad integrates generative AI across its call center suite"
-    excerpt: "Cloud communications provider Dialpad Inc. is continuing its aggressive rollout of artificial intelligence capabilities with today’s launch of DialpadGPT, which it describes as a domain-specific large language model that’s tailored to the needs of customer service, sales, and recruiting operations."
-    publishedDateTime: 2023-08-15T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/15/dialpad-integrates-generative-ai-across-call-center-suite/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
   - title: "The Key People Driving Meta’s Generative AI Work"
     excerpt: "As Meta Platforms has tried to cut costs and trim headcount over the past year, one area has emerged as an exception: generative artificial intelligence. Caught flat-footed by the explosion of interest in OpenAI’s ChatGPT,"
     publishedDateTime: 2023-08-16T13:00:00Z

@@ -74,6 +74,20 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 47
+  - title: "OpenAI acquires startup, despite ChatGPT’s costs piling up"
+    excerpt: "OpenAI has acquired AI startup Global Illumination for an undisclosed sum. The latter company will start contributing to all of OpenAI's \"core products,\""
+    publishedDateTime: 2023-08-17T10:56:00Z
+    webUrl: "https://www.techzine.eu/news/applications/110191/openai-acquires-startup-despite-chatgpts-costs-piling-up/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 37
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/shutterstock_2248406717.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "OpenAI buys AI gaming startup Global Illumination"
     excerpt: "OpenAI has acquired a New York-based AI gaming startup for an undisclosed sum, the company announced on its website Wednesday. Global Illumination is a venture-backed company with $14 million in funding and was working on a massively multiplayer online game called Biomes, which from the looks of it appears as an open source Minecraft-like game."
     publishedDateTime: 2023-08-16T18:16:00Z

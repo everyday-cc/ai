@@ -82,6 +82,20 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 47
+  - title: "OpenAI acquires startup, despite ChatGPT’s costs piling up"
+    excerpt: "OpenAI has acquired AI startup Global Illumination for an undisclosed sum. The latter company will start contributing to all of OpenAI's \"core products,\""
+    publishedDateTime: 2023-08-17T10:56:00Z
+    webUrl: "https://www.techzine.eu/news/applications/110191/openai-acquires-startup-despite-chatgpts-costs-piling-up/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 37
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/shutterstock_2248406717.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "QHYLA7GTEb0B4HaQI4giTJnLCIgJwOQZrEhUq8aXEjcBBWgYcEKu5IpgbZdBznxfnDs0yhUs7ffUFcz6QYXp+Q6Xbi2G7JcYWiyOmC9tCufwmQmeSTiItxn9503j9VJx2QH3f21itGo4uHF5dtxlp+Ulmu3ZzQVUtteYY+rnGgwvZF3/IyJF+Xg3nb51tTwXeYMYi92R1NwsdUFBpE50Snu9q5bQYzezpY3dnosoBzPc1xy7CZxkgJz3pNLmO48K1qOTfsytg2gz5+fspMf6WLSKYsMGBtrelZv7OAFyOQdEXldAqvJAmiFAwcD4Ckj94hcJWNRKsy7UGbaPd0XxFL27qa9KPEYa1tVw7/P4N9NLn4w8II3Z0blDGSiDMGkomUKO5xkGup3zSLWtxj0IrxwyAJx779oGhTTo/n0ts2viyBrWg4zuSAgWALylqRRtawIacDcTiejglv9Gg8sjwq7DYQlRQ6ixpIOgeWasEk70N9OWOCL5K0SpUGoMe3e9NdugW4/qmJcnK20nwNkSDQ==;EJPYAhT9G/4DY6WP2Mjwgg=="
 ---

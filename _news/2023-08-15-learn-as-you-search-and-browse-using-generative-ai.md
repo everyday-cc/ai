@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-lear
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-learning-features/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1300
     height: 543
     isCached: true
-
-related:
-  - title: "Why Reinforcement Learning Will Save Generative AI"
-    excerpt: "In this contributed article, Kim Stagg, VP of Product for Appen, knows the only way to achieve functional AI models is to use high-quality data in every stage of deployment. As businesses look for pathways to adoption,"
-    publishedDateTime: 2023-08-12T17:34:00Z
-    webUrl: "https://insidebigdata.com/2023/08/12/why-reinforcement-learning-will-save-generative-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
-        width: 1100
-        height: 550
-        isCached: true
 
 secured: "BD3Apc2hCZRaAZYhWzT7R/zjXMOI7ZQnQpqiRrwLu8brKGxIBgk94l4+whgCZh4UwYdyXS2II1wPohmn+N1rg/hR78DjeX23TjsDLVnvxpeKbVJloKj8etIN7ME2l05WOM7/LMFtFBjlqsTS2vP0hVvTMDsl0O28wzpmC3jOhq898w68trI9osns28uieZ/JgT1mhFD1YRonjlj3JMMmdbI6eiGpReiUI6XG+DitEjVR/UjMWNg7eokRcpOWj/woZmyqFY+BDdtxWH0haoCZir+4qGell2Dlf4f2vZrW9/GCMBGDmpVeX2njVeXQ43kIqWKlelCMOvLd6/17DxoyDwQHyAZw5cI18uvNHuwG2wc=;LK+bVhEgbj7RT+j34Catpw=="
 ---

@@ -19,70 +19,109 @@ topics:
   - AI
 
 related:
-  - title: "Is Generative AI Destroying The Internet?"
-    excerpt: "Explore the astonishing capabilities of generative AI as it blurs the lines between reality and digital deception, and discover the urgent race to safeguard the truth."
-    publishedDateTime: 2023-08-14T06:21:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
+  - title: "Generative AI For Content Creation: How Marketers Can Use It"
+    excerpt: "Generative AI is changing how marketers interact with their target demographic, creating new opportunities for creative campaigns and generating significant outcomes."
+    publishedDateTime: 2023-08-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637e7f49c0cf9ed11c365146/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Future Of MarTech: Is Generative AI The Next Big Thing?"
+    excerpt: "By tapping into an existing technical stack, marketers can unlock AI capabilities with confidence and derive unparalleled insights and innovations. Start in a sandbox environment. A sandbox environment is a controlled and isolated testing environment that ..."
+    publishedDateTime: 2023-08-17T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/08/17/the-future-of-martech-is-generative-ai-the-next-big-thing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/08/17/the-future-of-martech-is-generative-ai-the-next-big-thing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/17/the-future-of-martech-is-generative-ai-the-next-big-thing/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d9c7c62d69c2f7f6635ebe/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6479ea8344eabdf4ac13b283/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 787
+        height: 800
         isCached: true
-  - title: "PR expert putting the intelligence in AI with Pay-as-you-prompt"
-    excerpt: "A North East PR expert has warned that some firms are at risk of being left behind in the “AI… | Entrepreneurship | PR | North East | Digital | Entrepreneur | Technology | Marketing |"
-    publishedDateTime: 2023-08-14T15:19:00Z
-    webUrl: "https://bdaily.co.uk/articles/2023/08/14/pr-expert-putting-the-intelligence-in-ai-with-pay-as-you-prompt"
+  - title: "Avangrid Pioneers In-House Creation of Artificial Intelligence to Increase Reliability"
+    excerpt: "Machine learning models will allow CMP, NYSEG, RG&E and UI to forecast grid performance ahead of severe storms, troubleshoot problems areas and pinpoint investments to increase reliability When descri"
+    publishedDateTime: 2023-08-16T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/b33878495/avangrid-pioneers-in-house-creation-of-artificial-intelligence-to-increase-reliability"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33878495"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33878495"
     type: article
     provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
     images:
-      - url: "https://bdaily.co.uk/images/uploads/IBV3WmAWIE8Ol58OiOoQ8EB64tjR3RhiOhX38ncM.jpeg?w=1200&h=630&fm=jpg&fit=crop-51-41&s=09131aaed294658dcfffa5d9f3906bda"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Epic Is Integrating Abridge’s Generative AI Tool Into Its EHR"
-    excerpt: "Epic announced that it will integrate Abridge’s clinical documentation tool into its EHR workflow. The startup’s generative AI tool listens to visits and creates a near-instant summary that adheres to physicians’ prototypical note structure."
-    publishedDateTime: 2023-08-16T21:22:00Z
-    webUrl: "https://medcitynews.com/2023/08/epic-ehr-healthcare-generative-ai/"
+  - title: "From Startup Nation to AI Nation: Listening to Machines"
+    excerpt: "Two Israeli companies are seeking to introduce the innovation of AI to industrial and energy factories, leading the traditional manufacturing sector towards a better future"
+    publishedDateTime: 2023-08-15T16:27:00Z
+    webUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-listening-to-machines/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
+      name: The Times of Israel
+      domain: timesofisrael.com
     quality: 37
     images:
-      - url: "https://medcitynews.com/uploads/2023/06/TMX-image-1-e1687877713584-300x241.png"
-        width: 300
-        height: 241
+      - url: "https://static.timesofisrael.com/blogs/uploads/users/ami-appelbaum1692115798-400x400.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Innova Solutions CEO: Generative AI will have ‘bigger impact than the Internet’"
-    excerpt: "Raj Sardana, CEO of technology services company Innova Solutions, says generative AI will have a \"bigger impact than the Internet.\""
-    publishedDateTime: 2023-08-13T23:07:00Z
-    webUrl: "https://www.bizjournals.com/atlanta/news/2023/08/13/innova-solutions-ceo-generative-ai.html"
-    ampWebUrl: "https://www.bizjournals.com/atlanta/news/2023/08/13/innova-solutions-ceo-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/atlanta/news/2023/08/13/innova-solutions-ceo-generative-ai.amp.html"
+  - title: "From Startup Nation to AI Nation: The Farmer Knows Best"
+    excerpt: "For thousands of years, agriculture was based on human expertise and gut feelings, but this simply isn't enough in the 21st century"
+    publishedDateTime: 2023-08-15T16:37:00Z
+    webUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-the-farmer-knows-best/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 33
-  - title: "The Key People Driving Meta’s Generative AI Work"
-    excerpt: "As Meta Platforms has tried to cut costs and trim headcount over the past year, one area has emerged as an exception: generative artificial intelligence. Caught flat-footed by the explosion of interest in OpenAI’s ChatGPT,"
-    publishedDateTime: 2023-08-16T13:00:00Z
-    webUrl: "https://www.theinformation.com/articles/the-key-people-driving-metas-generative-ai-work"
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 37
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/users/ziv-katzir1692116510-400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Generative AI use cases for Asset Management Firms"
+    excerpt: "Our generation is witness to the emerging power of current game-changer Generative AI (GenAI), which is a deep learning technique of Artificial Intelligence ... which itself is a convergence of neural network models, made commercially available now due ..."
+    publishedDateTime: 2023-08-17T08:29:00Z
+    webUrl: "https://www.finextra.com/blogposting/24754/generative-ai-use-cases-for-asset-management-firms"
     type: article
     provider:
-      name: The Information
-      domain: theinformation.com
+      name: Finextra
+      domain: finextra.com
     quality: 19
+  - title: "Multinationals turn to generative AI to manage supply chains"
+    excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
+    publishedDateTime: 2023-08-13T03:59:00Z
+    webUrl: "https://www.ft.com/content/b7fafed2-9d00-49b0-a281-c1002b139865"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "AI-Powered Innovation: VAST's Vision for Democratizing 3D Content Creation Takes Center Stage as the first Chinese keynote speaker at SIGGRAPH 2023"
+    excerpt: "At the SIGGRAPH 2023 conference, Yachen Song, founder of startup VAST, presented his vision for using artificial intelligence to transform 3D content creation. VAST joined industry leaders like Nvidia and Unity on stage at the 50th anniversary of SIGGRAPH,"
+    publishedDateTime: 2023-08-14T21:53:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/14/9864212.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "iQUoAu8HLibh+E5o+aNQuDHFoLM/QJOgpCzm5ocxehQHcx9EzKGSONT6af31UqgCnX9ce9I5owpwMS7+gXM0RYokUD12GqPD3N/Rr1DcyiaPu86Ovfth+8t5RBErED3aMz5w+jLx8UthNqfre+WSlLb1qMMtyAplNEf1jk/6XRiSa0c5whxgPoTY2/XhmDkOlsC/xPke363Nf5d5WQpT9RNiU0u1yewoq2Tsr2809JY/bod85W9b4o6It98+WtIeeIp+oyVBFGepzH4PE7eZNJ+cw1Zpttn2BFXU8Kk5s45zXpeUy+OYxWQxCSL1WcLd+t5bu7ML6sS4OQdf9Nf8zQXrjOQ3LnCAvwAh/SZ4m1cW1KlwBTPiyc7P/fw/rhFS3nOFB5M7/PTBIxNxYq1SfCqua9xzYeoH7yzTJm+ZRWISq/dFNJhFAgWdT2Dm/diWv3YqEcaUFcl83vo35PeTSmddFOt95A42a9v70SUXcq4NcJVzJ1e622HyTp7Gnp61al55xZ31SQH/uznPIYrbWQ==;KjOvFVknK1oPOl3lJwOw4Q=="
 ---

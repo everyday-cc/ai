@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Quanta sees AI as future growth driver"
-excerpt: "Quanta Computer expects its future operation and profitability to be majorly driven by the AI business and in addition to servers and automotive AI chips, the company has also been keen on developing medical solutions and formed technology transfer collaborations with hospitals in Taiwan to develop an AI electrocardiography (ECG) platform."
-publishedDateTime: 2023-08-17T02:42:00Z
-originalUrl: "https://www.digitimes.com/news/a20230816PD212.html"
-webUrl: "https://www.digitimes.com/news/a20230816PD212.html"
+excerpt: "Quanta Computer expects its future operation and profitability to be majorly driven by the AI business and in addition to servers and automotive AI chips, the company has also been keen on developing medical solutions and formed technology transfer.."
+publishedDateTime: 2023-08-17T10:27:00Z
+originalUrl: "https://www.digitimes.com/news/a20230816PD212/quanta-ai-applications-healthcare.html"
+webUrl: "https://www.digitimes.com/news/a20230816PD212/quanta-ai-applications-healthcare.html"
 type: article
 quality: 39
 heat: -1
@@ -88,6 +88,6 @@ related:
       domain: financialbuzz.com
     quality: 17
 
-secured: "3+/t6sZg304SWZcU7JQOl8H5HHpMErDExuSm7FNOMGNaXID1d/7I5hm4rG38yc6Y/rp9thjXMRG4by0N+85S3vqaOb6DuTanSAQLQQhHIb33ke6CtFZhkUrloDFBPl0pFFt9I/Njz+3M+ke/zZ490xXeWoDeTPl/FcgunJm8d901eyMGCehuK3ddimoP0AsG27XIxoTiz1ETz5Xk5ueO5kzm/qkgknzpE9IjeI0FR4NR4F7Ai5OUqjnQRQiu1SQGucQZgQ/6XZsPgA7AZA1Cpn0MmNKmwqbf6mnWxRLZQpyhGUH0JeECn6aN8ronRSgH/nQNERjJPnauUPw+DCN30M4vo5aPYcEypA/MJFswwTI=;1wBvxXqkhbl05r8BV04Y1Q=="
+secured: "nTlbtAa138WOs3Z/FMXq38eMMFBc6QpU31JOc7SQiz3exzEWnldFn7JY37ILctCTqKTc4ae7VML9aFf0/R/442+h0KBD54UD6cYdRvJsnqWvthXf5T3M7i6vMWOCPAYM0vQg3IYmW3E7nTfgEDyNd5ZjYv2sF2kX3SJCAF313RXZUNNIrlovNZBNjlaMrWsBA59/JroQEEhFGXxQhoOFO5YtYTH9HRgQ5u1Z/xzwcMS1bvUA+qvpEiLLJeGcLnXrWwLsITdMKosfC8VIXlCPnCq+Hsbsbree0GYEIcbI/AABVsfSxXy8qKpHcAkIRy8Uhf1peCr3+aeFwvVU41Vw2RTfaFdMnu3FomWSZhngVKQ=;WPrsj5MN/FtPaiYnYLh5Iw=="
 ---
 

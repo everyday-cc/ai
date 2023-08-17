@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mike Filsaime's Groove AI AI-Powered Copywriting Platform by Muncheye Launch"
+    excerpt: "Muncheye announced the release of Mike Filsaime's Groove AI, a new software platform featuring a new transformative approach to digital"
+    publishedDateTime: 2023-08-15T23:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mike-filsaime-s-groove-ai-ai-powered-copywriting-platform-by-muncheye-launch-1032557174"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/10666/89104758-1692158356-0.jpg"
+        width: 321
+        height: 480
+        isCached: true
   - title: "UT professors embracing, preparing for AI use in classrooms"
     excerpt: "As a new academic year rapidly approaches for The University of Texas at Austin, it is working to balance fostering a learning environment with AI while preventing cheating among college students."
     publishedDateTime: 2023-08-14T13:45:00Z

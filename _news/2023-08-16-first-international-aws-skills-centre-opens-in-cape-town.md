@@ -7,7 +7,7 @@ originalUrl: "https://za.investing.com/news/first-international-aws-skills-centr
 webUrl: "https://za.investing.com/news/first-international-aws-skills-centre-opens-in-cape-town-2845367"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cape Town Welcomes Amazon Web Services (AWS) Skills Center"
+    excerpt: "Amazon Web Services (AWS) has further extended its commitment to democratising access to cloud skills training with the inauguration of its first international AWS Skills Center in Cape Town, South Africa."
+    publishedDateTime: 2023-08-17T10:37:00Z
+    webUrl: "https://ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/"
+    ampWebUrl: "https://ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/?amp=1"
+    cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/?amp=1"
+    type: article
+    provider:
+      name: Ventureburn
+      domain: ventureburn.com
+    quality: 74
+    images:
+      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2023/08/download-min-1.png"
+        width: 2640
+        height: 1486
+        isCached: true
   - title: "AWS launches first Skills Centre outside of the USA in Cape Town"
     excerpt: "AWS Skills Centre offers free foundational cloud training to help people learn about this technology and develop the skills they"
     publishedDateTime: 2023-08-16T19:39:00Z

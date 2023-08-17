@@ -41,6 +41,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google developing AI tool that offers life advice: Report"
+    excerpt: "Google DeepMind with Brain are now testing new tools that could turn AI into a life coach Google is reportedly testing an artificial intelligence (AI) tool that will give advice about issues users face in their lives. Image Credit: Reuters San Francisco ..."
+    publishedDateTime: 2023-08-17T11:28:00Z
+    webUrl: "https://gulfnews.com/technology/google-developing-ai-tool-that-offers-life-advice-report-1.1692271717987"
+    ampWebUrl: "https://gulfnews.com/amp/technology/google-developing-ai-tool-that-offers-life-advice-report-1.1692271717987"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/google-developing-ai-tool-that-offers-life-advice-report-1.1692271717987"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 59
+    images:
+      - url: "https://imagevars.gulfnews.com/2023/08/17/20230817-google_18a03405880_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
+  - title: "Google Is Developing An AI Assistant That Offers Life Advice: Report"
+    excerpt: "Google DeepMind has been working with generative AI to develop at least 21 different tools for life advice, planning and tutoring, New York Times reported on Wednesday."
+    publishedDateTime: 2023-08-17T10:55:00Z
+    webUrl: "https://www.ndtv.com/world-news/google-is-developing-an-ai-assistant-that-offers-life-advice-report-4305609"
+    ampWebUrl: "https://www.ndtv.com/world-news/google-is-developing-an-ai-assistant-that-offers-life-advice-report-4305609/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/google-is-developing-an-ai-assistant-that-offers-life-advice-report-4305609/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2023-01/f8uj6gqo_sundar-pichai-bloomberg_625x300_24_January_23.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "People coaxed AI into saying 9+10=21 and giving instructions for spying — it shows how these systems are prone to flaws and bias"
     excerpt: "Participants at a hacking conference showed that AI can be tricked into making errors like falsely claiming Barack Obama was born in Kenya."
     publishedDateTime: 2023-08-14T04:38:00Z
@@ -71,21 +103,7 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Google developing AI tool that offers life advice: Report"
-    excerpt: "In a bid to catch up to Microsoft-owned OpenAI's technology, Google is reportedly testing an artificial intelligence (AI) tool that will give advice about issues users face in their lives."
-    publishedDateTime: 2023-08-17T09:20:00Z
-    webUrl: "https://www.punjabnewsexpress.com/technology/news/google-developing-ai-tool-that-offers-life-advice-report-219519"
-    type: article
-    provider:
-      name: punjabnewsexpress
-      domain: punjabnewsexpress.com
-    quality: 39
-    images:
-      - url: "https://www.punjabnewsexpress.com/images/article/article219519.jpg"
-        width: 740
-        height: 466
-        isCached: true
 
-secured: "vYpW43rjKoeURLeEnNeiE809uRk3PAU5dnbDdjnLh9lIxIYfa8a60VSJ++HE3nV3nLBro3gpcYSC0dh9JITyjTYqiHvR1jnQd7bJVCMrs0XkVMZ352PdbtZNmlenjC6gSzFUO+xG8UhRIF43uKBq6Nc3djOnQTLtWMmmqdCl+hl5I/pnh/Y8M7BbjzgSObsfcjL7XW54vy4Q804QVVaZqC7U6w/YlY/VA7iA0eKTxxiWWAXGIpbQhxzZoDG19qfLxWv4ZIrRoj4ZFaVIq/jxYukauuVOBXW/gJF25ygWx55y4veYgFqDCS2Z5oMphzJvjW0GF6fPdsthASxBH6kfxGg4HkzVofuvImfUW2ASIb4=;NTCFGnYoiTOCNY6oVvBV/w=="
+secured: "wLGxi4qnvFgz3pwZqEEVd1FKMxwm2jb5QEZGE3ZNep8Ig5L1HvYHN/TF1/YaO15qJiJP7og/jrs991JjexDp87upP4VOa6+Q5zwvnItyqTYXkbIQqCCgb1QPxRfrjTZlLbFAR0JV5AsINWawY/xbvC0a6XZcSMEdy4ixHGsUAgHVpRqsJWVVuVdgk7FozFy72COp67av89LJbzX9aPc8TPmvUfmscn5uw8W8IpbsJn9pIy3ptTyhBVME1qhjWvpf361iB/nngl9NT5S+JEPzaZT5msiy1SbN2vIqcioss/7J0cmetCtlSOfDJq9OHHkJiZxKQTNWNlawg1e2O8kYLBuvDb0YW9nFAumkczzR+tKCxO+J5GLwqwtVhAiQVnvkcZfk5uOq1jjs2qvySCiQvbrcqL3edqz+JM7xR64IMNxeOZxrNg8ah/ajKlleiXlZqDKX2a8hcP7pF7oeNQiNMB7R8/MTPzfKD6fZggBbTGoGIvyWH8ptTfPU5Cve4ZQQqfyXbHkWu1Lus0GZOxMHXQ==;zsGQ914C+0SYDGo6W5599Q=="
 ---
 

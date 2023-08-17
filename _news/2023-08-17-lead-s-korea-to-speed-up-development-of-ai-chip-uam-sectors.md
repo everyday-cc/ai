@@ -57,6 +57,20 @@ related:
         width: 980
         height: 653
         isCached: true
+  - title: "South Korean Gov't to develop data centers with domestically made AI chips"
+    excerpt: "The South Korean government has revealed plans to develop two data centers using domestically made artificial intelligence (AI) semiconductors, as well as increasing funding for semiconductor products."
+    publishedDateTime: 2023-08-17T10:31:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/south-korean-govt-to-develop-data-centers-with-domestically-made-ai-chips/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 52
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/GettyImages-1266604898.2e16d0ba.fill-1200x630.jpg"
+        width: 724
+        height: 381
+        isCached: true
 
 secured: "TxTnAGapF8Uww5vGFSWqnkyYBD23L2Mj8XkR+mx35oByimEZYNPzlBeFaE5zFU1aMgSB20xDqSiCdXxuoFdz6uGLJE5pxxbGTvRAM0cU/7xN9jQU1kj7w7j3hQrLZdu1b6h/QatCDBSd80E4Zrx705DcHWqBRpOUGsYw6ZRSbINi/px3e2llK/cG1fVUb5BriM5wgYYW1oZ6dFJMMXDvkE7jgtqwhfBKPE8C9XTU5ZkiWpF2wNUImi7jk3bWvFTT4E8A0RQg8KfUz3GjBjvLvQdeZ+TdOHlgQaCpd3IbZm4co+THIxiqVEukTU8R4Sw/TaJS989gE1wd1a5qm7Zn2k9s3gUhCV45IA/2vDWEjag=;vAvNi4y1ymJ52kmJ504lMw=="
 ---

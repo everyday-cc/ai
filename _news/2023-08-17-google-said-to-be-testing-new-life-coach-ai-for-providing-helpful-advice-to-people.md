@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/computing/artificial-intelligence/google
 webUrl: "https://www.techradar.com/computing/artificial-intelligence/google-said-to-be-testing-new-life-coach-ai-for-providing-helpful-advice-to-people"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google developing AI tool that offers life advice: Report"
+    excerpt: "Google DeepMind with Brain are now testing new tools that could turn AI into a life coach Google is reportedly testing an artificial intelligence (AI) tool that will give advice about issues users face in their lives. Image Credit: Reuters San Francisco ..."
+    publishedDateTime: 2023-08-17T11:28:00Z
+    webUrl: "https://gulfnews.com/technology/google-developing-ai-tool-that-offers-life-advice-report-1.1692271717987"
+    ampWebUrl: "https://gulfnews.com/amp/technology/google-developing-ai-tool-that-offers-life-advice-report-1.1692271717987"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/google-developing-ai-tool-that-offers-life-advice-report-1.1692271717987"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 59
+    images:
+      - url: "https://imagevars.gulfnews.com/2023/08/17/20230817-google_18a03405880_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "Google expanding AI capabilities with life advice tool: Report"
     excerpt: "Google had previously showcased its first vision-language-action (VLA) model for robot control in July. This model displayed improved capabilities in terms of generalization and understanding beyond the specific robotic data it had been exposed to."
     publishedDateTime: 2023-08-17T09:27:00Z
@@ -44,6 +60,22 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/08/google-logo-1679051933-1692264319.jpg"
         width: 360
         height: 202
+        isCached: true
+  - title: "Google Is Developing An AI Assistant That Offers Life Advice: Report"
+    excerpt: "Google DeepMind has been working with generative AI to develop at least 21 different tools for life advice, planning and tutoring, New York Times reported on Wednesday."
+    publishedDateTime: 2023-08-17T10:55:00Z
+    webUrl: "https://www.ndtv.com/world-news/google-is-developing-an-ai-assistant-that-offers-life-advice-report-4305609"
+    ampWebUrl: "https://www.ndtv.com/world-news/google-is-developing-an-ai-assistant-that-offers-life-advice-report-4305609/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/google-is-developing-an-ai-assistant-that-offers-life-advice-report-4305609/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2023-01/f8uj6gqo_sundar-pichai-bloomberg_625x300_24_January_23.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "People coaxed AI into saying 9+10=21 and giving instructions for spying — it shows how these systems are prone to flaws and bias"
     excerpt: "Participants at a hacking conference showed that AI can be tricked into making errors like falsely claiming Barack Obama was born in Kenya."
@@ -74,20 +106,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/IMG_3819-800x533-1-2.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Google developing AI tool that offers life advice: Report"
-    excerpt: "In a bid to catch up to Microsoft-owned OpenAI's technology, Google is reportedly testing an artificial intelligence (AI) tool that will give advice about issues users face in their lives."
-    publishedDateTime: 2023-08-17T09:20:00Z
-    webUrl: "https://www.punjabnewsexpress.com/technology/news/google-developing-ai-tool-that-offers-life-advice-report-219519"
-    type: article
-    provider:
-      name: punjabnewsexpress
-      domain: punjabnewsexpress.com
-    quality: 39
-    images:
-      - url: "https://www.punjabnewsexpress.com/images/article/article219519.jpg"
-        width: 740
-        height: 466
         isCached: true
 
 secured: "06VUjQUhZkFnXgQLTfgsgqx82/jPdo2dz/11p8jc/n6kS6vwoDZ/1SQ8LEoDR6LI0ZDcXmdNRngFT0gwzcIIA4aOzdD44iC8qa69iYzN3znibHIp+CvSn272PA4/VpnWfh+1QJQU9VJ4vfZXaOGpkTiT34bGNCd2VoJ/V3g8PWEtOdqg21Yj1x1I61derW2+6ZVBIDksGFddWIvr/t+aYRFuHO4hByTH3eO0vaClxDv3yHWW4vbWT7mCq6f+t0+3GalGRaV92tkHqnUtvzQ5Qcav9oGK3lEhcsyib2wwCH+p66ByYjXWHMa/gRHQjr44otJja3U8F2x79ClC5N4qeDpF70fXsaEMzK4cEusxR/k=;vH/xDeGMIxNyQqDXOqriaQ=="

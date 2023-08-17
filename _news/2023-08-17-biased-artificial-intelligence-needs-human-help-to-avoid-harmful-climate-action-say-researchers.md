@@ -146,6 +146,15 @@ related:
         width: 2560
         height: 1897
         isCached: true
+  - title: "Evidence of AI bias mounts"
+    excerpt: "Another study has identified distinct political bias in one of the major large language models used to inform generative AI chatbots."
+    publishedDateTime: 2023-08-17T11:15:00Z
+    webUrl: "https://telecoms.com/523177/evidence-of-ai-bias-mounts/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 19
   - title: "Fiction writers fear the rise of AI, but also see it as a story to tell"
     excerpt: "Crime writer Jeffrey Diger, known for his thrillers set in contemporary Greece, is working on a novel touching upon AI and the metaverse, the outgrowth of being “continually on the lookout for what’s percolating on the edge of societal change,” he said."
     publishedDateTime: 2023-08-13T17:52:00Z
@@ -156,6 +165,6 @@ related:
       domain: kvue.com
     quality: 17
 
-secured: "mQciVx+NWuLdj5Nr6/0FXyGjYBKzXGfWZ0NfNyUwyfaTcSFfHnTZUnkhO9fKSHIT4pQWoJsrOQVgo8sCSumXVi77KL+u2JHiXe8OKxYXFVqA/1vx0B/76M5Wp4kiPjzPKnvAfo9Di5LQwQHux56KJ7P2SHIDVYz5IAYb4FFHS2RM/6VJeWtlukor9oAo/O/JmKYkl9ZFhCivvo+EbiOC/6FDAMI4ojH4dA/Fqbn0wmQu2EM2/aVdr/zoqT14j4thjM2ybffsh5nSzrhmCGCg2Fht8rB7YbTRChqZyXpE71JNFhoeJeW9LUeoijEYzE5NOO1btVkzQMEMJn2hk7ZXGTckgusWYCSm6Sxu+zcNd0w=;d0fA1YK7/zdFTLY/bGHcVg=="
+secured: "jLIZYfEG6iFShY/F5qDO1b7B8sL8cH8JlFYUhZaUosTn8WemgdHUrraWC6fApTdXEYEEeX5l8CxE6mr236ysCA6fSkiibaUeeVoyc3daBTQZ6s8PAnZV2G8IGvKDdxLS8chdajyX1G+7srg4l9Ay3il6s5ZnXy64H2vr6SGcNybMpEu+Frdv4RYnYPHjWDHDbVeoYxclGz8sF3FyFybYCT1ZTE/hUqdLqtkC2I9J7kFAVuKjJPp3L/fHodpR3al75TcbVqN7JaBgpFGLOeBRT+nk+HxuC60rIxzkbXRdSGp4+BSEfzdct0YofrsAD+kwmaEw840Ov9JDUmWtL8saYHiV365e77mdwLpFJiKJ0xp1aBqRoJ2FtAsVIVv9y++oxI29OjX+roXCkfm0HrIM22tETUNjkINI6jV5LSlTpRbCAmONHGWKW51x6tNF5cXfKUPq3/ua8QnxbJJUy58HzanMd03sDGh9B2iDLfdrQLtQztqgicOzDlkyFBW8xVH9aTsFt9V0175WZVseLMqeSA==;BE2ehE3ZTOrrvt6AjjtflA=="
 ---
 

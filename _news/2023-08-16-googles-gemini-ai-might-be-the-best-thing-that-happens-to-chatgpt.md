@@ -80,20 +80,6 @@ related:
       name: WUWM
       domain: wuwm.com
     quality: 16
-  - title: "Many experts believe AI chatbots like ChatGPT are here to stay. So how can they fit into the academic world? We looked for answers."
-    excerpt: "With the start of the school year just around the corner, educators acknowledge that programs like ChatGPT are already a presence on the academic landscape."
-    publishedDateTime: 2023-08-12T18:03:00Z
-    webUrl: "https://kstp.com/kstp-news/top-news/many-experts-believe-ai-chatbots-like-chatgpt-are-here-to-stay-so-how-can-they-fit-into-the-academic-world-we-looked-for-answers/"
-    type: article
-    provider:
-      name: KSTP-TV
-      domain: kstp.com
-    quality: 7
-    images:
-      - url: "https://kstp.com/wp-content/uploads/2023/02/CHATGPT-EXPLAINER_PKG_00.01.04.52.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "tpVIAUJDxVuE0agioqFqSkrb2yIv2SoBJMuFKk1apUmW5hijwGZqin6xm+PhPBZfMKGIXLgwmLXSdc9tiIQh7jheFBT3G1f1dlzo6hHBX07IpuNTS/Ys7EWyW8COEspM0XVJZqHAlYZm2dKIBg+ujcILcSLvvwJXSo5UHJJZDTzwXQK7BfTcyXcyZAMW7BflVk1gMCCZ+Gvk1dfK2VMMB4KpBOCsg4gLO6lzzxxCYKb2idFbP7Q+Z/tz30GLMoADU89/B/s1gP+qUQEuZbEaVnixmA6bsyjx4LlFrdXgxEyAcqTgOkplO21vYoiXG6s6jND1PnIodyFv6ss3oZpBhyjREouluY35PMA8OX2cHx9FFOeKh1jWM+6MbE5eA29MuiTP/XRyCjJMoWjbxkILIK+EuxylQD49cgiYpxghBK0vD+B+zrUrIU9q4GfK1kgCYxC8dnrKM0Fje/JPsrwIIdP5HVORsyuTKe5V/NXQ2HY588WGUlPjH0+7gqTMN5ExB09sq4e4qw4Km+QI8ewjww==;3LXMTDtB754hXKG6cOFspA=="
 ---

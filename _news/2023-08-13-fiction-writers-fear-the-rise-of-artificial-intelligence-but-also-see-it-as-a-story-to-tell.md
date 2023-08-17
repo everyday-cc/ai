@@ -146,6 +146,15 @@ related:
         width: 900
         height: 579
         isCached: true
+  - title: "Evidence of AI bias mounts"
+    excerpt: "Another study has identified distinct political bias in one of the major large language models used to inform generative AI chatbots."
+    publishedDateTime: 2023-08-17T11:15:00Z
+    webUrl: "https://telecoms.com/523177/evidence-of-ai-bias-mounts/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 19
   - title: "Fiction writers fear the rise of AI, but also see it as a story to tell"
     excerpt: "Crime writer Jeffrey Diger, known for his thrillers set in contemporary Greece, is working on a novel touching upon AI and the metaverse, the outgrowth of being “continually on the lookout for what’s percolating on the edge of societal change,” he said."
     publishedDateTime: 2023-08-13T17:52:00Z

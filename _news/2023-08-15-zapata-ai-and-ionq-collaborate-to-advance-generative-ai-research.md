@@ -153,15 +153,6 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "Multinationals turn to generative AI to manage supply chains"
-    excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
-    publishedDateTime: 2023-08-13T03:59:00Z
-    webUrl: "https://www.ft.com/content/b7fafed2-9d00-49b0-a281-c1002b139865"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "US military’s special task force will explore generative AI"
     excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
     publishedDateTime: 2023-08-15T19:00:00Z

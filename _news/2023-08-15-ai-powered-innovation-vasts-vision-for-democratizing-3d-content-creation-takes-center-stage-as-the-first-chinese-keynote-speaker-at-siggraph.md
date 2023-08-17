@@ -18,20 +18,109 @@ topics:
   - AI
 
 related:
-  - title: "Water robot contest showcases innovation"
-    excerpt: "Teams competing in the final of the 2023 China Underwater Robot Professional Contest recently showcased the latest developments in underwater robots in the coastal waters of Dalian Jinshitan National Tourist Resort, Liaoning province."
-    publishedDateTime: 2023-08-15T02:45:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202308/15/WS64dada0ca31035260b81c30f.html"
+  - title: "Generative AI For Content Creation: How Marketers Can Use It"
+    excerpt: "Generative AI is changing how marketers interact with their target demographic, creating new opportunities for creative campaigns and generating significant outcomes."
+    publishedDateTime: 2023-08-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202308/15/64dada0ca310352610bab914.png"
-        width: 423
-        height: 282
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637e7f49c0cf9ed11c365146/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "The Future Of MarTech: Is Generative AI The Next Big Thing?"
+    excerpt: "By tapping into an existing technical stack, marketers can unlock AI capabilities with confidence and derive unparalleled insights and innovations. Start in a sandbox environment. A sandbox environment is a controlled and isolated testing environment that ..."
+    publishedDateTime: 2023-08-17T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/08/17/the-future-of-martech-is-generative-ai-the-next-big-thing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/08/17/the-future-of-martech-is-generative-ai-the-next-big-thing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/17/the-future-of-martech-is-generative-ai-the-next-big-thing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6479ea8344eabdf4ac13b283/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Avangrid Pioneers In-House Creation of Artificial Intelligence to Increase Reliability"
+    excerpt: "Machine learning models will allow CMP, NYSEG, RG&E and UI to forecast grid performance ahead of severe storms, troubleshoot problems areas and pinpoint investments to increase reliability When descri"
+    publishedDateTime: 2023-08-16T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/b33878495/avangrid-pioneers-in-house-creation-of-artificial-intelligence-to-increase-reliability"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33878495"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33878495"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "From Startup Nation to AI Nation: Listening to Machines"
+    excerpt: "Two Israeli companies are seeking to introduce the innovation of AI to industrial and energy factories, leading the traditional manufacturing sector towards a better future"
+    publishedDateTime: 2023-08-15T16:27:00Z
+    webUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-listening-to-machines/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 37
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/users/ami-appelbaum1692115798-400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "From Startup Nation to AI Nation: The Farmer Knows Best"
+    excerpt: "For thousands of years, agriculture was based on human expertise and gut feelings, but this simply isn't enough in the 21st century"
+    publishedDateTime: 2023-08-15T16:37:00Z
+    webUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-the-farmer-knows-best/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 37
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/users/ziv-katzir1692116510-400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Dialpad integrates generative AI across its call center suite"
+    excerpt: "Cloud communications provider Dialpad Inc. is continuing its aggressive rollout of artificial intelligence capabilities with today’s launch of DialpadGPT, which it describes as a domain-specific large language model that’s tailored to the needs of customer service, sales, and recruiting operations."
+    publishedDateTime: 2023-08-15T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/08/15/dialpad-integrates-generative-ai-across-call-center-suite/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+  - title: "Generative AI use cases for Asset Management Firms"
+    excerpt: "Our generation is witness to the emerging power of current game-changer Generative AI (GenAI), which is a deep learning technique of Artificial Intelligence ... which itself is a convergence of neural network models, made commercially available now due ..."
+    publishedDateTime: 2023-08-17T08:29:00Z
+    webUrl: "https://www.finextra.com/blogposting/24754/generative-ai-use-cases-for-asset-management-firms"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "Multinationals turn to generative AI to manage supply chains"
+    excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
+    publishedDateTime: 2023-08-13T03:59:00Z
+    webUrl: "https://www.ft.com/content/b7fafed2-9d00-49b0-a281-c1002b139865"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "RlFX+GgZNTS+dXJ3e2A76GQ6QeyAf+0t81hY66n3QMSz53d7h4eMVE4UJNdbYs0JAjbrZCEqhgCQQSvZzzpeWTsu6ZQ/HTA8LdfXKtjy5+ZXnBCNbgVoq+H6ChlRq/Dp85CmGDlLRKxePmZ+8NjqbFizLlgC7Jqdke0MROJbVKpxU0Ow6soA7YlCLVXAlulrsJzojFZeFWSTPIVh1igTxkglpKarJxL6nrMWRuhE6r5LCuy8PntPsjWI7vbukpf3JGDThCPdIDKJFwT//+unGbP7nvgmmcDcdfwFlOneujUn628+olcq7RDQemmMM46AWbeHzVQtqgrTW+/q/0OAbRt7GtFUWdMpPAwAllCBauo=;vmwWpIxhZOBCIrDJ2ypv6w=="
 ---

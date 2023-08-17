@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704792/7-low-code-platforms-embra
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.amp.html"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Filsaime's Groove AI AI-Powered Copywriting Platform by Muncheye Launch"
+    excerpt: "Muncheye announced the release of Mike Filsaime's Groove AI, a new software platform featuring a new transformative approach to digital"
+    publishedDateTime: 2023-08-15T23:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mike-filsaime-s-groove-ai-ai-powered-copywriting-platform-by-muncheye-launch-1032557174"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/10666/89104758-1692158356-0.jpg"
+        width: 321
+        height: 480
+        isCached: true
   - title: "SQream Expands its End-To-End Low-Code Analytics Platform with Flex Connector AI Assistant"
     excerpt: "New features leveraging AI and LLMs establish Panoply as the easiest end-to-end analytics platform for SMEs to obtain critical business insights without complicated code. TEL AVIV"
     publishedDateTime: 2023-08-15T17:47:00Z

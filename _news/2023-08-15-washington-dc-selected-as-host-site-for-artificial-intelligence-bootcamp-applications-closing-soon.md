@@ -33,22 +33,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Fort Lauderdale Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-    excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The ODP Corporation at the Alan B. Levan"
-    publishedDateTime: 2023-08-14T14:27:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33834825/fort-lauderdale-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-so"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33834825"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33834825"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Plano Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital"
     publishedDateTime: 2023-08-14T14:51:00Z
@@ -108,6 +92,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
+  - title: "Fort Lauderdale Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
+    excerpt: "FORT LAUDERDALE, Fla., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The ODP Corporation at the Alan B. Levan | NSU Broward Center of Innovation in Fort Lauderdale. Applications for the no-cost bootcamp are closing soon!"
+    publishedDateTime: 2023-08-14T16:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fort-lauderdale-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032552088"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
   - title: "El Segundo Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!"
     excerpt: "EL SEGUNDO, Calif., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Notified in El Segundo. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-14T14:38:00Z

@@ -35,8 +35,8 @@ related:
         isCached: true
   - title: "App Science Announces New AI Feature Within Its Insights Analytics Dashboard"
     excerpt: "The new AI feature is available immediately and in use currently by App Science clients. To learn more about the capabilities of App Science Insights and how it works, visit https://www.appscience.inc/solutions/insights."
-    publishedDateTime: 2023-08-16T11:42:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/16/9865492.htm"
+    publishedDateTime: 2023-08-16T12:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/16/9865492.htm"
     type: article
     provider:
       name: TMCnet
