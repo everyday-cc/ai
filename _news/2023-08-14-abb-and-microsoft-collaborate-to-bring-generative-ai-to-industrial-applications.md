@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft AI suggests food bank as a “cannot miss” tourist spot in Canada"
+    excerpt: "Late last week, MSN.com's Microsoft Travel section posted an AI-generated article about the \"cannot miss\" attractions of Ottawa that includes the Ottawa Food Bank, a real charitable organization that feeds struggling families. In its recommendation text, Microsoft's AI model wrote, \"Consider going into it on an empty stomach.\""
+    publishedDateTime: 2023-08-17T20:14:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 120
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/unnamed-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Microsoft Stock Is Set To Skyrocket Into The AI Future"
     excerpt: "Exploring the Resilience and Growth Potential of Microsoft's Stock: An In-Depth Analysis of Factors Driving Microsoft's Financial Health, and Future Prospects"
     publishedDateTime: 2023-08-15T10:00:00Z
@@ -57,22 +73,6 @@ related:
         width: 1200
         height: 554
         isCached: true
-  - title: "Microsoft Azure awards Protiviti specialisation in AI"
-    excerpt: "“Protiviti is proud to collaborate with Microsoft to be a leading provider of AI enabled capabilities,” said Christine Livingston, global leader of Protiviti’s AI services. “Together with Microsoft, we look forward to helping organizations utilize AI solutions responsibly to drive impactful transformation in their businesses.”"
-    publishedDateTime: 2023-08-15T04:45:00Z
-    webUrl: "https://www.consultancy.uk/news/35089/microsoft-azure-awards-protiviti-specialisation-in-ai"
-    ampWebUrl: "https://www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai"
-    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai"
-    type: article
-    provider:
-      name: Consultancy
-      domain: consultancy.uk
-    quality: 89
-    images:
-      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-10-021905627-Microsoft_Azure_awards_Protiviti_specialisation_in_AI_spot.jpg"
-        width: 546
-        height: 312
-        isCached: true
   - title: "How to use speech to text in Microsoft Word"
     excerpt: "Developed and refined over many years, Microsoft's speech recognition and voice typing technology is an efficient way to get your thoughts out, create drafts and make notes. Just like the best ..."
     publishedDateTime: 2023-08-15T16:41:00Z
@@ -86,20 +86,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/B5tyi6qFDKKunFkdaCYb5c-1200-80.jpg"
         width: 970
         height: 545
-        isCached: true
-  - title: "Introducing Microsoft Azure ChatGPT: Elevating Enterprise Efficiency with AI-Powered Solutions"
-    excerpt: "ALBAWABA - Microsoft Azure ChatGPT marks a pioneering stride in empowering enterprises to optimize their operational dynamics using the capabilities of"
-    publishedDateTime: 2023-08-17T10:34:00Z
-    webUrl: "https://www.albawaba.com/business/introducing-microsoft-azure-chatgpt-elevating-enterprise-efficiency-ai-powered-solutions"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 57
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-08/Introducing%20Microsoft.jpg?itok=OC-Pl6Ao"
-        width: 1200
-        height: 675
         isCached: true
   - title: "LaLiga partners with Microsoft to infuse sports with AI innovation"
     excerpt: "Globant, LaLiga, and Microsoft are partnering to create AI services for the sports industry. LaLiga and Microsoft have collaborated, who have teamed up in the"
@@ -115,29 +101,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft's AI First Movers programme helps LawVu speed contract processes"
-    excerpt: "Tauranga-based legal software developer LawVu is one beneficiary of a Microsoft programme that is ​helping developers deploy generative AI."
-    publishedDateTime: 2023-08-15T23:57:00Z
-    webUrl: "https://www.reseller.co.nz/article/708377/microsofts-ai-first-movers-programme-helps-lawvu-speed-contract-processes/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 52
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/lawvu_kidd.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "Globant, LaLiga Tech Team With Microsoft For Generative AI Applications In Sports, Broadcasting"
-    excerpt: "IT and Software Development company Globant S.A. (GLOB) announced Thursday its collaboration with LaLiga Tech and tech major"
-    publishedDateTime: 2023-08-17T09:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/globant-laliga-tech-team-with-microsoft-for-generative-ai-applications-in-sports-broadcasting-1032562457"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
   - title: "Amazon chips will help to compete with Google, Microsoft in AI race, here’s how"
     excerpt: "Amazon aims to enter the generative artificial intelligence (AI) market and has begun developing microchips to compete against tech majors such as Goo"
     publishedDateTime: 2023-08-14T12:33:00Z
@@ -147,20 +110,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 47
-  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
-    excerpt: "IBM announced today that it is expanding its collaboration with Microsoft to help joint clients accelerate the deployment"
-    publishedDateTime: 2023-08-17T17:09:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-consulting-collaborates-with-microsoft-to-help-companies-accelerate-adoption-of-generative-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
   - title: "ABB and Microsoft bring generative AI to industrial applications"
     excerpt: "Automation and electrification specialists ABB is tapping into Microsoft Azure OpenAI Service to bring Generative AI to industrial"
     publishedDateTime: 2023-08-16T06:47:00Z
@@ -179,24 +128,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 34
-  - title: "LaLiga and Globant partner with Microsoft to create AI tech services for sport"
-    excerpt: "IT services giant Globant and Spanish soccer’s LaLiga are partnering with Microsoft to create a range of artificial intelligence (AI) services for the sports industry."
-    publishedDateTime: 2023-08-17T13:57:00Z
-    webUrl: "https://www.sportspromedia.com/news/laliga-tech-globant-microsoft-ai-tech/"
+  - title: "Dentsu partners with Microsoft to unleash AI-powered innovation for brands"
+    excerpt: "Dentsu’s deployment of Microsoft’s Azure OpenAI provides launchpad for two new client-ready solutions across CXM within a private, enterprise-grade, secure development environment Dentsu Group Inc .."
+    publishedDateTime: 2023-08-17T18:30:00Z
+    webUrl: "https://www.dailymirror.lk/business-news/Dentsu-partners-with-Microsoft-to-unleash-AI-powered-innovation-for-brands/273-265493"
     type: article
     provider:
-      name: SportsPro
-      domain: sportspromedia.com
-    quality: 30
-  - title: "Doctors use Artificial Intelligence software to plan for the future"
-    excerpt: "About 30% of U.S. doctors are approaching retirement age, but only 12% are choosing to retire. Why? In a financial environment struggling with inflation, advance preparation for retirement is necessary for all physicians seeking more comfortable golden years."
-    publishedDateTime: 2023-08-15T15:46:00Z
-    webUrl: "https://neworleanscitybusiness.com/blog/2023/08/15/doctors-use-artificial-intelligence-software-to-plan-for-the-future/"
-    type: article
-    provider:
-      name: New Orleans City Business
-      domain: neworleanscitybusiness.com
-    quality: 19
+      name: The Daily Mirror
+      domain: dailymirror.lk
+    quality: 32
 
 secured: "KMmm6XYDFV55pYPYCXxxdNmPurgSYysCfjyN0SrMeKMaJwLe8ztWAuJdJJT2oRCLQMe8Oo5WVP12t10Qtnt8Q7RlMcu8t2wiYobh970hKOT/xlzAe5ZXsxh4pITOlXHFXaDHeWPJit/xFo2ore4m3FH99rgJE//eC3QFIJ69kpZdAXlG3L/CZpFWS8ikK+0vppv2VzbRGWQWKlvNZZRDumB7qEJE7R8hMR7nF+ctnvWgLhzxfr79l0kGM0fxoPIB6vJMGsaWAucHN7PoNS4xRunoHBLRZ6dievUHGnrZqLY4KXf2gJfIRlWEoubaJPZfOmeY7zzTcsvnzLgDy5+0CMR9WWRqWUA905Z5GYhHb9Q=;ZK6aIzsstmBiokndPnMWBg=="
 ---

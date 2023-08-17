@@ -19,183 +19,82 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Stock Is Set To Skyrocket Into The AI Future"
-    excerpt: "Exploring the Resilience and Growth Potential of Microsoft's Stock: An In-Depth Analysis of Factors Driving Microsoft's Financial Health, and Future Prospects"
-    publishedDateTime: 2023-08-15T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/"
-    ampWebUrl: "https://www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/amp/"
+  - title: "Shaping The AI Future: A Shared Journey"
+    excerpt: "AI isn't just about flashy robots or an elevated gaming experience. It's about a transformative force that's currently driving a shift in social norms."
+    publishedDateTime: 2023-08-15T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/15/shaping-the-ai-future-a-shared-journey/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c6dd5758fabf29ee775ae8/0x0.jpg?format=jpg&crop=2447,1377,x0,y802,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Find Out How Microsoft’s AI-Powered Shopping Tools Can Save You Money—And Time"
-    excerpt: "According to the company, Microsoft Edge has offered $3.7 billion in savings to shoppers worldwide in the last year thanks to built-in shopping features"
-    publishedDateTime: 2023-08-13T15:19:00Z
-    webUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/"
-    ampWebUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 100
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d64c192cef1748f0b1ea3f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 554
-        isCached: true
-  - title: "Microsoft Azure awards Protiviti specialisation in AI"
-    excerpt: "“Protiviti is proud to collaborate with Microsoft to be a leading provider of AI enabled capabilities,” said Christine Livingston, global leader of Protiviti’s AI services. “Together with Microsoft, we look forward to helping organizations utilize AI solutions responsibly to drive impactful transformation in their businesses.”"
-    publishedDateTime: 2023-08-15T04:45:00Z
-    webUrl: "https://www.consultancy.uk/news/35089/microsoft-azure-awards-protiviti-specialisation-in-ai"
-    ampWebUrl: "https://www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai"
-    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai"
-    type: article
-    provider:
-      name: Consultancy
-      domain: consultancy.uk
     quality: 89
     images:
-      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-10-021905627-Microsoft_Azure_awards_Protiviti_specialisation_in_AI_spot.jpg"
-        width: 546
-        height: 312
-        isCached: true
-  - title: "How to use speech to text in Microsoft Word"
-    excerpt: "Developed and refined over many years, Microsoft's speech recognition and voice typing technology is an efficient way to get your thoughts out, create drafts and make notes. Just like the best ..."
-    publishedDateTime: 2023-08-15T16:41:00Z
-    webUrl: "https://www.techradar.com/how-to/use-speech-microsoft-word"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 71
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/B5tyi6qFDKKunFkdaCYb5c-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
-  - title: "Introducing Microsoft Azure ChatGPT: Elevating Enterprise Efficiency with AI-Powered Solutions"
-    excerpt: "ALBAWABA - Microsoft Azure ChatGPT marks a pioneering stride in empowering enterprises to optimize their operational dynamics using the capabilities of"
-    publishedDateTime: 2023-08-17T10:34:00Z
-    webUrl: "https://www.albawaba.com/business/introducing-microsoft-azure-chatgpt-elevating-enterprise-efficiency-ai-powered-solutions"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 57
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-08/Introducing%20Microsoft.jpg?itok=OC-Pl6Ao"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63b57b0a819d2bc95e95e410/0x0.jpg?format=jpg&crop=2440,1373,x0,y126,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "LaLiga partners with Microsoft to infuse sports with AI innovation"
-    excerpt: "Globant, LaLiga, and Microsoft are partnering to create AI services for the sports industry. LaLiga and Microsoft have collaborated, who have teamed up in the"
-    publishedDateTime: 2023-08-17T15:41:00Z
-    webUrl: "https://www.onmsft.com/news/laliga-partners-with-microsoft-to-infuse-sports-with-ai-innovation/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Microsoft-LalIga.png"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Microsoft's AI First Movers programme helps LawVu speed contract processes"
-    excerpt: "Tauranga-based legal software developer LawVu is one beneficiary of a Microsoft programme that is ​helping developers deploy generative AI."
-    publishedDateTime: 2023-08-15T23:57:00Z
-    webUrl: "https://www.reseller.co.nz/article/708377/microsofts-ai-first-movers-programme-helps-lawvu-speed-contract-processes/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 52
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/lawvu_kidd.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "Globant, LaLiga Tech Team With Microsoft For Generative AI Applications In Sports, Broadcasting"
-    excerpt: "IT and Software Development company Globant S.A. (GLOB) announced Thursday its collaboration with LaLiga Tech and tech major"
-    publishedDateTime: 2023-08-17T09:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/globant-laliga-tech-team-with-microsoft-for-generative-ai-applications-in-sports-broadcasting-1032562457"
+  - title: "ODDITY Tech's Bright Future, Analyst Credits Artificial Intelligence"
+    excerpt: "KeyBanc Capital Market analyst Scott Schoenhaus initiated coverage on ODDITY Tech Ltd (NASDAQ: ODD) at an Overweight rating"
+    publishedDateTime: 2023-08-15T18:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/oddity-tech-s-bright-future-analyst-credits-artificial-intelligence-1032556550"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 52
-  - title: "ABB and Microsoft collaborate to bring generative AI to industrial applications"
-    excerpt: "Expanding on their long-standing partnership, ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability™ Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
-    publishedDateTime: 2023-08-14T06:32:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/abb-and-microsoft-collaborate-to-bring-generative-ai-to-industrial-applications-2023-08-14"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 50
-    images:
-      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001080035_resized_abbenablescustomerstorealizethebenefitsofdigitalizationthroughsixindustryvaluepillars1022.jpg"
-        width: 1022
-        height: 575
-        isCached: true
-  - title: "Amazon chips will help to compete with Google, Microsoft in AI race, here’s how"
-    excerpt: "Amazon aims to enter the generative artificial intelligence (AI) market and has begun developing microchips to compete against tech majors such as Goo"
-    publishedDateTime: 2023-08-14T12:33:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-chips-will-help-to-compete-with-google-microsoft-in-ai-race-heres-how/articleshow/102726767.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
     quality: 47
-  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
-    excerpt: "IBM announced today that it is expanding its collaboration with Microsoft to help joint clients accelerate the deployment"
-    publishedDateTime: 2023-08-17T17:09:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-consulting-collaborates-with-microsoft-to-help-companies-accelerate-adoption-of-generative-ai/"
+  - title: "How humans should prepare for the future with AI"
+    excerpt: "We currently live in a world where technology is advancing at an unprecedented pace, and smart machines are becoming an integral part of our daily lives. Artificial Intelligence (AI) has"
+    publishedDateTime: 2023-08-15T06:52:00Z
+    webUrl: "https://www.thecable.ng/how-humans-should-prepare-for-the-future-with-ai"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
+      name: TheCable
+      domain: thecable.ng
     quality: 41
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
+      - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2.jpg"
+        width: 1661
+        height: 962
         isCached: true
-  - title: "ABB and Microsoft bring generative AI to industrial applications"
-    excerpt: "Automation and electrification specialists ABB is tapping into Microsoft Azure OpenAI Service to bring Generative AI to industrial"
-    publishedDateTime: 2023-08-16T06:47:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/662/241021.html"
+  - title: "Quanta sees AI as future growth driver"
+    excerpt: "Quanta Computer expects its future operation and profitability to be majorly driven by the AI business and in addition to servers and automotive AI chips, the company has also been keen on developing medical solutions and formed technology transfer.."
+    publishedDateTime: 2023-08-17T10:27:00Z
+    webUrl: "https://www.digitimes.com/news/a20230816PD212/quanta-ai-applications-healthcare.html"
     type: article
     provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 34
-  - title: "ABB, Microsoft bring generative AI to industrial applications"
-    excerpt: "ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
-    publishedDateTime: 2023-08-17T07:45:00Z
-    webUrl: "https://it-online.co.za/2023/08/17/abb-microsoft-bring-generative-ai-to-industrial-applications/"
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230816pd212_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "The future of artificial intelligence in accessibility"
+    excerpt: "AI is already playing a massive part in our lives, however, what role does artificial intelligence play in accessibility?"
+    publishedDateTime: 2023-08-16T14:14:00Z
+    webUrl: "https://www.openaccessgovernment.org/the-future-of-artificial-intelligence-in-accessibility/165188/"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
-  - title: "LaLiga and Globant partner with Microsoft to create AI tech services for sport"
-    excerpt: "IT services giant Globant and Spanish soccer’s LaLiga are partnering with Microsoft to create a range of artificial intelligence (AI) services for the sports industry."
-    publishedDateTime: 2023-08-17T13:57:00Z
-    webUrl: "https://www.sportspromedia.com/news/laliga-tech-globant-microsoft-ai-tech/"
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/08/iStock-1270805321-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Artificial Intelligence Continues to Shape the Future of Automation"
+    excerpt: "Artificial Intelligence (AI) has had a profound impact on the future of automation, revolutionizing various industries and processes. Here are some key ways in which AI has shaped the future of automation: Enhanced Efficiency and Productivity: AI-powered automation systems can perform repetitive tasks with greater accuracy and speed than human workers."
+    publishedDateTime: 2023-08-16T19:35:00Z
+    webUrl: "https://www.financialbuzz.com/artificial-intelligence-continues-to-shape-the-future-of-automation/"
     type: article
     provider:
-      name: SportsPro
-      domain: sportspromedia.com
-    quality: 30
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 17
 
 secured: "lpUxpQ/LEGnUbLXPyTfZXTygr7NZOemrKJvnx7iAHwk33Nj4r/u8YTfNfw4nkbPsu/eUQICtDqIq1i/JPuCbZIMuzjjzABcy3M6DrqZtY8NJmhbHdUUCPCy8m7lnHsudmPSJCSvR1p6u+/+BrgRaShPWJEngztkiJyAvOjGEpNDBqDah0xUMFnXl7v0eKY1p2UVJyZvmnfS264297cPVgmVoPoKx5vYy4aP0l1vlT3XX6PmTgV7/zF5N2XysXpoU3/xOr7IwuRkraD7ahsw/hHgRlovKJZ1NCC9zH87GQZG5Hqh6XHHXTjCrd+ZAGhQcPngT0JjTFxEaqdThCgMqykE3Z1RkPii1yauVSfD1hmnH+YH2y5ZpabbozgOJnaZcO/6A7Nmtqd+UzVZim+WZ7XQDefvqaovZLr80268KH7+FKkUOsXL0ZFhy6oaOrgyeQazkaJMUXg3VRsdxKO69tqAVdVy5TiA5K9QMocJ3MXMgN1W715Y20v1ISi662Ji7q4R9wzS3GnYoT4elxEpBiQ==;9ZTLWmx1Qoc8pHwVm/Fvgw=="
 ---

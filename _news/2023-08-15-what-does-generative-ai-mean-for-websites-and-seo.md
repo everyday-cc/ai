@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "ServiceNow Sees Generative AI Monetization Opportunity"
+    excerpt: "ServiceNow’s generative AI capabilities—powered by the company’s enterprise-grade, domain-specific large language models (LLMs)—are being infused into all of the company’s workflow offerings. The AI advancements will help customers alleviate repetitive work, improve productivity and generally score a higher ROI."
+    publishedDateTime: 2023-08-17T21:55:00Z
+    webUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/"
+    ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64de8d774a30c633290eda18/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "C30XxMCHh9sOki/sgvUYBKdoksG7vCFSuKKx10j5FHf7teiIdcw514XhXtQy0DWteR6XhweocOxb6ce05Ml9Sbtvs8BwNbzOje8c3kZy8V0Fz7FxdIMUkf63Kh13080pSVDDqAm+mzLeO8HGcyfA+kzzv3oEotSImKOkPxVHX8zk+VBIExg5DkNwSg9U5vtkKu0vbxM2WT+MLt7U+uD2KuAJtzRG8f1RZwezP4qWsS1bzKKUWiWL4IhWdh3fbhCruNzs/ZR81qVg3fI4nIEVJi4cmR0j00dt3rFW8FRx1QsltbX3NfU7k7pE2MesK9PEA/d6y5TIfEA8WJeskSagvSWtLRR/+GNoNB2HIX2MFen7UgT41sxKYTleUytgE2OyhR7ehldCNeUwEi94bagHBX5v3RTe1jeQbb8m8XICxykVpa4FYyfcvnuAL8nLd/dSUC0AGGLtuKes30uIImeENpTjCE747E+GQ5MAn/SO6w2p10OpaFEj6oU5nccc1IC2xJgEjcP5sJIWuryLE4Pa0w==;Izzx/Haxj0ylXLXKj9I7Gg=="
 ---

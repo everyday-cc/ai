@@ -35,6 +35,15 @@ related:
         width: 768
         height: 576
         isCached: true
+  - title: "Nvidia’s AI Chips Are Pulling Ahead in the Cloud. Why the Stock Is a Buy."
+    excerpt: "Jefferies analyst Mark Lipacis analyzed the June data for the six top cloud-based service providers and found that Nvidia gained market share over the past year."
+    publishedDateTime: 2023-08-17T19:47:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-ai-chips-stock-buy-9755a69f"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 33
 
 secured: "XM11orm9T3h6wv2EyrB9pGLhMsIwKBwJDDshYVvJ+xXKgPU7s2JnA10Nac5/T5uoLtmjVQSn19MhhBwG6uJITIeBoU+K9Juhfg89QkGr29/WutMbGxKbd1LileqB+skFMOwGvd6IW9qIoYu6ftEO9iUI1D2g2gijtF/j8C3DeZ3FCaHx2JFSRGtSfFl6yhWihwwOwImX/Q4rM/QXNjMSSsVQZDwBPafk/NzYjPUWrT457jTiO5hxtzfptph428tAd8JXLMCVrFvKUgsa7GbTwNDGvtEaTEtnYdC+OY7+H1Sb+vEjPRI4Qwtz43aWhOa4LpB+DQM9lnqCLR9OZu/0NxXXjVkIUHmDo256jsST7OmfozvyFqUTUjxcpM5zeT1GYhugp45aoJHdRl15g0Rm1P19l0juQDdmFGaa7rLeVmq+Y7oc/EXvwjmMjojrStwiV0Xaj5BHr/ahzcpuQTcG/CE5KsE5yZ+5we8QfJC5w9Tf79rHqu1lPG3cL37TQc7HiWqD1hAOFi0Os0dAMuVh2w==;u2AmD41BVnT5sv5t80nD/g=="
 ---

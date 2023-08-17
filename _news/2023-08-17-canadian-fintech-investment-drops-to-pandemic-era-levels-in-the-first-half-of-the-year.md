@@ -55,6 +55,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "6 fintech investors sound off on AI, down-rounds and what’s ahead"
+    excerpt: "What is getting the thumbs up and what’s not in the theme of the moment? What’s been surprising to me about AI in fintech is how much of it seems to be under the hood (automating rote internal tasks) rather than facing externally (flashy new features)."
+    publishedDateTime: 2023-08-17T18:16:00Z
+    webUrl: "https://techcrunch.com/2023/08/17/fintech-investors-q2-2023-down-rounds/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/fintech-survey.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How new AI demands are fueling the data center industry in the post-cloud era"
     excerpt: "Builders, investors and users will benefit from flexible data center infrastructure strategies that can harness AI and foster growth."
     publishedDateTime: 2023-08-13T15:19:00Z

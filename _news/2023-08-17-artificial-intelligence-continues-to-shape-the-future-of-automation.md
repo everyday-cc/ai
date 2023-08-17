@@ -85,6 +85,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Doctors use Artificial Intelligence software to plan for the future"
+    excerpt: "About 30% of U.S. doctors are approaching retirement age, but only 12% are choosing to retire. Why? In a financial environment struggling with inflation, advance preparation for retirement is necessary for all physicians seeking more comfortable golden years."
+    publishedDateTime: 2023-08-15T15:46:00Z
+    webUrl: "https://neworleanscitybusiness.com/blog/2023/08/15/doctors-use-artificial-intelligence-software-to-plan-for-the-future/"
+    type: article
+    provider:
+      name: New Orleans City Business
+      domain: neworleanscitybusiness.com
+    quality: 19
 
 secured: "HB/etcFMXoKTTLQvdznPvWTCCBY0Hv/73u3RGQKaRD16wpew+81f3jBvNTH7qMKM5KyffaV3FQAel5eBu0XaCauhf2kjgSRUJTVVq0+DjoD18hio0epeqWOhRjrcLhKAEMmR5YO/f50NzRGwiRLpF04hjdO7QET2aV6GStlmZbkng+3RCxILFCtmc/csWrg7AfrVc6s2uYRQ542CrAwScco0vJIA9hZCiowOf9z3tlWn5m53fuo1iuVKneAJm/KHQbEfYhPh94go5xEATs7H0joUKsT7Lm9FiPrqtc2t2qMZwLvq/o7IxcFS/4QLKO+JDzxYir7HRK10BnI/nCz2DW3I2t1FD2OBMFyxkMQMkCsHjgurFvCJ/8fygRoRGkQGW/R1/bGd7UPF3LquUukpSPEWMJkM8a5WLW1AtOVtwTikWB1yvJfQYuHjYP4RA1QK+kIJe4gWIicXRE33+V5Ue9lC8Eo+z77JPtSEEwoas4KA+dP0GcRqShDpfdFX+FRk1va+uY6hShPbg+mY0RD5bA==;4X34JdZmfwplCNyCE3zvOA=="
 ---

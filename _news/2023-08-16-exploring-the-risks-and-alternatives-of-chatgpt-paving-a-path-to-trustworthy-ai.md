@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-c
 webUrl: "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/"
 type: article
 quality: 94
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64dcd6ddb9f53bfc4f3d516d/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Introducing Microsoft Azure ChatGPT: Elevating Enterprise Efficiency with AI-Powered Solutions"
+    excerpt: "ALBAWABA - Microsoft Azure ChatGPT marks a pioneering stride in empowering enterprises to optimize their operational dynamics using the capabilities of"
+    publishedDateTime: 2023-08-17T10:34:00Z
+    webUrl: "https://www.albawaba.com/business/introducing-microsoft-azure-chatgpt-elevating-enterprise-efficiency-ai-powered-solutions"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 57
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-08/Introducing%20Microsoft.jpg?itok=OC-Pl6Ao"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Learning to be a writer? Clinic topics include ChatGPT and getting an agent"
     excerpt: "Local authors and educators Gary Arnold and Alexandra Weiss will be featured in the August Saturday Writers’ Clinic beginning at 9:30 a.m. Aug. 19 at the East Bank Regional Library,"

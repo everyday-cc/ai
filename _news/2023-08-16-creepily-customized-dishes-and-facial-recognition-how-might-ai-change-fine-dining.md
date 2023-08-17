@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/environment/2023/aug/16/ai-fine-dining-c
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1400
         height: 735
         isCached: true
+  - title: "Facial recognition has been at CVG 3 months. How's it going?"
+    excerpt: "In the next few months, facial recognition at CVG could be expanding. TSA Spokesperson Mark Howell says there are only 25 U.S. airports with the technology at the security checkpoint."
+    publishedDateTime: 2023-08-17T19:03:00Z
+    webUrl: "https://www.wvxu.org/science-and-technology/2023-08-17/facial-recognition-cvg-cincinnati-northern-kentucky-airport"
+    type: article
+    provider:
+      name: WVXU
+      domain: wvxu.org
+    quality: 19
 
 secured: "sRM6rie/0YJ9cSayWv6AlTlDmJfcOuGHt4t9Kvceg+Xkw9Q3TGFBXv/MRXMcSs1oZtrrfmhYEW00NYYU8KJlPowB8IAOUu9WBRWZd812bWGWNixd98gF46vgMwTTKt7qeZ0H5DnVap4lXzmpFDePG0WrAW7l8ripxSB5uIKBr4AEP+BgZcsN6YO4V8VTaGb+EkJONSRRZN2LkZL4xQxQYx1JGowvsWurkB71b+rlGjse4Ga5OyKdgXvqWypPSCJt8Kzp0wPUyIuQ9cNCv+4zly+ccoqHShwhTog80jNtfHMASMpCYjXZaP5RnkzfKI00d8Ke6XU54wcxgUUyW8kmIrZyorw7kLBORSl8HZu/hoedFnV4QrLVZiOILXDGHJPARomrM0K3liYZNdhNZWRW1AndY1VCeX8YOI4Pmml2EaXal5LJ7jqdENR3cFcMOV0GJ9wkZ0DE2T7AZnKRexMbHF/jPozjYqhNzal0NpQL3P3EvnkEPuO9GPPyVZaRRZ55QBN0KrwFwAQ1kyA0EVB8Bg==;NxW2dQpPyGLnwaIc7wynag=="
 ---

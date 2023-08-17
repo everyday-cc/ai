@@ -19,36 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "National party refuses to back Peter Dutton on alternative Indigenous voice proposal"
-    excerpt: "David Littleproud says his party has ‘real concern’ about regional advisory bodies Dutton has promised to put in legislation, but not in the constitution"
-    publishedDateTime: 2023-08-13T02:41:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/aug/13/national-party-refuses-to-back-peter-dutton-on-alternative-indigenous-voice-proposal"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/aug/13/national-party-refuses-to-back-peter-dutton-on-alternative-indigenous-voice-proposal"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/aug/13/national-party-refuses-to-back-peter-dutton-on-alternative-indigenous-voice-proposal"
+  - title: "National Party at odds with Liberals on legislating Voice if referendum fails and Coalition secures election victory"
+    excerpt: "The Coalition has presented a split stance on how it would recoup from the consequences of an unsuccessful Voice to Parliament referendum if the LNP were to win the next election."
+    publishedDateTime: 2023-08-13T22:32:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/national-party-at-odds-with-liberals-on-legislating-voice-if-referendum-fails-and-coalition-secures-election-victory/news-story/da713f27ccb6f18e7f994f2831bba1e3"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/national-party-at-odds-with-liberals-on-legislating-voice-if-referendum-fails-and-coalition-secures-election-victory/news-story/da713f27ccb6f18e7f994f2831bba1e3?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/national-party-at-odds-with-liberals-on-legislating-voice-if-referendum-fails-and-coalition-secures-election-victory/news-story/da713f27ccb6f18e7f994f2831bba1e3?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 36
+    images:
+      - url: "https://content.api.news/v3/images/bin/dc59ef2bd08a5d57a33feaba5666178b"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Coalition at odds with itself over the Voice"
+    excerpt: "The federal Coalition is at odds with itself over the Indigenous Voice to parliament with Nationals leader David Littleproud refusing to endorse an alternative proposal by Peter Dutton, and deputy federal Liberal Leader Sussan Ley taking issue with NSW state Liberal leader Mark Speakman’s support."
+    publishedDateTime: 2023-08-13T06:44:00Z
+    webUrl: "https://www.afr.com/politics/federal/coalition-at-odds-with-itself-over-the-voice-20230813-p5dw2h"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.209%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_15/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/d08dd6cebfa5197cfa161e8b0d0ee5148e58870c"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Coalition’s position on the voice ‘clear as mud’ and ‘completely confused’, Burney says – as it happened"
+    excerpt: "Burney made the comments after the leader of the Nationals, David Littleproud, refused to commit to legislating an Indigenous voice if the Coalition wins the next election, even though Peter Dutton has proposed symbolic-only constitutional recognition ..."
+    publishedDateTime: 2023-08-13T18:01:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/aug/13/matildas-joy-womens-world-cup-2023-semi-final-voice-to-parliament-town-hall-city2surf-run-sydney?filterKeyEvents=true&page=with:block-64d836958f08e1f5a10e72c0"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 37
-    images:
-      - url: "https://i.guim.co.uk/img/media/39311fed73da5f436d909ef2d594c622b562046e/0_0_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=182a3ba25d5a153dd7f7db6b39201483"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Nationals leader rejects call for legislated Voice model despite Liberal backing"
-    excerpt: "Nationals leader David Littleproud says he does not support a legislated version of an Indigenous Voice, despite the Liberals backing the model."
-    publishedDateTime: 2023-08-13T02:45:00Z
-    webUrl: "https://www.sbs.com.au/news/article/nationals-leader-rejects-call-for-legislated-voice-model-despite-liberal-backing/ph8ayocen"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 19
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/66421c7/2147483647/strip/true/crop/5303x2983+0+142/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F21%2F6b%2F134b98654bd7aa44b1d8abed1347%2Fdavid-littleproud.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+    quality: 0
 
 secured: "ogsAdUUCVx4PuPFBp3WIIZy+ozjI9aV7E0ru+ERSsA/XA3egXLcsZKJme18Oo3t5g4dyo8Lvi4h5aWBG4dWZpy3Uo9pQb5liO0lF2GOunCCnczqfRxdi1SpOyOiQWVMEqSQ5RjCTPRpisoigc9E0sPlvRFcTgMBIb0gwajyzmPvqIIHjZMo0BKK8TGPEypRiWo9lo75ddGIgdpGCAYKRzitD1S2P73d9OttGTe3lBwxE7qs1oi8ujDgBmfEUFIG97jDQKKa2KylZOgbsVeFFUT087NWGL+Fp90bvrvPMPGI8/+lviDe+HgEu5Rvk0uO+48YG1lQAWq+ely6GaYJVEzrpj3DVPMcaUePbspLPZfPe6uivQSOIas0aCURXDj0l+cI/1+ZLFlkk6OhB2uBCSyUa+Yjb4zZLMbll604awEui9m2Wm8OHm9HGQYI5dwQFnhF29eZq29iyoBCTYH/1B/1Y5/ezul1wYp+PIVkNngahX81tZ3Cg1E1NLwq9X0YQK4w8vEDQLKypxKWkw2cYPQ==;ZBcO0S7agqgx/J+vfcHRPA=="
 ---

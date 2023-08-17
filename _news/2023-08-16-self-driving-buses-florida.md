@@ -35,6 +35,15 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Digital academy offers new AI course to high school students"
+    excerpt: "Agostinelli said the online course will focus on a few crucial areas in artificial intelligence: The history and future of A.I., exploration of career fields, and ethics. The program says this is one step forward in navigating this ever-expanding technology."
+    publishedDateTime: 2023-08-17T01:48:00Z
+    webUrl: "https://www.kjrh.com/digital-academy-offers-new-ai-course-to-high-school-students"
+    type: article
+    provider:
+      name: kjrh.com
+      domain: kjrh.com
+    quality: 19
   - title: "Artificial intelligence courses will be taught in some South Florida schools"
     excerpt: "More South Florida students will soon have the option to enroll in coursework centered around artificial intelligence, which is part of a University of Florida AI education program that began last"
     publishedDateTime: 2023-08-14T18:14:00Z

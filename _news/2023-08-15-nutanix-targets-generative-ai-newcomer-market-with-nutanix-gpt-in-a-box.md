@@ -42,6 +42,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
+  - title: "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution"
+    excerpt: "Nutanix (NASDAQ: NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box™ solution for customers l"
+    publishedDateTime: 2023-08-15T14:29:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/08/nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution/"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 17
 
 secured: "0FOB3iO9VF8FgcLJjS5RHYw7ooN1Wv+hB3nrekVnKkHw86irOepEXl3w1DlicRY+K1YFRfgD7/N/PTVplkEkWTbYYF38MU+JF9hkE+0qCIDpvctiXohbab1G4NvYTRGV+lEIDZriD9hxuI/OGhwHTB1NNznIc2RZMQlM4qatgCA+IKFRGFyTuIu6ZP52hUtgolGOEEuUoLFek4VKVpftsr1pzYWAOvdbaqU7l3m6Q6p1k3tKT/t8+jniDlafPljv3dLfIaXrNRM3Pm2gbEEhYueGEtaLDgA3RlCwqPMLawFyTxn5kmKZqP6JvnqOE6YHGzNos0Q9pYRKi/75he9RqMAboggsBoMV5NiruhzL+OoLFyW5/IYsrxl2xyURguTpJlfL8/Qo6i2x4Mzm053HBI74ZjH1I7/1vSbz634hTTrKTqyGBCMflsFL7P45Cgzo8PGb0CEhZQX9PBOEFUR+ZvuN3iuvXVTHWDT1Vj4CTfMgolWcFfflyBLrkTuDcGqjc4aNT0JyiDKzflirh2IGmg==;pV0ZX81S6ezUO2dO7TT/FQ=="
 ---

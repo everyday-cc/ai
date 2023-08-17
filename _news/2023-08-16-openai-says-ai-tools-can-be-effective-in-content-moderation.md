@@ -143,20 +143,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution"
-    excerpt: "Nutanix ( NASDAQ : NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box solution for customers looking to jump-start their artificial intelligence (AI) and machine learning (ML) innovation, while maintaining control over their data."
-    publishedDateTime: 2023-08-15T14:42:00Z
-    webUrl: "https://za.investing.com/news/nutanix-simplifies-adoption-of-generative-ai-with-new-gptinabox-solution-2844261"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 37
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
   - title: "The Evolving Role of Artificial Intelligence in Business: Staying Ahead of the Curve"
     excerpt: "This sentiment rings especially true when considering the transformative potential of artificial intelligence (AI) in the business world. Just as the advent of personal computers and the internet revolutionized many sectors, including law, AI is poised to ..."
     publishedDateTime: 2023-08-17T17:40:00Z

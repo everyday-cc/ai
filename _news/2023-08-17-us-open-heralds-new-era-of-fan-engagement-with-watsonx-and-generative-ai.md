@@ -37,6 +37,22 @@ related:
         width: 2100
         height: 1018
         isCached: true
+  - title: "The scientist behind IBM Watson has raised $60 million for his AI startup in New York"
+    excerpt: "David Ferrucci, who led the team behind IBM Watson, raised nearly $60 million in funding for his AI startup, Elemental Cognition, according to an SEC filing."
+    publishedDateTime: 2023-08-17T18:32:00Z
+    webUrl: "https://www.cnbc.com/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 97
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107288359-1692300055703-ferruci.jpg?v=1692306945"
+        width: 2766
+        height: 1844
+        isCached: true
 
 secured: "5r0MtkFDNgQNO+1XDMlB9T0nhp7L2JHEvdZsjgOZBkpnmoiGWcGhcB9p0s/QApufMDtYRC87pTuWBYrgokP7L2J1hv3WhjFpf22V5BExz5Ceceq0951BZ3CyQHtrFaAC7gvGcO51KM9Df+5U//FEFPwe2ZjNLIjr+fKFDlde2ypsRs46NKEO3VxukkNpL3d2j8iySOaeC3FAEJEAQFc2AWW8Wqx7FfYp8G53C8ESYNRTxdP0eaTyp1STsaKY67lZPR6CC/dg0wWTT0VIUVrbo7VQMfP5YIjjtQI/dOjTzzvy7JfNJSgLf8bfi5TNutN6nnsPTJ0nIO8kTv5iQXx/QJWsNBNj/cPsspDbavWp8PA=;rNkKohSRuxTh2nkjdcw7BQ=="
 ---

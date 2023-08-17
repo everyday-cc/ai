@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-
 cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp"
 type: article
 quality: 93
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 34
+  - title: "Nvidia’s AI Chips Are Pulling Ahead in the Cloud. Why the Stock Is a Buy."
+    excerpt: "Jefferies analyst Mark Lipacis analyzed the June data for the six top cloud-based service providers and found that Nvidia gained market share over the past year."
+    publishedDateTime: 2023-08-17T19:47:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-ai-chips-stock-buy-9755a69f"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 33
 
 secured: "9AZo2WXHdsx38CEUfF8PIM1mBxa4U3L3RFSnFdNyW6odlOYW8km5kTJMEdS0mldtWADruZHDJRTI/b/9PV3gFfkPL08/f59vVK18T+7RnyVor0TDcO1pKN1ddgEanFhdFyXHBKXO1FH8KGunJPygE7xLZTMl/n5XA2kGfdG8cziRfr563ZkTHKmOuN22vwn1omvmU8hRNWr76AxjnA9quhaIkJRoZCZ552VrqCJlIl+Ixhq6+VfnrgKrR+iN4FLOaF7HEBfS9OZNsGRpsrNjyG9K9QNuk+TQje8quNuTk/MaXZf+VjnVC0A5hONgSdagtRg8STpbsezrWDP0Wh8g/sKo+tXnB/OWljH1lwwknmgYkrRfWJqIWMrHYzrh0fYkYCRnJo0hjWW1uhTvprbzPYkVXjj8XptmIm7NZ9gLigDTG2H6/+Z76PfOm3NhzYrQPKXGw872kCVBcID1vQc391+AMdpIZA/EbAk86XlUdwCAAzVlBRbZChGmkxTHcZgML22bFnB/wDPaeaEbyDBRPw==;MC3+xG+ulXdHRupKXwAMGw=="
 ---

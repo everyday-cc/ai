@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704792/7-low-code-platforms-embra
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.amp.html"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
       name: KXAN
       domain: kxan.com
     quality: 19
+  - title: "How Artificial Intelligence Can Improve the World of Online Gaming Platforms"
+    excerpt: "In the realm of contemporary history, few topics have captured as much attention as Artificial Intelligence. Its rapid integration has emerged as a pivotal influence across numerous sectors, including the online casino industry. As technology propels ..."
+    publishedDateTime: 2023-08-17T19:50:00Z
+    webUrl: "https://it.tmcnet.com/topics/it/articles/2023/08/17/456820-how-artificial-intelligence-improve-world-online-gaming-platforms.htm"
+    type: article
+    provider:
+      name: it.tmcnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "HSYLOSyDyJ/s57dcSETyACLj8GKTF8R8jG1eQzEZgawJCGGz5uMP7Atci4r+2aNx4C/AHibc98ZpInMpT4CXUATmoUbJ4ns+yaFAMWGBwSejOHIZ7DkTvIh4zAnEHezCcvLxn2ahbSVM30Wi3UHwlaFSpYEzIrpM6cE9YIOZQdznIyJyYWXPH8pIv5EqBa9KzfkhhhngRs5FesezGrnHkSEKUMAwjLrrjQEQ+GRIDKS5LQbeLLKChk3LZUD9hn5q5xgm8kaZkq99tlWWmd3GBcU7UdVsqXlVx3cxvmr+4mK8mrk6cCc2wP+TXrg2R8wOPGIitMV9z0DFGuFlxafMK8ACGBwJkI6/6Ef4yPj+2m0qK0jBY3ep08aSkJVBrelaVWk42slI8m4wp6DVrVyWrpO2h5cab/qpttwU8zqYxnIo4G/MWIuRzGUh6gMriPGwmeEZ+JwMoM3Fhk9SZwUh1GroxAoWjw3GEPkh0mam+jOFKgIMGBYSCryBwEzIN+ovAACYn6xsH6TUPItv42DJZg==;AyQnqesVRfwkULUhKocLww=="
 ---

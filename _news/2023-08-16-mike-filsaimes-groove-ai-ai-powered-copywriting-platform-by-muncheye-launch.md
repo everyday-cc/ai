@@ -68,6 +68,15 @@ related:
       name: KXAN
       domain: kxan.com
     quality: 19
+  - title: "How Artificial Intelligence Can Improve the World of Online Gaming Platforms"
+    excerpt: "In the realm of contemporary history, few topics have captured as much attention as Artificial Intelligence. Its rapid integration has emerged as a pivotal influence across numerous sectors, including the online casino industry. As technology propels ..."
+    publishedDateTime: 2023-08-17T19:50:00Z
+    webUrl: "https://it.tmcnet.com/topics/it/articles/2023/08/17/456820-how-artificial-intelligence-improve-world-online-gaming-platforms.htm"
+    type: article
+    provider:
+      name: it.tmcnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "UAX/1Go6gAXU/Ubb4RDmeSyEf7YKNVreucr9fBZmuIXLSPeBQ4OsgytLiGdpkagoyxus37/DYyWevH4iVqEo4PpDd07HcsVZhMxX6umuyt6e9o8l3OqbKB3zBRjF5hYgmXUr580l7uRooEb6klzT7kXBR+fDb4aqECTMmpnKEApRqlmJGAEd53gBDANpqLWiun2XEAvq6Wqv6htQtmLj20a7sukLDhSSEUAlh73MrGoQpDIF3xabaEE0vD7k11+AICyxSmJ1oJehWWk0Ze4wObOxkZ3xJ6rD1AiH0V5l4YoQP1PJ5jqJHTJDt4Up0a5U8bdLJNG9khlNzf+TGQHOTijtBBvtg70q+prIWQWUknQ=;WLgWtuXwB5P8gJLXAW2Cvg=="
 ---

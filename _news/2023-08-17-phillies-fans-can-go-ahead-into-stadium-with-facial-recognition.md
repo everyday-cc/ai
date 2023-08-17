@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pennlive.com/life/2023/08/phillies-fans-can-go-ahead-int
 cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/life/2023/08/phillies-fans-can-go-ahead-into-stadium-with-facial-recognition.html?outputType=amp"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 2585
     isCached: true
 
-secured: "vzPHysXmG/hqWeygDIxW6qtxyyrmFf8/piag77Z76nyXTeSHZaOle91AkI9PNC749G/ZBAOX4H06PieI6jE78PVdamIcL9hYlWEl0BNlKczGDVgQ0U2+jdvLJozwoQ8N308rttt2krZG/mGt6/NSzPSA/yEvIIWUD6QKc1SRDBroZt8qiKIEAw1NQiwxdKnht7wTSyTHQIH/ELCjz4uGBoTiqppeyiZlk7hp3+vNK+or36GaNJOH9n0rN1AGmXK8VOe3d/tZ/6C2rEMoPTAxcA9eFpJn2Nq5c0OzpO0tAhBucx5XUpfuDDIWCThEM746PcK22mrnaLwqB63CpRxMid+yZTxknjffs4bRkJzPHa8=;iSHfPc3XKFRKfAJK5+3oRg=="
+related:
+  - title: "Phillies fans can soon enter Citizens Bank Park using facial recognition. Here's how it works"
+    excerpt: "For the first time ever you will have the option to use your face as a ticket at Citizens Bank Park come Monday."
+    publishedDateTime: 2023-08-17T20:40:00Z
+    webUrl: "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/"
+    ampWebUrl: "https://6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/"
+    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/"
+    type: article
+    provider:
+      name: 6abc News
+      domain: 6abc.com
+    quality: 65
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/13664068_081723-wpvi-phillies-facial-recognition-4pm-CC-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "FM+g7KuCPn3tgtsjGwWRZnx8lo/TmAxBD8UV4LMqSkONeyS9wl+FQNXb8CpmoXqcyHkESOJnNOYFoIYDuVIID2KDEE++jlo8vUFLZForOfHnvHh8MdCFal7e+nTPQ6nZ0dADMh5YdcuzZhsS0YGgyZwKnlAIS2shNXocQ76UeXcj5QeaN++zXSLB2slOGaWroBI2avfF/LIcWp+8PBk4FhQ/pbWgneKu5QvXxO0JL2dv9t5pkwXA5V44M2uziAKTgMlEitQ8sEYdeByrXtFFDZbxW/oeyGwGHdxojTtrbDTk7yBy2dUlHpzcBwWWYzzcaeSFfWvAe3AR+l7MmyIMdxl3/VxCiZP+kS3gVFg5ulPlfE6uhUlGHNQLFWNqWSyV4uj2IffB4Ze5RqGvBhJuAnXUOZkhJAbz1n3uf/DSGxkrrRQ9iH2lM3V744YG6dDoSG0QIc/ls26lrVXCgQDwf/bLEKTpy0JB2YI/3y4qayVkFxmrOOGO0tE5cYN6p350LFVWgl211AfzXkN49BirUw==;5WDOt9E2nDkCa2qWUhEuZw=="
 ---
 

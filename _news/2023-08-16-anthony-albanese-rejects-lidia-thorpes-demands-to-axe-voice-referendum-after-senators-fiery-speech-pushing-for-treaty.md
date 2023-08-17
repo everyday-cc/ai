@@ -30,22 +30,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
-  - title: "Sussan Ley condemns Anthony Albanese's 'threat' on Voice to Parliament referendum amid confusion over Coalition's proposal"
-    excerpt: "Deputy Liberal leader Sussan Ley has hit back at Prime Minister Anthony Albanese’s ultimatum on the upcoming Voice to Parliament referendum."
-    publishedDateTime: 2023-08-13T01:57:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/sussan-ley-condemns-anthony-albaneses-threat-on-voice-to-parliament-referendum-amid-confusion-over-coalitions-proposal/news-story/8fda2ecf5cc4212437de8881c3642022"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/sussan-ley-condemns-anthony-albaneses-threat-on-voice-to-parliament-referendum-amid-confusion-over-coalitions-proposal/news-story/8fda2ecf5cc4212437de8881c3642022?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/sussan-ley-condemns-anthony-albaneses-threat-on-voice-to-parliament-referendum-amid-confusion-over-coalitions-proposal/news-story/8fda2ecf5cc4212437de8881c3642022?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 18
-    images:
-      - url: "https://content.api.news/v3/images/bin/a7205af4a8708d19519834e313c14094"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Prime Minister Anthony Albanese won't move to legislate an Indigenous Voice to Parliament if No vote defeats referendum"
     excerpt: "Anthony Albanese has said he won't move to legislate an Indigenous Voice to Parliament, should Australians vote against the constitutional change in this year's referendum."
     publishedDateTime: 2023-08-15T12:42:00Z

@@ -42,6 +42,15 @@ related:
       name: Channel Buzz
       domain: channelbuzz.ca
     quality: 19
+  - title: "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution"
+    excerpt: "Nutanix (NASDAQ: NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box™ solution for customers l"
+    publishedDateTime: 2023-08-15T14:29:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/08/nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution/"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 17
 
 secured: "7BDC8nqemw9OHJbSoEiEXYnwJKnsFY67lqPzH0TnvDolHUZehWRaC+VPb9VF2UqtClPtrEb/BAk8HjF7RrxiLlJ5vHJ7CampMJVOd+hCMR/yJoqwz8esKYuVt68yom9+Tpw/Ozvp7gFvDDkT9c1EMi5o/9WUz40imtkmW/FNwN4farWsLnXM2mAoLIzTeGyXTccEPHiMhJ/Z54Nwi7Nc7+LUeNweUlDDIbAo15WKUh0qRbPoSKbJQefxLGzpfz1i2nj5YssihGm+JogTVYJd7xi34Q2dOuA28rxd7X7QWdtXMEPUATVg/8++S2LOLozuzQDJwDH1VZ/SqAcKRNQ3w8mOITrSaoNUy+h81puDoLg1yUNQzvSriviwXI1N9cNWpZwsE2URn9ydUpGkCzM6WcaVe3DK05uak8vv0WSVtRYTjfRvvISf6zSEIF/2N/0yWry29DCxXQJAaQmJye/y7Z9irgd2KzAu4Lc75W/YXXsXGY0nO/81BGprRdprT8pLIiVVVFDGL3shJ97IyRHtIw==;awofNn46Tdm0Qf+noTRz2Q=="
 ---

@@ -180,20 +180,6 @@ related:
         width: 800
         height: 440
         isCached: true
-  - title: "Rise of the chatbots: How artificial intelligence could shape the future of crime"
-    excerpt: "I am here to kill the Queen, a man wearing a handmade metal mask and holding a loaded crossbow tells an armed police officer as he is confronted near her private residence within the grounds of Windsor Castle."
-    publishedDateTime: 2023-08-13T01:40:00Z
-    webUrl: "https://www.three.fm/news/uk-news/rise-of-the-chatbots-how-artificial-intelligence-could-shape-the-future-of-crime/"
-    type: article
-    provider:
-      name: 3FM Isle of Man
-      domain: three.fm
-    quality: 32
-    images:
-      - url: "https://e3.365dm.com/23/08/640x380/skynews-ai-artificial-intelligence_6246406.png?20230810134607"
-        width: 640
-        height: 380
-        isCached: true
 
 secured: "6OoIvHVoR9UHUfsDAgi1CUbwnit0hxgRJq7tUKb+TCP/LoIjB/XWVcIPsyipiyr611eAP6Sk2JtR4jK6pUaUt49GHx7kLSTw7etPGJm635miFBeAwHcnMiOF9II/wFQ60M9MQVIT4hw2WCTwTwyBq+4le24x9qkroGyQKByqJ1r3LoHJ4BDero67pk0PY62s0G99TnDS5iruxGhMQhjKNiKHG4yqkvYCLBL8cqLnQKEOLxmgNH/K8YHjJn1QaXJg8a0UmUfa4bjlmLsxjQyoDWABa3cGFOsLYKboGnTgZpMeDnmtnYt+xlt5I8YIt7sE2Jc94PgEv8x7Qz1nkuGGgLfXJKVofEMILr09jszIhdk=;gsQRYxK5cb7S4Q3CINTD7g=="
 ---

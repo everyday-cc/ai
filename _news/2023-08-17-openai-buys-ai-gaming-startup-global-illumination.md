@@ -64,6 +64,20 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI"
+    excerpt: "Microsoft has hitched its wagon to OpenAI when it comes to selling artificial intelligence that can understand language and write emails, meeting summaries and slide decks. Now Microsoft has found a second horse to ride in the AI race: Databricks,"
+    publishedDateTime: 2023-08-17T21:03:00Z
+    webUrl: "https://www.theinformation.com/articles/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 54
+    images:
+      - url: "https://tii.imgix.net/production/articles/11091/b2a6b377-9380-463e-8a5b-2a797ab9d2b0.jpg?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial intelligence designs advanced materials"
     excerpt: "Artificial intelligence (AI) is playing an increasingly pivotal role in designing new alloys. Yet, the predictive power of AI models in foreseeing corrosion behaviour and suggesting optimal alloy formulas has remained elusive. Scientists of the Max-Planck ..."
     publishedDateTime: 2023-08-16T16:41:00Z
@@ -95,6 +109,20 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2023/08/shutterstock_2248406717.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
+    excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
+    publishedDateTime: 2023-08-17T21:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/17/openai-is-getting-sued-legal-tech-vendors-using-their-generative-ai-models-arent-worried/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 29
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Code-AI-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "QHYLA7GTEb0B4HaQI4giTJnLCIgJwOQZrEhUq8aXEjcBBWgYcEKu5IpgbZdBznxfnDs0yhUs7ffUFcz6QYXp+Q6Xbi2G7JcYWiyOmC9tCufwmQmeSTiItxn9503j9VJx2QH3f21itGo4uHF5dtxlp+Ulmu3ZzQVUtteYY+rnGgwvZF3/IyJF+Xg3nb51tTwXeYMYi92R1NwsdUFBpE50Snu9q5bQYzezpY3dnosoBzPc1xy7CZxkgJz3pNLmO48K1qOTfsytg2gz5+fspMf6WLSKYsMGBtrelZv7OAFyOQdEXldAqvJAmiFAwcD4Ckj94hcJWNRKsy7UGbaPd0XxFL27qa9KPEYa1tVw7/P4N9NLn4w8II3Z0blDGSiDMGkomUKO5xkGup3zSLWtxj0IrxwyAJx779oGhTTo/n0ts2viyBrWg4zuSAgWALylqRRtawIacDcTiejglv9Gg8sjwq7DYQlRQ6ixpIOgeWasEk70N9OWOCL5K0SpUGoMe3e9NdugW4/qmJcnK20nwNkSDQ==;EJPYAhT9G/4DY6WP2Mjwgg=="

@@ -41,7 +41,16 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Facial recognition has been at CVG 3 months. How's it going?"
+    excerpt: "In the next few months, facial recognition at CVG could be expanding. TSA Spokesperson Mark Howell says there are only 25 U.S. airports with the technology at the security checkpoint."
+    publishedDateTime: 2023-08-17T19:03:00Z
+    webUrl: "https://www.wvxu.org/science-and-technology/2023-08-17/facial-recognition-cvg-cincinnati-northern-kentucky-airport"
+    type: article
+    provider:
+      name: WVXU
+      domain: wvxu.org
+    quality: 19
 
-secured: "9S/orxonI485vS3/0wAlr927l4dIxUbBdKyV40d7Wmq+40WmOy7EBHrvrCirnqSosOiTpxk51dB+abB+U97H8vL113XvhriY9wadRTCLSVOejCX8Z2byU0P+5UGUQQT6V4oT3ZkAF7OhBCTgkbXw81y7D0XWYTIzoRq4C9x6Y+9e/3Y7ONchoVmusDQXB9rJfjd3vCtzBNqbxmZvTPxmX3UfG+vH571jOo7Njo7sHN92lxPcBv3WvYz2w1LgHia15QclYihGyVeWAoaFYw2oXleIhgoaGDTzOHzvfyZNKgTbZ9GVM8UCbzSJPCB4JTLJ1iNnn7snMumigyqXfzBydV0g4AFpKOgOnhba1L9yfoA=;SJuw/pUL7Isao1UOEj5qJA=="
+secured: "sCMHnaGL80JfoiCUbcMdiJ82ra2vntnfyp5hgmpGbLpagTAlxj7rYHSt+uBorHfA38zApmtEHmZypJsXuadQPPrLs4ZETs+ICBxP3eBscj7L+Bg12JyCQmqZ7RKBOsknJR1ZHbUhA8o3iW5LqD1JbkDfPRboJACW4PczbbjD8Nqr6u1Mb18MAYR3GzP27acVYeLjH+MH4UDVMyStD+J99wPn3iEgD8T3hab8NbI0lsuCdvxu07/mfMdWErCWvUI+uxpHy080Y+hIVWQhy4uP1/XNLLRp8SAXuANGBeB1AKaWM567zQEgd2Wc1ocedHRcbd2xIL5m0SsP/MwkIMCjHxM8n3IPgoSycVglfeZmQKIZIcGHHgXPMiKytniSkfuNQjdth6EdhmdQ60fZHKhY+ny5QqoXZ4wTnaAyWxwQZMp4XUuTVo1+1tEvhe5r8uQqVcZGBFQQP4cWO5qLyI5ATmwfLdexHKZAqhOE9vUp+s58q0EIX9MTdrMZaki1FyfddiBGECK+QLIt00PiJLbRXg==;AAxkH0T36xbOf2REJzcOtg=="
 ---
 

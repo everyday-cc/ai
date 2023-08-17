@@ -100,6 +100,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "How AI Can Scale Personalization and Creativity in Marketing"
+    excerpt: "Marketers know creativity is what attracts an audience and commands its attention. They also know that personalization is what delivers the right message to the right target at the right time to convert a prospect into a customer."
+    publishedDateTime: 2023-08-17T14:30:00Z
+    webUrl: "https://hbr.org/sponsored/2023/08/how-ai-can-scale-personalization-and-creativity-in-marketing?ab=HP-topics-sponsored-text-1"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 34
   - title: "Dialpad integrates generative AI across its call center suite"
     excerpt: "Cloud communications provider Dialpad Inc. is continuing its aggressive rollout of artificial intelligence capabilities with today’s launch of DialpadGPT, which it describes as a domain-specific large language model that’s tailored to the needs of customer service, sales, and recruiting operations."
     publishedDateTime: 2023-08-15T13:00:00Z
@@ -118,15 +127,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "Multinationals turn to generative AI to manage supply chains"
-    excerpt: "Geopolitical tensions and new laws requiring companies to monitor environmental and human rights abuses in their supply networks drive interest"
-    publishedDateTime: 2023-08-13T03:59:00Z
-    webUrl: "https://www.ft.com/content/b7fafed2-9d00-49b0-a281-c1002b139865"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "AI-Powered Innovation: VAST's Vision for Democratizing 3D Content Creation Takes Center Stage as the first Chinese keynote speaker at SIGGRAPH 2023"
     excerpt: "At the SIGGRAPH 2023 conference, Yachen Song, founder of startup VAST, presented his vision for using artificial intelligence to transform 3D content creation. VAST joined industry leaders like Nvidia and Unity on stage at the 50th anniversary of SIGGRAPH,"
     publishedDateTime: 2023-08-14T21:53:00Z

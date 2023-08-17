@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "No, AI in Google Search isn’t going to kill online content"
-    excerpt: "Concerns over the impact AI could have on online content are growing, but there really isn't anything to worry about."
-    publishedDateTime: 2023-08-17T00:24:00Z
-    webUrl: "https://bgr.com/tech/no-ai-in-google-search-isnt-going-to-kill-online-content/"
+  - title: "Former Google researchers launch startup to build nature-inspired neural networks"
+    excerpt: "Two prominent artificial intelligence researchers have launched a startup, Sakana AI, that aims to build a new kind of nature-inspired neural network. The Financial Times reported the startup’s launch this morning."
+    publishedDateTime: 2023-08-17T19:59:00Z
+    webUrl: "https://siliconangle.com/2023/08/17/former-google-researchers-launch-startup-build-nature-inspired-neural-networks/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/AdobeStock_299562309_20.jpeg?quality=82&strip=all"
-        width: 1400
-        height: 862
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/unsplash-2.png"
+        width: 1032
+        height: 580
         isCached: true
 
 secured: "FtkmcKnNS8qeHHyputRtuR61nyHAf54Ohp+I87z9SH0DvbCCZO0cCNSopFAmOGMaC6fU3ox397V2aGnjXHE8tl4PPwxDzdMlbP7nyipYiffpJOB2pQrLzHAbYRxF3ZGlB/DbKG1HvgkI66n8iEQ8beBywTx1xB1d7h36mUgFjMLEyeRTXqT5EgKDxaeKyAf6YjE3U7+qJQ0zAfWDLsgqxpzdpOoijdphbLpqcq7bFI89MP4KrL7E0OeJgi0xMUzTlUi5o3BpqqzqJ14vBhJBVNiuc6IQN9skBumsKFC+DaZweeq6s6e0a9Zc3EK4lI33zwa9wzy/ZKaZi5ivd2dqkjWuQVT9UDtgVdXnv01Eo8y3ddYgQUnND6fHBQrIutma37E5bOFH9KGMuBw5frlLD0hZ2oaNEMuxVYi2iRed/jvZS6G0JRXuJC0q1yg1lMe2cp2wLBPlVouqFKZE20Ck62UUC0nVJNE6DnAccsiFsOj0iFW16LrixAqxEppugFSrCEw6S2A8ekPduN/tRxeD0g==;A9TK7gE1ocaW4uFXAIirSg=="

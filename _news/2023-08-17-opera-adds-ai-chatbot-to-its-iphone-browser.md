@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-it
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
 type: article
 quality: 87
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -179,20 +179,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-15.jpg"
         width: 800
         height: 440
-        isCached: true
-  - title: "Rise of the chatbots: How artificial intelligence could shape the future of crime"
-    excerpt: "I am here to kill the Queen, a man wearing a handmade metal mask and holding a loaded crossbow tells an armed police officer as he is confronted near her private residence within the grounds of Windsor Castle."
-    publishedDateTime: 2023-08-13T01:40:00Z
-    webUrl: "https://www.three.fm/news/uk-news/rise-of-the-chatbots-how-artificial-intelligence-could-shape-the-future-of-crime/"
-    type: article
-    provider:
-      name: 3FM Isle of Man
-      domain: three.fm
-    quality: 32
-    images:
-      - url: "https://e3.365dm.com/23/08/640x380/skynews-ai-artificial-intelligence_6246406.png?20230810134607"
-        width: 640
-        height: 380
         isCached: true
 
 secured: "sy+vz/4BBvRFyxMrJWm3W/Y7zi4YUdBvk6QRKi1D31cj3m8qUKb6JaWwKPTFnnJKYbQS0AURywZC7dgRE4OHUhndywAH4DjVVDsnoquHpEmsTy3hwttKpOW8xfBDEQG8slAV9xz6dmiJgiiXyGHrhcFzjv5Hfgui0iHclcvMBY3/NMjqLalozZiG5HxFeMRhbnXq+/2YYius89UG5f342Ds0R4Af2PYLNDqsMraGF+u4MOrG5wBWFBMdinFO56LzCfaXBu7cCp85jNHH4/VNPLK0M0/rC7Um9eUOJJsIsXdwfqQul5DASBGq66iQPtJzbpzOH7vop4vIsHsLvRQUF+Z2BkBodXcR2zZHfxshCkq3ZTtkiIaUJ8LDTtkl12uldk3Tv5oklkLOuSDQqvhY3Pc2JNrcN/cDOXd2U7Nvhj5Y3/DHqEiGglRAsdX5MIb7micDEATVzKIB/d49ELDXuPB7ajjwAMeQFCPRksXIatZz8S7xNYQ8xLUbAQfaFS/6JQugEKGgkcUCxsfqXCwv8g==;HU87ihGxB297VMHbRFnWzg=="

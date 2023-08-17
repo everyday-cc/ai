@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Now, an AI assistant from Google that can be your personal life coach"
+    excerpt: "DeepMind and Brain are testing ambitious new tools that could turn generative AI - the technology behind chatbots such as OpenAI's ChatGPT and Google's own Bard - into a personal life coach."
+    publishedDateTime: 2023-08-17T04:28:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/now-an-ai-assistant-from-google-that-can-be-your-personal-life-coach/articleshow/102789472.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://economictimes.indiatimes.com/thumb/msid-102789593,width-1070,height-580,imgsize-43510,overlay-ettech/photo.jpg"
+        width: 1070
+        height: 580
+        isCached: true
   - title: "Report: Google's DeepMind Is Building a Life Advice Bot With Generative AI"
     excerpt: "Yes, we all look up information on computers, but Google's DeepMind division is working on something a little more expansive. The company is reportedly developing 21 different generative AI tools for life advice,"
     publishedDateTime: 2023-08-17T13:00:00Z

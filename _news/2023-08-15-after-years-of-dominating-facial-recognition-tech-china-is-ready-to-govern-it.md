@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Editorial: Clear dangers of facial recognition tech used by police"
+    excerpt: "Few enough American women while eight months pregnant and already taking care of two young children could muster the energy to engage in a complicated armed robbery and a carjacking."
+    publishedDateTime: 2023-08-17T17:31:00Z
+    webUrl: "https://www.marinij.com/2023/08/17/clear-dangers-of-photo-tech-used-by-police/"
+    type: article
+    provider:
+      name: Marin Independent Journal
+      domain: marinij.com
+    quality: 19
   - title: "China’s Draft Rules Would Force User Consent for Facial Recognition Technology, With Expected Government Exceptions"
     excerpt: "China’s new rules for facial recognition technology require companies to protect personal information, and to demonstrate a \"specific purpose\" and \"sufficient necessity\" when collecting biometric data of this nature."
     publishedDateTime: 2023-08-17T11:00:00Z

@@ -25,178 +25,86 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Stock Is Set To Skyrocket Into The AI Future"
-    excerpt: "Exploring the Resilience and Growth Potential of Microsoft's Stock: An In-Depth Analysis of Factors Driving Microsoft's Financial Health, and Future Prospects"
-    publishedDateTime: 2023-08-15T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/"
-    ampWebUrl: "https://www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimosman/2023/08/15/microsoft-stock-is-set-to-skyrocket-into-the-ai-future/amp/"
+  - title: "Exploring the risks and alternatives of ChatGPT: Paving a path to trustworthy AI"
+    excerpt: "Direct usage of chatbots in an enterprise presents risks and challenges. Learn how to mitigate these risks and establish trustworthy AI.\nThe post Exploring the risks and alternatives of ChatGPT: Paving a path to trustworthy AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-16T14:15:25Z
+    webUrl: "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 94
+  - title: "AI As Your Content Partner: Working With ChatGPT To Create Engaging LinkedIn Posts"
+    excerpt: "Learn to craft LinkedIn posts with ChatGPT: from custom instructions and creative briefs to emoji use and editing. A complete guide to engaging LinkedIn content."
+    publishedDateTime: 2023-08-16T14:04:00Z
+    webUrl: "https://www.forbes.com/sites/renaegregoire/2023/08/16/ai-as-your-content-partner-working-with-chatgpt-to-create-engaging-linkedin-posts/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 106
+    quality: 61
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c6dd5758fabf29ee775ae8/0x0.jpg?format=jpg&crop=2447,1377,x0,y802,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dcd6ddb9f53bfc4f3d516d/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Find Out How Microsoft’s AI-Powered Shopping Tools Can Save You Money—And Time"
-    excerpt: "According to the company, Microsoft Edge has offered $3.7 billion in savings to shoppers worldwide in the last year thanks to built-in shopping features"
-    publishedDateTime: 2023-08-13T15:19:00Z
-    webUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/"
-    ampWebUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
+  - title: "Learning to be a writer? Clinic topics include ChatGPT and getting an agent"
+    excerpt: "Local authors and educators Gary Arnold and Alexandra Weiss will be featured in the August Saturday Writers’ Clinic beginning at 9:30 a.m. Aug. 19 at the East Bank Regional Library,"
+    publishedDateTime: 2023-08-14T11:00:00Z
+    webUrl: "https://www.nola.com/entertainment_life/learning-to-be-a-writer-clinic-topics-include-chatgpt-and-getting-an-agent/article_21363b8e-3316-11ee-87c8-1716bd0d6883.html"
+    ampWebUrl: "https://www.nola.com/entertainment_life/learning-to-be-a-writer-clinic-topics-include-chatgpt-and-getting-an-agent/article_21363b8e-3316-11ee-87c8-1716bd0d6883.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/entertainment_life/learning-to-be-a-writer-clinic-topics-include-chatgpt-and-getting-an-agent/article_21363b8e-3316-11ee-87c8-1716bd0d6883.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 100
+      name: NOLA.com
+      domain: nola.com
+    quality: 42
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d64c192cef1748f0b1ea3f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 554
-        isCached: true
-  - title: "Microsoft Azure awards Protiviti specialisation in AI"
-    excerpt: "“Protiviti is proud to collaborate with Microsoft to be a leading provider of AI enabled capabilities,” said Christine Livingston, global leader of Protiviti’s AI services. “Together with Microsoft, we look forward to helping organizations utilize AI solutions responsibly to drive impactful transformation in their businesses.”"
-    publishedDateTime: 2023-08-15T04:45:00Z
-    webUrl: "https://www.consultancy.uk/news/35089/microsoft-azure-awards-protiviti-specialisation-in-ai"
-    ampWebUrl: "https://www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai"
-    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai"
-    type: article
-    provider:
-      name: Consultancy
-      domain: consultancy.uk
-    quality: 89
-    images:
-      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-10-021905627-Microsoft_Azure_awards_Protiviti_specialisation_in_AI_spot.jpg"
-        width: 546
-        height: 312
-        isCached: true
-  - title: "How to use speech to text in Microsoft Word"
-    excerpt: "Developed and refined over many years, Microsoft's speech recognition and voice typing technology is an efficient way to get your thoughts out, create drafts and make notes. Just like the best ..."
-    publishedDateTime: 2023-08-15T16:41:00Z
-    webUrl: "https://www.techradar.com/how-to/use-speech-microsoft-word"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 71
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/B5tyi6qFDKKunFkdaCYb5c-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
-  - title: "LaLiga partners with Microsoft to infuse sports with AI innovation"
-    excerpt: "Globant, LaLiga, and Microsoft are partnering to create AI services for the sports industry. LaLiga and Microsoft have collaborated, who have teamed up in the"
-    publishedDateTime: 2023-08-17T15:41:00Z
-    webUrl: "https://www.onmsft.com/news/laliga-partners-with-microsoft-to-infuse-sports-with-ai-innovation/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Microsoft-LalIga.png"
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/8/8f/88fb72de-088d-11ed-9091-f3736f902ba2/6011b8319c193.image.jpg?resize=1024%2C756"
         width: 1024
-        height: 768
+        height: 756
         isCached: true
-  - title: "Microsoft's AI First Movers programme helps LawVu speed contract processes"
-    excerpt: "Tauranga-based legal software developer LawVu is one beneficiary of a Microsoft programme that is ​helping developers deploy generative AI."
-    publishedDateTime: 2023-08-15T23:57:00Z
-    webUrl: "https://www.reseller.co.nz/article/708377/microsofts-ai-first-movers-programme-helps-lawvu-speed-contract-processes/"
+  - title: "Understanding ChatGPT: Exploring the Technology Behind this Powerful AI Model"
+    excerpt: "Get to know the Generative Pre-Trained Transformer (GPT) better, before you consider putting it to any serious use."
+    publishedDateTime: 2023-08-14T06:17:00Z
+    webUrl: "https://www.electronicsforu.com/technology-trends/understanding-chatgpt"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 52
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 36
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/lawvu_kidd.jpg"
-        width: 504
-        height: 315
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/GPT-AI-1.jpg"
+        width: 500
+        height: 450
         isCached: true
-  - title: "Globant, LaLiga Tech Team With Microsoft For Generative AI Applications In Sports, Broadcasting"
-    excerpt: "IT and Software Development company Globant S.A. (GLOB) announced Thursday its collaboration with LaLiga Tech and tech major"
-    publishedDateTime: 2023-08-17T09:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/globant-laliga-tech-team-with-microsoft-for-generative-ai-applications-in-sports-broadcasting-1032562457"
+  - title: "Google’s Gemini AI might be the best thing that happens to ChatGPT"
+    excerpt: "Google's Gemini ChatGPT rival will launch this fall with a few exciting features, and that's actually great news for ChatGPT fans."
+    publishedDateTime: 2023-08-16T13:41:00Z
+    webUrl: "https://bgr.com/tech/googles-gemini-ai-might-be-the-best-thing-that-happens-to-chatgpt/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-  - title: "ABB and Microsoft collaborate to bring generative AI to industrial applications"
-    excerpt: "Expanding on their long-standing partnership, ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability™ Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
-    publishedDateTime: 2023-08-14T06:32:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/abb-and-microsoft-collaborate-to-bring-generative-ai-to-industrial-applications-2023-08-14"
+      name: BGR
+      domain: bgr.com
+    quality: 17
+  - title: "Navigating through a world with growing and advancing artificial intelligence"
+    excerpt: "As AI continues to develop, people strive to monitor, regulate and promote it so that it progresses safely and responsibly."
+    publishedDateTime: 2023-08-16T17:56:00Z
+    webUrl: "https://www.wuwm.com/2023-08-16/navigating-through-a-world-with-growing-and-advancing-artificial-intelligence"
     type: article
     provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 50
-    images:
-      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001080035_resized_abbenablescustomerstorealizethebenefitsofdigitalizationthroughsixindustryvaluepillars1022.jpg"
-        width: 1022
-        height: 575
-        isCached: true
-  - title: "Amazon chips will help to compete with Google, Microsoft in AI race, here’s how"
-    excerpt: "Amazon aims to enter the generative artificial intelligence (AI) market and has begun developing microchips to compete against tech majors such as Goo"
-    publishedDateTime: 2023-08-14T12:33:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-chips-will-help-to-compete-with-google-microsoft-in-ai-race-heres-how/articleshow/102726767.cms"
+      name: WUWM
+      domain: wuwm.com
+    quality: 16
+  - title: "Today in AI: Alternatives to ChatGPT, Google adds translation to Gmail and more"
+    excerpt: "That popularity comes with a cost though; despite OpenAI's best efforts, the servers for the chatbot are often stormed with users, resulting in long queues as you wait your turn. The paid subscription alleviates this problem by giving you 24x7 access to the bot, even during peak times, but what if you don't want to pay?"
+    publishedDateTime: 2023-08-17T13:26:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-alternatives-to-chatgpt-google-adds-translation-to-gmail-and-more-11211181.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 47
-  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
-    excerpt: "IBM announced today that it is expanding its collaboration with Microsoft to help joint clients accelerate the deployment"
-    publishedDateTime: 2023-08-17T17:09:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-consulting-collaborates-with-microsoft-to-help-companies-accelerate-adoption-of-generative-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
-  - title: "ABB and Microsoft bring generative AI to industrial applications"
-    excerpt: "Automation and electrification specialists ABB is tapping into Microsoft Azure OpenAI Service to bring Generative AI to industrial"
-    publishedDateTime: 2023-08-16T06:47:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/662/241021.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 34
-  - title: "ABB, Microsoft bring generative AI to industrial applications"
-    excerpt: "ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
-    publishedDateTime: 2023-08-17T07:45:00Z
-    webUrl: "https://it-online.co.za/2023/08/17/abb-microsoft-bring-generative-ai-to-industrial-applications/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
-  - title: "LaLiga and Globant partner with Microsoft to create AI tech services for sport"
-    excerpt: "IT services giant Globant and Spanish soccer’s LaLiga are partnering with Microsoft to create a range of artificial intelligence (AI) services for the sports industry."
-    publishedDateTime: 2023-08-17T13:57:00Z
-    webUrl: "https://www.sportspromedia.com/news/laliga-tech-globant-microsoft-ai-tech/"
-    type: article
-    provider:
-      name: SportsPro
-      domain: sportspromedia.com
-    quality: 30
-  - title: "Doctors use Artificial Intelligence software to plan for the future"
-    excerpt: "About 30% of U.S. doctors are approaching retirement age, but only 12% are choosing to retire. Why? In a financial environment struggling with inflation, advance preparation for retirement is necessary for all physicians seeking more comfortable golden years."
-    publishedDateTime: 2023-08-15T15:46:00Z
-    webUrl: "https://neworleanscitybusiness.com/blog/2023/08/15/doctors-use-artificial-intelligence-software-to-plan-for-the-future/"
-    type: article
-    provider:
-      name: New Orleans City Business
-      domain: neworleanscitybusiness.com
-    quality: 19
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 15
 
 secured: "9wNWSK3Xc+iNqEECW7uqd3r/n+iH9V6BtuK8RnVlTIT3FLfUOnjbOekD+60zm3ki3CbvYgY3opDoyQF1DuQeVXS8HmxMA+ql228Cbn0ll4n8Hzu4Um9bxYSsInlutxXhInAy+a5VuZ+FXWsviI8kCDBhlsKl29xK1ktHpWig5XBYEyaHJ9djiE7AIWLZ+MSrr4ObDrI3fM8tESWcOeXR7ace0fhmoDR31+X3VRG5KX9XdlMfGKzsUZv/HxY/vxOeQAbB1hUEqeTELGbTboWZpIwjR3pONK1AQ69ABZCzfmaY+pIlDCawetuMyP9lDk+T+5FjU05tm6yok8+RL66HQRCZRLXDa422R8JHBymZxsVqhgBrxXHHoBlox1PN0RT6NEfCLWR1XkfgzWDfi1sQfyZu/yacbLY+3yYx+8a6HB+oq61lCYNrpAdPMgNOn/x0Sr08LwW+46y8/bfgCP1d15TUocEmqU9MUE7xjAnE5MNjG4UeWFO3Gm3nBCa22KiepCH1bfSITHf7K43t8c8p7Q==;WzVIWUtdNQJZTd4v7tl7vQ=="
 ---

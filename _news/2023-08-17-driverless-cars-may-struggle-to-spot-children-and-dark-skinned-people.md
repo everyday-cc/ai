@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Cruise’s self-driving taxis are causing chaos in San Francisco"
+    excerpt: "The San Francisco Municipal Transportation Agency, for example, had apparently logged almost 600 “incidents” involving autonomous cars since 2022, while the San Francisco Fire Department has tracked 55 “episodes” this year where the vehicles interfered with its attempts to fight fires and save lives by running through yellow emergency tape,"
+    publishedDateTime: 2023-08-17T19:59:00Z
+    webUrl: "https://www.popsci.com/technology/cruise-san-francisco-outside-lands/"
+    ampWebUrl: "https://www.popsci.com/technology/cruise-san-francisco-outside-lands/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/cruise-san-francisco-outside-lands/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 44
+    images:
+      - url: "https://www.popsci.com/uploads/2022/10/03/cruise-self-driving-car-traffic-jam-e1692199566142.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Driverless vehicles on our roads?"
     excerpt: "The real test of driverless vehicles will be when they are ready to cruise along India’s Wild West roads. As one industrialist says: When they’re ready to do that, the AI-created future will truly be upon us."
     publishedDateTime: 2023-08-15T15:09:00Z
@@ -88,6 +104,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "San Francisco Wants Halt to Cruise, Waymo Expansion Ruling"
+    excerpt: "San Francisco asked California regulators Aug. 16 to halt its approval of Cruise’s and Waymo’s unrestricted commercial expansion in the city, arguing the city “will suffer serious harm.”"
+    publishedDateTime: 2023-08-17T17:50:00Z
+    webUrl: "https://www.ttnews.com/articles/san-francisco-cruise-waymo"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 19
   - title: "Ten Self-Driving Cars Cause Huge Traffic Jam After Losing Wireless Signal"
     excerpt: "Self-driving cars caused a major traffic jam on Friday in San Francisco when ten of its self-driving taxis simply shut down."
     publishedDateTime: 2023-08-15T18:25:00Z

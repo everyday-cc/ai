@@ -58,6 +58,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "6 fintech investors sound off on AI, down-rounds and what’s ahead"
+    excerpt: "What is getting the thumbs up and what’s not in the theme of the moment? What’s been surprising to me about AI in fintech is how much of it seems to be under the hood (automating rote internal tasks) rather than facing externally (flashy new features)."
+    publishedDateTime: 2023-08-17T18:16:00Z
+    webUrl: "https://techcrunch.com/2023/08/17/fintech-investors-q2-2023-down-rounds/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/fintech-survey.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Saasant: Transforming Finance – How Fintech Automation Reshapes the Accounting Industry"
     excerpt: "Fintech Automation is reshaping the accounting industry and propelling us into a future where efficiency, accuracy, and speed are crucial.DE"
     publishedDateTime: 2023-08-17T08:35:00Z

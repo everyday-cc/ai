@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Now, an AI assistant from Google that can be your personal life coach"
+    excerpt: "DeepMind and Brain are testing ambitious new tools that could turn generative AI - the technology behind chatbots such as OpenAI's ChatGPT and Google's own Bard - into a personal life coach."
+    publishedDateTime: 2023-08-17T04:28:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/now-an-ai-assistant-from-google-that-can-be-your-personal-life-coach/articleshow/102789472.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://economictimes.indiatimes.com/thumb/msid-102789593,width-1070,height-580,imgsize-43510,overlay-ettech/photo.jpg"
+        width: 1070
+        height: 580
+        isCached: true
   - title: "Report: Google's DeepMind Is Building a Life Advice Bot With Generative AI"
     excerpt: "Yes, we all look up information on computers, but Google's DeepMind division is working on something a little more expansive. The company is reportedly developing 21 different generative AI tools for life advice,"
     publishedDateTime: 2023-08-17T13:00:00Z
@@ -78,6 +92,6 @@ related:
       domain: analyticsindiamag.com
     quality: 19
 
-secured: "7dobxRTI6MX2jbBnoA3+9Bx0pKA0K+yI0c5aOzshSsGYtlvipYfQAneUHv88apNR/ukQxKBZcozNuIIsYSByUdlxisUCnlVAPfr4To0UnNXxX/JzdJ+W1lFzKg/mPufe1VApOiJgNzYoiKt7bofZlTHP6dMftk5mc/jVILthvPtW9ByhjqAVA7c9gz3cGIkKKMGD2FN9kRVkGIA8eEP+EzVqCI6CJaq3sRpmqI8LE3bnpK0v+YEPVV6IE16qJ0S6Q8f6O3/zc8zaelZbIB3NhjXm8ECovAoXwW+aie8bew+H5DIgUF8CJxzECor796YfY4CGS4s2z5nnt8hazXRjwkj+xQdk7SarycU0O/AZVVk=;/eDAWyydbRv7bI+6n6garg=="
+secured: "tMA19IOjXtQfRgUjAE3Yx2DLIoyxKpAsf0B68TsFiDFg6fXgxOAwa4iz8IKtZQH/M6DwM6kiZLn3bHrmE49DlnSNwNIZtM9hoPNNih6W3xgRBbXOJNJzRMSoFj4heSOdvhRRVMj6zumQR0hC0fgXizL0LK5k5TQRZ0BaUhhc//OFsyLRQxPlz0iOcCbcgaGE7PgX8mw6M/9BjvHZer3b4L6eJU3m3JKGfsuqw2CplEuIaB2CcZ9Y4poTSsZHoQPfN19Od907JDJ7Od7WGxolgi6DanMdO4mqWPPPIxpxhq6kqupEUlap32sSNF5oC05YZY2299sHx9CXLvBFORJrxFi5SK6PtBNBDAjX0y1NDRm6hFDMdKOAdGerYdLaZuj/39uw37oH035fdvGUGjniqhZsf4xwPmfFfhtRGzhqGNzp95Zbgs5HJGzlXcW4DoG7RYJwEEO/Yn4IdlOHFGo9JgocJOzcZZQTA0cZhnGSUqAsoPX5GFyWOLLkoPmb4+S3SLNez6cOdMkfCH8w/Qbn9g==;Ui1c+AInbMCVYF49i1ziqg=="
 ---
 

@@ -57,6 +57,15 @@ related:
         width: 600
         height: 397
         isCached: true
+  - title: "Orlando to launch new self-driving shuttles downtown"
+    excerpt: "The city of Orlando will soon launch the first-ever autonomous shuttle in downtown."
+    publishedDateTime: 2023-08-17T19:15:00Z
+    webUrl: "https://www.bizjournals.com/orlando/news/2023/08/17/orlando-autonomous-vehicles-creative-village.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "JoWfDx5YsMsz8R6AxOE8Y02/6hph4rsijHZhBJfhxVlRmpv35z09c/y/tr3b7IYCEApOMwNJiZEb0SQslcN5pV6XMrMTFt6ld5Ohq7RHNtBGyjiEOS6xmgJiJgsp6LlNAY59gAfJC4OhRTC480Bvr6FYYr6Yjsk3gFtY5svSHBkmpK2zkjd/Z9sg90bl9qp2zW320A4d6raUKB4Lyw5ZOBjKT96WkQqwoGzuKJ/RK+q+AbuFMG42tol4P2tJRt0aZF0T0g8Ezb//gjUHDRwmFu7IT+Q1QrqZqaNb8YOXkeFchFhUuj9IXDH+GxXeKvr5z0DE50mPW+yFTRuNBsTTzSVs2V6Lfr8rB5wrxmVF36P/YYMgSu6TJOWQXBFumCzvjAtoURSUeRz9tmpdkzpEdfykpa8X+W0GNRoCPLXjGpvfx8NoblwnZvsi1Fz6I3/8013iJGZ72ozoPp7RYZztFbm6x8bvzuSc4Y8rbfSMR9RwNy2mTXcpth/lEoAOoHX/jdEqjURxODpwr2L7dbf5vg==;guq3WXnMMZapZfxJuM124A=="
 ---
