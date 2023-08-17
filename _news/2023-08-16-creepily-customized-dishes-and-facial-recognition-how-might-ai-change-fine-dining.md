@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/environment/2023/aug/16/ai-fine-dining-c
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: The Guardian
@@ -29,6 +29,22 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Respect and recognition: More meaningful than the pay"
+    excerpt: "YOU were hired as an association executive with a relatively good compensation package. To show your appreciation and loyalty, you’ve worked your best and have delivered impact to the organization. However,"
+    publishedDateTime: 2023-08-17T16:08:00Z
+    webUrl: "https://businessmirror.com.ph/2023/08/18/respect-and-recognition-more-meaningful-than-the-pay/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 24
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/03/Column-box-Octavio-Peralta.jpg"
+        width: 1400
+        height: 735
+        isCached: true
 
 secured: "sRM6rie/0YJ9cSayWv6AlTlDmJfcOuGHt4t9Kvceg+Xkw9Q3TGFBXv/MRXMcSs1oZtrrfmhYEW00NYYU8KJlPowB8IAOUu9WBRWZd812bWGWNixd98gF46vgMwTTKt7qeZ0H5DnVap4lXzmpFDePG0WrAW7l8ripxSB5uIKBr4AEP+BgZcsN6YO4V8VTaGb+EkJONSRRZN2LkZL4xQxQYx1JGowvsWurkB71b+rlGjse4Ga5OyKdgXvqWypPSCJt8Kzp0wPUyIuQ9cNCv+4zly+ccoqHShwhTog80jNtfHMASMpCYjXZaP5RnkzfKI00d8Ke6XU54wcxgUUyW8kmIrZyorw7kLBORSl8HZu/hoedFnV4QrLVZiOILXDGHJPARomrM0K3liYZNdhNZWRW1AndY1VCeX8YOI4Pmml2EaXal5LJ7jqdENR3cFcMOV0GJ9wkZ0DE2T7AZnKRexMbHF/jPozjYqhNzal0NpQL3P3EvnkEPuO9GPPyVZaRRZ55QBN0KrwFwAQ1kyA0EVB8Bg==;NxW2dQpPyGLnwaIc7wynag=="
 ---

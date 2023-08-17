@@ -147,6 +147,20 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 47
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "IBM announced today that it is expanding its collaboration with Microsoft to help joint clients accelerate the deployment"
+    publishedDateTime: 2023-08-17T17:09:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-consulting-collaborates-with-microsoft-to-help-companies-accelerate-adoption-of-generative-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 41
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "ABB and Microsoft bring generative AI to industrial applications"
     excerpt: "Automation and electrification specialists ABB is tapping into Microsoft Azure OpenAI Service to bring Generative AI to industrial"
     publishedDateTime: 2023-08-16T06:47:00Z
@@ -184,6 +198,6 @@ related:
       domain: neworleanscitybusiness.com
     quality: 19
 
-secured: "Kmz8YxbsjL1dOcZyrfeZOmUELQ3b0wqhjcmOpzvX+zCSNOq1YC63Feo9t9OQVbyhNyI2KO+HQibPRKv8hfqOrM1PmxjGc0Xd1sY8gam/2+3o3aj4khWBwZ4BIELjfFzyHHgoVKrzCjA1cjV2uziOf6W5lWyUPpo09Se+MjD5fbwPThPKEJULNCblQQgJzUwIxyJ8Y8gV9B9Ee8DlMfTZwt+//eDuxpc6wnog2aSDJxj8fUITbD3qAewGcSNvs26Y/RGdxYCJyKcGCETpBRpey5seRM8hjKz5qEdE8JpkgssQW77pcEG3kUu2eHpZAf4jKQu8Vf/14PQPuumzKOwN2h6KgUnZmbYRL+eyRNReiCw=;INAjSGuGf5n4pNduz1TOQg=="
+secured: "pv+tMuyKlRC9R+VDirVYD9/fuUnG5VnA3jnEvS9F+A2CUosjdGI+hjog1gGpulzIVO0edGG86soHznP5BR32q0abAutSiUONQXTf/2kgTardaEv677OutQysZFrv27qw9vvwcZ2Rxl0Af5bJe9I9sK66tR5O4k8dDCM4aHwBUjX9QEfWbwW9f6ueA7dXuI12qRUfayvKwHaJ3PIcCQ6PR9TxrS164E1z5DCfKuugXEL3JQVWvYfBaccLHbpgezgj3XlMdwsdU+gI1uUYL/qQ2+XJHjC5HrVYz4oD7fLHxPJKVN4BXLzhRb+XddPuV+H+VPgl1R5KiTC1iXepM7N5CrKigO35zGZms5Z2zft5HV3XW8qKLtCOvP41Szm2xf7NSSg3+gdlEPfl4CO2OrzLDAivWyL0H/HV6OVioBYbCYeVmqMfJi1ONPgSoAK+FLr07KX3pUYAJ12l7n7HfzrRt+MPqWHBcZe2kcCD7pp13qmCoZ8MWDPDPFNqVKciw/BQ2CPbdh4jbGCEXAxoi2H8YQ==;DhX3evFvYzCVqtLvEm57hA=="
 ---
 

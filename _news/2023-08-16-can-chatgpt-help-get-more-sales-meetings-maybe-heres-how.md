@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How ChatGPT can help you optimize your content for entities"
-    excerpt: "An object. The subject and object are typically the entities ... To determine successful entity usage within your material, these platforms often devise their own entity recognition algorithms. The left side prominently displays the entity."
-    publishedDateTime: 2023-08-13T22:23:00Z
-    webUrl: "https://searchengineland.com/chatgpt-help-optimize-content-entities-430315"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 4
   - title: "How will the oil and gas industry use ChatGPT?"
     excerpt: "However, its use extends beyond the household and the classroom, and it is being eyed for a host of other industries. Follow along with GlobalSpec for an ongoing series examining how ChatGPT is being used in specific industries,"
     publishedDateTime: 2023-08-15T09:03:00Z

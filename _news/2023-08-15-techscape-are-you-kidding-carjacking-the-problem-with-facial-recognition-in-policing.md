@@ -63,20 +63,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "‘Shoddy’ AI facial recognition lead to her false arrest, now this Detroit woman is suing police"
-    excerpt: "A Black mother is suing the city of Detroit and a Detroit Police Department detective after she was falsely arrested while eight months pregnant by officers using “an unreliable facial recognition match,"
-    publishedDateTime: 2023-08-13T01:00:00Z
-    webUrl: "https://www.eastidahonews.com/2023/08/shoddy-ai-facial-recognition-lead-to-her-false-arrest-now-this-detroit-woman-is-suing-police/"
-    type: article
-    provider:
-      name: East Idaho News
-      domain: eastidahonews.com
-    quality: 42
-    images:
-      - url: "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2023/08/detroit-woman-CNN.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "ZLtJK39UmNRZoLHVku3/1y/fI2tQwSL/G9JLDEmg1pyL0re2B52ovnuY28dcN4tNRqIlLsmbCLclRslrjhLrJHFx0IwYmtdjg/arTefONJLdwQE642WvUzrbY9pKthibeF1bX7JqzdvKPHkw5B8NM3oGkNmOzw0m++qA0NQAvmkXDFI/W/mBGXSgGEMrD+J3UMwvDqA74hOQuyYye74X0OZyXF9PvgKDKIt4q5pPTTH3rWzgQ/LuB68SfHDKQrwIBYFKfMUvWJvUx2Xop2g269Tzf5qnKeAOLZstCcZH1bi5t72VwjbrPyDp9PoAd0vfl1lsH/NTxa4///nh3uxMZaDKwjP6yXredQ1ZHG6iGU/Xn+aOmaM6E+f6tBhKQaADSHtRnv7x7BZDgD3N+jCjZUrG5U3Vo+Ri5cj7RFV9m26w6MFJPugu1Xdqebhu1518yJbxIoxjGwwxb6o6aMsyqVwbT0xUFIiNw85UolyXguX+9z3pT/5T4kNd8peuit4u/otSGQHX5kQVEuFxeBQXvg==;HgLCdkblLfY8EXvwEV0PNA=="
 ---

@@ -155,6 +155,20 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 47
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "IBM announced today that it is expanding its collaboration with Microsoft to help joint clients accelerate the deployment"
+    publishedDateTime: 2023-08-17T17:09:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-consulting-collaborates-with-microsoft-to-help-companies-accelerate-adoption-of-generative-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 41
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "ABB and Microsoft bring generative AI to industrial applications"
     excerpt: "Automation and electrification specialists ABB is tapping into Microsoft Azure OpenAI Service to bring Generative AI to industrial"
     publishedDateTime: 2023-08-16T06:47:00Z

@@ -172,6 +172,20 @@ related:
         width: 800
         height: 543
         isCached: true
+  - title: "The Evolving Role of Artificial Intelligence in Business: Staying Ahead of the Curve"
+    excerpt: "This sentiment rings especially true when considering the transformative potential of artificial intelligence (AI) in the business world. Just as the advent of personal computers and the internet revolutionized many sectors, including law, AI is poised to ..."
+    publishedDateTime: 2023-08-17T17:40:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-evolving-role-of-artificial-3504503/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 32
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16046_1835.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
     excerpt: "The Nutanix GPT-in-a-Box solution delivers ready-to-use customer-controlled AI infrastructure for the edge or the core data center and allows customers to run and fine-tune AI and GPT models while maintaining control over their data. Nutanix provides a full complement of security and data protection offerings ideal for AI data protection."
     publishedDateTime: 2023-08-15T14:58:00Z

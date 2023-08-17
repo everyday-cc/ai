@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "San Francisco's North Beach streets clogged as long line of Cruise robotaxis come to a standstill"
-    excerpt: "Just one day after state officials approved massive robotaxi expansion in San Francisco, a long line of the driverless cars come to a standstill and clog traffic in North Beach neighborhood."
-    publishedDateTime: 2023-08-12T23:20:00Z
-    webUrl: "https://www.aol.com/news/san-franciscos-north-beach-streets-202029654.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 11
-    images:
-      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/e7220c3a960d4097dcf9a402eb9c8268"
-        width: 840
-        height: 560
-        isCached: true
-
 secured: "xsGYjKUoLJpgkDLZQPmRmuvpeh+GlIpcokPQexkRiqOJr3vXWUOCN9SbbInQK6Zo6yzCM055f6MqWPmx1qH4pP5FTIyIE2deMEg7ul7LWysofrgctIgDn538A6bAUnIZxNAjJ95yOeCI5ULO7ppxbNakJOPWOKnJnpjHBYYTqwrUo2piTdl35HMXvJNEpTKpV+EpFpeYns89l5gETq7y9Ww3lKN2AVt0FUYzkuO+AGtc8YnUUeRV8qXO+Uq5lmLj4XMUWMxEnBrZ4jQP8SWut2KrLga/acJFc5Ytj2gxpSvf16fmnjyVshlhmHYtyM1BToOqilnczuNnp540lrbsfUE6Crz32uPFbg98kLLmHUnLSNsXreBwu311w0xfnpYz+QGSoOLQXA7zrxMvpGR+TNKqgKcFALdNPsykMmTedYPgw8GGX14WgpppiDA9sqvD51q9fITqMt3XjtxRr94NfhW+Dv0AixNOfhuLzhvcUmKKM9BVKEYAbMPjzTHAMIUPUwXm7EHzYwsQHa365/VTRw==;ds5hWUoCxPybdX2j6uOd7w=="
 ---
 

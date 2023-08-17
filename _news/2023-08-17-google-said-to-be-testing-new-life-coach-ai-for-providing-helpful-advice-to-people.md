@@ -7,8 +7,8 @@ originalUrl: "https://www.techradar.com/computing/artificial-intelligence/google
 webUrl: "https://www.techradar.com/computing/artificial-intelligence/google-said-to-be-testing-new-life-coach-ai-for-providing-helpful-advice-to-people"
 type: article
 quality: 63
-heat: 123
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRadar
@@ -29,53 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google expanding AI capabilities with life advice tool: Report"
-    excerpt: "Google had previously showcased its first vision-language-action (VLA) model for robot control in July. This model displayed improved capabilities in terms of generalization and understanding beyond the specific robotic data it had been exposed to."
-    publishedDateTime: 2023-08-17T09:27:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241"
+  - title: "Google DeepMind testing ‘personal life coach’ AI tool"
+    excerpt: "AI experts cite ethical concerns over relationships humans may develop with such chatbots"
+    publishedDateTime: 2023-08-17T16:58:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
     images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/08/google-logo-1679051933-1692264319.jpg"
-        width: 360
-        height: 202
-        isCached: true
-  - title: "Google Is Developing An AI Assistant That Offers Life Advice: Report"
-    excerpt: "Google DeepMind has been working with generative AI to develop at least 21 different tools for life advice, planning and tutoring, New York Times reported on Wednesday."
-    publishedDateTime: 2023-08-17T10:55:00Z
-    webUrl: "https://www.ndtv.com/world-news/google-is-developing-an-ai-assistant-that-offers-life-advice-report-4305609"
-    ampWebUrl: "https://www.ndtv.com/world-news/google-is-developing-an-ai-assistant-that-offers-life-advice-report-4305609/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/google-is-developing-an-ai-assistant-that-offers-life-advice-report-4305609/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2023-01/f8uj6gqo_sundar-pichai-bloomberg_625x300_24_January_23.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "People coaxed AI into saying 9+10=21 and giving instructions for spying — it shows how these systems are prone to flaws and bias"
-    excerpt: "Participants at a hacking conference showed that AI can be tricked into making errors like falsely claiming Barack Obama was born in Kenya."
-    publishedDateTime: 2023-08-14T04:38:00Z
-    webUrl: "https://www.businessinsider.com/ai-math-error-flaws-bias-hacker-conference-openai-google-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/ai-math-error-flaws-bias-hacker-conference-openai-google-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-math-error-flaws-bias-hacker-conference-openai-google-2023-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/64b750641ccd1e00198ab8f5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.guim.co.uk/img/media/4f5a645fc459c27cf1563fa0cb1cfd11d656d6b4/0_238_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=9435453c1931bf79d36121e3a30ec686"
+        width: 620
+        height: 372
         isCached: true
   - title: "Google DeepMind reportedly developing at least 21 new generative AI features"
     excerpt: "The search giant’s engineers are reportedly working on at least 21 different generative AI capabilities. One of the main highlights is a feature that can reportedly provide advice about “challenges in people’s lives.” A sample prompt obtained by the Times suggests the feature can process complex user queries containing several lines of text."
@@ -91,28 +59,23 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Google Wants to Build an AI to Give You Life Advice"
-    excerpt: "Google’s AI department DeepMind is working on a suite of generative AI tools to help dole out life advice, according to The New York Times. The company has partnered with software firm Scale AI to develop at least 21 bots for things like idea generation,"
-    publishedDateTime: 2023-08-17T13:41:00Z
-    webUrl: "https://www.thedailybeast.com/google-deepmind-is-building-an-ai-to-give-you-life-advice"
+  - title: "Report: Google's DeepMind Is Building a Life Advice Bot With Generative AI"
+    excerpt: "Yes, we all look up information on computers, but Google's DeepMind division is working on something a little more expansive. The company is reportedly developing 21 different generative AI tools for life advice,"
+    publishedDateTime: 2023-08-17T13:00:00Z
+    webUrl: "https://www.extremetech.com/extreme/report-googles-deepmind-is-building-a-life-advice-bot-with-generative-ai"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2813,w_5000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1692278711/GettyImages-1258471501_mfer5t"
-        width: 1480
-        height: 833
-        isCached: true
-  - title: "Google developing AI tool that offers life advice: Report"
-    excerpt: "In a bid to catch up to Microsoft-owned OpenAI's technology, Google is reportedly testing an artificial intelligence (AI) tool that will give advice about issues users face in their lives."
-    publishedDateTime: 2023-08-17T12:49:00Z
-    webUrl: "https://telanganatoday.com/google-developing-ai-tool-that-offers-life-advice-report"
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
+  - title: "Google DeepMind Alumni Shine As Startup Founders"
+    excerpt: "A large number of Google DeepMind employees have moved on to start their own businesses, with the majority of them operating in the AI space"
+    publishedDateTime: 2023-08-13T11:36:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-alumni-shine-as-startup-founders/"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 19
 
 secured: "06VUjQUhZkFnXgQLTfgsgqx82/jPdo2dz/11p8jc/n6kS6vwoDZ/1SQ8LEoDR6LI0ZDcXmdNRngFT0gwzcIIA4aOzdD44iC8qa69iYzN3znibHIp+CvSn272PA4/VpnWfh+1QJQU9VJ4vfZXaOGpkTiT34bGNCd2VoJ/V3g8PWEtOdqg21Yj1x1I61derW2+6ZVBIDksGFddWIvr/t+aYRFuHO4hByTH3eO0vaClxDv3yHWW4vbWT7mCq6f+t0+3GalGRaV92tkHqnUtvzQ5Qcav9oGK3lEhcsyib2wwCH+p66ByYjXWHMa/gRHQjr44otJja3U8F2x79ClC5N4qeDpF70fXsaEMzK4cEusxR/k=;vH/xDeGMIxNyQqDXOqriaQ=="

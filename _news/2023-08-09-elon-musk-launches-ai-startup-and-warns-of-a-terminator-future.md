@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=5b79594e39003269b2ff492348e38061"

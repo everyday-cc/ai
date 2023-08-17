@@ -56,6 +56,20 @@ related:
         width: 650
         height: 364
         isCached: true
+  - title: "Generative AI in healthcare: Google Cloud’s Amy Waldron on the tech giant’s health ambitions"
+    excerpt: "Healthcare Dive caught up with Google Cloud’s Amy Waldron to discuss the technology giant’s plans — and the potential risks — of generative AI in healthcare."
+    publishedDateTime: 2023-08-17T17:56:00Z
+    webUrl: "https://www.healthcaredive.com/news/google-cloud-healthcare-amy-waldron-generative-AI/691085/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 43
+    images:
+      - url: "https://www.healthcaredive.com/imgproxy/JE6m1JKnt2UbIcxtPg6sykAC5vaRUn1UPaHQJCPBHHw/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk3NjE0NTkxLmpwZw.jpg"
+        width: 770
+        height: 435
+        isCached: true
 
 secured: "gx6bkWDJhoqgrsnBYX0mXIqd1M2UUsRfrc0i/zIVC6a45u1TcTrfFyVi/0eCtHyiSfc5PxnlEzzS6X2jpia9Keao8Mrln3fHbUVpODikXH3YHIilFqJXAaOQVSfPI4opz8Rsm/UbnoSx0KyZz0ODyPBK6+y9OcpWwmOYBBHrNn+BiLvCPvMMuHp4ggR4Ordb4iCnmuCfiwKmt0x9e+odW+N6kOqhasBZ61kecv6ITlaipr6b3IBkem4ILs19caDFMeVO5mFR70Ht6lHXlie6VFq/msSiOc8HOKtu6PDGAF4sQaAFBK/9k2MCa7Ek2Y3aI1rBF7SA4+U75LbEXj6wdH4z+XBAzqLRvO908yRchLaF6clZbHPIOF0ShRSP9/njV0yliAmJhC1veMUTP2+vQ6/PVQTmDiKxDFTXBXaNxZYHLxJkqzz9tN/ry8pgXfd0lU5Xss6ktcYKR2JylEEJgOAUFvlSdfndh3Aahg33nIMK8inLWFh8XvW6HW3M3CadjCWcA0psexEGVby5PBFd+Q==;I4ZKPnbOuxjD6CXt0GQchw=="
 ---

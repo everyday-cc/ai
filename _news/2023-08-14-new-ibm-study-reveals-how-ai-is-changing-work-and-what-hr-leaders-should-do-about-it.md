@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-
 webUrl: "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it/"
 type: article
 quality: 92
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://it-online.co.za/wp-content/uploads/2023/08/work-sunrise.jpg"
         width: 1075
         height: 550
+        isCached: true
+  - title: "Artificial Intelligence Is Changing The World"
+    excerpt: "I have been hearing so much lately about Artificial Intelligence (AI) that it has started to annoy me to the core."
+    publishedDateTime: 2023-08-17T15:57:00Z
+    webUrl: "https://www.canyon-news.com/artificial-intelligence-is-changing-the-world/174398"
+    type: article
+    provider:
+      name: Canyon News
+      domain: canyon-news.com
+    quality: 39
+    images:
+      - url: "https://www.canyon-news.com/wp-content/uploads/2023/08/hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg"
+        width: 1920
+        height: 1078
         isCached: true
 
 secured: "1C2/NCms5RdRksiq0/UPD1rpIAnSZH8DLIPNTNZ+j6z3vupS8vFBurol6EY3UdzTwCWEoIMBdo4980FZnmZcyxs/9jcs43yRYOVWPK2c8mZs5KXk0VmEL9amiujIEeLMOI05Xk3/97y0zH2THY7ndxulI7AKkYjdISVpjZ41RKjy/F+GPhAvCjbdGeF4C3IUM0F8vUgW9Oiaj+1gM8cMX+m/9u8vgpjchfiI9Heqs5UmGNPnVe6fhrNyR8iyrTNiIPM+v9lNKP8JRqnPSnvK6fANXoAiUaM4pAZEnR25he4drl20YGOLMKGWLr68Jr6b1wtdASwGBm4JpOPDZQisT1+AYOafPVGa00hlpgl15lg=;9VB3DC4s6lBFKj5c43oMcg=="

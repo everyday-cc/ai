@@ -34,6 +34,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 92
+  - title: "Artificial Intelligence Is Changing The World"
+    excerpt: "I have been hearing so much lately about Artificial Intelligence (AI) that it has started to annoy me to the core."
+    publishedDateTime: 2023-08-17T15:57:00Z
+    webUrl: "https://www.canyon-news.com/artificial-intelligence-is-changing-the-world/174398"
+    type: article
+    provider:
+      name: Canyon News
+      domain: canyon-news.com
+    quality: 39
+    images:
+      - url: "https://www.canyon-news.com/wp-content/uploads/2023/08/hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg"
+        width: 1920
+        height: 1078
+        isCached: true
 
 secured: "zV+5Kbdm26/aPiKGM2TyVGj6VqSm1UzIKdqcQfBPZ6pxlIUiKswY6tRY9eVyPStT/DweFvg0QueI7fbW2QAcca1uL6FQD21J1iBaZWnesOqM6VvKdViqYbrc/QJ2bOcpcytDmGGe5edTCYSHTe82Zf2wmXsV+G7+Yf2w3t0j4JM7uiHy1sjAAY36AlQS6m1GARXBaff2EqGPCx4a36rwtI1c37N2AX7X9bdQQ9jnAHHtLXKehkOoHuqlyxFAy7AbymKQ/0f3a86fH2ROffL+EZRh5r3QjcNlDiDGqgn7zQGgemdYSsSTvUnV+AB/8hq2YrHyG5UPl9NkrXXDZsiJAyI7y9JCjWf8v6vQll2NHEgh7We3cYEFqcgt5lK69IKFr8x7ysrhRpWMKgSYKDV13uefBEC7YW6dRbG5Do53h3+Hf/SCqCWi5+fQk7mh6aql8Uw0mYsix0mynKTpt8Id/btj7vTNzGEIOZCo3k/EFAF4eZxfDjkb9u/5UdP6c8sdE5e39zkaXhK+XFlvJYGARQ==;iEmCoFAJVSlB6Pxigl3hIw=="
 ---

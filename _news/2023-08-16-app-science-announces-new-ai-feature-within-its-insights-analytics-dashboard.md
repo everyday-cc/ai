@@ -2,9 +2,9 @@
 category: news
 title: "App Science Announces New AI Feature Within Its Insights Analytics Dashboard"
 excerpt: "The new AI feature is available immediately and in use currently by App Science clients. To learn more about the capabilities of App Science Insights and how it works, visit https://www.appscience.inc/solutions/insights."
-publishedDateTime: 2023-08-16T11:42:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/08/16/9865492.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/08/16/9865492.htm"
+publishedDateTime: 2023-08-16T12:54:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/08/16/9865492.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/08/16/9865492.htm"
 type: article
 quality: 36
 heat: -1
@@ -54,6 +54,6 @@ related:
         height: 969
         isCached: true
 
-secured: "cxsZpE3Lluke8sbmGeUKT2SXoaJ1M4LTlIEWMB9DkzlbUY3ghzc2zDp5miz/A7gHZ8QMgqmmkc+jy5nQG9MYTrPW6Bq4Xuv8Zrbg/M8lQQLyJkERqWQti/AhkTczM1EbE5AfqZIiOVKluzi0CfMy9l20VIh3TGwQ6szREuOICMTyEQ8y/L7ZF7GyRpHE6A9NAnJpyxnp9JLB4vmmkB5ggtHKYhXfWKhA8fKySq0K7LK6Ze4QtCw94KzGCoRTbuwpqWpqYgt1aG36F3l1i+8DmGtez/e3GqQvOHxyElN22pOOGme+6GGtYzbcPHP2OTvhx9wTnehlqFQVnOdz/NLJ14u4GEeGhYTtValHEUz/lcA=;yK2QZiBhnIo6ImqarqJf4w=="
+secured: "ODT1oFE5bWnum3ZnKnN7F5nlD9leIBB96e6KBLo4z9GpgvV/fTvPeI6OKbII6yuSyABkdhvy712qgyNAYE2emiQfxebtxrfIXumA/uAifIXDYmEw5zzDgzE6/aEcaIZks1LewlDdzEdJGXCgY7DTv+omuiyfjC8dLva9hPZW8gvOEUdSpfsCbXto4CFO6XKLHfRzZr4nkZwkzfH6hKlUG5UlH8z10mAFzjTLlZeckUNobJknCA1oYtxIh7kf4IyD4UpvSEneGvZvNdQEWgnwzZdX3/qrdHXkmOifHa9iEsCJBgR0GSs4BeqgBh+77w+bYhcOLuHxdEWK1hJ5rYRjk1x/wexNsTe5zV7Z1DlIRx0=;k+NPabi/fM2LuNwsSM5X4g=="
 ---
 

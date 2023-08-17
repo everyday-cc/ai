@@ -3,8 +3,8 @@ category: news
 title: "‘I apologise for the confusion’: travel operator Tui launches AI tour guide"
 excerpt: "Guardian test highlights ‘experimental’ nature of ChatGPT service being made available in Tui’s app"
 publishedDateTime: 2023-08-17T15:46:00Z
-originalUrl: "https://www.theguardian.com/business/2023/aug/17/travel-firm-tui-launches-ai-tour-guide?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/business/2023/aug/17/travel-firm-tui-launches-ai-tour-guide?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/business/2023/aug/17/travel-firm-tui-launches-ai-tour-guide"
+webUrl: "https://www.theguardian.com/business/2023/aug/17/travel-firm-tui-launches-ai-tour-guide"
 ampWebUrl: "https://amp.theguardian.com/business/2023/aug/17/travel-firm-tui-launches-ai-tour-guide"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/aug/17/travel-firm-tui-launches-ai-tour-guide"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "KciVNY4OvRYXKk+XZ9csjDM/gWFfx7I9npCx8zAZSkXeoRKEOb3JHg5fVXllC30C1Kjr+D7wz/w7E/nDJS8R/5jdUUnAUg55SP0aV7GBpR2OuBGvaACvxG2l1RrgtdUONoL/+ww30Vl/qtkL33w4vdrjgn6c7uPDVaS0/+EhLViOoBGqmVJL4Oe7KtB/MLkkNZMETHMeD+awUsCw3resm8ZnL3l4r+yP6y6CRiOC9xAI+WmXBQSdTYqbolxv/3jbuApKUxMdBD8p/8sf1of48OMKxhJz3okU/Ejwp74wKYV52oTxZS/YkqKarbsm4D0eRf7Kxl3Pza2uwyB1CaT66tb8C3jhs6fEwRVE+NivXAA=;SpD0VmZu5uIieGsKYv2iUA=="
+secured: "3/HPpkybVOBhP0cXcbsegxyC99IInwpsrXCW/y59zzmdl1wu/wYbqlA52nahfqCKBtEzu9SMjEFgmciwrPtqnwZe9fcS5LBCioYRUgtfAhOf+0Rv4h6vRkPUe5FacA19+ZnpICO5/8IGsQ1TaWrTJk81yyJ/GwHQuPXNd/0InvGz874H3WJw1iHMg0VyMLh9H43w0coCRZl3QBqwUXW2RdHl/Pwesretl6c1IwrMMRor/Sp93cLd4t4M5egzJD8hoQcL1GKlmirUJIwSFHRHUl2nTrg6FqY7jRDjaq/7yiUIWNd3uXRPr4grfnVcNEYW4JzY/lAX+tujfuoHpmumlz433yKCKaUuAkHINetiEAw=;8cc4psYJxHalLlzlL6qaeA=="
 ---
 

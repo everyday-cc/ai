@@ -2,22 +2,22 @@
 category: news
 title: "Snapchat users freak out over AI bot that seemingly had mind of its own"
 excerpt: "Snapchat users were alarmed on Tuesday night when the platform's artificial intelligence chatbot posted a live update to its profile and stopped responding to messages."
-publishedDateTime: 2023-08-16T15:59:00Z
-originalUrl: "https://www.wjcl.com/article/snapchat-ai-bot-users-freak-out/44830032"
-webUrl: "https://www.wjcl.com/article/snapchat-ai-bot-users-freak-out/44830032"
-ampWebUrl: "https://www.wjcl.com/amp/article/snapchat-ai-bot-users-freak-out/44830032"
-cdnAmpWebUrl: "https://www-wjcl-com.cdn.ampproject.org/c/s/www.wjcl.com/amp/article/snapchat-ai-bot-users-freak-out/44830032"
+publishedDateTime: 2023-08-16T15:19:00Z
+originalUrl: "https://www.wesh.com/article/snapchat-ai-bot-users-freak-out/44830032"
+webUrl: "https://www.wesh.com/article/snapchat-ai-bot-users-freak-out/44830032"
+ampWebUrl: "https://www.wesh.com/amp/article/snapchat-ai-bot-users-freak-out/44830032"
+cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/snapchat-ai-bot-users-freak-out/44830032"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: WJCL
-  domain: wjcl.com
+  name: WESH
+  domain: wesh.com
 
 topics:
-  - AI Ethics
+  - AI in Robotics
   - AI
 
 images:
@@ -26,6 +26,6 @@ images:
     height: 677
     isCached: true
 
-secured: "Deeuhd+PR78GB2quqSaE6hyPMqWWF6NTE1EGOGTdDkTYyujZeInP6G/YKc2VhTRyyfjlDBFXERmawvAFYWGzrXUMYWsuPA4KuHpKO4W5CZ/hVLjmHQvJRl95RL+OblMUuL1AZx2bPIsUD8SqCSgL+6070wsAmmGzy7009XM9Nd0JVLwbcEd0myamdtCpYWRe1CaO3CQwIxy6qPFnevTjJPX7FXFA+TB9628UfB0TXSzkVkGU3wlqnyutqHUkvdykqfbN4z1rpghJyah/Fxov1JdhxgSGk7Z0Rm5o4uCxB/SBsqoQ6RJfqsYGeBlgep7A5fMdlQ/cijaUiWGxJzPXyWfU4U8lbiXpH9VoIb7Jgf4=;uYtNP2F/d7auXWpa8cVmMA=="
+secured: "guChubwTCZZNvi7Ozaq4HFoLWqx+yLsMpBhDs1EwgNu77xkVW8x/PUHR462KusbKuO/CiQQmoaqwKE/ExCmLRNgqJT1T+K4xQRbfoQi/KvocAyo2FqcSRpVvfNVvceuegyJ1/Ll3S45h9Z4+OIteImAgAUAzUnIwc5shuyoHBg5wcq39vfN+T/efeFTmesYrdfx+tRhQ2I7ajxRKWar8LUWw6kntVplgo4MbZn2k43u14QJbjN56xT477BxsKtI392PiSopUG5odwRXHpn7kSU/wjSlTUh5AwiEtvNx1hlEIobKJzx2ZjhvwjUq89IqK9rYNADUR+XQw5aM2phsFVeATpCGMEcThOalzgtK3lp8=;jk158MAe8CPMbD6HtEMitg=="
 ---
 

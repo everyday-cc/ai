@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Here Are the Generative AI Products UK Law Firms Are Using"
+    excerpt: "From Harvey and ChatGPT, to Lexis AI and CoCounsel, Law.com International unveils the GenAI products gaining the most attention."
+    publishedDateTime: 2023-08-17T17:12:00Z
+    webUrl: "https://www.law.com/2023/08/17/which-generative-ai-products-are-uk-law-firms-using-292-161851/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
   - title: "Innova Solutions CEO: Generative AI will have ‘bigger impact than the Internet’"
     excerpt: "Raj Sardana, CEO of technology services company Innova Solutions, says generative AI will have a \"bigger impact than the Internet.\""
     publishedDateTime: 2023-08-13T23:07:00Z

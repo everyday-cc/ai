@@ -51,15 +51,6 @@ related:
       name: Printing Impressions
       domain: piworld.com
     quality: 21
-  - title: "How ChatGPT can help you optimize your content for entities"
-    excerpt: "An object. The subject and object are typically the entities ... To determine successful entity usage within your material, these platforms often devise their own entity recognition algorithms. The left side prominently displays the entity."
-    publishedDateTime: 2023-08-13T22:23:00Z
-    webUrl: "https://searchengineland.com/chatgpt-help-optimize-content-entities-430315"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 4
   - title: "How ChatGPT plugins can up your SEO game"
     excerpt: "Discover innovative ways to elevate your keyword research, content optimization and link building strategies with ChatGPT plugins."
     publishedDateTime: 2023-08-17T13:00:00Z

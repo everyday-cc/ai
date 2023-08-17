@@ -1,22 +1,18 @@
 ---
 category: news
-title: "Top Ex-Google Brain Researchers Start AI Research Company in Tokyo"
-excerpt: "Top Ex-Google Brain Researchers Start AI Research Company in Tokyo By Anna Tong (Reuters) - Two prominent former Google researchers, one of whom was a co-inventor of the “transformer” artificial intelligence architecture that paved the way for the ..."
-publishedDateTime: 2023-08-17T15:49:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-08-17/top-ex-google-brain-researchers-start-ai-research-company-in-tokyo"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-08-17/top-ex-google-brain-researchers-start-ai-research-company-in-tokyo"
+title: "Top ex-Google Brain researchers start AI research company in Tokyo"
+excerpt: "TWO prominent former Google researchers, one of whom was a co-inventor of the “transformer” artificial intelligence architecture that paved the way for the generative AI boom, announced on Thursday (Aug 18) they had started a new AI company based in Tokyo."
+publishedDateTime: 2023-08-17T16:20:00Z
+originalUrl: "https://www.businesstimes.com.sg/startups-tech/top-ex-google-brain-researchers-start-ai-research-company-tokyo"
+webUrl: "https://www.businesstimes.com.sg/startups-tech/top-ex-google-brain-researchers-start-ai-research-company-tokyo"
 type: article
-quality: 47
-heat: 47
+quality: 17
+heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Times
+  domain: businesstimes.com.sg
 
 topics:
   - AI
@@ -36,16 +32,7 @@ related:
         width: 1400
         height: 862
         isCached: true
-  - title: "AI translation tools helps tourist in Tokyo"
-    excerpt: "A train station in Japan has launched an AI-operated live translation wall to help tourists passing through Tokyo. The special screen can instantly translate a conversation between the ticket agent and the buyer in multiple languages."
-    publishedDateTime: 2023-08-13T12:11:00Z
-    webUrl: "https://www.theaustralian.com.au/news/ai-translation-tools-helps-tourist-in-tokyo/video/9c3503cf2825b7a03fcd7a6ead627850"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
-secured: "/U9tx3hQY9Gz3Ms0k2IbCWSJeqBKDMI2OlH+jFbGJWVDn2GWbcCxzdaELFnqyDlfsaFuPgiIuVmpSc+5R+WARXkeI4dWx6RUDuYd3pe4+xTyiges7joHV4WboVviYNLhZIsT5jRkciL9rgwqH2tUaui6+OGFbJzQVCocZe+JbICwitrMIKduHwzJc41x36N7uiICxZC6ErkIXp4WlN9O89wJjg9TXNHPP4vy+KniUvktcSnPWmpsjOpk3CuRpgzdZDaOhnodNM7PByKHvd7Wv2HuRVwE/9+n12DLDymLCP0eTVakb2aB13vqPJSGHJENPPbcOBYarOTXjxAcfoq8JISYbCQbEwvfVOt6VLxGOZo=;DlR2U/uZ2WJjqgsjS7ctmQ=="
+secured: "FtkmcKnNS8qeHHyputRtuR61nyHAf54Ohp+I87z9SH0DvbCCZO0cCNSopFAmOGMaC6fU3ox397V2aGnjXHE8tl4PPwxDzdMlbP7nyipYiffpJOB2pQrLzHAbYRxF3ZGlB/DbKG1HvgkI66n8iEQ8beBywTx1xB1d7h36mUgFjMLEyeRTXqT5EgKDxaeKyAf6YjE3U7+qJQ0zAfWDLsgqxpzdpOoijdphbLpqcq7bFI89MP4KrL7E0OeJgi0xMUzTlUi5o3BpqqzqJ14vBhJBVNiuc6IQN9skBumsKFC+DaZweeq6s6e0a9Zc3EK4lI33zwa9wzy/ZKaZi5ivd2dqkjWuQVT9UDtgVdXnv01Eo8y3ddYgQUnND6fHBQrIutma37E5bOFH9KGMuBw5frlLD0hZ2oaNEMuxVYi2iRed/jvZS6G0JRXuJC0q1yg1lMe2cp2wLBPlVouqFKZE20Ck62UUC0nVJNE6DnAccsiFsOj0iFW16LrixAqxEppugFSrCEw6S2A8ekPduN/tRxeD0g==;A9TK7gE1ocaW4uFXAIirSg=="
 ---
 

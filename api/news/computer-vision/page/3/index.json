@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-21-the-ugly-sweaters-that-make-you-invisible-to-face-recognition-technology.md",
+      "title": "The Ugly Sweaters That Make You Invisible to Face Recognition Technology",
+      "excerpt": "Facial recognition software works by first identifying the people in a scene — using “object recognition” to separate you from dogs, post boxes, hedges, and buildings — and then applying a more computationally-intense facial recognition algorithm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nysun.com/article/the-ugly-sweaters-that-make-you-invisible-to-face-recognition-technology",
+      "originalUrl": "https://www.nysun.com/article/the-ugly-sweaters-that-make-you-invisible-to-face-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.nysun.com/wp-content/uploads/2023/07/sweaterpic-1.jpg?w=1200&h=630&fit=fill&fm=jpg&fl=progressive",
+          "width": 689,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Sun",
+        "domain": "nysun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-the-movement-to-limit-face-recognition-tech-might-finally-get-a-win.md",
       "title": "The movement to limit face recognition tech might finally get a win",
       "excerpt": "A Massachusetts bill restricting police use could set the standard for how the technology is regulated in America. If it fails, it'll be a blow to a once-promising movement.",
@@ -1266,40 +1309,6 @@
       "provider": {
         "name": "WGBH",
         "domain": "wgbh.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-barred-from-grocery-stores-by-facial-recognition.md",
-      "title": "Barred from grocery stores by facial recognition",
-      "excerpt": "Facewatch, which licenses facial recognition software made by Real Networks and Amazon, is now inside nearly 400 stores across Britain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/?mibextid=Zxz2cZ",
-      "originalUrl": "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/?mibextid=Zxz2cZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/?amp=1",
-      "publishedDateTime": "2023-07-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
         "images": null,
         "publishers": null,
         "authors": null

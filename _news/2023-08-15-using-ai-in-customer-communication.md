@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -161,6 +161,20 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/8feda3c1f32fbd1cf9d118a4ff749e2e"
         width: 800
         height: 543
+        isCached: true
+  - title: "The Evolving Role of Artificial Intelligence in Business: Staying Ahead of the Curve"
+    excerpt: "This sentiment rings especially true when considering the transformative potential of artificial intelligence (AI) in the business world. Just as the advent of personal computers and the internet revolutionized many sectors, including law, AI is poised to ..."
+    publishedDateTime: 2023-08-17T17:40:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-evolving-role-of-artificial-3504503/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 32
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16046_1835.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Revolutionizing Customer Engagement with Voice Interfaces in Business"
     excerpt: "Welcome to the future of customer engagement! In today’s ever-evolving technological landscape, businesses are constantly seeking innovative ways to forge deeper connections with their customers. With the rise of voice interfaces,"

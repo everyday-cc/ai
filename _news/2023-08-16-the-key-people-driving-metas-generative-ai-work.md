@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Here Are the Generative AI Products UK Law Firms Are Using"
+    excerpt: "From Harvey and ChatGPT, to Lexis AI and CoCounsel, Law.com International unveils the GenAI products gaining the most attention."
+    publishedDateTime: 2023-08-17T17:12:00Z
+    webUrl: "https://www.law.com/2023/08/17/which-generative-ai-products-are-uk-law-firms-using-292-161851/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
   - title: "Epic Is Integrating Abridge’s Generative AI Tool Into Its EHR"
     excerpt: "Epic announced that it will integrate Abridge’s clinical documentation tool into its EHR workflow. The startup’s generative AI tool listens to visits and creates a near-instant summary that adheres to physicians’ prototypical note structure."
     publishedDateTime: 2023-08-16T21:22:00Z

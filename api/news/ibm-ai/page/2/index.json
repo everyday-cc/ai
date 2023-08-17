@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-04-cmmss-help-medical-facilities-thrive-in-the-face-of-labor-shortages.md",
+      "title": "CMMSs help medical facilities thrive in the face of labor shortages",
+      "excerpt": "A CMMS can help hospitals and other medical facilities bridge the asset management gap while the industry waits for the workforce to catch up.\nThe post CMMSs help medical facilities thrive in the face of labor shortages appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/cmms-healthcare/",
+      "originalUrl": "https://www.ibm.com/blog/cmms-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T06:06:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-data-democratization-how-data-architecture-can-drive-business-decisions-and-ai-initiatives.md",
       "title": "Data democratization: How data architecture can drive business decisions and AI initiatives",
       "excerpt": "Learn how data democratization simplifies the data stack, eliminates gatekeepers, and makes a comprehensive data platform more accessible.\nThe post Data democratization: How data architecture can drive business decisions and AI initiatives appeared first on IBM Blog.\n",
@@ -1275,58 +1317,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-for-a-short-time-only-time-based-restrictions-for-enhanced-cloud-security.md",
-      "title": "For a short time only: Time-based restrictions for enhanced cloud security",
-      "excerpt": "Learn how to apply time-based restrictions on IBM Cloud with Terraform.\nThe post For a short time only: Time-based restrictions for enhanced cloud security appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/for-a-short-time-only-time-based-restrictions-for-enhanced-cloud-security/",
-      "originalUrl": "https://www.ibm.com/blog/for-a-short-time-only-time-based-restrictions-for-enhanced-cloud-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/91584999.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T03:26:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
       ]
     }
   ],

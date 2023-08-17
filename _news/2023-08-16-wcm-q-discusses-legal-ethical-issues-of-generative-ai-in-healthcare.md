@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106864884/Wcm-Q-Discusses-Legal-Ethical-Issues
 webUrl: "https://menafn.com/1106864884/Wcm-Q-Discusses-Legal-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
 type: article
 quality: 71
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://c.ndtvimg.com/2023-08/ahnjetto_banega-swasth-india_160x120_15_August_23.jpg"
         width: 650
         height: 364
+        isCached: true
+  - title: "Generative AI in healthcare: Google Cloud’s Amy Waldron on the tech giant’s health ambitions"
+    excerpt: "Healthcare Dive caught up with Google Cloud’s Amy Waldron to discuss the technology giant’s plans — and the potential risks — of generative AI in healthcare."
+    publishedDateTime: 2023-08-17T17:56:00Z
+    webUrl: "https://www.healthcaredive.com/news/google-cloud-healthcare-amy-waldron-generative-AI/691085/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 43
+    images:
+      - url: "https://www.healthcaredive.com/imgproxy/JE6m1JKnt2UbIcxtPg6sykAC5vaRUn1UPaHQJCPBHHw/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk3NjE0NTkxLmpwZw.jpg"
+        width: 770
+        height: 435
         isCached: true
 
 secured: "qu1KIzxyplGuXdfeaA8v8wAazG+O827OnnYrWqGsadoUHgdUb40NXsAmfBvdmtPRuKGBafm/EeaPv+AQyJCUmedv9plkAwPSVweRxw4Iii0of8iD6gJhPujfJWvZsgBs5ndOvAe+t6yaEL2LO1CWwJ3cYEMIv61pg9bZQnWJLmuJ8Io4EVmcSxPcjxrlBUbd5tpXFnZvoJWhDZQ771IcELS4Zi1BdRzipvlilcH8JIxt0TfsLlUlETzaBEDhYceeekBUDy8KXfSK4lFayq6k4xRyWGXMb0OUylN/IPNFxsRMkmTdlO4cL8F7iIIunfBBJOqK/bPfN9Ha0NjVQ6X9MO8TdNipStyyJ8K8ZyZRPk4=;u5ueFnYonyfznEfJZIou7A=="
