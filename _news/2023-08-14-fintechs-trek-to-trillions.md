@@ -94,6 +94,20 @@ related:
       name: Tech Zone 360
       domain: techzone360.com
     quality: 39
+  - title: "Future of Fintech in the Middle East 2023: Aiming to become an AI hub"
+    excerpt: "This is an excerpt from The Future of Fintech in the Middle East 2023 report. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre."
+    publishedDateTime: 2023-08-17T09:12:00Z
+    webUrl: "https://www.finextra.com/the-long-read/761/future-of-fintech-in-the-middle-east-2023-aiming-to-become-an-ai-hub"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/761.jpg"
+        width: 799
+        height: 449
+        isCached: true
   - title: "Future of Fintech in the Middle East 2023: Are we entering a new era?"
     excerpt: "This is an excerpt from The Future of Fintech in the Middle East 2023 report. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
     publishedDateTime: 2023-08-16T09:16:00Z

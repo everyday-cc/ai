@@ -2,11 +2,11 @@
 category: news
 title: "App Science Announces New AI Feature Within Its Insights Analytics Dashboard"
 excerpt: "The new AI feature is available immediately and in use currently by App Science clients. To learn more about the capabilities of App Science Insights and how it works, visit https://www.appscience.inc/solutions/insights."
-publishedDateTime: 2023-08-16T12:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/08/16/9865492.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/08/16/9865492.htm"
+publishedDateTime: 2023-08-16T11:42:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/16/9865492.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/16/9865492.htm"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1725822/Sabio_Holdings_Logo.jpg"
+    width: 400
+    height: 214
+    isCached: true
 
 related:
   - title: "Smart video analytics are redefining use cases from retail to healthcare"
@@ -57,6 +63,6 @@ related:
       domain: inferse.com
     quality: 4
 
-secured: "Pf34qW4eJJovknpOe/vto2mZJUtiEj2SROx5Gu5wL0nVyM/M6/zg+QD4Hx9duoZ5xsN3wYC1DUySWT1pu1pRjmzSU4kT5QRKD/eUUNkF3C18+zMcREa7NX4Fi2/I3BJp4i6pFesTd1KrXJGGCgNSpKB32AH0uSJWshkQ7HFi3gwACb9uZWJKEspqVrFAeCh7rX7DYMCTpjNMr7diSvnOAFsoc+s+aKXWQ9QO27hnSpK3IpzKOSHrj6qu0HSIWSzf7iRhiGEzpsh5atsDWmH8MiVoLr22mgmfBTNf0b4CURMAX4oZnMNcFaGKCrcXWpSomFCCc/IEgAyzW8r3K9sqCC6U+FV5ayPipG0YHbsi8GhcPeuF9XTR+d7NcPzw6PnHt1i0HbcZQYr4eKOgOFjg9B+K6V9x/bFw5NhbhugvZZhcVPcEyPPzhCDCWJmsa61CYJRtTDUaHtPasNTGKVOFAqVVPqejCPNBZppm7A6RhwV8/+oZ98DBOpqHgu5qXelou7ot+e8J3A5WGANEQc08yw==;gVeR+3tSySUdTpW/bad6ig=="
+secured: "Ngy4j/526+ybkA+Cg3z/J2nt+IwDCCB1ZvGzb6jRaKseyBiufOMp0aB8ExAj3iFDq4Zm62ayoKCmI2plLnq4bEeEIFEu2xe3nwsoO3OCLlHPwAhkaX/wJ4oOzIJzSZkU92cwCHzusptb2TvB78lguCOrNPJ+GGLBCkx+NQCfi205CexmMO8wITj8TJtHKlc71lQZffW8v/+EmYmyq6S0mT/wai5Nj6LSzQopwe5S1jWkSdWbs2F98hnWjqjLNTVy43m/3tcbbd4fb/n/G7T2ZTH4kObvGMn3JwmoEyGqPyrj0OKAYRpO2StQSfcYcF9/mbRVAdToFQpH1SmYrXj1azSs18hA3C2qzd0DR061YDM=;O0gWnagYrqdjunr+3ZXwQQ=="
 ---
 

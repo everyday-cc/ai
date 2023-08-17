@@ -66,6 +66,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Gartner Identifies Top Trends Shaping the Future of Data Science and Machine Learning"
+    excerpt: "Gartner, Inc. today highlighted the top trends impacting the future of data science and machine learning (DSML) as the industry rapidly grows and evolve"
+    publishedDateTime: 2023-08-17T08:08:00Z
+    webUrl: "https://www.albawaba.com/business/pr/gartner-identifies-top-trends-shaping-future-data-science-and-machine-learning-1530815"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/gartner-identifies-top-trends-shaping-future-data-science-and-machine-learning-1530815"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/gartner-identifies-top-trends-shaping-future-data-science-and-machine-learning-1530815"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 52
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-08/unnamed%20%2830%29.jpg?itok=nk7yLJrq"
+        width: 1270
+        height: 692
+        isCached: true
   - title: "Gartner Hype Cycle places generative AI on the ‘Peak of Inflated Expectations’"
     excerpt: "Gartner Hype Cycle for emerging technologies placed generative AI on the 'Peak of Inflated Expectations' for the first time."
     publishedDateTime: 2023-08-16T18:49:00Z

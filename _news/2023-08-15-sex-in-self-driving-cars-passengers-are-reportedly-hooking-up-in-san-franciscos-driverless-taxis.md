@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp"
 type: article
 quality: 75
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/9a9b620/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2Fb7%2F7889b1824daf8828d17f469252f3%2F53109496780-1c34f2e556-b.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "People having sex in self-driving taxis: Report"
-    excerpt: "San Francisco: As the popularity of autonomous vehicles continues to surge in San Francisco, a growing number of riders are wondering just how far they can push the vehicles’ capabilities, and to test that they are having sex in self-driving taxis."
-    publishedDateTime: 2023-08-12T16:46:00Z
-    webUrl: "https://telanganatoday.com/people-having-sex-in-self-driving-taxis-report"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 24
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/self-driving-taxis.jpg"
-        width: 1280
-        height: 750
         isCached: true
   - title: "Self-driving cars block roads in San Francisco"
     excerpt: "A busy bar and restaurant area in San Francisco was brought to a standstill by malfunctioning self-driving taxis only a day after state regulators had approved"

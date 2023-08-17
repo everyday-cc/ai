@@ -33,6 +33,15 @@ related:
         width: 251
         height: 282
         isCached: true
+  - title: "AWS opens first African Skills Centre in Cape Town"
+    excerpt: "Amazon Web Services (AWS) has opened its first international AWS Skills Centre on the African continent in Cape Town, continuing on its mission to remove the barriers of access to cloud skills training."
+    publishedDateTime: 2023-08-17T08:09:00Z
+    webUrl: "https://it-online.co.za/2023/08/17/aws-opens-first-african-skills-centre-in-cape-town/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "MezAJpOnPUq8o+NI1T/xMhyiKlQV/pDxwBoMWYF9Ro/nC/e5DoV4dHgv3YaJ4Gr67EBGBbIcmvjn3m45sOwNgy3ac8fNBY82rEqx7Fj2qZzOUrBvP2JmkhlnEfN4KCUi2bbHCta8fIWepa0s0K7pf1qqPybmHTEtT1mOAht5DragIXY770RhtEny/ZBR0eVBGiwcQ+1wiF9/bGI8ByjS695H5QYBxUTVaEBv9l2IWmKMbAWOO3EXDkeZ4LzJ/6V4dFwjrdjufvkIxXerFX/XFPB3qyuVreh2pCisqrDgTcPaAdeII1mIH0/UTL+VUmx/xSXfc4/99T7UBa/QkmrAEZSRFsD68pG8Sqas+U0Ma44nEOLHFPhoKuKpsKl7agIZBDvHoGl8DvWfJZz5dtIt92zRXIWIVTi3POnjx+C0JK7sdH5yTCsozUYYcs6IEb9YA0sAXQcbFP935sI8cnbFRu47fefDTHHFW3NwCRa/Jsez4+NTnc5hvUbHxzpuoe9hK4bTGDO1jceJDOqqzCsvSA==;rYHxdfbjfuhppad1uVhaWQ=="
 ---

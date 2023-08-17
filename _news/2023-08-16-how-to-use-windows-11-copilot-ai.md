@@ -92,6 +92,22 @@ related:
         width: 728
         height: 410
         isCached: true
+  - title: "Biased artificial intelligence needs human help to avoid harmful climate action, say researchers"
+    excerpt: "Bias in the collection of data on which artificial intelligence (AI) computer programs depend can limit the usefulness of this rapidly growing tool for climate scientists predicting future scenarios and guiding global action,"
+    publishedDateTime: 2023-08-17T09:00:00Z
+    webUrl: "https://phys.org/news/2023-08-biased-artificial-intelligence-human-climate.html"
+    ampWebUrl: "https://phys.org/news/2023-08-biased-artificial-intelligence-human-climate.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-biased-artificial-intelligence-human-climate.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-artificialin.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Foundations Seek to Advance AI for Good, Protect Against Threats"
     excerpt: "While technology experts sound the alarm on the pace of AI development, philanthropists have been responding with an uptick in grants."
     publishedDateTime: 2023-08-14T08:50:00Z

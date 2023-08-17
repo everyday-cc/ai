@@ -103,6 +103,22 @@ related:
         width: 728
         height: 410
         isCached: true
+  - title: "Biased artificial intelligence needs human help to avoid harmful climate action, say researchers"
+    excerpt: "Bias in the collection of data on which artificial intelligence (AI) computer programs depend can limit the usefulness of this rapidly growing tool for climate scientists predicting future scenarios and guiding global action,"
+    publishedDateTime: 2023-08-17T09:00:00Z
+    webUrl: "https://phys.org/news/2023-08-biased-artificial-intelligence-human-climate.html"
+    ampWebUrl: "https://phys.org/news/2023-08-biased-artificial-intelligence-human-climate.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-biased-artificial-intelligence-human-climate.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-artificialin.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Fiction Writers Fear The Rise Of AI, But Also See It As a Story To Tell"
     excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity. More than 10,000 of them endorsed an open letter from the Authors Guild this summer,"
     publishedDateTime: 2023-08-13T15:51:00Z

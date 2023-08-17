@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google expanding AI capabilities with life advice tool: Report"
+    excerpt: "Google had previously showcased its first vision-language-action (VLA) model for robot control in July. This model displayed improved capabilities in terms of generalization and understanding beyond the specific robotic data it had been exposed to."
+    publishedDateTime: 2023-08-17T09:27:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/08/google-logo-1679051933-1692264319.jpg"
+        width: 360
+        height: 202
+        isCached: true
   - title: "People coaxed AI into saying 9+10=21 and giving instructions for spying — it shows how these systems are prone to flaws and bias"
     excerpt: "Participants at a hacking conference showed that AI can be tricked into making errors like falsely claiming Barack Obama was born in Kenya."
     publishedDateTime: 2023-08-14T04:38:00Z
@@ -54,6 +70,20 @@ related:
       - url: "https://i.insider.com/64b750641ccd1e00198ab8f5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Google developing AI tool that offers life advice: Report"
+    excerpt: "In a bid to catch up to Microsoft-owned OpenAI's technology, Google is reportedly testing an artificial intelligence (AI) tool that will give advice about issues users face in their lives."
+    publishedDateTime: 2023-08-17T09:20:00Z
+    webUrl: "https://www.punjabnewsexpress.com/technology/news/google-developing-ai-tool-that-offers-life-advice-report-219519"
+    type: article
+    provider:
+      name: punjabnewsexpress
+      domain: punjabnewsexpress.com
+    quality: 39
+    images:
+      - url: "https://www.punjabnewsexpress.com/images/article/article219519.jpg"
+        width: 740
+        height: 466
         isCached: true
 
 secured: "Gyc1MugKH6Su/j+ck7TyE4X+9CBIvUYj/y09rCRHDwpx84I2C8GATovkelUGlRGveX8YCwgl4edMNO5++oLEFUUkTG1XNRFUDsaPL4aE/JmbenssP+CanE9ITorWfIjw9Cr10OdiXjrFqyQSekqRmbp5ze0ZHjcXToSVrCEKYS+812wi3+gu2w85RgoHcRRbOEZR9FQ6BJ0FtENFr+wxGqoiflYQz8P3sizqOrb11+o6gqelG8KNSM5oN++3A2QHU+XZkFFfi2523zzW2bcxJaiasJUF/Tpre+qs2id6Maw68r51hwWlU2mozo+Mt4+xNoIFE6jQMKhpfB7d1LjkRg5P1xS+1zNfDvcDYBJioIcXnD+FjsQ682J8Qy8n+LYwMCdt5lp6j35/E4NBqjf5FJo+eXZAzkn4fYrmNRxyj8SCzbPRSvSPHlhv6ujf6Zw5eipHUa84tkzkwjA6xuKloLOSzpIbiQ18B414BbRROy70OWQBzzDELbJEgLGSXrVYsJ5t0gfptvfaKcsd6SaUiQ==;NRAc2FAgVAN9R1XYdtqanA=="

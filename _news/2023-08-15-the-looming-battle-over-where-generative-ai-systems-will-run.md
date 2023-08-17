@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704611/the-looming-battle-over-wh
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 1200
     isCached: true
-
-related:
-  - title: "Cloud vs. on-premises showdown: The future battlefield for generative AI dominance"
-    excerpt: "As well, the choice of where customers plan to run generative AI is split almost exactly down the middle in terms of public cloud versus on-premises and edge. Further complicating matters, developers report the experiences in the public cloud with respect to feature richness and velocity of innovation have been outstanding."
-    publishedDateTime: 2023-08-12T16:47:00Z
-    webUrl: "https://siliconangle.com/2023/08/12/cloud-vs-premises-showdown-future-battlefield-generative-ai-dominance/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AI-risk-on-off-1024x574.jpg"
-        width: 1024
-        height: 574
-        isCached: true
 
 secured: "Lw7WeUPilPOcT6W3XrFxsWmTWfKMLozJZKIDQvI8uJ7wwkrH9VqYqivFlk47Bpxtwj4JMjlY407Y543AAXeAS4ZnGr5oReGG2w9zOD0rTIsgI+ozawwTzfcEmxLgTtiu85vppGS5vxPF0uPoRFX8PeerLcjwOBNps7+IN8SnNEYLewLfsJQSGyXTaNJG+r0qysdMYb7cu2aOLg49atE8REFEfFrv2AuUR0RDz9mXGsF1x3a44YlMsY06v8Ofq7a/5qpyq/6Ce+XhzWw/ClA28ArP85W9+N0zETFqWIW11y3SyqWKn0CgBsL0VkgqsY9kexRvOjKWpeA5q3qPcJiu1AIg9egrzyBPsxHmKo+abfASVn9mIOo+AANlF+AJNhjC6Jh+517oXKnMzCdSSwbMX4pZzgU+/OunZ5ABSKIwN0szXGcsrD5uDoimtn42yReUhtDybFyb2GMglIMeehcCursSEFBVGJNChcSk6ihiS7dsdoOMdM30JxYxuvOPaNPOXs9ff56fJyIqys1kc6H3JA==;334opmHu8e/jXlOswpeXgQ=="
 ---

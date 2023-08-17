@@ -42,6 +42,20 @@ related:
         width: 640
         height: 457
         isCached: true
+  - title: "The Reality of Artificial Intelligence for Family Offices"
+    excerpt: "Artificial intelligence is the replication of human intelligence ... per stirpes to a 10-year-old” or to “explain the concept of delayed revocation in a health care power of attorney in Illinois.” The software will provide a simplified explanation ..."
+    publishedDateTime: 2023-08-16T13:16:00Z
+    webUrl: "https://www.wealthmanagement.com/estate-planning/reality-artificial-intelligence-family-offices"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 39
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/robot-computer-keyboard-hands.jpg"
+        width: 1540
+        height: 799
+        isCached: true
 
 secured: "ZUuLCyBrxXKP952v/APia389TnMkfIhbC3XM7vvNrRrkzA0yjuely2N0ule/kSpPygAbUbwLV2tfgG5VaHwqvqvqG9NVGgN7mpNqSahzockA2zRS1qXuO+wyIlbIA7+X3RKpgo/fDisu3YRltUvW+nt0Em8zicUrFiD0HYZdHsYrdcdyiDCIWALNJZ5D+3n1YN5Nk5n/fZXYIKpJPENe6KYSNZkUp9iVE9dQ907N/jz7LHEh+IEkACDGT6jbuHSgtER1TCPZE/xhnOlGjR7SurEfdttjNwQjwEufGvoPXyiuIbbFqnwqxH0J0SLtdRB/bCCys544OWWMfCkyObbJRfmai+hqMy6CX4MvzL1tthmcI7rFNNRFNJJ652PXm4OPtl/luYKBfxc31iLxDCJ+s1TJqc3CWBthJ0jOo3pxlgI047d47tcooHTAsSdG4kjMGzc8DA9KM0uEGoELttPNC/SNl0oovqW8lFRfyH4HnTuTKFyTwd6BmE1yEhAUZuU9APiaaclpK6cy0AalHVn+eA==;w19MZCpYl+G1K9l1tSHuSg=="
 ---

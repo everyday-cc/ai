@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/15/data-quality-for-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/15/data-quality-for-good-ai-outcomes/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.popsci.com/uploads/2023/08/11/My-project-2023-08-11T114827.562.jpg?auto=webp"
         width: 2000
         height: 1125
+        isCached: true
+  - title: "The Reality of Artificial Intelligence for Family Offices"
+    excerpt: "Artificial intelligence is the replication of human intelligence ... per stirpes to a 10-year-old” or to “explain the concept of delayed revocation in a health care power of attorney in Illinois.” The software will provide a simplified explanation ..."
+    publishedDateTime: 2023-08-16T13:16:00Z
+    webUrl: "https://www.wealthmanagement.com/estate-planning/reality-artificial-intelligence-family-offices"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 39
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/robot-computer-keyboard-hands.jpg"
+        width: 1540
+        height: 799
         isCached: true
 
 secured: "Y7UVUsZD+es48dmNbgHs9jroAnj4JfmiyCoTOPGuscpNPH6diIqBcTmD7hRXvAJdY44NHyzaU0n3eBpK2z9r1TV8C97Da3muyd0SKmVWSsS2cnonKDjQAzCJgLdAmXi4edH79DwF+iyo2jqJK1ttav4X17IqyWRBr7jcfLGZjY0ScpL5z3rrb8Fs9m+6Oz0TrNd2chs/GFBnEOC0GVxD6E5hzTpKajkHa3aaSb78ASxV2zJoS4pk2GM1jrnm3uAbk7KMz7y2z/dF0ormJYXObU9x9DZCHeaDixf61oQ6cOPQcihK3smXx8DY7nrMgaujIn2JGLTFq4yyNlWV/j7yvZPzBD7aLyvIA4QA4oNLXdk=;aMTtv040S0AAhol8ycvcZQ=="

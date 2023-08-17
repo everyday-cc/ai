@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/computing/artificial-intelligence/google
 webUrl: "https://www.techradar.com/computing/artificial-intelligence/google-said-to-be-testing-new-life-coach-ai-for-providing-helpful-advice-to-people"
 type: article
 quality: 63
-heat: 83
+heat: 103
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google expanding AI capabilities with life advice tool: Report"
+    excerpt: "Google had previously showcased its first vision-language-action (VLA) model for robot control in July. This model displayed improved capabilities in terms of generalization and understanding beyond the specific robotic data it had been exposed to."
+    publishedDateTime: 2023-08-17T09:27:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/08/google-logo-1679051933-1692264319.jpg"
+        width: 360
+        height: 202
+        isCached: true
   - title: "People coaxed AI into saying 9+10=21 and giving instructions for spying — it shows how these systems are prone to flaws and bias"
     excerpt: "Participants at a hacking conference showed that AI can be tricked into making errors like falsely claiming Barack Obama was born in Kenya."
     publishedDateTime: 2023-08-14T04:38:00Z
@@ -58,6 +74,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/IMG_3819-800x533-1-2.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Google developing AI tool that offers life advice: Report"
+    excerpt: "In a bid to catch up to Microsoft-owned OpenAI's technology, Google is reportedly testing an artificial intelligence (AI) tool that will give advice about issues users face in their lives."
+    publishedDateTime: 2023-08-17T09:20:00Z
+    webUrl: "https://www.punjabnewsexpress.com/technology/news/google-developing-ai-tool-that-offers-life-advice-report-219519"
+    type: article
+    provider:
+      name: punjabnewsexpress
+      domain: punjabnewsexpress.com
+    quality: 39
+    images:
+      - url: "https://www.punjabnewsexpress.com/images/article/article219519.jpg"
+        width: 740
+        height: 466
         isCached: true
 
 secured: "06VUjQUhZkFnXgQLTfgsgqx82/jPdo2dz/11p8jc/n6kS6vwoDZ/1SQ8LEoDR6LI0ZDcXmdNRngFT0gwzcIIA4aOzdD44iC8qa69iYzN3znibHIp+CvSn272PA4/VpnWfh+1QJQU9VJ4vfZXaOGpkTiT34bGNCd2VoJ/V3g8PWEtOdqg21Yj1x1I61derW2+6ZVBIDksGFddWIvr/t+aYRFuHO4hByTH3eO0vaClxDv3yHWW4vbWT7mCq6f+t0+3GalGRaV92tkHqnUtvzQ5Qcav9oGK3lEhcsyib2wwCH+p66ByYjXWHMa/gRHQjr44otJja3U8F2x79ClC5N4qeDpF70fXsaEMzK4cEusxR/k=;vH/xDeGMIxNyQqDXOqriaQ=="

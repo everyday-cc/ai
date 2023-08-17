@@ -3,11 +3,13 @@ category: news
 title: "AP, other news organizations develop standards for use of artificial intelligence in newsrooms"
 excerpt: "The Associated Press has issued guidelines for its journalists on use of artificial intelligence, saying the tool cannot be used to create publishable content and images for the news service"
 publishedDateTime: 2023-08-16T21:02:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324585"
-webUrl: "https://abcnews.go.com/Business/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324585"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324602"
+webUrl: "https://abcnews.go.com/Technology/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324602"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324602"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324602"
 type: article
-quality: 25
-heat: 25
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -23,6 +25,6 @@ images:
     height: 558
     isCached: true
 
-secured: "EzZXiuOnSBRkK/kllxFZ9ftpMHlNYNVzPUIUIDQDUfDIn0mw4a192vB9WKdcxKMTBWjFAsx0mnOANYHFqhtl/RipWvSMFa14RlypkUEpJVKz6jN7fxtFCBv2FZeVwGKImgz5WIXw0HKBb/zxfVtk+EUUSQQA3Ah0tCI0hR30hB55R+CeIE8RR/2YGQi0V0vEjObYVE7E10bbB4EntsfFVptrINj9GRCBO4YrE7/WumKyPtzrjjdO7/N4js3q0DzUxTLFbizaEwKt65/tLtNU6rAxr43+cy6Znn82GKWDYSovDbTvxsWygTX05nxSdq6JgJoszrcviJn/agDWY4RAEZhu+e+lOOZZAdWiGDlqKtQ=;PJyGkxTnqgQ1N52NGyJSsw=="
+secured: "9kjJFUCNmTnTB4qqyYgcUXubNJEMvsIb5QtOcNFZbUbbtHLLgOEGc0qiNX3Cat7SDpRm3vR/0mrD8qEbMcNlX5bkwT51VnaRv5subctO0/3vA3GZnLF5Dk5q6YlMAFJj+Jq4ZhzkIkK0CZHDx8Q3m4X9iTF2NC2I6Kzeats1621y5gCnc5vqoCeKxX9lIkrwPHGfq6ZAISueJmbvIBVgo8vG1RSBLiUOLFt2TrH86SZGlu0secGvRPkdqiNP+Bb6gCMF8txq17QuCxLup2VWYmIFG04wBp3eecq3Ycc+aMZKAkIUoCfyU1j+HcjGLdPW6aHw5JT7bGN/iCOnl1fTzIVwJbm3lvJkk6h0g6IF8ow=;qjSME7HwUSji0gvWwDF6bQ=="
 ---
 
