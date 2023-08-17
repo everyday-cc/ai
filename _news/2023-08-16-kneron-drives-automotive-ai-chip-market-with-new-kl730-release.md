@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3704615/kneron-drives-automotiv
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.amp.html"
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:

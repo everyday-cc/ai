@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-tops-gartners
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
 type: article
 quality: 87
-heat: 137
+heat: 139
 published: true
 
 provider:
@@ -88,6 +88,6 @@ related:
       domain: finanznachrichten.de
     quality: 13
 
-secured: "rwBTMx6UhyhwhY+sTG7NjvcV72b6y8AVzeunxSW0rlcdhr4X7FYQfUIA2NMamr17ffnvJWBl3mrvpNmFf4vVAZj+EgkWBtoT+zRhNi5DGV9KdKx4dlhlYQBqmhVx4r/J0Tc2jDlp2XhZqZlP1m8bdBd+WS+MhbG1GXrJo/evWqie5NLUEgWF1yQrRS9dp5TM5vgs7f+tf9ckO7lJxlGyWFjmnoXZBZmw1cntDf1ry55ArsT2XtWBWo/gizewnlIHV3c3Dimo9SFI1ymOQgn29La2/6goShbgFIb4MO1bbUFPYMxNOPb3v7Fpeq8z3saMtIp6Nrutq9Z5yHMMkHuyVR/71HrDXJ5TQf1eQ/NdWMM=;cLwokJAiOe9kxyB/R1N7RQ=="
+secured: "uuAdWSAKqHJymD2KtEirIKN/Cp/f6e+Bub4s8No15R8HGtB/ZB2cyqdzd95uTEJW96zq2aZxParcaxAgOWbcWiJddkWVoIHiOnn0ZGhFefWwBogqNZuYzNdJJ8zBrm8nlE/X0L5ymb1OdJ4HtOLxKmJ/sLJ6FWMfPkvD0A2QXaWCHe4BqVtwsKiZJ7Zb60KwqIN92ux+9wChwOlDZ3HCoYJ/COsNcYThmZUa0Fx7stUNUmk3UdLnef1nq6OfI4hBr1YJ/YxE4c/ClrRL+BqJKuk4fvmkhc91VpXAKB5Rc9akHlJNlrKPmMrxKS3U63i1iiouaZ13+z1+2B6L9KLzlFxyDZ08S7KgUFXfHfv8aAvbk1J45ar3CML7OahAv4z+3SEuWFouiWzSTWA7llzoctbYcoKPFLC/FbMbQC0zEuRr8s8BoHx2zUpNLuZHaaXAPPStBc/6ym2p5wjU5TyC/p59RI42fr9PBZo+ufBtGIMWaqXCnlid11atRG6SUZKyg+59gVCRE4PNflBBRfTH2w==;dZW6oRgEgkKVE3LoiP2yzg=="
 ---
 

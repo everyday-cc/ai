@@ -118,6 +118,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 47
+  - title: "ABB, Microsoft bring generative AI to industrial applications"
+    excerpt: "ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
+    publishedDateTime: 2023-08-17T07:45:00Z
+    webUrl: "https://it-online.co.za/2023/08/17/abb-microsoft-bring-generative-ai-to-industrial-applications/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 34
   - title: "Doctors use Artificial Intelligence software to plan for the future"
     excerpt: "About 30% of U.S. doctors are approaching retirement age, but only 12% are choosing to retire. Why? In a financial environment struggling with inflation, advance preparation for retirement is necessary for all physicians seeking more comfortable golden years."
     publishedDateTime: 2023-08-15T15:46:00Z

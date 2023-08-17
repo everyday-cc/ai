@@ -91,6 +91,22 @@ related:
         width: 5372
         height: 3022
         isCached: true
+  - title: "Snapchat users react with confusion after the app's AI chatbot mysteriously posts its own story and then refuses to answer questions about it"
+    excerpt: "Why did Snapchat's My AI chatbot post its own story on Tuesday and then ghost users? A spokesperson told Insider the AI experienced an outage."
+    publishedDateTime: 2023-08-17T07:01:00Z
+    webUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/64dcf174bd8c0900184e21fe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Schools navigate regulation of artificial intelligence, ChatGPT as students return to classrooms"
     excerpt: "Artificial intelligence is becoming a major conversation in the classroom, especially a popular software called ChatGPT. ABC7 asked ChatGPT to write a book report on \"Pride and Prejudice.\" In just seconds, it created a report that would probably satisfy ..."
     publishedDateTime: 2023-08-14T12:52:00Z

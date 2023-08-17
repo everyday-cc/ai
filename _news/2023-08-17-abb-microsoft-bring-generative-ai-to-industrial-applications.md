@@ -1,33 +1,22 @@
 ---
 category: news
-title: "How to use speech to text in Microsoft Word"
-excerpt: "Developed and refined over many years, Microsoft's speech recognition and voice typing technology is an efficient way to get your thoughts out, create drafts and make notes. Just like the best ..."
-publishedDateTime: 2023-08-15T16:41:00Z
-originalUrl: "https://www.techradar.com/how-to/use-speech-microsoft-word"
-webUrl: "https://www.techradar.com/how-to/use-speech-microsoft-word"
+title: "ABB, Microsoft bring generative AI to industrial applications"
+excerpt: "ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
+publishedDateTime: 2023-08-17T07:45:00Z
+originalUrl: "https://it-online.co.za/2023/08/17/abb-microsoft-bring-generative-ai-to-industrial-applications/"
+webUrl: "https://it-online.co.za/2023/08/17/abb-microsoft-bring-generative-ai-to-industrial-applications/"
 type: article
-quality: 71
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: IT-Online
+  domain: it-online.co.za
 
 topics:
-  - Natural Language Processing
-  - AI
   - Microsoft AI
-
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/B5tyi6qFDKKunFkdaCYb5c-1200-80.jpg"
-    width: 970
-    height: 545
-    isCached: true
+  - AI
 
 related:
   - title: "Microsoft Stock Is Set To Skyrocket Into The AI Future"
@@ -78,6 +67,20 @@ related:
         width: 546
         height: 312
         isCached: true
+  - title: "How to use speech to text in Microsoft Word"
+    excerpt: "Developed and refined over many years, Microsoft's speech recognition and voice typing technology is an efficient way to get your thoughts out, create drafts and make notes. Just like the best ..."
+    publishedDateTime: 2023-08-15T16:41:00Z
+    webUrl: "https://www.techradar.com/how-to/use-speech-microsoft-word"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 71
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/B5tyi6qFDKKunFkdaCYb5c-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "Microsoft's AI First Movers programme helps LawVu speed contract processes"
     excerpt: "Tauranga-based legal software developer LawVu is one beneficiary of a Microsoft programme that is ​helping developers deploy generative AI."
     publishedDateTime: 2023-08-15T23:57:00Z
@@ -124,15 +127,6 @@ related:
       name: Bizcommunity
       domain: bizcommunity.com
     quality: 34
-  - title: "ABB, Microsoft bring generative AI to industrial applications"
-    excerpt: "ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
-    publishedDateTime: 2023-08-17T07:45:00Z
-    webUrl: "https://it-online.co.za/2023/08/17/abb-microsoft-bring-generative-ai-to-industrial-applications/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
   - title: "Doctors use Artificial Intelligence software to plan for the future"
     excerpt: "About 30% of U.S. doctors are approaching retirement age, but only 12% are choosing to retire. Why? In a financial environment struggling with inflation, advance preparation for retirement is necessary for all physicians seeking more comfortable golden years."
     publishedDateTime: 2023-08-15T15:46:00Z
@@ -143,6 +137,6 @@ related:
       domain: neworleanscitybusiness.com
     quality: 19
 
-secured: "DMGcg1+o5UQvn6Rz6Qt+ZDJ6iXX4ulFrjOD+1/QJ96JjwWQD9hsq0WujZAeC2FI6Bo6r+VoEntQDrcxEeP/uOnGYtNoY3/TOiR+gBXTPd/DqHVrPDOw7zTYMWje+Kr9LufE0MPutWx0A2bBOHpaWGCRgP1jyRkXC/QKU8yrFSSIzIUwToTGVEVZCrxeUB5BLod/9KM692Ub9IJwqVcaEzLSXtbaCSWS5BjL+lwp9d/a5XJEmNzNJixXYaSzkdIKndf7I8+L0RxLc4f9JUl0ookyQ7SWyIMEpwAwVXwI/QFkaW89zfGOK+XHrXeY+cR2DO2pFE7aT6uFdSsm4/vRu7O4RxG3b5I5XHN1DvTWFspg=;98NULENARGdM1sHi9Dr+aQ=="
+secured: "TqO1eZq5EiEM4iXUY7lvj0A7H6U/d8SaCk+vAs3F8T2lTaYxlHct9ZXc85kkpohPhOKwviwz3Vl49H6t6QFCFUi8WX/0cMFwwXB4IIEcZnCyKUf98b9/5QlviJhR8IHke98BZw3fXxIFLr0uCSUJZh4+1d3uhSRqlCRsQp804+B4D1v2gGcVFjvw5lO6b3S4bJTCrleaqF9owSjo0ASInnA4B6rhF1KRF4xgHo+kKka+VsEYcbxd1/Iod1TcSfH3hg1lUjfZ84NJ7GAtK1W/VYEkGEAbo0u4VaGJteyh15Md86ZvfcZ/Z+IX1JU/kvGqM7dtuyS+xKz6n79Qsuj5LAFLr52SVcrXtKevk9IuhQw=;qNRHXJISHi6yARQstUyfpw=="
 ---
 

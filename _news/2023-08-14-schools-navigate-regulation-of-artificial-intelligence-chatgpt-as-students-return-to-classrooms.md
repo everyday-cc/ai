@@ -94,6 +94,22 @@ related:
         width: 1188
         height: 669
         isCached: true
+  - title: "Snapchat users react with confusion after the app's AI chatbot mysteriously posts its own story and then refuses to answer questions about it"
+    excerpt: "Why did Snapchat's My AI chatbot post its own story on Tuesday and then ghost users? A spokesperson told Insider the AI experienced an outage."
+    publishedDateTime: 2023-08-17T07:01:00Z
+    webUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/64dcf174bd8c0900184e21fe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Tb4igftKbvXQUK3J+Ph9oN7b4gld82uZ7XQ50tnFtdNGchZqVt69krdxIL/SFVZi8wZPZao2bBVWIGa6Vx/Rd3iT764IQU0G6XimDreZ5asoBLc6sqHMt/gWYIq8MNBRhsrA/Bx9SY1HQPzINLqgDcmKHZndXnXxN0lnLhg/kMPhxV6ftp3G7f59Kz28Au2iqGnNf6qV3A8Q6fE/rlITqLup9p+IlxoWgZtSAkN+P1e0nHJseUQewt8MjS3jQKrQttDSfJGpP9+G52tCi49H2QAMVJHBzZ+EW0YX8rza/nDMXs6ZvrJicb4r/3A5pxTRdVquZS+xmvXo1OHV1ey60jRhux7N6spqr1W10uP6ZvPXP5cskNgVfcuOaTA4dw1WejfBFPP22YT/3982nEuLAIfuHRZ6Mhdg/5D1PjHxnB51LYga7oOgLb09tegM8bzE6G1Wn/Vqs6m6iAJy0KYsfouG5KSZPXw/aDTn6JNDtFDPBZYGp90xt1Q+Nv5lHrsop2nQJLVNO0kZIUNOqlFbvA==;On68BBYdeXndIZj5I0D0gQ=="
 ---

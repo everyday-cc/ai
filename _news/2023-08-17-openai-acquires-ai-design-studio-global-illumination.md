@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-g
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 139
 published: true
 
 provider:

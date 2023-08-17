@@ -1,28 +1,32 @@
 ---
 category: news
-title: "How artificial intelligence could change college football"
-excerpt: "The explosion of applications like ChatGPT has thrown many businesses into a new industrial revolution as new efficiencies could streamline workflow. That’s great for everyone but the humans who could be replaced by computers. Few industries escape at least the conversation of AI disruption and college football is far from exempt."
-publishedDateTime: 2023-08-15T11:38:00Z
-originalUrl: "https://www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html"
-webUrl: "https://www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html"
-ampWebUrl: "https://www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
-cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
+title: "Snapchat users react with confusion after the app's AI chatbot mysteriously posts its own story and then refuses to answer questions about it"
+excerpt: "Why did Snapchat's My AI chatbot post its own story on Tuesday and then ghost users? A spokesperson told Insider the AI experienced an outage."
+publishedDateTime: 2023-08-17T07:01:00Z
+originalUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8"
+webUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8"
+ampWebUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
 type: article
-quality: 57
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: al.com
-  domain: al.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5ZMK7BFE75HRNE6IUZQTAYPKE4.jpg"
-    width: 5372
-    height: 3022
+  - url: "https://i.insider.com/64dcf174bd8c0900184e21fe?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -72,6 +76,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How artificial intelligence could change college football"
+    excerpt: "The explosion of applications like ChatGPT has thrown many businesses into a new industrial revolution as new efficiencies could streamline workflow. That’s great for everyone but the humans who could be replaced by computers. Few industries escape at least the conversation of AI disruption and college football is far from exempt."
+    publishedDateTime: 2023-08-15T11:38:00Z
+    webUrl: "https://www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html"
+    ampWebUrl: "https://www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/sports/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5ZMK7BFE75HRNE6IUZQTAYPKE4.jpg"
+        width: 5372
+        height: 3022
+        isCached: true
   - title: "How To Invest In ChatGPT"
     excerpt: "These include the Azure Bot Service, which allows businesses to create intelligent chatbots using Microsoft technologies, and Azure Cognitive Services to assist developers of natural language processing and translation tools. Brewin Dolphin’s Mr Moore ..."
     publishedDateTime: 2023-08-14T11:56:00Z
@@ -86,22 +106,6 @@ related:
         width: 1188
         height: 669
         isCached: true
-  - title: "Snapchat users react with confusion after the app's AI chatbot mysteriously posts its own story and then refuses to answer questions about it"
-    excerpt: "Why did Snapchat's My AI chatbot post its own story on Tuesday and then ghost users? A spokesperson told Insider the AI experienced an outage."
-    publishedDateTime: 2023-08-17T07:01:00Z
-    webUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/snapchat-my-ai-posts-story-not-responding-outage-2023-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://i.insider.com/64dcf174bd8c0900184e21fe?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Schools navigate regulation of artificial intelligence, ChatGPT as students return to classrooms"
     excerpt: "Artificial intelligence is becoming a major conversation in the classroom, especially a popular software called ChatGPT. ABC7 asked ChatGPT to write a book report on \"Pride and Prejudice.\" In just seconds, it created a report that would probably satisfy ..."
     publishedDateTime: 2023-08-14T12:52:00Z
@@ -112,6 +116,6 @@ related:
       domain: abc7chicago.com
     quality: 4
 
-secured: "FO0e7NDtjP/sFAzpxamRjp9zJn7MmQ0pLP86rxm5CDmHuYdgxYX8f/cBtI5odSqp98QyBRzhgaUSHUKbO4RF9SzxOrGch4H9bS2c1pPDG69Q3TgFNS0tgAf1Lf4AS+HsMt3Tfk43y0GSj+ClzGMI6ZKIzvrLf8DdtWbhaDU6pk9Cw3kNYeW+KUnm1IzWxizUjVen9vh2+UrpGAdKzi1jkG/PtdrQVBDl6dgQIC1b2TDNw5DEVqNSKbGNIe3gSs+J7ElYJb6p+LLKEx1g1Dd0KugY6eaTk9nV2LAeYgcn+cP9oUB0kqGSIxUdDT7gVktsssx2nPbgGmyrwKbP1vEtUP2qvshGJZDMZYV8NfS/WKg=;KBh+M102don89q1N5COWeQ=="
+secured: "vOdzxM9Hbpyyi5aK9hwSdJRrqJG2zpU4VNEWqSRal2awupqJA9hJG16pWb3j5+wusM5D9eGGW+HYtW2L6z1TeDGKCg4dRJtNN16GDrOlYc1UPCFKmjiN/kjV1r522jKuK0DPFbaKXDcgnprNLCjIRAkAyi6HkZS6oueI4IJFwukM656Gug7lypfY2jpbaoNID7l+Y2BJbf6TN7IwlznOi0fHsnLKWkbHk0W7gcnmoqQhTGmYGorysRMkZ6NoH5YWwp9XsfMTAL7vB96vbkG1gOPUbEvheXYrFSux2K2AXc45Lx+bdRiD71g1hDtH92o1ygfK0w9SOSl5EaQ1oBj/BLbQ0xfnMNxpPSBVylVpbBY=;ytQTuRl4C768oPNQww5cZg=="
 ---
 

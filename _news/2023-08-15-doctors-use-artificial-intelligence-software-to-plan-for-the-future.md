@@ -127,6 +127,15 @@ related:
       name: Bizcommunity
       domain: bizcommunity.com
     quality: 34
+  - title: "ABB, Microsoft bring generative AI to industrial applications"
+    excerpt: "ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
+    publishedDateTime: 2023-08-17T07:45:00Z
+    webUrl: "https://it-online.co.za/2023/08/17/abb-microsoft-bring-generative-ai-to-industrial-applications/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 34
 
 secured: "lpUxpQ/LEGnUbLXPyTfZXTygr7NZOemrKJvnx7iAHwk33Nj4r/u8YTfNfw4nkbPsu/eUQICtDqIq1i/JPuCbZIMuzjjzABcy3M6DrqZtY8NJmhbHdUUCPCy8m7lnHsudmPSJCSvR1p6u+/+BrgRaShPWJEngztkiJyAvOjGEpNDBqDah0xUMFnXl7v0eKY1p2UVJyZvmnfS264297cPVgmVoPoKx5vYy4aP0l1vlT3XX6PmTgV7/zF5N2XysXpoU3/xOr7IwuRkraD7ahsw/hHgRlovKJZ1NCC9zH87GQZG5Hqh6XHHXTjCrd+ZAGhQcPngT0JjTFxEaqdThCgMqykE3Z1RkPii1yauVSfD1hmnH+YH2y5ZpabbozgOJnaZcO/6A7Nmtqd+UzVZim+WZ7XQDefvqaovZLr80268KH7+FKkUOsXL0ZFhy6oaOrgyeQazkaJMUXg3VRsdxKO69tqAVdVy5TiA5K9QMocJ3MXMgN1W715Y20v1ISi662Ji7q4R9wzS3GnYoT4elxEpBiQ==;9ZTLWmx1Qoc8pHwVm/Fvgw=="
 ---

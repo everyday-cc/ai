@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357208"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357208"
 type: article
 quality: 74
-heat: 85
+heat: 98
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Korea to build homegrown AI chip-powered data centers to foster growth engines"
+    excerpt: "Korea will speed up efforts to build data centers powered by locally-developed artificial intelligence (AI) chips on its path to nurture the next growth engines."
+    publishedDateTime: 2023-08-17T07:42:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/biz/2023/08/602_357270.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357270"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357270"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 70
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202308/e1a96bb20d184f719a1e08fa6d339b0e.jpg"
+        width: 980
+        height: 653
+        isCached: true
   - title: "(LEAD) S. Korea to speed up development of AI chip, UAM sectors"
     excerpt: "SEOUL, Aug. 17 (Yonhap) -- South Korea's finance ministry unveiled a set of measures Thursday to pave the way for the growth of the country's artificial intelligence chip and urban air mobility (UAM) industries in line with efforts to foster new growth engines."
     publishedDateTime: 2023-08-16T23:52:00Z
