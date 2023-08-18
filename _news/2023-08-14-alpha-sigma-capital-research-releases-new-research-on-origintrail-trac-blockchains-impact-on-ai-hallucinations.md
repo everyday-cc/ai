@@ -48,15 +48,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Blockchain Vs Artificial Intelligence: How Are The Two Different?"
-    excerpt: "Due to game-changing innovations, both blockchain and artificial intelligence have captivated the attention of masterminds everywhere. Nevertheless, a lot of individuals get confused between these two concepts and often wonder if they’re the same or different."
-    publishedDateTime: 2023-08-13T18:12:00Z
-    webUrl: "https://techbullion.com/blockchain-vs-artificial-intelligence-how-are-the-two-different/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 34
   - title: "Exploring the Future of Fintech: AI and Blockchain Transforming Financial Services"
     excerpt: "The Fintech industry is experiencing rapid evolution, driven by emerging technologies and changing consumer needs. In a conversation with Karthik Thenkarai, Co-founder and Director of Paycorp.io, we d"
     publishedDateTime: 2023-08-16T06:28:00Z

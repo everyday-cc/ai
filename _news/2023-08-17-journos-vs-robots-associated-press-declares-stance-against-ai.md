@@ -52,18 +52,18 @@ related:
         height: 315
         isCached: true
   - title: "Humanoid robots steal spotlight at World Robot Conference in Beijing"
-    excerpt: "Following the market frenzy surrounding robotic dogs, a surge of Chinese investors has eagerly shifted their focus to humanoids over the past two years. According to industry projections, the burgeoning humanoid market is poised to skyrocket to about 75 billion yuan by 2025."
-    publishedDateTime: 2023-08-18T09:57:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273935853/humanoid-robots-steal-spotlight-at-world-robot-conference-in-beijing"
+    excerpt: "A visitor uses a phone in front of humanoid robots developed by EXRobots at the Beijing World Robot Conference (WRC) 2023 in Beijing, China, August 17. Chinese tech companies are venturing into human-like robotics in an attempt to cash in on the huge market opportunities in coming years."
+    publishedDateTime: 2023-08-18T10:53:00Z
+    webUrl: "https://www.shine.cn/biz/tech/2308188014/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: SHINE
+      domain: shine.cn
     quality: 39
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1692161977650.jpg"
-        width: 630
-        height: 420
+      - url: "https://obj.shine.cn/files/2023/08/18/521fee35-d822-4c23-8e0f-4fee14bbd0d5_0.jpg"
+        width: 576
+        height: 324
         isCached: true
 
 secured: "Ue1t1geV7TewQ43HmL2bbCxEx1oOQUqNiKz1n5QqcSpCjfE8liV6r0APOC9xM7gqFl0wYaTsnfkIz+3M5xy+S2dlt5YT12/JGzN/lPhuAUAGc4rcFCWcMB08hYIetot5SfdsvKK84mVVrEVZeIyKD3dsozyAmaK4L6pzO84iBXwCGMEj+EupwqaAnqJhPvraTsxzWydONcce5qiRSB54GjgnDdjMd18jhea+sOe5g2uTSuAoi1EKo9DnEPoLUdZCilnbKSqwcw7Jh5MQj/XSnQi/ESPlfdTTK6HPdV7kvaL+9sfoyZBVgRJ/JruN7UuWA3E0C/wKXn3LMkzc0bv6IeqbiDP3zdyGCiCXDvvQEPlpypVS1mK/HfD1oOicY0yCX7WCvEGkzY0HM28LFJsIPoP1oY6HhclXggG8JdHgyOJHBOFXpT0FD14eP+WpV57AAaS5qgQptbB6zxuVOpgkARDHHGCCNR0o68va6OUhqIO1qg8zzS+BJOfZb15EfKhacqMk0rb1v4tvRX7RAjovjw==;gRRRcotKyN/M9Jjgobxg5Q=="

@@ -64,6 +64,22 @@ related:
         width: 2766
         height: 1844
         isCached: true
+  - title: "Former AI researcher of IBM Watson clocks $60 million for his AI-based Elemental Cognition"
+    excerpt: "David Ferrucci, former artificial intelligence (AI) researcher, IBM Watson’s development team, has secured an approximately $60 million funding for his Elemental Cognition AI startup, as stated by Cointelegraph. According to Cointelegraph, the ..."
+    publishedDateTime: 2023-08-18T09:53:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-former-ai-researcher-of-ibm-watson-clocks-60-million-for-his-ai-based-elemental-cognition-3214854/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-former-ai-researcher-of-ibm-watson-clocks-60-million-for-his-ai-based-elemental-cognition-3214854/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-former-ai-researcher-of-ibm-watson-clocks-60-million-for-his-ai-based-elemental-cognition-3214854/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 64
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik-2023-08-18T151428.383.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Elemental Cognition, led by IBM Watson’s former head, raises $60M"
     excerpt: "Artificial intelligence startup Elemental Cognition Inc., founded by David Ferrucci, the former head of the team that created IBM Watson, has raised $60 million in new funding."
     publishedDateTime: 2023-08-17T23:35:00Z
@@ -79,6 +95,6 @@ related:
         height: 400
         isCached: true
 
-secured: "QLgOl1CmTqGBCEJ9pANo9SL61lTfCON/0+p/k1wAEQ5c/lbEACNoiMXLaA8jM8fxJ9X1IKwESmAn0feKPbo7sFpHtsZi127K+/q4V3NrGgA/RK5xJlONKQXjudpUEPzhOXZMai+7BaLcaGnlYJnIud67foaDkp/x0hBKbkVOY2BqoEpF4QeqSTHf3ReYYf8b8PPWwusD5/bhB7cZ8DqDKzFYF4PHC0gnLoRsXIKIKO8Hc5fG+i2/O0wSsyf3/kmUKBneOn0Pc3Zj+mrZhs+8DjODuOAk5l7G8VarY3WzzhJXcidMd5NzGfraalNQHTQKP6ibbTu0aDEYqriznkFzsgf1x4KeZGImGB0cLtAnKLs=;vHAxDrA/r+Tl3BoY5Ssjvg=="
+secured: "y8XgP5/OQUiP3v75KwX5vfqNis2L8uC/KLfeOn7RzOvxyOlozBafo7/VD71yUvEy5kf0TSaPcCq7GdXtd+8PD99dtOebn75vUvrel7Glut9R0ILP3piwcmsDdupm+xeZrqbVgoQwfe5HjY8mVH/2SvcoM23P7GaBtSVSixcoG63m/yEqab9rsaT31/xyDXqjVLJ2jC00kHQwAr1lULwyWQYhUrejTVoCkOX3LV6OfoxTbfSNGOFj6KFOW/exDJIAsHnqfTr7bKtC5iQcLrdM+Ec9St6LAtFEQtKUwcjs5+0sHPOE/G/sgNtu5CKyQXD5HeWUod7EwePwP3KvpgrrIUDykEGgfttYOtpl36yDb4tEXKUSywpP6qiiHPd1WkKrPu+VkR9aq9puNGLm4tFTLTJWP+4dWCf8CriPWUvvLOFv2o022J0GRoKkxGPdHwOfEvq1f+3CbC7MKpkp1DKr0tTGWCbVg6PdBcdZ6gFwgSSF6RvbK0aUBkNbZ1tPEHzDss71AcHBVAeT0EWOnr/iZw==;73zfYB6uwi3r3xaeMbcPAA=="
 ---
 

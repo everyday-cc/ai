@@ -118,6 +118,20 @@ related:
         width: 925
         height: 520
         isCached: true
+  - title: "Amazon's On-Demand AI: Path To Adoption Through AI-As-A-Service"
+    excerpt: "Amazon's AWS AI offerings, along with Microsoft's Azure AI, IBM's Watsonx, and Google's Vertex AI, are leading the competition in the AIaaS/MLaaS market. AWS AI has the potential to capture a ..."
+    publishedDateTime: 2023-08-15T09:43:00Z
+    webUrl: "https://seekingalpha.com/article/4628157-amazons-on-demand-ai-path-to-adoption-through-ai-as-a-service"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1480912336/image_1480912336.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 827
+        isCached: true
   - title: "How to Prevent an AI Catastrophe"
     excerpt: "Unfortunately, the researchers quickly discovered that their AI tool would synthesize chemicals far more dangerous than Advil. The program was happy to craft instruction to produce a World War I–era chemical weapon and a common date-rape drug."
     publishedDateTime: 2023-08-14T04:52:00Z
@@ -141,15 +155,6 @@ related:
       name: Telecoms
       domain: telecoms.com
     quality: 19
-  - title: "Fiction writers fear the rise of AI, but also see it as a story to tell"
-    excerpt: "Crime writer Jeffrey Diger, known for his thrillers set in contemporary Greece, is working on a novel touching upon AI and the metaverse, the outgrowth of being “continually on the lookout for what’s percolating on the edge of societal change,” he said."
-    publishedDateTime: 2023-08-13T17:52:00Z
-    webUrl: "https://www.kvue.com/article/news/nation-world/artificial-intelligence-fiction-book-writers/507-603f0413-538e-4d35-9161-74c1d09cd9aa"
-    type: article
-    provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 17
 
 secured: "jLIZYfEG6iFShY/F5qDO1b7B8sL8cH8JlFYUhZaUosTn8WemgdHUrraWC6fApTdXEYEEeX5l8CxE6mr236ysCA6fSkiibaUeeVoyc3daBTQZ6s8PAnZV2G8IGvKDdxLS8chdajyX1G+7srg4l9Ay3il6s5ZnXy64H2vr6SGcNybMpEu+Frdv4RYnYPHjWDHDbVeoYxclGz8sF3FyFybYCT1ZTE/hUqdLqtkC2I9J7kFAVuKjJPp3L/fHodpR3al75TcbVqN7JaBgpFGLOeBRT+nk+HxuC60rIxzkbXRdSGp4+BSEfzdct0YofrsAD+kwmaEw840Ov9JDUmWtL8saYHiV365e77mdwLpFJiKJ0xp1aBqRoJ2FtAsVIVv9y++oxI29OjX+roXCkfm0HrIM22tETUNjkINI6jV5LSlTpRbCAmONHGWKW51x6tNF5cXfKUPq3/ua8QnxbJJUy58HzanMd03sDGh9B2iDLfdrQLtQztqgicOzDlkyFBW8xVH9aTsFt9V0175WZVseLMqeSA==;BE2ehE3ZTOrrvt6AjjtflA=="
 ---

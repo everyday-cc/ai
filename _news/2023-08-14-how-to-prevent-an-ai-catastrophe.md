@@ -132,6 +132,20 @@ related:
         width: 925
         height: 520
         isCached: true
+  - title: "Amazon's On-Demand AI: Path To Adoption Through AI-As-A-Service"
+    excerpt: "Amazon's AWS AI offerings, along with Microsoft's Azure AI, IBM's Watsonx, and Google's Vertex AI, are leading the competition in the AIaaS/MLaaS market. AWS AI has the potential to capture a ..."
+    publishedDateTime: 2023-08-15T09:43:00Z
+    webUrl: "https://seekingalpha.com/article/4628157-amazons-on-demand-ai-path-to-adoption-through-ai-as-a-service"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1480912336/image_1480912336.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 827
+        isCached: true
   - title: "Evidence of AI bias mounts"
     excerpt: "Another study has identified distinct political bias in one of the major large language models used to inform generative AI chatbots."
     publishedDateTime: 2023-08-17T11:15:00Z
@@ -141,15 +155,6 @@ related:
       name: Telecoms
       domain: telecoms.com
     quality: 19
-  - title: "Fiction writers fear the rise of AI, but also see it as a story to tell"
-    excerpt: "Crime writer Jeffrey Diger, known for his thrillers set in contemporary Greece, is working on a novel touching upon AI and the metaverse, the outgrowth of being “continually on the lookout for what’s percolating on the edge of societal change,” he said."
-    publishedDateTime: 2023-08-13T17:52:00Z
-    webUrl: "https://www.kvue.com/article/news/nation-world/artificial-intelligence-fiction-book-writers/507-603f0413-538e-4d35-9161-74c1d09cd9aa"
-    type: article
-    provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 17
 
 secured: "kxf6dKloSnfw/I4TY1nRVgNfBCYZgSfNi79xcCgDD/f8CV06YFPWRGv2EeOq4cVWGng8BgHdaHwdDmlOiTlx44cIq9rqbhz0TfKqJa41iNlJGmqbf6gfQjd5cXiXmMMHCK4VwRvPvGx9byqfp1AM21uC+IBsdEP108uS1h0h9h0tMjIBOOSxg2ZhRFMaJ7QUodNaM0lb2QP3WqhUhr6AKFw1trsmLqAExfZqrhxgaFrBOCPQ2O6A+SVm/mb7Qxt5FNK96Yi4k13r/oInpo4ZB3VLp79xVtd2LpHnlNMPmZVzgMziQyHWiGHKPB+NklgPgu68fv5ebiULGeitcXGAunN2qcluLhYtSAA6+0DBMgU=;zbYRHNXnZITBeuK6CgBNHQ=="
 ---

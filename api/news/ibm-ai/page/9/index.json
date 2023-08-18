@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-05-06-america-forgot-about-ibm-watson-is-chatgpt-next.md",
+      "title": "America Forgot About IBM Watson. Is ChatGPT Next?",
+      "excerpt": "In early 2011, Ken Jennings looked like humanity’s last hope. Watson, an artificial intelligence created by the tech giant IBM, had picked off lesser Jeopardy players before the show’s all ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/technology/archive/2023/05/ibm-watson-irrelevance-chatgpt-generative-ai-race/673965/",
+      "originalUrl": "https://www.theatlantic.com/technology/archive/2023/05/ibm-watson-irrelevance-chatgpt-generative-ai-race/673965/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/rM09fLf4J3qOZe6sbPJlqlPYlfI=/0x102:4792x2598/1200x625/media/img/mt/2023/05/IBM_Watson_/original.jpg",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-06T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-supporting-teachers-in-their-stem-skilling-journeys.md",
       "title": "Supporting teachers in their STEM skilling journeys",
       "excerpt": "Three of my four grandparents were teachers. Their love of learning and passion for lighting a spark in their students impressed upon me the power that teachers have to change lives and shape the future. As I&#8217;m writing this, I am in Jacksonville, Florida, just a few miles from where my grandmother,",
@@ -1342,48 +1394,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-04-13T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-addressing-the-network-data-monetization-complexities.md",
-      "title": "Addressing the network data monetization complexities",
-      "excerpt": "In our previous blog, we identified the three layers to network data monetization. These were the data layer, the analytics layer and the automation layer. To address the network data value tree successfully, we must address the complexities of these three layers, which are essential for automated operations",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/addressing-the-network-data-monetization-complexities/",
-      "originalUrl": "https://www.ibm.com/blog/addressing-the-network-data-monetization-complexities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T05:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

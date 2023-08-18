@@ -50,6 +50,20 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "More AI, new Surfaces expected during Microsoft’s September 21 event"
+    excerpt: "Microsoft has sent out invitations for a \"special event\" on September 21 in New York. The company hasn't shared any further details, but it can be assumed"
+    publishedDateTime: 2023-08-18T10:15:00Z
+    webUrl: "https://www.techzine.eu/news/devices/110260/more-ai-new-surfaces-expected-during-microsofts-september-21-event/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/04/Microsoft.png"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Microsoft Planning New AI Service With Databricks After OpenAI Success: Report"
     excerpt: "The new AI service will reportedly use Databricks' software and will be sold through Microsoft Azure CEO Satya Nadella previously hinted at a possible trio product integration with Databricks and OpenAI Databricks recently announced a deal to acquire ..."
     publishedDateTime: 2023-08-18T05:15:00Z

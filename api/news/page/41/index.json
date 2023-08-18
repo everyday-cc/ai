@@ -2,6 +2,126 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-07-20-ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest.md",
+      "title": "AI Growth Lifts Quanta’s Barry Lam To No. 1 Among Taiwan’s Richest",
+      "excerpt": "Lam, who founded Quanta in 1988 when Taiwan was disparagingly known as a “clone kingdom” for IBM PC knockoffs, was worth $9.2 billion on the list yesterday, compared with $5.6 billion on the 2023 Forbes Taiwan Rich List published in April. Lam has topped Zhang Congyuan, who at No. 2 has a fortune worth $7.7 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/",
+      "originalUrl": "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b8ac1a5e5cca27155b79a0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/amp/",
+      "publishedDateTime": "2023-07-19T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-musk-optimistic-on-progress-for-self-driving-robots.md",
+      "title": "Musk optimistic on progress for self-driving, robots",
+      "excerpt": "(AP pic) SAN FRANCISCO: Tesla chief executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category/business/2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T19:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-future-ai-algorithms-have-potential-to-learn-like-humans-say-researchers.md",
+      "title": "Future AI algorithms have potential to learn like humans, say researchers",
+      "excerpt": "Memories can be as tricky to hold onto for machines as they can be for humans. To help understand why artificial agents develop holes in their own cognitive processes, electrical engineers at The Ohio State University have analyzed how much a process called “continual learning” impacts their overall performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/996196",
+      "originalUrl": "https://www.eurekalert.org/news-releases/996196",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips.md",
       "title": "China Diplomat warns Washington of further restrictions on investment, AI chips",
       "excerpt": "China's Ambassador to Washington Xie Feng crossed wires late Wednesday, via Reuters, while speaking at the Aspen Security Forum where he criticized the US consideration for review of the outbound investment about China and further curbs on AI chips to the Asian nation.",
@@ -1066,145 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-automated-machine-learning-automl-market-will-reach-usd-154993-million-by-2030-says-ps-intelligence.md",
-      "title": "Automated Machine Learning (AutoML) Market Will Reach USD 15,499.3 Million by 2030, Says P&S Intelligence",
-      "excerpt": "By analyzing browsing history, clickstream data, demographics, prior purchases, and previous product searches for patterns in the consumer behavior, autoML systems may provide customized products ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33286554/automated-machine-learning-automl-market-will-reach-usd-15-499-3-million-by-2030-says-p-s-intellig",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33286554/automated-machine-learning-automl-market-will-reach-usd-15-499-3-million-by-2030-says-p-s-intellig",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33286554",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33286554",
-      "publishedDateTime": "2023-07-19T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-meta-and-microsoft-unveil-llama-2-an-open-source-ai-language-for-public-use.md",
-      "title": "Meta And Microsoft Unveil Llama 2, An Open Source AI Language For Public Use",
-      "excerpt": "In a surprising announcement yesterday, Meta (formerly Facebook) and Microsoft have introduced Llama 2, an AI language model designed to",
-      "sourceUrl": null,
-      "webUrl": "https://www.techbooky.com/meta-and-microsoft-unveil-llama-2/",
-      "originalUrl": "https://www.techbooky.com/meta-and-microsoft-unveil-llama-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/07/llama2.jpg?fit=1280%2C720&ssl=1",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge.md",
-      "title": "‘Crazy Times’: Elon Musk Reacts To Tech Stocks’ Latest AI Surge",
-      "excerpt": "AI mania on Wall Street has helped Tesla stock surge more than 170% this year and made Elon Musk more than $100 billion richer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/",
-      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b7ed817e177644c2fb68d1/0x0.jpg?format=jpg&crop=4054,2278,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/amp/",
-      "publishedDateTime": "2023-07-19T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

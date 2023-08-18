@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "McKinsey launches a generative AI chatbot to bring its knowledge to clients"
+    excerpt: "Consulting firms provide businesses with professional advice based on thorough research of a specific industry or area. As a result, consultancy firms have robust sources and research data -- and now McKinsey & Company has launched an AI chatbot to helps its clients access this information."
+    publishedDateTime: 2023-08-18T10:00:00Z
+    webUrl: "https://www.zdnet.com/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mckinsey-launches-a-generative-ai-chatbot-to-bring-its-knowledge-to-clients/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/fd97612e70a3074c991961a37db054e2798aa3b7/2023/08/17/f52a31bc-9f77-4e7d-9e20-d90649d513c3/gettyimages-1239940060.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "You can build your own customer service AI chatbot with this drag-and-drop tool"
     excerpt: "Botpress is a tool for building interactive chatbots. While it supports building chatbots for a wide range of applications, the killer app is using it to build a customer support chatbot and backing it up with AI smarts."
     publishedDateTime: 2023-08-14T14:15:00Z

@@ -64,6 +64,22 @@ related:
         width: 2766
         height: 1844
         isCached: true
+  - title: "Former AI researcher of IBM Watson clocks $60 million for his AI-based Elemental Cognition"
+    excerpt: "David Ferrucci, former artificial intelligence (AI) researcher, IBM Watson’s development team, has secured an approximately $60 million funding for his Elemental Cognition AI startup, as stated by Cointelegraph. According to Cointelegraph, the ..."
+    publishedDateTime: 2023-08-18T09:53:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-former-ai-researcher-of-ibm-watson-clocks-60-million-for-his-ai-based-elemental-cognition-3214854/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-former-ai-researcher-of-ibm-watson-clocks-60-million-for-his-ai-based-elemental-cognition-3214854/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-former-ai-researcher-of-ibm-watson-clocks-60-million-for-his-ai-based-elemental-cognition-3214854/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 64
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik-2023-08-18T151428.383.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM Watson team leader raises $60M for AI startup Elemental Cognition"
     excerpt: "David Ferrucci, a notable artificial intelligence (AI) researcher who led the team behind IBM Watson's creation, according to official documentation, has successfully raised close to $60 million for his AI startup named Elemental Cognition. As per the ..."
     publishedDateTime: 2023-08-18T08:18:00Z

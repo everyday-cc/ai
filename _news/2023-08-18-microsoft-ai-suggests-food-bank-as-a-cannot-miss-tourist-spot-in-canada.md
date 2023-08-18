@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/08/microsoft-ai-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/amp/"
 type: article
 quality: 120
-heat: 200
+heat: 210
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/B5tyi6qFDKKunFkdaCYb5c-1200-80.jpg"
         width: 970
         height: 545
+        isCached: true
+  - title: "IBM, Microsoft launch generative AI managed service"
+    excerpt: "The new Azure OpenAI solution provides developers and data scientists with multiple models, including GPT and Codex tools."
+    publishedDateTime: 2023-08-17T13:18:00Z
+    webUrl: "https://www.ciodive.com/news/Microsoft-IBM-collaborate-generative-AI-enterprise-solutions/691090/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 54
+    images:
+      - url: "https://www.ciodive.com/imgproxy/jUtvE34JVpKQZffqI3Ic3AZLONHM2y3tvEpEB4NdufA/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNzMzNzgyMjkuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
   - title: "LaLiga partners with Microsoft to infuse sports with AI innovation"
     excerpt: "Globant, LaLiga, and Microsoft are partnering to create AI services for the sports industry. LaLiga and Microsoft have collaborated, who have teamed up in the"

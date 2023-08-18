@@ -44,15 +44,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Blockchain Vs Artificial Intelligence: How Are The Two Different?"
-    excerpt: "Due to game-changing innovations, both blockchain and artificial intelligence have captivated the attention of masterminds everywhere. Nevertheless, a lot of individuals get confused between these two concepts and often wonder if they’re the same or different."
-    publishedDateTime: 2023-08-13T18:12:00Z
-    webUrl: "https://techbullion.com/blockchain-vs-artificial-intelligence-how-are-the-two-different/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 34
   - title: "Alpha Sigma Capital Research Releases New Research on OriginTrail (TRAC) Blockchain’s Impact on AI Hallucinations"
     excerpt: "Alpha Transform Holdings’ subsidiary Alpha Sigma Capital Research , a leading blockchain research firm, and subsidiary of Alpha Transform Holdings, today released a research report on OriginTrail, (TRAC) a new ecosystem dedicated to making the global economy work sustainably by organizing humanity's most important knowledge assets."
     publishedDateTime: 2023-08-14T15:15:00Z

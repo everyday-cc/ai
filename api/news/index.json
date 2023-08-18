@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-18-applying-cyber-resilience-to-dora-solutions.md",
+      "title": "Applying cyber resilience to DORA solutions",
+      "excerpt": "A strong cyber-resilience strategy can help organizations protect against and rapidly recover from disruptive cyber incidents.\nThe post Applying cyber resilience to DORA solutions appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/applying-cyber-resilience-to-dora-solutions/",
+      "originalUrl": "https://www.ibm.com/blog/applying-cyber-resilience-to-dora-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-18T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-where-ai-comes-in-handy-and-where-it-doesnt.md",
+      "title": "Where AI Comes In Handy (And Where It Doesn’t)",
+      "excerpt": "We are still in the early days of the AI revolution. Many organizations are still playing around with this technology and figuring out how to work it into their operations. Teams are starting to determine what today’s large language models (LLMs) do well and where they come up short.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/18/where-ai-comes-in-handy-and-where-it-doesnt/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/18/where-ai-comes-in-handy-and-where-it-doesnt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64de2670c0104c27ef8801c6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/18/where-ai-comes-in-handy-and-where-it-doesnt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/18/where-ai-comes-in-handy-and-where-it-doesnt/amp/",
+      "publishedDateTime": "2023-08-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-why-every-company-needs-a-chief-ai-officer.md",
       "title": "Why Every Company Needs A Chief AI Officer",
       "excerpt": "Unveiling the pivotal role of a Chief AI Officer, this article delves into why businesses, regardless of size or industry, must embed AI in their core strategy.",
@@ -457,7 +550,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -800,7 +893,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-into-a-new-era-of-ai-innovation-with-watsonx/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -840,6 +933,57 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-a-letter-prompted-talk-of-ai-doomsday-many-who-signed-werent-actually-ai-doomers.md",
+      "title": "A Letter Prompted Talk of AI Doomsday. Many Who Signed Weren't Actually AI Doomers",
+      "excerpt": "In March a viral letter called for a pause on AI development, warning that algorithms could outsmart humanity—but many experts who signed on did not believe the technology poses an existential risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/letter-prompted-talk-of-ai-doomsday-many-who-signed-werent-actually-doomers/",
+      "originalUrl": "https://www.wired.com/story/letter-prompted-talk-of-ai-doomsday-many-who-signed-werent-actually-doomers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64dd7458984161b7583de55c/191:100/w_1280,c_limit/Pause-AI-Signatories-Weren&#x27;t-Actually-AI-Doomsdayers-Business-1437113509.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -955,7 +1099,7 @@
       "originalUrl": "https://www.ibm.com/blog/central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -998,7 +1142,7 @@
       "originalUrl": "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1082,144 +1226,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-cape-town-welcomes-amazon-web-services-aws-skills-center.md",
-      "title": "Cape Town Welcomes Amazon Web Services (AWS) Skills Center",
-      "excerpt": "Amazon Web Services (AWS) has further extended its commitment to democratising access to cloud skills training with the inauguration of its first international AWS Skills Center in Cape Town, South Africa.",
-      "sourceUrl": null,
-      "webUrl": "https://ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/",
-      "originalUrl": "https://ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2023/08/download-min-1.png",
-          "width": 2640,
-          "height": 1486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/?amp=1",
-      "cdnAmpWebUrl": "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/?amp=1",
-      "publishedDateTime": "2023-08-17T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ventureburn",
-        "domain": "ventureburn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-how-ai-marketing-makes-some-firms-dumber-others-far-smarter-6-critical-factors-for-competitive-advantage.md",
-      "title": "How AI Marketing Makes Some Firms Dumber & Others Far Smarter: 6 Critical Factors For Competitive Advantage",
-      "excerpt": "Explains how firms are experiementing and succeeding with GenAI algorithms, foundational data overlays, prompts, KPIs and talent profiles for the best business results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/",
-      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ddd00702083dc4d53d5165/0x0.jpg?format=jpg&width=1200",
-          "width": 1140,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/amp/",
-      "publishedDateTime": "2023-08-17T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-google-expanding-ai-capabilities-with-life-advice-tool-report.md",
-      "title": "Google expanding AI capabilities with life advice tool: Report",
-      "excerpt": "Google had previously showcased its first vision-language-action (VLA) model for robot control in July. This model displayed improved capabilities in terms of generalization and understanding beyond the specific robotic data it had been exposed to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/08/google-logo-1679051933-1692264319.jpg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "publishedDateTime": "2023-08-17T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

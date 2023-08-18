@@ -26,17 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Coalition’s position on the voice ‘clear as mud’ and ‘completely confused’, Burney says – as it happened"
-    excerpt: "Burney made the comments after the leader of the Nationals, David Littleproud, refused to commit to legislating an Indigenous voice if the Coalition wins the next election, even though Peter Dutton has proposed symbolic-only constitutional recognition ..."
-    publishedDateTime: 2023-08-13T18:01:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/aug/13/matildas-joy-womens-world-cup-2023-semi-final-voice-to-parliament-town-hall-city2surf-run-sydney?filterKeyEvents=true&page=with:block-64d836958f08e1f5a10e72c0"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 0
-
 secured: "u+cpF23+yV6b9LPSJYPumJQ6147yxlFMmDbzAqvj8XlbUmhou+3WZn+WOAmynVBxFVNAxjoluagRU1Nhc0OXup7Ct9pgD5QHGbH1a48tEHDjKsDnxJVZZNqCLArIgTjWhH//Sd8htflefqGiDbQFa/mtLfxdIDFdKcWhGKlbp5sfaK/4qjKf/8kfzbICol2Up6m+QoqLUjnseEf1tHFslTwfyuDhgDHYiWqVNfw9b+/DK2i5vRi0KkkVDTlDpKKG1MlLckBRiWR6P2YlKRL0/1zO7ACpzjGzYFmxS7y6zxqgQYTxXZvsKzmIZozxTHN4mQolspU1XPzSc23HkL6U1ol5XS72EgyDIgcMtGyLEm4NXL8yFoNZMrUk/3vfRbvliV2ufiYCIK3eWusqM5baHeMnLv3haJfgu+psL3lQAFZQMOZJEO7PIKOEqUZfB4qlA8h7gG6tE45jbN5zj/J2Wv9pic6GLUr3OhEo5u+SJ8ZZ16HFmc9Pk+5CIIoyT8XBv6B945wjg7TiHJ/zU4zpZw==;mAYD20bod9JqsOk1cXnVng=="
 ---
 

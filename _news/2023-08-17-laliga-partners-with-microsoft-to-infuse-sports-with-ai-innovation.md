@@ -71,6 +71,20 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "IBM, Microsoft launch generative AI managed service"
+    excerpt: "The new Azure OpenAI solution provides developers and data scientists with multiple models, including GPT and Codex tools."
+    publishedDateTime: 2023-08-17T13:18:00Z
+    webUrl: "https://www.ciodive.com/news/Microsoft-IBM-collaborate-generative-AI-enterprise-solutions/691090/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 54
+    images:
+      - url: "https://www.ciodive.com/imgproxy/jUtvE34JVpKQZffqI3Ic3AZLONHM2y3tvEpEB4NdufA/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNzMzNzgyMjkuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "ABB and Microsoft collaborate to bring generative AI to industrial applications"
     excerpt: "Expanding on their long-standing partnership, ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability™ Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
     publishedDateTime: 2023-08-14T06:32:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intel
 webUrl: "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1"
 type: article
 quality: 78
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://www.crn.com/resources/027d-16fdacd14a01-b52025939cd8-1000/salesforce-sign.jpeg"
         width: 611
         height: 458
+        isCached: true
+  - title: "More AI, new Surfaces expected during Microsoft’s September 21 event"
+    excerpt: "Microsoft has sent out invitations for a \"special event\" on September 21 in New York. The company hasn't shared any further details, but it can be assumed"
+    publishedDateTime: 2023-08-18T10:15:00Z
+    webUrl: "https://www.techzine.eu/news/devices/110260/more-ai-new-surfaces-expected-during-microsofts-september-21-event/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/04/Microsoft.png"
+        width: 1500
+        height: 800
         isCached: true
   - title: "Microsoft Planning New AI Service With Databricks After OpenAI Success: Report"
     excerpt: "The new AI service will reportedly use Databricks' software and will be sold through Microsoft Azure CEO Satya Nadella previously hinted at a possible trio product integration with Databricks and OpenAI Databricks recently announced a deal to acquire ..."

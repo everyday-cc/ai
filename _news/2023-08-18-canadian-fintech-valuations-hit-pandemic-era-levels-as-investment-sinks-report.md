@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech vertical sluggish as investors worry over economy, KPMG report says"
-    excerpt: "Georges Pigeon, a partner in KPMG in Canada’s deal advisory practice, says the early and seed-round activity suggests that investors are interested in funding young, innovative companies at reasonable valuations – a positive sign for the health and growth of Canada’s FinTech ecosystem."
-    publishedDateTime: 2023-08-17T20:49:00Z
-    webUrl: "https://betakit.com/fintech-vertical-sluggish-as-investors-worry-over-economy-kpmg-report-says/"
+  - title: "Investors have gone sour on Canadian fintech deals this year, here's why"
+    excerpt: "A new report from KPMG in Canada shows a significant pullback from investment, from more than US$1 billion across 87 deals in the second half of 2022 to $354 million across 57 deals. It’s also less than half the $834 million invested in the first half of last year."
+    publishedDateTime: 2023-08-18T11:00:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/investors-have-gone-sour-on-canadian-fintech-deals-this-year-heres-why/378852"
     type: article
     provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 22
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 23
     images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2022/08/lxrcbsv-vVHXeu0YNbk-unsplash-1.jpg"
-        width: 1050
-        height: 735
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0399_638279182773224727.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "qppwNmtNapWILksGP4UpQbp4A38ga84hl71T2KcXf0z8W90ZJKOHzuy6nejqrub8ziwreMHxagNRx6ZMsSPpxjo6fPNDg7k4M87oGDlHvCy8Bq5uwlGi3+cAbiIdRGDIHLBuqEOYo0Ae8Ik7kLXMfo/kWFqW8OyjdpZjLeWeL8QGojBGsTs6OduFreHPR7gVjMc/BVzApsSYEZ20LfQr2tXW1ixAhB6oexg7shg7GRqsNryXRQ3YUUi+mBoTZdFhtdjb9epQhipz7o+ltWbiCDFV8L3f0xBGuINqCNf5SHoehj3xa/ulWVXK7OQM5IpN3ckw7ghdMLUhlE1xGuhNPOMknmVoL6pUjILacV+vGsA=;WfSkTST7KAg6vWwIKvROiA=="

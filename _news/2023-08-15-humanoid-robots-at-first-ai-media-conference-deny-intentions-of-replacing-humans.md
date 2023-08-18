@@ -42,18 +42,18 @@ related:
         height: 630
         isCached: true
   - title: "Humanoid robots steal spotlight at World Robot Conference in Beijing"
-    excerpt: "Following the market frenzy surrounding robotic dogs, a surge of Chinese investors has eagerly shifted their focus to humanoids over the past two years. According to industry projections, the burgeoning humanoid market is poised to skyrocket to about 75 billion yuan by 2025."
-    publishedDateTime: 2023-08-18T09:57:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273935853/humanoid-robots-steal-spotlight-at-world-robot-conference-in-beijing"
+    excerpt: "A visitor uses a phone in front of humanoid robots developed by EXRobots at the Beijing World Robot Conference (WRC) 2023 in Beijing, China, August 17. Chinese tech companies are venturing into human-like robotics in an attempt to cash in on the huge market opportunities in coming years."
+    publishedDateTime: 2023-08-18T10:53:00Z
+    webUrl: "https://www.shine.cn/biz/tech/2308188014/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: SHINE
+      domain: shine.cn
     quality: 39
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1692161977650.jpg"
-        width: 630
-        height: 420
+      - url: "https://obj.shine.cn/files/2023/08/18/521fee35-d822-4c23-8e0f-4fee14bbd0d5_0.jpg"
+        width: 576
+        height: 324
         isCached: true
   - title: "Journos vs. Robots: Associated Press Declares Stance Against AI"
     excerpt: "Engrossed in the discussion, a select group of over two dozen bipartisan figures from the Capitol Hill listened attentively. Among them were D.C. policy analysts, legal experts, and chiefs of staff, carefully enjoying their breakfast fruit tarts."

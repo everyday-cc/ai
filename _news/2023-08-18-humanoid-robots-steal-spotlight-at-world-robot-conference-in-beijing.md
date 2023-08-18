@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Humanoid robots steal spotlight at World Robot Conference in Beijing"
-excerpt: "Following the market frenzy surrounding robotic dogs, a surge of Chinese investors has eagerly shifted their focus to humanoids over the past two years. According to industry projections, the burgeoning humanoid market is poised to skyrocket to about 75 billion yuan by 2025."
-publishedDateTime: 2023-08-18T09:57:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273935853/humanoid-robots-steal-spotlight-at-world-robot-conference-in-beijing"
-webUrl: "https://www.bignewsnetwork.com/news/273935853/humanoid-robots-steal-spotlight-at-world-robot-conference-in-beijing"
+excerpt: "A visitor uses a phone in front of humanoid robots developed by EXRobots at the Beijing World Robot Conference (WRC) 2023 in Beijing, China, August 17. Chinese tech companies are venturing into human-like robotics in an attempt to cash in on the huge market opportunities in coming years."
+publishedDateTime: 2023-08-18T10:53:00Z
+originalUrl: "https://www.shine.cn/biz/tech/2308188014/"
+webUrl: "https://www.shine.cn/biz/tech/2308188014/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: SHINE
+  domain: shine.cn
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cus1692161977650.jpg"
-    width: 630
-    height: 420
+  - url: "https://obj.shine.cn/files/2023/08/18/521fee35-d822-4c23-8e0f-4fee14bbd0d5_0.jpg"
+    width: 576
+    height: 324
     isCached: true
 
 related:
@@ -65,6 +65,6 @@ related:
       domain: cmswire.com
     quality: 38
 
-secured: "nFcqvgradjEC9mexffVu+HfZ+xuQ0ppR4/fQZjfaA0jr49zt7Mxw+J2Vi+4GjFnKBuJ+lcMT7IUVz5B8Mm4Me0rPpdZlLncyvwhnsMufujAhC9Tf0jLvhmcZmSfWoiOz0h9igndK2QAmGeGOsRgRbDDchYXOuSllkGCmDsQve4X3uK0PbRCobQNUACV3RXV0YfuauJtebkM1Fc6vCGWQCUCCPWs4tbDjAzAjqY5B60PNXEgpu3yRiQ2hRguq3V1vjuA/+NdESt27d592Px2qYmSXjtXuIyJ7uPloWoAYQCMR8ZsJ3jXw2LK4QFVo0shRngWguCU+7sBhI1ue/w40j8ivd6uz+Vko/oOkYjUcIaY=;zlatjFjBySoACpuNytIC4w=="
+secured: "MW7wy2vh3MzK5Ms+S8stgS4df1aG7CxbWwSHWs2mrl4VAzRtJ29X5lu0bt1EFWpWviS8yuQgDJXdHCLgDQVOBPbiQ9tNr3hImYJ8p4HesHHAv1z/KUl75PyGn9Y0tsa7xE6SCOG8eTvIr9++DJo9C8N9YEorEo2/vZyEbV07bscoTRI1QqzwPpY6Fk0nxAsu8d3kKB+cypqYW1FJ1z8ZTVXQzOZf8CsU+nIGYpVAUXbMWPMNaQK66UXRODA1YtoAXhjy6zBNecoEOLFfXmid3YOI+D8ipcUS6t7xseyikVjAKSRVJHp8e/90mdoPI2v7eNbBqk9EiZyjLxeqNYCDWDeH7hwKTn6/gWW1zILkNvE=;450HXQqHlGKrwi2F5OoUXg=="
 ---
 

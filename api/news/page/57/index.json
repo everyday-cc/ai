@@ -2,6 +2,152 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-07-10-want-to-build-your-own-ai-chatbot-say-hello-to-open-source-huggingchat.md",
+      "title": "Want to build your own AI chatbot? Say hello to open-source HuggingChat",
+      "excerpt": "ChatGPT may be dominating AI coverage but If you're super-geeky, you can build your own chatbot using HuggingChat and a few other tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/",
+      "originalUrl": "https://www.zdnet.com/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/9ac0b2cb14a08086d5a4539b253e5361f0ab29cc/2023/07/10/8797e942-96a6-4e66-820a-52a31475028f/gettyimages-1246536583.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/",
+      "publishedDateTime": "2023-07-10T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-researchers-use-machine-learning-to-identify-high-risk-surgery-patients.md",
+      "title": "Researchers use machine learning to identify high-risk surgery patients",
+      "excerpt": "Researchers and physicians at the University of Pittsburgh and UPMC used machine learning to create and deploy an accurate and flexible model for predicting patients at high-risk for complications after surgery,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-machin-1.jpg",
+          "width": 1454,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.amp",
+      "publishedDateTime": "2023-07-10T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-a-creepy-collective-of-nine-ai-based-robots-showcased-at-un-news-conference.md",
+      "title": "A creepy collective of nine AI-based robots showcased at UN news conference",
+      "excerpt": "As one of the world's leading institutions for ICT technology, the ITU is naturally highly interested in artificial intelligence and the increasingly prevalent new generation of",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99335-creepy-collective-nine-ai-based-robots-showcased-un.html",
+      "originalUrl": "https://www.techspot.com/news/99335-creepy-collective-nine-ai-based-robots-showcased-un.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-10-image-10.jpg",
+          "width": 2000,
+          "height": 1308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-ai-industrial-robotics-europe.md",
       "title": "AI Industrial Robotics - Europe",
       "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$2.50bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.34%, resulting in a market volume of US$6 ...",
@@ -1015,153 +1161,6 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-how-to-create-a-website-with-ai.md",
-      "title": "How To Create A Website With AI",
-      "excerpt": "Hostinger’s AI website builder only needs three pieces of information to generate a website for you: the name of your company, the type of website you want and a short description of what your company does. Based on this information, the AI creates a website including suitable texts, images and other relevant content, such as online shop products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/au/business/software/how-to-create-a-website-with-ai/",
-      "originalUrl": "https://www.forbes.com/advisor/au/business/software/how-to-create-a-website-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2023/07/CreateAASiteWIthAI-1-scaled.jpg",
-          "width": 2560,
-          "height": 1677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023.md",
-      "title": "How Artificial Intelligence, Data And Analytics Are Transforming Formula One In 2023",
-      "excerpt": "Artificial intelligence (AI) is driving a wave of disruption, transforming car design, race performance and fan experience alike.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64aba876bdd5adff4391cf1d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/amp/",
-      "publishedDateTime": "2023-07-09T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales.md",
-      "title": "Save up to 43 per cent on an ECOVACS DEEBOT robot vacuum in the Prime Day sales",
-      "excerpt": "It’s Amazon’s Prime Day and there has never been a better time to purchase an ECOVACS DEEBOT robot vacuum/mop or the WINBOT W1 Pro window cleaner. If you’ve been on the fence about purchasing a robot vacuum or perhaps couldn’t fit one into your budget,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techguide.com.au/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/",
-      "originalUrl": "https://www.techguide.com.au/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techguide.com.au/wp-content/uploads/2023/07/3-AIVI-3.0-e1688971217992-450x300.jpeg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techguide.com.au/amp/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/",
-      "cdnAmpWebUrl": "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/",
-      "publishedDateTime": "2023-07-09T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Guide",
-        "domain": "techguide.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

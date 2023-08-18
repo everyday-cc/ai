@@ -64,6 +64,20 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "More AI, new Surfaces expected during Microsoft’s September 21 event"
+    excerpt: "Microsoft has sent out invitations for a \"special event\" on September 21 in New York. The company hasn't shared any further details, but it can be assumed"
+    publishedDateTime: 2023-08-18T10:15:00Z
+    webUrl: "https://www.techzine.eu/news/devices/110260/more-ai-new-surfaces-expected-during-microsofts-september-21-event/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/04/Microsoft.png"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "No, AI in Google Search isn’t going to kill online content"
     excerpt: "Concerns over the impact AI could have on online content are growing, but there really isn't anything to worry about."
     publishedDateTime: 2023-08-17T00:24:00Z
