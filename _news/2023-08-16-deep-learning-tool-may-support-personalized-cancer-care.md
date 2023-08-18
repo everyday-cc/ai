@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-16T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/deep-learning-tool-may-support-personalized-cancer-care"
 webUrl: "https://healthitanalytics.com/news/deep-learning-tool-may-support-personalized-cancer-care"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1169990180.jpg"
+    width: 690
+    height: 400
+    isCached: true
 
 related:
   - title: "Machine Learning Advances Personalized Cancer Vaccines via BigMHC"
@@ -36,6 +42,6 @@ related:
         height: 700
         isCached: true
 
-secured: "1C7aiXOckIDWhhVwDJtmtbnv0wKY8n8Gw9nomATv5DxTsvtI7v7Pw0IVZxcNsO3slB11427a0/qNXfLn+amW/C74tytvmb4o0RBn0c0cpKYnuaRMaIOmY3OZPBlD/Oi14HmH3CpIrcHbEFNlYJsJ+3jdqHqxR3SAAm8JLZiON+3v6KLni6BGwIGoc81tAd7XrYdm3N6kYkdXHWu0NHUnNfSG5A8qqqWRrqs+1bYiOMUkUet+F//zFZHgvagyKmRVzV09HS5kY0LSj8KLo7V9zE8Iwum+RPYlq9jF4ROPFRqyEfrJUpwFh4HONKMr25htxQN0syiY5sRx2htFhtVYzCb3pgYX1q+8wG0D1TYwEg8=;OwYS3zcsEylq7+xrNrhLOQ=="
+secured: "pVRv6OaeaFo+muUJNF+DCMpEtmkBKxlF2VyDPjAjAy99rSFgLuJQMDCwLWvOtMMRwSdmmYHBA/R1yOJMOow1j90h8z4w0L5GCTJN6/UKj4ZIGU/tWwrMtpkTTE9mO6DX/w67URCGPl7s25xCpyItNT3yHMYE3SgKV0khh7SE8WOPh/cWEt48M0hDmhG0XBNqwynqgLLZOvLROWnS65PuHW5vIJiuu/2BAntue55jxLRMQduH2m6aMkC+Wx7emlGdcWxtCjxXo0Yw8cHua/1ifIp0GTc0Hem2x/Oxqe4Fj7uNDW/IV5McWiB8ld/q5zwofKlM//5auFoN/CsgPFpiyCjPt3XuoJ3h5TWeFtrU5jo=;1t52iffsDnZSdUyZ144DeQ=="
 ---
 

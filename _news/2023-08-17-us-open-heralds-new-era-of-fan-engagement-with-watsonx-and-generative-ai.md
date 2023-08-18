@@ -67,6 +67,20 @@ related:
         width: 610
         height: 400
         isCached: true
+  - title: "IBM Watson team leader raises $60M for AI startup Elemental Cognition"
+    excerpt: "David Ferrucci, a notable artificial intelligence (AI) researcher who led the team behind IBM Watson's creation, according to official documentation, has successfully raised close to $60 million for his AI startup named Elemental Cognition. As per the ..."
+    publishedDateTime: 2023-08-18T08:18:00Z
+    webUrl: "https://cointelegraph.com/news/ibm-watson-team-leader-raises-60m-for-ai-startup-elemental-cognition"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 54
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvM2EzZmFlMzktNDE4Mi00NzVhLWE4MDQtMDM2OTEzYzZmNmFiLmpwZw==.jpg"
+        width: 1160
+        height: 774
+        isCached: true
 
 secured: "5r0MtkFDNgQNO+1XDMlB9T0nhp7L2JHEvdZsjgOZBkpnmoiGWcGhcB9p0s/QApufMDtYRC87pTuWBYrgokP7L2J1hv3WhjFpf22V5BExz5Ceceq0951BZ3CyQHtrFaAC7gvGcO51KM9Df+5U//FEFPwe2ZjNLIjr+fKFDlde2ypsRs46NKEO3VxukkNpL3d2j8iySOaeC3FAEJEAQFc2AWW8Wqx7FfYp8G53C8ESYNRTxdP0eaTyp1STsaKY67lZPR6CC/dg0wWTT0VIUVrbo7VQMfP5YIjjtQI/dOjTzzvy7JfNJSgLf8bfi5TNutN6nnsPTJ0nIO8kTv5iQXx/QJWsNBNj/cPsspDbavWp8PA=;rNkKohSRuxTh2nkjdcw7BQ=="
 ---

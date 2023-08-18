@@ -35,7 +35,12 @@ related:
     provider:
       name: Analytics
       domain: healthitanalytics.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1169990180.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "LCHDQ17gTuqAX46gdMdNFpHKnHA7S//O0/agGGX73XTvF7Gw4e4kJXuct9MY41ecK88GAM4vFyWfoyxWy8rrvuHfWe2h3/ZLUnIzycdavkvox8UYxOUG7z5LuBGeBxqMZPOxGGCDuAc39E4vBneLUCvnpN3BpzsfKkEw+/QRsDZUqAJupWF9vekWvprJvdQemc0pYuWdm4stOpHMMLTHZ7CosvAhx4pqJVp208eYJNWvXyUcv6WOA9AckJNw+OBkJihHfayFecVUheVVouSJBDwgi2nndjyEsmf7IumIQCIFn4kYWtRxRzwt89jhWVm4SyUjVRB9Wa9xC0AvY/sDcmtKz/+B3ZHVhN/Dtxlp20udxf9AEMOuKS1YQFKL8nz8eMGaDBKJz9ABoXyfpHXsBg72ZJebF9VJ1ZuE4ei5FrmX5ntZraKDnaMPIKCa6Sw8w1wCY4AsrCU1Njf2WIank8Y28iKZLfhctxS5+7KmAanOr6fdvit4BeUIuxniOTPiX31cW1uM59k5xapZjnsNRw==;tACDqMfg5owY3l8sDtQVvg=="
 ---

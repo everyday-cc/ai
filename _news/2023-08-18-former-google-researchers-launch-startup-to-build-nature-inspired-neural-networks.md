@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Google Brain Researchers Launch AI Startup in Japan"
+    excerpt: "Sakana AI's pivotal undertaking revolves around the development of an indigenous generative AI model, characterised by its capability to produce diverse forms of content such as text, images, code, and multimedia elements."
+    publishedDateTime: 2023-08-18T09:08:00Z
+    webUrl: "https://analyticsindiamag.com/google-brain-researchers-launch-ai-startup-in-japan/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/08/Screenshot-2023-08-18-at-2.35.24-PM.png"
+        width: 2262
+        height: 1268
+        isCached: true
   - title: "Top ex-Google Brain researchers start AI research company in Tokyo"
     excerpt: "TWO prominent former Google researchers, one of whom was a co-inventor of the “transformer” artificial intelligence architecture that paved the way for the generative AI boom, announced on Thursday (Aug 18) they had started a new AI company based in Tokyo."
     publishedDateTime: 2023-08-17T16:20:00Z

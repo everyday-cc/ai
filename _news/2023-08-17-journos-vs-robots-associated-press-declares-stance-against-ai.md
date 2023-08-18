@@ -21,19 +21,49 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Associated Press cements the AI era with newsroom guidance"
-    excerpt: "Weeks after announcing a partnership with OpenAI, The Associated Press urges caution in using — and reporting on — generative AI tools."
-    publishedDateTime: 2023-08-16T15:48:00Z
-    webUrl: "https://www.poynter.org/ethics-trust/2023/new-ap-stylebook-guidelines-artificial-intelligence-chatgpt/"
+  - title: "World’s first mass-produced humanoid robot? China start-up Fourier Intelligence eyes two-legged robots with AI brains"
+    excerpt: "When Fourier Intelligence unveiled its lanky, jet-black humanoid robot GR-1 at the World Artificial Intelligence Conference (WAIC) in Shanghai in July, it instantly stole the show. While the ..."
+    publishedDateTime: 2023-08-16T03:56:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3230850/worlds-first-mass-produced-humanoid-robot-china-start-fourier-intelligence-eyes-two-legged-robots-ai"
+    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3230850/worlds-first-mass-produced-humanoid-robot-china-start-fourier-intelligence-eyes-two-legged-robots-ai"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3230850/worlds-first-mass-produced-humanoid-robot-china-start-fourier-intelligence-eyes-two-legged-robots-ai"
     type: article
     provider:
-      name: Poynter
-      domain: poynter.org
+      name: scmp.com
+      domain: scmp.com
+    quality: 81
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/11/8945fe8e-9967-46d4-881b-bf54fdddf29d_b80c6778.jpg?itok=qSSd2jDl&v=1691761856"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Humanoid robots at first AI media conference deny intentions of replacing humans"
+    excerpt: "Sitting or standing alongside their creators in Geneva, Switzerland on Friday, nine AI-enabled humanoid robots responded to media queries in real time, albeit with occasional lapses or delays."
+    publishedDateTime: 2023-08-15T00:00:00Z
+    webUrl: "https://en.mercopress.com/2023/07/08/humanoid-robots-at-first-ai-media-conference-deny-intentions-of-replacing-humans"
+    type: article
+    provider:
+      name: MercoPress
+      domain: mercopress.com
+    quality: 49
+    images:
+      - url: "https://en.mercopress.com/data/cache/noticias/95146/600x315/robot-sophia.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Humanoid robots steal spotlight at World Robot Conference in Beijing"
+    excerpt: "Following the market frenzy surrounding robotic dogs, a surge of Chinese investors has eagerly shifted their focus to humanoids over the past two years. According to industry projections, the burgeoning humanoid market is poised to skyrocket to about 75 billion yuan by 2025."
+    publishedDateTime: 2023-08-18T09:57:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273935853/humanoid-robots-steal-spotlight-at-world-robot-conference-in-beijing"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 39
     images:
-      - url: "https://www.poynter.org/wp-content/uploads/2023/08/AP23173786529321.jpg"
-        width: 1080
-        height: 720
+      - url: "https://cdn.bignewsnetwork.com/cus1692161977650.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "Ue1t1geV7TewQ43HmL2bbCxEx1oOQUqNiKz1n5QqcSpCjfE8liV6r0APOC9xM7gqFl0wYaTsnfkIz+3M5xy+S2dlt5YT12/JGzN/lPhuAUAGc4rcFCWcMB08hYIetot5SfdsvKK84mVVrEVZeIyKD3dsozyAmaK4L6pzO84iBXwCGMEj+EupwqaAnqJhPvraTsxzWydONcce5qiRSB54GjgnDdjMd18jhea+sOe5g2uTSuAoi1EKo9DnEPoLUdZCilnbKSqwcw7Jh5MQj/XSnQi/ESPlfdTTK6HPdV7kvaL+9sfoyZBVgRJ/JruN7UuWA3E0C/wKXn3LMkzc0bv6IeqbiDP3zdyGCiCXDvvQEPlpypVS1mK/HfD1oOicY0yCX7WCvEGkzY0HM28LFJsIPoP1oY6HhclXggG8JdHgyOJHBOFXpT0FD14eP+WpV57AAaS5qgQptbB6zxuVOpgkARDHHGCCNR0o68va6OUhqIO1qg8zzS+BJOfZb15EfKhacqMk0rb1v4tvRX7RAjovjw==;gRRRcotKyN/M9Jjgobxg5Q=="

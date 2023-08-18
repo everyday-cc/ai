@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-in
 webUrl: "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-into-a-new-era-of-ai-innovation-with-watsonx/"
 type: article
 quality: 128
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/elementalcognition.png"
         width: 610
         height: 400
+        isCached: true
+  - title: "IBM Watson team leader raises $60M for AI startup Elemental Cognition"
+    excerpt: "David Ferrucci, a notable artificial intelligence (AI) researcher who led the team behind IBM Watson's creation, according to official documentation, has successfully raised close to $60 million for his AI startup named Elemental Cognition. As per the ..."
+    publishedDateTime: 2023-08-18T08:18:00Z
+    webUrl: "https://cointelegraph.com/news/ibm-watson-team-leader-raises-60m-for-ai-startup-elemental-cognition"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 54
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvM2EzZmFlMzktNDE4Mi00NzVhLWE4MDQtMDM2OTEzYzZmNmFiLmpwZw==.jpg"
+        width: 1160
+        height: 774
         isCached: true
 
 secured: "jrWKJzR3zUIwirD/ibOuH4Seia0rT5/o7xumr1rC7gcOIbJwd0udlxME2oLt0i/UFjEXKJwS2tv94uQG400FMP2E7tx/ZU8QNU4PMNIpRngc0gBjh9Fo/+sQeGOYb9Bhpph1ZWXx3SVmxIQB+rrvgiWcdtIZlaq2PJ8QQjWDhU2TzsUzKJ5WiJn8B4JA/4HJfCCYCzbtLo1NMxFEk7fobbyrJti1luAKtDIBR4TtVAyPTJ8qvM3a/gh+SziNfdcGpHRXzhpNxWr5JCUB5SB6Csz/GVwjbQcoRIdMqb/W6iXqmhEYkJQx0Wr1Il2ptmxx1LZM7rDXtZQ4lraZjEdAK5u7OhbfUUI7uxSAVs9MfsM=;ZE8sYlqqAi+nEMYN5R79Bw=="

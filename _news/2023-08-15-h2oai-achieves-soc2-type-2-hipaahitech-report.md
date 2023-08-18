@@ -1,23 +1,29 @@
 ---
 category: news
 title: "H2O.ai Achieves SOC2 Type 2 +HIPAA/HITECH Report"
-excerpt: "H2O.ai's Chief Information Security Officer (CISO), David Epperson, expressed his pride in the team's accomplishment, \"I am immensely proud of our team's dedication and hard work in achieving SOC2 +HIPAA/HITECH."
-publishedDateTime: 2023-08-15T16:12:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/08/15/9865085.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/08/15/9865085.htm"
+excerpt: "H2O.ai, a leading Generative AI and Machine Learning platform provider, proudly announces the successful attainment of its SOC2 Type 2 report. This significant milestone reaffirms the company's unwavering commitment to maintaining the highest standards of data security,"
+publishedDateTime: 2023-08-15T16:01:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/h2o-ai-achieves-soc2-type-2-hipaa-hitech-report/article_1ab7f8f6-1e43-589d-a37e-bb30a6ee7671.html"
+webUrl: "https://www.bakersfield.com/ap/news/h2o-ai-achieves-soc2-type-2-hipaa-hitech-report/article_1ab7f8f6-1e43-589d-a37e-bb30a6ee7671.html"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "CqnF4EKfIjJkHeajzbVbl7jbc3eAjAl0+zd4C9mo3/V4rGvpt1+hiXYRCDQKQMoW5oA+Bhc6W2mFP+g5rry9tgZ2OAdx1Q8sYXPgY4c56OhrPPc48tPyxGUPtwAmIPcoTpAyvmYm0AymhsRMZ+CS4h5rrujUPd8BXh0OB9p9txN/K24Fx9T9uzGasv3BPznbJBpx3yp1zEm+suJgsZ6WOE+As5q4ZdimO91Ge7DbsMRSf/NTWJDQizHoIXcPp9iJaGEHSXSYHjzyVk3ALUnjRM0n48++Bdonntykzik0t8bqDhktOHWf40bXsO6LCdbpzP2reYNMpj/rp5yku4bxkqho14VScWRc71Wf1s0FQBHIDFyupg3ue4qFILXmX6cAFmjMg3zb1lCmrb2xGvfx4m3QxI3ztfZ6W4GfWmFydvxgmOGIw8OVDC3AmpTtB/w1rKIb1AP10/9WgkongIqhYHBJcO92HBo/1WuhLm1eiOiabEZUQHWC9NNIuLpiyxW4oVP+grtsyp8IL8l0/anESg==;7CmbKmEM3PgvEkltVucleA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/c/28/c280439b-13bb-5dfc-9f65-a08ba10ae4b1/64dba337f4165.image.jpg?crop=802%2C421%2C0%2C190&resize=802%2C421&order=crop%2Cresize"
+    width: 802
+    height: 421
+    isCached: true
+
+secured: "WWYrqnqdJGOLwEoYFH8m5qRJGQ5tSy42Qw8fjOuPPUibWoqJFV0sDOi7cvTN17BBHUXgT1VDoji2/TqXvBMSym2sUBMiiyjgO1W/nTN6p7USCrwhroA/z+sfhborJWtM4nWt91r9iSL1GZaunAGSdeM0ZQPKVvXorCy6e3A6FsPvXGvifD1HsYrBT6XSm9d2jmG4lg9Zudf7t6Y13vCa5jEQkRgAG/ZjIisHSabF8s9WvFxk6Ejp8gplG57//VVFl1I9wbVZUiRtv95f5lxeZWefI1fCIA05yv8veKBzcnHoEFxDry0Av715fYYlyx87E7tC6OPa6BbLrKtAJ6eY6D5wxfQt4QSU5YsKcBgOYek=;BU6NJ2vSSh2iY78kUHgB3A=="
 ---
 

@@ -87,15 +87,6 @@ related:
         width: 2048
         height: 1333
         isCached: true
-  - title: "10,000 cops, facial recognition cameras part of Independence Day security at Red Fort"
-    excerpt: "A 1,000 facial recognition cameras, anti-drone systems, and over 10,000 police personnel keeping vigil are part of the security measures in place at the Mughal-era Red Fort here, from where Prime Minister Narendra Modi will address the nation on August 15."
-    publishedDateTime: 2023-08-13T15:52:00Z
-    webUrl: "https://www.deccanherald.com/india/delhi/10000-cops-facial-recognition-cameras-part-of-independence-day-security-at-red-fort-2646184"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 31
 
 secured: "AmhNv2w8ZutwxbUshmwc2VxCcqGetx2oE3I+Yzu7vAn+8loohydmkYAg7YU8/EPej5iF3q0Wkyr1VPDfYGm7/ffR5M5WkaTMFYcEKYZPMudy85kLy0s1un2G7N33vy+q2ISWo2e2uVcBHF/9mrWNoZJEUmQRj6ZEuUAklJih7qcEU+60AO7eAH4gMsLcJkSftlHLCJP3hINxYQRZUQtY4YWZHFuU5gDuRZQseCHTFLaao3DIp4KdQowDVsr60uP5mBavswYvCkTH5NNzygM66ekwRcY+2Mv7pRw+q4xxxrFbT3JKEsrVUm79+tjFYJ802xSS7ps5x6w4oHOnQkN0cnIKJQzMdOZw1Daxdr8LXu6nJFp0kiRH1WD9Iew/qNCplftszQRTrN3oxOTFCE1zT/3rMI0PGXq3+EejaB8KtlAlN/45ozHOnKILX/Q2DOjiVOL6WrJAorae7EHFvVU3aXCQHgTG1GmfcAovo4cEQ88Pmgl4ePHZSXUH32pGCVNQGhfqIAQma5MFObIoLJcqrQ==;egCmuLMsuRTk2VTSa9pg5w=="
 ---

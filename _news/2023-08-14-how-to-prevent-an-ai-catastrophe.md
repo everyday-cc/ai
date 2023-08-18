@@ -132,20 +132,6 @@ related:
         width: 925
         height: 520
         isCached: true
-  - title: "Fiction Writers Fear The Rise Of AI, But Also See It As a Story To Tell"
-    excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity. More than 10,000 of them endorsed an open letter from the Authors Guild this summer,"
-    publishedDateTime: 2023-08-13T15:51:00Z
-    webUrl: "https://www.wccbcharlotte.com/2023/08/13/fiction-writers-fear-the-rise-of-ai-but-also-see-it-as-a-story-to-tell/"
-    type: article
-    provider:
-      name: WCCB
-      domain: wccbcharlotte.com
-    quality: 37
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2023/08/f/y/i-am-code.jpg"
-        width: 900
-        height: 579
-        isCached: true
   - title: "Evidence of AI bias mounts"
     excerpt: "Another study has identified distinct political bias in one of the major large language models used to inform generative AI chatbots."
     publishedDateTime: 2023-08-17T11:15:00Z

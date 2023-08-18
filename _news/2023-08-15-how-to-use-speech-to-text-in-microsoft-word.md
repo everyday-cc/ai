@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Find Out How Microsoft’s AI-Powered Shopping Tools Can Save You Money—And Time"
-    excerpt: "According to the company, Microsoft Edge has offered $3.7 billion in savings to shoppers worldwide in the last year thanks to built-in shopping features"
-    publishedDateTime: 2023-08-13T15:19:00Z
-    webUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/"
-    ampWebUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 100
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d64c192cef1748f0b1ea3f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 554
-        isCached: true
   - title: "LaLiga partners with Microsoft to infuse sports with AI innovation"
     excerpt: "Globant, LaLiga, and Microsoft are partnering to create AI services for the sports industry. LaLiga and Microsoft have collaborated, who have teamed up in the"
     publishedDateTime: 2023-08-17T15:41:00Z

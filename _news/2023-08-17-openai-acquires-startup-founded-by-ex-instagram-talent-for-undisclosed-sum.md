@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Is OpenAI Going Bankrupt? No! But AI Models Don’t Create Moats."
+    excerpt: "Experts predict that OpenAI will be bankrupt. Large Language Models and generative AI does not create a moat. But there are other ways to protect OpenAI's investment."
+    publishedDateTime: 2023-08-18T08:24:00Z
+    webUrl: "https://www.forbes.com/sites/lutzfinger/2023/08/18/is-openai-going-bankrupt-no-but-ai-models-dont-create-moats/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64df2494d38f87126b0c8ded/0x0.jpg?format=jpg&width=1200"
+        width: 786
+        height: 882
+        isCached: true
   - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI the Information"
     excerpt: "Databricks - a data analytics platform that uses artificial intelligence, which Microsoft would sell through its Azure cloud-server unit - helps companies make AI models from scratch or repurpose open-source models as an alternative to licensing OpenAI's proprietary ones, the report added."
     publishedDateTime: 2023-08-17T21:43:00Z

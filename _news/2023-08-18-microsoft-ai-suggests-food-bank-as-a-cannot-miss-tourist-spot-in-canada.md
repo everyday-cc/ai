@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/08/microsoft-ai-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/amp/"
 type: article
 quality: 120
-heat: 210
+heat: 200
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64c6dd5758fabf29ee775ae8/0x0.jpg?format=jpg&crop=2447,1377,x0,y802,safe&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Find Out How Microsoft’s AI-Powered Shopping Tools Can Save You Money—And Time"
-    excerpt: "According to the company, Microsoft Edge has offered $3.7 billion in savings to shoppers worldwide in the last year thanks to built-in shopping features"
-    publishedDateTime: 2023-08-13T15:19:00Z
-    webUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/"
-    ampWebUrl: "https://www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherrienachman/2023/08/13/find-out-how-microsofts-ai-powered-shopping-tools-can-save-you-money-and-time/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 100
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d64c192cef1748f0b1ea3f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 554
         isCached: true
   - title: "How to use speech to text in Microsoft Word"
     excerpt: "Developed and refined over many years, Microsoft's speech recognition and voice typing technology is an efficient way to get your thoughts out, create drafts and make notes. Just like the best ..."

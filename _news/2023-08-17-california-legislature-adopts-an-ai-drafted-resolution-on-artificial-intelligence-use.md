@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "New tool from Cyabra uses AI to crack down on bots, AI-generated spam"
+    excerpt: "A social threat intelligence company is rolling out a new tool to help detect the presence of bot or spam accounts created with the use of artificial intelligence (AI). Cyabra, an Israel-based start-up, gained notoriety in 2022 when billionaire Elon Musk ..."
+    publishedDateTime: 2023-08-18T08:12:00Z
+    webUrl: "https://www.aol.com/finance/tool-cyabra-uses-ai-crack-060006901.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/hAdhlAyeUOEsIhT8p_zmKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/ebe2dc002aa9e7327d4343330a92e8fc"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Australia can lead in ethical use of AI"
     excerpt: "Australia is being urged to take a lead role in the regulation of AI, as the government looks to walk the tightrope between enabling innovation and ensuring AI-based language models are used ethically and responsibly. An industry panel hosted by The ..."
     publishedDateTime: 2023-08-18T05:32:00Z

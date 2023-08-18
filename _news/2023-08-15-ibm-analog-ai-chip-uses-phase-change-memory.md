@@ -49,20 +49,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "IBM's prototype 'brain-like' chip promises greener AI"
-    excerpt: "Tech major IBM has said that its prototype 'brain-like' chip could make artificial intelligence (AI) more energy efficient."
-    publishedDateTime: 2023-08-13T15:45:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/ibms-prototype-brain-like-chip-promises-greener-ai-815332"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 54
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/08/13/1372158-ibm.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "IBM’s “Brain-Like” Chip Breakthrough to Transform AI Energy Efficiency"
     excerpt: "IBM has introduced a \"brain-like\" chip prototype that'll reduce battery consumption, leading to greener AI developments."
     publishedDateTime: 2023-08-14T02:19:00Z
@@ -90,6 +76,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-102737089,imgsize-120944,width-1200,height=765,overlay-etcio/artificial-intelligence/ibms-prototype-brain-like-chip-promises-greener-ai.jpg"
         width: 1200
         height: 765
+        isCached: true
+  - title: "IBM Has Revealed an Analogue AI Chip Prototype That’s More Energy Efficient Than Contemporary GPUs, All We Know"
+    excerpt: "IBM has developed a prototype of an analog AI chip that “has been tested to be as adept at computer vision AI tasks as digital counterparts” like GPU. And at that, it is much more energy efficient. In process, it uses a combination of analog in-memory ..."
+    publishedDateTime: 2023-08-18T08:25:00Z
+    webUrl: "https://in.ign.com/tech/191417/news/ibm-has-revealed-an-analogue-ai-chip-prototype-thats-more-energy-efficient-than-contemporary-gpus"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 49
+    images:
+      - url: "https://sm.ign.com/t/ign_in/screenshot/default/ibm-analog-ai-chip_62gy.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ag8kHcu2WFBCxdp5y2uSozUOodhoFnCBccZu44E9U7qlcLcAvVnMeDdqQp+HhtJ0PJ4EHOcVkB8wanLbE6RLDfnlHwP9KZ+STdr5QVsHmcQl8mh5ofA9wwSA/+05qEyfg+bS7X1hmBdPzlFyF52ESVYr5JtsGqvVLQ0x0FdCkfRbkrZeheEnbfCxwbPwsoxyl6yZO+7Y/MGfzlCyfmI4ja3/XJY4jIIaIB+WYwb2qh1/DBrc3zkQmMnp45mVnbUNJWrReRqaC3J0KbOuErpfYM3IoOK3hydoGEEq9lDosl1vlbRqF5CI/jiTBIlO2wTXBgDeqxrxEHK9xxx84l5rdQp43q+kvcjHV0bKCleKvwA=;er4OlIzC/xubH5aQto58Iw=="
