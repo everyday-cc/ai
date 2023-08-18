@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Anthony Albanese admits Voice referendum is a 'risk' but stresses vote is 'necessary' and he will 'respect' either outcome"
+    excerpt: "Change is hard, but this is necessary.” Mr Albanese acknowledged the difficult task at hand to see the Voice through to success - which proposes the recognition of Australia’s First Nations people in the constitution and an enshrinement of an advisory ..."
+    publishedDateTime: 2023-08-18T03:38:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-admits-voice-referendum-is-a-risk-but-stresses-vote-is-necessary-and-he-will-respect-either-outcome/news-story/344056fceeb48cdb17e3ea867e84622e"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-admits-voice-referendum-is-a-risk-but-stresses-vote-is-necessary-and-he-will-respect-either-outcome/news-story/344056fceeb48cdb17e3ea867e84622e?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-admits-voice-referendum-is-a-risk-but-stresses-vote-is-necessary-and-he-will-respect-either-outcome/news-story/344056fceeb48cdb17e3ea867e84622e?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 18
+    images:
+      - url: "https://content.api.news/v3/images/bin/99d4072f01790520f12069e471d345d6"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Prime Minister Anthony Albanese won't move to legislate an Indigenous Voice to Parliament if No vote defeats referendum"
     excerpt: "Anthony Albanese has said he won't move to legislate an Indigenous Voice to Parliament, should Australians vote against the constitutional change in this year's referendum."
     publishedDateTime: 2023-08-15T12:42:00Z

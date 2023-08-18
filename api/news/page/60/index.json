@@ -2,6 +2,151 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2023-07-07-what-is-a-knowledge-worker-and-what-do-they-do.md",
+      "title": "What is a knowledge worker and what do they do?",
+      "excerpt": "A knowledge worker is a professional who generates value for the organization with their expertise, critical thinking and interpersonal skills. \nThe post What is a knowledge worker and what do they do? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-a-knowledge-worker-and-what-do-they-do/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-a-knowledge-worker-and-what-do-they-do/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T06:55:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-the-best-shows-on-amazon-prime-right-now-july-2023.md",
+      "title": "The best shows on Amazon Prime right now (July 2023)",
+      "excerpt": "With new shows always coming to Amazon, there’s lots to pique your curiosity. Want to see something fresh and new? Check out the exciting and unique new comedy I’m a Virgo, which has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
+      "originalUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/07/the-horror-of-dolores-roach.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
+      "publishedDateTime": "2023-07-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-corporate-communicators-take-ai-away-from-it.md",
+      "title": "Corporate Communicators: Take AI Away From IT",
+      "excerpt": "Communicators and creators are the ones who will ultimately benefit the most from generative AI. They must take responsibility for its proper implementation and socialization throughout the organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/07/corporate-communicators-take-ai-away-from-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/07/corporate-communicators-take-ai-away-from-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c58f6ceb44797f5bf9d82d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/07/corporate-communicators-take-ai-away-from-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/07/corporate-communicators-take-ai-away-from-it/amp/",
+      "publishedDateTime": "2023-07-07T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-ai-trust-and-data-security-are-key-issues-for-finance-firms-and-their-customers.md",
       "title": "AI, trust, and data security are key issues for finance firms and their customers",
       "excerpt": "Financial services customers are switching providers for a better digital experience. In the past year alone, 25% of customers switched banks. Here's why.",
@@ -974,144 +1119,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-tesla-self-driving-cars-later-this-year-musk.md",
-      "title": "Tesla self-driving cars 'later this year' – Musk",
-      "excerpt": "\"In terms of where Tesla is at this stage, I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai. \"This is only speculation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513",
-      "originalUrl": "https://www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513/amp",
-      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513/amp",
-      "publishedDateTime": "2023-07-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilatimes",
-        "domain": "manilatimes.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-the-ai-boom-isnt-breaking-the-memory-chip-slumpyet.md",
-      "title": "The AI Boom Isn’t Breaking the Memory-Chip Slump—Yet",
-      "excerpt": "Samsung Electronics forecast a 96% drop in its operating profit for its second quarter—a sign that even the world’s largest maker of memory chips isn’t able to capitalize on the moment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-ai-boom-isnt-breaking-the-memory-chip-slumpyet-e980bfb3",
-      "originalUrl": "https://www.wsj.com/articles/the-ai-boom-isnt-breaking-the-memory-chip-slumpyet-e980bfb3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-811509/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-elon-musk-believes-tesla-will-have-level-4-or-5-self-driving-this-year-what-does-that-mean.md",
-      "title": "Elon Musk believes Tesla will have ‘level 4 or 5’ self-driving this year – what does that mean?",
-      "excerpt": "Elon Musk has again decided to share a timeline about Tesla’s self-driving effort – again claiming it will achieve",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/07/06/elon-musk-tesla-level-4-or-5-self-driving-this-year/",
-      "originalUrl": "https://electrek.co/2023/07/06/elon-musk-tesla-level-4-or-5-self-driving-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

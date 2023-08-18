@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-18-sparse-models-the-math-and-a-new-theory-for-ground-breaking-ai.md",
+      "title": "Sparse Models, The Math, And A New Theory For Ground-Breaking AI",
+      "excerpt": "We have sort of an intuitive understanding of a big need in artificial intelligence and machine learning, which has to do with making sure that systems converge well,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/08/17/sparse-models-the-math-and-a-new-theory-for-ground-breaking-ai/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/17/sparse-models-the-math-and-a-new-theory-for-ground-breaking-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ded953d9f5fce5d70eda18/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/08/17/sparse-models-the-math-and-a-new-theory-for-ground-breaking-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/17/sparse-models-the-math-and-a-new-theory-for-ground-breaking-ai/amp/",
+      "publishedDateTime": "2023-08-17T19:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-ai-helps-the-doctor-saving-time-and-effort-in-diagnosis.md",
+      "title": "AI Helps The Doctor: Saving Time And Effort In Diagnosis",
+      "excerpt": "Often, when this question is asked, and we look into the future, what we see is that AI is likely to function much more frequently as a type of ‘decision support’ –",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/08/17/ai-helps-the-doctor-saving-time-and-effort-in-diagnosis/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/17/ai-helps-the-doctor-saving-time-and-effort-in-diagnosis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ded72f36d24396760c8ded/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/08/17/ai-helps-the-doctor-saving-time-and-effort-in-diagnosis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/17/ai-helps-the-doctor-saving-time-and-effort-in-diagnosis/amp/",
+      "publishedDateTime": "2023-08-17T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-machine-learning-advances-personalized-cancer-vaccines-via-bigmhc.md",
       "title": "Machine Learning Advances Personalized Cancer Vaccines via BigMHC",
       "excerpt": "A recent study published in Nature Machine Intelligence examines a novel deep-learning method known as BigMHC, which can predict when the immune system wil | Technology",
@@ -1102,100 +1205,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-is-ai-art-real-art-harvard-arts-professors-ponder-the-potential-of-artificial-reality.md",
-      "title": "Is AI Art Real Art? Harvard Arts Professors Ponder The Potential Of Artificial Reality",
-      "excerpt": "Artificial intelligence art is any form of digital art created or enhanced with AI tools, including images, video, and audio compositions, or music. It is fundamentally different from digital art, which draws from digital technology in the artistic process and dates back to the 1960s,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/natashagural/2023/08/16/is-ai-art-real-art-harvard-arts-professors-ponder-the-potential-of-artificial-reality/",
-      "originalUrl": "https://www.forbes.com/sites/natashagural/2023/08/16/is-ai-art-real-art-harvard-arts-professors-ponder-the-potential-of-artificial-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64db95402000d526b988000c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/natashagural/2023/08/16/is-ai-art-real-art-harvard-arts-professors-ponder-the-potential-of-artificial-reality/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/natashagural/2023/08/16/is-ai-art-real-art-harvard-arts-professors-ponder-the-potential-of-artificial-reality/amp/",
-      "publishedDateTime": "2023-08-16T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-cisco-gains-after-ceo-points-to-headway-in-ai-and-security.md",
-      "title": "Cisco Gains After CEO Points to Headway in AI and Security",
-      "excerpt": "Cisco Systems Inc., the largest maker of computer networking equipment, rebounded in late trading after the company outlined headway in AI and security technology, helping ease concerns about a sales slowdown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-08-16/cisco-gives-tepid-annual-forecast-renewing-fears-of-slowdown",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-08-16/cisco-gives-tepid-annual-forecast-renewing-fears-of-slowdown",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

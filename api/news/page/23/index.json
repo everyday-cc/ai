@@ -2,6 +2,162 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-07-31-a-jargon-free-explanation-of-how-ai-large-language-models-work.md",
+      "title": "A jargon-free explanation of how AI large language models work",
+      "excerpt": "One reason for this is the unusual way these systems were developed. Conventional software is created by human programmers, who give computers explicit, step-by-step instructions. By contrast, ChatGPT is built on a neural network that was trained using billions of words of ordinary language.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/",
+      "originalUrl": "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/LLM-cat-vector-space-1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/amp/",
+      "publishedDateTime": "2023-07-31T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-new-controversy-over-facial-recognition-in-retail-stores.md",
+      "title": "New Controversy Over Facial Recognition In Retail Stores",
+      "excerpt": "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/",
+      "originalUrl": "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/",
+      "publishedDateTime": "2023-07-31T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-i-drove-the-70000-genesis-gv60-see-inside-the-futuristic-tesla-rival-that-has-facial-recognition-and-a-crystal-ball.md",
+      "title": "I drove the $70,000 Genesis GV60: See inside the futuristic Tesla rival that has facial recognition and a crystal ball",
+      "excerpt": "The Genesis GV60 is a quirky, premium SUV packed with futuristic tech. It's also super quick and charges fast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7",
+      "originalUrl": "https://www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c4240dcf0778001966e871?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7?amp",
+      "publishedDateTime": "2023-07-31T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-betting-on-ai-is-big-business.md",
       "title": "Betting On AI Is Big Business",
       "excerpt": "We have already seen the Nasdaq composite jump by over 35% due to the big blitz of generative AI, which makes me wonder if are in an AI bubble?",
@@ -1038,151 +1194,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-warning-programming-and-learning-can-be-complementary.md",
-      "title": "Warning! Programming And Learning Can Be Complementary!",
-      "excerpt": "Starting with ‘why we like programming,’ Solar-Lezama pointed out the value of generalization, modularity and encapsulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c53d940536c203b1ade19b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/amp/",
-      "publishedDateTime": "2023-07-29T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-norway-endless-beauty-and-endless-ai-leadership.md",
-      "title": "Norway Endless Beauty And Endless AI Leadership",
-      "excerpt": "I am researching in Norway & its beauty is endless & breathtaking. Highlights of this country & its AI leadership; a leader on the AI scene that deserves recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/07/29/norway-endless-beauty-and-endless-ai-leadership/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/29/norway-endless-beauty-and-endless-ai-leadership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c53fb73e9ca5472f03e6f9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/07/29/norway-endless-beauty-and-endless-ai-leadership/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/29/norway-endless-beauty-and-endless-ai-leadership/amp/",
-      "publishedDateTime": "2023-07-29T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-that-sports-broadcaster-you-hear-could-be-ai.md",
-      "title": "That sports broadcaster you hear could be AI",
-      "excerpt": "AI commentary was introduced in at least three major sports tournaments, including the Masters golf and Wimbledon tennis tournaments, for the first time this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/innovation/us-open-ai-sports-commentary-masters-wimbledon-rcna95244",
-      "originalUrl": "https://www.nbcnews.com/tech/innovation/us-open-ai-sports-commentary-masters-wimbledon-rcna95244",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230724-ai-sports-announcing-social-cs-accdf0.jpg",
-          "width": 2500,
-          "height": 1400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna95244",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna95244",
-      "publishedDateTime": "2023-07-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -87,15 +87,6 @@ related:
       name: BGR
       domain: bgr.com
     quality: 17
-  - title: "Navigating through a world with growing and advancing artificial intelligence"
-    excerpt: "As AI continues to develop, people strive to monitor, regulate and promote it so that it progresses safely and responsibly."
-    publishedDateTime: 2023-08-16T17:56:00Z
-    webUrl: "https://www.wuwm.com/2023-08-16/navigating-through-a-world-with-growing-and-advancing-artificial-intelligence"
-    type: article
-    provider:
-      name: WUWM
-      domain: wuwm.com
-    quality: 16
   - title: "Today in AI: Alternatives to ChatGPT, Google adds translation to Gmail and more"
     excerpt: "That popularity comes with a cost though; despite OpenAI's best efforts, the servers for the chatbot are often stormed with users, resulting in long queues as you wait your turn. The paid subscription alleviates this problem by giving you 24x7 access to the bot, even during peak times, but what if you don't want to pay?"
     publishedDateTime: 2023-08-17T13:26:00Z

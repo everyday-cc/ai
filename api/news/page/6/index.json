@@ -2,6 +2,100 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-12-when-you-gaze-into-the-ai-the-ai-also-gazes-into-you.md",
+      "title": "When you gaze into the AI, the AI also gazes into you",
+      "excerpt": "Web3, AI: Always worth paying attention when Goliath shifts on his ... Across the site, here are some of the startup stories y’all flocked to since the previous Startups Weekly. Karma, karma, karma, karma, komeuppance: Apparently not entirely immune ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/",
+      "originalUrl": "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-637552576.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/amp/",
+      "publishedDateTime": "2023-08-11T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-mlops-and-the-evolution-of-data-science.md",
+      "title": "MLOps and the evolution of data science",
+      "excerpt": "Machine learning (ML), a subset of artificial intelligence (AI), is an important piece of data-driven innovation.\nThe post MLOps and the evolution of data science appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/mlops-and-the-evolution-of-data-science/",
+      "originalUrl": "https://www.ibm.com/blog/mlops-and-the-evolution-of-data-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T11:45:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-12-miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon.md",
       "title": "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
       "excerpt": "MIAMI, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Miami Dade College in Miami. Applications for the no-cost bootcamp are closing soon!",
@@ -1129,92 +1223,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030.md",
-      "title": "Artificial Intelligence (AI) Robots Market Size, Trend, Analysis 2023-2030",
-      "excerpt": "Artificial Intelligence (AI) Robots Market 2023 with 117 Pages Report and enhance with extents shares into sub-counties are covered in this market. Artificial Intelligence (AI) Robots Market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33737659/artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33737659/artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33737659",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33737659",
-      "publishedDateTime": "2023-08-10T19:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran.md",
-      "title": "Best of artificial intelligence, machine learning will be deployed at Air India: Chandrasekaran",
-      "excerpt": "Tata Sons Chairman N Chandrasekaran on Thursday said the best of artificial intelligence and machine learning will be deployed at Air India and emphasised that the airline is not just another business for the group but a passion and a national mission.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/08/11/1600x900/INDIA-AIR-INDIA-5_1691716811984_1691716831312.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
-      "publishedDateTime": "2023-08-10T18:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
