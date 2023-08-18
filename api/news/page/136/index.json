@@ -2,6 +2,49 @@
   "page": 136,
   "value": [
     {
+      "path": "_news/2023-05-19-facebook-parent-meta-unveils-chip-for-ai-programs.md",
+      "title": "Facebook parent Meta unveils chip for AI programs",
+      "excerpt": "Facebook parent company Meta has unveiled its first custom silicon chip for processing AI programs called the Meta Training and Inference Accelerator, or MTIA. It also talked about a new AI-optimised data centre design and the second phase of 16,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/articleshow/100343511.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/articleshow/100343511.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-100343511,imgsize-15346,width-800/100343511.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms",
+      "publishedDateTime": "2023-05-18T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-artificial-intelligence-could-wipe-out-education-gaps-between-students.md",
       "title": "Artificial Intelligence could wipe out education gaps between students",
       "excerpt": "As G7 Summit leaders prepared to discuss managing artificial intelligence data, developers think generative AI could re-shape education in south Florida.",
@@ -1129,48 +1172,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-check-your-artificial-intelligence-bossware-tools-for-bias-says-us-agency-head.md",
-      "title": "Check your artificial intelligence 'bossware' tools for bias, says U.S. agency head",
-      "excerpt": "The head of the U.S. agency charged with enforcing civil rights in the workplace says artificial intelligence-driven “bossware” tools that closely track the whereabouts, keystrokes and productivity of",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_48f2da9321a023aa102e636026667bb4_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860",
-      "publishedDateTime": "2023-05-18T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

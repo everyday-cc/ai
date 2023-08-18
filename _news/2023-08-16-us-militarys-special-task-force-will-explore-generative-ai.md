@@ -161,20 +161,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
-  - title: "Here are 10 AI tools that you can start using today to enhance productivity and hopefully, drive profits for your company."
-    excerpt: "ALBAWABA - AI tools are poised to make a significant impact on businesses in the coming years, but what about right now? Here are 10 AI tools you can in"
-    publishedDateTime: 2023-08-13T08:16:00Z
-    webUrl: "https://www.albawaba.com/business/here-are-10-ai-tools-you-can-start-using-today-enhance-productivity-and-hopefully-drive"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 11
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/inline-images/64063dbcad97bd421b437096_chatgpt.jpg"
-        width: 410
-        height: 250
-        isCached: true
 
 secured: "/sFXMyNJn+r415NK/OF0O+aXESbqz09Yl7lhbmaDYqL4ztQ8YKZe5mIvitDoCCQbSLhhQDwLXRx/kDipmlaM5a2AtmPckKzGrVQCkStOuU/XI95FM/BGUGqa/ZIJh02je3+AJPPdehy2N4ydiR7hNKLWOsmSsDbVBZm9o2QZcucZw7RPIUQ1+ol4ZzQNEHiXusMNnfMmLaxQ7ppA7RNPvoi6SxdI9lMZr2nRf3ZHY6diW7ZpLX5gxpzvoe+VAuJZz3YoDOnRMOFBNCvDEKAH3zCxdGy6G1aDXCZjZVsWPOXTJ5XfYOhfBSed6GWZo6xsDGFlvT0vpoRDdNltPkvNPZEtPiLaPhA0HNpGuH/2D08nRI358i+4gG5n5jhTRT/u84ieMLAXzPglEGkD7qYmH64PBFZR4M2xfXrZojXC/DbvhlUXZfPjZFT9Arj0ouCeHeyIRxltcyZFpKuq4QGqxs18h2FJYcxdaF4EmTuib4yK2ITJjgnyR9efaUZLHrjrm35gZuMBzLJrpr8cMqumwg==;36Tv5Sb8TonMNFzGUnUqOw=="
 ---

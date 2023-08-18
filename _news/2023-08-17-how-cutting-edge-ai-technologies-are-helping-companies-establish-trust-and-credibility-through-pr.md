@@ -44,6 +44,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Governments, including Washington State, making policy for use of generative AI"
+    excerpt: "() - Increasingly, government agencies are developing policies to guide employees in the use of generative artificial intelligence while considering the legal and ethical issues and potential cyber"
+    publishedDateTime: 2023-08-17T21:19:00Z
+    webUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.html"
+    ampWebUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
+    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
+    type: article
+    provider:
+      name: The Center Square
+      domain: thecentersquare.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/6/74/6740079c-3d46-11ee-b172-5b3d41774e1a/64de937aac6ad.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "+gHrznf1ExSglGDiWUBuWKWeY0pywT91Fa1i7edFUqS9YJsLt30AHi2MNBYtHZ/+sV8llxFKGneOukx98Ir0QZoJxIL9y0MlDazSewgxHzbyLh0rFZG4ayHjFPR38l3oFfpKFJg3AVoUWEtdI+E7bgwvPllPhBv62Y7tATAGCujxy7i7OBjgoQMhdEHUNVWLx4GPrzhaard9IWf2pSlrKlxNFDpG8UP6hvZJI2B7edbPxC012Rm2L01dkNnrRmYzbsS63B6+GLTKdqCkLhRT3ax/fcRJ9MA0hPLk9nSUVLywWZ2O8BXskjiDBljxSzggT0EZ+vWbF5vfn0a6qduoPFNGSY0P08effnl357Wfv4bZxMsNidHCmM0dKHk/WiANeovpRMh9j68BeMdNKVtN2w5HTCBfYQgaszCPy1RY2bryzvopC2xWnkTv2daxRq58QFwe7Q9AfFp/zpxIu6riWJp+xJHpphh1VGCBYGPEmGwXf5zrkQcwz+ltwechz9DmF03OSn0RdFYBANt8ks+fEw==;vKmTTTm1/zj4EzOc3UQZEA=="
 ---

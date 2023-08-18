@@ -70,22 +70,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "SK Telecom invests $100. mil in US AI startup Anthropic"
-    excerpt: "SK Telecom will invest $100 million in U.S.-based generative AI startup company Anthropic in a bid to improve its competence in the emerging technology and further develop various language-based AI services for global markets,"
-    publishedDateTime: 2023-08-13T07:40:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/08/133_356939.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356939"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356939"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 57
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202308/743e01def6a74c149ce98c673000a986.jpg"
-        width: 980
-        height: 648
-        isCached: true
   - title: "AI Startup Anthropic Raises More Cash — $100M From South Korea’s SK Telecom"
     excerpt: "Anthropic raised a $100M round from SK Telecom, as South Korea's largest telco looks to grow its AI-related telecommunications business."
     publishedDateTime: 2023-08-14T16:36:00Z

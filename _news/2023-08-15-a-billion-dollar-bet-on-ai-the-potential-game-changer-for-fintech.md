@@ -88,20 +88,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
-  - title: "Fintech Summit to highlight banking industry innovation"
-    excerpt: "Global leaders in technology and banking are returning to Little Rock this week for two days of speed-dating-like meetings and open sessions that connect bankers with financial technology companies offering innovative services."
-    publishedDateTime: 2023-08-13T07:14:00Z
-    webUrl: "https://www.arkansasonline.com/news/2023/aug/13/fintech-summit-to-highlight-banking-industry/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2019/09/18/Andrew_Moreau_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 300
-        isCached: true
   - title: "Future of Fintech in the Middle East 2023: Aiming to become an AI hub"
     excerpt: "This is an excerpt from The Future of Fintech in the Middle East 2023 report. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre."
     publishedDateTime: 2023-08-17T09:12:00Z

@@ -50,6 +50,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 52
+  - title: "IBM and Microsoft strengthen collaboration to accelerate ddoption of generative AI"
+    excerpt: "IBM has announced a collaboration with software giant Microsoft. The partnership will focus on integrating and scaling the powerful capabilities of Azure"
+    publishedDateTime: 2023-08-17T14:24:00Z
+    webUrl: "https://www.onmsft.com/news/ibm-and-microsoft-strengthen-collaboration-to-accelerate-ddoption-of-generative-ai/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 48
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/Artificial-Intelligence-AI.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
     excerpt: "IBM announced today that it is expanding its collaboration with Microsoft to help joint clients accelerate the deployment"
     publishedDateTime: 2023-08-17T17:09:00Z

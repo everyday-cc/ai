@@ -92,20 +92,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
-  - title: "Fintech Summit to highlight banking industry innovation"
-    excerpt: "Global leaders in technology and banking are returning to Little Rock this week for two days of speed-dating-like meetings and open sessions that connect bankers with financial technology companies offering innovative services."
-    publishedDateTime: 2023-08-13T07:14:00Z
-    webUrl: "https://www.arkansasonline.com/news/2023/aug/13/fintech-summit-to-highlight-banking-industry/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2019/09/18/Andrew_Moreau_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 300
-        isCached: true
   - title: "A Billion-Dollar Bet on AI? The Potential Game-Changer for Fintech"
     excerpt: "To boot, the firm may have set its investing sights on the mothership, so to speak. In this case, Ripplewood might be investing $1 billion in OpenAI, which is known for the tour de force of the AI world that has been ChatGPT."
     publishedDateTime: 2023-08-15T15:02:00Z
@@ -219,6 +205,6 @@ related:
       domain: deccanherald.com
     quality: 4
 
-secured: "7ZQQ1BNcsRf2VvUr0oDXYCjeHBpp37WJgIWT164ZdDnsJtGpTshgEJ5AyMLbjMaJmIE0lLXnMhFVz9dhZCL/aYYO6fo+GmMaRcD2K6GllUx7QsyVT2bWorXagSpCHzm5EpuqlqguFCX2U88C7yEKxG+dXgcWQs9aRf4uLHb8cvLvtd+yCtkhGkqjpIwUeeTh1TTf8hZt17zbD+QR4hOU4F61+hh4Ss70uKb+Gvh+sjbO/6c1miUpvjCynM3lF4i/JN/le/W/A7oxB+SdQEJF7Afw/TkQk6xK7GZtnPJXiem6BB282YBWz2SWVRMbd3RGEMEr19mKiHFSBchtlqtmAvlsXMb6tlPBhwm8sxNCyOo=;uuvv9ZtHeFkbmvMZu8iF2Q=="
+secured: "jP+MPsCSbI8d45qJ9nMEEermP3epfQOAO8aX6lsB5tUKJITJEW76NitmwueW/UL1HtE7hEOaNaTObGYLZLsEYB4vFjkh1/BunQG9CjFFj/4VGaIMz2mxyM3FJf6Id7QLrzpx2dq0elOA4+vekwQl0IyGKhZzrKCqi7irE891qbcGFtTCXeFRMGjtdYDJechZXn7IzLbBenmayaYLb9+QXCtP0Hy8L8MSRVbtUjRi5xFr2SYvDLxOvb2GfCDiv/ZssMh4nrmRPck9vLDdtUhYzovyXSkCOj/hirBlR4CnkI+unFj03LhQ84OMkv1vXve30vmj6o1fAMaq0oEgHrqBva7H848N8aW4xktZYE8HRrE6a2cqjup1NjUEFh4UBM8LHg9dMtYxDYMFhGMb83Ov50tIenn2MxPlxNiFU7C4rkG7bb28bkQtwWjexJaG9+ZkISasLVPNmxhelakIc7+P5Mw5Phtvkc2JBW+ifqcZnkDeBTDGS9wnIOcxB6IQnB8TAwsF59MUa4FA+nxgEGy0jA==;ZywPFfBlsuTzVWDQ/+Y8FA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhan
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhance-product-reviews/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -166,20 +166,6 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 17
-  - title: "Here are 10 AI tools that you can start using today to enhance productivity and hopefully, drive profits for your company."
-    excerpt: "ALBAWABA - AI tools are poised to make a significant impact on businesses in the coming years, but what about right now? Here are 10 AI tools you can in"
-    publishedDateTime: 2023-08-13T08:16:00Z
-    webUrl: "https://www.albawaba.com/business/here-are-10-ai-tools-you-can-start-using-today-enhance-productivity-and-hopefully-drive"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 11
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/inline-images/64063dbcad97bd421b437096_chatgpt.jpg"
-        width: 410
-        height: 250
-        isCached: true
 
 secured: "BRhewlq6agldl3ooJam0ueZDjeH4e9EmlEEB/iMylE5K3/n2grHvzN/muicHqHhZKEVUTcpIDcyxIQhaiLc4dQNULi7otFHtTglZpofp0fY8B53EeAWZU07lX+4KNGOTAL6pmFlgnfClFGZSn3GBixryDX6p27o3bIOxbduA7HeLaQOda7IgkmVX7f79eOTLFTnbTP6uyBFJIlF8dMvZuAcrAwy8zRGGjo71I3h8BofQZyWcwJwDNeLWXZJkkB8tIKKQWzJqfH2lob97trYpHIKVdcRe33Wd85LtwTp1ne4iZBs7g9O7aNQ8T7hNsjzFCDb9ykNTL9aNKMlypa6Qxi5PfbgnWKaymiry+fbSjHlAR0pWUume+zLqOd8HZ90kU27jnO1TPaa98OQ0SGsUqq/FoMxlQFDxFFt/DhfjrgzFuuU8phijsfpkoNaEz0ieLITcfu5lxT0fyMi+qo9hs1GaMKKbvJRtPMMQZEolENBqC3z2rFDTQ5X/dEN93kPR8n/4zH2K6Js0bwmN3nGy1Q==;qyXZQgRTWs52ua7VxmKQEA=="
 ---

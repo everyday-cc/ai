@@ -162,21 +162,7 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 17
-  - title: "Here are 10 AI tools that you can start using today to enhance productivity and hopefully, drive profits for your company."
-    excerpt: "ALBAWABA - AI tools are poised to make a significant impact on businesses in the coming years, but what about right now? Here are 10 AI tools you can in"
-    publishedDateTime: 2023-08-13T08:16:00Z
-    webUrl: "https://www.albawaba.com/business/here-are-10-ai-tools-you-can-start-using-today-enhance-productivity-and-hopefully-drive"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 11
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/inline-images/64063dbcad97bd421b437096_chatgpt.jpg"
-        width: 410
-        height: 250
-        isCached: true
 
-secured: "GY1MtS1zyHTf770GwrPlVSdklefgJ55Zqa9FeUz1WCNLISN5FImndbimF+KXmeTr6z3OTO/k94eaUbP+AYSK0G7kMWWjkeyaug/0kzjjJRpZOK6D8bT7q7+sfJY1qxHn7YWWkvDTwMaWgKMpPeTrIo9/gaBsmEh86qpfJ82KF/TVSCY2QQ/Vh+K9PEOlhXbbIpwh6xiUM7oVj/XU/Mbr9/ES521K51U9tBsaUK7sMzu9aBYI4NEZLAAy+JjlSo5pyXdyHuUgnN7EZFmfN8QDHmhSyaYYoDJnr3/swiIFocT1+xFGTx6W+gPyvJvzmZuJlK0E7mGXasMy5qLHLKmgw902tEjYylhK1hv2A5CXHA8=;4tLth36PlDKwegvM/zsckQ=="
+secured: "YpiN62cWiNcHByYYR3KW1Vdqg0Dk26zZWULkjF1yQ7wT9i7eHkbO1f9gZo8beQm032HNjCtB9f5pxM3Sabkt5SvV9AIphSPuLjGUjsFBYdcGN7U36zMhYVViajLippTV59yXEMGZJXOS/6ijB7XyLghEFpxJQxqf87YcGfYEUpDCRKQc3x4gwToOQEmZjHcnXai+Gg4wrGPzLkdQJI/ht/V3zmGgmwMlBuc9EeLnp1IlwH0RxQrwwhCxkxrAoFivZDC4M9ctA0bS7UK+V3FXMa6OLiizWrElisZld9GJVGoxO2BUtlwh9kQodPR/yNCSMX/HXl5sfh8qxZv9wZwdNAruHD+YHy7QcJqHCOuL+boL4Ylqhhu/AyoBb4jv0Tb50QC0QTK2+h5ihMgHc4thaEJh0UeYBVjKONSj6S6c7bKkyORnWLzIFXb5mnH32HhdFjiKEKrHIXp+8UGG289AoY/DdZK9o35BrJ6m6s4KXD/sHPXIUEATvcalonItC5P1cXxmEvJ4+BjJ3CWh1aA4CQ==;M1CGJea5zPW+i8MGHH4Gfg=="
 ---
 

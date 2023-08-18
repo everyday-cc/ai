@@ -54,6 +54,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 113
+  - title: "Elemental Cognition, led by IBM Watson’s former head, raises $60M"
+    excerpt: "Artificial intelligence startup Elemental Cognition Inc., founded by David Ferrucci, the former head of the team that created IBM Watson, has raised $60 million in new funding."
+    publishedDateTime: 2023-08-17T23:35:00Z
+    webUrl: "https://siliconangle.com/2023/08/17/elemental-cognition-led-ibm-watsons-former-head-raises-60m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/elementalcognition.png"
+        width: 610
+        height: 400
+        isCached: true
 
 secured: "3R71VXLFF+01SpCQELogLd5lc/Q/1SvHGfXYG9fRwufRI27f2YBbLyb7gqAZbOvK9TdJ+jvVhx+wPWsvyt3P286CcWQwA8At7k+20WRAdUemlrz6aE/PnAi3InVIYNWhhkP+vBF0dS+FWc0rv3nzZoju47Bgs5n4+zmk1JSJZ3bFYOYbZXTr0wKm+696o26XYVgaPwoVo8aTT+QQidvLjYY1SLcF42I4QLnLqKKWT54Lg2Xtlvc9JCgm5Nr0u/LkZOe2G54ZuqOKi+aAfNq66DK7zcoT4U+/mIJ13stNYol0DVsWJK0R4yGV1ISn/NH7+r1KaKQUxHAUTBXmrC53wGAE6pzEBiFnQLvYK3KK3Drqzegl5tgttMPezDEFp4bGj5ZWTjZuB2U495+WNjB1JMIglx/xfNrRhus0qrdqWfpw8/gz50pqA6a2DRKrLmJAjJteASCcJ7qw4vxpAWXzQ1Z7ps3vPWArM/gibJf82xr5Yz2GWc40TZ0yHmT4LqdfJFLqcE4x1HpBImli9gxgUg==;uS3MvHExFA38bvAe+Z2T0w=="
 ---

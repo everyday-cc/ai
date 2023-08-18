@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1323198492-e1653330450993.jpg?fit=750%2C493&#038;strip=all"
         width: 750
         height: 422
-        isCached: true
-  - title: "SK Telecom invests $100. mil in US AI startup Anthropic"
-    excerpt: "SK Telecom will invest $100 million in U.S.-based generative AI startup company Anthropic in a bid to improve its competence in the emerging technology and further develop various language-based AI services for global markets,"
-    publishedDateTime: 2023-08-13T07:40:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/08/133_356939.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356939"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356939"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 57
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202308/743e01def6a74c149ce98c673000a986.jpg"
-        width: 980
-        height: 648
         isCached: true
   - title: "Google-backed AI startup raises $100 million from South Korean telecom giant"
     excerpt: "South Korea's SK Telecom has invested $100m in artificial intelligence (AI) start-up Anthropic. The move boosts the country's top telecoms firm in its"

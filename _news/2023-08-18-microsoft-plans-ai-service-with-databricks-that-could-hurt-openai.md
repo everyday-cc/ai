@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI"
-excerpt: "Microsoft has hitched its wagon to OpenAI when it comes to selling artificial intelligence that can understand language and write emails, meeting summaries and slide decks. Now Microsoft has found a second horse to ride in the AI race: Databricks,"
-publishedDateTime: 2023-08-17T21:03:00Z
-originalUrl: "https://www.theinformation.com/articles/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai"
-webUrl: "https://www.theinformation.com/articles/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai"
+title: "Microsoft plans AI service with Databricks that could hurt OpenAI"
+excerpt: "Databricks - a data analytics platform that uses artificial intelligence, which Microsoft would sell through its Azure cloud-server unit - helps companies make AI models from scratch or repurpose open-source models as an alternative to licensing OpenAI's ..."
+publishedDateTime: 2023-08-18T00:55:00Z
+originalUrl: "https://www.moneycontrol.com/news/world/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-11212861.html"
+webUrl: "https://www.moneycontrol.com/news/world/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-11212861.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Information
-  domain: theinformation.com
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://tii.imgix.net/production/articles/11091/b2a6b377-9380-463e-8a5b-2a797ab9d2b0.jpg?fm=jpg&auto=compress&w=1200&frame=0"
-    width: 1200
-    height: 675
+  - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Microsoft-770x433.jpg"
+    width: 770
+    height: 433
     isCached: true
 
 related:
@@ -136,6 +136,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "K4GYymiAjsi14rt95CHummsvYdfC1KYI+jx3BAvVNguS/aMqtQ8PR3V6hf0JUFyxKPKrZthH09cFnhijdG/5ovtIHv48EPfYFZk0MlAIIBb90Dzy2snfn9Y+K00QEkRcOlBBgZu6DMUMK6+03wHZr0ay5EDRrtNA7V9aWMBOlQfirIerw2/zSUoxHCJiscZRanuHrTqxPYxzxIcL94Z92lHUFz53p73oTABe9p6rWDPdeHwc+tqkz+91JOJNJDHxiYFCWzEMOpwnLUgrjR3LB2Ak8TXiJlYqE6Eme5Pu2y2e8RV1+PjB6eVvPobMkMpV2t+fzRZkReq4bbyHI9kfK3w86ZgicmhmeKV2m+v4TtPwQbISHKXd2PecIB6PrYvYH/wXyjgckXblm+G8izrvcxwuZWoNE46aOVo+8tpf2yqUlPqsKOuxRrvqbyKpr312bHg8S+cCRzOPNG6SHTmaTbBHeSu/hQKo8U8Hx1XKSnwQLxwPIo6i7il+oAae8E+fVJNA50OhAueWHYxUiGjtHg==;PIz2Q0HbNehbkO/D7840lQ=="
+secured: "GhJ74x7F6dzF8w/PR1cxgHQ3lMH9ILQ8VuuIqNx2RXw2/XD/1pF1s3lQnzkUmtk1vLBzUe1QT5qXeRK+sRx2lkjuXC3dteZ2WCHFlDmHuDenLO9zRGOWlaCM9Gkvo0XqnFZusMhbz770RjmdvijdTGNWp1Ur8G8cBIpWoMMawi3xoxpbQXif5fDqqv3wqgB/JkK1D/kzbwnp4cbAQ1G5q1PDUM3C0FKo5SrfXTlANwHFSkMONwbN/8msCdk/wDI+x4HaOq62rGTgOPKZYZcZBy5xeFmMGeFsGas+ZZfKaR7bRW96j3CTEQUyeyAkuQs11Jokc0bxA+lGokhi1I2AJzBwPE0CyCBMMrOjRFAieEU=;N1ktbXeQdWzNZ5HtER0Fxg=="
 ---
 

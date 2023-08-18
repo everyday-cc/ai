@@ -29,8 +29,8 @@ related:
     quality: 19
   - title: "Checkers and Rally's Roll Out Hi Auto's First-Ever Spanish Language Drive-Thru Voice AI Ordering"
     excerpt: "Following beta testing over the past two months at five of their drive-thrus, Checkers and Rally's is ready to expand the Spanish drive-thru voice AI rollout to more franchises and stores. \"Seventy percent of Miami Dade's population are of Hispanic descent,"
-    publishedDateTime: 2023-08-17T13:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/17/9866264.htm"
+    publishedDateTime: 2023-08-17T12:16:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/17/9866264.htm"
     type: article
     provider:
       name: TMCnet

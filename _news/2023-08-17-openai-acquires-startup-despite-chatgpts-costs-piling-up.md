@@ -79,19 +79,19 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI"
-    excerpt: "Microsoft has hitched its wagon to OpenAI when it comes to selling artificial intelligence that can understand language and write emails, meeting summaries and slide decks. Now Microsoft has found a second horse to ride in the AI race: Databricks,"
-    publishedDateTime: 2023-08-17T21:03:00Z
-    webUrl: "https://www.theinformation.com/articles/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai"
+  - title: "Microsoft plans AI service with Databricks that could hurt OpenAI"
+    excerpt: "Databricks - a data analytics platform that uses artificial intelligence, which Microsoft would sell through its Azure cloud-server unit - helps companies make AI models from scratch or repurpose open-source models as an alternative to licensing OpenAI's ..."
+    publishedDateTime: 2023-08-18T00:55:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-11212861.html"
     type: article
     provider:
-      name: The Information
-      domain: theinformation.com
+      name: moneycontrol.com
+      domain: moneycontrol.com
     quality: 54
     images:
-      - url: "https://tii.imgix.net/production/articles/11091/b2a6b377-9380-463e-8a5b-2a797ab9d2b0.jpg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Microsoft-770x433.jpg"
+        width: 770
+        height: 433
         isCached: true
   - title: "Artificial intelligence designs advanced materials"
     excerpt: "Artificial intelligence (AI) is playing an increasingly pivotal role in designing new alloys. Yet, the predictive power of AI models in foreseeing corrosion behaviour and suggesting optimal alloy formulas has remained elusive. Scientists of the Max-Planck ..."

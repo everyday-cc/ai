@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-in
 webUrl: "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-into-a-new-era-of-ai-innovation-with-watsonx/"
 type: article
 quality: 128
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107288359-1692300055703-ferruci.jpg?v=1692306945"
         width: 2766
         height: 1844
+        isCached: true
+  - title: "Elemental Cognition, led by IBM Watson’s former head, raises $60M"
+    excerpt: "Artificial intelligence startup Elemental Cognition Inc., founded by David Ferrucci, the former head of the team that created IBM Watson, has raised $60 million in new funding."
+    publishedDateTime: 2023-08-17T23:35:00Z
+    webUrl: "https://siliconangle.com/2023/08/17/elemental-cognition-led-ibm-watsons-former-head-raises-60m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/elementalcognition.png"
+        width: 610
+        height: 400
         isCached: true
 
 secured: "jrWKJzR3zUIwirD/ibOuH4Seia0rT5/o7xumr1rC7gcOIbJwd0udlxME2oLt0i/UFjEXKJwS2tv94uQG400FMP2E7tx/ZU8QNU4PMNIpRngc0gBjh9Fo/+sQeGOYb9Bhpph1ZWXx3SVmxIQB+rrvgiWcdtIZlaq2PJ8QQjWDhU2TzsUzKJ5WiJn8B4JA/4HJfCCYCzbtLo1NMxFEk7fobbyrJti1luAKtDIBR4TtVAyPTJ8qvM3a/gh+SziNfdcGpHRXzhpNxWr5JCUB5SB6Csz/GVwjbQcoRIdMqb/W6iXqmhEYkJQx0Wr1Il2ptmxx1LZM7rDXtZQ4lraZjEdAK5u7OhbfUUI7uxSAVs9MfsM=;ZE8sYlqqAi+nEMYN5R79Bw=="
