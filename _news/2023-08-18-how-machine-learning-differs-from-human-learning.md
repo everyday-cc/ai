@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/psychology-through-technolog
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-through-technology/202308/how-machine-learning-differs-from-human-learning?amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "New space for deep learning"
-    excerpt: "hile walking through Cape Town’s busy city centre, it is easy to catch yourself stopping to peek inside Brundyn Arts & Culture, a new space in the art world where collectors and enthusiasts are invited to connect on a deeper level."
-    publishedDateTime: 2023-08-14T03:00:00Z
-    webUrl: "https://mg.co.za/friday/2023-08-14-new-space-for-deep-learning/"
-    ampWebUrl: "https://mg.co.za/friday/2023-08-14-new-space-for-deep-learning/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/friday/2023-08-14-new-space-for-deep-learning/?amp"
+  - title: "Voice Referendum can move forward by learning from the past"
+    excerpt: "Taking into account what made past referenda successful will strengthen the Yes campaign for the Indigenous Voice to Parliament writes Joel Ma"
+    publishedDateTime: 2023-08-16T07:26:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273933341/voice-referendum-can-move-forward-by-learning-from-the-past"
     type: article
     provider:
-      name: Mail & Guardian
-      domain: mg.co.za
-    quality: 59
-    images:
-      - url: "https://mg.co.za/wp-content/uploads/2023/08/Elana-Brundyn-and-Lebohang.jpeg"
-        width: 1600
-        height: 1067
-        isCached: true
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 4
 
 secured: "Z338tjOKU4uuofRW+T1Hzs0DE0ylbkwMSOogGz+kA1T2HdR0/Eh4xxGqUy6h+Yjfux/4Ex7FhkIK5DtEOTg9F2KUq+HhOphM2RYbI8KOQ1x0iISuS2sNpp0hrV3dz1xTNcY6wKk3+5j1bYdbZ/7PqUB4whChwWJzJ6oYTdtZhYxYPD/4px5syHWDBZ+eZx7qG5+v8ikK+94BAN5ocJC2Clin/wf/YaJyABipQghCn3KIHRWeOc8HjAmBca7C3NkB4LAhKdiq1t0mlz4k8ow3n3MpfztOREqJ/7LJ1Bt9yDhLH7YS/coHduozI+d+y/VN0MN9Pg+4YNylDig0SfG2GkAUk75LHTJBkTnVQeOtuTTO0AvHJaqXPmdXoOl42vXrF53wUfWqmoRdqEUrgDgUegqrEs56+PcGUo/b8jc1hMYGQOK5wtw14bsF/oey9ywbAbOlJ8O6MqzAkoI/TuZ54bnozA+6XLC/Xn5B8sBjyF3jjXFDubpwFvR+7q+AHBgjK+dqPdlH7CkFMVWA6B54ZA==;/DgVcSU1PBJkbrIPZRlROQ=="
 ---

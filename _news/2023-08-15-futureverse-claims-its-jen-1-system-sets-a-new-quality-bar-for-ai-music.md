@@ -39,20 +39,6 @@ related:
         width: 1296
         height: 654
         isCached: true
-  - title: "AI, Metaverse Tech: Outlier Ventures Helps Launch Futureverse Base Camp Accelerator Program"
-    excerpt: "Futureverse, an AI and metaverse technology and content company, and Outlier Ventures announce launch of Futureverse Base Camp accelerator."
-    publishedDateTime: 2023-08-14T01:24:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/211326-ai-metaverse-tech-outlier-ventures-helps-launch-futureverse-base-camp-accelerator-program/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 27
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/10/You-Are-Here-Now-Today-Future.jpg"
-        width: 960
-        height: 1280
-        isCached: true
 
 secured: "Xlic80f8wZ4qf8iNtyx8QwzyulLUcUqdm2+fCURmb6awlcFKuXECixYfvirweIUjWL28bosj4fyVx4412eNUT0CFPJ7PjgtWwpffEfku/OIBGDrnp484g8BUrkt3Q4ElhvO7IWlTTDxriVzxn4V4G8TdNimm6JKYfhv/U2m7ZmJwy5lcJVvg8NYtx7nJ7NrjB/mlso2yIs3HN4IqpDFuE3m6y3g9sh7pDexDRmFktKFsxpheP8VpBJEufrDhHFHHeXENqT/34bBQphmGpVqvSt+9ErXl0DSBiTn41Hp6uOy/nMD/a4CP6iSIoG5bEih4+6+/xTIOlJ8rUA2y1D7TRydJDLrgTlRyKwL5GNOmrqPVLsJtNHVk17t4ZC0O540fyMEjof8QoXWhKFC234u4HovDqZIOXk3WORyBdewYfKhR4Vgp/7oKj7megkwfxAiaBotn0IwuecjNXBddoxvemO4BaOwtqkxJ2mvsB5B4bA4sIsxEnfIKnDFSrurjSFsiZuCTB4FD/E2tgPhv6hg38Q==;MjYD1Y0PzXUZYgkWid6g7w=="
 ---

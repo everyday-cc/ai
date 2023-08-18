@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-
 webUrl: "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it/"
 type: article
 quality: 92
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Study: Reskilling Is Inevitable As AI Changes How We Work"
+    excerpt: "Learning new skills is part of the fabric of today's technological advancement. Leaders need to make sure workers can adjust and know the reasoning behind it."
+    publishedDateTime: 2023-08-18T20:47:00Z
+    webUrl: "https://www.techrepublic.com/article/reskilling-ai-study/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/portainer-templates-deploy-full-stack-application.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The New AI Jobs, Smaller Firms Shaping Remote Work And How United Is Luring Tech Workers"
     excerpt: "The published version of Forbes' Future of Work newsletter delivers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the workforce and trends in the remote work debate to your inbox every Friday."
     publishedDateTime: 2023-08-18T17:57:00Z

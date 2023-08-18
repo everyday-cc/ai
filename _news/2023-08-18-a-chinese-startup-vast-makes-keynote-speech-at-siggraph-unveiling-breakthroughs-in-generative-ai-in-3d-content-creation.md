@@ -141,6 +141,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "China's new rules on AI-generated content"
+    excerpt: "China put into force this week its newest regulations on artificial intelligence-generated content, a watered-downed version of stricter draft rules that seek to keep the country in the AI race while maintaining firm censorship on online content."
+    publishedDateTime: 2023-08-18T21:27:00Z
+    webUrl: "https://english.ahram.org.eg/News/506790.aspx"
+    type: article
+    provider:
+      name: Hebdo Ahram
+      domain: ahram.org.eg
+    quality: 19
   - title: "AI-Powered Innovation: VAST's Vision for Democratizing 3D Content Creation Takes Center Stage as the first Chinese keynote speaker at SIGGRAPH 2023"
     excerpt: "At the SIGGRAPH 2023 conference, Yachen Song, founder of startup VAST, presented his vision for using artificial intelligence to transform 3D content creation. VAST joined industry leaders like Nvidia and Unity on stage at the 50th anniversary of SIGGRAPH,"
     publishedDateTime: 2023-08-14T21:53:00Z

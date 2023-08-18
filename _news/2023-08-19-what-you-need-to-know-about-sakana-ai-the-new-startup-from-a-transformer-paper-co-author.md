@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/what-you-need-to-know-about-sakana-ai-t
 webUrl: "https://venturebeat.com/ai/what-you-need-to-know-about-sakana-ai-the-new-startup-from-a-transformer-paper-co-author/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: VentureBeat
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "What you need to know about Sakana AI, the new startup from a Transformer paper coauthor"
+    excerpt: "Founded by former Google AI engineers, the startup is inspired by schools of fish and beehives to design collective artificial intelligence."
+    publishedDateTime: 2023-08-18T19:26:00Z
+    webUrl: "https://venturebeat.com/ai/what-you-need-to-know-about-sakana-ai-the-new-startup-from-a-transformer-paper-co-author/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_far_away_shot_dozens_of_robotic_fish_reflective_chrome__34349429-d517-475e-a777-706fc35b4630.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "What You Need To Consider Before Adding AI To Your Portfolio"
     excerpt: "At Sun Group Wealth Partners, we want to share how we explore sectors and companies before diving into AI investments."
     publishedDateTime: 2023-08-16T13:00:00Z
@@ -38,6 +52,6 @@ related:
       domain: forbes.com
     quality: 51
 
-secured: "C/WG0rx+Uq1gHvfpX4Ds9VDuUQQOV5OjnB8UNvSo7CQ2hUjGP6ICPYBLwE3wsVkkhrq3nBrsPRvKHFgbVe8X8wqoTeiN0E/cgsKOo4P13oAgnh/jWwyCochrqyPagaU0ngoTcsMXB00aYEjttZYgm56U2RBPHg7rq/ZWkAEsDgZ8q2Ih9AyF2EqUlZtTKaO0Prl4v8OS4msqpg7oUYja5DHqsW/PRCuEn5RAzG/9RKsoVwKs795w7kDmObgk5RZeGhD0ZuvY3czR03bql58LFw+ZBpc7pjUG3DbUvu1maXcQZz8OwMn4Ta5FVP5b0BW5u4XQsu6tM8eytuZfsS8DQkHQM0PRuMZh50aOo59+lF4=;57+1CsA+6ZsgT1wzwQXLcw=="
+secured: "6k5ILDuRBsAnfq+jAWtz0U+kvubfdQnSnTW9HYzjYHBJzlhTafjmOeb1chUxLeyZ8/qUiqTZRrTVuYbWb6mdqyqUP2+KMBbg+/LD92ntnWXy5t87gl0Dr+N/tNjtEWyHho6sASEkB2Eb4+AYNgxpNFOsYMn885aJka9PZ5eeooLzJnWyq7lRKkLL/qMPFv7o6dqHn5GEeWiRJrG741Qocmn3isr3K0iGs1J7HWSEkGhMto9mVwP9wfEc13gKsceu7HmL2rNljyrZ1qzYvFL+PqmHba+/XWhqmxIByiZCctBlkKk2CRS+mBA9q9APJ0lsfiuZT6zM+vV6AIL838nnR1FBjvXAfoORY4XDQmuQAV+2iyfr5LD3boGsAso3dEcMhQVvewhGgORPPQawHLOR7KI2SUgKEXBwsuyaU3gA1Sdr4QhNQZaV1mXPLLhWaLe9dXNKe3cRWi0j7DvORrrI7TUua9q0IeOu0yGjEQWvEJ+CRTRiQ9S1U9SjgMBFx3xhGQd08Jx9sp10vwRW+eXjnQ==;6k7vs34T4wUaV10Vh6viag=="
 ---
 

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "exclusive | Top Chinese EV maker BYD opts out of deal to use Baidu’s autonomous driving technology, sources say"
+    excerpt: "Baidu said during its third-quarter results in November 2022 that one of China’s largest carmakers intended to use the Apollo technology suite, calling the partnership a sign of “increasing appetite for its self-driving solutions from automakers”."
+    publishedDateTime: 2023-08-15T04:21:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3231045/top-chinese-ev-maker-byd-opts-out-deal-use-baidus-autonomous-driving-technology-sources-say"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3231045/top-chinese-ev-maker-byd-opts-out-deal-use-baidus-autonomous-driving-technology-sources-say"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3231045/top-chinese-ev-maker-byd-opts-out-deal-use-baidus-autonomous-driving-technology-sources-say"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 69
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/14/8d0c8faa-5516-4e6e-86d6-fb4767cae9e5_be05c4b5.jpg?itok=9WZuQ1Up&v=1692010100"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ExclusiveTop Chinese EV maker BYD opts out of deal to use Baidu’s autonomous driving technology, sources say"
     excerpt: "BYD had initially agreed to use Baidu’s technology, including navigation and automated valet parking, in its EVs in March 2022. The deal was then seen as a major coup for Baidu’s autonomous driving unit Apollo, which was created in 2013 in pursuit of ..."
     publishedDateTime: 2023-08-15T01:44:00Z
@@ -39,20 +55,38 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "exclusive | Top Chinese EV maker BYD opts out of deal to use Baidu’s autonomous driving technology, sources say"
-    excerpt: "Baidu said during its third-quarter results in November 2022 that one of China’s largest carmakers intended to use the Apollo technology suite, calling the partnership a sign of “increasing appetite for its self-driving solutions from automakers”."
-    publishedDateTime: 2023-08-15T00:04:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3231045/top-chinese-ev-maker-byd-opts-out-deal-use-baidus-autonomous-driving-technology-sources-say?module=lead_hero_story&pgtype=homepage"
+  - title: "Baidu and automaker Changan build computing center for intelligent driving"
+    excerpt: "Chinese tech giant Baidu and automaker Changan have reached a partnership to build a computing center that will facilitate the development of smart and"
+    publishedDateTime: 2023-08-18T08:16:00Z
+    webUrl: "https://technode.com/2023/08/18/baidu-and-automaker-changan-build-computing-center-for-intelligent-driving/"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 49
+      name: TechNode
+      domain: technode.com
+    quality: 37
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/14/8d0c8faa-5516-4e6e-86d6-fb4767cae9e5_be05c4b5.jpg?itok=9WZuQ1Up&v=1692010100"
-        width: 1200
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/08/截屏2023-08-18-上午11.18.54.png?fit=940%2C630&ssl=1"
+        width: 940
         height: 630
         isCached: true
+  - title: "BYD Shelves Plan to Use Baidu's Self-Driving Tech, May Make Own Instead, SCMP Reports"
+    excerpt: "The car maker had last year agreed to use technology from Baidu , such as navigation and ... as it doesn't see immediate applications for self-driving tech in the EV mass market, SCMP reported."
+    publishedDateTime: 2023-08-15T03:51:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/2023081414580/byd-shelves-plan-to-use-baidus-self-driving-tech-may-make-own-instead-scmp-reports"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 12
+  - title: "Top Chinese EV maker BYD opts out of deal to use Baidu’s autonomous driving technology, sources say"
+    excerpt: "The scrapping of the deal is a huge blow to Baidu’s autonomous driving ambitions, and is a reflection of the troubles facing the Chinese self-driving industry as fully autonomous driving has so ..."
+    publishedDateTime: 2023-08-15T05:32:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/08/15/top-chinese-ev-maker-byd-opts-out-of-deal-to-use-baidus-autonomous-driving-technology-sources-say"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 5
 
 secured: "/2lOZW8vlaxCjq7kmplK2DXQVihm6zX9yYTbMm5yCG64Z1bEPrhDg2qDaqxleSLNjy0U45/5w+GW5YraHkQt8wYdT7f17bAcIzmkJhs3GiIXkPIcS1yW8MB4dwj9wBnfeuWT3Ea3zMvFAIc3zmzRelnK0Noc393/eyrt2xdc3/qvG7W2/A245tD1xUX9sYG6Jtnf0U0nIRK8zsSQ9Z7qMS2aihfRhqnj5MJTuRK1Ca0wcpOJpcpmjQYHpNXycG1MhXQQP5qJ2nex2V2rbPhqrTJtupzesnxQJx1JtdebfMKlU+Nyjq7/FhxsGAc2Pzcr7GQa9abD2b0rzHeVACGxn2PiZNszreJyNSAuYRYe6yteTu38mzGza2UmkBUzRzKGRS8MCIBVkSQvjcoy3bpLJ9XtQanWSIpy99WTyQUNElgW9/yBE7fFknSGh461zcdew73yLIbC9KWVVlpcO7Y5qG1J6hVM1sQs5S4tJA6T04kr6I2lRa8qNcpSIEcZSWCRHoLZimjRmhw6hqTGtR5hJQ==;ut8jOWdjzH2M2REixTwVOQ=="
 ---

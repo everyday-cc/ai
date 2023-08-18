@@ -38,6 +38,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 92
+  - title: "Study: Reskilling Is Inevitable As AI Changes How We Work"
+    excerpt: "Learning new skills is part of the fabric of today's technological advancement. Leaders need to make sure workers can adjust and know the reasoning behind it."
+    publishedDateTime: 2023-08-18T20:47:00Z
+    webUrl: "https://www.techrepublic.com/article/reskilling-ai-study/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/portainer-templates-deploy-full-stack-application.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI is changing work – and HR leaders should change too"
     excerpt: "The rise of generative AI has surfaced many new questions about how the technology will impact the workforce. Even as AI becomes more pervasive in business, people are still a core competitive advantage."
     publishedDateTime: 2023-08-15T09:26:00Z
@@ -67,6 +81,6 @@ related:
         height: 1078
         isCached: true
 
-secured: "m12AKZKccqkyJyftA2Izpq7oPeXQcvh97ZBBjVqWMIMdvMpl2MpQ/0nGOyKEg3kYvUJykHKGbqpQ3eSO3T304iJCDD7Na8wlPhWm4dZOGq/+LYZCfUcqGyK7Ax0dNyDW/37a+pus+Sn97Zx6qFP8SyefL1EfVgwsbh5g4IAHPqsR4TrtwcvfGBb4PKOpX6VhvERIGqt2ixFNEaihnLVEmURywjbtsj0ZFm9dzh1MrEUBe5P0wHI35YlXAI3hE6P2XtUM+hqImFe2C8N6rpxVew3ddMFNSwjS0SKjwyOs9BSfw3v+2BeMOFpgXg0js2tWbiLDiwi2HkZz2YoPd38ai4qZec1h5F+wEUt4SIoBqak=;gRFlQxqUxkBH3hYj9HXF3Q=="
+secured: "51sCPmBx4QGV+iSD1CQzR9FHmu9tBo0rWEJCAdAFeGLFHpkcYk69gu8QQ8b66vcTG2hGX2ZyDLuihMbDzrioKNy7OEjX7/uKVPXGjXLuQRuvIk8s1WllJhKUhUJqddNAZd2yEtvoJ1VxENFFEQbrysh1wtm9ZJ7ims8G6B4eMcLhmCKZ9fwinz5fXoJT5L8wCa4+skY9FEHAEeOJlK52DoG+4XICINKb4TbRzNrAccfypTArS2o3vrFJTUy6p/zIQXmTEZA6qQ8Hzi4WakKbxIy61peL88PHn7UPI9NPfIxjpPGZKdpZycRVEw7uLcHZtp1e2ervK6H862DDI13N00TC4xMWd83EUtmbv3RexZ4uv/43jVeD4iF5+WggxZ0ENs4uozRAHw5+VbcHumEQenASj/AK6KgR3iax4zPJXyWQOtp3aSM62W9oocvFaTq1YPZLh0f0hUw3ke4rt0H09GSqAGQBS/xHNWbelV2i394k0Ku9iYKB3dg8AI5t8aseJtGbNtZaCHvzUO744fw9PA==;gBCNAFBfLf2CV0ZVSPalhA=="
 ---
 

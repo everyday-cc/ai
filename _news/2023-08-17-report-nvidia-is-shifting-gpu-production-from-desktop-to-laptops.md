@@ -33,6 +33,15 @@ related:
         width: 2000
         height: 999
         isCached: true
+  - title: "Nvidia generates up to 1,000% profit for each H100 GPU sold"
+    excerpt: "For every H100 GPU accelerator sold, Nvidia appears to be making a remarkable profit, with reported margins reaching 1,000 percent of production costs. Tae Kim, a"
+    publishedDateTime: 2023-08-18T17:16:00Z
+    webUrl: "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-profit-each-h100-gpu.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
   - title: "Report: Nvidia Is Raking in 1,000% Profit on Every H100 AI Accelerator"
     excerpt: "However, regarding Nvidia's H100 \"Hopper\" AI Accelerator, we finally have a ballpark estimate of what each one might cost, thanks to some financial analysts. The sticker price they've come up with for one GPU is $3,320, meaning Nvidia is pulling in roughly ..."
     publishedDateTime: 2023-08-18T15:04:00Z

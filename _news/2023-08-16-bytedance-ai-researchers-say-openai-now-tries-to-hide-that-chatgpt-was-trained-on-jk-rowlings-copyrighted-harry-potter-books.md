@@ -39,6 +39,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "OpenAI may have to wipe ChatGPT and start over"
+    excerpt: "A potential lawsuit from the New York Times could see OpenAI forced to wipe ChatGPT and start over completely."
+    publishedDateTime: 2023-08-18T21:35:00Z
+    webUrl: "https://bgr.com/tech/openai-may-have-to-wipe-chatgpt-and-start-over/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "fq0QrRoRlxeTrGxSrBrt/99zLzpRBT/peD9zue2X93RJHge4HdW55VJgP9Tr0+xmInAttE5E6kJwt8hUchfquB8JXemjtC5ZZq7BYSJJqCKeRFyJVYZnbXTg5V8PHsTmbFlBAXfa6xSaH8MQ9v3blDdpVeXgYV2t4f6umPeY0nKhuWAM1FIp2jwrtE8+KlP9SXKhhDxVwEMym3FhCWIZXTCjf5vA+eE5MV/6wID7/TCjYUy+14WOqjvWHQxxQAfi2hp0NCr6KgBlAMbpCqkI5ecp32nQKXcrho3ej5JTw76e6Bye4TsUiu6x43YlQzPdwiKsoMMrc5dE7kjhbcJodRrhpEEi4h7Cy72wZJIJufRyKauel7G9k5ft4Eq78lv1Gewxac9diAU8miSkjWlRC9HZqtwIqqYdW4C3tqbtwiFZECOnRMh3wBbo0MxIgcqJT+8KxxkbTKORaI31Jj2kQouw/UwthyGI0a0bgshjVoq/96bYGKrRQPeVD7XVwQcSEDsOZnc49UoUTcHrocZE/Q==;BfOpZLY7BD5qxmTzaQu6kw=="
 ---

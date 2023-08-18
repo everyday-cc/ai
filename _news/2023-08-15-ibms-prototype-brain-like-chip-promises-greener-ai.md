@@ -55,20 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "IBM’s “Brain-Like” Chip Breakthrough to Transform AI Energy Efficiency"
-    excerpt: "IBM has introduced a \"brain-like\" chip prototype that'll reduce battery consumption, leading to greener AI developments."
-    publishedDateTime: 2023-08-14T02:19:00Z
-    webUrl: "https://techreport.com/news/ibm-brain-like-chip-breakthrough-to-transform-ai-energy-efficiency/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/08/shutterstock_1092369068.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "IBM Has Revealed an Analogue AI Chip Prototype That’s More Energy Efficient Than Contemporary GPUs, All We Know"
     excerpt: "IBM has developed a prototype of an analog AI chip that “has been tested to be as adept at computer vision AI tasks as digital counterparts” like GPU. And at that, it is much more energy efficient. In process, it uses a combination of analog in-memory ..."
     publishedDateTime: 2023-08-18T08:25:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://it-online.co.za/2023/08/16/open-banking-ai-expected-to-dri
 webUrl: "https://it-online.co.za/2023/08/16/open-banking-ai-expected-to-drive-credit-scoring-market/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Bing's search market share fails to budge despite big AI push"
+    excerpt: "Though Microsoft has been touting the benefits of its Bing AI, the company's share of searches is still stuck at around 3%, according to the latest stats."
+    publishedDateTime: 2023-08-18T19:42:00Z
+    webUrl: "https://www.zdnet.com/article/bings-search-market-share-fails-to-budge-despite-ai-push/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "F5ap+DUT74f4gM3QAv4rNJywN5oQcfDw06OsyrOgCtuddnoRWb93SkpQkS/iPtymmYYXiayN6ZM3NizGUB2MkozLP2Z7b2X+DBuK/4vQGykAyP1V5/gxdL2zHOZzlrH/AdvuKErARSWT9wAlFoEaOM8NqXU6sPELEuse/erwgDv91btu0mEEq1zQn4nohbopYvpxZwZWhZsU5d2kc1BtSaJV+mIZ0VEr6Bc5KGZsFLEfKQQDBgnFNr+3SyAFon8eN3Iz+J44d1al+MovPyfwEWsGe/T0LbfDDxQlyYVwZvXiHcMj0BOqjVT1iU7oSniwCHr0mbqjIjEZsJAqyT1Ed7oMTjhGZrDam+yU0XJ3kgA=;0enX6SbG/TWxdkAzUMLQKQ=="
 ---

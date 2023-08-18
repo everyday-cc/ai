@@ -184,6 +184,15 @@ related:
       name: Rochester Business Journal
       domain: rbj.net
     quality: 34
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "ARMONK, N.Y., Aug. 17, 2023 /PRNewswire/ -- Today, IBM (NYSE: IBM) is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI - and deliver a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
+    publishedDateTime: 2023-08-18T18:52:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341165&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
   - title: "Local teens share how they're using artificial intelligence in school and beyond"
     excerpt: "Junior at Ypsilanti Community High School, Ariana Perez showed us her favorite artificial intelligence app, Character.ai. The A.I. is full of different character bots that users can interact with."
     publishedDateTime: 2023-08-17T18:39:00Z

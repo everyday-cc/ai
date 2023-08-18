@@ -33,6 +33,15 @@ related:
         width: 2000
         height: 999
         isCached: true
+  - title: "Nvidia generates up to 1,000% profit for each H100 GPU sold"
+    excerpt: "For every H100 GPU accelerator sold, Nvidia appears to be making a remarkable profit, with reported margins reaching 1,000 percent of production costs. Tae Kim, a"
+    publishedDateTime: 2023-08-18T17:16:00Z
+    webUrl: "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-profit-each-h100-gpu.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
   - title: "Report: Nvidia Is Shifting GPU Production From Desktop to Laptops"
     excerpt: "The report from the site Mydrivers states that Nvidia is currently attempting to meet the needs of laptop manufacturers by giving them more mobile GPUs. However, to do so, it must reduce the production of its desktop cards,"
     publishedDateTime: 2023-08-16T18:35:00Z

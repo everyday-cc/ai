@@ -41,38 +41,6 @@ related:
         width: 345
         height: 230
         isCached: true
-  - title: "1,000 Face Recognition Camera, Kite Catchers, Installed In Delhi Ahead Of Independence Day Celebration"
-    excerpt: "The Delhi Traffic Police on Sunday issued a traffic advisory for vehicular movement in Delhi on Tuesday as Prime Minister Narendra Modi would address the nation from the Red Fort."
-    publishedDateTime: 2023-08-14T02:54:00Z
-    webUrl: "https://www.outlookindia.com/national/1-000-face-recognition-camera-kite-catchers-installed-in-delhi-ahead-of-independence-day-celebration-news-310531"
-    ampWebUrl: "https://www.outlookindia.com/national/1-000-face-recognition-camera-kite-catchers-installed-in-delhi-ahead-of-independence-day-celebration-news-310531/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/1-000-face-recognition-camera-kite-catchers-installed-in-delhi-ahead-of-independence-day-celebration-news-310531/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 43
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1691921231.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Independence Day 2023: Over 10,000 cops, 1,000 facial recognition cameras, anti-drone systems in place at Red Fort"
-    excerpt: "He added that around 1,000 cameras with facial recognition and video analytic systems have also ... The Independence Day celebrations will be led by Prime Minister Modi, who will deliver a speech from the Red Fort. He is also expected to inspect a Guard ..."
-    publishedDateTime: 2023-08-14T05:03:00Z
-    webUrl: "https://www.livemint.com/news/india/independence-day-2023-over-10-000-cops-1-000-facial-recognition-cameras-anti-drone-systems-in-place-at-red-fort-11691986233508.html"
-    ampWebUrl: "https://www.livemint.com/news/india/independence-day-2023-over-10-000-cops-1-000-facial-recognition-cameras-anti-drone-systems-in-place-at-red-fort/amp-11691986233508.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/independence-day-2023-over-10-000-cops-1-000-facial-recognition-cameras-anti-drone-systems-in-place-at-red-fort/amp-11691986233508.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 39
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/14/600x338/Red-fort-Security-8_1691974651529_1691989003287.jpg"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "o3i3eNSufd8/MWgpBjYyP9w1LdK8Pvpe+sW/tshEtWPdqC0IJDcfkpkdTqt22nujSwMJ6HiGKYGRXGUBB/2fvEJSrJIYYDMfJzLcsU+N3EwaAqyyGDdXznSxSH49O1al0TKHgZ1poMaEIR/MeclW5VgW22u2aqcPlntYlwS7Av6B5QGfbg86fI8COxhXc8h46ok67XvT6f9gRFrgmjJ919DTnSMvZN5poNCpefv//9856gmb0WXKFH9f5Ua0eCGsYa7um/rTuVQED3/WU/he8VofRnDCd9MHQ1J7U7dNlQJeY7D+dAJJ/vmbR1hDQ2oUEOF95RSxGmB8y+Hrbbsgunh98l12KBC0NWdafDVG7GA=;K6ZC1AQ/SiStxAOAb9aN4w=="
 ---

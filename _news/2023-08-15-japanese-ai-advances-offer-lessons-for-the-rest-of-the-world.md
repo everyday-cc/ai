@@ -57,7 +57,12 @@ related:
     provider:
       name: The National Law Review
       domain: natlawreview.com
-    quality: 21
+    quality: 43
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/employee%20professionals%20diverse%20employee%20recognition%20law%20office_800_0.jpg?itok=b-StdeZn"
+        width: 500
+        height: 334
+        isCached: true
 
 secured: "zWSVNE05FqINRTkuKAtGxhR2f9KhAposFV68UBpOYLEe+3iQ9tufVzysRAzMaYKT46YezXS//bnyaDFtyR3PRG6qIw1+M+LiMltLiBC+1/MIk12gR1UjZs8yJvuSp7d+imfORny9SSmoUeDEJ9LTZD7Rdvn+lXIHJFEZpcp2QhNTiTDcHe+CL+UhDtvfspqNQQvA7O+yd9nvUIxcff92MmQiZesB0Tt5fhepKyjmMq8s7x8wyW3CNFwuZItseScLVDH4te403p9TRCenL6x+qVaZ4yHt9cfpyk3VXeErRuu8FrWVdJRslCdlHGtsO9m+3m1Y7KDWha2N6//0nU051qKSKasEj0C0qQfMja4VsJs=;kqMqSJsXIeMk52iTl3fiBw=="
 ---

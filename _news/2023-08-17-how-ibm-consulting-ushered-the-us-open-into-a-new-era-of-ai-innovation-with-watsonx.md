@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-in
 webUrl: "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-into-a-new-era-of-ai-innovation-with-watsonx/"
 type: article
 quality: 128
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
         width: 1160
         height: 774
         isCached: true
+  - title: "Ibm Watson Creator Raises $60M For Elemental Cognition Ai"
+    excerpt: "David Ferrucci, the artificial intelligence (ai) researcher who oversaw the development of IBM Watson, the question-answering supercomputer created"
+    publishedDateTime: 2023-08-18T19:24:00Z
+    webUrl: "https://menafn.com/1106887438/Ibm-Watson-Creator-Raises-60M-For-Elemental-Cognition-Ai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
 
 secured: "jrWKJzR3zUIwirD/ibOuH4Seia0rT5/o7xumr1rC7gcOIbJwd0udlxME2oLt0i/UFjEXKJwS2tv94uQG400FMP2E7tx/ZU8QNU4PMNIpRngc0gBjh9Fo/+sQeGOYb9Bhpph1ZWXx3SVmxIQB+rrvgiWcdtIZlaq2PJ8QQjWDhU2TzsUzKJ5WiJn8B4JA/4HJfCCYCzbtLo1NMxFEk7fobbyrJti1luAKtDIBR4TtVAyPTJ8qvM3a/gh+SziNfdcGpHRXzhpNxWr5JCUB5SB6Csz/GVwjbQcoRIdMqb/W6iXqmhEYkJQx0Wr1Il2ptmxx1LZM7rDXtZQ4lraZjEdAK5u7OhbfUUI7uxSAVs9MfsM=;ZE8sYlqqAi+nEMYN5R79Bw=="
 ---

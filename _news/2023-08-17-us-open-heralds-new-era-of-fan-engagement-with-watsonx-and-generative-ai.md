@@ -113,6 +113,15 @@ related:
         width: 1160
         height: 774
         isCached: true
+  - title: "Ibm Watson Creator Raises $60M For Elemental Cognition Ai"
+    excerpt: "David Ferrucci, the artificial intelligence (ai) researcher who oversaw the development of IBM Watson, the question-answering supercomputer created"
+    publishedDateTime: 2023-08-18T19:24:00Z
+    webUrl: "https://menafn.com/1106887438/Ibm-Watson-Creator-Raises-60M-For-Elemental-Cognition-Ai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
 
 secured: "5r0MtkFDNgQNO+1XDMlB9T0nhp7L2JHEvdZsjgOZBkpnmoiGWcGhcB9p0s/QApufMDtYRC87pTuWBYrgokP7L2J1hv3WhjFpf22V5BExz5Ceceq0951BZ3CyQHtrFaAC7gvGcO51KM9Df+5U//FEFPwe2ZjNLIjr+fKFDlde2ypsRs46NKEO3VxukkNpL3d2j8iySOaeC3FAEJEAQFc2AWW8Wqx7FfYp8G53C8ESYNRTxdP0eaTyp1STsaKY67lZPR6CC/dg0wWTT0VIUVrbo7VQMfP5YIjjtQI/dOjTzzvy7JfNJSgLf8bfi5TNutN6nnsPTJ0nIO8kTv5iQXx/QJWsNBNj/cPsspDbavWp8PA=;rNkKohSRuxTh2nkjdcw7BQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.techzine.eu/news/devices/110080/will-ibms-analog-chip-
 webUrl: "https://www.techzine.eu/news/devices/110080/will-ibms-analog-chip-take-the-ai-world-by-storm/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 917
     height: 500
     isCached: true
+
+related:
+  - title: "40% of workers will have to reskill in the next three years due to AI, says IBM study"
+    excerpt: "The executives surveyed estimated that 40% of their workforce will have to reskill in the next three years due to AI implementation, totaling up to a whopping 1.4 billion of the 3.4 billion people in the global workforce, according to World Bank statistics."
+    publishedDateTime: 2023-08-18T21:13:00Z
+    webUrl: "https://www.zdnet.com/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/3d7c813c787c6081b091eed0d6514354aafcfa36/2023/08/18/5faf4966-981f-4cdc-acb3-b3d147b312cf/gettyimages-1247666158.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "U2mAL8S3wJ++Sn4c4UIJOD5cMX+q6ySjLVgWxhA1GwuJvyqUYxT5lHmMQEj5blc9k/rI17abw43vou2cJHok7BEldQrWrpUYlFGAIKITOwqq4qJ9Ll/eODoRHs+zKHRFeyEu/2SVz/CVdrHwjeHDtJgn2foATbG4erkUQUx/q8LjVKm+bmK6Fq/V9Se/FYuVqhQgj8kd71QVl64G7W1LO4sw553TfSGIsv33fyFwgea5nOmiV8+HZ2UGksvCcaNH5Qa5mhDlTjkdnrMvgTU+Fpl5n9GdzliUML8Nj8TPRHVlaLuCQWQu7mUDYututBs+LzcQN1ZjYh3MVyHcdG506dlprJqClzbS327JyfegVancMBhX3lz63A1PEZbVa+ya/ZEmgy8rO7N+INolEABAbY6Xp1kddMHF8nKFTQRGnUOvZAABEvUDhJXC2yBDbZraWD/c02wfBKJAvnCBbGus3cGhIi5Ey5mUYXcdkUR4k4gJEbNGSLU3jLZ+qcSKoir8TtUZDUVXHCEJizmeRQBiXg==;YZOthWiuB2GT9uA390as6w=="
 ---

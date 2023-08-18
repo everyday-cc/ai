@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-
 ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64dfa03f860bd114f10c8dfd/0x0.jpg?format=jpg&width=1200"
@@ -54,6 +55,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "BglXeMC8cSPS/dJ1tvQHx2tDV22s90wiWi1T6PsIbpRKvFmHa3oNmMSDqgP5RZUqbGFL7Bue4CHfXln3t/4yiJ35RVYvRfsujKEq35QVI4R+uhowwKgadnGrTseng8QyJ1ADZDMCKayrFpM10TO7PbiLb3nUIhaY2795gMgsBp2LGc1pdFtdZ1fSBrQ7REVV/vZ/x81UWCx2NzNgtYAluA0R8S1f2aCjRTA+WcfasSwP9dWCuPlk/TaAflsWAp/swXevHxyrlL52hk6DJWK5zvJ3EuTt5QE/7tsUpQIYMhD3zUwf/gApryIHCR4JgQQIYFUQiC8fqcNyyyrfQHHzK4ZBkNFRSfYEQmwd54Nr9LQ=;iEC0jKgDxni/54x+SgKSqw=="
+secured: "oQkqfmR024cReP4+kxnLDaS6ZuAHxuY8BOwh7JHXSpIC3wmX8e8Rk8V7AYuukO6lqAlhyITv1DqLbuKLGBV0sbwupOY49ULvM63pn+IUR/RDox+gGA/HX1t3rdAGdIi5Mx7m+eS15gWFWK49LTgukNtN0VqQR7pm+2uPfSrQk/uQpaF6AH3V96SfJC823/AKMXJV9dnaGKcPLCatCnQXNOt7Byl2WY9moI6KdIzElv11MtiDJ3/osa8Km7SdpiMlhyd4xejsqRlDzX7s2efWWUcN5SIuA16mrvCL/exzt5Rym6i3hVhw0vNwejB9x1m3BOwOmjD4MhnBJmj45O09uxTd+I71Kbm9NJogXfnVGOxdwj6oCj7eFlhv9bVch7pLApFemDPZqNupEuy7wRr1egy/NeNTB2H5SIx86uVim6oA4jmkJ6hNBuV/v2Muk0mUcIGUq5wKk62oLCF47+OXd6pIfsxpy62e9G+1RcLBuAr0em0yVcij/sJI3EhKIKUB7ckqLf1ZTd2k+9Tk97gPbw==;TUOgVBoRj7huff/elNKdnQ=="
 ---
 

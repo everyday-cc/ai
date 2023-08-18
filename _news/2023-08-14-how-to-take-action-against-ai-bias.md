@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3704495/how-to-take-action-against
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html"
 type: article
 quality: 87
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -107,34 +107,6 @@ related:
       - url: "https://businessjournaldaily.com/wp-content/uploads/2023/08/artificial-intelligence.png"
         width: 925
         height: 520
-        isCached: true
-  - title: "Amazon's On-Demand AI: Path To Adoption Through AI-As-A-Service"
-    excerpt: "Amazon's AWS AI offerings, along with Microsoft's Azure AI, IBM's Watsonx, and Google's Vertex AI, are leading the competition in the AIaaS/MLaaS market. AWS AI has the potential to capture a ..."
-    publishedDateTime: 2023-08-15T09:43:00Z
-    webUrl: "https://seekingalpha.com/article/4628157-amazons-on-demand-ai-path-to-adoption-through-ai-as-a-service"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1480912336/image_1480912336.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 827
-        isCached: true
-  - title: "How to Prevent an AI Catastrophe"
-    excerpt: "Unfortunately, the researchers quickly discovered that their AI tool would synthesize chemicals far more dangerous than Advil. The program was happy to craft instruction to produce a World War I–era chemical weapon and a common date-rape drug."
-    publishedDateTime: 2023-08-14T04:52:00Z
-    webUrl: "https://www.foreignaffairs.com/world/how-prevent-ai-catastrophe-artificial-intelligence"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/08/11/RTSL4H92.JPG?itok=-vHGIUKv"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Evidence of AI bias mounts"
     excerpt: "Another study has identified distinct political bias in one of the major large language models used to inform generative AI chatbots."

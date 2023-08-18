@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
 webUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
 type: article
 quality: 75
-heat: 109
+heat: 105
 published: true
 
 provider:
@@ -56,7 +56,12 @@ related:
     provider:
       name: The National Law Review
       domain: natlawreview.com
-    quality: 21
+    quality: 43
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/employee%20professionals%20diverse%20employee%20recognition%20law%20office_800_0.jpg?itok=b-StdeZn"
+        width: 500
+        height: 334
+        isCached: true
   - title: "Japanese AI Advances Offer Lessons for the Rest of the World"
     excerpt: "Countries around the world should take notes from Japan's forward-looking AI approach, which balances innovation, rationality, and regulation."
     publishedDateTime: 2023-08-15T10:00:00Z

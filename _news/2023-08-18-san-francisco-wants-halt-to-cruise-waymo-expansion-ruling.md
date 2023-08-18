@@ -51,6 +51,22 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Cruise self-driving car, San Francisco fire truck collide"
+    excerpt: "SAN FRANCISCO - A passenger in a driverless Cruise vehicle suffered injuries on Thursday after the vehicle was struck by a San Francisco fire truck that was responding to an emergency call. The collision took place at 10:23 p.m. at the intersection of Turk ..."
+    publishedDateTime: 2023-08-18T20:12:00Z
+    webUrl: "https://www.ktvu.com/news/cruise-robotaxi-with-passenger-crashes-into-san-francisco-fire-truck"
+    ampWebUrl: "https://www.ktvu.com/news/cruise-robotaxi-with-passenger-crashes-into-san-francisco-fire-truck.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/cruise-robotaxi-with-passenger-crashes-into-san-francisco-fire-truck.amp"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 44
+    images:
+      - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/08/932/470/cruise-cars.png?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Driverless vehicles on our roads?"
     excerpt: "The real test of driverless vehicles will be when they are ready to cruise along India’s Wild West roads. As one industrialist says: When they’re ready to do that, the AI-created future will truly be upon us."
     publishedDateTime: 2023-08-15T15:09:00Z
@@ -76,20 +92,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Stalled self-driving taxis clog streets of San Francisco"
-    excerpt: "Just days after robotaxis were given the go ahead to begin charging passengers for rides in San Francisco, residents found nearly a dozen of the self-driving vehicles stalled, clogging the streets and causing a massive traffic jam."
-    publishedDateTime: 2023-08-14T01:50:00Z
-    webUrl: "https://www.cbsnews.com/losangeles/video/stalled-self-driving-taxis-clog-streets-of-san-francisco/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 24
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/14/18e064fe-b8dc-4c78-b819-807eccaf0548/thumbnail/1200x630/85dffd0e0d63df7b71cbb327d4b7ea84/d48fef9e54bea894e61daec900cef2db.jpg?v=08aa43fa812a9e12e93282c47f58b17f"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Driverless cars may struggle to spot children and dark-skinned people"
     excerpt: "Driverless cars may be worse at detecting children and people with darker skin, tests on artificial intelligence systems suggest. The researchers who carried out the work say that tighter government regulation is needed and that car-makers must be ..."
     publishedDateTime: 2023-08-17T13:01:00Z
@@ -108,6 +110,20 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
+  - title: "Cruise self-driving vehicles involved in 2 San Francisco crashes, including 1 with city fire truck"
+    excerpt: "A self-driving vehicle operated by General Motors subsidiary Cruise was involved in a collision with a San Francisco Fire Department truck Thursday night at an intersection. See more newsletter options at autonews.com/newsletters. You can unsubscribe at any time through links in these emails. For more information, see our Privacy Policy."
+    publishedDateTime: 2023-08-18T19:39:00Z
+    webUrl: "https://www.autonews.com/mobility-report/2-cruise-self-driving-vehicles-involved-san-francisco-crashes"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 10
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/CruiseNightRidehail-MAIN_i.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cruise self-driving cars stall in San Francisco"
     excerpt: "A fleet of Cruise self-driving cars stalled in San Francisco, causing a traffic jam and raising safety concerns about the technology. Videos posted on social media showed at least 10 Cruise cars stopped in the city’s North Beach neighbourhood ..."
     publishedDateTime: 2023-08-18T12:45:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3231045/top-chinese-ev-
 webUrl: "https://www.scmp.com/tech/big-tech/article/3231045/top-chinese-ev-maker-byd-opts-out-deal-use-baidus-autonomous-driving-technology-sources-say?module=more_top_stories_hk&pgtype=homepage"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: scmp.com
@@ -31,13 +31,15 @@ images:
 related:
   - title: "exclusive | Top Chinese EV maker BYD opts out of deal to use Baidu’s autonomous driving technology, sources say"
     excerpt: "Baidu said during its third-quarter results in November 2022 that one of China’s largest carmakers intended to use the Apollo technology suite, calling the partnership a sign of “increasing appetite for its self-driving solutions from automakers”."
-    publishedDateTime: 2023-08-15T00:04:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3231045/top-chinese-ev-maker-byd-opts-out-deal-use-baidus-autonomous-driving-technology-sources-say?module=lead_hero_story&pgtype=homepage"
+    publishedDateTime: 2023-08-15T04:21:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3231045/top-chinese-ev-maker-byd-opts-out-deal-use-baidus-autonomous-driving-technology-sources-say"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3231045/top-chinese-ev-maker-byd-opts-out-deal-use-baidus-autonomous-driving-technology-sources-say"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3231045/top-chinese-ev-maker-byd-opts-out-deal-use-baidus-autonomous-driving-technology-sources-say"
     type: article
     provider:
       name: scmp.com
       domain: scmp.com
-    quality: 49
+    quality: 69
     images:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/14/8d0c8faa-5516-4e6e-86d6-fb4767cae9e5_be05c4b5.jpg?itok=9WZuQ1Up&v=1692010100"
         width: 1200
@@ -57,6 +59,38 @@ related:
         width: 2000
         height: 914
         isCached: true
+  - title: "Baidu and automaker Changan build computing center for intelligent driving"
+    excerpt: "Chinese tech giant Baidu and automaker Changan have reached a partnership to build a computing center that will facilitate the development of smart and"
+    publishedDateTime: 2023-08-18T08:16:00Z
+    webUrl: "https://technode.com/2023/08/18/baidu-and-automaker-changan-build-computing-center-for-intelligent-driving/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/08/截屏2023-08-18-上午11.18.54.png?fit=940%2C630&ssl=1"
+        width: 940
+        height: 630
+        isCached: true
+  - title: "BYD Shelves Plan to Use Baidu's Self-Driving Tech, May Make Own Instead, SCMP Reports"
+    excerpt: "The car maker had last year agreed to use technology from Baidu , such as navigation and ... as it doesn't see immediate applications for self-driving tech in the EV mass market, SCMP reported."
+    publishedDateTime: 2023-08-15T03:51:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/2023081414580/byd-shelves-plan-to-use-baidus-self-driving-tech-may-make-own-instead-scmp-reports"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 12
+  - title: "Top Chinese EV maker BYD opts out of deal to use Baidu’s autonomous driving technology, sources say"
+    excerpt: "The scrapping of the deal is a huge blow to Baidu’s autonomous driving ambitions, and is a reflection of the troubles facing the Chinese self-driving industry as fully autonomous driving has so ..."
+    publishedDateTime: 2023-08-15T05:32:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/08/15/top-chinese-ev-maker-byd-opts-out-of-deal-to-use-baidus-autonomous-driving-technology-sources-say"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 5
 
 secured: "SNSGTBgbX+L1ISWxKvPScMIqHJIfNqEe0USGwFVdn08U+CXiSZfeJX3sksCj+wQ2GGBQfNDPblDjSdkB7RNRS1Rg00qrm3KUbg8rIXdort83iOZI53U0tdd3qP5EP8ttLwhld4WrVqXxKj5S5j+EARLYIBBq4g0cLdaMHjdDHjTKznSv23JUm+AuPiJ6cCcp5Z/U3M/9wBquKse9cWJ0bbXpHofXiow4MTgQGZsFRpN6J8gVQIxa5lVIkCW+fiWfNnGMdWm4mROPmFz9VpwZA+ZR8/AcuzT6csUbhIadTGHcglNSs1TDT7dPqjMpHnIr1Nmn7gCc33WJ5VB0zrHZIeBuWlqwOUjATsEmjGBekQ8=;udVWDv5Ind0GNaktwuzcNg=="
 ---

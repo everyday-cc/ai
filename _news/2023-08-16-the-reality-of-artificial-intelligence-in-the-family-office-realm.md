@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-15T19:17:00Z
 originalUrl: "https://www.natlawreview.com/article/reality-artificial-intelligence-family-office-realm"
 webUrl: "https://www.natlawreview.com/article/reality-artificial-intelligence-family-office-realm"
 type: article
-quality: 21
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,13 @@ topics:
   - AI in Healthcare
   - AI
   - AI Ethics
+  - AI in Autos
+
+images:
+  - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/employee%20professionals%20diverse%20employee%20recognition%20law%20office_800_0.jpg?itok=b-StdeZn"
+    width: 500
+    height: 334
+    isCached: true
 
 related:
   - title: "The World Isn’t Ready for the Next Decade of AI"
