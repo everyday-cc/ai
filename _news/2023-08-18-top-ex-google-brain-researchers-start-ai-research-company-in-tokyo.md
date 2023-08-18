@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Top ex-Google Brain researchers start AI research company in Tokyo"
-excerpt: "Two prominent former Google researchers, one of whom was a co-inventor of the “transformer” artificial intelligence architecture that paved the way for the generative AI boom, announced on Thursday they had started a new AI company based in Tokyo."
-publishedDateTime: 2023-08-18T03:35:00Z
-originalUrl: "https://www.channelnewsasia.com/business/top-ex-google-brain-researchers-start-ai-research-company-tokyo-3706161"
-webUrl: "https://www.channelnewsasia.com/business/top-ex-google-brain-researchers-start-ai-research-company-tokyo-3706161"
+excerpt: "Two prominent former Google researchers, one of whom was a co-inventor of the “transformer” artificial intelligence architecture that paved the way for the generative AI boom, announced on Thursday they had started a new AI company based in Tokyo. Sakana AI, founded by David Ha and Llion Jones, declined to disclose funding details."
+publishedDateTime: 2023-08-18T04:53:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/top-ex-google-brain-researchers-start-ai-research-company-tokyo/article67208373.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/top-ex-google-brain-researchers-start-ai-research-company-tokyo/article67208373.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/top-ex-google-brain-researchers-start-ai-research-company-tokyo/article67208373.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/top-ex-google-brain-researchers-start-ai-research-company-tokyo/article67208373.ece/amp/"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+  - url: "https://th-i.thgim.com/public/incoming/z3ma6z/article67208376.ece/alternates/FREE_1200/2023-08-15T020120Z_115942364_RC21P1A29WK3_RTRMADP_3_NORWAY-SWF-TECH-AI.JPG"
     width: 1200
-    height: 676
+    height: 799
     isCached: true
 
 related:
@@ -38,15 +40,6 @@ related:
         width: 1032
         height: 580
         isCached: true
-  - title: "AI translation tools helps tourist in Tokyo"
-    excerpt: "A train station in Japan has launched an AI-operated live translation wall to help tourists passing through Tokyo. The special screen can instantly translate a conversation between the ticket agent and the buyer in multiple languages."
-    publishedDateTime: 2023-08-13T12:11:00Z
-    webUrl: "https://www.theaustralian.com.au/news/ai-translation-tools-helps-tourist-in-tokyo/video/9c3503cf2825b7a03fcd7a6ead627850"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
   - title: "Top ex-Google Brain researchers start AI research company in Tokyo"
     excerpt: "TWO prominent former Google researchers, one of whom was a co-inventor of the “transformer” artificial intelligence architecture that paved the way for the generative AI boom, announced on Thursday (Aug 18) they had started a new AI company based in Tokyo."
     publishedDateTime: 2023-08-17T16:20:00Z
@@ -57,6 +50,6 @@ related:
       domain: businesstimes.com.sg
     quality: 17
 
-secured: "nvmABUSBqjAz2dnGv/Rw2LWKLJacSgbyqGIfMrhnCfIldjnO5BZjNVJ+O/RIqEWBzr26EQYXjCIvK9eChQT4iKxfh9p5xh2W33Ow3KI2ISWDshMYdqyvdxWjOniJvJzuizphBwZtRI6mcnlbW0ERzlgr4kdsg/ixDzXsseEGrLK5eHG+4d9CTQv0llgEVmgzWx0mmGUVz06A1gz3aJDbe2mHHAMhMZ+5v5jD1TyAtZarqTiKSUlZX7N2/Ksk+VEaaSm/BiW5UuMuMD2i1SiMku2R/v/8u34owknObCjLNMytZ1i8u5F8wlKdUq6YVx1eA5rsiNUv15O9t2TJAFdasEx38Xye1K3ZZM9G51cBtoo=;t1DWS5Hwm+LWNwzvVCb44w=="
+secured: "u9T6F2e22Ylo29dIZjtmkZYEAVYbrPWgw4bASDy9Z2qec3GsOxLoa2mEPpexY5PvSj++kK9rfylUk9RRexb7bH2Bd4N+MgewYpBnuHPf8tX7w15A1FAPIsOtIny10/nA6QdGPaykuhExrNBRF447UpPXY9XXMEaj51r+2vF+6YSgyonOoSy4Psw1pzEL56niwz9Bpb9LxiazTvdb490wI1hOiHNHd8AMX3/Syur7Ou+UIm24CSJrAUNBioJqBX7LSPqKbjs9UG7ACKtDagatbNHl06oNETMRyq19XdBBt3uT51GxfoVTXbnYssU1tgLxsEWS+dQICdkj1xZ57ZtnZZ/qi/vEVjUuO8+HHp855N8=;pDZF+JkHkdD/Mk8SKIknFg=="
 ---
 

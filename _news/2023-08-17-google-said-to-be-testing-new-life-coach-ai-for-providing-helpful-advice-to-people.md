@@ -82,15 +82,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "Google DeepMind Alumni Shine As Startup Founders"
-    excerpt: "A large number of Google DeepMind employees have moved on to start their own businesses, with the majority of them operating in the AI space"
-    publishedDateTime: 2023-08-13T11:36:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepmind-alumni-shine-as-startup-founders/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "06VUjQUhZkFnXgQLTfgsgqx82/jPdo2dz/11p8jc/n6kS6vwoDZ/1SQ8LEoDR6LI0ZDcXmdNRngFT0gwzcIIA4aOzdD44iC8qa69iYzN3znibHIp+CvSn272PA4/VpnWfh+1QJQU9VJ4vfZXaOGpkTiT34bGNCd2VoJ/V3g8PWEtOdqg21Yj1x1I61derW2+6ZVBIDksGFddWIvr/t+aYRFuHO4hByTH3eO0vaClxDv3yHWW4vbWT7mCq6f+t0+3GalGRaV92tkHqnUtvzQ5Qcav9oGK3lEhcsyib2wwCH+p66ByYjXWHMa/gRHQjr44otJja3U8F2x79ClC5N4qeDpF70fXsaEMzK4cEusxR/k=;vH/xDeGMIxNyQqDXOqriaQ=="
 ---

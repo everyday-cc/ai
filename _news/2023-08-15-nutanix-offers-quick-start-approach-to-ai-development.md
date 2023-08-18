@@ -33,6 +33,20 @@ related:
         width: 1893
         height: 767
         isCached: true
+  - title: "Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
+    excerpt: "Key contributions include: participation in the MLCommons (AI standards) advisory board; co-founding and technical leadership in defining the ML Storage Benchmarks and Medicine Benchmarks; serving as a co-chair of the Kubeflow (MLOps) Training and AutoML ..."
+    publishedDateTime: 2023-08-18T05:39:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/nutanix-simplifies-adoption-of-generative-ai-with-new-nutanix-gpt-in-a-box-solution/102822278"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 33
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102822278,imgsize-13580,width-1200,height=765,overlay-etcio/corporate-news/nutanix-simplifies-adoption-of-generative-ai-with-new-nutanix-gpt-in-a-box-solution.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Nutanix targets Generative AI newcomer market with Nutanix GPT-in-a-Box"
     excerpt: "The new offering adds an Opinionated AI stack and related services to Nutanix’s infrastructure and storage stacks, and the company believes it will find a good reception from the SMB to the"
     publishedDateTime: 2023-08-15T13:00:00Z

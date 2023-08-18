@@ -78,15 +78,6 @@ related:
         width: 1070
         height: 580
         isCached: true
-  - title: "Google DeepMind Alumni Shine As Startup Founders"
-    excerpt: "A large number of Google DeepMind employees have moved on to start their own businesses, with the majority of them operating in the AI space"
-    publishedDateTime: 2023-08-13T11:36:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepmind-alumni-shine-as-startup-founders/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "ez6fxxg9JiFxWQuxSCeV7uhh6UrttBR+olSNauUFTNiZ88DNsGySUcVuSO5a5T/6Eh0zGAIMfvC4TjPH3qcEKk7oIdkDDcSFx+y3giL2QUDVAMPslECt6P2dr4oA8kukMykvrq2n54bSfpW5/Ynls3ppXqeeiMq+xvmthJiRhetrG1ywT8PB0Jb04fvmqIkRVCNHlHi19bShmwgvXp82Km+dg04uWL8f7XUBHzJNFg88QYZ/PVzZn/G6BnzSwNk8CAGhuREDnDtFcr/Ff2Cij96sOb9/6uL074aO2N2WjZPNHPYwrjinhlsvYnOjPQmGFroJG+LRlbAm6S3mCSXnM7pFvsdsp/WJO9R9zCywKKr8HKm19Ea0LcSCjOynxdJviaYzrrZQo/OgGUILFM3Fgym86kwp/HKzWlU1xY35wlfvUcpqoWiuUDF9p/j2kzCGx7X1xWF+uStrCPESEj3XurGBFytJ6NouKxLPNS3ZVTAOXT2wU0pApBHkJL8Oc8fIBAEmTnqy8jx6P2Hm5WxtwA==;kGHRGAauwlS5uljqc8TRYQ=="
 ---

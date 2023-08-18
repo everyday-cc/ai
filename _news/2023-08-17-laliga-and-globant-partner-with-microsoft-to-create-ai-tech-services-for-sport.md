@@ -42,6 +42,20 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "Microsoft Planning New AI Service With Databricks After OpenAI Success: Report"
+    excerpt: "The new AI service will reportedly use Databricks' software and will be sold through Microsoft Azure CEO Satya Nadella previously hinted at a possible trio product integration with Databricks and OpenAI Databricks recently announced a deal to acquire ..."
+    publishedDateTime: 2023-08-18T05:15:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-planning-new-ai-service-databricks-after-openai-success-report-3708976"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 50
+    images:
+      - url: "https://d.ibtimes.com/en/full/4450269/illustration-shows-microsoft-azure-cloud-service-logo.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "No, AI in Google Search isn’t going to kill online content"
     excerpt: "Concerns over the impact AI could have on online content are growing, but there really isn't anything to worry about."
     publishedDateTime: 2023-08-17T00:24:00Z

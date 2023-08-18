@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-c
 webUrl: "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/"
 type: article
 quality: 94
-heat: 158
+heat: 154
 published: true
 
 provider:

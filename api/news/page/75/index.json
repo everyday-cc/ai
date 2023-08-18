@@ -2,6 +2,57 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2023-06-28-biden-takes-another-step-in-artificial-intelligence-war-with-china-as-ai-frenzy-continues.md",
+      "title": "Biden Takes Another Step In Artificial Intelligence War With China As AI Frenzy Continues",
+      "excerpt": "Biden’s New Step In AI War. Please click here for a chart of Advanced Micro Devices, Inc. (NASDAQ:AMD). Note the following:",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/biden-takes-another-step-in-artificial-intelligence-war-with-china-as-ai-frenzy-continues-1032415660",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/biden-takes-another-step-in-artificial-intelligence-war-with-china-as-ai-frenzy-continues-1032415660",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/640px-joe_biden_speaking_about_the_importance_of_preschool_for_all.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-fintech-dobin-brings-game-changing-ai-powered-solution-to-personal-finance.md",
       "title": "Fintech Dobin Brings Game-Changing Ai-Powered Solution To Personal Finance",
       "excerpt": "with dobin, users can now stay financially informed at all times. second, as dobin builds its data analytics and ai capabilities, it will create unique yet anonymised“financial profiles”.",
@@ -1120,50 +1171,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance.md",
-      "title": "Singapore Releases New AI Toolkit to Encourage Fair and Ethical Use in Finance",
-      "excerpt": "Furthermore, these repercussions of bias in AI become particularly pronounced within the banking and financial services sector. Rumman Chowdhury, Twitter’s ex-chief of machine learning ethics, transparency and accountability, said, “algorithmic ...",
-      "sourceUrl": null,
-      "webUrl": "https://247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/",
-      "originalUrl": "https://247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2021/09/imageForEntry21-tdI.jpg?w=400",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/amp/",
-      "publishedDateTime": "2023-06-27T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

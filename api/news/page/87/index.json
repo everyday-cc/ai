@@ -2,6 +2,40 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2023-06-21-saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global.md",
+      "title": "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global",
+      "excerpt": "Saifr®, an AI-focused regulatory technology (RegTech) and financial technology (FinTech) business that assists financial services clients in the review and approval of public communications to help mitigate brand,",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelbiz.co.uk/press-release/saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global/",
+      "originalUrl": "https://www.channelbiz.co.uk/press-release/saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel Biz",
+        "domain": "channelbiz.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx.md",
       "title": "Enhancing the Wimbledon fan experience with AI from watsonx",
       "excerpt": "IBM&#8217;s partnership with the All-England Lawn Tennis Club (AELTC) has driven digital transformation at Wimbledon for more than 30 years. And this year, Wimbledon is tapping into the power of generative AI, producing new digital experiences on the Wimbledon app and website using IBM&#8217;s new trusted",
@@ -1082,40 +1116,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-biboard-powers-bittle-x-voice-controlled-robotic-dog.md",
-      "title": "Biboard powers Bittle X voice controlled robotic dog",
-      "excerpt": "The Petoi family of programmable robot dogs has a new member: an ESP32 board powered “Bittle X”, which has the new feature of also being voice controlled. We’re talking a palm-sized, open-source programmable robot dog, designed for STEM and robotics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/blogs/gadget-master/robot/biboard-powers-bittle-x-voice-controlled-robotic-dog-2023-06/",
-      "originalUrl": "https://www.electronicsweekly.com/blogs/gadget-master/robot/biboard-powers-bittle-x-voice-controlled-robotic-dog-2023-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

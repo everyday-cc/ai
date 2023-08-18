@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -82,15 +82,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "Google DeepMind Alumni Shine As Startup Founders"
-    excerpt: "A large number of Google DeepMind employees have moved on to start their own businesses, with the majority of them operating in the AI space"
-    publishedDateTime: 2023-08-13T11:36:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepmind-alumni-shine-as-startup-founders/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "tMA19IOjXtQfRgUjAE3Yx2DLIoyxKpAsf0B68TsFiDFg6fXgxOAwa4iz8IKtZQH/M6DwM6kiZLn3bHrmE49DlnSNwNIZtM9hoPNNih6W3xgRBbXOJNJzRMSoFj4heSOdvhRRVMj6zumQR0hC0fgXizL0LK5k5TQRZ0BaUhhc//OFsyLRQxPlz0iOcCbcgaGE7PgX8mw6M/9BjvHZer3b4L6eJU3m3JKGfsuqw2CplEuIaB2CcZ9Y4poTSsZHoQPfN19Od907JDJ7Od7WGxolgi6DanMdO4mqWPPPIxpxhq6kqupEUlap32sSNF5oC05YZY2299sHx9CXLvBFORJrxFi5SK6PtBNBDAjX0y1NDRm6hFDMdKOAdGerYdLaZuj/39uw37oH035fdvGUGjniqhZsf4xwPmfFfhtRGzhqGNzp95Zbgs5HJGzlXcW4DoG7RYJwEEO/Yn4IdlOHFGo9JgocJOzcZZQTA0cZhnGSUqAsoPX5GFyWOLLkoPmb4+S3SLNez6cOdMkfCH8w/Qbn9g==;Ui1c+AInbMCVYF49i1ziqg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.desmoinesregister.com/videos/news/2023/08/16/watch-new
 webUrl: "https://www.desmoinesregister.com/videos/news/2023/08/16/watch-new-tsa-facial-recognition-software-des-moines-airport/8357650001/"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Photo recognition now being used at airports in Des Moines and Cedar Rapids"
-    excerpt: "Facial recognition scanners are now in full-time use at the state’s two largest airports. TSA regional spokesperson Jessica Mayle says the scanners verify ID’s used by passengers as they board. “It takes a real-time photo of the person who is presenting the ID and it compares it to the image on the ID and validates"
-    publishedDateTime: 2023-08-16T20:54:00Z
-    webUrl: "https://www.radioiowa.com/2023/08/16/photo-recognition-now-being-used-at-airports-in-des-moines-and-cedar-rapids/"
+  - title: "Watch: Warehouse Automation Is More Than Just Robotics"
+    excerpt: "Robotics and artificial intelligence are on everyone's mind, but many operators don't need that level of technology at this point, says Jason Joachim, chief executive officer of Cargo Spectre."
+    publishedDateTime: 2023-08-18T04:00:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/37872-watch-warehouse-automation-is-more-than-just-robotics"
     type: article
     provider:
-      name: Radio Iowa
-      domain: radioiowa.com
-    quality: 37
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 54
     images:
-      - url: "https://cdn.radioiowa.com/wp-content/uploads/2023/08/Facial-recognition-RI-photo.jpg"
-        width: 900
-        height: 683
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/jason_joachim.jpg?height=635&t=1692331518&width=1200"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "vXXzTgqZN9otgucSi5s6vHZ2OMpmvjVuE1JU0PkB5rFhJFrSasn3zRnnsSpBZ/kzCTJr0zOvXhHe6DnFe/pyhR7kqaazY2zy0Ld/S8vZsE+tp1LLjCL4deoiv+37roG3pLP8NpgQglvDbG0taE0Lfj8tAP8kC5EBl3YlzEV4qFzZoTHLUxy1Qdkneo9jlBe/ompTxKTsWuaTw4CMMRjIS9Na9pktwv06XJqozdC7JD79pd6tq1M4607gsDGC0lfAAikKX6IL50dWcsFvgmZuwBIUqau6EM5s1mYTJnTggLj4lWlob7Dn5j1i+rztjBe5Tvd4ZZE6mKuRx6UQlojtK3hGSFvQETy5u9C95PSwgKg=;c21XMvkATcCZz8PgROh8Pg=="

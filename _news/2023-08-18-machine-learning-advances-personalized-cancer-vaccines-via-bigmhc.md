@@ -9,8 +9,8 @@ ampWebUrl: "https://www.labroots.com/trending/technology/25767/machine-learning-
 cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/25767/machine-learning-advances-personalized-cancer-vaccines-via-bigmhc-2/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Labroots
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Johns Hopkins Engineers Develop Deep-Learning Technology That May Aid Personalized Cancer Therapy"
-    excerpt: "A team of engineers and cancer researchers from Johns Hopkins has developed a deep-learning technology capable of accurately predicting protein fragments linked to cancer, which might trigger an immune system response."
-    publishedDateTime: 2023-08-13T11:23:00Z
-    webUrl: "https://scitechdaily.com/johns-hopkins-engineers-develop-deep-learning-technology-that-may-aid-personalized-cancer-therapy/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 23
   - title: "Deep Learning Tool May Support Personalized Cancer Care"
     excerpt: "Johns Hopkins researchers have developed a deep learning method to predict cancer-related protein fragments that trigger tumor cell-killing immune responses."
     publishedDateTime: 2023-08-16T13:30:00Z

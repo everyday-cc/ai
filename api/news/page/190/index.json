@@ -2,6 +2,40 @@
   "page": 190,
   "value": [
     {
+      "path": "_news/2023-04-19-anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology.md",
+      "title": "Anchorage Assembly heavily limits city use of facial recognition technology",
+      "excerpt": "If the city opts to purchase and use the technology, the Assembly must approve it, and there must be a public hearing.",
+      "sourceUrl": null,
+      "webUrl": "https://alaskapublic.org/2023/04/18/anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology/",
+      "originalUrl": "https://alaskapublic.org/2023/04/18/anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Alaska Public Media",
+        "domain": "alaskapublic.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-ai-governance-market-research-2023-2030-top-key-players-in-the-industry-are-sas-institute-pymetrics-fico-facebook.md",
       "title": "AI Governance Market Research [2023-2030] | Top Key-Players in the Industry are - SAS Institute, Pymetrics, FICO, Facebook",
       "excerpt": "The AI Governance market research report is the outcome of comprehensive primary and secondary research. It offers a detailed analysis of the current and future objectives of the market ...",
@@ -1093,41 +1127,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-microsoft-is-developing-its-own-ai-chip-to-power-chatgpt-report.md",
-      "title": "Microsoft is developing its own AI chip to power ChatGPT: Report",
-      "excerpt": "Microsoft is reportedly joining the likes of Amazon, Google and Meta in developing its own in-house AI chips to fight the rising costs of Nvidia GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/microsoft-is-developing-its-own-ai-chip-to-power-chatgpt-report",
-      "originalUrl": "https://cointelegraph.com/news/microsoft-is-developing-its-own-ai-chip-to-power-chatgpt-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
