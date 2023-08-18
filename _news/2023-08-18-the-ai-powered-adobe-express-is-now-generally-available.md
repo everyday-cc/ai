@@ -1,0 +1,66 @@
+---
+category: news
+title: "The AI-powered Adobe Express is now generally available"
+excerpt: "Access to Adobe Express on desktop is free, but the Express Premium plan is included for Creative Cloud members."
+publishedDateTime: 2023-08-18T15:17:00Z
+originalUrl: "https://www.zdnet.com/article/the-ai-powered-adobe-express-is-now-generally-available/"
+webUrl: "https://www.zdnet.com/article/the-ai-powered-adobe-express-is-now-generally-available/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/the-ai-powered-adobe-express-is-now-generally-available/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-powered-adobe-express-is-now-generally-available/"
+type: article
+quality: 87
+heat: 107
+published: true
+
+provider:
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.zdnet.com/a/img/resize/4121ff0a697a4e3744b24dc9a93fa166d400a122/2023/08/17/37dfa150-4c7e-42eb-b693-186c9a3ab314/adobe-express.jpg?auto=webp&fit=crop&height=675&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "Adobe Express Replaces Design Guesswork With AI Text Prompts"
+    excerpt: "Adobe's all-in-one Express design tool has exited beta and is now available globally with Firefly generative AI built-in."
+    publishedDateTime: 2023-08-16T15:08:00Z
+    webUrl: "https://www.pcmag.com/news/adobe-express-replaces-design-guesswork-with-ai-text-prompts"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06Azr9wtaq3iWgutpTnwS1F-1.fit_lim.size_1200x630.v1692197835.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Adobe Express with AI Firefly app is available worldwide"
+    excerpt: "Adobe has taken its Adobe Express with Firefly web app out of beta, and its AI-powered image tools are now available online, with a mobile version \"coming soon.\""
+    publishedDateTime: 2023-08-16T14:16:00Z
+    webUrl: "https://appleinsider.com/articles/23/08/16/adobe-express-with-ai-firefly-app-is-available-worldwide"
+    ampWebUrl: "https://appleinsider.com/articles/23/08/16/adobe-express-with-ai-firefly-app-is-available-worldwide/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/08/16/adobe-express-with-ai-firefly-app-is-available-worldwide/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/55900-113518-000-lead-Adobe-Express-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "L5sI73Bu5ALoc/rw978M7mbW1BKvsjXTlMUcaVy5b6EQrQFrHCBwfvTs7ss+IRIHpwnlNlOCyOaTC/fDPctWat8gSfNXmaOEAFWUZSGQeBXRpRJFriRnb93QTI8UA8UPu6QsmBDBCHuTy0NX9TqWGA5LosL4rel8+AC2xqNelIv7jSruQoZ15tmyLQVWrCnrubH9wvZQkDf2N8vHo8mw7/lBdT+aXhi4BIdo3ENwd5hW35dZ59a3Htn6Lph4estuFZOUaz3dNLtrJye9lC8WwlcRbWg0v6NJhcHNVzoElYaFmGD0FEJD1KzdDTFPeDJSEHlV8PSTdZeUzdicqXmCgjnLrPKgbLU3Kh/toDskYN8=;347R/ZG2SXjO22efW4zfkA=="
+---
+

@@ -78,20 +78,6 @@ related:
         width: 2000
         height: 1121
         isCached: true
-  - title: "How to tackle the ethics of Generative AI"
-    excerpt: "A tip by Daniel Pell of @Workday about how business leaders should approach the ethical questions around deploying #GenerativeAI"
-    publishedDateTime: 2023-08-15T07:36:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2023/08/15/how-to-tackle-the-ethics-of-generative-ai/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/01/business-tip.jpg"
-        width: 728
-        height: 410
-        isCached: true
   - title: "Biased artificial intelligence needs human help to avoid harmful climate action, say researchers"
     excerpt: "Bias in the collection of data on which artificial intelligence (AI) computer programs depend can limit the usefulness of this rapidly growing tool for climate scientists predicting future scenarios and guiding global action,"
     publishedDateTime: 2023-08-17T09:00:00Z

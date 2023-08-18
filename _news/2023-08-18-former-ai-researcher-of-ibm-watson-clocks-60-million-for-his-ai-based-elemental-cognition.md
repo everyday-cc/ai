@@ -66,6 +66,22 @@ related:
         width: 2766
         height: 1844
         isCached: true
+  - title: "Elemental Cognition, headed by the former CEO of IBM Watson, raises USD 60M"
+    excerpt: "David Ferrucci, the former leader of the team that developed IBM Watson, founded the artificial intelligence startup Elemental Cognition Inc."
+    publishedDateTime: 2023-08-18T14:10:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 72
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Elemental-Cognition-headed-by-the-former-CEO-of-IBM-Watson-raises-USD-60M.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Elemental Cognition, led by IBM Watson’s former head, raises $60M"
     excerpt: "Artificial intelligence startup Elemental Cognition Inc., founded by David Ferrucci, the former head of the team that created IBM Watson, has raised $60 million in new funding."
     publishedDateTime: 2023-08-17T23:35:00Z
@@ -95,6 +111,6 @@ related:
         height: 774
         isCached: true
 
-secured: "4+4PG6OwQlanPeM3HPYTstcFbhcGnsGQAbzMGZKRgeKp7FnLTOpIiB1w+l+33V7BIu++VGdBrzUfLEHnr2jhuR1nhsjGkHUU73RsHiDGVCVLGtVUrAFencSpgB/ruWbY7GFnDegMSba7MoK4cy1QemTxmGcCf7JNgqAO9K7BfiAgVb7hwsj3DImNPhWpaWzm/uMNovP8veXjKsE4KXQhxkMC7110S1hHZK6ZwjLbT9x1FQo0Eadto4tS5w/ApoOpIx8V3bJbdvuz6eIfHCikP/+d0q1c4ytm8JT+KL2+r1OZNCr3d0t+JezBTUSySydwqYtTaWqDmwW94QnumCMuG0aTqbNxNwBBv675sdQcMdk=;XynqCCRO/zL9Y2G+2QTeFQ=="
+secured: "LZDkeh494gQRtXJl1JGhITHubJz0u2HgkhuEBvr91PCKx25EzyT+nN2MqAMOcRikTLpgM3ykxhUTj6f598cmzfVoEPk90Pq7kYKVsDOpGSuM2YZkW9DTdJy2X+TJAXGpJtMe9poHKhxI8By9cYbBtOkBxOlyr8H6TWkofiAg6FQRE2lt0AszF1e1bkBPTh12PP4MNXFlskUhjNMoexsLPiRwTJTgh0PjJd8T9taBfretj51JXdwnV7riOY5NpQtS3czl9dZkgq8VQ+msXZxmqyyCRmCTDOAjbcIFyDKfH/srnGCh+pj9oE9TlAf+fnXegtN9/WMTNNiSCZpDdy/BvsaP+xwn4JasIgiD5WRVRf0OoMFWVGCer5r2hXQkUgRhVRZhGceWbxeA1AbsW4JyXNB60AcV/NukeK7/QcHGD007PSY11E5lhnqRY6WjDc64uJN15xlI6tisdLXJ75PjvUka8lbdH93TOQxuPxNpcJG/XaH6WIRA5rlcWhf4H6R0J3AK04ySLwDk1QSXwoh5kw==;bM3673KSEsUsN+Vj7+TV3w=="
 ---
 

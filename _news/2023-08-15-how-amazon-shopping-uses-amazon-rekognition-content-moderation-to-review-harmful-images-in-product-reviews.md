@@ -203,15 +203,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 7
-  - title: "Fine-Tuning, Prompt Engineering are Keys to Delivering Real Generative AI Solutions to Commercial Pharma Operations Today"
-    excerpt: "Generative AI further enhances the value of prompt engineering by synthesizing important insights from various interactions, including text, images, compliant transcripts, and call notes. By automating this process,"
-    publishedDateTime: 2023-08-15T13:00:00Z
-    webUrl: "https://medcitynews.com/2023/08/fine-tuning-prompt-engineering-are-keys-to-delivering-real-generative-ai-solutions-to-commercial-pharma-operations-today/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 0
 
 secured: "Tx0zyuvxtjQhlLydcK8v7LFHKHmxeFs/2lN9CfbCVOOE57rPwZi3u2fl16tK9cDGqcenTObx1oEct6VPcb+/GiIyN6ZD3yJWm/RuVmL/I7IYXLySkTZ+XihvoJhGWOChX/UR18OeDgjlx1yf3+B3OVbLHxJRvcUJ5gMSe7Qniudmo92U5iYxej5+XCqy9BTLiCT4RZjIo1Bv9g6YhPW8Eer5rvjMg1KbVuhcaINs6CkOeoPQg8PgcZRR3JwUtjFjxEPSCW7fGfjtYg8ea6OWCbQhn5X9VIscjovMyhGaFqvSfywFVbIqPJpSCfIk9BhOwsFmjqK9NSmBByVb+sSV4nB0uEATMctw8fO5F/nS9rk=;D+ZyIN9k2jY61KiHnpz8ug=="
 ---

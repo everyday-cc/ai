@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Getting Real About Ai In The Enterprise"
-    excerpt: "Let's be clear: AI is complex, so be careful of vendors that offer to simplify everything-as long as it's inside their box. Many companies have been caught flat-footed by the enormous multicloud integration needed to successfully benefit from AI projects. This is where we excel."
-    publishedDateTime: 2023-08-16T17:09:00Z
-    webUrl: "https://menafn.com/1106868639/Getting-Real-About-Ai-In-The-Enterprise"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/16/M_89490image_story.jpeg"
-        width: 852
-        height: 1280
-        isCached: true
   - title: "Educator discusses the role of artificial intelligence in schools 🤖 ️"
     excerpt: "A leader in educational innovation believes there is a role for artificial intelligence to be aware of as the new school year approaches, and that role is not one that is exclusively ne"
     publishedDateTime: 2023-08-14T13:56:00Z

@@ -21,15 +21,15 @@ topics:
 related:
   - title: "Storyboard Launches AI-Powered Translations to Breakdown Language Barriers"
     excerpt: "SANTA MONICA, CA - Storyboard, the leading audio communication provider for frontline teams, announced that it will provide real-time AI-powered transcriptions and translations for over 50 languages in Chat by Storyboard."
-    publishedDateTime: 2023-08-15T12:35:00Z
-    webUrl: "https://www.restaurantdive.com/press-release/20230814-storyboard-launches-ai-powered-translations-to-breakdown-language-barriers-3/"
+    publishedDateTime: 2023-08-15T12:18:00Z
+    webUrl: "https://www.grocerydive.com/press-release/20230814-storyboard-launches-ai-powered-translations-to-breakdown-language-barriers-4/"
     type: article
     provider:
-      name: restaurantdive
-      domain: restaurantdive.com
+      name: grocerydive
+      domain: grocerydive.com
     quality: 37
     images:
-      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1692058496/press_release/assets/header_images/Storyboard_Chat_-_Restaurant_Header_1500x700_r57qzb.png"
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1692059564/press_release/assets/header_images/Storyboard_Chat_-_Grocery_Header_1500x700_1_irq1gj.png"
         width: 1500
         height: 700
         isCached: true

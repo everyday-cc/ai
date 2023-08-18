@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Here Are the Generative AI Products UK Law Firms Are Using"
-    excerpt: "From Harvey and ChatGPT, to Lexis AI and CoCounsel, Law.com International unveils the GenAI products gaining the most attention."
-    publishedDateTime: 2023-08-17T17:12:00Z
-    webUrl: "https://www.law.com/2023/08/17/which-generative-ai-products-are-uk-law-firms-using-292-161851/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "Epic Is Integrating Abridge’s Generative AI Tool Into Its EHR"
     excerpt: "Epic announced that it will integrate Abridge’s clinical documentation tool into its EHR workflow. The startup’s generative AI tool listens to visits and creates a near-instant summary that adheres to physicians’ prototypical note structure."
     publishedDateTime: 2023-08-16T21:22:00Z
@@ -109,16 +95,7 @@ related:
       name: The Information
       domain: theinformation.com
     quality: 19
-  - title: "Companies go all out to up their generative AI game"
-    excerpt: "The company is dividing its workforce into three layers, based on how deeply each needs to understand the new technology. The first and the broadest is mandatory training to bring all employees, regardless of role, up to speed on generative AI basics: what it is, how it works, best practices and how to use it ethically and responsibly."
-    publishedDateTime: 2023-08-17T13:00:00Z
-    webUrl: "https://www.seattletimes.com/explore/careers/companies-go-all-out-to-up-their-generative-ai-game/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
-secured: "pnKO92JTXMmKBxU9+Vki5Oqp9h0xzcKLCZLn6882ZZRPrycGzOaTJYsyiPoU5TLfAvr6qFAMYz5lHlzvHPUh8s6NKC6ziwHk1nktDefF0hFA4tJP71JjSKgKQmuagCbWR+g232ztv9AhjtRpN+/3KsXQcwEOL8hfccWPY5YVGTVCfIj6lQyTsDmWShvTHpkYwBqnCOuzLhj79eHyr+kJAgC9pNdzrdtyOsVWrG1TOT6gy4UefkOhItovgBEghI6awO9dlbGV9jIPZ3hcW5z+YbPwu54hh+9K7D6bQhQqOHmhltBE0ckqinMZ51L25YYpnZRwUyZQg6ML7CF/oxOIxvOiOSOeFziBWJCJlyuFbmg=;PhM0V4DYNgloI523sbtMUw=="
+secured: "/m2b8gUwRnAO9Rkdm/2nmx4j4wlSDCyZg8bIZi+S37h/vbimcuQgRt9/nNSdd7E9lEECQ9QWq0RfQTZGNf37RTUj3e87QcFdJEjIL0u/awu+Ft0dxH9MgMMBpG+b+fnApAcxQySJAYe2p/QR0bPmRK3DjX8Fh9j02fTE4WAhAQaoitCnwczMUVYmSOAcCLlyZuewSW//jJsQPOWNkJB202ivAQsk5lnA6YtYnfNHzCKtuK+5vLm1WXILcU5ypt0VFW8n8uefzhDTHFzRzC9zKvwI4kYELTE99bDXZfvwLZnOKMHcf9FMqRUqIs131cdYdmuKduRfjSZ6NBiPo8hhI5n/8dWfL+kBSVFv4nfhNfA2+rzI0lWxRF9eRmUyyoxDt6AR3C+JPeU2Saq9irgsHVn+6X9M6eneLyCb1HGnV25fDuVoSuWYB3wtyPxsHscfgiw5nX7wOYQMfB7HyLVyK9kxdFZfv0IX9Z0r/YZNzRWXTyQPPMr6uw2PaEl3vvUWeI5NcZxcpT1a1NEc+dqjZw==;Ewo5USkugLxweETAQ/gTRA=="
 ---
 

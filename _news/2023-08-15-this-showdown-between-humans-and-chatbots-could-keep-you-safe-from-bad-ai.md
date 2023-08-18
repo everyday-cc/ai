@@ -142,20 +142,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "How did DefCon hackers do against AI chatbots?"
-    excerpt: "White House officials concerned by AI chatbots' potential for societal harm and the Silicon Valley powerhouses rushing them to market are heavily invested in a three-day competition endi"
-    publishedDateTime: 2023-08-13T21:30:00Z
-    webUrl: "https://www.columbian.com/news/2023/aug/13/how-did-defcon-hackers-do-against-ai-chatbots/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 39
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/08/Cybersecurity_AI_Security__44668-1ffca.jpg"
-        width: 899
-        height: 599
-        isCached: true
   - title: "Ascott leverages AI with new chatbot providing personalised services"
     excerpt: "CapitaLand’s wholly owned lodging business unit, The Ascott Limited (Ascott) has launched an AI-powered chatbot named Cubby to enhance the journey of its guests by being their travel buddy and supporting Ascott‘s growth."
     publishedDateTime: 2023-08-15T00:00:00Z

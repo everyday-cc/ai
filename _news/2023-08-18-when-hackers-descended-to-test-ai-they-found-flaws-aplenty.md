@@ -38,6 +38,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Why Advisors Need to Understand AI"
+    excerpt: "Even non-tech companies like Ford and John Deere are increasingly investing in artificial intelligence. Healthcare is also seeing tremendous interest in artificial intelligence, as are other major ..."
+    publishedDateTime: 2023-08-14T21:28:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-advisors-need-to-understand-ai"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "bI6zI81J68Cqb7ivRQrKIjI0yJ8r/hKas1Ek92xWN3rwATc/Gae5o+7ypOAoINuxVgKY/p20tf8JiaOzyG6qJnHUY3aHhStan2J3qeEwi0i2ITZkwuMzSFCiqwuoaYrF2+SGMAv9bOKXwY2IotqL1grWWY3uL7qO8OHBJL8OQqKRchA3t4tYR7DN/hJ3hskWfCl2c2V15rJyjRoaCQOKo56KA4YZVpa6ArDHF8W+7NFKqEgVx1h1oT0OIJWIjzVzg6Uz07NPR8QbOYYHWN/4w8isqq3wprjCzje5O4rKM9wj7aGRG2BNsaMnctYqWratOQF5r4qjID0cgU9/0Vn926xR1VgRMsAekYzsoYC9URTszR1GJipYw938QWgd3lz2uQUPHIlJMeYXsHnNSJOxjuhfYPwmQOCVpohILLWhl+Gq+Y/sr26HFeF7DkgGYnZnv3y+8UJ950kvHDSpjW8VlqwPdu6wKsqTom4z4OQxV6lh9RriAA8i0nCvvLQ2a5V20a5BdTW1lSCXU2BUtXvzBQ==;xNJjZHsNHyar8OyW1hqZiQ=="
 ---

@@ -20,194 +20,190 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Using AI In Customer Communication"
-    excerpt: "By leveraging the right AI tools while considering the reasoning for their implementation, you can drive significant success in terms of customer communication."
-    publishedDateTime: 2023-08-15T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
+  - title: "Beyond The Hype: Three Best Practices When Using Generative AI In Healthcare"
+    excerpt: "As this technology progresses and models improve, organizations need to focus on evolving operations and training people, as much as on technology investments."
+    publishedDateTime: 2023-08-18T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 103
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64da309a14c3ce119fb1ea3f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 744
-        isCached: true
-  - title: "The Power Of AI In Modeling Healthy Communications"
-    excerpt: "Artificial intelligence (AI) has emerged as a powerful tool in modeling healthy communications, which I define as interactions that promote mutual benefit and growth. Let's look at how, through AI, business leaders can enhance their teams' understanding of effective communication strategies and model them for specific applications."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5ef60896accb250006414b32/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f16f271558c7c0006dd6f95/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Landscape Emerges For Employee Communications"
-    excerpt: "A key finding is that implementing AI in employee communications requires a clear purpose and strategic integration."
-    publishedDateTime: 2023-08-14T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/14/ai-landscape-emerges-for-employee-communications/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/14/ai-landscape-emerges-for-employee-communications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/14/ai-landscape-emerges-for-employee-communications/amp/"
+  - title: "Wcm-Q Discusses Legal, Ethical Issues Of Generative Ai In Healthcare"
+    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed during the latest instalment of Weill"
+    publishedDateTime: 2023-08-16T03:14:00Z
+    webUrl: "https://menafn.com/1106864884/Wcm-Q-Discusses-Legal-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Mena FN
+      domain: menafn.com
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?248441"
+        width: 444
+        height: 250
         isCached: true
-  - title: "Amazon now using generative AI to summarize customer reviews"
-    excerpt: "Available on a wide number of products for many US shoppers on mobile devices, the AI tech will condense all the customer reviews into one digestible paragraph."
-    publishedDateTime: 2023-08-15T17:37:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+  - title: "China's new rules on AI-generated content"
+    excerpt: "Here's what you need to know about Beijing's regulations, which target services for the general public: - AI ethics - Generative AI must \"adhere to the core values of socialism\" and refrain from threatening national security and promoting terrorism ..."
+    publishedDateTime: 2023-08-18T07:02:00Z
+    webUrl: "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb"
+    ampWebUrl: "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb?amp=1"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Zawya
+      domain: zawya.com
+    quality: 59
     images:
-      - url: "https://www.zdnet.com/a/img/resize/fd7d04c6b95c4ca84d40ae31677e3db892358371/2023/08/15/a50e0fd5-5c54-4fcf-83cd-0e849a812256/figure-top-amazon-now-using-generative-ai-to-summarize-customer-reviews.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZjUxZGU2ZTEtYTI4MS00/0/afp_33r87q8-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
-  - title: "From Automation To Innovation: AI For Coaching Businesses Simplified"
-    excerpt: "AI is a powerful tool for augmenting human capabilities and revolutionizing business processes. Unlock the power of AI for your coaching business today."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
+  - title: "How to tackle the ethics of Generative AI"
+    excerpt: "A tip by Daniel Pell of @Workday about how business leaders should approach the ethical questions around deploying #GenerativeAI"
+    publishedDateTime: 2023-08-15T07:36:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/08/15/how-to-tackle-the-ethics-of-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dccbefd5a89efd5188000e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 569
-        isCached: true
-  - title: "How Amazon Shopping uses Amazon Rekognition Content Moderation to review harmful images in product reviews"
-    excerpt: "Customers are increasingly turning to product reviews to make informed decisions in their shopping journey, whether they’re purchasing everyday items like a kitchen towel or making major purchases like buying a car. These reviews have transformed into an essential source of information, enabling shoppers"
-    publishedDateTime: 2023-08-15T19:31:24Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-shopping-uses-amazon-rekognition-content-moderation-to-review-harmful-images-in-product-reviews/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
-  - title: "Financial Services Are Using Artificial Intelligence to Navigate Regulations"
-    excerpt: "In five key areas, AI and machine learning tools can help banks follow know-your-customer rules, spot potential money laundering and more."
-    publishedDateTime: 2023-08-14T20:23:00Z
-    webUrl: "https://biztechmagazine.com/article/2023/08/financial-services-are-using-artificial-intelligence-navigate-regulations"
-    ampWebUrl: "https://biztechmagazine.com/article/2023/08/financial-services-are-using-artificial-intelligence-navigate-regulations?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/08/financial-services-are-using-artificial-intelligence-navigate-regulations?amp"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 56
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202308/GettyImages-1210917404.jpg?itok=rV6TnDKT"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "How AI Can Scale Personalization and Creativity in Marketing"
-    excerpt: "AI tools can help marketers use performance data to optimize the results of their messaging before they launch an email campaign. Using AI, an organization can quickly crunch millions of data points from its most successful campaigns to help it recommend changes in messaging, imagery, and layouts for pending emails."
-    publishedDateTime: 2023-08-16T15:43:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/how-ai-can-scale-personalization-and-creativity-in-marketing"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
     quality: 54
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/07/AIScalingPersonalization-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/01/business-tip.jpg"
+        width: 728
+        height: 410
         isCached: true
-  - title: "OpenAI says AI tools can be effective in content moderation"
-    excerpt: "Despite the hype around generative AI, companies such as Microsoft and Google-owner Alphabet are yet to monetize the technology in which they have been pumping billions of dollars in the hope that it will have a big impact across industries."
-    publishedDateTime: 2023-08-15T22:28:00Z
-    webUrl: "https://www.aol.com/news/openai-says-ai-tools-effective-192727939.html"
+  - title: "The Role Of Technology And Artificial Intelligence In Healthcare"
+    excerpt: "On the season 9 finale of NDTV-Dettol Banega Swasth India, experts discuss a pressing issue - the role of technology and artificial intelligence (AI) in healthcare and if it can take over humans in the healthcare industry."
+    publishedDateTime: 2023-08-15T15:41:00Z
+    webUrl: "https://www.ndtv.com/video/news/banega-swasth-india/the-role-of-technology-and-artificial-intelligence-in-healthcare-717786"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
+      name: NDTV
+      domain: ndtv.com
+    quality: 54
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/8feda3c1f32fbd1cf9d118a4ff749e2e"
-        width: 800
-        height: 543
+      - url: "https://c.ndtvimg.com/2023-08/ahnjetto_banega-swasth-india_160x120_15_August_23.jpg"
+        width: 650
+        height: 364
         isCached: true
-  - title: "The Evolving Role of Artificial Intelligence in Business: Staying Ahead of the Curve"
-    excerpt: "This sentiment rings especially true when considering the transformative potential of artificial intelligence (AI) in the business world. Just as the advent of personal computers and the internet revolutionized many sectors, including law, AI is poised to ..."
-    publishedDateTime: 2023-08-17T17:40:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/the-evolving-role-of-artificial-3504503/"
+  - title: "Navigating Change Management In The Era Of Generative AI"
+    excerpt: "To effectively navigate change management in the era of generative AI, companies must develop a deeper understanding of their offerings and customer expectations. This understanding will help them identify the areas where generative AI can provide value and where human interactions are indispensable."
+    publishedDateTime: 2023-08-17T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/17/navigating-change-management-in-the-era-of-generative-ai/"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 32
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16046_1835.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Revolutionizing Customer Engagement with Voice Interfaces in Business"
-    excerpt: "Welcome to the future of customer engagement! In today’s ever-evolving technological landscape, businesses are constantly seeking innovative ways to forge deeper connections with their customers. With the rise of voice interfaces,"
-    publishedDateTime: 2023-08-14T15:58:00Z
-    webUrl: "https://techbullion.com/revolutionizing-customer-engagement-with-voice-interfaces-in-business/"
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "From Theory To Practice: How To Implement AI In Your Organization"
+    excerpt: "The reality of AI is that unlocking the true potential of AI in your business requires a thoughtful and strategic approach. While AI can provide valuable insights and automate tasks, it is not infallible. An over-reliance on AI will lead to risks and challenges."
+    publishedDateTime: 2023-08-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/17/from-theory-to-practice-how-to-implement-ai-in-your-organization/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Generative AI: Will It Win The Next Enterprise Technology Arms Race?"
+    excerpt: "When AI models are fully integrated with the right data, they can move beyond shaping interactions in the moment and begin to predict the future."
+    publishedDateTime: 2023-08-18T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/generative-ai-will-it-win-the-next-enterprise-technology-arms-race/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "The Transformative Power of AI in Healthcare: Bots, Imaging, and Personalized Medicine"
+    excerpt: "In the ever-evolving landscape of global healthcare, there’s a new player making waves: Artificial Intelligence (AI). Its applications, ranging from interactive AI bots to detailed medical imaging and the promise of tailor-made treatments,"
+    publishedDateTime: 2023-08-17T10:59:00Z
+    webUrl: "https://techbullion.com/the-transformative-power-of-ai-in-healthcare-bots-imaging-and-personalized-medicine/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 24
+    quality: 46
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-14T165701.298.png"
-        width: 800
-        height: 400
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/tuv-rheinland-131699993_shutterstock_everything-possible-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
-    excerpt: "The Nutanix GPT-in-a-Box solution delivers ready-to-use customer-controlled AI infrastructure for the edge or the core data center and allows customers to run and fine-tune AI and GPT models while maintaining control over their data. Nutanix provides a full complement of security and data protection offerings ideal for AI data protection."
-    publishedDateTime: 2023-08-15T14:58:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/15/9864857.htm"
+  - title: "Generative AI in healthcare: Google Cloud’s Amy Waldron on the tech giant’s health ambitions"
+    excerpt: "Healthcare Dive caught up with Google Cloud’s Amy Waldron to discuss the technology giant’s plans — and the potential risks — of generative AI in healthcare."
+    publishedDateTime: 2023-08-17T17:56:00Z
+    webUrl: "https://www.healthcaredive.com/news/google-cloud-healthcare-amy-waldron-generative-AI/691085/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-  - title: "Addentax Group Corp. Continues to Make Significant Strides in Advancing the Automation of Artificial Intelligence Internet Operational Tools"
-    excerpt: "Addentax Group Corp. (\"Addentax\" or the \"Company\") (Nasdaq: ATXG), an integrated service provider focusing on garment manufacturing, logistics services, and property management and subleasing, has announced significant progress in its collaborative initiative with Games-as-a-Service (\"GaaS\") firms for the development of Artificial Intelligence (\"AI\") Online Operational Tools (referred to as the \"AI project\"),"
-    publishedDateTime: 2023-08-15T15:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/addentax-group-corp-continues-to-make-significant-strides-in-advancing-the-automation-of-artificial-intelligence-internet-operational-tools-1032555433"
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 43
+    images:
+      - url: "https://www.healthcaredive.com/imgproxy/JE6m1JKnt2UbIcxtPg6sykAC5vaRUn1UPaHQJCPBHHw/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk3NjE0NTkxLmpwZw.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "Here Are the Generative AI Products UK Law Firms Are Using"
+    excerpt: "From Harvey and ChatGPT, to Lexis AI and CoCounsel, Law.com International unveils the GenAI products gaining the most attention."
+    publishedDateTime: 2023-08-17T17:12:00Z
+    webUrl: "https://www.law.com/2023/08/17/which-generative-ai-products-are-uk-law-firms-using-292-161851/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 12
-  - title: "Transforming Talent Acquisition Through the Power of Automation and Artificial Intelligence"
-    excerpt: "Over the past three years, talent acquisition (TA) has been impacted by significant events—an enduring talent shortage, changing workplace standards and attitudes, and new technologies that have the potential to transform the hiring process."
-    publishedDateTime: 2023-08-16T16:19:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/transforming-talent-acquisition-through-the-power-of-automation-and-artificial-intelligence"
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
+  - title: "Which Generative AI Products are UK Law Firms Using?"
+    excerpt: "From Harvey and ChatGPT, to Lexis AI and CoCounsel, Law.com International unveils the GenAI products gaining the most attention."
+    publishedDateTime: 2023-08-18T07:40:00Z
+    webUrl: "https://www.law.com/international-edition/2023/08/17/which-generative-ai-products-are-uk-law-firms-using/"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 7
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/08/AdobeStock_612806082-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
+  - title: "Local universities prepared to teach ethics of using generative AI"
+    excerpt: "As students begin arriving at colleges and universities to kick off their fall semester, they’ll have tools with them they didn’t have this time last year: ChatGPT and similar generative AI chatbots like Google Bard,"
+    publishedDateTime: 2023-08-15T11:00:00Z
+    webUrl: "https://rbj.net/2023/08/15/local-universities-prepared-to-teach-ethics-of-using-generative-ai/"
+    type: article
+    provider:
+      name: Rochester Business Journal
+      domain: rbj.net
+    quality: 34
+  - title: "Companies go all out to up their generative AI game"
+    excerpt: "The company is dividing its workforce into three layers, based on how deeply each needs to understand the new technology. The first and the broadest is mandatory training to bring all employees, regardless of role, up to speed on generative AI basics: what it is, how it works, best practices and how to use it ethically and responsibly."
+    publishedDateTime: 2023-08-17T13:00:00Z
+    webUrl: "https://www.seattletimes.com/explore/careers/companies-go-all-out-to-up-their-generative-ai-game/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
+  - title: "Local teens share how they're using artificial intelligence in school and beyond"
+    excerpt: "Junior at Ypsilanti Community High School, Ariana Perez showed us her favorite artificial intelligence app, Character.ai. The A.I. is full of different character bots that users can interact with."
+    publishedDateTime: 2023-08-17T18:39:00Z
+    webUrl: "https://www.wxyz.com/news/local-teens-share-how-theyre-using-artificial-intelligence-in-school-and-beyond"
+    type: article
+    provider:
+      name: WXYZ
+      domain: wxyz.com
+    quality: 14
 
 secured: "DSnyEn3tvXYb4xok2RxZHId6k+Bxz0aj3VtpX+mvC1acM0xxsCQ3/bzrqLOYBYLvDVnnbLEmPZ3xIjjdZyU8lBzgTSpQNFSd/TkQPTRQu6nOh4L7zIo7/KZs8vzGs5xgqF8DgwoIHLDzxCs9owQoDjl5vbiJ9A8oiAdVP1FKD3TXMPJOAys+Wlo05f14GrfZzFR/m5KZS5ROKBPy/aymWCVUy+5stjvmyAtIWHkxEkudt+fBnCbGUtmBcRsJQA1IpCVrVwVHrmoDZgHKFvSKZIhkZUPQbGUTcZMhf322JlZdg87olLpnbrgk6oUTMunsM8KrV9JeGabrYgZYvTUwZTLz/XMXCeuRfLCrLE55vE2LWcnCNzCWcINtaSQEB+G8LEvbJyNPGlnfQiUNqhlXuo1hQlAitUutYaOyL7eVEnDMNzY13JIayjusYOOzDAGmS1hs8AWbkCLIcroKlVRE4DxFHD7Sv+E2bMapcHfh3qUQpOXy1junIwnanUc0Yf8L7J/23YMOmXoGYmjv3QSAqw==;5wnwV2d8v8+aqv1vZYkI5w=="
 ---

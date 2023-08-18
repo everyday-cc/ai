@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/adobe-express-replaces-design-guesswork
 webUrl: "https://www.pcmag.com/news/adobe-express-replaces-design-guesswork-with-ai-text-prompts"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "The AI-powered Adobe Express is now generally available"
+    excerpt: "Access to Adobe Express on desktop is free, but the Express Premium plan is included for Creative Cloud members."
+    publishedDateTime: 2023-08-18T15:17:00Z
+    webUrl: "https://www.zdnet.com/article/the-ai-powered-adobe-express-is-now-generally-available/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-ai-powered-adobe-express-is-now-generally-available/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-powered-adobe-express-is-now-generally-available/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4121ff0a697a4e3744b24dc9a93fa166d400a122/2023/08/17/37dfa150-4c7e-42eb-b693-186c9a3ab314/adobe-express.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Adobe Express with AI Firefly app is available worldwide"
     excerpt: "Adobe has taken its Adobe Express with Firefly web app out of beta, and its AI-powered image tools are now available online, with a mobile version \"coming soon.\""
     publishedDateTime: 2023-08-16T14:16:00Z

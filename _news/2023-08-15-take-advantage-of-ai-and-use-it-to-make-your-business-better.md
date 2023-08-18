@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-y
 webUrl: "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-your-business-better/"
 type: article
 quality: 119
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/How-generative-AI-correlates-IT-and-business-objectives-to-maximize-business-outcomes.jpg"
         width: 1080
         height: 540
-        isCached: true
-  - title: "Time To Redesign Your Career For The Age Of Artificial Intelligence"
-    excerpt: "The continued rise of AI will change the type of work we do, and how we do it, but augmenting rather than replacing human capabilities."
-    publishedDateTime: 2023-08-13T21:30:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d940f4725deaf2b4635ebc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Why Your Business Needs A Winning AI Strategy (And How To Build One)"
     excerpt: "Part of the challenge is the countless applications for AI within a business, and it’s often difficult for business leaders to determine where to start. Without a proper roadmap that looks for automation opportunities across the entire value chain ..."

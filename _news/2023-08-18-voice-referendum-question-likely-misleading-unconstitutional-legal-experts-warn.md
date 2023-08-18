@@ -20,6 +20,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Voice ballot paper ‘misleadingly’ emphasises recognition, ‘hides detail’ of bill’s purpose"
+    excerpt: "Voters are set to be presented with a misleading ballot paper for the Voice Referendum which “emphasises constitutional recognition” but fails to state the ability to make representations to a government, according to Barrister Paul Jeffreys."
+    publishedDateTime: 2023-08-18T13:44:00Z
+    webUrl: "https://www.skynews.com.au/opinion/voice-ballot-paper-misleadingly-emphasises-recognition-hides-detail-of-bills-purpose/video/a2e67921c70c9284310e46017359b0b6"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 9
+
 secured: "o3l6UfFn0APa+0cDdGRvAEHoqtaNs1axPSqG6g2mJu1ThzUM+igo/jvZ/CaURf2oJV7A6inK9zClMxk9WwMubHN0r43A7/lK/f9lV4GvgjJKyL2nYVyRh11FDcw0afJIwZjpmRnZD8pMmZmULF7q+54ykxbhdLQc7EQjLJNEmmzauFCjAU6Pl3wZAOqdbsxP4AxFaRE4vpUCG37yFt4qH5YLf2yzDjrTMk+KQzIeqwMChoeO94OeiLWx9LCXLOWtZbxOfLy7xXqCR7u+dB8lchQpNj6ReclJvYAYBO+mXHaPpZVD4TT4o2mwshxGBI1y8/wp5AhmGkU78xcnNR0WMwhaa06nq701s0dZ1as7isd9/b4qOFbS533/X3MtiPCSucORZaLnGtD9BTN8vVVbBQyghBFJP8IrOuOvjrUjOgAQbf6GEb2OdUyX1YAofjanV0BsnSuhfb3BpYxGxpol1o8spHG1x0uuKuShLaBrmTyHXZnB5gM76IrqSYIG76WJ9sRuTk0qmCQhhd44Tmsr8A==;RHHgsF0quGqxoyh0rCMz8g=="
 ---
 

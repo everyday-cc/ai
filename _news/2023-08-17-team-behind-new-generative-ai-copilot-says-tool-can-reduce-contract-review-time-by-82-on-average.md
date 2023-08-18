@@ -121,20 +121,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 51
-  - title: "Which Generative AI Products are UK Law Firms Using?"
-    excerpt: "From Harvey and ChatGPT, to Lexis AI and CoCounsel, Law.com International unveils the GenAI products gaining the most attention."
-    publishedDateTime: 2023-08-18T07:40:00Z
-    webUrl: "https://www.law.com/international-edition/2023/08/17/which-generative-ai-products-are-uk-law-firms-using/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/08/AdobeStock_612806082-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "AI comes to Amazon product reviews"
     excerpt: "Some Amazon users can now take advantage of a new artificial intelligence tool that recognizes common themes from customer product reviews and turns them into a short summary. Ben Bergman, senior correspondent for Insider focusing on the tech industry,"
     publishedDateTime: 2023-08-16T15:45:00Z
@@ -149,15 +135,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Local universities prepared to teach ethics of using generative AI"
-    excerpt: "As students begin arriving at colleges and universities to kick off their fall semester, they’ll have tools with them they didn’t have this time last year: ChatGPT and similar generative AI chatbots like Google Bard,"
-    publishedDateTime: 2023-08-15T11:00:00Z
-    webUrl: "https://rbj.net/2023/08/15/local-universities-prepared-to-teach-ethics-of-using-generative-ai/"
-    type: article
-    provider:
-      name: Rochester Business Journal
-      domain: rbj.net
-    quality: 34
   - title: "Zapata AI and IonQ Collaborate to Advance Generative AI Research"
     excerpt: "Zapata AI, a software company building solutions to enterprises’ most computationally complex problems, today announced it has entered a strategic all"
     publishedDateTime: 2023-08-15T16:01:00Z
@@ -175,6 +152,15 @@ related:
     provider:
       name: Popular Science
       domain: popsci.com
+    quality: 17
+  - title: "Designing Generative AI to Work for People with Disabilities"
+    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
+    publishedDateTime: 2023-08-18T12:05:00Z
+    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
     quality: 17
 
 secured: "q1mk4iBiclL/Uoo0XlNLD68vyI/j2cT9mhcV0KyOesm2G9kyKu5e4m6VPWNeJ3svto9/qabZV18U8UAex/lRrJaIsFmWREFVgvPrWPj3b1M+shOOOPj87MTNH6qYYRSBud96Cl6vxSn52dBWSWlNK5vCiIBsayrYosuNwAa/n/IyNfVPae0nnMp7mqzq6ko/PUJJ0IsWUVyzxChH6sW3Jll/kqU/9CrEYXpzktSKybjJGkOQh9vIT+oAKDYEMKzGLX4hiJWH+7c+w5RlCB8TIZ8K965R4Gc/Odby8wGr77DSYY3Ty1XlHssK9JZ/ntTVBZROvGXnmNwHMo0eYxhcT/4097SgJuljSkpOGHb0a18=;/OGwGht7Nk+y0cQ13d6xeg=="

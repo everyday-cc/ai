@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/08/report-potential-nyt-law
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/08/report-potential-nyt-lawsuit-could-force-openai-to-wipe-chatgpt-and-start-over/amp/"
 type: article
 quality: 83
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 21
-  - title: "How ChatGPT can help you optimize your content for entities"
-    excerpt: "An object. The subject and object are typically the entities ... To determine successful entity usage within your material, these platforms often devise their own entity recognition algorithms. The left side prominently displays the entity."
-    publishedDateTime: 2023-08-13T22:23:00Z
-    webUrl: "https://searchengineland.com/chatgpt-help-optimize-content-entities-430315"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 4
 
 secured: "B7S+ifyK8olWNebSgO9/VYSOWCuD/vVYbpkW3I6Dq5eyMAmcJgPl+zsrW23FZxX6/e514cdGa2A1LXXT0X33ALyVngINSN1bri1VCyI0kewUaXznz5SWZHGjkznQ3H+Tjhl1/+Ir/2goImk2dMGKLPJPyp3X46Ll60vm+2fDdop4Cswhp3XCuvfjniyhnw42CssDWVqku8DcINaAXwZldJ8cP1NbpGBw1jdisyxdH8+nmppZoc5dsc7GuQBqJSE7G3Rgzr5Sem+vcs2k32KFDltYf9adRqV2U6q9EyAm/JVYdkQbNPo643qX5Dd67wJb5heYR2gLExmjE1eamLBUsRkPQ+9kNQrC961R9864WS0=;wzxOr/SZNliFQgnJNiAqow=="
 ---

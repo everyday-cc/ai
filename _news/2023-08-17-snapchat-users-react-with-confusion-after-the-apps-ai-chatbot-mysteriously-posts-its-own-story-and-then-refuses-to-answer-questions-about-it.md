@@ -106,6 +106,24 @@ related:
         width: 1188
         height: 669
         isCached: true
+  - title: "These States Are the Most Tech-Obsessed, Can't Get Enough of ChatGPT, AI"
+    excerpt: "Is the East Coast or West Coast more excited about AI chatbots? A study of Google search trends in each US state reveals where people are the most interested in next-generation technologies."
+    publishedDateTime: 2023-08-18T12:00:00Z
+    webUrl: "https://www.pcmag.com/news/these-states-are-the-most-tech-obsessed-cant-get-enough-of-chatgpt-ai"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 46
+  - title: "Google Sparrow: an AI to compete with ChatGPT"
+    excerpt: "In response to the danger posed by ChatGPT, Google is preparing its solution with its own artificial intelligence. Created by DeepMind and called Sparrow, it must provide reliable and sourced answers while respecting certain limits. In this article we will ..."
+    publishedDateTime: 2023-08-14T13:41:00Z
+    webUrl: "https://ccm.net/apps-sites/apps/10537-google-sparrow-an-ai-to-compete-with-chatgpt/"
+    type: article
+    provider:
+      name: CCM
+      domain: ccm.net
+    quality: 19
   - title: "Schools navigate regulation of artificial intelligence, ChatGPT as students return to classrooms"
     excerpt: "Artificial intelligence is becoming a major conversation in the classroom, especially a popular software called ChatGPT. ABC7 asked ChatGPT to write a book report on \"Pride and Prejudice.\" In just seconds, it created a report that would probably satisfy ..."
     publishedDateTime: 2023-08-14T12:52:00Z
@@ -114,6 +132,15 @@ related:
     provider:
       name: ABC 7 Chicago
       domain: abc7chicago.com
+    quality: 4
+  - title: "ChatGPT is a Glorified Tape Recorder"
+    excerpt: "Large language models (LLMs) are the new wave of artificial intelligence that trains neural networks with a large amount of human-generated text with the goal of producing new text and knowledge. In an interview with CNN anchor Fareed Zakaria yesterday ..."
+    publishedDateTime: 2023-08-17T21:13:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/08/chatgpt-is-a-glorified-tape-recorder.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
     quality: 4
 
 secured: "HZYa8YAJdEB38NOe+mu3u3eau7bcx7PBsjey05hGg3yTBUkBqFVRM889+UWjTu+rvOjEO6p5x65h2p6+qDsC42zsLE0kjNu3UXF7Hu9cjCSBfnAnsV6+Xh9VBsL6ARo2FDNIJTo0xac+m2YHq4eXcR52PLTMwWg6gs9vccWymPJCeNRY96ejRwz4FqNRLcfGmivyVLqB5yGYMxceAYaTwZuS3cQpfqL09HJz6P0dBtK/OHL1ilj4IbbeqXvU/wVqvM4OKPmrqKhDPMYTZFuKWmjqGsaZavNnXVjVOjpAaulg2oxUuNvbjBX3QqvL/YyLQouMS+l0G6yg5a6tsV7RhFppoZbfMsuBCllSaMfYZ1MD7VtZRDHvS6DLEFtc8Qyh9rFjg/mNeYcgQlR9r7YNbOtbqwiSYY0Q9+jTf3jjwkYTgt2A1R6DgN4jSc5vYmTeCbUqxzagt/g0pXUdyTVaeHUiGSfDyMVjYntA99jmkzgUhEmnibIcPLIb2ekAL7tF9hApLYyW58hC5pP4WYppkQ==;ogiZvPdB+jL3LIwLDPaIVA=="

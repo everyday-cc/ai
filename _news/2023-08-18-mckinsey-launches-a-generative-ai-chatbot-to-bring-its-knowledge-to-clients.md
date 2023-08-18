@@ -140,20 +140,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "How did DefCon hackers do against AI chatbots?"
-    excerpt: "White House officials concerned by AI chatbots' potential for societal harm and the Silicon Valley powerhouses rushing them to market are heavily invested in a three-day competition endi"
-    publishedDateTime: 2023-08-13T21:30:00Z
-    webUrl: "https://www.columbian.com/news/2023/aug/13/how-did-defcon-hackers-do-against-ai-chatbots/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 39
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/08/Cybersecurity_AI_Security__44668-1ffca.jpg"
-        width: 899
-        height: 599
-        isCached: true
   - title: "Ascott leverages AI with new chatbot providing personalised services"
     excerpt: "CapitaLand’s wholly owned lodging business unit, The Ascott Limited (Ascott) has launched an AI-powered chatbot named Cubby to enhance the journey of its guests by being their travel buddy and supporting Ascott‘s growth."
     publishedDateTime: 2023-08-15T00:00:00Z
@@ -197,6 +183,6 @@ related:
         height: 440
         isCached: true
 
-secured: "mvqJ5CZjp/shq8nJaai2UtEgF2yc0Yct4Ow8YeOM7NLMIi/8qrGRtj6/7EOuiLtHfIvvbrXSRGSQbeQ5hqHL7TmxLUu2Uuj5EWnWQ/NZj83GtySwIjEMNl11640fZavrjWgzXITWo9E+iFrjMXHP1H9ZUSfVcLTfiEJxvQ1mjpTHuE1Bwn46+VHgdKHxVCZ60OIGURaZnwRNoZ4CIPGsOhqnqsdWi1na3vaZg6EvfL5BGnirPdXz6mdkMVfDRRtUGGQihwIAVyL5NqvYqxvUW3hDueENPrpnD6SgcbIObANWwUTdiPjNAujAdS6N2EmXcWgK0NfxGQYwDSx3lJZCNo85ZlXlNND+pwPbOb1zpFE=;prd5bDnWIvd1Puwh8rfLVw=="
+secured: "TTLIqTtVxUUDlAzKROZZHArd/yoLhD1sAsJuyuUsp5IYCFYL7UXIz3jOS/C9DofIJomhWNwL4SgWufPwWgMfAomFUxB9VSuPr74Ooh9eDsZLn8+C3hZ8AUTRekZvxlFwf2pQLXBWE1dLFxqnuK0jf6u2jH66LvhnSnKhG/ne0J05n05D+93MP3kwheoefBGf/FeUCWRh3kERExOxU2cj3njG2V75B+Jd+RRyoWyYI5pacsxhLGm1ZhegaS6WuEHZUEMyJLmPfKtdabgHvXLgSc8G3hpl3POk9Uw6B8RXCXMjXAGBwwuxTAfa0+wkAcNtOCmV1bsjVC9EIorJfcHmdXft6C9s4pZCaIEMsVLfjnofFpYuPwWAsoQdg22TzIaPhupXe35lLqvfFXO8g/szt8hqSGe/Iq8vDQq7+cb7rX3qyjWKjxCsvmfjWOVzQAoF24XNRc+l+qzbnzAHXEXD/wB1HvwQh0D81UyuoUniTIvCfq2QyoBqoKTXtmIhyL8hrdFB0GXP70iuAtgxb63ISA==;ne0Zq76gPwCtLgnIwJO6Bg=="
 ---
 

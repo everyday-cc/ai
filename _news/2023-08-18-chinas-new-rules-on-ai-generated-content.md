@@ -27,67 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI For Content Creation: How Marketers Can Use It"
-    excerpt: "Generative AI is changing how marketers interact with their target demographic, creating new opportunities for creative campaigns and generating significant outcomes."
-    publishedDateTime: 2023-08-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/"
+  - title: "Beyond The Hype: Three Best Practices When Using Generative AI In Healthcare"
+    excerpt: "As this technology progresses and models improve, organizations need to focus on evolving operations and training people, as much as on technology investments."
+    publishedDateTime: 2023-08-18T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 103
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/637e7f49c0cf9ed11c365146/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f16f271558c7c0006dd6f95/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "The Future Of MarTech: Is Generative AI The Next Big Thing?"
-    excerpt: "By tapping into an existing technical stack, marketers can unlock AI capabilities with confidence and derive unparalleled insights and innovations. Start in a sandbox environment. A sandbox environment is a controlled and isolated testing environment that ..."
-    publishedDateTime: 2023-08-17T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/08/17/the-future-of-martech-is-generative-ai-the-next-big-thing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/08/17/the-future-of-martech-is-generative-ai-the-next-big-thing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/17/the-future-of-martech-is-generative-ai-the-next-big-thing/amp/"
+  - title: "Wcm-Q Discusses Legal, Ethical Issues Of Generative Ai In Healthcare"
+    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed during the latest instalment of Weill"
+    publishedDateTime: 2023-08-16T03:14:00Z
+    webUrl: "https://menafn.com/1106864884/Wcm-Q-Discusses-Legal-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Mena FN
+      domain: menafn.com
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6479ea8344eabdf4ac13b283/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?248441"
+        width: 444
+        height: 250
         isCached: true
-  - title: "31% of Organizations Using Generative AI Ask It To Write Code"
-    excerpt: "Code development, content creation and analytics are the top generative AI use cases. However, data privacy is a concern."
-    publishedDateTime: 2023-08-17T23:32:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-enterprise-adoption-insights/"
+  - title: "How to tackle the ethics of Generative AI"
+    excerpt: "A tip by Daniel Pell of @Workday about how business leaders should approach the ethical questions around deploying #GenerativeAI"
+    publishedDateTime: 2023-08-15T07:36:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/08/15/how-to-tackle-the-ethics-of-generative-ai/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 54
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08172023-generative-ai-enterprise-adoption-insights.jpg"
-        width: 1400
-        height: 939
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/01/business-tip.jpg"
+        width: 728
+        height: 410
         isCached: true
-  - title: "Avangrid Pioneers In-House Creation of Artificial Intelligence to Increase Reliability"
-    excerpt: "Machine learning models will allow CMP, NYSEG, RG&E and UI to forecast grid performance ahead of severe storms, troubleshoot problems areas and pinpoint investments to increase reliability When descri"
-    publishedDateTime: 2023-08-16T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/b33878495/avangrid-pioneers-in-house-creation-of-artificial-intelligence-to-increase-reliability"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33878495"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33878495"
+  - title: "The Role Of Technology And Artificial Intelligence In Healthcare"
+    excerpt: "On the season 9 finale of NDTV-Dettol Banega Swasth India, experts discuss a pressing issue - the role of technology and artificial intelligence (AI) in healthcare and if it can take over humans in the healthcare industry."
+    publishedDateTime: 2023-08-15T15:41:00Z
+    webUrl: "https://www.ndtv.com/video/news/banega-swasth-india/the-role-of-technology-and-artificial-intelligence-in-healthcare-717786"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
+      name: NDTV
+      domain: ndtv.com
+    quality: 54
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://c.ndtvimg.com/2023-08/ahnjetto_banega-swasth-india_160x120_15_August_23.jpg"
+        width: 650
+        height: 364
         isCached: true
   - title: "Navigating Change Management In The Era Of Generative AI"
     excerpt: "To effectively navigate change management in the era of generative AI, companies must develop a deeper understanding of their offerings and customer expectations. This understanding will help them identify the areas where generative AI can provide value and where human interactions are indispensable."
@@ -98,69 +94,115 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "From Startup Nation to AI Nation: Listening to Machines"
-    excerpt: "Two Israeli companies are seeking to introduce the innovation of AI to industrial and energy factories, leading the traditional manufacturing sector towards a better future"
-    publishedDateTime: 2023-08-15T16:27:00Z
-    webUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-listening-to-machines/"
+  - title: "From Theory To Practice: How To Implement AI In Your Organization"
+    excerpt: "The reality of AI is that unlocking the true potential of AI in your business requires a thoughtful and strategic approach. While AI can provide valuable insights and automate tasks, it is not infallible. An over-reliance on AI will lead to risks and challenges."
+    publishedDateTime: 2023-08-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/17/from-theory-to-practice-how-to-implement-ai-in-your-organization/"
     type: article
     provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Generative AI: Will It Win The Next Enterprise Technology Arms Race?"
+    excerpt: "When AI models are fully integrated with the right data, they can move beyond shaping interactions in the moment and begin to predict the future."
+    publishedDateTime: 2023-08-18T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/generative-ai-will-it-win-the-next-enterprise-technology-arms-race/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "The Transformative Power of AI in Healthcare: Bots, Imaging, and Personalized Medicine"
+    excerpt: "In the ever-evolving landscape of global healthcare, there’s a new player making waves: Artificial Intelligence (AI). Its applications, ranging from interactive AI bots to detailed medical imaging and the promise of tailor-made treatments,"
+    publishedDateTime: 2023-08-17T10:59:00Z
+    webUrl: "https://techbullion.com/the-transformative-power-of-ai-in-healthcare-bots-imaging-and-personalized-medicine/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 46
     images:
-      - url: "https://static.timesofisrael.com/blogs/uploads/users/ami-appelbaum1692115798-400x400.jpg"
-        width: 400
-        height: 400
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/tuv-rheinland-131699993_shutterstock_everything-possible-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "From Startup Nation to AI Nation: The Farmer Knows Best"
-    excerpt: "For thousands of years, agriculture was based on human expertise and gut feelings, but this simply isn't enough in the 21st century"
-    publishedDateTime: 2023-08-15T16:37:00Z
-    webUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-the-farmer-knows-best/"
+  - title: "Generative AI in healthcare: Google Cloud’s Amy Waldron on the tech giant’s health ambitions"
+    excerpt: "Healthcare Dive caught up with Google Cloud’s Amy Waldron to discuss the technology giant’s plans — and the potential risks — of generative AI in healthcare."
+    publishedDateTime: 2023-08-17T17:56:00Z
+    webUrl: "https://www.healthcaredive.com/news/google-cloud-healthcare-amy-waldron-generative-AI/691085/"
     type: article
     provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 37
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 43
     images:
-      - url: "https://static.timesofisrael.com/blogs/uploads/users/ziv-katzir1692116510-400x400.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.healthcaredive.com/imgproxy/JE6m1JKnt2UbIcxtPg6sykAC5vaRUn1UPaHQJCPBHHw/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk3NjE0NTkxLmpwZw.jpg"
+        width: 770
+        height: 435
         isCached: true
-  - title: "How AI Can Scale Personalization and Creativity in Marketing"
-    excerpt: "Marketers know creativity is what attracts an audience and commands its attention. They also know that personalization is what delivers the right message to the right target at the right time to convert a prospect into a customer."
-    publishedDateTime: 2023-08-17T14:30:00Z
-    webUrl: "https://hbr.org/sponsored/2023/08/how-ai-can-scale-personalization-and-creativity-in-marketing?ab=HP-topics-sponsored-text-1"
+  - title: "Here Are the Generative AI Products UK Law Firms Are Using"
+    excerpt: "From Harvey and ChatGPT, to Lexis AI and CoCounsel, Law.com International unveils the GenAI products gaining the most attention."
+    publishedDateTime: 2023-08-17T17:12:00Z
+    webUrl: "https://www.law.com/2023/08/17/which-generative-ai-products-are-uk-law-firms-using-292-161851/"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
+  - title: "Which Generative AI Products are UK Law Firms Using?"
+    excerpt: "From Harvey and ChatGPT, to Lexis AI and CoCounsel, Law.com International unveils the GenAI products gaining the most attention."
+    publishedDateTime: 2023-08-18T07:40:00Z
+    webUrl: "https://www.law.com/international-edition/2023/08/17/which-generative-ai-products-are-uk-law-firms-using/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/08/AdobeStock_612806082-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
+  - title: "Local universities prepared to teach ethics of using generative AI"
+    excerpt: "As students begin arriving at colleges and universities to kick off their fall semester, they’ll have tools with them they didn’t have this time last year: ChatGPT and similar generative AI chatbots like Google Bard,"
+    publishedDateTime: 2023-08-15T11:00:00Z
+    webUrl: "https://rbj.net/2023/08/15/local-universities-prepared-to-teach-ethics-of-using-generative-ai/"
+    type: article
+    provider:
+      name: Rochester Business Journal
+      domain: rbj.net
     quality: 34
-  - title: "Dialpad integrates generative AI across its call center suite"
-    excerpt: "Cloud communications provider Dialpad Inc. is continuing its aggressive rollout of artificial intelligence capabilities with today’s launch of DialpadGPT, which it describes as a domain-specific large language model that’s tailored to the needs of customer service, sales, and recruiting operations."
+  - title: "Companies go all out to up their generative AI game"
+    excerpt: "The company is dividing its workforce into three layers, based on how deeply each needs to understand the new technology. The first and the broadest is mandatory training to bring all employees, regardless of role, up to speed on generative AI basics: what it is, how it works, best practices and how to use it ethically and responsibly."
+    publishedDateTime: 2023-08-17T13:00:00Z
+    webUrl: "https://www.seattletimes.com/explore/careers/companies-go-all-out-to-up-their-generative-ai-game/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
+  - title: "Local teens share how they're using artificial intelligence in school and beyond"
+    excerpt: "Junior at Ypsilanti Community High School, Ariana Perez showed us her favorite artificial intelligence app, Character.ai. The A.I. is full of different character bots that users can interact with."
+    publishedDateTime: 2023-08-17T18:39:00Z
+    webUrl: "https://www.wxyz.com/news/local-teens-share-how-theyre-using-artificial-intelligence-in-school-and-beyond"
+    type: article
+    provider:
+      name: WXYZ
+      domain: wxyz.com
+    quality: 14
+  - title: "Fine-Tuning, Prompt Engineering are Keys to Delivering Real Generative AI Solutions to Commercial Pharma Operations Today"
+    excerpt: "Generative AI further enhances the value of prompt engineering by synthesizing important insights from various interactions, including text, images, compliant transcripts, and call notes. By automating this process,"
     publishedDateTime: 2023-08-15T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/15/dialpad-integrates-generative-ai-across-call-center-suite/"
+    webUrl: "https://medcitynews.com/2023/08/fine-tuning-prompt-engineering-are-keys-to-delivering-real-generative-ai-solutions-to-commercial-pharma-operations-today/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
-  - title: "Generative AI use cases for Asset Management Firms"
-    excerpt: "Our generation is witness to the emerging power of current game-changer Generative AI (GenAI), which is a deep learning technique of Artificial Intelligence ... which itself is a convergence of neural network models, made commercially available now due ..."
-    publishedDateTime: 2023-08-17T08:29:00Z
-    webUrl: "https://www.finextra.com/blogposting/24754/generative-ai-use-cases-for-asset-management-firms"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-  - title: "AI-Powered Innovation: VAST's Vision for Democratizing 3D Content Creation Takes Center Stage as the first Chinese keynote speaker at SIGGRAPH 2023"
-    excerpt: "At the SIGGRAPH 2023 conference, Yachen Song, founder of startup VAST, presented his vision for using artificial intelligence to transform 3D content creation. VAST joined industry leaders like Nvidia and Unity on stage at the 50th anniversary of SIGGRAPH,"
-    publishedDateTime: 2023-08-14T21:53:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/14/9864212.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: MedCity News
+      domain: medcitynews.com
     quality: 0
 
 secured: "s13k0hiYqIwR0RPefwE26jQCcfr1xGhE2mVwPSKyFOD8x9V6024K9tJvhuu3SKLDkX1mjAjOobKqoDmgdvLD0FaOhzGkryJWHM55EbGSAaW1IY43zxqw9YGpgyAU6KLSx3Qf1abzDt5VkykxvxbxZ8QAXWF3JGdcPgNlcMB5C8/CkMIjkCGWCFKdOFk0yOwugO91MjRVpLgTnnXg1gZ+W3LWkZ/ZP30cJ+fx7MmhO/thZ1cDxAtYTORMjlo6ijPOhOurQSad0SphmrdbMIEdT/Djqv0nE5MyF6yyxVih3acPJ4NUeY8kdr1sFF1AU1sIzay0ExjZ4CU17rMc5Aysy93pCyMFQ0/xUVdMWqW7QXg=;k5qkVUnwnDEwztIu+lfOAQ=="

@@ -25,28 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The True Role Of AI In Logistics"
-    excerpt: "AI-powered robots can efficiently sort ... Companies need to change their behaviors from looking in the rear-view mirror to what has happened and start looking forward to using real-time and predictive insights. They need to trust the data that allows ..."
-    publishedDateTime: 2023-08-17T12:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/17/the-true-role-of-ai-in-logistics/"
+  - title: "BMC’s CTO Ram Chakravarti on Generative AI in the Enterprise"
+    excerpt: "The BMC executive discussed the challenges posed by generative AI and also gave advice on optimizing enterprise AI deployments."
+    publishedDateTime: 2023-08-15T21:59:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/bmc-generative-ai-in-the-enterprise/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Educator discusses the role of artificial intelligence in schools 🤖 ️"
-    excerpt: "A leader in educational innovation believes there is a role for artificial intelligence to be aware of as the new school year approaches, and that role is not one that is exclusively ne"
-    publishedDateTime: 2023-08-14T13:56:00Z
-    webUrl: "https://www.cbs58.com/news/educator-discusses-the-role-of-artificial-intelligence-in-schools"
-    type: article
-    provider:
-      name: CBS 58 News
-      domain: cbs58.com
-    quality: 37
+      name: eWeek
+      domain: eweek.com
+    quality: 67
     images:
-      - url: "https://newscdn2.weigelbroadcasting.com/HhOUm-1692016508-261477-blog-Classroom%20Learning.png"
-        width: 1280
-        height: 720
+      - url: "https://www.eweek.com/wp-content/uploads/2023/08/eSPEAKS-thumbnail.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "3L9mqJPh6ScWOuI+HVDXPJ+TSnR1hSNjv9b4iQz+piMfLN5GgbxOxImZXtfbAOhr5i1rOq/YRW3hXtmel/k3hqroMILLvo3vfykjrvJYemjsFHXNtQYm/TTfxZ0cOhPr/cwP9/ujstPWqGdMSm2zfg2umjhqqNkG+voRf4wpnEg2YAyC5WdN7BsFv8+RytS5s1LNIgObvfmofPl+i4zyqqrShvpyJzybQbxfv/Re8EsQEFtFbPijGU+1/gTsQ4KkPqio2Fw/e5vLsMmXcyItlCqidV4563hQRzWubWd0UQl4kVHMo8sPpBsHskP1pf/qCmA1VifLu48wyuDKoUTsYVXGPxB3LggXHeYK0y+maAU=;o7ehtvwSr9eAZn5rsJ3j2g=="

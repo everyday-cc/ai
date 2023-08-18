@@ -39,6 +39,15 @@ related:
         width: 659
         height: 1024
         isCached: true
+  - title: "FinTech LIVE: Digital Ecosystems Forum"
+    excerpt: "Join experts from Canapi Ventures, First Horizon Bank & Able AI at FinTech LIVE NY discussing digital ecosystems, VC trends & innovation"
+    publishedDateTime: 2023-08-18T12:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-live-digital-ecosystems-forum"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "GezJYrRYnJrPycs1km5cabHC6RCPPtlSd/f0sm1xOFsLGa2xcxL2IGj5j3AQkzcQIlrJx/4sDv9X8pMDuCyiRx30R6BEbyQUaDrxSpb6XhmZQ+pk+M3f6fw1PSs+4Ptrs2hZFb85xe83zeYm9rRdzTIcNpgI9SIGk6YZSxVBJ7pknC6ZwCbbY80XDjF+2bt+E/davz+JOLy1XfZHEaLn2LLNnLn6/7nRJ5yVKVist0VvpodhuGQUCLXFtNxm4wbAqlC6xutPBXk1YsxqWUKxc5s4kGRZKI0eMV2KDkDNjKERq9n1vFV6SbSQBWksrko/9BfC1wXzJBcyvnupbpogBHiksNK29mm8tKBDt9MgNvcbPpvYpGAQ4zu9a5SuNVpVh56vU/jhfNMUFy2QIr9GrP8GhuFJCXK/ioJQK47iWorFaAShv2IIkc2tlkK2NieG38wikh8T8hgl07p90kmW05QSMKwQjrt3PpnubMTivNXArAlwT6vsuPWCx+4ysdcwh5aTOFI2obrY+5S78tNLpw==;0nOeCg+HagY8Mbx7kjs8/g=="
 ---

@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "China's new rules on AI-generated content"
-    excerpt: "Here's what you need to know about Beijing's regulations, which target services for the general public: - AI ethics - Generative AI must \"adhere to the core values of socialism\" and refrain from threatening national security and promoting terrorism ..."
-    publishedDateTime: 2023-08-18T07:02:00Z
-    webUrl: "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb"
-    ampWebUrl: "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZjUxZGU2ZTEtYTI4MS00/0/afp_33r87q8-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Avangrid Pioneers In-House Creation of Artificial Intelligence to Increase Reliability"
     excerpt: "Machine learning models will allow CMP, NYSEG, RG&E and UI to forecast grid performance ahead of severe storms, troubleshoot problems areas and pinpoint investments to increase reliability When descri"
     publishedDateTime: 2023-08-16T16:00:00Z
@@ -92,15 +76,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Navigating Change Management In The Era Of Generative AI"
-    excerpt: "To effectively navigate change management in the era of generative AI, companies must develop a deeper understanding of their offerings and customer expectations. This understanding will help them identify the areas where generative AI can provide value and where human interactions are indispensable."
-    publishedDateTime: 2023-08-17T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/17/navigating-change-management-in-the-era-of-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "From Startup Nation to AI Nation: Listening to Machines"
     excerpt: "Two Israeli companies are seeking to introduce the innovation of AI to industrial and energy factories, leading the traditional manufacturing sector towards a better future"
     publishedDateTime: 2023-08-15T16:27:00Z
@@ -156,6 +131,20 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "A Chinese Startup VAST Makes Keynote Speech at SIGGRAPH, Unveiling Breakthroughs in Generative AI in 3D Content Creation"
+    excerpt: "During his keynote speech at SIGGRAPH, Nvidia's CEO Jensen Huang announced a series of technology and product updates, including the next-gen GH200 super chip platform, RTX workstations, AI Workbench, an Alliance for OpenUSD (a 3D image editing format), and more."
+    publishedDateTime: 2023-08-18T15:24:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/18/9866970.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
+    images:
+      - url: "https://api.contentsyndicate.net/uploads/stonesPR/editor_image/956d91c1-196a-40ab-ad0e-21b160d4c1b6.jpg"
+        width: 1099
+        height: 815
+        isCached: true
   - title: "AI-Powered Innovation: VAST's Vision for Democratizing 3D Content Creation Takes Center Stage as the first Chinese keynote speaker at SIGGRAPH 2023"
     excerpt: "At the SIGGRAPH 2023 conference, Yachen Song, founder of startup VAST, presented his vision for using artificial intelligence to transform 3D content creation. VAST joined industry leaders like Nvidia and Unity on stage at the 50th anniversary of SIGGRAPH,"
     publishedDateTime: 2023-08-14T21:53:00Z

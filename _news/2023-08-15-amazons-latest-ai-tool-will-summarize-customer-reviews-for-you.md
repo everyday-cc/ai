@@ -111,20 +111,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 51
-  - title: "Which Generative AI Products are UK Law Firms Using?"
-    excerpt: "From Harvey and ChatGPT, to Lexis AI and CoCounsel, Law.com International unveils the GenAI products gaining the most attention."
-    publishedDateTime: 2023-08-18T07:40:00Z
-    webUrl: "https://www.law.com/international-edition/2023/08/17/which-generative-ai-products-are-uk-law-firms-using/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/08/AdobeStock_612806082-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "AI comes to Amazon product reviews"
     excerpt: "Some Amazon users can now take advantage of a new artificial intelligence tool that recognizes common themes from customer product reviews and turns them into a short summary. Ben Bergman, senior correspondent for Insider focusing on the tech industry,"
     publishedDateTime: 2023-08-16T15:45:00Z
@@ -139,15 +125,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Local universities prepared to teach ethics of using generative AI"
-    excerpt: "As students begin arriving at colleges and universities to kick off their fall semester, they’ll have tools with them they didn’t have this time last year: ChatGPT and similar generative AI chatbots like Google Bard,"
-    publishedDateTime: 2023-08-15T11:00:00Z
-    webUrl: "https://rbj.net/2023/08/15/local-universities-prepared-to-teach-ethics-of-using-generative-ai/"
-    type: article
-    provider:
-      name: Rochester Business Journal
-      domain: rbj.net
-    quality: 34
   - title: "Team Behind New Generative AI 'Copilot' Says Tool Can Reduce Contract Review Time by 82% on Average"
     excerpt: "Robin AI claims that the LLM its Robin copilot trained—known as “Claude” and developed by AI start-up Anthropic—has been refined to the point where businesses have reportedly already reduced the time it takes them to review contracts by 82% on average."
     publishedDateTime: 2023-08-16T20:06:00Z
@@ -179,6 +156,15 @@ related:
     provider:
       name: Popular Science
       domain: popsci.com
+    quality: 17
+  - title: "Designing Generative AI to Work for People with Disabilities"
+    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
+    publishedDateTime: 2023-08-18T12:05:00Z
+    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
     quality: 17
 
 secured: "wsIAzOMDLyOYRS/6C3Qpx3xAIenIP1jIGo2D5gV4pPFdF12JWnk5YTWuIoXsmguOJOhV+HopHgWQjqgoKT3nkbQZ4nk30rGLNbxAJvEQ65Tb5wlwk4E62Kz+ar5bffceApbxfrqPA2+S0y+kOn482n7LtaB8OrzEWa5y2goj/tu/5C+nix5pdX0M9q29d3k7us7nbfdzZBZfdlOjxKrOF4Ui8zVkPC/Qa8VFW9KZJOw1utLs0L1CWMQEob4/qbQbnQ1oReVDqz+qodjkf4FQOOHjAVHqi8OVgC8NaWGwa/noHzX06zi4+yVReLAc3WncyN25OJbrHFjsPYv8HP2NAi/1xNe2s7k+pJhmB3q9xf7wbzum7jnELYNWQGllwIARwgrtqunr/bQaYnbXB/GVCJxSF1sew/kxzM3tRGvLbXo6wwIXy3R2er02AUBGHe7NUEvl/pEmTVTtZH57RxhIVlFOPYMiXMWHRH1qODGkkvcOO37M1GZ/dbOktPObhXWzXGfZEP5AFaxLNMQiNkwl7g==;bGiMK+WcjyPeDA428CiLUQ=="

@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving cars block roads in San Francisco"
-    excerpt: "A busy bar and restaurant area in San Francisco was brought to a standstill by malfunctioning self-driving taxis only a day after state regulators had approved"
-    publishedDateTime: 2023-08-13T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/self-driving-cars-block-roads-in-san-francisco-5bzgtpptd"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F0942f298-3a09-11ee-81cd-1bf34cc855cb.jpg?crop=2902%2C1633%2C0%2C151&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Stalled self-driving taxis clog streets of San Francisco"
     excerpt: "Just days after robotaxis were given the go ahead to begin charging passengers for rides in San Francisco, residents found nearly a dozen of the self-driving vehicles stalled, clogging the streets and causing a massive traffic jam."
     publishedDateTime: 2023-08-14T01:50:00Z
@@ -104,6 +90,15 @@ related:
       name: New Scientist
       domain: newscientist.com
     quality: 19
+  - title: "Here come the driverless taxis"
+    excerpt: "San Francisco finally permits a 24/7 service despite local resistance. Can autonomous carmakers now win over the world?"
+    publishedDateTime: 2023-08-18T15:34:00Z
+    webUrl: "https://www.ft.com/content/84ef1d6c-f731-4c78-a056-5bf368beac2b"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
   - title: "San Francisco Wants Halt to Cruise, Waymo Expansion Ruling"
     excerpt: "San Francisco asked California regulators Aug. 16 to halt its approval of Cruise’s and Waymo’s unrestricted commercial expansion in the city, arguing the city “will suffer serious harm.”"
     publishedDateTime: 2023-08-17T17:50:00Z
@@ -113,6 +108,15 @@ related:
       name: Transport Topics
       domain: ttnews.com
     quality: 19
+  - title: "Cruise self-driving cars stall in San Francisco"
+    excerpt: "A fleet of Cruise self-driving cars stalled in San Francisco, causing a traffic jam and raising safety concerns about the technology. Videos posted on social media showed at least 10 Cruise cars stopped in the city’s North Beach neighbourhood ..."
+    publishedDateTime: 2023-08-18T12:45:00Z
+    webUrl: "https://www.itworldcanada.com/post/cruise-self-driving-cars-stall-in-san-francisco"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 4
   - title: "Ten Self-Driving Cars Cause Huge Traffic Jam After Losing Wireless Signal"
     excerpt: "Self-driving cars caused a major traffic jam on Friday in San Francisco when ten of its self-driving taxis simply shut down."
     publishedDateTime: 2023-08-15T18:25:00Z

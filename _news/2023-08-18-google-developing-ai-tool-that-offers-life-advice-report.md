@@ -57,6 +57,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "AI is helping expand accessibility for people with disabilities"
+    excerpt: "As AI and its associated technologies see increased adoption, there is reason to believe that people with disabilities will increasingly explore this space to enhance their lives."
+    publishedDateTime: 2023-08-18T14:30:00Z
+    webUrl: "https://cointelegraph.com/news/ai-accessibility-disabilities"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMWRmMTE2NmQtNzRhZS00OWE1LTg2NDEtZTAwZDE1N2U3ZmQ0LmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Google Wants to Build an AI to Give You Life Advice"
     excerpt: "Google’s AI department DeepMind is working on a suite of generative AI tools to help dole out life advice, according to The New York Times. The company has partnered with software firm Scale AI to develop at least 21 bots for things like idea generation,"
     publishedDateTime: 2023-08-17T13:41:00Z

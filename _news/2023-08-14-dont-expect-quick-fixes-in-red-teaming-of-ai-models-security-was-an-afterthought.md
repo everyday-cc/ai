@@ -3,22 +3,27 @@ category: news
 title: "Don’t expect quick fixes in ‘red-teaming’ of AI models. Security was an afterthought"
 excerpt: "Current AI models are simply too unwieldy, brittle and malleable, academic and corporate research shows. Security was an afterthought in their training as data scientists amassed breathtakingly complex collections of images and text. They are prone to racial and cultural biases, and easily manipulated."
 publishedDateTime: 2023-08-13T19:19:00Z
-originalUrl: "https://www.wsfa.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
-webUrl: "https://www.wsfa.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
+originalUrl: "https://www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
+webUrl: "https://www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/"
+ampWebUrl: "https://www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
+cdnAmpWebUrl: "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp"
 type: article
-quality: 29
-heat: 29
-published: false
 
 provider:
-  name: WSFA
-  domain: wsfa.com
+  name: WOWT.com
+  domain: wowt.com
 
 topics:
   - Facebook AI
   - AI
   - AI in Security
 
-secured: "ku5/2rb6OSSCVUlkYGvsOw6ipXnF8BlClT6f6HbwOZs3pS0HVQHI+y9ZqcH7ghmBbBtCrdR9TRDCCLVH0L0xHXworA0lCIIG1VPCN21RBMHcJ4/15ee6tdDGaagXehPhLKYge9+YbhYIfg0sUyKtQhb2O2rTtInK+b0/o+cZFyGZZ+AcjWOAVZ4vRz391fa+8EkpY3Xu1t0DBZTZFXRR15qyeJRzaBKWuOAM4tPzFKseWJ6g4V1OMNV0sHY5PeOBjki4FV+UMikgPuW75dxjcpOUi3x5uFPlmG7qlDhtjJeS/rtBOnXxtYEFRcwpiPul5p4daPmfUtDO6rWmHAhC7ByNKI+WDxl5lNbSERIJUYt3KBpv5NGRk56CnKh2TUaxHDQvvOsTJarQ7ATs5nGGl16KlVmW7wC0BB/6wgnZaAuiOyx1M9/eNodttqia9tv4RW0otuGEnik7XCcUK8l0610DCHptqWRJYBY0OhX12FNyEy7w7b6n7bSqLr6atAYXJA9wbsOQdI74pC6yyNqJzg==;D9yorBajtGZ6gVpq+mSB8g=="
+images:
+  - url: "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/97zyX45bgwivL9P6BPDsEf0Vnig=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5CIOSRXO6BFQVE3WVW55F4TXYU.jpg"
+    width: 800
+    height: 450
+    isCached: true
+
+secured: "TsE/EWxOV2+Oy1beCp2/x17+b35GIDyebjGxW2tWSoUaIgMkAE035qhSf8muB3l01zzkupDz/Tuc/fJYG1ROj6oYPr4zbh7sKKXR7Nxq2h1fSqZ+6zs7GdwS1QvGphMWsan0zNRIfSZrapiW9OnwpUJrFoL56XdL8jgdmzjKT+2CNKcT+CAczWrpy0mP8o8O06OUPz2Wx8rmHv8BPsiMylDO6o6IPMtHHQNPOveX6IgTHZI0PjXtrVB9z2PuXp5Q8fc++WtWt3SUpXNQrjs5WlZxRjIAT/KWPhuxeZJCPQHoGRm/o5P32bNQvcfZCPPWdxO/J5z4d/2VP81P+AHnRzy6iFPqDv3TaVmh806kYOo=;8YN9MDu3I0ygntsY7q+xTg=="
 ---
 

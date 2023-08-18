@@ -40,7 +40,16 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cloud Ground Control and Robotics Australia Group enter new strategic partnership"
+    excerpt: "Cloud Ground Control says the partnership aims to facilitate the growth of a sustainable and internationally competitive national robotics industry through a focused, collaborative approach ..."
+    publishedDateTime: 2023-08-15T00:04:00Z
+    webUrl: "https://itwire.com/it-industry-news/deals/cloud-ground-control-and-robotics-australia-group-enter-new-strategic-partnership.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 29
 
-secured: "uz42WSKckAwS+eaz3PFzp+e5L3xuuGCctJnlYi4ZzgqleiWPRm5s+GOAlrZEyBdVOq/tcsntvq92fr3iXgR3la3RJDmjd5OrTA+qaLyY/d7osUPsEkcaN4J0uKZ2fU3x8ZyJ1z+yvs+ouepNRx/ykQG1tG6cwjWOp9HmhV/H/qxLOLPGF5ZdnqDo4bfFaQZnRARsu+VmDzCEboZ1Ufr2otLQNvoF0tWtphLoDWudJaxVxpK6JQaBkbQWplN2IIVVJ1IOlpvfNltSxLuigHcF17tbv+wcLVQzVK+mYjmN0JXjUpL/TO5VPELZ1sPLClwXqHfxocLufSFR/MN81BKzaTpzQVjuof0ePzF4mGBXZeA=;3vE7sM3N2eNNrJmDASkhMg=="
+secured: "hV4KF/UMwoxBfQCHi+ny//NvxJlxnuHNkvaM1AQS80PMpIreeu76V5FuEv3qcDSIFjf08XasXVWnR782hMPRlj5Tm/GJjUgAOKPLanHersL78vXNeW3ad1YPAMYu7GsW263Kww5WCKzYj9w1bJULRYoniZ7dsbuFrQ7eUHULcbpdbdnFsCdL4R9Q8lDgEdvtc84fchB01UJ5owaMqCcRfw8Egc2WsfeOurmytJFrn7q/wH/rzf2LGZJeZq+PomKnDvgr1qSqEF1SO4uf30Eezv5lwisCs46oKyUbPJM1JThJcTxwMZcAT2+vW6xhFBjKkWDVLvWUPDnFi8BUyBVeH2X7NbuD2b72SOvxe/HdX4jwpTeSnBcMsCrD12f+al9DlAFeQKcJ0cd46Shd6C/CFRoznfkR5EL+/KpTh2hurzQPYMqK3fkjuiuWALjQVgiWSCjI0rTsGb2ng2/tA2L0lAj6C6fJohl9zLCxtKIwLqa2gqcpv7BpMUyuCA/tqNLBIvIR2o6GRAXA+MqaTAAe0g==;eBPfa5UrzbZRhp1U3l7NkQ=="
 ---
 

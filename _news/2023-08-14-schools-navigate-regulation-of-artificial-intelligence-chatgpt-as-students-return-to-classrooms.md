@@ -110,6 +110,33 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "These States Are the Most Tech-Obsessed, Can't Get Enough of ChatGPT, AI"
+    excerpt: "Is the East Coast or West Coast more excited about AI chatbots? A study of Google search trends in each US state reveals where people are the most interested in next-generation technologies."
+    publishedDateTime: 2023-08-18T12:00:00Z
+    webUrl: "https://www.pcmag.com/news/these-states-are-the-most-tech-obsessed-cant-get-enough-of-chatgpt-ai"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 46
+  - title: "Google Sparrow: an AI to compete with ChatGPT"
+    excerpt: "In response to the danger posed by ChatGPT, Google is preparing its solution with its own artificial intelligence. Created by DeepMind and called Sparrow, it must provide reliable and sourced answers while respecting certain limits. In this article we will ..."
+    publishedDateTime: 2023-08-14T13:41:00Z
+    webUrl: "https://ccm.net/apps-sites/apps/10537-google-sparrow-an-ai-to-compete-with-chatgpt/"
+    type: article
+    provider:
+      name: CCM
+      domain: ccm.net
+    quality: 19
+  - title: "ChatGPT is a Glorified Tape Recorder"
+    excerpt: "Large language models (LLMs) are the new wave of artificial intelligence that trains neural networks with a large amount of human-generated text with the goal of producing new text and knowledge. In an interview with CNN anchor Fareed Zakaria yesterday ..."
+    publishedDateTime: 2023-08-17T21:13:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/08/chatgpt-is-a-glorified-tape-recorder.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 4
 
 secured: "Tb4igftKbvXQUK3J+Ph9oN7b4gld82uZ7XQ50tnFtdNGchZqVt69krdxIL/SFVZi8wZPZao2bBVWIGa6Vx/Rd3iT764IQU0G6XimDreZ5asoBLc6sqHMt/gWYIq8MNBRhsrA/Bx9SY1HQPzINLqgDcmKHZndXnXxN0lnLhg/kMPhxV6ftp3G7f59Kz28Au2iqGnNf6qV3A8Q6fE/rlITqLup9p+IlxoWgZtSAkN+P1e0nHJseUQewt8MjS3jQKrQttDSfJGpP9+G52tCi49H2QAMVJHBzZ+EW0YX8rza/nDMXs6ZvrJicb4r/3A5pxTRdVquZS+xmvXo1OHV1ey60jRhux7N6spqr1W10uP6ZvPXP5cskNgVfcuOaTA4dw1WejfBFPP22YT/3982nEuLAIfuHRZ6Mhdg/5D1PjHxnB51LYga7oOgLb09tegM8bzE6G1Wn/Vqs6m6iAJy0KYsfouG5KSZPXw/aDTn6JNDtFDPBZYGp90xt1Q+Nv5lHrsop2nQJLVNO0kZIUNOqlFbvA==;On68BBYdeXndIZj5I0D0gQ=="
 ---

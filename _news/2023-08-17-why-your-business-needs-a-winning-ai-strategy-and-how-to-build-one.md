@@ -58,22 +58,6 @@ related:
         width: 1080
         height: 540
         isCached: true
-  - title: "Time To Redesign Your Career For The Age Of Artificial Intelligence"
-    excerpt: "The continued rise of AI will change the type of work we do, and how we do it, but augmenting rather than replacing human capabilities."
-    publishedDateTime: 2023-08-13T21:30:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/08/13/time-to-redesign-your-career-for-the-age-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d940f4725deaf2b4635ebc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Lunch and Learn event helps businesses adapt to AI"
     excerpt: "The panel featured a trio of presenters, all experts in startup AI-focused businesses. \"Change is coming and I really want local businesses to shift from being threatened (by AI) to being the threat,\" said chamber member Aaron Smothers, the chief ..."
     publishedDateTime: 2023-08-16T03:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhan
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhance-product-reviews/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -111,20 +111,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 51
-  - title: "Which Generative AI Products are UK Law Firms Using?"
-    excerpt: "From Harvey and ChatGPT, to Lexis AI and CoCounsel, Law.com International unveils the GenAI products gaining the most attention."
-    publishedDateTime: 2023-08-18T07:40:00Z
-    webUrl: "https://www.law.com/international-edition/2023/08/17/which-generative-ai-products-are-uk-law-firms-using/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/08/AdobeStock_612806082-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "AI comes to Amazon product reviews"
     excerpt: "Some Amazon users can now take advantage of a new artificial intelligence tool that recognizes common themes from customer product reviews and turns them into a short summary. Ben Bergman, senior correspondent for Insider focusing on the tech industry,"
     publishedDateTime: 2023-08-16T15:45:00Z
@@ -139,15 +125,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Local universities prepared to teach ethics of using generative AI"
-    excerpt: "As students begin arriving at colleges and universities to kick off their fall semester, they’ll have tools with them they didn’t have this time last year: ChatGPT and similar generative AI chatbots like Google Bard,"
-    publishedDateTime: 2023-08-15T11:00:00Z
-    webUrl: "https://rbj.net/2023/08/15/local-universities-prepared-to-teach-ethics-of-using-generative-ai/"
-    type: article
-    provider:
-      name: Rochester Business Journal
-      domain: rbj.net
-    quality: 34
   - title: "Team Behind New Generative AI 'Copilot' Says Tool Can Reduce Contract Review Time by 82% on Average"
     excerpt: "Robin AI claims that the LLM its Robin copilot trained—known as “Claude” and developed by AI start-up Anthropic—has been refined to the point where businesses have reportedly already reduced the time it takes them to review contracts by 82% on average."
     publishedDateTime: 2023-08-16T20:06:00Z
@@ -179,6 +156,15 @@ related:
     provider:
       name: Popular Science
       domain: popsci.com
+    quality: 17
+  - title: "Designing Generative AI to Work for People with Disabilities"
+    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
+    publishedDateTime: 2023-08-18T12:05:00Z
+    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
     quality: 17
 
 secured: "BRhewlq6agldl3ooJam0ueZDjeH4e9EmlEEB/iMylE5K3/n2grHvzN/muicHqHhZKEVUTcpIDcyxIQhaiLc4dQNULi7otFHtTglZpofp0fY8B53EeAWZU07lX+4KNGOTAL6pmFlgnfClFGZSn3GBixryDX6p27o3bIOxbduA7HeLaQOda7IgkmVX7f79eOTLFTnbTP6uyBFJIlF8dMvZuAcrAwy8zRGGjo71I3h8BofQZyWcwJwDNeLWXZJkkB8tIKKQWzJqfH2lob97trYpHIKVdcRe33Wd85LtwTp1ne4iZBs7g9O7aNQ8T7hNsjzFCDb9ykNTL9aNKMlypa6Qxi5PfbgnWKaymiry+fbSjHlAR0pWUume+zLqOd8HZ90kU27jnO1TPaa98OQ0SGsUqq/FoMxlQFDxFFt/DhfjrgzFuuU8phijsfpkoNaEz0ieLITcfu5lxT0fyMi+qo9hs1GaMKKbvJRtPMMQZEolENBqC3z2rFDTQ5X/dEN93kPR8n/4zH2K6Js0bwmN3nGy1Q==;qyXZQgRTWs52ua7VxmKQEA=="

@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Red flags waving for tech stocks as AI bounce fades, China fears escalate"
+    excerpt: "As tech companies look forward to big opportunities in AI, this latest earnings season seemed to reveal some cracks in their present-day armor."
+    publishedDateTime: 2023-08-18T15:44:00Z
+    webUrl: "https://www.marketwatch.com/story/red-flags-waving-for-tech-stocks-as-ai-bounce-fades-china-fears-escalate-fbb986c1"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/red-flags-waving-for-tech-stocks-as-ai-bounce-fades-china-fears-escalate-fbb986c1"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/red-flags-waving-for-tech-stocks-as-ai-bounce-fades-china-fears-escalate-fbb986c1"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://images.mktw.net/im-838250/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "uEG+0p0Y0KVE72EAVxo7dGEEidr769+XCyeHoFsyYlK4xaQg5U0BKZsaKcs+GUmM7uwJf6ZPJ+e+HNKmdcCvTpcmNeRCdSbKkxrYwZl4iOHsDfC1Il8Ci0+Fvd1vqhoHXIRuCBRbZMDO8rEucItGowzR81w/q7ezHuCX7A7uoUsv5SICevLlL+1UVNQrwqJEEkdLSfQ4RjhVA2kppnkU9MCJbIhU6OccFmVcJ4RJlRsP4hBQMOdQib9PVfgJp5Ng5FV3DsyZr5JtUSxIhntSwGz9mQXG14Y/hc01+xURkgDmnx57oFllCWyU4X72sYyHS5TnDQa85PSyeU4Hrd8Dv3fXeZghHRWsj88TGJ0TjVc=;pbPCikkWCDmzA002jHY0OA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/when-hackers-descended-t
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/when-hackers-descended-to-test-ai-they-found-flaws-aplenty/amp_articleshow/102790956.cms"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Indiatimes
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Why Advisors Need to Understand AI"
+    excerpt: "Even non-tech companies like Ford and John Deere are increasingly investing in artificial intelligence. Healthcare is also seeing tremendous interest in artificial intelligence, as are other major ..."
+    publishedDateTime: 2023-08-14T21:28:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-advisors-need-to-understand-ai"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "When hackers descended to test AI, they found flaws aplenty"
     excerpt: "Over three days, 2,200 people filed into an off-Strip conference room, using 156 loaner laptops to seek out the dark side of artificial intelligence."
     publishedDateTime: 2023-08-17T18:54:00Z

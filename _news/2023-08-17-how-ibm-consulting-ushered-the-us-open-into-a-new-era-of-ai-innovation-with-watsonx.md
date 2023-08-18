@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-in
 webUrl: "https://www.ibm.com/blog/how-ibm-consulting-ushered-the-us-open-into-a-new-era-of-ai-innovation-with-watsonx/"
 type: article
 quality: 128
-heat: 178
+heat: 188
 published: true
 
 provider:
@@ -53,6 +53,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107288359-1692300055703-ferruci.jpg?v=1692306945"
         width: 2766
         height: 1844
+        isCached: true
+  - title: "Elemental Cognition, headed by the former CEO of IBM Watson, raises USD 60M"
+    excerpt: "David Ferrucci, the former leader of the team that developed IBM Watson, founded the artificial intelligence startup Elemental Cognition Inc."
+    publishedDateTime: 2023-08-18T14:10:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 72
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Elemental-Cognition-headed-by-the-former-CEO-of-IBM-Watson-raises-USD-60M.jpg"
+        width: 1500
+        height: 844
         isCached: true
   - title: "Former AI researcher of IBM Watson clocks $60 million for his AI-based Elemental Cognition"
     excerpt: "David Ferrucci, former artificial intelligence (AI) researcher, IBM Watson’s development team, has secured an approximately $60 million funding for his Elemental Cognition AI startup, as stated by Cointelegraph. According to Cointelegraph, the ..."

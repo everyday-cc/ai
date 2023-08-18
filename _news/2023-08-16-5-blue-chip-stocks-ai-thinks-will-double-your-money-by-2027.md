@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/5-blue-chip-stocks
 webUrl: "https://markets.businessinsider.com/news/stocks/5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027-1032560778"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -33,6 +33,15 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With stocks with high exposure to the artificial intelligence mega-trend"
     publishedDateTime: 2023-08-17T10:31:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/7-very-overvalued-ai-stocks-to-sell-now-1032562677"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "3 Millionaire-Maker AI Stocks to Hold Through Thick and Thin"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI’s market is a vast growth prospect, set to exceed $1 trillion in AI"
+    publishedDateTime: 2023-08-18T12:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-ai-stocks-to-hold-through-thick-and-thin-1032566550"
     type: article
     provider:
       name: Business Insider

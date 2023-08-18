@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -203,15 +203,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 7
-  - title: "Fine-Tuning, Prompt Engineering are Keys to Delivering Real Generative AI Solutions to Commercial Pharma Operations Today"
-    excerpt: "Generative AI further enhances the value of prompt engineering by synthesizing important insights from various interactions, including text, images, compliant transcripts, and call notes. By automating this process,"
-    publishedDateTime: 2023-08-15T13:00:00Z
-    webUrl: "https://medcitynews.com/2023/08/fine-tuning-prompt-engineering-are-keys-to-delivering-real-generative-ai-solutions-to-commercial-pharma-operations-today/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 0
 
 secured: "t3jpAWfavcvUKg3wX57Be0BkIpgJq+dstOv4UsUnBlBXreSRmiEDba/arWxobDxNB5vErdgOY3r+YhBsbkyYegActRcoHq7CDYcmrKd7xHjzPtli4nYY+L9nh9ZiZtERKuXdrn6uuy5uXShC2jawvAP27J4VnnY1CC28HjzqjXf/JeB5UqifDxw1fytIMIx1Uy3lk1EvaGGKT7ar8S9P2ZmrmCLlK8TKFOhJmSvFkK/qjQmh4+L1KKhi5Rk7mePtIHazE6k4yvKlTbq6jC2fOgT0NBQASGab3cG23Q5vGlhdLFJZOTvVWke6bcD9xz0DwRdvqkutpY1Kh9D8hcYUFT8cOf5AfDq/sCmIJ61gkwyLtwNUiaV//wXGEHG7fgfMgIjtkV6x5bEfBW447B4jICKyUd4jEWD0Sm1di5J4DXobeeYLpfDSPMrJK/uAlaE1twhpokPw1ERaXCQ2xULK8juvGP+Kjdvo4EZTZmGkbEZmqc2dEuPT4JK1JS0mE5qQhTlZHyEDJHHtevmfpy4p4A==;tA5a4qONUqniyhHDTOlNEA=="
 ---

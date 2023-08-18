@@ -121,29 +121,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 51
-  - title: "Which Generative AI Products are UK Law Firms Using?"
-    excerpt: "From Harvey and ChatGPT, to Lexis AI and CoCounsel, Law.com International unveils the GenAI products gaining the most attention."
-    publishedDateTime: 2023-08-18T07:40:00Z
-    webUrl: "https://www.law.com/international-edition/2023/08/17/which-generative-ai-products-are-uk-law-firms-using/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/08/AdobeStock_612806082-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
-  - title: "Local universities prepared to teach ethics of using generative AI"
-    excerpt: "As students begin arriving at colleges and universities to kick off their fall semester, they’ll have tools with them they didn’t have this time last year: ChatGPT and similar generative AI chatbots like Google Bard,"
-    publishedDateTime: 2023-08-15T11:00:00Z
-    webUrl: "https://rbj.net/2023/08/15/local-universities-prepared-to-teach-ethics-of-using-generative-ai/"
-    type: article
-    provider:
-      name: Rochester Business Journal
-      domain: rbj.net
-    quality: 34
   - title: "Team Behind New Generative AI 'Copilot' Says Tool Can Reduce Contract Review Time by 82% on Average"
     excerpt: "Robin AI claims that the LLM its Robin copilot trained—known as “Claude” and developed by AI start-up Anthropic—has been refined to the point where businesses have reportedly already reduced the time it takes them to review contracts by 82% on average."
     publishedDateTime: 2023-08-16T20:06:00Z
@@ -175,6 +152,15 @@ related:
     provider:
       name: Popular Science
       domain: popsci.com
+    quality: 17
+  - title: "Designing Generative AI to Work for People with Disabilities"
+    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
+    publishedDateTime: 2023-08-18T12:05:00Z
+    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
     quality: 17
 
 secured: "l2zQsWc6+c9TmmR0fpCyl1jzNlPDCYzpfycMTzH30Fk2kj9aniDBpqbWYhx4iKaOoyQMWfm5XdrWDyM+miP2PlCRq+0FrwJEuJ3mo2oSlBd7kNDf763a2xox1+gq3JUR0THmb3+Jyn3tf+HBbkt9AayRCdVKJCnKQtrUjUrYyhVbx504o1iWflyN5eMcnS+Z2tIHQN3UfCGSO1PAm1LDzr+1q37Cwx8pi/oJ29uEz2tNesXd7RF77jhaw0PKv1bI+65uPU137GH+EtmNhsjE/pRf8zrg+2dseUUGV61sVgA6tYe300//Xht+Ys7beriuJc4j++LEIzQtDB879YWG8w1onXse83DcG5uX9T4u3wuTRvzszeBQ4x0YI7uwU21k/R+T0g+I9OeC5EdaEYj42b7ryAhocjzZ1qfsyT9PdzSfDA9UA84EH9wDhYVolG0bTPwsl4e3Lje4yzqL8XT71XOZKQT2w42LULYFQUqFoNqrCcw8Kf59tFEmBuHJAApBEbjzvpkc49f8Et5DAcN96Q==;er8sKHNm13c/2zBhl+Q5DQ=="

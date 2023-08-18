@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "4 ways to increase the usability of AI, according to industry experts"
+    excerpt: "Such is the tone of a recent Twitter essay by Rachel Woods, research data scientist formerly with Meta/Facebook, who cautions that while solid business cases may be forming around AI, usability is still out of reach."
+    publishedDateTime: 2023-08-18T14:57:00Z
+    webUrl: "https://www.zdnet.com/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/333276a6b1c85e8b621ab2350d7e8819fc5bd46f/2023/08/18/2bd55fc3-81b8-495c-a6a0-35159ca2015c/gettyimages-1249613157.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "6 fintech investors sound off on AI, down-rounds and what’s ahead"
     excerpt: "What is getting the thumbs up and what’s not in the theme of the moment? What’s been surprising to me about AI in fintech is how much of it seems to be under the hood (automating rote internal tasks) rather than facing externally (flashy new features)."
     publishedDateTime: 2023-08-17T18:16:00Z

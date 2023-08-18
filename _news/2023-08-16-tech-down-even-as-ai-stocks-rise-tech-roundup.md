@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-ri
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-down-even-as-ai-stocks-rise-tech-roundup-b51ce6ff"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Red flags waving for tech stocks as AI bounce fades, China fears escalate"
+    excerpt: "As tech companies look forward to big opportunities in AI, this latest earnings season seemed to reveal some cracks in their present-day armor."
+    publishedDateTime: 2023-08-18T15:44:00Z
+    webUrl: "https://www.marketwatch.com/story/red-flags-waving-for-tech-stocks-as-ai-bounce-fades-china-fears-escalate-fbb986c1"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/red-flags-waving-for-tech-stocks-as-ai-bounce-fades-china-fears-escalate-fbb986c1"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/red-flags-waving-for-tech-stocks-as-ai-bounce-fades-china-fears-escalate-fbb986c1"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://images.mktw.net/im-838250/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Hedge Funds Flock to Big Tech, AI Stocks In Q2"
     excerpt: "Megacap tech stocks and artificial-intelligence plays rallied in the second quarter. Many big hedge funds flocked to those bets. Funds like Appaloosa, Third Point and Pershing Square opened new positions or increased their holdings in tech giants and semiconductor stocks during the second quarter,"
     publishedDateTime: 2023-08-15T17:46:00Z

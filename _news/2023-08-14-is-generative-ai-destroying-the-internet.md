@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Here Are the Generative AI Products UK Law Firms Are Using"
-    excerpt: "From Harvey and ChatGPT, to Lexis AI and CoCounsel, Law.com International unveils the GenAI products gaining the most attention."
-    publishedDateTime: 2023-08-17T17:12:00Z
-    webUrl: "https://www.law.com/2023/08/17/which-generative-ai-products-are-uk-law-firms-using-292-161851/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "Epic Is Integrating Abridge’s Generative AI Tool Into Its EHR"
     excerpt: "Epic announced that it will integrate Abridge’s clinical documentation tool into its EHR workflow. The startup’s generative AI tool listens to visits and creates a near-instant summary that adheres to physicians’ prototypical note structure."
     publishedDateTime: 2023-08-16T21:22:00Z
@@ -108,15 +94,6 @@ related:
       name: The Information
       domain: theinformation.com
     quality: 19
-  - title: "Companies go all out to up their generative AI game"
-    excerpt: "The company is dividing its workforce into three layers, based on how deeply each needs to understand the new technology. The first and the broadest is mandatory training to bring all employees, regardless of role, up to speed on generative AI basics: what it is, how it works, best practices and how to use it ethically and responsibly."
-    publishedDateTime: 2023-08-17T13:00:00Z
-    webUrl: "https://www.seattletimes.com/explore/careers/companies-go-all-out-to-up-their-generative-ai-game/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "4sM/2XrrFGMr5KAXW4ayLCsf3qzu1o9z4S3/4c0mSxz912PoaYXs1LJg6rSmjPVSA+4+9Qku6bdjxtquQ+XmprM5x8uNBAPkKfUa6Iet31gTohC78JfxPOHv6UFiRYr9N/jxN7j+5EoVdmUNKq26p4/uyXw3kOiEyL6kH/f1/RDHtsD2y+A4RZIjDtqvpeczVYHQS3ZYNqxkJoy3Utas6N1oSonwQlhgHrE63g+84nzK2Um6eBmFkRf3GdQq0vYIFgKPHzq09+qyaWRMGzzgcPrZ2tSl+uFceHIY4rw3nWH1JF2gCbmFH+zLg5GFBx8VyyzuxMZ8C86BnLvmu3ekflmx5ALaXxvbBdRQ0hr/Dx0cauM6ql7PClG1we+EYeV31ZAc081jBmqmZ4I50PopsCScr9bsWmRhveSH6KNOeDIl95R0kP3xsok51TaFW7PtV6XkV7mDDEa2DI4K7HbN50n1DzXInMIp2o/D62EI6Ie6YwS4Rpn7E5bx2D4/BUC2Jy6Rw4xsVoZvoDtHEZwJpQ==;DlQ0NF/RT+ND7yPOnJtDaQ=="
 ---
