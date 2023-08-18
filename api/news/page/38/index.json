@@ -2,6 +2,57 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-07-21-google-co-founder-comes-back-to-company-to-bolster-its-ai-efforts.md",
+      "title": "Google co-founder comes back to company to bolster its AI efforts",
+      "excerpt": "Google’s co-founder, Sergey Brin, is taking a hands-on approach to the company’s AI efforts. Brin is now showing up at the Google offices three to four days a week. The co-founder is using his time to help support the hiring process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-ai-sergey-brin-3347338/",
+      "originalUrl": "https://www.androidauthority.com/google-ai-sergey-brin-3347338/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2020/01/google-logo-G-at-ces-20201.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-this-barbie-ai-tool-turns-you-into-a-barbie-movie-character-sort-of.md",
       "title": "This Barbie AI tool turns you into a Barbie movie character (sort of)",
       "excerpt": "Warner Bros and Photoroom, an AI-based photo app, collaborated to create a Barbie Selfie Generator, which lets users upload a selfie and transform it into a Barbie movie character's poster.",
@@ -1157,49 +1208,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-global-far-field-speech-and-voice-recognition-market-value-2023-2029-to-reach-us-723-billion.md",
-      "title": "Global Far-Field Speech and Voice Recognition Market Value [2023-2029] To Reach US $ 7.23 Billion",
-      "excerpt": "The Far-Field Speech and Voice Recognition Industry study includes comprehensive insights on the competitive environment, description, broad product portfolio of key players, SWOT analysis, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33298317/global-far-field-speech-and-voice-recognition-market-value-2023-2029-to-reach-us-7-23-billion",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33298317/global-far-field-speech-and-voice-recognition-market-value-2023-2029-to-reach-us-7-23-billion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33298317",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33298317",
-      "publishedDateTime": "2023-07-20T21:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

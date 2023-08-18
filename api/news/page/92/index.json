@@ -2,6 +2,49 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-06-18-how-understanding-horses-could-inspire-more-trustworthy-robots.md",
+      "title": "How understanding horses could inspire more trustworthy robots",
+      "excerpt": "Sensible and highly trained, these horses remind computer scientist and roboticist Eakta Jain of fully autonomous robots ... two or three has adaptive cruise control, the ability to follow ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencenews.org/article/horses-humans-robots-technology",
+      "originalUrl": "https://www.sciencenews.org/article/horses-humans-robots-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sciencenews.org/wp-content/uploads/2023/06/060723_rc_horse_feat.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-18T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-18-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services.md",
       "title": "Fintech Paro Raises $25M via Series C to Build Enterprise Platform for Finance, Accounting Services",
       "excerpt": "Paro, a Chicago-based startup disrupting the way companies access on-demand finance and accounting expertise, raises $25 million via Series C.",
@@ -1140,58 +1183,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-16T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-artificial-intelligence-supply-chain-market-future-prospect-and-industry-research-2023-2030.md",
-      "title": "Artificial Intelligence Supply Chain Market Future Prospect and Industry Research 2023-2030",
-      "excerpt": "Artificial Intelligence Supply Chain Market Outlook [2023-2030] Global Artificial Intelligence Supply Chain Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-future-prospect-and-industry-research-2023-2030-2023-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-future-prospect-and-industry-research-2023-2030-2023-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T14:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

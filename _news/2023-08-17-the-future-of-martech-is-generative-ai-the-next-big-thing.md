@@ -60,6 +60,22 @@ related:
         width: 1400
         height: 939
         isCached: true
+  - title: "China's new rules on AI-generated content"
+    excerpt: "Here's what you need to know about Beijing's regulations, which target services for the general public: - AI ethics - Generative AI must \"adhere to the core values of socialism\" and refrain from threatening national security and promoting terrorism ..."
+    publishedDateTime: 2023-08-18T07:02:00Z
+    webUrl: "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb"
+    ampWebUrl: "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZjUxZGU2ZTEtYTI4MS00/0/afp_33r87q8-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Avangrid Pioneers In-House Creation of Artificial Intelligence to Increase Reliability"
     excerpt: "Machine learning models will allow CMP, NYSEG, RG&E and UI to forecast grid performance ahead of severe storms, troubleshoot problems areas and pinpoint investments to increase reliability When descri"
     publishedDateTime: 2023-08-16T16:00:00Z

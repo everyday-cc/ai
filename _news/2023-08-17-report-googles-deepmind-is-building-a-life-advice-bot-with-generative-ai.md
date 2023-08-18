@@ -36,6 +36,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Google DeepMind testing ‘personal life coach’ AI tool"
+    excerpt: "AI experts cite ethical concerns over relationships humans may develop with such chatbots"
+    publishedDateTime: 2023-08-17T19:59:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
+    images:
+      - url: "https://i.guim.co.uk/img/media/4f5a645fc459c27cf1563fa0cb1cfd11d656d6b4/0_238_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=9435453c1931bf79d36121e3a30ec686"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Google said to be testing new life coach AI for providing helpful advice to people"
     excerpt: "Google has been consistently rolling out generative AI tech like the launch of the Search Engine Experience and giving Chrome the ability to summarize news articles. In the future, the tech giant may be taking artificial intelligence into a new frontier: offering life advice."
     publishedDateTime: 2023-08-16T21:33:00Z
@@ -49,6 +65,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/8bpnx7UFeMUWJq9FoUXCa7-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google's DeepMind reportedly developing AI Tools for life advice"
+    excerpt: "Google's artificial intelligence (AI) division, DeepMind, is in the process of creating at least 21 AI tools designed to offer life advice, planning, and tutoring, according to a report by the New York Times. These tools, while not intended for therapeutic ..."
+    publishedDateTime: 2023-08-18T07:43:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1023924/google-s-deepmind-reportedly-developing-ai-tools-for-life-advice-1023924.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 54
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC9zaHV0dGVyc3RvY2stNTc3MTc2Nzk2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google DeepMind reportedly developing at least 21 new generative AI features"
     excerpt: "The search giant’s engineers are reportedly working on at least 21 different generative AI capabilities. One of the main highlights is a feature that can reportedly provide advice about “challenges in people’s lives.” A sample prompt obtained by the Times suggests the feature can process complex user queries containing several lines of text."

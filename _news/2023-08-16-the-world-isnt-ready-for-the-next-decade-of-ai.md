@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
 webUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
 type: article
 quality: 75
-heat: 109
+heat: 105
 published: true
 
 provider:

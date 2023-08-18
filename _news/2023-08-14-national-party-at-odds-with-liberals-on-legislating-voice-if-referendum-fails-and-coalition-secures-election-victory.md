@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Real concern’: David Littleproud at odds with Peter Dutton over alternative to Voice referendum"
-    excerpt: "The Coalition is split on what they would take to the next election should the Voice to parliament referendum fail."
-    publishedDateTime: 2023-08-13T13:11:00Z
-    webUrl: "https://www.theaustralian.com.au/breaking-news/real-concern-david-littleproud-at-odds-with-peter-dutton-over-alternative-to-voice-referendum/news-story/3f2ec39edeb1c67920ddcf9858a3e337"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
   - title: "Coalition’s position on the voice ‘clear as mud’ and ‘completely confused’, Burney says – as it happened"
     excerpt: "Burney made the comments after the leader of the Nationals, David Littleproud, refused to commit to legislating an Indigenous voice if the Coalition wins the next election, even though Peter Dutton has proposed symbolic-only constitutional recognition ..."
     publishedDateTime: 2023-08-13T18:01:00Z

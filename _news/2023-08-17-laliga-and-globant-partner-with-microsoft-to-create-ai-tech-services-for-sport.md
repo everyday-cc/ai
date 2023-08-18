@@ -28,6 +28,22 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 78
+  - title: "Microsoft Toying With OpenAI: Plans on starting a new AI service with a different company"
+    excerpt: "Microsoft is planning to partner up with Databricks, an enterprise software maker, and help them create AI-based solutions for businesses. This is likely to hurt OpenAI, a business Microsoft has invested over $10 billion,"
+    publishedDateTime: 2023-08-18T06:53:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 65
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Microsoft-Toying-With-OpenAI-Plans-on-starting-a-new-AI-service-with-a-different-company-.jpg"
+        width: 640
+        height: 362
+        isCached: true
   - title: "8 Big Salesforce Hires In 2023 So Far From Oracle, AWS, Google, Microsoft"
     excerpt: "A CRO, GM and CMO are some of the biggest hires for Salesforce this year with track records from rivals. A chief revenue officer with Oracle chops. A general manager from Microsoft. And a chief marketing officer who called Oracle and Amazon Web Services home."
     publishedDateTime: 2023-08-14T15:00:00Z

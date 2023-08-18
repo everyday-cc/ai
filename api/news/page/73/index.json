@@ -2,6 +2,48 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2023-06-29-what-is-integrated-business-planning-ibp.md",
+      "title": "What is Integrated Business Planning (IBP)?",
+      "excerpt": "Integrated Business Planning (IBP) framework that integrates strategic planning, analysis, and reporting to drive business outcomes. \nThe post What is Integrated Business Planning (IBP)? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-integrated-business-planning-ibp/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-integrated-business-planning-ibp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-ai-robots-put-to-work-at-kent-co-recycling-center.md",
       "title": "AI robots put to work at Kent Co. recycling center",
       "excerpt": "Kent County’s recycling facilities now include four new robots, three of which use artificial intelligence. They were used to help sort materials quickly and more efficiently. The robots were purchased as a part of a $406,",
@@ -1107,40 +1149,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-an-early-predictor-of-cognitive-decline-in-parkinsons-disease.md",
-      "title": "An early predictor of cognitive decline in Parkinson’s disease",
-      "excerpt": "EPFL neuroscientists say that early hallucinations disease indicate a greater risk of cognitive decline when there is a diagnosis of Parkinson's.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/993928",
-      "originalUrl": "https://www.eurekalert.org/news-releases/993928",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
