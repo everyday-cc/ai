@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Coalition at odds with itself over the Voice"
-    excerpt: "The federal Coalition is at odds with itself over the Indigenous Voice to parliament with Nationals leader David Littleproud refusing to endorse an alternative proposal by Peter Dutton, and deputy federal Liberal Leader Sussan Ley taking issue with NSW state Liberal leader Mark Speakman’s support."
-    publishedDateTime: 2023-08-13T06:44:00Z
-    webUrl: "https://www.afr.com/politics/federal/coalition-at-odds-with-itself-over-the-voice-20230813-p5dw2h"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.209%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_15/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/d08dd6cebfa5197cfa161e8b0d0ee5148e58870c"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "‘Real concern’: David Littleproud at odds with Peter Dutton over alternative to Voice referendum"
     excerpt: "The Coalition is split on what they would take to the next election should the Voice to parliament referendum fail."
     publishedDateTime: 2023-08-13T13:11:00Z

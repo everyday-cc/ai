@@ -83,15 +83,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "Washington D.C. Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
-    excerpt: "WASHINGTON, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Booz Allen Hamilton in Washington, D.C. Applications for the no-cost bootcamp are closing soon!"
-    publishedDateTime: 2023-08-14T19:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/washington-d-c-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032552619"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "Fort Lauderdale Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!"
     excerpt: "FORT LAUDERDALE, Fla., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The ODP Corporation at the Alan B. Levan | NSU Broward Center of Innovation in Fort Lauderdale. Applications for the no-cost bootcamp are closing soon!"
     publishedDateTime: 2023-08-14T16:27:00Z

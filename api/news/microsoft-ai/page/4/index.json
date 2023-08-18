@@ -2,6 +2,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-17-machine-learning-market-to-hit-41994-billion-by-2030-grand-view-research-inc.md",
+      "title": "Machine Learning Market to Hit $419.94 Billion by 2030: Grand View Research, Inc.",
+      "excerpt": "The global machine learning market size is anticipated to reach USD 419.94 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to expand at a CAGR of 34.8% from 2023 to 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/07/17/9848858.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/07/17/9848858.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-microsoft-semantic-kernel-will-support-openai-plugins.md",
       "title": "Microsoft Semantic Kernel will support OpenAI plugins",
       "excerpt": "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases.",
@@ -1303,40 +1338,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year.md",
-      "title": "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year",
-      "excerpt": "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/30/9842393.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/30/9842393.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

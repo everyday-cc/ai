@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-07-17-googleorgs-new-grant-to-help-track-permafrost-thaw.md",
-      "title": "Google.org’s new grant to help track permafrost thaw",
-      "excerpt": "A new $5 million grant aims to help Woodwell Climate Research Center track Arctic permafrost thaw in near real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/google-org/google-permafrost-thaw-tracking/",
-      "originalUrl": "https://blog.google/outreach-initiatives/google-org/google-permafrost-thaw-tracking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG_4691-ThawSlump-ScottZolkos-WoodwellClimat.width-1300.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/google-permafrost-thaw-tracking/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/google-permafrost-thaw-tracking/amp/",
-      "publishedDateTime": "2023-07-16T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-14-googles-deepmind-learns-to-reproduce-human-speech-tricks-us-into-starting-robot-apocalypse.md",
       "title": "Google's DeepMind learns to reproduce human speech, tricks us into starting robot apocalypse",
       "excerpt": "Google’s DeepMind AI division is famous for defeating the Go world champion and for performing medical research with the UK’s NHS. But the team has developed a very impressive new technology ...",
@@ -1408,6 +1356,59 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-artificial-intelligence-and-machine-learning-market-overview-2023-to-2030-future-trends-and-forecast-anki-amazon-deepmind.md",
+      "title": "Artificial Intelligence and Machine Learning Market Overview 2023 to 2030, Future Trends and Forecast | Anki, Amazon, Deepmind",
+      "excerpt": "id=847258&mode=SB07 The Key companies profiled in the Artificial Intelligence and Machine Learning Market : The study examines the Artificial Intelligence and Machine Learning Market 's competitive landscape and includes data on Anki, Amazon, Deepmind ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-overview-2023-to-2030-future-trends-and-forecast-anki-amazon-deepmind-2023-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-overview-2023-to-2030-future-trends-and-forecast-anki-amazon-deepmind-2023-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

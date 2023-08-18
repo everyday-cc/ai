@@ -2,6 +2,57 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-06-30-inside-the-race-to-build-an-operating-system-for-generative-ai.md",
+      "title": "Inside the race to build an ‘operating system’ for generative AI",
+      "excerpt": "What does it take to build an operating system for generative AI? According to Intuit's Srivastava, there are four main layers",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/inside-the-race-to-build-an-operating-system-for-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/inside-the-race-to-build-an-operating-system-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Feature-image.png?w=1200&strip=all",
+          "width": 1028,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-ai-law-draws-pushback-from-big-brands-in-europe.md",
       "title": "AI Law Draws Pushback From Big Brands in Europe",
       "excerpt": "Executives from firms such as Heineken and Renault joined a lobbying effort as Europe negotiates the West’s first comprehensive rules.",
@@ -1081,40 +1132,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-news-tagged-with-deep-learning.md",
-      "title": "News tagged with deep learning",
-      "excerpt": "A diagnostic study on the detection of occlusal caries from a clinical photograph using a deep learning algorithm will be presented at the 101st General Session of the IADR, which will be held in ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/tags/deep+learning/",
-      "originalUrl": "https://medicalxpress.com/tags/deep+learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

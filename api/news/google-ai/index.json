@@ -105,7 +105,7 @@
       "originalUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -149,58 +149,6 @@
         "Facebook AI",
         "Google AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-move-over-bard-googles-next-big-ai-product-is-coming-this-fall.md",
-      "title": "Move over Bard, Google's next big AI product is coming this fall",
-      "excerpt": "Google Gemini, the next-generation AI foundational model that combines conversational text with image generation, could launch this fall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-gemini-ai-fall-release-3355460/",
-      "originalUrl": "https://www.androidauthority.com/google-gemini-ai-fall-release-3355460/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-gemini.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     },
     {
@@ -1447,6 +1395,58 @@
       "type": "article",
       "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/climate-change-sustainability-women-scientists/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/climate-change-sustainability-women-scientists/amp/",
+      "publishedDateTime": "2023-07-16T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-googleorgs-new-grant-to-help-track-permafrost-thaw.md",
+      "title": "Google.org’s new grant to help track permafrost thaw",
+      "excerpt": "A new $5 million grant aims to help Woodwell Climate Research Center track Arctic permafrost thaw in near real-time.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/google-permafrost-thaw-tracking/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/google-permafrost-thaw-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG_4691-ThawSlump-ScottZolkos-WoodwellClimat.width-1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/google-permafrost-thaw-tracking/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/google-permafrost-thaw-tracking/amp/",
       "publishedDateTime": "2023-07-16T21:00:00-07:00",
       "updatedDateTime": null,
       "provider": {

@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/johns-hopkins-engineers-develop-deep-lear
 webUrl: "https://scitechdaily.com/johns-hopkins-engineers-develop-deep-learning-technology-that-may-aid-personalized-cancer-therapy/"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Machine Learning Advances Personalized Cancer Vaccines via BigMHC"
+    excerpt: "A recent study published in Nature Machine Intelligence examines a novel deep-learning method known as BigMHC, which can predict when the immune system wil | Technology"
+    publishedDateTime: 2023-08-17T22:45:00Z
+    webUrl: "https://www.labroots.com/trending/technology/25767/machine-learning-advances-personalized-cancer-vaccines-via-bigmhc-2"
+    ampWebUrl: "https://www.labroots.com/trending/technology/25767/machine-learning-advances-personalized-cancer-vaccines-via-bigmhc-2/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/25767/machine-learning-advances-personalized-cancer-vaccines-via-bigmhc-2/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 59
+    images:
+      - url: "https://assets.labroots.com/_public/_files/system/ck/trending/Low-Res_Amy%20Aug%209%20Cytotoxic%20CD8%20T%20cells_13693b54f27da48803c9008060573289.jpeg"
+        width: 700
+        height: 700
+        isCached: true
   - title: "Deep Learning Tool May Support Personalized Cancer Care"
     excerpt: "Johns Hopkins researchers have developed a deep learning method to predict cancer-related protein fragments that trigger tumor cell-killing immune responses."
     publishedDateTime: 2023-08-16T13:30:00Z

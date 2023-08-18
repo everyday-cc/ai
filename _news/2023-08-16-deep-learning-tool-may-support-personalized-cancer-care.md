@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Machine Learning Advances Personalized Cancer Vaccines via BigMHC"
+    excerpt: "A recent study published in Nature Machine Intelligence examines a novel deep-learning method known as BigMHC, which can predict when the immune system wil | Technology"
+    publishedDateTime: 2023-08-17T22:45:00Z
+    webUrl: "https://www.labroots.com/trending/technology/25767/machine-learning-advances-personalized-cancer-vaccines-via-bigmhc-2"
+    ampWebUrl: "https://www.labroots.com/trending/technology/25767/machine-learning-advances-personalized-cancer-vaccines-via-bigmhc-2/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/25767/machine-learning-advances-personalized-cancer-vaccines-via-bigmhc-2/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 59
+    images:
+      - url: "https://assets.labroots.com/_public/_files/system/ck/trending/Low-Res_Amy%20Aug%209%20Cytotoxic%20CD8%20T%20cells_13693b54f27da48803c9008060573289.jpeg"
+        width: 700
+        height: 700
+        isCached: true
   - title: "Johns Hopkins Engineers Develop Deep-Learning Technology That May Aid Personalized Cancer Therapy"
     excerpt: "A team of engineers and cancer researchers from Johns Hopkins has developed a deep-learning technology capable of accurately predicting protein fragments linked to cancer, which might trigger an immune system response."
     publishedDateTime: 2023-08-13T11:23:00Z

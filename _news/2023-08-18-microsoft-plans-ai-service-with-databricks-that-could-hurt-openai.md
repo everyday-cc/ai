@@ -55,6 +55,15 @@ related:
         width: 803
         height: 642
         isCached: true
+  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI the Information"
+    excerpt: "Databricks - a data analytics platform that uses artificial intelligence, which Microsoft would sell through its Azure cloud-server unit - helps companies make AI models from scratch or repurpose open-source models as an alternative to licensing OpenAI's proprietary ones, the report added."
+    publishedDateTime: 2023-08-17T21:43:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-17/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-the-information"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 59
   - title: "OpenAI Acquires AI Startup Global Illumination"
     excerpt: "Global Illumination, founded in 2021 by Thomas Dimson, Taylor Gordon, and Joey Flynn, has engaged in diverse projects."
     publishedDateTime: 2023-08-17T03:50:00Z
@@ -127,6 +136,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "w52jW3VGPP4n05Lit1oIERDqCYBf6xxUcNoOASX8I5ayA9QmfoWnddIJbmCL8LerC62hV7ci08W+QQhkRdhQ+2Ng3IUJPc6puwWBcvQnHHV2mzVDUblA1UCW5R6C/4K9YAnXN/W2GrO1lpg4xhoBOIL7krK00VoEyv13msa6Lse5MS0CNCNzo90pAiPvSr4jEqLr2U2/qDOZuP4Td6S6J5jCERHnQaZrWmZdRQZYW+YW94Qv+FWgFedDWd7lItvMPK6ohZmOBJPGoMCqSdIX0XcaPJhWm2l45cONBT+KmEuBTBdxi8CzSpaku017NsDK/tfeDOwkuukdgTS5mItdnbDh1XVUdfJ6pi7IKkyh8Jw=;IaS2trOISwwLNy+y0DGd/w=="
+secured: "K4GYymiAjsi14rt95CHummsvYdfC1KYI+jx3BAvVNguS/aMqtQ8PR3V6hf0JUFyxKPKrZthH09cFnhijdG/5ovtIHv48EPfYFZk0MlAIIBb90Dzy2snfn9Y+K00QEkRcOlBBgZu6DMUMK6+03wHZr0ay5EDRrtNA7V9aWMBOlQfirIerw2/zSUoxHCJiscZRanuHrTqxPYxzxIcL94Z92lHUFz53p73oTABe9p6rWDPdeHwc+tqkz+91JOJNJDHxiYFCWzEMOpwnLUgrjR3LB2Ak8TXiJlYqE6Eme5Pu2y2e8RV1+PjB6eVvPobMkMpV2t+fzRZkReq4bbyHI9kfK3w86ZgicmhmeKV2m+v4TtPwQbISHKXd2PecIB6PrYvYH/wXyjgckXblm+G8izrvcxwuZWoNE46aOVo+8tpf2yqUlPqsKOuxRrvqbyKpr312bHg8S+cCRzOPNG6SHTmaTbBHeSu/hQKo8U8Hx1XKSnwQLxwPIo6i7il+oAae8E+fVJNA50OhAueWHYxUiGjtHg==;PIz2Q0HbNehbkO/D7840lQ=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 172,
   "value": [
     {
+      "path": "_news/2023-04-29-report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai.md",
+      "title": "Report describes Apple’s “organizational dysfunction” and “lack of ambition” in AI",
+      "excerpt": "A new behind-the-scenes report in The Information details Apple's struggles to keep up with AI features and innovation amid the rise of large language models (LLMs) that drive groundbreaking tools like ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/iOS-14-header-800x481-1.jpg",
+          "width": 800,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/amp/",
+      "publishedDateTime": "2023-04-28T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-2023-2031-object-recognition-imaging-systems-market-opportunities-and-company-growth-strategies.md",
       "title": "2023-2031 \"Object Recognition Imaging Systems Market\" Opportunities and Company Growth Strategies",
       "excerpt": "“Global Object Recognition Imaging Systems Research Observes Global Market Competition by Manufacturer: The study offers critical insights into key players, product information, and production ...",
@@ -1022,57 +1073,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-unicef-and-partners-using-artificial-intelligence-to-fight-dengue.md",
-      "title": "Unicef And Partners Using Artificial Intelligence To Fight Dengue",
-      "excerpt": "As the climate changes, mosquito-borne diseases are on the rise. Members of UNICEF's Innovation and Climate teams are working with partners to create AI models that can predict and prevent future outbreaks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/",
-      "originalUrl": "https://www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644bf73c134f548d73f1e352/0x0.jpg?format=jpg&width=1200",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/amp/",
-      "publishedDateTime": "2023-04-28T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

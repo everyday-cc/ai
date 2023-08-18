@@ -41,14 +41,19 @@ related:
         height: 1239
         isCached: true
   - title: "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth"
-    excerpt: "This relationship between recognition abilities in different senses stands in contrast to learning styles studies’ failure to find expected correlations among variables. For instance, people’s preferred learning styles do not predict performance on measures of pictorial, auditory or tactile learning."
-    publishedDateTime: 2023-08-14T13:03:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/the-same-people-excel-at-object-recognition-18294640.php"
+    excerpt: "We began measuring individual differences in visual object recognition. We tested people’s abilities in performing a variety of tasks like matching or memorizing objects from several categories ..."
+    publishedDateTime: 2023-08-14T12:23:00Z
+    webUrl: "https://theconversation.com/the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth-209305"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 0
+      name: The Conversation
+      domain: theconversation.com
+    quality: 8
+    images:
+      - url: "https://images.theconversation.com/files/542202/original/file-20230810-22046-z0l1ej.jpg?ixlib=rb-1.1.0&rect=2%2C16%2C1595%2C797&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "0Nv4A4ap+Cqb0hAadEmWSMhFk6NzmSkNtUtbBaq7ZD+KCXBH4FOR3KN0ONNx/XOpvJ/RUvkhPltMJvV/s61SZdBAxiIWlNliBxynxmArXr/Crl3S+oaqsAaAjqKOlUkePmTSkGEsBz95SR7X/6YB4R66SlQR28kYmBl4lmqUaHK9XR7GTCsC3QDl2Un51riAUmXVNqs1rCH8V5mYv/Idw9rUZY1TEonD05BsD4Chbm6vNM/LYQ5bPvJ8gHO79XiKwBU2BBAcrjH64gceJg0rUbHL5VEBdqpP7vIfh4oWZbT5KpxFwoalMSLApY2uu+PWqnNjRsGtqq53euenPV/HNQi5vAc9XaSdLWTFsBU8ZGE=;NU0Qj2lqyRTy1BSdyl+HSA=="
 ---

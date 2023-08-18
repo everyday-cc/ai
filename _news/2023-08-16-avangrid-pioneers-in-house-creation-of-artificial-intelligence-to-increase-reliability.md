@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "31% of Organizations Using Generative AI Ask It To Write Code"
+    excerpt: "Code development, content creation and analytics are the top generative AI use cases. However, data privacy is a concern."
+    publishedDateTime: 2023-08-17T23:32:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-enterprise-adoption-insights/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08172023-generative-ai-enterprise-adoption-insights.jpg"
+        width: 1400
+        height: 939
+        isCached: true
   - title: "Navigating Change Management In The Era Of Generative AI"
     excerpt: "To effectively navigate change management in the era of generative AI, companies must develop a deeper understanding of their offerings and customer expectations. This understanding will help them identify the areas where generative AI can provide value and where human interactions are indispensable."
     publishedDateTime: 2023-08-17T13:15:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-con
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6479ea8344eabdf4ac13b283/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "31% of Organizations Using Generative AI Ask It To Write Code"
+    excerpt: "Code development, content creation and analytics are the top generative AI use cases. However, data privacy is a concern."
+    publishedDateTime: 2023-08-17T23:32:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-enterprise-adoption-insights/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08172023-generative-ai-enterprise-adoption-insights.jpg"
+        width: 1400
+        height: 939
         isCached: true
   - title: "Avangrid Pioneers In-House Creation of Artificial Intelligence to Increase Reliability"
     excerpt: "Machine learning models will allow CMP, NYSEG, RG&E and UI to forecast grid performance ahead of severe storms, troubleshoot problems areas and pinpoint investments to increase reliability When descri"

@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/08/16/meet-marqo-an-open-source-vector-s
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/16/meet-marqo-an-open-source-vector-search-engine-for-ai-applications/amp/"
 type: article
 quality: 89
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -31,38 +31,36 @@ images:
     isCached: true
 
 related:
-  - title: "Marqo, a startup using AI and machine learning to improve search, just raised $5.2 million with this 14-slide pitch deck"
-    excerpt: "The London and Melbourne-based startup offers a vector search database to e-commerce businesses and was founded by a pair of ex-Amazon engineers."
-    publishedDateTime: 2023-08-16T13:00:00Z
-    webUrl: "https://www.businessinsider.com/marqo-ai-vector-search-startup-raises-million-in-fresh-funds-2023-8"
+  - title: "Building LLM applications with vector search in Azure Cognitive Services"
+    excerpt: "Tools like Semantic Kernel, TypeChat, and LangChain make it possible to build applications around generative AI technologies like Azure OpenAI. That’s because they allow you to put constraints around the underlying large language model (LLM), using it as ..."
+    publishedDateTime: 2023-08-17T21:11:00Z
+    webUrl: "https://www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.html"
+    ampWebUrl: "https://www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.amp.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-  - title: "Space Force extends Wallaroo’s contract for on-orbit AI applications"
-    excerpt: "WASHINGTON — Artificial intelligence startup Wallaroo Labs won a $1.5 million contract from the U.S. Space Force to continue the development of machine learning models for edge computers in orbit."
-    publishedDateTime: 2023-08-16T16:06:00Z
-    webUrl: "https://spacenews.com/space-force-extends-wallaroos-contract-for-on-orbit-ai-applications/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 37
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 103
     images:
-      - url: "https://spacenews.com/wp-content/uploads/2023/08/230531-F-F3963-1002-2.jpg"
-        width: 1273
-        height: 850
+      - url: "https://images.idgesg.net/images/article/2020/02/cw_hoyhoy_210120-100832442-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Marqo Secures US$5.2m to Bring Continuous-Learning Vector Search to Businesses"
-    excerpt: "Marqo was founded by Jesse Clark, formerly Lead Scientist at Amazon Robotics AI and Principal Scientist at StitchFix and physicist at Stanford and UCL, and Tom Hamer, a former Amazon Web Services (AWS) software engineer. The team has since brought in AI, engineering, and operations expertise from Amazon, Uber and Goldman Sachs."
-    publishedDateTime: 2023-08-16T15:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/16/9865678.htm"
+  - title: "Build production-ready generative AI applications for enterprise search using Haystack pipelines and Amazon SageMaker JumpStart with LLMs"
+    excerpt: "In this post, we showcase how to build an end-to-end generative AI application for enterprise search with Retrieval Augmented Generation (RAG) by using Haystack pipelines and the Falcon-40b-instruct model from Amazon SageMaker JumpStart and Amazon OpenSearch Service."
+    publishedDateTime: 2023-08-14T16:42:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-production-ready-generative-ai-applications-for-enterprise-search-using-haystack-pipelines-and-amazon-sagemaker-jumpstart-with-llms/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/14/production-ready-genai-haystack.jpg"
+        width: 912
+        height: 453
+        isCached: true
 
 secured: "e8vmioz7sjc6btL9PZn4gt0fT8Dp1FC/S5jU7iegGn35T1xo3ezObM5IuMHXHnDFdovQDW2uoHf4cAHNE3irNdQ71uCVJy5Km3e8Gd9dC7C6XsIJ4OJ9vGMNL9y7suwnpQ8Le+EOgwbbIEOwbtPa317EMPtkDSHtehVjryY062OIfiyIh3GIliaTbAEVNdLMPnCO0IPxtbx3Fo7Sm3pVZxQLjiuabgqh7rCngl0fEEWdZ49xdcR61G/ep8WdWn86agZHTLtNQNAQWVc8CSOUdatlmNZXKrG4jim6RsVGSgumnK6rGWbZLupJ9wevUXCB+HarjLBNv+OUkY1Z/PCDozWIqFr2dxINW4wih+wusQg=;Rnev7gE5KJEBITR4Y3y2QQ=="
 ---

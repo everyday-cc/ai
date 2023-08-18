@@ -55,6 +55,15 @@ related:
         width: 803
         height: 642
         isCached: true
+  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI the Information"
+    excerpt: "Databricks - a data analytics platform that uses artificial intelligence, which Microsoft would sell through its Azure cloud-server unit - helps companies make AI models from scratch or repurpose open-source models as an alternative to licensing OpenAI's proprietary ones, the report added."
+    publishedDateTime: 2023-08-17T21:43:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-17/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-the-information"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 59
   - title: "OpenAI Acquires AI Startup Global Illumination"
     excerpt: "Global Illumination, founded in 2021 by Thomas Dimson, Taylor Gordon, and Joey Flynn, has engaged in diverse projects."
     publishedDateTime: 2023-08-17T03:50:00Z
@@ -127,6 +136,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "ihaWrvkRpX/c9O+VuBUlPnJIZu+VxFyBjDD8pSq+9uMbuvCTI8lmhASJCStdoIleNQSEjISACwUWYrnPocyhY6el6cCwenKNBAwzWWTFfvre5rL5yhZXN8nHEjpzH0IdCyuUiJoNvw/T+SwLlbf1sGdr8aHbWXCmn/6IZF7TvtJrWuCYufD5ZF8yUK5tnbU8N2eU+iB+pH8nyCHombfBDYm0SSrDNsmZZquK8NEAyzjRTQ0LUFLMHwBu4Aig+7HDmRFNhVQ0ILVAWsT+0MK6VzIFxX9XNsqMBU12ST+VxyNrHJK740oV434KmKH1AGfJt5uFZI0fdXPLNZUHte/hPDaG3hFrK/SVgnQ/5mzprDw=;aG+5hSWKE2PmOc0GmAAccA=="
+secured: "+4NVf7JZH9XdLLTQ3ihFqhiAETjMqgfEs8p5z+dr164b1riFkfysTv5sUDLE80YxoTFmBgU8y2DWVoleEphctWoZCZ0H0e5BVdIBN3mMlOK6TEeq665dfow2TQxvSYppcPrfZeEiiQKoAqDBqZ1RhjagGs5CSKtYEBBB5wJY3OU6EvCaDm+n/h3f5aXICVuJEOE9+JV198d51f2GUdrgHc0LrZDhiEZtmm/oEPByp/GxUFnKeuHYQxsgsA1fHb0o5uUXk9AL1P86JvVMVhqvM7hpswjleXNGWJheTMtJxIxlrb5AAfUvN9wbs8ybjoT12UsVW7tzFk6yygRqAhSuEWeaRtj82Gon8F0d1G+Qxv8PIxrC7mE3cRHaiPZcJ0hx6d9xloWyeGBYi5SKV0brURB1XirdAuZq7qY1HJHydHaSI7Nn1yfs46sWR6lTzBKZrHAF0cNO3AecMQdLAO5PRIcKRVTuE4230dWg1flrQpmCeTHDJbCfawY2VL2BBqWRtUikAg4p5TLbY/c/BSivBA==;vGXWcq6+usgIcWI3G++pDw=="
 ---
 

@@ -2,50 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2023-05-27-open-ai-backed-start-up-deploys-robot-as-security-guard.md",
-      "title": "Open AI-backed start-up deploys robot as security guard",
-      "excerpt": "The Norway-based robotic start-up deployed the AI-enabled robot as patrolling guard at two manufacturing sites, one in the USA and the other in Europe",
-      "sourceUrl": null,
-      "webUrl": "https://telanganatoday.com/open-ai-backed-start-up-deploys-robot-as-security-guard",
-      "originalUrl": "https://telanganatoday.com/open-ai-backed-start-up-deploys-robot-as-security-guard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.telanganatoday.com/wp-content/uploads/2023/05/robot-1.jpg",
-          "width": 1280,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telangana Today",
-        "domain": "telanganatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-05-27-japan-ai-startup-launches-robot-for-home-use.md",
       "title": "Japan AI startup launches robot for home use",
       "excerpt": "TOKYO (Kyodo) -- A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal commands, such as bringing dishes and condiments to ...",
@@ -1366,6 +1322,59 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-teslas-optimus-robot-is-learning-to-navigate-sense-and-pick-things-up.md",
+      "title": "Tesla's Optimus robot is learning to navigate, sense and pick things up",
+      "excerpt": "At Tesla's 2023 shareholders meeting, Elon Musk showed some new video of the Optimus robot he believes will represent the vast majority of the company's value in the future – as well as the method through which the development team is training the AI.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/tesla-optimus-robot/",
+      "originalUrl": "https://newatlas.com/robotics/tesla-optimus-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/9bfd629/2147483647/strip/true/crop/1619x850+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F64%2F06%2F934b987f4684b1729a14cb45c697%2Fscreenshot-2023-05-18-at-7.37.54%20pm.png&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-07-04-byu-students-can-major-in-machine-learning-the-technology-behind-chatgpt-this-fall.md",
+      "title": "BYU students can major in machine learning — the technology behind ChatGPT — this fall",
+      "excerpt": "Amid spirited public discussion over the dangers and opportunities of artificial intelligence, Brigham Young University has added a machine learning degree to its undergraduate catalog.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksl.com/article/50679240/byu-students-can-major-in-machine-learning--the-technology-behind-chatgpt--this-fall",
+      "originalUrl": "https://www.ksl.com/article/50679240/byu-students-can-major-in-machine-learning--the-technology-behind-chatgpt--this-fall",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-04T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSL",
+        "domain": "ksl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-04-global-artificial-intelligence-in-healthcare-market-size-to-worth-usd-28077-billion-by-2032-cagr-of-306.md",
       "title": "Global Artificial Intelligence In Healthcare Market Size To Worth Usd 280.77 Billion By 2032 | Cagr Of 30.6%",
       "excerpt": "(MENAFN- GlobeNewsWire - Nasdaq) New York, United States , July 04, 2023 (GLOBE NEWSWIRE) -- The Global Artificial Intelligence In Healthcare Market Size is to grow from USD 19.45 Billion in 2022 ...",
@@ -1104,49 +1138,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-eu-to-work-with-japan-on-ai-and-chip-supply-chain.md",
-      "title": "EU to Work with Japan on AI and Chip Supply Chain",
-      "excerpt": "The European Union (EU) is set to work with Japan in a bid to boost its Artificial Intelligence (AI) and chip supply chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coinspeaker.com/eu-japan-ai-chip/",
-      "originalUrl": "https://www.coinspeaker.com/eu-japan-ai-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/07/eu-japan-ai-chip.jpg",
-          "width": 1170,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.coinspeaker.com/eu-japan-ai-chip/amp/",
-      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/eu-japan-ai-chip/amp/",
-      "publishedDateTime": "2023-07-03T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "coinspeaker",
-        "domain": "coinspeaker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -48,6 +48,15 @@ related:
         width: 803
         height: 642
         isCached: true
+  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI the Information"
+    excerpt: "Databricks - a data analytics platform that uses artificial intelligence, which Microsoft would sell through its Azure cloud-server unit - helps companies make AI models from scratch or repurpose open-source models as an alternative to licensing OpenAI's proprietary ones, the report added."
+    publishedDateTime: 2023-08-17T21:43:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-17/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-the-information"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 59
   - title: "OpenAI Acquires AI Startup Global Illumination"
     excerpt: "Global Illumination, founded in 2021 by Thomas Dimson, Taylor Gordon, and Joey Flynn, has engaged in diverse projects."
     publishedDateTime: 2023-08-17T03:50:00Z

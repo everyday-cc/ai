@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "31% of Organizations Using Generative AI Ask It To Write Code"
+    excerpt: "Code development, content creation and analytics are the top generative AI use cases. However, data privacy is a concern."
+    publishedDateTime: 2023-08-17T23:32:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-enterprise-adoption-insights/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08172023-generative-ai-enterprise-adoption-insights.jpg"
+        width: 1400
+        height: 939
+        isCached: true
   - title: "Avangrid Pioneers In-House Creation of Artificial Intelligence to Increase Reliability"
     excerpt: "Machine learning models will allow CMP, NYSEG, RG&E and UI to forecast grid performance ahead of severe storms, troubleshoot problems areas and pinpoint investments to increase reliability When descri"
     publishedDateTime: 2023-08-16T16:00:00Z

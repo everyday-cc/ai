@@ -159,6 +159,20 @@ related:
         width: 799
         height: 449
         isCached: true
+  - title: "Canadian fintech invest plummets"
+    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
+    publishedDateTime: 2023-08-17T23:12:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "AI’s Impact on Fintech: Do the Benefits Outweigh the Risks?"
     excerpt: "Firms need to consider data privacy and security, the opacity of AI decision making, and the risk of model degradation."
     publishedDateTime: 2023-08-15T04:30:00Z

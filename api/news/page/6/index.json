@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-12-nvidias-ai-driven-stock-surge-pushed-earnings-multiple-three-times-higher-than-teslas.md",
+      "title": "Nvidia's AI-driven stock surge pushed earnings multiple three times higher than Tesla's",
+      "excerpt": "Nvidia's graphics chips have proven to be the best for training artificial intelligence models, and clients can't get enough of them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107278560-1690555294515-gettyimages-1258356004-TAIWAN-COMPUTEX2023-01062023-152JPG.jpeg?v=1691784755",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
+      "publishedDateTime": "2023-08-11T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-08-12-olis-robotics-raises-4m-to-take-systems-for-remote-robot-management-to-next-level.md",
       "title": "Olis Robotics raises $4M to take systems for remote robot management to next level",
       "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
@@ -1163,49 +1216,6 @@
         "AI Ethics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-robotics-as-a-service-market-size-share-trends-analysis-and-forecast-to-2031.md",
-      "title": "Robotics As A Service Market Size, Share, Trends, Analysis And Forecast To 2031",
-      "excerpt": "These robots are endowed with sensors, artificial intelligence, and machine learning algorithms, allowing them to perform complex tasks more efficiently and precisely. The global robotics market is anticipated to expand at a CAGR of 11.5% between 2023 and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/ab33728409/robotics-as-a-service-market-size-share-trends-analysis-and-forecast-to-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/ab33728409/robotics-as-a-service-market-size-share-trends-analysis-and-forecast-to-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33728409",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33728409",
-      "publishedDateTime": "2023-08-10T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

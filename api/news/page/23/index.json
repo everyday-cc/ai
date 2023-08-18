@@ -2,6 +2,57 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-07-31-a-group-of-seven-technology-leaders-agree-to-ai-safeguards.md",
+      "title": "A Group Of Seven Technology Leaders Agree To AI Safeguards",
+      "excerpt": "This article discusses Amazon, Google, Inflection, Meta, Microsoft & OpenAI's voluntary commitment to AI Safeguards & discusses the USA WhiteHouse AI legislation status.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c76de0561a39fa1d6b2a39/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/amp/",
+      "publishedDateTime": "2023-07-31T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops.md",
       "title": "Kubeflow Joins CNCF To Accelerate The Adoption Of MLOps",
       "excerpt": "CNCF’s acceptance of Kubeflow as an incubation project marks an important milestone in the evolution of the open source MLOps platform.",
@@ -1139,49 +1190,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-a-bull-market-is-coming-1-artificial-intelligence-ai-growth-stock-has-billionaires-betting-big.md",
-      "title": "A Bull Market Is Coming: 1 Artificial Intelligence (AI) Growth Stock Has Billionaires Betting Big",
-      "excerpt": "Artificial intelligence (AI) promises to usher in a ... its autonomous driving subsidiary Waymo and its AI research unit DeepMind could evolve into sizable revenue streams in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/29/bull-market-coming-1-ai-stock-billionaires-bet-big/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/29/bull-market-coming-1-ai-stock-billionaires-bet-big/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-29T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

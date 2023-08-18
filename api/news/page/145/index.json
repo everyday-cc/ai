@@ -2,6 +2,60 @@
   "page": 145,
   "value": [
     {
+      "path": "_news/2023-05-15-natural-language-processing-nlp-market-2023-2029-enormous-growth-detailed-perspective-and-top-players-microsoft-ibm-3m-amazon-aws.md",
+      "title": "Natural Language Processing (NLP) Market 2023-2029 Enormous Growth, Detailed Perspective, and Top Players – Microsoft, IBM, 3M, Amazon AWS",
+      "excerpt": "Latest released the research study on Global Natural Language Processing (NLP) Market, offers a detailed overview of the factors influencing the global business scope. The Natural Language Processing (NLP) Market report is a valuable source of insightful data for business strategists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029-enormous-growth-detailed-perspective-and-top-players-microsoft-ibm-3m-amazon-aws-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029-enormous-growth-detailed-perspective-and-top-players-microsoft-ibm-3m-amazon-aws-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-2023-computer-vision-system-market-research-report-analysis-by-2030.md",
       "title": "2023, Computer Vision System Market Research Report Analysis by 2030",
       "excerpt": "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest",
@@ -1176,57 +1230,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-to-my-fellow-gen-xers-worried-ai-is-going-to-take-your-job-take-a-chill-pill.md",
-      "title": "To my fellow Gen Xers worried AI is going to take your job: Take a chill pill",
-      "excerpt": "\"Will AI take my job\" is a question on many minds lately, especially for Gen X. Instead of panicking, boost your career by learning to adapt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5",
-      "originalUrl": "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/645e491511971c00188f1e56?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5?amp",
-      "publishedDateTime": "2023-05-13T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

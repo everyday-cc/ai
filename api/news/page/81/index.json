@@ -2,6 +2,58 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-06-26-mongodb-embraces-ai-reduces-developer-friction-with-new-features.md",
+      "title": "MongoDB Embraces AI & Reduces Developer Friction With New Features",
+      "excerpt": "Even if you haven’t heard of MongoDB, odds are good that you touch it in your daily online life. MongoDB has enabled more than 43,000 organizations to build solutions leveraging MongoDB technology, including some of the biggest names in technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6498b1426cfd34e2cf8daaa2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/",
+      "publishedDateTime": "2023-06-25T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-zoomerang-short-form-ai-video-platform-is-a-creative-innovation.md",
       "title": "Zoomerang: Short-Form AI Video Platform Is A Creative Innovation",
       "excerpt": "This article introduces Zoomerang a short form AI video platform that is democratizing video production for the masses, and creating a market place with Smart AI methods.",
@@ -1083,49 +1135,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-forget-chatgpt-facial-recognition-emerges-as-ai-rulebooks-make-or-break-issue.md",
-      "title": "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue",
-      "excerpt": "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/?mid=1",
-      "originalUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/?mid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/14/GettyImages-1247531079-scaled.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/?mid=1",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/?mid=1",
-      "publishedDateTime": "2023-06-23T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
