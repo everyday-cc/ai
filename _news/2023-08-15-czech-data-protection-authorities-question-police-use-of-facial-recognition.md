@@ -25,68 +25,111 @@ images:
     isCached: true
 
 related:
-  - title: "With facial recognition CCTVs and anti-drone systems, R-Day security goes hi-tech"
-    excerpt: "Delhi has been wrapped in a security blanket for Tuesday's 77th Independence Day celebrations, with more than 10,000 personnel manning the area in and around the Red Fort from where Prime Minister Narendra Modi will address the nation,"
-    publishedDateTime: 2023-08-14T15:19:00Z
-    webUrl: "https://www.rediff.com/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm"
-    ampWebUrl: "https://m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm"
+  - title: "14 Intriguing New And Potential Uses For Facial Recognition Technology"
+    excerpt: "Many consumers interact with facial recognition technology each day when they unlock their iPhones. Before being added to smartphones, facial recognition technology—which uses biometric data to identify individuals based on their unique facial features ..."
+    publishedDateTime: 2023-08-18T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 73
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://im.rediff.com/345-230/news/2023/aug/14president-murmu-addresses-the-nation.jpg"
-        width: 345
-        height: 230
-        isCached: true
-  - title: "1,000 Face Recognition Camera, Kite Catchers, Installed In Delhi Ahead Of Independence Day Celebration"
-    excerpt: "The Delhi Traffic Police on Sunday issued a traffic advisory for vehicular movement in Delhi on Tuesday as Prime Minister Narendra Modi would address the nation from the Red Fort."
-    publishedDateTime: 2023-08-14T02:54:00Z
-    webUrl: "https://www.outlookindia.com/national/1-000-face-recognition-camera-kite-catchers-installed-in-delhi-ahead-of-independence-day-celebration-news-310531"
-    ampWebUrl: "https://www.outlookindia.com/national/1-000-face-recognition-camera-kite-catchers-installed-in-delhi-ahead-of-independence-day-celebration-news-310531/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/1-000-face-recognition-camera-kite-catchers-installed-in-delhi-ahead-of-independence-day-celebration-news-310531/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 43
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1691921231.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64df7e960bca66ac42c712f4/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 799
         isCached: true
-  - title: "I-Day: 10,000 cops, facial recognition cameras at Red Fort"
-    excerpt: "With Delhi gearing up to celebrate India's 77th Independence Day, foolproof security arrangements have been made all across Delhi and especially at the Red Fort from where PM Modi will address the nat"
-    publishedDateTime: 2023-08-14T07:34:00Z
-    webUrl: "https://www.newsbytesapp.com/news/india/i-day-10-000-cops-facial-recognition-cameras-at-red-fort/story"
+  - title: "Facial Recognition Risks May Outweigh Benefits in Schools"
+    excerpt: "New York state’s Office of Information Technology Services issued a report last week, following a state law that banned biometric identifying technology in schools. A decision about the tech will be made in the coming weeks."
+    publishedDateTime: 2023-08-15T20:49:00Z
+    webUrl: "https://www.governing.com/security/facial-recognition-risks-may-outweigh-benefits-in-schools"
+    ampWebUrl: "https://www.governing.com/security/facial-recognition-risks-may-outweigh-benefits-in-schools?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/facial-recognition-risks-may-outweigh-benefits-in-schools?_amp=true"
     type: article
     provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
+      name: Governing
+      domain: governing.com
     quality: 39
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l52920230814121829.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Independence Day 2023: Over 10,000 cops, 1,000 facial recognition cameras, anti-drone systems in place at Red Fort"
-    excerpt: "He added that around 1,000 cameras with facial recognition and video analytic systems have also ... The Independence Day celebrations will be led by Prime Minister Modi, who will deliver a speech from the Red Fort. He is also expected to inspect a Guard ..."
-    publishedDateTime: 2023-08-14T05:03:00Z
-    webUrl: "https://www.livemint.com/news/india/independence-day-2023-over-10-000-cops-1-000-facial-recognition-cameras-anti-drone-systems-in-place-at-red-fort-11691986233508.html"
-    ampWebUrl: "https://www.livemint.com/news/india/independence-day-2023-over-10-000-cops-1-000-facial-recognition-cameras-anti-drone-systems-in-place-at-red-fort/amp-11691986233508.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/independence-day-2023-over-10-000-cops-1-000-facial-recognition-cameras-anti-drone-systems-in-place-at-red-fort/amp-11691986233508.html"
+  - title: "After years of dominating facial recognition tech, China is ready to govern it"
+    excerpt: "The rules also state that facial recognition tech must be used only when non-biometric measures won't do, among others."
+    publishedDateTime: 2023-08-15T01:08:00Z
+    webUrl: "https://techwireasia.com/2023/08/facial-recognition-tech-in-china-will-soon-be-governed/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 39
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 35
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/14/600x338/Red-fort-Security-8_1691974651529_1691989003287.jpg"
-        width: 600
-        height: 338
+      - url: "https://techwireasia.com/wp-content/uploads/2023/08/shutterstock_1115578520-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
+  - title: "Advanced Project announces upgrade to TIER service with facial recognition AI technology"
+    excerpt: "The Advanced Project, starting with fintech solutions, aims to apply an AI-based facial recognition payment system developed independently across Africa and Southeast Asia."
+    publishedDateTime: 2023-08-18T11:49:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/504696-advanced-project-announces-upgrade-to-tier-service-with-facial-recognition-ai-technology.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 27
+  - title: "New Apple patents for emotion recognition and MacBook face authentication"
+    excerpt: "Apple may be inching closer to including Face ID biometric authentication in its MacBook laptops, based on a newly granted patent."
+    publishedDateTime: 2023-08-16T20:03:00Z
+    webUrl: "https://www.biometricupdate.com/202308/new-apple-patents-for-emotion-recognition-and-macbook-face-authentication"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/16160102/apple-macbook-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Voice Recognition Technology: Enhancing Customer Satisfaction through Innovation"
+    excerpt: "Step into a world where conversing with devices transcends science fiction. Voice recognition technology has transformed interactions with smartphones, smart speakers, and vehicles. Yet, its influence extends further – this groundbreaking innovation is redefining customer service,"
+    publishedDateTime: 2023-08-16T10:28:00Z
+    webUrl: "https://techbullion.com/voice-recognition-technology-enhancing-customer-satisfaction-through-innovation/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-16T112714.686.png"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Editorial: Clear dangers of facial recognition tech used by police"
+    excerpt: "Few enough American women while eight months pregnant and already taking care of two young children could muster the energy to engage in a complicated armed robbery and a carjacking."
+    publishedDateTime: 2023-08-17T17:31:00Z
+    webUrl: "https://www.marinij.com/2023/08/17/clear-dangers-of-photo-tech-used-by-police/"
+    type: article
+    provider:
+      name: Marin Independent Journal
+      domain: marinij.com
+    quality: 19
+  - title: "US Army tests Idemia NSS facial recognition for multi-person in-vehicle identification"
+    excerpt: "The trial will test remote enrollment capabilities, allowing individuals to validate their identities before arriving at the base."
+    publishedDateTime: 2023-08-17T19:37:00Z
+    webUrl: "https://www.biometricupdate.com/202308/us-army-tests-idemia-nss-facial-recognition-for-multi-person-in-vehicle-identification"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 11
+  - title: "China’s Draft Rules Would Force User Consent for Facial Recognition Technology, With Expected Government Exceptions"
+    excerpt: "China’s new rules for facial recognition technology require companies to protect personal information, and to demonstrate a \"specific purpose\" and \"sufficient necessity\" when collecting biometric data of this nature."
+    publishedDateTime: 2023-08-17T11:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-protection/chinas-draft-rules-would-force-user-consent-for-facial-recognition-technology-with-expected-government-exceptions/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 0
 
 secured: "KKgsdm/dNgsd0+UL6M4W+JwgwB8pyeSW4Old1OWYkiAEErbalhIhB5/88hsb+tsS+8CfOtVkEe3hyrbbuVuuuM0KuX8b3gteRuI26emT0mlScb+LrG536U06+oJjk6yLUqxRyFPz7iVCWdOT/BsFjzprCX5/OPKvweKM/fxFFkhqFtqoQkrYyd+ADom9a4TrGSjWB/iEMhNHL9uKOTyLpSjxClY078FmZO+PJBwIPM3CnLvhLhyDFTJpm6Kthi1s+0A85F1iQOQY71cuJrc8gFQAidUq0zYcUA4asaoWgKXd0466lEWIsQn0yUoat9BO/cztmKjqj5fFLlr0G3JA6veQEUmoWHUi9FB+Zl8/Ls8=;pQG/hD0JHhQo/5cM2MlRHQ=="
 ---

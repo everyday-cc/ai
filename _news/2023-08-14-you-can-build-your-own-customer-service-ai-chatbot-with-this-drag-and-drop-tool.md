@@ -182,6 +182,20 @@ related:
         width: 800
         height: 440
         isCached: true
+  - title: "AI chatbots could fill gaps in postpartum depression support and care"
+    excerpt: "In Texas,1-in-5 women experience postpartum depression, surpassing the 1-in-7 national average, according to state health data."
+    publishedDateTime: 2023-08-18T16:48:00Z
+    webUrl: "https://www.kristv.com/news/texas-news/ai-chatbots-could-fill-gaps-in-postpartum-depression-support-and-care"
+    type: article
+    provider:
+      name: kristv
+      domain: kristv.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9a0040e/2147483647/strip/true/crop/2462x1293+0+55/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F4f%2F02%2F8893f3df435e89c8c7f3480bb531%2Folderpregnancies.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6OoIvHVoR9UHUfsDAgi1CUbwnit0hxgRJq7tUKb+TCP/LoIjB/XWVcIPsyipiyr611eAP6Sk2JtR4jK6pUaUt49GHx7kLSTw7etPGJm635miFBeAwHcnMiOF9II/wFQ60M9MQVIT4hw2WCTwTwyBq+4le24x9qkroGyQKByqJ1r3LoHJ4BDero67pk0PY62s0G99TnDS5iruxGhMQhjKNiKHG4yqkvYCLBL8cqLnQKEOLxmgNH/K8YHjJn1QaXJg8a0UmUfa4bjlmLsxjQyoDWABa3cGFOsLYKboGnTgZpMeDnmtnYt+xlt5I8YIt7sE2Jc94PgEv8x7Qz1nkuGGgLfXJKVofEMILr09jszIhdk=;gsQRYxK5cb7S4Q3CINTD7g=="
 ---

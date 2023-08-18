@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/amp/"
 type: article
 quality: 89
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -41,7 +41,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://www.zdnet.com/a/img/resize/333276a6b1c85e8b621ab2350d7e8819fc5bd46f/2023/08/18/2bd55fc3-81b8-495c-a6a0-35159ca2015c/gettyimages-1249613157.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
@@ -74,6 +74,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/08/fintech-survey.jpg?resize=1200,675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How Top Fintech Innovations Are Reshaping Banking And Finance"
+    excerpt: "Embarking on a captivating expedition into the ever-evolving realm of banking and finance, brace yourself for an illuminating voyage through the dynamic landscape of fintech innovations. Prepare to be enthralled as we plunge headfirst into the exhilarating domain where pioneering technologies are rewriting the narrative of conventional financial institutions."
+    publishedDateTime: 2023-08-18T16:19:00Z
+    webUrl: "https://techbullion.com/how-top-fintech-innovations-are-reshaping-banking-and-finance/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Defi.jpg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Saasant: Transforming Finance – How Fintech Automation Reshapes the Accounting Industry"
     excerpt: "Fintech Automation is reshaping the accounting industry and propelling us into a future where efficiency, accuracy, and speed are crucial.DE"

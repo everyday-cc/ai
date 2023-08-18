@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/08/17/sparse-models-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/17/sparse-models-the-math-and-a-new-theory-for-ground-breaking-ai/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is it time for limits on artificial intelligence and the news?"
+    excerpt: "If you're like most people, when you saw an update to the terms and conditions to use the New York Times' website last week, you just accepted them and moved on."
+    publishedDateTime: 2023-08-18T17:13:00Z
+    webUrl: "https://techxplore.com/news/2023-08-limits-artificial-intelligence-news.html"
+    ampWebUrl: "https://techxplore.com/news/2023-08-limits-artificial-intelligence-news.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-limits-artificial-intelligence-news.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/new-york-times.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Navigating through a world with growing and advancing artificial intelligence"
     excerpt: "As AI continues to develop, people strive to monitor, regulate and promote it so that it progresses safely and responsibly."
     publishedDateTime: 2023-08-16T17:56:00Z

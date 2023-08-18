@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-
 webUrl: "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it/"
 type: article
 quality: 92
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "The New AI Jobs, Smaller Firms Shaping Remote Work And How United Is Luring Tech Workers"
+    excerpt: "The published version of Forbes' Future of Work newsletter delivers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the workforce and trends in the remote work debate to your inbox every Friday."
+    publishedDateTime: 2023-08-18T17:57:00Z
+    webUrl: "https://www.forbes.com/sites/jenamcgregor/2023/08/18/the-new-ai-jobs-smaller-firms-shaping-remote-work-and-how-united-is-luring-tech-workers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dfae3b1057b63591c712f6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 711
+        isCached: true
   - title: "AI is changing work – and HR leaders should change too"
     excerpt: "The rise of generative AI has surfaced many new questions about how the technology will impact the workforce. Even as AI becomes more pervasive in business, people are still a core competitive advantage."
     publishedDateTime: 2023-08-15T09:26:00Z

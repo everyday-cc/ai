@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-24-tonix-pharmaceuticals-holding-corp.md",
+      "title": "TONIX PHARMACEUTICALS HOLDING CORP",
+      "excerpt": "The findings reported today show that tianeptine and estianeptine improve memory and cognition as measured in the rat Novel Object Recognition (NOR) test. The finding that estianeptine is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-07/59647452-tonix-pharmaceuticals-holding-corp-tonix-pharmaceuticals-announces-data-supporting-the-memory-and-cognition-enhancing-effects-of-racemic-tianeptine-399.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-07/59647452-tonix-pharmaceuticals-holding-corp-tonix-pharmaceuticals-announces-data-supporting-the-memory-and-cognition-enhancing-effects-of-racemic-tianeptine-399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock.md",
       "title": "How face recognition rules in the US got stuck in political gridlock",
       "excerpt": "A national effort to ban police use of face recognition is facing a sobering reality: compromise",
@@ -1267,40 +1301,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-barred-from-grocery-stores-by-facial-recognition.md",
-      "title": "Barred from grocery stores by facial recognition",
-      "excerpt": "He then logged in to a facial recognition program, Facewatch, which his store uses to identify shoplifters. The next time those people enter any shop within a few miles that uses Facewatch ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/",
-      "originalUrl": "https://www.seattletimes.com/business/barred-from-grocery-stores-by-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

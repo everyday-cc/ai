@@ -75,17 +75,6 @@ related:
         width: 300
         height: 241
         isCached: true
-  - title: "Innova Solutions CEO: Generative AI will have ‘bigger impact than the Internet’"
-    excerpt: "Raj Sardana, CEO of technology services company Innova Solutions, says generative AI will have a \"bigger impact than the Internet.\""
-    publishedDateTime: 2023-08-13T23:07:00Z
-    webUrl: "https://www.bizjournals.com/atlanta/news/2023/08/13/innova-solutions-ceo-generative-ai.html"
-    ampWebUrl: "https://www.bizjournals.com/atlanta/news/2023/08/13/innova-solutions-ceo-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/atlanta/news/2023/08/13/innova-solutions-ceo-generative-ai.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 33
   - title: "The Key People Driving Meta’s Generative AI Work"
     excerpt: "As Meta Platforms has tried to cut costs and trim headcount over the past year, one area has emerged as an exception: generative artificial intelligence. Caught flat-footed by the explosion of interest in OpenAI’s ChatGPT,"
     publishedDateTime: 2023-08-16T13:00:00Z

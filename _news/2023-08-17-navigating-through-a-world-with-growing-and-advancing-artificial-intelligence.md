@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Is it time for limits on artificial intelligence and the news?"
+    excerpt: "If you're like most people, when you saw an update to the terms and conditions to use the New York Times' website last week, you just accepted them and moved on."
+    publishedDateTime: 2023-08-18T17:13:00Z
+    webUrl: "https://techxplore.com/news/2023-08-limits-artificial-intelligence-news.html"
+    ampWebUrl: "https://techxplore.com/news/2023-08-limits-artificial-intelligence-news.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-limits-artificial-intelligence-news.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/new-york-times.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
 
 secured: "DNyruwk7l9nnlDOq8HzBIs8Cpd4yiHqACzJdqBzeH5hFREIQKlcNvmkaK9VmkuO5c0ze2q9zIQtabnT7Nz9K1Bo5QdRLHT5HGfLvm4NeQmdfvCvDoyOc3zpfpxG2OYSJM/F+en/5/fwMWdA7fAbSr/sWoNN/f7nVUDbrEqkRBFgTS1nMzEl0CTckWPPbwZzDLE53iIZd4xRXrxwjTXsxsyqtBSjX25VzNkEMW2hGICfw1YrArhu6IVpyyVx3pF6Y3q1u+NokRLsBJ/Y58eUr5fx1PGbcEgYLjT0lHmRyelyOuvk3n7DHnVQp1lTFCRKbotuEHTJkoozBbLzz7y8wsVLFpleeh5d5mJRsuwiB7Yo=;0VjSXrjBpozusKQHqJ2G7g=="
 ---

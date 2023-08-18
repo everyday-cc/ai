@@ -73,20 +73,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Czech data protection authorities question police use of facial recognition"
-    excerpt: "The Office for Personal Data Protection asked the police for information on the facial recognition system that has been in trial operation for almost a year."
-    publishedDateTime: 2023-08-14T20:20:00Z
-    webUrl: "https://www.biometricupdate.com/202308/czech-data-protection-authorities-question-police-use-of-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
-        isCached: true
 
 secured: "AmhNv2w8ZutwxbUshmwc2VxCcqGetx2oE3I+Yzu7vAn+8loohydmkYAg7YU8/EPej5iF3q0Wkyr1VPDfYGm7/ffR5M5WkaTMFYcEKYZPMudy85kLy0s1un2G7N33vy+q2ISWo2e2uVcBHF/9mrWNoZJEUmQRj6ZEuUAklJih7qcEU+60AO7eAH4gMsLcJkSftlHLCJP3hINxYQRZUQtY4YWZHFuU5gDuRZQseCHTFLaao3DIp4KdQowDVsr60uP5mBavswYvCkTH5NNzygM66ekwRcY+2Mv7pRw+q4xxxrFbT3JKEsrVUm79+tjFYJ802xSS7ps5x6w4oHOnQkN0cnIKJQzMdOZw1Daxdr8LXu6nJFp0kiRH1WD9Iew/qNCplftszQRTrN3oxOTFCE1zT/3rMI0PGXq3+EejaB8KtlAlN/45ozHOnKILX/Q2DOjiVOL6WrJAorae7EHFvVU3aXCQHgTG1GmfcAovo4cEQ88Pmgl4ePHZSXUH32pGCVNQGhfqIAQma5MFObIoLJcqrQ==;egCmuLMsuRTk2VTSa9pg5w=="
 ---

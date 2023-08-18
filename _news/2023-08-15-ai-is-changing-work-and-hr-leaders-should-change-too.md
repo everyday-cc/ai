@@ -34,6 +34,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 92
+  - title: "The New AI Jobs, Smaller Firms Shaping Remote Work And How United Is Luring Tech Workers"
+    excerpt: "The published version of Forbes' Future of Work newsletter delivers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the workforce and trends in the remote work debate to your inbox every Friday."
+    publishedDateTime: 2023-08-18T17:57:00Z
+    webUrl: "https://www.forbes.com/sites/jenamcgregor/2023/08/18/the-new-ai-jobs-smaller-firms-shaping-remote-work-and-how-united-is-luring-tech-workers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dfae3b1057b63591c712f6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 711
+        isCached: true
   - title: "Artificial Intelligence Is Changing The World"
     excerpt: "I have been hearing so much lately about Artificial Intelligence (AI) that it has started to annoy me to the core."
     publishedDateTime: 2023-08-17T15:57:00Z

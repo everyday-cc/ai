@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-it
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-its-iphone-browser/"
 type: article
 quality: 87
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -181,6 +181,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-15.jpg"
         width: 800
         height: 440
+        isCached: true
+  - title: "AI chatbots could fill gaps in postpartum depression support and care"
+    excerpt: "In Texas,1-in-5 women experience postpartum depression, surpassing the 1-in-7 national average, according to state health data."
+    publishedDateTime: 2023-08-18T16:48:00Z
+    webUrl: "https://www.kristv.com/news/texas-news/ai-chatbots-could-fill-gaps-in-postpartum-depression-support-and-care"
+    type: article
+    provider:
+      name: kristv
+      domain: kristv.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9a0040e/2147483647/strip/true/crop/2462x1293+0+55/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F4f%2F02%2F8893f3df435e89c8c7f3480bb531%2Folderpregnancies.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "sy+vz/4BBvRFyxMrJWm3W/Y7zi4YUdBvk6QRKi1D31cj3m8qUKb6JaWwKPTFnnJKYbQS0AURywZC7dgRE4OHUhndywAH4DjVVDsnoquHpEmsTy3hwttKpOW8xfBDEQG8slAV9xz6dmiJgiiXyGHrhcFzjv5Hfgui0iHclcvMBY3/NMjqLalozZiG5HxFeMRhbnXq+/2YYius89UG5f342Ds0R4Af2PYLNDqsMraGF+u4MOrG5wBWFBMdinFO56LzCfaXBu7cCp85jNHH4/VNPLK0M0/rC7Um9eUOJJsIsXdwfqQul5DASBGq66iQPtJzbpzOH7vop4vIsHsLvRQUF+Z2BkBodXcR2zZHfxshCkq3ZTtkiIaUJ8LDTtkl12uldk3Tv5oklkLOuSDQqvhY3Pc2JNrcN/cDOXd2U7Nvhj5Y3/DHqEiGglRAsdX5MIb7micDEATVzKIB/d49ELDXuPB7ajjwAMeQFCPRksXIatZz8S7xNYQ8xLUbAQfaFS/6JQugEKGgkcUCxsfqXCwv8g==;HU87ihGxB297VMHbRFnWzg=="

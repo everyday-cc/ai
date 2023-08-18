@@ -24,17 +24,6 @@ images:
     height: 677
     isCached: true
 
-related:
-  - title: "US Army tests Idemia NSS facial recognition for multi-person in-vehicle identification"
-    excerpt: "The trial will test remote enrollment capabilities, allowing individuals to validate their identities before arriving at the base."
-    publishedDateTime: 2023-08-17T19:37:00Z
-    webUrl: "https://www.biometricupdate.com/202308/us-army-tests-idemia-nss-facial-recognition-for-multi-person-in-vehicle-identification"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 11
-
 secured: "gyTmvVJFKJ5mfNb5At/IAANgNaVX1fRIUYR1Hn4byGVpeXHa0182EGseUUoMwjWmqKUH90+NiA2DQJ10L0kblb2EH6f3qsbZm/iYxhH3afAwj2u6x9eg4+u7SjAViAk1NfIERLWdspNT6hzL506DnT+Ik8+061dPsWX7qKGsvYn8r9SSsOhssbCkCJ6LG1PpUPz0OnzA0dY58p4jmXVS/fiEhftKfAzQqUEvo/mEzsNhVEuLdEvxQtg1uHL+GfjMekQrFFKSkoZd6avWBOXkmuR1emM9WupqNrUZa2S1/HmP2qlNePTFC/aCEuVx8F/Bi0DJgK07F0qOJeFwJ2LhapzFvoF8vgXC6AgC7xVf4rE=;waXiuJkGqMR+FU/bYyhmLA=="
 ---
 

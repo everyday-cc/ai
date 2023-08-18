@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Phillies fans can soon enter Citizens Bank Park using facial recognition. Here's how it works"
-excerpt: "For the first time ever you will have the option to use your face as a ticket at Citizens Bank Park come Monday."
-publishedDateTime: 2023-08-17T20:40:00Z
-originalUrl: "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/"
-webUrl: "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/"
-ampWebUrl: "https://6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/"
-cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/"
+title: "Phillies fans can soon enter Citizens Bank Park using facial recognition. Here’s how it works"
+excerpt: "For the first time ever, Phillies fans will have the option to use their face as a ticket at Citizens Bank Park come Monday. It’s part of Major League Baseball’s pilot program. Ticketed fans who have uploaded a selfie can walk into Citizens Bank Park without having to even show a barcode."
+publishedDateTime: 2023-08-18T16:30:00Z
+originalUrl: "https://whyy.org/articles/phillies-citizens-bank-park-facial-recognition/"
+webUrl: "https://whyy.org/articles/phillies-citizens-bank-park-facial-recognition/"
+ampWebUrl: "https://whyy.org/articles/phillies-citizens-bank-park-facial-recognition/amp/"
+cdnAmpWebUrl: "https://whyy-org.cdn.ampproject.org/c/s/whyy.org/articles/phillies-citizens-bank-park-facial-recognition/amp/"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
-  name: 6abc News
-  domain: 6abc.com
+  name: WHYY
+  domain: whyy.org
 
 topics:
   - Computer Vision
@@ -22,9 +22,9 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://cdn.abcotvs.com/dip/images/13664068_081723-wpvi-phillies-facial-recognition-4pm-CC-vid.jpg"
-    width: 1280
-    height: 720
+  - url: "https://whyy.org/wp-content/uploads/2023/04/phillies-homeopener-5.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -44,6 +44,20 @@ related:
         width: 4500
         height: 2585
         isCached: true
+  - title: "Philadelphia Phillies lead off facial recognition access pilot for big league baseball"
+    excerpt: "The Philadelphia Phillies of Major League Baseball (MLB) are launching contactless, ticketless stadium entry with facial recognition."
+    publishedDateTime: 2023-08-18T17:11:00Z
+    webUrl: "https://www.biometricupdate.com/202308/philadelphia-phillies-lead-off-facial-recognition-access-pilot-for-big-league-baseball"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/28212609/Events-biometric-ticketing-crowds-scaled.jpg"
+        width: 2048
+        height: 1291
+        isCached: true
   - title: "FTA investigates SEPTA crashes; Steel Elementary’s new playground; Facial recognition at Phillies games | Morning roundup"
     excerpt: "Feds plan rare safety inspection amid SEPTA crash spike The recent string of crashes involving SEPTA vehicles has prompted the Federal Transit Administration to launch a comprehensive safety inspection for just the"
     publishedDateTime: 2023-08-18T14:05:00Z
@@ -59,6 +73,6 @@ related:
         height: 1350
         isCached: true
 
-secured: "QmhaEVQUYwd5Nzs6a9as1zrOtWsBjgO4Q3l1VodKRClnJvE5XWqcClEGAfzUTa72XXGk9V1ggXEO1ptu1SbJafSc2kZCRjjGiKl2KxJ/WFuPM97dGIeoN+v1hzt4rRodATkEFmkcOrgeBSFXMHkS0IigHh3oRUQ5xH3Rakky3CkZltYkI+UMmznCIOIA5V1V4x5weEOF9YaXWQiyMWxSLTSAfbpbnFVCLGigO9aSA41JCl+uP8hg1kDXJdDYdcJRvcGAdX15VcG4JOqkUl3rQ6SVb5kC15aml3anTL8Cb7wccTbqw9jOhOq+dvtcbkD5KIk4BjIR5JmykfTjFNuZh1wY1KuJIy+O8ukxPloT8rif0yNB0S7NkN9R8ReFiynRMKjCA/0CkZdV4SSEmzARHH4SR+NJ6nw3+RgOmLdfKQkdiimS0Ce9hxULQx2iHPInePA1armeASOVzSHHJ70tp6HYXyIDvi1QdNLyawCWyLhvtKoPJul3YIjAb3Mow0HFfuDM8g199lXq3Wf9ANX1fw==;ZvspVM4ADEfCaHZG4cCDXg=="
+secured: "RiQiqxcpw94fiQWuWuTZ13wmzxfjhmanhxXkE+uEp1liPNgGhadVH+6/LQCwHaxaab1KiG0cpBD8SR7/BM6EJK0PjCKBzH1CG9VJoXLNo99MFGigSdYmBHMQk0vx6ktAKLSskxy+xnDl+VlgqAXTskvliqGRMtUV38Cd2nOM5kO2Xybc3R9ttrbNKURUvNyZmZtDRchmbYeOicdY2u8H9rvZeKrj9dMByZvBHfMmq2/Z34XNYdOEziSPrF/MlmxlLB+qJfFGICC3YWLOEOMG4kN0cEjNlvLUnLn3cZb/mfRKLCzRm3Tu5mCUdMZuI66+OWi4Q6pWpMh5uv9lp3sCi6JAfzDlXZf96d7q/W4kmaY=;gTVnqeJ3//lKABNoVASg3w=="
 ---
 

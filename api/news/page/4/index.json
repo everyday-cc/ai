@@ -2,6 +2,154 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-15-ai-is-more-artificial-than-intelligent.md",
+      "title": "AI Is More ‘Artificial’ Than ‘Intelligent’",
+      "excerpt": "AI has already demonstrated that it can improve productivity, but is it also the ultimate disruptor that can threaten our very existence? Some experts think it will take years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor/2023/08/15/ai-is-more-artificial-than-intelligent/",
+      "originalUrl": "https://www.forbes.com/sites/investor/2023/08/15/ai-is-more-artificial-than-intelligent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64db7d498cd8bf5f77635f1e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/investor/2023/08/15/ai-is-more-artificial-than-intelligent/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2023/08/15/ai-is-more-artificial-than-intelligent/amp/",
+      "publishedDateTime": "2023-08-15T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-debunking-observability-myths-part-4-observability-is-always-expensive.md",
+      "title": "Debunking observability myths – Part 4: Observability is always expensive",
+      "excerpt": "In this article, we will focus on the misconception that “observability is always expensive.” \nThe post Debunking observability myths – Part 4: Observability is always expensive appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/debunking-observability-myths-part-4-observability-is-always-expensive/",
+      "originalUrl": "https://www.ibm.com/blog/debunking-observability-myths-part-4-observability-is-always-expensive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T06:02:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant.md",
+      "title": "Has AI Robotics Revolution Met Its ChatGPT Moment? A Conversation With Peter Chen, Co-Founder Of Covariant",
+      "excerpt": "In a year marked by massive leaps in technology change, Covariant has created an adaptable AI that thrives in an environment characterized by unpredictability and imbue robots with the capacity to conquer novel challenges with precision and autonomy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/",
+      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64db6a9e8cd8bf5f77635ef0/0x0.jpg?format=jpg&crop=640,361,x0,y29,safe&width=1200",
+          "width": 640,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/",
+      "publishedDateTime": "2023-08-15T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-shaping-the-ai-future-a-shared-journey.md",
       "title": "Shaping The AI Future: A Shared Journey",
       "excerpt": "AI isn't just about flashy robots or an elevated gaming experience. It's about a transformative force that's currently driving a shift in social norms.",
@@ -458,7 +606,7 @@
       "originalUrl": "https://www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1085,152 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-the-ai-engineer-myth-unicorn-or-new-normal.md",
-      "title": "The AI Engineer: Myth, Unicorn, Or New Normal?",
-      "excerpt": "What is an AI Engineer? What skills are required to become one? What jobs are available? Do I want to become an AI engineer? How to start learning to be an AI Engineer?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2023/08/14/the-ai-engineer-myth-unicorn-or-new-normal/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2023/08/14/the-ai-engineer-myth-unicorn-or-new-normal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64da637f5f367c2a1b88000e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 867,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2023/08/14/the-ai-engineer-myth-unicorn-or-new-normal/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/08/14/the-ai-engineer-myth-unicorn-or-new-normal/amp/",
-      "publishedDateTime": "2023-08-14T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-more-than-half-the-complexity-of-robots-is-in-the-hands.md",
-      "title": "More Than Half The Complexity Of Robots Is In The Hands",
-      "excerpt": "Phoenix has 75 degrees of freedom when you count up how the machine can move in all its jointed components. 44 of those 75 are in the hands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/14/more-than-half-the-complexity-of-robots-is-in-the-hands/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/14/more-than-half-the-complexity-of-robots-is-in-the-hands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64da5be1a42e7a818e88000e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 945,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/14/more-than-half-the-complexity-of-robots-is-in-the-hands/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/08/14/more-than-half-the-complexity-of-robots-is-in-the-hands/amp/",
-      "publishedDateTime": "2023-08-14T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-florida-high-schools-to-teach-ai-courses-developed-by-uf.md",
-      "title": "Florida High Schools to Teach AI Courses Developed by UF",
-      "excerpt": "It said some students who participated in Osceola County last year received certification for Microsoft Azure AI, which is typically held by engineering and computer-science students and professional adults. Nancy Ruzycki, a professor at UF’s Herbert ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf",
-      "originalUrl": "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/c2c658f/2147483647/strip/true/crop/1000x521+0+57/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2Fde%2F9774c61147bfbe8c3f04129ada9c%2Funiversity-of-florida.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf?_amp=true",
-      "publishedDateTime": "2023-08-14T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

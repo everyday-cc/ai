@@ -64,6 +64,15 @@ related:
       name: KXAN
       domain: kxan.com
     quality: 19
+  - title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
+    excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
+    publishedDateTime: 2023-08-18T17:58:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/08/18/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
   - title: "How Artificial Intelligence Can Improve the World of Online Gaming Platforms"
     excerpt: "In the realm of contemporary history, few topics have captured as much attention as Artificial Intelligence. Its rapid integration has emerged as a pivotal influence across numerous sectors, including the online casino industry. As technology propels ..."
     publishedDateTime: 2023-08-17T19:50:00Z

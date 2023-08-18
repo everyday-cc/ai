@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/4-ways-to-increase-the-usability-of-ai-ac
 ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-increase-the-usability-of-ai-according-to-industry-experts/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/333276a6b1c85e8b621ab2350d7e8819fc5bd46f/2023/08/18/2bd55fc3-81b8-495c-a6a0-35159ca2015c/gettyimages-1249613157.jpg?auto=webp&fit=crop&height=675&width=1200"
@@ -73,6 +74,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/08/fintech-survey.jpg?resize=1200,675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How Top Fintech Innovations Are Reshaping Banking And Finance"
+    excerpt: "Embarking on a captivating expedition into the ever-evolving realm of banking and finance, brace yourself for an illuminating voyage through the dynamic landscape of fintech innovations. Prepare to be enthralled as we plunge headfirst into the exhilarating domain where pioneering technologies are rewriting the narrative of conventional financial institutions."
+    publishedDateTime: 2023-08-18T16:19:00Z
+    webUrl: "https://techbullion.com/how-top-fintech-innovations-are-reshaping-banking-and-finance/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Defi.jpg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Saasant: Transforming Finance – How Fintech Automation Reshapes the Accounting Industry"
     excerpt: "Fintech Automation is reshaping the accounting industry and propelling us into a future where efficiency, accuracy, and speed are crucial.DE"
@@ -224,6 +239,6 @@ related:
       domain: deccanherald.com
     quality: 4
 
-secured: "OzI071AEGW39O7XOPgg9QJtZXrf59ZHITJNICmBr165clcQUeMmRbriXQ/yGBzg6rOfKpgu5mJIXohxNSlpc2WRqB+DWzx6q3z3+9CKDKnS7nWHskoZF+J6k1cWqdhqPYnExHr2mRQ6wdF/uL+7/6/bRUFbrsR1bdVZNvVl39AMRx+5/Y8QXjFmy/4MFAMJO46RbiB3B2WgP7NgQo68CwjMPV896whGDo2RD/+VUX0T+ni8YnABiMaKd48BCpvq5FGFZ5f/+rj+lq++UhKSU+AHdQVElZrcxlNAdd4Kf3nK7v9gTtIKQNp2bpX5eoZT0Mv1eTR9/ADTCmNNF+Yvtwje5WVvFXhhIDhqJNpLG7CQ=;Y0XBZg8pAJW4a/qoBHEvgQ=="
+secured: "W7zXpNTy6Wmj2uGsD4wM1v5pZen5PEmPBun/UJbSC26zjbvxkFd/FBbyOp548GCpMwJDUWr1B09HHUfxts7J9SGFOek1kOnwu3BIntU5foP2DD7d9C2Y0QrXpDgSb/E+9VZnSEcn1KBCVJFMfc9oDRFPwIkPnqXnEHDV2cbRRQlHqsVSQNfeH9Pd5pXV1wQj4Melq4MFnDppzePEhu92EBREM2jEdjeT8WXJVU6DZtu1lFbzAg/d6F3uriIRJHnSQ6zTORa/0o0KBqKWoxWTs0GMd4oH5UOPMSX4TVr+tSWdgSk0FBPzcV79Xd/temwbjdzP6OOv+mJ2kJZhPDqtFGA1rRooSlyyPS7vUehvuHKZ5gbI67qw6tgYPmmSLwmDx57DzUJW6Nod2iGfoebXxPxlA08mT3kNDATkmsledWnUqtV8xETcGTZRxlQobWEialp0gvQ/HsP3FFWVkfTiRdFgfuQ9udGZ3pcnPphZEGCY2aJU6YyinHxS9u6fYFbxk9kczA434CmPSgbnPvE3+w==;JlwAuTBs8XjZlSgzTF3fNQ=="
 ---
 
