@@ -84,20 +84,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "The Best AI Chatbots for 2023"
-    excerpt: "ChatGPT started the AI chatbot revolution, but there are compelling alternatives to help you get more out of these new, conversation-based tools. We've tested them to help you determine which one is right for you."
-    publishedDateTime: 2023-08-14T15:21:00Z
-    webUrl: "https://www.pcmag.com/picks/the-best-ai-chatbots"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/roundups/01AY6LKrl2he2T0GJgvaDXG-1.fit_lim.size_1200x630.v1691697293.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Google’s testing an AI chatbot that could be your personal life coach"
     excerpt: "Google is testing an AI chatbot that could act as a virtual life coach for users. The chatbot, developed by Google’s DeepMind team, is currently being"
     publishedDateTime: 2023-08-17T01:51:00Z

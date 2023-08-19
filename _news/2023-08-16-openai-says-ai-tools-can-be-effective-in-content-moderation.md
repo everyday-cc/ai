@@ -97,20 +97,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 68
-  - title: "Revolutionizing Education: Harnessing the Power of AI for Studying"
-    excerpt: "In today’s fast-paced digital era, the role of Artificial Intelligence (AI) has transcended beyond mere automation and into the realm of education. The integration of AI into the learning process is transforming how students approach their studies,"
-    publishedDateTime: 2023-08-14T16:29:00Z
-    webUrl: "https://techbullion.com/revolutionizing-education-harnessing-the-power-of-ai-for-studying/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 56
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/AI-in-education.jpeg"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Financial Services Are Using Artificial Intelligence to Navigate Regulations"
     excerpt: "In five key areas, AI and machine learning tools can help banks follow know-your-customer rules, spot potential money laundering and more."
     publishedDateTime: 2023-08-14T20:23:00Z
@@ -154,20 +140,6 @@ related:
       - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16046_1835.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Revolutionizing Customer Engagement with Voice Interfaces in Business"
-    excerpt: "Welcome to the future of customer engagement! In today’s ever-evolving technological landscape, businesses are constantly seeking innovative ways to forge deeper connections with their customers. With the rise of voice interfaces,"
-    publishedDateTime: 2023-08-14T15:58:00Z
-    webUrl: "https://techbullion.com/revolutionizing-customer-engagement-with-voice-interfaces-in-business/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-14T165701.298.png"
-        width: 800
-        height: 400
         isCached: true
   - title: "Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
     excerpt: "The Nutanix GPT-in-a-Box solution delivers ready-to-use customer-controlled AI infrastructure for the edge or the core data center and allows customers to run and fine-tune AI and GPT models while maintaining control over their data. Nutanix provides a full complement of security and data protection offerings ideal for AI data protection."

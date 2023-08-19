@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "India To Roll Out First AI-tool 'Bhashini': PM Modi At G20 Digital Economy Meet"
+    excerpt: "English-speaking population of India to the global Internet and help them access it in their regional languages."
+    publishedDateTime: 2023-08-19T08:45:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 55
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/tpps4caa50qgrcjo_1692421617.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Govt building 'Bhashini' an AI-powered language translation platform: PM Modi at G20 meet"
     excerpt: "Prime Minister Narendra Modi on Saturday said India is an ideal testing lab for solutions and underlined that the solutions that succeed in the country can be easily applied anywhere in the world. In his virtual address at the G20 Digital Economy Working Group Ministers Meet here in the city,"
     publishedDateTime: 2023-08-19T06:25:00Z
@@ -74,6 +90,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Hn+rJTuFcT8W+OTa9xF/2Pp7xlRlv9ug9XbO9IzTxgXSxSuzSYy2n7cbbCbA9HxBEAzZhq97kR6NwNlagg4PBmMqeI38I2PnO26zBpZOncNOjjdXEhhZITFKJJSMXZ9j/MEvkqXMjZUKSxRE9fMQQ9LPUH+/CaNhFP0REClxYlr2WFO9H4JfywobUhF5oaDpkhl9ImyLULg7QIbfN1Pczl1xZQV5h57nehGSYTGkJfNQ9ouCHNuDLTL+t8H70SeUjkUavxjCHUIh3UxMt5Y6/gzQ1MUTFPijkDc3NIjiQ1B4X1TRPUzdgIAWRhRGHMmV9f45zFLejk9PMZH1l53H73EWHk6hcZGHGpWsv7/mY+g=;ib9o7qlTUF0KJ+hM4/imoA=="
+secured: "x2YHdxkX/KFUtzGAas3ecXMyMQtc2olFlBQK5pYXDKcsSYLP7Uko/h+Cf1oXHkfF6klofAcj9l0yp5dXt1QHXwPEkebQnwC37ciGr7uvkZhjqtVeyU2DR98bCoXHo39YJtysN+cFFJDjTac4JN0hDhbIYHbW4d/s3M2pfVqeSCLZvPAtHyjOc80XjV44WPmIZezQzdjuaFZB80O8e9D/EDv37KcXZp3FDRtAoF1fnTkVxaAEONlRmJd1KYWOB4dAID1jfVihG1oh2uTSpcQV/rjQON9c0kMSxIcYG8iSUVmd18Mn0tBXIKK8dYqAB1Pkd33wHW72YHmYGMvGSmQUjWHhhtbiCmJ5z6ShkSpVdJTp7fsUNiSlEQS3xtgyBh9wle3n17+dRLXe6hMwqEXRa9t3M5lYHfKvDg0+G7vjlROuujpFr8vx2OMXRlHo7DS46pCDTv04HyeFtjDTwBdevGR9xkF9BNzd5m4p8DFYoAJxyB+WaP6yKaY1LB/M/MsnaEArmuJBnD24FP0UJXAI1w==;BWIxVSGuLhjXBI+S2OMnUw=="
 ---
 

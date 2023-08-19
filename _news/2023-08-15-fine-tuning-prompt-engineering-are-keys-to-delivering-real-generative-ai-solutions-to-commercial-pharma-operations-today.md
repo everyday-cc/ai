@@ -50,20 +50,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "WCM-Q discusses legal and ethical issues of generative AI in healthcare"
-    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed during the latest"
-    publishedDateTime: 2023-08-19T05:20:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/19/08/2023/wcm-q-discusses-legal-and-ethical-issues-of-generative-ai-in-healthcare"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 71
-    images:
-      - url: "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg"
-        width: 1280
-        height: 1024
-        isCached: true
   - title: "China's new rules on AI-generated content"
     excerpt: "Here's what you need to know about Beijing's regulations, which target services for the general public: - AI ethics - Generative AI must \"adhere to the core values of socialism\" and refrain from threatening national security and promoting terrorism ..."
     publishedDateTime: 2023-08-18T07:02:00Z
@@ -108,6 +94,15 @@ related:
         width: 650
         height: 364
         isCached: true
+  - title: "Wcm-Q Discusses Legal And Ethical Issues Of Generative Ai In Healthcare"
+    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed dur"
+    publishedDateTime: 2023-08-19T09:49:00Z
+    webUrl: "https://menafn.com/1106893650/Wcm-Q-Discusses-Legal-And-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
   - title: "Navigating Change Management In The Era Of Generative AI"
     excerpt: "To effectively navigate change management in the era of generative AI, companies must develop a deeper understanding of their offerings and customer expectations. This understanding will help them identify the areas where generative AI can provide value and where human interactions are indispensable."
     publishedDateTime: 2023-08-17T13:15:00Z

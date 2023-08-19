@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "India To Roll Out First AI-tool 'Bhashini': PM Modi At G20 Digital Economy Meet"
+    excerpt: "English-speaking population of India to the global Internet and help them access it in their regional languages."
+    publishedDateTime: 2023-08-19T08:45:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/india-to-roll-out-first-ai-tool-bhashini-pm-modi-at-g20-digital-economy-meet-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 55
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/tpps4caa50qgrcjo_1692421617.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Govt building 'Bhashini' an AI-powered language translation platform: PM Modi at G20 meet"
     excerpt: "Prime Minister Narendra Modi on Saturday said India is an ideal testing lab for solutions and underlined that the solutions that succeed in the country can be easily applied anywhere in the world. In his virtual address at the G20 Digital Economy Working Group Ministers Meet here in the city,"
     publishedDateTime: 2023-08-19T06:25:00Z

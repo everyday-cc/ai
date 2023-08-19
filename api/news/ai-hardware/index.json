@@ -1383,21 +1383,21 @@
       ]
     },
     {
-      "path": "_news/2023-08-09-generative-ai-highlights-nvidia-keynote-at-siggraph-2023.md",
-      "title": "Generative AI Highlights NVIDIA Keynote at SIGGRAPH 2023",
-      "excerpt": "At the SIGGRAPH conference, NVIDIA showcased its efforts to make generative AI not only more accessible but also more versatile. Through strategic partnerships and technological advancements, NVIDIA’s innovations echo a significant industry trend where many different sectors are beginning to harness the power of AI.",
+      "path": "_news/2023-08-09-nvidia-unveils-more-powerful-ai-chip-coming-next-year.md",
+      "title": "Nvidia unveils more powerful AI chip coming next year",
+      "excerpt": "The GH200 will have the same GPU as the H100, currently Nvidia’s most powerful and popular AI offering, but triple the memory capacity. The company said systems running on GH200 will start in ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-highlights-nvidia-keynote-at-siggraph-2023/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-highlights-nvidia-keynote-at-siggraph-2023/",
+      "webUrl": "https://www.theverge.com/2023/8/8/23824690/nvidia-generative-ai-chip-gpu-gh200",
+      "originalUrl": "https://www.theverge.com/2023/8/8/23824690/nvidia-generative-ai-chip-gpu-gh200",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://b2758374.smushcdn.com/2758374/wp-content/uploads/2023/05/top-generative-ai-apps-tools-696x464.png?lossy=1&strip=1&webp=1",
-          "width": 696,
-          "height": 464,
+          "url": "https://cdn.vox-cdn.com/thumbor/NCDDgXNupTP_KgLMg8icXby_20c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24002528/acastro_STK083_03.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1407,14 +1407,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T11:20:00-07:00",
+      "publishedDateTime": "2023-08-08T11:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
+        "name": "The Verge",
+        "domain": "theverge.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1430,9 +1430,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

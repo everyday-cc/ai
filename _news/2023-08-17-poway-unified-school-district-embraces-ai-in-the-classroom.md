@@ -33,6 +33,15 @@ related:
         width: 1900
         height: 1062
         isCached: true
+  - title: "How will AI be taught in classrooms? These Bay Area teachers are integrating it into lessons"
+    excerpt: "\"We are having conversations not just about the technical skills but also the ethics of using AI and the students get a chance to voice their opinions,\" one of the 10 participating teachers said."
+    publishedDateTime: 2023-08-15T18:27:00Z
+    webUrl: "https://abc7news.com/teaching-ai-artificial-intelligence-curriculum-high-school-students-stanford-university-professor/13650651/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 8
 
 secured: "DxqJJbBOS6mpRY9U8FLBeQMKq4jxdpuBlLYqzHZIUPMj+aGY+57TCYxUZE9jLP7pHZE7Kc4jPANRjTwAuiMg383dVR5fq/dX9dMpMWzbhkaR28NUl2mfvmuHmsB630kgQ+XKjY43VWH+eCY0WD9afijT1orWd7a/aO96idaMf75EZqwf/NfV7gwQp2FOzCJJemMuTHnxHGOT1z9MX+J2EuvEOYLWs2KK9WFAKIsGtWh1eufJ2xCIj0N/mE4kK03YT+LKuNlFol5y/ZJky7Q0dtG99oyT37X0QZfV/9pRFG9BYjIUGs9Or+5M3B2lrrFXyVx+r+65fwJgJLtDZWtxK4O1+v59uuyYyMQ2pEqOdQg=;CH/yqit1H3ysi3gzm5IAIA=="
 ---

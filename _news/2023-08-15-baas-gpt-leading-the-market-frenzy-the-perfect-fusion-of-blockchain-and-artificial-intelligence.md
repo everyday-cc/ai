@@ -35,15 +35,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 94
-  - title: "Alpha Sigma Capital Research Releases New Research on OriginTrail (TRAC) Blockchain’s Impact on AI Hallucinations"
-    excerpt: "Alpha Transform Holdings’ subsidiary Alpha Sigma Capital Research , a leading blockchain research firm, and subsidiary of Alpha Transform Holdings, today released a research report on OriginTrail, (TRAC) a new ecosystem dedicated to making the global economy work sustainably by organizing humanity's most important knowledge assets."
-    publishedDateTime: 2023-08-14T15:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/alpha-sigma-capital-research-releases-new-research-on-origintrail-trac-blockchain-s-impact-on-ai-hallucinations-1032551607"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
   - title: "Exploring the Future of Fintech: AI and Blockchain Transforming Financial Services"
     excerpt: "The Fintech industry is experiencing rapid evolution, driven by emerging technologies and changing consumer needs. In a conversation with Karthik Thenkarai, Co-founder and Director of Paycorp.io, we d"
     publishedDateTime: 2023-08-16T06:28:00Z

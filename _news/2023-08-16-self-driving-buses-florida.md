@@ -7,7 +7,7 @@ originalUrl: "https://www.goshennews.com/news/national_news/self-driving-buses-f
 webUrl: "https://www.goshennews.com/news/national_news/self-driving-buses-florida/image_d7d64eb4-9e28-53f1-a996-78ef2eac1599.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,31 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Florida High Schools to Teach AI Courses Developed by UF"
-    excerpt: "It said some students who participated in Osceola County last year received certification for Microsoft Azure AI, which is typically held by engineering and computer-science students and professional adults. Nancy Ruzycki, a professor at UF’s Herbert ..."
-    publishedDateTime: 2023-08-14T16:38:00Z
-    webUrl: "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf"
-    ampWebUrl: "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/c2c658f/2147483647/strip/true/crop/1000x521+0+57/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2Fde%2F9774c61147bfbe8c3f04129ada9c%2Funiversity-of-florida.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Digital academy offers new AI course to high school students"
-    excerpt: "Agostinelli said the online course will focus on a few crucial areas in artificial intelligence: The history and future of A.I., exploration of career fields, and ethics. The program says this is one step forward in navigating this ever-expanding technology."
-    publishedDateTime: 2023-08-17T01:48:00Z
-    webUrl: "https://www.kjrh.com/digital-academy-offers-new-ai-course-to-high-school-students"
-    type: article
-    provider:
-      name: kjrh.com
-      domain: kjrh.com
-    quality: 19
   - title: "Artificial intelligence courses will be taught in some South Florida schools"
     excerpt: "More South Florida students will soon have the option to enroll in coursework centered around artificial intelligence, which is part of a University of Florida AI education program that began last"
     publishedDateTime: 2023-08-14T18:14:00Z

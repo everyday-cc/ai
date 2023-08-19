@@ -58,20 +58,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Amazon Taps AI to Sum Up User Product Reviews, Point Out Pros and Cons"
-    excerpt: "These 'AI-generated customer review highlights' are now available on Amazon's mobile apps, and will break down buyers' reviews into one overall summary."
-    publishedDateTime: 2023-08-14T16:44:00Z
-    webUrl: "https://www.pcmag.com/news/amazon-taps-ai-to-sum-up-user-product-reviews-point-out-pros-and-cons"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/01svuEMUOd3FzDd6A3hVgso-1.fit_lim.size_1200x630.v1692026228.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Untrustworthy AI is going to summarize untrustworthy Amazon reviews"
     excerpt: "Amazon has announced it is rolling out AI-generated review summaries that will give users a glance at customer sentiment."
     publishedDateTime: 2023-08-14T17:17:00Z

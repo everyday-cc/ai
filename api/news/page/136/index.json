@@ -2,6 +2,100 @@
   "page": 136,
   "value": [
     {
+      "path": "_news/2023-05-20-how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses.md",
+      "title": "How the digital ad industry can guide the ways AI transforms businesses",
+      "excerpt": "The digital advertising industry must look closely at how AI is implemented as it begins to use the tech for targeting, measurement, personalization and optimization.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/",
+      "originalUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all",
+          "width": 1199,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/",
+      "publishedDateTime": "2023-05-20T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-therapy-dog-visits-timmins-police-service-to-spread-some-cheer.md",
+      "title": "Therapy dog visits Timmins Police Service to spread some cheer",
+      "excerpt": "Many believe a sweet, cuddly dog has the power to turn just about anyone's day around and Friday members of the Timmins Police Service got to experience this first hand when Takoda came to visit.",
+      "sourceUrl": null,
+      "webUrl": "https://northernontario.ctvnews.ca/therapy-dog-visits-timmins-police-service-to-spread-some-cheer-1.6407341",
+      "originalUrl": "https://northernontario.ctvnews.ca/therapy-dog-visits-timmins-police-service-to-spread-some-cheer-1.6407341",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/5/20/1_6406773.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2023/5/20/1_6407341.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2023/5/20/1_6407341.amp.html",
+      "publishedDateTime": "2023-05-20T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-20-winning-customer-service-through-ai-and-automation-in-hybrid-work-environments.md",
       "title": "Winning Customer Service Through AI And Automation In Hybrid Work Environments",
       "excerpt": "The way we work has been fundamentally altered by the COVID-19 pandemic, and many businesses have had to adapt to hybrid and remote work models.",
@@ -1115,108 +1209,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo.md",
-      "title": "Artists deserve “fairness and control” over AI use, says SoundExchange CEO",
-      "excerpt": "Michael Huppe, CEO of SoundExchange, speaks out about OpenAI CEO Sam Altman's Senate testimony about AI regulation earlier this week.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo/",
-      "originalUrl": "https://venturebeat.com/ai/artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Michael-Huppe-Headshot18-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo/amp/",
-      "publishedDateTime": "2023-05-19T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-china-is-ramping-up-efforts-to-drive-ai-development.md",
-      "title": "China is ramping up efforts to drive AI development",
-      "excerpt": "Tagging artificial intelligence as an important focus for the country, the Chinese government plans to step up efforts in research and development, including the establishment of regional AI industrial hubs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/china-is-ramping-up-efforts-to-drive-ai-development/",
-      "originalUrl": "https://www.zdnet.com/article/china-is-ramping-up-efforts-to-drive-ai-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f3aece405a9b8b745b147b29ab5e92e4c58801c4/2023/05/19/ec3c66b3-fdd5-49c1-b530-039359f1add7/gettyimages-1250716865.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/china-is-ramping-up-efforts-to-drive-ai-development/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-is-ramping-up-efforts-to-drive-ai-development/",
-      "publishedDateTime": "2023-05-19T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

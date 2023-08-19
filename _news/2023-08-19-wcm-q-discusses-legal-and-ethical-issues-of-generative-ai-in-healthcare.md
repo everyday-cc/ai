@@ -1,29 +1,23 @@
 ---
 category: news
-title: "WCM-Q discusses legal and ethical issues of generative AI in healthcare"
-excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed during the latest"
-publishedDateTime: 2023-08-19T05:20:00Z
-originalUrl: "https://thepeninsulaqatar.com/article/19/08/2023/wcm-q-discusses-legal-and-ethical-issues-of-generative-ai-in-healthcare"
-webUrl: "https://thepeninsulaqatar.com/article/19/08/2023/wcm-q-discusses-legal-and-ethical-issues-of-generative-ai-in-healthcare"
+title: "Wcm-Q Discusses Legal And Ethical Issues Of Generative Ai In Healthcare"
+excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed dur"
+publishedDateTime: 2023-08-19T09:49:00Z
+originalUrl: "https://menafn.com/1106893650/Wcm-Q-Discusses-Legal-And-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
+webUrl: "https://menafn.com/1106893650/Wcm-Q-Discusses-Legal-And-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
 type: article
-quality: 71
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: The Peninsula
-  domain: thepeninsulaqatar.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI Ethics
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg"
-    width: 1280
-    height: 1024
-    isCached: true
 
 related:
   - title: "Beyond The Hype: Three Best Practices When Using Generative AI In Healthcare"
@@ -229,6 +223,6 @@ related:
       domain: medcitynews.com
     quality: 0
 
-secured: "VXO6xDj7nCnzMG8xGWHobUXYmedrjFsTdOS2JKaR7ToR1lSBbzkZ/w76wZ/hcr6X1iGGiQ7k3fMdSeS0IYGlzzzUpzqxOwFraH4t+9/xapN0w14fMHSlujSvViU6srOJkAzm2TUvz3fgFr4q5aFyDZprgR+P2usfDVoFlpcVl02qZYC9egBGOyYVK6iQveXv6vg/g0lDqoMoNhdDZYZbmMEpE14k0LWZRkczNNb3uJeu6VkAPklnFuMZKm57I3Qb4EaGMIUU6EgVfHdRQVU86xDtjcf/tZrBXWaNF3ipdrFYWIvS6jkZvLfXE3AQWZYtHLbeVkisp+kIUo8JZU3vxghU78JG9pSXmJVXBBntWG8=;YxzxDPm/l1PIE0QW37q4zg=="
+secured: "K8W+8MhmBZoSq6fOFeQejzMuUq19EvnP7RaWpodzYHkdGwQqaVjsTk2cSLD928HIo+4998PGnEVw8BIFdaaAYv+XNYkfBtqHPUfASUFHSWTmQwG90f2ilyNxs3PmeEypN0o99+iQR0dmTC5cXQtqPIrnP8QzJ+6PO3Y5+/hTV6fC9Vuiyhzaia3LUR2e/ZJiywRIHiTZwOlwH3vXsorqdZ5iM+HdV568lCKbaC0qmHC85Yrv67TX1UhLmbVuGqVh2JMyj/mGnHkI5x/SoihQfAMXY+VheJ97U5pVubL2SOIbYKmo1BSdM8bnPiLOuJfnj+8jr5QzlGvaRc4qmi3x4bHBrEn6VOup6p/gl8qTu0Y=;DtuAqIjPBB27xBUxeP9KWA=="
 ---
 

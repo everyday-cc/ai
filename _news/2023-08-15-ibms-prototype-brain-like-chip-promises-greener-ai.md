@@ -7,7 +7,7 @@ originalUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intellige
 webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/ibms-prototype-brain-like-chip-promises-greener-ai/102737089"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1200
     height: 765
     isCached: true
-
-related:
-  - title: "IBM unveils an analog AI chip that works like a human brain"
-    excerpt: "IBM Research has unveiled an analog AI chip that demonstrates remarkable efficiency and accuracy in performing complex computations."
-    publishedDateTime: 2023-08-14T16:22:00Z
-    webUrl: "https://interestingengineering.com/innovation/ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 56
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/14/image/jpeg/8bavDaKXnvuBKxvdvcYxixoxwiNrWZhWOittTvOQ.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "IBM Has Revealed an Analogue AI Chip Prototype That’s More Energy Efficient Than Contemporary GPUs, All We Know"
-    excerpt: "IBM has developed a prototype of an analog AI chip that “has been tested to be as adept at computer vision AI tasks as digital counterparts” like GPU. And at that, it is much more energy efficient. In process, it uses a combination of analog in-memory ..."
-    publishedDateTime: 2023-08-18T08:25:00Z
-    webUrl: "https://in.ign.com/tech/191417/news/ibm-has-revealed-an-analogue-ai-chip-prototype-thats-more-energy-efficient-than-contemporary-gpus"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 49
-    images:
-      - url: "https://sm.ign.com/t/ign_in/screenshot/default/ibm-analog-ai-chip_62gy.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "rwJQPGjV7DBKktD/De+4hk7BK1F/swRJzpyP0deTmrSPYoWU2QtEKRCsZrrsKTJDOKiIkOZpv0PzT3jZ5hszO584ww8N7GxXWUGUqezAKj/yEzs5wfbjwmTiEJ4GQ6FDe+mE4PuHLLEckJYarD61COqm1fWwwvIni8HcexJ3LZzI7NtwV9LkpdSVL8Nv+J5k9z58hxfb6ItW6E+V6xKGu8rKoGg02ziTCwo/fW7bhiM+fWoBj/XWtl5vb79vps5pT3Kvohm1fe7FWYt2a1kcu0erhT+iB9Cx2fRKyOtNJoa1uX02toJqdsr4SLH+wxIALz/q48dXYRho0/t6AWwd0HsQ0RK3wGpwQIr+jSAdhtmh4ykw8eiW/7cO5jxB4Dm7CmwTB5fYH+FSyhed7VzY01WqgJVJz7y8yEqXPnoRQr4KoWOuhsWhV6wGyybHR9CKsN/Md/qRZnC1iXlgZBZumaqJtuwSzbNBJXSC7tsCOwhPI6YxHlZr0uxj5IeAwYVfbgkbET6p2/orLhtgAQpaNQ==;0BSbjBaupv4QantvN36oTg=="
 ---

@@ -2,6 +2,91 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-07-17-7-ai-unicorns-and-the-creative-ways-you-can-invest-in-them.md",
+      "title": "7 AI Unicorns and the Creative Ways You Can Invest in Them",
+      "excerpt": "This AI startup secured $125 million in funding late last year. This writing tool promises a 350% return on your investment in the product. Jasper utilizes AI to create content for articles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/7-ai-unicorns-creative-ways-140007595.html",
+      "originalUrl": "https://www.aol.com/finance/7-ai-unicorns-creative-ways-140007595.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/.cq6.HjVNF0x6Z3e68deBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/01b1a826b146cebdff327abfd13fd870",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-thetaray-earns-microsoft-cloud-solution-provider-status.md",
+      "title": "ThetaRay Earns Microsoft Cloud Solution Provider Status",
+      "excerpt": "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/thetaray-earns-microsoft-cloud-solution-provider-status/article_83e1bedb-7d91-5baf-9178-9bbee043815d.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/thetaray-earns-microsoft-cloud-solution-provider-status/article_83e1bedb-7d91-5baf-9178-9bbee043815d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/5/5c/55cde382-372f-5d88-abc7-cb82e6131c65/64b54c079cb92.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize",
+          "width": 1194,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-ibm-watsonx-is-now-available-to-help-businesses-accelerate-and-scale-ai.md",
       "title": "IBM watsonx is Now Available to Help Businesses Accelerate and Scale AI",
       "excerpt": "IBM announced it is rolling out IBM watsonx—the enterprise-ready AI and data platform. watsonx comprises three products to help organizations accelerate and scale AI—the watsonx.ai studio for new foundation models, generative AI and machine learning ...",
@@ -1057,92 +1142,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario.md",
-      "title": "University of Guelph’s AI and Machine Learning gets investment from Ontario",
-      "excerpt": "The University of Guelph’s Centre for Advancing Responsible and Ethical Artificial Intelligence (CARE-AI) will launch a new micro-learning platform for high school and post-secondary students to spark interest in AI and machine learning in the automotive ...",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2022/06/University-of-Guelph.png",
-          "width": 864,
-          "height": 317,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "publishedDateTime": "2023-07-16T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-microsoft-semantic-kernel-will-support-openai-plugins.md",
-      "title": "Microsoft Semantic Kernel will support OpenAI plugins",
-      "excerpt": "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/708036/microsoft-semantic-kernel-will-support-openai-plugins/",
-      "originalUrl": "https://www.arnnet.com.au/article/708036/microsoft-semantic-kernel-will-support-openai-plugins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_xxl_60823232.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-16T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

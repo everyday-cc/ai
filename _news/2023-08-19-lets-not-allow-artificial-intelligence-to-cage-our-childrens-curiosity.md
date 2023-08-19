@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Let’s not allow artificial intelligence to cage our children’s curiosity!"
-excerpt: "Suddenly as we prepare to dive into the second quarter of the 21st Century, the fancy for artificial intelligence (AI) and robotics seems to have overwhelmed us. Endlessly, we have begun to admire the power of the supersonic “intelligence” which though ..."
-publishedDateTime: 2023-08-19T07:19:00Z
-originalUrl: "https://timesofindia.indiatimes.com/blogs/fresh-reflections/lets-not-allow-artificial-intelligence-to-cage-our-childrens-curiosity/?source=app&frmapp=yes"
-webUrl: "https://timesofindia.indiatimes.com/blogs/fresh-reflections/lets-not-allow-artificial-intelligence-to-cage-our-childrens-curiosity/?source=app&frmapp=yes"
-ampWebUrl: "https://timesofindia.indiatimes.com/blogs/fresh-reflections/lets-not-allow-artificial-intelligence-to-cage-our-childrens-curiosity/?source=app&frmapp=yes"
-cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/fresh-reflections/lets-not-allow-artificial-intelligence-to-cage-our-childrens-curiosity/?source=app&frmapp=yes"
+excerpt: "Will Artificial Intelligence decimate human intelligence, and have the potential to derail the writing, research and comprehension abilities of our children? And in turn, turn them into slaves of machines and algorithms?"
+publishedDateTime: 2023-08-19T07:12:00Z
+originalUrl: "https://timesofindia.indiatimes.com/blogs/fresh-reflections/lets-not-allow-artificial-intelligence-to-cage-our-childrens-curiosity/"
+webUrl: "https://timesofindia.indiatimes.com/blogs/fresh-reflections/lets-not-allow-artificial-intelligence-to-cage-our-childrens-curiosity/"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/fresh-reflections/lets-not-allow-artificial-intelligence-to-cage-our-childrens-curiosity/"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/fresh-reflections/lets-not-allow-artificial-intelligence-to-cage-our-childrens-curiosity/"
 type: article
 quality: 58
 heat: 58
@@ -26,6 +26,6 @@ images:
     height: 960
     isCached: true
 
-secured: "Q//nDFmfJOyLy/0mIiCRCe5AoGImI+qa9ALtkXyG0oxhapL0UFcthINY2S+ipa6wwThDHPscb4A5FWeM8tClfADHXscrNsZl+1FKpOh1z/2QPHo84dPkJyCbGAPed08K9wQcd+SZBOMPE8weJYLDkk+Xqfpw/siN2PbSuQoNStMvRI0L0LQP4OSs44wgcw6xfbk5nvlgYb/v4FyqmKfEWfFfCbYlzeJcoIO9wU0mGBUmcggtRdN06diu+siJ0UKIAYeXyv5kVPy2t53OQqxCOQOs6OYHHHfeXEu7Fr9xNIMOcnH8I+oycoMXcF9yK8zP4mFSBwmtIDmcWTDy3h9bew9hl6XBia+C+Bq8xkhmBSE=;Ifm0mkscESAGa+A/F9PhZg=="
+secured: "QpCBVzdKMTT5+DB1djWPiI1zLuRkGVrl8/L1o3aQ1OUYdfT+I6GJXFv5/LXZhcwgVCgdWZ4HjwH8+2e0oXaqkKa5wSTbbyeyR+x2zGOrvrhWQhluLfgJzoP7ROYW4UQcDDfpbKNHprFgIQYmp2JtJnTAyB66XsZO6g3h+dBKQrbtOes0CllSaTsWDxtesduqJT9FZv9nGtwCQvpflxanxD5P4lTNtLChqvSAIqcBOP+WKu6NQL9AQH+jwoc+rm1sDOTZdtAqUm+lTp/4yyRvc5B99Rl0Ev5Do3eYfmTWYYlyZvTtwYyO9mExbsoq5qSuUGMsJBjUFRyH7SDLcrC1rvgrKrd9+fd0famYU6KLXi0=;PuHXHhNbw9nzHaww1Zq64Q=="
 ---
 

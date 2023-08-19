@@ -19,33 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "PR expert putting the intelligence in AI with Pay-as-you-prompt"
-    excerpt: "A North East PR expert has warned that some firms are at risk of being left behind in the “AI… | Entrepreneurship | PR | North East | Digital | Entrepreneur | Technology | Marketing |"
-    publishedDateTime: 2023-08-14T15:19:00Z
-    webUrl: "https://bdaily.co.uk/articles/2023/08/14/pr-expert-putting-the-intelligence-in-ai-with-pay-as-you-prompt"
+  - title: "Navigating the future of work using the power of talent intelligence"
+    excerpt: "Enter talent intelligence, a leap forward in the use of artificial intelligence for HR ... On the other hand, professions like occupational therapy and speech therapy may see an increased demand. Talent intelligence allows us to anticipate these shifts ..."
+    publishedDateTime: 2023-08-18T07:46:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/636/241101.html"
     type: article
     provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 39
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 24
     images:
-      - url: "https://bdaily.co.uk/images/uploads/IBV3WmAWIE8Ol58OiOoQ8EB64tjR3RhiOhX38ncM.jpeg?w=1200&h=630&fm=jpg&fit=crop-51-41&s=09131aaed294658dcfffa5d9f3906bda"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New rise in artificial intelligence \"expert\" jobs"
-    excerpt: "The rise of artificial intelligence has many concerned the technology could replace their jobs, but those well-versed in AI may actually be at a big advantage in the workplace. Adam Rogers, senior tech correspondent for Insider,"
-    publishedDateTime: 2023-08-17T20:10:00Z
-    webUrl: "https://www.cbsnews.com/video/new-rise-in-artificial-intelligence-expert-jobs/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/17/f031107c-9cc1-49eb-bbe7-0f14c341eaaf/thumbnail/1200x630/b8fd4558c99f6cc9d408c7520bcf3d44/cbsn-fusion-new-rise-in-artificial-intelligence-expert-jobs-thumbnail-2215473-640x360.jpg?v=0b4ae642db52799a178d90d83603a9dc"
-        width: 1200
-        height: 630
+      - url: "https://biz-file.com/c/2308/709423.png"
+        width: 700
+        height: 364
         isCached: true
 
 secured: "WIul1HsBWF5y9ZkUrtOSz6GxPc1Ad4mSd00aY0zHNCX2mn6u98Qq5O0SKTRvgzXForo2u/95ACwwuV32m0m3bl6u7YsbH8SCWTpFbI3cy6OoOWawWdHuWayd4XEycuHC6Z3+khf/GpwdKsYesE07kuYxbqMHW5o9hTdk3Acq4mRl2Im9k03Aii8vU/4o1uBCY0E15ezWJMHCHT7/q9IvYyxqnof1osCary0nt9Gp+4x/MiZyQ+xMe3iHpV/ZSdVRB579Ep3WujOAgoqRbhhSNH4JK9gr4mgFYbnmuuPBe4Q6d353ON4JMWZvGhIm/8pU4TQhFlNRYqvq/tyYiLT0n6hkz6TIEW7gJ/vQngNJoIUmXy2nQQFReUhnr73OPmsKGL9dIOIb8RR20jKVNImXdbpG26aSN09SaRwzDQdrrNSUPsxUVixboFJBruwNyTZxAC2h8QcKyaJqS+s8y1U3Y64Epy3OtwHGtIv6Mn6k4tO0U3zcyV1C+RliThM8NnXDA+2w5tX3uGJZcuCHDbvq5A==;i6X//9PYhcI1FHS+unhXCA=="

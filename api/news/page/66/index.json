@@ -2,6 +2,91 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2023-07-05-roland-corporation-fine-tunes-translation-with-language-weaver.md",
+      "title": "Roland Corporation Fine Tunes Translation With Language Weaver",
+      "excerpt": "CHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, the AI-driven machine translation technology powering enterprise and government, has partnered with Roland Corporation, the Japan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230705511797/en/Roland-Corporation-Fine-Tunes-Translation-With-Language-Weaver",
+      "originalUrl": "https://www.businesswire.com/news/home/20230705511797/en/Roland-Corporation-Fine-Tunes-Translation-With-Language-Weaver",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-auto-executive-ai-will-be-used-for-more-than-just-the-products.md",
+      "title": "Auto Executive: “AI Will Be Used For More Than Just The Products”",
+      "excerpt": "Artificial Intelligence will certainly revamp must of the future vehicles. But an automotive executive states productized AI is just the tip of the iceberg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevetengler/2023/07/05/auto-executive-ai-will-be-used-for-more-than-just-the-products/",
+      "originalUrl": "https://www.forbes.com/sites/stevetengler/2023/07/05/auto-executive-ai-will-be-used-for-more-than-just-the-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649eb35815540c75d4324232/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2023/07/05/auto-executive-ai-will-be-used-for-more-than-just-the-products/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2023/07/05/auto-executive-ai-will-be-used-for-more-than-just-the-products/amp/",
+      "publishedDateTime": "2023-07-05T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed.md",
       "title": "Tintra Shares Rise on Agreement to Repay Fintech Leaders Share Deed",
       "excerpt": "By Joe Hoppe Tintra shares rose Wednesday after the company said it has agreed to fully repay and terminate a $3 million share placement deed with",
@@ -1059,108 +1144,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-valve-raises-concerns-about-legality-of-ai-in-game-development.md",
-      "title": "Valve raises concerns about legality of AI in game development",
-      "excerpt": "Valve recently rejected some games for using AI assets -- and says it's because of AI's legal gray area with regards to copyright.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/valve-raises-concerns-about-legality-of-ai-in-game-development/",
-      "originalUrl": "https://venturebeat.com/games/valve-raises-concerns-about-legality-of-ai-in-game-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/steam-library-update-2.png?fit=750%2C422&#038;strip=all",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-ais-unexpected-role-helping-retain-not-replace-top-developers.md",
-      "title": "AI’s Unexpected Role: Helping Retain, Not Replace, Top Developers",
-      "excerpt": "Despite dire predictions that AI will take over software development, companies are buying new, AI-powered tools to help retain highly sought after senior developers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a3526a952a8cfccfaef4a8/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/amp/",
-      "publishedDateTime": "2023-07-03T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

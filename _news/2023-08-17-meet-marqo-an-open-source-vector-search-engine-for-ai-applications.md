@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Build production-ready generative AI applications for enterprise search using Haystack pipelines and Amazon SageMaker JumpStart with LLMs"
-    excerpt: "In this post, we showcase how to build an end-to-end generative AI application for enterprise search with Retrieval Augmented Generation (RAG) by using Haystack pipelines and the Falcon-40b-instruct model from Amazon SageMaker JumpStart and Amazon OpenSearch Service."
-    publishedDateTime: 2023-08-14T16:42:40Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-production-ready-generative-ai-applications-for-enterprise-search-using-haystack-pipelines-and-amazon-sagemaker-jumpstart-with-llms/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/14/production-ready-genai-haystack.jpg"
-        width: 912
-        height: 453
-        isCached: true
 
 secured: "e8vmioz7sjc6btL9PZn4gt0fT8Dp1FC/S5jU7iegGn35T1xo3ezObM5IuMHXHnDFdovQDW2uoHf4cAHNE3irNdQ71uCVJy5Km3e8Gd9dC7C6XsIJ4OJ9vGMNL9y7suwnpQ8Le+EOgwbbIEOwbtPa317EMPtkDSHtehVjryY062OIfiyIh3GIliaTbAEVNdLMPnCO0IPxtbx3Fo7Sm3pVZxQLjiuabgqh7rCngl0fEEWdZ49xdcR61G/ep8WdWn86agZHTLtNQNAQWVc8CSOUdatlmNZXKrG4jim6RsVGSgumnK6rGWbZLupJ9wevUXCB+HarjLBNv+OUkY1Z/PCDozWIqFr2dxINW4wih+wusQg=;Rnev7gE5KJEBITR4Y3y2QQ=="
 ---

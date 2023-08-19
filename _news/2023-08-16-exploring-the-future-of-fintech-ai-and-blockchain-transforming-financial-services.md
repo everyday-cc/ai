@@ -44,15 +44,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Alpha Sigma Capital Research Releases New Research on OriginTrail (TRAC) Blockchain’s Impact on AI Hallucinations"
-    excerpt: "Alpha Transform Holdings’ subsidiary Alpha Sigma Capital Research , a leading blockchain research firm, and subsidiary of Alpha Transform Holdings, today released a research report on OriginTrail, (TRAC) a new ecosystem dedicated to making the global economy work sustainably by organizing humanity's most important knowledge assets."
-    publishedDateTime: 2023-08-14T15:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/alpha-sigma-capital-research-releases-new-research-on-origintrail-trac-blockchain-s-impact-on-ai-hallucinations-1032551607"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
 
 secured: "sFqmt8ErsC6IisAWXtlJMz+6pxi/UZaX2cKiU82tBWv8mfKCei4h/Wd/fqQm9nQIp3aO1R3Y0TWgq7H3klLD1uDt2EBCMLgQzjGEe8N/eXxZlx9J/qI8jMcIhyXL349Ty28XyCbn0PNfm+IEkoBHwNYYjEcOqLYvj1bgO9fBviWpsbRrH0Ulih/xl6DU++9z03L8yyH0fY88nodJ3OePKIwC6tatH6fPHncNzQ3CKhWe4dxu5BCNFUnFHLjBayxpRadSisxJZna9AqGW7KGjRyIT5I+Klk3hnFI0OUxzMKPrkZbAvucRVuRZkenILIY9kJaeXBZkwCsxN6wHkCZyaqrs5IJt1m7y/H5ic3orJwzum+Mu1f1rcOvH82Ybna3He04YrtjdiRCGcVVampZIJq8cvlGvvd8u9Pp7IqIOIh4JpYoFPlyNMP8RLVy0Ri1VwZJvPMFeuu9XYQfOKIuIcviXKuD+qLsUuo55lAtwPoi9vivH5YQuv/o4pi+tL3p1tRfOIjBVacuYZf2T1PnNjQ==;wc/aYM083CPM6GWXbNS9Og=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wesh.com/amp/article/snapchat-ai-bot-users-freak-out/448
 cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/snapchat-ai-bot-users-freak-out/44830032"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: WESH
@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Snapchat just confirmed people's worst fears about artificial intelligence"
+    excerpt: "On the evening of Aug. 15, Snapchat users panicked when the My AI chatbot stopped responding to messages and posted a one-second story, which appears to be a shot of a room where the wall meets the ceiling. The story has since been deleted. By the morning of Aug. 16, Snapchat was trending on X with more than 127,000 mentions."
+    publishedDateTime: 2023-08-16T18:51:00Z
+    webUrl: "https://www.thestreet.com/media/snapchats-ai-bot-just-confirmed-peoples-worst-fears-about-artificial-intelligence"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 15
 
 secured: "guChubwTCZZNvi7Ozaq4HFoLWqx+yLsMpBhDs1EwgNu77xkVW8x/PUHR462KusbKuO/CiQQmoaqwKE/ExCmLRNgqJT1T+K4xQRbfoQi/KvocAyo2FqcSRpVvfNVvceuegyJ1/Ll3S45h9Z4+OIteImAgAUAzUnIwc5shuyoHBg5wcq39vfN+T/efeFTmesYrdfx+tRhQ2I7ajxRKWar8LUWw6kntVplgo4MbZn2k43u14QJbjN56xT477BxsKtI392PiSopUG5odwRXHpn7kSU/wjSlTUh5AwiEtvNx1hlEIobKJzx2ZjhvwjUq89IqK9rYNADUR+XQw5aM2phsFVeATpCGMEcThOalzgtK3lp8=;jk158MAe8CPMbD6HtEMitg=="
 ---

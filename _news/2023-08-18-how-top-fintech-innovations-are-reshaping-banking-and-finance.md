@@ -119,20 +119,6 @@ related:
         width: 799
         height: 449
         isCached: true
-  - title: "Fintech’s Trek To Trillions"
-    excerpt: "“People can get in trouble if they use it incorrectly, especially if that AI violates compliance issues. … You want to partner with fintech who makes your workflow easier. If you try to fully digitize something as big as a home purchase, it’s not ..."
-    publishedDateTime: 2023-08-14T15:52:00Z
-    webUrl: "https://nationalmortgageprofessional.com/news/fintechs-trek-trillions"
-    type: article
-    provider:
-      name: nationalmortgageprofessional.com
-      domain: nationalmortgageprofessional.com
-    quality: 24
-    images:
-      - url: "https://nationalmortgageprofessional.com/sites/default/files/2023-08/iStock-1126669376%20web.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Future of Fintech in the Middle East 2023: Are we entering a new era?"
     excerpt: "This is an excerpt from The Future of Fintech in the Middle East 2023 report. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
     publishedDateTime: 2023-08-16T09:16:00Z

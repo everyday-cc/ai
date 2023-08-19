@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Florida High Schools to Teach AI Courses Developed by UF"
-    excerpt: "It said some students who participated in Osceola County last year received certification for Microsoft Azure AI, which is typically held by engineering and computer-science students and professional adults. Nancy Ruzycki, a professor at UF’s Herbert ..."
-    publishedDateTime: 2023-08-14T16:38:00Z
-    webUrl: "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf"
-    ampWebUrl: "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/c2c658f/2147483647/strip/true/crop/1000x521+0+57/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2Fde%2F9774c61147bfbe8c3f04129ada9c%2Funiversity-of-florida.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Self Driving Buses Florida"
     excerpt: "Orlando Mayor Buddy Dyer looks over the new self driving SWAN (Shuttling with Autonomous Navigation) shuttle bus, Wednesday, Aug. 16, 2023, in Orlando, Fla. The SWAN shuttle seats up to"
     publishedDateTime: 2023-08-16T16:12:00Z
@@ -42,15 +26,6 @@ related:
     provider:
       name: The Goshen News
       domain: goshennews.com
-    quality: 19
-  - title: "Digital academy offers new AI course to high school students"
-    excerpt: "Agostinelli said the online course will focus on a few crucial areas in artificial intelligence: The history and future of A.I., exploration of career fields, and ethics. The program says this is one step forward in navigating this ever-expanding technology."
-    publishedDateTime: 2023-08-17T01:48:00Z
-    webUrl: "https://www.kjrh.com/digital-academy-offers-new-ai-course-to-high-school-students"
-    type: article
-    provider:
-      name: kjrh.com
-      domain: kjrh.com
     quality: 19
 
 secured: "2hWHbhXIwvkmgb3HNbIBvFlJ9wFUtl//Lc1hX+fFnjC3OiI1AF2ridRngMeUffmCGPEexvrneSWM4VamgIsfBQk2Rnxj0Q4Oxy4gf8qAf+rL8CPd1LxpuGJbOU7TvW2rd18BwRtv3mc8GWUZh07wm1WQyh4kUE+4EB7z9l1q61IqMrD7EOMK7Tx48ZxVEtfKpdkBPEjGm+E9e6mHj4CtttN/gU7r9Py07x7PzvhCd4AaeBTNTpOygpM+r96iTvW2BKOKeravrXLekZVwrSJfiO78lWL7Jse4IfGse/Vs4k81Y2JdHV7m6foAd7Bw3cGogT08LAFHVUxycrDBYCSsvjH6MMEw3uc/UtO46oAtNptgxHchR2X+0oEiluNS8CCeErewqKoTrm/MGEPtxrSk0jGDlWleIfZK471SXnUmDhY2bjqjPd8qMzH0fQDpIFRaCDB/8np8xZYMlayKBaWGThSQD5QiufgPgmvzfPr4AHhu0eHush78RNJRgMPnZuru2s1/S3G3JqC6lXuf7Jgylg==;+qt23s4i2lHwnIJmph5ByQ=="

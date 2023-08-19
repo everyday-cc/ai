@@ -34,6 +34,15 @@ related:
       name: ABC 10 News
       domain: 10news.com
     quality: 19
+  - title: "How will AI be taught in classrooms? These Bay Area teachers are integrating it into lessons"
+    excerpt: "\"We are having conversations not just about the technical skills but also the ethics of using AI and the students get a chance to voice their opinions,\" one of the 10 participating teachers said."
+    publishedDateTime: 2023-08-15T18:27:00Z
+    webUrl: "https://abc7news.com/teaching-ai-artificial-intelligence-curriculum-high-school-students-stanford-university-professor/13650651/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 8
 
 secured: "I9oGphMIlmZMuWGYzBIkDEIbePuCm3Ns8uCMI22y/594O5bpjYDosqJcSM3lZXgwDzPu3kABs6VnWaYMLJaphttSvGjNF2Fn7+8BLzNMfJYmJl9aXiEBWIKIxUVlcSoote68PK5SDkpqjOBLww69tG+hVMHUWxQBH689xFNkuZJa8XRTVOlC+CGJtkjLdcL5pU2gAqtuebvA73SIl4fhdF9+P/xkzelZDala8uy20Snv16ZnFn6iHMVRGygSVS9xb0IcfnnicRVffYzROs+usXGI+9ban4KBbgsQmZpU+RwGC7J71u8z1xVFYWj/w/bydpplybU8JvzS3QnhkH3Q+fdwbMZ3quB5f1EC0d6mEi8=;eyZLp/ySSHYbmQumWUcidw=="
 ---

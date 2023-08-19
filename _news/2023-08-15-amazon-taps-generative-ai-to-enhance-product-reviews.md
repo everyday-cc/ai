@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhan
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhance-product-reviews/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "Amazon Taps AI to Sum Up User Product Reviews, Point Out Pros and Cons"
-    excerpt: "These 'AI-generated customer review highlights' are now available on Amazon's mobile apps, and will break down buyers' reviews into one overall summary."
-    publishedDateTime: 2023-08-14T16:44:00Z
-    webUrl: "https://www.pcmag.com/news/amazon-taps-ai-to-sum-up-user-product-reviews-point-out-pros-and-cons"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/01svuEMUOd3FzDd6A3hVgso-1.fit_lim.size_1200x630.v1692026228.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Amazon's Latest AI Tool Will Summarize Customer Reviews For You"
     excerpt: "Amazon’s newest AI feature aims to make it easier to dig through customer reviews."

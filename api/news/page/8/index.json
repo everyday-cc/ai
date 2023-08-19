@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-08-11-how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats.md",
+      "title": "How Can Enterprises Fortify Digital Identity Amidst Rising AI Threats?",
+      "excerpt": "Employers and users are the last line of defense as their actions and security hygiene affect overall security posture. They should be continually trained about various traditional and emerging threats, such as AI-based spear phishing and social engineering, especially as AI-written spear phishing emails are harder to spot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/642445004586b4330e81b689/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/11/how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats/amp/",
+      "publishedDateTime": "2023-08-11T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-ibm-set-to-deliver-mainframe-ai-services-support-x.md",
       "title": "IBM set to deliver mainframe AI services, support x",
       "excerpt": "Developer support for IBM Wazi, the cloud-native development environment. A Wazi Sandbox lets developers build and test z/OS application components in a virtualized, containerized, self-service, personal sandbox running on Red Hat OpenShift that runs on x86 hardware.",
@@ -1136,58 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space.md",
-      "title": "FUTUREVERSE PUBLISHES RESEARCH PAPER REVEALING ITS BREAKTHROUGH TECHNOLOGY IN THE MUSIC AI SPACE",
-      "excerpt": "On The Heels of Raising 54M Futureverse to Advance AI and Web3 Technology StackJEN 1: TEXT-GUIDED UNIVERSAL MUSIC GENERATION WITH OMNIDIRECTIONAL",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space-1032541745",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space-1032541745",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2183201/Futureverse_Logo.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }
