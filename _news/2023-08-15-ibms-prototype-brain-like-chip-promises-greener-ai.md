@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM’s Brain-Inspired Chip Embraces Energy-Efficient AI"
-    excerpt: "IBM unveils an energy-efficient 'brain-like' chip, addressing concerns over emissions from AI systems. With its unique design inspired by human brain connections, this innovation could transform the efficiency of AI chips in smartphones,"
-    publishedDateTime: 2023-08-14T10:00:00Z
-    webUrl: "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/"
-    ampWebUrl: "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 74
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2023/08/milad-fakurian-58Z17lnVS4U-unsplash-scaled.jpg"
-        width: 2560
-        height: 1945
-        isCached: true
   - title: "IBM unveils an analog AI chip that works like a human brain"
     excerpt: "IBM Research has unveiled an analog AI chip that demonstrates remarkable efficiency and accuracy in performing complex computations."
     publishedDateTime: 2023-08-14T16:22:00Z
@@ -69,15 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM analog AI chip uses phase-change memory"
-    excerpt: "IBM Research has developed a multicore compute in memory analog AI chip using PCM to reduce the power consumption."
-    publishedDateTime: 2023-08-14T19:25:00Z
-    webUrl: "https://www.eenewseurope.com/en/ibm-analog-ai-chip-uses-phase-change-memory/"
-    type: article
-    provider:
-      name: eeNews Europe
-      domain: eenewseurope.com
-    quality: 34
 
 secured: "rwJQPGjV7DBKktD/De+4hk7BK1F/swRJzpyP0deTmrSPYoWU2QtEKRCsZrrsKTJDOKiIkOZpv0PzT3jZ5hszO584ww8N7GxXWUGUqezAKj/yEzs5wfbjwmTiEJ4GQ6FDe+mE4PuHLLEckJYarD61COqm1fWwwvIni8HcexJ3LZzI7NtwV9LkpdSVL8Nv+J5k9z58hxfb6ItW6E+V6xKGu8rKoGg02ziTCwo/fW7bhiM+fWoBj/XWtl5vb79vps5pT3Kvohm1fe7FWYt2a1kcu0erhT+iB9Cx2fRKyOtNJoa1uX02toJqdsr4SLH+wxIALz/q48dXYRho0/t6AWwd0HsQ0RK3wGpwQIr+jSAdhtmh4ykw8eiW/7cO5jxB4Dm7CmwTB5fYH+FSyhed7VzY01WqgJVJz7y8yEqXPnoRQr4KoWOuhsWhV6wGyybHR9CKsN/Md/qRZnC1iXlgZBZumaqJtuwSzbNBJXSC7tsCOwhPI6YxHlZr0uxj5IeAwYVfbgkbET6p2/orLhtgAQpaNQ==;0BSbjBaupv4QantvN36oTg=="
 ---

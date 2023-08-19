@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mlive.com/news/2023/08/how-artificial-intelligence-could
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 5372
     height: 3022
     isCached: true
+
+related:
+  - title: "IBM analog AI chip uses phase-change memory"
+    excerpt: "IBM Research has developed a multicore compute in memory analog AI chip using PCM to reduce the power consumption."
+    publishedDateTime: 2023-08-14T19:25:00Z
+    webUrl: "https://www.eenewseurope.com/en/ibm-analog-ai-chip-uses-phase-change-memory/"
+    type: article
+    provider:
+      name: eeNews Europe
+      domain: eenewseurope.com
+    quality: 34
 
 secured: "rn4bLqiJOMDRLblwiULuoEpVwm4n2/D0jQ4v4sqZgb2ow2cnd1jwDoZsW5VYkF1u8AmsaFrYatcVSCu6ygM2Ra7gz5Ga73okpUQFGrQNnwBNbiANdm7yfy81n4/5qzcIjOEErHuVc0iyeRHz3pSnOfMshbNJG0LwET+bA0TuCKfB77j8z+5dNAobas1HzYEhFjHn9q6qI2O1miPUaFP+Pp7FOQBdRZWbKDXkaPTiY3MTqLF9YU+5qziFWsYLNtPHi/fB7349ketQiWIU0X8y65LBZ00Vf7L34H+eOiZqGa2tAGublo4TztE9y3/rXJu7zH0gdwGzNSse9poJp03AXRZXKBkil9ZmT0tQY7OtoEKyzhTOuePfMLXrJOq4ddNOuhktvYuZPguFtK6Mbis/Ei/18x0xiKnq/Ln3tGyghGr2jh8XtXC69eieb26RdXkWDfIa40mf6v4IcMRNFMz3+w0YY7Lr/+K+kXUpLdsDj+ohDye1R9diF2qZAjb1Cbb0+X9SWGCXniIlARSAx1QRZg==;ULuXn6rPrVppuX6V86Mc8Q=="
 ---

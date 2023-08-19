@@ -110,6 +110,20 @@ related:
         width: 1160
         height: 774
         isCached: true
+  - title: "IBM Watson's Creator Raises $60M: A New Era in AI?"
+    excerpt: "Elemental Cognition, co-founded by IBM Watson's mastermind David Ferrucci, clinches nearly $60 million in a testament to the potential of next-gen AI"
+    publishedDateTime: 2023-08-18T07:35:00Z
+    webUrl: "https://yourstory.com/2023/08/elemental-cognition-ferrucci-60m-ai-funding"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 54
+    images:
+      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Image9ift-1692343965647.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Ibm Watson Creator Raises $60M For Elemental Cognition Ai"
     excerpt: "David Ferrucci, the artificial intelligence (ai) researcher who oversaw the development of IBM Watson, the question-answering supercomputer created"
     publishedDateTime: 2023-08-18T19:24:00Z

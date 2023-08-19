@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Enhancing Customer Experience with NLP: How AI Systems are Responding to Customer Queries in Real-Time"
-    excerpt: "Welcome to the forefront of customer service innovation! In an era characterized by rapid technological advancement, businesses are ceaselessly exploring novel avenues to elevate customer experiences."
-    publishedDateTime: 2023-08-14T10:52:00Z
-    webUrl: "https://techbullion.com/enhancing-customer-experience-with-nlp-how-ai-systems-are-responding-to-customer-queries-in-real-time/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 38
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-14T115132.958.png"
-        width: 800
-        height: 400
-        isCached: true
   - title: "AI can help small businesses, startups boost search traffic"
     excerpt: "Generative artificial intelligence tools are becoming force multipliers for small businesses and startups that need to create content quickly to further their business strategy."
     publishedDateTime: 2023-08-16T15:00:00Z

@@ -104,20 +104,6 @@ related:
         width: 2880
         height: 1620
         isCached: true
-  - title: "SK Telecom Pumps $100M into US AI Startup Anthropic: Eyes Multi-Lingual AI Expansion"
-    excerpt: "SK Telecom pours $100 million into Anthropic, a U.S.-based AI startup, to amplify its presence in the AI sector. By collaborating with Anthropic, the telecom giant intends to develop an advanced AI platform"
-    publishedDateTime: 2023-08-14T09:56:00Z
-    webUrl: "https://www.econotimes.com/SK-Telecom-to-Invest-100M-In-US-Anthropic-AI-Company-in-Partnership-Deal-1661015"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 30
-    images:
-      - url: "https://f1.econotimes.com/2023/08/6b5hg557p4_th_1024x0.jpg"
-        width: 1024
-        height: 676
-        isCached: true
   - title: "SK Telecom invests $100m in generative AI startup Anthropic, will create LLM for telcos"
     excerpt: "South Korean telecoms company SK Telecom has invested $100 million in buzzy generative AI startup Anthropic."
     publishedDateTime: 2023-08-14T13:04:00Z

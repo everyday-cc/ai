@@ -2,6 +2,92 @@
   "page": 173,
   "value": [
     {
+      "path": "_news/2023-04-29-the-rise-of-artificial-intelligence-explained.md",
+      "title": "The rise of artificial intelligence, explained",
+      "excerpt": "Artificial intelligence is suddenly everywhere — or at least, that’s what it seems like to us at Vox. Even in its current form and with its limitations, the tech is already shaping everything ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/2023/4/28/23702644/artificial-intelligence-machine-learning-technology",
+      "originalUrl": "https://www.vox.com/2023/4/28/23702644/artificial-intelligence-machine-learning-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/IB8wOPRuDVPuHmzsEWJPSDFWxQs=/0x0:6000x4000/1400x1050/filters:focal(2746x1656:3706x2616):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72228657/GettyImages_1483829076.0.jpg",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vox.com/platform/amp/2023/4/28/23702644/artificial-intelligence-machine-learning-technology",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/2023/4/28/23702644/artificial-intelligence-machine-learning-technology",
+      "publishedDateTime": "2023-04-29T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-3-stocks-to-buy-for-exposure-to-the-growing-ai-chip-market.md",
+      "title": "3 Stocks to Buy for Exposure to the Growing AI Chip Market",
+      "excerpt": "Illustrating the extent to which chip makers’ financial results can be lifted by the tremendous growth of AI, Nvidia’s (NASDAQ: NVDA) top AI chips are selling for a huge $40,000 apiece on eBay, CNBC recently reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-stocks-to-buy-for-exposure-to-the-growing-ai-chip-market",
+      "originalUrl": "https://www.nasdaq.com/articles/3-stocks-to-buy-for-exposure-to-the-growing-ai-chip-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-29T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-chatbots-are-digesting-the-internet-the-internet-wants-to-get-paid.md",
       "title": "Chatbots Are Digesting the Internet. The Internet Wants to Get Paid.",
       "excerpt": "it’s very likely you have played a part in creating the latest generation of artificial intelligence. Google’s Bard chatbot, OpenAI’s ChatGPT, Microsoft’s OpenAI-powered version of Bing ...",
@@ -1039,83 +1125,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-el-segundo-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "El Segundo Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "Notified will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at no-cost in the Fall of 2023. The AI Bootcamp in El",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32092770/el-segundo-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32092770/el-segundo-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32092770",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32092770",
-      "publishedDateTime": "2023-04-28T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Madison Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "Fetch, Madison's unicorn tech startup and the nation's leading rewards app, will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32092422/madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32092422/madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32092422",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32092422",
-      "publishedDateTime": "2023-04-28T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

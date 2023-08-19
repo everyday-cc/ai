@@ -466,13 +466,22 @@
       "title": "Must See! Robotics Developers Create Massive Robo-Boxer Using 1-To-1 Human Controlled Movement",
       "excerpt": "You've probably heard of battlebots, but this is something completely next level. This is the human controlled boxing robot being developed by Chinese tech firm Qibo Robot Company. Buzz60’s Tony",
       "sourceUrl": null,
-      "webUrl": "https://www.citizensvoice.com/news/nation-world/must-see-robotics-developers-create-massive-robo-boxer-using-1-to-1-human-controlled-movement/video_a5672a44-9c1c-5989-b6e1-67b3d025be62.html",
-      "originalUrl": "https://www.citizensvoice.com/news/nation-world/must-see-robotics-developers-create-massive-robo-boxer-using-1-to-1-human-controlled-movement/video_a5672a44-9c1c-5989-b6e1-67b3d025be62.html",
+      "webUrl": "https://themercury.com/news/national/must-see-robotics-developers-create-massive-robo-boxer-using-1-to-1-human-controlled-movement/video_cc4976e8-aec0-523b-ac0b-e7b27e89c601.html",
+      "originalUrl": "https://themercury.com/news/national/must-see-robotics-developers-create-massive-robo-boxer-using-1-to-1-human-controlled-movement/video_cc4976e8-aec0-523b-ac0b-e7b27e89c601.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/themercury.com/content/tncms/assets/v3/editorial/c/c4/cc4976e8-aec0-523b-ac0b-e7b27e89c601/64d111ae61596.image.jpg?crop=1119%2C587%2C0%2C20&resize=1119%2C587&order=crop%2Cresize",
+          "width": 1119,
+          "height": 587,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -480,8 +489,8 @@
       "publishedDateTime": "2023-08-07T08:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Citizen's Voice",
-        "domain": "citizensvoice.com",
+        "name": "The Manhattan Mercury",
+        "domain": "themercury.com",
         "images": null,
         "publishers": null,
         "authors": null

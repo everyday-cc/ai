@@ -78,20 +78,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Cookie, take the wheel! What’s with all the driverless cars zooming around Austin?"
-    excerpt: "Imagine standing on a street corner in Central Austin and seeing a white car with black and red accents stop at a light. You look for the driver, but the seat is empty. The light turns green, and the car drives off on its own."
-    publishedDateTime: 2023-08-14T10:01:00Z
-    webUrl: "https://www.kut.org/transportation/2023-08-14/cookie-take-the-wheel-whats-with-all-the-driverless-cars-zooming-around-austin"
-    type: article
-    provider:
-      name: KUT
-      domain: kut.org
-    quality: 33
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/9a9b620/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2Fb7%2F7889b1824daf8828d17f469252f3%2F53109496780-1c34f2e556-b.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Driverless cars may struggle to spot children and dark-skinned people"
     excerpt: "Driverless cars may be worse at detecting children and people with darker skin, tests on artificial intelligence systems suggest. The researchers who carried out the work say that tighter government regulation is needed and that car-makers must be ..."
     publishedDateTime: 2023-08-17T13:01:00Z

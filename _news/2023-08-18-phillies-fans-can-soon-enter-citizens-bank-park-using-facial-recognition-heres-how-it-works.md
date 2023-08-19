@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Phillies fans can soon enter Citizens Bank Park using facial recognition. Here’s how it works"
-excerpt: "For the first time ever, Phillies fans will have the option to use their face as a ticket at Citizens Bank Park come Monday. It’s part of Major League Baseball’s pilot program. Ticketed fans who have uploaded a selfie can walk into Citizens Bank Park without having to even show a barcode."
-publishedDateTime: 2023-08-18T16:30:00Z
-originalUrl: "https://whyy.org/articles/phillies-citizens-bank-park-facial-recognition/"
-webUrl: "https://whyy.org/articles/phillies-citizens-bank-park-facial-recognition/"
-ampWebUrl: "https://whyy.org/articles/phillies-citizens-bank-park-facial-recognition/amp/"
-cdnAmpWebUrl: "https://whyy-org.cdn.ampproject.org/c/s/whyy.org/articles/phillies-citizens-bank-park-facial-recognition/amp/"
+title: "Phillies fans can soon enter Citizens Bank Park using facial recognition. Here's how it works"
+excerpt: "For the first time ever you will have the option to use your face as a ticket at Citizens Bank Park come Monday."
+publishedDateTime: 2023-08-17T20:40:00Z
+originalUrl: "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/"
+webUrl: "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/"
+ampWebUrl: "https://6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/"
+cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/"
 type: article
 quality: 65
 heat: 95
 published: true
 
 provider:
-  name: WHYY
-  domain: whyy.org
+  name: 6abc News
+  domain: 6abc.com
 
 topics:
   - Computer Vision
@@ -22,9 +22,9 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://whyy.org/wp-content/uploads/2023/04/phillies-homeopener-5.jpg"
-    width: 1200
-    height: 800
+  - url: "https://cdn.abcotvs.com/dip/images/13664068_081723-wpvi-phillies-facial-recognition-4pm-CC-vid.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -73,6 +73,6 @@ related:
         height: 1350
         isCached: true
 
-secured: "Iu0ogtoSmD6fPcEe1VYaSCKCUmbdDt2jEvxFMze8frKLADHwZoticB658JnykWyMcxPY+K3T/lzKEi+hdhxPBk5ikfTaVW73h8H+N1d3UsH+X4T5uRByI5OraxCA+WCeT1nW8GPPXiMmf8L8j1CcqGERX4EWG20ERD6Iu1dQLM6xOoWTqUxnul7jPQsx8M157dU+nIm2sW3R2T60VZFrQcFksFbg6s8vJzdZCsR4HjCHdja1oQh2tZTGPalIHuhyLnbdWcwC0yypa7omJkldBq/jcUW4CBe0IAb3fgvjEC0tn61u3n27mabzyN517ZX77RIO53/wnqb7hdJY8+Un9hdJBaPQfkcGReocm7AUntI=;N1+ynoCWbSxowji0lQ+R1Q=="
+secured: "eCbxwsHtNK4xtnxKnbyQQIgKfMhpmmzuygK1e9WA3sIf/6et6jYPO8p+7y/2BPYOtPkGDA+tv9m4b8pEN0UAdOAVAeWxjYUQbdsVzZ7pZs/dVMHlz6TUXKwCvBzp+nkVPMyAnx3QJXB2rL7Vt8I+0MHJgPNozBDnaYovcPseZ+mUzcDmM2sddyJsC9cvNfImvV/GHCXkkdq2cDioSwgSEBVyDxTEmIHvoPA+HiExh2/Jr73d9PX13saFZl6sSEfFOjMitJ8dFfICW6YsS+YkuodTFElfOI7KXdm80iU4mEzYTS40JOW1zGL3DtRBZ2BOfEDkYsG/BI59X0/0LtCI41SE5I4laOazH3M0baDbVt8=;yJWN4WjdxfEuwluycpcW5w=="
 ---
 

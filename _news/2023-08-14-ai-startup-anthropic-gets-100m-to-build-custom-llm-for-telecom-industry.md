@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-startup-anthropic-gets-100m-to-build
 webUrl: "https://venturebeat.com/ai/ai-startup-anthropic-gets-100m-to-build-custom-llm-for-telecom-industry/"
 type: article
 quality: 66
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Fundraising_Blog.jpg"
         width: 2880
         height: 1620
-        isCached: true
-  - title: "SK Telecom Pumps $100M into US AI Startup Anthropic: Eyes Multi-Lingual AI Expansion"
-    excerpt: "SK Telecom pours $100 million into Anthropic, a U.S.-based AI startup, to amplify its presence in the AI sector. By collaborating with Anthropic, the telecom giant intends to develop an advanced AI platform"
-    publishedDateTime: 2023-08-14T09:56:00Z
-    webUrl: "https://www.econotimes.com/SK-Telecom-to-Invest-100M-In-US-Anthropic-AI-Company-in-Partnership-Deal-1661015"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 30
-    images:
-      - url: "https://f1.econotimes.com/2023/08/6b5hg557p4_th_1024x0.jpg"
-        width: 1024
-        height: 676
         isCached: true
   - title: "How Anthropic's funding stacks up against other Bay Area generative AI startups"
     excerpt: "The new capital brings Anthropic's total funding to at least $1.35 billion, and the startup was previously valued at $5 billion in May. OpenAI remains the top-funded generative AI startup in the Bay Area, and globally, with at least $12 billion in ..."

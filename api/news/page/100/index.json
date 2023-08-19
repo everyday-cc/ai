@@ -2,6 +2,109 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2023-06-14-why-are-nvidias-shares-soaring-and-what-is-its-role-in-the-ai-boom.md",
+      "title": "Why are Nvidia's shares soaring and what is its role in the AI boom?",
+      "excerpt": "FROM GAMING TO AI: NVIDIA'S FOCUS SHIFT Nvidia, known for its chips used in videogames, pivoted to the data center market over the last few years. The company's business rapidly expanded during ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/why-are-nvidias-shares-soaring-what-is-its-role-ai-boom-2023-05-25/",
+      "originalUrl": "https://www.reuters.com/technology/why-are-nvidias-shares-soaring-what-is-its-role-ai-boom-2023-05-25/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/J5SpDHtT6EMtegPDZfWfxx21VVo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ETF2CIGAE5KMRMKA2O3JHQPJ5U.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-10-things-in-tech-twitter-20-how-to-create-with-ai-and-reddit-employees-swag-warning.md",
+      "title": "10 Things in Tech: Twitter 2.0, how to create with AI, and Reddit employees' swag warning",
+      "excerpt": "Linda Yaccarino's Twitter 2.0 plan, how to create with AI, and Reddit employees' swag warning",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-tech-twitter-musk-reddit-employees-swag-warning-2023-6",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-twitter-musk-reddit-employees-swag-warning-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/648977bd62d3f10019968b0e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-twitter-musk-reddit-employees-swag-warning-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-twitter-musk-reddit-employees-swag-warning-2023-6?amp",
+      "publishedDateTime": "2023-06-14T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-how-generative-ai-will-unleash-e-commerces-next-big-bang.md",
       "title": "How Generative AI Will Unleash E-Commerce's Next Big Bang",
       "excerpt": "As the future of e-commerce unfolds, it is crucial for businesses to recognize the potential of generative AI and the brand-breaking approach.",
@@ -1082,100 +1185,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-machine-learning-method-used-for-self-driving-cars-could-improve-lives-of-type-1-diabetes-patients.md",
-      "title": "Machine-learning method used for self-driving cars could improve lives of type-1 diabetes patients",
-      "excerpt": "The same type of machine learning methods used to pilot self-driving cars and beat top chess ... insulin dose for a given scenario. Current artificial pancreas devices provide automated insulin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/06/230614220731.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/06/230614220731.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-ai-x-blockchain-the-next-level.md",
-      "title": "AI x Blockchain: The Next Level",
-      "excerpt": "Our conversation threaded many themes, from how blockchain can accelerate AI development to the complexities of working with blockchain data and the promise of large",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/",
-      "originalUrl": "https://www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6488feb978ddc1dfbf75c365/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/amp/",
-      "publishedDateTime": "2023-06-13T16:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

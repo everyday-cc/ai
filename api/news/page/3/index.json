@@ -364,7 +364,7 @@
       "originalUrl": "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -637,6 +637,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-aifi-is-using-ai-to-ensure-the-future-of-retail-is-autonomous-and-accessible-for-everyone.md",
+      "title": "AiFi Is Using AI To Ensure The Future Of Retail Is Autonomous (And Accessible) For Everyone",
+      "excerpt": "At a high level, Jorczak said AiFi exists to modernize and expedite the shopping experience by reducing long lines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2023/08/15/aifi-is-using-ai-to-ensure-the-future-of-retail-is-autonomous-and-accessible-for-everyone/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2023/08/15/aifi-is-using-ai-to-ensure-the-future-of-retail-is-autonomous-and-accessible-for-everyone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64dbfa059b353f4c410eda85/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2023/08/15/aifi-is-using-ai-to-ensure-the-future-of-retail-is-autonomous-and-accessible-for-everyone/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/08/15/aifi-is-using-ai-to-ensure-the-future-of-retail-is-autonomous-and-accessible-for-everyone/amp/",
+      "publishedDateTime": "2023-08-15T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1172,58 +1223,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-learn-as-you-search-and-browse-using-generative-ai.md",
-      "title": "Learn as you search (and browse) using generative AI",
-      "excerpt": "New updates to Search Generative Experience (SGE) help people easily learn new things and understand key concepts while searching online.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/google-search-generative-ai-learning-features/",
-      "originalUrl": "https://blog.google/products/search/google-search-generative-ai-learning-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search-Back-to-School-2.width-1300.jpg",
-          "width": 1300,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/google-search-generative-ai-learning-features/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-learning-features/amp/",
-      "publishedDateTime": "2023-08-15T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

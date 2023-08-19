@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM’s Brain-Inspired Chip Embraces Energy-Efficient AI"
-    excerpt: "IBM unveils an energy-efficient 'brain-like' chip, addressing concerns over emissions from AI systems. With its unique design inspired by human brain connections, this innovation could transform the efficiency of AI chips in smartphones,"
-    publishedDateTime: 2023-08-14T10:00:00Z
-    webUrl: "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/"
-    ampWebUrl: "https://techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/ibms-brain-inspired-chip-embraces-energy-efficient-ai/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 74
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2023/08/milad-fakurian-58Z17lnVS4U-unsplash-scaled.jpg"
-        width: 2560
-        height: 1945
-        isCached: true
   - title: "IBM unveils an analog AI chip that works like a human brain"
     excerpt: "IBM Research has unveiled an analog AI chip that demonstrates remarkable efficiency and accuracy in performing complex computations."
     publishedDateTime: 2023-08-14T16:22:00Z
@@ -69,15 +53,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "IBM analog AI chip uses phase-change memory"
-    excerpt: "IBM Research has developed a multicore compute in memory analog AI chip using PCM to reduce the power consumption."
-    publishedDateTime: 2023-08-14T19:25:00Z
-    webUrl: "https://www.eenewseurope.com/en/ibm-analog-ai-chip-uses-phase-change-memory/"
-    type: article
-    provider:
-      name: eeNews Europe
-      domain: eenewseurope.com
-    quality: 34
 
 secured: "2cxoyXjKgPU7sArx7C3831mgbs9toVd0nXVSvhFi+eEgBYskAPBPIWfOZhku1bUHWXDsfwBnkFYvmeMHFEvDMH4F8xTF3/69MZnApOUzwPBpRMkUvjIr1pypG+XO42K5b1ycsSj4ONp3912ujc2V3xkb6Bc2jLYtekQTTDXI3+DQSzFHoMg6t1RpEkAEnrvhOkfXYspQgYsLzr5YFAvNgdwXlZXZZ6wzYZpsiwWM4a/KZ6z4CfFyzLwdSNtq9UsJ8kHtM0K0CM14zPfPZE62XaUH/rhvjimFP4vAMp6QHV8TDph697OegmHQ4Gg/YuE4Jxx56UvENNSEbcWki9Ot5BqY7G0P+f6eltHGAMGWYl8=;P3zeT2sH0SwU5Pe/mXkRAA=="
 ---

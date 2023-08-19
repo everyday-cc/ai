@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-06-16-viperatech-supercharges-ai-innovation-with-nvidia-dgx-h100-h100-gpus-a-new-era-in-deep-learning-performance.md",
+      "title": "Viperatech Supercharges AI Innovation with NVIDIA DGX H100 & H100 GPU's: A New Era in Deep Learning Performance",
+      "excerpt": "and H100 4x GPU models, is set to make waves in the AI and deep learning ecosystem, enhancing capabilities for businesses and researchers around the globe. Designed for an era of AI and high ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkrn.com/business/press-releases/ein-presswire/639851294/viperatech-supercharges-ai-innovation-with-nvidia-dgx-h100-h100-gpus-a-new-era-in-deep-learning-performance/",
+      "originalUrl": "https://www.wkrn.com/business/press-releases/ein-presswire/639851294/viperatech-supercharges-ai-innovation-with-nvidia-dgx-h100-h100-gpus-a-new-era-in-deep-learning-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2020/11/Capture3-2.jpg?w=2000&#038;ssl=1",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKRN-TV",
+        "domain": "wkrn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-top-ai-statistics-and-trends-in-2023.md",
       "title": "Top AI Statistics And Trends In 2023",
       "excerpt": "Do Alexa, automated chatbots, robots or self-driving vehicles intrigue you? If they do, then you must know that they are all based on the technology of “AI” or “artificial intelligence”. AI is a branch of computer science,",
@@ -1431,49 +1475,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
-      "title": "AI Chips Are Hot. Here's What They Are, What They're for and Why Investors See Gold",
-      "excerpt": "AI Chips Are Hot. Here's What They Are, What They're for and Why Investors See Gold SAN FRANCISCO (AP) — The hottest thing in technology is an unprepossessing sliver of silicon closely related ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/business/articles/2023-06-01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold",
-      "originalUrl": "https://www.usnews.com/news/business/articles/2023-06-01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

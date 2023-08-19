@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhan
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhance-product-reviews/amp/"
 type: article
 quality: 87
-heat: 217
+heat: 207
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Develops Two Chips Dedicated to AI Operations"
-    excerpt: "Amazon revealed that it is developing two chips dedicated to artificial intelligence operations called Inferentia and Trainium.The two new chips developed by Amazon Cloud"
-    publishedDateTime: 2023-08-14T09:56:00Z
-    webUrl: "https://www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations"
-    ampWebUrl: "https://www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations/amp"
-    cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/666453/international/uslatin-america/amazon-develops-two-chips-dedicated-to-ai-operations/amp"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 74
-    images:
-      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/08/14/65373.jpg"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "Software Engineers Could Get 30% Time Back Thanks To Generative AI"
     excerpt: "Generative AI has the potential to automate between 60% to 70% of the work that most of us engage in every day. But for many knowledge workers, generative AI tools are likely to help take back time spent on administrative tasks,"
     publishedDateTime: 2023-08-15T13:58:00Z

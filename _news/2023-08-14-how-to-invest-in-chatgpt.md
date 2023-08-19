@@ -100,6 +100,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 46
+  - title: "Google Gemini challenges ChatGPT"
+    excerpt: "Ed H. Chi, a distinguished researcher associated with Google, participated in a press conference held in Taiwan. He is actively engaged in the development of the conversational AI, Bard, and underscored Google's robust commitment to the advancement of AI software and hardware."
+    publishedDateTime: 2023-08-18T01:36:00Z
+    webUrl: "https://www.digitimes.com/news/a20230817PD210/ai-chatgpt-google-bard.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 24
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230817pd210_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Google Sparrow: an AI to compete with ChatGPT"
     excerpt: "In response to the danger posed by ChatGPT, Google is preparing its solution with its own artificial intelligence. Created by DeepMind and called Sparrow, it must provide reliable and sourced answers while respecting certain limits. In this article we will ..."
     publishedDateTime: 2023-08-14T13:41:00Z
