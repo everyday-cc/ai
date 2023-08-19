@@ -2,6 +2,100 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-07-14-indian-tech-giant-wipro-will-invest-1-billion-in-ai-including-training-all-staff.md",
+      "title": "Indian tech giant Wipro will invest $1 billion in AI, including training all staff",
+      "excerpt": "Wipro, one of India's top providers of software services, wants everyone on staff to know how to use artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html",
+      "originalUrl": "https://www.cnn.com/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230713221815-wipro-ai-investment-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html",
+      "publishedDateTime": "2023-07-13T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-top-10-programming-languages-for-ai-and-natural-language-processing.md",
+      "title": "Top 10 Programming Languages for AI and Natural Language Processing",
+      "excerpt": "In this article, we’ll discuss the top 10 programming languages for AI and Natural Language Processing. You can skip our detailed analysis of global market trends for NLP and AI development and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/top-10-programming-languages-for-ai-and-natural-language-processing-1167654/",
+      "originalUrl": "https://www.insidermonkey.com/blog/top-10-programming-languages-for-ai-and-natural-language-processing-1167654/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/03/30085255/Joel-Greenblatt-Gotham-Asset-Management_12.jpg?auto=format&expires=1721347200&w=400&h=225&fit=crop",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.insidermonkey.com/blog/top-10-programming-languages-for-ai-and-natural-language-processing-1167654/?amp=1",
+      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/top-10-programming-languages-for-ai-and-natural-language-processing-1167654/?amp=1",
+      "publishedDateTime": "2023-07-13T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-protecting-celebrities-including-all-actors-from-ai-with-the-right-of-publicity.md",
       "title": "Protecting Celebrities (Including All Actors) from AI With the Right of Publicity",
       "excerpt": "This development raises the stakes on whether celebrities can protect the use of their personas in this brave new world. The good news for celebrities is that there is a potential right of publicity claim any time someone’s name,",
@@ -1062,83 +1156,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-researchers-investigate-ethical-side-of-ai-impacts-on-meaningful-work.md",
-      "title": "Researchers investigate ethical side of AI impacts on meaningful work",
-      "excerpt": "Artificial intelligence threatens to dramatically change the work we do and how our workplaces operate. Macquarie University researchers examine some vital ethical questions raised by this new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-will-ai-impact-you.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.amp",
-      "publishedDateTime": "2023-07-13T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and-technical-computing.md",
-      "title": "GigaIO Introduces the First Ever 32 GPU Single-Node Supercomputer for Next-Gen AI and Technical Computing",
-      "excerpt": "“As AI workloads become more broadly adopted ... “And as large language model applications drive demand for more GPU performance, technologies that work to minimize node-to-accelerator ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20230713658216/gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and-technical-computing",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20230713658216/gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and-technical-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

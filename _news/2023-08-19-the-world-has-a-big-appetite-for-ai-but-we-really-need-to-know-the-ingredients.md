@@ -2,9 +2,9 @@
 category: news
 title: "The world has a big appetite for AI – but we really need to know the ingredients"
 excerpt: "Much ‘artificial intelligence’ harvests original creative work by humans. Regulators must demand transparency about training data"
-publishedDateTime: 2023-08-19T14:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
-webUrl: "https://www.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
+publishedDateTime: 2023-08-19T15:00:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
 type: article
@@ -84,6 +84,6 @@ related:
       domain: aei.org
     quality: 19
 
-secured: "IAbmF5FubtrIkQSFwB0EhGqko2rukJZ6WxkE1boKYUR0Lh6+J9z2SHkYA94iaQ7gp0FvVutsg8SHhFJhENGiK7DWeAaV2IR50GatNVzR88Ar1yV4VXjGwJynbjLBH/Vid3DIkOWnU5uOG72/UpfZILNIbivQ0wpyGxSzPrh667r+w5Jbrwgf3nAUQTEQyQhVdtW5e/FgysxLwqyMfzyd/tQtoZeibM7+OYqbri9du99puoW8a+HUEgD//qWF9DWgALtbXJVvkbvd0iKwJHp1IeBzhzQEPmiRQZcHhE/4ZuWWrZph36F+bZh+enPGFUYUAl48m0Tk1SdAL0hWXpH6r3OYfzlljifYwJQYEYOFLU6+M0l5sAmi2r9v2KKk7Ai9ukHZcv43zJxgjjtgUHM/PZg0njgHTlZeoGXS5jCg+qFKrM8QKWjv7+W720Zsk2l/FRf3SlZpSXcqFumF0zq/oZVTAlV+dIu0ZZ/0yW8jTftGZBF+LTotD5Gc+SDDl+5KBwyDP1qDhR6HplEokcdMeQ==;4HH077V+eg+R8x3WJDZ2rA=="
+secured: "VgwF9fj5kK8o9JbIQzetkMhf4Q4hmA+uvrRVaWEKZfTB3QdkOsRCY5hR3G9+vdimSi3eMEPdKGASyTUu567DSMHZVy15YvoU/2vLJTeVV4sDxjzIqK6r4ra+s+TFUHX4sjlxJtj/ks7SwMWqgeKWZwn8H8/nDnyi+1hd4/kERaXDj4qyQCCnJ5kdvkIXLxwYCY4PouXM0kLofVGWPT1szcxLoUa46H4VX0HNhGQ54OOIzISukswJ+655fINV3lH7xX8A/9kcIwHj9I4ljGDwwgJHTV74Bln5yMHa3C4MP55g9kuh0muFJ12pE6+XevTXaQtirXVI08MX/laXn93JEQmrxVO+tFzs02DIBJYZlxw=;9XsGh3wVs9SIr31nPfDUeg=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-26-if-aliens-contact-earth-it-may-not-be-humans-who-get-the-call-expert.md",
+      "title": "If aliens contact Earth, it may not be humans who get the call: expert",
+      "excerpt": "A Harvard professor of astronomy is predicting extraterrestrials will make contact with artificial intelligence before humans, due to aliens potentially feeling a \"kinship\" with human technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert",
+      "originalUrl": "https://www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d89c5ff-a5c0-4573-8ae1-3c96fca895f5/48e89d32-5b3c-4b92-a139-0d2c6338b1de/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert.amp",
+      "publishedDateTime": "2023-06-25T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-25-mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer.md",
       "title": "Mining companies betting on autonomous technology to make dangerous jobs safer",
       "excerpt": "Today, mining companies are employing everything from driverless haul trucks to remote-controlled and robotic drilling machines to remove human labour from some of their most hazardous operations. (THE CANADIAN PRESS/HO-Nutrien) Forget about the canary in the coal mine — experts say the day is coming when there won’t even be a need for a human.",
@@ -1341,49 +1393,6 @@
       "provider": {
         "name": "Discover Magazine",
         "domain": "discovermagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-best-ai-cryptos-to-invest-in-artificial-intelligence.md",
-      "title": "Best AI cryptos to invest in Artificial Intelligence",
-      "excerpt": "Fetch.ai is a man-made intelligence-centered blockchain project that intends to make a decentralized computerized economy driven via independent monetary specialists (AEAs). These AEAs address artificial intelligence specialists equipped for performing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ghanabusinessnews.com/2023/06/17/best-ai-cryptos-to-invest-in-artificial-intelligence/",
-      "originalUrl": "https://www.ghanabusinessnews.com/2023/06/17/best-ai-cryptos-to-invest-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ghanabusinessnews.com/wp-content/uploads/2018/07/bitcoin.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-17T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ghana Business News",
-        "domain": "ghanabusinessnews.com",
         "images": null,
         "publishers": null,
         "authors": null

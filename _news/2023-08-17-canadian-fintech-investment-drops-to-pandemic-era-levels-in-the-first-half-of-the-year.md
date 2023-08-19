@@ -189,15 +189,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "AI’s Impact on Fintech: Do the Benefits Outweigh the Risks?"
-    excerpt: "Firms need to consider data privacy and security, the opacity of AI decision making, and the risk of model degradation."
-    publishedDateTime: 2023-08-15T04:30:00Z
-    webUrl: "https://www.tradersmagazine.com/am/ais-impact-on-fintech-do-the-benefits-outweigh-the-risks/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 19
   - title: "Enhancing sandbox programs to aid commercial deployment of fintech innovations in Africa"
     excerpt: "Financial technology (Fintech) innovations are becoming the mainstay of the global financial sector and user responses to these innovations have been remarkably positive and embraced at an unprecedented scale."
     publishedDateTime: 2023-08-15T11:10:00Z

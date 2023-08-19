@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intrigu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://fedscoop.com/wp-content/uploads/sites/5/2021/10/GettyImages-624863848-e1692396030649.jpg"
         width: 1200
         height: 831
-        isCached: true
-  - title: "After years of dominating facial recognition tech, China is ready to govern it"
-    excerpt: "The rules also state that facial recognition tech must be used only when non-biometric measures won't do, among others."
-    publishedDateTime: 2023-08-15T01:08:00Z
-    webUrl: "https://techwireasia.com/2023/08/facial-recognition-tech-in-china-will-soon-be-governed/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 35
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/08/shutterstock_1115578520-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
   - title: "Advanced Project announces upgrade to TIER service with facial recognition AI technology"
     excerpt: "The Advanced Project, starting with fintech solutions, aims to apply an AI-based facial recognition payment system developed independently across Africa and Southeast Asia."

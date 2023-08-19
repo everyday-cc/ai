@@ -28,22 +28,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 94
-  - title: "BAAS GPT: Leading the market frenzy, the perfect fusion of blockchain and artificial intelligence"
-    excerpt: "King NewsWire - The integration of blockchain and artificial intelligence is becoming the engine of the digital economy, and in this wave, the innovative power of the BAAS Foundation is"
-    publishedDateTime: 2023-08-15T03:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/33851332/baas-gpt-leading-the-market-frenzy-the-perfect-fusion-of-blockchain-and-artificial-intelligence"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33851332"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33851332"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "sFqmt8ErsC6IisAWXtlJMz+6pxi/UZaX2cKiU82tBWv8mfKCei4h/Wd/fqQm9nQIp3aO1R3Y0TWgq7H3klLD1uDt2EBCMLgQzjGEe8N/eXxZlx9J/qI8jMcIhyXL349Ty28XyCbn0PNfm+IEkoBHwNYYjEcOqLYvj1bgO9fBviWpsbRrH0Ulih/xl6DU++9z03L8yyH0fY88nodJ3OePKIwC6tatH6fPHncNzQ3CKhWe4dxu5BCNFUnFHLjBayxpRadSisxJZna9AqGW7KGjRyIT5I+Klk3hnFI0OUxzMKPrkZbAvucRVuRZkenILIY9kJaeXBZkwCsxN6wHkCZyaqrs5IJt1m7y/H5ic3orJwzum+Mu1f1rcOvH82Ybna3He04YrtjdiRCGcVVampZIJq8cvlGvvd8u9Pp7IqIOIh4JpYoFPlyNMP8RLVy0Ri1VwZJvPMFeuu9XYQfOKIuIcviXKuD+qLsUuo55lAtwPoi9vivH5YQuv/o4pi+tL3p1tRfOIjBVacuYZf2T1PnNjQ==;wc/aYM083CPM6GWXbNS9Og=="
 ---

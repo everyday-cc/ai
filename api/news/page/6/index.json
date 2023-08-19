@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-14-how-to-think-about-ai-a-guide-for-manufacturers.md",
+      "title": "How To Think About AI: A Guide For Manufacturers",
+      "excerpt": "The artificial intelligence revolution has arrived, and it’s here to stay. This long-awaited technology is entering a more mature—and more valuable—stage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/",
+      "originalUrl": "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64da2b32ff720c51d2b1ea41/0x0.jpg?format=jpg&crop=4732,2661,x132,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/amp/",
+      "publishedDateTime": "2023-08-14T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-research-shows-extensive-use-of-ai-contains-data-breaches-faster-and-saves-significant-costs.md",
       "title": "Research shows extensive use of AI contains data breaches faster and saves significant costs",
       "excerpt": "Organizations today need new technologies and approaches to stay ahead of attackers and the latest threats.\nThe post Research shows extensive use of AI contains data breaches faster and saves significant costs appeared first on IBM Blog.\n",
@@ -41,6 +92,40 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth.md",
+      "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
+      "excerpt": "Object recognition skills related across senses A few years ago, we became interested in why some people become visual experts more easily than others. We began measuring individual differences in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.expressnews.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "originalUrl": "https://www.expressnews.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Antonio Express-News",
+        "domain": "expressnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -94,49 +179,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth.md",
-      "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
-      "excerpt": "We began measuring individual differences in visual object recognition. We tested people’s abilities in performing a variety of tasks like matching or memorizing objects from several categories ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth-209305",
-      "originalUrl": "https://theconversation.com/the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth-209305",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/542202/original/file-20230810-22046-z0l1ej.jpg?ixlib=rb-1.1.0&rect=2%2C16%2C1595%2C797&q=45&auto=format&w=1356&h=668&fit=crop",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -771,6 +813,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-14-ai-service-robotics-lithuania.md",
+      "title": "AI Service Robotics - Lithuania",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$4m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.68%, resulting in a market volume of US$11m by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/lithuania",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/lithuania",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-13T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-13-robots-ai-are-here-to-stay-in-restaurant-industry-one-business-owner-says-despite-customer-pushback.md",
       "title": "Robots, AI are here to stay in restaurant industry, one business owner says, despite customer pushback",
       "excerpt": "One restaurant owner whose robot server became the subject of small town scorn says AI is here to stay. New small business survey results suggest she's correct.",
@@ -1119,100 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-13-how-your-passwords-can-be-stolen-by-ai-listening-to-your-keystrokes.md",
-      "title": "How your passwords can be stolen by AI listening to your keystrokes",
-      "excerpt": "A new Cornell University research study reveals startling possibilities about AI \"listening in\" on keystrokes for data like passwords. Here's how to stay safe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes",
-      "originalUrl": "https://www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2f57c2c-1707-43b6-ba21-39319b4f7dd6/7a284333-4ee6-4f31-96fb-acd8807ed8c1/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes.amp",
-      "publishedDateTime": "2023-08-12T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-ai-this-week-was-all-about-chips-and-china-investment-rules.md",
-      "title": "AI This Week Was All About Chips and China Investment Rules",
-      "excerpt": "President Joe Biden issued an executive order to take effect next year that will limit US investments in China, focused on chips, quantum computing and AI companies. The UK is considering whether to follow suit, citing a need to strike a balance between promoting national security with the economic necessity of trading with China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-08-12/ai-news-this-week-chips-and-china-investment-rules",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-08-12/ai-news-this-week-chips-and-china-investment-rules",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

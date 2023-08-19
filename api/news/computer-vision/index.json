@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -197,33 +197,24 @@
     {
       "path": "_news/2023-08-14-the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth.md",
       "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
-      "excerpt": "We began measuring individual differences in visual object recognition. We tested people’s abilities in performing a variety of tasks like matching or memorizing objects from several categories ...",
+      "excerpt": "Object recognition skills related across senses A few years ago, we became interested in why some people become visual experts more easily than others. We began measuring individual differences in ...",
       "sourceUrl": null,
-      "webUrl": "https://theconversation.com/the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth-209305",
-      "originalUrl": "https://theconversation.com/the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth-209305",
+      "webUrl": "https://www.expressnews.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "originalUrl": "https://www.expressnews.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/542202/original/file-20230810-22046-z0l1ej.jpg?ixlib=rb-1.1.0&rect=2%2C16%2C1595%2C797&q=45&auto=format&w=1356&h=668&fit=crop",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T05:23:00-07:00",
+      "publishedDateTime": "2023-08-14T06:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
+        "name": "San Antonio Express-News",
+        "domain": "expressnews.com",
         "images": null,
         "publishers": null,
         "authors": null

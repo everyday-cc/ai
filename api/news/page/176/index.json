@@ -2,6 +2,101 @@
   "page": 176,
   "value": [
     {
+      "path": "_news/2023-04-28-largest-ever-federal-university-grant-awarded-for-ai-and-robotics-research-as-part-of-14b-fund.md",
+      "title": "Largest-ever federal university grant awarded for AI and robotics research, as part of $1.4B fund",
+      "excerpt": "The Canadian government has unveiled which universities will be receiving a portion of $1.4 billion in research funding, with the single largest sum going to the University of Toronto for its work on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/politics/largest-ever-federal-university-grant-awarded-for-ai-and-robotics-research-as-part-of-1-4b-fund-1.6375101",
+      "originalUrl": "https://www.ctvnews.ca/politics/largest-ever-federal-university-grant-awarded-for-ai-and-robotics-research-as-part-of-1-4b-fund-1.6375101",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/4/28/1_6375107.jpg",
+          "width": 1020,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/politics/2023/4/28/1_6375101.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/politics/2023/4/28/1_6375101.amp.html",
+      "publishedDateTime": "2023-04-28T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-ai-adoption-versatility-and-how-companies-can-confront-skill-gaps.md",
+      "title": "AI Adoption, Versatility And How Companies Can Confront Skill Gaps",
+      "excerpt": "Data is the lifeblood of businesses today. Both data science and data analysis are essential tools for understanding the world around us. Data helps organizations make better decisions, understand customer’s needs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644a7801230d12e6fdbfa396/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/amp/",
+      "publishedDateTime": "2023-04-28T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai.md",
       "title": "Top Taiwan Chip Designer MediaTek 'Rapidly' Shifts Focus to Autos, AI",
       "excerpt": "Top Taiwan Chip Designer MediaTek 'Rapidly' Shifts Focus to Autos, AI By Sarah Wu TAIPEI (Reuters) - Taiwan's top chip design company MediaTek is focusing more resources on chips for cars and AI ...",
@@ -1057,100 +1152,6 @@
         "AWS AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-first-man-wrongfully-arrested-because-of-facial-recognition-testifies-as-california-weighs-new-bills.md",
-      "title": "First man wrongfully arrested because of facial recognition testifies as California weighs new bills",
-      "excerpt": "Detroit police had matched grainy surveillance footage of the crime to Williams’ driver’s license photo using a facial recognition service. But Williams wasn’t the robber. At the time of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software?ref=upstract.com",
-      "originalUrl": "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-watch-taylor-swift-sing-kanyes-heartless-and-14-other-ai-covers.md",
-      "title": "Watch Taylor Swift Sing Kanye's 'Heartless' and 14 Other AI Covers",
-      "excerpt": "AI language models, presumably like the one used to generate “Heart on My Sleeve,” learn from large sets of vocal data to match the cadence and tone of the singers they try to emulate. Unfortunately for music labels,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/taylor-swift-ye-tiktok-ai-ai-voice-generators-1850383505",
-      "originalUrl": "https://gizmodo.com/taylor-swift-ye-tiktok-ai-ai-voice-generators-1850383505",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a733a743bd19e8da9db8f71b8d2c5974.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

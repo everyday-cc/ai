@@ -9,8 +9,8 @@ ampWebUrl: "https://www.popsci.com/technology/ap-ai-news-guidelines/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ap-ai-news-guidelines/?amp"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Popular Science
@@ -26,29 +26,34 @@ images:
     isCached: true
 
 related:
-  - title: "China Wants to Regulate Its Artificial Intelligence Sector Without Crushing It"
-    excerpt: "Beijing issued 24 guidelines that require platform providers to register their services and conduct a security review before they’re brought to market."
-    publishedDateTime: 2023-08-15T02:15:00Z
-    webUrl: "https://time.com/6304831/china-ai-regulations/"
+  - title: "California Legislature adopts an AI-drafted resolution on artificial intelligence use"
+    excerpt: "The California Legislature has adopted an artificial intelligence-drafted resolution expressing the state's pledge to examine and implement regulations on AI use."
+    publishedDateTime: 2023-08-16T21:39:00Z
+    webUrl: "https://almanacnews.com/news/2023/08/16/california-legislature-adopts-an-ai-drafted-resolution-on-artificial-intelligence-use"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 63
+      name: Almanac
+      domain: almanacnews.com
+    quality: 45
     images:
-      - url: "https://api.time.com/wp-content/uploads/2023/08/AI-convention.jpg?quality&#x3D;85"
-        width: 1024
-        height: 593
+      - url: "https://almanacnews.com/news/photos/2023/august/15/65215_col.jpg"
+        width: 1850
+        height: 1300
         isCached: true
-  - title: "China, UK Moving on Regulation Tops the Week’s AI News"
-    excerpt: "This week, the spotlight moves to the UK and China as the nations get ahead of the US to formalize plans to regulate artificial intelligence."
-    publishedDateTime: 2023-08-19T11:00:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-19/china-uk-moving-on-regulation-tops-the-week-s-ai-news"
+  - title: "Associated Press cements the AI era with newsroom guidance"
+    excerpt: "Weeks after announcing a partnership with OpenAI, The Associated Press urges caution in using — and reporting on — generative AI tools."
+    publishedDateTime: 2023-08-16T15:48:00Z
+    webUrl: "https://www.poynter.org/ethics-trust/2023/new-ap-stylebook-guidelines-artificial-intelligence-chatgpt/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
+      name: Poynter
+      domain: poynter.org
+    quality: 39
+    images:
+      - url: "https://www.poynter.org/wp-content/uploads/2023/08/AP23173786529321.jpg"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "rs3d2A5oALfvcgpRZu128c+AY3xwN3S1OZzNqmhVdl4Uh5ib5sMMxMWp4opxX6HDbybh5aNIJFZug4+T8GF7HL+CV+6ecQNONc/ImVPJGbv8KRrio8c9O1SXa86zZO3jtAVDenQcbk6ovpLVuvpt55qWdcdFD1drGFw1HQm8bGQyG7upN3XHz0FIYe3URkw0r3FZjOzbpIYBf9FteNUiSKAtP0DkDhbNme+t6qChVjj08laC+aTrlEkgX/BaCOvHCkoNyfVbqwvV57UgWK0jiw+nqwQ3qs+wh7hAdEuudm2dWiXgKlCV6ejYNONpz73TZUzHXOc07Ej0Fw1SN9PjPIGAI1TLlZfgqE+YWspdcmBSZc1m5BAvmgLCXXPZ2XaKJQl1NidsE9vFwDYw7fGKw+4O5rAalVhNdkiLHDzbqtpEQiUmxqBaC6d/IVyMZ0WhAtFNZ5edJj6gSbR7249oytxmCV8zHVyGoW1fon9YuYQoovy7YpwggbdjLkMOgaY1+dZhLiCe2e9l1XSRhmOMdw==;2Bp4yj0HoLG+EoCRMofJyg=="
 ---

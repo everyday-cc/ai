@@ -179,15 +179,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "AI’s Impact on Fintech: Do the Benefits Outweigh the Risks?"
-    excerpt: "Firms need to consider data privacy and security, the opacity of AI decision making, and the risk of model degradation."
-    publishedDateTime: 2023-08-15T04:30:00Z
-    webUrl: "https://www.tradersmagazine.com/am/ais-impact-on-fintech-do-the-benefits-outweigh-the-risks/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 19
   - title: "Canadian fintech investment drops to pandemic-era levels in the first half of the year"
     excerpt: "CNW/ - Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since"
     publishedDateTime: 2023-08-17T11:00:00Z

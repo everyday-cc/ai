@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/99821-foxconn-ai-server-market-incre
 webUrl: "https://www.techspot.com/news/99821-foxconn-ai-server-market-increase-fourfold-four-years.html"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: TechSpot
@@ -27,22 +27,6 @@ images:
     width: 2500
     height: 1206
     isCached: true
-
-related:
-  - title: "Foxconn grows presence in upstream AI server segment"
-    excerpt: "Contract electronics vendor Hon Hai Precision Industry (Foxconn) has a sizable share in the upstream AI GPU module and substrate markets of the AI server supply chain, according to chairman Young Liu."
-    publishedDateTime: 2023-08-15T01:41:00Z
-    webUrl: "https://www.digitimes.com/news/a20230814PD227/ai-server-supply-chain-ai-server-foxconn-gpu-module-gpu-substrate-hon-hai-ict-manufacturing.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230814pd227_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "V72H7MRQ01InhaS+XU/i1MD/lHSzcfyXj2PSyQINRxSSinEZZKhmNpXk8rqwS2qJCzh5zyHEYw3hXG1//Olyv82gAm7Y4fyHmez5rRQ7MARFmCYhhA1zMxRdSOSx5EHkw+erPovO5sRVARbqpnA03AdCwqL8DQk/SruMoSB2uaBfJ3A3ydyLFgPxGze6Zhwu5kp6wfTGWFLOxlzRe3ajYBZV4Abf8BvkVrUcBynUpvCzatVG0J2EdVUhzBgBcdBqlk7tauXsn+05KEA75V1Pr+GnqqCRbKI7tJ4TSj18eDeW28mar/bjPKLk7xOVsviQ7y5o00Gys7GCD1IrC9P3i++mY/8biVX9Jw6W7pa0AwX7G3N2YR/tVEl+A6VJwXv0L8gb78+v5zLgpu18LyzKlmLCvz73Du0wJwya4OwYx6BelhbVsbRj5LqEqDk7+FcB/E9ZSFLnbeBZbhuFQ6p59FT3Ko2ih8MOiuVddMbFvhqVV1PUYehzjbaZKv5SmAztOgFa8QWnyUfYySDgQ4yBZQ==;9+CdJ1N6pC+TnwrjC26puA=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/health/researchers-use-artificial-intelligence-
 ampWebUrl: "https://www.foxnews.com/health/researchers-use-artificial-intelligence-help-diagnose-autism-study.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/researchers-use-artificial-intelligence-help-diagnose-autism-study.amp"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Musto-Headshot.jpg?ve=1&tl=1"

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-20-17-critical-skills-for-the-ai-techie.md",
+      "title": "17 Critical Skills For The AI “Techie”",
+      "excerpt": "AI will gift us with more benefits and advantages than any other invention or discovery in history. But it will also require more skills and mastery than anything else.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2023/08/19/17-critical-skills-for-the-ai-techie/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/08/19/17-critical-skills-for-the-ai-techie/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e12d9a57642d1784c71370/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2023/08/19/17-critical-skills-for-the-ai-techie/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/08/19/17-critical-skills-for-the-ai-techie/amp/",
+      "publishedDateTime": "2023-08-19T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-19-2-artificial-intelligence-ai-growth-stocks-that-wall-street-billionaires-are-buying.md",
       "title": "2 Artificial Intelligence (AI) Growth Stocks That Wall Street Billionaires Are Buying",
       "excerpt": "Those products led Morgan Stanley analyst Keith Weiss to conclude that Microsoft is the software company \"best positioned\" to monetize generative AI, a bold prediction that bodes well for shareholders. The generative AI market is expected to expand at 42% annually to hit $1.3 trillion by 2033, according to Bloomberg Intelligence.",
@@ -405,7 +457,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -665,7 +717,7 @@
       "originalUrl": "https://www.outlookindia.com/international/satya-nadella-s-take-on-ai-and-incorporation-into-microsoft-news-311814",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1192,58 +1244,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-machine-learning-can-make-x-rays-more-valuable-to-doctors.md",
-      "title": "Machine Learning Can Make X-Rays More Valuable To Doctors",
-      "excerpt": "Polina Golland is a prominent professor at MIT in Electrical Engineering and CSAIL. Her research centers on pioneering algorithms for medical image analysis, uncovering anatomical patterns in diseases from expansive image collections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/video/6333942109112/machine-learning-can-make-xrays-more-valuable-to-doctors/",
-      "originalUrl": "https://www.forbes.com/video/6333942109112/machine-learning-can-make-xrays-more-valuable-to-doctors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/i-forbesimg/media/video/2023/08/17/6333942109112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/video/6333942109112/machine-learning-can-make-xrays-more-valuable-to-doctors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/video/6333942109112/machine-learning-can-make-xrays-more-valuable-to-doctors/amp/",
-      "publishedDateTime": "2023-08-17T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

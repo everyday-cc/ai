@@ -2,6 +2,92 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2023-06-30-news-tagged-with-deep-learning.md",
+      "title": "News tagged with deep learning",
+      "excerpt": "A diagnostic study on the detection of occlusal caries from a clinical photograph using a deep learning algorithm will be presented at the 101st General Session of the IADR, which will be held in ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/tags/deep+learning/",
+      "originalUrl": "https://medicalxpress.com/tags/deep+learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-teddy-bears-with-ai-cool-creepy-or-a-true-security-risk.md",
+      "title": "Teddy Bears with AI: Cool, creepy or a true security risk?",
+      "excerpt": "Are artificial intelligence-powered toys the next big thing or the next cybersecurity nightmare? Here's how to ensure your kids play it safe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk",
+      "originalUrl": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/394e3d1a-2c3c-4952-bd34-87dddb705f01/0e3d4baf-6b00-410b-9f36-9e2d4d32a45e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk.amp",
+      "publishedDateTime": "2023-06-29T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result.md",
       "title": "Indigenous Voice stoush erupts over claims Constitutional recognition will leave Australians ‘divided’ regardless of result",
       "excerpt": "The referendum for an Indigenous voice to federal parliament will leave Australians “divided” regardless of result, warn two prominent Aboriginal leaders and vote critics.",
@@ -1038,102 +1124,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-amazons-rapid-fire-ai-testing-ground.md",
-      "title": "Amazon's rapid-fire AI testing ground",
-      "excerpt": "Amazon wants to help AI models learn even quicker.  The company is seeking to patent a method for \"fast annotation of samples\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/29/amazons-rapid-fire-ai-testing-ground/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/29/amazons-rapid-fire-ai-testing-ground/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/738057/featured-daily-upside-image.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-helmai-named-in-cb-insights-ai-100-most-promising-artificial-intelligence-startup-of-2023.md",
-      "title": "Helm.ai Named in CB Insights AI 100 Most Promising Artificial Intelligence Startup of 2023",
-      "excerpt": "Helm.ai, a provider of next-generation AI software for autonomous driving and automation of robotics, today announced it has been named among CB Insights' AI 100 for 2023, an annual list of the year's",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33062445/helm-ai-named-in-cb-insights-ai-100-most-promising-artificial-intelligence-startup-of-2023",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33062445/helm-ai-named-in-cb-insights-ai-100-most-promising-artificial-intelligence-startup-of-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33062445",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33062445",
-      "publishedDateTime": "2023-06-29T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

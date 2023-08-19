@@ -38,7 +38,7 @@ related:
     provider:
       name: WealthManagement.com
       domain: wealthmanagement.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/robot-computer-keyboard-hands.jpg"
         width: 1540

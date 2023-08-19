@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kneron unveils new AI chip with multimodal processing capability"
+    excerpt: "Kneron, a dedicated provider of full stack edge AI solutions, has unveiled a new AI chip, KL730, featuring the ability to support multimodal processing such as voice and image recognition. Its co-founder and CEO Albert Liu stressed that not all AI applications necessitate the use of GPUs,"
+    publishedDateTime: 2023-08-17T06:57:00Z
+    webUrl: "https://www.digitimes.com/news/a20230816PD201/ai-applications-aiot-kneron-sparklabs.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230816pd201_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Kneron unveil new low power AI chip KL730"
     excerpt: "Kneron announcing the launch of KL730, an auto-grade NPU chip with an integrated Image Signal Processor (ISP), bringing secure, low-energy AI capabilities to a wide range of applications, from enterprise-edge servers to smart home appliances and advanced ..."
     publishedDateTime: 2023-08-16T06:36:00Z
@@ -50,6 +64,15 @@ related:
       name: EE Herald
       domain: eeherald.com
     quality: 34
+  - title: "Kneron Unveils the KL730 AI Chip, Propelling Low-Energy GPT Solutions at Scale"
+    excerpt: "Kneron, the San Diego-based full stack AI company known for pioneering neural processing units (NPUs), is today announcing the launch of KL730, an auto-grade NPU chip with an integrated Image Signal Processor (ISP)."
+    publishedDateTime: 2023-08-16T12:33:00Z
+    webUrl: "https://www.design-reuse.com/news/54609/kneron-ai-chip-gpt.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 30
 
 secured: "1Jl0bVCfKXWYuLfEXjGrOhrLtWgNBHjaC5fDhA39ji35C7Yl0H0slYcUAzSvA9boT1vVT+qhvJ8ZSCEbsxz5/DeJOObkKm4EPhx/eoXRYBAZgMoPe/JdvGaVyyG9htXEiv+oEn8PVW/jB6+RJcoRITVVUe+rhEYex5Ou0iASvjecf7pM/9egUtIglv82s1o3a0WfQwl0o+4vfSvOh0oENOi9X5jmTJW1jL81g9A9ADJjY0baNtJwO96u6jAAZrgy/8xi6gGh6QtDPsRETNZfzInonRDjcrTvHE0YRDBMWjJnH6IXBAqC3a71ihkqYXw7MlUw9iByMMmfcz5y0EbSuvTSR4UDSMaamtnnXrKjSuU9tC25vsiM77JUi+AnbpSP9oX3Wdgpy2ACe5EV1h4UCKBdfFz7HCMNeqvHAX3vVtezQ/CNBudL71wE+ES8wM5eSClDIS4wevX53nf2gUMS1H6RFj2JeHchiZllBiTeONmZApwSDOHGQd9et8prST1/No89KPEZjJDEtOKh6b3wFA==;gpyoAVMDAagIDrJ2oTs34w=="
 ---

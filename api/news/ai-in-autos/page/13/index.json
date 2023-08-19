@@ -2,6 +2,40 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-04-29-fort-worth-selected-as-host-site-for-a-4th-time-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Fort Worth Selected as Host Site for a 4th Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "excerpt": "Elevate will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 4th time in the Fall of 2023. The AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32097195/fort-worth-selected-as-host-site-for-a-4th-time-for-artificial-intelligence-bootcamp-applications-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32097195/fort-worth-selected-as-host-site-for-a-4th-time-for-artificial-intelligence-bootcamp-applications-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32097195",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097195",
+      "publishedDateTime": "2023-04-28T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-houston-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications-now-open.md",
       "title": "Houston Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
       "excerpt": "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3rd time overall in the Fall of 2023. The 2nd AI",
@@ -1276,58 +1310,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-24-top-ai-statistics-and-trends-in-2023.md",
-      "title": "24 Top AI Statistics And Trends In 2023",
-      "excerpt": "AI continues to revolutionize various industries, with an expected annual growth rate of 37.3% between 2023 and 2030, as reported by Grand View Research. This rapid growth emphasizes the increasing impact of AI technologies in the coming years. [5]",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/business/ai-statistics/",
-      "originalUrl": "https://www.forbes.com/advisor/business/ai-statistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbes.com/advisor/wp-content/uploads/2023/04/24_Top_AI_Statistics_And_Trends_In_2023_-_article_image.jpg",
-          "width": 958,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

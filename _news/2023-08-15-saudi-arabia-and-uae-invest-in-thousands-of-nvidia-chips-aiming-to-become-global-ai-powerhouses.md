@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99787-saudi-arabia-uae-invest-thousa
 webUrl: "https://www.techspot.com/news/99787-saudi-arabia-uae-invest-thousands-nvidia-chips-aiming.html"
 type: article
 quality: 71
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -105,6 +105,29 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "The AI hype means Nvidia is making shiploads of cash"
+    excerpt: "It can hire more highly paid hardware and software engineers (with a bit of help from AI). It isn't showing any sign of neglecting the gaming GPU market, but with profits on offer that are an order of magnitude above that of gaming graphics cards ..."
+    publishedDateTime: 2023-08-18T06:11:00Z
+    webUrl: "https://www.pcgamer.com/the-ai-hype-means-nvidia-is-making-shiploads-of-cash/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/9RNrmwM6BRaWkwKqVL3Aa8-1200-80.png"
+        width: 1187
+        height: 667
+        isCached: true
+  - title: "Nvidia’s AI Chips Are Pulling Ahead in the Cloud. Why the Stock Is a Buy."
+    excerpt: "Jefferies analyst Mark Lipacis analyzed the June data for the six top cloud-based service providers and found that Nvidia gained market share over the past year."
+    publishedDateTime: 2023-08-17T19:47:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-ai-chips-stock-buy-9755a69f"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 33
 
 secured: "sSmrLNNtxrJV/fe/RJ+2AxitZ5r8vkZ15CkiWv4P8CeLvAPd7a4PaYIMaKwhVIBis0GqUi1GZteZMAd9Bru6NFZwu4kUaqB0MTSddlYCqSy8k6CmD858uYswuKD3vuP5aljqKGMXXdzVIkmkf+mxmEhH9GQyzGiYxCsBFuAZWRGoAdlj/7h7rdq0rGZBm1rsqJDDmFRyASQOnWt131QxbHm5dYAPEO2Qm5DaMi8fa7/eTV4a7ZkuLRcbGLCGFhq3Vz21gok1e80r1blkTpP2QBJmqsTNWzwAz/DDTC6d9eoV2V6BImypAOjSvgjfvFkubX/eBo4MEj0pw1GdPUbP7+DdqrVzts4pq1wAsfJshS/P6ugjcUMGUoLsddZuFn+4AP3x2W2utF5RgvGUZStx8MvjTA4/+/DAF6z1mRTo6dl93XXTmJ+za1qs4emVbTVSw5j7ajuVaVEhpIDaWSakUSZRUqeFN6yAryk1X+aevVpTF3mbvUc8zXV/DhUD7lHSdAm84LKgajA9Y7p979CP9A==;R0bTUS7mQ+uABhZGZZHc3Q=="
 ---

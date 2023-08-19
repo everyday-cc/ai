@@ -2,6 +2,102 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-07-21-5-deep-learning-courses-for-high-salary-jobs.md",
+      "title": "5 Deep Learning Courses for High Salary Jobs",
+      "excerpt": "In this article, we will look at 5 Deep Learning Courses for High Salary Jobs. We have also discussed the innovations and intelligence of deep learning and companies that are making huge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2015/08/artificial-intelligence-503592_1280.jpg?auto=format&expires=1722124800&w=400&h=225&fit=crop",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/?amp=1",
+      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/?amp=1",
+      "publishedDateTime": "2023-07-21T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-how-ai-enabled-threat-intelligence-is-becoming-our-future.md",
+      "title": "How AI-Enabled Threat Intelligence Is Becoming Our Future",
+      "excerpt": "As a CEO in the industry, I see tremendous applications of AI in cybersecurity soon, particularly in threat intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648726ec4c121273abd8baa2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/amp/",
+      "publishedDateTime": "2023-07-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-amds-best-bet-on-ai-might-not-be-what-you-think.md",
       "title": "AMD's Best Bet on AI Might Not Be What You Think",
       "excerpt": "But FPGAs are a big bet on AI, too, and still get little love from the investor community. The addition of Xilinx remade AMD's embedded segment into a high-growth powerhouse that raked in over $1.5 billion in sales last quarter.",
@@ -1102,111 +1198,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-what-tesla-stock-investors-should-know-about-recent-ai-updates.md",
-      "title": "What Tesla Stock Investors Should Know About Recent AI Updates",
-      "excerpt": "Tesla reached over 300 million cumulative miles driven with FSD Beta and believes it can quickly grow to the billions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/20/what-tesla-stock-investors-should-know-about-recen/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/20/what-tesla-stock-investors-should-know-about-recen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740671/jose-najarro-2023-07-20t180954043.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise.md",
-      "title": "Microsoft Puts AI Chat To Work With Bing Chat Enterprise",
-      "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue looks at Microsoft's generative AI advancements and their potential impacts on workers and productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 404,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b9bc172887f9f5c637566c/0x0.jpg?format=jpg&width=1200",
-          "width": 720,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/",
-      "publishedDateTime": "2023-07-20T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

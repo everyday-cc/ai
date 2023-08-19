@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-15-the-looming-battle-over-where-generative-ai-systems-will-run.md",
+      "title": "The looming battle over where generative AI systems will run",
+      "excerpt": "Putting AI on cloud versus on-premises systems may seem like a simple decision, but it's much more complex (and potentially expensive).",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.html",
+      "originalUrl": "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/03/ceo_cio_battle-100648302-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html",
+      "publishedDateTime": "2023-08-15T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-artificial-intelligence-to-help-chartered-accountants-deliver-high-quality-audits-icai-prez.md",
       "title": "Artificial Intelligence to help chartered accountants deliver high quality audits: ICAI Prez",
       "excerpt": "We are working with our members to train and upskill them to have the best skill sets to understand AI, he said.Over the years, the accounting profession has moved from paper ledgers to calculators to computers.",
@@ -1155,57 +1206,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-how-to-think-about-ai-a-guide-for-manufacturers.md",
-      "title": "How To Think About AI: A Guide For Manufacturers",
-      "excerpt": "The artificial intelligence revolution has arrived, and it’s here to stay. This long-awaited technology is entering a more mature—and more valuable—stage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/",
-      "originalUrl": "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64da2b32ff720c51d2b1ea41/0x0.jpg?format=jpg&crop=4732,2661,x132,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/amp/",
-      "publishedDateTime": "2023-08-14T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

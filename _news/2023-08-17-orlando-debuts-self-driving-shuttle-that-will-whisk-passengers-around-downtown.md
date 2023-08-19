@@ -66,6 +66,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
+  - title: "Orlando, Florida, debuts self-driving shuttle that will whisk passengers around downtown"
+    excerpt: "ORLANDO, Fla. (AP) — There is going to be a new way to get around downtown Orlando, Florida, and it's not going to require any human drivers. Starting later this month, an electric, self-driving shuttle will whisk passengers around a 1-mile (1.6 km) loop in the downtown area for no charge, Orlando officials said Wednesday."
+    publishedDateTime: 2023-08-17T00:13:00Z
+    webUrl: "https://www.houstonchronicle.com/living/article/orlando-florida-debuts-self-driving-shuttle-18299476.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 0
 
 secured: "JoWfDx5YsMsz8R6AxOE8Y02/6hph4rsijHZhBJfhxVlRmpv35z09c/y/tr3b7IYCEApOMwNJiZEb0SQslcN5pV6XMrMTFt6ld5Ohq7RHNtBGyjiEOS6xmgJiJgsp6LlNAY59gAfJC4OhRTC480Bvr6FYYr6Yjsk3gFtY5svSHBkmpK2zkjd/Z9sg90bl9qp2zW320A4d6raUKB4Lyw5ZOBjKT96WkQqwoGzuKJ/RK+q+AbuFMG42tol4P2tJRt0aZF0T0g8Ezb//gjUHDRwmFu7IT+Q1QrqZqaNb8YOXkeFchFhUuj9IXDH+GxXeKvr5z0DE50mPW+yFTRuNBsTTzSVs2V6Lfr8rB5wrxmVF36P/YYMgSu6TJOWQXBFumCzvjAtoURSUeRz9tmpdkzpEdfykpa8X+W0GNRoCPLXjGpvfx8NoblwnZvsi1Fz6I3/8013iJGZ72ozoPp7RYZztFbm6x8bvzuSc4Y8rbfSMR9RwNy2mTXcpth/lEoAOoHX/jdEqjURxODpwr2L7dbf5vg==;guq3WXnMMZapZfxJuM124A=="
 ---

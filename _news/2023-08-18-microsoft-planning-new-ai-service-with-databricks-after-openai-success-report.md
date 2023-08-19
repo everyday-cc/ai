@@ -78,6 +78,43 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Microsoft's AI First Movers programme helps LawVu speed contract processes"
+    excerpt: "Tauranga-based legal software developer LawVu is one beneficiary of a Microsoft programme that is ​helping developers deploy generative AI."
+    publishedDateTime: 2023-08-15T23:57:00Z
+    webUrl: "https://www.reseller.co.nz/article/708377/microsofts-ai-first-movers-programme-helps-lawvu-speed-contract-processes/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 52
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/lawvu_kidd.jpg"
+        width: 504
+        height: 315
+        isCached: true
+  - title: "Globant, LaLiga Tech Team With Microsoft For Generative AI Applications In Sports, Broadcasting"
+    excerpt: "IT and Software Development company Globant S.A. (GLOB) announced Thursday its collaboration with LaLiga Tech and tech major"
+    publishedDateTime: 2023-08-17T09:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/globant-laliga-tech-team-with-microsoft-for-generative-ai-applications-in-sports-broadcasting-1032562457"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "IBM announced today that it is expanding its collaboration with Microsoft to help joint clients accelerate the deployment"
+    publishedDateTime: 2023-08-17T17:09:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-consulting-collaborates-with-microsoft-to-help-companies-accelerate-adoption-of-generative-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 41
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "Microsoft plans to partners with Databricks to expand AI offerings, potentially competing with OpenAI"
     excerpt: "Microsoft is expanding its AI offerings by partnering with Databricks. Why is it a big news? Because it was noted that Databricks had positioned itself"
     publishedDateTime: 2023-08-18T15:44:00Z

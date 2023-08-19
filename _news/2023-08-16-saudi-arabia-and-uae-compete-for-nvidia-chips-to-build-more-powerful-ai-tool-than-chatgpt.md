@@ -101,6 +101,29 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "The AI hype means Nvidia is making shiploads of cash"
+    excerpt: "It can hire more highly paid hardware and software engineers (with a bit of help from AI). It isn't showing any sign of neglecting the gaming GPU market, but with profits on offer that are an order of magnitude above that of gaming graphics cards ..."
+    publishedDateTime: 2023-08-18T06:11:00Z
+    webUrl: "https://www.pcgamer.com/the-ai-hype-means-nvidia-is-making-shiploads-of-cash/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/9RNrmwM6BRaWkwKqVL3Aa8-1200-80.png"
+        width: 1187
+        height: 667
+        isCached: true
+  - title: "Nvidia’s AI Chips Are Pulling Ahead in the Cloud. Why the Stock Is a Buy."
+    excerpt: "Jefferies analyst Mark Lipacis analyzed the June data for the six top cloud-based service providers and found that Nvidia gained market share over the past year."
+    publishedDateTime: 2023-08-17T19:47:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-ai-chips-stock-buy-9755a69f"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 33
 
 secured: "fz3MuXhz0MD1VvY/JNuWyVVpSvYO3YUJUbVaA4WXQ5V5uxzkLv0UH34i0SET8rzktV8GR/RhG02MnNtpug4ddqf+e5+f9DXSq+5whjXUVxkmJ8lBlBZeobg7xNjYWvm/CTHGJFKtu1Pt0XTbA+Wumj1xRhjApdrgv6F1zhE/wyv/0mR0ARqbPAJhqwK5YR/0rGubXBNEuQ6uiUYCtAkcJLE56W6pD+AEaCJlMQs3NmaxtqGeUntBAAX3i0YXv3+zO4wGJOH06yG8EzHR0a9e14b8HeLlY5chAAMfz4yGcgmYKn5L13Aqii+5D8ch6pNOXZs0AbMcx/VN1vXnaFaoirM6RfbysKptaJM06V8YH4Y=;qSeZsRRGqDEu7xkRHoAO9w=="
 ---

@@ -2,6 +2,102 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-07-10-as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development.md",
+      "title": "As AI Becomes Mainstream, Who Will Remain In The Fourth Stage Of Technological Business Development?",
+      "excerpt": "The future belongs to those who can effectively harness the power of technologies, including AI, to solve real problems and create new opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b51b21f424212056aa415/0x0.jpg?format=jpg&crop=1392,783,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/amp/",
+      "publishedDateTime": "2023-07-10T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-303-roi-the-total-economic-impact-of-ibm-security-randori.md",
+      "title": "303% ROI: The Total Economic Impact™ of IBM Security Randori",
+      "excerpt": "According to a new Forrester Consulting study, the IBM Security Randori platform delivered a 303% ROI over 3 years and paid for itself in less than 6 months.\nThe post 303% ROI: The Total Economic Impact™ of IBM Security Randori appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/303-roi-the-total-economic-impact-of-ibm-security-randori/",
+      "originalUrl": "https://www.ibm.com/blog/303-roi-the-total-economic-impact-of-ibm-security-randori/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T05:58:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-when-is-amazon-prime-day-2023.md",
       "title": "When is Amazon Prime Day 2023?",
       "excerpt": "Get ready -- Amazon Prime Day 2023 starts tomorrow and runs through Wednesday, July 12. Prime Day is one of Amazon's biggest shopping events of the year. During the deals event, you can save lots ...",
@@ -1045,110 +1141,6 @@
         "AI in Robotics",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-ai-will-change-your-work-significantly-heres-how-to-respond.md",
-      "title": "AI Will Change Your Work Significantly: Here’s How To Respond",
-      "excerpt": "AI will shift things fundamentally—including the content of work, the work available and who’s doing it. You’ll need to be aware, ready and responsive to what’s coming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/",
-      "originalUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64aa095b9866235e854c321c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/amp/",
-      "publishedDateTime": "2023-07-09T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-ai-revolution-2-artificial-intelligence-stocks-billionaires-are-buying-hand-over-fist.md",
-      "title": "AI Revolution: 2 Artificial Intelligence Stocks Billionaires Are Buying Hand Over Fist",
-      "excerpt": "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More The next generation of AI technology has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/09/ai-revolution-2-artificial-intelligence-stocks-bil/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/09/ai-revolution-2-artificial-intelligence-stocks-bil/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/738844/a-binary-ai-matrix-showing-green-1s-and-zeros-against-a-black-background.jpg",
-          "width": 2423,
-          "height": 1238,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-09T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

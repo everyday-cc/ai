@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-20-this-changed-the-way-i-look-for-ai-stocks-forever.md",
+      "title": "This Changed the Way I Look for AI Stocks Forever",
+      "excerpt": "The good news is the AI bubble - which still has a little air left in it - is starting to shrink as investors come to their senses and realize that a $2-per-share bottling that slapped\"AI\" in its name this March isn't going to hit $487.",
+      "sourceUrl": null,
+      "webUrl": "https://moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/",
+      "originalUrl": "https://moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/07/image001.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/amp/",
+      "cdnAmpWebUrl": "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/amp/",
+      "publishedDateTime": "2023-07-19T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-artificial-intelligence-is-changing-social-media.md",
       "title": "Artificial Intelligence Is Changing Social Media",
       "excerpt": "Artificial intelligence is quickly becoming part of our social media world on our cellphones and computers. Text, images, audio and video are becoming easier for anyone to create using new ...",
@@ -1259,49 +1302,6 @@
       "provider": {
         "name": "Automotive News",
         "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-australias-most-advanced-driverless-car-zoe2-takes-on-outback-roads-in-mount-isa.md",
-      "title": "Australia's 'most advanced' driverless car ZOE.2 takes on outback roads in Mount Isa",
-      "excerpt": "Outback residents say driverless cars could ease public ... and a GPS to interpret surroundings while artificial intelligence and various decision-making algorithms work in real time to determine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2023-07-13/driverless-car-zoe2-most-advanced-trial-in-outback-australia/102594812",
-      "originalUrl": "https://www.abc.net.au/news/2023-07-13/driverless-car-zoe2-most-advanced-trial-in-outback-australia/102594812",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/543c365a2671ec3983e1238bdc0691a5?impolicy=wcms_crop_resize&cropH=1333&cropW=2000&xPos=0&yPos=0&width=862&height=575",
-          "width": 862,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/102594812",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102594812",
-      "publishedDateTime": "2023-07-12T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
         "images": null,
         "publishers": null,
         "authors": null

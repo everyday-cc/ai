@@ -2,6 +2,93 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-07-11-best-amazon-prime-day-2023-deals-on-robot-vacuums-that-are-50-off.md",
+      "title": "Best Amazon Prime Day 2023 deals on robot vacuums that are 50% off",
+      "excerpt": "Amazon's biggest sales event of the year, Amazon Prime Day 2023, is officially here. Right now, you can score an unbeatable deal on a top-rated robot vacuum with these hot deals on top-rated robovacs from iRobot, Samsung and more. Keep reading to shop our selection of the most impressive Amazon Prime Day deals on robot vacuums.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/01/3a6f8bea-c425-41ba-8405-fdf1900cf318/thumbnail/1200x630/375b52121913f22863901df2bafdd767/roborock-robot-vacuum-header.png?v=758b39f312cc5ee6054d0eb9bad6c0cd",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
+      "publishedDateTime": "2023-07-11T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-50-amazon-fashion-finds-to-shop-for-under-50-this-prime-day.md",
+      "title": "50+ Amazon Fashion Finds to Shop For Under $50 This Prime Day",
+      "excerpt": "As POPSUGAR editors, we independently select and write about stuff we love and think you'll like too. If you buy a product we have recommended, we may receive affiliate commission, which in turn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsugar.com/fashion/best-cheap-amazon-clothes-women-46310389",
+      "originalUrl": "https://www.popsugar.com/fashion/best-cheap-amazon-clothes-women-46310389",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.popsugar-assets.com/files/thumbor/sl6ZssptTFhQksuN-zISJLEK3M8=/0x686:3980x2326/828x610/filters:format_auto():extract_cover()/2023/06/04/331/n/1922564/e688b05e647d873a783305.39844499_.jpg",
+          "width": 828,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsugar.com/amphtml/fashion/best-cheap-amazon-clothes-women-46310389",
+      "cdnAmpWebUrl": "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/amphtml/fashion/best-cheap-amazon-clothes-women-46310389",
+      "publishedDateTime": "2023-07-11T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PopSugar",
+        "domain": "popsugar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket.md",
       "title": "Chip-Chip, Hooray: Nvidia, AMD Lead Semiconductor Rally Premarket",
       "excerpt": "Shares of chipmakers are heading northwards in premarket trading on Tuesday, led by Nvidia Corp. (NASDAQ:NVDA) and Advanced Micro Devices, Inc. (NASDAQ:AMD). KeyBanc Capital Markets analyst John Vinh raised the price targets for several companies in the space,",
@@ -1106,100 +1193,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry.md",
-      "title": "A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry",
-      "excerpt": "to offer GPU-as-a-Service (GaaS) for AI. This ground-breaking partnership will enable telcos and their enterprise customers to easily deploy AI models within their networks, resulting in unique ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry-301872565.html?gclid=EAIaIQobChMI-p",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry-301872565.html?gclid=EAIaIQobChMI-p",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2149923/A_new_era_of_AI_Innovation.jpg?p=facebook",
-          "width": 2423,
-          "height": 1269,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-generative-ai-could-add-up-to-44-trillion-annually-to-global-economy.md",
-      "title": "Generative AI could add up to $4.4 trillion annually to global economy",
-      "excerpt": "Here are the key forecasts on the impact of GenAI across all industry sectors from the latest McKinsey report on the subject.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/generative-ai-could-add-up-to-4-4-trillion-annually-to-global-economy/",
-      "originalUrl": "https://www.zdnet.com/article/generative-ai-could-add-up-to-4-4-trillion-annually-to-global-economy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/08dc8082ba347b4ebfafc03ee986b18b030ddbf9/2023/07/10/d34ffadf-8beb-4bbd-86e9-7c128dbb87e9/gettyimages-1494143619.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-could-add-up-to-4-4-trillion-annually-to-global-economy/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-could-add-up-to-4-4-trillion-annually-to-global-economy/",
-      "publishedDateTime": "2023-07-10T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

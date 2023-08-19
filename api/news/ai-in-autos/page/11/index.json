@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-05-17-baidu-inc-bidu-q1-2023-earnings-call-transcript.md",
+      "title": "Baidu, Inc. (BIDU) Q1 2023 Earnings Call Transcript",
+      "excerpt": "our SVP in-charge of Baidu Intelligent Driving. After our prepared remarks, we will hold a Q&A session. Please note that the discussion today will contain forward-looking statements made under the ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4605067-baidu-inc-bidu-q1-2023-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4605067-baidu-inc-bidu-q1-2023-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-us-or-global-agency.md",
       "title": "ChatGPT chief says artificial intelligence should be regulated by a U.S. or global agency",
       "excerpt": "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems.",
@@ -1342,58 +1376,6 @@
         "name": "Voice of America",
         "domain": "voanews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-baidus-smart-speaker-unit-to-launch-a-phone-next-week.md",
-      "title": "Baidu’s smart speaker unit to launch a phone next week",
-      "excerpt": "The company has said it plans to embed its AI tools into all major business lines, including in search, autonomous driving and smart gadgets. The introduction of a handset under the Baidu umbrella ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3219778/baidus-smart-speaker-unit-launch-phone-next-week",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3219778/baidus-smart-speaker-unit-launch-phone-next-week",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/05/08/b561cca7-b7a1-4868-9336-ece8b15bca44_79f1061e.jpg?itok=3T2253UF&v=1683534684",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

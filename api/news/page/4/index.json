@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-16-smart-video-analytics-are-redefining-use-cases-from-retail-to-healthcare.md",
+      "title": "Smart video analytics are redefining use cases from retail to healthcare",
+      "excerpt": "No longer are we using video monitoring purposes just to see what is happening. We’re seeing AI & ML on video to predict what will happen.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/smart-video-analytics-are-redefining-use-cases-from-retail-to-healthcare/",
+      "originalUrl": "https://venturebeat.com/ai/smart-video-analytics-are-redefining-use-cases-from-retail-to-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_579286324.jpeg?w=1200&strip=all",
+          "width": 1198,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-ai-models-are-powerful-but-are-they-biologically-plausible.md",
       "title": "AI models are powerful, but are they biologically plausible?",
       "excerpt": "Artificial neural networks, ubiquitous machine-learning models that can be trained to complete many tasks, are so called because their architecture is inspired by the way biological neurons process information in the human brain.",
@@ -1012,7 +1064,7 @@
       "originalUrl": "https://www.techspot.com/news/99787-saudi-arabia-uae-invest-thousands-nvidia-chips-aiming.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1190,57 +1242,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-the-looming-battle-over-where-generative-ai-systems-will-run.md",
-      "title": "The looming battle over where generative AI systems will run",
-      "excerpt": "Putting AI on cloud versus on-premises systems may seem like a simple decision, but it's much more complex (and potentially expensive).",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.html",
-      "originalUrl": "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/03/ceo_cio_battle-100648302-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html",
-      "publishedDateTime": "2023-08-15T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

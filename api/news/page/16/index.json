@@ -2,6 +2,84 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-08-07-san-francisco-drives-tech-will-it-drive-away-robot-taxis.md",
+      "title": "San Francisco drives tech; will it drive away robot taxis?",
+      "excerpt": "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... s GOOGL.O Waymo and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/san-francisco-drives-tech-will-it-drive-away-robot-taxis-0",
+      "originalUrl": "https://www.nasdaq.com/articles/san-francisco-drives-tech-will-it-drive-away-robot-taxis-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation.md",
+      "title": "National youth robotics competition aims to empower and inspire next generation",
+      "excerpt": "A new to Windsor national robotics competition for youth took place this weekend at the University of Windsor.",
+      "sourceUrl": null,
+      "webUrl": "https://windsor.ctvnews.ca/national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation-1.6509188",
+      "originalUrl": "https://windsor.ctvnews.ca/national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation-1.6509188",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2023/8/6/2740875/_jcr_content/renditions/videothumbnail.1691358876188.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html",
+      "publishedDateTime": "2023-08-06T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-dell-technologies-nvidia-collaborate-on-full-stack-generative-ai-solutions.md",
       "title": "Dell Technologies & NVIDIA Collaborate On Full-Stack Generative AI Solutions",
       "excerpt": "Dell and NVIDIA announced new validated designs for inference systems based on NVIDIA GPUs and software, a services offering, and a new Dell Precision AI workstation.",
@@ -1041,109 +1119,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions.md",
-      "title": "Microsoft shuts down Windows’ Cortana voice assistant as it chases AI ambitions",
-      "excerpt": "Cortana began life on Microsoft’s ill-fated Windows Phone platform in the early 2010s, where it served the same general function as Apple’s Siri and Google Now: a hands-free way to interact with your phone that also attempted to have a \"cute\" \"personality.\"",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cortana-800x506.jpg",
-          "width": 800,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/",
-      "publishedDateTime": "2023-08-04T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese.md",
-      "title": "SoftBank launches an OpenAI for Japan: SB Intuitions, building LLMs and generative AI in Japanese",
-      "excerpt": "SoftBank has a strategic alliance with Microsoft that will involve SoftBank providing a secure data environment for enterprises in Japan.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/",
-      "originalUrl": "https://techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1172366774.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/amp/",
-      "publishedDateTime": "2023-08-04T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

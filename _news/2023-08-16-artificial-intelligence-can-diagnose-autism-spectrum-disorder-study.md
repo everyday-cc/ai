@@ -36,7 +36,7 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Musto-Headshot.jpg?ve=1&tl=1"
         width: 340

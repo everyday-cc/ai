@@ -49,6 +49,29 @@ related:
         width: 472
         height: 315
         isCached: true
+  - title: "Kneron unveils new AI chip with multimodal processing capability"
+    excerpt: "Kneron, a dedicated provider of full stack edge AI solutions, has unveiled a new AI chip, KL730, featuring the ability to support multimodal processing such as voice and image recognition. Its co-founder and CEO Albert Liu stressed that not all AI applications necessitate the use of GPUs,"
+    publishedDateTime: 2023-08-17T06:57:00Z
+    webUrl: "https://www.digitimes.com/news/a20230816PD201/ai-applications-aiot-kneron-sparklabs.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230816pd201_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Kneron Unveils the KL730 AI Chip, Propelling Low-Energy GPT Solutions at Scale"
+    excerpt: "Kneron, the San Diego-based full stack AI company known for pioneering neural processing units (NPUs), is today announcing the launch of KL730, an auto-grade NPU chip with an integrated Image Signal Processor (ISP)."
+    publishedDateTime: 2023-08-16T12:33:00Z
+    webUrl: "https://www.design-reuse.com/news/54609/kneron-ai-chip-gpt.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 30
 
 secured: "qYjSZ6VL43qvVwWiPp0LIb/kxF5POLGKxL6iDvp5RwKNWE0rK37Ym/t7Sx3RW59w1I5KW7i/pEGVQ5Z7mVI1YHG5ludjYFXbMCULGf8TgJ8hd9K/KHKw0VlfWYHbrSByo1Bd2lanABuyFf9rVv6IZsoMmNVsBjkMEyDLygvuq2ctx3EqDI+OFXSkf9NdBUDPZZbsbfMYI+GzTs1+z/jDQyY7oJByFOzbOiEhtspcqi7FkP8QYMxMhS9mT0WsWAxLNsnTJnHBDeS3zgysScrGlbP09A+yLfOLijn9p4MwOHdjZI7ITMOuPp7Stkmn2I7mWdYKBMqNeHObD6s+IAR7zafoDvBFrNQOFr72BtdOz5AHvbLM5eUDuS49jLpJ7HYdqdyn2fSHCr4SJhrQfJxRebTf4YXKGHSoAbTx4OKj117j3OZ4dDvCtw4fzJ1QDwtgWa24UkeAOJG5mcPkJOZgZwq+6KoBv1GPewvnPu8yvSr+ASmSZaQBtFNinU3ox2QFbdyUhbpjsB+w3Kaa+nxMYA==;LT/HHs+pxvY4hM2+85RooA=="
 ---

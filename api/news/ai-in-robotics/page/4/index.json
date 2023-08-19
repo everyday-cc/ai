@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-27-a-simpler-method-for-learning-to-control-a-robot.md",
+      "title": "A simpler method for learning to control a robot",
+      "excerpt": "(Nanowerk News) Researchers from MIT and Stanford University have devised a new machine-learning approach that could be used to control a robot, such as a drone or autonomous vehicle, more effectively and efficiently in dynamic environments where ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=63411.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=63411.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/smart/images/smartworlder.jpg",
+          "width": 400,
+          "height": 217,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off.md",
       "title": "Robot vacuum deal: Score this reviewer-loved Shark AI robot vacuum for 40% off",
       "excerpt": "Amazon is currently offering an impressive deal on a top-rated Shark robot vacuum. Right now you can get this Shark AI robot vacuum for 40% off. But hurry -- this robot vacuum deal won't last.",
@@ -1313,49 +1356,6 @@
       "provider": {
         "name": "The Victoria Advocate",
         "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-figure-humanoid-robotics-receives-investment-from-intel.md",
-      "title": "Figure humanoid robotics receives investment from Intel",
-      "excerpt": "Intel Capital, one of the leading investors in technology startups, has made a significant equity investment of $9 million in Figure, an AI robotics",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/",
-      "originalUrl": "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Figure-humanoid-robotics-Intel.jpg",
-          "width": 700,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
         "images": null,
         "publishers": null,
         "authors": null

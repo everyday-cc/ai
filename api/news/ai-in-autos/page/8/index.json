@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-06-17-best-ai-cryptos-to-invest-in-artificial-intelligence.md",
+      "title": "Best AI cryptos to invest in Artificial Intelligence",
+      "excerpt": "Fetch.ai is a man-made intelligence-centered blockchain project that intends to make a decentralized computerized economy driven via independent monetary specialists (AEAs). These AEAs address artificial intelligence specialists equipped for performing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ghanabusinessnews.com/2023/06/17/best-ai-cryptos-to-invest-in-artificial-intelligence/",
+      "originalUrl": "https://www.ghanabusinessnews.com/2023/06/17/best-ai-cryptos-to-invest-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ghanabusinessnews.com/wp-content/uploads/2018/07/bitcoin.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-17T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ghana Business News",
+        "domain": "ghanabusinessnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-forget-chatgpt-facial-recognition-emerges-as-ai-rulebooks-make-or-break-issue.md",
       "title": "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue",
       "excerpt": "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ...",
@@ -1356,58 +1399,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-waymo-self-driving-vehicle-kills-dog-in-san-francisco.md",
-      "title": "Waymo Self-Driving Vehicle Kills Dog in San Francisco",
-      "excerpt": "The dog ran into the street from behind a parked car causing what Waymo describes as an unavoidable incident. A Waymo robotaxi struck and killed a small dog in San Francisco last month while it was in self-driving mode.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco",
-      "originalUrl": "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/04SKS3KBJp73X6USecAt2qd-1.fit_lim.size_1200x630.v1686140384.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

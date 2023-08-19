@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-13-how-your-passwords-can-be-stolen-by-ai-listening-to-your-keystrokes.md",
+      "title": "How your passwords can be stolen by AI listening to your keystrokes",
+      "excerpt": "A new Cornell University research study reveals startling possibilities about AI \"listening in\" on keystrokes for data like passwords. Here's how to stay safe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes",
+      "originalUrl": "https://www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2f57c2c-1707-43b6-ba21-39319b4f7dd6/7a284333-4ee6-4f31-96fb-acd8807ed8c1/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-passwords-stolen-ai-listening-keystrokes.amp",
+      "publishedDateTime": "2023-08-12T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-12-ai-this-week-was-all-about-chips-and-china-investment-rules.md",
+      "title": "AI This Week Was All About Chips and China Investment Rules",
+      "excerpt": "President Joe Biden issued an executive order to take effect next year that will limit US investments in China, focused on chips, quantum computing and AI companies. The UK is considering whether to follow suit, citing a need to strike a balance between promoting national security with the economic necessity of trading with China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-08-12/ai-news-this-week-chips-and-china-investment-rules",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-08-12/ai-news-this-week-chips-and-china-investment-rules",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-12-foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats.md",
       "title": "Foundations seek to advance AI for good — and also protect the world from its threats",
       "excerpt": "Gebru launched the Distributed Artificial Intelligence Research Institute in 2021 to ... Open Philanthropy, a foundation started by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna ...",
@@ -828,49 +922,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-11-foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats.md",
-      "title": "Foundations seek to advance AI for good — and also protect the world from its threats",
-      "excerpt": "Gebru launched the Distributed Artificial Intelligence Research Institute in 2021 to ... Open Philanthropy, a foundation started by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/",
-      "originalUrl": "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wwwcache.wral.com/asset/news/technology/2023/08/11/20995890/64d654fe5e5bb-media_8df39a03c1594324b12a740ee34ad835-DMID1-5zvvi6s6q-640x480.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wral.com/amp/20995889/",
-      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20995889/",
-      "publishedDateTime": "2023-08-11T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL",
-        "domain": "wral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-11-the-godfather-of-ai-has-a-hopeful-plan-for-keeping-future-ai-friendly.md",
       "title": "The ‘Godfather of AI’ Has a Hopeful Plan for Keeping Future AI Friendly",
       "excerpt": "Geoffrey Hinton left Google so he could speak more freely about AI’s dangers. He argues that building analog computers instead of digital ones might keep the technology more loyal.",
@@ -976,6 +1027,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-11-foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats.md",
+      "title": "Foundations seek to advance AI for good — and also protect the world from its threats",
+      "excerpt": "Gebru launched the Distributed Artificial Intelligence Research Institute in 2021 to ... Open Philanthropy, a foundation started by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news4jax.com/business/2023/08/11/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/",
+      "originalUrl": "https://www.news4jax.com/business/2023/08/11/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QDPEEVBVX5DQNNG3Z7FJFMEWQQ.jpg?_a=ATAPphC0",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News4Jax",
+        "domain": "news4jax.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-meetkai-creates-a-digital-twin-of-sprawling-2b-silicon-box-chip-packaging-factory.md",
       "title": "Meetkai creates a digital twin of sprawling $2B Silicon Box chip packaging factory",
       "excerpt": "We're thrilled to announce the return of GamesBeat Summit Next, hosted in San Francisco this October, where we will explore the theme of \"Playing the Edge.\" Apply to speak here and learn more about sponsorship opportunities here.",
@@ -1068,111 +1162,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency.md",
-      "title": "Amazon Translate enhances its custom terminology to improve translation accuracy and fluency",
-      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. When you translate from one language to another, you want your machine translation to be accurate, fluent, and most importantly contextual. Domain-specific and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/11/amazon-translate-enhances-fluency.jpg",
-          "width": 908,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T07:59:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-zero-shot-text-classification-with-amazon-sagemaker-jumpstart.md",
-      "title": "Zero-shot text classification with Amazon SageMaker JumpStart",
-      "excerpt": "Natural language processing (NLP) is the field in machine learning (ML) concerned with giving computers the ability to understand text and spoken words in the same way as human beings can. Recently, state-of-the-art architectures like the transformer architecture are used to achieve near-human performance",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/zero-shot-text-classification-with-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/zero-shot-text-classification-with-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/31/ML-13226-Picture6-1219x630.png",
-          "width": 1219,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T07:56:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

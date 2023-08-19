@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-16T13:16:00Z
 originalUrl: "https://www.wealthmanagement.com/estate-planning/reality-artificial-intelligence-family-offices"
 webUrl: "https://www.wealthmanagement.com/estate-planning/reality-artificial-intelligence-family-offices"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/robot-computer-keyboard-hands.jpg"
