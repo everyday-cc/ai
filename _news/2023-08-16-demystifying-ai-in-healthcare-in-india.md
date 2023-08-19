@@ -22,20 +22,6 @@ topics:
 related:
   - title: "UK allocates £13m to boost use of artificial intelligence in healthcare"
     excerpt: "The government has allocated a £13m investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare. The move, announced by Technology Secretary Michelle ..."
-    publishedDateTime: 2023-08-14T13:47:00Z
-    webUrl: "https://www.independent.co.uk/news/uk/home-news/uk-nhs-ai-healthcare-artificial-intelligence-b2390607.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 54
-    images:
-      - url: "https://static.independent.co.uk/2023/08/10/00/0a48a35067bb751bb5abd6562da587f9Y29udGVudHNlYXJjaGFwaSwxNjkxNjc4NzY3-2.69139511.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "UK allocates £13m to boost use of artificial intelligence in healthcare"
-    excerpt: "The government has allocated a £13m investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare. The move, announced by Technology Secretary Michelle ..."
     publishedDateTime: 2023-08-15T21:17:00Z
     webUrl: "https://www.independent.co.uk/news/uk/home-news/uk-nhs-ai-healthcare-artificial-intelligence-b2390607.html?trk=public_post_comment-text"
     type: article

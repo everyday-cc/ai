@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theaustralian.com.au/nation/working-for-australia-anthon
 cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/working-for-australia-anthony-albaneses-speech-in-full/news-story/d8e5ee8dbaf611eb0cd25ee51fc7eeb2?amp"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Anthony Albanese admits Voice referendum is a 'risk' but stresses vote is 'necessary' and he will 'respect' either outcome"
-    excerpt: "Change is hard, but this is necessary.” Mr Albanese acknowledged the difficult task at hand to see the Voice through to success - which proposes the recognition of Australia’s First Nations people in the constitution and an enshrinement of an advisory ..."
-    publishedDateTime: 2023-08-18T03:38:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-admits-voice-referendum-is-a-risk-but-stresses-vote-is-necessary-and-he-will-respect-either-outcome/news-story/344056fceeb48cdb17e3ea867e84622e"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-admits-voice-referendum-is-a-risk-but-stresses-vote-is-necessary-and-he-will-respect-either-outcome/news-story/344056fceeb48cdb17e3ea867e84622e?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-admits-voice-referendum-is-a-risk-but-stresses-vote-is-necessary-and-he-will-respect-either-outcome/news-story/344056fceeb48cdb17e3ea867e84622e?amp"
+  - title: "Anthony Albanese rallies Labor faithful on Voice to Parliament as Jacinta Nampijinpa Price delivers key message to No supporters"
+    excerpt: "The most high profile figures of the Yes and No Voice to Parliament referendum campaigns spent Saturday rallying their respective supporters with stirring speeches."
+    publishedDateTime: 2023-08-19T07:42:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-rallies-labor-faithful-on-voice-to-parliament-as-jacinta-nampijinpa-price-delivers-key-message-to-no-supporters/news-story/254514b5beab44f516f8e616d8c4a2c3"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-rallies-labor-faithful-on-voice-to-parliament-as-jacinta-nampijinpa-price-delivers-key-message-to-no-supporters/news-story/254514b5beab44f516f8e616d8c4a2c3?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-rallies-labor-faithful-on-voice-to-parliament-as-jacinta-nampijinpa-price-delivers-key-message-to-no-supporters/news-story/254514b5beab44f516f8e616d8c4a2c3?amp"
     type: article
     provider:
       name: Sky News Australia
       domain: skynews.com.au
-    quality: 18
+    quality: 30
     images:
-      - url: "https://content.api.news/v3/images/bin/99d4072f01790520f12069e471d345d6"
+      - url: "https://content.api.news/v3/images/bin/5a4bb2e81f51d61941b619ae62efe1eb"
         width: 1280
         height: 720
         isCached: true

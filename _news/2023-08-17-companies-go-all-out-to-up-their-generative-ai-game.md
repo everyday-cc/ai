@@ -147,15 +147,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Generative AI's Dark Side: How It's The Perfect Tool For Hackers To Spread Malware"
-    excerpt: "Generative AI presents many opportunities for businesses to improve operations and reduce costs. On the bright side, there is great potential for this form of AI to deliver value to organizations. However, it has a dark side in the cybersecurity landscape, as hackers can easily manipulate it to spread malware."
-    publishedDateTime: 2023-08-14T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/generative-ais-dark-side-how-its-the-perfect-tool-for-hackers-to-spread-malware/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
   - title: "Generative AI in healthcare: Google Cloud’s Amy Waldron on the tech giant’s health ambitions"
     excerpt: "Healthcare Dive caught up with Google Cloud’s Amy Waldron to discuss the technology giant’s plans — and the potential risks — of generative AI in healthcare."
     publishedDateTime: 2023-08-17T17:56:00Z

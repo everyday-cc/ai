@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars can make traffic slower: Study"
-    excerpt: "A new study finds that \"connected\" vehicles, which share data with each other wirelessly, significantly improve travel time through intersections—but automated vehicles can actually slow down travel time through intersections if they are not connected to each other."
-    publishedDateTime: 2023-08-14T14:19:00Z
-    webUrl: "https://techxplore.com/news/2023-08-self-driving-cars-traffic-slower.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-self-driving-cars-traffic-slower.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-self-driving-cars-traffic-slower.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/self-driving-car-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Self-driving cars can make traffic slower"
     excerpt: "A new study finds that 'connected' vehicles, which share data with each other wirelessly, significantly improve travel time through intersections -- but automated vehicles can actually slow down travel time through intersections if they are not connected to each other."
     publishedDateTime: 2023-08-15T12:51:00Z
@@ -50,6 +34,22 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
+  - title: "NC State survey says self-driving cars are safer, what this could mean for future of the roads"
+    excerpt: "A recent study through NC State says self-driving cars can slow down traffic at intersections. This is because autonomous cars are designed to be more cautious drivers."
+    publishedDateTime: 2023-08-18T22:08:00Z
+    webUrl: "https://www.cbs17.com/news/nc-state-survey-says-self-driving-cars-are-safer-what-this-could-mean-for-future-of-the-roads/"
+    ampWebUrl: "https://www.cbs17.com/news/nc-state-survey-says-self-driving-cars-are-safer-what-this-could-mean-for-future-of-the-roads/amp/"
+    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/nc-state-survey-says-self-driving-cars-are-safer-what-this-could-mean-for-future-of-the-roads/amp/"
+    type: article
+    provider:
+      name: cbs17.com
+      domain: cbs17.com
+    quality: 32
+    images:
+      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2019/09/car-dashboard_30940040_ver1.0.jpg?w=1280"
+        width: 1280
+        height: 699
+        isCached: true
   - title: "Self-driving cars could make traffic slower: Research"
     excerpt: "If we want to also improve travel time, an increase in automated vehicles isn't enough; we need vehicles that are capable of communicating with each other."
     publishedDateTime: 2023-08-15T14:39:00Z

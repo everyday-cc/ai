@@ -87,22 +87,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI software startup Modular aims to boost its series A contest against Nvidia"
-    excerpt: "AI startup Modular Inc. is reportedly in talks with investors regarding a large funding round that would value the company at approximately USD 600 million."
-    publishedDateTime: 2023-08-14T13:42:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/ai-software-startup-modular-aims-to-boost-its-series-a-contest-against-nvidia/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-software-startup-modular-aims-to-boost-its-series-a-contest-against-nvidia/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-software-startup-modular-aims-to-boost-its-series-a-contest-against-nvidia/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 54
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/AI-software-startup-Modular-aims-to-boost-its-series-A-contest-against-Nvidia.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Saudi Arabia giving an arm and a leg for Nvidia chips"
     excerpt: "AI arms race in the desert sands Saudi Arabia is buying up thousands of the high-performance Nvidia chips crucial for building artificial intelligence software to join in the global AI arms race. Saudi Arabia has bought at least 3,"
     publishedDateTime: 2023-08-16T10:40:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-startup-anthropic-gets-100m-to-build
 webUrl: "https://venturebeat.com/ai/ai-startup-anthropic-gets-100m-to-build-custom-llm-for-telecom-industry/"
 type: article
 quality: 66
-heat: 136
+heat: 106
 published: true
 
 provider:
@@ -28,36 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Antrhopic gets $100M to build custom LLM for telecom industry"
-    excerpt: "AI startup Anthropic has raised $100 million from Korean telecom major SK Telecom to build custom large language models."
-    publishedDateTime: 2023-08-14T14:07:00Z
-    webUrl: "https://venturebeat.com/ai/ai-startup-antrhopic-gets-100m-to-build-custom-llm-for-telecom-industry/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1323198492-e1653330450993.jpg?fit=750%2C493&#038;strip=all"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Google-backed AI startup raises $100 million from South Korean telecom giant"
-    excerpt: "South Korea's SK Telecom has invested $100m in artificial intelligence (AI) start-up Anthropic. The move boosts the country's top telecoms firm in its"
-    publishedDateTime: 2023-08-14T14:40:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-backed-ai-startup-raises-100-million-from-south-korean-telecom-giant/articleshow/102729664.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-backed-ai-startup-raises-100-million-from-south-korean-telecom-giant/amp_articleshow/102729664.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-backed-ai-startup-raises-100-million-from-south-korean-telecom-giant/amp_articleshow/102729664.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/photo/msid-102729724/102729724.jpg"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "AI Startup Anthropic Raises More Cash — $100M From South Korea’s SK Telecom"
     excerpt: "Anthropic raised a $100M round from SK Telecom, as South Korea's largest telco looks to grow its AI-related telecommunications business."
     publishedDateTime: 2023-08-14T16:36:00Z
@@ -109,15 +79,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 13
-  - title: "SK Telecom invests $100m in generative AI startup Anthropic, will create LLM for telcos"
-    excerpt: "South Korean telecoms company SK Telecom has invested $100 million in buzzy generative AI startup Anthropic."
-    publishedDateTime: 2023-08-14T13:04:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/sk-telecom-invests-100m-in-generative-ai-startup-anthropic-will-create-llm-for-telcos/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 9
 
 secured: "Cv4obc35BtSaJEpaAmjFeI9nRZBzLrS8dZnlv63R08PmmJrJA1pMd/R5Kc8V2rM3zB8QZx67DmLDNXQVOlSOaqx8wQpk58cvCe4bYX9BDS6L5BWKVMz20iNAVqS4XbSadDFMXfpob7YMlX9HppCzLiw/mIB05uBbMbOpPzxJqGkH2QwaWYgnXoD58Vcd4Z9JO/fu/1g03t4f/M5qxYjufkVOe+GSnpQsG2B74Nu+x3lbUckT7yOLAQIlEY8FJNjD+IWGmDYnd8h8FXeHwLJUQC1dkDBAeqT1bFlj1I+JnGY4YEuwCH31aueNr1PDY9ut2rdh+UneU8Pho2+LAJdYw+29ayqLt0ccXZ61MdXmAiMvPgrQd7wSiqyl1OTdHLQCDq+lgpbPHdn37j/djhQH5bQP6sJYGtKgZNK5PHGi0X7ROxjRDG0CuIERyiSmv2MU74/nImZAK16+cVEOShUlFUKDzrDOEk5hDwEjnqWaNFYpqcdNvu9CSbnZFB1lX5OFMiDx3NpxXNQE7Jxd3K0vsg==;zkfjjArEeHVVSH3ec7m0Eg=="
 ---

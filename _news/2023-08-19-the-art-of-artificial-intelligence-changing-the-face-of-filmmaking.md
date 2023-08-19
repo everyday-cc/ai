@@ -8,8 +8,8 @@ webUrl: "https://www.financialexpress.com/business/blockchain-the-art-of-artific
 ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-art-of-artificial-intelligence-changing-the-face-of-filmmaking-3215131/lite/"
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-art-of-artificial-intelligence-changing-the-face-of-filmmaking-3215131/lite/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T182052.360.jpg"
@@ -41,6 +42,6 @@ related:
         height: 512
         isCached: true
 
-secured: "aGLZYqhCoAJAGpMjNoCZEM+xR/GBp2kYh3cVi1gHEnrKKbldkYIqXJb4VlIE4YaExFv+nPkPFWvp7PgnFFTTU1nnVbt6Hi3QFRVXEVMbhP+JDgRKqq2Sz/bym0t2KXUcbNGe/bCNon8j4kOAJHbdatFZifjujtYd/Z2PF0pbvYehTExj4g4ulcmQuuMbfUguFEmd0WPP3OdO59rn2EJK1HEU6FhPfHub9rmYG9Sa6WIfeJcdVTZ6BxzqeE+hpQstQnuAWVdl1kP1h+w4vvWyhTLsYZxyWFjGx03xsFNv4N5g8Gj111E8XNaee0Snq8sm2PRs8oFwyliLKJmMHcK8EYHX9A25YjK9++ceARc+bn4=;p00+voJxvV1VaXx2l508Rw=="
+secured: "9OmV+A08SofDLA55xTRF9zb9kgtPaTGGAEmWhDEjnr1meALFWd8F7bjGQ+Fp4Z2yGoAo9YWkHP0pnD1V7E2lxL0U9wxBY0eSLqWDhWviSmgMnElBAFR7wXKLVTbFxO/Hqsxvn/nj4vvCGla/bDOOfGvgUBtipTWx/KePzAp+vQOiYoVIwFReQD/GM0bIE4U2D1e2g30PdnF0PIMVObSPL3WF+eUpgcyXpV/d7/5B/a9x/z/2KUbiCKtFq1aqd9a5GDp2ognxbaST9ZoyaOYUUB8Zf7d/zAgNxwrRsZnb5V15Ij8kd9dgc8tIKTWDV1XsffseAmfv+vouDtsW47vPdFCO/XlOhtGwydKW5cgRwiu4FSyn9BplLJ9TsGPzrEdExNvGIqaGmR/Hz2rvH3mQxLQUzAbbce4UDj0924omZnnWcrLHk2qaJfGaDQpnvCqTOEBvcWd5sGzochJo0vEQz2iqQF8qftPlgtk15hCQNopfUSvQgNKK4Uv8X4t8tmbf6V8sduskuVACzhW2udMWLA==;Ztbi1mU/TKr6fsBgNzJTuQ=="
 ---
 

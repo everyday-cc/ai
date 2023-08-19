@@ -101,22 +101,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI software startup Modular aims to boost its series A contest against Nvidia"
-    excerpt: "AI startup Modular Inc. is reportedly in talks with investors regarding a large funding round that would value the company at approximately USD 600 million."
-    publishedDateTime: 2023-08-14T13:42:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/ai-software-startup-modular-aims-to-boost-its-series-a-contest-against-nvidia/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-software-startup-modular-aims-to-boost-its-series-a-contest-against-nvidia/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-software-startup-modular-aims-to-boost-its-series-a-contest-against-nvidia/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 54
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/AI-software-startup-Modular-aims-to-boost-its-series-A-contest-against-Nvidia.jpg"
-        width: 1500
-        height: 844
-        isCached: true
 
 secured: "HrzIYZGzpRWIsJRuT/GIVMhALRJAKrXzx3nS8KpI4Abdwt0kJDi9Xq7Jwwmwd/ot++TfWm4KWTNPGOEy7hUSC2YhFoF7Ic6gxdZaW908h3/xCkg7VSU0GZ08G/Me7lt6Z7KIkbCTn+Glcwcl0U4bkvHMlmB6jHP56FeXmACUxSrW2YqfzXys4eMxF9irPq5Z51SLOR3T9btUX+2RY3sLAc2GtpUQbC7g7GeyUDGY0jNuQw1AdMjSyhykya2d37ci2sfzPWtipCGXiQC01qw41fwzqi7XdJq021GNE7IAxWWP8cWmT7hg7Dv37RMZKZ0mhWVf2jaz09l41hQgfyIj1+Lsvj6KnteBoBL28xjwIH4=;vFurOF6heGIWdX3/x+/SPQ=="
 ---

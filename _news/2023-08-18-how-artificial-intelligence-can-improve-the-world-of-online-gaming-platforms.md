@@ -64,6 +64,15 @@ related:
         width: 321
         height: 480
         isCached: true
+  - title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
+    excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
+    publishedDateTime: 2023-08-18T19:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store-1032567301"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "SQream Expands its End-To-End Low-Code Analytics Platform with Flex Connector AI Assistant"
     excerpt: "New features leveraging AI and LLMs establish Panoply as the easiest end-to-end analytics platform for SMEs to obtain critical business insights without complicated code. TEL AVIV"
     publishedDateTime: 2023-08-15T17:47:00Z
@@ -78,24 +87,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "UT professors embracing, preparing for AI use in classrooms"
-    excerpt: "As a new academic year rapidly approaches for The University of Texas at Austin, it is working to balance fostering a learning environment with AI while preventing cheating among college students."
-    publishedDateTime: 2023-08-14T13:45:00Z
-    webUrl: "https://www.kxan.com/news/education/ut-professors-embracing-preparing-for-ai-use-in-classrooms/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 19
-  - title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
-    excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
-    publishedDateTime: 2023-08-18T17:58:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/08/18/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
 
 secured: "uoha6isaOxObyq51z8fr1TcUM9D8o17KrbS0HZ1K4GZBwt+YyNzqaTbyqiREXPeJ/102IlYq2T9extsTQKq7LkS3kMYEQvRUr62owjGBVqP3W015dMwx41+8MHZv87bgPs0yOTHTA/MbxvQB9QlkR+rQJaAoYR/ixXiIxoYsfN+bBkMb3tx4AgmgjAHMq6VFVV/Om589xEHunXCgYXUsRW4H/YuRfMcNwGMf5wlrS6aOc44peI7Dt4IAyOK96BA+XsBYS/pFQtbmFAtL+/PLabiD17YBo44NUkQcmKJ1WPFH0swTUYwCcEQLKBovMEkby/tsed9S/XWlcwYfDO3zRHozOI6kq7THCwW0Cyo8BAPiA70WqiqyGNhR8kdBc0pXoq+pnatk9lqsYYRCwVobdVA+tCnudsFIMaVEAP+E9HDU0jN24hqmXwBMJ0rzaEx8pib2N+jPT8NWcqpiqTgqv2ezYlL3OwSZ33OlDABZFyhzYDUzcFym3PtO21z7YvHhtH/3ZAlILQleHYZgCbUW/A==;rB7ocQW1qf6bYea0GDOYMw=="
 ---

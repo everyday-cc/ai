@@ -43,7 +43,37 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Govt building 'Bhashini' an AI-powered language translation platform: PM Modi at G20 meet"
+    excerpt: "Prime Minister Narendra Modi on Saturday said India is an ideal testing lab for solutions and underlined that the solutions that succeed in the country can be easily applied anywhere in the world. In his virtual address at the G20 Digital Economy Working Group Ministers Meet here in the city,"
+    publishedDateTime: 2023-08-19T06:25:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/india/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet/videoshow/102851839.cms"
+    ampWebUrl: "https://m.economictimes.com/news/india/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet/amp_videoshow/102851839.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet/amp_videoshow/102851839.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://img.etimg.com/thumb/width-600,height-450,msid-102851839,imgsize-19880/govt-building-bhashini-an-ai-powered-language-translation-platform-pm-modi-at-g20-meet.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "News Live: Govt building 'Bhashini' an AI-powered language translation platform for digital inclusion, says Modi"
+    excerpt: "#WATCH | \"...More than 45% of global real-time payments happen in India...The CoWIN portal supported India's vaccination drive...We are building 'Bhashini' an AI-powered language translation platform. It will support digital inclusion in all the diverse languages in India...,\"… pic.twitter.com/zxOoF2P9bs"
+    publishedDateTime: 2023-08-19T00:28:00Z
+    webUrl: "https://www.deccanherald.com/india/india-karnataka-august-19-chandrayaan-3-punjab-himachal-pradesh-rains-gurguram-delhi-world-news-2653241"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 18
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2023-08%2F2d6340e5-8cf1-4af2-9fc5-394f47b56ec1%2Ffm_ani.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "g1hI9Er/UnJEeuvWf4nhyy3IdXsv+kDkCtt+gDWSaV9EQSS0vW9Pz0/VN/3pkx4LETHZ4gMfHkOlOv1RK8kuozLvx7I4n9PwCoFF+C4O99E+68IYFDH9ti+p39KNHXuIxvRGPlgdhvv+y4veux6y7boWtE/RN07OR1TnZVEUQ0eoIKQ1maowerkzPXWCIPK1SJtwCa5RlbDJnToQfgZ+mFxiW+plJvGfCia/OYC7876KL6l0iIu7qwxFNVLkFyvZvYfKfXJS8uQn1E/PlJ8sTXUeEelnD66qODIXXjiWRXoArjHPe0hOEkaqWSMsbDazKkjjahKSrz6mtW82GbfskKenV3VncrFJOiuUhneOfBg=;QjzJS5VmgBWTET9FQhTtAg=="
+secured: "BP+59ienQ2T6hPJwybfIekYM3UhJJnEpoxZbI7m93NRvrnGPriyPfBcDSSopSPMIGas8Br2Txq3s5lU+tuFsS2EH9nMBqvhIRiIC9agV5J61qr6pVGGO/LqTESdehKFL0HT0xak9DD+0/q7PYSsnAaOP5DavkEzntwZij1Y12U3Evhi+54is0VJwtgd0t8+k1ifWxQ+IY6vQfTKZbn0Z7t5vgVLKX6HPb46oP2wIQ3F1oXTIyOUmpm8qPJGdBqogwJQ7j2o80l/eJJ1Hbpva0hn8zfi6PTezkjv1sTEX60pm6XiHFY5b2l2Rhpq01FA48C2s2V/Kua6cT6BCJpXNWcxSK6TMuO+gfg6nDjlDCPmMvo8v5aPZNEqEcp64PqrUSxcjQixdniOxPn8DW/63zmmX8KltsN1ocHkQxv5BuAuHyJnCWkIfNWZBZp+BwO2URBMRgjmN4NBkpgPcl974/z8mX8qHP4fS4lhQRVSJehal+WjEU/KTvRIE0i8RJ3AgHy6yJcoUwUeXznNvYptbeA==;EQExEYAuJ7lTw7a8qiwlPw=="
 ---
 

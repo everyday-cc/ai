@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Prenups: Recent Controversies Over Plans for Perpetuity"
-    excerpt: "The case law surrounding the interpretation and enforcement of prenuptial agreements has become more profound and robust as time has worn on, making it interesting to and essential for family, estate and divorce law practitioners to review recent judicial precedents on a regular,"
-    publishedDateTime: 2023-08-14T13:28:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2023/08/14/prenups-recent-controversies-over-plans-for-perpetuity/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 4
-
 secured: "rBGcs8YHsmMELI8dbDM41/GeTNeBq8vKVHfq0k1WH1fMBxkcJ4hGt/rUNG+5R1YM2zPIrVAjOAln2h3mBmil3X1AecmMt+CTAivfVhTq3tPoo5CruTbikZ+9mQ1Q4NDdCIafPYO0c9/Dik91je48R2BrApek8BpGSomNI1jgeM6I1HycUHC3vjpCgmOV828Xdsf4HJkLPIjDuXRgey6eEXK8z4VMRF7T6JMicAPqG19X0UqtGp6y4VWBNSKh/wXdXnqO9mofm+QsyAHQeV+BMgDEZNojisKJH77ahTPf6gk4O7LJL2e6Yy8LYeGHvV/TlyrIZYqgnRX21G7yLpOLm4Ku8yn1LL7zX9gCGrPEOoE=;WCHqT/u23xVNalUJa6p0uQ=="
 ---
 

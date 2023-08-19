@@ -2,17 +2,21 @@
 category: news
 title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
 excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
-publishedDateTime: 2023-08-18T17:58:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2023/08/18/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store"
-webUrl: "https://stockhouse.com/news/press-releases/2023/08/18/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store"
+publishedDateTime: 2023-08-18T19:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store-1032567301"
+webUrl: "https://markets.businessinsider.com/news/stocks/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store-1032567301"
 type: article
-quality: 17
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -79,15 +83,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "UT professors embracing, preparing for AI use in classrooms"
-    excerpt: "As a new academic year rapidly approaches for The University of Texas at Austin, it is working to balance fostering a learning environment with AI while preventing cheating among college students."
-    publishedDateTime: 2023-08-14T13:45:00Z
-    webUrl: "https://www.kxan.com/news/education/ut-professors-embracing-preparing-for-ai-use-in-classrooms/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 19
   - title: "How Artificial Intelligence Can Improve the World of Online Gaming Platforms"
     excerpt: "In the realm of contemporary history, few topics have captured as much attention as Artificial Intelligence. Its rapid integration has emerged as a pivotal influence across numerous sectors, including the online casino industry. As technology propels ..."
     publishedDateTime: 2023-08-17T19:50:00Z
@@ -98,6 +93,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "R/fdRkp8yCvg7xWk0JSm+noUW83cmTpz43yxf0oB5rtadgJAPOkr0+6y+Topd1ARcFNcPcb+dy9oYMMjznjoHECZgCFf+gPAJb2bhIrQpsDFhD23psgqOX0ZIOfDysBBcV6Ost4vbB//HdffvF0qlxtiIRS0e4YHUaq1E3a4UxyDCtAofVVu/xrVeIJjPfqpKrgcjId3BCifP/RCUpIyIvXh8j7MXicl7bHePFAXA0gpUc/MSvKPK7VDdNMcL9BJtNjHNqQKPgwqgjWsJT92sk5QRE2vYCvLIRz9jVMOflS8PDRzruqQ2mGg7U6X6wWr4wwBbgAt8uqkPwomQqDzTCjZ8QB7RsHDGzKMHk5xmaQ=;oc0SI7Gy/eqzzTgA66DkYg=="
+secured: "SvzGozd2pa+plXpDfHc7kLAMRmCWwLX903oV3uwIaAgkamwNxSsZF04Oir4+Um0ymXCLhM4waBV6ul4Aqi/eOmv0OPZQaoCYTga7zCoSOcNuD/ToQad7Nm/QLK9FO7xoEf+oWHR5brT3LXT8xSL9+u4+P0Mr5xRem5qZpLjvxxu9EK5CD9B+DxmExeydCqTb4wE6rZLvWiQy+i0QkZHlJS8JUaaBJJlgt3u6xguSike+hSTutRAlGQURueeNZy+34PsLUGkDWwt98mlE76c8SCxhxeawavEU99Wcqkw01fesCoViFcj3yUhO0zqKn4i89idGwcbRxqAnsZrCVlhj4Bs+1OCLDucrZv77FZtRqzM=;F7mk02QSPTdczikaSYZ5gw=="
 ---
 

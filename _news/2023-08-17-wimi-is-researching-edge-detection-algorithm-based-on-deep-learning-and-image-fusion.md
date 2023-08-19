@@ -24,21 +24,21 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Object recognition through vision, hearing and touch—it's time to let go of the learning styles myth"
-    excerpt: "The idea that individual people are visual, auditory or kinesthetic learners and learn better if instructed according to these learning styles is one of the most enduring neuroscience myths in education."
-    publishedDateTime: 2023-08-14T14:30:00Z
-    webUrl: "https://phys.org/news/2023-08-recognition-vision-touchit-styles-myth.html"
-    ampWebUrl: "https://phys.org/news/2023-08-recognition-vision-touchit-styles-myth.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-recognition-vision-touchit-styles-myth.amp"
+  - title: "Biased artificial intelligence needs human help to avoid harmful climate action, say researchers"
+    excerpt: "Bias in the collection of data on which artificial intelligence (AI) computer programs depend can limit the usefulness of this rapidly growing tool for climate scientists predicting future scenarios and guiding global action,"
+    publishedDateTime: 2023-08-17T09:00:00Z
+    webUrl: "https://phys.org/news/2023-08-biased-artificial-intelligence-human-climate.html"
+    ampWebUrl: "https://phys.org/news/2023-08-biased-artificial-intelligence-human-climate.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-biased-artificial-intelligence-human-climate.amp"
     type: article
     provider:
       name: Phys.org
       domain: phys.org
     quality: 44
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/object-recognition-thr.jpg"
-        width: 1280
-        height: 1239
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-artificialin.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "0Nv4A4ap+Cqb0hAadEmWSMhFk6NzmSkNtUtbBaq7ZD+KCXBH4FOR3KN0ONNx/XOpvJ/RUvkhPltMJvV/s61SZdBAxiIWlNliBxynxmArXr/Crl3S+oaqsAaAjqKOlUkePmTSkGEsBz95SR7X/6YB4R66SlQR28kYmBl4lmqUaHK9XR7GTCsC3QDl2Un51riAUmXVNqs1rCH8V5mYv/Idw9rUZY1TEonD05BsD4Chbm6vNM/LYQ5bPvJ8gHO79XiKwBU2BBAcrjH64gceJg0rUbHL5VEBdqpP7vIfh4oWZbT5KpxFwoalMSLApY2uu+PWqnNjRsGtqq53euenPV/HNQi5vAc9XaSdLWTFsBU8ZGE=;NU0Qj2lqyRTy1BSdyl+HSA=="
