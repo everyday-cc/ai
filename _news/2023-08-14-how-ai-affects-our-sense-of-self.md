@@ -23,6 +23,17 @@ images:
     height: 1116
     isCached: true
 
+related:
+  - title: "Evidence of AI bias mounts"
+    excerpt: "Another study has identified distinct political bias in one of the major large language models used to inform generative AI chatbots."
+    publishedDateTime: 2023-08-17T11:15:00Z
+    webUrl: "https://telecoms.com/523177/evidence-of-ai-bias-mounts/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 19
+
 secured: "7h+3ktZoSR8VNHu7MBNYAt1p3cSoPQTHcZB44tqkny60gmi+NdwS8vZSe1/MdzVfS3nwxg0HNHZ5OjXkdcagAtzLBm4kdenhsFmHy5dN9HmXNo7wd3DBXS4YY6FJeHPhgW6tovkXyqUoNdmUvro7TLmvpdZ7Ih1jLwcHRUsXcd3QWKKh8kAHykj2YEryGFfpmfZ4EtO4Zivk+WG57Ls1tm0LkYPzaDgCVMPCTayTH0+xX7Ew5st2wYvgR3GNMD8gkgO98UOjexZH2rikrVdbubuBO3RSG1qK+ZKuoQSyqTFFfsjCsp/iJlnWRRNIpF0U1n/IsSIZYWsc9aCV2WtW2L/90p5vF3nmCQ29YtGu/i9ugngioQlNT65hp7JY29s3NaCmtIsXkzrgeja71qvuLTrzZ7UnKpXUHdffLqSmiJ0SiJh1DuuHDJOdVTwrCntQsGSvI10tvsM54pupHUiqy2TdLdXyQ9mV5+rpF6kCWuShFvW0q3AzPOy7FoZaH8oLOh/y1V/GLfQJdYc9LdrMLw==;SkNK8v9JJc7jaGJfMK7DiQ=="
 ---
 

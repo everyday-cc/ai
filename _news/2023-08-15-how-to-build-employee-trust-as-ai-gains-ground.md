@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3704494/how-to-build-employee-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.amp.html"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,93 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "How to take action against AI bias"
-    excerpt: "Given the growing popularity of ChatGPT and generative AI, and the emergence of synthetic data (or artificially manufactured information), data scientists must be the custodians of data. Training data scientists to better curate data and implement ethical practices for collecting and cleaning data will be a necessary step."
-    publishedDateTime: 2023-08-14T09:03:00Z
-    webUrl: "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.html"
-    ampWebUrl: "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html"
+  - title: "How To Cultivate Your Employees’ Artificial Intelligence Skillset"
+    excerpt: "Founder of 11:11 Partners, a firm that helps create leadership teams at the intersection of their skill set and passion. As the CEO of a company, I’m supporting my employees as they learn to master the technology themselves. Investing in your employees ..."
+    publishedDateTime: 2023-08-14T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/14/how-to-cultivate-your-employees-artificial-intelligence-skillset/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/01/diversity_team_collabotion_paper-cutout-people-100745850-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How to use Windows 11 Copilot AI"
-    excerpt: "The Windows Copilot AI is now available for Windows early adopters in the Insider program. Here's how to use it."
-    publishedDateTime: 2023-08-15T17:13:00Z
-    webUrl: "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/08/summarizedocuments.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The New York Times is the latest to go to battle against AI scrapers"
-    excerpt: "The development adds to the mess of lawsuits and pushbacks that AI makers are facing from copyright owners."
-    publishedDateTime: 2023-08-16T22:00:00Z
-    webUrl: "https://www.popsci.com/technology/nyt-generative-ai/"
-    ampWebUrl: "https://www.popsci.com/technology/nyt-generative-ai/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/nyt-generative-ai/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/08/15/marco-lenti-19CYdO70ss4-unsplash.jpg?auto=webp"
-        width: 2000
-        height: 1121
-        isCached: true
-  - title: "Biased artificial intelligence needs human help to avoid harmful climate action, say researchers"
-    excerpt: "Bias in the collection of data on which artificial intelligence (AI) computer programs depend can limit the usefulness of this rapidly growing tool for climate scientists predicting future scenarios and guiding global action,"
-    publishedDateTime: 2023-08-17T09:00:00Z
-    webUrl: "https://phys.org/news/2023-08-biased-artificial-intelligence-human-climate.html"
-    ampWebUrl: "https://phys.org/news/2023-08-biased-artificial-intelligence-human-climate.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-biased-artificial-intelligence-human-climate.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-artificialin.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Foundations Seek to Advance AI for Good, Protect Against Threats"
-    excerpt: "While technology experts sound the alarm on the pace of AI development, philanthropists have been responding with an uptick in grants."
-    publishedDateTime: 2023-08-14T08:50:00Z
-    webUrl: "https://businessjournaldaily.com/foundations-seek-to-advance-ai-for-good-protect-against-threats/"
-    type: article
-    provider:
-      name: Business Journal Daily
-      domain: businessjournaldaily.com
-    quality: 39
-    images:
-      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/08/artificial-intelligence.png"
-        width: 925
-        height: 520
-        isCached: true
-  - title: "Evidence of AI bias mounts"
-    excerpt: "Another study has identified distinct political bias in one of the major large language models used to inform generative AI chatbots."
-    publishedDateTime: 2023-08-17T11:15:00Z
-    webUrl: "https://telecoms.com/523177/evidence-of-ai-bias-mounts/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "yvKbF4DU87WDssYWpL/ArCIpazt5s7fT+p2pTrHN44vXU+SMHDIoo/xHXdbOqRB8KHHLf3bV+JzuNAfoPr+b7bFxQEoMD4OSKLOL7h/nlY4i44iApusEUCBVr8XjY8117FHzyPJKU3UrJMg0qWmAZ7905E/lduyiPEfbnsN+o7MJguIqBQRDOkD9qXTDSYTR3GOLVJYxkPuVonwm/bgIVBWFmmvqKWfnJJRxUEe3jcS8U9n8rginyKtP/vNEocljQv96pndELf7oLTFJ0cJj2IT94nBP1qbmt9LHLIdW5MRKYMe3iFLdu9xWg8mnj5kbiPfCHd3nWKFPm1fJSLZkU+CdG+UFMcfdBFpjXTyqn3iaA3tA5nChzkLEELvZtmo9aS5BLvBRLmIizPX3Y2Pid87TnmgmIOQMO54p1hu7GoLJpZ0fBAQfnaQwsrb9GicJCXXIQkMc0+aZi2qmDQQFZeZ8//mkpdx+7AdCxwOxCFHRExsOxxN7clQpl5Fv/XfVnv42BPzueeFL8BNFAm6X0A==;7YUQAC/AQ9Kj0L51pGk/Wg=="
 ---

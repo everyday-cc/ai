@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/biz/news.asp?feed=2000"
 webUrl: "https://www.digitimes.com/biz/news.asp?feed=2000"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 366
     isCached: true
-
-related:
-  - title: "UMP Introduces Artificial Intelligence Technology for Enhanced Chest X-Ray Analysis Efficiency"
-    excerpt: "UMP Healthcare Holdings Limited (\"UMP \" or the \"Group\", stock code: 722.HK) is pleased to announce the signing of a memorandum of understanding (MOU) with Imsight Technology Company Limited, specialised in providing artificial intelligence (AI) medical imaging analysis solutions."
-    publishedDateTime: 2023-08-14T08:21:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/14/9863595.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/2184845/Group_photo.jpg"
-        width: 400
-        height: 244
-        isCached: true
 
 secured: "b1JII/9dMNTL8q2kT1/fXYaYAUqk7ewJGjODPH9xotzdh2MuMSKjKHs8RB1taowZCytm+y9f36Fi/2OY6msoLWBHeFGkDFVdHFafsJFZ9wkh6NTgHVRu6oDTu7gK59QTNq2YimwYbXAwdhi3r0e0WsNpKNI08IQDTUy+2xU25LMs7qX7vLScioF2DHtSRf4COO6MohL6bqy1g3+ivPj15BMeXi0XK9HSvxOoM1w5Q1/B4Qmr7fmgXONHlp3rwuROITw1YRijhNkga4IvFHrfwSGFeUWqWX5uYHPGLc6H4SvPWCCY1P0hymo1+or4qljDFmXo/0LVdxDXIjmzMMX3pwWLGdrHNy0V9dPDb/V6deE=;QALUZdITJtya6kc9pyl0Zw=="
 ---

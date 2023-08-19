@@ -69,6 +69,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
+  - title: "Generative Artificial Intelligence (AI) Powerplay Research Report 2023: Emerging Technologies Unleashed - How Big Tech Aims to Revolutionize Sectors"
+    excerpt: "DUBLIN, Aug. 18, 2023 /PRNewswire/ -- The \"Generative Artificial Intelligence (AI) Powerplay: What's in the Big Tech AI Playbook\" report has been added to ResearchAndMarkets.com's offering. The almost overnight success of OpenAI's ChatGPT has caused a ..."
+    publishedDateTime: 2023-08-19T01:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33929941/generative-artificial-intelligence-ai-powerplay-research-report-2023-emerging-technologies-unleash"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33929941"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33929941"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "JAGGAER Recognized Again in 2023 Gartner® Hype Cycle™ for Artificial Intelligence"
     excerpt: "JAGGAER, a global leader in Autonomous Commerce, today announced that it has been named for the third year in a row as a Sample Vendor in the Gartner® Hype Cycle™ for Artificial Intelligence, 2023. The source-to-pay (S2P) technology provider is included in the category of Intelligent Applications."
     publishedDateTime: 2023-08-15T14:33:00Z

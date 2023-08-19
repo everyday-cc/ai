@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-continuous-automated-red-teaming-cart
 webUrl: "https://www.ibm.com/blog/how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://image.chitra.live/api/v1/wps/18c3663/65af51a2-a183-426f-b96e-2dd42c31da17/8/security-padlock-iStock-1182226451-s-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "This week in enterprise: Gen AI hype, cybersecurity leaders and laggards, and Cisco’s tech spending boost"
+    excerpt: "The outlook was positive as well. For its fiscal first quarter, the company expects adjusted earnings of $1.15 to $1.17 a share, up 40% at the midpoint, on a 16% to 18% rise in revenue, to as much as $1.85 billion. For the full year, the revenue forecast is a tick higher, between 18% and 19%, with adjusted earnings up 19% to 22%."
+    publishedDateTime: 2023-08-19T00:19:00Z
+    webUrl: "https://siliconangle.com/2023/08/18/week-enterprise-gen-ai-hype-cybersecurity-leaders-laggards-cisco-tech-spending-boost/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 20
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/aibacklash.jpeg"
+        width: 1019
+        height: 757
         isCached: true
 
 secured: "e/zCNm0Ez3Z/VgHcDapfPb28Eb4QLofG8ljY5DgGH9lTwKyYb4axIzWrTkwwK52v3FZ3cNu4QKj7gCrANGf0u4H3bpBMn2GcxyOdRJZ13w+g0OZe0vpHJsXM0D9io3XtcaDCnJJH00Lwn0roB3v9ZcknP4r5WAFibmZW/1hQOdH/RQ3QLluFpgex5aTZXfMgepn7ezE1u/HHmhygaAvjGcPQSQbBnANq1hJuZE523MMOU8y9X9sswWGCDdltIg6xjV6OHCjEw99/BDD4LzAMIBCydJ7wY8U7cIqqhGm4hnMqcrgUImeF/4TuZ7Rg+flAsICsZWSHalhYH3882JByGY+SsO1WQGnj687e88l05r4=;ykYiFH47CDDDQhqrZ8kR/w=="

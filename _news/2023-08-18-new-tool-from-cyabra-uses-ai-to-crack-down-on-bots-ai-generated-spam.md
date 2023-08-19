@@ -24,20 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "California Legislature adopts an AI-drafted resolution on artificial intelligence use"
-    excerpt: "The California Legislature has adopted an artificial intelligence-drafted resolution expressing the state's pledge to examine and implement regulations on AI use."
-    publishedDateTime: 2023-08-16T21:39:00Z
-    webUrl: "https://almanacnews.com/news/2023/08/16/california-legislature-adopts-an-ai-drafted-resolution-on-artificial-intelligence-use"
+  - title: "How to use Windows 11 Copilot AI"
+    excerpt: "The Windows Copilot AI is now available for Windows early adopters in the Insider program. Here's how to use it."
+    publishedDateTime: 2023-08-15T17:13:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp"
     type: article
     provider:
-      name: Almanac
-      domain: almanacnews.com
-    quality: 45
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
     images:
-      - url: "https://almanacnews.com/news/photos/2023/august/15/65215_col.jpg"
-        width: 1850
-        height: 1300
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/08/summarizedocuments.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Five ways to use AI responsibly"
+    excerpt: "However, Cousineau says one thing is already clear from these nascent moves: \"Responsible AI has to be embedded in ethics throughout the entire lifecycle.\" Also: Today's AI boom will amplify social problems if we don't act now Her views on the importance ..."
+    publishedDateTime: 2023-08-14T12:01:00Z
+    webUrl: "https://www.zdnet.com/article/five-ways-to-use-ai-responsibly/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
 
 secured: "Tz6Lhor613UDB4Td4NGppQ29VZrszdHP6e4JgREqeEE2OTRI4cP458pv17P3W8Qihe+YnVWL2WwJSl4PjIBd6YfgApRgzA27oQc0ko0CG9JpPvKX+C8xfTQkOGOvkiQqrCuXyy2M3LnHwrFrnEu0LrnfCsHUc+18D9sGZyTTVgxVB8wTtypetoo5wla9BU/veFZJ4qwlzJWZ+qY5jHt+Qd3RzigUd8w/NC2H0unPfqTz4Nk/T247wUJzhnZqiInUkpn23jQcjUx+QzUSTZNOrVmKo0zHfVhmjk64uWZsp4x7DZPY8Vr0xPvQRJNiMWBOecF72rfmK3YJcNkWtOKsakHanTZfdAmL65hEDlcKO2M=;pegwWjCC3nK7LuW7yQS+Zw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-a
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Digital Trends
@@ -30,93 +30,29 @@ images:
     isCached: true
 
 related:
-  - title: "How to take action against AI bias"
-    excerpt: "Given the growing popularity of ChatGPT and generative AI, and the emergence of synthetic data (or artificially manufactured information), data scientists must be the custodians of data. Training data scientists to better curate data and implement ethical practices for collecting and cleaning data will be a necessary step."
-    publishedDateTime: 2023-08-14T09:03:00Z
-    webUrl: "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.html"
-    ampWebUrl: "https://www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704495/how-to-take-action-against-ai-bias.amp.html"
+  - title: "Five ways to use AI responsibly"
+    excerpt: "However, Cousineau says one thing is already clear from these nascent moves: \"Responsible AI has to be embedded in ethics throughout the entire lifecycle.\" Also: Today's AI boom will amplify social problems if we don't act now Her views on the importance ..."
+    publishedDateTime: 2023-08-14T12:01:00Z
+    webUrl: "https://www.zdnet.com/article/five-ways-to-use-ai-responsibly/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
+  - title: "New tool from Cyabra uses AI to crack down on bots, AI-generated spam"
+    excerpt: "A social threat intelligence company is rolling out a new tool to help detect the presence of bot or spam accounts created with the use of artificial intelligence (AI). Cyabra, an Israel-based start-up, gained notoriety in 2022 when billionaire Elon Musk ..."
+    publishedDateTime: 2023-08-18T08:12:00Z
+    webUrl: "https://www.aol.com/finance/tool-cyabra-uses-ai-crack-060006901.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
     images:
-      - url: "https://images.idgesg.net/images/article/2018/01/diversity_team_collabotion_paper-cutout-people-100745850-large.jpg?auto=webp&quality=85,70"
+      - url: "https://s.yimg.com/ny/api/res/1.2/hAdhlAyeUOEsIhT8p_zmKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/ebe2dc002aa9e7327d4343330a92e8fc"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "How to build employee trust as AI gains ground"
-    excerpt: "One in four workers do not feel trusted by their employer, and as more organizations roll out or pilot AI platforms to unlock efficiencies, employees are fearful of being replaced by a machine."
-    publishedDateTime: 2023-08-15T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.html"
-    ampWebUrl: "https://www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/shutterstockelnur-100944620-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "The New York Times is the latest to go to battle against AI scrapers"
-    excerpt: "The development adds to the mess of lawsuits and pushbacks that AI makers are facing from copyright owners."
-    publishedDateTime: 2023-08-16T22:00:00Z
-    webUrl: "https://www.popsci.com/technology/nyt-generative-ai/"
-    ampWebUrl: "https://www.popsci.com/technology/nyt-generative-ai/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/nyt-generative-ai/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/08/15/marco-lenti-19CYdO70ss4-unsplash.jpg?auto=webp"
-        width: 2000
-        height: 1121
-        isCached: true
-  - title: "Biased artificial intelligence needs human help to avoid harmful climate action, say researchers"
-    excerpt: "Bias in the collection of data on which artificial intelligence (AI) computer programs depend can limit the usefulness of this rapidly growing tool for climate scientists predicting future scenarios and guiding global action,"
-    publishedDateTime: 2023-08-17T09:00:00Z
-    webUrl: "https://phys.org/news/2023-08-biased-artificial-intelligence-human-climate.html"
-    ampWebUrl: "https://phys.org/news/2023-08-biased-artificial-intelligence-human-climate.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-biased-artificial-intelligence-human-climate.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-artificialin.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Foundations Seek to Advance AI for Good, Protect Against Threats"
-    excerpt: "While technology experts sound the alarm on the pace of AI development, philanthropists have been responding with an uptick in grants."
-    publishedDateTime: 2023-08-14T08:50:00Z
-    webUrl: "https://businessjournaldaily.com/foundations-seek-to-advance-ai-for-good-protect-against-threats/"
-    type: article
-    provider:
-      name: Business Journal Daily
-      domain: businessjournaldaily.com
-    quality: 39
-    images:
-      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/08/artificial-intelligence.png"
-        width: 925
-        height: 520
-        isCached: true
-  - title: "Evidence of AI bias mounts"
-    excerpt: "Another study has identified distinct political bias in one of the major large language models used to inform generative AI chatbots."
-    publishedDateTime: 2023-08-17T11:15:00Z
-    webUrl: "https://telecoms.com/523177/evidence-of-ai-bias-mounts/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 19
 
 secured: "038H+AFgO6QRupexWVfg1vxfsk06UsBbOa22DZ/6EXT6gOuGvoYWIYSVa9I7rkVx9CvpYBPQS1OBnF58cOKNmoSkrFyC4SFnP5HDDcPOofDHXznm9phLrezODHHTfFeGfMwdpLbx00O3OoLKHDacOn8C/BhOC2x0lQnpPDmwPmQyfPNhb0xtDGtSMQkdOIujwvIkicM2RqsbmfIOh72+IRureSFGUskE+UecF+u1gzz2oRaea1LrkrbmAZgySM0Z2vJsvjEm2xIJo4Oys9yBKRwL/q/5pcryIKzvZylZCwdgYEDxnaE+RhSaUPueCaa/zwbOHFvoP5v1Tr+FLWcIT/0w8pwovVx96dvaqA1xO8yB8Muk7B9t2yzFipVeCCJVVOEDYHgu59nEY9oO18mkrRHQuiBtv7rVKqyOheLcx3PzXCiJyFdKhh8uc/V+nkUHYHgzIWiKJncVBchafF11yyW9WbE5eMCKvmrRhYr1thMIW0J5jWOIzUKt2XOpvb0W8NQQjq8tp1HSERrM4ZkwGg==;qewS9UK3Yt6+ElrydWJm6w=="
 ---

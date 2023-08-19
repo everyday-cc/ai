@@ -58,6 +58,20 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "This week in enterprise: Gen AI hype, cybersecurity leaders and laggards, and Cisco’s tech spending boost"
+    excerpt: "The outlook was positive as well. For its fiscal first quarter, the company expects adjusted earnings of $1.15 to $1.17 a share, up 40% at the midpoint, on a 16% to 18% rise in revenue, to as much as $1.85 billion. For the full year, the revenue forecast is a tick higher, between 18% and 19%, with adjusted earnings up 19% to 22%."
+    publishedDateTime: 2023-08-19T00:19:00Z
+    webUrl: "https://siliconangle.com/2023/08/18/week-enterprise-gen-ai-hype-cybersecurity-leaders-laggards-cisco-tech-spending-boost/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 20
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/aibacklash.jpeg"
+        width: 1019
+        height: 757
+        isCached: true
 
 secured: "e9aiz2h4tut+rUtKCf31whUZ0UOEgy2Y0arHwdEG8w522oomwYxMsRRec1k51gEuPxspWVEfoYVqQ1bGecxkhkDksm9geNnve7kyiuvzhfG06zSssrccyM/jP580z/dkJdeSU+k4XH870wQR/QLYACFnQAD5rptGrXUd2DcmGDGnoiWhpyZkHttjfOSYow9H7IHNek6bAXYR4kflztV3H2hc/w6k77boQncpvL0iGKjXrHjL86NGUUpk6syjAuCatdgDTLzXMoY9Od5qi3c6HUaGq6ZNBSVq0Z/zXNlCMToitKXo+0La1Aqozb1bk5rUlq/h+lUW6iCdonkYB8F4N9eQrD1fj7R6ylM3k3f/h119yfJY55RjMhbt5x0V0HEKFOp7Lcqr3Gp8BY5/N/iwzfmn1IoD3UjwKssi/y1LF4ieQTQB9mYHB/Gx5Gdv2npinfHSp8gk7pqIz4yNMO/FBxOnu79qqCt6R5kocTimMcJwRgIrXmlh62dKOs7Y9ILUolPbRixy0wvY2QYfUtGUbA==;/LtzuGht7lT2lEo/aAe7tg=="
 ---

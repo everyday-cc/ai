@@ -7,7 +7,7 @@ originalUrl: "https://betakit.com/fintech-vertical-sluggish-as-investors-worry-o
 webUrl: "https://betakit.com/fintech-vertical-sluggish-as-investors-worry-over-economy-kpmg-report-says/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 1050
     height: 735
     isCached: true
+
+related:
+  - title: "SFF takes over FinTech Stage at Techsauce Global Summit 2023"
+    excerpt: "Taking over the FinTech stage at Asia’s leading tech conference, SFF held court with a series of sessions under the theme of “Data-driven ESG: Empowering Sustainability and Inclusion with AI”, closing with an exclusive SFF Spotlight networking ..."
+    publishedDateTime: 2023-08-18T09:30:00Z
+    webUrl: "https://www.thaipr.net/en/exhibition_en/3371896"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 24
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/08/91.jpg"
+        width: 659
+        height: 1024
+        isCached: true
+  - title: "FinTech LIVE: Digital Ecosystems Forum"
+    excerpt: "Join experts from Canapi Ventures, First Horizon Bank & Able AI at FinTech LIVE NY discussing digital ecosystems, VC trends & innovation"
+    publishedDateTime: 2023-08-18T12:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-live-digital-ecosystems-forum"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "sMyoIJrzxHaumRK3tOMJbKvpvmL3Vu6QHLST+uib1DgkMuAwMnJPx1BYPPImsMVE8ifFhfoYUWIXbfF7y5rXfjYJbA+7Li35PacBZrECHsg5IH1kVj6VUUPR4cFFE1L4FImgDi4I1WQZa6rH45zxgmfY1GOsJ8C6qLwCOwpXXWU6MhIpWU4BYq4aBPpX2N0tZGNeZ3H9I1PgPYEm9+xKqDg4YzSTG0974Yse8p0P2qnSiTkWl5Y2w8Etu+WPXTFLjYRWEKdUGucSwtKpNXoTYDCrlip4whxKB5V9A00jQR9VJ0OCmVOOYDDhnBb40iGp9vvaC9p54sNwzJFBpjZzKhczichqr3mDmoRaR6nauB3WTwrvioG37OdoUUjjr11ptvOnzkcyVc7i+Erf2BOtDVnwILXHCr+84/1z1HG4xzkgx35xik5X+vLGdvJUThIVj/53HVAfNH7pPgiGHtA31akNlmZyMDSD6zKmjIIAd35ZrZ9io7Lt9qhHC1xv4f/FfiIEoV5mU95YVCi1xrVQgQ==;N91DE2DzOcOcbna9hIOdiA=="
 ---

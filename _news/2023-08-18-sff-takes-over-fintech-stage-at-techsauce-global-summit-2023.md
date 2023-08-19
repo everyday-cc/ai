@@ -7,7 +7,7 @@ originalUrl: "https://www.thaipr.net/en/exhibition_en/3371896"
 webUrl: "https://www.thaipr.net/en/exhibition_en/3371896"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Alliance signs partnerships with regional fintech groups"
-    excerpt: "The Fintech Alliance PH INDX3D Summit 2023 ... leveraging Artificial Intelligence (AI) for transformative change, ensuring fiscal health, and fortifying digital financial infrastructure. Attendees were exposed to a spectrum of visionary ideas, breakthrough ..."
-    publishedDateTime: 2023-08-14T07:45:00Z
-    webUrl: "https://businessmirror.com.ph/2023/08/14/fintech-alliance-signs-partnerships-with-regional-fintech-groups/"
+  - title: "FinTech vertical sluggish as investors worry over economy, KPMG report says"
+    excerpt: "Georges Pigeon, a partner in KPMG in Canada’s deal advisory practice, says the early and seed-round activity suggests that investors are interested in funding young, innovative companies at reasonable valuations – a positive sign for the health and growth of Canada’s FinTech ecosystem."
+    publishedDateTime: 2023-08-17T20:49:00Z
+    webUrl: "https://betakit.com/fintech-vertical-sluggish-as-investors-worry-over-economy-kpmg-report-says/"
     type: article
     provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 24
+      name: BetaKit
+      domain: betakit.com
+    quality: 22
     images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/08/Fintech-1-1.jpg"
-        width: 1000
-        height: 666
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/08/lxrcbsv-vVHXeu0YNbk-unsplash-1.jpg"
+        width: 1050
+        height: 735
         isCached: true
   - title: "FinTech LIVE: Digital Ecosystems Forum"
     excerpt: "Join experts from Canapi Ventures, First Horizon Bank & Able AI at FinTech LIVE NY discussing digital ecosystems, VC trends & innovation"

@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/ai-startup-anthropic-gets-100m-to-build
 webUrl: "https://venturebeat.com/ai/ai-startup-anthropic-gets-100m-to-build-custom-llm-for-telecom-industry/"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 146
+published: true
 
 provider:
   name: VentureBeat
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Anthropic raises $100M from Korean telco giant SK Telecom"
-    excerpt: "Most recently, the Google-backed generative AI startup has released its updated version, Claude Instant 1.2, which incorporates the strengths of Claude 2, its second-generation AI chatbot. Claude’s use cases for the telco industry will include ..."
-    publishedDateTime: 2023-08-14T07:54:00Z
-    webUrl: "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/"
-    ampWebUrl: "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/Anthropic_logo_art.png?w=1080"
-        width: 1080
-        height: 608
-        isCached: true
   - title: "AI startup Antrhopic gets $100M to build custom LLM for telecom industry"
     excerpt: "AI startup Anthropic has raised $100 million from Korean telecom major SK Telecom to build custom large language models."
     publishedDateTime: 2023-08-14T14:07:00Z
@@ -87,20 +71,6 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
         width: 900
         height: 506
-        isCached: true
-  - title: "South Korea telco giant to invest $100m in AI start-up Anthropic"
-    excerpt: "Multiple reports suggest SK Telecom is set to build new multilingual models and an AI platform with Anthropic, the creator of Claude."
-    publishedDateTime: 2023-08-14T07:38:00Z
-    webUrl: "https://www.siliconrepublic.com/comms/sk-telecom-anthropic-investment-stake-funding-ai-platform"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/a-7.jpeg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "SF startup Anthropic, chief OpenAI rival, raises another $100M"
     excerpt: "San Francisco AI startup Anthropic has secured an additional $100 million in funding just three months after raising $450 million in venture capital."

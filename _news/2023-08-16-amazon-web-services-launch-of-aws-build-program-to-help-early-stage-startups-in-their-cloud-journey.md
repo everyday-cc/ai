@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "New AWS Build Program helps early-stage startups get ideas off the ground"
-    excerpt: "The 10-week program will provide early-stage startups with business and technical guidance to successfully launch their applications in the AWS"
-    publishedDateTime: 2023-08-14T08:35:00Z
-    webUrl: "https://manilastandard.net/tech/314360522/new-aws-build-program-helps-early-stage-startups-get-ideas-off-the-ground.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 18
   - title: "New AWS Build Program Helps Early-Stage Startups Get Their Ideas Off The Ground"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of AWS Build, a new global program designed to support entrepreneurs early in their cloud journey to build,"
     publishedDateTime: 2023-08-15T06:44:00Z

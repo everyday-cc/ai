@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intel
 webUrl: "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1"
 type: article
 quality: 78
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2022/04/Microsoft.png"
         width: 1500
         height: 800
+        isCached: true
+  - title: "Microsoft says that AI is the new “tidal wave”"
+    excerpt: "This is a repeat of 1995 Microsoft is repeating a memo that Sir William Gates III wrote about the internet in 1995 only this time it is talking about AI. For those who were not born then, Gates penned a memo claiming the Internet would be a tidal wave impacting every aspect of Vole’s business."
+    publishedDateTime: 2023-08-19T01:07:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57440-microsoft-says-that-ai-is-the-new-tidal-wave"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/61ed7a60defa0d278c1c5bb209d57645_L.jpg"
+        width: 620
+        height: 464
         isCached: true
   - title: "Microsoft Planning New AI Service With Databricks After OpenAI Success: Report"
     excerpt: "The new AI service will reportedly use Databricks' software and will be sold through Microsoft Azure CEO Satya Nadella previously hinted at a possible trio product integration with Databricks and OpenAI Databricks recently announced a deal to acquire ..."

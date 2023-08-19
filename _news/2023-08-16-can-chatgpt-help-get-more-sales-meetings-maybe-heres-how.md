@@ -29,20 +29,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "ChatGPT brings big data center stage for managers"
-    excerpt: "The launch of large language models such as ChatGPT this year has left money managers scrambling to explore applications and implications."
-    publishedDateTime: 2023-08-14T09:00:00Z
-    webUrl: "https://www.pionline.com/big-data/chatgpt-brings-big-data-center-stage-money-managers"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 24
-    images:
-      - url: "https://www.pionline.com/s3/files/styles/1200x630/public/AI-illustration-cropped-16-9.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How will the oil and gas industry use ChatGPT?"
     excerpt: "However, its use extends beyond the household and the classroom, and it is being eyed for a host of other industries. Follow along with GlobalSpec for an ongoing series examining how ChatGPT is being used in specific industries,"
     publishedDateTime: 2023-08-15T09:03:00Z

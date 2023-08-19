@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/international/satya-nadella-s-take-on-a
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/international/satya-nadella-s-take-on-ai-and-incorporation-into-microsoft-news-311814/amp"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

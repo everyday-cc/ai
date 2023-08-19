@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The 5 best AI books recommended by ChatGPT"
-    excerpt: "It is recommended for beginners as well as advanced AI enthusiasts. The book covers the latest research and developments in AI. Universities and institutions around the world use this book as a textbook."
-    publishedDateTime: 2023-08-14T07:36:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/08/14/1600x900/pexels-matheus-bertelli-16094043_1687844354160_1691998377504.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "How To Invest In ChatGPT"
     excerpt: "These include the Azure Bot Service, which allows businesses to create intelligent chatbots using Microsoft technologies, and Azure Cognitive Services to assist developers of natural language processing and translation tools. Brewin Dolphin’s Mr Moore ..."
     publishedDateTime: 2023-08-14T11:56:00Z

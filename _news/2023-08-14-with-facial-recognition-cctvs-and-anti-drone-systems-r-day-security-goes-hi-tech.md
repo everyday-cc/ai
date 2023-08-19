@@ -9,7 +9,7 @@ ampWebUrl: "https://m.rediff.com/amp/news/report/with-facial-recognition-cctvs-a
 cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 345
     height: 230
     isCached: true
-
-related:
-  - title: "I-Day: 10,000 cops, facial recognition cameras at Red Fort"
-    excerpt: "With Delhi gearing up to celebrate India's 77th Independence Day, foolproof security arrangements have been made all across Delhi and especially at the Red Fort from where PM Modi will address the nat"
-    publishedDateTime: 2023-08-14T07:34:00Z
-    webUrl: "https://www.newsbytesapp.com/news/india/i-day-10-000-cops-facial-recognition-cameras-at-red-fort/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 39
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l52920230814121829.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "dh6iZDP07TytMMNeJ7krljBA5AyAmZzT9qFsYfoPM/xNLa1c/9VzYUUAOAeXUZWv4JlSwSFImfQ/q78BxPPatH9hqLael/hnc+TOOId5seJtdRh2StZJXl0AsH4BF5oDENZYHjW2DCOdQ/xBHVj+vhln+us7OGdaj2G8A0iu6zDiF0ACJnMMnUItnmN9h7Bo662y9Ekc3A/vebLS5KW+Bx+4U6OIWEADL54duh8RyIzeyjnYivCe0nRnQMNr+Is+Z50dTfFpLi9rVFLjB2PBWq9OgGMD7OHcG9vBJw7+xrHlAU6CvGPysEfvJuLf3idvfftPqSlk/c4M4VDW4b28ES99FcLmsBOk0vCCkuvCXWMbSs8QBMkH/6RBTPVlkKA5UUrH8Og00AI0YrP3gcapGxksnjYYlOzIArVyamj09AqsOvu0GQt08+FmT+piTk1HnHx9Bc4VdqKZj+bwOhgIdcC5LSCnKisUffxJHy1/mnBnynsCoB/h24h5JbW4IoahGmC/x8b/hnEKMRTiHXVdnQ==;b9wrIzFCxHAxG5/gto/X2A=="
 ---

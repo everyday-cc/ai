@@ -37,6 +37,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Anthony Albanese tells Labor to campaign ‘like never before’ in Voice fight"
+    excerpt: "Anthony Albanese has called on the Labor Party to campaign “like never before”, telling them winning the Voice referendum will depend on grassroots activism."
+    publishedDateTime: 2023-08-19T01:32:00Z
+    webUrl: "https://www.news.com.au/finance/work/leaders/anthony-albanese-tells-labor-to-campaign-like-never-before-in-voice-fight/news-story/146c2a9ed89e92aadeb177d7cbeca2ee"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 17
   - title: "Prime Minister Anthony Albanese won't move to legislate an Indigenous Voice to Parliament if No vote defeats referendum"
     excerpt: "Anthony Albanese has said he won't move to legislate an Indigenous Voice to Parliament, should Australians vote against the constitutional change in this year's referendum."
     publishedDateTime: 2023-08-15T12:42:00Z

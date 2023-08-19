@@ -2,12 +2,14 @@
 category: news
 title: "AP, other news organizations develop standards for use of artificial intelligence in newsrooms"
 excerpt: "The Associated Press has issued guidelines for its journalists on use of artificial intelligence, saying the tool cannot be used to create publishable content and images for the news service"
-publishedDateTime: 2023-08-17T10:13:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324585"
-webUrl: "https://abcnews.go.com/Business/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324585"
+publishedDateTime: 2023-08-17T10:22:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324649"
+webUrl: "https://abcnews.go.com/Technology/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324649"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324649"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324649"
 type: article
-quality: 25
-heat: 25
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -23,6 +25,6 @@ images:
     height: 558
     isCached: true
 
-secured: "f74TVhdRCXKDBtgjaGn7IGV+0yKYk55Z5dfuTr/bBWU9djcNk8LB+bfp2xV/yFaTxHudwSG+/6TA5v+jx9vsA/GxLO6fFfmwRO/b+FxUK8imTSFWbWGmhE8QFdUIhU7JzJQEze4scK0wH8lDpf6JC648gzOoP1gobCIG+l9TqwLQa7EjSc799WPHRQufvShyAqSx9nm2XrD1YPjc97ow00PaQarFvuB0iUsMu3XZ64TvKr5EAZmExl/4+EomQTVEQ89ilMWg4Qn+7TtIdL/IHfS+hPclP94ieqA84moVXfyv6YAw48e1rJr6b8lnmA3zdjeCxs14k5xAUykhCt/P2OHnwzEPD0VkO6TmwEhSMVT6ZMwFq6XCcHozgheV+Aeb+5Uqo50yGa/okwN2EoWr41QyPQ6gZcEhMPdCCiGprQKXnXP7EuU9pHzFvxsrnz21FWX0nazww2vN986RhYWhbSHpTWR2Rq5i1pSYhwD9OPmYCnLNf8rRpHUYPt4NeUqfpO7WwtpgIPGhgXVaWhlsSQ==;bVODYb72iIE9H4GgzmkbfA=="
+secured: "AsMC9MlQrhVoRsxvbcnfa6wiiJ9sRxhztpz/LfsAIoG7m97Gk5RDMhys1r4XzUCd+K+zzv/WJBPLNBdSWw46ztaFz+yDv4aiI0/fW2v6vWsPhSzjRsQvHQJwnVMC/8hOX5p9LiGtW1en0PsKpOgZrX6PRgKasbNUG4ftWgh8XzeIpgJasp+Rh6A0kkRNeV/CzdqCJpopgJpw4s628/O074pMKOP1qmqyTrrVOVe2ulX/rH8YIvz7ZnJc9EWiVNZJewAlhu1klO3oWgeLKaA6Mi7DzgHHwcTzjadzXg7YinHWxRSYLbt4ugD/tyx/Qko9syE411GcQkaboM5DLq+9UBZyPrEpulvrtTJ3jAKRu0g=;XYFxG6b/NcpbwFQl1lmk9g=="
 ---
 

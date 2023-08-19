@@ -38,20 +38,6 @@ related:
         width: 2400
         height: 1260
         isCached: true
-  - title: "How generative AI correlates IT and business objectives to maximize business outcomes"
-    excerpt: "Incorporate generative AI into existing technologies — such as SAP, CPI interfaces, Signavio and Salesforce — to achieve targeted outcomes.\nThe post How generative AI correlates IT and business objectives to maximize business outcomes appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-14T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-generative-ai-correlates-it-and-business-objectives-to-maximize-business-outcomes/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 112
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/How-generative-AI-correlates-IT-and-business-objectives-to-maximize-business-outcomes.jpg"
-        width: 1080
-        height: 540
-        isCached: true
   - title: "Why Your Business Needs A Winning AI Strategy (And How To Build One)"
     excerpt: "Part of the challenge is the countless applications for AI within a business, and it’s often difficult for business leaders to determine where to start. Without a proper roadmap that looks for automation opportunities across the entire value chain ..."
     publishedDateTime: 2023-08-17T14:01:00Z

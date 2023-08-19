@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT brings big data center stage for managers"
-    excerpt: "The launch of large language models such as ChatGPT this year has left money managers scrambling to explore applications and implications."
-    publishedDateTime: 2023-08-14T09:00:00Z
-    webUrl: "https://www.pionline.com/big-data/chatgpt-brings-big-data-center-stage-money-managers"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 24
-    images:
-      - url: "https://www.pionline.com/s3/files/styles/1200x630/public/AI-illustration-cropped-16-9.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Can ChatGPT Help Get More Sales Meetings? Maybe. Here's How"
     excerpt: "Technology is transforming the work world one more time. This time, the charge is led by AI and Natural Language Processing — or NLP. IBM describes NLP this way: NLP combines computational linguistics — rule-based modeling of human language — with ..."
     publishedDateTime: 2023-08-16T15:35:00Z

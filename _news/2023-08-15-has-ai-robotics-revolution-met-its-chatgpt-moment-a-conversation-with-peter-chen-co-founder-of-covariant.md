@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/"
 type: article
 quality: 103
-heat: 193
+heat: 183
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/AdobeStock_502055402.jpeg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The 5 best AI books recommended by ChatGPT"
-    excerpt: "It is recommended for beginners as well as advanced AI enthusiasts. The book covers the latest research and developments in AI. Universities and institutions around the world use this book as a textbook."
-    publishedDateTime: 2023-08-14T07:36:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/the-5-best-ai-books-recommended-by-chatgpt-71691998344234.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/08/14/1600x900/pexels-matheus-bertelli-16094043_1687844354160_1691998377504.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "How artificial intelligence could change college football"
     excerpt: "The explosion of applications like ChatGPT has thrown many businesses into a new industrial revolution as new efficiencies could streamline workflow. That’s great for everyone but the humans who could be replaced by computers. Few industries escape at least the conversation of AI disruption and college football is far from exempt."
