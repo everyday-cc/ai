@@ -62,20 +62,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "This Showdown Between Humans and Chatbots Could Keep You Safe From Bad AI"
-    excerpt: "She has noticed when using chatbots for class research that they sometimes provide inaccurate information. Guardado, a Black woman, says she uses AI for lots of things, but errors like that and incidents where photo apps tried to lighten her skin or ..."
-    publishedDateTime: 2023-08-14T23:57:00Z
-    webUrl: "https://www.wired.com/story/showdown-humans-chatbots-defcon/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 70
-    images:
-      - url: "https://media.wired.com/photos/64da6a0c0a0f9ed43773f3db/191:100/w_1280,c_limit/Hackers-Take-A-Historic-Swing-at-Harmful-AI-Security-GettyImages-1170285788.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Google’s testing an AI chatbot that could be your personal life coach"
     excerpt: "Google is testing an AI chatbot that could act as a virtual life coach for users. The chatbot, developed by Google’s DeepMind team, is currently being"
     publishedDateTime: 2023-08-17T01:51:00Z
@@ -110,20 +96,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "Ascott leverages AI with new chatbot providing personalised services"
-    excerpt: "CapitaLand’s wholly owned lodging business unit, The Ascott Limited (Ascott) has launched an AI-powered chatbot named Cubby to enhance the journey of its guests by being their travel buddy and supporting Ascott‘s growth."
-    publishedDateTime: 2023-08-15T00:00:00Z
-    webUrl: "https://www.marketing-interactive.com/ascott-leverages-ai-with-new-chatbot-providing-personalised-services"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 39
-    images:
-      - url: "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/by_year_month/2023-august/ascott_ai.jpg?auto_optimize=medium"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Google’s working beyond Bard to evolve the AI chatbot market"
     excerpt: "Google may be stumbling out of the gate a bit with its latest large language model chat bot Bard, but it looks like the company may already be looking for a"
     publishedDateTime: 2023-08-16T14:33:00Z

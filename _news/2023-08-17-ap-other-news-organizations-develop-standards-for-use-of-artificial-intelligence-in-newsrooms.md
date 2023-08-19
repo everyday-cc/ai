@@ -3,11 +3,13 @@ category: news
 title: "AP, other news organizations develop standards for use of artificial intelligence in newsrooms"
 excerpt: "The Associated Press has issued guidelines for its journalists on use of artificial intelligence, saying the tool cannot be used to create publishable content and images for the news service"
 publishedDateTime: 2023-08-17T10:22:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324647"
-webUrl: "https://abcnews.go.com/Business/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324647"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324649"
+webUrl: "https://abcnews.go.com/Technology/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324649"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324649"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ap-news-organizations-develop-standards-artificial-intelligence-newsrooms-102324649"
 type: article
-quality: 25
-heat: 25
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -23,6 +25,6 @@ images:
     height: 558
     isCached: true
 
-secured: "7TaE2+qGK7Yzl1j9POwUIekxVHofzIHIDZzTTJWYY5cb8V0rjd+GTOIL0wWkFgWUpJo+walaCzZcAUEJ2mg2VeucmpyWgVL/db65FSkXxSzQ/vdTspNDcy0gXf086UV8Af4ErksrqsLCO4tmbvK2dPJJa8Rv0w+r8Nh4Y2sPpeB/rEyehA0yVwoZUvZ26IdNgSk+VifzadgrCREMZkiKzrSPPQPCqARmCaAmjcEXcpv/Dxqc9L+NxYYpKHv8sBeKGuxg1WPwS/lql7kE+C3mSZ78I1jvrYfrpQM9ohd/0r/h3Oqw+1FpHufciD28pYc6ACsA6t5w9QbKqV77sNfbhm8h/Ds4qdtR8xGZJJ5KSDKWsOD/MB2+ujDLjlQ8h7OMdiNrylSxmlqKnHQdAtubbR5SmScO60amwD71r4r0IfCU8g3ZcvfvlMGznTmod3jCQMfCSFlTX2TEe1pZf2HCyD6PHo1Y/L8D7ALGtESkNAWFi4CJmBU2aM8T7YLoAUmqzkI0NcZ/CCDlvG6ALUsOHg==;FFmqopuA7741SLrpp8ys9w=="
+secured: "/AzwIowGSqCUQj1BtWgVFhZwtEx9Tyup9SuY83NIcInbiRAh9w8Kk8H6qpsDAG+9XLrW0G8elCmIQTWSFoqRt2MUJ2hNZbj7dx3QI7sKlsXTtEKLPV+2hRAhF4TI5HE5zt+/k7OV0XYcV/OC/hw9+HIzytwSkLAuO1+9bk8Vhf9z6BZ57tH+XN3A+IBsq/iXcW4+IOywdjcweYDp20hOypl2BJV0s2gsSiiBY7CcvlSxZAQp1YU/RAOdeYV12z1yegjbYjfGBRoH6nSEgMBIZ5GNtHS1SDZ8cCemG2kQy0FapeSc5bVxw5+Jet1figbC7zeBtkv8udwvPFjNaHaA8CaqcOU/vRGX2yJS0YFXZVA=;O5mPm0TQ2PQQrcyqSKqvKA=="
 ---
 

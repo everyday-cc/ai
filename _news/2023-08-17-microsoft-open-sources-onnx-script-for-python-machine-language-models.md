@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-17T16:37:00Z
 originalUrl: "https://visualstudiomagazine.com/articles/2023/08/17/onnx-script.aspx"
 webUrl: "https://visualstudiomagazine.com/articles/2023/08/17/onnx-script.aspx"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - Microsoft AI
   - Facebook AI
+  - Machine Learning
 
 images:
   - url: "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/0913vsm_McCaffery.jpg"

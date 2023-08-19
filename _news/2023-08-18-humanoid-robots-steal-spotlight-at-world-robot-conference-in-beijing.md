@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Humanoid robots at first AI media conference deny intentions of replacing humans"
-    excerpt: "Sitting or standing alongside their creators in Geneva, Switzerland on Friday, nine AI-enabled humanoid robots responded to media queries in real time, albeit with occasional lapses or delays."
-    publishedDateTime: 2023-08-15T00:00:00Z
-    webUrl: "https://en.mercopress.com/2023/07/08/humanoid-robots-at-first-ai-media-conference-deny-intentions-of-replacing-humans"
-    type: article
-    provider:
-      name: MercoPress
-      domain: mercopress.com
-    quality: 49
-    images:
-      - url: "https://en.mercopress.com/data/cache/noticias/95146/600x315/robot-sophia.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Journos vs. Robots: Associated Press Declares Stance Against AI"
     excerpt: "Engrossed in the discussion, a select group of over two dozen bipartisan figures from the Capitol Hill listened attentively. Among them were D.C. policy analysts, legal experts, and chiefs of staff, carefully enjoying their breakfast fruit tarts."
     publishedDateTime: 2023-08-17T13:34:00Z

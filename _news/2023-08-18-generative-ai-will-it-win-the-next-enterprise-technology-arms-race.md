@@ -188,6 +188,20 @@ related:
       name: Rochester Business Journal
       domain: rbj.net
     quality: 34
+  - title: "VMware’s future: Navigating multicloud complexity and generative AI under Broadcom’s wing"
+    excerpt: "Bottom line: AI is increasingly influencing the IT landscape, with ramifications on spending patterns and technology adoption. Although VMware seems poised to leverage this trend, the success might hinge on how effectively they can address software gaps and fortify data partnerships to provide more competitive AI solutions."
+    publishedDateTime: 2023-08-19T15:42:00Z
+    webUrl: "https://siliconangle.com/2023/08/19/vmwares-future-navigating-multicloud-complexity-generative-ai-broadcoms-wing/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/AdobeStock_327843433_Editorial_Use_Only.jpeg"
+        width: 3200
+        height: 2133
+        isCached: true
   - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
     excerpt: "ARMONK, N.Y., Aug. 17, 2023 /PRNewswire/ -- Today, IBM (NYSE: IBM) is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI - and deliver a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
     publishedDateTime: 2023-08-18T18:52:00Z

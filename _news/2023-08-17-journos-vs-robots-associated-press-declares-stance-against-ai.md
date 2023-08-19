@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Humanoid robots at first AI media conference deny intentions of replacing humans"
-    excerpt: "Sitting or standing alongside their creators in Geneva, Switzerland on Friday, nine AI-enabled humanoid robots responded to media queries in real time, albeit with occasional lapses or delays."
-    publishedDateTime: 2023-08-15T00:00:00Z
-    webUrl: "https://en.mercopress.com/2023/07/08/humanoid-robots-at-first-ai-media-conference-deny-intentions-of-replacing-humans"
-    type: article
-    provider:
-      name: MercoPress
-      domain: mercopress.com
-    quality: 49
-    images:
-      - url: "https://en.mercopress.com/data/cache/noticias/95146/600x315/robot-sophia.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Humanoid robots steal spotlight at World Robot Conference in Beijing"
     excerpt: "A visitor uses a phone in front of humanoid robots developed by EXRobots at the Beijing World Robot Conference (WRC) 2023 in Beijing, China, August 17. Chinese tech companies are venturing into human-like robotics in an attempt to cash in on the huge market opportunities in coming years."
     publishedDateTime: 2023-08-18T10:53:00Z

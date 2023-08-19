@@ -7,7 +7,7 @@ originalUrl: "https://www.insurancetimes.co.uk/news/majority-of-uk-insurance-exe
 webUrl: "https://www.insurancetimes.co.uk/news/majority-of-uk-insurance-executives-investing-in-ai-and-machine-learning/1445268.article"
 type: article
 quality: 55
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 1265
         height: 872
         isCached: true
-  - title: "Investing in Artificial Intelligence (AI)"
-    excerpt: "Artificial intelligence (AI) is still developing—along with related regulations and business uses—but it is likely to become ubiquitous. It won't be feasible to avoid exposure. Much like it's not practical to avoid being invested in \"the internet\" these days with companies across the spectrum of"
-    publishedDateTime: 2023-08-15T07:28:00Z
-    webUrl: "https://www.forexfactory.com/news/1236038-investing-in-artificial-intelligence-ai"
-    type: article
-    provider:
-      name: Forex Factory
-      domain: forexfactory.com
-    quality: 32
   - title: "Maine native accused of defrauding AI firm investors"
     excerpt: "The indictment alleges Brackett added a “5” at the beginning of the $94,420 balance to make it falsely appear as $594,420."
     publishedDateTime: 2023-08-16T19:50:00Z

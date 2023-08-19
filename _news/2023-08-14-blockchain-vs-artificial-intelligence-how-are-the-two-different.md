@@ -17,6 +17,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://techbullion.com/wp-content/uploads/2023/08/0_dw2aYhWZA42wnGhv.png"
+    width: 1000
+    height: 500
+    isCached: true
 
 related:
   - title: "Central Bank Digital Currency (CBDC) and blockchain enable the future of payments"
@@ -63,6 +70,6 @@ related:
       domain: pcquest.com
     quality: 13
 
-secured: "hgCKdDc5zUKezXA20md3CVmd1+Vk4vlna90EmgEW7KjYA31tx2ZcXhQJ5aGd00W6TXHRV3BeGZ3wugDAt0sr9w/oMDayniUIs9/eQ8hZBANu2cJY2U3nEsDflcDpfE4jJH+Esy8F259Ryot89aTZvicjD31Gw4HgqUA660IWHnIQzUOb81ldVvciBB/QTygpfpM5rpP7KnR5WKDqjbO1Q/pNGEES4XOIfTG3Y7TOE4KLHPIh62rPmJ1X8O7tSvp2UL9GYTy5Erpg/SKZ2PuAYys93slwD5UIGHijeKDFNuo1vme6rKJbKLpmSwL4BfsPPCb94RVcQh7Ku9dXs+/AOFIOQVLE1R7jA4Ofvrll6TUTiD2oawqLtwY022HbRhv4Rv3i+R9GIFHzpLnzBY3ekoNEWooUtW8bXR/4krpVDkbxKORbYk6EcOPcmazW5izhPO9X21VjwAtAQgKpq6zm08HMNK+NdhYOVsuMcaOUWceOhyMtrQfH0MSlNzPQJyoisIZZ6Kclgy2flVTjIJ+38w==;l3PfnNGu3c6dAriLvS6xNg=="
+secured: "qR+Aa+lFl+Vsq1aJllDLbwZIoYI8Z4DyaqhtVjq+8+fnT76vaazHADSM0XE48PF3TLA2Z5cVw3TW0wtnazBLLd0b9493OjdT62yCO60h0Rt18zmznZ9RQjDzIzAsGKovYs6q3vO2L7fC1S9gd95w+dv0H07hgx94wwMT6fZWdy7FgHtEO+o+5zRUx0hj9TnsOyhcnCb2R8Y0v5wX2dg+m+3fXSRZdlcH8k84IcKD9frSqt9W9qH/gDmfrY8fJGWQjfK1M0E1tCTDPfP1dOP9Q3lQnlyycBAhyUgbnuzYGgnwaFuYfviOgN9LV5iN9iskHDlld+fJ/EQ/SGvxYnyxy5Xg4htJzuyq/bZ+wy0tfLQ=;VywSTXkhepnKCSOGNT3cGg=="
 ---
 

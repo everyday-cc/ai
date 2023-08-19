@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Research reveals self-driving cars could make traffic slower"
+    excerpt: "According to a new study, \"connected\" vehicles, which wirelessly share data with one another, greatly enhance travel time through intersections – while automated vehicles can actually slow travel time through intersections if they are not connected to one another."
+    publishedDateTime: 2023-08-19T15:55:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2563867-research-reveals-self-driving-cars-could-make-traffic-slower"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 24
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_08_2023_15_54_52_5962139.jpg?width=920&format=jpeg"
+        width: 920
+        height: 690
+        isCached: true
 
 secured: "k1lzEJFAMj4d859/0XimpmBwIHvt+VhrOix3cpqAEVYYf9qekgqPO77Lnl+36eOLVk7gvWEzEziBASPEjr10l++MlGF5QywAtmP4ttMTea9PF55pOk+TDIfzflfcwf7DuJFkwweKCwMzEINrSYL+5E+ahEsJLjd4mfH8XWEYHHIgOh6TjfAH+D71Dkvgq4hn9qcIhgD+Mto4d7wpMs1Gy6KdcrhUgUBqBiwEWQWmiUNETsQsr5lMEGaGpKr+ZZBQGnnzIphI/wBYpsmWxRuzQ9l0y8BClhcjG9/oRRH6rAj+yRJHmHC1Yc23F+MtqD50h6PNvIhIpa06KB2n6xwGNa8JOEpyoZPlOD+cmnqRo74=;jwPi9MaPuQheBHy44Xwf1g=="
 ---

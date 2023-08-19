@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/sydney-isv-cloud-ground-control-teams-
 webUrl: "https://www.crn.com.au/news/sydney-isv-cloud-ground-control-teams-up-with-robotics-australia-group-599203"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 34
-  - title: "Cloud Ground Control and Robotics Australia Group enter new strategic partnership"
-    excerpt: "Cloud Ground Control says the partnership aims to facilitate the growth of a sustainable and internationally competitive national robotics industry through a focused, collaborative approach ..."
-    publishedDateTime: 2023-08-15T00:04:00Z
-    webUrl: "https://itwire.com/it-industry-news/deals/cloud-ground-control-and-robotics-australia-group-enter-new-strategic-partnership.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 29
 
 secured: "QQKBsTjXOvALMl/G7p/CXCBCy7RsFGrE52yS4KEra8u1iFk6NBlZL74SwTPAvzXTgaCMxOMizHbspkQxCe5tf5InhyClErd1gCKqf26sbGGX1crMAZ2+5WeFYWTXILWXmolRhkG+CQwInMRPjuB3Wc1YVMrNRFbBXHtgf7a/fPLOs7wETtv+tQjDmABCI0YWGmaf2IuKzIyJ7ybzEzBLIK1TMrxYofDQFr2Jy2+bw27DwIkCNQTkpNRBB7b1yLVSQRa/mOL7pBeQ3DMGbo77cFzs/QhUiQEG5H1h3o7AmDM/By0vDTPsgWX3U3FeOKlFEuVmUuhsAwgesNRuJ3Vhmnr2qP4/LML54ZTEdCeShK8=;ZV6Yi94LtC17/tzNK0eF0g=="
 ---
