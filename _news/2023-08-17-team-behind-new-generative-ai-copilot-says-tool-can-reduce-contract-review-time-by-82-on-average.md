@@ -135,6 +135,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Epic Is Integrating Abridge’s Generative AI Tool Into Its EHR"
+    excerpt: "Epic announced that it will integrate Abridge’s clinical documentation tool into its EHR workflow. The startup’s generative AI tool listens to visits and creates a near-instant summary that adheres to physicians’ prototypical note structure."
+    publishedDateTime: 2023-08-16T21:22:00Z
+    webUrl: "https://medcitynews.com/2023/08/epic-ehr-healthcare-generative-ai/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2023/06/TMX-image-1-e1687877713584-300x241.png"
+        width: 300
+        height: 241
+        isCached: true
   - title: "Zapata AI and IonQ Collaborate to Advance Generative AI Research"
     excerpt: "Zapata AI, a software company building solutions to enterprises’ most computationally complex problems, today announced it has entered a strategic all"
     publishedDateTime: 2023-08-15T16:01:00Z
@@ -143,6 +157,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 19
+  - title: "The Key People Driving Meta’s Generative AI Work"
+    excerpt: "As Meta Platforms has tried to cut costs and trim headcount over the past year, one area has emerged as an exception: generative artificial intelligence. Caught flat-footed by the explosion of interest in OpenAI’s ChatGPT,"
+    publishedDateTime: 2023-08-16T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/the-key-people-driving-metas-generative-ai-work"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
     quality: 19
   - title: "US military’s special task force will explore generative AI"
     excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."

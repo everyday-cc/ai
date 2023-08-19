@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-17-diagnostic-robotics-ai-advances-predictive-personalized-medicine.md",
+      "title": "Diagnostic Robotics AI Advances Predictive, Personalized Medicine",
+      "excerpt": "Startup Diagnostics Robotics is making steady progress towards a more predictive, personalized, even personal practice of healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/17/diagnostic-robotics-ai-advances-predictive-personalized-medicine/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/17/diagnostic-robotics-ai-advances-predictive-personalized-medicine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b54b7467fcc06271e9bcff/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/17/diagnostic-robotics-ai-advances-predictive-personalized-medicine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/17/diagnostic-robotics-ai-advances-predictive-personalized-medicine/amp/",
+      "publishedDateTime": "2023-07-17T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-ai-robotics-australia-oceania.md",
       "title": "AI Robotics - Australia & Oceania",
       "excerpt": "Value in the AI Robotics market is projected to reach US$359.80m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.26%, resulting in a market volume of US$972.20m by ...",
@@ -1316,58 +1368,6 @@
         "name": "Odisha TV",
         "domain": "odishatv.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-a-creepy-collective-of-nine-ai-based-robots-showcased-at-un-news-conference.md",
-      "title": "A creepy collective of nine AI-based robots showcased at UN news conference",
-      "excerpt": "As one of the world's leading institutions for ICT technology, the ITU is naturally highly interested in artificial intelligence and the increasingly prevalent new generation of",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99335-creepy-collective-nine-ai-based-robots-showcased-un.html",
-      "originalUrl": "https://www.techspot.com/news/99335-creepy-collective-nine-ai-based-robots-showcased-un.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-10-image-10.jpg",
-          "width": 2000,
-          "height": 1308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

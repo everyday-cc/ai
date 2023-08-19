@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI facial recognition led to 8-month pregnant woman's wrongful carjacking arrest in front of kids: lawsuit"
-    excerpt: "An eight-month pregnant woman, Porcha Woodruff, was arrested by Detroit police for a carjacking that she did not commit based on faulty AI-powered facial recognition."
-    publishedDateTime: 2023-08-14T06:00:00Z
-    webUrl: "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 86
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/07/340/340/Chris-Eberhart-Headshot-1.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "‘Are you kidding, carjacking?: The problem with facial recognition in policing"
     excerpt: "When a pregnant Black woman was falsely arrested, she fought back. Here’s what happened next. Plus, the week in AI"
     publishedDateTime: 2023-08-15T09:46:00Z

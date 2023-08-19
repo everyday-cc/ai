@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/otter-ai-partners-with-slac
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/otter-ai-partners-with-slack-to-share-meeting-insights-with-your-team/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

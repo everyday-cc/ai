@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-tops-gartners
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
 type: article
 quality: 87
-heat: 151
+heat: 147
 published: true
 
 provider:

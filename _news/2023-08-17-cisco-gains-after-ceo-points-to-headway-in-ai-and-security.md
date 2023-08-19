@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-08-16/cisco-gives-tep
 webUrl: "https://www.bloomberg.com/news/articles/2023-08-16/cisco-gives-tepid-annual-forecast-renewing-fears-of-slowdown"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg L.P.
@@ -23,15 +23,22 @@ topics:
   - AI in Security
 
 related:
-  - title: "Marpai CEO Talks About How The Company Is Using AI To Help Self-Insured Employers Improve Health Outcomes and Slash Healthcare Costs By 30%"
-    excerpt: "Edmundo Gonzalez sat down with Benzinga’s Jordan Robertson to talk about the rising trend of self-insured employers and how the AI company’s tech is helping them manage health plans and improve employee health outcomes."
-    publishedDateTime: 2023-08-14T12:05:00Z
-    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/08/33828042/marpai-ceo-talks-about-how-the-company-is-using-ai-to-help-self-insured-employers-improve-he"
+  - title: "Cisco CEO says AI is already becoming a huge new market after it 'missed' the initial cloud computing boom"
+    excerpt: "Cisco CEO says its demonstrating growing relevancy in AI infrastructure market after it \"missed\" the first cloud boom."
+    publishedDateTime: 2023-08-18T21:31:00Z
+    webUrl: "https://www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8?amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/64dfe024bd98a6001979d253?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "R185WukCD0p0vKfTPQKyJM6CNiUJdv69bJGiuipXvl6kUwg250zDA3WBbgsGgg97Hv05yLhkQPTfUsME02F9wGEHJv0iE5vk8AME+quDa9ThK/kOuBVA5qfqv5GjjVt4AtQXPmay5y3TLdqmV6Qr0PyoW4E7RVitP+nCJNYBKmdsUrSjGNY6GX+QnKtCWy70vT85noWWAmG3wpCjdOsUWXJJXMs+E9NpTLY4PKRNZgH4inx0e8XTUv4HPz0Y98JQ0zXzmGIcOTYDcsEG7WuTxydgTzPtWfDg2L4lw6NxFbONw8xOle98pDrMbAWWXr3M50EbKMT3sODKvHQNUOblhFKjZLeE14enOjOKXOOiVo9g06KH/kg7cpbgfAgMxtTvz/L1vOGWUeF17R5nrWNLQMjLiKxhcWYmOSjAL5qML9seuzSZI0JacDdyqS56QxBjWzfTD9dV8K1L1HecwGPyDk+aU45qFCEJ27iGZtZtpxijs2wEUP0q2Ty4/7rDdZLcBNJkKTlr8LG5RixbjS+BmA==;RdOHsetgsiGIcVysjkfOyw=="
 ---

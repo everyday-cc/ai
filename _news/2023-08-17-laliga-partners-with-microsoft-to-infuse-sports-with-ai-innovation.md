@@ -85,20 +85,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "ABB and Microsoft collaborate to bring generative AI to industrial applications"
-    excerpt: "Expanding on their long-standing partnership, ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability™ Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
-    publishedDateTime: 2023-08-14T06:32:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/abb-and-microsoft-collaborate-to-bring-generative-ai-to-industrial-applications-2023-08-14"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 50
-    images:
-      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001080035_resized_abbenablescustomerstorealizethebenefitsofdigitalizationthroughsixindustryvaluepillars1022.jpg"
-        width: 1022
-        height: 575
-        isCached: true
   - title: "Amazon chips will help to compete with Google, Microsoft in AI race, here’s how"
     excerpt: "Amazon aims to enter the generative artificial intelligence (AI) market and has begun developing microchips to compete against tech majors such as Goo"
     publishedDateTime: 2023-08-14T12:33:00Z

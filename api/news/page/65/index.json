@@ -2,6 +2,133 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-07-05-asset-lifecycle-management-best-practices-building-a-strategy-for-success.md",
+      "title": "Asset lifecycle management best practices: Building a strategy for success",
+      "excerpt": "Asset lifecycle management best practices that successful businesses use to care for their assets and extend their useful lives.\nThe post Asset lifecycle management best practices: Building a strategy for success appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/asset-lifecycle-management-best-practices-building-a-strategy-for-success/",
+      "originalUrl": "https://www.ibm.com/blog/asset-lifecycle-management-best-practices-building-a-strategy-for-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T05:53:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-the-hybrid-cloud-forecast-part-3.md",
+      "title": "The Hybrid Cloud Forecast: Part 3",
+      "excerpt": "If you have ever talked with one of them, you will know that IBM Fellows are storytellers. It’s part of their DNA. \nThe post The Hybrid Cloud Forecast: Part 3 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-part-3/",
+      "originalUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-part-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T05:51:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-diamir-biosciences-partners-with-jadbio-to-utilize-machine-learning-in-assay-development.md",
+      "title": "DiamiR Biosciences Partners with JADBio to Utilize Machine Learning in Assay Development",
+      "excerpt": "NEW HAVEN, Conn. and MONMOUTH JUNCTION, N.J. and LOS ANGELES, /PRNewswire/ -- DiamiR Biosciences, a developer of innovative non-invasive blood-based diagnostic tests for brain health and other diseases,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33113888/diamir-biosciences-partners-with-jadbio-to-utilize-machine-learning-in-assay-development",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33113888/diamir-biosciences-partners-with-jadbio-to-utilize-machine-learning-in-assay-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33113888",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33113888",
+      "publishedDateTime": "2023-07-05T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-pope-francis-takes-a-stand-on-ai-vatican-releases-ai-ethics-handbook.md",
       "title": "Pope Francis Takes a Stand on AI: Vatican Releases AI Ethics Handbook",
       "excerpt": "The Vatican has delved into artificial intelligence (AI) ethics by releasing an extensive handbook. The Pope Francis-founded Institute for Technology, Ethics, and Culture (ITEC) and the Markkula ...",
@@ -1048,162 +1175,6 @@
         "AI",
         "AWS AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-generative-ai-in-games-will-create-a-copyright-crisis.md",
-      "title": "Generative AI in Games Will Create a Copyright Crisis",
-      "excerpt": "Yet games like AI Dungeon (and games people have made with ChatGPT, such as Love in the Classroom) are built on models that have scraped human creativity in order to generate their own content. Fanfic writers are finding their ideas in writing tools like Sudowrite, which uses OpenAI’s GPT-3, the precursor to GPT-4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/video-games-ai-copyright/",
-      "originalUrl": "https://www.wired.com/story/video-games-ai-copyright/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64a43fe6c3f2cf2daf39fc6a/master/pass/Generative-AI-in-Games-Is-Sure-to-Cause-a-Copyright-Crisis-Culture-GettyImages-1407088969.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/video-games-ai-copyright/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/video-games-ai-copyright/amp",
-      "publishedDateTime": "2023-07-04T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-a-powerful-voice-of-freedom.md",
-      "title": "A Powerful Voice Of Freedom",
-      "excerpt": "Many speeches will be given today in recognition of America’s independence from Great Britain in 1776, but the quest for freedom is worldwide. For this year’s celebration, let’s look at a superb speech that addresses freedom with a universal perspective: the Nobel Peace Prize acceptance speech by Elie Wiesel,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jerryweissman/2023/07/04/a-powerful-voice-of-freedom/",
-      "originalUrl": "https://www.forbes.com/sites/jerryweissman/2023/07/04/a-powerful-voice-of-freedom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648c85e8fed59b2b38b1e992/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1758,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jerryweissman/2023/07/04/a-powerful-voice-of-freedom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jerryweissman/2023/07/04/a-powerful-voice-of-freedom/amp/",
-      "publishedDateTime": "2023-07-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-us-looks-to-cut-china-cloud-access-to-aws-azure-and-more.md",
-      "title": "US looks to cut China cloud access to AWS, Azure and more",
-      "excerpt": "The US and China have imposed various sanctions and rules to limit the supply of computing elements in an effort to prevent the other from getting access to potentially more powerful capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/pro/us-looks-to-cut-china-cloud-access-to-aws-azure-and-more",
-      "originalUrl": "https://www.techradar.com/pro/us-looks-to-cut-china-cloud-access-to-aws-azure-and-more",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-04T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

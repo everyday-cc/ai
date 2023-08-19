@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-16-ai-generated-books-are-sneaking-into-online-bookstores-heres-how-to-spot-them.md",
+      "title": "AI-generated books are sneaking into online bookstores. Here's how to spot them",
+      "excerpt": "As a reader, here are a couple of things you can try to spot AI-generated books before purchasing: Check the author's name and do a quick Google search: If an author actually wrote this book, it should be easy to find it on the author's official website, in the news of the book launch, in reader and book club forums, and in online libraries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-generated-books-are-sneaking-into-online-bookstores-heres-how-to-spot-them/",
+      "originalUrl": "https://www.zdnet.com/article/ai-generated-books-are-sneaking-into-online-bookstores-heres-how-to-spot-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1e6955a4ba3a31de61f9dd1277a428b2e42b70dc/2023/08/16/675b5100-32e0-4db2-88fb-64b4cfa7278e/robothands.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-generated-books-are-sneaking-into-online-bookstores-heres-how-to-spot-them/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-generated-books-are-sneaking-into-online-bookstores-heres-how-to-spot-them/",
+      "publishedDateTime": "2023-08-16T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-robotics-part-of-mid-year-success-for-ids-imaging.md",
       "title": "Robotics part of mid-year success for IDS Imaging",
       "excerpt": "IDS Imaging Development Systems, a leading industrial camera manufacturer, far exceeded industry expectations in the first half of 2023.",
@@ -313,7 +364,7 @@
       "originalUrl": "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 154,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -839,7 +890,7 @@
       "originalUrl": "https://techxplore.com/news/2023-08-ai-powerful-biologically-plausible.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1172,58 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-sex-in-self-driving-cars-passengers-are-reportedly-hooking-up-in-san-franciscos-driverless-taxis.md",
-      "title": "Sex in self-driving cars: Passengers are reportedly hooking up in San Francisco's driverless taxis",
-      "excerpt": "People are reportedly having sex during their driverless taxi rides in Cruise vehicles, despite company rules against \"inappropriate behavior.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8",
-      "originalUrl": "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64db8f675e5d5a00195e5656?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp",
-      "publishedDateTime": "2023-08-15T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

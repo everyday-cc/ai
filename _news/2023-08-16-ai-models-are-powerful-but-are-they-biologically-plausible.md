@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-08-ai-powerful-biologically-plausib
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-powerful-biologically-plausible.amp"
 type: article
 quality: 61
-heat: 75
+heat: 71
 published: true
 
 provider:

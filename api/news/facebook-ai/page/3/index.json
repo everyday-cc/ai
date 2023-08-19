@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-06-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign.md",
+      "title": "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign",
+      "excerpt": "NEW YORK – A super PAC supporting Miami Mayor Francis Suarez 's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickondetroit.com/news/politics/2023/07/05/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/",
+      "originalUrl": "https://www.clickondetroit.com/news/politics/2023/07/05/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/V3DDD4NO35DPDN6ML7AXSBMBQM.jpg?_a=ATAPphC0",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "clickondetroit.com",
+        "domain": "clickondetroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-business-leaders-fret-about-generative-ai-despite-growing-enterprise-adoption-study.md",
       "title": "Business leaders fret about generative AI despite growing enterprise adoption: Study",
       "excerpt": "The study found that 90% of business leaders anticipate adopting generative AI and that it will impact important organizational roles.",
@@ -1366,58 +1409,6 @@
         "name": "BBC",
         "domain": "bbc.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-conversational-ai-platform-market-research-2023-2030.md",
-      "title": "Conversational AI Platform Market Research, 2023-2030",
-      "excerpt": "Top “ Conversational AI Platform Market ” Size 2023 Key players Profiled in the Report are [, Clinc, Inbenta, AmplifyReach, FIS, Nuance Communication Inc., Baidu, Interactions, Avaamo, Facebook, Solvvy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/conversational-ai-platform-market-research-2023-2030-2023-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/conversational-ai-platform-market-research-2023-2030-2023-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

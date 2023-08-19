@@ -7,7 +7,7 @@ originalUrl: "https://www.itnews.com.au/news/7-eleven-australia-to-deploy-comput
 webUrl: "https://www.itnews.com.au/news/7-eleven-australia-to-deploy-computer-vision-in-some-stores-599314"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "7-Eleven Australia to deploy in-store computer vision for cashierless checkout"
-    excerpt: "The technology uses computer vision and machine learning similar to that of autonomous vehicles to track a product's location as it leaves the shelves, enters the basket, and leaves the store, and is tied to the customer app update called My 7-Eleven App Pay and Go 2.0 that will go live at the end of 2024."
-    publishedDateTime: 2023-08-18T10:33:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/7-eleven-australia-to-deploy-in-store-computer-vision-for-cashierless-checkout/"
+  - title: "Sydney ISV Cloud Ground Control teams up with Robotics Australia Group"
+    excerpt: "Sydney-based artificial intelligence and cloud robotics software vendor Cloud Ground Control has signed a strategic partnership with robotics sector body Robotics Australia Group. The partnership ..."
+    publishedDateTime: 2023-08-15T09:30:00Z
+    webUrl: "https://www.crn.com.au/news/sydney-isv-cloud-ground-control-teams-up-with-robotics-australia-group-599203"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/sandwich-customer-hero.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.nextmedia.com.au/News/CGC--Robotics-Australia.png"
+        width: 2048
+        height: 1132
         isCached: true
+  - title: "Australia can lead in ethical use of AI"
+    excerpt: "Australia is being urged to take a lead role in the regulation of AI, as the government looks to walk the tightrope between enabling innovation and ensuring AI-based language models are used ethically and responsibly. An industry panel hosted by The ..."
+    publishedDateTime: 2023-08-18T05:32:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/australia-can-lead-in-ethical-use-of-ai/news-story/3c9fc41083a678d2348f2b461f6c7799"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 34
   - title: "Cloud Ground Control and Robotics Australia Group enter new strategic partnership"
     excerpt: "Cloud Ground Control says the partnership aims to facilitate the growth of a sustainable and internationally competitive national robotics industry through a focused, collaborative approach ..."
     publishedDateTime: 2023-08-15T00:04:00Z

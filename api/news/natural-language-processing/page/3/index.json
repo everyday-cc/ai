@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-24-singapore-looks-for-generative-ai-use-cases-with-sandbox-options.md",
+      "title": "Singapore looks for generative AI use cases with sandbox options",
+      "excerpt": "Two sandboxes, including one for government applications, will run on Google Cloud's generative artificial intelligence toolsets and offered free for three months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/895aeaf4aa2aa3b3e3c2f8296b0e3d1868404385/2023/07/24/55c31eb6-f32d-4ad9-96b6-3e85306d46d7/cloudgettyimages-1251913187.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/",
+      "publishedDateTime": "2023-07-24T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-how-can-we-get-language-models-to-learn-more.md",
       "title": "How Can We Get Language Models To Learn More?",
       "excerpt": "Jacob Andreas is an assistant professor at CSAIL, EECS MIT and computer scientist known for his contributions to natural language processing and machine learning.",
@@ -1287,58 +1339,6 @@
         "name": "Statista",
         "domain": "statista.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-metas-newest-dataset-will-train-speech-recognition-engines-on-clusters-of-speakers.md",
-      "title": "Meta's newest dataset will train speech recognition engines on 'clusters' of speakers",
-      "excerpt": "A newly developed dataset from Meta AI, however, promises to improve the performance of such automatic speech recognition (ASR) tools by clustering speech at the “utterance level.” Meta has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
-      "originalUrl": "https://www.engadget.com/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/9aRjn7EnqUFxy2EgxRP1vg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/a3e522a0-201c-11ee-9bf9-cb8798daadaa.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
-      "publishedDateTime": "2023-07-13T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://bdaily.co.uk/articles/2023/08/14/pr-expert-putting-the-int
 webUrl: "https://bdaily.co.uk/articles/2023/08/14/pr-expert-putting-the-intelligence-in-ai-with-pay-as-you-prompt"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,61 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Is Generative AI Destroying The Internet?"
-    excerpt: "Explore the astonishing capabilities of generative AI as it blurs the lines between reality and digital deception, and discover the urgent race to safeguard the truth."
-    publishedDateTime: 2023-08-14T06:21:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/"
+  - title: "New rise in artificial intelligence \"expert\" jobs"
+    excerpt: "The rise of artificial intelligence has many concerned the technology could replace their jobs, but those well-versed in AI may actually be at a big advantage in the workplace. Adam Rogers, senior tech correspondent for Insider,"
+    publishedDateTime: 2023-08-17T20:10:00Z
+    webUrl: "https://www.cbsnews.com/video/new-rise-in-artificial-intelligence-expert-jobs/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d9c7c62d69c2f7f6635ebe/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 787
-        isCached: true
-  - title: "Latest Prompt Engineering Technique Aims To Get Certainty And Uncertainty Of Generative AI Directly On The Table And Out In The Open"
-    excerpt: "Most do not know that generative AI is showing you responses that have an implied certainty. Prompt engineering can make this explicit. Here's the deal."
-    publishedDateTime: 2023-08-18T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/18/latest-prompt-engineering-technique-aims-to-get-certainty-and-uncertainty-of-generative-ai-directly-on-the-table-and-out-in-the-open/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/18/latest-prompt-engineering-technique-aims-to-get-certainty-and-uncertainty-of-generative-ai-directly-on-the-table-and-out-in-the-open/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/18/latest-prompt-engineering-technique-aims-to-get-certainty-and-uncertainty-of-generative-ai-directly-on-the-table-and-out-in-the-open/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 58
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64decaf569374c283b0c8ded/0x0.jpg?format=jpg&crop=1915,1077,x0,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Epic Is Integrating Abridge’s Generative AI Tool Into Its EHR"
-    excerpt: "Epic announced that it will integrate Abridge’s clinical documentation tool into its EHR workflow. The startup’s generative AI tool listens to visits and creates a near-instant summary that adheres to physicians’ prototypical note structure."
-    publishedDateTime: 2023-08-16T21:22:00Z
-    webUrl: "https://medcitynews.com/2023/08/epic-ehr-healthcare-generative-ai/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 37
     images:
-      - url: "https://medcitynews.com/uploads/2023/06/TMX-image-1-e1687877713584-300x241.png"
-        width: 300
-        height: 241
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/17/f031107c-9cc1-49eb-bbe7-0f14c341eaaf/thumbnail/1200x630/b8fd4558c99f6cc9d408c7520bcf3d44/cbsn-fusion-new-rise-in-artificial-intelligence-expert-jobs-thumbnail-2215473-640x360.jpg?v=0b4ae642db52799a178d90d83603a9dc"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "The Key People Driving Meta’s Generative AI Work"
-    excerpt: "As Meta Platforms has tried to cut costs and trim headcount over the past year, one area has emerged as an exception: generative artificial intelligence. Caught flat-footed by the explosion of interest in OpenAI’s ChatGPT,"
-    publishedDateTime: 2023-08-16T13:00:00Z
-    webUrl: "https://www.theinformation.com/articles/the-key-people-driving-metas-generative-ai-work"
+  - title: "Human Intelligence: What a fashion instructor is teaching students about AI"
+    excerpt: "I think people, because of AI, will have less trust in what they're seeing on their screens. I think it's going to encourage more of an in-person relationship to product and specifically fashion.'"
+    publishedDateTime: 2023-08-18T18:21:00Z
+    webUrl: "https://www.bizjournals.com/portland/inno/stories/news/2023/08/18/human-intelligence-portland-fashion-institute-ai.html"
     type: article
     provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 19
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "/i8BGtK77HiZ0qV1UvX7jlZoj8Nz8SN7bc9Q13ZtQ6iKsuYvNNE/QpldliAb34fp47Dl/SzhkNsTqWmZj1ITttYdvfsfZa7T+0Vm7o5HCLUiap4yUP7gDzzenRBUzB9oNbl8DXWJxfrquJe0VudPf1DEFxgBp8aZv5LhU9iE04f7Jt/66KxQS74f+2oguA21fulGLIOlufhOkmbUDP4bQriL1BxtpXUzr3VoWJJcmZ+zwXBpoCoK1RUrmn6YF1sfe0P9DMWXJqnkqN0R+ZCvBPjmO1SMGSSVuePyRJMLJQfPW6LUi4pmkGWaxrAgTYyhI6IwJNajZYUNgWQU+Hr6BJh/0IQ/bQf/X4V6fGydtBk=;+4lhCkfrZ27PGRV6kwty+g=="
 ---

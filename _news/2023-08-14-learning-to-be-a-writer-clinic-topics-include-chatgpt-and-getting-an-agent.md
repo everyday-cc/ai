@@ -64,20 +64,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Understanding ChatGPT: Exploring the Technology Behind this Powerful AI Model"
-    excerpt: "Get to know the Generative Pre-Trained Transformer (GPT) better, before you consider putting it to any serious use."
-    publishedDateTime: 2023-08-14T06:17:00Z
-    webUrl: "https://www.electronicsforu.com/technology-trends/understanding-chatgpt"
+  - title: "The Rise of AI: 3 ChatGPT Stocks You Shouldn’t Miss Out On"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT has exploded onto the scene, making large language models and chatbots"
+    publishedDateTime: 2023-08-18T21:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-rise-of-ai-3-chatgpt-stocks-you-shouldnt-miss-out-on-1032567603"
     type: article
     provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 36
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/GPT-AI-1.jpg"
-        width: 500
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Google’s Gemini AI might be the best thing that happens to ChatGPT"
     excerpt: "Google's Gemini ChatGPT rival will launch this fall with a few exciting features, and that's actually great news for ChatGPT fans."
     publishedDateTime: 2023-08-16T13:41:00Z

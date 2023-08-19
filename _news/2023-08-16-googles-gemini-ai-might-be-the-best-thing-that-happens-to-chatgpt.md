@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Rise of AI: 3 ChatGPT Stocks You Shouldn’t Miss Out On"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT has exploded onto the scene, making large language models and chatbots"
+    publishedDateTime: 2023-08-18T21:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-rise-of-ai-3-chatgpt-stocks-you-shouldnt-miss-out-on-1032567603"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Learning to be a writer? Clinic topics include ChatGPT and getting an agent"
     excerpt: "Local authors and educators Gary Arnold and Alexandra Weiss will be featured in the August Saturday Writers’ Clinic beginning at 9:30 a.m. Aug. 19 at the East Bank Regional Library,"
     publishedDateTime: 2023-08-14T11:00:00Z
@@ -70,20 +79,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/8/8f/88fb72de-088d-11ed-9091-f3736f902ba2/6011b8319c193.image.jpg?resize=1024%2C756"
         width: 1024
         height: 756
-        isCached: true
-  - title: "Understanding ChatGPT: Exploring the Technology Behind this Powerful AI Model"
-    excerpt: "Get to know the Generative Pre-Trained Transformer (GPT) better, before you consider putting it to any serious use."
-    publishedDateTime: 2023-08-14T06:17:00Z
-    webUrl: "https://www.electronicsforu.com/technology-trends/understanding-chatgpt"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 36
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/GPT-AI-1.jpg"
-        width: 500
-        height: 450
         isCached: true
   - title: "Today in AI: Alternatives to ChatGPT, Google adds translation to Gmail and more"
     excerpt: "That popularity comes with a cost though; despite OpenAI's best efforts, the servers for the chatbot are often stormed with users, resulting in long queues as you wait your turn. The paid subscription alleviates this problem by giving you 24x7 access to the bot, even during peak times, but what if you don't want to pay?"

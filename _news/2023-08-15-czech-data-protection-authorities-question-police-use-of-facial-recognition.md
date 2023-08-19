@@ -52,6 +52,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "GSA undertaking study to examine racial bias in facial recognition tech"
+    excerpt: "In a note on LinkedIn announcing the study, Commissioner of the Federal Acquisition Service at GSA Sonny Hashmi said: “This is an important study and initiative to test and validate facial recognition and matching algorithms and technology to identify barriers across demographic lines.”"
+    publishedDateTime: 2023-08-18T22:01:00Z
+    webUrl: "https://fedscoop.com/gsa-studying-racial-bias-in-facial-recognition-tech/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2021/10/GettyImages-624863848-e1692396030649.jpg"
+        width: 1200
+        height: 831
+        isCached: true
   - title: "After years of dominating facial recognition tech, China is ready to govern it"
     excerpt: "The rules also state that facial recognition tech must be used only when non-biometric measures won't do, among others."
     publishedDateTime: 2023-08-15T01:08:00Z

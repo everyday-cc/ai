@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Australia can lead in ethical use of AI"
-    excerpt: "Australia is being urged to take a lead role in the regulation of AI, as the government looks to walk the tightrope between enabling innovation and ensuring AI-based language models are used ethically and responsibly. An industry panel hosted by The ..."
-    publishedDateTime: 2023-08-18T05:32:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/australia-can-lead-in-ethical-use-of-ai/news-story/3c9fc41083a678d2348f2b461f6c7799"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 34
 
 secured: "Kh/IXbp57EchSJK9FeBdvlrHsDeE5S6cieNEB5gMvi3KCbnaFW2f0lYcBqpUzv593Kbphyl3xGWsY1tN2AW6AfV9dHLmorFp9tSF0jKX26KPBr4SlALqdCmk5yqjxYlYxN1zMA0IYv55p8Abahfq86mUz9z44+Cf3ui01EM9Y567tm/ovOLPWDsPbzMJ+HRFit3UoUAjFN/x39kdcdLJpv6eF6xzi5DcjpODKnIvCeLt01JIZFL8WA18PgytXWMDJIo6y4m4fg7u6OAAMiUc7itVUPyGJ/6JaaRLc3mQr69+p/CZg5Tzo50EcMUjegXfyye4wwpmpy7/2YNk5tuvRIwVNyxTbC0gNjuW5htuVfI=;rU4TjASukWjSk5EKgqU3Ug=="
 ---
