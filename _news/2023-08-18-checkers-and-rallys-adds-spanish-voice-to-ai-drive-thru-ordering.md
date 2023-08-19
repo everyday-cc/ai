@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence taking orders at Tampa drive-thru"
-    excerpt: "When you pull into the drive-thru at Checkers located on North Dale Mabry Highway in Tampa, you'll be greeted by a friendly voice – but you aren't talking to a person."
-    publishedDateTime: 2023-08-14T19:11:00Z
-    webUrl: "https://www.fox13news.com/news/artificial-intelligence-taking-orders-at-tampa-drive-thru"
-    type: article
-    provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 17
   - title: "Checkers and Rally's Roll Out Hi Auto's First-Ever Spanish Language Drive-Thru Voice AI Ordering"
     excerpt: "Following beta testing over the past two months at five of their drive-thrus, Checkers and Rally's is ready to expand the Spanish drive-thru voice AI rollout to more franchises and stores. \"Seventy percent of Miami Dade's population are of Hispanic descent,"
     publishedDateTime: 2023-08-17T12:16:00Z

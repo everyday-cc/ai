@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-17T10:31:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/7-very-overvalued-ai-stocks-to-sell-now-1032562677"
 webUrl: "https://markets.businessinsider.com/news/stocks/7-very-overvalued-ai-stocks-to-sell-now-1032562677"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 related:
   - title: "5 Blue-Chip Stocks AI Thinks Will Double Your Money by 2027"

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Poway Unified School District embraces AI in the classroom"
-    excerpt: "As AI becomes more common, Poway Unified is embracing the technology. ABC 10News Anchor Jared Aarons explains how the district is empowering students and teachers to use AI in school."
-    publishedDateTime: 2023-08-16T17:42:00Z
-    webUrl: "https://www.10news.com/news/back-to-school/poway-unified-school-district-embraces-ai-in-the-classroom"
-    type: article
-    provider:
-      name: ABC 10 News
-      domain: 10news.com
-    quality: 19
   - title: "How will AI be taught in classrooms? These Bay Area teachers are integrating it into lessons"
     excerpt: "\"We are having conversations not just about the technical skills but also the ethics of using AI and the students get a chance to voice their opinions,\" one of the 10 participating teachers said."
     publishedDateTime: 2023-08-15T18:27:00Z

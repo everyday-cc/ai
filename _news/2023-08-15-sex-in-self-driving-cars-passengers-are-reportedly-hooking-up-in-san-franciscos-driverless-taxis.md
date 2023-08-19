@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp"
 type: article
 quality: 75
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -149,15 +149,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 3
-  - title: "Self-driving taxi program expands in San Francisco, but not without criticism"
-    excerpt: "Self-driving taxis will soon be available for paid trips 24 hours a day in San Francisco after California regulators approved permits for two autonomous car companies, Waymo and Cruise last week. Johana Bhuiyan,"
-    publishedDateTime: 2023-08-14T19:54:00Z
-    webUrl: "https://www.cbsnews.com/video/self-driving-taxi-program-launches-in-san-francisco-but-not-without-criticism/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 1
 
 secured: "1W6FmxoDcvuQY2CzjBzVzn7z7SVPY8BoKwrOl7614BjXrI8mPqtITCgsaXdQ5V2Kjb+kQnUVLYMny2feoyjyZl94wLmcEwdIblLWxF4S3XKl0F9rFd48GnDsGS5pa+jHNtl6NwRn5rgpwir8s7qv7moRNZzV/lRTEV9FV2oYlUE5SHt714+sx/vDnq45+NtH4wwFPfU/zuNdVMEnQaI4t8v4hlPJCIOhY3tAy7jw+bHhCcXULq1vVPirWmbv7mChh3suGD8t6mwi66Mv7z54f6DL7qXaHtIKdKIlKjYUZA1C8h6A+SNnU+Q3l9plK6yRHJQSuDRwADGeV4M3xOps6sWY0aNfDanr+9DRMs+1X7P2NExdqu+GtCM+oEI+IpHTDc5rBZ5JYa3ONcbQZycC0yqJ/WOhcf1QKVip8ibunIHCfx6pl1F4O8Du0WscsHBss758IFfKOTupDaACepLeP+UFwP8HDPEuqnkVwaW/x5161a6d0N+1RZEmMgPGOJHBJ50Di/d4gdh34ArhamdYxA==;34INDcpmxiq7yqoeK5x5uQ=="
 ---

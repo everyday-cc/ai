@@ -41,7 +41,7 @@ related:
     provider:
       name: Pew Research Center
       domain: pewresearch.org
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2023/08/PI_2023.08.17_digital-knowledge_featured-jpg.webp?w=1200&h=628&crop=1"
         width: 1200

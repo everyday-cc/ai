@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 831
         isCached: true
-  - title: "Czech data protection authorities question police use of facial recognition"
-    excerpt: "The Office for Personal Data Protection asked the police for information on the facial recognition system that has been in trial operation for almost a year."
-    publishedDateTime: 2023-08-14T20:20:00Z
-    webUrl: "https://www.biometricupdate.com/202308/czech-data-protection-authorities-question-police-use-of-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
-        isCached: true
   - title: "Advanced Project announces upgrade to TIER service with facial recognition AI technology"
     excerpt: "The Advanced Project, starting with fintech solutions, aims to apply an AI-based facial recognition payment system developed independently across Africa and Southeast Asia."
     publishedDateTime: 2023-08-18T11:49:00Z

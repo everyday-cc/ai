@@ -32,6 +32,20 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "UCO Professors Explore Integrating Artificial Intelligence Into Learning"
+    excerpt: "Professors at the University of Central Oklahoma are looking to integrate Artificial Intelligence into learning to give students an edge in the job market."
+    publishedDateTime: 2023-08-19T14:09:00Z
+    webUrl: "https://www.news9.com/story/64e0cd2c1a3ea5799b19151f/uco-professors-explore-integrating-artificial-intelligence-into-learning"
+    type: article
+    provider:
+      name: News9
+      domain: news9.com
+    quality: 36
+    images:
+      - url: "https://cdn.field59.com/KWTV/d5dfee573390f31c7e18874dfdaec97cc239f759.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The insurance implications of AI are heating up - reviewing the NAIC's Model Bulletin for the use of algorithms and AI"
     excerpt: "The NAIC's highly anticipated Model Bulletin for the use of algorithms, predicative models and AI came out in July, but what are the implications? Though the bulletin is still in draft form, those with a stake in the insurance industry should be prepared."
     publishedDateTime: 2023-08-16T09:28:00Z

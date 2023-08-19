@@ -47,7 +47,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 97
+    quality: 99
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/107288359-1692300055703-ferruci.jpg?v=1692306945"
         width: 2766

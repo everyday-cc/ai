@@ -37,7 +37,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
+    quality: 49
   - title: "3 Millionaire-Maker AI Stocks to Hold Through Thick and Thin"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI’s market is a vast growth prospect, set to exceed $1 trillion in AI"
     publishedDateTime: 2023-08-18T12:56:00Z

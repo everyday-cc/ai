@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-con
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -164,15 +164,6 @@ related:
         width: 1099
         height: 815
         isCached: true
-  - title: "AI-Powered Innovation: VAST's Vision for Democratizing 3D Content Creation Takes Center Stage as the first Chinese keynote speaker at SIGGRAPH 2023"
-    excerpt: "At the SIGGRAPH 2023 conference, Yachen Song, founder of startup VAST, presented his vision for using artificial intelligence to transform 3D content creation. VAST joined industry leaders like Nvidia and Unity on stage at the 50th anniversary of SIGGRAPH,"
-    publishedDateTime: 2023-08-14T21:53:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/14/9864212.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "atea7LFvJeaxhhJzOB+lqb9pOmMuUlJ8V+1shLTIRHwyOTowfzP3MYnN7kBRG9u6BQFxgw7R6csgpGMC0QFr+LcKueM5CiLNQsAZAWsB/tlxdZyltQkkFKOYguKH5en7S172Muxg9CLwITnuBbc8COcVyx9vrle46aesIHBO46ReTueSWqaXYS9eSc4enGJ1W6WoMlTzrePDZlP3cCmJJ5M9Hu6mqr/Uq8+drgEBFvV4EO7RjblPe1Vv1IR7rgJ7vX8GS3XUFS4wD2Wc0W4Tib+eZpaeTjxokGdklBkAfdT/Dyn3wVFin5dtyZ0xovz/tu4hQuukqwmzeTQ7hQNYaiv42mfPxyNtn51u48vuTSfx1OACyF8AX91cmNq2VPbl95HONpo+cUu+sEnQcebnUqKr1NZXiNd9Sj4zv4gyayctE6zvsLfeVYObp5JEk08n1lqcGksNJ7e8UD6c8Pi4PfAGQmag4zkVTtUcoijZV6rgSLxPDNDfpeYrLSXc13e5MpUuZn8e1+O5Ppc/V8IveA==;DhppAsPcKTRj40YKCcZr5A=="
 ---

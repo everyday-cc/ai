@@ -2,49 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2023-04-18-photographer-admits-prize-winning-image-was-ai-generated.md",
-      "title": "Photographer admits prize-winning image was AI-generated",
-      "excerpt": "Recent advancements in the use of AI in chatbots, driverless cars, song-writing software and ... Photography Organisation that the photograph was \"co-created\" with artificial intelligence. \"In our correspondence, he explained how following 'two decades ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tbsnews.net/world/photographer-admits-prize-winning-image-was-ai-generated-618918",
-      "originalUrl": "https://www.tbsnews.net/world/photographer-admits-prize-winning-image-was-ai-generated-618918",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/04/18/ai_image_award.png",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tbsnews",
-        "domain": "tbsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-18-chinas-autonomous-driving-companies-mull-to-build-smarter-cars.md",
       "title": "China’s autonomous driving companies mull to build smarter cars",
       "excerpt": "A man sits in an autonomous driving vehicle on a pilot road in Guangzhou, South China's Guangdong Province on March 1 of 2021. The city is promoting the development of intelligent",
@@ -1306,6 +1263,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-can-intelligence-be-separated-from-the-body.md",
+      "title": "Can Intelligence Be Separated From the Body?",
+      "excerpt": "a robot technician at Embodied, with a Moxie unit.Credit...Alex Welsh for The New York Times A brave new world. A new crop of chatbots powered by artificial intelligence has ignited a scramble to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/04/11/science/artificial-intelligence-body-robots.html",
+      "originalUrl": "https://www.nytimes.com/2023/04/11/science/artificial-intelligence-body-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/04/11/multimedia/11SCI-MIND-embodiment-promo-hkmq/11SCI-MIND-embodiment-promo-hkmq-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

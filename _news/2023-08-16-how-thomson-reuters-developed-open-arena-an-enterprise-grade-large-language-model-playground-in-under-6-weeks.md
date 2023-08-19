@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-developed-open-arena-an-enterprise-grade-large-language-model-playground-in-under-6-weeks/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1079
     height: 630
     isCached: true
+
+related:
+  - title: "5 ways enterprise leaders can use large language models to unlock new possibilities"
+    excerpt: "How large language models (LLMs) will undoubtedly play a pivotal role in expediting various tasks across a range of domains."
+    publishedDateTime: 2023-08-19T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/5-ways-enterprise-leaders-can-use-large-language-models-to-unlock-new-possibilities/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 48
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_5_ways_enterprise_leaders_can_use_large_language_models_849dd1c3-4b1c-4004-a18f-7c601f83e5fc.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "iWEIl+R1J7zbbz3Rnu5N97zgFNqLNfCSvfydXpxDlTWBL46U07zfgxeREx6fEB+Ar/tYYWwrhIBwlYENrJ6CJBQseI3kqIN0oIPkUGqcyeDrFgQHrbjrqk7z6LRmYBxkU6Fktv08dkqeOCWoUPI3Uw/SedYBvrXZWyuW4Lo+DUmVhsD3aQTkBQdwFDWyG5LW+zYnt9AupkYBnPUrP//AJP7Gg0RH6xzzo3cb4QvBc5GF/I2miHyJspY9qOEu70vRvXPYIOvoGsyyCcySOh0qcPUSc+Jxmb42KuaYtMS4fHmByynrSJ4gR1C4dfEmZSnVVthzYd4tP/rSBE1NWdRrmqxx60X9Dt/f1JKAv4T5dc8=;LFaJA9Z8QzfGQeWPYJGxOg=="
 ---

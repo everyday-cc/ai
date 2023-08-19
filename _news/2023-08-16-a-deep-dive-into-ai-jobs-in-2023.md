@@ -7,7 +7,7 @@ originalUrl: "https://opencv.org/blog/2023/08/16/ai-jobs-2023/"
 webUrl: "https://opencv.org/blog/2023/08/16/ai-jobs-2023/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 480
     height: 343
     isCached: true
-
-related:
-  - title: "Black Hat USA 2023: Five Lessons in Artificial Intelligence"
-    excerpt: "Cyberattackers are using AI to reconstruct and manipulate data points to prey on your weaknesses, but researchers say regulating the emerging technology can help."
-    publishedDateTime: 2023-08-14T20:15:00Z
-    webUrl: "https://biztechmagazine.com/article/2023/08/black-hat-usa-2023-five-lessons-artificial-intelligence"
-    ampWebUrl: "https://biztechmagazine.com/article/2023/08/black-hat-usa-2023-five-lessons-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/08/black-hat-usa-2023-five-lessons-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 57
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202308/black%20hat%20hero%20kumar.png.jpg?itok=fPUncIsj"
-        width: 1440
-        height: 500
-        isCached: true
 
 secured: "tSXqGomAc/Rjw6s+AvrkllCTsXk8AbtoIm3LCziSjkynIlhK5UUgJSELUPtNkgozXVLqpn4HWydaTpCpKNqWcAw2TCie5zkgw7N8J/0WdZ2t/xlom1mNuOzXEg0Xi5HThqIs7ZFlP4zwqdARJPDyKjP5LGT9nPuf4qok6IgXQxF36mv3IjdJVm8rFOFP0BdjNISgoD2WxE2yfmWnjt14I/zdzeLdRhEWF255G33/g6Qdf2tcbaVf0WSmf5EChF4w8AGk5GvX/UOZVWSWO9HyO6aCfFEHLAuK+oFl8tkEaW/60ZvTEauHQBCYraNKA5wsSmyA6EHjeL3GxrP7V9LC6S0r0oQqpR0FakTXl6VSunc=;09k78eJFN4gEz/QZr4bXYQ=="
 ---

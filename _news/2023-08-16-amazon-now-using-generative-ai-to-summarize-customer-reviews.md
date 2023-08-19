@@ -87,22 +87,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 68
-  - title: "Financial Services Are Using Artificial Intelligence to Navigate Regulations"
-    excerpt: "In five key areas, AI and machine learning tools can help banks follow know-your-customer rules, spot potential money laundering and more."
-    publishedDateTime: 2023-08-14T20:23:00Z
-    webUrl: "https://biztechmagazine.com/article/2023/08/financial-services-are-using-artificial-intelligence-navigate-regulations"
-    ampWebUrl: "https://biztechmagazine.com/article/2023/08/financial-services-are-using-artificial-intelligence-navigate-regulations?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/08/financial-services-are-using-artificial-intelligence-navigate-regulations?amp"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 56
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202308/GettyImages-1210917404.jpg?itok=rV6TnDKT"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "How AI Can Scale Personalization and Creativity in Marketing"
     excerpt: "AI tools can help marketers use performance data to optimize the results of their messaging before they launch an email campaign. Using AI, an organization can quickly crunch millions of data points from its most successful campaigns to help it recommend changes in messaging, imagery, and layouts for pending emails."
     publishedDateTime: 2023-08-16T15:43:00Z
@@ -116,6 +100,20 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2023/07/AIScalingPersonalization-scaled.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "Ethical Considerations in Teaching AI to Kids: Fostering Responsible AI Use"
+    excerpt: "As the world becomes increasingly reliant on artificial intelligence (AI) technologies, integrating AI education into the curriculum for children has become more important than ever. The young minds of today will be the AI developers,"
+    publishedDateTime: 2023-08-17T07:49:00Z
+    webUrl: "https://techbullion.com/ethical-considerations-in-teaching-ai-to-kids-fostering-responsible-ai-use/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 52
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/ai-to-kids.jpg"
+        width: 469
+        height: 314
         isCached: true
   - title: "OpenAI says AI tools can be effective in content moderation"
     excerpt: "Despite the hype around generative AI, companies such as Microsoft and Google-owner Alphabet are yet to monetize the technology in which they have been pumping billions of dollars in the hope that it will have a big impact across industries."

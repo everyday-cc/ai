@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-17T13:32:00Z
 originalUrl: "https://www.economist.com/culture/2023/08/17/ai-could-make-it-less-necessary-to-learn-foreign-languages"
 webUrl: "https://www.economist.com/culture/2023/08/17/ai-could-make-it-less-necessary-to-learn-foreign-languages"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "eNPPip8qioUMeMJjItl+Sym80yOs/yanYF//OIF7fWF5zifNZvGvr5U45re+S9AiT3A9UzacwVC35qxvg02d0RKTEVlwqCxS5o221iS+AC2PkDl2Eh+1NKlF2AQslUp2I94a+c9qsszZxWNUTzHx8k/rqbpBuZGJSPox6+wYhv+AvhHRUMJGWpcKON2Ep+2+VzRljRODVss1quWHMKB7qxb55V2KJvLScq926a62b4Zw4OPCyc6WlcAlNm8wSYuH6QfwT98Lsr//AR/slCsu4NtLjrBMY55HUznS3RGFDXo7+bZjf4dLeAADnPJC6W9bxAhMqB1K+F4q3bzvB0nqiU1p4YxNZ7/KHbOnJofU6ho=;F23kZVfoIqeryz2RY4Elpg=="
+images:
+  - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230819_CUD002.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "v1CqeKR4seMfoVdIqyIKYZCStjZN37b6FvN+qhvRLwH5VBl5bWBytqCnWosLSLefE1x4j9od8HtmbjdDZ2hUnppnQiIJkmIKAgQlTv1X4El49dj4KkCB8w1hdOZAIm2bWBnAtDx7BA8ebRXlDcUAWlcLsRf1GvhGE+jzmpAoXgyzHEFVcsvJpmyaoB/xS7hbgRijNJcjpblpnXXyjbDqOvHcUZ7eSWFZYWD5MSUw00WOQjV7XABrLUD0J+8yVygA/haF/o5HDTZmg98NtewKgfl0hfb6XHClNOrh9Qc7zztgWzjlvXhwvjPyyIpZyMBFcpIV44ii6KGlRzwpOKVgY7xnOMAM9cQ6cKJCGPjFVkE=;RaiGg1YO1anvCBot1NukvQ=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla to build its own data centers as it scales self-driving business"
-    excerpt: "Electric vehicle maker Tesla is planning to enter the data business with the launch of a \"1st of its kind\" data center."
-    publishedDateTime: 2023-08-14T21:07:00Z
-    webUrl: "https://www.cbtnews.com/tesla-to-build-its-own-data-centers-as-it-scales-self-driving-business/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 39
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/08/Untitled-design-8.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "yNtCBRx/fnHIGX9WFNXe/eX64tmyK8GRv2jxZSYJQDXCWmLT319IadlN7ebTs/jvFbL18hDWoD/6jYZlPGOLmVXUDHNCHbftRkXg21eTyRvMlmuKR2ff6PmtfE3AQgpULfJAbKoqLTj0R1UM1bSlKf4yRHQ8P9TjZ6E1le2hJbTeYT5saRgPu8LNPwiXCCtTELyWGgJowIv06C87aAYpQb4XkG6owicfPrgWhDay1KBJ5UybiQwG+/J/YpO+YJst5SEaqSBEVj8e6W06bk/rekgPSUnn0B0qTuUaZZSNBMc2cFxx2NMuOce36sJ202T+9ucQdVTugHbsI6sBY+a0SNVTrMGQiOokALZQuOshcSM=;FZeTvVjr+IRR4Jg+VphXsg=="
 ---

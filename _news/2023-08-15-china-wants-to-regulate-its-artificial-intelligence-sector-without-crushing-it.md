@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6304831/china-ai-regulations/"
 webUrl: "https://time.com/6304831/china-ai-regulations/"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "China, UK Moving on Regulation Tops the Week’s AI News"
+    excerpt: "This week, the spotlight moves to the UK and China as the nations get ahead of the US to formalize plans to regulate artificial intelligence."
+    publishedDateTime: 2023-08-19T11:00:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-19/china-uk-moving-on-regulation-tops-the-week-s-ai-news"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "FQlRttT25MqyC3uwpewbz/rCl5iYbkOq0qqHlnOPqf7GuXMdKSNc67pXNTVVa0hKsgNzLrfkVNkBYFuIRGFEhTHW3wLkdjRZW4EBQsejYqBI+L4oRnxEB3OZErgp1XES0NKeYYLGt+bLoxuFlWqdvpsjF32nVPij64ZXu77mdAbOMr2TelsxvZC+lcO27ZVjH/eRZIf1VVyXWeGvwUnPovJUgObVicb/dxfepqFJtnASkCjcbWV7h+1JWK8Y0rq/iwCoF8DfXiyTOSzMURcCsAWtgeElHy1dqlz8OUmUOLDEAaddiZbAsnYEBCHuK7wvIV3FnB/w5XgOswjr3QaKK85V4+s3M2wrFHdLvHdF0ui2v7oNUHJ0t6sEfaIKh6f/Ium02g3t75+na0S5RUzveLwRwaRZrjytoE6pc7YwSZw76K9n/QkJ2Set/931Mr6UEKL0iJf7jR/TIYbexNvS//ed8Cfr1ybWR2betUL0ccFtezG8UdStdjVJ3H8hh1pb9bLXXiech4VdJ49qplleLQ==;eC0pGDMb5UkV00hHas8CHQ=="
 ---

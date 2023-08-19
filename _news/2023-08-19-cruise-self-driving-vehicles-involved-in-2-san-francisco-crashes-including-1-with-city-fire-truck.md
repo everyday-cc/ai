@@ -145,15 +145,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 3
-  - title: "Self-driving taxi program expands in San Francisco, but not without criticism"
-    excerpt: "Self-driving taxis will soon be available for paid trips 24 hours a day in San Francisco after California regulators approved permits for two autonomous car companies, Waymo and Cruise last week. Johana Bhuiyan,"
-    publishedDateTime: 2023-08-14T19:54:00Z
-    webUrl: "https://www.cbsnews.com/video/self-driving-taxi-program-launches-in-san-francisco-but-not-without-criticism/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 1
 
 secured: "PMjE0Kr/I7J+sW5G4R4UuvvGH9u2HI4mJ5EoThQC02zirNPWqQzZQoGegu5eWzw3ISk4/g9T2P4mpXtQ6EcMxCVZwtx7uvBWksVniS7P4vokADXu6q+tfSGUrs0HuFDDYvNE9mn+vInTpmrea9lC4y+9UQjHDEvU6gzEa2Yusrm5qMLanyVCEROJ14FsVSO+k510nU2n9MdTwicLbx3xOc7Bl7Lo5nPHlhr9VHDcoV+QPQTWMednHjA/WfuEV+Ocwn4QrDhiz3J6CVGJ732BSEbjCzqytQLogZPFJ00MtYVxpGxKSk5xGa4GVmQSQVar5g7zGhFKKVhDTrXYFEvAhSvtTs9mQTh/Uf3b+V92dwXrZxlvcwTyZQXnXOdOzwkGckqihXmFN+CtICNT3++z5kArATvNqd/PnZYMySdxwtY2hjQ90LfRrrwwa6vS9ZhUU1zSIDyZJbaUiOSeUYw5HGjNODOIe3NFOg8V+tgX5+uKEE3Ohcvg/m216iqChrZI6bGgYqSLBSeas0u6qntfiw==;wv91JYFLM0SFYreLYUih+w=="
 ---

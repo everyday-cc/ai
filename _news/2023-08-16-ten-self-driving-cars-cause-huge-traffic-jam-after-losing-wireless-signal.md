@@ -144,15 +144,6 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 4
-  - title: "Self-driving taxi program expands in San Francisco, but not without criticism"
-    excerpt: "Self-driving taxis will soon be available for paid trips 24 hours a day in San Francisco after California regulators approved permits for two autonomous car companies, Waymo and Cruise last week. Johana Bhuiyan,"
-    publishedDateTime: 2023-08-14T19:54:00Z
-    webUrl: "https://www.cbsnews.com/video/self-driving-taxi-program-launches-in-san-francisco-but-not-without-criticism/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 1
 
 secured: "Mqv5WNJMy0qvjKik6FE9eQuGZpr/Lh89Exu+b6e0x4f2mc8uxWNmbZOsbd8RgX2WK3Ttu21DM4bSyZFh29oXkUenmlot7STCV1kkLN7S51Q5xEApbi70KJnLiN3L5FulTPz3/Plxnor0ZDpcLuuoQL9y5hqw/FT58t5O8DGc265OXOuQZRH8yKjKXvzFNKSsd+Z93jFq+UiQJMHDCZkvOXqu9BvoJ/ldMwBq3R3k41rRt50RQvcgrjI1vrOPbB6o6xWb3jdQYq3sdaDhp0TmoTWakleTa98s5vmTca7NADwhSNNL82cIedk3SRQEP48e14h72LK/QSV8TmdJMok6y/QX6FJb3zm+143zjVm/3W91vIzG1AYNHoAhnVfLDJkmzorxO+QRyR7girNkZ56C0VrG8I1qGvgDBjVyu3MwOYtDW55RFcrbP/lhyPiD9fJKC3UyBmXiyeviH2Q3r7j3ge2e4fHfdZlolq562lsuALZuV2waaLzw8IP1td76c0zbK2bRnw8UT9MYfG6uwhMANg==;G9MrnY6KJebxhYT9Bq3f9Q=="
 ---

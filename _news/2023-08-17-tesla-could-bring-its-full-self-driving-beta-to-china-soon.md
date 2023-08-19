@@ -9,8 +9,8 @@ ampWebUrl: "https://www.redmondpie.com/tesla-could-bring-its-full-self-driving-b
 cdnAmpWebUrl: "https://www-redmondpie-com.cdn.ampproject.org/c/s/www.redmondpie.com/tesla-could-bring-its-full-self-driving-beta-to-china-soon/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Redmond Pie
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla to build its own data centers as it scales self-driving business"
-    excerpt: "Electric vehicle maker Tesla is planning to enter the data business with the launch of a \"1st of its kind\" data center."
-    publishedDateTime: 2023-08-14T21:07:00Z
-    webUrl: "https://www.cbtnews.com/tesla-to-build-its-own-data-centers-as-it-scales-self-driving-business/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 39
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/08/Untitled-design-8.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla plans to roll out Full Self-Driving solution in China"
     excerpt: "Tesla plans to establish a local operation team of around 20 people to introduce its Full Self-Driving (FSD) solution into the Chinese market, according"
     publishedDateTime: 2023-08-16T09:55:00Z

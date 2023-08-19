@@ -8,7 +8,7 @@ webUrl: "https://www.cnbc.com/2023/08/17/scientist-behind-ibm-watson-raised-60-m
 ampWebUrl: "https://www.cnbc.com/amp/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html"
 type: article
-quality: 97
+quality: 99
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/107288359-1692300055703-ferruci.jpg?v=1692306945"

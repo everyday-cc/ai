@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intrigu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://fedscoop.com/wp-content/uploads/sites/5/2021/10/GettyImages-624863848-e1692396030649.jpg"
         width: 1200
         height: 831
-        isCached: true
-  - title: "Czech data protection authorities question police use of facial recognition"
-    excerpt: "The Office for Personal Data Protection asked the police for information on the facial recognition system that has been in trial operation for almost a year."
-    publishedDateTime: 2023-08-14T20:20:00Z
-    webUrl: "https://www.biometricupdate.com/202308/czech-data-protection-authorities-question-police-use-of-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
         isCached: true
   - title: "After years of dominating facial recognition tech, China is ready to govern it"
     excerpt: "The rules also state that facial recognition tech must be used only when non-biometric measures won't do, among others."

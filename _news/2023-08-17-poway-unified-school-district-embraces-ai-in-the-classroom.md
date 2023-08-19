@@ -19,29 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Even With Some Cons, AI Should Still Be Used to Empower Students in the Classrooms"
-    excerpt: "Urquiola, Assistant Professor at the University of Notre Dame, discusses AI’s impact to empower students in the classrooms."
-    publishedDateTime: 2023-08-16T17:29:00Z
-    webUrl: "https://marketscale.com/industries/education-technology/even-with-some-cons-ai-should-still-be-used-to-empower-students/"
+  - title: "Educators embrace usefulness of artificial intelligence in classrooms, note potential problems"
+    excerpt: "Richland High School Principal Timothy Regan tries to keep up with emerging technologies so he knows what his students are using — and to prepare them for life outside the"
+    publishedDateTime: 2023-08-19T15:15:00Z
+    webUrl: "https://www.normantranscript.com/news/educators-embrace-usefulness-of-artificial-intelligence-in-classrooms-note-potential-problems/article_b5f79832-8a93-5224-a113-ab9dbb0a9a9b.html"
+    ampWebUrl: "https://www.normantranscript.com/news/educators-embrace-usefulness-of-artificial-intelligence-in-classrooms-note-potential-problems/article_b5f79832-8a93-5224-a113-ab9dbb0a9a9b.amp.html"
+    cdnAmpWebUrl: "https://www-normantranscript-com.cdn.ampproject.org/c/s/www.normantranscript.com/news/educators-embrace-usefulness-of-artificial-intelligence-in-classrooms-note-potential-problems/article_b5f79832-8a93-5224-a113-ab9dbb0a9a9b.amp.html"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 33
+      name: The Norman Transcript
+      domain: normantranscript.com
+    quality: 47
     images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/08/Screenshot-8.png"
-        width: 1900
-        height: 1062
+      - url: "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/assets/v3/editorial/7/cc/7ccf85f9-5ccf-5f11-8351-f5d879770498/64de2d1ae4661.image.jpg?resize=1024%2C631"
+        width: 1024
+        height: 631
         isCached: true
-  - title: "How will AI be taught in classrooms? These Bay Area teachers are integrating it into lessons"
-    excerpt: "\"We are having conversations not just about the technical skills but also the ethics of using AI and the students get a chance to voice their opinions,\" one of the 10 participating teachers said."
-    publishedDateTime: 2023-08-15T18:27:00Z
-    webUrl: "https://abc7news.com/teaching-ai-artificial-intelligence-curriculum-high-school-students-stanford-university-professor/13650651/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 8
 
 secured: "DxqJJbBOS6mpRY9U8FLBeQMKq4jxdpuBlLYqzHZIUPMj+aGY+57TCYxUZE9jLP7pHZE7Kc4jPANRjTwAuiMg383dVR5fq/dX9dMpMWzbhkaR28NUl2mfvmuHmsB630kgQ+XKjY43VWH+eCY0WD9afijT1orWd7a/aO96idaMf75EZqwf/NfV7gwQp2FOzCJJemMuTHnxHGOT1z9MX+J2EuvEOYLWs2KK9WFAKIsGtWh1eufJ2xCIj0N/mE4kK03YT+LKuNlFol5y/ZJky7Q0dtG99oyT37X0QZfV/9pRFG9BYjIUGs9Or+5M3B2lrrFXyVx+r+65fwJgJLtDZWtxK4O1+v59uuyYyMQ2pEqOdQg=;CH/yqit1H3ysi3gzm5IAIA=="
 ---

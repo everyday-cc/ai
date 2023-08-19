@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-16T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/winniesun/2023/08/16/what-you-need-to-consider-before-adding-ai-to-your-portfolio/"
 webUrl: "https://www.forbes.com/sites/winniesun/2023/08/16/what-you-need-to-consider-before-adding-ai-to-your-portfolio/"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI in Robotics
   - AI
   - AI Hardware
+  - Facebook AI
 
 related:
   - title: "What you need to know about Sakana AI, the new startup from a transformer paper co-author"

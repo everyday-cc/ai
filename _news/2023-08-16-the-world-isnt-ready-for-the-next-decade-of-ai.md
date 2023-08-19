@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
 webUrl: "https://www.wired.com/story/have-a-nice-future-podcast-18/"
 type: article
 quality: 75
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://static.toiimg.com/photo/msid-102743818/videos/international/how-robots-use-ai-to-navigate-the-world.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "The world has a big appetite for AI – but we really need to know the ingredients"
+    excerpt: "Much ‘artificial intelligence’ harvests original creative work by humans. Regulators must demand transparency about training data"
+    publishedDateTime: 2023-08-19T14:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/19/the-world-has-a-big-appetite-for-ai-but-we-really-need-to-know-the-ingredients"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 52
+    images:
+      - url: "https://i.guim.co.uk/img/media/655d784a25a3b60c3dbe291e4da8f2ef8958a781/0_0_3643_2429/master/3643.jpg?width=620&quality=85&auto=format&fit=max&s=b727dd3a8fe48cedcf8fa7a77f254339"
+        width: 620
+        height: 413
         isCached: true
   - title: "The Reality of Artificial Intelligence in the Family Office Realm"
     excerpt: "Across industries, professionals are talking about the opportunity and utility of artificial intelligence (AI). In the estate planning and family office realms, two fields that require a distinctly hu"

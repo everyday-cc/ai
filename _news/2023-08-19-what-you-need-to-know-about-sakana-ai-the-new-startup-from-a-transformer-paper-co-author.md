@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/what-you-need-to-know-about-sakana-ai-t
 webUrl: "https://venturebeat.com/ai/what-you-need-to-know-about-sakana-ai-the-new-startup-from-a-transformer-paper-co-author/"
 type: article
 quality: 58
-heat: 79
+heat: 80
 published: true
 
 provider:
@@ -50,7 +50,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 51
+    quality: 53
 
 secured: "6k5ILDuRBsAnfq+jAWtz0U+kvubfdQnSnTW9HYzjYHBJzlhTafjmOeb1chUxLeyZ8/qUiqTZRrTVuYbWb6mdqyqUP2+KMBbg+/LD92ntnWXy5t87gl0Dr+N/tNjtEWyHho6sASEkB2Eb4+AYNgxpNFOsYMn885aJka9PZ5eeooLzJnWyq7lRKkLL/qMPFv7o6dqHn5GEeWiRJrG741Qocmn3isr3K0iGs1J7HWSEkGhMto9mVwP9wfEc13gKsceu7HmL2rNljyrZ1qzYvFL+PqmHba+/XWhqmxIByiZCctBlkKk2CRS+mBA9q9APJ0lsfiuZT6zM+vV6AIL838nnR1FBjvXAfoORY4XDQmuQAV+2iyfr5LD3boGsAso3dEcMhQVvewhGgORPPQawHLOR7KI2SUgKEXBwsuyaU3gA1Sdr4QhNQZaV1mXPLLhWaLe9dXNKe3cRWi0j7DvORrrI7TUua9q0IeOu0yGjEQWvEJ+CRTRiQ9S1U9SjgMBFx3xhGQd08Jx9sp10vwRW+eXjnQ==;6k7vs34T4wUaV10Vh6viag=="
 ---

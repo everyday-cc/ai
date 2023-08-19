@@ -40,6 +40,15 @@ related:
         width: 1024
         height: 593
         isCached: true
+  - title: "China, UK Moving on Regulation Tops the Week’s AI News"
+    excerpt: "This week, the spotlight moves to the UK and China as the nations get ahead of the US to formalize plans to regulate artificial intelligence."
+    publishedDateTime: 2023-08-19T11:00:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-19/china-uk-moving-on-regulation-tops-the-week-s-ai-news"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "rs3d2A5oALfvcgpRZu128c+AY3xwN3S1OZzNqmhVdl4Uh5ib5sMMxMWp4opxX6HDbybh5aNIJFZug4+T8GF7HL+CV+6ecQNONc/ImVPJGbv8KRrio8c9O1SXa86zZO3jtAVDenQcbk6ovpLVuvpt55qWdcdFD1drGFw1HQm8bGQyG7upN3XHz0FIYe3URkw0r3FZjOzbpIYBf9FteNUiSKAtP0DkDhbNme+t6qChVjj08laC+aTrlEkgX/BaCOvHCkoNyfVbqwvV57UgWK0jiw+nqwQ3qs+wh7hAdEuudm2dWiXgKlCV6ejYNONpz73TZUzHXOc07Ej0Fw1SN9PjPIGAI1TLlZfgqE+YWspdcmBSZc1m5BAvmgLCXXPZ2XaKJQl1NidsE9vFwDYw7fGKw+4O5rAalVhNdkiLHDzbqtpEQiUmxqBaC6d/IVyMZ0WhAtFNZ5edJj6gSbR7249oytxmCV8zHVyGoW1fon9YuYQoovy7YpwggbdjLkMOgaY1+dZhLiCe2e9l1XSRhmOMdw==;2Bp4yj0HoLG+EoCRMofJyg=="
 ---

@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 862
         isCached: true
+  - title: "Zapata AI and IonQ Collaborate to Advance Generative AI Research"
+    excerpt: "Zapata AI, a software company building solutions to enterprises’ most computationally complex problems, today announced it has entered a strategic all"
+    publishedDateTime: 2023-08-15T16:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230815820982/en/Zapata-AI-and-IonQ-Collaborate-to-Advance-Generative-AI-Research/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
   - title: "Startup's tool aims to help companies decide which AI is right for them"
     excerpt: "OpenAI remains the leader in generative AI, but its rivals have narrowed the gap and may be a better option for certain uses, a new AI assessment tool has found. The open-source testing platform released Thursday by startup Arthur aims to help businesses figure out which large language model is best suited to their needs."
     publishedDateTime: 2023-08-17T13:00:00Z
