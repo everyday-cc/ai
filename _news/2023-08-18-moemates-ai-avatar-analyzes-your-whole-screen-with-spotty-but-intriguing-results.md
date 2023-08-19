@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-w
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-curious-results/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 84
 published: true
 
 provider:

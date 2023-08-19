@@ -59,6 +59,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "'Bhashini', India’s AI translation platform to promote digital inclusion across India: PM Modi"
+    excerpt: "PM Modi highlights India's role as a testing ground for innovative solutions at G20, introduces AI-powered language translation platform ‘Bhashini’ to promote digital inclusion across India's diverse languages."
+    publishedDateTime: 2023-08-19T10:41:00Z
+    webUrl: "https://www.livemint.com/ai/bhashini-india-s-ai-translation-platform-to-promote-digital-inclusion-across-india-pm-modi-11692440931885.html"
+    ampWebUrl: "https://www.livemint.com/ai/bhashini-india-s-ai-translation-platform-to-promote-digital-inclusion-across-india-pm-modi/amp-11692440931885.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/bhashini-india-s-ai-translation-platform-to-promote-digital-inclusion-across-india-pm-modi/amp-11692440931885.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 47
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/19/600x338/PTI08-18-2023-000077B-0_1692441542939_1692441564476.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Breaking News Live Updates: Building AI-powered language translation platform to support digital inclusion in India's diverse languages, PM Modi says"
     excerpt: "We are building Bhashini, AI powered language translation platform. It will support digital inclusion in India's diverse languages: PM Modi"
     publishedDateTime: 2023-08-19T04:47:00Z
@@ -90,6 +106,6 @@ related:
         height: 630
         isCached: true
 
-secured: "7bGDnOwwzAEFY5aLjTYW5XSVQLtOGgsv2IvtONpW+zmSYKQxG5YsQxHy70eMzCCg8qx6irDKTX9R+1N9fQdRsnO7LPRJTrG2uBgMjQ3BJ39BYByV4039550zaHiCJxRl3mJqxS5CBPsnZZ+yXEPgLUyKjbzyOYKAVr3vC7DLkx9phnlp9g1FKBmkfmUlG1yasobOMpp4pGiQz3rYT/hXXR6My3Y7FquvVXh3zmWoqttSXFbCHkbLtsXqSjelL2OZIi3x8LK/zQDcRrUaQN0f4HekMdaG4iu6QCR54bULcrorIXcHIGx07vi0eQhcqV7+7qigbJdAvokraqoNICywWCUyww1lSQ1xZdOoclfGIkM=;eP7F6tXRd/zOO83qTkikew=="
+secured: "eIItPMwfUHhal/Fw9a5VEI7TlgzCEE+naZ3/0BT57amygdrdw8oGTFdVFfShnr4xH0qVlqz7r7HayE1fIMMbkqCPQ7k99hqvhsL/cBnC7n6E1cq1RJGBsRCfZj/Y9ZdBfrmv/K/0XSWj+7qDwqGAHuC6rp9WHnnfM7jstbwzzfdpdXw+cJB9vrTUoSAACkD4MLc8kOzorfiF2T6R7zdpNa5RFuu77d48cqi7s+JzW+BfjCcNmD/mEjoXmsonRMw+gVNpcSNS7CWefiwkyZe41CTt2tAHmK1/WO9WXSFRWfADVOOhAYiDQEIUNtNF3leEUx5pTVj8pUxNUAWYOoM7PUb8viC5d3rn2Zr5dDcgEypz/5aBc9QD7zDWkuFyKmTkvzSk9+jdI6MXFfNF9lNgPpaga+J4Wyf90VmnlxrO9kPXV5Ep7K9Sbxey9zLiwizFd/FSRk3LUiu/PAYfr1yuVE3VURU2AhEHvUgCKPh2G1yChRPfJwF4GuExWoR/7IACEWA7aSNjEvIwaudwvgOo/A==;MQegMFny3qV766lVu+LH5g=="
 ---
 

@@ -72,20 +72,6 @@ related:
         width: 1139
         height: 630
         isCached: true
-  - title: "Zero-shot and few-shot prompting for the BloomZ 176B foundation model with the simplified Amazon SageMaker JumpStart SDK"
-    excerpt: "Amazon SageMaker JumpStart is a machine learning (ML) hub offering algorithms, models, and ML solutions. With SageMaker JumpStart, ML practitioners can choose from a growing list of best performing and publicly available foundation models (FMs) such as BLOOM, Llama 2, Falcon-40B, Stable Diffusion, OpenLLaMA,"
-    publishedDateTime: 2023-08-14T17:07:28Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/zero-shot-and-few-shot-prompting-for-the-bloomz-176b-foundation-model-with-the-simplified-amazon-sagemaker-jumpstart-sdk/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 64
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/14/zero-shot-prompting-bloomz-sagemaker-jumpstart.jpg"
-        width: 912
-        height: 452
-        isCached: true
 
 secured: "L2/hPjIQItYFo/4+2cpCH4HlqZybc5Se+dYh1aKn8jlC5ZoUPK8/7kJYIqByOnKL0TEnnkKaSJVRyWAdv9QDMJSb0F0XlzDiAs9uHoJfFLDszq/T91C5EcFqWn9rQR3RyEPqWFfW807Z/GM6F7Bi7/wHa+domvKGvANkADj7Hd6FY4PJYu59kOVW6urE/tJ+oyBKvGWkooXqGwxCRcNqoqGsdd0WtIWBzrMfSCka7skqEN8j05sxDlnJaV9jzlyggpjo2T2MkCBvMCkeVaFE6VwuECTmETkpHrkPlrbyQOluDxofVGKFXrY3kCesYn66RzqrD/nAKtzP2U0TZtjCFHjfVOKAoJFG2fwx5MljdCw=;8hKUWHTvrUlLB07sgjTrQQ=="
 ---

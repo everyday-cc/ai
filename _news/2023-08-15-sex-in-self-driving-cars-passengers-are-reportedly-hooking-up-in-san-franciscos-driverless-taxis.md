@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp"
 type: article
 quality: 75
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/08/932/470/cruise-cars.png?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "San Francisco to get round-the-clock robo taxis after controversial vote"
+    excerpt: "Google-owned Waymo and General Motors-owned Cruise can now operate 24 hours a day in San Francisco and San Mateo county A California commission voted on Thursday to allow two self-driving car ..."
+    publishedDateTime: 2023-08-15T15:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/aug/10/san-francisco-self-driving-car-autonomous-regulation-google-gm"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/aug/10/san-francisco-self-driving-car-autonomous-regulation-google-gm"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/aug/10/san-francisco-self-driving-car-autonomous-regulation-google-gm"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/04f271f019b27d12f74b4b24065c397a26685c06/0_275_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=b718d985e54536953166a2cccbfe674a"
+        width: 620
+        height: 372
         isCached: true
   - title: "Driverless vehicles on our roads?"
     excerpt: "The real test of driverless vehicles will be when they are ready to cruise along India’s Wild West roads. As one industrialist says: When they’re ready to do that, the AI-created future will truly be upon us."

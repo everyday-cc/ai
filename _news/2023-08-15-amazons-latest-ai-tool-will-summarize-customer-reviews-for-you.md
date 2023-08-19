@@ -58,20 +58,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Untrustworthy AI is going to summarize untrustworthy Amazon reviews"
-    excerpt: "Amazon has announced it is rolling out AI-generated review summaries that will give users a glance at customer sentiment."
-    publishedDateTime: 2023-08-14T17:17:00Z
-    webUrl: "https://www.androidauthority.com/amazon-ai-customer-review-summaries-3354894/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/05/Amazon-logo-on-phone-next-to-boxes-stock-photo-11.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon is making its own chips to offer generative AI on AWS"
     excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
     publishedDateTime: 2023-08-15T13:21:00Z

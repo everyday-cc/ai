@@ -18,17 +18,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Artificial intelligence courses will be taught in some South Florida schools"
-    excerpt: "More South Florida students will soon have the option to enroll in coursework centered around artificial intelligence, which is part of a University of Florida AI education program that began last"
-    publishedDateTime: 2023-08-14T18:14:00Z
-    webUrl: "https://www.sun-sentinel.com/2023/08/14/artificial-intelligence-courses-will-be-taught-in-some-south-florida-schools/"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 14
-
 secured: "GfQQsRknPweLji4BoQtoTbGyzNI6iP6Q2ru0dALZ1WgukkxNzXCwmrfkmrf2ZrpOfcRYYBJGcrT8aVixDtxcZT5dHSTCeiXthYDkqgmzdg59dy2CORWhgxEcY3032Y90FZ1Vg/AdSRTCN5XictNSEADeFSdNcPSqzmQ3RIlfujRoO3T+72VUZQuQZBo6GS5Uelku+Vk+oadqhV4mFT+82lefJhVjztvi8Xabo+oLn1DlISAhB6MBeE8EKGfDTEVqMTRhXOKhwBvLvDLVkkx1pqxznFrbKQw2z/TgX9WMaHbqi4ZLBPbJQ4pUrQduYc2OMNPtDLYUXwHq0EI7ivQUWyWYLSGY/OuLPEPJtQSeX+0/Kzz+DBKifPFhax8WMDYxRetmQlzZkhThrM8Nf1Q9fN94aiXwhblAnJLgtfoTzCv/nE4Bgq/JQSBII9T57HQL0nfaPz6AbakKRBBb9tm+f2H6vU4S+sgFPwouxC7zfQoyweIqkMKah2wVBP2ZGRi0gjKR0usPq1lRR56H53h/dw==;FzAwSDF5wp96aMTzpQH37Q=="
 ---
 

@@ -75,6 +75,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "'Bhashini', India’s AI translation platform to promote digital inclusion across India: PM Modi"
+    excerpt: "PM Modi highlights India's role as a testing ground for innovative solutions at G20, introduces AI-powered language translation platform ‘Bhashini’ to promote digital inclusion across India's diverse languages."
+    publishedDateTime: 2023-08-19T10:41:00Z
+    webUrl: "https://www.livemint.com/ai/bhashini-india-s-ai-translation-platform-to-promote-digital-inclusion-across-india-pm-modi-11692440931885.html"
+    ampWebUrl: "https://www.livemint.com/ai/bhashini-india-s-ai-translation-platform-to-promote-digital-inclusion-across-india-pm-modi/amp-11692440931885.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/bhashini-india-s-ai-translation-platform-to-promote-digital-inclusion-across-india-pm-modi/amp-11692440931885.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 47
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/19/600x338/PTI08-18-2023-000077B-0_1692441542939_1692441564476.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "News Live: Govt building 'Bhashini' an AI-powered language translation platform for digital inclusion, says Modi"
     excerpt: "#WATCH | \"...More than 45% of global real-time payments happen in India...The CoWIN portal supported India's vaccination drive...We are building 'Bhashini' an AI-powered language translation platform. It will support digital inclusion in all the diverse languages in India...,\"… pic.twitter.com/zxOoF2P9bs"
     publishedDateTime: 2023-08-19T00:28:00Z

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Guiding Students to Assess the Merits of Artificial Intelligence Tools"
-    excerpt: "Students can tap into their critical thinking skills by examining artificial intelligence outputs to see if they meet learning standards."
-    publishedDateTime: 2023-08-14T18:00:00Z
-    webUrl: "https://www.edutopia.org/article/teaching-students-use-ai-tools"
-    type: article
-    provider:
-      name: Edutopia
-      domain: edutopia.org
-    quality: 17
   - title: "Newly-developed AI method uses transformer models to study human cells"
     excerpt: "Researchers in Carnegie Mellon University's School of Computer Science have developed a method that uses artificial intelligence to augment how cells are studied and could help scientists better understand and eventually treat disease."
     publishedDateTime: 2023-08-15T18:48:00Z

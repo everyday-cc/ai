@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/running-llama-2-intel-arc-gpu/"
 webUrl: "https://www.geeky-gadgets.com/running-llama-2-intel-arc-gpu/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 700
     height: 466
     isCached: true
+
+related:
+  - title: "Zotac Unveils New ZBox Magnus Mini PCs with Intel 13th Gen CPU and RTX 4070 GPU"
+    excerpt: "Zotac is updating the ZBox Magnus One with the Nvidia GeForce RTX 4070 graphics and 13th-Gen Intel Raptor Lake processors. Nvidia’s Ada Lovelace architecture brings many meaningful improvements, including new RT Cores & an Optical Flow accelerator. This facilitates AI-powered DLSS 3 frame generation for dramatically better in-game FPS."
+    publishedDateTime: 2023-08-19T09:54:00Z
+    webUrl: "https://beebom.com/zotac-zbox-magnus-mini-pcs-launched/"
+    ampWebUrl: "https://beebom.com/zotac-zbox-magnus-mini-pcs-launched/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/zotac-zbox-magnus-mini-pcs-launched/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 55
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/08/zotac-magnus-with-rtx-4070-announced.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "New Intel GPU Driver Boosts Arc A750 To Sack GeForce RTX 3060 In Madden 24"
+    excerpt: "Intel claims the Arc A750 is 10% faster than the GeForce RTX 3060 8GB in Madden 24, with the latest Arc driver installed."
+    publishedDateTime: 2023-08-16T14:57:00Z
+    webUrl: "https://hothardware.com/news/intel-gpu-driver-boosts-arc-a750-madden-24"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 37
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62308/content/Madden_24_Tackle_hero.jpg"
+        width: 708
+        height: 400
+        isCached: true
 
 secured: "SKWsXJW8jBhaRa8TpIQX39Uk7aIFLEpgh0gF9nY7BuF3OuG/uNscIfdjFa8QHXnrthp1srBCOS4J0RY2g7YZn5kcAIt7puo4u024vtYxpdI7eZkemNRdGLzc9IMttDTIUdrf5f50WLO7g22CHsnkx8h/mGh7bk8Jn8pvHEfmyXqqC5SMv4ZTHEeJEMbL6XJq9vZR9dfndqFYBcbGUYU3h/1QgqBEUX9KZ7Qvv7JBWHbJiYpYOq7yY/4R9/XjiaQmpZlMPAuBue6qawsRRmC+TgGc6FGx4D7EH1adr0lsPIjCFZzlP+zFD8MRfVlrVBFSobjbhEw62O/QspCBcpzpxhq9IzgZE+ouVLc3oLlRf92ZBSshougk+Op+mPyl3G3LkSAm0932CgEyM5d5olAtyY+FQ8EbAkf6zWe/0HMJYaFEdejs2+LbxRxfMyR7Tnq5bqukx2NROZLW2QJZiwMj+3y7gZBwqbzkjdPb4vShja5t3L+Tt7N2NfybT9ehz+tpLTjzdYkdoa1S7aROndmuMQ==;W6+P3I6fuRPOXRPet98Ysg=="
 ---
