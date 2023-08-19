@@ -29,56 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "New IBM study reveals how AI is changing work and what HR leaders should do about it"
-    excerpt: "Tomorrow may not be able to run with yesterday’s talent, and tomorrow’s talent may not be able be rely on yesterday’s ways of working. \nThe post New IBM study reveals how AI is changing work and what HR leaders should do about it appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-14T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it/"
+  - title: "40% of workers will have to reskill in the next three years due to AI, says IBM study"
+    excerpt: "The executives surveyed estimated that 40% of their workforce will have to reskill in the next three years due to AI implementation, totaling up to a whopping 1.4 billion of the 3.4 billion people in the global workforce, according to World Bank statistics."
+    publishedDateTime: 2023-08-18T21:13:00Z
+    webUrl: "https://www.zdnet.com/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 92
-  - title: "The New AI Jobs, Smaller Firms Shaping Remote Work And How United Is Luring Tech Workers"
-    excerpt: "The published version of Forbes' Future of Work newsletter delivers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the workforce and trends in the remote work debate to your inbox every Friday."
-    publishedDateTime: 2023-08-18T17:57:00Z
-    webUrl: "https://www.forbes.com/sites/jenamcgregor/2023/08/18/the-new-ai-jobs-smaller-firms-shaping-remote-work-and-how-united-is-luring-tech-workers/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dfae3b1057b63591c712f6/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/3d7c813c787c6081b091eed0d6514354aafcfa36/2023/08/18/5faf4966-981f-4cdc-acb3-b3d147b312cf/gettyimages-1247666158.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 711
+        height: 675
         isCached: true
-  - title: "AI is changing work – and HR leaders should change too"
-    excerpt: "The rise of generative AI has surfaced many new questions about how the technology will impact the workforce. Even as AI becomes more pervasive in business, people are still a core competitive advantage."
-    publishedDateTime: 2023-08-15T09:26:00Z
-    webUrl: "https://it-online.co.za/2023/08/15/ai-is-changing-work-and-hr-leaders-should-change-too/"
+  - title: "Will IBM’s analog chip take the AI world by storm?"
+    excerpt: "A team at IBM Research has developed a mixed-signal analog chip suitable for AI workloads. The project is still in the research phase, but it is looking"
+    publishedDateTime: 2023-08-15T11:12:00Z
+    webUrl: "https://www.techzine.eu/news/devices/110080/will-ibms-analog-chip-take-the-ai-world-by-storm/"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 39
+      name: techzine
+      domain: techzine.eu
+    quality: 54
     images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/08/work-sunrise.jpg"
-        width: 1075
-        height: 550
-        isCached: true
-  - title: "Artificial Intelligence Is Changing The World"
-    excerpt: "I have been hearing so much lately about Artificial Intelligence (AI) that it has started to annoy me to the core."
-    publishedDateTime: 2023-08-17T15:57:00Z
-    webUrl: "https://www.canyon-news.com/artificial-intelligence-is-changing-the-world/174398"
-    type: article
-    provider:
-      name: Canyon News
-      domain: canyon-news.com
-    quality: 39
-    images:
-      - url: "https://www.canyon-news.com/wp-content/uploads/2023/08/hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg"
-        width: 1920
-        height: 1078
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/ibm.jpg"
+        width: 917
+        height: 500
         isCached: true
 
 secured: "1HBVKC2jHzktPWNbgJL6JDCvu5CochhmK+Ou8ZK6qAt2EJj5AndY/IdXwKTxN34sJegFgErQY8KerX25vUM/TyYCkHoZSGk37yLrQ6NwN23yfeHo6GBhbP9ZD1zhVLcOALM6CFRG3kuYjEFIFGSk6s0mfcAAZDXZoR4/cPE/tYopMVTdUE03V9x1bJYcdrN35coTEMEa2tJYCwDYB1TXA0artTM+DXnUPCAEDQbacTb8vDCyGXxuIMXz9qm6rdrIaeVr69nobYTNxllBcoLHe0w1lt9e2yfqcYVnVr6Ygzw8FdCZPXHfIYkxCKrYbxDOxAj6SldKLo94FL85+lwC6k3sCMgpo5Jv6aJ+czv/JuaocIRiG+9Hes322x82UVHn6IyQJW89UrNl+8mgSZOumCNMTXqkAgFGoHEONHBa2uh82UE7zZiQ1asKVn1N2+k/Nm0fwnUx85rGZDPBaG7lnEiT4u0bqpIBsUwWGIuEIg9wd0wM3/kikFec4I6GRDqXDmg9QZ90lb33BRksF6KtiA==;XyoZUmezBfavXMUN3DyVaQ=="

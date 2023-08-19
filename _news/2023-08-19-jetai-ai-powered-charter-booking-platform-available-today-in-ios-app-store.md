@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Embracing The AI Revolution"
+    excerpt: "In a world where AI has become an integral part of our daily lives, resistance is not only futile but counterproductive."
+    publishedDateTime: 2023-08-14T16:36:00Z
+    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/14/embracing-the-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/14/embracing-the-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/08/14/embracing-the-ai-revolution/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64da56e59b353f4c410eda42/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Filsaime's Groove AI AI-Powered Copywriting Platform by Muncheye Launch"
     excerpt: "Muncheye announced the release of Mike Filsaime's Groove AI, a new software platform featuring a new transformative approach to digital"
     publishedDateTime: 2023-08-15T23:31:00Z

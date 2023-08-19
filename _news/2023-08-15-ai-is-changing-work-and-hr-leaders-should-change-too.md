@@ -25,57 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "New IBM study reveals how AI is changing work and what HR leaders should do about it"
-    excerpt: "Tomorrow may not be able to run with yesterday’s talent, and tomorrow’s talent may not be able be rely on yesterday’s ways of working. \nThe post New IBM study reveals how AI is changing work and what HR leaders should do about it appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-14T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it/"
+  - title: "How artificial intelligence could change college football"
+    excerpt: "The explosion of applications like ChatGPT has thrown many businesses into a new industrial revolution as new efficiencies could streamline workflow. That’s great for everyone but the humans who could be replaced by computers. Few industries escape at least the conversation of AI disruption and college football is far from exempt."
+    publishedDateTime: 2023-08-18T11:42:00Z
+    webUrl: "https://www.mlive.com/news/2023/08/how-artificial-intelligence-could-change-college-football.html"
+    ampWebUrl: "https://www.mlive.com/news/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 92
-  - title: "Study: Reskilling Is Inevitable As AI Changes How We Work"
-    excerpt: "Learning new skills is part of the fabric of today's technological advancement. Leaders need to make sure workers can adjust and know the reasoning behind it."
-    publishedDateTime: 2023-08-18T20:47:00Z
-    webUrl: "https://www.techrepublic.com/article/reskilling-ai-study/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
+      name: MLive
+      domain: mlive.com
+    quality: 57
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/portainer-templates-deploy-full-stack-application.jpeg"
-        width: 1200
-        height: 800
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5ZMK7BFE75HRNE6IUZQTAYPKE4.jpg"
+        width: 5372
+        height: 3022
         isCached: true
-  - title: "The New AI Jobs, Smaller Firms Shaping Remote Work And How United Is Luring Tech Workers"
-    excerpt: "The published version of Forbes' Future of Work newsletter delivers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the workforce and trends in the remote work debate to your inbox every Friday."
-    publishedDateTime: 2023-08-18T17:57:00Z
-    webUrl: "https://www.forbes.com/sites/jenamcgregor/2023/08/18/the-new-ai-jobs-smaller-firms-shaping-remote-work-and-how-united-is-luring-tech-workers/"
+  - title: "IBM analog AI chip uses phase-change memory"
+    excerpt: "IBM Research has developed a multicore compute in memory analog AI chip using PCM to reduce the power consumption."
+    publishedDateTime: 2023-08-14T19:25:00Z
+    webUrl: "https://www.eenewseurope.com/en/ibm-analog-ai-chip-uses-phase-change-memory/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dfae3b1057b63591c712f6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 711
-        isCached: true
-  - title: "Artificial Intelligence Is Changing The World"
-    excerpt: "I have been hearing so much lately about Artificial Intelligence (AI) that it has started to annoy me to the core."
-    publishedDateTime: 2023-08-17T15:57:00Z
-    webUrl: "https://www.canyon-news.com/artificial-intelligence-is-changing-the-world/174398"
-    type: article
-    provider:
-      name: Canyon News
-      domain: canyon-news.com
-    quality: 39
-    images:
-      - url: "https://www.canyon-news.com/wp-content/uploads/2023/08/hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg"
-        width: 1920
-        height: 1078
-        isCached: true
+      name: eeNews Europe
+      domain: eenewseurope.com
+    quality: 34
 
 secured: "zV+5Kbdm26/aPiKGM2TyVGj6VqSm1UzIKdqcQfBPZ6pxlIUiKswY6tRY9eVyPStT/DweFvg0QueI7fbW2QAcca1uL6FQD21J1iBaZWnesOqM6VvKdViqYbrc/QJ2bOcpcytDmGGe5edTCYSHTe82Zf2wmXsV+G7+Yf2w3t0j4JM7uiHy1sjAAY36AlQS6m1GARXBaff2EqGPCx4a36rwtI1c37N2AX7X9bdQQ9jnAHHtLXKehkOoHuqlyxFAy7AbymKQ/0f3a86fH2ROffL+EZRh5r3QjcNlDiDGqgn7zQGgemdYSsSTvUnV+AB/8hq2YrHyG5UPl9NkrXXDZsiJAyI7y9JCjWf8v6vQll2NHEgh7We3cYEFqcgt5lK69IKFr8x7ysrhRpWMKgSYKDV13uefBEC7YW6dRbG5Do53h3+Hf/SCqCWi5+fQk7mh6aql8Uw0mYsix0mynKTpt8Id/btj7vTNzGEIOZCo3k/EFAF4eZxfDjkb9u/5UdP6c8sdE5e39zkaXhK+XFlvJYGARQ==;iEmCoFAJVSlB6Pxigl3hIw=="
 ---

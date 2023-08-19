@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/15/deckmatch-seed-round/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/15/deckmatch-seed-round/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://investorplace.com/wp-content/uploads/2023/08/jetsons.jpg"
         width: 566
         height: 683
+        isCached: true
+  - title: "Artificial Intelligence Is Changing The World"
+    excerpt: "I have been hearing so much lately about Artificial Intelligence (AI) that it has started to annoy me to the core."
+    publishedDateTime: 2023-08-17T15:57:00Z
+    webUrl: "https://www.canyon-news.com/artificial-intelligence-is-changing-the-world/174398"
+    type: article
+    provider:
+      name: Canyon News
+      domain: canyon-news.com
+    quality: 39
+    images:
+      - url: "https://www.canyon-news.com/wp-content/uploads/2023/08/hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg"
+        width: 1920
+        height: 1078
         isCached: true
   - title: "Stop wasting time looking for stock photos—this AI image generator is on sale"
     excerpt: "Stop wasting time sourcing stock photos. Get this DALL-E AI Image Generator & WordPress Plugin: Lifetime License on sale for just $59 (reg. $299) for a limited time."

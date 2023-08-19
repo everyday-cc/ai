@@ -62,6 +62,20 @@ related:
         width: 566
         height: 683
         isCached: true
+  - title: "Artificial Intelligence Is Changing The World"
+    excerpt: "I have been hearing so much lately about Artificial Intelligence (AI) that it has started to annoy me to the core."
+    publishedDateTime: 2023-08-17T15:57:00Z
+    webUrl: "https://www.canyon-news.com/artificial-intelligence-is-changing-the-world/174398"
+    type: article
+    provider:
+      name: Canyon News
+      domain: canyon-news.com
+    quality: 39
+    images:
+      - url: "https://www.canyon-news.com/wp-content/uploads/2023/08/hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg"
+        width: 1920
+        height: 1078
+        isCached: true
 
 secured: "5Y9S1EzF3wXMPp8uBdYQfAAdoHNWKT2lwArVsb2Jn3Yq1av60PL68DQ6E+qmmOzmBE2AcMSwbP7c70AXCjxPR0+XxFwlFUb1z840So43mpLowodXdmV3A2zddfr+j7DjmCFY3sEJTUDZxUdqkr7HyoOYQa6QEbf10T+1/U+VJ5BWYTwYlXQ9BV7Isbt3nJL+5ruZRmxronTAgNu2mCiTIml3XO4DE6ztv6yClhCzrw1RPMasH5mOKFLA5iBnKPi2ipM7lQzRRQmPoDZW3yhDlncLQdX+OMIubuTCw8eGvVwexN9+rJdAMnehjLEq2BEaTtZ4sq/Uy+e12+2ibYsHNh+mA+coD4s6cZ9L3gvXvIKEwJFNRYIIAhARE+wS3LHlalUgyjf3fDd8VPk8y3Q1sxBQ0IIzJK+CdhvxoCPlwWLy9QjP/2bJ+Uyf3yZn9PqZ//5Ih55FXIIOo2ORx6xNYYvTk5NiaTooErQAC22zB5JRx1h36/+Cm9E5LTOSIilKK17cvHabX3JEKP9LgubjJQ==;7SOf8g0Is7G1FSv30crByQ=="
 ---

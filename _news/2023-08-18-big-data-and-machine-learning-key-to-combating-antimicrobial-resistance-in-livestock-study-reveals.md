@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/big-data-and-machine-learnin
 webUrl: "https://www.datanami.com/this-just-in/big-data-and-machine-learning-key-to-combating-antimicrobial-resistance-in-livestock-study-reveals/"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Big data and machine learning can help combat antimicrobial resistance in livestock"
+    excerpt: "A new study suggests that using big data and machine learning in antimicrobial resistance (AMR) surveillance in livestock production methods could help inform interventions and offer protections against germs that are becoming resistant to antibiotics."
+    publishedDateTime: 2023-08-19T05:23:00Z
+    webUrl: "https://www.news-medical.net/news/20230818/Big-data-and-machine-learning-can-help-combat-antimicrobial-resistance-in-livestock.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 33
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/bacteria_-_Sebastian_Kaulitzki_46826fb7971649bfaca04a9b4cef3309-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Machine learning could boost antimicrobial resistance on farms"
     excerpt: "New research has shown that big data and machine learning could be used to boost antimicrobial resistance (AMR) surveillance on farms, improving outcomes for livestock."
     publishedDateTime: 2023-08-18T12:49:00Z

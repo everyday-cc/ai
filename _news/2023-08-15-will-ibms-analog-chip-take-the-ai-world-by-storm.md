@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Study: Reskilling Is Inevitable As AI Changes How We Work"
+    excerpt: "Learning new skills is part of the fabric of today's technological advancement. Leaders need to make sure workers can adjust and know the reasoning behind it."
+    publishedDateTime: 2023-08-18T20:47:00Z
+    webUrl: "https://www.techrepublic.com/article/reskilling-ai-study/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/portainer-templates-deploy-full-stack-application.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "U2mAL8S3wJ++Sn4c4UIJOD5cMX+q6ySjLVgWxhA1GwuJvyqUYxT5lHmMQEj5blc9k/rI17abw43vou2cJHok7BEldQrWrpUYlFGAIKITOwqq4qJ9Ll/eODoRHs+zKHRFeyEu/2SVz/CVdrHwjeHDtJgn2foATbG4erkUQUx/q8LjVKm+bmK6Fq/V9Se/FYuVqhQgj8kd71QVl64G7W1LO4sw553TfSGIsv33fyFwgea5nOmiV8+HZ2UGksvCcaNH5Qa5mhDlTjkdnrMvgTU+Fpl5n9GdzliUML8Nj8TPRHVlaLuCQWQu7mUDYututBs+LzcQN1ZjYh3MVyHcdG506dlprJqClzbS327JyfegVancMBhX3lz63A1PEZbVa+ya/ZEmgy8rO7N+INolEABAbY6Xp1kddMHF8nKFTQRGnUOvZAABEvUDhJXC2yBDbZraWD/c02wfBKJAvnCBbGus3cGhIi5Ey5mUYXcdkUR4k4gJEbNGSLU3jLZ+qcSKoir8TtUZDUVXHCEJizmeRQBiXg==;YZOthWiuB2GT9uA390as6w=="
 ---

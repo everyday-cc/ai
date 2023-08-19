@@ -25,57 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "New IBM study reveals how AI is changing work and what HR leaders should do about it"
-    excerpt: "Tomorrow may not be able to run with yesterday’s talent, and tomorrow’s talent may not be able be rely on yesterday’s ways of working. \nThe post New IBM study reveals how AI is changing work and what HR leaders should do about it appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-14T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it/"
+  - title: "VC associates, this AI is coming for your jobs"
+    excerpt: "The unfortunate reality of being an investor is that the vast majority of inbound pitch decks are completely irrelevant to the investor."
+    publishedDateTime: 2023-08-17T19:52:00Z
+    webUrl: "https://techcrunch.com/2023/08/15/deckmatch-seed-round/"
+    ampWebUrl: "https://techcrunch.com/2023/08/15/deckmatch-seed-round/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/15/deckmatch-seed-round/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 92
-  - title: "Study: Reskilling Is Inevitable As AI Changes How We Work"
-    excerpt: "Learning new skills is part of the fabric of today's technological advancement. Leaders need to make sure workers can adjust and know the reasoning behind it."
-    publishedDateTime: 2023-08-18T20:47:00Z
-    webUrl: "https://www.techrepublic.com/article/reskilling-ai-study/"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/DeckMatch-Dashboard-Large.jpeg?w=1159"
+        width: 1159
+        height: 814
+        isCached: true
+  - title: "Move over Bard, Google's next big AI product is coming this fall"
+    excerpt: "Google Gemini, the next-generation AI foundational model that combines conversational text with image generation, could launch this fall."
+    publishedDateTime: 2023-08-16T09:10:00Z
+    webUrl: "https://www.androidauthority.com/google-gemini-ai-fall-release-3355460/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
+      name: Android Authority
+      domain: androidauthority.com
     quality: 69
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/portainer-templates-deploy-full-stack-application.jpeg"
-        width: 1200
-        height: 800
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-gemini.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "The New AI Jobs, Smaller Firms Shaping Remote Work And How United Is Luring Tech Workers"
-    excerpt: "The published version of Forbes' Future of Work newsletter delivers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the workforce and trends in the remote work debate to your inbox every Friday."
-    publishedDateTime: 2023-08-18T17:57:00Z
-    webUrl: "https://www.forbes.com/sites/jenamcgregor/2023/08/18/the-new-ai-jobs-smaller-firms-shaping-remote-work-and-how-united-is-luring-tech-workers/"
+  - title: "The AI Panic Is Coming: Be Ready"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) has been a hot topic for much of this year, and"
+    publishedDateTime: 2023-08-15T20:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-ai-panic-is-coming-1032556797"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dfae3b1057b63591c712f6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 711
+      - url: "https://investorplace.com/wp-content/uploads/2023/08/jetsons.jpg"
+        width: 566
+        height: 683
         isCached: true
-  - title: "AI is changing work – and HR leaders should change too"
-    excerpt: "The rise of generative AI has surfaced many new questions about how the technology will impact the workforce. Even as AI becomes more pervasive in business, people are still a core competitive advantage."
-    publishedDateTime: 2023-08-15T09:26:00Z
-    webUrl: "https://it-online.co.za/2023/08/15/ai-is-changing-work-and-hr-leaders-should-change-too/"
+  - title: "Stop wasting time looking for stock photos—this AI image generator is on sale"
+    excerpt: "Stop wasting time sourcing stock photos. Get this DALL-E AI Image Generator & WordPress Plugin: Lifetime License on sale for just $59 (reg. $299) for a limited time."
+    publishedDateTime: 2023-08-17T13:00:00Z
+    webUrl: "https://www.popsci.com/sponsored-content/dall-e-ai-image-generator-sale/"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 39
-    images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/08/work-sunrise.jpg"
-        width: 1075
-        height: 550
-        isCached: true
+      name: Popular Science
+      domain: popsci.com
+    quality: 14
 
 secured: "jEws3sL7fUhbbYMCgloyx3cBwnZ657ciDrwpdt0QOuFSbyHgnkAdYRBHHcr9o4vLqxxcAL4GPZW4nLARxkVbJZUTvgEsFwP+DRYpO1CSZPLESAs8rvduN+4toQGrqzaQF7o0IjiRdLFdm0AFYHtD2zv6CSfo5JJlbMYzPyfc/Tyn+8jYqVOoJ0wmnMVaum9Omq+3gKYKT69XZOqAlUXoh31uTDdwqDfIRQqVlFFRuMIS0JFI45cM9ewcDK1VQlYYXOhK+TvwpncB0bS4IiGTp1t/r6lHnz6mDwxjIW7V2V8t45RoIHFmyNI8ouSXkFUItkBNsTglxZYWZCzuwTWBkKixzHvsPdIDERtDyWByr7arzJCaDN6vANr6AWS4bpgksYRxE0EYqUFTEoA2nTheIb7VMGYFsvyqc2PunwY/8clHi49tp0v+BB+5XkPSFtPBb4jjZiH4uMNMBBsjkyyN4yNhhbOt3xHM/7hbMa4qBvtLl6O/2KSL4ZOS9OarYCKb72m/A7An3GCdYBCR11gkBw==;nCnncyCqmHuq0DcWZqsGIQ=="
 ---

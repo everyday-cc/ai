@@ -127,6 +127,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
+  - title: "The Generative AI Revolution Is Underway"
+    excerpt: "It’s not an easy path but with proper support from employers and government, the benefits of AI are likely to significantly outweigh its costs."
+    publishedDateTime: 2023-08-15T15:45:00Z
+    webUrl: "https://www.aei.org/workforce-development/the-generative-ai-revolution-is-underway/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
   - title: "China's new rules on AI-generated content"
     excerpt: "China put into force this week its newest regulations on artificial intelligence-generated content, a watered-downed version of stricter draft rules that seek to keep the country in the AI race while maintaining firm censorship on online content."
     publishedDateTime: 2023-08-18T21:27:00Z

@@ -49,6 +49,20 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "WCM-Q discusses legal and ethical issues of generative AI in healthcare"
+    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed during the latest"
+    publishedDateTime: 2023-08-19T05:20:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/19/08/2023/wcm-q-discusses-legal-and-ethical-issues-of-generative-ai-in-healthcare"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 71
+    images:
+      - url: "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg"
+        width: 1280
+        height: 1024
+        isCached: true
   - title: "China's new rules on AI-generated content"
     excerpt: "Here's what you need to know about Beijing's regulations, which target services for the general public: - AI ethics - Generative AI must \"adhere to the core values of socialism\" and refrain from threatening national security and promoting terrorism ..."
     publishedDateTime: 2023-08-18T07:02:00Z

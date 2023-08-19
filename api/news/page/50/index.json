@@ -2,6 +2,162 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-07-14-this-small-chip-stock-is-up-200-in-a-year-on-ai-hype.md",
+      "title": "This Small Chip Stock Is Up 200% in a Year on AI Hype",
+      "excerpt": "Rambus has been on a tear due to optimism surrounding its memory interface chips, and an upgrade cycle from AI. The company has put its past behind it, but investor optimism might be running a bit too hot given the nature of this business model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/14/this-small-chip-stock-is-up-200-in-a-year-on-ai-hy/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/14/this-small-chip-stock-is-up-200-in-a-year-on-ai-hy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/739535/data.jpg",
+          "width": 5000,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-14T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-1-beaten-down-stock-that-could-become-a-massive-ai-winner.md",
+      "title": "1 Beaten-Down Stock That Could Become a Massive AI Winner",
+      "excerpt": "The smartphone market's slowdown has weighed heavily on Qualcomm, but the company is looking to make the most of the opportunity in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/14/1-beaten-down-stock-that-could-become-a-massive-ai/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/14/1-beaten-down-stock-that-could-become-a-massive-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/739465/abstract-human-skull-representing-ai.jpg",
+          "width": 2119,
+          "height": 1415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-14T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-the-last-word-on-ai-and-the-atom-bomb.md",
+      "title": "The Last Word on AI and the Atom Bomb",
+      "excerpt": "I’m old enough to have cowered under my school desk. Decades later I learned physics from the bomb guys. What I’m mainly hearing now is echoes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/last-word-ai-atom-bomb/",
+      "originalUrl": "https://www.wired.com/story/last-word-ai-atom-bomb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64b09f9d57ff6ec62db8a8b5/191:100/w_1280,c_limit/ideas_ai_oppenheimer.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-14T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-kpmg-is-making-a-2-billion-bet-on-ai-its-another-example-of-big-changes-that-are-coming-to-the-workplace.md",
       "title": "KPMG is making a $2 billion bet on AI. It's another example of big changes that are coming to the workplace.",
       "excerpt": "KPMG advises businesses around the world. It's teaming with Microsoft to bring AI to more of them. Get ready for the new tech to spread even faster.",
@@ -1019,160 +1175,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch.md",
-      "title": "This Week In XR: Musk Launches X.ai, Meta Threads Blasts Off, Roblox VR Launch",
-      "excerpt": "This Week in XR is also a podcast hosted by the author of this column, Ted Schilowitz, Futurist, Paramount Global, and Rony Abovitz, founder of Magic Leap. This week our guest is Shawn Frayne, CEO of 3D monitor LookingGlass. We can be found on Spotify, iTunes, and YouTube.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/07/13/this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/07/13/this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b0533f306f9dc55aee1981/0x0.jpg?format=jpg&crop=3404,1914,x0,y406,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/07/13/this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/07/13/this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch/amp/",
-      "publishedDateTime": "2023-07-13T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-actors-say-hollywood-studios-want-their-ai-replicas-for-free-forever.md",
-      "title": "Actors say Hollywood studios want their AI replicas — for free, forever",
-      "excerpt": "During today’s press conference in which Hollywood actors confirmed that they were going on strike, Duncan Crabtree-Ireland, SAG-AFTRA’s chief negotiator, revealed a proposal from Hollywood studios that sounds ripped right out of a Black Mirror episode.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights",
-      "originalUrl": "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/EOBvakgKZaoIGZu_qy6UzPlSD_s=/0x0:1422x750/1200x628/filters:focal(941x379:942x380)/cdn.vox-cdn.com/uploads/chorus_asset/file/24693367/black_mirror_s6.jpeg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-bank-of-america-is-using-ai-and-metaverse-to-train-new-hires.md",
-      "title": "Bank of America Is Using AI and Metaverse to Train New Hires",
-      "excerpt": "When you arrive at Bank of America’s new-employee boot camp at the New York Hilton Midtown, you’ll find a VR headset waiting for you. Slide it on, and you’ll be confronted with an angry customer, frustrated over a mix-up with their account.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivytSQi0mxQc/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

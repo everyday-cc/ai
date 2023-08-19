@@ -76,20 +76,6 @@ related:
         width: 5372
         height: 3022
         isCached: true
-  - title: "How To Invest In ChatGPT"
-    excerpt: "These include the Azure Bot Service, which allows businesses to create intelligent chatbots using Microsoft technologies, and Azure Cognitive Services to assist developers of natural language processing and translation tools. Brewin Dolphin’s Mr Moore ..."
-    publishedDateTime: 2023-08-14T11:56:00Z
-    webUrl: "https://www.forbes.com/uk/advisor/investing/how-to-invest-in-chatgpt/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/08/ChatGPT_image-e1692002280431.jpg"
-        width: 1188
-        height: 669
-        isCached: true
   - title: "These States Are the Most Tech-Obsessed, Can't Get Enough of ChatGPT, AI"
     excerpt: "Is the East Coast or West Coast more excited about AI chatbots? A study of Google search trends in each US state reveals where people are the most interested in next-generation technologies."
     publishedDateTime: 2023-08-18T12:00:00Z
@@ -122,15 +108,6 @@ related:
       name: CCM
       domain: ccm.net
     quality: 19
-  - title: "Schools navigate regulation of artificial intelligence, ChatGPT as students return to classrooms"
-    excerpt: "Artificial intelligence is becoming a major conversation in the classroom, especially a popular software called ChatGPT. ABC7 asked ChatGPT to write a book report on \"Pride and Prejudice.\" In just seconds, it created a report that would probably satisfy ..."
-    publishedDateTime: 2023-08-14T12:52:00Z
-    webUrl: "https://abc7chicago.com/ai-chatgpt-what-is-artificial-intelligence-back-to-school/13646839/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 4
   - title: "ChatGPT is a Glorified Tape Recorder"
     excerpt: "Large language models (LLMs) are the new wave of artificial intelligence that trains neural networks with a large amount of human-generated text with the goal of producing new text and knowledge. In an interview with CNN anchor Fareed Zakaria yesterday ..."
     publishedDateTime: 2023-08-17T21:13:00Z

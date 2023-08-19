@@ -62,7 +62,7 @@
       "originalUrl": "https://www.zdnet.com/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -611,7 +611,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 273,
+      "heat": 283,
       "tags": null,
       "images": [
         {
@@ -747,6 +747,48 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-how-artificial-intelligence-could-change-college-football.md",
+      "title": "How artificial intelligence could change college football",
+      "excerpt": "The explosion of applications like ChatGPT has thrown many businesses into a new industrial revolution as new efficiencies could streamline workflow. That’s great for everyone but the humans who could be replaced by computers. Few industries escape at least the conversation of AI disruption and college football is far from exempt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/2023/08/how-artificial-intelligence-could-change-college-football.html",
+      "originalUrl": "https://www.mlive.com/news/2023/08/how-artificial-intelligence-could-change-college-football.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5ZMK7BFE75HRNE6IUZQTAYPKE4.jpg",
+          "width": 5372,
+          "height": 3022,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp",
+      "publishedDateTime": "2023-08-18T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1201,50 +1243,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-phillies-fans-can-soon-enter-citizens-bank-park-using-facial-recognition-heres-how-it-works.md",
-      "title": "Phillies fans can soon enter Citizens Bank Park using facial recognition. Here's how it works",
-      "excerpt": "For the first time ever you will have the option to use your face as a ticket at Citizens Bank Park come Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
-      "originalUrl": "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13664068_081723-wpvi-phillies-facial-recognition-4pm-CC-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
-      "cdnAmpWebUrl": "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
-      "publishedDateTime": "2023-08-17T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "6abc News",
-        "domain": "6abc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

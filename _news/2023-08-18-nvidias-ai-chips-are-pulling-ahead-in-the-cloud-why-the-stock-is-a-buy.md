@@ -49,15 +49,6 @@ related:
         width: 1187
         height: 667
         isCached: true
-  - title: "Nvidia unveils faster chip aimed at cementing AI dominance"
-    excerpt: "The Grace Hopper Superchip, a combination graphics chip and processor, will get a boost from a new type of memory, Nvidia said last week at the Siggraph conference in Los Angeles. The product relies on high-bandwidth memory 3, or HBM3e, which is able to access information at a blazing 5 terabytes per second."
-    publishedDateTime: 2023-08-14T12:59:00Z
-    webUrl: "https://www.seattletimes.com/business/nvidia-unveils-faster-chip-aimed-at-cementing-ai-dominance/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 34
 
 secured: "agkQhmy+9n2lGdbjsPMrUkZrBFY1sVCTKB1PUaZNRKJKmEjZqy+fJR0NIdnQkm/pfhaD6pQlApm9XdL7+03WFeiY+LuvB73hlnKXnrHykW5rKjIm8mgr9OYss9o6sZoOIFjpDa/YE2skCJ5hdmJP5tk8JClBNcl7imYVeR1fFIXnBS3BmEkn+Z5yQX4k9rYY832b+7wGb1ErV3MMiQd1ajfhh3uF1n5D/jOJvYvGKQnYbUxThrCqvckfQ9NzMjkU8W94BERq+XQRhymxTOeO7Fd5h3XFd6brDzzbO0yAUrtow/Z4eOhKYj+a5dXIfU+7fWrtn0KaLuIqhVM1dowNKs8uGqV683xpgCm6fOc+0Ue9tyxX1wL7ogahQTc1d1NMxv+WYLZrpyljCqsAIrKTTKvKiDPm2h/p+rJP48qngbc+hXrTX7wlpM83tS7CUjDyvi6x+bLVGyHmwrxBZuXU9nQl3wvhAA1ZqPVJLeGGe6IGpK7GCatUe/KcagWXEoy4lSGWsnyeWQhvYgXuFBPRRg==;k3ln2HobVOXN6gHf6M7K3w=="
 ---

@@ -2,6 +2,154 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-07-06-daniel-eks-neko-health-raises-65m-for-ai-driven-preventative-healthcare-solutions.md",
+      "title": "Daniel Ek’s Neko Health raises $65M for AI-driven preventative healthcare solutions",
+      "excerpt": "Neko Health has introduced an innovative AI-driven scanning technology that enables extensive and non-invasive healthcare data collection.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/daniel-ek-neko-health-raises-65m-for-ai-driven-preventative-healthcare-solutions/",
+      "originalUrl": "https://venturebeat.com/ai/daniel-ek-neko-health-raises-65m-for-ai-driven-preventative-healthcare-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Neko.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-indias-tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai.md",
+      "title": "India's TCS to upskill 25,000 engineers on Microsoft's Azure Open AI",
+      "excerpt": "Azure Open AI. The company also launched its new Generative AI Enterprise adoption offering for clients, making a bet on the rapidly growing artificial intelligence space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/indias-tcs-upskill-25000-engineers-microsofts-azure-open-ai-2023-07-06/",
+      "originalUrl": "https://www.reuters.com/technology/indias-tcs-upskill-25000-engineers-microsofts-azure-open-ai-2023-07-06/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-ai-robots-could-play-future-role-as-companions-in-care-homes.md",
+      "title": "AI robots could play future role as companions in care homes",
+      "excerpt": "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/tech-ai-un-idUSL8N38S3BQ",
+      "originalUrl": "https://www.reuters.com/article/tech-ai-un-idUSL8N38S3BQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/E9v889KGpiT_0ZzHIGcK9Sp20y0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2ES6WJHBTJMRDA3BT6QDD63V5I.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-ai-vs-machine-learning-vs-deep-learning-vs-neural-networks-whats-the-difference.md",
       "title": "AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference?",
       "excerpt": "Discover the differences and commonalities of artificial intelligence, machine learning, deep learning and neural networks.\nThe post AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference? appeared first on IBM Blog.\n",
@@ -1075,161 +1223,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year.md",
-      "title": "Elon Musk Predicts Tesla Self-Driving Cars Will Arrive ‘This Year’",
-      "excerpt": "Musk’s prediction follows a series of failed forecasts from the billionaire estimating driverless cars are just around the corner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
-      "originalUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6929e1386ad1b194c321a/0x0.jpg?format=jpg&crop=3622,2036,x0,y46,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
-      "publishedDateTime": "2023-07-06T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-air-force-colonel-says-it-took-ai-10-minutes-to-complete-a-task-that-can-take-humans-days.md",
-      "title": "Air Force colonel says it took AI 10 minutes to complete a task that can take humans days",
-      "excerpt": "The US is testing AI to help defense agencies' internal communications, Bloomberg reported. Some AI models have even been fed classified information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7",
-      "originalUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64a5c9376075be0019c2be26?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7?amp",
-      "publishedDateTime": "2023-07-06T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-theres-one-hard-question-my-fellow-doctors-and-i-will-need-to-answer-soon.md",
-      "title": "There’s One Hard Question My Fellow Doctors and I Will Need to Answer Soon",
-      "excerpt": "Or so I thought then. Not even two decades later, we find ourselves at the dawn of what many believe to be a new era in medicine, one in which artificial intelligence promises to write our notes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/07/06/opinion/artificial-intelligence-medicine-healthcare.html",
-      "originalUrl": "https://www.nytimes.com/2023/07/06/opinion/artificial-intelligence-medicine-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/07/06/autossell/NYT_Medical-AI_ShiraInbar_Still/NYT_Medical-AI_ShiraInbar_Still-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

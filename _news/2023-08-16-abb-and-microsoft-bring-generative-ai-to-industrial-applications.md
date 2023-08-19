@@ -93,15 +93,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Amazon chips will help to compete with Google, Microsoft in AI race, here’s how"
-    excerpt: "Amazon aims to enter the generative artificial intelligence (AI) market and has begun developing microchips to compete against tech majors such as Goo"
-    publishedDateTime: 2023-08-14T12:33:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-chips-will-help-to-compete-with-google-microsoft-in-ai-race-heres-how/articleshow/102726767.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 47
   - title: "ABB, Microsoft bring generative AI to industrial applications"
     excerpt: "ABB will collaborate with Microsoft on the integration of Azure OpenAI Service into the ABB Ability Genix Industrial Analytics and AI suite. The companies will work together on the implementation of generative AI technology to help industrial customers unlock insights hidden in operational data."
     publishedDateTime: 2023-08-17T07:45:00Z

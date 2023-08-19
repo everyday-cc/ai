@@ -26,100 +26,178 @@ images:
     isCached: true
 
 related:
-  - title: "Leading The AI Revolution: Best Practices For Executive Leaders"
-    excerpt: "Regardless of where you might be on the AI journey, it is a must-have conversation that includes leadership, executives and teams across the organization."
-    publishedDateTime: 2023-08-14T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/640653232a8f09e0f7c603ac/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 660
-        isCached: true
-  - title: "Embracing The AI Revolution"
-    excerpt: "In a world where AI has become an integral part of our daily lives, resistance is not only futile but counterproductive."
-    publishedDateTime: 2023-08-14T16:36:00Z
-    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/14/embracing-the-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/14/embracing-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/08/14/embracing-the-ai-revolution/amp/"
+  - title: "Using AI In Customer Communication"
+    excerpt: "By leveraging the right AI tools while considering the reasoning for their implementation, you can drive significant success in terms of customer communication."
+    publishedDateTime: 2023-08-15T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/15/using-ai-in-customer-communication/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64da56e59b353f4c410eda42/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64da309a14c3ce119fb1ea3f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 744
+        isCached: true
+  - title: "The Power Of AI In Modeling Healthy Communications"
+    excerpt: "Artificial intelligence (AI) has emerged as a powerful tool in modeling healthy communications, which I define as interactions that promote mutual benefit and growth. Let's look at how, through AI, business leaders can enhance their teams' understanding of effective communication strategies and model them for specific applications."
+    publishedDateTime: 2023-08-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5ef60896accb250006414b32/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Amazon now using generative AI to summarize customer reviews"
+    excerpt: "Available on a wide number of products for many US shoppers on mobile devices, the AI tech will condense all the customer reviews into one digestible paragraph."
+    publishedDateTime: 2023-08-15T17:37:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/fd7d04c6b95c4ca84d40ae31677e3db892358371/2023/08/15/a50e0fd5-5c54-4fcf-83cd-0e849a812256/figure-top-amazon-now-using-generative-ai-to-summarize-customer-reviews.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Six Ways AI Could Revolutionize The Way You Do Business"
-    excerpt: "At Pink Moon Studio, we implemented new AI features to automate tedious tasks like player behavior tracking and ticket handling. AI-powered analytics helped us understand player p"
-    publishedDateTime: 2023-08-16T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/amp/"
+  - title: "From Automation To Innovation: AI For Coaching Businesses Simplified"
+    excerpt: "AI is a powerful tool for augmenting human capabilities and revolutionizing business processes. Unlock the power of AI for your coaching business today."
+    publishedDateTime: 2023-08-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/17/from-automation-to-innovation-ai-for-coaching-businesses-simplified/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/632dbbaa69b953ca837d2c1f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dccbefd5a89efd5188000e/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 569
         isCached: true
-  - title: "How the human brain is revolutionizing AI hardware"
-    excerpt: "GEMESYS is developing a revolutionary chip design that mimics the information-processing mechanisms of the human brain – now they are nominated for a"
-    publishedDateTime: 2023-08-16T11:50:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/236506"
+  - title: "How Amazon Shopping uses Amazon Rekognition Content Moderation to review harmful images in product reviews"
+    excerpt: "Customers are increasingly turning to product reviews to make informed decisions in their shopping journey, whether they’re purchasing everyday items like a kitchen towel or making major purchases like buying a car. These reviews have transformed into an essential source of information, enabling shoppers"
+    publishedDateTime: 2023-08-15T19:31:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-shopping-uses-amazon-rekognition-content-moderation-to-review-harmful-images-in-product-reviews/"
     type: article
     provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 39
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
+  - title: "Financial Services Are Using Artificial Intelligence to Navigate Regulations"
+    excerpt: "In five key areas, AI and machine learning tools can help banks follow know-your-customer rules, spot potential money laundering and more."
+    publishedDateTime: 2023-08-14T20:23:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/08/financial-services-are-using-artificial-intelligence-navigate-regulations"
+    ampWebUrl: "https://biztechmagazine.com/article/2023/08/financial-services-are-using-artificial-intelligence-navigate-regulations?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/08/financial-services-are-using-artificial-intelligence-navigate-regulations?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 56
     images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/db897644-a15c-42ce-ad84-4369b9ac29e2--r2ksm.jpg"
-        width: 400
-        height: 217
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202308/GettyImages-1210917404.jpg?itok=rV6TnDKT"
+        width: 1440
+        height: 500
         isCached: true
-  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
-    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
-    publishedDateTime: 2023-08-18T08:45:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
+  - title: "How AI Can Scale Personalization and Creativity in Marketing"
+    excerpt: "AI tools can help marketers use performance data to optimize the results of their messaging before they launch an email campaign. Using AI, an organization can quickly crunch millions of data points from its most successful campaigns to help it recommend changes in messaging, imagery, and layouts for pending emails."
+    publishedDateTime: 2023-08-16T15:43:00Z
+    webUrl: "https://hbr.org/sponsored/2023/08/how-ai-can-scale-personalization-and-creativity-in-marketing"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 54
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/07/AIScalingPersonalization-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "OpenAI says AI tools can be effective in content moderation"
+    excerpt: "Despite the hype around generative AI, companies such as Microsoft and Google-owner Alphabet are yet to monetize the technology in which they have been pumping billions of dollars in the hope that it will have a big impact across industries."
+    publishedDateTime: 2023-08-15T22:28:00Z
+    webUrl: "https://www.aol.com/news/openai-says-ai-tools-effective-192727939.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/8feda3c1f32fbd1cf9d118a4ff749e2e"
+        width: 800
+        height: 543
+        isCached: true
+  - title: "The Evolving Role of Artificial Intelligence in Business: Staying Ahead of the Curve"
+    excerpt: "This sentiment rings especially true when considering the transformative potential of artificial intelligence (AI) in the business world. Just as the advent of personal computers and the internet revolutionized many sectors, including law, AI is poised to ..."
+    publishedDateTime: 2023-08-17T17:40:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-evolving-role-of-artificial-3504503/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 32
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16046_1835.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Revolutionizing Customer Engagement with Voice Interfaces in Business"
+    excerpt: "Welcome to the future of customer engagement! In today’s ever-evolving technological landscape, businesses are constantly seeking innovative ways to forge deeper connections with their customers. With the rise of voice interfaces,"
+    publishedDateTime: 2023-08-14T15:58:00Z
+    webUrl: "https://techbullion.com/revolutionizing-customer-engagement-with-voice-interfaces-in-business/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 39
+    quality: 24
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-14T165701.298.png"
         width: 800
         height: 400
         isCached: true
-  - title: "TIFIN AMP, the AI platform for distribution in the asset management industry, appoints senior executive leadership"
-    excerpt: "Sal Gagliano, formerly from Broadridge, joins as Chief Executive Officer. Charlie Shaffer, formerly from Russell Investments, joins as President"
-    publishedDateTime: 2023-08-17T12:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tifin-amp-the-ai-platform-for-distribution-in-the-asset-management-industry-appoints-senior-executive-leadership-1032563184"
+  - title: "Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
+    excerpt: "The Nutanix GPT-in-a-Box solution delivers ready-to-use customer-controlled AI infrastructure for the edge or the core data center and allows customers to run and fine-tune AI and GPT models while maintaining control over their data. Nutanix provides a full complement of security and data protection offerings ideal for AI data protection."
+    publishedDateTime: 2023-08-15T14:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/15/9864857.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+  - title: "Addentax Group Corp. Continues to Make Significant Strides in Advancing the Automation of Artificial Intelligence Internet Operational Tools"
+    excerpt: "Addentax Group Corp. (\"Addentax\" or the \"Company\") (Nasdaq: ATXG), an integrated service provider focusing on garment manufacturing, logistics services, and property management and subleasing, has announced significant progress in its collaborative initiative with Games-as-a-Service (\"GaaS\") firms for the development of Artificial Intelligence (\"AI\") Online Operational Tools (referred to as the \"AI project\"),"
+    publishedDateTime: 2023-08-15T15:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/addentax-group-corp-continues-to-make-significant-strides-in-advancing-the-automation-of-artificial-intelligence-internet-operational-tools-1032555433"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 25
-  - title: "The Generative AI Revolution Is Underway"
-    excerpt: "It’s not an easy path but with proper support from employers and government, the benefits of AI are likely to significantly outweigh its costs."
-    publishedDateTime: 2023-08-15T15:45:00Z
-    webUrl: "https://www.aei.org/workforce-development/the-generative-ai-revolution-is-underway/"
+    quality: 12
+  - title: "Transforming Talent Acquisition Through the Power of Automation and Artificial Intelligence"
+    excerpt: "Over the past three years, talent acquisition (TA) has been impacted by significant events—an enduring talent shortage, changing workplace standards and attitudes, and new technologies that have the potential to transform the hiring process."
+    publishedDateTime: 2023-08-16T16:19:00Z
+    webUrl: "https://hbr.org/sponsored/2023/08/transforming-talent-acquisition-through-the-power-of-automation-and-artificial-intelligence"
     type: article
     provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 19
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 7
 
 secured: "mnb0ywq43wzw8EKq9HOU5UggKlCXEaeTL70oTcJOErZy8ESgj4702faxPvmd56ph12mYUOLOsRjaoplQPJ4ouwAcpB7A/35iIyuvz2exfJJmzmCkQbQ7o9p7BMlTzGo2KcxLF4zO1IGt2dHp7Tw3txBAtYYFNC+8mFsiiJfghTbkSZ1GZZukLwyJp1dhJHwZSurD+/SAL4uHLESsG05pOMr2btgVkFfzBcJ52SmkNECAX0jBAZOnnxIA2fN2lwOcqiHdHZZs4Ae4so0Un8bO20pPnbuwQwaWfaEG1hc9LHssRe9AbS2/5J86r2+MaUHxkvvNxOVIn9raOyXiPgwBVH1E9YsUQDvBTKEv2B7vYQrTY8B9aeDjZ6w0f/JGbW6RiBxL5CrNIXN4+Af+AQxqQpZgMUoZ9T70G7KaoQ5bfZPkVRS9txO1YB+RPR4IjZxQxFIPc1eCcBvgHzShqbeC46E62/hT/Umg+CwmX1j0rLAGlyToqtOUAku2+9o+ekLa0L6uNk3HKZU9rR8GEWM6Ng==;5utaxxFSsYOTCrW9Gqth7w=="
 ---

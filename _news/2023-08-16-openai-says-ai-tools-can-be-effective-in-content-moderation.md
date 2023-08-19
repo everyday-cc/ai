@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Landscape Emerges For Employee Communications"
-    excerpt: "A key finding is that implementing AI in employee communications requires a clear purpose and strategic integration."
-    publishedDateTime: 2023-08-14T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/14/ai-landscape-emerges-for-employee-communications/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/14/ai-landscape-emerges-for-employee-communications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/14/ai-landscape-emerges-for-employee-communications/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Amazon now using generative AI to summarize customer reviews"
     excerpt: "Available on a wide number of products for many US shoppers on mobile devices, the AI tech will condense all the customer reviews into one digestible paragraph."
     publishedDateTime: 2023-08-15T17:37:00Z
@@ -113,6 +97,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 68
+  - title: "Revolutionizing Education: Harnessing the Power of AI for Studying"
+    excerpt: "In today’s fast-paced digital era, the role of Artificial Intelligence (AI) has transcended beyond mere automation and into the realm of education. The integration of AI into the learning process is transforming how students approach their studies,"
+    publishedDateTime: 2023-08-14T16:29:00Z
+    webUrl: "https://techbullion.com/revolutionizing-education-harnessing-the-power-of-ai-for-studying/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 56
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/AI-in-education.jpeg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Financial Services Are Using Artificial Intelligence to Navigate Regulations"
     excerpt: "In five key areas, AI and machine learning tools can help banks follow know-your-customer rules, spot potential money laundering and more."
     publishedDateTime: 2023-08-14T20:23:00Z

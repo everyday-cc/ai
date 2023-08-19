@@ -31,98 +31,77 @@ images:
     isCached: true
 
 related:
-  - title: "Leading The AI Revolution: Best Practices For Executive Leaders"
-    excerpt: "Regardless of where you might be on the AI journey, it is a must-have conversation that includes leadership, executives and teams across the organization."
-    publishedDateTime: 2023-08-14T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/amp/"
+  - title: "7 low code platforms embracing AI"
+    excerpt: "Many low-code and no-code development and RPA platforms now include AI capabilities, often using a version of GPT."
+    publishedDateTime: 2023-08-15T08:59:00Z
+    webUrl: "https://www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 91
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/640653232a8f09e0f7c603ac/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 660
-        isCached: true
-  - title: "Six Ways AI Could Revolutionize The Way You Do Business"
-    excerpt: "At Pink Moon Studio, we implemented new AI features to automate tedious tasks like player behavior tracking and ticket handling. AI-powered analytics helped us understand player p"
-    publishedDateTime: 2023-08-16T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/632dbbaa69b953ca837d2c1f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/29/18/article-2-image-1-100932907-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true
-  - title: "Revolutionizing Education: Harnessing the Power of AI for Studying"
-    excerpt: "In today’s fast-paced digital era, the role of Artificial Intelligence (AI) has transcended beyond mere automation and into the realm of education. The integration of AI into the learning process is transforming how students approach their studies,"
-    publishedDateTime: 2023-08-14T16:29:00Z
-    webUrl: "https://techbullion.com/revolutionizing-education-harnessing-the-power-of-ai-for-studying/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 56
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/AI-in-education.jpeg"
-        width: 500
-        height: 333
-        isCached: true
-  - title: "How the human brain is revolutionizing AI hardware"
-    excerpt: "GEMESYS is developing a revolutionary chip design that mimics the information-processing mechanisms of the human brain – now they are nominated for a"
-    publishedDateTime: 2023-08-16T11:50:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/236506"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 39
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/db897644-a15c-42ce-ad84-4369b9ac29e2--r2ksm.jpg"
-        width: 400
-        height: 217
-        isCached: true
-  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
-    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
-    publishedDateTime: 2023-08-18T08:45:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "TIFIN AMP, the AI platform for distribution in the asset management industry, appoints senior executive leadership"
-    excerpt: "Sal Gagliano, formerly from Broadridge, joins as Chief Executive Officer. Charlie Shaffer, formerly from Russell Investments, joins as President"
-    publishedDateTime: 2023-08-17T12:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tifin-amp-the-ai-platform-for-distribution-in-the-asset-management-industry-appoints-senior-executive-leadership-1032563184"
+  - title: "Mike Filsaime's Groove AI AI-Powered Copywriting Platform by Muncheye Launch"
+    excerpt: "Muncheye announced the release of Mike Filsaime's Groove AI, a new software platform featuring a new transformative approach to digital"
+    publishedDateTime: 2023-08-15T23:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mike-filsaime-s-groove-ai-ai-powered-copywriting-platform-by-muncheye-launch-1032557174"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 25
-  - title: "The Generative AI Revolution Is Underway"
-    excerpt: "It’s not an easy path but with proper support from employers and government, the benefits of AI are likely to significantly outweigh its costs."
-    publishedDateTime: 2023-08-15T15:45:00Z
-    webUrl: "https://www.aei.org/workforce-development/the-generative-ai-revolution-is-underway/"
+    quality: 66
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/10666/89104758-1692158356-0.jpg"
+        width: 321
+        height: 480
+        isCached: true
+  - title: "SQream Expands its End-To-End Low-Code Analytics Platform with Flex Connector AI Assistant"
+    excerpt: "New features leveraging AI and LLMs establish Panoply as the easiest end-to-end analytics platform for SMEs to obtain critical business insights without complicated code. TEL AVIV"
+    publishedDateTime: 2023-08-15T17:47:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/15/9864734.htm"
     type: article
     provider:
-      name: American Enterprise Institute
-      domain: aei.org
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/2068670/4221224/SQream_Logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "UT professors embracing, preparing for AI use in classrooms"
+    excerpt: "As a new academic year rapidly approaches for The University of Texas at Austin, it is working to balance fostering a learning environment with AI while preventing cheating among college students."
+    publishedDateTime: 2023-08-14T13:45:00Z
+    webUrl: "https://www.kxan.com/news/education/ut-professors-embracing-preparing-for-ai-use-in-classrooms/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
     quality: 19
+  - title: "Jet.AI AI-Powered Charter Booking Platform Available Today in iOS App Store"
+    excerpt: "The CharterGPT app is now available for download on the iOS store and is expected to release on the Android store in the coming weeks. For more information on Jet.AI and CharterGPT, please visit www.jet.ai."
+    publishedDateTime: 2023-08-18T17:58:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/08/18/jet-ai-ai-powered-charter-booking-platform-available-today-in-ios-app-store"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
+  - title: "How Artificial Intelligence Can Improve the World of Online Gaming Platforms"
+    excerpt: "In the realm of contemporary history, few topics have captured as much attention as Artificial Intelligence. Its rapid integration has emerged as a pivotal influence across numerous sectors, including the online casino industry. As technology propels ..."
+    publishedDateTime: 2023-08-17T19:50:00Z
+    webUrl: "https://it.tmcnet.com/topics/it/articles/2023/08/17/456820-how-artificial-intelligence-improve-world-online-gaming-platforms.htm"
+    type: article
+    provider:
+      name: it.tmcnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "R8PA+Wax80AEeZ+Ber/2Xx9EyaPzbhGRPO1LjpXEjRIDIXNiOmlVmmOlxmaIRiIn3lzIW9+dJwRyd0KajAucYDwJC64kDmpJgZU3IezPQqR0byV6+cZtOP2Eerz2fJX2dBtskYOVBmudZzaozrBo5T2/HcQ0hUzw0gLdJRt+9jRn3joLn3kyvKrWud55zcRORNZr4st75S+GHbODshXbDu2ChMA9xRf1k8kDwISVz+XbLzCUYI49+Gt0Z/Q2f/BQ8npBsdqKEffWCkusyvvmu1bEp77Rws2UhtpyeOq0TUb3vfGSZUNujdAWUR8nZkeGjtsPuMsXLqj6n7ZFg9QAxmD/Jovh9EKHOV6w5MKxyA0Lf8w9TfJc2euELC+sQmlNr7n/8wtrPuESWemnkVSsMbT5lOIzinyf13sJ/NnZFCDNACOIvlZvG0DWgX9rH02qXiRqfLs85yP5wbQZAKIjVP4qroa1wd3j+g0oi/8pfhgZXUjewzoifVLWkPUQGl/hDz0u4Q5zxbofhZybg/j33Q==;Ol6MPrm0nAq5kh/0W7e69g=="
 ---

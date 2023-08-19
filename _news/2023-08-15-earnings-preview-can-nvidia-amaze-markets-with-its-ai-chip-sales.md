@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-
 cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp"
 type: article
 quality: 93
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1187
         height: 667
         isCached: true
-  - title: "Nvidia unveils faster chip aimed at cementing AI dominance"
-    excerpt: "The Grace Hopper Superchip, a combination graphics chip and processor, will get a boost from a new type of memory, Nvidia said last week at the Siggraph conference in Los Angeles. The product relies on high-bandwidth memory 3, or HBM3e, which is able to access information at a blazing 5 terabytes per second."
-    publishedDateTime: 2023-08-14T12:59:00Z
-    webUrl: "https://www.seattletimes.com/business/nvidia-unveils-faster-chip-aimed-at-cementing-ai-dominance/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 34
   - title: "Nvidia’s AI Chips Are Pulling Ahead in the Cloud. Why the Stock Is a Buy."
     excerpt: "Jefferies analyst Mark Lipacis analyzed the June data for the six top cloud-based service providers and found that Nvidia gained market share over the past year."
     publishedDateTime: 2023-08-17T19:47:00Z

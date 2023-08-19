@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mlive.com/news/2023/08/how-artificial-intelligence-could
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2023/08/how-artificial-intelligence-could-change-college-football.html?outputType=amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MLive
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI is changing work – and HR leaders should change too"
+    excerpt: "The rise of generative AI has surfaced many new questions about how the technology will impact the workforce. Even as AI becomes more pervasive in business, people are still a core competitive advantage."
+    publishedDateTime: 2023-08-15T09:26:00Z
+    webUrl: "https://it-online.co.za/2023/08/15/ai-is-changing-work-and-hr-leaders-should-change-too/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 39
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2023/08/work-sunrise.jpg"
+        width: 1075
+        height: 550
+        isCached: true
   - title: "IBM analog AI chip uses phase-change memory"
     excerpt: "IBM Research has developed a multicore compute in memory analog AI chip using PCM to reduce the power consumption."
     publishedDateTime: 2023-08-14T19:25:00Z

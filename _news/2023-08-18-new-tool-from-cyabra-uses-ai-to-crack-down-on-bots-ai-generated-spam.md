@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Five ways to use AI responsibly"
-    excerpt: "However, Cousineau says one thing is already clear from these nascent moves: \"Responsible AI has to be embedded in ethics throughout the entire lifecycle.\" Also: Today's AI boom will amplify social problems if we don't act now Her views on the importance ..."
-    publishedDateTime: 2023-08-14T12:01:00Z
-    webUrl: "https://www.zdnet.com/article/five-ways-to-use-ai-responsibly/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
 
 secured: "Tz6Lhor613UDB4Td4NGppQ29VZrszdHP6e4JgREqeEE2OTRI4cP458pv17P3W8Qihe+YnVWL2WwJSl4PjIBd6YfgApRgzA27oQc0ko0CG9JpPvKX+C8xfTQkOGOvkiQqrCuXyy2M3LnHwrFrnEu0LrnfCsHUc+18D9sGZyTTVgxVB8wTtypetoo5wla9BU/veFZJ4qwlzJWZ+qY5jHt+Qd3RzigUd8w/NC2H0unPfqTz4Nk/T247wUJzhnZqiInUkpn23jQcjUx+QzUSTZNOrVmKo0zHfVhmjk64uWZsp4x7DZPY8Vr0xPvQRJNiMWBOecF72rfmK3YJcNkWtOKsakHanTZfdAmL65hEDlcKO2M=;pegwWjCC3nK7LuW7yQS+Zw=="
 ---

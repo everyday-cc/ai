@@ -65,20 +65,6 @@ related:
         width: 5372
         height: 3022
         isCached: true
-  - title: "How To Invest In ChatGPT"
-    excerpt: "These include the Azure Bot Service, which allows businesses to create intelligent chatbots using Microsoft technologies, and Azure Cognitive Services to assist developers of natural language processing and translation tools. Brewin Dolphin’s Mr Moore ..."
-    publishedDateTime: 2023-08-14T11:56:00Z
-    webUrl: "https://www.forbes.com/uk/advisor/investing/how-to-invest-in-chatgpt/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/08/ChatGPT_image-e1692002280431.jpg"
-        width: 1188
-        height: 669
-        isCached: true
   - title: "Snapchat users react with confusion after the app's AI chatbot mysteriously posts its own story and then refuses to answer questions about it"
     excerpt: "Why did Snapchat's My AI chatbot post its own story on Tuesday and then ghost users? A spokesperson told Insider the AI experienced an outage."
     publishedDateTime: 2023-08-17T07:01:00Z
@@ -127,15 +113,6 @@ related:
       name: CCM
       domain: ccm.net
     quality: 19
-  - title: "Schools navigate regulation of artificial intelligence, ChatGPT as students return to classrooms"
-    excerpt: "Artificial intelligence is becoming a major conversation in the classroom, especially a popular software called ChatGPT. ABC7 asked ChatGPT to write a book report on \"Pride and Prejudice.\" In just seconds, it created a report that would probably satisfy ..."
-    publishedDateTime: 2023-08-14T12:52:00Z
-    webUrl: "https://abc7chicago.com/ai-chatgpt-what-is-artificial-intelligence-back-to-school/13646839/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 4
 
 secured: "qwT1xU60UD9funrCfWzNalFYzp+d5M5NGE0ir5l5C1Dk/RyVeD3o6IaTmd6cBOb+qv/yM8qs9mACdpezyQgk/ykX2vywOVY6b6OtY1OOxQzF25VPU+Mn5s0gg1xFD6uKmBCxbe+7vB/RqaxQfmUer2mxHXjqh6edwcLA9eJDZIacAB5I9/X5J/5Yb4gJ5yAAKOIQbrqyvMp4cb5s359zGhXPo0HKJFkqdWO/Q0xq+RmcG1WE/uHoYmtEQ4Jlqxn8h6u/FECU1rWVCLGTrCMve5Yx1f+aUWKBBPWGSOcKF7K4tBMIlZoonjRCGa5IZ0nmB55v/yRiTUKhdfHiAw/tOE8+AqjJgHlE99/E05dk9UU=;hNkhufJNOyRbRZZLaDZyOg=="
 ---

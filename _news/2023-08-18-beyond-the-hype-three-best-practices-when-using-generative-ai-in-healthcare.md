@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/"
 type: article
 quality: 103
-heat: 273
+heat: 283
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?248441"
         width: 444
         height: 250
+        isCached: true
+  - title: "WCM-Q discusses legal and ethical issues of generative AI in healthcare"
+    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed during the latest"
+    publishedDateTime: 2023-08-19T05:20:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/19/08/2023/wcm-q-discusses-legal-and-ethical-issues-of-generative-ai-in-healthcare"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 71
+    images:
+      - url: "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg"
+        width: 1280
+        height: 1024
         isCached: true
   - title: "China's new rules on AI-generated content"
     excerpt: "Here's what you need to know about Beijing's regulations, which target services for the general public: - AI ethics - Generative AI must \"adhere to the core values of socialism\" and refrain from threatening national security and promoting terrorism ..."

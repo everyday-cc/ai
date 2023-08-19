@@ -127,6 +127,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
+  - title: "The Generative AI Revolution Is Underway"
+    excerpt: "It’s not an easy path but with proper support from employers and government, the benefits of AI are likely to significantly outweigh its costs."
+    publishedDateTime: 2023-08-15T15:45:00Z
+    webUrl: "https://www.aei.org/workforce-development/the-generative-ai-revolution-is-underway/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
   - title: "Generative AI use cases for Asset Management Firms"
     excerpt: "Our generation is witness to the emerging power of current game-changer Generative AI (GenAI), which is a deep learning technique of Artificial Intelligence ... which itself is a convergence of neural network models, made commercially available now due ..."
     publishedDateTime: 2023-08-17T08:29:00Z

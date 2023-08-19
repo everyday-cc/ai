@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-a
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Five ways to use AI responsibly"
-    excerpt: "However, Cousineau says one thing is already clear from these nascent moves: \"Responsible AI has to be embedded in ethics throughout the entire lifecycle.\" Also: Today's AI boom will amplify social problems if we don't act now Her views on the importance ..."
-    publishedDateTime: 2023-08-14T12:01:00Z
-    webUrl: "https://www.zdnet.com/article/five-ways-to-use-ai-responsibly/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
   - title: "New tool from Cyabra uses AI to crack down on bots, AI-generated spam"
     excerpt: "A social threat intelligence company is rolling out a new tool to help detect the presence of bot or spam accounts created with the use of artificial intelligence (AI). Cyabra, an Israel-based start-up, gained notoriety in 2022 when billionaire Elon Musk ..."
     publishedDateTime: 2023-08-18T08:12:00Z

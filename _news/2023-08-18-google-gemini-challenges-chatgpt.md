@@ -71,20 +71,6 @@ related:
         width: 5372
         height: 3022
         isCached: true
-  - title: "How To Invest In ChatGPT"
-    excerpt: "These include the Azure Bot Service, which allows businesses to create intelligent chatbots using Microsoft technologies, and Azure Cognitive Services to assist developers of natural language processing and translation tools. Brewin Dolphin’s Mr Moore ..."
-    publishedDateTime: 2023-08-14T11:56:00Z
-    webUrl: "https://www.forbes.com/uk/advisor/investing/how-to-invest-in-chatgpt/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/08/ChatGPT_image-e1692002280431.jpg"
-        width: 1188
-        height: 669
-        isCached: true
   - title: "Snapchat users react with confusion after the app's AI chatbot mysteriously posts its own story and then refuses to answer questions about it"
     excerpt: "Why did Snapchat's My AI chatbot post its own story on Tuesday and then ghost users? A spokesperson told Insider the AI experienced an outage."
     publishedDateTime: 2023-08-17T07:01:00Z
@@ -119,15 +105,6 @@ related:
       name: CCM
       domain: ccm.net
     quality: 19
-  - title: "Schools navigate regulation of artificial intelligence, ChatGPT as students return to classrooms"
-    excerpt: "Artificial intelligence is becoming a major conversation in the classroom, especially a popular software called ChatGPT. ABC7 asked ChatGPT to write a book report on \"Pride and Prejudice.\" In just seconds, it created a report that would probably satisfy ..."
-    publishedDateTime: 2023-08-14T12:52:00Z
-    webUrl: "https://abc7chicago.com/ai-chatgpt-what-is-artificial-intelligence-back-to-school/13646839/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 4
   - title: "ChatGPT is a Glorified Tape Recorder"
     excerpt: "Large language models (LLMs) are the new wave of artificial intelligence that trains neural networks with a large amount of human-generated text with the goal of producing new text and knowledge. In an interview with CNN anchor Fareed Zakaria yesterday ..."
     publishedDateTime: 2023-08-17T21:13:00Z
@@ -138,6 +115,6 @@ related:
       domain: nextbigfuture.com
     quality: 4
 
-secured: "JpydMvuqt8o4ngd3vVxhT4VI5h6+fSVsKayCMVyacHtin/BJFKO21t0tCwAnm6VRDEcFeDjn7Qb0hmaqIfogunW73cymDOzb3HwlOm6CMlmnaPnmFC/R0YobEJm29NsH/pBmtXr/Anx+8PGEwEa/oVT8qhQ2mqr/ZbLUbtHKO0Bnm80a7H1eDm/JSjqpTDqhJlvZSSAGRxZ+OPfdSN6F0oLscKuqpZ4SwTthhCissUr8e2VOFd3hEuEeDpLk4QSbIhbAMqUem8FurpIjmzGkHkJUzgH7GNlmFj3E2g6A42Oeou/mLLgL8Z2n2IL1KXs/1jN4KqF04zZM9tOG2sYppJAwngtCX0+H/UiMssXuuCk=;qwPgtrjtF2fjYQnROIQHvg=="
+secured: "PMPFSDB0UVyV0qxJUEnU8qGg2qrWmfLrODF1UEiHVrJCksQHr/D5PLtVWLcHZa7ZX7g5Vp4Xxgn5NwlL27Zm+D1xBSQ54R2irpEgvDboG9eF+nAPO8howO7Azp64xzXah8Yqyg4YTGi4QjuT4cMbOe9Wr2Av4oUVnIOg7eGoJfqqGmxwQCKOWQ9jgxD8MRRrDNmhdTiy6qEH+JRUilQZuPaIQCPFEVCZ/OQZ8gHfYc29MawPFLhWhKsylbL9GgXxPYNEZVCAfVuLL324ocuqA2VCuQOA99Pbs2fV3GXihW6WT88undpDcmj4oja+SRm1BvFn0myGbkWo8uPzvC+VHR8WvWJpj00dAns6reGtGEW+Br9nIHEbTtE3MCcPptlrOKXwVvkOX2D1mrly76cbRCq6RiQXzp1hLPQWsHe9zr6eViWFbtBbbTaATXLpQCVWMWhRelujQHoxyLjp/pTHmRb7HvdAZXtwHIkX2NSS7awa64VShz1wdNtD2v472Ztx9Ac9NClQlPSIHngJNcc8RQ==;Nigo2erslouzTI1Q9rDpgg=="
 ---
 

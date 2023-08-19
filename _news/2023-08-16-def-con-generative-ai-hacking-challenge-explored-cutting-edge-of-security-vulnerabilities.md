@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/def-con-hackers-generative-ai
 webUrl: "https://www.techrepublic.com/article/def-con-hackers-generative-ai/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/6/74/6740079c-3d46-11ee-b172-5b3d41774e1a/64de937aac6ad.image.jpg?resize=1024%2C683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
+    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
+    publishedDateTime: 2023-08-18T08:45:00Z
+    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "QmHRQNFdlQigoZguwvE2JfLQYoigIsl88e8KG0BYCU7bYDzH5mIVraY8mJhpEAIEokiH8eu0XyGz/ciFdAlVrlfYeBIFRoGSt/SuWg29HFYUfaUm7T4X+hIAGRre4e5opiPS+qKgqkusPC9Gl+j5tOFR2FBxgEIHu65P5MexrQKyOvIUk54e9XAKzcwpkADBVMW/KvucqO4NekhSgwCHUiYVTtyprUZiQaWisK+JCmed3z9tNZFdxa0HvuK256rpZQd4ml1hB8Qy/ya8TW58L4Fa7rAEQVt4scV6/fQ5meb02YcyIOs93NpnUoxVc2brKwP5nbHOzfQRqOx/q+EqL+wjMmSB1Sbufb7GtNn81ks=;XWvB4LhfcXP6TenDmYhxyw=="

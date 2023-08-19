@@ -25,100 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "Leading The AI Revolution: Best Practices For Executive Leaders"
-    excerpt: "Regardless of where you might be on the AI journey, it is a must-have conversation that includes leadership, executives and teams across the organization."
-    publishedDateTime: 2023-08-14T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/amp/"
+  - title: "DEF CON Generative AI Hacking Challenge Explored Cutting Edge of Security Vulnerabilities"
+    excerpt: "Data from the human vs. machine challenge could provide a framework for government and enterprise policies around generative AI."
+    publishedDateTime: 2023-08-15T17:02:00Z
+    webUrl: "https://www.techrepublic.com/article/def-con-hackers-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 77
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/640653232a8f09e0f7c603ac/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 660
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr081523-def-con-hackers-generative-ai.jpg"
+        width: 1400
+        height: 933
         isCached: true
-  - title: "Embracing The AI Revolution"
-    excerpt: "In a world where AI has become an integral part of our daily lives, resistance is not only futile but counterproductive."
-    publishedDateTime: 2023-08-14T16:36:00Z
-    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/14/embracing-the-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/14/embracing-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/08/14/embracing-the-ai-revolution/amp/"
+  - title: "How Cutting-Edge AI Technologies Are Helping Companies Establish Trust And Credibility Through PR"
+    excerpt: "In the fast-paced, crowded business world, credibility is the one thing that can cut through the noise. AI can assist in delivering high-impact PR campaign results."
+    publishedDateTime: 2023-08-17T02:24:00Z
+    webUrl: "https://www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai-technologies-are-helping-companies-establish-trust-and-credibility-through-pr/"
+    ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai-technologies-are-helping-companies-establish-trust-and-credibility-through-pr/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai-technologies-are-helping-companies-establish-trust-and-credibility-through-pr/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64da56e59b353f4c410eda42/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Six Ways AI Could Revolutionize The Way You Do Business"
-    excerpt: "At Pink Moon Studio, we implemented new AI features to automate tedious tasks like player behavior tracking and ticket handling. AI-powered analytics helped us understand player p"
-    publishedDateTime: 2023-08-16T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/632dbbaa69b953ca837d2c1f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dd82facaec195bbc3d5165/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Revolutionizing Education: Harnessing the Power of AI for Studying"
-    excerpt: "In today’s fast-paced digital era, the role of Artificial Intelligence (AI) has transcended beyond mere automation and into the realm of education. The integration of AI into the learning process is transforming how students approach their studies,"
-    publishedDateTime: 2023-08-14T16:29:00Z
-    webUrl: "https://techbullion.com/revolutionizing-education-harnessing-the-power-of-ai-for-studying/"
+  - title: "Governments, including Washington State, making policy for use of generative AI"
+    excerpt: "() - Increasingly, government agencies are developing policies to guide employees in the use of generative artificial intelligence while considering the legal and ethical issues and potential cyber"
+    publishedDateTime: 2023-08-17T21:19:00Z
+    webUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.html"
+    ampWebUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
+    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 56
+      name: The Center Square
+      domain: thecentersquare.com
+    quality: 55
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/AI-in-education.jpeg"
-        width: 500
-        height: 333
+      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/6/74/6740079c-3d46-11ee-b172-5b3d41774e1a/64de937aac6ad.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "How the human brain is revolutionizing AI hardware"
-    excerpt: "GEMESYS is developing a revolutionary chip design that mimics the information-processing mechanisms of the human brain – now they are nominated for a"
-    publishedDateTime: 2023-08-16T11:50:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/236506"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 39
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/db897644-a15c-42ce-ad84-4369b9ac29e2--r2ksm.jpg"
-        width: 400
-        height: 217
-        isCached: true
-  - title: "TIFIN AMP, the AI platform for distribution in the asset management industry, appoints senior executive leadership"
-    excerpt: "Sal Gagliano, formerly from Broadridge, joins as Chief Executive Officer. Charlie Shaffer, formerly from Russell Investments, joins as President"
-    publishedDateTime: 2023-08-17T12:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tifin-amp-the-ai-platform-for-distribution-in-the-asset-management-industry-appoints-senior-executive-leadership-1032563184"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
-  - title: "The Generative AI Revolution Is Underway"
-    excerpt: "It’s not an easy path but with proper support from employers and government, the benefits of AI are likely to significantly outweigh its costs."
-    publishedDateTime: 2023-08-15T15:45:00Z
-    webUrl: "https://www.aei.org/workforce-development/the-generative-ai-revolution-is-underway/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 19
 
 secured: "6H/XilN3STbCiIzsW7rKNk3t7T8qOJnucFN+okrw87UPoyp8z9jbeih3j4+O2AjaCJNfsdz2niATnFVX5HDQDZPscMk2a6sIiH+9gNA95ngflUWYyX4gQ9gd8vfuRcGOPi6cnlPz0+Hm3UaqTVE3EDtGWO1EmvEr8qGRmeN1jIRyhvXOCM4ugu/5GrHmFxdiDMLWv4MX8//WZNT6d+f1E2O3f0V9YmrMxosWMtxLMIN92RRm8QfIJbpBvlAtkY3ln0O36eMBJtWRkVlbAXfvnAThx3yNxgNiqDq89rUwbYvw3P/rlVnO+y5sQPnbTqhF6v/2d8KCMqFwRbdNEdM3t8hHw7gfII46uRacLGPNk33fyUVWTqBDVU/ehF5BYpaHm86xp1x+YxFP/aXhc/yVCNjTLkbjDJ0WH1lc2+kF+w+uI61XWXNJSF1AiyekhYZkoyCC8/DkNWZqkBTjfXwatwH8h6xwNldy5jBU+Pyc/EpR+a0ZG1SdsqK97FpsxZqVZnql1WEE42mVFAg+jXm+3g==;8vzxurIb+EDnhCcJaA/r0g=="
 ---

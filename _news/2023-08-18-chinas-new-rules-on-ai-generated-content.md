@@ -57,6 +57,20 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "WCM-Q discusses legal and ethical issues of generative AI in healthcare"
+    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed during the latest"
+    publishedDateTime: 2023-08-19T05:20:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/19/08/2023/wcm-q-discusses-legal-and-ethical-issues-of-generative-ai-in-healthcare"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 71
+    images:
+      - url: "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg"
+        width: 1280
+        height: 1024
+        isCached: true
   - title: "How to tackle the ethics of Generative AI"
     excerpt: "A tip by Daniel Pell of @Workday about how business leaders should approach the ethical questions around deploying #GenerativeAI"
     publishedDateTime: 2023-08-15T07:36:00Z

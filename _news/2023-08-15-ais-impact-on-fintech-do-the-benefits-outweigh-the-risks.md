@@ -183,6 +183,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Canadian fintech investment plummets"
+    excerpt: "Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since the beginning of the Covid-19 pandemic, driven primarily by macroeconomic concerns,"
+    publishedDateTime: 2023-08-19T04:39:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42811/canadian-fintech-invest-plummets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz_breakfromtoronto1.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Canadian fintech investment drops to pandemic-era levels in the first half of the year"
     excerpt: "CNW/ - Investment in Canadian fintech companies dropped three-fold in the first half of 2023 as valuations continued to slide to levels not seen since"
     publishedDateTime: 2023-08-17T11:00:00Z

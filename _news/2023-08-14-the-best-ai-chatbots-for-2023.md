@@ -168,20 +168,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "How AI Chatbots Revolutionizing Gyms & Fitness Centers, 5 Winning Ways."
-    excerpt: "Introduction Welcome to the future of fitness! Gone are the days when gyms were merely a place to break a sweat. Thanks to advancements in artificial intelligence (AI) technology, gyms and fitness centers are now embracing the power of AI chatbots."
-    publishedDateTime: 2023-08-16T07:39:00Z
-    webUrl: "https://techbullion.com/how-ai-chatbots-revolutionizing-gyms-fitness-centers-5-winning-ways/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-15.jpg"
-        width: 800
-        height: 440
-        isCached: true
   - title: "AI chatbots could fill gaps in postpartum depression support and care"
     excerpt: "In Texas,1-in-5 women experience postpartum depression, surpassing the 1-in-7 national average, according to state health data."
     publishedDateTime: 2023-08-18T16:48:00Z

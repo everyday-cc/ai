@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/40-of-workers-will-have-to-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/40-of-workers-will-have-to-reskill-in-the-next-three-years-due-to-ai-says-ibm-study/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Study: Reskilling Is Inevitable As AI Changes How We Work"
+    excerpt: "Learning new skills is part of the fabric of today's technological advancement. Leaders need to make sure workers can adjust and know the reasoning behind it."
+    publishedDateTime: 2023-08-18T20:47:00Z
+    webUrl: "https://www.techrepublic.com/article/reskilling-ai-study/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/portainer-templates-deploy-full-stack-application.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Will IBM’s analog chip take the AI world by storm?"
     excerpt: "A team at IBM Research has developed a mixed-signal analog chip suitable for AI workloads. The project is still in the research phase, but it is looking"
     publishedDateTime: 2023-08-15T11:12:00Z

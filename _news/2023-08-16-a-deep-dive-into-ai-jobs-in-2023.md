@@ -41,15 +41,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "Black Hat 2023: How AI changes the monetization of search"
-    excerpt: "Will the word Google stop being a verb? While society may or may not have an issue with the ethics of AI, I am curious whether the adoption of AI in search causes an issue that de-monetizes the internet for many content providers. Traditional search ..."
-    publishedDateTime: 2023-08-14T12:55:00Z
-    webUrl: "https://www.welivesecurity.com/en/we-live-progress/black-hat-2023-how-ai-changes-the-monetization-of-search/"
-    type: article
-    provider:
-      name: WeLiveSecurity
-      domain: welivesecurity.com
-    quality: 19
 
 secured: "tSXqGomAc/Rjw6s+AvrkllCTsXk8AbtoIm3LCziSjkynIlhK5UUgJSELUPtNkgozXVLqpn4HWydaTpCpKNqWcAw2TCie5zkgw7N8J/0WdZ2t/xlom1mNuOzXEg0Xi5HThqIs7ZFlP4zwqdARJPDyKjP5LGT9nPuf4qok6IgXQxF36mv3IjdJVm8rFOFP0BdjNISgoD2WxE2yfmWnjt14I/zdzeLdRhEWF255G33/g6Qdf2tcbaVf0WSmf5EChF4w8AGk5GvX/UOZVWSWO9HyO6aCfFEHLAuK+oFl8tkEaW/60ZvTEauHQBCYraNKA5wsSmyA6EHjeL3GxrP7V9LC6S0r0oQqpR0FakTXl6VSunc=;09k78eJFN4gEz/QZr4bXYQ=="
 ---

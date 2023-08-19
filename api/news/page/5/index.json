@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-15-kneron-takes-aim-at-gpu-shortage-with-its-neural-processing-unit-npu-update.md",
+      "title": "Kneron takes aim at GPU shortage with its neural processing unit (NPU) update",
+      "excerpt": "With GPUs increasingly hard to come by for AI, Kneron announces its KL730 neural processing unit (NLU) featuring enhanced energy efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/kneron-takes-aim-at-gpu-shortage-with-its-neural-processing-unit-npu-update/",
+      "originalUrl": "https://venturebeat.com/ai/kneron-takes-aim-at-gpu-shortage-with-its-neural-processing-unit-npu-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/image1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-microsoft-azure-awards-protiviti-specialisation-in-ai.md",
+      "title": "Microsoft Azure awards Protiviti specialisation in AI",
+      "excerpt": "“Protiviti is proud to collaborate with Microsoft to be a leading provider of AI enabled capabilities,” said Christine Livingston, global leader of Protiviti’s AI services. “Together with Microsoft, we look forward to helping organizations utilize AI solutions responsibly to drive impactful transformation in their businesses.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.consultancy.uk/news/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
+      "originalUrl": "https://www.consultancy.uk/news/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-10-021905627-Microsoft_Azure_awards_Protiviti_specialisation_in_AI_spot.jpg",
+          "width": 546,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
+      "cdnAmpWebUrl": "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
+      "publishedDateTime": "2023-08-14T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Consultancy",
+        "domain": "consultancy.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales.md",
       "title": "Earnings preview: Can Nvidia amaze markets with its AI chip sales?",
       "excerpt": "Nvidia is slated to report its second-quarter earnings after the US markets closing bell on 24 August (APAC time)",
@@ -10,7 +105,7 @@
       "originalUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -336,48 +431,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-black-hat-usa-2023-five-lessons-in-artificial-intelligence.md",
-      "title": "Black Hat USA 2023: Five Lessons in Artificial Intelligence",
-      "excerpt": "Cyberattackers are using AI to reconstruct and manipulate data points to prey on your weaknesses, but researchers say regulating the emerging technology can help.",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2023/08/black-hat-usa-2023-five-lessons-artificial-intelligence",
-      "originalUrl": "https://biztechmagazine.com/article/2023/08/black-hat-usa-2023-five-lessons-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202308/black%20hat%20hero%20kumar.png.jpg?itok=fPUncIsj",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2023/08/black-hat-usa-2023-five-lessons-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/08/black-hat-usa-2023-five-lessons-artificial-intelligence?amp",
-      "publishedDateTime": "2023-08-14T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -968,6 +1021,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-14-the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth.md",
+      "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
+      "excerpt": "We began measuring individual differences in visual object recognition. We tested people’s abilities in performing a variety of tasks like matching or memorizing objects from several categories ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth-209305",
+      "originalUrl": "https://theconversation.com/the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth-209305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/542202/original/file-20230810-22046-z0l1ej.jpg?ixlib=rb-1.1.0&rect=2%2C16%2C1595%2C797&q=45&auto=format&w=1356&h=668&fit=crop",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it.md",
       "title": "New IBM study reveals how AI is changing work and what HR leaders should do about it",
       "excerpt": "Tomorrow may not be able to run with yesterday’s talent, and tomorrow’s talent may not be able be rely on yesterday’s ways of working. \nThe post New IBM study reveals how AI is changing work and what HR leaders should do about it appeared first on IBM Blog.\n",
@@ -1112,110 +1208,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-upgrading-healthcare-security-strategies-to-combat-ai-based-threats.md",
-      "title": "Upgrading Healthcare Security Strategies To Combat AI-Based Threats",
-      "excerpt": "• Use AI to combat AI: The bright side of artificial intelligence is it can deliver as many effective capabilities to cybersecurity solutions as it does to criminals. Software should leverage sophisticated AI-based tools, including optical character recognition and algorithms that recognize “red flag” keywords that could indicate a breach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/820808708/0x0.jpg?format=jpg&crop=4765,3178,x0,y314,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/",
-      "publishedDateTime": "2023-08-14T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-this-ai-startup-has-saved-grocers-from-tossing-millions-of-pounds-of-food.md",
-      "title": "This AI Startup Has Saved Grocers From Tossing Millions Of Pounds Of Food",
-      "excerpt": "It means that fruits and veggies are not sitting around for nearly as long at grocers like Cub, a Minnesota chain with 100 stores, which is moving produce in and out of its stores 7% faster than before. The retailer has also seen a nice 2.5% boost in sales from improving its in-stock levels.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/laurendebter/2023/08/14/this-ai-startup-has-saved-grocers-from-tossing-millions-of-pounds-of-food/",
-      "originalUrl": "https://www.forbes.com/sites/laurendebter/2023/08/14/this-ai-startup-has-saved-grocers-from-tossing-millions-of-pounds-of-food/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d68ed1ee3896df3c5b2603/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

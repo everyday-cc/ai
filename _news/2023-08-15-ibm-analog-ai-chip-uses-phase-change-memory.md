@@ -35,6 +35,20 @@ related:
         width: 5372
         height: 3022
         isCached: true
+  - title: "AI is changing work – and HR leaders should change too"
+    excerpt: "The rise of generative AI has surfaced many new questions about how the technology will impact the workforce. Even as AI becomes more pervasive in business, people are still a core competitive advantage."
+    publishedDateTime: 2023-08-15T09:26:00Z
+    webUrl: "https://it-online.co.za/2023/08/15/ai-is-changing-work-and-hr-leaders-should-change-too/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 39
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2023/08/work-sunrise.jpg"
+        width: 1075
+        height: 550
+        isCached: true
 
 secured: "ag8kHcu2WFBCxdp5y2uSozUOodhoFnCBccZu44E9U7qlcLcAvVnMeDdqQp+HhtJ0PJ4EHOcVkB8wanLbE6RLDfnlHwP9KZ+STdr5QVsHmcQl8mh5ofA9wwSA/+05qEyfg+bS7X1hmBdPzlFyF52ESVYr5JtsGqvVLQ0x0FdCkfRbkrZeheEnbfCxwbPwsoxyl6yZO+7Y/MGfzlCyfmI4ja3/XJY4jIIaIB+WYwb2qh1/DBrc3zkQmMnp45mVnbUNJWrReRqaC3J0KbOuErpfYM3IoOK3hydoGEEq9lDosl1vlbRqF5CI/jiTBIlO2wTXBgDeqxrxEHK9xxx84l5rdQp43q+kvcjHV0bKCleKvwA=;er4OlIzC/xubH5aQto58Iw=="
 ---
