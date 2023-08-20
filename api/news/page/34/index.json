@@ -2,6 +2,135 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-07-26-how-ai-is-helping-companies-meet-sustainability-goals.md",
+      "title": "How AI is helping companies meet sustainability goals",
+      "excerpt": "Discover the current and emerging use cases for AI in waste management, optimization, energy reduction and ESG reporting.\nThe post How AI is helping companies meet sustainability goals appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/",
+      "originalUrl": "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-hr-and-talent-in-the-era-of-ai.md",
+      "title": "HR and Talent in the Era of AI",
+      "excerpt": "The emergence of generative AI and foundation models has revolutionized the way every business, across industries, operates at this current inflection point. This is especially true in the HR function, which has been pushed to the forefront of the new AI era. In recent IBV research, 36% of CEOs identified",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/",
+      "originalUrl": "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-how-ai-is-revolutionising-banking-services-in-rural-areas.md",
+      "title": "How AI is revolutionising banking services in rural areas",
+      "excerpt": "Artificial Intelligence is emerging as a powerful tool for enhancing customer experience in the banking sector, especially for marginalized and underserved populations. AI-enabled solutions are improving accessibility and efficiency for basic banking services across",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/",
+      "publishedDateTime": "2023-07-26T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-microsoft-shares-down-as-azure-cloud-services-business-slows-down.md",
       "title": "Microsoft shares down as Azure cloud-services business slows down",
       "excerpt": "Microsoft Corp. posted tepid quarterly sales growth and forecast a continued slowdown in its Azure cloud-services business, overshadowing optimism about customer interest in new artificial intelligence-powered products. The shares dropped almost 4% in late trading.",
@@ -1044,135 +1173,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-foreign-object-in-the-eye.md",
-      "title": "Foreign Object in the Eye",
-      "excerpt": "There are several ways to remove a foreign object from your eye. It’s important to see a doctor to remove a sharp object, such as a glass or metal fragment. A foreign object in the eye is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health/eye-foreign-object-in",
-      "originalUrl": "https://www.healthline.com/health/eye-foreign-object-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-microsoft-earnings-top-estimates-but-stock-falls-as-execs-detail-ais-costs.md",
-      "title": "Microsoft earnings top estimates, but stock falls as execs detail AI’s costs",
-      "excerpt": "Microsoft topped profit and revenue expectations for its latest quarter, though shares were moving lower after the company discussed the year ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f",
-      "originalUrl": "https://www.marketwatch.com/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 551,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-709442/horizontal",
-          "width": 1320,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f",
-      "publishedDateTime": "2023-07-25T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-artificial-intelligence-recent-congressional-activity-and-a-look-to-the-future.md",
-      "title": "Artificial Intelligence: Recent Congressional Activity and a Look to The Future",
-      "excerpt": "In the past few months, the American public has become increasingly fixated on artificial intelligence (AI), especially generative artificial intelligence (GenAI), because of the economic and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future",
-      "originalUrl": "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/20520/AI%20Artificial%20Intel%20Heads%20Internet%20TOP%20copy_0.jpg?itok=eyeMYj6E",
-          "width": 500,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

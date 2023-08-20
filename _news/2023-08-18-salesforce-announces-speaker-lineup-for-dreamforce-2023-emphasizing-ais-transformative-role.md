@@ -24,6 +24,17 @@ images:
     height: 767
     isCached: true
 
+related:
+  - title: "AI-driven transformation: Reshaping the future of work"
+    excerpt: "In today’s rapidly changing business landscape, the convergence of cutting-edge technology and human resources is reshaping the way we operate, engage, and envision the future. The infusion of Artificial Intelligence (AI) into HR practices is undoubtedly a game-changer,"
+    publishedDateTime: 2023-08-20T12:10:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-ai-driven-transformation-reshaping-the-future-of-work-3216366/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 19
+
 secured: "07DBZF0LYE4xOB/yTmhTVTe95V8tE64KyBQPu9yUTEcU6/lxTdB29CvVPHwuEV9Y5lNUXUeYPJkGf+TVpVlrR9PGe0ipLy4fMwDhMO+eb1B6R25J4mZcf2SkzZpD8oOWIzG1kL1auwwNGAW51lqYAexDuqwFfNw1xwvuulKliHKAM2UM2Ug74FQFnC2FKQBckLmi2zfBEg27a4T1GeUhHVmlts1FtM4Vm7orL/cPz5Gx7WIiAJMCLeprpt8gG2MonsrG5TuxnF+nnAb+r3WBKzOnePlfvAtm1nNAZLdFjtw6XKoTaCX+D1x4Bgh+49JI1LXB7ILEdQZa8XpOY3G++aeJJPPJqXl3rIUQyi/XQbknCEN1KM78AOpfLxdmbJeHZcBEp9361gxz3Cze4Miqrl0cfbj1KpiaOii/oKc4b0NNS5PyiaLGff0W4VxkNRCBXByAeIqTQT/f+AYG8aM8yQc+tZnArXZ5kvA3mlMAjrGefh0/31anDO0qqXiwHx2FELXrg2cl1q2T2PfxH6iI3A==;9Vlovy5y7aIOjoAVxTscOw=="
 ---
 

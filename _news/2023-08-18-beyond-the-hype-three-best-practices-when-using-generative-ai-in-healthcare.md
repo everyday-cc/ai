@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/amp/"
 type: article
 quality: 103
-heat: 263
+heat: 253
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64e0f41457642d1784c71346/0x0.png?format=png&width=1200"
         width: 1200
         height: 687
-        isCached: true
-  - title: "Wcm-Q Discusses Legal, Ethical Issues Of Generative Ai In Healthcare"
-    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed during the latest instalment of Weill"
-    publishedDateTime: 2023-08-16T03:14:00Z
-    webUrl: "https://menafn.com/1106864884/Wcm-Q-Discusses-Legal-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 71
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?248441"
-        width: 444
-        height: 250
         isCached: true
   - title: "China's new rules on AI-generated content"
     excerpt: "Here's what you need to know about Beijing's regulations, which target services for the general public: - AI ethics - Generative AI must \"adhere to the core values of socialism\" and refrain from threatening national security and promoting terrorism ..."

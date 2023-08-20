@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/8bpnx7UFeMUWJq9FoUXCa7-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google DeepMind Testing Personal Life AI Tools"
+    excerpt: "Google's robotics and AI company DeepMind is testing a new tool that could soon become a \"personal life coach\" for those seeking answers. Google earlier this year merged its Brain team from Google Research with DeepMind."
+    publishedDateTime: 2023-08-18T04:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/388362/google-deepmind-testing-personal-life-ai-tools.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 54
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/08/18/shutterstock_2269392697_BFUsuAA.jpg"
+        width: 600
+        height: 375
         isCached: true
   - title: "Google's DeepMind reportedly developing AI Tools for life advice"
     excerpt: "Google's artificial intelligence (AI) division, DeepMind, is in the process of creating at least 21 AI tools designed to offer life advice, planning, and tutoring, according to a report by the New York Times. These tools, while not intended for therapeutic ..."

@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-04-17-face-recognition-device-market-2023-2030-detailed-growth-analysis.md",
+      "title": "Face Recognition Device Market [2023-2030]: Detailed Growth Analysis",
+      "excerpt": "Apr 17, 2023 (The Expresswire) -- The Global \"Face Recognition Device Market\" report analyzes crucial growth factors, key strategies employed by economic players [Cloudwalk , Dahua Technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-2023-2030-detailed-growth-analysis-2023-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-2023-2030-detailed-growth-analysis-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-computer-vision-ip-listing.md",
       "title": "Computer vision IP Listing",
       "excerpt": "CEVA-XM6 is the 5th generation imaging and computer vision processor IP from CEVA, designed to bring deep learning and artificial intelligence capabilities to low-power embedded systems, targeting ... NeuPro-S™ is a low power AI processor architecture ...",
@@ -1214,58 +1266,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-facial-recognition-phone-market-international-business-analysis-2023-2029.md",
-      "title": "Facial Recognition Phone Market International Business Analysis 2023-2029",
-      "excerpt": "Mar 27, 2023 (The Expresswire) -- Facial Recognition Phone Marketinformation for each End Users [, Commercial, Individual], Product Types [, Operating System Android, Operating System IOS], Main ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-phone-market-international-business-analysis-2023-2029-2023-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-phone-market-international-business-analysis-2023-2029-2023-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-28T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

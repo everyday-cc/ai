@@ -193,6 +193,41 @@
       ]
     },
     {
+      "path": "_news/2023-08-14-amazons-facial-recognition-system-flags-dozens-of-california-lawmakers-as-criminals.md",
+      "title": "Amazon’s facial recognition system flags dozens of California lawmakers as criminals",
+      "excerpt": "Amazon’s facial scanning software, called Rekognition, won’t unlock your phone, but it is currently being used by some law enforcement agencies to identify criminals based on their mugshots.",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/rekognition-test-amazon-facial-software/",
+      "originalUrl": "https://bgr.com/science/rekognition-test-amazon-facial-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-13T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-08-13-the-best-amazon-prime-original-series-right-now.md",
       "title": "The best Amazon Prime original series right now",
       "excerpt": "Amazon Prime Video is behind only Netflix when it comes to subscriber count, but it doesn’t seem to carry the same weight in the zeitgeist like Max, Hulu, or even Peacock. Partly to blame? Prime ...",
@@ -1361,50 +1396,6 @@
       "provider": {
         "name": "The Financial Express",
         "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country.md",
-      "title": "AWS and Accel announce ML Elevate 2023 to support generative AI startups in the country",
-      "excerpt": "Amazon Web Services and venture capital firm Accel are announcing ML Elevate 2023, a six-week accelerator program aimed at empowering startups.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/",
-      "originalUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/07/AWS-and-Accel-announce-ML-Elevate-2023-to-support-generative-AI-startups-in-the-country.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/",
-      "publishedDateTime": "2023-07-31T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
         "images": null,
         "publishers": null,
         "authors": null

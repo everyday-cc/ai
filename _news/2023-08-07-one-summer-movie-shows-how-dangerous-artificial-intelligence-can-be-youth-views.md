@@ -3,8 +3,8 @@ category: news
 title: "One summer movie shows how dangerous artificial intelligence can be | Youth Views"
 excerpt: "With our endless connection with technology and artificial intelligence, we are more susceptible to dangers, like artificial intelligence gaining a mind of its own."
 publishedDateTime: 2023-08-07T13:48:00Z
-originalUrl: "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp"
-webUrl: "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp"
+originalUrl: "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html"
+webUrl: "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html"
 ampWebUrl: "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp"
 cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 4072
     isCached: true
 
-secured: "zI7/k4+jUY9FSXU8MhpUBeeasR7z2oktz6SRPJvONKc9xRtNt10YQ8HsMXNYBvIG4z7mhSGyuduASMvGT8NDSTwH1EGg9DXaV221RlqcSr20vxHQjDOR58r+5KG25Ymi01v1XUNWh6yy7eqMy4km4XeQrX1xqdhfJ6YYwawefbkkzsGYzK/WnJLieSFo/PSpHyorzinCQON/HdrmUtoKPIYjiQ58wD10OEi2iFjBtcJ4soc1vtZAo4438Js/GsPv2b10sZGaJK3pHUCR3VIZR3lt3uMAXj/pXPdWR+92XAKZ3FjEpxvD9idiVLxFwoPp7Gm0Fj5Mjpo+6E6jDM2SUjRFXidZVwGNZ1PVrSiPlqY=;rpFbIeNznfgo+PiFdkmcxA=="
+secured: "kl4DX60Fit3QnISQ577lReWzzngOYxCVEylsV4kJAcg/deKbO0rbnjicJ8rcGp0T8r37oE8dTmh+DBCdVdgcFILuR5MHdYT9xfxN8LiE7Bv1Tz/jzntBefFzkWgc5snIENvqWujPNloAv+zb90WiAT97NTZ/firgdYJ89C+60kTTtKIvlHkQS7cYTVXS5udkOXStdG51rfMreHf3Crv0ipxjudeFI+cVPTHFuQRjrny7dI6/uzVlz10FtFBsLYy05n2LH4MEUWoNPPKUbAyIpS34r8g5eOaje5lgWyA6+iJ6ZH0b88NlxDiel7uZLIUxRye4K4lc2Y7pBtGnGpByTMbCv9vxfGttDgQXgnCn5YU=;dlyp3enEekFkkSWVOvnJEg=="
 ---
 

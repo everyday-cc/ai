@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-19-how-businesses-can-ensure-a-prolonged-ai-summer.md",
-      "title": "How businesses can ensure a prolonged AI summer",
-      "excerpt": "As gen AI evolves at a breakneck pace, the specter of an AI winter looms, but so too does the promise of transformative breakthroughs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-businesses-can-ensure-a-prolonged-ai-summer/",
-      "originalUrl": "https://venturebeat.com/ai/how-businesses-can-ensure-a-prolonged-ai-summer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_graph_showing_positive_growth_with_a_summer_scene_beh_1c5f62aa-2ba9-4999-8cd2-2deed5df7024.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-19T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-19-cisco-ceo-says-ai-is-already-becoming-a-huge-new-market-after-it-missed-the-initial-cloud-computing-boom.md",
       "title": "Cisco CEO says AI is already becoming a huge new market after it 'missed' the initial cloud computing boom",
       "excerpt": "Cisco CEO says its demonstrating growing relevancy in AI infrastructure market after it \"missed\" the first cloud boom.",
@@ -543,17 +491,17 @@
       "title": "Foundations seek to advance AI for good — and also protect the world from its threats",
       "excerpt": "Gebru launched the Distributed Artificial Intelligence Research Institute in 2021 to ... Open Philanthropy, a foundation started by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna ...",
       "sourceUrl": null,
-      "webUrl": "https://www.click2houston.com/business/2023/08/11/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/",
-      "originalUrl": "https://www.click2houston.com/business/2023/08/11/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/",
+      "webUrl": "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/",
+      "originalUrl": "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QDPEEVBVX5DQNNG3Z7FJFMEWQQ.jpg?_a=ATAPphC0",
-          "width": 700,
-          "height": 467,
+          "url": "https://wwwcache.wral.com/asset/news/technology/2023/08/11/20995890/64d654fe5e5bb-media_8df39a03c1594324b12a740ee34ad835-DMID1-5zvvi6s6q-640x480.jpg",
+          "width": 640,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -561,13 +509,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T08:38:00-07:00",
+      "ampWebUrl": "https://www.wral.com/amp/20995889/",
+      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20995889/",
+      "publishedDateTime": "2023-08-11T09:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Click2Houston",
-        "domain": "click2houston.com",
+        "name": "WRAL",
+        "domain": "wral.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1448,6 +1396,58 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-this-ai-beauty-and-wellness-stock-just-hit-the-markets-should-you-buy-oddity-stock.md",
+      "title": "This AI Beauty and Wellness Stock Just Hit the Markets. Should You Buy Oddity Stock?",
+      "excerpt": "Beauty and wellness company Oddity Tech ( ODD 7.37%) is a company with high-tech AI capabilities in a niche industry that had its initial public offering (IPO) last week. Let's check it out and see if Oddity should make it into your stock portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740690/a-child-putting-blush-on-a-womans-face.jpg",
+          "width": 2122,
+          "height": 1412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

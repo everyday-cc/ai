@@ -63,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 263,
+      "heat": 253,
       "tags": null,
       "images": [
         {
@@ -367,31 +367,22 @@
       "title": "Storyboard Launches AI-Powered Translations to Breakdown Language Barriers",
       "excerpt": "SANTA MONICA, CA - Storyboard, the leading audio communication provider for frontline teams, announced that it will provide real-time AI-powered transcriptions and translations for over 50 languages in Chat by Storyboard.",
       "sourceUrl": null,
-      "webUrl": "https://www.restaurantdive.com/press-release/20230814-storyboard-launches-ai-powered-translations-to-breakdown-language-barriers-3/",
-      "originalUrl": "https://www.restaurantdive.com/press-release/20230814-storyboard-launches-ai-powered-translations-to-breakdown-language-barriers-3/",
+      "webUrl": "https://www.grocerydive.com/press-release/20230814-storyboard-launches-ai-powered-translations-to-breakdown-language-barriers-4/",
+      "originalUrl": "https://www.grocerydive.com/press-release/20230814-storyboard-launches-ai-powered-translations-to-breakdown-language-barriers-4/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "http://res.cloudinary.com/dmgi9movl/image/upload/v1692058496/press_release/assets/header_images/Storyboard_Chat_-_Restaurant_Header_1500x700_r57qzb.png",
-          "width": 1500,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T05:35:00-07:00",
+      "publishedDateTime": "2023-08-15T05:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "restaurantdive",
-        "domain": "restaurantdive.com",
+        "name": "grocerydive",
+        "domain": "grocerydive.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intel
 webUrl: "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1"
 type: article
 quality: 78
-heat: 168
+heat: 178
 published: true
 
 provider:
@@ -142,6 +142,15 @@ related:
       name: SportsPro
       domain: sportspromedia.com
     quality: 30
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
+    publishedDateTime: 2023-08-20T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341428&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
 
 secured: "otA9LXJa52dChlJm8MFW01cEKX6VnkF73x89rIW6RpjCktiJujh0yLrqg8DBpjRh7mdRXtOaM01w0+3MOAWG4PS0b/yH1NOHjn2GEKr3e4tBRS4zRgaT6Bpf7tCPYmnuWR8WHNAvYO8Eb1hxViudVzzhE0jbO8wXj9z86KIT7igFIKnr8YqIPeU2jp6/zUCJo5ZzNPRt6oRfoJRlJEVyFBEpeo11gR6+80EXctWwVGy6KfZEHt8gWC/8vTmY+Ghzfx2/5ipQrmHE73h3fWDmgAbLCr0CYN9mbbmJPJqQ0spc+A6AVBU3mseoYsejGrI0T6EXuxP2KAE9EVgPwQXgT8LFjrMw8HllfAIPYXcpy/Z0oW3AkelmmNK5/aNrzfLW9WUouOqOWCjW8yo1OQ6cb4iLTIdr/afeHGMf5a6KwMyO9jEWEHqPbETEGacfulnOYRRXi7LQJvhECJgotRpnfYqaVCFKG1+D/OPgQBpbhQYsRhakrr7kMeC+jwrVO87g6jd+Cv9/bAK4Lk2h1K0lfQ==;u0UwGCfApWLMTG9ZLyP0wQ=="
 ---

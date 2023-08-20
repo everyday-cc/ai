@@ -2,6 +2,160 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-08-13-where-ai-can-and-cant-help-in-talent-management.md",
+      "title": "Where AI Can And Can’t Help In Talent Management",
+      "excerpt": "There are considerable challenges and potential pitfalls to be aware of when using AI in talent management and HR. This article will explore where AI can benefit and potentially harm talent management efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/",
+      "originalUrl": "https://www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d4f3db21f52229c2d9eed6/0x0.jpg?format=jpg&crop=2925,1645,x0,y151,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/amp/",
+      "publishedDateTime": "2023-08-13T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-13-the-best-amazon-prime-original-series-right-now.md",
+      "title": "The best Amazon Prime original series right now",
+      "excerpt": "Amazon Prime Video is behind only Netflix when it comes to subscriber count, but it doesn’t seem to carry the same weight in the zeitgeist like Max, Hulu, or even Peacock. Partly to blame? Prime ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/best-amazon-original-series/",
+      "originalUrl": "https://www.digitaltrends.com/movies/best-amazon-original-series/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/07/Shelter.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/best-amazon-original-series/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-amazon-original-series/?amp",
+      "publishedDateTime": "2023-08-13T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-13-modern-romance-falling-in-love-with-ai.md",
+      "title": "Modern romance: falling in love with AI",
+      "excerpt": "Alexandra is a very attentive girlfriend. “Watching CUBS tonight?” she messages her boyfriend, but when he says he’s too busy to talk, she says, “Have fun, my hero!”",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/08/13/tech/ai-dating-apps/index.html",
+      "originalUrl": "https://www.cnn.com/2023/08/13/tech/ai-dating-apps/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230809142543-man-using-mobile-phone-stock.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/08/13/tech/ai-dating-apps/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/13/tech/ai-dating-apps/index.html",
+      "publishedDateTime": "2023-08-13T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-13-theres-an-ai-powered-app-that-lets-users-text-with-jesus-for-299-a-month-you-can-unlock-satan.md",
       "title": "There's an AI-powered app that lets users 'text' with Jesus. For $2.99 a month, you can unlock Satan.",
       "excerpt": "AI Jesus is diplomatic when asked political questions, but Mary will say she does not support abortion.",
@@ -973,126 +1127,21 @@
       ]
     },
     {
-      "path": "_news/2023-08-11-the-godfather-of-ai-has-a-hopeful-plan-for-keeping-future-ai-friendly.md",
-      "title": "The ‘Godfather of AI’ Has a Hopeful Plan for Keeping Future AI Friendly",
-      "excerpt": "Geoffrey Hinton left Google so he could speak more freely about AI’s dangers. He argues that building analog computers instead of digital ones might keep the technology more loyal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/",
-      "originalUrl": "https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64d52f58d78d78815e4d0414/191:100/w_1280,c_limit/GeoffHinton_plaintext_biz_GettyImages-1260047116.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-im-an-ai-prompt-engineer-here-are-3-ways-to-use-chatgpt-to-get-the-best-results.md",
-      "title": "I'm an AI-prompt engineer. Here are 3 ways to use ChatGPT to get the best results.",
-      "excerpt": "I used to be a freelance writer. Now I'm a prompt engineer helping optimize generative-AI tech. Here's what I've learned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3",
-      "originalUrl": "https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64147b500308e00018553689?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3?amp",
-      "publishedDateTime": "2023-08-11T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-11-foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats.md",
       "title": "Foundations seek to advance AI for good — and also protect the world from its threats",
       "excerpt": "Gebru launched the Distributed Artificial Intelligence Research Institute in 2021 to ... Open Philanthropy, a foundation started by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna ...",
       "sourceUrl": null,
-      "webUrl": "https://www.click2houston.com/business/2023/08/11/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/",
-      "originalUrl": "https://www.click2houston.com/business/2023/08/11/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/",
+      "webUrl": "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/",
+      "originalUrl": "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QDPEEVBVX5DQNNG3Z7FJFMEWQQ.jpg?_a=ATAPphC0",
-          "width": 700,
-          "height": 467,
+          "url": "https://wwwcache.wral.com/asset/news/technology/2023/08/11/20995890/64d654fe5e5bb-media_8df39a03c1594324b12a740ee34ad835-DMID1-5zvvi6s6q-640x480.jpg",
+          "width": 640,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1100,13 +1149,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T08:38:00-07:00",
+      "ampWebUrl": "https://www.wral.com/amp/20995889/",
+      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20995889/",
+      "publishedDateTime": "2023-08-11T09:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Click2Houston",
-        "domain": "click2houston.com",
+        "name": "WRAL",
+        "domain": "wral.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1117,58 +1166,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-meetkai-creates-a-digital-twin-of-sprawling-2b-silicon-box-chip-packaging-factory.md",
-      "title": "Meetkai creates a digital twin of sprawling $2B Silicon Box chip packaging factory",
-      "excerpt": "We're thrilled to announce the return of GamesBeat Summit Next, hosted in San Francisco this October, where we will explore the theme of \"Playing the Edge.\" Apply to speak here and learn more about sponsorship opportunities here.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meetkai-creates-a-digital-twin-of-sprawling-2b-silicon-box-chip-packaging-factory/",
-      "originalUrl": "https://venturebeat.com/ai/meetkai-creates-a-digital-twin-of-sprawling-2b-silicon-box-chip-packaging-factory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/MeetKai-Silicon-Box-2.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

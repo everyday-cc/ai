@@ -40,6 +40,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Journos vs. Robots: Associated Press Declares Stance Against AI"
+    excerpt: "Engrossed in the discussion, a select group of over two dozen bipartisan figures from the Capitol Hill listened attentively. Among them were D.C. policy analysts, legal experts, and chiefs of staff, carefully enjoying their breakfast fruit tarts."
+    publishedDateTime: 2023-08-17T13:34:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/journos-vs-robots-associated-press-declares-stance-against-ai/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 38
 
 secured: "Kh/IXbp57EchSJK9FeBdvlrHsDeE5S6cieNEB5gMvi3KCbnaFW2f0lYcBqpUzv593Kbphyl3xGWsY1tN2AW6AfV9dHLmorFp9tSF0jKX26KPBr4SlALqdCmk5yqjxYlYxN1zMA0IYv55p8Abahfq86mUz9z44+Cf3ui01EM9Y567tm/ovOLPWDsPbzMJ+HRFit3UoUAjFN/x39kdcdLJpv6eF6xzi5DcjpODKnIvCeLt01JIZFL8WA18PgytXWMDJIo6y4m4fg7u6OAAMiUc7itVUPyGJ/6JaaRLc3mQr69+p/CZg5Tzo50EcMUjegXfyye4wwpmpy7/2YNk5tuvRIwVNyxTbC0gNjuW5htuVfI=;rU4TjASukWjSk5EKgqU3Ug=="
 ---

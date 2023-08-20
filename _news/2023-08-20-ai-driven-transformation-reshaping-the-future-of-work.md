@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Opinion: Navigating the uncharted waters of AI ethics and regulations"
-    excerpt: "Manisha Kapoor of ASCI shares her thoughts on threading through the risks of using generative AI in the A&M industry while keeping AI ethics and regulations in mind."
-    publishedDateTime: 2023-08-16T04:30:00Z
-    webUrl: "https://www.socialsamosa.com/2023/08/opinion-navigating-ai-ethics-and-regulations/"
+  - title: "Salesforce Announces Speaker Lineup for Dreamforce 2023, Emphasizing AI’s Transformative Role"
+    excerpt: "Salesforce this week announced initial speakers for Dreamforce 2023. Diving deep into AI and how it’s transforming the world around us,"
+    publishedDateTime: 2023-08-18T16:40:00Z
+    webUrl: "https://www.datanami.com/this-just-in/salesforce-announces-speaker-lineup-for-dreamforce-2023-emphasizing-ais-transformative-role/"
     type: article
     provider:
-      name: Social Samosa
-      domain: socialsamosa.com
-    quality: 34
+      name: datanami.com
+      domain: datanami.com
+    quality: 28
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
 
 secured: "uQln9xr48GHxMy6aMLPAhDzX4HqLxWWCA1XZdLQQCPVQ7Gfrs9nMw5bV5fywy4IUbLbIXgUSw5qrjkUTDVfaOjFm1kivWIxFtj30gapwchgl+dqeD2nDmSMAQwL5JkiPyHDM9uWNWU0DigwkOrVY5WD4PzoYO2OyFmndQh/w4/y7lnHgfwO+xs1vjcuHecSaX/xtiJxALAXbVHz44TQn0TdXM5oKqsh9Dp8mUiI3dpw9sagpex9Qceu5rBWalzb4wWAgNeUEGG7nPUUFptLUK36EvJx4LrCmqUIQ4nzdWYFLdJQHPBn3mnBbcQ8/RlObyBCz3iJHLWJ1CKyOAm6SPzvvOOpypDZRaEaGabCkmcBZ9dsKbxFnS4DUXlMHp3xXE6yxrbN+GXLJhSfv6MilX1Xoe5IDjXHalAyukjxlQdFUD7HNjVOLnZRwgs/J8soL+gS2DI4s0qsNPxwp9ZkO68oJm3gKYChsMgJaI+v4zoDzW53/K9yoswsrV/fh/mXpCDBUKmzXVcBmDclgEJByDw==;jCXoQ3IZ2948hQDhgOLKUQ=="
 ---

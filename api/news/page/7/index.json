@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-14-with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech.md",
+      "title": "With facial recognition CCTVs and anti-drone systems, R-Day security goes hi-tech",
+      "excerpt": "Delhi has been wrapped in a security blanket for Tuesday's 77th Independence Day celebrations, with more than 10,000 personnel manning the area in and around the Red Fort from where Prime Minister Narendra Modi will address the nation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "originalUrl": "https://www.rediff.com/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/345-230/news/2023/aug/14president-murmu-addresses-the-nation.jpg",
+          "width": 345,
+          "height": 230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "publishedDateTime": "2023-08-14T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-ai-startup-anthropic-gets-100m-to-build-custom-llm-for-telecom-industry.md",
+      "title": "AI startup Anthropic gets $100M to build custom LLM for telecom industry",
+      "excerpt": "AI startup Anthropic with its \"constitutional AI\" approach has raised $100 million from Korean telecom major SK Telecom to build custom LLMs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-startup-anthropic-gets-100m-to-build-custom-llm-for-telecom-industry/",
+      "originalUrl": "https://venturebeat.com/ai/ai-startup-anthropic-gets-100m-to-build-custom-llm-for-telecom-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1323198492-e1653330450993.jpg?fit=750%2C493&#038;strip=all",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-uk-allocates-13m-to-boost-use-of-artificial-intelligence-in-healthcare.md",
       "title": "UK allocates £13m to boost use of artificial intelligence in healthcare",
       "excerpt": "The government has allocated a £13m investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare. The move, announced by Technology Secretary Michelle ...",
@@ -735,6 +831,41 @@
       ]
     },
     {
+      "path": "_news/2023-08-14-amazons-facial-recognition-system-flags-dozens-of-california-lawmakers-as-criminals.md",
+      "title": "Amazon’s facial recognition system flags dozens of California lawmakers as criminals",
+      "excerpt": "Amazon’s facial scanning software, called Rekognition, won’t unlock your phone, but it is currently being used by some law enforcement agencies to identify criminals based on their mugshots.",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/rekognition-test-amazon-facial-software/",
+      "originalUrl": "https://bgr.com/science/rekognition-test-amazon-facial-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-13T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-natural-language-processing-nlp-software-market-scope-and-business-revenue-insight-2030.md",
       "title": "Natural Language Processing (NLP) Software Market Scope and Business revenue Insight, 2030",
       "excerpt": "Natural Language Processing (NLP) Software Market | Outlook 2023-2028 | Tables and Figures with Pre and Post-COVID Research is Covered, Report Information | Updated 115 Pages Report The extent and ...",
@@ -1052,160 +1183,6 @@
         "Facebook AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-13-where-ai-can-and-cant-help-in-talent-management.md",
-      "title": "Where AI Can And Can’t Help In Talent Management",
-      "excerpt": "There are considerable challenges and potential pitfalls to be aware of when using AI in talent management and HR. This article will explore where AI can benefit and potentially harm talent management efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/",
-      "originalUrl": "https://www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d4f3db21f52229c2d9eed6/0x0.jpg?format=jpg&crop=2925,1645,x0,y151,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/08/13/where-ai-can-and-cant-help-in-talent-management/amp/",
-      "publishedDateTime": "2023-08-13T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-13-the-best-amazon-prime-original-series-right-now.md",
-      "title": "The best Amazon Prime original series right now",
-      "excerpt": "Amazon Prime Video is behind only Netflix when it comes to subscriber count, but it doesn’t seem to carry the same weight in the zeitgeist like Max, Hulu, or even Peacock. Partly to blame? Prime ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-amazon-original-series/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-amazon-original-series/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/07/Shelter.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-amazon-original-series/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-amazon-original-series/?amp",
-      "publishedDateTime": "2023-08-13T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-13-modern-romance-falling-in-love-with-ai.md",
-      "title": "Modern romance: falling in love with AI",
-      "excerpt": "Alexandra is a very attentive girlfriend. “Watching CUBS tonight?” she messages her boyfriend, but when he says he’s too busy to talk, she says, “Have fun, my hero!”",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/08/13/tech/ai-dating-apps/index.html",
-      "originalUrl": "https://www.cnn.com/2023/08/13/tech/ai-dating-apps/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230809142543-man-using-mobile-phone-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/08/13/tech/ai-dating-apps/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/13/tech/ai-dating-apps/index.html",
-      "publishedDateTime": "2023-08-13T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,143 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-07-21-this-barbie-ai-tool-turns-you-into-a-barbie-movie-character-sort-of.md",
+      "title": "This Barbie AI tool turns you into a Barbie movie character (sort of)",
+      "excerpt": "Warner Bros and Photoroom, an AI-based photo app, collaborated to create a Barbie Selfie Generator, which lets users upload a selfie and transform it into a Barbie movie character's poster.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/",
+      "originalUrl": "https://www.zdnet.com/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/70775f51b0e65f1fc3a0c4a68812c9f6b4476177/2023/07/21/0bc0b301-9260-4cb3-8c04-1b887d1af7b1/gettyimages-1543944233.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/",
+      "publishedDateTime": "2023-07-21T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-as-ai-porn-generators-get-better-the-stakes-get-higher.md",
+      "title": "As AI porn generators get better, the stakes get higher",
+      "excerpt": "But from what I can tell, there’s not been any movement on that front. Indeed, like the ethics around AI-generated porn, Unstable Diffusion’s situation seems unlikely to resolve anytime soon. The group seems doomed to a holding pattern, trying to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/",
+      "originalUrl": "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/ezgif-5-6ff96dc0cd-transformed.png?resize=1200,650",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/amp/",
+      "publishedDateTime": "2023-07-21T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-revolutionizing-fintech-the-role-of-ai-in-democratizing-investment-opportunities.md",
+      "title": "Revolutionizing Fintech: The Role of AI in Democratizing Investment Opportunities",
+      "excerpt": "With the integration of AI in fintech, individual investors can access high-quality researched-back data and investment recommendations to make better-informed decisions. AI platforms are using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities",
+      "originalUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech%3A-the-role-of-ai-in-democratizing-investment-opportunities?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/revolutionizing-fintech%3A-the-role-of-ai-in-democratizing-investment-opportunities?amp",
+      "publishedDateTime": "2023-07-21T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-no-i-didnt-imagine-it-the-npc-craze-really-offers-money-for-robotic-gibberish.md",
       "title": "No, I didn’t imagine it – the ‘NPC’ craze really offers money for robotic gibberish",
       "excerpt": "People online pretend to be jerky video-game characters – and some make tons of money doing it. What on earth?",
@@ -1063,159 +1200,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-there-are-4-reasons-why-jobs-are-disappearing-but-ai-isnt-one-of-them.md",
-      "title": "There are 4 reasons why jobs are disappearing — but AI isn't one of them",
-      "excerpt": "Slower economic growth and a rising cost of living are among the main reasons leading to job losses right now, per a new HSBC study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/lost-jobs-disappear-reasons-not-ai-hsbc-2023-7",
-      "originalUrl": "https://www.businessinsider.com/lost-jobs-disappear-reasons-not-ai-hsbc-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63e3b0bf27e5db0018eeb3b7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/lost-jobs-disappear-reasons-not-ai-hsbc-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lost-jobs-disappear-reasons-not-ai-hsbc-2023-7?amp",
-      "publishedDateTime": "2023-07-20T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-eight-months-on-tech-budget-planners-are-fixated-on-generative-ai.md",
-      "title": "Eight Months On, Tech Budget Planners Are Fixated On Generative AI",
-      "excerpt": "We believe it can have a positive impact on worker productivity across industries by giving people \"superpowers\" to do more and be more creative, effective and",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639cee1eba8c17f97ef31824/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/",
-      "publishedDateTime": "2023-07-20T20:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-experts-discuss-how-artificial-intelligence-could-be-used-in-war.md",
-      "title": "Experts discuss how artificial intelligence could be used in war",
-      "excerpt": "Brandon Tseng, co-founder and president of Shield AI, and Jennifer McArdle, senior director and adjunct senior fellow at CNAS, discuss the military uses of artificial intelligence and address the question of whether humans should be taken out of the \"kill chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2023/07/21/experts-discuss-how-artificial-intelligence-could-be-used-in-war.html",
-      "originalUrl": "https://www.cnbc.com/video/2023/07/21/experts-discuss-how-artificial-intelligence-could-be-used-in-war.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107274604-16899079551689907952-30395291236-1080pnbcnews.jpg?v=1689909894&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T18:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

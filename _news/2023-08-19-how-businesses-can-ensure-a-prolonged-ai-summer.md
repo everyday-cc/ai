@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/how-businesses-can-ensure-a-prolonged-a
 webUrl: "https://venturebeat.com/ai/how-businesses-can-ensure-a-prolonged-ai-summer/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: VentureBeat
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Lunch and Learn event helps businesses adapt to AI"
-    excerpt: "The panel featured a trio of presenters, all experts in startup AI-focused businesses. \"Change is coming and I really want local businesses to shift from being threatened (by AI) to being the threat,\" said chamber member Aaron Smothers, the chief ..."
-    publishedDateTime: 2023-08-16T03:49:00Z
-    webUrl: "https://www.semissourian.com/story/3006248.html"
-    type: article
-    provider:
-      name: Southeast Missourian
-      domain: semissourian.com
-    quality: 37
-    images:
-      - url: "https://www.semissourian.com/photos/38/79/23/3879234-B.jpg"
-        width: 1000
-        height: 750
-        isCached: true
 
 secured: "mnuexbZRVu4kDH/kFqUNmBoaU/SfhJy3Dd1T3Cb/lNbijy5QoosL3/xL2Rap/PLRV/0aKF4bAePK8zH1l0V4SEotj824EclruQaFWMrDh7jfyU5LEKQq+r7/e/T4UlODK9f4rnSHKGbw5gyKj7IH7Aao3mHxJ5lEZBWOUkjek3nC9X1dxg7ZEkjVSGV/gXyZdOzsWC8A0kLahX+sKBYt6qxFgxQM+7cZmyHYQlLDlfR66Fi+WHmGJZP2uc22F34GcRaKkwDnKmVZiK1u0pQppoKipynh1ZG1JbAHuusLMEJAZPebw/haHvryd8ulelf/2UlA+V9YHBsrALJLdyZ2KDAb54c3K2gUtIgJq5ZMXyyGzMHQ9iJTrpGveFULXfzsXh08GsXF49+Y7J6U05vXrPozgKrvADvQ73monG9UDfLb17S1I/GfEP/Dw/qZHLrCYLR6TCWw66GkjMqwfFhot2B74cOc8fSGiHv6jIUOglGJmtrXfeifAk9Ve5B9i/XnPRqvo+s0vyVzs04GbdkoPg==;TRMYxSEgUqweCeLSFQGVCA=="
 ---

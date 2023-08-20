@@ -137,6 +137,15 @@ related:
       name: SportsPro
       domain: sportspromedia.com
     quality: 30
+  - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
+    excerpt: "The new IBM Consulting Azure OpenAI Service offering, which is available on Azure Marketplace, is a fully managed AI service that allows developers and data scientists to apply powerful large language models, including their GPT and Codex series."
+    publishedDateTime: 2023-08-20T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1341428&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
 
 secured: "QA2Nj8KjyS5W+NUgS8PukZ8SO2OUkHoK4WmXBk5dPOfKMx+JEkT2XQjCIYikYDP6er2L+9nK9VQzjQuzQNJJvnPfv1yV39XW6i8LN/v71/cEQ167hR2qN4OIDPA5x4Aw/M0txhb4mecpTVhRu2oliSoko0X7hXtuMMifvAYWnAQ8NU3dSLpMzeh2ME+ylWt0qNxpunpU+acocRc7RphFxK6Df+TRgpsac/4RdQeDuXZ6iCjv/Zfjll6cdQVy5lWpznvjQTL0vNIdjndr4mUd9iVdLAmii9jyBkUwbazeOBdDfi6FtQlMPlSylkQTxLOfmkVQvRoke6YRj32SyDJdSTwPAbegu0KY5nE9H2DY0VoKRd5UGp+uiyg+FPugdpwLxD7GONZqYWbysrMaRGQ6O43TxvcWN0liECaEMMaPIdfIjYcACY9i+i3bQcaJl/GGbgNnP1gjrlRTHRFdVCMGpyf7M9QV8dSeeJUxq2ON8l2+EgZ1h/seW7T7YrwFNtDpV/zwWMl9+RgGlfOfpKrCQA==;FpHp1IZdOU4NG9EQAbi3ZA=="
 ---

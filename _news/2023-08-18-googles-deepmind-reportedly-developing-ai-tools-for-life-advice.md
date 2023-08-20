@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google DeepMind Testing Personal Life AI Tools"
+    excerpt: "Google's robotics and AI company DeepMind is testing a new tool that could soon become a \"personal life coach\" for those seeking answers. Google earlier this year merged its Brain team from Google Research with DeepMind."
+    publishedDateTime: 2023-08-18T04:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/388362/google-deepmind-testing-personal-life-ai-tools.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 54
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/08/18/shutterstock_2269392697_BFUsuAA.jpg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Google DeepMind reportedly developing at least 21 new generative AI features"
     excerpt: "The search giant’s engineers are reportedly working on at least 21 different generative AI capabilities. One of the main highlights is a feature that can reportedly provide advice about “challenges in people’s lives.” A sample prompt obtained by the Times suggests the feature can process complex user queries containing several lines of text."
     publishedDateTime: 2023-08-16T21:13:00Z

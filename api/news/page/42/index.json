@@ -2,6 +2,159 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-07-21-there-are-4-reasons-why-jobs-are-disappearing-but-ai-isnt-one-of-them.md",
+      "title": "There are 4 reasons why jobs are disappearing — but AI isn't one of them",
+      "excerpt": "Slower economic growth and a rising cost of living are among the main reasons leading to job losses right now, per a new HSBC study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/lost-jobs-disappear-reasons-not-ai-hsbc-2023-7",
+      "originalUrl": "https://www.businessinsider.com/lost-jobs-disappear-reasons-not-ai-hsbc-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63e3b0bf27e5db0018eeb3b7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/lost-jobs-disappear-reasons-not-ai-hsbc-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lost-jobs-disappear-reasons-not-ai-hsbc-2023-7?amp",
+      "publishedDateTime": "2023-07-20T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-eight-months-on-tech-budget-planners-are-fixated-on-generative-ai.md",
+      "title": "Eight Months On, Tech Budget Planners Are Fixated On Generative AI",
+      "excerpt": "We believe it can have a positive impact on worker productivity across industries by giving people \"superpowers\" to do more and be more creative, effective and",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639cee1eba8c17f97ef31824/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/",
+      "publishedDateTime": "2023-07-20T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-experts-discuss-how-artificial-intelligence-could-be-used-in-war.md",
+      "title": "Experts discuss how artificial intelligence could be used in war",
+      "excerpt": "Brandon Tseng, co-founder and president of Shield AI, and Jennifer McArdle, senior director and adjunct senior fellow at CNAS, discuss the military uses of artificial intelligence and address the question of whether humans should be taken out of the \"kill chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2023/07/21/experts-discuss-how-artificial-intelligence-could-be-used-in-war.html",
+      "originalUrl": "https://www.cnbc.com/video/2023/07/21/experts-discuss-how-artificial-intelligence-could-be-used-in-war.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107274604-16899079551689907952-30395291236-1080pnbcnews.jpg?v=1689909894&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-tenstorrent-is-changing-the-way-we-think-about-ai-chips.md",
       "title": "Tenstorrent Is Changing the Way We Think About AI Chips",
       "excerpt": "“GPUs are essentially at the end of their evolutionary curve,” Ljubisa Bajic, CEO of AI chip startup Tenstorrent told Design News. “[GPUs] have done a great job; they’ve pushed the field to to the point where it is now. But in order to make any ...",
@@ -1042,145 +1195,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-are-self-driving-cars-a-national-security-risk.md",
-      "title": "Are self-driving cars a national security risk?",
-      "excerpt": "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html",
-      "originalUrl": "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/38/e38f38ab-7b25-5df2-9c5a-c904ad2fc029/64b9765dc9cc0.image.jpg?crop=1080%2C567%2C0%2C66&resize=1080%2C567&order=crop%2Cresize",
-          "width": 1080,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-natural-language-processing-portugal.md",
-      "title": "Natural Language Processing - Portugal",
-      "excerpt": "Value in the Natural Language Processing market is projected to reach US$88.92m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 17.17%, resulting in a market volume of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/portugal",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/portugal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-efficiently-train-tune-and-deploy-custom-ensembles-using-amazon-sagemaker.md",
-      "title": "Efficiently train, tune, and deploy custom ensembles using Amazon SageMaker",
-      "excerpt": "Artificial intelligence (AI) has become an important and popular topic in the technology community. As AI has evolved, we have seen different types of machine learning (ML) models emerge. One approach, known as ensemble modeling, has been rapidly gaining traction among data scientists and practitioners.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/efficiently-train-tune-and-deploy-custom-ensembles-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/efficiently-train-tune-and-deploy-custom-ensembles-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/20/train-tune-deploy-custom-ensembles-sagemaker.png",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T09:12:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

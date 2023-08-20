@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-26-microsoft-shares-down-as-azure-cloud-services-business-slows-down.md",
+      "title": "Microsoft shares down as Azure cloud-services business slows down",
+      "excerpt": "Microsoft Corp. posted tepid quarterly sales growth and forecast a continued slowdown in its Azure cloud-services business, overshadowing optimism about customer interest in new artificial intelligence-powered products. The shares dropped almost 4% in late trading.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/investing-abroad-microsoft-shares-down-as-azure-cloud-services-business-slows-down-3187540/",
+      "originalUrl": "https://www.financialexpress.com/business/investing-abroad-microsoft-shares-down-as-azure-cloud-services-business-slows-down-3187540/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/07/22.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/investing-abroad-microsoft-shares-down-as-azure-cloud-services-business-slows-down-3187540/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/investing-abroad-microsoft-shares-down-as-azure-cloud-services-business-slows-down-3187540/lite/",
+      "publishedDateTime": "2023-07-26T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-better-ai-stock-c3ai-vs-opera-limited.md",
       "title": "Better AI Stock: C3.ai vs. Opera Limited",
       "excerpt": "C3.ai claims it's an \"enterprise AI software\" company, but it was previously known as C3 Energy and C3 IoT ( Internet of Things ). It only renamed itself again as C3.ai in 2019 as the market became more interested in AI technologies.",
@@ -1411,50 +1454,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-voice-recognition-system-market-detailed-industry-report-analysis-2023-2029-nuance-microsoft-sensory.md",
-      "title": "Voice Recognition System Market Detailed Industry Report Analysis 2023-2029| Nuance, Microsoft, Sensory",
-      "excerpt": "Stay up to date with Voice Recognition System Market research offered by HTF MI. Check how key trends and emerging drivers are shaping this industry growth. HTF Market Intelligence consulting is ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106621844/Voice-Recognition-System-Market-Detailed-Industry-Report-Analysis-2023-2029-Nuance-Microsoft-Sensory",
-      "originalUrl": "https://menafn.com/1106621844/Voice-Recognition-System-Market-Detailed-Industry-Report-Analysis-2023-2029-Nuance-Microsoft-Sensory",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?940011",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 687
         isCached: true
-  - title: "Wcm-Q Discusses Legal, Ethical Issues Of Generative Ai In Healthcare"
-    excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed during the latest instalment of Weill"
-    publishedDateTime: 2023-08-16T03:14:00Z
-    webUrl: "https://menafn.com/1106864884/Wcm-Q-Discusses-Legal-Ethical-Issues-Of-Generative-Ai-In-Healthcare"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 71
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?248441"
-        width: 444
-        height: 250
-        isCached: true
   - title: "China's new rules on AI-generated content"
     excerpt: "Here's what you need to know about Beijing's regulations, which target services for the general public: - AI ethics - Generative AI must \"adhere to the core values of socialism\" and refrain from threatening national security and promoting terrorism ..."
     publishedDateTime: 2023-08-18T07:02:00Z

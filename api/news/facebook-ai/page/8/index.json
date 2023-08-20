@@ -2,59 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-03-28-gpt-4-kicks-ai-security-risks-into-higher-gear.md",
-      "title": "GPT-4 kicks AI security risks into higher gear",
-      "excerpt": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success ... And, Check Point Research was able to use ChatGPT to create a convincing spear-phishing attack. The company’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/",
-      "originalUrl": "https://venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1368733427-luckystep.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/amp/",
-      "publishedDateTime": "2023-03-28T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-03-28-what-do-ai-art-generators-think-a-ceo-looks-like-most-of-the-time-a-white-guy.md",
       "title": "What do AI art generators think a CEO looks like? Most of the time a white guy",
       "excerpt": "A team of researchers from AI firm Hugging Face — one of whom is a former AI ethics researcher at Google — and a professor from Germany's Leipzig University published a study to identify how ...",

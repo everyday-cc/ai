@@ -2,6 +2,145 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-07-21-are-self-driving-cars-a-national-security-risk.md",
+      "title": "Are self-driving cars a national security risk?",
+      "excerpt": "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html",
+      "originalUrl": "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/38/e38f38ab-7b25-5df2-9c5a-c904ad2fc029/64b9765dc9cc0.image.jpg?crop=1080%2C567%2C0%2C66&resize=1080%2C567&order=crop%2Cresize",
+          "width": 1080,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-natural-language-processing-portugal.md",
+      "title": "Natural Language Processing - Portugal",
+      "excerpt": "Value in the Natural Language Processing market is projected to reach US$88.92m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 17.17%, resulting in a market volume of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/portugal",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/portugal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-efficiently-train-tune-and-deploy-custom-ensembles-using-amazon-sagemaker.md",
+      "title": "Efficiently train, tune, and deploy custom ensembles using Amazon SageMaker",
+      "excerpt": "Artificial intelligence (AI) has become an important and popular topic in the technology community. As AI has evolved, we have seen different types of machine learning (ML) models emerge. One approach, known as ensemble modeling, has been rapidly gaining traction among data scientists and practitioners.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/efficiently-train-tune-and-deploy-custom-ensembles-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/efficiently-train-tune-and-deploy-custom-ensembles-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/20/train-tune-deploy-custom-ensembles-sagemaker.png",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T09:12:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-dont-ask-dumb-robots-if-ai-will-destroy-humanity.md",
       "title": "Don’t Ask Dumb Robots If AI Will Destroy Humanity",
       "excerpt": "Robots like Sophia are impressive to look at, but don’t let their humanlike facial expressions trick you into thinking these machines are intelligent.",
@@ -1012,161 +1151,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-ai-workers-need-more-protection-tuc-union.md",
-      "title": "AI: Workers need more protection - TUC union",
-      "excerpt": "The UK is falling behind in protecting workers from artificial intelligence (AI), a trade union has warned. The TUC said the UK had no plans, like the EU's AI Act, to regulate its use in hiring, firing and setting work conditions. The union has asked a taskforce to draft legal protections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-66248125",
-      "originalUrl": "https://www.bbc.com/news/business-66248125",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/D0F4/production/_130429435_gettyimages-1436224164.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-66248125.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66248125.amp",
-      "publishedDateTime": "2023-07-19T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential.md",
-      "title": "Liquid Networks: Unleashing AI Efficiency, Causality, And Adaptive Potential",
-      "excerpt": "To engage the community in the AI conversation, on June 27 2023, CSAIL co-hosted a symposium in collaboration with John Werner’s Imagination in Action on AI frontiers and Implic",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/",
-      "originalUrl": "https://www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/amp/",
-      "publishedDateTime": "2023-07-19T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector.md",
-      "title": "Hero AI Seeks To Transform Mindsets In The Lagging Healthcare Sector",
-      "excerpt": "The resistance to change is emblematic in a sector that has idealized practices and legacy systems that have been working for decades. One founder seeks to disrupt this.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b842c1ed475f757e5b79a0/0x0.jpg?format=jpg&width=1200",
-          "width": 940,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/",
-      "publishedDateTime": "2023-07-19T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
