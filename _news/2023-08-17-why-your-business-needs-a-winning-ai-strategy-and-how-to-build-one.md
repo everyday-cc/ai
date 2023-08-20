@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-yo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Learn as you search (and browse) using generative AI"
-    excerpt: "New updates to Search Generative Experience (SGE) help people easily learn new things and understand key concepts while searching online."
-    publishedDateTime: 2023-08-15T16:00:00Z
-    webUrl: "https://blog.google/products/search/google-search-generative-ai-learning-features/"
-    ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-learning-features/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-learning-features/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search-Back-to-School-2.width-1300.jpg"
-        width: 1300
-        height: 543
-        isCached: true
 
 secured: "jmlLz7WGtnl7fZSyIhjaJ+Ths6IjfATQcpRnczrMvEmKpYomT5YEGmXM2SOCWpbAV03rLA9uKcPBP2/HyhtK3cyCIsR9iTFgvO2Blikm2/cumL//8TdVKC1COum1u+O1zzAUP3VjiB3MKJfAQ5gWsEsvnZNJiJpp/8pToD86H9/uTqpsPVrNjBeCZOqkQfWpV3CGcTkVHHdBn4cnr0CKL9TspsR1m+DdBVEDbwt11zVeKzHJwBA4YGlVNjwhvzP1ujhoJsQos4nqX1rNNx6wrfp8wxQOehz1XxN8lqF7+hujy6qG0Ciugs4885xpbfoB2IJrwmIPpEbVj++3II64f66wl4sB7MS7pE+2rDmiOZs=;wEOykueroUteWfmboDX0Xg=="
 ---

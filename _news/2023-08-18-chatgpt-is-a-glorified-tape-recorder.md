@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-17T21:13:00Z
 originalUrl: "https://www.nextbigfuture.com/2023/08/chatgpt-is-a-glorified-tape-recorder.html"
 webUrl: "https://www.nextbigfuture.com/2023/08/chatgpt-is-a-glorified-tape-recorder.html"
 type: article
-quality: 4
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/08/Kaku_Michi.jpeg"
+    width: 1200
+    height: 1800
+    isCached: true
 
 related:
   - title: "ESG May Help Regulate AI/ ChatGPT Use In Business"

@@ -27,59 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "DEF CON Generative AI Hacking Challenge Explored Cutting Edge of Security Vulnerabilities"
-    excerpt: "Data from the human vs. machine challenge could provide a framework for government and enterprise policies around generative AI."
-    publishedDateTime: 2023-08-15T17:02:00Z
-    webUrl: "https://www.techrepublic.com/article/def-con-hackers-generative-ai/"
+  - title: "Canadian government seeks input on voluntary code of practice for generative AI"
+    excerpt: "Canada's intent to establish a code of practice demonstrates its commitment to ensuring generative AI evolves in a way that benefits society."
+    publishedDateTime: 2023-08-16T15:00:00Z
+    webUrl: "https://venturebeat.com/ai/canadian-government-seeks-input-on-voluntary-code-of-practice-for-generative-ai/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 77
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr081523-def-con-hackers-generative-ai.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "How Cutting-Edge AI Technologies Are Helping Companies Establish Trust And Credibility Through PR"
-    excerpt: "In the fast-paced, crowded business world, credibility is the one thing that can cut through the noise. AI can assist in delivering high-impact PR campaign results."
-    publishedDateTime: 2023-08-17T02:24:00Z
-    webUrl: "https://www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai-technologies-are-helping-companies-establish-trust-and-credibility-through-pr/"
-    ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai-technologies-are-helping-companies-establish-trust-and-credibility-through-pr/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai-technologies-are-helping-companies-establish-trust-and-credibility-through-pr/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dd82facaec195bbc3d5165/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2017/01/shutterstock_209461318-e1692142857564.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 803
         isCached: true
-  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
-    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
-    publishedDateTime: 2023-08-18T08:45:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "US military’s special task force will explore generative AI"
-    excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
-    publishedDateTime: 2023-08-15T19:00:00Z
-    webUrl: "https://www.popsci.com/technology/dod-generative-ai-task-force/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "FFqyc8t76IvKaAZ2KANyREOd9clJ0KznIgzK1OJZABb6YfncSvg80pCJ7YVbrPU3o1zAppXTq9ZOwDZLJ4CtqbJ34+vKR/HEcBk+vj6VI0iumOjDdBBLh7iHdyFefz3jmMbJulbM6ha37hV77U27/u4JpQPblrAw43DW+e6OrlvoekjpiyZQfx9bKGmDFSNH3cCHX+5r+pzUi/4A8cNd223Tkl5wnDzXUbBCKFFGlDRvySfEFDY0EaQk5vm+OTlsIHeFcb7oXZvfvrFVSK7diOsxnDw5tlQUtIDTuxA/Atx9HDt32glBdzoXUr1CozJ5OelfI2j3E9GNo0ekDawC01nFxDLmvoog2FmE9WV0FdKH6Q5XbHtPOJAekR8JWtkvvJ6X6vQrw1u6iy2jnBOfkIESVLKs6hYVqkUr9I+sK/7G7aPunVTmbRYHgRfMgTQc5+jXwHVYl11eQzr5hz7N9l0Uf3ju0ZEZY2/lbp0rtCTvol/h+D0bMdjp30r2NcYitWdLL/RjvZGaA4l2yTafkg==;zGcrRFangmfoabYzOt7vvw=="
 ---

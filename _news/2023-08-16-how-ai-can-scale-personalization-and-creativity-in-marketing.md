@@ -103,34 +103,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "From Startup Nation to AI Nation: Listening to Machines"
-    excerpt: "Two Israeli companies are seeking to introduce the innovation of AI to industrial and energy factories, leading the traditional manufacturing sector towards a better future"
-    publishedDateTime: 2023-08-15T16:27:00Z
-    webUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-listening-to-machines/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 37
-    images:
-      - url: "https://static.timesofisrael.com/blogs/uploads/users/ami-appelbaum1692115798-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "From Startup Nation to AI Nation: The Farmer Knows Best"
-    excerpt: "For thousands of years, agriculture was based on human expertise and gut feelings, but this simply isn't enough in the 21st century"
-    publishedDateTime: 2023-08-15T16:37:00Z
-    webUrl: "https://blogs.timesofisrael.com/from-startup-nation-to-ai-nation-the-farmer-knows-best/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 37
-    images:
-      - url: "https://static.timesofisrael.com/blogs/uploads/users/ziv-katzir1692116510-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "OpenAI says AI tools can be effective in content moderation"
     excerpt: "Despite the hype around generative AI, companies such as Microsoft and Google-owner Alphabet are yet to monetize the technology in which they have been pumping billions of dollars in the hope that it will have a big impact across industries."
     publishedDateTime: 2023-08-15T22:28:00Z
@@ -154,15 +126,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 34
-  - title: "The Generative AI Revolution Is Underway"
-    excerpt: "It’s not an easy path but with proper support from employers and government, the benefits of AI are likely to significantly outweigh its costs."
-    publishedDateTime: 2023-08-15T15:45:00Z
-    webUrl: "https://www.aei.org/workforce-development/the-generative-ai-revolution-is-underway/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 19
   - title: "Generative AI use cases for Asset Management Firms"
     excerpt: "Our generation is witness to the emerging power of current game-changer Generative AI (GenAI), which is a deep learning technique of Artificial Intelligence ... which itself is a convergence of neural network models, made commercially available now due ..."
     publishedDateTime: 2023-08-17T08:29:00Z

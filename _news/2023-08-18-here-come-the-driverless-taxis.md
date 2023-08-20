@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Driverless vehicles on our roads?"
-    excerpt: "The real test of driverless vehicles will be when they are ready to cruise along India’s Wild West roads. As one industrialist says: When they’re ready to do that, the AI-created future will truly be upon us."
-    publishedDateTime: 2023-08-15T15:09:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/driverless-vehicles-on-our-roads/article67198602.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/driverless-vehicles-on-our-roads/article67198602.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/driverless-vehicles-on-our-roads/article67198602.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
   - title: "Driverless cars may struggle to spot children and dark-skinned people"
     excerpt: "Driverless cars may be worse at detecting children and people with darker skin, tests on artificial intelligence systems suggest. The researchers who carried out the work say that tighter government regulation is needed and that car-makers must be ..."
     publishedDateTime: 2023-08-17T13:01:00Z

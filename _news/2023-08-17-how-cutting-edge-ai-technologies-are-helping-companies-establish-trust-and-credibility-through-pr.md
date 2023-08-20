@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/08/16/how-cutting-edge-ai-technologies-are-helping-companies-establish-trust-and-credibility-through-pr/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Forbes
@@ -30,59 +30,29 @@ images:
     isCached: true
 
 related:
-  - title: "DEF CON Generative AI Hacking Challenge Explored Cutting Edge of Security Vulnerabilities"
-    excerpt: "Data from the human vs. machine challenge could provide a framework for government and enterprise policies around generative AI."
-    publishedDateTime: 2023-08-15T17:02:00Z
-    webUrl: "https://www.techrepublic.com/article/def-con-hackers-generative-ai/"
+  - title: "AI is helping expand accessibility for people with disabilities"
+    excerpt: "As AI and its associated technologies see increased adoption, there is reason to believe that people with disabilities will increasingly explore this space to enhance their lives."
+    publishedDateTime: 2023-08-18T14:30:00Z
+    webUrl: "https://cointelegraph.com/news/ai-accessibility-disabilities"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 77
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr081523-def-con-hackers-generative-ai.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Governments, including Washington State, making policy for use of generative AI"
-    excerpt: "() - Increasingly, government agencies are developing policies to guide employees in the use of generative artificial intelligence while considering the legal and ethical issues and potential cyber"
-    publishedDateTime: 2023-08-17T21:19:00Z
-    webUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.html"
-    ampWebUrl: "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
-    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html"
-    type: article
-    provider:
-      name: The Center Square
-      domain: thecentersquare.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/6/74/6740079c-3d46-11ee-b172-5b3d41774e1a/64de937aac6ad.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
-    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
-    publishedDateTime: 2023-08-18T08:45:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
+      name: CoinTelegraph
+      domain: cointelegraph.com
     quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
-        width: 800
-        height: 400
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMWRmMTE2NmQtNzRhZS00OWE1LTg2NDEtZTAwZDE1N2U3ZmQ0LmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "US military’s special task force will explore generative AI"
-    excerpt: "As AI-based tools become more commonly used, the DoD is looking into how the military could integrate it into its operations."
-    publishedDateTime: 2023-08-15T19:00:00Z
-    webUrl: "https://www.popsci.com/technology/dod-generative-ai-task-force/"
+  - title: "L.A.-Based Tech Company to Revealing Breakthrough Music AI Technology"
+    excerpt: "Futureverse, a leading AI and metaverse technology and content company based in Los Angeles has announced the publication of research in the advancement of music AI with the launch of JEN 1, an unprecedented universal high-fidelity model for text-to-music generation."
+    publishedDateTime: 2023-08-18T18:12:00Z
+    webUrl: "https://www.latimes.com/b2bpublishing/business-announcements/story/2023-08-18/l-a-based-tech-company-to-revealing-breakthrough-music-ai-technology"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 19
 
 secured: "+gHrznf1ExSglGDiWUBuWKWeY0pywT91Fa1i7edFUqS9YJsLt30AHi2MNBYtHZ/+sV8llxFKGneOukx98Ir0QZoJxIL9y0MlDazSewgxHzbyLh0rFZG4ayHjFPR38l3oFfpKFJg3AVoUWEtdI+E7bgwvPllPhBv62Y7tATAGCujxy7i7OBjgoQMhdEHUNVWLx4GPrzhaard9IWf2pSlrKlxNFDpG8UP6hvZJI2B7edbPxC012Rm2L01dkNnrRmYzbsS63B6+GLTKdqCkLhRT3ax/fcRJ9MA0hPLk9nSUVLywWZ2O8BXskjiDBljxSzggT0EZ+vWbF5vfn0a6qduoPFNGSY0P08effnl357Wfv4bZxMsNidHCmM0dKHk/WiANeovpRMh9j68BeMdNKVtN2w5HTCBfYQgaszCPy1RY2bryzvopC2xWnkTv2daxRq58QFwe7Q9AfFp/zpxIu6riWJp+xJHpphh1VGCBYGPEmGwXf5zrkQcwz+ltwechz9DmF03OSn0RdFYBANt8ks+fEw==;vKmTTTm1/zj4EzOc3UQZEA=="
 ---

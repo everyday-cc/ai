@@ -7,7 +7,7 @@ originalUrl: "https://visualstudiomagazine.com/articles/2023/08/17/onnx-script.a
 webUrl: "https://visualstudiomagazine.com/articles/2023/08/17/onnx-script.aspx"
 type: article
 quality: 60
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 647
     height: 450
     isCached: true
+
+related:
+  - title: "Microsoft Open Sources 'ONNX Script' for Python Machine Learning Models"
+    excerpt: "defining a common set of the building blocks of machine learning and deep learning models, called operators, along with a common file format to enable AI developers to use models with a variety of frameworks, tools, runtimes and compilers. The ONNX Script ..."
+    publishedDateTime: 2023-08-18T14:12:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/08/17/onnx-script.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 73
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/0913vsm_McCaffery.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "usY8vI5PdCMCxYTESQt4xhhhXQdGquDJZ8+kb4LQf8Xf6Jf/nSq5FaC4AMhQoZXrgl0wAWOXvGQ5Cqh3ATVRYxxjky7Sd/vggoFFGbAOrsMbKOtFh6a8GyGG+5kxnJGJKhMq9xsKaiir6fWnGvFkI32Qip8zGCZbpb08qpY5waulnPjxDMwO35VLGbyNk2ptuJV2iPvPTLIhnbGWKyUUJlodUHGvTIcXSYq9144+3Ry7AvKgbf6qCrO2ZQ+Do3C/6wpVPwUfKy9WR6+BWq70ZU9Cu4kwk70enj1HVYQjaG8pQFviCB1eEsjEJ7yK7LIDgPmz+BsQYaHUfy0Z1a+QN2nz0rBSPhRWI9lS4NuDIYob+pHRm+a/x6UfR8gpDu20/JwmMMdV956mOB066+0YIcGSBiw8k58l/3fQlE3Si9CD72xABTdcUXehNQZpH1L9vw5MSqyO8Ae95DuNzga/A0HE+4fO+ottKgz+81esNPjR/q/KYh1lCitDQ9xOxBpCM0zCkE20fIY41cIkdXTpqA==;05QFfYuZ7I+kIBjmF688Tg=="
 ---

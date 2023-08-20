@@ -2,6 +2,101 @@
   "page": 155,
   "value": [
     {
+      "path": "_news/2023-05-10-2023-mobile-speech-recognition-software-dynamic-report-by-2030.md",
+      "title": "2023 Mobile Speech Recognition Software | Dynamic Report By 2030",
+      "excerpt": "Mobile Speech Recognition Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-dynamic-report-by-2030-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-dynamic-report-by-2030-2023-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-ibms-watson-returns-as-an-ai-development-studio.md",
+      "title": "IBM's Watson returns as an AI development studio",
+      "excerpt": "Years before everyone was being impressed with the human-like text output of ChatGPT and other generative AI systems, IBM's Watson was blowing our minds on Jeopardy. IBM's cognitive computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ibms-watson-returns-as-an-ai-development-studio-195717082.html",
+      "originalUrl": "https://www.engadget.com/ibms-watson-returns-as-an-ai-development-studio-195717082.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-ai-could-cause-patients-harm-as-a-result-of-bias-and-errors-health-experts-say.md",
       "title": "AI could cause patients harm as a result of bias and errors, health experts say",
       "excerpt": "Health professionals said that while healthcare could benefit from AI, the technology \"also has the potential to produce negative health impacts.\"",
@@ -1102,108 +1197,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-shattering-reality-is-ai-generated-content-already-good-enough-to-fool-the-average-person.md",
-      "title": "Shattering reality: Is AI-generated content already good enough to fool the average person?",
-      "excerpt": "An AI expert said AI technology is already capable of producing content so realistic that some people might be convinced that it's genuine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/shattering-reality-ai-generated-content-already-good-enough-fool-average-person",
-      "originalUrl": "https://www.foxnews.com/tech/shattering-reality-ai-generated-content-already-good-enough-fool-average-person",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a8cc7ab0-e521-4d68-8592-696b85672d60/15404504-9108-4188-9765-0b413e9fab84/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/shattering-reality-ai-generated-content-already-good-enough-fool-average-person.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/shattering-reality-ai-generated-content-already-good-enough-fool-average-person.amp",
-      "publishedDateTime": "2023-05-09T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-artificial-intelligence-as-a-service-aiaas-for-government-market.md",
-      "title": "Artificial Intelligence as a Service (AIaaS) for Government Market",
-      "excerpt": "Short Description About Artificial Intelligence as a Service (AIaaS) for Government Market: The Global Artificial Intelligence as a Service (AIaaS) for Government market is anticipated to rise at a considerable rate during the forecast period,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-aiaas-for-government-market-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-aiaas-for-government-market-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T22:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

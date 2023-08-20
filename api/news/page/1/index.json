@@ -87,49 +87,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-20-regulating-ai-in-schools-could-be-a-top-class-innovation.md",
-      "title": "Regulating AI in schools could be a top class innovation",
-      "excerpt": "Imagine a future where classrooms are dynamic AI-powered learning spaces, where every student has a personalised experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478",
-      "originalUrl": "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.astroawani.com/2023-08/61692348006_AIpowered.jpg",
-          "width": 590,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1",
-      "cdnAmpWebUrl": "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/gaya-hidup/regulating-ai-schools-could-be-top-class-innovation-433478?amp=1",
-      "publishedDateTime": "2023-08-19T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Astro Awani",
-        "domain": "astroawani.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-20-17-critical-skills-for-the-ai-techie.md",
       "title": "17 Critical Skills For The AI “Techie”",
       "excerpt": "AI will gift us with more benefits and advantages than any other invention or discovery in history. But it will also require more skills and mastery than anything else.",
@@ -191,7 +148,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/08/19/2-ai-growth-stocks-wall-street-billionaires-buying/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -881,6 +838,51 @@
       ]
     },
     {
+      "path": "_news/2023-08-18-microsoft-open-sources-onnx-script-for-python-machine-learning-models.md",
+      "title": "Microsoft Open Sources 'ONNX Script' for Python Machine Learning Models",
+      "excerpt": "defining a common set of the building blocks of machine learning and deep learning models, called operators, along with a common file format to enable AI developers to use models with a variety of frameworks, tools, runtimes and compilers. The ONNX Script ...",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/articles/2023/08/17/onnx-script.aspx",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2023/08/17/onnx-script.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/0913vsm_McCaffery.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-18T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-the-rise-in-ai-will-change-the-c-suite-what-does-this-say-about-the-state-of-technology.md",
       "title": "The Rise In AI Will Change The C-Suite: What Does This Say About The State Of Technology?",
       "excerpt": "Accenture announced a $3B investment in AI to help companies build a strong technology foundation and advance skills needed for greater growth, efficiency and resilience.",
@@ -940,7 +942,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/beyond-the-hype-three-best-practices-when-using-generative-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 273,
+      "heat": 263,
       "tags": null,
       "images": [
         {

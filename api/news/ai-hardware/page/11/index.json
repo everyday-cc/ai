@@ -2,58 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2023-05-26-marvell-technology-stock-jumps-as-chip-stocks-keep-rising.md",
-      "title": "Marvell Technology Stock Jumps as Chip Stocks Keep Rising",
-      "excerpt": "A day after optimism about the future for AI led shares of Nvidia higher, Marvell Technology stock is making its big move with chip stocks continuing to climb. The stock was recently up more than 27%,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-26-2023/card/marvell-technology-stock-jumps-as-chip-stocks-keep-rising-z6xLa5PPADAItygaUQPj",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-26-2023/card/marvell-technology-stock-jumps-as-chip-stocks-keep-rising-z6xLa5PPADAItygaUQPj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-789639?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-26-news-tagged-ai-chips.md",
       "title": "NEWS TAGGED AI CHIPS",
       "excerpt": "A boost in demand for AI chips may help TSMC sustain its annual revenue increase this year, according to market observers. Almost all of TSMC's top-10 customers have readied plans to adopt the ...",
@@ -1473,6 +1421,58 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-meta-discloses-its-second-custom-processor-and-this-should-interest-investors.md",
+      "title": "Meta Discloses Its Second Custom Processor, And This Should Interest Investors",
+      "excerpt": "Ultimately Meta will continue to use merchant silicon GPUs for those workloads where the GPU provides better performance per watt. Don't forget that 100s of AI workloads still work better on GPUs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/18/meta-discloses-its-second-custom-processor-and-this-should-interest-investors/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/18/meta-discloses-its-second-custom-processor-and-this-should-interest-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64664e7899b353f41dc92c25/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/18/meta-discloses-its-second-custom-processor-and-this-should-interest-investors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/18/meta-discloses-its-second-custom-processor-and-this-should-interest-investors/amp/",
+      "publishedDateTime": "2023-05-18T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

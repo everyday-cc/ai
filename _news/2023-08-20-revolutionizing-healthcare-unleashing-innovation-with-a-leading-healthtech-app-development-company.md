@@ -87,20 +87,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "The Role Of Technology And Artificial Intelligence In Healthcare"
-    excerpt: "On the season 9 finale of NDTV-Dettol Banega Swasth India, experts discuss a pressing issue - the role of technology and artificial intelligence (AI) in healthcare and if it can take over humans in the healthcare industry."
-    publishedDateTime: 2023-08-15T15:41:00Z
-    webUrl: "https://www.ndtv.com/video/news/banega-swasth-india/the-role-of-technology-and-artificial-intelligence-in-healthcare-717786"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 54
-    images:
-      - url: "https://c.ndtvimg.com/2023-08/ahnjetto_banega-swasth-india_160x120_15_August_23.jpg"
-        width: 650
-        height: 364
-        isCached: true
   - title: "Wcm-Q Discusses Legal And Ethical Issues Of Generative Ai In Healthcare"
     excerpt: "The ethical and legal challenges of using generative Artificial Intelligence (AI) in healthcare were discussed dur"
     publishedDateTime: 2023-08-19T09:49:00Z
@@ -235,6 +221,6 @@ related:
       domain: wxyz.com
     quality: 14
 
-secured: "0w5m3FQQFqMouDrog5bUT6+Zr4VVjMHSkuYmowV/bXgarAM99XhRgA5k38qt6j7p7rVFv1bSY3BtujrZuPw/o3vQBifpak4NnU67aqLFBi9wHUxmwJAm8W9NEmFX6+L46I1ru4YaASLYY2KBqwQCdQydLymksBAnNKpyUlUtzBIfyrVLiHnI8Nj3PESZVcUWlfC8ED25x1PpnBNDmjZO8oq8dqbvs/sH7gNmutDHaYFym83B17oLu/99y4paLk/XRhFFQyowCefX3Km97QRxy3/Sefsid250trEQMcAFM7Wvn3Jz37GWWvWg9TjH3+0vQq1GNDZCe4CD3OwKHZn7kwHNg2Iq2XXMhPYdgwb5KDA=;wdB/Nn6bnytQe4Qywa/Cpg=="
+secured: "ujFHocN/LVcKFbwM710LainnUtHxQBMqIT80kJW+7i1bGWVqwOkCdQvTmhj6rM0fi744JlHCKjOvoYCY4+P5Ix0X5NBu6ndoF7ddKgbO5VI800anw5lX+Sr0BpbW1GGXC0SvF+NnCgFJL4PlaOe4yV/w/l9iYBLLMSVNxWy6r2XZsAgphAdT13k5PExIF86Md1h5KShOrqvU/trQmn3vHiR9Mb0qJufc+5YUFqyI7UdbHOGBykXp3/P0Sz7L4QOPSFLxm/XiSxnwkdnFv+NMfOEonzdnc2ivTHJ9T7qq3AbRZjEHX/DK23NtBFmyZcFWI2ruNTB4Yc2gs/mK7pIBnGfEXAeTOflPk/T9bMM4cUW8xPczzqq0K1+4advrWd68TpBP19ypvHYarcE8iUcrnGE6BOTmHWdaIGxVXqIKO7TMXZbHgk9svklwkAanZhgqqc82P+Vk2EwbxP36IO+lHN2B1OIlSRa2qNJvbwqc0ke8xeK1wtF92nXHSW23gzbK5feHF3kbumcVZ4WtBX5+aw==;Fz/amhUtK1sZQaJrmLamsQ=="
 ---
 

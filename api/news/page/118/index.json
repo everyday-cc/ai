@@ -2,6 +2,109 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2023-06-02-washington-boy-plummets-20-feet-deep-into-well-during-recess.md",
+      "title": "Washington boy plummets 20 feet deep into well during recess",
+      "excerpt": "A 12-year-old boy in Washington state fell into a well during recess on Tuesday afternoon. Fire officials in Marysville, Washington said in a press release that firefighters initially responded to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess",
+      "originalUrl": "https://www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/10/340/340/23004538_10210746000863057_8699735736880323065_o.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess.amp",
+      "publishedDateTime": "2023-06-01T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-powerful-artificial-intelligence-ban-possible-government-adviser-warns.md",
+      "title": "Powerful artificial-intelligence ban possible, government adviser warns",
+      "excerpt": "Some very powerful artificial-general-intelligence systems may eventually have to be banned, a member of the government's AI Council has said. Marc Warner, also boss of Faculty AI, said AGI needed strong transparency and audit requirements as well as more inbuilt safety technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-65779181.amp",
+      "originalUrl": "https://www.bbc.com/news/technology-65779181.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1362E/production/_129960497_355e733a-d217-4c75-a8ea-91387d957009.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-65779181.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65779181.amp",
+      "publishedDateTime": "2023-06-01T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-dmv-cant-be-trusted-to-prevent-crashes-by-driverless-trucks-california-legislators-say.md",
       "title": "DMV can't be trusted to prevent crashes by driverless trucks, California legislators say",
       "excerpt": "as human drivers of commercial vehicles face replacement by computer systems programmed with artificial intelligence. How we got here The Legislature handed driverless vehicle regulation to the ...",
@@ -1029,100 +1132,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-secs-climate-disclosure-rule-proposal-explained.md",
-      "title": "SEC’s climate disclosure rule proposal explained",
-      "excerpt": "The Securities and Exchange Commission&#160;(SEC) has issued a&#160;rule proposal&#160;to standardize the way organizations make climate-related disclosures. The rule proposal would require US publicly traded companies to disclose annually how their businesses are assessing, measuring and managing climate-related",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/sec-climate-disclosure-rule-proposal-explained/",
-      "originalUrl": "https://www.ibm.com/blog/sec-climate-disclosure-rule-proposal-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2022/12/084be9dd-1ef7-44a5-90e2b077523b9adb.xlr.jpg",
-          "width": 3168,
-          "height": 1584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-deep-rock-galactic-makes-u-turn-with-new-cosmetic-dlc.md",
-      "title": "Deep Rock Galactic makes U-turn with new cosmetic DLC",
-      "excerpt": "Ghost Ship Games, the indie game developer behind the renowned Deep Rock Galactic, has proven that its team listens to players. After the announcement of the new Decontaminator Pack, a cosmetic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamesn.com/deep-rock-galactic/dlc-change",
-      "originalUrl": "https://www.pcgamesn.com/deep-rock-galactic/dlc-change",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/05/Deep-Rock-Galactic-rethinks-its-recent-cosmetic-DLC-design.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-photos-will-offer-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-photos-will-offer-ai-assist-for-collaborating-on-your-favorite-memories/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Photos uses AI to make cute memory scrapbooks for you"
-    excerpt: "Google announced it is rolling out a new Google Photos feature called Memories view that will launch in the US starting today."
-    publishedDateTime: 2023-08-15T16:15:00Z
-    webUrl: "https://www.androidauthority.com/google-photos-memories-view-ai-3355217/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/08/Blog_Hero_Asset_Alt_v06.width-1200.format-webp.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Creating forest inventories with drones and artificial intelligence"
     excerpt: "Using drone imagery and artificial intelligence (AI), scientists from the Leibniz Center for Tropical Marine Research (ZMT) in Bremen have developed a method that delineates each tree in a forest, along with an estimate of its height and diameter."
     publishedDateTime: 2023-08-16T16:13:00Z

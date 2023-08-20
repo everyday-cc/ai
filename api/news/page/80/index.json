@@ -2,6 +2,109 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2023-06-27-mlperf-30-benchmark-adds-llms-and-shows-dramatic-rise-in-ai-training-performance.md",
+      "title": "MLPerf 3.0 benchmark adds LLMs and shows dramatic rise in AI training performance",
+      "excerpt": "MLCommons announces the latest results for MLPerf training 3.0, which aims to provide a standard for AI and ML model training performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/mlperf-3-0-benchmark-adds-llms-and-shows-dramatic-rise-in-ai-training-performance/",
+      "originalUrl": "https://venturebeat.com/ai/mlperf-3-0-benchmark-adds-llms-and-shows-dramatic-rise-in-ai-training-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1164656566-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-snowflake-launches-llm-driven-document-ai-and-more-at-annual-conference.md",
+      "title": "Snowflake launches LLM-driven Document AI and more at annual conference",
+      "excerpt": "At its annual conference today, Snowflake debuted Document AI, a new LLM-powered offering to extract insights from unstructured documents.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/snowflake-launches-llm-driven-document-ai-and-more-at-annual-conference/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/snowflake-launches-llm-driven-document-ai-and-more-at-annual-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/snowflake-circuuits-code-e1687808581398.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes.md",
       "title": "Can AI Reinvent Song Creation Without Cutting Out Humans? Music Sample Platform Splice Says ‘Yes’",
       "excerpt": "One of the hottest sample libraries in the music biz is introducing AI that opens new avenues for song creation while keeping human-created loops at the forefront.",
@@ -1066,91 +1169,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-journeying-towards-a-two-person-delivery-network-digital-twin.md",
-      "title": "Journeying towards a ‘two-person delivery network’ digital twin",
-      "excerpt": "Optimizing and improving the supply chain to support a positive customer experience is a priority for any retailer.\nThe post Journeying towards a ‘two-person delivery network’ digital twin appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/journeying-towards-a-two-person-delivery-network-digital-twin/",
-      "originalUrl": "https://www.ibm.com/blog/journeying-towards-a-two-person-delivery-network-digital-twin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-artificial-intelligence-an-existential-risk-to-humanity.md",
-      "title": "Artificial Intelligence: An Existential Risk To Humanity",
-      "excerpt": "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993",
-      "originalUrl": "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2023-06/4kcths8c_artificial-intelligence-generic-ai-generic_625x300_05_June_23.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1",
-      "publishedDateTime": "2023-06-27T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

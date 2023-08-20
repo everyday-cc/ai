@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia CEO Explains How AI Chips Could Save Future Data Centers Lots Of Money"
-    excerpt: "Nvidia CEO Jensen Huang explains how the Grace Hopper Superchip can save significant amounts of money in data center costs for AI workloads compared to Intel CPUs."
-    publishedDateTime: 2023-08-15T15:26:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-ceo-explains-how-ai-chips-could-save-future-data-centers-lots-of-money"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 51
-    images:
-      - url: "https://www.crn.com/resources/0284-18bdfd528cd6-44d20c59faff-1000/jensen_datacenter.jpeg"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "1+PVZROY4ACN4m+vhoVufWiEu6RQphXZzvk/5A7lioRHcWNWHRSvQX207lP9MdwX4OyJoFDOTxUYHe+grDznJqrvacYzQKkj/BxjivV88NSFy6owXUWUZfxgYpSboOcyKbe5imwfv57sAYzvyBaVFc+Qmi4YjyBQligAcTiHN0lJig4crCLz06rT3KSIpKxyCmEhTCx3Lp5HKFNG/XepQpXWeO+uZKOZ+Qh9rMu6WwIjPUpefSsijlcCHcWeXG0PRpRJOPULpyLnjPw5mdnyZGkkeLZQYo7k+e3nJE36ssBxTpGhX1tf8mzmfHXJ0DTwbV3CLY/LvmEEzG9wJAUXjBGGvdrLdlJ/613NbOgJ3eE=;+4bvb7kc2OR2bzJvPxID2g=="
 ---

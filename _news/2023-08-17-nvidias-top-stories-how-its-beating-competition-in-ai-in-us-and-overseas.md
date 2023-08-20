@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33885673"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33885673"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia CEO Explains How AI Chips Could Save Future Data Centers Lots Of Money"
-    excerpt: "Nvidia CEO Jensen Huang explains how the Grace Hopper Superchip can save significant amounts of money in data center costs for AI workloads compared to Intel CPUs."
-    publishedDateTime: 2023-08-15T15:26:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-ceo-explains-how-ai-chips-could-save-future-data-centers-lots-of-money"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 51
-    images:
-      - url: "https://www.crn.com/resources/0284-18bdfd528cd6-44d20c59faff-1000/jensen_datacenter.jpeg"
-        width: 700
-        height: 394
-        isCached: true
   - title: "The AI hype means Nvidia is making shiploads of cash"
     excerpt: "It can hire more highly paid hardware and software engineers (with a bit of help from AI). It isn't showing any sign of neglecting the gaming GPU market, but with profits on offer that are an order of magnitude above that of gaming graphics cards ..."
     publishedDateTime: 2023-08-18T06:11:00Z

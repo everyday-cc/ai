@@ -44,20 +44,6 @@ related:
         width: 1260
         height: 604
         isCached: true
-  - title: "Intelligent video and audio Q&A with multilingual support using LLMs on Amazon SageMaker"
-    excerpt: "Digital assets are vital visual representations of products, services, culture, and brand identity for businesses in an increasingly digital world. Digital assets, together with recorded user behavior, can facilitate customer engagement by offering interactive and personalized experiences, allowing companies"
-    publishedDateTime: 2023-08-15T15:14:09Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligent-video-and-audio-qa-with-multilingual-support-using-llms-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/15/intelligent-video-sagemaker-1260x630.jpg"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Unlocking efficiency: Harnessing the power of Selective Execution in Amazon SageMaker Pipelines"
     excerpt: "MLOps is a key discipline that often oversees the path to productionizing machine learning (ML) models. It’s natural to focus on a single model that you want to train and deploy. However, in reality, you’ll likely work with dozens or even hundreds of models, and the process may involve multiple complex"
     publishedDateTime: 2023-08-16T23:00:05Z
@@ -71,6 +57,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/10/ML-14562-image002-1139x630.jpg"
         width: 1139
         height: 630
+        isCached: true
+  - title: "Leveraging AI for a Transformation in Financial Services"
+    excerpt: "The potential of AI is vast, and this is clearly illustrated by the fact that more than half of large financial institutions have incorporated it into their operations. However, understanding the unique applications of AI is key to successful adoption."
+    publishedDateTime: 2023-08-17T06:56:00Z
+    webUrl: "https://financialit.net/blog/ai-financialservices/leveraging-ai-transformation-financial-services"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
+    images:
+      - url: "https://financialit.net/sites/default/files/financial_it_blog_1920_x_1080_px_2_9.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "L2/hPjIQItYFo/4+2cpCH4HlqZybc5Se+dYh1aKn8jlC5ZoUPK8/7kJYIqByOnKL0TEnnkKaSJVRyWAdv9QDMJSb0F0XlzDiAs9uHoJfFLDszq/T91C5EcFqWn9rQR3RyEPqWFfW807Z/GM6F7Bi7/wHa+domvKGvANkADj7Hd6FY4PJYu59kOVW6urE/tJ+oyBKvGWkooXqGwxCRcNqoqGsdd0WtIWBzrMfSCka7skqEN8j05sxDlnJaV9jzlyggpjo2T2MkCBvMCkeVaFE6VwuECTmETkpHrkPlrbyQOluDxofVGKFXrY3kCesYn66RzqrD/nAKtzP2U0TZtjCFHjfVOKAoJFG2fwx5MljdCw=;8hKUWHTvrUlLB07sgjTrQQ=="

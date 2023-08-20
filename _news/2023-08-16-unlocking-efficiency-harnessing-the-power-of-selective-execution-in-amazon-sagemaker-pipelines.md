@@ -57,19 +57,19 @@ related:
         width: 1216
         height: 630
         isCached: true
-  - title: "Intelligent video and audio Q&A with multilingual support using LLMs on Amazon SageMaker"
-    excerpt: "Digital assets are vital visual representations of products, services, culture, and brand identity for businesses in an increasingly digital world. Digital assets, together with recorded user behavior, can facilitate customer engagement by offering interactive and personalized experiences, allowing companies"
-    publishedDateTime: 2023-08-15T15:14:09Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligent-video-and-audio-qa-with-multilingual-support-using-llms-on-amazon-sagemaker/"
+  - title: "Leveraging AI for a Transformation in Financial Services"
+    excerpt: "The potential of AI is vast, and this is clearly illustrated by the fact that more than half of large financial institutions have incorporated it into their operations. However, understanding the unique applications of AI is key to successful adoption."
+    publishedDateTime: 2023-08-17T06:56:00Z
+    webUrl: "https://financialit.net/blog/ai-financialservices/leveraging-ai-transformation-financial-services"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/15/intelligent-video-sagemaker-1260x630.jpg"
-        width: 1260
-        height: 630
+      - url: "https://financialit.net/sites/default/files/financial_it_blog_1920_x_1080_px_2_9.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "ocZa8Wh3iw8H+FIhO3o4+cjNjOXzqVYrVHWEz6BWR/uXqshlx4AirVoq6htz3gT5yTC6dTSs4kurUW8xfaa3P7gin5ZEJ1+tIGqPnXBmP5iRkPa86AcZ3VQf+7ddRZT/DQayTTdmcRvqXXE4r63MTRmI8s+/Cqje56+ghU0t3ITDHcHbFHpcsiXF3ZZ5aoseNeYdkD//Ja+XPPikoBOfRr5PR+yi+4JK2wgk37wkVrSQVbSsS7RInTQnYYfjeuTn+7CwECcOiwCLgY0+7Y1q1Zi4Feeq4Kezp+zeUaKyEj2piCKldysPkDojhbv/3rn3TPBs4Otn4Fz6dnAeZ4Zs4BTKd6jiRhC1CnLTiEeII4Q=;nrPoGwtT9BCalxYEBoVtaQ=="

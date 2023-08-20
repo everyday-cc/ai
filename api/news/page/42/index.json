@@ -2,6 +2,101 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-07-21-awss-ishit-vachhrajani-on-how-leaders-can-navigate-generative-ai.md",
+      "title": "AWS’s Ishit Vachhrajani on How Leaders Can Navigate Generative AI",
+      "excerpt": "Ishit Vachhrajani, Global Head of Enterprise Strategy at AWS, details how managers can guard against the pitfalls of generative AI even as they leverage its enormous potential.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/aws-navigate-generative-ai/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/aws-navigate-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/07/AWS-eSPEAKS-thumbnail-copy-2.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-artificial-intelligence-on-the-battlefield-lawmakers-weigh-the-risks-and-benefits-of-military-ai.md",
+      "title": "Artificial Intelligence on the Battlefield: Lawmakers weigh the risks and benefits of military AI",
+      "excerpt": "“The country that is able to most rapidly and effectively integrate new technology into warfighting wins,” Alexandr Wang, CEO of Scale AI, said. “If we don’t win on AI, we risk ceding global influence, technological leadership and democracy to strategic adversaries like China.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/",
+      "originalUrl": "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/jTXM2HgirZ1osy9b2haXNugKkyc=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/ZIBS2YHKN5D6LH6IIG3OIY6NHE.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/?outputType=amp",
+      "publishedDateTime": "2023-07-20T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFTV",
+        "domain": "wftv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-ibms-watson-rebooted-as-a-secure-ai-alternative.md",
       "title": "IBM’s Watson rebooted as a secure AI alternative",
       "excerpt": "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now.",
@@ -1067,109 +1162,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-asset-and-wealth-managementembracing-ai-and-consolidation-to-win.md",
-      "title": "Asset And Wealth Management—Embracing AI And Consolidation To Win",
-      "excerpt": "AI and consolidations are reshaping the asset and wealth management industries as firms seek cost efficiencies and strive for market competitiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/",
-      "originalUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b889794b23d6863cde7b97/0x0.jpg?format=jpg&width=1200",
-          "width": 624,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/amp/",
-      "publishedDateTime": "2023-07-20T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-pooping-only-every-3-or-more-days-linked-with-cognitive-decline-research-finds.md",
-      "title": "Pooping only every 3 or more days linked with cognitive decline, research finds",
-      "excerpt": "Being chronically constipated, defined by the authors as having a bowel movement only every three or more days, has been linked with a 73% higher risk of subjective cognitive decline, according to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
-      "originalUrl": "https://www.cnn.com/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230712140838-constipated-older-adult-wellness-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
-      "publishedDateTime": "2023-07-20T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

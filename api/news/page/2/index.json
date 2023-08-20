@@ -457,7 +457,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -603,7 +603,7 @@
       "originalUrl": "https://arstechnica.com/tech-policy/2023/08/report-potential-nyt-lawsuit-could-force-openai-to-wipe-chatgpt-and-start-over/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -946,6 +946,57 @@
       ]
     },
     {
+      "path": "_news/2023-08-17-why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one.md",
+      "title": "Why Your Business Needs A Winning AI Strategy (And How To Build One)",
+      "excerpt": "Part of the challenge is the countless applications for AI within a business, and it’s often difficult for business leaders to determine where to start. Without a proper roadmap that looks for automation opportunities across the entire value chain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/amp/",
+      "publishedDateTime": "2023-08-17T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-the-associated-press-announces-guidelines-regarding-ai-usage-and-so-has-techspot.md",
       "title": "The Associated Press announces guidelines regarding AI usage – and so has TechSpot",
       "excerpt": "To say artificial intelligence is a \"touchy subject\" would be an understatement. While some people view AI as a useful tool that makes everyday tasks easier,",
@@ -1093,7 +1144,7 @@
       "originalUrl": "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1185,49 +1236,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-cape-town-welcomes-amazon-web-services-aws-skills-center.md",
-      "title": "Cape Town Welcomes Amazon Web Services (AWS) Skills Center",
-      "excerpt": "Amazon Web Services (AWS) has further extended its commitment to democratising access to cloud skills training with the inauguration of its first international AWS Skills Center in Cape Town, South Africa.",
-      "sourceUrl": null,
-      "webUrl": "https://ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/",
-      "originalUrl": "https://ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2023/08/download-min-1.png",
-          "width": 2640,
-          "height": 1486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/?amp=1",
-      "cdnAmpWebUrl": "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/?amp=1",
-      "publishedDateTime": "2023-08-17T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ventureburn",
-        "domain": "ventureburn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
