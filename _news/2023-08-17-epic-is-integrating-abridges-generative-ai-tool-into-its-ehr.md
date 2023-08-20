@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon is making its own chips to offer generative AI on AWS"
-    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
-    publishedDateTime: 2023-08-15T13:21:00Z
-    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 51
   - title: "Google's AI will now summarize lengthy articles into key points"
     excerpt: "Google is upgrading its generative AI-powered Search experience. Google’s AI will now be able to summarize some articles and provide definitions to words you hover over. Google’s AI will also make it easier to understand and debug AI-generated code."
     publishedDateTime: 2023-08-15T17:54:00Z
@@ -120,15 +111,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
-  - title: "Litera Integrates Generative AI Into Contract Analysis Solution Kira for 'Smart Summaries'"
-    excerpt: "As a product of Litera's AI incubator, the generative AI-powered Smart Summaries is meant to help speed up contract analysis."
-    publishedDateTime: 2023-08-15T13:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/15/litera-integrates-generative-ai-into-contract-analysis-solution-kira-for-smart-summaries/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 9
 
 secured: "zfoHndqb3IRg/BpFk154itxux8R7iOY3xNCK08SJE5f7AxKPuYfcQJXbFgklcGT+97RSTEdFvMfETUC0+ZLVqCN2Kjf7bfGm6TDzIeouBAW0xd+90/dU+pcQCkTdYWxc3b6BZbsuZ8VMRFRWmjAcUU/c/Ixy8A4hfQW9dXjwPsfwrg+NS3O03Vptrccy8qzVOGj5Z+/NoESF4xLpzkYSyEmFoTdFn8tt/ErGrONrZd4hoqN7C3j1eLKHL0PFgfUsPEhR3IjiRei8GVTFqN4ADFnJFcVZOzdECd79dX3FB0Jxt7sVhbEUr/3gQKZDk8BPbIZ7nUnoPJnABEIN7lAIkLjOETkEZQ9WyA4eBzQu5eQ=;Yb28Q+9ZX+MGG4j1mydXNQ=="
 ---

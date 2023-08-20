@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-s
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8?amp"
 type: article
 quality: 71
-heat: 85
+heat: 83
 published: true
 
 provider:

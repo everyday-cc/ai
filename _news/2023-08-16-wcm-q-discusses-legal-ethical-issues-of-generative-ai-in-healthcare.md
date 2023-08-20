@@ -194,6 +194,20 @@ related:
         width: 3200
         height: 2133
         isCached: true
+  - title: "Revolutionizing Healthcare: Unleashing Innovation with a Leading HealthTech App Development Company"
+    excerpt: "The introduction of telemedicine in the 1960s dramatically changed how doctors could treat patients and hospitals could manage their operations. Now, we’re going to a new wave of digital health innovations that are considerably altering both how doctors identify and treat patients additionally to how hospitals manage their operations."
+    publishedDateTime: 2023-08-20T06:01:00Z
+    webUrl: "https://techbullion.com/revolutionizing-healthcare-unleashing-innovation-with-a-leading-healthtech-app-development-company/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 25
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/health-technology-e1599744651840.png"
+        width: 782
+        height: 440
+        isCached: true
   - title: "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI"
     excerpt: "ARMONK, N.Y., Aug. 17, 2023 /PRNewswire/ -- Today, IBM (NYSE: IBM) is expanding its collaboration with Microsoft to help joint clients accelerate the deployment of generative AI - and deliver a new offering that will provide clients with the expertise and technology they need to innovate their business processes and scale generative AI effectively."
     publishedDateTime: 2023-08-18T18:52:00Z

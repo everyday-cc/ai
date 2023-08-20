@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tbsnews.net/features/panorama/will-ai-replace-our-news-a
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/features/panorama/will-ai-replace-our-news-anchors-684382?amp"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 600
     height: 314
     isCached: true
+
+related:
+  - title: "Will AI Replace Freelancers? Using AI To Grow And Empower"
+    excerpt: "I believe that more than putting freelancers out of a job, AI can help you grow your businesses and empower you on your way to success."
+    publishedDateTime: 2023-08-18T12:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64de254a1a13566b673d5165/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ySnmIceag8HGfT4uRmjR04PLxLwzAsPyz0SC0T0JVrOPVo3habnDYN9yrasv6RYyZcptuLEsLG43h4rF/RUk/QF86OnBo98x42iOYXljZaFswqJeYSSkk4HKbojdbIGiOehy4JivcVIA1RHCb9pw4HBueBlrO0/sPurTqmvZ3xUaEl8dG1NWGDw301fkUeBVH+1aDMj3jO5daXARe1QTv2d1Hj85rSCxfI071obVEgA+wIIaAEOy9XJ9cQQzYI13Eq3MecKm/ZDEZYDv5CYz9Vku6vxk/z2EKUf1lxKa5GaXpCEnbxwrkLH6uV1PXUcPXOLIFhG0m2ZbzSDfXOeX6ZuIqKWvAMXIRhCH9fScYes=;YCGT4M85Go4SrtBISAW6Zw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-now-using-generative
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
 type: article
 quality: 87
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon is making its own chips to offer generative AI on AWS"
-    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
-    publishedDateTime: 2023-08-15T13:21:00Z
-    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 51
   - title: "Google's AI will now summarize lengthy articles into key points"
     excerpt: "Google is upgrading its generative AI-powered Search experience. Google’s AI will now be able to summarize some articles and provide definitions to words you hover over. Google’s AI will also make it easier to understand and debug AI-generated code."
     publishedDateTime: 2023-08-15T17:54:00Z
@@ -124,15 +115,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
-  - title: "Litera Integrates Generative AI Into Contract Analysis Solution Kira for 'Smart Summaries'"
-    excerpt: "As a product of Litera's AI incubator, the generative AI-powered Smart Summaries is meant to help speed up contract analysis."
-    publishedDateTime: 2023-08-15T13:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/15/litera-integrates-generative-ai-into-contract-analysis-solution-kira-for-smart-summaries/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 9
 
 secured: "TsuQKeGddYw+6SlgYczfouGbaD8Z15ZK5fW3T0eRBY1pDrNK0P0V7JofPAcT7BEChNaJHZXD2daFwcS8d3zKkRN44l3Gesm8/mgVT3LZHsLP/0faqlkB/p8y8la/8FcEPL3MRolV+PrRdKgWQAcrrkAnS74jAV2WHUqH3cEuluYJcyu7Jv7OjZ00iaz8WhucSLYC3W5aMDlORxF04TkJ5Hv/f4e+N9yaxMGQwHMyYH/EydC1KOP83ZggCRtdyIU/jx+f7OZnvPjPy1rL+BNvYexIE/pNx/Ycw5XKS18PFUgtKWwZOma+JORQzFRza2FJtka7wGPFAOIw9ggLdNj4ly6UP5GekKVXTKJEVzUxDItnuqM599QOLpLZctOzu2CtYkdiO93Q81qcxrUBeD69+Z6jgBcwxlit1wG5K8KHGen/F22lluvKS2oMtp/EAONaQCsQ9fxHWN+TTkC+hxnNAA0Bf0RCHAGUEj+x38tGf8iVgGC3em6zk8Hhu4Kii1e4IKX2NSY5GI7YbIUuNYUHnw==;Tzy5jKHO+mnD78CcARl5yw=="
 ---

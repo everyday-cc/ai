@@ -40,20 +40,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Associated Press cements the AI era with newsroom guidance"
-    excerpt: "Weeks after announcing a partnership with OpenAI, The Associated Press urges caution in using — and reporting on — generative AI tools."
-    publishedDateTime: 2023-08-16T15:48:00Z
-    webUrl: "https://www.poynter.org/ethics-trust/2023/new-ap-stylebook-guidelines-artificial-intelligence-chatgpt/"
-    type: article
-    provider:
-      name: Poynter
-      domain: poynter.org
-    quality: 39
-    images:
-      - url: "https://www.poynter.org/wp-content/uploads/2023/08/AP23173786529321.jpg"
-        width: 1080
-        height: 720
-        isCached: true
 
 secured: "Kh/IXbp57EchSJK9FeBdvlrHsDeE5S6cieNEB5gMvi3KCbnaFW2f0lYcBqpUzv593Kbphyl3xGWsY1tN2AW6AfV9dHLmorFp9tSF0jKX26KPBr4SlALqdCmk5yqjxYlYxN1zMA0IYv55p8Abahfq86mUz9z44+Cf3ui01EM9Y567tm/ovOLPWDsPbzMJ+HRFit3UoUAjFN/x39kdcdLJpv6eF6xzi5DcjpODKnIvCeLt01JIZFL8WA18PgytXWMDJIo6y4m4fg7u6OAAMiUc7itVUPyGJ/6JaaRLc3mQr69+p/CZg5Tzo50EcMUjegXfyye4wwpmpy7/2YNk5tuvRIwVNyxTbC0gNjuW5htuVfI=;rU4TjASukWjSk5EKgqU3Ug=="
 ---

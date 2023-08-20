@@ -33,15 +33,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Matera Brings AI to Instant Payments, Acquires Brazilian AI Leader Cinnecta"
-    excerpt: "Cinnecta will be at the epicenter for AI solutions development, complementing Matera's suite of offerings. The combined company will be able to innovate on a new scale to provide unparalleled client experiences. Its transformative banking solutions can pave the way for an intelligently connected financial future."
-    publishedDateTime: 2023-08-15T13:29:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/15/9864843.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "yy3bMCzlB9txUyn6h9TAO9bUrXfGDxXzLEkA+CZ0V3ZzbofmXmqjaqUpPHHDAWs31R0AakMFrMD1iBNtgoFrsEC6E0eLRi4O6av07FphI++aoLoWZANOVGGGLZ6G0mNAJEAzyAuuXh96g58OO/yWh8zPhC5d6nuLXfU6mbVmcgf+d28FdKkqFL39YW+Z0dNTAXJhDLaTspuIkisl3KMc5Ua2dXQtE7vm7M194oh/24Tq8YJcJ8FBuy8OhGqy6APSR6ndoSB8v9lQA+El0jVaBINyoy0xLO0Ps0pAb81Xe2ietwRf7rmVeNL+KwkN8ODGqjELowjvzgvt6KAokyDTleHFW2LnLgDg6vXq78SQxHRGpul6n6X+YsBd0lB/J9GA1N4rH7pa3j2992EEIGXDI34wtyBpJo+zyfjJ6HPLk8oWzid56qtWV1+7Usy5y9QNslKjHJvMvAMScws+Ml5aWPRt3nJ1aYdomFdzukFVMbyP8j22tIoFwromxZZH0pmkBF5MnVRtqbbPi6I1L6LznA==;bpmPOze15mgwawRl/zTI+g=="
 ---

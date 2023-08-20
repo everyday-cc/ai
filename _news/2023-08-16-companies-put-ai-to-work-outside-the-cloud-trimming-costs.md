@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/companies-put-ai-to-work-outside-the-
 webUrl: "https://www.wsj.com/articles/companies-put-ai-to-work-outside-the-cloud-trimming-costs-453b649e"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wall Street Journal
@@ -28,31 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Browse AI help companies build bots to scrape website data and put it to work"
-    excerpt: "Enter Browse AI, an early stage startup that has developed an automated solution to scrape information from websites and move it into a spreadsheet or API for further processing. Today, the company announced a $2.8 million seed investment. Browse AI CEO ..."
-    publishedDateTime: 2023-08-15T14:01:00Z
-    webUrl: "https://techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/"
-    ampWebUrl: "https://techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1410263547.jpg?resize=1200,862"
-        width: 1200
-        height: 862
-        isCached: true
-  - title: "Zapata AI and IonQ Collaborate to Advance Generative AI Research"
-    excerpt: "Zapata AI, a software company building solutions to enterprises’ most computationally complex problems, today announced it has entered a strategic all"
-    publishedDateTime: 2023-08-15T16:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230815820982/en/Zapata-AI-and-IonQ-Collaborate-to-Advance-Generative-AI-Research/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
   - title: "Startup's tool aims to help companies decide which AI is right for them"
     excerpt: "OpenAI remains the leader in generative AI, but its rivals have narrowed the gap and may be a better option for certain uses, a new AI assessment tool has found. The open-source testing platform released Thursday by startup Arthur aims to help businesses figure out which large language model is best suited to their needs."
     publishedDateTime: 2023-08-17T13:00:00Z

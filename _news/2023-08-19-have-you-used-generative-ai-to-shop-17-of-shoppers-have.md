@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/have-you-used-generative-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/have-you-used-generative-ai-to-shop-17-of-shoppers-have/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

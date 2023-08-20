@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon is making its own chips to offer generative AI on AWS"
-    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
-    publishedDateTime: 2023-08-15T13:21:00Z
-    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 51
   - title: "Google's AI will now summarize lengthy articles into key points"
     excerpt: "Google is upgrading its generative AI-powered Search experience. Google’s AI will now be able to summarize some articles and provide definitions to words you hover over. Google’s AI will also make it easier to understand and debug AI-generated code."
     publishedDateTime: 2023-08-15T17:54:00Z
@@ -121,15 +112,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
-  - title: "Litera Integrates Generative AI Into Contract Analysis Solution Kira for 'Smart Summaries'"
-    excerpt: "As a product of Litera's AI incubator, the generative AI-powered Smart Summaries is meant to help speed up contract analysis."
-    publishedDateTime: 2023-08-15T13:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/15/litera-integrates-generative-ai-into-contract-analysis-solution-kira-for-smart-summaries/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 9
 
 secured: "+4NVf7JZH9XdLLTQ3ihFqhiAETjMqgfEs8p5z+dr164b1riFkfysTv5sUDLE80YxoTFmBgU8y2DWVoleEphctWoZCZ0H0e5BVdIBN3mMlOK6TEeq665dfow2TQxvSYppcPrfZeEiiQKoAqDBqZ1RhjagGs5CSKtYEBBB5wJY3OU6EvCaDm+n/h3f5aXICVuJEOE9+JV198d51f2GUdrgHc0LrZDhiEZtmm/oEPByp/GxUFnKeuHYQxsgsA1fHb0o5uUXk9AL1P86JvVMVhqvM7hpswjleXNGWJheTMtJxIxlrb5AAfUvN9wbs8ybjoT12UsVW7tzFk6yygRqAhSuEWeaRtj82Gon8F0d1G+Qxv8PIxrC7mE3cRHaiPZcJ0hx6d9xloWyeGBYi5SKV0brURB1XirdAuZq7qY1HJHydHaSI7Nn1yfs46sWR6lTzBKZrHAF0cNO3AecMQdLAO5PRIcKRVTuE4230dWg1flrQpmCeTHDJbCfawY2VL2BBqWRtUikAg4p5TLbY/c/BSivBA==;vGXWcq6+usgIcWI3G++pDw=="
 ---

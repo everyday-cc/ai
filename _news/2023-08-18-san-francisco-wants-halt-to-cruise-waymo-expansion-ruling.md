@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Sex in self-driving cars: Passengers are reportedly hooking up in San Francisco's driverless taxis"
-    excerpt: "People are reportedly having sex during their driverless taxi rides in Cruise vehicles, despite company rules against \"inappropriate behavior.\""
-    publishedDateTime: 2023-08-15T14:45:00Z
-    webUrl: "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/64db8f675e5d5a00195e5656?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Cruise’s self-driving taxis are causing chaos in San Francisco"
     excerpt: "The San Francisco Municipal Transportation Agency, for example, had apparently logged almost 600 “incidents” involving autonomous cars since 2022, while the San Francisco Fire Department has tracked 55 “episodes” this year where the vehicles interfered with its attempts to fight fires and save lives by running through yellow emergency tape,"
     publishedDateTime: 2023-08-17T19:59:00Z
@@ -83,35 +67,22 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Driverless vehicles on our roads?"
-    excerpt: "The real test of driverless vehicles will be when they are ready to cruise along India’s Wild West roads. As one industrialist says: When they’re ready to do that, the AI-created future will truly be upon us."
-    publishedDateTime: 2023-08-15T15:09:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/driverless-vehicles-on-our-roads/article67198602.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/driverless-vehicles-on-our-roads/article67198602.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/driverless-vehicles-on-our-roads/article67198602.ece/amp/"
+  - title: "NC State survey says self-driving cars are safer, what this could mean for future of the roads"
+    excerpt: "A recent study through NC State says self-driving cars can slow down traffic at intersections. This is because autonomous cars are designed to be more cautious drivers."
+    publishedDateTime: 2023-08-18T22:08:00Z
+    webUrl: "https://www.cbs17.com/news/nc-state-survey-says-self-driving-cars-are-safer-what-this-could-mean-for-future-of-the-roads/"
+    ampWebUrl: "https://www.cbs17.com/news/nc-state-survey-says-self-driving-cars-are-safer-what-this-could-mean-for-future-of-the-roads/amp/"
+    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/nc-state-survey-says-self-driving-cars-are-safer-what-this-could-mean-for-future-of-the-roads/amp/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
-  - title: "Driverless cars may struggle to spot children and dark-skinned people"
-    excerpt: "Driverless cars may be worse at detecting children and people with darker skin, tests on artificial intelligence systems suggest. The researchers who carried out the work say that tighter government regulation is needed and that car-makers must be ..."
-    publishedDateTime: 2023-08-17T13:01:00Z
-    webUrl: "https://www.newscientist.com/article/2386635-driverless-cars-may-struggle-to-spot-children-and-dark-skinned-people/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 19
-  - title: "Here come the driverless taxis"
-    excerpt: "San Francisco finally permits a 24/7 service despite local resistance. Can autonomous carmakers now win over the world?"
-    publishedDateTime: 2023-08-18T15:34:00Z
-    webUrl: "https://www.ft.com/content/84ef1d6c-f731-4c78-a056-5bf368beac2b"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
+      name: cbs17.com
+      domain: cbs17.com
+    quality: 32
+    images:
+      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2019/09/car-dashboard_30940040_ver1.0.jpg?w=1280"
+        width: 1280
+        height: 699
+        isCached: true
   - title: "Cruise self-driving vehicles involved in 2 San Francisco crashes, including 1 with city fire truck"
     excerpt: "A self-driving vehicle operated by General Motors subsidiary Cruise was involved in a collision with a San Francisco Fire Department truck Thursday night at an intersection. See more newsletter options at autonews.com/newsletters. You can unsubscribe at any time through links in these emails. For more information, see our Privacy Policy."
     publishedDateTime: 2023-08-18T19:39:00Z
@@ -126,24 +97,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cruise self-driving cars stall in San Francisco"
-    excerpt: "A fleet of Cruise self-driving cars stalled in San Francisco, causing a traffic jam and raising safety concerns about the technology. Videos posted on social media showed at least 10 Cruise cars stopped in the city’s North Beach neighbourhood ..."
-    publishedDateTime: 2023-08-18T12:45:00Z
-    webUrl: "https://www.itworldcanada.com/post/cruise-self-driving-cars-stall-in-san-francisco"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 4
-  - title: "Ten Self-Driving Cars Cause Huge Traffic Jam After Losing Wireless Signal"
-    excerpt: "Self-driving cars caused a major traffic jam on Friday in San Francisco when ten of its self-driving taxis simply shut down."
-    publishedDateTime: 2023-08-15T18:25:00Z
-    webUrl: "https://futurism.com/the-byte/self-driving-cars-traffic-jam-wireless"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 3
 
 secured: "BMJqyVYpvBZ1bDHIt2Q2yW95/ywimTAdsnsWv+h1fXEjSyYhM9PvDUtHNcIq8QdSZSaLdKyNjVwx1wJsH/OIgFepYosW12FQIZGwTkUhCWw6gL/LN8HDLKbwxE1zN0/R3bZGlocRaOzmJfP/bMkg+04f19TwyB+eGYA8na7LpOk5XZAtilONvL8ubyZ4WKrkkhw64cWRNoOSqh20glpLT6g72lyvP76uj4Sa4QcDlkz1JMwc2RHFJI4FPCp73FV0adhc1AEuenOUJEdM2Zr5fQl5oc6LHlo0K9czV44tIzDtOixrPbJgi+Io3gytrXk6ib6HASFwbSTUWriiqv/Mc4WoYLaEgqzbnFacphdjpa1Qj/jMtHE0YwYuanbsaK2++RNfgmI8TigcBPZKcmrZSa4HQhFILwYKzrGHyDCCdOCsdVfMObDuyYslC1Cvkrx5WvGYlqZRMJzmrjOqm8pwyX3Yg8m8C2QWtnPm783nA4pVTdD4cr8KXlTjDPcDcg7LZLWBX2gUsCDY5zJUoCjOlg==;qfZNWHDuwiIXJQ6c6MCgsw=="
 ---

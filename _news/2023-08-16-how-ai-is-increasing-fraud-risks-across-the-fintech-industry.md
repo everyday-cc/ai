@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/colinluce/2023/08/15/how-ai-is-increasing-fraud-risks-across-the-fintech-industry/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -84,17 +84,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
-  - title: "A Billion-Dollar Bet on AI? The Potential Game-Changer for Fintech"
-    excerpt: "To boot, the firm may have set its investing sights on the mothership, so to speak. In this case, Ripplewood might be investing $1 billion in OpenAI, which is known for the tour de force of the AI world that has been ChatGPT."
-    publishedDateTime: 2023-08-15T15:02:00Z
-    webUrl: "https://www.techzone360.com/topics/techzone/articles/2023/08/15/456783-billion-dollar-bet-ai-potential-game-changer-fintech.htm"
-    ampWebUrl: "https://www.techzone360.com/topics/techzone/articles/2023/08/15/456783-billion-dollar-bet-ai-potential-game-changer-fintech.htm/amp"
-    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/s/www.techzone360.com/topics/techzone/articles/2023/08/15/456783-billion-dollar-bet-ai-potential-game-changer-fintech.htm/amp"
-    type: article
-    provider:
-      name: Tech Zone 360
-      domain: techzone360.com
-    quality: 39
   - title: "Future of Fintech in the Middle East 2023: Aiming to become an AI hub"
     excerpt: "This is an excerpt from The Future of Fintech in the Middle East 2023 report. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre."
     publishedDateTime: 2023-08-17T09:12:00Z

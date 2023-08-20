@@ -201,6 +201,20 @@ related:
         width: 3200
         height: 2133
         isCached: true
+  - title: "Revolutionizing Healthcare: Unleashing Innovation with a Leading HealthTech App Development Company"
+    excerpt: "The introduction of telemedicine in the 1960s dramatically changed how doctors could treat patients and hospitals could manage their operations. Now, we’re going to a new wave of digital health innovations that are considerably altering both how doctors identify and treat patients additionally to how hospitals manage their operations."
+    publishedDateTime: 2023-08-20T06:01:00Z
+    webUrl: "https://techbullion.com/revolutionizing-healthcare-unleashing-innovation-with-a-leading-healthtech-app-development-company/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 25
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/health-technology-e1599744651840.png"
+        width: 782
+        height: 440
+        isCached: true
   - title: "Companies go all out to up their generative AI game"
     excerpt: "The company is dividing its workforce into three layers, based on how deeply each needs to understand the new technology. The first and the broadest is mandatory training to bring all employees, regardless of role, up to speed on generative AI basics: what it is, how it works, best practices and how to use it ethically and responsibly."
     publishedDateTime: 2023-08-17T13:00:00Z

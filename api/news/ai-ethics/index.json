@@ -106,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/18/ai-no-longer-a-techies-playground-now-everyone-needs-to-take-charge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -147,6 +147,58 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-the-associated-press-announces-guidelines-regarding-ai-usage-and-so-has-techspot.md",
+      "title": "The Associated Press announces guidelines regarding AI usage – and so has TechSpot",
+      "excerpt": "To say artificial intelligence is a \"touchy subject\" would be an understatement. While some people view AI as a useful tool that makes everyday tasks easier,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99819-associated-press-announces-guidelines-regarding-ai-usage.html",
+      "originalUrl": "https://www.techspot.com/news/99819-associated-press-announces-guidelines-regarding-ai-usage.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-17-image-3.jpg",
+          "width": 3482,
+          "height": 4642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1416,49 +1468,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-on-ai-foibles-and-need-to-study-its-ethics.md",
-      "title": "On AI foibles and need to study its ethics",
-      "excerpt": "Do you think there is still room for an AI ethics discussion when there is an explosive AI arms race in this industry? I think there must be. How do you convince them to sit down and discuss AI ethics? There’s two things that I say. One is, you say hey ...",
-      "sourceUrl": null,
-      "webUrl": "https://wbj.pl/on-ai-foibles-and-need-to-study-its-ethics/post/139086",
-      "originalUrl": "https://wbj.pl/on-ai-foibles-and-need-to-study-its-ethics/post/139086",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wbj.pl/uploads/images/6m/64c8d51a5401a.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Warsaw Business Journal",
-        "domain": "wbj.pl",
-        "images": null,
         "publishers": null,
         "authors": null
       },

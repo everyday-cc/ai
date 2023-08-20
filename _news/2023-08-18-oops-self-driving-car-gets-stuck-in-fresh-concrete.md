@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/08/17/general-motors-cruis-self-dr
 webUrl: "https://www.gizmochina.com/2023/08/17/general-motors-cruis-self-driving-vehicle/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Cruise self-driving cars stall in San Francisco"
+    excerpt: "A fleet of Cruise self-driving cars stalled in San Francisco, causing a traffic jam and raising safety concerns about the technology. Videos posted on social media showed at least 10 Cruise cars stopped in the city’s North Beach neighbourhood ..."
+    publishedDateTime: 2023-08-18T12:45:00Z
+    webUrl: "https://www.itworldcanada.com/post/cruise-self-driving-cars-stall-in-san-francisco"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 4
 
 secured: "Vf3WXNdUfV4SM9OC4xcs6GuNAncfdD3bpIS99XRGhDF5WvgBJlKACZkI/Il9F6b1dbeB5puhKPgNNfG9DYlatFXcnhp3E1Lo41XfjMqQjWbfmxkWNflhkMxCastYCw7psjsO7yxIAuCLr5JTr0703JBIYBXXOPJ/eIOiKsektw2xTU/r1AS9J5Bd4A33XKTPLdZ94xvSccuVJSY1cndx8tTQVkIx+82g8GObDNKlp5GXCD6OiYjVuvGO5mIx327Q1nGCETsEdkD0pPnSeF7fcDMvc5EzKtGM5L2FhQlcu9LUNjkVAq3ku41dFBQUq7MDB51TexFw1m/Zo97XeIMbdLlkk3toYLkbMfoURnD39UbCqC89UL/GCo9Bhd9znM1IF64NDDe+MG/MRoHzxEiHIyLaXwu98PpqiAlYSorW+m2chul0LXheFCiVw5yVqb+1oUXFUTkMLW3wcU+0qTeIgtPOgS4IDeKtDl7OuekoyFaGVXv//w/z/WeRKj+GxuyyKFXexkqITv1r5HmqvIZxew==;AqEZy1pHuV1vWxEYyg6XFQ=="
 ---

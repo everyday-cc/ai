@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon is making its own chips to offer generative AI on AWS"
-    excerpt: "Amazon is working on its own AI microchips, Trainium and Inferentia, designed for training and running AI models."
-    publishedDateTime: 2023-08-15T13:21:00Z
-    webUrl: "https://interestingengineering.com/innovation/amazon-making-own-chips-generative-ai-aws"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 51
   - title: "Google's AI will now summarize lengthy articles into key points"
     excerpt: "Google is upgrading its generative AI-powered Search experience. Google’s AI will now be able to summarize some articles and provide definitions to words you hover over. Google’s AI will also make it easier to understand and debug AI-generated code."
     publishedDateTime: 2023-08-15T17:54:00Z
@@ -120,15 +111,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
-  - title: "Litera Integrates Generative AI Into Contract Analysis Solution Kira for 'Smart Summaries'"
-    excerpt: "As a product of Litera's AI incubator, the generative AI-powered Smart Summaries is meant to help speed up contract analysis."
-    publishedDateTime: 2023-08-15T13:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/15/litera-integrates-generative-ai-into-contract-analysis-solution-kira-for-smart-summaries/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 9
 
 secured: "HZ3Fi8NFJFklmiexwwAeNxlT618VvZayPahT5rtUE98MtVf79LbkigACku5mB8nm76/xdsULsO97dQv2idJzdaqTk3+NP5rfSZNbaklNLZC3zBjAKCX4f0dSjc30CU4FlvIIZbMkYgrRBBiG338N3ehgSS2SDkyG1C0Layhs5QZ0k2VmIPoA/twBLbp7vSJSu4WYsIrcWShGZ4qZzHBDcOqiIF9UxpayOqc5/RMcQI9IroBDxNwkVh6W1F7iAHBkUfJ2lRSs0I2sKpD6ASPIzoJAjKwROxtx2mrk7Y/tys5qifz/iSE93r5SP1DVrIX+Dh3uBoZuCPGVM+6/0wu78IyI3ruvyZoAXtNOVO1WFYvFmkW2FE5ldG9goKI1+4fXWBmG+KR6DheWkKHsLIwAWHU1U++VDC+mweglFWx2bbqt5jt8VvIqyawQpiD4tLZKttsAdoE1y7kOszopK1v3q9y/rjB8jxDu08dJ7dAWaiv1vaSj75UV7oNXy7wrkvvTKyZY7Z94gwRfTX+LxEjHzA==;omEfANzjSQR/cA27c9/peg=="
 ---

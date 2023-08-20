@@ -45,15 +45,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
-  - title: "JAGGAER Recognized Again in 2023 Gartner® Hype Cycle™ for Artificial Intelligence"
-    excerpt: "JAGGAER, a global leader in Autonomous Commerce, today announced that it has been named for the third year in a row as a Sample Vendor in the Gartner® Hype Cycle™ for Artificial Intelligence, 2023. The source-to-pay (S2P) technology provider is included in the category of Intelligent Applications."
-    publishedDateTime: 2023-08-15T14:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-jaggaer-recognized-aga-2023-gartnerreg-hype-cycletrade-artificial-/2023/08/15/9864862.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
 
 secured: "lMgfEjQp58kZ79jTYmb7PJo9lbE+/FyGWsUqkcf7KM10JbiQVhigHAqM2KJFMq+vRvNYFHN79+Ao48n65/+ZerTMPZOy5FVVYShC0VSoks4oPoho769ScWkkXOglNa7uejXrYjOQs/jbERu8eCB4v600qlwtVGvdd8HquT3M5cpfZZnJmlfCtExUrjH6x+15/b/v4wAdxeS7PvKfDr3aAHpxILH+asMtKZ85xz2ncrXURPQpyakILcdyMpb3X4nZphTfSRiT8dCVYDuwbZ2iYdj8DN7NCUIELkCci1QJ5lnEeezo3b9rhYnv3y9rf1Bkg6DwEv2NrfcWVkYc0LaLIJ0L5uF4AVO+9JBSYhaSYN8=;dXAcYhAbwsQXiQS5GTmOOw=="
 ---

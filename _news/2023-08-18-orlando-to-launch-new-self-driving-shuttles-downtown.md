@@ -35,6 +35,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Orlando, Florida, debuts self-driving shuttle that will whisk passengers around downtown"
+    excerpt: "There is going to be a new way to get around downtown Orlando, Florida, and it’s not going to require any human drivers"
+    publishedDateTime: 2023-08-16T19:18:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/orlando-florida-debuts-driving-shuttle-whisk-passengers-downtown-102321053"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 35
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Meet 'The SWAN': Orlando debuts self-driving shuttle to whisk passengers around downtown, for free"
     excerpt: "Starting later this month, an electric, self-driving shuttle, branded \"The SWAN,\" will whisk passengers around a 1-mile (1.6 km) loop in the downtown area for no charge."
     publishedDateTime: 2023-08-17T02:21:00Z
@@ -65,15 +81,6 @@ related:
         width: 600
         height: 397
         isCached: true
-  - title: "Orlando, Florida, debuts self-driving shuttle that will whisk passengers around downtown"
-    excerpt: "ORLANDO, Fla. (AP) — There is going to be a new way to get around downtown Orlando, Florida, and it's not going to require any human drivers. Starting later this month, an electric, self-driving shuttle will whisk passengers around a 1-mile (1.6 km) loop in the downtown area for no charge, Orlando officials said Wednesday."
-    publishedDateTime: 2023-08-17T00:13:00Z
-    webUrl: "https://www.houstonchronicle.com/living/article/orlando-florida-debuts-self-driving-shuttle-18299476.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 0
 
 secured: "C7wfeQUQalLwY0yWoGQl5lgBHsY6bWvvtSy9KLOqLjIcwqrrc2PhEC5Ky35VxS2WRWL5nR0A4nrQ/LWUmcKQHBcuiTo8Haib6fPHhs7HqQiYSpDjMBt0ykm6h9C39VfGJcTHFFuu4v/0O7iVsMl+MR7xrW9dVLf6nshI4hjVfjcgPfbRkIk6C3VhmwTz77jqD2WI36U549gLyKW4Z8tnN9ne5SPMS6CtveGS1Fhi8lquBQAhzy8aLOLHfK8AtebEaFrCyQWtwsmqaMHOljjOJ6MOwVv/rlDmmDBQ9AvTISXudG4n+HInQSIGiXZQM4YC9Y2A5nVLVR2TZaaT+K/fq7D6Do19TPYx/akl5H1B6dvE2bEnC04+hgY2xPW5h7sp5MQxJAvQg6p9Q5DtGwnvtCgX/K9IRDgZFVXQMKoMON0Lq8/InwNvsRVkhPQBBORlEhh1ea19c/t3/M0QDe34wSxMnTeU0E/uJXyNIGZgHZ7f2JKw+figleXN75Y0GG4k4P4+/G07lqu7yB9OQ1kSSw==;U2MmZG6NBkcpTieY0Eik7w=="
 ---

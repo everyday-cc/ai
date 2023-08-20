@@ -38,15 +38,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "JAGGAER Recognized Again in 2023 Gartner® Hype Cycle™ for Artificial Intelligence"
-    excerpt: "JAGGAER, a global leader in Autonomous Commerce, today announced that it has been named for the third year in a row as a Sample Vendor in the Gartner® Hype Cycle™ for Artificial Intelligence, 2023. The source-to-pay (S2P) technology provider is included in the category of Intelligent Applications."
-    publishedDateTime: 2023-08-15T14:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-jaggaer-recognized-aga-2023-gartnerreg-hype-cycletrade-artificial-/2023/08/15/9864862.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
   - title: "Accern Recognized in Gartner 2023 Hype Cycle for Data Science, Machine Learning, and Emerging Technologies in Banking"
     excerpt: "Accern has been specifically acknowledged for its capabilities in Adaptive Machine Learning (ML). \"We are honored and thrilled to be recognized by Gartner in these two critical areas,\" said Kumesh Aroomoogan, Co-founder and CEO of Accern. \"Our focus has ..."
     publishedDateTime: 2023-08-16T10:40:00Z

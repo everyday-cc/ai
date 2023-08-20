@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-p
 webUrl: "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-profit-each-h100-gpu.html"
 type: article
 quality: 69
-heat: 104
+heat: 102
 published: true
 
 provider:

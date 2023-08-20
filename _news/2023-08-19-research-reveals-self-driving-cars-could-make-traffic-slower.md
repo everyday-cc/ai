@@ -25,22 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "NC State survey says self-driving cars are safer, what this could mean for future of the roads"
-    excerpt: "A recent study through NC State says self-driving cars can slow down traffic at intersections. This is because autonomous cars are designed to be more cautious drivers."
-    publishedDateTime: 2023-08-18T22:08:00Z
-    webUrl: "https://www.cbs17.com/news/nc-state-survey-says-self-driving-cars-are-safer-what-this-could-mean-for-future-of-the-roads/"
-    ampWebUrl: "https://www.cbs17.com/news/nc-state-survey-says-self-driving-cars-are-safer-what-this-could-mean-for-future-of-the-roads/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/nc-state-survey-says-self-driving-cars-are-safer-what-this-could-mean-for-future-of-the-roads/amp/"
+  - title: "Self-driving cars could make traffic slower: Research"
+    excerpt: "\"There is a lot of research showing that automated vehicles can improve safety. But our research here -- which relies on computational modeling -- suggests that if we want to also improve travel time,"
+    publishedDateTime: 2023-08-16T08:01:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/self-driving-cars-could-make-traffic-slower-research/102766027"
     type: article
     provider:
-      name: cbs17.com
-      domain: cbs17.com
-    quality: 32
+      name: ET Auto
+      domain: indiatimes.com
+    quality: 24
     images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2019/09/car-dashboard_30940040_ver1.0.jpg?w=1280"
-        width: 1280
-        height: 699
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102766027,imgsize-66726,width-1200,height=765,overlay-etauto/passenger-vehicle/self-driving-cars-could-make-traffic-slower-research.jpg"
+        width: 1200
+        height: 765
         isCached: true
+  - title: "Ten Self-Driving Cars Cause Huge Traffic Jam After Losing Wireless Signal"
+    excerpt: "Self-driving cars caused a major traffic jam on Friday in San Francisco when ten of its self-driving taxis simply shut down."
+    publishedDateTime: 2023-08-15T18:25:00Z
+    webUrl: "https://futurism.com/the-byte/self-driving-cars-traffic-jam-wireless"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 3
 
 secured: "HA8aihhJ+MuLTJuW1h7gXiLPB/2IKiU/D222lMLy5PB70Fc06lj/lB2ITtDWFkzDxJNS475JxymmnVwCBalLN3D/BXrpJfxckRrL8bKWoA9n5zioMMYhwB0/cskA1go3CE5JCVXuUcgltX4QqgweATk9+gkYratEVQABp82sTD9Sb0V/PtJArAhZ6c3th/EvWBvxCUpuB17F9+ZCXjWlJ0eayu48LPvZn1wPlJn14ZHhkYXkBjc4fMqsSIw/o5ocs/1+AMvdwNzi0cx54h1y8lDfgpVXlMdxXpskU8BaaCy/us1F/gRRIFgObxi0iKS9X6+aAuNyJ2xFKYJXGF9pwO4x7TWZx7NRHL0+RJuaCxt09LMFDCQOYQp2RkoIK1ZP+HivMjLMWW9ophTsEkO6bR5/aFnq7zZuuulVO9sjXpgqvrYaZBRVbyyO24qgR0dnRkmiU0rnUiRu6pNRrOv7xwo91HSRAHcoYts7XM5A7Y1dvCIwpV+oCL0hGA+Ac39wOgxmL2CC/CkC5pvpDtogzQ==;pVaDf9YkDcFdFgEjyhtQiA=="
 ---

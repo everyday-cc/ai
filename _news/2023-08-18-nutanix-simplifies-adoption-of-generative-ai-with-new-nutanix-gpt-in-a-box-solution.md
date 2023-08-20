@@ -39,24 +39,6 @@ related:
         width: 1893
         height: 767
         isCached: true
-  - title: "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution"
-    excerpt: "Nutanix (NASDAQ: NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box™ solution for customers l"
-    publishedDateTime: 2023-08-15T14:29:00Z
-    webUrl: "https://www.itnewsafrica.com/2023/08/nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution/"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 17
-  - title: "Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
-    excerpt: "The Nutanix GPT-in-a-Box solution delivers ready-to-use customer-controlled AI infrastructure for the edge or the core data center and allows customers to run and fine-tune AI and GPT models while maintaining control over their data. Nutanix provides a full complement of security and data protection offerings ideal for AI data protection."
-    publishedDateTime: 2023-08-15T14:58:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/15/9864857.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
 
 secured: "SP/f4W5RkhssT8hPQ/8z/eVzPZCEQ0xwZFCCcnMyqUJ5cpv4p05q7Ka19hzjmghnzLChX5gWa+6UuwMTHET+AA+Crxhvmht8qUozntk2f2rtZYYu6IH+8TeZo00+SO04ocaX0AW3Xs6eO1lnCX7POWM209mwvUTKqDWD3ph0hORWTEob1j4R5FZCLY7Qoovy4V8yRIgoJy6rKRj8+xbwehKJfBpzFNC+qKxYOVPGnu9un8klszvN56OU1dKPjkk3auhTxS2KzGqlrYp5NQYVf2wGVps+S7jGfSS7fbCwR0UmgpCfmbFc6NRBTonr92I+IFMoFo57s9wYJAj+tSnaueueMLRigKit85mwElLF529pEd81dUDDH6WocKld2WlTk5o9+9ofBinP7EqlJsabvt+7FlQNDBWY4OgoP9bVgTxnoyP1c7wjoueAbWv8ANOnCarAVyxzz/jHfuj6zD+oxhZmNzRGkDAsGcAvgLNurB7L8Of+RlvgLTx7fefWYAT8a9pIM5arzgAh7AJB4n4JvA==;xZjWsmbbyjZaDISz6sxFqw=="
 ---
