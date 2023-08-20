@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/health/researchers-use-artificial-intelligen
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/researchers-use-artificial-intelligence-help-diagnose-autism-study.amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence can diagnose autism spectrum disorder: Study"
-    excerpt: "A study has found that artificial intelligence can diagnose autism spectrum disorder. The study was published in the journal, 'Scientific Reports'."
-    publishedDateTime: 2023-08-15T17:22:00Z
-    webUrl: "https://www.devdiscourse.com/article/science-environment/2559377-artificial-intelligence-can-diagnose-autism-spectrum-disorder-study"
-    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2559377-artificial-intelligence-can-diagnose-autism-spectrum-disorder-study?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2559377-artificial-intelligence-can-diagnose-autism-spectrum-disorder-study?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 57
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_08_2023_17_22_25_6712886.jpg?width=1280"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Researchers reveal artificial intelligence can diagnose autism spectrum disorder"
     excerpt: "According to a study, artificial intelligence can make a diagnosis of autism spectrum disorder. Due to the intricacy of the condition, diagnosing autism spectrum disorder (ASD) still presents a difficult issue that calls for highly qualified clinicians."
     publishedDateTime: 2023-08-20T09:13:00Z

@@ -36,22 +36,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Artificial intelligence can diagnose autism spectrum disorder: Study"
-    excerpt: "A study has found that artificial intelligence can diagnose autism spectrum disorder. The study was published in the journal, 'Scientific Reports'."
-    publishedDateTime: 2023-08-15T17:22:00Z
-    webUrl: "https://www.devdiscourse.com/article/science-environment/2559377-artificial-intelligence-can-diagnose-autism-spectrum-disorder-study"
-    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2559377-artificial-intelligence-can-diagnose-autism-spectrum-disorder-study?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2559377-artificial-intelligence-can-diagnose-autism-spectrum-disorder-study?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 57
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_08_2023_17_22_25_6712886.jpg?width=1280"
-        width: 1280
-        height: 960
-        isCached: true
 
 secured: "za9Tk1Xw3U2dWzHr8APQz3MDVwEnJU/DAWVGfZiN3QoOAb4pAHFbhg6548ShSnijoLZ0Vyq5M1NWKWsGyX4O8gdczFrkIumjUtiksf4NWzeuYF6BLm6qKo/2LJi6bxEZej+pM8sDTfTebhonJoW6hGikMkKokHcFQ3LU9Jzn3hJHegP+c4tvAOmUJE7e/j2SVKQr8h8DOBsGFa0EDBYHT68qA234ewLWw+WQs95AZ+ZTSQP4ZN3DhvylaVLr/OJ8C2Z0DOVOcLiaMQpH/iiq24hvXUAGQD/hDdLiTEnni+OYzMscUQQtCDhSedOSN49Z0gfRkK+igKfnS3zsWnqVwcxvDXVq73GtPBhsI1hf3B5qYiHsTGiKKPo5pcXzhelFjNtrgFvR1+FGqU8I7OoE5sDmadpR40HFDhHDmKVFCR49ibgwS5rv5Y5yXwMTP+qCW7/ysBr2BKdAz7Z88JCXPIldJgOsnSywB0MA5qddlsJErhti2oyPB91HZ9T8813hl348n91eDa6NZWeCmQt0SA==;9sBOc4g1xl8MVmhC0pOwMg=="
 ---

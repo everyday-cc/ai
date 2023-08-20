@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/08/16/six-ways-ai-could-revolutionize-the-way-you-do-business/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 400
         height: 217
         isCached: true
+  - title: "AI poised to revolutionize construction"
+    excerpt: "Artificial intelligence is making its presence felt across the real estate industry. And its presence has extended into construction, as well. Builders are growing comfortable using drones ..."
+    publishedDateTime: 2023-08-16T11:46:00Z
+    webUrl: "https://therealdeal.com/national/2023/08/16/artificial-intelligence-poised-to-revolutionize-construction/"
+    type: article
+    provider:
+      name: The Real Deal
+      domain: therealdeal.com
+    quality: 19
 
 secured: "gM/WAYyh0AC+hR/nSdFI6u0T4m4Qp6FN2hcQAs2M5wCOhWX4aqkKETGEF7o4dIIaLpv+sTeQo/ugjk0CHchPcSPWHQaP9w3EF707WGpNfsieFJIedTYmmSm3L7OI53mWHX14yhAifIls7/IQPyj4d1/m+ZZ+ETYVwr3tSmka/ZdArJmYdIq/EA9DjpjjzgRMnwQn5EbZ681AimCj4ud56Ai3uqkuuRdFA+ZtMInhXCMQL1RkNgepiU/f9sirjvXcwaE5lWEAaBrxsnupsF3cCSwu3e6EU13GFvmxz6oeuolL4mhYDyR4eH2ERpWVm/zy0ilQd+aEf2ESQhhS9aF7aOX763syxxXWnlospfSS2hY=;NwHKmqWnFtL7HI0CFq5M1g=="
 ---

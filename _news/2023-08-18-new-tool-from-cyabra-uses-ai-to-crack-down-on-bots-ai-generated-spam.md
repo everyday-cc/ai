@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/tool-cyabra-uses-ai-crack-060006901.ht
 webUrl: "https://www.aol.com/finance/tool-cyabra-uses-ai-crack-060006901.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How to use Windows 11 Copilot AI"
-    excerpt: "The Windows Copilot AI is now available for Windows early adopters in the Insider program. Here's how to use it."
-    publishedDateTime: 2023-08-15T17:13:00Z
-    webUrl: "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/08/summarizedocuments.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Tz6Lhor613UDB4Td4NGppQ29VZrszdHP6e4JgREqeEE2OTRI4cP458pv17P3W8Qihe+YnVWL2WwJSl4PjIBd6YfgApRgzA27oQc0ko0CG9JpPvKX+C8xfTQkOGOvkiQqrCuXyy2M3LnHwrFrnEu0LrnfCsHUc+18D9sGZyTTVgxVB8wTtypetoo5wla9BU/veFZJ4qwlzJWZ+qY5jHt+Qd3RzigUd8w/NC2H0unPfqTz4Nk/T247wUJzhnZqiInUkpn23jQcjUx+QzUSTZNOrVmKo0zHfVhmjk64uWZsp4x7DZPY8Vr0xPvQRJNiMWBOecF72rfmK3YJcNkWtOKsakHanTZfdAmL65hEDlcKO2M=;pegwWjCC3nK7LuW7yQS+Zw=="
 ---

@@ -149,6 +149,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
+    excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
+    publishedDateTime: 2023-08-17T21:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/17/openai-is-getting-sued-legal-tech-vendors-using-their-generative-ai-models-arent-worried/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 29
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Code-AI-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "QHYLA7GTEb0B4HaQI4giTJnLCIgJwOQZrEhUq8aXEjcBBWgYcEKu5IpgbZdBznxfnDs0yhUs7ffUFcz6QYXp+Q6Xbi2G7JcYWiyOmC9tCufwmQmeSTiItxn9503j9VJx2QH3f21itGo4uHF5dtxlp+Ulmu3ZzQVUtteYY+rnGgwvZF3/IyJF+Xg3nb51tTwXeYMYi92R1NwsdUFBpE50Snu9q5bQYzezpY3dnosoBzPc1xy7CZxkgJz3pNLmO48K1qOTfsytg2gz5+fspMf6WLSKYsMGBtrelZv7OAFyOQdEXldAqvJAmiFAwcD4Ckj94hcJWNRKsy7UGbaPd0XxFL27qa9KPEYa1tVw7/P4N9NLn4w8II3Z0blDGSiDMGkomUKO5xkGup3zSLWtxj0IrxwyAJx779oGhTTo/n0ts2viyBrWg4zuSAgWALylqRRtawIacDcTiejglv9Gg8sjwq7DYQlRQ6ixpIOgeWasEk70N9OWOCL5K0SpUGoMe3e9NdugW4/qmJcnK20nwNkSDQ==;EJPYAhT9G/4DY6WP2Mjwgg=="
 ---

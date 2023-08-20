@@ -34,6 +34,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 68
+  - title: "AI comes to Amazon product reviews"
+    excerpt: "Some Amazon users can now take advantage of a new artificial intelligence tool that recognizes common themes from customer product reviews and turns them into a short summary. Ben Bergman, senior correspondent for Insider focusing on the tech industry,"
+    publishedDateTime: 2023-08-16T15:45:00Z
+    webUrl: "https://www.cbsnews.com/video/ai-comes-to-amazon-product-reviews/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/16/53556a4c-0102-4767-9843-aa2d05b4c054/thumbnail/1200x630/bed16f895dd7719b415b5167a4433a9b/cbsn-fusion-ai-comes-to-amazon-product-reviews-thumbnail-2211619-640x360.jpg?v=46e0dad4db516ed39a3a8f6257e75e73"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "mAdiUkTEh8j+dzDRSwnEIeslT6EzJ2dLz/FwozTUT3VcCGI6Ap6f9eHfdSd9f/vSg0SOvpVSZ1MO9RqoirEiY6HJ8iqrJCJxjYemmA5albfl40k3ctHssPj5Yh7aZz/R7DP5Mxwwky8ELPLViugCCFlMRwjyaMD7Cs1YmWAv06xiCqrIP3FSCAefkShu9TO6UxJIuvWODZlbPQe6Z4qdrKMzmE5GOgpI3FR6mwYfDyMewx32dMSa8W3uivvXzG3H8H/jWY7dehYbsWIjY+1lrtH70oksMFE9VeeEpUMS44tHYAlLBBXs73BfkrZflt6IyFWEOdOyUPlAaBKf37HlzogKwY0zl2cHo7V1iqA5VUfHjYVFqpIXWWi9J6uDWwqaZtZBFi/FSQzVIa/yOsPpO0d9nXS+OTQMaH9SYsJsWAPyb/UBI6XOi13b5Bw99KrrsPR7dFl+ub+bWirSy8rbJKwDtg4R4ckvxphsmWpvBBwr8dr9pMqmbkqNswHxzxTcDaX1+HpP7bIcu7PGGai7cg==;xWyAOgsodBnNrZcctPV+cg=="
 ---

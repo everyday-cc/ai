@@ -39,6 +39,15 @@ related:
         width: 899
         height: 666
         isCached: true
+  - title: "The Key People Driving Meta’s Generative AI Work"
+    excerpt: "As Meta Platforms has tried to cut costs and trim headcount over the past year, one area has emerged as an exception: generative artificial intelligence. Caught flat-footed by the explosion of interest in OpenAI’s ChatGPT,"
+    publishedDateTime: 2023-08-16T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/the-key-people-driving-metas-generative-ai-work"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 19
 
 secured: "6H/XilN3STbCiIzsW7rKNk3t7T8qOJnucFN+okrw87UPoyp8z9jbeih3j4+O2AjaCJNfsdz2niATnFVX5HDQDZPscMk2a6sIiH+9gNA95ngflUWYyX4gQ9gd8vfuRcGOPi6cnlPz0+Hm3UaqTVE3EDtGWO1EmvEr8qGRmeN1jIRyhvXOCM4ugu/5GrHmFxdiDMLWv4MX8//WZNT6d+f1E2O3f0V9YmrMxosWMtxLMIN92RRm8QfIJbpBvlAtkY3ln0O36eMBJtWRkVlbAXfvnAThx3yNxgNiqDq89rUwbYvw3P/rlVnO+y5sQPnbTqhF6v/2d8KCMqFwRbdNEdM3t8hHw7gfII46uRacLGPNk33fyUVWTqBDVU/ehF5BYpaHm86xp1x+YxFP/aXhc/yVCNjTLkbjDJ0WH1lc2+kF+w+uI61XWXNJSF1AiyekhYZkoyCC8/DkNWZqkBTjfXwatwH8h6xwNldy5jBU+Pyc/EpR+a0ZG1SdsqK97FpsxZqVZnql1WEE42mVFAg+jXm+3g==;8vzxurIb+EDnhCcJaA/r0g=="
 ---

@@ -23,26 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Classic Pink Floyd Music Reconstructed from Recorded Brain Activity"
-    excerpt: "Findings could have implications for brain-machine interfaces, such as prosthetic devices that improve the perception of prosody, rhythm, and melody of speech."
-    publishedDateTime: 2023-08-15T18:45:00Z
-    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/classic-pink-floyd-music-recreated-from-recorded-brain-activity/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 19
-  - title: "AI recreates clip of Pink Floyd song from recordings of brain activity"
-    excerpt: "An artificial intelligence can guess what a song sounds like based on patterns of brain activity recorded while people were listening to it"
-    publishedDateTime: 2023-08-15T18:00:00Z
-    webUrl: "https://www.newscientist.com/article/2387343-ai-recreates-clip-of-pink-floyd-song-from-recordings-of-brain-activity/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 17
-
 secured: "6nPf71oqXoKrL82gTwtPULkd4+/m31gMfqGI3QV5GlZJc+vEZ56K+SJay1OJA1aj+CBcOjPoG4wVcdvDBczJMXhrSMu8fzsBPZpyQzuQGcI3qnpoV+Evva7iX3HNCQt4gYfN2WtoO70H0oXOBVz1TZ3qbrhK9xlaQfxaERM8rxF/LUArTv3dbM6h1xuQsV6P1+n7Pw/QPx8DNfzVtLx/C9l4BJ2W8oevcnNt023txGbYJiMOOOQJWL1VVnuNYiX3x5mQcY9EFOlcYkprJSnB/00B+zGYMPXd/mu4WEl/TTVRDensWyY0Ok+cTjP5dN3xiZMuXWpCMj6R1K+yD89UPTm4lKXes2ePfGZhOcVPlek=;4ZnGJZQwntVNPKGcWYU5/Q=="
 ---
 

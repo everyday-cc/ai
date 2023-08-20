@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Ten Self-Driving Cars Cause Huge Traffic Jam After Losing Wireless Signal"
-    excerpt: "Self-driving cars caused a major traffic jam on Friday in San Francisco when ten of its self-driving taxis simply shut down."
-    publishedDateTime: 2023-08-15T18:25:00Z
-    webUrl: "https://futurism.com/the-byte/self-driving-cars-traffic-jam-wireless"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 3
 
 secured: "HA8aihhJ+MuLTJuW1h7gXiLPB/2IKiU/D222lMLy5PB70Fc06lj/lB2ITtDWFkzDxJNS475JxymmnVwCBalLN3D/BXrpJfxckRrL8bKWoA9n5zioMMYhwB0/cskA1go3CE5JCVXuUcgltX4QqgweATk9+gkYratEVQABp82sTD9Sb0V/PtJArAhZ6c3th/EvWBvxCUpuB17F9+ZCXjWlJ0eayu48LPvZn1wPlJn14ZHhkYXkBjc4fMqsSIw/o5ocs/1+AMvdwNzi0cx54h1y8lDfgpVXlMdxXpskU8BaaCy/us1F/gRRIFgObxi0iKS9X6+aAuNyJ2xFKYJXGF9pwO4x7TWZx7NRHL0+RJuaCxt09LMFDCQOYQp2RkoIK1ZP+HivMjLMWW9ophTsEkO6bR5/aFnq7zZuuulVO9sjXpgqvrYaZBRVbyyO24qgR0dnRkmiU0rnUiRu6pNRrOv7xwo91HSRAHcoYts7XM5A7Y1dvCIwpV+oCL0hGA+Ac39wOgxmL2CC/CkC5pvpDtogzQ==;pVaDf9YkDcFdFgEjyhtQiA=="
 ---

@@ -19,98 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "Amazon now using generative AI to summarize customer reviews"
-    excerpt: "Available on a wide number of products for many US shoppers on mobile devices, the AI tech will condense all the customer reviews into one digestible paragraph."
-    publishedDateTime: 2023-08-15T17:37:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-now-using-generative-ai-to-summarize-customer-reviews/"
+  - title: "The Evolution of Writing: Unleashing the Potential of Generative AI"
+    excerpt: "Prepare to witness the emergence of a new era in the world of writing. Brace yourself, for with the arrival of generative AI, our beloved pen and paper may soon be overshadowed. The future has arrived,"
+    publishedDateTime: 2023-08-18T08:45:00Z
+    webUrl: "https://techbullion.com/the-evolution-of-writing-unleashing-the-potential-of-generative-ai/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
     images:
-      - url: "https://www.zdnet.com/a/img/resize/fd7d04c6b95c4ca84d40ae31677e3db892358371/2023/08/15/a50e0fd5-5c54-4fcf-83cd-0e849a812256/figure-top-amazon-now-using-generative-ai-to-summarize-customer-reviews.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-18T094500.505.png"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Generative AI tops Gartner's top 25 emerging technologies for 2023"
-    excerpt: "The research firm also identified developer experience, pervasive cloud, human-centric privacy, and security as four emerging technology trend themes."
-    publishedDateTime: 2023-08-16T17:18:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/"
+  - title: "Fiction writers fear the rise of artificial intelligence"
+    excerpt: "For a vast number of book writers, artificial intelligence is a threat to their livelihood and the very idea of creativity. More than 10,000 of them endorsed an open letter from the Authors"
+    publishedDateTime: 2023-08-19T13:04:00Z
+    webUrl: "https://www.columbian.com/news/2023/aug/19/fiction-writers-fear-the-rise-of-artificial-intelligence/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/ec058f75a594480c4345f453fc3ae0691ac6c89f/2023/08/16/d74b157c-f68a-475f-8520-d77af4df3293/gettyimages-1404640492.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google's AI will now summarize lengthy articles into key points"
-    excerpt: "Google is upgrading its generative AI-powered Search experience. Google’s AI will now be able to summarize some articles and provide definitions to words you hover over. Google’s AI will also make it easier to understand and debug AI-generated code."
-    publishedDateTime: 2023-08-15T17:54:00Z
-    webUrl: "https://www.androidauthority.com/google-ai-summarizes-articles-3355265/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 47
-  - title: "AI comes to Amazon product reviews"
-    excerpt: "Some Amazon users can now take advantage of a new artificial intelligence tool that recognizes common themes from customer product reviews and turns them into a short summary. Ben Bergman, senior correspondent for Insider focusing on the tech industry,"
-    publishedDateTime: 2023-08-16T15:45:00Z
-    webUrl: "https://www.cbsnews.com/video/ai-comes-to-amazon-product-reviews/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: The Columbian
+      domain: columbian.com
     quality: 37
     images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/16/53556a4c-0102-4767-9843-aa2d05b4c054/thumbnail/1200x630/bed16f895dd7719b415b5167a4433a9b/cbsn-fusion-ai-comes-to-amazon-product-reviews-thumbnail-2211619-640x360.jpg?v=46e0dad4db516ed39a3a8f6257e75e73"
-        width: 1200
-        height: 630
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/08/Books-AI-A_Story_to_Tell_62073-7e888.jpg"
+        width: 899
+        height: 666
         isCached: true
-  - title: "Epic Is Integrating Abridge’s Generative AI Tool Into Its EHR"
-    excerpt: "Epic announced that it will integrate Abridge’s clinical documentation tool into its EHR workflow. The startup’s generative AI tool listens to visits and creates a near-instant summary that adheres to physicians’ prototypical note structure."
-    publishedDateTime: 2023-08-16T21:22:00Z
-    webUrl: "https://medcitynews.com/2023/08/epic-ehr-healthcare-generative-ai/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
-    images:
-      - url: "https://medcitynews.com/uploads/2023/06/TMX-image-1-e1687877713584-300x241.png"
-        width: 300
-        height: 241
-        isCached: true
-  - title: "OpenAI is Getting Sued. Legal Tech Vendors Using Their Generative AI Models Aren’t Worried"
-    excerpt: "While the lawsuits against OpenAI’s large language models aren’t causing many waves in the legal tech world, they will likely boost arguments for taking a LLM-agnostic or multi-model approach to generative AI."
-    publishedDateTime: 2023-08-17T21:30:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/17/openai-is-getting-sued-legal-tech-vendors-using-their-generative-ai-models-arent-worried/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 29
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Code-AI-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Designing Generative AI to Work for People with Disabilities"
-    excerpt: "An estimated 386 million working age people have some kind of disability. These six features will ensure your tools are as accessible as possible."
-    publishedDateTime: 2023-08-18T12:05:00Z
-    webUrl: "https://hbr.org/2023/08/designing-generative-ai-to-work-for-people-with-disabilities"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
 
 secured: "HZ3Fi8NFJFklmiexwwAeNxlT618VvZayPahT5rtUE98MtVf79LbkigACku5mB8nm76/xdsULsO97dQv2idJzdaqTk3+NP5rfSZNbaklNLZC3zBjAKCX4f0dSjc30CU4FlvIIZbMkYgrRBBiG338N3ehgSS2SDkyG1C0Layhs5QZ0k2VmIPoA/twBLbp7vSJSu4WYsIrcWShGZ4qZzHBDcOqiIF9UxpayOqc5/RMcQI9IroBDxNwkVh6W1F7iAHBkUfJ2lRSs0I2sKpD6ASPIzoJAjKwROxtx2mrk7Y/tys5qifz/iSE93r5SP1DVrIX+Dh3uBoZuCPGVM+6/0wu78IyI3ruvyZoAXtNOVO1WFYvFmkW2FE5ldG9goKI1+4fXWBmG+KR6DheWkKHsLIwAWHU1U++VDC+mweglFWx2bbqt5jt8VvIqyawQpiD4tLZKttsAdoE1y7kOszopK1v3q9y/rjB8jxDu08dJ7dAWaiv1vaSj75UV7oNXy7wrkvvTKyZY7Z94gwRfTX+LxEjHzA==;omEfANzjSQR/cA27c9/peg=="
 ---

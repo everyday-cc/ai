@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/18/ai-society-hum
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/18/ai-society-humans-machines-culture-ethics"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Artificial Intelligence and Machine Learning – Multimedia"
+    excerpt: "Andre Esteva and colleagues have trained a neural network to identify the difference between harmless moles and potentially deadly skin conditions - with remarkable accuracy. Machine learning and artificial intelligence are changing the nature of ..."
+    publishedDateTime: 2023-08-16T11:37:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/topic-hub/artificial-intelligence-and-machine-learning/multimedia/5"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 54
+    images:
+      - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230820"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "ex4D7c9mF3vtHYtEtLd7ZOWF+J8+uHEWYjOoRtQ3GOzR9eFIZ3mXZyJiKKrv453DFuYkjPDwI041xEoqPuGKl86PmzpeLTKKUdpGcu0olvLe9uDldM3f90tEE3ibC8evVH1WLUXxfbuR6P0/Cu5uy44T9LaE7S1FtADx3UU9zGl97kV+vYnMDcUvk6wHopr81ny7nauHmKf4cAeXK+2XzsnhfOOPzMcV7mGTVRqIWzIrJY+m2szsOPIF9gs+uz//ojckwf3nWELH6xGjoY0kD7+ll8M0eBODQvr08ab5FvUYLonPP96qbhRSCGyUqGyb9BtG2yhlAGM/O/K3XrDp9Fcbkw/fEfsxHBXN7Ew8pARHbodKhyu9aYI55Spr3EaKyc60aw/W6faWSeu58kHnd7HGkjuUSOn7+Y6E67B3O4Lx87XJBBh70ljvgOx5vGrWn2+UvvRjBNOynELaDyDqEi5i6ZUzGu0VL358T/XIqjDYXXqUFzkz6GlRBLLpHmqe/GtqsPy54F5H/Vc3V4Qqlw==;I5AqtuTccnutKa4kZizfsA=="
 ---

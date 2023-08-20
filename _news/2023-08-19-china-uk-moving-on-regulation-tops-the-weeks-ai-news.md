@@ -38,6 +38,20 @@ related:
         width: 590
         height: 400
         isCached: true
+  - title: "US judge rules in favor of human ingenuity, denies copyright for AI art"
+    excerpt: "AI-created art lacks copyright protection. Verdict impacts AI's use of copyrighted content, shifts focus to human innovation."
+    publishedDateTime: 2023-08-20T10:06:00Z
+    webUrl: "https://cointelegraph.com/news/u-s-judge-denies-copyright-for-ai-art"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvYmUzMDJjMjMtNWJhOS00ZjVhLWJiMjgtMjgzYmZmOGY0ZjQ1LmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "QgtIpRwsIXsWm70iyhHAsY4f0AkferZHcsbjAUt9VKvmh2CJ/uCFNFC61oRcZwtYnVr/KVpyvJSz2Uc+FYnnAShimlQWYPnQocjtd/ZjJUxeVGPuLJyh6vGwUZfcPHbP4BZlFHUbOKa5CQLH3oJyXGjFR36GvGcW7+7cXHL2d4BGvYx4O1u3qpOhRLPqbX8BrtkhEgRer6grKYjYP+TGDjXQt9tOJMGRVA2uKqPWRfEZgu88SwTG5CNqH1Vr2btnNwZX6O38PeFkt8DZXWVyVAlMiT8QMU0TeRb1Ex7/KSImrvraXLgHpYwNOD3u6liHvPOThIlJISOCRySCTvb7/qDV1T2Pu2WXnkOx4MhZiVujflfMDZQ5rmW9vIDiPik1FZ7NYl2d+RcCGWO7bTc1ZyBPraN/wqL5tee/4RTNQaYVWw8rc5z4U+E1rW/42drCKa3iCgWtlFEDEkG3SKn1kQjrHuk3puWsq7dqg331wfH7yr1K+YJZICO5KFu1GdWksBi+vS+AHcmPbvNF+7h9SA==;qx2ayHxjoZkH6mTSubZ2eg=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Recipe for disaster? I tried Botatouille, BuzzFeed’s AI kitchen helper"
 excerpt: "I wondered whether a bot could transform the cooking experience – so I let it plan my meals for a day"
 publishedDateTime: 2023-08-20T08:01:00Z
-originalUrl: "https://www.theguardian.com/environment/2023/aug/20/botatouille-ai-recipe-buzzfeed?ref=mc.news"
-webUrl: "https://www.theguardian.com/environment/2023/aug/20/botatouille-ai-recipe-buzzfeed?ref=mc.news"
+originalUrl: "https://www.theguardian.com/environment/2023/aug/20/botatouille-ai-recipe-buzzfeed?ref=upstract.com"
+webUrl: "https://www.theguardian.com/environment/2023/aug/20/botatouille-ai-recipe-buzzfeed?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/environment/2023/aug/20/botatouille-ai-recipe-buzzfeed"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2023/aug/20/botatouille-ai-recipe-buzzfeed"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "ARR0bM1rQ4Mgwe19XetnSoKRsKSybcArODNwIQHgLGM5ux0prQzT/7zQZhn2S2A9WNM1N8yqAYCc546uez//Hvkwoa6L2vxYJbwA2+kj374QRan5Mf1Ly0MDgQ6SQmHvENhCM4H57D1+ckwWh3BotVNH2+vL+53q134cYjbIWr8S4mg5ijNxW5gsowyawMrT0bs94Xn6iTRZ6ls3wxnzOIsZTWvlPFN0ouyLOfuJj5MGmq8in/ND6ien4zFVjC5Cdnnkgy9tIvX2TV+3+Bgcwb/yxkAo0oNLlhAJtVXAAk4nM6QuW4c+3Mit+xBCSlNGKObWTDqUjRf9J0VSrZcxXKSXrlhH03WVME4Lb2WaG/A=;X5dkybcpEso2xj3gCGK2pg=="
+secured: "PWJg0XL5tNc12a4pHiD98ND54NpParn2jqyuf8SgVo/Gf9ZgvfCJvFfiF79pG3vklpwtVIB/Tg2y0yrmEMaa6a2FBsYmTO1OvKOkZ6hCnTr99qFmHqXonGbMpJGeiq5JV1MsimpeezOwAivnlWJAWylpj4uMKKYf5ZapF58mSMlZJ27yQrS1UgjXQqLrqkIPi2deeaIWz2uRs2u/OgQUb/YYnz5NCza87hRGWIM8qwyAvrWCHx0a2YtVctrDFIxKrpZVvZnNn0xcxLdAEVTQ8hZhqQqZP7AidgALoj23MlpDzGG8zeSvFoxh8F8NgY8Yeh1fekT1cLFdzxuN3I5nYdhl8B6JcQ2YM2gpKqxR4fg=;yqHwAw6voF2FBsu5AQ6p/w=="
 ---
 

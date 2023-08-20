@@ -55,6 +55,15 @@ related:
         width: 400
         height: 217
         isCached: true
+  - title: "AI poised to revolutionize construction"
+    excerpt: "Artificial intelligence is making its presence felt across the real estate industry. And its presence has extended into construction, as well. Builders are growing comfortable using drones ..."
+    publishedDateTime: 2023-08-16T11:46:00Z
+    webUrl: "https://therealdeal.com/national/2023/08/16/artificial-intelligence-poised-to-revolutionize-construction/"
+    type: article
+    provider:
+      name: The Real Deal
+      domain: therealdeal.com
+    quality: 19
 
 secured: "yyfnf+FfQOvuqZ7UZSMPqeswn4CH0qU30bBmlAHbnAUT3ilKKqQ8HJiCmqZA3EZAEp7dnHMMSvva7cmqaL6NQbf9IzlkskxZwLk3bynL6xx9lz4Ap0PBRDrPQaVPr62yz3JEoUEZyjF/ou+FaVmsPFC4RcbZTrslw0kI2gUe9gypJqe+yZWqhts07GjVPagLE6oKli8eAASnE+oogOx+7CysWSlps643KVf/uf1SKYFVxEmvsw7Cq1R8eaTX5iNn5qv62N3gJGIgGZuh0vvgL5AU6LtW3mV1gmEuGElpQsDHMGHIapPLrIxO68BsQlOrpRI3FIY9CrUDV6/zMG+XotWe6j6vcEDiUWFZnhqOXMon74nPc59xWFGq3L1zn9hl/1j1ll1JgASKQL5/Kh2St430fJIHQcFYsVGARIdLq3nsaBfY1RUcF9fG8H10XKgV/Of2w1Nhnkc4WlDKerD6tkEFq1OrS5iK2z84Eqcer0hrJtbTGVsmijs1SLe2pRPgxZrBocyR3HggaV5NixkGcw==;EHaFNwH0DPjpU+C7zMBQqg=="
 ---
